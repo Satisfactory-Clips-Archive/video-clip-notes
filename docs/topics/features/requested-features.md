@@ -14,6 +14,10 @@ date: Last Modified
 * [Pollution](../../topics/features/requested-features/pollution.md)
 * [Third-person View](../../topics/features/requested-features/third-person-view.md)
 
+## August 24th, 2021 Livestream
+* [Community FYI: Ratio Splitters would be a game changer](../../transcriptions/yt-VDkjRnWH6PQ.md) [https://www.youtube.com/watch?v=VDkjRnWH6PQ](https://www.youtube.com/watch?v=VDkjRnWH6PQ)
+* [Q&A: Are there plans for an option to tell the Train to hold at the Station until the dock is full?](../../transcriptions/yt-tkfbRxpk2m4.md) [https://www.youtube.com/watch?v=tkfbRxpk2m4](https://www.youtube.com/watch?v=tkfbRxpk2m4)
+
 ## August 17th, 2021 Livestream
 * [Q&A: Any chance for improved controller support?](../../transcriptions/yt-jZYkquJsDyM.md) [https://www.youtube.com/watch?v=jZYkquJsDyM](https://www.youtube.com/watch?v=jZYkquJsDyM)
 

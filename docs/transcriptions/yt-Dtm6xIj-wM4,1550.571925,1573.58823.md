@@ -9,7 +9,7 @@ topics:
 # [February 6th, 2019 Livestream](../2019-02-06.md)
 ## Q&A: Are there going to be free updates after the game is released, or is it all going to be DLCs?
 https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1550&end=1574
-This question was possibly duplicated with a more recent answer: [June 22nd, 2021 Livestream Q&A: After the game fully releases will there be any Updates that add game-altering factory design?](./yt-oVm-OJKlrZM.md) [https://www.youtube.com/watch?v=oVm-OJKlrZM](https://www.youtube.com/watch?v=oVm-OJKlrZM)
+This question was possibly duplicated with a more recent answer: [August 24th, 2021 Livestream Q&A: Will there be updates after 1.0?](./yt-LXG_NjB0cr4.md) [https://www.youtube.com/watch?v=LXG_NjB0cr4](https://www.youtube.com/watch?v=LXG_NjB0cr4)
 
 
 ### Topics

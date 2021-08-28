@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > Transportation > [Vehicles](../../../../topics/features/transportation/vehicles.md) > Explorer
 
+## August 24th, 2021 Livestream
+* [Q&A: Will the Explorer ever get a mounted nail gun?](../../../../transcriptions/yt-cdVGvprw5tc.md) [https://www.youtube.com/watch?v=cdVGvprw5tc](https://www.youtube.com/watch?v=cdVGvprw5tc)
+
 ## July 13th, 2021 Livestream
 * [Q&A: Two-people Explorer, please](../../../../transcriptions/yt-hnYfzcUnUQE.md) [https://www.youtube.com/watch?v=hnYfzcUnUQE](https://www.youtube.com/watch?v=hnYfzcUnUQE)
 

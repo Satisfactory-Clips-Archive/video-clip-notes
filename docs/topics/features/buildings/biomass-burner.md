@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > Biomass Burner
 
+## August 24th, 2021 Livestream
+* [Q&A: Anyone running Particle Accelerators in Biomass Generators?](../../../transcriptions/yt-FidrasGxKm4.md) [https://www.youtube.com/watch?v=FidrasGxKm4](https://www.youtube.com/watch?v=FidrasGxKm4)
+
 ## July 13th, 2021 Livestream
 * [Q&A: Any thoughts of adding a method of growing Biomass, Farms maybe?](../../../transcriptions/yt-M9XrXjf-GdU.md) [https://www.youtube.com/watch?v=M9XrXjf-GdU](https://www.youtube.com/watch?v=M9XrXjf-GdU)
 

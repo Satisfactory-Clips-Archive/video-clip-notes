@@ -14,6 +14,10 @@ date: Last Modified
 * [Rifle](../../topics/features/equipment/rifle.md)
 * [Zip Lines](../../topics/features/equipment/zip-lines.md)
 
+## August 24th, 2021 Livestream
+* [Snutt Talk: Gas Masks not working inside Vehicles](../../transcriptions/yt-sAPYPntJ52E.md) [https://www.youtube.com/watch?v=sAPYPntJ52E](https://www.youtube.com/watch?v=sAPYPntJ52E)
+* [Q&A: Will the Explorer ever get a mounted nail gun?](../../transcriptions/yt-cdVGvprw5tc.md) [https://www.youtube.com/watch?v=cdVGvprw5tc](https://www.youtube.com/watch?v=cdVGvprw5tc)
+
 ## August 17th, 2021 Livestream
 * [Q&A: Same bug as the equipment that flies in the tube?](../../transcriptions/yt-r7lFsWlRIPE.md) [https://www.youtube.com/watch?v=r7lFsWlRIPE](https://www.youtube.com/watch?v=r7lFsWlRIPE)
 * [Q&A: Are there any plans for new weapons?](../../transcriptions/yt-cZUm0MioIek.md) [https://www.youtube.com/watch?v=cZUm0MioIek](https://www.youtube.com/watch?v=cZUm0MioIek)

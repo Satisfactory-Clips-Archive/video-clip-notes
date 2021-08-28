@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > Particle Accelerator
 
+## August 24th, 2021 Livestream
+* [Q&A: Anyone running Particle Accelerators in Biomass Generators?](../../../transcriptions/yt-FidrasGxKm4.md) [https://www.youtube.com/watch?v=FidrasGxKm4](https://www.youtube.com/watch?v=FidrasGxKm4)
+
 ## August 10th, 2021 Livestream
 * [Q&A: Would it be possible to craft Power Shards with the Particle Accelerator?](../../../transcriptions/yt-MKMFfY4DZlg.md) [https://www.youtube.com/watch?v=MKMFfY4DZlg](https://www.youtube.com/watch?v=MKMFfY4DZlg)
 

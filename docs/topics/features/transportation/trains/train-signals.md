@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > Transportation > [Trains](../../../../topics/features/transportation/trains.md) > Train Signals
 
+## August 24th, 2021 Livestream
+* [Q&A: Will Trains collide with land or just other Trains?](../../../../transcriptions/yt-JDKfpaRnnI4.md) [https://www.youtube.com/watch?v=JDKfpaRnnI4](https://www.youtube.com/watch?v=JDKfpaRnnI4)
+
 ## August 17th, 2021 Livestream
 * [Q&A: Train system rework?](../../../../transcriptions/yt-wCZKwW_RtXg.md) [https://www.youtube.com/watch?v=wCZKwW_RtXg](https://www.youtube.com/watch?v=wCZKwW_RtXg)
 

@@ -5,6 +5,18 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Railings
 
+## August 24th, 2021 Livestream
+* [Q&A: How many AWESOME points for a second of Rail grind?](../../../transcriptions/yt-Gw9-dD_ovEk.md) [https://www.youtube.com/watch?v=Gw9-dD_ovEk](https://www.youtube.com/watch?v=Gw9-dD_ovEk)
+* [State of Dev: Ramp Rails](../../../transcriptions/yt-r1ltr8UBfT4.md) [https://www.youtube.com/watch?v=r1ltr8UBfT4](https://www.youtube.com/watch?v=r1ltr8UBfT4)
+* [Q&A: Will we get 45 degree railings alongside the Ramp Railings?](../../../transcriptions/yt-5RnAhqgllT4.md) [https://www.youtube.com/watch?v=5RnAhqgllT4](https://www.youtube.com/watch?v=5RnAhqgllT4)
+* [Q&A: Can the new Rails be painted?](../../../transcriptions/yt-XBP-e-b-C00.md) [https://www.youtube.com/watch?v=XBP-e-b-C00](https://www.youtube.com/watch?v=XBP-e-b-C00)
+* [Q&A: Will Railings snap to all kinda of ramps?](../../../transcriptions/yt-qtyPULKrJyE.md) [https://www.youtube.com/watch?v=qtyPULKrJyE](https://www.youtube.com/watch?v=qtyPULKrJyE)
+* [Snutt Talk: Factory Cart shot in Ramp Railings teaser](../../../transcriptions/yt-P7tvzz24nkU.md) [https://www.youtube.com/watch?v=P7tvzz24nkU](https://www.youtube.com/watch?v=P7tvzz24nkU)
+* [Q&A: Skate park confirmed?](../../../transcriptions/yt-LRUNHLC-E2M.md) [https://www.youtube.com/watch?v=LRUNHLC-E2M](https://www.youtube.com/watch?v=LRUNHLC-E2M)
+* [Community FYI: Rail grinding is more important than golf](../../../transcriptions/yt-NZQQWBDN7QU.md) [https://www.youtube.com/watch?v=NZQQWBDN7QU](https://www.youtube.com/watch?v=NZQQWBDN7QU)
+* [Q&A: Are the old-style Rails we currently have now going to have a Ramp version as well?](../../../transcriptions/yt-0nc0vXpzr8o.md) [https://www.youtube.com/watch?v=0nc0vXpzr8o](https://www.youtube.com/watch?v=0nc0vXpzr8o)
+* [Q&A: Can you slide on the Rails?](../../../transcriptions/yt-wgqxnxuo_Vc.md) [https://www.youtube.com/watch?v=wgqxnxuo_Vc](https://www.youtube.com/watch?v=wgqxnxuo_Vc)
+
 ## July 20th, 2021 Livestream
 * [Q&A: Fences that can go around corners?](../../../transcriptions/yt-RFKNtwyObH4.md) [https://www.youtube.com/watch?v=RFKNtwyObH4](https://www.youtube.com/watch?v=RFKNtwyObH4)
 

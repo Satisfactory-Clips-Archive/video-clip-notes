@@ -13,7 +13,7 @@ topics:
 # [June 22nd, 2018 Q&A](../2018-06-22.md)
 ## Q&A: Plans for post-launch?
 https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=120&end=177
-This question was possibly duplicated with a more recent answer: [June 22nd, 2021 Livestream Q&A: After the game fully releases will there be any Updates that add game-altering factory design?](./yt-oVm-OJKlrZM.md) [https://www.youtube.com/watch?v=oVm-OJKlrZM](https://www.youtube.com/watch?v=oVm-OJKlrZM)
+This question was possibly duplicated with a more recent answer: [August 24th, 2021 Livestream Q&A: Will there be updates after 1.0?](./yt-LXG_NjB0cr4.md) [https://www.youtube.com/watch?v=LXG_NjB0cr4](https://www.youtube.com/watch?v=LXG_NjB0cr4)
 
 
 ### Topics

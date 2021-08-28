@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > Features > Paint
 
+## August 24th, 2021 Livestream
+* [Q&A: Can the new Rails be painted?](../../transcriptions/yt-XBP-e-b-C00.md) [https://www.youtube.com/watch?v=XBP-e-b-C00](https://www.youtube.com/watch?v=XBP-e-b-C00)
+
 ## August 17th, 2021 Livestream
 * [Q&A: What about the Vehicles being paintable?](../../transcriptions/yt-C18EauRatIw.md) [https://www.youtube.com/watch?v=C18EauRatIw](https://www.youtube.com/watch?v=C18EauRatIw)
 * [Community FYI: Trains change colour when docking with stations if the stations are different colours](../../transcriptions/yt-UUOheBkifOY.md) [https://www.youtube.com/watch?v=UUOheBkifOY](https://www.youtube.com/watch?v=UUOheBkifOY)

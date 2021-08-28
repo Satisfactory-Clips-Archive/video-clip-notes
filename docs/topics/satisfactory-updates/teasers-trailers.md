@@ -13,6 +13,9 @@ date: Last Modified
 * [Update 5 Patch Notes Video](../../topics/satisfactory-updates/teasers-trailers/update-5-patch-notes-video.md)
 * [Update 5 Teasers](../../topics/satisfactory-updates/teasers-trailers/update-5-teasers.md)
 
+## August 24th, 2021 Livestream
+* [Snutt Talk: Showcasing features while they're still in development](../../transcriptions/yt-POfj9PW68TI.md) [https://www.youtube.com/watch?v=POfj9PW68TI](https://www.youtube.com/watch?v=POfj9PW68TI)
+
 ## June 15th, 2021 Livestream
 * [Q&A: TL;DR on State of Dev?](../../transcriptions/yt-AJZBEJHOvIM.md) [https://www.youtube.com/watch?v=AJZBEJHOvIM](https://www.youtube.com/watch?v=AJZBEJHOvIM)
 * [Community FYI: Thanks for the stream, please don't stop these streams](../../transcriptions/yt-o6REds5XjcI.md) [https://www.youtube.com/watch?v=o6REds5XjcI](https://www.youtube.com/watch?v=o6REds5XjcI)

@@ -8,7 +8,7 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Can you add ability to deselect with ctrl?
 https://www.youtube.com/watch?v=CjWFoMF7EIo
-This question was possibly duplicated with a more recent answer: [December 15th, 2020 Livestream Q&A: Can dismantle mode have an ignore function maybe?](./yt-0KLJ2_1P_uk.md) [https://www.youtube.com/watch?v=0KLJ2_1P_uk](https://www.youtube.com/watch?v=0KLJ2_1P_uk)
+This question was possibly duplicated with a more recent answer: [August 24th, 2021 Livestream Q&A: Having unselect in Mass Dismantle, though?](./yt-bAbuez_N2bc.md) [https://www.youtube.com/watch?v=bAbuez_N2bc](https://www.youtube.com/watch?v=bAbuez_N2bc)
 
 
 ### Topics

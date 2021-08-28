@@ -12,6 +12,10 @@ date: Last Modified
 * [Tractor](../../../topics/features/transportation/vehicles/tractor.md)
 * [Truck](../../../topics/features/transportation/vehicles/truck.md)
 
+## August 24th, 2021 Livestream
+* [Snutt Talk: Gas Masks not working inside Vehicles](../../../transcriptions/yt-sAPYPntJ52E.md) [https://www.youtube.com/watch?v=sAPYPntJ52E](https://www.youtube.com/watch?v=sAPYPntJ52E)
+* [Q&A: Any plans on a harvester Vehicle to get biomass?](../../../transcriptions/yt-fDpxXnlkDXY.md) [https://www.youtube.com/watch?v=fDpxXnlkDXY](https://www.youtube.com/watch?v=fDpxXnlkDXY)
+
 ## August 17th, 2021 Livestream
 * [Q&A: Why isn't gas inside the Vehicles?](../../../transcriptions/yt-pZ64H9SULDQ.md) [https://www.youtube.com/watch?v=pZ64H9SULDQ](https://www.youtube.com/watch?v=pZ64H9SULDQ)
 * [Snutt & Jace Talk: Lights on Vehicles](../../../transcriptions/yt-zthUcZHeiu0.md) [https://www.youtube.com/watch?v=zthUcZHeiu0](https://www.youtube.com/watch?v=zthUcZHeiu0)

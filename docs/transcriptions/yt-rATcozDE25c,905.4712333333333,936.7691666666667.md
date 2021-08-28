@@ -8,6 +8,8 @@ topics:
 # [October 1st, 2020 Q&A](../2020-10-01.md)
 ## Q&A: Will you add cheese?
 https://youtube.com/embed/rATcozDE25c?autoplay=1&start=905&end=937
+This question was possibly duplicated with a more recent answer: August 24th, 2021 Livestream Q&A: Will there be cheese? [https://www.youtube.com/watch?v=IWbaPON5Dq0](https://www.youtube.com/watch?v=IWbaPON5Dq0)
+
 
 ### Topics
 * [Features > Possible Features > Farming](../topics/features/possible-features/farming.md)

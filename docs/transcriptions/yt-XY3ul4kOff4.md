@@ -12,7 +12,7 @@ topics:
 # [May 4th, 2021 Livestream](../2021-05-04.md)
 ## Q&A: Recipes subject to change again?
 https://www.youtube.com/watch?v=XY3ul4kOff4
-This question was possibly duplicated with a more recent answer: [June 29th, 2021 Livestream Q&A: Are we going to get changes to the basic material Recipes?](./yt-utp7TQEksi0.md) [https://www.youtube.com/watch?v=utp7TQEksi0](https://www.youtube.com/watch?v=utp7TQEksi0)
+This question was possibly duplicated with a more recent answer: [August 24th, 2021 Livestream Q&A: Are there going to be changes to Recipes in Update 5?](./yt-KZpGn66FOnI.md) [https://www.youtube.com/watch?v=KZpGn66FOnI](https://www.youtube.com/watch?v=KZpGn66FOnI)
 
 
 ### Topics

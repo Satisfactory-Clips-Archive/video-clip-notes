@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > Miner
 
+## August 24th, 2021 Livestream
+* [Q&A: Is there going to be a Mk.6 Belt for Mk.3 Miner at 250% clock speed?](../../../transcriptions/yt-x2VBWUAqpoQ.md) [https://www.youtube.com/watch?v=x2VBWUAqpoQ](https://www.youtube.com/watch?v=x2VBWUAqpoQ)
+* [Q&A: Copy/paste settings from Miners, Fluid Extractors, Power Plants, when?](../../../transcriptions/yt-4cmv1GtvB18.md) [https://www.youtube.com/watch?v=4cmv1GtvB18](https://www.youtube.com/watch?v=4cmv1GtvB18)
+
 ## August 10th, 2021 Livestream
 * [Q&A: Two exits on Mk.3 Miner?](../../../transcriptions/yt-96WELYhyRLA.md) [https://www.youtube.com/watch?v=96WELYhyRLA](https://www.youtube.com/watch?v=96WELYhyRLA)
 

@@ -8,7 +8,7 @@ topics:
 # [May 18th, 2021 Livestream](../2021-05-18.md)
 ## Q&A: Are there any plans for teleportation?
 https://www.youtube.com/watch?v=RyU3sk4C5d8
-This question was possibly duplicated with a more recent answer: [June 8th, 2021 Livestream Q&A: Please, teleporters?](./yt-dNPT8HQ3qRk.md) [https://www.youtube.com/watch?v=dNPT8HQ3qRk](https://www.youtube.com/watch?v=dNPT8HQ3qRk)
+This question was possibly duplicated with a more recent answer: [August 24th, 2021 Livestream Q&A: Will there ever be teleportation?](./yt-XeUtzOBJhrA.md) [https://www.youtube.com/watch?v=XeUtzOBJhrA](https://www.youtube.com/watch?v=XeUtzOBJhrA)
 
 
 ### Topics

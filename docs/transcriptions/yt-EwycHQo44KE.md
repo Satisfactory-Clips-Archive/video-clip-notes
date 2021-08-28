@@ -9,7 +9,7 @@ topics:
 # [May 4th, 2021 Livestream](../2021-05-04.md)
 ## Q&A: Update on Cup Merch?
 https://www.youtube.com/watch?v=EwycHQo44KE
-This question was possibly duplicated with a more recent answer: [August 17th, 2021 Livestream Q&A: When can I buy my official FICSIT Mug replicas?](./yt-uUr24sBhqmI.md) [https://www.youtube.com/watch?v=uUr24sBhqmI](https://www.youtube.com/watch?v=uUr24sBhqmI)
+This question was possibly duplicated with a more recent answer: [August 24th, 2021 Livestream Q&A: How's the mug going along?](./yt-D_6lMCAJw6o.md) [https://www.youtube.com/watch?v=D_6lMCAJw6o](https://www.youtube.com/watch?v=D_6lMCAJw6o)
 
 
 ### Topics

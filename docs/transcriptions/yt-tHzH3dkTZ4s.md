@@ -9,7 +9,7 @@ topics:
 # [January 19th, 2021 Livestream](../2021-01-19.md)
 ## Q&A: Will there be ways to see your total production per minute?
 https://www.youtube.com/watch?v=tHzH3dkTZ4s
-This question was possibly duplicated with a more recent answer: [July 6th, 2021 Livestream Q&A: Go implement HUB computer, I want to see graphs & statistics?](./yt-aA0KIR6AKC8.md) [https://www.youtube.com/watch?v=aA0KIR6AKC8](https://www.youtube.com/watch?v=aA0KIR6AKC8)
+This question was possibly duplicated with a more recent answer: [August 24th, 2021 Livestream Q&A: Are there going to be stats on The HUB computer at some point?](./yt-LXjxyiB6F3s.md) [https://www.youtube.com/watch?v=LXjxyiB6F3s](https://www.youtube.com/watch?v=LXjxyiB6F3s)
 
 
 ### Topics

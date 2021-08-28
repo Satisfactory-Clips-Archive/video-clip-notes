@@ -6,6 +6,11 @@ date: Last Modified
 # [Topics](../../../topics.md) > Features > [Crafting](../../../topics/features/crafting.md) > Recipes
 * [Alternate Recipes](../../../topics/features/crafting/recipes/alternate-recipes.md)
 
+## August 24th, 2021 Livestream
+* [Q&A: Are there going to be changes to Recipes in Update 5?](../../../transcriptions/yt-KZpGn66FOnI.md) [https://www.youtube.com/watch?v=KZpGn66FOnI](https://www.youtube.com/watch?v=KZpGn66FOnI)
+* [Q&A: Do you intend to add more Ores to have new Recipes such as glass & derivatives coming from it?](../../../transcriptions/yt-Ae-z-5fkjU8.md) [https://www.youtube.com/watch?v=Ae-z-5fkjU8](https://www.youtube.com/watch?v=Ae-z-5fkjU8)
+* [Q&A: Will Update 5 change Recipes?](../../../transcriptions/yt-JnA9OzdPHEI.md) [https://www.youtube.com/watch?v=JnA9OzdPHEI](https://www.youtube.com/watch?v=JnA9OzdPHEI)
+
 ## June 29th, 2021 Livestream
 * [Q&A: Are we going to get changes to the basic material Recipes?](../../../transcriptions/yt-utp7TQEksi0.md) [https://www.youtube.com/watch?v=utp7TQEksi0](https://www.youtube.com/watch?v=utp7TQEksi0)
 * [Q&A: How do you figure out the Recipes?](../../../transcriptions/yt-I6mpLei5WZk.md) [https://www.youtube.com/watch?v=I6mpLei5WZk](https://www.youtube.com/watch?v=I6mpLei5WZk)

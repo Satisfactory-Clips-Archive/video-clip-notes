@@ -5,6 +5,12 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Requested Features](../../../topics/features/requested-features.md) > Golf
 
+## August 24th, 2021 Livestream
+* [Snutt Talk: Golf](../../../transcriptions/yt-6viglt7CXFg.md) [https://www.youtube.com/watch?v=6viglt7CXFg](https://www.youtube.com/watch?v=6viglt7CXFg)
+* [Community FYI: Golf hit 1000](../../../transcriptions/yt-OyDk4a1IXkg.md) [https://www.youtube.com/watch?v=OyDk4a1IXkg](https://www.youtube.com/watch?v=OyDk4a1IXkg)
+* [Q&A: How do I vote for Golf?](../../../transcriptions/yt-9WR_M44lE18.md) [https://www.youtube.com/watch?v=9WR_M44lE18](https://www.youtube.com/watch?v=9WR_M44lE18)
+* [Community FYI: Rail grinding is more important than golf](../../../transcriptions/yt-NZQQWBDN7QU.md) [https://www.youtube.com/watch?v=NZQQWBDN7QU](https://www.youtube.com/watch?v=NZQQWBDN7QU)
+
 ## August 17th, 2021 Livestream
 * [Snutt & Jace Talk: Golf](../../../transcriptions/yt-WcHVMJwEpKU.md) [https://www.youtube.com/watch?v=WcHVMJwEpKU](https://www.youtube.com/watch?v=WcHVMJwEpKU)
 * [Q&A: Will the Lizard Doggo act as a Golf caddy when Golf gets implemented?](../../../transcriptions/yt-fzhc__1B2L8.md) [https://www.youtube.com/watch?v=fzhc__1B2L8](https://www.youtube.com/watch?v=fzhc__1B2L8)

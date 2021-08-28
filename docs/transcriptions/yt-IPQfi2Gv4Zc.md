@@ -8,7 +8,7 @@ topics:
 # [February 16th, 2021 Livestream](../2021-02-16.md)
 ## Q&A: When is 1.0 coming?
 https://www.youtube.com/watch?v=IPQfi2Gv4Zc
-This question was possibly duplicated with a more recent answer: [August 10th, 2021 Livestream Q&A: Is there a goal date that you want the game finished?](./yt-_VPyUP6E2pE.md) [https://www.youtube.com/watch?v=_VPyUP6E2pE](https://www.youtube.com/watch?v=_VPyUP6E2pE)
+This question was possibly duplicated with a more recent answer: [August 24th, 2021 Livestream Q&A: Projected date for 1.0?](./yt-HgHTtGAk-Jk.md) [https://www.youtube.com/watch?v=HgHTtGAk-Jk](https://www.youtube.com/watch?v=HgHTtGAk-Jk)
 
 
 ### Topics

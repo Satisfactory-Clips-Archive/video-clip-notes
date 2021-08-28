@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > Satisfactory Prototypes
 
+## August 24th, 2021 Livestream
+* [Q&A: Will there ever be teleportation?](../../transcriptions/yt-XeUtzOBJhrA.md) [https://www.youtube.com/watch?v=XeUtzOBJhrA](https://www.youtube.com/watch?v=XeUtzOBJhrA)
+
 ## July 23rd, 2021 Livestream
 * [Tobias & Jace Talk: Drone WIP Footage - First implementation of Drones](../../transcriptions/yt-FyOHDcxtEUA,536.6333333333333,562.6666666666666.md) [https://youtube.com/clip/UgyaHJbh1qj9vMOb5k94AaABCQ](https://youtube.com/clip/UgyaHJbh1qj9vMOb5k94AaABCQ)
 * [Tobias & Jace Talk: Drone WIP Footage - First implementation of the Drone World Grid](../../transcriptions/yt-FyOHDcxtEUA,562.7,619.3.md) [https://youtube.com/clip/UgwYho04_UJK5gzjLJ14AaABCQ](https://youtube.com/clip/UgwYho04_UJK5gzjLJ14AaABCQ)

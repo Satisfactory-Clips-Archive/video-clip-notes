@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Creatures](../../../topics/environment/creatures.md) > Space Giraffe-Tick-Penguin-Whale Thing
 
+## August 24th, 2021 Livestream
+* [Q&A: Will fixing the AI pathing for the Crab also make the Bean non-derpy?](../../../transcriptions/yt-bAyZfwp-yyI.md) [https://www.youtube.com/watch?v=bAyZfwp-yyI](https://www.youtube.com/watch?v=bAyZfwp-yyI)
+
 ## August 17th, 2021 Livestream
 * [Q&A: Is there an official name for the confusing creature?](../../../transcriptions/yt-dspo4FmBxqI.md) [https://www.youtube.com/watch?v=dspo4FmBxqI](https://www.youtube.com/watch?v=dspo4FmBxqI)
 

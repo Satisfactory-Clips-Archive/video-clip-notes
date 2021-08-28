@@ -8,7 +8,7 @@ topics:
 # [April 6th, 2021 Livestream](../2021-04-06.md)
 ## Q&A: Dedicated Servers?
 https://www.youtube.com/watch?v=nUtF3e6i_lU
-This question was possibly duplicated with a more recent answer: [August 3rd, 2021 Livestream Q&A: Dedicated Servers?](./yt-RL544J64HsY.md) [https://www.youtube.com/watch?v=RL544J64HsY](https://www.youtube.com/watch?v=RL544J64HsY)
+This question was possibly duplicated with a more recent answer: [August 24th, 2021 Livestream Q&A: Dedicated Servers?](./yt--smbc1rq3iE.md) [https://www.youtube.com/watch?v=-smbc1rq3iE](https://www.youtube.com/watch?v=-smbc1rq3iE)
 
 
 ### Topics

@@ -11,6 +11,10 @@ date: Last Modified
 * [Resources](../topics/environment/resources.md)
 * [World Map](../topics/environment/world-map.md)
 
+## August 24th, 2021 Livestream
+* [Q&A: Is removing Crash Sites by deconstruction even for no parts something to do to clear the Map?](../transcriptions/yt-towkJfDEAvo.md) [https://www.youtube.com/watch?v=towkJfDEAvo](https://www.youtube.com/watch?v=towkJfDEAvo)
+* [Q&A: Are the big rock arches going to be explained in 1.0, they have a bone/rib cage feel to them?](../transcriptions/yt-qaBAdXY-5Lk.md) [https://www.youtube.com/watch?v=qaBAdXY-5Lk](https://www.youtube.com/watch?v=qaBAdXY-5Lk)
+
 ## August 17th, 2021 Livestream
 * [Q&A: Any chance of a fan or a vent to neutralise the gas towers?](../transcriptions/yt-bA-jzp-iFV8.md) [https://www.youtube.com/watch?v=bA-jzp-iFV8](https://www.youtube.com/watch?v=bA-jzp-iFV8)
 * [Q&A: Adjustable day/night cycle?](../transcriptions/yt-fgduj_wvIkQ.md) [https://www.youtube.com/watch?v=fgduj_wvIkQ](https://www.youtube.com/watch?v=fgduj_wvIkQ)

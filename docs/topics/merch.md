@@ -7,6 +7,9 @@ date: Last Modified
 * [EU Merch Store](../topics/merch/eu-merch-store.md)
 * [Merch Prototypes](../topics/merch/merch-prototypes.md)
 
+## August 24th, 2021 Livestream
+* [Q&A: How's the mug going along?](../transcriptions/yt-D_6lMCAJw6o.md) [https://www.youtube.com/watch?v=D_6lMCAJw6o](https://www.youtube.com/watch?v=D_6lMCAJw6o)
+
 ## August 17th, 2021 Livestream
 * [State of Dev: EU Merch Store + Mug](../transcriptions/yt-VoxNe9_Po9s.md) [https://www.youtube.com/watch?v=VoxNe9_Po9s](https://www.youtube.com/watch?v=VoxNe9_Po9s)
 * [Q&A: When can I buy my official FICSIT Mug replicas?](../transcriptions/yt-uUr24sBhqmI.md) [https://www.youtube.com/watch?v=uUr24sBhqmI](https://www.youtube.com/watch?v=uUr24sBhqmI)

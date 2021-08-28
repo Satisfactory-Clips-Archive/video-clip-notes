@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Creatures](../../../topics/environment/creatures.md) > Crab Boss
 
+## August 24th, 2021 Livestream
+* [Q&A: Will fixing the AI pathing for the Crab also make the Bean non-derpy?](../../../transcriptions/yt-bAyZfwp-yyI.md) [https://www.youtube.com/watch?v=bAyZfwp-yyI](https://www.youtube.com/watch?v=bAyZfwp-yyI)
+* [Community FYI: Been waiting for the Crab Boss for so long](../../../transcriptions/yt-OYXRpqM4Eec.md) [https://www.youtube.com/watch?v=OYXRpqM4Eec](https://www.youtube.com/watch?v=OYXRpqM4Eec)
+
 ## August 10th, 2021 Livestream
 * [Community FYI: Didn't know I had arachnophobia until I played this game](../../../transcriptions/yt-y4lTTsp9h9Q.md) [https://www.youtube.com/watch?v=y4lTTsp9h9Q](https://www.youtube.com/watch?v=y4lTTsp9h9Q)
 * [Jace Talk: Yeah, there is a crab](../../../transcriptions/yt--q2ppE6vZVU.md) [https://www.youtube.com/watch?v=-q2ppE6vZVU](https://www.youtube.com/watch?v=-q2ppE6vZVU)

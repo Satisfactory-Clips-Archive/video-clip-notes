@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Teasers & Trailers](../../../topics/satisfactory-updates/teasers-trailers.md) > Update 4 Teasers
 
+## August 24th, 2021 Livestream
+* [Snutt Talk: Showcasing features while they're still in development](../../../transcriptions/yt-POfj9PW68TI.md) [https://www.youtube.com/watch?v=POfj9PW68TI](https://www.youtube.com/watch?v=POfj9PW68TI)
+
 ## June 29th, 2021 Livestream
 * [Q&A: Was the Update 4 Trailer music written for you?](../../../transcriptions/yt-yXa-4uTFKJ0.md) [https://www.youtube.com/watch?v=yXa-4uTFKJ0](https://www.youtube.com/watch?v=yXa-4uTFKJ0)
 

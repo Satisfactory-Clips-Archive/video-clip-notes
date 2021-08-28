@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Coffee Stainers](../../../topics/coffee-stainers.md) > [Snutt](../../../topics/coffee-stainers/snutt.md) > Snutt Burger Time
 
+## August 24th, 2021 Livestream
+* [Q&A: Are you going to get Burger again tonight?](../../../transcriptions/yt-AKlWjq3rjqk.md) [https://www.youtube.com/watch?v=AKlWjq3rjqk](https://www.youtube.com/watch?v=AKlWjq3rjqk)
+
 ## August 17th, 2021 Livestream
 * [Q&A: Is Snutt having burger tonight?](../../../transcriptions/yt-ndibN_JSy8o.md) [https://www.youtube.com/watch?v=ndibN_JSy8o](https://www.youtube.com/watch?v=ndibN_JSy8o)
 

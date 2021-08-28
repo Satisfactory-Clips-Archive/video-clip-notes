@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > Seasonal Events
 * [FICS⁕MAS](../../topics/satisfactory-updates/seasonal-events/fics-mas.md)
 
+## August 24th, 2021 Livestream
+* [Q&A: Any new rumours about in-game Events, or whether FICS⁕MAS will be coming back?](../../transcriptions/yt-GR0xqeexmGI.md) [https://www.youtube.com/watch?v=GR0xqeexmGI](https://www.youtube.com/watch?v=GR0xqeexmGI)
+
 ## August 10th, 2021 Livestream
 * [Q&A: FICS'oween event?](../../transcriptions/yt-56NgRh-X8ME.md) [https://www.youtube.com/watch?v=56NgRh-X8ME](https://www.youtube.com/watch?v=56NgRh-X8ME)
 

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Crafting](../../../topics/features/crafting.md) > Superposition Oscillator
 
+## August 24th, 2021 Livestream
+* [Q&A: What's the story behind the two FICS⁕MAS items?](../../../transcriptions/yt--Z0gUaZ6k_0.md) [https://www.youtube.com/watch?v=-Z0gUaZ6k_0](https://www.youtube.com/watch?v=-Z0gUaZ6k_0)
+
 ## July 13th, 2021 Livestream
 * Q&A: Will the Quantum Computer or Superposition Oscillator come in Update 5? [https://www.youtube.com/watch?v=vlKol_rSeM0](https://www.youtube.com/watch?v=vlKol_rSeM0)
 

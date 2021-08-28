@@ -6,6 +6,13 @@ date: Last Modified
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > User Interface
 * [Holograms](../../topics/technology/user-interface/holograms.md)
 
+## August 24th, 2021 Livestream
+* [Q&A: When will the Power Shards show up in the UI for Water Extractors?](../../transcriptions/yt-YhVyhhj6INQ.md) [https://www.youtube.com/watch?v=YhVyhhj6INQ](https://www.youtube.com/watch?v=YhVyhhj6INQ)
+* [Q&A: Copy/paste settings from Miners, Fluid Extractors, Power Plants, when?](../../transcriptions/yt-4cmv1GtvB18.md) [https://www.youtube.com/watch?v=4cmv1GtvB18](https://www.youtube.com/watch?v=4cmv1GtvB18)
+* [Q&A: Will Turbofuel work in the Jetpack in future?](../../transcriptions/yt-fo9YWVJyuVo.md) [https://www.youtube.com/watch?v=fo9YWVJyuVo](https://www.youtube.com/watch?v=fo9YWVJyuVo)
+* [Q&A: Will there be a higher amount of Mass Destruction at some point?](../../transcriptions/yt-aAxfKAh1DNk.md) [https://www.youtube.com/watch?v=aAxfKAh1DNk](https://www.youtube.com/watch?v=aAxfKAh1DNk)
+* [Q&A: Having unselect in Mass Dismantle, though?](../../transcriptions/yt-bAbuez_N2bc.md) [https://www.youtube.com/watch?v=bAbuez_N2bc](https://www.youtube.com/watch?v=bAbuez_N2bc)
+
 ## August 17th, 2021 Livestream
 * [Q&A: Have you tossed around the idea of opening a Building's recipe menu from further away?](../../transcriptions/yt-GpX8z1kEuC4.md) [https://www.youtube.com/watch?v=GpX8z1kEuC4](https://www.youtube.com/watch?v=GpX8z1kEuC4)
 

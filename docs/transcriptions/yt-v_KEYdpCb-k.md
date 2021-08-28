@@ -9,7 +9,7 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Elevator for Vehicles & Players?
 https://www.youtube.com/watch?v=v_KEYdpCb-k
-This question was possibly duplicated with a more recent answer: [August 17th, 2021 Livestream Q&A: Elevators?](./yt-QFluxC4JyLI.md) [https://www.youtube.com/watch?v=QFluxC4JyLI](https://www.youtube.com/watch?v=QFluxC4JyLI)
+This question was possibly duplicated with a more recent answer: [August 24th, 2021 Livestream Q&A: Any plans on an actual Elevator?](./yt-Ot_nXF5yBfU.md) [https://www.youtube.com/watch?v=Ot_nXF5yBfU](https://www.youtube.com/watch?v=Ot_nXF5yBfU)
 
 
 ### Topics

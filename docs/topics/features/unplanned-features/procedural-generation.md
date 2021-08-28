@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Unplanned Features](../../../topics/features/unplanned-features.md) > Procedural Generation
 
+## August 24th, 2021 Livestream
+* [Q&A: Would it be possible to have a Map Randomly Generated in Satisfactory?](../../../transcriptions/yt-1AOF1qFxGm0.md) [https://www.youtube.com/watch?v=1AOF1qFxGm0](https://www.youtube.com/watch?v=1AOF1qFxGm0)
+
 ## June 29th, 2021 Livestream
 * [Q&A: Any plans for random map generation?](../../../transcriptions/yt-Z9c7weKgaz0.md) [https://www.youtube.com/watch?v=Z9c7weKgaz0](https://www.youtube.com/watch?v=Z9c7weKgaz0)
 

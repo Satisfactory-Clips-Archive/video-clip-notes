@@ -9,7 +9,7 @@ topics:
 # [September 29th, 2020 Livestream](../2020-09-29.md)
 ## Q&A: When are we getting a Production Overview in the game?
 https://www.youtube.com/watch?v=OnK4DcHAB4o
-This question was possibly duplicated with a more recent answer: [July 6th, 2021 Livestream Q&A: Go implement HUB computer, I want to see graphs & statistics?](./yt-aA0KIR6AKC8.md) [https://www.youtube.com/watch?v=aA0KIR6AKC8](https://www.youtube.com/watch?v=aA0KIR6AKC8)
+This question was possibly duplicated with a more recent answer: [August 24th, 2021 Livestream Q&A: Are there going to be stats on The HUB computer at some point?](./yt-LXjxyiB6F3s.md) [https://www.youtube.com/watch?v=LXjxyiB6F3s](https://www.youtube.com/watch?v=LXjxyiB6F3s)
 
 
 ### Topics

@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Seasonal Events](../../../topics/satisfactory-updates/seasonal-events.md) > FICS⁕MAS
 
+## August 24th, 2021 Livestream
+* [Q&A: What's the story behind the two FICS⁕MAS items?](../../../transcriptions/yt--Z0gUaZ6k_0.md) [https://www.youtube.com/watch?v=-Z0gUaZ6k_0](https://www.youtube.com/watch?v=-Z0gUaZ6k_0)
+* [Q&A: Any new rumours about in-game Events, or whether FICS⁕MAS will be coming back?](../../../transcriptions/yt-GR0xqeexmGI.md) [https://www.youtube.com/watch?v=GR0xqeexmGI](https://www.youtube.com/watch?v=GR0xqeexmGI)
+
 ## August 10th, 2021 Livestream
 * [Q&A: Will FICS⁕MAS be different or the same as last year?](../../../transcriptions/yt-VeD6hOmySbE.md) [https://www.youtube.com/watch?v=VeD6hOmySbE](https://www.youtube.com/watch?v=VeD6hOmySbE)
 * [Q&A: Could recycle the old FICS⁕MAS from last year?](../../../transcriptions/yt-pt-jn5xUdhk.md) [https://www.youtube.com/watch?v=pt-jn5xUdhk](https://www.youtube.com/watch?v=pt-jn5xUdhk)

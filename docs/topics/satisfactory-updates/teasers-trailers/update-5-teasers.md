@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Teasers & Trailers](../../../topics/satisfactory-updates/teasers-trailers.md) > Update 5 Teasers
 
+## August 24th, 2021 Livestream
+* [State of Dev: Ramp Rails](../../../transcriptions/yt-r1ltr8UBfT4.md) [https://www.youtube.com/watch?v=r1ltr8UBfT4](https://www.youtube.com/watch?v=r1ltr8UBfT4)
+* [Snutt Talk: Factory Cart shot in Ramp Railings teaser](../../../transcriptions/yt-P7tvzz24nkU.md) [https://www.youtube.com/watch?v=P7tvzz24nkU](https://www.youtube.com/watch?v=P7tvzz24nkU)
+
 ## August 17th, 2021 Livestream
 * Q&A: Will there be a trailer for Update 5? [https://www.youtube.com/watch?v=JV4smAOF8J8](https://www.youtube.com/watch?v=JV4smAOF8J8)
 

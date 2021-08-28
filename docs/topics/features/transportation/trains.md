@@ -6,6 +6,11 @@ date: Last Modified
 # [Topics](../../../topics.md) > Features > Transportation > Trains
 * [Train Signals](../../../topics/features/transportation/trains/train-signals.md)
 
+## August 24th, 2021 Livestream
+* [Q&A: Are we likely to get more rail track options like a roundabout track?](../../../transcriptions/yt-rO4PnufLT7I.md) [https://www.youtube.com/watch?v=rO4PnufLT7I](https://www.youtube.com/watch?v=rO4PnufLT7I)
+* [Q&A: Are there plans for an option to tell the Train to hold at the Station until the dock is full?](../../../transcriptions/yt-tkfbRxpk2m4.md) [https://www.youtube.com/watch?v=tkfbRxpk2m4](https://www.youtube.com/watch?v=tkfbRxpk2m4)
+* [Q&A: How much work in the Trains will we see in Update 5?](../../../transcriptions/yt-MXxOX-YRj_o.md) [https://www.youtube.com/watch?v=MXxOX-YRj_o](https://www.youtube.com/watch?v=MXxOX-YRj_o)
+
 ## August 17th, 2021 Livestream
 * [Community FYI: Trains change colour when docking with stations if the stations are different colours](../../../transcriptions/yt-UUOheBkifOY.md) [https://www.youtube.com/watch?v=UUOheBkifOY](https://www.youtube.com/watch?v=UUOheBkifOY)
 

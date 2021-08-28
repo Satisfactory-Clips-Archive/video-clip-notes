@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > Overclocking & Underclocking
 
+## August 24th, 2021 Livestream
+* [Q&A: Is there going to be a Mk.6 Belt for Mk.3 Miner at 250% clock speed?](../../../transcriptions/yt-x2VBWUAqpoQ.md) [https://www.youtube.com/watch?v=x2VBWUAqpoQ](https://www.youtube.com/watch?v=x2VBWUAqpoQ)
+* [Q&A: When will the Power Shards show up in the UI for Water Extractors?](../../../transcriptions/yt-YhVyhhj6INQ.md) [https://www.youtube.com/watch?v=YhVyhhj6INQ](https://www.youtube.com/watch?v=YhVyhhj6INQ)
+
 ## July 13th, 2021 Livestream
 * [Q&A: Is it true that if I use Power Shard, that I have a lot of CPU consumption?](../../../transcriptions/yt-8PCFVeQsVXo.md) [https://www.youtube.com/watch?v=8PCFVeQsVXo](https://www.youtube.com/watch?v=8PCFVeQsVXo)
 * [Q&A: Have you ever tried overclocking Fuel Generators, it has a very confusing interface?](../../../transcriptions/yt-W6Zxy430lZo.md) [https://www.youtube.com/watch?v=W6Zxy430lZo](https://www.youtube.com/watch?v=W6Zxy430lZo)

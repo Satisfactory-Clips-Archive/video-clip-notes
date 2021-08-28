@@ -14,6 +14,10 @@ date: Last Modified
 * [Steel](../../topics/environment/resources/steel.md)
 * [Water](../../topics/environment/resources/water.md)
 
+## August 24th, 2021 Livestream
+* [Q&A: What's the story behind the two FICS⁕MAS items?](../../transcriptions/yt--Z0gUaZ6k_0.md) [https://www.youtube.com/watch?v=-Z0gUaZ6k_0](https://www.youtube.com/watch?v=-Z0gUaZ6k_0)
+* [Q&A: Do you intend to add more Ores to have new Recipes such as glass & derivatives coming from it?](../../transcriptions/yt-Ae-z-5fkjU8.md) [https://www.youtube.com/watch?v=Ae-z-5fkjU8](https://www.youtube.com/watch?v=Ae-z-5fkjU8)
+
 ## August 17th, 2021 Livestream
 * Q&A: Quantum Computers in the next Update? [https://www.youtube.com/watch?v=c976JiKNfyU](https://www.youtube.com/watch?v=c976JiKNfyU)
 * [Community FYI: The Resource Scanner, it's slightly off- it doesn't do the elevation of the node](../../transcriptions/yt-FCSBHSAkKww.md) [https://www.youtube.com/watch?v=FCSBHSAkKww](https://www.youtube.com/watch?v=FCSBHSAkKww)

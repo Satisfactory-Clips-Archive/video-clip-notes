@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Valheim
 
+## August 24th, 2021 Livestream
+* [Q&A: Any Valheim/Satisfactory crossover?](../../transcriptions/yt-4AB3jIFQAXI.md) [https://www.youtube.com/watch?v=4AB3jIFQAXI](https://www.youtube.com/watch?v=4AB3jIFQAXI)
+
 ## June 29th, 2021 Livestream
 * [Q&A: Do you recommend the game?](../../transcriptions/yt-oMusY1HxVhA.md) [https://www.youtube.com/watch?v=oMusY1HxVhA](https://www.youtube.com/watch?v=oMusY1HxVhA)
 

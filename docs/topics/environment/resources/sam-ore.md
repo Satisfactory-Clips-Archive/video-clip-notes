@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Resources](../../../topics/environment/resources.md) > S.A.M. Ore
 
+## August 24th, 2021 Livestream
+* [Q&A: What will the Work-In-Progress items do in the future?](../../../transcriptions/yt-kMtDQ0sZPAw.md) [https://www.youtube.com/watch?v=kMtDQ0sZPAw](https://www.youtube.com/watch?v=kMtDQ0sZPAw)
+
 ## August 17th, 2021 Livestream
 * [Q&A: Internally, do you know what the WIP items are planned to do, or is it up in the air?](../../../transcriptions/yt-cH02SWIw8-A.md) [https://www.youtube.com/watch?v=cH02SWIw8-A](https://www.youtube.com/watch?v=cH02SWIw8-A)
 

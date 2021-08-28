@@ -8,6 +8,8 @@ topics:
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Q&A: What's your thoughts on hanging Conveyor Mounts?
 https://www.youtube.com/watch?v=M0C_VG2rMCI
+This question was possibly duplicated with a more recent answer: [August 24th, 2021 Livestream Q&A: What about Conveyor Belts clipped to the ceiling?](./yt-ME3ktW5i1hs.md) [https://www.youtube.com/watch?v=ME3ktW5i1hs](https://www.youtube.com/watch?v=ME3ktW5i1hs)
+
 
 ### Topics
 * [Features > Buildables > Conveyor Belts](../topics/features/buildables/conveyor-belts.md)

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Trolling
 
+## August 24th, 2021 Livestream
+* [Community FYI: Update 5, minor updates to Localisation](../transcriptions/yt-87F-g76Bx9A.md) [https://www.youtube.com/watch?v=87F-g76Bx9A](https://www.youtube.com/watch?v=87F-g76Bx9A)
+
 ## August 17th, 2021 Livestream
 * [Snutt & Jace Talk: Vocal exercises](../transcriptions/yt-ipFt_rieUP8.md) [https://www.youtube.com/watch?v=ipFt_rieUP8](https://www.youtube.com/watch?v=ipFt_rieUP8)
 * [Snutt & Jace Talk: Snutt's Summer 2021 Vacation Photos](../transcriptions/yt-O091MGGUbOE.md) [https://www.youtube.com/watch?v=O091MGGUbOE](https://www.youtube.com/watch?v=O091MGGUbOE)

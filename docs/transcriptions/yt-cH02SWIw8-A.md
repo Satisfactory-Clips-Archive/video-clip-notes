@@ -10,11 +10,7 @@ topics:
 # [August 17th, 2021 Livestream](../2021-08-17.md)
 ## Q&A: Internally, do you know what the WIP items are planned to do, or is it up in the air?
 https://www.youtube.com/watch?v=cH02SWIw8-A
-<details>
-<summary>This question may have been asked previously at least 1 other time, as recently as March 2021.</summary>
-
-* [March 23rd, 2021 Livestream Q&A: Do you have plans for the WIP items?](./yt-GPP6rcB8ROw.md) [https://www.youtube.com/watch?v=GPP6rcB8ROw](https://www.youtube.com/watch?v=GPP6rcB8ROw)
-</details>
+This question was possibly duplicated with a more recent answer: [August 24th, 2021 Livestream Q&A: What will the Work-In-Progress items do in the future?](./yt-kMtDQ0sZPAw.md) [https://www.youtube.com/watch?v=kMtDQ0sZPAw](https://www.youtube.com/watch?v=kMtDQ0sZPAw)
 
 
 ### Topics

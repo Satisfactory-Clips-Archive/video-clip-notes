@@ -7,6 +7,9 @@ date: Last Modified
 * [Flushable Toilet DLC](../../../topics/features/possible-features/dlc/flushable-toilet-dlc.md)
 * [Toilet Paper DLC](../../../topics/features/possible-features/dlc/toilet-paper-dlc.md)
 
+## August 24th, 2021 Livestream
+* [Community FYI: Second Map would be a legit DLC further down the line](../../../transcriptions/yt-W-RuXFHE29E.md) [https://www.youtube.com/watch?v=W-RuXFHE29E](https://www.youtube.com/watch?v=W-RuXFHE29E)
+
 ## August 3rd, 2021 Livestream
 * [Q&A: When is the fart DLC?](../../../transcriptions/yt-wg3JM2S0rp4.md) [https://www.youtube.com/watch?v=wg3JM2S0rp4](https://www.youtube.com/watch?v=wg3JM2S0rp4)
 

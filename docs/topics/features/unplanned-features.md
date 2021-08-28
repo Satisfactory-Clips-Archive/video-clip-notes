@@ -16,5 +16,8 @@ date: Last Modified
 * [Terraforming](../../topics/features/unplanned-features/terraforming.md)
 * [VR](../../topics/features/unplanned-features/vr.md)
 
+## August 24th, 2021 Livestream
+* [Q&A: Personal drone?](../../transcriptions/yt-fZCyaEmQLKs.md) [https://www.youtube.com/watch?v=fZCyaEmQLKs](https://www.youtube.com/watch?v=fZCyaEmQLKs)
+
 ## August 17th, 2021 Livestream
 * [Q&A: Sleep & Food?](../../transcriptions/yt-Rfq5XpdNCnA.md) [https://www.youtube.com/watch?v=Rfq5XpdNCnA](https://www.youtube.com/watch?v=Rfq5XpdNCnA)

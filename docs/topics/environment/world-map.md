@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Environment](../../topics/environment.md) > World Map
 
+## August 24th, 2021 Livestream
+* [Community FYI: Second Map would be a legit DLC further down the line](../../transcriptions/yt-W-RuXFHE29E.md) [https://www.youtube.com/watch?v=W-RuXFHE29E](https://www.youtube.com/watch?v=W-RuXFHE29E)
+
 ## August 10th, 2021 Livestream
 * [Q&A: Is a second map planned for a few months after release?](../../transcriptions/yt-hpzqL7Ujefs.md) [https://www.youtube.com/watch?v=hpzqL7Ujefs](https://www.youtube.com/watch?v=hpzqL7Ujefs)
 * [Q&A: Equipment workshop Mk.2 for making mini-map?](../../transcriptions/yt-xKCeCVI8Htc.md) [https://www.youtube.com/watch?v=xKCeCVI8Htc](https://www.youtube.com/watch?v=xKCeCVI8Htc)

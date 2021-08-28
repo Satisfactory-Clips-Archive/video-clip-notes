@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > Water Extractor
 
+## August 24th, 2021 Livestream
+* [Q&A: When will the Power Shards show up in the UI for Water Extractors?](../../../transcriptions/yt-YhVyhhj6INQ.md) [https://www.youtube.com/watch?v=YhVyhhj6INQ](https://www.youtube.com/watch?v=YhVyhhj6INQ)
+* [Q&A: Copy/paste settings from Miners, Fluid Extractors, Power Plants, when?](../../../transcriptions/yt-4cmv1GtvB18.md) [https://www.youtube.com/watch?v=4cmv1GtvB18](https://www.youtube.com/watch?v=4cmv1GtvB18)
+
 ## June 1st, 2021 Livestream
 * [Snutt & Jace Talk: Setting up a Coal Generator (Part 1)](../../../transcriptions/yt-cmDE_ThXeUk.md) [https://www.youtube.com/watch?v=cmDE_ThXeUk](https://www.youtube.com/watch?v=cmDE_ThXeUk)
 * [Snutt & Jace Talk: Setting up a Coal Generator (Part 3)](../../../transcriptions/yt-D4Tmjw6TT78.md) [https://www.youtube.com/watch?v=D4Tmjw6TT78](https://www.youtube.com/watch?v=D4Tmjw6TT78)

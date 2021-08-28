@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > [Crafting](../../../../topics/features/crafting.md) > [Recipes](../../../../topics/features/crafting/recipes.md) > Alternate Recipes
 
+## August 24th, 2021 Livestream
+* [Q&A: Is removing Crash Sites by deconstruction even for no parts something to do to clear the Map?](../../../../transcriptions/yt-towkJfDEAvo.md) [https://www.youtube.com/watch?v=towkJfDEAvo](https://www.youtube.com/watch?v=towkJfDEAvo)
+
 ## August 10th, 2021 Livestream
 * [Q&A: Have you considered more Alternative Recipes?](../../../../transcriptions/yt-2aOpQh44UV8.md) [https://www.youtube.com/watch?v=2aOpQh44UV8](https://www.youtube.com/watch?v=2aOpQh44UV8)
 

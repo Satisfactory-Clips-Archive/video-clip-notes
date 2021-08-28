@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > The HUB
 
+## August 24th, 2021 Livestream
+* [Q&A: Will The HUB have Goat Simulator installed?](../../../transcriptions/yt-hZKtoIq3gdQ.md) [https://www.youtube.com/watch?v=hZKtoIq3gdQ](https://www.youtube.com/watch?v=hZKtoIq3gdQ)
+* [Q&A: Are there going to be stats on The HUB computer at some point?](../../../transcriptions/yt-LXjxyiB6F3s.md) [https://www.youtube.com/watch?v=LXjxyiB6F3s](https://www.youtube.com/watch?v=LXjxyiB6F3s)
+
 ## August 17th, 2021 Livestream
 * [Q&A: I Love Strawberries ported to The HUB Computer?](../../../transcriptions/yt-fJ5wWQ7oq9k.md) [https://www.youtube.com/watch?v=fJ5wWQ7oq9k](https://www.youtube.com/watch?v=fJ5wWQ7oq9k)
 * [Community FYI: Miss the M.A.M. in The HUB](../../../transcriptions/yt-GT2-1T5Aq9o.md) [https://www.youtube.com/watch?v=GT2-1T5Aq9o](https://www.youtube.com/watch?v=GT2-1T5Aq9o)

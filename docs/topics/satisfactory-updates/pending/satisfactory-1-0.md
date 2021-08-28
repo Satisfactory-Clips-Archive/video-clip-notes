@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Pending > Satisfactory 1.0
 
+## August 24th, 2021 Livestream
+* [Q&A: Will there be updates after 1.0?](../../../transcriptions/yt-LXG_NjB0cr4.md) [https://www.youtube.com/watch?v=LXG_NjB0cr4](https://www.youtube.com/watch?v=LXG_NjB0cr4)
+* [Q&A: Projected date for 1.0?](../../../transcriptions/yt-HgHTtGAk-Jk.md) [https://www.youtube.com/watch?v=HgHTtGAk-Jk](https://www.youtube.com/watch?v=HgHTtGAk-Jk)
+
 ## August 17th, 2021 Livestream
 * [Q&A: Have you got any plans after Satisfactory?](../../../transcriptions/yt-GWygJUeqbHU.md) [https://www.youtube.com/watch?v=GWygJUeqbHU](https://www.youtube.com/watch?v=GWygJUeqbHU)
 * Q&A: How many Updates after 5? [https://www.youtube.com/watch?v=Rbh6KabAZSY](https://www.youtube.com/watch?v=Rbh6KabAZSY)

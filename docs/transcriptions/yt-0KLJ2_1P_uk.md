@@ -8,12 +8,7 @@ topics:
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: Can dismantle mode have an ignore function maybe?
 https://www.youtube.com/watch?v=0KLJ2_1P_uk
-<details>
-<summary>This question may have been asked previously at least 2 other times, as recently as December 2020 and as early as September 2020.</summary>
-
-* [December 15th, 2020 Livestream Q&A: Why can't you deselect items when you've selected them?](./yt-KGLZ6f6PdRs.md) [https://www.youtube.com/watch?v=KGLZ6f6PdRs](https://www.youtube.com/watch?v=KGLZ6f6PdRs)
-* [September 8th, 2020 Livestream Q&A: Can you add ability to deselect with ctrl?](./yt-CjWFoMF7EIo.md) [https://www.youtube.com/watch?v=CjWFoMF7EIo](https://www.youtube.com/watch?v=CjWFoMF7EIo)
-</details>
+This question was possibly duplicated with a more recent answer: [August 24th, 2021 Livestream Q&A: Having unselect in Mass Dismantle, though?](./yt-bAbuez_N2bc.md) [https://www.youtube.com/watch?v=bAbuez_N2bc](https://www.youtube.com/watch?v=bAbuez_N2bc)
 
 
 ### Topics

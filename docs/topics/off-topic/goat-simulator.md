@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Goat Simulator
 
+## August 24th, 2021 Livestream
+* [Q&A: Will The HUB have Goat Simulator installed?](../../transcriptions/yt-hZKtoIq3gdQ.md) [https://www.youtube.com/watch?v=hZKtoIq3gdQ](https://www.youtube.com/watch?v=hZKtoIq3gdQ)
+
 ## June 29th, 2021 Livestream
 * [Q&A: Can we get a Goat Simulator easter egg in the game?](../../transcriptions/yt-hSZdK3Pg9AE.md) [https://www.youtube.com/watch?v=hSZdK3Pg9AE](https://www.youtube.com/watch?v=hSZdK3Pg9AE)
 * [Q&A: Do you recommend the game?](../../transcriptions/yt-oMusY1HxVhA.md) [https://www.youtube.com/watch?v=oMusY1HxVhA](https://www.youtube.com/watch?v=oMusY1HxVhA)

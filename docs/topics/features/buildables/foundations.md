@@ -6,6 +6,10 @@ date: Last Modified
 # [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Foundations
 * [Cheatcrete](../../../topics/features/buildables/foundations/cheatcrete.md)
 
+## August 24th, 2021 Livestream
+* [Q&A: Will Railings snap to all kinda of ramps?](../../../transcriptions/yt-qtyPULKrJyE.md) [https://www.youtube.com/watch?v=qtyPULKrJyE](https://www.youtube.com/watch?v=qtyPULKrJyE)
+* [Q&A: Skate park confirmed?](../../../transcriptions/yt-LRUNHLC-E2M.md) [https://www.youtube.com/watch?v=LRUNHLC-E2M](https://www.youtube.com/watch?v=LRUNHLC-E2M)
+
 ## August 17th, 2021 Livestream
 * [Q&A: Will the Hyper Tube wall mount rotation ever be aligned with a 8x4 ramp?](../../../transcriptions/yt-HokduD0IdEY.md) [https://www.youtube.com/watch?v=HokduD0IdEY](https://www.youtube.com/watch?v=HokduD0IdEY)
 * [Q&A: Will there ever be a Conveyor or Pipe hole in Foundations?](../../../transcriptions/yt-T7YW7I7D7jk.md) [https://www.youtube.com/watch?v=T7YW7I7D7jk](https://www.youtube.com/watch?v=T7YW7I7D7jk)

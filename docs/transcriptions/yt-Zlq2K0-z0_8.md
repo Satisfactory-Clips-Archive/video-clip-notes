@@ -9,7 +9,7 @@ topics:
 # [December 19th, 2019 Livestream](../2019-12-19.md)
 ## Q&A: Is there going to be a central computer plant where you can check the whole production?
 https://www.youtube.com/watch?v=Zlq2K0-z0_8
-This question was possibly duplicated with a more recent answer: [July 6th, 2021 Livestream Q&A: Go implement HUB computer, I want to see graphs & statistics?](./yt-aA0KIR6AKC8.md) [https://www.youtube.com/watch?v=aA0KIR6AKC8](https://www.youtube.com/watch?v=aA0KIR6AKC8)
+This question was possibly duplicated with a more recent answer: [August 24th, 2021 Livestream Q&A: Are there going to be stats on The HUB computer at some point?](./yt-LXjxyiB6F3s.md) [https://www.youtube.com/watch?v=LXjxyiB6F3s](https://www.youtube.com/watch?v=LXjxyiB6F3s)
 
 
 ### Topics

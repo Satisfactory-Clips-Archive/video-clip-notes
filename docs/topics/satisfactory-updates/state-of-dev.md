@@ -5,6 +5,14 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > State of Dev
 
+## August 24th, 2021 Livestream
+* [State of Dev: Update 5](../../transcriptions/yt-_2YuLSAXiaY.md) [https://www.youtube.com/watch?v=_2YuLSAXiaY](https://www.youtube.com/watch?v=_2YuLSAXiaY)
+* [State of Dev: Update 5 World Update](../../transcriptions/yt-wgP8XtoDGyU.md) [https://www.youtube.com/watch?v=wgP8XtoDGyU](https://www.youtube.com/watch?v=wgP8XtoDGyU)
+* [State of Dev: Build Modes](../../transcriptions/yt-E0UyE3zWDRo.md) [https://www.youtube.com/watch?v=E0UyE3zWDRo](https://www.youtube.com/watch?v=E0UyE3zWDRo)
+* [State of Dev: Ramp Rails](../../transcriptions/yt-r1ltr8UBfT4.md) [https://www.youtube.com/watch?v=r1ltr8UBfT4](https://www.youtube.com/watch?v=r1ltr8UBfT4)
+* [State of Dev: Summary](../../transcriptions/yt-usrSUUQCKvY.md) [https://www.youtube.com/watch?v=usrSUUQCKvY](https://www.youtube.com/watch?v=usrSUUQCKvY)
+* [State of Dev: Dedicated Servers](../../transcriptions/yt-JjUQRjkfcpo.md) [https://www.youtube.com/watch?v=JjUQRjkfcpo](https://www.youtube.com/watch?v=JjUQRjkfcpo)
+
 ## August 17th, 2021 Livestream
 * [State of Dev: Most people are back from vacation](../../transcriptions/yt-yb2UEdQMQMI.md) [https://www.youtube.com/watch?v=yb2UEdQMQMI](https://www.youtube.com/watch?v=yb2UEdQMQMI)
 * [State of Dev: EU Merch Store + Mug](../../transcriptions/yt-VoxNe9_Po9s.md) [https://www.youtube.com/watch?v=VoxNe9_Po9s](https://www.youtube.com/watch?v=VoxNe9_Po9s)

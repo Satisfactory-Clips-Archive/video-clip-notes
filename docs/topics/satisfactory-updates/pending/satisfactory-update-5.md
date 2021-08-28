@@ -7,6 +7,23 @@ date: Last Modified
 * [Northern Forest World Update Q&A with Hannah](../../../topics/satisfactory-updates/pending/satisfactory-update-5/northern-forest-world-update-q-and-a-with-hannah.md)
 * [#SaveTheWillows](../../../topics/satisfactory-updates/pending/satisfactory-update-5/save-the-willows.md)
 
+## August 24th, 2021 Livestream
+* [State of Dev: Update 5](../../../transcriptions/yt-_2YuLSAXiaY.md) [https://www.youtube.com/watch?v=_2YuLSAXiaY](https://www.youtube.com/watch?v=_2YuLSAXiaY)
+* [State of Dev: Update 5 World Update](../../../transcriptions/yt-wgP8XtoDGyU.md) [https://www.youtube.com/watch?v=wgP8XtoDGyU](https://www.youtube.com/watch?v=wgP8XtoDGyU)
+* [State of Dev: Ramp Rails](../../../transcriptions/yt-r1ltr8UBfT4.md) [https://www.youtube.com/watch?v=r1ltr8UBfT4](https://www.youtube.com/watch?v=r1ltr8UBfT4)
+* [Q&A: Will we get 45 degree railings alongside the Ramp Railings?](../../../transcriptions/yt-5RnAhqgllT4.md) [https://www.youtube.com/watch?v=5RnAhqgllT4](https://www.youtube.com/watch?v=5RnAhqgllT4)
+* [Q&A: Can the new Rails be painted?](../../../transcriptions/yt-XBP-e-b-C00.md) [https://www.youtube.com/watch?v=XBP-e-b-C00](https://www.youtube.com/watch?v=XBP-e-b-C00)
+* [Q&A: When will Update 5 be?](../../../transcriptions/yt-Cuuet0VMc2E.md) [https://www.youtube.com/watch?v=Cuuet0VMc2E](https://www.youtube.com/watch?v=Cuuet0VMc2E)
+* [Q&A: Are there going to be changes to Recipes in Update 5?](../../../transcriptions/yt-KZpGn66FOnI.md) [https://www.youtube.com/watch?v=KZpGn66FOnI](https://www.youtube.com/watch?v=KZpGn66FOnI)
+* [Q&A: Any big new Features in Update 5?](../../../transcriptions/yt-uW98SNWj3zo.md) [https://www.youtube.com/watch?v=uW98SNWj3zo](https://www.youtube.com/watch?v=uW98SNWj3zo)
+* [Community FYI: Update 5, minor updates to Localisation](../../../transcriptions/yt-87F-g76Bx9A.md) [https://www.youtube.com/watch?v=87F-g76Bx9A](https://www.youtube.com/watch?v=87F-g76Bx9A)
+* [Q&A: Will Railings snap to all kinda of ramps?](../../../transcriptions/yt-qtyPULKrJyE.md) [https://www.youtube.com/watch?v=qtyPULKrJyE](https://www.youtube.com/watch?v=qtyPULKrJyE)
+* [Snutt Talk: Factory Cart shot in Ramp Railings teaser](../../../transcriptions/yt-P7tvzz24nkU.md) [https://www.youtube.com/watch?v=P7tvzz24nkU](https://www.youtube.com/watch?v=P7tvzz24nkU)
+* [Q&A: You suggested moving factories in the Spire Coast, how would you suggest doing that?](../../../transcriptions/yt-uC9IEN1An1o.md) [https://www.youtube.com/watch?v=uC9IEN1An1o](https://www.youtube.com/watch?v=uC9IEN1An1o)
+* [Q&A: When can we expect Update 5 to roll out?](../../../transcriptions/yt-eY6ezLPePmg.md) [https://www.youtube.com/watch?v=eY6ezLPePmg](https://www.youtube.com/watch?v=eY6ezLPePmg)
+* [Q&A: How much work in the Trains will we see in Update 5?](../../../transcriptions/yt-MXxOX-YRj_o.md) [https://www.youtube.com/watch?v=MXxOX-YRj_o](https://www.youtube.com/watch?v=MXxOX-YRj_o)
+* [Q&A: Will Update 5 change Recipes?](../../../transcriptions/yt-JnA9OzdPHEI.md) [https://www.youtube.com/watch?v=JnA9OzdPHEI](https://www.youtube.com/watch?v=JnA9OzdPHEI)
+
 ## August 17th, 2021 Livestream
 * [Q&A: Will the access to under the map stay after Update 5?](../../../transcriptions/yt-7larr0PFzsY.md) [https://www.youtube.com/watch?v=7larr0PFzsY](https://www.youtube.com/watch?v=7larr0PFzsY)
 * Q&A: Quantum Computers in the next Update? [https://www.youtube.com/watch?v=c976JiKNfyU](https://www.youtube.com/watch?v=c976JiKNfyU)

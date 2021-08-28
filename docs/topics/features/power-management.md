@@ -10,6 +10,9 @@ date: Last Modified
 * [Power Storage](../../topics/features/power-management/power-storage.md)
 * [Power Switch](../../topics/features/power-management/power-switch.md)
 
+## August 24th, 2021 Livestream
+* [Q&A: Copy/paste settings from Miners, Fluid Extractors, Power Plants, when?](../../transcriptions/yt-4cmv1GtvB18.md) [https://www.youtube.com/watch?v=4cmv1GtvB18](https://www.youtube.com/watch?v=4cmv1GtvB18)
+
 ## July 20th, 2021 Livestream
 * [Q&A: Any plans for Fusion Power?](../../transcriptions/yt-GFpWe3jY2hQ.md) [https://www.youtube.com/watch?v=GFpWe3jY2hQ](https://www.youtube.com/watch?v=GFpWe3jY2hQ)
 

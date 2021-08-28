@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../topics.md) > Features > Multiplayer
 * [Crossplay](../../topics/features/multiplayer/crossplay.md)
 
+## August 24th, 2021 Livestream
+* [Q&A: When will the Multiplayer get some love?](../../transcriptions/yt-lZojcN6ejrw.md) [https://www.youtube.com/watch?v=lZojcN6ejrw](https://www.youtube.com/watch?v=lZojcN6ejrw)
+
 ## August 10th, 2021 Livestream
 * [Q&A: Is there any news on fixing transportation in Multiplayer games?](../../transcriptions/yt-JQzvB3Dby3M.md) [https://www.youtube.com/watch?v=JQzvB3Dby3M](https://www.youtube.com/watch?v=JQzvB3Dby3M)
 

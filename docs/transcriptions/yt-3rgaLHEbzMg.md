@@ -9,7 +9,7 @@ topics:
 # [June 29th, 2021 Livestream](../2021-06-29.md)
 ## Q&A: Does Train Collision mean that Trains will collide with terrain & buildings like Trucks do?
 https://www.youtube.com/watch?v=3rgaLHEbzMg
-This question was possibly duplicated with a more recent answer: July 13th, 2021 Livestream Q&A: Will Trains have collision with terrain? [https://www.youtube.com/watch?v=pUhrOIByr2A](https://www.youtube.com/watch?v=pUhrOIByr2A)
+This question was possibly duplicated with a more recent answer: [August 24th, 2021 Livestream Q&A: Will Trains collide with land or just other Trains?](./yt-JDKfpaRnnI4.md) [https://www.youtube.com/watch?v=JDKfpaRnnI4](https://www.youtube.com/watch?v=JDKfpaRnnI4)
 
 
 ### Topics

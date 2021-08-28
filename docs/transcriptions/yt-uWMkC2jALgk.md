@@ -8,6 +8,8 @@ topics:
 # [July 20th, 2021 Livestream](../2021-07-20.md)
 ## Q&A: Opinions on Steam Deck?
 https://www.youtube.com/watch?v=uWMkC2jALgk
+This question was possibly duplicated with a more recent answer: [August 24th, 2021 Livestream Q&A: What are your thoughts on the Steam Deck?](./yt-Tc27vyPYx7c.md) [https://www.youtube.com/watch?v=Tc27vyPYx7c](https://www.youtube.com/watch?v=Tc27vyPYx7c)
+
 
 ### Topics
 * [Features > Possible Features > Console Release](../topics/features/possible-features/console-release.md)

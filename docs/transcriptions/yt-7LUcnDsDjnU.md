@@ -8,7 +8,7 @@ topics:
 # [April 20th, 2021 Livestream](../2021-04-20.md)
 ## Q&A: Any plans for a procedurally generated map?
 https://www.youtube.com/watch?v=7LUcnDsDjnU
-This question was possibly duplicated with a more recent answer: [June 29th, 2021 Livestream Q&A: Any plans for random map generation?](./yt-Z9c7weKgaz0.md) [https://www.youtube.com/watch?v=Z9c7weKgaz0](https://www.youtube.com/watch?v=Z9c7weKgaz0)
+This question was possibly duplicated with a more recent answer: [August 24th, 2021 Livestream Q&A: Would it be possible to have a Map Randomly Generated in Satisfactory?](./yt-1AOF1qFxGm0.md) [https://www.youtube.com/watch?v=1AOF1qFxGm0](https://www.youtube.com/watch?v=1AOF1qFxGm0)
 
 
 ### Topics

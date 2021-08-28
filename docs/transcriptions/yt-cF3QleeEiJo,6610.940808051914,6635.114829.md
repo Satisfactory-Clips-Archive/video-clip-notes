@@ -8,7 +8,7 @@ topics:
 # [April 13th, 2021 Livestream](../2021-04-13.md)
 ## Q&A: What about 1.0?
 https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6610&end=6636
-This question was possibly duplicated with a more recent answer: [August 10th, 2021 Livestream Q&A: Is there a goal date that you want the game finished?](./yt-_VPyUP6E2pE.md) [https://www.youtube.com/watch?v=_VPyUP6E2pE](https://www.youtube.com/watch?v=_VPyUP6E2pE)
+This question was possibly duplicated with a more recent answer: [August 24th, 2021 Livestream Q&A: Projected date for 1.0?](./yt-HgHTtGAk-Jk.md) [https://www.youtube.com/watch?v=HgHTtGAk-Jk](https://www.youtube.com/watch?v=HgHTtGAk-Jk)
 
 
 ### Topics

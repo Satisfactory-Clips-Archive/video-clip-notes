@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > Transportation > [Vehicles](../../../../topics/features/transportation/vehicles.md) > Factory Cart
 
+## August 24th, 2021 Livestream
+* [Snutt Talk: Factory Cart shot in Ramp Railings teaser](../../../../transcriptions/yt-P7tvzz24nkU.md) [https://www.youtube.com/watch?v=P7tvzz24nkU](https://www.youtube.com/watch?v=P7tvzz24nkU)
+
 ## August 10th, 2021 Livestream
 * [Q&A: Flying Factory Cart, when?](../../../../transcriptions/yt-N9-tzL5aozw.md) [https://www.youtube.com/watch?v=N9-tzL5aozw](https://www.youtube.com/watch?v=N9-tzL5aozw)
 

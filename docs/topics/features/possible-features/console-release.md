@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Possible Features > Console Release
 
+## August 24th, 2021 Livestream
+* [Q&A: What are your thoughts on the Steam Deck?](../../../transcriptions/yt-Tc27vyPYx7c.md) [https://www.youtube.com/watch?v=Tc27vyPYx7c](https://www.youtube.com/watch?v=Tc27vyPYx7c)
+
 ## July 20th, 2021 Livestream
 * [Q&A: Opinions on Steam Deck?](../../../transcriptions/yt-uWMkC2jALgk.md) [https://www.youtube.com/watch?v=uWMkC2jALgk](https://www.youtube.com/watch?v=uWMkC2jALgk)
 
