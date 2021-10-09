@@ -8,12 +8,7 @@ topics:
 # [August 10th, 2021 Livestream](../2021-08-10.md)
 ## Q&A: Two exits on Mk.3 Miner?
 https://www.youtube.com/watch?v=96WELYhyRLA
-<details>
-<summary>This question may have been asked previously at least 2 other times, as recently as July 2021 and as early as March 2021.</summary>
-
-* [July 20th, 2021 Livestream Q&A: Will Mk.3 Miners get two outputs to transport the full production?](./yt-my4Zmq3LUNU.md) [https://www.youtube.com/watch?v=my4Zmq3LUNU](https://www.youtube.com/watch?v=my4Zmq3LUNU)
-* [March 23rd, 2021 Livestream Q&A: Mk.3 Miner with 1200 resources per minute, put two outputs so we can get all the resources?](./yt-5BOnK8wVCro.md) [https://www.youtube.com/watch?v=5BOnK8wVCro](https://www.youtube.com/watch?v=5BOnK8wVCro)
-</details>
+This question was possibly duplicated with a more recent answer: [August 31st, 2021 Livestream Q&A: Two outputs for Mk.3 Miners?](./yt-Nn8tgBZ8s7M.md) [https://www.youtube.com/watch?v=Nn8tgBZ8s7M](https://www.youtube.com/watch?v=Nn8tgBZ8s7M)
 
 
 ### Topics

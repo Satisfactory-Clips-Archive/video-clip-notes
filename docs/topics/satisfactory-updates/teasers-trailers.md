@@ -13,6 +13,14 @@ date: Last Modified
 * [Update 5 Patch Notes Video](../../topics/satisfactory-updates/teasers-trailers/update-5-patch-notes-video.md)
 * [Update 5 Teasers](../../topics/satisfactory-updates/teasers-trailers/update-5-teasers.md)
 
+## August 31st, 2021 Livestream
+* Snutt & Jace Talk: Screenspace reflections & water updates [https://www.youtube.com/watch?v=DsE2x1rEfIw](https://www.youtube.com/watch?v=DsE2x1rEfIw)
+* [Q&A: Are there any plans for adding the tools to the game that you use to make the teasers?](../../transcriptions/yt-hgVQCncD4PA.md) [https://www.youtube.com/watch?v=hgVQCncD4PA](https://www.youtube.com/watch?v=hgVQCncD4PA)
+* [Q&A: Who builds all the factories in your YouTube reveals?](../../transcriptions/yt-piTvF4dhY0I.md) [https://www.youtube.com/watch?v=piTvF4dhY0I](https://www.youtube.com/watch?v=piTvF4dhY0I)
+* [Q&A: How come your builds are so good in Trailers but on your own channel they're dogshit](../../transcriptions/yt-BmPwejyviV8.md) [https://www.youtube.com/watch?v=BmPwejyviV8](https://www.youtube.com/watch?v=BmPwejyviV8)
+* [Q&A: Do you delete the factories you use for Trailers?](../../transcriptions/yt-qITSB_EAt5o.md) [https://www.youtube.com/watch?v=qITSB_EAt5o](https://www.youtube.com/watch?v=qITSB_EAt5o)
+* [Snutt & Jace Talk: Trailer saves](../../transcriptions/yt-9yagRQ9nPQ0.md) [https://www.youtube.com/watch?v=9yagRQ9nPQ0](https://www.youtube.com/watch?v=9yagRQ9nPQ0)
+
 ## August 24th, 2021 Livestream
 * [Snutt Talk: Showcasing features while they're still in development](../../transcriptions/yt-POfj9PW68TI.md) [https://www.youtube.com/watch?v=POfj9PW68TI](https://www.youtube.com/watch?v=POfj9PW68TI)
 

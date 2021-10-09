@@ -8,7 +8,7 @@ topics:
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: Fixing machines that break?
 https://www.youtube.com/watch?v=oYFn3xvAOHs
-This question was possibly duplicated with a more recent answer: [May 25th, 2021 Livestream Q&A: Would be interesting to have Machines break or need maintenance?](./yt-eou80scmTqE.md) [https://www.youtube.com/watch?v=eou80scmTqE](https://www.youtube.com/watch?v=eou80scmTqE)
+This question was possibly duplicated with a more recent answer: [August 31st, 2021 Livestream Q&A: Do you plan some malfunctions of machines in regards to debug & repair?](./yt-9-pbFs3q3Cg.md) [https://www.youtube.com/watch?v=9-pbFs3q3Cg](https://www.youtube.com/watch?v=9-pbFs3q3Cg)
 
 
 ### Topics

@@ -8,7 +8,7 @@ topics:
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Q&A: Any Update on Merch shipping alternatives?
 https://www.youtube.com/watch?v=kj_vdE5-CEI
-This question was possibly duplicated with a more recent answer: [August 10th, 2021 Livestream Q&A: EU Merch Shop?](./yt-fkCoDFaTwPs.md) [https://www.youtube.com/watch?v=fkCoDFaTwPs](https://www.youtube.com/watch?v=fkCoDFaTwPs)
+This question was possibly duplicated with a more recent answer: [August 31st, 2021 Livestream Q&A: Any news for EU Merch Store?](./yt--GiaoGm2cfQ.md) [https://www.youtube.com/watch?v=-GiaoGm2cfQ](https://www.youtube.com/watch?v=-GiaoGm2cfQ)
 
 
 ### Topics

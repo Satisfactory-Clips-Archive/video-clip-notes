@@ -3,6 +3,7 @@ title: "December 8th, 2020 Livestream Snutt Talk: We had windows before Mods."
 date: "2020-12-08"
 layout: transcript
 topics:
+    - "features/buildables/windows"
     - "mods"
     - "mods/mods-vs-features"
 ---
@@ -11,6 +12,7 @@ topics:
 https://www.youtube.com/watch?v=FLOpWOXppKo
 
 ### Topics
+* [Features > Buildables > Windows](../topics/features/buildables/windows.md)
 * [Mods](../topics/mods.md)
 * [Mods > Mods vs. Features](../topics/mods/mods-vs-features.md)
 

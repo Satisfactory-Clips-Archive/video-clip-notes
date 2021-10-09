@@ -14,6 +14,10 @@ date: Last Modified
 * [Steel](../../topics/environment/resources/steel.md)
 * [Water](../../topics/environment/resources/water.md)
 
+## August 31st, 2021 Livestream
+* [Q&A: Black Powder & Iron to make bullets, machine gun for Base Defense?](../../transcriptions/yt-9q4EKEuu5R0.md) [https://www.youtube.com/watch?v=9q4EKEuu5R0](https://www.youtube.com/watch?v=9q4EKEuu5R0)
+* [Q&A: Can you please reveal new items?](../../transcriptions/yt-DI8KFc93Qlo.md) [https://www.youtube.com/watch?v=DI8KFc93Qlo](https://www.youtube.com/watch?v=DI8KFc93Qlo)
+
 ## August 24th, 2021 Livestream
 * [Q&A: What's the story behind the two FICS⁕MAS items?](../../transcriptions/yt--Z0gUaZ6k_0.md) [https://www.youtube.com/watch?v=-Z0gUaZ6k_0](https://www.youtube.com/watch?v=-Z0gUaZ6k_0)
 * [Q&A: Do you intend to add more Ores to have new Recipes such as glass & derivatives coming from it?](../../transcriptions/yt-Ae-z-5fkjU8.md) [https://www.youtube.com/watch?v=Ae-z-5fkjU8](https://www.youtube.com/watch?v=Ae-z-5fkjU8)

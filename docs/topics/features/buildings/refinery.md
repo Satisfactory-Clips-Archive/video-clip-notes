@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > Refinery
 
+## August 31st, 2021 Livestream
+* [Q&A: Can you change the inputs & outputs on the Refinery to match the Packager please?](../../../transcriptions/yt-5R_kTzpUoy4.md) [https://www.youtube.com/watch?v=5R_kTzpUoy4](https://www.youtube.com/watch?v=5R_kTzpUoy4)
+
 ## July 20th, 2021 Livestream
 * [Q&A: Are you going to add more Buildings to make the game less Refinery-reliant?](../../../transcriptions/yt-Fp1WczBseIM.md) [https://www.youtube.com/watch?v=Fp1WczBseIM](https://www.youtube.com/watch?v=Fp1WczBseIM)
 

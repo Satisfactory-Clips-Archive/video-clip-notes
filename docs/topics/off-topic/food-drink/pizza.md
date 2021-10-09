@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Off-Topic](../../../topics/off-topic.md) > [Food & Drink](../../../topics/off-topic/food-drink.md) > Pizza
 
+## August 31st, 2021 Livestream
+* [Q&A: You getting any Pizza in a cup lately?](../../../transcriptions/yt-JEPCVLOnouU.md) [https://www.youtube.com/watch?v=JEPCVLOnouU](https://www.youtube.com/watch?v=JEPCVLOnouU)
+
 ## August 3rd, 2021 Livestream
 * [Q&A: Have you been to America and if so have you tried any Pizza?](../../../transcriptions/yt-H0wL0VJjkJY.md) [https://www.youtube.com/watch?v=H0wL0VJjkJY](https://www.youtube.com/watch?v=H0wL0VJjkJY)
 

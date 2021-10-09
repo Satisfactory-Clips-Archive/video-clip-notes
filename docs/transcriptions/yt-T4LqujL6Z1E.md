@@ -8,7 +8,7 @@ topics:
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Q&A: When are you guys returning to the office?
 https://www.youtube.com/watch?v=T4LqujL6Z1E
-This question was possibly duplicated with a more recent answer: [July 6th, 2021 Livestream Q&A: You guys work in the office yet?](./yt-MSxZt_IUpsA.md) [https://www.youtube.com/watch?v=MSxZt_IUpsA](https://www.youtube.com/watch?v=MSxZt_IUpsA)
+This question was possibly duplicated with a more recent answer: [August 31st, 2021 Livestream Q&A: Are you guys ever moving back into the new headquarters?](./yt-NpZ5kfieZsU.md) [https://www.youtube.com/watch?v=NpZ5kfieZsU](https://www.youtube.com/watch?v=NpZ5kfieZsU)
 
 
 ### Topics

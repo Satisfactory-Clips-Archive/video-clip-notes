@@ -7,6 +7,34 @@ date: Last Modified
 * [Northern Forest World Update Q&A with Hannah](../../../topics/satisfactory-updates/pending/satisfactory-update-5/northern-forest-world-update-q-and-a-with-hannah.md)
 * [#SaveTheWillows](../../../topics/satisfactory-updates/pending/satisfactory-update-5/save-the-willows.md)
 
+## September 3rd, 2021 Livestream
+* [Jace Talk: Small Metal Pillars](../../../transcriptions/yt-yZGq-W7r2sk,62.858586,128.76196666666667.md) [https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=62&end=129](https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=62&end=129)
+* [Jace Talk: New Pillar types](../../../transcriptions/yt-yZGq-W7r2sk,128.79533333333333,172.907752.md) [https://youtube.com/clip/UgzFh1qpn_lmBfeNoex4AaABCQ](https://youtube.com/clip/UgzFh1qpn_lmBfeNoex4AaABCQ)
+* [Jace Talk: New Build feature "Quick Switch"](../../../transcriptions/yt-yZGq-W7r2sk,172.93943333333334,264.295734.md) [https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=172&end=265](https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=172&end=265)
+* [Jace Talk: New Railings](../../../transcriptions/yt-yZGq-W7r2sk,264.33073333333334,297.32674.md) [https://youtube.com/clip/UgzvXtieunvIhq_Ma3t4AaABCQ](https://youtube.com/clip/UgzvXtieunvIhq_Ma3t4AaABCQ)
+* [Jace Talk: Quick Switch for Railings](../../../transcriptions/yt-yZGq-W7r2sk,297.36373333333336,313.64666666666665.md) [https://youtube.com/clip/UgzK3mWyas6uUOEchCV4AaABCQ](https://youtube.com/clip/UgzK3mWyas6uUOEchCV4AaABCQ)
+* [Jace Talk: New Roofs & Windows](../../../transcriptions/yt-yZGq-W7r2sk,313.6800333333333,370.50291.md) [https://youtube.com/clip/UgyfrYJtRHTQzRWxtTF4AaABCQ](https://youtube.com/clip/UgyfrYJtRHTQzRWxtTF4AaABCQ)
+* [Jace Talk: New Walls & new Inverted Ramp materials](../../../transcriptions/yt-yZGq-W7r2sk,370.53683333333333,432.009104.md) [https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=370&end=433](https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=370&end=433)
+* [Jace Talk: Beams & Beam Connectors](../../../transcriptions/yt-yZGq-W7r2sk,432.0316,598.4645333333333.md) [https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=432&end=599](https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=432&end=599)
+* [Jace Talk: More new Roofs](../../../transcriptions/yt-yZGq-W7r2sk,598.4979,651.4508.md) [https://youtube.com/clip/UgwwV83yhWYlbt4Gq_x4AaABCQ](https://youtube.com/clip/UgwwV83yhWYlbt4Gq_x4AaABCQ)
+* [Jace Talk: New Buildables in the Walkways teaser shot](../../../transcriptions/yt-yZGq-W7r2sk,651.4841666666666,701.9012.md) [https://youtube.com/clip/UgxcHhkG1DDsw1Z9Uex4AaABCQ](https://youtube.com/clip/UgxcHhkG1DDsw1Z9Uex4AaABCQ)
+* [Jace Talk: Final shot in the teaser](../../../transcriptions/yt-yZGq-W7r2sk,701.9345666666667,771.973278.md) [https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=701&end=772](https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=701&end=772)
+* [Jace Talk: Architecture Build Menu](../../../transcriptions/yt-yZGq-W7r2sk,772.0045666666667,814.4136.md) [https://youtube.com/clip/Ugy5if5uwAkJag0YVIx4AaABCQ](https://youtube.com/clip/Ugy5if5uwAkJag0YVIx4AaABCQ)
+* [Jace Talk: Wall Frames & Soft Clearance](../../../transcriptions/yt-yZGq-W7r2sk,814.4469666666666,981.5472333333333.md) [https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=814&end=982](https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=814&end=982)
+* [Jace Talk: Hard & Soft Clearance demonstration](../../../transcriptions/yt-yZGq-W7r2sk,981.5806,1109.108.md) [https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=981&end=1110](https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=981&end=1110)
+* [Jace Talk: Zooping](../../../transcriptions/yt-yZGq-W7r2sk,1109.1413666666667,1217.2827333333335.md) [https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=1109&end=1218](https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=1109&end=1218)
+
+## August 31st, 2021 Livestream
+* [State of Dev: Update 5](../../../transcriptions/yt-tNL6Znhieuw.md) [https://www.youtube.com/watch?v=tNL6Znhieuw](https://www.youtube.com/watch?v=tNL6Znhieuw)
+* [Q&A: Fall still looking like a reasonable timeline?](../../../transcriptions/yt-Y7yqhenTqHE.md) [https://www.youtube.com/watch?v=Y7yqhenTqHE](https://www.youtube.com/watch?v=Y7yqhenTqHE)
+* [Trolling: Trains confirmed for Update 5](../../../transcriptions/yt-MZfzoZh_uO0.md) [https://www.youtube.com/watch?v=MZfzoZh_uO0](https://www.youtube.com/watch?v=MZfzoZh_uO0)
+* [Q&A: Just how badly will Update 5 mess up my Spire Coast factory?](../../../transcriptions/yt--Fc7oEsjCX4.md) [https://www.youtube.com/watch?v=-Fc7oEsjCX4](https://www.youtube.com/watch?v=-Fc7oEsjCX4)
+* Q&A: Is the top of the waterfall in the Dune Desert going to be reworked in Update 5? [https://www.youtube.com/watch?v=mJjAcBCPi0I](https://www.youtube.com/watch?v=mJjAcBCPi0I)
+* [Q&A: Cinematic or Patch Notes video on release day?](../../../transcriptions/yt-zKa7fk6vqsQ.md) [https://www.youtube.com/watch?v=zKa7fk6vqsQ](https://www.youtube.com/watch?v=zKa7fk6vqsQ)
+* [Q&A: Can you please reveal new items?](../../../transcriptions/yt-DI8KFc93Qlo.md) [https://www.youtube.com/watch?v=DI8KFc93Qlo](https://www.youtube.com/watch?v=DI8KFc93Qlo)
+* [Q&A: What is one feature you are most excited about for Update 5?](../../../transcriptions/yt-OEM59V7fCkQ.md) [https://www.youtube.com/watch?v=OEM59V7fCkQ](https://www.youtube.com/watch?v=OEM59V7fCkQ)
+* [Q&A: Build limit in Update 5?](../../../transcriptions/yt-JuzKAS5cvOQ.md) [https://www.youtube.com/watch?v=JuzKAS5cvOQ](https://www.youtube.com/watch?v=JuzKAS5cvOQ)
+
 ## August 24th, 2021 Livestream
 * [State of Dev: Update 5](../../../transcriptions/yt-_2YuLSAXiaY.md) [https://www.youtube.com/watch?v=_2YuLSAXiaY](https://www.youtube.com/watch?v=_2YuLSAXiaY)
 * [State of Dev: Update 5 World Update](../../../transcriptions/yt-wgP8XtoDGyU.md) [https://www.youtube.com/watch?v=wgP8XtoDGyU](https://www.youtube.com/watch?v=wgP8XtoDGyU)

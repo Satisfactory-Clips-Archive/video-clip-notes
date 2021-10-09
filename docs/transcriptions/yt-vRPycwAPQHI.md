@@ -10,7 +10,7 @@ topics:
 # [March 2nd, 2021 Livestream](../2021-03-02.md)
 ## Q&A: With the Nvidia DLSS plugin released for Unreal Engine 4.26, any thoughts on upgrading to that?
 https://www.youtube.com/watch?v=vRPycwAPQHI
-This question was possibly duplicated with a more recent answer: June 29th, 2021 Livestream Q&A: DLSS? [https://www.youtube.com/watch?v=IueQtEGBigw](https://www.youtube.com/watch?v=IueQtEGBigw)
+This question was possibly duplicated with a more recent answer: [August 31st, 2021 Livestream Q&A: Did you ever say if DLSS is coming?](./yt-piDbzK70HdU.md) [https://www.youtube.com/watch?v=piDbzK70HdU](https://www.youtube.com/watch?v=piDbzK70HdU)
 
 
 ### Topics

@@ -5,6 +5,12 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > Transportation > [Vehicles](../../../../topics/features/transportation/vehicles.md) > Drones
 
+## September 3rd, 2021 Livestream
+* [Jace Talk: Final shot in the teaser](../../../../transcriptions/yt-yZGq-W7r2sk,701.9345666666667,771.973278.md) [https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=701&end=772](https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=701&end=772)
+
+## August 31st, 2021 Livestream
+* [Trolling: Drones in the Teaser](../../../../transcriptions/yt-tFoTNxpSNmc.md) [https://www.youtube.com/watch?v=tFoTNxpSNmc](https://www.youtube.com/watch?v=tFoTNxpSNmc)
+
 ## August 10th, 2021 Livestream
 * [Q&A: Will it be possible for us to set our own Drone paths in the future?](../../../../transcriptions/yt-BAw5PGJH918.md) [https://www.youtube.com/watch?v=BAw5PGJH918](https://www.youtube.com/watch?v=BAw5PGJH918)
 

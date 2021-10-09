@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../../topics.md) > Features > Transportation > Trains
 * [Train Signals](../../../topics/features/transportation/trains/train-signals.md)
 
+## August 31st, 2021 Livestream
+* [Trolling: Trains confirmed for Update 5](../../../transcriptions/yt-MZfzoZh_uO0.md) [https://www.youtube.com/watch?v=MZfzoZh_uO0](https://www.youtube.com/watch?v=MZfzoZh_uO0)
+
 ## August 24th, 2021 Livestream
 * [Q&A: Are we likely to get more rail track options like a roundabout track?](../../../transcriptions/yt-rO4PnufLT7I.md) [https://www.youtube.com/watch?v=rO4PnufLT7I](https://www.youtube.com/watch?v=rO4PnufLT7I)
 * [Q&A: Are there plans for an option to tell the Train to hold at the Station until the dock is full?](../../../transcriptions/yt-tkfbRxpk2m4.md) [https://www.youtube.com/watch?v=tkfbRxpk2m4](https://www.youtube.com/watch?v=tkfbRxpk2m4)

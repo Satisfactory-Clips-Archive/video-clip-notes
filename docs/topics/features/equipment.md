@@ -14,6 +14,10 @@ date: Last Modified
 * [Rifle](../../topics/features/equipment/rifle.md)
 * [Zip Lines](../../topics/features/equipment/zip-lines.md)
 
+## August 31st, 2021 Livestream
+* [Q&A: Black Powder & Iron to make bullets, machine gun for Base Defense?](../../transcriptions/yt-9q4EKEuu5R0.md) [https://www.youtube.com/watch?v=9q4EKEuu5R0](https://www.youtube.com/watch?v=9q4EKEuu5R0)
+* [Q&A: Can you please reveal new items?](../../transcriptions/yt-DI8KFc93Qlo.md) [https://www.youtube.com/watch?v=DI8KFc93Qlo](https://www.youtube.com/watch?v=DI8KFc93Qlo)
+
 ## August 24th, 2021 Livestream
 * [Snutt Talk: Gas Masks not working inside Vehicles](../../transcriptions/yt-sAPYPntJ52E.md) [https://www.youtube.com/watch?v=sAPYPntJ52E](https://www.youtube.com/watch?v=sAPYPntJ52E)
 * [Q&A: Will the Explorer ever get a mounted nail gun?](../../transcriptions/yt-cdVGvprw5tc.md) [https://www.youtube.com/watch?v=cdVGvprw5tc](https://www.youtube.com/watch?v=cdVGvprw5tc)

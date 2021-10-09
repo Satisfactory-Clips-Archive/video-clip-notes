@@ -9,11 +9,7 @@ topics:
 # [August 3rd, 2021 Livestream](../2021-08-03.md)
 ## Q&A: Does anyone on the team watch people streaming randomly?
 https://www.youtube.com/watch?v=x1Cu1TerhSc
-<details>
-<summary>This question may have been asked previously at least 1 other time, as recently as January 2021.</summary>
-
-* [January 26th, 2021 Livestream Q&A: Do you ever lurk on Satisfactory streams and watch vids?](./yt-IQYDSa80AL0.md) [https://www.youtube.com/watch?v=IQYDSa80AL0](https://www.youtube.com/watch?v=IQYDSa80AL0)
-</details>
+This question was possibly duplicated with a more recent answer: [August 31st, 2021 Livestream Q&A: Will you join any Community streams?](./yt-8yuzLQV8V_A.md) [https://www.youtube.com/watch?v=8yuzLQV8V_A](https://www.youtube.com/watch?v=8yuzLQV8V_A)
 
 
 ### Topics

@@ -14,6 +14,11 @@ date: Last Modified
 * [User Interface](../topics/technology/user-interface.md)
 * [Vulkan](../topics/technology/vulkan.md)
 
+## August 31st, 2021 Livestream
+* [Q&A: Does Satisfactory make use of multiple cores?](../transcriptions/yt-5xMB9YAL06E.md) [https://www.youtube.com/watch?v=5xMB9YAL06E](https://www.youtube.com/watch?v=5xMB9YAL06E)
+* [Q&A: Please allow Satisfactory to work on GeForce Experience](../transcriptions/yt-8Xl6Smhmfvo.md) [https://www.youtube.com/watch?v=8Xl6Smhmfvo](https://www.youtube.com/watch?v=8Xl6Smhmfvo)
+* [Q&A: Could we use the Dedicated Servers with Docker?](../transcriptions/yt-NaW1NBgb70I.md) [https://www.youtube.com/watch?v=NaW1NBgb70I](https://www.youtube.com/watch?v=NaW1NBgb70I)
+
 ## June 29th, 2021 Livestream
 * [Q&A: How would you suggest learning C++?](../transcriptions/yt-YKThpL6o12Y.md) [https://www.youtube.com/watch?v=YKThpL6o12Y](https://www.youtube.com/watch?v=YKThpL6o12Y)
 * [Community FYI: Do not check out Java unless you want to cry](../transcriptions/yt-UoouH-xdwnM.md) [https://www.youtube.com/watch?v=UoouH-xdwnM](https://www.youtube.com/watch?v=UoouH-xdwnM)

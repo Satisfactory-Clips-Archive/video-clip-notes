@@ -8,7 +8,7 @@ topics:
 # [March 23rd, 2021 Livestream](../2021-03-23.md)
 ## Q&A: Will the game Soundtrack come to Spotify soon?
 https://www.youtube.com/watch?v=bBS_pCVpXwY
-This question was possibly duplicated with a more recent answer: [August 3rd, 2021 Livestream Q&A: Will the soundtrack be released on Spotify?](./yt-HCcWGBc_lDo.md) [https://www.youtube.com/watch?v=HCcWGBc_lDo](https://www.youtube.com/watch?v=HCcWGBc_lDo)
+This question was possibly duplicated with a more recent answer: [August 31st, 2021 Livestream Q&A: Can we get a Satisfactory OST available on Spotify?](./yt-uTcx8PYGUXU.md) [https://www.youtube.com/watch?v=uTcx8PYGUXU](https://www.youtube.com/watch?v=uTcx8PYGUXU)
 
 
 ### Topics

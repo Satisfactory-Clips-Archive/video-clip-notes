@@ -5,6 +5,13 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > State of Dev
 
+## August 31st, 2021 Livestream
+* [State of Dev: Golf](../../transcriptions/yt-dcYV28loaHA.md) [https://www.youtube.com/watch?v=dcYV28loaHA](https://www.youtube.com/watch?v=dcYV28loaHA)
+* [State of Dev: YouTube Teasers](../../transcriptions/yt-7RjsAWNazLc.md) [https://www.youtube.com/watch?v=7RjsAWNazLc](https://www.youtube.com/watch?v=7RjsAWNazLc)
+* [State of Dev: Update 5](../../transcriptions/yt-tNL6Znhieuw.md) [https://www.youtube.com/watch?v=tNL6Znhieuw](https://www.youtube.com/watch?v=tNL6Znhieuw)
+* [State of Dev: Dedicated Servers](../../transcriptions/yt-hxHDpNPNmL8.md) [https://www.youtube.com/watch?v=hxHDpNPNmL8](https://www.youtube.com/watch?v=hxHDpNPNmL8)
+* [State of Dev: Merch](../../transcriptions/yt-o5QngiLJgHw.md) [https://www.youtube.com/watch?v=o5QngiLJgHw](https://www.youtube.com/watch?v=o5QngiLJgHw)
+
 ## August 24th, 2021 Livestream
 * [State of Dev: Update 5](../../transcriptions/yt-_2YuLSAXiaY.md) [https://www.youtube.com/watch?v=_2YuLSAXiaY](https://www.youtube.com/watch?v=_2YuLSAXiaY)
 * [State of Dev: Update 5 World Update](../../transcriptions/yt-wgP8XtoDGyU.md) [https://www.youtube.com/watch?v=wgP8XtoDGyU](https://www.youtube.com/watch?v=wgP8XtoDGyU)

@@ -11,6 +11,8 @@ topics:
 # [June 1st, 2021 Livestream](../2021-06-01.md)
 ## Q&A: Can we get smaller Lights?
 https://www.youtube.com/watch?v=oV7CovRkpkE
+This question was possibly duplicated with a more recent answer: [August 31st, 2021 Livestream Q&A: Are there any plans for smaller Lights?](./yt-SgweFihGY38.md) [https://www.youtube.com/watch?v=SgweFihGY38](https://www.youtube.com/watch?v=SgweFihGY38)
+
 
 ### Topics
 * [Coffee Stainers](../topics/coffee-stainers.md)

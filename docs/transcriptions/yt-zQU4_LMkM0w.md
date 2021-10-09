@@ -9,7 +9,7 @@ topics:
 # [May 18th, 2021 Livestream](../2021-05-18.md)
 ## Q&A: Are you allowed to say if there are plans for base building stuff like furniture?
 https://www.youtube.com/watch?v=zQU4_LMkM0w
-This question was possibly duplicated with a more recent answer: [July 13th, 2021 Livestream Q&A: Any chance of purely-aesthetic parts?](./yt-pduDLZtiJwI.md) [https://www.youtube.com/watch?v=pduDLZtiJwI](https://www.youtube.com/watch?v=pduDLZtiJwI)
+This question was possibly duplicated with a more recent answer: [August 31st, 2021 Livestream Q&A: Housing-type items for the Pioneers?](./yt-_bX384CCivs.md) [https://www.youtube.com/watch?v=_bX384CCivs](https://www.youtube.com/watch?v=_bX384CCivs)
 
 
 ### Topics

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Biomes](../../../topics/environment/biomes.md) > Dune Desert
 
+## August 31st, 2021 Livestream
+* Q&A: Is the top of the waterfall in the Dune Desert going to be reworked in Update 5? [https://www.youtube.com/watch?v=mJjAcBCPi0I](https://www.youtube.com/watch?v=mJjAcBCPi0I)
+
 ## August 24th, 2021 Livestream
 * [Q&A: How tall are the Dune Desert mountains?](../../../transcriptions/yt-CZGQmnUojDE.md) [https://www.youtube.com/watch?v=CZGQmnUojDE](https://www.youtube.com/watch?v=CZGQmnUojDE)
 * [Q&A: Question about revamping the Spire Coast, is the plateau in the Dune Desert in the danger zone?](../../../transcriptions/yt-oAUq8kWdbZ8.md) [https://www.youtube.com/watch?v=oAUq8kWdbZ8](https://www.youtube.com/watch?v=oAUq8kWdbZ8)

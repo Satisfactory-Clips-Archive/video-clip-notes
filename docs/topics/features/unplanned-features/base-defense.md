@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Unplanned Features](../../../topics/features/unplanned-features.md) > Base Defense
 
+## August 31st, 2021 Livestream
+* [Q&A: Black Powder & Iron to make bullets, machine gun for Base Defense?](../../../transcriptions/yt-9q4EKEuu5R0.md) [https://www.youtube.com/watch?v=9q4EKEuu5R0](https://www.youtube.com/watch?v=9q4EKEuu5R0)
+
 ## July 20th, 2021 Livestream
 * [Community FYI: I'm so excited for the Tower Defense mode they announced](../../../transcriptions/yt-RzcHWe-bqSM.md) [https://www.youtube.com/watch?v=RzcHWe-bqSM](https://www.youtube.com/watch?v=RzcHWe-bqSM)
 * [Q&A: Can you answer if there will be Base Defense again, we're only at 40 citations?](../../../transcriptions/yt-VrzN65UdofQ.md) [https://www.youtube.com/watch?v=VrzN65UdofQ](https://www.youtube.com/watch?v=VrzN65UdofQ)

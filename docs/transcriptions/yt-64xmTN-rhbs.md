@@ -11,7 +11,7 @@ topics:
 # [January 12th, 2021 Livestream](../2021-01-12.md)
 ## Q&A: The game is not done until I can flush the toilet?
 https://www.youtube.com/watch?v=64xmTN-rhbs
-This question was possibly duplicated with a more recent answer: [June 29th, 2021 Livestream Q&A: Will there be a proper use for the toilet in The HUB one day?](./yt-MW1lkjm7g3U.md) [https://www.youtube.com/watch?v=MW1lkjm7g3U](https://www.youtube.com/watch?v=MW1lkjm7g3U)
+This question was possibly duplicated with a more recent answer: [August 31st, 2021 Livestream Q&A: How's the flush button in The HUB coming along?](./yt-JKV3UIwRUxM.md) [https://www.youtube.com/watch?v=JKV3UIwRUxM](https://www.youtube.com/watch?v=JKV3UIwRUxM)
 
 
 ### Topics

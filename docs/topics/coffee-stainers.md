@@ -36,6 +36,11 @@ date: Last Modified
 * [Torsten](../topics/coffee-stainers/torsten.md)
 * [Uzu](../topics/coffee-stainers/uzu.md)
 
+## August 31st, 2021 Livestream
+* [Q&A: Do Devs work remotely?](../transcriptions/yt-4xhFmYPt9g8.md) [https://www.youtube.com/watch?v=4xhFmYPt9g8](https://www.youtube.com/watch?v=4xhFmYPt9g8)
+* [Q&A: FMV Cutscenes of the CSS Devs in Story Mode?](../transcriptions/yt-fXc-b_rsaAw.md) [https://www.youtube.com/watch?v=fXc-b_rsaAw](https://www.youtube.com/watch?v=fXc-b_rsaAw)
+* [Q&A: Who builds all the factories in your YouTube reveals?](../transcriptions/yt-piTvF4dhY0I.md) [https://www.youtube.com/watch?v=piTvF4dhY0I](https://www.youtube.com/watch?v=piTvF4dhY0I)
+
 ## August 17th, 2021 Livestream
 * [State of Dev: Most people are back from vacation](../transcriptions/yt-yb2UEdQMQMI.md) [https://www.youtube.com/watch?v=yb2UEdQMQMI](https://www.youtube.com/watch?v=yb2UEdQMQMI)
 * [Q&A: Does the dev team have their own list of crap to do?](../transcriptions/yt-MkdQtDkdOAM.md) [https://www.youtube.com/watch?v=MkdQtDkdOAM](https://www.youtube.com/watch?v=MkdQtDkdOAM)

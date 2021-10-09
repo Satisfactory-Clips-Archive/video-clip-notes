@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Technology](../../../topics/technology.md) > [Graphics](../../../topics/technology/graphics.md) > Ray Tracing
 
+## August 31st, 2021 Livestream
+* Snutt & Jace Talk: Screenspace reflections & water updates [https://www.youtube.com/watch?v=DsE2x1rEfIw](https://www.youtube.com/watch?v=DsE2x1rEfIw)
+
 ## May 25th, 2021 Livestream
 * [Q&A: Are you planning ray-tracing or DLSS in the future?](../../../transcriptions/yt-b9mNEeXtILM.md) [https://www.youtube.com/watch?v=b9mNEeXtILM](https://www.youtube.com/watch?v=b9mNEeXtILM)
 

@@ -16,6 +16,11 @@ date: Last Modified
 * [Terraforming](../../topics/features/unplanned-features/terraforming.md)
 * [VR](../../topics/features/unplanned-features/vr.md)
 
+## August 31st, 2021 Livestream
+* [Q&A: Do you plan some malfunctions of machines in regards to debug & repair?](../../transcriptions/yt-9-pbFs3q3Cg.md) [https://www.youtube.com/watch?v=9-pbFs3q3Cg](https://www.youtube.com/watch?v=9-pbFs3q3Cg)
+* [Q&A: Do you plan on adding options for underclocking belt speeds?](../../transcriptions/yt-v5ll_Eofz7A.md) [https://www.youtube.com/watch?v=v5ll_Eofz7A](https://www.youtube.com/watch?v=v5ll_Eofz7A)
+* [Q&A: Is it possible to enable collision damage on Buildings from Vehicles?](../../transcriptions/yt-p4z2K8_ed7M.md) [https://www.youtube.com/watch?v=p4z2K8_ed7M](https://www.youtube.com/watch?v=p4z2K8_ed7M)
+
 ## August 24th, 2021 Livestream
 * [Q&A: Personal drone?](../../transcriptions/yt-fZCyaEmQLKs.md) [https://www.youtube.com/watch?v=fZCyaEmQLKs](https://www.youtube.com/watch?v=fZCyaEmQLKs)
 

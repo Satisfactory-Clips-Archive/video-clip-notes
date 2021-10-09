@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Sweden
 
+## August 31st, 2021 Livestream
+* [Q&A: Do you guys work near Paradox Interactive headquarters in Sweden?](../../transcriptions/yt-PRdSxdarJpQ.md) [https://www.youtube.com/watch?v=PRdSxdarJpQ](https://www.youtube.com/watch?v=PRdSxdarJpQ)
+
 ## August 17th, 2021 Livestream
 * [Snutt & Jace Talk: Snutt's Summer 2021 Vacation Photos](../../transcriptions/yt-O091MGGUbOE.md) [https://www.youtube.com/watch?v=O091MGGUbOE](https://www.youtube.com/watch?v=O091MGGUbOE)
 

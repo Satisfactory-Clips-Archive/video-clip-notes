@@ -9,7 +9,7 @@ topics:
 # [May 11th, 2021 Livestream](../2021-05-11.md)
 ## Q&A: When are you thinking of putting out updates for the Story?
 https://www.youtube.com/watch?v=4NOvrqJdUMY
-This question was possibly duplicated with a more recent answer: [July 20th, 2021 Livestream Q&A: Story Update coming soon?](./yt-dHL-myxcngM.md) [https://www.youtube.com/watch?v=dHL-myxcngM](https://www.youtube.com/watch?v=dHL-myxcngM)
+This question was possibly duplicated with a more recent answer: [August 31st, 2021 Livestream Q&A: When are we getting a Story Mode?](./yt-4kSdfzqeyB4.md) [https://www.youtube.com/watch?v=4kSdfzqeyB4](https://www.youtube.com/watch?v=4kSdfzqeyB4)
 
 
 ### Topics

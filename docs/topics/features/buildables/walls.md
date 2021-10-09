@@ -5,6 +5,16 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Walls
 
+## September 3rd, 2021 Livestream
+* [Jace Talk: New Walls & new Inverted Ramp materials](../../../transcriptions/yt-yZGq-W7r2sk,370.53683333333333,432.009104.md) [https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=370&end=433](https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=370&end=433)
+
+## August 31st, 2021 Livestream
+* [Snutt & Jace Talk: Inverted Ramp Frames & Ramp Walls](../../../transcriptions/yt-OF7RMEbdnUI.md) [https://www.youtube.com/watch?v=OF7RMEbdnUI](https://www.youtube.com/watch?v=OF7RMEbdnUI)
+* [Snutt & Jace Talk: More Glass ceilings & differently-sized walls](../../../transcriptions/yt-Vls7zobjrgo.md) [https://www.youtube.com/watch?v=Vls7zobjrgo](https://www.youtube.com/watch?v=Vls7zobjrgo)
+* [Snutt & Jace Talk: Small Ramp Walls](../../../transcriptions/yt-xoOOD7dPLXE.md) [https://www.youtube.com/watch?v=xoOOD7dPLXE](https://www.youtube.com/watch?v=xoOOD7dPLXE)
+* [Snutt & Jace Talk: Frame Walls](../../../transcriptions/yt-klmUasuQw9A.md) [https://www.youtube.com/watch?v=klmUasuQw9A](https://www.youtube.com/watch?v=klmUasuQw9A)
+* Snutt & Jace Talk: Inverted Ramp Walls [https://www.youtube.com/watch?v=p9FlyxPbhUM](https://www.youtube.com/watch?v=p9FlyxPbhUM)
+
 ## August 10th, 2021 Livestream
 * [Q&A: Automatic Doors?](../../../transcriptions/yt-9Mb3uFjYEqw.md) [https://www.youtube.com/watch?v=9Mb3uFjYEqw](https://www.youtube.com/watch?v=9Mb3uFjYEqw)
 

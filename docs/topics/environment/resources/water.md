@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Resources](../../../topics/environment/resources.md) > Water
 
+## August 31st, 2021 Livestream
+* Snutt & Jace Talk: Screenspace reflections & water updates [https://www.youtube.com/watch?v=DsE2x1rEfIw](https://www.youtube.com/watch?v=DsE2x1rEfIw)
+
 ## June 22nd, 2021 Livestream
 * [Q&A: What about river physics, textures- any updates on that any time soon?](../../../transcriptions/yt-ZPyYBY3IW00.md) [https://www.youtube.com/watch?v=ZPyYBY3IW00](https://www.youtube.com/watch?v=ZPyYBY3IW00)
 

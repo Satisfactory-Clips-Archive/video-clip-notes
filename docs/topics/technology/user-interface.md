@@ -6,6 +6,13 @@ date: Last Modified
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > User Interface
 * [Holograms](../../topics/technology/user-interface/holograms.md)
 
+## September 3rd, 2021 Livestream
+* [Jace Talk: Architecture Build Menu](../../transcriptions/yt-yZGq-W7r2sk,772.0045666666667,814.4136.md) [https://youtube.com/clip/Ugy5if5uwAkJag0YVIx4AaABCQ](https://youtube.com/clip/Ugy5if5uwAkJag0YVIx4AaABCQ)
+* [Jace Talk: Zooping](../../transcriptions/yt-yZGq-W7r2sk,1109.1413666666667,1217.2827333333335.md) [https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=1109&end=1218](https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=1109&end=1218)
+
+## August 31st, 2021 Livestream
+* [Q&A: Is there a way of reducing or switching off HUD to avoid screen burn?](../../transcriptions/yt-Sjpj58nh-zQ.md) [https://www.youtube.com/watch?v=Sjpj58nh-zQ](https://www.youtube.com/watch?v=Sjpj58nh-zQ)
+
 ## August 24th, 2021 Livestream
 * [Q&A: When will the Power Shards show up in the UI for Water Extractors?](../../transcriptions/yt-YhVyhhj6INQ.md) [https://www.youtube.com/watch?v=YhVyhhj6INQ](https://www.youtube.com/watch?v=YhVyhhj6INQ)
 * [Q&A: Copy/paste settings from Miners, Fluid Extractors, Power Plants, when?](../../transcriptions/yt-4cmv1GtvB18.md) [https://www.youtube.com/watch?v=4cmv1GtvB18](https://www.youtube.com/watch?v=4cmv1GtvB18)

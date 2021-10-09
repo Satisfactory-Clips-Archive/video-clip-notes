@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > Biomass Burner
 
+## August 31st, 2021 Livestream
+* [Q&A: Are there plans to make Power Storage usable with Bio Burners?](../../../transcriptions/yt-voAsRVkVD4w.md) [https://www.youtube.com/watch?v=voAsRVkVD4w](https://www.youtube.com/watch?v=voAsRVkVD4w)
+
 ## August 24th, 2021 Livestream
 * [Q&A: Anyone running Particle Accelerators in Biomass Generators?](../../../transcriptions/yt-FidrasGxKm4.md) [https://www.youtube.com/watch?v=FidrasGxKm4](https://www.youtube.com/watch?v=FidrasGxKm4)
 

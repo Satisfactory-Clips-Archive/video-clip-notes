@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > Seasonal Events
 * [FICS⁕MAS](../../topics/satisfactory-updates/seasonal-events/fics-mas.md)
 
+## August 31st, 2021 Livestream
+* [Q&A: Any Halloween FICSIT Event planned?](../../transcriptions/yt-aCMDITIQ5WQ.md) [https://www.youtube.com/watch?v=aCMDITIQ5WQ](https://www.youtube.com/watch?v=aCMDITIQ5WQ)
+
 ## August 24th, 2021 Livestream
 * [Q&A: Any new rumours about in-game Events, or whether FICS⁕MAS will be coming back?](../../transcriptions/yt-GR0xqeexmGI.md) [https://www.youtube.com/watch?v=GR0xqeexmGI](https://www.youtube.com/watch?v=GR0xqeexmGI)
 

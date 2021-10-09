@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Unplanned Features](../../../topics/features/unplanned-features.md) > Mass Building
 
+## August 31st, 2021 Livestream
+* [Q&A: Is a feature planned to Mass Build like Smart! mod?](../../../transcriptions/yt-V8g2L7aIey4.md) [https://www.youtube.com/watch?v=V8g2L7aIey4](https://www.youtube.com/watch?v=V8g2L7aIey4)
+
 ## May 25th, 2021 Livestream
 * [Q&A: Mass Building?](../../../transcriptions/yt-ueGK9d55G_Q.md) [https://www.youtube.com/watch?v=ueGK9d55G_Q](https://www.youtube.com/watch?v=ueGK9d55G_Q)
 

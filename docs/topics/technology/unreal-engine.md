@@ -203,6 +203,7 @@ date: Last Modified
 * [Q&A: Are you using Blueprints or C++?](../../transcriptions/yt-z7fe-_3-Al4.md) [https://www.youtube.com/watch?v=z7fe-_3-Al4](https://www.youtube.com/watch?v=z7fe-_3-Al4)
 
 ## September 1st, 2020 Livestream
+* [Q&A: One thing you're working on near-term for Content?](../../transcriptions/yt-GmCY3vt3l0A.md) [https://www.youtube.com/watch?v=GmCY3vt3l0A](https://www.youtube.com/watch?v=GmCY3vt3l0A)
 * [Q&A: Have you thought about implementing a progress bar for how close to the Build Limit we are?](../../transcriptions/yt-RyE_hc4huhA.md) [https://www.youtube.com/watch?v=RyE_hc4huhA](https://www.youtube.com/watch?v=RyE_hc4huhA)
 
 ## August 25th, 2020 Livestream

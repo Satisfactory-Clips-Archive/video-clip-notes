@@ -18,6 +18,9 @@ date: Last Modified
 * [Teasers & Trailers](../topics/satisfactory-updates/teasers-trailers.md)
 * [World Update](../topics/satisfactory-updates/world-update.md)
 
+## August 31st, 2021 Livestream
+* [Community FYI: I hope you never get to 1.0, these Updates are awesome!](../transcriptions/yt-ZkjtpAwuZM0.md) [https://www.youtube.com/watch?v=ZkjtpAwuZM0](https://www.youtube.com/watch?v=ZkjtpAwuZM0)
+
 ## August 24th, 2021 Livestream
 * [Snutt Talk: Development prioritisation](../transcriptions/yt-Nz43I8QJE9A.md) [https://www.youtube.com/watch?v=Nz43I8QJE9A](https://www.youtube.com/watch?v=Nz43I8QJE9A)
 * [Q&A: Will there be updates after 1.0?](../transcriptions/yt-LXG_NjB0cr4.md) [https://www.youtube.com/watch?v=LXG_NjB0cr4](https://www.youtube.com/watch?v=LXG_NjB0cr4)

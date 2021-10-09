@@ -8,7 +8,7 @@ topics:
 # [March 24th, 2020 Livestream](../2020-03-24.md)
 ## Q&A: How will we crossplay?
 https://www.youtube.com/watch?v=-kVvrassZVw
-This question was possibly duplicated with a more recent answer: [June 29th, 2021 Livestream Q&A: How can I play with a friend, Epic/Steam?](./yt-5THxL1hH6GI.md) [https://www.youtube.com/watch?v=5THxL1hH6GI](https://www.youtube.com/watch?v=5THxL1hH6GI)
+This question was possibly duplicated with a more recent answer: [August 31st, 2021 Livestream Q&A: Is it possible Steam Multiplayer with Epic?](./yt-0BJijGAInLU.md) [https://www.youtube.com/watch?v=0BJijGAInLU](https://www.youtube.com/watch?v=0BJijGAInLU)
 
 
 ### Topics

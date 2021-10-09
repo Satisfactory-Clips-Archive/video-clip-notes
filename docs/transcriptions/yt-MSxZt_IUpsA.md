@@ -9,11 +9,7 @@ topics:
 # [July 6th, 2021 Livestream](../2021-07-06.md)
 ## Q&A: You guys work in the office yet?
 https://www.youtube.com/watch?v=MSxZt_IUpsA
-<details>
-<summary>This question may have been asked previously at least 1 other time, as recently as November 2020.</summary>
-
-* [November 17th, 2020 Livestream Q&A: When are you guys returning to the office?](./yt-T4LqujL6Z1E.md) [https://www.youtube.com/watch?v=T4LqujL6Z1E](https://www.youtube.com/watch?v=T4LqujL6Z1E)
-</details>
+This question was possibly duplicated with a more recent answer: [August 31st, 2021 Livestream Q&A: Are you guys ever moving back into the new headquarters?](./yt-NpZ5kfieZsU.md) [https://www.youtube.com/watch?v=NpZ5kfieZsU](https://www.youtube.com/watch?v=NpZ5kfieZsU)
 
 
 ### Topics

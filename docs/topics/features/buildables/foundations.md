@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Foundations
 * [Cheatcrete](../../../topics/features/buildables/foundations/cheatcrete.md)
 
+## September 3rd, 2021 Livestream
+* [Jace Talk: New Walls & new Inverted Ramp materials](../../../transcriptions/yt-yZGq-W7r2sk,370.53683333333333,432.009104.md) [https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=370&end=433](https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=370&end=433)
+
 ## August 24th, 2021 Livestream
 * [Q&A: Will Railings snap to all kinda of ramps?](../../../transcriptions/yt-qtyPULKrJyE.md) [https://www.youtube.com/watch?v=qtyPULKrJyE](https://www.youtube.com/watch?v=qtyPULKrJyE)
 * [Q&A: Skate park confirmed?](../../../transcriptions/yt-LRUNHLC-E2M.md) [https://www.youtube.com/watch?v=LRUNHLC-E2M](https://www.youtube.com/watch?v=LRUNHLC-E2M)

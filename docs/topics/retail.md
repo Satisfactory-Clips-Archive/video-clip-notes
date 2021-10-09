@@ -9,6 +9,9 @@ date: Last Modified
 * [GeForce Now](../topics/retail/geforce-now.md)
 * [Steam Store](../topics/retail/steam-store.md)
 
+## August 31st, 2021 Livestream
+* [Q&A: How are the sales numbers?](../transcriptions/yt-H67ewrFgR5M.md) [https://www.youtube.com/watch?v=H67ewrFgR5M](https://www.youtube.com/watch?v=H67ewrFgR5M)
+
 ## August 10th, 2021 Livestream
 * [Q&A: How often is Satisfactory on sale?](../transcriptions/yt-k0LexOe2wsE.md) [https://www.youtube.com/watch?v=k0LexOe2wsE](https://www.youtube.com/watch?v=k0LexOe2wsE)
 

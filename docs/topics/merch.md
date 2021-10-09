@@ -7,6 +7,9 @@ date: Last Modified
 * [EU Merch Store](../topics/merch/eu-merch-store.md)
 * [Merch Prototypes](../topics/merch/merch-prototypes.md)
 
+## August 31st, 2021 Livestream
+* [State of Dev: Merch](../transcriptions/yt-o5QngiLJgHw.md) [https://www.youtube.com/watch?v=o5QngiLJgHw](https://www.youtube.com/watch?v=o5QngiLJgHw)
+
 ## August 24th, 2021 Livestream
 * [Q&A: How's the mug going along?](../transcriptions/yt-D_6lMCAJw6o.md) [https://www.youtube.com/watch?v=D_6lMCAJw6o](https://www.youtube.com/watch?v=D_6lMCAJw6o)
 

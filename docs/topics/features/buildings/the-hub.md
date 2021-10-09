@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > The HUB
 
+## August 31st, 2021 Livestream
+* [Q&A: How's the flush button in The HUB coming along?](../../../transcriptions/yt-JKV3UIwRUxM.md) [https://www.youtube.com/watch?v=JKV3UIwRUxM](https://www.youtube.com/watch?v=JKV3UIwRUxM)
+
 ## August 24th, 2021 Livestream
 * [Q&A: Will The HUB have Goat Simulator installed?](../../../transcriptions/yt-hZKtoIq3gdQ.md) [https://www.youtube.com/watch?v=hZKtoIq3gdQ](https://www.youtube.com/watch?v=hZKtoIq3gdQ)
 * [Q&A: Are there going to be stats on The HUB computer at some point?](../../../transcriptions/yt-LXjxyiB6F3s.md) [https://www.youtube.com/watch?v=LXjxyiB6F3s](https://www.youtube.com/watch?v=LXjxyiB6F3s)

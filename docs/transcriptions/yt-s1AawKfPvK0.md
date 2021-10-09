@@ -10,7 +10,7 @@ topics:
 # [July 13th, 2021 Livestream](../2021-07-13.md)
 ## Q&A: Will there be a Smart!-similar system for Update 5?
 https://www.youtube.com/watch?v=s1AawKfPvK0
-This question was possibly duplicated with a more recent answer: [August 10th, 2021 Livestream Q&A: Tools for massive builds like Smart! mod ?](./yt-A2dxY3Nl3Ew.md) [https://www.youtube.com/watch?v=A2dxY3Nl3Ew](https://www.youtube.com/watch?v=A2dxY3Nl3Ew)
+This question was possibly duplicated with a more recent answer: [August 31st, 2021 Livestream Q&A: Do you intend to put helpful building modes like Smart! mod to help players build faster?](./yt-cN_omO1NK9c.md) [https://www.youtube.com/watch?v=cN_omO1NK9c](https://www.youtube.com/watch?v=cN_omO1NK9c)
 
 
 ### Topics

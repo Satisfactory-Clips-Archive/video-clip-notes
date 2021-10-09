@@ -7,6 +7,10 @@ date: Last Modified
 * [Characters](../topics/story-lore/characters.md)
 * [Project Assembly](../topics/story-lore/project-assembly.md)
 
+## August 31st, 2021 Livestream
+* [Q&A: When are we getting a Story Mode?](../transcriptions/yt-4kSdfzqeyB4.md) [https://www.youtube.com/watch?v=4kSdfzqeyB4](https://www.youtube.com/watch?v=4kSdfzqeyB4)
+* [Q&A: FMV Cutscenes of the CSS Devs in Story Mode?](../transcriptions/yt-fXc-b_rsaAw.md) [https://www.youtube.com/watch?v=fXc-b_rsaAw](https://www.youtube.com/watch?v=fXc-b_rsaAw)
+
 ## August 10th, 2021 Livestream
 * [Q&A: Will there be a Satisfactory Story or not?](../transcriptions/yt-jYJBghZ58LU.md) [https://www.youtube.com/watch?v=jYJBghZ58LU](https://www.youtube.com/watch?v=jYJBghZ58LU)
 * [Q&A: Is the plan to continue playing after finishing the Story?](../transcriptions/yt-Rn0Q8sielK8.md) [https://www.youtube.com/watch?v=Rn0Q8sielK8](https://www.youtube.com/watch?v=Rn0Q8sielK8)

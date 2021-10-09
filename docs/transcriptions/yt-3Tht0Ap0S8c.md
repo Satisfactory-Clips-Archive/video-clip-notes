@@ -9,6 +9,8 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Is there a debug command to see how many Objects you are using?
 https://www.youtube.com/watch?v=3Tht0Ap0S8c
+This question was possibly duplicated with a more recent answer: [March 23rd, 2021 Livestream Q&A: Object Limit, any chance to display how much is left somehow?](./yt-SNPdVSInCCQ.md) [https://www.youtube.com/watch?v=SNPdVSInCCQ](https://www.youtube.com/watch?v=SNPdVSInCCQ)
+
 
 ### Topics
 * [Features > Unplanned Features > Mass Building](../topics/features/unplanned-features/mass-building.md)

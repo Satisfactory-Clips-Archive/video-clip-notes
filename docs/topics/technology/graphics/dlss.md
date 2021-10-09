@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Technology](../../../topics/technology.md) > [Graphics](../../../topics/technology/graphics.md) > DLSS
 
+## August 31st, 2021 Livestream
+* [Q&A: Did you ever say if DLSS is coming?](../../../transcriptions/yt-piDbzK70HdU.md) [https://www.youtube.com/watch?v=piDbzK70HdU](https://www.youtube.com/watch?v=piDbzK70HdU)
+
 ## June 29th, 2021 Livestream
 * Q&A: DLSS? [https://www.youtube.com/watch?v=IueQtEGBigw](https://www.youtube.com/watch?v=IueQtEGBigw)
 

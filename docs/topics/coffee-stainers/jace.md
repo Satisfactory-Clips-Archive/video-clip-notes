@@ -7,6 +7,16 @@ date: Last Modified
 * ["Fix Jace" QA Site Posts](../../topics/coffee-stainers/jace/fix-jace-qa-site-posts.md)
 * [Jace Art](../../topics/coffee-stainers/jace/jace-art.md)
 
+## August 31st, 2021 Livestream
+* [Q&A: Does Jace watch Naruto?](../../transcriptions/yt-ZQPH6PEA3pI.md) [https://www.youtube.com/watch?v=ZQPH6PEA3pI](https://www.youtube.com/watch?v=ZQPH6PEA3pI)
+* [Q&A: Why is Snutt's camera so crisp and Jace's isn't?](../../transcriptions/yt-vGPbnTlA7D0.md) [https://www.youtube.com/watch?v=vGPbnTlA7D0](https://www.youtube.com/watch?v=vGPbnTlA7D0)
+* [Q&A: How are you guys doing?](../../transcriptions/yt-r_K0NK3NVKk.md) [https://www.youtube.com/watch?v=r_K0NK3NVKk](https://www.youtube.com/watch?v=r_K0NK3NVKk)
+* [Q&A: Jace, how does your hair look magnificent every day?](../../transcriptions/yt-oMxI9llLuDc.md) [https://www.youtube.com/watch?v=oMxI9llLuDc](https://www.youtube.com/watch?v=oMxI9llLuDc)
+* [Q&A: Will you join any Community streams?](../../transcriptions/yt-8yuzLQV8V_A.md) [https://www.youtube.com/watch?v=8yuzLQV8V_A](https://www.youtube.com/watch?v=8yuzLQV8V_A)
+* [Q&A: What is one feature you are most excited about for Update 5?](../../transcriptions/yt-OEM59V7fCkQ.md) [https://www.youtube.com/watch?v=OEM59V7fCkQ](https://www.youtube.com/watch?v=OEM59V7fCkQ)
+* [Q&A: Are you guys ever moving back into the new headquarters?](../../transcriptions/yt-NpZ5kfieZsU.md) [https://www.youtube.com/watch?v=NpZ5kfieZsU](https://www.youtube.com/watch?v=NpZ5kfieZsU)
+* [Q&A: How come your builds are so good in Trailers but on your own channel they're dogshit](../../transcriptions/yt-BmPwejyviV8.md) [https://www.youtube.com/watch?v=BmPwejyviV8](https://www.youtube.com/watch?v=BmPwejyviV8)
+
 ## August 17th, 2021 Livestream
 * [Snutt & Jace Talk: Vocal exercises](../../transcriptions/yt-ipFt_rieUP8.md) [https://www.youtube.com/watch?v=ipFt_rieUP8](https://www.youtube.com/watch?v=ipFt_rieUP8)
 * [Q&A: So what's for dinner today?](../../transcriptions/yt-LaDbKbTnmzI.md) [https://www.youtube.com/watch?v=LaDbKbTnmzI](https://www.youtube.com/watch?v=LaDbKbTnmzI)

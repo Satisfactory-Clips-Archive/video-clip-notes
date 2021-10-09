@@ -23,6 +23,12 @@ date: Last Modified
 * [Tom](../topics/community/tom.md)
 * [Wiki](../topics/community/wiki.md)
 
+## August 31st, 2021 Livestream
+* [Snutt & Jace Talk: Community Response to Update 5 Teasers](../transcriptions/yt-FOd34rE_7-w.md) [https://www.youtube.com/watch?v=FOd34rE_7-w](https://www.youtube.com/watch?v=FOd34rE_7-w)
+* [Community Highlights: Verify your game files](../transcriptions/yt-PPjVCg2ErKs.md) [https://www.youtube.com/watch?v=PPjVCg2ErKs](https://www.youtube.com/watch?v=PPjVCg2ErKs)
+* [Q&A: Will you join any Community streams?](../transcriptions/yt-8yuzLQV8V_A.md) [https://www.youtube.com/watch?v=8yuzLQV8V_A](https://www.youtube.com/watch?v=8yuzLQV8V_A)
+* [Q&A: I just got here, can you restart the stream?](../transcriptions/yt-8ihBioKYfkk.md) [https://www.youtube.com/watch?v=8ihBioKYfkk](https://www.youtube.com/watch?v=8ihBioKYfkk)
+
 ## August 17th, 2021 Livestream
 * [Q&A: What did you think of the fusion photo?](../transcriptions/yt-8Ed70U5TDmM.md) [https://www.youtube.com/watch?v=8Ed70U5TDmM](https://www.youtube.com/watch?v=8Ed70U5TDmM)
 

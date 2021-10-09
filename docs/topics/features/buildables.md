@@ -10,9 +10,33 @@ date: Last Modified
 * [Ladders](../../topics/features/buildables/ladders.md)
 * [Lights](../../topics/features/buildables/lights.md)
 * [Railings](../../topics/features/buildables/railings.md)
+* [Roofs](../../topics/features/buildables/roofs.md)
 * [Storage Containers](../../topics/features/buildables/storage-containers.md)
 * [Walkways](../../topics/features/buildables/walkways.md)
 * [Walls](../../topics/features/buildables/walls.md)
+* [Windows](../../topics/features/buildables/windows.md)
+
+## September 3rd, 2021 Livestream
+* [Jace Talk: Small Metal Pillars](../../transcriptions/yt-yZGq-W7r2sk,62.858586,128.76196666666667.md) [https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=62&end=129](https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=62&end=129)
+* [Jace Talk: New Pillar types](../../transcriptions/yt-yZGq-W7r2sk,128.79533333333333,172.907752.md) [https://youtube.com/clip/UgzFh1qpn_lmBfeNoex4AaABCQ](https://youtube.com/clip/UgzFh1qpn_lmBfeNoex4AaABCQ)
+* [Jace Talk: New Roofs & Windows](../../transcriptions/yt-yZGq-W7r2sk,313.6800333333333,370.50291.md) [https://youtube.com/clip/UgyfrYJtRHTQzRWxtTF4AaABCQ](https://youtube.com/clip/UgyfrYJtRHTQzRWxtTF4AaABCQ)
+* [Jace Talk: Beams & Beam Connectors](../../transcriptions/yt-yZGq-W7r2sk,432.0316,598.4645333333333.md) [https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=432&end=599](https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=432&end=599)
+* [Jace Talk: More new Roofs](../../transcriptions/yt-yZGq-W7r2sk,598.4979,651.4508.md) [https://youtube.com/clip/UgwwV83yhWYlbt4Gq_x4AaABCQ](https://youtube.com/clip/UgwwV83yhWYlbt4Gq_x4AaABCQ)
+* [Jace Talk: New Buildables in the Walkways teaser shot](../../transcriptions/yt-yZGq-W7r2sk,651.4841666666666,701.9012.md) [https://youtube.com/clip/UgxcHhkG1DDsw1Z9Uex4AaABCQ](https://youtube.com/clip/UgxcHhkG1DDsw1Z9Uex4AaABCQ)
+* [Jace Talk: Final shot in the teaser](../../transcriptions/yt-yZGq-W7r2sk,701.9345666666667,771.973278.md) [https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=701&end=772](https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=701&end=772)
+* [Jace Talk: Architecture Build Menu](../../transcriptions/yt-yZGq-W7r2sk,772.0045666666667,814.4136.md) [https://youtube.com/clip/Ugy5if5uwAkJag0YVIx4AaABCQ](https://youtube.com/clip/Ugy5if5uwAkJag0YVIx4AaABCQ)
+
+## August 31st, 2021 Livestream
+* [Snutt & Jace Talk: Cosmetics breakdown](../../transcriptions/yt-cL9B3gtkpOM.md) [https://www.youtube.com/watch?v=cL9B3gtkpOM](https://www.youtube.com/watch?v=cL9B3gtkpOM)
+* [Snutt & Jace Talk: Building the set pieces for the cosmetics video](../../transcriptions/yt-w-_GGJ3dqIM.md) [https://www.youtube.com/watch?v=w-_GGJ3dqIM](https://www.youtube.com/watch?v=w-_GGJ3dqIM)
+* [Snutt & Jace Talk: Something else revealed](../../transcriptions/yt-k7ZNKheSej4.md) [https://www.youtube.com/watch?v=k7ZNKheSej4](https://www.youtube.com/watch?v=k7ZNKheSej4)
+* [Snutt & Jace Talk: Pipes coming through frames](../../transcriptions/yt-_vKIFDNtmfE.md) [https://www.youtube.com/watch?v=_vKIFDNtmfE](https://www.youtube.com/watch?v=_vKIFDNtmfE)
+* [Snutt & Jace Talk: Inverted Ramp Frames & Ramp Walls](../../transcriptions/yt-OF7RMEbdnUI.md) [https://www.youtube.com/watch?v=OF7RMEbdnUI](https://www.youtube.com/watch?v=OF7RMEbdnUI)
+* [Snutt & Jace Talk: We got Beams!](../../transcriptions/yt-UKy-GdUalWM.md) [https://www.youtube.com/watch?v=UKy-GdUalWM](https://www.youtube.com/watch?v=UKy-GdUalWM)
+* [Snutt & Jace Talk: Glass ceiling](../../transcriptions/yt-pghytEdJyNo.md) [https://www.youtube.com/watch?v=pghytEdJyNo](https://www.youtube.com/watch?v=pghytEdJyNo)
+* [Snutt & Jace Talk: More Glass ceilings & differently-sized walls](../../transcriptions/yt-Vls7zobjrgo.md) [https://www.youtube.com/watch?v=Vls7zobjrgo](https://www.youtube.com/watch?v=Vls7zobjrgo)
+* [Snutt & Jace Talk: Trimming](../../transcriptions/yt-vCLJzFzyCAg.md) [https://www.youtube.com/watch?v=vCLJzFzyCAg](https://www.youtube.com/watch?v=vCLJzFzyCAg)
+* [Q&A: Can you please reveal new items?](../../transcriptions/yt-DI8KFc93Qlo.md) [https://www.youtube.com/watch?v=DI8KFc93Qlo](https://www.youtube.com/watch?v=DI8KFc93Qlo)
 
 ## June 22nd, 2021 Livestream
 * [Q&A: Will Stairs & the Walkways be more connectable?](../../transcriptions/yt-nkrBqOatRWI.md) [https://www.youtube.com/watch?v=nkrBqOatRWI](https://www.youtube.com/watch?v=nkrBqOatRWI)

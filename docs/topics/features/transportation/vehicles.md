@@ -12,6 +12,10 @@ date: Last Modified
 * [Tractor](../../../topics/features/transportation/vehicles/tractor.md)
 * [Truck](../../../topics/features/transportation/vehicles/truck.md)
 
+## August 31st, 2021 Livestream
+* [Q&A: Is Satisfactory a racing game?](../../../transcriptions/yt-65RvHR-Ohp8.md) [https://www.youtube.com/watch?v=65RvHR-Ohp8](https://www.youtube.com/watch?v=65RvHR-Ohp8)
+* [Q&A: Is it possible to enable collision damage on Buildings from Vehicles?](../../../transcriptions/yt-p4z2K8_ed7M.md) [https://www.youtube.com/watch?v=p4z2K8_ed7M](https://www.youtube.com/watch?v=p4z2K8_ed7M)
+
 ## August 24th, 2021 Livestream
 * [Snutt Talk: Gas Masks not working inside Vehicles](../../../transcriptions/yt-sAPYPntJ52E.md) [https://www.youtube.com/watch?v=sAPYPntJ52E](https://www.youtube.com/watch?v=sAPYPntJ52E)
 * [Q&A: Any plans on a harvester Vehicle to get biomass?](../../../transcriptions/yt-fDpxXnlkDXY.md) [https://www.youtube.com/watch?v=fDpxXnlkDXY](https://www.youtube.com/watch?v=fDpxXnlkDXY)

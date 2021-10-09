@@ -8,7 +8,7 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: Will there be more cosmetic options for Factory Buildings?
 https://www.youtube.com/watch?v=kHRgkLN0mZI
-This question was possibly duplicated with a more recent answer: [July 13th, 2021 Livestream Q&A: Any chance of purely-aesthetic parts?](./yt-pduDLZtiJwI.md) [https://www.youtube.com/watch?v=pduDLZtiJwI](https://www.youtube.com/watch?v=pduDLZtiJwI)
+This question was possibly duplicated with a more recent answer: [August 31st, 2021 Livestream Q&A: Housing-type items for the Pioneers?](./yt-_bX384CCivs.md) [https://www.youtube.com/watch?v=_bX384CCivs](https://www.youtube.com/watch?v=_bX384CCivs)
 
 
 ### Topics

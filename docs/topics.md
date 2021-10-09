@@ -144,9 +144,11 @@ date: Last Modified
 * [Ladders](./topics/features/buildables/ladders.md)
 * [Lights](./topics/features/buildables/lights.md)
 * [Railings](./topics/features/buildables/railings.md)
+* [Roofs](./topics/features/buildables/roofs.md)
 * [Storage Containers](./topics/features/buildables/storage-containers.md)
 * [Walkways](./topics/features/buildables/walkways.md)
 * [Walls](./topics/features/buildables/walls.md)
+* [Windows](./topics/features/buildables/windows.md)
 
 ### [Foundations](./topics/features/buildables/foundations.md)
 * [Cheatcrete](./topics/features/buildables/foundations/cheatcrete.md)

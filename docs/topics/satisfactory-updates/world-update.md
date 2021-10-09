@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > World Update
 
+## August 31st, 2021 Livestream
+* Q&A: Is the top of the waterfall in the Dune Desert going to be reworked in Update 5? [https://www.youtube.com/watch?v=mJjAcBCPi0I](https://www.youtube.com/watch?v=mJjAcBCPi0I)
+* [Q&A: Are there any areas in the game that're version 1 ready?](../../transcriptions/yt-2d6eGb73LtU.md) [https://www.youtube.com/watch?v=2d6eGb73LtU](https://www.youtube.com/watch?v=2d6eGb73LtU)
+
 ## August 24th, 2021 Livestream
 * [State of Dev: Update 5 World Update](../../transcriptions/yt-wgP8XtoDGyU.md) [https://www.youtube.com/watch?v=wgP8XtoDGyU](https://www.youtube.com/watch?v=wgP8XtoDGyU)
 * [Q&A: You suggested moving factories in the Spire Coast, how would you suggest doing that?](../../transcriptions/yt-uC9IEN1An1o.md) [https://www.youtube.com/watch?v=uC9IEN1An1o](https://www.youtube.com/watch?v=uC9IEN1An1o)

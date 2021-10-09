@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Speculative > Satisfactory Update 6
 
+## August 31st, 2021 Livestream
+* [Q&A: Update 6, when?](../../../transcriptions/yt-ZNvVgWjUVZ4.md) [https://www.youtube.com/watch?v=ZNvVgWjUVZ4](https://www.youtube.com/watch?v=ZNvVgWjUVZ4)
+
 ## August 3rd, 2021 Livestream
 * Q&A: When's Update 6? [https://www.youtube.com/watch?v=idUzu51pIKQ](https://www.youtube.com/watch?v=idUzu51pIKQ)
 

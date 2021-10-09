@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Lights
 
+## August 31st, 2021 Livestream
+* [Trolling: Removing Lights](../../../transcriptions/yt-CeVmho--LWw.md) [https://www.youtube.com/watch?v=CeVmho--LWw](https://www.youtube.com/watch?v=CeVmho--LWw)
+* [Q&A: Are there any plans for smaller Lights?](../../../transcriptions/yt-SgweFihGY38.md) [https://www.youtube.com/watch?v=SgweFihGY38](https://www.youtube.com/watch?v=SgweFihGY38)
+
 ## August 3rd, 2021 Livestream
 * [Q&A: Are Lights in their final form or will there be tweaks to how they diffuse?](../../../transcriptions/yt-vkf7RUDKnDY.md) [https://www.youtube.com/watch?v=vkf7RUDKnDY](https://www.youtube.com/watch?v=vkf7RUDKnDY)
 

@@ -10,6 +10,8 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Any tools to add Cinematic Tools to the game like Machinima or Content Creator purposes?
 https://www.youtube.com/watch?v=tv1pCGiRtkM
+This question was possibly duplicated with a more recent answer: [August 31st, 2021 Livestream Q&A: Are there any plans for adding the tools to the game that you use to make the teasers?](./yt-hgVQCncD4PA.md) [https://www.youtube.com/watch?v=hgVQCncD4PA](https://www.youtube.com/watch?v=hgVQCncD4PA)
+
 
 ### Topics
 * [Community](../topics/community.md)

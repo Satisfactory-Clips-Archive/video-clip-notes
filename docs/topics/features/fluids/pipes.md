@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Fluids](../../../topics/features/fluids.md) > Pipes
 
+## August 31st, 2021 Livestream
+* [Snutt Talk: Water Pipe bug in Teaser](../../../transcriptions/yt-6s6RbXbPmy8.md) [https://www.youtube.com/watch?v=6s6RbXbPmy8](https://www.youtube.com/watch?v=6s6RbXbPmy8)
+* [Snutt & Jace Talk: Pipes coming through frames](../../../transcriptions/yt-_vKIFDNtmfE.md) [https://www.youtube.com/watch?v=_vKIFDNtmfE](https://www.youtube.com/watch?v=_vKIFDNtmfE)
+
 ## August 17th, 2021 Livestream
 * [Q&A: Is there a fix for Pipes losing Fluids?](../../../transcriptions/yt-KhQsMU7iR3I.md) [https://www.youtube.com/watch?v=KhQsMU7iR3I](https://www.youtube.com/watch?v=KhQsMU7iR3I)
 

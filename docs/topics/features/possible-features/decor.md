@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Possible Features > Decor
 
+## August 31st, 2021 Livestream
+* [Snutt & Jace Talk: Cosmetics breakdown](../../../transcriptions/yt-cL9B3gtkpOM.md) [https://www.youtube.com/watch?v=cL9B3gtkpOM](https://www.youtube.com/watch?v=cL9B3gtkpOM)
+* [Snutt & Jace Talk: Building the set pieces for the cosmetics video](../../../transcriptions/yt-w-_GGJ3dqIM.md) [https://www.youtube.com/watch?v=w-_GGJ3dqIM](https://www.youtube.com/watch?v=w-_GGJ3dqIM)
+* [Q&A: Housing-type items for the Pioneers?](../../../transcriptions/yt-_bX384CCivs.md) [https://www.youtube.com/watch?v=_bX384CCivs](https://www.youtube.com/watch?v=_bX384CCivs)
+
 ## August 17th, 2021 Livestream
 * [Jace Talk: I Love Strawberries poster](../../../transcriptions/yt-M9rzguRCWjc.md) [https://www.youtube.com/watch?v=M9rzguRCWjc](https://www.youtube.com/watch?v=M9rzguRCWjc)
 

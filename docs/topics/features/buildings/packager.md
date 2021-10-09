@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > Packager
 
+## August 31st, 2021 Livestream
+* [Q&A: Can you change the inputs & outputs on the Refinery to match the Packager please?](../../../transcriptions/yt-5R_kTzpUoy4.md) [https://www.youtube.com/watch?v=5R_kTzpUoy4](https://www.youtube.com/watch?v=5R_kTzpUoy4)
+
 ## January 19th, 2021 Livestream
 * [Q&A: Will Gas packaging happen in the Packager?](../../../transcriptions/yt-K2uidbt0_VE.md) [https://www.youtube.com/watch?v=K2uidbt0_VE](https://www.youtube.com/watch?v=K2uidbt0_VE)
 * [Q&A: Can we get a Packager with outputs not stacked?](../../../transcriptions/yt-Cmhx-wt1pBg.md) [https://www.youtube.com/watch?v=Cmhx-wt1pBg](https://www.youtube.com/watch?v=Cmhx-wt1pBg)

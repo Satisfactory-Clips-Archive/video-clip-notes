@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../topics.md) > Features > Multiplayer
 * [Crossplay](../../topics/features/multiplayer/crossplay.md)
 
+## August 31st, 2021 Livestream
+* [Q&A: Is it right that you can't invite new Steam friends without restarting the game?](../../transcriptions/yt-kY7AIyEvJN0.md) [https://www.youtube.com/watch?v=kY7AIyEvJN0](https://www.youtube.com/watch?v=kY7AIyEvJN0)
+
 ## August 24th, 2021 Livestream
 * [Q&A: When will the Multiplayer get some love?](../../transcriptions/yt-lZojcN6ejrw.md) [https://www.youtube.com/watch?v=lZojcN6ejrw](https://www.youtube.com/watch?v=lZojcN6ejrw)
 

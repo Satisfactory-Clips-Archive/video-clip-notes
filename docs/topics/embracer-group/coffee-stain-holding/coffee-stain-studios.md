@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Embracer Group](../../../topics/embracer-group.md) > Coffee Stain Holding > Coffee Stain Studios
 
+## August 31st, 2021 Livestream
+* [Q&A: Are you guys ever moving back into the new headquarters?](../../../transcriptions/yt-NpZ5kfieZsU.md) [https://www.youtube.com/watch?v=NpZ5kfieZsU](https://www.youtube.com/watch?v=NpZ5kfieZsU)
+
 ## August 17th, 2021 Livestream
 * [Q&A: Can you confirm Coffee Stain is part of THQ/Embracer Group](../../../transcriptions/yt-xwK1JN5-k_o.md) [https://www.youtube.com/watch?v=xwK1JN5-k_o](https://www.youtube.com/watch?v=xwK1JN5-k_o)
 * [Q&A: How many devs are you?](../../../transcriptions/yt-SvpznvEqr5E.md) [https://www.youtube.com/watch?v=SvpznvEqr5E](https://www.youtube.com/watch?v=SvpznvEqr5E)

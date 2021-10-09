@@ -5,6 +5,14 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Trolling
 
+## August 31st, 2021 Livestream
+* [Trolling: Trains confirmed for Update 5](../transcriptions/yt-MZfzoZh_uO0.md) [https://www.youtube.com/watch?v=MZfzoZh_uO0](https://www.youtube.com/watch?v=MZfzoZh_uO0)
+* [Trolling: Removing Lights](../transcriptions/yt-CeVmho--LWw.md) [https://www.youtube.com/watch?v=CeVmho--LWw](https://www.youtube.com/watch?v=CeVmho--LWw)
+* [Trolling: Drones in the Teaser](../transcriptions/yt-tFoTNxpSNmc.md) [https://www.youtube.com/watch?v=tFoTNxpSNmc](https://www.youtube.com/watch?v=tFoTNxpSNmc)
+* [Q&A: Update 6, when?](../transcriptions/yt-ZNvVgWjUVZ4.md) [https://www.youtube.com/watch?v=ZNvVgWjUVZ4](https://www.youtube.com/watch?v=ZNvVgWjUVZ4)
+* [Q&A: I just got here, can you restart the stream?](../transcriptions/yt-8ihBioKYfkk.md) [https://www.youtube.com/watch?v=8ihBioKYfkk](https://www.youtube.com/watch?v=8ihBioKYfkk)
+* [Q&A: How come your builds are so good in Trailers but on your own channel they're dogshit](../transcriptions/yt-BmPwejyviV8.md) [https://www.youtube.com/watch?v=BmPwejyviV8](https://www.youtube.com/watch?v=BmPwejyviV8)
+
 ## August 24th, 2021 Livestream
 * [Community FYI: Update 5, minor updates to Localisation](../transcriptions/yt-87F-g76Bx9A.md) [https://www.youtube.com/watch?v=87F-g76Bx9A](https://www.youtube.com/watch?v=87F-g76Bx9A)
 

@@ -10,7 +10,7 @@ topics:
 # [February 16th, 2021 Livestream](../2021-02-16.md)
 ## Q&A: When does Satisfactory get DLSS 2.0, since it was open to other games?
 https://www.youtube.com/watch?v=z4088brm0rg
-This question was possibly duplicated with a more recent answer: June 29th, 2021 Livestream Q&A: DLSS? [https://www.youtube.com/watch?v=IueQtEGBigw](https://www.youtube.com/watch?v=IueQtEGBigw)
+This question was possibly duplicated with a more recent answer: [August 31st, 2021 Livestream Q&A: Did you ever say if DLSS is coming?](./yt-piDbzK70HdU.md) [https://www.youtube.com/watch?v=piDbzK70HdU](https://www.youtube.com/watch?v=piDbzK70HdU)
 
 
 ### Topics

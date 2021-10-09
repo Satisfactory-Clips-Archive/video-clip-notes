@@ -5,6 +5,12 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Planned Features > Dedicated Servers
 
+## August 31st, 2021 Livestream
+* [State of Dev: Dedicated Servers](../../../transcriptions/yt-hxHDpNPNmL8.md) [https://www.youtube.com/watch?v=hxHDpNPNmL8](https://www.youtube.com/watch?v=hxHDpNPNmL8)
+* [Q&A: So when is Dedicated Servers coming?](../../../transcriptions/yt-kNBYYuk8p3U.md) [https://www.youtube.com/watch?v=kNBYYuk8p3U](https://www.youtube.com/watch?v=kNBYYuk8p3U)
+* [Q&A: Who will be hosting?](../../../transcriptions/yt-6lPmum6YM3Y.md) [https://www.youtube.com/watch?v=6lPmum6YM3Y](https://www.youtube.com/watch?v=6lPmum6YM3Y)
+* [Q&A: Could we use the Dedicated Servers with Docker?](../../../transcriptions/yt-NaW1NBgb70I.md) [https://www.youtube.com/watch?v=NaW1NBgb70I](https://www.youtube.com/watch?v=NaW1NBgb70I)
+
 ## August 24th, 2021 Livestream
 * [State of Dev: Dedicated Servers](../../../transcriptions/yt-JjUQRjkfcpo.md) [https://www.youtube.com/watch?v=JjUQRjkfcpo](https://www.youtube.com/watch?v=JjUQRjkfcpo)
 * [Q&A: Dedicated Servers?](../../../transcriptions/yt--smbc1rq3iE.md) [https://www.youtube.com/watch?v=-smbc1rq3iE](https://www.youtube.com/watch?v=-smbc1rq3iE)

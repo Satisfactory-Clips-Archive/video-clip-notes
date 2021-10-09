@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > Features > Photo Mode
 
+## August 31st, 2021 Livestream
+* [Q&A: Are there any plans for adding the tools to the game that you use to make the teasers?](../../transcriptions/yt-hgVQCncD4PA.md) [https://www.youtube.com/watch?v=hgVQCncD4PA](https://www.youtube.com/watch?v=hgVQCncD4PA)
+
 ## December 17th, 2020 Q&A
 * [Q&A: Names in photo mode, when?](../../transcriptions/yt--JXPsTlJIiI,928.7611666666667,979.7454333333334.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=928&end=980](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=928&end=980)
 

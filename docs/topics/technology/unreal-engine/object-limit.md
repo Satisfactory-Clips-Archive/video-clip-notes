@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Technology](../../../topics/technology.md) > [Unreal Engine](../../../topics/technology/unreal-engine.md) > Object Limit
 
+## August 31st, 2021 Livestream
+* [Q&A: Build limit in Update 5?](../../../transcriptions/yt-JuzKAS5cvOQ.md) [https://www.youtube.com/watch?v=JuzKAS5cvOQ](https://www.youtube.com/watch?v=JuzKAS5cvOQ)
+
 ## July 6th, 2021 Livestream
 * [Q&A: What does the Object Limit refer to exactly?](../../../transcriptions/yt-cVhPGZZyMn8.md) [https://www.youtube.com/watch?v=cVhPGZZyMn8](https://www.youtube.com/watch?v=cVhPGZZyMn8)
 

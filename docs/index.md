@@ -4,7 +4,11 @@ date: Last Modified
 layout: index
 ---
 # 2021
+## September
+* [September 3rd](2021-09-03.md)
+
 ## August
+* [August 31st](2021-08-31.md)
 * [August 24th](2021-08-24.md)
 * [August 17th](2021-08-17.md)
 * [August 10th](2021-08-10.md)

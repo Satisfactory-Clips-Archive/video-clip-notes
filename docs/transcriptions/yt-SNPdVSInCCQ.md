@@ -9,8 +9,9 @@ topics:
 ## Q&A: Object Limit, any chance to display how much is left somehow?
 https://www.youtube.com/watch?v=SNPdVSInCCQ
 <details>
-<summary>This question may have been asked previously at least 1 other time, as recently as September 2020.</summary>
+<summary>This question may have been asked previously at least 2 other times, as recently as November 2020 and as early as September 2020.</summary>
 
+* [November 10th, 2020 Livestream Q&A: Is there a debug command to see how many Objects you are using?](./yt-3Tht0Ap0S8c.md) [https://www.youtube.com/watch?v=3Tht0Ap0S8c](https://www.youtube.com/watch?v=3Tht0Ap0S8c)
 * [September 22nd, 2020 Livestream Q&A: What is the Object Count Limit, and how can we tell in our own game?](./yt-gMq-fPCqGWQ.md) [https://www.youtube.com/watch?v=gMq-fPCqGWQ](https://www.youtube.com/watch?v=gMq-fPCqGWQ)
 </details>
 

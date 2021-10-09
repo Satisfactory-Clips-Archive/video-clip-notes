@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Soundtrack
 
+## August 31st, 2021 Livestream
+* [Q&A: Can we get a Satisfactory OST available on Spotify?](../transcriptions/yt-uTcx8PYGUXU.md) [https://www.youtube.com/watch?v=uTcx8PYGUXU](https://www.youtube.com/watch?v=uTcx8PYGUXU)
+* [Q&A: Are there any limitations to Satisfactory music tracks?](../transcriptions/yt-7zLV-x0mWeA.md) [https://www.youtube.com/watch?v=7zLV-x0mWeA](https://www.youtube.com/watch?v=7zLV-x0mWeA)
+
 ## August 10th, 2021 Livestream
 * [Q&A: Soundtrack that I can buy from Steam?](../transcriptions/yt-VlJsz3lP4qo.md) [https://www.youtube.com/watch?v=VlJsz3lP4qo](https://www.youtube.com/watch?v=VlJsz3lP4qo)
 

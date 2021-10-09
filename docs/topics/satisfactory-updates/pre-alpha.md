@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > Pre-Alpha
 
+## August 31st, 2021 Livestream
+* [Snutt & Jace Talk: Idle Games](../../transcriptions/yt-RfOnl5Krlyo.md) [https://www.youtube.com/watch?v=RfOnl5Krlyo](https://www.youtube.com/watch?v=RfOnl5Krlyo)
+
 ## July 13th, 2021 Livestream
 * [Q&A: Two-people Explorer, please](../../transcriptions/yt-hnYfzcUnUQE.md) [https://www.youtube.com/watch?v=hnYfzcUnUQE](https://www.youtube.com/watch?v=hnYfzcUnUQE)
 

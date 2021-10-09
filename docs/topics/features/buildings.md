@@ -26,6 +26,10 @@ date: Last Modified
 * [The HUB](../../topics/features/buildings/the-hub.md)
 * [Water Extractor](../../topics/features/buildings/water-extractor.md)
 
+## August 31st, 2021 Livestream
+* [Q&A: Do you plan some malfunctions of machines in regards to debug & repair?](../../transcriptions/yt-9-pbFs3q3Cg.md) [https://www.youtube.com/watch?v=9-pbFs3q3Cg](https://www.youtube.com/watch?v=9-pbFs3q3Cg)
+* [Q&A: Is it possible to enable collision damage on Buildings from Vehicles?](../../transcriptions/yt-p4z2K8_ed7M.md) [https://www.youtube.com/watch?v=p4z2K8_ed7M](https://www.youtube.com/watch?v=p4z2K8_ed7M)
+
 ## August 17th, 2021 Livestream
 * [Q&A: Have you tossed around the idea of opening a Building's recipe menu from further away?](../../transcriptions/yt-GpX8z1kEuC4.md) [https://www.youtube.com/watch?v=GpX8z1kEuC4](https://www.youtube.com/watch?v=GpX8z1kEuC4)
 

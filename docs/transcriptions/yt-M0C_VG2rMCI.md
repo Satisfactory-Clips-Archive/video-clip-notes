@@ -8,7 +8,7 @@ topics:
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Q&A: What's your thoughts on hanging Conveyor Mounts?
 https://www.youtube.com/watch?v=M0C_VG2rMCI
-This question was possibly duplicated with a more recent answer: [August 24th, 2021 Livestream Q&A: What about Conveyor Belts clipped to the ceiling?](./yt-ME3ktW5i1hs.md) [https://www.youtube.com/watch?v=ME3ktW5i1hs](https://www.youtube.com/watch?v=ME3ktW5i1hs)
+This question was possibly duplicated with a more recent answer: [August 31st, 2021 Livestream Q&A: Why can't Stackable Conveyor Poles be built from the ceiling?](./yt-O9O2h04O-mo.md) [https://www.youtube.com/watch?v=O9O2h04O-mo](https://www.youtube.com/watch?v=O9O2h04O-mo)
 
 
 ### Topics

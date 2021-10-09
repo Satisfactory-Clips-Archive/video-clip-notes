@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > Satisfactory Prototypes
 
+## August 31st, 2021 Livestream
+* [Q&A: When did pre-production start for Satisfactory?](../../transcriptions/yt-RS54ebmULag.md) [https://www.youtube.com/watch?v=RS54ebmULag](https://www.youtube.com/watch?v=RS54ebmULag)
+
 ## August 24th, 2021 Livestream
 * [Q&A: Will there ever be teleportation?](../../transcriptions/yt-XeUtzOBJhrA.md) [https://www.youtube.com/watch?v=XeUtzOBJhrA](https://www.youtube.com/watch?v=XeUtzOBJhrA)
 

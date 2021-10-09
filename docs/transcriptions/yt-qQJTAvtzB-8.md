@@ -9,7 +9,7 @@ topics:
 # [November 24th, 2020 Livestream](../2020-11-24.md)
 ## Q&A: Will there be more options for aesthetics regarding things like house building?
 https://www.youtube.com/watch?v=qQJTAvtzB-8
-This question was possibly duplicated with a more recent answer: [July 13th, 2021 Livestream Q&A: Any chance of purely-aesthetic parts?](./yt-pduDLZtiJwI.md) [https://www.youtube.com/watch?v=pduDLZtiJwI](https://www.youtube.com/watch?v=pduDLZtiJwI)
+This question was possibly duplicated with a more recent answer: [August 31st, 2021 Livestream Q&A: Housing-type items for the Pioneers?](./yt-_bX384CCivs.md) [https://www.youtube.com/watch?v=_bX384CCivs](https://www.youtube.com/watch?v=_bX384CCivs)
 
 
 ### Topics

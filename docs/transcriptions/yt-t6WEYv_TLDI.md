@@ -9,6 +9,8 @@ topics:
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Q&A: Do you plan on some cutscenes for the Story?
 https://www.youtube.com/watch?v=t6WEYv_TLDI
+This question was possibly duplicated with a more recent answer: [August 31st, 2021 Livestream Q&A: FMV Cutscenes of the CSS Devs in Story Mode?](./yt-fXc-b_rsaAw.md) [https://www.youtube.com/watch?v=fXc-b_rsaAw](https://www.youtube.com/watch?v=fXc-b_rsaAw)
+
 
 ### Topics
 * [Story & Lore](../topics/story-lore.md)

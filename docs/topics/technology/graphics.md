@@ -9,6 +9,10 @@ date: Last Modified
 * [Ray Tracing](../../topics/technology/graphics/ray-tracing.md)
 * [Ultrawide Monitors](../../topics/technology/graphics/ultrawide-monitors.md)
 
+## August 31st, 2021 Livestream
+* Snutt & Jace Talk: Screenspace reflections & water updates [https://www.youtube.com/watch?v=DsE2x1rEfIw](https://www.youtube.com/watch?v=DsE2x1rEfIw)
+* [Community Highlights: Verify your game files](../../transcriptions/yt-PPjVCg2ErKs.md) [https://www.youtube.com/watch?v=PPjVCg2ErKs](https://www.youtube.com/watch?v=PPjVCg2ErKs)
+
 ## August 3rd, 2021 Livestream
 * [Q&A: How will the FPS be with this change to the Biome?](../../transcriptions/yt-Otus1GbtWtE.md) [https://www.youtube.com/watch?v=Otus1GbtWtE](https://www.youtube.com/watch?v=Otus1GbtWtE)
 

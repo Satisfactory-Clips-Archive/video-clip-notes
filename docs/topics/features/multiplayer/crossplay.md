@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Multiplayer](../../../topics/features/multiplayer.md) > Crossplay
 
+## August 31st, 2021 Livestream
+* [Q&A: Is it possible Steam Multiplayer with Epic?](../../../transcriptions/yt-0BJijGAInLU.md) [https://www.youtube.com/watch?v=0BJijGAInLU](https://www.youtube.com/watch?v=0BJijGAInLU)
+
 ## June 29th, 2021 Livestream
 * [Q&A: How can I play with a friend, Epic/Steam?](../../../transcriptions/yt-5THxL1hH6GI.md) [https://www.youtube.com/watch?v=5THxL1hH6GI](https://www.youtube.com/watch?v=5THxL1hH6GI)
 

@@ -10,6 +10,9 @@ date: Last Modified
 * [Non Flying Bird](../../topics/environment/creatures/non-flying-bird.md)
 * [Space Giraffe-Tick-Penguin-Whale Thing](../../topics/environment/creatures/space-giraffe-tick-penguin-whale-thing.md)
 
+## August 31st, 2021 Livestream
+* [Q&A: Add Giant Spiders farting Gas?](../../transcriptions/yt-SI13H69UiUQ.md) [https://www.youtube.com/watch?v=SI13H69UiUQ](https://www.youtube.com/watch?v=SI13H69UiUQ)
+
 ## August 10th, 2021 Livestream
 * [Q&A: Will there be a Jace mob?](../../transcriptions/yt-bkv73fUWgD8.md) [https://www.youtube.com/watch?v=bkv73fUWgD8](https://www.youtube.com/watch?v=bkv73fUWgD8)
 * [Q&A: Will there be new alien forms of life?](../../transcriptions/yt-9e3AzoHz4yI.md) [https://www.youtube.com/watch?v=9e3AzoHz4yI](https://www.youtube.com/watch?v=9e3AzoHz4yI)

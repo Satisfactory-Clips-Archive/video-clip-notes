@@ -10,6 +10,9 @@ date: Last Modified
 * [Power Storage](../../topics/features/power-management/power-storage.md)
 * [Power Switch](../../topics/features/power-management/power-switch.md)
 
+## August 31st, 2021 Livestream
+* [Q&A: Are you planning on adding more Power Generators?](../../transcriptions/yt-xUKGbBoWRtM.md) [https://www.youtube.com/watch?v=xUKGbBoWRtM](https://www.youtube.com/watch?v=xUKGbBoWRtM)
+
 ## August 24th, 2021 Livestream
 * [Q&A: Copy/paste settings from Miners, Fluid Extractors, Power Plants, when?](../../transcriptions/yt-4cmv1GtvB18.md) [https://www.youtube.com/watch?v=4cmv1GtvB18](https://www.youtube.com/watch?v=4cmv1GtvB18)
 

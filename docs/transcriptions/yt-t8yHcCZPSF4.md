@@ -9,6 +9,8 @@ topics:
 # [July 13th, 2021 Livestream](../2021-07-13.md)
 ## Q&A: When will we have fences for ramps?
 https://www.youtube.com/watch?v=t8yHcCZPSF4
+This question was possibly replaced with a more recent answer: [August 24th, 2021 Livestream Q&A: Will Railings snap to all kinda of ramps?](./yt-qtyPULKrJyE.md) [https://www.youtube.com/watch?v=qtyPULKrJyE](https://www.youtube.com/watch?v=qtyPULKrJyE)
+
 <details>
 <summary>This question may have been asked previously at least 5 other times, as recently as May 2021 and as early as November 2020.</summary>
 

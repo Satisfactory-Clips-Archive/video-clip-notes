@@ -8,6 +8,10 @@ date: Last Modified
 * [Creative Mode](../../../topics/features/possible-features/game-modes/creative-mode.md)
 * [Peaceful Mode](../../../topics/features/possible-features/game-modes/peaceful-mode.md)
 
+## August 31st, 2021 Livestream
+* [Q&A: Is Satisfactory a racing game?](../../../transcriptions/yt-65RvHR-Ohp8.md) [https://www.youtube.com/watch?v=65RvHR-Ohp8](https://www.youtube.com/watch?v=65RvHR-Ohp8)
+* [Snutt & Jace Talk: Idle Games](../../../transcriptions/yt-RfOnl5Krlyo.md) [https://www.youtube.com/watch?v=RfOnl5Krlyo](https://www.youtube.com/watch?v=RfOnl5Krlyo)
+
 ## August 17th, 2021 Livestream
 * [Q&A: Sleep & Food?](../../../transcriptions/yt-Rfq5XpdNCnA.md) [https://www.youtube.com/watch?v=Rfq5XpdNCnA](https://www.youtube.com/watch?v=Rfq5XpdNCnA)
 

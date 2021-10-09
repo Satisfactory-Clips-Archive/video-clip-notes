@@ -8,7 +8,7 @@ topics:
 # [March 9th, 2021 Livestream](../2021-03-09.md)
 ## Q&A: Any plans on bringing music tracks to Spotify & YouTube?
 https://www.youtube.com/watch?v=K-yARAF955w
-This question was possibly duplicated with a more recent answer: [August 3rd, 2021 Livestream Q&A: Will the soundtrack be released on Spotify?](./yt-HCcWGBc_lDo.md) [https://www.youtube.com/watch?v=HCcWGBc_lDo](https://www.youtube.com/watch?v=HCcWGBc_lDo)
+This question was possibly duplicated with a more recent answer: [August 31st, 2021 Livestream Q&A: Can we get a Satisfactory OST available on Spotify?](./yt-uTcx8PYGUXU.md) [https://www.youtube.com/watch?v=uTcx8PYGUXU](https://www.youtube.com/watch?v=uTcx8PYGUXU)
 
 
 ### Topics

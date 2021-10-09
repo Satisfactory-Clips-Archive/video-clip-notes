@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Merch](../../topics/merch.md) > EU Merch Store
 
+## August 31st, 2021 Livestream
+* [Q&A: Any news for EU Merch Store?](../../transcriptions/yt--GiaoGm2cfQ.md) [https://www.youtube.com/watch?v=-GiaoGm2cfQ](https://www.youtube.com/watch?v=-GiaoGm2cfQ)
+* [Q&A: Got any news about the EU Merch store?](../../transcriptions/yt-Om8JLJ5avl8.md) [https://www.youtube.com/watch?v=Om8JLJ5avl8](https://www.youtube.com/watch?v=Om8JLJ5avl8)
+
 ## August 17th, 2021 Livestream
 * [State of Dev: EU Merch Store + Mug](../../transcriptions/yt-VoxNe9_Po9s.md) [https://www.youtube.com/watch?v=VoxNe9_Po9s](https://www.youtube.com/watch?v=VoxNe9_Po9s)
 

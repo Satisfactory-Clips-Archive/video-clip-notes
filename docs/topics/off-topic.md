@@ -20,6 +20,11 @@ date: Last Modified
 * [The Cycle](../topics/off-topic/the-cycle.md)
 * [Valheim](../topics/off-topic/valheim.md)
 
+## August 31st, 2021 Livestream
+* [Q&A: Does Jace watch Naruto?](../transcriptions/yt-ZQPH6PEA3pI.md) [https://www.youtube.com/watch?v=ZQPH6PEA3pI](https://www.youtube.com/watch?v=ZQPH6PEA3pI)
+* [Jace Talk: It's reading, not resting bitch face](../transcriptions/yt-Rx436huyyAw.md) [https://www.youtube.com/watch?v=Rx436huyyAw](https://www.youtube.com/watch?v=Rx436huyyAw)
+* [Q&A: Who doesn't have a resting bitch face?](../transcriptions/yt-9HDFITrrTTw.md) [https://www.youtube.com/watch?v=9HDFITrrTTw](https://www.youtube.com/watch?v=9HDFITrrTTw)
+
 ## August 3rd, 2021 Livestream
 * [Q&A: What is the sound of one hand clapping?](../transcriptions/yt--A46SS0eZ-o.md) [https://www.youtube.com/watch?v=-A46SS0eZ-o](https://www.youtube.com/watch?v=-A46SS0eZ-o)
 
