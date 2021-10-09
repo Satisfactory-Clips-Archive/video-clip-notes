@@ -3,7 +3,7 @@ title: "September 3rd, 2021 Livestream Jace Talk: Small Metal Pillars"
 date: "2021-09-03"
 layout: transcript
 topics:
-    - "features/buildables"
+    - "features/buildables/pillars"
     - "satisfactory-updates/pending/satisfactory-update-5"
     - "satisfactory-updates/teasers-trailers/update-5-teasers"
 ---
@@ -12,7 +12,7 @@ topics:
 https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=62&end=129
 
 ### Topics
-* [Features > Buildables](../topics/features/buildables.md)
+* [Features > Buildables > Pillars](../topics/features/buildables/pillars.md)
 * [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
 * [Satisfactory Updates > Teasers & Trailers > Update 5 Teasers](../topics/satisfactory-updates/teasers-trailers/update-5-teasers.md)
 

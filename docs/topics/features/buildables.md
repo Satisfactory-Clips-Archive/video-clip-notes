@@ -10,6 +10,7 @@ date: Last Modified
 * [Jump Pads](../../topics/features/buildables/jump-pads.md)
 * [Ladders](../../topics/features/buildables/ladders.md)
 * [Lights](../../topics/features/buildables/lights.md)
+* [Pillars](../../topics/features/buildables/pillars.md)
 * [Railings](../../topics/features/buildables/railings.md)
 * [Roofs](../../topics/features/buildables/roofs.md)
 * [Storage Containers](../../topics/features/buildables/storage-containers.md)
@@ -18,8 +19,6 @@ date: Last Modified
 * [Windows](../../topics/features/buildables/windows.md)
 
 ## September 3rd, 2021 Livestream
-* [Jace Talk: Small Metal Pillars](../../transcriptions/yt-yZGq-W7r2sk,62.858586,128.76196666666667.md) [https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=62&end=129](https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=62&end=129)
-* [Jace Talk: New Pillar types](../../transcriptions/yt-yZGq-W7r2sk,128.79533333333333,172.907752.md) [https://youtube.com/clip/UgzFh1qpn_lmBfeNoex4AaABCQ](https://youtube.com/clip/UgzFh1qpn_lmBfeNoex4AaABCQ)
 * [Jace Talk: New Buildables in the Walkways teaser shot](../../transcriptions/yt-yZGq-W7r2sk,651.4841666666666,701.9012.md) [https://youtube.com/clip/UgxcHhkG1DDsw1Z9Uex4AaABCQ](https://youtube.com/clip/UgxcHhkG1DDsw1Z9Uex4AaABCQ)
 * [Jace Talk: Final shot in the teaser](../../transcriptions/yt-yZGq-W7r2sk,701.9345666666667,771.973278.md) [https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=701&end=772](https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=701&end=772)
 * [Jace Talk: Architecture Build Menu](../../transcriptions/yt-yZGq-W7r2sk,772.0045666666667,814.4136.md) [https://youtube.com/clip/Ugy5if5uwAkJag0YVIx4AaABCQ](https://youtube.com/clip/Ugy5if5uwAkJag0YVIx4AaABCQ)

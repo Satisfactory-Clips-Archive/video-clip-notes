@@ -4,6 +4,7 @@ date: "2021-07-13"
 layout: transcript
 topics:
     - "features/buildables/foundations"
+    - "features/buildables/pillars"
     - "features/transportation/trains"
 ---
 # [July 13th, 2021 Livestream](../2021-07-13.md)
@@ -12,6 +13,7 @@ https://www.youtube.com/watch?v=zwcbTTf2Y2Y
 
 ### Topics
 * [Features > Buildables > Foundations](../topics/features/buildables/foundations.md)
+* [Features > Buildables > Pillars](../topics/features/buildables/pillars.md)
 * [Features > Transportation > Trains](../topics/features/transportation/trains.md)
 
 ### Transcript
