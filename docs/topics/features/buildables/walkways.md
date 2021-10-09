@@ -12,6 +12,9 @@ date: Last Modified
 * [Snutt & Jace Talk: New Walkways](../../../transcriptions/yt-tsggY71ZMOk.md) [https://www.youtube.com/watch?v=tsggY71ZMOk](https://www.youtube.com/watch?v=tsggY71ZMOk)
 * [Snutt & Jace Talk: Pattern on new Walkways](../../../transcriptions/yt-Z_DKzrJyYq0.md) [https://www.youtube.com/watch?v=Z_DKzrJyYq0](https://www.youtube.com/watch?v=Z_DKzrJyYq0)
 
+## June 22nd, 2021 Livestream
+* [Q&A: Will Stairs & the Walkways be more connectable?](../../../transcriptions/yt-nkrBqOatRWI.md) [https://www.youtube.com/watch?v=nkrBqOatRWI](https://www.youtube.com/watch?v=nkrBqOatRWI)
+
 ## March 23rd, 2021 Livestream
 * [Q&A: Be able to attach walkways to the Train Station platforms?](../../../transcriptions/yt-WJ6GNToob14.md) [https://www.youtube.com/watch?v=WJ6GNToob14](https://www.youtube.com/watch?v=WJ6GNToob14)
 

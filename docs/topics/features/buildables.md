@@ -4,6 +4,7 @@ external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEp9DQ8xVeTCFqcFS
 date: Last Modified
 ---
 # [Topics](../../topics.md) > Features > Buildables
+* [Beams](../../topics/features/buildables/beams.md)
 * [Conveyor Belts](../../topics/features/buildables/conveyor-belts.md)
 * [Foundations](../../topics/features/buildables/foundations.md)
 * [Jump Pads](../../topics/features/buildables/jump-pads.md)
@@ -19,9 +20,6 @@ date: Last Modified
 ## September 3rd, 2021 Livestream
 * [Jace Talk: Small Metal Pillars](../../transcriptions/yt-yZGq-W7r2sk,62.858586,128.76196666666667.md) [https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=62&end=129](https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=62&end=129)
 * [Jace Talk: New Pillar types](../../transcriptions/yt-yZGq-W7r2sk,128.79533333333333,172.907752.md) [https://youtube.com/clip/UgzFh1qpn_lmBfeNoex4AaABCQ](https://youtube.com/clip/UgzFh1qpn_lmBfeNoex4AaABCQ)
-* [Jace Talk: New Roofs & Windows](../../transcriptions/yt-yZGq-W7r2sk,313.6800333333333,370.50291.md) [https://youtube.com/clip/UgyfrYJtRHTQzRWxtTF4AaABCQ](https://youtube.com/clip/UgyfrYJtRHTQzRWxtTF4AaABCQ)
-* [Jace Talk: Beams & Beam Connectors](../../transcriptions/yt-yZGq-W7r2sk,432.0316,598.4645333333333.md) [https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=432&end=599](https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=432&end=599)
-* [Jace Talk: More new Roofs](../../transcriptions/yt-yZGq-W7r2sk,598.4979,651.4508.md) [https://youtube.com/clip/UgwwV83yhWYlbt4Gq_x4AaABCQ](https://youtube.com/clip/UgwwV83yhWYlbt4Gq_x4AaABCQ)
 * [Jace Talk: New Buildables in the Walkways teaser shot](../../transcriptions/yt-yZGq-W7r2sk,651.4841666666666,701.9012.md) [https://youtube.com/clip/UgxcHhkG1DDsw1Z9Uex4AaABCQ](https://youtube.com/clip/UgxcHhkG1DDsw1Z9Uex4AaABCQ)
 * [Jace Talk: Final shot in the teaser](../../transcriptions/yt-yZGq-W7r2sk,701.9345666666667,771.973278.md) [https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=701&end=772](https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=701&end=772)
 * [Jace Talk: Architecture Build Menu](../../transcriptions/yt-yZGq-W7r2sk,772.0045666666667,814.4136.md) [https://youtube.com/clip/Ugy5if5uwAkJag0YVIx4AaABCQ](https://youtube.com/clip/Ugy5if5uwAkJag0YVIx4AaABCQ)

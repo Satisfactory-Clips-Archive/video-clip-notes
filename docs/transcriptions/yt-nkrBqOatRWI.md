@@ -4,6 +4,7 @@ date: "2021-06-22"
 layout: transcript
 topics:
     - "features/buildables"
+    - "features/buildables/walkways"
     - "off-topic/terrible-jokes"
 ---
 # [June 22nd, 2021 Livestream](../2021-06-22.md)
@@ -12,6 +13,7 @@ https://www.youtube.com/watch?v=nkrBqOatRWI
 
 ### Topics
 * [Features > Buildables](../topics/features/buildables.md)
+* [Features > Buildables > Walkways](../topics/features/buildables/walkways.md)
 * [Off-Topic > Terrible Jokes](../topics/off-topic/terrible-jokes.md)
 
 ### Transcript

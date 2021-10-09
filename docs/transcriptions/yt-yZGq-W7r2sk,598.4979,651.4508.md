@@ -3,7 +3,7 @@ title: "September 3rd, 2021 Livestream Jace Talk: More new Roofs"
 date: "2021-09-03"
 layout: transcript
 topics:
-    - "features/buildables"
+    - "features/buildables/roofs"
     - "satisfactory-updates/pending/satisfactory-update-5"
     - "satisfactory-updates/teasers-trailers/update-5-teasers"
 ---
@@ -12,7 +12,7 @@ topics:
 https://youtube.com/clip/UgwwV83yhWYlbt4Gq_x4AaABCQ
 
 ### Topics
-* [Features > Buildables](../topics/features/buildables.md)
+* [Features > Buildables > Roofs](../topics/features/buildables/roofs.md)
 * [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
 * [Satisfactory Updates > Teasers & Trailers > Update 5 Teasers](../topics/satisfactory-updates/teasers-trailers/update-5-teasers.md)
 

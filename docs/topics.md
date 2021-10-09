@@ -139,6 +139,7 @@ date: Last Modified
 ---
 
 ## [Buildables](./topics/features/buildables.md)
+* [Beams](./topics/features/buildables/beams.md)
 * [Conveyor Belts](./topics/features/buildables/conveyor-belts.md)
 * [Jump Pads](./topics/features/buildables/jump-pads.md)
 * [Ladders](./topics/features/buildables/ladders.md)

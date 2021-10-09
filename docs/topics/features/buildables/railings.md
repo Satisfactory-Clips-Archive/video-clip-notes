@@ -8,6 +8,7 @@ date: Last Modified
 ## September 3rd, 2021 Livestream
 * [Jace Talk: New Railings](../../../transcriptions/yt-yZGq-W7r2sk,264.33073333333334,297.32674.md) [https://youtube.com/clip/UgzvXtieunvIhq_Ma3t4AaABCQ](https://youtube.com/clip/UgzvXtieunvIhq_Ma3t4AaABCQ)
 * [Jace Talk: Quick Switch for Railings](../../../transcriptions/yt-yZGq-W7r2sk,297.36373333333336,313.64666666666665.md) [https://youtube.com/clip/UgzK3mWyas6uUOEchCV4AaABCQ](https://youtube.com/clip/UgzK3mWyas6uUOEchCV4AaABCQ)
+* [Jace Talk: New Buildables in the Walkways teaser shot](../../../transcriptions/yt-yZGq-W7r2sk,651.4841666666666,701.9012.md) [https://youtube.com/clip/UgxcHhkG1DDsw1Z9Uex4AaABCQ](https://youtube.com/clip/UgxcHhkG1DDsw1Z9Uex4AaABCQ)
 
 ## August 24th, 2021 Livestream
 * [Q&A: How many AWESOME points for a second of Rail grind?](../../../transcriptions/yt-Gw9-dD_ovEk.md) [https://www.youtube.com/watch?v=Gw9-dD_ovEk](https://www.youtube.com/watch?v=Gw9-dD_ovEk)

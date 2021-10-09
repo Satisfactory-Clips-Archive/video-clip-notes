@@ -7,6 +7,7 @@ date: Last Modified
 
 ## September 3rd, 2021 Livestream
 * [Jace Talk: New Walls & new Inverted Ramp materials](../../../transcriptions/yt-yZGq-W7r2sk,370.53683333333333,432.009104.md) [https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=370&end=433](https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=370&end=433)
+* [Jace Talk: New Buildables in the Walkways teaser shot](../../../transcriptions/yt-yZGq-W7r2sk,651.4841666666666,701.9012.md) [https://youtube.com/clip/UgxcHhkG1DDsw1Z9Uex4AaABCQ](https://youtube.com/clip/UgxcHhkG1DDsw1Z9Uex4AaABCQ)
 
 ## August 31st, 2021 Livestream
 * [Snutt & Jace Talk: Inverted Ramp Frames & Ramp Walls](../../../transcriptions/yt-OF7RMEbdnUI.md) [https://www.youtube.com/watch?v=OF7RMEbdnUI](https://www.youtube.com/watch?v=OF7RMEbdnUI)
