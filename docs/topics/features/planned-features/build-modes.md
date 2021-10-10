@@ -4,14 +4,12 @@ external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiErB8iPe1PpO-x4cG
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Planned Features > Build Modes
+* [Hard & Soft Clearance](../../../topics/features/planned-features/build-modes/hard-soft-clearance.md)
+* [Quick Switch](../../../topics/features/planned-features/build-modes/quick-switch.md)
+* [Zooping](../../../topics/features/planned-features/build-modes/zooping.md)
 
 ## September 3rd, 2021 Livestream
 * [Intro](../../../transcriptions/yt-yZGq-W7r2sk,,46.8468.md) [https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=0&end=47](https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=0&end=47)
-* [Jace Talk: New Build feature "Quick Switch"](../../../transcriptions/yt-yZGq-W7r2sk,172.93943333333334,264.295734.md) [https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=172&end=265](https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=172&end=265)
-* [Jace Talk: Quick Switch for Railings](../../../transcriptions/yt-yZGq-W7r2sk,297.36373333333336,313.64666666666665.md) [https://youtube.com/clip/UgzK3mWyas6uUOEchCV4AaABCQ](https://youtube.com/clip/UgzK3mWyas6uUOEchCV4AaABCQ)
-* [Jace Talk: Wall Frames & Soft Clearance](../../../transcriptions/yt-yZGq-W7r2sk,814.4469666666666,981.5472333333333.md) [https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=814&end=982](https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=814&end=982)
-* [Jace Talk: Hard & Soft Clearance demonstration](../../../transcriptions/yt-yZGq-W7r2sk,981.5806,1109.108.md) [https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=981&end=1110](https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=981&end=1110)
-* [Jace Talk: Zooping](../../../transcriptions/yt-yZGq-W7r2sk,1109.1413666666667,1217.2827333333335.md) [https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=1109&end=1218](https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=1109&end=1218)
 
 ## August 31st, 2021 Livestream
 * [Q&A: Do you intend to put helpful building modes like Smart! mod to help players build faster?](../../../transcriptions/yt-cN_omO1NK9c.md) [https://www.youtube.com/watch?v=cN_omO1NK9c](https://www.youtube.com/watch?v=cN_omO1NK9c)
