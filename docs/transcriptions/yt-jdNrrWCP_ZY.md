@@ -3,7 +3,7 @@ title: "October 20th, 2020 Livestream Q&A: Will we launch Satisfactory 2?"
 date: "2020-10-20"
 layout: transcript
 topics:
-    - ""
+    - "satisfactory-updates/speculative/satisfactory-2-0"
 ---
 # [October 20th, 2020 Livestream](../2020-10-20.md)
 ## Q&A: Will we launch Satisfactory 2?
@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=jdNrrWCP_ZY
 
 
 ### Topics
-
+* [Satisfactory Updates > Speculative > Satisfactory 2.0](../topics/satisfactory-updates/speculative/satisfactory-2-0.md)
 
 ### Transcript
 
