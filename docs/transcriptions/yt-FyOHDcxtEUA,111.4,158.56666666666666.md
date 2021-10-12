@@ -1,11 +1,11 @@
 ---
-title: "July 23rd, 2021 Livestream Tobias & Jace Talk: Drone World Grid"
+title: "July 23rd, 2021 Dev Vlog Tobias & Jace Talk: Drone World Grid"
 date: "2021-07-23"
 layout: transcript
 topics:
     - "features/transportation/vehicles/drones"
 ---
-# [July 23rd, 2021 Livestream](../2021-07-23.md)
+# [July 23rd, 2021 Dev Vlog](../2021-07-23.md)
 ## Tobias & Jace Talk: Drone World Grid
 https://youtube.com/clip/UgxfrOUyYIU6_AoE4P94AaABCQ
 

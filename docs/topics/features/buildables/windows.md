@@ -5,7 +5,7 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Windows
 
-## September 3rd, 2021 Livestream
+## September 3rd, 2021 Dev Vlog
 * [Jace Talk: New Roofs & Windows](../../../transcriptions/yt-yZGq-W7r2sk,313.6800333333333,370.50291.md) [https://youtube.com/clip/UgyfrYJtRHTQzRWxtTF4AaABCQ](https://youtube.com/clip/UgyfrYJtRHTQzRWxtTF4AaABCQ)
 
 ## August 31st, 2021 Livestream

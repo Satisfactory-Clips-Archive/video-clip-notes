@@ -1,5 +1,5 @@
 ---
-title: "May 28th, 2021 Livestream Q&A: Could you quickly describe what instancing means?"
+title: "May 28th, 2021 Dev Vlog Q&A: Could you quickly describe what instancing means?"
 date: "2021-05-28"
 layout: transcript
 topics:
@@ -7,7 +7,7 @@ topics:
     - "technology/graphics"
     - "technology/unreal-engine"
 ---
-# [May 28th, 2021 Livestream](../2021-05-28.md)
+# [May 28th, 2021 Dev Vlog](../2021-05-28.md)
 ## Q&A: Could you quickly describe what instancing means?
 https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=1065&end=1165
 

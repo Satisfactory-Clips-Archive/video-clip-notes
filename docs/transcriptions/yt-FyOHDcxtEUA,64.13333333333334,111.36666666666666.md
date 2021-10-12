@@ -1,11 +1,11 @@
 ---
-title: "July 23rd, 2021 Livestream Q&A: What was the basic development progression of Drones like?"
+title: "July 23rd, 2021 Dev Vlog Q&A: What was the basic development progression of Drones like?"
 date: "2021-07-23"
 layout: transcript
 topics:
     - "features/transportation/vehicles/drones"
 ---
-# [July 23rd, 2021 Livestream](../2021-07-23.md)
+# [July 23rd, 2021 Dev Vlog](../2021-07-23.md)
 ## Q&A: What was the basic development progression of Drones like?
 https://youtube.com/clip/Ugz8dzC2odh1-fyZXRx4AaABCQ
 

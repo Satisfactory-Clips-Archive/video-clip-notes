@@ -5,7 +5,7 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Crafting](../../../topics/features/crafting.md) > Fuel
 
-## September 10th, 2021 Livestream
+## September 10th, 2021 Video
 * [Jace Talk: Vehicles & Fuel usage](../../../transcriptions/yt-kh3lVrBdjFE,307.97433333333333,384.95123333333333.md) [https://youtube.com/embed/kh3lVrBdjFE?autoplay=1&start=307&end=385](https://youtube.com/embed/kh3lVrBdjFE?autoplay=1&start=307&end=385)
 
 ## September 7th, 2021 Livestream

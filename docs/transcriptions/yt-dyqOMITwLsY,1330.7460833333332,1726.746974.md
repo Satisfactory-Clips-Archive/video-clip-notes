@@ -1,5 +1,5 @@
 ---
-title: "May 28th, 2021 Livestream Snutt & Ben Talk: Impact of the Engine Upgrade on Conveyor Belt performance"
+title: "May 28th, 2021 Dev Vlog Snutt & Ben Talk: Impact of the Engine Upgrade on Conveyor Belt performance"
 date: "2021-05-28"
 layout: transcript
 topics:
@@ -8,7 +8,7 @@ topics:
     - "technology/graphics"
     - "technology/unreal-engine"
 ---
-# [May 28th, 2021 Livestream](../2021-05-28.md)
+# [May 28th, 2021 Dev Vlog](../2021-05-28.md)
 ## Snutt & Ben Talk: Impact of the Engine Upgrade on Conveyor Belt performance
 https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=1330&end=1727
 

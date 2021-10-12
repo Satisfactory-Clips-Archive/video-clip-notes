@@ -1,11 +1,11 @@
 ---
-title: "July 23rd, 2021 Livestream Q&A: What if your Drone path changes?"
+title: "July 23rd, 2021 Dev Vlog Q&A: What if your Drone path changes?"
 date: "2021-07-23"
 layout: transcript
 topics:
     - "features/transportation/vehicles/drones"
 ---
-# [July 23rd, 2021 Livestream](../2021-07-23.md)
+# [July 23rd, 2021 Dev Vlog](../2021-07-23.md)
 ## Q&A: What if your Drone path changes?
 https://youtube.com/clip/Ugxf7KIoJwFAPoKFNa54AaABCQ
 

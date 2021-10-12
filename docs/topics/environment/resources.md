@@ -26,13 +26,13 @@ date: Last Modified
 * Q&A: Quantum Computers in the next Update? [https://www.youtube.com/watch?v=c976JiKNfyU](https://www.youtube.com/watch?v=c976JiKNfyU)
 * [Community FYI: The Resource Scanner, it's slightly off- it doesn't do the elevation of the node](../../transcriptions/yt-FCSBHSAkKww.md) [https://www.youtube.com/watch?v=FCSBHSAkKww](https://www.youtube.com/watch?v=FCSBHSAkKww)
 
-## August 6th, 2021 Livestream
+## August 6th, 2021 Video
 * [Q&A: What's happening with Resource Nodes?](../../transcriptions/yt-MxvGbCCc6DI,611.5776333333333,668.5011666666667.md) [https://youtube.com/clip/UgxbJIWwg9IIhNa4BQN4AaABCQ](https://youtube.com/clip/UgxbJIWwg9IIhNa4BQN4AaABCQ)
 
 ## August 3rd, 2021 Livestream
 * [Q&A: New Resource Nodes in the Northern Forest?](../../transcriptions/yt-k4lycXGHDAQ.md) [https://www.youtube.com/watch?v=k4lycXGHDAQ](https://www.youtube.com/watch?v=k4lycXGHDAQ)
 
-## July 23rd, 2021 Livestream
+## July 23rd, 2021 Dev Vlog
 * [Tobias Talk: Battery consumption of Drones](../../transcriptions/yt-FyOHDcxtEUA,225.46666666666667,270.3333333333333.md) [https://youtube.com/clip/UgxQF40-E2C7byyl9MN4AaABCQ](https://youtube.com/clip/UgxQF40-E2C7byyl9MN4AaABCQ)
 * [Q&A: When are the Batteries used by Drones?](../../transcriptions/yt-FyOHDcxtEUA,317.03333333333336,357.56666666666666.md) [https://youtube.com/clip/UgybX97cu8npyL1-ag94AaABCQ](https://youtube.com/clip/UgybX97cu8npyL1-ag94AaABCQ)
 * [Q&A: Are there bugs with Drone's Battery consumption?](../../transcriptions/yt-FyOHDcxtEUA,357.6,383.6666666666667.md) [https://youtube.com/clip/UgzrWEuR3Z4I1VXqEIx4AaABCQ](https://youtube.com/clip/UgzrWEuR3Z4I1VXqEIx4AaABCQ)
@@ -79,7 +79,7 @@ date: Last Modified
 * [Snutt & Jace Talk: Recipes & Alternate Recipes](../../transcriptions/yt-H2u0LDZlzgo.md) [https://www.youtube.com/watch?v=H2u0LDZlzgo](https://www.youtube.com/watch?v=H2u0LDZlzgo)
 * [Snutt & Jace Talk: Jace's Factory Tour](../../transcriptions/yt-Uz5ubjKvQWg.md) [https://www.youtube.com/watch?v=Uz5ubjKvQWg](https://www.youtube.com/watch?v=Uz5ubjKvQWg)
 
-## May 28th, 2021 Livestream
+## May 28th, 2021 Dev Vlog
 * [Q&A: How does picking items off the belt work?](../../transcriptions/yt-dyqOMITwLsY,1726.746974,1837.377208333333.md) [https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=1726&end=1838](https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=1726&end=1838)
 
 ## May 18th, 2021 Livestream

@@ -1,5 +1,5 @@
 ---
-title: "August 6th, 2021 Livestream Jace Talk: Northern Forest feedback"
+title: "August 6th, 2021 Video Jace Talk: Northern Forest feedback"
 date: "2021-08-06"
 layout: transcript
 topics:
@@ -8,7 +8,7 @@ topics:
     - "satisfactory-updates/pending/satisfactory-update-5/save-the-willows"
     - "satisfactory-updates/world-update"
 ---
-# [August 6th, 2021 Livestream](../2021-08-06.md)
+# [August 6th, 2021 Video](../2021-08-06.md)
 ## Jace Talk: Northern Forest feedback
 https://youtube.com/embed/MxvGbCCc6DI?autoplay=1&start=127&end=273
 

@@ -1,5 +1,5 @@
 ---
-title: "May 28th, 2021 Livestream Snutt & Ben Talk: New Holograms"
+title: "May 28th, 2021 Dev Vlog Snutt & Ben Talk: New Holograms"
 date: "2021-05-28"
 layout: transcript
 topics:
@@ -8,7 +8,7 @@ topics:
     - "technology/graphics"
     - "technology/user-interface/holograms"
 ---
-# [May 28th, 2021 Livestream](../2021-05-28.md)
+# [May 28th, 2021 Dev Vlog](../2021-05-28.md)
 ## Snutt & Ben Talk: New Holograms
 https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=945&end=1066
 

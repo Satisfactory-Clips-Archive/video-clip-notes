@@ -1,12 +1,12 @@
 ---
-title: "September 10th, 2021 Livestream Jace Talk: Distant Vehicle smoothing"
+title: "September 10th, 2021 Video Jace Talk: Distant Vehicle smoothing"
 date: "2021-09-10"
 layout: transcript
 topics:
     - "features/transportation/vehicles/autopilot"
     - "satisfactory-updates/pending/satisfactory-update-5"
 ---
-# [September 10th, 2021 Livestream](../2021-09-10.md)
+# [September 10th, 2021 Video](../2021-09-10.md)
 ## Jace Talk: Distant Vehicle smoothing
 https://youtube.com/clip/UgxWeK-t2NCv-imZmYx4AaABCQ
 

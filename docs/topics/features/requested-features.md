@@ -24,7 +24,7 @@ date: Last Modified
 ## August 17th, 2021 Livestream
 * [Q&A: Any chance for improved controller support?](../../transcriptions/yt-jZYkquJsDyM.md) [https://www.youtube.com/watch?v=jZYkquJsDyM](https://www.youtube.com/watch?v=jZYkquJsDyM)
 
-## July 16th, 2021 Livestream
+## July 16th, 2021 Video
 * [Q&A: Why haven't you added [Feature] into the base game?](../../transcriptions/yt-Z2WggHmVHGI,364.8645,545.6784666666666.md) [https://youtube.com/embed/Z2WggHmVHGI?autoplay=1&start=364&end=546](https://youtube.com/embed/Z2WggHmVHGI?autoplay=1&start=364&end=546)
 
 ## June 15th, 2021 Livestream

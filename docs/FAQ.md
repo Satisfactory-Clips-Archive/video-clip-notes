@@ -1563,7 +1563,7 @@ date: Last Modified
 * [January 22nd, 2020 Livestream Q&A: What do you think about Splitters that can split a certain percentage of the Belts?](./transcriptions/yt-GiOZBqdfrAQ.md) [https://www.youtube.com/watch?v=GiOZBqdfrAQ](https://www.youtube.com/watch?v=GiOZBqdfrAQ)
 </details>
 
-## [July 23rd, 2021 Livestream](./2021-07-23.md)
+## [July 23rd, 2021 Dev Vlog](./2021-07-23.md)
 ### [Q&A: Will people be able to ride on the Drones?](./transcriptions/yt-FyOHDcxtEUA,454.1,503.56666666666666.md) [https://youtube.com/clip/UgzwgTuR5a3hUzkUnX54AaABCQ](https://youtube.com/clip/UgzwgTuR5a3hUzkUnX54AaABCQ)
 
 <details>
@@ -1716,7 +1716,7 @@ date: Last Modified
 * [June 22nd, 2018 Q&A: Will we need to defend our factory?](./transcriptions/yt-W1E6EWrAsII,176.6,214.36.md) [https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=176&end=215](https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=176&end=215)
 </details>
 
-## [July 16th, 2021 Livestream](./2021-07-16.md)
+## [July 16th, 2021 Video](./2021-07-16.md)
 ### [Q&A: Does Satisfactory have Official Mod Support?](./transcriptions/yt-Z2WggHmVHGI,39.1391,95.22846666666666.md) [https://youtube.com/clip/UgylC5F8-3qS5liSCLp4AaABCQ](https://youtube.com/clip/UgylC5F8-3qS5liSCLp4AaABCQ)
 
 <details>

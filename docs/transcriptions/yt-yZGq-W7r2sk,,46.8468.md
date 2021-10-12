@@ -1,12 +1,12 @@
 ---
-title: "September 3rd, 2021 Livestream Intro"
+title: "September 3rd, 2021 Dev Vlog Intro"
 date: "2021-09-03"
 layout: transcript
 topics:
     - "features/planned-features/build-modes"
     - "satisfactory-updates/teasers-trailers/update-5-teasers"
 ---
-# [September 3rd, 2021 Livestream](../2021-09-03.md)
+# [September 3rd, 2021 Dev Vlog](../2021-09-03.md)
 ## Intro
 https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=0&end=47
 

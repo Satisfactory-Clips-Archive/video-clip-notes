@@ -8,7 +8,7 @@ date: Last Modified
 ## September 7th, 2021 Livestream
 * [Q&A: Are we going to have 2m Walls?](../../../transcriptions/yt-okK53vcq2V4.md) [https://www.youtube.com/watch?v=okK53vcq2V4](https://www.youtube.com/watch?v=okK53vcq2V4)
 
-## September 3rd, 2021 Livestream
+## September 3rd, 2021 Dev Vlog
 * [Jace Talk: New Walls & new Inverted Ramp materials](../../../transcriptions/yt-yZGq-W7r2sk,370.53683333333333,432.009104.md) [https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=370&end=433](https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=370&end=433)
 * [Jace Talk: New Buildables in the Walkways teaser shot](../../../transcriptions/yt-yZGq-W7r2sk,651.4841666666666,701.9012.md) [https://youtube.com/clip/UgxcHhkG1DDsw1Z9Uex4AaABCQ](https://youtube.com/clip/UgxcHhkG1DDsw1Z9Uex4AaABCQ)
 

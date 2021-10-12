@@ -1,5 +1,5 @@
 ---
-title: "May 28th, 2021 Livestream Q&A: Can you give a quick explanation of how the system for Lights works right now?"
+title: "May 28th, 2021 Dev Vlog Q&A: Can you give a quick explanation of how the system for Lights works right now?"
 date: "2021-05-28"
 layout: transcript
 topics:
@@ -12,7 +12,7 @@ topics:
     - "technology/unreal-engine"
     - "technology/unreal-engine/distance-fields"
 ---
-# [May 28th, 2021 Livestream](../2021-05-28.md)
+# [May 28th, 2021 Dev Vlog](../2021-05-28.md)
 ## Q&A: Can you give a quick explanation of how the system for Lights works right now?
 https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=199&end=449
 

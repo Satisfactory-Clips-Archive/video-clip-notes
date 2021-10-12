@@ -1,11 +1,11 @@
 ---
-title: "July 23rd, 2021 Livestream Q&A: Drones fly through the center of their World Grid, they don't fly diagonally?"
+title: "July 23rd, 2021 Dev Vlog Q&A: Drones fly through the center of their World Grid, they don't fly diagonally?"
 date: "2021-07-23"
 layout: transcript
 topics:
     - "features/transportation/vehicles/drones"
 ---
-# [July 23rd, 2021 Livestream](../2021-07-23.md)
+# [July 23rd, 2021 Dev Vlog](../2021-07-23.md)
 ## Q&A: Drones fly through the center of their World Grid, they don't fly diagonally?
 https://youtube.com/clip/UgzIJfRBdlBhb2mEtSB4AaABCQ
 

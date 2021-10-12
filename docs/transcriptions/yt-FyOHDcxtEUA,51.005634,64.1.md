@@ -1,12 +1,12 @@
 ---
-title: "July 23rd, 2021 Livestream Q&A: Can we pilot Drones?"
+title: "July 23rd, 2021 Dev Vlog Q&A: Can we pilot Drones?"
 date: "2021-07-23"
 layout: transcript
 topics:
     - "features/transportation/vehicles/drones"
     - "features/unplanned-features/aerial-travel"
 ---
-# [July 23rd, 2021 Livestream](../2021-07-23.md)
+# [July 23rd, 2021 Dev Vlog](../2021-07-23.md)
 ## Q&A: Can we pilot Drones?
 https://youtube.com/clip/UgwoWLQOb1xROLzSTph4AaABCQ
 

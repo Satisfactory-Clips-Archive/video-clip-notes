@@ -1,12 +1,12 @@
 ---
-title: "September 3rd, 2021 Livestream Jace Talk: Wall Frames & Soft Clearance"
+title: "September 3rd, 2021 Dev Vlog Jace Talk: Wall Frames & Soft Clearance"
 date: "2021-09-03"
 layout: transcript
 topics:
     - "features/planned-features/build-modes/hard-soft-clearance"
     - "satisfactory-updates/pending/satisfactory-update-5"
 ---
-# [September 3rd, 2021 Livestream](../2021-09-03.md)
+# [September 3rd, 2021 Dev Vlog](../2021-09-03.md)
 ## Jace Talk: Wall Frames & Soft Clearance
 https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=814&end=982
 

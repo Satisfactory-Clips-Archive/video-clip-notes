@@ -1,11 +1,11 @@
 ---
-title: "July 16th, 2021 Livestream Intro Karaoke (RIP Chester)"
+title: "July 16th, 2021 Video Intro Karaoke (RIP Chester)"
 date: "2021-07-16"
 layout: transcript
 topics:
     - "coffee-stainers/jace"
 ---
-# [July 16th, 2021 Livestream](../2021-07-16.md)
+# [July 16th, 2021 Video](../2021-07-16.md)
 ## Intro Karaoke (RIP Chester)
 https://youtube.com/embed/Z2WggHmVHGI?autoplay=1&start=0&end=10
 

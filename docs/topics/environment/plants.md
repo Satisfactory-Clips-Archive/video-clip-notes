@@ -21,7 +21,7 @@ date: Last Modified
 * [Q&A: Any thoughts of respawning flora?](../../transcriptions/yt-EtJ0aoI_fBs.md) [https://www.youtube.com/watch?v=EtJ0aoI_fBs](https://www.youtube.com/watch?v=EtJ0aoI_fBs)
 * [Snutt & Jace Talk: Bacon Agaric](../../transcriptions/yt-ohaQD5VeUxU.md) [https://www.youtube.com/watch?v=ohaQD5VeUxU](https://www.youtube.com/watch?v=ohaQD5VeUxU)
 
-## May 28th, 2021 Livestream
+## May 28th, 2021 Dev Vlog
 * [Q&A: What's coming in the future for optimisations to Satisfactory?](../../transcriptions/yt-dyqOMITwLsY,1837.377208333333,1944.0671249999998.md) [https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=1837&end=1945](https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=1837&end=1945)
 
 ## May 4th, 2021 Livestream

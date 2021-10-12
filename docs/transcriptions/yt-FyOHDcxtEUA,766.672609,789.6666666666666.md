@@ -1,12 +1,12 @@
 ---
-title: "July 23rd, 2021 Livestream Tobias & Jace Talk: Drone WIP Footage - Drone World Grid height updates"
+title: "July 23rd, 2021 Dev Vlog Tobias & Jace Talk: Drone WIP Footage - Drone World Grid height updates"
 date: "2021-07-23"
 layout: transcript
 topics:
     - "features/transportation/vehicles/drones"
     - "satisfactory-updates/satisfactory-prototypes"
 ---
-# [July 23rd, 2021 Livestream](../2021-07-23.md)
+# [July 23rd, 2021 Dev Vlog](../2021-07-23.md)
 ## Tobias & Jace Talk: Drone WIP Footage - Drone World Grid height updates
 https://youtube.com/clip/Ugw8x_S9XXS7RVhAK_N4AaABCQ
 

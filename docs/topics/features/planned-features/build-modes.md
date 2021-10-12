@@ -12,7 +12,7 @@ date: Last Modified
 * [Snutt & Jace Talk: Soft & Hard Clearance](../../../transcriptions/yt-TMsQatRPKyE.md) [https://www.youtube.com/watch?v=TMsQatRPKyE](https://www.youtube.com/watch?v=TMsQatRPKyE)
 * [Snutt Talk: Build Mode change reveals still pending](../../../transcriptions/yt-1zD1rimBbq8.md) [https://www.youtube.com/watch?v=1zD1rimBbq8](https://www.youtube.com/watch?v=1zD1rimBbq8)
 
-## September 3rd, 2021 Livestream
+## September 3rd, 2021 Dev Vlog
 * [Intro](../../../transcriptions/yt-yZGq-W7r2sk,,46.8468.md) [https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=0&end=47](https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=0&end=47)
 
 ## August 31st, 2021 Livestream

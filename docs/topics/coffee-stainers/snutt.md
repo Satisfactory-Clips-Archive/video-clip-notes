@@ -72,7 +72,7 @@ date: Last Modified
 * [Snutt & Jace Talk: Epic Mega Sale](../../transcriptions/yt-8Ad-XvODOss.md) [https://www.youtube.com/watch?v=8Ad-XvODOss](https://www.youtube.com/watch?v=8Ad-XvODOss)
 * [Snutt & Jace Talk: Mystery surprise in Jace's factory HUB](../../transcriptions/yt-_F3OkVu4LnQ.md) [https://www.youtube.com/watch?v=_F3OkVu4LnQ](https://www.youtube.com/watch?v=_F3OkVu4LnQ)
 
-## May 28th, 2021 Livestream
+## May 28th, 2021 Dev Vlog
 * [Snutt & Ben Talked: Consequences of too many lights](../../transcriptions/yt-dyqOMITwLsY,783.279574,808.618017.md) [https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=783&end=809](https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=783&end=809)
 
 ## May 25th, 2021 Livestream

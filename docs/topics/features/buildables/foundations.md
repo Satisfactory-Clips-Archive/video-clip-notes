@@ -10,7 +10,7 @@ date: Last Modified
 * [Q&A: Foundations with holes?](../../../transcriptions/yt-VZZXxJb9Vsg.md) [https://www.youtube.com/watch?v=VZZXxJb9Vsg](https://www.youtube.com/watch?v=VZZXxJb9Vsg)
 * [Q&A: Will Ramp versions be able to be half as well?](../../../transcriptions/yt-ClOiLPOWYVI.md) [https://www.youtube.com/watch?v=ClOiLPOWYVI](https://www.youtube.com/watch?v=ClOiLPOWYVI)
 
-## September 3rd, 2021 Livestream
+## September 3rd, 2021 Dev Vlog
 * [Jace Talk: New Walls & new Inverted Ramp materials](../../../transcriptions/yt-yZGq-W7r2sk,370.53683333333333,432.009104.md) [https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=370&end=433](https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=370&end=433)
 
 ## August 24th, 2021 Livestream
@@ -44,7 +44,7 @@ date: Last Modified
 * [Q&A: How do you measure 10m height?](../../../transcriptions/yt-6_EKJGtzTdg.md) [https://www.youtube.com/watch?v=6_EKJGtzTdg](https://www.youtube.com/watch?v=6_EKJGtzTdg)
 * [Snutt Talk: Sandwich layer for Conveyor Belts](../../../transcriptions/yt-Kyla0AmCUoo.md) [https://www.youtube.com/watch?v=Kyla0AmCUoo](https://www.youtube.com/watch?v=Kyla0AmCUoo)
 
-## May 28th, 2021 Livestream
+## May 28th, 2021 Dev Vlog
 * [Snutt & Ben Talk: New Holograms](../../../transcriptions/yt-dyqOMITwLsY,945.7364583333333,1065.561195.md) [https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=945&end=1066](https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=945&end=1066)
 
 ## May 25th, 2021 Livestream

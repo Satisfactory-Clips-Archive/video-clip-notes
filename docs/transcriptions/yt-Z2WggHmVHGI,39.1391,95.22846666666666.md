@@ -1,11 +1,11 @@
 ---
-title: "July 16th, 2021 Livestream Q&A: Does Satisfactory have Official Mod Support?"
+title: "July 16th, 2021 Video Q&A: Does Satisfactory have Official Mod Support?"
 date: "2021-07-16"
 layout: transcript
 topics:
     - "mods/official-mod-support"
 ---
-# [July 16th, 2021 Livestream](../2021-07-16.md)
+# [July 16th, 2021 Video](../2021-07-16.md)
 ## Q&A: Does Satisfactory have Official Mod Support?
 https://youtube.com/clip/UgylC5F8-3qS5liSCLp4AaABCQ
 <details>

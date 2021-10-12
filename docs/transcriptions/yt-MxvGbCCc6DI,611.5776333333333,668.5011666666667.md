@@ -1,5 +1,5 @@
 ---
-title: "August 6th, 2021 Livestream Q&A: What's happening with Resource Nodes?"
+title: "August 6th, 2021 Video Q&A: What's happening with Resource Nodes?"
 date: "2021-08-06"
 layout: transcript
 topics:
@@ -7,7 +7,7 @@ topics:
     - "satisfactory-updates/pending/satisfactory-update-5"
     - "satisfactory-updates/world-update"
 ---
-# [August 6th, 2021 Livestream](../2021-08-06.md)
+# [August 6th, 2021 Video](../2021-08-06.md)
 ## Q&A: What's happening with Resource Nodes?
 https://youtube.com/clip/UgxbJIWwg9IIhNa4BQN4AaABCQ
 

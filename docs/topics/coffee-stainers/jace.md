@@ -71,7 +71,7 @@ date: Last Modified
 * [Q&A: Which Update will you be able to smelt limestone?](../../transcriptions/yt-5yAXcjunHOs.md) [https://www.youtube.com/watch?v=5yAXcjunHOs](https://www.youtube.com/watch?v=5yAXcjunHOs)
 * [Q&A: Are you gonna add Glass material so you can smelt that limestone node?](../../transcriptions/yt-6jozauxOEbc.md) [https://www.youtube.com/watch?v=6jozauxOEbc](https://www.youtube.com/watch?v=6jozauxOEbc)
 
-## July 16th, 2021 Livestream
+## July 16th, 2021 Video
 * [Intro Karaoke (RIP Chester)](../../transcriptions/yt-Z2WggHmVHGI,,9.6096.md) [https://youtube.com/embed/Z2WggHmVHGI?autoplay=1&start=0&end=10](https://youtube.com/embed/Z2WggHmVHGI?autoplay=1&start=0&end=10)
 
 ## July 13th, 2021 Livestream

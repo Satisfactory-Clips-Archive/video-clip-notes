@@ -8,7 +8,7 @@ topics:
 # [May 11th, 2021 Livestream](../2021-05-11.md)
 ## Q&A: Ride Drones?
 https://www.youtube.com/watch?v=0tHe5NBul6M
-This question was possibly duplicated with a more recent answer: [July 23rd, 2021 Livestream Q&A: Will people be able to ride on the Drones?](./yt-FyOHDcxtEUA,454.1,503.56666666666666.md) [https://youtube.com/clip/UgzwgTuR5a3hUzkUnX54AaABCQ](https://youtube.com/clip/UgzwgTuR5a3hUzkUnX54AaABCQ)
+This question was possibly duplicated with a more recent answer: [July 23rd, 2021 Dev Vlog Q&A: Will people be able to ride on the Drones?](./yt-FyOHDcxtEUA,454.1,503.56666666666666.md) [https://youtube.com/clip/UgzwgTuR5a3hUzkUnX54AaABCQ](https://youtube.com/clip/UgzwgTuR5a3hUzkUnX54AaABCQ)
 
 
 ### Topics

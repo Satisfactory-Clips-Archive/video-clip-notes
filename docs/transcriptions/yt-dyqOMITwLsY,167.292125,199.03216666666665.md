@@ -1,12 +1,12 @@
 ---
-title: "May 28th, 2021 Livestream Snutt & Ben Talk: Unreal Engine Object Limit"
+title: "May 28th, 2021 Dev Vlog Snutt & Ben Talk: Unreal Engine Object Limit"
 date: "2021-05-28"
 layout: transcript
 topics:
     - "technology/unreal-engine"
     - "technology/unreal-engine/object-limit"
 ---
-# [May 28th, 2021 Livestream](../2021-05-28.md)
+# [May 28th, 2021 Dev Vlog](../2021-05-28.md)
 ## Snutt & Ben Talk: Unreal Engine Object Limit
 https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=167&end=200
 

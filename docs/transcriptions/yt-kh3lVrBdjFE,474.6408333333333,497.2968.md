@@ -1,5 +1,5 @@
 ---
-title: "September 10th, 2021 Livestream Jace Talk: Adding Truck Stations to a previously-recorded path"
+title: "September 10th, 2021 Video Jace Talk: Adding Truck Stations to a previously-recorded path"
 date: "2021-09-10"
 layout: transcript
 topics:
@@ -7,7 +7,7 @@ topics:
     - "features/transportation/vehicles/autopilot"
     - "satisfactory-updates/pending/satisfactory-update-5"
 ---
-# [September 10th, 2021 Livestream](../2021-09-10.md)
+# [September 10th, 2021 Video](../2021-09-10.md)
 ## Jace Talk: Adding Truck Stations to a previously-recorded path
 https://youtube.com/clip/Ugzkf2Qp5gQgz7c0TNJ4AaABCQ
 

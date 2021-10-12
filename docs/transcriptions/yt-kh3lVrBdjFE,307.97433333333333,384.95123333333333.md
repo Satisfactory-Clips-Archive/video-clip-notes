@@ -1,5 +1,5 @@
 ---
-title: "September 10th, 2021 Livestream Jace Talk: Vehicles & Fuel usage"
+title: "September 10th, 2021 Video Jace Talk: Vehicles & Fuel usage"
 date: "2021-09-10"
 layout: transcript
 topics:
@@ -7,7 +7,7 @@ topics:
     - "features/transportation/vehicles"
     - "satisfactory-updates/pending/satisfactory-update-5"
 ---
-# [September 10th, 2021 Livestream](../2021-09-10.md)
+# [September 10th, 2021 Video](../2021-09-10.md)
 ## Jace Talk: Vehicles & Fuel usage
 https://youtube.com/embed/kh3lVrBdjFE?autoplay=1&start=307&end=385
 

@@ -5,7 +5,7 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Teasers & Trailers](../../../topics/satisfactory-updates/teasers-trailers.md) > Update 5 Teasers
 
-## September 10th, 2021 Livestream
+## September 10th, 2021 Video
 * [Jace Talk: Truck Station refresh](../../../transcriptions/yt-kh3lVrBdjFE,46.079366666666665,98.66523333333333.md) [https://youtube.com/clip/UgzcjK3EbZSm6LhrHJ54AaABCQ](https://youtube.com/clip/UgzcjK3EbZSm6LhrHJ54AaABCQ)
 
 ## September 7th, 2021 Livestream
@@ -29,7 +29,7 @@ date: Last Modified
 * [Community FYI: Nice colour highlights there](../../../transcriptions/yt-umSEa0eFeeM.md) [https://www.youtube.com/watch?v=umSEa0eFeeM](https://www.youtube.com/watch?v=umSEa0eFeeM)
 * [Q&A: Next Teaser video, when?](../../../transcriptions/yt-KDsEsDLIFyk.md) [https://www.youtube.com/watch?v=KDsEsDLIFyk](https://www.youtube.com/watch?v=KDsEsDLIFyk)
 
-## September 3rd, 2021 Livestream
+## September 3rd, 2021 Dev Vlog
 * [Intro](../../../transcriptions/yt-yZGq-W7r2sk,,46.8468.md) [https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=0&end=47](https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=0&end=47)
 * [Jace Talk: Small Metal Pillars](../../../transcriptions/yt-yZGq-W7r2sk,62.858586,128.76196666666667.md) [https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=62&end=129](https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=62&end=129)
 * [Jace Talk: New Pillar types](../../../transcriptions/yt-yZGq-W7r2sk,128.79533333333333,172.907752.md) [https://youtube.com/clip/UgzFh1qpn_lmBfeNoex4AaABCQ](https://youtube.com/clip/UgzFh1qpn_lmBfeNoex4AaABCQ)

@@ -1,11 +1,11 @@
 ---
-title: "July 23rd, 2021 Livestream Q&A: Does the Drone World Grid take into account players' Buildings?"
+title: "July 23rd, 2021 Dev Vlog Q&A: Does the Drone World Grid take into account players' Buildings?"
 date: "2021-07-23"
 layout: transcript
 topics:
     - "features/transportation/vehicles/drones"
 ---
-# [July 23rd, 2021 Livestream](../2021-07-23.md)
+# [July 23rd, 2021 Dev Vlog](../2021-07-23.md)
 ## Q&A: Does the Drone World Grid take into account players' Buildings?
 https://youtube.com/clip/Ugy_LYnkg3Di19SfH-J4AaABCQ
 

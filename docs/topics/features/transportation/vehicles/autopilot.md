@@ -5,7 +5,7 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > Transportation > [Vehicles](../../../../topics/features/transportation/vehicles.md) > Autopilot
 
-## September 10th, 2021 Livestream
+## September 10th, 2021 Video
 * [Jace Talk: Changes to Vehicle Automation](../../../../transcriptions/yt-kh3lVrBdjFE,98.690775,197.4973.md) [https://youtube.com/embed/kh3lVrBdjFE?autoplay=1&start=98&end=198](https://youtube.com/embed/kh3lVrBdjFE?autoplay=1&start=98&end=198)
 * [Jace Talk: Changes to Vehicles obstacle avoidance & getting stuck (ghosting)](../../../../transcriptions/yt-kh3lVrBdjFE,197.53066666666666,307.94096666666667.md) [https://youtube.com/embed/kh3lVrBdjFE?autoplay=1&start=197&end=308](https://youtube.com/embed/kh3lVrBdjFE?autoplay=1&start=197&end=308)
 * [Jace Talk: Save & Load Vehicle paths](../../../../transcriptions/yt-kh3lVrBdjFE,384.9846,435.2348.md) [https://youtube.com/clip/Ugyw-VIU_ASNmQxElRN4AaABCQ](https://youtube.com/clip/Ugyw-VIU_ASNmQxElRN4AaABCQ)

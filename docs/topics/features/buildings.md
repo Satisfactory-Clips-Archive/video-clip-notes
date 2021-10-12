@@ -26,7 +26,7 @@ date: Last Modified
 * [The HUB](../../topics/features/buildings/the-hub.md)
 * [Water Extractor](../../topics/features/buildings/water-extractor.md)
 
-## September 10th, 2021 Livestream
+## September 10th, 2021 Video
 * [Jace Talk: Truck Station refresh](../../transcriptions/yt-kh3lVrBdjFE,46.079366666666665,98.66523333333333.md) [https://youtube.com/clip/UgzcjK3EbZSm6LhrHJ54AaABCQ](https://youtube.com/clip/UgzcjK3EbZSm6LhrHJ54AaABCQ)
 * [Jace Talk: Adding Truck Stations to a previously-recorded path](../../transcriptions/yt-kh3lVrBdjFE,474.6408333333333,497.2968.md) [https://youtube.com/clip/Ugzkf2Qp5gQgz7c0TNJ4AaABCQ](https://youtube.com/clip/Ugzkf2Qp5gQgz7c0TNJ4AaABCQ)
 
@@ -59,7 +59,7 @@ date: Last Modified
 * [Snutt & Jace Talk: Copy & Paste production settings](../../transcriptions/yt-svIdrCN2zPk.md) [https://www.youtube.com/watch?v=svIdrCN2zPk](https://www.youtube.com/watch?v=svIdrCN2zPk)
 * [Snutt Talk: Production Efficiency](../../transcriptions/yt-12uZ730Ljc8.md) [https://www.youtube.com/watch?v=12uZ730Ljc8](https://www.youtube.com/watch?v=12uZ730Ljc8)
 
-## May 28th, 2021 Livestream
+## May 28th, 2021 Dev Vlog
 * [Q&A: Is there anything else aside from Conveyor Belts that's not using Distance Fields?](../../transcriptions/yt-dyqOMITwLsY,448.69825,500.75024999999994.md) [https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=448&end=501](https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=448&end=501)
 
 ## May 25th, 2021 Livestream

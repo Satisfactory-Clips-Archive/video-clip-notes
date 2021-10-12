@@ -1,12 +1,12 @@
 ---
-title: "July 23rd, 2021 Livestream Tobias & Jace Talk: Drone WIP Footage - Drones using their World Grid to pathfind"
+title: "July 23rd, 2021 Dev Vlog Tobias & Jace Talk: Drone WIP Footage - Drones using their World Grid to pathfind"
 date: "2021-07-23"
 layout: transcript
 topics:
     - "features/transportation/vehicles/drones"
     - "satisfactory-updates/satisfactory-prototypes"
 ---
-# [July 23rd, 2021 Livestream](../2021-07-23.md)
+# [July 23rd, 2021 Dev Vlog](../2021-07-23.md)
 ## Tobias & Jace Talk: Drone WIP Footage - Drones using their World Grid to pathfind
 https://youtube.com/clip/UgxRV6hcvXyjD6YnjPl4AaABCQ
 

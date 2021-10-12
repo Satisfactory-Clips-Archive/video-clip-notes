@@ -6,7 +6,7 @@ date: Last Modified
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > User Interface
 * [Holograms](../../topics/technology/user-interface/holograms.md)
 
-## September 10th, 2021 Livestream
+## September 10th, 2021 Video
 * [Jace Talk: Truck Station refresh](../../transcriptions/yt-kh3lVrBdjFE,46.079366666666665,98.66523333333333.md) [https://youtube.com/clip/UgzcjK3EbZSm6LhrHJ54AaABCQ](https://youtube.com/clip/UgzcjK3EbZSm6LhrHJ54AaABCQ)
 
 ## September 7th, 2021 Livestream
@@ -17,7 +17,7 @@ date: Last Modified
 * [Snutt & Jace Talk: Changes to text UI](../../transcriptions/yt--Mym2zqWDYg.md) [https://www.youtube.com/watch?v=-Mym2zqWDYg](https://www.youtube.com/watch?v=-Mym2zqWDYg)
 * [Q&A: Quick Switch is the same thing as the Radial Menu?](../../transcriptions/yt-ot9z828JGSU.md) [https://www.youtube.com/watch?v=ot9z828JGSU](https://www.youtube.com/watch?v=ot9z828JGSU)
 
-## September 3rd, 2021 Livestream
+## September 3rd, 2021 Dev Vlog
 * [Jace Talk: Architecture Build Menu](../../transcriptions/yt-yZGq-W7r2sk,772.0045666666667,814.4136.md) [https://youtube.com/clip/Ugy5if5uwAkJag0YVIx4AaABCQ](https://youtube.com/clip/Ugy5if5uwAkJag0YVIx4AaABCQ)
 * [Jace Talk: Zooping](../../transcriptions/yt-yZGq-W7r2sk,1109.1413666666667,1217.2827333333335.md) [https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=1109&end=1218](https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=1109&end=1218)
 
@@ -86,7 +86,7 @@ date: Last Modified
 * [Snutt & Jace Talk: Copy & Paste production settings](../../transcriptions/yt-svIdrCN2zPk.md) [https://www.youtube.com/watch?v=svIdrCN2zPk](https://www.youtube.com/watch?v=svIdrCN2zPk)
 * [Snutt Talk: Production Efficiency](../../transcriptions/yt-12uZ730Ljc8.md) [https://www.youtube.com/watch?v=12uZ730Ljc8](https://www.youtube.com/watch?v=12uZ730Ljc8)
 
-## May 28th, 2021 Livestream
+## May 28th, 2021 Dev Vlog
 * [Ben Talk: Custom Hologram colours coming in the future](../../transcriptions/yt-dyqOMITwLsY,1286.7855,1330.7460833333332.md) [https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=1286&end=1331](https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=1286&end=1331)
 
 ## May 25th, 2021 Livestream

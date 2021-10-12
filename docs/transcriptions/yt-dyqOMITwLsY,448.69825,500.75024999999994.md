@@ -1,5 +1,5 @@
 ---
-title: "May 28th, 2021 Livestream Q&A: Is there anything else aside from Conveyor Belts that's not using Distance Fields?"
+title: "May 28th, 2021 Dev Vlog Q&A: Is there anything else aside from Conveyor Belts that's not using Distance Fields?"
 date: "2021-05-28"
 layout: transcript
 topics:
@@ -7,7 +7,7 @@ topics:
     - "features/buildings"
     - "technology/unreal-engine/distance-fields"
 ---
-# [May 28th, 2021 Livestream](../2021-05-28.md)
+# [May 28th, 2021 Dev Vlog](../2021-05-28.md)
 ## Q&A: Is there anything else aside from Conveyor Belts that's not using Distance Fields?
 https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=448&end=501
 

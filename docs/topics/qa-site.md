@@ -42,7 +42,7 @@ date: Last Modified
 * [Q&A: Any thoughts of respawning flora?](../transcriptions/yt-EtJ0aoI_fBs.md) [https://www.youtube.com/watch?v=EtJ0aoI_fBs](https://www.youtube.com/watch?v=EtJ0aoI_fBs)
 * [Q&A: What about closing up Merger/Splitter outputs for aesthetic purposes?](../transcriptions/yt-f4aZRJpobRc.md) [https://www.youtube.com/watch?v=f4aZRJpobRc](https://www.youtube.com/watch?v=f4aZRJpobRc)
 
-## May 28th, 2021 Livestream
+## May 28th, 2021 Dev Vlog
 * [Q&A: Is there anything else you're planning to do with Lights in the future?](../transcriptions/yt-dyqOMITwLsY,597.456414,647.6052916666666.md) [https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=597&end=648](https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=597&end=648)
 
 ## May 25th, 2021 Livestream

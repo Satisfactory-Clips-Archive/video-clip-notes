@@ -1,12 +1,12 @@
 ---
-title: "July 23rd, 2021 Livestream Tobias Talk: Battery consumption of Drones"
+title: "July 23rd, 2021 Dev Vlog Tobias Talk: Battery consumption of Drones"
 date: "2021-07-23"
 layout: transcript
 topics:
     - "environment/resources"
     - "features/transportation/vehicles/drones"
 ---
-# [July 23rd, 2021 Livestream](../2021-07-23.md)
+# [July 23rd, 2021 Dev Vlog](../2021-07-23.md)
 ## Tobias Talk: Battery consumption of Drones
 https://youtube.com/clip/UgxQF40-E2C7byyl9MN4AaABCQ
 

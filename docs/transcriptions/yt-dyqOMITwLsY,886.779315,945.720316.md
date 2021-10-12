@@ -1,11 +1,11 @@
 ---
-title: "May 28th, 2021 Livestream Ben Talk: Other optimisations to Constructors"
+title: "May 28th, 2021 Dev Vlog Ben Talk: Other optimisations to Constructors"
 date: "2021-05-28"
 layout: transcript
 topics:
     - "features/buildings/constructor"
 ---
-# [May 28th, 2021 Livestream](../2021-05-28.md)
+# [May 28th, 2021 Dev Vlog](../2021-05-28.md)
 ## Ben Talk: Other optimisations to Constructors
 https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=886&end=946
 

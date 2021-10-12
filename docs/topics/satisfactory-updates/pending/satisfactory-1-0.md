@@ -28,7 +28,7 @@ date: Last Modified
 * [Q&A: Is a second map planned for a few months after release?](../../../transcriptions/yt-hpzqL7Ujefs.md) [https://www.youtube.com/watch?v=hpzqL7Ujefs](https://www.youtube.com/watch?v=hpzqL7Ujefs)
 * [Q&A: How many more updates will you publish before launch](../../../transcriptions/yt-V9vVWjA75-0.md) [https://www.youtube.com/watch?v=V9vVWjA75-0](https://www.youtube.com/watch?v=V9vVWjA75-0)
 
-## August 6th, 2021 Livestream
+## August 6th, 2021 Video
 * [Jace Talk: Roadmap for Map changes](../../../transcriptions/yt-MxvGbCCc6DI,542.8089333333334,611.5442666666667.md) [https://youtube.com/embed/MxvGbCCc6DI?autoplay=1&start=542&end=612](https://youtube.com/embed/MxvGbCCc6DI?autoplay=1&start=542&end=612)
 
 ## July 20th, 2021 Livestream

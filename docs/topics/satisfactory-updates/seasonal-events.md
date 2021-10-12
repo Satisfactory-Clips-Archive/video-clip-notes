@@ -18,7 +18,7 @@ date: Last Modified
 ## July 13th, 2021 Livestream
 * [Q&A: Any more Holiday Events?](../../transcriptions/yt-PLi6OES4LTg.md) [https://www.youtube.com/watch?v=PLi6OES4LTg](https://www.youtube.com/watch?v=PLi6OES4LTg)
 
-## May 28th, 2021 Livestream
+## May 28th, 2021 Dev Vlog
 * [Q&A: Can you give a quick explanation of how the system for Lights works right now?](../../transcriptions/yt-dyqOMITwLsY,199.03216666666665,448.69825.md) [https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=199&end=449](https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=199&end=449)
 
 ## May 18th, 2021 Livestream

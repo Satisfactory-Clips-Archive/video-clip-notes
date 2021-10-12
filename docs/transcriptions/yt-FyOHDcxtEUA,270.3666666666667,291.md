@@ -1,11 +1,11 @@
 ---
-title: "July 23rd, 2021 Livestream Jace Math: Drones are more efficient the further they travel"
+title: "July 23rd, 2021 Dev Vlog Jace Math: Drones are more efficient the further they travel"
 date: "2021-07-23"
 layout: transcript
 topics:
     - "features/transportation/vehicles/drones"
 ---
-# [July 23rd, 2021 Livestream](../2021-07-23.md)
+# [July 23rd, 2021 Dev Vlog](../2021-07-23.md)
 ## Jace Math: Drones are more efficient the further they travel
 https://youtube.com/clip/UgwCeOry0Hy7Dg0QywB4AaABCQ
 

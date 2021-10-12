@@ -1,12 +1,12 @@
 ---
-title: "September 10th, 2021 Livestream Jace Talk: Changes to Vehicles obstacle avoidance & getting stuck (ghosting)"
+title: "September 10th, 2021 Video Jace Talk: Changes to Vehicles obstacle avoidance & getting stuck (ghosting)"
 date: "2021-09-10"
 layout: transcript
 topics:
     - "features/transportation/vehicles/autopilot"
     - "satisfactory-updates/pending/satisfactory-update-5"
 ---
-# [September 10th, 2021 Livestream](../2021-09-10.md)
+# [September 10th, 2021 Video](../2021-09-10.md)
 ## Jace Talk: Changes to Vehicles obstacle avoidance & getting stuck (ghosting)
 https://youtube.com/embed/kh3lVrBdjFE?autoplay=1&start=197&end=308
 

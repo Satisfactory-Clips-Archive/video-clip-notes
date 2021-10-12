@@ -1,11 +1,11 @@
 ---
-title: "July 23rd, 2021 Livestream Q&A: What's the timer for?"
+title: "July 23rd, 2021 Dev Vlog Q&A: What's the timer for?"
 date: "2021-07-23"
 layout: transcript
 topics:
     - "features/transportation/vehicles/drones"
 ---
-# [July 23rd, 2021 Livestream](../2021-07-23.md)
+# [July 23rd, 2021 Dev Vlog](../2021-07-23.md)
 ## Q&A: What's the timer for?
 https://youtube.com/clip/UgyYNv0yANrj0o9ti7h4AaABCQ
 

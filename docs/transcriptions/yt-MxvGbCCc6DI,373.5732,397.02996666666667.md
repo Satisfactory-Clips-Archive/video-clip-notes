@@ -1,5 +1,5 @@
 ---
-title: "August 6th, 2021 Livestream Jace Talk: The Northern Forest & the Dune Desert are considered \"final\""
+title: "August 6th, 2021 Video Jace Talk: The Northern Forest & the Dune Desert are considered \"final\""
 date: "2021-08-06"
 layout: transcript
 topics:
@@ -8,7 +8,7 @@ topics:
     - "satisfactory-updates/pending/satisfactory-update-5"
     - "satisfactory-updates/world-update"
 ---
-# [August 6th, 2021 Livestream](../2021-08-06.md)
+# [August 6th, 2021 Video](../2021-08-06.md)
 ## Jace Talk: The Northern Forest & the Dune Desert are considered "final"
 https://youtube.com/clip/UgwlT4wrAbzLm83jER94AaABCQ
 

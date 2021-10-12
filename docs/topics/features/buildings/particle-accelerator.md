@@ -5,7 +5,7 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > Particle Accelerator
 
-## September 3rd, 2021 Livestream
+## September 3rd, 2021 Dev Vlog
 * [Jace Talk: Hard & Soft Clearance demonstration](../../../transcriptions/yt-yZGq-W7r2sk,981.5806,1109.108.md) [https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=981&end=1110](https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=981&end=1110)
 
 ## August 24th, 2021 Livestream

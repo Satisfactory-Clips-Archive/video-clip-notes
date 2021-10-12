@@ -1,11 +1,11 @@
 ---
-title: "July 23rd, 2021 Livestream Q&A: Will people be able to ride on the Drones?"
+title: "July 23rd, 2021 Dev Vlog Q&A: Will people be able to ride on the Drones?"
 date: "2021-07-23"
 layout: transcript
 topics:
     - "features/transportation/vehicles/drones"
 ---
-# [July 23rd, 2021 Livestream](../2021-07-23.md)
+# [July 23rd, 2021 Dev Vlog](../2021-07-23.md)
 ## Q&A: Will people be able to ride on the Drones?
 https://youtube.com/clip/UgzwgTuR5a3hUzkUnX54AaABCQ
 <details>

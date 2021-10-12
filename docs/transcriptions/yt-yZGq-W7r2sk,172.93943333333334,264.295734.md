@@ -1,12 +1,12 @@
 ---
-title: "September 3rd, 2021 Livestream Jace Talk: New Build feature \"Quick Switch\""
+title: "September 3rd, 2021 Dev Vlog Jace Talk: New Build feature \"Quick Switch\""
 date: "2021-09-03"
 layout: transcript
 topics:
     - "features/planned-features/build-modes/quick-switch"
     - "satisfactory-updates/pending/satisfactory-update-5"
 ---
-# [September 3rd, 2021 Livestream](../2021-09-03.md)
+# [September 3rd, 2021 Dev Vlog](../2021-09-03.md)
 ## Jace Talk: New Build feature "Quick Switch"
 https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=172&end=265
 

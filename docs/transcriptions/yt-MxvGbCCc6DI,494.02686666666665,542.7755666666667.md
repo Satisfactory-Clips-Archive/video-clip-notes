@@ -1,12 +1,12 @@
 ---
-title: "August 6th, 2021 Livestream Q&A: Can we get a map to see what's been worked on & what's been changed"
+title: "August 6th, 2021 Video Q&A: Can we get a map to see what's been worked on & what's been changed"
 date: "2021-08-06"
 layout: transcript
 topics:
     - "satisfactory-updates/pending/satisfactory-update-5"
     - "satisfactory-updates/world-update"
 ---
-# [August 6th, 2021 Livestream](../2021-08-06.md)
+# [August 6th, 2021 Video](../2021-08-06.md)
 ## Q&A: Can we get a map to see what's been worked on & what's been changed
 https://youtube.com/clip/Ugxc2QWKgGz3eJShU2N4AaABCQ
 

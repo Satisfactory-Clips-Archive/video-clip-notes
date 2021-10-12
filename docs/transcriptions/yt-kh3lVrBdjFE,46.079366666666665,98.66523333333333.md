@@ -1,5 +1,5 @@
 ---
-title: "September 10th, 2021 Livestream Jace Talk: Truck Station refresh"
+title: "September 10th, 2021 Video Jace Talk: Truck Station refresh"
 date: "2021-09-10"
 layout: transcript
 topics:
@@ -8,7 +8,7 @@ topics:
     - "satisfactory-updates/teasers-trailers/update-5-teasers"
     - "technology/user-interface"
 ---
-# [September 10th, 2021 Livestream](../2021-09-10.md)
+# [September 10th, 2021 Video](../2021-09-10.md)
 ## Jace Talk: Truck Station refresh
 https://youtube.com/clip/UgzcjK3EbZSm6LhrHJ54AaABCQ
 

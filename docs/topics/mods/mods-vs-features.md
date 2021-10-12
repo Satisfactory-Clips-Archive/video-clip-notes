@@ -16,7 +16,7 @@ date: Last Modified
 * [Q&A: Will we ever see something like custom challenges & custom milestones?](../../transcriptions/yt-cd8yJp9cRAE.md) [https://www.youtube.com/watch?v=cd8yJp9cRAE](https://www.youtube.com/watch?v=cd8yJp9cRAE)
 * [Q&A: Are Vehicle concepts actually something that Mods could provide?](../../transcriptions/yt-Rn_yVlZsyOY.md) [https://www.youtube.com/watch?v=Rn_yVlZsyOY](https://www.youtube.com/watch?v=Rn_yVlZsyOY)
 
-## July 16th, 2021 Livestream
+## July 16th, 2021 Video
 * [Q&A: Are you influenced by Mods?](../../transcriptions/yt-Z2WggHmVHGI,235.13490000000002,308.97533333333337.md) [https://youtube.com/embed/Z2WggHmVHGI?autoplay=1&start=235&end=309](https://youtube.com/embed/Z2WggHmVHGI?autoplay=1&start=235&end=309)
 * [Community FYI: You stole Feature X from this mod!!!](../../transcriptions/yt-Z2WggHmVHGI,309.00870000000003,364.83113333333336.md) [https://youtube.com/clip/UgziQKW9eKklGg5acQx4AaABCQ](https://youtube.com/clip/UgziQKW9eKklGg5acQx4AaABCQ)
 * [Q&A: Why haven't you added [Feature] into the base game?](../../transcriptions/yt-Z2WggHmVHGI,364.8645,545.6784666666666.md) [https://youtube.com/embed/Z2WggHmVHGI?autoplay=1&start=364&end=546](https://youtube.com/embed/Z2WggHmVHGI?autoplay=1&start=364&end=546)
@@ -41,7 +41,7 @@ date: Last Modified
 ## June 1st, 2021 Livestream
 * [Community FYI: Game needs Dyson Sphere soon or it'll lose people](../../transcriptions/yt-IegIG0LR1-4.md) [https://www.youtube.com/watch?v=IegIG0LR1-4](https://www.youtube.com/watch?v=IegIG0LR1-4)
 
-## May 28th, 2021 Livestream
+## May 28th, 2021 Dev Vlog
 * [Q&A: Is there anything else you're planning to do with Lights in the future?](../../transcriptions/yt-dyqOMITwLsY,597.456414,647.6052916666666.md) [https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=597&end=648](https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=597&end=648)
 
 ## May 25th, 2021 Livestream

@@ -1,12 +1,12 @@
 ---
-title: "May 28th, 2021 Livestream Q&A: How does picking items off the belt work?"
+title: "May 28th, 2021 Dev Vlog Q&A: How does picking items off the belt work?"
 date: "2021-05-28"
 layout: transcript
 topics:
     - "environment/resources"
     - "features/buildables/conveyor-belts"
 ---
-# [May 28th, 2021 Livestream](../2021-05-28.md)
+# [May 28th, 2021 Dev Vlog](../2021-05-28.md)
 ## Q&A: How does picking items off the belt work?
 https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=1726&end=1838
 

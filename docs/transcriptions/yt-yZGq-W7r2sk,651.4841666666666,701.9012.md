@@ -1,5 +1,5 @@
 ---
-title: "September 3rd, 2021 Livestream Jace Talk: New Buildables in the Walkways teaser shot"
+title: "September 3rd, 2021 Dev Vlog Jace Talk: New Buildables in the Walkways teaser shot"
 date: "2021-09-03"
 layout: transcript
 topics:
@@ -10,7 +10,7 @@ topics:
     - "satisfactory-updates/pending/satisfactory-update-5"
     - "satisfactory-updates/teasers-trailers/update-5-teasers"
 ---
-# [September 3rd, 2021 Livestream](../2021-09-03.md)
+# [September 3rd, 2021 Dev Vlog](../2021-09-03.md)
 ## Jace Talk: New Buildables in the Walkways teaser shot
 https://youtube.com/clip/UgxcHhkG1DDsw1Z9Uex4AaABCQ
 

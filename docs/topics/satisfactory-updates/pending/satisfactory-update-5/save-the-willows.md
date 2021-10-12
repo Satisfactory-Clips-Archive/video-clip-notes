@@ -8,7 +8,7 @@ date: Last Modified
 ## August 10th, 2021 Livestream
 * Community FYI: More people want more penis rocks than #SaveTheWillows [https://www.youtube.com/watch?v=jPLKtGh4g9g](https://www.youtube.com/watch?v=jPLKtGh4g9g)
 
-## August 6th, 2021 Livestream
+## August 6th, 2021 Video
 * [Jace Talk: Northern Forest feedback](../../../../transcriptions/yt-MxvGbCCc6DI,127.4273,272.4388333333333.md) [https://youtube.com/embed/MxvGbCCc6DI?autoplay=1&start=127&end=273](https://youtube.com/embed/MxvGbCCc6DI?autoplay=1&start=127&end=273)
 
 ## August 3rd, 2021 Livestream

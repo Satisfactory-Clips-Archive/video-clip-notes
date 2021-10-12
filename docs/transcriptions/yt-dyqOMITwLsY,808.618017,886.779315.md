@@ -1,12 +1,12 @@
 ---
-title: "May 28th, 2021 Livestream Snutt & Ben Talk: Other places Fog Planes are used"
+title: "May 28th, 2021 Dev Vlog Snutt & Ben Talk: Other places Fog Planes are used"
 date: "2021-05-28"
 layout: transcript
 topics:
     - "features/buildings/constructor"
     - "technology/graphics"
 ---
-# [May 28th, 2021 Livestream](../2021-05-28.md)
+# [May 28th, 2021 Dev Vlog](../2021-05-28.md)
 ## Snutt & Ben Talk: Other places Fog Planes are used
 https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=808&end=887
 

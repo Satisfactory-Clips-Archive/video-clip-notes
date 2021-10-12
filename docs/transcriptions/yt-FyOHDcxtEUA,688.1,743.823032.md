@@ -1,12 +1,12 @@
 ---
-title: "July 23rd, 2021 Livestream Tobias Talk: Drone WIP Footage - First implementation of docking & take-off animation"
+title: "July 23rd, 2021 Dev Vlog Tobias Talk: Drone WIP Footage - First implementation of docking & take-off animation"
 date: "2021-07-23"
 layout: transcript
 topics:
     - "features/transportation/vehicles/drones"
     - "satisfactory-updates/satisfactory-prototypes"
 ---
-# [July 23rd, 2021 Livestream](../2021-07-23.md)
+# [July 23rd, 2021 Dev Vlog](../2021-07-23.md)
 ## Tobias Talk: Drone WIP Footage - First implementation of docking & take-off animation
 https://youtube.com/clip/Ugx1wXZIIMeYwnzB5XV4AaABCQ
 

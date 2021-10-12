@@ -1,5 +1,5 @@
 ---
-title: "September 3rd, 2021 Livestream Jace Talk: More new Roofs"
+title: "September 3rd, 2021 Dev Vlog Jace Talk: More new Roofs"
 date: "2021-09-03"
 layout: transcript
 topics:
@@ -7,7 +7,7 @@ topics:
     - "satisfactory-updates/pending/satisfactory-update-5"
     - "satisfactory-updates/teasers-trailers/update-5-teasers"
 ---
-# [September 3rd, 2021 Livestream](../2021-09-03.md)
+# [September 3rd, 2021 Dev Vlog](../2021-09-03.md)
 ## Jace Talk: More new Roofs
 https://youtube.com/clip/UgwwV83yhWYlbt4Gq_x4AaABCQ
 

@@ -1,11 +1,11 @@
 ---
-title: "July 23rd, 2021 Livestream Q&A: What are Drones, what do they do?"
+title: "July 23rd, 2021 Dev Vlog Q&A: What are Drones, what do they do?"
 date: "2021-07-23"
 layout: transcript
 topics:
     - "features/transportation/vehicles/drones"
 ---
-# [July 23rd, 2021 Livestream](../2021-07-23.md)
+# [July 23rd, 2021 Dev Vlog](../2021-07-23.md)
 ## Q&A: What are Drones, what do they do?
 https://youtube.com/clip/UgwKDl1O95rewluahrl4AaABCQ
 

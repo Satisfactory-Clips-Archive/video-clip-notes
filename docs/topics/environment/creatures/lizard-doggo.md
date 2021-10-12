@@ -35,7 +35,7 @@ date: Last Modified
 * Q&A: Petting Doggo? [https://www.youtube.com/watch?v=Fw9sZkeAqnk](https://www.youtube.com/watch?v=Fw9sZkeAqnk)
 * [Snutt & Jace Talk: Lizard Doggo](../../../transcriptions/yt-LmYV5TGGKoo.md) [https://www.youtube.com/watch?v=LmYV5TGGKoo](https://www.youtube.com/watch?v=LmYV5TGGKoo)
 
-## May 28th, 2021 Livestream
+## May 28th, 2021 Dev Vlog
 * [Q&A: Can you give a quick explanation of how the system for Lights works right now?](../../../transcriptions/yt-dyqOMITwLsY,199.03216666666665,448.69825.md) [https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=199&end=449](https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=199&end=449)
 
 ## May 25th, 2021 Livestream

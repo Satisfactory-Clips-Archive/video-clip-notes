@@ -1,5 +1,5 @@
 ---
-title: "August 6th, 2021 Livestream Jace Talk: Cave Update"
+title: "August 6th, 2021 Video Jace Talk: Cave Update"
 date: "2021-08-06"
 layout: transcript
 topics:
@@ -7,7 +7,7 @@ topics:
     - "satisfactory-updates/pending/satisfactory-update-5"
     - "satisfactory-updates/world-update"
 ---
-# [August 6th, 2021 Livestream](../2021-08-06.md)
+# [August 6th, 2021 Video](../2021-08-06.md)
 ## Jace Talk: Cave Update
 https://youtube.com/clip/UgyMg6x-5O9_IZLNXZx4AaABCQ
 

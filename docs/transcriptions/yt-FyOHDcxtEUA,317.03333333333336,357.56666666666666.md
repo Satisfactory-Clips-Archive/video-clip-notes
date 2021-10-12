@@ -1,12 +1,12 @@
 ---
-title: "July 23rd, 2021 Livestream Q&A: When are the Batteries used by Drones?"
+title: "July 23rd, 2021 Dev Vlog Q&A: When are the Batteries used by Drones?"
 date: "2021-07-23"
 layout: transcript
 topics:
     - "environment/resources"
     - "features/transportation/vehicles/drones"
 ---
-# [July 23rd, 2021 Livestream](../2021-07-23.md)
+# [July 23rd, 2021 Dev Vlog](../2021-07-23.md)
 ## Q&A: When are the Batteries used by Drones?
 https://youtube.com/clip/UgybX97cu8npyL1-ag94AaABCQ
 

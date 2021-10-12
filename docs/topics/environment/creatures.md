@@ -35,7 +35,7 @@ date: Last Modified
 * Snutt & Jace Talk: The Spitter [https://www.youtube.com/watch?v=MCgNEnp1p_g](https://www.youtube.com/watch?v=MCgNEnp1p_g)
 * [Snutt & Jace Talk: Arachnophobia Mode](../../transcriptions/yt-GHWfece0mjM.md) [https://www.youtube.com/watch?v=GHWfece0mjM](https://www.youtube.com/watch?v=GHWfece0mjM)
 
-## May 28th, 2021 Livestream
+## May 28th, 2021 Dev Vlog
 * [Q&A: Is there anything else aside from Conveyor Belts that's not using Distance Fields?](../../transcriptions/yt-dyqOMITwLsY,448.69825,500.75024999999994.md) [https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=448&end=501](https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=448&end=501)
 
 ## May 25th, 2021 Livestream

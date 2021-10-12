@@ -1,11 +1,11 @@
 ---
-title: "July 23rd, 2021 Livestream Q&A: What future plans are there for Drones?"
+title: "July 23rd, 2021 Dev Vlog Q&A: What future plans are there for Drones?"
 date: "2021-07-23"
 layout: transcript
 topics:
     - "features/transportation/vehicles/drones"
 ---
-# [July 23rd, 2021 Livestream](../2021-07-23.md)
+# [July 23rd, 2021 Dev Vlog](../2021-07-23.md)
 ## Q&A: What future plans are there for Drones?
 https://youtube.com/clip/UgxSn7sZCo9cJTo0QTN4AaABCQ
 <details>

@@ -1,5 +1,5 @@
 ---
-title: "September 3rd, 2021 Livestream Jace Talk: Architecture Build Menu"
+title: "September 3rd, 2021 Dev Vlog Jace Talk: Architecture Build Menu"
 date: "2021-09-03"
 layout: transcript
 topics:
@@ -7,7 +7,7 @@ topics:
     - "satisfactory-updates/pending/satisfactory-update-5"
     - "technology/user-interface"
 ---
-# [September 3rd, 2021 Livestream](../2021-09-03.md)
+# [September 3rd, 2021 Dev Vlog](../2021-09-03.md)
 ## Jace Talk: Architecture Build Menu
 https://youtube.com/clip/Ugy5if5uwAkJag0YVIx4AaABCQ
 

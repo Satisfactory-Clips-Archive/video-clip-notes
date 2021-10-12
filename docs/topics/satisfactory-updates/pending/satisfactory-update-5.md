@@ -7,7 +7,7 @@ date: Last Modified
 * [Northern Forest World Update Q&A with Hannah](../../../topics/satisfactory-updates/pending/satisfactory-update-5/northern-forest-world-update-q-and-a-with-hannah.md)
 * [#SaveTheWillows](../../../topics/satisfactory-updates/pending/satisfactory-update-5/save-the-willows.md)
 
-## September 10th, 2021 Livestream
+## September 10th, 2021 Video
 * [Jace Talk: Truck Station refresh](../../../transcriptions/yt-kh3lVrBdjFE,46.079366666666665,98.66523333333333.md) [https://youtube.com/clip/UgzcjK3EbZSm6LhrHJ54AaABCQ](https://youtube.com/clip/UgzcjK3EbZSm6LhrHJ54AaABCQ)
 * [Jace Talk: Changes to Vehicle Automation](../../../transcriptions/yt-kh3lVrBdjFE,98.690775,197.4973.md) [https://youtube.com/embed/kh3lVrBdjFE?autoplay=1&start=98&end=198](https://youtube.com/embed/kh3lVrBdjFE?autoplay=1&start=98&end=198)
 * [Jace Talk: Changes to Vehicles obstacle avoidance & getting stuck (ghosting)](../../../transcriptions/yt-kh3lVrBdjFE,197.53066666666666,307.94096666666667.md) [https://youtube.com/embed/kh3lVrBdjFE?autoplay=1&start=197&end=308](https://youtube.com/embed/kh3lVrBdjFE?autoplay=1&start=197&end=308)
@@ -51,7 +51,7 @@ date: Last Modified
 * Q&A: Are you planning on having a sale on release? [https://www.youtube.com/watch?v=GR109lb7XtE](https://www.youtube.com/watch?v=GR109lb7XtE)
 * Q&A: Are we getting Multiplayer soon, or is it next Update? [https://www.youtube.com/watch?v=BiJvV3DwHFc](https://www.youtube.com/watch?v=BiJvV3DwHFc)
 
-## September 3rd, 2021 Livestream
+## September 3rd, 2021 Dev Vlog
 * [Jace Talk: Small Metal Pillars](../../../transcriptions/yt-yZGq-W7r2sk,62.858586,128.76196666666667.md) [https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=62&end=129](https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=62&end=129)
 * [Jace Talk: New Pillar types](../../../transcriptions/yt-yZGq-W7r2sk,128.79533333333333,172.907752.md) [https://youtube.com/clip/UgzFh1qpn_lmBfeNoex4AaABCQ](https://youtube.com/clip/UgzFh1qpn_lmBfeNoex4AaABCQ)
 * [Jace Talk: New Build feature "Quick Switch"](../../../transcriptions/yt-yZGq-W7r2sk,172.93943333333334,264.295734.md) [https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=172&end=265](https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=172&end=265)
@@ -109,7 +109,7 @@ date: Last Modified
 * [Q&A: Is Update 5 bigger than Update 4?](../../../transcriptions/yt-HOtX8hK6Lxg.md) [https://www.youtube.com/watch?v=HOtX8hK6Lxg](https://www.youtube.com/watch?v=HOtX8hK6Lxg)
 * [Q&A: Is The HUB/Space Elevator getting more levels in Update 5?](../../../transcriptions/yt--iLL6nu7YvM.md) [https://www.youtube.com/watch?v=-iLL6nu7YvM](https://www.youtube.com/watch?v=-iLL6nu7YvM)
 
-## August 6th, 2021 Livestream
+## August 6th, 2021 Video
 * [Jace Talk: Northern Forest is getting a rework](../../../transcriptions/yt-MxvGbCCc6DI,72.60586666666667,127.39393333333334.md) [https://youtube.com/clip/Ugxg09eDw0herz-p4bF4AaABCQ](https://youtube.com/clip/Ugxg09eDw0herz-p4bF4AaABCQ)
 * [Jace Talk: Northern Forest feedback](../../../transcriptions/yt-MxvGbCCc6DI,127.4273,272.4388333333333.md) [https://youtube.com/embed/MxvGbCCc6DI?autoplay=1&start=127&end=273](https://youtube.com/embed/MxvGbCCc6DI?autoplay=1&start=127&end=273)
 * [Jace Talk: Dune Desert Update](../../../transcriptions/yt-MxvGbCCc6DI,272.4722,373.5398333333333.md) [https://youtube.com/embed/MxvGbCCc6DI?autoplay=1&start=272&end=374](https://youtube.com/embed/MxvGbCCc6DI?autoplay=1&start=272&end=374)
@@ -231,7 +231,7 @@ date: Last Modified
 ## June 1st, 2021 Livestream
 * [Q&A: What unexpected & surprising features will be in Update 5?](../../../transcriptions/yt-eOPr8JOE7gU.md) [https://www.youtube.com/watch?v=eOPr8JOE7gU](https://www.youtube.com/watch?v=eOPr8JOE7gU)
 
-## May 28th, 2021 Livestream
+## May 28th, 2021 Dev Vlog
 * [Ben Talk: Custom Hologram colours coming in the future](../../../transcriptions/yt-dyqOMITwLsY,1286.7855,1330.7460833333332.md) [https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=1286&end=1331](https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=1286&end=1331)
 
 ## May 25th, 2021 Livestream

@@ -1,12 +1,12 @@
 ---
-title: "May 28th, 2021 Livestream Q&A: Are we going to be able to turn Lights upside down?"
+title: "May 28th, 2021 Dev Vlog Q&A: Are we going to be able to turn Lights upside down?"
 date: "2021-05-28"
 layout: transcript
 topics:
     - "coffee-stainers/ben"
     - "features/buildables/lights"
 ---
-# [May 28th, 2021 Livestream](../2021-05-28.md)
+# [May 28th, 2021 Dev Vlog](../2021-05-28.md)
 ## Q&A: Are we going to be able to turn Lights upside down?
 https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=500&end=598
 

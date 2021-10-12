@@ -1,5 +1,5 @@
 ---
-title: "August 6th, 2021 Livestream Jace Talk: Roadmap for Map changes"
+title: "August 6th, 2021 Video Jace Talk: Roadmap for Map changes"
 date: "2021-08-06"
 layout: transcript
 topics:
@@ -7,7 +7,7 @@ topics:
     - "satisfactory-updates/pending/satisfactory-update-5"
     - "satisfactory-updates/world-update"
 ---
-# [August 6th, 2021 Livestream](../2021-08-06.md)
+# [August 6th, 2021 Video](../2021-08-06.md)
 ## Jace Talk: Roadmap for Map changes
 https://youtube.com/embed/MxvGbCCc6DI?autoplay=1&start=542&end=612
 

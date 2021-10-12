@@ -63,7 +63,7 @@ date: Last Modified
 * [Q&A: How many developers are trying to expense air conditioning systems to Coffee Stain Studios?](../transcriptions/yt-9g0PvQbOblQ.md) [https://www.youtube.com/watch?v=9g0PvQbOblQ](https://www.youtube.com/watch?v=9g0PvQbOblQ)
 * [Q&A: Many fewer meetings?](../transcriptions/yt-2mRmz5GUnp8.md) [https://www.youtube.com/watch?v=2mRmz5GUnp8](https://www.youtube.com/watch?v=2mRmz5GUnp8)
 
-## July 16th, 2021 Livestream
+## July 16th, 2021 Video
 * [Q&A: Are you okay with people modding Satisfactory‽](../transcriptions/yt-Z2WggHmVHGI,95.26183333333333,135.70223333333334.md) [https://youtube.com/clip/UgxFKiSujXKdNnKqhY94AaABCQ](https://youtube.com/clip/UgxFKiSujXKdNnKqhY94AaABCQ)
 
 ## July 13th, 2021 Livestream

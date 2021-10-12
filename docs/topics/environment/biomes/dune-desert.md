@@ -12,7 +12,7 @@ date: Last Modified
 * [Q&A: How tall are the Dune Desert mountains?](../../../transcriptions/yt-CZGQmnUojDE.md) [https://www.youtube.com/watch?v=CZGQmnUojDE](https://www.youtube.com/watch?v=CZGQmnUojDE)
 * [Q&A: Question about revamping the Spire Coast, is the plateau in the Dune Desert in the danger zone?](../../../transcriptions/yt-oAUq8kWdbZ8.md) [https://www.youtube.com/watch?v=oAUq8kWdbZ8](https://www.youtube.com/watch?v=oAUq8kWdbZ8)
 
-## August 6th, 2021 Livestream
+## August 6th, 2021 Video
 * [Jace Talk: Dune Desert Update](../../../transcriptions/yt-MxvGbCCc6DI,272.4722,373.5398333333333.md) [https://youtube.com/embed/MxvGbCCc6DI?autoplay=1&start=272&end=374](https://youtube.com/embed/MxvGbCCc6DI?autoplay=1&start=272&end=374)
 * [Jace Talk: The Northern Forest & the Dune Desert are considered "final"](../../../transcriptions/yt-MxvGbCCc6DI,373.5732,397.02996666666667.md) [https://youtube.com/clip/UgwlT4wrAbzLm83jER94AaABCQ](https://youtube.com/clip/UgwlT4wrAbzLm83jER94AaABCQ)
 

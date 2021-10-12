@@ -1,5 +1,5 @@
 ---
-title: "September 3rd, 2021 Livestream Jace Talk: Small Metal Pillars"
+title: "September 3rd, 2021 Dev Vlog Jace Talk: Small Metal Pillars"
 date: "2021-09-03"
 layout: transcript
 topics:
@@ -7,7 +7,7 @@ topics:
     - "satisfactory-updates/pending/satisfactory-update-5"
     - "satisfactory-updates/teasers-trailers/update-5-teasers"
 ---
-# [September 3rd, 2021 Livestream](../2021-09-03.md)
+# [September 3rd, 2021 Dev Vlog](../2021-09-03.md)
 ## Jace Talk: Small Metal Pillars
 https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=62&end=129
 

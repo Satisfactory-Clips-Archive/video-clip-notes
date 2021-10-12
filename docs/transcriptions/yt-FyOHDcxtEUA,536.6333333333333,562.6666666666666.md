@@ -1,12 +1,12 @@
 ---
-title: "July 23rd, 2021 Livestream Tobias & Jace Talk: Drone WIP Footage - First implementation of Drones"
+title: "July 23rd, 2021 Dev Vlog Tobias & Jace Talk: Drone WIP Footage - First implementation of Drones"
 date: "2021-07-23"
 layout: transcript
 topics:
     - "features/transportation/vehicles/drones"
     - "satisfactory-updates/satisfactory-prototypes"
 ---
-# [July 23rd, 2021 Livestream](../2021-07-23.md)
+# [July 23rd, 2021 Dev Vlog](../2021-07-23.md)
 ## Tobias & Jace Talk: Drone WIP Footage - First implementation of Drones
 https://youtube.com/clip/UgyaHJbh1qj9vMOb5k94AaABCQ
 

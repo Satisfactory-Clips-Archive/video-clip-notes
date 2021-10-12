@@ -1,5 +1,5 @@
 ---
-title: "May 28th, 2021 Livestream Q&A: What's coming in the future for optimisations to Satisfactory?"
+title: "May 28th, 2021 Dev Vlog Q&A: What's coming in the future for optimisations to Satisfactory?"
 date: "2021-05-28"
 layout: transcript
 topics:
@@ -11,7 +11,7 @@ topics:
     - "technology/unreal-engine"
     - "technology/unreal-engine/custom-component-instanced-spline-mesh"
 ---
-# [May 28th, 2021 Livestream](../2021-05-28.md)
+# [May 28th, 2021 Dev Vlog](../2021-05-28.md)
 ## Q&A: What's coming in the future for optimisations to Satisfactory?
 https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=1837&end=1945
 This question was possibly duplicated with a more recent answer: [June 29th, 2021 Livestream Q&A: Any optimisations in the future?](./yt-o7yp11NU3bQ.md) [https://www.youtube.com/watch?v=o7yp11NU3bQ](https://www.youtube.com/watch?v=o7yp11NU3bQ)

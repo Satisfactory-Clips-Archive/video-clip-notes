@@ -1,12 +1,12 @@
 ---
-title: "July 16th, 2021 Livestream Community FYI: You stole Feature X from this mod!!!"
+title: "July 16th, 2021 Video Community FYI: You stole Feature X from this mod!!!"
 date: "2021-07-16"
 layout: transcript
 topics:
     - "features/buildables/lights"
     - "mods/mods-vs-features"
 ---
-# [July 16th, 2021 Livestream](../2021-07-16.md)
+# [July 16th, 2021 Video](../2021-07-16.md)
 ## Community FYI: You stole Feature X from this mod!!!
 https://youtube.com/clip/UgziQKW9eKklGg5acQx4AaABCQ
 

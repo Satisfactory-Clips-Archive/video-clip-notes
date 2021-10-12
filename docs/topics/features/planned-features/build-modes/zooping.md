@@ -17,5 +17,5 @@ date: Last Modified
 * [Community FYI: Zoop is such a good feature name](../../../../transcriptions/yt-rDLDn5hWSb0.md) [https://www.youtube.com/watch?v=rDLDn5hWSb0](https://www.youtube.com/watch?v=rDLDn5hWSb0)
 * [Community FYI: Zoop Coin](../../../../transcriptions/yt-uW-ebXbDC3U.md) [https://www.youtube.com/watch?v=uW-ebXbDC3U](https://www.youtube.com/watch?v=uW-ebXbDC3U)
 
-## September 3rd, 2021 Livestream
+## September 3rd, 2021 Dev Vlog
 * [Jace Talk: Zooping](../../../../transcriptions/yt-yZGq-W7r2sk,1109.1413666666667,1217.2827333333335.md) [https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=1109&end=1218](https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=1109&end=1218)

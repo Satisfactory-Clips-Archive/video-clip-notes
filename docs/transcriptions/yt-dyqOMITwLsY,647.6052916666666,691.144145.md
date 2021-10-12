@@ -1,5 +1,5 @@
 ---
-title: "May 28th, 2021 Livestream Snutt & Ben Talk: Fake fog planes on Ceiling Lights"
+title: "May 28th, 2021 Dev Vlog Snutt & Ben Talk: Fake fog planes on Ceiling Lights"
 date: "2021-05-28"
 layout: transcript
 topics:
@@ -7,7 +7,7 @@ topics:
     - "technology/graphics"
     - "technology/unreal-engine"
 ---
-# [May 28th, 2021 Livestream](../2021-05-28.md)
+# [May 28th, 2021 Dev Vlog](../2021-05-28.md)
 ## Snutt & Ben Talk: Fake fog planes on Ceiling Lights
 https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=647&end=692
 

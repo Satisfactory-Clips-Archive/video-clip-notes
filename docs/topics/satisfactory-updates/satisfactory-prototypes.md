@@ -11,7 +11,7 @@ date: Last Modified
 ## August 24th, 2021 Livestream
 * [Q&A: Will there ever be teleportation?](../../transcriptions/yt-XeUtzOBJhrA.md) [https://www.youtube.com/watch?v=XeUtzOBJhrA](https://www.youtube.com/watch?v=XeUtzOBJhrA)
 
-## July 23rd, 2021 Livestream
+## July 23rd, 2021 Dev Vlog
 * [Tobias & Jace Talk: Drone WIP Footage - First implementation of Drones](../../transcriptions/yt-FyOHDcxtEUA,536.6333333333333,562.6666666666666.md) [https://youtube.com/clip/UgyaHJbh1qj9vMOb5k94AaABCQ](https://youtube.com/clip/UgyaHJbh1qj9vMOb5k94AaABCQ)
 * [Tobias & Jace Talk: Drone WIP Footage - First implementation of the Drone World Grid](../../transcriptions/yt-FyOHDcxtEUA,562.7,619.3.md) [https://youtube.com/clip/UgwYho04_UJK5gzjLJ14AaABCQ](https://youtube.com/clip/UgwYho04_UJK5gzjLJ14AaABCQ)
 * [Tobias & Jace Talk: Drone WIP Footage - Drones using their World Grid to pathfind](../../transcriptions/yt-FyOHDcxtEUA,619.3333333333334,644.908873.md) [https://youtube.com/clip/UgxRV6hcvXyjD6YnjPl4AaABCQ](https://youtube.com/clip/UgxRV6hcvXyjD6YnjPl4AaABCQ)

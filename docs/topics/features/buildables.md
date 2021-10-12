@@ -24,7 +24,7 @@ date: Last Modified
 * [Q&A: Why is Power Pole considered Hard Clearance?](../../transcriptions/yt-TKH7DyKIets.md) [https://www.youtube.com/watch?v=TKH7DyKIets](https://www.youtube.com/watch?v=TKH7DyKIets)
 * Q&A: Any ideas how many Coupons the new content will be? [https://www.youtube.com/watch?v=BQyMNCvnWh0](https://www.youtube.com/watch?v=BQyMNCvnWh0)
 
-## September 3rd, 2021 Livestream
+## September 3rd, 2021 Dev Vlog
 * [Jace Talk: New Buildables in the Walkways teaser shot](../../transcriptions/yt-yZGq-W7r2sk,651.4841666666666,701.9012.md) [https://youtube.com/clip/UgxcHhkG1DDsw1Z9Uex4AaABCQ](https://youtube.com/clip/UgxcHhkG1DDsw1Z9Uex4AaABCQ)
 * [Jace Talk: Final shot in the teaser](../../transcriptions/yt-yZGq-W7r2sk,701.9345666666667,771.973278.md) [https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=701&end=772](https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=701&end=772)
 * [Jace Talk: Architecture Build Menu](../../transcriptions/yt-yZGq-W7r2sk,772.0045666666667,814.4136.md) [https://youtube.com/clip/Ugy5if5uwAkJag0YVIx4AaABCQ](https://youtube.com/clip/Ugy5if5uwAkJag0YVIx4AaABCQ)
@@ -43,7 +43,7 @@ date: Last Modified
 ## June 22nd, 2021 Livestream
 * [Q&A: Will Stairs & the Walkways be more connectable?](../../transcriptions/yt-nkrBqOatRWI.md) [https://www.youtube.com/watch?v=nkrBqOatRWI](https://www.youtube.com/watch?v=nkrBqOatRWI)
 
-## May 28th, 2021 Livestream
+## May 28th, 2021 Dev Vlog
 * [Snutt & Ben Talk: Light Pooling](../../transcriptions/yt-dyqOMITwLsY,691.144145,783.2824999999999.md) [https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=691&end=784](https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=691&end=784)
 
 ## February 20th, 2019 Livestream

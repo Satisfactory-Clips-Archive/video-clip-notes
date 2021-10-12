@@ -1,5 +1,5 @@
 ---
-title: "May 28th, 2021 Livestream Ben Talk: Custom Hologram colours coming in the future"
+title: "May 28th, 2021 Dev Vlog Ben Talk: Custom Hologram colours coming in the future"
 date: "2021-05-28"
 layout: transcript
 topics:
@@ -8,7 +8,7 @@ topics:
     - "technology/user-interface"
     - "technology/user-interface/holograms"
 ---
-# [May 28th, 2021 Livestream](../2021-05-28.md)
+# [May 28th, 2021 Dev Vlog](../2021-05-28.md)
 ## Ben Talk: Custom Hologram colours coming in the future
 https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=1286&end=1331
 

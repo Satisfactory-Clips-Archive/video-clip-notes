@@ -1,12 +1,12 @@
 ---
-title: "July 16th, 2021 Livestream Q&A: Why haven't you added [Feature] into the base game?"
+title: "July 16th, 2021 Video Q&A: Why haven't you added [Feature] into the base game?"
 date: "2021-07-16"
 layout: transcript
 topics:
     - "features/requested-features"
     - "mods/mods-vs-features"
 ---
-# [July 16th, 2021 Livestream](../2021-07-16.md)
+# [July 16th, 2021 Video](../2021-07-16.md)
 ## Q&A: Why haven't you added [Feature] into the base game?
 https://youtube.com/embed/Z2WggHmVHGI?autoplay=1&start=364&end=546
 

@@ -1,11 +1,11 @@
 ---
-title: "July 16th, 2021 Livestream Q&A: Will there be Steam Workshop?"
+title: "July 16th, 2021 Video Q&A: Will there be Steam Workshop?"
 date: "2021-07-16"
 layout: transcript
 topics:
     - "mods/official-mod-support/steam-workshop"
 ---
-# [July 16th, 2021 Livestream](../2021-07-16.md)
+# [July 16th, 2021 Video](../2021-07-16.md)
 ## Q&A: Will there be Steam Workshop?
 https://youtube.com/embed/Z2WggHmVHGI?autoplay=1&start=135&end=236
 <details>

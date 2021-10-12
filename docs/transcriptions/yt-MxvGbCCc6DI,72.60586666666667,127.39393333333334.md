@@ -1,5 +1,5 @@
 ---
-title: "August 6th, 2021 Livestream Jace Talk: Northern Forest is getting a rework"
+title: "August 6th, 2021 Video Jace Talk: Northern Forest is getting a rework"
 date: "2021-08-06"
 layout: transcript
 topics:
@@ -7,7 +7,7 @@ topics:
     - "satisfactory-updates/pending/satisfactory-update-5"
     - "satisfactory-updates/world-update"
 ---
-# [August 6th, 2021 Livestream](../2021-08-06.md)
+# [August 6th, 2021 Video](../2021-08-06.md)
 ## Jace Talk: Northern Forest is getting a rework
 https://youtube.com/clip/Ugxg09eDw0herz-p4bF4AaABCQ
 

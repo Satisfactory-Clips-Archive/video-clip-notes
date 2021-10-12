@@ -1,5 +1,5 @@
 ---
-title: "May 28th, 2021 Livestream Q&A: Is there anything else you're planning to do with Lights in the future?"
+title: "May 28th, 2021 Dev Vlog Q&A: Is there anything else you're planning to do with Lights in the future?"
 date: "2021-05-28"
 layout: transcript
 topics:
@@ -7,7 +7,7 @@ topics:
     - "mods/mods-vs-features"
     - "qa-site"
 ---
-# [May 28th, 2021 Livestream](../2021-05-28.md)
+# [May 28th, 2021 Dev Vlog](../2021-05-28.md)
 ## Q&A: Is there anything else you're planning to do with Lights in the future?
 https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=597&end=648
 

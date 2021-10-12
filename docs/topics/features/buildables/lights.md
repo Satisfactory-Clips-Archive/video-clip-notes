@@ -16,7 +16,7 @@ date: Last Modified
 * Q&A: Are the Lights in a final state or is there the possibility for tweaks? [https://www.youtube.com/watch?v=RqAkqn6vV3g](https://www.youtube.com/watch?v=RqAkqn6vV3g)
 * Q&A: More Light colours coming? [https://www.youtube.com/watch?v=tUCU01sL23U](https://www.youtube.com/watch?v=tUCU01sL23U)
 
-## July 16th, 2021 Livestream
+## July 16th, 2021 Video
 * [Community FYI: You stole Feature X from this mod!!!](../../../transcriptions/yt-Z2WggHmVHGI,309.00870000000003,364.83113333333336.md) [https://youtube.com/clip/UgziQKW9eKklGg5acQx4AaABCQ](https://youtube.com/clip/UgziQKW9eKklGg5acQx4AaABCQ)
 
 ## June 29th, 2021 Livestream
@@ -31,7 +31,7 @@ date: Last Modified
 ## June 1st, 2021 Livestream
 * [Q&A: Can we get smaller Lights?](../../../transcriptions/yt-oV7CovRkpkE.md) [https://www.youtube.com/watch?v=oV7CovRkpkE](https://www.youtube.com/watch?v=oV7CovRkpkE)
 
-## May 28th, 2021 Livestream
+## May 28th, 2021 Dev Vlog
 * [Q&A: What was the main issue with implementing Lights?](../../../transcriptions/yt-dyqOMITwLsY,102.398474,167.292125.md) [https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=102&end=168](https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=102&end=168)
 * [Q&A: Can you give a quick explanation of how the system for Lights works right now?](../../../transcriptions/yt-dyqOMITwLsY,199.03216666666665,448.69825.md) [https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=199&end=449](https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=199&end=449)
 * [Q&A: Are we going to be able to turn Lights upside down?](../../../transcriptions/yt-dyqOMITwLsY,500.75024999999994,597.456414.md) [https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=500&end=598](https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=500&end=598)

@@ -9,7 +9,7 @@ date: Last Modified
 * [Q&A: Why do the Holograms not look the same?](../../../transcriptions/yt-k8fySA-MheI.md) [https://www.youtube.com/watch?v=k8fySA-MheI](https://www.youtube.com/watch?v=k8fySA-MheI)
 * [Community FYI: Nice colour highlights there](../../../transcriptions/yt-umSEa0eFeeM.md) [https://www.youtube.com/watch?v=umSEa0eFeeM](https://www.youtube.com/watch?v=umSEa0eFeeM)
 
-## May 28th, 2021 Livestream
+## May 28th, 2021 Dev Vlog
 * [Snutt & Ben Talk: New Holograms](../../../transcriptions/yt-dyqOMITwLsY,945.7364583333333,1065.561195.md) [https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=945&end=1066](https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=945&end=1066)
 * [Snutt & Ben Talk: Holograms now use Stencils](../../../transcriptions/yt-dyqOMITwLsY,1164.0795833333332,1286.773104.md) [https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=1164&end=1287](https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=1164&end=1287)
 * [Ben Talk: Custom Hologram colours coming in the future](../../../transcriptions/yt-dyqOMITwLsY,1286.7855,1330.7460833333332.md) [https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=1286&end=1331](https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=1286&end=1331)

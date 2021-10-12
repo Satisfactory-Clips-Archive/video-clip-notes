@@ -1,5 +1,5 @@
 ---
-title: "September 3rd, 2021 Livestream Jace Talk: New Railings"
+title: "September 3rd, 2021 Dev Vlog Jace Talk: New Railings"
 date: "2021-09-03"
 layout: transcript
 topics:
@@ -7,7 +7,7 @@ topics:
     - "satisfactory-updates/pending/satisfactory-update-5"
     - "satisfactory-updates/teasers-trailers/update-5-teasers"
 ---
-# [September 3rd, 2021 Livestream](../2021-09-03.md)
+# [September 3rd, 2021 Dev Vlog](../2021-09-03.md)
 ## Jace Talk: New Railings
 https://youtube.com/clip/UgzvXtieunvIhq_Ma3t4AaABCQ
 

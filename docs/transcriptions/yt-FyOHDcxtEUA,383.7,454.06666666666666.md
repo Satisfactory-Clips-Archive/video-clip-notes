@@ -1,12 +1,12 @@
 ---
-title: "July 23rd, 2021 Livestream Q&A: What are some of the biggest challenges you had when working on the Drones?"
+title: "July 23rd, 2021 Dev Vlog Q&A: What are some of the biggest challenges you had when working on the Drones?"
 date: "2021-07-23"
 layout: transcript
 topics:
     - "coffee-stainers/tobias"
     - "features/transportation/vehicles/drones"
 ---
-# [July 23rd, 2021 Livestream](../2021-07-23.md)
+# [July 23rd, 2021 Dev Vlog](../2021-07-23.md)
 ## Q&A: What are some of the biggest challenges you had when working on the Drones?
 https://youtube.com/embed/FyOHDcxtEUA?autoplay=1&start=383&end=455
 

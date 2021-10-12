@@ -10,7 +10,7 @@ date: Last Modified
 * [Q&A: Can we have Horizontal Stairs?](../../../transcriptions/yt-svdxFzidY8A.md) [https://www.youtube.com/watch?v=svdxFzidY8A](https://www.youtube.com/watch?v=svdxFzidY8A)
 * [Q&A: Can you Zoop Walkways?](../../../transcriptions/yt-Z-FwUS9ql2o.md) [https://www.youtube.com/watch?v=Z-FwUS9ql2o](https://www.youtube.com/watch?v=Z-FwUS9ql2o)
 
-## September 3rd, 2021 Livestream
+## September 3rd, 2021 Dev Vlog
 * [Jace Talk: Final shot in the teaser](../../../transcriptions/yt-yZGq-W7r2sk,701.9345666666667,771.973278.md) [https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=701&end=772](https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=701&end=772)
 
 ## August 31st, 2021 Livestream

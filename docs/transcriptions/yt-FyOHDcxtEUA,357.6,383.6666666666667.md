@@ -1,12 +1,12 @@
 ---
-title: "July 23rd, 2021 Livestream Q&A: Are there bugs with Drone's Battery consumption?"
+title: "July 23rd, 2021 Dev Vlog Q&A: Are there bugs with Drone's Battery consumption?"
 date: "2021-07-23"
 layout: transcript
 topics:
     - "environment/resources"
     - "features/transportation/vehicles/drones"
 ---
-# [July 23rd, 2021 Livestream](../2021-07-23.md)
+# [July 23rd, 2021 Dev Vlog](../2021-07-23.md)
 ## Q&A: Are there bugs with Drone's Battery consumption?
 https://youtube.com/clip/UgzrWEuR3Z4I1VXqEIx4AaABCQ
 

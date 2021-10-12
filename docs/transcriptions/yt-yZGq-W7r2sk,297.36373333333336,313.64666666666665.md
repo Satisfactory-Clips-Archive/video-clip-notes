@@ -1,5 +1,5 @@
 ---
-title: "September 3rd, 2021 Livestream Jace Talk: Quick Switch for Railings"
+title: "September 3rd, 2021 Dev Vlog Jace Talk: Quick Switch for Railings"
 date: "2021-09-03"
 layout: transcript
 topics:
@@ -7,7 +7,7 @@ topics:
     - "features/planned-features/build-modes/quick-switch"
     - "satisfactory-updates/pending/satisfactory-update-5"
 ---
-# [September 3rd, 2021 Livestream](../2021-09-03.md)
+# [September 3rd, 2021 Dev Vlog](../2021-09-03.md)
 ## Jace Talk: Quick Switch for Railings
 https://youtube.com/clip/UgzK3mWyas6uUOEchCV4AaABCQ
 

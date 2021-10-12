@@ -8,7 +8,7 @@ topics:
 # [March 23rd, 2021 Livestream](../2021-03-23.md)
 ## Q&A: Will there be any improvements for Drone Ports?
 https://www.youtube.com/watch?v=IMkdm7T3SDo
-This question was possibly duplicated with a more recent answer: [July 23rd, 2021 Livestream Q&A: What future plans are there for Drones?](./yt-FyOHDcxtEUA,503.6,533.1.md) [https://youtube.com/clip/UgxSn7sZCo9cJTo0QTN4AaABCQ](https://youtube.com/clip/UgxSn7sZCo9cJTo0QTN4AaABCQ)
+This question was possibly duplicated with a more recent answer: [July 23rd, 2021 Dev Vlog Q&A: What future plans are there for Drones?](./yt-FyOHDcxtEUA,503.6,533.1.md) [https://youtube.com/clip/UgxSn7sZCo9cJTo0QTN4AaABCQ](https://youtube.com/clip/UgxSn7sZCo9cJTo0QTN4AaABCQ)
 
 
 ### Topics
