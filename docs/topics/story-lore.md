@@ -7,6 +7,10 @@ date: Last Modified
 * [Characters](../topics/story-lore/characters.md)
 * [Project Assembly](../topics/story-lore/project-assembly.md)
 
+## September 7th, 2021 Livestream
+* [Q&A: Without spoilers, are you thinking of implementing the Story in an obvious way or with clues?](../transcriptions/yt-Dej5Z6LbdZc.md) [https://www.youtube.com/watch?v=Dej5Z6LbdZc](https://www.youtube.com/watch?v=Dej5Z6LbdZc)
+* [Q&A: Will the Save still be playable after you finish the Story?](../transcriptions/yt-MbP0WCoaPjs.md) [https://www.youtube.com/watch?v=MbP0WCoaPjs](https://www.youtube.com/watch?v=MbP0WCoaPjs)
+
 ## August 31st, 2021 Livestream
 * [Q&A: When are we getting a Story Mode?](../transcriptions/yt-4kSdfzqeyB4.md) [https://www.youtube.com/watch?v=4kSdfzqeyB4](https://www.youtube.com/watch?v=4kSdfzqeyB4)
 * [Q&A: FMV Cutscenes of the CSS Devs in Story Mode?](../transcriptions/yt-fXc-b_rsaAw.md) [https://www.youtube.com/watch?v=fXc-b_rsaAw](https://www.youtube.com/watch?v=fXc-b_rsaAw)

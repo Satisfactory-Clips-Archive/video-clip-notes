@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > Analytics
 
+## September 7th, 2021 Livestream
+* Q&A: Do you have any statistics on how many people completed the last Space Elevator Phase? [https://www.youtube.com/watch?v=y-gjY5Vp5Qs](https://www.youtube.com/watch?v=y-gjY5Vp5Qs)
+
 ## July 20th, 2021 Livestream
 * [Q&A: Do you have any data on how many players just straight-up don't care about efficiency?](../../transcriptions/yt-NyB4nwLLAq8.md) [https://www.youtube.com/watch?v=NyB4nwLLAq8](https://www.youtube.com/watch?v=NyB4nwLLAq8)
 

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Kibitz
 
+## September 7th, 2021 Livestream
+* [Snutt Talk: Story behind the build in the Teaser video](../../transcriptions/yt-grzwzYP1ceE.md) [https://www.youtube.com/watch?v=grzwzYP1ceE](https://www.youtube.com/watch?v=grzwzYP1ceE)
+
 ## March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary
 * [Snutt & Jace Talk: Supah Computah](../../transcriptions/yt-e19bsvCgXa4.md) [https://www.youtube.com/watch?v=e19bsvCgXa4](https://www.youtube.com/watch?v=e19bsvCgXa4)
 * [Snutt & Jace Talk: Outro shoutouts](../../transcriptions/yt-TxyJKaXchnc.md) [https://www.youtube.com/watch?v=TxyJKaXchnc](https://www.youtube.com/watch?v=TxyJKaXchnc)

@@ -7,6 +7,13 @@ date: Last Modified
 * ["Fix Jace" QA Site Posts](../../topics/coffee-stainers/jace/fix-jace-qa-site-posts.md)
 * [Jace Art](../../topics/coffee-stainers/jace/jace-art.md)
 
+## September 7th, 2021 Livestream
+* [Snutt & Jace Talk: Jace attempting to mimic previous facial expressions](../../transcriptions/yt-lbC5luVtDXE.md) [https://www.youtube.com/watch?v=lbC5luVtDXE](https://www.youtube.com/watch?v=lbC5luVtDXE)
+* [Q&A: Is it just me or does Jace have a different accent in the 2017 video?](../../transcriptions/yt-MJ4kI0B3UG4.md) [https://www.youtube.com/watch?v=MJ4kI0B3UG4](https://www.youtube.com/watch?v=MJ4kI0B3UG4)
+* [Q&A: What's your favourite cheese, Jace?](../../transcriptions/yt-9R7r3GFbSyc.md) [https://www.youtube.com/watch?v=9R7r3GFbSyc](https://www.youtube.com/watch?v=9R7r3GFbSyc)
+* Q&A: Implement vamonos as a Zoop sound? [https://www.youtube.com/watch?v=-En6joXAomU](https://www.youtube.com/watch?v=-En6joXAomU)
+* Q&A: Can we get the Zoop sound effect voice-acted by Jace? [https://www.youtube.com/watch?v=JanvR7rX-yk](https://www.youtube.com/watch?v=JanvR7rX-yk)
+
 ## August 31st, 2021 Livestream
 * [Q&A: Does Jace watch Naruto?](../../transcriptions/yt-ZQPH6PEA3pI.md) [https://www.youtube.com/watch?v=ZQPH6PEA3pI](https://www.youtube.com/watch?v=ZQPH6PEA3pI)
 * [Q&A: Why is Snutt's camera so crisp and Jace's isn't?](../../transcriptions/yt-vGPbnTlA7D0.md) [https://www.youtube.com/watch?v=vGPbnTlA7D0](https://www.youtube.com/watch?v=vGPbnTlA7D0)

@@ -8,6 +8,9 @@ date: Last Modified
 * [Pumps](../../topics/features/fluids/pumps.md)
 * [Valves](../../topics/features/fluids/valves.md)
 
+## September 7th, 2021 Livestream
+* Q&A: Are you going to fix the Fluid bug in Update 5? [https://www.youtube.com/watch?v=2tGeaE7H_5A](https://www.youtube.com/watch?v=2tGeaE7H_5A)
+
 ## August 17th, 2021 Livestream
 * [Q&A: Is there a fix for Pipes losing Fluids?](../../transcriptions/yt-KhQsMU7iR3I.md) [https://www.youtube.com/watch?v=KhQsMU7iR3I](https://www.youtube.com/watch?v=KhQsMU7iR3I)
 

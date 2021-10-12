@@ -7,6 +7,10 @@ date: Last Modified
 * [EU Merch Store](../topics/merch/eu-merch-store.md)
 * [Merch Prototypes](../topics/merch/merch-prototypes.md)
 
+## September 7th, 2021 Livestream
+* [Q&A: Any news on switching the Mug from porcelain to metal?](../transcriptions/yt-X7Eu3q-Y5Z8.md) [https://www.youtube.com/watch?v=X7Eu3q-Y5Z8](https://www.youtube.com/watch?v=X7Eu3q-Y5Z8)
+* Q&A: Make keycaps as Merch? [https://www.youtube.com/watch?v=MgzUxL3jGfs](https://www.youtube.com/watch?v=MgzUxL3jGfs)
+
 ## August 31st, 2021 Livestream
 * [State of Dev: Merch](../transcriptions/yt-o5QngiLJgHw.md) [https://www.youtube.com/watch?v=o5QngiLJgHw](https://www.youtube.com/watch?v=o5QngiLJgHw)
 

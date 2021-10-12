@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > Possible Features > [Third-Party Service Integration](../../../../topics/features/possible-features/third-party-service-integration.md) > Achievements
 
+## September 7th, 2021 Livestream
+* Q&A: Will you add Steam Achievements when the game is done? [https://www.youtube.com/watch?v=tO60WajNJis](https://www.youtube.com/watch?v=tO60WajNJis)
+
 ## August 10th, 2021 Livestream
 * [Q&A: Will there be Steam Achievements in 1.0?](../../../../transcriptions/yt-_wKUYaG0Hwc.md) [https://www.youtube.com/watch?v=_wKUYaG0Hwc](https://www.youtube.com/watch?v=_wKUYaG0Hwc)
 

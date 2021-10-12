@@ -10,6 +10,9 @@ date: Last Modified
 * [Pizza](../../topics/off-topic/food-drink/pizza.md)
 * [Semlor](../../topics/off-topic/food-drink/semlor.md)
 
+## September 7th, 2021 Livestream
+* [Q&A: What's your favourite cheese, Jace?](../../transcriptions/yt-9R7r3GFbSyc.md) [https://www.youtube.com/watch?v=9R7r3GFbSyc](https://www.youtube.com/watch?v=9R7r3GFbSyc)
+
 ## August 3rd, 2021 Livestream
 * [Jace & Hannah Talk: Food Court, no fish allowed](../../transcriptions/yt-k6bndNMxxdE.md) [https://www.youtube.com/watch?v=k6bndNMxxdE](https://www.youtube.com/watch?v=k6bndNMxxdE)
 * Q&A: Do you like to eat Lutefisk? [https://www.youtube.com/watch?v=Wzxy6yxbRCU](https://www.youtube.com/watch?v=Wzxy6yxbRCU)

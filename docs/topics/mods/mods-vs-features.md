@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Mods](../../topics/mods.md) > Mods vs. Features
 
+## September 7th, 2021 Livestream
+* [Snutt & Jace Talk: Zooping](../../transcriptions/yt-k5bNkBCo_ys.md) [https://www.youtube.com/watch?v=k5bNkBCo_ys](https://www.youtube.com/watch?v=k5bNkBCo_ys)
+* [Community FYI: Smart! does too much (for base game)](../../transcriptions/yt-L1_3oP3LwOc.md) [https://www.youtube.com/watch?v=L1_3oP3LwOc](https://www.youtube.com/watch?v=L1_3oP3LwOc)
+
 ## August 10th, 2021 Livestream
 * [Q&A: Do you like Mods? Is it something that helps you with the development of the game?](../../transcriptions/yt-9s-7Ipd_EE4.md) [https://www.youtube.com/watch?v=9s-7Ipd_EE4](https://www.youtube.com/watch?v=9s-7Ipd_EE4)
 

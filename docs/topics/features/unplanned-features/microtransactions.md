@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Unplanned Features](../../../topics/features/unplanned-features.md) > Microtransactions
 
+## September 7th, 2021 Livestream
+* [Community FYI: Zoop Coin](../../../transcriptions/yt-uW-ebXbDC3U.md) [https://www.youtube.com/watch?v=uW-ebXbDC3U](https://www.youtube.com/watch?v=uW-ebXbDC3U)
+
 ## June 15th, 2021 Livestream
 * [Q&A: When do the microtransactions and DLC packs start?](../../../transcriptions/yt-V2cOLLcElBI.md) [https://www.youtube.com/watch?v=V2cOLLcElBI](https://www.youtube.com/watch?v=V2cOLLcElBI)
 

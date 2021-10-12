@@ -18,6 +18,12 @@ date: Last Modified
 * [Walls](../../topics/features/buildables/walls.md)
 * [Windows](../../topics/features/buildables/windows.md)
 
+## September 7th, 2021 Livestream
+* [Snutt & Jace Talk: More Frames](../../transcriptions/yt-A11OVnEPoy4.md) [https://www.youtube.com/watch?v=A11OVnEPoy4](https://www.youtube.com/watch?v=A11OVnEPoy4)
+* [Q&A: Will the new Build Pieces will be unlocked in the AWESOME Shop?](../../transcriptions/yt-vEBGQAEjxGs.md) [https://www.youtube.com/watch?v=vEBGQAEjxGs](https://www.youtube.com/watch?v=vEBGQAEjxGs)
+* [Q&A: Why is Power Pole considered Hard Clearance?](../../transcriptions/yt-TKH7DyKIets.md) [https://www.youtube.com/watch?v=TKH7DyKIets](https://www.youtube.com/watch?v=TKH7DyKIets)
+* Q&A: Any ideas how many Coupons the new content will be? [https://www.youtube.com/watch?v=BQyMNCvnWh0](https://www.youtube.com/watch?v=BQyMNCvnWh0)
+
 ## September 3rd, 2021 Livestream
 * [Jace Talk: New Buildables in the Walkways teaser shot](../../transcriptions/yt-yZGq-W7r2sk,651.4841666666666,701.9012.md) [https://youtube.com/clip/UgxcHhkG1DDsw1Z9Uex4AaABCQ](https://youtube.com/clip/UgxcHhkG1DDsw1Z9Uex4AaABCQ)
 * [Jace Talk: Final shot in the teaser](../../transcriptions/yt-yZGq-W7r2sk,701.9345666666667,771.973278.md) [https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=701&end=772](https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=701&end=772)
@@ -29,7 +35,6 @@ date: Last Modified
 * [Snutt & Jace Talk: Something else revealed](../../transcriptions/yt-k7ZNKheSej4.md) [https://www.youtube.com/watch?v=k7ZNKheSej4](https://www.youtube.com/watch?v=k7ZNKheSej4)
 * [Snutt & Jace Talk: Pipes coming through frames](../../transcriptions/yt-_vKIFDNtmfE.md) [https://www.youtube.com/watch?v=_vKIFDNtmfE](https://www.youtube.com/watch?v=_vKIFDNtmfE)
 * [Snutt & Jace Talk: Inverted Ramp Frames & Ramp Walls](../../transcriptions/yt-OF7RMEbdnUI.md) [https://www.youtube.com/watch?v=OF7RMEbdnUI](https://www.youtube.com/watch?v=OF7RMEbdnUI)
-* [Snutt & Jace Talk: We got Beams!](../../transcriptions/yt-UKy-GdUalWM.md) [https://www.youtube.com/watch?v=UKy-GdUalWM](https://www.youtube.com/watch?v=UKy-GdUalWM)
 * [Snutt & Jace Talk: Glass ceiling](../../transcriptions/yt-pghytEdJyNo.md) [https://www.youtube.com/watch?v=pghytEdJyNo](https://www.youtube.com/watch?v=pghytEdJyNo)
 * [Snutt & Jace Talk: More Glass ceilings & differently-sized walls](../../transcriptions/yt-Vls7zobjrgo.md) [https://www.youtube.com/watch?v=Vls7zobjrgo](https://www.youtube.com/watch?v=Vls7zobjrgo)
 * [Snutt & Jace Talk: Trimming](../../transcriptions/yt-vCLJzFzyCAg.md) [https://www.youtube.com/watch?v=vCLJzFzyCAg](https://www.youtube.com/watch?v=vCLJzFzyCAg)

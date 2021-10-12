@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > QA Site
 
+## September 7th, 2021 Livestream
+* [Community FYI: There's a feature on the QA Site called world wide grid has almost 500 upvotes](../transcriptions/yt-9QnK3VVyZsQ.md) [https://www.youtube.com/watch?v=9QnK3VVyZsQ](https://www.youtube.com/watch?v=9QnK3VVyZsQ)
+* Q&A: 1.0 at 5000 Upvotes [https://www.youtube.com/watch?v=jEt3dU9LTw4](https://www.youtube.com/watch?v=jEt3dU9LTw4)
+
 ## August 10th, 2021 Livestream
 * [Q&A: Are people still checking the QA Site daily with everyone on vacation?](../transcriptions/yt-4pvmXbqHYZk.md) [https://www.youtube.com/watch?v=4pvmXbqHYZk](https://www.youtube.com/watch?v=4pvmXbqHYZk)
 * Q&A: Is it possible to make a bug report with pictures? [https://www.youtube.com/watch?v=K7Mbmuyhsxg](https://www.youtube.com/watch?v=K7Mbmuyhsxg)

@@ -9,13 +9,7 @@ topics:
 # [August 24th, 2021 Livestream](../2021-08-24.md)
 ## Q&A: Are there going to be changes to Recipes in Update 5?
 https://www.youtube.com/watch?v=KZpGn66FOnI
-<details>
-<summary>This question may have been asked previously at least 3 other times, as recently as August 2021 and as early as May 2021.</summary>
-
-* [August 24th, 2021 Livestream Q&A: Will Update 5 change Recipes?](./yt-JnA9OzdPHEI.md) [https://www.youtube.com/watch?v=JnA9OzdPHEI](https://www.youtube.com/watch?v=JnA9OzdPHEI)
-* [June 29th, 2021 Livestream Q&A: Are we going to get changes to the basic material Recipes?](./yt-utp7TQEksi0.md) [https://www.youtube.com/watch?v=utp7TQEksi0](https://www.youtube.com/watch?v=utp7TQEksi0)
-* [May 4th, 2021 Livestream Q&A: Recipes subject to change again?](./yt-XY3ul4kOff4.md) [https://www.youtube.com/watch?v=XY3ul4kOff4](https://www.youtube.com/watch?v=XY3ul4kOff4)
-</details>
+This question was possibly duplicated with a more recent answer: [September 7th, 2021 Livestream Q&A: Are there going to be changes to Recipes like there was in Update 4?](./yt-wnQBLg0EgUE.md) [https://www.youtube.com/watch?v=wnQBLg0EgUE](https://www.youtube.com/watch?v=wnQBLg0EgUE)
 
 
 ### Topics

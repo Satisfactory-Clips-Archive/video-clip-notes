@@ -11,7 +11,7 @@ topics:
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: What about holes for Foundations?
 https://www.youtube.com/watch?v=fufH5ltdn7E
-This question was possibly duplicated with a more recent answer: [August 17th, 2021 Livestream Q&A: Will there ever be a Conveyor or Pipe hole in Foundations?](./yt-T7YW7I7D7jk.md) [https://www.youtube.com/watch?v=T7YW7I7D7jk](https://www.youtube.com/watch?v=T7YW7I7D7jk)
+This question was possibly duplicated with a more recent answer: [September 7th, 2021 Livestream Q&A: Foundations with holes?](./yt-VZZXxJb9Vsg.md) [https://www.youtube.com/watch?v=VZZXxJb9Vsg](https://www.youtube.com/watch?v=VZZXxJb9Vsg)
 
 
 ### Topics

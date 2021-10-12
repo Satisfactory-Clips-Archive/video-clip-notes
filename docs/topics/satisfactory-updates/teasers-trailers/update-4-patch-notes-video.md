@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Teasers & Trailers](../../../topics/satisfactory-updates/teasers-trailers.md) > Update 4 Patch Notes Video
 
+## September 7th, 2021 Livestream
+* Community FYI: Nice PS5 [https://www.youtube.com/watch?v=pLe9r6zRaQI](https://www.youtube.com/watch?v=pLe9r6zRaQI)
+
 ## August 31st, 2021 Livestream
 * [Q&A: Can we have a cutscene of Jace's PS5?](../../../transcriptions/yt-qX71nlh8IZQ.md) [https://www.youtube.com/watch?v=qX71nlh8IZQ](https://www.youtube.com/watch?v=qX71nlh8IZQ)
 

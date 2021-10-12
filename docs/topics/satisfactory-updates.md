@@ -18,6 +18,10 @@ date: Last Modified
 * [Teasers & Trailers](../topics/satisfactory-updates/teasers-trailers.md)
 * [World Update](../topics/satisfactory-updates/world-update.md)
 
+## September 7th, 2021 Livestream
+* [Community FYI: I really want to play, but it's really hard to play when so much is changing](../transcriptions/yt-LFxuzaCUc34.md) [https://www.youtube.com/watch?v=LFxuzaCUc34](https://www.youtube.com/watch?v=LFxuzaCUc34)
+* [Snutt & Jace Talk: Development priorities](../transcriptions/yt-EMVtZU4f3ag.md) [https://www.youtube.com/watch?v=EMVtZU4f3ag](https://www.youtube.com/watch?v=EMVtZU4f3ag)
+
 ## August 31st, 2021 Livestream
 * [Community FYI: I hope you never get to 1.0, these Updates are awesome!](../transcriptions/yt-ZkjtpAwuZM0.md) [https://www.youtube.com/watch?v=ZkjtpAwuZM0](https://www.youtube.com/watch?v=ZkjtpAwuZM0)
 

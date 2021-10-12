@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > Mac
 
+## September 7th, 2021 Livestream
+* [Q&A: With Satisfactory built on Unreal Engine 4, what's holding you back from Linux & Mac support?](../../transcriptions/yt-EtKOY6OSFo0.md) [https://www.youtube.com/watch?v=EtKOY6OSFo0](https://www.youtube.com/watch?v=EtKOY6OSFo0)
+* [Community FYI: Slap an Apple sticker on it and call it a day](../../transcriptions/yt-7U1yWuZjnKA.md) [https://www.youtube.com/watch?v=7U1yWuZjnKA](https://www.youtube.com/watch?v=7U1yWuZjnKA)
+
 ## June 29th, 2021 Livestream
 * [Q&A: Is Satisfactory optimised on the M1 chip?](../../transcriptions/yt-MDQAA3IdUbo.md) [https://www.youtube.com/watch?v=MDQAA3IdUbo](https://www.youtube.com/watch?v=MDQAA3IdUbo)
 

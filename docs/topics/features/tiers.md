@@ -16,6 +16,9 @@ date: Last Modified
 * [Tier 9](../../topics/features/tiers/tier-9.md)
 * [Tier 10](../../topics/features/tiers/tier-10.md)
 
+## September 7th, 2021 Livestream
+* [Q&A: Will Update 5 mess with early-Tier Recipes?](../../transcriptions/yt-_tjZm954YB8.md) [https://www.youtube.com/watch?v=_tjZm954YB8](https://www.youtube.com/watch?v=_tjZm954YB8)
+
 ## August 17th, 2021 Livestream
 * [Q&A: Are you adding more stuff to early Tiers?](../../transcriptions/yt-EZ9RcEC5ZTQ.md) [https://www.youtube.com/watch?v=EZ9RcEC5ZTQ](https://www.youtube.com/watch?v=EZ9RcEC5ZTQ)
 * [Q&A: How do you decide what goes in the M.A.M., Shop, or in a Tier ?](../../transcriptions/yt-z-Ozh3_DDzs.md) [https://www.youtube.com/watch?v=z-Ozh3_DDzs](https://www.youtube.com/watch?v=z-Ozh3_DDzs)

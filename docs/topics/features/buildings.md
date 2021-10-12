@@ -26,6 +26,10 @@ date: Last Modified
 * [The HUB](../../topics/features/buildings/the-hub.md)
 * [Water Extractor](../../topics/features/buildings/water-extractor.md)
 
+## September 10th, 2021 Livestream
+* [Jace Talk: Truck Station refresh](../../transcriptions/yt-kh3lVrBdjFE,46.079366666666665,98.66523333333333.md) [https://youtube.com/clip/UgzcjK3EbZSm6LhrHJ54AaABCQ](https://youtube.com/clip/UgzcjK3EbZSm6LhrHJ54AaABCQ)
+* [Jace Talk: Adding Truck Stations to a previously-recorded path](../../transcriptions/yt-kh3lVrBdjFE,474.6408333333333,497.2968.md) [https://youtube.com/clip/Ugzkf2Qp5gQgz7c0TNJ4AaABCQ](https://youtube.com/clip/Ugzkf2Qp5gQgz7c0TNJ4AaABCQ)
+
 ## August 31st, 2021 Livestream
 * [Q&A: Do you plan some malfunctions of machines in regards to debug & repair?](../../transcriptions/yt-9-pbFs3q3Cg.md) [https://www.youtube.com/watch?v=9-pbFs3q3Cg](https://www.youtube.com/watch?v=9-pbFs3q3Cg)
 * [Q&A: Is it possible to enable collision damage on Buildings from Vehicles?](../../transcriptions/yt-p4z2K8_ed7M.md) [https://www.youtube.com/watch?v=p4z2K8_ed7M](https://www.youtube.com/watch?v=p4z2K8_ed7M)

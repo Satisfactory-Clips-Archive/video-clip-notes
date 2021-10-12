@@ -16,6 +16,9 @@ date: Last Modified
 * [Swamp](../../topics/environment/biomes/swamp.md)
 * [Unplanned Biomes](../../topics/environment/biomes/unplanned-biomes.md)
 
+## September 7th, 2021 Livestream
+* [Q&A: Will there be updates to the huge waterfall in the southwest corner of the map?](../../transcriptions/yt-uZSAvu6oPgU.md) [https://www.youtube.com/watch?v=uZSAvu6oPgU](https://www.youtube.com/watch?v=uZSAvu6oPgU)
+
 ## August 10th, 2021 Livestream
 * [Q&A: Is the island in the south west "Paradies Island" or "Paradise Island" ?](../../transcriptions/yt-8Lp7oflSHfc.md) [https://www.youtube.com/watch?v=8Lp7oflSHfc](https://www.youtube.com/watch?v=8Lp7oflSHfc)
 * [Q&A: Giant Crab near Paradies Island?](../../transcriptions/yt-ortoJ5e3-vU.md) [https://www.youtube.com/watch?v=ortoJ5e3-vU](https://www.youtube.com/watch?v=ortoJ5e3-vU)

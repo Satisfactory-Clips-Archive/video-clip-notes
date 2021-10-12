@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Equipment](../../../topics/features/equipment.md) > Jetpack
 
+## September 7th, 2021 Livestream
+* [Q&A: Turbofuel in Jetpack?](../../../transcriptions/yt-g-Om6IBMBq0.md) [https://www.youtube.com/watch?v=g-Om6IBMBq0](https://www.youtube.com/watch?v=g-Om6IBMBq0)
+
 ## August 24th, 2021 Livestream
 * [Q&A: Will Turbofuel work in the Jetpack in future?](../../../transcriptions/yt-fo9YWVJyuVo.md) [https://www.youtube.com/watch?v=fo9YWVJyuVo](https://www.youtube.com/watch?v=fo9YWVJyuVo)
 

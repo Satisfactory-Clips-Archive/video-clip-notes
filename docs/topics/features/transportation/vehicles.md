@@ -12,6 +12,12 @@ date: Last Modified
 * [Tractor](../../../topics/features/transportation/vehicles/tractor.md)
 * [Truck](../../../topics/features/transportation/vehicles/truck.md)
 
+## September 10th, 2021 Livestream
+* [Jace Talk: Vehicles & Fuel usage](../../../transcriptions/yt-kh3lVrBdjFE,307.97433333333333,384.95123333333333.md) [https://youtube.com/embed/kh3lVrBdjFE?autoplay=1&start=307&end=385](https://youtube.com/embed/kh3lVrBdjFE?autoplay=1&start=307&end=385)
+
+## September 7th, 2021 Livestream
+* [Q&A: Will painting The HUB and Vehicles ever be fixed?](../../../transcriptions/yt-Gs1dz6qZQVk.md) [https://www.youtube.com/watch?v=Gs1dz6qZQVk](https://www.youtube.com/watch?v=Gs1dz6qZQVk)
+
 ## August 31st, 2021 Livestream
 * [Q&A: Is Satisfactory a racing game?](../../../transcriptions/yt-65RvHR-Ohp8.md) [https://www.youtube.com/watch?v=65RvHR-Ohp8](https://www.youtube.com/watch?v=65RvHR-Ohp8)
 * [Q&A: Is it possible to enable collision damage on Buildings from Vehicles?](../../../transcriptions/yt-p4z2K8_ed7M.md) [https://www.youtube.com/watch?v=p4z2K8_ed7M](https://www.youtube.com/watch?v=p4z2K8_ed7M)

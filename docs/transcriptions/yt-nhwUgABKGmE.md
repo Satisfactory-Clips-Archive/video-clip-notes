@@ -10,6 +10,8 @@ topics:
 # [May 25th, 2021 Livestream](../2021-05-25.md)
 ## Q&A: Any plans for Mac or Linux?
 https://www.youtube.com/watch?v=nhwUgABKGmE
+This question was possibly duplicated with a more recent answer: [September 7th, 2021 Livestream Q&A: With Satisfactory built on Unreal Engine 4, what's holding you back from Linux & Mac support?](./yt-EtKOY6OSFo0.md) [https://www.youtube.com/watch?v=EtKOY6OSFo0](https://www.youtube.com/watch?v=EtKOY6OSFo0)
+
 
 ### Topics
 * [Features > Possible Features > Console Release](../topics/features/possible-features/console-release.md)

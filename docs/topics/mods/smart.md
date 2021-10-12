@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Mods](../../topics/mods.md) > Smart!
 
+## September 7th, 2021 Livestream
+* [Community FYI: Smart! does too much (for base game)](../../transcriptions/yt-L1_3oP3LwOc.md) [https://www.youtube.com/watch?v=L1_3oP3LwOc](https://www.youtube.com/watch?v=L1_3oP3LwOc)
+
 ## August 31st, 2021 Livestream
 * [Q&A: Do you intend to put helpful building modes like Smart! mod to help players build faster?](../../transcriptions/yt-cN_omO1NK9c.md) [https://www.youtube.com/watch?v=cN_omO1NK9c](https://www.youtube.com/watch?v=cN_omO1NK9c)
 * [Q&A: Is a feature planned to Mass Build like Smart! mod?](../../transcriptions/yt-V8g2L7aIey4.md) [https://www.youtube.com/watch?v=V8g2L7aIey4](https://www.youtube.com/watch?v=V8g2L7aIey4)

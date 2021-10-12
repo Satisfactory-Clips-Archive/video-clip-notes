@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > Satisfactory 2017
 
+## September 7th, 2021 Livestream
+* [Community Highlights: Location of the 2017 Tutorial Video](../../transcriptions/yt-z7OTWzgAkh0.md) [https://www.youtube.com/watch?v=z7OTWzgAkh0](https://www.youtube.com/watch?v=z7OTWzgAkh0)
+* [Q&A: Is it just me or does Jace have a different accent in the 2017 video?](../../transcriptions/yt-MJ4kI0B3UG4.md) [https://www.youtube.com/watch?v=MJ4kI0B3UG4](https://www.youtube.com/watch?v=MJ4kI0B3UG4)
+
 ## June 8th, 2021 Livestream
 * [Q&A: Is that version available somewhere?](../../transcriptions/yt-qOqS6B-RV4w.md) [https://www.youtube.com/watch?v=qOqS6B-RV4w](https://www.youtube.com/watch?v=qOqS6B-RV4w)
 

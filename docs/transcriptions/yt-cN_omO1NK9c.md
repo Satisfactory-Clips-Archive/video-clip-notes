@@ -9,6 +9,8 @@ topics:
 # [August 31st, 2021 Livestream](../2021-08-31.md)
 ## Q&A: Do you intend to put helpful building modes like Smart! mod to help players build faster?
 https://www.youtube.com/watch?v=cN_omO1NK9c
+This question was possibly replaced with a more recent answer: [September 7th, 2021 Livestream Q&A: What can be Zooped?](./yt-tOkr62V4ks4.md) [https://www.youtube.com/watch?v=tOkr62V4ks4](https://www.youtube.com/watch?v=tOkr62V4ks4)
+
 <details>
 <summary>This question may have been asked previously at least 7 other times, as recently as August 2021 and as early as December 2020.</summary>
 

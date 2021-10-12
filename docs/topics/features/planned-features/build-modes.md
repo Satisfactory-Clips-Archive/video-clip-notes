@@ -8,6 +8,10 @@ date: Last Modified
 * [Quick Switch](../../../topics/features/planned-features/build-modes/quick-switch.md)
 * [Zooping](../../../topics/features/planned-features/build-modes/zooping.md)
 
+## September 7th, 2021 Livestream
+* [Snutt & Jace Talk: Soft & Hard Clearance](../../../transcriptions/yt-TMsQatRPKyE.md) [https://www.youtube.com/watch?v=TMsQatRPKyE](https://www.youtube.com/watch?v=TMsQatRPKyE)
+* [Snutt Talk: Build Mode change reveals still pending](../../../transcriptions/yt-1zD1rimBbq8.md) [https://www.youtube.com/watch?v=1zD1rimBbq8](https://www.youtube.com/watch?v=1zD1rimBbq8)
+
 ## September 3rd, 2021 Livestream
 * [Intro](../../../transcriptions/yt-yZGq-W7r2sk,,46.8468.md) [https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=0&end=47](https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=0&end=47)
 

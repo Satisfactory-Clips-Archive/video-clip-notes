@@ -6,6 +6,17 @@ date: Last Modified
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > User Interface
 * [Holograms](../../topics/technology/user-interface/holograms.md)
 
+## September 10th, 2021 Livestream
+* [Jace Talk: Truck Station refresh](../../transcriptions/yt-kh3lVrBdjFE,46.079366666666665,98.66523333333333.md) [https://youtube.com/clip/UgzcjK3EbZSm6LhrHJ54AaABCQ](https://youtube.com/clip/UgzcjK3EbZSm6LhrHJ54AaABCQ)
+
+## September 7th, 2021 Livestream
+* Q&A: Is Quick Switch replacing the Radial Menu? [https://www.youtube.com/watch?v=tULmCmzph-U](https://www.youtube.com/watch?v=tULmCmzph-U)
+* [Q&A: Will we get rebindable copy/paste?](../../transcriptions/yt-Kdro87BHOmo.md) [https://www.youtube.com/watch?v=Kdro87BHOmo](https://www.youtube.com/watch?v=Kdro87BHOmo)
+* [Q&A: Turbofuel in Jetpack?](../../transcriptions/yt-g-Om6IBMBq0.md) [https://www.youtube.com/watch?v=g-Om6IBMBq0](https://www.youtube.com/watch?v=g-Om6IBMBq0)
+* [Q&A: Does it say anything you get certain messages in the upper left corner?](../../transcriptions/yt-4rKgXo19ero.md) [https://www.youtube.com/watch?v=4rKgXo19ero](https://www.youtube.com/watch?v=4rKgXo19ero)
+* [Snutt & Jace Talk: Changes to text UI](../../transcriptions/yt--Mym2zqWDYg.md) [https://www.youtube.com/watch?v=-Mym2zqWDYg](https://www.youtube.com/watch?v=-Mym2zqWDYg)
+* [Q&A: Quick Switch is the same thing as the Radial Menu?](../../transcriptions/yt-ot9z828JGSU.md) [https://www.youtube.com/watch?v=ot9z828JGSU](https://www.youtube.com/watch?v=ot9z828JGSU)
+
 ## September 3rd, 2021 Livestream
 * [Jace Talk: Architecture Build Menu](../../transcriptions/yt-yZGq-W7r2sk,772.0045666666667,814.4136.md) [https://youtube.com/clip/Ugy5if5uwAkJag0YVIx4AaABCQ](https://youtube.com/clip/Ugy5if5uwAkJag0YVIx4AaABCQ)
 * [Jace Talk: Zooping](../../transcriptions/yt-yZGq-W7r2sk,1109.1413666666667,1217.2827333333335.md) [https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=1109&end=1218](https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=1109&end=1218)

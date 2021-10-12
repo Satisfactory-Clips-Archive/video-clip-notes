@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > Features > Pioneer
 
+## September 7th, 2021 Livestream
+* [Q&A: Main character of Satisfactory drinks so much Coffee, when do they pee?](../../transcriptions/yt-VvPwssa6lvw.md) [https://www.youtube.com/watch?v=VvPwssa6lvw](https://www.youtube.com/watch?v=VvPwssa6lvw)
+
 ## August 17th, 2021 Livestream
 * [Q&A: When's the Pioneer face reveal?](../../transcriptions/yt-ij10c9v0qGI.md) [https://www.youtube.com/watch?v=ij10c9v0qGI](https://www.youtube.com/watch?v=ij10c9v0qGI)
 * [Q&A: Sleep & Food?](../../transcriptions/yt-Rfq5XpdNCnA.md) [https://www.youtube.com/watch?v=Rfq5XpdNCnA](https://www.youtube.com/watch?v=Rfq5XpdNCnA)

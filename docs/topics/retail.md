@@ -9,6 +9,10 @@ date: Last Modified
 * [GeForce Now](../topics/retail/geforce-now.md)
 * [Steam Store](../topics/retail/steam-store.md)
 
+## September 7th, 2021 Livestream
+* Q&A: Are you planning on having a sale on release? [https://www.youtube.com/watch?v=GR109lb7XtE](https://www.youtube.com/watch?v=GR109lb7XtE)
+* [Q&A: How many copies of the game have been purchased so far?](../transcriptions/yt-LbYG8qIeJ80.md) [https://www.youtube.com/watch?v=LbYG8qIeJ80](https://www.youtube.com/watch?v=LbYG8qIeJ80)
+
 ## August 31st, 2021 Livestream
 * [Q&A: How are the sales numbers?](../transcriptions/yt-H67ewrFgR5M.md) [https://www.youtube.com/watch?v=H67ewrFgR5M](https://www.youtube.com/watch?v=H67ewrFgR5M)
 

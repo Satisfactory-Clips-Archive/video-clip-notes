@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > Space Elevator
 * [Food Court](../../../topics/features/buildings/space-elevator/food-court.md)
 
+## September 7th, 2021 Livestream
+* Q&A: Do you have any statistics on how many people completed the last Space Elevator Phase? [https://www.youtube.com/watch?v=y-gjY5Vp5Qs](https://www.youtube.com/watch?v=y-gjY5Vp5Qs)
+
 ## August 10th, 2021 Livestream
 * [Q&A: Ability to ride the Space Elevator?](../../../transcriptions/yt-lGuvPYdd1SY.md) [https://www.youtube.com/watch?v=lGuvPYdd1SY](https://www.youtube.com/watch?v=lGuvPYdd1SY)
 * [Q&A: Any plans for a possible repeatable project for end game?](../../../transcriptions/yt-I2FEid_rB8c.md) [https://www.youtube.com/watch?v=I2FEid_rB8c](https://www.youtube.com/watch?v=I2FEid_rB8c)

@@ -5,6 +5,30 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Teasers & Trailers](../../../topics/satisfactory-updates/teasers-trailers.md) > Update 5 Teasers
 
+## September 10th, 2021 Livestream
+* [Jace Talk: Truck Station refresh](../../../transcriptions/yt-kh3lVrBdjFE,46.079366666666665,98.66523333333333.md) [https://youtube.com/clip/UgzcjK3EbZSm6LhrHJ54AaABCQ](https://youtube.com/clip/UgzcjK3EbZSm6LhrHJ54AaABCQ)
+
+## September 7th, 2021 Livestream
+* [Snutt & Jace Talk: Last Week's Teaser](../../../transcriptions/yt-_0zwNx-nRVw.md) [https://www.youtube.com/watch?v=_0zwNx-nRVw](https://www.youtube.com/watch?v=_0zwNx-nRVw)
+* [Snutt & Jace Talk: New Pillars](../../../transcriptions/yt-yspSnz-RVok.md) [https://www.youtube.com/watch?v=yspSnz-RVok](https://www.youtube.com/watch?v=yspSnz-RVok)
+* [Snutt & Jace Talk: Beams](../../../transcriptions/yt-xExhWQ2UlmU.md) [https://www.youtube.com/watch?v=xExhWQ2UlmU](https://www.youtube.com/watch?v=xExhWQ2UlmU)
+* [Snutt & Jace Talk: New Walkways](../../../transcriptions/yt-D5ZZFxwPfj0.md) [https://www.youtube.com/watch?v=D5ZZFxwPfj0](https://www.youtube.com/watch?v=D5ZZFxwPfj0)
+* [Q&A: Are we going to have 2m Walls?](../../../transcriptions/yt-okK53vcq2V4.md) [https://www.youtube.com/watch?v=okK53vcq2V4](https://www.youtube.com/watch?v=okK53vcq2V4)
+* [Q&A: Can we have Horizontal Stairs?](../../../transcriptions/yt-svdxFzidY8A.md) [https://www.youtube.com/watch?v=svdxFzidY8A](https://www.youtube.com/watch?v=svdxFzidY8A)
+* [Snutt & Jace Talk: More Frames](../../../transcriptions/yt-A11OVnEPoy4.md) [https://www.youtube.com/watch?v=A11OVnEPoy4](https://www.youtube.com/watch?v=A11OVnEPoy4)
+* Q&A: Is Quick Switch replacing the Radial Menu? [https://www.youtube.com/watch?v=tULmCmzph-U](https://www.youtube.com/watch?v=tULmCmzph-U)
+* [Snutt & Jace Talk: Soft & Hard Clearance](../../../transcriptions/yt-TMsQatRPKyE.md) [https://www.youtube.com/watch?v=TMsQatRPKyE](https://www.youtube.com/watch?v=TMsQatRPKyE)
+* [Q&A: Why do the Holograms not look the same?](../../../transcriptions/yt-k8fySA-MheI.md) [https://www.youtube.com/watch?v=k8fySA-MheI](https://www.youtube.com/watch?v=k8fySA-MheI)
+* [Snutt & Jace Talk: Zooping](../../../transcriptions/yt-k5bNkBCo_ys.md) [https://www.youtube.com/watch?v=k5bNkBCo_ys](https://www.youtube.com/watch?v=k5bNkBCo_ys)
+* [Snutt Talk: Build Mode change reveals still pending](../../../transcriptions/yt-1zD1rimBbq8.md) [https://www.youtube.com/watch?v=1zD1rimBbq8](https://www.youtube.com/watch?v=1zD1rimBbq8)
+* [Snutt & Jace Talk: Jace attempting to mimic previous facial expressions](../../../transcriptions/yt-lbC5luVtDXE.md) [https://www.youtube.com/watch?v=lbC5luVtDXE](https://www.youtube.com/watch?v=lbC5luVtDXE)
+* [Snutt & Jace Talk: Upcoming Update 5 Teasers](../../../transcriptions/yt-Z57MEsuH9n0.md) [https://www.youtube.com/watch?v=Z57MEsuH9n0](https://www.youtube.com/watch?v=Z57MEsuH9n0)
+* [Snutt Talk: Story behind the build in the Teaser video](../../../transcriptions/yt-grzwzYP1ceE.md) [https://www.youtube.com/watch?v=grzwzYP1ceE](https://www.youtube.com/watch?v=grzwzYP1ceE)
+* [Q&A: Does it say anything you get certain messages in the upper left corner?](../../../transcriptions/yt-4rKgXo19ero.md) [https://www.youtube.com/watch?v=4rKgXo19ero](https://www.youtube.com/watch?v=4rKgXo19ero)
+* [Snutt & Jace Talk: Changes to text UI](../../../transcriptions/yt--Mym2zqWDYg.md) [https://www.youtube.com/watch?v=-Mym2zqWDYg](https://www.youtube.com/watch?v=-Mym2zqWDYg)
+* [Community FYI: Nice colour highlights there](../../../transcriptions/yt-umSEa0eFeeM.md) [https://www.youtube.com/watch?v=umSEa0eFeeM](https://www.youtube.com/watch?v=umSEa0eFeeM)
+* [Q&A: Next Teaser video, when?](../../../transcriptions/yt-KDsEsDLIFyk.md) [https://www.youtube.com/watch?v=KDsEsDLIFyk](https://www.youtube.com/watch?v=KDsEsDLIFyk)
+
 ## September 3rd, 2021 Livestream
 * [Intro](../../../transcriptions/yt-yZGq-W7r2sk,,46.8468.md) [https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=0&end=47](https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=0&end=47)
 * [Jace Talk: Small Metal Pillars](../../../transcriptions/yt-yZGq-W7r2sk,62.858586,128.76196666666667.md) [https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=62&end=129](https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=62&end=129)

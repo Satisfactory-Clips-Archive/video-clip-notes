@@ -2,6 +2,128 @@
 title: "Frequently Asked Questions"
 date: Last Modified
 ---
+## [September 7th, 2021 Livestream](./2021-09-07.md)
+### [Q&A: Foundations with holes?](./transcriptions/yt-VZZXxJb9Vsg.md) [https://www.youtube.com/watch?v=VZZXxJb9Vsg](https://www.youtube.com/watch?v=VZZXxJb9Vsg)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> foundations with holes vip or dream uh go to the qa side and upload that and maybe if it gets enough votes maybe it will be vip but if if not then it's gonna be a dream i guess or something
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 7 other times, as recently as August 2021 and as early as August 2020.</summary>
+
+* [August 17th, 2021 Livestream Q&A: Will there ever be a Conveyor or Pipe hole in Foundations?](./transcriptions/yt-T7YW7I7D7jk.md) [https://www.youtube.com/watch?v=T7YW7I7D7jk](https://www.youtube.com/watch?v=T7YW7I7D7jk)
+* [May 18th, 2021 Livestream Q&A: Are there plans for Foundations with Conveyor spaces?](./transcriptions/yt-vcSdumvqOHg.md) [https://www.youtube.com/watch?v=vcSdumvqOHg](https://www.youtube.com/watch?v=vcSdumvqOHg)
+* [February 23rd, 2021 Livestream Q&A: Will we be able to place holes in Walls and floors freely?](./transcriptions/yt-RrF2Nq2-vmc.md) [https://www.youtube.com/watch?v=RrF2Nq2-vmc](https://www.youtube.com/watch?v=RrF2Nq2-vmc)
+* [February 9th, 2021 Livestream Q&A: Foundation holes for belts?](./transcriptions/yt-A41woUB_6oI.md) [https://www.youtube.com/watch?v=A41woUB_6oI](https://www.youtube.com/watch?v=A41woUB_6oI)
+* [January 19th, 2021 Livestream Q&A: Any thoughts about reworking Foundations or adding Foundation holes?](./transcriptions/yt-DFO9JPJP1yM.md) [https://www.youtube.com/watch?v=DFO9JPJP1yM](https://www.youtube.com/watch?v=DFO9JPJP1yM)
+* [September 15th, 2020 Livestream Q&A: Can you add Floor Holes for Pipes?](./transcriptions/yt-VLvqacnnn5c.md) [https://www.youtube.com/watch?v=VLvqacnnn5c](https://www.youtube.com/watch?v=VLvqacnnn5c)
+* [August 25th, 2020 Livestream Q&A: What about holes for Foundations?](./transcriptions/yt-fufH5ltdn7E.md) [https://www.youtube.com/watch?v=fufH5ltdn7E](https://www.youtube.com/watch?v=fufH5ltdn7E)
+</details>
+
+### [Q&A: Turbofuel in Jetpack?](./transcriptions/yt-g-Om6IBMBq0.md) [https://www.youtube.com/watch?v=g-Om6IBMBq0](https://www.youtube.com/watch?v=g-Om6IBMBq0)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> yeah turbo fuel jet pack this is a question we got kind of often and um the answer is that probably uh turbo fuel in jetpacks this is uh the main reason why we haven't had it up until this point is because there wasn't a good way ux wise ui wise to be able to like set your fuel in your jetpack um and having it like automatically pick fuel depending on like the situation is also not favorable because it could be picking something that you like it could be picking turbo fuel when you actually want to use zero feet for something else um so we didn't like that but uh it's something that we might be adding to the game at some point but i don't know when mark was very like yeah this is probably something we should
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 7 other times, as recently as August 2021 and as early as October 2020.</summary>
+
+* [August 24th, 2021 Livestream Q&A: Will Turbofuel work in the Jetpack in future?](./transcriptions/yt-fo9YWVJyuVo.md) [https://www.youtube.com/watch?v=fo9YWVJyuVo](https://www.youtube.com/watch?v=fo9YWVJyuVo)
+* [June 29th, 2021 Livestream Q&A: Turbofuel for Jetpacks?](./transcriptions/yt-PBccbfC_x2E.md) [https://www.youtube.com/watch?v=PBccbfC_x2E](https://www.youtube.com/watch?v=PBccbfC_x2E)
+* [May 11th, 2021 Livestream Q&A: Turbofuel for Jet Packs](./transcriptions/yt-5Ij3wWqZb8Q.md) [https://www.youtube.com/watch?v=5Ij3wWqZb8Q](https://www.youtube.com/watch?v=5Ij3wWqZb8Q)
+* [April 20th, 2021 Livestream Q&A: Will we ever be able to use Turbofuel in Jetpacks?](./transcriptions/yt-FqtXvF6LhVM.md) [https://www.youtube.com/watch?v=FqtXvF6LhVM](https://www.youtube.com/watch?v=FqtXvF6LhVM)
+* [February 9th, 2021 Livestream Q&A: Turbofuel in Jetpacks would make a bunch of stuff easier?](./transcriptions/yt-5Z5pyzNiaVY.md) [https://www.youtube.com/watch?v=5Z5pyzNiaVY](https://www.youtube.com/watch?v=5Z5pyzNiaVY)
+* [December 15th, 2020 Livestream Q&A: Will Turbofuel finally be usable for Jetpacks in Update 4 or sooner?](./transcriptions/yt-pSGEDxxLn2E.md) [https://www.youtube.com/watch?v=pSGEDxxLn2E](https://www.youtube.com/watch?v=pSGEDxxLn2E)
+* [October 1st, 2020 Q&A: Can we use Turbofuel in Jetpacks?](./transcriptions/yt-rATcozDE25c,476.04223333333334,527.5603666666667.md) [https://youtube.com/embed/rATcozDE25c?autoplay=1&start=476&end=528](https://youtube.com/embed/rATcozDE25c?autoplay=1&start=476&end=528)
+</details>
+
+### Q&A: Will Update 5 mess up Mods like Update 4 did? [https://www.youtube.com/watch?v=FKA_rMdiHtU](https://www.youtube.com/watch?v=FKA_rMdiHtU)
+
+<details>
+<summary>This question may have been asked previously at least 3 other times, as recently as August 2021 and as early as June 2021.</summary>
+
+* [August 3rd, 2021 Livestream Q&A: Will Mods break after Update 5?](./transcriptions/yt-XQkP3meJoSo.md) [https://www.youtube.com/watch?v=XQkP3meJoSo](https://www.youtube.com/watch?v=XQkP3meJoSo)
+* [June 29th, 2021 Livestream Q&A: Will Update 5 break Mods?](./transcriptions/yt-4OudGoLGTuk.md) [https://www.youtube.com/watch?v=4OudGoLGTuk](https://www.youtube.com/watch?v=4OudGoLGTuk)
+* [June 15th, 2021 Livestream Q&A: Will Update 5 break mods?](./transcriptions/yt-VoDiMfS0618.md) [https://www.youtube.com/watch?v=VoDiMfS0618](https://www.youtube.com/watch?v=VoDiMfS0618)
+</details>
+
+### [Q&A: Are there going to be changes to Recipes like there was in Update 4?](./transcriptions/yt-wnQBLg0EgUE.md) [https://www.youtube.com/watch?v=wnQBLg0EgUE](https://www.youtube.com/watch?v=wnQBLg0EgUE)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> are there going to be changes to recipes like there was an update for uh so we are planning on talking about potential changes to recipes later in a few in a few weeks so yeah we will talk about that at some point yep yep
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 5 other times, as recently as September 2021 and as early as May 2021.</summary>
+
+* [September 7th, 2021 Livestream Q&A: Will Update 5 mess with early-Tier Recipes?](./transcriptions/yt-_tjZm954YB8.md) [https://www.youtube.com/watch?v=_tjZm954YB8](https://www.youtube.com/watch?v=_tjZm954YB8)
+* [August 24th, 2021 Livestream Q&A: Are there going to be changes to Recipes in Update 5?](./transcriptions/yt-KZpGn66FOnI.md) [https://www.youtube.com/watch?v=KZpGn66FOnI](https://www.youtube.com/watch?v=KZpGn66FOnI)
+* [August 24th, 2021 Livestream Q&A: Will Update 5 change Recipes?](./transcriptions/yt-JnA9OzdPHEI.md) [https://www.youtube.com/watch?v=JnA9OzdPHEI](https://www.youtube.com/watch?v=JnA9OzdPHEI)
+* [June 29th, 2021 Livestream Q&A: Are we going to get changes to the basic material Recipes?](./transcriptions/yt-utp7TQEksi0.md) [https://www.youtube.com/watch?v=utp7TQEksi0](https://www.youtube.com/watch?v=utp7TQEksi0)
+* [May 4th, 2021 Livestream Q&A: Recipes subject to change again?](./transcriptions/yt-XY3ul4kOff4.md) [https://www.youtube.com/watch?v=XY3ul4kOff4](https://www.youtube.com/watch?v=XY3ul4kOff4)
+</details>
+
+### [Q&A: Dedicated Servers on Linux?](./transcriptions/yt-Sa-E2cCLdbI.md) [https://www.youtube.com/watch?v=Sa-E2cCLdbI](https://www.youtube.com/watch?v=Sa-E2cCLdbI)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> yeah and a follow-up question this is a dedicated servers though on linux uh that's a good question so so uh we're working on dedicated servers as you may or may not know and we're focusing the same thing there we're focusing for first and foremost on windows um but there's a little bit exception there when it comes to linux on data for dedicated servers um because that's something that we have at the back of our minds when we're developing the dedicated servers so it's not like like we're first and foremost making it for windows but there's also like we're looking at the work that we need to do it's able to maintain and support linux servers as well uh but we don't know when like that will happen um but we're we're we for sure hear you guys when you're asking for that service from linux support um yeah some people a lot of people have been asking about docker support um i don't really know if we will have that or not um uh like docker image or whatever it is yeah um but we hear you talking about it so we'll talk to people and then when we know we can tell you i think that might be a thing that maybe community can help us set up um i'm not quite sure maybe but we'll see but that i think that also hinges on that we have linux support because i don't think docker images work on windows or maybe i'm wrong about that but yeah we hear you guys we uh we we are trying
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 9 other times, as recently as June 2021 and as early as March 2019.</summary>
+
+* [June 29th, 2021 Livestream Q&A: Any plans for supporting Dedicated Servers on Linux?](./transcriptions/yt-hJSXfLTVMHE.md) [https://www.youtube.com/watch?v=hJSXfLTVMHE](https://www.youtube.com/watch?v=hJSXfLTVMHE)
+* [June 29th, 2021 Livestream Q&A: Dedicated Servers on Windows & Linux?](./transcriptions/yt-yVe94ABvZ88.md) [https://www.youtube.com/watch?v=yVe94ABvZ88](https://www.youtube.com/watch?v=yVe94ABvZ88)
+* [June 1st, 2021 Livestream Q&A: Will Dedicated Servers be able to run on Linux?](./transcriptions/yt-yyhNw1SsYx0.md) [https://www.youtube.com/watch?v=yyhNw1SsYx0](https://www.youtube.com/watch?v=yyhNw1SsYx0)
+* [May 18th, 2021 Livestream Q&A: Will Dedicated Servers be native Linux?](./transcriptions/yt-oaRqXpLhZ4k.md) [https://www.youtube.com/watch?v=oaRqXpLhZ4k](https://www.youtube.com/watch?v=oaRqXpLhZ4k)
+* [November 3rd, 2020 Livestream Q&A: Will Dedicated Servers run under Linux?](./transcriptions/yt-v5Niam8EYts.md) [https://www.youtube.com/watch?v=v5Niam8EYts](https://www.youtube.com/watch?v=v5Niam8EYts)
+* [September 22nd, 2020 Livestream Q&A: Will Dedicated Servers run on Linux?](./transcriptions/yt-299eeYGePHM.md) [https://www.youtube.com/watch?v=299eeYGePHM](https://www.youtube.com/watch?v=299eeYGePHM)
+* [August 25th, 2020 Livestream Q&A: Will Dedicated Servers be available on Linux, or Windows?](./transcriptions/yt-4f7KWwnXhoU.md) [https://www.youtube.com/watch?v=4f7KWwnXhoU](https://www.youtube.com/watch?v=4f7KWwnXhoU)
+* [March 15th, 2019 Q&A: Please, please, please make a Linux based dedicated server that can run headless.](./transcriptions/yt-R0S19_caQuw,403.32,412.34.md) [https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=403&end=413](https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=403&end=413)
+* [March 9th, 2019 Livestream Q&A: Any idea of the plan for Dedicated Server files to be headless Linux compatible?](./transcriptions/yt-Cnw_Ow3K29I.md) [https://www.youtube.com/watch?v=Cnw_Ow3K29I](https://www.youtube.com/watch?v=Cnw_Ow3K29I)
+</details>
+
+### Q&A: Will you add Steam Achievements when the game is done? [https://www.youtube.com/watch?v=tO60WajNJis](https://www.youtube.com/watch?v=tO60WajNJis)
+
+<details>
+<summary>This question may have been asked previously at least 12 other times, as recently as August 2021 and as early as August 2018.</summary>
+
+* [August 10th, 2021 Livestream Q&A: Will there be Steam Achievements in 1.0?](./transcriptions/yt-_wKUYaG0Hwc.md) [https://www.youtube.com/watch?v=_wKUYaG0Hwc](https://www.youtube.com/watch?v=_wKUYaG0Hwc)
+* [June 29th, 2021 Livestream Q&A: Please add Achievements & badges on Steam](./transcriptions/yt-vrBRxuX6YyA.md) [https://www.youtube.com/watch?v=vrBRxuX6YyA](https://www.youtube.com/watch?v=vrBRxuX6YyA)
+* [April 20th, 2021 Livestream Q&A: Will achievements be added?](./transcriptions/yt-5hha6bAuTTc.md) [https://www.youtube.com/watch?v=5hha6bAuTTc](https://www.youtube.com/watch?v=5hha6bAuTTc)
+* [April 13th, 2021 Livestream Q&A: Anything about achievements?](./transcriptions/yt-cF3QleeEiJo,6652.069241,6679.928238.md) [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6652&end=6680](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6652&end=6680)
+* [February 16th, 2021 Livestream Q&A: Will Achievements ever be created?](./transcriptions/yt-scxr_vl9Pzk.md) [https://www.youtube.com/watch?v=scxr_vl9Pzk](https://www.youtube.com/watch?v=scxr_vl9Pzk)
+* [November 10th, 2020 Livestream Q&A: Achievements system?](./transcriptions/yt-bthe_Dhs6uo.md) [https://www.youtube.com/watch?v=bthe_Dhs6uo](https://www.youtube.com/watch?v=bthe_Dhs6uo)
+* [November 3rd, 2020 Livestream Q&A: Are Steam Achievements going to be added in the future?](./transcriptions/yt-Gi08SVnHyLU.md) [https://www.youtube.com/watch?v=Gi08SVnHyLU](https://www.youtube.com/watch?v=Gi08SVnHyLU)
+* [October 1st, 2020 Q&A: Will there be achievements?](./transcriptions/yt-rATcozDE25c,435.5351,476.04223333333334.md) [https://youtube.com/embed/rATcozDE25c?autoplay=1&start=435&end=477](https://youtube.com/embed/rATcozDE25c?autoplay=1&start=435&end=477)
+* [September 29th, 2020 Livestream Q&A: Give us Steam Achievements already?](./transcriptions/yt-9tNel2ksYnI.md) [https://www.youtube.com/watch?v=9tNel2ksYnI](https://www.youtube.com/watch?v=9tNel2ksYnI)
+* [May 15th, 2020 Q&A: Will there be Steam Cards and Achievements? Also do you intend to use Steam Workshop?](./transcriptions/yt-NlIVwoRqjVk,301.33436666666665,346.41273333333334.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=301&end=347](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=301&end=347)
+* [March 24th, 2020 Livestream Q&A: Achievements?](./transcriptions/yt-G8K0Bjs8mNo.md) [https://www.youtube.com/watch?v=G8K0Bjs8mNo](https://www.youtube.com/watch?v=G8K0Bjs8mNo)
+* [August 1st, 2018 Q&A: Will there be Steam achievements?](./transcriptions/yt-iFAy1NZUOGU,119.72,131.28.md) [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=119&end=132](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=119&end=132)
+</details>
+
 ## [August 31st, 2021 Livestream](./2021-08-31.md)
 ### [Q&A: What about Golf?](./transcriptions/yt-T2ONa1z6jWE.md) [https://www.youtube.com/watch?v=T2ONa1z6jWE](https://www.youtube.com/watch?v=T2ONa1z6jWE)
 
@@ -544,25 +666,6 @@ date: Last Modified
 * [September 29th, 2020 Livestream Q&A: What about Mk.6 Belts?](./transcriptions/yt-NiBLAUCxIEs.md) [https://www.youtube.com/watch?v=NiBLAUCxIEs](https://www.youtube.com/watch?v=NiBLAUCxIEs)
 </details>
 
-### [Q&A: Are there going to be changes to Recipes in Update 5?](./transcriptions/yt-KZpGn66FOnI.md) [https://www.youtube.com/watch?v=KZpGn66FOnI](https://www.youtube.com/watch?v=KZpGn66FOnI)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> there's going to be changes to some recipes in update 5. i i don't know i'm actually going to send a hot question to mark maybe you can answer we'll see we'll see if mark finishes respond to that but i don't know currently um actually
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 3 other times, as recently as August 2021 and as early as May 2021.</summary>
-
-* [August 24th, 2021 Livestream Q&A: Will Update 5 change Recipes?](./transcriptions/yt-JnA9OzdPHEI.md) [https://www.youtube.com/watch?v=JnA9OzdPHEI](https://www.youtube.com/watch?v=JnA9OzdPHEI)
-* [June 29th, 2021 Livestream Q&A: Are we going to get changes to the basic material Recipes?](./transcriptions/yt-utp7TQEksi0.md) [https://www.youtube.com/watch?v=utp7TQEksi0](https://www.youtube.com/watch?v=utp7TQEksi0)
-* [May 4th, 2021 Livestream Q&A: Recipes subject to change again?](./transcriptions/yt-XY3ul4kOff4.md) [https://www.youtube.com/watch?v=XY3ul4kOff4](https://www.youtube.com/watch?v=XY3ul4kOff4)
-</details>
-
 ### [Q&A: Character Customisation?](./transcriptions/yt-5wiYaEfx0ro.md) [https://www.youtube.com/watch?v=5wiYaEfx0ro](https://www.youtube.com/watch?v=5wiYaEfx0ro)
 
 <details>
@@ -697,28 +800,6 @@ date: Last Modified
 * [March 2nd, 2021 Livestream Q&A: Coffee Mug?](./transcriptions/yt-eBG3cwtdwuY.md) [https://www.youtube.com/watch?v=eBG3cwtdwuY](https://www.youtube.com/watch?v=eBG3cwtdwuY)
 * [February 16th, 2021 Livestream Q&A: Where's the mug?](./transcriptions/yt-lABA3NfAMXw.md) [https://www.youtube.com/watch?v=lABA3NfAMXw](https://www.youtube.com/watch?v=lABA3NfAMXw)
 * [February 9th, 2021 Livestream Q&A: I would buy Merch but there's no Coffee Cup?](./transcriptions/yt-bQnAGoo8jQA.md) [https://www.youtube.com/watch?v=bQnAGoo8jQA](https://www.youtube.com/watch?v=bQnAGoo8jQA)
-</details>
-
-### [Q&A: Will Turbofuel work in the Jetpack in future?](./transcriptions/yt-fo9YWVJyuVo.md) [https://www.youtube.com/watch?v=fo9YWVJyuVo](https://www.youtube.com/watch?v=fo9YWVJyuVo)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> will turbo fuel work in jetpack in the future the it will i think i've talked to mark about this a long time ago but i'm pretty sure we will add that at some point in the future it's it's like a ux thing right now where like it's no there's no good way to like pick fuel in the whole in the jet pack um but now that we have like radial menu and stuff like that maybe that's more easy to add but um yeah in the future i think we're gonna be able to do that
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 6 other times, as recently as June 2021 and as early as October 2020.</summary>
-
-* [June 29th, 2021 Livestream Q&A: Turbofuel for Jetpacks?](./transcriptions/yt-PBccbfC_x2E.md) [https://www.youtube.com/watch?v=PBccbfC_x2E](https://www.youtube.com/watch?v=PBccbfC_x2E)
-* [May 11th, 2021 Livestream Q&A: Turbofuel for Jet Packs](./transcriptions/yt-5Ij3wWqZb8Q.md) [https://www.youtube.com/watch?v=5Ij3wWqZb8Q](https://www.youtube.com/watch?v=5Ij3wWqZb8Q)
-* [April 20th, 2021 Livestream Q&A: Will we ever be able to use Turbofuel in Jetpacks?](./transcriptions/yt-FqtXvF6LhVM.md) [https://www.youtube.com/watch?v=FqtXvF6LhVM](https://www.youtube.com/watch?v=FqtXvF6LhVM)
-* [February 9th, 2021 Livestream Q&A: Turbofuel in Jetpacks would make a bunch of stuff easier?](./transcriptions/yt-5Z5pyzNiaVY.md) [https://www.youtube.com/watch?v=5Z5pyzNiaVY](https://www.youtube.com/watch?v=5Z5pyzNiaVY)
-* [December 15th, 2020 Livestream Q&A: Will Turbofuel finally be usable for Jetpacks in Update 4 or sooner?](./transcriptions/yt-pSGEDxxLn2E.md) [https://www.youtube.com/watch?v=pSGEDxxLn2E](https://www.youtube.com/watch?v=pSGEDxxLn2E)
-* [October 1st, 2020 Q&A: Can we use Turbofuel in Jetpacks?](./transcriptions/yt-rATcozDE25c,476.04223333333334,527.5603666666667.md) [https://youtube.com/embed/rATcozDE25c?autoplay=1&start=476&end=528](https://youtube.com/embed/rATcozDE25c?autoplay=1&start=476&end=528)
 </details>
 
 ### [Q&A: Any plans on an actual Elevator?](./transcriptions/yt-Ot_nXF5yBfU.md) [https://www.youtube.com/watch?v=Ot_nXF5yBfU](https://www.youtube.com/watch?v=Ot_nXF5yBfU)
@@ -1162,32 +1243,6 @@ date: Last Modified
 * [May 11th, 2021 Livestream Q&A: More weapons?](./transcriptions/yt-oxRXMC8b2q8.md) [https://www.youtube.com/watch?v=oxRXMC8b2q8](https://www.youtube.com/watch?v=oxRXMC8b2q8)
 </details>
 
-### [Q&A: Will there ever be a Conveyor or Pipe hole in Foundations?](./transcriptions/yt-T7YW7I7D7jk.md) [https://www.youtube.com/watch?v=T7YW7I7D7jk](https://www.youtube.com/watch?v=T7YW7I7D7jk)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> will there be a conveyor or pipe hole in foundations or at least have a hollow foundation without any beams i don't know if we're going to be doing something like that to me it seems like it's been super requested and kind of a no-brainer yeah maybe it should maybe there should be but i i don't know if there's any like i just assume there's no technical limitation with that i've seen a couple of it wouldn't work with yeah it wouldn't really work with conveyors would it maybe not well like elevators oh yeah conveyor elevators of course yeah i know that's something that's been requested i always liked i don't know how that would work either but like do the thing we did with uh
->
-> [Music]
->
-> with the pipes you have like the wall mount thing and have one for foundations and have one so you can clip like foundations uh pipes into the foundation thing and like same with elevators maybe i don't know it might be tricky to do i don't know what the reasoning is yeah plus one for floor holes but i'm sure there's ticket for it on the q side i'm sure there's probably one of the yeah on the qa side so definitely upload that you guys
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 6 other times, as recently as May 2021 and as early as August 2020.</summary>
-
-* [May 18th, 2021 Livestream Q&A: Are there plans for Foundations with Conveyor spaces?](./transcriptions/yt-vcSdumvqOHg.md) [https://www.youtube.com/watch?v=vcSdumvqOHg](https://www.youtube.com/watch?v=vcSdumvqOHg)
-* [February 23rd, 2021 Livestream Q&A: Will we be able to place holes in Walls and floors freely?](./transcriptions/yt-RrF2Nq2-vmc.md) [https://www.youtube.com/watch?v=RrF2Nq2-vmc](https://www.youtube.com/watch?v=RrF2Nq2-vmc)
-* [February 9th, 2021 Livestream Q&A: Foundation holes for belts?](./transcriptions/yt-A41woUB_6oI.md) [https://www.youtube.com/watch?v=A41woUB_6oI](https://www.youtube.com/watch?v=A41woUB_6oI)
-* [January 19th, 2021 Livestream Q&A: Any thoughts about reworking Foundations or adding Foundation holes?](./transcriptions/yt-DFO9JPJP1yM.md) [https://www.youtube.com/watch?v=DFO9JPJP1yM](https://www.youtube.com/watch?v=DFO9JPJP1yM)
-* [September 15th, 2020 Livestream Q&A: Can you add Floor Holes for Pipes?](./transcriptions/yt-VLvqacnnn5c.md) [https://www.youtube.com/watch?v=VLvqacnnn5c](https://www.youtube.com/watch?v=VLvqacnnn5c)
-* [August 25th, 2020 Livestream Q&A: What about holes for Foundations?](./transcriptions/yt-fufH5ltdn7E.md) [https://www.youtube.com/watch?v=fufH5ltdn7E](https://www.youtube.com/watch?v=fufH5ltdn7E)
-</details>
-
 ## [August 10th, 2021 Livestream](./2021-08-10.md)
 ### [Q&A: Is the S.A.M. Ore ever going to be useful?](./transcriptions/yt-7zXN4R-njHk.md) [https://www.youtube.com/watch?v=7zXN4R-njHk](https://www.youtube.com/watch?v=7zXN4R-njHk)
 
@@ -1241,33 +1296,6 @@ date: Last Modified
 * [August 3rd, 2021 Livestream Q&A: What sort of size will Update 5 be compared to Update 4?](./transcriptions/yt-6szGN07pKus.md) [https://www.youtube.com/watch?v=6szGN07pKus](https://www.youtube.com/watch?v=6szGN07pKus)
 * July 6th, 2021 Livestream Q&A: Will Update 5 be bigger than Update 4? [https://www.youtube.com/watch?v=3Ad-13NANOg](https://www.youtube.com/watch?v=3Ad-13NANOg)
 * [June 15th, 2021 Livestream Q&A: Is Update 5 still shaping up to be the same size as Update 4?](./transcriptions/yt-i-QNHs4CWgc.md) [https://www.youtube.com/watch?v=i-QNHs4CWgc](https://www.youtube.com/watch?v=i-QNHs4CWgc)
-</details>
-
-### [Q&A: Will there be Steam Achievements in 1.0?](./transcriptions/yt-_wKUYaG0Hwc.md) [https://www.youtube.com/watch?v=_wKUYaG0Hwc](https://www.youtube.com/watch?v=_wKUYaG0Hwc)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> will be steam achievements in 1.0 um i don't know if it'll be 1.0 or not but the plan is to have steam achievements and i believe epic are going to have achievements they don't have do they have achievements yet i can't remember but the plan is you know if they if they have achievements too we'll put them there too so like the the reason we've held off on achievements is because the game for the longest time has you know been undergoing a lot of changes right so if we set achievements too early then they they become kind of meaningless potentially later so we want to have a better idea of like what our game will look like you know when it's sort of stable and and done before we add achievements to the game that's one of the reasons
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 11 other times, as recently as June 2021 and as early as August 2018.</summary>
-
-* [June 29th, 2021 Livestream Q&A: Please add Achievements & badges on Steam](./transcriptions/yt-vrBRxuX6YyA.md) [https://www.youtube.com/watch?v=vrBRxuX6YyA](https://www.youtube.com/watch?v=vrBRxuX6YyA)
-* [April 20th, 2021 Livestream Q&A: Will achievements be added?](./transcriptions/yt-5hha6bAuTTc.md) [https://www.youtube.com/watch?v=5hha6bAuTTc](https://www.youtube.com/watch?v=5hha6bAuTTc)
-* [April 13th, 2021 Livestream Q&A: Anything about achievements?](./transcriptions/yt-cF3QleeEiJo,6652.069241,6679.928238.md) [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6652&end=6680](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6652&end=6680)
-* [February 16th, 2021 Livestream Q&A: Will Achievements ever be created?](./transcriptions/yt-scxr_vl9Pzk.md) [https://www.youtube.com/watch?v=scxr_vl9Pzk](https://www.youtube.com/watch?v=scxr_vl9Pzk)
-* [November 10th, 2020 Livestream Q&A: Achievements system?](./transcriptions/yt-bthe_Dhs6uo.md) [https://www.youtube.com/watch?v=bthe_Dhs6uo](https://www.youtube.com/watch?v=bthe_Dhs6uo)
-* [November 3rd, 2020 Livestream Q&A: Are Steam Achievements going to be added in the future?](./transcriptions/yt-Gi08SVnHyLU.md) [https://www.youtube.com/watch?v=Gi08SVnHyLU](https://www.youtube.com/watch?v=Gi08SVnHyLU)
-* [October 1st, 2020 Q&A: Will there be achievements?](./transcriptions/yt-rATcozDE25c,435.5351,476.04223333333334.md) [https://youtube.com/embed/rATcozDE25c?autoplay=1&start=435&end=477](https://youtube.com/embed/rATcozDE25c?autoplay=1&start=435&end=477)
-* [September 29th, 2020 Livestream Q&A: Give us Steam Achievements already?](./transcriptions/yt-9tNel2ksYnI.md) [https://www.youtube.com/watch?v=9tNel2ksYnI](https://www.youtube.com/watch?v=9tNel2ksYnI)
-* [May 15th, 2020 Q&A: Will there be Steam Cards and Achievements? Also do you intend to use Steam Workshop?](./transcriptions/yt-NlIVwoRqjVk,301.33436666666665,346.41273333333334.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=301&end=347](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=301&end=347)
-* [March 24th, 2020 Livestream Q&A: Achievements?](./transcriptions/yt-G8K0Bjs8mNo.md) [https://www.youtube.com/watch?v=G8K0Bjs8mNo](https://www.youtube.com/watch?v=G8K0Bjs8mNo)
-* [August 1st, 2018 Q&A: Will there be Steam achievements?](./transcriptions/yt-iFAy1NZUOGU,119.72,131.28.md) [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=119&end=132](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=119&end=132)
 </details>
 
 ### [Q&A: Boats?](./transcriptions/yt-Kkr3alKdef0.md) [https://www.youtube.com/watch?v=Kkr3alKdef0](https://www.youtube.com/watch?v=Kkr3alKdef0)
@@ -1469,24 +1497,6 @@ date: Last Modified
 * [November 17th, 2020 Livestream Q&A: Can we add Solar Power?](./transcriptions/yt-_Uf5e-J9TwA.md) [https://www.youtube.com/watch?v=_Uf5e-J9TwA](https://www.youtube.com/watch?v=_Uf5e-J9TwA)
 * [October 20th, 2020 Livestream Q&A: Solar Panels?](./transcriptions/yt-zpNZHeAOoQE.md) [https://www.youtube.com/watch?v=zpNZHeAOoQE](https://www.youtube.com/watch?v=zpNZHeAOoQE)
 * [August 25th, 2020 Livestream Q&A: Why are there no Solar Panels ?](./transcriptions/yt-C1XaJJmvg1M.md) [https://www.youtube.com/watch?v=C1XaJJmvg1M](https://www.youtube.com/watch?v=C1XaJJmvg1M)
-</details>
-
-### [Q&A: Will Mods break after Update 5?](./transcriptions/yt-XQkP3meJoSo.md) [https://www.youtube.com/watch?v=XQkP3meJoSo](https://www.youtube.com/watch?v=XQkP3meJoSo)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> considering using smartbot for the first time let's break anything with the save after update five uh we don't really make any guarantees with mods my dog because we don't officially support them so i can't really tell you i mean first of all if you're using a mod it's gonna break after update 5. that's just what's going to happen usually the mods the modders need to uh fix up the mods after every sort of major update to make sure that they keep working so i mean yeah it's probably going to break if you use mods but then the models will probably fix it especially when it comes to smart mod i know that's that's one that's usually that's you know highly requested and highly demanded sort of thing by people so i'm pretty sure that the dev will probably um get it working again as quickly as possible but that's just my assumption
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 2 other times, as recently as June 2021 and as early as June 2021.</summary>
-
-* [June 29th, 2021 Livestream Q&A: Will Update 5 break Mods?](./transcriptions/yt-4OudGoLGTuk.md) [https://www.youtube.com/watch?v=4OudGoLGTuk](https://www.youtube.com/watch?v=4OudGoLGTuk)
-* [June 15th, 2021 Livestream Q&A: Will Update 5 break mods?](./transcriptions/yt-VoDiMfS0618.md) [https://www.youtube.com/watch?v=VoDiMfS0618](https://www.youtube.com/watch?v=VoDiMfS0618)
 </details>
 
 ### [Q&A: Will the game be adapted for 21:9 monitors?](./transcriptions/yt-u47gi9ATjX4.md) [https://www.youtube.com/watch?v=u47gi9ATjX4](https://www.youtube.com/watch?v=u47gi9ATjX4)
@@ -2123,30 +2133,6 @@ date: Last Modified
 </details>
 
 ## [June 29th, 2021 Livestream](./2021-06-29.md)
-### [Q&A: Any plans for supporting Dedicated Servers on Linux?](./transcriptions/yt-hJSXfLTVMHE.md) [https://www.youtube.com/watch?v=hJSXfLTVMHE](https://www.youtube.com/watch?v=hJSXfLTVMHE)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> any plans for supporting dedicated servers on linux that's a maybe my understanding is it's a maybe it's not like a we don't know for sure we are interested in it though so it's not yeah there's definitely a maybe it's not like a we're going to investigate that when we when we get to that point
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 8 other times, as recently as June 2021 and as early as March 2019.</summary>
-
-* [June 29th, 2021 Livestream Q&A: Dedicated Servers on Windows & Linux?](./transcriptions/yt-yVe94ABvZ88.md) [https://www.youtube.com/watch?v=yVe94ABvZ88](https://www.youtube.com/watch?v=yVe94ABvZ88)
-* [June 1st, 2021 Livestream Q&A: Will Dedicated Servers be able to run on Linux?](./transcriptions/yt-yyhNw1SsYx0.md) [https://www.youtube.com/watch?v=yyhNw1SsYx0](https://www.youtube.com/watch?v=yyhNw1SsYx0)
-* [May 18th, 2021 Livestream Q&A: Will Dedicated Servers be native Linux?](./transcriptions/yt-oaRqXpLhZ4k.md) [https://www.youtube.com/watch?v=oaRqXpLhZ4k](https://www.youtube.com/watch?v=oaRqXpLhZ4k)
-* [November 3rd, 2020 Livestream Q&A: Will Dedicated Servers run under Linux?](./transcriptions/yt-v5Niam8EYts.md) [https://www.youtube.com/watch?v=v5Niam8EYts](https://www.youtube.com/watch?v=v5Niam8EYts)
-* [September 22nd, 2020 Livestream Q&A: Will Dedicated Servers run on Linux?](./transcriptions/yt-299eeYGePHM.md) [https://www.youtube.com/watch?v=299eeYGePHM](https://www.youtube.com/watch?v=299eeYGePHM)
-* [August 25th, 2020 Livestream Q&A: Will Dedicated Servers be available on Linux, or Windows?](./transcriptions/yt-4f7KWwnXhoU.md) [https://www.youtube.com/watch?v=4f7KWwnXhoU](https://www.youtube.com/watch?v=4f7KWwnXhoU)
-* [March 15th, 2019 Q&A: Please, please, please make a Linux based dedicated server that can run headless.](./transcriptions/yt-R0S19_caQuw,403.32,412.34.md) [https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=403&end=413](https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=403&end=413)
-* [March 9th, 2019 Livestream Q&A: Any idea of the plan for Dedicated Server files to be headless Linux compatible?](./transcriptions/yt-Cnw_Ow3K29I.md) [https://www.youtube.com/watch?v=Cnw_Ow3K29I](https://www.youtube.com/watch?v=Cnw_Ow3K29I)
-</details>
-
 ### [Q&A: Equipment Hotkey, when?](./transcriptions/yt-W56wGXyT_sA.md) [https://www.youtube.com/watch?v=W56wGXyT_sA](https://www.youtube.com/watch?v=W56wGXyT_sA)
 
 <details>

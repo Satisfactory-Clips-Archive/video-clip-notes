@@ -9,6 +9,8 @@ topics:
 # [October 27th, 2020 Livestream](../2020-10-27.md)
 ## Q&A: Any plans to let us cycle through Foundation thickness with the R key?
 https://www.youtube.com/watch?v=ez909nY4cQI
+This question was possibly replaced with a more recent answer: [September 7th, 2021 Livestream Q&A: Quick Switch is the same thing as the Radial Menu?](./yt-ot9z828JGSU.md) [https://www.youtube.com/watch?v=ot9z828JGSU](https://www.youtube.com/watch?v=ot9z828JGSU)
+
 
 ### Topics
 * [Features > Buildables > Foundations](../topics/features/buildables/foundations.md)

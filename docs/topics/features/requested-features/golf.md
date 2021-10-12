@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Requested Features](../../../topics/features/requested-features.md) > Golf
 
+## September 7th, 2021 Livestream
+* [State of Dev: Update 5, Dedicated Servers, and Golf](../../../transcriptions/yt-yKSmdI8xuXM.md) [https://www.youtube.com/watch?v=yKSmdI8xuXM](https://www.youtube.com/watch?v=yKSmdI8xuXM)
+* [Snutt & Jace Talk: Check Golf](../../../transcriptions/yt-jTTQr9tw9Uo.md) [https://www.youtube.com/watch?v=jTTQr9tw9Uo](https://www.youtube.com/watch?v=jTTQr9tw9Uo)
+* [Q&A: I'm new to the Community & don't understand, is Golf actually coming or is it just a meme?](../../../transcriptions/yt-2gvKnMuoUuY.md) [https://www.youtube.com/watch?v=2gvKnMuoUuY](https://www.youtube.com/watch?v=2gvKnMuoUuY)
+
 ## August 31st, 2021 Livestream
 * [Q&A: What about Golf?](../../../transcriptions/yt-T2ONa1z6jWE.md) [https://www.youtube.com/watch?v=T2ONa1z6jWE](https://www.youtube.com/watch?v=T2ONa1z6jWE)
 * [State of Dev: Golf](../../../transcriptions/yt-dcYV28loaHA.md) [https://www.youtube.com/watch?v=dcYV28loaHA](https://www.youtube.com/watch?v=dcYV28loaHA)

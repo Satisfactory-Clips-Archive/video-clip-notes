@@ -9,7 +9,7 @@ topics:
 # [May 18th, 2021 Livestream](../2021-05-18.md)
 ## Q&A: Are there plans for Foundations with Conveyor spaces?
 https://www.youtube.com/watch?v=vcSdumvqOHg
-This question was possibly duplicated with a more recent answer: [August 17th, 2021 Livestream Q&A: Will there ever be a Conveyor or Pipe hole in Foundations?](./yt-T7YW7I7D7jk.md) [https://www.youtube.com/watch?v=T7YW7I7D7jk](https://www.youtube.com/watch?v=T7YW7I7D7jk)
+This question was possibly duplicated with a more recent answer: [September 7th, 2021 Livestream Q&A: Foundations with holes?](./yt-VZZXxJb9Vsg.md) [https://www.youtube.com/watch?v=VZZXxJb9Vsg](https://www.youtube.com/watch?v=VZZXxJb9Vsg)
 
 
 ### Topics

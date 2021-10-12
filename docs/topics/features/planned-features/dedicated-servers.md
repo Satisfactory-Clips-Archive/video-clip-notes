@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Planned Features > Dedicated Servers
 
+## September 7th, 2021 Livestream
+* [State of Dev: Update 5, Dedicated Servers, and Golf](../../../transcriptions/yt-yKSmdI8xuXM.md) [https://www.youtube.com/watch?v=yKSmdI8xuXM](https://www.youtube.com/watch?v=yKSmdI8xuXM)
+* [Q&A: Dedicated Servers on Linux?](../../../transcriptions/yt-Sa-E2cCLdbI.md) [https://www.youtube.com/watch?v=Sa-E2cCLdbI](https://www.youtube.com/watch?v=Sa-E2cCLdbI)
+
 ## August 31st, 2021 Livestream
 * [State of Dev: Dedicated Servers](../../../transcriptions/yt-hxHDpNPNmL8.md) [https://www.youtube.com/watch?v=hxHDpNPNmL8](https://www.youtube.com/watch?v=hxHDpNPNmL8)
 * [Q&A: So when is Dedicated Servers coming?](../../../transcriptions/yt-kNBYYuk8p3U.md) [https://www.youtube.com/watch?v=kNBYYuk8p3U](https://www.youtube.com/watch?v=kNBYYuk8p3U)

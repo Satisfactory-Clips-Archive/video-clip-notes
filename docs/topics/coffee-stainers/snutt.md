@@ -6,6 +6,10 @@ date: Last Modified
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Snutt
 * [Snutt Burger Time](../../topics/coffee-stainers/snutt/snutt-burger-time.md)
 
+## September 7th, 2021 Livestream
+* [Q&A: What's your favourite cheese, Jace?](../../transcriptions/yt-9R7r3GFbSyc.md) [https://www.youtube.com/watch?v=9R7r3GFbSyc](https://www.youtube.com/watch?v=9R7r3GFbSyc)
+* [Q&A: Will we ever see Snutt play one of those guitars?](../../transcriptions/yt-LCrtpZD9T9I.md) [https://www.youtube.com/watch?v=LCrtpZD9T9I](https://www.youtube.com/watch?v=LCrtpZD9T9I)
+
 ## August 31st, 2021 Livestream
 * [Q&A: Why is Snutt's camera so crisp and Jace's isn't?](../../transcriptions/yt-vGPbnTlA7D0.md) [https://www.youtube.com/watch?v=vGPbnTlA7D0](https://www.youtube.com/watch?v=vGPbnTlA7D0)
 * [Q&A: How are you guys doing?](../../transcriptions/yt-r_K0NK3NVKk.md) [https://www.youtube.com/watch?v=r_K0NK3NVKk](https://www.youtube.com/watch?v=r_K0NK3NVKk)

@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > AWESOME Store
 
+## September 7th, 2021 Livestream
+* [Q&A: Will the new Build Pieces will be unlocked in the AWESOME Shop?](../../../transcriptions/yt-vEBGQAEjxGs.md) [https://www.youtube.com/watch?v=vEBGQAEjxGs](https://www.youtube.com/watch?v=vEBGQAEjxGs)
+* Q&A: Any ideas how many Coupons the new content will be? [https://www.youtube.com/watch?v=BQyMNCvnWh0](https://www.youtube.com/watch?v=BQyMNCvnWh0)
+
 ## August 24th, 2021 Livestream
 * [Q&A: How many AWESOME points for a second of Rail grind?](../../../transcriptions/yt-Gw9-dD_ovEk.md) [https://www.youtube.com/watch?v=Gw9-dD_ovEk](https://www.youtube.com/watch?v=Gw9-dD_ovEk)
 

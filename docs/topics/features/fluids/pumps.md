@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Fluids](../../../topics/features/fluids.md) > Pumps
 
+## September 7th, 2021 Livestream
+* [Q&A: Can we get Pumps that push liquid down?](../../../transcriptions/yt-POjQa1nqb4U.md) [https://www.youtube.com/watch?v=POjQa1nqb4U](https://www.youtube.com/watch?v=POjQa1nqb4U)
+
 ## June 8th, 2021 Livestream
 * [Q&A: Do Pipe Pumps act as true valves or do they allow overflow through the other direction?](../../../transcriptions/yt-ug4BT_w5v_k.md) [https://www.youtube.com/watch?v=ug4BT_w5v_k](https://www.youtube.com/watch?v=ug4BT_w5v_k)
 

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Unplanned Features](../../../topics/features/unplanned-features.md) > Mass Building
 
+## September 7th, 2021 Livestream
+* [Community FYI: Smart! does too much (for base game)](../../../transcriptions/yt-L1_3oP3LwOc.md) [https://www.youtube.com/watch?v=L1_3oP3LwOc](https://www.youtube.com/watch?v=L1_3oP3LwOc)
+
 ## August 31st, 2021 Livestream
 * [Q&A: Is a feature planned to Mass Build like Smart! mod?](../../../transcriptions/yt-V8g2L7aIey4.md) [https://www.youtube.com/watch?v=V8g2L7aIey4](https://www.youtube.com/watch?v=V8g2L7aIey4)
 

@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Mark
 
+## September 7th, 2021 Livestream
+* [Q&A: Why did you go with the term "Zoop", what were the other possibilities?](../../transcriptions/yt-RGDvSGvf7qg.md) [https://www.youtube.com/watch?v=RGDvSGvf7qg](https://www.youtube.com/watch?v=RGDvSGvf7qg)
+* [Q&A: Where's the term "Zoop" come from?](../../transcriptions/yt-HNK0TDmQBVU.md) [https://www.youtube.com/watch?v=HNK0TDmQBVU](https://www.youtube.com/watch?v=HNK0TDmQBVU)
+
 ## June 15th, 2021 Livestream
 * [Q&A: Is Director Mark's christmas video still canon, will we get that tea cup?](../../transcriptions/yt-Cq-UPGtRNGM.md) [https://www.youtube.com/watch?v=Cq-UPGtRNGM](https://www.youtube.com/watch?v=Cq-UPGtRNGM)
 

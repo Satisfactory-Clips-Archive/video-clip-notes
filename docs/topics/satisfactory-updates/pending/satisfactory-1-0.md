@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Pending > Satisfactory 1.0
 
+## September 7th, 2021 Livestream
+* [Q&A: Is there a path to 1.0?](../../../transcriptions/yt-haID3MR0-fQ.md) [https://www.youtube.com/watch?v=haID3MR0-fQ](https://www.youtube.com/watch?v=haID3MR0-fQ)
+* Q&A: 1.0 at 5000 Upvotes [https://www.youtube.com/watch?v=jEt3dU9LTw4](https://www.youtube.com/watch?v=jEt3dU9LTw4)
+
 ## August 31st, 2021 Livestream
 * [Community FYI: I hope you never get to 1.0, these Updates are awesome!](../../../transcriptions/yt-ZkjtpAwuZM0.md) [https://www.youtube.com/watch?v=ZkjtpAwuZM0](https://www.youtube.com/watch?v=ZkjtpAwuZM0)
 * [Q&A: Are there any areas in the game that're version 1 ready?](../../../transcriptions/yt-2d6eGb73LtU.md) [https://www.youtube.com/watch?v=2d6eGb73LtU](https://www.youtube.com/watch?v=2d6eGb73LtU)

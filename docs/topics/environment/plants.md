@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Environment](../../topics/environment.md) > Plants
 
+## September 7th, 2021 Livestream
+* [Q&A: When are you guys going to fix the Trees of life that respawn all the time?](../../transcriptions/yt-0Pzj08Xv_eM.md) [https://www.youtube.com/watch?v=0Pzj08Xv_eM](https://www.youtube.com/watch?v=0Pzj08Xv_eM)
+
 ## July 13th, 2021 Livestream
 * [Q&A: Can we automate cutting down Trees?](../../transcriptions/yt-1glj0bQfFQc.md) [https://www.youtube.com/watch?v=1glj0bQfFQc](https://www.youtube.com/watch?v=1glj0bQfFQc)
 * [Q&A: Is it true the more Trees & Plants cut down the slower your game is?](../../transcriptions/yt-MwG60ilcvf0.md) [https://www.youtube.com/watch?v=MwG60ilcvf0](https://www.youtube.com/watch?v=MwG60ilcvf0)

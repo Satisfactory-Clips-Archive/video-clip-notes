@@ -5,6 +5,15 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Trolling
 
+## September 7th, 2021 Livestream
+* [Q&A: Can we get Pumps that push liquid down?](../transcriptions/yt-POjQa1nqb4U.md) [https://www.youtube.com/watch?v=POjQa1nqb4U](https://www.youtube.com/watch?v=POjQa1nqb4U)
+* [Q&A: Can we have Horizontal Stairs?](../transcriptions/yt-svdxFzidY8A.md) [https://www.youtube.com/watch?v=svdxFzidY8A](https://www.youtube.com/watch?v=svdxFzidY8A)
+* [Q&A: Can we get Vertical versions of Horizontal Conveyor Lifts?](../transcriptions/yt-TcvSDhVsAGE.md) [https://www.youtube.com/watch?v=TcvSDhVsAGE](https://www.youtube.com/watch?v=TcvSDhVsAGE)
+* [Community Highlights: Satisfactory if it was a good game](../transcriptions/yt-ggdHnqZ7n6M.md) [https://www.youtube.com/watch?v=ggdHnqZ7n6M](https://www.youtube.com/watch?v=ggdHnqZ7n6M)
+* [Q&A: Main character of Satisfactory drinks so much Coffee, when do they pee?](../transcriptions/yt-VvPwssa6lvw.md) [https://www.youtube.com/watch?v=VvPwssa6lvw](https://www.youtube.com/watch?v=VvPwssa6lvw)
+* [Community FYI: Slap an Apple sticker on it and call it a day](../transcriptions/yt-7U1yWuZjnKA.md) [https://www.youtube.com/watch?v=7U1yWuZjnKA](https://www.youtube.com/watch?v=7U1yWuZjnKA)
+* [Q&A: I'm new to the Community & don't understand, is Golf actually coming or is it just a meme?](../transcriptions/yt-2gvKnMuoUuY.md) [https://www.youtube.com/watch?v=2gvKnMuoUuY](https://www.youtube.com/watch?v=2gvKnMuoUuY)
+
 ## August 31st, 2021 Livestream
 * [Trolling: Trains confirmed for Update 5](../transcriptions/yt-MZfzoZh_uO0.md) [https://www.youtube.com/watch?v=MZfzoZh_uO0](https://www.youtube.com/watch?v=MZfzoZh_uO0)
 * [Trolling: Removing Lights](../transcriptions/yt-CeVmho--LWw.md) [https://www.youtube.com/watch?v=CeVmho--LWw](https://www.youtube.com/watch?v=CeVmho--LWw)

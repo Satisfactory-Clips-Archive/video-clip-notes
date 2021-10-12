@@ -5,6 +5,13 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > Transportation > [Vehicles](../../../../topics/features/transportation/vehicles.md) > Autopilot
 
+## September 10th, 2021 Livestream
+* [Jace Talk: Changes to Vehicle Automation](../../../../transcriptions/yt-kh3lVrBdjFE,98.690775,197.4973.md) [https://youtube.com/embed/kh3lVrBdjFE?autoplay=1&start=98&end=198](https://youtube.com/embed/kh3lVrBdjFE?autoplay=1&start=98&end=198)
+* [Jace Talk: Changes to Vehicles obstacle avoidance & getting stuck (ghosting)](../../../../transcriptions/yt-kh3lVrBdjFE,197.53066666666666,307.94096666666667.md) [https://youtube.com/embed/kh3lVrBdjFE?autoplay=1&start=197&end=308](https://youtube.com/embed/kh3lVrBdjFE?autoplay=1&start=197&end=308)
+* [Jace Talk: Save & Load Vehicle paths](../../../../transcriptions/yt-kh3lVrBdjFE,384.9846,435.2348.md) [https://youtube.com/clip/Ugyw-VIU_ASNmQxElRN4AaABCQ](https://youtube.com/clip/Ugyw-VIU_ASNmQxElRN4AaABCQ)
+* [Jace Talk: Distant Vehicle smoothing](../../../../transcriptions/yt-kh3lVrBdjFE,435.2681666666667,474.60746666666665.md) [https://youtube.com/clip/UgxWeK-t2NCv-imZmYx4AaABCQ](https://youtube.com/clip/UgxWeK-t2NCv-imZmYx4AaABCQ)
+* [Jace Talk: Adding Truck Stations to a previously-recorded path](../../../../transcriptions/yt-kh3lVrBdjFE,474.6408333333333,497.2968.md) [https://youtube.com/clip/Ugzkf2Qp5gQgz7c0TNJ4AaABCQ](https://youtube.com/clip/Ugzkf2Qp5gQgz7c0TNJ4AaABCQ)
+
 ## July 13th, 2021 Livestream
 * [Community FYI: I kind of like riding on top of automated trucks](../../../../transcriptions/yt-95mNYrm4XZY.md) [https://www.youtube.com/watch?v=95mNYrm4XZY](https://www.youtube.com/watch?v=95mNYrm4XZY)
 

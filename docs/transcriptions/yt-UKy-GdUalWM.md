@@ -3,7 +3,6 @@ title: "August 31st, 2021 Livestream Snutt & Jace Talk: We got Beams!"
 date: "2021-08-31"
 layout: transcript
 topics:
-    - "features/buildables"
     - "features/buildables/beams"
     - "satisfactory-updates/teasers-trailers/update-5-teasers"
 ---
@@ -12,7 +11,6 @@ topics:
 https://www.youtube.com/watch?v=UKy-GdUalWM
 
 ### Topics
-* [Features > Buildables](../topics/features/buildables.md)
 * [Features > Buildables > Beams](../topics/features/buildables/beams.md)
 * [Satisfactory Updates > Teasers & Trailers > Update 5 Teasers](../topics/satisfactory-updates/teasers-trailers/update-5-teasers.md)
 

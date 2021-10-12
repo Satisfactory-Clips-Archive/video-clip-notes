@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Railings
 
+## September 7th, 2021 Livestream
+* [Q&A: Will Ramp versions be able to be half as well?](../../../transcriptions/yt-ClOiLPOWYVI.md) [https://www.youtube.com/watch?v=ClOiLPOWYVI](https://www.youtube.com/watch?v=ClOiLPOWYVI)
+
 ## September 3rd, 2021 Livestream
 * [Jace Talk: New Railings](../../../transcriptions/yt-yZGq-W7r2sk,264.33073333333334,297.32674.md) [https://youtube.com/clip/UgzvXtieunvIhq_Ma3t4AaABCQ](https://youtube.com/clip/UgzvXtieunvIhq_Ma3t4AaABCQ)
 * [Jace Talk: Quick Switch for Railings](../../../transcriptions/yt-yZGq-W7r2sk,297.36373333333336,313.64666666666665.md) [https://youtube.com/clip/UgzK3mWyas6uUOEchCV4AaABCQ](https://youtube.com/clip/UgzK3mWyas6uUOEchCV4AaABCQ)

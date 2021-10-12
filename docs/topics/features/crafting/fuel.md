@@ -5,6 +5,12 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Crafting](../../../topics/features/crafting.md) > Fuel
 
+## September 10th, 2021 Livestream
+* [Jace Talk: Vehicles & Fuel usage](../../../transcriptions/yt-kh3lVrBdjFE,307.97433333333333,384.95123333333333.md) [https://youtube.com/embed/kh3lVrBdjFE?autoplay=1&start=307&end=385](https://youtube.com/embed/kh3lVrBdjFE?autoplay=1&start=307&end=385)
+
+## September 7th, 2021 Livestream
+* [Q&A: Turbofuel in Jetpack?](../../../transcriptions/yt-g-Om6IBMBq0.md) [https://www.youtube.com/watch?v=g-Om6IBMBq0](https://www.youtube.com/watch?v=g-Om6IBMBq0)
+
 ## August 24th, 2021 Livestream
 * [Q&A: Will Turbofuel work in the Jetpack in future?](../../../transcriptions/yt-fo9YWVJyuVo.md) [https://www.youtube.com/watch?v=fo9YWVJyuVo](https://www.youtube.com/watch?v=fo9YWVJyuVo)
 

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > Features > Paint
 
+## September 7th, 2021 Livestream
+* [Q&A: Will painting The HUB and Vehicles ever be fixed?](../../transcriptions/yt-Gs1dz6qZQVk.md) [https://www.youtube.com/watch?v=Gs1dz6qZQVk](https://www.youtube.com/watch?v=Gs1dz6qZQVk)
+
 ## August 24th, 2021 Livestream
 * [Q&A: Can the new Rails be painted?](../../transcriptions/yt-XBP-e-b-C00.md) [https://www.youtube.com/watch?v=XBP-e-b-C00](https://www.youtube.com/watch?v=XBP-e-b-C00)
 

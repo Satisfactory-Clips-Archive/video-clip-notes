@@ -8,6 +8,8 @@ topics:
 # [August 10th, 2021 Livestream](../2021-08-10.md)
 ## Q&A: Is the plan to continue playing after finishing the Story?
 https://www.youtube.com/watch?v=Rn0Q8sielK8
+This question was possibly duplicated with a more recent answer: [September 7th, 2021 Livestream Q&A: Will the Save still be playable after you finish the Story?](./yt-MbP0WCoaPjs.md) [https://www.youtube.com/watch?v=MbP0WCoaPjs](https://www.youtube.com/watch?v=MbP0WCoaPjs)
+
 
 ### Topics
 * [Story & Lore](../topics/story-lore.md)

@@ -14,6 +14,9 @@ date: Last Modified
 * [Rifle](../../topics/features/equipment/rifle.md)
 * [Zip Lines](../../topics/features/equipment/zip-lines.md)
 
+## September 7th, 2021 Livestream
+* [Q&A: Any news on switching the Mug from porcelain to metal?](../../transcriptions/yt-X7Eu3q-Y5Z8.md) [https://www.youtube.com/watch?v=X7Eu3q-Y5Z8](https://www.youtube.com/watch?v=X7Eu3q-Y5Z8)
+
 ## August 31st, 2021 Livestream
 * [Q&A: Black Powder & Iron to make bullets, machine gun for Base Defense?](../../transcriptions/yt-9q4EKEuu5R0.md) [https://www.youtube.com/watch?v=9q4EKEuu5R0](https://www.youtube.com/watch?v=9q4EKEuu5R0)
 * [Q&A: Can you please reveal new items?](../../transcriptions/yt-DI8KFc93Qlo.md) [https://www.youtube.com/watch?v=DI8KFc93Qlo](https://www.youtube.com/watch?v=DI8KFc93Qlo)

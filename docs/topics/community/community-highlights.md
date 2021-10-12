@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Community Highlights
 
+## September 7th, 2021 Livestream
+* [Community Highlights: Location of the 2017 Tutorial Video](../../transcriptions/yt-z7OTWzgAkh0.md) [https://www.youtube.com/watch?v=z7OTWzgAkh0](https://www.youtube.com/watch?v=z7OTWzgAkh0)
+* [Community Highlights: Satisfactory if it was a good game](../../transcriptions/yt-ggdHnqZ7n6M.md) [https://www.youtube.com/watch?v=ggdHnqZ7n6M](https://www.youtube.com/watch?v=ggdHnqZ7n6M)
+
 ## August 10th, 2021 Livestream
 * [Jace Talk: Golf (Part 4)](../../transcriptions/yt-JvloiZrUmgs.md) [https://www.youtube.com/watch?v=JvloiZrUmgs](https://www.youtube.com/watch?v=JvloiZrUmgs)
 * [Jace Talk: Golf (Part 5)](../../transcriptions/yt-1YsAHChZmrs.md) [https://www.youtube.com/watch?v=1YsAHChZmrs](https://www.youtube.com/watch?v=1YsAHChZmrs)

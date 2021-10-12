@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Released > Satisfactory Update 4
 
+## September 7th, 2021 Livestream
+* Q&A: Will Update 5 mess up Mods like Update 4 did? [https://www.youtube.com/watch?v=FKA_rMdiHtU](https://www.youtube.com/watch?v=FKA_rMdiHtU)
+* [Q&A: Are there going to be changes to Recipes like there was in Update 4?](../../../transcriptions/yt-wnQBLg0EgUE.md) [https://www.youtube.com/watch?v=wnQBLg0EgUE](https://www.youtube.com/watch?v=wnQBLg0EgUE)
+
 ## August 10th, 2021 Livestream
 * [Q&A: Is Update 5 bigger than Update 4?](../../../transcriptions/yt-HOtX8hK6Lxg.md) [https://www.youtube.com/watch?v=HOtX8hK6Lxg](https://www.youtube.com/watch?v=HOtX8hK6Lxg)
 

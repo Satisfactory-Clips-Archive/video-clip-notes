@@ -8,6 +8,8 @@ topics:
 # [July 20th, 2021 Livestream](../2021-07-20.md)
 ## Q&A: How are plans surrounding 1.0 shaping up?
 https://www.youtube.com/watch?v=ERZuus5HBho
+This question was possibly duplicated with a more recent answer: [September 7th, 2021 Livestream Q&A: Is there a path to 1.0?](./yt-haID3MR0-fQ.md) [https://www.youtube.com/watch?v=haID3MR0-fQ](https://www.youtube.com/watch?v=haID3MR0-fQ)
+
 
 ### Topics
 * [Satisfactory Updates > Pending > Satisfactory 1.0](../topics/satisfactory-updates/pending/satisfactory-1-0.md)

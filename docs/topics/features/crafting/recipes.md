@@ -6,6 +6,10 @@ date: Last Modified
 # [Topics](../../../topics.md) > Features > [Crafting](../../../topics/features/crafting.md) > Recipes
 * [Alternate Recipes](../../../topics/features/crafting/recipes/alternate-recipes.md)
 
+## September 7th, 2021 Livestream
+* [Q&A: Are there going to be changes to Recipes like there was in Update 4?](../../../transcriptions/yt-wnQBLg0EgUE.md) [https://www.youtube.com/watch?v=wnQBLg0EgUE](https://www.youtube.com/watch?v=wnQBLg0EgUE)
+* [Q&A: Will Update 5 mess with early-Tier Recipes?](../../../transcriptions/yt-_tjZm954YB8.md) [https://www.youtube.com/watch?v=_tjZm954YB8](https://www.youtube.com/watch?v=_tjZm954YB8)
+
 ## August 24th, 2021 Livestream
 * [Q&A: Are there going to be changes to Recipes in Update 5?](../../../transcriptions/yt-KZpGn66FOnI.md) [https://www.youtube.com/watch?v=KZpGn66FOnI](https://www.youtube.com/watch?v=KZpGn66FOnI)
 * [Q&A: Do you intend to add more Ores to have new Recipes such as glass & derivatives coming from it?](../../../transcriptions/yt-Ae-z-5fkjU8.md) [https://www.youtube.com/watch?v=Ae-z-5fkjU8](https://www.youtube.com/watch?v=Ae-z-5fkjU8)

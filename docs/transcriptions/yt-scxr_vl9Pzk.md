@@ -8,7 +8,7 @@ topics:
 # [February 16th, 2021 Livestream](../2021-02-16.md)
 ## Q&A: Will Achievements ever be created?
 https://www.youtube.com/watch?v=scxr_vl9Pzk
-This question was possibly duplicated with a more recent answer: [August 10th, 2021 Livestream Q&A: Will there be Steam Achievements in 1.0?](./yt-_wKUYaG0Hwc.md) [https://www.youtube.com/watch?v=_wKUYaG0Hwc](https://www.youtube.com/watch?v=_wKUYaG0Hwc)
+This question was possibly duplicated with a more recent answer: September 7th, 2021 Livestream Q&A: Will you add Steam Achievements when the game is done? [https://www.youtube.com/watch?v=tO60WajNJis](https://www.youtube.com/watch?v=tO60WajNJis)
 
 
 ### Topics

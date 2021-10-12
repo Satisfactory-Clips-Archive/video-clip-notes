@@ -9,6 +9,9 @@ date: Last Modified
 * [Object Limit](../../topics/technology/unreal-engine/object-limit.md)
 * [Unreal Engine 5](../../topics/technology/unreal-engine/unreal-engine-5.md)
 
+## September 7th, 2021 Livestream
+* [Q&A: With Satisfactory built on Unreal Engine 4, what's holding you back from Linux & Mac support?](../../transcriptions/yt-EtKOY6OSFo0.md) [https://www.youtube.com/watch?v=EtKOY6OSFo0](https://www.youtube.com/watch?v=EtKOY6OSFo0)
+
 ## June 8th, 2021 Livestream
 * [Snutt & Jace Talk: vWise](../../transcriptions/yt-_d53JmFce4w.md) [https://www.youtube.com/watch?v=_d53JmFce4w](https://www.youtube.com/watch?v=_d53JmFce4w)
 

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > The HUB
 
+## September 7th, 2021 Livestream
+* [Q&A: Will painting The HUB and Vehicles ever be fixed?](../../../transcriptions/yt-Gs1dz6qZQVk.md) [https://www.youtube.com/watch?v=Gs1dz6qZQVk](https://www.youtube.com/watch?v=Gs1dz6qZQVk)
+
 ## August 31st, 2021 Livestream
 * [Q&A: How's the flush button in The HUB coming along?](../../../transcriptions/yt-JKV3UIwRUxM.md) [https://www.youtube.com/watch?v=JKV3UIwRUxM](https://www.youtube.com/watch?v=JKV3UIwRUxM)
 

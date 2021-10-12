@@ -8,7 +8,7 @@ topics:
 # [June 29th, 2021 Livestream](../2021-06-29.md)
 ## Q&A: Dedicated Servers on Windows & Linux?
 https://www.youtube.com/watch?v=yVe94ABvZ88
-This question was possibly duplicated with a more recent answer: [June 29th, 2021 Livestream Q&A: Any plans for supporting Dedicated Servers on Linux?](./yt-hJSXfLTVMHE.md) [https://www.youtube.com/watch?v=hJSXfLTVMHE](https://www.youtube.com/watch?v=hJSXfLTVMHE)
+This question was possibly duplicated with a more recent answer: [September 7th, 2021 Livestream Q&A: Dedicated Servers on Linux?](./yt-Sa-E2cCLdbI.md) [https://www.youtube.com/watch?v=Sa-E2cCLdbI](https://www.youtube.com/watch?v=Sa-E2cCLdbI)
 
 
 ### Topics

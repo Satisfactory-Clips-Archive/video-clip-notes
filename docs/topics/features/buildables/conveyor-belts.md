@@ -5,6 +5,12 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Conveyor Belts
 
+## September 7th, 2021 Livestream
+* [Snutt & Jace Talk: New Feature, Horizontal Conveyor Lifts](../../../transcriptions/yt-QUoQmBBPHlI.md) [https://www.youtube.com/watch?v=QUoQmBBPHlI](https://www.youtube.com/watch?v=QUoQmBBPHlI)
+* [Q&A: Can we get Vertical versions of Horizontal Conveyor Lifts?](../../../transcriptions/yt-TcvSDhVsAGE.md) [https://www.youtube.com/watch?v=TcvSDhVsAGE](https://www.youtube.com/watch?v=TcvSDhVsAGE)
+* [Q&A: Will Splitters & Mergers have Soft or Hard Clearance?](../../../transcriptions/yt-1sI1tJLivp4.md) [https://www.youtube.com/watch?v=1sI1tJLivp4](https://www.youtube.com/watch?v=1sI1tJLivp4)
+* [Q&A: When building Belts, can we Quick Switch from normal Conveyor Poles to Stackable Poles?](../../../transcriptions/yt--omR1EfS5EE.md) [https://www.youtube.com/watch?v=-omR1EfS5EE](https://www.youtube.com/watch?v=-omR1EfS5EE)
+
 ## August 31st, 2021 Livestream
 * [Q&A: Will the Stackable Conveyor Poles be able to clip onto the normal Conveyor Poles?](../../../transcriptions/yt-HaElRT8z6Wo.md) [https://www.youtube.com/watch?v=HaElRT8z6Wo](https://www.youtube.com/watch?v=HaElRT8z6Wo)
 * [Q&A: Why can't Stackable Conveyor Poles be built from the ceiling?](../../../transcriptions/yt-O9O2h04O-mo.md) [https://www.youtube.com/watch?v=O9O2h04O-mo](https://www.youtube.com/watch?v=O9O2h04O-mo)

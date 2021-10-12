@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Off-Topic](../../../topics/off-topic.md) > [Food & Drink](../../../topics/off-topic/food-drink.md) > Coffee
 
+## September 7th, 2021 Livestream
+* [Q&A: Main character of Satisfactory drinks so much Coffee, when do they pee?](../../../transcriptions/yt-VvPwssa6lvw.md) [https://www.youtube.com/watch?v=VvPwssa6lvw](https://www.youtube.com/watch?v=VvPwssa6lvw)
+
 ## August 3rd, 2021 Livestream
 * [Q&A: How have you not made a "Hot Coffee" mini-game where you literally just make coffee?](../../../transcriptions/yt-sp0SRzvvDAc.md) [https://www.youtube.com/watch?v=sp0SRzvvDAc](https://www.youtube.com/watch?v=sp0SRzvvDAc)
 

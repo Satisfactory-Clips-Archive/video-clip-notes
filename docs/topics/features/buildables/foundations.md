@@ -6,6 +6,10 @@ date: Last Modified
 # [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Foundations
 * [Cheatcrete](../../../topics/features/buildables/foundations/cheatcrete.md)
 
+## September 7th, 2021 Livestream
+* [Q&A: Foundations with holes?](../../../transcriptions/yt-VZZXxJb9Vsg.md) [https://www.youtube.com/watch?v=VZZXxJb9Vsg](https://www.youtube.com/watch?v=VZZXxJb9Vsg)
+* [Q&A: Will Ramp versions be able to be half as well?](../../../transcriptions/yt-ClOiLPOWYVI.md) [https://www.youtube.com/watch?v=ClOiLPOWYVI](https://www.youtube.com/watch?v=ClOiLPOWYVI)
+
 ## September 3rd, 2021 Livestream
 * [Jace Talk: New Walls & new Inverted Ramp materials](../../../transcriptions/yt-yZGq-W7r2sk,370.53683333333333,432.009104.md) [https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=370&end=433](https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=370&end=433)
 
