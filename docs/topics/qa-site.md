@@ -118,6 +118,9 @@ date: Last Modified
 * [Community FYI: Coffee Stain needs a Smart Splitter to prioritise issues](../transcriptions/yt-zz7cFlKFO5A.md) [https://www.youtube.com/watch?v=zz7cFlKFO5A](https://www.youtube.com/watch?v=zz7cFlKFO5A)
 * [Community FYI: Vertical Splitters have 300+ upvotes, though.](../transcriptions/yt-yJEbuLvz-20.md) [https://www.youtube.com/watch?v=yJEbuLvz-20](https://www.youtube.com/watch?v=yJEbuLvz-20)
 
+## February 2nd, 2021 Livestream
+* [Q&A: How to ask questions in Q&A link?](../transcriptions/yt-6YHc-JbEDa8.md) [https://www.youtube.com/watch?v=6YHc-JbEDa8](https://www.youtube.com/watch?v=6YHc-JbEDa8)
+
 ## January 19th, 2021 Livestream
 * [Q&A: Can we ban Jace from the QA site?](../transcriptions/yt-X-dk6cTGO_g.md) [https://www.youtube.com/watch?v=X-dk6cTGO_g](https://www.youtube.com/watch?v=X-dk6cTGO_g)
 

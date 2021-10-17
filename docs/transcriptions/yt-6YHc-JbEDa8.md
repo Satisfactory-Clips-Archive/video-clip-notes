@@ -3,7 +3,7 @@ title: "February 2nd, 2021 Livestream Q&A: How to ask questions in Q&A link?"
 date: "2021-02-02"
 layout: transcript
 topics:
-    - ""
+    - "qa-site"
 ---
 # [February 2nd, 2021 Livestream](../2021-02-02.md)
 ## Q&A: How to ask questions in Q&A link?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: [September 14th
 
 
 ### Topics
-
+* [QA Site](../topics/qa-site.md)
 
 ### Transcript
 
