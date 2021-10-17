@@ -9,7 +9,7 @@ topics:
 # [August 24th, 2021 Livestream](../2021-08-24.md)
 ## Q&A: Will Update 5 change Recipes?
 https://www.youtube.com/watch?v=JnA9OzdPHEI
-This question was possibly duplicated with a more recent answer: [September 7th, 2021 Livestream Q&A: Are there going to be changes to Recipes like there was in Update 4?](./yt-wnQBLg0EgUE.md) [https://www.youtube.com/watch?v=wnQBLg0EgUE](https://www.youtube.com/watch?v=wnQBLg0EgUE)
+This question was possibly duplicated with a more recent answer: [September 14th, 2021 Livestream Q&A: Will there be any Recipe changes in Update 5?](./yt-vUf3qor9P5Q.md) [https://www.youtube.com/watch?v=vUf3qor9P5Q](https://www.youtube.com/watch?v=vUf3qor9P5Q)
 
 
 ### Topics

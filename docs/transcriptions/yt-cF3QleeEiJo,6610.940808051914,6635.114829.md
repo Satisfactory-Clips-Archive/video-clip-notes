@@ -8,7 +8,7 @@ topics:
 # [April 13th, 2021 Livestream](../2021-04-13.md)
 ## Q&A: What about 1.0?
 https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6610&end=6636
-This question was possibly duplicated with a more recent answer: [August 24th, 2021 Livestream Q&A: Projected date for 1.0?](./yt-HgHTtGAk-Jk.md) [https://www.youtube.com/watch?v=HgHTtGAk-Jk](https://www.youtube.com/watch?v=HgHTtGAk-Jk)
+This question was possibly duplicated with a more recent answer: [September 14th, 2021 Livestream Q&A: Full release of the game, how far is that?](./yt-GXHh2ZFq3FI.md) [https://www.youtube.com/watch?v=GXHh2ZFq3FI](https://www.youtube.com/watch?v=GXHh2ZFq3FI)
 
 
 ### Topics

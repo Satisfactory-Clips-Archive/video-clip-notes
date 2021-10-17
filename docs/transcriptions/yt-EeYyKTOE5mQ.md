@@ -9,7 +9,7 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Strange Creature Mounts?
 https://www.youtube.com/watch?v=EeYyKTOE5mQ
-This question was possibly duplicated with a more recent answer: [May 11th, 2021 Livestream Q&A: Can we tame and ride the spiders?](./yt-U0ZbXSRFOdw.md) [https://www.youtube.com/watch?v=U0ZbXSRFOdw](https://www.youtube.com/watch?v=U0ZbXSRFOdw)
+This question was possibly duplicated with a more recent answer: [September 14th, 2021 Livestream Q&A: Tick saddles, when?](./yt-S2_Ni6CmTFI.md) [https://www.youtube.com/watch?v=S2_Ni6CmTFI](https://www.youtube.com/watch?v=S2_Ni6CmTFI)
 
 
 ### Topics

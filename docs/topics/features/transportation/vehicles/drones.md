@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > Transportation > [Vehicles](../../../../topics/features/transportation/vehicles.md) > Drones
 
+## September 14th, 2021 Livestream
+* Community FYI: Vehicles + Jump Pads = Drone [https://www.youtube.com/watch?v=RgKdoinOVhc](https://www.youtube.com/watch?v=RgKdoinOVhc)
+* [Q&A: Will the spline fix apply to Drones?](../../../../transcriptions/yt-EZ8F7j6KcqA.md) [https://www.youtube.com/watch?v=EZ8F7j6KcqA](https://www.youtube.com/watch?v=EZ8F7j6KcqA)
+
 ## September 3rd, 2021 Dev Vlog
 * [Jace Talk: Final shot in the teaser](../../../../transcriptions/yt-yZGq-W7r2sk,701.9345666666667,771.973278.md) [https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=701&end=772](https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=701&end=772)
 

@@ -10,6 +10,9 @@ date: Last Modified
 * [Power Storage](../../topics/features/power-management/power-storage.md)
 * [Power Switch](../../topics/features/power-management/power-switch.md)
 
+## September 14th, 2021 Livestream
+* [Q&A: Why do Fuel Generators say "No Power" when they have no Fuel?](../../transcriptions/yt-Lwt8DhC_wkg.md) [https://www.youtube.com/watch?v=Lwt8DhC_wkg](https://www.youtube.com/watch?v=Lwt8DhC_wkg)
+
 ## August 31st, 2021 Livestream
 * [Q&A: Are you planning on adding more Power Generators?](../../transcriptions/yt-xUKGbBoWRtM.md) [https://www.youtube.com/watch?v=xUKGbBoWRtM](https://www.youtube.com/watch?v=xUKGbBoWRtM)
 

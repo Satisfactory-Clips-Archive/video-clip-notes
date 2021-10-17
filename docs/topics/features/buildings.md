@@ -26,6 +26,19 @@ date: Last Modified
 * [The HUB](../../topics/features/buildings/the-hub.md)
 * [Water Extractor](../../topics/features/buildings/water-extractor.md)
 
+## September 14th, 2021 Livestream
+* [Snutt & Jace Talk: Changes to Truck Station](../../transcriptions/yt-AhdmXJTAAsc.md) [https://www.youtube.com/watch?v=AhdmXJTAAsc](https://www.youtube.com/watch?v=AhdmXJTAAsc)
+* [Snutt & Jace Talk: Changes to Truck Station UI](../../transcriptions/yt-VAQDLsfK-Io.md) [https://www.youtube.com/watch?v=VAQDLsfK-Io](https://www.youtube.com/watch?v=VAQDLsfK-Io)
+* [Snutt & Jace Talk: Truck Station Fuel calculated per-route](../../transcriptions/yt-HwzZF04gWuk.md) [https://www.youtube.com/watch?v=HwzZF04gWuk](https://www.youtube.com/watch?v=HwzZF04gWuk)
+* [Snutt & Jace Talk: Truck Stations can be added to existing paths](../../transcriptions/yt-VolpA3rbIac.md) [https://www.youtube.com/watch?v=VolpA3rbIac](https://www.youtube.com/watch?v=VolpA3rbIac)
+* [Q&A: Will a Truck Station supply enough Fuel for a return journey?](../../transcriptions/yt-bySSNawmTXc.md) [https://www.youtube.com/watch?v=bySSNawmTXc](https://www.youtube.com/watch?v=bySSNawmTXc)
+* [Q&A: What happens if a Vehicle arrives at a Truck Station that doesn't have enough Fuel?](../../transcriptions/yt-iMt6mEDYuCk.md) [https://www.youtube.com/watch?v=iMt6mEDYuCk](https://www.youtube.com/watch?v=iMt6mEDYuCk)
+* [Q&A: Do the calculations incorporate different types of Fuel?](../../transcriptions/yt-z7pTOfVjY6E.md) [https://www.youtube.com/watch?v=z7pTOfVjY6E](https://www.youtube.com/watch?v=z7pTOfVjY6E)
+* Q&A: What if it's mixed Fuel inputted? [https://www.youtube.com/watch?v=lxD_ayHTvsI](https://www.youtube.com/watch?v=lxD_ayHTvsI)
+* [Q&A: 2 Inputs on Truck Station hinting at 2 Outputs on Mk.3 Miner?](../../transcriptions/yt-tG5bTwKIzA4.md) [https://www.youtube.com/watch?v=tG5bTwKIzA4](https://www.youtube.com/watch?v=tG5bTwKIzA4)
+* [Q&A: Is the new Truck Station Fuel behaviour behind a switch so it can still take all the Fuel?](../../transcriptions/yt-zgPbajCrwqQ.md) [https://www.youtube.com/watch?v=zgPbajCrwqQ](https://www.youtube.com/watch?v=zgPbajCrwqQ)
+* [Q&A: Why do Fuel Generators say "No Power" when they have no Fuel?](../../transcriptions/yt-Lwt8DhC_wkg.md) [https://www.youtube.com/watch?v=Lwt8DhC_wkg](https://www.youtube.com/watch?v=Lwt8DhC_wkg)
+
 ## September 10th, 2021 Video
 * [Jace Talk: Truck Station refresh](../../transcriptions/yt-kh3lVrBdjFE,46.079366666666665,98.66523333333333.md) [https://youtube.com/clip/UgzcjK3EbZSm6LhrHJ54AaABCQ](https://youtube.com/clip/UgzcjK3EbZSm6LhrHJ54AaABCQ)
 * [Jace Talk: Adding Truck Stations to a previously-recorded path](../../transcriptions/yt-kh3lVrBdjFE,474.6408333333333,497.2968.md) [https://youtube.com/clip/Ugzkf2Qp5gQgz7c0TNJ4AaABCQ](https://youtube.com/clip/Ugzkf2Qp5gQgz7c0TNJ4AaABCQ)

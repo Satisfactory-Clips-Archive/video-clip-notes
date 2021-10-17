@@ -12,7 +12,7 @@ topics:
 https://www.youtube.com/watch?v=zVnmYZemxe8
 This question was possibly replaced with a more recent answer: [August 6th, 2021 Video Q&A: Can we get a map to see what's been worked on & what's been changed](./yt-MxvGbCCc6DI,494.02686666666665,542.7755666666667.md) [https://youtube.com/clip/Ugxc2QWKgGz3eJShU2N4AaABCQ](https://youtube.com/clip/Ugxc2QWKgGz3eJShU2N4AaABCQ)
 
-This question was possibly duplicated with a more recent answer: [June 15th, 2021 Livestream Q&A: More Biomes coming to play?](./yt-KrltUW332Rg.md) [https://www.youtube.com/watch?v=KrltUW332Rg](https://www.youtube.com/watch?v=KrltUW332Rg)
+This question was possibly duplicated with a more recent answer: [September 14th, 2021 Livestream Q&A: Chance of a new Biome?](./yt-DXB_o7NPkOM.md) [https://www.youtube.com/watch?v=DXB_o7NPkOM](https://www.youtube.com/watch?v=DXB_o7NPkOM)
 
 
 ### Topics

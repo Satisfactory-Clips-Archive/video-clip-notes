@@ -7,6 +7,16 @@ date: Last Modified
 * ["Fix Jace" QA Site Posts](../../topics/coffee-stainers/jace/fix-jace-qa-site-posts.md)
 * [Jace Art](../../topics/coffee-stainers/jace/jace-art.md)
 
+## September 14th, 2021 Livestream
+* [Q&A: Are you Swedes?](../../transcriptions/yt-_G-sfOI1QhE.md) [https://www.youtube.com/watch?v=_G-sfOI1QhE](https://www.youtube.com/watch?v=_G-sfOI1QhE)
+* [Q&A: When will you be returning to the office?](../../transcriptions/yt-21QIrQXv2f4.md) [https://www.youtube.com/watch?v=21QIrQXv2f4](https://www.youtube.com/watch?v=21QIrQXv2f4)
+* [Q&A: With both of you getting fired/quitting, will we get guest hosting from your dads next week?](../../transcriptions/yt-uaMgtzaVucM.md) [https://www.youtube.com/watch?v=uaMgtzaVucM](https://www.youtube.com/watch?v=uaMgtzaVucM)
+* [Q&A: Can we hear Jace's dad's accent?](../../transcriptions/yt-Epl-5Jmqq8o.md) [https://www.youtube.com/watch?v=Epl-5Jmqq8o](https://www.youtube.com/watch?v=Epl-5Jmqq8o)
+* [Community FYI: You have to share stuff: Jace gets the game, Snutt gets the good camera](../../transcriptions/yt-y4lJ1ywCYwk.md) [https://www.youtube.com/watch?v=y4lJ1ywCYwk](https://www.youtube.com/watch?v=y4lJ1ywCYwk)
+* [Q&A: When will Jace become a playable character?](../../transcriptions/yt-T2RdeCYru9Q.md) [https://www.youtube.com/watch?v=T2RdeCYru9Q](https://www.youtube.com/watch?v=T2RdeCYru9Q)
+* [Q&A: What camera are you using?](../../transcriptions/yt-yMK6P7xtCwc.md) [https://www.youtube.com/watch?v=yMK6P7xtCwc](https://www.youtube.com/watch?v=yMK6P7xtCwc)
+* [Q&A: Are you suggesting you have other houses on other planets?](../../transcriptions/yt-4aKPRbWXJzw.md) [https://www.youtube.com/watch?v=4aKPRbWXJzw](https://www.youtube.com/watch?v=4aKPRbWXJzw)
+
 ## September 7th, 2021 Livestream
 * [Snutt & Jace Talk: Jace attempting to mimic previous facial expressions](../../transcriptions/yt-lbC5luVtDXE.md) [https://www.youtube.com/watch?v=lbC5luVtDXE](https://www.youtube.com/watch?v=lbC5luVtDXE)
 * [Q&A: Is it just me or does Jace have a different accent in the 2017 video?](../../transcriptions/yt-MJ4kI0B3UG4.md) [https://www.youtube.com/watch?v=MJ4kI0B3UG4](https://www.youtube.com/watch?v=MJ4kI0B3UG4)

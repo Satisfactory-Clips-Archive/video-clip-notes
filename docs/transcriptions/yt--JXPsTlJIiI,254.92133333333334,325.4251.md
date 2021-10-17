@@ -8,7 +8,7 @@ topics:
 # [December 17th, 2020 Q&A](../2020-12-17.md)
 ## Q&A: How does the current trajectory to the game compare to everyone's original concept?
 https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=254&end=326
-This question was possibly duplicated with a more recent answer: [August 24th, 2021 Livestream Q&A: Projected date for 1.0?](./yt-HgHTtGAk-Jk.md) [https://www.youtube.com/watch?v=HgHTtGAk-Jk](https://www.youtube.com/watch?v=HgHTtGAk-Jk)
+This question was possibly duplicated with a more recent answer: [September 14th, 2021 Livestream Q&A: Full release of the game, how far is that?](./yt-GXHh2ZFq3FI.md) [https://www.youtube.com/watch?v=GXHh2ZFq3FI](https://www.youtube.com/watch?v=GXHh2ZFq3FI)
 
 
 ### Topics

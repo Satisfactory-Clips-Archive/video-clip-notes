@@ -8,7 +8,7 @@ topics:
 # [March 15th, 2019 Q&A](../2019-03-15.md)
 ## Q&A: Please, please, please make a Linux based dedicated server that can run headless.
 https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=403&end=413
-This question was possibly duplicated with a more recent answer: [September 7th, 2021 Livestream Q&A: Dedicated Servers on Linux?](./yt-Sa-E2cCLdbI.md) [https://www.youtube.com/watch?v=Sa-E2cCLdbI](https://www.youtube.com/watch?v=Sa-E2cCLdbI)
+This question was possibly duplicated with a more recent answer: [September 14th, 2021 Livestream Q&A: Linux hosting, please?](./yt-bF5wXdGjeG0.md) [https://www.youtube.com/watch?v=bF5wXdGjeG0](https://www.youtube.com/watch?v=bF5wXdGjeG0)
 
 
 ### Topics

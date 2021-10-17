@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > World Update
 
+## September 14th, 2021 Livestream
+* [Q&A: I have a small factory in great canyon, do I have to remove it for Update 5?](../../transcriptions/yt-Rsf06bX62QY.md) [https://www.youtube.com/watch?v=Rsf06bX62QY](https://www.youtube.com/watch?v=Rsf06bX62QY)
+
 ## September 7th, 2021 Livestream
 * [Q&A: Will there be updates to the huge waterfall in the southwest corner of the map?](../../transcriptions/yt-uZSAvu6oPgU.md) [https://www.youtube.com/watch?v=uZSAvu6oPgU](https://www.youtube.com/watch?v=uZSAvu6oPgU)
 

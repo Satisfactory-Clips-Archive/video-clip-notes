@@ -12,7 +12,7 @@ topics:
 # [May 18th, 2021 Livestream](../2021-05-18.md)
 ## Q&A: Is there a technical reason you only made Mk.5 belts and not higher?
 https://www.youtube.com/watch?v=SiU_cgb0XhI
-This question was possibly duplicated with a more recent answer: [August 24th, 2021 Livestream Q&A: Is there going to be a Mk.6 Belt for Mk.3 Miner at 250% clock speed?](./yt-x2VBWUAqpoQ.md) [https://www.youtube.com/watch?v=x2VBWUAqpoQ](https://www.youtube.com/watch?v=x2VBWUAqpoQ)
+This question was possibly duplicated with a more recent answer: [September 14th, 2021 Livestream Q&A: Will we get a Mk.6 Belt in the future?](./yt-CQNpIStn7SM.md) [https://www.youtube.com/watch?v=CQNpIStn7SM](https://www.youtube.com/watch?v=CQNpIStn7SM)
 
 
 ### Topics

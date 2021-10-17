@@ -6,6 +6,11 @@ date: Last Modified
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > User Interface
 * [Holograms](../../topics/technology/user-interface/holograms.md)
 
+## September 14th, 2021 Livestream
+* [Snutt & Jace Talk: Changes to Truck Station UI](../../transcriptions/yt-VAQDLsfK-Io.md) [https://www.youtube.com/watch?v=VAQDLsfK-Io](https://www.youtube.com/watch?v=VAQDLsfK-Io)
+* [Snutt & Jace Talk: Truck Station Fuel calculated per-route](../../transcriptions/yt-HwzZF04gWuk.md) [https://www.youtube.com/watch?v=HwzZF04gWuk](https://www.youtube.com/watch?v=HwzZF04gWuk)
+* [Q&A: Why do Fuel Generators say "No Power" when they have no Fuel?](../../transcriptions/yt-Lwt8DhC_wkg.md) [https://www.youtube.com/watch?v=Lwt8DhC_wkg](https://www.youtube.com/watch?v=Lwt8DhC_wkg)
+
 ## September 10th, 2021 Video
 * [Jace Talk: Truck Station refresh](../../transcriptions/yt-kh3lVrBdjFE,46.079366666666665,98.66523333333333.md) [https://youtube.com/clip/UgzcjK3EbZSm6LhrHJ54AaABCQ](https://youtube.com/clip/UgzcjK3EbZSm6LhrHJ54AaABCQ)
 

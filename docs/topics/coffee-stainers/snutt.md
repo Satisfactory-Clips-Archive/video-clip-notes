@@ -6,6 +6,14 @@ date: Last Modified
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Snutt
 * [Snutt Burger Time](../../topics/coffee-stainers/snutt/snutt-burger-time.md)
 
+## September 14th, 2021 Livestream
+* [Q&A: Are you Swedes?](../../transcriptions/yt-_G-sfOI1QhE.md) [https://www.youtube.com/watch?v=_G-sfOI1QhE](https://www.youtube.com/watch?v=_G-sfOI1QhE)
+* [Q&A: When will you be returning to the office?](../../transcriptions/yt-21QIrQXv2f4.md) [https://www.youtube.com/watch?v=21QIrQXv2f4](https://www.youtube.com/watch?v=21QIrQXv2f4)
+* [Q&A: Didn't Snutt get fired last week?](../../transcriptions/yt-BmRrPoGbKYw.md) [https://www.youtube.com/watch?v=BmRrPoGbKYw](https://www.youtube.com/watch?v=BmRrPoGbKYw)
+* [Q&A: With both of you getting fired/quitting, will we get guest hosting from your dads next week?](../../transcriptions/yt-uaMgtzaVucM.md) [https://www.youtube.com/watch?v=uaMgtzaVucM](https://www.youtube.com/watch?v=uaMgtzaVucM)
+* [Community FYI: You have to share stuff: Jace gets the game, Snutt gets the good camera](../../transcriptions/yt-y4lJ1ywCYwk.md) [https://www.youtube.com/watch?v=y4lJ1ywCYwk](https://www.youtube.com/watch?v=y4lJ1ywCYwk)
+* [Q&A: What camera are you using?](../../transcriptions/yt-yMK6P7xtCwc.md) [https://www.youtube.com/watch?v=yMK6P7xtCwc](https://www.youtube.com/watch?v=yMK6P7xtCwc)
+
 ## September 7th, 2021 Livestream
 * [Q&A: What's your favourite cheese, Jace?](../../transcriptions/yt-9R7r3GFbSyc.md) [https://www.youtube.com/watch?v=9R7r3GFbSyc](https://www.youtube.com/watch?v=9R7r3GFbSyc)
 * [Q&A: Will we ever see Snutt play one of those guitars?](../../transcriptions/yt-LCrtpZD9T9I.md) [https://www.youtube.com/watch?v=LCrtpZD9T9I](https://www.youtube.com/watch?v=LCrtpZD9T9I)

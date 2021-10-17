@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Transportation > Hyper Tubes
 
+## September 14th, 2021 Livestream
+* [Q&A: Does Soft Clearance apply to Hyper Tubes?](../../../transcriptions/yt-ekzv2HksCOk.md) [https://www.youtube.com/watch?v=ekzv2HksCOk](https://www.youtube.com/watch?v=ekzv2HksCOk)
+* [Q&A: Do you guys like how Hyper Tubes turned out with cannons?](../../../transcriptions/yt-LG0wAne1mR8.md) [https://www.youtube.com/watch?v=LG0wAne1mR8](https://www.youtube.com/watch?v=LG0wAne1mR8)
+
 ## August 17th, 2021 Livestream
 * [Q&A: Will the Hyper Tube wall mount rotation ever be aligned with a 8x4 ramp?](../../../transcriptions/yt-HokduD0IdEY.md) [https://www.youtube.com/watch?v=HokduD0IdEY](https://www.youtube.com/watch?v=HokduD0IdEY)
 * [Q&A: Same bug as the equipment that flies in the tube?](../../../transcriptions/yt-r7lFsWlRIPE.md) [https://www.youtube.com/watch?v=r7lFsWlRIPE](https://www.youtube.com/watch?v=r7lFsWlRIPE)

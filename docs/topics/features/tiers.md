@@ -16,6 +16,9 @@ date: Last Modified
 * [Tier 9](../../topics/features/tiers/tier-9.md)
 * [Tier 10](../../topics/features/tiers/tier-10.md)
 
+## September 14th, 2021 Livestream
+* [Q&A: Will Zooping be available at Tier 0 or later?](../../transcriptions/yt-fglY9hmDe28.md) [https://www.youtube.com/watch?v=fglY9hmDe28](https://www.youtube.com/watch?v=fglY9hmDe28)
+
 ## September 7th, 2021 Livestream
 * [Q&A: Will Update 5 mess with early-Tier Recipes?](../../transcriptions/yt-_tjZm954YB8.md) [https://www.youtube.com/watch?v=_tjZm954YB8](https://www.youtube.com/watch?v=_tjZm954YB8)
 

@@ -5,6 +5,27 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Teasers & Trailers](../../../topics/satisfactory-updates/teasers-trailers.md) > Update 5 Teasers
 
+## September 14th, 2021 Livestream
+* [Community FYI: Base Defense confirmed](../../../transcriptions/yt-D6z9W_JVTyE.md) [https://www.youtube.com/watch?v=D6z9W_JVTyE](https://www.youtube.com/watch?v=D6z9W_JVTyE)
+* [Snutt & Jace Talk: Changes to Truck Station](../../../transcriptions/yt-AhdmXJTAAsc.md) [https://www.youtube.com/watch?v=AhdmXJTAAsc](https://www.youtube.com/watch?v=AhdmXJTAAsc)
+* [Snutt & Jace Talk: Changes to Truck Station UI](../../../transcriptions/yt-VAQDLsfK-Io.md) [https://www.youtube.com/watch?v=VAQDLsfK-Io](https://www.youtube.com/watch?v=VAQDLsfK-Io)
+* [Snutt & Jace Talk: Pathing for Vehicles has changed](../../../transcriptions/yt-nXAqkPVgH2o.md) [https://www.youtube.com/watch?v=nXAqkPVgH2o](https://www.youtube.com/watch?v=nXAqkPVgH2o)
+* [Snutt & Jace Talk: Vehicle obstacle handling](../../../transcriptions/yt-_p_gLzGc3WI.md) [https://www.youtube.com/watch?v=_p_gLzGc3WI](https://www.youtube.com/watch?v=_p_gLzGc3WI)
+* [Snutt & Jace Talk: Truck Station Fuel calculated per-route](../../../transcriptions/yt-HwzZF04gWuk.md) [https://www.youtube.com/watch?v=HwzZF04gWuk](https://www.youtube.com/watch?v=HwzZF04gWuk)
+* [Snutt & Jace Talk: Save & Load Autopilot Paths](../../../transcriptions/yt-sW0BIDJgS0U.md) [https://www.youtube.com/watch?v=sW0BIDJgS0U](https://www.youtube.com/watch?v=sW0BIDJgS0U)
+* [Snutt & Jace Talk: Truck Stations can be added to existing paths](../../../transcriptions/yt-VolpA3rbIac.md) [https://www.youtube.com/watch?v=VolpA3rbIac](https://www.youtube.com/watch?v=VolpA3rbIac)
+* [Jace Talk: Shout-out to Rasmus](../../../transcriptions/yt-JKoXcIiYahg.md) [https://www.youtube.com/watch?v=JKoXcIiYahg](https://www.youtube.com/watch?v=JKoXcIiYahg)
+* [Q&A: Will obstacles make Vehicles run out of Fuel?](../../../transcriptions/yt-JSgHmr6Fp-A.md) [https://www.youtube.com/watch?v=JSgHmr6Fp-A](https://www.youtube.com/watch?v=JSgHmr6Fp-A)
+* [Snutt & Jace Talk: You can no longer delete Autopilot path nodes (Part 1)](../../../transcriptions/yt-OxIDYdXp5jM.md) [https://www.youtube.com/watch?v=OxIDYdXp5jM](https://www.youtube.com/watch?v=OxIDYdXp5jM)
+* [Q&A: Will the spline fix apply to Drones?](../../../transcriptions/yt-EZ8F7j6KcqA.md) [https://www.youtube.com/watch?v=EZ8F7j6KcqA](https://www.youtube.com/watch?v=EZ8F7j6KcqA)
+* [Q&A: 2 Inputs on Truck Station hinting at 2 Outputs on Mk.3 Miner?](../../../transcriptions/yt-tG5bTwKIzA4.md) [https://www.youtube.com/watch?v=tG5bTwKIzA4](https://www.youtube.com/watch?v=tG5bTwKIzA4)
+* [Q&A: Can the Clearance mode be configurable in setting?](../../../transcriptions/yt-sdtsN5bem7c.md) [https://www.youtube.com/watch?v=sdtsN5bem7c](https://www.youtube.com/watch?v=sdtsN5bem7c)
+* [Snutt & Jace Talk: You can no longer delete Autopilot path nodes (Part 2)](../../../transcriptions/yt-XOclHeWo2Mk.md) [https://www.youtube.com/watch?v=XOclHeWo2Mk](https://www.youtube.com/watch?v=XOclHeWo2Mk)
+* [Q&A: Does Soft Clearance apply to Hyper Tubes?](../../../transcriptions/yt-ekzv2HksCOk.md) [https://www.youtube.com/watch?v=ekzv2HksCOk](https://www.youtube.com/watch?v=ekzv2HksCOk)
+* [Q&A: Do we need to re-do Vehicle path recording?](../../../transcriptions/yt-g4s0bj4m6gk.md) [https://www.youtube.com/watch?v=g4s0bj4m6gk](https://www.youtube.com/watch?v=g4s0bj4m6gk)
+* [Q&A: Do Vehicles have collision detection for other Vehicles?](../../../transcriptions/yt-fRZ4jKy9i3c.md) [https://www.youtube.com/watch?v=fRZ4jKy9i3c](https://www.youtube.com/watch?v=fRZ4jKy9i3c)
+* Q&A: Can Trucks get stuck if they use more Fuel than expected? [https://www.youtube.com/watch?v=k7PY6CVBSnA](https://www.youtube.com/watch?v=k7PY6CVBSnA)
+
 ## September 10th, 2021 Video
 * [Jace Talk: Truck Station refresh](../../../transcriptions/yt-kh3lVrBdjFE,46.079366666666665,98.66523333333333.md) [https://youtube.com/clip/UgzcjK3EbZSm6LhrHJ54AaABCQ](https://youtube.com/clip/UgzcjK3EbZSm6LhrHJ54AaABCQ)
 

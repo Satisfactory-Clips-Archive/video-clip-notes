@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > Linux
 
+## September 14th, 2021 Livestream
+* [Q&A: Linux hosting, please?](../../transcriptions/yt-bF5wXdGjeG0.md) [https://www.youtube.com/watch?v=bF5wXdGjeG0](https://www.youtube.com/watch?v=bF5wXdGjeG0)
+
 ## September 7th, 2021 Livestream
 * [Q&A: With Satisfactory built on Unreal Engine 4, what's holding you back from Linux & Mac support?](../../transcriptions/yt-EtKOY6OSFo0.md) [https://www.youtube.com/watch?v=EtKOY6OSFo0](https://www.youtube.com/watch?v=EtKOY6OSFo0)
 * [Q&A: Dedicated Servers on Linux?](../../transcriptions/yt-Sa-E2cCLdbI.md) [https://www.youtube.com/watch?v=Sa-E2cCLdbI](https://www.youtube.com/watch?v=Sa-E2cCLdbI)

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > AWESOME Store
 
+## September 14th, 2021 Livestream
+* [Q&A: Golden Golf clubs for 1k tickets?](../../../transcriptions/yt-UNkb_TNjWf8.md) [https://www.youtube.com/watch?v=UNkb_TNjWf8](https://www.youtube.com/watch?v=UNkb_TNjWf8)
+
 ## September 7th, 2021 Livestream
 * [Q&A: Will the new Build Pieces will be unlocked in the AWESOME Shop?](../../../transcriptions/yt-vEBGQAEjxGs.md) [https://www.youtube.com/watch?v=vEBGQAEjxGs](https://www.youtube.com/watch?v=vEBGQAEjxGs)
 * Q&A: Any ideas how many Coupons the new content will be? [https://www.youtube.com/watch?v=BQyMNCvnWh0](https://www.youtube.com/watch?v=BQyMNCvnWh0)

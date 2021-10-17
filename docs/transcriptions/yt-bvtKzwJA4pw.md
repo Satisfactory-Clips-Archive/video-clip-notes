@@ -9,7 +9,7 @@ topics:
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: Will Hyper Tube cannons be patched out eventually & officially supported as a feature?
 https://www.youtube.com/watch?v=bvtKzwJA4pw
-This question was possibly duplicated with a more recent answer: [June 29th, 2021 Livestream Q&A: What's your opinion on Hyper Tube accelerators?](./yt-HmJNJUmQyGQ.md) [https://www.youtube.com/watch?v=HmJNJUmQyGQ](https://www.youtube.com/watch?v=HmJNJUmQyGQ)
+This question was possibly duplicated with a more recent answer: [September 14th, 2021 Livestream Q&A: Do you guys like how Hyper Tubes turned out with cannons?](./yt-LG0wAne1mR8.md) [https://www.youtube.com/watch?v=LG0wAne1mR8](https://www.youtube.com/watch?v=LG0wAne1mR8)
 
 
 ### Topics

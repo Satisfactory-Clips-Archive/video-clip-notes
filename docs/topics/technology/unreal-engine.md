@@ -9,6 +9,18 @@ date: Last Modified
 * [Object Limit](../../topics/technology/unreal-engine/object-limit.md)
 * [Unreal Engine 5](../../topics/technology/unreal-engine/unreal-engine-5.md)
 
+## September 17th, 2021 Video
+* [Jace Talk: Not talking about Update 5, getting an Engine Update](../../transcriptions/yt-HJyfSle4o_U,6.373033333333334,48.548500000000004.md) [https://youtube.com/clip/UgkxOayUJtfEYpbaelVSCWkLtjHx-4RgFcAG](https://youtube.com/clip/UgkxOayUJtfEYpbaelVSCWkLtjHx-4RgFcAG)
+* [Q&A: When is this Update coming?](../../transcriptions/yt-HJyfSle4o_U,48.58186666666667,104.07063333333333.md) [https://youtube.com/clip/UgkxKZqa6UcHfyaLz6YYjd5Q-DeeSz6ikogJ](https://youtube.com/clip/UgkxKZqa6UcHfyaLz6YYjd5Q-DeeSz6ikogJ)
+* [Q&A: An Engine Update, what does that mean?](../../transcriptions/yt-HJyfSle4o_U,104.07063333333333,130.9308.md) [https://youtube.com/clip/Ugkx81aYbkVEKkrTXNssWKUJNv3lSRehGjwR](https://youtube.com/clip/Ugkx81aYbkVEKkrTXNssWKUJNv3lSRehGjwR)
+* [Q&A: Will you be adding DLSS support?](../../transcriptions/yt-HJyfSle4o_U,130.96416666666667,185.6855.md) [https://youtube.com/clip/UgkxJt7ivD3SGgOqAlNBbIb_DrHpyDaIOikp](https://youtube.com/clip/UgkxJt7ivD3SGgOqAlNBbIb_DrHpyDaIOikp)
+* [Jace Talk: Improvements to the Conveyor Belt rendering system](../../transcriptions/yt-HJyfSle4o_U,185.71886666666666,195.39520000000002.md) [https://youtube.com/clip/UgkxFj9lW0hxNLVjmXzRvzz519J_ASId578k](https://youtube.com/clip/UgkxFj9lW0hxNLVjmXzRvzz519J_ASId578k)
+* [Jace Talk: Vulkan & DirectX 12 support](../../transcriptions/yt-HJyfSle4o_U,195.42856666666668,251.98506666666668.md) [https://youtube.com/clip/UgkxYXdoUtdawpwfk5wvl0-PzcWyc4RqTr1U](https://youtube.com/clip/UgkxYXdoUtdawpwfk5wvl0-PzcWyc4RqTr1U)
+* [Q&A: What's DirectX 12 & Vulkan going to do for me?](../../transcriptions/yt-HJyfSle4o_U,252.01843333333335,276.1759.md) [https://youtube.com/clip/UgkxuBqrfJx5somXI4FuxBvHWMulmqkA6KPZ](https://youtube.com/clip/UgkxuBqrfJx5somXI4FuxBvHWMulmqkA6KPZ)
+
+## September 14th, 2021 Livestream
+* [Q&A: Is Satisfactory called FactoryGame in the project code for Unreal?](../../transcriptions/yt-aVAdNATOOQw.md) [https://www.youtube.com/watch?v=aVAdNATOOQw](https://www.youtube.com/watch?v=aVAdNATOOQw)
+
 ## September 7th, 2021 Livestream
 * [Q&A: With Satisfactory built on Unreal Engine 4, what's holding you back from Linux & Mac support?](../../transcriptions/yt-EtKOY6OSFo0.md) [https://www.youtube.com/watch?v=EtKOY6OSFo0](https://www.youtube.com/watch?v=EtKOY6OSFo0)
 

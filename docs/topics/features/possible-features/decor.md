@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Possible Features > Decor
 
+## September 14th, 2021 Livestream
+* [Q&A: Office stuff, tables, chairs?](../../../transcriptions/yt-SpjCFWSl3Ds.md) [https://www.youtube.com/watch?v=SpjCFWSl3Ds](https://www.youtube.com/watch?v=SpjCFWSl3Ds)
+
 ## August 31st, 2021 Livestream
 * [Snutt & Jace Talk: Cosmetics breakdown](../../../transcriptions/yt-cL9B3gtkpOM.md) [https://www.youtube.com/watch?v=cL9B3gtkpOM](https://www.youtube.com/watch?v=cL9B3gtkpOM)
 * [Snutt & Jace Talk: Building the set pieces for the cosmetics video](../../../transcriptions/yt-w-_GGJ3dqIM.md) [https://www.youtube.com/watch?v=w-_GGJ3dqIM](https://www.youtube.com/watch?v=w-_GGJ3dqIM)

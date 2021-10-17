@@ -5,6 +5,12 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Conveyor Belts
 
+## September 17th, 2021 Video
+* [Jace Talk: Improvements to the Conveyor Belt rendering system](../../../transcriptions/yt-HJyfSle4o_U,185.71886666666666,195.39520000000002.md) [https://youtube.com/clip/UgkxFj9lW0hxNLVjmXzRvzz519J_ASId578k](https://youtube.com/clip/UgkxFj9lW0hxNLVjmXzRvzz519J_ASId578k)
+
+## September 14th, 2021 Livestream
+* [Q&A: Will we get a Mk.6 Belt in the future?](../../../transcriptions/yt-CQNpIStn7SM.md) [https://www.youtube.com/watch?v=CQNpIStn7SM](https://www.youtube.com/watch?v=CQNpIStn7SM)
+
 ## September 7th, 2021 Livestream
 * [Snutt & Jace Talk: New Feature, Horizontal Conveyor Lifts](../../../transcriptions/yt-QUoQmBBPHlI.md) [https://www.youtube.com/watch?v=QUoQmBBPHlI](https://www.youtube.com/watch?v=QUoQmBBPHlI)
 * [Q&A: Can we get Vertical versions of Horizontal Conveyor Lifts?](../../../transcriptions/yt-TcvSDhVsAGE.md) [https://www.youtube.com/watch?v=TcvSDhVsAGE](https://www.youtube.com/watch?v=TcvSDhVsAGE)

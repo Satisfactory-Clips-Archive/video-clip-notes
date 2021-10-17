@@ -7,6 +7,9 @@ date: Last Modified
 * [Nuclear Refinement](../../../topics/features/power-management/nuclear-energy/nuclear-refinement.md)
 * [Nuclear Waste](../../../topics/features/power-management/nuclear-energy/nuclear-waste.md)
 
+## September 14th, 2021 Livestream
+* [Q&A: If and when Dedicated Servers go live, how will Nuclear Power & Nuclear Waste work?](../../../transcriptions/yt-g4VNWQOeiyw.md) [https://www.youtube.com/watch?v=g4VNWQOeiyw](https://www.youtube.com/watch?v=g4VNWQOeiyw)
+
 ## April 27th, 2021 Livestream
 * Q&A: Can we have nuclear meltdowns? [https://www.youtube.com/watch?v=eSyifcA_yPg](https://www.youtube.com/watch?v=eSyifcA_yPg)
 

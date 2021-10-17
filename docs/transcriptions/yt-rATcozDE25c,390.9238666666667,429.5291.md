@@ -8,7 +8,7 @@ topics:
 # [October 1st, 2020 Q&A](../2020-10-01.md)
 ## Q&A: Will there be any environmental influences later on, like climate change or heatwave storms?
 https://youtube.com/embed/rATcozDE25c?autoplay=1&start=390&end=430
-This question was possibly duplicated with a more recent answer: [July 6th, 2021 Livestream Q&A: Will you be adding Weather Systems?](./yt-WMMQ1b8eAvA.md) [https://www.youtube.com/watch?v=WMMQ1b8eAvA](https://www.youtube.com/watch?v=WMMQ1b8eAvA)
+This question was possibly duplicated with a more recent answer: [September 14th, 2021 Livestream Q&A: Have you considered adding Weather effects to the game?](./yt-sNZLo0Q6lBg.md) [https://www.youtube.com/watch?v=sNZLo0Q6lBg](https://www.youtube.com/watch?v=sNZLo0Q6lBg)
 
 
 ### Topics

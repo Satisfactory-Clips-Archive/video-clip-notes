@@ -8,7 +8,7 @@ topics:
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Q&A: Weather in Satisfactory?
 https://www.youtube.com/watch?v=Sxvg881RjeA
-This question was possibly duplicated with a more recent answer: [July 6th, 2021 Livestream Q&A: Will you be adding Weather Systems?](./yt-WMMQ1b8eAvA.md) [https://www.youtube.com/watch?v=WMMQ1b8eAvA](https://www.youtube.com/watch?v=WMMQ1b8eAvA)
+This question was possibly duplicated with a more recent answer: [September 14th, 2021 Livestream Q&A: Have you considered adding Weather effects to the game?](./yt-sNZLo0Q6lBg.md) [https://www.youtube.com/watch?v=sNZLo0Q6lBg](https://www.youtube.com/watch?v=sNZLo0Q6lBg)
 
 
 ### Topics

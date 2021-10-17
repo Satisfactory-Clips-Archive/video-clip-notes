@@ -23,6 +23,7 @@ date: Last Modified
 * [Neshkor](./topics/coffee-stainers/neshkor.md)
 * [Oscar](./topics/coffee-stainers/oscar.md)
 * [Pontus](./topics/coffee-stainers/pontus.md)
+* [Rasmus](./topics/coffee-stainers/rasmus.md)
 * [Ros](./topics/coffee-stainers/ros.md)
 * [Sofi](./topics/coffee-stainers/sofi.md)
 * [Stefan](./topics/coffee-stainers/stefan.md)

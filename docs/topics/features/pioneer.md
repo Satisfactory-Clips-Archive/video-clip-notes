@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > Features > Pioneer
 
+## September 14th, 2021 Livestream
+* [Q&A: When will Jace become a playable character?](../../transcriptions/yt-T2RdeCYru9Q.md) [https://www.youtube.com/watch?v=T2RdeCYru9Q](https://www.youtube.com/watch?v=T2RdeCYru9Q)
+
 ## September 7th, 2021 Livestream
 * [Q&A: Main character of Satisfactory drinks so much Coffee, when do they pee?](../../transcriptions/yt-VvPwssa6lvw.md) [https://www.youtube.com/watch?v=VvPwssa6lvw](https://www.youtube.com/watch?v=VvPwssa6lvw)
 

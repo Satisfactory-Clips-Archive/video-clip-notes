@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Sweden
 
+## September 14th, 2021 Livestream
+* [Q&A: Are you Swedes?](../../transcriptions/yt-_G-sfOI1QhE.md) [https://www.youtube.com/watch?v=_G-sfOI1QhE](https://www.youtube.com/watch?v=_G-sfOI1QhE)
+
 ## August 31st, 2021 Livestream
 * [Q&A: Do you guys work near Paradox Interactive headquarters in Sweden?](../../transcriptions/yt-PRdSxdarJpQ.md) [https://www.youtube.com/watch?v=PRdSxdarJpQ](https://www.youtube.com/watch?v=PRdSxdarJpQ)
 

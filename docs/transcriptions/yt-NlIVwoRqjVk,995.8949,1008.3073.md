@@ -8,7 +8,7 @@ topics:
 # [May 15th, 2020 Q&A](../2020-05-15.md)
 ## Q&A: Do you have any rough expectation of when the full release of the game will be?
 https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=995&end=1009
-This question was possibly duplicated with a more recent answer: [August 24th, 2021 Livestream Q&A: Projected date for 1.0?](./yt-HgHTtGAk-Jk.md) [https://www.youtube.com/watch?v=HgHTtGAk-Jk](https://www.youtube.com/watch?v=HgHTtGAk-Jk)
+This question was possibly duplicated with a more recent answer: [September 14th, 2021 Livestream Q&A: Full release of the game, how far is that?](./yt-GXHh2ZFq3FI.md) [https://www.youtube.com/watch?v=GXHh2ZFq3FI](https://www.youtube.com/watch?v=GXHh2ZFq3FI)
 
 
 ### Topics

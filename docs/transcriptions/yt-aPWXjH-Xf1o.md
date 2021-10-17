@@ -8,7 +8,7 @@ topics:
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Q&A: What's the max amount of body slots?
 https://www.youtube.com/watch?v=aPWXjH-Xf1o
-This question was possibly duplicated with a more recent answer: [August 10th, 2021 Livestream Q&A: Will we be able to equip more than one item?](./yt-qiA_5oti7s8.md) [https://www.youtube.com/watch?v=qiA_5oti7s8](https://www.youtube.com/watch?v=qiA_5oti7s8)
+This question was possibly duplicated with a more recent answer: September 14th, 2021 Livestream Q&A: Tell me something good about Dual Body Slots? [https://www.youtube.com/watch?v=47I5UvpAn98](https://www.youtube.com/watch?v=47I5UvpAn98)
 
 
 ### Topics

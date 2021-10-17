@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Seasonal Events](../../../topics/satisfactory-updates/seasonal-events.md) > FICS⁕MAS
 
+## September 14th, 2021 Livestream
+* [Q&A: Is FICS⁕MAS returning this year?](../../../transcriptions/yt-pcMtby2DOxQ.md) [https://www.youtube.com/watch?v=pcMtby2DOxQ](https://www.youtube.com/watch?v=pcMtby2DOxQ)
+* [Community FYI: FICS⁕MAS was fun, if you can let it run without changes that would be great](../../../transcriptions/yt-ESOzJtKUlUg.md) [https://www.youtube.com/watch?v=ESOzJtKUlUg](https://www.youtube.com/watch?v=ESOzJtKUlUg)
+
 ## August 24th, 2021 Livestream
 * [Q&A: What's the story behind the two FICS⁕MAS items?](../../../transcriptions/yt--Z0gUaZ6k_0.md) [https://www.youtube.com/watch?v=-Z0gUaZ6k_0](https://www.youtube.com/watch?v=-Z0gUaZ6k_0)
 * [Q&A: Any new rumours about in-game Events, or whether FICS⁕MAS will be coming back?](../../../transcriptions/yt-GR0xqeexmGI.md) [https://www.youtube.com/watch?v=GR0xqeexmGI](https://www.youtube.com/watch?v=GR0xqeexmGI)

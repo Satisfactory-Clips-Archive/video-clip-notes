@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > [Power Management](../../../../topics/features/power-management.md) > [Nuclear Energy](../../../../topics/features/power-management/nuclear-energy.md) > Nuclear Waste
 
+## September 14th, 2021 Livestream
+* [Q&A: If and when Dedicated Servers go live, how will Nuclear Power & Nuclear Waste work?](../../../../transcriptions/yt-g4VNWQOeiyw.md) [https://www.youtube.com/watch?v=g4VNWQOeiyw](https://www.youtube.com/watch?v=g4VNWQOeiyw)
+
 ## May 4th, 2021 Livestream
 * [Snutt Talk: Taking radiation damage when there's no radioactive materials in your inventory](../../../../transcriptions/yt-JKh7fGk995o.md) [https://www.youtube.com/watch?v=JKh7fGk995o](https://www.youtube.com/watch?v=JKh7fGk995o)
 

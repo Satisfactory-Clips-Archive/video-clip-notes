@@ -23,6 +23,11 @@ date: Last Modified
 * [Tom](../topics/community/tom.md)
 * [Wiki](../topics/community/wiki.md)
 
+## September 14th, 2021 Livestream
+* [Community FYI: LOL](../transcriptions/yt-ygZQo28Shg8.md) [https://www.youtube.com/watch?v=ygZQo28Shg8](https://www.youtube.com/watch?v=ygZQo28Shg8)
+* [Snutt & Jace Talk: Satisfactory Stream Bingo](../transcriptions/yt-BnKTxxMyQq0.md) [https://www.youtube.com/watch?v=BnKTxxMyQq0](https://www.youtube.com/watch?v=BnKTxxMyQq0)
+* [Q&A: Do you know how many active players the game currently has?](../transcriptions/yt-G1ygZux_HPU.md) [https://www.youtube.com/watch?v=G1ygZux_HPU](https://www.youtube.com/watch?v=G1ygZux_HPU)
+
 ## August 31st, 2021 Livestream
 * [Snutt & Jace Talk: Community Response to Update 5 Teasers](../transcriptions/yt-FOd34rE_7-w.md) [https://www.youtube.com/watch?v=FOd34rE_7-w](https://www.youtube.com/watch?v=FOd34rE_7-w)
 * [Community Highlights: Verify your game files](../transcriptions/yt-PPjVCg2ErKs.md) [https://www.youtube.com/watch?v=PPjVCg2ErKs](https://www.youtube.com/watch?v=PPjVCg2ErKs)

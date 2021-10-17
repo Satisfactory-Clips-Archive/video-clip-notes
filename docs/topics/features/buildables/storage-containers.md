@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Storage Containers
 
+## September 14th, 2021 Livestream
+* [Q&A: Will Storage be updated or is it in a good place at the moment?](../../../transcriptions/yt-ZC4yrPdg0LY.md) [https://www.youtube.com/watch?v=ZC4yrPdg0LY](https://www.youtube.com/watch?v=ZC4yrPdg0LY)
+* [Q&A: Storage with slots intentionally disabled to limit how much is stored?](../../../transcriptions/yt-xL7xZ3W_MQ0.md) [https://www.youtube.com/watch?v=xL7xZ3W_MQ0](https://www.youtube.com/watch?v=xL7xZ3W_MQ0)
+
 ## August 17th, 2021 Livestream
 * [Q&A: Thoughts on adding smaller Storage bins?](../../../transcriptions/yt-KsKSqvk27Qk.md) [https://www.youtube.com/watch?v=KsKSqvk27Qk](https://www.youtube.com/watch?v=KsKSqvk27Qk)
 

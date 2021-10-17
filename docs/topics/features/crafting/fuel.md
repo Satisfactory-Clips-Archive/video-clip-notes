@@ -5,6 +5,17 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Crafting](../../../topics/features/crafting.md) > Fuel
 
+## September 14th, 2021 Livestream
+* [Snutt & Jace Talk: Truck Station Fuel calculated per-route](../../../transcriptions/yt-HwzZF04gWuk.md) [https://www.youtube.com/watch?v=HwzZF04gWuk](https://www.youtube.com/watch?v=HwzZF04gWuk)
+* [Q&A: Will obstacles make Vehicles run out of Fuel?](../../../transcriptions/yt-JSgHmr6Fp-A.md) [https://www.youtube.com/watch?v=JSgHmr6Fp-A](https://www.youtube.com/watch?v=JSgHmr6Fp-A)
+* [Q&A: Will a Truck Station supply enough Fuel for a return journey?](../../../transcriptions/yt-bySSNawmTXc.md) [https://www.youtube.com/watch?v=bySSNawmTXc](https://www.youtube.com/watch?v=bySSNawmTXc)
+* [Q&A: What happens if a Vehicle arrives at a Truck Station that doesn't have enough Fuel?](../../../transcriptions/yt-iMt6mEDYuCk.md) [https://www.youtube.com/watch?v=iMt6mEDYuCk](https://www.youtube.com/watch?v=iMt6mEDYuCk)
+* [Q&A: Do the calculations incorporate different types of Fuel?](../../../transcriptions/yt-z7pTOfVjY6E.md) [https://www.youtube.com/watch?v=z7pTOfVjY6E](https://www.youtube.com/watch?v=z7pTOfVjY6E)
+* [Q&A: Are the calculations done before a Truck does a route or is it an average, or... ?](../../../transcriptions/yt-KviSQmC0sr8.md) [https://www.youtube.com/watch?v=KviSQmC0sr8](https://www.youtube.com/watch?v=KviSQmC0sr8)
+* Q&A: What if it's mixed Fuel inputted? [https://www.youtube.com/watch?v=lxD_ayHTvsI](https://www.youtube.com/watch?v=lxD_ayHTvsI)
+* [Q&A: Is the new Truck Station Fuel behaviour behind a switch so it can still take all the Fuel?](../../../transcriptions/yt-zgPbajCrwqQ.md) [https://www.youtube.com/watch?v=zgPbajCrwqQ](https://www.youtube.com/watch?v=zgPbajCrwqQ)
+* Q&A: Can Trucks get stuck if they use more Fuel than expected? [https://www.youtube.com/watch?v=k7PY6CVBSnA](https://www.youtube.com/watch?v=k7PY6CVBSnA)
+
 ## September 10th, 2021 Video
 * [Jace Talk: Vehicles & Fuel usage](../../../transcriptions/yt-kh3lVrBdjFE,307.97433333333333,384.95123333333333.md) [https://youtube.com/embed/kh3lVrBdjFE?autoplay=1&start=307&end=385](https://youtube.com/embed/kh3lVrBdjFE?autoplay=1&start=307&end=385)
 

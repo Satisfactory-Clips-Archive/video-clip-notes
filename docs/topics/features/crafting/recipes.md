@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../../topics.md) > Features > [Crafting](../../../topics/features/crafting.md) > Recipes
 * [Alternate Recipes](../../../topics/features/crafting/recipes/alternate-recipes.md)
 
+## September 14th, 2021 Livestream
+* [Q&A: Will there be any Recipe changes in Update 5?](../../../transcriptions/yt-vUf3qor9P5Q.md) [https://www.youtube.com/watch?v=vUf3qor9P5Q](https://www.youtube.com/watch?v=vUf3qor9P5Q)
+
 ## September 7th, 2021 Livestream
 * [Q&A: Are there going to be changes to Recipes like there was in Update 4?](../../../transcriptions/yt-wnQBLg0EgUE.md) [https://www.youtube.com/watch?v=wnQBLg0EgUE](https://www.youtube.com/watch?v=wnQBLg0EgUE)
 * [Q&A: Will Update 5 mess with early-Tier Recipes?](../../../transcriptions/yt-_tjZm954YB8.md) [https://www.youtube.com/watch?v=_tjZm954YB8](https://www.youtube.com/watch?v=_tjZm954YB8)

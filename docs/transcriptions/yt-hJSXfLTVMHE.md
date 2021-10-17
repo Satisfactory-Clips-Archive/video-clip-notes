@@ -9,7 +9,7 @@ topics:
 # [June 29th, 2021 Livestream](../2021-06-29.md)
 ## Q&A: Any plans for supporting Dedicated Servers on Linux?
 https://www.youtube.com/watch?v=hJSXfLTVMHE
-This question was possibly duplicated with a more recent answer: [September 7th, 2021 Livestream Q&A: Dedicated Servers on Linux?](./yt-Sa-E2cCLdbI.md) [https://www.youtube.com/watch?v=Sa-E2cCLdbI](https://www.youtube.com/watch?v=Sa-E2cCLdbI)
+This question was possibly duplicated with a more recent answer: [September 14th, 2021 Livestream Q&A: Linux hosting, please?](./yt-bF5wXdGjeG0.md) [https://www.youtube.com/watch?v=bF5wXdGjeG0](https://www.youtube.com/watch?v=bF5wXdGjeG0)
 
 
 ### Topics

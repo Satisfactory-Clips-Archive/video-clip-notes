@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Coffee Stainers](../../../topics/coffee-stainers.md) > [Jace](../../../topics/coffee-stainers/jace.md) > Jace Art
 
+## September 17th, 2021 Video
+* [Jace Talk: Yum Dawg Merch](../../../transcriptions/yt-HJyfSle4o_U,,4.5045.md) [https://youtube.com/clip/Ugkx12Ctz9Bmf6NoZ3xxk5DKcC8gNcu9k_Kt](https://youtube.com/clip/Ugkx12Ctz9Bmf6NoZ3xxk5DKcC8gNcu9k_Kt)
+
 ## August 10th, 2021 Livestream
 * [Q&A: Did Jace paint the Doggo?](../../../transcriptions/yt-UBj-gw_Jv_8.md) [https://www.youtube.com/watch?v=UBj-gw_Jv_8](https://www.youtube.com/watch?v=UBj-gw_Jv_8)
 * [Q&A: Can Jace tease or Troll us?](../../../transcriptions/yt-_M2lFTR8Xh0.md) [https://www.youtube.com/watch?v=_M2lFTR8Xh0](https://www.youtube.com/watch?v=_M2lFTR8Xh0)

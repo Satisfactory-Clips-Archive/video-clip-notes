@@ -10,7 +10,7 @@ topics:
 # [April 27th, 2021 Livestream](../2021-04-27.md)
 ## Q&A: Can we get signs soon?
 https://www.youtube.com/watch?v=wUy8zszYfdQ
-This question was possibly duplicated with a more recent answer: August 17th, 2021 Livestream Q&A: Will you add Signs in the game? [https://www.youtube.com/watch?v=bmLgjjNst3M](https://www.youtube.com/watch?v=bmLgjjNst3M)
+This question was possibly duplicated with a more recent answer: [September 14th, 2021 Livestream Q&A: Any news about Signs?](./yt-9VRy5YUkq5A.md) [https://www.youtube.com/watch?v=9VRy5YUkq5A](https://www.youtube.com/watch?v=9VRy5YUkq5A)
 
 
 ### Topics

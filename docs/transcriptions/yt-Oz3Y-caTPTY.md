@@ -9,7 +9,7 @@ topics:
 # [June 15th, 2021 Livestream](../2021-06-15.md)
 ## Q&A: Have you considered making actual Hyper Tube boosters?
 https://www.youtube.com/watch?v=Oz3Y-caTPTY
-This question was possibly duplicated with a more recent answer: [June 29th, 2021 Livestream Q&A: What's your opinion on Hyper Tube accelerators?](./yt-HmJNJUmQyGQ.md) [https://www.youtube.com/watch?v=HmJNJUmQyGQ](https://www.youtube.com/watch?v=HmJNJUmQyGQ)
+This question was possibly duplicated with a more recent answer: [September 14th, 2021 Livestream Q&A: Do you guys like how Hyper Tubes turned out with cannons?](./yt-LG0wAne1mR8.md) [https://www.youtube.com/watch?v=LG0wAne1mR8](https://www.youtube.com/watch?v=LG0wAne1mR8)
 
 
 ### Topics

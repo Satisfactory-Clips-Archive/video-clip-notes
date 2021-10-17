@@ -8,7 +8,7 @@ topics:
 # [February 2nd, 2021 Livestream](../2021-02-02.md)
 ## Q&A: Multiplayer, how's it going- when came better sync in Multiplayer?
 https://www.youtube.com/watch?v=bfXUQNNIPRY
-This question was possibly duplicated with a more recent answer: [June 8th, 2021 Livestream Q&A: What's the current Multiplayer status?](./yt-doX5Pn5A6Tc.md) [https://www.youtube.com/watch?v=doX5Pn5A6Tc](https://www.youtube.com/watch?v=doX5Pn5A6Tc)
+This question was possibly duplicated with a more recent answer: [September 14th, 2021 Livestream Q&A: Are there an plans to fix Multiplayer with the next Update?](./yt-ayc4aQbCQP8.md) [https://www.youtube.com/watch?v=ayc4aQbCQP8](https://www.youtube.com/watch?v=ayc4aQbCQP8)
 
 
 ### Topics

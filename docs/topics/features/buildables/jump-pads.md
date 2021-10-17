@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Jump Pads
 
+## September 14th, 2021 Livestream
+* [Q&A: What if I use Jump Pads now, though?](../../../transcriptions/yt-pRnGOwOwMaM.md) [https://www.youtube.com/watch?v=pRnGOwOwMaM](https://www.youtube.com/watch?v=pRnGOwOwMaM)
+* Community FYI: Vehicles + Jump Pads = Drone [https://www.youtube.com/watch?v=RgKdoinOVhc](https://www.youtube.com/watch?v=RgKdoinOVhc)
+
 ## June 1st, 2021 Livestream
 * [Snutt Talk: How the game starts](../../../transcriptions/yt-onchLhZOONY.md) [https://www.youtube.com/watch?v=onchLhZOONY](https://www.youtube.com/watch?v=onchLhZOONY)
 

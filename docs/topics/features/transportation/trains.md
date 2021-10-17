@@ -6,6 +6,12 @@ date: Last Modified
 # [Topics](../../../topics.md) > Features > Transportation > Trains
 * [Train Signals](../../../topics/features/transportation/trains/train-signals.md)
 
+## September 14th, 2021 Livestream
+* [Q&A: When will Trains be fixed? (Part 1)](../../../transcriptions/yt-AsHymUPXtrU.md) [https://www.youtube.com/watch?v=AsHymUPXtrU](https://www.youtube.com/watch?v=AsHymUPXtrU)
+* [Q&A: When will Trains be fixed? (Part 2)](../../../transcriptions/yt-UrUHlWoT-cc.md) [https://www.youtube.com/watch?v=UrUHlWoT-cc](https://www.youtube.com/watch?v=UrUHlWoT-cc)
+* [Q&A: When will Trains be fixed? (Part 3)](../../../transcriptions/yt-_n-R6qpB1FU.md) [https://www.youtube.com/watch?v=_n-R6qpB1FU](https://www.youtube.com/watch?v=_n-R6qpB1FU)
+* [Q&A: Do you plan on making Tankers for Trucks & Trains?](../../../transcriptions/yt-vS1x7O20VDA.md) [https://www.youtube.com/watch?v=vS1x7O20VDA](https://www.youtube.com/watch?v=vS1x7O20VDA)
+
 ## August 31st, 2021 Livestream
 * [Trolling: Trains confirmed for Update 5](../../../transcriptions/yt-MZfzoZh_uO0.md) [https://www.youtube.com/watch?v=MZfzoZh_uO0](https://www.youtube.com/watch?v=MZfzoZh_uO0)
 

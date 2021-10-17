@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Ladders
 
+## September 14th, 2021 Livestream
+* [Q&A: Will there be a hotkey for going down Ladders faster?](../../../transcriptions/yt-Bql_P71iLV8.md) [https://www.youtube.com/watch?v=Bql_P71iLV8](https://www.youtube.com/watch?v=Bql_P71iLV8)
+
 ## June 1st, 2021 Livestream
 * [Snutt & Jace Talk: Setting up a Coal Generator (Part 4)](../../../transcriptions/yt-Qrxb07LY0xo.md) [https://www.youtube.com/watch?v=Qrxb07LY0xo](https://www.youtube.com/watch?v=Qrxb07LY0xo)
 * [Trolling: Climbing mechanic in the game](../../../transcriptions/yt-GQwO3ADzdfE.md) [https://www.youtube.com/watch?v=GQwO3ADzdfE](https://www.youtube.com/watch?v=GQwO3ADzdfE)

@@ -10,7 +10,7 @@ topics:
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Q&A: Will Trees respawning being worked on?
 https://www.youtube.com/watch?v=59eW6SBaiNk
-This question was possibly duplicated with a more recent answer: [September 7th, 2021 Livestream Q&A: When are you guys going to fix the Trees of life that respawn all the time?](./yt-0Pzj08Xv_eM.md) [https://www.youtube.com/watch?v=0Pzj08Xv_eM](https://www.youtube.com/watch?v=0Pzj08Xv_eM)
+This question was possibly duplicated with a more recent answer: [September 14th, 2021 Livestream Q&A: Will there be any fixes for Multiplayer sync issues like for instances Trees being cut?](./yt-3y6aj8vqx38.md) [https://www.youtube.com/watch?v=3y6aj8vqx38](https://www.youtube.com/watch?v=3y6aj8vqx38)
 
 
 ### Topics

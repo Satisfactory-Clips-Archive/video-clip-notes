@@ -26,6 +26,7 @@ date: Last Modified
 * [Neshkor](../topics/coffee-stainers/neshkor.md)
 * [Oscar](../topics/coffee-stainers/oscar.md)
 * [Pontus](../topics/coffee-stainers/pontus.md)
+* [Rasmus](../topics/coffee-stainers/rasmus.md)
 * [Ros](../topics/coffee-stainers/ros.md)
 * [Simon](../topics/coffee-stainers/simon.md)
 * [Snutt](../topics/coffee-stainers/snutt.md)
@@ -35,6 +36,10 @@ date: Last Modified
 * [Tobias](../topics/coffee-stainers/tobias.md)
 * [Torsten](../topics/coffee-stainers/torsten.md)
 * [Uzu](../topics/coffee-stainers/uzu.md)
+
+## September 14th, 2021 Livestream
+* [Q&A: When will you be returning to the office?](../transcriptions/yt-21QIrQXv2f4.md) [https://www.youtube.com/watch?v=21QIrQXv2f4](https://www.youtube.com/watch?v=21QIrQXv2f4)
+* [Q&A: Do you get an employee discount when you buy the game?](../transcriptions/yt-GrqLG3yidw4.md) [https://www.youtube.com/watch?v=GrqLG3yidw4](https://www.youtube.com/watch?v=GrqLG3yidw4)
 
 ## August 31st, 2021 Livestream
 * [Q&A: Do Devs work remotely?](../transcriptions/yt-4xhFmYPt9g8.md) [https://www.youtube.com/watch?v=4xhFmYPt9g8](https://www.youtube.com/watch?v=4xhFmYPt9g8)

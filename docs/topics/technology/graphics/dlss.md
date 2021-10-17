@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Technology](../../../topics/technology.md) > [Graphics](../../../topics/technology/graphics.md) > DLSS
 
+## September 17th, 2021 Video
+* [Q&A: Will you be adding DLSS support?](../../../transcriptions/yt-HJyfSle4o_U,130.96416666666667,185.6855.md) [https://youtube.com/clip/UgkxJt7ivD3SGgOqAlNBbIb_DrHpyDaIOikp](https://youtube.com/clip/UgkxJt7ivD3SGgOqAlNBbIb_DrHpyDaIOikp)
+
 ## August 31st, 2021 Livestream
 * [Q&A: Did you ever say if DLSS is coming?](../../../transcriptions/yt-piDbzK70HdU.md) [https://www.youtube.com/watch?v=piDbzK70HdU](https://www.youtube.com/watch?v=piDbzK70HdU)
 

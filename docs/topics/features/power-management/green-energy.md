@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Power Management](../../../topics/features/power-management.md) > Green Energy
 
+## September 14th, 2021 Livestream
+* [Q&A: What about water/solar energy?](../../../transcriptions/yt-mNWjxU1WVtw.md) [https://www.youtube.com/watch?v=mNWjxU1WVtw](https://www.youtube.com/watch?v=mNWjxU1WVtw)
+
 ## August 31st, 2021 Livestream
 * [Q&A: Are you planning on adding more Power Generators?](../../../transcriptions/yt-xUKGbBoWRtM.md) [https://www.youtube.com/watch?v=xUKGbBoWRtM](https://www.youtube.com/watch?v=xUKGbBoWRtM)
 

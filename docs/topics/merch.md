@@ -7,6 +7,9 @@ date: Last Modified
 * [EU Merch Store](../topics/merch/eu-merch-store.md)
 * [Merch Prototypes](../topics/merch/merch-prototypes.md)
 
+## September 17th, 2021 Video
+* [Jace Talk: Yum Dawg Merch](../transcriptions/yt-HJyfSle4o_U,,4.5045.md) [https://youtube.com/clip/Ugkx12Ctz9Bmf6NoZ3xxk5DKcC8gNcu9k_Kt](https://youtube.com/clip/Ugkx12Ctz9Bmf6NoZ3xxk5DKcC8gNcu9k_Kt)
+
 ## September 7th, 2021 Livestream
 * [Q&A: Any news on switching the Mug from porcelain to metal?](../transcriptions/yt-X7Eu3q-Y5Z8.md) [https://www.youtube.com/watch?v=X7Eu3q-Y5Z8](https://www.youtube.com/watch?v=X7Eu3q-Y5Z8)
 * Q&A: Make keycaps as Merch? [https://www.youtube.com/watch?v=MgzUxL3jGfs](https://www.youtube.com/watch?v=MgzUxL3jGfs)

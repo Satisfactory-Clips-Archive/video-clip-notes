@@ -10,9 +10,8 @@ topics:
 ## Q&A: Can we tame and ride the spiders?
 https://www.youtube.com/watch?v=U0ZbXSRFOdw
 <details>
-<summary>This question may have been asked previously at least 2 other times, as recently as November 2020 and as early as August 2020.</summary>
+<summary>This question may have been asked previously at least 1 other time, as recently as August 2020.</summary>
 
-* [November 10th, 2020 Livestream Q&A: Strange Creature Mounts?](./yt-EeYyKTOE5mQ.md) [https://www.youtube.com/watch?v=EeYyKTOE5mQ](https://www.youtube.com/watch?v=EeYyKTOE5mQ)
 * August 18th, 2020 Livestream Q&A: Are we ever going to add taming mounts? [https://clips.twitch.tv/BoldAgileSquidDoggo](https://clips.twitch.tv/BoldAgileSquidDoggo)
 </details>
 

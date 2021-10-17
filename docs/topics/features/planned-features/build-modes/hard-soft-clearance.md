@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > Planned Features > [Build Modes](../../../../topics/features/planned-features/build-modes.md) > Hard & Soft Clearance
 
+## September 14th, 2021 Livestream
+* [Q&A: Can the Clearance mode be configurable in setting?](../../../../transcriptions/yt-sdtsN5bem7c.md) [https://www.youtube.com/watch?v=sdtsN5bem7c](https://www.youtube.com/watch?v=sdtsN5bem7c)
+* [Q&A: Does Soft Clearance apply to Hyper Tubes?](../../../../transcriptions/yt-ekzv2HksCOk.md) [https://www.youtube.com/watch?v=ekzv2HksCOk](https://www.youtube.com/watch?v=ekzv2HksCOk)
+
 ## September 7th, 2021 Livestream
 * [Q&A: Why is Power Pole considered Hard Clearance?](../../../../transcriptions/yt-TKH7DyKIets.md) [https://www.youtube.com/watch?v=TKH7DyKIets](https://www.youtube.com/watch?v=TKH7DyKIets)
 * [Q&A: Will Splitters & Mergers have Soft or Hard Clearance?](../../../../transcriptions/yt-1sI1tJLivp4.md) [https://www.youtube.com/watch?v=1sI1tJLivp4](https://www.youtube.com/watch?v=1sI1tJLivp4)

@@ -14,6 +14,9 @@ date: Last Modified
 * [Pollution](../../topics/features/requested-features/pollution.md)
 * [Third-person View](../../topics/features/requested-features/third-person-view.md)
 
+## September 14th, 2021 Livestream
+* [Q&A: Indoor ventilation system?](../../transcriptions/yt-CJEPNuOT0YY.md) [https://www.youtube.com/watch?v=CJEPNuOT0YY](https://www.youtube.com/watch?v=CJEPNuOT0YY)
+
 ## September 7th, 2021 Livestream
 * [Community FYI: There's a feature on the QA Site called world wide grid has almost 500 upvotes](../../transcriptions/yt-9QnK3VVyZsQ.md) [https://www.youtube.com/watch?v=9QnK3VVyZsQ](https://www.youtube.com/watch?v=9QnK3VVyZsQ)
 

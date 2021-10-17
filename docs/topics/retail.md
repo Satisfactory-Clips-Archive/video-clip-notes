@@ -9,6 +9,9 @@ date: Last Modified
 * [GeForce Now](../topics/retail/geforce-now.md)
 * [Steam Store](../topics/retail/steam-store.md)
 
+## September 14th, 2021 Livestream
+* [Q&A: Do you get an employee discount when you buy the game?](../transcriptions/yt-GrqLG3yidw4.md) [https://www.youtube.com/watch?v=GrqLG3yidw4](https://www.youtube.com/watch?v=GrqLG3yidw4)
+
 ## September 7th, 2021 Livestream
 * Q&A: Are you planning on having a sale on release? [https://www.youtube.com/watch?v=GR109lb7XtE](https://www.youtube.com/watch?v=GR109lb7XtE)
 * [Q&A: How many copies of the game have been purchased so far?](../transcriptions/yt-LbYG8qIeJ80.md) [https://www.youtube.com/watch?v=LbYG8qIeJ80](https://www.youtube.com/watch?v=LbYG8qIeJ80)

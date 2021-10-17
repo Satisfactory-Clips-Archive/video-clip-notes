@@ -8,7 +8,7 @@ topics:
 # [April 6th, 2021 Livestream](../2021-04-06.md)
 ## Q&A: Multiple Body slots, when?
 https://www.youtube.com/watch?v=Xa03UsMWsjo
-This question was possibly duplicated with a more recent answer: [August 10th, 2021 Livestream Q&A: Will we be able to equip more than one item?](./yt-qiA_5oti7s8.md) [https://www.youtube.com/watch?v=qiA_5oti7s8](https://www.youtube.com/watch?v=qiA_5oti7s8)
+This question was possibly duplicated with a more recent answer: September 14th, 2021 Livestream Q&A: Tell me something good about Dual Body Slots? [https://www.youtube.com/watch?v=47I5UvpAn98](https://www.youtube.com/watch?v=47I5UvpAn98)
 
 
 ### Topics

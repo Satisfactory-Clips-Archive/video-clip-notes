@@ -5,6 +5,13 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > Transportation > [Vehicles](../../../../topics/features/transportation/vehicles.md) > Truck
 
+## September 14th, 2021 Livestream
+* [Community FYI: Base Defense confirmed](../../../../transcriptions/yt-D6z9W_JVTyE.md) [https://www.youtube.com/watch?v=D6z9W_JVTyE](https://www.youtube.com/watch?v=D6z9W_JVTyE)
+* [Snutt & Jace Talk: Changes to Truck Station](../../../../transcriptions/yt-AhdmXJTAAsc.md) [https://www.youtube.com/watch?v=AhdmXJTAAsc](https://www.youtube.com/watch?v=AhdmXJTAAsc)
+* [Snutt & Jace Talk: Changes to Truck Station UI](../../../../transcriptions/yt-VAQDLsfK-Io.md) [https://www.youtube.com/watch?v=VAQDLsfK-Io](https://www.youtube.com/watch?v=VAQDLsfK-Io)
+* [Q&A: Do you plan on making Tankers for Trucks & Trains?](../../../../transcriptions/yt-vS1x7O20VDA.md) [https://www.youtube.com/watch?v=vS1x7O20VDA](https://www.youtube.com/watch?v=vS1x7O20VDA)
+* Q&A: Can Trucks get stuck if they use more Fuel than expected? [https://www.youtube.com/watch?v=k7PY6CVBSnA](https://www.youtube.com/watch?v=k7PY6CVBSnA)
+
 ## July 13th, 2021 Livestream
 * [Q&A: Will Truck Stations, Trucks & Tractors be renamable?](../../../../transcriptions/yt-xOPbMP6jy6E.md) [https://www.youtube.com/watch?v=xOPbMP6jy6E](https://www.youtube.com/watch?v=xOPbMP6jy6E)
 

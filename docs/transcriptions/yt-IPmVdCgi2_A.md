@@ -9,7 +9,7 @@ topics:
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: Tanker Trucks?
 https://www.youtube.com/watch?v=IPmVdCgi2_A
-This question was possibly duplicated with a more recent answer: [May 11th, 2021 Livestream Q&A: Can you add Trucks that carry liquids?](./yt-2EiZU9aWekQ.md) [https://www.youtube.com/watch?v=2EiZU9aWekQ](https://www.youtube.com/watch?v=2EiZU9aWekQ)
+This question was possibly duplicated with a more recent answer: [September 14th, 2021 Livestream Q&A: Do you plan on making Tankers for Trucks & Trains?](./yt-vS1x7O20VDA.md) [https://www.youtube.com/watch?v=vS1x7O20VDA](https://www.youtube.com/watch?v=vS1x7O20VDA)
 
 
 ### Topics

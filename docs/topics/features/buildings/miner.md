@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > Miner
 
+## September 14th, 2021 Livestream
+* [Q&A: 2 Inputs on Truck Station hinting at 2 Outputs on Mk.3 Miner?](../../../transcriptions/yt-tG5bTwKIzA4.md) [https://www.youtube.com/watch?v=tG5bTwKIzA4](https://www.youtube.com/watch?v=tG5bTwKIzA4)
+
 ## August 31st, 2021 Livestream
 * [Q&A: Two outputs for Mk.3 Miners?](../../../transcriptions/yt-Nn8tgBZ8s7M.md) [https://www.youtube.com/watch?v=Nn8tgBZ8s7M](https://www.youtube.com/watch?v=Nn8tgBZ8s7M)
 

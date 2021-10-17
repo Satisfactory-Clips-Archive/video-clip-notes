@@ -5,6 +5,12 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > QA Site
 
+## September 14th, 2021 Livestream
+* [Q&A: Why post on the QA Site, you still haven't added Golf?](../transcriptions/yt-6Jp9X2BNpos.md) [https://www.youtube.com/watch?v=6Jp9X2BNpos](https://www.youtube.com/watch?v=6Jp9X2BNpos)
+* [Q&A: On the QA Site does a post have to have x hundreds of votes to be implemented?](../transcriptions/yt-TgbhiN1sgqo.md) [https://www.youtube.com/watch?v=TgbhiN1sgqo](https://www.youtube.com/watch?v=TgbhiN1sgqo)
+* [Q&A: Can I see the posts on the QA Site ordered by upvotes?](../transcriptions/yt-SCl9r_bmSjw.md) [https://www.youtube.com/watch?v=SCl9r_bmSjw](https://www.youtube.com/watch?v=SCl9r_bmSjw)
+* [Q&A: How do I request a new feature?](../transcriptions/yt-mmnUlPK4Ouw.md) [https://www.youtube.com/watch?v=mmnUlPK4Ouw](https://www.youtube.com/watch?v=mmnUlPK4Ouw)
+
 ## September 7th, 2021 Livestream
 * [Community FYI: There's a feature on the QA Site called world wide grid has almost 500 upvotes](../transcriptions/yt-9QnK3VVyZsQ.md) [https://www.youtube.com/watch?v=9QnK3VVyZsQ](https://www.youtube.com/watch?v=9QnK3VVyZsQ)
 * Q&A: 1.0 at 5000 Upvotes [https://www.youtube.com/watch?v=jEt3dU9LTw4](https://www.youtube.com/watch?v=jEt3dU9LTw4)

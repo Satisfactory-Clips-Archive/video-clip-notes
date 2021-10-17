@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Environment](../../topics/environment.md) > Plants
 
+## September 14th, 2021 Livestream
+* [Q&A: Will there be any fixes for Multiplayer sync issues like for instances Trees being cut?](../../transcriptions/yt-3y6aj8vqx38.md) [https://www.youtube.com/watch?v=3y6aj8vqx38](https://www.youtube.com/watch?v=3y6aj8vqx38)
+
 ## September 7th, 2021 Livestream
 * [Q&A: When are you guys going to fix the Trees of life that respawn all the time?](../../transcriptions/yt-0Pzj08Xv_eM.md) [https://www.youtube.com/watch?v=0Pzj08Xv_eM](https://www.youtube.com/watch?v=0Pzj08Xv_eM)
 

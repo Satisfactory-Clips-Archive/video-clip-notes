@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Trolling
 
+## September 14th, 2021 Livestream
+* [Community FYI: Base Defense confirmed](../transcriptions/yt-D6z9W_JVTyE.md) [https://www.youtube.com/watch?v=D6z9W_JVTyE](https://www.youtube.com/watch?v=D6z9W_JVTyE)
+* [Q&A: Didn't Snutt get fired last week?](../transcriptions/yt-BmRrPoGbKYw.md) [https://www.youtube.com/watch?v=BmRrPoGbKYw](https://www.youtube.com/watch?v=BmRrPoGbKYw)
+* [Snutt & Jace Talk: Trolling about Update 5 features](../transcriptions/yt-6-6HIEaCgcs.md) [https://www.youtube.com/watch?v=6-6HIEaCgcs](https://www.youtube.com/watch?v=6-6HIEaCgcs)
+
 ## September 7th, 2021 Livestream
 * [Q&A: Can we get Pumps that push liquid down?](../transcriptions/yt-POjQa1nqb4U.md) [https://www.youtube.com/watch?v=POjQa1nqb4U](https://www.youtube.com/watch?v=POjQa1nqb4U)
 * [Q&A: Can we have Horizontal Stairs?](../transcriptions/yt-svdxFzidY8A.md) [https://www.youtube.com/watch?v=svdxFzidY8A](https://www.youtube.com/watch?v=svdxFzidY8A)

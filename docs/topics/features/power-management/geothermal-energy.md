@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Power Management](../../../topics/features/power-management.md) > Geothermal Energy
 
+## September 14th, 2021 Livestream
+* [Q&A: Are you guys happy with the state of Geothermal Generators?](../../../transcriptions/yt-Qf-63bFrhnM.md) [https://www.youtube.com/watch?v=Qf-63bFrhnM](https://www.youtube.com/watch?v=Qf-63bFrhnM)
+
 ## March 30th, 2021 Livestream
 * [Q&A: What motivated the change for the Geyser node?](../../../transcriptions/yt-QZ4LfHmSXOc.md) [https://www.youtube.com/watch?v=QZ4LfHmSXOc](https://www.youtube.com/watch?v=QZ4LfHmSXOc)
 * [Community FYI: Geothermal needs Super Computers? (Part 1)](../../../transcriptions/yt-lWYVhh9tMHg.md) [https://www.youtube.com/watch?v=lWYVhh9tMHg](https://www.youtube.com/watch?v=lWYVhh9tMHg)

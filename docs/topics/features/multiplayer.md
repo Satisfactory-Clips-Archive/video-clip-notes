@@ -6,6 +6,12 @@ date: Last Modified
 # [Topics](../../topics.md) > Features > Multiplayer
 * [Crossplay](../../topics/features/multiplayer/crossplay.md)
 
+## September 14th, 2021 Livestream
+* [Q&A: When will Trains be fixed? (Part 2)](../../transcriptions/yt-UrUHlWoT-cc.md) [https://www.youtube.com/watch?v=UrUHlWoT-cc](https://www.youtube.com/watch?v=UrUHlWoT-cc)
+* [Q&A: When will Trains be fixed? (Part 3)](../../transcriptions/yt-_n-R6qpB1FU.md) [https://www.youtube.com/watch?v=_n-R6qpB1FU](https://www.youtube.com/watch?v=_n-R6qpB1FU)
+* [Q&A: Will there be any fixes for Multiplayer sync issues like for instances Trees being cut?](../../transcriptions/yt-3y6aj8vqx38.md) [https://www.youtube.com/watch?v=3y6aj8vqx38](https://www.youtube.com/watch?v=3y6aj8vqx38)
+* [Q&A: Are there an plans to fix Multiplayer with the next Update?](../../transcriptions/yt-ayc4aQbCQP8.md) [https://www.youtube.com/watch?v=ayc4aQbCQP8](https://www.youtube.com/watch?v=ayc4aQbCQP8)
+
 ## September 7th, 2021 Livestream
 * Q&A: Are we getting Multiplayer soon, or is it next Update? [https://www.youtube.com/watch?v=BiJvV3DwHFc](https://www.youtube.com/watch?v=BiJvV3DwHFc)
 

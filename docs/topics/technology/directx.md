@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > DirectX
 
+## September 17th, 2021 Video
+* [Jace Talk: Vulkan & DirectX 12 support](../../transcriptions/yt-HJyfSle4o_U,195.42856666666668,251.98506666666668.md) [https://youtube.com/clip/UgkxYXdoUtdawpwfk5wvl0-PzcWyc4RqTr1U](https://youtube.com/clip/UgkxYXdoUtdawpwfk5wvl0-PzcWyc4RqTr1U)
+* [Q&A: What's DirectX 12 & Vulkan going to do for me?](../../transcriptions/yt-HJyfSle4o_U,252.01843333333335,276.1759.md) [https://youtube.com/clip/UgkxuBqrfJx5somXI4FuxBvHWMulmqkA6KPZ](https://youtube.com/clip/UgkxuBqrfJx5somXI4FuxBvHWMulmqkA6KPZ)
+
 ## June 29th, 2021 Livestream
 * [Q&A: DirectX 12 support?](../../transcriptions/yt-ZZKygLGMC7w.md) [https://www.youtube.com/watch?v=ZZKygLGMC7w](https://www.youtube.com/watch?v=ZZKygLGMC7w)
 

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > Planned Features > [Build Modes](../../../../topics/features/planned-features/build-modes.md) > Zooping
 
+## September 14th, 2021 Livestream
+* [Q&A: Will Zooping be available at Tier 0 or later?](../../../../transcriptions/yt-fglY9hmDe28.md) [https://www.youtube.com/watch?v=fglY9hmDe28](https://www.youtube.com/watch?v=fglY9hmDe28)
+
 ## September 7th, 2021 Livestream
 * [Snutt & Jace Talk: Zooping](../../../../transcriptions/yt-k5bNkBCo_ys.md) [https://www.youtube.com/watch?v=k5bNkBCo_ys](https://www.youtube.com/watch?v=k5bNkBCo_ys)
 * [Community FYI: Smart! does too much (for base game)](../../../../transcriptions/yt-L1_3oP3LwOc.md) [https://www.youtube.com/watch?v=L1_3oP3LwOc](https://www.youtube.com/watch?v=L1_3oP3LwOc)

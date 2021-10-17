@@ -8,7 +8,7 @@ topics:
 # [March 2nd, 2021 Livestream](../2021-03-02.md)
 ## Q&A: When are we going to be able to use more than one Equipment at a time?
 https://www.youtube.com/watch?v=w6VfAW7WD1w
-This question was possibly duplicated with a more recent answer: [August 10th, 2021 Livestream Q&A: Will we be able to equip more than one item?](./yt-qiA_5oti7s8.md) [https://www.youtube.com/watch?v=qiA_5oti7s8](https://www.youtube.com/watch?v=qiA_5oti7s8)
+This question was possibly duplicated with a more recent answer: September 14th, 2021 Livestream Q&A: Tell me something good about Dual Body Slots? [https://www.youtube.com/watch?v=47I5UvpAn98](https://www.youtube.com/watch?v=47I5UvpAn98)
 
 
 ### Topics

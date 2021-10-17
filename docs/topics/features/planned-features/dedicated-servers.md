@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Planned Features > Dedicated Servers
 
+## September 14th, 2021 Livestream
+* [Q&A: If and when Dedicated Servers go live, how will Nuclear Power & Nuclear Waste work?](../../../transcriptions/yt-g4VNWQOeiyw.md) [https://www.youtube.com/watch?v=g4VNWQOeiyw](https://www.youtube.com/watch?v=g4VNWQOeiyw)
+* [Q&A: I'm curious about the lack of Dedicated Servers?](../../../transcriptions/yt-N6EY8W2L2pA.md) [https://www.youtube.com/watch?v=N6EY8W2L2pA](https://www.youtube.com/watch?v=N6EY8W2L2pA)
+* [Q&A: Linux hosting, please?](../../../transcriptions/yt-bF5wXdGjeG0.md) [https://www.youtube.com/watch?v=bF5wXdGjeG0](https://www.youtube.com/watch?v=bF5wXdGjeG0)
+
 ## September 7th, 2021 Livestream
 * [State of Dev: Update 5, Dedicated Servers, and Golf](../../../transcriptions/yt-yKSmdI8xuXM.md) [https://www.youtube.com/watch?v=yKSmdI8xuXM](https://www.youtube.com/watch?v=yKSmdI8xuXM)
 * [Q&A: Dedicated Servers on Linux?](../../../transcriptions/yt-Sa-E2cCLdbI.md) [https://www.youtube.com/watch?v=Sa-E2cCLdbI](https://www.youtube.com/watch?v=Sa-E2cCLdbI)

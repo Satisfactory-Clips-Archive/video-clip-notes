@@ -16,6 +16,10 @@ date: Last Modified
 * [Swamp](../../topics/environment/biomes/swamp.md)
 * [Unplanned Biomes](../../topics/environment/biomes/unplanned-biomes.md)
 
+## September 14th, 2021 Livestream
+* [Q&A: Chance of a new Biome?](../../transcriptions/yt-DXB_o7NPkOM.md) [https://www.youtube.com/watch?v=DXB_o7NPkOM](https://www.youtube.com/watch?v=DXB_o7NPkOM)
+* [Q&A: Will there bottom-left island peninsula be included in the map?](../../transcriptions/yt-NELPCpQX388.md) [https://www.youtube.com/watch?v=NELPCpQX388](https://www.youtube.com/watch?v=NELPCpQX388)
+
 ## September 7th, 2021 Livestream
 * [Q&A: Will there be updates to the huge waterfall in the southwest corner of the map?](../../transcriptions/yt-uZSAvu6oPgU.md) [https://www.youtube.com/watch?v=uZSAvu6oPgU](https://www.youtube.com/watch?v=uZSAvu6oPgU)
 

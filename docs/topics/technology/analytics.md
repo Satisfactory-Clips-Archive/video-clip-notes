@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > Analytics
 
+## September 14th, 2021 Livestream
+* [Q&A: Do you know how many active players the game currently has?](../../transcriptions/yt-G1ygZux_HPU.md) [https://www.youtube.com/watch?v=G1ygZux_HPU](https://www.youtube.com/watch?v=G1ygZux_HPU)
+
 ## September 7th, 2021 Livestream
 * Q&A: Do you have any statistics on how many people completed the last Space Elevator Phase? [https://www.youtube.com/watch?v=y-gjY5Vp5Qs](https://www.youtube.com/watch?v=y-gjY5Vp5Qs)
 

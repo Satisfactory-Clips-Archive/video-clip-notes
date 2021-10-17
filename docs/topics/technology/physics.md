@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > Physics
 
+## September 14th, 2021 Livestream
+* [Q&A: Do Vehicles have collision detection for other Vehicles?](../../transcriptions/yt-fRZ4jKy9i3c.md) [https://www.youtube.com/watch?v=fRZ4jKy9i3c](https://www.youtube.com/watch?v=fRZ4jKy9i3c)
+
 ## June 29th, 2021 Livestream
 * [Q&A: Does Train Collision mean that Trains will collide with terrain & buildings like Trucks do?](../../transcriptions/yt-3rgaLHEbzMg.md) [https://www.youtube.com/watch?v=3rgaLHEbzMg](https://www.youtube.com/watch?v=3rgaLHEbzMg)
 * [Q&A: Will we always have sky factories or will we need to figure out how to build on the ground?](../../transcriptions/yt-WiDZuigYT2c.md) [https://www.youtube.com/watch?v=WiDZuigYT2c](https://www.youtube.com/watch?v=WiDZuigYT2c)

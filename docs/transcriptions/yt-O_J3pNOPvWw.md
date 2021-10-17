@@ -8,7 +8,7 @@ topics:
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Q&A: Why is the install folder still called FactoryGame?
 https://www.youtube.com/watch?v=O_J3pNOPvWw
-This question was possibly duplicated with a more recent answer: [March 2nd, 2021 Livestream Q&A: Internally in the code is the game still referred to as "FactoryGame" ?](./yt-ExNgX8506uQ.md) [https://www.youtube.com/watch?v=ExNgX8506uQ](https://www.youtube.com/watch?v=ExNgX8506uQ)
+This question was possibly duplicated with a more recent answer: [September 14th, 2021 Livestream Q&A: Is Satisfactory called FactoryGame in the project code for Unreal?](./yt-aVAdNATOOQw.md) [https://www.youtube.com/watch?v=aVAdNATOOQw](https://www.youtube.com/watch?v=aVAdNATOOQw)
 
 
 ### Topics

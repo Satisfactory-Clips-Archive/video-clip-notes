@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Embracer Group](../../../topics/embracer-group.md) > Coffee Stain Holding > Coffee Stain Studios
 
+## September 14th, 2021 Livestream
+* [Q&A: Do you have free places in your company for interested people like us?](../../../transcriptions/yt-9xYkguP293w.md) [https://www.youtube.com/watch?v=9xYkguP293w](https://www.youtube.com/watch?v=9xYkguP293w)
+* [Q&A: Do you get an employee discount when you buy the game?](../../../transcriptions/yt-GrqLG3yidw4.md) [https://www.youtube.com/watch?v=GrqLG3yidw4](https://www.youtube.com/watch?v=GrqLG3yidw4)
+
 ## August 31st, 2021 Livestream
 * [Q&A: Are you guys ever moving back into the new headquarters?](../../../transcriptions/yt-NpZ5kfieZsU.md) [https://www.youtube.com/watch?v=NpZ5kfieZsU](https://www.youtube.com/watch?v=NpZ5kfieZsU)
 

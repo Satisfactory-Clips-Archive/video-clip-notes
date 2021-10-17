@@ -10,7 +10,7 @@ topics:
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: Could it be released to the Modding Community to polish and release it as a Mod?
 https://www.youtube.com/watch?v=MQLuFiVQPYY
-This question was possibly duplicated with a more recent answer: [January 26th, 2021 Livestream Q&A: Give FICS⁕MAS back?](./yt-CmQgxVzbXoQ.md) [https://www.youtube.com/watch?v=CmQgxVzbXoQ](https://www.youtube.com/watch?v=CmQgxVzbXoQ)
+This question was possibly duplicated with a more recent answer: [September 14th, 2021 Livestream Q&A: Is FICS⁕MAS returning this year?](./yt-pcMtby2DOxQ.md) [https://www.youtube.com/watch?v=pcMtby2DOxQ](https://www.youtube.com/watch?v=pcMtby2DOxQ)
 
 
 ### Topics

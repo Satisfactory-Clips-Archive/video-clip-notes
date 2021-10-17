@@ -5,6 +5,23 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > Transportation > [Vehicles](../../../../topics/features/transportation/vehicles.md) > Autopilot
 
+## September 14th, 2021 Livestream
+* [Snutt & Jace Talk: Pathing for Vehicles has changed](../../../../transcriptions/yt-nXAqkPVgH2o.md) [https://www.youtube.com/watch?v=nXAqkPVgH2o](https://www.youtube.com/watch?v=nXAqkPVgH2o)
+* [Snutt & Jace Talk: Vehicle obstacle handling](../../../../transcriptions/yt-_p_gLzGc3WI.md) [https://www.youtube.com/watch?v=_p_gLzGc3WI](https://www.youtube.com/watch?v=_p_gLzGc3WI)
+* [Snutt & Jace Talk: Truck Station Fuel calculated per-route](../../../../transcriptions/yt-HwzZF04gWuk.md) [https://www.youtube.com/watch?v=HwzZF04gWuk](https://www.youtube.com/watch?v=HwzZF04gWuk)
+* [Snutt & Jace Talk: Save & Load Autopilot Paths](../../../../transcriptions/yt-sW0BIDJgS0U.md) [https://www.youtube.com/watch?v=sW0BIDJgS0U](https://www.youtube.com/watch?v=sW0BIDJgS0U)
+* [Snutt & Jace Talk: Truck Stations can be added to existing paths](../../../../transcriptions/yt-VolpA3rbIac.md) [https://www.youtube.com/watch?v=VolpA3rbIac](https://www.youtube.com/watch?v=VolpA3rbIac)
+* [Q&A: Will obstacles make Vehicles run out of Fuel?](../../../../transcriptions/yt-JSgHmr6Fp-A.md) [https://www.youtube.com/watch?v=JSgHmr6Fp-A](https://www.youtube.com/watch?v=JSgHmr6Fp-A)
+* [Q&A: What happens if a Vehicle arrives at a Truck Station that doesn't have enough Fuel?](../../../../transcriptions/yt-iMt6mEDYuCk.md) [https://www.youtube.com/watch?v=iMt6mEDYuCk](https://www.youtube.com/watch?v=iMt6mEDYuCk)
+* [Snutt & Jace Talk: You can no longer delete Autopilot path nodes (Part 1)](../../../../transcriptions/yt-OxIDYdXp5jM.md) [https://www.youtube.com/watch?v=OxIDYdXp5jM](https://www.youtube.com/watch?v=OxIDYdXp5jM)
+* [Q&A: What if I use Jump Pads now, though?](../../../../transcriptions/yt-pRnGOwOwMaM.md) [https://www.youtube.com/watch?v=pRnGOwOwMaM](https://www.youtube.com/watch?v=pRnGOwOwMaM)
+* [Q&A: Are the calculations done before a Truck does a route or is it an average, or... ?](../../../../transcriptions/yt-KviSQmC0sr8.md) [https://www.youtube.com/watch?v=KviSQmC0sr8](https://www.youtube.com/watch?v=KviSQmC0sr8)
+* [Snutt & Jace Talk: You can no longer delete Autopilot path nodes (Part 2)](../../../../transcriptions/yt-XOclHeWo2Mk.md) [https://www.youtube.com/watch?v=XOclHeWo2Mk](https://www.youtube.com/watch?v=XOclHeWo2Mk)
+* [Q&A: Do we need to re-do Vehicle path recording?](../../../../transcriptions/yt-g4s0bj4m6gk.md) [https://www.youtube.com/watch?v=g4s0bj4m6gk](https://www.youtube.com/watch?v=g4s0bj4m6gk)
+* [Snutt & Jace Talk: All previously-recorded paths will still work](../../../../transcriptions/yt-pHQfZxqZsps.md) [https://www.youtube.com/watch?v=pHQfZxqZsps](https://www.youtube.com/watch?v=pHQfZxqZsps)
+* [Q&A: Do Vehicles have collision detection for other Vehicles?](../../../../transcriptions/yt-fRZ4jKy9i3c.md) [https://www.youtube.com/watch?v=fRZ4jKy9i3c](https://www.youtube.com/watch?v=fRZ4jKy9i3c)
+* Q&A: Can Trucks get stuck if they use more Fuel than expected? [https://www.youtube.com/watch?v=k7PY6CVBSnA](https://www.youtube.com/watch?v=k7PY6CVBSnA)
+
 ## September 10th, 2021 Video
 * [Jace Talk: Changes to Vehicle Automation](../../../../transcriptions/yt-kh3lVrBdjFE,98.690775,197.4973.md) [https://youtube.com/embed/kh3lVrBdjFE?autoplay=1&start=98&end=198](https://youtube.com/embed/kh3lVrBdjFE?autoplay=1&start=98&end=198)
 * [Jace Talk: Changes to Vehicles obstacle avoidance & getting stuck (ghosting)](../../../../transcriptions/yt-kh3lVrBdjFE,197.53066666666666,307.94096666666667.md) [https://youtube.com/embed/kh3lVrBdjFE?autoplay=1&start=197&end=308](https://youtube.com/embed/kh3lVrBdjFE?autoplay=1&start=197&end=308)

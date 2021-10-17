@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Pending > Satisfactory 1.0
 
+## September 14th, 2021 Livestream
+* [Q&A: Full release of the game, how far is that?](../../../transcriptions/yt-GXHh2ZFq3FI.md) [https://www.youtube.com/watch?v=GXHh2ZFq3FI](https://www.youtube.com/watch?v=GXHh2ZFq3FI)
+
 ## September 7th, 2021 Livestream
 * [Q&A: Is there a path to 1.0?](../../../transcriptions/yt-haID3MR0-fQ.md) [https://www.youtube.com/watch?v=haID3MR0-fQ](https://www.youtube.com/watch?v=haID3MR0-fQ)
 * Q&A: 1.0 at 5000 Upvotes [https://www.youtube.com/watch?v=jEt3dU9LTw4](https://www.youtube.com/watch?v=jEt3dU9LTw4)

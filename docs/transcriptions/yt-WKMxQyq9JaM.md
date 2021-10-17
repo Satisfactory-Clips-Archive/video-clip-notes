@@ -13,6 +13,8 @@ topics:
 https://www.youtube.com/watch?v=WKMxQyq9JaM
 This question was possibly replaced with a more recent answer: February 23rd, 2021 Livestream Jace Talk: Holding shift (on a Ladder) not making a difference [https://www.youtube.com/watch?v=9dQIJfmd74A](https://www.youtube.com/watch?v=9dQIJfmd74A)
 
+This question was possibly duplicated with a more recent answer: [September 14th, 2021 Livestream Q&A: Will there be a hotkey for going down Ladders faster?](./yt-Bql_P71iLV8.md) [https://www.youtube.com/watch?v=Bql_P71iLV8](https://www.youtube.com/watch?v=Bql_P71iLV8)
+
 
 ### Topics
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)

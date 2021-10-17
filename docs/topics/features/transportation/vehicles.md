@@ -12,6 +12,15 @@ date: Last Modified
 * [Tractor](../../../topics/features/transportation/vehicles/tractor.md)
 * [Truck](../../../topics/features/transportation/vehicles/truck.md)
 
+## September 14th, 2021 Livestream
+* [Snutt & Jace Talk: Pathing for Vehicles has changed](../../../transcriptions/yt-nXAqkPVgH2o.md) [https://www.youtube.com/watch?v=nXAqkPVgH2o](https://www.youtube.com/watch?v=nXAqkPVgH2o)
+* [Snutt & Jace Talk: Vehicle obstacle handling](../../../transcriptions/yt-_p_gLzGc3WI.md) [https://www.youtube.com/watch?v=_p_gLzGc3WI](https://www.youtube.com/watch?v=_p_gLzGc3WI)
+* [Snutt & Jace Talk: Truck Station Fuel calculated per-route](../../../transcriptions/yt-HwzZF04gWuk.md) [https://www.youtube.com/watch?v=HwzZF04gWuk](https://www.youtube.com/watch?v=HwzZF04gWuk)
+* [Q&A: What happens if a Vehicle arrives at a Truck Station that doesn't have enough Fuel?](../../../transcriptions/yt-iMt6mEDYuCk.md) [https://www.youtube.com/watch?v=iMt6mEDYuCk](https://www.youtube.com/watch?v=iMt6mEDYuCk)
+* Community FYI: Vehicles + Jump Pads = Drone [https://www.youtube.com/watch?v=RgKdoinOVhc](https://www.youtube.com/watch?v=RgKdoinOVhc)
+* [Q&A: Will the spline fix apply to Drones?](../../../transcriptions/yt-EZ8F7j6KcqA.md) [https://www.youtube.com/watch?v=EZ8F7j6KcqA](https://www.youtube.com/watch?v=EZ8F7j6KcqA)
+* [Q&A: Do Vehicles have collision detection for other Vehicles?](../../../transcriptions/yt-fRZ4jKy9i3c.md) [https://www.youtube.com/watch?v=fRZ4jKy9i3c](https://www.youtube.com/watch?v=fRZ4jKy9i3c)
+
 ## September 10th, 2021 Video
 * [Jace Talk: Vehicles & Fuel usage](../../../transcriptions/yt-kh3lVrBdjFE,307.97433333333333,384.95123333333333.md) [https://youtube.com/embed/kh3lVrBdjFE?autoplay=1&start=307&end=385](https://youtube.com/embed/kh3lVrBdjFE?autoplay=1&start=307&end=385)
 

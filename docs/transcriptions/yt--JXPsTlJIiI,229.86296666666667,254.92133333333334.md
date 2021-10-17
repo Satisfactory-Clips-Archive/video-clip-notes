@@ -9,7 +9,7 @@ topics:
 # [December 17th, 2020 Q&A](../2020-12-17.md)
 ## Q&A: Will Trains be getting any updates? Signals? Collision?
 https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=229&end=255
-This question was possibly duplicated with a more recent answer: [August 17th, 2021 Livestream Q&A: Train system rework?](./yt-wCZKwW_RtXg.md) [https://www.youtube.com/watch?v=wCZKwW_RtXg](https://www.youtube.com/watch?v=wCZKwW_RtXg)
+This question was possibly duplicated with a more recent answer: [September 14th, 2021 Livestream Q&A: Any Collisions / signalling updates to Trains expected in Update 5?](./yt-GOqWeaYileA.md) [https://www.youtube.com/watch?v=GOqWeaYileA](https://www.youtube.com/watch?v=GOqWeaYileA)
 
 
 ### Topics
