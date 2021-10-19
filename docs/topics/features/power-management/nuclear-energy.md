@@ -43,7 +43,6 @@ date: Last Modified
 
 ## November 10th, 2020 Livestream
 * [Q&A: Nuclear removal when?](../../../transcriptions/yt-q-Z32Ff5_Pg.md) [https://www.youtube.com/watch?v=q-Z32Ff5_Pg](https://www.youtube.com/watch?v=q-Z32Ff5_Pg)
-* [Q&A: I report a bug and include a screenshot- is there an easy way to do it in-game?](../../../transcriptions/yt-2SqpfMeDmcw.md) [https://www.youtube.com/watch?v=2SqpfMeDmcw](https://www.youtube.com/watch?v=2SqpfMeDmcw)
 
 ## September 29th, 2020 Livestream
 * [Q&A: Why is there a trade-off with Nuclear Power but not with Coal or Oil?](../../../transcriptions/yt-DYy7NpZ7qYA.md) [https://www.youtube.com/watch?v=DYy7NpZ7qYA](https://www.youtube.com/watch?v=DYy7NpZ7qYA)

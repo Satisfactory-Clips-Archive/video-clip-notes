@@ -58,6 +58,7 @@ date: Last Modified
 
 ## November 10th, 2020 Livestream
 * [Q&A: Nuclear Waste removal in-game when?](../../../../transcriptions/yt-laualQ7TTug.md) [https://www.youtube.com/watch?v=laualQ7TTug](https://www.youtube.com/watch?v=laualQ7TTug)
+* [Q&A: Will there be a way to deal with Nuclear Waste?](../../../../transcriptions/yt-2SqpfMeDmcw.md) [https://www.youtube.com/watch?v=2SqpfMeDmcw](https://www.youtube.com/watch?v=2SqpfMeDmcw)
 
 ## October 1st, 2020 Q&A
 * [Q&A: Will we ever be able to do something with Nuclear Waste?](../../../../transcriptions/yt-rATcozDE25c,696.7961,736.1020333333333.md) [https://youtube.com/embed/rATcozDE25c?autoplay=1&start=696&end=737](https://youtube.com/embed/rATcozDE25c?autoplay=1&start=696&end=737)

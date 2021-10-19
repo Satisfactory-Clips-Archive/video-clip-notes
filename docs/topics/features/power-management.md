@@ -147,7 +147,6 @@ date: Last Modified
 * [Q&A: Nuclear removal when?](../../transcriptions/yt-q-Z32Ff5_Pg.md) [https://www.youtube.com/watch?v=q-Z32Ff5_Pg](https://www.youtube.com/watch?v=q-Z32Ff5_Pg)
 * [Q&A: Are you guys aware of a crash when looking at using Double Wall Outlets?](../../transcriptions/yt-Qb8OdLG68Ds.md) [https://www.youtube.com/watch?v=Qb8OdLG68Ds](https://www.youtube.com/watch?v=Qb8OdLG68Ds)
 * [Q&A: Change for Electricity when? (substations)](../../transcriptions/yt-rhboUWEnss4.md) [https://www.youtube.com/watch?v=rhboUWEnss4](https://www.youtube.com/watch?v=rhboUWEnss4)
-* [Q&A: I report a bug and include a screenshot- is there an easy way to do it in-game?](../../transcriptions/yt-2SqpfMeDmcw.md) [https://www.youtube.com/watch?v=2SqpfMeDmcw](https://www.youtube.com/watch?v=2SqpfMeDmcw)
 
 ## November 3rd, 2020 Livestream
 * [Q&A: Do the Wall Power Connectors tell how many connections are connected to them?](../../transcriptions/yt-l03CiyYAX-k.md) [https://www.youtube.com/watch?v=l03CiyYAX-k](https://www.youtube.com/watch?v=l03CiyYAX-k)

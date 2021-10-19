@@ -1,18 +1,16 @@
 ---
-title: "November 10th, 2020 Livestream Q&A: I report a bug and include a screenshot- is there an easy way to do it in-game?"
+title: "November 10th, 2020 Livestream Q&A: Will there be a way to deal with Nuclear Waste?"
 date: "2020-11-10"
 layout: transcript
 topics:
-    - "features/power-management"
-    - "features/power-management/nuclear-energy"
+    - "features/power-management/nuclear-energy/nuclear-waste"
 ---
 # [November 10th, 2020 Livestream](../2020-11-10.md)
-## Q&A: I report a bug and include a screenshot- is there an easy way to do it in-game?
+## Q&A: Will there be a way to deal with Nuclear Waste?
 https://www.youtube.com/watch?v=2SqpfMeDmcw
 
 ### Topics
-* [Features > Power Management](../topics/features/power-management.md)
-* [Features > Power Management > Nuclear Energy](../topics/features/power-management/nuclear-energy.md)
+* [Features > Power Management > Nuclear Energy > Nuclear Waste](../topics/features/power-management/nuclear-energy/nuclear-waste.md)
 
 ### Transcript
 
