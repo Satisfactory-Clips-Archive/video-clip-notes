@@ -8,6 +8,8 @@ topics:
 # [January 12th, 2021 Livestream](../2021-01-12.md)
 ## Q&A: Why no partner with Twitch?
 https://www.youtube.com/watch?v=wvvaIdmUTT0
+This question was possibly duplicated with a more recent answer: [September 21st, 2021 Livestream Q&A: Why are you guys not affiliate?](./yt-wSymvPiav-k.md) [https://www.youtube.com/watch?v=wSymvPiav-k](https://www.youtube.com/watch?v=wSymvPiav-k)
+
 
 ### Topics
 

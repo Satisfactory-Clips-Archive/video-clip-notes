@@ -5,6 +5,12 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Planned Features > Dedicated Servers
 
+## September 21st, 2021 Livestream
+* [Q&A: Are Dedicated Servers a thing?](../../../transcriptions/yt--veAW1DkhQo.md) [https://www.youtube.com/watch?v=-veAW1DkhQo](https://www.youtube.com/watch?v=-veAW1DkhQo)
+* [Q&A: Trains suck in Multiplayer, Dedicated Servers when?](../../../transcriptions/yt-hKRRW-m42zs.md) [https://www.youtube.com/watch?v=hKRRW-m42zs](https://www.youtube.com/watch?v=hKRRW-m42zs)
+* [Q&A: Will Dedicated Servers run on Linux, Windows, or both?](../../../transcriptions/yt-B9WzFDA9Lq8.md) [https://www.youtube.com/watch?v=B9WzFDA9Lq8](https://www.youtube.com/watch?v=B9WzFDA9Lq8)
+* [Snutt & Jace Talk: Dedicated Servers](../../../transcriptions/yt-2CzVASdVous.md) [https://www.youtube.com/watch?v=2CzVASdVous](https://www.youtube.com/watch?v=2CzVASdVous)
+
 ## September 14th, 2021 Livestream
 * [Q&A: If and when Dedicated Servers go live, how will Nuclear Power & Nuclear Waste work?](../../../transcriptions/yt-g4VNWQOeiyw.md) [https://www.youtube.com/watch?v=g4VNWQOeiyw](https://www.youtube.com/watch?v=g4VNWQOeiyw)
 * [Q&A: I'm curious about the lack of Dedicated Servers?](../../../transcriptions/yt-N6EY8W2L2pA.md) [https://www.youtube.com/watch?v=N6EY8W2L2pA](https://www.youtube.com/watch?v=N6EY8W2L2pA)

@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Lights
 
+## September 21st, 2021 Livestream
+* [Q&A: Any plans to let us point factory Lights up?](../../../transcriptions/yt-s5IkNJjLgUI.md) [https://www.youtube.com/watch?v=s5IkNJjLgUI](https://www.youtube.com/watch?v=s5IkNJjLgUI)
+* [Q&A: Will the new Engine Update bring better lighting?](../../../transcriptions/yt-x5sW4WEy32I.md) [https://www.youtube.com/watch?v=x5sW4WEy32I](https://www.youtube.com/watch?v=x5sW4WEy32I)
+
 ## August 31st, 2021 Livestream
 * [Trolling: Removing Lights](../../../transcriptions/yt-CeVmho--LWw.md) [https://www.youtube.com/watch?v=CeVmho--LWw](https://www.youtube.com/watch?v=CeVmho--LWw)
 * [Q&A: Are there any plans for smaller Lights?](../../../transcriptions/yt-SgweFihGY38.md) [https://www.youtube.com/watch?v=SgweFihGY38](https://www.youtube.com/watch?v=SgweFihGY38)

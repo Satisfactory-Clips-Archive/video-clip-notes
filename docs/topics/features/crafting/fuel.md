@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Crafting](../../../topics/features/crafting.md) > Fuel
 
+## September 21st, 2021 Livestream
+* [Q&A: What happens if an automated Vehicle runs out of Fuel?](../../../transcriptions/yt-RalQ17zg3tc.md) [https://www.youtube.com/watch?v=RalQ17zg3tc](https://www.youtube.com/watch?v=RalQ17zg3tc)
+* [Q&A: Is there some strange math problem with Pipes feeding Fuel Generators?](../../../transcriptions/yt-Bs0MS4ZOzjI.md) [https://www.youtube.com/watch?v=Bs0MS4ZOzjI](https://www.youtube.com/watch?v=Bs0MS4ZOzjI)
+
 ## September 14th, 2021 Livestream
 * [Snutt & Jace Talk: Truck Station Fuel calculated per-route](../../../transcriptions/yt-HwzZF04gWuk.md) [https://www.youtube.com/watch?v=HwzZF04gWuk](https://www.youtube.com/watch?v=HwzZF04gWuk)
 * [Q&A: Will obstacles make Vehicles run out of Fuel?](../../../transcriptions/yt-JSgHmr6Fp-A.md) [https://www.youtube.com/watch?v=JSgHmr6Fp-A](https://www.youtube.com/watch?v=JSgHmr6Fp-A)

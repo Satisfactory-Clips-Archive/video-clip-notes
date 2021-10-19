@@ -6,6 +6,11 @@ date: Last Modified
 # [Topics](../../topics.md) > Features > Multiplayer
 * [Crossplay](../../topics/features/multiplayer/crossplay.md)
 
+## September 21st, 2021 Livestream
+* [Q&A: As someone who has not played; I'm sorry, what?](../../transcriptions/yt-8wg3Jio1Bn8.md) [https://www.youtube.com/watch?v=8wg3Jio1Bn8](https://www.youtube.com/watch?v=8wg3Jio1Bn8)
+* [Community FYI: Would love to do a Satisfactory "Factorio: 500 Players in the game"](../../transcriptions/yt-EGlBy8Yez_o.md) [https://www.youtube.com/watch?v=EGlBy8Yez_o](https://www.youtube.com/watch?v=EGlBy8Yez_o)
+* [Q&A: Trains suck in Multiplayer, Dedicated Servers when?](../../transcriptions/yt-hKRRW-m42zs.md) [https://www.youtube.com/watch?v=hKRRW-m42zs](https://www.youtube.com/watch?v=hKRRW-m42zs)
+
 ## September 14th, 2021 Livestream
 * [Q&A: When will Trains be fixed? (Part 2)](../../transcriptions/yt-UrUHlWoT-cc.md) [https://www.youtube.com/watch?v=UrUHlWoT-cc](https://www.youtube.com/watch?v=UrUHlWoT-cc)
 * [Q&A: When will Trains be fixed? (Part 3)](../../transcriptions/yt-_n-R6qpB1FU.md) [https://www.youtube.com/watch?v=_n-R6qpB1FU](https://www.youtube.com/watch?v=_n-R6qpB1FU)

@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Requested Features](../../../topics/features/requested-features.md) > Third-person View
 
+## September 21st, 2021 Livestream
+* [Q&A: How does Coffee Stain feel about third-person camera mode?](../../../transcriptions/yt-FoRaUJM8tYg.md) [https://www.youtube.com/watch?v=FoRaUJM8tYg](https://www.youtube.com/watch?v=FoRaUJM8tYg)
+* [Q&A: A third-person camera in Photo Mode would be a start?](../../../transcriptions/yt-abN9BeUO-qA.md) [https://www.youtube.com/watch?v=abN9BeUO-qA](https://www.youtube.com/watch?v=abN9BeUO-qA)
+
 ## July 13th, 2021 Livestream
 * [Q&A: Any thoughts about non-first-person Building Mode?](../../../transcriptions/yt-K2gmJrcqZ20.md) [https://www.youtube.com/watch?v=K2gmJrcqZ20](https://www.youtube.com/watch?v=K2gmJrcqZ20)
 

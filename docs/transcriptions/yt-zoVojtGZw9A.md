@@ -9,7 +9,7 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: When will the Toilet be operative?
 https://www.youtube.com/watch?v=zoVojtGZw9A
-This question was possibly duplicated with a more recent answer: [August 31st, 2021 Livestream Q&A: How's the flush button in The HUB coming along?](./yt-JKV3UIwRUxM.md) [https://www.youtube.com/watch?v=JKV3UIwRUxM](https://www.youtube.com/watch?v=JKV3UIwRUxM)
+This question was possibly duplicated with a more recent answer: September 21st, 2021 Livestream Q&A: Toilet Flush DLC? [https://www.youtube.com/watch?v=BTl-L9494v0](https://www.youtube.com/watch?v=BTl-L9494v0)
 
 
 ### Topics

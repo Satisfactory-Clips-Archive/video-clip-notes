@@ -8,7 +8,7 @@ topics:
 # [August 10th, 2021 Livestream](../2021-08-10.md)
 ## Q&A: FICS'oween event?
 https://www.youtube.com/watch?v=56NgRh-X8ME
-This question was possibly duplicated with a more recent answer: [August 31st, 2021 Livestream Q&A: Any Halloween FICSIT Event planned?](./yt-aCMDITIQ5WQ.md) [https://www.youtube.com/watch?v=aCMDITIQ5WQ](https://www.youtube.com/watch?v=aCMDITIQ5WQ)
+This question was possibly duplicated with a more recent answer: [September 21st, 2021 Livestream Q&A: Will there be a Halloween event?](./yt-OhUDUOtdVtE.md) [https://www.youtube.com/watch?v=OhUDUOtdVtE](https://www.youtube.com/watch?v=OhUDUOtdVtE)
 
 
 ### Topics

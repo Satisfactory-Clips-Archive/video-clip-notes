@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > [Power Management](../../../../topics/features/power-management.md) > [Nuclear Energy](../../../../topics/features/power-management/nuclear-energy.md) > Nuclear Waste
 
+## September 21st, 2021 Livestream
+* [Q&A: The way to dispose Nuclear Waste that Josh used, was it intended?](../../../../transcriptions/yt-HNrxJ2Sth7Y.md) [https://www.youtube.com/watch?v=HNrxJ2Sth7Y](https://www.youtube.com/watch?v=HNrxJ2Sth7Y)
+
 ## September 14th, 2021 Livestream
 * [Q&A: If and when Dedicated Servers go live, how will Nuclear Power & Nuclear Waste work?](../../../../transcriptions/yt-g4VNWQOeiyw.md) [https://www.youtube.com/watch?v=g4VNWQOeiyw](https://www.youtube.com/watch?v=g4VNWQOeiyw)
 

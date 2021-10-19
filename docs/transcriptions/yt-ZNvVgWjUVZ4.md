@@ -9,7 +9,7 @@ topics:
 # [August 31st, 2021 Livestream](../2021-08-31.md)
 ## Q&A: Update 6, when?
 https://www.youtube.com/watch?v=ZNvVgWjUVZ4
-This question was possibly duplicated with a more recent answer: [September 14th, 2021 Livestream Q&A: When will Update 6 be coming?](./yt-MAEyPQndkQM.md) [https://www.youtube.com/watch?v=MAEyPQndkQM](https://www.youtube.com/watch?v=MAEyPQndkQM)
+This question was possibly duplicated with a more recent answer: [September 21st, 2021 Livestream Q&A: When is Update 6 coming?](./yt-mfgroZAlqis.md) [https://www.youtube.com/watch?v=mfgroZAlqis](https://www.youtube.com/watch?v=mfgroZAlqis)
 
 
 ### Topics

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Creatures](../../../topics/environment/creatures.md) > Crab Boss
 
+## September 21st, 2021 Livestream
+* [Q&A: Will there be bosses?](../../../transcriptions/yt-M6hPQBYMYzA.md) [https://www.youtube.com/watch?v=M6hPQBYMYzA](https://www.youtube.com/watch?v=M6hPQBYMYzA)
+
 ## August 24th, 2021 Livestream
 * [Q&A: Will fixing the AI pathing for the Crab also make the Bean non-derpy?](../../../transcriptions/yt-bAyZfwp-yyI.md) [https://www.youtube.com/watch?v=bAyZfwp-yyI](https://www.youtube.com/watch?v=bAyZfwp-yyI)
 * [Community FYI: Been waiting for the Crab Boss for so long](../../../transcriptions/yt-OYXRpqM4Eec.md) [https://www.youtube.com/watch?v=OYXRpqM4Eec](https://www.youtube.com/watch?v=OYXRpqM4Eec)

@@ -12,6 +12,11 @@ date: Last Modified
 * [Tractor](../../../topics/features/transportation/vehicles/tractor.md)
 * [Truck](../../../topics/features/transportation/vehicles/truck.md)
 
+## September 21st, 2021 Livestream
+* [Q&A: What happens if an automated Vehicle runs out of Fuel?](../../../transcriptions/yt-RalQ17zg3tc.md) [https://www.youtube.com/watch?v=RalQ17zg3tc](https://www.youtube.com/watch?v=RalQ17zg3tc)
+* [Q&A: Gas Mask in Vehicles?](../../../transcriptions/yt-_gjOkEU1pwI.md) [https://www.youtube.com/watch?v=_gjOkEU1pwI](https://www.youtube.com/watch?v=_gjOkEU1pwI)
+* [Q&A: Will we get more Vehicles added to the game?](../../../transcriptions/yt-2OR5iK5zy7E.md) [https://www.youtube.com/watch?v=2OR5iK5zy7E](https://www.youtube.com/watch?v=2OR5iK5zy7E)
+
 ## September 14th, 2021 Livestream
 * [Snutt & Jace Talk: Pathing for Vehicles has changed](../../../transcriptions/yt-nXAqkPVgH2o.md) [https://www.youtube.com/watch?v=nXAqkPVgH2o](https://www.youtube.com/watch?v=nXAqkPVgH2o)
 * [Snutt & Jace Talk: Vehicle obstacle handling](../../../transcriptions/yt-_p_gLzGc3WI.md) [https://www.youtube.com/watch?v=_p_gLzGc3WI](https://www.youtube.com/watch?v=_p_gLzGc3WI)

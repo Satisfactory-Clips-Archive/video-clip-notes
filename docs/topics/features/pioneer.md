@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > Features > Pioneer
 
+## September 21st, 2021 Livestream
+* [Q&A: How old is the character you play as?](../../transcriptions/yt-uiNbMYVIqE0.md) [https://www.youtube.com/watch?v=uiNbMYVIqE0](https://www.youtube.com/watch?v=uiNbMYVIqE0)
+
 ## September 14th, 2021 Livestream
 * [Q&A: When will Jace become a playable character?](../../transcriptions/yt-T2RdeCYru9Q.md) [https://www.youtube.com/watch?v=T2RdeCYru9Q](https://www.youtube.com/watch?v=T2RdeCYru9Q)
 

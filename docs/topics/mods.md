@@ -32,6 +32,9 @@ date: Last Modified
 * [Utility Signs](../topics/mods/utility-signs.md)
 * [Zip Strips](../topics/mods/zip-strips.md)
 
+## September 21st, 2021 Livestream
+* [Snutt & Jace Talk: If you're playing on Experimental, Mods will probably break](../transcriptions/yt-SPBT-gIzIPU.md) [https://www.youtube.com/watch?v=SPBT-gIzIPU](https://www.youtube.com/watch?v=SPBT-gIzIPU)
+
 ## September 7th, 2021 Livestream
 * Q&A: Will Update 5 mess up Mods like Update 4 did? [https://www.youtube.com/watch?v=FKA_rMdiHtU](https://www.youtube.com/watch?v=FKA_rMdiHtU)
 

@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Teasers & Trailers](../../../topics/satisfactory-updates/teasers-trailers.md) > Update 5 Teasers
 
+## September 21st, 2021 Livestream
+* [Q&A: Hope that you're not spoiling everything for Update 5?](../../../transcriptions/yt-WjZWGFljcv4.md) [https://www.youtube.com/watch?v=WjZWGFljcv4](https://www.youtube.com/watch?v=WjZWGFljcv4)
+* [Q&A: How hard was the decision to introduce Soft Clearance into the game?](../../../transcriptions/yt-WBj7y8gfrE4.md) [https://www.youtube.com/watch?v=WBj7y8gfrE4](https://www.youtube.com/watch?v=WBj7y8gfrE4)
+* [Q&A: Will the new Engine Update bring better lighting?](../../../transcriptions/yt-x5sW4WEy32I.md) [https://www.youtube.com/watch?v=x5sW4WEy32I](https://www.youtube.com/watch?v=x5sW4WEy32I)
+
 ## September 14th, 2021 Livestream
 * [Community FYI: Base Defense confirmed](../../../transcriptions/yt-D6z9W_JVTyE.md) [https://www.youtube.com/watch?v=D6z9W_JVTyE](https://www.youtube.com/watch?v=D6z9W_JVTyE)
 * [Snutt & Jace Talk: Changes to Truck Station](../../../transcriptions/yt-AhdmXJTAAsc.md) [https://www.youtube.com/watch?v=AhdmXJTAAsc](https://www.youtube.com/watch?v=AhdmXJTAAsc)

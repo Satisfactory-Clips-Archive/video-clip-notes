@@ -10,12 +10,11 @@ topics:
 ## Q&A: Why does it go to Experimental first?
 https://youtube.com/embed/F-q3vfj__M4?autoplay=1&start=31&end=81
 <details>
-<summary>This question may have been asked previously at least 7 other times, as recently as February 2021 and as early as October 2020.</summary>
+<summary>This question may have been asked previously at least 6 other times, as recently as February 2021 and as early as October 2020.</summary>
 
 * [February 23rd, 2021 Livestream Q&A: Is that March date for Experimental?](./yt-sQTpG9Ws6EA.md) [https://www.youtube.com/watch?v=sQTpG9Ws6EA](https://www.youtube.com/watch?v=sQTpG9Ws6EA)
 * [February 16th, 2021 Livestream Q&A: No Experimental?](./yt-2cO89rhg6sQ.md) [https://www.youtube.com/watch?v=2cO89rhg6sQ](https://www.youtube.com/watch?v=2cO89rhg6sQ)
 * [February 16th, 2021 Livestream Q&A: I think I missed a discussion around when it would be shifted to Early Access?](./yt-eTafCP7eCB4.md) [https://www.youtube.com/watch?v=eTafCP7eCB4](https://www.youtube.com/watch?v=eTafCP7eCB4)
-* [February 16th, 2021 Livestream Q&A: Will 1.0 go to Experimental?](./yt-qYBAKknb7WA.md) [https://www.youtube.com/watch?v=qYBAKknb7WA](https://www.youtube.com/watch?v=qYBAKknb7WA)
 * [February 2nd, 2021 Livestream Q&A: Will Update 4 be on Experimental or main branch?](./yt-ePwT4AogKWY.md) [https://www.youtube.com/watch?v=ePwT4AogKWY](https://www.youtube.com/watch?v=ePwT4AogKWY)
 * [January 26th, 2021 Livestream Q&A: Will Update 4 be rolled out to Experimental first?](./yt-xJ3zk3Yvav0.md) [https://www.youtube.com/watch?v=xJ3zk3Yvav0](https://www.youtube.com/watch?v=xJ3zk3Yvav0)
 * [October 6th, 2020 Livestream Q&A: Is the expected date relative to Early Access or Experimental?](./yt-rc0InGTzcOQ.md) [https://www.youtube.com/watch?v=rc0InGTzcOQ](https://www.youtube.com/watch?v=rc0InGTzcOQ)

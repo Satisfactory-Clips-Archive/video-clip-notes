@@ -9,6 +9,14 @@ date: Last Modified
 * [Object Limit](../../topics/technology/unreal-engine/object-limit.md)
 * [Unreal Engine 5](../../topics/technology/unreal-engine/unreal-engine-5.md)
 
+## September 21st, 2021 Livestream
+* Snutt & Jace Talk: Engine Update [https://www.youtube.com/watch?v=GhhV6CAxJ1c](https://www.youtube.com/watch?v=GhhV6CAxJ1c)
+* [Snutt Talk: Engine Upgrade](../../transcriptions/yt-eX0wesdlKTA.md) [https://www.youtube.com/watch?v=eX0wesdlKTA](https://www.youtube.com/watch?v=eX0wesdlKTA)
+* [Snutt Talk: DirectX & Vukan Support in the Engine Upgrade](../../transcriptions/yt-rbf8L_K7QEs.md) [https://www.youtube.com/watch?v=rbf8L_K7QEs](https://www.youtube.com/watch?v=rbf8L_K7QEs)
+* [Q&A: Will the Engine Update push out to EA before the new content to Update 5?](../../transcriptions/yt-MFlqre9Sy3A.md) [https://www.youtube.com/watch?v=MFlqre9Sy3A](https://www.youtube.com/watch?v=MFlqre9Sy3A)
+* [Snutt & Jace Talk: If you're playing on Experimental, Mods will probably break](../../transcriptions/yt-SPBT-gIzIPU.md) [https://www.youtube.com/watch?v=SPBT-gIzIPU](https://www.youtube.com/watch?v=SPBT-gIzIPU)
+* [Q&A: Will the new Engine Update bring better lighting?](../../transcriptions/yt-x5sW4WEy32I.md) [https://www.youtube.com/watch?v=x5sW4WEy32I](https://www.youtube.com/watch?v=x5sW4WEy32I)
+
 ## September 17th, 2021 Video
 * [Jace Talk: Not talking about Update 5, getting an Engine Update](../../transcriptions/yt-HJyfSle4o_U,6.373033333333334,48.548500000000004.md) [https://youtube.com/clip/UgkxOayUJtfEYpbaelVSCWkLtjHx-4RgFcAG](https://youtube.com/clip/UgkxOayUJtfEYpbaelVSCWkLtjHx-4RgFcAG)
 * [Q&A: When is this Update coming?](../../transcriptions/yt-HJyfSle4o_U,48.58186666666667,104.07063333333333.md) [https://youtube.com/clip/UgkxKZqa6UcHfyaLz6YYjd5Q-DeeSz6ikogJ](https://youtube.com/clip/UgkxKZqa6UcHfyaLz6YYjd5Q-DeeSz6ikogJ)

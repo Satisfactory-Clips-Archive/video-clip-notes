@@ -7,6 +7,13 @@ date: Last Modified
 * [Characters](../topics/story-lore/characters.md)
 * [Project Assembly](../topics/story-lore/project-assembly.md)
 
+## September 21st, 2021 Livestream
+* [Q&A: How old is the character you play as?](../transcriptions/yt-uiNbMYVIqE0.md) [https://www.youtube.com/watch?v=uiNbMYVIqE0](https://www.youtube.com/watch?v=uiNbMYVIqE0)
+* [Q&A: Is all the Story stuff finished?](../transcriptions/yt-mUNB0jMlwd0.md) [https://www.youtube.com/watch?v=mUNB0jMlwd0](https://www.youtube.com/watch?v=mUNB0jMlwd0)
+* [Q&A: Does story have voice-over, is it mostly text-based?](../transcriptions/yt-kNHiKNWcniI.md) [https://www.youtube.com/watch?v=kNHiKNWcniI](https://www.youtube.com/watch?v=kNHiKNWcniI)
+* [Q&A: Are you going to add Goku to the Story?](../transcriptions/yt-IYOulexv3-g.md) [https://www.youtube.com/watch?v=IYOulexv3-g](https://www.youtube.com/watch?v=IYOulexv3-g)
+* [Q&A: Jace will be part of the Story?](../transcriptions/yt-JuGh8i9uZ7I.md) [https://www.youtube.com/watch?v=JuGh8i9uZ7I](https://www.youtube.com/watch?v=JuGh8i9uZ7I)
+
 ## September 14th, 2021 Livestream
 * [Q&A: Any ideas for endgame, post-completing the Project?](../transcriptions/yt-t9RemxVME8k.md) [https://www.youtube.com/watch?v=t9RemxVME8k](https://www.youtube.com/watch?v=t9RemxVME8k)
 

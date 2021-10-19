@@ -7,6 +7,24 @@ date: Last Modified
 * [Northern Forest World Update Q&A with Hannah](../../../topics/satisfactory-updates/pending/satisfactory-update-5/northern-forest-world-update-q-and-a-with-hannah.md)
 * [#SaveTheWillows](../../../topics/satisfactory-updates/pending/satisfactory-update-5/save-the-willows.md)
 
+## September 24th, 2021 Video
+* [Jace Talk: Release date for Update 5](../../../transcriptions/yt-W3YBFCO1NMg,10.543866666666666,38.7387.md) [https://youtube.com/clip/UgkxnRP9M3wYnjtR8T9SvsYcR0pB6WjvoQNk](https://youtube.com/clip/UgkxnRP9M3wYnjtR8T9SvsYcR0pB6WjvoQNk)
+* [Jace Talk: Experimental vs. Early Access versions](../../../transcriptions/yt-W3YBFCO1NMg,38.77206666666667,80.04663333333333.md) [https://youtube.com/clip/Ugkxpyi172YKZF-zc3dXhCidH_k2idgGgFh7](https://youtube.com/clip/Ugkxpyi172YKZF-zc3dXhCidH_k2idgGgFh7)
+* [Jace Talk: Back up your saves](../../../transcriptions/yt-W3YBFCO1NMg,80.08,95.52876666666667.md) [https://youtube.com/clip/UgkxRT_6nzgEfU7ffNARf4A2Sryn8R83sglP](https://youtube.com/clip/UgkxRT_6nzgEfU7ffNARf4A2Sryn8R83sglP)
+* [Q&A: How can I prepare for Update 5?](../../../transcriptions/yt-W3YBFCO1NMg,95.56213333333334,176.40956666666668.md) [https://youtube.com/embed/W3YBFCO1NMg?autoplay=1&start=95&end=177](https://youtube.com/embed/W3YBFCO1NMg?autoplay=1&start=95&end=177)
+* [Jace Talk: Update 5 compared to past Updates](../../../transcriptions/yt-W3YBFCO1NMg,176.44293333333334,281.9817.md) [https://youtube.com/embed/W3YBFCO1NMg?autoplay=1&start=176&end=282](https://youtube.com/embed/W3YBFCO1NMg?autoplay=1&start=176&end=282)
+
+## September 21st, 2021 Livestream
+* [Q&A: Will the Engine Update push out to EA before the new content to Update 5?](../../../transcriptions/yt-MFlqre9Sy3A.md) [https://www.youtube.com/watch?v=MFlqre9Sy3A](https://www.youtube.com/watch?v=MFlqre9Sy3A)
+* [Snutt & Jace Talk: If you're playing on Experimental, Mods will probably break](../../../transcriptions/yt-SPBT-gIzIPU.md) [https://www.youtube.com/watch?v=SPBT-gIzIPU](https://www.youtube.com/watch?v=SPBT-gIzIPU)
+* [Q&A: What happens if an automated Vehicle runs out of Fuel?](../../../transcriptions/yt-RalQ17zg3tc.md) [https://www.youtube.com/watch?v=RalQ17zg3tc](https://www.youtube.com/watch?v=RalQ17zg3tc)
+* [Q&A: Will the spline be visible to players or only limited to the way points?](../../../transcriptions/yt-_71h_WKygcg.md) [https://www.youtube.com/watch?v=_71h_WKygcg](https://www.youtube.com/watch?v=_71h_WKygcg)
+* [Q&A: Are you ready to celebrate the fact that the next Update is half way towards 1.0?](../../../transcriptions/yt-o64NGIJwdm4.md) [https://www.youtube.com/watch?v=o64NGIJwdm4](https://www.youtube.com/watch?v=o64NGIJwdm4)
+* [Q&A: Will Update 5 be the last major Update before 1.0?](../../../transcriptions/yt-wBVPNXngK7A.md) [https://www.youtube.com/watch?v=wBVPNXngK7A](https://www.youtube.com/watch?v=wBVPNXngK7A)
+* [Q&A: Will there be new Tiers in Update 5?](../../../transcriptions/yt-V6WvDBxAm1U.md) [https://www.youtube.com/watch?v=V6WvDBxAm1U](https://www.youtube.com/watch?v=V6WvDBxAm1U)
+* [Q&A: Hope that you're not spoiling everything for Update 5?](../../../transcriptions/yt-WjZWGFljcv4.md) [https://www.youtube.com/watch?v=WjZWGFljcv4](https://www.youtube.com/watch?v=WjZWGFljcv4)
+* [Q&A: How hard was the decision to introduce Soft Clearance into the game?](../../../transcriptions/yt-WBj7y8gfrE4.md) [https://www.youtube.com/watch?v=WBj7y8gfrE4](https://www.youtube.com/watch?v=WBj7y8gfrE4)
+
 ## September 14th, 2021 Livestream
 * [Snutt & Jace Talk: Changes to Truck Station](../../../transcriptions/yt-AhdmXJTAAsc.md) [https://www.youtube.com/watch?v=AhdmXJTAAsc](https://www.youtube.com/watch?v=AhdmXJTAAsc)
 * [Snutt & Jace Talk: Changes to Truck Station UI](../../../transcriptions/yt-VAQDLsfK-Io.md) [https://www.youtube.com/watch?v=VAQDLsfK-Io](https://www.youtube.com/watch?v=VAQDLsfK-Io)

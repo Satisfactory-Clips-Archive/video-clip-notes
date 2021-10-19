@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Foundations
 * [Cheatcrete](../../../topics/features/buildables/foundations/cheatcrete.md)
 
+## September 21st, 2021 Livestream
+* [Q&A: Can we have finer rotations on Foundations?](../../../transcriptions/yt-7gIaj1aBo_E.md) [https://www.youtube.com/watch?v=7gIaj1aBo_E](https://www.youtube.com/watch?v=7gIaj1aBo_E)
+
 ## September 7th, 2021 Livestream
 * [Q&A: Foundations with holes?](../../../transcriptions/yt-VZZXxJb9Vsg.md) [https://www.youtube.com/watch?v=VZZXxJb9Vsg](https://www.youtube.com/watch?v=VZZXxJb9Vsg)
 * [Q&A: Will Ramp versions be able to be half as well?](../../../transcriptions/yt-ClOiLPOWYVI.md) [https://www.youtube.com/watch?v=ClOiLPOWYVI](https://www.youtube.com/watch?v=ClOiLPOWYVI)

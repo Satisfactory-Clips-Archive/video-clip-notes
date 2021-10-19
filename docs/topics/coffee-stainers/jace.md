@@ -7,6 +7,21 @@ date: Last Modified
 * ["Fix Jace" QA Site Posts](../../topics/coffee-stainers/jace/fix-jace-qa-site-posts.md)
 * [Jace Art](../../topics/coffee-stainers/jace/jace-art.md)
 
+## September 21st, 2021 Livestream
+* [Community FYI: Jace doesn't look pixelated!](../../transcriptions/yt-BQmDx2-pln0.md) [https://www.youtube.com/watch?v=BQmDx2-pln0](https://www.youtube.com/watch?v=BQmDx2-pln0)
+* [Community FYI: HD Jace is the best Jace](../../transcriptions/yt-oIDz07JTR1g.md) [https://www.youtube.com/watch?v=oIDz07JTR1g](https://www.youtube.com/watch?v=oIDz07JTR1g)
+* [Community FYI: Well here we are, future Jace is better](../../transcriptions/yt-PBmRDGk2vF0.md) [https://www.youtube.com/watch?v=PBmRDGk2vF0](https://www.youtube.com/watch?v=PBmRDGk2vF0)
+* [Community FYI: Paradox avoided](../../transcriptions/yt-SlgKW7jt3KY.md) [https://www.youtube.com/watch?v=SlgKW7jt3KY](https://www.youtube.com/watch?v=SlgKW7jt3KY)
+* [Q&A: Jace, can you square a circle?](../../transcriptions/yt-h6RWjpfFpqg.md) [https://www.youtube.com/watch?v=h6RWjpfFpqg](https://www.youtube.com/watch?v=h6RWjpfFpqg)
+* [Q&A: So we get 1.0 the sooner you're fired?](../../transcriptions/yt-2DfvIN_tYio.md) [https://www.youtube.com/watch?v=2DfvIN_tYio](https://www.youtube.com/watch?v=2DfvIN_tYio)
+* Q&A: When future Jace loads in does he have to kill past Jace to get his items back? [https://www.youtube.com/watch?v=IPhMwGRkGwI](https://www.youtube.com/watch?v=IPhMwGRkGwI)
+* [Q&A: Jace will be part of the Story?](../../transcriptions/yt-JuGh8i9uZ7I.md) [https://www.youtube.com/watch?v=JuGh8i9uZ7I](https://www.youtube.com/watch?v=JuGh8i9uZ7I)
+* [Q&A: Will Jace do a voice in the game?](../../transcriptions/yt-oDe_FdrcnYc.md) [https://www.youtube.com/watch?v=oDe_FdrcnYc](https://www.youtube.com/watch?v=oDe_FdrcnYc)
+* [Community FYI: Hope you guys will stick around once Satisfactory hits 1.0](../../transcriptions/yt-oI151i4cEOo.md) [https://www.youtube.com/watch?v=oI151i4cEOo](https://www.youtube.com/watch?v=oI151i4cEOo)
+* [Q&A: Jace & Snutt hot tub stream, when?](../../transcriptions/yt-RjWo88eGJcg.md) [https://www.youtube.com/watch?v=RjWo88eGJcg](https://www.youtube.com/watch?v=RjWo88eGJcg)
+* [Q&A: What's for dinner?](../../transcriptions/yt-1lxuA-RA4uM.md) [https://www.youtube.com/watch?v=1lxuA-RA4uM](https://www.youtube.com/watch?v=1lxuA-RA4uM)
+* [Community FYI: Snutt Varlet, Jace Treptow](../../transcriptions/yt-Q2qZphshIXc.md) [https://www.youtube.com/watch?v=Q2qZphshIXc](https://www.youtube.com/watch?v=Q2qZphshIXc)
+
 ## September 14th, 2021 Livestream
 * [Q&A: Are you Swedes?](../../transcriptions/yt-_G-sfOI1QhE.md) [https://www.youtube.com/watch?v=_G-sfOI1QhE](https://www.youtube.com/watch?v=_G-sfOI1QhE)
 * [Q&A: When will you be returning to the office?](../../transcriptions/yt-21QIrQXv2f4.md) [https://www.youtube.com/watch?v=21QIrQXv2f4](https://www.youtube.com/watch?v=21QIrQXv2f4)

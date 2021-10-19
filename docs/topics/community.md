@@ -23,6 +23,10 @@ date: Last Modified
 * [Tom](../topics/community/tom.md)
 * [Wiki](../topics/community/wiki.md)
 
+## September 21st, 2021 Livestream
+* [Community FYI: Yo, watching this at school, let's goooooooo!](../transcriptions/yt-faOHDZX8vKc.md) [https://www.youtube.com/watch?v=faOHDZX8vKc](https://www.youtube.com/watch?v=faOHDZX8vKc)
+* [Community FYI: Just got the Twitter notification for Livestream](../transcriptions/yt-D1VuJBaiIfM.md) [https://www.youtube.com/watch?v=D1VuJBaiIfM](https://www.youtube.com/watch?v=D1VuJBaiIfM)
+
 ## September 14th, 2021 Livestream
 * [Community FYI: LOL](../transcriptions/yt-ygZQo28Shg8.md) [https://www.youtube.com/watch?v=ygZQo28Shg8](https://www.youtube.com/watch?v=ygZQo28Shg8)
 * [Snutt & Jace Talk: Satisfactory Stream Bingo](../transcriptions/yt-BnKTxxMyQq0.md) [https://www.youtube.com/watch?v=BnKTxxMyQq0](https://www.youtube.com/watch?v=BnKTxxMyQq0)

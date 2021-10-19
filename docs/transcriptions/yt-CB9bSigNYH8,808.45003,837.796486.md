@@ -8,7 +8,7 @@ topics:
 # [February 20th, 2019 Livestream](../2019-02-20.md)
 ## Q&A: How many people are there in the studio?
 https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=808&end=838
-This question was possibly duplicated with a more recent answer: [August 17th, 2021 Livestream Q&A: How many devs are you?](./yt-SvpznvEqr5E.md) [https://www.youtube.com/watch?v=SvpznvEqr5E](https://www.youtube.com/watch?v=SvpznvEqr5E)
+This question was possibly duplicated with a more recent answer: [September 21st, 2021 Livestream Q&A: How big is the whole team?](./yt-PBRR5eAsO40.md) [https://www.youtube.com/watch?v=PBRR5eAsO40](https://www.youtube.com/watch?v=PBRR5eAsO40)
 
 
 ### Topics

@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../../topics.md) > Features > Transportation > Trains
 * [Train Signals](../../../topics/features/transportation/trains/train-signals.md)
 
+## September 21st, 2021 Livestream
+* [Q&A: Trains suck in Multiplayer, Dedicated Servers when?](../../../transcriptions/yt-hKRRW-m42zs.md) [https://www.youtube.com/watch?v=hKRRW-m42zs](https://www.youtube.com/watch?v=hKRRW-m42zs)
+
 ## September 14th, 2021 Livestream
 * [Q&A: When will Trains be fixed? (Part 1)](../../../transcriptions/yt-AsHymUPXtrU.md) [https://www.youtube.com/watch?v=AsHymUPXtrU](https://www.youtube.com/watch?v=AsHymUPXtrU)
 * [Q&A: When will Trains be fixed? (Part 2)](../../../transcriptions/yt-UrUHlWoT-cc.md) [https://www.youtube.com/watch?v=UrUHlWoT-cc](https://www.youtube.com/watch?v=UrUHlWoT-cc)

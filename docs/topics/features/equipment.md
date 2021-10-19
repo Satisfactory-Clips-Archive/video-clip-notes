@@ -14,6 +14,9 @@ date: Last Modified
 * [Rifle](../../topics/features/equipment/rifle.md)
 * [Zip Lines](../../topics/features/equipment/zip-lines.md)
 
+## September 21st, 2021 Livestream
+* [Q&A: Why is there no laser gun?](../../transcriptions/yt-cvvpoBzS7DM.md) [https://www.youtube.com/watch?v=cvvpoBzS7DM](https://www.youtube.com/watch?v=cvvpoBzS7DM)
+
 ## September 7th, 2021 Livestream
 * [Q&A: Any news on switching the Mug from porcelain to metal?](../../transcriptions/yt-X7Eu3q-Y5Z8.md) [https://www.youtube.com/watch?v=X7Eu3q-Y5Z8](https://www.youtube.com/watch?v=X7Eu3q-Y5Z8)
 

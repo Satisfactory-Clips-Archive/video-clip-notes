@@ -13,7 +13,7 @@ topics:
 # [June 22nd, 2018 Q&A](../2018-06-22.md)
 ## Q&A: Plans for post-launch?
 https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=120&end=177
-This question was possibly duplicated with a more recent answer: [August 24th, 2021 Livestream Q&A: Will there be updates after 1.0?](./yt-LXG_NjB0cr4.md) [https://www.youtube.com/watch?v=LXG_NjB0cr4](https://www.youtube.com/watch?v=LXG_NjB0cr4)
+This question was possibly duplicated with a more recent answer: [September 21st, 2021 Livestream Q&A: Will the game continue to receive Updates (either minor or major) after 1.0?](./yt-RDO1LqiB54Y.md) [https://www.youtube.com/watch?v=RDO1LqiB54Y](https://www.youtube.com/watch?v=RDO1LqiB54Y)
 
 
 ### Topics

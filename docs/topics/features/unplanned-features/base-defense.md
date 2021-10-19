@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Unplanned Features](../../../topics/features/unplanned-features.md) > Base Defense
 
+## September 21st, 2021 Livestream
+* [Q&A: Will there be a thing like monsters attacking us in waves like in Factorio?](../../../transcriptions/yt-LP3IgdK7OwA.md) [https://www.youtube.com/watch?v=LP3IgdK7OwA](https://www.youtube.com/watch?v=LP3IgdK7OwA)
+
 ## September 14th, 2021 Livestream
 * [Community FYI: Base Defense confirmed](../../../transcriptions/yt-D6z9W_JVTyE.md) [https://www.youtube.com/watch?v=D6z9W_JVTyE](https://www.youtube.com/watch?v=D6z9W_JVTyE)
 

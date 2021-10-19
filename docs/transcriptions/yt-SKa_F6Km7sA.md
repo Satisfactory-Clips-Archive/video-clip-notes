@@ -8,7 +8,7 @@ topics:
 # [May 4th, 2021 Livestream](../2021-05-04.md)
 ## Q&A: Will there be Story?
 https://www.youtube.com/watch?v=SKa_F6Km7sA
-This question was possibly duplicated with a more recent answer: [June 8th, 2021 Livestream Q&A: What about Story?](./yt-SYYJy7HzehA.md) [https://www.youtube.com/watch?v=SYYJy7HzehA](https://www.youtube.com/watch?v=SYYJy7HzehA)
+This question was possibly duplicated with a more recent answer: [September 21st, 2021 Livestream Q&A: Is all the Story stuff finished?](./yt-mUNB0jMlwd0.md) [https://www.youtube.com/watch?v=mUNB0jMlwd0](https://www.youtube.com/watch?v=mUNB0jMlwd0)
 
 
 ### Topics

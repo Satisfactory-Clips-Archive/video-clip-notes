@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > Transportation > [Trains](../../../../topics/features/transportation/trains.md) > Train Signals
 
+## September 21st, 2021 Livestream
+* [Q&A: Can we please rephrase Train Collisions to congestion?](../../../../transcriptions/yt-xp4su-Wj-xE.md) [https://www.youtube.com/watch?v=xp4su-Wj-xE](https://www.youtube.com/watch?v=xp4su-Wj-xE)
+
 ## September 14th, 2021 Livestream
 * [Q&A: Any Collisions / signalling updates to Trains expected in Update 5?](../../../../transcriptions/yt-GOqWeaYileA.md) [https://www.youtube.com/watch?v=GOqWeaYileA](https://www.youtube.com/watch?v=GOqWeaYileA)
 

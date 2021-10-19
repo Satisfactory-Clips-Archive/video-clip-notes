@@ -9,12 +9,7 @@ topics:
 # [April 20th, 2021 Livestream](../2021-04-20.md)
 ## Q&A: What's with the bug with the Gas Mask with the Truck?
 https://www.youtube.com/watch?v=GDthMsvmWaw
-<details>
-<summary>This question may have been asked previously at least 2 other times, as recently as September 2020 and as early as January 2020.</summary>
-
-* [September 8th, 2020 Livestream Q&A: Why do you take Gas damage while wearing a Gas Mask while driving a Car?](./yt-HSuHlcSl-y8.md) [https://www.youtube.com/watch?v=HSuHlcSl-y8](https://www.youtube.com/watch?v=HSuHlcSl-y8)
-* [January 22nd, 2020 Livestream Q&A: Will Gas Masks be working when you sit in vehicles?](./yt-qcOfYoEbhVI.md) [https://www.youtube.com/watch?v=qcOfYoEbhVI](https://www.youtube.com/watch?v=qcOfYoEbhVI)
-</details>
+This question was possibly duplicated with a more recent answer: [September 21st, 2021 Livestream Q&A: Gas Mask in Vehicles?](./yt-_gjOkEU1pwI.md) [https://www.youtube.com/watch?v=_gjOkEU1pwI](https://www.youtube.com/watch?v=_gjOkEU1pwI)
 
 
 ### Topics

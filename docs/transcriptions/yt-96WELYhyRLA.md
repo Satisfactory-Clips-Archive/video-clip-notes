@@ -8,7 +8,7 @@ topics:
 # [August 10th, 2021 Livestream](../2021-08-10.md)
 ## Q&A: Two exits on Mk.3 Miner?
 https://www.youtube.com/watch?v=96WELYhyRLA
-This question was possibly duplicated with a more recent answer: [August 31st, 2021 Livestream Q&A: Two outputs for Mk.3 Miners?](./yt-Nn8tgBZ8s7M.md) [https://www.youtube.com/watch?v=Nn8tgBZ8s7M](https://www.youtube.com/watch?v=Nn8tgBZ8s7M)
+This question was possibly duplicated with a more recent answer: [September 21st, 2021 Livestream Q&A: Can you tell us if we're going to have two exits on the Miners or if you're going to rebalance?](./yt-8CTI5utyv34.md) [https://www.youtube.com/watch?v=8CTI5utyv34](https://www.youtube.com/watch?v=8CTI5utyv34)
 
 
 ### Topics

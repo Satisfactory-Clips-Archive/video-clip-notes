@@ -20,6 +20,10 @@ date: Last Modified
 * [The Cycle](../topics/off-topic/the-cycle.md)
 * [Valheim](../topics/off-topic/valheim.md)
 
+## September 21st, 2021 Livestream
+* [Snutt & Jace Talk: Random buzzing on the stream](../transcriptions/yt-P9LAHeAcXMQ.md) [https://www.youtube.com/watch?v=P9LAHeAcXMQ](https://www.youtube.com/watch?v=P9LAHeAcXMQ)
+* [Snutt & Jace Talk: Final Fantasy](../transcriptions/yt-8UBjw297OVs.md) [https://www.youtube.com/watch?v=8UBjw297OVs](https://www.youtube.com/watch?v=8UBjw297OVs)
+
 ## August 31st, 2021 Livestream
 * [Q&A: Does Jace watch Naruto?](../transcriptions/yt-ZQPH6PEA3pI.md) [https://www.youtube.com/watch?v=ZQPH6PEA3pI](https://www.youtube.com/watch?v=ZQPH6PEA3pI)
 * [Jace Talk: It's reading, not resting bitch face](../transcriptions/yt-Rx436huyyAw.md) [https://www.youtube.com/watch?v=Rx436huyyAw](https://www.youtube.com/watch?v=Rx436huyyAw)

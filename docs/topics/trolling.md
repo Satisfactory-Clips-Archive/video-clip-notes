@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Trolling
 
+## September 21st, 2021 Livestream
+* [Q&A: Are you going to add Goku to the Story?](../transcriptions/yt-IYOulexv3-g.md) [https://www.youtube.com/watch?v=IYOulexv3-g](https://www.youtube.com/watch?v=IYOulexv3-g)
+
 ## September 14th, 2021 Livestream
 * [Community FYI: Base Defense confirmed](../transcriptions/yt-D6z9W_JVTyE.md) [https://www.youtube.com/watch?v=D6z9W_JVTyE](https://www.youtube.com/watch?v=D6z9W_JVTyE)
 * [Q&A: Didn't Snutt get fired last week?](../transcriptions/yt-BmRrPoGbKYw.md) [https://www.youtube.com/watch?v=BmRrPoGbKYw](https://www.youtube.com/watch?v=BmRrPoGbKYw)

@@ -8,7 +8,7 @@ topics:
 # [June 8th, 2021 Livestream](../2021-06-08.md)
 ## Q&A: Turrets & shit?
 https://www.youtube.com/watch?v=KPUcYM5lOac
-This question was possibly duplicated with a more recent answer: [July 20th, 2021 Livestream Q&A: What're your thoughts on making the game Tower Defense?](./yt-Ki4ohrbXbrk.md) [https://www.youtube.com/watch?v=Ki4ohrbXbrk](https://www.youtube.com/watch?v=Ki4ohrbXbrk)
+This question was possibly duplicated with a more recent answer: [September 21st, 2021 Livestream Q&A: Will there be a thing like monsters attacking us in waves like in Factorio?](./yt-LP3IgdK7OwA.md) [https://www.youtube.com/watch?v=LP3IgdK7OwA](https://www.youtube.com/watch?v=LP3IgdK7OwA)
 
 
 ### Topics

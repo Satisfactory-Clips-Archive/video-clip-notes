@@ -37,6 +37,10 @@ date: Last Modified
 * [Torsten](../topics/coffee-stainers/torsten.md)
 * [Uzu](../topics/coffee-stainers/uzu.md)
 
+## September 21st, 2021 Livestream
+* [Q&A: How big is the whole team?](../transcriptions/yt-PBRR5eAsO40.md) [https://www.youtube.com/watch?v=PBRR5eAsO40](https://www.youtube.com/watch?v=PBRR5eAsO40)
+* [Q&A: Are we going to get more Developer Highlights?](../transcriptions/yt-otFqKQW3HlI.md) [https://www.youtube.com/watch?v=otFqKQW3HlI](https://www.youtube.com/watch?v=otFqKQW3HlI)
+
 ## September 14th, 2021 Livestream
 * [Q&A: When will you be returning to the office?](../transcriptions/yt-21QIrQXv2f4.md) [https://www.youtube.com/watch?v=21QIrQXv2f4](https://www.youtube.com/watch?v=21QIrQXv2f4)
 * [Q&A: Do you get an employee discount when you buy the game?](../transcriptions/yt-GrqLG3yidw4.md) [https://www.youtube.com/watch?v=GrqLG3yidw4](https://www.youtube.com/watch?v=GrqLG3yidw4)

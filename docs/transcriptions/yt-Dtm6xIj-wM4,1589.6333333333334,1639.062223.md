@@ -10,7 +10,7 @@ topics:
 # [February 6th, 2019 Livestream](../2019-02-06.md)
 ## Q&A: Why not turrets like Sanctum?
 https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1589&end=1640
-This question was possibly duplicated with a more recent answer: [July 20th, 2021 Livestream Q&A: What're your thoughts on making the game Tower Defense?](./yt-Ki4ohrbXbrk.md) [https://www.youtube.com/watch?v=Ki4ohrbXbrk](https://www.youtube.com/watch?v=Ki4ohrbXbrk)
+This question was possibly duplicated with a more recent answer: [September 21st, 2021 Livestream Q&A: Will there be a thing like monsters attacking us in waves like in Factorio?](./yt-LP3IgdK7OwA.md) [https://www.youtube.com/watch?v=LP3IgdK7OwA](https://www.youtube.com/watch?v=LP3IgdK7OwA)
 
 
 ### Topics

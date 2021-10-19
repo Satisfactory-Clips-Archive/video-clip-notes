@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Equipment](../../../topics/features/equipment.md) > Chainsaw
 
+## September 21st, 2021 Livestream
+* [Q&A: Chainsaw melee when?](../../../transcriptions/yt-3wiy2WlDVNY.md) [https://www.youtube.com/watch?v=3wiy2WlDVNY](https://www.youtube.com/watch?v=3wiy2WlDVNY)
+
 ## May 11th, 2021 Livestream
 * [Community FYI: Chainsaw needs to kill animals](../../../transcriptions/yt-Sqcj2hdaKIM.md) [https://www.youtube.com/watch?v=Sqcj2hdaKIM](https://www.youtube.com/watch?v=Sqcj2hdaKIM)
 

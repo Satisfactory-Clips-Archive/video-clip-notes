@@ -9,7 +9,7 @@ topics:
 # [February 16th, 2021 Livestream](../2021-02-16.md)
 ## Q&A: Will 1.0 go to Experimental?
 https://www.youtube.com/watch?v=qYBAKknb7WA
-This question was possibly duplicated with a more recent answer: [February 26th, 2021 Videos Q&A: Why does it go to Experimental first?](./yt-F-q3vfj__M4,31.36466666666667,80.08.md) [https://youtube.com/embed/F-q3vfj__M4?autoplay=1&start=31&end=81](https://youtube.com/embed/F-q3vfj__M4?autoplay=1&start=31&end=81)
+This question was possibly duplicated with a more recent answer: [September 21st, 2021 Livestream Q&A: Do you think 1.0 will release on Experimental before general release?](./yt-FazJegnOGqM.md) [https://www.youtube.com/watch?v=FazJegnOGqM](https://www.youtube.com/watch?v=FazJegnOGqM)
 
 
 ### Topics

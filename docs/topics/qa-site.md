@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > QA Site
 
+## September 21st, 2021 Livestream
+* [Q&A: I found weird terrain anomalies, where's the best place to mention those?](../transcriptions/yt-CgRlnYOqxkY.md) [https://www.youtube.com/watch?v=CgRlnYOqxkY](https://www.youtube.com/watch?v=CgRlnYOqxkY)
+
 ## September 14th, 2021 Livestream
 * [Q&A: Why post on the QA Site, you still haven't added Golf?](../transcriptions/yt-6Jp9X2BNpos.md) [https://www.youtube.com/watch?v=6Jp9X2BNpos](https://www.youtube.com/watch?v=6Jp9X2BNpos)
 * [Q&A: On the QA Site does a post have to have x hundreds of votes to be implemented?](../transcriptions/yt-TgbhiN1sgqo.md) [https://www.youtube.com/watch?v=TgbhiN1sgqo](https://www.youtube.com/watch?v=TgbhiN1sgqo)

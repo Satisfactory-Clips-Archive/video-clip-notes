@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Tiers](../../../topics/features/tiers.md) > Tier 9
 
+## September 21st, 2021 Livestream
+* [Q&A: Will there be new Tiers in Update 5?](../../../transcriptions/yt-V6WvDBxAm1U.md) [https://www.youtube.com/watch?v=V6WvDBxAm1U](https://www.youtube.com/watch?v=V6WvDBxAm1U)
+
 ## August 3rd, 2021 Livestream
 * [Q&A: Will there be a Tier 9 & 10?](../../../transcriptions/yt-ak2xGu7ZZIc.md) [https://www.youtube.com/watch?v=ak2xGu7ZZIc](https://www.youtube.com/watch?v=ak2xGu7ZZIc)
 

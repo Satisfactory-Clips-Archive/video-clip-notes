@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Embracer Group](../../../topics/embracer-group.md) > Coffee Stain Holding > Coffee Stain Studios
 
+## September 21st, 2021 Livestream
+* [Q&A: How big is the whole team?](../../../transcriptions/yt-PBRR5eAsO40.md) [https://www.youtube.com/watch?v=PBRR5eAsO40](https://www.youtube.com/watch?v=PBRR5eAsO40)
+* [Q&A: Why are you guys not affiliate?](../../../transcriptions/yt-wSymvPiav-k.md) [https://www.youtube.com/watch?v=wSymvPiav-k](https://www.youtube.com/watch?v=wSymvPiav-k)
+
 ## September 14th, 2021 Livestream
 * [Q&A: Do you have free places in your company for interested people like us?](../../../transcriptions/yt-9xYkguP293w.md) [https://www.youtube.com/watch?v=9xYkguP293w](https://www.youtube.com/watch?v=9xYkguP293w)
 * [Q&A: Do you get an employee discount when you buy the game?](../../../transcriptions/yt-GrqLG3yidw4.md) [https://www.youtube.com/watch?v=GrqLG3yidw4](https://www.youtube.com/watch?v=GrqLG3yidw4)

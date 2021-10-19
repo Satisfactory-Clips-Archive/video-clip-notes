@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > State of Dev
 
+## September 21st, 2021 Livestream
+* [State of Dev: State of Golf](../../transcriptions/yt-eKgulNPmte4.md) [https://www.youtube.com/watch?v=eKgulNPmte4](https://www.youtube.com/watch?v=eKgulNPmte4)
+
 ## September 7th, 2021 Livestream
 * [State of Dev: Update 5, Dedicated Servers, and Golf](../../transcriptions/yt-yKSmdI8xuXM.md) [https://www.youtube.com/watch?v=yKSmdI8xuXM](https://www.youtube.com/watch?v=yKSmdI8xuXM)
 

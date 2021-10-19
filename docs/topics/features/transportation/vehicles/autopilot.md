@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > Transportation > [Vehicles](../../../../topics/features/transportation/vehicles.md) > Autopilot
 
+## September 21st, 2021 Livestream
+* [Q&A: What happens if an automated Vehicle runs out of Fuel?](../../../../transcriptions/yt-RalQ17zg3tc.md) [https://www.youtube.com/watch?v=RalQ17zg3tc](https://www.youtube.com/watch?v=RalQ17zg3tc)
+* [Q&A: Will the spline be visible to players or only limited to the way points?](../../../../transcriptions/yt-_71h_WKygcg.md) [https://www.youtube.com/watch?v=_71h_WKygcg](https://www.youtube.com/watch?v=_71h_WKygcg)
+
 ## September 14th, 2021 Livestream
 * [Snutt & Jace Talk: Pathing for Vehicles has changed](../../../../transcriptions/yt-nXAqkPVgH2o.md) [https://www.youtube.com/watch?v=nXAqkPVgH2o](https://www.youtube.com/watch?v=nXAqkPVgH2o)
 * [Snutt & Jace Talk: Vehicle obstacle handling](../../../../transcriptions/yt-_p_gLzGc3WI.md) [https://www.youtube.com/watch?v=_p_gLzGc3WI](https://www.youtube.com/watch?v=_p_gLzGc3WI)

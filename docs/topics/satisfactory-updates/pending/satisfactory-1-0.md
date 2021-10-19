@@ -5,6 +5,18 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Pending > Satisfactory 1.0
 
+## September 21st, 2021 Livestream
+* [Q&A: When will the game be at full release?](../../../transcriptions/yt-Diz3iZ5irII.md) [https://www.youtube.com/watch?v=Diz3iZ5irII](https://www.youtube.com/watch?v=Diz3iZ5irII)
+* [Q&A: When Satisfactory does hit 1.0, will you do a complete playthrough on-stream?](../../../transcriptions/yt-6LTinIiS1ss.md) [https://www.youtube.com/watch?v=6LTinIiS1ss](https://www.youtube.com/watch?v=6LTinIiS1ss)
+* [Q&A: Will completing the game be harder or easier than the Golden Cup?](../../../transcriptions/yt-HqsTQOHIwgc.md) [https://www.youtube.com/watch?v=HqsTQOHIwgc](https://www.youtube.com/watch?v=HqsTQOHIwgc)
+* [Q&A: Will you continue streams after 1.0?](../../../transcriptions/yt-lnQ9cDrRIjM.md) [https://www.youtube.com/watch?v=lnQ9cDrRIjM](https://www.youtube.com/watch?v=lnQ9cDrRIjM)
+* [Q&A: So we get 1.0 the sooner you're fired?](../../../transcriptions/yt-2DfvIN_tYio.md) [https://www.youtube.com/watch?v=2DfvIN_tYio](https://www.youtube.com/watch?v=2DfvIN_tYio)
+* [Q&A: Are you ready to celebrate the fact that the next Update is half way towards 1.0?](../../../transcriptions/yt-o64NGIJwdm4.md) [https://www.youtube.com/watch?v=o64NGIJwdm4](https://www.youtube.com/watch?v=o64NGIJwdm4)
+* [Q&A: Will Update 5 be the last major Update before 1.0?](../../../transcriptions/yt-wBVPNXngK7A.md) [https://www.youtube.com/watch?v=wBVPNXngK7A](https://www.youtube.com/watch?v=wBVPNXngK7A)
+* [Community FYI: Hope you guys will stick around once Satisfactory hits 1.0](../../../transcriptions/yt-oI151i4cEOo.md) [https://www.youtube.com/watch?v=oI151i4cEOo](https://www.youtube.com/watch?v=oI151i4cEOo)
+* [Q&A: Do you think 1.0 will release on Experimental before general release?](../../../transcriptions/yt-FazJegnOGqM.md) [https://www.youtube.com/watch?v=FazJegnOGqM](https://www.youtube.com/watch?v=FazJegnOGqM)
+* [Q&A: Will the game continue to receive Updates (either minor or major) after 1.0?](../../../transcriptions/yt-RDO1LqiB54Y.md) [https://www.youtube.com/watch?v=RDO1LqiB54Y](https://www.youtube.com/watch?v=RDO1LqiB54Y)
+
 ## September 14th, 2021 Livestream
 * [Q&A: Full release of the game, how far is that?](../../../transcriptions/yt-GXHh2ZFq3FI.md) [https://www.youtube.com/watch?v=GXHh2ZFq3FI](https://www.youtube.com/watch?v=GXHh2ZFq3FI)
 

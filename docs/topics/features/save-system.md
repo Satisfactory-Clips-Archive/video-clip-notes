@@ -7,6 +7,9 @@ date: Last Modified
 * [Autosave](../../topics/features/save-system/autosave.md)
 * [Cloud Sync](../../topics/features/save-system/cloud-sync.md)
 
+## September 24th, 2021 Video
+* [Jace Talk: Back up your saves](../../transcriptions/yt-W3YBFCO1NMg,80.08,95.52876666666667.md) [https://youtube.com/clip/UgkxRT_6nzgEfU7ffNARf4A2Sryn8R83sglP](https://youtube.com/clip/UgkxRT_6nzgEfU7ffNARf4A2Sryn8R83sglP)
+
 ## July 13th, 2021 Livestream
 * [Q&A: Is it true the more Trees & Plants cut down the slower your game is?](../../transcriptions/yt-MwG60ilcvf0.md) [https://www.youtube.com/watch?v=MwG60ilcvf0](https://www.youtube.com/watch?v=MwG60ilcvf0)
 

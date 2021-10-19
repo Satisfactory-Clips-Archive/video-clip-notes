@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Fluids](../../../topics/features/fluids.md) > Pipes
 
+## September 21st, 2021 Livestream
+* [Q&A: Is there some strange math problem with Pipes feeding Fuel Generators?](../../../transcriptions/yt-Bs0MS4ZOzjI.md) [https://www.youtube.com/watch?v=Bs0MS4ZOzjI](https://www.youtube.com/watch?v=Bs0MS4ZOzjI)
+* [Community FYI: Every time the game was loaded, 5m³ disappears.](../../../transcriptions/yt-u7ud0qmbM6U.md) [https://www.youtube.com/watch?v=u7ud0qmbM6U](https://www.youtube.com/watch?v=u7ud0qmbM6U)
+
 ## August 31st, 2021 Livestream
 * [Snutt Talk: Water Pipe bug in Teaser](../../../transcriptions/yt-6s6RbXbPmy8.md) [https://www.youtube.com/watch?v=6s6RbXbPmy8](https://www.youtube.com/watch?v=6s6RbXbPmy8)
 * [Snutt & Jace Talk: Pipes coming through frames](../../../transcriptions/yt-_vKIFDNtmfE.md) [https://www.youtube.com/watch?v=_vKIFDNtmfE](https://www.youtube.com/watch?v=_vKIFDNtmfE)

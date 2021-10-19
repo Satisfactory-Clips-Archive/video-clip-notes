@@ -8,7 +8,7 @@ topics:
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Q&A: How many Devs are working on the Game approximately?
 https://www.youtube.com/watch?v=cqz8zcpP2og
-This question was possibly duplicated with a more recent answer: [August 17th, 2021 Livestream Q&A: How many devs are you?](./yt-SvpznvEqr5E.md) [https://www.youtube.com/watch?v=SvpznvEqr5E](https://www.youtube.com/watch?v=SvpznvEqr5E)
+This question was possibly duplicated with a more recent answer: [September 21st, 2021 Livestream Q&A: How big is the whole team?](./yt-PBRR5eAsO40.md) [https://www.youtube.com/watch?v=PBRR5eAsO40](https://www.youtube.com/watch?v=PBRR5eAsO40)
 
 
 ### Topics

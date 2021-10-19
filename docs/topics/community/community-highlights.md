@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Community Highlights
 
+## September 21st, 2021 Livestream
+* [Q&A: As someone who has not played; I'm sorry, what?](../../transcriptions/yt-8wg3Jio1Bn8.md) [https://www.youtube.com/watch?v=8wg3Jio1Bn8](https://www.youtube.com/watch?v=8wg3Jio1Bn8)
+
 ## September 7th, 2021 Livestream
 * [Community Highlights: Location of the 2017 Tutorial Video](../../transcriptions/yt-z7OTWzgAkh0.md) [https://www.youtube.com/watch?v=z7OTWzgAkh0](https://www.youtube.com/watch?v=z7OTWzgAkh0)
 * [Community Highlights: Satisfactory if it was a good game](../../transcriptions/yt-ggdHnqZ7n6M.md) [https://www.youtube.com/watch?v=ggdHnqZ7n6M](https://www.youtube.com/watch?v=ggdHnqZ7n6M)

@@ -5,6 +5,17 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > Release Builds
 
+## September 24th, 2021 Video
+* [Jace Talk: Experimental vs. Early Access versions](../../transcriptions/yt-W3YBFCO1NMg,38.77206666666667,80.04663333333333.md) [https://youtube.com/clip/Ugkxpyi172YKZF-zc3dXhCidH_k2idgGgFh7](https://youtube.com/clip/Ugkxpyi172YKZF-zc3dXhCidH_k2idgGgFh7)
+* [Jace Talk: Back up your saves](../../transcriptions/yt-W3YBFCO1NMg,80.08,95.52876666666667.md) [https://youtube.com/clip/UgkxRT_6nzgEfU7ffNARf4A2Sryn8R83sglP](https://youtube.com/clip/UgkxRT_6nzgEfU7ffNARf4A2Sryn8R83sglP)
+
+## September 21st, 2021 Livestream
+* [Q&A: Will the Engine Update push out to EA before the new content to Update 5?](../../transcriptions/yt-MFlqre9Sy3A.md) [https://www.youtube.com/watch?v=MFlqre9Sy3A](https://www.youtube.com/watch?v=MFlqre9Sy3A)
+* [Snutt & Jace Talk: If you're playing on Experimental, Mods will probably break](../../transcriptions/yt-SPBT-gIzIPU.md) [https://www.youtube.com/watch?v=SPBT-gIzIPU](https://www.youtube.com/watch?v=SPBT-gIzIPU)
+* [Snutt & Jace Talk: How to access the Experimental version](../../transcriptions/yt-MzCveeXuWJE.md) [https://www.youtube.com/watch?v=MzCveeXuWJE](https://www.youtube.com/watch?v=MzCveeXuWJE)
+* [Community FYI: I'm willing to take the chance so I will back up my saves](../../transcriptions/yt-68rRB7vKt70.md) [https://www.youtube.com/watch?v=68rRB7vKt70](https://www.youtube.com/watch?v=68rRB7vKt70)
+* [Q&A: Do you think 1.0 will release on Experimental before general release?](../../transcriptions/yt-FazJegnOGqM.md) [https://www.youtube.com/watch?v=FazJegnOGqM](https://www.youtube.com/watch?v=FazJegnOGqM)
+
 ## July 13th, 2021 Livestream
 * [Q&A: How do you get the source control version number embedded in the game?](../../transcriptions/yt-C7jnOWalyHM.md) [https://www.youtube.com/watch?v=C7jnOWalyHM](https://www.youtube.com/watch?v=C7jnOWalyHM)
 

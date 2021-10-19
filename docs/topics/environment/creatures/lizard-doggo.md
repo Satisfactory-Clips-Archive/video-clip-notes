@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Creatures](../../../topics/environment/creatures.md) > Lizard Doggo
 
+## September 21st, 2021 Livestream
+* [Q&A: The way to dispose Nuclear Waste that Josh used, was it intended?](../../../transcriptions/yt-HNrxJ2Sth7Y.md) [https://www.youtube.com/watch?v=HNrxJ2Sth7Y](https://www.youtube.com/watch?v=HNrxJ2Sth7Y)
+
 ## August 17th, 2021 Livestream
 * [Q&A: Any plans to add a leash for the Lizard Doggos](../../../transcriptions/yt-n7GV7t18JZ8.md) [https://www.youtube.com/watch?v=n7GV7t18JZ8](https://www.youtube.com/watch?v=n7GV7t18JZ8)
 * [Q&A: Will the Lizard Doggo act as a Golf caddy when Golf gets implemented?](../../../transcriptions/yt-fzhc__1B2L8.md) [https://www.youtube.com/watch?v=fzhc__1B2L8](https://www.youtube.com/watch?v=fzhc__1B2L8)

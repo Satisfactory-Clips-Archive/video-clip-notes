@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Mark
 
+## September 21st, 2021 Livestream
+* [Q&A: Next video with Mark?](../../transcriptions/yt-EFBH7CmbZnA.md) [https://www.youtube.com/watch?v=EFBH7CmbZnA](https://www.youtube.com/watch?v=EFBH7CmbZnA)
+
 ## September 7th, 2021 Livestream
 * [Q&A: Why did you go with the term "Zoop", what were the other possibilities?](../../transcriptions/yt-RGDvSGvf7qg.md) [https://www.youtube.com/watch?v=RGDvSGvf7qg](https://www.youtube.com/watch?v=RGDvSGvf7qg)
 * [Q&A: Where's the term "Zoop" come from?](../../transcriptions/yt-HNK0TDmQBVU.md) [https://www.youtube.com/watch?v=HNK0TDmQBVU](https://www.youtube.com/watch?v=HNK0TDmQBVU)

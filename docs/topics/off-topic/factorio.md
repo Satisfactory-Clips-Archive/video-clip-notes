@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Factorio
 
+## September 21st, 2021 Livestream
+* [Community FYI: Would love to do a Satisfactory "Factorio: 500 Players in the game"](../../transcriptions/yt-EGlBy8Yez_o.md) [https://www.youtube.com/watch?v=EGlBy8Yez_o](https://www.youtube.com/watch?v=EGlBy8Yez_o)
+* [Q&A: Will there be a thing like monsters attacking us in waves like in Factorio?](../../transcriptions/yt-LP3IgdK7OwA.md) [https://www.youtube.com/watch?v=LP3IgdK7OwA](https://www.youtube.com/watch?v=LP3IgdK7OwA)
+
 ## July 13th, 2021 Livestream
 * [Q&A: Would the Train Signals be similar to the system in Factorio?](../../transcriptions/yt-91vobZE_Zww.md) [https://www.youtube.com/watch?v=91vobZE_Zww](https://www.youtube.com/watch?v=91vobZE_Zww)
 

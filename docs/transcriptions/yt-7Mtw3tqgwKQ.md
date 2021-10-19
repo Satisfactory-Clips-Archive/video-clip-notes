@@ -8,7 +8,7 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: When will we release Update 6?
 https://www.youtube.com/watch?v=7Mtw3tqgwKQ
-This question was possibly duplicated with a more recent answer: [September 14th, 2021 Livestream Q&A: When will Update 6 be coming?](./yt-MAEyPQndkQM.md) [https://www.youtube.com/watch?v=MAEyPQndkQM](https://www.youtube.com/watch?v=MAEyPQndkQM)
+This question was possibly duplicated with a more recent answer: [September 21st, 2021 Livestream Q&A: When is Update 6 coming?](./yt-mfgroZAlqis.md) [https://www.youtube.com/watch?v=mfgroZAlqis](https://www.youtube.com/watch?v=mfgroZAlqis)
 
 
 ### Topics

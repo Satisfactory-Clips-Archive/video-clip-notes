@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > Features > Photo Mode
 
+## September 21st, 2021 Livestream
+* [Q&A: A third-person camera in Photo Mode would be a start?](../../transcriptions/yt-abN9BeUO-qA.md) [https://www.youtube.com/watch?v=abN9BeUO-qA](https://www.youtube.com/watch?v=abN9BeUO-qA)
+
 ## August 31st, 2021 Livestream
 * [Q&A: Are there any plans for adding the tools to the game that you use to make the teasers?](../../transcriptions/yt-hgVQCncD4PA.md) [https://www.youtube.com/watch?v=hgVQCncD4PA](https://www.youtube.com/watch?v=hgVQCncD4PA)
 

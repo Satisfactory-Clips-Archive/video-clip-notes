@@ -9,7 +9,7 @@ topics:
 # [January 22nd, 2020 Livestream](../2020-01-22.md)
 ## Q&A: Will Gas Masks be working when you sit in vehicles?
 https://www.youtube.com/watch?v=qcOfYoEbhVI
-This question was possibly duplicated with a more recent answer: [April 20th, 2021 Livestream Q&A: What's with the bug with the Gas Mask with the Truck?](./yt-GDthMsvmWaw.md) [https://www.youtube.com/watch?v=GDthMsvmWaw](https://www.youtube.com/watch?v=GDthMsvmWaw)
+This question was possibly duplicated with a more recent answer: [September 21st, 2021 Livestream Q&A: Gas Mask in Vehicles?](./yt-_gjOkEU1pwI.md) [https://www.youtube.com/watch?v=_gjOkEU1pwI](https://www.youtube.com/watch?v=_gjOkEU1pwI)
 
 
 ### Topics

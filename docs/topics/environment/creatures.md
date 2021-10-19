@@ -10,6 +10,10 @@ date: Last Modified
 * [Non Flying Bird](../../topics/environment/creatures/non-flying-bird.md)
 * [Space Giraffe-Tick-Penguin-Whale Thing](../../topics/environment/creatures/space-giraffe-tick-penguin-whale-thing.md)
 
+## September 21st, 2021 Livestream
+* [Q&A: Option to respawn Creatures?](../../transcriptions/yt-sYlIdZkJYHE.md) [https://www.youtube.com/watch?v=sYlIdZkJYHE](https://www.youtube.com/watch?v=sYlIdZkJYHE)
+* [Q&A: Any challenge or enemies that gives us a target or goal?](../../transcriptions/yt-rpv8CyrIuKs.md) [https://www.youtube.com/watch?v=rpv8CyrIuKs](https://www.youtube.com/watch?v=rpv8CyrIuKs)
+
 ## August 31st, 2021 Livestream
 * [Q&A: Add Giant Spiders farting Gas?](../../transcriptions/yt-SI13H69UiUQ.md) [https://www.youtube.com/watch?v=SI13H69UiUQ](https://www.youtube.com/watch?v=SI13H69UiUQ)
 

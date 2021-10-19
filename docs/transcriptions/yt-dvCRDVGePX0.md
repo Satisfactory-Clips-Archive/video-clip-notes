@@ -8,6 +8,8 @@ topics:
 # [March 2nd, 2021 Livestream](../2021-03-02.md)
 ## Q&A: Update 10 is 1.0?
 https://www.youtube.com/watch?v=dvCRDVGePX0
+This question was possibly duplicated with a more recent answer: [September 21st, 2021 Livestream Q&A: Are you ready to celebrate the fact that the next Update is half way towards 1.0?](./yt-o64NGIJwdm4.md) [https://www.youtube.com/watch?v=o64NGIJwdm4](https://www.youtube.com/watch?v=o64NGIJwdm4)
+
 
 ### Topics
 * [Satisfactory Updates > Pending > Satisfactory 1.0](../topics/satisfactory-updates/pending/satisfactory-1-0.md)

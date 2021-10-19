@@ -18,6 +18,17 @@ date: Last Modified
 * [Teasers & Trailers](../topics/satisfactory-updates/teasers-trailers.md)
 * [World Update](../topics/satisfactory-updates/world-update.md)
 
+## September 24th, 2021 Video
+* [Jace Talk: Update 5 compared to past Updates](../transcriptions/yt-W3YBFCO1NMg,176.44293333333334,281.9817.md) [https://youtube.com/embed/W3YBFCO1NMg?autoplay=1&start=176&end=282](https://youtube.com/embed/W3YBFCO1NMg?autoplay=1&start=176&end=282)
+
+## September 21st, 2021 Livestream
+* Snutt & Jace Talk: Engine Update [https://www.youtube.com/watch?v=GhhV6CAxJ1c](https://www.youtube.com/watch?v=GhhV6CAxJ1c)
+* [Snutt Talk: Engine Upgrade](../transcriptions/yt-eX0wesdlKTA.md) [https://www.youtube.com/watch?v=eX0wesdlKTA](https://www.youtube.com/watch?v=eX0wesdlKTA)
+* [Snutt Talk: DirectX & Vukan Support in the Engine Upgrade](../transcriptions/yt-rbf8L_K7QEs.md) [https://www.youtube.com/watch?v=rbf8L_K7QEs](https://www.youtube.com/watch?v=rbf8L_K7QEs)
+* [Q&A: Will the Engine Update push out to EA before the new content to Update 5?](../transcriptions/yt-MFlqre9Sy3A.md) [https://www.youtube.com/watch?v=MFlqre9Sy3A](https://www.youtube.com/watch?v=MFlqre9Sy3A)
+* [Community FYI: I like the game but don't like that when an Update comes you need to redo your base](../transcriptions/yt-Sm5QqQgdN2o.md) [https://www.youtube.com/watch?v=Sm5QqQgdN2o](https://www.youtube.com/watch?v=Sm5QqQgdN2o)
+* [Q&A: Will the game continue to receive Updates (either minor or major) after 1.0?](../transcriptions/yt-RDO1LqiB54Y.md) [https://www.youtube.com/watch?v=RDO1LqiB54Y](https://www.youtube.com/watch?v=RDO1LqiB54Y)
+
 ## September 17th, 2021 Video
 * [Jace Talk: Not talking about Update 5, getting an Engine Update](../transcriptions/yt-HJyfSle4o_U,6.373033333333334,48.548500000000004.md) [https://youtube.com/clip/UgkxOayUJtfEYpbaelVSCWkLtjHx-4RgFcAG](https://youtube.com/clip/UgkxOayUJtfEYpbaelVSCWkLtjHx-4RgFcAG)
 * [Q&A: When is this Update coming?](../transcriptions/yt-HJyfSle4o_U,48.58186666666667,104.07063333333333.md) [https://youtube.com/clip/UgkxKZqa6UcHfyaLz6YYjd5Q-DeeSz6ikogJ](https://youtube.com/clip/UgkxKZqa6UcHfyaLz6YYjd5Q-DeeSz6ikogJ)

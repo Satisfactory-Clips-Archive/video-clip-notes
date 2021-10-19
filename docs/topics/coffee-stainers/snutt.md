@@ -6,6 +6,14 @@ date: Last Modified
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Snutt
 * [Snutt Burger Time](../../topics/coffee-stainers/snutt/snutt-burger-time.md)
 
+## September 21st, 2021 Livestream
+* [Community FYI: Your mic sounds so much better now, Snutt](../../transcriptions/yt-PHz1xqlxvqo.md) [https://www.youtube.com/watch?v=PHz1xqlxvqo](https://www.youtube.com/watch?v=PHz1xqlxvqo)
+* [Q&A: So we get 1.0 the sooner you're fired?](../../transcriptions/yt-2DfvIN_tYio.md) [https://www.youtube.com/watch?v=2DfvIN_tYio](https://www.youtube.com/watch?v=2DfvIN_tYio)
+* [Community FYI: Hope you guys will stick around once Satisfactory hits 1.0](../../transcriptions/yt-oI151i4cEOo.md) [https://www.youtube.com/watch?v=oI151i4cEOo](https://www.youtube.com/watch?v=oI151i4cEOo)
+* [Q&A: Jace & Snutt hot tub stream, when?](../../transcriptions/yt-RjWo88eGJcg.md) [https://www.youtube.com/watch?v=RjWo88eGJcg](https://www.youtube.com/watch?v=RjWo88eGJcg)
+* [Q&A: What's for dinner?](../../transcriptions/yt-1lxuA-RA4uM.md) [https://www.youtube.com/watch?v=1lxuA-RA4uM](https://www.youtube.com/watch?v=1lxuA-RA4uM)
+* [Community FYI: Snutt Varlet, Jace Treptow](../../transcriptions/yt-Q2qZphshIXc.md) [https://www.youtube.com/watch?v=Q2qZphshIXc](https://www.youtube.com/watch?v=Q2qZphshIXc)
+
 ## September 14th, 2021 Livestream
 * [Q&A: Are you Swedes?](../../transcriptions/yt-_G-sfOI1QhE.md) [https://www.youtube.com/watch?v=_G-sfOI1QhE](https://www.youtube.com/watch?v=_G-sfOI1QhE)
 * [Q&A: When will you be returning to the office?](../../transcriptions/yt-21QIrQXv2f4.md) [https://www.youtube.com/watch?v=21QIrQXv2f4](https://www.youtube.com/watch?v=21QIrQXv2f4)

@@ -5,6 +5,12 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Josh
 
+## September 21st, 2021 Livestream
+* [Community FYI: Seems like LetsGameItOut has some rendering issues](../../transcriptions/yt-pla2vy3UYRg.md) [https://www.youtube.com/watch?v=pla2vy3UYRg](https://www.youtube.com/watch?v=pla2vy3UYRg)
+* [Q&A: Can you do a react video to Josh's videos?](../../transcriptions/yt-ay4mx46F6tc.md) [https://www.youtube.com/watch?v=ay4mx46F6tc](https://www.youtube.com/watch?v=ay4mx46F6tc)
+* [Q&A: Do you like the way LetsGameItOut plays your game?](../../transcriptions/yt-bCg8iTtkTf4.md) [https://www.youtube.com/watch?v=bCg8iTtkTf4](https://www.youtube.com/watch?v=bCg8iTtkTf4)
+* [Q&A: The way to dispose Nuclear Waste that Josh used, was it intended?](../../transcriptions/yt-HNrxJ2Sth7Y.md) [https://www.youtube.com/watch?v=HNrxJ2Sth7Y](https://www.youtube.com/watch?v=HNrxJ2Sth7Y)
+
 ## June 22nd, 2021 Livestream
 * [Q&A: Will Update 5 wreck our Update 4 saves?](../../transcriptions/yt-Mjo9dzwcIcg.md) [https://www.youtube.com/watch?v=Mjo9dzwcIcg](https://www.youtube.com/watch?v=Mjo9dzwcIcg)
 * [Community FYI: Josh's save works because who knows what's going on in his factory](../../transcriptions/yt-S0ZbPSPA85k.md) [https://www.youtube.com/watch?v=S0ZbPSPA85k](https://www.youtube.com/watch?v=S0ZbPSPA85k)

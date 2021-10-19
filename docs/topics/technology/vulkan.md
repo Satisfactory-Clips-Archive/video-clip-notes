@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > Vulkan
 
+## September 21st, 2021 Livestream
+* [Snutt Talk: DirectX & Vukan Support in the Engine Upgrade](../../transcriptions/yt-rbf8L_K7QEs.md) [https://www.youtube.com/watch?v=rbf8L_K7QEs](https://www.youtube.com/watch?v=rbf8L_K7QEs)
+* [Q&A: What is Vulkan?](../../transcriptions/yt-Z1CxRWTQNco.md) [https://www.youtube.com/watch?v=Z1CxRWTQNco](https://www.youtube.com/watch?v=Z1CxRWTQNco)
+
 ## September 17th, 2021 Video
 * [Jace Talk: Vulkan & DirectX 12 support](../../transcriptions/yt-HJyfSle4o_U,195.42856666666668,251.98506666666668.md) [https://youtube.com/clip/UgkxYXdoUtdawpwfk5wvl0-PzcWyc4RqTr1U](https://youtube.com/clip/UgkxYXdoUtdawpwfk5wvl0-PzcWyc4RqTr1U)
 * [Q&A: What's DirectX 12 & Vulkan going to do for me?](../../transcriptions/yt-HJyfSle4o_U,252.01843333333335,276.1759.md) [https://youtube.com/clip/UgkxuBqrfJx5somXI4FuxBvHWMulmqkA6KPZ](https://youtube.com/clip/UgkxuBqrfJx5somXI4FuxBvHWMulmqkA6KPZ)

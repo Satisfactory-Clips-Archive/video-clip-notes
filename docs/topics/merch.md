@@ -7,6 +7,12 @@ date: Last Modified
 * [EU Merch Store](../topics/merch/eu-merch-store.md)
 * [Merch Prototypes](../topics/merch/merch-prototypes.md)
 
+## September 21st, 2021 Livestream
+* [Q&A: Do you have more clothes than the ones we see in the videos?](../transcriptions/yt-SKRmfmqBVXc.md) [https://www.youtube.com/watch?v=SKRmfmqBVXc](https://www.youtube.com/watch?v=SKRmfmqBVXc)
+* [Q&A: Get skateboard decks with Satisfactory on?](../transcriptions/yt-WXzXvM121Uc.md) [https://www.youtube.com/watch?v=WXzXvM121Uc](https://www.youtube.com/watch?v=WXzXvM121Uc)
+* [Q&A: Any word on Mugs?](../transcriptions/yt-kVmdejC-fXs.md) [https://www.youtube.com/watch?v=kVmdejC-fXs](https://www.youtube.com/watch?v=kVmdejC-fXs)
+* [Community FYI: Satisfactory's just a marketing ploy to sell Mugs](../transcriptions/yt--ND5Gy5_J6k.md) [https://www.youtube.com/watch?v=-ND5Gy5_J6k](https://www.youtube.com/watch?v=-ND5Gy5_J6k)
+
 ## September 17th, 2021 Video
 * [Jace Talk: Yum Dawg Merch](../transcriptions/yt-HJyfSle4o_U,,4.5045.md) [https://youtube.com/clip/Ugkx12Ctz9Bmf6NoZ3xxk5DKcC8gNcu9k_Kt](https://youtube.com/clip/Ugkx12Ctz9Bmf6NoZ3xxk5DKcC8gNcu9k_Kt)
 

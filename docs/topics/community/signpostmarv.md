@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > SignpostMarv
 
+## September 21st, 2021 Livestream
+* Q&A: Update Q&A Clips YouTube, when? [https://www.youtube.com/watch?v=zv_arfq2d0E](https://www.youtube.com/watch?v=zv_arfq2d0E)
+
 ## August 3rd, 2021 Livestream
 * Q&A: No pronunciation tutorial? [https://www.youtube.com/watch?v=LbwqJGQhnK8](https://www.youtube.com/watch?v=LbwqJGQhnK8)
 

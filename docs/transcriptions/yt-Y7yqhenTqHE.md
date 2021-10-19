@@ -8,6 +8,8 @@ topics:
 # [August 31st, 2021 Livestream](../2021-08-31.md)
 ## Q&A: Fall still looking like a reasonable timeline?
 https://www.youtube.com/watch?v=Y7yqhenTqHE
+This question was possibly replaced with a more recent answer: [September 24th, 2021 Video Jace Talk: Release date for Update 5](./yt-W3YBFCO1NMg,10.543866666666666,38.7387.md) [https://youtube.com/clip/UgkxnRP9M3wYnjtR8T9SvsYcR0pB6WjvoQNk](https://youtube.com/clip/UgkxnRP9M3wYnjtR8T9SvsYcR0pB6WjvoQNk)
+
 <details>
 <summary>This question may have been asked previously at least 15 other times, as recently as August 2021 and as early as February 2021.</summary>
 

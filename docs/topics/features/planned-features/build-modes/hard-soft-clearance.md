@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > Planned Features > [Build Modes](../../../../topics/features/planned-features/build-modes.md) > Hard & Soft Clearance
 
+## September 21st, 2021 Livestream
+* [Q&A: How hard was the decision to introduce Soft Clearance into the game?](../../../../transcriptions/yt-WBj7y8gfrE4.md) [https://www.youtube.com/watch?v=WBj7y8gfrE4](https://www.youtube.com/watch?v=WBj7y8gfrE4)
+
 ## September 14th, 2021 Livestream
 * [Q&A: Can the Clearance mode be configurable in setting?](../../../../transcriptions/yt-sdtsN5bem7c.md) [https://www.youtube.com/watch?v=sdtsN5bem7c](https://www.youtube.com/watch?v=sdtsN5bem7c)
 * [Q&A: Does Soft Clearance apply to Hyper Tubes?](../../../../transcriptions/yt-ekzv2HksCOk.md) [https://www.youtube.com/watch?v=ekzv2HksCOk](https://www.youtube.com/watch?v=ekzv2HksCOk)

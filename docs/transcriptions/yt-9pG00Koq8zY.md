@@ -8,7 +8,7 @@ topics:
 # [March 23rd, 2021 Livestream](../2021-03-23.md)
 ## Q&A: Update on the Mug?
 https://www.youtube.com/watch?v=9pG00Koq8zY
-This question was possibly duplicated with a more recent answer: [August 24th, 2021 Livestream Q&A: How's the mug going along?](./yt-D_6lMCAJw6o.md) [https://www.youtube.com/watch?v=D_6lMCAJw6o](https://www.youtube.com/watch?v=D_6lMCAJw6o)
+This question was possibly duplicated with a more recent answer: [September 21st, 2021 Livestream Q&A: Any word on Mugs?](./yt-kVmdejC-fXs.md) [https://www.youtube.com/watch?v=kVmdejC-fXs](https://www.youtube.com/watch?v=kVmdejC-fXs)
 
 
 ### Topics
