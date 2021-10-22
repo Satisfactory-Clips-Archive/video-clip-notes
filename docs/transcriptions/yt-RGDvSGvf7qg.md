@@ -10,11 +10,7 @@ topics:
 # [September 7th, 2021 Livestream](../2021-09-07.md)
 ## Q&A: Why did you go with the term "Zoop", what were the other possibilities?
 https://www.youtube.com/watch?v=RGDvSGvf7qg
-<details>
-<summary>This question may have been asked previously at least 1 other time, as recently as September 2021.</summary>
-
-* [September 7th, 2021 Livestream Q&A: Where's the term "Zoop" come from?](./yt-HNK0TDmQBVU.md) [https://www.youtube.com/watch?v=HNK0TDmQBVU](https://www.youtube.com/watch?v=HNK0TDmQBVU)
-</details>
+This question was possibly duplicated with a more recent answer: [September 28th, 2021 Livestream Q&A: Where did the name "Zoop" come from?](./yt-IT9MjpoENTg.md) [https://www.youtube.com/watch?v=IT9MjpoENTg](https://www.youtube.com/watch?v=IT9MjpoENTg)
 
 
 ### Topics

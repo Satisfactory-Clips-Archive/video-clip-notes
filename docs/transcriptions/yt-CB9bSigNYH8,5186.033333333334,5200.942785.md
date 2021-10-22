@@ -10,7 +10,7 @@ topics:
 # [February 20th, 2019 Livestream](../2019-02-20.md)
 ## Q&A: What about Snow in the game's future?
 https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5186&end=5201
-This question was possibly duplicated with a more recent answer: [August 3rd, 2021 Livestream Q&A: Ice Biome?](./yt-Gu_MSs0-G-Y.md) [https://www.youtube.com/watch?v=Gu_MSs0-G-Y](https://www.youtube.com/watch?v=Gu_MSs0-G-Y)
+This question was possibly duplicated with a more recent answer: [September 28th, 2021 Livestream Q&A: Like arctic mountain?](./yt-XFlDDGJ4Vx0.md) [https://www.youtube.com/watch?v=XFlDDGJ4Vx0](https://www.youtube.com/watch?v=XFlDDGJ4Vx0)
 
 
 ### Topics

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Biomes](../../../topics/environment/biomes.md) > Grass Fields
 
+## September 28th, 2021 Livestream
+* [Q&A: Any plans to fix the Coal nodes by the big lake in the grasslands?](../../../transcriptions/yt-9_fDYPhx9IE.md) [https://www.youtube.com/watch?v=9_fDYPhx9IE](https://www.youtube.com/watch?v=9_fDYPhx9IE)
+
 ## March 30th, 2021 Livestream
 * [Q&A: Asking very nicely even if it's a no; Oil node in Green Hills?](../../../transcriptions/yt-RI8F-a7oO1s.md) [https://www.youtube.com/watch?v=RI8F-a7oO1s](https://www.youtube.com/watch?v=RI8F-a7oO1s)
 

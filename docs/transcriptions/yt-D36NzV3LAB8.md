@@ -8,7 +8,7 @@ topics:
 # [February 23rd, 2021 Livestream](../2021-02-23.md)
 ## Q&A: What are the plans to improve multiplayer bugs in the future?
 https://www.youtube.com/watch?v=D36NzV3LAB8
-This question was possibly duplicated with a more recent answer: [September 14th, 2021 Livestream Q&A: Are there an plans to fix Multiplayer with the next Update?](./yt-ayc4aQbCQP8.md) [https://www.youtube.com/watch?v=ayc4aQbCQP8](https://www.youtube.com/watch?v=ayc4aQbCQP8)
+This question was possibly duplicated with a more recent answer: [September 28th, 2021 Livestream Q&A: When are you optimising co-op?](./yt-BFhhlBTpbMc.md) [https://www.youtube.com/watch?v=BFhhlBTpbMc](https://www.youtube.com/watch?v=BFhhlBTpbMc)
 
 
 ### Topics

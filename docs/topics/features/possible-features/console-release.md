@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Possible Features > Console Release
 
+## September 28th, 2021 Livestream
+* [Q&A: Do you think Satisfactory will come to Playstation or XBox?](../../../transcriptions/yt-AxoRJASWblg.md) [https://www.youtube.com/watch?v=AxoRJASWblg](https://www.youtube.com/watch?v=AxoRJASWblg)
+
 ## August 24th, 2021 Livestream
 * [Q&A: What are your thoughts on the Steam Deck?](../../../transcriptions/yt-Tc27vyPYx7c.md) [https://www.youtube.com/watch?v=Tc27vyPYx7c](https://www.youtube.com/watch?v=Tc27vyPYx7c)
 

@@ -10,6 +10,9 @@ date: Last Modified
 * [Power Storage](../../topics/features/power-management/power-storage.md)
 * [Power Switch](../../topics/features/power-management/power-switch.md)
 
+## September 28th, 2021 Livestream
+* [Q&A: Are Power Buildings classed as manufacturing?](../../transcriptions/yt-7HqeTNU0yrE.md) [https://www.youtube.com/watch?v=7HqeTNU0yrE](https://www.youtube.com/watch?v=7HqeTNU0yrE)
+
 ## September 14th, 2021 Livestream
 * [Q&A: Why do Fuel Generators say "No Power" when they have no Fuel?](../../transcriptions/yt-Lwt8DhC_wkg.md) [https://www.youtube.com/watch?v=Lwt8DhC_wkg](https://www.youtube.com/watch?v=Lwt8DhC_wkg)
 

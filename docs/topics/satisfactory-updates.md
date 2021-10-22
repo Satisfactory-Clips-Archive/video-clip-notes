@@ -18,6 +18,10 @@ date: Last Modified
 * [Teasers & Trailers](../topics/satisfactory-updates/teasers-trailers.md)
 * [World Update](../topics/satisfactory-updates/world-update.md)
 
+## September 28th, 2021 Livestream
+* [Q&A: Anything you can tease later on?](../transcriptions/yt-SrfYdTeTJJE.md) [https://www.youtube.com/watch?v=SrfYdTeTJJE](https://www.youtube.com/watch?v=SrfYdTeTJJE)
+* [Q&A: Every Update so far has had a theme, what's the theme for Update 5?](../transcriptions/yt-6qWaSXVG0oE.md) [https://www.youtube.com/watch?v=6qWaSXVG0oE](https://www.youtube.com/watch?v=6qWaSXVG0oE)
+
 ## September 24th, 2021 Video
 * [Jace Talk: Update 5 compared to past Updates](../transcriptions/yt-W3YBFCO1NMg,176.44293333333334,281.9817.md) [https://youtube.com/embed/W3YBFCO1NMg?autoplay=1&start=176&end=282](https://youtube.com/embed/W3YBFCO1NMg?autoplay=1&start=176&end=282)
 

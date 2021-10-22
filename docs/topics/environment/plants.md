@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Environment](../../topics/environment.md) > Plants
 
+## September 28th, 2021 Livestream
+* [Q&A: Will picking foliage causing slowdown be fixed?](../../transcriptions/yt-qup37E4-Kgc.md) [https://www.youtube.com/watch?v=qup37E4-Kgc](https://www.youtube.com/watch?v=qup37E4-Kgc)
+* [Q&A: Will the Berry glitch be fixed in Update 5?](../../transcriptions/yt-mvnOI-LWtrE.md) [https://www.youtube.com/watch?v=mvnOI-LWtrE](https://www.youtube.com/watch?v=mvnOI-LWtrE)
+* [Q&A: What plants is Hannah going to remove from the game next?](../../transcriptions/yt-XS_Z1vn1c3U.md) [https://www.youtube.com/watch?v=XS_Z1vn1c3U](https://www.youtube.com/watch?v=XS_Z1vn1c3U)
+
 ## September 14th, 2021 Livestream
 * [Q&A: Will there be any fixes for Multiplayer sync issues like for instances Trees being cut?](../../transcriptions/yt-3y6aj8vqx38.md) [https://www.youtube.com/watch?v=3y6aj8vqx38](https://www.youtube.com/watch?v=3y6aj8vqx38)
 

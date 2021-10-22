@@ -6,6 +6,12 @@ date: Last Modified
 # [Topics](../../topics.md) > Features > Multiplayer
 * [Crossplay](../../topics/features/multiplayer/crossplay.md)
 
+## September 28th, 2021 Livestream
+* [Snutt Talk: Multiplayer issues weren't due to the Engine Update, there was a US NAT issue](../../transcriptions/yt-pLhhSsgtxkg.md) [https://www.youtube.com/watch?v=pLhhSsgtxkg](https://www.youtube.com/watch?v=pLhhSsgtxkg)
+* [Q&A: Please fix Multiplayer](../../transcriptions/yt-q6SywO8A2Yk.md) [https://www.youtube.com/watch?v=q6SywO8A2Yk](https://www.youtube.com/watch?v=q6SywO8A2Yk)
+* [Q&A: When are you optimising co-op?](../../transcriptions/yt-BFhhlBTpbMc.md) [https://www.youtube.com/watch?v=BFhhlBTpbMc](https://www.youtube.com/watch?v=BFhhlBTpbMc)
+* [Q&A: Are Dedicated Servers going to be able to support more than 4 players?](../../transcriptions/yt-krKAuF8q-rA.md) [https://www.youtube.com/watch?v=krKAuF8q-rA](https://www.youtube.com/watch?v=krKAuF8q-rA)
+
 ## September 21st, 2021 Livestream
 * [Q&A: As someone who has not played; I'm sorry, what?](../../transcriptions/yt-8wg3Jio1Bn8.md) [https://www.youtube.com/watch?v=8wg3Jio1Bn8](https://www.youtube.com/watch?v=8wg3Jio1Bn8)
 * [Community FYI: Would love to do a Satisfactory "Factorio: 500 Players in the game"](../../transcriptions/yt-EGlBy8Yez_o.md) [https://www.youtube.com/watch?v=EGlBy8Yez_o](https://www.youtube.com/watch?v=EGlBy8Yez_o)

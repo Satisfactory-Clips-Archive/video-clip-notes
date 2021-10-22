@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > Seasonal Events
 * [FICS⁕MAS](../../topics/satisfactory-updates/seasonal-events/fics-mas.md)
 
+## September 28th, 2021 Livestream
+* [Q&A: Any new Halloween easter eggs ?](../../transcriptions/yt--226kRinKxI.md) [https://www.youtube.com/watch?v=-226kRinKxI](https://www.youtube.com/watch?v=-226kRinKxI)
+
 ## September 21st, 2021 Livestream
 * [Q&A: Will there be a Halloween event?](../../transcriptions/yt-OhUDUOtdVtE.md) [https://www.youtube.com/watch?v=OhUDUOtdVtE](https://www.youtube.com/watch?v=OhUDUOtdVtE)
 

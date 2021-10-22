@@ -7,6 +7,10 @@ date: Last Modified
 * [EU Merch Store](../topics/merch/eu-merch-store.md)
 * [Merch Prototypes](../topics/merch/merch-prototypes.md)
 
+## September 28th, 2021 Livestream
+* [Q&A: Jace & Snutt body pillow, when?](../transcriptions/yt-z6_iEXhMjfE.md) [https://www.youtube.com/watch?v=z6_iEXhMjfE](https://www.youtube.com/watch?v=z6_iEXhMjfE)
+* [Q&A: Is the coffee mug Merch still in-progress?](../transcriptions/yt-a5QRUMEwkyk.md) [https://www.youtube.com/watch?v=a5QRUMEwkyk](https://www.youtube.com/watch?v=a5QRUMEwkyk)
+
 ## September 21st, 2021 Livestream
 * [Q&A: Do you have more clothes than the ones we see in the videos?](../transcriptions/yt-SKRmfmqBVXc.md) [https://www.youtube.com/watch?v=SKRmfmqBVXc](https://www.youtube.com/watch?v=SKRmfmqBVXc)
 * [Q&A: Get skateboard decks with Satisfactory on?](../transcriptions/yt-WXzXvM121Uc.md) [https://www.youtube.com/watch?v=WXzXvM121Uc](https://www.youtube.com/watch?v=WXzXvM121Uc)

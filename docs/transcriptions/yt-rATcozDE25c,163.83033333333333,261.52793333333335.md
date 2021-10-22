@@ -8,7 +8,7 @@ topics:
 # [October 1st, 2020 Q&A](../2020-10-01.md)
 ## Q&A: Is there any possibility it might come to PS4 and Xbox?
 https://youtube.com/embed/rATcozDE25c?autoplay=1&start=163&end=262
-This question was possibly duplicated with a more recent answer: [May 25th, 2021 Livestream Q&A: Can we expect a console release in 2022?](./yt-u1rxQ_Hwo-U.md) [https://www.youtube.com/watch?v=u1rxQ_Hwo-U](https://www.youtube.com/watch?v=u1rxQ_Hwo-U)
+This question was possibly duplicated with a more recent answer: [September 28th, 2021 Livestream Q&A: Do you think Satisfactory will come to Playstation or XBox?](./yt-AxoRJASWblg.md) [https://www.youtube.com/watch?v=AxoRJASWblg](https://www.youtube.com/watch?v=AxoRJASWblg)
 
 
 ### Topics

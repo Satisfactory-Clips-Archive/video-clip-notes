@@ -8,7 +8,7 @@ topics:
 # [February 6th, 2019 Livestream](../2019-02-06.md)
 ## Q&A: Any plans for stuff like Blueprints?
 https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2816&end=2837
-This question was possibly duplicated with a more recent answer: [June 29th, 2021 Livestream Q&A: Blueprints, for repetitive factory setups?](./yt-NYHU62S6czs.md) [https://www.youtube.com/watch?v=NYHU62S6czs](https://www.youtube.com/watch?v=NYHU62S6czs)
+This question was possibly duplicated with a more recent answer: [September 28th, 2021 Livestream Q&A: Are you guys putting any form of Blueprinting into the game?](./yt-LdNJwc9xclw.md) [https://www.youtube.com/watch?v=LdNJwc9xclw](https://www.youtube.com/watch?v=LdNJwc9xclw)
 
 
 ### Topics

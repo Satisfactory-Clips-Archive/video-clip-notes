@@ -8,7 +8,7 @@ topics:
 # [June 8th, 2021 Livestream](../2021-06-08.md)
 ## Q&A: State of Golf?
 https://www.youtube.com/watch?v=aJVpnKvUiMs
-This question was possibly duplicated with a more recent answer: [August 31st, 2021 Livestream Q&A: What about Golf?](./yt-T2ONa1z6jWE.md) [https://www.youtube.com/watch?v=T2ONa1z6jWE](https://www.youtube.com/watch?v=T2ONa1z6jWE)
+This question was possibly duplicated with a more recent answer: [September 28th, 2021 Livestream Q&A: State of Golf?](./yt-gGnx5xs24jk.md) [https://www.youtube.com/watch?v=gGnx5xs24jk](https://www.youtube.com/watch?v=gGnx5xs24jk)
 
 
 ### Topics

@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > Transportation > [Trains](../../../../topics/features/transportation/trains.md) > Train Signals
 
+## September 28th, 2021 Livestream
+* [Q&A: Will Train stop lights be added?](../../../../transcriptions/yt-vX3TsSTK6Go.md) [https://www.youtube.com/watch?v=vX3TsSTK6Go](https://www.youtube.com/watch?v=vX3TsSTK6Go)
+* [Q&A: If you add collision for Trains, would you make a video of them crashing & the animation?](../../../../transcriptions/yt-niHOXfOT5BA.md) [https://www.youtube.com/watch?v=niHOXfOT5BA](https://www.youtube.com/watch?v=niHOXfOT5BA)
+* [Q&A: Any ETA for basic Train schedules, like "wait 'til empty", "wait 'til full" ?](../../../../transcriptions/yt-vCVjJ_Dq2kY.md) [https://www.youtube.com/watch?v=vCVjJ_Dq2kY](https://www.youtube.com/watch?v=vCVjJ_Dq2kY)
+
 ## September 21st, 2021 Livestream
 * [Q&A: Can we please rephrase Train Collisions to congestion?](../../../../transcriptions/yt-xp4su-Wj-xE.md) [https://www.youtube.com/watch?v=xp4su-Wj-xE](https://www.youtube.com/watch?v=xp4su-Wj-xE)
 
@@ -130,4 +135,4 @@ date: Last Modified
 * [Q&A: What are plans for Trains?](../../../../transcriptions/yt-9MVglCjtlwY.md) [https://www.youtube.com/watch?v=9MVglCjtlwY](https://www.youtube.com/watch?v=9MVglCjtlwY)
 
 ## May 15th, 2020 Q&A
-* [Q&A: Is proper rail signalling in the works for the future?](../../../../transcriptions/yt-NlIVwoRqjVk,1227.0591666666667,1235.4342.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=1227&end=1236](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=1227&end=1236)
+* [Q&A: Is proper rail signalling in the works for the future?](../../../../transcriptions/yt-NlIVwoRqjVk,1227.0591666666667,1235.4342.md) [https://youtube.com/clip/Ugkxy0KE_0K50MzeyeRtNQ5eYVwQiR-yYizD](https://youtube.com/clip/Ugkxy0KE_0K50MzeyeRtNQ5eYVwQiR-yYizD)

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > Vulkan
 
+## September 28th, 2021 Livestream
+* [Q&A: Why would you pick Vulkan over DirectX 12?](../../transcriptions/yt-Rh4ZuKAKnuw.md) [https://www.youtube.com/watch?v=Rh4ZuKAKnuw](https://www.youtube.com/watch?v=Rh4ZuKAKnuw)
+
 ## September 21st, 2021 Livestream
 * [Snutt Talk: DirectX & Vulkan Support in the Engine Upgrade](../../transcriptions/yt-rbf8L_K7QEs.md) [https://www.youtube.com/watch?v=rbf8L_K7QEs](https://www.youtube.com/watch?v=rbf8L_K7QEs)
 * [Q&A: What is Vulkan?](../../transcriptions/yt-Z1CxRWTQNco.md) [https://www.youtube.com/watch?v=Z1CxRWTQNco](https://www.youtube.com/watch?v=Z1CxRWTQNco)

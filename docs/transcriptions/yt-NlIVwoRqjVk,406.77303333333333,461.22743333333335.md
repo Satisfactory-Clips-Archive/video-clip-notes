@@ -8,7 +8,7 @@ topics:
 # [May 15th, 2020 Q&A](../2020-05-15.md)
 ## Q&A: Multiplayer has quality-of-life issues, are you going to fix them?
 https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=406&end=462
-This question was possibly duplicated with a more recent answer: [September 14th, 2021 Livestream Q&A: Are there an plans to fix Multiplayer with the next Update?](./yt-ayc4aQbCQP8.md) [https://www.youtube.com/watch?v=ayc4aQbCQP8](https://www.youtube.com/watch?v=ayc4aQbCQP8)
+This question was possibly duplicated with a more recent answer: [September 28th, 2021 Livestream Q&A: When are you optimising co-op?](./yt-BFhhlBTpbMc.md) [https://www.youtube.com/watch?v=BFhhlBTpbMc](https://www.youtube.com/watch?v=BFhhlBTpbMc)
 
 
 ### Topics

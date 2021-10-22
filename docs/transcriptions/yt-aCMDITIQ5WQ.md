@@ -8,7 +8,7 @@ topics:
 # [August 31st, 2021 Livestream](../2021-08-31.md)
 ## Q&A: Any Halloween FICSIT Event planned?
 https://www.youtube.com/watch?v=aCMDITIQ5WQ
-This question was possibly duplicated with a more recent answer: [September 21st, 2021 Livestream Q&A: Will there be a Halloween event?](./yt-OhUDUOtdVtE.md) [https://www.youtube.com/watch?v=OhUDUOtdVtE](https://www.youtube.com/watch?v=OhUDUOtdVtE)
+This question was possibly duplicated with a more recent answer: [September 28th, 2021 Livestream Q&A: Any new Halloween easter eggs ?](./yt--226kRinKxI.md) [https://www.youtube.com/watch?v=-226kRinKxI](https://www.youtube.com/watch?v=-226kRinKxI)
 
 
 ### Topics

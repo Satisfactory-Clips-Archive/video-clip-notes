@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Technology](../../../topics/technology.md) > [Graphics](../../../topics/technology/graphics.md) > Ray Tracing
 
+## September 28th, 2021 Livestream
+* [Q&A: RTX Support?](../../../transcriptions/yt-omr18rjqWZs.md) [https://www.youtube.com/watch?v=omr18rjqWZs](https://www.youtube.com/watch?v=omr18rjqWZs)
+
 ## August 31st, 2021 Livestream
 * Snutt & Jace Talk: Screenspace reflections & water updates [https://www.youtube.com/watch?v=DsE2x1rEfIw](https://www.youtube.com/watch?v=DsE2x1rEfIw)
 

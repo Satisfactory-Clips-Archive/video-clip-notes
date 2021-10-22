@@ -9,7 +9,7 @@ topics:
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Q&A: Are there any plans for Blueprinting Buildings?
 https://www.youtube.com/watch?v=-sQgPUaxR-Y
-This question was possibly duplicated with a more recent answer: [June 29th, 2021 Livestream Q&A: Blueprints, for repetitive factory setups?](./yt-NYHU62S6czs.md) [https://www.youtube.com/watch?v=NYHU62S6czs](https://www.youtube.com/watch?v=NYHU62S6czs)
+This question was possibly duplicated with a more recent answer: [September 28th, 2021 Livestream Q&A: Are you guys putting any form of Blueprinting into the game?](./yt-LdNJwc9xclw.md) [https://www.youtube.com/watch?v=LdNJwc9xclw](https://www.youtube.com/watch?v=LdNJwc9xclw)
 
 
 ### Topics

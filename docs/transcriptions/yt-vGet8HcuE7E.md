@@ -9,7 +9,7 @@ topics:
 # [June 22nd, 2021 Livestream](../2021-06-22.md)
 ## Q&A: Would you add a Hyper Tube launcher, or do you want to keep the exploity method people use now?
 https://www.youtube.com/watch?v=vGet8HcuE7E
-This question was possibly duplicated with a more recent answer: [September 14th, 2021 Livestream Q&A: Do you guys like how Hyper Tubes turned out with cannons?](./yt-LG0wAne1mR8.md) [https://www.youtube.com/watch?v=LG0wAne1mR8](https://www.youtube.com/watch?v=LG0wAne1mR8)
+This question was possibly duplicated with a more recent answer: [September 28th, 2021 Livestream Q&A: Were Hyper Tubes ever meant to work that way or was it an accident?](./yt-oT-Qz36u1co.md) [https://www.youtube.com/watch?v=oT-Qz36u1co](https://www.youtube.com/watch?v=oT-Qz36u1co)
 
 
 ### Topics

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Creatures](../../../topics/environment/creatures.md) > Crab Boss
 
+## September 28th, 2021 Livestream
+* [Q&A: Are new mobs ever coming?](../../../transcriptions/yt-3JLhERMXBoY.md) [https://www.youtube.com/watch?v=3JLhERMXBoY](https://www.youtube.com/watch?v=3JLhERMXBoY)
+
 ## September 21st, 2021 Livestream
 * [Q&A: Will there be bosses?](../../../transcriptions/yt-M6hPQBYMYzA.md) [https://www.youtube.com/watch?v=M6hPQBYMYzA](https://www.youtube.com/watch?v=M6hPQBYMYzA)
 

@@ -23,6 +23,9 @@ date: Last Modified
 * [Tom](../topics/community/tom.md)
 * [Wiki](../topics/community/wiki.md)
 
+## September 28th, 2021 Livestream
+* [Q&A: Any insane people in chat that build in Bamboo Forest?](../transcriptions/yt-RkF6Qjjwf5A.md) [https://www.youtube.com/watch?v=RkF6Qjjwf5A](https://www.youtube.com/watch?v=RkF6Qjjwf5A)
+
 ## September 21st, 2021 Livestream
 * [Community FYI: Yo, watching this at school, let's goooooooo!](../transcriptions/yt-faOHDZX8vKc.md) [https://www.youtube.com/watch?v=faOHDZX8vKc](https://www.youtube.com/watch?v=faOHDZX8vKc)
 * [Community FYI: Just got the Twitter notification for Livestream](../transcriptions/yt-D1VuJBaiIfM.md) [https://www.youtube.com/watch?v=D1VuJBaiIfM](https://www.youtube.com/watch?v=D1VuJBaiIfM)

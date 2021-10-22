@@ -8,7 +8,7 @@ topics:
 # [March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary](../2021-03-17.md)
 ## Q&A: Does this mean that Console is confirmed?
 https://www.youtube.com/watch?v=19QNZuFNN3Y
-This question was possibly duplicated with a more recent answer: [May 25th, 2021 Livestream Q&A: Can we expect a console release in 2022?](./yt-u1rxQ_Hwo-U.md) [https://www.youtube.com/watch?v=u1rxQ_Hwo-U](https://www.youtube.com/watch?v=u1rxQ_Hwo-U)
+This question was possibly duplicated with a more recent answer: [September 28th, 2021 Livestream Q&A: Do you think Satisfactory will come to Playstation or XBox?](./yt-AxoRJASWblg.md) [https://www.youtube.com/watch?v=AxoRJASWblg](https://www.youtube.com/watch?v=AxoRJASWblg)
 
 
 ### Topics

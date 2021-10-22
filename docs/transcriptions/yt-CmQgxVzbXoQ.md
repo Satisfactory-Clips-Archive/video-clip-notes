@@ -8,7 +8,7 @@ topics:
 # [January 26th, 2021 Livestream](../2021-01-26.md)
 ## Q&A: Give FICS⁕MAS back?
 https://www.youtube.com/watch?v=CmQgxVzbXoQ
-This question was possibly duplicated with a more recent answer: [September 14th, 2021 Livestream Q&A: Is FICS⁕MAS returning this year?](./yt-pcMtby2DOxQ.md) [https://www.youtube.com/watch?v=pcMtby2DOxQ](https://www.youtube.com/watch?v=pcMtby2DOxQ)
+This question was possibly duplicated with a more recent answer: September 28th, 2021 Livestream Q&A: Will there be a christmas event? [https://www.youtube.com/watch?v=u2ckbRb5PkA](https://www.youtube.com/watch?v=u2ckbRb5PkA)
 
 
 ### Topics

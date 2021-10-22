@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Accessibility](../../../topics/features/accessibility.md) > Arachnophobia Mode
 
+## September 28th, 2021 Livestream
+* [Q&A: Some heavy metal music for when spiders show up?](../../../transcriptions/yt-m1TGYFDz8y8.md) [https://www.youtube.com/watch?v=m1TGYFDz8y8](https://www.youtube.com/watch?v=m1TGYFDz8y8)
+* [Community FYI: There are no spiders, just kittens](../../../transcriptions/yt-hdd-jMSkoL4.md) [https://www.youtube.com/watch?v=hdd-jMSkoL4](https://www.youtube.com/watch?v=hdd-jMSkoL4)
+* [Q&A: Better visibility for spiders in Arachnophobia mode- it's hard to see if they're dead?](../../../transcriptions/yt-7sOGo3WJo8s.md) [https://www.youtube.com/watch?v=7sOGo3WJo8s](https://www.youtube.com/watch?v=7sOGo3WJo8s)
+
 ## August 10th, 2021 Livestream
 * [Community FYI: Didn't know I had arachnophobia until I played this game](../../../transcriptions/yt-y4lTTsp9h9Q.md) [https://www.youtube.com/watch?v=y4lTTsp9h9Q](https://www.youtube.com/watch?v=y4lTTsp9h9Q)
 

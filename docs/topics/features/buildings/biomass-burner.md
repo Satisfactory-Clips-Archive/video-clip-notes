@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > Biomass Burner
 
+## September 28th, 2021 Livestream
+* [Q&A: Can you make Biomass Burners automated?](../../../transcriptions/yt-BZWw9qXGT0o.md) [https://www.youtube.com/watch?v=BZWw9qXGT0o](https://www.youtube.com/watch?v=BZWw9qXGT0o)
+* [Q&A: Why would you be a Biomass Burner?](../../../transcriptions/yt-pbZGwGUPs_I.md) [https://www.youtube.com/watch?v=pbZGwGUPs_I](https://www.youtube.com/watch?v=pbZGwGUPs_I)
+* [Q&A: Conveyor input for Biomass, please?](../../../transcriptions/yt-Hi-wSNVeFPU.md) [https://www.youtube.com/watch?v=Hi-wSNVeFPU](https://www.youtube.com/watch?v=Hi-wSNVeFPU)
+
 ## August 31st, 2021 Livestream
 * [Q&A: Are there plans to make Power Storage usable with Bio Burners?](../../../transcriptions/yt-voAsRVkVD4w.md) [https://www.youtube.com/watch?v=voAsRVkVD4w](https://www.youtube.com/watch?v=voAsRVkVD4w)
 

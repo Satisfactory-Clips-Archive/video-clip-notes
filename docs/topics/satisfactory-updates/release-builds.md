@@ -5,6 +5,12 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > Release Builds
 
+## September 28th, 2021 Livestream
+* [State of Dev: Update 5 Release Date](../../transcriptions/yt-dAfszSKXuYk.md) [https://www.youtube.com/watch?v=dAfszSKXuYk](https://www.youtube.com/watch?v=dAfszSKXuYk)
+* [Q&A: When will the Engine Update go to Early Access?](../../transcriptions/yt-1jjv1OPjHBU.md) [https://www.youtube.com/watch?v=1jjv1OPjHBU](https://www.youtube.com/watch?v=1jjv1OPjHBU)
+* [Q&A: Any plans to release the Engine Upgrade to EA before Update 5 releases to Experimental?](../../transcriptions/yt-IfYa23IgdLw.md) [https://www.youtube.com/watch?v=IfYa23IgdLw](https://www.youtube.com/watch?v=IfYa23IgdLw)
+* [Q&A: Since the last Update to Early Access, the game doesn't shut down properly](../../transcriptions/yt-unMf13aQnWo.md) [https://www.youtube.com/watch?v=unMf13aQnWo](https://www.youtube.com/watch?v=unMf13aQnWo)
+
 ## September 24th, 2021 Video
 * [Jace Talk: Experimental vs. Early Access versions](../../transcriptions/yt-W3YBFCO1NMg,38.77206666666667,80.04663333333333.md) [https://youtube.com/clip/Ugkxpyi172YKZF-zc3dXhCidH_k2idgGgFh7](https://youtube.com/clip/Ugkxpyi172YKZF-zc3dXhCidH_k2idgGgFh7)
 * [Jace Talk: Back up your saves](../../transcriptions/yt-W3YBFCO1NMg,80.08,95.52876666666667.md) [https://youtube.com/clip/UgkxRT_6nzgEfU7ffNARf4A2Sryn8R83sglP](https://youtube.com/clip/UgkxRT_6nzgEfU7ffNARf4A2Sryn8R83sglP)

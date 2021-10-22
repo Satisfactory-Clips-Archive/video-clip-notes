@@ -8,7 +8,7 @@ topics:
 # [October 20th, 2020 Livestream](../2020-10-20.md)
 ## Q&A: How many hours should Satisfactory take usually (new player once we go 1.0) ?
 https://www.youtube.com/watch?v=06WRQ40kRCs
-This question was possibly duplicated with a more recent answer: [May 4th, 2021 Livestream Q&A: How long do you think the game will take to beat in 1.0?](./yt-r4cyIHDA25I.md) [https://www.youtube.com/watch?v=r4cyIHDA25I](https://www.youtube.com/watch?v=r4cyIHDA25I)
+This question was possibly duplicated with a more recent answer: [September 28th, 2021 Livestream Q&A: Do you have a goal for the expected game time for Story & 1.0?](./yt-H8Rj4XIl2VA.md) [https://www.youtube.com/watch?v=H8Rj4XIl2VA](https://www.youtube.com/watch?v=H8Rj4XIl2VA)
 
 
 ### Topics

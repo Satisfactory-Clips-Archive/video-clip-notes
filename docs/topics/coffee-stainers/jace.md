@@ -7,6 +7,18 @@ date: Last Modified
 * ["Fix Jace" QA Site Posts](../../topics/coffee-stainers/jace/fix-jace-qa-site-posts.md)
 * [Jace Art](../../topics/coffee-stainers/jace/jace-art.md)
 
+## September 28th, 2021 Livestream
+* [Q&A: Did you have breakfast today?](../../transcriptions/yt-Y5jURb2_SBQ.md) [https://www.youtube.com/watch?v=Y5jURb2_SBQ](https://www.youtube.com/watch?v=Y5jURb2_SBQ)
+* [Q&A: What defines a hectic day with Community Managers?](../../transcriptions/yt-E0JzXKvdNeA.md) [https://www.youtube.com/watch?v=E0JzXKvdNeA](https://www.youtube.com/watch?v=E0JzXKvdNeA)
+* [Q&A: What's your favourite building in the game?](../../transcriptions/yt-AaJfFOGWWsc.md) [https://www.youtube.com/watch?v=AaJfFOGWWsc](https://www.youtube.com/watch?v=AaJfFOGWWsc)
+* [Q&A: Is only one of you allowed to wear a beanie at a time?](../../transcriptions/yt-MezRAcpczbY.md) [https://www.youtube.com/watch?v=MezRAcpczbY](https://www.youtube.com/watch?v=MezRAcpczbY)
+* [Q&A: If you were a Building, what would it be?](../../transcriptions/yt-1cL_YyywAkU.md) [https://www.youtube.com/watch?v=1cL_YyywAkU](https://www.youtube.com/watch?v=1cL_YyywAkU)
+* [Q&A: What does Jace's hoodie say?](../../transcriptions/yt-cClZj4mc7TI.md) [https://www.youtube.com/watch?v=cClZj4mc7TI](https://www.youtube.com/watch?v=cClZj4mc7TI)
+* [Q&A: Can you do a Lizard Doggo accent?](../../transcriptions/yt-NsbZTUzAyhk.md) [https://www.youtube.com/watch?v=NsbZTUzAyhk](https://www.youtube.com/watch?v=NsbZTUzAyhk)
+* [Q&A: Why would you be a Biomass Burner?](../../transcriptions/yt-pbZGwGUPs_I.md) [https://www.youtube.com/watch?v=pbZGwGUPs_I](https://www.youtube.com/watch?v=pbZGwGUPs_I)
+* [Q&A: Jace & Snutt body pillow, when?](../../transcriptions/yt-z6_iEXhMjfE.md) [https://www.youtube.com/watch?v=z6_iEXhMjfE](https://www.youtube.com/watch?v=z6_iEXhMjfE)
+* [Q&A: What's for dinner?](../../transcriptions/yt-N1LAv4gX8sQ.md) [https://www.youtube.com/watch?v=N1LAv4gX8sQ](https://www.youtube.com/watch?v=N1LAv4gX8sQ)
+
 ## September 21st, 2021 Livestream
 * [Community FYI: Jace doesn't look pixelated!](../../transcriptions/yt-BQmDx2-pln0.md) [https://www.youtube.com/watch?v=BQmDx2-pln0](https://www.youtube.com/watch?v=BQmDx2-pln0)
 * [Community FYI: HD Jace is the best Jace](../../transcriptions/yt-oIDz07JTR1g.md) [https://www.youtube.com/watch?v=oIDz07JTR1g](https://www.youtube.com/watch?v=oIDz07JTR1g)

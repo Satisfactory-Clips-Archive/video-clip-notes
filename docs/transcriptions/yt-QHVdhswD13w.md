@@ -8,7 +8,7 @@ topics:
 # [January 19th, 2021 Livestream](../2021-01-19.md)
 ## Q&A: Can we please get a Snow Biome?
 https://www.youtube.com/watch?v=QHVdhswD13w
-This question was possibly duplicated with a more recent answer: [August 3rd, 2021 Livestream Q&A: Ice Biome?](./yt-Gu_MSs0-G-Y.md) [https://www.youtube.com/watch?v=Gu_MSs0-G-Y](https://www.youtube.com/watch?v=Gu_MSs0-G-Y)
+This question was possibly duplicated with a more recent answer: [September 28th, 2021 Livestream Q&A: Like arctic mountain?](./yt-XFlDDGJ4Vx0.md) [https://www.youtube.com/watch?v=XFlDDGJ4Vx0](https://www.youtube.com/watch?v=XFlDDGJ4Vx0)
 
 
 ### Topics

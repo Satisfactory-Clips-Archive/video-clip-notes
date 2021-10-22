@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Beams
 
+## September 28th, 2021 Livestream
+* [Q&A: Is there a larger version of the Beams that were revealed a couple of weeks ago?](../../../transcriptions/yt-oI_RmzILLrk.md) [https://www.youtube.com/watch?v=oI_RmzILLrk](https://www.youtube.com/watch?v=oI_RmzILLrk)
+
 ## September 7th, 2021 Livestream
 * [Snutt & Jace Talk: Beams](../../../transcriptions/yt-xExhWQ2UlmU.md) [https://www.youtube.com/watch?v=xExhWQ2UlmU](https://www.youtube.com/watch?v=xExhWQ2UlmU)
 

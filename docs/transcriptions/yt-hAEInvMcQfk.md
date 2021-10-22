@@ -9,7 +9,7 @@ topics:
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Q&A: Any information on Merch shipping to EU/rest of the world?
 https://www.youtube.com/watch?v=hAEInvMcQfk
-This question was possibly duplicated with a more recent answer: [August 31st, 2021 Livestream Q&A: Any news for EU Merch Store?](./yt--GiaoGm2cfQ.md) [https://www.youtube.com/watch?v=-GiaoGm2cfQ](https://www.youtube.com/watch?v=-GiaoGm2cfQ)
+This question was possibly duplicated with a more recent answer: [September 28th, 2021 Livestream Q&A: EU Store?](./yt-kH9IkIymhJY.md) [https://www.youtube.com/watch?v=kH9IkIymhJY](https://www.youtube.com/watch?v=kH9IkIymhJY)
 
 
 ### Topics

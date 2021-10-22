@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > Transportation > [Vehicles](../../../../topics/features/transportation/vehicles.md) > Drones
 
+## September 28th, 2021 Livestream
+* [Q&A: Why can't we have a rideable Drone?](../../../../transcriptions/yt-UmndxzpLEwk.md) [https://www.youtube.com/watch?v=UmndxzpLEwk](https://www.youtube.com/watch?v=UmndxzpLEwk)
+
 ## September 14th, 2021 Livestream
 * Community FYI: Vehicles + Jump Pads = Drone [https://www.youtube.com/watch?v=RgKdoinOVhc](https://www.youtube.com/watch?v=RgKdoinOVhc)
 * [Q&A: Will the spline fix apply to Drones?](../../../../transcriptions/yt-EZ8F7j6KcqA.md) [https://www.youtube.com/watch?v=EZ8F7j6KcqA](https://www.youtube.com/watch?v=EZ8F7j6KcqA)

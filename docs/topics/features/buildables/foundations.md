@@ -6,6 +6,10 @@ date: Last Modified
 # [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Foundations
 * [Cheatcrete](../../../topics/features/buildables/foundations/cheatcrete.md)
 
+## September 28th, 2021 Livestream
+* [Q&A: How many votes for holes in Foundations for Belts & Pipes?](../../../transcriptions/yt-oBBfMX4E0xQ.md) [https://www.youtube.com/watch?v=oBBfMX4E0xQ](https://www.youtube.com/watch?v=oBBfMX4E0xQ)
+* [Q&A: Will the Vehicles bouncing on Foundations be fixed at some point?](../../../transcriptions/yt-O19MUfB6WXM.md) [https://www.youtube.com/watch?v=O19MUfB6WXM](https://www.youtube.com/watch?v=O19MUfB6WXM)
+
 ## September 21st, 2021 Livestream
 * [Q&A: Can we have finer rotations on Foundations?](../../../transcriptions/yt-7gIaj1aBo_E.md) [https://www.youtube.com/watch?v=7gIaj1aBo_E](https://www.youtube.com/watch?v=7gIaj1aBo_E)
 

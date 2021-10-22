@@ -8,7 +8,7 @@ topics:
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Q&A: Coming to Consoles?
 https://www.youtube.com/watch?v=09PyuqxekgU
-This question was possibly duplicated with a more recent answer: [May 25th, 2021 Livestream Q&A: Can we expect a console release in 2022?](./yt-u1rxQ_Hwo-U.md) [https://www.youtube.com/watch?v=u1rxQ_Hwo-U](https://www.youtube.com/watch?v=u1rxQ_Hwo-U)
+This question was possibly duplicated with a more recent answer: [September 28th, 2021 Livestream Q&A: Do you think Satisfactory will come to Playstation or XBox?](./yt-AxoRJASWblg.md) [https://www.youtube.com/watch?v=AxoRJASWblg](https://www.youtube.com/watch?v=AxoRJASWblg)
 
 
 ### Topics

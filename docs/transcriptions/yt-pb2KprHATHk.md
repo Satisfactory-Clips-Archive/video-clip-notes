@@ -8,7 +8,7 @@ topics:
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Q&A: Will Satisfactory get Ray Tracing?
 https://www.youtube.com/watch?v=pb2KprHATHk
-This question was possibly duplicated with a more recent answer: [February 9th, 2021 Livestream Q&A: Do you have any plans to add Ray Tracing or DLSS?](./yt-hRzZjCBoI8s.md) [https://www.youtube.com/watch?v=hRzZjCBoI8s](https://www.youtube.com/watch?v=hRzZjCBoI8s)
+This question was possibly duplicated with a more recent answer: [September 28th, 2021 Livestream Q&A: RTX Support?](./yt-omr18rjqWZs.md) [https://www.youtube.com/watch?v=omr18rjqWZs](https://www.youtube.com/watch?v=omr18rjqWZs)
 
 
 ### Topics

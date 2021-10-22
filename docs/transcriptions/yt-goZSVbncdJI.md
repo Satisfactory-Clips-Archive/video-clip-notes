@@ -8,7 +8,7 @@ topics:
 # [May 18th, 2021 Livestream](../2021-05-18.md)
 ## Q&A: Multiplayer sync bug fix when?
 https://www.youtube.com/watch?v=goZSVbncdJI
-This question was possibly duplicated with a more recent answer: [September 14th, 2021 Livestream Q&A: Are there an plans to fix Multiplayer with the next Update?](./yt-ayc4aQbCQP8.md) [https://www.youtube.com/watch?v=ayc4aQbCQP8](https://www.youtube.com/watch?v=ayc4aQbCQP8)
+This question was possibly duplicated with a more recent answer: [September 28th, 2021 Livestream Q&A: When are you optimising co-op?](./yt-BFhhlBTpbMc.md) [https://www.youtube.com/watch?v=BFhhlBTpbMc](https://www.youtube.com/watch?v=BFhhlBTpbMc)
 
 
 ### Topics

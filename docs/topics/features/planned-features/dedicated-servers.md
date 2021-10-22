@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Planned Features > Dedicated Servers
 
+## September 28th, 2021 Livestream
+* [Q&A: Are Dedicated Servers going to be able to support more than 4 players?](../../../transcriptions/yt-krKAuF8q-rA.md) [https://www.youtube.com/watch?v=krKAuF8q-rA](https://www.youtube.com/watch?v=krKAuF8q-rA)
+
 ## September 21st, 2021 Livestream
 * [Q&A: Are Dedicated Servers a thing?](../../../transcriptions/yt--veAW1DkhQo.md) [https://www.youtube.com/watch?v=-veAW1DkhQo](https://www.youtube.com/watch?v=-veAW1DkhQo)
 * [Q&A: Trains suck in Multiplayer, Dedicated Servers when?](../../../transcriptions/yt-hKRRW-m42zs.md) [https://www.youtube.com/watch?v=hKRRW-m42zs](https://www.youtube.com/watch?v=hKRRW-m42zs)

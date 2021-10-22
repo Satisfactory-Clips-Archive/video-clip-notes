@@ -8,7 +8,7 @@ topics:
 # [August 1st, 2018 Q&A](../2018-08-01.md)
 ## Q&A: Will there be Steam achievements?
 https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=119&end=132
-This question was possibly duplicated with a more recent answer: September 7th, 2021 Livestream Q&A: Will you add Steam Achievements when the game is done? [https://www.youtube.com/watch?v=tO60WajNJis](https://www.youtube.com/watch?v=tO60WajNJis)
+This question was possibly duplicated with a more recent answer: [September 28th, 2021 Livestream Q&A: Do you plan to make Steam Achievements?](./yt-Kf33x3tiM5w.md) [https://www.youtube.com/watch?v=Kf33x3tiM5w](https://www.youtube.com/watch?v=Kf33x3tiM5w)
 
 
 ### Topics

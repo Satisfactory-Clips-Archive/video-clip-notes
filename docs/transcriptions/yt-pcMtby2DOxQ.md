@@ -8,16 +8,7 @@ topics:
 # [September 14th, 2021 Livestream](../2021-09-14.md)
 ## Q&A: Is FICS⁕MAS returning this year?
 https://www.youtube.com/watch?v=pcMtby2DOxQ
-<details>
-<summary>This question may have been asked previously at least 6 other times, as recently as January 2021 and as early as December 2020.</summary>
-
-* [January 26th, 2021 Livestream Q&A: Give FICS⁕MAS back?](./yt-CmQgxVzbXoQ.md) [https://www.youtube.com/watch?v=CmQgxVzbXoQ](https://www.youtube.com/watch?v=CmQgxVzbXoQ)
-* [December 15th, 2020 Livestream Q&A: Could it be released to the Modding Community to polish and release it as a Mod?](./yt-MQLuFiVQPYY.md) [https://www.youtube.com/watch?v=MQLuFiVQPYY](https://www.youtube.com/watch?v=MQLuFiVQPYY)
-* [December 15th, 2020 Livestream Q&A: Will the event come back next year?](./yt-6XovxrktCDA.md) [https://www.youtube.com/watch?v=6XovxrktCDA](https://www.youtube.com/watch?v=6XovxrktCDA)
-* [December 15th, 2020 Livestream Q&A: If I backup current version, will FICS⁕MAS still work after the 18th?](./yt-01DJ6EPqTk4.md) [https://www.youtube.com/watch?v=01DJ6EPqTk4](https://www.youtube.com/watch?v=01DJ6EPqTk4)
-* [December 8th, 2020 Livestream Q&A: What are we going to keep after the event?](./yt-nZjZGFce1lE.md) [https://www.youtube.com/watch?v=nZjZGFce1lE](https://www.youtube.com/watch?v=nZjZGFce1lE)
-* [December 8th, 2020 Livestream Q&A: Will Gift Trees continue to produce?](./yt-FqUcLve4Oyc.md) [https://www.youtube.com/watch?v=FqUcLve4Oyc](https://www.youtube.com/watch?v=FqUcLve4Oyc)
-</details>
+This question was possibly duplicated with a more recent answer: September 28th, 2021 Livestream Q&A: Will there be a christmas event? [https://www.youtube.com/watch?v=u2ckbRb5PkA](https://www.youtube.com/watch?v=u2ckbRb5PkA)
 
 
 ### Topics

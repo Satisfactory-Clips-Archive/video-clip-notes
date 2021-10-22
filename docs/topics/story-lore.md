@@ -7,6 +7,12 @@ date: Last Modified
 * [Characters](../topics/story-lore/characters.md)
 * [Project Assembly](../topics/story-lore/project-assembly.md)
 
+## September 28th, 2021 Livestream
+* [Q&A: What's the state of the Story?](../transcriptions/yt-gxRkjiYNeXc.md) [https://www.youtube.com/watch?v=gxRkjiYNeXc](https://www.youtube.com/watch?v=gxRkjiYNeXc)
+* [Q&A: State of Story?](../transcriptions/yt-5Miaujx7O3A.md) [https://www.youtube.com/watch?v=5Miaujx7O3A](https://www.youtube.com/watch?v=5Miaujx7O3A)
+* [Q&A: Do you have a goal for the expected game time for Story & 1.0?](../transcriptions/yt-H8Rj4XIl2VA.md) [https://www.youtube.com/watch?v=H8Rj4XIl2VA](https://www.youtube.com/watch?v=H8Rj4XIl2VA)
+* [Q&A: How does Story work with someone already in the end-game?](../transcriptions/yt-0tMLlTrC6WE.md) [https://www.youtube.com/watch?v=0tMLlTrC6WE](https://www.youtube.com/watch?v=0tMLlTrC6WE)
+
 ## September 21st, 2021 Livestream
 * [Q&A: How old is the character you play as?](../transcriptions/yt-uiNbMYVIqE0.md) [https://www.youtube.com/watch?v=uiNbMYVIqE0](https://www.youtube.com/watch?v=uiNbMYVIqE0)
 * [Q&A: Is all the Story stuff finished?](../transcriptions/yt-mUNB0jMlwd0.md) [https://www.youtube.com/watch?v=mUNB0jMlwd0](https://www.youtube.com/watch?v=mUNB0jMlwd0)

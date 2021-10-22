@@ -14,6 +14,10 @@ date: Last Modified
 * [Steel](../../topics/environment/resources/steel.md)
 * [Water](../../topics/environment/resources/water.md)
 
+## September 28th, 2021 Livestream
+* [Q&A: How do you get Hard Drives that require Holiday Event-specific items?](../../transcriptions/yt-eviAiYWLroI.md) [https://www.youtube.com/watch?v=eviAiYWLroI](https://www.youtube.com/watch?v=eviAiYWLroI)
+* [Q&A: Are randomised Ore node spawns still on the table in the future?](../../transcriptions/yt-XNZVUKgcCmI.md) [https://www.youtube.com/watch?v=XNZVUKgcCmI](https://www.youtube.com/watch?v=XNZVUKgcCmI)
+
 ## September 21st, 2021 Livestream
 * [Q&A: What is the plan with Quantum Computers & Superposition Oscillators?](../../transcriptions/yt-xhMTIK3LMPw.md) [https://www.youtube.com/watch?v=xhMTIK3LMPw](https://www.youtube.com/watch?v=xhMTIK3LMPw)
 * [Q&A: What kind of research do you do before adding materials like Urainum, Plutonium, Nuclear Pasta?](../../transcriptions/yt-jWqElfDvuV8.md) [https://www.youtube.com/watch?v=jWqElfDvuV8](https://www.youtube.com/watch?v=jWqElfDvuV8)

@@ -6,6 +6,15 @@ date: Last Modified
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Snutt
 * [Snutt Burger Time](../../topics/coffee-stainers/snutt/snutt-burger-time.md)
 
+## September 28th, 2021 Livestream
+* [Q&A: Did you have breakfast today?](../../transcriptions/yt-Y5jURb2_SBQ.md) [https://www.youtube.com/watch?v=Y5jURb2_SBQ](https://www.youtube.com/watch?v=Y5jURb2_SBQ)
+* [Q&A: What defines a hectic day with Community Managers?](../../transcriptions/yt-E0JzXKvdNeA.md) [https://www.youtube.com/watch?v=E0JzXKvdNeA](https://www.youtube.com/watch?v=E0JzXKvdNeA)
+* [Q&A: What's your favourite building in the game?](../../transcriptions/yt-AaJfFOGWWsc.md) [https://www.youtube.com/watch?v=AaJfFOGWWsc](https://www.youtube.com/watch?v=AaJfFOGWWsc)
+* [Q&A: Is only one of you allowed to wear a beanie at a time?](../../transcriptions/yt-MezRAcpczbY.md) [https://www.youtube.com/watch?v=MezRAcpczbY](https://www.youtube.com/watch?v=MezRAcpczbY)
+* [Q&A: If you were a Building, what would it be?](../../transcriptions/yt-1cL_YyywAkU.md) [https://www.youtube.com/watch?v=1cL_YyywAkU](https://www.youtube.com/watch?v=1cL_YyywAkU)
+* [Q&A: Jace & Snutt body pillow, when?](../../transcriptions/yt-z6_iEXhMjfE.md) [https://www.youtube.com/watch?v=z6_iEXhMjfE](https://www.youtube.com/watch?v=z6_iEXhMjfE)
+* [Q&A: What's for dinner?](../../transcriptions/yt-N1LAv4gX8sQ.md) [https://www.youtube.com/watch?v=N1LAv4gX8sQ](https://www.youtube.com/watch?v=N1LAv4gX8sQ)
+
 ## September 21st, 2021 Livestream
 * [Community FYI: Your mic sounds so much better now, Snutt](../../transcriptions/yt-PHz1xqlxvqo.md) [https://www.youtube.com/watch?v=PHz1xqlxvqo](https://www.youtube.com/watch?v=PHz1xqlxvqo)
 * [Q&A: So we get 1.0 the sooner you're fired?](../../transcriptions/yt-2DfvIN_tYio.md) [https://www.youtube.com/watch?v=2DfvIN_tYio](https://www.youtube.com/watch?v=2DfvIN_tYio)

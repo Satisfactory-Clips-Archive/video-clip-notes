@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Lights
 
+## September 28th, 2021 Livestream
+* [Q&A: Can you put ceiling Lights on the slanted Roof pieces?](../../../transcriptions/yt-Pt1KjHKo_As.md) [https://www.youtube.com/watch?v=Pt1KjHKo_As](https://www.youtube.com/watch?v=Pt1KjHKo_As)
+
 ## September 21st, 2021 Livestream
 * [Q&A: Any plans to let us point factory Lights up?](../../../transcriptions/yt-s5IkNJjLgUI.md) [https://www.youtube.com/watch?v=s5IkNJjLgUI](https://www.youtube.com/watch?v=s5IkNJjLgUI)
 * [Q&A: Will the new Engine Update bring better lighting?](../../../transcriptions/yt-x5sW4WEy32I.md) [https://www.youtube.com/watch?v=x5sW4WEy32I](https://www.youtube.com/watch?v=x5sW4WEy32I)

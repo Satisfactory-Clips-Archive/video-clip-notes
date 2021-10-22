@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Resources](../../../topics/environment/resources.md) > Coal
 
+## September 28th, 2021 Livestream
+* [Q&A: Any plans to fix the Coal nodes by the big lake in the grasslands?](../../../transcriptions/yt-9_fDYPhx9IE.md) [https://www.youtube.com/watch?v=9_fDYPhx9IE](https://www.youtube.com/watch?v=9_fDYPhx9IE)
+
 ## June 1st, 2021 Livestream
 * [Snutt & Jace Talk: Setting up a Coal Generator (Part 1)](../../../transcriptions/yt-cmDE_ThXeUk.md) [https://www.youtube.com/watch?v=cmDE_ThXeUk](https://www.youtube.com/watch?v=cmDE_ThXeUk)
 * [Snutt & Jace Talk: Setting up a Coal Generator (Part 3)](../../../transcriptions/yt-D4Tmjw6TT78.md) [https://www.youtube.com/watch?v=D4Tmjw6TT78](https://www.youtube.com/watch?v=D4Tmjw6TT78)

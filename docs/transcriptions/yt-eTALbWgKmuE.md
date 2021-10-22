@@ -9,7 +9,7 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Randomising nodes?
 https://www.youtube.com/watch?v=eTALbWgKmuE
-This question was possibly duplicated with a more recent answer: [July 6th, 2021 Livestream Q&A: Do you envision the game having randomised ore deposits?](./yt-os5iJblX7sM.md) [https://www.youtube.com/watch?v=os5iJblX7sM](https://www.youtube.com/watch?v=os5iJblX7sM)
+This question was possibly duplicated with a more recent answer: [September 28th, 2021 Livestream Q&A: Are randomised Ore node spawns still on the table in the future?](./yt-XNZVUKgcCmI.md) [https://www.youtube.com/watch?v=XNZVUKgcCmI](https://www.youtube.com/watch?v=XNZVUKgcCmI)
 
 
 ### Topics

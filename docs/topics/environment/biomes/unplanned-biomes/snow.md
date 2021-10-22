@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Environment](../../../../topics/environment.md) > [Biomes](../../../../topics/environment/biomes.md) > Unplanned Biomes > Snow
 
+## September 28th, 2021 Livestream
+* [Q&A: Like arctic mountain?](../../../../transcriptions/yt-XFlDDGJ4Vx0.md) [https://www.youtube.com/watch?v=XFlDDGJ4Vx0](https://www.youtube.com/watch?v=XFlDDGJ4Vx0)
+
 ## August 3rd, 2021 Livestream
 * [Q&A: Ice Biome?](../../../../transcriptions/yt-Gu_MSs0-G-Y.md) [https://www.youtube.com/watch?v=Gu_MSs0-G-Y](https://www.youtube.com/watch?v=Gu_MSs0-G-Y)
 * [Q&A: Ice Golf Biome?](../../../../transcriptions/yt-R8E41fHzIkg.md) [https://www.youtube.com/watch?v=R8E41fHzIkg](https://www.youtube.com/watch?v=R8E41fHzIkg)

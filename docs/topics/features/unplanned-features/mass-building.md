@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Unplanned Features](../../../topics/features/unplanned-features.md) > Mass Building
 
+## September 28th, 2021 Livestream
+* [Community FYI: We have Smart! Mod](../../../transcriptions/yt-UgLfd0Zjfr8.md) [https://www.youtube.com/watch?v=UgLfd0Zjfr8](https://www.youtube.com/watch?v=UgLfd0Zjfr8)
+
 ## September 7th, 2021 Livestream
 * [Community FYI: Smart! does too much (for base game)](../../../transcriptions/yt-L1_3oP3LwOc.md) [https://www.youtube.com/watch?v=L1_3oP3LwOc](https://www.youtube.com/watch?v=L1_3oP3LwOc)
 

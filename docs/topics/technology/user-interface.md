@@ -6,6 +6,12 @@ date: Last Modified
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > User Interface
 * [Holograms](../../topics/technology/user-interface/holograms.md)
 
+## September 28th, 2021 Livestream
+* [Q&A: When you delete can you ctrl-toggle in case you mis-click?](../../transcriptions/yt-nPM3VCqthUw.md) [https://www.youtube.com/watch?v=nPM3VCqthUw](https://www.youtube.com/watch?v=nPM3VCqthUw)
+* [Q&A: Will there be any big UI changes before 1.0, like colour pallette & design?](../../transcriptions/yt-7hJDZCiH0o0.md) [https://www.youtube.com/watch?v=7hJDZCiH0o0](https://www.youtube.com/watch?v=7hJDZCiH0o0)
+* [Q&A: Any plans to add more map functionality like the calculator website?](../../transcriptions/yt-bzRcbP7bZLs.md) [https://www.youtube.com/watch?v=bzRcbP7bZLs](https://www.youtube.com/watch?v=bzRcbP7bZLs)
+* [Q&A: Are you going to add some sort of Building visualisation onto the game map?](../../transcriptions/yt-Be7CmOGzg_Y.md) [https://www.youtube.com/watch?v=Be7CmOGzg_Y](https://www.youtube.com/watch?v=Be7CmOGzg_Y)
+
 ## September 14th, 2021 Livestream
 * [Snutt & Jace Talk: Changes to Truck Station UI](../../transcriptions/yt-VAQDLsfK-Io.md) [https://www.youtube.com/watch?v=VAQDLsfK-Io](https://www.youtube.com/watch?v=VAQDLsfK-Io)
 * [Snutt & Jace Talk: Truck Station Fuel calculated per-route](../../transcriptions/yt-HwzZF04gWuk.md) [https://www.youtube.com/watch?v=HwzZF04gWuk](https://www.youtube.com/watch?v=HwzZF04gWuk)

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > World Update
 
+## September 28th, 2021 Livestream
+* [Q&A: Any plans for Terraforming the landscape a little bit?](../../transcriptions/yt-JQpNpEJAscc.md) [https://www.youtube.com/watch?v=JQpNpEJAscc](https://www.youtube.com/watch?v=JQpNpEJAscc)
+
 ## September 14th, 2021 Livestream
 * [Q&A: I have a small factory in great canyon, do I have to remove it for Update 5?](../../transcriptions/yt-Rsf06bX62QY.md) [https://www.youtube.com/watch?v=Rsf06bX62QY](https://www.youtube.com/watch?v=Rsf06bX62QY)
 

@@ -5,6 +5,12 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Teasers & Trailers](../../../topics/satisfactory-updates/teasers-trailers.md) > Update 5 Teasers
 
+## September 28th, 2021 Livestream
+* [Q&A: Is there a larger version of the Beams that were revealed a couple of weeks ago?](../../../transcriptions/yt-oI_RmzILLrk.md) [https://www.youtube.com/watch?v=oI_RmzILLrk](https://www.youtube.com/watch?v=oI_RmzILLrk)
+* [Q&A: What percentage of things would you say at this point have been revealed?](../../../transcriptions/yt-lJhWFjC2ChQ.md) [https://www.youtube.com/watch?v=lJhWFjC2ChQ](https://www.youtube.com/watch?v=lJhWFjC2ChQ)
+* [Q&A: Will the cost of stuff in the AWESOME Shop adapt to new things being added?](../../../transcriptions/yt-83-PtkbWfKE.md) [https://www.youtube.com/watch?v=83-PtkbWfKE](https://www.youtube.com/watch?v=83-PtkbWfKE)
+* [Q&A: If you add collision for Trains, would you make a video of them crashing & the animation?](../../../transcriptions/yt-niHOXfOT5BA.md) [https://www.youtube.com/watch?v=niHOXfOT5BA](https://www.youtube.com/watch?v=niHOXfOT5BA)
+
 ## September 21st, 2021 Livestream
 * [Q&A: Hope that you're not spoiling everything for Update 5?](../../../transcriptions/yt-WjZWGFljcv4.md) [https://www.youtube.com/watch?v=WjZWGFljcv4](https://www.youtube.com/watch?v=WjZWGFljcv4)
 * [Q&A: How hard was the decision to introduce Soft Clearance into the game?](../../../transcriptions/yt-WBj7y8gfrE4.md) [https://www.youtube.com/watch?v=WBj7y8gfrE4](https://www.youtube.com/watch?v=WBj7y8gfrE4)

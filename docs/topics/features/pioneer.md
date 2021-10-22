@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > Features > Pioneer
 
+## September 28th, 2021 Livestream
+* [Q&A: When are you putting ragdoll back in?](../../transcriptions/yt-d-MzgqyOzAI.md) [https://www.youtube.com/watch?v=d-MzgqyOzAI](https://www.youtube.com/watch?v=d-MzgqyOzAI)
+* [Q&A: Is it possible to make the Pioneer pick up the Doggo?](../../transcriptions/yt-uAJX0gy44Ss.md) [https://www.youtube.com/watch?v=uAJX0gy44Ss](https://www.youtube.com/watch?v=uAJX0gy44Ss)
+
 ## September 21st, 2021 Livestream
 * [Q&A: How old is the character you play as?](../../transcriptions/yt-uiNbMYVIqE0.md) [https://www.youtube.com/watch?v=uiNbMYVIqE0](https://www.youtube.com/watch?v=uiNbMYVIqE0)
 

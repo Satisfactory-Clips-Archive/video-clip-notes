@@ -8,7 +8,7 @@ topics:
 # [October 20th, 2020 Livestream](../2020-10-20.md)
 ## Q&A: Love the Music, but are there plans for more?
 https://www.youtube.com/watch?v=mb06RrILKmA
-This question was possibly duplicated with a more recent answer: [July 13th, 2021 Livestream Q&A: Are you adding more music to the game?](./yt-TvhHf9MdjIw.md) [https://www.youtube.com/watch?v=TvhHf9MdjIw](https://www.youtube.com/watch?v=TvhHf9MdjIw)
+This question was possibly duplicated with a more recent answer: [September 28th, 2021 Livestream Q&A: When new music?](./yt-QYr7c6CGFlE.md) [https://www.youtube.com/watch?v=QYr7c6CGFlE](https://www.youtube.com/watch?v=QYr7c6CGFlE)
 
 
 ### Topics

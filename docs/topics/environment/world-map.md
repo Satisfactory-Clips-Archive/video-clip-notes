@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Environment](../../topics/environment.md) > World Map
 
+## September 28th, 2021 Livestream
+* [Q&A: Are you going to add some sort of Building visualisation onto the game map?](../../transcriptions/yt-Be7CmOGzg_Y.md) [https://www.youtube.com/watch?v=Be7CmOGzg_Y](https://www.youtube.com/watch?v=Be7CmOGzg_Y)
+
 ## August 24th, 2021 Livestream
 * [Community FYI: Second Map would be a legit DLC further down the line](../../transcriptions/yt-W-RuXFHE29E.md) [https://www.youtube.com/watch?v=W-RuXFHE29E](https://www.youtube.com/watch?v=W-RuXFHE29E)
 

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > Physics
 
+## September 28th, 2021 Livestream
+* [Q&A: Will the Vehicles bouncing on Foundations be fixed at some point?](../../transcriptions/yt-O19MUfB6WXM.md) [https://www.youtube.com/watch?v=O19MUfB6WXM](https://www.youtube.com/watch?v=O19MUfB6WXM)
+
 ## September 14th, 2021 Livestream
 * [Q&A: Do Vehicles have collision detection for other Vehicles?](../../transcriptions/yt-fRZ4jKy9i3c.md) [https://www.youtube.com/watch?v=fRZ4jKy9i3c](https://www.youtube.com/watch?v=fRZ4jKy9i3c)
 

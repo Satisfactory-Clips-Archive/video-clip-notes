@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > AWESOME Store
 
+## September 28th, 2021 Livestream
+* [Q&A: Will the cost of stuff in the AWESOME Shop adapt to new things being added?](../../../transcriptions/yt-83-PtkbWfKE.md) [https://www.youtube.com/watch?v=83-PtkbWfKE](https://www.youtube.com/watch?v=83-PtkbWfKE)
+
 ## September 14th, 2021 Livestream
 * [Q&A: Golden Golf clubs for 1k tickets?](../../../transcriptions/yt-UNkb_TNjWf8.md) [https://www.youtube.com/watch?v=UNkb_TNjWf8](https://www.youtube.com/watch?v=UNkb_TNjWf8)
 

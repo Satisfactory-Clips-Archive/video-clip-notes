@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Community Highlights
 
+## September 28th, 2021 Livestream
+* [Q&A: Please fix Multiplayer](../../transcriptions/yt-q6SywO8A2Yk.md) [https://www.youtube.com/watch?v=q6SywO8A2Yk](https://www.youtube.com/watch?v=q6SywO8A2Yk)
+* [Jace Talk: Satisfactory welcomes other kinds of pasta](../../transcriptions/yt-ltEZAwikPn4.md) [https://www.youtube.com/watch?v=ltEZAwikPn4](https://www.youtube.com/watch?v=ltEZAwikPn4)
+* [Q&A: Do you take your Community Highlights only from Reddit?](../../transcriptions/yt-zRxEgzhBbic.md) [https://www.youtube.com/watch?v=zRxEgzhBbic](https://www.youtube.com/watch?v=zRxEgzhBbic)
+
 ## September 21st, 2021 Livestream
 * [Q&A: As someone who has not played; I'm sorry, what?](../../transcriptions/yt-8wg3Jio1Bn8.md) [https://www.youtube.com/watch?v=8wg3Jio1Bn8](https://www.youtube.com/watch?v=8wg3Jio1Bn8)
 

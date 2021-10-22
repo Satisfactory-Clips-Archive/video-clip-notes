@@ -9,6 +9,8 @@ topics:
 # [May 4th, 2021 Livestream](../2021-05-04.md)
 ## Q&A: Do you have to buy the full version of the game when it comes out?
 https://www.youtube.com/watch?v=fEyDe5viYQo
+This question was possibly duplicated with a more recent answer: [September 28th, 2021 Livestream Q&A: If you buy the game Early Access, do you have to buy the real game after?](./yt-gXzduwgrc50.md) [https://www.youtube.com/watch?v=gXzduwgrc50](https://www.youtube.com/watch?v=gXzduwgrc50)
+
 
 ### Topics
 * [Retail](../topics/retail.md)

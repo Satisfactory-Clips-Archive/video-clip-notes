@@ -9,11 +9,7 @@ topics:
 # [June 29th, 2021 Livestream](../2021-06-29.md)
 ## Q&A: Are you thinking of implementing a system like Satisfactory Calculator?
 https://www.youtube.com/watch?v=wHbulAfnOyc
-<details>
-<summary>This question may have been asked previously at least 1 other time, as recently as April 2021.</summary>
-
-* April 6th, 2021 Livestream Q&A: What are your thoughts on an in-game project planner, similar to Satisfactory Calculator? [https://www.youtube.com/watch?v=MVijm9JAoaw](https://www.youtube.com/watch?v=MVijm9JAoaw)
-</details>
+This question was possibly duplicated with a more recent answer: [September 28th, 2021 Livestream Q&A: Any plans to add more map functionality like the calculator website?](./yt-bzRcbP7bZLs.md) [https://www.youtube.com/watch?v=bzRcbP7bZLs](https://www.youtube.com/watch?v=bzRcbP7bZLs)
 
 
 ### Topics

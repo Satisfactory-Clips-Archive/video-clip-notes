@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Off-Topic](../../../topics/off-topic.md) > [Food & Drink](../../../topics/off-topic/food-drink.md) > Pizza
 
+## September 28th, 2021 Livestream
+* [Community FYI: Pizza is always the answer](../../../transcriptions/yt-h0XfX5_LLdg.md) [https://www.youtube.com/watch?v=h0XfX5_LLdg](https://www.youtube.com/watch?v=h0XfX5_LLdg)
+
 ## August 31st, 2021 Livestream
 * [Q&A: You getting any Pizza in a cup lately?](../../../transcriptions/yt-JEPCVLOnouU.md) [https://www.youtube.com/watch?v=JEPCVLOnouU](https://www.youtube.com/watch?v=JEPCVLOnouU)
 

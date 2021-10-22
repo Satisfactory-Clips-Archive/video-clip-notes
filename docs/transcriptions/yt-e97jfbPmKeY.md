@@ -9,7 +9,7 @@ topics:
 # [February 9th, 2021 Livestream](../2021-02-09.md)
 ## Q&A: Are you adding a Hard Mode?
 https://www.youtube.com/watch?v=e97jfbPmKeY
-This question was possibly duplicated with a more recent answer: [March 23rd, 2021 Livestream Q&A: Hard Mode?](./yt-dUS1wSorYGA.md) [https://www.youtube.com/watch?v=dUS1wSorYGA](https://www.youtube.com/watch?v=dUS1wSorYGA)
+This question was possibly duplicated with a more recent answer: [September 28th, 2021 Livestream Q&A: Will you add a harder mode at some point with more expensive Recipes?](./yt-vMgvD3QPJqM.md) [https://www.youtube.com/watch?v=vMgvD3QPJqM](https://www.youtube.com/watch?v=vMgvD3QPJqM)
 
 
 ### Topics

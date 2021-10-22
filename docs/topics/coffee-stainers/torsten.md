@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Torsten
 
+## September 28th, 2021 Livestream
+* [Snutt & Jace Talk: New Twitch emotes](../../transcriptions/yt-QpQr_1dZcSQ.md) [https://www.youtube.com/watch?v=QpQr_1dZcSQ](https://www.youtube.com/watch?v=QpQr_1dZcSQ)
+
 ## June 22nd, 2021 Livestream
 * [Q&A: What does an Art Director do?](../../transcriptions/yt-n12v8TIWFOo.md) [https://www.youtube.com/watch?v=n12v8TIWFOo](https://www.youtube.com/watch?v=n12v8TIWFOo)
 * [Q&A: So is Torsten who we blame for Spiders?](../../transcriptions/yt-E5mku0tfmmI.md) [https://www.youtube.com/watch?v=E5mku0tfmmI](https://www.youtube.com/watch?v=E5mku0tfmmI)

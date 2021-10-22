@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Requested Features](../../../topics/features/requested-features.md) > Golf
 
+## September 28th, 2021 Livestream
+* [Q&A: State of Golf?](../../../transcriptions/yt-gGnx5xs24jk.md) [https://www.youtube.com/watch?v=gGnx5xs24jk](https://www.youtube.com/watch?v=gGnx5xs24jk)
+* [Q&A: Was it not 1000 in the beginning?](../../../transcriptions/yt-2akBt6yAZtM.md) [https://www.youtube.com/watch?v=2akBt6yAZtM](https://www.youtube.com/watch?v=2akBt6yAZtM)
+
 ## September 21st, 2021 Livestream
 * [State of Dev: State of Golf](../../../transcriptions/yt-eKgulNPmte4.md) [https://www.youtube.com/watch?v=eKgulNPmte4](https://www.youtube.com/watch?v=eKgulNPmte4)
 

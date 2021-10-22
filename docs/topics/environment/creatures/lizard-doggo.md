@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Creatures](../../../topics/environment/creatures.md) > Lizard Doggo
 
+## September 28th, 2021 Livestream
+* [Q&A: Can you do a Lizard Doggo accent?](../../../transcriptions/yt-NsbZTUzAyhk.md) [https://www.youtube.com/watch?v=NsbZTUzAyhk](https://www.youtube.com/watch?v=NsbZTUzAyhk)
+* [Q&A: Will Lizard Doggos be able to use Hyper Tubes?](../../../transcriptions/yt-1TET5q4oqxU.md) [https://www.youtube.com/watch?v=1TET5q4oqxU](https://www.youtube.com/watch?v=1TET5q4oqxU)
+* [Q&A: Is it possible to make the Pioneer pick up the Doggo?](../../../transcriptions/yt-uAJX0gy44Ss.md) [https://www.youtube.com/watch?v=uAJX0gy44Ss](https://www.youtube.com/watch?v=uAJX0gy44Ss)
+
 ## September 21st, 2021 Livestream
 * [Q&A: The way to dispose Nuclear Waste that Josh used, was it intended?](../../../transcriptions/yt-HNrxJ2Sth7Y.md) [https://www.youtube.com/watch?v=HNrxJ2Sth7Y](https://www.youtube.com/watch?v=HNrxJ2Sth7Y)
 

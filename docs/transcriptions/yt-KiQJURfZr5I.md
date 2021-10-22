@@ -8,6 +8,8 @@ topics:
 # [May 19th, 2020 Livestream](../2020-05-19.md)
 ## Q&A: Is the game CPU heavy, GPU heavy, or both?
 https://www.youtube.com/watch?v=KiQJURfZr5I
+This question was possibly duplicated with a more recent answer: [September 28th, 2021 Livestream Q&A: Would upgrading my CPU, or my GPU get me better frame rates?](./yt-kQqy4aJLiO0.md) [https://www.youtube.com/watch?v=kQqy4aJLiO0](https://www.youtube.com/watch?v=kQqy4aJLiO0)
+
 
 ### Topics
 

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Retail](../../topics/retail.md) > Early Access
 
+## September 28th, 2021 Livestream
+* [Q&A: If you buy the game Early Access, do you have to buy the real game after?](../../transcriptions/yt-gXzduwgrc50.md) [https://www.youtube.com/watch?v=gXzduwgrc50](https://www.youtube.com/watch?v=gXzduwgrc50)
+
 ## August 3rd, 2021 Livestream
 * [Q&A: How different is the game now from your initial vision when Early Access launched?](../../transcriptions/yt-bSg5WdpYnuQ.md) [https://www.youtube.com/watch?v=bSg5WdpYnuQ](https://www.youtube.com/watch?v=bSg5WdpYnuQ)
 

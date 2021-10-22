@@ -14,6 +14,11 @@ date: Last Modified
 * [Pollution](../../topics/features/requested-features/pollution.md)
 * [Third-person View](../../topics/features/requested-features/third-person-view.md)
 
+## September 28th, 2021 Livestream
+* [Q&A: Do we get a "Save+"?](../../transcriptions/yt-1sDKlvkvGWY.md) [https://www.youtube.com/watch?v=1sDKlvkvGWY](https://www.youtube.com/watch?v=1sDKlvkvGWY)
+* [Q&A: Are randomised Ore node spawns still on the table in the future?](../../transcriptions/yt-XNZVUKgcCmI.md) [https://www.youtube.com/watch?v=XNZVUKgcCmI](https://www.youtube.com/watch?v=XNZVUKgcCmI)
+* [Q&A: Is it possible to make the Pioneer pick up the Doggo?](../../transcriptions/yt-uAJX0gy44Ss.md) [https://www.youtube.com/watch?v=uAJX0gy44Ss](https://www.youtube.com/watch?v=uAJX0gy44Ss)
+
 ## September 14th, 2021 Livestream
 * [Q&A: Indoor ventilation system?](../../transcriptions/yt-CJEPNuOT0YY.md) [https://www.youtube.com/watch?v=CJEPNuOT0YY](https://www.youtube.com/watch?v=CJEPNuOT0YY)
 

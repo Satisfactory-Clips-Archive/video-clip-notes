@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Josh
 
+## September 28th, 2021 Livestream
+* Q&A: Can we get a reaction video from the two of you to Josh's Lets Game It Out video? [https://www.youtube.com/watch?v=sHbJ5yRQxsQ](https://www.youtube.com/watch?v=sHbJ5yRQxsQ)
+
 ## September 21st, 2021 Livestream
 * [Community FYI: Seems like LetsGameItOut has some rendering issues](../../transcriptions/yt-pla2vy3UYRg.md) [https://www.youtube.com/watch?v=pla2vy3UYRg](https://www.youtube.com/watch?v=pla2vy3UYRg)
 * [Q&A: Can you do a react video to Josh's videos?](../../transcriptions/yt-ay4mx46F6tc.md) [https://www.youtube.com/watch?v=ay4mx46F6tc](https://www.youtube.com/watch?v=ay4mx46F6tc)

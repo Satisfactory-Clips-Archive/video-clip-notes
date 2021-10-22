@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > QA Site
 
+## September 28th, 2021 Livestream
+* [Snutt & Jace Talk: The QA Site](../transcriptions/yt-p7qHqhun4xU.md) [https://www.youtube.com/watch?v=p7qHqhun4xU](https://www.youtube.com/watch?v=p7qHqhun4xU)
+* Q&A: Can we post suggestions on the QA Site? [https://www.youtube.com/watch?v=QxMtx5GBxWI](https://www.youtube.com/watch?v=QxMtx5GBxWI)
+* [Q&A: How many votes for holes in Foundations for Belts & Pipes?](../transcriptions/yt-oBBfMX4E0xQ.md) [https://www.youtube.com/watch?v=oBBfMX4E0xQ](https://www.youtube.com/watch?v=oBBfMX4E0xQ)
+
 ## September 21st, 2021 Livestream
 * [Q&A: I found weird terrain anomalies, where's the best place to mention those?](../transcriptions/yt-CgRlnYOqxkY.md) [https://www.youtube.com/watch?v=CgRlnYOqxkY](https://www.youtube.com/watch?v=CgRlnYOqxkY)
 

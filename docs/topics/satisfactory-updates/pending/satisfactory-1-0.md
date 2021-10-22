@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Pending > Satisfactory 1.0
 
+## September 28th, 2021 Livestream
+* [Q&A: Are there any Recipes that sure won't change 'til 1.0?](../../../transcriptions/yt-3iBW1DPBlD4.md) [https://www.youtube.com/watch?v=3iBW1DPBlD4](https://www.youtube.com/watch?v=3iBW1DPBlD4)
+* [Q&A: Will there be any big UI changes before 1.0, like colour pallette & design?](../../../transcriptions/yt-7hJDZCiH0o0.md) [https://www.youtube.com/watch?v=7hJDZCiH0o0](https://www.youtube.com/watch?v=7hJDZCiH0o0)
+* [Q&A: Do you have a goal for the expected game time for Story & 1.0?](../../../transcriptions/yt-H8Rj4XIl2VA.md) [https://www.youtube.com/watch?v=H8Rj4XIl2VA](https://www.youtube.com/watch?v=H8Rj4XIl2VA)
+
 ## September 21st, 2021 Livestream
 * [Q&A: When will the game be at full release?](../../../transcriptions/yt-Diz3iZ5irII.md) [https://www.youtube.com/watch?v=Diz3iZ5irII](https://www.youtube.com/watch?v=Diz3iZ5irII)
 * [Q&A: When Satisfactory does hit 1.0, will you do a complete playthrough on-stream?](../../../transcriptions/yt-6LTinIiS1ss.md) [https://www.youtube.com/watch?v=6LTinIiS1ss](https://www.youtube.com/watch?v=6LTinIiS1ss)

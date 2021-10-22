@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Soundtrack
 
+## September 28th, 2021 Livestream
+* [Q&A: When new music?](../transcriptions/yt-QYr7c6CGFlE.md) [https://www.youtube.com/watch?v=QYr7c6CGFlE](https://www.youtube.com/watch?v=QYr7c6CGFlE)
+* [Q&A: Some heavy metal music for when spiders show up?](../transcriptions/yt-m1TGYFDz8y8.md) [https://www.youtube.com/watch?v=m1TGYFDz8y8](https://www.youtube.com/watch?v=m1TGYFDz8y8)
+* [Q&A: Who's the music person?](../transcriptions/yt-7p5_wpyzdTQ.md) [https://www.youtube.com/watch?v=7p5_wpyzdTQ](https://www.youtube.com/watch?v=7p5_wpyzdTQ)
+
 ## August 31st, 2021 Livestream
 * [Q&A: Can we get a Satisfactory OST available on Spotify?](../transcriptions/yt-uTcx8PYGUXU.md) [https://www.youtube.com/watch?v=uTcx8PYGUXU](https://www.youtube.com/watch?v=uTcx8PYGUXU)
 * [Q&A: Are there any limitations to Satisfactory music tracks?](../transcriptions/yt-7zLV-x0mWeA.md) [https://www.youtube.com/watch?v=7zLV-x0mWeA](https://www.youtube.com/watch?v=7zLV-x0mWeA)

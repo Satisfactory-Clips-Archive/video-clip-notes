@@ -9,7 +9,7 @@ topics:
 # [October 1st, 2020 Q&A](../2020-10-01.md)
 ## Q&A: Any plans to make more randomness like resources, start locations, other random world elements?
 https://youtube.com/embed/rATcozDE25c?autoplay=1&start=632&end=696
-This question was possibly duplicated with a more recent answer: [July 6th, 2021 Livestream Q&A: Do you envision the game having randomised ore deposits?](./yt-os5iJblX7sM.md) [https://www.youtube.com/watch?v=os5iJblX7sM](https://www.youtube.com/watch?v=os5iJblX7sM)
+This question was possibly duplicated with a more recent answer: [September 28th, 2021 Livestream Q&A: Are randomised Ore node spawns still on the table in the future?](./yt-XNZVUKgcCmI.md) [https://www.youtube.com/watch?v=XNZVUKgcCmI](https://www.youtube.com/watch?v=XNZVUKgcCmI)
 
 
 ### Topics

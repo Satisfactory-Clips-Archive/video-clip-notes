@@ -43,7 +43,7 @@ https://www.youtube.com/watch?v=GOqWeaYileA
 * [August 25th, 2020 Livestream Q&A: Will the Train always clip?](./yt-PY6wf7cvjgM.md) [https://www.youtube.com/watch?v=PY6wf7cvjgM](https://www.youtube.com/watch?v=PY6wf7cvjgM)
 * August 18th, 2020 Livestream Q&A: Any thoughts on whether Trains will ever collide? [https://clips.twitch.tv/SaltyJazzyPasta4Head](https://clips.twitch.tv/SaltyJazzyPasta4Head)
 * [June 8th, 2020 Livestream Q&A: What are plans for Trains?](./yt-9MVglCjtlwY.md) [https://www.youtube.com/watch?v=9MVglCjtlwY](https://www.youtube.com/watch?v=9MVglCjtlwY)
-* [May 15th, 2020 Q&A: Is proper rail signalling in the works for the future?](./yt-NlIVwoRqjVk,1227.0591666666667,1235.4342.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=1227&end=1236](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=1227&end=1236)
+* [May 15th, 2020 Q&A: Is proper rail signalling in the works for the future?](./yt-NlIVwoRqjVk,1227.0591666666667,1235.4342.md) [https://youtube.com/clip/Ugkxy0KE_0K50MzeyeRtNQ5eYVwQiR-yYizD](https://youtube.com/clip/Ugkxy0KE_0K50MzeyeRtNQ5eYVwQiR-yYizD)
 </details>
 
 

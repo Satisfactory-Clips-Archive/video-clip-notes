@@ -9,11 +9,7 @@ topics:
 # [September 21st, 2021 Livestream](../2021-09-21.md)
 ## Q&A: What is the plan with Quantum Computers & Superposition Oscillators?
 https://www.youtube.com/watch?v=xhMTIK3LMPw
-<details>
-<summary>This question may have been asked previously at least 1 other time, as recently as August 2021.</summary>
-
-* [August 24th, 2021 Livestream Q&A: What's the story behind the two FICS⁕MAS items?](./yt--Z0gUaZ6k_0.md) [https://www.youtube.com/watch?v=-Z0gUaZ6k_0](https://www.youtube.com/watch?v=-Z0gUaZ6k_0)
-</details>
+This question was possibly duplicated with a more recent answer: [September 28th, 2021 Livestream Q&A: How do you get Hard Drives that require Holiday Event-specific items?](./yt-eviAiYWLroI.md) [https://www.youtube.com/watch?v=eviAiYWLroI](https://www.youtube.com/watch?v=eviAiYWLroI)
 
 
 ### Topics

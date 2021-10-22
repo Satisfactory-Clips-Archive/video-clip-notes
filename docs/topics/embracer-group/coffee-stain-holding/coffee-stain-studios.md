@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Embracer Group](../../../topics/embracer-group.md) > Coffee Stain Holding > Coffee Stain Studios
 
+## September 28th, 2021 Livestream
+* [Q&A: Does CSS have studio tours?](../../../transcriptions/yt-uWmppO45tpc.md) [https://www.youtube.com/watch?v=uWmppO45tpc](https://www.youtube.com/watch?v=uWmppO45tpc)
+
 ## September 21st, 2021 Livestream
 * [Q&A: How big is the whole team?](../../../transcriptions/yt-PBRR5eAsO40.md) [https://www.youtube.com/watch?v=PBRR5eAsO40](https://www.youtube.com/watch?v=PBRR5eAsO40)
 * [Q&A: Why are you guys not affiliate?](../../../transcriptions/yt-wSymvPiav-k.md) [https://www.youtube.com/watch?v=wSymvPiav-k](https://www.youtube.com/watch?v=wSymvPiav-k)

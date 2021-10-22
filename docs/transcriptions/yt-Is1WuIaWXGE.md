@@ -9,7 +9,7 @@ topics:
 # [March 9th, 2021 Livestream](../2021-03-09.md)
 ## Q&A: Will the soundtrack be expanded before 1.0?
 https://www.youtube.com/watch?v=Is1WuIaWXGE
-This question was possibly duplicated with a more recent answer: [July 13th, 2021 Livestream Q&A: Are you adding more music to the game?](./yt-TvhHf9MdjIw.md) [https://www.youtube.com/watch?v=TvhHf9MdjIw](https://www.youtube.com/watch?v=TvhHf9MdjIw)
+This question was possibly duplicated with a more recent answer: [September 28th, 2021 Livestream Q&A: When new music?](./yt-QYr7c6CGFlE.md) [https://www.youtube.com/watch?v=QYr7c6CGFlE](https://www.youtube.com/watch?v=QYr7c6CGFlE)
 
 
 ### Topics

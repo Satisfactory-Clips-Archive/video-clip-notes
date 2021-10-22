@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Mods](../../topics/mods.md) > Mods vs. Features
 
+## September 28th, 2021 Livestream
+* [Q&A: Is it possible to make the Pioneer pick up the Doggo?](../../transcriptions/yt-uAJX0gy44Ss.md) [https://www.youtube.com/watch?v=uAJX0gy44Ss](https://www.youtube.com/watch?v=uAJX0gy44Ss)
+
 ## September 7th, 2021 Livestream
 * [Snutt & Jace Talk: Zooping](../../transcriptions/yt-k5bNkBCo_ys.md) [https://www.youtube.com/watch?v=k5bNkBCo_ys](https://www.youtube.com/watch?v=k5bNkBCo_ys)
 * [Community FYI: Smart! does too much (for base game)](../../transcriptions/yt-L1_3oP3LwOc.md) [https://www.youtube.com/watch?v=L1_3oP3LwOc](https://www.youtube.com/watch?v=L1_3oP3LwOc)

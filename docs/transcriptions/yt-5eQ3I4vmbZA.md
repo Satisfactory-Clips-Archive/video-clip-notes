@@ -9,7 +9,7 @@ topics:
 # [October 20th, 2020 Livestream](../2020-10-20.md)
 ## Q&A: Will there be a way to auto-feed Biomass into the generators?
 https://www.youtube.com/watch?v=5eQ3I4vmbZA
-This question was possibly duplicated with a more recent answer: [October 20th, 2020 Livestream Q&A: Can we train Lizard Doggos to feed Biomass into Generators?](./yt-CfUusHOKqcY.md) [https://www.youtube.com/watch?v=CfUusHOKqcY](https://www.youtube.com/watch?v=CfUusHOKqcY)
+This question was possibly duplicated with a more recent answer: [September 28th, 2021 Livestream Q&A: Conveyor input for Biomass, please?](./yt-Hi-wSNVeFPU.md) [https://www.youtube.com/watch?v=Hi-wSNVeFPU](https://www.youtube.com/watch?v=Hi-wSNVeFPU)
 
 
 ### Topics

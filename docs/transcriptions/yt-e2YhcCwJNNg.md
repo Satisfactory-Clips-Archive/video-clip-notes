@@ -8,7 +8,7 @@ topics:
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: Blueprints would be awesome for end-game
 https://www.youtube.com/watch?v=e2YhcCwJNNg
-This question was possibly duplicated with a more recent answer: [June 29th, 2021 Livestream Q&A: Blueprints, for repetitive factory setups?](./yt-NYHU62S6czs.md) [https://www.youtube.com/watch?v=NYHU62S6czs](https://www.youtube.com/watch?v=NYHU62S6czs)
+This question was possibly duplicated with a more recent answer: [September 28th, 2021 Livestream Q&A: Are you guys putting any form of Blueprinting into the game?](./yt-LdNJwc9xclw.md) [https://www.youtube.com/watch?v=LdNJwc9xclw](https://www.youtube.com/watch?v=LdNJwc9xclw)
 
 
 ### Topics

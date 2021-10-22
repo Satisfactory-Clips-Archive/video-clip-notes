@@ -6,6 +6,10 @@ date: Last Modified
 # [Topics](../../../topics.md) > Features > [Crafting](../../../topics/features/crafting.md) > Recipes
 * [Alternate Recipes](../../../topics/features/crafting/recipes/alternate-recipes.md)
 
+## September 28th, 2021 Livestream
+* [Q&A: Are there any Recipes that sure won't change 'til 1.0?](../../../transcriptions/yt-3iBW1DPBlD4.md) [https://www.youtube.com/watch?v=3iBW1DPBlD4](https://www.youtube.com/watch?v=3iBW1DPBlD4)
+* [Q&A: Will you add a harder mode at some point with more expensive Recipes?](../../../transcriptions/yt-vMgvD3QPJqM.md) [https://www.youtube.com/watch?v=vMgvD3QPJqM](https://www.youtube.com/watch?v=vMgvD3QPJqM)
+
 ## September 14th, 2021 Livestream
 * [Q&A: Will there be any Recipe changes in Update 5?](../../../transcriptions/yt-vUf3qor9P5Q.md) [https://www.youtube.com/watch?v=vUf3qor9P5Q](https://www.youtube.com/watch?v=vUf3qor9P5Q)
 

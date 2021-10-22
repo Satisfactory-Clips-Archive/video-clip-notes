@@ -9,7 +9,7 @@ topics:
 # [June 15th, 2021 Livestream](../2021-06-15.md)
 ## Q&A: Any Coffee Cup Merch update?
 https://www.youtube.com/watch?v=Z6XM978pvyw
-This question was possibly duplicated with a more recent answer: [September 21st, 2021 Livestream Q&A: Any word on Mugs?](./yt-kVmdejC-fXs.md) [https://www.youtube.com/watch?v=kVmdejC-fXs](https://www.youtube.com/watch?v=kVmdejC-fXs)
+This question was possibly duplicated with a more recent answer: [September 28th, 2021 Livestream Q&A: Is the coffee mug Merch still in-progress?](./yt-a5QRUMEwkyk.md) [https://www.youtube.com/watch?v=a5QRUMEwkyk](https://www.youtube.com/watch?v=a5QRUMEwkyk)
 
 
 ### Topics

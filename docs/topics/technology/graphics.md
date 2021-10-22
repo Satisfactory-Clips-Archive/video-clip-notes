@@ -9,6 +9,9 @@ date: Last Modified
 * [Ray Tracing](../../topics/technology/graphics/ray-tracing.md)
 * [Ultrawide Monitors](../../topics/technology/graphics/ultrawide-monitors.md)
 
+## September 28th, 2021 Livestream
+* [Q&A: Would upgrading my CPU, or my GPU get me better frame rates?](../../transcriptions/yt-kQqy4aJLiO0.md) [https://www.youtube.com/watch?v=kQqy4aJLiO0](https://www.youtube.com/watch?v=kQqy4aJLiO0)
+
 ## August 31st, 2021 Livestream
 * Snutt & Jace Talk: Screenspace reflections & water updates [https://www.youtube.com/watch?v=DsE2x1rEfIw](https://www.youtube.com/watch?v=DsE2x1rEfIw)
 * [Community Highlights: Verify your game files](../../transcriptions/yt-PPjVCg2ErKs.md) [https://www.youtube.com/watch?v=PPjVCg2ErKs](https://www.youtube.com/watch?v=PPjVCg2ErKs)

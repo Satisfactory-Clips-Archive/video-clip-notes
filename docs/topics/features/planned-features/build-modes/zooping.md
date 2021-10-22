@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > Planned Features > [Build Modes](../../../../topics/features/planned-features/build-modes.md) > Zooping
 
+## September 28th, 2021 Livestream
+* [Q&A: I still don't understand what Zooping is?](../../../../transcriptions/yt-_Xl3Qs2LEJw.md) [https://www.youtube.com/watch?v=_Xl3Qs2LEJw](https://www.youtube.com/watch?v=_Xl3Qs2LEJw)
+* [Q&A: Where did the name "Zoop" come from?](../../../../transcriptions/yt-IT9MjpoENTg.md) [https://www.youtube.com/watch?v=IT9MjpoENTg](https://www.youtube.com/watch?v=IT9MjpoENTg)
+
 ## September 14th, 2021 Livestream
 * [Q&A: Will Zooping be available at Tier 0 or later?](../../../../transcriptions/yt-fglY9hmDe28.md) [https://www.youtube.com/watch?v=fglY9hmDe28](https://www.youtube.com/watch?v=fglY9hmDe28)
 

@@ -8,6 +8,8 @@ topics:
 # [September 21st, 2021 Livestream](../2021-09-21.md)
 ## Q&A: Can you do a react video to Josh's videos?
 https://www.youtube.com/watch?v=ay4mx46F6tc
+This question was possibly replaced with a more recent answer: September 28th, 2021 Livestream Q&A: Can we get a reaction video from the two of you to Josh's Lets Game It Out video? [https://www.youtube.com/watch?v=sHbJ5yRQxsQ](https://www.youtube.com/watch?v=sHbJ5yRQxsQ)
+
 
 ### Topics
 * [Community > Josh](../topics/community/josh.md)

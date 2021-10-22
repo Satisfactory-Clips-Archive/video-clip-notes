@@ -8,6 +8,11 @@ date: Last Modified
 * [Creative Mode](../../../topics/features/possible-features/game-modes/creative-mode.md)
 * [Peaceful Mode](../../../topics/features/possible-features/game-modes/peaceful-mode.md)
 
+## September 28th, 2021 Livestream
+* [Q&A: Do we get a "Save+"?](../../../transcriptions/yt-1sDKlvkvGWY.md) [https://www.youtube.com/watch?v=1sDKlvkvGWY](https://www.youtube.com/watch?v=1sDKlvkvGWY)
+* [Q&A: Will you add a harder mode at some point with more expensive Recipes?](../../../transcriptions/yt-vMgvD3QPJqM.md) [https://www.youtube.com/watch?v=vMgvD3QPJqM](https://www.youtube.com/watch?v=vMgvD3QPJqM)
+* [Q&A: Are randomised Ore node spawns still on the table in the future?](../../../transcriptions/yt-XNZVUKgcCmI.md) [https://www.youtube.com/watch?v=XNZVUKgcCmI](https://www.youtube.com/watch?v=XNZVUKgcCmI)
+
 ## August 31st, 2021 Livestream
 * [Q&A: Is Satisfactory a racing game?](../../../transcriptions/yt-65RvHR-Ohp8.md) [https://www.youtube.com/watch?v=65RvHR-Ohp8](https://www.youtube.com/watch?v=65RvHR-Ohp8)
 * [Snutt & Jace Talk: Idle Games](../../../transcriptions/yt-RfOnl5Krlyo.md) [https://www.youtube.com/watch?v=RfOnl5Krlyo](https://www.youtube.com/watch?v=RfOnl5Krlyo)

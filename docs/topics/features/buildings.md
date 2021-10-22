@@ -26,6 +26,13 @@ date: Last Modified
 * [The HUB](../../topics/features/buildings/the-hub.md)
 * [Water Extractor](../../topics/features/buildings/water-extractor.md)
 
+## September 28th, 2021 Livestream
+* [Q&A: What's your favourite building in the game?](../../transcriptions/yt-AaJfFOGWWsc.md) [https://www.youtube.com/watch?v=AaJfFOGWWsc](https://www.youtube.com/watch?v=AaJfFOGWWsc)
+* [Q&A: If you were a Building, what would it be?](../../transcriptions/yt-1cL_YyywAkU.md) [https://www.youtube.com/watch?v=1cL_YyywAkU](https://www.youtube.com/watch?v=1cL_YyywAkU)
+* [Q&A: In Update 5 will you add new machines?](../../transcriptions/yt-VZOFYME-ksc.md) [https://www.youtube.com/watch?v=VZOFYME-ksc](https://www.youtube.com/watch?v=VZOFYME-ksc)
+* [Q&A: Are Power Buildings classed as manufacturing?](../../transcriptions/yt-7HqeTNU0yrE.md) [https://www.youtube.com/watch?v=7HqeTNU0yrE](https://www.youtube.com/watch?v=7HqeTNU0yrE)
+* [Q&A: Are you going to add some sort of Building visualisation onto the game map?](../../transcriptions/yt-Be7CmOGzg_Y.md) [https://www.youtube.com/watch?v=Be7CmOGzg_Y](https://www.youtube.com/watch?v=Be7CmOGzg_Y)
+
 ## September 14th, 2021 Livestream
 * [Snutt & Jace Talk: Changes to Truck Station](../../transcriptions/yt-AhdmXJTAAsc.md) [https://www.youtube.com/watch?v=AhdmXJTAAsc](https://www.youtube.com/watch?v=AhdmXJTAAsc)
 * [Snutt & Jace Talk: Changes to Truck Station UI](../../transcriptions/yt-VAQDLsfK-Io.md) [https://www.youtube.com/watch?v=VAQDLsfK-Io](https://www.youtube.com/watch?v=VAQDLsfK-Io)

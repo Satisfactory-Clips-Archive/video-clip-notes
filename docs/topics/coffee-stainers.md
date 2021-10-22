@@ -37,6 +37,10 @@ date: Last Modified
 * [Torsten](../topics/coffee-stainers/torsten.md)
 * [Uzu](../topics/coffee-stainers/uzu.md)
 
+## September 28th, 2021 Livestream
+* [Q&A: Anyone in the Studio playing New Worlds?](../transcriptions/yt-XvqWzF8b8rs.md) [https://www.youtube.com/watch?v=XvqWzF8b8rs](https://www.youtube.com/watch?v=XvqWzF8b8rs)
+* [Q&A: Do any of the streams on here or Steam show active development?](../transcriptions/yt-QzFzfhLImic.md) [https://www.youtube.com/watch?v=QzFzfhLImic](https://www.youtube.com/watch?v=QzFzfhLImic)
+
 ## September 21st, 2021 Livestream
 * [Q&A: How big is the whole team?](../transcriptions/yt-PBRR5eAsO40.md) [https://www.youtube.com/watch?v=PBRR5eAsO40](https://www.youtube.com/watch?v=PBRR5eAsO40)
 * [Q&A: Are we going to get more Developer Highlights?](../transcriptions/yt-otFqKQW3HlI.md) [https://www.youtube.com/watch?v=otFqKQW3HlI](https://www.youtube.com/watch?v=otFqKQW3HlI)

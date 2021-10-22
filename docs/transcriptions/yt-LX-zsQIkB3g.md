@@ -9,7 +9,7 @@ topics:
 # [November 24th, 2020 Livestream](../2020-11-24.md)
 ## Q&A: Multiplayer fix?
 https://www.youtube.com/watch?v=LX-zsQIkB3g
-This question was possibly duplicated with a more recent answer: [September 14th, 2021 Livestream Q&A: Are there an plans to fix Multiplayer with the next Update?](./yt-ayc4aQbCQP8.md) [https://www.youtube.com/watch?v=ayc4aQbCQP8](https://www.youtube.com/watch?v=ayc4aQbCQP8)
+This question was possibly duplicated with a more recent answer: [September 28th, 2021 Livestream Q&A: When are you optimising co-op?](./yt-BFhhlBTpbMc.md) [https://www.youtube.com/watch?v=BFhhlBTpbMc](https://www.youtube.com/watch?v=BFhhlBTpbMc)
 
 
 ### Topics

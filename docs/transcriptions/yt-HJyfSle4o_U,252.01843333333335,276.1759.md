@@ -11,6 +11,8 @@ topics:
 # [September 17th, 2021 Video](../2021-09-17.md)
 ## Q&A: What's DirectX 12 & Vulkan going to do for me?
 https://youtube.com/clip/UgkxuBqrfJx5somXI4FuxBvHWMulmqkA6KPZ
+This question was possibly duplicated with a more recent answer: [September 28th, 2021 Livestream Q&A: Why would you pick Vulkan over DirectX 12?](./yt-Rh4ZuKAKnuw.md) [https://www.youtube.com/watch?v=Rh4ZuKAKnuw](https://www.youtube.com/watch?v=Rh4ZuKAKnuw)
+
 
 ### Topics
 * [Satisfactory Updates](../topics/satisfactory-updates.md)

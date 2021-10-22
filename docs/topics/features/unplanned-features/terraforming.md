@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Unplanned Features](../../../topics/features/unplanned-features.md) > Terraforming
 
+## September 28th, 2021 Livestream
+* [Q&A: Any plans for Terraforming the landscape a little bit?](../../../transcriptions/yt-JQpNpEJAscc.md) [https://www.youtube.com/watch?v=JQpNpEJAscc](https://www.youtube.com/watch?v=JQpNpEJAscc)
+
 ## August 17th, 2021 Livestream
 * [Q&A: Will there be some chance to get Terraforming?](../../../transcriptions/yt-Ojwu95O6Z3Q.md) [https://www.youtube.com/watch?v=Ojwu95O6Z3Q](https://www.youtube.com/watch?v=Ojwu95O6Z3Q)
 

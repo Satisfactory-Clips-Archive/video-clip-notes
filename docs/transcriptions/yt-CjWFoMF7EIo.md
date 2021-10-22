@@ -8,7 +8,7 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Can you add ability to deselect with ctrl?
 https://www.youtube.com/watch?v=CjWFoMF7EIo
-This question was possibly duplicated with a more recent answer: [August 24th, 2021 Livestream Q&A: Having unselect in Mass Dismantle, though?](./yt-bAbuez_N2bc.md) [https://www.youtube.com/watch?v=bAbuez_N2bc](https://www.youtube.com/watch?v=bAbuez_N2bc)
+This question was possibly duplicated with a more recent answer: [September 28th, 2021 Livestream Q&A: When you delete can you ctrl-toggle in case you mis-click?](./yt-nPM3VCqthUw.md) [https://www.youtube.com/watch?v=nPM3VCqthUw](https://www.youtube.com/watch?v=nPM3VCqthUw)
 
 
 ### Topics

@@ -9,6 +9,8 @@ topics:
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: Put in Solar & Wind Power to make it ultra limited?
 https://www.youtube.com/watch?v=_IJsp-Fy1zw
+This question was possibly duplicated with a more recent answer: [September 28th, 2021 Livestream Q&A: Any plans to add wind or solar generators?](./yt-9gLdXXyoabU.md) [https://www.youtube.com/watch?v=9gLdXXyoabU](https://www.youtube.com/watch?v=9gLdXXyoabU)
+
 
 ### Topics
 * [Environment](../topics/environment.md)

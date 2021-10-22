@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Transportation > Hyper Tubes
 
+## September 28th, 2021 Livestream
+* [Q&A: Will Lizard Doggos be able to use Hyper Tubes?](../../../transcriptions/yt-1TET5q4oqxU.md) [https://www.youtube.com/watch?v=1TET5q4oqxU](https://www.youtube.com/watch?v=1TET5q4oqxU)
+* [Q&A: Were Hyper Tubes ever meant to work that way or was it an accident?](../../../transcriptions/yt-oT-Qz36u1co.md) [https://www.youtube.com/watch?v=oT-Qz36u1co](https://www.youtube.com/watch?v=oT-Qz36u1co)
+
 ## September 14th, 2021 Livestream
 * [Q&A: Does Soft Clearance apply to Hyper Tubes?](../../../transcriptions/yt-ekzv2HksCOk.md) [https://www.youtube.com/watch?v=ekzv2HksCOk](https://www.youtube.com/watch?v=ekzv2HksCOk)
 * [Q&A: Do you guys like how Hyper Tubes turned out with cannons?](../../../transcriptions/yt-LG0wAne1mR8.md) [https://www.youtube.com/watch?v=LG0wAne1mR8](https://www.youtube.com/watch?v=LG0wAne1mR8)

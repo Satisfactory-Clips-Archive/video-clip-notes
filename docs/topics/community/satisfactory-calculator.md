@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Satisfactory Calculator
 
+## September 28th, 2021 Livestream
+* [Q&A: Any plans to add more map functionality like the calculator website?](../../transcriptions/yt-bzRcbP7bZLs.md) [https://www.youtube.com/watch?v=bzRcbP7bZLs](https://www.youtube.com/watch?v=bzRcbP7bZLs)
+
 ## June 29th, 2021 Livestream
 * [Q&A: Are you thinking of implementing a system like Satisfactory Calculator?](../../transcriptions/yt-wHbulAfnOyc.md) [https://www.youtube.com/watch?v=wHbulAfnOyc](https://www.youtube.com/watch?v=wHbulAfnOyc)
 

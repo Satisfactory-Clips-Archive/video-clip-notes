@@ -7,6 +7,22 @@ date: Last Modified
 * [Northern Forest World Update Q&A with Hannah](../../../topics/satisfactory-updates/pending/satisfactory-update-5/northern-forest-world-update-q-and-a-with-hannah.md)
 * [#SaveTheWillows](../../../topics/satisfactory-updates/pending/satisfactory-update-5/save-the-willows.md)
 
+## September 28th, 2021 Livestream
+* [State of Dev: Update 5 Release Date](../../../transcriptions/yt-dAfszSKXuYk.md) [https://www.youtube.com/watch?v=dAfszSKXuYk](https://www.youtube.com/watch?v=dAfszSKXuYk)
+* [Q&A: Any plans to release the Engine Upgrade to EA before Update 5 releases to Experimental?](../../../transcriptions/yt-IfYa23IgdLw.md) [https://www.youtube.com/watch?v=IfYa23IgdLw](https://www.youtube.com/watch?v=IfYa23IgdLw)
+* [Q&A: Is it reasonable to say Update 5 is the "quality of life" Update?](../../../transcriptions/yt-dJXHhrGt0w0.md) [https://www.youtube.com/watch?v=dJXHhrGt0w0](https://www.youtube.com/watch?v=dJXHhrGt0w0)
+* [Q&A: What percentage of things would you say at this point have been revealed?](../../../transcriptions/yt-lJhWFjC2ChQ.md) [https://www.youtube.com/watch?v=lJhWFjC2ChQ](https://www.youtube.com/watch?v=lJhWFjC2ChQ)
+* [Q&A: Is there something in Update 5 that you previously said you wouldn't add to the game?](../../../transcriptions/yt-RStZ5zjZ2mY.md) [https://www.youtube.com/watch?v=RStZ5zjZ2mY](https://www.youtube.com/watch?v=RStZ5zjZ2mY)
+* [Q&A: New mobs coming in Update 5?](../../../transcriptions/yt-13K9Hn3mdnc.md) [https://www.youtube.com/watch?v=13K9Hn3mdnc](https://www.youtube.com/watch?v=13K9Hn3mdnc)
+* [Q&A: Will the cost of stuff in the AWESOME Shop adapt to new things being added?](../../../transcriptions/yt-83-PtkbWfKE.md) [https://www.youtube.com/watch?v=83-PtkbWfKE](https://www.youtube.com/watch?v=83-PtkbWfKE)
+* [Q&A: Any improvements to exploration coming to Update 5?](../../../transcriptions/yt-8ABDvvluVbs.md) [https://www.youtube.com/watch?v=8ABDvvluVbs](https://www.youtube.com/watch?v=8ABDvvluVbs)
+* [Q&A: Every Update so far has had a theme, what's the theme for Update 5?](../../../transcriptions/yt-6qWaSXVG0oE.md) [https://www.youtube.com/watch?v=6qWaSXVG0oE](https://www.youtube.com/watch?v=6qWaSXVG0oE)
+* [Community FYI: "Update 5: The Flush"](../../../transcriptions/yt-ltBHmNu2JqA.md) [https://www.youtube.com/watch?v=ltBHmNu2JqA](https://www.youtube.com/watch?v=ltBHmNu2JqA)
+* [Q&A: Will coffee cup look different in Update 5?](../../../transcriptions/yt-Mr80G3BjkDg.md) [https://www.youtube.com/watch?v=Mr80G3BjkDg](https://www.youtube.com/watch?v=Mr80G3BjkDg)
+* [Q&A: Do you already have a plan after Update 5?](../../../transcriptions/yt-eMwd2j_3Dso.md) [https://www.youtube.com/watch?v=eMwd2j_3Dso](https://www.youtube.com/watch?v=eMwd2j_3Dso)
+* [Q&A: In Update 5 will you add new machines?](../../../transcriptions/yt-VZOFYME-ksc.md) [https://www.youtube.com/watch?v=VZOFYME-ksc](https://www.youtube.com/watch?v=VZOFYME-ksc)
+* [Q&A: Can you put ceiling Lights on the slanted Roof pieces?](../../../transcriptions/yt-Pt1KjHKo_As.md) [https://www.youtube.com/watch?v=Pt1KjHKo_As](https://www.youtube.com/watch?v=Pt1KjHKo_As)
+
 ## September 24th, 2021 Video
 * [Jace Talk: Release date for Update 5](../../../transcriptions/yt-W3YBFCO1NMg,10.543866666666666,38.7387.md) [https://youtube.com/clip/UgkxnRP9M3wYnjtR8T9SvsYcR0pB6WjvoQNk](https://youtube.com/clip/UgkxnRP9M3wYnjtR8T9SvsYcR0pB6WjvoQNk)
 * [Jace Talk: Experimental vs. Early Access versions](../../../transcriptions/yt-W3YBFCO1NMg,38.77206666666667,80.04663333333333.md) [https://youtube.com/clip/Ugkxpyi172YKZF-zc3dXhCidH_k2idgGgFh7](https://youtube.com/clip/Ugkxpyi172YKZF-zc3dXhCidH_k2idgGgFh7)

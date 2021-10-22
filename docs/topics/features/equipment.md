@@ -14,6 +14,9 @@ date: Last Modified
 * [Rifle](../../topics/features/equipment/rifle.md)
 * [Zip Lines](../../topics/features/equipment/zip-lines.md)
 
+## September 28th, 2021 Livestream
+* [Q&A: Will coffee cup look different in Update 5?](../../transcriptions/yt-Mr80G3BjkDg.md) [https://www.youtube.com/watch?v=Mr80G3BjkDg](https://www.youtube.com/watch?v=Mr80G3BjkDg)
+
 ## September 21st, 2021 Livestream
 * [Q&A: Why is there no laser gun?](../../transcriptions/yt-cvvpoBzS7DM.md) [https://www.youtube.com/watch?v=cvvpoBzS7DM](https://www.youtube.com/watch?v=cvvpoBzS7DM)
 

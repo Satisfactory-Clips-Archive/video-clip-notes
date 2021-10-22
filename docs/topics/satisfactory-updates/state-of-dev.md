@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > State of Dev
 
+## September 28th, 2021 Livestream
+* [State of Dev: Update 5 Release Date](../../transcriptions/yt-dAfszSKXuYk.md) [https://www.youtube.com/watch?v=dAfszSKXuYk](https://www.youtube.com/watch?v=dAfszSKXuYk)
+* [State of Dev: Engine Update](../../transcriptions/yt-tF4LNEGUVnk.md) [https://www.youtube.com/watch?v=tF4LNEGUVnk](https://www.youtube.com/watch?v=tF4LNEGUVnk)
+
 ## September 21st, 2021 Livestream
 * [State of Dev: State of Golf](../../transcriptions/yt-eKgulNPmte4.md) [https://www.youtube.com/watch?v=eKgulNPmte4](https://www.youtube.com/watch?v=eKgulNPmte4)
 

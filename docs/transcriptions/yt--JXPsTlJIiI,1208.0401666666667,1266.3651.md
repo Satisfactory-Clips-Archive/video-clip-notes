@@ -8,7 +8,7 @@ topics:
 # [December 17th, 2020 Q&A](../2020-12-17.md)
 ## Q&A: Do you plan to add copy & paste functionality / blueprints?
 https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=1208&end=1267
-This question was possibly duplicated with a more recent answer: [June 29th, 2021 Livestream Q&A: Blueprints, for repetitive factory setups?](./yt-NYHU62S6czs.md) [https://www.youtube.com/watch?v=NYHU62S6czs](https://www.youtube.com/watch?v=NYHU62S6czs)
+This question was possibly duplicated with a more recent answer: [September 28th, 2021 Livestream Q&A: Are you guys putting any form of Blueprinting into the game?](./yt-LdNJwc9xclw.md) [https://www.youtube.com/watch?v=LdNJwc9xclw](https://www.youtube.com/watch?v=LdNJwc9xclw)
 
 
 ### Topics

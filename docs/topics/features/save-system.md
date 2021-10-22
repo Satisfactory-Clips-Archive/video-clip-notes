@@ -7,6 +7,9 @@ date: Last Modified
 * [Autosave](../../topics/features/save-system/autosave.md)
 * [Cloud Sync](../../topics/features/save-system/cloud-sync.md)
 
+## September 28th, 2021 Livestream
+* [Q&A: Will picking foliage causing slowdown be fixed?](../../transcriptions/yt-qup37E4-Kgc.md) [https://www.youtube.com/watch?v=qup37E4-Kgc](https://www.youtube.com/watch?v=qup37E4-Kgc)
+
 ## September 24th, 2021 Video
 * [Jace Talk: Back up your saves](../../transcriptions/yt-W3YBFCO1NMg,80.08,95.52876666666667.md) [https://youtube.com/clip/UgkxRT_6nzgEfU7ffNARf4A2Sryn8R83sglP](https://youtube.com/clip/UgkxRT_6nzgEfU7ffNARf4A2Sryn8R83sglP)
 

@@ -8,7 +8,7 @@ topics:
 # [June 8th, 2021 Livestream](../2021-06-08.md)
 ## Q&A: What's the current Multiplayer status?
 https://www.youtube.com/watch?v=doX5Pn5A6Tc
-This question was possibly duplicated with a more recent answer: [September 14th, 2021 Livestream Q&A: Are there an plans to fix Multiplayer with the next Update?](./yt-ayc4aQbCQP8.md) [https://www.youtube.com/watch?v=ayc4aQbCQP8](https://www.youtube.com/watch?v=ayc4aQbCQP8)
+This question was possibly duplicated with a more recent answer: [September 28th, 2021 Livestream Q&A: When are you optimising co-op?](./yt-BFhhlBTpbMc.md) [https://www.youtube.com/watch?v=BFhhlBTpbMc](https://www.youtube.com/watch?v=BFhhlBTpbMc)
 
 
 ### Topics
