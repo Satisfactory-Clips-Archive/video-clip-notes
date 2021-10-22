@@ -1,12 +1,12 @@
 ---
-title: "September 21st, 2021 Livestream Community FYI: Seems like LetsGameItOut has some rendering issues"
+title: "September 21st, 2021 Livestream Community FYI: Seems like Lets Game It Out has some rendering issues"
 date: "2021-09-21"
 layout: transcript
 topics:
     - "community/josh"
 ---
 # [September 21st, 2021 Livestream](../2021-09-21.md)
-## Community FYI: Seems like LetsGameItOut has some rendering issues
+## Community FYI: Seems like Lets Game It Out has some rendering issues
 https://www.youtube.com/watch?v=pla2vy3UYRg
 
 ### Topics

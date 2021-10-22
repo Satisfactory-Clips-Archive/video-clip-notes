@@ -1,12 +1,12 @@
 ---
-title: "September 21st, 2021 Livestream Q&A: Do you like the way LetsGameItOut plays your game?"
+title: "September 21st, 2021 Livestream Q&A: Do you like the way Lets Game It Out plays your game?"
 date: "2021-09-21"
 layout: transcript
 topics:
     - "community/josh"
 ---
 # [September 21st, 2021 Livestream](../2021-09-21.md)
-## Q&A: Do you like the way LetsGameItOut plays your game?
+## Q&A: Do you like the way Lets Game It Out plays your game?
 https://www.youtube.com/watch?v=bCg8iTtkTf4
 
 ### Topics

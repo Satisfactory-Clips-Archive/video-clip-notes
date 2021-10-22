@@ -9,9 +9,9 @@ date: Last Modified
 * Q&A: Can we get a reaction video from the two of you to Josh's Lets Game It Out video? [https://www.youtube.com/watch?v=sHbJ5yRQxsQ](https://www.youtube.com/watch?v=sHbJ5yRQxsQ)
 
 ## September 21st, 2021 Livestream
-* [Community FYI: Seems like LetsGameItOut has some rendering issues](../../transcriptions/yt-pla2vy3UYRg.md) [https://www.youtube.com/watch?v=pla2vy3UYRg](https://www.youtube.com/watch?v=pla2vy3UYRg)
+* [Community FYI: Seems like Lets Game It Out has some rendering issues](../../transcriptions/yt-pla2vy3UYRg.md) [https://www.youtube.com/watch?v=pla2vy3UYRg](https://www.youtube.com/watch?v=pla2vy3UYRg)
 * [Q&A: Can you do a react video to Josh's videos?](../../transcriptions/yt-ay4mx46F6tc.md) [https://www.youtube.com/watch?v=ay4mx46F6tc](https://www.youtube.com/watch?v=ay4mx46F6tc)
-* [Q&A: Do you like the way LetsGameItOut plays your game?](../../transcriptions/yt-bCg8iTtkTf4.md) [https://www.youtube.com/watch?v=bCg8iTtkTf4](https://www.youtube.com/watch?v=bCg8iTtkTf4)
+* [Q&A: Do you like the way Lets Game It Out plays your game?](../../transcriptions/yt-bCg8iTtkTf4.md) [https://www.youtube.com/watch?v=bCg8iTtkTf4](https://www.youtube.com/watch?v=bCg8iTtkTf4)
 * [Q&A: The way to dispose Nuclear Waste that Josh used, was it intended?](../../transcriptions/yt-HNrxJ2Sth7Y.md) [https://www.youtube.com/watch?v=HNrxJ2Sth7Y](https://www.youtube.com/watch?v=HNrxJ2Sth7Y)
 
 ## June 22nd, 2021 Livestream
