@@ -12,7 +12,7 @@ date: Last Modified
 ## September 21st, 2021 Livestream
 * Snutt & Jace Talk: Engine Update [https://www.youtube.com/watch?v=GhhV6CAxJ1c](https://www.youtube.com/watch?v=GhhV6CAxJ1c)
 * [Snutt Talk: Engine Upgrade](../../transcriptions/yt-eX0wesdlKTA.md) [https://www.youtube.com/watch?v=eX0wesdlKTA](https://www.youtube.com/watch?v=eX0wesdlKTA)
-* [Snutt Talk: DirectX & Vukan Support in the Engine Upgrade](../../transcriptions/yt-rbf8L_K7QEs.md) [https://www.youtube.com/watch?v=rbf8L_K7QEs](https://www.youtube.com/watch?v=rbf8L_K7QEs)
+* [Snutt Talk: DirectX & Vulkan Support in the Engine Upgrade](../../transcriptions/yt-rbf8L_K7QEs.md) [https://www.youtube.com/watch?v=rbf8L_K7QEs](https://www.youtube.com/watch?v=rbf8L_K7QEs)
 * [Q&A: Will the Engine Update push out to EA before the new content to Update 5?](../../transcriptions/yt-MFlqre9Sy3A.md) [https://www.youtube.com/watch?v=MFlqre9Sy3A](https://www.youtube.com/watch?v=MFlqre9Sy3A)
 * [Snutt & Jace Talk: If you're playing on Experimental, Mods will probably break](../../transcriptions/yt-SPBT-gIzIPU.md) [https://www.youtube.com/watch?v=SPBT-gIzIPU](https://www.youtube.com/watch?v=SPBT-gIzIPU)
 * [Q&A: Will the new Engine Update bring better lighting?](../../transcriptions/yt-x5sW4WEy32I.md) [https://www.youtube.com/watch?v=x5sW4WEy32I](https://www.youtube.com/watch?v=x5sW4WEy32I)

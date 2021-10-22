@@ -6,7 +6,7 @@ date: Last Modified
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > DirectX
 
 ## September 21st, 2021 Livestream
-* [Snutt Talk: DirectX & Vukan Support in the Engine Upgrade](../../transcriptions/yt-rbf8L_K7QEs.md) [https://www.youtube.com/watch?v=rbf8L_K7QEs](https://www.youtube.com/watch?v=rbf8L_K7QEs)
+* [Snutt Talk: DirectX & Vulkan Support in the Engine Upgrade](../../transcriptions/yt-rbf8L_K7QEs.md) [https://www.youtube.com/watch?v=rbf8L_K7QEs](https://www.youtube.com/watch?v=rbf8L_K7QEs)
 
 ## September 17th, 2021 Video
 * [Jace Talk: Vulkan & DirectX 12 support](../../transcriptions/yt-HJyfSle4o_U,195.42856666666668,251.98506666666668.md) [https://youtube.com/clip/UgkxYXdoUtdawpwfk5wvl0-PzcWyc4RqTr1U](https://youtube.com/clip/UgkxYXdoUtdawpwfk5wvl0-PzcWyc4RqTr1U)

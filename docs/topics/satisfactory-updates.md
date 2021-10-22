@@ -24,7 +24,7 @@ date: Last Modified
 ## September 21st, 2021 Livestream
 * Snutt & Jace Talk: Engine Update [https://www.youtube.com/watch?v=GhhV6CAxJ1c](https://www.youtube.com/watch?v=GhhV6CAxJ1c)
 * [Snutt Talk: Engine Upgrade](../transcriptions/yt-eX0wesdlKTA.md) [https://www.youtube.com/watch?v=eX0wesdlKTA](https://www.youtube.com/watch?v=eX0wesdlKTA)
-* [Snutt Talk: DirectX & Vukan Support in the Engine Upgrade](../transcriptions/yt-rbf8L_K7QEs.md) [https://www.youtube.com/watch?v=rbf8L_K7QEs](https://www.youtube.com/watch?v=rbf8L_K7QEs)
+* [Snutt Talk: DirectX & Vulkan Support in the Engine Upgrade](../transcriptions/yt-rbf8L_K7QEs.md) [https://www.youtube.com/watch?v=rbf8L_K7QEs](https://www.youtube.com/watch?v=rbf8L_K7QEs)
 * [Q&A: Will the Engine Update push out to EA before the new content to Update 5?](../transcriptions/yt-MFlqre9Sy3A.md) [https://www.youtube.com/watch?v=MFlqre9Sy3A](https://www.youtube.com/watch?v=MFlqre9Sy3A)
 * [Community FYI: I like the game but don't like that when an Update comes you need to redo your base](../transcriptions/yt-Sm5QqQgdN2o.md) [https://www.youtube.com/watch?v=Sm5QqQgdN2o](https://www.youtube.com/watch?v=Sm5QqQgdN2o)
 * [Q&A: Will the game continue to receive Updates (either minor or major) after 1.0?](../transcriptions/yt-RDO1LqiB54Y.md) [https://www.youtube.com/watch?v=RDO1LqiB54Y](https://www.youtube.com/watch?v=RDO1LqiB54Y)

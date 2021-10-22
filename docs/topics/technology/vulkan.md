@@ -6,7 +6,7 @@ date: Last Modified
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > Vulkan
 
 ## September 21st, 2021 Livestream
-* [Snutt Talk: DirectX & Vukan Support in the Engine Upgrade](../../transcriptions/yt-rbf8L_K7QEs.md) [https://www.youtube.com/watch?v=rbf8L_K7QEs](https://www.youtube.com/watch?v=rbf8L_K7QEs)
+* [Snutt Talk: DirectX & Vulkan Support in the Engine Upgrade](../../transcriptions/yt-rbf8L_K7QEs.md) [https://www.youtube.com/watch?v=rbf8L_K7QEs](https://www.youtube.com/watch?v=rbf8L_K7QEs)
 * [Q&A: What is Vulkan?](../../transcriptions/yt-Z1CxRWTQNco.md) [https://www.youtube.com/watch?v=Z1CxRWTQNco](https://www.youtube.com/watch?v=Z1CxRWTQNco)
 
 ## September 17th, 2021 Video

@@ -1,5 +1,5 @@
 ---
-title: "September 21st, 2021 Livestream Snutt Talk: DirectX & Vukan Support in the Engine Upgrade"
+title: "September 21st, 2021 Livestream Snutt Talk: DirectX & Vulkan Support in the Engine Upgrade"
 date: "2021-09-21"
 layout: transcript
 topics:
@@ -9,7 +9,7 @@ topics:
     - "technology/vulkan"
 ---
 # [September 21st, 2021 Livestream](../2021-09-21.md)
-## Snutt Talk: DirectX & Vukan Support in the Engine Upgrade
+## Snutt Talk: DirectX & Vulkan Support in the Engine Upgrade
 https://www.youtube.com/watch?v=rbf8L_K7QEs
 
 ### Topics
