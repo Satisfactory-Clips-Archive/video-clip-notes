@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Requested Features](../../../topics/features/requested-features.md) > Golf
 
+## October 5th, 2021 Livestream
+* [Snutt & Jace Talk: Golf](../../../transcriptions/yt-sjeCx356Lhk.md) [https://www.youtube.com/watch?v=sjeCx356Lhk](https://www.youtube.com/watch?v=sjeCx356Lhk)
+
 ## September 28th, 2021 Livestream
 * [Q&A: State of Golf?](../../../transcriptions/yt-gGnx5xs24jk.md) [https://www.youtube.com/watch?v=gGnx5xs24jk](https://www.youtube.com/watch?v=gGnx5xs24jk)
 * [Q&A: Was it not 1000 in the beginning?](../../../transcriptions/yt-2akBt6yAZtM.md) [https://www.youtube.com/watch?v=2akBt6yAZtM](https://www.youtube.com/watch?v=2akBt6yAZtM)

@@ -7,6 +7,9 @@ date: Last Modified
 * [Autosave](../../topics/features/save-system/autosave.md)
 * [Cloud Sync](../../topics/features/save-system/cloud-sync.md)
 
+## October 8th, 2021 Video
+* [Q&A: What happens if I load my save file and the Trains are colliding?](../../transcriptions/yt-CskxkIepX6Y,1117.2494666666666,1157.2561.md) [https://youtube.com/clip/UgkxPOxakQgLjRDyqK3PdSE2m-_onuMEd-zq](https://youtube.com/clip/UgkxPOxakQgLjRDyqK3PdSE2m-_onuMEd-zq)
+
 ## September 28th, 2021 Livestream
 * [Q&A: Will picking foliage causing slowdown be fixed?](../../transcriptions/yt-qup37E4-Kgc.md) [https://www.youtube.com/watch?v=qup37E4-Kgc](https://www.youtube.com/watch?v=qup37E4-Kgc)
 

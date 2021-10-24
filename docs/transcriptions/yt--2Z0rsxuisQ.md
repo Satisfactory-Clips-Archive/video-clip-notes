@@ -8,7 +8,7 @@ topics:
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: Will Radar Towers get a Mk.2 version?
 https://www.youtube.com/watch?v=-2Z0rsxuisQ
-This question was possibly duplicated with a more recent answer: [September 14th, 2021 Livestream Q&A: Will Radar Towers get more useful?](./yt-tsSCSLlVaN8.md) [https://www.youtube.com/watch?v=tsSCSLlVaN8](https://www.youtube.com/watch?v=tsSCSLlVaN8)
+This question was possibly duplicated with a more recent answer: October 5th, 2021 Livestream Q&A: Radar Tower change? [https://www.youtube.com/watch?v=Hr49ERiu1v8](https://www.youtube.com/watch?v=Hr49ERiu1v8)
 
 
 ### Topics

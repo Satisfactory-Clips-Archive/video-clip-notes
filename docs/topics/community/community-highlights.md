@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Community Highlights
 
+## October 5th, 2021 Livestream
+* [Snutt Talk: Torsten's Beam aesthetics](../../transcriptions/yt-cTKqlerNuIg.md) [https://www.youtube.com/watch?v=cTKqlerNuIg](https://www.youtube.com/watch?v=cTKqlerNuIg)
+* [Trolling: Rebalancing Water Extractors in Update 5](../../transcriptions/yt-rjR-CAkE03w.md) [https://www.youtube.com/watch?v=rjR-CAkE03w](https://www.youtube.com/watch?v=rjR-CAkE03w)
+
 ## September 28th, 2021 Livestream
 * [Q&A: Please fix Multiplayer](../../transcriptions/yt-q6SywO8A2Yk.md) [https://www.youtube.com/watch?v=q6SywO8A2Yk](https://www.youtube.com/watch?v=q6SywO8A2Yk)
 * [Jace Talk: Satisfactory welcomes other kinds of pasta](../../transcriptions/yt-ltEZAwikPn4.md) [https://www.youtube.com/watch?v=ltEZAwikPn4](https://www.youtube.com/watch?v=ltEZAwikPn4)

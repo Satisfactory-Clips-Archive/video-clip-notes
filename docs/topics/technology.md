@@ -14,6 +14,9 @@ date: Last Modified
 * [User Interface](../topics/technology/user-interface.md)
 * [Vulkan](../topics/technology/vulkan.md)
 
+## October 5th, 2021 Livestream
+* [Q&A: Do you know if the game works properly on Windows 11?](../transcriptions/yt-RCOgauekQyk.md) [https://www.youtube.com/watch?v=RCOgauekQyk](https://www.youtube.com/watch?v=RCOgauekQyk)
+
 ## August 31st, 2021 Livestream
 * [Q&A: Does Satisfactory make use of multiple cores?](../transcriptions/yt-5xMB9YAL06E.md) [https://www.youtube.com/watch?v=5xMB9YAL06E](https://www.youtube.com/watch?v=5xMB9YAL06E)
 * [Q&A: Please allow Satisfactory to work on GeForce Experience](../transcriptions/yt-8Xl6Smhmfvo.md) [https://www.youtube.com/watch?v=8Xl6Smhmfvo](https://www.youtube.com/watch?v=8Xl6Smhmfvo)

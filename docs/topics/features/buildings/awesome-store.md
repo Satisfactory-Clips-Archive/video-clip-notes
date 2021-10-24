@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > AWESOME Store
 
+## October 5th, 2021 Livestream
+* [Q&A: Item stand from the AWESOME Store?](../../../transcriptions/yt-lmbs2TWqQ5Q.md) [https://www.youtube.com/watch?v=lmbs2TWqQ5Q](https://www.youtube.com/watch?v=lmbs2TWqQ5Q)
+
 ## September 28th, 2021 Livestream
 * [Q&A: Will the cost of stuff in the AWESOME Shop adapt to new things being added?](../../../transcriptions/yt-83-PtkbWfKE.md) [https://www.youtube.com/watch?v=83-PtkbWfKE](https://www.youtube.com/watch?v=83-PtkbWfKE)
 

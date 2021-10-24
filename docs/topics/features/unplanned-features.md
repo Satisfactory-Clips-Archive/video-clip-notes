@@ -16,6 +16,9 @@ date: Last Modified
 * [Terraforming](../../topics/features/unplanned-features/terraforming.md)
 * [VR](../../topics/features/unplanned-features/vr.md)
 
+## October 5th, 2021 Livestream
+* [Q&A: No floating platforms any more?](../../transcriptions/yt-o_kTaVSOdg4.md) [https://www.youtube.com/watch?v=o_kTaVSOdg4](https://www.youtube.com/watch?v=o_kTaVSOdg4)
+
 ## September 28th, 2021 Livestream
 * [Q&A: Is there something in Update 5 that you previously said you wouldn't add to the game?](../../transcriptions/yt-RStZ5zjZ2mY.md) [https://www.youtube.com/watch?v=RStZ5zjZ2mY](https://www.youtube.com/watch?v=RStZ5zjZ2mY)
 * [Q&A: Conveyor input for Biomass, please?](../../transcriptions/yt-Hi-wSNVeFPU.md) [https://www.youtube.com/watch?v=Hi-wSNVeFPU](https://www.youtube.com/watch?v=Hi-wSNVeFPU)

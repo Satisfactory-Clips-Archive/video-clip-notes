@@ -23,6 +23,12 @@ date: Last Modified
 * [Tom](../topics/community/tom.md)
 * [Wiki](../topics/community/wiki.md)
 
+## October 8th, 2021 Video
+* [Jace Talk: Conclusion](../transcriptions/yt-CskxkIepX6Y,1157.2894666666666,1188.2537333333335.md) [https://youtube.com/clip/Ugkx-aOuyaZrZ8R980wzgxZVK9ToRF4s_yVp](https://youtube.com/clip/Ugkx-aOuyaZrZ8R980wzgxZVK9ToRF4s_yVp)
+
+## October 5th, 2021 Livestream
+* [Snutt & Jace Talk: Community memes about Train Signals](../transcriptions/yt-IZaSg49N0MY.md) [https://www.youtube.com/watch?v=IZaSg49N0MY](https://www.youtube.com/watch?v=IZaSg49N0MY)
+
 ## September 28th, 2021 Livestream
 * [Q&A: Any insane people in chat that build in Bamboo Forest?](../transcriptions/yt-RkF6Qjjwf5A.md) [https://www.youtube.com/watch?v=RkF6Qjjwf5A](https://www.youtube.com/watch?v=RkF6Qjjwf5A)
 

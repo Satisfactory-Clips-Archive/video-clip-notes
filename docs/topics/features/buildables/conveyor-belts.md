@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Conveyor Belts
 
+## October 5th, 2021 Livestream
+* [Q&A: Done any further look into the Mk.3 Miner and the second output?](../../../transcriptions/yt-hM5HKud0ChI.md) [https://www.youtube.com/watch?v=hM5HKud0ChI](https://www.youtube.com/watch?v=hM5HKud0ChI)
+* [Q&A: Is there going to be a remedy for Mk.3 Miners being bottlenecked?](../../../transcriptions/yt-3m_vqCavleY.md) [https://www.youtube.com/watch?v=3m_vqCavleY](https://www.youtube.com/watch?v=3m_vqCavleY)
+* [Q&A: Item stand from the AWESOME Store?](../../../transcriptions/yt-lmbs2TWqQ5Q.md) [https://www.youtube.com/watch?v=lmbs2TWqQ5Q](https://www.youtube.com/watch?v=lmbs2TWqQ5Q)
+
 ## September 28th, 2021 Livestream
 * [Q&A: Belt & Pipe max throughput fixes, when?](../../../transcriptions/yt-iJ2m-cf3kHk.md) [https://www.youtube.com/watch?v=iJ2m-cf3kHk](https://www.youtube.com/watch?v=iJ2m-cf3kHk)
 * [Q&A: Vertical Splitters?](../../../transcriptions/yt-KerNCX4Cbss.md) [https://www.youtube.com/watch?v=KerNCX4Cbss](https://www.youtube.com/watch?v=KerNCX4Cbss)

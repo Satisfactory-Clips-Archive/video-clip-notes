@@ -14,6 +14,10 @@ date: Last Modified
 * [Steel](../../topics/environment/resources/steel.md)
 * [Water](../../topics/environment/resources/water.md)
 
+## October 5th, 2021 Livestream
+* [Q&A: What happens with the Resources when the Trains crash?](../../transcriptions/yt-wsIuSnxN7lg.md) [https://www.youtube.com/watch?v=wsIuSnxN7lg](https://www.youtube.com/watch?v=wsIuSnxN7lg)
+* [Community FYI: You have to pick up each item 1 by 1, stacked separately](../../transcriptions/yt-VxwzQwe0O1A.md) [https://www.youtube.com/watch?v=VxwzQwe0O1A](https://www.youtube.com/watch?v=VxwzQwe0O1A)
+
 ## September 28th, 2021 Livestream
 * [Q&A: How do you get Hard Drives that require Holiday Event-specific items?](../../transcriptions/yt-eviAiYWLroI.md) [https://www.youtube.com/watch?v=eviAiYWLroI](https://www.youtube.com/watch?v=eviAiYWLroI)
 * [Q&A: Are randomised Ore node spawns still on the table in the future?](../../transcriptions/yt-XNZVUKgcCmI.md) [https://www.youtube.com/watch?v=XNZVUKgcCmI](https://www.youtube.com/watch?v=XNZVUKgcCmI)

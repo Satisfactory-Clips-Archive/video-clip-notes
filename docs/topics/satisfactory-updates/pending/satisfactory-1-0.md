@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Pending > Satisfactory 1.0
 
+## October 5th, 2021 Livestream
+* [Q&A: Are Mercer Spheres & Somersloops going to have any relevance before 1.0?](../../../transcriptions/yt-b9gre_TGBH0.md) [https://www.youtube.com/watch?v=b9gre_TGBH0](https://www.youtube.com/watch?v=b9gre_TGBH0)
+
 ## September 28th, 2021 Livestream
 * [Q&A: Are there any Recipes that sure won't change 'til 1.0?](../../../transcriptions/yt-3iBW1DPBlD4.md) [https://www.youtube.com/watch?v=3iBW1DPBlD4](https://www.youtube.com/watch?v=3iBW1DPBlD4)
 * [Q&A: Will there be any big UI changes before 1.0, like colour pallette & design?](../../../transcriptions/yt-7hJDZCiH0o0.md) [https://www.youtube.com/watch?v=7hJDZCiH0o0](https://www.youtube.com/watch?v=7hJDZCiH0o0)

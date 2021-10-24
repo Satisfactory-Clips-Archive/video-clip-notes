@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Biomes](../../../topics/environment/biomes.md) > Northern Forest
 
+## October 5th, 2021 Livestream
+* [Q&A: Will Northern Forest be less foggy?](../../../transcriptions/yt-4HmDU50SExc.md) [https://www.youtube.com/watch?v=4HmDU50SExc](https://www.youtube.com/watch?v=4HmDU50SExc)
+
 ## August 31st, 2021 Livestream
 * [Snutt & Jace Talk: Filming in the Northern Forest](../../../transcriptions/yt-Kw-t3xNN2Hg.md) [https://www.youtube.com/watch?v=Kw-t3xNN2Hg](https://www.youtube.com/watch?v=Kw-t3xNN2Hg)
 

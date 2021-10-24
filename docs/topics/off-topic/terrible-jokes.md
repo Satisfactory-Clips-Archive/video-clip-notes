@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Terrible Jokes
 
+## October 5th, 2021 Livestream
+* [Q&A: Why is Jace's camera blurry?](../../transcriptions/yt-0bCxdLVhBQU.md) [https://www.youtube.com/watch?v=0bCxdLVhBQU](https://www.youtube.com/watch?v=0bCxdLVhBQU)
+
 ## June 22nd, 2021 Livestream
 * [Community FYI: We need more Torsten for more stuff](../../transcriptions/yt-OYmODp23yio.md) [https://www.youtube.com/watch?v=OYmODp23yio](https://www.youtube.com/watch?v=OYmODp23yio)
 * [Q&A: Will Stairs & the Walkways be more connectable?](../../transcriptions/yt-nkrBqOatRWI.md) [https://www.youtube.com/watch?v=nkrBqOatRWI](https://www.youtube.com/watch?v=nkrBqOatRWI)

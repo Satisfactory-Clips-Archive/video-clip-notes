@@ -12,6 +12,10 @@ date: Last Modified
 * [Tractor](../../../topics/features/transportation/vehicles/tractor.md)
 * [Truck](../../../topics/features/transportation/vehicles/truck.md)
 
+## October 5th, 2021 Livestream
+* [Q&A: Will we be able to Paint Vehicles at some point?](../../../transcriptions/yt-QvxM4Cp6B3U.md) [https://www.youtube.com/watch?v=QvxM4Cp6B3U](https://www.youtube.com/watch?v=QvxM4Cp6B3U)
+* [Q&A: Plans to add more Vehicles?](../../../transcriptions/yt-OUZzVPXgtSM.md) [https://www.youtube.com/watch?v=OUZzVPXgtSM](https://www.youtube.com/watch?v=OUZzVPXgtSM)
+
 ## September 28th, 2021 Livestream
 * [Q&A: Will there be overclocking on Vehicles?](../../../transcriptions/yt-y7y-w8tPtLw.md) [https://www.youtube.com/watch?v=y7y-w8tPtLw](https://www.youtube.com/watch?v=y7y-w8tPtLw)
 * [Q&A: Will the Vehicles bouncing on Foundations be fixed at some point?](../../../transcriptions/yt-O19MUfB6WXM.md) [https://www.youtube.com/watch?v=O19MUfB6WXM](https://www.youtube.com/watch?v=O19MUfB6WXM)

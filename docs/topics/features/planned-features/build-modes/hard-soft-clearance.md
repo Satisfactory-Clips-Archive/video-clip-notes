@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > Planned Features > [Build Modes](../../../../topics/features/planned-features/build-modes.md) > Hard & Soft Clearance
 
+## October 5th, 2021 Livestream
+* [Q&A: Will we have more freedom in how to place objects?](../../../../transcriptions/yt-Hh6MzKZ1lzE.md) [https://www.youtube.com/watch?v=Hh6MzKZ1lzE](https://www.youtube.com/watch?v=Hh6MzKZ1lzE)
+
 ## September 21st, 2021 Livestream
 * [Q&A: How hard was the decision to introduce Soft Clearance into the game?](../../../../transcriptions/yt-WBj7y8gfrE4.md) [https://www.youtube.com/watch?v=WBj7y8gfrE4](https://www.youtube.com/watch?v=WBj7y8gfrE4)
 

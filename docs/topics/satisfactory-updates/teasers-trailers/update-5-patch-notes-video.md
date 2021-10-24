@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Teasers & Trailers](../../../topics/satisfactory-updates/teasers-trailers.md) > Update 5 Patch Notes Video
 
+## October 5th, 2021 Livestream
+* [Q&A: Is Update 5 going to get a Patch Notes video like Update 4?](../../../transcriptions/yt-Hn0fJFrLEpQ.md) [https://www.youtube.com/watch?v=Hn0fJFrLEpQ](https://www.youtube.com/watch?v=Hn0fJFrLEpQ)
+* [Q&A: Are there more big things to come that will be in the Trailer?](../../../transcriptions/yt-yTJ4Q0FBmKw.md) [https://www.youtube.com/watch?v=yTJ4Q0FBmKw](https://www.youtube.com/watch?v=yTJ4Q0FBmKw)
+
 ## August 31st, 2021 Livestream
 * [Q&A: Cinematic or Patch Notes video on release day?](../../../transcriptions/yt-zKa7fk6vqsQ.md) [https://www.youtube.com/watch?v=zKa7fk6vqsQ](https://www.youtube.com/watch?v=zKa7fk6vqsQ)
 

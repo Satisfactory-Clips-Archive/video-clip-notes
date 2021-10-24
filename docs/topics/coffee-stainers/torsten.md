@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Torsten
 
+## October 5th, 2021 Livestream
+* [Snutt Talk: Torsten's Beam aesthetics](../../transcriptions/yt-cTKqlerNuIg.md) [https://www.youtube.com/watch?v=cTKqlerNuIg](https://www.youtube.com/watch?v=cTKqlerNuIg)
+
 ## September 28th, 2021 Livestream
 * [Snutt & Jace Talk: New Twitch emotes](../../transcriptions/yt-QpQr_1dZcSQ.md) [https://www.youtube.com/watch?v=QpQr_1dZcSQ](https://www.youtube.com/watch?v=QpQr_1dZcSQ)
 

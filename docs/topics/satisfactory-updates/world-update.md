@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > World Update
 
+## October 5th, 2021 Livestream
+* [Q&A: Will Northern Forest be less foggy?](../../transcriptions/yt-4HmDU50SExc.md) [https://www.youtube.com/watch?v=4HmDU50SExc](https://www.youtube.com/watch?v=4HmDU50SExc)
+
 ## September 28th, 2021 Livestream
 * [Q&A: Any plans for Terraforming the landscape a little bit?](../../transcriptions/yt-JQpNpEJAscc.md) [https://www.youtube.com/watch?v=JQpNpEJAscc](https://www.youtube.com/watch?v=JQpNpEJAscc)
 

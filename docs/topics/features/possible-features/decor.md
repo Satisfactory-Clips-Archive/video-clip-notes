@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Possible Features > Decor
 
+## October 5th, 2021 Livestream
+* [Q&A: Will we get Jace & Snutt statues in Update 5?](../../../transcriptions/yt-jmLrJTUDpL8.md) [https://www.youtube.com/watch?v=jmLrJTUDpL8](https://www.youtube.com/watch?v=jmLrJTUDpL8)
+
 ## September 14th, 2021 Livestream
 * [Q&A: Office stuff, tables, chairs?](../../../transcriptions/yt-SpjCFWSl3Ds.md) [https://www.youtube.com/watch?v=SpjCFWSl3Ds](https://www.youtube.com/watch?v=SpjCFWSl3Ds)
 

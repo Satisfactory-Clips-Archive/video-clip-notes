@@ -10,7 +10,7 @@ topics:
 # [May 11th, 2021 Livestream](../2021-05-11.md)
 ## Q&A: Will non-floating structures ever be a thing?
 https://www.youtube.com/watch?v=xu7EL-x1qVE
-This question was possibly duplicated with a more recent answer: [June 29th, 2021 Livestream Q&A: Will we always have sky factories or will we need to figure out how to build on the ground?](./yt-WiDZuigYT2c.md) [https://www.youtube.com/watch?v=WiDZuigYT2c](https://www.youtube.com/watch?v=WiDZuigYT2c)
+This question was possibly duplicated with a more recent answer: [October 5th, 2021 Livestream Q&A: No floating platforms any more?](./yt-o_kTaVSOdg4.md) [https://www.youtube.com/watch?v=o_kTaVSOdg4](https://www.youtube.com/watch?v=o_kTaVSOdg4)
 
 
 ### Topics

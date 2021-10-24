@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > Miner
 
+## October 5th, 2021 Livestream
+* [Q&A: Done any further look into the Mk.3 Miner and the second output?](../../../transcriptions/yt-hM5HKud0ChI.md) [https://www.youtube.com/watch?v=hM5HKud0ChI](https://www.youtube.com/watch?v=hM5HKud0ChI)
+* [Q&A: Is there going to be a remedy for Mk.3 Miners being bottlenecked?](../../../transcriptions/yt-3m_vqCavleY.md) [https://www.youtube.com/watch?v=3m_vqCavleY](https://www.youtube.com/watch?v=3m_vqCavleY)
+
 ## September 21st, 2021 Livestream
 * [Q&A: Can you tell us if we're going to have two exits on the Miners or if you're going to rebalance?](../../../transcriptions/yt-8CTI5utyv34.md) [https://www.youtube.com/watch?v=8CTI5utyv34](https://www.youtube.com/watch?v=8CTI5utyv34)
 

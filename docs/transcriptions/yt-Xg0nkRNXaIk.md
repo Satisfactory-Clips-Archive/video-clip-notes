@@ -10,7 +10,7 @@ topics:
 # [February 9th, 2021 Livestream](../2021-02-09.md)
 ## Q&A: Are there going to be other planets in the game?
 https://www.youtube.com/watch?v=Xg0nkRNXaIk
-This question was possibly duplicated with a more recent answer: March 30th, 2021 Livestream Q&A: More space-based stuff coming? [https://www.youtube.com/watch?v=pTyR9FXrU_E](https://www.youtube.com/watch?v=pTyR9FXrU_E)
+This question was possibly duplicated with a more recent answer: [October 5th, 2021 Livestream Q&A: Can you go to space?](./yt-mxPcSrf1YQE.md) [https://www.youtube.com/watch?v=mxPcSrf1YQE](https://www.youtube.com/watch?v=mxPcSrf1YQE)
 
 
 ### Topics

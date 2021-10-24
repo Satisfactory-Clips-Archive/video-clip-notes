@@ -20,6 +20,9 @@ date: Last Modified
 * [The Cycle](../topics/off-topic/the-cycle.md)
 * [Valheim](../topics/off-topic/valheim.md)
 
+## October 5th, 2021 Livestream
+* [Q&A: Jace, how are you liking New World?](../transcriptions/yt-X0mzRnNo5pk.md) [https://www.youtube.com/watch?v=X0mzRnNo5pk](https://www.youtube.com/watch?v=X0mzRnNo5pk)
+
 ## September 28th, 2021 Livestream
 * Q&A: What's the advantage of BetterTTV versus just adding emotes normally? [https://www.youtube.com/watch?v=V8eCaIce6jg](https://www.youtube.com/watch?v=V8eCaIce6jg)
 * [Q&A: Anyone in the Studio playing New Worlds?](../transcriptions/yt-XvqWzF8b8rs.md) [https://www.youtube.com/watch?v=XvqWzF8b8rs](https://www.youtube.com/watch?v=XvqWzF8b8rs)

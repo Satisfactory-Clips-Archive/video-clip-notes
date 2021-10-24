@@ -6,6 +6,12 @@ date: Last Modified
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Snutt
 * [Snutt Burger Time](../../topics/coffee-stainers/snutt/snutt-burger-time.md)
 
+## October 5th, 2021 Livestream
+* [Q&A: Bring back beardless Snutt?](../../transcriptions/yt-2Deg1HJzcZ4.md) [https://www.youtube.com/watch?v=2Deg1HJzcZ4](https://www.youtube.com/watch?v=2Deg1HJzcZ4)
+* Snutt Talk: Born with a beard [https://www.youtube.com/watch?v=dQTz_wN4iXc](https://www.youtube.com/watch?v=dQTz_wN4iXc)
+* [Q&A: Will we get Jace & Snutt statues in Update 5?](../../transcriptions/yt-jmLrJTUDpL8.md) [https://www.youtube.com/watch?v=jmLrJTUDpL8](https://www.youtube.com/watch?v=jmLrJTUDpL8)
+* [Q&A: Dinner plans?](../../transcriptions/yt-Kp7Yk3Drj7Y.md) [https://www.youtube.com/watch?v=Kp7Yk3Drj7Y](https://www.youtube.com/watch?v=Kp7Yk3Drj7Y)
+
 ## September 28th, 2021 Livestream
 * [Q&A: Did you have breakfast today?](../../transcriptions/yt-Y5jURb2_SBQ.md) [https://www.youtube.com/watch?v=Y5jURb2_SBQ](https://www.youtube.com/watch?v=Y5jURb2_SBQ)
 * [Q&A: What defines a hectic day with Community Managers?](../../transcriptions/yt-E0JzXKvdNeA.md) [https://www.youtube.com/watch?v=E0JzXKvdNeA](https://www.youtube.com/watch?v=E0JzXKvdNeA)

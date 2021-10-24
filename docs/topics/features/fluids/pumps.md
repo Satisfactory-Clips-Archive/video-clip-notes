@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Fluids](../../../topics/features/fluids.md) > Pumps
 
+## October 5th, 2021 Livestream
+* [Community FYI: I always found the Headlift Indicators kinda useless, maybe because they don't work](../../../transcriptions/yt-YTFbOFwNSLw.md) [https://www.youtube.com/watch?v=YTFbOFwNSLw](https://www.youtube.com/watch?v=YTFbOFwNSLw)
+
 ## September 7th, 2021 Livestream
 * [Q&A: Can we get Pumps that push liquid down?](../../../transcriptions/yt-POjQa1nqb4U.md) [https://www.youtube.com/watch?v=POjQa1nqb4U](https://www.youtube.com/watch?v=POjQa1nqb4U)
 

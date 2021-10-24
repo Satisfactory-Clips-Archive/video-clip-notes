@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Speculative > Satisfactory Update 6
 
+## October 5th, 2021 Livestream
+* [Q&A: Any idea what the focus of Update 6 will be?](../../../transcriptions/yt-PBqyEgsu2kM.md) [https://www.youtube.com/watch?v=PBqyEgsu2kM](https://www.youtube.com/watch?v=PBqyEgsu2kM)
+
 ## September 28th, 2021 Livestream
 * [Q&A: Anything you can tease later on?](../../../transcriptions/yt-SrfYdTeTJJE.md) [https://www.youtube.com/watch?v=SrfYdTeTJJE](https://www.youtube.com/watch?v=SrfYdTeTJJE)
 * [Q&A: Do you already have a plan after Update 5?](../../../transcriptions/yt-eMwd2j_3Dso.md) [https://www.youtube.com/watch?v=eMwd2j_3Dso](https://www.youtube.com/watch?v=eMwd2j_3Dso)

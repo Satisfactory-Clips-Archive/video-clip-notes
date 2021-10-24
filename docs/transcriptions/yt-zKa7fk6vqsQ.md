@@ -9,6 +9,8 @@ topics:
 # [August 31st, 2021 Livestream](../2021-08-31.md)
 ## Q&A: Cinematic or Patch Notes video on release day?
 https://www.youtube.com/watch?v=zKa7fk6vqsQ
+This question was possibly duplicated with a more recent answer: [October 5th, 2021 Livestream Q&A: Is Update 5 going to get a Patch Notes video like Update 4?](./yt-Hn0fJFrLEpQ.md) [https://www.youtube.com/watch?v=Hn0fJFrLEpQ](https://www.youtube.com/watch?v=Hn0fJFrLEpQ)
+
 
 ### Topics
 * [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)

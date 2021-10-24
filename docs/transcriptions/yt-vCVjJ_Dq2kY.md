@@ -8,6 +8,8 @@ topics:
 # [September 28th, 2021 Livestream](../2021-09-28.md)
 ## Q&A: Any ETA for basic Train schedules, like "wait 'til empty", "wait 'til full" ?
 https://www.youtube.com/watch?v=vCVjJ_Dq2kY
+This question was possibly duplicated with a more recent answer: [October 5th, 2021 Livestream Q&A: Will we get option to let Trains wait at a station until they're fully loaded or unloaded?](./yt-aCgY0QXyfxM.md) [https://www.youtube.com/watch?v=aCgY0QXyfxM](https://www.youtube.com/watch?v=aCgY0QXyfxM)
+
 
 ### Topics
 * [Features > Transportation > Trains > Train Signals](../topics/features/transportation/trains/train-signals.md)

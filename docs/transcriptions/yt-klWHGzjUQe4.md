@@ -8,6 +8,8 @@ topics:
 # [June 29th, 2021 Livestream](../2021-06-29.md)
 ## Q&A: Windows 11 support?
 https://www.youtube.com/watch?v=klWHGzjUQe4
+This question was possibly duplicated with a more recent answer: [October 5th, 2021 Livestream Q&A: Do you know if the game works properly on Windows 11?](./yt-RCOgauekQyk.md) [https://www.youtube.com/watch?v=RCOgauekQyk](https://www.youtube.com/watch?v=RCOgauekQyk)
+
 
 ### Topics
 * [Technology](../topics/technology.md)

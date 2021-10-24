@@ -9,7 +9,7 @@ topics:
 # [September 28th, 2021 Livestream](../2021-09-28.md)
 ## Q&A: When will the Engine Update go to Early Access?
 https://www.youtube.com/watch?v=1jjv1OPjHBU
-This question was possibly duplicated with a more recent answer: [September 28th, 2021 Livestream Q&A: Any plans to release the Engine Upgrade to EA before Update 5 releases to Experimental?](./yt-IfYa23IgdLw.md) [https://www.youtube.com/watch?v=IfYa23IgdLw](https://www.youtube.com/watch?v=IfYa23IgdLw)
+This question was possibly duplicated with a more recent answer: [October 5th, 2021 Livestream Q&A: Will Engine Upgrade be part of Update 5 for EA?](./yt-sipvJ2BXWUM.md) [https://www.youtube.com/watch?v=sipvJ2BXWUM](https://www.youtube.com/watch?v=sipvJ2BXWUM)
 
 
 ### Topics

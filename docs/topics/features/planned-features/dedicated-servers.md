@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Planned Features > Dedicated Servers
 
+## October 5th, 2021 Livestream
+* Q&A: We need Dedicated Servers, please? [https://www.youtube.com/watch?v=aXdXaVs-JQg](https://www.youtube.com/watch?v=aXdXaVs-JQg)
+* [Q&A: Server Hosting?](../../../transcriptions/yt-Cn6M79rc4kE.md) [https://www.youtube.com/watch?v=Cn6M79rc4kE](https://www.youtube.com/watch?v=Cn6M79rc4kE)
+* [Q&A: Server Hosting on Linux?](../../../transcriptions/yt-L0KTZCuWT_E.md) [https://www.youtube.com/watch?v=L0KTZCuWT_E](https://www.youtube.com/watch?v=L0KTZCuWT_E)
+
 ## September 28th, 2021 Livestream
 * [Q&A: Are Dedicated Servers going to be able to support more than 4 players?](../../../transcriptions/yt-krKAuF8q-rA.md) [https://www.youtube.com/watch?v=krKAuF8q-rA](https://www.youtube.com/watch?v=krKAuF8q-rA)
 

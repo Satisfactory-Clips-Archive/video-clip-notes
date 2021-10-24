@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > Features > Paint
 
+## October 5th, 2021 Livestream
+* [Q&A: Will we be able to Paint Vehicles at some point?](../../transcriptions/yt-QvxM4Cp6B3U.md) [https://www.youtube.com/watch?v=QvxM4Cp6B3U](https://www.youtube.com/watch?v=QvxM4Cp6B3U)
+
 ## September 7th, 2021 Livestream
 * [Q&A: Will painting The HUB and Vehicles ever be fixed?](../../transcriptions/yt-Gs1dz6qZQVk.md) [https://www.youtube.com/watch?v=Gs1dz6qZQVk](https://www.youtube.com/watch?v=Gs1dz6qZQVk)
 

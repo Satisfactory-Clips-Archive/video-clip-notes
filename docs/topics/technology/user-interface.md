@@ -6,6 +6,16 @@ date: Last Modified
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > User Interface
 * [Holograms](../../topics/technology/user-interface/holograms.md)
 
+## October 8th, 2021 Video
+* [Jace Talk: Signals can have error messages](../../transcriptions/yt-CskxkIepX6Y,694.8942000000001,721.4207.md) [https://youtube.com/clip/UgkxzCNl0kt7cACA1jxssIPoDuNwGPeVqf1C](https://youtube.com/clip/UgkxzCNl0kt7cACA1jxssIPoDuNwGPeVqf1C)
+* [Jace Talk: Signal feedback is somewhat kinda limited](../../transcriptions/yt-CskxkIepX6Y,721.4540666666667,788.8547333333333.md) [https://youtube.com/embed/CskxkIepX6Y?autoplay=1&start=721&end=789](https://youtube.com/embed/CskxkIepX6Y?autoplay=1&start=721&end=789)
+* [Jace Talk: Freight Station UI Changes](../../transcriptions/yt-CskxkIepX6Y,876.5757,888.8212666666667.md) [https://youtube.com/clip/Ugkx0uFobWLIS-LRVKzTwNdOKKnesGBr9ZGe](https://youtube.com/clip/Ugkx0uFobWLIS-LRVKzTwNdOKKnesGBr9ZGe)
+* [Jace Talk: Train Timetable UI Changes](../../transcriptions/yt-CskxkIepX6Y,888.8546333333334,911.1102.md) [https://youtube.com/clip/UgkxH8HdBFkCKi_76BF4ZgU07azWvSsj2hJd](https://youtube.com/clip/UgkxH8HdBFkCKi_76BF4ZgU07azWvSsj2hJd)
+* [Jace Talk: New "Stop Settings" feature](../../transcriptions/yt-CskxkIepX6Y,911.1435666666666,998.3640333333334.md) [https://youtube.com/embed/CskxkIepX6Y?autoplay=1&start=911&end=999](https://youtube.com/embed/CskxkIepX6Y?autoplay=1&start=911&end=999)
+
+## October 5th, 2021 Livestream
+* [Snutt & Jace Talk: Train name limit](../../transcriptions/yt-QCIc4jMSl_A.md) [https://www.youtube.com/watch?v=QCIc4jMSl_A](https://www.youtube.com/watch?v=QCIc4jMSl_A)
+
 ## September 28th, 2021 Livestream
 * [Q&A: When you delete can you ctrl-toggle in case you mis-click?](../../transcriptions/yt-nPM3VCqthUw.md) [https://www.youtube.com/watch?v=nPM3VCqthUw](https://www.youtube.com/watch?v=nPM3VCqthUw)
 * [Q&A: Will there be any big UI changes before 1.0, like colour pallette & design?](../../transcriptions/yt-7hJDZCiH0o0.md) [https://www.youtube.com/watch?v=7hJDZCiH0o0](https://www.youtube.com/watch?v=7hJDZCiH0o0)

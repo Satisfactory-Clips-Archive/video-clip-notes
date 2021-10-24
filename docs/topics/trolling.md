@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Trolling
 
+## October 5th, 2021 Livestream
+* [Snutt & Jace Talk: Train Signals & Collisions Teaser (Part 4)](../transcriptions/yt-63jCwf0vtz8.md) [https://www.youtube.com/watch?v=63jCwf0vtz8](https://www.youtube.com/watch?v=63jCwf0vtz8)
+* [Trolling: Rebalancing Water Extractors in Update 5](../transcriptions/yt-rjR-CAkE03w.md) [https://www.youtube.com/watch?v=rjR-CAkE03w](https://www.youtube.com/watch?v=rjR-CAkE03w)
+* Q&A: Have you guys heard of Valheim? [https://www.youtube.com/watch?v=lW2CuiAO-zw](https://www.youtube.com/watch?v=lW2CuiAO-zw)
+
 ## September 21st, 2021 Livestream
 * [Q&A: Are you going to add Goku to the Story?](../transcriptions/yt-IYOulexv3-g.md) [https://www.youtube.com/watch?v=IYOulexv3-g](https://www.youtube.com/watch?v=IYOulexv3-g)
 

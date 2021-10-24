@@ -9,7 +9,7 @@ topics:
 # [January 26th, 2021 Livestream](../2021-01-26.md)
 ## Q&A: Will physics be improved later on, i.e. Steel Beams for supports instead of floating platforms?
 https://www.youtube.com/watch?v=H5XZebVqyTA
-This question was possibly duplicated with a more recent answer: [June 29th, 2021 Livestream Q&A: Will we always have sky factories or will we need to figure out how to build on the ground?](./yt-WiDZuigYT2c.md) [https://www.youtube.com/watch?v=WiDZuigYT2c](https://www.youtube.com/watch?v=WiDZuigYT2c)
+This question was possibly duplicated with a more recent answer: [October 5th, 2021 Livestream Q&A: No floating platforms any more?](./yt-o_kTaVSOdg4.md) [https://www.youtube.com/watch?v=o_kTaVSOdg4](https://www.youtube.com/watch?v=o_kTaVSOdg4)
 
 
 ### Topics

@@ -11,6 +11,8 @@ topics:
 # [May 18th, 2021 Livestream](../2021-05-18.md)
 ## Q&A: Jace & Snutt statues for Update 5?
 https://www.youtube.com/watch?v=IbOMZmlYbD8
+This question was possibly duplicated with a more recent answer: [October 5th, 2021 Livestream Q&A: Will we get Jace & Snutt statues in Update 5?](./yt-jmLrJTUDpL8.md) [https://www.youtube.com/watch?v=jmLrJTUDpL8](https://www.youtube.com/watch?v=jmLrJTUDpL8)
+
 
 ### Topics
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)

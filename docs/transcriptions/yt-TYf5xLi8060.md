@@ -8,7 +8,7 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: When we talk about Dedicated Servers is the plan that those servers are hosted by Coffee Stain?
 https://www.youtube.com/watch?v=TYf5xLi8060
-This question was possibly duplicated with a more recent answer: [August 31st, 2021 Livestream Q&A: Who will be hosting?](./yt-6lPmum6YM3Y.md) [https://www.youtube.com/watch?v=6lPmum6YM3Y](https://www.youtube.com/watch?v=6lPmum6YM3Y)
+This question was possibly duplicated with a more recent answer: [October 5th, 2021 Livestream Q&A: Server Hosting?](./yt-Cn6M79rc4kE.md) [https://www.youtube.com/watch?v=Cn6M79rc4kE](https://www.youtube.com/watch?v=Cn6M79rc4kE)
 
 
 ### Topics

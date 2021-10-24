@@ -7,6 +7,18 @@ date: Last Modified
 * ["Fix Jace" QA Site Posts](../../topics/coffee-stainers/jace/fix-jace-qa-site-posts.md)
 * [Jace Art](../../topics/coffee-stainers/jace/jace-art.md)
 
+## October 8th, 2021 Video
+* [Jace Talk: The Lie](../../transcriptions/yt-CskxkIepX6Y,0,17.083733333333335.md) [https://youtube.com/clip/Ugkxvj8a3wzSAepqTv-cIb2F1KetdU6ZT7iJ](https://youtube.com/clip/Ugkxvj8a3wzSAepqTv-cIb2F1KetdU6ZT7iJ)
+* [Jace Talk: Epic Train staredown contest](../../transcriptions/yt-CskxkIepX6Y,587.5202666666667,629.5622666666667.md) [https://youtube.com/clip/UgkxoEUo6ohfHz8MYiTqo4oYr6BtCIlQ2NWG](https://youtube.com/clip/UgkxoEUo6ohfHz8MYiTqo4oYr6BtCIlQ2NWG)
+* [Jace Talk: Correction on save files in Update 5](../../transcriptions/yt-CskxkIepX6Y,998.3974000000001,1117.2161.md) [https://youtube.com/embed/CskxkIepX6Y?autoplay=1&start=998&end=1118](https://youtube.com/embed/CskxkIepX6Y?autoplay=1&start=998&end=1118)
+
+## October 5th, 2021 Livestream
+* [Q&A: Why is Jace's camera blurry?](../../transcriptions/yt-0bCxdLVhBQU.md) [https://www.youtube.com/watch?v=0bCxdLVhBQU](https://www.youtube.com/watch?v=0bCxdLVhBQU)
+* [Snutt  & Jace Talk: Jace's HelloFresh delivery](../../transcriptions/yt-WceFWmtLU4U.md) [https://www.youtube.com/watch?v=WceFWmtLU4U](https://www.youtube.com/watch?v=WceFWmtLU4U)
+* [Q&A: Will we get Jace & Snutt statues in Update 5?](../../transcriptions/yt-jmLrJTUDpL8.md) [https://www.youtube.com/watch?v=jmLrJTUDpL8](https://www.youtube.com/watch?v=jmLrJTUDpL8)
+* [Q&A: Dinner plans?](../../transcriptions/yt-Kp7Yk3Drj7Y.md) [https://www.youtube.com/watch?v=Kp7Yk3Drj7Y](https://www.youtube.com/watch?v=Kp7Yk3Drj7Y)
+* [Q&A: Jace, how are you liking New World?](../../transcriptions/yt-X0mzRnNo5pk.md) [https://www.youtube.com/watch?v=X0mzRnNo5pk](https://www.youtube.com/watch?v=X0mzRnNo5pk)
+
 ## September 28th, 2021 Livestream
 * [Q&A: Did you have breakfast today?](../../transcriptions/yt-Y5jURb2_SBQ.md) [https://www.youtube.com/watch?v=Y5jURb2_SBQ](https://www.youtube.com/watch?v=Y5jURb2_SBQ)
 * [Q&A: What defines a hectic day with Community Managers?](../../transcriptions/yt-E0JzXKvdNeA.md) [https://www.youtube.com/watch?v=E0JzXKvdNeA](https://www.youtube.com/watch?v=E0JzXKvdNeA)

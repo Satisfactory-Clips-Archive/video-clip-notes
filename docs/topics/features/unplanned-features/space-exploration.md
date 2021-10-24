@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Unplanned Features](../../../topics/features/unplanned-features.md) > Space Exploration
 
+## October 5th, 2021 Livestream
+* [Q&A: Can you go to space?](../../../transcriptions/yt-mxPcSrf1YQE.md) [https://www.youtube.com/watch?v=mxPcSrf1YQE](https://www.youtube.com/watch?v=mxPcSrf1YQE)
+
 ## August 3rd, 2021 Livestream
 * [Q&A: Is there in some future spaceships & other planets?](../../../transcriptions/yt-vb6AS9mxtcA.md) [https://www.youtube.com/watch?v=vb6AS9mxtcA](https://www.youtube.com/watch?v=vb6AS9mxtcA)
 

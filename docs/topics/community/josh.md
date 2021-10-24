@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Josh
 
+## October 5th, 2021 Livestream
+* [Snutt & Jace Talk: Train name limit](../../transcriptions/yt-QCIc4jMSl_A.md) [https://www.youtube.com/watch?v=QCIc4jMSl_A](https://www.youtube.com/watch?v=QCIc4jMSl_A)
+
 ## September 28th, 2021 Livestream
 * Q&A: Can we get a reaction video from the two of you to Josh's Lets Game It Out video? [https://www.youtube.com/watch?v=sHbJ5yRQxsQ](https://www.youtube.com/watch?v=sHbJ5yRQxsQ)
 

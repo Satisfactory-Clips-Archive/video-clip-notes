@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Requested Features](../../../topics/features/requested-features.md) > Multiple Body Slots
 
+## October 5th, 2021 Livestream
+* [Q&A: Equipment Slots rework still in progress?](../../../transcriptions/yt-NZGJ3mLsbNk.md) [https://www.youtube.com/watch?v=NZGJ3mLsbNk](https://www.youtube.com/watch?v=NZGJ3mLsbNk)
+
 ## September 21st, 2021 Livestream
 * [Q&A: Can we have Hover Pack & Hazmat Suit at the same time?](../../../transcriptions/yt-QDxgbHs6lC4.md) [https://www.youtube.com/watch?v=QDxgbHs6lC4](https://www.youtube.com/watch?v=QDxgbHs6lC4)
 

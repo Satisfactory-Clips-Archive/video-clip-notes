@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Valheim
 
+## October 5th, 2021 Livestream
+* Q&A: Have you guys heard of Valheim? [https://www.youtube.com/watch?v=lW2CuiAO-zw](https://www.youtube.com/watch?v=lW2CuiAO-zw)
+* [Q&A: I thought Coffee Stain Studios released Valheim?](../../transcriptions/yt-jjOM5IpsAiw.md) [https://www.youtube.com/watch?v=jjOM5IpsAiw](https://www.youtube.com/watch?v=jjOM5IpsAiw)
+
 ## September 7th, 2021 Livestream
 * [Community Highlights: Satisfactory if it was a good game](../../transcriptions/yt-ggdHnqZ7n6M.md) [https://www.youtube.com/watch?v=ggdHnqZ7n6M](https://www.youtube.com/watch?v=ggdHnqZ7n6M)
 

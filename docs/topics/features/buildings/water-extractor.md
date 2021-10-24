@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > Water Extractor
 
+## October 5th, 2021 Livestream
+* [Trolling: Rebalancing Water Extractors in Update 5](../../../transcriptions/yt-rjR-CAkE03w.md) [https://www.youtube.com/watch?v=rjR-CAkE03w](https://www.youtube.com/watch?v=rjR-CAkE03w)
+* [Community FYI: I always found the Headlift Indicators kinda useless, maybe because they don't work](../../../transcriptions/yt-YTFbOFwNSLw.md) [https://www.youtube.com/watch?v=YTFbOFwNSLw](https://www.youtube.com/watch?v=YTFbOFwNSLw)
+
 ## August 24th, 2021 Livestream
 * [Q&A: When will the Power Shards show up in the UI for Water Extractors?](../../../transcriptions/yt-YhVyhhj6INQ.md) [https://www.youtube.com/watch?v=YhVyhhj6INQ](https://www.youtube.com/watch?v=YhVyhhj6INQ)
 * [Q&A: Copy/paste settings from Miners, Fluid Extractors, Power Plants, when?](../../../transcriptions/yt-4cmv1GtvB18.md) [https://www.youtube.com/watch?v=4cmv1GtvB18](https://www.youtube.com/watch?v=4cmv1GtvB18)

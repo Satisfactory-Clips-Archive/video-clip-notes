@@ -14,6 +14,11 @@ date: Last Modified
 * [Pollution](../../topics/features/requested-features/pollution.md)
 * [Third-person View](../../topics/features/requested-features/third-person-view.md)
 
+## October 5th, 2021 Livestream
+* [Q&A: Any plans for separating the Build Hologram from the Pioneer camera?](../../transcriptions/yt-q_MH95NWEbQ.md) [https://www.youtube.com/watch?v=q_MH95NWEbQ](https://www.youtube.com/watch?v=q_MH95NWEbQ)
+* [Q&A: Item stand from the AWESOME Store?](../../transcriptions/yt-lmbs2TWqQ5Q.md) [https://www.youtube.com/watch?v=lmbs2TWqQ5Q](https://www.youtube.com/watch?v=lmbs2TWqQ5Q)
+* [Q&A: Are you going to add bigger Storage Containers?](../../transcriptions/yt-M4OewQoE91A.md) [https://www.youtube.com/watch?v=M4OewQoE91A](https://www.youtube.com/watch?v=M4OewQoE91A)
+
 ## September 28th, 2021 Livestream
 * [Q&A: Do we get a "Save+"?](../../transcriptions/yt-1sDKlvkvGWY.md) [https://www.youtube.com/watch?v=1sDKlvkvGWY](https://www.youtube.com/watch?v=1sDKlvkvGWY)
 * [Q&A: Are randomised Ore node spawns still on the table in the future?](../../transcriptions/yt-XNZVUKgcCmI.md) [https://www.youtube.com/watch?v=XNZVUKgcCmI](https://www.youtube.com/watch?v=XNZVUKgcCmI)

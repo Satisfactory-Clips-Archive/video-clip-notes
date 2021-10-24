@@ -5,6 +5,48 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Teasers & Trailers](../../../topics/satisfactory-updates/teasers-trailers.md) > Update 5 Teasers
 
+## October 8th, 2021 Video
+* [Jace Talk: The Lie](../../../transcriptions/yt-CskxkIepX6Y,0,17.083733333333335.md) [https://youtube.com/clip/Ugkxvj8a3wzSAepqTv-cIb2F1KetdU6ZT7iJ](https://youtube.com/clip/Ugkxvj8a3wzSAepqTv-cIb2F1KetdU6ZT7iJ)
+* [Jace Talk: Train Signals & Collisions](../../../transcriptions/yt-CskxkIepX6Y,18.985633333333332,54.020633333333336.md) [https://youtube.com/clip/UgkxnGi9vY20kgzkEBOHDcTltoeGb2Btsn0K](https://youtube.com/clip/UgkxnGi9vY20kgzkEBOHDcTltoeGb2Btsn0K)
+* [Jace Talk: Train Collisions & derailment](../../../transcriptions/yt-CskxkIepX6Y,162.7626,202.70250000000001.md) [https://youtube.com/clip/Ugkx5fKmE25idV_PPd2BZ6oIlV-BkWXyl_wW](https://youtube.com/clip/Ugkx5fKmE25idV_PPd2BZ6oIlV-BkWXyl_wW)
+* [Jace Talk: Repairing de-railed Trains](../../../transcriptions/yt-CskxkIepX6Y,202.73586666666668,326.1591666666667.md) [https://youtube.com/embed/CskxkIepX6Y?autoplay=1&start=202&end=327](https://youtube.com/embed/CskxkIepX6Y?autoplay=1&start=202&end=327)
+* [Jace Talk: Train Signals](../../../transcriptions/yt-CskxkIepX6Y,326.19253333333336,345.71203333333335.md) [https://youtube.com/clip/Ugkxafni_0V2A90Q7IgLuLDlDC0GVqmT9q9Q](https://youtube.com/clip/Ugkxafni_0V2A90Q7IgLuLDlDC0GVqmT9q9Q)
+* [Jace Talk: Block Signals](../../../transcriptions/yt-CskxkIepX6Y,355.3883666666667,468.53473333333335.md) [https://youtube.com/embed/CskxkIepX6Y?autoplay=1&start=355&end=469](https://youtube.com/embed/CskxkIepX6Y?autoplay=1&start=355&end=469)
+* [Jace Talk: Path Signals](../../../transcriptions/yt-CskxkIepX6Y,468.5681,587.4869.md) [https://youtube.com/embed/CskxkIepX6Y?autoplay=1&start=468&end=588](https://youtube.com/embed/CskxkIepX6Y?autoplay=1&start=468&end=588)
+* [Jace Talk: Epic Train staredown contest](../../../transcriptions/yt-CskxkIepX6Y,587.5202666666667,629.5622666666667.md) [https://youtube.com/clip/UgkxoEUo6ohfHz8MYiTqo4oYr6BtCIlQ2NWG](https://youtube.com/clip/UgkxoEUo6ohfHz8MYiTqo4oYr6BtCIlQ2NWG)
+* [Jace Talk: Path Signals can be chained](../../../transcriptions/yt-CskxkIepX6Y,629.5956333333334,651.3840666666666.md) [https://youtube.com/clip/Ugkxlr6dgXQK6J-r_W8-8IknvcYyruSSX7py](https://youtube.com/clip/Ugkxlr6dgXQK6J-r_W8-8IknvcYyruSSX7py)
+* [Jace Talk: Signals are actually directional](../../../transcriptions/yt-CskxkIepX6Y,659.8592,694.8608333333333.md) [https://youtube.com/clip/UgkxlqmphGlV8Ps2Fb4lF5W5aI8qj_4kK5D5](https://youtube.com/clip/UgkxlqmphGlV8Ps2Fb4lF5W5aI8qj_4kK5D5)
+* [Jace Talk: Signals can have error messages](../../../transcriptions/yt-CskxkIepX6Y,694.8942000000001,721.4207.md) [https://youtube.com/clip/UgkxzCNl0kt7cACA1jxssIPoDuNwGPeVqf1C](https://youtube.com/clip/UgkxzCNl0kt7cACA1jxssIPoDuNwGPeVqf1C)
+* [Jace Talk: Signal feedback is somewhat kinda limited](../../../transcriptions/yt-CskxkIepX6Y,721.4540666666667,788.8547333333333.md) [https://youtube.com/embed/CskxkIepX6Y?autoplay=1&start=721&end=789](https://youtube.com/embed/CskxkIepX6Y?autoplay=1&start=721&end=789)
+* [Q&A: Will intersecting tracks work with Signals?](../../../transcriptions/yt-CskxkIepX6Y,788.8881,870.0024666666667.md) [https://youtube.com/embed/CskxkIepX6Y?autoplay=1&start=788&end=871](https://youtube.com/embed/CskxkIepX6Y?autoplay=1&start=788&end=871)
+* [Jace Talk: Freight Station UI Changes](../../../transcriptions/yt-CskxkIepX6Y,876.5757,888.8212666666667.md) [https://youtube.com/clip/Ugkx0uFobWLIS-LRVKzTwNdOKKnesGBr9ZGe](https://youtube.com/clip/Ugkx0uFobWLIS-LRVKzTwNdOKKnesGBr9ZGe)
+* [Jace Talk: Train Timetable UI Changes](../../../transcriptions/yt-CskxkIepX6Y,888.8546333333334,911.1102.md) [https://youtube.com/clip/UgkxH8HdBFkCKi_76BF4ZgU07azWvSsj2hJd](https://youtube.com/clip/UgkxH8HdBFkCKi_76BF4ZgU07azWvSsj2hJd)
+* [Jace Talk: New "Stop Settings" feature](../../../transcriptions/yt-CskxkIepX6Y,911.1435666666666,998.3640333333334.md) [https://youtube.com/embed/CskxkIepX6Y?autoplay=1&start=911&end=999](https://youtube.com/embed/CskxkIepX6Y?autoplay=1&start=911&end=999)
+* [Jace Talk: Correction on save files in Update 5](../../../transcriptions/yt-CskxkIepX6Y,998.3974000000001,1117.2161.md) [https://youtube.com/embed/CskxkIepX6Y?autoplay=1&start=998&end=1118](https://youtube.com/embed/CskxkIepX6Y?autoplay=1&start=998&end=1118)
+* [Q&A: What happens if I load my save file and the Trains are colliding?](../../../transcriptions/yt-CskxkIepX6Y,1117.2494666666666,1157.2561.md) [https://youtube.com/clip/UgkxPOxakQgLjRDyqK3PdSE2m-_onuMEd-zq](https://youtube.com/clip/UgkxPOxakQgLjRDyqK3PdSE2m-_onuMEd-zq)
+* [Jace Talk: Conclusion](../../../transcriptions/yt-CskxkIepX6Y,1157.2894666666666,1188.2537333333335.md) [https://youtube.com/clip/Ugkx-aOuyaZrZ8R980wzgxZVK9ToRF4s_yVp](https://youtube.com/clip/Ugkx-aOuyaZrZ8R980wzgxZVK9ToRF4s_yVp)
+
+## October 5th, 2021 Livestream
+* [Q&A: Will we have any new videos?](../../../transcriptions/yt-OQJe-ZDBGJQ.md) [https://www.youtube.com/watch?v=OQJe-ZDBGJQ](https://www.youtube.com/watch?v=OQJe-ZDBGJQ)
+* [Snutt & Jace Talk: Train Signals & Collisions Teaser (Part 1)](../../../transcriptions/yt-yKiEI1EpTws.md) [https://www.youtube.com/watch?v=yKiEI1EpTws](https://www.youtube.com/watch?v=yKiEI1EpTws)
+* [Snutt & Jace Talk: Train Signals & Collisions Teaser (Part 2)](../../../transcriptions/yt-Ht2rE1Ktbhw.md) [https://www.youtube.com/watch?v=Ht2rE1Ktbhw](https://www.youtube.com/watch?v=Ht2rE1Ktbhw)
+* [Snutt & Jace Talk: Train Signals & Collisions Teaser (Part 3)](../../../transcriptions/yt-nLvN0kpBpak.md) [https://www.youtube.com/watch?v=nLvN0kpBpak](https://www.youtube.com/watch?v=nLvN0kpBpak)
+* [Snutt & Jace Talk: Train Signals & Collisions Teaser (Part 4)](../../../transcriptions/yt-63jCwf0vtz8.md) [https://www.youtube.com/watch?v=63jCwf0vtz8](https://www.youtube.com/watch?v=63jCwf0vtz8)
+* [Snutt & Jace Talk: Train Signals & Collisions Teaser (Part 5)](../../../transcriptions/yt-cCOc9PbRlYY.md) [https://www.youtube.com/watch?v=cCOc9PbRlYY](https://www.youtube.com/watch?v=cCOc9PbRlYY)
+* [Snutt & Jace Talk: Train Signals & Collisions Teaser (Part 6)](../../../transcriptions/yt-13ofNtLHhr8.md) [https://www.youtube.com/watch?v=13ofNtLHhr8](https://www.youtube.com/watch?v=13ofNtLHhr8)
+* [Snutt & Jace Talk: Train Signals & Collisions Teaser (Part 7)](../../../transcriptions/yt-SdETaKKRF9Y.md) [https://www.youtube.com/watch?v=SdETaKKRF9Y](https://www.youtube.com/watch?v=SdETaKKRF9Y)
+* [Snutt Talk: Impact of Train Collisions on existing factories in Update 5](../../../transcriptions/yt-zOJ77TeHFKM.md) [https://www.youtube.com/watch?v=zOJ77TeHFKM](https://www.youtube.com/watch?v=zOJ77TeHFKM)
+* [Snutt & Jace Talk: Questions about the Train Signals & Collisions](../../../transcriptions/yt-eh3slzOHLPc.md) [https://www.youtube.com/watch?v=eh3slzOHLPc](https://www.youtube.com/watch?v=eh3slzOHLPc)
+* [Q&A: Are there more big things to come that will be in the Trailer?](../../../transcriptions/yt-yTJ4Q0FBmKw.md) [https://www.youtube.com/watch?v=yTJ4Q0FBmKw](https://www.youtube.com/watch?v=yTJ4Q0FBmKw)
+* [Q&A: When a faster Train comes from the back & a slower Train is in front do they crash?](../../../transcriptions/yt-qb-w6XoyRJo.md) [https://www.youtube.com/watch?v=qb-w6XoyRJo](https://www.youtube.com/watch?v=qb-w6XoyRJo)
+* [Q&A: Will we get option to let Trains wait at a station until they're fully loaded or unloaded?](../../../transcriptions/yt-aCgY0QXyfxM.md) [https://www.youtube.com/watch?v=aCgY0QXyfxM](https://www.youtube.com/watch?v=aCgY0QXyfxM)
+* [Q&A: Is the Engine Update because of Trains?](../../../transcriptions/yt-A2q3ARe5jtQ.md) [https://www.youtube.com/watch?v=A2q3ARe5jtQ](https://www.youtube.com/watch?v=A2q3ARe5jtQ)
+* [Q&A: How does the Horizontal Small Pillar work?](../../../transcriptions/yt-xQpLYJeDwJ8.md) [https://www.youtube.com/watch?v=xQpLYJeDwJ8](https://www.youtube.com/watch?v=xQpLYJeDwJ8)
+* [Q&A: Was clipping of Trains covered?](../../../transcriptions/yt-m0hpBjhy6fs.md) [https://www.youtube.com/watch?v=m0hpBjhy6fs](https://www.youtube.com/watch?v=m0hpBjhy6fs)
+* [Q&A: Can we blow up the Trains?](../../../transcriptions/yt-HYFYwqyhl_g.md) [https://www.youtube.com/watch?v=HYFYwqyhl_g](https://www.youtube.com/watch?v=HYFYwqyhl_g)
+* [Q&A: What happens with the Resources when the Trains crash?](../../../transcriptions/yt-wsIuSnxN7lg.md) [https://www.youtube.com/watch?v=wsIuSnxN7lg](https://www.youtube.com/watch?v=wsIuSnxN7lg)
+* [Community FYI: You have to pick up each item 1 by 1, stacked separately](../../../transcriptions/yt-VxwzQwe0O1A.md) [https://www.youtube.com/watch?v=VxwzQwe0O1A](https://www.youtube.com/watch?v=VxwzQwe0O1A)
+
 ## September 28th, 2021 Livestream
 * [Q&A: Is there a larger version of the Beams that were revealed a couple of weeks ago?](../../../transcriptions/yt-oI_RmzILLrk.md) [https://www.youtube.com/watch?v=oI_RmzILLrk](https://www.youtube.com/watch?v=oI_RmzILLrk)
 * [Q&A: What percentage of things would you say at this point have been revealed?](../../../transcriptions/yt-lJhWFjC2ChQ.md) [https://www.youtube.com/watch?v=lJhWFjC2ChQ](https://www.youtube.com/watch?v=lJhWFjC2ChQ)

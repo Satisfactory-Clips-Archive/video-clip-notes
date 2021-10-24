@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > Transportation > [Vehicles](../../../../topics/features/transportation/vehicles.md) > Drones
 
+## October 5th, 2021 Livestream
+* [Q&A: Will you be adding collisions to Drones eventually?](../../../../transcriptions/yt-q9vl3IKPFWI.md) [https://www.youtube.com/watch?v=q9vl3IKPFWI](https://www.youtube.com/watch?v=q9vl3IKPFWI)
+
 ## September 28th, 2021 Livestream
 * [Q&A: Why can't we have a rideable Drone?](../../../../transcriptions/yt-UmndxzpLEwk.md) [https://www.youtube.com/watch?v=UmndxzpLEwk](https://www.youtube.com/watch?v=UmndxzpLEwk)
 

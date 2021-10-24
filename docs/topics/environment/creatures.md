@@ -10,6 +10,9 @@ date: Last Modified
 * [Non Flying Bird](../../topics/environment/creatures/non-flying-bird.md)
 * [Space Giraffe-Tick-Penguin-Whale Thing](../../topics/environment/creatures/space-giraffe-tick-penguin-whale-thing.md)
 
+## October 5th, 2021 Livestream
+* [Snutt Talk: Lake Shark](../../transcriptions/yt-y-N5fgrTPcM.md) [https://www.youtube.com/watch?v=y-N5fgrTPcM](https://www.youtube.com/watch?v=y-N5fgrTPcM)
+
 ## September 28th, 2021 Livestream
 * [Q&A: New mobs coming in Update 5?](../../transcriptions/yt-13K9Hn3mdnc.md) [https://www.youtube.com/watch?v=13K9Hn3mdnc](https://www.youtube.com/watch?v=13K9Hn3mdnc)
 * [Q&A: Are new mobs ever coming?](../../transcriptions/yt-3JLhERMXBoY.md) [https://www.youtube.com/watch?v=3JLhERMXBoY](https://www.youtube.com/watch?v=3JLhERMXBoY)

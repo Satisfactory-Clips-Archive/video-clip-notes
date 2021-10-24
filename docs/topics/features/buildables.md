@@ -18,6 +18,21 @@ date: Last Modified
 * [Walls](../../topics/features/buildables/walls.md)
 * [Windows](../../topics/features/buildables/windows.md)
 
+## October 8th, 2021 Video
+* [Jace Talk: Train Signals](../../transcriptions/yt-CskxkIepX6Y,326.19253333333336,345.71203333333335.md) [https://youtube.com/clip/Ugkxafni_0V2A90Q7IgLuLDlDC0GVqmT9q9Q](https://youtube.com/clip/Ugkxafni_0V2A90Q7IgLuLDlDC0GVqmT9q9Q)
+* [Jace Talk: Block Signals](../../transcriptions/yt-CskxkIepX6Y,355.3883666666667,468.53473333333335.md) [https://youtube.com/embed/CskxkIepX6Y?autoplay=1&start=355&end=469](https://youtube.com/embed/CskxkIepX6Y?autoplay=1&start=355&end=469)
+* [Jace Talk: Path Signals](../../transcriptions/yt-CskxkIepX6Y,468.5681,587.4869.md) [https://youtube.com/embed/CskxkIepX6Y?autoplay=1&start=468&end=588](https://youtube.com/embed/CskxkIepX6Y?autoplay=1&start=468&end=588)
+* [Jace Talk: Path Signals can be chained](../../transcriptions/yt-CskxkIepX6Y,629.5956333333334,651.3840666666666.md) [https://youtube.com/clip/Ugkxlr6dgXQK6J-r_W8-8IknvcYyruSSX7py](https://youtube.com/clip/Ugkxlr6dgXQK6J-r_W8-8IknvcYyruSSX7py)
+* [Jace Talk: Signals are actually directional](../../transcriptions/yt-CskxkIepX6Y,659.8592,694.8608333333333.md) [https://youtube.com/clip/UgkxlqmphGlV8Ps2Fb4lF5W5aI8qj_4kK5D5](https://youtube.com/clip/UgkxlqmphGlV8Ps2Fb4lF5W5aI8qj_4kK5D5)
+* [Jace Talk: Signals can have error messages](../../transcriptions/yt-CskxkIepX6Y,694.8942000000001,721.4207.md) [https://youtube.com/clip/UgkxzCNl0kt7cACA1jxssIPoDuNwGPeVqf1C](https://youtube.com/clip/UgkxzCNl0kt7cACA1jxssIPoDuNwGPeVqf1C)
+* [Jace Talk: Signal feedback is somewhat kinda limited](../../transcriptions/yt-CskxkIepX6Y,721.4540666666667,788.8547333333333.md) [https://youtube.com/embed/CskxkIepX6Y?autoplay=1&start=721&end=789](https://youtube.com/embed/CskxkIepX6Y?autoplay=1&start=721&end=789)
+* [Q&A: Will intersecting tracks work with Signals?](../../transcriptions/yt-CskxkIepX6Y,788.8881,870.0024666666667.md) [https://youtube.com/embed/CskxkIepX6Y?autoplay=1&start=788&end=871](https://youtube.com/embed/CskxkIepX6Y?autoplay=1&start=788&end=871)
+
+## October 5th, 2021 Livestream
+* [Snutt & Jace Talk: Train Signals & Collisions Teaser (Part 2)](../../transcriptions/yt-Ht2rE1Ktbhw.md) [https://www.youtube.com/watch?v=Ht2rE1Ktbhw](https://www.youtube.com/watch?v=Ht2rE1Ktbhw)
+* [Snutt & Jace Talk: Train Signals & Collisions Teaser (Part 3)](../../transcriptions/yt-nLvN0kpBpak.md) [https://www.youtube.com/watch?v=nLvN0kpBpak](https://www.youtube.com/watch?v=nLvN0kpBpak)
+* [Q&A: Does Zooping maintain the direction of the original piece?](../../transcriptions/yt-n1D2PCqQArI.md) [https://www.youtube.com/watch?v=n1D2PCqQArI](https://www.youtube.com/watch?v=n1D2PCqQArI)
+
 ## September 7th, 2021 Livestream
 * [Snutt & Jace Talk: More Frames](../../transcriptions/yt-A11OVnEPoy4.md) [https://www.youtube.com/watch?v=A11OVnEPoy4](https://www.youtube.com/watch?v=A11OVnEPoy4)
 * [Q&A: Will the new Build Pieces will be unlocked in the AWESOME Shop?](../../transcriptions/yt-vEBGQAEjxGs.md) [https://www.youtube.com/watch?v=vEBGQAEjxGs](https://www.youtube.com/watch?v=vEBGQAEjxGs)

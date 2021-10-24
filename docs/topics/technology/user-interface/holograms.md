@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Technology](../../../topics/technology.md) > [User Interface](../../../topics/technology/user-interface.md) > Holograms
 
+## October 5th, 2021 Livestream
+* [Q&A: Any plans for separating the Build Hologram from the Pioneer camera?](../../../transcriptions/yt-q_MH95NWEbQ.md) [https://www.youtube.com/watch?v=q_MH95NWEbQ](https://www.youtube.com/watch?v=q_MH95NWEbQ)
+
 ## September 7th, 2021 Livestream
 * [Q&A: Why do the Holograms not look the same?](../../../transcriptions/yt-k8fySA-MheI.md) [https://www.youtube.com/watch?v=k8fySA-MheI](https://www.youtube.com/watch?v=k8fySA-MheI)
 * [Community FYI: Nice colour highlights there](../../../transcriptions/yt-umSEa0eFeeM.md) [https://www.youtube.com/watch?v=umSEa0eFeeM](https://www.youtube.com/watch?v=umSEa0eFeeM)

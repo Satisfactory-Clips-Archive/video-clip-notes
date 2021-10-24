@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > Release Builds
 
+## October 5th, 2021 Livestream
+* [Snutt & Jace Talk: Update 5 Experimental Release Date](../../transcriptions/yt-YaXO7A8P370.md) [https://www.youtube.com/watch?v=YaXO7A8P370](https://www.youtube.com/watch?v=YaXO7A8P370)
+* [Q&A: Will Engine Upgrade be part of Update 5 for EA?](../../transcriptions/yt-sipvJ2BXWUM.md) [https://www.youtube.com/watch?v=sipvJ2BXWUM](https://www.youtube.com/watch?v=sipvJ2BXWUM)
+
 ## September 28th, 2021 Livestream
 * [State of Dev: Update 5 Release Date](../../transcriptions/yt-dAfszSKXuYk.md) [https://www.youtube.com/watch?v=dAfszSKXuYk](https://www.youtube.com/watch?v=dAfszSKXuYk)
 * [Q&A: When will the Engine Update go to Early Access?](../../transcriptions/yt-1jjv1OPjHBU.md) [https://www.youtube.com/watch?v=1jjv1OPjHBU](https://www.youtube.com/watch?v=1jjv1OPjHBU)

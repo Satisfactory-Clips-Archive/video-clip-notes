@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../topics.md) > Features > Multiplayer
 * [Crossplay](../../topics/features/multiplayer/crossplay.md)
 
+## October 5th, 2021 Livestream
+* [Q&A: New fixes for Multiplayer gameplay?](../../transcriptions/yt-YExHZSA1bH4.md) [https://www.youtube.com/watch?v=YExHZSA1bH4](https://www.youtube.com/watch?v=YExHZSA1bH4)
+
 ## September 28th, 2021 Livestream
 * [Snutt Talk: Multiplayer issues weren't due to the Engine Update, there was a US NAT issue](../../transcriptions/yt-pLhhSsgtxkg.md) [https://www.youtube.com/watch?v=pLhhSsgtxkg](https://www.youtube.com/watch?v=pLhhSsgtxkg)
 * [Q&A: Please fix Multiplayer](../../transcriptions/yt-q6SywO8A2Yk.md) [https://www.youtube.com/watch?v=q6SywO8A2Yk](https://www.youtube.com/watch?v=q6SywO8A2Yk)

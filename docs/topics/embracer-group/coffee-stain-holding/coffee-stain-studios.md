@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Embracer Group](../../../topics/embracer-group.md) > Coffee Stain Holding > Coffee Stain Studios
 
+## October 5th, 2021 Livestream
+* [Q&A: I thought Coffee Stain Studios released Valheim?](../../../transcriptions/yt-jjOM5IpsAiw.md) [https://www.youtube.com/watch?v=jjOM5IpsAiw](https://www.youtube.com/watch?v=jjOM5IpsAiw)
+
 ## September 28th, 2021 Livestream
 * [Q&A: Does CSS have studio tours?](../../../transcriptions/yt-uWmppO45tpc.md) [https://www.youtube.com/watch?v=uWmppO45tpc](https://www.youtube.com/watch?v=uWmppO45tpc)
 

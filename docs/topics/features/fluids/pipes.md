@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Fluids](../../../topics/features/fluids.md) > Pipes
 
+## October 5th, 2021 Livestream
+* [Q&A: Will Pipes be touched/improved at all?](../../../transcriptions/yt-iwJNmcDkBV4.md) [https://www.youtube.com/watch?v=iwJNmcDkBV4](https://www.youtube.com/watch?v=iwJNmcDkBV4)
+* [Q&A: Grid for Pipes?](../../../transcriptions/yt-IQTbgZsbfVc.md) [https://www.youtube.com/watch?v=IQTbgZsbfVc](https://www.youtube.com/watch?v=IQTbgZsbfVc)
+* [Community FYI: I always found the Headlift Indicators kinda useless, maybe because they don't work](../../../transcriptions/yt-YTFbOFwNSLw.md) [https://www.youtube.com/watch?v=YTFbOFwNSLw](https://www.youtube.com/watch?v=YTFbOFwNSLw)
+
 ## September 28th, 2021 Livestream
 * [Q&A: Belt & Pipe max throughput fixes, when?](../../../transcriptions/yt-iJ2m-cf3kHk.md) [https://www.youtube.com/watch?v=iJ2m-cf3kHk](https://www.youtube.com/watch?v=iJ2m-cf3kHk)
 

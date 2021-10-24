@@ -8,6 +8,14 @@ date: Last Modified
 * [Quick Switch](../../../topics/features/planned-features/build-modes/quick-switch.md)
 * [Zooping](../../../topics/features/planned-features/build-modes/zooping.md)
 
+## October 5th, 2021 Livestream
+* [Q&A: Grid for Pipes?](../../../transcriptions/yt-IQTbgZsbfVc.md) [https://www.youtube.com/watch?v=IQTbgZsbfVc](https://www.youtube.com/watch?v=IQTbgZsbfVc)
+* [Q&A: Any plans for separating the Build Hologram from the Pioneer camera?](../../../transcriptions/yt-q_MH95NWEbQ.md) [https://www.youtube.com/watch?v=q_MH95NWEbQ](https://www.youtube.com/watch?v=q_MH95NWEbQ)
+* [Q&A: Zoop 50 slots, like destroying?](../../../transcriptions/yt--Yr4UJlDy-o.md) [https://www.youtube.com/watch?v=-Yr4UJlDy-o](https://www.youtube.com/watch?v=-Yr4UJlDy-o)
+* [Q&A: Is mass-deleting called Poozing now?](../../../transcriptions/yt-UlF6X8Cn3L8.md) [https://www.youtube.com/watch?v=UlF6X8Cn3L8](https://www.youtube.com/watch?v=UlF6X8Cn3L8)
+* [Community FYI: I always found the Headlift Indicators kinda useless, maybe because they don't work](../../../transcriptions/yt-YTFbOFwNSLw.md) [https://www.youtube.com/watch?v=YTFbOFwNSLw](https://www.youtube.com/watch?v=YTFbOFwNSLw)
+* [Q&A: Will we have more freedom in how to place objects?](../../../transcriptions/yt-Hh6MzKZ1lzE.md) [https://www.youtube.com/watch?v=Hh6MzKZ1lzE](https://www.youtube.com/watch?v=Hh6MzKZ1lzE)
+
 ## September 28th, 2021 Livestream
 * [Q&A: When you delete can you ctrl-toggle in case you mis-click?](../../../transcriptions/yt-nPM3VCqthUw.md) [https://www.youtube.com/watch?v=nPM3VCqthUw](https://www.youtube.com/watch?v=nPM3VCqthUw)
 

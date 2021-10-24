@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > QA Site
 
+## October 5th, 2021 Livestream
+* [Q&A: Signs coming when, it's most wanted in QA?](../transcriptions/yt-E6TuyMSKYqI.md) [https://www.youtube.com/watch?v=E6TuyMSKYqI](https://www.youtube.com/watch?v=E6TuyMSKYqI)
+
 ## September 28th, 2021 Livestream
 * [Snutt & Jace Talk: The QA Site](../transcriptions/yt-p7qHqhun4xU.md) [https://www.youtube.com/watch?v=p7qHqhun4xU](https://www.youtube.com/watch?v=p7qHqhun4xU)
 * Q&A: Can we post suggestions on the QA Site? [https://www.youtube.com/watch?v=QxMtx5GBxWI](https://www.youtube.com/watch?v=QxMtx5GBxWI)

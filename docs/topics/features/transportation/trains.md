@@ -6,6 +6,19 @@ date: Last Modified
 # [Topics](../../../topics.md) > Features > Transportation > Trains
 * [Train Signals](../../../topics/features/transportation/trains/train-signals.md)
 
+## October 8th, 2021 Video
+* [Jace Talk: Train Collisions & derailment](../../../transcriptions/yt-CskxkIepX6Y,162.7626,202.70250000000001.md) [https://youtube.com/clip/Ugkx5fKmE25idV_PPd2BZ6oIlV-BkWXyl_wW](https://youtube.com/clip/Ugkx5fKmE25idV_PPd2BZ6oIlV-BkWXyl_wW)
+* [Jace Talk: Repairing de-railed Trains](../../../transcriptions/yt-CskxkIepX6Y,202.73586666666668,326.1591666666667.md) [https://youtube.com/embed/CskxkIepX6Y?autoplay=1&start=202&end=327](https://youtube.com/embed/CskxkIepX6Y?autoplay=1&start=202&end=327)
+* [Jace Talk: Epic Train staredown contest](../../../transcriptions/yt-CskxkIepX6Y,587.5202666666667,629.5622666666667.md) [https://youtube.com/clip/UgkxoEUo6ohfHz8MYiTqo4oYr6BtCIlQ2NWG](https://youtube.com/clip/UgkxoEUo6ohfHz8MYiTqo4oYr6BtCIlQ2NWG)
+
+## October 5th, 2021 Livestream
+* [Snutt & Jace Talk: Train Signals & Collisions Teaser (Part 2)](../../../transcriptions/yt-Ht2rE1Ktbhw.md) [https://www.youtube.com/watch?v=Ht2rE1Ktbhw](https://www.youtube.com/watch?v=Ht2rE1Ktbhw)
+* [Q&A: Can Stations have the same name?](../../../transcriptions/yt-qSt7JQ4OXqU.md) [https://www.youtube.com/watch?v=qSt7JQ4OXqU](https://www.youtube.com/watch?v=qSt7JQ4OXqU)
+* [Q&A: Is the Engine Update because of Trains?](../../../transcriptions/yt-A2q3ARe5jtQ.md) [https://www.youtube.com/watch?v=A2q3ARe5jtQ](https://www.youtube.com/watch?v=A2q3ARe5jtQ)
+* [Snutt & Jace Talk: Train name limit](../../../transcriptions/yt-QCIc4jMSl_A.md) [https://www.youtube.com/watch?v=QCIc4jMSl_A](https://www.youtube.com/watch?v=QCIc4jMSl_A)
+* [Q&A: Can we blow up the Trains?](../../../transcriptions/yt-HYFYwqyhl_g.md) [https://www.youtube.com/watch?v=HYFYwqyhl_g](https://www.youtube.com/watch?v=HYFYwqyhl_g)
+* [Q&A: What happens with the Resources when the Trains crash?](../../../transcriptions/yt-wsIuSnxN7lg.md) [https://www.youtube.com/watch?v=wsIuSnxN7lg](https://www.youtube.com/watch?v=wsIuSnxN7lg)
+
 ## September 21st, 2021 Livestream
 * [Q&A: Trains suck in Multiplayer, Dedicated Servers when?](../../../transcriptions/yt-hKRRW-m42zs.md) [https://www.youtube.com/watch?v=hKRRW-m42zs](https://www.youtube.com/watch?v=hKRRW-m42zs)
 

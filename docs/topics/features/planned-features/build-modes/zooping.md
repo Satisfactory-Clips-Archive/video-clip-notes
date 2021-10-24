@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > Planned Features > [Build Modes](../../../../topics/features/planned-features/build-modes.md) > Zooping
 
+## October 5th, 2021 Livestream
+* [Q&A: Zoop 50 slots, like destroying?](../../../../transcriptions/yt--Yr4UJlDy-o.md) [https://www.youtube.com/watch?v=-Yr4UJlDy-o](https://www.youtube.com/watch?v=-Yr4UJlDy-o)
+* [Q&A: Does Zooping maintain the direction of the original piece?](../../../../transcriptions/yt-n1D2PCqQArI.md) [https://www.youtube.com/watch?v=n1D2PCqQArI](https://www.youtube.com/watch?v=n1D2PCqQArI)
+* [Q&A: Is mass-deleting called Poozing now?](../../../../transcriptions/yt-UlF6X8Cn3L8.md) [https://www.youtube.com/watch?v=UlF6X8Cn3L8](https://www.youtube.com/watch?v=UlF6X8Cn3L8)
+
 ## September 28th, 2021 Livestream
 * [Q&A: I still don't understand what Zooping is?](../../../../transcriptions/yt-_Xl3Qs2LEJw.md) [https://www.youtube.com/watch?v=_Xl3Qs2LEJw](https://www.youtube.com/watch?v=_Xl3Qs2LEJw)
 * [Q&A: Where did the name "Zoop" come from?](../../../../transcriptions/yt-IT9MjpoENTg.md) [https://www.youtube.com/watch?v=IT9MjpoENTg](https://www.youtube.com/watch?v=IT9MjpoENTg)

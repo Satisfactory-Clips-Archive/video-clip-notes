@@ -14,6 +14,9 @@ date: Last Modified
 * [Rifle](../../topics/features/equipment/rifle.md)
 * [Zip Lines](../../topics/features/equipment/zip-lines.md)
 
+## October 5th, 2021 Livestream
+* [Q&A: Can we blow up the Trains?](../../transcriptions/yt-HYFYwqyhl_g.md) [https://www.youtube.com/watch?v=HYFYwqyhl_g](https://www.youtube.com/watch?v=HYFYwqyhl_g)
+
 ## September 28th, 2021 Livestream
 * [Q&A: Will coffee cup look different in Update 5?](../../transcriptions/yt-Mr80G3BjkDg.md) [https://www.youtube.com/watch?v=Mr80G3BjkDg](https://www.youtube.com/watch?v=Mr80G3BjkDg)
 

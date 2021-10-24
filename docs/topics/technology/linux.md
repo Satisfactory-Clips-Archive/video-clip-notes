@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > Linux
 
+## October 5th, 2021 Livestream
+* [Q&A: Server Hosting on Linux?](../../transcriptions/yt-L0KTZCuWT_E.md) [https://www.youtube.com/watch?v=L0KTZCuWT_E](https://www.youtube.com/watch?v=L0KTZCuWT_E)
+
 ## September 21st, 2021 Livestream
 * [Q&A: Will Dedicated Servers run on Linux, Windows, or both?](../../transcriptions/yt-B9WzFDA9Lq8.md) [https://www.youtube.com/watch?v=B9WzFDA9Lq8](https://www.youtube.com/watch?v=B9WzFDA9Lq8)
 

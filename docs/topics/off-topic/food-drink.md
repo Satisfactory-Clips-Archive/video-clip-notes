@@ -10,6 +10,10 @@ date: Last Modified
 * [Pizza](../../topics/off-topic/food-drink/pizza.md)
 * [Semlor](../../topics/off-topic/food-drink/semlor.md)
 
+## October 5th, 2021 Livestream
+* [Snutt  & Jace Talk: Jace's HelloFresh delivery](../../transcriptions/yt-WceFWmtLU4U.md) [https://www.youtube.com/watch?v=WceFWmtLU4U](https://www.youtube.com/watch?v=WceFWmtLU4U)
+* [Q&A: Dinner plans?](../../transcriptions/yt-Kp7Yk3Drj7Y.md) [https://www.youtube.com/watch?v=Kp7Yk3Drj7Y](https://www.youtube.com/watch?v=Kp7Yk3Drj7Y)
+
 ## September 7th, 2021 Livestream
 * [Q&A: What's your favourite cheese, Jace?](../../transcriptions/yt-9R7r3GFbSyc.md) [https://www.youtube.com/watch?v=9R7r3GFbSyc](https://www.youtube.com/watch?v=9R7r3GFbSyc)
 

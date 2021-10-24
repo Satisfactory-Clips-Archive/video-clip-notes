@@ -10,6 +10,8 @@ topics:
 # [September 28th, 2021 Livestream](../2021-09-28.md)
 ## Q&A: Any plans to release the Engine Upgrade to EA before Update 5 releases to Experimental?
 https://www.youtube.com/watch?v=IfYa23IgdLw
+This question was possibly duplicated with a more recent answer: [October 5th, 2021 Livestream Q&A: Will Engine Upgrade be part of Update 5 for EA?](./yt-sipvJ2BXWUM.md) [https://www.youtube.com/watch?v=sipvJ2BXWUM](https://www.youtube.com/watch?v=sipvJ2BXWUM)
+
 
 ### Topics
 * [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)

@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Pillars
 
+## October 5th, 2021 Livestream
+* [Snutt & Jace Talk: Train Signals & Collisions Teaser (Part 5)](../../../transcriptions/yt-cCOc9PbRlYY.md) [https://www.youtube.com/watch?v=cCOc9PbRlYY](https://www.youtube.com/watch?v=cCOc9PbRlYY)
+* [Q&A: How does the Horizontal Small Pillar work?](../../../transcriptions/yt-xQpLYJeDwJ8.md) [https://www.youtube.com/watch?v=xQpLYJeDwJ8](https://www.youtube.com/watch?v=xQpLYJeDwJ8)
+
 ## September 7th, 2021 Livestream
 * [Snutt & Jace Talk: New Pillars](../../../transcriptions/yt-yspSnz-RVok.md) [https://www.youtube.com/watch?v=yspSnz-RVok](https://www.youtube.com/watch?v=yspSnz-RVok)
 * [Q&A: Can you place a Small Pillar Base on a Large Pillar Base?](../../../transcriptions/yt-ksDZZ9B4W-E.md) [https://www.youtube.com/watch?v=ksDZZ9B4W-E](https://www.youtube.com/watch?v=ksDZZ9B4W-E)

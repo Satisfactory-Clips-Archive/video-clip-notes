@@ -11,7 +11,7 @@ topics:
 https://www.youtube.com/watch?v=J8M7X0igt2w
 This question was possibly replaced with a more recent answer: [December 15th, 2020 Livestream Q&A: Will we be able to colour Vehicles and Personal Containers after the Engine Update?](./yt-6BahsrvlPJs.md) [https://www.youtube.com/watch?v=6BahsrvlPJs](https://www.youtube.com/watch?v=6BahsrvlPJs)
 
-This question was possibly duplicated with a more recent answer: [August 17th, 2021 Livestream Q&A: What about the Vehicles being paintable?](./yt-C18EauRatIw.md) [https://www.youtube.com/watch?v=C18EauRatIw](https://www.youtube.com/watch?v=C18EauRatIw)
+This question was possibly duplicated with a more recent answer: [October 5th, 2021 Livestream Q&A: Will we be able to Paint Vehicles at some point?](./yt-QvxM4Cp6B3U.md) [https://www.youtube.com/watch?v=QvxM4Cp6B3U](https://www.youtube.com/watch?v=QvxM4Cp6B3U)
 
 
 ### Topics

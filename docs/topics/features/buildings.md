@@ -26,6 +26,9 @@ date: Last Modified
 * [The HUB](../../topics/features/buildings/the-hub.md)
 * [Water Extractor](../../topics/features/buildings/water-extractor.md)
 
+## October 8th, 2021 Video
+* [Jace Talk: Freight Station UI Changes](../../transcriptions/yt-CskxkIepX6Y,876.5757,888.8212666666667.md) [https://youtube.com/clip/Ugkx0uFobWLIS-LRVKzTwNdOKKnesGBr9ZGe](https://youtube.com/clip/Ugkx0uFobWLIS-LRVKzTwNdOKKnesGBr9ZGe)
+
 ## September 28th, 2021 Livestream
 * [Q&A: What's your favourite building in the game?](../../transcriptions/yt-AaJfFOGWWsc.md) [https://www.youtube.com/watch?v=AaJfFOGWWsc](https://www.youtube.com/watch?v=AaJfFOGWWsc)
 * [Q&A: If you were a Building, what would it be?](../../transcriptions/yt-1cL_YyywAkU.md) [https://www.youtube.com/watch?v=1cL_YyywAkU](https://www.youtube.com/watch?v=1cL_YyywAkU)

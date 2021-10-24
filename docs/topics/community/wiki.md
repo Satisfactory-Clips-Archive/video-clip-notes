@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Wiki
 
+## October 5th, 2021 Livestream
+* [Snutt Talk: Lake Shark](../../transcriptions/yt-y-N5fgrTPcM.md) [https://www.youtube.com/watch?v=y-N5fgrTPcM](https://www.youtube.com/watch?v=y-N5fgrTPcM)
+
 ## July 20th, 2021 Livestream
 * [Q&A: Can you answer if there will be Base Defense again, we're only at 40 citations?](../../transcriptions/yt-VrzN65UdofQ.md) [https://www.youtube.com/watch?v=VrzN65UdofQ](https://www.youtube.com/watch?v=VrzN65UdofQ)
 

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > Physics
 
+## October 5th, 2021 Livestream
+* [Snutt & Jace Talk: Train Signals & Collisions Teaser (Part 6)](../../transcriptions/yt-13ofNtLHhr8.md) [https://www.youtube.com/watch?v=13ofNtLHhr8](https://www.youtube.com/watch?v=13ofNtLHhr8)
+
 ## September 28th, 2021 Livestream
 * [Q&A: Will the Vehicles bouncing on Foundations be fixed at some point?](../../transcriptions/yt-O19MUfB6WXM.md) [https://www.youtube.com/watch?v=O19MUfB6WXM](https://www.youtube.com/watch?v=O19MUfB6WXM)
 
