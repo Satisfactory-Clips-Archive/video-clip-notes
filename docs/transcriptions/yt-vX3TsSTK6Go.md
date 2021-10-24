@@ -8,6 +8,8 @@ topics:
 # [September 28th, 2021 Livestream](../2021-09-28.md)
 ## Q&A: Will Train stop lights be added?
 https://www.youtube.com/watch?v=vX3TsSTK6Go
+This question was possibly replaced with a more recent answer: [October 8th, 2021 Video Jace Talk: Train Signals](./yt-CskxkIepX6Y,326.19253333333336,345.71203333333335.md) [https://youtube.com/clip/Ugkxafni_0V2A90Q7IgLuLDlDC0GVqmT9q9Q](https://youtube.com/clip/Ugkxafni_0V2A90Q7IgLuLDlDC0GVqmT9q9Q)
+
 
 ### Topics
 * [Features > Transportation > Trains > Train Signals](../topics/features/transportation/trains/train-signals.md)

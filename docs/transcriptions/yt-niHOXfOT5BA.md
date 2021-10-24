@@ -9,6 +9,8 @@ topics:
 # [September 28th, 2021 Livestream](../2021-09-28.md)
 ## Q&A: If you add collision for Trains, would you make a video of them crashing & the animation?
 https://www.youtube.com/watch?v=niHOXfOT5BA
+This question was possibly replaced with a more recent answer: [October 5th, 2021 Livestream Snutt & Jace Talk: Train Signals & Collisions Teaser (Part 6)](./yt-13ofNtLHhr8.md) [https://www.youtube.com/watch?v=13ofNtLHhr8](https://www.youtube.com/watch?v=13ofNtLHhr8)
+
 
 ### Topics
 * [Features > Transportation > Trains > Train Signals](../topics/features/transportation/trains/train-signals.md)

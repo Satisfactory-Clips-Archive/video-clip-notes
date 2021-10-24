@@ -9,6 +9,8 @@ topics:
 # [August 24th, 2021 Livestream](../2021-08-24.md)
 ## Q&A: Are there plans for an option to tell the Train to hold at the Station until the dock is full?
 https://www.youtube.com/watch?v=tkfbRxpk2m4
+This question was possibly replaced with a more recent answer: [October 8th, 2021 Video Jace Talk: New "Stop Settings" feature](./yt-CskxkIepX6Y,911.1435666666666,998.3640333333334.md) [https://youtube.com/embed/CskxkIepX6Y?autoplay=1&start=911&end=999](https://youtube.com/embed/CskxkIepX6Y?autoplay=1&start=911&end=999)
+
 
 ### Topics
 * [Features > Requested Features](../topics/features/requested-features.md)

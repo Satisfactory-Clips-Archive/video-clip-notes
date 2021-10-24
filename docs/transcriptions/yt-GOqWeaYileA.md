@@ -9,6 +9,8 @@ topics:
 # [September 14th, 2021 Livestream](../2021-09-14.md)
 ## Q&A: Any Collisions / signalling updates to Trains expected in Update 5?
 https://www.youtube.com/watch?v=GOqWeaYileA
+This question was possibly replaced with a more recent answer: [October 5th, 2021 Livestream Snutt & Jace Talk: Train Signals & Collisions Teaser (Part 1)](./yt-yKiEI1EpTws.md) [https://www.youtube.com/watch?v=yKiEI1EpTws](https://www.youtube.com/watch?v=yKiEI1EpTws)
+
 <details>
 <summary>This question may have been asked previously at least 32 other times, as recently as August 2021 and as early as May 2020.</summary>
 

@@ -9,6 +9,8 @@ topics:
 # [August 24th, 2021 Livestream](../2021-08-24.md)
 ## Q&A: How much work in the Trains will we see in Update 5?
 https://www.youtube.com/watch?v=MXxOX-YRj_o
+This question was possibly replaced with a more recent answer: [October 8th, 2021 Video Jace Talk: Train Signals & Collisions](./yt-CskxkIepX6Y,18.985633333333332,54.020633333333336.md) [https://youtube.com/clip/UgkxnGi9vY20kgzkEBOHDcTltoeGb2Btsn0K](https://youtube.com/clip/UgkxnGi9vY20kgzkEBOHDcTltoeGb2Btsn0K)
+
 
 ### Topics
 * [Features > Transportation > Trains](../topics/features/transportation/trains.md)

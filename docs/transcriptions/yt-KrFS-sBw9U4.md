@@ -10,6 +10,8 @@ topics:
 # [July 13th, 2021 Livestream](../2021-07-13.md)
 ## Q&A: Can Trains & cars have the same throughput that Drones have?
 https://www.youtube.com/watch?v=KrFS-sBw9U4
+This question was possibly replaced with a more recent answer: [October 8th, 2021 Video Jace Talk: Freight Station UI Changes](./yt-CskxkIepX6Y,876.5757,888.8212666666667.md) [https://youtube.com/clip/Ugkx0uFobWLIS-LRVKzTwNdOKKnesGBr9ZGe](https://youtube.com/clip/Ugkx0uFobWLIS-LRVKzTwNdOKKnesGBr9ZGe)
+
 
 ### Topics
 * [Features > Transportation > Trains](../topics/features/transportation/trains.md)

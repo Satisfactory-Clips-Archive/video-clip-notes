@@ -10,6 +10,8 @@ topics:
 # [October 5th, 2021 Livestream](../2021-10-05.md)
 ## Q&A: Will we get option to let Trains wait at a station until they're fully loaded or unloaded?
 https://www.youtube.com/watch?v=aCgY0QXyfxM
+This question was possibly replaced with a more recent answer: [October 8th, 2021 Video Jace Talk: New "Stop Settings" feature](./yt-CskxkIepX6Y,911.1435666666666,998.3640333333334.md) [https://youtube.com/embed/CskxkIepX6Y?autoplay=1&start=911&end=999](https://youtube.com/embed/CskxkIepX6Y?autoplay=1&start=911&end=999)
+
 <details>
 <summary>This question may have been asked previously at least 1 other time, as recently as September 2021.</summary>
 
