@@ -69,3 +69,6 @@ date: Last Modified
 
 ## March 9th, 2018 Q&A
 * [Q&A: Are the first two letters of your next game's title really "Sa" ?](../../transcriptions/yt-Zo2ybvs7keI,344.96,382.8.md) [https://youtube.com/embed/Zo2ybvs7keI?autoplay=1&start=344&end=383](https://youtube.com/embed/Zo2ybvs7keI?autoplay=1&start=344&end=383)
+
+## November 17th, 2017 Introduction
+* [Why would we need a Community Manager now?](../../transcriptions/yt-6HZzPbgw3pg,127.08,170.16.md) [https://youtube.com/embed/6HZzPbgw3pg?autoplay=1&start=127&end=171](https://youtube.com/embed/6HZzPbgw3pg?autoplay=1&start=127&end=171)

@@ -558,5 +558,6 @@ date: Last Modified
 * [Q&A: Coffee or tea?](../../transcriptions/yt-Zo2ybvs7keI,492.44,502.32.md) [https://youtube.com/embed/Zo2ybvs7keI?autoplay=1&start=492&end=503](https://youtube.com/embed/Zo2ybvs7keI?autoplay=1&start=492&end=503)
 
 ## November 17th, 2017 Introduction
+* [Hi, I'm Jace](../../transcriptions/yt-6HZzPbgw3pg,7.16,72.16.md) [https://youtube.com/embed/6HZzPbgw3pg?autoplay=1&start=7&end=73](https://youtube.com/embed/6HZzPbgw3pg?autoplay=1&start=7&end=73)
 * [How can we be friends if you know nothing about me?](../../transcriptions/yt-6HZzPbgw3pg,72.16,127.08.md) [https://youtube.com/embed/6HZzPbgw3pg?autoplay=1&start=72&end=128](https://youtube.com/embed/6HZzPbgw3pg?autoplay=1&start=72&end=128)
 * [Why would we need a Community Manager now?](../../transcriptions/yt-6HZzPbgw3pg,127.08,170.16.md) [https://youtube.com/embed/6HZzPbgw3pg?autoplay=1&start=127&end=171](https://youtube.com/embed/6HZzPbgw3pg?autoplay=1&start=127&end=171)

@@ -58,4 +58,4 @@ date: Last Modified
 * [Q&A: Is that a Space Elevator at the end of the trailer?](../../../transcriptions/yt-W1E6EWrAsII,421.68,434.4.md) [https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=421&end=435](https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=421&end=435)
 
 ## November 17th, 2017 Introduction
-* [Why would we need a Community Manager now?](../../../transcriptions/yt-6HZzPbgw3pg,127.08,170.16.md) [https://youtube.com/embed/6HZzPbgw3pg?autoplay=1&start=127&end=171](https://youtube.com/embed/6HZzPbgw3pg?autoplay=1&start=127&end=171)
+* [How can we be friends if you know nothing about me?](../../../transcriptions/yt-6HZzPbgw3pg,72.16,127.08.md) [https://youtube.com/embed/6HZzPbgw3pg?autoplay=1&start=72&end=128](https://youtube.com/embed/6HZzPbgw3pg?autoplay=1&start=72&end=128)

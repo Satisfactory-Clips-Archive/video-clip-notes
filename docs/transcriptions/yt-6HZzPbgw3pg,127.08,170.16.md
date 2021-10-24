@@ -4,7 +4,8 @@ date: "2017-11-17"
 layout: transcript
 topics:
     - "coffee-stainers/jace"
-    - "off-topic/food-drink/pizza"
+    - "off-topic/goat-simulator"
+    - "trolling"
 ---
 # [November 17th, 2017 Introduction](../2017-11-17.md)
 ## Why would we need a Community Manager now?
@@ -12,7 +13,8 @@ https://youtube.com/embed/6HZzPbgw3pg?autoplay=1&start=127&end=171
 
 ### Topics
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
-* [Off-Topic > Food & Drink > Pizza](../topics/off-topic/food-drink/pizza.md)
+* [Off-Topic > Goat Simulator](../topics/off-topic/goat-simulator.md)
+* [Trolling](../topics/trolling.md)
 
 ### Transcript
 
