@@ -4,6 +4,11 @@ external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiErG8xome5LS0FQBr
 date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > Planned Features > [Build Modes](../../../../topics/features/planned-features/build-modes.md) > Hard & Soft Clearance
+* [Complex Clearance](../../../../topics/features/planned-features/build-modes/hard-soft-clearance/complex-clearance.md)
+
+## October 12th, 2021 Livestream
+* [Q&A: Are Trains Hard or Soft Clearance?](../../../../transcriptions/yt-IuBqYYZipRc.md) [https://www.youtube.com/watch?v=IuBqYYZipRc](https://www.youtube.com/watch?v=IuBqYYZipRc)
+* [Q&A: Are Beans Hard or Soft Clearance?](../../../../transcriptions/yt-x2lFfUsOhSE.md) [https://www.youtube.com/watch?v=x2lFfUsOhSE](https://www.youtube.com/watch?v=x2lFfUsOhSE)
 
 ## October 5th, 2021 Livestream
 * [Q&A: Will we have more freedom in how to place objects?](../../../../transcriptions/yt-Hh6MzKZ1lzE.md) [https://www.youtube.com/watch?v=Hh6MzKZ1lzE](https://www.youtube.com/watch?v=Hh6MzKZ1lzE)

@@ -37,6 +37,9 @@ date: Last Modified
 * [Torsten](../topics/coffee-stainers/torsten.md)
 * [Uzu](../topics/coffee-stainers/uzu.md)
 
+## October 12th, 2021 Livestream
+* [Jace Talk: Shoutouts for Coffee Stainers implementing Update 5 features](../transcriptions/yt-OfbGW1Nb-XI.md) [https://www.youtube.com/watch?v=OfbGW1Nb-XI](https://www.youtube.com/watch?v=OfbGW1Nb-XI)
+
 ## September 28th, 2021 Livestream
 * [Q&A: Anyone in the Studio playing New Worlds?](../transcriptions/yt-XvqWzF8b8rs.md) [https://www.youtube.com/watch?v=XvqWzF8b8rs](https://www.youtube.com/watch?v=XvqWzF8b8rs)
 * [Q&A: Do any of the streams on here or Steam show active development?](../transcriptions/yt-QzFzfhLImic.md) [https://www.youtube.com/watch?v=QzFzfhLImic](https://www.youtube.com/watch?v=QzFzfhLImic)

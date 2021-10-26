@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Biomes](../../../topics/environment/biomes.md) > Caves
 
+## October 12th, 2021 Livestream
+* [Q&A: You were doing Caves this patch, would there be any possibility of doing anything Underwater?](../../../transcriptions/yt-Y9QwQmUtiws.md) [https://www.youtube.com/watch?v=Y9QwQmUtiws](https://www.youtube.com/watch?v=Y9QwQmUtiws)
+
 ## August 6th, 2021 Video
 * [Jace Talk: Cave Update](../../../transcriptions/yt-MxvGbCCc6DI,397.06333333333333,451.978662.md) [https://youtube.com/clip/UgyMg6x-5O9_IZLNXZx4AaABCQ](https://youtube.com/clip/UgyMg6x-5O9_IZLNXZx4AaABCQ)
 * [Jace Talk: Northern Forest teaser cave before & after shot](../../../transcriptions/yt-MxvGbCCc6DI,452.01823333333334,493.9935.md) [https://youtube.com/clip/Ugzn8JzWSfeXO5NjeqR4AaABCQ](https://youtube.com/clip/Ugzn8JzWSfeXO5NjeqR4AaABCQ)

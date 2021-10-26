@@ -5,6 +5,13 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Fluids](../../../topics/features/fluids.md) > Pipes
 
+## October 15th, 2021 Video
+* [Jace Talk: Changes to Snapping of Buildings](../../../transcriptions/yt-jTIAMuPqSlI,286.1859,341.30763333333334.md) [https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=286&end=342](https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=286&end=342)
+* [Jace Talk: Conveyor Belts & Pipes can snap to their own Poles](../../../transcriptions/yt-jTIAMuPqSlI,341.341,369.8695.md) [https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=341&end=370](https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=341&end=370)
+
+## October 12th, 2021 Livestream
+* [Community FYI: I remmeber when you leaked Pipes by accident about a year or two ago?](../../../transcriptions/yt-m4BdjsbcLbM.md) [https://www.youtube.com/watch?v=m4BdjsbcLbM](https://www.youtube.com/watch?v=m4BdjsbcLbM)
+
 ## October 5th, 2021 Livestream
 * [Q&A: Will Pipes be touched/improved at all?](../../../transcriptions/yt-iwJNmcDkBV4.md) [https://www.youtube.com/watch?v=iwJNmcDkBV4](https://www.youtube.com/watch?v=iwJNmcDkBV4)
 * [Q&A: Grid for Pipes?](../../../transcriptions/yt-IQTbgZsbfVc.md) [https://www.youtube.com/watch?v=IQTbgZsbfVc](https://www.youtube.com/watch?v=IQTbgZsbfVc)

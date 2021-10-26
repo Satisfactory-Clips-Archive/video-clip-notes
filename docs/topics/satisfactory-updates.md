@@ -18,6 +18,9 @@ date: Last Modified
 * [Teasers & Trailers](../topics/satisfactory-updates/teasers-trailers.md)
 * [World Update](../topics/satisfactory-updates/world-update.md)
 
+## October 12th, 2021 Livestream
+* [Q&A: There's always been secrets in Updates, will there be secrets in Update 5?](../transcriptions/yt-R8AbNs9YNSI.md) [https://www.youtube.com/watch?v=R8AbNs9YNSI](https://www.youtube.com/watch?v=R8AbNs9YNSI)
+
 ## October 5th, 2021 Livestream
 * [Q&A: Plans to add more Vehicles?](../transcriptions/yt-OUZzVPXgtSM.md) [https://www.youtube.com/watch?v=OUZzVPXgtSM](https://www.youtube.com/watch?v=OUZzVPXgtSM)
 * [Q&A: Will Pipes be touched/improved at all?](../transcriptions/yt-iwJNmcDkBV4.md) [https://www.youtube.com/watch?v=iwJNmcDkBV4](https://www.youtube.com/watch?v=iwJNmcDkBV4)

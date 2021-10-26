@@ -8,7 +8,7 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Will we have Weather events?
 https://www.youtube.com/watch?v=MzWzCnmbkYI
-This question was possibly duplicated with a more recent answer: [September 14th, 2021 Livestream Q&A: Have you considered adding Weather effects to the game?](./yt-sNZLo0Q6lBg.md) [https://www.youtube.com/watch?v=sNZLo0Q6lBg](https://www.youtube.com/watch?v=sNZLo0Q6lBg)
+This question was possibly duplicated with a more recent answer: [October 12th, 2021 Livestream Q&A: Will there ever be rain and extreme Weather in Satisfactory?](./yt-ukLbdvyFk-E.md) [https://www.youtube.com/watch?v=ukLbdvyFk-E](https://www.youtube.com/watch?v=ukLbdvyFk-E)
 
 
 ### Topics

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Satisfactory Updates](../../../../topics/satisfactory-updates.md) > Pending > [Satisfactory Update 5](../../../../topics/satisfactory-updates/pending/satisfactory-update-5.md) > #SaveTheWillows
 
+## October 12th, 2021 Livestream
+* [Community FYI: #SaveTheWillows](../../../../transcriptions/yt-jKJ-mBnOxQo.md) [https://www.youtube.com/watch?v=jKJ-mBnOxQo](https://www.youtube.com/watch?v=jKJ-mBnOxQo)
+
 ## September 28th, 2021 Livestream
 * [Q&A: What plants is Hannah going to remove from the game next?](../../../../transcriptions/yt-XS_Z1vn1c3U.md) [https://www.youtube.com/watch?v=XS_Z1vn1c3U](https://www.youtube.com/watch?v=XS_Z1vn1c3U)
 

@@ -6,6 +6,39 @@ date: Last Modified
 # [Topics](../../../topics.md) > Features > Transportation > Trains
 * [Train Signals](../../../topics/features/transportation/trains/train-signals.md)
 
+## October 15th, 2021 Video
+* [Jace Talk: Build Pillars down from Train Lines](../../../transcriptions/yt-jTIAMuPqSlI,218.95206666666667,252.51893333333334.md) [https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=218&end=253](https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=218&end=253)
+
+## October 12th, 2021 Livestream
+* [Q&A: Can a Train collide with itself?](../../../transcriptions/yt-ARYXI2euowo.md) [https://www.youtube.com/watch?v=ARYXI2euowo](https://www.youtube.com/watch?v=ARYXI2euowo)
+* [Q&A: In the station queue scenario, what happens with a 3rd/4th/5th Trains arrive, will they queue?](../../../transcriptions/yt-iou8oA3lKpQ.md) [https://www.youtube.com/watch?v=iou8oA3lKpQ](https://www.youtube.com/watch?v=iou8oA3lKpQ)
+* [Q&A: What happens to goods crashed in Trains?](../../../transcriptions/yt-nSeeOkx2K3w.md) [https://www.youtube.com/watch?v=nSeeOkx2K3w](https://www.youtube.com/watch?v=nSeeOkx2K3w)
+* [Q&A: Can Train crashes be left forever for sake of Story?](../../../transcriptions/yt-J4OJTZsjxGI.md) [https://www.youtube.com/watch?v=J4OJTZsjxGI](https://www.youtube.com/watch?v=J4OJTZsjxGI)
+* [Q&A: Are Trains Hard or Soft Clearance?](../../../transcriptions/yt-IuBqYYZipRc.md) [https://www.youtube.com/watch?v=IuBqYYZipRc](https://www.youtube.com/watch?v=IuBqYYZipRc)
+* [Q&A: Are Trains going to completely stop before a Signal when coming down a hill?](../../../transcriptions/yt-tnGG0nyqFZE.md) [https://www.youtube.com/watch?v=tnGG0nyqFZE](https://www.youtube.com/watch?v=tnGG0nyqFZE)
+* [Q&A: What happens if two Trains enter at the same time?](../../../transcriptions/yt-D2xSksdPhck.md) [https://www.youtube.com/watch?v=D2xSksdPhck](https://www.youtube.com/watch?v=D2xSksdPhck)
+* [Q&A: What about Trains running over Players?](../../../transcriptions/yt-6dXZLCMVuqY.md) [https://www.youtube.com/watch?v=6dXZLCMVuqY](https://www.youtube.com/watch?v=6dXZLCMVuqY)
+* [Q&A: Will Trains derail if they run out of track?](../../../transcriptions/yt-2ZSa-x9tGEk.md) [https://www.youtube.com/watch?v=2ZSa-x9tGEk](https://www.youtube.com/watch?v=2ZSa-x9tGEk)
+* [Q&A: How did you get the Train derail to hit the Giant Tick monster?](../../../transcriptions/yt-HlqTqzwd_rM.md) [https://www.youtube.com/watch?v=HlqTqzwd_rM](https://www.youtube.com/watch?v=HlqTqzwd_rM)
+* [Q&A: If one Train enters 5 seconds before, will trains stop before Signal?](../../../transcriptions/yt-sSQS4wpAgUM.md) [https://www.youtube.com/watch?v=sSQS4wpAgUM](https://www.youtube.com/watch?v=sSQS4wpAgUM)
+* [Q&A: We can now manually swap rails in a Train junction?](../../../transcriptions/yt-XYZyZK-g-qk.md) [https://www.youtube.com/watch?v=XYZyZK-g-qk](https://www.youtube.com/watch?v=XYZyZK-g-qk)
+* [Q&A: Can a single track still be two-way?](../../../transcriptions/yt-cAUZod5I1o0.md) [https://www.youtube.com/watch?v=cAUZod5I1o0](https://www.youtube.com/watch?v=cAUZod5I1o0)
+* [Q&A: Will Trains slow down for Trains ahead of them?](../../../transcriptions/yt-FIHOFtzAxNs.md) [https://www.youtube.com/watch?v=FIHOFtzAxNs](https://www.youtube.com/watch?v=FIHOFtzAxNs)
+* [Q&A: What happens if you have a collision while you're driving a Train?](../../../transcriptions/yt-kDDFpMFHaJk.md) [https://www.youtube.com/watch?v=kDDFpMFHaJk](https://www.youtube.com/watch?v=kDDFpMFHaJk)
+* [Q&A: What happpens if you place a Signal while two Trains are a in a Block?](../../../transcriptions/yt-48osVIvScVE.md) [https://www.youtube.com/watch?v=48osVIvScVE](https://www.youtube.com/watch?v=48osVIvScVE)
+* [Q&A: Can Trains nudge each other or is it instantly that all hell break loose?](../../../transcriptions/yt-Q6RuDeIJ94E.md) [https://www.youtube.com/watch?v=Q6RuDeIJ94E](https://www.youtube.com/watch?v=Q6RuDeIJ94E)
+* [Q&A: If an end of a Train is sticking out from a block, then will the previous block be reserved?](../../../transcriptions/yt-rd-lZ558ax0.md) [https://www.youtube.com/watch?v=rd-lZ558ax0](https://www.youtube.com/watch?v=rd-lZ558ax0)
+* [Q&A: Changes to rail placement?](../../../transcriptions/yt-sAE9XVl-jHA.md) [https://www.youtube.com/watch?v=sAE9XVl-jHA](https://www.youtube.com/watch?v=sAE9XVl-jHA)
+* [Community FYI: Go fast, let them fly](../../../transcriptions/yt-fa3hH1d7y50.md) [https://www.youtube.com/watch?v=fa3hH1d7y50](https://www.youtube.com/watch?v=fa3hH1d7y50)
+* [Q&A: What happens if Trains hit derailed Trains?](../../../transcriptions/yt-4vjr-DTj-9Q.md) [https://www.youtube.com/watch?v=4vjr-DTj-9Q](https://www.youtube.com/watch?v=4vjr-DTj-9Q)
+* [Q&A: Can we do Train bowling now?](../../../transcriptions/yt-ZatbGvRS-o4.md) [https://www.youtube.com/watch?v=ZatbGvRS-o4](https://www.youtube.com/watch?v=ZatbGvRS-o4)
+* [Q&A: Could you talk about the station changes for those who might not understand the filtering?](../../../transcriptions/yt-Wfems7cEZLo.md) [https://www.youtube.com/watch?v=Wfems7cEZLo](https://www.youtube.com/watch?v=Wfems7cEZLo)
+* [Q&A: What will Trains do when you Update the Trains, what settings will they use?](../../../transcriptions/yt-wnEFnE-EF_Y.md) [https://www.youtube.com/watch?v=wnEFnE-EF_Y](https://www.youtube.com/watch?v=wnEFnE-EF_Y)
+* [Q&A: Can two stations have the same name, aka parallel stations?](../../../transcriptions/yt-SxcMqRVMyYE.md) [https://www.youtube.com/watch?v=SxcMqRVMyYE](https://www.youtube.com/watch?v=SxcMqRVMyYE)
+* [Q&A: Will you ever consider adding rails to the Map, would be nice to see a full rail network?](../../../transcriptions/yt-aLy9En9UbqI.md) [https://www.youtube.com/watch?v=aLy9En9UbqI](https://www.youtube.com/watch?v=aLy9En9UbqI)
+* [Q&A: Any way to tell a Station to deposit only the specific freight/liquid cart?](../../../transcriptions/yt-CeKdl2MMLc0.md) [https://www.youtube.com/watch?v=CeKdl2MMLc0](https://www.youtube.com/watch?v=CeKdl2MMLc0)
+* [Q&A: Can we have Locomotive that looks like the one in the original Trailer?](../../../transcriptions/yt-PZX0CxE_XAA.md) [https://www.youtube.com/watch?v=PZX0CxE_XAA](https://www.youtube.com/watch?v=PZX0CxE_XAA)
+
 ## October 8th, 2021 Video
 * [Jace Talk: Train Collisions & derailment](../../../transcriptions/yt-CskxkIepX6Y,162.7626,202.70250000000001.md) [https://youtube.com/clip/Ugkx5fKmE25idV_PPd2BZ6oIlV-BkWXyl_wW](https://youtube.com/clip/Ugkx5fKmE25idV_PPd2BZ6oIlV-BkWXyl_wW)
 * [Jace Talk: Repairing de-railed Trains](../../../transcriptions/yt-CskxkIepX6Y,202.73586666666668,326.1591666666667.md) [https://youtube.com/embed/CskxkIepX6Y?autoplay=1&start=202&end=327](https://youtube.com/embed/CskxkIepX6Y?autoplay=1&start=202&end=327)

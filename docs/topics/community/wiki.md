@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Wiki
 
+## October 12th, 2021 Livestream
+* [Q&A: Can we have another session of Jace & Snutt read the Wiki?](../../transcriptions/yt-6WjoS7xM-tE.md) [https://www.youtube.com/watch?v=6WjoS7xM-tE](https://www.youtube.com/watch?v=6WjoS7xM-tE)
+
 ## October 5th, 2021 Livestream
 * [Snutt Talk: Lake Shark](../../transcriptions/yt-y-N5fgrTPcM.md) [https://www.youtube.com/watch?v=y-N5fgrTPcM](https://www.youtube.com/watch?v=y-N5fgrTPcM)
 

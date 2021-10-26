@@ -12,6 +12,8 @@ topics:
 # [October 5th, 2021 Livestream](../2021-10-05.md)
 ## Q&A: What happens with the Resources when the Trains crash?
 https://www.youtube.com/watch?v=wsIuSnxN7lg
+This question was possibly replaced with a more recent answer: [October 12th, 2021 Livestream Q&A: What happens to goods crashed in Trains?](./yt-nSeeOkx2K3w.md) [https://www.youtube.com/watch?v=nSeeOkx2K3w](https://www.youtube.com/watch?v=nSeeOkx2K3w)
+
 
 ### Topics
 * [Environment > Resources](../topics/environment/resources.md)

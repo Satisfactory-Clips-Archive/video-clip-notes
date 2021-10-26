@@ -10,6 +10,9 @@ date: Last Modified
 * [Non Flying Bird](../../topics/environment/creatures/non-flying-bird.md)
 * [Space Giraffe-Tick-Penguin-Whale Thing](../../topics/environment/creatures/space-giraffe-tick-penguin-whale-thing.md)
 
+## October 12th, 2021 Livestream
+* [Q&A: What do you call the animals in Satisfactory?](../../transcriptions/yt-d_Fby_o9pJo.md) [https://www.youtube.com/watch?v=d_Fby_o9pJo](https://www.youtube.com/watch?v=d_Fby_o9pJo)
+
 ## October 5th, 2021 Livestream
 * [Snutt Talk: Lake Shark](../../transcriptions/yt-y-N5fgrTPcM.md) [https://www.youtube.com/watch?v=y-N5fgrTPcM](https://www.youtube.com/watch?v=y-N5fgrTPcM)
 

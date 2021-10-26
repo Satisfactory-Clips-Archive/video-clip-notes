@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > Features > Pioneer
 
+## October 12th, 2021 Livestream
+* [Q&A: What about Trains running over Players?](../../transcriptions/yt-6dXZLCMVuqY.md) [https://www.youtube.com/watch?v=6dXZLCMVuqY](https://www.youtube.com/watch?v=6dXZLCMVuqY)
+
 ## September 28th, 2021 Livestream
 * [Q&A: When are you putting ragdoll back in?](../../transcriptions/yt-d-MzgqyOzAI.md) [https://www.youtube.com/watch?v=d-MzgqyOzAI](https://www.youtube.com/watch?v=d-MzgqyOzAI)
 * [Q&A: Is it possible to make the Pioneer pick up the Doggo?](../../transcriptions/yt-uAJX0gy44Ss.md) [https://www.youtube.com/watch?v=uAJX0gy44Ss](https://www.youtube.com/watch?v=uAJX0gy44Ss)

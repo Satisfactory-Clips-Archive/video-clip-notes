@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Unplanned Features](../../../topics/features/unplanned-features.md) > Base Defense
 
+## October 12th, 2021 Livestream
+* [Q&A: Can you confirm Laser auto Towers in Update 5 Tier 10?](../../../transcriptions/yt-v4vyUvsJq5E.md) [https://www.youtube.com/watch?v=v4vyUvsJq5E](https://www.youtube.com/watch?v=v4vyUvsJq5E)
+
 ## September 21st, 2021 Livestream
 * [Q&A: Will there be a thing like monsters attacking us in waves like in Factorio?](../../../transcriptions/yt-LP3IgdK7OwA.md) [https://www.youtube.com/watch?v=LP3IgdK7OwA](https://www.youtube.com/watch?v=LP3IgdK7OwA)
 

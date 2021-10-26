@@ -1,8 +1,12 @@
 ---
 title: "Tobias"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEqilvgLbk4PUBQSyokspJyD
 date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Tobias
+
+## October 12th, 2021 Livestream
+* [Jace Talk: Shoutouts for Coffee Stainers implementing Update 5 features](../../transcriptions/yt-OfbGW1Nb-XI.md) [https://www.youtube.com/watch?v=OfbGW1Nb-XI](https://www.youtube.com/watch?v=OfbGW1Nb-XI)
 
 ## July 23rd, 2021 Dev Vlog
 * [Q&A: What are some of the biggest challenges you had when working on the Drones?](../../transcriptions/yt-FyOHDcxtEUA,383.7,454.06666666666666.md) [https://youtube.com/embed/FyOHDcxtEUA?autoplay=1&start=383&end=455](https://youtube.com/embed/FyOHDcxtEUA?autoplay=1&start=383&end=455)

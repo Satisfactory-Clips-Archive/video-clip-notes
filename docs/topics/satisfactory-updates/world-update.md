@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > World Update
 
+## October 12th, 2021 Livestream
+* [Q&A: You were doing Caves this patch, would there be any possibility of doing anything Underwater?](../../transcriptions/yt-Y9QwQmUtiws.md) [https://www.youtube.com/watch?v=Y9QwQmUtiws](https://www.youtube.com/watch?v=Y9QwQmUtiws)
+* [Community FYI: #SaveTheWillows](../../transcriptions/yt-jKJ-mBnOxQo.md) [https://www.youtube.com/watch?v=jKJ-mBnOxQo](https://www.youtube.com/watch?v=jKJ-mBnOxQo)
+
 ## October 5th, 2021 Livestream
 * [Q&A: Will Northern Forest be less foggy?](../../transcriptions/yt-4HmDU50SExc.md) [https://www.youtube.com/watch?v=4HmDU50SExc](https://www.youtube.com/watch?v=4HmDU50SExc)
 

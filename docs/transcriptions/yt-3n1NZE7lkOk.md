@@ -9,6 +9,8 @@ topics:
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Q&A: Shouldn't Vehicles despawn after they fall off the World?
 https://www.youtube.com/watch?v=3n1NZE7lkOk
+This question was possibly duplicated with a more recent answer: [October 12th, 2021 Livestream Q&A: Will trucks ever despawn once they hit a certain height below the world?](./yt-hA8GRpYbA9M.md) [https://www.youtube.com/watch?v=hA8GRpYbA9M](https://www.youtube.com/watch?v=hA8GRpYbA9M)
+
 
 ### Topics
 * [Environment > World Map](../topics/environment/world-map.md)

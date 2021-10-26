@@ -10,7 +10,7 @@ topics:
 # [August 24th, 2021 Livestream](../2021-08-24.md)
 ## Q&A: What's the story behind the two FICS⁕MAS items?
 https://www.youtube.com/watch?v=-Z0gUaZ6k_0
-This question was possibly duplicated with a more recent answer: [September 28th, 2021 Livestream Q&A: How do you get Hard Drives that require Holiday Event-specific items?](./yt-eviAiYWLroI.md) [https://www.youtube.com/watch?v=eviAiYWLroI](https://www.youtube.com/watch?v=eviAiYWLroI)
+This question was possibly duplicated with a more recent answer: [October 12th, 2021 Livestream Q&A: Dear Jace & Snutt, can we have FICS⁕MAS items back so I can finish my build off, please?](./yt-fmJkYftGKzg.md) [https://www.youtube.com/watch?v=fmJkYftGKzg](https://www.youtube.com/watch?v=fmJkYftGKzg)
 
 
 ### Topics

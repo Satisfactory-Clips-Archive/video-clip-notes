@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Seasonal Events](../../../topics/satisfactory-updates/seasonal-events.md) > FICS⁕MAS
 
+## October 12th, 2021 Livestream
+* [Q&A: Dear Jace & Snutt, can we have FICS⁕MAS items back so I can finish my build off, please?](../../../transcriptions/yt-fmJkYftGKzg.md) [https://www.youtube.com/watch?v=fmJkYftGKzg](https://www.youtube.com/watch?v=fmJkYftGKzg)
+
 ## September 28th, 2021 Livestream
 * [Q&A: How do you get Hard Drives that require Holiday Event-specific items?](../../../transcriptions/yt-eviAiYWLroI.md) [https://www.youtube.com/watch?v=eviAiYWLroI](https://www.youtube.com/watch?v=eviAiYWLroI)
 * Q&A: Will there be a christmas event? [https://www.youtube.com/watch?v=u2ckbRb5PkA](https://www.youtube.com/watch?v=u2ckbRb5PkA)

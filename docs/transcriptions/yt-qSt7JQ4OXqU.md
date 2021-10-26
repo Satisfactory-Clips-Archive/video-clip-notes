@@ -8,6 +8,8 @@ topics:
 # [October 5th, 2021 Livestream](../2021-10-05.md)
 ## Q&A: Can Stations have the same name?
 https://www.youtube.com/watch?v=qSt7JQ4OXqU
+This question was possibly duplicated with a more recent answer: [October 12th, 2021 Livestream Q&A: Can two stations have the same name, aka parallel stations?](./yt-SxcMqRVMyYE.md) [https://www.youtube.com/watch?v=SxcMqRVMyYE](https://www.youtube.com/watch?v=SxcMqRVMyYE)
+
 
 ### Topics
 * [Features > Transportation > Trains](../topics/features/transportation/trains.md)

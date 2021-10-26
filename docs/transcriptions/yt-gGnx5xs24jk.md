@@ -8,15 +8,7 @@ topics:
 # [September 28th, 2021 Livestream](../2021-09-28.md)
 ## Q&A: State of Golf?
 https://www.youtube.com/watch?v=gGnx5xs24jk
-<details>
-<summary>This question may have been asked previously at least 5 other times, as recently as August 2021 and as early as May 2021.</summary>
-
-* [August 31st, 2021 Livestream Q&A: What about Golf?](./yt-T2ONa1z6jWE.md) [https://www.youtube.com/watch?v=T2ONa1z6jWE](https://www.youtube.com/watch?v=T2ONa1z6jWE)
-* [July 13th, 2021 Livestream Q&A: Golf, when?](./yt-QHzEKv8s86M.md) [https://www.youtube.com/watch?v=QHzEKv8s86M](https://www.youtube.com/watch?v=QHzEKv8s86M)
-* [June 8th, 2021 Livestream Q&A: State of Golf?](./yt-aJVpnKvUiMs.md) [https://www.youtube.com/watch?v=aJVpnKvUiMs](https://www.youtube.com/watch?v=aJVpnKvUiMs)
-* [May 25th, 2021 Livestream Q&A: What's the status of Golf on the QA Site?](./yt-ZW_d-EY-0f4.md) [https://www.youtube.com/watch?v=ZW_d-EY-0f4](https://www.youtube.com/watch?v=ZW_d-EY-0f4)
-* May 11th, 2021 Livestream Q&A: Golf? [https://www.youtube.com/watch?v=iEYrtCLO364](https://www.youtube.com/watch?v=iEYrtCLO364)
-</details>
+This question was possibly duplicated with a more recent answer: [October 12th, 2021 Livestream Q&A: How is Golf doing?](./yt-39UtG3exx2s.md) [https://www.youtube.com/watch?v=39UtG3exx2s](https://www.youtube.com/watch?v=39UtG3exx2s)
 
 
 ### Topics

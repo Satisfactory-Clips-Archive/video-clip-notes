@@ -8,7 +8,7 @@ topics:
 # [January 26th, 2021 Livestream](../2021-01-26.md)
 ## Q&A: VR support would be heavenly?
 https://www.youtube.com/watch?v=0Ld1fbTEOvM
-This question was possibly duplicated with a more recent answer: [June 22nd, 2021 Livestream Q&A: Are there any plans for VR?](./yt-aSo4zUTOCwE.md) [https://www.youtube.com/watch?v=aSo4zUTOCwE](https://www.youtube.com/watch?v=aSo4zUTOCwE)
+This question was possibly duplicated with a more recent answer: [October 12th, 2021 Livestream Q&A: When does VR support come?](./yt-5GIATvK8NVQ.md) [https://www.youtube.com/watch?v=5GIATvK8NVQ](https://www.youtube.com/watch?v=5GIATvK8NVQ)
 
 
 ### Topics

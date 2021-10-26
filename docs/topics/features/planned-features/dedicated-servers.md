@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Planned Features > Dedicated Servers
 
+## October 12th, 2021 Livestream
+* [Q&A: Is there any timescale on being able to set up Servers for Satisfactory?](../../../transcriptions/yt-m2wQcRH7YJE.md) [https://www.youtube.com/watch?v=m2wQcRH7YJE](https://www.youtube.com/watch?v=m2wQcRH7YJE)
+
 ## October 5th, 2021 Livestream
 * Q&A: We need Dedicated Servers, please? [https://www.youtube.com/watch?v=aXdXaVs-JQg](https://www.youtube.com/watch?v=aXdXaVs-JQg)
 * [Q&A: Server Hosting?](../../../transcriptions/yt-Cn6M79rc4kE.md) [https://www.youtube.com/watch?v=Cn6M79rc4kE](https://www.youtube.com/watch?v=Cn6M79rc4kE)

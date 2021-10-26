@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Kibitz
 
+## October 12th, 2021 Livestream
+* [Q&A: Will Truck Stations pick up stuff from another Truck that goes through the Station? (Part 2)](../../transcriptions/yt-2v6NSRXOgrI.md) [https://www.youtube.com/watch?v=2v6NSRXOgrI](https://www.youtube.com/watch?v=2v6NSRXOgrI)
+
 ## September 7th, 2021 Livestream
 * [Snutt Talk: Story behind the build in the Teaser video](../../transcriptions/yt-grzwzYP1ceE.md) [https://www.youtube.com/watch?v=grzwzYP1ceE](https://www.youtube.com/watch?v=grzwzYP1ceE)
 

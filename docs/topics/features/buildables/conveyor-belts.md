@@ -5,6 +5,14 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Conveyor Belts
 
+## October 15th, 2021 Video
+* [Jace Talk: Changes to Snapping of Buildings](../../../transcriptions/yt-jTIAMuPqSlI,286.1859,341.30763333333334.md) [https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=286&end=342](https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=286&end=342)
+* [Jace Talk: Conveyor Belts & Pipes can snap to their own Poles](../../../transcriptions/yt-jTIAMuPqSlI,341.341,369.8695.md) [https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=341&end=370](https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=341&end=370)
+
+## October 12th, 2021 Livestream
+* [Q&A: Let us choose Belt and Lift direction manually, I'll do anything?](../../../transcriptions/yt-3wjuXlBaNIM.md) [https://www.youtube.com/watch?v=3wjuXlBaNIM](https://www.youtube.com/watch?v=3wjuXlBaNIM)
+* [Q&A: Do you plan to increase the Belt speed to 780?](../../../transcriptions/yt-rpK_pbol3-0.md) [https://www.youtube.com/watch?v=rpK_pbol3-0](https://www.youtube.com/watch?v=rpK_pbol3-0)
+
 ## October 5th, 2021 Livestream
 * [Q&A: Done any further look into the Mk.3 Miner and the second output?](../../../transcriptions/yt-hM5HKud0ChI.md) [https://www.youtube.com/watch?v=hM5HKud0ChI](https://www.youtube.com/watch?v=hM5HKud0ChI)
 * [Q&A: Is there going to be a remedy for Mk.3 Miners being bottlenecked?](../../../transcriptions/yt-3m_vqCavleY.md) [https://www.youtube.com/watch?v=3m_vqCavleY](https://www.youtube.com/watch?v=3m_vqCavleY)

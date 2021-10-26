@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Creatures](../../../topics/environment/creatures.md) > Space Giraffe-Tick-Penguin-Whale Thing
 
+## October 12th, 2021 Livestream
+* [Q&A: Are Beans Hard or Soft Clearance?](../../../transcriptions/yt-x2lFfUsOhSE.md) [https://www.youtube.com/watch?v=x2lFfUsOhSE](https://www.youtube.com/watch?v=x2lFfUsOhSE)
+* [Q&A: How did you get the Train derail to hit the Giant Tick monster?](../../../transcriptions/yt-HlqTqzwd_rM.md) [https://www.youtube.com/watch?v=HlqTqzwd_rM](https://www.youtube.com/watch?v=HlqTqzwd_rM)
+
 ## September 14th, 2021 Livestream
 * [Community FYI: Base Defense confirmed](../../../transcriptions/yt-D6z9W_JVTyE.md) [https://www.youtube.com/watch?v=D6z9W_JVTyE](https://www.youtube.com/watch?v=D6z9W_JVTyE)
 * [Q&A: Tick saddles, when?](../../../transcriptions/yt-S2_Ni6CmTFI.md) [https://www.youtube.com/watch?v=S2_Ni6CmTFI](https://www.youtube.com/watch?v=S2_Ni6CmTFI)

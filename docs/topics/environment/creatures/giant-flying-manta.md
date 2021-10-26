@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Creatures](../../../topics/environment/creatures.md) > Giant Flying Manta
 
+## October 12th, 2021 Livestream
+* [Community Highlights: Manta lore](../../../transcriptions/yt-EfmdHVHibCE.md) [https://www.youtube.com/watch?v=EfmdHVHibCE](https://www.youtube.com/watch?v=EfmdHVHibCE)
+
 ## September 14th, 2021 Livestream
 * [Q&A: Will we be able to tame the Manta?](../../../transcriptions/yt-5zg1evaO9gU.md) [https://www.youtube.com/watch?v=5zg1evaO9gU](https://www.youtube.com/watch?v=5zg1evaO9gU)
 

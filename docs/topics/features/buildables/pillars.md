@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Pillars
 
+## October 15th, 2021 Video
+* [Jace Talk: Build Pillars down from Train Lines](../../../transcriptions/yt-jTIAMuPqSlI,218.95206666666667,252.51893333333334.md) [https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=218&end=253](https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=218&end=253)
+
 ## October 5th, 2021 Livestream
 * [Snutt & Jace Talk: Train Signals & Collisions Teaser (Part 5)](../../../transcriptions/yt-cCOc9PbRlYY.md) [https://www.youtube.com/watch?v=cCOc9PbRlYY](https://www.youtube.com/watch?v=cCOc9PbRlYY)
 * [Q&A: How does the Horizontal Small Pillar work?](../../../transcriptions/yt-xQpLYJeDwJ8.md) [https://www.youtube.com/watch?v=xQpLYJeDwJ8](https://www.youtube.com/watch?v=xQpLYJeDwJ8)

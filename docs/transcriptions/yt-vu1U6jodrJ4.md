@@ -9,12 +9,7 @@ topics:
 # [June 8th, 2021 Livestream](../2021-06-08.md)
 ## Q&A: Tier 9, when?
 https://www.youtube.com/watch?v=vu1U6jodrJ4
-<details>
-<summary>This question may have been asked previously at least 2 other times, as recently as April 2021 and as early as August 2020.</summary>
-
-* [April 27th, 2021 Livestream Q&A: Tier 9, any plan?](./yt-qTNbKJ6Ys0M.md) [https://www.youtube.com/watch?v=qTNbKJ6Ys0M](https://www.youtube.com/watch?v=qTNbKJ6Ys0M)
-* [August 25th, 2020 Livestream Q&A: What is expected for Tier 9?](./yt-EAOiEQn7E5A.md) [https://www.youtube.com/watch?v=EAOiEQn7E5A](https://www.youtube.com/watch?v=EAOiEQn7E5A)
-</details>
+This question was possibly duplicated with a more recent answer: [October 12th, 2021 Livestream Q&A: Will there be Tier 9?](./yt-DHdUONkXgHk.md) [https://www.youtube.com/watch?v=DHdUONkXgHk](https://www.youtube.com/watch?v=DHdUONkXgHk)
 
 
 ### Topics

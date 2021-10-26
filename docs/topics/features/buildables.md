@@ -18,6 +18,17 @@ date: Last Modified
 * [Walls](../../topics/features/buildables/walls.md)
 * [Windows](../../topics/features/buildables/windows.md)
 
+## October 15th, 2021 Video
+* [Jace Talk: Ramp snapping improvements](../../transcriptions/yt-jTIAMuPqSlI,54.6546,80.08.md) [https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=54&end=81](https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=54&end=81)
+* [Jace Talk: More freedom with Stairs](../../transcriptions/yt-jTIAMuPqSlI,149.58276666666666,173.49957.md) [https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=149&end=174](https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=149&end=174)
+* [Jace Talk: Build Pillars down from Train Lines](../../transcriptions/yt-jTIAMuPqSlI,218.95206666666667,252.51893333333334.md) [https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=218&end=253](https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=218&end=253)
+
+## October 12th, 2021 Livestream
+* [Q&A: How close can you build Train lines before Trains actually collide?](../../transcriptions/yt-JvaXVtsL9jA.md) [https://www.youtube.com/watch?v=JvaXVtsL9jA](https://www.youtube.com/watch?v=JvaXVtsL9jA)
+* [Q&A: Will Trains derail if they run out of track?](../../transcriptions/yt-2ZSa-x9tGEk.md) [https://www.youtube.com/watch?v=2ZSa-x9tGEk](https://www.youtube.com/watch?v=2ZSa-x9tGEk)
+* [Q&A: Changes to rail placement?](../../transcriptions/yt-sAE9XVl-jHA.md) [https://www.youtube.com/watch?v=sAE9XVl-jHA](https://www.youtube.com/watch?v=sAE9XVl-jHA)
+* [Q&A: Will you ever consider adding rails to the Map, would be nice to see a full rail network?](../../transcriptions/yt-aLy9En9UbqI.md) [https://www.youtube.com/watch?v=aLy9En9UbqI](https://www.youtube.com/watch?v=aLy9En9UbqI)
+
 ## October 8th, 2021 Video
 * [Jace Talk: Train Signals](../../transcriptions/yt-CskxkIepX6Y,326.19253333333336,345.71203333333335.md) [https://youtube.com/clip/Ugkxafni_0V2A90Q7IgLuLDlDC0GVqmT9q9Q](https://youtube.com/clip/Ugkxafni_0V2A90Q7IgLuLDlDC0GVqmT9q9Q)
 * [Jace Talk: Block Signals](../../transcriptions/yt-CskxkIepX6Y,355.3883666666667,468.53473333333335.md) [https://youtube.com/embed/CskxkIepX6Y?autoplay=1&start=355&end=469](https://youtube.com/embed/CskxkIepX6Y?autoplay=1&start=355&end=469)

@@ -9,7 +9,7 @@ topics:
 # [February 2nd, 2021 Livestream](../2021-02-02.md)
 ## Q&A: Mk.6 Belt in the next Update?
 https://www.youtube.com/watch?v=DpT2LNED0wk
-This question was possibly duplicated with a more recent answer: [September 14th, 2021 Livestream Q&A: Will we get a Mk.6 Belt in the future?](./yt-CQNpIStn7SM.md) [https://www.youtube.com/watch?v=CQNpIStn7SM](https://www.youtube.com/watch?v=CQNpIStn7SM)
+This question was possibly duplicated with a more recent answer: [October 12th, 2021 Livestream Q&A: Do you plan to increase the Belt speed to 780?](./yt-rpK_pbol3-0.md) [https://www.youtube.com/watch?v=rpK_pbol3-0](https://www.youtube.com/watch?v=rpK_pbol3-0)
 
 
 ### Topics

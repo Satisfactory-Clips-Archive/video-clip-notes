@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../topics.md) > Localisation
 * [Localization Community Highlight](../topics/localisation/localization-community-highlight.md)
 
+## October 12th, 2021 Livestream
+* [Q&A: How can I change the language to Pirate?](../transcriptions/yt-afBBnes2wzE.md) [https://www.youtube.com/watch?v=afBBnes2wzE](https://www.youtube.com/watch?v=afBBnes2wzE)
+
 ## August 24th, 2021 Livestream
 * [Community FYI: Update 5, minor updates to Localisation](../transcriptions/yt-87F-g76Bx9A.md) [https://www.youtube.com/watch?v=87F-g76Bx9A](https://www.youtube.com/watch?v=87F-g76Bx9A)
 

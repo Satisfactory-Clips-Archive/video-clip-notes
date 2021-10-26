@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Easter Eggs
 
+## October 12th, 2021 Livestream
+* [Q&A: There's always been secrets in Updates, will there be secrets in Update 5?](../transcriptions/yt-R8AbNs9YNSI.md) [https://www.youtube.com/watch?v=R8AbNs9YNSI](https://www.youtube.com/watch?v=R8AbNs9YNSI)
+* [Q&A: Is the reminder coming back where it tells you you're a potato for playing for 2 hours?](../transcriptions/yt-pSBR2kkCdB0.md) [https://www.youtube.com/watch?v=pSBR2kkCdB0](https://www.youtube.com/watch?v=pSBR2kkCdB0)
+
 ## September 28th, 2021 Livestream
 * [Q&A: Any new Halloween easter eggs ?](../transcriptions/yt--226kRinKxI.md) [https://www.youtube.com/watch?v=-226kRinKxI](https://www.youtube.com/watch?v=-226kRinKxI)
 

@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > Transportation > [Vehicles](../../../../topics/features/transportation/vehicles.md) > Truck
 
+## October 12th, 2021 Livestream
+* [Q&A: Will there ever be Rail crossings and will they interact with Truck autopilot?](../../../../transcriptions/yt-iBHxLQCXYNk.md) [https://www.youtube.com/watch?v=iBHxLQCXYNk](https://www.youtube.com/watch?v=iBHxLQCXYNk)
+* [Q&A: Will Trucks queue up behind a station if another Truck is there?](../../../../transcriptions/yt-RIQ0Lzb4DZ8.md) [https://www.youtube.com/watch?v=RIQ0Lzb4DZ8](https://www.youtube.com/watch?v=RIQ0Lzb4DZ8)
+* [Q&A: Will trucks ever despawn once they hit a certain height below the world?](../../../../transcriptions/yt-hA8GRpYbA9M.md) [https://www.youtube.com/watch?v=hA8GRpYbA9M](https://www.youtube.com/watch?v=hA8GRpYbA9M)
+
 ## September 14th, 2021 Livestream
 * [Community FYI: Base Defense confirmed](../../../../transcriptions/yt-D6z9W_JVTyE.md) [https://www.youtube.com/watch?v=D6z9W_JVTyE](https://www.youtube.com/watch?v=D6z9W_JVTyE)
 * [Snutt & Jace Talk: Changes to Truck Station](../../../../transcriptions/yt-AhdmXJTAAsc.md) [https://www.youtube.com/watch?v=AhdmXJTAAsc](https://www.youtube.com/watch?v=AhdmXJTAAsc)

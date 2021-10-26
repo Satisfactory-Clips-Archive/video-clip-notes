@@ -14,6 +14,12 @@ date: Last Modified
 * [Steel](../../topics/environment/resources/steel.md)
 * [Water](../../topics/environment/resources/water.md)
 
+## October 12th, 2021 Livestream
+* [Q&A: What happens to goods crashed in Trains?](../../transcriptions/yt-nSeeOkx2K3w.md) [https://www.youtube.com/watch?v=nSeeOkx2K3w](https://www.youtube.com/watch?v=nSeeOkx2K3w)
+* [Q&A: Any way to tell a Station to deposit only the specific freight/liquid cart?](../../transcriptions/yt-CeKdl2MMLc0.md) [https://www.youtube.com/watch?v=CeKdl2MMLc0](https://www.youtube.com/watch?v=CeKdl2MMLc0)
+* [Q&A: Dear Jace & Snutt, can we have FICS⁕MAS items back so I can finish my build off, please?](../../transcriptions/yt-fmJkYftGKzg.md) [https://www.youtube.com/watch?v=fmJkYftGKzg](https://www.youtube.com/watch?v=fmJkYftGKzg)
+* [Q&A: Can we have a laser gun that uses Battery packs, please?](../../transcriptions/yt-bhnEq9lV_7w.md) [https://www.youtube.com/watch?v=bhnEq9lV_7w](https://www.youtube.com/watch?v=bhnEq9lV_7w)
+
 ## October 5th, 2021 Livestream
 * [Q&A: What happens with the Resources when the Trains crash?](../../transcriptions/yt-wsIuSnxN7lg.md) [https://www.youtube.com/watch?v=wsIuSnxN7lg](https://www.youtube.com/watch?v=wsIuSnxN7lg)
 * [Community FYI: You have to pick up each item 1 by 1, stacked separately](../../transcriptions/yt-VxwzQwe0O1A.md) [https://www.youtube.com/watch?v=VxwzQwe0O1A](https://www.youtube.com/watch?v=VxwzQwe0O1A)

@@ -9,7 +9,7 @@ topics:
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Q&A: Have you looked into shit for Multiplayer/Dedicated Server stuff?
 https://www.youtube.com/watch?v=KGmOM7dLT84
-This question was possibly duplicated with a more recent answer: October 5th, 2021 Livestream Q&A: We need Dedicated Servers, please? [https://www.youtube.com/watch?v=aXdXaVs-JQg](https://www.youtube.com/watch?v=aXdXaVs-JQg)
+This question was possibly duplicated with a more recent answer: [October 12th, 2021 Livestream Q&A: Is there any timescale on being able to set up Servers for Satisfactory?](./yt-m2wQcRH7YJE.md) [https://www.youtube.com/watch?v=m2wQcRH7YJE](https://www.youtube.com/watch?v=m2wQcRH7YJE)
 
 
 ### Topics

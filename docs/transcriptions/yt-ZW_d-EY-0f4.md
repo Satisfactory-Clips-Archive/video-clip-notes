@@ -12,7 +12,7 @@ topics:
 # [May 25th, 2021 Livestream](../2021-05-25.md)
 ## Q&A: What's the status of Golf on the QA Site?
 https://www.youtube.com/watch?v=ZW_d-EY-0f4
-This question was possibly duplicated with a more recent answer: [September 28th, 2021 Livestream Q&A: State of Golf?](./yt-gGnx5xs24jk.md) [https://www.youtube.com/watch?v=gGnx5xs24jk](https://www.youtube.com/watch?v=gGnx5xs24jk)
+This question was possibly duplicated with a more recent answer: [October 12th, 2021 Livestream Q&A: How is Golf doing?](./yt-39UtG3exx2s.md) [https://www.youtube.com/watch?v=39UtG3exx2s](https://www.youtube.com/watch?v=39UtG3exx2s)
 
 
 ### Topics

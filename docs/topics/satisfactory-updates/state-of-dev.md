@@ -5,6 +5,12 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > State of Dev
 
+## October 12th, 2021 Livestream
+* [State of Dev: 2 weeks until Update 5 lands on Experimental](../../transcriptions/yt-TyfO900mn3g.md) [https://www.youtube.com/watch?v=TyfO900mn3g](https://www.youtube.com/watch?v=TyfO900mn3g)
+* [State of Dev: Update 5 Patch Notes Video pre-production & filming](../../transcriptions/yt-uIHGjm713qY.md) [https://www.youtube.com/watch?v=uIHGjm713qY](https://www.youtube.com/watch?v=uIHGjm713qY)
+* [State of Dev: Content Freeze & Update 5 bug fixing](../../transcriptions/yt-Y9AP1lwBJbo.md) [https://www.youtube.com/watch?v=Y9AP1lwBJbo](https://www.youtube.com/watch?v=Y9AP1lwBJbo)
+* [Q&A: How is Golf doing?](../../transcriptions/yt-39UtG3exx2s.md) [https://www.youtube.com/watch?v=39UtG3exx2s](https://www.youtube.com/watch?v=39UtG3exx2s)
+
 ## September 28th, 2021 Livestream
 * [State of Dev: Update 5 Release Date](../../transcriptions/yt-dAfszSKXuYk.md) [https://www.youtube.com/watch?v=dAfszSKXuYk](https://www.youtube.com/watch?v=dAfszSKXuYk)
 * [State of Dev: Engine Update](../../transcriptions/yt-tF4LNEGUVnk.md) [https://www.youtube.com/watch?v=tF4LNEGUVnk](https://www.youtube.com/watch?v=tF4LNEGUVnk)

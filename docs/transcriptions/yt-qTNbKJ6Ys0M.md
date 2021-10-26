@@ -9,7 +9,7 @@ topics:
 # [April 27th, 2021 Livestream](../2021-04-27.md)
 ## Q&A: Tier 9, any plan?
 https://www.youtube.com/watch?v=qTNbKJ6Ys0M
-This question was possibly duplicated with a more recent answer: [June 8th, 2021 Livestream Q&A: Tier 9, when?](./yt-vu1U6jodrJ4.md) [https://www.youtube.com/watch?v=vu1U6jodrJ4](https://www.youtube.com/watch?v=vu1U6jodrJ4)
+This question was possibly duplicated with a more recent answer: [October 12th, 2021 Livestream Q&A: Will there be Tier 9?](./yt-DHdUONkXgHk.md) [https://www.youtube.com/watch?v=DHdUONkXgHk](https://www.youtube.com/watch?v=DHdUONkXgHk)
 
 
 ### Topics

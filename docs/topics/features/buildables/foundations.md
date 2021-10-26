@@ -6,6 +6,10 @@ date: Last Modified
 # [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Foundations
 * [Cheatcrete](../../../topics/features/buildables/foundations/cheatcrete.md)
 
+## October 15th, 2021 Video
+* [Jace Talk: Ramp snapping improvements](../../../transcriptions/yt-jTIAMuPqSlI,54.6546,80.08.md) [https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=54&end=81](https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=54&end=81)
+* [Jace Talk: Additional Rotations for Foundatings that are Snapping](../../../transcriptions/yt-jTIAMuPqSlI,252.5523,286.15253333333334.md) [https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=252&end=287](https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=252&end=287)
+
 ## October 5th, 2021 Livestream
 * [Q&A: No floating platforms any more?](../../../transcriptions/yt-o_kTaVSOdg4.md) [https://www.youtube.com/watch?v=o_kTaVSOdg4](https://www.youtube.com/watch?v=o_kTaVSOdg4)
 

@@ -6,6 +6,16 @@ date: Last Modified
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > User Interface
 * [Holograms](../../topics/technology/user-interface/holograms.md)
 
+## October 15th, 2021 Video
+* [Jace Talk: You can now modify Hologram colours to your liking](../../transcriptions/yt-jTIAMuPqSlI,369.9028666666667,396.86313333333334.md) [https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=369&end=397](https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=369&end=397)
+
+## October 12th, 2021 Livestream
+* [Q&A: Will there be any visual map overlay of the blocks?](../../transcriptions/yt-yAFL-BUeu9E.md) [https://www.youtube.com/watch?v=yAFL-BUeu9E](https://www.youtube.com/watch?v=yAFL-BUeu9E)
+* [Q&A: Could you talk about the station changes for those who might not understand the filtering?](../../transcriptions/yt-Wfems7cEZLo.md) [https://www.youtube.com/watch?v=Wfems7cEZLo](https://www.youtube.com/watch?v=Wfems7cEZLo)
+* [Q&A: Will you ever consider adding rails to the Map, would be nice to see a full rail network?](../../transcriptions/yt-aLy9En9UbqI.md) [https://www.youtube.com/watch?v=aLy9En9UbqI](https://www.youtube.com/watch?v=aLy9En9UbqI)
+* [Q&A: Could you hire a content designer to make your error messages more helpful?](../../transcriptions/yt-viwaU8gV4M8.md) [https://www.youtube.com/watch?v=viwaU8gV4M8](https://www.youtube.com/watch?v=viwaU8gV4M8)
+* [Q&A: Is the reminder coming back where it tells you you're a potato for playing for 2 hours?](../../transcriptions/yt-pSBR2kkCdB0.md) [https://www.youtube.com/watch?v=pSBR2kkCdB0](https://www.youtube.com/watch?v=pSBR2kkCdB0)
+
 ## October 8th, 2021 Video
 * [Jace Talk: Signals can have error messages](../../transcriptions/yt-CskxkIepX6Y,694.8942000000001,721.4207.md) [https://youtube.com/clip/UgkxzCNl0kt7cACA1jxssIPoDuNwGPeVqf1C](https://youtube.com/clip/UgkxzCNl0kt7cACA1jxssIPoDuNwGPeVqf1C)
 * [Jace Talk: Signal feedback is somewhat kinda limited](../../transcriptions/yt-CskxkIepX6Y,721.4540666666667,788.8547333333333.md) [https://youtube.com/embed/CskxkIepX6Y?autoplay=1&start=721&end=789](https://youtube.com/embed/CskxkIepX6Y?autoplay=1&start=721&end=789)

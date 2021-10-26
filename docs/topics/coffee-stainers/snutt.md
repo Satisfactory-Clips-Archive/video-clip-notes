@@ -6,6 +6,13 @@ date: Last Modified
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Snutt
 * [Snutt Burger Time](../../topics/coffee-stainers/snutt/snutt-burger-time.md)
 
+## October 12th, 2021 Livestream
+* [Q&A: If Snutt & Jace are trolls, would they live under the bridge?](../../transcriptions/yt-9g3cWpNsCDE.md) [https://www.youtube.com/watch?v=9g3cWpNsCDE](https://www.youtube.com/watch?v=9g3cWpNsCDE)
+* [Q&A: Can we have another session of Jace & Snutt read the Wiki?](../../transcriptions/yt-6WjoS7xM-tE.md) [https://www.youtube.com/watch?v=6WjoS7xM-tE](https://www.youtube.com/watch?v=6WjoS7xM-tE)
+* [Q&A: How much bread do you get per answered question?](../../transcriptions/yt--NfMijRlbdw.md) [https://www.youtube.com/watch?v=-NfMijRlbdw](https://www.youtube.com/watch?v=-NfMijRlbdw)
+* [Q&A: Was matching beards part of the plan, because you two are winning?](../../transcriptions/yt-7vNRnY41idI.md) [https://www.youtube.com/watch?v=7vNRnY41idI](https://www.youtube.com/watch?v=7vNRnY41idI)
+* [Q&A: What are you doing for dinner tonight, Snutt?](../../transcriptions/yt-3Li4IIooQmk.md) [https://www.youtube.com/watch?v=3Li4IIooQmk](https://www.youtube.com/watch?v=3Li4IIooQmk)
+
 ## October 5th, 2021 Livestream
 * [Q&A: Bring back beardless Snutt?](../../transcriptions/yt-2Deg1HJzcZ4.md) [https://www.youtube.com/watch?v=2Deg1HJzcZ4](https://www.youtube.com/watch?v=2Deg1HJzcZ4)
 * Snutt Talk: Born with a beard [https://www.youtube.com/watch?v=dQTz_wN4iXc](https://www.youtube.com/watch?v=dQTz_wN4iXc)

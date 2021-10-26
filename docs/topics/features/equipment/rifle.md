@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Equipment](../../../topics/features/equipment.md) > Rifle
 
+## October 12th, 2021 Livestream
+* [Q&A: Mk.2 Rifle returnning, when?](../../../transcriptions/yt-9TvXDVIoi9s.md) [https://www.youtube.com/watch?v=9TvXDVIoi9s](https://www.youtube.com/watch?v=9TvXDVIoi9s)
+
 ## August 17th, 2021 Livestream
 * [Snutt & Jace Talk: Add back the Rifle Mk.2 but make it worse](../../../transcriptions/yt-_qJufAxzJq0.md) [https://www.youtube.com/watch?v=_qJufAxzJq0](https://www.youtube.com/watch?v=_qJufAxzJq0)
 

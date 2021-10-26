@@ -218,9 +218,11 @@ date: Last Modified
 * [Signs](./topics/features/planned-features/signs.md)
 
 ### [Build Modes](./topics/features/planned-features/build-modes.md)
-* [Hard & Soft Clearance](./topics/features/planned-features/build-modes/hard-soft-clearance.md)
 * [Quick Switch](./topics/features/planned-features/build-modes/quick-switch.md)
 * [Zooping](./topics/features/planned-features/build-modes/zooping.md)
+
+#### [Hard & Soft Clearance](./topics/features/planned-features/build-modes/hard-soft-clearance.md)
+* [Complex Clearance](./topics/features/planned-features/build-modes/hard-soft-clearance/complex-clearance.md)
 ---
 
 ## Possible Features

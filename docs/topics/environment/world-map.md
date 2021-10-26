@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Environment](../../topics/environment.md) > World Map
 
+## October 12th, 2021 Livestream
+* [Q&A: Will there be any visual map overlay of the blocks?](../../transcriptions/yt-yAFL-BUeu9E.md) [https://www.youtube.com/watch?v=yAFL-BUeu9E](https://www.youtube.com/watch?v=yAFL-BUeu9E)
+* [Q&A: Will you ever consider adding rails to the Map, would be nice to see a full rail network?](../../transcriptions/yt-aLy9En9UbqI.md) [https://www.youtube.com/watch?v=aLy9En9UbqI](https://www.youtube.com/watch?v=aLy9En9UbqI)
+
 ## September 28th, 2021 Livestream
 * [Q&A: Are you going to add some sort of Building visualisation onto the game map?](../../transcriptions/yt-Be7CmOGzg_Y.md) [https://www.youtube.com/watch?v=Be7CmOGzg_Y](https://www.youtube.com/watch?v=Be7CmOGzg_Y)
 

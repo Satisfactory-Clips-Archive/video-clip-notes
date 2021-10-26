@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > Planned Features > [Build Modes](../../../../topics/features/planned-features/build-modes.md) > Zooping
 
+## October 15th, 2021 Video
+* [Jace Talk: Zooping](../../../../transcriptions/yt-jTIAMuPqSlI,80.11336666666666,149.5494.md) [https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=80&end=150](https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=80&end=150)
+
 ## October 5th, 2021 Livestream
 * [Q&A: Zoop 50 slots, like destroying?](../../../../transcriptions/yt--Yr4UJlDy-o.md) [https://www.youtube.com/watch?v=-Yr4UJlDy-o](https://www.youtube.com/watch?v=-Yr4UJlDy-o)
 * [Q&A: Does Zooping maintain the direction of the original piece?](../../../../transcriptions/yt-n1D2PCqQArI.md) [https://www.youtube.com/watch?v=n1D2PCqQArI](https://www.youtube.com/watch?v=n1D2PCqQArI)

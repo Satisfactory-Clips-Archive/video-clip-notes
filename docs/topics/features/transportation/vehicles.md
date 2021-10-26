@@ -12,6 +12,13 @@ date: Last Modified
 * [Tractor](../../../topics/features/transportation/vehicles/tractor.md)
 * [Truck](../../../topics/features/transportation/vehicles/truck.md)
 
+## October 12th, 2021 Livestream
+* [Q&A: Will trucks ever despawn once they hit a certain height below the world?](../../../transcriptions/yt-hA8GRpYbA9M.md) [https://www.youtube.com/watch?v=hA8GRpYbA9M](https://www.youtube.com/watch?v=hA8GRpYbA9M)
+* [Q&A: Wasn't the Vehicle rework meant to be Jace's job?](../../../transcriptions/yt-iMiv4fo4p5Q.md) [https://www.youtube.com/watch?v=iMiv4fo4p5Q](https://www.youtube.com/watch?v=iMiv4fo4p5Q)
+* [Q&A: Will Truck Stations pick up stuff from another Truck that goes through the Station? (Part 1)](../../../transcriptions/yt-XeH9sho3lBE.md) [https://www.youtube.com/watch?v=XeH9sho3lBE](https://www.youtube.com/watch?v=XeH9sho3lBE)
+* [Q&A: Will Truck Stations pick up stuff from another Truck that goes through the Station? (Part 2)](../../../transcriptions/yt-2v6NSRXOgrI.md) [https://www.youtube.com/watch?v=2v6NSRXOgrI](https://www.youtube.com/watch?v=2v6NSRXOgrI)
+* [Q&A: Will Truck Lights finally work in Update 5?](../../../transcriptions/yt-35iZLfgEF0A.md) [https://www.youtube.com/watch?v=35iZLfgEF0A](https://www.youtube.com/watch?v=35iZLfgEF0A)
+
 ## October 5th, 2021 Livestream
 * [Q&A: Will we be able to Paint Vehicles at some point?](../../../transcriptions/yt-QvxM4Cp6B3U.md) [https://www.youtube.com/watch?v=QvxM4Cp6B3U](https://www.youtube.com/watch?v=QvxM4Cp6B3U)
 * [Q&A: Plans to add more Vehicles?](../../../transcriptions/yt-OUZzVPXgtSM.md) [https://www.youtube.com/watch?v=OUZzVPXgtSM](https://www.youtube.com/watch?v=OUZzVPXgtSM)

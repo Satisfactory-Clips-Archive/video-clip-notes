@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Unplanned Features](../../../topics/features/unplanned-features.md) > VR
 
+## October 12th, 2021 Livestream
+* [Q&A: When does VR support come?](../../../transcriptions/yt-5GIATvK8NVQ.md) [https://www.youtube.com/watch?v=5GIATvK8NVQ](https://www.youtube.com/watch?v=5GIATvK8NVQ)
+
 ## August 17th, 2021 Livestream
 * [Q&A: Does Hannah use VR when editing the world?](../../../transcriptions/yt-bbAIZkim4Ww.md) [https://www.youtube.com/watch?v=bbAIZkim4Ww](https://www.youtube.com/watch?v=bbAIZkim4Ww)
 

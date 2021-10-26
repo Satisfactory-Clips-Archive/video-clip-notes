@@ -8,7 +8,7 @@ topics:
 # [July 30th, 2020 Mod Highlight](../2020-07-30.md)
 ## Q&A: When are we getting Signs?
 https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=1744&end=1754
-This question was possibly duplicated with a more recent answer: [October 5th, 2021 Livestream Q&A: Signs coming when, it's most wanted in QA?](./yt-E6TuyMSKYqI.md) [https://www.youtube.com/watch?v=E6TuyMSKYqI](https://www.youtube.com/watch?v=E6TuyMSKYqI)
+This question was possibly duplicated with a more recent answer: [October 12th, 2021 Livestream Q&A: Any sign of Signs?](./yt-omx5xQbct6w.md) [https://www.youtube.com/watch?v=omx5xQbct6w](https://www.youtube.com/watch?v=omx5xQbct6w)
 
 
 ### Topics

@@ -8,7 +8,7 @@ topics:
 # [June 1st, 2021 Livestream](../2021-06-01.md)
 ## Q&A: Updates on Dedicated Servers?
 https://www.youtube.com/watch?v=JGj3aITwDg8
-This question was possibly duplicated with a more recent answer: October 5th, 2021 Livestream Q&A: We need Dedicated Servers, please? [https://www.youtube.com/watch?v=aXdXaVs-JQg](https://www.youtube.com/watch?v=aXdXaVs-JQg)
+This question was possibly duplicated with a more recent answer: [October 12th, 2021 Livestream Q&A: Is there any timescale on being able to set up Servers for Satisfactory?](./yt-m2wQcRH7YJE.md) [https://www.youtube.com/watch?v=m2wQcRH7YJE](https://www.youtube.com/watch?v=m2wQcRH7YJE)
 
 
 ### Topics

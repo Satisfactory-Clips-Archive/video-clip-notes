@@ -5,6 +5,15 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Embracer Group](../../../topics/embracer-group.md) > Coffee Stain Holding > Coffee Stain Studios
 
+## October 15th, 2021 Video
+* [Jace Talk: We're hiring for a Generalist Game Designer](../../../transcriptions/yt-jTIAMuPqSlI,24.051364,54.621233333333336.md) [https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=24&end=55](https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=24&end=55)
+
+## October 12th, 2021 Livestream
+* [Snutt & Jace Talk: Coffee Stain Studio's YouTube channel](../../../transcriptions/yt-IVwd8yh87q8.md) [https://www.youtube.com/watch?v=IVwd8yh87q8](https://www.youtube.com/watch?v=IVwd8yh87q8)
+* [Snutt & Jace Talk: Coffee Stain Studios has a job opening for a Generalist Game Designer](../../../transcriptions/yt-CBj_PB4usco.md) [https://www.youtube.com/watch?v=CBj_PB4usco](https://www.youtube.com/watch?v=CBj_PB4usco)
+* [Q&A: Since you put the position for Game Designer in Skövde, do you have plans for interns?](../../../transcriptions/yt-0nVP8r62DHg.md) [https://www.youtube.com/watch?v=0nVP8r62DHg](https://www.youtube.com/watch?v=0nVP8r62DHg)
+* [Q&A: Since I can't find the age restrictions for interns on the website can I ask what those are?](../../../transcriptions/yt-V_2RRi_Hf0A.md) [https://www.youtube.com/watch?v=V_2RRi_Hf0A](https://www.youtube.com/watch?v=V_2RRi_Hf0A)
+
 ## October 5th, 2021 Livestream
 * [Q&A: I thought Coffee Stain Studios released Valheim?](../../../transcriptions/yt-jjOM5IpsAiw.md) [https://www.youtube.com/watch?v=jjOM5IpsAiw](https://www.youtube.com/watch?v=jjOM5IpsAiw)
 

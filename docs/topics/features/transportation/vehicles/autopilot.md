@@ -5,6 +5,12 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > Transportation > [Vehicles](../../../../topics/features/transportation/vehicles.md) > Autopilot
 
+## October 12th, 2021 Livestream
+* [Q&A: Will there ever be Rail crossings and will they interact with Truck autopilot?](../../../../transcriptions/yt-iBHxLQCXYNk.md) [https://www.youtube.com/watch?v=iBHxLQCXYNk](https://www.youtube.com/watch?v=iBHxLQCXYNk)
+* [Q&A: Will Trucks queue up behind a station if another Truck is there?](../../../../transcriptions/yt-RIQ0Lzb4DZ8.md) [https://www.youtube.com/watch?v=RIQ0Lzb4DZ8](https://www.youtube.com/watch?v=RIQ0Lzb4DZ8)
+* [Q&A: Will Truck Stations pick up stuff from another Truck that goes through the Station? (Part 1)](../../../../transcriptions/yt-XeH9sho3lBE.md) [https://www.youtube.com/watch?v=XeH9sho3lBE](https://www.youtube.com/watch?v=XeH9sho3lBE)
+* [Q&A: Will Truck Stations pick up stuff from another Truck that goes through the Station? (Part 2)](../../../../transcriptions/yt-2v6NSRXOgrI.md) [https://www.youtube.com/watch?v=2v6NSRXOgrI](https://www.youtube.com/watch?v=2v6NSRXOgrI)
+
 ## September 21st, 2021 Livestream
 * [Q&A: What happens if an automated Vehicle runs out of Fuel?](../../../../transcriptions/yt-RalQ17zg3tc.md) [https://www.youtube.com/watch?v=RalQ17zg3tc](https://www.youtube.com/watch?v=RalQ17zg3tc)
 * [Q&A: Will the spline be visible to players or only limited to the way points?](../../../../transcriptions/yt-_71h_WKygcg.md) [https://www.youtube.com/watch?v=_71h_WKygcg](https://www.youtube.com/watch?v=_71h_WKygcg)

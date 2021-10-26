@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Possible Features > Weather Systems
 
+## October 12th, 2021 Livestream
+* [Q&A: Will there ever be rain and extreme Weather in Satisfactory?](../../../transcriptions/yt-ukLbdvyFk-E.md) [https://www.youtube.com/watch?v=ukLbdvyFk-E](https://www.youtube.com/watch?v=ukLbdvyFk-E)
+
 ## October 5th, 2021 Livestream
 * [Q&A: Will Northern Forest be less foggy?](../../../transcriptions/yt-4HmDU50SExc.md) [https://www.youtube.com/watch?v=4HmDU50SExc](https://www.youtube.com/watch?v=4HmDU50SExc)
 

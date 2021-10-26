@@ -8,6 +8,20 @@ date: Last Modified
 * [Quick Switch](../../../topics/features/planned-features/build-modes/quick-switch.md)
 * [Zooping](../../../topics/features/planned-features/build-modes/zooping.md)
 
+## October 15th, 2021 Video
+* [Jace Talk: Ramp snapping improvements](../../../transcriptions/yt-jTIAMuPqSlI,54.6546,80.08.md) [https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=54&end=81](https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=54&end=81)
+* [Jace Talk: More freedom with Stairs](../../../transcriptions/yt-jTIAMuPqSlI,149.58276666666666,173.49957.md) [https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=149&end=174](https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=149&end=174)
+* [Jace Talk: Snap walkways to Buildings](../../../transcriptions/yt-jTIAMuPqSlI,173.54003333333333,218.9187.md) [https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=173&end=219](https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=173&end=219)
+* [Jace Talk: Build Pillars down from Train Lines](../../../transcriptions/yt-jTIAMuPqSlI,218.95206666666667,252.51893333333334.md) [https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=218&end=253](https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=218&end=253)
+* [Jace Talk: Additional Rotations for Foundatings that are Snapping](../../../transcriptions/yt-jTIAMuPqSlI,252.5523,286.15253333333334.md) [https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=252&end=287](https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=252&end=287)
+* [Jace Talk: Changes to Snapping of Buildings](../../../transcriptions/yt-jTIAMuPqSlI,286.1859,341.30763333333334.md) [https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=286&end=342](https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=286&end=342)
+* [Jace Talk: Conveyor Belts & Pipes can snap to their own Poles](../../../transcriptions/yt-jTIAMuPqSlI,341.341,369.8695.md) [https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=341&end=370](https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=341&end=370)
+* [Jace Talk: Hard & Soft Clearance, some Buildings now have Complex Clearance](../../../transcriptions/yt-jTIAMuPqSlI,396.8965,496.86303333333336.md) [https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=396&end=497](https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=396&end=497)
+* [Jace Talk: List of Buildings with Complex Clearance](../../../transcriptions/yt-jTIAMuPqSlI,496.8964,518.4179.md) [https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=496&end=519](https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=496&end=519)
+
+## October 12th, 2021 Livestream
+* [Q&A: Let us choose Belt and Lift direction manually, I'll do anything?](../../../transcriptions/yt-3wjuXlBaNIM.md) [https://www.youtube.com/watch?v=3wjuXlBaNIM](https://www.youtube.com/watch?v=3wjuXlBaNIM)
+
 ## October 5th, 2021 Livestream
 * [Q&A: Grid for Pipes?](../../../transcriptions/yt-IQTbgZsbfVc.md) [https://www.youtube.com/watch?v=IQTbgZsbfVc](https://www.youtube.com/watch?v=IQTbgZsbfVc)
 * [Q&A: Any plans for separating the Build Hologram from the Pioneer camera?](../../../transcriptions/yt-q_MH95NWEbQ.md) [https://www.youtube.com/watch?v=q_MH95NWEbQ](https://www.youtube.com/watch?v=q_MH95NWEbQ)

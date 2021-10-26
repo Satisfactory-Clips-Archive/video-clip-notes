@@ -11,12 +11,7 @@ topics:
 # [September 28th, 2021 Livestream](../2021-09-28.md)
 ## Q&A: How do you get Hard Drives that require Holiday Event-specific items?
 https://www.youtube.com/watch?v=eviAiYWLroI
-<details>
-<summary>This question may have been asked previously at least 2 other times, as recently as September 2021 and as early as August 2021.</summary>
-
-* [September 21st, 2021 Livestream Q&A: What is the plan with Quantum Computers & Superposition Oscillators?](./yt-xhMTIK3LMPw.md) [https://www.youtube.com/watch?v=xhMTIK3LMPw](https://www.youtube.com/watch?v=xhMTIK3LMPw)
-* [August 24th, 2021 Livestream Q&A: What's the story behind the two FICS⁕MAS items?](./yt--Z0gUaZ6k_0.md) [https://www.youtube.com/watch?v=-Z0gUaZ6k_0](https://www.youtube.com/watch?v=-Z0gUaZ6k_0)
-</details>
+This question was possibly duplicated with a more recent answer: [October 12th, 2021 Livestream Q&A: Dear Jace & Snutt, can we have FICS⁕MAS items back so I can finish my build off, please?](./yt-fmJkYftGKzg.md) [https://www.youtube.com/watch?v=fmJkYftGKzg](https://www.youtube.com/watch?v=fmJkYftGKzg)
 
 
 ### Topics

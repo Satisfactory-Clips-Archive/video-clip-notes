@@ -9,7 +9,7 @@ topics:
 # [May 11th, 2021 Livestream](../2021-05-11.md)
 ## Q&A: Vehicle Lights?
 https://www.youtube.com/watch?v=GW8fdTPWY8Y
-This question was possibly duplicated with a more recent answer: [June 29th, 2021 Livestream Q&A: Will there be Lights for Vehicles?](./yt-PxxImwwm5ko.md) [https://www.youtube.com/watch?v=PxxImwwm5ko](https://www.youtube.com/watch?v=PxxImwwm5ko)
+This question was possibly duplicated with a more recent answer: [October 12th, 2021 Livestream Q&A: Will Truck Lights finally work in Update 5?](./yt-35iZLfgEF0A.md) [https://www.youtube.com/watch?v=35iZLfgEF0A](https://www.youtube.com/watch?v=35iZLfgEF0A)
 
 
 ### Topics

@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Community Highlights
 
+## October 12th, 2021 Livestream
+* [Community Highlights: Manta lore](../../transcriptions/yt-EfmdHVHibCE.md) [https://www.youtube.com/watch?v=EfmdHVHibCE](https://www.youtube.com/watch?v=EfmdHVHibCE)
+* [Q&A: If Snutt & Jace are trolls, would they live under the bridge?](../../transcriptions/yt-9g3cWpNsCDE.md) [https://www.youtube.com/watch?v=9g3cWpNsCDE](https://www.youtube.com/watch?v=9g3cWpNsCDE)
+* [Snutt & Jace Talk: Coffee Stain Studio's YouTube channel](../../transcriptions/yt-IVwd8yh87q8.md) [https://www.youtube.com/watch?v=IVwd8yh87q8](https://www.youtube.com/watch?v=IVwd8yh87q8)
+
 ## October 5th, 2021 Livestream
 * [Snutt Talk: Torsten's Beam aesthetics](../../transcriptions/yt-cTKqlerNuIg.md) [https://www.youtube.com/watch?v=cTKqlerNuIg](https://www.youtube.com/watch?v=cTKqlerNuIg)
 * [Trolling: Rebalancing Water Extractors in Update 5](../../transcriptions/yt-rjR-CAkE03w.md) [https://www.youtube.com/watch?v=rjR-CAkE03w](https://www.youtube.com/watch?v=rjR-CAkE03w)

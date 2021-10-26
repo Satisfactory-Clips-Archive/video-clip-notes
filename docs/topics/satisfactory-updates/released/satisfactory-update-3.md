@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Released > Satisfactory Update 3
 
+## October 12th, 2021 Livestream
+* [Community FYI: I remmeber when you leaked Pipes by accident about a year or two ago?](../../../transcriptions/yt-m4BdjsbcLbM.md) [https://www.youtube.com/watch?v=m4BdjsbcLbM](https://www.youtube.com/watch?v=m4BdjsbcLbM)
+
 ## August 3rd, 2021 Livestream
 * [Q&A: Was there a change in the eastern Dune Desert between Update 3 and Update 4?](../../../transcriptions/yt-yu5hKyAsHFU.md) [https://www.youtube.com/watch?v=yu5hKyAsHFU](https://www.youtube.com/watch?v=yu5hKyAsHFU)
 

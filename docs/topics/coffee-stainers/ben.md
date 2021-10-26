@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Ben
 
+## October 12th, 2021 Livestream
+* [Jace Talk: Shoutouts for Coffee Stainers implementing Update 5 features](../../transcriptions/yt-OfbGW1Nb-XI.md) [https://www.youtube.com/watch?v=OfbGW1Nb-XI](https://www.youtube.com/watch?v=OfbGW1Nb-XI)
+
 ## June 15th, 2021 Livestream
 * [Q&A: Will Ben's water system be included?](../../transcriptions/yt-FqnM4ASr440.md) [https://www.youtube.com/watch?v=FqnM4ASr440](https://www.youtube.com/watch?v=FqnM4ASr440)
 

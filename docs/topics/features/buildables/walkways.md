@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Walkways
 
+## October 15th, 2021 Video
+* [Jace Talk: Snap walkways to Buildings](../../../transcriptions/yt-jTIAMuPqSlI,173.54003333333333,218.9187.md) [https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=173&end=219](https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=173&end=219)
+
 ## September 7th, 2021 Livestream
 * [Snutt & Jace Talk: New Walkways](../../../transcriptions/yt-D5ZZFxwPfj0.md) [https://www.youtube.com/watch?v=D5ZZFxwPfj0](https://www.youtube.com/watch?v=D5ZZFxwPfj0)
 * [Q&A: Can we have Horizontal Stairs?](../../../transcriptions/yt-svdxFzidY8A.md) [https://www.youtube.com/watch?v=svdxFzidY8A](https://www.youtube.com/watch?v=svdxFzidY8A)

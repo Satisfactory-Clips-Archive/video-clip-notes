@@ -26,6 +26,17 @@ date: Last Modified
 * [The HUB](../../topics/features/buildings/the-hub.md)
 * [Water Extractor](../../topics/features/buildings/water-extractor.md)
 
+## October 15th, 2021 Video
+* [Jace Talk: Snap walkways to Buildings](../../transcriptions/yt-jTIAMuPqSlI,173.54003333333333,218.9187.md) [https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=173&end=219](https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=173&end=219)
+* [Jace Talk: Changes to Snapping of Buildings](../../transcriptions/yt-jTIAMuPqSlI,286.1859,341.30763333333334.md) [https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=286&end=342](https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=286&end=342)
+* [Jace Talk: List of Buildings with Complex Clearance](../../transcriptions/yt-jTIAMuPqSlI,496.8964,518.4179.md) [https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=496&end=519](https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=496&end=519)
+
+## October 12th, 2021 Livestream
+* [Q&A: Will Trucks queue up behind a station if another Truck is there?](../../transcriptions/yt-RIQ0Lzb4DZ8.md) [https://www.youtube.com/watch?v=RIQ0Lzb4DZ8](https://www.youtube.com/watch?v=RIQ0Lzb4DZ8)
+* [Q&A: Could you talk about the station changes for those who might not understand the filtering?](../../transcriptions/yt-Wfems7cEZLo.md) [https://www.youtube.com/watch?v=Wfems7cEZLo](https://www.youtube.com/watch?v=Wfems7cEZLo)
+* [Q&A: Can two stations have the same name, aka parallel stations?](../../transcriptions/yt-SxcMqRVMyYE.md) [https://www.youtube.com/watch?v=SxcMqRVMyYE](https://www.youtube.com/watch?v=SxcMqRVMyYE)
+* [Q&A: Will Truck Stations pick up stuff from another Truck that goes through the Station? (Part 1)](../../transcriptions/yt-XeH9sho3lBE.md) [https://www.youtube.com/watch?v=XeH9sho3lBE](https://www.youtube.com/watch?v=XeH9sho3lBE)
+
 ## October 8th, 2021 Video
 * [Jace Talk: Freight Station UI Changes](../../transcriptions/yt-CskxkIepX6Y,876.5757,888.8212666666667.md) [https://youtube.com/clip/Ugkx0uFobWLIS-LRVKzTwNdOKKnesGBr9ZGe](https://youtube.com/clip/Ugkx0uFobWLIS-LRVKzTwNdOKKnesGBr9ZGe)
 

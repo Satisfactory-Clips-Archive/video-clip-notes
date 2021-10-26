@@ -5,6 +5,14 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Trolling
 
+## October 12th, 2021 Livestream
+* [Community Highlights: Manta lore](../transcriptions/yt-EfmdHVHibCE.md) [https://www.youtube.com/watch?v=EfmdHVHibCE](https://www.youtube.com/watch?v=EfmdHVHibCE)
+* [Q&A: If Snutt & Jace are trolls, would they live under the bridge?](../transcriptions/yt-9g3cWpNsCDE.md) [https://www.youtube.com/watch?v=9g3cWpNsCDE](https://www.youtube.com/watch?v=9g3cWpNsCDE)
+* [Community FYI: I remmeber when you leaked Pipes by accident about a year or two ago?](../transcriptions/yt-m4BdjsbcLbM.md) [https://www.youtube.com/watch?v=m4BdjsbcLbM](https://www.youtube.com/watch?v=m4BdjsbcLbM)
+* [Community FYI: I would suggest switching to Unity](../transcriptions/yt-JvI8MOw8Ff8.md) [https://www.youtube.com/watch?v=JvI8MOw8Ff8](https://www.youtube.com/watch?v=JvI8MOw8Ff8)
+* [Q&A: How much bread do you get per answered question?](../transcriptions/yt--NfMijRlbdw.md) [https://www.youtube.com/watch?v=-NfMijRlbdw](https://www.youtube.com/watch?v=-NfMijRlbdw)
+* Snutt & Jace Talk: Jace's chat isn't updating [https://www.youtube.com/watch?v=sKP_tt5OCcI](https://www.youtube.com/watch?v=sKP_tt5OCcI)
+
 ## October 5th, 2021 Livestream
 * [Snutt & Jace Talk: Train Signals & Collisions Teaser (Part 4)](../transcriptions/yt-63jCwf0vtz8.md) [https://www.youtube.com/watch?v=63jCwf0vtz8](https://www.youtube.com/watch?v=63jCwf0vtz8)
 * [Trolling: Rebalancing Water Extractors in Update 5](../transcriptions/yt-rjR-CAkE03w.md) [https://www.youtube.com/watch?v=rjR-CAkE03w](https://www.youtube.com/watch?v=rjR-CAkE03w)

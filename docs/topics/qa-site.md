@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > QA Site
 
+## October 12th, 2021 Livestream
+* [Q&A: Could you hire a content designer to make your error messages more helpful?](../transcriptions/yt-viwaU8gV4M8.md) [https://www.youtube.com/watch?v=viwaU8gV4M8](https://www.youtube.com/watch?v=viwaU8gV4M8)
+* [Q&A: Is it better to comment on an older (greater than 1 year) suggestion or create a new one?](../transcriptions/yt-Owt8GXwxJZs.md) [https://www.youtube.com/watch?v=Owt8GXwxJZs](https://www.youtube.com/watch?v=Owt8GXwxJZs)
+
 ## October 5th, 2021 Livestream
 * [Q&A: Signs coming when, it's most wanted in QA?](../transcriptions/yt-E6TuyMSKYqI.md) [https://www.youtube.com/watch?v=E6TuyMSKYqI](https://www.youtube.com/watch?v=E6TuyMSKYqI)
 

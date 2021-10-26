@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Technology](../../../topics/technology.md) > [User Interface](../../../topics/technology/user-interface.md) > Holograms
 
+## October 15th, 2021 Video
+* [Jace Talk: You can now modify Hologram colours to your liking](../../../transcriptions/yt-jTIAMuPqSlI,369.9028666666667,396.86313333333334.md) [https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=369&end=397](https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=369&end=397)
+
 ## October 5th, 2021 Livestream
 * [Q&A: Any plans for separating the Build Hologram from the Pioneer camera?](../../../transcriptions/yt-q_MH95NWEbQ.md) [https://www.youtube.com/watch?v=q_MH95NWEbQ](https://www.youtube.com/watch?v=q_MH95NWEbQ)
 

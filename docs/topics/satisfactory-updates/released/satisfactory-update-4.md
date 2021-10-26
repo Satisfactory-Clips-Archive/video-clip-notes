@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Released > Satisfactory Update 4
 
+## October 12th, 2021 Livestream
+* [Q&A: What will Trains do when you Update the Trains, what settings will they use?](../../../transcriptions/yt-wnEFnE-EF_Y.md) [https://www.youtube.com/watch?v=wnEFnE-EF_Y](https://www.youtube.com/watch?v=wnEFnE-EF_Y)
+
 ## September 7th, 2021 Livestream
 * Q&A: Will Update 5 mess up Mods like Update 4 did? [https://www.youtube.com/watch?v=FKA_rMdiHtU](https://www.youtube.com/watch?v=FKA_rMdiHtU)
 * [Q&A: Are there going to be changes to Recipes like there was in Update 4?](../../../transcriptions/yt-wnQBLg0EgUE.md) [https://www.youtube.com/watch?v=wnQBLg0EgUE](https://www.youtube.com/watch?v=wnQBLg0EgUE)

@@ -10,6 +10,8 @@ topics:
 # [October 5th, 2021 Livestream](../2021-10-05.md)
 ## Q&A: Was clipping of Trains covered?
 https://www.youtube.com/watch?v=m0hpBjhy6fs
+This question was possibly replaced with a more recent answer: [October 12th, 2021 Livestream Q&A: How close can you build Train lines before Trains actually collide?](./yt-JvaXVtsL9jA.md) [https://www.youtube.com/watch?v=JvaXVtsL9jA](https://www.youtube.com/watch?v=JvaXVtsL9jA)
+
 
 ### Topics
 * [Features > Transportation > Trains > Train Signals](../topics/features/transportation/trains/train-signals.md)

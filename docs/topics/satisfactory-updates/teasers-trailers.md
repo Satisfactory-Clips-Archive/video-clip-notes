@@ -13,6 +13,9 @@ date: Last Modified
 * [Update 5 Patch Notes Video](../../topics/satisfactory-updates/teasers-trailers/update-5-patch-notes-video.md)
 * [Update 5 Teasers](../../topics/satisfactory-updates/teasers-trailers/update-5-teasers.md)
 
+## October 12th, 2021 Livestream
+* [Q&A: Can we have Locomotive that looks like the one in the original Trailer?](../../transcriptions/yt-PZX0CxE_XAA.md) [https://www.youtube.com/watch?v=PZX0CxE_XAA](https://www.youtube.com/watch?v=PZX0CxE_XAA)
+
 ## August 31st, 2021 Livestream
 * Snutt & Jace Talk: Screenspace reflections & water updates [https://www.youtube.com/watch?v=DsE2x1rEfIw](https://www.youtube.com/watch?v=DsE2x1rEfIw)
 * [Q&A: Are there any plans for adding the tools to the game that you use to make the teasers?](../../transcriptions/yt-hgVQCncD4PA.md) [https://www.youtube.com/watch?v=hgVQCncD4PA](https://www.youtube.com/watch?v=hgVQCncD4PA)

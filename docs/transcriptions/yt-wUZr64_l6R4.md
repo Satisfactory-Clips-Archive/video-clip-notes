@@ -8,7 +8,7 @@ topics:
 # [April 20th, 2021 Livestream](../2021-04-20.md)
 ## Q&A: Gonna be weather changes, like rain, snow, and sand storms?
 https://www.youtube.com/watch?v=wUZr64_l6R4
-This question was possibly duplicated with a more recent answer: [September 14th, 2021 Livestream Q&A: Have you considered adding Weather effects to the game?](./yt-sNZLo0Q6lBg.md) [https://www.youtube.com/watch?v=sNZLo0Q6lBg](https://www.youtube.com/watch?v=sNZLo0Q6lBg)
+This question was possibly duplicated with a more recent answer: [October 12th, 2021 Livestream Q&A: Will there ever be rain and extreme Weather in Satisfactory?](./yt-ukLbdvyFk-E.md) [https://www.youtube.com/watch?v=ukLbdvyFk-E](https://www.youtube.com/watch?v=ukLbdvyFk-E)
 
 
 ### Topics

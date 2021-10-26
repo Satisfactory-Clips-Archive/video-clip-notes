@@ -8,7 +8,7 @@ topics:
 # [May 15th, 2020 Q&A](../2020-05-15.md)
 ## Q&A: Will there be weather changes?
 https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=374&end=398
-This question was possibly duplicated with a more recent answer: [September 14th, 2021 Livestream Q&A: Have you considered adding Weather effects to the game?](./yt-sNZLo0Q6lBg.md) [https://www.youtube.com/watch?v=sNZLo0Q6lBg](https://www.youtube.com/watch?v=sNZLo0Q6lBg)
+This question was possibly duplicated with a more recent answer: [October 12th, 2021 Livestream Q&A: Will there ever be rain and extreme Weather in Satisfactory?](./yt-ukLbdvyFk-E.md) [https://www.youtube.com/watch?v=ukLbdvyFk-E](https://www.youtube.com/watch?v=ukLbdvyFk-E)
 
 
 ### Topics

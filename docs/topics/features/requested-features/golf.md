@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Requested Features](../../../topics/features/requested-features.md) > Golf
 
+## October 12th, 2021 Livestream
+* [Q&A: How is Golf doing?](../../../transcriptions/yt-39UtG3exx2s.md) [https://www.youtube.com/watch?v=39UtG3exx2s](https://www.youtube.com/watch?v=39UtG3exx2s)
+
 ## October 5th, 2021 Livestream
 * [Snutt & Jace Talk: Golf](../../../transcriptions/yt-sjeCx356Lhk.md) [https://www.youtube.com/watch?v=sjeCx356Lhk](https://www.youtube.com/watch?v=sjeCx356Lhk)
 

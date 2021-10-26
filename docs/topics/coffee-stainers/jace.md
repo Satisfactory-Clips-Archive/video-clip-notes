@@ -7,6 +7,18 @@ date: Last Modified
 * ["Fix Jace" QA Site Posts](../../topics/coffee-stainers/jace/fix-jace-qa-site-posts.md)
 * [Jace Art](../../topics/coffee-stainers/jace/jace-art.md)
 
+## October 12th, 2021 Livestream
+* [Q&A: If Snutt & Jace are trolls, would they live under the bridge?](../../transcriptions/yt-9g3cWpNsCDE.md) [https://www.youtube.com/watch?v=9g3cWpNsCDE](https://www.youtube.com/watch?v=9g3cWpNsCDE)
+* [Community FYI: Remember Jace promises won't break our saves](../../transcriptions/yt-b5lMzGupLTc.md) [https://www.youtube.com/watch?v=b5lMzGupLTc](https://www.youtube.com/watch?v=b5lMzGupLTc)
+* [Q&A: Why should we believe a lying liar?](../../transcriptions/yt-y_8BiuOg4zg.md) [https://www.youtube.com/watch?v=y_8BiuOg4zg](https://www.youtube.com/watch?v=y_8BiuOg4zg)
+* [Q&A: Can we have another session of Jace & Snutt read the Wiki?](../../transcriptions/yt-6WjoS7xM-tE.md) [https://www.youtube.com/watch?v=6WjoS7xM-tE](https://www.youtube.com/watch?v=6WjoS7xM-tE)
+* [Q&A: How much bread do you get per answered question?](../../transcriptions/yt--NfMijRlbdw.md) [https://www.youtube.com/watch?v=-NfMijRlbdw](https://www.youtube.com/watch?v=-NfMijRlbdw)
+* [Q&A: Wasn't the Vehicle rework meant to be Jace's job?](../../transcriptions/yt-iMiv4fo4p5Q.md) [https://www.youtube.com/watch?v=iMiv4fo4p5Q](https://www.youtube.com/watch?v=iMiv4fo4p5Q)
+* Snutt & Jace Talk: Jace's chat isn't updating [https://www.youtube.com/watch?v=sKP_tt5OCcI](https://www.youtube.com/watch?v=sKP_tt5OCcI)
+* [Community FYI: Jace has been an intern this whole time](../../transcriptions/yt-orZED57vU2U.md) [https://www.youtube.com/watch?v=orZED57vU2U](https://www.youtube.com/watch?v=orZED57vU2U)
+* [Q&A: Was matching beards part of the plan, because you two are winning?](../../transcriptions/yt-7vNRnY41idI.md) [https://www.youtube.com/watch?v=7vNRnY41idI](https://www.youtube.com/watch?v=7vNRnY41idI)
+* [Q&A: What are you doing for dinner tonight, Snutt?](../../transcriptions/yt-3Li4IIooQmk.md) [https://www.youtube.com/watch?v=3Li4IIooQmk](https://www.youtube.com/watch?v=3Li4IIooQmk)
+
 ## October 8th, 2021 Video
 * [Jace Talk: The Lie](../../transcriptions/yt-CskxkIepX6Y,0,17.083733333333335.md) [https://youtube.com/clip/Ugkxvj8a3wzSAepqTv-cIb2F1KetdU6ZT7iJ](https://youtube.com/clip/Ugkxvj8a3wzSAepqTv-cIb2F1KetdU6ZT7iJ)
 * [Jace Talk: Epic Train staredown contest](../../transcriptions/yt-CskxkIepX6Y,587.5202666666667,629.5622666666667.md) [https://youtube.com/clip/UgkxoEUo6ohfHz8MYiTqo4oYr6BtCIlQ2NWG](https://youtube.com/clip/UgkxoEUo6ohfHz8MYiTqo4oYr6BtCIlQ2NWG)

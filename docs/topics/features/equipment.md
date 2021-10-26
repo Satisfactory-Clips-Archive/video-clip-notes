@@ -14,6 +14,9 @@ date: Last Modified
 * [Rifle](../../topics/features/equipment/rifle.md)
 * [Zip Lines](../../topics/features/equipment/zip-lines.md)
 
+## October 12th, 2021 Livestream
+* [Q&A: Can we have a laser gun that uses Battery packs, please?](../../transcriptions/yt-bhnEq9lV_7w.md) [https://www.youtube.com/watch?v=bhnEq9lV_7w](https://www.youtube.com/watch?v=bhnEq9lV_7w)
+
 ## October 5th, 2021 Livestream
 * [Q&A: Can we blow up the Trains?](../../transcriptions/yt-HYFYwqyhl_g.md) [https://www.youtube.com/watch?v=HYFYwqyhl_g](https://www.youtube.com/watch?v=HYFYwqyhl_g)
 

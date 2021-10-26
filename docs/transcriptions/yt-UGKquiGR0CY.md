@@ -8,7 +8,7 @@ topics:
 # [June 8th, 2020 Livestream](../2020-06-08.md)
 ## Q&A: What about Signs?
 https://www.youtube.com/watch?v=UGKquiGR0CY
-This question was possibly duplicated with a more recent answer: [October 5th, 2021 Livestream Q&A: Signs coming when, it's most wanted in QA?](./yt-E6TuyMSKYqI.md) [https://www.youtube.com/watch?v=E6TuyMSKYqI](https://www.youtube.com/watch?v=E6TuyMSKYqI)
+This question was possibly duplicated with a more recent answer: [October 12th, 2021 Livestream Q&A: Any sign of Signs?](./yt-omx5xQbct6w.md) [https://www.youtube.com/watch?v=omx5xQbct6w](https://www.youtube.com/watch?v=omx5xQbct6w)
 
 
 ### Topics

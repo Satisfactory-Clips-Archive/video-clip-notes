@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Crafting](../../../topics/features/crafting.md) > Superposition Oscillator
 
+## October 12th, 2021 Livestream
+* [Q&A: Dear Jace & Snutt, can we have FICS⁕MAS items back so I can finish my build off, please?](../../../transcriptions/yt-fmJkYftGKzg.md) [https://www.youtube.com/watch?v=fmJkYftGKzg](https://www.youtube.com/watch?v=fmJkYftGKzg)
+
 ## September 21st, 2021 Livestream
 * [Q&A: What is the plan with Quantum Computers & Superposition Oscillators?](../../../transcriptions/yt-xhMTIK3LMPw.md) [https://www.youtube.com/watch?v=xhMTIK3LMPw](https://www.youtube.com/watch?v=xhMTIK3LMPw)
 
