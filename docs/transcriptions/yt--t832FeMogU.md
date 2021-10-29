@@ -8,7 +8,7 @@ topics:
 # [February 16th, 2021 Livestream](../2021-02-16.md)
 ## Q&A: Will there be signs in future updates?
 https://www.youtube.com/watch?v=-t832FeMogU
-This question was possibly duplicated with a more recent answer: [October 12th, 2021 Livestream Q&A: Any sign of Signs?](./yt-omx5xQbct6w.md) [https://www.youtube.com/watch?v=omx5xQbct6w](https://www.youtube.com/watch?v=omx5xQbct6w)
+This question was possibly duplicated with a more recent answer: [October 19th, 2021 Livestream Q&A: I know you can't say, but do a cartwheel if you can confirm sweet Signs in Update 5?](./yt-_oCXPPoGHHg.md) [https://www.youtube.com/watch?v=_oCXPPoGHHg](https://www.youtube.com/watch?v=_oCXPPoGHHg)
 
 
 ### Topics

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > Miner
 
+## October 19th, 2021 Livestream
+* [Q&A: Any Update on Overclocked Mk.3 Miners?](../../../transcriptions/yt-KbLwa5ZKlag.md) [https://www.youtube.com/watch?v=KbLwa5ZKlag](https://www.youtube.com/watch?v=KbLwa5ZKlag)
+
 ## October 5th, 2021 Livestream
 * [Q&A: Done any further look into the Mk.3 Miner and the second output?](../../../transcriptions/yt-hM5HKud0ChI.md) [https://www.youtube.com/watch?v=hM5HKud0ChI](https://www.youtube.com/watch?v=hM5HKud0ChI)
 * [Q&A: Is there going to be a remedy for Mk.3 Miners being bottlenecked?](../../../transcriptions/yt-3m_vqCavleY.md) [https://www.youtube.com/watch?v=3m_vqCavleY](https://www.youtube.com/watch?v=3m_vqCavleY)

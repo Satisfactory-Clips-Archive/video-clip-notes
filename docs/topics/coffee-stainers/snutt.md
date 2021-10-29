@@ -6,6 +6,15 @@ date: Last Modified
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Snutt
 * [Snutt Burger Time](../../topics/coffee-stainers/snutt/snutt-burger-time.md)
 
+## October 19th, 2021 Livestream
+* [Community FYI: These streams are always so much fun](../../transcriptions/yt-rdou33IWFJs.md) [https://www.youtube.com/watch?v=rdou33IWFJs](https://www.youtube.com/watch?v=rdou33IWFJs)
+* [Community FYI: CSS doesn't look for programmers, they already demoted Snutt to Community Manager](../../transcriptions/yt-vStgG46N-Jk.md) [https://www.youtube.com/watch?v=vStgG46N-Jk](https://www.youtube.com/watch?v=vStgG46N-Jk)
+* [Q&A: How was the VICE interview?](../../transcriptions/yt-3ru8jpD4xFk.md) [https://www.youtube.com/watch?v=3ru8jpD4xFk](https://www.youtube.com/watch?v=3ru8jpD4xFk)
+* [Q&A: Is there a Community Manager community?](../../transcriptions/yt-RHFMamV95LA.md) [https://www.youtube.com/watch?v=RHFMamV95LA](https://www.youtube.com/watch?v=RHFMamV95LA)
+* [Q&A: What kind of Pizza are you guys having tonight?](../../transcriptions/yt-rzXOuAA0s20.md) [https://www.youtube.com/watch?v=rzXOuAA0s20](https://www.youtube.com/watch?v=rzXOuAA0s20)
+* [Q&A: Do you still get hate even though you're both awesome?](../../transcriptions/yt-uCVskfxhEMI.md) [https://www.youtube.com/watch?v=uCVskfxhEMI](https://www.youtube.com/watch?v=uCVskfxhEMI)
+* [Q&A: What have you done for us lately?](../../transcriptions/yt-uvXddR4rOiY.md) [https://www.youtube.com/watch?v=uvXddR4rOiY](https://www.youtube.com/watch?v=uvXddR4rOiY)
+
 ## October 12th, 2021 Livestream
 * [Q&A: If Snutt & Jace are trolls, would they live under the bridge?](../../transcriptions/yt-9g3cWpNsCDE.md) [https://www.youtube.com/watch?v=9g3cWpNsCDE](https://www.youtube.com/watch?v=9g3cWpNsCDE)
 * [Q&A: Can we have another session of Jace & Snutt read the Wiki?](../../transcriptions/yt-6WjoS7xM-tE.md) [https://www.youtube.com/watch?v=6WjoS7xM-tE](https://www.youtube.com/watch?v=6WjoS7xM-tE)

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Wiki
 
+## October 19th, 2021 Livestream
+* [Q&A: Update 6, still at November 31?](../../transcriptions/yt-_WRAMGtLBqA.md) [https://www.youtube.com/watch?v=_WRAMGtLBqA](https://www.youtube.com/watch?v=_WRAMGtLBqA)
+
 ## October 12th, 2021 Livestream
 * [Q&A: Can we have another session of Jace & Snutt read the Wiki?](../../transcriptions/yt-6WjoS7xM-tE.md) [https://www.youtube.com/watch?v=6WjoS7xM-tE](https://www.youtube.com/watch?v=6WjoS7xM-tE)
 

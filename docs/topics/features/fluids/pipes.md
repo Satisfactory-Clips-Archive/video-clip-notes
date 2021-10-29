@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Fluids](../../../topics/features/fluids.md) > Pipes
 
+## October 19th, 2021 Livestream
+* Q&A: Will Splitter and Pipe snapping be limited to Machine inputs? [https://www.youtube.com/watch?v=aGn0uLx_wSw](https://www.youtube.com/watch?v=aGn0uLx_wSw)
+* [Community FYI: Update 5 Reveal Trailer, Pipes get removed](../../../transcriptions/yt-UUrtB7jlza8.md) [https://www.youtube.com/watch?v=UUrtB7jlza8](https://www.youtube.com/watch?v=UUrtB7jlza8)
+
 ## October 15th, 2021 Video
 * [Jace Talk: Changes to Snapping of Buildings](../../../transcriptions/yt-jTIAMuPqSlI,286.1859,341.30763333333334.md) [https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=286&end=342](https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=286&end=342)
 * [Jace Talk: Conveyor Belts & Pipes can snap to their own Poles](../../../transcriptions/yt-jTIAMuPqSlI,341.341,369.8695.md) [https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=341&end=370](https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=341&end=370)

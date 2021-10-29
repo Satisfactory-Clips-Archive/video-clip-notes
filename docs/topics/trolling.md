@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Trolling
 
+## October 19th, 2021 Livestream
+* [Trolling: Shutting down the stream](../transcriptions/yt-KV13cv7fJ2s.md) [https://www.youtube.com/watch?v=KV13cv7fJ2s](https://www.youtube.com/watch?v=KV13cv7fJ2s)
+* [Community FYI: Fuck Dedicated Servers if we can't Golf with friends](../transcriptions/yt-nLuRoqSzLBI.md) [https://www.youtube.com/watch?v=nLuRoqSzLBI](https://www.youtube.com/watch?v=nLuRoqSzLBI)
+* [Community FYI: Dumpster fire confirmed](../transcriptions/yt-zWhjt7T1q5s.md) [https://www.youtube.com/watch?v=zWhjt7T1q5s](https://www.youtube.com/watch?v=zWhjt7T1q5s)
+
 ## October 12th, 2021 Livestream
 * [Community Highlights: Manta lore](../transcriptions/yt-EfmdHVHibCE.md) [https://www.youtube.com/watch?v=EfmdHVHibCE](https://www.youtube.com/watch?v=EfmdHVHibCE)
 * [Q&A: If Snutt & Jace are trolls, would they live under the bridge?](../transcriptions/yt-9g3cWpNsCDE.md) [https://www.youtube.com/watch?v=9g3cWpNsCDE](https://www.youtube.com/watch?v=9g3cWpNsCDE)

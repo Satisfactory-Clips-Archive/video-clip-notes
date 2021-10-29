@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Soundtrack
 
+## October 19th, 2021 Livestream
+* [Community FYI: I love the music track for the Update 3 Trailer](../transcriptions/yt-BmgkOw5NWKM.md) [https://www.youtube.com/watch?v=BmgkOw5NWKM](https://www.youtube.com/watch?v=BmgkOw5NWKM)
+
 ## September 28th, 2021 Livestream
 * [Q&A: When new music?](../transcriptions/yt-QYr7c6CGFlE.md) [https://www.youtube.com/watch?v=QYr7c6CGFlE](https://www.youtube.com/watch?v=QYr7c6CGFlE)
 * [Q&A: Some heavy metal music for when spiders show up?](../transcriptions/yt-m1TGYFDz8y8.md) [https://www.youtube.com/watch?v=m1TGYFDz8y8](https://www.youtube.com/watch?v=m1TGYFDz8y8)

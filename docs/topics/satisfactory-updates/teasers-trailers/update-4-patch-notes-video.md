@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Teasers & Trailers](../../../topics/satisfactory-updates/teasers-trailers.md) > Update 4 Patch Notes Video
 
+## October 22nd, 2021 Video
+* [Jace Talk: Chat reactions to Update 4 Patch Notes](../../../transcriptions/yt-cNBKEaJMLyM,50.726218,67.70096666666667.md) [https://youtube.com/embed/cNBKEaJMLyM?autoplay=1&start=50&end=68](https://youtube.com/embed/cNBKEaJMLyM?autoplay=1&start=50&end=68)
+
 ## September 7th, 2021 Livestream
 * Community FYI: Nice PS5 [https://www.youtube.com/watch?v=pLe9r6zRaQI](https://www.youtube.com/watch?v=pLe9r6zRaQI)
 

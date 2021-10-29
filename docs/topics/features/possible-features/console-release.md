@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Possible Features > Console Release
 
+## October 19th, 2021 Livestream
+* [Q&A: Will Satisfactory be supported on the Steam Deck?](../../../transcriptions/yt-JfLx0VAvE34.md) [https://www.youtube.com/watch?v=JfLx0VAvE34](https://www.youtube.com/watch?v=JfLx0VAvE34)
+
 ## September 28th, 2021 Livestream
 * [Q&A: Do you think Satisfactory will come to Playstation or XBox?](../../../transcriptions/yt-AxoRJASWblg.md) [https://www.youtube.com/watch?v=AxoRJASWblg](https://www.youtube.com/watch?v=AxoRJASWblg)
 

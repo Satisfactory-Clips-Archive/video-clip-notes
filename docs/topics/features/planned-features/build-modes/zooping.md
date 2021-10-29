@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > Planned Features > [Build Modes](../../../../topics/features/planned-features/build-modes.md) > Zooping
 
+## October 19th, 2021 Livestream
+* [Community FYI: We have Smart! at home](../../../../transcriptions/yt-k19vHBrDeT8.md) [https://www.youtube.com/watch?v=k19vHBrDeT8](https://www.youtube.com/watch?v=k19vHBrDeT8)
+
 ## October 15th, 2021 Video
 * [Jace Talk: Zooping](../../../../transcriptions/yt-jTIAMuPqSlI,80.11336666666666,149.5494.md) [https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=80&end=150](https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=80&end=150)
 

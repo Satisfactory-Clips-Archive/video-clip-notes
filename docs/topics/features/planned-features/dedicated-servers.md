@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Planned Features > Dedicated Servers
 
+## October 19th, 2021 Livestream
+* [Community FYI: Fuck Dedicated Servers if we can't Golf with friends](../../../transcriptions/yt-nLuRoqSzLBI.md) [https://www.youtube.com/watch?v=nLuRoqSzLBI](https://www.youtube.com/watch?v=nLuRoqSzLBI)
+* [Q&A: Dedicated Servers?](../../../transcriptions/yt-lkBs9m3qR68.md) [https://www.youtube.com/watch?v=lkBs9m3qR68](https://www.youtube.com/watch?v=lkBs9m3qR68)
+
 ## October 12th, 2021 Livestream
 * [Q&A: Is there any timescale on being able to set up Servers for Satisfactory?](../../../transcriptions/yt-m2wQcRH7YJE.md) [https://www.youtube.com/watch?v=m2wQcRH7YJE](https://www.youtube.com/watch?v=m2wQcRH7YJE)
 

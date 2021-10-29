@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Speculative > Satisfactory Update 7
 
+## October 19th, 2021 Livestream
+* [Q&A: When is Update 7 coming out?](../../../transcriptions/yt-tDRRFuKP4y0.md) [https://www.youtube.com/watch?v=tDRRFuKP4y0](https://www.youtube.com/watch?v=tDRRFuKP4y0)
+
 ## September 28th, 2021 Livestream
 * [Q&A: Do you already have a plan after Update 5?](../../../transcriptions/yt-eMwd2j_3Dso.md) [https://www.youtube.com/watch?v=eMwd2j_3Dso](https://www.youtube.com/watch?v=eMwd2j_3Dso)
 

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Unplanned Features](../../../topics/features/unplanned-features.md) > Space Exploration
 
+## October 19th, 2021 Livestream
+* [Community FYI: Update 6, Space Trains](../../../transcriptions/yt-DdIhLIUK-es.md) [https://www.youtube.com/watch?v=DdIhLIUK-es](https://www.youtube.com/watch?v=DdIhLIUK-es)
+
 ## October 5th, 2021 Livestream
 * [Q&A: Can you go to space?](../../../transcriptions/yt-mxPcSrf1YQE.md) [https://www.youtube.com/watch?v=mxPcSrf1YQE](https://www.youtube.com/watch?v=mxPcSrf1YQE)
 

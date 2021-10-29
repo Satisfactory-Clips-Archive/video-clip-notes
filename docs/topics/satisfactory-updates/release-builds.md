@@ -5,6 +5,14 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > Release Builds
 
+## October 22nd, 2021 Video
+* [Jace Talk: Update 5 Experimental Release](../../transcriptions/yt-cNBKEaJMLyM,4.935811,50.68396666666667.md) [https://youtube.com/embed/cNBKEaJMLyM?autoplay=1&start=4&end=51](https://youtube.com/embed/cNBKEaJMLyM?autoplay=1&start=4&end=51)
+* [Jace Talk: See you on Tuesday for the Update 5 Launch](../../transcriptions/yt-cNBKEaJMLyM,139.17236666666668.md) [https://youtube.com/embed/cNBKEaJMLyM?autoplay=1&start=139](https://youtube.com/embed/cNBKEaJMLyM?autoplay=1&start=139)
+
+## October 19th, 2021 Livestream
+* [State of Dev: Update 5, bugs expected & working more on features before release on Early Access](../../transcriptions/yt-W6_1Q5ck7go.md) [https://www.youtube.com/watch?v=W6_1Q5ck7go](https://www.youtube.com/watch?v=W6_1Q5ck7go)
+* [Q&A: How long will the Update be on Experimental?](../../transcriptions/yt-P2AWq6YaQaw.md) [https://www.youtube.com/watch?v=P2AWq6YaQaw](https://www.youtube.com/watch?v=P2AWq6YaQaw)
+
 ## October 12th, 2021 Livestream
 * [State of Dev: 2 weeks until Update 5 lands on Experimental](../../transcriptions/yt-TyfO900mn3g.md) [https://www.youtube.com/watch?v=TyfO900mn3g](https://www.youtube.com/watch?v=TyfO900mn3g)
 

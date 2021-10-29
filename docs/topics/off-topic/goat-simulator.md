@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Goat Simulator
 
+## October 19th, 2021 Livestream
+* [Q&A: Any new Updates for Goat Simulator?](../../transcriptions/yt-zpm_4gQLWqQ.md) [https://www.youtube.com/watch?v=zpm_4gQLWqQ](https://www.youtube.com/watch?v=zpm_4gQLWqQ)
+
 ## August 24th, 2021 Livestream
 * [Q&A: Will The HUB have Goat Simulator installed?](../../transcriptions/yt-hZKtoIq3gdQ.md) [https://www.youtube.com/watch?v=hZKtoIq3gdQ](https://www.youtube.com/watch?v=hZKtoIq3gdQ)
 

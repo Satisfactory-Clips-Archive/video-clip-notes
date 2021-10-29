@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Storage Containers
 
+## October 19th, 2021 Livestream
+* [Q&A: Does the Storage Container have Soft Clearance now so they can get closer to Walls??](../../../transcriptions/yt-EAK8SZUqqIE.md) [https://www.youtube.com/watch?v=EAK8SZUqqIE](https://www.youtube.com/watch?v=EAK8SZUqqIE)
+
 ## October 5th, 2021 Livestream
 * [Q&A: Item stand from the AWESOME Store?](../../../transcriptions/yt-lmbs2TWqQ5Q.md) [https://www.youtube.com/watch?v=lmbs2TWqQ5Q](https://www.youtube.com/watch?v=lmbs2TWqQ5Q)
 * [Q&A: Are you going to add bigger Storage Containers?](../../../transcriptions/yt-M4OewQoE91A.md) [https://www.youtube.com/watch?v=M4OewQoE91A](https://www.youtube.com/watch?v=M4OewQoE91A)

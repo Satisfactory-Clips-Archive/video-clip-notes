@@ -5,6 +5,8 @@ layout: index
 ---
 # 2021
 ## October
+* [October 22nd](2021-10-22.md)
+* [October 19th](2021-10-19.md)
 * [October 15th](2021-10-15.md)
 * [October 12th](2021-10-12.md)
 * [October 8th](2021-10-08.md)

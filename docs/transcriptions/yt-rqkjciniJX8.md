@@ -1,0 +1,17 @@
+---
+title: "October 19th, 2021 Livestream Snutt & Jace Talk: HelloFresh is here"
+date: "2021-10-19"
+layout: transcript
+topics:
+    - "coffee-stainers/jace"
+---
+# [October 19th, 2021 Livestream](../2021-10-19.md)
+## Snutt & Jace Talk: HelloFresh is here
+https://www.youtube.com/watch?v=rqkjciniJX8
+
+### Topics
+* [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
+
+### Transcript
+
+> oh oh boy it's here oh hello french why are you oh yeah i can't wait i wonder what jay's got this time you guys oh wait do you think he's gonna make some some some omelettes maybe some juicy risotto more like vomits farmer you have to bring it up

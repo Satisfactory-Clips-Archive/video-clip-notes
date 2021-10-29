@@ -18,6 +18,12 @@ date: Last Modified
 * [Teasers & Trailers](../topics/satisfactory-updates/teasers-trailers.md)
 * [World Update](../topics/satisfactory-updates/world-update.md)
 
+## October 19th, 2021 Livestream
+* Q&A: How many more Updates? [https://www.youtube.com/watch?v=-jMLTqAu7t8](https://www.youtube.com/watch?v=-jMLTqAu7t8)
+* [Q&A: Can I take a guess of how many Updates?](../transcriptions/yt-DuX_EFO4F8w.md) [https://www.youtube.com/watch?v=DuX_EFO4F8w](https://www.youtube.com/watch?v=DuX_EFO4F8w)
+* [Q&A: Is there any old, unreleased content likely to return?](../transcriptions/yt-7fqgLdCPlU0.md) [https://www.youtube.com/watch?v=7fqgLdCPlU0](https://www.youtube.com/watch?v=7fqgLdCPlU0)
+* [Q&A: Updates planned to be bigger or smaller in the future?](../transcriptions/yt-eue3ZXfiBZQ.md) [https://www.youtube.com/watch?v=eue3ZXfiBZQ](https://www.youtube.com/watch?v=eue3ZXfiBZQ)
+
 ## October 12th, 2021 Livestream
 * [Q&A: There's always been secrets in Updates, will there be secrets in Update 5?](../transcriptions/yt-R8AbNs9YNSI.md) [https://www.youtube.com/watch?v=R8AbNs9YNSI](https://www.youtube.com/watch?v=R8AbNs9YNSI)
 

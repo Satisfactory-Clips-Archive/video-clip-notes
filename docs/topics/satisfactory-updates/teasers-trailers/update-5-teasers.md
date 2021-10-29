@@ -5,6 +5,19 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Teasers & Trailers](../../../topics/satisfactory-updates/teasers-trailers.md) > Update 5 Teasers
 
+## October 22nd, 2021 Video
+* [Jace Talk: What we've released so far on Update 5](../../../transcriptions/yt-cNBKEaJMLyM,67.73433333333334,114.28083333333333.md) [https://youtube.com/embed/cNBKEaJMLyM?autoplay=1&start=67&end=115](https://youtube.com/embed/cNBKEaJMLyM?autoplay=1&start=67&end=115)
+
+## October 19th, 2021 Livestream
+* [State of Dev: Build System Changes video](../../../transcriptions/yt-M0GvYOyB8xo.md) [https://www.youtube.com/watch?v=M0GvYOyB8xo](https://www.youtube.com/watch?v=M0GvYOyB8xo)
+* [Snutt & Jace Talk: Update 5 Build system improvements](../../../transcriptions/yt-b6oCNvKP844.md) [https://www.youtube.com/watch?v=b6oCNvKP844](https://www.youtube.com/watch?v=b6oCNvKP844)
+* [Snutt & Jace Talk: No more Update 5 Teasers](../../../transcriptions/yt-1h1is537FlQ.md) [https://www.youtube.com/watch?v=1h1is537FlQ](https://www.youtube.com/watch?v=1h1is537FlQ)
+* [Q&A: Can Machines be rotated like Foundations in Update 5?](../../../transcriptions/yt-94G4znvDbiA.md) [https://www.youtube.com/watch?v=94G4znvDbiA](https://www.youtube.com/watch?v=94G4znvDbiA)
+* [Q&A: Free placement on Foundations?](../../../transcriptions/yt-5PaZZUkPwjU.md) [https://www.youtube.com/watch?v=5PaZZUkPwjU](https://www.youtube.com/watch?v=5PaZZUkPwjU)
+* Q&A: Will Splitter and Pipe snapping be limited to Machine inputs? [https://www.youtube.com/watch?v=aGn0uLx_wSw](https://www.youtube.com/watch?v=aGn0uLx_wSw)
+* [Community FYI: Update 5 Reveal Trailer, Pipes get removed](../../../transcriptions/yt-UUrtB7jlza8.md) [https://www.youtube.com/watch?v=UUrtB7jlza8](https://www.youtube.com/watch?v=UUrtB7jlza8)
+* [Q&A: Will there be a Teaser this week?](../../../transcriptions/yt-kjkDfvLXvf0.md) [https://www.youtube.com/watch?v=kjkDfvLXvf0](https://www.youtube.com/watch?v=kjkDfvLXvf0)
+
 ## October 12th, 2021 Livestream
 * [Snutt & Jace Talk: Talking about Trains](../../../transcriptions/yt-oTFxFrh1OiQ.md) [https://www.youtube.com/watch?v=oTFxFrh1OiQ](https://www.youtube.com/watch?v=oTFxFrh1OiQ)
 * [Q&A: Path Signals look amazing, why use Block Signals?](../../../transcriptions/yt-6v-_y9IUiZM.md) [https://www.youtube.com/watch?v=6v-_y9IUiZM](https://www.youtube.com/watch?v=6v-_y9IUiZM)

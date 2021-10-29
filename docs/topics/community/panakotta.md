@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Panakotta
 
+## October 19th, 2021 Livestream
+* Q&A: Does Panakotta being featured on-stream mean you're going to announce programming for the game? [https://www.youtube.com/watch?v=kiH2sGVhyuk](https://www.youtube.com/watch?v=kiH2sGVhyuk)
+
 ## March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary
 * [Community FYI: When Panakotta was demoing the lights and both of you trying not to say anything...](../../transcriptions/yt-LNc80s6SPJo.md) [https://www.youtube.com/watch?v=LNc80s6SPJo](https://www.youtube.com/watch?v=LNc80s6SPJo)
 

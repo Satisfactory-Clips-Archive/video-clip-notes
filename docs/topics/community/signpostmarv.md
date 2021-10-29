@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > SignpostMarv
 
+## October 19th, 2021 Livestream
+* [Snutt & Jace Talk: Can't wait for Marv to make a GIF out of this](../../transcriptions/yt-H00giw7cRz8.md) [https://www.youtube.com/watch?v=H00giw7cRz8](https://www.youtube.com/watch?v=H00giw7cRz8)
+
 ## September 21st, 2021 Livestream
 * Q&A: Update Q&A Clips YouTube, when? [https://www.youtube.com/watch?v=zv_arfq2d0E](https://www.youtube.com/watch?v=zv_arfq2d0E)
 

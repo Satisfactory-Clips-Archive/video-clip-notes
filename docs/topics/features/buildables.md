@@ -18,6 +18,11 @@ date: Last Modified
 * [Walls](../../topics/features/buildables/walls.md)
 * [Windows](../../topics/features/buildables/windows.md)
 
+## October 19th, 2021 Livestream
+* [Snutt & Jace Talk: Update 5 Build system improvements](../../transcriptions/yt-b6oCNvKP844.md) [https://www.youtube.com/watch?v=b6oCNvKP844](https://www.youtube.com/watch?v=b6oCNvKP844)
+* [Q&A: Free placement on Foundations?](../../transcriptions/yt-5PaZZUkPwjU.md) [https://www.youtube.com/watch?v=5PaZZUkPwjU](https://www.youtube.com/watch?v=5PaZZUkPwjU)
+* [Q&A: Any plans on a two-in, two-out Splitter/Merge combo?](../../transcriptions/yt-rH0er8LCSQM.md) [https://www.youtube.com/watch?v=rH0er8LCSQM](https://www.youtube.com/watch?v=rH0er8LCSQM)
+
 ## October 15th, 2021 Video
 * [Jace Talk: Ramp snapping improvements](../../transcriptions/yt-jTIAMuPqSlI,54.6546,80.08.md) [https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=54&end=81](https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=54&end=81)
 * [Jace Talk: More freedom with Stairs](../../transcriptions/yt-jTIAMuPqSlI,149.58276666666666,173.49957.md) [https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=149&end=174](https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=149&end=174)

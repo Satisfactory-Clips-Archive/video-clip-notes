@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../topics.md) > [Retail](../../topics/retail.md) > Steam Store
 * [Steam Release](../../topics/retail/steam-store/steam-release.md)
 
+## October 19th, 2021 Livestream
+* [Q&A: Will Satisfactory be supported on the Steam Deck?](../../transcriptions/yt-JfLx0VAvE34.md) [https://www.youtube.com/watch?v=JfLx0VAvE34](https://www.youtube.com/watch?v=JfLx0VAvE34)
+
 ## August 10th, 2021 Livestream
 * [Q&A: Soundtrack that I can buy from Steam?](../../transcriptions/yt-VlJsz3lP4qo.md) [https://www.youtube.com/watch?v=VlJsz3lP4qo](https://www.youtube.com/watch?v=VlJsz3lP4qo)
 

@@ -7,6 +7,18 @@ date: Last Modified
 * ["Fix Jace" QA Site Posts](../../topics/coffee-stainers/jace/fix-jace-qa-site-posts.md)
 * [Jace Art](../../topics/coffee-stainers/jace/jace-art.md)
 
+## October 19th, 2021 Livestream
+* [Community FYI: Jace is sun tanned, is strange](../../transcriptions/yt-rUIQlG9zVYg.md) [https://www.youtube.com/watch?v=rUIQlG9zVYg](https://www.youtube.com/watch?v=rUIQlG9zVYg)
+* [Community FYI: These streams are always so much fun](../../transcriptions/yt-rdou33IWFJs.md) [https://www.youtube.com/watch?v=rdou33IWFJs](https://www.youtube.com/watch?v=rdou33IWFJs)
+* [Jace Talk: HelloFresh again](../../transcriptions/yt-CPfPUf1zmK4.md) [https://www.youtube.com/watch?v=CPfPUf1zmK4](https://www.youtube.com/watch?v=CPfPUf1zmK4)
+* [Jace Talk: 18 Minutes 'til HelloFresh](../../transcriptions/yt-3GXk3dr-Tow.md) [https://www.youtube.com/watch?v=3GXk3dr-Tow](https://www.youtube.com/watch?v=3GXk3dr-Tow)
+* [Q&A: How was the VICE interview?](../../transcriptions/yt-3ru8jpD4xFk.md) [https://www.youtube.com/watch?v=3ru8jpD4xFk](https://www.youtube.com/watch?v=3ru8jpD4xFk)
+* [Q&A: Is there a Community Manager community?](../../transcriptions/yt-RHFMamV95LA.md) [https://www.youtube.com/watch?v=RHFMamV95LA](https://www.youtube.com/watch?v=RHFMamV95LA)
+* [Q&A: What kind of Pizza are you guys having tonight?](../../transcriptions/yt-rzXOuAA0s20.md) [https://www.youtube.com/watch?v=rzXOuAA0s20](https://www.youtube.com/watch?v=rzXOuAA0s20)
+* [Q&A: Do you still get hate even though you're both awesome?](../../transcriptions/yt-uCVskfxhEMI.md) [https://www.youtube.com/watch?v=uCVskfxhEMI](https://www.youtube.com/watch?v=uCVskfxhEMI)
+* [Snutt & Jace Talk: HelloFresh is here](../../transcriptions/yt-rqkjciniJX8.md) [https://www.youtube.com/watch?v=rqkjciniJX8](https://www.youtube.com/watch?v=rqkjciniJX8)
+* [Q&A: What have you done for us lately?](../../transcriptions/yt-uvXddR4rOiY.md) [https://www.youtube.com/watch?v=uvXddR4rOiY](https://www.youtube.com/watch?v=uvXddR4rOiY)
+
 ## October 12th, 2021 Livestream
 * [Q&A: If Snutt & Jace are trolls, would they live under the bridge?](../../transcriptions/yt-9g3cWpNsCDE.md) [https://www.youtube.com/watch?v=9g3cWpNsCDE](https://www.youtube.com/watch?v=9g3cWpNsCDE)
 * [Community FYI: Remember Jace promises won't break our saves](../../transcriptions/yt-b5lMzGupLTc.md) [https://www.youtube.com/watch?v=b5lMzGupLTc](https://www.youtube.com/watch?v=b5lMzGupLTc)

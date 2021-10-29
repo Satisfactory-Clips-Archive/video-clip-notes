@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Speculative > Satisfactory Update 6
 
+## October 19th, 2021 Livestream
+* [Q&A: What major features are left for Update 6?](../../../transcriptions/yt-4dLz2rdgyQ4.md) [https://www.youtube.com/watch?v=4dLz2rdgyQ4](https://www.youtube.com/watch?v=4dLz2rdgyQ4)
+* [Q&A: Update 6, still at November 31?](../../../transcriptions/yt-_WRAMGtLBqA.md) [https://www.youtube.com/watch?v=_WRAMGtLBqA](https://www.youtube.com/watch?v=_WRAMGtLBqA)
+* [Community FYI: Update 6, Space Trains](../../../transcriptions/yt-DdIhLIUK-es.md) [https://www.youtube.com/watch?v=DdIhLIUK-es](https://www.youtube.com/watch?v=DdIhLIUK-es)
+
 ## October 5th, 2021 Livestream
 * [Q&A: Any idea what the focus of Update 6 will be?](../../../transcriptions/yt-PBqyEgsu2kM.md) [https://www.youtube.com/watch?v=PBqyEgsu2kM](https://www.youtube.com/watch?v=PBqyEgsu2kM)
 

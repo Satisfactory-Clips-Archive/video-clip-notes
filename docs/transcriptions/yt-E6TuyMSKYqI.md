@@ -9,7 +9,7 @@ topics:
 # [October 5th, 2021 Livestream](../2021-10-05.md)
 ## Q&A: Signs coming when, it's most wanted in QA?
 https://www.youtube.com/watch?v=E6TuyMSKYqI
-This question was possibly duplicated with a more recent answer: [October 12th, 2021 Livestream Q&A: Any sign of Signs?](./yt-omx5xQbct6w.md) [https://www.youtube.com/watch?v=omx5xQbct6w](https://www.youtube.com/watch?v=omx5xQbct6w)
+This question was possibly duplicated with a more recent answer: [October 19th, 2021 Livestream Q&A: I know you can't say, but do a cartwheel if you can confirm sweet Signs in Update 5?](./yt-_oCXPPoGHHg.md) [https://www.youtube.com/watch?v=_oCXPPoGHHg](https://www.youtube.com/watch?v=_oCXPPoGHHg)
 
 
 ### Topics

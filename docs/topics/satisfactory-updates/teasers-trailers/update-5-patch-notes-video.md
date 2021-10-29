@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Teasers & Trailers](../../../topics/satisfactory-updates/teasers-trailers.md) > Update 5 Patch Notes Video
 
+## October 19th, 2021 Livestream
+* [State of Dev: Update 5 Patch Notes Video](../../../transcriptions/yt-KCRUGN_SnBk.md) [https://www.youtube.com/watch?v=KCRUGN_SnBk](https://www.youtube.com/watch?v=KCRUGN_SnBk)
+* [Snutt & Jace Talk: The approach for building stuff for the Update 5 Patch Notes Video](../../../transcriptions/yt-9KUYeH8gY90.md) [https://www.youtube.com/watch?v=9KUYeH8gY90](https://www.youtube.com/watch?v=9KUYeH8gY90)
+* [Q&A: Is there going to be a Story in the Patch Notes Video like last time?](../../../transcriptions/yt-iXaBRlK6RiI.md) [https://www.youtube.com/watch?v=iXaBRlK6RiI](https://www.youtube.com/watch?v=iXaBRlK6RiI)
+
 ## October 12th, 2021 Livestream
 * [State of Dev: Update 5 Patch Notes Video pre-production & filming](../../../transcriptions/yt-uIHGjm713qY.md) [https://www.youtube.com/watch?v=uIHGjm713qY](https://www.youtube.com/watch?v=uIHGjm713qY)
 

@@ -5,6 +5,16 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Community Highlights
 
+## October 19th, 2021 Livestream
+* [Jace Talk: HelloFresh again](../../transcriptions/yt-CPfPUf1zmK4.md) [https://www.youtube.com/watch?v=CPfPUf1zmK4](https://www.youtube.com/watch?v=CPfPUf1zmK4)
+* [Snutt & Jace Talk: The approach for building stuff for the Update 5 Patch Notes Video](../../transcriptions/yt-9KUYeH8gY90.md) [https://www.youtube.com/watch?v=9KUYeH8gY90](https://www.youtube.com/watch?v=9KUYeH8gY90)
+* [Snutt & Jace Talk: The dangers of building in the Spire Coast](../../transcriptions/yt-Q3VtHc8K600.md) [https://www.youtube.com/watch?v=Q3VtHc8K600](https://www.youtube.com/watch?v=Q3VtHc8K600)
+* [Snutt & Jace Talk: Can't wait for Marv to make a GIF out of this](../../transcriptions/yt-H00giw7cRz8.md) [https://www.youtube.com/watch?v=H00giw7cRz8](https://www.youtube.com/watch?v=H00giw7cRz8)
+* [Community FYI: Google "ratchet noisemaker"](../../transcriptions/yt-44PjxYJo5KU.md) [https://www.youtube.com/watch?v=44PjxYJo5KU](https://www.youtube.com/watch?v=44PjxYJo5KU)
+* [Q&A: Is it not pronounced "borz-ite" ?](../../transcriptions/yt-wtwjAK1fj_8.md) [https://www.youtube.com/watch?v=wtwjAK1fj_8](https://www.youtube.com/watch?v=wtwjAK1fj_8)
+* [Q&A: Any new Updates for Goat Simulator?](../../transcriptions/yt-zpm_4gQLWqQ.md) [https://www.youtube.com/watch?v=zpm_4gQLWqQ](https://www.youtube.com/watch?v=zpm_4gQLWqQ)
+* [Q&A: But what if I hate programming?](../../transcriptions/yt-8mRS8ucA-2Y.md) [https://www.youtube.com/watch?v=8mRS8ucA-2Y](https://www.youtube.com/watch?v=8mRS8ucA-2Y)
+
 ## October 12th, 2021 Livestream
 * [Community Highlights: Manta lore](../../transcriptions/yt-EfmdHVHibCE.md) [https://www.youtube.com/watch?v=EfmdHVHibCE](https://www.youtube.com/watch?v=EfmdHVHibCE)
 * [Q&A: If Snutt & Jace are trolls, would they live under the bridge?](../../transcriptions/yt-9g3cWpNsCDE.md) [https://www.youtube.com/watch?v=9g3cWpNsCDE](https://www.youtube.com/watch?v=9g3cWpNsCDE)

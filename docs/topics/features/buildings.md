@@ -26,6 +26,13 @@ date: Last Modified
 * [The HUB](../../topics/features/buildings/the-hub.md)
 * [Water Extractor](../../topics/features/buildings/water-extractor.md)
 
+## October 19th, 2021 Livestream
+* [Q&A: Can Machines be rotated like Foundations in Update 5?](../../transcriptions/yt-94G4znvDbiA.md) [https://www.youtube.com/watch?v=94G4znvDbiA](https://www.youtube.com/watch?v=94G4znvDbiA)
+* [Q&A: Free placement on Foundations?](../../transcriptions/yt-5PaZZUkPwjU.md) [https://www.youtube.com/watch?v=5PaZZUkPwjU](https://www.youtube.com/watch?v=5PaZZUkPwjU)
+* Q&A: Will Splitter and Pipe snapping be limited to Machine inputs? [https://www.youtube.com/watch?v=aGn0uLx_wSw](https://www.youtube.com/watch?v=aGn0uLx_wSw)
+* [Q&A: Any plans in the future for new Machines to make Power?](../../transcriptions/yt-nmIwxwjWDp4.md) [https://www.youtube.com/watch?v=nmIwxwjWDp4](https://www.youtube.com/watch?v=nmIwxwjWDp4)
+* [Q&A: What are the chances of getting a Dyson Sphere for super end-game power?](../../transcriptions/yt-akL8F1_RI7k.md) [https://www.youtube.com/watch?v=akL8F1_RI7k](https://www.youtube.com/watch?v=akL8F1_RI7k)
+
 ## October 15th, 2021 Video
 * [Jace Talk: Snap walkways to Buildings](../../transcriptions/yt-jTIAMuPqSlI,173.54003333333333,218.9187.md) [https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=173&end=219](https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=173&end=219)
 * [Jace Talk: Changes to Snapping of Buildings](../../transcriptions/yt-jTIAMuPqSlI,286.1859,341.30763333333334.md) [https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=286&end=342](https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=286&end=342)

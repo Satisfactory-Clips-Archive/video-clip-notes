@@ -20,6 +20,9 @@ date: Last Modified
 * [The Cycle](../topics/off-topic/the-cycle.md)
 * [Valheim](../topics/off-topic/valheim.md)
 
+## October 19th, 2021 Livestream
+* [Snutt & Jace Talk: Skateboarding in Metal Gear Solid 2](../transcriptions/yt-u-F2Orn_I70.md) [https://www.youtube.com/watch?v=u-F2Orn_I70](https://www.youtube.com/watch?v=u-F2Orn_I70)
+
 ## October 5th, 2021 Livestream
 * [Q&A: Jace, how are you liking New World?](../transcriptions/yt-X0mzRnNo5pk.md) [https://www.youtube.com/watch?v=X0mzRnNo5pk](https://www.youtube.com/watch?v=X0mzRnNo5pk)
 

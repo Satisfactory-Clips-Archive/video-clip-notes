@@ -5,6 +5,13 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Requested Features](../../../topics/features/requested-features.md) > Golf
 
+## October 19th, 2021 Livestream
+* [Q&A: State of Golf? (Part 1)](../../../transcriptions/yt-Mzh3VpE5y8Q.md) [https://www.youtube.com/watch?v=Mzh3VpE5y8Q](https://www.youtube.com/watch?v=Mzh3VpE5y8Q)
+* [Q&A: State of Golf? (Part 2)](../../../transcriptions/yt-nmaz0pMi3UY.md) [https://www.youtube.com/watch?v=nmaz0pMi3UY](https://www.youtube.com/watch?v=nmaz0pMi3UY)
+* [Snutt & Jace Talk: Check Golf](../../../transcriptions/yt-SXI5FmhKutQ.md) [https://www.youtube.com/watch?v=SXI5FmhKutQ](https://www.youtube.com/watch?v=SXI5FmhKutQ)
+* [Community FYI: Golf hit number 2 on the dev site](../../../transcriptions/yt-Zjz2NZjmnlw.md) [https://www.youtube.com/watch?v=Zjz2NZjmnlw](https://www.youtube.com/watch?v=Zjz2NZjmnlw)
+* [Community FYI: Fuck Dedicated Servers if we can't Golf with friends](../../../transcriptions/yt-nLuRoqSzLBI.md) [https://www.youtube.com/watch?v=nLuRoqSzLBI](https://www.youtube.com/watch?v=nLuRoqSzLBI)
+
 ## October 12th, 2021 Livestream
 * [Q&A: How is Golf doing?](../../../transcriptions/yt-39UtG3exx2s.md) [https://www.youtube.com/watch?v=39UtG3exx2s](https://www.youtube.com/watch?v=39UtG3exx2s)
 

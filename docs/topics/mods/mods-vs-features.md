@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Mods](../../topics/mods.md) > Mods vs. Features
 
+## October 19th, 2021 Livestream
+* Q&A: Does Panakotta being featured on-stream mean you're going to announce programming for the game? [https://www.youtube.com/watch?v=kiH2sGVhyuk](https://www.youtube.com/watch?v=kiH2sGVhyuk)
+
 ## October 12th, 2021 Livestream
 * [Q&A: Do you plan to port pyanodon mod?](../../transcriptions/yt-8pzKhyBAVmQ.md) [https://www.youtube.com/watch?v=8pzKhyBAVmQ](https://www.youtube.com/watch?v=8pzKhyBAVmQ)
 

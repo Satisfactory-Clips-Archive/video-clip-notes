@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Walls
 
+## October 19th, 2021 Livestream
+* [Q&A: Are the new Walls bought from the AWESOME Shop?](../../../transcriptions/yt-OYF68hbYpnA.md) [https://www.youtube.com/watch?v=OYF68hbYpnA](https://www.youtube.com/watch?v=OYF68hbYpnA)
+* [Q&A: Does the Storage Container have Soft Clearance now so they can get closer to Walls??](../../../transcriptions/yt-EAK8SZUqqIE.md) [https://www.youtube.com/watch?v=EAK8SZUqqIE](https://www.youtube.com/watch?v=EAK8SZUqqIE)
+
 ## September 7th, 2021 Livestream
 * [Q&A: Are we going to have 2m Walls?](../../../transcriptions/yt-okK53vcq2V4.md) [https://www.youtube.com/watch?v=okK53vcq2V4](https://www.youtube.com/watch?v=okK53vcq2V4)
 

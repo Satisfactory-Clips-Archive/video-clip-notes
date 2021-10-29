@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Sweden
 
+## October 19th, 2021 Livestream
+* [Snutt & Jace Talk: Swedish week numbers](../../transcriptions/yt-lu2x9GCm17I.md) [https://www.youtube.com/watch?v=lu2x9GCm17I](https://www.youtube.com/watch?v=lu2x9GCm17I)
+* [Community FYI: Jace is sun tanned, is strange](../../transcriptions/yt-rUIQlG9zVYg.md) [https://www.youtube.com/watch?v=rUIQlG9zVYg](https://www.youtube.com/watch?v=rUIQlG9zVYg)
+
 ## September 14th, 2021 Livestream
 * [Q&A: Are you Swedes?](../../transcriptions/yt-_G-sfOI1QhE.md) [https://www.youtube.com/watch?v=_G-sfOI1QhE](https://www.youtube.com/watch?v=_G-sfOI1QhE)
 

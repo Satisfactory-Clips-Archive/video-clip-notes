@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Biomes](../../../topics/environment/biomes.md) > Spire Coast
 
+## October 19th, 2021 Livestream
+* [Snutt & Jace Talk: The dangers of building in the Spire Coast](../../../transcriptions/yt-Q3VtHc8K600.md) [https://www.youtube.com/watch?v=Q3VtHc8K600](https://www.youtube.com/watch?v=Q3VtHc8K600)
+
 ## August 31st, 2021 Livestream
 * [Q&A: Just how badly will Update 5 mess up my Spire Coast factory?](../../../transcriptions/yt--Fc7oEsjCX4.md) [https://www.youtube.com/watch?v=-Fc7oEsjCX4](https://www.youtube.com/watch?v=-Fc7oEsjCX4)
 

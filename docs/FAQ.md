@@ -2,47 +2,26 @@
 title: "Frequently Asked Questions"
 date: Last Modified
 ---
-## [October 12th, 2021 Livestream](./2021-10-12.md)
-### [Q&A: How is Golf doing?](./transcriptions/yt-39UtG3exx2s.md) [https://www.youtube.com/watch?v=39UtG3exx2s](https://www.youtube.com/watch?v=39UtG3exx2s)
+## [October 19th, 2021 Livestream](./2021-10-19.md)
+### [Q&A: I know you can't say, but do a cartwheel if you can confirm sweet Signs in Update 5?](./transcriptions/yt-_oCXPPoGHHg.md) [https://www.youtube.com/watch?v=_oCXPPoGHHg](https://www.youtube.com/watch?v=_oCXPPoGHHg)
 
 <details>
 
 <summary>A transcript is available</summary>
 
-> how's golf doing yeah that's a good question you all want to see future jace it's a bummer that uh oh okay let's see let's see if i can switch to the screen here yeah yeah here we go so golf is at 13.72 it's a good number but it's not quite 1400 you know it's not quite there and you know since we had the feature freeze last week i mean too bad
+> i miss it jason i know you can't say but do a cartwheel if you can confirm sweet signs in update 5. the problem here is i can't cartwheel of course so like it doesn't matter it doesn't matter like whatever i do it wouldn't be considered a cartwheel anyway even if i was trying as hard as i could to confirm it if it was true was it was it confirmed or or like confirmed it the other way either way right oh okay so i could try cartwheels i can confirm one way or the other if science is coming in update 5. uh yeah by falling by falling or something yeah um somersault is acceptable oh yeah somersault still counts harder if you fall flat though right is it harder because like a somersault is like a flip isn't it like a is it like a backflip or something no that's a backflip somersault is just like jumping and turning your body or something i don't know just i don't know the specifics of somersaulting because i'm no summer saltist but uh i'm pretty sure somersaulting is just like if you just roll like you do some kind of role or talk and it's like a it's like a combination of like words right oh is that like a roll oh you like roll on the ground yeah forward roll on the floor or any roll because you can do a forward somersault in the air you can do a forward somersault on ground like were you rolling
 >
-> [Laughter]
+> [Music]
 >
-> yeah didn't didn't quite make it that's that's a shame make the deadline that's a shame so close i really thought we were gonna get it yeah community really got together and then and then you let us down in the end folks nice loose for getting science those signs was uh science was fifteen hundred i mean sixteen hundred sixty-nine i bet sorry by mistake i was going to say like i don't know how how yeah whatever uh yeah it's a there's a difference there's like a a specific rule in the rulebook that we didn't write um for for signs it needs to be uh 1600 yeah it was 1 000 no no no no no no sorry look look go back and check the vods it was no where are you getting these numbers from it was 1600 otherwise it would be in the game already i know that you people make like deep fakes and like that just pretend that we set a different number and some sometimes they're so good they're deep fakes in the moment in real life like the numbers i'm saying now could still be faked by what you it's real weird man you all are really clever you know how it'd be
+> i'm i think because i think it's just a generic term for like rolling in somewhere it's very solid yeah just do it just do it all right yeah yeah do a kickflip but you can actually do it yeah i did a kickflip yesterday i did two kick flips yesterday oh that's a great place man no that actually is a flex either okay clicks are hard they are really hard yeah they're it's really difficult like people that i know have been skating for a long time still can't do kick flips yeah they're they're they're hard yeah what the hell are we talking about we just stole that should we yeah this whole stream is just one big stall for update five that's that's all it is that's all i've ever been
 
 
 </details>
 
 <details>
-<summary>This question may have been asked previously at least 6 other times, as recently as September 2021 and as early as May 2021.</summary>
+<summary>This question may have been asked previously at least 22 other times, as recently as October 2021 and as early as June 2020.</summary>
 
-* [September 28th, 2021 Livestream Q&A: State of Golf?](./transcriptions/yt-gGnx5xs24jk.md) [https://www.youtube.com/watch?v=gGnx5xs24jk](https://www.youtube.com/watch?v=gGnx5xs24jk)
-* [August 31st, 2021 Livestream Q&A: What about Golf?](./transcriptions/yt-T2ONa1z6jWE.md) [https://www.youtube.com/watch?v=T2ONa1z6jWE](https://www.youtube.com/watch?v=T2ONa1z6jWE)
-* [July 13th, 2021 Livestream Q&A: Golf, when?](./transcriptions/yt-QHzEKv8s86M.md) [https://www.youtube.com/watch?v=QHzEKv8s86M](https://www.youtube.com/watch?v=QHzEKv8s86M)
-* [June 8th, 2021 Livestream Q&A: State of Golf?](./transcriptions/yt-aJVpnKvUiMs.md) [https://www.youtube.com/watch?v=aJVpnKvUiMs](https://www.youtube.com/watch?v=aJVpnKvUiMs)
-* [May 25th, 2021 Livestream Q&A: What's the status of Golf on the QA Site?](./transcriptions/yt-ZW_d-EY-0f4.md) [https://www.youtube.com/watch?v=ZW_d-EY-0f4](https://www.youtube.com/watch?v=ZW_d-EY-0f4)
-* May 11th, 2021 Livestream Q&A: Golf? [https://www.youtube.com/watch?v=iEYrtCLO364](https://www.youtube.com/watch?v=iEYrtCLO364)
-</details>
-
-### [Q&A: Any sign of Signs?](./transcriptions/yt-omx5xQbct6w.md) [https://www.youtube.com/watch?v=omx5xQbct6w](https://www.youtube.com/watch?v=omx5xQbct6w)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> any sign of signs so you can label the areas yeah the signs are are in in the qa site if you go to questions on satisfactorygame.com you can upvote science i was like what the hell are you talking about i didn't know about that hey jay's kitchen they're on keywords yup they're in they're gonna make it into the game at some point yeah we've kind of joked about that for a long time i feel kind of bad about it because we we said that we were gonna have tr like signed for a long time ago yeah and uh that feature kind of got bloated and uh yeah now we've worked on other things uh but yeah they're gonna soon okay at some point yeah we can you use signs you can use the uh power switch as a science in the meantime that worked for me
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 21 other times, as recently as October 2021 and as early as June 2020.</summary>
-
+* [October 12th, 2021 Livestream Q&A: Any sign of Signs?](./transcriptions/yt-omx5xQbct6w.md) [https://www.youtube.com/watch?v=omx5xQbct6w](https://www.youtube.com/watch?v=omx5xQbct6w)
 * [October 5th, 2021 Livestream Q&A: Signs coming when, it's most wanted in QA?](./transcriptions/yt-E6TuyMSKYqI.md) [https://www.youtube.com/watch?v=E6TuyMSKYqI](https://www.youtube.com/watch?v=E6TuyMSKYqI)
 * [September 14th, 2021 Livestream Q&A: Any news about Signs?](./transcriptions/yt-9VRy5YUkq5A.md) [https://www.youtube.com/watch?v=9VRy5YUkq5A](https://www.youtube.com/watch?v=9VRy5YUkq5A)
 * August 17th, 2021 Livestream Q&A: Will you add Signs in the game? [https://www.youtube.com/watch?v=bmLgjjNst3M](https://www.youtube.com/watch?v=bmLgjjNst3M)
@@ -66,20 +45,173 @@ date: Last Modified
 * [June 8th, 2020 Livestream Q&A: What about Signs?](./transcriptions/yt-UGKquiGR0CY.md) [https://www.youtube.com/watch?v=UGKquiGR0CY](https://www.youtube.com/watch?v=UGKquiGR0CY)
 </details>
 
-### [Q&A: Is there any timescale on being able to set up Servers for Satisfactory?](./transcriptions/yt-m2wQcRH7YJE.md) [https://www.youtube.com/watch?v=m2wQcRH7YJE](https://www.youtube.com/watch?v=m2wQcRH7YJE)
+### [Q&A: Is there going to be a Story in the Patch Notes Video like last time?](./transcriptions/yt-iXaBRlK6RiI.md) [https://www.youtube.com/watch?v=iXaBRlK6RiI](https://www.youtube.com/watch?v=iXaBRlK6RiI)
 
 <details>
 
 <summary>A transcript is available</summary>
 
-> uh is there any time scale on to be able to set up service or satisfactory i guess you're talking about dedicated servers uh progress on them is going pretty well um yeah yeah i don't know yeah i don't know we well we'll let you guys know on a day when we feel confident that we can release them we're focusing so much on update 5 right now so yeah
+> yeah somebody asked if there's gonna be like a story in the patchwork video as last time i guess you guys are gonna have to uh wait and see next week
 
 
 </details>
 
 <details>
-<summary>This question may have been asked previously at least 57 other times, as recently as October 2021 and as early as February 2019.</summary>
+<summary>This question may have been asked previously at least 2 other times, as recently as October 2021 and as early as August 2021.</summary>
 
+* [October 5th, 2021 Livestream Q&A: Is Update 5 going to get a Patch Notes video like Update 4?](./transcriptions/yt-Hn0fJFrLEpQ.md) [https://www.youtube.com/watch?v=Hn0fJFrLEpQ](https://www.youtube.com/watch?v=Hn0fJFrLEpQ)
+* [August 31st, 2021 Livestream Q&A: Cinematic or Patch Notes video on release day?](./transcriptions/yt-zKa7fk6vqsQ.md) [https://www.youtube.com/watch?v=zKa7fk6vqsQ](https://www.youtube.com/watch?v=zKa7fk6vqsQ)
+</details>
+
+### Q&A: How many more Updates? [https://www.youtube.com/watch?v=-jMLTqAu7t8](https://www.youtube.com/watch?v=-jMLTqAu7t8)
+
+<details>
+<summary>This question may have been asked previously at least 17 other times, as recently as August 2021 and as early as March 2019.</summary>
+
+* August 17th, 2021 Livestream Q&A: How many Updates after 5? [https://www.youtube.com/watch?v=Rbh6KabAZSY](https://www.youtube.com/watch?v=Rbh6KabAZSY)
+* [August 10th, 2021 Livestream Q&A: How many more updates will you publish before launch](./transcriptions/yt-V9vVWjA75-0.md) [https://www.youtube.com/watch?v=V9vVWjA75-0](https://www.youtube.com/watch?v=V9vVWjA75-0)
+* [July 20th, 2021 Livestream Q&A: How many Updates 'til 1.0?](./transcriptions/yt-CtPbiRm_Geg.md) [https://www.youtube.com/watch?v=CtPbiRm_Geg](https://www.youtube.com/watch?v=CtPbiRm_Geg)
+* [July 6th, 2021 Livestream Q&A: How many Updates until 1.0?](./transcriptions/yt-vGF9MjeBuus.md) [https://www.youtube.com/watch?v=vGF9MjeBuus](https://www.youtube.com/watch?v=vGF9MjeBuus)
+* [May 25th, 2021 Livestream Q&A: How many Updates before Release?](./transcriptions/yt-dHKlfnU7pm8.md) [https://www.youtube.com/watch?v=dHKlfnU7pm8](https://www.youtube.com/watch?v=dHKlfnU7pm8)
+* May 11th, 2021 Livestream Q&A: How many Updates before 1.0? [https://www.youtube.com/watch?v=h3_N7HE2ZPQ](https://www.youtube.com/watch?v=h3_N7HE2ZPQ)
+* April 20th, 2021 Livestream Q&A: How many Updates before full release? [https://www.youtube.com/watch?v=7XSZ-08BaXc](https://www.youtube.com/watch?v=7XSZ-08BaXc)
+* [March 23rd, 2021 Livestream Q&A: How many more big Updates are planned before 1.0?](./transcriptions/yt-RAyToKIKD2I.md) [https://www.youtube.com/watch?v=RAyToKIKD2I](https://www.youtube.com/watch?v=RAyToKIKD2I)
+* March 2nd, 2021 Livestream Q&A: How many Updates are planned before 1.0? [https://www.youtube.com/watch?v=DVSYDPE6STc](https://www.youtube.com/watch?v=DVSYDPE6STc)
+* [February 23rd, 2021 Livestream Q&A: Any more major updates planned before 1.0?](./transcriptions/yt-XLXeOMWHoAc.md) [https://www.youtube.com/watch?v=XLXeOMWHoAc](https://www.youtube.com/watch?v=XLXeOMWHoAc)
+* January 26th, 2021 Livestream Q&A: How many Updates do you have planned before 1.0? [https://www.youtube.com/watch?v=7t2DLBi7kl8](https://www.youtube.com/watch?v=7t2DLBi7kl8)
+* [November 3rd, 2020 Livestream Q&A: How many Updates until 1.0?](./transcriptions/yt-qtf26oE7kQs.md) [https://www.youtube.com/watch?v=qtf26oE7kQs](https://www.youtube.com/watch?v=qtf26oE7kQs)
+* [September 1st, 2020 Livestream Q&A: About how many Updates will there be before 1.0?](./transcriptions/yt-eIolvvHPWmw.md) [https://www.youtube.com/watch?v=eIolvvHPWmw](https://www.youtube.com/watch?v=eIolvvHPWmw)
+* August 18th, 2020 Livestream Q&A: How often will there be updates to the game? [https://clips.twitch.tv/CheerfulZanyWebVoteYea](https://clips.twitch.tv/CheerfulZanyWebVoteYea)
+* [May 19th, 2020 Livestream Q&A: Do you intended to do planned amount of huge Updates?](./transcriptions/yt-Nk53HWpUnnk.md) [https://www.youtube.com/watch?v=Nk53HWpUnnk](https://www.youtube.com/watch?v=Nk53HWpUnnk)
+* [March 24th, 2020 Livestream Q&A: How often will you be releasing new content?](./transcriptions/yt-1gGMZa-xf70.md) [https://www.youtube.com/watch?v=1gGMZa-xf70](https://www.youtube.com/watch?v=1gGMZa-xf70)
+* [March 9th, 2019 Livestream Q&A: How often will you release updates in Early Access?](./transcriptions/yt-PBkvqmyjADM.md) [https://www.youtube.com/watch?v=PBkvqmyjADM](https://www.youtube.com/watch?v=PBkvqmyjADM)
+</details>
+
+### [Q&A: Any word on reducing the Refinery spam further?](./transcriptions/yt-FIsHFVHNdNU.md) [https://www.youtube.com/watch?v=FIsHFVHNdNU](https://www.youtube.com/watch?v=FIsHFVHNdNU)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> games are like that yeah any word on reducing the refinery spam further uh please let us know on the keyway side if you think that refineries is still too too spammy yeah so we did do stuff with that right before yeah we try to balance for that and if you if you feel like there needs to be more balance then you need to let us know in the q a that qa questions on satisfactory game dot com
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 3 other times, as recently as July 2021 and as early as August 2020.</summary>
+
+* [July 20th, 2021 Livestream Q&A: Are you going to add more Buildings to make the game less Refinery-reliant?](./transcriptions/yt-Fp1WczBseIM.md) [https://www.youtube.com/watch?v=Fp1WczBseIM](https://www.youtube.com/watch?v=Fp1WczBseIM)
+* [August 25th, 2020 Livestream Q&A: Do you not think that Refineries are over-used?](./transcriptions/yt-ZUAoFCpE1vY.md) [https://www.youtube.com/watch?v=ZUAoFCpE1vY](https://www.youtube.com/watch?v=ZUAoFCpE1vY)
+* [August 25th, 2020 Livestream Q&A: End game is all about building refineries?](./transcriptions/yt-mZ4l1leFAWY.md) [https://www.youtube.com/watch?v=mZ4l1leFAWY](https://www.youtube.com/watch?v=mZ4l1leFAWY)
+</details>
+
+### [Q&A: State of Golf? (Part 1)](./transcriptions/yt-Mzh3VpE5y8Q.md) [https://www.youtube.com/watch?v=Mzh3VpE5y8Q](https://www.youtube.com/watch?v=Mzh3VpE5y8Q)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> oh state of golf 1 392 only eight more to go is that true let's see here game and switch yeah okay oh eight more to go oh wow look at that let me see if i can bring it up on uh
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 7 other times, as recently as October 2021 and as early as May 2021.</summary>
+
+* [October 12th, 2021 Livestream Q&A: How is Golf doing?](./transcriptions/yt-39UtG3exx2s.md) [https://www.youtube.com/watch?v=39UtG3exx2s](https://www.youtube.com/watch?v=39UtG3exx2s)
+* [September 28th, 2021 Livestream Q&A: State of Golf?](./transcriptions/yt-gGnx5xs24jk.md) [https://www.youtube.com/watch?v=gGnx5xs24jk](https://www.youtube.com/watch?v=gGnx5xs24jk)
+* [August 31st, 2021 Livestream Q&A: What about Golf?](./transcriptions/yt-T2ONa1z6jWE.md) [https://www.youtube.com/watch?v=T2ONa1z6jWE](https://www.youtube.com/watch?v=T2ONa1z6jWE)
+* [July 13th, 2021 Livestream Q&A: Golf, when?](./transcriptions/yt-QHzEKv8s86M.md) [https://www.youtube.com/watch?v=QHzEKv8s86M](https://www.youtube.com/watch?v=QHzEKv8s86M)
+* [June 8th, 2021 Livestream Q&A: State of Golf?](./transcriptions/yt-aJVpnKvUiMs.md) [https://www.youtube.com/watch?v=aJVpnKvUiMs](https://www.youtube.com/watch?v=aJVpnKvUiMs)
+* [May 25th, 2021 Livestream Q&A: What's the status of Golf on the QA Site?](./transcriptions/yt-ZW_d-EY-0f4.md) [https://www.youtube.com/watch?v=ZW_d-EY-0f4](https://www.youtube.com/watch?v=ZW_d-EY-0f4)
+* May 11th, 2021 Livestream Q&A: Golf? [https://www.youtube.com/watch?v=iEYrtCLO364](https://www.youtube.com/watch?v=iEYrtCLO364)
+</details>
+
+### [Q&A: Update 6, still at November 31?](./transcriptions/yt-_WRAMGtLBqA.md) [https://www.youtube.com/watch?v=_WRAMGtLBqA](https://www.youtube.com/watch?v=_WRAMGtLBqA)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> earthquake six still at november 31. oh dear no when was update six can you give us a new datejust or give us what do you mean sorry i'll give you the actual day yeah sorry i misspoke april 7th tired april 7th uh april 7th uh i didn't i meant uh 5th sorry april 5th tuesday april 5th both it could be both um
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 5 other times, as recently as September 2021 and as early as September 2020.</summary>
+
+* [September 21st, 2021 Livestream Q&A: When is Update 6 coming?](./transcriptions/yt-mfgroZAlqis.md) [https://www.youtube.com/watch?v=mfgroZAlqis](https://www.youtube.com/watch?v=mfgroZAlqis)
+* [September 14th, 2021 Livestream Q&A: When will Update 6 be coming?](./transcriptions/yt-MAEyPQndkQM.md) [https://www.youtube.com/watch?v=MAEyPQndkQM](https://www.youtube.com/watch?v=MAEyPQndkQM)
+* [August 31st, 2021 Livestream Q&A: Update 6, when?](./transcriptions/yt-ZNvVgWjUVZ4.md) [https://www.youtube.com/watch?v=ZNvVgWjUVZ4](https://www.youtube.com/watch?v=ZNvVgWjUVZ4)
+* August 3rd, 2021 Livestream Q&A: When's Update 6? [https://www.youtube.com/watch?v=idUzu51pIKQ](https://www.youtube.com/watch?v=idUzu51pIKQ)
+* [September 1st, 2020 Livestream Q&A: When will we release Update 6?](./transcriptions/yt-7Mtw3tqgwKQ.md) [https://www.youtube.com/watch?v=7Mtw3tqgwKQ](https://www.youtube.com/watch?v=7Mtw3tqgwKQ)
+</details>
+
+### [Q&A: Any Update on Overclocked Mk.3 Miners?](./transcriptions/yt-KbLwa5ZKlag.md) [https://www.youtube.com/watch?v=KbLwa5ZKlag](https://www.youtube.com/watch?v=KbLwa5ZKlag)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> any update on overclocked mark three miners no and you probably won't get an update for a long time long time because uh like next update for that might be for potentially update six if we if we have time to look into that flip day six which i'm not saying that we are or will have we'll see we'll get to it when we get to it you know but no no update on that stuff
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 7 other times, as recently as October 2021 and as early as March 2021.</summary>
+
+* [October 5th, 2021 Livestream Q&A: Done any further look into the Mk.3 Miner and the second output?](./transcriptions/yt-hM5HKud0ChI.md) [https://www.youtube.com/watch?v=hM5HKud0ChI](https://www.youtube.com/watch?v=hM5HKud0ChI)
+* [October 5th, 2021 Livestream Q&A: Is there going to be a remedy for Mk.3 Miners being bottlenecked?](./transcriptions/yt-3m_vqCavleY.md) [https://www.youtube.com/watch?v=3m_vqCavleY](https://www.youtube.com/watch?v=3m_vqCavleY)
+* [September 21st, 2021 Livestream Q&A: Can you tell us if we're going to have two exits on the Miners or if you're going to rebalance?](./transcriptions/yt-8CTI5utyv34.md) [https://www.youtube.com/watch?v=8CTI5utyv34](https://www.youtube.com/watch?v=8CTI5utyv34)
+* [August 31st, 2021 Livestream Q&A: Two outputs for Mk.3 Miners?](./transcriptions/yt-Nn8tgBZ8s7M.md) [https://www.youtube.com/watch?v=Nn8tgBZ8s7M](https://www.youtube.com/watch?v=Nn8tgBZ8s7M)
+* [August 10th, 2021 Livestream Q&A: Two exits on Mk.3 Miner?](./transcriptions/yt-96WELYhyRLA.md) [https://www.youtube.com/watch?v=96WELYhyRLA](https://www.youtube.com/watch?v=96WELYhyRLA)
+* [July 20th, 2021 Livestream Q&A: Will Mk.3 Miners get two outputs to transport the full production?](./transcriptions/yt-my4Zmq3LUNU.md) [https://www.youtube.com/watch?v=my4Zmq3LUNU](https://www.youtube.com/watch?v=my4Zmq3LUNU)
+* [March 23rd, 2021 Livestream Q&A: Mk.3 Miner with 1200 resources per minute, put two outputs so we can get all the resources?](./transcriptions/yt-5BOnK8wVCro.md) [https://www.youtube.com/watch?v=5BOnK8wVCro](https://www.youtube.com/watch?v=5BOnK8wVCro)
+</details>
+
+### [Q&A: What day does FICS⁕MAS start?](./transcriptions/yt-R16PE1knvWc.md) [https://www.youtube.com/watch?v=R16PE1knvWc](https://www.youtube.com/watch?v=R16PE1knvWc)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> yeah what did this fixmess start well we don't really know if fixmas is actually going to happen or not yet we don't know yet we we wanted to and we'll have to see but right now we're we've kind of just we're just focusing on update five so we don't really know what happens beyond that just yet
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 8 other times, as recently as September 2021 and as early as December 2020.</summary>
+
+* September 28th, 2021 Livestream Q&A: Will there be a christmas event? [https://www.youtube.com/watch?v=u2ckbRb5PkA](https://www.youtube.com/watch?v=u2ckbRb5PkA)
+* [September 14th, 2021 Livestream Q&A: Is FICS⁕MAS returning this year?](./transcriptions/yt-pcMtby2DOxQ.md) [https://www.youtube.com/watch?v=pcMtby2DOxQ](https://www.youtube.com/watch?v=pcMtby2DOxQ)
+* [January 26th, 2021 Livestream Q&A: Give FICS⁕MAS back?](./transcriptions/yt-CmQgxVzbXoQ.md) [https://www.youtube.com/watch?v=CmQgxVzbXoQ](https://www.youtube.com/watch?v=CmQgxVzbXoQ)
+* [December 15th, 2020 Livestream Q&A: Could it be released to the Modding Community to polish and release it as a Mod?](./transcriptions/yt-MQLuFiVQPYY.md) [https://www.youtube.com/watch?v=MQLuFiVQPYY](https://www.youtube.com/watch?v=MQLuFiVQPYY)
+* [December 15th, 2020 Livestream Q&A: Will the event come back next year?](./transcriptions/yt-6XovxrktCDA.md) [https://www.youtube.com/watch?v=6XovxrktCDA](https://www.youtube.com/watch?v=6XovxrktCDA)
+* [December 15th, 2020 Livestream Q&A: If I backup current version, will FICS⁕MAS still work after the 18th?](./transcriptions/yt-01DJ6EPqTk4.md) [https://www.youtube.com/watch?v=01DJ6EPqTk4](https://www.youtube.com/watch?v=01DJ6EPqTk4)
+* [December 8th, 2020 Livestream Q&A: What are we going to keep after the event?](./transcriptions/yt-nZjZGFce1lE.md) [https://www.youtube.com/watch?v=nZjZGFce1lE](https://www.youtube.com/watch?v=nZjZGFce1lE)
+* [December 8th, 2020 Livestream Q&A: Will Gift Trees continue to produce?](./transcriptions/yt-FqUcLve4Oyc.md) [https://www.youtube.com/watch?v=FqUcLve4Oyc](https://www.youtube.com/watch?v=FqUcLve4Oyc)
+</details>
+
+### [Q&A: Dedicated Servers?](./transcriptions/yt-lkBs9m3qR68.md) [https://www.youtube.com/watch?v=lkBs9m3qR68](https://www.youtube.com/watch?v=lkBs9m3qR68)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> dedicated service we're working on working on the servers working away
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 58 other times, as recently as October 2021 and as early as February 2019.</summary>
+
+* [October 12th, 2021 Livestream Q&A: Is there any timescale on being able to set up Servers for Satisfactory?](./transcriptions/yt-m2wQcRH7YJE.md) [https://www.youtube.com/watch?v=m2wQcRH7YJE](https://www.youtube.com/watch?v=m2wQcRH7YJE)
 * October 5th, 2021 Livestream Q&A: We need Dedicated Servers, please? [https://www.youtube.com/watch?v=aXdXaVs-JQg](https://www.youtube.com/watch?v=aXdXaVs-JQg)
 * [August 31st, 2021 Livestream Q&A: So when is Dedicated Servers coming?](./transcriptions/yt-kNBYYuk8p3U.md) [https://www.youtube.com/watch?v=kNBYYuk8p3U](https://www.youtube.com/watch?v=kNBYYuk8p3U)
 * [August 24th, 2021 Livestream Q&A: Dedicated Servers?](./transcriptions/yt--smbc1rq3iE.md) [https://www.youtube.com/watch?v=-smbc1rq3iE](https://www.youtube.com/watch?v=-smbc1rq3iE)
@@ -139,6 +271,7 @@ date: Last Modified
 * [February 6th, 2019 Livestream Q&A: What's the possibility of Dedicated Servers?](./transcriptions/yt-Dtm6xIj-wM4,718.308644,808.471513.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=718&end=809](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=718&end=809)
 </details>
 
+## [October 12th, 2021 Livestream](./2021-10-12.md)
 ### [Q&A: When does VR support come?](./transcriptions/yt-5GIATvK8NVQ.md) [https://www.youtube.com/watch?v=5GIATvK8NVQ](https://www.youtube.com/watch?v=5GIATvK8NVQ)
 
 <details>
@@ -340,28 +473,6 @@ date: Last Modified
 * [November 3rd, 2020 Livestream Q&A: Will we have Paintable Vehicles?](./transcriptions/yt-Wq7wvbW3fPo.md) [https://www.youtube.com/watch?v=Wq7wvbW3fPo](https://www.youtube.com/watch?v=Wq7wvbW3fPo)
 * [October 20th, 2020 Livestream Q&A: Will Colour Gun work on Vehicles in the future?](./transcriptions/yt-J8M7X0igt2w.md) [https://www.youtube.com/watch?v=J8M7X0igt2w](https://www.youtube.com/watch?v=J8M7X0igt2w)
 * August 18th, 2020 Livestream Q&A: When will we be able to paint our trains? [https://clips.twitch.tv/BelovedBloodyStapleGingerPower](https://clips.twitch.tv/BelovedBloodyStapleGingerPower)
-</details>
-
-### [Q&A: Done any further look into the Mk.3 Miner and the second output?](./transcriptions/yt-hM5HKud0ChI.md) [https://www.youtube.com/watch?v=hM5HKud0ChI](https://www.youtube.com/watch?v=hM5HKud0ChI)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> done any further look into the mark three minor and heart second output no that's the short answer um yeah so there you go no answer no update on that
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 6 other times, as recently as October 2021 and as early as March 2021.</summary>
-
-* [October 5th, 2021 Livestream Q&A: Is there going to be a remedy for Mk.3 Miners being bottlenecked?](./transcriptions/yt-3m_vqCavleY.md) [https://www.youtube.com/watch?v=3m_vqCavleY](https://www.youtube.com/watch?v=3m_vqCavleY)
-* [September 21st, 2021 Livestream Q&A: Can you tell us if we're going to have two exits on the Miners or if you're going to rebalance?](./transcriptions/yt-8CTI5utyv34.md) [https://www.youtube.com/watch?v=8CTI5utyv34](https://www.youtube.com/watch?v=8CTI5utyv34)
-* [August 31st, 2021 Livestream Q&A: Two outputs for Mk.3 Miners?](./transcriptions/yt-Nn8tgBZ8s7M.md) [https://www.youtube.com/watch?v=Nn8tgBZ8s7M](https://www.youtube.com/watch?v=Nn8tgBZ8s7M)
-* [August 10th, 2021 Livestream Q&A: Two exits on Mk.3 Miner?](./transcriptions/yt-96WELYhyRLA.md) [https://www.youtube.com/watch?v=96WELYhyRLA](https://www.youtube.com/watch?v=96WELYhyRLA)
-* [July 20th, 2021 Livestream Q&A: Will Mk.3 Miners get two outputs to transport the full production?](./transcriptions/yt-my4Zmq3LUNU.md) [https://www.youtube.com/watch?v=my4Zmq3LUNU](https://www.youtube.com/watch?v=my4Zmq3LUNU)
-* [March 23rd, 2021 Livestream Q&A: Mk.3 Miner with 1200 resources per minute, put two outputs so we can get all the resources?](./transcriptions/yt-5BOnK8wVCro.md) [https://www.youtube.com/watch?v=5BOnK8wVCro](https://www.youtube.com/watch?v=5BOnK8wVCro)
 </details>
 
 ### [Q&A: Plans to add more Vehicles?](./transcriptions/yt-OUZzVPXgtSM.md) [https://www.youtube.com/watch?v=OUZzVPXgtSM](https://www.youtube.com/watch?v=OUZzVPXgtSM)
@@ -941,20 +1052,6 @@ date: Last Modified
 * [August 1st, 2018 Q&A: Will there be Steam achievements?](./transcriptions/yt-iFAy1NZUOGU,119.72,131.28.md) [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=119&end=132](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=119&end=132)
 </details>
 
-### Q&A: Will there be a christmas event? [https://www.youtube.com/watch?v=u2ckbRb5PkA](https://www.youtube.com/watch?v=u2ckbRb5PkA)
-
-<details>
-<summary>This question may have been asked previously at least 7 other times, as recently as September 2021 and as early as December 2020.</summary>
-
-* [September 14th, 2021 Livestream Q&A: Is FICS⁕MAS returning this year?](./transcriptions/yt-pcMtby2DOxQ.md) [https://www.youtube.com/watch?v=pcMtby2DOxQ](https://www.youtube.com/watch?v=pcMtby2DOxQ)
-* [January 26th, 2021 Livestream Q&A: Give FICS⁕MAS back?](./transcriptions/yt-CmQgxVzbXoQ.md) [https://www.youtube.com/watch?v=CmQgxVzbXoQ](https://www.youtube.com/watch?v=CmQgxVzbXoQ)
-* [December 15th, 2020 Livestream Q&A: Could it be released to the Modding Community to polish and release it as a Mod?](./transcriptions/yt-MQLuFiVQPYY.md) [https://www.youtube.com/watch?v=MQLuFiVQPYY](https://www.youtube.com/watch?v=MQLuFiVQPYY)
-* [December 15th, 2020 Livestream Q&A: Will the event come back next year?](./transcriptions/yt-6XovxrktCDA.md) [https://www.youtube.com/watch?v=6XovxrktCDA](https://www.youtube.com/watch?v=6XovxrktCDA)
-* [December 15th, 2020 Livestream Q&A: If I backup current version, will FICS⁕MAS still work after the 18th?](./transcriptions/yt-01DJ6EPqTk4.md) [https://www.youtube.com/watch?v=01DJ6EPqTk4](https://www.youtube.com/watch?v=01DJ6EPqTk4)
-* [December 8th, 2020 Livestream Q&A: What are we going to keep after the event?](./transcriptions/yt-nZjZGFce1lE.md) [https://www.youtube.com/watch?v=nZjZGFce1lE](https://www.youtube.com/watch?v=nZjZGFce1lE)
-* [December 8th, 2020 Livestream Q&A: Will Gift Trees continue to produce?](./transcriptions/yt-FqUcLve4Oyc.md) [https://www.youtube.com/watch?v=FqUcLve4Oyc](https://www.youtube.com/watch?v=FqUcLve4Oyc)
-</details>
-
 ### [Q&A: Will you add a harder mode at some point with more expensive Recipes?](./transcriptions/yt-vMgvD3QPJqM.md) [https://www.youtube.com/watch?v=vMgvD3QPJqM](https://www.youtube.com/watch?v=vMgvD3QPJqM)
 
 <details>
@@ -1130,26 +1227,6 @@ date: Last Modified
 </details>
 
 ## [September 21st, 2021 Livestream](./2021-09-21.md)
-### [Q&A: When is Update 6 coming?](./transcriptions/yt-mfgroZAlqis.md) [https://www.youtube.com/watch?v=mfgroZAlqis](https://www.youtube.com/watch?v=mfgroZAlqis)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> yep when is update 6 coming november 31st wow uh sorry oh very specific the officers
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 4 other times, as recently as September 2021 and as early as September 2020.</summary>
-
-* [September 14th, 2021 Livestream Q&A: When will Update 6 be coming?](./transcriptions/yt-MAEyPQndkQM.md) [https://www.youtube.com/watch?v=MAEyPQndkQM](https://www.youtube.com/watch?v=MAEyPQndkQM)
-* [August 31st, 2021 Livestream Q&A: Update 6, when?](./transcriptions/yt-ZNvVgWjUVZ4.md) [https://www.youtube.com/watch?v=ZNvVgWjUVZ4](https://www.youtube.com/watch?v=ZNvVgWjUVZ4)
-* August 3rd, 2021 Livestream Q&A: When's Update 6? [https://www.youtube.com/watch?v=idUzu51pIKQ](https://www.youtube.com/watch?v=idUzu51pIKQ)
-* [September 1st, 2020 Livestream Q&A: When will we release Update 6?](./transcriptions/yt-7Mtw3tqgwKQ.md) [https://www.youtube.com/watch?v=7Mtw3tqgwKQ](https://www.youtube.com/watch?v=7Mtw3tqgwKQ)
-</details>
-
 ### [Q&A: When will the game be at full release?](./transcriptions/yt-Diz3iZ5irII.md) [https://www.youtube.com/watch?v=Diz3iZ5irII](https://www.youtube.com/watch?v=Diz3iZ5irII)
 
 <details>
@@ -2207,29 +2284,6 @@ date: Last Modified
 * August 18th, 2020 Livestream Q&A: Will there be a no combat/fight version? [https://clips.twitch.tv/ScaryTangibleTeaMrDestructoid](https://clips.twitch.tv/ScaryTangibleTeaMrDestructoid)
 </details>
 
-### Q&A: How many Updates after 5? [https://www.youtube.com/watch?v=Rbh6KabAZSY](https://www.youtube.com/watch?v=Rbh6KabAZSY)
-
-<details>
-<summary>This question may have been asked previously at least 16 other times, as recently as August 2021 and as early as March 2019.</summary>
-
-* [August 10th, 2021 Livestream Q&A: How many more updates will you publish before launch](./transcriptions/yt-V9vVWjA75-0.md) [https://www.youtube.com/watch?v=V9vVWjA75-0](https://www.youtube.com/watch?v=V9vVWjA75-0)
-* [July 20th, 2021 Livestream Q&A: How many Updates 'til 1.0?](./transcriptions/yt-CtPbiRm_Geg.md) [https://www.youtube.com/watch?v=CtPbiRm_Geg](https://www.youtube.com/watch?v=CtPbiRm_Geg)
-* [July 6th, 2021 Livestream Q&A: How many Updates until 1.0?](./transcriptions/yt-vGF9MjeBuus.md) [https://www.youtube.com/watch?v=vGF9MjeBuus](https://www.youtube.com/watch?v=vGF9MjeBuus)
-* [May 25th, 2021 Livestream Q&A: How many Updates before Release?](./transcriptions/yt-dHKlfnU7pm8.md) [https://www.youtube.com/watch?v=dHKlfnU7pm8](https://www.youtube.com/watch?v=dHKlfnU7pm8)
-* May 11th, 2021 Livestream Q&A: How many Updates before 1.0? [https://www.youtube.com/watch?v=h3_N7HE2ZPQ](https://www.youtube.com/watch?v=h3_N7HE2ZPQ)
-* April 20th, 2021 Livestream Q&A: How many Updates before full release? [https://www.youtube.com/watch?v=7XSZ-08BaXc](https://www.youtube.com/watch?v=7XSZ-08BaXc)
-* [March 23rd, 2021 Livestream Q&A: How many more big Updates are planned before 1.0?](./transcriptions/yt-RAyToKIKD2I.md) [https://www.youtube.com/watch?v=RAyToKIKD2I](https://www.youtube.com/watch?v=RAyToKIKD2I)
-* March 2nd, 2021 Livestream Q&A: How many Updates are planned before 1.0? [https://www.youtube.com/watch?v=DVSYDPE6STc](https://www.youtube.com/watch?v=DVSYDPE6STc)
-* [February 23rd, 2021 Livestream Q&A: Any more major updates planned before 1.0?](./transcriptions/yt-XLXeOMWHoAc.md) [https://www.youtube.com/watch?v=XLXeOMWHoAc](https://www.youtube.com/watch?v=XLXeOMWHoAc)
-* January 26th, 2021 Livestream Q&A: How many Updates do you have planned before 1.0? [https://www.youtube.com/watch?v=7t2DLBi7kl8](https://www.youtube.com/watch?v=7t2DLBi7kl8)
-* [November 3rd, 2020 Livestream Q&A: How many Updates until 1.0?](./transcriptions/yt-qtf26oE7kQs.md) [https://www.youtube.com/watch?v=qtf26oE7kQs](https://www.youtube.com/watch?v=qtf26oE7kQs)
-* [September 1st, 2020 Livestream Q&A: About how many Updates will there be before 1.0?](./transcriptions/yt-eIolvvHPWmw.md) [https://www.youtube.com/watch?v=eIolvvHPWmw](https://www.youtube.com/watch?v=eIolvvHPWmw)
-* August 18th, 2020 Livestream Q&A: How often will there be updates to the game? [https://clips.twitch.tv/CheerfulZanyWebVoteYea](https://clips.twitch.tv/CheerfulZanyWebVoteYea)
-* [May 19th, 2020 Livestream Q&A: Do you intended to do planned amount of huge Updates?](./transcriptions/yt-Nk53HWpUnnk.md) [https://www.youtube.com/watch?v=Nk53HWpUnnk](https://www.youtube.com/watch?v=Nk53HWpUnnk)
-* [March 24th, 2020 Livestream Q&A: How often will you be releasing new content?](./transcriptions/yt-1gGMZa-xf70.md) [https://www.youtube.com/watch?v=1gGMZa-xf70](https://www.youtube.com/watch?v=1gGMZa-xf70)
-* [March 9th, 2019 Livestream Q&A: How often will you release updates in Early Access?](./transcriptions/yt-PBkvqmyjADM.md) [https://www.youtube.com/watch?v=PBkvqmyjADM](https://www.youtube.com/watch?v=PBkvqmyjADM)
-</details>
-
 ### [Q&A: Will there be an Underwater Biome](./transcriptions/yt-u-5r_fGpBz4.md) [https://www.youtube.com/watch?v=u-5r_fGpBz4](https://www.youtube.com/watch?v=u-5r_fGpBz4)
 
 <details>
@@ -2546,24 +2600,6 @@ date: Last Modified
 * [August 25th, 2020 Livestream Q&A: Is there a Battle Royale Mode planned?](./transcriptions/yt-b7ZVifJXBBg.md) [https://www.youtube.com/watch?v=b7ZVifJXBBg](https://www.youtube.com/watch?v=b7ZVifJXBBg)
 * [August 25th, 2020 Livestream Q&A: I want to fire Nukes at my rival Pioneers?](./transcriptions/yt-CQ0vc3uRaw8.md) [https://www.youtube.com/watch?v=CQ0vc3uRaw8](https://www.youtube.com/watch?v=CQ0vc3uRaw8)
 * [February 11th, 2020 Livestream Q&A: Battle Royale?](./transcriptions/yt-fO_ZW22gL-g.md) [https://www.youtube.com/watch?v=fO_ZW22gL-g](https://www.youtube.com/watch?v=fO_ZW22gL-g)
-</details>
-
-### [Q&A: Are you going to add more Buildings to make the game less Refinery-reliant?](./transcriptions/yt-Fp1WczBseIM.md) [https://www.youtube.com/watch?v=Fp1WczBseIM](https://www.youtube.com/watch?v=Fp1WczBseIM)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> are you going to add even more buildings to make the game less refinery reliant like you do with blender i'm not sure i'm not sure what the the details of uh newer buildings are but um there'll be some new stuff we'll see what happens
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 2 other times, as recently as August 2020.</summary>
-
-* [August 25th, 2020 Livestream Q&A: Do you not think that Refineries are over-used?](./transcriptions/yt-ZUAoFCpE1vY.md) [https://www.youtube.com/watch?v=ZUAoFCpE1vY](https://www.youtube.com/watch?v=ZUAoFCpE1vY)
-* [August 25th, 2020 Livestream Q&A: End game is all about building refineries?](./transcriptions/yt-mZ4l1leFAWY.md) [https://www.youtube.com/watch?v=mZ4l1leFAWY](https://www.youtube.com/watch?v=mZ4l1leFAWY)
 </details>
 
 ## [July 16th, 2021 Video](./2021-07-16.md)

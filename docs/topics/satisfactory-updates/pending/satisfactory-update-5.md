@@ -7,6 +7,28 @@ date: Last Modified
 * [Northern Forest World Update Q&A with Hannah](../../../topics/satisfactory-updates/pending/satisfactory-update-5/northern-forest-world-update-q-and-a-with-hannah.md)
 * [#SaveTheWillows](../../../topics/satisfactory-updates/pending/satisfactory-update-5/save-the-willows.md)
 
+## October 22nd, 2021 Video
+* [Jace Talk: Update 5 Experimental Release](../../../transcriptions/yt-cNBKEaJMLyM,4.935811,50.68396666666667.md) [https://youtube.com/embed/cNBKEaJMLyM?autoplay=1&start=4&end=51](https://youtube.com/embed/cNBKEaJMLyM?autoplay=1&start=4&end=51)
+* [Jace Talk: What we've released so far on Update 5](../../../transcriptions/yt-cNBKEaJMLyM,67.73433333333334,114.28083333333333.md) [https://youtube.com/embed/cNBKEaJMLyM?autoplay=1&start=67&end=115](https://youtube.com/embed/cNBKEaJMLyM?autoplay=1&start=67&end=115)
+* [Jace Talk: See you on Tuesday for the Update 5 Launch](../../../transcriptions/yt-cNBKEaJMLyM,139.17236666666668.md) [https://youtube.com/embed/cNBKEaJMLyM?autoplay=1&start=139](https://youtube.com/embed/cNBKEaJMLyM?autoplay=1&start=139)
+
+## October 19th, 2021 Livestream
+* [State of Dev: Update 5 Patch Notes Video](../../../transcriptions/yt-KCRUGN_SnBk.md) [https://www.youtube.com/watch?v=KCRUGN_SnBk](https://www.youtube.com/watch?v=KCRUGN_SnBk)
+* [State of Dev: Fixing Update 5 bugs](../../../transcriptions/yt-Q_TqRnr6QPY.md) [https://www.youtube.com/watch?v=Q_TqRnr6QPY](https://www.youtube.com/watch?v=Q_TqRnr6QPY)
+* [State of Dev: Update 5, bugs expected & working more on features before release on Early Access](../../../transcriptions/yt-W6_1Q5ck7go.md) [https://www.youtube.com/watch?v=W6_1Q5ck7go](https://www.youtube.com/watch?v=W6_1Q5ck7go)
+* [Snutt & Jace Talk: Update 5 Build system improvements](../../../transcriptions/yt-b6oCNvKP844.md) [https://www.youtube.com/watch?v=b6oCNvKP844](https://www.youtube.com/watch?v=b6oCNvKP844)
+* [Snutt & Jace Talk: No more Update 5 Teasers](../../../transcriptions/yt-1h1is537FlQ.md) [https://www.youtube.com/watch?v=1h1is537FlQ](https://www.youtube.com/watch?v=1h1is537FlQ)
+* [Q&A: I know you can't say, but do a cartwheel if you can confirm sweet Signs in Update 5?](../../../transcriptions/yt-_oCXPPoGHHg.md) [https://www.youtube.com/watch?v=_oCXPPoGHHg](https://www.youtube.com/watch?v=_oCXPPoGHHg)
+* [Snutt & Jace Talk: The approach for building stuff for the Update 5 Patch Notes Video](../../../transcriptions/yt-9KUYeH8gY90.md) [https://www.youtube.com/watch?v=9KUYeH8gY90](https://www.youtube.com/watch?v=9KUYeH8gY90)
+* [Q&A: Can Machines be rotated like Foundations in Update 5?](../../../transcriptions/yt-94G4znvDbiA.md) [https://www.youtube.com/watch?v=94G4znvDbiA](https://www.youtube.com/watch?v=94G4znvDbiA)
+* [Q&A: Free placement on Foundations?](../../../transcriptions/yt-5PaZZUkPwjU.md) [https://www.youtube.com/watch?v=5PaZZUkPwjU](https://www.youtube.com/watch?v=5PaZZUkPwjU)
+* Q&A: Will Splitter and Pipe snapping be limited to Machine inputs? [https://www.youtube.com/watch?v=aGn0uLx_wSw](https://www.youtube.com/watch?v=aGn0uLx_wSw)
+* [Q&A: Holiday Event after Update 5?](../../../transcriptions/yt--z7a6lVWssE.md) [https://www.youtube.com/watch?v=-z7a6lVWssE](https://www.youtube.com/watch?v=-z7a6lVWssE)
+* [Q&A: How many patches will Update 5 have?](../../../transcriptions/yt--EJ6SDu7PH0.md) [https://www.youtube.com/watch?v=-EJ6SDu7PH0](https://www.youtube.com/watch?v=-EJ6SDu7PH0)
+* [Community FYI: Dumpster fire confirmed](../../../transcriptions/yt-zWhjt7T1q5s.md) [https://www.youtube.com/watch?v=zWhjt7T1q5s](https://www.youtube.com/watch?v=zWhjt7T1q5s)
+* [Q&A: Will there be a Teaser this week?](../../../transcriptions/yt-kjkDfvLXvf0.md) [https://www.youtube.com/watch?v=kjkDfvLXvf0](https://www.youtube.com/watch?v=kjkDfvLXvf0)
+* [Q&A: How long will the Update be on Experimental?](../../../transcriptions/yt-P2AWq6YaQaw.md) [https://www.youtube.com/watch?v=P2AWq6YaQaw](https://www.youtube.com/watch?v=P2AWq6YaQaw)
+
 ## October 15th, 2021 Video
 * [Jace Talk: Ramp snapping improvements](../../../transcriptions/yt-jTIAMuPqSlI,54.6546,80.08.md) [https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=54&end=81](https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=54&end=81)
 * [Jace Talk: Zooping](../../../transcriptions/yt-jTIAMuPqSlI,80.11336666666666,149.5494.md) [https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=80&end=150](https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=80&end=150)

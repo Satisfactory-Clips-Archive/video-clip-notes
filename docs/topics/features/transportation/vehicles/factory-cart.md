@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > Features > Transportation > [Vehicles](../../../../topics/features/transportation/vehicles.md) > Factory Cart
 
+## October 19th, 2021 Livestream
+* [Q&A: Can you kickflip the Factory Cart?](../../../../transcriptions/yt-9DPH8dxJkA8.md) [https://www.youtube.com/watch?v=9DPH8dxJkA8](https://www.youtube.com/watch?v=9DPH8dxJkA8)
+
 ## August 24th, 2021 Livestream
 * [Snutt Talk: Factory Cart shot in Ramp Railings teaser](../../../../transcriptions/yt-P7tvzz24nkU.md) [https://www.youtube.com/watch?v=P7tvzz24nkU](https://www.youtube.com/watch?v=P7tvzz24nkU)
 

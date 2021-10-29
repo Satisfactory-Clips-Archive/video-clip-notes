@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Off-Topic](../../../topics/off-topic.md) > [Food & Drink](../../../topics/off-topic/food-drink.md) > Pizza
 
+## October 19th, 2021 Livestream
+* [Q&A: What kind of Pizza are you guys having tonight?](../../../transcriptions/yt-rzXOuAA0s20.md) [https://www.youtube.com/watch?v=rzXOuAA0s20](https://www.youtube.com/watch?v=rzXOuAA0s20)
+
 ## September 28th, 2021 Livestream
 * [Community FYI: Pizza is always the answer](../../../transcriptions/yt-h0XfX5_LLdg.md) [https://www.youtube.com/watch?v=h0XfX5_LLdg](https://www.youtube.com/watch?v=h0XfX5_LLdg)
 

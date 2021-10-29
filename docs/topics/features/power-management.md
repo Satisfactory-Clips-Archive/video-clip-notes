@@ -10,6 +10,10 @@ date: Last Modified
 * [Power Storage](../../topics/features/power-management/power-storage.md)
 * [Power Switch](../../topics/features/power-management/power-switch.md)
 
+## October 19th, 2021 Livestream
+* [Q&A: Any plans in the future for new Machines to make Power?](../../transcriptions/yt-nmIwxwjWDp4.md) [https://www.youtube.com/watch?v=nmIwxwjWDp4](https://www.youtube.com/watch?v=nmIwxwjWDp4)
+* [Q&A: What are the chances of getting a Dyson Sphere for super end-game power?](../../transcriptions/yt-akL8F1_RI7k.md) [https://www.youtube.com/watch?v=akL8F1_RI7k](https://www.youtube.com/watch?v=akL8F1_RI7k)
+
 ## September 28th, 2021 Livestream
 * [Q&A: Are Power Buildings classed as manufacturing?](../../transcriptions/yt-7HqeTNU0yrE.md) [https://www.youtube.com/watch?v=7HqeTNU0yrE](https://www.youtube.com/watch?v=7HqeTNU0yrE)
 

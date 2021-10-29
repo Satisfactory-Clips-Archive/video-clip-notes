@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../../../topics.md) > Features > Planned Features > [Build Modes](../../../../topics/features/planned-features/build-modes.md) > Hard & Soft Clearance
 * [Complex Clearance](../../../../topics/features/planned-features/build-modes/hard-soft-clearance/complex-clearance.md)
 
+## October 19th, 2021 Livestream
+* [Q&A: Does the Storage Container have Soft Clearance now so they can get closer to Walls??](../../../../transcriptions/yt-EAK8SZUqqIE.md) [https://www.youtube.com/watch?v=EAK8SZUqqIE](https://www.youtube.com/watch?v=EAK8SZUqqIE)
+
 ## October 12th, 2021 Livestream
 * [Q&A: Are Trains Hard or Soft Clearance?](../../../../transcriptions/yt-IuBqYYZipRc.md) [https://www.youtube.com/watch?v=IuBqYYZipRc](https://www.youtube.com/watch?v=IuBqYYZipRc)
 * [Q&A: Are Beans Hard or Soft Clearance?](../../../../transcriptions/yt-x2lFfUsOhSE.md) [https://www.youtube.com/watch?v=x2lFfUsOhSE](https://www.youtube.com/watch?v=x2lFfUsOhSE)

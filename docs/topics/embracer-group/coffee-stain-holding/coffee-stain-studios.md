@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Embracer Group](../../../topics/embracer-group.md) > Coffee Stain Holding > Coffee Stain Studios
 
+## October 19th, 2021 Livestream
+* [Community FYI: CSS doesn't look for programmers, they already demoted Snutt to Community Manager](../../../transcriptions/yt-vStgG46N-Jk.md) [https://www.youtube.com/watch?v=vStgG46N-Jk](https://www.youtube.com/watch?v=vStgG46N-Jk)
+* [Q&A: How was the VICE interview?](../../../transcriptions/yt-3ru8jpD4xFk.md) [https://www.youtube.com/watch?v=3ru8jpD4xFk](https://www.youtube.com/watch?v=3ru8jpD4xFk)
+
 ## October 15th, 2021 Video
 * [Jace Talk: We're hiring for a Generalist Game Designer](../../../transcriptions/yt-jTIAMuPqSlI,24.051364,54.621233333333336.md) [https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=24&end=55](https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=24&end=55)
 

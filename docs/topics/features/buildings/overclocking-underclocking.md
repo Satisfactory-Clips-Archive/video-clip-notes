@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > Overclocking & Underclocking
 
+## October 19th, 2021 Livestream
+* [Q&A: Any Update on Overclocked Mk.3 Miners?](../../../transcriptions/yt-KbLwa5ZKlag.md) [https://www.youtube.com/watch?v=KbLwa5ZKlag](https://www.youtube.com/watch?v=KbLwa5ZKlag)
+
 ## October 12th, 2021 Livestream
 * [Q&A: Do you plan to increase the Belt speed to 780?](../../../transcriptions/yt-rpK_pbol3-0.md) [https://www.youtube.com/watch?v=rpK_pbol3-0](https://www.youtube.com/watch?v=rpK_pbol3-0)
 

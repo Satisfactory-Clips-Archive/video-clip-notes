@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > Refinery
 
+## October 19th, 2021 Livestream
+* [Q&A: Any word on reducing the Refinery spam further?](../../../transcriptions/yt-FIsHFVHNdNU.md) [https://www.youtube.com/watch?v=FIsHFVHNdNU](https://www.youtube.com/watch?v=FIsHFVHNdNU)
+
 ## August 31st, 2021 Livestream
 * [Q&A: Can you change the inputs & outputs on the Refinery to match the Packager please?](../../../transcriptions/yt-5R_kTzpUoy4.md) [https://www.youtube.com/watch?v=5R_kTzpUoy4](https://www.youtube.com/watch?v=5R_kTzpUoy4)
 

@@ -8,6 +8,12 @@ date: Last Modified
 * [Quick Switch](../../../topics/features/planned-features/build-modes/quick-switch.md)
 * [Zooping](../../../topics/features/planned-features/build-modes/zooping.md)
 
+## October 19th, 2021 Livestream
+* [Snutt & Jace Talk: Update 5 Build system improvements](../../../transcriptions/yt-b6oCNvKP844.md) [https://www.youtube.com/watch?v=b6oCNvKP844](https://www.youtube.com/watch?v=b6oCNvKP844)
+* [Q&A: Can Machines be rotated like Foundations in Update 5?](../../../transcriptions/yt-94G4znvDbiA.md) [https://www.youtube.com/watch?v=94G4znvDbiA](https://www.youtube.com/watch?v=94G4znvDbiA)
+* [Q&A: Free placement on Foundations?](../../../transcriptions/yt-5PaZZUkPwjU.md) [https://www.youtube.com/watch?v=5PaZZUkPwjU](https://www.youtube.com/watch?v=5PaZZUkPwjU)
+* Q&A: Will Splitter and Pipe snapping be limited to Machine inputs? [https://www.youtube.com/watch?v=aGn0uLx_wSw](https://www.youtube.com/watch?v=aGn0uLx_wSw)
+
 ## October 15th, 2021 Video
 * [Jace Talk: Ramp snapping improvements](../../../transcriptions/yt-jTIAMuPqSlI,54.6546,80.08.md) [https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=54&end=81](https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=54&end=81)
 * [Jace Talk: More freedom with Stairs](../../../transcriptions/yt-jTIAMuPqSlI,149.58276666666666,173.49957.md) [https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=149&end=174](https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=149&end=174)

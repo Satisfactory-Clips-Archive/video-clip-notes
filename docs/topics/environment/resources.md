@@ -14,6 +14,9 @@ date: Last Modified
 * [Steel](../../topics/environment/resources/steel.md)
 * [Water](../../topics/environment/resources/water.md)
 
+## October 19th, 2021 Livestream
+* [Q&A: Is it not pronounced "borz-ite" ?](../../transcriptions/yt-wtwjAK1fj_8.md) [https://www.youtube.com/watch?v=wtwjAK1fj_8](https://www.youtube.com/watch?v=wtwjAK1fj_8)
+
 ## October 12th, 2021 Livestream
 * [Q&A: What happens to goods crashed in Trains?](../../transcriptions/yt-nSeeOkx2K3w.md) [https://www.youtube.com/watch?v=nSeeOkx2K3w](https://www.youtube.com/watch?v=nSeeOkx2K3w)
 * [Q&A: Any way to tell a Station to deposit only the specific freight/liquid cart?](../../transcriptions/yt-CeKdl2MMLc0.md) [https://www.youtube.com/watch?v=CeKdl2MMLc0](https://www.youtube.com/watch?v=CeKdl2MMLc0)

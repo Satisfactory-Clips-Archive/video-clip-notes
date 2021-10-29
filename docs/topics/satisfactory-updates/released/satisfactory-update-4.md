@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Released > Satisfactory Update 4
 
+## October 22nd, 2021 Video
+* [Jace Talk: Chat reactions to Update 4 Patch Notes](../../../transcriptions/yt-cNBKEaJMLyM,50.726218,67.70096666666667.md) [https://youtube.com/embed/cNBKEaJMLyM?autoplay=1&start=50&end=68](https://youtube.com/embed/cNBKEaJMLyM?autoplay=1&start=50&end=68)
+
 ## October 12th, 2021 Livestream
 * [Q&A: What will Trains do when you Update the Trains, what settings will they use?](../../../transcriptions/yt-wnEFnE-EF_Y.md) [https://www.youtube.com/watch?v=wnEFnE-EF_Y](https://www.youtube.com/watch?v=wnEFnE-EF_Y)
 

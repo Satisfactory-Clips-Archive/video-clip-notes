@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Conveyor Belts
 
+## October 19th, 2021 Livestream
+* Q&A: Will Splitter and Pipe snapping be limited to Machine inputs? [https://www.youtube.com/watch?v=aGn0uLx_wSw](https://www.youtube.com/watch?v=aGn0uLx_wSw)
+* [Q&A: Any plans on a two-in, two-out Splitter/Merge combo?](../../../transcriptions/yt-rH0er8LCSQM.md) [https://www.youtube.com/watch?v=rH0er8LCSQM](https://www.youtube.com/watch?v=rH0er8LCSQM)
+
 ## October 15th, 2021 Video
 * [Jace Talk: Changes to Snapping of Buildings](../../../transcriptions/yt-jTIAMuPqSlI,286.1859,341.30763333333334.md) [https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=286&end=342](https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=286&end=342)
 * [Jace Talk: Conveyor Belts & Pipes can snap to their own Poles](../../../transcriptions/yt-jTIAMuPqSlI,341.341,369.8695.md) [https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=341&end=370](https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=341&end=370)

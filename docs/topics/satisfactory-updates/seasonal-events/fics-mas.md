@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Seasonal Events](../../../topics/satisfactory-updates/seasonal-events.md) > FICS⁕MAS
 
+## October 19th, 2021 Livestream
+* [Q&A: Holiday Event after Update 5?](../../../transcriptions/yt--z7a6lVWssE.md) [https://www.youtube.com/watch?v=-z7a6lVWssE](https://www.youtube.com/watch?v=-z7a6lVWssE)
+* [Q&A: What day does FICS⁕MAS start?](../../../transcriptions/yt-R16PE1knvWc.md) [https://www.youtube.com/watch?v=R16PE1knvWc](https://www.youtube.com/watch?v=R16PE1knvWc)
+
 ## October 12th, 2021 Livestream
 * [Q&A: Dear Jace & Snutt, can we have FICS⁕MAS items back so I can finish my build off, please?](../../../transcriptions/yt-fmJkYftGKzg.md) [https://www.youtube.com/watch?v=fmJkYftGKzg](https://www.youtube.com/watch?v=fmJkYftGKzg)
 

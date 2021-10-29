@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > AWESOME Store
 
+## October 19th, 2021 Livestream
+* [Q&A: Are the new Walls bought from the AWESOME Shop?](../../../transcriptions/yt-OYF68hbYpnA.md) [https://www.youtube.com/watch?v=OYF68hbYpnA](https://www.youtube.com/watch?v=OYF68hbYpnA)
+
 ## October 5th, 2021 Livestream
 * [Q&A: Item stand from the AWESOME Store?](../../../transcriptions/yt-lmbs2TWqQ5Q.md) [https://www.youtube.com/watch?v=lmbs2TWqQ5Q](https://www.youtube.com/watch?v=lmbs2TWqQ5Q)
 

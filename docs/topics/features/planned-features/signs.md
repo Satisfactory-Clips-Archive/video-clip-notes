@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > Features > Planned Features > Signs
 
+## October 19th, 2021 Livestream
+* [Q&A: I know you can't say, but do a cartwheel if you can confirm sweet Signs in Update 5?](../../../transcriptions/yt-_oCXPPoGHHg.md) [https://www.youtube.com/watch?v=_oCXPPoGHHg](https://www.youtube.com/watch?v=_oCXPPoGHHg)
+
 ## October 12th, 2021 Livestream
 * [Q&A: Any sign of Signs?](../../../transcriptions/yt-omx5xQbct6w.md) [https://www.youtube.com/watch?v=omx5xQbct6w](https://www.youtube.com/watch?v=omx5xQbct6w)
 

@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Mods](../../topics/mods.md) > Smart!
 
+## October 19th, 2021 Livestream
+* Q&A: Did you hire a Smart! mod guy? [https://www.youtube.com/watch?v=kqyPmil15f0](https://www.youtube.com/watch?v=kqyPmil15f0)
+* [Community FYI: We have Smart! at home](../../transcriptions/yt-k19vHBrDeT8.md) [https://www.youtube.com/watch?v=k19vHBrDeT8](https://www.youtube.com/watch?v=k19vHBrDeT8)
+
 ## September 28th, 2021 Livestream
 * [Community FYI: We have Smart! Mod](../../transcriptions/yt-UgLfd0Zjfr8.md) [https://www.youtube.com/watch?v=UgLfd0Zjfr8](https://www.youtube.com/watch?v=UgLfd0Zjfr8)
 

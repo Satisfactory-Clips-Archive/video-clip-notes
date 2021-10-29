@@ -5,6 +5,12 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > State of Dev
 
+## October 19th, 2021 Livestream
+* [State of Dev: Update 5 Patch Notes Video](../../transcriptions/yt-KCRUGN_SnBk.md) [https://www.youtube.com/watch?v=KCRUGN_SnBk](https://www.youtube.com/watch?v=KCRUGN_SnBk)
+* [State of Dev: Fixing Update 5 bugs](../../transcriptions/yt-Q_TqRnr6QPY.md) [https://www.youtube.com/watch?v=Q_TqRnr6QPY](https://www.youtube.com/watch?v=Q_TqRnr6QPY)
+* [State of Dev: Update 5, bugs expected & working more on features before release on Early Access](../../transcriptions/yt-W6_1Q5ck7go.md) [https://www.youtube.com/watch?v=W6_1Q5ck7go](https://www.youtube.com/watch?v=W6_1Q5ck7go)
+* [State of Dev: Build System Changes video](../../transcriptions/yt-M0GvYOyB8xo.md) [https://www.youtube.com/watch?v=M0GvYOyB8xo](https://www.youtube.com/watch?v=M0GvYOyB8xo)
+
 ## October 12th, 2021 Livestream
 * [State of Dev: 2 weeks until Update 5 lands on Experimental](../../transcriptions/yt-TyfO900mn3g.md) [https://www.youtube.com/watch?v=TyfO900mn3g](https://www.youtube.com/watch?v=TyfO900mn3g)
 * [State of Dev: Update 5 Patch Notes Video pre-production & filming](../../transcriptions/yt-uIHGjm713qY.md) [https://www.youtube.com/watch?v=uIHGjm713qY](https://www.youtube.com/watch?v=uIHGjm713qY)

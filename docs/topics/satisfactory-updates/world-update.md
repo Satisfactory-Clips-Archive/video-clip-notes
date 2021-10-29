@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > World Update
 
+## October 19th, 2021 Livestream
+* [Snutt & Jace Talk: The dangers of building in the Spire Coast](../../transcriptions/yt-Q3VtHc8K600.md) [https://www.youtube.com/watch?v=Q3VtHc8K600](https://www.youtube.com/watch?v=Q3VtHc8K600)
+
 ## October 12th, 2021 Livestream
 * [Q&A: You were doing Caves this patch, would there be any possibility of doing anything Underwater?](../../transcriptions/yt-Y9QwQmUtiws.md) [https://www.youtube.com/watch?v=Y9QwQmUtiws](https://www.youtube.com/watch?v=Y9QwQmUtiws)
 * [Community FYI: #SaveTheWillows](../../transcriptions/yt-jKJ-mBnOxQo.md) [https://www.youtube.com/watch?v=jKJ-mBnOxQo](https://www.youtube.com/watch?v=jKJ-mBnOxQo)

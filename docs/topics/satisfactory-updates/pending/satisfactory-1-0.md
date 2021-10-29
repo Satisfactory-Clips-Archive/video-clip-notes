@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Pending > Satisfactory 1.0
 
+## October 19th, 2021 Livestream
+* [Q&A: Will the game be over before Star Citizen?](../../../transcriptions/yt--xV_liae4r0.md) [https://www.youtube.com/watch?v=-xV_liae4r0](https://www.youtube.com/watch?v=-xV_liae4r0)
+
 ## October 5th, 2021 Livestream
 * [Q&A: Are Mercer Spheres & Somersloops going to have any relevance before 1.0?](../../../transcriptions/yt-b9gre_TGBH0.md) [https://www.youtube.com/watch?v=b9gre_TGBH0](https://www.youtube.com/watch?v=b9gre_TGBH0)
 

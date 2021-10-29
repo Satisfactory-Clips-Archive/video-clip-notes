@@ -14,6 +14,10 @@ date: Last Modified
 * [Pollution](../../topics/features/requested-features/pollution.md)
 * [Third-person View](../../topics/features/requested-features/third-person-view.md)
 
+## October 19th, 2021 Livestream
+* [Q&A: Any plans on a two-in, two-out Splitter/Merge combo?](../../transcriptions/yt-rH0er8LCSQM.md) [https://www.youtube.com/watch?v=rH0er8LCSQM](https://www.youtube.com/watch?v=rH0er8LCSQM)
+* [Q&A: What are the chances of getting a Dyson Sphere for super end-game power?](../../transcriptions/yt-akL8F1_RI7k.md) [https://www.youtube.com/watch?v=akL8F1_RI7k](https://www.youtube.com/watch?v=akL8F1_RI7k)
+
 ## October 12th, 2021 Livestream
 * [Q&A: Do you plan to increase the Belt speed to 780?](../../transcriptions/yt-rpK_pbol3-0.md) [https://www.youtube.com/watch?v=rpK_pbol3-0](https://www.youtube.com/watch?v=rpK_pbol3-0)
 

@@ -9,6 +9,9 @@ date: Last Modified
 * [Object Limit](../../topics/technology/unreal-engine/object-limit.md)
 * [Unreal Engine 5](../../topics/technology/unreal-engine/unreal-engine-5.md)
 
+## October 19th, 2021 Livestream
+* [Q&A: Any issues with the new Engine?](../../transcriptions/yt-zZvuDg0BDtw.md) [https://www.youtube.com/watch?v=zZvuDg0BDtw](https://www.youtube.com/watch?v=zZvuDg0BDtw)
+
 ## October 5th, 2021 Livestream
 * [Q&A: Will Engine Upgrade be part of Update 5 for EA?](../../transcriptions/yt-sipvJ2BXWUM.md) [https://www.youtube.com/watch?v=sipvJ2BXWUM](https://www.youtube.com/watch?v=sipvJ2BXWUM)
 * [Q&A: Is the Engine Update because of Trains?](../../transcriptions/yt-A2q3ARe5jtQ.md) [https://www.youtube.com/watch?v=A2q3ARe5jtQ](https://www.youtube.com/watch?v=A2q3ARe5jtQ)

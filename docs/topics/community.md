@@ -23,6 +23,12 @@ date: Last Modified
 * [Tom](../topics/community/tom.md)
 * [Wiki](../topics/community/wiki.md)
 
+## October 22nd, 2021 Video
+* [Jace Talk: What we've released so far on Update 5](../transcriptions/yt-cNBKEaJMLyM,67.73433333333334,114.28083333333333.md) [https://youtube.com/embed/cNBKEaJMLyM?autoplay=1&start=67&end=115](https://youtube.com/embed/cNBKEaJMLyM?autoplay=1&start=67&end=115)
+
+## October 19th, 2021 Livestream
+* [Community FYI: Dumpster fire confirmed](../transcriptions/yt-zWhjt7T1q5s.md) [https://www.youtube.com/watch?v=zWhjt7T1q5s](https://www.youtube.com/watch?v=zWhjt7T1q5s)
+
 ## October 8th, 2021 Video
 * [Jace Talk: Conclusion](../transcriptions/yt-CskxkIepX6Y,1157.2894666666666,1188.2537333333335.md) [https://youtube.com/clip/Ugkx-aOuyaZrZ8R980wzgxZVK9ToRF4s_yVp](https://youtube.com/clip/Ugkx-aOuyaZrZ8R980wzgxZVK9ToRF4s_yVp)
 

@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Mods](../../topics/mods.md) > FicsIt-Networks
 
+## October 19th, 2021 Livestream
+* [Q&A: But what if I hate programming?](../../transcriptions/yt-8mRS8ucA-2Y.md) [https://www.youtube.com/watch?v=8mRS8ucA-2Y](https://www.youtube.com/watch?v=8mRS8ucA-2Y)
+* Q&A: Does Panakotta being featured on-stream mean you're going to announce programming for the game? [https://www.youtube.com/watch?v=kiH2sGVhyuk](https://www.youtube.com/watch?v=kiH2sGVhyuk)
+
 ## April 20th, 2021 Livestream
 * [Q&A: Do you have a favourite Mod?](../../transcriptions/yt-URunN9abrss.md) [https://www.youtube.com/watch?v=URunN9abrss](https://www.youtube.com/watch?v=URunN9abrss)
 

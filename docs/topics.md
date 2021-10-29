@@ -450,6 +450,7 @@ date: Last Modified
 * [Satisfactory Update 6](./topics/satisfactory-updates/speculative/satisfactory-update-6.md)
 * [Satisfactory Update 7](./topics/satisfactory-updates/speculative/satisfactory-update-7.md)
 * [Satisfactory Update 8](./topics/satisfactory-updates/speculative/satisfactory-update-8.md)
+* [Satisfactory Update 9](./topics/satisfactory-updates/speculative/satisfactory-update-9.md)
 * [Satisfactory 2.0](./topics/satisfactory-updates/speculative/satisfactory-2-0.md)
 ---
 
@@ -462,6 +463,7 @@ date: Last Modified
 * [Update 4 Launch Trailer](./topics/satisfactory-updates/teasers-trailers/update-4-launch-trailer.md)
 * [Update 5 Teasers](./topics/satisfactory-updates/teasers-trailers/update-5-teasers.md)
 * [Update 5 Patch Notes Video](./topics/satisfactory-updates/teasers-trailers/update-5-patch-notes-video.md)
+* [Update 5 Launch Stream](./topics/satisfactory-updates/teasers-trailers/update-5-launch-stream.md)
 ---
 * [Soundtrack](./topics/soundtrack.md)
 * [Special Guests](./topics/special-guests.md)

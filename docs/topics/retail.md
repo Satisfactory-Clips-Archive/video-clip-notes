@@ -9,6 +9,9 @@ date: Last Modified
 * [GeForce Now](../topics/retail/geforce-now.md)
 * [Steam Store](../topics/retail/steam-store.md)
 
+## October 19th, 2021 Livestream
+* [Q&A: Will there be a Satisfactory release on GOG.com?](../transcriptions/yt-el3XMRbeP_Y.md) [https://www.youtube.com/watch?v=el3XMRbeP_Y](https://www.youtube.com/watch?v=el3XMRbeP_Y)
+
 ## September 28th, 2021 Livestream
 * [Q&A: If you buy the game Early Access, do you have to buy the real game after?](../transcriptions/yt-gXzduwgrc50.md) [https://www.youtube.com/watch?v=gXzduwgrc50](https://www.youtube.com/watch?v=gXzduwgrc50)
 
