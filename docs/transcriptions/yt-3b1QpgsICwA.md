@@ -8,6 +8,8 @@ topics:
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: What game will come out first, Satisfactory or Star Citizen?
 https://www.youtube.com/watch?v=3b1QpgsICwA
+This question was possibly duplicated with a more recent answer: [October 19th, 2021 Livestream Q&A: Will the game be over before Star Citizen?](./yt--xV_liae4r0.md) [https://www.youtube.com/watch?v=-xV_liae4r0](https://www.youtube.com/watch?v=-xV_liae4r0)
+
 
 ### Topics
 * [Off-Topic](../topics/off-topic.md)

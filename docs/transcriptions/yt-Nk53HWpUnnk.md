@@ -11,7 +11,7 @@ topics:
 # [May 19th, 2020 Livestream](../2020-05-19.md)
 ## Q&A: Do you intended to do planned amount of huge Updates?
 https://www.youtube.com/watch?v=Nk53HWpUnnk
-This question was possibly duplicated with a more recent answer: August 17th, 2021 Livestream Q&A: How many Updates after 5? [https://www.youtube.com/watch?v=Rbh6KabAZSY](https://www.youtube.com/watch?v=Rbh6KabAZSY)
+This question was possibly duplicated with a more recent answer: October 19th, 2021 Livestream Q&A: How many more Updates? [https://www.youtube.com/watch?v=-jMLTqAu7t8](https://www.youtube.com/watch?v=-jMLTqAu7t8)
 
 
 ### Topics

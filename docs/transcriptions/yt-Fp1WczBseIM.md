@@ -10,12 +10,7 @@ topics:
 # [July 20th, 2021 Livestream](../2021-07-20.md)
 ## Q&A: Are you going to add more Buildings to make the game less Refinery-reliant?
 https://www.youtube.com/watch?v=Fp1WczBseIM
-<details>
-<summary>This question may have been asked previously at least 2 other times, as recently as August 2020.</summary>
-
-* [August 25th, 2020 Livestream Q&A: Do you not think that Refineries are over-used?](./yt-ZUAoFCpE1vY.md) [https://www.youtube.com/watch?v=ZUAoFCpE1vY](https://www.youtube.com/watch?v=ZUAoFCpE1vY)
-* [August 25th, 2020 Livestream Q&A: End game is all about building refineries?](./yt-mZ4l1leFAWY.md) [https://www.youtube.com/watch?v=mZ4l1leFAWY](https://www.youtube.com/watch?v=mZ4l1leFAWY)
-</details>
+This question was possibly duplicated with a more recent answer: [October 19th, 2021 Livestream Q&A: Any word on reducing the Refinery spam further?](./yt-FIsHFVHNdNU.md) [https://www.youtube.com/watch?v=FIsHFVHNdNU](https://www.youtube.com/watch?v=FIsHFVHNdNU)
 
 
 ### Topics

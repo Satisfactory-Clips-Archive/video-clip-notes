@@ -8,6 +8,8 @@ topics:
 # [October 5th, 2021 Livestream](../2021-10-05.md)
 ## Q&A: Any idea what the focus of Update 6 will be?
 https://www.youtube.com/watch?v=PBqyEgsu2kM
+This question was possibly duplicated with a more recent answer: [October 19th, 2021 Livestream Q&A: What major features are left for Update 6?](./yt-4dLz2rdgyQ4.md) [https://www.youtube.com/watch?v=4dLz2rdgyQ4](https://www.youtube.com/watch?v=4dLz2rdgyQ4)
+
 
 ### Topics
 * [Satisfactory Updates > Speculative > Satisfactory Update 6](../topics/satisfactory-updates/speculative/satisfactory-update-6.md)

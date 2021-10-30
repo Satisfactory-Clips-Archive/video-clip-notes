@@ -10,7 +10,7 @@ topics:
 # [October 5th, 2021 Livestream](../2021-10-05.md)
 ## Q&A: Is there going to be a remedy for Mk.3 Miners being bottlenecked?
 https://www.youtube.com/watch?v=3m_vqCavleY
-This question was possibly duplicated with a more recent answer: [October 5th, 2021 Livestream Q&A: Done any further look into the Mk.3 Miner and the second output?](./yt-hM5HKud0ChI.md) [https://www.youtube.com/watch?v=hM5HKud0ChI](https://www.youtube.com/watch?v=hM5HKud0ChI)
+This question was possibly duplicated with a more recent answer: [October 19th, 2021 Livestream Q&A: Any Update on Overclocked Mk.3 Miners?](./yt-KbLwa5ZKlag.md) [https://www.youtube.com/watch?v=KbLwa5ZKlag](https://www.youtube.com/watch?v=KbLwa5ZKlag)
 
 
 ### Topics

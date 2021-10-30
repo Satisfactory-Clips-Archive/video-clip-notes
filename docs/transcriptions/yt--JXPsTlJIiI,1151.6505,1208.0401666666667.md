@@ -8,7 +8,7 @@ topics:
 # [December 17th, 2020 Q&A](../2020-12-17.md)
 ## Q&A: Dedicated Server status report!
 https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=1151&end=1209
-This question was possibly duplicated with a more recent answer: [October 12th, 2021 Livestream Q&A: Is there any timescale on being able to set up Servers for Satisfactory?](./yt-m2wQcRH7YJE.md) [https://www.youtube.com/watch?v=m2wQcRH7YJE](https://www.youtube.com/watch?v=m2wQcRH7YJE)
+This question was possibly duplicated with a more recent answer: [October 19th, 2021 Livestream Q&A: Dedicated Servers?](./yt-lkBs9m3qR68.md) [https://www.youtube.com/watch?v=lkBs9m3qR68](https://www.youtube.com/watch?v=lkBs9m3qR68)
 
 
 ### Topics

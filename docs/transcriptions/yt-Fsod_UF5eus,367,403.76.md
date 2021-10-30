@@ -8,7 +8,7 @@ topics:
 # [November 5th, 2019 Q&A](../2019-11-05.md)
 ## Q&A: Dedicated Servers?
 https://youtube.com/embed/Fsod_UF5eus?autoplay=1&start=367&end=404
-This question was possibly duplicated with a more recent answer: [October 12th, 2021 Livestream Q&A: Is there any timescale on being able to set up Servers for Satisfactory?](./yt-m2wQcRH7YJE.md) [https://www.youtube.com/watch?v=m2wQcRH7YJE](https://www.youtube.com/watch?v=m2wQcRH7YJE)
+This question was possibly duplicated with a more recent answer: [October 19th, 2021 Livestream Q&A: Dedicated Servers?](./yt-lkBs9m3qR68.md) [https://www.youtube.com/watch?v=lkBs9m3qR68](https://www.youtube.com/watch?v=lkBs9m3qR68)
 
 
 ### Topics

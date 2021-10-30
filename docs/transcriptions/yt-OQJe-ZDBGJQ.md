@@ -8,6 +8,8 @@ topics:
 # [October 5th, 2021 Livestream](../2021-10-05.md)
 ## Q&A: Will we have any new videos?
 https://www.youtube.com/watch?v=OQJe-ZDBGJQ
+This question was possibly replaced with a more recent answer: [October 19th, 2021 Livestream Q&A: Will there be a Teaser this week?](./yt-kjkDfvLXvf0.md) [https://www.youtube.com/watch?v=kjkDfvLXvf0](https://www.youtube.com/watch?v=kjkDfvLXvf0)
+
 
 ### Topics
 * [Satisfactory Updates > Teasers & Trailers > Update 5 Teasers](../topics/satisfactory-updates/teasers-trailers/update-5-teasers.md)

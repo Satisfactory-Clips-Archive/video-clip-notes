@@ -9,7 +9,7 @@ topics:
 # [August 31st, 2021 Livestream](../2021-08-31.md)
 ## Q&A: Cinematic or Patch Notes video on release day?
 https://www.youtube.com/watch?v=zKa7fk6vqsQ
-This question was possibly duplicated with a more recent answer: [October 5th, 2021 Livestream Q&A: Is Update 5 going to get a Patch Notes video like Update 4?](./yt-Hn0fJFrLEpQ.md) [https://www.youtube.com/watch?v=Hn0fJFrLEpQ](https://www.youtube.com/watch?v=Hn0fJFrLEpQ)
+This question was possibly duplicated with a more recent answer: [October 19th, 2021 Livestream Q&A: Is there going to be a Story in the Patch Notes Video like last time?](./yt-iXaBRlK6RiI.md) [https://www.youtube.com/watch?v=iXaBRlK6RiI](https://www.youtube.com/watch?v=iXaBRlK6RiI)
 
 
 ### Topics

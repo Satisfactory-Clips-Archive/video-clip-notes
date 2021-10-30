@@ -10,7 +10,7 @@ topics:
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: End game is all about building refineries?
 https://www.youtube.com/watch?v=mZ4l1leFAWY
-This question was possibly duplicated with a more recent answer: [July 20th, 2021 Livestream Q&A: Are you going to add more Buildings to make the game less Refinery-reliant?](./yt-Fp1WczBseIM.md) [https://www.youtube.com/watch?v=Fp1WczBseIM](https://www.youtube.com/watch?v=Fp1WczBseIM)
+This question was possibly duplicated with a more recent answer: [October 19th, 2021 Livestream Q&A: Any word on reducing the Refinery spam further?](./yt-FIsHFVHNdNU.md) [https://www.youtube.com/watch?v=FIsHFVHNdNU](https://www.youtube.com/watch?v=FIsHFVHNdNU)
 
 
 ### Topics

@@ -9,7 +9,7 @@ topics:
 # [August 31st, 2021 Livestream](../2021-08-31.md)
 ## Q&A: Two outputs for Mk.3 Miners?
 https://www.youtube.com/watch?v=Nn8tgBZ8s7M
-This question was possibly duplicated with a more recent answer: [October 5th, 2021 Livestream Q&A: Done any further look into the Mk.3 Miner and the second output?](./yt-hM5HKud0ChI.md) [https://www.youtube.com/watch?v=hM5HKud0ChI](https://www.youtube.com/watch?v=hM5HKud0ChI)
+This question was possibly duplicated with a more recent answer: [October 19th, 2021 Livestream Q&A: Any Update on Overclocked Mk.3 Miners?](./yt-KbLwa5ZKlag.md) [https://www.youtube.com/watch?v=KbLwa5ZKlag](https://www.youtube.com/watch?v=KbLwa5ZKlag)
 
 
 ### Topics
