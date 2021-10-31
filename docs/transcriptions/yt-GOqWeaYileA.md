@@ -4,7 +4,7 @@ date: "2021-09-14"
 layout: transcript
 topics:
     - "features/transportation/trains/train-signals"
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [September 14th, 2021 Livestream](../2021-09-14.md)
 ## Q&A: Any Collisions / signalling updates to Trains expected in Update 5?
@@ -51,7 +51,7 @@ This question was possibly replaced with a more recent answer: [October 5th, 202
 
 ### Topics
 * [Features > Transportation > Trains > Train Signals](../topics/features/transportation/trains/train-signals.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript
 

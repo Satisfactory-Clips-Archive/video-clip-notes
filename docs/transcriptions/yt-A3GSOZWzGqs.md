@@ -4,7 +4,7 @@ date: "2021-06-22"
 layout: transcript
 topics:
     - "features/possible-features/blueprints"
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
     - "technology/user-interface"
 ---
 # [June 22nd, 2021 Livestream](../2021-06-22.md)
@@ -15,7 +15,7 @@ This question was possibly duplicated with a more recent answer: [September 28th
 
 ### Topics
 * [Features > Possible Features > Blueprints](../topics/features/possible-features/blueprints.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 * [Technology > User Interface](../topics/technology/user-interface.md)
 
 ### Transcript

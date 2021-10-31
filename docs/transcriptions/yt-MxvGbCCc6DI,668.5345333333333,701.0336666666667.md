@@ -3,14 +3,14 @@ title: "August 6th, 2021 Video Jace Talk: Water changes not coming in Update 5"
 date: "2021-08-06"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [August 6th, 2021 Video](../2021-08-06.md)
 ## Jace Talk: Water changes not coming in Update 5
 https://youtube.com/clip/UgyuVzQ9hVSDqmBsVK94AaABCQ
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript
 

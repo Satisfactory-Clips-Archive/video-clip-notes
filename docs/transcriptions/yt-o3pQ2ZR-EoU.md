@@ -3,7 +3,7 @@ title: "March 2nd, 2021 Livestream Q&A: Status of Dedicated Servers?"
 date: "2021-03-02"
 layout: transcript
 topics:
-    - "features/planned-features/dedicated-servers"
+    - "features/multiplayer/dedicated-servers"
 ---
 # [March 2nd, 2021 Livestream](../2021-03-02.md)
 ## Q&A: Status of Dedicated Servers?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: October 26th, 2
 
 
 ### Topics
-* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+* [Features > Multiplayer > Dedicated Servers](../topics/features/multiplayer/dedicated-servers.md)
 
 ### Transcript
 

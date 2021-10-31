@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "features/buildables/lights"
     - "features/buildables/roofs"
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [September 28th, 2021 Livestream](../2021-09-28.md)
 ## Q&A: Can you put ceiling Lights on the slanted Roof pieces?
@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=Pt1KjHKo_As
 ### Topics
 * [Features > Buildables > Lights](../topics/features/buildables/lights.md)
 * [Features > Buildables > Roofs](../topics/features/buildables/roofs.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript
 

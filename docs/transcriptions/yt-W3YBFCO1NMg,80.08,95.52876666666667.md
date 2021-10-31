@@ -4,8 +4,8 @@ date: "2021-09-24"
 layout: transcript
 topics:
     - "features/save-system"
-    - "satisfactory-updates/pending/satisfactory-update-5"
     - "satisfactory-updates/release-builds"
+    - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [September 24th, 2021 Video](../2021-09-24.md)
 ## Jace Talk: Back up your saves
@@ -13,8 +13,8 @@ https://youtube.com/clip/UgkxRT_6nzgEfU7ffNARf4A2Sryn8R83sglP
 
 ### Topics
 * [Features > Save System](../topics/features/save-system.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
 * [Satisfactory Updates > Release Builds](../topics/satisfactory-updates/release-builds.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript
 

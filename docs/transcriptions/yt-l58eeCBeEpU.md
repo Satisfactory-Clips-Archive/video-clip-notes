@@ -3,14 +3,14 @@ title: "September 29th, 2020 Livestream Q&A: The use-case for Dedicated Servers 
 date: "2020-09-29"
 layout: transcript
 topics:
-    - "features/planned-features/dedicated-servers"
+    - "features/multiplayer/dedicated-servers"
 ---
 # [September 29th, 2020 Livestream](../2020-09-29.md)
 ## Q&A: The use-case for Dedicated Servers is specifically so you can have a centralised file (etc.)
 https://www.youtube.com/watch?v=l58eeCBeEpU
 
 ### Topics
-* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+* [Features > Multiplayer > Dedicated Servers](../topics/features/multiplayer/dedicated-servers.md)
 
 ### Transcript
 

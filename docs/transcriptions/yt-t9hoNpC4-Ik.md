@@ -3,7 +3,7 @@ title: "January 22nd, 2020 Livestream Snutt & Jace Talk: The state of Dedicated 
 date: "2020-01-22"
 layout: transcript
 topics:
-    - "features/planned-features/dedicated-servers"
+    - "features/multiplayer/dedicated-servers"
     - "satisfactory-updates/state-of-dev"
 ---
 # [January 22nd, 2020 Livestream](../2020-01-22.md)
@@ -11,7 +11,7 @@ topics:
 https://www.youtube.com/watch?v=t9hoNpC4-Ik
 
 ### Topics
-* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+* [Features > Multiplayer > Dedicated Servers](../topics/features/multiplayer/dedicated-servers.md)
 * [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 
 ### Transcript

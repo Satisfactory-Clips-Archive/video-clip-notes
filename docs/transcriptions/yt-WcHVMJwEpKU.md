@@ -3,14 +3,14 @@ title: "August 17th, 2021 Livestream Snutt & Jace Talk: Golf"
 date: "2021-08-17"
 layout: transcript
 topics:
-    - "features/requested-features/golf"
+    - "features/unplanned-features/golf"
 ---
 # [August 17th, 2021 Livestream](../2021-08-17.md)
 ## Snutt & Jace Talk: Golf
 https://www.youtube.com/watch?v=WcHVMJwEpKU
 
 ### Topics
-* [Features > Requested Features > Golf](../topics/features/requested-features/golf.md)
+* [Features > Unplanned Features > Golf](../topics/features/unplanned-features/golf.md)
 
 ### Transcript
 

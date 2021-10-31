@@ -3,8 +3,8 @@ title: "February 23rd, 2021 Livestream Q&A: Dedicated Servers confirmed for Upda
 date: "2021-02-23"
 layout: transcript
 topics:
-    - "features/planned-features/dedicated-servers"
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "features/multiplayer/dedicated-servers"
+    - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [February 23rd, 2021 Livestream](../2021-02-23.md)
 ## Q&A: Dedicated Servers confirmed for Update 5?
@@ -13,8 +13,8 @@ This question was possibly duplicated with a more recent answer: October 26th, 2
 
 
 ### Topics
-* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Features > Multiplayer > Dedicated Servers](../topics/features/multiplayer/dedicated-servers.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript
 

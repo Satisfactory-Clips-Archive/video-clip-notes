@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "coffee-stainers/mark"
     - "features/planned-features/build-modes/zooping"
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [September 7th, 2021 Livestream](../2021-09-07.md)
 ## Q&A: Where's the term "Zoop" come from?
@@ -16,7 +16,7 @@ This question was possibly duplicated with a more recent answer: [September 28th
 ### Topics
 * [Coffee Stainers > Mark](../topics/coffee-stainers/mark.md)
 * [Features > Planned Features > Build Modes > Zooping](../topics/features/planned-features/build-modes/zooping.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript
 

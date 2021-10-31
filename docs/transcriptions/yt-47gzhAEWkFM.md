@@ -3,7 +3,7 @@ title: "December 8th, 2020 Livestream Q&A: Is there a reason for a lack of Dedic
 date: "2020-12-08"
 layout: transcript
 topics:
-    - "features/planned-features/dedicated-servers"
+    - "features/multiplayer/dedicated-servers"
 ---
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Q&A: Is there a reason for a lack of Dedicated Server builds?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: October 26th, 2
 
 
 ### Topics
-* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+* [Features > Multiplayer > Dedicated Servers](../topics/features/multiplayer/dedicated-servers.md)
 
 ### Transcript
 

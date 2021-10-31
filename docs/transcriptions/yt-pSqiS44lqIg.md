@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "environment/resources/sam-ore"
     - "satisfactory-updates/pending/satisfactory-1-0"
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [June 8th, 2021 Livestream](../2021-06-08.md)
 ## Q&A: Is S.A.M. Ore going to be used in the next Update?
@@ -16,7 +16,7 @@ This question was possibly duplicated with a more recent answer: [September 14th
 ### Topics
 * [Environment > Resources > S.A.M. Ore](../topics/environment/resources/sam-ore.md)
 * [Satisfactory Updates > Pending > Satisfactory 1.0](../topics/satisfactory-updates/pending/satisfactory-1-0.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript
 

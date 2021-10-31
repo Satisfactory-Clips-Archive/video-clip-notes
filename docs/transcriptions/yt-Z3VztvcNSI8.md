@@ -3,14 +3,14 @@ title: "January 12th, 2021 Livestream Snutt & Jace Talk: Dedicated Servers"
 date: "2021-01-12"
 layout: transcript
 topics:
-    - "features/planned-features/dedicated-servers"
+    - "features/multiplayer/dedicated-servers"
 ---
 # [January 12th, 2021 Livestream](../2021-01-12.md)
 ## Snutt & Jace Talk: Dedicated Servers
 https://www.youtube.com/watch?v=Z3VztvcNSI8
 
 ### Topics
-* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+* [Features > Multiplayer > Dedicated Servers](../topics/features/multiplayer/dedicated-servers.md)
 
 ### Transcript
 

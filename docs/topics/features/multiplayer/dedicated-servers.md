@@ -3,7 +3,7 @@ title: "Dedicated Servers"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiErU4o7RRN4bcc2H_F-wO-dl
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > Planned Features > Dedicated Servers
+# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Multiplayer](../../../topics/features/multiplayer.md) > Dedicated Servers
 
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
 * Q&A: Dedicated Servers? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=1873&end=2084](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=1873&end=2084)

@@ -6,7 +6,7 @@ topics:
     - "coffee-stainers"
     - "features/roadmap"
     - "satisfactory-updates"
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
     - "satisfactory-updates/seasonal-events/fics-mas"
     - "satisfactory-updates/state-of-dev"
 ---
@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=6HuXkOLqZN8
 * [Coffee Stainers](../topics/coffee-stainers.md)
 * [Features > Roadmap](../topics/features/roadmap.md)
 * [Satisfactory Updates](../topics/satisfactory-updates.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 * [Satisfactory Updates > Seasonal Events > FICS⁕MAS](../topics/satisfactory-updates/seasonal-events/fics-mas.md)
 * [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 

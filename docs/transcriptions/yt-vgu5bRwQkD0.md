@@ -3,14 +3,14 @@ title: "October 5th, 2021 Livestream Snutt & Jace Talk: Update 5 Content Freeze"
 date: "2021-10-05"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [October 5th, 2021 Livestream](../2021-10-05.md)
 ## Snutt & Jace Talk: Update 5 Content Freeze
 https://www.youtube.com/watch?v=vgu5bRwQkD0
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript
 

@@ -3,7 +3,7 @@ title: "September 22nd, 2020 Livestream Q&A: Are there server files when I want 
 date: "2020-09-22"
 layout: transcript
 topics:
-    - "features/planned-features/dedicated-servers"
+    - "features/multiplayer/dedicated-servers"
 ---
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Q&A: Are there server files when I want to host my own Dedicated Server?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: October 26th, 2
 
 
 ### Topics
-* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+* [Features > Multiplayer > Dedicated Servers](../topics/features/multiplayer/dedicated-servers.md)
 
 ### Transcript
 

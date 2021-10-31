@@ -3,7 +3,7 @@ title: "June 29th, 2021 Livestream Trolling: Dedicated Servers please"
 date: "2021-06-29"
 layout: transcript
 topics:
-    - "features/planned-features/dedicated-servers"
+    - "features/multiplayer/dedicated-servers"
     - "qa-site"
     - "trolling"
 ---
@@ -12,7 +12,7 @@ topics:
 https://www.youtube.com/watch?v=12HEwpNJ8zs
 
 ### Topics
-* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+* [Features > Multiplayer > Dedicated Servers](../topics/features/multiplayer/dedicated-servers.md)
 * [QA Site](../topics/qa-site.md)
 * [Trolling](../topics/trolling.md)
 

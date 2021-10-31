@@ -3,7 +3,7 @@ title: "June 15th, 2021 Livestream Q&A: TL;DR on State of Dev?"
 date: "2021-06-15"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
     - "satisfactory-updates/state-of-dev"
     - "satisfactory-updates/teasers-trailers"
 ---
@@ -12,7 +12,7 @@ topics:
 https://www.youtube.com/watch?v=AJZBEJHOvIM
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 * [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 * [Satisfactory Updates > Teasers & Trailers](../topics/satisfactory-updates/teasers-trailers.md)
 

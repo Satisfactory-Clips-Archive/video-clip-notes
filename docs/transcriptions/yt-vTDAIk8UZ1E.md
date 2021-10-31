@@ -3,14 +3,14 @@ title: "April 27th, 2021 Livestream Snutt Talk: Livestream !golf command"
 date: "2021-04-27"
 layout: transcript
 topics:
-    - "features/requested-features/golf"
+    - "features/unplanned-features/golf"
 ---
 # [April 27th, 2021 Livestream](../2021-04-27.md)
 ## Snutt Talk: Livestream !golf command
 https://www.youtube.com/watch?v=vTDAIk8UZ1E
 
 ### Topics
-* [Features > Requested Features > Golf](../topics/features/requested-features/golf.md)
+* [Features > Unplanned Features > Golf](../topics/features/unplanned-features/golf.md)
 
 ### Transcript
 

@@ -5,8 +5,8 @@ layout: transcript
 topics:
     - "features/fluids/pipes"
     - "satisfactory-updates"
-    - "satisfactory-updates/pending/satisfactory-update-5"
     - "satisfactory-updates/released/satisfactory-update-3"
+    - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [May 18th, 2021 Livestream](../2021-05-18.md)
 ## Q&A: Mk.2 Pipes are fixed?
@@ -15,8 +15,8 @@ https://www.youtube.com/watch?v=qbY-LRh-Tus
 ### Topics
 * [Features > Fluids > Pipes](../topics/features/fluids/pipes.md)
 * [Satisfactory Updates](../topics/satisfactory-updates.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
 * [Satisfactory Updates > Released > Satisfactory Update 3](../topics/satisfactory-updates/released/satisfactory-update-3.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript
 

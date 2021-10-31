@@ -3,7 +3,7 @@ title: "November 24th, 2020 Livestream Q&A: Dedicated Servers in Update 4?"
 date: "2020-11-24"
 layout: transcript
 topics:
-    - "features/planned-features/dedicated-servers"
+    - "features/multiplayer/dedicated-servers"
     - "satisfactory-updates/released/satisfactory-update-4"
 ---
 # [November 24th, 2020 Livestream](../2020-11-24.md)
@@ -13,7 +13,7 @@ This question was possibly duplicated with a more recent answer: [January 19th, 
 
 
 ### Topics
-* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+* [Features > Multiplayer > Dedicated Servers](../topics/features/multiplayer/dedicated-servers.md)
 * [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 
 ### Transcript

@@ -4,7 +4,7 @@ date: "2021-06-01"
 layout: transcript
 topics:
     - "features/multiplayer"
-    - "features/planned-features/dedicated-servers"
+    - "features/multiplayer/dedicated-servers"
 ---
 # [June 1st, 2021 Livestream](../2021-06-01.md)
 ## Q&A: How many people can be on one save without Servers?
@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=7uSzql6YPJc
 
 ### Topics
 * [Features > Multiplayer](../topics/features/multiplayer.md)
-* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+* [Features > Multiplayer > Dedicated Servers](../topics/features/multiplayer/dedicated-servers.md)
 
 ### Transcript
 

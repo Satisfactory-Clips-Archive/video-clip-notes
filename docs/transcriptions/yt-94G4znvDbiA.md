@@ -6,7 +6,7 @@ topics:
     - "features/buildables/foundations"
     - "features/buildings"
     - "features/planned-features/build-modes"
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
     - "satisfactory-updates/teasers-trailers/update-5-teasers"
 ---
 # [October 19th, 2021 Livestream](../2021-10-19.md)
@@ -17,7 +17,7 @@ https://www.youtube.com/watch?v=94G4znvDbiA
 * [Features > Buildables > Foundations](../topics/features/buildables/foundations.md)
 * [Features > Buildings](../topics/features/buildings.md)
 * [Features > Planned Features > Build Modes](../topics/features/planned-features/build-modes.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 * [Satisfactory Updates > Teasers & Trailers > Update 5 Teasers](../topics/satisfactory-updates/teasers-trailers/update-5-teasers.md)
 
 ### Transcript

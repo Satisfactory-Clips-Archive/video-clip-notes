@@ -3,14 +3,14 @@ title: "February 9th, 2021 Livestream Q&A: What is your most asked question?"
 date: "2021-02-09"
 layout: transcript
 topics:
-    - "features/planned-features/dedicated-servers"
+    - "features/multiplayer/dedicated-servers"
 ---
 # [February 9th, 2021 Livestream](../2021-02-09.md)
 ## Q&A: What is your most asked question?
 https://www.youtube.com/watch?v=hexlRuMQ27I
 
 ### Topics
-* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+* [Features > Multiplayer > Dedicated Servers](../topics/features/multiplayer/dedicated-servers.md)
 
 ### Transcript
 

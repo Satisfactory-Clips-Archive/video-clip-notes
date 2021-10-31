@@ -8,7 +8,7 @@ topics:
     - "coffee-stainers/g2"
     - "coffee-stainers/rasmus"
     - "coffee-stainers/tobias"
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [October 12th, 2021 Livestream](../2021-10-12.md)
 ## Jace Talk: Shoutouts for Coffee Stainers implementing Update 5 features
@@ -20,7 +20,7 @@ https://www.youtube.com/watch?v=OfbGW1Nb-XI
 * [Coffee Stainers > G2](../topics/coffee-stainers/g2.md)
 * [Coffee Stainers > Rasmus](../topics/coffee-stainers/rasmus.md)
 * [Coffee Stainers > Tobias](../topics/coffee-stainers/tobias.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript
 

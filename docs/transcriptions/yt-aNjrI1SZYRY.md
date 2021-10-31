@@ -3,7 +3,7 @@ title: "June 29th, 2021 Livestream Community FYI: Just as long as it comes with 
 date: "2021-06-29"
 layout: transcript
 topics:
-    - "features/planned-features/dedicated-servers"
+    - "features/multiplayer/dedicated-servers"
     - "satisfactory-updates/pending/satisfactory-1-0"
     - "trolling"
 ---
@@ -12,7 +12,7 @@ topics:
 https://www.youtube.com/watch?v=aNjrI1SZYRY
 
 ### Topics
-* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+* [Features > Multiplayer > Dedicated Servers](../topics/features/multiplayer/dedicated-servers.md)
 * [Satisfactory Updates > Pending > Satisfactory 1.0](../topics/satisfactory-updates/pending/satisfactory-1-0.md)
 * [Trolling](../topics/trolling.md)
 

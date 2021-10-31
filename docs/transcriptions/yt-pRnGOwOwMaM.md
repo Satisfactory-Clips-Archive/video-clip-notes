@@ -6,7 +6,7 @@ topics:
     - "community/mcgalleon"
     - "features/buildables/jump-pads"
     - "features/transportation/vehicles/autopilot"
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [September 14th, 2021 Livestream](../2021-09-14.md)
 ## Q&A: What if I use Jump Pads now, though?
@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=pRnGOwOwMaM
 * [Community > McGalleon](../topics/community/mcgalleon.md)
 * [Features > Buildables > Jump Pads](../topics/features/buildables/jump-pads.md)
 * [Features > Transportation > Vehicles > Autopilot](../topics/features/transportation/vehicles/autopilot.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript
 

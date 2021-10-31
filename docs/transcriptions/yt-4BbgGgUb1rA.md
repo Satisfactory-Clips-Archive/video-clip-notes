@@ -3,7 +3,7 @@ title: "February 11th, 2020 Livestream Q&A: Are Dedicated Servers part of Update
 date: "2020-02-11"
 layout: transcript
 topics:
-    - "features/planned-features/dedicated-servers"
+    - "features/multiplayer/dedicated-servers"
     - "satisfactory-updates/released/satisfactory-update-3"
 ---
 # [February 11th, 2020 Livestream](../2020-02-11.md)
@@ -13,7 +13,7 @@ This question was possibly replaced with a more recent answer: [January 19th, 20
 
 
 ### Topics
-* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+* [Features > Multiplayer > Dedicated Servers](../topics/features/multiplayer/dedicated-servers.md)
 * [Satisfactory Updates > Released > Satisfactory Update 3](../topics/satisfactory-updates/released/satisfactory-update-3.md)
 
 ### Transcript

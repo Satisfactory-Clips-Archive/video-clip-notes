@@ -3,7 +3,7 @@ title: "January 22nd, 2020 Livestream Q&A: Dedicated Servers, will they cost any
 date: "2020-01-22"
 layout: transcript
 topics:
-    - "features/planned-features/dedicated-servers"
+    - "features/multiplayer/dedicated-servers"
 ---
 # [January 22nd, 2020 Livestream](../2020-01-22.md)
 ## Q&A: Dedicated Servers, will they cost anything?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: July 28th, 2020
 
 
 ### Topics
-* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+* [Features > Multiplayer > Dedicated Servers](../topics/features/multiplayer/dedicated-servers.md)
 
 ### Transcript
 

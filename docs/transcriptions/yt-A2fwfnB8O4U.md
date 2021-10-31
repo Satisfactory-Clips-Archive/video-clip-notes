@@ -4,7 +4,7 @@ date: "2020-11-03"
 layout: transcript
 topics:
     - "features/multiplayer"
-    - "features/planned-features/dedicated-servers"
+    - "features/multiplayer/dedicated-servers"
     - "features/tiers"
 ---
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=A2fwfnB8O4U
 
 ### Topics
 * [Features > Multiplayer](../topics/features/multiplayer.md)
-* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+* [Features > Multiplayer > Dedicated Servers](../topics/features/multiplayer/dedicated-servers.md)
 * [Features > Tiers](../topics/features/tiers.md)
 
 ### Transcript

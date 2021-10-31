@@ -3,7 +3,7 @@ title: "June 1st, 2021 Livestream Q&A: Will Dedicated Servers be able to run on 
 date: "2021-06-01"
 layout: transcript
 topics:
-    - "features/planned-features/dedicated-servers"
+    - "features/multiplayer/dedicated-servers"
     - "technology/linux"
 ---
 # [June 1st, 2021 Livestream](../2021-06-01.md)
@@ -13,7 +13,7 @@ This question was possibly duplicated with a more recent answer: [October 5th, 2
 
 
 ### Topics
-* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+* [Features > Multiplayer > Dedicated Servers](../topics/features/multiplayer/dedicated-servers.md)
 * [Technology > Linux](../topics/technology/linux.md)
 
 ### Transcript

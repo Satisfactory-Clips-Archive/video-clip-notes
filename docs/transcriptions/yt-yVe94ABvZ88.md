@@ -3,7 +3,7 @@ title: "June 29th, 2021 Livestream Q&A: Dedicated Servers on Windows & Linux?"
 date: "2021-06-29"
 layout: transcript
 topics:
-    - "features/planned-features/dedicated-servers"
+    - "features/multiplayer/dedicated-servers"
 ---
 # [June 29th, 2021 Livestream](../2021-06-29.md)
 ## Q&A: Dedicated Servers on Windows & Linux?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: [October 5th, 2
 
 
 ### Topics
-* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+* [Features > Multiplayer > Dedicated Servers](../topics/features/multiplayer/dedicated-servers.md)
 
 ### Transcript
 

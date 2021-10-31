@@ -4,7 +4,7 @@ date: "2021-08-31"
 layout: transcript
 topics:
     - "environment/biomes/spire-coast"
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [August 31st, 2021 Livestream](../2021-08-31.md)
 ## Q&A: Just how badly will Update 5 mess up my Spire Coast factory?
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=-Fc7oEsjCX4
 
 ### Topics
 * [Environment > Biomes > Spire Coast](../topics/environment/biomes/spire-coast.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript
 

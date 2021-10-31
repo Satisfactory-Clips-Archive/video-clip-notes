@@ -3,7 +3,7 @@ title: "October 12th, 2021 Livestream Q&A: How is Golf doing?"
 date: "2021-10-12"
 layout: transcript
 topics:
-    - "features/requested-features/golf"
+    - "features/unplanned-features/golf"
     - "satisfactory-updates/state-of-dev"
 ---
 # [October 12th, 2021 Livestream](../2021-10-12.md)
@@ -13,7 +13,7 @@ This question was possibly duplicated with a more recent answer: [October 19th, 
 
 
 ### Topics
-* [Features > Requested Features > Golf](../topics/features/requested-features/golf.md)
+* [Features > Unplanned Features > Golf](../topics/features/unplanned-features/golf.md)
 * [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 
 ### Transcript

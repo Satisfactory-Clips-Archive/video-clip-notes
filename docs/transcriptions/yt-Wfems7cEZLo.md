@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "features/buildings"
     - "features/transportation/trains"
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
     - "technology/user-interface"
 ---
 # [October 12th, 2021 Livestream](../2021-10-12.md)
@@ -15,7 +15,7 @@ https://www.youtube.com/watch?v=Wfems7cEZLo
 ### Topics
 * [Features > Buildings](../topics/features/buildings.md)
 * [Features > Transportation > Trains](../topics/features/transportation/trains.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 * [Technology > User Interface](../topics/technology/user-interface.md)
 
 ### Transcript

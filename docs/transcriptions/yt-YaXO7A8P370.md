@@ -3,16 +3,16 @@ title: "October 5th, 2021 Livestream Snutt & Jace Talk: Update 5 Experimental Re
 date: "2021-10-05"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-5"
     - "satisfactory-updates/release-builds"
+    - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [October 5th, 2021 Livestream](../2021-10-05.md)
 ## Snutt & Jace Talk: Update 5 Experimental Release Date
 https://www.youtube.com/watch?v=YaXO7A8P370
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
 * [Satisfactory Updates > Release Builds](../topics/satisfactory-updates/release-builds.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript
 

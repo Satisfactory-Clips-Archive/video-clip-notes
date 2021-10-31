@@ -3,14 +3,14 @@ title: "July 13th, 2021 Livestream Q&A: Are you filming the playtest so we can h
 date: "2021-07-13"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [July 13th, 2021 Livestream](../2021-07-13.md)
 ## Q&A: Are you filming the playtest so we can have a mini-documentary during Update 5 launch stream?
 https://www.youtube.com/watch?v=bQoFSKckhQs
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript
 

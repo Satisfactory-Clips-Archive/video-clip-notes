@@ -4,7 +4,7 @@ date: "2021-06-15"
 layout: transcript
 topics:
     - "features/multiplayer"
-    - "features/planned-features/dedicated-servers"
+    - "features/multiplayer/dedicated-servers"
     - "satisfactory-updates/state-of-dev"
 ---
 # [June 15th, 2021 Livestream](../2021-06-15.md)
@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=S0OIEMuz-WU
 
 ### Topics
 * [Features > Multiplayer](../topics/features/multiplayer.md)
-* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+* [Features > Multiplayer > Dedicated Servers](../topics/features/multiplayer/dedicated-servers.md)
 * [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 
 ### Transcript

@@ -7,7 +7,7 @@ topics:
     - "features/crafting/fuel"
     - "features/transportation/vehicles"
     - "features/transportation/vehicles/autopilot"
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
     - "satisfactory-updates/teasers-trailers/update-5-teasers"
     - "technology/user-interface"
 ---
@@ -20,7 +20,7 @@ https://www.youtube.com/watch?v=HwzZF04gWuk
 * [Features > Crafting > Fuel](../topics/features/crafting/fuel.md)
 * [Features > Transportation > Vehicles](../topics/features/transportation/vehicles.md)
 * [Features > Transportation > Vehicles > Autopilot](../topics/features/transportation/vehicles/autopilot.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 * [Satisfactory Updates > Teasers & Trailers > Update 5 Teasers](../topics/satisfactory-updates/teasers-trailers/update-5-teasers.md)
 * [Technology > User Interface](../topics/technology/user-interface.md)
 

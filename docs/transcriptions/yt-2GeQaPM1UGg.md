@@ -3,7 +3,7 @@ title: "September 8th, 2020 Livestream Q&A: Dedicated Servers aren't tied to an 
 date: "2020-09-08"
 layout: transcript
 topics:
-    - "features/planned-features/dedicated-servers"
+    - "features/multiplayer/dedicated-servers"
 ---
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Dedicated Servers aren't tied to an Update?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: [January 19th, 
 
 
 ### Topics
-* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+* [Features > Multiplayer > Dedicated Servers](../topics/features/multiplayer/dedicated-servers.md)
 
 ### Transcript
 

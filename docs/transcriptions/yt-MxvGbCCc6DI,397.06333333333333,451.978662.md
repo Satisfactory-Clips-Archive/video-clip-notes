@@ -4,7 +4,7 @@ date: "2021-08-06"
 layout: transcript
 topics:
     - "environment/biomes/caves"
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
     - "satisfactory-updates/world-update"
 ---
 # [August 6th, 2021 Video](../2021-08-06.md)
@@ -13,7 +13,7 @@ https://youtube.com/clip/UgyMg6x-5O9_IZLNXZx4AaABCQ
 
 ### Topics
 * [Environment > Biomes > Caves](../topics/environment/biomes/caves.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 * [Satisfactory Updates > World Update](../topics/satisfactory-updates/world-update.md)
 
 ### Transcript

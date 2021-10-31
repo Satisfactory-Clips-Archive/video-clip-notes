@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "features/crafting/recipes"
     - "features/tiers"
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [September 7th, 2021 Livestream](../2021-09-07.md)
 ## Q&A: Will Update 5 mess with early-Tier Recipes?
@@ -16,7 +16,7 @@ This question was possibly duplicated with a more recent answer: [September 14th
 ### Topics
 * [Features > Crafting > Recipes](../topics/features/crafting/recipes.md)
 * [Features > Tiers](../topics/features/tiers.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript
 

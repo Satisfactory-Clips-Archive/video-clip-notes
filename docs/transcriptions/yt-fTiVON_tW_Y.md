@@ -3,7 +3,7 @@ title: "June 29th, 2021 Livestream Community FYI: Golf has more than 600 upvotes
 date: "2021-06-29"
 layout: transcript
 topics:
-    - "features/requested-features/golf"
+    - "features/unplanned-features/golf"
     - "qa-site"
     - "trolling"
 ---
@@ -12,7 +12,7 @@ topics:
 https://www.youtube.com/watch?v=fTiVON_tW_Y
 
 ### Topics
-* [Features > Requested Features > Golf](../topics/features/requested-features/golf.md)
+* [Features > Unplanned Features > Golf](../topics/features/unplanned-features/golf.md)
 * [QA Site](../topics/qa-site.md)
 * [Trolling](../topics/trolling.md)
 

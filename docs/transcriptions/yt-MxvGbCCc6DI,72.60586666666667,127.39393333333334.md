@@ -4,7 +4,7 @@ date: "2021-08-06"
 layout: transcript
 topics:
     - "environment/biomes/northern-forest"
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
     - "satisfactory-updates/world-update"
 ---
 # [August 6th, 2021 Video](../2021-08-06.md)
@@ -13,7 +13,7 @@ https://youtube.com/clip/Ugxg09eDw0herz-p4bF4AaABCQ
 
 ### Topics
 * [Environment > Biomes > Northern Forest](../topics/environment/biomes/northern-forest.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 * [Satisfactory Updates > World Update](../topics/satisfactory-updates/world-update.md)
 
 ### Transcript

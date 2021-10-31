@@ -4,7 +4,7 @@ date: "2021-06-15"
 layout: transcript
 topics:
     - "features/multiplayer"
-    - "features/planned-features/dedicated-servers"
+    - "features/multiplayer/dedicated-servers"
 ---
 # [June 15th, 2021 Livestream](../2021-06-15.md)
 ## Q&A: Dedicated Servers?
@@ -14,7 +14,7 @@ This question was possibly duplicated with a more recent answer: October 26th, 2
 
 ### Topics
 * [Features > Multiplayer](../topics/features/multiplayer.md)
-* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+* [Features > Multiplayer > Dedicated Servers](../topics/features/multiplayer/dedicated-servers.md)
 
 ### Transcript
 

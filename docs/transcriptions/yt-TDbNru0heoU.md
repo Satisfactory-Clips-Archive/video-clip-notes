@@ -5,8 +5,8 @@ layout: transcript
 topics:
     - "environment/creatures"
     - "environment/creatures/crab-boss"
-    - "satisfactory-updates/pending/satisfactory-update-5"
     - "satisfactory-updates/released/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: New enemies / creatures?
@@ -17,8 +17,8 @@ This question was possibly duplicated with a more recent answer: [July 13th, 202
 ### Topics
 * [Environment > Creatures](../topics/environment/creatures.md)
 * [Environment > Creatures > Crab Boss](../topics/environment/creatures/crab-boss.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
 * [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript
 

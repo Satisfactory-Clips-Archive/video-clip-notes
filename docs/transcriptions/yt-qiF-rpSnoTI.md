@@ -3,7 +3,7 @@ title: "February 23rd, 2021 Livestream Q&A: If we're not getting Dedicated Serve
 date: "2021-02-23"
 layout: transcript
 topics:
-    - "features/planned-features/dedicated-servers"
+    - "features/multiplayer/dedicated-servers"
     - "technology/graphics"
 ---
 # [February 23rd, 2021 Livestream](../2021-02-23.md)
@@ -11,7 +11,7 @@ topics:
 https://www.youtube.com/watch?v=qiF-rpSnoTI
 
 ### Topics
-* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+* [Features > Multiplayer > Dedicated Servers](../topics/features/multiplayer/dedicated-servers.md)
 * [Technology > Graphics](../topics/technology/graphics.md)
 
 ### Transcript

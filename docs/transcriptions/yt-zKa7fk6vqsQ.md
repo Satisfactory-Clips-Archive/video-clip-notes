@@ -3,7 +3,7 @@ title: "August 31st, 2021 Livestream Q&A: Cinematic or Patch Notes video on rele
 date: "2021-08-31"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
     - "satisfactory-updates/teasers-trailers/update-5-patch-notes-video"
 ---
 # [August 31st, 2021 Livestream](../2021-08-31.md)
@@ -13,7 +13,7 @@ This question was possibly duplicated with a more recent answer: [October 19th, 
 
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 * [Satisfactory Updates > Teasers & Trailers > Update 5 Patch Notes Video](../topics/satisfactory-updates/teasers-trailers/update-5-patch-notes-video.md)
 
 ### Transcript

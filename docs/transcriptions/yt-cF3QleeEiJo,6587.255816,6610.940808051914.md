@@ -3,7 +3,7 @@ title: "April 13th, 2021 Livestream Q&A: When is Update 5?"
 date: "2021-04-13"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [April 13th, 2021 Livestream](../2021-04-13.md)
 ## Q&A: When is Update 5?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: [August 31st, 2
 
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript
 

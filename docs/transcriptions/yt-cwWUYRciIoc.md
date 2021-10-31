@@ -4,9 +4,9 @@ date: "2020-08-25"
 layout: transcript
 topics:
     - "off-topic/factorio"
-    - "satisfactory-updates/pending/satisfactory-update-5"
     - "satisfactory-updates/released/satisfactory-update-3"
     - "satisfactory-updates/released/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: Quality-of-life update?
@@ -16,9 +16,9 @@ This question was possibly duplicated with a more recent answer: [October 13th, 
 
 ### Topics
 * [Off-Topic > Factorio](../topics/off-topic/factorio.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
 * [Satisfactory Updates > Released > Satisfactory Update 3](../topics/satisfactory-updates/released/satisfactory-update-3.md)
 * [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript
 

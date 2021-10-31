@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "features/buildings/the-hub"
     - "features/multiplayer"
-    - "features/planned-features/dedicated-servers"
+    - "features/multiplayer/dedicated-servers"
 ---
 # [October 20th, 2020 Livestream](../2020-10-20.md)
 ## Q&A: Will Dedicated Servers have Multiple Hubs?
@@ -16,7 +16,7 @@ This question was possibly duplicated with a more recent answer: [October 20th, 
 ### Topics
 * [Features > Buildings > The HUB](../topics/features/buildings/the-hub.md)
 * [Features > Multiplayer](../topics/features/multiplayer.md)
-* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+* [Features > Multiplayer > Dedicated Servers](../topics/features/multiplayer/dedicated-servers.md)
 
 ### Transcript
 

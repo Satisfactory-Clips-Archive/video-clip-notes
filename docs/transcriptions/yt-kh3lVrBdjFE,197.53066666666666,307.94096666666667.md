@@ -4,7 +4,7 @@ date: "2021-09-10"
 layout: transcript
 topics:
     - "features/transportation/vehicles/autopilot"
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [September 10th, 2021 Video](../2021-09-10.md)
 ## Jace Talk: Changes to Vehicles obstacle avoidance & getting stuck (ghosting)
@@ -12,7 +12,7 @@ https://youtube.com/embed/kh3lVrBdjFE?autoplay=1&start=197&end=308
 
 ### Topics
 * [Features > Transportation > Vehicles > Autopilot](../topics/features/transportation/vehicles/autopilot.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript
 

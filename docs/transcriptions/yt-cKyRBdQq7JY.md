@@ -4,7 +4,7 @@ date: "2020-10-20"
 layout: transcript
 topics:
     - "features/multiplayer"
-    - "features/planned-features/dedicated-servers"
+    - "features/multiplayer/dedicated-servers"
 ---
 # [October 20th, 2020 Livestream](../2020-10-20.md)
 ## Jace Talk: Multiplayer Bugs vs. Dedicated Servers
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=cKyRBdQq7JY
 
 ### Topics
 * [Features > Multiplayer](../topics/features/multiplayer.md)
-* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+* [Features > Multiplayer > Dedicated Servers](../topics/features/multiplayer/dedicated-servers.md)
 
 ### Transcript
 

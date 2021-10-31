@@ -4,7 +4,7 @@ date: "2021-03-30"
 layout: transcript
 topics:
     - "community/blastroid"
-    - "features/planned-features/dedicated-servers"
+    - "features/multiplayer/dedicated-servers"
     - "trolling"
 ---
 # [March 30th, 2021 Livestream](../2021-03-30.md)
@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=TyEl05Zmt4w
 
 ### Topics
 * [Community > Blastroid](../topics/community/blastroid.md)
-* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+* [Features > Multiplayer > Dedicated Servers](../topics/features/multiplayer/dedicated-servers.md)
 * [Trolling](../topics/trolling.md)
 
 ### Transcript

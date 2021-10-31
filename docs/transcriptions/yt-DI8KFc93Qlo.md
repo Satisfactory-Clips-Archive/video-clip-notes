@@ -6,7 +6,7 @@ topics:
     - "environment/resources"
     - "features/buildables"
     - "features/equipment"
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [August 31st, 2021 Livestream](../2021-08-31.md)
 ## Q&A: Can you please reveal new items?
@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=DI8KFc93Qlo
 * [Environment > Resources](../topics/environment/resources.md)
 * [Features > Buildables](../topics/features/buildables.md)
 * [Features > Equipment](../topics/features/equipment.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript
 

@@ -3,14 +3,14 @@ title: "July 6th, 2021 Livestream Q&A: Is there any major performance boost in U
 date: "2021-07-06"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [July 6th, 2021 Livestream](../2021-07-06.md)
 ## Q&A: Is there any major performance boost in Update 5?
 https://www.youtube.com/watch?v=Vcf5p_uTs7w
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript
 

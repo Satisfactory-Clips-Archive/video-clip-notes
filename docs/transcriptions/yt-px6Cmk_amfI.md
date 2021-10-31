@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "environment/resources"
     - "features/transportation/vehicles/drones"
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [June 8th, 2021 Livestream](../2021-06-08.md)
 ## Q&A: Drone ports use too many batteries when the player is far away, is there any fix in the works?
@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=px6Cmk_amfI
 ### Topics
 * [Environment > Resources](../topics/environment/resources.md)
 * [Features > Transportation > Vehicles > Drones](../topics/features/transportation/vehicles/drones.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript
 

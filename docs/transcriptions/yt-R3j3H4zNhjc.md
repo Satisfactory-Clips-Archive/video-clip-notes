@@ -3,7 +3,7 @@ title: "May 11th, 2021 Livestream State of Dev: Working on Update 5"
 date: "2021-05-11"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
     - "satisfactory-updates/state-of-dev"
 ---
 # [May 11th, 2021 Livestream](../2021-05-11.md)
@@ -11,7 +11,7 @@ topics:
 https://www.youtube.com/watch?v=R3j3H4zNhjc
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 * [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 
 ### Transcript

@@ -3,14 +3,14 @@ title: "September 29th, 2020 Livestream Jace Talk: Dedicated Servers summary"
 date: "2020-09-29"
 layout: transcript
 topics:
-    - "features/planned-features/dedicated-servers"
+    - "features/multiplayer/dedicated-servers"
 ---
 # [September 29th, 2020 Livestream](../2020-09-29.md)
 ## Jace Talk: Dedicated Servers summary
 https://www.youtube.com/watch?v=pEq7XWO3gCA
 
 ### Topics
-* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+* [Features > Multiplayer > Dedicated Servers](../topics/features/multiplayer/dedicated-servers.md)
 
 ### Transcript
 

@@ -3,7 +3,7 @@ title: "November 5th, 2019 Q&A Q&A: Dedicated Servers?"
 date: "2019-11-05"
 layout: transcript
 topics:
-    - "features/planned-features/dedicated-servers"
+    - "features/multiplayer/dedicated-servers"
 ---
 # [November 5th, 2019 Q&A](../2019-11-05.md)
 ## Q&A: Dedicated Servers?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: October 26th, 2
 
 
 ### Topics
-* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+* [Features > Multiplayer > Dedicated Servers](../topics/features/multiplayer/dedicated-servers.md)
 
 ### Transcript
 

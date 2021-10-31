@@ -4,7 +4,7 @@ date: "2021-09-03"
 layout: transcript
 topics:
     - "features/planned-features/build-modes/zooping"
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
     - "technology/user-interface"
 ---
 # [September 3rd, 2021 Dev Vlog](../2021-09-03.md)
@@ -13,7 +13,7 @@ https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=1109&end=1218
 
 ### Topics
 * [Features > Planned Features > Build Modes > Zooping](../topics/features/planned-features/build-modes/zooping.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 * [Technology > User Interface](../topics/technology/user-interface.md)
 
 ### Transcript

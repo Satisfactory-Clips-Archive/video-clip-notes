@@ -3,14 +3,14 @@ title: "August 17th, 2021 Livestream Q&A: Why do you guys focus on Windows Dedic
 date: "2021-08-17"
 layout: transcript
 topics:
-    - "features/planned-features/dedicated-servers"
+    - "features/multiplayer/dedicated-servers"
 ---
 # [August 17th, 2021 Livestream](../2021-08-17.md)
 ## Q&A: Why do you guys focus on Windows Dedicated Servers?
 https://www.youtube.com/watch?v=SyUOpmEn7Aw
 
 ### Topics
-* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+* [Features > Multiplayer > Dedicated Servers](../topics/features/multiplayer/dedicated-servers.md)
 
 ### Transcript
 

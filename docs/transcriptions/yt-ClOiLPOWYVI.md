@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "features/buildables/foundations"
     - "features/buildables/railings"
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [September 7th, 2021 Livestream](../2021-09-07.md)
 ## Q&A: Will Ramp versions be able to be half as well?
@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=ClOiLPOWYVI
 ### Topics
 * [Features > Buildables > Foundations](../topics/features/buildables/foundations.md)
 * [Features > Buildables > Railings](../topics/features/buildables/railings.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript
 

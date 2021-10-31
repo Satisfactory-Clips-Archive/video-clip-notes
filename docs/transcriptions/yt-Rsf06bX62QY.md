@@ -3,7 +3,7 @@ title: "September 14th, 2021 Livestream Q&A: I have a small factory in great can
 date: "2021-09-14"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
     - "satisfactory-updates/world-update"
 ---
 # [September 14th, 2021 Livestream](../2021-09-14.md)
@@ -11,7 +11,7 @@ topics:
 https://www.youtube.com/watch?v=Rsf06bX62QY
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 * [Satisfactory Updates > World Update](../topics/satisfactory-updates/world-update.md)
 
 ### Transcript

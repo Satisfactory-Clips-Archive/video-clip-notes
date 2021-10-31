@@ -4,7 +4,7 @@ date: "2021-01-26"
 layout: transcript
 topics:
     - "features/multiplayer"
-    - "features/planned-features/dedicated-servers"
+    - "features/multiplayer/dedicated-servers"
 ---
 # [January 26th, 2021 Livestream](../2021-01-26.md)
 ## Q&A: Dedicated Servers aka Multiplayer fixes when?
@@ -14,7 +14,7 @@ This question was possibly duplicated with a more recent answer: October 26th, 2
 
 ### Topics
 * [Features > Multiplayer](../topics/features/multiplayer.md)
-* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+* [Features > Multiplayer > Dedicated Servers](../topics/features/multiplayer/dedicated-servers.md)
 
 ### Transcript
 

@@ -3,7 +3,7 @@ title: "November 3rd, 2020 Livestream Q&A: Any idea about Official Modding?"
 date: "2020-11-03"
 layout: transcript
 topics:
-    - "features/planned-features/dedicated-servers"
+    - "features/multiplayer/dedicated-servers"
     - "mods"
     - "mods/official-mod-support"
 ---
@@ -14,7 +14,7 @@ This question was possibly duplicated with a more recent answer: [July 16th, 202
 
 
 ### Topics
-* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+* [Features > Multiplayer > Dedicated Servers](../topics/features/multiplayer/dedicated-servers.md)
 * [Mods](../topics/mods.md)
 * [Mods > Official Mod Support](../topics/mods/official-mod-support.md)
 

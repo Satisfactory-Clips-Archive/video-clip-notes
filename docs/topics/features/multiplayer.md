@@ -5,6 +5,7 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Features](../../topics/features.md) > Multiplayer
 * [Crossplay](../../topics/features/multiplayer/crossplay.md)
+* [Dedicated Servers](../../topics/features/multiplayer/dedicated-servers.md)
 
 ## October 5th, 2021 Livestream
 * [Q&A: New fixes for Multiplayer gameplay?](../../transcriptions/yt-YExHZSA1bH4.md) [https://www.youtube.com/watch?v=YExHZSA1bH4](https://www.youtube.com/watch?v=YExHZSA1bH4)

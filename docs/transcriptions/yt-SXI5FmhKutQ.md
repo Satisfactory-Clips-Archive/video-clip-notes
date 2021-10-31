@@ -3,14 +3,14 @@ title: "October 19th, 2021 Livestream Snutt & Jace Talk: Check Golf"
 date: "2021-10-19"
 layout: transcript
 topics:
-    - "features/requested-features/golf"
+    - "features/unplanned-features/golf"
 ---
 # [October 19th, 2021 Livestream](../2021-10-19.md)
 ## Snutt & Jace Talk: Check Golf
 https://www.youtube.com/watch?v=SXI5FmhKutQ
 
 ### Topics
-* [Features > Requested Features > Golf](../topics/features/requested-features/golf.md)
+* [Features > Unplanned Features > Golf](../topics/features/unplanned-features/golf.md)
 
 ### Transcript
 

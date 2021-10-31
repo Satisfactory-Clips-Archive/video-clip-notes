@@ -4,7 +4,7 @@ date: "2021-09-14"
 layout: transcript
 topics:
     - "features/multiplayer"
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [September 14th, 2021 Livestream](../2021-09-14.md)
 ## Q&A: Are there an plans to fix Multiplayer with the next Update?
@@ -14,7 +14,7 @@ This question was possibly duplicated with a more recent answer: [October 5th, 2
 
 ### Topics
 * [Features > Multiplayer](../topics/features/multiplayer.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript
 

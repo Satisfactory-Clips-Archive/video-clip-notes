@@ -3,9 +3,9 @@ title: "Satisfactory Update 5"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEov1pe4Y3Fr8AFfJuu7jIR6
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Pending > Satisfactory Update 5
-* [Northern Forest World Update Q&A with Hannah](../../../topics/satisfactory-updates/pending/satisfactory-update-5/northern-forest-world-update-q-and-a-with-hannah.md)
-* [#SaveTheWillows](../../../topics/satisfactory-updates/pending/satisfactory-update-5/save-the-willows.md)
+# [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Released > Satisfactory Update 5
+* [Northern Forest World Update Q&A with Hannah](../../../topics/satisfactory-updates/released/satisfactory-update-5/northern-forest-world-update-q-and-a-with-hannah.md)
+* [#SaveTheWillows](../../../topics/satisfactory-updates/released/satisfactory-update-5/save-the-willows.md)
 
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
 * Snutt & Jace Talk: Countdown to Update 5 (Part 1) [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=844&end=911](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=844&end=911)

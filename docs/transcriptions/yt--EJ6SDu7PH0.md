@@ -3,14 +3,14 @@ title: "October 19th, 2021 Livestream Q&A: How many patches will Update 5 have?"
 date: "2021-10-19"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [October 19th, 2021 Livestream](../2021-10-19.md)
 ## Q&A: How many patches will Update 5 have?
 https://www.youtube.com/watch?v=-EJ6SDu7PH0
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript
 

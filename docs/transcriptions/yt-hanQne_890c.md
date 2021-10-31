@@ -7,7 +7,7 @@ topics:
     - "coffee-stainers/jace"
     - "coffee-stainers/simon"
     - "coffee-stainers/snutt"
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [May 25th, 2021 Livestream](../2021-05-25.md)
 ## Q&A: Is Simon going to delay the next Update?
@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=hanQne_890c
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
 * [Coffee Stainers > Simon](../topics/coffee-stainers/simon.md)
 * [Coffee Stainers > Snutt](../topics/coffee-stainers/snutt.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript
 

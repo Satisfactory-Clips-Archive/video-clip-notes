@@ -3,14 +3,14 @@ title: "August 3rd, 2021 Livestream Q&A: What is going to be in Update 5 aside f
 date: "2021-08-03"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [August 3rd, 2021 Livestream](../2021-08-03.md)
 ## Q&A: What is going to be in Update 5 aside from Northern Forest remaster?
 https://www.youtube.com/watch?v=9ly-bhBKEcc
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript
 

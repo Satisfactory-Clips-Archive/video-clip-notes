@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "features/multiplayer"
     - "features/transportation/trains"
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [September 14th, 2021 Livestream](../2021-09-14.md)
 ## Q&A: When will Trains be fixed? (Part 3)
@@ -21,7 +21,7 @@ https://www.youtube.com/watch?v=_n-R6qpB1FU
 ### Topics
 * [Features > Multiplayer](../topics/features/multiplayer.md)
 * [Features > Transportation > Trains](../topics/features/transportation/trains.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript
 

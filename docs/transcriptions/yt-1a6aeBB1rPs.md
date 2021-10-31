@@ -3,7 +3,7 @@ title: "February 16th, 2021 Livestream Q&A: Do you know when Dedicated Servers a
 date: "2021-02-16"
 layout: transcript
 topics:
-    - "features/planned-features/dedicated-servers"
+    - "features/multiplayer/dedicated-servers"
 ---
 # [February 16th, 2021 Livestream](../2021-02-16.md)
 ## Q&A: Do you know when Dedicated Servers are coming?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: October 26th, 2
 
 
 ### Topics
-* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+* [Features > Multiplayer > Dedicated Servers](../topics/features/multiplayer/dedicated-servers.md)
 
 ### Transcript
 

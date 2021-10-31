@@ -3,7 +3,7 @@ title: "Northern Forest World Update Q&A with Hannah"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEoRdndnsQZEZnZcL35VZRmD
 date: Last Modified
 ---
-# [Topics](../../../../topics.md) > [Satisfactory Updates](../../../../topics/satisfactory-updates.md) > Pending > [Satisfactory Update 5](../../../../topics/satisfactory-updates/pending/satisfactory-update-5.md) > Northern Forest World Update Q&A with Hannah
+# [Topics](../../../../topics.md) > [Satisfactory Updates](../../../../topics/satisfactory-updates.md) > Released > [Satisfactory Update 5](../../../../topics/satisfactory-updates/released/satisfactory-update-5.md) > Northern Forest World Update Q&A with Hannah
 
 ## August 3rd, 2021 Livestream
 * [Jace & Hannah Talk: Flannel Cosplay](../../../../transcriptions/yt-M1tUfWB30GQ.md) [https://www.youtube.com/watch?v=M1tUfWB30GQ](https://www.youtube.com/watch?v=M1tUfWB30GQ)

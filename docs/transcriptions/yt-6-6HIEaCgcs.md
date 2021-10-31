@@ -3,7 +3,7 @@ title: "September 14th, 2021 Livestream Snutt & Jace Talk: Trolling about Update
 date: "2021-09-14"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
     - "trolling"
 ---
 # [September 14th, 2021 Livestream](../2021-09-14.md)
@@ -11,7 +11,7 @@ topics:
 https://www.youtube.com/watch?v=6-6HIEaCgcs
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 * [Trolling](../topics/trolling.md)
 
 ### Transcript

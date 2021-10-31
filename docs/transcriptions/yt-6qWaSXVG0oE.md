@@ -4,7 +4,7 @@ date: "2021-09-28"
 layout: transcript
 topics:
     - "satisfactory-updates"
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [September 28th, 2021 Livestream](../2021-09-28.md)
 ## Q&A: Every Update so far has had a theme, what's the theme for Update 5?
@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=6qWaSXVG0oE
 
 ### Topics
 * [Satisfactory Updates](../topics/satisfactory-updates.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript
 

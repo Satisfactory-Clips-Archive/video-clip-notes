@@ -3,7 +3,7 @@ title: "August 25th, 2020 Livestream Q&A: Linux would be useful for Servers"
 date: "2020-08-25"
 layout: transcript
 topics:
-    - "features/planned-features/dedicated-servers"
+    - "features/multiplayer/dedicated-servers"
     - "technology/graphics"
     - "technology/linux"
 ---
@@ -14,7 +14,7 @@ This question was possibly duplicated with a more recent answer: [February 9th, 
 
 
 ### Topics
-* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+* [Features > Multiplayer > Dedicated Servers](../topics/features/multiplayer/dedicated-servers.md)
 * [Technology > Graphics](../topics/technology/graphics.md)
 * [Technology > Linux](../topics/technology/linux.md)
 

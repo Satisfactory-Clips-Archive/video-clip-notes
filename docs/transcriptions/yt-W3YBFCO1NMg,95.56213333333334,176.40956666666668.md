@@ -3,14 +3,14 @@ title: "September 24th, 2021 Video Q&A: How can I prepare for Update 5?"
 date: "2021-09-24"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [September 24th, 2021 Video](../2021-09-24.md)
 ## Q&A: How can I prepare for Update 5?
 https://youtube.com/embed/W3YBFCO1NMg?autoplay=1&start=95&end=177
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript
 

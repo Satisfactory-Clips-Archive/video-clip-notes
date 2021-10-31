@@ -3,7 +3,7 @@ title: "July 20th, 2021 Livestream Q&A: You said that Dedicated Servers would be
 date: "2021-07-20"
 layout: transcript
 topics:
-    - "features/planned-features/dedicated-servers"
+    - "features/multiplayer/dedicated-servers"
     - "retail/steam-store/steam-release"
 ---
 # [July 20th, 2021 Livestream](../2021-07-20.md)
@@ -13,7 +13,7 @@ This question was possibly duplicated with a more recent answer: [April 2nd, 202
 
 
 ### Topics
-* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+* [Features > Multiplayer > Dedicated Servers](../topics/features/multiplayer/dedicated-servers.md)
 * [Retail > Steam Store > Steam Release](../topics/retail/steam-store/steam-release.md)
 
 ### Transcript

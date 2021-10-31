@@ -3,7 +3,7 @@ title: "#SaveTheWillows"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEqNe4SQNEAvhKRLQX39g9Ix
 date: Last Modified
 ---
-# [Topics](../../../../topics.md) > [Satisfactory Updates](../../../../topics/satisfactory-updates.md) > Pending > [Satisfactory Update 5](../../../../topics/satisfactory-updates/pending/satisfactory-update-5.md) > #SaveTheWillows
+# [Topics](../../../../topics.md) > [Satisfactory Updates](../../../../topics/satisfactory-updates.md) > Released > [Satisfactory Update 5](../../../../topics/satisfactory-updates/released/satisfactory-update-5.md) > #SaveTheWillows
 
 ## October 12th, 2021 Livestream
 * [Community FYI: #SaveTheWillows](../../../../transcriptions/yt-jKJ-mBnOxQo.md) [https://www.youtube.com/watch?v=jKJ-mBnOxQo](https://www.youtube.com/watch?v=jKJ-mBnOxQo)

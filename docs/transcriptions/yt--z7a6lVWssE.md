@@ -3,7 +3,7 @@ title: "October 19th, 2021 Livestream Q&A: Holiday Event after Update 5?"
 date: "2021-10-19"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
     - "satisfactory-updates/seasonal-events"
     - "satisfactory-updates/seasonal-events/fics-mas"
 ---
@@ -12,7 +12,7 @@ topics:
 https://www.youtube.com/watch?v=-z7a6lVWssE
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 * [Satisfactory Updates > Seasonal Events](../topics/satisfactory-updates/seasonal-events.md)
 * [Satisfactory Updates > Seasonal Events > FICS⁕MAS](../topics/satisfactory-updates/seasonal-events/fics-mas.md)
 

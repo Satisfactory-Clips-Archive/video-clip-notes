@@ -4,7 +4,7 @@ date: "2021-09-28"
 layout: transcript
 topics:
     - "features/possible-features/dlc/flushable-toilet-dlc"
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [September 28th, 2021 Livestream](../2021-09-28.md)
 ## Community FYI: "Update 5: The Flush"
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=ltBHmNu2JqA
 
 ### Topics
 * [Features > Possible Features > DLC > Flushable Toilet DLC](../topics/features/possible-features/dlc/flushable-toilet-dlc.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript
 

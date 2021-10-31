@@ -3,7 +3,7 @@ title: "July 20th, 2021 Livestream Q&A: Is Update 5 relatively close to releasin
 date: "2021-07-20"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [July 20th, 2021 Livestream](../2021-07-20.md)
 ## Q&A: Is Update 5 relatively close to releasing or do we have to wait a bit longer?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: [August 31st, 2
 
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript
 

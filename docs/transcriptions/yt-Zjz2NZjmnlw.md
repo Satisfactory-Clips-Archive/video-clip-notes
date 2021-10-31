@@ -3,14 +3,14 @@ title: "October 19th, 2021 Livestream Community FYI: Golf hit number 2 on the de
 date: "2021-10-19"
 layout: transcript
 topics:
-    - "features/requested-features/golf"
+    - "features/unplanned-features/golf"
 ---
 # [October 19th, 2021 Livestream](../2021-10-19.md)
 ## Community FYI: Golf hit number 2 on the dev site
 https://www.youtube.com/watch?v=Zjz2NZjmnlw
 
 ### Topics
-* [Features > Requested Features > Golf](../topics/features/requested-features/golf.md)
+* [Features > Unplanned Features > Golf](../topics/features/unplanned-features/golf.md)
 
 ### Transcript
 

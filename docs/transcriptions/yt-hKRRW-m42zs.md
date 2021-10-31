@@ -4,7 +4,7 @@ date: "2021-09-21"
 layout: transcript
 topics:
     - "features/multiplayer"
-    - "features/planned-features/dedicated-servers"
+    - "features/multiplayer/dedicated-servers"
     - "features/transportation/trains"
 ---
 # [September 21st, 2021 Livestream](../2021-09-21.md)
@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=hKRRW-m42zs
 
 ### Topics
 * [Features > Multiplayer](../topics/features/multiplayer.md)
-* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+* [Features > Multiplayer > Dedicated Servers](../topics/features/multiplayer/dedicated-servers.md)
 * [Features > Transportation > Trains](../topics/features/transportation/trains.md)
 
 ### Transcript

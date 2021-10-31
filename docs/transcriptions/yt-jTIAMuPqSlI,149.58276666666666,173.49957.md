@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "features/buildables"
     - "features/planned-features/build-modes"
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [October 15th, 2021 Video](../2021-10-15.md)
 ## Jace Talk: More freedom with Stairs
@@ -14,7 +14,7 @@ https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=149&end=174
 ### Topics
 * [Features > Buildables](../topics/features/buildables.md)
 * [Features > Planned Features > Build Modes](../topics/features/planned-features/build-modes.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript
 

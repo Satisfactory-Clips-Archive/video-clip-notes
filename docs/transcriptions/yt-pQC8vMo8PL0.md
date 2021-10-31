@@ -4,7 +4,7 @@ date: "2021-04-27"
 layout: transcript
 topics:
     - "coffee-stainers/gnutt"
-    - "features/requested-features/golf"
+    - "features/unplanned-features/golf"
     - "qa-site"
 ---
 # [April 27th, 2021 Livestream](../2021-04-27.md)
@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=pQC8vMo8PL0
 
 ### Topics
 * [Coffee Stainers > Gnutt](../topics/coffee-stainers/gnutt.md)
-* [Features > Requested Features > Golf](../topics/features/requested-features/golf.md)
+* [Features > Unplanned Features > Golf](../topics/features/unplanned-features/golf.md)
 * [QA Site](../topics/qa-site.md)
 
 ### Transcript

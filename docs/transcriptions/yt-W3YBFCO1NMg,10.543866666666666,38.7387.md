@@ -3,14 +3,14 @@ title: "September 24th, 2021 Video Jace Talk: Release date for Update 5"
 date: "2021-09-24"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [September 24th, 2021 Video](../2021-09-24.md)
 ## Jace Talk: Release date for Update 5
 https://youtube.com/clip/UgkxnRP9M3wYnjtR8T9SvsYcR0pB6WjvoQNk
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript
 

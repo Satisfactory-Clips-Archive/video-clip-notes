@@ -3,14 +3,14 @@ title: "August 17th, 2021 Livestream Q&A: Will Dedicated Servers be a standalone
 date: "2021-08-17"
 layout: transcript
 topics:
-    - "features/planned-features/dedicated-servers"
+    - "features/multiplayer/dedicated-servers"
 ---
 # [August 17th, 2021 Livestream](../2021-08-17.md)
 ## Q&A: Will Dedicated Servers be a standalone program?
 https://www.youtube.com/watch?v=tkUBo4RzAn8
 
 ### Topics
-* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+* [Features > Multiplayer > Dedicated Servers](../topics/features/multiplayer/dedicated-servers.md)
 
 ### Transcript
 

@@ -4,7 +4,7 @@ date: "2021-10-12"
 layout: transcript
 topics:
     - "features/transportation/trains"
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [October 12th, 2021 Livestream](../2021-10-12.md)
 ## Q&A: We can now manually swap rails in a Train junction?
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=XYZyZK-g-qk
 
 ### Topics
 * [Features > Transportation > Trains](../topics/features/transportation/trains.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript
 

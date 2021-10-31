@@ -3,7 +3,7 @@ title: "September 21st, 2021 Livestream Q&A: Will Dedicated Servers run on Linux
 date: "2021-09-21"
 layout: transcript
 topics:
-    - "features/planned-features/dedicated-servers"
+    - "features/multiplayer/dedicated-servers"
     - "technology/linux"
 ---
 # [September 21st, 2021 Livestream](../2021-09-21.md)
@@ -13,7 +13,7 @@ This question was possibly duplicated with a more recent answer: [October 5th, 2
 
 
 ### Topics
-* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+* [Features > Multiplayer > Dedicated Servers](../topics/features/multiplayer/dedicated-servers.md)
 * [Technology > Linux](../topics/technology/linux.md)
 
 ### Transcript

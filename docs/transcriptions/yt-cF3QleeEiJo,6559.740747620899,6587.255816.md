@@ -3,16 +3,16 @@ title: "April 13th, 2021 Livestream Snutt Talk: Update 5 is probably going to be
 date: "2021-04-13"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-5"
     - "satisfactory-updates/released/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [April 13th, 2021 Livestream](../2021-04-13.md)
 ## Snutt Talk: Update 5 is probably going to be smaller than Update 4
 https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6559&end=6588
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
 * [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript
 

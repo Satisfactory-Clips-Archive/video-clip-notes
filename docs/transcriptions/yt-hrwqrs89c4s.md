@@ -4,7 +4,7 @@ date: "2020-10-20"
 layout: transcript
 topics:
     - "features/multiplayer"
-    - "features/planned-features/dedicated-servers"
+    - "features/multiplayer/dedicated-servers"
 ---
 # [October 20th, 2020 Livestream](../2020-10-20.md)
 ## Q&A: Are 24/7 Servers for the game so important?
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=hrwqrs89c4s
 
 ### Topics
 * [Features > Multiplayer](../topics/features/multiplayer.md)
-* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+* [Features > Multiplayer > Dedicated Servers](../topics/features/multiplayer/dedicated-servers.md)
 
 ### Transcript
 

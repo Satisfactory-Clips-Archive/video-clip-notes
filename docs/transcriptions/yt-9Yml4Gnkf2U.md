@@ -4,7 +4,7 @@ date: "2021-07-06"
 layout: transcript
 topics:
     - "coffee-stainers"
-    - "features/planned-features/dedicated-servers"
+    - "features/multiplayer/dedicated-servers"
 ---
 # [July 6th, 2021 Livestream](../2021-07-06.md)
 ## Snutt & Jace Talk: Coffee Stain Meetings
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=9Yml4Gnkf2U
 
 ### Topics
 * [Coffee Stainers](../topics/coffee-stainers.md)
-* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+* [Features > Multiplayer > Dedicated Servers](../topics/features/multiplayer/dedicated-servers.md)
 
 ### Transcript
 

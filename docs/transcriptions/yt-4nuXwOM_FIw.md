@@ -3,14 +3,14 @@ title: "September 14th, 2021 Livestream Community FYI: Update 5 \"Crash\" is con
 date: "2021-09-14"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [September 14th, 2021 Livestream](../2021-09-14.md)
 ## Community FYI: Update 5 "Crash" is confirmed feature
 https://www.youtube.com/watch?v=4nuXwOM_FIw
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript
 

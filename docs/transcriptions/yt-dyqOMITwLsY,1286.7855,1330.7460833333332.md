@@ -4,7 +4,7 @@ date: "2021-05-28"
 layout: transcript
 topics:
     - "features/accessibility"
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
     - "technology/user-interface"
     - "technology/user-interface/holograms"
 ---
@@ -14,7 +14,7 @@ https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=1286&end=1331
 
 ### Topics
 * [Features > Accessibility](../topics/features/accessibility.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 * [Technology > User Interface](../topics/technology/user-interface.md)
 * [Technology > User Interface > Holograms](../topics/technology/user-interface/holograms.md)
 

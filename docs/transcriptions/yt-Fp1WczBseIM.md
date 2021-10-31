@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "features/buildings"
     - "features/buildings/refinery"
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [July 20th, 2021 Livestream](../2021-07-20.md)
 ## Q&A: Are you going to add more Buildings to make the game less Refinery-reliant?
@@ -16,7 +16,7 @@ This question was possibly duplicated with a more recent answer: [October 19th, 
 ### Topics
 * [Features > Buildings](../topics/features/buildings.md)
 * [Features > Buildings > Refinery](../topics/features/buildings/refinery.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript
 

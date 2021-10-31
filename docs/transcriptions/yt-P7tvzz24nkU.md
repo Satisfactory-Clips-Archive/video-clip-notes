@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "features/buildables/railings"
     - "features/transportation/vehicles/factory-cart"
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
     - "satisfactory-updates/teasers-trailers/update-5-teasers"
 ---
 # [August 24th, 2021 Livestream](../2021-08-24.md)
@@ -15,7 +15,7 @@ https://www.youtube.com/watch?v=P7tvzz24nkU
 ### Topics
 * [Features > Buildables > Railings](../topics/features/buildables/railings.md)
 * [Features > Transportation > Vehicles > Factory Cart](../topics/features/transportation/vehicles/factory-cart.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 * [Satisfactory Updates > Teasers & Trailers > Update 5 Teasers](../topics/satisfactory-updates/teasers-trailers/update-5-teasers.md)
 
 ### Transcript

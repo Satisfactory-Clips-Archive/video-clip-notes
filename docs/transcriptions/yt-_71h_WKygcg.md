@@ -4,7 +4,7 @@ date: "2021-09-21"
 layout: transcript
 topics:
     - "features/transportation/vehicles/autopilot"
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [September 21st, 2021 Livestream](../2021-09-21.md)
 ## Q&A: Will the spline be visible to players or only limited to the way points?
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=_71h_WKygcg
 
 ### Topics
 * [Features > Transportation > Vehicles > Autopilot](../topics/features/transportation/vehicles/autopilot.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript
 

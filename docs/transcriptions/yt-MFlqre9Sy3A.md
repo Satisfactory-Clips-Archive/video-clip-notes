@@ -4,8 +4,8 @@ date: "2021-09-21"
 layout: transcript
 topics:
     - "satisfactory-updates"
-    - "satisfactory-updates/pending/satisfactory-update-5"
     - "satisfactory-updates/release-builds"
+    - "satisfactory-updates/released/satisfactory-update-5"
     - "technology/unreal-engine"
 ---
 # [September 21st, 2021 Livestream](../2021-09-21.md)
@@ -14,8 +14,8 @@ https://www.youtube.com/watch?v=MFlqre9Sy3A
 
 ### Topics
 * [Satisfactory Updates](../topics/satisfactory-updates.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
 * [Satisfactory Updates > Release Builds](../topics/satisfactory-updates/release-builds.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 * [Technology > Unreal Engine](../topics/technology/unreal-engine.md)
 
 ### Transcript

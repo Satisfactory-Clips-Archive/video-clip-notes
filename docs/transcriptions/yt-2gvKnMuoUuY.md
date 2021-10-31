@@ -3,7 +3,7 @@ title: "September 7th, 2021 Livestream Q&A: I'm new to the Community & don't und
 date: "2021-09-07"
 layout: transcript
 topics:
-    - "features/requested-features/golf"
+    - "features/unplanned-features/golf"
     - "trolling"
 ---
 # [September 7th, 2021 Livestream](../2021-09-07.md)
@@ -11,7 +11,7 @@ topics:
 https://www.youtube.com/watch?v=2gvKnMuoUuY
 
 ### Topics
-* [Features > Requested Features > Golf](../topics/features/requested-features/golf.md)
+* [Features > Unplanned Features > Golf](../topics/features/unplanned-features/golf.md)
 * [Trolling](../topics/trolling.md)
 
 ### Transcript

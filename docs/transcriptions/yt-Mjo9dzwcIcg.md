@@ -4,10 +4,10 @@ date: "2021-06-22"
 layout: transcript
 topics:
     - "community/josh"
-    - "satisfactory-updates/pending/satisfactory-update-5"
     - "satisfactory-updates/released/satisfactory-fluids-update"
     - "satisfactory-updates/released/satisfactory-update-3"
     - "satisfactory-updates/released/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [June 22nd, 2021 Livestream](../2021-06-22.md)
 ## Q&A: Will Update 5 wreck our Update 4 saves?
@@ -21,10 +21,10 @@ https://www.youtube.com/watch?v=Mjo9dzwcIcg
 
 ### Topics
 * [Community > Josh](../topics/community/josh.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
 * [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
 * [Satisfactory Updates > Released > Satisfactory Update 3](../topics/satisfactory-updates/released/satisfactory-update-3.md)
 * [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript
 

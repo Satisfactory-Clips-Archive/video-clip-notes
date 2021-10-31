@@ -3,14 +3,14 @@ title: "May 4th, 2021 Livestream Snutt Talk: Latest update on the Golf feature r
 date: "2021-05-04"
 layout: transcript
 topics:
-    - "features/requested-features/golf"
+    - "features/unplanned-features/golf"
 ---
 # [May 4th, 2021 Livestream](../2021-05-04.md)
 ## Snutt Talk: Latest update on the Golf feature request
 https://www.youtube.com/watch?v=f0bRcz6MQpw
 
 ### Topics
-* [Features > Requested Features > Golf](../topics/features/requested-features/golf.md)
+* [Features > Unplanned Features > Golf](../topics/features/unplanned-features/golf.md)
 
 ### Transcript
 

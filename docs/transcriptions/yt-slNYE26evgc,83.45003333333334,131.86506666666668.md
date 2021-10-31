@@ -3,7 +3,7 @@ title: "June 18th, 2021 - Q&A: When is Update 5 coming?"
 date: "2021-06-18"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
     - "off-topic/sweden"
     - "coffee-stainers"
 ---
@@ -11,7 +11,7 @@ topics:
 ## Q&A: When is Update 5 coming?
 https://youtube.com/embed/slNYE26evgc?autoplay=1&start=83&end=132
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 * [Off-Topic > Sweden](../topics/off-topic/sweden.md)
 * [Coffee Stainers](../topics/coffee-stainers.md)
 

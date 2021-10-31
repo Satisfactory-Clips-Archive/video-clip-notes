@@ -6,7 +6,7 @@ topics:
     - "features/tiers"
     - "features/tiers/tier-9"
     - "features/tiers/tier-10"
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [September 21st, 2021 Livestream](../2021-09-21.md)
 ## Q&A: Will there be new Tiers in Update 5?
@@ -23,7 +23,7 @@ https://www.youtube.com/watch?v=V6WvDBxAm1U
 * [Features > Tiers](../topics/features/tiers.md)
 * [Features > Tiers > Tier 9](../topics/features/tiers/tier-9.md)
 * [Features > Tiers > Tier 10](../topics/features/tiers/tier-10.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript
 

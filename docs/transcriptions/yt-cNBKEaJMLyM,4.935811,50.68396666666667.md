@@ -3,8 +3,8 @@ title: "October 22nd, 2021 Video Jace Talk: Update 5 Experimental Release"
 date: "2021-10-22"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-5"
     - "satisfactory-updates/release-builds"
+    - "satisfactory-updates/released/satisfactory-update-5"
     - "satisfactory-updates/teasers-trailers/update-5-launch-stream"
 ---
 # [October 22nd, 2021 Video](../2021-10-22.md)
@@ -12,8 +12,8 @@ topics:
 https://youtube.com/embed/cNBKEaJMLyM?autoplay=1&start=4&end=51
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
 * [Satisfactory Updates > Release Builds](../topics/satisfactory-updates/release-builds.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 * [Satisfactory Updates > Teasers & Trailers > Update 5 Launch Stream](../topics/satisfactory-updates/teasers-trailers/update-5-launch-stream.md)
 
 ### Transcript

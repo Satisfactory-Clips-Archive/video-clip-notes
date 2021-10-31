@@ -3,7 +3,7 @@ title: "November 24th, 2020 Livestream Q&A: Are Dedicated Servers going to have 
 date: "2020-11-24"
 layout: transcript
 topics:
-    - "features/planned-features/dedicated-servers"
+    - "features/multiplayer/dedicated-servers"
     - "mods"
 ---
 # [November 24th, 2020 Livestream](../2020-11-24.md)
@@ -11,7 +11,7 @@ topics:
 https://www.youtube.com/watch?v=PD79jEZuOAU
 
 ### Topics
-* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+* [Features > Multiplayer > Dedicated Servers](../topics/features/multiplayer/dedicated-servers.md)
 * [Mods](../topics/mods.md)
 
 ### Transcript

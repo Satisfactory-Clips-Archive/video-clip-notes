@@ -3,14 +3,14 @@ title: "October 6th, 2020 Livestream Jace & Snutt Talk: Dedicated Servers"
 date: "2020-10-06"
 layout: transcript
 topics:
-    - "features/planned-features/dedicated-servers"
+    - "features/multiplayer/dedicated-servers"
 ---
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Jace & Snutt Talk: Dedicated Servers
 https://www.youtube.com/watch?v=1NZKzrxG2yE
 
 ### Topics
-* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+* [Features > Multiplayer > Dedicated Servers](../topics/features/multiplayer/dedicated-servers.md)
 
 ### Transcript
 

@@ -4,7 +4,7 @@ date: "2021-09-07"
 layout: transcript
 topics:
     - "features/planned-features/build-modes/quick-switch"
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
     - "technology/user-interface"
 ---
 # [September 7th, 2021 Livestream](../2021-09-07.md)
@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=ot9z828JGSU
 
 ### Topics
 * [Features > Planned Features > Build Modes > Quick Switch](../topics/features/planned-features/build-modes/quick-switch.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 * [Technology > User Interface](../topics/technology/user-interface.md)
 
 ### Transcript

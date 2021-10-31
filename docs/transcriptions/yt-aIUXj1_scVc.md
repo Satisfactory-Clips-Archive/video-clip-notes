@@ -4,7 +4,7 @@ date: "2021-05-11"
 layout: transcript
 topics:
     - "coffee-stainers/mark"
-    - "features/requested-features/golf"
+    - "features/unplanned-features/golf"
 ---
 # [May 11th, 2021 Livestream](../2021-05-11.md)
 ## Snutt Talk: Golf upvotes status check (Part 1)
@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=aIUXj1_scVc
 
 ### Topics
 * [Coffee Stainers > Mark](../topics/coffee-stainers/mark.md)
-* [Features > Requested Features > Golf](../topics/features/requested-features/golf.md)
+* [Features > Unplanned Features > Golf](../topics/features/unplanned-features/golf.md)
 
 ### Transcript
 

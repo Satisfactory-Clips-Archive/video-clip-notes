@@ -4,7 +4,7 @@ date: "2021-08-03"
 layout: transcript
 topics:
     - "coffee-stainers/jace"
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [August 3rd, 2021 Livestream](../2021-08-03.md)
 ## Community: Usual saying with Updates is "Your factories will be mega broken"
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=d5naZ7yeDw8
 
 ### Topics
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript
 

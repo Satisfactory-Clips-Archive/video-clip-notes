@@ -4,7 +4,7 @@ date: "2021-09-21"
 layout: transcript
 topics:
     - "satisfactory-updates/pending/satisfactory-1-0"
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [September 21st, 2021 Livestream](../2021-09-21.md)
 ## Q&A: Will Update 5 be the last major Update before 1.0?
@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=wBVPNXngK7A
 
 ### Topics
 * [Satisfactory Updates > Pending > Satisfactory 1.0](../topics/satisfactory-updates/pending/satisfactory-1-0.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript
 

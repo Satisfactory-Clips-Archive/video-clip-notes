@@ -4,7 +4,7 @@ date: "2021-09-07"
 layout: transcript
 topics:
     - "features/buildables/walls"
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
     - "satisfactory-updates/teasers-trailers/update-5-teasers"
 ---
 # [September 7th, 2021 Livestream](../2021-09-07.md)
@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=okK53vcq2V4
 
 ### Topics
 * [Features > Buildables > Walls](../topics/features/buildables/walls.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 * [Satisfactory Updates > Teasers & Trailers > Update 5 Teasers](../topics/satisfactory-updates/teasers-trailers/update-5-teasers.md)
 
 ### Transcript

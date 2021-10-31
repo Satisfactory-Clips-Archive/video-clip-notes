@@ -3,7 +3,7 @@ title: "October 12th, 2021 Livestream Q&A: Is there any timescale on being able 
 date: "2021-10-12"
 layout: transcript
 topics:
-    - "features/planned-features/dedicated-servers"
+    - "features/multiplayer/dedicated-servers"
 ---
 # [October 12th, 2021 Livestream](../2021-10-12.md)
 ## Q&A: Is there any timescale on being able to set up Servers for Satisfactory?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: October 26th, 2
 
 
 ### Topics
-* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+* [Features > Multiplayer > Dedicated Servers](../topics/features/multiplayer/dedicated-servers.md)
 
 ### Transcript
 

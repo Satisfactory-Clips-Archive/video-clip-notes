@@ -3,14 +3,14 @@ title: "March 23rd, 2021 Livestream Community FYI: Dedicated Servers will fix ev
 date: "2021-03-23"
 layout: transcript
 topics:
-    - "features/planned-features/dedicated-servers"
+    - "features/multiplayer/dedicated-servers"
 ---
 # [March 23rd, 2021 Livestream](../2021-03-23.md)
 ## Community FYI: Dedicated Servers will fix everything
 https://www.youtube.com/watch?v=5eagT20FREw
 
 ### Topics
-* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+* [Features > Multiplayer > Dedicated Servers](../topics/features/multiplayer/dedicated-servers.md)
 
 ### Transcript
 

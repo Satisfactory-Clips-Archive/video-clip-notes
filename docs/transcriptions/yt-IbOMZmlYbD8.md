@@ -6,7 +6,7 @@ topics:
     - "coffee-stainers/jace"
     - "coffee-stainers/snutt"
     - "features/possible-features/decor"
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [May 18th, 2021 Livestream](../2021-05-18.md)
 ## Q&A: Jace & Snutt statues for Update 5?
@@ -18,7 +18,7 @@ This question was possibly duplicated with a more recent answer: [October 5th, 2
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
 * [Coffee Stainers > Snutt](../topics/coffee-stainers/snutt.md)
 * [Features > Possible Features > Decor](../topics/features/possible-features/decor.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript
 

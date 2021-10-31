@@ -3,7 +3,7 @@ title: "October 15th, 2021 Video Jace Talk: You can now modify Hologram colours 
 date: "2021-10-15"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
     - "technology/user-interface"
     - "technology/user-interface/holograms"
 ---
@@ -12,7 +12,7 @@ topics:
 https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=369&end=397
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 * [Technology > User Interface](../topics/technology/user-interface.md)
 * [Technology > User Interface > Holograms](../topics/technology/user-interface/holograms.md)
 

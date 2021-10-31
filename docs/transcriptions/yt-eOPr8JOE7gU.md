@@ -3,7 +3,7 @@ title: "June 1st, 2021 Livestream Q&A: What unexpected & surprising features wil
 date: "2021-06-01"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
     - "satisfactory-updates/teasers-trailers/update-4-teasers"
 ---
 # [June 1st, 2021 Livestream](../2021-06-01.md)
@@ -11,7 +11,7 @@ topics:
 https://www.youtube.com/watch?v=eOPr8JOE7gU
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 * [Satisfactory Updates > Teasers & Trailers > Update 4 Teasers](../topics/satisfactory-updates/teasers-trailers/update-4-teasers.md)
 
 ### Transcript

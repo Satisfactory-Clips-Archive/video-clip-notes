@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "community/community-highlights"
     - "features/buildings/water-extractor"
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
     - "trolling"
 ---
 # [October 5th, 2021 Livestream](../2021-10-05.md)
@@ -15,7 +15,7 @@ https://www.youtube.com/watch?v=rjR-CAkE03w
 ### Topics
 * [Community > Community Highlights](../topics/community/community-highlights.md)
 * [Features > Buildings > Water Extractor](../topics/features/buildings/water-extractor.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 * [Trolling](../topics/trolling.md)
 
 ### Transcript

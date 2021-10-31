@@ -3,14 +3,14 @@ title: "September 14th, 2021 Livestream Snutt & Jace Talk: We completely forgot 
 date: "2021-09-14"
 layout: transcript
 topics:
-    - "features/requested-features/golf"
+    - "features/unplanned-features/golf"
 ---
 # [September 14th, 2021 Livestream](../2021-09-14.md)
 ## Snutt & Jace Talk: We completely forgot about Golf
 https://www.youtube.com/watch?v=ppy4qXOXA0w
 
 ### Topics
-* [Features > Requested Features > Golf](../topics/features/requested-features/golf.md)
+* [Features > Unplanned Features > Golf](../topics/features/unplanned-features/golf.md)
 
 ### Transcript
 

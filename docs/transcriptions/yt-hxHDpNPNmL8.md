@@ -3,7 +3,7 @@ title: "August 31st, 2021 Livestream State of Dev: Dedicated Servers"
 date: "2021-08-31"
 layout: transcript
 topics:
-    - "features/planned-features/dedicated-servers"
+    - "features/multiplayer/dedicated-servers"
     - "satisfactory-updates/state-of-dev"
 ---
 # [August 31st, 2021 Livestream](../2021-08-31.md)
@@ -11,7 +11,7 @@ topics:
 https://www.youtube.com/watch?v=hxHDpNPNmL8
 
 ### Topics
-* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+* [Features > Multiplayer > Dedicated Servers](../topics/features/multiplayer/dedicated-servers.md)
 * [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 
 ### Transcript

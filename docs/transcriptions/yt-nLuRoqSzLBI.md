@@ -3,8 +3,8 @@ title: "October 19th, 2021 Livestream Community FYI: Fuck Dedicated Servers if w
 date: "2021-10-19"
 layout: transcript
 topics:
-    - "features/planned-features/dedicated-servers"
-    - "features/requested-features/golf"
+    - "features/multiplayer/dedicated-servers"
+    - "features/unplanned-features/golf"
     - "trolling"
 ---
 # [October 19th, 2021 Livestream](../2021-10-19.md)
@@ -12,8 +12,8 @@ topics:
 https://www.youtube.com/watch?v=nLuRoqSzLBI
 
 ### Topics
-* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
-* [Features > Requested Features > Golf](../topics/features/requested-features/golf.md)
+* [Features > Multiplayer > Dedicated Servers](../topics/features/multiplayer/dedicated-servers.md)
+* [Features > Unplanned Features > Golf](../topics/features/unplanned-features/golf.md)
 * [Trolling](../topics/trolling.md)
 
 ### Transcript

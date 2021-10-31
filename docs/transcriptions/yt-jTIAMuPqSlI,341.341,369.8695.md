@@ -6,7 +6,7 @@ topics:
     - "features/buildables/conveyor-belts"
     - "features/fluids/pipes"
     - "features/planned-features/build-modes"
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [October 15th, 2021 Video](../2021-10-15.md)
 ## Jace Talk: Conveyor Belts & Pipes can snap to their own Poles
@@ -16,7 +16,7 @@ https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=341&end=370
 * [Features > Buildables > Conveyor Belts](../topics/features/buildables/conveyor-belts.md)
 * [Features > Fluids > Pipes](../topics/features/fluids/pipes.md)
 * [Features > Planned Features > Build Modes](../topics/features/planned-features/build-modes.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript
 

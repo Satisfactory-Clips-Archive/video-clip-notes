@@ -3,14 +3,14 @@ title: "July 6th, 2021 Livestream Q&A: Will Update 5 live up to the hype?"
 date: "2021-07-06"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [July 6th, 2021 Livestream](../2021-07-06.md)
 ## Q&A: Will Update 5 live up to the hype?
 https://www.youtube.com/watch?v=9RAPB6rsco8
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript
 

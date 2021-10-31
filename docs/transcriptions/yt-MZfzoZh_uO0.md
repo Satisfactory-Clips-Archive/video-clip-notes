@@ -4,7 +4,7 @@ date: "2021-08-31"
 layout: transcript
 topics:
     - "features/transportation/trains"
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
     - "trolling"
 ---
 # [August 31st, 2021 Livestream](../2021-08-31.md)
@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=MZfzoZh_uO0
 
 ### Topics
 * [Features > Transportation > Trains](../topics/features/transportation/trains.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 * [Trolling](../topics/trolling.md)
 
 ### Transcript

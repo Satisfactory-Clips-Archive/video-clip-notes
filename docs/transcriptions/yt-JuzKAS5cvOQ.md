@@ -3,7 +3,7 @@ title: "August 31st, 2021 Livestream Q&A: Build limit in Update 5?"
 date: "2021-08-31"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
     - "technology/unreal-engine/object-limit"
 ---
 # [August 31st, 2021 Livestream](../2021-08-31.md)
@@ -11,7 +11,7 @@ topics:
 https://www.youtube.com/watch?v=JuzKAS5cvOQ
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 * [Technology > Unreal Engine > Object Limit](../topics/technology/unreal-engine/object-limit.md)
 
 ### Transcript

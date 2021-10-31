@@ -3,7 +3,7 @@ title: "August 10th, 2021 Livestream Jace Talk: Golf (Part 6)"
 date: "2021-08-10"
 layout: transcript
 topics:
-    - "features/requested-features/golf"
+    - "features/unplanned-features/golf"
 ---
 # [August 10th, 2021 Livestream](../2021-08-10.md)
 ## Jace Talk: Golf (Part 6)
@@ -21,7 +21,7 @@ https://www.youtube.com/watch?v=SN1SSlPdSUo
 
 
 ### Topics
-* [Features > Requested Features > Golf](../topics/features/requested-features/golf.md)
+* [Features > Unplanned Features > Golf](../topics/features/unplanned-features/golf.md)
 
 ### Transcript
 

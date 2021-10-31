@@ -4,7 +4,7 @@ date: "2021-09-03"
 layout: transcript
 topics:
     - "features/buildables/pillars"
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
     - "satisfactory-updates/teasers-trailers/update-5-teasers"
 ---
 # [September 3rd, 2021 Dev Vlog](../2021-09-03.md)
@@ -13,7 +13,7 @@ https://youtube.com/clip/UgzFh1qpn_lmBfeNoex4AaABCQ
 
 ### Topics
 * [Features > Buildables > Pillars](../topics/features/buildables/pillars.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 * [Satisfactory Updates > Teasers & Trailers > Update 5 Teasers](../topics/satisfactory-updates/teasers-trailers/update-5-teasers.md)
 
 ### Transcript

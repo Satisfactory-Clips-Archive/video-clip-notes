@@ -3,8 +3,8 @@ title: "September 28th, 2021 Livestream State of Dev: Update 5 Release Date"
 date: "2021-09-28"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-5"
     - "satisfactory-updates/release-builds"
+    - "satisfactory-updates/released/satisfactory-update-5"
     - "satisfactory-updates/state-of-dev"
 ---
 # [September 28th, 2021 Livestream](../2021-09-28.md)
@@ -12,8 +12,8 @@ topics:
 https://www.youtube.com/watch?v=dAfszSKXuYk
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
 * [Satisfactory Updates > Release Builds](../topics/satisfactory-updates/release-builds.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 * [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 
 ### Transcript

@@ -4,7 +4,7 @@ date: "2021-08-17"
 layout: transcript
 topics:
     - "environment/creatures/lizard-doggo"
-    - "features/requested-features/golf"
+    - "features/unplanned-features/golf"
 ---
 # [August 17th, 2021 Livestream](../2021-08-17.md)
 ## Q&A: Will the Lizard Doggo act as a Golf caddy when Golf gets implemented?
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=fzhc__1B2L8
 
 ### Topics
 * [Environment > Creatures > Lizard Doggo](../topics/environment/creatures/lizard-doggo.md)
-* [Features > Requested Features > Golf](../topics/features/requested-features/golf.md)
+* [Features > Unplanned Features > Golf](../topics/features/unplanned-features/golf.md)
 
 ### Transcript
 

@@ -3,14 +3,14 @@ title: "September 28th, 2021 Livestream Q&A: Any improvements to exploration com
 date: "2021-09-28"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [September 28th, 2021 Livestream](../2021-09-28.md)
 ## Q&A: Any improvements to exploration coming to Update 5?
 https://www.youtube.com/watch?v=8ABDvvluVbs
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript
 

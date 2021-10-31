@@ -3,7 +3,7 @@ title: "May 4th, 2021 Livestream State of Dev: Dedicated Servers release plan"
 date: "2021-05-04"
 layout: transcript
 topics:
-    - "features/planned-features/dedicated-servers"
+    - "features/multiplayer/dedicated-servers"
     - "satisfactory-updates/state-of-dev"
 ---
 # [May 4th, 2021 Livestream](../2021-05-04.md)
@@ -11,7 +11,7 @@ topics:
 https://www.youtube.com/watch?v=nHZMgxqhUHA
 
 ### Topics
-* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+* [Features > Multiplayer > Dedicated Servers](../topics/features/multiplayer/dedicated-servers.md)
 * [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 
 ### Transcript

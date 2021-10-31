@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "features/buildings"
     - "features/transportation/vehicles/autopilot"
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [September 10th, 2021 Video](../2021-09-10.md)
 ## Jace Talk: Adding Truck Stations to a previously-recorded path
@@ -14,7 +14,7 @@ https://youtube.com/clip/Ugzkf2Qp5gQgz7c0TNJ4AaABCQ
 ### Topics
 * [Features > Buildings](../topics/features/buildings.md)
 * [Features > Transportation > Vehicles > Autopilot](../topics/features/transportation/vehicles/autopilot.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript
 

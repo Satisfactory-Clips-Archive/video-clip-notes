@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "features/buildings"
     - "features/transportation/vehicles/truck"
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
     - "satisfactory-updates/teasers-trailers/update-5-teasers"
     - "technology/user-interface"
 ---
@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=VAQDLsfK-Io
 ### Topics
 * [Features > Buildings](../topics/features/buildings.md)
 * [Features > Transportation > Vehicles > Truck](../topics/features/transportation/vehicles/truck.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 * [Satisfactory Updates > Teasers & Trailers > Update 5 Teasers](../topics/satisfactory-updates/teasers-trailers/update-5-teasers.md)
 * [Technology > User Interface](../topics/technology/user-interface.md)
 

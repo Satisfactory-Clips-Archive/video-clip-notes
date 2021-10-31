@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "environment/biomes/caves"
     - "environment/biomes/unplanned-biomes/underwater"
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
     - "satisfactory-updates/world-update"
 ---
 # [October 12th, 2021 Livestream](../2021-10-12.md)
@@ -15,7 +15,7 @@ https://www.youtube.com/watch?v=Y9QwQmUtiws
 ### Topics
 * [Environment > Biomes > Caves](../topics/environment/biomes/caves.md)
 * [Environment > Biomes > Unplanned Biomes > Underwater](../topics/environment/biomes/unplanned-biomes/underwater.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 * [Satisfactory Updates > World Update](../topics/satisfactory-updates/world-update.md)
 
 ### Transcript

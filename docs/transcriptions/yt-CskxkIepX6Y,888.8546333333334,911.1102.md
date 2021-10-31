@@ -4,7 +4,7 @@ date: "2021-10-08"
 layout: transcript
 topics:
     - "features/transportation/trains/train-signals"
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
     - "satisfactory-updates/teasers-trailers/update-5-teasers"
     - "technology/user-interface"
 ---
@@ -14,7 +14,7 @@ https://youtube.com/clip/UgkxH8HdBFkCKi_76BF4ZgU07azWvSsj2hJd
 
 ### Topics
 * [Features > Transportation > Trains > Train Signals](../topics/features/transportation/trains/train-signals.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 * [Satisfactory Updates > Teasers & Trailers > Update 5 Teasers](../topics/satisfactory-updates/teasers-trailers/update-5-teasers.md)
 * [Technology > User Interface](../topics/technology/user-interface.md)
 

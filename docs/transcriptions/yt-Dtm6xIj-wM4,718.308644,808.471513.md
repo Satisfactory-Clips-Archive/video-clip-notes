@@ -3,7 +3,7 @@ title: "February 6th, 2019 Livestream Q&A: What's the possibility of Dedicated S
 date: "2019-02-06"
 layout: transcript
 topics:
-    - "features/planned-features/dedicated-servers"
+    - "features/multiplayer/dedicated-servers"
     - "mods/official-mod-support"
 ---
 # [February 6th, 2019 Livestream](../2019-02-06.md)
@@ -13,7 +13,7 @@ This question was possibly duplicated with a more recent answer: October 26th, 2
 
 
 ### Topics
-* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+* [Features > Multiplayer > Dedicated Servers](../topics/features/multiplayer/dedicated-servers.md)
 * [Mods > Official Mod Support](../topics/mods/official-mod-support.md)
 
 ### Transcript

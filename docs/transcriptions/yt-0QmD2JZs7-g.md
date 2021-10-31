@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "coffee-stainers"
     - "coffee-stainers/jace"
-    - "features/planned-features/dedicated-servers"
+    - "features/multiplayer/dedicated-servers"
     - "technology/linux"
 ---
 # [May 25th, 2021 Livestream](../2021-05-25.md)
@@ -15,7 +15,7 @@ https://www.youtube.com/watch?v=0QmD2JZs7-g
 ### Topics
 * [Coffee Stainers](../topics/coffee-stainers.md)
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
-* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+* [Features > Multiplayer > Dedicated Servers](../topics/features/multiplayer/dedicated-servers.md)
 * [Technology > Linux](../topics/technology/linux.md)
 
 ### Transcript

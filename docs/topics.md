@@ -211,10 +211,10 @@ date: Last Modified
 
 ## [Multiplayer](./topics/features/multiplayer.md)
 * [Crossplay](./topics/features/multiplayer/crossplay.md)
+* [Dedicated Servers](./topics/features/multiplayer/dedicated-servers.md)
 ---
 
 ## Planned Features
-* [Dedicated Servers](./topics/features/planned-features/dedicated-servers.md)
 * [Signs](./topics/features/planned-features/signs.md)
 
 ### [Build Modes](./topics/features/planned-features/build-modes.md)
@@ -264,7 +264,6 @@ date: Last Modified
 * [Crossovers](./topics/features/requested-features/crossovers.md)
 * [Elevators](./topics/features/requested-features/elevators.md)
 * [Global Build Grid](./topics/features/requested-features/global-build-grid.md)
-* [Golf](./topics/features/requested-features/golf.md)
 * [Holstering Equipment](./topics/features/requested-features/holstering-equipment.md)
 * [Multiple Body Slots](./topics/features/requested-features/multiple-body-slots.md)
 * [PionR](./topics/features/requested-features/pionr.md)
@@ -312,6 +311,7 @@ date: Last Modified
 * [Aerial Travel](./topics/features/unplanned-features/aerial-travel.md)
 * [Base Defense](./topics/features/unplanned-features/base-defense.md)
 * [Factory Maintenance](./topics/features/unplanned-features/factory-maintenance.md)
+* [Golf](./topics/features/unplanned-features/golf.md)
 * [Loot Boxes](./topics/features/unplanned-features/loot-boxes.md)
 * [Mass Building](./topics/features/unplanned-features/mass-building.md)
 * [Microtransactions](./topics/features/unplanned-features/microtransactions.md)
@@ -423,11 +423,6 @@ date: Last Modified
 * [World Update](./topics/satisfactory-updates/world-update.md)
 
 ## Pending
-
-### [Satisfactory Update 5](./topics/satisfactory-updates/pending/satisfactory-update-5.md)
-* [#SaveTheWillows](./topics/satisfactory-updates/pending/satisfactory-update-5/save-the-willows.md)
-* [Northern Forest World Update Q&A with Hannah](./topics/satisfactory-updates/pending/satisfactory-update-5/northern-forest-world-update-q-and-a-with-hannah.md)
----
 * [Satisfactory 1.0](./topics/satisfactory-updates/pending/satisfactory-1-0.md)
 ---
 
@@ -437,6 +432,11 @@ date: Last Modified
 * [Satisfactory Update 3](./topics/satisfactory-updates/released/satisfactory-update-3.md)
 * [Satisfactory Fluids Update](./topics/satisfactory-updates/released/satisfactory-fluids-update.md)
 * [Satisfactory Update 4](./topics/satisfactory-updates/released/satisfactory-update-4.md)
+
+### [Satisfactory Update 5](./topics/satisfactory-updates/released/satisfactory-update-5.md)
+* [#SaveTheWillows](./topics/satisfactory-updates/released/satisfactory-update-5/save-the-willows.md)
+* [Northern Forest World Update Q&A with Hannah](./topics/satisfactory-updates/released/satisfactory-update-5/northern-forest-world-update-q-and-a-with-hannah.md)
+---
 
 ### [Satisfactory Alpha](./topics/satisfactory-updates/released/satisfactory-alpha.md)
 * [Alpha Weekend](./topics/satisfactory-updates/released/satisfactory-alpha/alpha-weekend.md)

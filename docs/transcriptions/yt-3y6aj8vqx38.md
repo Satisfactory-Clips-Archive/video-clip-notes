@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "environment/plants"
     - "features/multiplayer"
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [September 14th, 2021 Livestream](../2021-09-14.md)
 ## Q&A: Will there be any fixes for Multiplayer sync issues like for instances Trees being cut?
@@ -21,7 +21,7 @@ https://www.youtube.com/watch?v=3y6aj8vqx38
 ### Topics
 * [Environment > Plants](../topics/environment/plants.md)
 * [Features > Multiplayer](../topics/features/multiplayer.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript
 

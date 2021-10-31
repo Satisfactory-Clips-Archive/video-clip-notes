@@ -4,7 +4,7 @@ date: "2021-08-24"
 layout: transcript
 topics:
     - "environment/biomes/spire-coast"
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
     - "satisfactory-updates/world-update"
 ---
 # [August 24th, 2021 Livestream](../2021-08-24.md)
@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=uC9IEN1An1o
 
 ### Topics
 * [Environment > Biomes > Spire Coast](../topics/environment/biomes/spire-coast.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 * [Satisfactory Updates > World Update](../topics/satisfactory-updates/world-update.md)
 
 ### Transcript

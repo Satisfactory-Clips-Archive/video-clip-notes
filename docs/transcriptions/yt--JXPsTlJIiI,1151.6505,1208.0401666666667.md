@@ -3,7 +3,7 @@ title: "December 17th, 2020 Q&A Q&A: Dedicated Server status report!"
 date: "2020-12-17"
 layout: transcript
 topics:
-    - "features/planned-features/dedicated-servers"
+    - "features/multiplayer/dedicated-servers"
 ---
 # [December 17th, 2020 Q&A](../2020-12-17.md)
 ## Q&A: Dedicated Server status report!
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: October 26th, 2
 
 
 ### Topics
-* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+* [Features > Multiplayer > Dedicated Servers](../topics/features/multiplayer/dedicated-servers.md)
 
 ### Transcript
 

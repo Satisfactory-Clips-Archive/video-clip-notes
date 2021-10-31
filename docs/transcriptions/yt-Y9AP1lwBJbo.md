@@ -3,7 +3,7 @@ title: "October 12th, 2021 Livestream State of Dev: Content Freeze & Update 5 bu
 date: "2021-10-12"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
     - "satisfactory-updates/state-of-dev"
 ---
 # [October 12th, 2021 Livestream](../2021-10-12.md)
@@ -11,7 +11,7 @@ topics:
 https://www.youtube.com/watch?v=Y9AP1lwBJbo
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 * [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 
 ### Transcript

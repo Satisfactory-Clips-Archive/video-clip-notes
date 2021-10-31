@@ -3,7 +3,7 @@ title: "December 15th, 2020 Livestream Q&A: Dedicated Server for Windows?"
 date: "2020-12-15"
 layout: transcript
 topics:
-    - "features/planned-features/dedicated-servers"
+    - "features/multiplayer/dedicated-servers"
     - "technology/linux"
 ---
 # [December 15th, 2020 Livestream](../2020-12-15.md)
@@ -11,7 +11,7 @@ topics:
 https://www.youtube.com/watch?v=znK3Ne7dLUc
 
 ### Topics
-* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+* [Features > Multiplayer > Dedicated Servers](../topics/features/multiplayer/dedicated-servers.md)
 * [Technology > Linux](../topics/technology/linux.md)
 
 ### Transcript

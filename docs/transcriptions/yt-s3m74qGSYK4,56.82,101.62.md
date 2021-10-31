@@ -4,7 +4,7 @@ date: "2019-09-13"
 layout: transcript
 topics:
     - "community"
-    - "features/planned-features/dedicated-servers"
+    - "features/multiplayer/dedicated-servers"
     - "mods/official-mod-support"
 ---
 # [September 13th, 2019 Video](../2019-09-13.md)
@@ -13,7 +13,7 @@ https://youtube.com/embed/s3m74qGSYK4?autoplay=1&start=56&end=102
 
 ### Topics
 * [Community](../topics/community.md)
-* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+* [Features > Multiplayer > Dedicated Servers](../topics/features/multiplayer/dedicated-servers.md)
 * [Mods > Official Mod Support](../topics/mods/official-mod-support.md)
 
 ### Transcript

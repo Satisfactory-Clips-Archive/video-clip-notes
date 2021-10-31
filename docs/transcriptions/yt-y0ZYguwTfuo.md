@@ -3,7 +3,7 @@ title: "June 22nd, 2021 Livestream State of Dev: Update 5"
 date: "2021-06-22"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
     - "satisfactory-updates/state-of-dev"
 ---
 # [June 22nd, 2021 Livestream](../2021-06-22.md)
@@ -11,7 +11,7 @@ topics:
 https://www.youtube.com/watch?v=y0ZYguwTfuo
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 * [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 
 ### Transcript

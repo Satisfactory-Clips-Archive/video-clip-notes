@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "coffee-stainers/markus"
     - "features/multiplayer"
-    - "features/planned-features/dedicated-servers"
+    - "features/multiplayer/dedicated-servers"
     - "technology/user-interface"
 ---
 # [February 11th, 2020 Livestream](../2020-02-11.md)
@@ -15,7 +15,7 @@ https://www.youtube.com/watch?v=QdMnTdqRxaE
 ### Topics
 * [Coffee Stainers > Markus](../topics/coffee-stainers/markus.md)
 * [Features > Multiplayer](../topics/features/multiplayer.md)
-* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+* [Features > Multiplayer > Dedicated Servers](../topics/features/multiplayer/dedicated-servers.md)
 * [Technology > User Interface](../topics/technology/user-interface.md)
 
 ### Transcript

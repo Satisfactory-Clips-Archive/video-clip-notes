@@ -3,14 +3,14 @@ title: "February 20th, 2020 Video Snutt Talk: Dedicated Servers"
 date: "2020-02-20"
 layout: transcript
 topics:
-    - "features/planned-features/dedicated-servers"
+    - "features/multiplayer/dedicated-servers"
 ---
 # [February 20th, 2020 Video](../2020-02-20.md)
 ## Snutt Talk: Dedicated Servers
 https://youtube.com/embed/QBE1Xl94s9o?autoplay=1&start=193&end=269
 
 ### Topics
-* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+* [Features > Multiplayer > Dedicated Servers](../topics/features/multiplayer/dedicated-servers.md)
 
 ### Transcript
 

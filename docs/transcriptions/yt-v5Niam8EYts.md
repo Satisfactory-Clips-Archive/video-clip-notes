@@ -3,7 +3,7 @@ title: "November 3rd, 2020 Livestream Q&A: Will Dedicated Servers run under Linu
 date: "2020-11-03"
 layout: transcript
 topics:
-    - "features/planned-features/dedicated-servers"
+    - "features/multiplayer/dedicated-servers"
     - "technology/linux"
 ---
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
@@ -13,7 +13,7 @@ This question was possibly duplicated with a more recent answer: [October 5th, 2
 
 
 ### Topics
-* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+* [Features > Multiplayer > Dedicated Servers](../topics/features/multiplayer/dedicated-servers.md)
 * [Technology > Linux](../topics/technology/linux.md)
 
 ### Transcript

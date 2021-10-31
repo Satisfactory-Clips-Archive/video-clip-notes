@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "features/buildables"
     - "features/buildings/awesome-store"
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [September 7th, 2021 Livestream](../2021-09-07.md)
 ## Q&A: Will the new Build Pieces will be unlocked in the AWESOME Shop?
@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=vEBGQAEjxGs
 ### Topics
 * [Features > Buildables](../topics/features/buildables.md)
 * [Features > Buildings > AWESOME Store](../topics/features/buildings/awesome-store.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript
 

@@ -4,7 +4,7 @@ date: "2021-10-19"
 layout: transcript
 topics:
     - "community"
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
     - "trolling"
 ---
 # [October 19th, 2021 Livestream](../2021-10-19.md)
@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=zWhjt7T1q5s
 
 ### Topics
 * [Community](../topics/community.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 * [Trolling](../topics/trolling.md)
 
 ### Transcript

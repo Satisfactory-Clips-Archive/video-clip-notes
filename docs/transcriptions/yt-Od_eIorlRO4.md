@@ -3,14 +3,14 @@ title: "March 2nd, 2021 Livestream Q&A: Will you shed some light on what server 
 date: "2021-03-02"
 layout: transcript
 topics:
-    - "features/planned-features/dedicated-servers"
+    - "features/multiplayer/dedicated-servers"
 ---
 # [March 2nd, 2021 Livestream](../2021-03-02.md)
 ## Q&A: Will you shed some light on what server settings can be expected for Dedicated Servers?
 https://www.youtube.com/watch?v=Od_eIorlRO4
 
 ### Topics
-* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+* [Features > Multiplayer > Dedicated Servers](../topics/features/multiplayer/dedicated-servers.md)
 
 ### Transcript
 

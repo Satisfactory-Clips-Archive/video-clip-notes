@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "localisation"
     - "satisfactory-updates"
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [July 20th, 2021 Livestream](../2021-07-20.md)
 ## Q&A: Are we expecting any patches prior to Update 5?
@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=VPGerw4doBo
 ### Topics
 * [Localisation](../topics/localisation.md)
 * [Satisfactory Updates](../topics/satisfactory-updates.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript
 

@@ -3,7 +3,7 @@ title: "June 15th, 2021 Livestream State of Dev: Golf QA Post"
 date: "2021-06-15"
 layout: transcript
 topics:
-    - "features/requested-features/golf"
+    - "features/unplanned-features/golf"
     - "qa-site"
 ---
 # [June 15th, 2021 Livestream](../2021-06-15.md)
@@ -11,7 +11,7 @@ topics:
 https://www.youtube.com/watch?v=0Zmyk7cOJuU
 
 ### Topics
-* [Features > Requested Features > Golf](../topics/features/requested-features/golf.md)
+* [Features > Unplanned Features > Golf](../topics/features/unplanned-features/golf.md)
 * [QA Site](../topics/qa-site.md)
 
 ### Transcript

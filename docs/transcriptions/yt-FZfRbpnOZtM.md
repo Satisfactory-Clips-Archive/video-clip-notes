@@ -3,14 +3,14 @@ title: "July 6th, 2021 Livestream Snutt & Jace Talk: State of Golf"
 date: "2021-07-06"
 layout: transcript
 topics:
-    - "features/requested-features/golf"
+    - "features/unplanned-features/golf"
 ---
 # [July 6th, 2021 Livestream](../2021-07-06.md)
 ## Snutt & Jace Talk: State of Golf
 https://www.youtube.com/watch?v=FZfRbpnOZtM
 
 ### Topics
-* [Features > Requested Features > Golf](../topics/features/requested-features/golf.md)
+* [Features > Unplanned Features > Golf](../topics/features/unplanned-features/golf.md)
 
 ### Transcript
 

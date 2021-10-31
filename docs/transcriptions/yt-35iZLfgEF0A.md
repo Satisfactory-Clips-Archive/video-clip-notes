@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "features/buildables/lights"
     - "features/transportation/vehicles"
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [October 12th, 2021 Livestream](../2021-10-12.md)
 ## Q&A: Will Truck Lights finally work in Update 5?
@@ -21,7 +21,7 @@ https://www.youtube.com/watch?v=35iZLfgEF0A
 ### Topics
 * [Features > Buildables > Lights](../topics/features/buildables/lights.md)
 * [Features > Transportation > Vehicles](../topics/features/transportation/vehicles.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript
 

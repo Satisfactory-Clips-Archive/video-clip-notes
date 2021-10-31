@@ -3,14 +3,14 @@ title: "June 15th, 2021 Livestream Q&A: Any optimisations or bug fixes between n
 date: "2021-06-15"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [June 15th, 2021 Livestream](../2021-06-15.md)
 ## Q&A: Any optimisations or bug fixes between now and Update 5?
 https://www.youtube.com/watch?v=HMOMM2ZmYV8
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript
 

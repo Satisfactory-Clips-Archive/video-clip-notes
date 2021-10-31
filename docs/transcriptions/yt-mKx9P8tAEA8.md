@@ -3,14 +3,14 @@ title: "September 14th, 2021 Livestream Q&A: Would you tell us seriously you're 
 date: "2021-09-14"
 layout: transcript
 topics:
-    - "features/requested-features/golf"
+    - "features/unplanned-features/golf"
 ---
 # [September 14th, 2021 Livestream](../2021-09-14.md)
 ## Q&A: Would you tell us seriously you're not adding Golf even if it is a joke?
 https://www.youtube.com/watch?v=mKx9P8tAEA8
 
 ### Topics
-* [Features > Requested Features > Golf](../topics/features/requested-features/golf.md)
+* [Features > Unplanned Features > Golf](../topics/features/unplanned-features/golf.md)
 
 ### Transcript
 

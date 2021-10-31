@@ -3,9 +3,9 @@ title: "September 7th, 2021 Livestream State of Dev: Update 5, Dedicated Servers
 date: "2021-09-07"
 layout: transcript
 topics:
-    - "features/planned-features/dedicated-servers"
-    - "features/requested-features/golf"
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "features/multiplayer/dedicated-servers"
+    - "features/unplanned-features/golf"
+    - "satisfactory-updates/released/satisfactory-update-5"
     - "satisfactory-updates/state-of-dev"
 ---
 # [September 7th, 2021 Livestream](../2021-09-07.md)
@@ -13,9 +13,9 @@ topics:
 https://www.youtube.com/watch?v=yKSmdI8xuXM
 
 ### Topics
-* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
-* [Features > Requested Features > Golf](../topics/features/requested-features/golf.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Features > Multiplayer > Dedicated Servers](../topics/features/multiplayer/dedicated-servers.md)
+* [Features > Unplanned Features > Golf](../topics/features/unplanned-features/golf.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 * [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 
 ### Transcript

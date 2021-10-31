@@ -3,7 +3,7 @@ title: "September 28th, 2021 Livestream Q&A: State of Golf?"
 date: "2021-09-28"
 layout: transcript
 topics:
-    - "features/requested-features/golf"
+    - "features/unplanned-features/golf"
 ---
 # [September 28th, 2021 Livestream](../2021-09-28.md)
 ## Q&A: State of Golf?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: [October 19th, 
 
 
 ### Topics
-* [Features > Requested Features > Golf](../topics/features/requested-features/golf.md)
+* [Features > Unplanned Features > Golf](../topics/features/unplanned-features/golf.md)
 
 ### Transcript
 

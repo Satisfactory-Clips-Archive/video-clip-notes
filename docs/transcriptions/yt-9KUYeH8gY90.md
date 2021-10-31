@@ -4,7 +4,7 @@ date: "2021-10-19"
 layout: transcript
 topics:
     - "community/community-highlights"
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
     - "satisfactory-updates/teasers-trailers/update-5-patch-notes-video"
 ---
 # [October 19th, 2021 Livestream](../2021-10-19.md)
@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=9KUYeH8gY90
 
 ### Topics
 * [Community > Community Highlights](../topics/community/community-highlights.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 * [Satisfactory Updates > Teasers & Trailers > Update 5 Patch Notes Video](../topics/satisfactory-updates/teasers-trailers/update-5-patch-notes-video.md)
 
 ### Transcript

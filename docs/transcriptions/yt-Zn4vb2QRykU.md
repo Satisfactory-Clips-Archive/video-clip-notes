@@ -3,7 +3,7 @@ title: "June 29th, 2021 Livestream Community FYI: Alt-Tabbing the game causes my
 date: "2021-06-29"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
     - "technology/graphics"
 ---
 # [June 29th, 2021 Livestream](../2021-06-29.md)
@@ -11,7 +11,7 @@ topics:
 https://www.youtube.com/watch?v=Zn4vb2QRykU
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 * [Technology > Graphics](../topics/technology/graphics.md)
 
 ### Transcript

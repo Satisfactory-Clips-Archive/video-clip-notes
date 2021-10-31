@@ -3,14 +3,14 @@ title: "August 24th, 2021 Livestream Snutt Talk: Golf"
 date: "2021-08-24"
 layout: transcript
 topics:
-    - "features/requested-features/golf"
+    - "features/unplanned-features/golf"
 ---
 # [August 24th, 2021 Livestream](../2021-08-24.md)
 ## Snutt Talk: Golf
 https://www.youtube.com/watch?v=6viglt7CXFg
 
 ### Topics
-* [Features > Requested Features > Golf](../topics/features/requested-features/golf.md)
+* [Features > Unplanned Features > Golf](../topics/features/unplanned-features/golf.md)
 
 ### Transcript
 

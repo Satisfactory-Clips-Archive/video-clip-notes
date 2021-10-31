@@ -3,7 +3,7 @@ title: "February 9th, 2021 Livestream Q&A: What Operating System will the Dedica
 date: "2021-02-09"
 layout: transcript
 topics:
-    - "features/planned-features/dedicated-servers"
+    - "features/multiplayer/dedicated-servers"
     - "technology/linux"
 ---
 # [February 9th, 2021 Livestream](../2021-02-09.md)
@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=071RPMJfFJk
 
 
 ### Topics
-* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+* [Features > Multiplayer > Dedicated Servers](../topics/features/multiplayer/dedicated-servers.md)
 * [Technology > Linux](../topics/technology/linux.md)
 
 ### Transcript

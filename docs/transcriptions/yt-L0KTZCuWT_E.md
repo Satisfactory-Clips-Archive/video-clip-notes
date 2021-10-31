@@ -3,7 +3,7 @@ title: "October 5th, 2021 Livestream Q&A: Server Hosting on Linux?"
 date: "2021-10-05"
 layout: transcript
 topics:
-    - "features/planned-features/dedicated-servers"
+    - "features/multiplayer/dedicated-servers"
     - "technology/linux"
 ---
 # [October 5th, 2021 Livestream](../2021-10-05.md)
@@ -30,7 +30,7 @@ This question was possibly replaced with a more recent answer: October 26th, 202
 
 
 ### Topics
-* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+* [Features > Multiplayer > Dedicated Servers](../topics/features/multiplayer/dedicated-servers.md)
 * [Technology > Linux](../topics/technology/linux.md)
 
 ### Transcript

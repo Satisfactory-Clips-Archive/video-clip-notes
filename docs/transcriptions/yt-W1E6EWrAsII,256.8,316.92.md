@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "coffee-stainers/simon"
     - "features/multiplayer"
-    - "features/planned-features/dedicated-servers"
+    - "features/multiplayer/dedicated-servers"
 ---
 # [June 22nd, 2018 Q&A](../2018-06-22.md)
 ## Jace Talk: General multiplayer questions
@@ -14,7 +14,7 @@ https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=256&end=317
 ### Topics
 * [Coffee Stainers > Simon](../topics/coffee-stainers/simon.md)
 * [Features > Multiplayer](../topics/features/multiplayer.md)
-* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+* [Features > Multiplayer > Dedicated Servers](../topics/features/multiplayer/dedicated-servers.md)
 
 ### Transcript
 

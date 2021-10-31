@@ -4,7 +4,7 @@ date: "2021-09-24"
 layout: transcript
 topics:
     - "satisfactory-updates"
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [September 24th, 2021 Video](../2021-09-24.md)
 ## Jace Talk: Update 5 compared to past Updates
@@ -12,7 +12,7 @@ https://youtube.com/embed/W3YBFCO1NMg?autoplay=1&start=176&end=282
 
 ### Topics
 * [Satisfactory Updates](../topics/satisfactory-updates.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript
 

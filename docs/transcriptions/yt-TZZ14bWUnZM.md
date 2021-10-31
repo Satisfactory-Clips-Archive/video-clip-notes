@@ -3,7 +3,7 @@ title: "June 29th, 2021 Livestream Q&A: Feature Creep party you say?"
 date: "2021-06-29"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
     - "trolling"
 ---
 # [June 29th, 2021 Livestream](../2021-06-29.md)
@@ -11,7 +11,7 @@ topics:
 https://www.youtube.com/watch?v=TZZ14bWUnZM
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 * [Trolling](../topics/trolling.md)
 
 ### Transcript

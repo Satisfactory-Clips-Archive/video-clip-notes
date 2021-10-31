@@ -3,7 +3,7 @@ title: "September 9th, 2020 Video Snutt Talk: Update 4 & Dedicated Servers"
 date: "2020-09-09"
 layout: transcript
 topics:
-    - "features/planned-features/dedicated-servers"
+    - "features/multiplayer/dedicated-servers"
     - "satisfactory-updates/released/satisfactory-update-4"
 ---
 # [September 9th, 2020 Video](../2020-09-09.md)
@@ -11,7 +11,7 @@ topics:
 https://youtube.com/embed/dSnqRq1hLZY?autoplay=1&start=26&end=128
 
 ### Topics
-* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+* [Features > Multiplayer > Dedicated Servers](../topics/features/multiplayer/dedicated-servers.md)
 * [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 
 ### Transcript

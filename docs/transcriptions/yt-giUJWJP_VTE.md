@@ -3,7 +3,7 @@ title: "July 6th, 2021 Livestream Q&A: Do we know what's going to be in Update 5
 date: "2021-07-06"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [July 6th, 2021 Livestream](../2021-07-06.md)
 ## Q&A: Do we know what's going to be in Update 5?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: [July 6th, 2021
 
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript
 

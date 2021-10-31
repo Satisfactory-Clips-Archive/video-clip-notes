@@ -3,14 +3,14 @@ title: "August 10th, 2021 Livestream Q&A: Was there an actual ETA on Dedicated S
 date: "2021-08-10"
 layout: transcript
 topics:
-    - "features/planned-features/dedicated-servers"
+    - "features/multiplayer/dedicated-servers"
 ---
 # [August 10th, 2021 Livestream](../2021-08-10.md)
 ## Q&A: Was there an actual ETA on Dedicated Servers?
 https://www.youtube.com/watch?v=_W5YNDh8nCY
 
 ### Topics
-* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+* [Features > Multiplayer > Dedicated Servers](../topics/features/multiplayer/dedicated-servers.md)
 
 ### Transcript
 

@@ -4,7 +4,7 @@ date: "2021-09-07"
 layout: transcript
 topics:
     - "satisfactory-updates"
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [September 7th, 2021 Livestream](../2021-09-07.md)
 ## Community FYI: I really want to play, but it's really hard to play when so much is changing
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=LFxuzaCUc34
 
 ### Topics
 * [Satisfactory Updates](../topics/satisfactory-updates.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript
 

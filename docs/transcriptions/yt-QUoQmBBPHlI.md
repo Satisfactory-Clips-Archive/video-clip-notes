@@ -4,7 +4,7 @@ date: "2021-09-07"
 layout: transcript
 topics:
     - "features/buildables/conveyor-belts"
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [September 7th, 2021 Livestream](../2021-09-07.md)
 ## Snutt & Jace Talk: New Feature, Horizontal Conveyor Lifts
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=QUoQmBBPHlI
 
 ### Topics
 * [Features > Buildables > Conveyor Belts](../topics/features/buildables/conveyor-belts.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript
 

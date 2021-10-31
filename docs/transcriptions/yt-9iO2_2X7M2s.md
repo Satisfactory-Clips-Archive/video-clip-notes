@@ -3,7 +3,7 @@ title: "August 10th, 2021 Livestream State of Dev: Update 5 Map Changes"
 date: "2021-08-10"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
     - "satisfactory-updates/state-of-dev"
     - "satisfactory-updates/world-update"
 ---
@@ -12,7 +12,7 @@ topics:
 https://www.youtube.com/watch?v=9iO2_2X7M2s
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 * [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 * [Satisfactory Updates > World Update](../topics/satisfactory-updates/world-update.md)
 

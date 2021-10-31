@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "features/transportation/trains"
     - "features/transportation/trains/train-signals"
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [October 12th, 2021 Livestream](../2021-10-12.md)
 ## Q&A: Are Trains going to completely stop before a Signal when coming down a hill?
@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=tnGG0nyqFZE
 ### Topics
 * [Features > Transportation > Trains](../topics/features/transportation/trains.md)
 * [Features > Transportation > Trains > Train Signals](../topics/features/transportation/trains/train-signals.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript
 

@@ -4,7 +4,7 @@ date: "2021-09-28"
 layout: transcript
 topics:
     - "features/multiplayer"
-    - "features/planned-features/dedicated-servers"
+    - "features/multiplayer/dedicated-servers"
 ---
 # [September 28th, 2021 Livestream](../2021-09-28.md)
 ## Q&A: Are Dedicated Servers going to be able to support more than 4 players?
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=krKAuF8q-rA
 
 ### Topics
 * [Features > Multiplayer](../topics/features/multiplayer.md)
-* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+* [Features > Multiplayer > Dedicated Servers](../topics/features/multiplayer/dedicated-servers.md)
 
 ### Transcript
 

@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "environment"
     - "features/fluids/pipes"
-    - "features/planned-features/dedicated-servers"
+    - "features/multiplayer/dedicated-servers"
     - "features/tiers/tier-8"
     - "satisfactory-updates/released/satisfactory-fluids-update"
     - "satisfactory-updates/released/satisfactory-update-4"
@@ -19,7 +19,7 @@ This question was possibly replaced with a more recent answer: [March 9th, 2021 
 ### Topics
 * [Environment](../topics/environment.md)
 * [Features > Fluids > Pipes](../topics/features/fluids/pipes.md)
-* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+* [Features > Multiplayer > Dedicated Servers](../topics/features/multiplayer/dedicated-servers.md)
 * [Features > Tiers > Tier 8](../topics/features/tiers/tier-8.md)
 * [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
 * [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)

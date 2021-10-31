@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "satisfactory-updates"
     - "satisfactory-updates/pending/satisfactory-1-0"
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [June 22nd, 2021 Livestream](../2021-06-22.md)
 ## Q&A: After the game fully releases will there be any Updates that add game-altering factory design?
@@ -16,7 +16,7 @@ This question was possibly duplicated with a more recent answer: [September 21st
 ### Topics
 * [Satisfactory Updates](../topics/satisfactory-updates.md)
 * [Satisfactory Updates > Pending > Satisfactory 1.0](../topics/satisfactory-updates/pending/satisfactory-1-0.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript
 

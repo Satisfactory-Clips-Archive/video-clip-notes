@@ -3,7 +3,7 @@ title: "August 31st, 2021 Livestream Q&A: Could we use the Dedicated Servers wit
 date: "2021-08-31"
 layout: transcript
 topics:
-    - "features/planned-features/dedicated-servers"
+    - "features/multiplayer/dedicated-servers"
     - "technology"
 ---
 # [August 31st, 2021 Livestream](../2021-08-31.md)
@@ -11,7 +11,7 @@ topics:
 https://www.youtube.com/watch?v=NaW1NBgb70I
 
 ### Topics
-* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+* [Features > Multiplayer > Dedicated Servers](../topics/features/multiplayer/dedicated-servers.md)
 * [Technology](../topics/technology.md)
 
 ### Transcript

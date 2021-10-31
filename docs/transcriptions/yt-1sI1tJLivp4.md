@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "features/buildables/conveyor-belts"
     - "features/planned-features/build-modes/hard-soft-clearance"
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [September 7th, 2021 Livestream](../2021-09-07.md)
 ## Q&A: Will Splitters & Mergers have Soft or Hard Clearance?
@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=1sI1tJLivp4
 ### Topics
 * [Features > Buildables > Conveyor Belts](../topics/features/buildables/conveyor-belts.md)
 * [Features > Planned Features > Build Modes > Hard & Soft Clearance](../topics/features/planned-features/build-modes/hard-soft-clearance.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript
 

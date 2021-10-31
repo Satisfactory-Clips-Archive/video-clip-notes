@@ -4,7 +4,7 @@ date: "2021-04-20"
 layout: transcript
 topics:
     - "environment/resources/sam-ore"
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [April 20th, 2021 Livestream](../2021-04-20.md)
 ## Q&A: Doing something with S.A.M. Ore next update?
@@ -14,7 +14,7 @@ This question was possibly duplicated with a more recent answer: [September 14th
 
 ### Topics
 * [Environment > Resources > S.A.M. Ore](../topics/environment/resources/sam-ore.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript
 

@@ -4,7 +4,7 @@ date: "2021-08-03"
 layout: transcript
 topics:
     - "features/requested-features/elevators"
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [August 3rd, 2021 Livestream](../2021-08-03.md)
 ## Q&A: Will there be passenger elevators in the game in Update 5?
@@ -14,7 +14,7 @@ This question was possibly duplicated with a more recent answer: [August 24th, 2
 
 ### Topics
 * [Features > Requested Features > Elevators](../topics/features/requested-features/elevators.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript
 

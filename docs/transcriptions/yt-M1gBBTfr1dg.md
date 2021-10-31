@@ -3,7 +3,7 @@ title: "May 11th, 2021 Livestream Snutt Talk: Golf upvotes status check (Part 2)
 date: "2021-05-11"
 layout: transcript
 topics:
-    - "features/requested-features/golf"
+    - "features/unplanned-features/golf"
 ---
 # [May 11th, 2021 Livestream](../2021-05-11.md)
 ## Snutt Talk: Golf upvotes status check (Part 2)
@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=M1gBBTfr1dg
 
 
 ### Topics
-* [Features > Requested Features > Golf](../topics/features/requested-features/golf.md)
+* [Features > Unplanned Features > Golf](../topics/features/unplanned-features/golf.md)
 
 ### Transcript
 

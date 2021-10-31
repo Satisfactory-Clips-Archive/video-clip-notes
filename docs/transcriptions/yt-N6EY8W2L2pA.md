@@ -3,14 +3,14 @@ title: "September 14th, 2021 Livestream Q&A: I'm curious about the lack of Dedic
 date: "2021-09-14"
 layout: transcript
 topics:
-    - "features/planned-features/dedicated-servers"
+    - "features/multiplayer/dedicated-servers"
 ---
 # [September 14th, 2021 Livestream](../2021-09-14.md)
 ## Q&A: I'm curious about the lack of Dedicated Servers?
 https://www.youtube.com/watch?v=N6EY8W2L2pA
 
 ### Topics
-* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+* [Features > Multiplayer > Dedicated Servers](../topics/features/multiplayer/dedicated-servers.md)
 
 ### Transcript
 

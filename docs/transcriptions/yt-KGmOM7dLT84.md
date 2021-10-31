@@ -4,7 +4,7 @@ date: "2020-10-06"
 layout: transcript
 topics:
     - "features/multiplayer"
-    - "features/planned-features/dedicated-servers"
+    - "features/multiplayer/dedicated-servers"
 ---
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Q&A: Have you looked into shit for Multiplayer/Dedicated Server stuff?
@@ -14,7 +14,7 @@ This question was possibly duplicated with a more recent answer: October 26th, 2
 
 ### Topics
 * [Features > Multiplayer](../topics/features/multiplayer.md)
-* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+* [Features > Multiplayer > Dedicated Servers](../topics/features/multiplayer/dedicated-servers.md)
 
 ### Transcript
 

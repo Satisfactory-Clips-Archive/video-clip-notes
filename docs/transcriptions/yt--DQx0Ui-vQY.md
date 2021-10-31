@@ -3,7 +3,7 @@ title: "June 22nd, 2021 Livestream State of Dev: State of Golf"
 date: "2021-06-22"
 layout: transcript
 topics:
-    - "features/requested-features/golf"
+    - "features/unplanned-features/golf"
     - "satisfactory-updates/state-of-dev"
 ---
 # [June 22nd, 2021 Livestream](../2021-06-22.md)
@@ -11,7 +11,7 @@ topics:
 https://www.youtube.com/watch?v=-DQx0Ui-vQY
 
 ### Topics
-* [Features > Requested Features > Golf](../topics/features/requested-features/golf.md)
+* [Features > Unplanned Features > Golf](../topics/features/unplanned-features/golf.md)
 * [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 
 ### Transcript

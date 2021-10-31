@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "features/planned-features/build-modes"
     - "features/planned-features/build-modes/hard-soft-clearance/complex-clearance"
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [October 15th, 2021 Video](../2021-10-15.md)
 ## Jace Talk: Hard & Soft Clearance, some Buildings now have Complex Clearance
@@ -14,7 +14,7 @@ https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=396&end=497
 ### Topics
 * [Features > Planned Features > Build Modes](../topics/features/planned-features/build-modes.md)
 * [Features > Planned Features > Build Modes > Hard & Soft Clearance > Complex Clearance](../topics/features/planned-features/build-modes/hard-soft-clearance/complex-clearance.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript
 

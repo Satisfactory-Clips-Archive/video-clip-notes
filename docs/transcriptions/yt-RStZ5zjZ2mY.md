@@ -4,7 +4,7 @@ date: "2021-09-28"
 layout: transcript
 topics:
     - "features/unplanned-features"
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [September 28th, 2021 Livestream](../2021-09-28.md)
 ## Q&A: Is there something in Update 5 that you previously said you wouldn't add to the game?
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=RStZ5zjZ2mY
 
 ### Topics
 * [Features > Unplanned Features](../topics/features/unplanned-features.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript
 

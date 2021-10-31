@@ -3,7 +3,7 @@ title: "April 20th, 2021 Livestream Q&A: When Dedicated Servers are available, w
 date: "2021-04-20"
 layout: transcript
 topics:
-    - "features/planned-features/dedicated-servers"
+    - "features/multiplayer/dedicated-servers"
     - "features/save-system"
 ---
 # [April 20th, 2021 Livestream](../2021-04-20.md)
@@ -11,7 +11,7 @@ topics:
 https://www.youtube.com/watch?v=_IXLS7G2Ef0
 
 ### Topics
-* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+* [Features > Multiplayer > Dedicated Servers](../topics/features/multiplayer/dedicated-servers.md)
 * [Features > Save System](../topics/features/save-system.md)
 
 ### Transcript

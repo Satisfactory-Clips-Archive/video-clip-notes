@@ -4,7 +4,7 @@ date: "2021-06-08"
 layout: transcript
 topics:
     - "coffee-stainers"
-    - "features/planned-features/dedicated-servers"
+    - "features/multiplayer/dedicated-servers"
     - "retail/steam-store/steam-release"
     - "satisfactory-updates/state-of-dev"
 ---
@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=uzSAawwW6EA
 
 ### Topics
 * [Coffee Stainers](../topics/coffee-stainers.md)
-* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+* [Features > Multiplayer > Dedicated Servers](../topics/features/multiplayer/dedicated-servers.md)
 * [Retail > Steam Store > Steam Release](../topics/retail/steam-store/steam-release.md)
 * [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 

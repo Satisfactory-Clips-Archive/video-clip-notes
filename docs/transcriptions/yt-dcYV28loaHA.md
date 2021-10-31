@@ -3,7 +3,7 @@ title: "August 31st, 2021 Livestream State of Dev: Golf"
 date: "2021-08-31"
 layout: transcript
 topics:
-    - "features/requested-features/golf"
+    - "features/unplanned-features/golf"
     - "satisfactory-updates/state-of-dev"
 ---
 # [August 31st, 2021 Livestream](../2021-08-31.md)
@@ -11,7 +11,7 @@ topics:
 https://www.youtube.com/watch?v=dcYV28loaHA
 
 ### Topics
-* [Features > Requested Features > Golf](../topics/features/requested-features/golf.md)
+* [Features > Unplanned Features > Golf](../topics/features/unplanned-features/golf.md)
 * [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 
 ### Transcript

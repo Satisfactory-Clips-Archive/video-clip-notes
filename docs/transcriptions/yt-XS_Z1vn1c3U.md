@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "coffee-stainers/hannah"
     - "environment/plants"
-    - "satisfactory-updates/pending/satisfactory-update-5/save-the-willows"
+    - "satisfactory-updates/released/satisfactory-update-5/save-the-willows"
 ---
 # [September 28th, 2021 Livestream](../2021-09-28.md)
 ## Q&A: What plants is Hannah going to remove from the game next?
@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=XS_Z1vn1c3U
 ### Topics
 * [Coffee Stainers > Hannah](../topics/coffee-stainers/hannah.md)
 * [Environment > Plants](../topics/environment/plants.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 5 > #SaveTheWillows](../topics/satisfactory-updates/pending/satisfactory-update-5/save-the-willows.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5 > #SaveTheWillows](../topics/satisfactory-updates/released/satisfactory-update-5/save-the-willows.md)
 
 ### Transcript
 

@@ -3,7 +3,7 @@ title: "March 15th, 2019 Q&A Q&A: Please, please, please make a Linux based dedi
 date: "2019-03-15"
 layout: transcript
 topics:
-    - "features/planned-features/dedicated-servers"
+    - "features/multiplayer/dedicated-servers"
 ---
 # [March 15th, 2019 Q&A](../2019-03-15.md)
 ## Q&A: Please, please, please make a Linux based dedicated server that can run headless.
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: [October 5th, 2
 
 
 ### Topics
-* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+* [Features > Multiplayer > Dedicated Servers](../topics/features/multiplayer/dedicated-servers.md)
 
 ### Transcript
 

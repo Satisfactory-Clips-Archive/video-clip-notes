@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "features/planned-features/build-modes"
     - "features/planned-features/build-modes/hard-soft-clearance"
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [October 5th, 2021 Livestream](../2021-10-05.md)
 ## Q&A: Will we have more freedom in how to place objects?
@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=Hh6MzKZ1lzE
 ### Topics
 * [Features > Planned Features > Build Modes](../topics/features/planned-features/build-modes.md)
 * [Features > Planned Features > Build Modes > Hard & Soft Clearance](../topics/features/planned-features/build-modes/hard-soft-clearance.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript
 

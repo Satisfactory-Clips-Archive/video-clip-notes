@@ -7,8 +7,8 @@ topics:
     - "features/buildables/foundations"
     - "features/buildables/jump-pads"
     - "features/power-management/power-switch"
-    - "features/requested-features/golf"
     - "features/transportation/vehicles/factory-cart"
+    - "features/unplanned-features/golf"
 ---
 # [May 4th, 2021 Livestream](../2021-05-04.md)
 ## Community FYI: Golf in Satisfactory exists, screenshot proof in QA post
@@ -19,8 +19,8 @@ https://www.youtube.com/watch?v=YFdrWgy8xEk
 * [Features > Buildables > Foundations](../topics/features/buildables/foundations.md)
 * [Features > Buildables > Jump Pads](../topics/features/buildables/jump-pads.md)
 * [Features > Power Management > Power Switch](../topics/features/power-management/power-switch.md)
-* [Features > Requested Features > Golf](../topics/features/requested-features/golf.md)
 * [Features > Transportation > Vehicles > Factory Cart](../topics/features/transportation/vehicles/factory-cart.md)
+* [Features > Unplanned Features > Golf](../topics/features/unplanned-features/golf.md)
 
 ### Transcript
 

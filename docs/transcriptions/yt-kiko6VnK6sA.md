@@ -3,7 +3,7 @@ title: "September 29th, 2020 Livestream Q&A: Any update for Hosted/Dedicated Ser
 date: "2020-09-29"
 layout: transcript
 topics:
-    - "features/planned-features/dedicated-servers"
+    - "features/multiplayer/dedicated-servers"
 ---
 # [September 29th, 2020 Livestream](../2020-09-29.md)
 ## Q&A: Any update for Hosted/Dedicated Servers?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: October 26th, 2
 
 
 ### Topics
-* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+* [Features > Multiplayer > Dedicated Servers](../topics/features/multiplayer/dedicated-servers.md)
 
 ### Transcript
 

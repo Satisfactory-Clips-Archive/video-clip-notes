@@ -3,7 +3,7 @@ title: "September 14th, 2021 Livestream Q&A: If and when Dedicated Servers go li
 date: "2021-09-14"
 layout: transcript
 topics:
-    - "features/planned-features/dedicated-servers"
+    - "features/multiplayer/dedicated-servers"
     - "features/power-management/nuclear-energy"
     - "features/power-management/nuclear-energy/nuclear-refinement"
     - "features/power-management/nuclear-energy/nuclear-waste"
@@ -13,7 +13,7 @@ topics:
 https://www.youtube.com/watch?v=g4VNWQOeiyw
 
 ### Topics
-* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+* [Features > Multiplayer > Dedicated Servers](../topics/features/multiplayer/dedicated-servers.md)
 * [Features > Power Management > Nuclear Energy](../topics/features/power-management/nuclear-energy.md)
 * [Features > Power Management > Nuclear Energy > Nuclear Refinement](../topics/features/power-management/nuclear-energy/nuclear-refinement.md)
 * [Features > Power Management > Nuclear Energy > Nuclear Waste](../topics/features/power-management/nuclear-energy/nuclear-waste.md)

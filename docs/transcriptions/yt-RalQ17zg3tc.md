@@ -6,7 +6,7 @@ topics:
     - "features/crafting/fuel"
     - "features/transportation/vehicles"
     - "features/transportation/vehicles/autopilot"
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [September 21st, 2021 Livestream](../2021-09-21.md)
 ## Q&A: What happens if an automated Vehicle runs out of Fuel?
@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=RalQ17zg3tc
 * [Features > Crafting > Fuel](../topics/features/crafting/fuel.md)
 * [Features > Transportation > Vehicles](../topics/features/transportation/vehicles.md)
 * [Features > Transportation > Vehicles > Autopilot](../topics/features/transportation/vehicles/autopilot.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript
 

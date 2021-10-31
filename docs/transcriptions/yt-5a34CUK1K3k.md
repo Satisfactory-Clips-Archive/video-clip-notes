@@ -3,7 +3,7 @@ title: "January 22nd, 2020 Livestream Q&A: Linux support for Dedicated Servers?"
 date: "2020-01-22"
 layout: transcript
 topics:
-    - "features/planned-features/dedicated-servers"
+    - "features/multiplayer/dedicated-servers"
     - "satisfactory-updates/release-builds"
     - "technology/linux"
 ---
@@ -14,7 +14,7 @@ This question was possibly duplicated with a more recent answer: [February 9th, 
 
 
 ### Topics
-* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+* [Features > Multiplayer > Dedicated Servers](../topics/features/multiplayer/dedicated-servers.md)
 * [Satisfactory Updates > Release Builds](../topics/satisfactory-updates/release-builds.md)
 * [Technology > Linux](../topics/technology/linux.md)
 

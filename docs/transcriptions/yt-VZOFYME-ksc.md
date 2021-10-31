@@ -4,7 +4,7 @@ date: "2021-09-28"
 layout: transcript
 topics:
     - "features/buildings"
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [September 28th, 2021 Livestream](../2021-09-28.md)
 ## Q&A: In Update 5 will you add new machines?
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=VZOFYME-ksc
 
 ### Topics
 * [Features > Buildings](../topics/features/buildings.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript
 

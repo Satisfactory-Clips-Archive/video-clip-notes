@@ -4,7 +4,7 @@ date: "2021-10-05"
 layout: transcript
 topics:
     - "features/multiplayer"
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [October 5th, 2021 Livestream](../2021-10-05.md)
 ## Q&A: New fixes for Multiplayer gameplay?
@@ -38,7 +38,7 @@ https://www.youtube.com/watch?v=YExHZSA1bH4
 
 ### Topics
 * [Features > Multiplayer](../topics/features/multiplayer.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript
 

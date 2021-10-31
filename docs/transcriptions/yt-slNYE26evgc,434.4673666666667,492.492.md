@@ -3,7 +3,7 @@ title: "June 18th, 2021 - Jace Talk: Dedicated Servers"
 date: "2021-06-18"
 layout: transcript
 topics:
-    - "features/planned-features/dedicated-servers"
+    - "features/multiplayer/dedicated-servers"
     - "coffee-stainers"
     - "features/multiplayer"
 ---
@@ -11,7 +11,7 @@ topics:
 ## Jace Talk: Dedicated Servers
 https://youtube.com/embed/slNYE26evgc?autoplay=1&start=434&end=493
 ### Topics
-* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+* [Features > Multiplayer > Dedicated Servers](../topics/features/multiplayer/dedicated-servers.md)
 * [Coffee Stainers](../topics/coffee-stainers.md)
 * [Features > Multiplayer](../topics/features/multiplayer.md)
 

@@ -4,7 +4,7 @@ date: "2021-06-08"
 layout: transcript
 topics:
     - "localisation"
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [June 8th, 2021 Livestream](../2021-06-08.md)
 ## Snutt Talk: No more bug fixes until Update 5
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=hdbFUc78Srk
 
 ### Topics
 * [Localisation](../topics/localisation.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript
 

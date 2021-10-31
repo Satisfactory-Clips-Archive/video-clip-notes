@@ -3,14 +3,14 @@ title: "December 8th, 2020 Livestream Q&A: How much configuration will we be abl
 date: "2020-12-08"
 layout: transcript
 topics:
-    - "features/planned-features/dedicated-servers"
+    - "features/multiplayer/dedicated-servers"
 ---
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Q&A: How much configuration will we be able to do with Dedicated Servers?
 https://www.youtube.com/watch?v=Dj2hOG7UjVA
 
 ### Topics
-* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+* [Features > Multiplayer > Dedicated Servers](../topics/features/multiplayer/dedicated-servers.md)
 
 ### Transcript
 

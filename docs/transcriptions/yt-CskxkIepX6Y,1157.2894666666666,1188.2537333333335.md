@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "community"
     - "features/transportation/trains/train-signals"
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
     - "satisfactory-updates/teasers-trailers/update-5-teasers"
 ---
 # [October 8th, 2021 Video](../2021-10-08.md)
@@ -15,7 +15,7 @@ https://youtube.com/clip/Ugkx-aOuyaZrZ8R980wzgxZVK9ToRF4s_yVp
 ### Topics
 * [Community](../topics/community.md)
 * [Features > Transportation > Trains > Train Signals](../topics/features/transportation/trains/train-signals.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 * [Satisfactory Updates > Teasers & Trailers > Update 5 Teasers](../topics/satisfactory-updates/teasers-trailers/update-5-teasers.md)
 
 ### Transcript

@@ -3,14 +3,14 @@ title: "August 3rd, 2021 Livestream Jace Talk: People asking about \"Are there g
 date: "2021-08-03"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [August 3rd, 2021 Livestream](../2021-08-03.md)
 ## Jace Talk: People asking about "Are there going be a lot of these new things in Update 5?"
 https://www.youtube.com/watch?v=eYx_EfkpWms
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript
 

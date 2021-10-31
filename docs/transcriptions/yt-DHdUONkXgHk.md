@@ -4,7 +4,7 @@ date: "2021-10-12"
 layout: transcript
 topics:
     - "features/tiers/tier-9"
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [October 12th, 2021 Livestream](../2021-10-12.md)
 ## Q&A: Will there be Tier 9?
@@ -20,7 +20,7 @@ https://www.youtube.com/watch?v=DHdUONkXgHk
 
 ### Topics
 * [Features > Tiers > Tier 9](../topics/features/tiers/tier-9.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript
 

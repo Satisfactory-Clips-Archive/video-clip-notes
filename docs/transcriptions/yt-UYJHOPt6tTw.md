@@ -4,7 +4,7 @@ date: "2020-09-08"
 layout: transcript
 topics:
     - "features/buildings"
-    - "features/planned-features/dedicated-servers"
+    - "features/multiplayer/dedicated-servers"
 ---
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Will Factories continue to run when players are logged into a Dedicated Server?
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=UYJHOPt6tTw
 
 ### Topics
 * [Features > Buildings](../topics/features/buildings.md)
-* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+* [Features > Multiplayer > Dedicated Servers](../topics/features/multiplayer/dedicated-servers.md)
 
 ### Transcript
 

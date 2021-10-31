@@ -5,8 +5,8 @@ layout: transcript
 topics:
     - "coffee-stainers/sofi"
     - "concept-art"
-    - "satisfactory-updates/pending/satisfactory-update-5"
     - "satisfactory-updates/released/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [June 22nd, 2021 Livestream](../2021-06-22.md)
 ## Torsten Talk: Update 5 Concept Art
@@ -15,8 +15,8 @@ https://www.youtube.com/watch?v=Jb_V7r_cnc0
 ### Topics
 * [Coffee Stainers > Sofi](../topics/coffee-stainers/sofi.md)
 * [Concept Art](../topics/concept-art.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
 * [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript
 

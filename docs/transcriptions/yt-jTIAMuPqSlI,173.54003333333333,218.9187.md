@@ -6,7 +6,7 @@ topics:
     - "features/buildables/walkways"
     - "features/buildings"
     - "features/planned-features/build-modes"
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [October 15th, 2021 Video](../2021-10-15.md)
 ## Jace Talk: Snap walkways to Buildings
@@ -16,7 +16,7 @@ https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=173&end=219
 * [Features > Buildables > Walkways](../topics/features/buildables/walkways.md)
 * [Features > Buildings](../topics/features/buildings.md)
 * [Features > Planned Features > Build Modes](../topics/features/planned-features/build-modes.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript
 

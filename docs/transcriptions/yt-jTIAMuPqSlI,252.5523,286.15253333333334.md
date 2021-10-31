@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "features/buildables/foundations"
     - "features/planned-features/build-modes"
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [October 15th, 2021 Video](../2021-10-15.md)
 ## Jace Talk: Additional Rotations for Foundatings that are Snapping
@@ -14,7 +14,7 @@ https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=252&end=287
 ### Topics
 * [Features > Buildables > Foundations](../topics/features/buildables/foundations.md)
 * [Features > Planned Features > Build Modes](../topics/features/planned-features/build-modes.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript
 

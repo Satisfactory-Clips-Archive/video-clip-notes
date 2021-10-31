@@ -3,7 +3,7 @@ title: "June 18th, 2021 - Jace Talk: Build Modes in Update 5"
 date: "2021-06-18"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
     - "features/buildables/foundations/cheatcrete"
     - "features/planned-features/build-modes"
 ---
@@ -11,7 +11,7 @@ topics:
 ## Jace Talk: Build Modes in Update 5
 https://youtube.com/embed/slNYE26evgc?autoplay=1&start=131&end=201
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 * [Features > Buildables > Foundations > Cheatcrete](../topics/features/buildables/foundations/cheatcrete.md)
 * [Features > Planned Features > Build Modes](../topics/features/planned-features/build-modes.md)
 

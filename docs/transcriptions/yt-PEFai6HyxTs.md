@@ -3,7 +3,7 @@ title: "September 8th, 2020 Livestream Jace & Snutt Talk: Update 4 & Dedicated S
 date: "2020-09-08"
 layout: transcript
 topics:
-    - "features/planned-features/dedicated-servers"
+    - "features/multiplayer/dedicated-servers"
     - "satisfactory-updates/released/satisfactory-update-4"
 ---
 # [September 8th, 2020 Livestream](../2020-09-08.md)
@@ -11,7 +11,7 @@ topics:
 https://www.youtube.com/watch?v=PEFai6HyxTs
 
 ### Topics
-* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+* [Features > Multiplayer > Dedicated Servers](../topics/features/multiplayer/dedicated-servers.md)
 * [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 
 ### Transcript

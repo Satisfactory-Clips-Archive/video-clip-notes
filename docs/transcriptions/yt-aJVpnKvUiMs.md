@@ -3,7 +3,7 @@ title: "June 8th, 2021 Livestream Q&A: State of Golf?"
 date: "2021-06-08"
 layout: transcript
 topics:
-    - "features/requested-features/golf"
+    - "features/unplanned-features/golf"
 ---
 # [June 8th, 2021 Livestream](../2021-06-08.md)
 ## Q&A: State of Golf?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: [October 19th, 
 
 
 ### Topics
-* [Features > Requested Features > Golf](../topics/features/requested-features/golf.md)
+* [Features > Unplanned Features > Golf](../topics/features/unplanned-features/golf.md)
 
 ### Transcript
 

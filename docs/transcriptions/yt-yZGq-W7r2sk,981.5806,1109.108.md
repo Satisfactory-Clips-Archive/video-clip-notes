@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "features/buildings/particle-accelerator"
     - "features/planned-features/build-modes/hard-soft-clearance"
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [September 3rd, 2021 Dev Vlog](../2021-09-03.md)
 ## Jace Talk: Hard & Soft Clearance demonstration
@@ -14,7 +14,7 @@ https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=981&end=1110
 ### Topics
 * [Features > Buildings > Particle Accelerator](../topics/features/buildings/particle-accelerator.md)
 * [Features > Planned Features > Build Modes > Hard & Soft Clearance](../topics/features/planned-features/build-modes/hard-soft-clearance.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript
 

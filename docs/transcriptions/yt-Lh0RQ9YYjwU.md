@@ -3,14 +3,14 @@ title: "July 20th, 2021 Livestream Community FYI: 666 for Golf"
 date: "2021-07-20"
 layout: transcript
 topics:
-    - "features/requested-features/golf"
+    - "features/unplanned-features/golf"
 ---
 # [July 20th, 2021 Livestream](../2021-07-20.md)
 ## Community FYI: 666 for Golf
 https://www.youtube.com/watch?v=Lh0RQ9YYjwU
 
 ### Topics
-* [Features > Requested Features > Golf](../topics/features/requested-features/golf.md)
+* [Features > Unplanned Features > Golf](../topics/features/unplanned-features/golf.md)
 
 ### Transcript
 

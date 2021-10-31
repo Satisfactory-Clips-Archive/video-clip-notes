@@ -4,7 +4,7 @@ date: "2021-06-08"
 layout: transcript
 topics:
     - "coffee-stainers/hannah"
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [June 8th, 2021 Livestream](../2021-06-08.md)
 ## Q&A: Can we have Hannah on stream to explain upcoming changes?
@@ -14,7 +14,7 @@ This question was possibly duplicated with a more recent answer: [June 29th, 202
 
 ### Topics
 * [Coffee Stainers > Hannah](../topics/coffee-stainers/hannah.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript
 

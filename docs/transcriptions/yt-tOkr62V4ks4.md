@@ -4,7 +4,7 @@ date: "2021-09-07"
 layout: transcript
 topics:
     - "features/planned-features/build-modes/zooping"
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [September 7th, 2021 Livestream](../2021-09-07.md)
 ## Q&A: What can be Zooped?
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=tOkr62V4ks4
 
 ### Topics
 * [Features > Planned Features > Build Modes > Zooping](../topics/features/planned-features/build-modes/zooping.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript
 

@@ -4,7 +4,7 @@ date: "2021-07-20"
 layout: transcript
 topics:
     - "coffee-stainers/jace/jace-art"
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [July 20th, 2021 Livestream](../2021-07-20.md)
 ## Q&A: Any plans to do another Jace Art stream specifically for Update 5 leaks?
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=0-fYDPO17Q4
 
 ### Topics
 * [Coffee Stainers > Jace > Jace Art](../topics/coffee-stainers/jace/jace-art.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript
 

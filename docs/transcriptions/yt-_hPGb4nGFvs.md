@@ -4,7 +4,7 @@ date: "2020-01-22"
 layout: transcript
 topics:
     - "features/multiplayer"
-    - "features/planned-features/dedicated-servers"
+    - "features/multiplayer/dedicated-servers"
 ---
 # [January 22nd, 2020 Livestream](../2020-01-22.md)
 ## Q&A: Will Dedicated Servers improve performance for everyone?
@@ -14,7 +14,7 @@ This question was possibly duplicated with a more recent answer: [February 11th,
 
 ### Topics
 * [Features > Multiplayer](../topics/features/multiplayer.md)
-* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+* [Features > Multiplayer > Dedicated Servers](../topics/features/multiplayer/dedicated-servers.md)
 
 ### Transcript
 

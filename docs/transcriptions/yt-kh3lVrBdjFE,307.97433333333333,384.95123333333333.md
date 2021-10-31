@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "features/crafting/fuel"
     - "features/transportation/vehicles"
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [September 10th, 2021 Video](../2021-09-10.md)
 ## Jace Talk: Vehicles & Fuel usage
@@ -14,7 +14,7 @@ https://youtube.com/embed/kh3lVrBdjFE?autoplay=1&start=307&end=385
 ### Topics
 * [Features > Crafting > Fuel](../topics/features/crafting/fuel.md)
 * [Features > Transportation > Vehicles](../topics/features/transportation/vehicles.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript
 

@@ -4,7 +4,7 @@ date: "2021-08-10"
 layout: transcript
 topics:
     - "community/community-highlights"
-    - "features/requested-features/golf"
+    - "features/unplanned-features/golf"
 ---
 # [August 10th, 2021 Livestream](../2021-08-10.md)
 ## Jace Talk: Golf (Part 5)
@@ -23,7 +23,7 @@ https://www.youtube.com/watch?v=1YsAHChZmrs
 
 ### Topics
 * [Community > Community Highlights](../topics/community/community-highlights.md)
-* [Features > Requested Features > Golf](../topics/features/requested-features/golf.md)
+* [Features > Unplanned Features > Golf](../topics/features/unplanned-features/golf.md)
 
 ### Transcript
 

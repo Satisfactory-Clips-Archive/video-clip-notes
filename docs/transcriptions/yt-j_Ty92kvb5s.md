@@ -3,14 +3,14 @@ title: "June 29th, 2021 Livestream Community FYI: Needs more Feature Creep"
 date: "2021-06-29"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [June 29th, 2021 Livestream](../2021-06-29.md)
 ## Community FYI: Needs more Feature Creep
 https://www.youtube.com/watch?v=j_Ty92kvb5s
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript
 

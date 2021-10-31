@@ -6,8 +6,8 @@ topics:
     - "coffee-stainers"
     - "coffee-stainers/jace"
     - "features/buildables/foundations/cheatcrete"
-    - "satisfactory-updates/pending/satisfactory-update-5"
     - "satisfactory-updates/released/satisfactory-update-4"
+    - "satisfactory-updates/released/satisfactory-update-5"
     - "satisfactory-updates/state-of-dev"
     - "technology/user-interface"
 ---
@@ -19,8 +19,8 @@ https://www.youtube.com/watch?v=rz0oD16hpGw
 * [Coffee Stainers](../topics/coffee-stainers.md)
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
 * [Features > Buildables > Foundations > Cheatcrete](../topics/features/buildables/foundations/cheatcrete.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
 * [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 * [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 * [Technology > User Interface](../topics/technology/user-interface.md)
 

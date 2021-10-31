@@ -4,7 +4,7 @@ date: "2021-05-18"
 layout: transcript
 topics:
     - "coffee-stainers"
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
     - "satisfactory-updates/state-of-dev"
 ---
 # [May 18th, 2021 Livestream](../2021-05-18.md)
@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=2kaP1jPZOL4
 
 ### Topics
 * [Coffee Stainers](../topics/coffee-stainers.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 * [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 
 ### Transcript

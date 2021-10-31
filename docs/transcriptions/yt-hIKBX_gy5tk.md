@@ -3,14 +3,14 @@ title: "June 29th, 2021 Livestream Q&A: Will we have to rebuild parts of our fac
 date: "2021-06-29"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [June 29th, 2021 Livestream](../2021-06-29.md)
 ## Q&A: Will we have to rebuild parts of our factory for Update 5 like we did back with Update 3?
 https://www.youtube.com/watch?v=hIKBX_gy5tk
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript
 

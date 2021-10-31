@@ -4,7 +4,7 @@ date: "2021-04-27"
 layout: transcript
 topics:
     - "features/planned-features/signs"
-    - "features/requested-features/golf"
+    - "features/unplanned-features/golf"
     - "qa-site"
 ---
 # [April 27th, 2021 Livestream](../2021-04-27.md)
@@ -15,7 +15,7 @@ This question was possibly duplicated with a more recent answer: [October 19th, 
 
 ### Topics
 * [Features > Planned Features > Signs](../topics/features/planned-features/signs.md)
-* [Features > Requested Features > Golf](../topics/features/requested-features/golf.md)
+* [Features > Unplanned Features > Golf](../topics/features/unplanned-features/golf.md)
 * [QA Site](../topics/qa-site.md)
 
 ### Transcript

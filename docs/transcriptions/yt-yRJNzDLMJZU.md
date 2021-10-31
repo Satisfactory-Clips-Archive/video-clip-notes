@@ -3,7 +3,7 @@ title: "September 15th, 2020 Livestream Snutt Talk: Dedicated Servers"
 date: "2020-09-15"
 layout: transcript
 topics:
-    - "features/planned-features/dedicated-servers"
+    - "features/multiplayer/dedicated-servers"
     - "retail/steam-store/steam-release"
     - "technology/linux"
 ---
@@ -12,7 +12,7 @@ topics:
 https://www.youtube.com/watch?v=yRJNzDLMJZU
 
 ### Topics
-* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+* [Features > Multiplayer > Dedicated Servers](../topics/features/multiplayer/dedicated-servers.md)
 * [Retail > Steam Store > Steam Release](../topics/retail/steam-store/steam-release.md)
 * [Technology > Linux](../topics/technology/linux.md)
 

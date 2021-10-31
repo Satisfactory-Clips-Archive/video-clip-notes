@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "features/buildings"
     - "features/crafting/fuel"
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [September 14th, 2021 Livestream](../2021-09-14.md)
 ## Q&A: Do the calculations incorporate different types of Fuel?
@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=z7pTOfVjY6E
 ### Topics
 * [Features > Buildings](../topics/features/buildings.md)
 * [Features > Crafting > Fuel](../topics/features/crafting/fuel.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript
 

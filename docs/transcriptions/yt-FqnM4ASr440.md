@@ -4,7 +4,7 @@ date: "2021-06-15"
 layout: transcript
 topics:
     - "coffee-stainers/ben"
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [June 15th, 2021 Livestream](../2021-06-15.md)
 ## Q&A: Will Ben's water system be included?
@@ -14,7 +14,7 @@ This question was possibly duplicated with a more recent answer: [June 22nd, 202
 
 ### Topics
 * [Coffee Stainers > Ben](../topics/coffee-stainers/ben.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript
 

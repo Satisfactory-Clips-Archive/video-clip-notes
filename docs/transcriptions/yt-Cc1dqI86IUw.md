@@ -4,7 +4,7 @@ date: "2021-05-18"
 layout: transcript
 topics:
     - "features/possible-features/dlc"
-    - "features/requested-features/golf"
+    - "features/unplanned-features/golf"
 ---
 # [May 18th, 2021 Livestream](../2021-05-18.md)
 ## Snutt & Jace Talk: Golf with your Factory
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=Cc1dqI86IUw
 
 ### Topics
 * [Features > Possible Features > DLC](../topics/features/possible-features/dlc.md)
-* [Features > Requested Features > Golf](../topics/features/requested-features/golf.md)
+* [Features > Unplanned Features > Golf](../topics/features/unplanned-features/golf.md)
 
 ### Transcript
 

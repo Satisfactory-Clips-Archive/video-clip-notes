@@ -3,7 +3,7 @@ title: "August 6th, 2021 Video Q&A: Can we get a map to see what's been worked o
 date: "2021-08-06"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
     - "satisfactory-updates/world-update"
 ---
 # [August 6th, 2021 Video](../2021-08-06.md)
@@ -11,7 +11,7 @@ topics:
 https://youtube.com/clip/Ugxc2QWKgGz3eJShU2N4AaABCQ
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 * [Satisfactory Updates > World Update](../topics/satisfactory-updates/world-update.md)
 
 ### Transcript

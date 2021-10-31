@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "easter-eggs"
     - "satisfactory-updates"
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [October 12th, 2021 Livestream](../2021-10-12.md)
 ## Q&A: There's always been secrets in Updates, will there be secrets in Update 5?
@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=R8AbNs9YNSI
 ### Topics
 * [Easter Eggs](../topics/easter-eggs.md)
 * [Satisfactory Updates](../topics/satisfactory-updates.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript
 

@@ -3,14 +3,14 @@ title: "October 19th, 2021 Livestream Q&A: State of Golf? (Part 2)"
 date: "2021-10-19"
 layout: transcript
 topics:
-    - "features/requested-features/golf"
+    - "features/unplanned-features/golf"
 ---
 # [October 19th, 2021 Livestream](../2021-10-19.md)
 ## Q&A: State of Golf? (Part 2)
 https://www.youtube.com/watch?v=nmaz0pMi3UY
 
 ### Topics
-* [Features > Requested Features > Golf](../topics/features/requested-features/golf.md)
+* [Features > Unplanned Features > Golf](../topics/features/unplanned-features/golf.md)
 
 ### Transcript
 

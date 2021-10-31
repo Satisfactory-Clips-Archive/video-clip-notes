@@ -3,9 +3,9 @@ title: "May 25th, 2021 Livestream Q&A: What's the status of Golf on the QA Site?
 date: "2021-05-25"
 layout: transcript
 topics:
-    - "features/planned-features/dedicated-servers"
+    - "features/multiplayer/dedicated-servers"
     - "features/planned-features/signs"
-    - "features/requested-features/golf"
+    - "features/unplanned-features/golf"
     - "qa-site"
     - "trolling"
 ---
@@ -16,9 +16,9 @@ This question was possibly duplicated with a more recent answer: [October 19th, 
 
 
 ### Topics
-* [Features > Planned Features > Dedicated Servers](../topics/features/planned-features/dedicated-servers.md)
+* [Features > Multiplayer > Dedicated Servers](../topics/features/multiplayer/dedicated-servers.md)
 * [Features > Planned Features > Signs](../topics/features/planned-features/signs.md)
-* [Features > Requested Features > Golf](../topics/features/requested-features/golf.md)
+* [Features > Unplanned Features > Golf](../topics/features/unplanned-features/golf.md)
 * [QA Site](../topics/qa-site.md)
 * [Trolling](../topics/trolling.md)
 

@@ -6,7 +6,7 @@ topics:
     - "features/buildings"
     - "features/transportation/vehicles/autopilot"
     - "features/transportation/vehicles/truck"
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [October 12th, 2021 Livestream](../2021-10-12.md)
 ## Q&A: Will Trucks queue up behind a station if another Truck is there?
@@ -18,7 +18,7 @@ This question was possibly duplicated with a more recent answer: October 26th, 2
 * [Features > Buildings](../topics/features/buildings.md)
 * [Features > Transportation > Vehicles > Autopilot](../topics/features/transportation/vehicles/autopilot.md)
 * [Features > Transportation > Vehicles > Truck](../topics/features/transportation/vehicles/truck.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript
 

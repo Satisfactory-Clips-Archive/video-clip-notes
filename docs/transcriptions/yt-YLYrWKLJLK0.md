@@ -3,7 +3,7 @@ title: "June 15th, 2021 Livestream Q&A: With Update 5 coming this fall, will we 
 date: "2021-06-15"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [June 15th, 2021 Livestream](../2021-06-15.md)
 ## Q&A: With Update 5 coming this fall, will we get a mid-update patch like with the Fluids Update?
@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=YLYrWKLJLK0
 
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 5](../topics/satisfactory-updates/pending/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript
 
