@@ -109,7 +109,7 @@ date: Last Modified
 * [Snutt Talk: Revealing Update 3 when the countdown hits zero](../../../transcriptions/yt-9m7is-TbgQA.md) [https://www.youtube.com/watch?v=9m7is-TbgQA](https://www.youtube.com/watch?v=9m7is-TbgQA)
 * [Jace Talk: Update 3 launches on Experimental](../../../transcriptions/yt-Ljnrgop-8mo.md) [https://www.youtube.com/watch?v=Ljnrgop-8mo](https://www.youtube.com/watch?v=Ljnrgop-8mo)
 * [Q&A: Did you crunch for Update 3?](../../../transcriptions/yt-BwJG6ZHR7Io.md) [https://www.youtube.com/watch?v=BwJG6ZHR7Io](https://www.youtube.com/watch?v=BwJG6ZHR7Io)
-* [Snutt & Jace Talk: What's the mood like in the Studio right now?](../../../transcriptions/yt-ZfUik8FwH2Y.md) [https://www.youtube.com/watch?v=ZfUik8FwH2Y](https://www.youtube.com/watch?v=ZfUik8FwH2Y)
+* [Q&A: What's the mood like in the Studio right now?](../../../transcriptions/yt-ZfUik8FwH2Y.md) [https://www.youtube.com/watch?v=ZfUik8FwH2Y](https://www.youtube.com/watch?v=ZfUik8FwH2Y)
 * [Jace Talk: We're having some fun before Update 3 releases](../../../transcriptions/yt-Vggm0YmGP84.md) [https://www.youtube.com/watch?v=Vggm0YmGP84](https://www.youtube.com/watch?v=Vggm0YmGP84)
 * [Q&A: How big is the Update?](../../../transcriptions/yt-bzYuFehrxT0.md) [https://www.youtube.com/watch?v=bzYuFehrxT0](https://www.youtube.com/watch?v=bzYuFehrxT0)
 * [Q&A: Is there a reason why you hate Pipes?](../../../transcriptions/yt-OsetK7Ww2zI.md) [https://www.youtube.com/watch?v=OsetK7Ww2zI](https://www.youtube.com/watch?v=OsetK7Ww2zI)

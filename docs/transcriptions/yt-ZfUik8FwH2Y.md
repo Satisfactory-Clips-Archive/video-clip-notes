@@ -1,5 +1,5 @@
 ---
-title: "February 11th, 2020 Livestream Snutt & Jace Talk: What's the mood like in the Studio right now?"
+title: "February 11th, 2020 Livestream Q&A: What's the mood like in the Studio right now?"
 date: "2020-02-11"
 layout: transcript
 topics:
@@ -8,7 +8,7 @@ topics:
     - "satisfactory-updates/released/satisfactory-update-3"
 ---
 # [February 11th, 2020 Livestream](../2020-02-11.md)
-## Snutt & Jace Talk: What's the mood like in the Studio right now?
+## Q&A: What's the mood like in the Studio right now?
 https://www.youtube.com/watch?v=ZfUik8FwH2Y
 
 ### Topics

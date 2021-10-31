@@ -3,7 +3,8 @@ title: "December 19th, 2019 Livestream Q&A: How much Swedish do you need to know
 date: "2019-12-19"
 layout: transcript
 topics:
-    - ""
+    - "embracer-group/coffee-stain-holding/coffee-stain-studios"
+    - "off-topic/sweden"
 ---
 # [December 19th, 2019 Livestream](../2019-12-19.md)
 ## Q&A: How much Swedish do you need to know to work at a Swedish company?
@@ -12,7 +13,8 @@ This question was possibly duplicated with a more recent answer: October 26th, 2
 
 
 ### Topics
-
+* [Embracer Group > Coffee Stain Holding > Coffee Stain Studios](../topics/embracer-group/coffee-stain-holding/coffee-stain-studios.md)
+* [Off-Topic > Sweden](../topics/off-topic/sweden.md)
 
 ### Transcript
 

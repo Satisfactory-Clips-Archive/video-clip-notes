@@ -131,6 +131,7 @@ date: Last Modified
 * [Q&A: Will the Update work with old worlds?](../../../transcriptions/yt-bsn3QpMW06Q.md) [https://www.youtube.com/watch?v=bsn3QpMW06Q](https://www.youtube.com/watch?v=bsn3QpMW06Q)
 * [Q&A: Any quality-of-life stuff for platform placing or fluids?](../../../transcriptions/yt-zCdLPoPjIBY.md) [https://www.youtube.com/watch?v=zCdLPoPjIBY](https://www.youtube.com/watch?v=zCdLPoPjIBY)
 * [Snutt Talk: Updates before 1.0](../../../transcriptions/yt-HVQ_cR5Y8pc.md) [https://www.youtube.com/watch?v=HVQ_cR5Y8pc](https://www.youtube.com/watch?v=HVQ_cR5Y8pc)
+* [Q&A: What item that you can talk about are you most looking forward to?](../../../transcriptions/yt-utwPssAgiqs.md) [https://www.youtube.com/watch?v=utwPssAgiqs](https://www.youtube.com/watch?v=utwPssAgiqs)
 * [Q&A: Did we release any information on what's expected next update?](../../../transcriptions/yt-IzylVFY2kIg.md) [https://www.youtube.com/watch?v=IzylVFY2kIg](https://www.youtube.com/watch?v=IzylVFY2kIg)
 * [Q&A: What's the Fluid Update?](../../../transcriptions/yt-ENj6nSQdDcY.md) [https://www.youtube.com/watch?v=ENj6nSQdDcY](https://www.youtube.com/watch?v=ENj6nSQdDcY)
 * [Q&A: Will we have to redo Pipe systems with the new Update?](../../../transcriptions/yt-7r2YUHrQyB8.md) [https://www.youtube.com/watch?v=7r2YUHrQyB8](https://www.youtube.com/watch?v=7r2YUHrQyB8)

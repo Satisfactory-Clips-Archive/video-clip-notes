@@ -254,7 +254,7 @@ date: Last Modified
 ## February 11th, 2020 Livestream
 * [Jace Talk: Funny roulette story](../transcriptions/yt-8Cw56ZD9syU.md) [https://www.youtube.com/watch?v=8Cw56ZD9syU](https://www.youtube.com/watch?v=8Cw56ZD9syU)
 * [Q&A: Did you crunch for Update 3?](../transcriptions/yt-BwJG6ZHR7Io.md) [https://www.youtube.com/watch?v=BwJG6ZHR7Io](https://www.youtube.com/watch?v=BwJG6ZHR7Io)
-* [Snutt & Jace Talk: What's the mood like in the Studio right now?](../transcriptions/yt-ZfUik8FwH2Y.md) [https://www.youtube.com/watch?v=ZfUik8FwH2Y](https://www.youtube.com/watch?v=ZfUik8FwH2Y)
+* [Q&A: What's the mood like in the Studio right now?](../transcriptions/yt-ZfUik8FwH2Y.md) [https://www.youtube.com/watch?v=ZfUik8FwH2Y](https://www.youtube.com/watch?v=ZfUik8FwH2Y)
 * [Jace Talk: We're having some fun before Update 3 releases](../transcriptions/yt-Vggm0YmGP84.md) [https://www.youtube.com/watch?v=Vggm0YmGP84](https://www.youtube.com/watch?v=Vggm0YmGP84)
 * [Snutt Talk: Get back to school, Coffee Stain needs devs](../transcriptions/yt-Ee0IFHzpEh4.md) [https://www.youtube.com/watch?v=Ee0IFHzpEh4](https://www.youtube.com/watch?v=Ee0IFHzpEh4)
 

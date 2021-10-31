@@ -64,6 +64,9 @@ date: Last Modified
 ## June 29th, 2021 Livestream
 * [Snutt & Jace Talk: Coffee Stain / Swedish vacations](../../../transcriptions/yt--Nos691KN8M.md) [https://www.youtube.com/watch?v=-Nos691KN8M](https://www.youtube.com/watch?v=-Nos691KN8M)
 
+## June 15th, 2021 Livestream
+* [Q&A: Do you intend to open jobs for Junior Programmers to work at Coffee Stain eventually?](../../../transcriptions/yt-b3YN6nebj3s.md) [https://www.youtube.com/watch?v=b3YN6nebj3s](https://www.youtube.com/watch?v=b3YN6nebj3s)
+
 ## May 11th, 2021 Livestream
 * [State of Dev: How our showcase meetings work](../../../transcriptions/yt-OTb1ZkP5mkE.md) [https://www.youtube.com/watch?v=OTb1ZkP5mkE](https://www.youtube.com/watch?v=OTb1ZkP5mkE)
 
@@ -85,13 +88,17 @@ date: Last Modified
 
 ## November 10th, 2020 Livestream
 * [Q&A: Does Coffee Stain "matrix" it's people across different games?](../../../transcriptions/yt-AjCUCamZMTk.md) [https://www.youtube.com/watch?v=AjCUCamZMTk](https://www.youtube.com/watch?v=AjCUCamZMTk)
+* [Q&A: How come so many Dutch developers?](../../../transcriptions/yt-iV-D3TFuaIU.md) [https://www.youtube.com/watch?v=iV-D3TFuaIU](https://www.youtube.com/watch?v=iV-D3TFuaIU)
 * [Q&A: Who in Coffee Stain Studios is the best Factory Builder?](../../../transcriptions/yt-ypN9OtMd7YU.md) [https://www.youtube.com/watch?v=ypN9OtMd7YU](https://www.youtube.com/watch?v=ypN9OtMd7YU)
 
 ## March 24th, 2020 Livestream
 * [Q&A: You have several job openings right now?](../../../transcriptions/yt-lqRP7DsUVes.md) [https://www.youtube.com/watch?v=lqRP7DsUVes](https://www.youtube.com/watch?v=lqRP7DsUVes)
 
 ## February 11th, 2020 Livestream
-* [Snutt & Jace Talk: What's the mood like in the Studio right now?](../../../transcriptions/yt-ZfUik8FwH2Y.md) [https://www.youtube.com/watch?v=ZfUik8FwH2Y](https://www.youtube.com/watch?v=ZfUik8FwH2Y)
+* [Q&A: What's the mood like in the Studio right now?](../../../transcriptions/yt-ZfUik8FwH2Y.md) [https://www.youtube.com/watch?v=ZfUik8FwH2Y](https://www.youtube.com/watch?v=ZfUik8FwH2Y)
+
+## December 19th, 2019 Livestream
+* [Q&A: How much Swedish do you need to know to work at a Swedish company?](../../../transcriptions/yt-pm7VqpwLgEE.md) [https://www.youtube.com/watch?v=pm7VqpwLgEE](https://www.youtube.com/watch?v=pm7VqpwLgEE)
 
 ## February 20th, 2019 Livestream
 * [Q&A: Who creates the decorations & assets?](../../../transcriptions/yt-CB9bSigNYH8,776.542803,805.185748.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=776&end=806](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=776&end=806)

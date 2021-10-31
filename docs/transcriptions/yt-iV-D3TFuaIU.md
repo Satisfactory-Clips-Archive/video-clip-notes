@@ -3,7 +3,7 @@ title: "November 10th, 2020 Livestream Q&A: How come so many Dutch developers?"
 date: "2020-11-10"
 layout: transcript
 topics:
-    - ""
+    - "embracer-group/coffee-stain-holding/coffee-stain-studios"
 ---
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: How come so many Dutch developers?
@@ -17,7 +17,7 @@ https://www.youtube.com/watch?v=iV-D3TFuaIU
 
 
 ### Topics
-
+* [Embracer Group > Coffee Stain Holding > Coffee Stain Studios](../topics/embracer-group/coffee-stain-holding/coffee-stain-studios.md)
 
 ### Transcript
 

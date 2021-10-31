@@ -3,14 +3,14 @@ title: "June 15th, 2021 Livestream Q&A: Do you intend to open jobs for Junior Pr
 date: "2021-06-15"
 layout: transcript
 topics:
-    - ""
+    - "embracer-group/coffee-stain-holding/coffee-stain-studios"
 ---
 # [June 15th, 2021 Livestream](../2021-06-15.md)
 ## Q&A: Do you intend to open jobs for Junior Programmers to work at Coffee Stain eventually?
 https://www.youtube.com/watch?v=b3YN6nebj3s
 
 ### Topics
-
+* [Embracer Group > Coffee Stain Holding > Coffee Stain Studios](../topics/embracer-group/coffee-stain-holding/coffee-stain-studios.md)
 
 ### Transcript
 

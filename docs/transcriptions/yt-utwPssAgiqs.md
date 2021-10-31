@@ -3,14 +3,14 @@ title: "October 6th, 2020 Livestream Q&A: What item that you can talk about are 
 date: "2020-10-06"
 layout: transcript
 topics:
-    - ""
+    - "satisfactory-updates/released/satisfactory-fluids-update"
 ---
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Q&A: What item that you can talk about are you most looking forward to?
 https://www.youtube.com/watch?v=utwPssAgiqs
 
 ### Topics
-
+* [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
 
 ### Transcript
 
