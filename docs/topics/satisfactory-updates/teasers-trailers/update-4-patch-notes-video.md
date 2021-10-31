@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Teasers & Trailers](../../../topics/satisfactory-updates/teasers-trailers.md) > Update 4 Patch Notes Video
 
+## October 28th, 2021 Video
+* [End Tag](../../../transcriptions/yt-YSPnFZbTvxE,194.76123333333334.md) [https://youtube.com/embed/YSPnFZbTvxE?autoplay=1&start=194](https://youtube.com/embed/YSPnFZbTvxE?autoplay=1&start=194)
+
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
 * [Snutt & Jace Talk: No more Dora](../../../transcriptions/yt-QfaReoks6OM,606.8333333333334,644.4583333333334.md) [https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=606&end=645](https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=606&end=645)
 

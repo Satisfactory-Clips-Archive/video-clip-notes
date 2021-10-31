@@ -15,6 +15,11 @@ date: Last Modified
 * [The Customizer](../../topics/features/equipment/the-customizer.md)
 * [Zip Lines](../../topics/features/equipment/zip-lines.md)
 
+## October 28th, 2021 Video
+* [Jace Talk: Heroic Replicas and the Xenobasher prototype](../../transcriptions/yt-YSPnFZbTvxE,66.73333333333333,88.42166666666667.md) [https://youtube.com/embed/YSPnFZbTvxE?autoplay=1&start=66&end=89](https://youtube.com/embed/YSPnFZbTvxE?autoplay=1&start=66&end=89)
+* [Jace Talk: Heroic Replicas Kickstarter](../../transcriptions/yt-YSPnFZbTvxE,88.45503333333333,187.42056666666667.md) [https://youtube.com/embed/YSPnFZbTvxE?autoplay=1&start=88&end=188](https://youtube.com/embed/YSPnFZbTvxE?autoplay=1&start=88&end=188)
+* [End Tag](../../transcriptions/yt-YSPnFZbTvxE,194.76123333333334.md) [https://youtube.com/embed/YSPnFZbTvxE?autoplay=1&start=194](https://youtube.com/embed/YSPnFZbTvxE?autoplay=1&start=194)
+
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
 * Q&A: Parachutes, underrated/overrated? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=7560&end=7597](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=7560&end=7597)
 * Q&A: Nobelisks, underrated/overrated? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=7596&end=7618](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=7596&end=7618)
