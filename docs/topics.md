@@ -150,6 +150,7 @@ date: Last Modified
 * [Pillars](./topics/features/buildables/pillars.md)
 * [Railings](./topics/features/buildables/railings.md)
 * [Roofs](./topics/features/buildables/roofs.md)
+* [Signs](./topics/features/buildables/signs.md)
 * [Storage Containers](./topics/features/buildables/storage-containers.md)
 * [Walkways](./topics/features/buildables/walkways.md)
 * [Walls](./topics/features/buildables/walls.md)
@@ -219,7 +220,6 @@ date: Last Modified
 ---
 
 ## Planned Features
-* [Signs](./topics/features/planned-features/signs.md)
 
 ### [Build Modes](./topics/features/planned-features/build-modes.md)
 * [Quick Switch](./topics/features/planned-features/build-modes/quick-switch.md)

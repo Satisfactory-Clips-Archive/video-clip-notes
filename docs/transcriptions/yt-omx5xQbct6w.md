@@ -3,7 +3,7 @@ title: "October 12th, 2021 Livestream Q&A: Any sign of Signs?"
 date: "2021-10-12"
 layout: transcript
 topics:
-    - "features/planned-features/signs"
+    - "features/buildables/signs"
 ---
 # [October 12th, 2021 Livestream](../2021-10-12.md)
 ## Q&A: Any sign of Signs?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: [October 19th, 
 
 
 ### Topics
-* [Features > Planned Features > Signs](../topics/features/planned-features/signs.md)
+* [Features > Buildables > Signs](../topics/features/buildables/signs.md)
 
 ### Transcript
 

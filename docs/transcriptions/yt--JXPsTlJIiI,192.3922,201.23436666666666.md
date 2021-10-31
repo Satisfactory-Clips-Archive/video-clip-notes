@@ -3,7 +3,7 @@ title: "December 17th, 2020 Q&A Q&A: Will we get signs any time soon?"
 date: "2020-12-17"
 layout: transcript
 topics:
-    - "features/planned-features/signs"
+    - "features/buildables/signs"
 ---
 # [December 17th, 2020 Q&A](../2020-12-17.md)
 ## Q&A: Will we get signs any time soon?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: [October 19th, 
 
 
 ### Topics
-* [Features > Planned Features > Signs](../topics/features/planned-features/signs.md)
+* [Features > Buildables > Signs](../topics/features/buildables/signs.md)
 
 ### Transcript
 

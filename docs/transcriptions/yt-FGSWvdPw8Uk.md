@@ -3,16 +3,16 @@ title: "June 22nd, 2021 Livestream Q&A: Will Signs be in the AWESOME Shop?"
 date: "2021-06-22"
 layout: transcript
 topics:
+    - "features/buildables/signs"
     - "features/buildings/awesome-store"
-    - "features/planned-features/signs"
 ---
 # [June 22nd, 2021 Livestream](../2021-06-22.md)
 ## Q&A: Will Signs be in the AWESOME Shop?
 https://www.youtube.com/watch?v=FGSWvdPw8Uk
 
 ### Topics
+* [Features > Buildables > Signs](../topics/features/buildables/signs.md)
 * [Features > Buildings > AWESOME Store](../topics/features/buildings/awesome-store.md)
-* [Features > Planned Features > Signs](../topics/features/planned-features/signs.md)
 
 ### Transcript
 

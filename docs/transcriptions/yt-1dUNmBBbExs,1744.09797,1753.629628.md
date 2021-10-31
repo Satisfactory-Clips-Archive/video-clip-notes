@@ -3,7 +3,7 @@ title: "July 30th, 2020 Mod Highlight Q&A: When are we getting Signs?"
 date: "2020-07-30"
 layout: transcript
 topics:
-    - "features/planned-features/signs"
+    - "features/buildables/signs"
 ---
 # [July 30th, 2020 Mod Highlight](../2020-07-30.md)
 ## Q&A: When are we getting Signs?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: [October 19th, 
 
 
 ### Topics
-* [Features > Planned Features > Signs](../topics/features/planned-features/signs.md)
+* [Features > Buildables > Signs](../topics/features/buildables/signs.md)
 
 ### Transcript
 

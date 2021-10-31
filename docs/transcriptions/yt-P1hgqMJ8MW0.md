@@ -3,7 +3,7 @@ title: "September 29th, 2020 Livestream Q&A: Can we get Signs in the game?"
 date: "2020-09-29"
 layout: transcript
 topics:
-    - "features/planned-features/signs"
+    - "features/buildables/signs"
 ---
 # [September 29th, 2020 Livestream](../2020-09-29.md)
 ## Q&A: Can we get Signs in the game?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: [October 19th, 
 
 
 ### Topics
-* [Features > Planned Features > Signs](../topics/features/planned-features/signs.md)
+* [Features > Buildables > Signs](../topics/features/buildables/signs.md)
 
 ### Transcript
 

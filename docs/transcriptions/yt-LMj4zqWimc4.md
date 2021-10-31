@@ -6,7 +6,7 @@ topics:
     - "coffee-stainers/jace"
     - "community/community-highlights"
     - "features/buildables/lights"
-    - "features/planned-features/signs"
+    - "features/buildables/signs"
 ---
 # [April 20th, 2021 Livestream](../2021-04-20.md)
 ## Community Highlights: Jace gets featured in Community Highlights
@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=LMj4zqWimc4
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
 * [Community > Community Highlights](../topics/community/community-highlights.md)
 * [Features > Buildables > Lights](../topics/features/buildables/lights.md)
-* [Features > Planned Features > Signs](../topics/features/planned-features/signs.md)
+* [Features > Buildables > Signs](../topics/features/buildables/signs.md)
 
 ### Transcript
 

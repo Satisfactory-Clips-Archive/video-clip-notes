@@ -3,7 +3,7 @@ title: "October 26th, 2021 Update 5 Launch Stream and Patch Notes Video Snutt & 
 date: "2021-10-26"
 layout: transcript
 topics:
-    - "features/planned-features/signs"
+    - "features/buildables/signs"
     - "satisfactory-updates/released/satisfactory-update-5"
     - "satisfactory-updates/teasers-trailers/update-5-patch-notes-video"
 ---
@@ -12,7 +12,7 @@ topics:
 https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=644&end=682
 
 ### Topics
-* [Features > Planned Features > Signs](../topics/features/planned-features/signs.md)
+* [Features > Buildables > Signs](../topics/features/buildables/signs.md)
 * [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 * [Satisfactory Updates > Teasers & Trailers > Update 5 Patch Notes Video](../topics/satisfactory-updates/teasers-trailers/update-5-patch-notes-video.md)
 

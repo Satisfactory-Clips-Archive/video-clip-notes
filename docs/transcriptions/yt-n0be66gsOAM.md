@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "coffee-stainers/birk"
     - "coffee-stainers/mark"
-    - "features/planned-features/signs"
+    - "features/buildables/signs"
     - "features/power-management/power-switch"
 ---
 # [March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary](../2021-03-17.md)
@@ -15,7 +15,7 @@ https://www.youtube.com/watch?v=n0be66gsOAM
 ### Topics
 * [Coffee Stainers > Birk](../topics/coffee-stainers/birk.md)
 * [Coffee Stainers > Mark](../topics/coffee-stainers/mark.md)
-* [Features > Planned Features > Signs](../topics/features/planned-features/signs.md)
+* [Features > Buildables > Signs](../topics/features/buildables/signs.md)
 * [Features > Power Management > Power Switch](../topics/features/power-management/power-switch.md)
 
 ### Transcript

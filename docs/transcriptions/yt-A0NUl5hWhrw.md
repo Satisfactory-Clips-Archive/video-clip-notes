@@ -3,7 +3,7 @@ title: "May 4th, 2021 Livestream Snutt Talk: We've already confirmed we're going
 date: "2021-05-04"
 layout: transcript
 topics:
-    - "features/planned-features/signs"
+    - "features/buildables/signs"
     - "qa-site"
 ---
 # [May 4th, 2021 Livestream](../2021-05-04.md)
@@ -11,7 +11,7 @@ topics:
 https://www.youtube.com/watch?v=A0NUl5hWhrw
 
 ### Topics
-* [Features > Planned Features > Signs](../topics/features/planned-features/signs.md)
+* [Features > Buildables > Signs](../topics/features/buildables/signs.md)
 * [QA Site](../topics/qa-site.md)
 
 ### Transcript

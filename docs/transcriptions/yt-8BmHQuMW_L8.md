@@ -3,7 +3,7 @@ title: "March 2nd, 2021 Livestream Q&A: Will there be signs in Update 4?"
 date: "2021-03-02"
 layout: transcript
 topics:
-    - "features/planned-features/signs"
+    - "features/buildables/signs"
     - "satisfactory-updates/released/satisfactory-update-4"
 ---
 # [March 2nd, 2021 Livestream](../2021-03-02.md)
@@ -13,7 +13,7 @@ This question was possibly duplicated with a more recent answer: [October 19th, 
 
 
 ### Topics
-* [Features > Planned Features > Signs](../topics/features/planned-features/signs.md)
+* [Features > Buildables > Signs](../topics/features/buildables/signs.md)
 * [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 
 ### Transcript

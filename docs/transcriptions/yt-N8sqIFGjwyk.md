@@ -4,7 +4,7 @@ date: "2021-05-18"
 layout: transcript
 topics:
     - "coffee-stainers/birk"
-    - "features/planned-features/signs"
+    - "features/buildables/signs"
 ---
 # [May 18th, 2021 Livestream](../2021-05-18.md)
 ## Q&A: Are you thinking of adding some type of Signs or screens?
@@ -14,7 +14,7 @@ This question was possibly duplicated with a more recent answer: [October 19th, 
 
 ### Topics
 * [Coffee Stainers > Birk](../topics/coffee-stainers/birk.md)
-* [Features > Planned Features > Signs](../topics/features/planned-features/signs.md)
+* [Features > Buildables > Signs](../topics/features/buildables/signs.md)
 
 ### Transcript
 

@@ -3,13 +3,13 @@ title: "June 18th, 2021 - Q&A: Will we have Signs?"
 date: "2021-06-18"
 layout: transcript
 topics:
-    - "features/planned-features/signs"
+    - "features/buildables/signs"
 ---
 # [June 18th, 2021 Satisfactory Recap! Stuff we've revealed on stream (but not yet on Youtube)](../2021-06-18.md)
 ## Q&A: Will we have Signs?
 https://youtube.com/embed/slNYE26evgc?autoplay=1&start=248&end=292
 ### Topics
-* [Features > Planned Features > Signs](../topics/features/planned-features/signs.md)
+* [Features > Buildables > Signs](../topics/features/buildables/signs.md)
 
 ### Transcript
 

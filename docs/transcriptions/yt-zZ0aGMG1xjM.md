@@ -3,14 +3,14 @@ title: "June 1st, 2021 Livestream Q&A: Screen we can program, write, or draw som
 date: "2021-06-01"
 layout: transcript
 topics:
-    - "features/planned-features/signs"
+    - "features/buildables/signs"
 ---
 # [June 1st, 2021 Livestream](../2021-06-01.md)
 ## Q&A: Screen we can program, write, or draw something on?
 https://www.youtube.com/watch?v=zZ0aGMG1xjM
 
 ### Topics
-* [Features > Planned Features > Signs](../topics/features/planned-features/signs.md)
+* [Features > Buildables > Signs](../topics/features/buildables/signs.md)
 
 ### Transcript
 

@@ -3,7 +3,7 @@ title: "October 5th, 2021 Livestream Q&A: Signs coming when, it's most wanted in
 date: "2021-10-05"
 layout: transcript
 topics:
-    - "features/planned-features/signs"
+    - "features/buildables/signs"
     - "qa-site"
 ---
 # [October 5th, 2021 Livestream](../2021-10-05.md)
@@ -13,7 +13,7 @@ This question was possibly duplicated with a more recent answer: [October 19th, 
 
 
 ### Topics
-* [Features > Planned Features > Signs](../topics/features/planned-features/signs.md)
+* [Features > Buildables > Signs](../topics/features/buildables/signs.md)
 * [QA Site](../topics/qa-site.md)
 
 ### Transcript

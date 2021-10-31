@@ -3,7 +3,7 @@ title: "August 25th, 2020 Livestream Q&A: Signs for Hypertube Entrances?"
 date: "2020-08-25"
 layout: transcript
 topics:
-    - "features/planned-features/signs"
+    - "features/buildables/signs"
     - "features/transportation/hyper-tubes"
 ---
 # [August 25th, 2020 Livestream](../2020-08-25.md)
@@ -13,7 +13,7 @@ This question was possibly duplicated with a more recent answer: [October 19th, 
 
 
 ### Topics
-* [Features > Planned Features > Signs](../topics/features/planned-features/signs.md)
+* [Features > Buildables > Signs](../topics/features/buildables/signs.md)
 * [Features > Transportation > Hyper Tubes](../topics/features/transportation/hyper-tubes.md)
 
 ### Transcript

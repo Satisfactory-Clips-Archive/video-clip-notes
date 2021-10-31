@@ -3,7 +3,7 @@ title: "April 27th, 2021 Livestream Q&A: Can we get signs soon?"
 date: "2021-04-27"
 layout: transcript
 topics:
-    - "features/planned-features/signs"
+    - "features/buildables/signs"
     - "features/unplanned-features/golf"
     - "qa-site"
 ---
@@ -14,7 +14,7 @@ This question was possibly duplicated with a more recent answer: [October 19th, 
 
 
 ### Topics
-* [Features > Planned Features > Signs](../topics/features/planned-features/signs.md)
+* [Features > Buildables > Signs](../topics/features/buildables/signs.md)
 * [Features > Unplanned Features > Golf](../topics/features/unplanned-features/golf.md)
 * [QA Site](../topics/qa-site.md)
 

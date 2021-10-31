@@ -3,14 +3,14 @@ title: "January 19th, 2021 Livestream Q&A: Is there a plan to add Screens to the
 date: "2021-01-19"
 layout: transcript
 topics:
-    - "features/planned-features/signs"
+    - "features/buildables/signs"
 ---
 # [January 19th, 2021 Livestream](../2021-01-19.md)
 ## Q&A: Is there a plan to add Screens to the game?
 https://www.youtube.com/watch?v=sjfADGMwclM
 
 ### Topics
-* [Features > Planned Features > Signs](../topics/features/planned-features/signs.md)
+* [Features > Buildables > Signs](../topics/features/buildables/signs.md)
 
 ### Transcript
 

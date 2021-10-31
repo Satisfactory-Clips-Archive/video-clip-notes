@@ -3,7 +3,7 @@ title: "January 26th, 2021 Livestream Q&A: Are we getting signs any time soon?"
 date: "2021-01-26"
 layout: transcript
 topics:
-    - "features/planned-features/signs"
+    - "features/buildables/signs"
 ---
 # [January 26th, 2021 Livestream](../2021-01-26.md)
 ## Q&A: Are we getting signs any time soon?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: [October 19th, 
 
 
 ### Topics
-* [Features > Planned Features > Signs](../topics/features/planned-features/signs.md)
+* [Features > Buildables > Signs](../topics/features/buildables/signs.md)
 
 ### Transcript
 

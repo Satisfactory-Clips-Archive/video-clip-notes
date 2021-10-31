@@ -3,14 +3,14 @@ title: "July 13th, 2021 Livestream Q&A: Add name tag on Container?"
 date: "2021-07-13"
 layout: transcript
 topics:
-    - "features/planned-features/signs"
+    - "features/buildables/signs"
 ---
 # [July 13th, 2021 Livestream](../2021-07-13.md)
 ## Q&A: Add name tag on Container?
 https://www.youtube.com/watch?v=ARhDX9dqoGE
 
 ### Topics
-* [Features > Planned Features > Signs](../topics/features/planned-features/signs.md)
+* [Features > Buildables > Signs](../topics/features/buildables/signs.md)
 
 ### Transcript
 

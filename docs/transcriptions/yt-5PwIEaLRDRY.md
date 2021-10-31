@@ -3,7 +3,7 @@ title: "November 3rd, 2020 Livestream Q&A: When do Signs come?"
 date: "2020-11-03"
 layout: transcript
 topics:
-    - "features/planned-features/signs"
+    - "features/buildables/signs"
 ---
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Q&A: When do Signs come?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: [October 19th, 
 
 
 ### Topics
-* [Features > Planned Features > Signs](../topics/features/planned-features/signs.md)
+* [Features > Buildables > Signs](../topics/features/buildables/signs.md)
 
 ### Transcript
 

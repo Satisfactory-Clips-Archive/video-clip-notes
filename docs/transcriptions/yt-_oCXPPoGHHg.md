@@ -3,7 +3,7 @@ title: "October 19th, 2021 Livestream Q&A: I know you can't say, but do a cartwh
 date: "2021-10-19"
 layout: transcript
 topics:
-    - "features/planned-features/signs"
+    - "features/buildables/signs"
     - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [October 19th, 2021 Livestream](../2021-10-19.md)
@@ -40,7 +40,7 @@ This question was possibly replaced with a more recent answer: [October 26th, 20
 
 
 ### Topics
-* [Features > Planned Features > Signs](../topics/features/planned-features/signs.md)
+* [Features > Buildables > Signs](../topics/features/buildables/signs.md)
 * [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript

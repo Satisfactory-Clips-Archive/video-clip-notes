@@ -3,7 +3,7 @@ title: "August 25th, 2020 Livestream Q&A: Why do big updates at all - why not ju
 date: "2020-08-25"
 layout: transcript
 topics:
-    - "features/planned-features/signs"
+    - "features/buildables/signs"
     - "features/roadmap"
     - "features/transportation/trains/train-signals"
     - "satisfactory-updates/pending/satisfactory-1-0"
@@ -15,7 +15,7 @@ topics:
 https://www.youtube.com/watch?v=qEiYxLhX3CM
 
 ### Topics
-* [Features > Planned Features > Signs](../topics/features/planned-features/signs.md)
+* [Features > Buildables > Signs](../topics/features/buildables/signs.md)
 * [Features > Roadmap](../topics/features/roadmap.md)
 * [Features > Transportation > Trains > Train Signals](../topics/features/transportation/trains/train-signals.md)
 * [Satisfactory Updates > Pending > Satisfactory 1.0](../topics/satisfactory-updates/pending/satisfactory-1-0.md)
