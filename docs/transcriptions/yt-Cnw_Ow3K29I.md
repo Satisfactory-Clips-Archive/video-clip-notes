@@ -9,7 +9,7 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Any idea of the plan for Dedicated Server files to be headless Linux compatible?
 https://www.youtube.com/watch?v=Cnw_Ow3K29I
-This question was possibly duplicated with a more recent answer: [October 5th, 2021 Livestream Q&A: Server Hosting on Linux?](./yt-L0KTZCuWT_E.md) [https://www.youtube.com/watch?v=L0KTZCuWT_E](https://www.youtube.com/watch?v=L0KTZCuWT_E)
+This question was possibly replaced with a more recent answer: [October 27th, 2021 Video Q&A: Are the Servers headless?](./yt-Nn-1s87JJxc,206.13926666666666,207.87433333333334.md) [https://youtube.com/embed/Nn-1s87JJxc?autoplay=1&start=206&end=208](https://youtube.com/embed/Nn-1s87JJxc?autoplay=1&start=206&end=208)
 
 
 ### Topics

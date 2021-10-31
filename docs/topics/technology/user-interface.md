@@ -6,6 +6,11 @@ date: Last Modified
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > User Interface
 * [Holograms](../../topics/technology/user-interface/holograms.md)
 
+## October 27th, 2021 Video
+* [Jace Talk: Connecting Satisfactory to the Dedicated Server](../../transcriptions/yt-Nn-1s87JJxc,613.9800333333334,721.7877333333333.md) [https://youtube.com/embed/Nn-1s87JJxc?autoplay=1&start=613&end=722](https://youtube.com/embed/Nn-1s87JJxc?autoplay=1&start=613&end=722)
+* [Jace Talk: Starting a new game on a Dedicated Server](../../transcriptions/yt-Nn-1s87JJxc,721.8211,800.2995.md) [https://youtube.com/embed/Nn-1s87JJxc?autoplay=1&start=721&end=801](https://youtube.com/embed/Nn-1s87JJxc?autoplay=1&start=721&end=801)
+* [Jace Talk: Joining the newly-created game](../../transcriptions/yt-Nn-1s87JJxc,822.1880333333334,900.312509.md) [https://youtube.com/embed/Nn-1s87JJxc?autoplay=1&start=822&end=901](https://youtube.com/embed/Nn-1s87JJxc?autoplay=1&start=822&end=901)
+
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
 * [Snutty Mays Talk: Customizer Build Menu](../../transcriptions/yt-QfaReoks6OM,305.8333333333333,323.1666666666667.md) [https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=305&end=324](https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=305&end=324)
 * [Q&A: Can we just place the Build piece with the Material I wanted from the get-go?](../../transcriptions/yt-QfaReoks6OM,323.2083333333333,338.780872.md) [https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=323&end=339](https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=323&end=339)

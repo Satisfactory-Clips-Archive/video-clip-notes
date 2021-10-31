@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Trolling
 
+## October 27th, 2021 Video
+* [Q&A: Did you just add a Dedicated Server model to the game?](../transcriptions/yt-Nn-1s87JJxc,34.2342,61.59486666666667.md) [https://youtube.com/embed/Nn-1s87JJxc?autoplay=1&start=34&end=62](https://youtube.com/embed/Nn-1s87JJxc?autoplay=1&start=34&end=62)
+
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
 * Community FYI: Play your own game [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=8365&end=8393](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=8365&end=8393)
 * Community FYI: Ramp Rails are stupid [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=13955&end=13960](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=13955&end=13960)

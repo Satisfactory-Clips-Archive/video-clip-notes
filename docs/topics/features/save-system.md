@@ -7,6 +7,9 @@ date: Last Modified
 * [Autosave](../../topics/features/save-system/autosave.md)
 * [Cloud Sync](../../topics/features/save-system/cloud-sync.md)
 
+## October 27th, 2021 Video
+* [Jace Talk: Dedicated Server Save Games](../../transcriptions/yt-Nn-1s87JJxc,900.3327666666667.md) [https://youtube.com/embed/Nn-1s87JJxc?autoplay=1&start=900](https://youtube.com/embed/Nn-1s87JJxc?autoplay=1&start=900)
+
 ## October 8th, 2021 Video
 * [Q&A: What happens if I load my save file and the Trains are colliding?](../../transcriptions/yt-CskxkIepX6Y,1117.2494666666666,1157.2561.md) [https://youtube.com/clip/UgkxPOxakQgLjRDyqK3PdSE2m-_onuMEd-zq](https://youtube.com/clip/UgkxPOxakQgLjRDyqK3PdSE2m-_onuMEd-zq)
 

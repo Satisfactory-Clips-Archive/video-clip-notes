@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > QA Site
 
+## October 27th, 2021 Video
+* [Jace Talk: We would appreciate your feedback on the Dedicated Servers](../transcriptions/yt-Nn-1s87JJxc,88.95553333333334,140.67386666666667.md) [https://youtube.com/embed/Nn-1s87JJxc?autoplay=1&start=88&end=141](https://youtube.com/embed/Nn-1s87JJxc?autoplay=1&start=88&end=141)
+
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
 * [Jace & Snutt Talk: Golf](../transcriptions/yt-QfaReoks6OM,34.75,57.333333333333336.md) [https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=34&end=58](https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=34&end=58)
 * Snutt & Jace Talk: Bisexual Finger Guns (Part 2) [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=2689&end=2738](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=2689&end=2738)

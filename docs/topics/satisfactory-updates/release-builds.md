@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > Release Builds
 
+## October 27th, 2021 Video
+* [Jace Talk: Dedicated Servers are super experimental](../../transcriptions/yt-Nn-1s87JJxc,61.628233333333334,88.92216666666667.md) [https://youtube.com/embed/Nn-1s87JJxc?autoplay=1&start=61&end=89](https://youtube.com/embed/Nn-1s87JJxc?autoplay=1&start=61&end=89)
+
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
 * Q&A: What time is release? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=12892&end=12905](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=12892&end=12905)
 * Snutt & Jace Talk: The Update should be live on Experimental branch now [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=16392&end=16426](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=16392&end=16426)

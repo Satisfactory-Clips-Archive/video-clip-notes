@@ -8,6 +8,9 @@ date: Last Modified
 * [Jace Art](../../topics/coffee-stainers/jace/jace-art.md)
 * [Juice Velvet](../../topics/coffee-stainers/jace/juice-velvet.md)
 
+## October 27th, 2021 Video
+* [Jace Talk: How to find Satisfactory Dedicated Server in Steam](../../transcriptions/yt-Nn-1s87JJxc,517.2167000000001,557.020737.md) [https://youtube.com/embed/Nn-1s87JJxc?autoplay=1&start=517&end=558](https://youtube.com/embed/Nn-1s87JJxc?autoplay=1&start=517&end=558)
+
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
 * [Snutt & Jace Talk: No more Dora](../../transcriptions/yt-QfaReoks6OM,606.8333333333334,644.4583333333334.md) [https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=606&end=645](https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=606&end=645)
 * Snutt & Jace Talk: Bisexual Finger Guns (Part 1) [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=652&end=662](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=652&end=662)

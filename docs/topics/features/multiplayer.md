@@ -7,6 +7,9 @@ date: Last Modified
 * [Crossplay](../../topics/features/multiplayer/crossplay.md)
 * [Dedicated Servers](../../topics/features/multiplayer/dedicated-servers.md)
 
+## October 27th, 2021 Video
+* [Q&A: How many people can fit on one Server?](../../transcriptions/yt-Nn-1s87JJxc,382.4821,433.36626666666666.md) [https://youtube.com/embed/Nn-1s87JJxc?autoplay=1&start=382&end=434](https://youtube.com/embed/Nn-1s87JJxc?autoplay=1&start=382&end=434)
+
 ## October 5th, 2021 Livestream
 * [Q&A: New fixes for Multiplayer gameplay?](../../transcriptions/yt-YExHZSA1bH4.md) [https://www.youtube.com/watch?v=YExHZSA1bH4](https://www.youtube.com/watch?v=YExHZSA1bH4)
 

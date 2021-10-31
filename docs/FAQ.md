@@ -2,6 +2,27 @@
 title: "Frequently Asked Questions"
 date: Last Modified
 ---
+## [October 27th, 2021 Video](./2021-10-27.md)
+### [Q&A: Are Coffee Stain hosting any official Dedicated Servers?](./transcriptions/yt-Nn-1s87JJxc,433.3996333333333,447.1800666666667.md) [https://youtube.com/embed/Nn-1s87JJxc?autoplay=1&start=433&end=448](https://youtube.com/embed/Nn-1s87JJxc?autoplay=1&start=433&end=448)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> our coffee stain hosting any official dedicated servers no we're not going to be hosting any servers what we plan to do is just give you the tools and you can run it on your local machine on a separate machine uh whatever you have the tools to host servers uh however you want has coffee stain partnered with any
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 4 other times, as recently as October 2021 and as early as November 2020.</summary>
+
+* October 26th, 2021 Update 5 Launch Stream and Patch Notes Video Q&A: Will you be hosting any Dedicated Servers? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=16543&end=16556](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=16543&end=16556)
+* [October 5th, 2021 Livestream Q&A: Server Hosting?](./transcriptions/yt-Cn6M79rc4kE.md) [https://www.youtube.com/watch?v=Cn6M79rc4kE](https://www.youtube.com/watch?v=Cn6M79rc4kE)
+* [August 31st, 2021 Livestream Q&A: Who will be hosting?](./transcriptions/yt-6lPmum6YM3Y.md) [https://www.youtube.com/watch?v=6lPmum6YM3Y](https://www.youtube.com/watch?v=6lPmum6YM3Y)
+* [November 10th, 2020 Livestream Q&A: When we talk about Dedicated Servers is the plan that those servers are hosted by Coffee Stain?](./transcriptions/yt-TYf5xLi8060.md) [https://www.youtube.com/watch?v=TYf5xLi8060](https://www.youtube.com/watch?v=TYf5xLi8060)
+</details>
+
 ## [October 26th, 2021 Update 5 Launch Stream and Patch Notes Video](./2021-10-26.md)
 ### Q&A: VR? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=1803&end=1874](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=1803&end=1874)
 
@@ -126,16 +147,6 @@ date: Last Modified
 * [December 15th, 2020 Livestream Q&A: If I backup current version, will FICS⁕MAS still work after the 18th?](./transcriptions/yt-01DJ6EPqTk4.md) [https://www.youtube.com/watch?v=01DJ6EPqTk4](https://www.youtube.com/watch?v=01DJ6EPqTk4)
 * [December 8th, 2020 Livestream Q&A: What are we going to keep after the event?](./transcriptions/yt-nZjZGFce1lE.md) [https://www.youtube.com/watch?v=nZjZGFce1lE](https://www.youtube.com/watch?v=nZjZGFce1lE)
 * [December 8th, 2020 Livestream Q&A: Will Gift Trees continue to produce?](./transcriptions/yt-FqUcLve4Oyc.md) [https://www.youtube.com/watch?v=FqUcLve4Oyc](https://www.youtube.com/watch?v=FqUcLve4Oyc)
-</details>
-
-### Q&A: Will you be hosting any Dedicated Servers? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=16543&end=16556](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=16543&end=16556)
-
-<details>
-<summary>This question may have been asked previously at least 3 other times, as recently as October 2021 and as early as November 2020.</summary>
-
-* [October 5th, 2021 Livestream Q&A: Server Hosting?](./transcriptions/yt-Cn6M79rc4kE.md) [https://www.youtube.com/watch?v=Cn6M79rc4kE](https://www.youtube.com/watch?v=Cn6M79rc4kE)
-* [August 31st, 2021 Livestream Q&A: Who will be hosting?](./transcriptions/yt-6lPmum6YM3Y.md) [https://www.youtube.com/watch?v=6lPmum6YM3Y](https://www.youtube.com/watch?v=6lPmum6YM3Y)
-* [November 10th, 2020 Livestream Q&A: When we talk about Dedicated Servers is the plan that those servers are hosted by Coffee Stain?](./transcriptions/yt-TYf5xLi8060.md) [https://www.youtube.com/watch?v=TYf5xLi8060](https://www.youtube.com/watch?v=TYf5xLi8060)
 </details>
 
 ## [October 19th, 2021 Livestream](./2021-10-19.md)
@@ -533,7 +544,7 @@ date: Last Modified
 </details>
 
 <details>
-<summary>This question may have been asked previously at least 12 other times, as recently as September 2021 and as early as March 2019.</summary>
+<summary>This question may have been asked previously at least 11 other times, as recently as September 2021 and as early as March 2019.</summary>
 
 * [September 21st, 2021 Livestream Q&A: Will Dedicated Servers run on Linux, Windows, or both?](./transcriptions/yt-B9WzFDA9Lq8.md) [https://www.youtube.com/watch?v=B9WzFDA9Lq8](https://www.youtube.com/watch?v=B9WzFDA9Lq8)
 * [September 14th, 2021 Livestream Q&A: Linux hosting, please?](./transcriptions/yt-bF5wXdGjeG0.md) [https://www.youtube.com/watch?v=bF5wXdGjeG0](https://www.youtube.com/watch?v=bF5wXdGjeG0)
@@ -546,7 +557,6 @@ date: Last Modified
 * [September 22nd, 2020 Livestream Q&A: Will Dedicated Servers run on Linux?](./transcriptions/yt-299eeYGePHM.md) [https://www.youtube.com/watch?v=299eeYGePHM](https://www.youtube.com/watch?v=299eeYGePHM)
 * [August 25th, 2020 Livestream Q&A: Will Dedicated Servers be available on Linux, or Windows?](./transcriptions/yt-4f7KWwnXhoU.md) [https://www.youtube.com/watch?v=4f7KWwnXhoU](https://www.youtube.com/watch?v=4f7KWwnXhoU)
 * [March 15th, 2019 Q&A: Please, please, please make a Linux based dedicated server that can run headless.](./transcriptions/yt-R0S19_caQuw,403.32,412.34.md) [https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=403&end=413](https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=403&end=413)
-* [March 9th, 2019 Livestream Q&A: Any idea of the plan for Dedicated Server files to be headless Linux compatible?](./transcriptions/yt-Cnw_Ow3K29I.md) [https://www.youtube.com/watch?v=Cnw_Ow3K29I](https://www.youtube.com/watch?v=Cnw_Ow3K29I)
 </details>
 
 ### [Q&A: Are Mercer Spheres & Somersloops going to have any relevance before 1.0?](./transcriptions/yt-b9gre_TGBH0.md) [https://www.youtube.com/watch?v=b9gre_TGBH0](https://www.youtube.com/watch?v=b9gre_TGBH0)

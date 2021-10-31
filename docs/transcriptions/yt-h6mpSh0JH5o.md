@@ -9,6 +9,8 @@ topics:
 # [January 22nd, 2020 Livestream](../2020-01-22.md)
 ## Q&A: Will the Dedicated Servers have some sort of permissions system?
 https://www.youtube.com/watch?v=h6mpSh0JH5o
+This question was possibly replaced with a more recent answer: [October 27th, 2021 Video Q&A: What Features are available?](./yt-Nn-1s87JJxc,273.1729,382.44873333333334.md) [https://youtube.com/embed/Nn-1s87JJxc?autoplay=1&start=273&end=383](https://youtube.com/embed/Nn-1s87JJxc?autoplay=1&start=273&end=383)
+
 
 ### Topics
 * [Features > Multiplayer](../topics/features/multiplayer.md)

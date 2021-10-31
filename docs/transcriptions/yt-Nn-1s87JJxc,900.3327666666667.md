@@ -1,0 +1,23 @@
+---
+title: "October 27th, 2021 Video Jace Talk: Dedicated Server Save Games"
+date: "2021-10-27"
+layout: transcript
+topics:
+    - "features/multiplayer/dedicated-servers"
+    - "features/save-system"
+---
+# [October 27th, 2021 Video](../2021-10-27.md)
+## Jace Talk: Dedicated Server Save Games
+https://youtube.com/embed/Nn-1s87JJxc?autoplay=1&start=900
+
+### Topics
+* [Features > Multiplayer > Dedicated Servers](../topics/features/multiplayer/dedicated-servers.md)
+* [Features > Save System](../topics/features/save-system.md)
+
+### Transcript
+
+> game so uh if i hit escape now what can we see uh jason's first dedicated service session that's the name kinda long um i can make a save game test save uh and this is being saved on the dedicated server in terms of the save files i believe that they're actually saved in the same like directory that your normal save files are saved in but in a different folder called server i guess i can bring that up real quick so you can see here that this is actually the same save file location um that all my other save files are in and there's another folder here called server and these are the server save files so you can see my test save there uh and this is the json's dedicated server session auto save file there okay uh now i don't know how this works on linux i don't know where the save files are going to be there or whatever but that's here's something okay this is something yeah so that's pretty much it that's the dedicated server now i'm sure you've got like a lot of other questions uh but check out the the wiki please uh in order to hopefully all the answers will be there okay because they're not in my head right now okay okay so that's pretty much it for today i hope that was interesting i hope you're excited to use dedicated servers if you do try them out please let us know give us that feedback questions on satisfactorygame.com let us know how it goes let us know if you're into any bugs uh and yeah we're really happy to finally get this out to y'all y'all have been asking for this for a very very long time so i hope you're happy that they're finally here thank you all very much for watching the video if you liked it please give it a like and do consider subscribing and have a lovely day everybody take care bye
+>
+> [Music]
+>
+> you

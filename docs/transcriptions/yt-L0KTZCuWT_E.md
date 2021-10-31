@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=L0KTZCuWT_E
 This question was possibly replaced with a more recent answer: October 26th, 2021 Update 5 Launch Stream and Patch Notes Video Q&A: Will they be on Linux? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=16579&end=16588](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=16579&end=16588)
 
 <details>
-<summary>This question may have been asked previously at least 12 other times, as recently as September 2021 and as early as March 2019.</summary>
+<summary>This question may have been asked previously at least 11 other times, as recently as September 2021 and as early as March 2019.</summary>
 
 * [September 21st, 2021 Livestream Q&A: Will Dedicated Servers run on Linux, Windows, or both?](./yt-B9WzFDA9Lq8.md) [https://www.youtube.com/watch?v=B9WzFDA9Lq8](https://www.youtube.com/watch?v=B9WzFDA9Lq8)
 * [September 14th, 2021 Livestream Q&A: Linux hosting, please?](./yt-bF5wXdGjeG0.md) [https://www.youtube.com/watch?v=bF5wXdGjeG0](https://www.youtube.com/watch?v=bF5wXdGjeG0)
@@ -25,7 +25,6 @@ This question was possibly replaced with a more recent answer: October 26th, 202
 * [September 22nd, 2020 Livestream Q&A: Will Dedicated Servers run on Linux?](./yt-299eeYGePHM.md) [https://www.youtube.com/watch?v=299eeYGePHM](https://www.youtube.com/watch?v=299eeYGePHM)
 * [August 25th, 2020 Livestream Q&A: Will Dedicated Servers be available on Linux, or Windows?](./yt-4f7KWwnXhoU.md) [https://www.youtube.com/watch?v=4f7KWwnXhoU](https://www.youtube.com/watch?v=4f7KWwnXhoU)
 * [March 15th, 2019 Q&A: Please, please, please make a Linux based dedicated server that can run headless.](./yt-R0S19_caQuw,403.32,412.34.md) [https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=403&end=413](https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=403&end=413)
-* [March 9th, 2019 Livestream Q&A: Any idea of the plan for Dedicated Server files to be headless Linux compatible?](./yt-Cnw_Ow3K29I.md) [https://www.youtube.com/watch?v=Cnw_Ow3K29I](https://www.youtube.com/watch?v=Cnw_Ow3K29I)
 </details>
 
 

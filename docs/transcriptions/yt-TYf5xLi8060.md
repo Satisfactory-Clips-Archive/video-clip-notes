@@ -8,7 +8,7 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: When we talk about Dedicated Servers is the plan that those servers are hosted by Coffee Stain?
 https://www.youtube.com/watch?v=TYf5xLi8060
-This question was possibly duplicated with a more recent answer: October 26th, 2021 Update 5 Launch Stream and Patch Notes Video Q&A: Will you be hosting any Dedicated Servers? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=16543&end=16556](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=16543&end=16556)
+This question was possibly duplicated with a more recent answer: [October 27th, 2021 Video Q&A: Are Coffee Stain hosting any official Dedicated Servers?](./yt-Nn-1s87JJxc,433.3996333333333,447.1800666666667.md) [https://youtube.com/embed/Nn-1s87JJxc?autoplay=1&start=433&end=448](https://youtube.com/embed/Nn-1s87JJxc?autoplay=1&start=433&end=448)
 
 
 ### Topics
