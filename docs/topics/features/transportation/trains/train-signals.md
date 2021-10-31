@@ -3,7 +3,7 @@ title: "Train Signals"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiErrg7lK40K9vEj_Jl2dS1hd
 date: Last Modified
 ---
-# [Topics](../../../../topics.md) > Features > Transportation > [Trains](../../../../topics/features/transportation/trains.md) > Train Signals
+# [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > Transportation > [Trains](../../../../topics/features/transportation/trains.md) > Train Signals
 
 ## October 12th, 2021 Livestream
 * [Snutt & Jace Talk: Talking about Trains](../../../../transcriptions/yt-oTFxFrh1OiQ.md) [https://www.youtube.com/watch?v=oTFxFrh1OiQ](https://www.youtube.com/watch?v=oTFxFrh1OiQ)

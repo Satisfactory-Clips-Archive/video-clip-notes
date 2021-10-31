@@ -11,6 +11,8 @@ topics:
 # [October 12th, 2021 Livestream](../2021-10-12.md)
 ## Q&A: Will Trucks queue up behind a station if another Truck is there?
 https://www.youtube.com/watch?v=RIQ0Lzb4DZ8
+This question was possibly duplicated with a more recent answer: October 26th, 2021 Update 5 Launch Stream and Patch Notes Video Q&A: What happens if a Vehicle is refueling at a Truck Station and another Vehicle comes along? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=5120&end=5375](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=5120&end=5375)
+
 
 ### Topics
 * [Features > Buildings](../topics/features/buildings.md)

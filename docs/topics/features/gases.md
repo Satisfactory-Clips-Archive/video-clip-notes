@@ -3,7 +3,7 @@ title: "Gases"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEq3TKcPLzSagH1kjcX0FieC
 date: Last Modified
 ---
-# [Topics](../../topics.md) > Features > Gases
+# [Topics](../../topics.md) > [Features](../../topics/features.md) > Gases
 
 ## July 13th, 2021 Livestream
 * [Q&A: Will we ever be able to remove or destroy Poison Pillars?](../../transcriptions/yt-pkKMsKoH6y4.md) [https://www.youtube.com/watch?v=pkKMsKoH6y4](https://www.youtube.com/watch?v=pkKMsKoH6y4)

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Creatures](../../../topics/environment/creatures.md) > Space Giraffe-Tick-Penguin-Whale Thing
 
+## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
+* Q&A: Space Giraffe-Tick-Penguin-Whale Thing, underrated/overrated? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=7763&end=7810](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=7763&end=7810)
+
 ## October 12th, 2021 Livestream
 * [Q&A: Are Beans Hard or Soft Clearance?](../../../transcriptions/yt-x2lFfUsOhSE.md) [https://www.youtube.com/watch?v=x2lFfUsOhSE](https://www.youtube.com/watch?v=x2lFfUsOhSE)
 * [Q&A: How did you get the Train derail to hit the Giant Tick monster?](../../../transcriptions/yt-HlqTqzwd_rM.md) [https://www.youtube.com/watch?v=HlqTqzwd_rM](https://www.youtube.com/watch?v=HlqTqzwd_rM)

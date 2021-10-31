@@ -3,7 +3,7 @@ title: "Walls"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEpmT1vmxxciR96Op1TkWR8J
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Walls
+# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildables](../../../topics/features/buildables.md) > Walls
 
 ## October 19th, 2021 Livestream
 * [Q&A: Are the new Walls bought from the AWESOME Shop?](../../../transcriptions/yt-OYF68hbYpnA.md) [https://www.youtube.com/watch?v=OYF68hbYpnA](https://www.youtube.com/watch?v=OYF68hbYpnA)

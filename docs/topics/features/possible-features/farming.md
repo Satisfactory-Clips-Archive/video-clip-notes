@@ -3,7 +3,7 @@ title: "Farming"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEpWd9yLFdA-rdx0uR6EJfRh
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Features > Possible Features > Farming
+# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > Possible Features > Farming
 
 ## August 24th, 2021 Livestream
 * Q&A: Will there be cheese? [https://www.youtube.com/watch?v=IWbaPON5Dq0](https://www.youtube.com/watch?v=IWbaPON5Dq0)

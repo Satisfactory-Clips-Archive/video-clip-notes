@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Pending > Satisfactory 1.0
 
+## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
+* Hannah & Snutt Talk: Prototyping 1.0 [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=10340&end=10445](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=10340&end=10445)
+* Jace, Torsten, Hannah, and Snutt: Jace's phone rings early [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=10469&end=10581](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=10469&end=10581)
+* Q&A: Is there going to be a polish push be fore 1.0? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=13581&end=13636](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=13581&end=13636)
+
 ## October 19th, 2021 Livestream
 * [Q&A: Will the game be over before Star Citizen?](../../../transcriptions/yt--xV_liae4r0.md) [https://www.youtube.com/watch?v=-xV_liae4r0](https://www.youtube.com/watch?v=-xV_liae4r0)
 

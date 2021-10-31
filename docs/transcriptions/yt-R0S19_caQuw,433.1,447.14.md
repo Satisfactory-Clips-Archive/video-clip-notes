@@ -9,7 +9,7 @@ topics:
 # [March 15th, 2019 Q&A](../2019-03-15.md)
 ## Q&A: Any ETA on Dedicated Servers?
 https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=433&end=448
-This question was possibly duplicated with a more recent answer: [October 19th, 2021 Livestream Q&A: Dedicated Servers?](./yt-lkBs9m3qR68.md) [https://www.youtube.com/watch?v=lkBs9m3qR68](https://www.youtube.com/watch?v=lkBs9m3qR68)
+This question was possibly duplicated with a more recent answer: October 26th, 2021 Update 5 Launch Stream and Patch Notes Video Q&A: Dedicated Servers? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=1873&end=2084](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=1873&end=2084)
 
 
 ### Topics

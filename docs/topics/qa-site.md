@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > QA Site
 
+## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
+* Snutt & Jace Talk: Bisexual Finger Guns (Part 2) [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=2689&end=2738](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=2689&end=2738)
+
 ## October 12th, 2021 Livestream
 * [Q&A: Could you hire a content designer to make your error messages more helpful?](../transcriptions/yt-viwaU8gV4M8.md) [https://www.youtube.com/watch?v=viwaU8gV4M8](https://www.youtube.com/watch?v=viwaU8gV4M8)
 * [Q&A: Is it better to comment on an older (greater than 1 year) suggestion or create a new one?](../transcriptions/yt-Owt8GXwxJZs.md) [https://www.youtube.com/watch?v=Owt8GXwxJZs](https://www.youtube.com/watch?v=Owt8GXwxJZs)

@@ -5,6 +5,12 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Tobias
 
+## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
+* Tobias, Snutt, and Jace Talk: What Tobias has worked on in Update 5 [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=2482&end=2593](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=2482&end=2593)
+* Q&A: Are you a ceiling builder, Tobias? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=2901&end=2944](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=2901&end=2944)
+* Q&A: How far has Tobias gotten in Satisfactory? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=3037&end=3070](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=3037&end=3070)
+* Q&A: What was the first version of the game Tobias played? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=3322&end=3348](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=3322&end=3348)
+
 ## October 12th, 2021 Livestream
 * [Jace Talk: Shoutouts for Coffee Stainers implementing Update 5 features](../../transcriptions/yt-OfbGW1Nb-XI.md) [https://www.youtube.com/watch?v=OfbGW1Nb-XI](https://www.youtube.com/watch?v=OfbGW1Nb-XI)
 

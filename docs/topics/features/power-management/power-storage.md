@@ -3,7 +3,7 @@ title: "Power Storage"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiErp1LdzC2TRke-xZQJTc3m5
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Features > [Power Management](../../../topics/features/power-management.md) > Power Storage
+# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Power Management](../../../topics/features/power-management.md) > Power Storage
 
 ## August 31st, 2021 Livestream
 * [Q&A: Are there plans to make Power Storage usable with Bio Burners?](../../../transcriptions/yt-voAsRVkVD4w.md) [https://www.youtube.com/watch?v=voAsRVkVD4w](https://www.youtube.com/watch?v=voAsRVkVD4w)

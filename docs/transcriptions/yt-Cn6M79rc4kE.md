@@ -8,12 +8,7 @@ topics:
 # [October 5th, 2021 Livestream](../2021-10-05.md)
 ## Q&A: Server Hosting?
 https://www.youtube.com/watch?v=Cn6M79rc4kE
-<details>
-<summary>This question may have been asked previously at least 2 other times, as recently as August 2021 and as early as November 2020.</summary>
-
-* [August 31st, 2021 Livestream Q&A: Who will be hosting?](./yt-6lPmum6YM3Y.md) [https://www.youtube.com/watch?v=6lPmum6YM3Y](https://www.youtube.com/watch?v=6lPmum6YM3Y)
-* [November 10th, 2020 Livestream Q&A: When we talk about Dedicated Servers is the plan that those servers are hosted by Coffee Stain?](./yt-TYf5xLi8060.md) [https://www.youtube.com/watch?v=TYf5xLi8060](https://www.youtube.com/watch?v=TYf5xLi8060)
-</details>
+This question was possibly duplicated with a more recent answer: October 26th, 2021 Update 5 Launch Stream and Patch Notes Video Q&A: Will you be hosting any Dedicated Servers? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=16543&end=16556](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=16543&end=16556)
 
 
 ### Topics

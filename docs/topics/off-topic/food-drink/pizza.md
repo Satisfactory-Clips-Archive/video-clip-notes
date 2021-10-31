@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Off-Topic](../../../topics/off-topic.md) > [Food & Drink](../../../topics/off-topic/food-drink.md) > Pizza
 
+## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
+* Q&A: Swedish Pizza, underated/overrated? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=6472&end=6611](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=6472&end=6611)
+* Q&A: Pineapple on Pizza, underated/overrated? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=6610&end=6657](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=6610&end=6657)
+* Community FYI: Uranium Waste on Pizza [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=6803&end=6812](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=6803&end=6812)
+
 ## October 19th, 2021 Livestream
 * [Q&A: What kind of Pizza are you guys having tonight?](../../../transcriptions/yt-rzXOuAA0s20.md) [https://www.youtube.com/watch?v=rzXOuAA0s20](https://www.youtube.com/watch?v=rzXOuAA0s20)
 

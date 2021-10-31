@@ -3,7 +3,7 @@ title: "Cheatcrete"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEqFD6h2jA0BQQ2mkp0R5joi
 date: Last Modified
 ---
-# [Topics](../../../../topics.md) > Features > [Buildables](../../../../topics/features/buildables.md) > [Foundations](../../../../topics/features/buildables/foundations.md) > Cheatcrete
+# [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > [Buildables](../../../../topics/features/buildables.md) > [Foundations](../../../../topics/features/buildables/foundations.md) > Cheatcrete
 
 ## June 18th, 2021 Livestream
 * [Jace Talk: Build Modes in Update 5](../../../../transcriptions/yt-slNYE26evgc,131.86506666666668,200.86733333333333.md) [https://youtube.com/embed/slNYE26evgc?autoplay=1&start=131&end=201](https://youtube.com/embed/slNYE26evgc?autoplay=1&start=131&end=201)

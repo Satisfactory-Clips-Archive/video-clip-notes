@@ -3,7 +3,7 @@ title: "Emotes"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEqjQuyYsNElrE2MqzMywC4c
 date: Last Modified
 ---
-# [Topics](../../topics.md) > Features > Emotes
+# [Topics](../../topics.md) > [Features](../../topics/features.md) > Emotes
 
 ## February 23rd, 2021 Livestream
 * [Q&A: Since you have a cup of coffee, how about a spit-take emote?](../../transcriptions/yt-Q4BRujPmgN0.md) [https://www.youtube.com/watch?v=Q4BRujPmgN0](https://www.youtube.com/watch?v=Q4BRujPmgN0)

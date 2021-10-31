@@ -3,7 +3,7 @@ title: "Jump Pads"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEpVKlAtlIftyOD0SUkwZuNw
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Jump Pads
+# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildables](../../../topics/features/buildables.md) > Jump Pads
 
 ## September 14th, 2021 Livestream
 * [Q&A: What if I use Jump Pads now, though?](../../../transcriptions/yt-pRnGOwOwMaM.md) [https://www.youtube.com/watch?v=pRnGOwOwMaM](https://www.youtube.com/watch?v=pRnGOwOwMaM)

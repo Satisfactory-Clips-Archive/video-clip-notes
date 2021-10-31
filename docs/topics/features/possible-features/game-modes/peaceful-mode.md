@@ -3,7 +3,7 @@ title: "Peaceful Mode"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEpP_8-58Z-qL-wqL5BQGgNl
 date: Last Modified
 ---
-# [Topics](../../../../topics.md) > Features > Possible Features > [Game Modes](../../../../topics/features/possible-features/game-modes.md) > Peaceful Mode
+# [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > Possible Features > [Game Modes](../../../../topics/features/possible-features/game-modes.md) > Peaceful Mode
 
 ## August 17th, 2021 Livestream
 * [Q&A: Any plans for peace mode in the game?](../../../../transcriptions/yt-MDBg0w3FweM.md) [https://www.youtube.com/watch?v=MDBg0w3FweM](https://www.youtube.com/watch?v=MDBg0w3FweM)

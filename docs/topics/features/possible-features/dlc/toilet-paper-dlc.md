@@ -3,7 +3,7 @@ title: "Toilet Paper DLC"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEprsambYVkRLAij70izxfVD
 date: Last Modified
 ---
-# [Topics](../../../../topics.md) > Features > Possible Features > [DLC](../../../../topics/features/possible-features/dlc.md) > Toilet Paper DLC
+# [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > Possible Features > [DLC](../../../../topics/features/possible-features/dlc.md) > Toilet Paper DLC
 
 ## June 8th, 2021 Livestream
 * [Q&A: $1 Toilet Paper DLC?](../../../../transcriptions/yt-ekFl5tlk2ig.md) [https://www.youtube.com/watch?v=ekFl5tlk2ig](https://www.youtube.com/watch?v=ekFl5tlk2ig)

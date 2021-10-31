@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../topics.md) > [Retail](../../topics/retail.md) > Epic Store
 * [Epic Store Exclusivity](../../topics/retail/epic-store/epic-store-exclusivity.md)
 
+## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
+* Q&A: Epic Games login on Steam? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=16654&end=16706](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=16654&end=16706)
+
 ## June 1st, 2021 Livestream
 * [Q&A: Is this a Developer build?](../../transcriptions/yt-T6mvEOG0HLI.md) [https://www.youtube.com/watch?v=T6mvEOG0HLI](https://www.youtube.com/watch?v=T6mvEOG0HLI)
 * [Snutt & Jace Talk: Epic Mega Sale](../../transcriptions/yt-8Ad-XvODOss.md) [https://www.youtube.com/watch?v=8Ad-XvODOss](https://www.youtube.com/watch?v=8Ad-XvODOss)

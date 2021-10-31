@@ -3,7 +3,7 @@ title: "Microtransactions"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEqt8EmeHWLHcgo5uLhafUAi
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Features > [Unplanned Features](../../../topics/features/unplanned-features.md) > Microtransactions
+# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Unplanned Features](../../../topics/features/unplanned-features.md) > Microtransactions
 
 ## September 7th, 2021 Livestream
 * [Community FYI: Zoop Coin](../../../transcriptions/yt-uW-ebXbDC3U.md) [https://www.youtube.com/watch?v=uW-ebXbDC3U](https://www.youtube.com/watch?v=uW-ebXbDC3U)

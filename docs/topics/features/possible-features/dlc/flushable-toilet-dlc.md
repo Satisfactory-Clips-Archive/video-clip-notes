@@ -3,7 +3,7 @@ title: "Flushable Toilet DLC"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEo6-Jsza66SWDUgX688DEh5
 date: Last Modified
 ---
-# [Topics](../../../../topics.md) > Features > Possible Features > [DLC](../../../../topics/features/possible-features/dlc.md) > Flushable Toilet DLC
+# [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > Possible Features > [DLC](../../../../topics/features/possible-features/dlc.md) > Flushable Toilet DLC
 
 ## September 28th, 2021 Livestream
 * [Community FYI: "Update 5: The Flush"](../../../../transcriptions/yt-ltBHmNu2JqA.md) [https://www.youtube.com/watch?v=ltBHmNu2JqA](https://www.youtube.com/watch?v=ltBHmNu2JqA)

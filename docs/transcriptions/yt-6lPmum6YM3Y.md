@@ -8,7 +8,7 @@ topics:
 # [August 31st, 2021 Livestream](../2021-08-31.md)
 ## Q&A: Who will be hosting?
 https://www.youtube.com/watch?v=6lPmum6YM3Y
-This question was possibly duplicated with a more recent answer: [October 5th, 2021 Livestream Q&A: Server Hosting?](./yt-Cn6M79rc4kE.md) [https://www.youtube.com/watch?v=Cn6M79rc4kE](https://www.youtube.com/watch?v=Cn6M79rc4kE)
+This question was possibly duplicated with a more recent answer: October 26th, 2021 Update 5 Launch Stream and Patch Notes Video Q&A: Will you be hosting any Dedicated Servers? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=16543&end=16556](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=16543&end=16556)
 
 
 ### Topics

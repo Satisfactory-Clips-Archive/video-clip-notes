@@ -3,7 +3,7 @@ title: "Lights"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEqDSLRIdyHmUlI71j458DqR
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Lights
+# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildables](../../../topics/features/buildables.md) > Lights
 
 ## October 12th, 2021 Livestream
 * [Q&A: Will Truck Lights finally work in Update 5?](../../../transcriptions/yt-35iZLfgEF0A.md) [https://www.youtube.com/watch?v=35iZLfgEF0A](https://www.youtube.com/watch?v=35iZLfgEF0A)

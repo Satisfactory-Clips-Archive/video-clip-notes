@@ -5,6 +5,12 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Teasers & Trailers](../../../topics/satisfactory-updates/teasers-trailers.md) > Update 5 Teasers
 
+## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
+* Mark, Snutt, and Jace Talk: Started Update 5 Teaser season, then delayed it [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=13743&end=13937](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=13743&end=13937)
+* Community FYI: Ramp Rails video was S+ Tier Marketing [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=13984&end=14004](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=13984&end=14004)
+* Snutt & Jace Talk: Reception to the cosmetic Buildables video [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=14298&end=14355](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=14298&end=14355)
+* Snutt & Jace Talk: Checking the videos on YouTube [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=16599&end=16627](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=16599&end=16627)
+
 ## October 22nd, 2021 Video
 * [Jace Talk: What we've released so far on Update 5](../../../transcriptions/yt-cNBKEaJMLyM,67.73433333333334,114.28083333333333.md) [https://youtube.com/embed/cNBKEaJMLyM?autoplay=1&start=67&end=115](https://youtube.com/embed/cNBKEaJMLyM?autoplay=1&start=67&end=115)
 

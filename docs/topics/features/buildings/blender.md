@@ -3,7 +3,7 @@ title: "Blender"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEqVBjXPO21-ZkvLV76plSGV
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > Blender
+# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > Blender
 
 ## June 22nd, 2021 Livestream
 * [Snutt & Torsten Talk: Concept Art - The Blender™](../../../transcriptions/yt--Z7MfVopphg.md) [https://www.youtube.com/watch?v=-Z7MfVopphg](https://www.youtube.com/watch?v=-Z7MfVopphg)

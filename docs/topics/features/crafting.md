@@ -3,7 +3,7 @@ title: "Crafting"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEqkzbujtsOp2ySj671M8CR3
 date: Last Modified
 ---
-# [Topics](../../topics.md) > Features > Crafting
+# [Topics](../../topics.md) > [Features](../../topics/features.md) > Crafting
 * [Fuel](../../topics/features/crafting/fuel.md)
 * [Recipes](../../topics/features/crafting/recipes.md)
 * [Superposition Oscillator](../../topics/features/crafting/superposition-oscillator.md)

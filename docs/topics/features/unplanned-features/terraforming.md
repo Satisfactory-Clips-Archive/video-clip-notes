@@ -3,7 +3,7 @@ title: "Terraforming"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEo_Z7JjldxMswBGTxOI9cDH
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Features > [Unplanned Features](../../../topics/features/unplanned-features.md) > Terraforming
+# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Unplanned Features](../../../topics/features/unplanned-features.md) > Terraforming
 
 ## October 12th, 2021 Livestream
 * [Community FYI: No Terraforming](../../../transcriptions/yt-PZKiBS2ZQn4.md) [https://www.youtube.com/watch?v=PZKiBS2ZQn4](https://www.youtube.com/watch?v=PZKiBS2ZQn4)

@@ -3,7 +3,7 @@ title: "Tier 7"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEqZ6jA6KOjykO3SA7o4k5NL
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Features > [Tiers](../../../topics/features/tiers.md) > Tier 7
+# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Tiers](../../../topics/features/tiers.md) > Tier 7
 
 ## June 1st, 2021 Livestream
 * [Snutt & Jace Talk: Jace's Factory Tour](../../../transcriptions/yt-Uz5ubjKvQWg.md) [https://www.youtube.com/watch?v=Uz5ubjKvQWg](https://www.youtube.com/watch?v=Uz5ubjKvQWg)

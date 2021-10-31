@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Environment](../../topics/environment.md) > World Map
 
+## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
+* Q&A: Are you going to add another World to the game? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=10609&end=10690](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=10609&end=10690)
+
 ## October 12th, 2021 Livestream
 * [Q&A: Will there be any visual map overlay of the blocks?](../../transcriptions/yt-yAFL-BUeu9E.md) [https://www.youtube.com/watch?v=yAFL-BUeu9E](https://www.youtube.com/watch?v=yAFL-BUeu9E)
 * [Q&A: Will you ever consider adding rails to the Map, would be nice to see a full rail network?](../../transcriptions/yt-aLy9En9UbqI.md) [https://www.youtube.com/watch?v=aLy9En9UbqI](https://www.youtube.com/watch?v=aLy9En9UbqI)

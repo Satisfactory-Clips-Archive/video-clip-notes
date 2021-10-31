@@ -3,7 +3,7 @@ title: "Green Energy"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEoxt-MkPSDtxi9DBMOneqyT
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Features > [Power Management](../../../topics/features/power-management.md) > Green Energy
+# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Power Management](../../../topics/features/power-management.md) > Green Energy
 
 ## September 28th, 2021 Livestream
 * [Q&A: Any plans to add wind or solar generators?](../../../transcriptions/yt-9gLdXXyoabU.md) [https://www.youtube.com/watch?v=9gLdXXyoabU](https://www.youtube.com/watch?v=9gLdXXyoabU)

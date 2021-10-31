@@ -8,6 +8,8 @@ topics:
 # [June 1st, 2021 Livestream](../2021-06-01.md)
 ## Q&A: What percentage of Sweden speaks English?
 https://www.youtube.com/watch?v=Mv4jKWx7V3U
+This question was possibly duplicated with a more recent answer: October 26th, 2021 Update 5 Launch Stream and Patch Notes Video Q&A: Is Sweden basically a bilingual country? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=1402&end=1407](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=1402&end=1407)
+
 
 ### Topics
 * [Off-Topic > Sweden](../topics/off-topic/sweden.md)

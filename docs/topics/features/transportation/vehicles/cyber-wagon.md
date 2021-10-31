@@ -3,7 +3,11 @@ title: "Cyber Wagon"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEpeF2A25b6waQZkQA2EMlvx
 date: Last Modified
 ---
-# [Topics](../../../../topics.md) > Features > Transportation > [Vehicles](../../../../topics/features/transportation/vehicles.md) > Cyber Wagon
+# [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > Transportation > [Vehicles](../../../../topics/features/transportation/vehicles.md) > Cyber Wagon
+
+## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
+* Q&A: Can you program the Cyber Wagon? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=5524&end=5527](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=5524&end=5527)
+* Q&A: Is that a Cyber Truck? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=5526&end=5538](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=5526&end=5538)
 
 ## August 10th, 2021 Livestream
 * [Q&A: Flying Cyber Wagon?](../../../../transcriptions/yt-MEubHHz2-Rw.md) [https://www.youtube.com/watch?v=MEubHHz2-Rw](https://www.youtube.com/watch?v=MEubHHz2-Rw)

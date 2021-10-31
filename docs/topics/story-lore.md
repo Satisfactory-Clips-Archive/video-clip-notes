@@ -7,6 +7,11 @@ date: Last Modified
 * [Characters](../topics/story-lore/characters.md)
 * [Project Assembly](../topics/story-lore/project-assembly.md)
 
+## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
+* Hannah & Snutt Talk: Prototyping 1.0 [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=10340&end=10445](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=10340&end=10445)
+* Q&A: Does Hannah get a sense of trepidation when going from World design to Narrative design? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=10444&end=10472](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=10444&end=10472)
+* Jace, Torsten, Hannah, and Snutt: Jace's phone rings early [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=10469&end=10581](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=10469&end=10581)
+
 ## September 28th, 2021 Livestream
 * [Q&A: What's the state of the Story?](../transcriptions/yt-gxRkjiYNeXc.md) [https://www.youtube.com/watch?v=gxRkjiYNeXc](https://www.youtube.com/watch?v=gxRkjiYNeXc)
 * [Q&A: State of Story?](../transcriptions/yt-5Miaujx7O3A.md) [https://www.youtube.com/watch?v=5Miaujx7O3A](https://www.youtube.com/watch?v=5Miaujx7O3A)

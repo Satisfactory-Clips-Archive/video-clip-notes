@@ -3,7 +3,7 @@ title: "Battle Royale"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEoPhqRIy60XVEui9X3o6p0S
 date: Last Modified
 ---
-# [Topics](../../../../topics.md) > Features > Possible Features > [Game Modes](../../../../topics/features/possible-features/game-modes.md) > Battle Royale
+# [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > Possible Features > [Game Modes](../../../../topics/features/possible-features/game-modes.md) > Battle Royale
 
 ## August 10th, 2021 Livestream
 * [Q&A: Battle Royale mode with only Nobelisk Detonators?](../../../../transcriptions/yt-815wYM_Z6_Q.md) [https://www.youtube.com/watch?v=815wYM_Z6_Q](https://www.youtube.com/watch?v=815wYM_Z6_Q)

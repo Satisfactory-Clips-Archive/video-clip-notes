@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Environment](../../topics/environment.md) > Resource Wells
 
+## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
+* Q&A: Getting water from Resource Wells, underrated/overrated? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=7869&end=7899](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=7869&end=7899)
+
 ## March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary
 * [Snutt & Jace Talk: Setting up the in-game Drone shots](../../transcriptions/yt-uiFxBhKJuv4.md) [https://www.youtube.com/watch?v=uiFxBhKJuv4](https://www.youtube.com/watch?v=uiFxBhKJuv4)
 

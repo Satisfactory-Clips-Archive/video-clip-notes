@@ -7,6 +7,23 @@ date: Last Modified
 * ["Fix Jace" QA Site Posts](../../topics/coffee-stainers/jace/fix-jace-qa-site-posts.md)
 * [Jace Art](../../topics/coffee-stainers/jace/jace-art.md)
 
+## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
+* Snutt & Jace Talk: Bisexual Finger Guns (Part 1) [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=652&end=662](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=652&end=662)
+* Snutt & Jace Talk: Bisexual Finger Guns (Part 2) [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=2689&end=2738](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=2689&end=2738)
+* Tobias, Snutt, and Jace Talk: Jace says the line [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=3079&end=3160](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=3079&end=3160)
+* Community FYI: Jace and Caesar have the same hair [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=9236&end=9247](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=9236&end=9247)
+* Q&A: Tell us your favourite part about working for Coffee Stain? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=9316&end=9388](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=9316&end=9388)
+* Snutt & Jace Talk: Experiences applying to work at Coffee Stain [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=9454&end=9498](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=9454&end=9498)
+* Q&A: Are you going open up and allow custom Maps at some point? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=10580&end=10610](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=10580&end=10610)
+* Jace & Torsten Talk: Complimenting each other's Art [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=10671&end=10716](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=10671&end=10716)
+* Jace, Torsten, Hannah, and Snutt Talk: 2.5 minutes left on the Art [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=10976&end=11099](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=10976&end=11099)
+* Snutt & Jace Talk: Professional™ Community Managers [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=14354&end=14383](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=14354&end=14383)
+* Q&A: Are you nervous about the Update 5 Patch Notes Video reveal? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=14382&end=14410](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=14382&end=14410)
+* Jace Talk: HAHAHAHAHA No. [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=15101&end=15104](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=15101&end=15104)
+* Jace Talk: FUCK GOLF! [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=15450&end=15453](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=15450&end=15453)
+* Jace Talk: Golf sucks [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=16129&end=16132](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=16129&end=16132)
+* End Tag [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=16911&end=16918](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=16911&end=16918)
+
 ## October 19th, 2021 Livestream
 * [Community FYI: Jace is sun tanned, is strange](../../transcriptions/yt-rUIQlG9zVYg.md) [https://www.youtube.com/watch?v=rUIQlG9zVYg](https://www.youtube.com/watch?v=rUIQlG9zVYg)
 * [Community FYI: These streams are always so much fun](../../transcriptions/yt-rdou33IWFJs.md) [https://www.youtube.com/watch?v=rdou33IWFJs](https://www.youtube.com/watch?v=rdou33IWFJs)

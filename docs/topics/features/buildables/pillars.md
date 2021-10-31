@@ -3,7 +3,7 @@ title: "Pillars"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEr7u2HkV8x8-1lzS6wvH9fr
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Pillars
+# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildables](../../../topics/features/buildables.md) > Pillars
 
 ## October 15th, 2021 Video
 * [Jace Talk: Build Pillars down from Train Lines](../../../transcriptions/yt-jTIAMuPqSlI,218.95206666666667,252.51893333333334.md) [https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=218&end=253](https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=218&end=253)

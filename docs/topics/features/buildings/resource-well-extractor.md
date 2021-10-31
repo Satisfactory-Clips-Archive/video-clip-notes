@@ -3,7 +3,7 @@ title: "Resource Well Extractor"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEr_8eU2Hmzfvu1fyz46917f
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > Resource Well Extractor
+# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > Resource Well Extractor
 
 ## March 16th, 2021 Livestream
 * [We're also adding Nitrogen Gas](../../../transcriptions/yt-Dp77ih_XmkY,163.625,185.58333333333334.md) [https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=163&end=186](https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=163&end=186)

@@ -25,3 +25,6 @@ date: Last Modified
 * [Transportation](../topics/features/transportation.md)
 * [Unplanned Features](../topics/features/unplanned-features.md)
 * [Unreleased Features](../topics/features/unreleased-features.md)
+
+## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
+* Q&A: Tell us your favourite part about working for Coffee Stain? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=9316&end=9388](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=9316&end=9388)

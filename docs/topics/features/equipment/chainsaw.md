@@ -3,7 +3,7 @@ title: "Chainsaw"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEqIkJnV32EKANow9vvvZtgO
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Features > [Equipment](../../../topics/features/equipment.md) > Chainsaw
+# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Equipment](../../../topics/features/equipment.md) > Chainsaw
 
 ## September 21st, 2021 Livestream
 * [Q&A: Chainsaw melee when?](../../../transcriptions/yt-3wiy2WlDVNY.md) [https://www.youtube.com/watch?v=3wiy2WlDVNY](https://www.youtube.com/watch?v=3wiy2WlDVNY)

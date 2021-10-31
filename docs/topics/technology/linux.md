@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > Linux
 
+## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
+* Q&A: Will they be on Linux? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=16579&end=16588](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=16579&end=16588)
+
 ## October 5th, 2021 Livestream
 * [Q&A: Server Hosting on Linux?](../../transcriptions/yt-L0KTZCuWT_E.md) [https://www.youtube.com/watch?v=L0KTZCuWT_E](https://www.youtube.com/watch?v=L0KTZCuWT_E)
 

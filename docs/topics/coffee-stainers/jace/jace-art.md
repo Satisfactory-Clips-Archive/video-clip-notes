@@ -5,6 +5,19 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Coffee Stainers](../../../topics/coffee-stainers.md) > [Jace](../../../topics/coffee-stainers/jace.md) > Jace Art
 
+## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
+* Jace Talk: Art Giveaway, Jace vs. Torsten [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=9958&end=9994](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=9958&end=9994)
+* Q&A: What should Jace & Torsten draw? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=9993&end=10151](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=9993&end=10151)
+* Q&A: Do we set a time limit? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=10150&end=10188](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=10150&end=10188)
+* Q&A: Are you going open up and allow custom Maps at some point? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=10580&end=10610](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=10580&end=10610)
+* Jace & Torsten Talk: Complimenting each other's Art [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=10671&end=10716](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=10671&end=10716)
+* Jace, Torsten, Hannah, and Snutt Talk: 2.5 minutes left on the Art [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=10976&end=11099](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=10976&end=11099)
+* Jace, Torsten, Hannah, and Snutt Talk: Art reveal [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=11098&end=11264](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=11098&end=11264)
+* Jace, Torsten, Hannah, and Snutt Talk: Art giveaway (Part 1) [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=11264&end=11329](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=11264&end=11329)
+* Jace, Torsten, Hannah, and Snutt Talk: Art giveaway (Part 2) [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=11442&end=11889](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=11442&end=11889)
+* Jace, Torsten, Hannah, and Snutt Talk: Art giveaway (Part 3) [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=11899&end=12084](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=11899&end=12084)
+* Snutt & Jace Talk: Showing off the completed Art again [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=12480&end=12601](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=12480&end=12601)
+
 ## September 17th, 2021 Video
 * [Jace Talk: Yum Dawg Merch](../../../transcriptions/yt-HJyfSle4o_U,,4.5045.md) [https://youtube.com/clip/Ugkx12Ctz9Bmf6NoZ3xxk5DKcC8gNcu9k_Kt](https://youtube.com/clip/Ugkx12Ctz9Bmf6NoZ3xxk5DKcC8gNcu9k_Kt)
 

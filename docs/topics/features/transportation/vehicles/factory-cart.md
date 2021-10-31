@@ -3,7 +3,11 @@ title: "Factory Cart"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEolepny6NyMIt3ItHySMb-x
 date: Last Modified
 ---
-# [Topics](../../../../topics.md) > Features > Transportation > [Vehicles](../../../../topics/features/transportation/vehicles.md) > Factory Cart
+# [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > Transportation > [Vehicles](../../../../topics/features/transportation/vehicles.md) > Factory Cart
+
+## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
+* Snutt & Jace Talk: Factory Cart racing stream [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=2975&end=3002](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=2975&end=3002)
+* Rasmus, Snutt, and Jace Talk: You can automate Factory Carts as well [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=5537&end=5620](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=5537&end=5620)
 
 ## October 19th, 2021 Livestream
 * [Q&A: Can you kickflip the Factory Cart?](../../../../transcriptions/yt-9DPH8dxJkA8.md) [https://www.youtube.com/watch?v=9DPH8dxJkA8](https://www.youtube.com/watch?v=9DPH8dxJkA8)

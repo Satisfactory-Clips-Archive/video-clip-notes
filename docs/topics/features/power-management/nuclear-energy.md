@@ -3,7 +3,7 @@ title: "Nuclear Energy"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEqykvbeU5B1yvLZ3EI1NSC6
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Features > [Power Management](../../../topics/features/power-management.md) > Nuclear Energy
+# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Power Management](../../../topics/features/power-management.md) > Nuclear Energy
 * [Nuclear Refinement](../../../topics/features/power-management/nuclear-energy/nuclear-refinement.md)
 * [Nuclear Waste](../../../topics/features/power-management/nuclear-energy/nuclear-waste.md)
 

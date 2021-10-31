@@ -3,7 +3,7 @@ title: "Resource Well Pressurizer"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEosnfIbQBLgkkxOx-UNe6t8
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > Resource Well Pressurizer
+# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > Resource Well Pressurizer
 
 ## June 22nd, 2021 Livestream
 * [Snutt & Torsten Talk: Concept Art - Resource Well Pressurizer](../../../transcriptions/yt-bXkX3Vwy_Xg.md) [https://www.youtube.com/watch?v=bXkX3Vwy_Xg](https://www.youtube.com/watch?v=bXkX3Vwy_Xg)

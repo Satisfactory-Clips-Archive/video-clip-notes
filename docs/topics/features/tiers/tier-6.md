@@ -3,7 +3,7 @@ title: "Tier 6"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEp40Wz_gOPUUxdAb9fDf9QG
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Features > [Tiers](../../../topics/features/tiers.md) > Tier 6
+# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Tiers](../../../topics/features/tiers.md) > Tier 6
 
 ## July 20th, 2021 Livestream
 * [Q&A: Can we have stronger monsters in the game, at Tier 5/6 they hardly challenge you in building](../../../transcriptions/yt-CjX7Sti2AJo.md) [https://www.youtube.com/watch?v=CjX7Sti2AJo](https://www.youtube.com/watch?v=CjX7Sti2AJo)

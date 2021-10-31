@@ -9,10 +9,9 @@ topics:
 ## Q&A: Now that you have big boy office are you planning on hiring a lot more people to fill it out?
 https://www.youtube.com/watch?v=iqGA8u7MmMM
 <details>
-<summary>This question may have been asked previously at least 5 other times, as recently as December 2020 and as early as February 2019.</summary>
+<summary>This question may have been asked previously at least 4 other times, as recently as December 2020 and as early as February 2019.</summary>
 
 * [December 15th, 2020 Livestream Q&A: Are you hiring new devs?](./yt-KO7cDlkMYxM.md) [https://www.youtube.com/watch?v=KO7cDlkMYxM](https://www.youtube.com/watch?v=KO7cDlkMYxM)
-* [December 8th, 2020 Livestream Q&A: Are Coffee Stain looking for Unreal Engine programmers - do you hire remotely?](./yt-sI7zMjVad1c.md) [https://www.youtube.com/watch?v=sI7zMjVad1c](https://www.youtube.com/watch?v=sI7zMjVad1c)
 * [March 24th, 2020 Livestream Q&A: You have several job openings right now?](./yt-lqRP7DsUVes.md) [https://www.youtube.com/watch?v=lqRP7DsUVes](https://www.youtube.com/watch?v=lqRP7DsUVes)
 * [February 20th, 2019 Livestream Q&A: Where do you apply?](./yt-CB9bSigNYH8,3825.28082,3844.546451.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3825&end=3845](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3825&end=3845)
 * [February 6th, 2019 Livestream Q&A: Job Opportunities?](./yt-Dtm6xIj-wM4,567.312526,585.24344.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=567&end=586](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=567&end=586)

@@ -3,7 +3,7 @@ title: "Power Switch"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEr-AG-93Qqd43nuzOUIcufC
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Features > [Power Management](../../../topics/features/power-management.md) > Power Switch
+# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Power Management](../../../topics/features/power-management.md) > Power Switch
 
 ## May 11th, 2021 Livestream
 * [Q&A: What happened with Priority Switches?](../../../transcriptions/yt-p-3nFsRAtBI.md) [https://www.youtube.com/watch?v=p-3nFsRAtBI](https://www.youtube.com/watch?v=p-3nFsRAtBI)

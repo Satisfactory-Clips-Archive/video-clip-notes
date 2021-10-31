@@ -3,7 +3,7 @@ title: "Gas Mask"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEqQq_lP1_OYqhjcEng5hkOx
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Features > [Equipment](../../../topics/features/equipment.md) > Gas Mask
+# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Equipment](../../../topics/features/equipment.md) > Gas Mask
 
 ## September 21st, 2021 Livestream
 * [Q&A: Gas Mask in Vehicles?](../../../transcriptions/yt-_gjOkEU1pwI.md) [https://www.youtube.com/watch?v=_gjOkEU1pwI](https://www.youtube.com/watch?v=_gjOkEU1pwI)

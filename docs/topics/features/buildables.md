@@ -3,7 +3,7 @@ title: "Buildables"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEp9DQ8xVeTCFqcFSLB_9tJj
 date: Last Modified
 ---
-# [Topics](../../topics.md) > Features > Buildables
+# [Topics](../../topics.md) > [Features](../../topics/features.md) > Buildables
 * [Beams](../../topics/features/buildables/beams.md)
 * [Conveyor Belts](../../topics/features/buildables/conveyor-belts.md)
 * [Foundations](../../topics/features/buildables/foundations.md)
@@ -17,6 +17,10 @@ date: Last Modified
 * [Walkways](../../topics/features/buildables/walkways.md)
 * [Walls](../../topics/features/buildables/walls.md)
 * [Windows](../../topics/features/buildables/windows.md)
+
+## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
+* Tobias, Snutt, and Jace Talk: New players will be spoiled [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=3347&end=3442](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=3347&end=3442)
+* Snutt & Jace Talk: Reception to the cosmetic Buildables video [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=14298&end=14355](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=14298&end=14355)
 
 ## October 19th, 2021 Livestream
 * [Snutt & Jace Talk: Update 5 Build system improvements](../../transcriptions/yt-b6oCNvKP844.md) [https://www.youtube.com/watch?v=b6oCNvKP844](https://www.youtube.com/watch?v=b6oCNvKP844)

@@ -3,7 +3,7 @@ title: "DLC"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEqn_GaVtEJZl0kP0-zlNlDa
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Features > Possible Features > DLC
+# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > Possible Features > DLC
 * [Flushable Toilet DLC](../../../topics/features/possible-features/dlc/flushable-toilet-dlc.md)
 * [Toilet Paper DLC](../../../topics/features/possible-features/dlc/toilet-paper-dlc.md)
 

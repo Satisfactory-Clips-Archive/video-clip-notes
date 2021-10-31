@@ -3,7 +3,7 @@ title: "Requested Features"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEpOl-wg1r4-qo3TyvXUy-ev
 date: Last Modified
 ---
-# [Topics](../../topics.md) > Features > Requested Features
+# [Topics](../../topics.md) > [Features](../../topics/features.md) > Requested Features
 * [Crossovers](../../topics/features/requested-features/crossovers.md)
 * [Elevators](../../topics/features/requested-features/elevators.md)
 * [Global Build Grid](../../topics/features/requested-features/global-build-grid.md)
@@ -13,6 +13,9 @@ date: Last Modified
 * [PionR](../../topics/features/requested-features/pionr.md)
 * [Pollution](../../topics/features/requested-features/pollution.md)
 * [Third-person View](../../topics/features/requested-features/third-person-view.md)
+
+## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
+* Tobias, Snutt, and Jace Talk: Train Elevators [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=3996&end=4065](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=3996&end=4065)
 
 ## October 19th, 2021 Livestream
 * [Q&A: Any plans on a two-in, two-out Splitter/Merge combo?](../../transcriptions/yt-rH0er8LCSQM.md) [https://www.youtube.com/watch?v=rH0er8LCSQM](https://www.youtube.com/watch?v=rH0er8LCSQM)

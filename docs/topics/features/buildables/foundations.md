@@ -3,7 +3,7 @@ title: "Foundations"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEq1lyHQw0wVik2U0W0lmO1p
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Foundations
+# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildables](../../../topics/features/buildables.md) > Foundations
 * [Cheatcrete](../../../topics/features/buildables/foundations/cheatcrete.md)
 
 ## October 19th, 2021 Livestream

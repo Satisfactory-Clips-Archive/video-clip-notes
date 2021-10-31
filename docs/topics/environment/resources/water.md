@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Resources](../../../topics/environment/resources.md) > Water
 
+## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
+* Q&A: Getting water from Resource Wells, underrated/overrated? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=7869&end=7899](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=7869&end=7899)
+
 ## August 31st, 2021 Livestream
 * Snutt & Jace Talk: Screenspace reflections & water updates [https://www.youtube.com/watch?v=DsE2x1rEfIw](https://www.youtube.com/watch?v=DsE2x1rEfIw)
 

@@ -3,7 +3,7 @@ title: "Base Defense"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEqp_c5jfKfMjjFOjbTAWrFE
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Features > [Unplanned Features](../../../topics/features/unplanned-features.md) > Base Defense
+# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Unplanned Features](../../../topics/features/unplanned-features.md) > Base Defense
 
 ## October 12th, 2021 Livestream
 * [Q&A: Can you confirm Laser auto Towers in Update 5 Tier 10?](../../../transcriptions/yt-v4vyUvsJq5E.md) [https://www.youtube.com/watch?v=v4vyUvsJq5E](https://www.youtube.com/watch?v=v4vyUvsJq5E)

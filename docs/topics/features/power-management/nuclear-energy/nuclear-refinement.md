@@ -3,7 +3,10 @@ title: "Nuclear Refinement"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEq8_QoVM--eNIMMoOq1IlfE
 date: Last Modified
 ---
-# [Topics](../../../../topics.md) > Features > [Power Management](../../../../topics/features/power-management.md) > [Nuclear Energy](../../../../topics/features/power-management/nuclear-energy.md) > Nuclear Refinement
+# [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > [Power Management](../../../../topics/features/power-management.md) > [Nuclear Energy](../../../../topics/features/power-management/nuclear-energy.md) > Nuclear Refinement
+
+## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
+* Q&A: Plutonium Fuel actually used for Power, underrated/overrated? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=7615&end=7680](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=7615&end=7680)
 
 ## September 14th, 2021 Livestream
 * [Q&A: If and when Dedicated Servers go live, how will Nuclear Power & Nuclear Waste work?](../../../../transcriptions/yt-g4VNWQOeiyw.md) [https://www.youtube.com/watch?v=g4VNWQOeiyw](https://www.youtube.com/watch?v=g4VNWQOeiyw)

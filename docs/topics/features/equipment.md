@@ -3,7 +3,7 @@ title: "Equipment"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEpZqJYXU-zIKp_92qIaMC3F
 date: Last Modified
 ---
-# [Topics](../../topics.md) > Features > Equipment
+# [Topics](../../topics.md) > [Features](../../topics/features.md) > Equipment
 * [Blade Runners](../../topics/features/equipment/blade-runners.md)
 * [Chainsaw](../../topics/features/equipment/chainsaw.md)
 * [Color Gun](../../topics/features/equipment/color-gun.md)
@@ -13,6 +13,15 @@ date: Last Modified
 * [Jetpack](../../topics/features/equipment/jetpack.md)
 * [Rifle](../../topics/features/equipment/rifle.md)
 * [Zip Lines](../../topics/features/equipment/zip-lines.md)
+
+## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
+* Q&A: Parachutes, underrated/overrated? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=7560&end=7597](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=7560&end=7597)
+* Q&A: Nobelisks, underrated/overrated? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=7596&end=7618](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=7596&end=7618)
+* Snutt & Jace Talk: Lizard Doggo Plush [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=8987&end=9022](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=8987&end=9022)
+* Snutt & Jace Talk: Xenobasher replica (Part 1) [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=9021&end=9050](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=9021&end=9050)
+* Snutt & Jace Talk: Xenobasher replica (Part 2) [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=9052&end=9166](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=9052&end=9166)
+* Community FYI: Check the kickstarter [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=11327&end=11398](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=11327&end=11398)
+* Q&A: Can we paint Trains? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=16648&end=16655](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=16648&end=16655)
 
 ## October 19th, 2021 Livestream
 * [Q&A: Are the new Walls bought from the AWESOME Shop?](../../transcriptions/yt-OYF68hbYpnA.md) [https://www.youtube.com/watch?v=OYF68hbYpnA](https://www.youtube.com/watch?v=OYF68hbYpnA)

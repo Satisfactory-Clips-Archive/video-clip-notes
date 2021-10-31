@@ -3,7 +3,7 @@ title: "Global Build Grid"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEr68wcM_BJQsE35xXzjmwqX
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Features > [Requested Features](../../../topics/features/requested-features.md) > Global Build Grid
+# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Requested Features](../../../topics/features/requested-features.md) > Global Build Grid
 
 ## October 19th, 2021 Livestream
 * [Q&A: Ever thought about a general grid overlay rather than just eyeballing it?](../../../transcriptions/yt-prxWjP-hNdw.md) [https://www.youtube.com/watch?v=prxWjP-hNdw](https://www.youtube.com/watch?v=prxWjP-hNdw)

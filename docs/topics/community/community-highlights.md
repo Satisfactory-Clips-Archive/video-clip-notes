@@ -5,6 +5,20 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Community Highlights
 
+## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
+* Coffee Stainer Talk: Golf (Part 4) [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=2622&end=2690](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=2622&end=2690)
+* Snutt & Jace Talk: Bisexual Finger Guns (Part 2) [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=2689&end=2738](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=2689&end=2738)
+* Snutt & Jace Talk: The last Community Highlights before Update 5 [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=2766&end=2867](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=2766&end=2867)
+* Q&A: Are you a ceiling builder, Tobias? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=2901&end=2944](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=2901&end=2944)
+* Snutt & Jace Talk: Factory Cart racing stream [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=2975&end=3002](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=2975&end=3002)
+* Q&A: How far has Tobias gotten in Satisfactory? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=3037&end=3070](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=3037&end=3070)
+* Tobias, Snutt, and Jace Talk: Jace says the line [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=3079&end=3160](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=3079&end=3160)
+* Tobias, Snutt, and Jace Talk: Pre-pipes & pre-lifts build [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=3252&end=3323](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=3252&end=3323)
+* Q&A: What was the first version of the game Tobias played? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=3322&end=3348](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=3322&end=3348)
+* Tobias, Snutt, and Jace Talk: New players will be spoiled [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=3347&end=3442](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=3347&end=3442)
+* Tobias, Snutt, and Jace Talk: Train Elevators [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=3996&end=4065](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=3996&end=4065)
+* Q&A: Will you be looking for Update 5-specific Community Highlights next week? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=14564&end=14625](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=14564&end=14625)
+
 ## October 19th, 2021 Livestream
 * [Jace Talk: HelloFresh again](../../transcriptions/yt-CPfPUf1zmK4.md) [https://www.youtube.com/watch?v=CPfPUf1zmK4](https://www.youtube.com/watch?v=CPfPUf1zmK4)
 * [Snutt & Jace Talk: The approach for building stuff for the Update 5 Patch Notes Video](../../transcriptions/yt-9KUYeH8gY90.md) [https://www.youtube.com/watch?v=9KUYeH8gY90](https://www.youtube.com/watch?v=9KUYeH8gY90)

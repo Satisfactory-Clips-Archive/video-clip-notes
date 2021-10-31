@@ -3,7 +3,7 @@ title: "Quick Switch"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiErGzhsUN4suUKqAYQpEPrbm
 date: Last Modified
 ---
-# [Topics](../../../../topics.md) > Features > Planned Features > [Build Modes](../../../../topics/features/planned-features/build-modes.md) > Quick Switch
+# [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > Planned Features > [Build Modes](../../../../topics/features/planned-features/build-modes.md) > Quick Switch
 
 ## September 7th, 2021 Livestream
 * [Q&A: When building Belts, can we Quick Switch from normal Conveyor Poles to Stackable Poles?](../../../../transcriptions/yt--omR1EfS5EE.md) [https://www.youtube.com/watch?v=-omR1EfS5EE](https://www.youtube.com/watch?v=-omR1EfS5EE)

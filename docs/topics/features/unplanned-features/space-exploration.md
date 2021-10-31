@@ -3,7 +3,7 @@ title: "Space Exploration"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEpT_HG6yiXztZ5oNXPOutgR
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Features > [Unplanned Features](../../../topics/features/unplanned-features.md) > Space Exploration
+# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Unplanned Features](../../../topics/features/unplanned-features.md) > Space Exploration
 
 ## October 19th, 2021 Livestream
 * [Community FYI: Update 6, Space Trains](../../../transcriptions/yt-DdIhLIUK-es.md) [https://www.youtube.com/watch?v=DdIhLIUK-es](https://www.youtube.com/watch?v=DdIhLIUK-es)

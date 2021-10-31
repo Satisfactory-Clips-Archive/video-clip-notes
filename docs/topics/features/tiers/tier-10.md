@@ -3,7 +3,7 @@ title: "Tier 10"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEqf1Wl9_sGGwfZG55fsCNbS
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Features > [Tiers](../../../topics/features/tiers.md) > Tier 10
+# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Tiers](../../../topics/features/tiers.md) > Tier 10
 
 ## October 12th, 2021 Livestream
 * [Q&A: Can you confirm Laser auto Towers in Update 5 Tier 10?](../../../transcriptions/yt-v4vyUvsJq5E.md) [https://www.youtube.com/watch?v=v4vyUvsJq5E](https://www.youtube.com/watch?v=v4vyUvsJq5E)

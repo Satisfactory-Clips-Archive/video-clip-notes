@@ -5,6 +5,15 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Embracer Group](../../../topics/embracer-group.md) > Coffee Stain Holding > Coffee Stain Studios
 
+## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
+* Snutt & Jace Talk: Streaming from the new office for the first time [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=661&end=787](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=661&end=787)
+* Q&A: Is Coffee Stain still 20% Dutch? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=1406&end=1427](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=1406&end=1427)
+* Snutt & Jace Talk: New office is still being renovated [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=2218&end=2331](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=2218&end=2331)
+* Q&A: Tell us your favourite part about working for Coffee Stain? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=9316&end=9388](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=9316&end=9388)
+* Snutt & Jace Talk: Hiring for a Generalist Game Designger to work on Satisfactory [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=9388&end=9427](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=9388&end=9427)
+* Q&A: Are you hiring abroad as well? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=9426&end=9455](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=9426&end=9455)
+* Snutt & Jace Talk: Experiences applying to work at Coffee Stain [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=9454&end=9498](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=9454&end=9498)
+
 ## October 19th, 2021 Livestream
 * [Community FYI: CSS doesn't look for programmers, they already demoted Snutt to Community Manager](../../../transcriptions/yt-vStgG46N-Jk.md) [https://www.youtube.com/watch?v=vStgG46N-Jk](https://www.youtube.com/watch?v=vStgG46N-Jk)
 * [Q&A: How was the VICE interview?](../../../transcriptions/yt-3ru8jpD4xFk.md) [https://www.youtube.com/watch?v=3ru8jpD4xFk](https://www.youtube.com/watch?v=3ru8jpD4xFk)

@@ -3,7 +3,11 @@ title: "Railings"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEqASInsJuI3DFUgB2Tzv01M
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Railings
+# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildables](../../../topics/features/buildables.md) > Railings
+
+## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
+* Community FYI: Ramp Rails are stupid [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=13955&end=13960](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=13955&end=13960)
+* Community FYI: Ramp Rails video was S+ Tier Marketing [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=13984&end=14004](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=13984&end=14004)
 
 ## September 7th, 2021 Livestream
 * [Q&A: Will Ramp versions be able to be half as well?](../../../transcriptions/yt-ClOiLPOWYVI.md) [https://www.youtube.com/watch?v=ClOiLPOWYVI](https://www.youtube.com/watch?v=ClOiLPOWYVI)

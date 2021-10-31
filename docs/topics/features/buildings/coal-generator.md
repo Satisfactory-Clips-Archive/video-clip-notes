@@ -3,7 +3,7 @@ title: "Coal Generator"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEr1rRsrKhfeFO8lpQ3ETpbe
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > Coal Generator
+# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > Coal Generator
 
 ## June 1st, 2021 Livestream
 * [Snutt & Jace Talk: Setting up a Coal Generator (Part 1)](../../../transcriptions/yt-cmDE_ThXeUk.md) [https://www.youtube.com/watch?v=cmDE_ThXeUk](https://www.youtube.com/watch?v=cmDE_ThXeUk)

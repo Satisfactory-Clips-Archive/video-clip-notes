@@ -3,7 +3,11 @@ title: "Conveyor Belts"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEp3QMTxKRnehenCwo17MuJy
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Conveyor Belts
+# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildables](../../../topics/features/buildables.md) > Conveyor Belts
+
+## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
+* Tobias, Snutt, and Jace Talk: Pre-pipes & pre-lifts build [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=3252&end=3323](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=3252&end=3323)
+* Q&A: Smart Splitters, underrated/overrated? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=7904&end=7957](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=7904&end=7957)
 
 ## October 19th, 2021 Livestream
 * Q&A: Will Splitter and Pipe snapping be limited to Machine inputs? [https://www.youtube.com/watch?v=aGn0uLx_wSw](https://www.youtube.com/watch?v=aGn0uLx_wSw)

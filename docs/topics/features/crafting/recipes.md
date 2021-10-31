@@ -3,7 +3,7 @@ title: "Recipes"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiErp1tjQWToGbsDM6fsjInME
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Features > [Crafting](../../../topics/features/crafting.md) > Recipes
+# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Crafting](../../../topics/features/crafting.md) > Recipes
 * [Alternate Recipes](../../../topics/features/crafting/recipes/alternate-recipes.md)
 
 ## September 28th, 2021 Livestream

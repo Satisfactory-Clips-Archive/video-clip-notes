@@ -3,7 +3,7 @@ title: "Buildings"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEqhhpjoy5eqGRQQGUItie6A
 date: Last Modified
 ---
-# [Topics](../../topics.md) > Features > Buildings
+# [Topics](../../topics.md) > [Features](../../topics/features.md) > Buildings
 * [Assembler](../../topics/features/buildings/assembler.md)
 * [AWESOME Sink](../../topics/features/buildings/awesome-sink.md)
 * [AWESOME Store](../../topics/features/buildings/awesome-store.md)
@@ -25,6 +25,9 @@ date: Last Modified
 * [Space Elevator](../../topics/features/buildings/space-elevator.md)
 * [The HUB](../../topics/features/buildings/the-hub.md)
 * [Water Extractor](../../topics/features/buildings/water-extractor.md)
+
+## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
+* Q&A: What happens if a Vehicle is refueling at a Truck Station and another Vehicle comes along? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=5120&end=5375](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=5120&end=5375)
 
 ## October 19th, 2021 Livestream
 * [Q&A: Can Machines be rotated like Foundations in Update 5?](../../transcriptions/yt-94G4znvDbiA.md) [https://www.youtube.com/watch?v=94G4znvDbiA](https://www.youtube.com/watch?v=94G4znvDbiA)

@@ -3,7 +3,7 @@ title: "Tiers"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEqOZ_KZZ80tAfzJmF5RNakK
 date: Last Modified
 ---
-# [Topics](../../topics.md) > Features > Tiers
+# [Topics](../../topics.md) > [Features](../../topics/features.md) > Tiers
 * [Tier 0](../../topics/features/tiers/tier-0.md)
 * [Tier 1](../../topics/features/tiers/tier-1.md)
 * [Tier 2](../../topics/features/tiers/tier-2.md)

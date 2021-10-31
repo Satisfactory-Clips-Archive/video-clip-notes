@@ -3,7 +3,7 @@ title: "Blueprints"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEpUuYgu0-pxFGsbN2YXpbOP
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Features > Possible Features > Blueprints
+# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > Possible Features > Blueprints
 
 ## September 28th, 2021 Livestream
 * [Q&A: Are you guys putting any form of Blueprinting into the game?](../../../transcriptions/yt-LdNJwc9xclw.md) [https://www.youtube.com/watch?v=LdNJwc9xclw](https://www.youtube.com/watch?v=LdNJwc9xclw)

@@ -3,7 +3,10 @@ title: "Pipes"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEr5Ks1V8bqkO3qCZeI796Xk
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Features > [Fluids](../../../topics/features/fluids.md) > Pipes
+# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Fluids](../../../topics/features/fluids.md) > Pipes
+
+## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
+* Tobias, Snutt, and Jace Talk: Pre-pipes & pre-lifts build [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=3252&end=3323](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=3252&end=3323)
 
 ## October 19th, 2021 Livestream
 * Q&A: Will Splitter and Pipe snapping be limited to Machine inputs? [https://www.youtube.com/watch?v=aGn0uLx_wSw](https://www.youtube.com/watch?v=aGn0uLx_wSw)

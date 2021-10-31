@@ -3,7 +3,7 @@ title: "Character Customisation"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiErakQW-p-n78uCwn21Irv7v
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Features > Possible Features > Character Customisation
+# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > Possible Features > Character Customisation
 
 ## August 24th, 2021 Livestream
 * [Q&A: Character Customisation?](../../../transcriptions/yt-5wiYaEfx0ro.md) [https://www.youtube.com/watch?v=5wiYaEfx0ro](https://www.youtube.com/watch?v=5wiYaEfx0ro)

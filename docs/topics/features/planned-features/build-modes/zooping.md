@@ -3,7 +3,10 @@ title: "Zooping"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEo_Zh8wGap9N34W6DrbfWN-
 date: Last Modified
 ---
-# [Topics](../../../../topics.md) > Features > Planned Features > [Build Modes](../../../../topics/features/planned-features/build-modes.md) > Zooping
+# [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > Planned Features > [Build Modes](../../../../topics/features/planned-features/build-modes.md) > Zooping
+
+## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
+* Tobias, Snutt, and Jace Talk: New players will be spoiled [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=3347&end=3442](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=3347&end=3442)
 
 ## October 19th, 2021 Livestream
 * [Community FYI: We have Smart! at home](../../../../transcriptions/yt-k19vHBrDeT8.md) [https://www.youtube.com/watch?v=k19vHBrDeT8](https://www.youtube.com/watch?v=k19vHBrDeT8)

@@ -2,7 +2,7 @@
 title: "Possible Features"
 date: Last Modified
 ---
-# [Topics](../../topics.md) > Features > Possible Features
+# [Topics](../../topics.md) > [Features](../../topics/features.md) > Possible Features
 * [Blueprints](../../topics/features/possible-features/blueprints.md)
 * [Character Customisation](../../topics/features/possible-features/character-customisation.md)
 * [Console Release](../../topics/features/possible-features/console-release.md)

@@ -3,7 +3,7 @@ title: "Jetpack"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEogzZ5ihqFGBEDRmk9cEgAk
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Features > [Equipment](../../../topics/features/equipment.md) > Jetpack
+# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Equipment](../../../topics/features/equipment.md) > Jetpack
 
 ## September 7th, 2021 Livestream
 * [Q&A: Turbofuel in Jetpack?](../../../transcriptions/yt-g-Om6IBMBq0.md) [https://www.youtube.com/watch?v=g-Om6IBMBq0](https://www.youtube.com/watch?v=g-Om6IBMBq0)

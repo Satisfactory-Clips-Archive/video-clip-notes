@@ -3,7 +3,12 @@ title: "Fuel"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiErkd_Mfx2t-MUAbsERuK3fd
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Features > [Crafting](../../../topics/features/crafting.md) > Fuel
+# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Crafting](../../../topics/features/crafting.md) > Fuel
+
+## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
+* Q&A: Does Vehicle Ghosting or getting stuck contribute to Fuel consumption? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=5036&end=5121](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=5036&end=5121)
+* Q&A: What happens if a Vehicle is refueling at a Truck Station and another Vehicle comes along? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=5120&end=5375](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=5120&end=5375)
+* Q&A: Does every Truck need a Fuel supplier? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=5619&end=5758](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=5619&end=5758)
 
 ## September 21st, 2021 Livestream
 * [Q&A: What happens if an automated Vehicle runs out of Fuel?](../../../transcriptions/yt-RalQ17zg3tc.md) [https://www.youtube.com/watch?v=RalQ17zg3tc](https://www.youtube.com/watch?v=RalQ17zg3tc)

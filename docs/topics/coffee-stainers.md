@@ -37,6 +37,13 @@ date: Last Modified
 * [Torsten](../topics/coffee-stainers/torsten.md)
 * [Uzu](../topics/coffee-stainers/uzu.md)
 
+## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
+* Q&A: Is Coffee Stain still 20% Dutch? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=1406&end=1427](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=1406&end=1427)
+* Snutt & Jace Talk: Caesar, Office Doggo [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=9210&end=9237](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=9210&end=9237)
+* Community FYI: Jace and Caesar have the same hair [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=9236&end=9247](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=9236&end=9247)
+* Q&A: What's the process like in deciding who makes what? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=10703&end=10895](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=10703&end=10895)
+* Snutt & Jace Talk: Shoutout to the 'Stainers who joined [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=14801&end=14855](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=14801&end=14855)
+
 ## October 12th, 2021 Livestream
 * [Jace Talk: Shoutouts for Coffee Stainers implementing Update 5 features](../transcriptions/yt-OfbGW1Nb-XI.md) [https://www.youtube.com/watch?v=OfbGW1Nb-XI](https://www.youtube.com/watch?v=OfbGW1Nb-XI)
 

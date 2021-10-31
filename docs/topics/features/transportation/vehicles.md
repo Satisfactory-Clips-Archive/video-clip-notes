@@ -3,7 +3,7 @@ title: "Vehicles"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEr97STV5beB_aCFM6jZaVDL
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Features > Transportation > Vehicles
+# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > Transportation > Vehicles
 * [Autopilot](../../../topics/features/transportation/vehicles/autopilot.md)
 * [Cyber Wagon](../../../topics/features/transportation/vehicles/cyber-wagon.md)
 * [Drones](../../../topics/features/transportation/vehicles/drones.md)
@@ -11,6 +11,17 @@ date: Last Modified
 * [Factory Cart](../../../topics/features/transportation/vehicles/factory-cart.md)
 * [Tractor](../../../topics/features/transportation/vehicles/tractor.md)
 * [Truck](../../../topics/features/transportation/vehicles/truck.md)
+
+## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
+* Rasmus & Jace Talk: Improvements to Vehicles in Update 5 [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=4456&end=4634](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=4456&end=4634)
+* Rasmus, Snutt, and Jace Talk: Vehicles getting stuck below the map [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=4633&end=4910](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=4633&end=4910)
+* Rasmus, Snutt, and Jace Talk: Improving reliability of Vehicles [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=4909&end=5037](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=4909&end=5037)
+* Q&A: Does Vehicle Ghosting or getting stuck contribute to Fuel consumption? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=5036&end=5121](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=5036&end=5121)
+* Q&A: What happens if a Vehicle is refueling at a Truck Station and another Vehicle comes along? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=5120&end=5375](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=5120&end=5375)
+* Rasmus, Snutt, and Jace Talk: Vehicles will be more aware of other Vehicles [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=5374&end=5525](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=5374&end=5525)
+* Q&A: Does every Truck need a Fuel supplier? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=5619&end=5758](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=5619&end=5758)
+* Q&A: What if you manually jump into a Vehicle and disrupt the autopilot? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=5757&end=5835](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=5757&end=5835)
+* Q&A: Does queuing only work in one direction, or does it work bi-directionally? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=5868&end=5926](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=5868&end=5926)
 
 ## October 12th, 2021 Livestream
 * [Q&A: Will trucks ever despawn once they hit a certain height below the world?](../../../transcriptions/yt-hA8GRpYbA9M.md) [https://www.youtube.com/watch?v=hA8GRpYbA9M](https://www.youtube.com/watch?v=hA8GRpYbA9M)

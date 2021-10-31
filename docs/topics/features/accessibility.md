@@ -3,7 +3,7 @@ title: "Accessibility"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEpeblSG5B1RXiCAdeDiTQPp
 date: Last Modified
 ---
-# [Topics](../../topics.md) > Features > Accessibility
+# [Topics](../../topics.md) > [Features](../../topics/features.md) > Accessibility
 * [Arachnophobia Mode](../../topics/features/accessibility/arachnophobia-mode.md)
 
 ## May 28th, 2021 Dev Vlog

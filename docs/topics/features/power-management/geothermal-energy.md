@@ -3,7 +3,10 @@ title: "Geothermal Energy"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEq5jpYwmYkaBeX-9e9HSPYf
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Features > [Power Management](../../../topics/features/power-management.md) > Geothermal Energy
+# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Power Management](../../../topics/features/power-management.md) > Geothermal Energy
+
+## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
+* Q&A: Geothermal Generators, underrated/overrated? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=7679&end=7731](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=7679&end=7731)
 
 ## September 14th, 2021 Livestream
 * [Q&A: Are you guys happy with the state of Geothermal Generators?](../../../transcriptions/yt-Qf-63bFrhnM.md) [https://www.youtube.com/watch?v=Qf-63bFrhnM](https://www.youtube.com/watch?v=Qf-63bFrhnM)

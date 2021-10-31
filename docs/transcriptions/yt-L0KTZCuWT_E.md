@@ -9,6 +9,8 @@ topics:
 # [October 5th, 2021 Livestream](../2021-10-05.md)
 ## Q&A: Server Hosting on Linux?
 https://www.youtube.com/watch?v=L0KTZCuWT_E
+This question was possibly replaced with a more recent answer: October 26th, 2021 Update 5 Launch Stream and Patch Notes Video Q&A: Will they be on Linux? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=16579&end=16588](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=16579&end=16588)
+
 <details>
 <summary>This question may have been asked previously at least 12 other times, as recently as September 2021 and as early as March 2019.</summary>
 

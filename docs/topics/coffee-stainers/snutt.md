@@ -6,6 +6,16 @@ date: Last Modified
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Snutt
 * [Snutt Burger Time](../../topics/coffee-stainers/snutt/snutt-burger-time.md)
 
+## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
+* Snutt & Jace Talk: Bisexual Finger Guns (Part 1) [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=652&end=662](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=652&end=662)
+* Snutt & Jace Talk: Bisexual Finger Guns (Part 2) [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=2689&end=2738](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=2689&end=2738)
+* Snutt & Jace Talk: "Just flick the Balls" ~ Snutt, 2021 [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=8483&end=8518](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=8483&end=8518)
+* Q&A: Tell us your favourite part about working for Coffee Stain? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=9316&end=9388](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=9316&end=9388)
+* Snutt & Jace Talk: Experiences applying to work at Coffee Stain [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=9454&end=9498](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=9454&end=9498)
+* Snutt & Jace Talk: Professional™ Community Managers [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=14354&end=14383](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=14354&end=14383)
+* Q&A: Are you nervous about the Update 5 Patch Notes Video reveal? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=14382&end=14410](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=14382&end=14410)
+* End Tag [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=16911&end=16918](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=16911&end=16918)
+
 ## October 19th, 2021 Livestream
 * [Community FYI: These streams are always so much fun](../../transcriptions/yt-rdou33IWFJs.md) [https://www.youtube.com/watch?v=rdou33IWFJs](https://www.youtube.com/watch?v=rdou33IWFJs)
 * [Community FYI: CSS doesn't look for programmers, they already demoted Snutt to Community Manager](../../transcriptions/yt-vStgG46N-Jk.md) [https://www.youtube.com/watch?v=vStgG46N-Jk](https://www.youtube.com/watch?v=vStgG46N-Jk)

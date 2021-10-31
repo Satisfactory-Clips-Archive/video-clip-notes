@@ -5,6 +5,12 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > World Update
 
+## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
+* Q&A: So how are you doing Hannah? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=10187&end=10341](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=10187&end=10341)
+* Q&A: Does Hannah get a sense of trepidation when going from World design to Narrative design? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=10444&end=10472](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=10444&end=10472)
+* Q&A: What's the process like in deciding who makes what? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=10703&end=10895](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=10703&end=10895)
+* Q&A: How finished does Hannah feel the World branch is internally & externally? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=10894&end=10977](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=10894&end=10977)
+
 ## October 19th, 2021 Livestream
 * [Snutt & Jace Talk: The dangers of building in the Spire Coast](../../transcriptions/yt-Q3VtHc8K600.md) [https://www.youtube.com/watch?v=Q3VtHc8K600](https://www.youtube.com/watch?v=Q3VtHc8K600)
 

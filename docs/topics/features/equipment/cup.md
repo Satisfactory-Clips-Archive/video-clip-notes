@@ -3,7 +3,7 @@ title: "Cup"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEo53bRP06aC5lXPWjSx84Cx
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Features > [Equipment](../../../topics/features/equipment.md) > Cup
+# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Equipment](../../../topics/features/equipment.md) > Cup
 
 ## May 18th, 2021 Livestream
 * [Q&A: Any news about the Cup?](../../../transcriptions/yt-j-2qEMyqXCY.md) [https://www.youtube.com/watch?v=j-2qEMyqXCY](https://www.youtube.com/watch?v=j-2qEMyqXCY)

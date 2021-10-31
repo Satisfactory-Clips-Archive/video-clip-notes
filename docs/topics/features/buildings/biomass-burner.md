@@ -3,7 +3,7 @@ title: "Biomass Burner"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEqRBeGXVroVP5HrbSUxSTz6
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > Biomass Burner
+# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > Biomass Burner
 
 ## September 28th, 2021 Livestream
 * [Q&A: Can you make Biomass Burners automated?](../../../transcriptions/yt-BZWw9qXGT0o.md) [https://www.youtube.com/watch?v=BZWw9qXGT0o](https://www.youtube.com/watch?v=BZWw9qXGT0o)

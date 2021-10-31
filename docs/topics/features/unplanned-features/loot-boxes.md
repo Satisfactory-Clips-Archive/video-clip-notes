@@ -3,7 +3,7 @@ title: "Loot Boxes"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEqv3IjSWWO1kTyDloN8abwF
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Features > [Unplanned Features](../../../topics/features/unplanned-features.md) > Loot Boxes
+# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Unplanned Features](../../../topics/features/unplanned-features.md) > Loot Boxes
 
 ## January 22nd, 2020 Livestream
 * [Snutt & Jace Talk: AWESOME Shop Teaser (no microtransactions)](../../../transcriptions/yt-1UbLRZJ0-SE.md) [https://www.youtube.com/watch?v=1UbLRZJ0-SE](https://www.youtube.com/watch?v=1UbLRZJ0-SE)

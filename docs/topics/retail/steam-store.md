@@ -6,6 +6,12 @@ date: Last Modified
 # [Topics](../../topics.md) > [Retail](../../topics/retail.md) > Steam Store
 * [Steam Release](../../topics/retail/steam-store/steam-release.md)
 
+## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
+* Snutt & Jace Talk: Satisfactory running on Steam Deck (Part 1) [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=1426&end=1588](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=1426&end=1588)
+* Snutt & Jace Talk: Satisfactory running on Steam Deck (Part 2) [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=1654&end=1714](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=1654&end=1714)
+* Q&A: Epic Games login on Steam? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=16654&end=16706](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=16654&end=16706)
+* Q&A: What if we can't see the Dedicated Servers on Steam? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=16750&end=16782](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=16750&end=16782)
+
 ## October 19th, 2021 Livestream
 * [Q&A: Will Satisfactory be supported on the Steam Deck?](../../transcriptions/yt-JfLx0VAvE34.md) [https://www.youtube.com/watch?v=JfLx0VAvE34](https://www.youtube.com/watch?v=JfLx0VAvE34)
 

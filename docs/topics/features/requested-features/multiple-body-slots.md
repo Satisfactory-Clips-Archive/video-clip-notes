@@ -3,7 +3,7 @@ title: "Multiple Body Slots"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEq6HX-1Nude7wjby2B29wEt
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Features > [Requested Features](../../../topics/features/requested-features.md) > Multiple Body Slots
+# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Requested Features](../../../topics/features/requested-features.md) > Multiple Body Slots
 
 ## October 5th, 2021 Livestream
 * [Q&A: Equipment Slots rework still in progress?](../../../transcriptions/yt-NZGJ3mLsbNk.md) [https://www.youtube.com/watch?v=NZGJ3mLsbNk](https://www.youtube.com/watch?v=NZGJ3mLsbNk)

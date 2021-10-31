@@ -3,12 +3,15 @@ title: "Power Management"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEqbVv5qFvJ7SDFemhz9imET
 date: Last Modified
 ---
-# [Topics](../../topics.md) > Features > Power Management
+# [Topics](../../topics.md) > [Features](../../topics/features.md) > Power Management
 * [Geothermal Energy](../../topics/features/power-management/geothermal-energy.md)
 * [Green Energy](../../topics/features/power-management/green-energy.md)
 * [Nuclear Energy](../../topics/features/power-management/nuclear-energy.md)
 * [Power Storage](../../topics/features/power-management/power-storage.md)
 * [Power Switch](../../topics/features/power-management/power-switch.md)
+
+## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
+* Q&A: Plutonium Fuel actually used for Power, underrated/overrated? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=7615&end=7680](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=7615&end=7680)
 
 ## October 19th, 2021 Livestream
 * [Q&A: Any plans in the future for new Machines to make Power?](../../transcriptions/yt-nmIwxwjWDp4.md) [https://www.youtube.com/watch?v=nmIwxwjWDp4](https://www.youtube.com/watch?v=nmIwxwjWDp4)

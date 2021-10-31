@@ -3,7 +3,7 @@ title: "Tier 3"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEqY2nvhibREOqsw2uQ7lXJV
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Features > [Tiers](../../../topics/features/tiers.md) > Tier 3
+# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Tiers](../../../topics/features/tiers.md) > Tier 3
 
 ## June 1st, 2021 Livestream
 * [Snutt & Jace Talk: Unlocking power options via the Space Elevator](../../../transcriptions/yt-UwNbfqHESy0.md) [https://www.youtube.com/watch?v=UwNbfqHESy0](https://www.youtube.com/watch?v=UwNbfqHESy0)

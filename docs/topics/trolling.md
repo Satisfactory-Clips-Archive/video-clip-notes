@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Trolling
 
+## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
+* Community FYI: Play your own game [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=8365&end=8393](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=8365&end=8393)
+* Community FYI: Ramp Rails are stupid [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=13955&end=13960](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=13955&end=13960)
+
 ## October 19th, 2021 Livestream
 * [Trolling: Shutting down the stream](../transcriptions/yt-KV13cv7fJ2s.md) [https://www.youtube.com/watch?v=KV13cv7fJ2s](https://www.youtube.com/watch?v=KV13cv7fJ2s)
 * [Community FYI: Fuck Dedicated Servers if we can't Golf with friends](../transcriptions/yt-nLuRoqSzLBI.md) [https://www.youtube.com/watch?v=nLuRoqSzLBI](https://www.youtube.com/watch?v=nLuRoqSzLBI)

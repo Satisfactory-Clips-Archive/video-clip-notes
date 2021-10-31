@@ -7,6 +7,16 @@ date: Last Modified
 * [EU Merch Store](../topics/merch/eu-merch-store.md)
 * [Merch Prototypes](../topics/merch/merch-prototypes.md)
 
+## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
+* Snutt & Jace Talk: Lizard Doggo Plush [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=8987&end=9022](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=8987&end=9022)
+* Snutt & Jace Talk: Xenobasher replica (Part 1) [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=9021&end=9050](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=9021&end=9050)
+* Q&A: Where is the link? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=9048&end=9053](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=9048&end=9053)
+* Snutt & Jace Talk: Xenobasher replica (Part 2) [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=9052&end=9166](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=9052&end=9166)
+* Community FYI: That's a big Doggo [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=9165&end=9211](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=9165&end=9211)
+* Snutt Talk: Kickstarter's Live [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=9246&end=9265](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=9246&end=9265)
+* Q&A: Where is the Coffee Cup replica? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=9497&end=9536](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=9497&end=9536)
+* Community FYI: Check the kickstarter [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=11327&end=11398](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=11327&end=11398)
+
 ## September 28th, 2021 Livestream
 * [Q&A: Jace & Snutt body pillow, when?](../transcriptions/yt-z6_iEXhMjfE.md) [https://www.youtube.com/watch?v=z6_iEXhMjfE](https://www.youtube.com/watch?v=z6_iEXhMjfE)
 * [Q&A: Is the coffee mug Merch still in-progress?](../transcriptions/yt-a5QRUMEwkyk.md) [https://www.youtube.com/watch?v=a5QRUMEwkyk](https://www.youtube.com/watch?v=a5QRUMEwkyk)

@@ -3,7 +3,7 @@ title: "Water Extractor"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEqV3H-fkFZVMqPZZ8M-Sexh
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > Water Extractor
+# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > Water Extractor
 
 ## October 5th, 2021 Livestream
 * [Trolling: Rebalancing Water Extractors in Update 5](../../../transcriptions/yt-rjR-CAkE03w.md) [https://www.youtube.com/watch?v=rjR-CAkE03w](https://www.youtube.com/watch?v=rjR-CAkE03w)

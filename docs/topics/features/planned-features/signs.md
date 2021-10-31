@@ -3,7 +3,7 @@ title: "Signs"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiErdYb5Nn5q1dZBDC_ktf1h_
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Features > Planned Features > Signs
+# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > Planned Features > Signs
 
 ## October 19th, 2021 Livestream
 * [Q&A: I know you can't say, but do a cartwheel if you can confirm sweet Signs in Update 5?](../../../transcriptions/yt-_oCXPPoGHHg.md) [https://www.youtube.com/watch?v=_oCXPPoGHHg](https://www.youtube.com/watch?v=_oCXPPoGHHg)

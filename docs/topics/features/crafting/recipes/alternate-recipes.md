@@ -3,7 +3,10 @@ title: "Alternate Recipes"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEqkEomU289GxvxUQx8hM_i8
 date: Last Modified
 ---
-# [Topics](../../../../topics.md) > Features > [Crafting](../../../../topics/features/crafting.md) > [Recipes](../../../../topics/features/crafting/recipes.md) > Alternate Recipes
+# [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > [Crafting](../../../../topics/features/crafting.md) > [Recipes](../../../../topics/features/crafting/recipes.md) > Alternate Recipes
+
+## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
+* Q&A: Alternative Recipes, underrated/overrated? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=7809&end=7870](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=7809&end=7870)
 
 ## September 28th, 2021 Livestream
 * [Q&A: How do you get Hard Drives that require Holiday Event-specific items?](../../../../transcriptions/yt-eviAiYWLroI.md) [https://www.youtube.com/watch?v=eviAiYWLroI](https://www.youtube.com/watch?v=eviAiYWLroI)

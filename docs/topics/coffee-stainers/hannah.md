@@ -6,6 +6,15 @@ date: Last Modified
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Hannah
 * [Coffee Stainers can't pronounce Hannah's last name](../../topics/coffee-stainers/hannah/coffee-stainers-cant-pronounce-hannahs-last-name.md)
 
+## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
+* Jace, Torsten, Hannah, and Snutt Talk: Torsten & Hannah introduce themselves [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=9917&end=9959](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=9917&end=9959)
+* Q&A: So how are you doing Hannah? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=10187&end=10341](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=10187&end=10341)
+* Hannah & Snutt Talk: Prototyping 1.0 [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=10340&end=10445](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=10340&end=10445)
+* Q&A: Does Hannah get a sense of trepidation when going from World design to Narrative design? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=10444&end=10472](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=10444&end=10472)
+* Jace, Torsten, Hannah, and Snutt: Jace's phone rings early [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=10469&end=10581](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=10469&end=10581)
+* Q&A: How finished does Hannah feel the World branch is internally & externally? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=10894&end=10977](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=10894&end=10977)
+* Hannah & Snutt Talk: Satisfiction (aka SatisfactStory) [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=11888&end=11900](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=11888&end=11900)
+
 ## September 28th, 2021 Livestream
 * [Q&A: What plants is Hannah going to remove from the game next?](../../transcriptions/yt-XS_Z1vn1c3U.md) [https://www.youtube.com/watch?v=XS_Z1vn1c3U](https://www.youtube.com/watch?v=XS_Z1vn1c3U)
 

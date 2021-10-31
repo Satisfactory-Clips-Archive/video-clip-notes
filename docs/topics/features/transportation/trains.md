@@ -3,8 +3,12 @@ title: "Trains"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEosbWcrHc-p6N-xeS77Rv5P
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Features > Transportation > Trains
+# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > Transportation > Trains
 * [Train Signals](../../../topics/features/transportation/trains/train-signals.md)
+
+## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
+* Tobias, Snutt, and Jace Talk: Train Elevators [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=3996&end=4065](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=3996&end=4065)
+* Q&A: Can we paint Trains? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=16648&end=16655](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=16648&end=16655)
 
 ## October 15th, 2021 Video
 * [Jace Talk: Build Pillars down from Train Lines](../../../transcriptions/yt-jTIAMuPqSlI,218.95206666666667,252.51893333333334.md) [https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=218&end=253](https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=218&end=253)

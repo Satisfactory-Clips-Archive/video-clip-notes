@@ -3,7 +3,7 @@ title: "Hover Pack"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEoJXfr9MUsQgAjnRHJrZJWM
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Features > [Equipment](../../../topics/features/equipment.md) > Hover Pack
+# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Equipment](../../../topics/features/equipment.md) > Hover Pack
 
 ## June 22nd, 2021 Livestream
 * [Snutt & Jace & Torsten Talk: Concept Art - Hover Pack](../../../transcriptions/yt-ZbST_Q9fdao.md) [https://www.youtube.com/watch?v=ZbST_Q9fdao](https://www.youtube.com/watch?v=ZbST_Q9fdao)

@@ -3,7 +3,7 @@ title: "Explorer"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEoYQyB8xMKJc0fOKdwncF5o
 date: Last Modified
 ---
-# [Topics](../../../../topics.md) > Features > Transportation > [Vehicles](../../../../topics/features/transportation/vehicles.md) > Explorer
+# [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > Transportation > [Vehicles](../../../../topics/features/transportation/vehicles.md) > Explorer
 
 ## September 14th, 2021 Livestream
 * [Q&A: Why can we not put a second person in the Buggy?](../../../../transcriptions/yt-7k7lIdyQBvQ.md) [https://www.youtube.com/watch?v=7k7lIdyQBvQ](https://www.youtube.com/watch?v=7k7lIdyQBvQ)

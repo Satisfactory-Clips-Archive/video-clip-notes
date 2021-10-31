@@ -3,7 +3,7 @@ title: "Procedural Generation"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEprHLlT4mBHmpA1Hbsdd9TV
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Features > [Unplanned Features](../../../topics/features/unplanned-features.md) > Procedural Generation
+# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Unplanned Features](../../../topics/features/unplanned-features.md) > Procedural Generation
 
 ## August 24th, 2021 Livestream
 * [Q&A: Would it be possible to have a Map Randomly Generated in Satisfactory?](../../../transcriptions/yt-1AOF1qFxGm0.md) [https://www.youtube.com/watch?v=1AOF1qFxGm0](https://www.youtube.com/watch?v=1AOF1qFxGm0)

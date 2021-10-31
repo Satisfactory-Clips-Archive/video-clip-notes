@@ -3,7 +3,24 @@ title: "Golf"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEqUEBB3kU_ZkkEp6YBvweep
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Features > [Requested Features](../../../topics/features/requested-features.md) > Golf
+# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Requested Features](../../../topics/features/requested-features.md) > Golf
+
+## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
+* Coffee Stainer Talk: Golf (Part 1) [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=968&end=1250](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=968&end=1250)
+* Coffee Stainer Talk: Golf (Part 2) [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=1587&end=1655](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=1587&end=1655)
+* Community FYI: We crashed the website [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=1714&end=1721](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=1714&end=1721)
+* Coffee Stainer Talk: Golf (Part 3) [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=2083&end=2183](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=2083&end=2183)
+* Coffee Stainer Talk: Golf (Part 4) [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=2622&end=2690](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=2622&end=2690)
+* Coffee Stainer Talk: Golf (Part 5) [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=4183&end=4280](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=4183&end=4280)
+* Coffee Stainer Talk: Golf (Part 6) [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=8316&end=8366](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=8316&end=8366)
+* Snutt & Jace Talk: Gift from SignpostMarv [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=8413&end=8534](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=8413&end=8534)
+* Snutt & Jace Talk: "Just flick the Balls" ~ Snutt, 2021 [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=8483&end=8518](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=8483&end=8518)
+* Coffee Stainer Talk: Golf (Part 7) [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=11397&end=11443](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=11397&end=11443)
+* Coffee Stainer Talk: Golf (Part 8) [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=14443&end=14563](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=14443&end=14563)
+* Jace Talk: HAHAHAHAHA No. [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=15101&end=15104](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=15101&end=15104)
+* Jace Talk: FUCK GOLF! [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=15450&end=15453](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=15450&end=15453)
+* Jace Talk: Golf sucks [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=16129&end=16132](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=16129&end=16132)
+* Snutt & Jace Talk: There's no Golf, but there are Dedicated Servers [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=16184&end=16202](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=16184&end=16202)
 
 ## October 19th, 2021 Livestream
 * [Q&A: State of Golf? (Part 1)](../../../transcriptions/yt-Mzh3VpE5y8Q.md) [https://www.youtube.com/watch?v=Mzh3VpE5y8Q](https://www.youtube.com/watch?v=Mzh3VpE5y8Q)

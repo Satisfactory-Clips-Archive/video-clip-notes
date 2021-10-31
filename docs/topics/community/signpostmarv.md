@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > SignpostMarv
 
+## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
+* Snutt & Jace Talk: Gift from SignpostMarv [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=8413&end=8534](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=8413&end=8534)
+
 ## October 19th, 2021 Livestream
 * [Snutt & Jace Talk: Can't wait for Marv to make a GIF out of this](../../transcriptions/yt-H00giw7cRz8.md) [https://www.youtube.com/watch?v=H00giw7cRz8](https://www.youtube.com/watch?v=H00giw7cRz8)
 

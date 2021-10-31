@@ -3,7 +3,7 @@ title: "Windows"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEpb4NX67UDEpTqags7V2VGB
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Windows
+# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildables](../../../topics/features/buildables.md) > Windows
 
 ## September 3rd, 2021 Dev Vlog
 * [Jace Talk: New Roofs & Windows](../../../transcriptions/yt-yZGq-W7r2sk,313.6800333333333,370.50291.md) [https://youtube.com/clip/UgyfrYJtRHTQzRWxtTF4AaABCQ](https://youtube.com/clip/UgyfrYJtRHTQzRWxtTF4AaABCQ)

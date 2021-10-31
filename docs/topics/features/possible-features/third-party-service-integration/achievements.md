@@ -3,7 +3,7 @@ title: "Achievements"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiErZMU9GqSYTxgx4QvM_i2hK
 date: Last Modified
 ---
-# [Topics](../../../../topics.md) > Features > Possible Features > [Third-Party Service Integration](../../../../topics/features/possible-features/third-party-service-integration.md) > Achievements
+# [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > Possible Features > [Third-Party Service Integration](../../../../topics/features/possible-features/third-party-service-integration.md) > Achievements
 
 ## September 28th, 2021 Livestream
 * [Q&A: Do you plan to make Steam Achievements?](../../../../transcriptions/yt-Kf33x3tiM5w.md) [https://www.youtube.com/watch?v=Kf33x3tiM5w](https://www.youtube.com/watch?v=Kf33x3tiM5w)

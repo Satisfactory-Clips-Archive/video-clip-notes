@@ -5,6 +5,12 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Creatures](../../../topics/environment/creatures.md) > Lizard Doggo
 
+## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
+* Q&A: Lizard Doggo, underrated/overrated? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=7730&end=7764](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=7730&end=7764)
+* Snutt & Jace Talk: Lizard Doggo Plush [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=8987&end=9022](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=8987&end=9022)
+* Community FYI: That's a big Doggo [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=9165&end=9211](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=9165&end=9211)
+* Community FYI: Check the kickstarter [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=11327&end=11398](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=11327&end=11398)
+
 ## September 28th, 2021 Livestream
 * [Q&A: Can you do a Lizard Doggo accent?](../../../transcriptions/yt-NsbZTUzAyhk.md) [https://www.youtube.com/watch?v=NsbZTUzAyhk](https://www.youtube.com/watch?v=NsbZTUzAyhk)
 * [Q&A: Will Lizard Doggos be able to use Hyper Tubes?](../../../transcriptions/yt-1TET5q4oqxU.md) [https://www.youtube.com/watch?v=1TET5q4oqxU](https://www.youtube.com/watch?v=1TET5q4oqxU)

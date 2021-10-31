@@ -3,7 +3,7 @@ title: "Beams"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiErS0f-MViNtR-_BU0wrUNxS
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Beams
+# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildables](../../../topics/features/buildables.md) > Beams
 
 ## September 28th, 2021 Livestream
 * [Q&A: Is there a larger version of the Beams that were revealed a couple of weeks ago?](../../../transcriptions/yt-oI_RmzILLrk.md) [https://www.youtube.com/watch?v=oI_RmzILLrk](https://www.youtube.com/watch?v=oI_RmzILLrk)

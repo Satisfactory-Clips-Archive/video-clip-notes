@@ -3,7 +3,19 @@ title: "Dedicated Servers"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiErU4o7RRN4bcc2H_F-wO-dl
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Features > Planned Features > Dedicated Servers
+# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > Planned Features > Dedicated Servers
+
+## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
+* Q&A: Dedicated Servers? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=1873&end=2084](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=1873&end=2084)
+* Q&A: Dedicated Servers, underrated/overrated? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=7956&end=7983](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=7956&end=7983)
+* Snutt & Jace Talk: There's no Golf, but there are Dedicated Servers [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=16184&end=16202](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=16184&end=16202)
+* Snutt & Jace Talk: Dedicated Servers Experimental Release [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=16425&end=16544](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=16425&end=16544)
+* Q&A: Will you be hosting any Dedicated Servers? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=16543&end=16556](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=16543&end=16556)
+* Q&A: Where do we get the Dedicated Servers? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=16555&end=16580](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=16555&end=16580)
+* Q&A: Will they be on Linux? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=16579&end=16588](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=16579&end=16588)
+* Q&A: Will paid servers be available? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=16587&end=16600](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=16587&end=16600)
+* Snutt & Jace Talk: We've updated the Satisfactory Wiki with some information on Dedicated Servers [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=16705&end=16751](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=16705&end=16751)
+* Q&A: What if we can't see the Dedicated Servers on Steam? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=16750&end=16782](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=16750&end=16782)
 
 ## October 19th, 2021 Livestream
 * [Community FYI: Fuck Dedicated Servers if we can't Golf with friends](../../../transcriptions/yt-nLuRoqSzLBI.md) [https://www.youtube.com/watch?v=nLuRoqSzLBI](https://www.youtube.com/watch?v=nLuRoqSzLBI)

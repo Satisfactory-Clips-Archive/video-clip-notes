@@ -3,7 +3,10 @@ title: "Paint"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEoUH4kdC1Vuc8zUrwXyfmUB
 date: Last Modified
 ---
-# [Topics](../../topics.md) > Features > Paint
+# [Topics](../../topics.md) > [Features](../../topics/features.md) > Paint
+
+## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
+* Q&A: Can we paint Trains? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=16648&end=16655](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=16648&end=16655)
 
 ## October 5th, 2021 Livestream
 * [Q&A: Will we be able to Paint Vehicles at some point?](../../transcriptions/yt-QvxM4Cp6B3U.md) [https://www.youtube.com/watch?v=QvxM4Cp6B3U](https://www.youtube.com/watch?v=QvxM4Cp6B3U)

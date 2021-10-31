@@ -3,7 +3,7 @@ title: "Rifle"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEq4mhfpNDUXpX3dVhF5Vnmw
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Features > [Equipment](../../../topics/features/equipment.md) > Rifle
+# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Equipment](../../../topics/features/equipment.md) > Rifle
 
 ## October 12th, 2021 Livestream
 * [Q&A: Mk.2 Rifle returnning, when?](../../../transcriptions/yt-9TvXDVIoi9s.md) [https://www.youtube.com/watch?v=9TvXDVIoi9s](https://www.youtube.com/watch?v=9TvXDVIoi9s)

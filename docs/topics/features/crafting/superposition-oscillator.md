@@ -3,7 +3,7 @@ title: "Superposition Oscillator"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiErkd_71h9F1jHbOJBnku5mI
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Features > [Crafting](../../../topics/features/crafting.md) > Superposition Oscillator
+# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Crafting](../../../topics/features/crafting.md) > Superposition Oscillator
 
 ## October 12th, 2021 Livestream
 * [Q&A: Dear Jace & Snutt, can we have FICS⁕MAS items back so I can finish my build off, please?](../../../transcriptions/yt-fmJkYftGKzg.md) [https://www.youtube.com/watch?v=fmJkYftGKzg](https://www.youtube.com/watch?v=fmJkYftGKzg)

@@ -5,6 +5,16 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Torsten
 
+## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
+* Jace, Torsten, Hannah, and Snutt Talk: Torsten & Hannah introduce themselves [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=9917&end=9959](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=9917&end=9959)
+* Jace Talk: Art Giveaway, Jace vs. Torsten [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=9958&end=9994](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=9958&end=9994)
+* Q&A: What should Jace & Torsten draw? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=9993&end=10151](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=9993&end=10151)
+* Q&A: Are you going open up and allow custom Maps at some point? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=10580&end=10610](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=10580&end=10610)
+* Jace & Torsten Talk: Complimenting each other's Art [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=10671&end=10716](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=10671&end=10716)
+* Jace, Torsten, Hannah, and Snutt Talk: 2.5 minutes left on the Art [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=10976&end=11099](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=10976&end=11099)
+* Jace, Torsten, Hannah, and Snutt Talk: Art reveal [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=11098&end=11264](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=11098&end=11264)
+* Snutt & Jace Talk: Showing off the completed Art again [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=12480&end=12601](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=12480&end=12601)
+
 ## October 5th, 2021 Livestream
 * [Snutt Talk: Torsten's Beam aesthetics](../../transcriptions/yt-cTKqlerNuIg.md) [https://www.youtube.com/watch?v=cTKqlerNuIg](https://www.youtube.com/watch?v=cTKqlerNuIg)
 

@@ -3,7 +3,7 @@ title: "Tier 0"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEquIZfkx9IHxCSgbaA1JK7r
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Features > [Tiers](../../../topics/features/tiers.md) > Tier 0
+# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Tiers](../../../topics/features/tiers.md) > Tier 0
 
 ## September 14th, 2021 Livestream
 * [Q&A: Will Zooping be available at Tier 0 or later?](../../../transcriptions/yt-fglY9hmDe28.md) [https://www.youtube.com/watch?v=fglY9hmDe28](https://www.youtube.com/watch?v=fglY9hmDe28)

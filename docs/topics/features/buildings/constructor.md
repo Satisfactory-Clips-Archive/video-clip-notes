@@ -3,7 +3,7 @@ title: "Constructor"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEqRDaqJAxsDu8ejfRc_h1fn
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > Constructor
+# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > Constructor
 
 ## August 10th, 2021 Livestream
 * [Q&A: Will we ever get a Mk.2 Constructor?](../../../transcriptions/yt-lTmi7l3XfEI.md) [https://www.youtube.com/watch?v=lTmi7l3XfEI](https://www.youtube.com/watch?v=lTmi7l3XfEI)

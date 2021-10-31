@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > Release Builds
 
+## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
+* Q&A: What time is release? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=12892&end=12905](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=12892&end=12905)
+* Snutt & Jace Talk: The Update should be live on Experimental branch now [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=16392&end=16426](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=16392&end=16426)
+* Q&A: When will Update 5 come to Early Access? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=16820&end=16843](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=16820&end=16843)
+
 ## October 22nd, 2021 Video
 * [Jace Talk: Update 5 Experimental Release](../../transcriptions/yt-cNBKEaJMLyM,4.935811,50.68396666666667.md) [https://youtube.com/embed/cNBKEaJMLyM?autoplay=1&start=4&end=51](https://youtube.com/embed/cNBKEaJMLyM?autoplay=1&start=4&end=51)
 * [Jace Talk: See you on Tuesday for the Update 5 Launch](../../transcriptions/yt-cNBKEaJMLyM,139.17236666666668.md) [https://youtube.com/embed/cNBKEaJMLyM?autoplay=1&start=139](https://youtube.com/embed/cNBKEaJMLyM?autoplay=1&start=139)

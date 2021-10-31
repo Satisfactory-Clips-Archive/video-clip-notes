@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Terrible Jokes
 
+## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
+* Terrible Joke: Muted Patch Notes [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=15031&end=15068](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=15031&end=15068)
+
 ## October 5th, 2021 Livestream
 * [Q&A: Why is Jace's camera blurry?](../../transcriptions/yt-0bCxdLVhBQU.md) [https://www.youtube.com/watch?v=0bCxdLVhBQU](https://www.youtube.com/watch?v=0bCxdLVhBQU)
 

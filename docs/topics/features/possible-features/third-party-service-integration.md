@@ -3,7 +3,7 @@ title: "Third-Party Service Integration"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiErmYlQEEHD-GrNpRC1_6R9b
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Features > Possible Features > Third-Party Service Integration
+# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > Possible Features > Third-Party Service Integration
 * [Achievements](../../../topics/features/possible-features/third-party-service-integration/achievements.md)
 
 ## May 4th, 2021 Livestream

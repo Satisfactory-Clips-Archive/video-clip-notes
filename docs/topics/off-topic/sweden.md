@@ -5,6 +5,12 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Sweden
 
+## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
+* Q&A: Covid situation in Sweden? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=786&end=806](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=786&end=806)
+* Q&A: Do you have to know Swedish to work in Sweden? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=1305&end=1363](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=1305&end=1363)
+* Q&A: Is Sweden basically a bilingual country? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=1402&end=1407](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=1402&end=1407)
+* Q&A: Swedish Pizza, underated/overrated? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=6472&end=6611](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=6472&end=6611)
+
 ## October 19th, 2021 Livestream
 * [Snutt & Jace Talk: Swedish week numbers](../../transcriptions/yt-lu2x9GCm17I.md) [https://www.youtube.com/watch?v=lu2x9GCm17I](https://www.youtube.com/watch?v=lu2x9GCm17I)
 * [Community FYI: Jace is sun tanned, is strange](../../transcriptions/yt-rUIQlG9zVYg.md) [https://www.youtube.com/watch?v=rUIQlG9zVYg](https://www.youtube.com/watch?v=rUIQlG9zVYg)

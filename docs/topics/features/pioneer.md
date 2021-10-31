@@ -3,7 +3,7 @@ title: "Pioneer"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiErbdgIq2TL2rTjyGvOiwC9O
 date: Last Modified
 ---
-# [Topics](../../topics.md) > Features > Pioneer
+# [Topics](../../topics.md) > [Features](../../topics/features.md) > Pioneer
 
 ## October 12th, 2021 Livestream
 * [Q&A: What about Trains running over Players?](../../transcriptions/yt-6dXZLCMVuqY.md) [https://www.youtube.com/watch?v=6dXZLCMVuqY](https://www.youtube.com/watch?v=6dXZLCMVuqY)

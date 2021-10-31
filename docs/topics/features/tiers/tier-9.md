@@ -3,7 +3,7 @@ title: "Tier 9"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEp4Qe-sQjkMStIywC-iIGDR
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Features > [Tiers](../../../topics/features/tiers.md) > Tier 9
+# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Tiers](../../../topics/features/tiers.md) > Tier 9
 
 ## October 12th, 2021 Livestream
 * [Q&A: Will there be Tier 9?](../../../transcriptions/yt-DHdUONkXgHk.md) [https://www.youtube.com/watch?v=DHdUONkXgHk](https://www.youtube.com/watch?v=DHdUONkXgHk)

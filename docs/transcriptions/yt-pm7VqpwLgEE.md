@@ -8,6 +8,8 @@ topics:
 # [December 19th, 2019 Livestream](../2019-12-19.md)
 ## Q&A: How much Swedish do you need to know to work at a Swedish company?
 https://www.youtube.com/watch?v=pm7VqpwLgEE
+This question was possibly duplicated with a more recent answer: October 26th, 2021 Update 5 Launch Stream and Patch Notes Video Q&A: Do you have to know Swedish to work in Sweden? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=1305&end=1363](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=1305&end=1363)
+
 
 ### Topics
 

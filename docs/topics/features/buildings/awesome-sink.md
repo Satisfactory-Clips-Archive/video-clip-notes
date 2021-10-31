@@ -3,7 +3,7 @@ title: "AWESOME Sink"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEoavILe5ochrdZT10xLLyV9
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > AWESOME Sink
+# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > AWESOME Sink
 
 ## August 17th, 2021 Livestream
 * [Q&A: Anything for end-game planned besides collecting coupons?](../../../transcriptions/yt-MM2xi9oR4Z0.md) [https://www.youtube.com/watch?v=MM2xi9oR4Z0](https://www.youtube.com/watch?v=MM2xi9oR4Z0)

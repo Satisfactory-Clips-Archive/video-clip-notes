@@ -5,6 +5,13 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Mark
 
+## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
+* Mark, Snutt, and Jace Talk: Introducing Mark [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=13226&end=13292](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=13226&end=13292)
+* Q&A: How does Mark feel when Coffee Stain started announcing Update 5 Features? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=13291&end=13434](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=13291&end=13434)
+* Q&A: What is Mark most excited about for Update 5? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=13692&end=13744](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=13692&end=13744)
+* Q&A: Does Mark have anything to say about Update 5 before the reveal? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=14055&end=14080](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=14055&end=14080)
+* Snutt & Jace Talk: Thanks Mark, helps a lot! [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=14079&end=14102](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=14079&end=14102)
+
 ## September 21st, 2021 Livestream
 * [Q&A: Next video with Mark?](../../transcriptions/yt-EFBH7CmbZnA.md) [https://www.youtube.com/watch?v=EFBH7CmbZnA](https://www.youtube.com/watch?v=EFBH7CmbZnA)
 

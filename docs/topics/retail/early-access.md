@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Retail](../../topics/retail.md) > Early Access
 
+## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
+* Snutt & Jace Talk: It's nice to be able to have an open dialog with Early Access [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=14854&end=14938](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=14854&end=14938)
+
 ## September 28th, 2021 Livestream
 * [Q&A: If you buy the game Early Access, do you have to buy the real game after?](../../transcriptions/yt-gXzduwgrc50.md) [https://www.youtube.com/watch?v=gXzduwgrc50](https://www.youtube.com/watch?v=gXzduwgrc50)
 

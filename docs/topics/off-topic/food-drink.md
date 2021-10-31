@@ -10,6 +10,14 @@ date: Last Modified
 * [Pizza](../../topics/off-topic/food-drink/pizza.md)
 * [Semlor](../../topics/off-topic/food-drink/semlor.md)
 
+## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
+* Q&A: Avacadoes, underrated/overrated? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=6656&end=6728](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=6656&end=6728)
+* Q&A: Vanilla Ice Cream, underrated/overrated? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=6727&end=6744](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=6727&end=6744)
+* Q&A: Dark Chocolate, underrated/overrated? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=6743&end=6804](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=6743&end=6804)
+* Q&A: Spicy food, underrated/overrated? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=6811&end=6872](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=6811&end=6872)
+* Q&A: Red Wine, underrated/overrated? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=6871&end=6990](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=6871&end=6990)
+* Q&A: Sushi, underrated/overrated? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=6989&end=7007](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=6989&end=7007)
+
 ## October 5th, 2021 Livestream
 * [Snutt  & Jace Talk: Jace's HelloFresh delivery](../../transcriptions/yt-WceFWmtLU4U.md) [https://www.youtube.com/watch?v=WceFWmtLU4U](https://www.youtube.com/watch?v=WceFWmtLU4U)
 * [Q&A: Dinner plans?](../../transcriptions/yt-Kp7Yk3Drj7Y.md) [https://www.youtube.com/watch?v=Kp7Yk3Drj7Y](https://www.youtube.com/watch?v=Kp7Yk3Drj7Y)

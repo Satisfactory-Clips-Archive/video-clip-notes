@@ -3,7 +3,7 @@ title: "Third-person View"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEqY7gI4bEGW0mH9AWoFv7P6
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Features > [Requested Features](../../../topics/features/requested-features.md) > Third-person View
+# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Requested Features](../../../topics/features/requested-features.md) > Third-person View
 
 ## September 21st, 2021 Livestream
 * [Q&A: How does Coffee Stain feel about third-person camera mode?](../../../transcriptions/yt-FoRaUJM8tYg.md) [https://www.youtube.com/watch?v=FoRaUJM8tYg](https://www.youtube.com/watch?v=FoRaUJM8tYg)

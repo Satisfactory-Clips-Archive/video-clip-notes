@@ -3,7 +3,7 @@ title: "Storage Containers"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiErau2lNl-y0Uv9FHhiZc6Pl
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Storage Containers
+# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildables](../../../topics/features/buildables.md) > Storage Containers
 
 ## October 19th, 2021 Livestream
 * [Q&A: Does the Storage Container have Soft Clearance now so they can get closer to Walls??](../../../transcriptions/yt-EAK8SZUqqIE.md) [https://www.youtube.com/watch?v=EAK8SZUqqIE](https://www.youtube.com/watch?v=EAK8SZUqqIE)

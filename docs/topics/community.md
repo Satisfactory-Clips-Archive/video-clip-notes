@@ -23,6 +23,17 @@ date: Last Modified
 * [Tom](../topics/community/tom.md)
 * [Wiki](../topics/community/wiki.md)
 
+## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
+* Q&A: Bingo Card? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=1362&end=1403](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=1362&end=1403)
+* Snutt & Jace Talk: Can't respond to every single comment [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=1720&end=1804](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=1720&end=1804)
+* Tobias, Snutt, and Jace Talk: New players will be spoiled [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=3347&end=3442](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=3347&end=3442)
+* Community FYI: Play your own game [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=8365&end=8393](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=8365&end=8393)
+* Q&A: Where can we find this save? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=13093&end=13208](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=13093&end=13208)
+* Community FYI: Ramp Rails are stupid [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=13955&end=13960](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=13955&end=13960)
+* Snutt & Jace Talk: Thanks everyone for hanging out today & during Update 5 Teaser Season [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=14222&end=14299](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=14222&end=14299)
+* Snutt & Jace Talk: It's nice to be able to have an open dialog with Early Access [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=14854&end=14938](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=14854&end=14938)
+* Snutt & Jace Talk: Some people have caught on in some of the unannounced Update 5 Features [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=16626&end=16636](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=16626&end=16636)
+
 ## October 22nd, 2021 Video
 * [Jace Talk: What we've released so far on Update 5](../transcriptions/yt-cNBKEaJMLyM,67.73433333333334,114.28083333333333.md) [https://youtube.com/embed/cNBKEaJMLyM?autoplay=1&start=67&end=115](https://youtube.com/embed/cNBKEaJMLyM?autoplay=1&start=67&end=115)
 

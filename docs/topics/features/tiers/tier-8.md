@@ -3,7 +3,7 @@ title: "Tier 8"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEruS8Xi3bkV9I-Hi-0E8DO7
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Features > [Tiers](../../../topics/features/tiers.md) > Tier 8
+# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Tiers](../../../topics/features/tiers.md) > Tier 8
 
 ## May 4th, 2021 Livestream
 * [Q&A: Is the Golden Cup only a reward in EA, or will there be a final release as well?](../../../transcriptions/yt-T38Lc3xS3BE.md) [https://www.youtube.com/watch?v=T38Lc3xS3BE](https://www.youtube.com/watch?v=T38Lc3xS3BE)

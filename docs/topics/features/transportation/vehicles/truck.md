@@ -3,7 +3,7 @@ title: "Truck"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEqrupg1p4jryyE_AvpWTWzF
 date: Last Modified
 ---
-# [Topics](../../../../topics.md) > Features > Transportation > [Vehicles](../../../../topics/features/transportation/vehicles.md) > Truck
+# [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > Transportation > [Vehicles](../../../../topics/features/transportation/vehicles.md) > Truck
 
 ## October 12th, 2021 Livestream
 * [Q&A: Will there ever be Rail crossings and will they interact with Truck autopilot?](../../../../transcriptions/yt-iBHxLQCXYNk.md) [https://www.youtube.com/watch?v=iBHxLQCXYNk](https://www.youtube.com/watch?v=iBHxLQCXYNk)

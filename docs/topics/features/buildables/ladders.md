@@ -3,7 +3,7 @@ title: "Ladders"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEq2Ir2tWVfwVVZJnnYr127W
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Ladders
+# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildables](../../../topics/features/buildables.md) > Ladders
 
 ## September 14th, 2021 Livestream
 * [Q&A: Will there be a hotkey for going down Ladders faster?](../../../transcriptions/yt-Bql_P71iLV8.md) [https://www.youtube.com/watch?v=Bql_P71iLV8](https://www.youtube.com/watch?v=Bql_P71iLV8)

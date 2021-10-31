@@ -3,7 +3,7 @@ title: "Photo Mode"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEr_y5FuYy4mEW7F87dLs1ve
 date: Last Modified
 ---
-# [Topics](../../topics.md) > Features > Photo Mode
+# [Topics](../../topics.md) > [Features](../../topics/features.md) > Photo Mode
 
 ## September 21st, 2021 Livestream
 * [Q&A: A third-person camera in Photo Mode would be a start?](../../transcriptions/yt-abN9BeUO-qA.md) [https://www.youtube.com/watch?v=abN9BeUO-qA](https://www.youtube.com/watch?v=abN9BeUO-qA)

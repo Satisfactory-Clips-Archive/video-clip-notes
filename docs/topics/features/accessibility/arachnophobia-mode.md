@@ -3,7 +3,7 @@ title: "Arachnophobia Mode"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEr8-tKvQxrwXxCKw4R5_PoP
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Features > [Accessibility](../../../topics/features/accessibility.md) > Arachnophobia Mode
+# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Accessibility](../../../topics/features/accessibility.md) > Arachnophobia Mode
 
 ## September 28th, 2021 Livestream
 * [Q&A: Some heavy metal music for when spiders show up?](../../../transcriptions/yt-m1TGYFDz8y8.md) [https://www.youtube.com/watch?v=m1TGYFDz8y8](https://www.youtube.com/watch?v=m1TGYFDz8y8)

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Wiki
 
+## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
+* Snutt & Jace Talk: We've updated the Satisfactory Wiki with some information on Dedicated Servers [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=16705&end=16751](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=16705&end=16751)
+
 ## October 19th, 2021 Livestream
 * [Q&A: Update 6, still at November 31?](../../transcriptions/yt-_WRAMGtLBqA.md) [https://www.youtube.com/watch?v=_WRAMGtLBqA](https://www.youtube.com/watch?v=_WRAMGtLBqA)
 

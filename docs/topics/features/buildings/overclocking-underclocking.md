@@ -3,7 +3,7 @@ title: "Overclocking & Underclocking"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiErcP0g2Ihv6H7ZJUVB8sOqH
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > Overclocking & Underclocking
+# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > Overclocking & Underclocking
 
 ## October 19th, 2021 Livestream
 * [Q&A: Any Update on Overclocked Mk.3 Miners?](../../../transcriptions/yt-KbLwa5ZKlag.md) [https://www.youtube.com/watch?v=KbLwa5ZKlag](https://www.youtube.com/watch?v=KbLwa5ZKlag)

@@ -3,7 +3,7 @@ title: "Smelter"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEqf-Zh7cNTVq_Ad6E6PgK3r
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > Smelter
+# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > Smelter
 
 ## July 20th, 2021 Livestream
 * [Q&A: Which Update will you be able to smelt limestone?](../../../transcriptions/yt-5yAXcjunHOs.md) [https://www.youtube.com/watch?v=5yAXcjunHOs](https://www.youtube.com/watch?v=5yAXcjunHOs)

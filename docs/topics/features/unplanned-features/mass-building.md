@@ -3,7 +3,7 @@ title: "Mass Building"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEr4RIwd7JK5NWkjYLh0-Wg1
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Features > [Unplanned Features](../../../topics/features/unplanned-features.md) > Mass Building
+# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Unplanned Features](../../../topics/features/unplanned-features.md) > Mass Building
 
 ## September 28th, 2021 Livestream
 * [Community FYI: We have Smart! Mod](../../../transcriptions/yt-UgLfd0Zjfr8.md) [https://www.youtube.com/watch?v=UgLfd0Zjfr8](https://www.youtube.com/watch?v=UgLfd0Zjfr8)

@@ -3,7 +3,7 @@ title: "Holstering Equipment"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEpQHQYvzPxQNBl2NvsugIO0
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Features > [Requested Features](../../../topics/features/requested-features.md) > Holstering Equipment
+# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Requested Features](../../../topics/features/requested-features.md) > Holstering Equipment
 
 ## May 4th, 2021 Livestream
 * [Snutt Talk: QA Site feature request - Holstering](../../../transcriptions/yt-UkF4FbtbplM.md) [https://www.youtube.com/watch?v=UkF4FbtbplM](https://www.youtube.com/watch?v=UkF4FbtbplM)

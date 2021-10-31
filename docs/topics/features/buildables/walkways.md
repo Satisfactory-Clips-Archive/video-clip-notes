@@ -3,7 +3,7 @@ title: "Walkways"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEoBmj-QZNgr4liNREljxxSr
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Features > [Buildables](../../../topics/features/buildables.md) > Walkways
+# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildables](../../../topics/features/buildables.md) > Walkways
 
 ## October 15th, 2021 Video
 * [Jace Talk: Snap walkways to Buildings](../../../transcriptions/yt-jTIAMuPqSlI,173.54003333333333,218.9187.md) [https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=173&end=219](https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=173&end=219)

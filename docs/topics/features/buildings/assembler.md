@@ -3,7 +3,7 @@ title: "Assembler"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiErjDwRaqXFiQTvINaWCY2Ne
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > Assembler
+# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > Assembler
 
 ## June 1st, 2021 Livestream
 * [Snutt & Jace Talk: Unlocking power options via the Space Elevator](../../../transcriptions/yt-UwNbfqHESy0.md) [https://www.youtube.com/watch?v=UwNbfqHESy0](https://www.youtube.com/watch?v=UwNbfqHESy0)

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Coffee Stainers](../../../topics/coffee-stainers.md) > [Simon](../../../topics/coffee-stainers/simon.md) > Simon Saga
 
+## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
+* Simon, Dylan, and Snutt Talk: Simon Saga [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=6398&end=6417](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=6398&end=6417)
+
 ## July 6th, 2021 Livestream
 * [Q&A: Did Jace ever finish refactoring the attachments system?](../../../transcriptions/yt-RLAevtWkTUA.md) [https://www.youtube.com/watch?v=RLAevtWkTUA](https://www.youtube.com/watch?v=RLAevtWkTUA)
 

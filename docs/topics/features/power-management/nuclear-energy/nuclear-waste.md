@@ -3,7 +3,10 @@ title: "Nuclear Waste"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEojsQkXgy-tvIIjyMK_7x4n
 date: Last Modified
 ---
-# [Topics](../../../../topics.md) > Features > [Power Management](../../../../topics/features/power-management.md) > [Nuclear Energy](../../../../topics/features/power-management/nuclear-energy.md) > Nuclear Waste
+# [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > [Power Management](../../../../topics/features/power-management.md) > [Nuclear Energy](../../../../topics/features/power-management/nuclear-energy.md) > Nuclear Waste
+
+## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
+* Community FYI: Uranium Waste on Pizza [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=6803&end=6812](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=6803&end=6812)
 
 ## September 21st, 2021 Livestream
 * [Q&A: The way to dispose Nuclear Waste that Josh used, was it intended?](../../../../transcriptions/yt-HNrxJ2Sth7Y.md) [https://www.youtube.com/watch?v=HNrxJ2Sth7Y](https://www.youtube.com/watch?v=HNrxJ2Sth7Y)

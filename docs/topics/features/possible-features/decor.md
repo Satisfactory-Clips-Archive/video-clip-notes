@@ -3,7 +3,7 @@ title: "Decor"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEqVTlmqhbpntiX-LNPSHZqz
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Features > Possible Features > Decor
+# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > Possible Features > Decor
 
 ## October 5th, 2021 Livestream
 * [Q&A: Will we get Jace & Snutt statues in Update 5?](../../../transcriptions/yt-jmLrJTUDpL8.md) [https://www.youtube.com/watch?v=jmLrJTUDpL8](https://www.youtube.com/watch?v=jmLrJTUDpL8)

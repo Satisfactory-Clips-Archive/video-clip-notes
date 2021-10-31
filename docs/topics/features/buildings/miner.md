@@ -3,7 +3,7 @@ title: "Miner"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEoIpaioyzE9nqrU_5CxfkUC
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > Features > [Buildings](../../../topics/features/buildings.md) > Miner
+# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > Miner
 
 ## October 19th, 2021 Livestream
 * [Q&A: Any Update on Overclocked Mk.3 Miners?](../../../transcriptions/yt-KbLwa5ZKlag.md) [https://www.youtube.com/watch?v=KbLwa5ZKlag](https://www.youtube.com/watch?v=KbLwa5ZKlag)

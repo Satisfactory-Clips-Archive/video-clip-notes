@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Easter Eggs
 
+## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
+* Q&A: Tell us your favourite part about working for Coffee Stain? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=9316&end=9388](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=9316&end=9388)
+
 ## October 12th, 2021 Livestream
 * [Q&A: There's always been secrets in Updates, will there be secrets in Update 5?](../transcriptions/yt-R8AbNs9YNSI.md) [https://www.youtube.com/watch?v=R8AbNs9YNSI](https://www.youtube.com/watch?v=R8AbNs9YNSI)
 * [Q&A: Is the reminder coming back where it tells you you're a potato for playing for 2 hours?](../transcriptions/yt-pSBR2kkCdB0.md) [https://www.youtube.com/watch?v=pSBR2kkCdB0](https://www.youtube.com/watch?v=pSBR2kkCdB0)
