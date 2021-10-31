@@ -5,6 +5,7 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Snutt
 * [Snutt Burger Time](../../topics/coffee-stainers/snutt/snutt-burger-time.md)
+* [Snutty Mays](../../topics/coffee-stainers/snutt/snutty-mays.md)
 
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
 * Snutt & Jace Talk: Bisexual Finger Guns (Part 1) [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=652&end=662](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=652&end=662)

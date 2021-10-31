@@ -9,6 +9,9 @@ date: Last Modified
 * [Ray Tracing](../../topics/technology/graphics/ray-tracing.md)
 * [Ultrawide Monitors](../../topics/technology/graphics/ultrawide-monitors.md)
 
+## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
+* [Snutt & Jace Talk: We've updated the Northern Forest](../../transcriptions/yt-QfaReoks6OM,551.5833333333334,584.2916666666666.md) [https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=551&end=585](https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=551&end=585)
+
 ## September 28th, 2021 Livestream
 * [Q&A: Would upgrading my CPU, or my GPU get me better frame rates?](../../transcriptions/yt-kQqy4aJLiO0.md) [https://www.youtube.com/watch?v=kQqy4aJLiO0](https://www.youtube.com/watch?v=kQqy4aJLiO0)
 

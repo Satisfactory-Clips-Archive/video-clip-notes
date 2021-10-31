@@ -19,6 +19,9 @@ date: Last Modified
 * [Windows](../../topics/features/buildables/windows.md)
 
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
+* [Snutt & Jace Talk: Wager on releasing Golf versus Dedicated Servers (Part 3)](../../transcriptions/yt-QfaReoks6OM,222.25,231.70833333333334.md) [https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=222&end=232](https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=222&end=232)
+* [Snutt & Jace Talk: More Cosmetic Build Pieces](../../transcriptions/yt-QfaReoks6OM,231.75,262.75.md) [https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=231&end=263](https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=231&end=263)
+* [Q&A: Can we just place the Build piece with the Material I wanted from the get-go?](../../transcriptions/yt-QfaReoks6OM,323.2083333333333,338.780872.md) [https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=323&end=339](https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=323&end=339)
 * Tobias, Snutt, and Jace Talk: New players will be spoiled [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=3347&end=3442](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=3347&end=3442)
 * Snutt & Jace Talk: Reception to the cosmetic Buildables video [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=14298&end=14355](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=14298&end=14355)
 

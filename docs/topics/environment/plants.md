@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Environment](../../topics/environment.md) > Plants
 
+## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
+* [Snutt & Jace Talk: We've updated the Northern Forest](../../transcriptions/yt-QfaReoks6OM,551.5833333333334,584.2916666666666.md) [https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=551&end=585](https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=551&end=585)
+
 ## September 28th, 2021 Livestream
 * [Q&A: Will picking foliage causing slowdown be fixed?](../../transcriptions/yt-qup37E4-Kgc.md) [https://www.youtube.com/watch?v=qup37E4-Kgc](https://www.youtube.com/watch?v=qup37E4-Kgc)
 * [Q&A: Will the Berry glitch be fixed in Update 5?](../../transcriptions/yt-mvnOI-LWtrE.md) [https://www.youtube.com/watch?v=mvnOI-LWtrE](https://www.youtube.com/watch?v=mvnOI-LWtrE)

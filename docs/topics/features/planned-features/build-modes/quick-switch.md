@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > Planned Features > [Build Modes](../../../../topics/features/planned-features/build-modes.md) > Quick Switch
 
+## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
+* [Snutt Talk: Quick Switch Improvements](../../../../transcriptions/yt-QfaReoks6OM,163.25,185.29166666666666.md) [https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=163&end=186](https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=163&end=186)
+
 ## September 7th, 2021 Livestream
 * [Q&A: When building Belts, can we Quick Switch from normal Conveyor Poles to Stackable Poles?](../../../../transcriptions/yt--omR1EfS5EE.md) [https://www.youtube.com/watch?v=-omR1EfS5EE](https://www.youtube.com/watch?v=-omR1EfS5EE)
 * [Q&A: Quick Switch is the same thing as the Radial Menu?](../../../../transcriptions/yt-ot9z828JGSU.md) [https://www.youtube.com/watch?v=ot9z828JGSU](https://www.youtube.com/watch?v=ot9z828JGSU)

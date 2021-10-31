@@ -6,8 +6,10 @@ date: Last Modified
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Jace
 * ["Fix Jace" QA Site Posts](../../topics/coffee-stainers/jace/fix-jace-qa-site-posts.md)
 * [Jace Art](../../topics/coffee-stainers/jace/jace-art.md)
+* [Juice Velvet](../../topics/coffee-stainers/jace/juice-velvet.md)
 
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
+* [Snutt & Jace Talk: No more Dora](../../transcriptions/yt-QfaReoks6OM,606.8333333333334,644.4583333333334.md) [https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=606&end=645](https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=606&end=645)
 * Snutt & Jace Talk: Bisexual Finger Guns (Part 1) [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=652&end=662](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=652&end=662)
 * Snutt & Jace Talk: Bisexual Finger Guns (Part 2) [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=2689&end=2738](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=2689&end=2738)
 * Tobias, Snutt, and Jace Talk: Jace says the line [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=3079&end=3160](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=3079&end=3160)

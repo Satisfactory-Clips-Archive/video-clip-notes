@@ -7,6 +7,8 @@ date: Last Modified
 * [Train Signals](../../../topics/features/transportation/trains/train-signals.md)
 
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
+* [Snutt & Jace Talk: Train Signals and Collisions](../../../transcriptions/yt-QfaReoks6OM,707.7916666666666,764.0416666666666.md) [https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=707&end=765](https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=707&end=765)
+* [Snutt Talk: An Update to Train Timetables](../../../transcriptions/yt-QfaReoks6OM,764.0833333333334,783.137801.md) [https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=764&end=784](https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=764&end=784)
 * Tobias, Snutt, and Jace Talk: Train Elevators [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=3996&end=4065](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=3996&end=4065)
 * Q&A: Can we paint Trains? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=16648&end=16655](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=16648&end=16655)
 

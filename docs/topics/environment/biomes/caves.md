@@ -6,6 +6,7 @@ date: Last Modified
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Biomes](../../../topics/environment/biomes.md) > Caves
 
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
+* [Jace Talk: We're updating some of the Caves](../../../transcriptions/yt-QfaReoks6OM,595.0833333333334,606.7916666666666.md) [https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=595&end=607](https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=595&end=607)
 * Q&A: So how are you doing Hannah? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=10187&end=10341](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=10187&end=10341)
 
 ## October 12th, 2021 Livestream

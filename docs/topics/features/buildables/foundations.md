@@ -5,6 +5,7 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildables](../../../topics/features/buildables.md) > Foundations
 * [Cheatcrete](../../../topics/features/buildables/foundations/cheatcrete.md)
+* [Foundation Stencils](../../../topics/features/buildables/foundations/stencils.md)
 
 ## October 19th, 2021 Livestream
 * [Q&A: Can Machines be rotated like Foundations in Update 5?](../../../transcriptions/yt-94G4znvDbiA.md) [https://www.youtube.com/watch?v=94G4znvDbiA](https://www.youtube.com/watch?v=94G4znvDbiA)

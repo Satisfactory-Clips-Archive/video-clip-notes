@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > Transportation > [Vehicles](../../../../topics/features/transportation/vehicles.md) > Autopilot
 
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
+* [Snutt & Jace Talk: Wager on releasing Golf versus Dedicated Servers (Part 5)](../../../../transcriptions/yt-QfaReoks6OM,382.7916666666667,403.0416666666667.md) [https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=382&end=404](https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=382&end=404)
+* [Snutt Talk: Huge Update to automated Vehicle pathing & surrounding systems](../../../../transcriptions/yt-QfaReoks6OM,403.0833333333333,437.7916666666667.md) [https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=403&end=438](https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=403&end=438)
+* [Jace Talk: Save & Load Vehicle Paths](../../../../transcriptions/yt-QfaReoks6OM,437.8333333333333,460.125.md) [https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=437&end=461](https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=437&end=461)
 * Rasmus & Jace Talk: Improvements to Vehicles in Update 5 [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=4456&end=4634](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=4456&end=4634)
 * Rasmus, Snutt, and Jace Talk: Improving reliability of Vehicles [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=4909&end=5037](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=4909&end=5037)
 * Q&A: Does Vehicle Ghosting or getting stuck contribute to Fuel consumption? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=5036&end=5121](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=5036&end=5121)

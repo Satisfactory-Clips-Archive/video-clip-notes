@@ -9,6 +9,8 @@ topics:
 # [October 19th, 2021 Livestream](../2021-10-19.md)
 ## Q&A: I know you can't say, but do a cartwheel if you can confirm sweet Signs in Update 5?
 https://www.youtube.com/watch?v=_oCXPPoGHHg
+This question was possibly replaced with a more recent answer: [October 26th, 2021 Update 5 Launch Stream and Patch Notes Video Snutt & Jace Talk: We're finally adding Signs to the game](./yt-QfaReoks6OM,644.5,681.534533.md) [https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=644&end=682](https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=644&end=682)
+
 <details>
 <summary>This question may have been asked previously at least 22 other times, as recently as October 2021 and as early as June 2020.</summary>
 

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Biomes](../../../topics/environment/biomes.md) > Dune Desert
 
+## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
+* [Jace Talk: Dune Desert is getting an Update](../../../transcriptions/yt-QfaReoks6OM,584.3333333333334,595.0416666666666.md) [https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=584&end=596](https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=584&end=596)
+
 ## August 31st, 2021 Livestream
 * Q&A: Is the top of the waterfall in the Dune Desert going to be reworked in Update 5? [https://www.youtube.com/watch?v=mJjAcBCPi0I](https://www.youtube.com/watch?v=mJjAcBCPi0I)
 

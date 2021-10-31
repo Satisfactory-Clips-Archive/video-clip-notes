@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > World Update
 
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
+* [Snutt & Jace Talk: We've updated the Northern Forest](../../transcriptions/yt-QfaReoks6OM,551.5833333333334,584.2916666666666.md) [https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=551&end=585](https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=551&end=585)
+* [Jace Talk: Dune Desert is getting an Update](../../transcriptions/yt-QfaReoks6OM,584.3333333333334,595.0416666666666.md) [https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=584&end=596](https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=584&end=596)
+* [Jace Talk: We're updating some of the Caves](../../transcriptions/yt-QfaReoks6OM,595.0833333333334,606.7916666666666.md) [https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=595&end=607](https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=595&end=607)
 * Q&A: So how are you doing Hannah? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=10187&end=10341](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=10187&end=10341)
 * Q&A: Does Hannah get a sense of trepidation when going from World design to Narrative design? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=10444&end=10472](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=10444&end=10472)
 * Q&A: What's the process like in deciding who makes what? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=10703&end=10895](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=10703&end=10895)

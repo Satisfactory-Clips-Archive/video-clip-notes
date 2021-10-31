@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../topics.md) > [Features](../../topics/features.md) > Paint
 
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
+* [Q&A: What about Colors?](../../transcriptions/yt-QfaReoks6OM,338.8333333333333,359.555311.md) [https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=338&end=360](https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=338&end=360)
+* [Q&A: Can we set the Colors to the Hot Bar too?](../../transcriptions/yt-QfaReoks6OM,359.5833333333333,366.5.md) [https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=359&end=367](https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=359&end=367)
+* [Snutt Talk: You can Paint Vehicles now](../../transcriptions/yt-QfaReoks6OM,481.4583333333333,502.9583333333333.md) [https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=481&end=503](https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=481&end=503)
 * Q&A: Can we paint Trains? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=16648&end=16655](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=16648&end=16655)
 
 ## October 5th, 2021 Livestream

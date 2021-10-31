@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [June 2021 Epic Mega Sale Stream](../../topics/june-2021-epic-mega-sale-stream.md) > Setting up a Coal Generator
 
+## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
+* [Snutt & Jace Talk: Wager on releasing Golf versus Dedicated Servers (Part 7)](../../transcriptions/yt-QfaReoks6OM,500.5416666666667,551.5416666666666.md) [https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=500&end=552](https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=500&end=552)
+
 ## June 1st, 2021 Livestream
 * [Snutt & Jace Talk: Setting up a Coal Generator (Part 1)](../../transcriptions/yt-cmDE_ThXeUk.md) [https://www.youtube.com/watch?v=cmDE_ThXeUk](https://www.youtube.com/watch?v=cmDE_ThXeUk)
 * [Snutt & Jace Talk: Setting up a Coal Generator (Part 2)](../../transcriptions/yt-V5iNAIlEA38.md) [https://www.youtube.com/watch?v=V5iNAIlEA38](https://www.youtube.com/watch?v=V5iNAIlEA38)

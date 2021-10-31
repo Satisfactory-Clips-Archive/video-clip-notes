@@ -13,6 +13,8 @@ date: Last Modified
 * [Truck](../../../topics/features/transportation/vehicles/truck.md)
 
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
+* [Jace Talk: Truck Stations have gotten an Update](../../../transcriptions/yt-QfaReoks6OM,460.1666666666667,474.8333333333333.md) [https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=460&end=475](https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=460&end=475)
+* [Snutt Talk: You can Paint Vehicles now](../../../transcriptions/yt-QfaReoks6OM,481.4583333333333,502.9583333333333.md) [https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=481&end=503](https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=481&end=503)
 * Rasmus & Jace Talk: Improvements to Vehicles in Update 5 [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=4456&end=4634](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=4456&end=4634)
 * Rasmus, Snutt, and Jace Talk: Vehicles getting stuck below the map [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=4633&end=4910](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=4633&end=4910)
 * Rasmus, Snutt, and Jace Talk: Improving reliability of Vehicles [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=4909&end=5037](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=4909&end=5037)

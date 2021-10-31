@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > Planned Features > Signs
 
+## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
+* [Snutt & Jace Talk: We're finally adding Signs to the game](../../../transcriptions/yt-QfaReoks6OM,644.5,681.534533.md) [https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=644&end=682](https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=644&end=682)
+
 ## October 19th, 2021 Livestream
 * [Q&A: I know you can't say, but do a cartwheel if you can confirm sweet Signs in Update 5?](../../../transcriptions/yt-_oCXPPoGHHg.md) [https://www.youtube.com/watch?v=_oCXPPoGHHg](https://www.youtube.com/watch?v=_oCXPPoGHHg)
 

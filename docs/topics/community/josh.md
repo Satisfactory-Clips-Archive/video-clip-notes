@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Josh
 
+## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
+* [Snutt & Jace Talk: Wager on releasing Golf versus Dedicated Servers (Part 10)](../../transcriptions/yt-QfaReoks6OM,911.75,1018.3333333333334.md) [https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=911&end=1019](https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=911&end=1019)
+
 ## October 5th, 2021 Livestream
 * [Snutt & Jace Talk: Train name limit](../../transcriptions/yt-QCIc4jMSl_A.md) [https://www.youtube.com/watch?v=QCIc4jMSl_A](https://www.youtube.com/watch?v=QCIc4jMSl_A)
 

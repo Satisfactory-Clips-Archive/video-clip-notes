@@ -6,7 +6,11 @@ date: Last Modified
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Unplanned Features](../../../topics/features/unplanned-features.md) > Golf
 
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
+* [Jace & Snutt Talk: Golf](../../../transcriptions/yt-QfaReoks6OM,34.75,57.333333333333336.md) [https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=34&end=58](https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=34&end=58)
+* [Snutt & Jace Talk: Wager on releasing Golf versus Dedicated Servers (Part 1)](../../../transcriptions/yt-QfaReoks6OM,57.375,120.25.md) [https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=57&end=121](https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=57&end=121)
 * Coffee Stainer Talk: Golf (Part 1) [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=968&end=1250](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=968&end=1250)
+* [Snutt & Jace Talk: Wager on releasing Golf versus Dedicated Servers (Part 11)](../../../transcriptions/yt-QfaReoks6OM,1068.1666666666667,1079.875.md) [https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=1068&end=1080](https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=1068&end=1080)
+* End Tag [https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=1090](https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=1090)
 * Coffee Stainer Talk: Golf (Part 2) [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=1587&end=1655](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=1587&end=1655)
 * Community FYI: We crashed the website [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=1714&end=1721](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=1714&end=1721)
 * Coffee Stainer Talk: Golf (Part 3) [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=2083&end=2183](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=2083&end=2183)

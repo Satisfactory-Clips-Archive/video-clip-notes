@@ -27,6 +27,8 @@ date: Last Modified
 * [Water Extractor](../../topics/features/buildings/water-extractor.md)
 
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
+* [Jace Talk: Truck Stations have gotten an Update](../../transcriptions/yt-QfaReoks6OM,460.1666666666667,474.8333333333333.md) [https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=460&end=475](https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=460&end=475)
+* [Jace Talk: We've updated the Truck Station UI](../../transcriptions/yt-QfaReoks6OM,474.875,481.4117.md) [https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=474&end=482](https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=474&end=482)
 * Q&A: What happens if a Vehicle is refueling at a Truck Station and another Vehicle comes along? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=5120&end=5375](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=5120&end=5375)
 
 ## October 19th, 2021 Livestream

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildables](../../../topics/features/buildables.md) > Beams
 
+## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
+* [Snutt & Jace Talk: More Cosmetic Build Pieces](../../../transcriptions/yt-QfaReoks6OM,231.75,262.75.md) [https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=231&end=263](https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=231&end=263)
+
 ## September 28th, 2021 Livestream
 * [Q&A: Is there a larger version of the Beams that were revealed a couple of weeks ago?](../../../transcriptions/yt-oI_RmzILLrk.md) [https://www.youtube.com/watch?v=oI_RmzILLrk](https://www.youtube.com/watch?v=oI_RmzILLrk)
 

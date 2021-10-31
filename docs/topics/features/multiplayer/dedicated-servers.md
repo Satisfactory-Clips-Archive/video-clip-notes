@@ -6,6 +6,8 @@ date: Last Modified
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Multiplayer](../../../topics/features/multiplayer.md) > Dedicated Servers
 
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
+* [Snutt & Jace Talk: Wager on releasing Golf versus Dedicated Servers (Part 1)](../../../transcriptions/yt-QfaReoks6OM,57.375,120.25.md) [https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=57&end=121](https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=57&end=121)
+* [Snutt & Jace Talk: Jace won, we get Dedicated Servers](../../../transcriptions/yt-QfaReoks6OM,1018.375,1045.875.md) [https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=1018&end=1046](https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=1018&end=1046)
 * Q&A: Dedicated Servers? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=1873&end=2084](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=1873&end=2084)
 * Q&A: Dedicated Servers, underrated/overrated? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=7956&end=7983](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=7956&end=7983)
 * Snutt & Jace Talk: There's no Golf, but there are Dedicated Servers [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=16184&end=16202](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=16184&end=16202)

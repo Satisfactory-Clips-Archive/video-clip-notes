@@ -12,6 +12,7 @@ date: Last Modified
 * [Hover Pack](../../topics/features/equipment/hover-pack.md)
 * [Jetpack](../../topics/features/equipment/jetpack.md)
 * [Rifle](../../topics/features/equipment/rifle.md)
+* [The Customizer](../../topics/features/equipment/the-customizer.md)
 * [Zip Lines](../../topics/features/equipment/zip-lines.md)
 
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video

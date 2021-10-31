@@ -14,6 +14,9 @@ date: Last Modified
 * [Steel](../../topics/environment/resources/steel.md)
 * [Water](../../topics/environment/resources/water.md)
 
+## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
+* [Jace Talk: Dune Desert is getting an Update](../../transcriptions/yt-QfaReoks6OM,584.3333333333334,595.0416666666666.md) [https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=584&end=596](https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=584&end=596)
+
 ## October 19th, 2021 Livestream
 * [Q&A: Is it not pronounced "borz-ite" ?](../../transcriptions/yt-wtwjAK1fj_8.md) [https://www.youtube.com/watch?v=wtwjAK1fj_8](https://www.youtube.com/watch?v=wtwjAK1fj_8)
 

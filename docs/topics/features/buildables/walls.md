@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildables](../../../topics/features/buildables.md) > Walls
 
+## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
+* [Snutt & Jace Talk: More Cosmetic Build Pieces](../../../transcriptions/yt-QfaReoks6OM,231.75,262.75.md) [https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=231&end=263](https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=231&end=263)
+
 ## October 19th, 2021 Livestream
 * [Q&A: Are the new Walls bought from the AWESOME Shop?](../../../transcriptions/yt-OYF68hbYpnA.md) [https://www.youtube.com/watch?v=OYF68hbYpnA](https://www.youtube.com/watch?v=OYF68hbYpnA)
 * [Q&A: Does the Storage Container have Soft Clearance now so they can get closer to Walls??](../../../transcriptions/yt-EAK8SZUqqIE.md) [https://www.youtube.com/watch?v=EAK8SZUqqIE](https://www.youtube.com/watch?v=EAK8SZUqqIE)

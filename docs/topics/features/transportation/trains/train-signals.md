@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > Transportation > [Trains](../../../../topics/features/transportation/trains.md) > Train Signals
 
+## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
+* [Snutt & Jace Talk: Train Signals and Collisions](../../../../transcriptions/yt-QfaReoks6OM,707.7916666666666,764.0416666666666.md) [https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=707&end=765](https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=707&end=765)
+
 ## October 12th, 2021 Livestream
 * [Snutt & Jace Talk: Talking about Trains](../../../../transcriptions/yt-oTFxFrh1OiQ.md) [https://www.youtube.com/watch?v=oTFxFrh1OiQ](https://www.youtube.com/watch?v=oTFxFrh1OiQ)
 * [Q&A: Path Signals look amazing, why use Block Signals?](../../../../transcriptions/yt-6v-_y9IUiZM.md) [https://www.youtube.com/watch?v=6v-_y9IUiZM](https://www.youtube.com/watch?v=6v-_y9IUiZM)

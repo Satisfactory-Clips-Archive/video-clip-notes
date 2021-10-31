@@ -39,6 +39,7 @@ date: Last Modified
 ## [Jace](./topics/coffee-stainers/jace.md)
 * ["Fix Jace" QA Site Posts](./topics/coffee-stainers/jace/fix-jace-qa-site-posts.md)
 * [Jace Art](./topics/coffee-stainers/jace/jace-art.md)
+* [Juice Velvet](./topics/coffee-stainers/jace/juice-velvet.md)
 ---
 
 ## [Simon](./topics/coffee-stainers/simon.md)
@@ -47,6 +48,7 @@ date: Last Modified
 
 ## [Snutt](./topics/coffee-stainers/snutt.md)
 * [Snutt Burger Time](./topics/coffee-stainers/snutt/snutt-burger-time.md)
+* [Snutty Mays](./topics/coffee-stainers/snutt/snutty-mays.md)
 ---
 
 # [Community](./topics/community.md)
@@ -155,6 +157,7 @@ date: Last Modified
 
 ### [Foundations](./topics/features/buildables/foundations.md)
 * [Cheatcrete](./topics/features/buildables/foundations/cheatcrete.md)
+* [Foundation Stencils](./topics/features/buildables/foundations/stencils.md)
 ---
 
 ## [Buildings](./topics/features/buildings.md)
@@ -200,6 +203,7 @@ date: Last Modified
 * [Hover Pack](./topics/features/equipment/hover-pack.md)
 * [Jetpack](./topics/features/equipment/jetpack.md)
 * [Rifle](./topics/features/equipment/rifle.md)
+* [The Customizer](./topics/features/equipment/the-customizer.md)
 * [Zip Lines](./topics/features/equipment/zip-lines.md)
 ---
 
@@ -462,7 +466,11 @@ date: Last Modified
 * [Update 4 Patch Notes Video](./topics/satisfactory-updates/teasers-trailers/update-4-patch-notes-video.md)
 * [Update 4 Launch Trailer](./topics/satisfactory-updates/teasers-trailers/update-4-launch-trailer.md)
 * [Update 5 Teasers](./topics/satisfactory-updates/teasers-trailers/update-5-teasers.md)
-* [Update 5 Patch Notes Video](./topics/satisfactory-updates/teasers-trailers/update-5-patch-notes-video.md)
+
+### [Update 5 Patch Notes Video](./topics/satisfactory-updates/teasers-trailers/update-5-patch-notes-video.md)
+* [Update 5 Wager on releasing Golf versus Dedicated Servers](./topics/satisfactory-updates/teasers-trailers/update-5-patch-notes-video/update-5-wager-on-releasing-golf-versus-dedicated-servers.md)
+* [Snutty Mays & Juice Velvet Present: The Customizer™](./topics/satisfactory-updates/teasers-trailers/update-5-patch-notes-video/snutty-mays-and-juice-velvet-present-the-customizer.md)
+---
 
 ### [Update 5 Launch Stream](./topics/satisfactory-updates/teasers-trailers/update-5-launch-stream.md)
 * [Update 5 Quiz: Underrated/Overrated](./topics/satisfactory-updates/teasers-trailers/update-5-launch-stream/underrated-or-overrated-quiz.md)
