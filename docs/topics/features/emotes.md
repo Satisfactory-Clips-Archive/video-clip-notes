@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Features](../../topics/features.md) > Emotes
 
+## October 29th, 2021 Video
+* [Snutt Talk: We've added a lot more Emotes to the game](../../transcriptions/yt-rePLsjw-eEY,664.0634,690.3897000000001.md) [https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=664&end=691](https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=664&end=691)
+
 ## February 23rd, 2021 Livestream
 * [Q&A: Since you have a cup of coffee, how about a spit-take emote?](../../transcriptions/yt-Q4BRujPmgN0.md) [https://www.youtube.com/watch?v=Q4BRujPmgN0](https://www.youtube.com/watch?v=Q4BRujPmgN0)
 

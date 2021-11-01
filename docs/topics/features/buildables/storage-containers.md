@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildables](../../../topics/features/buildables.md) > Storage Containers
 
+## October 29th, 2021 Video
+* [Snutt Talk: We've added more Personal Storage Boxes](../../../transcriptions/yt-rePLsjw-eEY,690.4564333333334,702.2348666666667.md) [https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=690&end=703](https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=690&end=703)
+
 ## October 19th, 2021 Livestream
 * [Q&A: Does the Storage Container have Soft Clearance now so they can get closer to Walls??](../../../transcriptions/yt-EAK8SZUqqIE.md) [https://www.youtube.com/watch?v=EAK8SZUqqIE](https://www.youtube.com/watch?v=EAK8SZUqqIE)
 

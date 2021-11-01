@@ -23,6 +23,9 @@ date: Last Modified
 * [Tom](../topics/community/tom.md)
 * [Wiki](../topics/community/wiki.md)
 
+## October 29th, 2021 Video
+* [Jace Talk: A lot of love from the Studio to you guys](../transcriptions/yt-rePLsjw-eEY,45.311933333333336,78.41166666666666.md) [https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=45&end=79](https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=45&end=79)
+
 ## October 28th, 2021 Video
 * [Jace Talk: Dave from Heroic Replicas](../transcriptions/yt-YSPnFZbTvxE,50.78406666666667,66.69996666666667.md) [https://youtube.com/embed/YSPnFZbTvxE?autoplay=1&start=50&end=67](https://youtube.com/embed/YSPnFZbTvxE?autoplay=1&start=50&end=67)
 * [Jace Talk: Heroic Replicas and the Xenobasher prototype](../transcriptions/yt-YSPnFZbTvxE,66.73333333333333,88.42166666666667.md) [https://youtube.com/embed/YSPnFZbTvxE?autoplay=1&start=66&end=89](https://youtube.com/embed/YSPnFZbTvxE?autoplay=1&start=66&end=89)

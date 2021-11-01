@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Multiplayer](../../../topics/features/multiplayer.md) > Dedicated Servers
 
+## October 29th, 2021 Video
+* [Jace Talk: Dedicated Servers](../../../transcriptions/yt-rePLsjw-eEY,114.51440000000001,226.29273333333333.md) [https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=114&end=227](https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=114&end=227)
+* [Q&A: Do I need to buy the game on Steam to use Dedicated Servers if I already have the game on Epic?](../../../transcriptions/yt-rePLsjw-eEY,195.987197,212.21200000000002.md) [https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=195&end=213](https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=195&end=213)
+* [Jace Talk: Steam/Epic bug](../../../transcriptions/yt-rePLsjw-eEY,226.3261,274.14053333333334.md) [https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=226&end=275](https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=226&end=275)
+
 ## October 27th, 2021 Video
 * [Intro](../../../transcriptions/yt-Nn-1s87JJxc,,34.200833333333335.md) [https://youtube.com/embed/Nn-1s87JJxc?autoplay=1&start=0&end=35](https://youtube.com/embed/Nn-1s87JJxc?autoplay=1&start=0&end=35)
 * [Q&A: Did you just add a Dedicated Server model to the game?](../../../transcriptions/yt-Nn-1s87JJxc,34.2342,61.59486666666667.md) [https://youtube.com/embed/Nn-1s87JJxc?autoplay=1&start=34&end=62](https://youtube.com/embed/Nn-1s87JJxc?autoplay=1&start=34&end=62)

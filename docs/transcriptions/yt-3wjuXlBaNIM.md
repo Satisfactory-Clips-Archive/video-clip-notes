@@ -9,6 +9,8 @@ topics:
 # [October 12th, 2021 Livestream](../2021-10-12.md)
 ## Q&A: Let us choose Belt and Lift direction manually, I'll do anything?
 https://www.youtube.com/watch?v=3wjuXlBaNIM
+This question was possibly replaced with a more recent answer: [October 29th, 2021 Video Snutt Talk: Toggling Conveyor Lift direction](./yt-rePLsjw-eEY,513.0458666666667,572.2049666666667.md) [https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=513&end=573](https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=513&end=573)
+
 
 ### Topics
 * [Features > Buildables > Conveyor Belts](../topics/features/buildables/conveyor-belts.md)

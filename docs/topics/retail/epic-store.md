@@ -6,6 +6,10 @@ date: Last Modified
 # [Topics](../../topics.md) > [Retail](../../topics/retail.md) > Epic Store
 * [Epic Store Exclusivity](../../topics/retail/epic-store/epic-store-exclusivity.md)
 
+## October 29th, 2021 Video
+* [Q&A: Do I need to buy the game on Steam to use Dedicated Servers if I already have the game on Epic?](../../transcriptions/yt-rePLsjw-eEY,195.987197,212.21200000000002.md) [https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=195&end=213](https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=195&end=213)
+* [Jace Talk: Steam/Epic bug](../../transcriptions/yt-rePLsjw-eEY,226.3261,274.14053333333334.md) [https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=226&end=275](https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=226&end=275)
+
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
 * Q&A: Epic Games login on Steam? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=16654&end=16706](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=16654&end=16706)
 

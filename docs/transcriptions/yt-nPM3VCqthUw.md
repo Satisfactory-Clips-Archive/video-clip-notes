@@ -9,6 +9,8 @@ topics:
 # [September 28th, 2021 Livestream](../2021-09-28.md)
 ## Q&A: When you delete can you ctrl-toggle in case you mis-click?
 https://www.youtube.com/watch?v=nPM3VCqthUw
+This question was possibly replaced with a more recent answer: [October 29th, 2021 Video Snutt Talk: We've added deselect for Mass Dismantle](./yt-rePLsjw-eEY,901.9010000000001,966.2319333333334.md) [https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=901&end=967](https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=901&end=967)
+
 <details>
 <summary>This question may have been asked previously at least 4 other times, as recently as August 2021 and as early as September 2020.</summary>
 

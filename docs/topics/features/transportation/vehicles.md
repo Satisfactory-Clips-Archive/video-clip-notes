@@ -12,6 +12,9 @@ date: Last Modified
 * [Tractor](../../../topics/features/transportation/vehicles/tractor.md)
 * [Truck](../../../topics/features/transportation/vehicles/truck.md)
 
+## October 29th, 2021 Video
+* [Snutt Talk: You can Paint Vehicles, Trains, and Drones](../../../transcriptions/yt-rePLsjw-eEY,385.7854,405.30490000000003.md) [https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=385&end=406](https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=385&end=406)
+
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
 * [Jace Talk: Truck Stations have gotten an Update](../../../transcriptions/yt-QfaReoks6OM,460.1666666666667,474.8333333333333.md) [https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=460&end=475](https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=460&end=475)
 * [Snutt Talk: You can Paint Vehicles now](../../../transcriptions/yt-QfaReoks6OM,481.4583333333333,502.9583333333333.md) [https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=481&end=503](https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=481&end=503)

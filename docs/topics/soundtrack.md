@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Soundtrack
 
+## October 29th, 2021 Video
+* [Snutt Talk: We've added more music](../transcriptions/yt-rePLsjw-eEY,765.7983666666667,798.4977.md) [https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=765&end=799](https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=765&end=799)
+
 ## October 19th, 2021 Livestream
 * [Community FYI: I love the music track for the Update 3 Trailer](../transcriptions/yt-BmgkOw5NWKM.md) [https://www.youtube.com/watch?v=BmgkOw5NWKM](https://www.youtube.com/watch?v=BmgkOw5NWKM)
 

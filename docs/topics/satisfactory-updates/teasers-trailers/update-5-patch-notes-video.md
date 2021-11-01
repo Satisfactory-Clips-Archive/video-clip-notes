@@ -7,6 +7,9 @@ date: Last Modified
 * [Snutty Mays & Juice Velvet Present: The Customizer™](../../../topics/satisfactory-updates/teasers-trailers/update-5-patch-notes-video/snutty-mays-and-juice-velvet-present-the-customizer.md)
 * [Update 5 Wager on releasing Golf versus Dedicated Servers](../../../topics/satisfactory-updates/teasers-trailers/update-5-patch-notes-video/update-5-wager-on-releasing-golf-versus-dedicated-servers.md)
 
+## October 29th, 2021 Video
+* [Jace Talk: A lot of love from the Studio to you guys](../../../transcriptions/yt-rePLsjw-eEY,45.311933333333336,78.41166666666666.md) [https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=45&end=79](https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=45&end=79)
+
 ## October 27th, 2021 Video
 * [Intro](../../../transcriptions/yt-Nn-1s87JJxc,,34.200833333333335.md) [https://youtube.com/embed/Nn-1s87JJxc?autoplay=1&start=0&end=35](https://youtube.com/embed/Nn-1s87JJxc?autoplay=1&start=0&end=35)
 * [Q&A: Did you just add a Dedicated Server model to the game?](../../../transcriptions/yt-Nn-1s87JJxc,34.2342,61.59486666666667.md) [https://youtube.com/embed/Nn-1s87JJxc?autoplay=1&start=34&end=62](https://youtube.com/embed/Nn-1s87JJxc?autoplay=1&start=34&end=62)

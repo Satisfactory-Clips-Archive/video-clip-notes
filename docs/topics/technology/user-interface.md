@@ -6,6 +6,10 @@ date: Last Modified
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > User Interface
 * [Holograms](../../topics/technology/user-interface/holograms.md)
 
+## October 29th, 2021 Video
+* [Snutt Talk: Fine-grained volume controls](../../transcriptions/yt-rePLsjw-eEY,798.5310666666667,840.6398.md) [https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=798&end=841](https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=798&end=841)
+* [Snutt Talk: HUD UI & button mapping changes](../../transcriptions/yt-rePLsjw-eEY,840.6731666666667,901.8676333333334.md) [https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=840&end=902](https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=840&end=902)
+
 ## October 27th, 2021 Video
 * [Jace Talk: Connecting Satisfactory to the Dedicated Server](../../transcriptions/yt-Nn-1s87JJxc,613.9800333333334,721.7877333333333.md) [https://youtube.com/embed/Nn-1s87JJxc?autoplay=1&start=613&end=722](https://youtube.com/embed/Nn-1s87JJxc?autoplay=1&start=613&end=722)
 * [Jace Talk: Starting a new game on a Dedicated Server](../../transcriptions/yt-Nn-1s87JJxc,721.8211,800.2995.md) [https://youtube.com/embed/Nn-1s87JJxc?autoplay=1&start=721&end=801](https://youtube.com/embed/Nn-1s87JJxc?autoplay=1&start=721&end=801)

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Resources](../../../topics/environment/resources.md) > Power Slug
 
+## October 29th, 2021 Video
+* [Snutt Talk: Blue Slug](../../../transcriptions/yt-rePLsjw-eEY,702.2682333333333,765.765.md) [https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=702&end=766](https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=702&end=766)
+
 ## August 10th, 2021 Livestream
 * [Q&A: Would it be possible to craft Power Shards with the Particle Accelerator?](../../../transcriptions/yt-MKMFfY4DZlg.md) [https://www.youtube.com/watch?v=MKMFfY4DZlg](https://www.youtube.com/watch?v=MKMFfY4DZlg)
 

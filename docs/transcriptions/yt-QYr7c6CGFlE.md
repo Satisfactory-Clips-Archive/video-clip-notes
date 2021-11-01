@@ -8,6 +8,8 @@ topics:
 # [September 28th, 2021 Livestream](../2021-09-28.md)
 ## Q&A: When new music?
 https://www.youtube.com/watch?v=QYr7c6CGFlE
+This question was possibly replaced with a more recent answer: [October 29th, 2021 Video Snutt Talk: We've added more music](./yt-rePLsjw-eEY,765.7983666666667,798.4977.md) [https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=765&end=799](https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=765&end=799)
+
 <details>
 <summary>This question may have been asked previously at least 11 other times, as recently as July 2021 and as early as August 2020.</summary>
 

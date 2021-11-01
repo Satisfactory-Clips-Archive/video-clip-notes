@@ -8,6 +8,8 @@ topics:
 # [September 7th, 2021 Livestream](../2021-09-07.md)
 ## Q&A: Foundations with holes?
 https://www.youtube.com/watch?v=VZZXxJb9Vsg
+This question was possibly replaced with a more recent answer: [October 29th, 2021 Video Snutt Talk: Foundation Stencils shot revealed Floor Holes & Pipe Holes](./yt-rePLsjw-eEY,405.3382666666667,513.0125.md) [https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=405&end=514](https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=405&end=514)
+
 <details>
 <summary>This question may have been asked previously at least 7 other times, as recently as August 2021 and as early as August 2020.</summary>
 

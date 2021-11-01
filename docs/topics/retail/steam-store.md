@@ -6,6 +6,10 @@ date: Last Modified
 # [Topics](../../topics.md) > [Retail](../../topics/retail.md) > Steam Store
 * [Steam Release](../../topics/retail/steam-store/steam-release.md)
 
+## October 29th, 2021 Video
+* [Q&A: Do I need to buy the game on Steam to use Dedicated Servers if I already have the game on Epic?](../../transcriptions/yt-rePLsjw-eEY,195.987197,212.21200000000002.md) [https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=195&end=213](https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=195&end=213)
+* [Jace Talk: Steam/Epic bug](../../transcriptions/yt-rePLsjw-eEY,226.3261,274.14053333333334.md) [https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=226&end=275](https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=226&end=275)
+
 ## October 27th, 2021 Video
 * [Q&A: Where can I get the Dedicated Servers?](../../transcriptions/yt-Nn-1s87JJxc,140.70723333333333,196.0959.md) [https://youtube.com/embed/Nn-1s87JJxc?autoplay=1&start=140&end=197](https://youtube.com/embed/Nn-1s87JJxc?autoplay=1&start=140&end=197)
 * [Jace Talk: How to find Satisfactory Dedicated Server in Steam](../../transcriptions/yt-Nn-1s87JJxc,517.2167000000001,557.020737.md) [https://youtube.com/embed/Nn-1s87JJxc?autoplay=1&start=517&end=558](https://youtube.com/embed/Nn-1s87JJxc?autoplay=1&start=517&end=558)

@@ -144,6 +144,8 @@ date: Last Modified
 ## [Buildables](./topics/features/buildables.md)
 * [Beams](./topics/features/buildables/beams.md)
 * [Conveyor Belts](./topics/features/buildables/conveyor-belts.md)
+* [Doors](./topics/features/buildables/doors.md)
+* [Floor Holes](./topics/features/buildables/floor-holes.md)
 * [Jump Pads](./topics/features/buildables/jump-pads.md)
 * [Ladders](./topics/features/buildables/ladders.md)
 * [Lights](./topics/features/buildables/lights.md)

@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > Planned Features > [Build Modes](../../../../topics/features/planned-features/build-modes.md) > Hard & Soft Clearance
 * [Complex Clearance](../../../../topics/features/planned-features/build-modes/hard-soft-clearance/complex-clearance.md)
 
+## October 29th, 2021 Video
+* [Jace Talk: Stackable Conveyor Poles & Floor Holes have Hard Clearance](../../../../transcriptions/yt-rePLsjw-eEY,307.4071,338.814696.md) [https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=307&end=339](https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=307&end=339)
+
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
 * [Jace Talk: Hard & Soft Clearance](../../../../transcriptions/yt-QfaReoks6OM,124.41666666666667,163.20833333333334.md) [https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=124&end=164](https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=124&end=164)
 

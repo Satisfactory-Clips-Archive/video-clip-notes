@@ -10,6 +10,9 @@ date: Last Modified
 * [Update 5 Quiz: Underrated/Overrated](../../../topics/satisfactory-updates/teasers-trailers/update-5-launch-stream/underrated-or-overrated-quiz.md)
 * [Update 5 Revealed](../../../topics/satisfactory-updates/teasers-trailers/update-5-launch-stream/update-5-revealed.md)
 
+## October 29th, 2021 Video
+* [Jace Talk: A lot of love from the Studio to you guys](../../../transcriptions/yt-rePLsjw-eEY,45.311933333333336,78.41166666666666.md) [https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=45&end=79](https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=45&end=79)
+
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
 * Snutt & Jace Talk: Bisexual Finger Guns (Part 1) [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=652&end=662](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=652&end=662)
 * Snutt & Jace Talk: Streaming from the new office for the first time [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=661&end=787](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=661&end=787)

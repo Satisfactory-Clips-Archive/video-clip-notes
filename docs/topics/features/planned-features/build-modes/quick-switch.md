@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > Planned Features > [Build Modes](../../../../topics/features/planned-features/build-modes.md) > Quick Switch
 
+## October 29th, 2021 Video
+* [Snutt Talk: Toggling Conveyor Lift direction](../../../../transcriptions/yt-rePLsjw-eEY,513.0458666666667,572.2049666666667.md) [https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=513&end=573](https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=513&end=573)
+
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
 * [Snutt Talk: Quick Switch Improvements](../../../../transcriptions/yt-QfaReoks6OM,163.25,185.29166666666666.md) [https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=163&end=186](https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=163&end=186)
 

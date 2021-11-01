@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > QA Site
 
+## October 29th, 2021 Video
+* [Jace Talk: Update 5 bug reports](../transcriptions/yt-rePLsjw-eEY,78.44503333333334,114.48103333333333.md) [https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=78&end=115](https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=78&end=115)
+
 ## October 27th, 2021 Video
 * [Jace Talk: We would appreciate your feedback on the Dedicated Servers](../transcriptions/yt-Nn-1s87JJxc,88.95553333333334,140.67386666666667.md) [https://youtube.com/embed/Nn-1s87JJxc?autoplay=1&start=88&end=141](https://youtube.com/embed/Nn-1s87JJxc?autoplay=1&start=88&end=141)
 

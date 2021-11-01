@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > Transportation > Trains
 * [Train Signals](../../../topics/features/transportation/trains/train-signals.md)
 
+## October 29th, 2021 Video
+* [Snutt Talk: You can Paint Vehicles, Trains, and Drones](../../../transcriptions/yt-rePLsjw-eEY,385.7854,405.30490000000003.md) [https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=385&end=406](https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=385&end=406)
+
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
 * [Snutt & Jace Talk: Train Signals and Collisions](../../../transcriptions/yt-QfaReoks6OM,707.7916666666666,764.0416666666666.md) [https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=707&end=765](https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=707&end=765)
 * [Snutt Talk: An Update to Train Timetables](../../../transcriptions/yt-QfaReoks6OM,764.0833333333334,783.137801.md) [https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=764&end=784](https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=764&end=784)

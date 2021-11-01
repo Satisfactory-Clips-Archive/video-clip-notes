@@ -8,6 +8,9 @@ date: Last Modified
 * [Quick Switch](../../../topics/features/planned-features/build-modes/quick-switch.md)
 * [Zooping](../../../topics/features/planned-features/build-modes/zooping.md)
 
+## October 29th, 2021 Video
+* [Snutt Talk: We've added deselect for Mass Dismantle](../../../transcriptions/yt-rePLsjw-eEY,901.9010000000001,966.2319333333334.md) [https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=901&end=967](https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=901&end=967)
+
 ## October 19th, 2021 Livestream
 * [Snutt & Jace Talk: Update 5 Build system improvements](../../../transcriptions/yt-b6oCNvKP844.md) [https://www.youtube.com/watch?v=b6oCNvKP844](https://www.youtube.com/watch?v=b6oCNvKP844)
 * [Q&A: Can Machines be rotated like Foundations in Update 5?](../../../transcriptions/yt-94G4znvDbiA.md) [https://www.youtube.com/watch?v=94G4znvDbiA](https://www.youtube.com/watch?v=94G4znvDbiA)
