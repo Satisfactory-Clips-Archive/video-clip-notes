@@ -18,6 +18,10 @@ date: Last Modified
 * [Teasers & Trailers](../topics/satisfactory-updates/teasers-trailers.md)
 * [World Update](../topics/satisfactory-updates/world-update.md)
 
+## November 2nd, 2021 Livestream
+* [Q&A: After 1.0 will you still support the game or just move on?](../transcriptions/yt-4uejLZj2lCk.md) [https://www.youtube.com/watch?v=4uejLZj2lCk](https://www.youtube.com/watch?v=4uejLZj2lCk)
+* Q&A: Are you going to take a bunch of Mods and make an Update out of that? [https://www.youtube.com/watch?v=EYmRwJdzh7s](https://www.youtube.com/watch?v=EYmRwJdzh7s)
+
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
 * Q&A: What was the first version of the game Tobias played? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=3322&end=3348](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=3322&end=3348)
 * Q&A: Does Mark think there's going to be another Quality of Life Update in the future? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=13455&end=13509](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=13455&end=13509)

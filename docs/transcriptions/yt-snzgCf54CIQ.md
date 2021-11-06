@@ -9,7 +9,7 @@ topics:
 # [June 1st, 2021 Livestream](../2021-06-01.md)
 ## Q&A: Any plans for an Elevator for those of us that build mega factories?
 https://www.youtube.com/watch?v=snzgCf54CIQ
-This question was possibly duplicated with a more recent answer: [August 24th, 2021 Livestream Q&A: Any plans on an actual Elevator?](./yt-Ot_nXF5yBfU.md) [https://www.youtube.com/watch?v=Ot_nXF5yBfU](https://www.youtube.com/watch?v=Ot_nXF5yBfU)
+This question was possibly duplicated with a more recent answer: November 2nd, 2021 Livestream Q&A: Will there ever be Elevators? [https://www.youtube.com/watch?v=e-r3tL5dY_8](https://www.youtube.com/watch?v=e-r3tL5dY_8)
 
 
 ### Topics

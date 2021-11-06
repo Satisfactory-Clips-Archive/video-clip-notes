@@ -10,6 +10,8 @@ topics:
 # [September 7th, 2021 Livestream](../2021-09-07.md)
 ## Q&A: Are we going to have 2m Walls?
 https://www.youtube.com/watch?v=okK53vcq2V4
+This question was possibly duplicated with a more recent answer: [November 2nd, 2021 Livestream Q&A: Where is basic Wall 2m which Jace promised in the Update 5 cosmetics video?](./yt--1kh2fAn5_M.md) [https://www.youtube.com/watch?v=-1kh2fAn5_M](https://www.youtube.com/watch?v=-1kh2fAn5_M)
+
 
 ### Topics
 * [Features > Buildables > Walls](../topics/features/buildables/walls.md)

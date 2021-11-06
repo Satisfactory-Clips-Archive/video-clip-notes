@@ -9,7 +9,7 @@ topics:
 # [January 12th, 2021 Livestream](../2021-01-12.md)
 ## Q&A: How can I help with translation- the Spanish one looks like Google Translator?
 https://www.youtube.com/watch?v=qbaev-b4lbQ
-This question was possibly duplicated with a more recent answer: [July 6th, 2021 Livestream Q&A: How would you join the translation crew?](./yt-21YJgMguxHQ.md) [https://www.youtube.com/watch?v=21YJgMguxHQ](https://www.youtube.com/watch?v=21YJgMguxHQ)
+This question was possibly duplicated with a more recent answer: [November 2nd, 2021 Livestream Q&A: Does Satisfactory need help with Translating the game, I'd like to help?](./yt-6v8kQysRYRs.md) [https://www.youtube.com/watch?v=6v8kQysRYRs](https://www.youtube.com/watch?v=6v8kQysRYRs)
 
 
 ### Topics

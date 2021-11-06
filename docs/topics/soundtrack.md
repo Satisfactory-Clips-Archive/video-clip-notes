@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Soundtrack
 
+## November 2nd, 2021 Livestream
+* [Q&A: Is the OST coming on vinyl?](../transcriptions/yt-a95G0B-fLdc.md) [https://www.youtube.com/watch?v=a95G0B-fLdc](https://www.youtube.com/watch?v=a95G0B-fLdc)
+* [Snutt & Jace Talk: That one track we use in all the YouTube videos](../transcriptions/yt-1PrzGVafNZ8.md) [https://www.youtube.com/watch?v=1PrzGVafNZ8](https://www.youtube.com/watch?v=1PrzGVafNZ8)
+
 ## October 29th, 2021 Video
 * [Snutt Talk: We've added more music](../transcriptions/yt-rePLsjw-eEY,765.7983666666667,798.4977.md) [https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=765&end=799](https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=765&end=799)
 

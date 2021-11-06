@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > Possible Features > Blueprints
 
+## November 2nd, 2021 Livestream
+* [Q&A: Current team consensus on Blueprints?](../../../transcriptions/yt-yP3yd9rIfUk.md) [https://www.youtube.com/watch?v=yP3yd9rIfUk](https://www.youtube.com/watch?v=yP3yd9rIfUk)
+
 ## September 28th, 2021 Livestream
 * [Q&A: Are you guys putting any form of Blueprinting into the game?](../../../transcriptions/yt-LdNJwc9xclw.md) [https://www.youtube.com/watch?v=LdNJwc9xclw](https://www.youtube.com/watch?v=LdNJwc9xclw)
 

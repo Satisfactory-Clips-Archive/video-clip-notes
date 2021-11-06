@@ -7,6 +7,10 @@ date: Last Modified
 * [EU Merch Store](../topics/merch/eu-merch-store.md)
 * [Merch Prototypes](../topics/merch/merch-prototypes.md)
 
+## November 2nd, 2021 Livestream
+* [Q&A: Any news for the Mug?](../transcriptions/yt-fayIArgdrEs.md) [https://www.youtube.com/watch?v=fayIArgdrEs](https://www.youtube.com/watch?v=fayIArgdrEs)
+* [Q&A: Is the OST coming on vinyl?](../transcriptions/yt-a95G0B-fLdc.md) [https://www.youtube.com/watch?v=a95G0B-fLdc](https://www.youtube.com/watch?v=a95G0B-fLdc)
+
 ## October 28th, 2021 Video
 * [Jace Talk: Lizard Doggo Plush](../transcriptions/yt-YSPnFZbTvxE,12.9129,50.7507.md) [https://youtube.com/embed/YSPnFZbTvxE?autoplay=1&start=12&end=51](https://youtube.com/embed/YSPnFZbTvxE?autoplay=1&start=12&end=51)
 * [Jace Talk: Dave from Heroic Replicas](../transcriptions/yt-YSPnFZbTvxE,50.78406666666667,66.69996666666667.md) [https://youtube.com/embed/YSPnFZbTvxE?autoplay=1&start=50&end=67](https://youtube.com/embed/YSPnFZbTvxE?autoplay=1&start=50&end=67)

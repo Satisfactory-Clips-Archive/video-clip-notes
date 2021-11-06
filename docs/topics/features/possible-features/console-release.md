@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > Possible Features > Console Release
 
+## November 2nd, 2021 Livestream
+* [Q&A: Any info on Steam Deck compatibility?](../../../transcriptions/yt-D_ZQVOw9O2I.md) [https://www.youtube.com/watch?v=D_ZQVOw9O2I](https://www.youtube.com/watch?v=D_ZQVOw9O2I)
+* [Q&A: Console release?](../../../transcriptions/yt-XphmFYhaeHc.md) [https://www.youtube.com/watch?v=XphmFYhaeHc](https://www.youtube.com/watch?v=XphmFYhaeHc)
+
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
 * Snutt & Jace Talk: Satisfactory running on Steam Deck (Part 1) [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=1426&end=1588](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=1426&end=1588)
 * Snutt & Jace Talk: Satisfactory running on Steam Deck (Part 2) [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=1654&end=1714](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=1654&end=1714)

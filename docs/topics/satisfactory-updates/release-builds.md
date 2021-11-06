@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > Release Builds
 
+## November 2nd, 2021 Livestream
+* [Q&A: When will Update 5 come out on Early Access?](../../transcriptions/yt-jE9_3gnBleg.md) [https://www.youtube.com/watch?v=jE9_3gnBleg](https://www.youtube.com/watch?v=jE9_3gnBleg)
+* [Q&A: Can you play the Experimental build?](../../transcriptions/yt-Xr6AgBnJscw.md) [https://www.youtube.com/watch?v=Xr6AgBnJscw](https://www.youtube.com/watch?v=Xr6AgBnJscw)
+* [Q&A: When do you hope Update 5 will hit Early Access?](../../transcriptions/yt-6iQWBOLYA60.md) [https://www.youtube.com/watch?v=6iQWBOLYA60](https://www.youtube.com/watch?v=6iQWBOLYA60)
+
 ## October 27th, 2021 Video
 * [Jace Talk: Dedicated Servers are super experimental](../../transcriptions/yt-Nn-1s87JJxc,61.628233333333334,88.92216666666667.md) [https://youtube.com/embed/Nn-1s87JJxc?autoplay=1&start=61&end=89](https://youtube.com/embed/Nn-1s87JJxc?autoplay=1&start=61&end=89)
 

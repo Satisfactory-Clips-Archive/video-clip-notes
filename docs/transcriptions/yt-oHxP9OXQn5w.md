@@ -8,7 +8,7 @@ topics:
 # [April 27th, 2021 Livestream](../2021-04-27.md)
 ## Q&A: Solar Power?
 https://www.youtube.com/watch?v=oHxP9OXQn5w
-This question was possibly duplicated with a more recent answer: [August 3rd, 2021 Livestream Q&A: Solar Energy?](./yt-WLbaUlcla48.md) [https://www.youtube.com/watch?v=WLbaUlcla48](https://www.youtube.com/watch?v=WLbaUlcla48)
+This question was possibly duplicated with a more recent answer: [November 2nd, 2021 Livestream Q&A: Solar, when?](./yt-b2ipv5TjTe8.md) [https://www.youtube.com/watch?v=b2ipv5TjTe8](https://www.youtube.com/watch?v=b2ipv5TjTe8)
 
 
 ### Topics

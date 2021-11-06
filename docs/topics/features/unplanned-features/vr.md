@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Unplanned Features](../../../topics/features/unplanned-features.md) > VR
 
+## November 2nd, 2021 Livestream
+* [Q&A: RTX or VR support coming soon?](../../../transcriptions/yt-1jJweErvkSM.md) [https://www.youtube.com/watch?v=1jJweErvkSM](https://www.youtube.com/watch?v=1jJweErvkSM)
+
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
 * Q&A: VR? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=1803&end=1874](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=1803&end=1874)
 

@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildables](../../../topics/features/buildables.md) > Walls
 
+## November 2nd, 2021 Livestream
+* Snutt & Jace Talk: Torsten's Cosmetics Whiteboard (Part 8) [https://www.youtube.com/watch?v=q-yglbCI9pM](https://www.youtube.com/watch?v=q-yglbCI9pM)
+* [Q&A: Where is basic Wall 2m which Jace promised in the Update 5 cosmetics video?](../../../transcriptions/yt--1kh2fAn5_M.md) [https://www.youtube.com/watch?v=-1kh2fAn5_M](https://www.youtube.com/watch?v=-1kh2fAn5_M)
+
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
 * [Snutt & Jace Talk: More Cosmetic Build Pieces](../../../transcriptions/yt-QfaReoks6OM,231.75,262.75.md) [https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=231&end=263](https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=231&end=263)
 

@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Teasers & Trailers](../../../topics/satisfactory-updates/teasers-trailers.md) > Update 5 Teasers
 
+## November 2nd, 2021 Livestream
+* [Q&A: Where is basic Wall 2m which Jace promised in the Update 5 cosmetics video?](../../../transcriptions/yt--1kh2fAn5_M.md) [https://www.youtube.com/watch?v=-1kh2fAn5_M](https://www.youtube.com/watch?v=-1kh2fAn5_M)
+* [Q&A: Are we going to get a cosmetic Dedicated Server in the game?](../../../transcriptions/yt-RLw5RmNJInE.md) [https://www.youtube.com/watch?v=RLw5RmNJInE](https://www.youtube.com/watch?v=RLw5RmNJInE)
+
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
 * Mark, Snutt, and Jace Talk: Started Update 5 Teaser season, then delayed it [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=13743&end=13937](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=13743&end=13937)
 * Community FYI: Ramp Rails video was S+ Tier Marketing [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=13984&end=14004](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=13984&end=14004)

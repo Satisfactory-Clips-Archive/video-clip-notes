@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Goat Simulator
 
+## November 2nd, 2021 Livestream
+* [Q&A: Are we going to get a cosmetic Dedicated Server in the game?](../../transcriptions/yt-RLw5RmNJInE.md) [https://www.youtube.com/watch?v=RLw5RmNJInE](https://www.youtube.com/watch?v=RLw5RmNJInE)
+
 ## October 19th, 2021 Livestream
 * [Q&A: Any new Updates for Goat Simulator?](../../transcriptions/yt-zpm_4gQLWqQ.md) [https://www.youtube.com/watch?v=zpm_4gQLWqQ](https://www.youtube.com/watch?v=zpm_4gQLWqQ)
 

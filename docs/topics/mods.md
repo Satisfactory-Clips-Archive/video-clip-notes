@@ -32,6 +32,9 @@ date: Last Modified
 * [Utility Signs](../topics/mods/utility-signs.md)
 * [Zip Strips](../topics/mods/zip-strips.md)
 
+## November 2nd, 2021 Livestream
+* [Q&A: Have you discussed Mods working with Dedicated Servers?](../transcriptions/yt-_FSlbFuaHq0.md) [https://www.youtube.com/watch?v=_FSlbFuaHq0](https://www.youtube.com/watch?v=_FSlbFuaHq0)
+
 ## September 21st, 2021 Livestream
 * [Snutt & Jace Talk: If you're playing on Experimental, Mods will probably break](../transcriptions/yt-SPBT-gIzIPU.md) [https://www.youtube.com/watch?v=SPBT-gIzIPU](https://www.youtube.com/watch?v=SPBT-gIzIPU)
 

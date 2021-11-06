@@ -8,7 +8,7 @@ topics:
 # [August 1st, 2018 Q&A](../2018-08-01.md)
 ## Q&A: Will there be landscape deformation or Terraforming?
 https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=62&end=67
-This question was possibly duplicated with a more recent answer: [September 28th, 2021 Livestream Q&A: Any plans for Terraforming the landscape a little bit?](./yt-JQpNpEJAscc.md) [https://www.youtube.com/watch?v=JQpNpEJAscc](https://www.youtube.com/watch?v=JQpNpEJAscc)
+This question was possibly duplicated with a more recent answer: [November 2nd, 2021 Livestream Q&A: Any plans for Terraforming?](./yt-TnrPTpK7Ibw.md) [https://www.youtube.com/watch?v=TnrPTpK7Ibw](https://www.youtube.com/watch?v=TnrPTpK7Ibw)
 
 
 ### Topics

@@ -9,7 +9,7 @@ topics:
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Q&A: Official Mod support?
 https://www.youtube.com/watch?v=0M3RKdwK5mA
-This question was possibly duplicated with a more recent answer: [July 16th, 2021 Video Q&A: Will there be Steam Workshop?](./yt-Z2WggHmVHGI,135.7356,235.10153333333335.md) [https://youtube.com/embed/Z2WggHmVHGI?autoplay=1&start=135&end=236](https://youtube.com/embed/Z2WggHmVHGI?autoplay=1&start=135&end=236)
+This question was possibly duplicated with a more recent answer: [November 2nd, 2021 Livestream Q&A: Steam Workshop](./yt-VshaC16CO0w.md) [https://www.youtube.com/watch?v=VshaC16CO0w](https://www.youtube.com/watch?v=VshaC16CO0w)
 
 
 ### Topics

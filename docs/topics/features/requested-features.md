@@ -13,6 +13,9 @@ date: Last Modified
 * [Pollution](../../topics/features/requested-features/pollution.md)
 * [Third-person View](../../topics/features/requested-features/third-person-view.md)
 
+## November 2nd, 2021 Livestream
+* Snutt & Jace Talk: Torsten's Cosmetics Whiteboard (Part 5) [https://www.youtube.com/watch?v=cpguvk8cvl0](https://www.youtube.com/watch?v=cpguvk8cvl0)
+
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
 * Tobias, Snutt, and Jace Talk: Train Elevators [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=3996&end=4065](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=3996&end=4065)
 

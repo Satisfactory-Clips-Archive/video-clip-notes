@@ -9,7 +9,7 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: Will Update 4 include Multiplayer optimisation?
 https://www.youtube.com/watch?v=P0Q4nTvK9XU
-This question was possibly duplicated with a more recent answer: [October 5th, 2021 Livestream Q&A: New fixes for Multiplayer gameplay?](./yt-YExHZSA1bH4.md) [https://www.youtube.com/watch?v=YExHZSA1bH4](https://www.youtube.com/watch?v=YExHZSA1bH4)
+This question was possibly duplicated with a more recent answer: [November 2nd, 2021 Livestream Q&A: Multiplayer fixes, when?](./yt-OUrWFNuyPIA.md) [https://www.youtube.com/watch?v=OUrWFNuyPIA](https://www.youtube.com/watch?v=OUrWFNuyPIA)
 
 
 ### Topics

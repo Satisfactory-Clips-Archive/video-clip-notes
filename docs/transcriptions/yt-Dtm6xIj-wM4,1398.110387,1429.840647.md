@@ -8,7 +8,7 @@ topics:
 # [February 6th, 2019 Livestream](../2019-02-06.md)
 ## Q&A: Localisation support?
 https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1398&end=1430
-This question was possibly duplicated with a more recent answer: [July 6th, 2021 Livestream Q&A: How would you join the translation crew?](./yt-21YJgMguxHQ.md) [https://www.youtube.com/watch?v=21YJgMguxHQ](https://www.youtube.com/watch?v=21YJgMguxHQ)
+This question was possibly duplicated with a more recent answer: [November 2nd, 2021 Livestream Q&A: Does Satisfactory need help with Translating the game, I'd like to help?](./yt-6v8kQysRYRs.md) [https://www.youtube.com/watch?v=6v8kQysRYRs](https://www.youtube.com/watch?v=6v8kQysRYRs)
 
 
 ### Topics

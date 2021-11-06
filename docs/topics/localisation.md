@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../topics.md) > Localisation
 * [Localization Community Highlight](../topics/localisation/localization-community-highlight.md)
 
+## November 2nd, 2021 Livestream
+* [Q&A: Does Satisfactory need help with Translating the game, I'd like to help?](../transcriptions/yt-6v8kQysRYRs.md) [https://www.youtube.com/watch?v=6v8kQysRYRs](https://www.youtube.com/watch?v=6v8kQysRYRs)
+
 ## October 12th, 2021 Livestream
 * [Q&A: How can I change the language to Pirate?](../transcriptions/yt-afBBnes2wzE.md) [https://www.youtube.com/watch?v=afBBnes2wzE](https://www.youtube.com/watch?v=afBBnes2wzE)
 

@@ -10,14 +10,7 @@ topics:
 # [July 6th, 2021 Livestream](../2021-07-06.md)
 ## Q&A: How would you join the translation crew?
 https://www.youtube.com/watch?v=21YJgMguxHQ
-<details>
-<summary>This question may have been asked previously at least 4 other times, as recently as January 2021 and as early as February 2019.</summary>
-
-* [January 12th, 2021 Livestream Q&A: How can I help with translation- the Spanish one looks like Google Translator?](./yt-qbaev-b4lbQ.md) [https://www.youtube.com/watch?v=qbaev-b4lbQ](https://www.youtube.com/watch?v=qbaev-b4lbQ)
-* [February 11th, 2020 Livestream Q&A: How does one help with localisation?](./yt-uLblaRDOX4Y.md) [https://www.youtube.com/watch?v=uLblaRDOX4Y](https://www.youtube.com/watch?v=uLblaRDOX4Y)
-* [January 22nd, 2020 Livestream Q&A: Will you fix translations?](./yt-NJxOCbsJtZQ.md) [https://www.youtube.com/watch?v=NJxOCbsJtZQ](https://www.youtube.com/watch?v=NJxOCbsJtZQ)
-* [February 6th, 2019 Livestream Q&A: Localisation support?](./yt-Dtm6xIj-wM4,1398.110387,1429.840647.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1398&end=1430](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1398&end=1430)
-</details>
+This question was possibly duplicated with a more recent answer: [November 2nd, 2021 Livestream Q&A: Does Satisfactory need help with Translating the game, I'd like to help?](./yt-6v8kQysRYRs.md) [https://www.youtube.com/watch?v=6v8kQysRYRs](https://www.youtube.com/watch?v=6v8kQysRYRs)
 
 
 ### Topics

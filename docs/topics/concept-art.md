@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Concept Art
 
+## November 2nd, 2021 Livestream
+* [Snutt & Jace Talk: Concept Art vs. Community](../transcriptions/yt-BnEZmedFCPk.md) [https://www.youtube.com/watch?v=BnEZmedFCPk](https://www.youtube.com/watch?v=BnEZmedFCPk)
+* [Snutt & Jace Talk: Torsten's Cosmetics Whiteboard (Part 1)](../transcriptions/yt-2xXOlRDamHE.md) [https://www.youtube.com/watch?v=2xXOlRDamHE](https://www.youtube.com/watch?v=2xXOlRDamHE)
+
 ## June 22nd, 2021 Livestream
 * [Snutt & Torsten Talk: Concept Art - Resource Well Pressurizer](../transcriptions/yt-bXkX3Vwy_Xg.md) [https://www.youtube.com/watch?v=bXkX3Vwy_Xg](https://www.youtube.com/watch?v=bXkX3Vwy_Xg)
 * [Snutt & Torsten Talk: Concept Art - The Blender™](../transcriptions/yt--Z7MfVopphg.md) [https://www.youtube.com/watch?v=-Z7MfVopphg](https://www.youtube.com/watch?v=-Z7MfVopphg)

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > DirectX
 
+## November 2nd, 2021 Livestream
+* [Q&A: Is DirectX 12 support going to be standard in future?](../../transcriptions/yt-Q2TfOox12kk.md) [https://www.youtube.com/watch?v=Q2TfOox12kk](https://www.youtube.com/watch?v=Q2TfOox12kk)
+
 ## September 28th, 2021 Livestream
 * [Q&A: Why would you pick Vulkan over DirectX 12?](../../transcriptions/yt-Rh4ZuKAKnuw.md) [https://www.youtube.com/watch?v=Rh4ZuKAKnuw](https://www.youtube.com/watch?v=Rh4ZuKAKnuw)
 

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Environment](../../topics/environment.md) > Plants
 
+## November 2nd, 2021 Livestream
+* Snutt & Jace Talk: Torsten's Cosmetics Whiteboard (Part 5) [https://www.youtube.com/watch?v=cpguvk8cvl0](https://www.youtube.com/watch?v=cpguvk8cvl0)
+
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
 * [Snutt & Jace Talk: We've updated the Northern Forest](../../transcriptions/yt-QfaReoks6OM,551.5833333333334,584.2916666666666.md) [https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=551&end=585](https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=551&end=585)
 

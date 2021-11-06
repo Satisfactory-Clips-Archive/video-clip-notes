@@ -5,6 +5,14 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > QA Site
 
+## November 2nd, 2021 Livestream
+* [Snutt & Jace Talk: Golf](../transcriptions/yt-IwvIv7uXU20.md) [https://www.youtube.com/watch?v=IwvIv7uXU20](https://www.youtube.com/watch?v=IwvIv7uXU20)
+* [Community FYI: I can't post on the QA Site, I'm just not able to](../transcriptions/yt-p-3_lmB_92k.md) [https://www.youtube.com/watch?v=p-3_lmB_92k](https://www.youtube.com/watch?v=p-3_lmB_92k)
+* [Q&A: Is Map fixed yet? (Part 1)](../transcriptions/yt-HNDL_xtZcBQ.md) [https://www.youtube.com/watch?v=HNDL_xtZcBQ](https://www.youtube.com/watch?v=HNDL_xtZcBQ)
+* [Q&A: What does "Fixed Internally" mean on the QA Site?](../transcriptions/yt-BQMF8vlv_s0.md) [https://www.youtube.com/watch?v=BQMF8vlv_s0](https://www.youtube.com/watch?v=BQMF8vlv_s0)
+* [Q&A: Crashing without a crash report, what can I do to report it?](../transcriptions/yt-s_Rp8oP8RLQ.md) [https://www.youtube.com/watch?v=s_Rp8oP8RLQ](https://www.youtube.com/watch?v=s_Rp8oP8RLQ)
+* [Q&A: Is it possible to change your name on the QA Site?](../transcriptions/yt-3lddewDsNzw.md) [https://www.youtube.com/watch?v=3lddewDsNzw](https://www.youtube.com/watch?v=3lddewDsNzw)
+
 ## October 29th, 2021 Video
 * [Jace Talk: Update 5 bug reports](../transcriptions/yt-rePLsjw-eEY,78.44503333333334,114.48103333333333.md) [https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=78&end=115](https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=78&end=115)
 

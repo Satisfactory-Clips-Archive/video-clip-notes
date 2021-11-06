@@ -8,7 +8,7 @@ topics:
 # [March 24th, 2020 Livestream](../2020-03-24.md)
 ## Q&A: How high is Multiplayer bugfixing on the priority list?
 https://www.youtube.com/watch?v=mvSWBd42JYM
-This question was possibly duplicated with a more recent answer: [October 5th, 2021 Livestream Q&A: New fixes for Multiplayer gameplay?](./yt-YExHZSA1bH4.md) [https://www.youtube.com/watch?v=YExHZSA1bH4](https://www.youtube.com/watch?v=YExHZSA1bH4)
+This question was possibly duplicated with a more recent answer: [November 2nd, 2021 Livestream Q&A: Multiplayer fixes, when?](./yt-OUrWFNuyPIA.md) [https://www.youtube.com/watch?v=OUrWFNuyPIA](https://www.youtube.com/watch?v=OUrWFNuyPIA)
 
 
 ### Topics

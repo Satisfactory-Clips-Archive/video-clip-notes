@@ -12,6 +12,11 @@ date: Last Modified
 * [Tractor](../../../topics/features/transportation/vehicles/tractor.md)
 * [Truck](../../../topics/features/transportation/vehicles/truck.md)
 
+## November 2nd, 2021 Livestream
+* [Snutt & Jace Talk: Torsten's Cosmetics Whiteboard (Part 3)](../../../transcriptions/yt-Mm0VnPSe0VY.md) [https://www.youtube.com/watch?v=Mm0VnPSe0VY](https://www.youtube.com/watch?v=Mm0VnPSe0VY)
+* [Q&A: Do you have a timeframe on Trains or Trucks being fixed?](../../../transcriptions/yt-D9BB4q1QrE8.md) [https://www.youtube.com/watch?v=D9BB4q1QrE8](https://www.youtube.com/watch?v=D9BB4q1QrE8)
+* Q&A: Please add volume sliders for Vehicles [https://www.youtube.com/watch?v=FDAJll3QZw8](https://www.youtube.com/watch?v=FDAJll3QZw8)
+
 ## October 29th, 2021 Video
 * [Snutt Talk: You can Paint Vehicles, Trains, and Drones](../../../transcriptions/yt-rePLsjw-eEY,385.7854,405.30490000000003.md) [https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=385&end=406](https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=385&end=406)
 

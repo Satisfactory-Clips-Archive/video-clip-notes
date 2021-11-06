@@ -10,6 +10,8 @@ topics:
 # [October 27th, 2021 Video](../2021-10-27.md)
 ## Q&A: Did you just add a Dedicated Server model to the game?
 https://youtube.com/embed/Nn-1s87JJxc?autoplay=1&start=34&end=62
+This question was possibly duplicated with a more recent answer: [November 2nd, 2021 Livestream Q&A: Are we going to get a cosmetic Dedicated Server in the game?](./yt-RLw5RmNJInE.md) [https://www.youtube.com/watch?v=RLw5RmNJInE](https://www.youtube.com/watch?v=RLw5RmNJInE)
+
 
 ### Topics
 * [Features > Multiplayer > Dedicated Servers](../topics/features/multiplayer/dedicated-servers.md)

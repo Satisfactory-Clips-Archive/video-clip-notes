@@ -26,6 +26,9 @@ date: Last Modified
 * [The HUB](../../topics/features/buildings/the-hub.md)
 * [Water Extractor](../../topics/features/buildings/water-extractor.md)
 
+## November 2nd, 2021 Livestream
+* [Q&A: Can we have a toggle option to get the old fueling system on Truck Stations?](../../transcriptions/yt-BWmSCd1wE2A.md) [https://www.youtube.com/watch?v=BWmSCd1wE2A](https://www.youtube.com/watch?v=BWmSCd1wE2A)
+
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
 * [Jace Talk: Truck Stations have gotten an Update](../../transcriptions/yt-QfaReoks6OM,460.1666666666667,474.8333333333333.md) [https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=460&end=475](https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=460&end=475)
 * [Jace Talk: We've updated the Truck Station UI](../../transcriptions/yt-QfaReoks6OM,474.875,481.4117.md) [https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=474&end=482](https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=474&end=482)

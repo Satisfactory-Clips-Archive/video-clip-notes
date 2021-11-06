@@ -5,6 +5,19 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Multiplayer](../../../topics/features/multiplayer.md) > Dedicated Servers
 
+## November 2nd, 2021 Livestream
+* [Q&A: Dedicated Servers don't show up in my Steam Library, is it a regional thing?](../../../transcriptions/yt-6Trsm-es3TQ.md) [https://www.youtube.com/watch?v=6Trsm-es3TQ](https://www.youtube.com/watch?v=6Trsm-es3TQ)
+* [Community FYI: GG for Dedicated Servers, by the way](../../../transcriptions/yt-TH2AZz_gYSw.md) [https://www.youtube.com/watch?v=TH2AZz_gYSw](https://www.youtube.com/watch?v=TH2AZz_gYSw)
+* [Q&A: Is there a changelog for Dedicated Servers?](../../../transcriptions/yt-NGM2PXYmfvI.md) [https://www.youtube.com/watch?v=NGM2PXYmfvI](https://www.youtube.com/watch?v=NGM2PXYmfvI)
+* [Q&A: Dedicated Server issue, you can't change the session from "private" to "friends only"?](../../../transcriptions/yt-fNAG1mT6QKw.md) [https://www.youtube.com/watch?v=fNAG1mT6QKw](https://www.youtube.com/watch?v=fNAG1mT6QKw)
+* [Q&A: Is there a way to play the game with the Dedicated Server version?](../../../transcriptions/yt-6E68mgIXKUk.md) [https://www.youtube.com/watch?v=6E68mgIXKUk](https://www.youtube.com/watch?v=6E68mgIXKUk)
+* [Q&A: Haven't the Community already built a Dedicated Server Docker image?](../../../transcriptions/yt-9GdvoH4nUNU.md) [https://www.youtube.com/watch?v=9GdvoH4nUNU](https://www.youtube.com/watch?v=9GdvoH4nUNU)
+* [Q&A: Steam CMD or Steam Tools, which is better?](../../../transcriptions/yt-1iPCi4jWARg.md) [https://www.youtube.com/watch?v=1iPCi4jWARg](https://www.youtube.com/watch?v=1iPCi4jWARg)
+* [Q&A: Will Dedicated Servers eventually be multi-threaded?](../../../transcriptions/yt-XencmubF6hA.md) [https://www.youtube.com/watch?v=XencmubF6hA](https://www.youtube.com/watch?v=XencmubF6hA)
+* [Community FYI: There's dire need for some admin tools](../../../transcriptions/yt-i7Y7d1ojOI4.md) [https://www.youtube.com/watch?v=i7Y7d1ojOI4](https://www.youtube.com/watch?v=i7Y7d1ojOI4)
+* [Q&A: Are we going to get a cosmetic Dedicated Server in the game?](../../../transcriptions/yt-RLw5RmNJInE.md) [https://www.youtube.com/watch?v=RLw5RmNJInE](https://www.youtube.com/watch?v=RLw5RmNJInE)
+* [Q&A: Have you discussed Mods working with Dedicated Servers?](../../../transcriptions/yt-_FSlbFuaHq0.md) [https://www.youtube.com/watch?v=_FSlbFuaHq0](https://www.youtube.com/watch?v=_FSlbFuaHq0)
+
 ## October 29th, 2021 Video
 * [Jace Talk: Dedicated Servers](../../../transcriptions/yt-rePLsjw-eEY,114.51440000000001,226.29273333333333.md) [https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=114&end=227](https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=114&end=227)
 * [Q&A: Do I need to buy the game on Steam to use Dedicated Servers if I already have the game on Epic?](../../../transcriptions/yt-rePLsjw-eEY,195.987197,212.21200000000002.md) [https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=195&end=213](https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=195&end=213)

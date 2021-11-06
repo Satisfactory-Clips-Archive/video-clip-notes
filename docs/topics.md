@@ -442,6 +442,7 @@ date: Last Modified
 ### [Satisfactory Update 5](./topics/satisfactory-updates/released/satisfactory-update-5.md)
 * [#SaveTheWillows](./topics/satisfactory-updates/released/satisfactory-update-5/save-the-willows.md)
 * [Northern Forest World Update Q&A with Hannah](./topics/satisfactory-updates/released/satisfactory-update-5/northern-forest-world-update-q-and-a-with-hannah.md)
+* [Update 5 Torsten's Cosmetics Whiteboard](./topics/satisfactory-updates/released/satisfactory-update-5/torstens-cosmetics-whiteboard.md)
 ---
 
 ### [Satisfactory Alpha](./topics/satisfactory-updates/released/satisfactory-alpha.md)

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Torsten
 
+## November 2nd, 2021 Livestream
+* [Snutt & Jace Talk: Torsten's Cosmetics Whiteboard (Part 1)](../../transcriptions/yt-2xXOlRDamHE.md) [https://www.youtube.com/watch?v=2xXOlRDamHE](https://www.youtube.com/watch?v=2xXOlRDamHE)
+
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
 * Jace, Torsten, Hannah, and Snutt Talk: Torsten & Hannah introduce themselves [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=9917&end=9959](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=9917&end=9959)
 * Jace Talk: Art Giveaway, Jace vs. Torsten [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=9958&end=9994](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=9958&end=9994)

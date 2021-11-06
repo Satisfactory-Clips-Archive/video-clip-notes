@@ -1,5 +1,6 @@
 ---
 title: "Update 5 Launch Stream"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEqV8w9wOvrxi26vETzqpoFE
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Teasers & Trailers](../../../topics/satisfactory-updates/teasers-trailers.md) > Update 5 Launch Stream
@@ -9,6 +10,11 @@ date: Last Modified
 * [Update 5 Loot](../../../topics/satisfactory-updates/teasers-trailers/update-5-launch-stream/loot.md)
 * [Update 5 Quiz: Underrated/Overrated](../../../topics/satisfactory-updates/teasers-trailers/update-5-launch-stream/underrated-or-overrated-quiz.md)
 * [Update 5 Revealed](../../../topics/satisfactory-updates/teasers-trailers/update-5-launch-stream/update-5-revealed.md)
+
+## November 2nd, 2021 Livestream
+* [State of Dev: Update 5 (Part 1)](../../../transcriptions/yt-G7hTmrjxqx8.md) [https://www.youtube.com/watch?v=G7hTmrjxqx8](https://www.youtube.com/watch?v=G7hTmrjxqx8)
+* [Snutt & Jace Talk: HelloFresh](../../../transcriptions/yt-0zO8gV7jfrw.md) [https://www.youtube.com/watch?v=0zO8gV7jfrw](https://www.youtube.com/watch?v=0zO8gV7jfrw)
+* [Snutt & Jace Talk: Community Feedback to the Update 5 Launch Stream](../../../transcriptions/yt-3VTVYPUVwl8.md) [https://www.youtube.com/watch?v=3VTVYPUVwl8](https://www.youtube.com/watch?v=3VTVYPUVwl8)
 
 ## October 29th, 2021 Video
 * [Jace Talk: A lot of love from the Studio to you guys](../../../transcriptions/yt-rePLsjw-eEY,45.311933333333336,78.41166666666666.md) [https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=45&end=79](https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=45&end=79)

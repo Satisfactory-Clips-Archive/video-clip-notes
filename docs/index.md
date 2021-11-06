@@ -4,6 +4,9 @@ date: Last Modified
 layout: index
 ---
 # 2021
+## November
+* [November 2nd](2021-11-02.md)
+
 ## October
 * [October 29th](2021-10-29.md)
 * [October 28th](2021-10-28.md)

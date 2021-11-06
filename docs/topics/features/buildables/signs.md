@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildables](../../../topics/features/buildables.md) > Signs
 
+## November 2nd, 2021 Livestream
+* [15 Snutt   Jace Talk  Torsten s Cosmetics Whiteboard  Part 6](../../../transcriptions/yt-cL1_KQebJBQ.md) [https://www.youtube.com/watch?v=cL1_KQebJBQ](https://www.youtube.com/watch?v=cL1_KQebJBQ)
+
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
 * [Snutt & Jace Talk: We're finally adding Signs to the game](../../../transcriptions/yt-QfaReoks6OM,644.5,681.534533.md) [https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=644&end=682](https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=644&end=682)
 

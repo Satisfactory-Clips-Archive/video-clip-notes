@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Unplanned Features](../../../topics/features/unplanned-features.md) > Golf
 
+## November 2nd, 2021 Livestream
+* [Snutt & Jace Talk: Golf](../../../transcriptions/yt-IwvIv7uXU20.md) [https://www.youtube.com/watch?v=IwvIv7uXU20](https://www.youtube.com/watch?v=IwvIv7uXU20)
+* [State of Dev: Golf](../../../transcriptions/yt-q6Tzjxn3DLg.md) [https://www.youtube.com/watch?v=q6Tzjxn3DLg](https://www.youtube.com/watch?v=q6Tzjxn3DLg)
+* [Community FYI: Crab is the new Golf](../../../transcriptions/yt-cPL0bA8fLjc.md) [https://www.youtube.com/watch?v=cPL0bA8fLjc](https://www.youtube.com/watch?v=cPL0bA8fLjc)
+
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
 * [Jace & Snutt Talk: Golf](../../../transcriptions/yt-QfaReoks6OM,34.75,57.333333333333336.md) [https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=34&end=58](https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=34&end=58)
 * [Snutt & Jace Talk: Wager on releasing Golf versus Dedicated Servers (Part 1)](../../../transcriptions/yt-QfaReoks6OM,57.375,120.25.md) [https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=57&end=121](https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=57&end=121)

@@ -8,6 +8,8 @@ topics:
 # [June 29th, 2021 Livestream](../2021-06-29.md)
 ## Q&A: DirectX 12 support?
 https://www.youtube.com/watch?v=ZZKygLGMC7w
+This question was possibly replaced with a more recent answer: [November 2nd, 2021 Livestream Q&A: Is DirectX 12 support going to be standard in future?](./yt-Q2TfOox12kk.md) [https://www.youtube.com/watch?v=Q2TfOox12kk](https://www.youtube.com/watch?v=Q2TfOox12kk)
+
 <details>
 <summary>This question may have been asked previously at least 3 other times, as recently as February 2021 and as early as November 2020.</summary>
 

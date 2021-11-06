@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Community Highlights
 
+## November 2nd, 2021 Livestream
+* [Snutt & Jace Talk: Community Feedback to the Update 5 Launch Stream](../../transcriptions/yt-3VTVYPUVwl8.md) [https://www.youtube.com/watch?v=3VTVYPUVwl8](https://www.youtube.com/watch?v=3VTVYPUVwl8)
+* [Q&A: Are you posting this video to the YouTube channel?](../../transcriptions/yt-FkarkxovvLU.md) [https://www.youtube.com/watch?v=FkarkxovvLU](https://www.youtube.com/watch?v=FkarkxovvLU)
+
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
 * Coffee Stainer Talk: Golf (Part 4) [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=2622&end=2690](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=2622&end=2690)
 * Snutt & Jace Talk: Bisexual Finger Guns (Part 2) [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=2689&end=2738](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=2689&end=2738)

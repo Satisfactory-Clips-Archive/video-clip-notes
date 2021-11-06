@@ -21,6 +21,12 @@ date: Last Modified
 * [Walls](../../topics/features/buildables/walls.md)
 * [Windows](../../topics/features/buildables/windows.md)
 
+## November 2nd, 2021 Livestream
+* [Snutt & Jace Talk: Torsten's Cosmetics Whiteboard (Part 1)](../../transcriptions/yt-2xXOlRDamHE.md) [https://www.youtube.com/watch?v=2xXOlRDamHE](https://www.youtube.com/watch?v=2xXOlRDamHE)
+* [Snutt & Jace Talk: Torsten's Cosmetics Whiteboard (Part 4)](../../transcriptions/yt-N8UgzoIneMk.md) [https://www.youtube.com/watch?v=N8UgzoIneMk](https://www.youtube.com/watch?v=N8UgzoIneMk)
+* Snutt & Jace Talk: Torsten's Cosmetics Whiteboard (Part 8) [https://www.youtube.com/watch?v=q-yglbCI9pM](https://www.youtube.com/watch?v=q-yglbCI9pM)
+* [Q&A: Are we going to get a cosmetic Dedicated Server in the game?](../../transcriptions/yt-RLw5RmNJInE.md) [https://www.youtube.com/watch?v=RLw5RmNJInE](https://www.youtube.com/watch?v=RLw5RmNJInE)
+
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
 * [Snutt & Jace Talk: Wager on releasing Golf versus Dedicated Servers (Part 3)](../../transcriptions/yt-QfaReoks6OM,222.25,231.70833333333334.md) [https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=222&end=232](https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=222&end=232)
 * [Snutt & Jace Talk: More Cosmetic Build Pieces](../../transcriptions/yt-QfaReoks6OM,231.75,262.75.md) [https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=231&end=263](https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=231&end=263)

@@ -9,7 +9,7 @@ topics:
 # [October 19th, 2021 Livestream](../2021-10-19.md)
 ## Q&A: How long will the Update be on Experimental?
 https://www.youtube.com/watch?v=P2AWq6YaQaw
-This question was possibly duplicated with a more recent answer: October 26th, 2021 Update 5 Launch Stream and Patch Notes Video Q&A: When will Update 5 come to Early Access? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=16820&end=16843](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=16820&end=16843)
+This question was possibly duplicated with a more recent answer: [November 2nd, 2021 Livestream Q&A: When will Update 5 come out on Early Access?](./yt-jE9_3gnBleg.md) [https://www.youtube.com/watch?v=jE9_3gnBleg](https://www.youtube.com/watch?v=jE9_3gnBleg)
 
 
 ### Topics

@@ -14,6 +14,9 @@ date: Last Modified
 * [Update 5 Patch Notes Video](../../topics/satisfactory-updates/teasers-trailers/update-5-patch-notes-video.md)
 * [Update 5 Teasers](../../topics/satisfactory-updates/teasers-trailers/update-5-teasers.md)
 
+## November 2nd, 2021 Livestream
+* [Snutt & Jace Talk: That one track we use in all the YouTube videos](../../transcriptions/yt-1PrzGVafNZ8.md) [https://www.youtube.com/watch?v=1PrzGVafNZ8](https://www.youtube.com/watch?v=1PrzGVafNZ8)
+
 ## October 12th, 2021 Livestream
 * [Q&A: Can we have Locomotive that looks like the one in the original Trailer?](../../transcriptions/yt-PZX0CxE_XAA.md) [https://www.youtube.com/watch?v=PZX0CxE_XAA](https://www.youtube.com/watch?v=PZX0CxE_XAA)
 

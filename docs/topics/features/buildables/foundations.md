@@ -7,6 +7,9 @@ date: Last Modified
 * [Cheatcrete](../../../topics/features/buildables/foundations/cheatcrete.md)
 * [Foundation Stencils](../../../topics/features/buildables/foundations/stencils.md)
 
+## November 2nd, 2021 Livestream
+* [Q&A: How come you're turning Limestone into Concrete? How come it's Steel-framed?](../../../transcriptions/yt-tdXyjapP9IM.md) [https://www.youtube.com/watch?v=tdXyjapP9IM](https://www.youtube.com/watch?v=tdXyjapP9IM)
+
 ## October 19th, 2021 Livestream
 * [Q&A: Can Machines be rotated like Foundations in Update 5?](../../../transcriptions/yt-94G4znvDbiA.md) [https://www.youtube.com/watch?v=94G4znvDbiA](https://www.youtube.com/watch?v=94G4znvDbiA)
 * [Q&A: Free placement on Foundations?](../../../transcriptions/yt-5PaZZUkPwjU.md) [https://www.youtube.com/watch?v=5PaZZUkPwjU](https://www.youtube.com/watch?v=5PaZZUkPwjU)

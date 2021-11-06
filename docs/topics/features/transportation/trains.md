@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > Transportation > Trains
 * [Train Signals](../../../topics/features/transportation/trains/train-signals.md)
 
+## November 2nd, 2021 Livestream
+* [Q&A: Do you have a timeframe on Trains or Trucks being fixed?](../../../transcriptions/yt-D9BB4q1QrE8.md) [https://www.youtube.com/watch?v=D9BB4q1QrE8](https://www.youtube.com/watch?v=D9BB4q1QrE8)
+
 ## October 29th, 2021 Video
 * [Snutt Talk: You can Paint Vehicles, Trains, and Drones](../../../transcriptions/yt-rePLsjw-eEY,385.7854,405.30490000000003.md) [https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=385&end=406](https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=385&end=406)
 

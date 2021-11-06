@@ -23,6 +23,10 @@ date: Last Modified
 * [Tom](../topics/community/tom.md)
 * [Wiki](../topics/community/wiki.md)
 
+## November 2nd, 2021 Livestream
+* [Snutt & Jace Talk: Concept Art vs. Community](../transcriptions/yt-BnEZmedFCPk.md) [https://www.youtube.com/watch?v=BnEZmedFCPk](https://www.youtube.com/watch?v=BnEZmedFCPk)
+* [Q&A: Haven't the Community already built a Dedicated Server Docker image?](../transcriptions/yt-9GdvoH4nUNU.md) [https://www.youtube.com/watch?v=9GdvoH4nUNU](https://www.youtube.com/watch?v=9GdvoH4nUNU)
+
 ## October 29th, 2021 Video
 * [Jace Talk: A lot of love from the Studio to you guys](../transcriptions/yt-rePLsjw-eEY,45.311933333333336,78.41166666666666.md) [https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=45&end=79](https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=45&end=79)
 

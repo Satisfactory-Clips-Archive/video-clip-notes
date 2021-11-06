@@ -9,7 +9,7 @@ topics:
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Q&A: Is Multiplayer desync fixed in Update 4?
 https://www.youtube.com/watch?v=OjiLxOBdkU8
-This question was possibly duplicated with a more recent answer: [October 5th, 2021 Livestream Q&A: New fixes for Multiplayer gameplay?](./yt-YExHZSA1bH4.md) [https://www.youtube.com/watch?v=YExHZSA1bH4](https://www.youtube.com/watch?v=YExHZSA1bH4)
+This question was possibly duplicated with a more recent answer: [November 2nd, 2021 Livestream Q&A: Multiplayer fixes, when?](./yt-OUrWFNuyPIA.md) [https://www.youtube.com/watch?v=OUrWFNuyPIA](https://www.youtube.com/watch?v=OUrWFNuyPIA)
 
 
 ### Topics

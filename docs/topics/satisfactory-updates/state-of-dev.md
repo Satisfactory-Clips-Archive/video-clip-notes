@@ -5,6 +5,12 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > State of Dev
 
+## November 2nd, 2021 Livestream
+* [State of Dev: Update 5 (Part 1)](../../transcriptions/yt-G7hTmrjxqx8.md) [https://www.youtube.com/watch?v=G7hTmrjxqx8](https://www.youtube.com/watch?v=G7hTmrjxqx8)
+* [State of Dev: Update 5 (Part 2)](../../transcriptions/yt-Z5AHy4aQeyY.md) [https://www.youtube.com/watch?v=Z5AHy4aQeyY](https://www.youtube.com/watch?v=Z5AHy4aQeyY)
+* [State of Dev: Recap](../../transcriptions/yt-MPQJqkEO9iM.md) [https://www.youtube.com/watch?v=MPQJqkEO9iM](https://www.youtube.com/watch?v=MPQJqkEO9iM)
+* [State of Dev: Golf](../../transcriptions/yt-q6Tzjxn3DLg.md) [https://www.youtube.com/watch?v=q6Tzjxn3DLg](https://www.youtube.com/watch?v=q6Tzjxn3DLg)
+
 ## October 19th, 2021 Livestream
 * [State of Dev: Update 5 Patch Notes Video](../../transcriptions/yt-KCRUGN_SnBk.md) [https://www.youtube.com/watch?v=KCRUGN_SnBk](https://www.youtube.com/watch?v=KCRUGN_SnBk)
 * [State of Dev: Fixing Update 5 bugs](../../transcriptions/yt-Q_TqRnr6QPY.md) [https://www.youtube.com/watch?v=Q_TqRnr6QPY](https://www.youtube.com/watch?v=Q_TqRnr6QPY)

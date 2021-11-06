@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Pending > Satisfactory 1.0
 
+## November 2nd, 2021 Livestream
+* [Q&A: After 1.0 will you still support the game or just move on?](../../../transcriptions/yt-4uejLZj2lCk.md) [https://www.youtube.com/watch?v=4uejLZj2lCk](https://www.youtube.com/watch?v=4uejLZj2lCk)
+* [Community FYI: 1.0 prediction hype](../../../transcriptions/yt-3fVjS3bjxL4.md) [https://www.youtube.com/watch?v=3fVjS3bjxL4](https://www.youtube.com/watch?v=3fVjS3bjxL4)
+
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
 * Hannah & Snutt Talk: Prototyping 1.0 [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=10340&end=10445](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=10340&end=10445)
 * Jace, Torsten, Hannah, and Snutt: Jace's phone rings early [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=10469&end=10581](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=10469&end=10581)

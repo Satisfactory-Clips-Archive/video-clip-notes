@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Crafting](../../../topics/features/crafting.md) > Fuel
 
+## November 2nd, 2021 Livestream
+* [Q&A: Can we have a toggle option to get the old fueling system on Truck Stations?](../../../transcriptions/yt-BWmSCd1wE2A.md) [https://www.youtube.com/watch?v=BWmSCd1wE2A](https://www.youtube.com/watch?v=BWmSCd1wE2A)
+
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
 * Q&A: Does Vehicle Ghosting or getting stuck contribute to Fuel consumption? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=5036&end=5121](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=5036&end=5121)
 * Q&A: What happens if a Vehicle is refueling at a Truck Station and another Vehicle comes along? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=5120&end=5375](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=5120&end=5375)

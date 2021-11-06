@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Josh
 
+## November 2nd, 2021 Livestream
+* [Q&A: You guys need to hire Josh for your infomercial](../../transcriptions/yt-sdbRoobO7Jc.md) [https://www.youtube.com/watch?v=sdbRoobO7Jc](https://www.youtube.com/watch?v=sdbRoobO7Jc)
+* [Snutt & Jace Talk: Josh's role in the Update 5 Patch Notes script](../../transcriptions/yt-xYGnNA7VLVQ.md) [https://www.youtube.com/watch?v=xYGnNA7VLVQ](https://www.youtube.com/watch?v=xYGnNA7VLVQ)
+
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
 * [Snutt & Jace Talk: Wager on releasing Golf versus Dedicated Servers (Part 10)](../../transcriptions/yt-QfaReoks6OM,911.75,1018.3333333333334.md) [https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=911&end=1019](https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=911&end=1019)
 

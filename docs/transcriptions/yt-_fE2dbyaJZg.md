@@ -9,7 +9,7 @@ topics:
 # [November 24th, 2020 Livestream](../2020-11-24.md)
 ## Q&A: Is terraforming possible any time in the future?
 https://www.youtube.com/watch?v=_fE2dbyaJZg
-This question was possibly duplicated with a more recent answer: [September 28th, 2021 Livestream Q&A: Any plans for Terraforming the landscape a little bit?](./yt-JQpNpEJAscc.md) [https://www.youtube.com/watch?v=JQpNpEJAscc](https://www.youtube.com/watch?v=JQpNpEJAscc)
+This question was possibly duplicated with a more recent answer: [November 2nd, 2021 Livestream Q&A: Any plans for Terraforming?](./yt-TnrPTpK7Ibw.md) [https://www.youtube.com/watch?v=TnrPTpK7Ibw](https://www.youtube.com/watch?v=TnrPTpK7Ibw)
 
 
 ### Topics

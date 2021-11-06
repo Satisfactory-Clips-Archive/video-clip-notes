@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildables](../../../topics/features/buildables.md) > Walkways
 
+## November 2nd, 2021 Livestream
+* [Snutt & Jace Talk: Torsten's Cosmetics Whiteboard (Part 4)](../../../transcriptions/yt-N8UgzoIneMk.md) [https://www.youtube.com/watch?v=N8UgzoIneMk](https://www.youtube.com/watch?v=N8UgzoIneMk)
+
 ## October 15th, 2021 Video
 * [Jace Talk: Snap walkways to Buildings](../../../transcriptions/yt-jTIAMuPqSlI,173.54003333333333,218.9187.md) [https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=173&end=219](https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=173&end=219)
 

@@ -7,6 +7,10 @@ date: Last Modified
 * [Snutt Burger Time](../../topics/coffee-stainers/snutt/snutt-burger-time.md)
 * [Snutty Mays](../../topics/coffee-stainers/snutt/snutty-mays.md)
 
+## November 2nd, 2021 Livestream
+* [Snutt & Jace Talk: Community Feedback to the Update 5 Launch Stream](../../transcriptions/yt-3VTVYPUVwl8.md) [https://www.youtube.com/watch?v=3VTVYPUVwl8](https://www.youtube.com/watch?v=3VTVYPUVwl8)
+* [Q&A: What are you doing for dinner?](../../transcriptions/yt-wb4NqoIBxrU.md) [https://www.youtube.com/watch?v=wb4NqoIBxrU](https://www.youtube.com/watch?v=wb4NqoIBxrU)
+
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
 * Snutt & Jace Talk: Bisexual Finger Guns (Part 1) [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=652&end=662](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=652&end=662)
 * Snutt & Jace Talk: Bisexual Finger Guns (Part 2) [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=2689&end=2738](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=2689&end=2738)

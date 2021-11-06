@@ -7,6 +7,11 @@ date: Last Modified
 * [Autosave](../../topics/features/save-system/autosave.md)
 * [Cloud Sync](../../topics/features/save-system/cloud-sync.md)
 
+## November 2nd, 2021 Livestream
+* [Q&A: Will the save times be reduced?](../../transcriptions/yt-Oe3YJ6I0wIg.md) [https://www.youtube.com/watch?v=Oe3YJ6I0wIg](https://www.youtube.com/watch?v=Oe3YJ6I0wIg)
+* [Q&A: Can you add an option in the save/load menu to delete old saves?](../../transcriptions/yt-L6qL7hJSMZw.md) [https://www.youtube.com/watch?v=L6qL7hJSMZw](https://www.youtube.com/watch?v=L6qL7hJSMZw)
+* [Q&A: Can you add a function to delete multiple saves at once?](../../transcriptions/yt-Lmi0SPmQqys.md) [https://www.youtube.com/watch?v=Lmi0SPmQqys](https://www.youtube.com/watch?v=Lmi0SPmQqys)
+
 ## October 27th, 2021 Video
 * [Jace Talk: Dedicated Server Save Games](../../transcriptions/yt-Nn-1s87JJxc,900.3327666666667.md) [https://youtube.com/embed/Nn-1s87JJxc?autoplay=1&start=900](https://youtube.com/embed/Nn-1s87JJxc?autoplay=1&start=900)
 

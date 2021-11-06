@@ -6,6 +6,22 @@ date: Last Modified
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Released > Satisfactory Update 5
 * [Northern Forest World Update Q&A with Hannah](../../../topics/satisfactory-updates/released/satisfactory-update-5/northern-forest-world-update-q-and-a-with-hannah.md)
 * [#SaveTheWillows](../../../topics/satisfactory-updates/released/satisfactory-update-5/save-the-willows.md)
+* [Update 5 Torsten's Cosmetics Whiteboard](../../../topics/satisfactory-updates/released/satisfactory-update-5/torstens-cosmetics-whiteboard.md)
+
+## November 2nd, 2021 Livestream
+* [State of Dev: Update 5 (Part 1)](../../../transcriptions/yt-G7hTmrjxqx8.md) [https://www.youtube.com/watch?v=G7hTmrjxqx8](https://www.youtube.com/watch?v=G7hTmrjxqx8)
+* [Snutt & Jace Talk: Things to do if you're having issues](../../../transcriptions/yt-muYUL8VCEtM.md) [https://www.youtube.com/watch?v=muYUL8VCEtM](https://www.youtube.com/watch?v=muYUL8VCEtM)
+* [State of Dev: Update 5 (Part 2)](../../../transcriptions/yt-Z5AHy4aQeyY.md) [https://www.youtube.com/watch?v=Z5AHy4aQeyY](https://www.youtube.com/watch?v=Z5AHy4aQeyY)
+* [Q&A: When will Update 5 come out on Early Access?](../../../transcriptions/yt-jE9_3gnBleg.md) [https://www.youtube.com/watch?v=jE9_3gnBleg](https://www.youtube.com/watch?v=jE9_3gnBleg)
+* [Snutt & Jace Talk: Concept Art vs. Community](../../../transcriptions/yt-BnEZmedFCPk.md) [https://www.youtube.com/watch?v=BnEZmedFCPk](https://www.youtube.com/watch?v=BnEZmedFCPk)
+* [Snutt & Jace Talk: Torsten's Cosmetics Whiteboard (Part 1)](../../../transcriptions/yt-2xXOlRDamHE.md) [https://www.youtube.com/watch?v=2xXOlRDamHE](https://www.youtube.com/watch?v=2xXOlRDamHE)
+* [Q&A: How come you're turning Limestone into Concrete? How come it's Steel-framed?](../../../transcriptions/yt-tdXyjapP9IM.md) [https://www.youtube.com/watch?v=tdXyjapP9IM](https://www.youtube.com/watch?v=tdXyjapP9IM)
+* [State of Dev: Recap](../../../transcriptions/yt-MPQJqkEO9iM.md) [https://www.youtube.com/watch?v=MPQJqkEO9iM](https://www.youtube.com/watch?v=MPQJqkEO9iM)
+* [Q&A: Can we have a toggle option to get the old fueling system on Truck Stations?](../../../transcriptions/yt-BWmSCd1wE2A.md) [https://www.youtube.com/watch?v=BWmSCd1wE2A](https://www.youtube.com/watch?v=BWmSCd1wE2A)
+* [Q&A: Do you have a timeframe on Trains or Trucks being fixed?](../../../transcriptions/yt-D9BB4q1QrE8.md) [https://www.youtube.com/watch?v=D9BB4q1QrE8](https://www.youtube.com/watch?v=D9BB4q1QrE8)
+* [Q&A: Can you play the Experimental build?](../../../transcriptions/yt-Xr6AgBnJscw.md) [https://www.youtube.com/watch?v=Xr6AgBnJscw](https://www.youtube.com/watch?v=Xr6AgBnJscw)
+* [Q&A: When do you hope Update 5 will hit Early Access?](../../../transcriptions/yt-6iQWBOLYA60.md) [https://www.youtube.com/watch?v=6iQWBOLYA60](https://www.youtube.com/watch?v=6iQWBOLYA60)
+* [Q&A: When is the next Patch planned?](../../../transcriptions/yt-hZRZ21652rs.md) [https://www.youtube.com/watch?v=hZRZ21652rs](https://www.youtube.com/watch?v=hZRZ21652rs)
 
 ## October 29th, 2021 Video
 * [Jace Talk: A lot of love from the Studio to you guys](../../../transcriptions/yt-rePLsjw-eEY,45.311933333333336,78.41166666666666.md) [https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=45&end=79](https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=45&end=79)

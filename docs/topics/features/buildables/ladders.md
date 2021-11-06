@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildables](../../../topics/features/buildables.md) > Ladders
 
+## November 2nd, 2021 Livestream
+* [Snutt & Jace Talk: Torsten's Cosmetics Whiteboard (Part 4)](../../../transcriptions/yt-N8UgzoIneMk.md) [https://www.youtube.com/watch?v=N8UgzoIneMk](https://www.youtube.com/watch?v=N8UgzoIneMk)
+
 ## September 14th, 2021 Livestream
 * [Q&A: Will there be a hotkey for going down Ladders faster?](../../../transcriptions/yt-Bql_P71iLV8.md) [https://www.youtube.com/watch?v=Bql_P71iLV8](https://www.youtube.com/watch?v=Bql_P71iLV8)
 

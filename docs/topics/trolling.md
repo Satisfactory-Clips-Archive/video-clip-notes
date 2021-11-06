@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Trolling
 
+## November 2nd, 2021 Livestream
+* [Snutt & Jace Talk: Torsten's Cosmetics Whiteboard (Part 7)](../transcriptions/yt-BLow4FGZ4LQ.md) [https://www.youtube.com/watch?v=BLow4FGZ4LQ](https://www.youtube.com/watch?v=BLow4FGZ4LQ)
+
 ## October 27th, 2021 Video
 * [Q&A: Did you just add a Dedicated Server model to the game?](../transcriptions/yt-Nn-1s87JJxc,34.2342,61.59486666666667.md) [https://youtube.com/embed/Nn-1s87JJxc?autoplay=1&start=34&end=62](https://youtube.com/embed/Nn-1s87JJxc?autoplay=1&start=34&end=62)
 

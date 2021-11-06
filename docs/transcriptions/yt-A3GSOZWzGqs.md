@@ -10,7 +10,7 @@ topics:
 # [June 22nd, 2021 Livestream](../2021-06-22.md)
 ## Q&A: Will we see something like Blueprints in Update 5?
 https://www.youtube.com/watch?v=A3GSOZWzGqs
-This question was possibly duplicated with a more recent answer: [September 28th, 2021 Livestream Q&A: Are you guys putting any form of Blueprinting into the game?](./yt-LdNJwc9xclw.md) [https://www.youtube.com/watch?v=LdNJwc9xclw](https://www.youtube.com/watch?v=LdNJwc9xclw)
+This question was possibly duplicated with a more recent answer: [November 2nd, 2021 Livestream Q&A: Current team consensus on Blueprints?](./yt-yP3yd9rIfUk.md) [https://www.youtube.com/watch?v=yP3yd9rIfUk](https://www.youtube.com/watch?v=yP3yd9rIfUk)
 
 
 ### Topics

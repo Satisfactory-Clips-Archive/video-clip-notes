@@ -6,6 +6,12 @@ date: Last Modified
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > User Interface
 * [Holograms](../../topics/technology/user-interface/holograms.md)
 
+## November 2nd, 2021 Livestream
+* [Q&A: Is Map fixed yet? (Part 2)](../../transcriptions/yt-ltBfVqo8Zlc.md) [https://www.youtube.com/watch?v=ltBfVqo8Zlc](https://www.youtube.com/watch?v=ltBfVqo8Zlc)
+* [Q&A: Can we have a toggle option to get the old fueling system on Truck Stations?](../../transcriptions/yt-BWmSCd1wE2A.md) [https://www.youtube.com/watch?v=BWmSCd1wE2A](https://www.youtube.com/watch?v=BWmSCd1wE2A)
+* [Q&A: Can you add an option in the save/load menu to delete old saves?](../../transcriptions/yt-L6qL7hJSMZw.md) [https://www.youtube.com/watch?v=L6qL7hJSMZw](https://www.youtube.com/watch?v=L6qL7hJSMZw)
+* Q&A: Please add volume sliders for Vehicles [https://www.youtube.com/watch?v=FDAJll3QZw8](https://www.youtube.com/watch?v=FDAJll3QZw8)
+
 ## October 29th, 2021 Video
 * [Snutt Talk: Fine-grained volume controls](../../transcriptions/yt-rePLsjw-eEY,798.5310666666667,840.6398.md) [https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=798&end=841](https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=798&end=841)
 * [Snutt Talk: HUD UI & button mapping changes](../../transcriptions/yt-rePLsjw-eEY,840.6731666666667,901.8676333333334.md) [https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=840&end=902](https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=840&end=902)

@@ -8,7 +8,7 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: Is multiplayer desync getting fixed?
 https://www.youtube.com/watch?v=tkx-DVLp3fs
-This question was possibly duplicated with a more recent answer: [October 5th, 2021 Livestream Q&A: New fixes for Multiplayer gameplay?](./yt-YExHZSA1bH4.md) [https://www.youtube.com/watch?v=YExHZSA1bH4](https://www.youtube.com/watch?v=YExHZSA1bH4)
+This question was possibly duplicated with a more recent answer: [November 2nd, 2021 Livestream Q&A: Multiplayer fixes, when?](./yt-OUrWFNuyPIA.md) [https://www.youtube.com/watch?v=OUrWFNuyPIA](https://www.youtube.com/watch?v=OUrWFNuyPIA)
 
 
 ### Topics

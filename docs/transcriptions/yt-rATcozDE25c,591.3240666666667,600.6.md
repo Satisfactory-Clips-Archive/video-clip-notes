@@ -9,7 +9,7 @@ topics:
 # [October 1st, 2020 Q&A](../2020-10-01.md)
 ## Q&A: What about the giant crab in the trailer, can we get that?
 https://youtube.com/embed/rATcozDE25c?autoplay=1&start=591&end=601
-This question was possibly duplicated with a more recent answer: [July 13th, 2021 Livestream Q&A: When Giant Crab?](./yt-Xl56Z8GO6-o.md) [https://www.youtube.com/watch?v=Xl56Z8GO6-o](https://www.youtube.com/watch?v=Xl56Z8GO6-o)
+This question was possibly duplicated with a more recent answer: [November 2nd, 2021 Livestream Q&A: Why not the Giant Crab, wasn't that promised?](./yt-p-Qm7NheffQ.md) [https://www.youtube.com/watch?v=p-Qm7NheffQ](https://www.youtube.com/watch?v=p-Qm7NheffQ)
 
 
 ### Topics

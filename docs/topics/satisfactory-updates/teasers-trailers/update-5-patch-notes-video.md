@@ -7,6 +7,10 @@ date: Last Modified
 * [Snutty Mays & Juice Velvet Present: The Customizer™](../../../topics/satisfactory-updates/teasers-trailers/update-5-patch-notes-video/snutty-mays-and-juice-velvet-present-the-customizer.md)
 * [Update 5 Wager on releasing Golf versus Dedicated Servers](../../../topics/satisfactory-updates/teasers-trailers/update-5-patch-notes-video/update-5-wager-on-releasing-golf-versus-dedicated-servers.md)
 
+## November 2nd, 2021 Livestream
+* [State of Dev: Update 5 (Part 1)](../../../transcriptions/yt-G7hTmrjxqx8.md) [https://www.youtube.com/watch?v=G7hTmrjxqx8](https://www.youtube.com/watch?v=G7hTmrjxqx8)
+* [Snutt & Jace Talk: Josh's role in the Update 5 Patch Notes script](../../../transcriptions/yt-xYGnNA7VLVQ.md) [https://www.youtube.com/watch?v=xYGnNA7VLVQ](https://www.youtube.com/watch?v=xYGnNA7VLVQ)
+
 ## October 29th, 2021 Video
 * [Jace Talk: A lot of love from the Studio to you guys](../../../transcriptions/yt-rePLsjw-eEY,45.311933333333336,78.41166666666666.md) [https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=45&end=79](https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=45&end=79)
 

@@ -14,6 +14,9 @@ date: Last Modified
 * [Steel](../../topics/environment/resources/steel.md)
 * [Water](../../topics/environment/resources/water.md)
 
+## November 2nd, 2021 Livestream
+* [Q&A: How come you're turning Limestone into Concrete? How come it's Steel-framed?](../../transcriptions/yt-tdXyjapP9IM.md) [https://www.youtube.com/watch?v=tdXyjapP9IM](https://www.youtube.com/watch?v=tdXyjapP9IM)
+
 ## October 29th, 2021 Video
 * [Jace Talk: Missing Uranium & Bauxite nodes](../../transcriptions/yt-rePLsjw-eEY,274.1739,307.37373333333335.md) [https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=274&end=308](https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=274&end=308)
 

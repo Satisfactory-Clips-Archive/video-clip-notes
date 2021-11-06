@@ -6,6 +6,11 @@ date: Last Modified
 # [Topics](../../topics.md) > [Retail](../../topics/retail.md) > Steam Store
 * [Steam Release](../../topics/retail/steam-store/steam-release.md)
 
+## November 2nd, 2021 Livestream
+* [Q&A: Dedicated Servers don't show up in my Steam Library, is it a regional thing?](../../transcriptions/yt-6Trsm-es3TQ.md) [https://www.youtube.com/watch?v=6Trsm-es3TQ](https://www.youtube.com/watch?v=6Trsm-es3TQ)
+* [Q&A: Steam CMD or Steam Tools, which is better?](../../transcriptions/yt-1iPCi4jWARg.md) [https://www.youtube.com/watch?v=1iPCi4jWARg](https://www.youtube.com/watch?v=1iPCi4jWARg)
+* [Q&A: Any info on Steam Deck compatibility?](../../transcriptions/yt-D_ZQVOw9O2I.md) [https://www.youtube.com/watch?v=D_ZQVOw9O2I](https://www.youtube.com/watch?v=D_ZQVOw9O2I)
+
 ## October 29th, 2021 Video
 * [Q&A: Do I need to buy the game on Steam to use Dedicated Servers if I already have the game on Epic?](../../transcriptions/yt-rePLsjw-eEY,195.987197,212.21200000000002.md) [https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=195&end=213](https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=195&end=213)
 * [Jace Talk: Steam/Epic bug](../../transcriptions/yt-rePLsjw-eEY,226.3261,274.14053333333334.md) [https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=226&end=275](https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=226&end=275)

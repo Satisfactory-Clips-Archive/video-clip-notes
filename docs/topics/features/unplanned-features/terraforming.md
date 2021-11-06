@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Unplanned Features](../../../topics/features/unplanned-features.md) > Terraforming
 
+## November 2nd, 2021 Livestream
+* [Q&A: Any plans for Terraforming?](../../../transcriptions/yt-TnrPTpK7Ibw.md) [https://www.youtube.com/watch?v=TnrPTpK7Ibw](https://www.youtube.com/watch?v=TnrPTpK7Ibw)
+
 ## October 12th, 2021 Livestream
 * [Community FYI: No Terraforming](../../../transcriptions/yt-PZKiBS2ZQn4.md) [https://www.youtube.com/watch?v=PZKiBS2ZQn4](https://www.youtube.com/watch?v=PZKiBS2ZQn4)
 

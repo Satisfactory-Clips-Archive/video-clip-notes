@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildables](../../../topics/features/buildables.md) > Railings
 
+## November 2nd, 2021 Livestream
+* Snutt & Jace Talk: Torsten's Cosmetics Whiteboard (Part 8) [https://www.youtube.com/watch?v=q-yglbCI9pM](https://www.youtube.com/watch?v=q-yglbCI9pM)
+
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
 * [Snutt & Jace Talk: More Cosmetic Build Pieces](../../../transcriptions/yt-QfaReoks6OM,231.75,262.75.md) [https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=231&end=263](https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=231&end=263)
 * Community FYI: Ramp Rails are stupid [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=13955&end=13960](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=13955&end=13960)

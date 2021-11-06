@@ -9,6 +9,10 @@ date: Last Modified
 * [Object Limit](../../topics/technology/unreal-engine/object-limit.md)
 * [Unreal Engine 5](../../topics/technology/unreal-engine/unreal-engine-5.md)
 
+## November 2nd, 2021 Livestream
+* [Snutt & Jace Talk: Torsten's Cosmetics Whiteboard (Part 7)](../../transcriptions/yt-BLow4FGZ4LQ.md) [https://www.youtube.com/watch?v=BLow4FGZ4LQ](https://www.youtube.com/watch?v=BLow4FGZ4LQ)
+* [Q&A: Is Satisfactory using networking code in Unreal, or did you roll your own?](../../transcriptions/yt-6_TC7rp374A.md) [https://www.youtube.com/watch?v=6_TC7rp374A](https://www.youtube.com/watch?v=6_TC7rp374A)
+
 ## October 19th, 2021 Livestream
 * [Q&A: Any issues with the new Engine?](../../transcriptions/yt-zZvuDg0BDtw.md) [https://www.youtube.com/watch?v=zZvuDg0BDtw](https://www.youtube.com/watch?v=zZvuDg0BDtw)
 

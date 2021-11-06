@@ -8,6 +8,11 @@ date: Last Modified
 * [Jace Art](../../topics/coffee-stainers/jace/jace-art.md)
 * [Juice Velvet](../../topics/coffee-stainers/jace/juice-velvet.md)
 
+## November 2nd, 2021 Livestream
+* [Snutt & Jace Talk: HelloFresh](../../transcriptions/yt-0zO8gV7jfrw.md) [https://www.youtube.com/watch?v=0zO8gV7jfrw](https://www.youtube.com/watch?v=0zO8gV7jfrw)
+* [Snutt & Jace Talk: Community Feedback to the Update 5 Launch Stream](../../transcriptions/yt-3VTVYPUVwl8.md) [https://www.youtube.com/watch?v=3VTVYPUVwl8](https://www.youtube.com/watch?v=3VTVYPUVwl8)
+* [Q&A: What are you doing for dinner?](../../transcriptions/yt-wb4NqoIBxrU.md) [https://www.youtube.com/watch?v=wb4NqoIBxrU](https://www.youtube.com/watch?v=wb4NqoIBxrU)
+
 ## October 27th, 2021 Video
 * [Jace Talk: How to find Satisfactory Dedicated Server in Steam](../../transcriptions/yt-Nn-1s87JJxc,517.2167000000001,557.020737.md) [https://youtube.com/embed/Nn-1s87JJxc?autoplay=1&start=517&end=558](https://youtube.com/embed/Nn-1s87JJxc?autoplay=1&start=517&end=558)
 

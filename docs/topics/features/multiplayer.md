@@ -7,6 +7,10 @@ date: Last Modified
 * [Crossplay](../../topics/features/multiplayer/crossplay.md)
 * [Dedicated Servers](../../topics/features/multiplayer/dedicated-servers.md)
 
+## November 2nd, 2021 Livestream
+* [Q&A: Multiplayer fixes, when?](../../transcriptions/yt-OUrWFNuyPIA.md) [https://www.youtube.com/watch?v=OUrWFNuyPIA](https://www.youtube.com/watch?v=OUrWFNuyPIA)
+* [Q&A: Is Satisfactory using networking code in Unreal, or did you roll your own?](../../transcriptions/yt-6_TC7rp374A.md) [https://www.youtube.com/watch?v=6_TC7rp374A](https://www.youtube.com/watch?v=6_TC7rp374A)
+
 ## October 27th, 2021 Video
 * [Q&A: How many people can fit on one Server?](../../transcriptions/yt-Nn-1s87JJxc,382.4821,433.36626666666666.md) [https://youtube.com/embed/Nn-1s87JJxc?autoplay=1&start=382&end=434](https://youtube.com/embed/Nn-1s87JJxc?autoplay=1&start=382&end=434)
 

@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Creatures](../../../topics/environment/creatures.md) > Crab Boss
 
+## November 2nd, 2021 Livestream
+* [Q&A: Why not the Giant Crab, wasn't that promised?](../../../transcriptions/yt-p-Qm7NheffQ.md) [https://www.youtube.com/watch?v=p-Qm7NheffQ](https://www.youtube.com/watch?v=p-Qm7NheffQ)
+* [Community FYI: Crab is the new Golf](../../../transcriptions/yt-cPL0bA8fLjc.md) [https://www.youtube.com/watch?v=cPL0bA8fLjc](https://www.youtube.com/watch?v=cPL0bA8fLjc)
+
 ## September 28th, 2021 Livestream
 * [Q&A: Are new mobs ever coming?](../../../transcriptions/yt-3JLhERMXBoY.md) [https://www.youtube.com/watch?v=3JLhERMXBoY](https://www.youtube.com/watch?v=3JLhERMXBoY)
 

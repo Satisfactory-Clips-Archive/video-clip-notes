@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Sweden
 
+## November 2nd, 2021 Livestream
+* [Snutt & Jace Talk: Swedish Healthcare](../../transcriptions/yt-a3OlV_ETZBM.md) [https://www.youtube.com/watch?v=a3OlV_ETZBM](https://www.youtube.com/watch?v=a3OlV_ETZBM)
+* [Q&A: It's already dark?](../../transcriptions/yt-fx4JF3AL83U.md) [https://www.youtube.com/watch?v=fx4JF3AL83U](https://www.youtube.com/watch?v=fx4JF3AL83U)
+* [Q&A: How's the weather?](../../transcriptions/yt-cOCrIn5Fhs4.md) [https://www.youtube.com/watch?v=cOCrIn5Fhs4](https://www.youtube.com/watch?v=cOCrIn5Fhs4)
+
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
 * Q&A: Covid situation in Sweden? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=786&end=806](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=786&end=806)
 * Q&A: Do you have to know Swedish to work in Sweden? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=1305&end=1363](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=1305&end=1363)

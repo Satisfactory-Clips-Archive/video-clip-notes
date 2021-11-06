@@ -9,7 +9,7 @@ topics:
 # [May 4th, 2021 Livestream](../2021-05-04.md)
 ## Q&A: Plans to add Solar?
 https://www.youtube.com/watch?v=wrFOCRX7hDY
-This question was possibly duplicated with a more recent answer: [August 3rd, 2021 Livestream Q&A: Solar Energy?](./yt-WLbaUlcla48.md) [https://www.youtube.com/watch?v=WLbaUlcla48](https://www.youtube.com/watch?v=WLbaUlcla48)
+This question was possibly duplicated with a more recent answer: [November 2nd, 2021 Livestream Q&A: Solar, when?](./yt-b2ipv5TjTe8.md) [https://www.youtube.com/watch?v=b2ipv5TjTe8](https://www.youtube.com/watch?v=b2ipv5TjTe8)
 
 
 ### Topics
