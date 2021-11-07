@@ -1,5 +1,5 @@
 ---
-title: "November 2nd, 2021 Livestream 15 Snutt   Jace Talk  Torsten s Cosmetics Whiteboard  Part 6"
+title: "November 2nd, 2021 Livestream Snutt & Jace Talk: Torsten's Cosmetics Whiteboard (Part 6)"
 date: "2021-11-02"
 layout: transcript
 topics:
@@ -7,7 +7,7 @@ topics:
     - "satisfactory-updates/released/satisfactory-update-5/torstens-cosmetics-whiteboard"
 ---
 # [November 2nd, 2021 Livestream](../2021-11-02.md)
-## 15 Snutt   Jace Talk  Torsten s Cosmetics Whiteboard  Part 6
+## Snutt & Jace Talk: Torsten's Cosmetics Whiteboard (Part 6)
 https://www.youtube.com/watch?v=cL1_KQebJBQ
 <details>
 <summary>This video is part of a series of 8 videos.</summary>
