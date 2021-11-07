@@ -1,5 +1,5 @@
 ---
-title: "September 13th, 2019 Video Jace Talk: Community priotisation of Dedicated Servers vs. Mod Support"
+title: "September 13th, 2019 Video Jace Talk: Community prioritisation of Dedicated Servers vs. Mod Support"
 date: "2019-09-13"
 layout: transcript
 topics:
@@ -8,7 +8,7 @@ topics:
     - "mods/official-mod-support"
 ---
 # [September 13th, 2019 Video](../2019-09-13.md)
-## Jace Talk: Community priotisation of Dedicated Servers vs. Mod Support
+## Jace Talk: Community prioritisation of Dedicated Servers vs. Mod Support
 https://youtube.com/embed/s3m74qGSYK4?autoplay=1&start=56&end=102
 
 ### Topics
