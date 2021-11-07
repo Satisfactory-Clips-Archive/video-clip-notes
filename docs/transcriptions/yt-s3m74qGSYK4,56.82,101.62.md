@@ -9,7 +9,7 @@ topics:
 ---
 # [September 13th, 2019 Video](../2019-09-13.md)
 ## Jace Talk: Community prioritisation of Dedicated Servers vs. Mod Support
-https://youtube.com/embed/s3m74qGSYK4?autoplay=1&start=56&end=102
+https://youtube.com/clip/UgkxEeNzY8O3lGBhFvrK8xBgJVT9ymZGlKN8
 
 ### Topics
 * [Community](../topics/community.md)

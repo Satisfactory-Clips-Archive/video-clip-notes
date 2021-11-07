@@ -353,7 +353,7 @@ date: Last Modified
 * [Q&A: Dedicated Servers?](../../../transcriptions/yt-Fsod_UF5eus,367,403.76.md) [https://youtube.com/embed/Fsod_UF5eus?autoplay=1&start=367&end=404](https://youtube.com/embed/Fsod_UF5eus?autoplay=1&start=367&end=404)
 
 ## September 13th, 2019 Video
-* [Jace Talk: Community prioritisation of Dedicated Servers vs. Mod Support](../../../transcriptions/yt-s3m74qGSYK4,56.82,101.62.md) [https://youtube.com/embed/s3m74qGSYK4?autoplay=1&start=56&end=102](https://youtube.com/embed/s3m74qGSYK4?autoplay=1&start=56&end=102)
+* [Jace Talk: Community prioritisation of Dedicated Servers vs. Mod Support](../../../transcriptions/yt-s3m74qGSYK4,56.82,101.62.md) [https://youtube.com/clip/UgkxEeNzY8O3lGBhFvrK8xBgJVT9ymZGlKN8](https://youtube.com/clip/UgkxEeNzY8O3lGBhFvrK8xBgJVT9ymZGlKN8)
 
 ## March 15th, 2019 Q&A
 * [Q&A: Please, please, please make a Linux based dedicated server that can run headless.](../../../transcriptions/yt-R0S19_caQuw,403.32,412.34.md) [https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=403&end=413](https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=403&end=413)

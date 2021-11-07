@@ -355,7 +355,7 @@ date: Last Modified
 * [Hannah Talk: Community feedback on level bugs](../transcriptions/yt-8WYNwGDLYNE,132.8,150.36.md) [https://youtube.com/embed/8WYNwGDLYNE?autoplay=1&start=132&end=151](https://youtube.com/embed/8WYNwGDLYNE?autoplay=1&start=132&end=151)
 
 ## September 13th, 2019 Video
-* [Jace Talk: Community prioritisation of Dedicated Servers vs. Mod Support](../transcriptions/yt-s3m74qGSYK4,56.82,101.62.md) [https://youtube.com/embed/s3m74qGSYK4?autoplay=1&start=56&end=102](https://youtube.com/embed/s3m74qGSYK4?autoplay=1&start=56&end=102)
+* [Jace Talk: Community prioritisation of Dedicated Servers vs. Mod Support](../transcriptions/yt-s3m74qGSYK4,56.82,101.62.md) [https://youtube.com/clip/UgkxEeNzY8O3lGBhFvrK8xBgJVT9ymZGlKN8](https://youtube.com/clip/UgkxEeNzY8O3lGBhFvrK8xBgJVT9ymZGlKN8)
 
 ## August 30th, 2019 Video
 * [Jace Talk: I went to Gamescom](../transcriptions/yt-urT0gI_cP04,14.757437,76.md) [https://youtube.com/embed/urT0gI_cP04?autoplay=1&start=14&end=76](https://youtube.com/embed/urT0gI_cP04?autoplay=1&start=14&end=76)
