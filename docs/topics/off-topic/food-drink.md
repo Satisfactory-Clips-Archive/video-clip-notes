@@ -19,7 +19,6 @@ date: Last Modified
 * Q&A: Sushi, underrated/overrated? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=6989&end=7007](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=6989&end=7007)
 
 ## October 5th, 2021 Livestream
-* [Snutt  & Jace Talk: Jace's HelloFresh delivery](../../transcriptions/yt-WceFWmtLU4U.md) [https://www.youtube.com/watch?v=WceFWmtLU4U](https://www.youtube.com/watch?v=WceFWmtLU4U)
 * [Q&A: Dinner plans?](../../transcriptions/yt-Kp7Yk3Drj7Y.md) [https://www.youtube.com/watch?v=Kp7Yk3Drj7Y](https://www.youtube.com/watch?v=Kp7Yk3Drj7Y)
 
 ## September 7th, 2021 Livestream

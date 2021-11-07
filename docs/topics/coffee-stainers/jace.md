@@ -5,6 +5,7 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Jace
 * ["Fix Jace" QA Site Posts](../../topics/coffee-stainers/jace/fix-jace-qa-site-posts.md)
+* [Jace's HelloFresh Deliveries](../../topics/coffee-stainers/jace/hello-fresh.md)
 * [Jace Art](../../topics/coffee-stainers/jace/jace-art.md)
 * [Juice Velvet](../../topics/coffee-stainers/jace/juice-velvet.md)
 
@@ -37,13 +38,10 @@ date: Last Modified
 ## October 19th, 2021 Livestream
 * [Community FYI: Jace is sun tanned, is strange](../../transcriptions/yt-rUIQlG9zVYg.md) [https://www.youtube.com/watch?v=rUIQlG9zVYg](https://www.youtube.com/watch?v=rUIQlG9zVYg)
 * [Community FYI: These streams are always so much fun](../../transcriptions/yt-rdou33IWFJs.md) [https://www.youtube.com/watch?v=rdou33IWFJs](https://www.youtube.com/watch?v=rdou33IWFJs)
-* [Jace Talk: HelloFresh again](../../transcriptions/yt-CPfPUf1zmK4.md) [https://www.youtube.com/watch?v=CPfPUf1zmK4](https://www.youtube.com/watch?v=CPfPUf1zmK4)
-* [Jace Talk: 18 Minutes 'til HelloFresh](../../transcriptions/yt-3GXk3dr-Tow.md) [https://www.youtube.com/watch?v=3GXk3dr-Tow](https://www.youtube.com/watch?v=3GXk3dr-Tow)
 * [Q&A: How was the VICE interview?](../../transcriptions/yt-3ru8jpD4xFk.md) [https://www.youtube.com/watch?v=3ru8jpD4xFk](https://www.youtube.com/watch?v=3ru8jpD4xFk)
 * [Q&A: Is there a Community Manager community?](../../transcriptions/yt-RHFMamV95LA.md) [https://www.youtube.com/watch?v=RHFMamV95LA](https://www.youtube.com/watch?v=RHFMamV95LA)
 * [Q&A: What kind of Pizza are you guys having tonight?](../../transcriptions/yt-rzXOuAA0s20.md) [https://www.youtube.com/watch?v=rzXOuAA0s20](https://www.youtube.com/watch?v=rzXOuAA0s20)
 * [Q&A: Do you still get hate even though you're both awesome?](../../transcriptions/yt-uCVskfxhEMI.md) [https://www.youtube.com/watch?v=uCVskfxhEMI](https://www.youtube.com/watch?v=uCVskfxhEMI)
-* [Snutt & Jace Talk: HelloFresh is here](../../transcriptions/yt-rqkjciniJX8.md) [https://www.youtube.com/watch?v=rqkjciniJX8](https://www.youtube.com/watch?v=rqkjciniJX8)
 * [Q&A: What have you done for us lately?](../../transcriptions/yt-uvXddR4rOiY.md) [https://www.youtube.com/watch?v=uvXddR4rOiY](https://www.youtube.com/watch?v=uvXddR4rOiY)
 
 ## October 12th, 2021 Livestream
@@ -65,7 +63,6 @@ date: Last Modified
 
 ## October 5th, 2021 Livestream
 * [Q&A: Why is Jace's camera blurry?](../../transcriptions/yt-0bCxdLVhBQU.md) [https://www.youtube.com/watch?v=0bCxdLVhBQU](https://www.youtube.com/watch?v=0bCxdLVhBQU)
-* [Snutt  & Jace Talk: Jace's HelloFresh delivery](../../transcriptions/yt-WceFWmtLU4U.md) [https://www.youtube.com/watch?v=WceFWmtLU4U](https://www.youtube.com/watch?v=WceFWmtLU4U)
 * [Q&A: Will we get Jace & Snutt statues in Update 5?](../../transcriptions/yt-jmLrJTUDpL8.md) [https://www.youtube.com/watch?v=jmLrJTUDpL8](https://www.youtube.com/watch?v=jmLrJTUDpL8)
 * [Q&A: Dinner plans?](../../transcriptions/yt-Kp7Yk3Drj7Y.md) [https://www.youtube.com/watch?v=Kp7Yk3Drj7Y](https://www.youtube.com/watch?v=Kp7Yk3Drj7Y)
 * [Q&A: Jace, how are you liking New World?](../../transcriptions/yt-X0mzRnNo5pk.md) [https://www.youtube.com/watch?v=X0mzRnNo5pk](https://www.youtube.com/watch?v=X0mzRnNo5pk)

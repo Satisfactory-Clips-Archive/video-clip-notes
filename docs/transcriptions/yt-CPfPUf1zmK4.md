@@ -3,7 +3,7 @@ title: "October 19th, 2021 Livestream Jace Talk: HelloFresh again"
 date: "2021-10-19"
 layout: transcript
 topics:
-    - "coffee-stainers/jace"
+    - "coffee-stainers/jace/hello-fresh"
     - "community/community-highlights"
 ---
 # [October 19th, 2021 Livestream](../2021-10-19.md)
@@ -11,7 +11,7 @@ topics:
 https://www.youtube.com/watch?v=CPfPUf1zmK4
 
 ### Topics
-* [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
+* [Coffee Stainers > Jace > Jace's HelloFresh Deliveries](../topics/coffee-stainers/jace/hello-fresh.md)
 * [Community > Community Highlights](../topics/community/community-highlights.md)
 
 ### Transcript

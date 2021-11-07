@@ -3,16 +3,14 @@ title: "October 5th, 2021 Livestream Snutt  & Jace Talk: Jace's HelloFresh deliv
 date: "2021-10-05"
 layout: transcript
 topics:
-    - "coffee-stainers/jace"
-    - "off-topic/food-drink"
+    - "coffee-stainers/jace/hello-fresh"
 ---
 # [October 5th, 2021 Livestream](../2021-10-05.md)
 ## Snutt  & Jace Talk: Jace's HelloFresh delivery
 https://www.youtube.com/watch?v=WceFWmtLU4U
 
 ### Topics
-* [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
-* [Off-Topic > Food & Drink](../topics/off-topic/food-drink.md)
+* [Coffee Stainers > Jace > Jace's HelloFresh Deliveries](../topics/coffee-stainers/jace/hello-fresh.md)
 
 ### Transcript
 

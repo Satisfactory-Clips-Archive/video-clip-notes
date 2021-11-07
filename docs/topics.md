@@ -38,6 +38,7 @@ date: Last Modified
 
 ## [Jace](./topics/coffee-stainers/jace.md)
 * ["Fix Jace" QA Site Posts](./topics/coffee-stainers/jace/fix-jace-qa-site-posts.md)
+* [Jace's HelloFresh Deliveries](./topics/coffee-stainers/jace/hello-fresh.md)
 * [Jace Art](./topics/coffee-stainers/jace/jace-art.md)
 * [Juice Velvet](./topics/coffee-stainers/jace/juice-velvet.md)
 ---

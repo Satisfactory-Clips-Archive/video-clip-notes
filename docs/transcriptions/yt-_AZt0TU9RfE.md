@@ -4,6 +4,7 @@ date: "2021-08-03"
 layout: transcript
 topics:
     - "coffee-stainers/jace"
+    - "coffee-stainers/jace/hello-fresh"
 ---
 # [August 3rd, 2021 Livestream](../2021-08-03.md)
 ## Q&A: Can Jace speak Norwegian?
@@ -11,6 +12,7 @@ https://www.youtube.com/watch?v=_AZt0TU9RfE
 
 ### Topics
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
+* [Coffee Stainers > Jace > Jace's HelloFresh Deliveries](../topics/coffee-stainers/jace/hello-fresh.md)
 
 ### Transcript
 
