@@ -4,7 +4,7 @@ date: "2021-07-20"
 layout: transcript
 topics:
     - "community"
-    - "features/equipment"
+    - "features/equipment/nobelisk/detonator"
 ---
 # [July 20th, 2021 Livestream](../2021-07-20.md)
 ## Q&A: Did you see my Detonator?
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=BmfHjF5edC4
 
 ### Topics
 * [Community](../topics/community.md)
-* [Features > Equipment](../topics/features/equipment.md)
+* [Features > Equipment > Nobelisk > Nobelisk Detonator](../topics/features/equipment/nobelisk/detonator.md)
 
 ### Transcript
 

@@ -3,7 +3,7 @@ title: "October 26th, 2021 Update 5 Launch Stream and Patch Notes Video Jace & S
 date: "2021-10-26"
 layout: transcript
 topics:
-    - "features/equipment/the-customizer"
+    - "features/equipment/customizer"
     - "satisfactory-updates/released/satisfactory-update-5"
     - "satisfactory-updates/teasers-trailers/update-5-patch-notes-video"
 ---
@@ -12,7 +12,7 @@ topics:
 https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=269&end=282
 
 ### Topics
-* [Features > Equipment > The Customizer](../topics/features/equipment/the-customizer.md)
+* [Features > Equipment > Customizer](../topics/features/equipment/customizer.md)
 * [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 * [Satisfactory Updates > Teasers & Trailers > Update 5 Patch Notes Video](../topics/satisfactory-updates/teasers-trailers/update-5-patch-notes-video.md)
 

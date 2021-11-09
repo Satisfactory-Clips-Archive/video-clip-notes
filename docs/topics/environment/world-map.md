@@ -220,11 +220,11 @@ date: Last Modified
 * [Q&A: Will you guys be hiding more stuff throughout the world for the Story Mode?](../../transcriptions/yt-7EM97GvjRGY.md) [https://www.youtube.com/watch?v=7EM97GvjRGY](https://www.youtube.com/watch?v=7EM97GvjRGY)
 * [Q&A: There's a smaller pink jelly above the pillar in the sky too?](../../transcriptions/yt-wWVbIS8jgy8.md) [https://www.youtube.com/watch?v=wWVbIS8jgy8](https://www.youtube.com/watch?v=wWVbIS8jgy8)
 * [Q&A: Can we expect significant performance increase with Update 4?](../../transcriptions/yt-PVf-pBNYO_M.md) [https://www.youtube.com/watch?v=PVf-pBNYO_M](https://www.youtube.com/watch?v=PVf-pBNYO_M)
-* [Q&A: Why can't we explode some stones in the map?](../../transcriptions/yt-Yhtu3NBv2NM.md) [https://www.youtube.com/watch?v=Yhtu3NBv2NM](https://www.youtube.com/watch?v=Yhtu3NBv2NM)
 * [Q&A: Like a new map for Satisfactory?](../../transcriptions/yt-gNfCEV1J-2Q.md) [https://www.youtube.com/watch?v=gNfCEV1J-2Q](https://www.youtube.com/watch?v=gNfCEV1J-2Q)
 * [Q&A: How about procedural maps?](../../transcriptions/yt-oYVWBcgkahY.md) [https://www.youtube.com/watch?v=oYVWBcgkahY](https://www.youtube.com/watch?v=oYVWBcgkahY)
 * [Snutt Talk: Map Builders](../../transcriptions/yt-UjOVdR5tNSw.md) [https://www.youtube.com/watch?v=UjOVdR5tNSw](https://www.youtube.com/watch?v=UjOVdR5tNSw)
 * Q&A: Terraforming? [https://clips.twitch.tv/CourageousTardyLarkShazBotstix](https://clips.twitch.tv/CourageousTardyLarkShazBotstix)
+* Q&A: Why can't we explode some stones in the map? [https://clips.twitch.tv/HeartlessAntsyMelonCharlieBitMe](https://clips.twitch.tv/HeartlessAntsyMelonCharlieBitMe)
 * Q&A: Underwater biome when? [https://clips.twitch.tv/HonorableCautiousDonutStoneLightning](https://clips.twitch.tv/HonorableCautiousDonutStoneLightning)
 
 ## August 18th, 2020 Livestream

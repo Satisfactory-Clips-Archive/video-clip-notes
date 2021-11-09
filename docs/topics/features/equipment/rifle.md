@@ -14,6 +14,9 @@ date: Last Modified
 ## May 25th, 2021 Livestream
 * [Q&A: Will the Rebar shotgun come back?](../../../transcriptions/yt-p7aALqL6xlo.md) [https://www.youtube.com/watch?v=p7aALqL6xlo](https://www.youtube.com/watch?v=p7aALqL6xlo)
 
+## May 11th, 2021 Livestream
+* [Q&A: Ads for the Rifle?](../../../transcriptions/yt-xcMRZD8p_YY.md) [https://www.youtube.com/watch?v=xcMRZD8p_YY](https://www.youtube.com/watch?v=xcMRZD8p_YY)
+
 ## April 6th, 2021 Livestream
 * [Q&A: Are you going to buff the Rifle damage?](../../../transcriptions/yt-LRXvhb0zjFs.md) [https://www.youtube.com/watch?v=LRXvhb0zjFs](https://www.youtube.com/watch?v=LRXvhb0zjFs)
 * [Q&A: Depleted Uranium ammo?](../../../transcriptions/yt-lNsmanCf4jk.md) [https://www.youtube.com/watch?v=lNsmanCf4jk](https://www.youtube.com/watch?v=lNsmanCf4jk)
@@ -23,6 +26,7 @@ date: Last Modified
 
 ## October 20th, 2020 Livestream
 * [Q&A: WTF, there's a Rifle in Satisfactory?](../../../transcriptions/yt-WTCjl2Tu39A.md) [https://www.youtube.com/watch?v=WTCjl2Tu39A](https://www.youtube.com/watch?v=WTCjl2Tu39A)
+* [Q&A: Is there going to be more equipment coming, like Rifle Mk. 2?](../../../transcriptions/yt--fXaMAXEY5U.md) [https://www.youtube.com/watch?v=-fXaMAXEY5U](https://www.youtube.com/watch?v=-fXaMAXEY5U)
 
 ## May 14th, 2019 Patch Notes
 * [Jace Talk: We've added a Rifle](../../../transcriptions/yt-aceacdNX9WA,152.279617,162.126431.md) [https://youtube.com/embed/aceacdNX9WA?autoplay=1&start=152&end=163](https://youtube.com/embed/aceacdNX9WA?autoplay=1&start=152&end=163)

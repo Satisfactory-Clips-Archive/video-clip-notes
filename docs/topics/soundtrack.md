@@ -112,4 +112,4 @@ date: Last Modified
 
 ## September 26th, 2018 Video
 * [Jannik Talk: The vision for the Satisfactory music](../transcriptions/yt-Y7G72e0LLBg,29.52,71.42.md) [https://youtube.com/embed/Y7G72e0LLBg?autoplay=1&start=29&end=72](https://youtube.com/embed/Y7G72e0LLBg?autoplay=1&start=29&end=72)
-* [Jannik Talk: Four different types of Satisfactory music](../transcriptions/yt-Y7G72e0LLBg,71.42,114.46.md) [https://youtube.com/embed/Y7G72e0LLBg?autoplay=1&start=71&end=115](https://youtube.com/embed/Y7G72e0LLBg?autoplay=1&start=71&end=115)
+* [Jannik Talk: Four different types of Satisfactory music](../transcriptions/yt-Y7G72e0LLBg,71.42,114.46.md) [https://youtube.com/clip/UgkxL9vaIrt0MxCytSleaR7vgs63AITDM5ih](https://youtube.com/clip/UgkxL9vaIrt0MxCytSleaR7vgs63AITDM5ih)

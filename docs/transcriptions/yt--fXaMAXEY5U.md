@@ -4,6 +4,7 @@ date: "2020-10-20"
 layout: transcript
 topics:
     - "features/equipment"
+    - "features/equipment/rifle"
     - "satisfactory-updates/released/satisfactory-alpha"
     - "satisfactory-updates/satisfactory-prototypes"
 ---
@@ -13,6 +14,7 @@ https://www.youtube.com/watch?v=-fXaMAXEY5U
 
 ### Topics
 * [Features > Equipment](../topics/features/equipment.md)
+* [Features > Equipment > Rifle](../topics/features/equipment/rifle.md)
 * [Satisfactory Updates > Released > Satisfactory Alpha](../topics/satisfactory-updates/released/satisfactory-alpha.md)
 * [Satisfactory Updates > Satisfactory Prototypes](../topics/satisfactory-updates/satisfactory-prototypes.md)
 

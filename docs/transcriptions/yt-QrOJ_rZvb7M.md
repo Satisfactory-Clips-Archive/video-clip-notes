@@ -3,7 +3,6 @@ title: "August 10th, 2021 Livestream Q&A: Why would I spend $1 if I could just b
 date: "2021-08-10"
 layout: transcript
 topics:
-    - "features/equipment"
     - "features/possible-features/dlc/flushable-toilet-dlc"
 ---
 # [August 10th, 2021 Livestream](../2021-08-10.md)
@@ -11,7 +10,6 @@ topics:
 https://www.youtube.com/watch?v=QrOJ_rZvb7M
 
 ### Topics
-* [Features > Equipment](../topics/features/equipment.md)
 * [Features > Possible Features > DLC > Flushable Toilet DLC](../topics/features/possible-features/dlc/flushable-toilet-dlc.md)
 
 ### Transcript

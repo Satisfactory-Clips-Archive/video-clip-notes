@@ -3,7 +3,7 @@ title: "July 6th, 2021 Livestream Localization Community Highlight: Translating 
 date: "2021-07-06"
 layout: transcript
 topics:
-    - "features/equipment"
+    - "features/equipment/xeno-zapper"
     - "localisation"
     - "localisation/localization-community-highlight"
 ---
@@ -12,7 +12,7 @@ topics:
 https://www.youtube.com/watch?v=XFLWFV6Sd8M
 
 ### Topics
-* [Features > Equipment](../topics/features/equipment.md)
+* [Features > Equipment > Xeno-Zapper](../topics/features/equipment/xeno-zapper.md)
 * [Localisation](../topics/localisation.md)
 * [Localisation > Localization Community Highlight](../topics/localisation/localization-community-highlight.md)
 

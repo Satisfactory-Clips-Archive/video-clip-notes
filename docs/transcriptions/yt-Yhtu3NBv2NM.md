@@ -3,16 +3,16 @@ title: "August 25th, 2020 Livestream Q&A: Why can't we explode some stones in th
 date: "2020-08-25"
 layout: transcript
 topics:
-    - "environment/world-map"
-    - "features/equipment"
+    - "environment"
+    - "features/equipment/nobelisk"
 ---
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: Why can't we explode some stones in the map?
 https://www.youtube.com/watch?v=Yhtu3NBv2NM
 
 ### Topics
-* [Environment > World Map](../topics/environment/world-map.md)
-* [Features > Equipment](../topics/features/equipment.md)
+* [Environment](../topics/environment.md)
+* [Features > Equipment > Nobelisk](../topics/features/equipment/nobelisk.md)
 
 ### Transcript
 

@@ -1,19 +1,21 @@
 ---
-title: "October 28th, 2021 Video Jace Talk: Heroic Replicas and the Xenobasher prototype"
+title: "October 28th, 2021 Video Jace Talk: Heroic Replicas and the Xeno-Basher prototype"
 date: "2021-10-28"
 layout: transcript
 topics:
     - "community"
-    - "features/equipment"
+    - "features/equipment/xeno-basher"
+    - "features/equipment/xeno-zapper"
     - "merch"
 ---
 # [October 28th, 2021 Video](../2021-10-28.md)
-## Jace Talk: Heroic Replicas and the Xenobasher prototype
+## Jace Talk: Heroic Replicas and the Xeno-Basher prototype
 https://youtube.com/embed/YSPnFZbTvxE?autoplay=1&start=66&end=89
 
 ### Topics
 * [Community](../topics/community.md)
-* [Features > Equipment](../topics/features/equipment.md)
+* [Features > Equipment > Xeno-Basher](../topics/features/equipment/xeno-basher.md)
+* [Features > Equipment > Xeno-Zapper](../topics/features/equipment/xeno-zapper.md)
 * [Merch](../topics/merch.md)
 
 ### Transcript

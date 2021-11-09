@@ -3,7 +3,7 @@ title: "May 25th, 2021 Livestream Q&A: Thrown Nobelisks that can travel through 
 date: "2021-05-25"
 layout: transcript
 topics:
-    - "features/equipment"
+    - "features/equipment/nobelisk"
     - "features/transportation/hyper-tubes"
 ---
 # [May 25th, 2021 Livestream](../2021-05-25.md)
@@ -17,7 +17,7 @@ https://www.youtube.com/watch?v=9C-nS_aD7xc
 
 
 ### Topics
-* [Features > Equipment](../topics/features/equipment.md)
+* [Features > Equipment > Nobelisk](../topics/features/equipment/nobelisk.md)
 * [Features > Transportation > Hyper Tubes](../topics/features/transportation/hyper-tubes.md)
 
 ### Transcript

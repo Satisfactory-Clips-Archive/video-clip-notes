@@ -8,26 +8,17 @@ date: Last Modified
 * [Chainsaw](../../topics/features/equipment/chainsaw.md)
 * [Color Gun](../../topics/features/equipment/color-gun.md)
 * [Cup](../../topics/features/equipment/cup.md)
+* [Customizer](../../topics/features/equipment/customizer.md)
 * [Gas Mask](../../topics/features/equipment/gas-mask.md)
 * [Hover Pack](../../topics/features/equipment/hover-pack.md)
 * [Jetpack](../../topics/features/equipment/jetpack.md)
+* [Nobelisk](../../topics/features/equipment/nobelisk.md)
+* [Parachute](../../topics/features/equipment/parachute.md)
+* [Resource Scanner](../../topics/features/equipment/resource-scanner.md)
 * [Rifle](../../topics/features/equipment/rifle.md)
-* [The Customizer](../../topics/features/equipment/the-customizer.md)
+* [Xeno-Basher](../../topics/features/equipment/xeno-basher.md)
+* [Xeno-Zapper](../../topics/features/equipment/xeno-zapper.md)
 * [Zip Lines](../../topics/features/equipment/zip-lines.md)
-
-## October 28th, 2021 Video
-* [Jace Talk: Heroic Replicas and the Xenobasher prototype](../../transcriptions/yt-YSPnFZbTvxE,66.73333333333333,88.42166666666667.md) [https://youtube.com/embed/YSPnFZbTvxE?autoplay=1&start=66&end=89](https://youtube.com/embed/YSPnFZbTvxE?autoplay=1&start=66&end=89)
-* [Jace Talk: Heroic Replicas Kickstarter](../../transcriptions/yt-YSPnFZbTvxE,88.45503333333333,187.42056666666667.md) [https://youtube.com/embed/YSPnFZbTvxE?autoplay=1&start=88&end=188](https://youtube.com/embed/YSPnFZbTvxE?autoplay=1&start=88&end=188)
-* [End Tag](../../transcriptions/yt-YSPnFZbTvxE,194.76123333333334.md) [https://youtube.com/embed/YSPnFZbTvxE?autoplay=1&start=194](https://youtube.com/embed/YSPnFZbTvxE?autoplay=1&start=194)
-
-## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
-* Q&A: Parachutes, underrated/overrated? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=7560&end=7597](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=7560&end=7597)
-* Q&A: Nobelisks, underrated/overrated? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=7596&end=7618](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=7596&end=7618)
-* Snutt & Jace Talk: Lizard Doggo Plush [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=8987&end=9022](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=8987&end=9022)
-* Snutt & Jace Talk: Xenobasher replica (Part 1) [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=9021&end=9050](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=9021&end=9050)
-* Snutt & Jace Talk: Xenobasher replica (Part 2) [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=9052&end=9166](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=9052&end=9166)
-* Community FYI: Check the kickstarter [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=11327&end=11398](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=11327&end=11398)
-* Q&A: Can we paint Trains? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=16648&end=16655](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=16648&end=16655)
 
 ## October 19th, 2021 Livestream
 * [Q&A: Are the new Walls bought from the AWESOME Shop?](../../transcriptions/yt-OYF68hbYpnA.md) [https://www.youtube.com/watch?v=OYF68hbYpnA](https://www.youtube.com/watch?v=OYF68hbYpnA)
@@ -52,35 +43,26 @@ date: Last Modified
 * [Q&A: Can you please reveal new items?](../../transcriptions/yt-DI8KFc93Qlo.md) [https://www.youtube.com/watch?v=DI8KFc93Qlo](https://www.youtube.com/watch?v=DI8KFc93Qlo)
 
 ## August 24th, 2021 Livestream
-* [Snutt Talk: Gas Masks not working inside Vehicles](../../transcriptions/yt-sAPYPntJ52E.md) [https://www.youtube.com/watch?v=sAPYPntJ52E](https://www.youtube.com/watch?v=sAPYPntJ52E)
 * [Q&A: Will the Explorer ever get a mounted nail gun?](../../transcriptions/yt-cdVGvprw5tc.md) [https://www.youtube.com/watch?v=cdVGvprw5tc](https://www.youtube.com/watch?v=cdVGvprw5tc)
 
 ## August 17th, 2021 Livestream
 * [Q&A: Same bug as the equipment that flies in the tube?](../../transcriptions/yt-r7lFsWlRIPE.md) [https://www.youtube.com/watch?v=r7lFsWlRIPE](https://www.youtube.com/watch?v=r7lFsWlRIPE)
 * [Q&A: Are there any plans for new weapons?](../../transcriptions/yt-cZUm0MioIek.md) [https://www.youtube.com/watch?v=cZUm0MioIek](https://www.youtube.com/watch?v=cZUm0MioIek)
-* [Community FYI: The Resource Scanner, it's slightly off- it doesn't do the elevation of the node](../../transcriptions/yt-FCSBHSAkKww.md) [https://www.youtube.com/watch?v=FCSBHSAkKww](https://www.youtube.com/watch?v=FCSBHSAkKww)
 
 ## August 10th, 2021 Livestream
-* [Q&A: Battle Royale mode with only Nobelisk Detonators?](../../transcriptions/yt-815wYM_Z6_Q.md) [https://www.youtube.com/watch?v=815wYM_Z6_Q](https://www.youtube.com/watch?v=815wYM_Z6_Q)
 * [Q&A: Maybe a grapple gun?](../../transcriptions/yt-fLz-4eFS6XQ.md) [https://www.youtube.com/watch?v=fLz-4eFS6XQ](https://www.youtube.com/watch?v=fLz-4eFS6XQ)
-* [Q&A: Why would I spend $1 if I could just build Gas Mask?](../../transcriptions/yt-QrOJ_rZvb7M.md) [https://www.youtube.com/watch?v=QrOJ_rZvb7M](https://www.youtube.com/watch?v=QrOJ_rZvb7M)
 
 ## August 3rd, 2021 Livestream
 * [Q&A: Are there any plans for more weapons?](../../transcriptions/yt-xsjiSj9f2Oo.md) [https://www.youtube.com/watch?v=xsjiSj9f2Oo](https://www.youtube.com/watch?v=xsjiSj9f2Oo)
-* Q&A: Buster Sword reskin for Xenobasher? [https://www.youtube.com/watch?v=49nksxmITAQ](https://www.youtube.com/watch?v=49nksxmITAQ)
 * [Q&A: Grenade Launcher?](../../transcriptions/yt-5t56gFZ8I0M.md) [https://www.youtube.com/watch?v=5t56gFZ8I0M](https://www.youtube.com/watch?v=5t56gFZ8I0M)
 * [Q&A: Can we get a nuke?](../../transcriptions/yt-dY4eAJyuK3w.md) [https://www.youtube.com/watch?v=dY4eAJyuK3w](https://www.youtube.com/watch?v=dY4eAJyuK3w)
 
 ## July 20th, 2021 Livestream
-* [Q&A: Did you see my Detonator?](../../transcriptions/yt-BmfHjF5edC4.md) [https://www.youtube.com/watch?v=BmfHjF5edC4](https://www.youtube.com/watch?v=BmfHjF5edC4)
 * [Q&A: Are you going to fix the FICS⁕MAS Basher so you can hit enemies with it again?](../../transcriptions/yt-rZ_ZrEDqUW8.md) [https://www.youtube.com/watch?v=rZ_ZrEDqUW8](https://www.youtube.com/watch?v=rZ_ZrEDqUW8)
 
 ## July 13th, 2021 Livestream
 * [Q&A: Any more destructible elements planned, I would like to explode more things with Nobelisks?](../../transcriptions/yt-kMRu9njOTE0.md) [https://www.youtube.com/watch?v=kMRu9njOTE0](https://www.youtube.com/watch?v=kMRu9njOTE0)
 * Q&A: App that turns your phone into a Build Gun? [https://www.youtube.com/watch?v=VWMpYvhC4qI](https://www.youtube.com/watch?v=VWMpYvhC4qI)
-
-## July 6th, 2021 Livestream
-* [Localization Community Highlight: Translating specialised words such as "Xeno-Zapper"](../../transcriptions/yt-XFLWFV6Sd8M.md) [https://www.youtube.com/watch?v=XFLWFV6Sd8M](https://www.youtube.com/watch?v=XFLWFV6Sd8M)
 
 ## June 29th, 2021 Livestream
 * [Q&A: Equipment Hotkey, when?](../../transcriptions/yt-W56wGXyT_sA.md) [https://www.youtube.com/watch?v=W56wGXyT_sA](https://www.youtube.com/watch?v=W56wGXyT_sA)
@@ -92,7 +74,6 @@ date: Last Modified
 * Q&A: What's the coolest Concept Art that Torsten has made that's been thrown out? [https://www.youtube.com/watch?v=kI5onSQdJLs](https://www.youtube.com/watch?v=kI5onSQdJLs)
 
 ## June 1st, 2021 Livestream
-* [Snutt & Jace Talk: Setting up a Coal Generator (Part 1)](../../transcriptions/yt-cmDE_ThXeUk.md) [https://www.youtube.com/watch?v=cmDE_ThXeUk](https://www.youtube.com/watch?v=cmDE_ThXeUk)
 * [Snutt & Jace Talk: The Zip Line](../../transcriptions/yt-fuJFAY4fxEg.md) [https://www.youtube.com/watch?v=fuJFAY4fxEg](https://www.youtube.com/watch?v=fuJFAY4fxEg)
 * [Snutt & Jace Talk: Unlocking additional inventory slots & Alternate Recipes via the M.A.M.](../../transcriptions/yt-gUf8YiKr15w.md) [https://www.youtube.com/watch?v=gUf8YiKr15w](https://www.youtube.com/watch?v=gUf8YiKr15w)
 * [Snutt & Jace Talk: B for Blashlight](../../transcriptions/yt-l68pg8Mc77g.md) [https://www.youtube.com/watch?v=l68pg8Mc77g](https://www.youtube.com/watch?v=l68pg8Mc77g)
@@ -100,19 +81,14 @@ date: Last Modified
 ## May 25th, 2021 Livestream
 * [Snutt & Jace Talk: Old Unreleased Content Wiki Page (Part 1)](../../transcriptions/yt-n94KgIpWdZc.md) [https://www.youtube.com/watch?v=n94KgIpWdZc](https://www.youtube.com/watch?v=n94KgIpWdZc)
 * [Q&A: Will the Rebar shotgun come back?](../../transcriptions/yt-p7aALqL6xlo.md) [https://www.youtube.com/watch?v=p7aALqL6xlo](https://www.youtube.com/watch?v=p7aALqL6xlo)
-* [Q&A: How do you feel about automating the throwing/placing of Nobelisks?](../../transcriptions/yt-erI4Q5kLjuc.md) [https://www.youtube.com/watch?v=erI4Q5kLjuc](https://www.youtube.com/watch?v=erI4Q5kLjuc)
-* [Q&A: Thrown Nobelisks that can travel through Hyper Tubes?](../../transcriptions/yt-9C-nS_aD7xc.md) [https://www.youtube.com/watch?v=9C-nS_aD7xc](https://www.youtube.com/watch?v=9C-nS_aD7xc)
 
 ## May 11th, 2021 Livestream
 * [Q&A: Mug?](../../transcriptions/yt-MNWvQrzo_Rk.md) [https://www.youtube.com/watch?v=MNWvQrzo_Rk](https://www.youtube.com/watch?v=MNWvQrzo_Rk)
-* [Q&A: Ads for the Rifle?](../../transcriptions/yt-xcMRZD8p_YY.md) [https://www.youtube.com/watch?v=xcMRZD8p_YY](https://www.youtube.com/watch?v=xcMRZD8p_YY)
 * [Q&A: Why can't you reload the bullets into the clips once you use so you don't waste any clips?](../../transcriptions/yt-ROevp5t8k6Y.md) [https://www.youtube.com/watch?v=ROevp5t8k6Y](https://www.youtube.com/watch?v=ROevp5t8k6Y)
 * [Q&A: More weapons?](../../transcriptions/yt-oxRXMC8b2q8.md) [https://www.youtube.com/watch?v=oxRXMC8b2q8](https://www.youtube.com/watch?v=oxRXMC8b2q8)
-* [Q&A: Can you destroy gas rocks with Nobelisks?](../../transcriptions/yt-pwY930G2HRg.md) [https://www.youtube.com/watch?v=pwY930G2HRg](https://www.youtube.com/watch?v=pwY930G2HRg)
 
 ## May 4th, 2021 Livestream
 * Snutt Talk: QA Site bug report - Gas Masks in vehicles [https://www.youtube.com/watch?v=JZ0ePy8UvWU](https://www.youtube.com/watch?v=JZ0ePy8UvWU)
-* [Snutt Talk: Issues with the Resource Scanner](../../transcriptions/yt-8Lbyna2HHfc.md) [https://www.youtube.com/watch?v=8Lbyna2HHfc](https://www.youtube.com/watch?v=8Lbyna2HHfc)
 * [Q&A: It would be cool if there was a hand equipment slot, you could put a light there?](../../transcriptions/yt-b6mQ0qUrMX4.md) [https://www.youtube.com/watch?v=b6mQ0qUrMX4](https://www.youtube.com/watch?v=b6mQ0qUrMX4)
 * [Q&A: Pick up Lizard Doggo as a feature?](../../transcriptions/yt-laV5SyI3MXg.md) [https://www.youtube.com/watch?v=laV5SyI3MXg](https://www.youtube.com/watch?v=laV5SyI3MXg)
 * [Q&A: Any chance for a rocket launcher?](../../transcriptions/yt-Y3SXMv4Jhs0.md) [https://www.youtube.com/watch?v=Y3SXMv4Jhs0](https://www.youtube.com/watch?v=Y3SXMv4Jhs0)
@@ -152,14 +128,10 @@ date: Last Modified
 
 ## August 25th, 2020 Livestream
 * [Q&A: I want to fire Nukes at my rival Pioneers?](../../transcriptions/yt-CQ0vc3uRaw8.md) [https://www.youtube.com/watch?v=CQ0vc3uRaw8](https://www.youtube.com/watch?v=CQ0vc3uRaw8)
-* [Q&A: Why can't we explode some stones in the map?](../../transcriptions/yt-Yhtu3NBv2NM.md) [https://www.youtube.com/watch?v=Yhtu3NBv2NM](https://www.youtube.com/watch?v=Yhtu3NBv2NM)
 * [Q&A: Explosive Barrels of Gas we can send through the rail guns ?](../../transcriptions/yt-e4iY6zivsbU.md) [https://www.youtube.com/watch?v=e4iY6zivsbU](https://www.youtube.com/watch?v=e4iY6zivsbU)
 
 ## May 15th, 2020 Q&A
 * [Q&A: What is one item or equipment that some of the staff have wanted, but got canned for balancing?](../../transcriptions/yt-NlIVwoRqjVk,1034.8338,1062.2612.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=1034&end=1063](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=1034&end=1063)
-
-## April 30th, 2020 Dev Vlog
-* [Simon & Jace Talk: VFX for Nobelisk explosion](../../transcriptions/yt-mci92Mhr7MM,235.96906666666666,425.240567.md) [https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=235&end=426](https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=235&end=426)
 
 ## April 10th, 2020 Video
 * [Torsten & Jace Talk: FICSIT Equipment polish](../../transcriptions/yt-CG-63B4g11U,611.642462,724.268522.md) [https://youtube.com/embed/CG-63B4g11U?autoplay=1&start=611&end=725](https://youtube.com/embed/CG-63B4g11U?autoplay=1&start=611&end=725)
@@ -169,12 +141,10 @@ date: Last Modified
 
 ## May 14th, 2019 Patch Notes
 * [Jace Talk: Hand slot is now a toolbelt](../../transcriptions/yt-aceacdNX9WA,131.402374,142.269831.md) [https://youtube.com/embed/aceacdNX9WA?autoplay=1&start=131&end=143](https://youtube.com/embed/aceacdNX9WA?autoplay=1&start=131&end=143)
-* [Jace Talk: We've added a thing called the "Nobelisk Detonator"](../../transcriptions/yt-aceacdNX9WA,142.269831,152.279617.md) [https://youtube.com/embed/aceacdNX9WA?autoplay=1&start=142&end=153](https://youtube.com/embed/aceacdNX9WA?autoplay=1&start=142&end=153)
 
 ## March 9th, 2019 Livestream
 * [Q&A: There is no way to hotkey items?](../../transcriptions/yt-KmX7CoVGPA0.md) [https://www.youtube.com/watch?v=KmX7CoVGPA0](https://www.youtube.com/watch?v=KmX7CoVGPA0)
 * [Q&A: Quick keys for tools?](../../transcriptions/yt-MUBE6tb7AjQ.md) [https://www.youtube.com/watch?v=MUBE6tb7AjQ](https://www.youtube.com/watch?v=MUBE6tb7AjQ)
-* [Q&A: Is it possible to kill a Spitter with the standard Zapper?](../../transcriptions/yt-ZmVoWBHW9Jc.md) [https://www.youtube.com/watch?v=ZmVoWBHW9Jc](https://www.youtube.com/watch?v=ZmVoWBHW9Jc)
 
 ## February 20th, 2019 Livestream
 * [Q&A: Will the night cycle be dark so you need lights?](../../transcriptions/yt-CB9bSigNYH8,5390.335913,5404.05357.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5390&end=5405](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5390&end=5405)

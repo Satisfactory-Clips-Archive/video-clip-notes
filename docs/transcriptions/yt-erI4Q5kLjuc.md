@@ -3,14 +3,14 @@ title: "May 25th, 2021 Livestream Q&A: How do you feel about automating the thro
 date: "2021-05-25"
 layout: transcript
 topics:
-    - "features/equipment"
+    - "features/equipment/nobelisk"
 ---
 # [May 25th, 2021 Livestream](../2021-05-25.md)
 ## Q&A: How do you feel about automating the throwing/placing of Nobelisks?
 https://www.youtube.com/watch?v=erI4Q5kLjuc
 
 ### Topics
-* [Features > Equipment](../topics/features/equipment.md)
+* [Features > Equipment > Nobelisk](../topics/features/equipment/nobelisk.md)
 
 ### Transcript
 

@@ -81,6 +81,7 @@ date: Last Modified
 
 ## August 25th, 2020 Livestream
 * [Q&A: ETA for Update 4](../transcriptions/yt-3xgs6Y-ZSe8.md) [https://www.youtube.com/watch?v=3xgs6Y-ZSe8](https://www.youtube.com/watch?v=3xgs6Y-ZSe8)
+* [Q&A: Why can't we explode some stones in the map?](../transcriptions/yt-Yhtu3NBv2NM.md) [https://www.youtube.com/watch?v=Yhtu3NBv2NM](https://www.youtube.com/watch?v=Yhtu3NBv2NM)
 * [Q&A: Put in Solar & Wind Power to make it ultra limited?](../transcriptions/yt-_IJsp-Fy1zw.md) [https://www.youtube.com/watch?v=_IJsp-Fy1zw](https://www.youtube.com/watch?v=_IJsp-Fy1zw)
 
 ## April 30th, 2020 Dev Vlog

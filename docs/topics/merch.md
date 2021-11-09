@@ -14,15 +14,15 @@ date: Last Modified
 ## October 28th, 2021 Video
 * [Jace Talk: Lizard Doggo Plush](../transcriptions/yt-YSPnFZbTvxE,12.9129,50.7507.md) [https://youtube.com/embed/YSPnFZbTvxE?autoplay=1&start=12&end=51](https://youtube.com/embed/YSPnFZbTvxE?autoplay=1&start=12&end=51)
 * [Jace Talk: Dave from Heroic Replicas](../transcriptions/yt-YSPnFZbTvxE,50.78406666666667,66.69996666666667.md) [https://youtube.com/embed/YSPnFZbTvxE?autoplay=1&start=50&end=67](https://youtube.com/embed/YSPnFZbTvxE?autoplay=1&start=50&end=67)
-* [Jace Talk: Heroic Replicas and the Xenobasher prototype](../transcriptions/yt-YSPnFZbTvxE,66.73333333333333,88.42166666666667.md) [https://youtube.com/embed/YSPnFZbTvxE?autoplay=1&start=66&end=89](https://youtube.com/embed/YSPnFZbTvxE?autoplay=1&start=66&end=89)
+* [Jace Talk: Heroic Replicas and the Xeno-Basher prototype](../transcriptions/yt-YSPnFZbTvxE,66.73333333333333,88.42166666666667.md) [https://youtube.com/embed/YSPnFZbTvxE?autoplay=1&start=66&end=89](https://youtube.com/embed/YSPnFZbTvxE?autoplay=1&start=66&end=89)
 * [Jace Talk: Heroic Replicas Kickstarter](../transcriptions/yt-YSPnFZbTvxE,88.45503333333333,187.42056666666667.md) [https://youtube.com/embed/YSPnFZbTvxE?autoplay=1&start=88&end=188](https://youtube.com/embed/YSPnFZbTvxE?autoplay=1&start=88&end=188)
 * [End Tag](../transcriptions/yt-YSPnFZbTvxE,194.76123333333334.md) [https://youtube.com/embed/YSPnFZbTvxE?autoplay=1&start=194](https://youtube.com/embed/YSPnFZbTvxE?autoplay=1&start=194)
 
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
 * Snutt & Jace Talk: Lizard Doggo Plush [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=8987&end=9022](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=8987&end=9022)
-* Snutt & Jace Talk: Xenobasher replica (Part 1) [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=9021&end=9050](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=9021&end=9050)
+* Snutt & Jace Talk: Xeno-Basher replica (Part 1) [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=9021&end=9050](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=9021&end=9050)
 * Q&A: Where is the link? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=9048&end=9053](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=9048&end=9053)
-* Snutt & Jace Talk: Xenobasher replica (Part 2) [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=9052&end=9166](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=9052&end=9166)
+* Snutt & Jace Talk: Xeno-Basher replica (Part 2) [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=9052&end=9166](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=9052&end=9166)
 * Community FYI: That's a big Doggo [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=9165&end=9211](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=9165&end=9211)
 * Snutt Talk: Kickstarter's Live [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=9246&end=9265](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=9246&end=9265)
 * Q&A: Where is the Coffee Cup replica? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=9497&end=9536](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=9497&end=9536)

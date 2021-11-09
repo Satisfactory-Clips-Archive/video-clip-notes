@@ -4,7 +4,7 @@ date: "2021-08-17"
 layout: transcript
 topics:
     - "environment/resources"
-    - "features/equipment"
+    - "features/equipment/resource-scanner"
 ---
 # [August 17th, 2021 Livestream](../2021-08-17.md)
 ## Community FYI: The Resource Scanner, it's slightly off- it doesn't do the elevation of the node
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=FCSBHSAkKww
 
 ### Topics
 * [Environment > Resources](../topics/environment/resources.md)
-* [Features > Equipment](../topics/features/equipment.md)
+* [Features > Equipment > Resource Scanner](../topics/features/equipment/resource-scanner.md)
 
 ### Transcript
 

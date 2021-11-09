@@ -5,7 +5,8 @@ layout: transcript
 topics:
     - "community"
     - "environment/creatures/lizard-doggo"
-    - "features/equipment"
+    - "features/equipment/xeno-basher"
+    - "features/equipment/xeno-zapper"
     - "merch"
 ---
 # [October 28th, 2021 Video](../2021-10-28.md)
@@ -15,7 +16,8 @@ https://youtube.com/embed/YSPnFZbTvxE?autoplay=1&start=88&end=188
 ### Topics
 * [Community](../topics/community.md)
 * [Environment > Creatures > Lizard Doggo](../topics/environment/creatures/lizard-doggo.md)
-* [Features > Equipment](../topics/features/equipment.md)
+* [Features > Equipment > Xeno-Basher](../topics/features/equipment/xeno-basher.md)
+* [Features > Equipment > Xeno-Zapper](../topics/features/equipment/xeno-zapper.md)
 * [Merch](../topics/merch.md)
 
 ### Transcript

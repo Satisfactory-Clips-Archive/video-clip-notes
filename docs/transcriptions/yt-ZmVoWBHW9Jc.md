@@ -4,7 +4,7 @@ date: "2019-03-09"
 layout: transcript
 topics:
     - "environment/creatures"
-    - "features/equipment"
+    - "features/equipment/xeno-zapper"
 ---
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Is it possible to kill a Spitter with the standard Zapper?
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=ZmVoWBHW9Jc
 
 ### Topics
 * [Environment > Creatures](../topics/environment/creatures.md)
-* [Features > Equipment](../topics/features/equipment.md)
+* [Features > Equipment > Xeno-Zapper](../topics/features/equipment/xeno-zapper.md)
 
 ### Transcript
 

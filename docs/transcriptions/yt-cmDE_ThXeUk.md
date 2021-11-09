@@ -8,7 +8,7 @@ topics:
     - "features/buildings/coal-generator"
     - "features/buildings/miner"
     - "features/buildings/water-extractor"
-    - "features/equipment"
+    - "features/equipment/resource-scanner"
     - "features/power-management"
     - "features/tiers/tier-3"
     - "june-2021-epic-mega-sale-stream"
@@ -40,7 +40,7 @@ https://www.youtube.com/watch?v=cmDE_ThXeUk
 * [Features > Buildings > Coal Generator](../topics/features/buildings/coal-generator.md)
 * [Features > Buildings > Miner](../topics/features/buildings/miner.md)
 * [Features > Buildings > Water Extractor](../topics/features/buildings/water-extractor.md)
-* [Features > Equipment](../topics/features/equipment.md)
+* [Features > Equipment > Resource Scanner](../topics/features/equipment/resource-scanner.md)
 * [Features > Power Management](../topics/features/power-management.md)
 * [Features > Tiers > Tier 3](../topics/features/tiers/tier-3.md)
 * [June 2021 Epic Mega Sale Stream](../topics/june-2021-epic-mega-sale-stream.md)

@@ -3,7 +3,7 @@ title: "May 11th, 2021 Livestream Q&A: Ads for the Rifle?"
 date: "2021-05-11"
 layout: transcript
 topics:
-    - "features/equipment"
+    - "features/equipment/rifle"
     - "trolling"
 ---
 # [May 11th, 2021 Livestream](../2021-05-11.md)
@@ -11,7 +11,7 @@ topics:
 https://www.youtube.com/watch?v=xcMRZD8p_YY
 
 ### Topics
-* [Features > Equipment](../topics/features/equipment.md)
+* [Features > Equipment > Rifle](../topics/features/equipment/rifle.md)
 * [Trolling](../topics/trolling.md)
 
 ### Transcript

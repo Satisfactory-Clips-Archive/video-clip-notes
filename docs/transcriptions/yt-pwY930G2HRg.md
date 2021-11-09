@@ -4,7 +4,7 @@ date: "2021-05-11"
 layout: transcript
 topics:
     - "environment"
-    - "features/equipment"
+    - "features/equipment/nobelisk"
     - "features/save-system"
 ---
 # [May 11th, 2021 Livestream](../2021-05-11.md)
@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=pwY930G2HRg
 
 ### Topics
 * [Environment](../topics/environment.md)
-* [Features > Equipment](../topics/features/equipment.md)
+* [Features > Equipment > Nobelisk](../topics/features/equipment/nobelisk.md)
 * [Features > Save System](../topics/features/save-system.md)
 
 ### Transcript

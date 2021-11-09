@@ -7,7 +7,7 @@ topics:
 ---
 # [September 26th, 2018 Video](../2018-09-26.md)
 ## Jannik Talk: Four different types of Satisfactory music
-https://youtube.com/embed/Y7G72e0LLBg?autoplay=1&start=71&end=115
+https://youtube.com/clip/UgkxL9vaIrt0MxCytSleaR7vgs63AITDM5ih
 
 ### Topics
 * [Soundtrack](../topics/soundtrack.md)

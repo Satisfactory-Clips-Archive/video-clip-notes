@@ -4,7 +4,7 @@ date: "2020-04-30"
 layout: transcript
 topics:
     - "coffee-stainers/simon"
-    - "features/equipment"
+    - "features/equipment/nobelisk"
     - "technology/graphics"
 ---
 # [April 30th, 2020 Dev Vlog](../2020-04-30.md)
@@ -13,7 +13,7 @@ https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=235&end=426
 
 ### Topics
 * [Coffee Stainers > Simon](../topics/coffee-stainers/simon.md)
-* [Features > Equipment](../topics/features/equipment.md)
+* [Features > Equipment > Nobelisk](../topics/features/equipment/nobelisk.md)
 * [Technology > Graphics](../topics/technology/graphics.md)
 
 ### Transcript

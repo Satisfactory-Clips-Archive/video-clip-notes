@@ -203,12 +203,19 @@ date: Last Modified
 * [Chainsaw](./topics/features/equipment/chainsaw.md)
 * [Color Gun](./topics/features/equipment/color-gun.md)
 * [Cup](./topics/features/equipment/cup.md)
+* [Customizer](./topics/features/equipment/customizer.md)
 * [Gas Mask](./topics/features/equipment/gas-mask.md)
 * [Hover Pack](./topics/features/equipment/hover-pack.md)
 * [Jetpack](./topics/features/equipment/jetpack.md)
+* [Parachute](./topics/features/equipment/parachute.md)
+* [Resource Scanner](./topics/features/equipment/resource-scanner.md)
 * [Rifle](./topics/features/equipment/rifle.md)
-* [The Customizer](./topics/features/equipment/the-customizer.md)
+* [Xeno-Basher](./topics/features/equipment/xeno-basher.md)
+* [Xeno-Zapper](./topics/features/equipment/xeno-zapper.md)
 * [Zip Lines](./topics/features/equipment/zip-lines.md)
+
+### [Nobelisk](./topics/features/equipment/nobelisk.md)
+* [Nobelisk Detonator](./topics/features/equipment/nobelisk/detonator.md)
 ---
 
 ## [Fluids](./topics/features/fluids.md)
