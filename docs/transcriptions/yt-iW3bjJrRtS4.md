@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "coffee-stainers/jace"
     - "coffee-stainers/snutt"
-    - "off-topic/food-drink"
+    - "off-topic/food-and-drink"
 ---
 # [March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary](../2021-03-17.md)
 ## Snutt & Jace Talk: Drinking together on stream?
@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=iW3bjJrRtS4
 ### Topics
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
 * [Coffee Stainers > Snutt](../topics/coffee-stainers/snutt.md)
-* [Off-Topic > Food & Drink](../topics/off-topic/food-drink.md)
+* [Off-Topic > Food & Drink](../topics/off-topic/food-and-drink.md)
 
 ### Transcript
 

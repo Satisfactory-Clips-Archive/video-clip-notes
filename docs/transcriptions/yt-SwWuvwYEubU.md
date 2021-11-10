@@ -4,8 +4,8 @@ date: "2021-05-04"
 layout: transcript
 topics:
     - "satisfactory-updates"
-    - "satisfactory-updates/teasers-trailers"
-    - "story-lore"
+    - "satisfactory-updates/teasers-and-trailers"
+    - "story-and-lore"
 ---
 # [May 4th, 2021 Livestream](../2021-05-04.md)
 ## Q&A: Are we going to get the Lore?
@@ -15,8 +15,8 @@ This question was possibly duplicated with a more recent answer: [August 31st, 2
 
 ### Topics
 * [Satisfactory Updates](../topics/satisfactory-updates.md)
-* [Satisfactory Updates > Teasers & Trailers](../topics/satisfactory-updates/teasers-trailers.md)
-* [Story & Lore](../topics/story-lore.md)
+* [Satisfactory Updates > Teasers & Trailers](../topics/satisfactory-updates/teasers-and-trailers.md)
+* [Story & Lore](../topics/story-and-lore.md)
 
 ### Transcript
 

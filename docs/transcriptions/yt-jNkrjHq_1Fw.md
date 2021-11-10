@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "coffee-stainers/simon"
     - "features/transportation/vehicles/drones"
-    - "satisfactory-updates/teasers-trailers/update-4-patch-notes-video"
+    - "satisfactory-updates/teasers-and-trailers/update-4-patch-notes-video"
 ---
 # [March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary](../2021-03-17.md)
 ## Snutt & Jace Talk: Behind the scenes of Simon's mock-up (Part 1)
@@ -21,7 +21,7 @@ https://www.youtube.com/watch?v=jNkrjHq_1Fw
 ### Topics
 * [Coffee Stainers > Simon](../topics/coffee-stainers/simon.md)
 * [Features > Transportation > Vehicles > Drones](../topics/features/transportation/vehicles/drones.md)
-* [Satisfactory Updates > Teasers & Trailers > Update 4 Patch Notes Video](../topics/satisfactory-updates/teasers-trailers/update-4-patch-notes-video.md)
+* [Satisfactory Updates > Teasers & Trailers > Update 4 Patch Notes Video](../topics/satisfactory-updates/teasers-and-trailers/update-4-patch-notes-video.md)
 
 ### Transcript
 

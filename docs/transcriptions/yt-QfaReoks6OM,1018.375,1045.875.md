@@ -5,8 +5,8 @@ layout: transcript
 topics:
     - "features/multiplayer/dedicated-servers"
     - "satisfactory-updates/released/satisfactory-update-5"
-    - "satisfactory-updates/teasers-trailers/update-5-patch-notes-video"
-    - "satisfactory-updates/teasers-trailers/update-5-patch-notes-video/update-5-wager-on-releasing-golf-versus-dedicated-servers"
+    - "satisfactory-updates/teasers-and-trailers/update-5-patch-notes-video"
+    - "satisfactory-updates/teasers-and-trailers/update-5-patch-notes-video/update-5-wager-on-releasing-golf-versus-dedicated-servers"
 ---
 # [October 26th, 2021 Update 5 Launch Stream and Patch Notes Video](../2021-10-26.md)
 ## Snutt & Jace Talk: Jace won, we get Dedicated Servers
@@ -15,8 +15,8 @@ https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=1018&end=1046
 ### Topics
 * [Features > Multiplayer > Dedicated Servers](../topics/features/multiplayer/dedicated-servers.md)
 * [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
-* [Satisfactory Updates > Teasers & Trailers > Update 5 Patch Notes Video](../topics/satisfactory-updates/teasers-trailers/update-5-patch-notes-video.md)
-* [Satisfactory Updates > Teasers & Trailers > Update 5 Patch Notes Video > Update 5 Wager on releasing Golf versus Dedicated Servers](../topics/satisfactory-updates/teasers-trailers/update-5-patch-notes-video/update-5-wager-on-releasing-golf-versus-dedicated-servers.md)
+* [Satisfactory Updates > Teasers & Trailers > Update 5 Patch Notes Video](../topics/satisfactory-updates/teasers-and-trailers/update-5-patch-notes-video.md)
+* [Satisfactory Updates > Teasers & Trailers > Update 5 Patch Notes Video > Update 5 Wager on releasing Golf versus Dedicated Servers](../topics/satisfactory-updates/teasers-and-trailers/update-5-patch-notes-video/update-5-wager-on-releasing-golf-versus-dedicated-servers.md)
 
 ### Transcript
 

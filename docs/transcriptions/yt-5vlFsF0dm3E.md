@@ -4,7 +4,7 @@ date: "2021-01-26"
 layout: transcript
 topics:
     - "satisfactory-updates/released/satisfactory-update-4"
-    - "story-lore"
+    - "story-and-lore"
 ---
 # [January 26th, 2021 Livestream](../2021-01-26.md)
 ## Q&A: News for the Work In Progress collectables for anything in Update 4?
@@ -14,7 +14,7 @@ This question was possibly duplicated with a more recent answer: [May 18th, 2021
 
 ### Topics
 * [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
-* [Story & Lore](../topics/story-lore.md)
+* [Story & Lore](../topics/story-and-lore.md)
 
 ### Transcript
 

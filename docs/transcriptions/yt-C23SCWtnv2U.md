@@ -3,7 +3,7 @@ title: "March 30th, 2021 Livestream Q&A: Will there be Story to the game?"
 date: "2021-03-30"
 layout: transcript
 topics:
-    - "story-lore"
+    - "story-and-lore"
 ---
 # [March 30th, 2021 Livestream](../2021-03-30.md)
 ## Q&A: Will there be Story to the game?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: [September 28th
 
 
 ### Topics
-* [Story & Lore](../topics/story-lore.md)
+* [Story & Lore](../topics/story-and-lore.md)
 
 ### Transcript
 

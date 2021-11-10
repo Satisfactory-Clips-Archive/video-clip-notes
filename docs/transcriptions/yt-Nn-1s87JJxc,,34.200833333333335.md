@@ -4,7 +4,7 @@ date: "2021-10-27"
 layout: transcript
 topics:
     - "features/multiplayer/dedicated-servers"
-    - "satisfactory-updates/teasers-trailers/update-5-patch-notes-video"
+    - "satisfactory-updates/teasers-and-trailers/update-5-patch-notes-video"
 ---
 # [October 27th, 2021 Video](../2021-10-27.md)
 ## Intro
@@ -12,7 +12,7 @@ https://youtube.com/embed/Nn-1s87JJxc?autoplay=1&start=0&end=35
 
 ### Topics
 * [Features > Multiplayer > Dedicated Servers](../topics/features/multiplayer/dedicated-servers.md)
-* [Satisfactory Updates > Teasers & Trailers > Update 5 Patch Notes Video](../topics/satisfactory-updates/teasers-trailers/update-5-patch-notes-video.md)
+* [Satisfactory Updates > Teasers & Trailers > Update 5 Patch Notes Video](../topics/satisfactory-updates/teasers-and-trailers/update-5-patch-notes-video.md)
 
 ### Transcript
 

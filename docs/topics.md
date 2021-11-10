@@ -175,7 +175,7 @@ date: Last Modified
 * [M.A.M.](./topics/features/buildings/m-a-m.md)
 * [Miner](./topics/features/buildings/miner.md)
 * [Oil Extractor](./topics/features/buildings/oil-extractor.md)
-* [Overclocking & Underclocking](./topics/features/buildings/overclocking-underclocking.md)
+* [Overclocking & Underclocking](./topics/features/buildings/overclocking-and-underclocking.md)
 * [Packager](./topics/features/buildings/packager.md)
 * [Particle Accelerator](./topics/features/buildings/particle-accelerator.md)
 * [Radar Tower](./topics/features/buildings/radar-tower.md)
@@ -235,8 +235,8 @@ date: Last Modified
 * [Quick Switch](./topics/features/planned-features/build-modes/quick-switch.md)
 * [Zooping](./topics/features/planned-features/build-modes/zooping.md)
 
-#### [Hard & Soft Clearance](./topics/features/planned-features/build-modes/hard-soft-clearance.md)
-* [Complex Clearance](./topics/features/planned-features/build-modes/hard-soft-clearance/complex-clearance.md)
+#### [Hard & Soft Clearance](./topics/features/planned-features/build-modes/hard-and-soft-clearance.md)
+* [Complex Clearance](./topics/features/planned-features/build-modes/hard-and-soft-clearance/complex-clearance.md)
 ---
 
 ## Possible Features
@@ -405,12 +405,12 @@ date: Last Modified
 * [The Cycle](./topics/off-topic/the-cycle.md)
 * [Valheim](./topics/off-topic/valheim.md)
 
-## [Food & Drink](./topics/off-topic/food-drink.md)
-* [Bacon](./topics/off-topic/food-drink/bacon.md)
-* [Coffee](./topics/off-topic/food-drink/coffee.md)
-* [Milk](./topics/off-topic/food-drink/milk.md)
-* [Pizza](./topics/off-topic/food-drink/pizza.md)
-* [Semlor](./topics/off-topic/food-drink/semlor.md)
+## [Food & Drink](./topics/off-topic/food-and-drink.md)
+* [Bacon](./topics/off-topic/food-and-drink/bacon.md)
+* [Coffee](./topics/off-topic/food-and-drink/coffee.md)
+* [Milk](./topics/off-topic/food-and-drink/milk.md)
+* [Pizza](./topics/off-topic/food-and-drink/pizza.md)
+* [Semlor](./topics/off-topic/food-and-drink/semlor.md)
 ---
 * [QA Site](./topics/qa-site.md)
 
@@ -469,38 +469,38 @@ date: Last Modified
 * [Satisfactory 2.0](./topics/satisfactory-updates/speculative/satisfactory-2-0.md)
 ---
 
-## [Teasers & Trailers](./topics/satisfactory-updates/teasers-trailers.md)
-* [Update 3 Reveal Trailer](./topics/satisfactory-updates/teasers-trailers/update-3-reveal-trailer.md)
-* [Update 3 Patch Notes Video](./topics/satisfactory-updates/teasers-trailers/update-3-patch-notes-video.md)
-* [Update 4 Teasers](./topics/satisfactory-updates/teasers-trailers/update-4-teasers.md)
-* [Update 4 Launch Stream](./topics/satisfactory-updates/teasers-trailers/update-4-launch-stream.md)
-* [Update 4 Patch Notes Video](./topics/satisfactory-updates/teasers-trailers/update-4-patch-notes-video.md)
-* [Update 4 Launch Trailer](./topics/satisfactory-updates/teasers-trailers/update-4-launch-trailer.md)
-* [Update 5 Teasers](./topics/satisfactory-updates/teasers-trailers/update-5-teasers.md)
+## [Teasers & Trailers](./topics/satisfactory-updates/teasers-and-trailers.md)
+* [Update 3 Reveal Trailer](./topics/satisfactory-updates/teasers-and-trailers/update-3-reveal-trailer.md)
+* [Update 3 Patch Notes Video](./topics/satisfactory-updates/teasers-and-trailers/update-3-patch-notes-video.md)
+* [Update 4 Teasers](./topics/satisfactory-updates/teasers-and-trailers/update-4-teasers.md)
+* [Update 4 Launch Stream](./topics/satisfactory-updates/teasers-and-trailers/update-4-launch-stream.md)
+* [Update 4 Patch Notes Video](./topics/satisfactory-updates/teasers-and-trailers/update-4-patch-notes-video.md)
+* [Update 4 Launch Trailer](./topics/satisfactory-updates/teasers-and-trailers/update-4-launch-trailer.md)
+* [Update 5 Teasers](./topics/satisfactory-updates/teasers-and-trailers/update-5-teasers.md)
 
-### [Update 5 Patch Notes Video](./topics/satisfactory-updates/teasers-trailers/update-5-patch-notes-video.md)
-* [Update 5 Wager on releasing Golf versus Dedicated Servers](./topics/satisfactory-updates/teasers-trailers/update-5-patch-notes-video/update-5-wager-on-releasing-golf-versus-dedicated-servers.md)
-* [Snutty Mays & Juice Velvet Present: The Customizer™](./topics/satisfactory-updates/teasers-trailers/update-5-patch-notes-video/snutty-mays-and-juice-velvet-present-the-customizer.md)
+### [Update 5 Patch Notes Video](./topics/satisfactory-updates/teasers-and-trailers/update-5-patch-notes-video.md)
+* [Update 5 Wager on releasing Golf versus Dedicated Servers](./topics/satisfactory-updates/teasers-and-trailers/update-5-patch-notes-video/update-5-wager-on-releasing-golf-versus-dedicated-servers.md)
+* [Snutty Mays & Juice Velvet Present: The Customizer™](./topics/satisfactory-updates/teasers-and-trailers/update-5-patch-notes-video/snutty-mays-and-juice-velvet-present-the-customizer.md)
 ---
 
-### [Update 5 Launch Stream](./topics/satisfactory-updates/teasers-trailers/update-5-launch-stream.md)
-* [Update 5 Quiz: Underrated/Overrated](./topics/satisfactory-updates/teasers-trailers/update-5-launch-stream/underrated-or-overrated-quiz.md)
-* [Update 5 Loot](./topics/satisfactory-updates/teasers-trailers/update-5-launch-stream/loot.md)
-* [Update 5 Art Giveaway](./topics/satisfactory-updates/teasers-trailers/update-5-launch-stream/art-giveaway.md)
-* [Update 5 Challenge Run](./topics/satisfactory-updates/teasers-trailers/update-5-launch-stream/challenge-run.md)
-* [Update 5 Final Countdown](./topics/satisfactory-updates/teasers-trailers/update-5-launch-stream/its-the-final-countdown.md)
-* [Update 5 Revealed](./topics/satisfactory-updates/teasers-trailers/update-5-launch-stream/update-5-revealed.md)
+### [Update 5 Launch Stream](./topics/satisfactory-updates/teasers-and-trailers/update-5-launch-stream.md)
+* [Update 5 Quiz: Underrated/Overrated](./topics/satisfactory-updates/teasers-and-trailers/update-5-launch-stream/underrated-or-overrated-quiz.md)
+* [Update 5 Loot](./topics/satisfactory-updates/teasers-and-trailers/update-5-launch-stream/loot.md)
+* [Update 5 Art Giveaway](./topics/satisfactory-updates/teasers-and-trailers/update-5-launch-stream/art-giveaway.md)
+* [Update 5 Challenge Run](./topics/satisfactory-updates/teasers-and-trailers/update-5-launch-stream/challenge-run.md)
+* [Update 5 Final Countdown](./topics/satisfactory-updates/teasers-and-trailers/update-5-launch-stream/its-the-final-countdown.md)
+* [Update 5 Revealed](./topics/satisfactory-updates/teasers-and-trailers/update-5-launch-stream/update-5-revealed.md)
 ---
 * [Soundtrack](./topics/soundtrack.md)
 * [Special Guests](./topics/special-guests.md)
 
-# [Story & Lore](./topics/story-lore.md)
-* [Project Assembly](./topics/story-lore/project-assembly.md)
+# [Story & Lore](./topics/story-and-lore.md)
+* [Project Assembly](./topics/story-and-lore/project-assembly.md)
 
 ## Characters
-* [ADA](./topics/story-lore/characters/ada.md)
-* [Caterina Parks](./topics/story-lore/characters/caterina-parks.md)
-* [Steve](./topics/story-lore/characters/steve.md)
+* [ADA](./topics/story-and-lore/characters/ada.md)
+* [Caterina Parks](./topics/story-and-lore/characters/caterina-parks.md)
+* [Steve](./topics/story-and-lore/characters/steve.md)
 ---
 
 # [Technology](./topics/technology.md)

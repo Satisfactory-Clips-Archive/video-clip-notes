@@ -3,7 +3,7 @@ title: "April 6th, 2021 Livestream Q&A: Mk.2 Factory Buildings?"
 date: "2021-04-06"
 layout: transcript
 topics:
-    - "features/buildings/overclocking-underclocking"
+    - "features/buildings/overclocking-and-underclocking"
     - "features/unplanned-features/mk-2-buildings"
 ---
 # [April 6th, 2021 Livestream](../2021-04-06.md)
@@ -13,7 +13,7 @@ This question was possibly duplicated with a more recent answer: [April 27th, 20
 
 
 ### Topics
-* [Features > Buildings > Overclocking & Underclocking](../topics/features/buildings/overclocking-underclocking.md)
+* [Features > Buildings > Overclocking & Underclocking](../topics/features/buildings/overclocking-and-underclocking.md)
 * [Features > Unplanned Features > Mk.2 Buildings](../topics/features/unplanned-features/mk-2-buildings.md)
 
 ### Transcript

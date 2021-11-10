@@ -4,7 +4,7 @@ date: "2021-07-13"
 layout: transcript
 topics:
     - "coffee-stainers/jace"
-    - "satisfactory-updates/teasers-trailers/update-4-patch-notes-video"
+    - "satisfactory-updates/teasers-and-trailers/update-4-patch-notes-video"
 ---
 # [July 13th, 2021 Livestream](../2021-07-13.md)
 ## Q&A: Does Jace still feel sad about his PS5?
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=6zXM0xfjYEE
 
 ### Topics
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
-* [Satisfactory Updates > Teasers & Trailers > Update 4 Patch Notes Video](../topics/satisfactory-updates/teasers-trailers/update-4-patch-notes-video.md)
+* [Satisfactory Updates > Teasers & Trailers > Update 4 Patch Notes Video](../topics/satisfactory-updates/teasers-and-trailers/update-4-patch-notes-video.md)
 
 ### Transcript
 

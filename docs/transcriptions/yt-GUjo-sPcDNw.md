@@ -3,14 +3,14 @@ title: "July 6th, 2021 Livestream Q&A: Do you guys have time to clean 5 and a ha
 date: "2021-07-06"
 layout: transcript
 topics:
-    - "off-topic/food-drink"
+    - "off-topic/food-and-drink"
 ---
 # [July 6th, 2021 Livestream](../2021-07-06.md)
 ## Q&A: Do you guys have time to clean 5 and a half kilos of freshly-picked strawberries?
 https://www.youtube.com/watch?v=GUjo-sPcDNw
 
 ### Topics
-* [Off-Topic > Food & Drink](../topics/off-topic/food-drink.md)
+* [Off-Topic > Food & Drink](../topics/off-topic/food-and-drink.md)
 
 ### Transcript
 

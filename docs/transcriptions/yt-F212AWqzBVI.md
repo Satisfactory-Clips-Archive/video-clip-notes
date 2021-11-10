@@ -4,7 +4,7 @@ date: "2020-09-29"
 layout: transcript
 topics:
     - "features/power-management"
-    - "story-lore"
+    - "story-and-lore"
 ---
 # [September 29th, 2020 Livestream](../2020-09-29.md)
 ## Q&A: Giving people Solar, Wind, and Hydro means FICSIT gets more resources?
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=F212AWqzBVI
 
 ### Topics
 * [Features > Power Management](../topics/features/power-management.md)
-* [Story & Lore](../topics/story-lore.md)
+* [Story & Lore](../topics/story-and-lore.md)
 
 ### Transcript
 

@@ -4,7 +4,7 @@ date: "2020-02-11"
 layout: transcript
 topics:
     - "satisfactory-updates/released/satisfactory-update-3"
-    - "story-lore"
+    - "story-and-lore"
 ---
 # [February 11th, 2020 Livestream](../2020-02-11.md)
 ## Q&A: Anything narrative?
@@ -14,7 +14,7 @@ This question was possibly duplicated with a more recent answer: [April 20th, 20
 
 ### Topics
 * [Satisfactory Updates > Released > Satisfactory Update 3](../topics/satisfactory-updates/released/satisfactory-update-3.md)
-* [Story & Lore](../topics/story-lore.md)
+* [Story & Lore](../topics/story-and-lore.md)
 
 ### Transcript
 

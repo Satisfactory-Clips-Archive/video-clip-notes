@@ -4,7 +4,7 @@ date: "2021-03-17"
 layout: transcript
 topics:
     - "environment/resources/nuclear-pasta"
-    - "satisfactory-updates/teasers-trailers"
+    - "satisfactory-updates/teasers-and-trailers"
 ---
 # [March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary](../2021-03-17.md)
 ## Community FYI: Well now you have plenty of time to fix it for the Early Access trailer
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=m76OwvXPa14
 
 ### Topics
 * [Environment > Resources > Nuclear Pasta](../topics/environment/resources/nuclear-pasta.md)
-* [Satisfactory Updates > Teasers & Trailers](../topics/satisfactory-updates/teasers-trailers.md)
+* [Satisfactory Updates > Teasers & Trailers](../topics/satisfactory-updates/teasers-and-trailers.md)
 
 ### Transcript
 

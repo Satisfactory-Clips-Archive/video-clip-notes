@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "features/transportation/trains/train-signals"
     - "satisfactory-updates/released/satisfactory-update-5"
-    - "satisfactory-updates/teasers-trailers/update-5-teasers"
+    - "satisfactory-updates/teasers-and-trailers/update-5-teasers"
 ---
 # [October 5th, 2021 Livestream](../2021-10-05.md)
 ## Q&A: Will we get option to let Trains wait at a station until they're fully loaded or unloaded?
@@ -22,7 +22,7 @@ This question was possibly replaced with a more recent answer: [October 8th, 202
 ### Topics
 * [Features > Transportation > Trains > Train Signals](../topics/features/transportation/trains/train-signals.md)
 * [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
-* [Satisfactory Updates > Teasers & Trailers > Update 5 Teasers](../topics/satisfactory-updates/teasers-trailers/update-5-teasers.md)
+* [Satisfactory Updates > Teasers & Trailers > Update 5 Teasers](../topics/satisfactory-updates/teasers-and-trailers/update-5-teasers.md)
 
 ### Transcript
 

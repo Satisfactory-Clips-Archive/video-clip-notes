@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "features/fluids/valves"
     - "satisfactory-updates/released/satisfactory-fluids-update"
-    - "satisfactory-updates/teasers-trailers"
+    - "satisfactory-updates/teasers-and-trailers"
 ---
 # [October 27th, 2020 Livestream](../2020-10-27.md)
 ## Jace & Snutt Talk: Valves
@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=3GXsZcsWBzc
 ### Topics
 * [Features > Fluids > Valves](../topics/features/fluids/valves.md)
 * [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
-* [Satisfactory Updates > Teasers & Trailers](../topics/satisfactory-updates/teasers-trailers.md)
+* [Satisfactory Updates > Teasers & Trailers](../topics/satisfactory-updates/teasers-and-trailers.md)
 
 ### Transcript
 

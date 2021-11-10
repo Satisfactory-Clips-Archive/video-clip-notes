@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "coffee-stainers"
     - "coffee-stainers/hannah"
-    - "story-lore"
+    - "story-and-lore"
 ---
 # [May 4th, 2021 Livestream](../2021-05-04.md)
 ## Q&A: Is Hannah the only one working on the Story?
@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=j0wtwJ9ZWI8
 ### Topics
 * [Coffee Stainers](../topics/coffee-stainers.md)
 * [Coffee Stainers > Hannah](../topics/coffee-stainers/hannah.md)
-* [Story & Lore](../topics/story-lore.md)
+* [Story & Lore](../topics/story-and-lore.md)
 
 ### Transcript
 

@@ -7,7 +7,7 @@ topics:
     - "features/unplanned-features/loot-boxes"
     - "features/unplanned-features/microtransactions"
     - "satisfactory-updates/released/satisfactory-update-3"
-    - "satisfactory-updates/teasers-trailers"
+    - "satisfactory-updates/teasers-and-trailers"
 ---
 # [January 22nd, 2020 Livestream](../2020-01-22.md)
 ## Snutt & Jace Talk: AWESOME Shop Teaser (no microtransactions)
@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=1UbLRZJ0-SE
 * [Features > Unplanned Features > Loot Boxes](../topics/features/unplanned-features/loot-boxes.md)
 * [Features > Unplanned Features > Microtransactions](../topics/features/unplanned-features/microtransactions.md)
 * [Satisfactory Updates > Released > Satisfactory Update 3](../topics/satisfactory-updates/released/satisfactory-update-3.md)
-* [Satisfactory Updates > Teasers & Trailers](../topics/satisfactory-updates/teasers-trailers.md)
+* [Satisfactory Updates > Teasers & Trailers](../topics/satisfactory-updates/teasers-and-trailers.md)
 
 ### Transcript
 

@@ -4,7 +4,7 @@ date: "2021-09-07"
 layout: transcript
 topics:
     - "features/pioneer"
-    - "off-topic/food-drink/coffee"
+    - "off-topic/food-and-drink/coffee"
     - "trolling"
 ---
 # [September 7th, 2021 Livestream](../2021-09-07.md)
@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=VvPwssa6lvw
 
 ### Topics
 * [Features > Pioneer](../topics/features/pioneer.md)
-* [Off-Topic > Food & Drink > Coffee](../topics/off-topic/food-drink/coffee.md)
+* [Off-Topic > Food & Drink > Coffee](../topics/off-topic/food-and-drink/coffee.md)
 * [Trolling](../topics/trolling.md)
 
 ### Transcript

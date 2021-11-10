@@ -6,7 +6,7 @@ topics:
     - "community"
     - "features/power-management/nuclear-energy/nuclear-refinement"
     - "satisfactory-updates/released/satisfactory-update-4"
-    - "satisfactory-updates/teasers-trailers"
+    - "satisfactory-updates/teasers-and-trailers"
     - "technology/user-interface"
 ---
 # [March 9th, 2021 Livestream](../2021-03-09.md)
@@ -17,7 +17,7 @@ https://www.youtube.com/watch?v=0BtRlCxfxEc
 * [Community](../topics/community.md)
 * [Features > Power Management > Nuclear Energy > Nuclear Refinement](../topics/features/power-management/nuclear-energy/nuclear-refinement.md)
 * [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
-* [Satisfactory Updates > Teasers & Trailers](../topics/satisfactory-updates/teasers-trailers.md)
+* [Satisfactory Updates > Teasers & Trailers](../topics/satisfactory-updates/teasers-and-trailers.md)
 * [Technology > User Interface](../topics/technology/user-interface.md)
 
 ### Transcript

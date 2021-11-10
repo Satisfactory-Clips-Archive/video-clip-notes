@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "features/planned-features/build-modes/zooping"
     - "satisfactory-updates/released/satisfactory-update-5"
-    - "satisfactory-updates/teasers-trailers/update-5-patch-notes-video"
+    - "satisfactory-updates/teasers-and-trailers/update-5-patch-notes-video"
 ---
 # [October 26th, 2021 Update 5 Launch Stream and Patch Notes Video](../2021-10-26.md)
 ## Snutt Talk: Zooping
@@ -14,7 +14,7 @@ https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=200&end=223
 ### Topics
 * [Features > Planned Features > Build Modes > Zooping](../topics/features/planned-features/build-modes/zooping.md)
 * [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
-* [Satisfactory Updates > Teasers & Trailers > Update 5 Patch Notes Video](../topics/satisfactory-updates/teasers-trailers/update-5-patch-notes-video.md)
+* [Satisfactory Updates > Teasers & Trailers > Update 5 Patch Notes Video](../topics/satisfactory-updates/teasers-and-trailers/update-5-patch-notes-video.md)
 
 ### Transcript
 

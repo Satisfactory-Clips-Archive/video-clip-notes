@@ -3,7 +3,7 @@ title: "September 7th, 2021 Livestream Q&A: Will the Save still be playable afte
 date: "2021-09-07"
 layout: transcript
 topics:
-    - "story-lore"
+    - "story-and-lore"
 ---
 # [September 7th, 2021 Livestream](../2021-09-07.md)
 ## Q&A: Will the Save still be playable after you finish the Story?
@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=MbP0WCoaPjs
 
 
 ### Topics
-* [Story & Lore](../topics/story-lore.md)
+* [Story & Lore](../topics/story-and-lore.md)
 
 ### Transcript
 

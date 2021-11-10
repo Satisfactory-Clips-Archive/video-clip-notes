@@ -3,14 +3,14 @@ title: "June 29th, 2021 Livestream Q&A: Would you classify Lasagne as Spaghetti,
 date: "2021-06-29"
 layout: transcript
 topics:
-    - "off-topic/food-drink"
+    - "off-topic/food-and-drink"
 ---
 # [June 29th, 2021 Livestream](../2021-06-29.md)
 ## Q&A: Would you classify Lasagne as Spaghetti, or Mac & Cheese?
 https://www.youtube.com/watch?v=Ow5LVDtlPpE
 
 ### Topics
-* [Off-Topic > Food & Drink](../topics/off-topic/food-drink.md)
+* [Off-Topic > Food & Drink](../topics/off-topic/food-and-drink.md)
 
 ### Transcript
 

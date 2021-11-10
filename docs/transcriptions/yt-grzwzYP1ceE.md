@@ -4,7 +4,7 @@ date: "2021-09-07"
 layout: transcript
 topics:
     - "community/kibitz"
-    - "satisfactory-updates/teasers-trailers/update-5-teasers"
+    - "satisfactory-updates/teasers-and-trailers/update-5-teasers"
 ---
 # [September 7th, 2021 Livestream](../2021-09-07.md)
 ## Snutt Talk: Story behind the build in the Teaser video
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=grzwzYP1ceE
 
 ### Topics
 * [Community > Kibitz](../topics/community/kibitz.md)
-* [Satisfactory Updates > Teasers & Trailers > Update 5 Teasers](../topics/satisfactory-updates/teasers-trailers/update-5-teasers.md)
+* [Satisfactory Updates > Teasers & Trailers > Update 5 Teasers](../topics/satisfactory-updates/teasers-and-trailers/update-5-teasers.md)
 
 ### Transcript
 

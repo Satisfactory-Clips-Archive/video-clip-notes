@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "coffee-stainers/jace"
     - "coffee-stainers/snutt"
-    - "off-topic/food-drink"
+    - "off-topic/food-and-drink"
 ---
 # [October 5th, 2021 Livestream](../2021-10-05.md)
 ## Q&A: Dinner plans?
@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=Kp7Yk3Drj7Y
 ### Topics
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
 * [Coffee Stainers > Snutt](../topics/coffee-stainers/snutt.md)
-* [Off-Topic > Food & Drink](../topics/off-topic/food-drink.md)
+* [Off-Topic > Food & Drink](../topics/off-topic/food-and-drink.md)
 
 ### Transcript
 

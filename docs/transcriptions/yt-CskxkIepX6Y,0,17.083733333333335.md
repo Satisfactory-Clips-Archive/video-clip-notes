@@ -6,7 +6,7 @@ topics:
     - "coffee-stainers/jace"
     - "features/transportation/trains/train-signals"
     - "satisfactory-updates/released/satisfactory-update-5"
-    - "satisfactory-updates/teasers-trailers/update-5-teasers"
+    - "satisfactory-updates/teasers-and-trailers/update-5-teasers"
 ---
 # [October 8th, 2021 Video](../2021-10-08.md)
 ## Jace Talk: The Lie
@@ -16,7 +16,7 @@ https://youtube.com/clip/Ugkxvj8a3wzSAepqTv-cIb2F1KetdU6ZT7iJ
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
 * [Features > Transportation > Trains > Train Signals](../topics/features/transportation/trains/train-signals.md)
 * [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
-* [Satisfactory Updates > Teasers & Trailers > Update 5 Teasers](../topics/satisfactory-updates/teasers-trailers/update-5-teasers.md)
+* [Satisfactory Updates > Teasers & Trailers > Update 5 Teasers](../topics/satisfactory-updates/teasers-and-trailers/update-5-teasers.md)
 
 ### Transcript
 

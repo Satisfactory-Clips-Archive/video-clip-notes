@@ -4,7 +4,7 @@ date: "2021-08-31"
 layout: transcript
 topics:
     - "features/buildings/miner"
-    - "features/buildings/overclocking-underclocking"
+    - "features/buildings/overclocking-and-underclocking"
 ---
 # [August 31st, 2021 Livestream](../2021-08-31.md)
 ## Q&A: Two outputs for Mk.3 Miners?
@@ -14,7 +14,7 @@ This question was possibly duplicated with a more recent answer: [October 19th, 
 
 ### Topics
 * [Features > Buildings > Miner](../topics/features/buildings/miner.md)
-* [Features > Buildings > Overclocking & Underclocking](../topics/features/buildings/overclocking-underclocking.md)
+* [Features > Buildings > Overclocking & Underclocking](../topics/features/buildings/overclocking-and-underclocking.md)
 
 ### Transcript
 

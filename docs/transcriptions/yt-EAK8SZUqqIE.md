@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "features/buildables/storage-containers"
     - "features/buildables/walls"
-    - "features/planned-features/build-modes/hard-soft-clearance"
+    - "features/planned-features/build-modes/hard-and-soft-clearance"
 ---
 # [October 19th, 2021 Livestream](../2021-10-19.md)
 ## Q&A: Does the Storage Container have Soft Clearance now so they can get closer to Walls??
@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=EAK8SZUqqIE
 ### Topics
 * [Features > Buildables > Storage Containers](../topics/features/buildables/storage-containers.md)
 * [Features > Buildables > Walls](../topics/features/buildables/walls.md)
-* [Features > Planned Features > Build Modes > Hard & Soft Clearance](../topics/features/planned-features/build-modes/hard-soft-clearance.md)
+* [Features > Planned Features > Build Modes > Hard & Soft Clearance](../topics/features/planned-features/build-modes/hard-and-soft-clearance.md)
 
 ### Transcript
 

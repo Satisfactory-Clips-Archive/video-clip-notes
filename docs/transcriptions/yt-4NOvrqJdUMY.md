@@ -4,7 +4,7 @@ date: "2021-05-11"
 layout: transcript
 topics:
     - "satisfactory-updates"
-    - "story-lore"
+    - "story-and-lore"
 ---
 # [May 11th, 2021 Livestream](../2021-05-11.md)
 ## Q&A: When are you thinking of putting out updates for the Story?
@@ -14,7 +14,7 @@ This question was possibly duplicated with a more recent answer: [August 31st, 2
 
 ### Topics
 * [Satisfactory Updates](../topics/satisfactory-updates.md)
-* [Story & Lore](../topics/story-lore.md)
+* [Story & Lore](../topics/story-and-lore.md)
 
 ### Transcript
 

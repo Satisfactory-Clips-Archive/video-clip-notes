@@ -3,7 +3,7 @@ title: "May 18th, 2021 Livestream Q&A: Is there any sort of Story planned?"
 date: "2021-05-18"
 layout: transcript
 topics:
-    - "story-lore"
+    - "story-and-lore"
 ---
 # [May 18th, 2021 Livestream](../2021-05-18.md)
 ## Q&A: Is there any sort of Story planned?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: [September 28th
 
 
 ### Topics
-* [Story & Lore](../topics/story-lore.md)
+* [Story & Lore](../topics/story-and-lore.md)
 
 ### Transcript
 

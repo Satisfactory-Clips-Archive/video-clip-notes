@@ -3,7 +3,7 @@ title: "September 28th, 2021 Livestream Q&A: Will there be overclocking on Vehic
 date: "2021-09-28"
 layout: transcript
 topics:
-    - "features/buildings/overclocking-underclocking"
+    - "features/buildings/overclocking-and-underclocking"
     - "features/transportation/vehicles"
 ---
 # [September 28th, 2021 Livestream](../2021-09-28.md)
@@ -11,7 +11,7 @@ topics:
 https://www.youtube.com/watch?v=y7y-w8tPtLw
 
 ### Topics
-* [Features > Buildings > Overclocking & Underclocking](../topics/features/buildings/overclocking-underclocking.md)
+* [Features > Buildings > Overclocking & Underclocking](../topics/features/buildings/overclocking-and-underclocking.md)
 * [Features > Transportation > Vehicles](../topics/features/transportation/vehicles.md)
 
 ### Transcript

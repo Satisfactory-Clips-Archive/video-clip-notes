@@ -3,7 +3,7 @@ title: "October 6th, 2020 Livestream Q&A: Is ADA a synth voice ?"
 date: "2020-10-06"
 layout: transcript
 topics:
-    - "story-lore/characters/ada"
+    - "story-and-lore/characters/ada"
 ---
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Q&A: Is ADA a synth voice ?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: [May 18th, 2021
 
 
 ### Topics
-* [Story & Lore > Characters > ADA](../topics/story-lore/characters/ada.md)
+* [Story & Lore > Characters > ADA](../topics/story-and-lore/characters/ada.md)
 
 ### Transcript
 

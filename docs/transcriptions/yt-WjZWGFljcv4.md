@@ -4,7 +4,7 @@ date: "2021-09-21"
 layout: transcript
 topics:
     - "satisfactory-updates/released/satisfactory-update-5"
-    - "satisfactory-updates/teasers-trailers/update-5-teasers"
+    - "satisfactory-updates/teasers-and-trailers/update-5-teasers"
 ---
 # [September 21st, 2021 Livestream](../2021-09-21.md)
 ## Q&A: Hope that you're not spoiling everything for Update 5?
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=WjZWGFljcv4
 
 ### Topics
 * [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
-* [Satisfactory Updates > Teasers & Trailers > Update 5 Teasers](../topics/satisfactory-updates/teasers-trailers/update-5-teasers.md)
+* [Satisfactory Updates > Teasers & Trailers > Update 5 Teasers](../topics/satisfactory-updates/teasers-and-trailers/update-5-teasers.md)
 
 ### Transcript
 

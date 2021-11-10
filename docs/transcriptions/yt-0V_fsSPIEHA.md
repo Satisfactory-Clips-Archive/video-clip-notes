@@ -4,7 +4,7 @@ date: "2020-11-10"
 layout: transcript
 topics:
     - "features/pioneer"
-    - "story-lore"
+    - "story-and-lore"
 ---
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Does the Pioneer have any lore or is she just a random worker person?
@@ -14,7 +14,7 @@ This question was possibly duplicated with a more recent answer: [December 8th, 
 
 ### Topics
 * [Features > Pioneer](../topics/features/pioneer.md)
-* [Story & Lore](../topics/story-lore.md)
+* [Story & Lore](../topics/story-and-lore.md)
 
 ### Transcript
 

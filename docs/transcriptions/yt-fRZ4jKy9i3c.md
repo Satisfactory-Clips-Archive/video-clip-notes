@@ -6,7 +6,7 @@ topics:
     - "features/transportation/vehicles"
     - "features/transportation/vehicles/autopilot"
     - "satisfactory-updates/released/satisfactory-update-5"
-    - "satisfactory-updates/teasers-trailers/update-5-teasers"
+    - "satisfactory-updates/teasers-and-trailers/update-5-teasers"
     - "technology/physics"
 ---
 # [September 14th, 2021 Livestream](../2021-09-14.md)
@@ -17,7 +17,7 @@ https://www.youtube.com/watch?v=fRZ4jKy9i3c
 * [Features > Transportation > Vehicles](../topics/features/transportation/vehicles.md)
 * [Features > Transportation > Vehicles > Autopilot](../topics/features/transportation/vehicles/autopilot.md)
 * [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
-* [Satisfactory Updates > Teasers & Trailers > Update 5 Teasers](../topics/satisfactory-updates/teasers-trailers/update-5-teasers.md)
+* [Satisfactory Updates > Teasers & Trailers > Update 5 Teasers](../topics/satisfactory-updates/teasers-and-trailers/update-5-teasers.md)
 * [Technology > Physics](../topics/technology/physics.md)
 
 ### Transcript

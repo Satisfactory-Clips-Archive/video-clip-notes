@@ -4,7 +4,7 @@ date: "2021-10-12"
 layout: transcript
 topics:
     - "features/buildables/conveyor-belts"
-    - "features/buildings/overclocking-underclocking"
+    - "features/buildings/overclocking-and-underclocking"
     - "features/requested-features"
 ---
 # [October 12th, 2021 Livestream](../2021-10-12.md)
@@ -33,7 +33,7 @@ https://www.youtube.com/watch?v=rpK_pbol3-0
 
 ### Topics
 * [Features > Buildables > Conveyor Belts](../topics/features/buildables/conveyor-belts.md)
-* [Features > Buildings > Overclocking & Underclocking](../topics/features/buildings/overclocking-underclocking.md)
+* [Features > Buildings > Overclocking & Underclocking](../topics/features/buildings/overclocking-and-underclocking.md)
 * [Features > Requested Features](../topics/features/requested-features.md)
 
 ### Transcript

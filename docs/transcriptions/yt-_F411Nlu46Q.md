@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "coffee-stainers/snutt"
     - "community/community-highlights"
-    - "satisfactory-updates/teasers-trailers"
+    - "satisfactory-updates/teasers-and-trailers"
 ---
 # [March 30th, 2021 Livestream](../2021-03-30.md)
 ## Snutt Talk: Community Highlights entry reminds Snutt of early trailer
@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=_F411Nlu46Q
 ### Topics
 * [Coffee Stainers > Snutt](../topics/coffee-stainers/snutt.md)
 * [Community > Community Highlights](../topics/community/community-highlights.md)
-* [Satisfactory Updates > Teasers & Trailers](../topics/satisfactory-updates/teasers-trailers.md)
+* [Satisfactory Updates > Teasers & Trailers](../topics/satisfactory-updates/teasers-and-trailers.md)
 
 ### Transcript
 

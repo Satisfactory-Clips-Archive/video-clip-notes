@@ -4,7 +4,7 @@ date: "2021-06-22"
 layout: transcript
 topics:
     - "features/pioneer"
-    - "story-lore"
+    - "story-and-lore"
 ---
 # [June 22nd, 2021 Livestream](../2021-06-22.md)
 ## Q&A: "Damage to FICSIT property detected" - who or what is the property, the suit or the player?
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=_w5OogSI8Wo
 
 ### Topics
 * [Features > Pioneer](../topics/features/pioneer.md)
-* [Story & Lore](../topics/story-lore.md)
+* [Story & Lore](../topics/story-and-lore.md)
 
 ### Transcript
 

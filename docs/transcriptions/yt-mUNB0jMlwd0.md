@@ -3,7 +3,7 @@ title: "September 21st, 2021 Livestream Q&A: Is all the Story stuff finished?"
 date: "2021-09-21"
 layout: transcript
 topics:
-    - "story-lore"
+    - "story-and-lore"
 ---
 # [September 21st, 2021 Livestream](../2021-09-21.md)
 ## Q&A: Is all the Story stuff finished?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: [September 28th
 
 
 ### Topics
-* [Story & Lore](../topics/story-lore.md)
+* [Story & Lore](../topics/story-and-lore.md)
 
 ### Transcript
 

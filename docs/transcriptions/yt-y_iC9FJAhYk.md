@@ -4,7 +4,7 @@ date: "2021-05-04"
 layout: transcript
 topics:
     - "environment/resources/mercer-sphere"
-    - "story-lore"
+    - "story-and-lore"
 ---
 # [May 4th, 2021 Livestream](../2021-05-04.md)
 ## Q&A: What about work-in-progress things like Mercer Spheres?
@@ -14,7 +14,7 @@ This question was possibly duplicated with a more recent answer: [May 18th, 2021
 
 ### Topics
 * [Environment > Resources > Mercer Sphere](../topics/environment/resources/mercer-sphere.md)
-* [Story & Lore](../topics/story-lore.md)
+* [Story & Lore](../topics/story-and-lore.md)
 
 ### Transcript
 

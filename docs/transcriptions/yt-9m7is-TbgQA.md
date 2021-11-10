@@ -4,9 +4,9 @@ date: "2020-02-11"
 layout: transcript
 topics:
     - "coffee-stainers/snutt"
-    - "off-topic/food-drink/semlor"
+    - "off-topic/food-and-drink/semlor"
     - "satisfactory-updates/released/satisfactory-update-3"
-    - "satisfactory-updates/teasers-trailers"
+    - "satisfactory-updates/teasers-and-trailers"
 ---
 # [February 11th, 2020 Livestream](../2020-02-11.md)
 ## Snutt Talk: Revealing Update 3 when the countdown hits zero
@@ -14,9 +14,9 @@ https://www.youtube.com/watch?v=9m7is-TbgQA
 
 ### Topics
 * [Coffee Stainers > Snutt](../topics/coffee-stainers/snutt.md)
-* [Off-Topic > Food & Drink > Semlor](../topics/off-topic/food-drink/semlor.md)
+* [Off-Topic > Food & Drink > Semlor](../topics/off-topic/food-and-drink/semlor.md)
 * [Satisfactory Updates > Released > Satisfactory Update 3](../topics/satisfactory-updates/released/satisfactory-update-3.md)
-* [Satisfactory Updates > Teasers & Trailers](../topics/satisfactory-updates/teasers-trailers.md)
+* [Satisfactory Updates > Teasers & Trailers](../topics/satisfactory-updates/teasers-and-trailers.md)
 
 ### Transcript
 

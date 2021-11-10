@@ -6,7 +6,7 @@ topics:
     - "features/buildables/railings"
     - "satisfactory-updates/released/satisfactory-update-5"
     - "satisfactory-updates/state-of-dev"
-    - "satisfactory-updates/teasers-trailers/update-5-teasers"
+    - "satisfactory-updates/teasers-and-trailers/update-5-teasers"
 ---
 # [August 24th, 2021 Livestream](../2021-08-24.md)
 ## State of Dev: Ramp Rails
@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=r1ltr8UBfT4
 * [Features > Buildables > Railings](../topics/features/buildables/railings.md)
 * [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 * [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
-* [Satisfactory Updates > Teasers & Trailers > Update 5 Teasers](../topics/satisfactory-updates/teasers-trailers/update-5-teasers.md)
+* [Satisfactory Updates > Teasers & Trailers > Update 5 Teasers](../topics/satisfactory-updates/teasers-and-trailers/update-5-teasers.md)
 
 ### Transcript
 

@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "community"
     - "satisfactory-updates/released/satisfactory-update-5"
-    - "satisfactory-updates/teasers-trailers/update-5-teasers"
+    - "satisfactory-updates/teasers-and-trailers/update-5-teasers"
 ---
 # [October 22nd, 2021 Video](../2021-10-22.md)
 ## Jace Talk: What we've released so far on Update 5
@@ -14,7 +14,7 @@ https://youtube.com/embed/cNBKEaJMLyM?autoplay=1&start=67&end=115
 ### Topics
 * [Community](../topics/community.md)
 * [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
-* [Satisfactory Updates > Teasers & Trailers > Update 5 Teasers](../topics/satisfactory-updates/teasers-trailers/update-5-teasers.md)
+* [Satisfactory Updates > Teasers & Trailers > Update 5 Teasers](../topics/satisfactory-updates/teasers-and-trailers/update-5-teasers.md)
 
 ### Transcript
 

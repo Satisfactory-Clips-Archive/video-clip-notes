@@ -4,7 +4,7 @@ date: "2020-12-17"
 layout: transcript
 topics:
     - "coffee-stainers/jace"
-    - "off-topic/food-drink/coffee"
+    - "off-topic/food-and-drink/coffee"
 ---
 # [December 17th, 2020 Q&A](../2020-12-17.md)
 ## Q&A: How do you have your coffee and/or tea?
@@ -12,7 +12,7 @@ https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=1078&end=1095
 
 ### Topics
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
-* [Off-Topic > Food & Drink > Coffee](../topics/off-topic/food-drink/coffee.md)
+* [Off-Topic > Food & Drink > Coffee](../topics/off-topic/food-and-drink/coffee.md)
 
 ### Transcript
 

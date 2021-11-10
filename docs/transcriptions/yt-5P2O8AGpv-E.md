@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "off-topic"
     - "off-topic/subnautica"
-    - "story-lore"
+    - "story-and-lore"
 ---
 # [May 4th, 2021 Livestream](../2021-05-04.md)
 ## Q&A: What do you think about Subnautica?
@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=5P2O8AGpv-E
 ### Topics
 * [Off-Topic](../topics/off-topic.md)
 * [Off-Topic > Subnautica](../topics/off-topic/subnautica.md)
-* [Story & Lore](../topics/story-lore.md)
+* [Story & Lore](../topics/story-and-lore.md)
 
 ### Transcript
 

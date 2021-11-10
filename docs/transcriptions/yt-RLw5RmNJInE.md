@@ -6,7 +6,7 @@ topics:
     - "features/buildables"
     - "features/multiplayer/dedicated-servers"
     - "off-topic/goat-simulator"
-    - "satisfactory-updates/teasers-trailers/update-5-teasers"
+    - "satisfactory-updates/teasers-and-trailers/update-5-teasers"
 ---
 # [November 2nd, 2021 Livestream](../2021-11-02.md)
 ## Q&A: Are we going to get a cosmetic Dedicated Server in the game?
@@ -22,7 +22,7 @@ https://www.youtube.com/watch?v=RLw5RmNJInE
 * [Features > Buildables](../topics/features/buildables.md)
 * [Features > Multiplayer > Dedicated Servers](../topics/features/multiplayer/dedicated-servers.md)
 * [Off-Topic > Goat Simulator](../topics/off-topic/goat-simulator.md)
-* [Satisfactory Updates > Teasers & Trailers > Update 5 Teasers](../topics/satisfactory-updates/teasers-trailers/update-5-teasers.md)
+* [Satisfactory Updates > Teasers & Trailers > Update 5 Teasers](../topics/satisfactory-updates/teasers-and-trailers/update-5-teasers.md)
 
 ### Transcript
 

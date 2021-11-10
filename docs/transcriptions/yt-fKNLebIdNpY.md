@@ -3,7 +3,7 @@ title: "October 6th, 2020 Livestream Q&A: What is the Goal of this game?"
 date: "2020-10-06"
 layout: transcript
 topics:
-    - "story-lore"
+    - "story-and-lore"
 ---
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Q&A: What is the Goal of this game?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: [November 10th,
 
 
 ### Topics
-* [Story & Lore](../topics/story-lore.md)
+* [Story & Lore](../topics/story-and-lore.md)
 
 ### Transcript
 

@@ -4,7 +4,7 @@ date: "2021-03-02"
 layout: transcript
 topics:
     - "satisfactory-updates/released/satisfactory-update-4"
-    - "satisfactory-updates/teasers-trailers"
+    - "satisfactory-updates/teasers-and-trailers"
 ---
 # [March 2nd, 2021 Livestream](../2021-03-02.md)
 ## Q&A: How's the patch notes video coming along?
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=JSiUvQ1K00Q
 
 ### Topics
 * [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
-* [Satisfactory Updates > Teasers & Trailers](../topics/satisfactory-updates/teasers-trailers.md)
+* [Satisfactory Updates > Teasers & Trailers](../topics/satisfactory-updates/teasers-and-trailers.md)
 
 ### Transcript
 

@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "satisfactory-updates/pending/satisfactory-1-0"
     - "satisfactory-updates/satisfactory-prototypes"
-    - "story-lore"
+    - "story-and-lore"
 ---
 # [May 11th, 2021 Livestream](../2021-05-11.md)
 ## Q&A: Do you have a clear idea of the Story Mode yet?
@@ -16,7 +16,7 @@ This question was possibly duplicated with a more recent answer: [September 28th
 ### Topics
 * [Satisfactory Updates > Pending > Satisfactory 1.0](../topics/satisfactory-updates/pending/satisfactory-1-0.md)
 * [Satisfactory Updates > Satisfactory Prototypes](../topics/satisfactory-updates/satisfactory-prototypes.md)
-* [Story & Lore](../topics/story-lore.md)
+* [Story & Lore](../topics/story-and-lore.md)
 
 ### Transcript
 

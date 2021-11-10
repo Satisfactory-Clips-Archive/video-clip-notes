@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "satisfactory-updates/pending/satisfactory-1-0"
     - "satisfactory-updates/released/satisfactory-alpha"
-    - "story-lore"
+    - "story-and-lore"
 ---
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Is there an actual win condition or is it just 'til end of content?
@@ -16,7 +16,7 @@ This question was possibly duplicated with a more recent answer: [November 10th,
 ### Topics
 * [Satisfactory Updates > Pending > Satisfactory 1.0](../topics/satisfactory-updates/pending/satisfactory-1-0.md)
 * [Satisfactory Updates > Released > Satisfactory Alpha](../topics/satisfactory-updates/released/satisfactory-alpha.md)
-* [Story & Lore](../topics/story-lore.md)
+* [Story & Lore](../topics/story-and-lore.md)
 
 ### Transcript
 

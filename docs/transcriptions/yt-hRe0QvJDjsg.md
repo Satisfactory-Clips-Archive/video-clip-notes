@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "environment/resources/mercer-sphere"
     - "environment/resources/somersloop"
-    - "story-lore"
+    - "story-and-lore"
 ---
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: Do you have any clue on what the alien artefacts do?
@@ -16,7 +16,7 @@ This question was possibly duplicated with a more recent answer: [October 5th, 2
 ### Topics
 * [Environment > Resources > Mercer Sphere](../topics/environment/resources/mercer-sphere.md)
 * [Environment > Resources > Somersloop](../topics/environment/resources/somersloop.md)
-* [Story & Lore](../topics/story-lore.md)
+* [Story & Lore](../topics/story-and-lore.md)
 
 ### Transcript
 

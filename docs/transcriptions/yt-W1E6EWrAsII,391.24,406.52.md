@@ -3,9 +3,9 @@ title: "June 22nd, 2018 Q&A Q&A: Is there an end game? Will there be a story?"
 date: "2018-06-22"
 layout: transcript
 topics:
-    - "story-lore"
-    - "story-lore/characters/caterina-parks"
-    - "story-lore/characters/steve"
+    - "story-and-lore"
+    - "story-and-lore/characters/caterina-parks"
+    - "story-and-lore/characters/steve"
 ---
 # [June 22nd, 2018 Q&A](../2018-06-22.md)
 ## Q&A: Is there an end game? Will there be a story?
@@ -14,9 +14,9 @@ This question was possibly duplicated with a more recent answer: [November 10th,
 
 
 ### Topics
-* [Story & Lore](../topics/story-lore.md)
-* [Story & Lore > Characters > Caterina Parks](../topics/story-lore/characters/caterina-parks.md)
-* [Story & Lore > Characters > Steve](../topics/story-lore/characters/steve.md)
+* [Story & Lore](../topics/story-and-lore.md)
+* [Story & Lore > Characters > Caterina Parks](../topics/story-and-lore/characters/caterina-parks.md)
+* [Story & Lore > Characters > Steve](../topics/story-and-lore/characters/steve.md)
 
 ### Transcript
 

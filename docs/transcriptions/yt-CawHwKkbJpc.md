@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "features/buildings/particle-accelerator"
     - "features/power-management/power-storage"
-    - "satisfactory-updates/teasers-trailers/update-4-patch-notes-video"
+    - "satisfactory-updates/teasers-and-trailers/update-4-patch-notes-video"
 ---
 # [March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary](../2021-03-17.md)
 ## Jace Talk: Opinion- Power Storage justification & the Particle Accelerator
@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=CawHwKkbJpc
 ### Topics
 * [Features > Buildings > Particle Accelerator](../topics/features/buildings/particle-accelerator.md)
 * [Features > Power Management > Power Storage](../topics/features/power-management/power-storage.md)
-* [Satisfactory Updates > Teasers & Trailers > Update 4 Patch Notes Video](../topics/satisfactory-updates/teasers-trailers/update-4-patch-notes-video.md)
+* [Satisfactory Updates > Teasers & Trailers > Update 4 Patch Notes Video](../topics/satisfactory-updates/teasers-and-trailers/update-4-patch-notes-video.md)
 
 ### Transcript
 

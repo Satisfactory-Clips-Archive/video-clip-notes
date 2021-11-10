@@ -6,7 +6,7 @@ topics:
     - "environment/resources/mercer-sphere"
     - "environment/resources/sam-ore"
     - "satisfactory-updates/pending/satisfactory-1-0"
-    - "story-lore"
+    - "story-and-lore"
 ---
 # [May 11th, 2021 Livestream](../2021-05-11.md)
 ## Q&A: Are Mercer Spheres going to be useful before 1.0?
@@ -18,7 +18,7 @@ This question was possibly duplicated with a more recent answer: [May 18th, 2021
 * [Environment > Resources > Mercer Sphere](../topics/environment/resources/mercer-sphere.md)
 * [Environment > Resources > S.A.M. Ore](../topics/environment/resources/sam-ore.md)
 * [Satisfactory Updates > Pending > Satisfactory 1.0](../topics/satisfactory-updates/pending/satisfactory-1-0.md)
-* [Story & Lore](../topics/story-lore.md)
+* [Story & Lore](../topics/story-and-lore.md)
 
 ### Transcript
 

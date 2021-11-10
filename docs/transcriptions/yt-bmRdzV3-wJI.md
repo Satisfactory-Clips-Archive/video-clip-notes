@@ -7,7 +7,7 @@ topics:
     - "environment/resources/sam-ore"
     - "environment/resources/somersloop"
     - "satisfactory-updates/pending/satisfactory-1-0"
-    - "story-lore"
+    - "story-and-lore"
 ---
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Q&A: When are these Work In Progress (WIP) items going to be used?
@@ -20,7 +20,7 @@ This question was possibly duplicated with a more recent answer: [May 18th, 2021
 * [Environment > Resources > S.A.M. Ore](../topics/environment/resources/sam-ore.md)
 * [Environment > Resources > Somersloop](../topics/environment/resources/somersloop.md)
 * [Satisfactory Updates > Pending > Satisfactory 1.0](../topics/satisfactory-updates/pending/satisfactory-1-0.md)
-* [Story & Lore](../topics/story-lore.md)
+* [Story & Lore](../topics/story-and-lore.md)
 
 ### Transcript
 

@@ -3,14 +3,14 @@ title: "August 3rd, 2021 Livestream Q&A: Trailer, where?"
 date: "2021-08-03"
 layout: transcript
 topics:
-    - "satisfactory-updates/teasers-trailers/update-5-teasers"
+    - "satisfactory-updates/teasers-and-trailers/update-5-teasers"
 ---
 # [August 3rd, 2021 Livestream](../2021-08-03.md)
 ## Q&A: Trailer, where?
 https://www.youtube.com/watch?v=McTFRkVG3es
 
 ### Topics
-* [Satisfactory Updates > Teasers & Trailers > Update 5 Teasers](../topics/satisfactory-updates/teasers-trailers/update-5-teasers.md)
+* [Satisfactory Updates > Teasers & Trailers > Update 5 Teasers](../topics/satisfactory-updates/teasers-and-trailers/update-5-teasers.md)
 
 ### Transcript
 

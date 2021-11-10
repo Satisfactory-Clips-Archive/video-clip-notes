@@ -3,14 +3,14 @@ title: "July 13th, 2021 Livestream Q&A: Is it true that if I use Power Shard, th
 date: "2021-07-13"
 layout: transcript
 topics:
-    - "features/buildings/overclocking-underclocking"
+    - "features/buildings/overclocking-and-underclocking"
 ---
 # [July 13th, 2021 Livestream](../2021-07-13.md)
 ## Q&A: Is it true that if I use Power Shard, that I have a lot of CPU consumption?
 https://www.youtube.com/watch?v=8PCFVeQsVXo
 
 ### Topics
-* [Features > Buildings > Overclocking & Underclocking](../topics/features/buildings/overclocking-underclocking.md)
+* [Features > Buildings > Overclocking & Underclocking](../topics/features/buildings/overclocking-and-underclocking.md)
 
 ### Transcript
 

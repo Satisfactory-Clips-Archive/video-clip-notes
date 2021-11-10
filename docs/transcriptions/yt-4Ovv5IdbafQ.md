@@ -3,7 +3,7 @@ title: "April 6th, 2021 Livestream Q&A: How will Story affect Balancing?"
 date: "2021-04-06"
 layout: transcript
 topics:
-    - "story-lore"
+    - "story-and-lore"
 ---
 # [April 6th, 2021 Livestream](../2021-04-06.md)
 ## Q&A: How will Story affect Balancing?
@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=4Ovv5IdbafQ
 
 
 ### Topics
-* [Story & Lore](../topics/story-lore.md)
+* [Story & Lore](../topics/story-and-lore.md)
 
 ### Transcript
 

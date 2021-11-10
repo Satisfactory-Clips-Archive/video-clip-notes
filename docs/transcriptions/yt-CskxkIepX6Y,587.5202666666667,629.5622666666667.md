@@ -7,7 +7,7 @@ topics:
     - "features/transportation/trains"
     - "features/transportation/trains/train-signals"
     - "satisfactory-updates/released/satisfactory-update-5"
-    - "satisfactory-updates/teasers-trailers/update-5-teasers"
+    - "satisfactory-updates/teasers-and-trailers/update-5-teasers"
 ---
 # [October 8th, 2021 Video](../2021-10-08.md)
 ## Jace Talk: Epic Train staredown contest
@@ -18,7 +18,7 @@ https://youtube.com/clip/UgkxoEUo6ohfHz8MYiTqo4oYr6BtCIlQ2NWG
 * [Features > Transportation > Trains](../topics/features/transportation/trains.md)
 * [Features > Transportation > Trains > Train Signals](../topics/features/transportation/trains/train-signals.md)
 * [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
-* [Satisfactory Updates > Teasers & Trailers > Update 5 Teasers](../topics/satisfactory-updates/teasers-trailers/update-5-teasers.md)
+* [Satisfactory Updates > Teasers & Trailers > Update 5 Teasers](../topics/satisfactory-updates/teasers-and-trailers/update-5-teasers.md)
 
 ### Transcript
 

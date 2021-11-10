@@ -8,7 +8,7 @@ topics:
     - "features/equipment/chainsaw"
     - "features/possible-features/weather-systems"
     - "satisfactory-updates/released/satisfactory-update-5"
-    - "satisfactory-updates/teasers-trailers/update-5-patch-notes-video"
+    - "satisfactory-updates/teasers-and-trailers/update-5-patch-notes-video"
     - "satisfactory-updates/world-update"
     - "technology/graphics"
 ---
@@ -22,7 +22,7 @@ https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=551&end=585
 * [Features > Equipment > Chainsaw](../topics/features/equipment/chainsaw.md)
 * [Features > Possible Features > Weather Systems](../topics/features/possible-features/weather-systems.md)
 * [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
-* [Satisfactory Updates > Teasers & Trailers > Update 5 Patch Notes Video](../topics/satisfactory-updates/teasers-trailers/update-5-patch-notes-video.md)
+* [Satisfactory Updates > Teasers & Trailers > Update 5 Patch Notes Video](../topics/satisfactory-updates/teasers-and-trailers/update-5-patch-notes-video.md)
 * [Satisfactory Updates > World Update](../topics/satisfactory-updates/world-update.md)
 * [Technology > Graphics](../topics/technology/graphics.md)
 

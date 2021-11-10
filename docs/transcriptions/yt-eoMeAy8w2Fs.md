@@ -4,7 +4,7 @@ date: "2019-03-09"
 layout: transcript
 topics:
     - "features/possible-features/character-customisation"
-    - "story-lore"
+    - "story-and-lore"
 ---
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: What gender is the character model?
@@ -14,7 +14,7 @@ This question was possibly duplicated with a more recent answer: [September 22nd
 
 ### Topics
 * [Features > Possible Features > Character Customisation](../topics/features/possible-features/character-customisation.md)
-* [Story & Lore](../topics/story-lore.md)
+* [Story & Lore](../topics/story-and-lore.md)
 
 ### Transcript
 

@@ -3,14 +3,14 @@ title: "August 10th, 2021 Livestream Q&A: Will there be a Satisfactory Story or 
 date: "2021-08-10"
 layout: transcript
 topics:
-    - "story-lore"
+    - "story-and-lore"
 ---
 # [August 10th, 2021 Livestream](../2021-08-10.md)
 ## Q&A: Will there be a Satisfactory Story or not?
 https://www.youtube.com/watch?v=jYJBghZ58LU
 
 ### Topics
-* [Story & Lore](../topics/story-lore.md)
+* [Story & Lore](../topics/story-and-lore.md)
 
 ### Transcript
 

@@ -4,7 +4,7 @@ date: "2021-09-21"
 layout: transcript
 topics:
     - "coffee-stainers/jace"
-    - "story-lore"
+    - "story-and-lore"
 ---
 # [September 21st, 2021 Livestream](../2021-09-21.md)
 ## Q&A: Jace will be part of the Story?
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=JuGh8i9uZ7I
 
 ### Topics
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
-* [Story & Lore](../topics/story-lore.md)
+* [Story & Lore](../topics/story-and-lore.md)
 
 ### Transcript
 

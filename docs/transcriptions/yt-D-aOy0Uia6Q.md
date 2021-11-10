@@ -4,7 +4,7 @@ date: "2021-03-23"
 layout: transcript
 topics:
     - "features/buildings"
-    - "features/buildings/overclocking-underclocking"
+    - "features/buildings/overclocking-and-underclocking"
     - "technology/user-interface"
 ---
 # [March 23rd, 2021 Livestream](../2021-03-23.md)
@@ -15,7 +15,7 @@ This question was possibly replaced with a more recent answer: [March 30th, 2021
 
 ### Topics
 * [Features > Buildings](../topics/features/buildings.md)
-* [Features > Buildings > Overclocking & Underclocking](../topics/features/buildings/overclocking-underclocking.md)
+* [Features > Buildings > Overclocking & Underclocking](../topics/features/buildings/overclocking-and-underclocking.md)
 * [Technology > User Interface](../topics/technology/user-interface.md)
 
 ### Transcript

@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "features/buildables"
     - "features/possible-features/decor"
-    - "satisfactory-updates/teasers-trailers/update-5-teasers"
+    - "satisfactory-updates/teasers-and-trailers/update-5-teasers"
 ---
 # [August 31st, 2021 Livestream](../2021-08-31.md)
 ## Snutt & Jace Talk: Building the set pieces for the cosmetics video
@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=w-_GGJ3dqIM
 ### Topics
 * [Features > Buildables](../topics/features/buildables.md)
 * [Features > Possible Features > Decor](../topics/features/possible-features/decor.md)
-* [Satisfactory Updates > Teasers & Trailers > Update 5 Teasers](../topics/satisfactory-updates/teasers-trailers/update-5-teasers.md)
+* [Satisfactory Updates > Teasers & Trailers > Update 5 Teasers](../topics/satisfactory-updates/teasers-and-trailers/update-5-teasers.md)
 
 ### Transcript
 

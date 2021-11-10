@@ -6,7 +6,7 @@ topics:
     - "environment/creatures/lizard-doggo"
     - "features/equipment/xeno-basher"
     - "merch"
-    - "satisfactory-updates/teasers-trailers/update-4-patch-notes-video"
+    - "satisfactory-updates/teasers-and-trailers/update-4-patch-notes-video"
 ---
 # [October 28th, 2021 Video](../2021-10-28.md)
 ## End Tag
@@ -16,7 +16,7 @@ https://youtube.com/embed/YSPnFZbTvxE?autoplay=1&start=194
 * [Environment > Creatures > Lizard Doggo](../topics/environment/creatures/lizard-doggo.md)
 * [Features > Equipment > Xeno-Basher](../topics/features/equipment/xeno-basher.md)
 * [Merch](../topics/merch.md)
-* [Satisfactory Updates > Teasers & Trailers > Update 4 Patch Notes Video](../topics/satisfactory-updates/teasers-trailers/update-4-patch-notes-video.md)
+* [Satisfactory Updates > Teasers & Trailers > Update 4 Patch Notes Video](../topics/satisfactory-updates/teasers-and-trailers/update-4-patch-notes-video.md)
 
 ### Transcript
 

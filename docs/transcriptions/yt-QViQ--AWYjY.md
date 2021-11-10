@@ -3,7 +3,7 @@ title: "January 12th, 2021 Livestream Q&A: Does the game get a deeper Story?"
 date: "2021-01-12"
 layout: transcript
 topics:
-    - "story-lore"
+    - "story-and-lore"
 ---
 # [January 12th, 2021 Livestream](../2021-01-12.md)
 ## Q&A: Does the game get a deeper Story?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: January 22nd, 2
 
 
 ### Topics
-* [Story & Lore](../topics/story-lore.md)
+* [Story & Lore](../topics/story-and-lore.md)
 
 ### Transcript
 

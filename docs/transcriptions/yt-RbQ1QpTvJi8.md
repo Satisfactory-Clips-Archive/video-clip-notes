@@ -3,14 +3,14 @@ title: "June 29th, 2021 Livestream Q&A: Is a Hot Dog a sandwich?"
 date: "2021-06-29"
 layout: transcript
 topics:
-    - "off-topic/food-drink"
+    - "off-topic/food-and-drink"
 ---
 # [June 29th, 2021 Livestream](../2021-06-29.md)
 ## Q&A: Is a Hot Dog a sandwich?
 https://www.youtube.com/watch?v=RbQ1QpTvJi8
 
 ### Topics
-* [Off-Topic > Food & Drink](../topics/off-topic/food-drink.md)
+* [Off-Topic > Food & Drink](../topics/off-topic/food-and-drink.md)
 
 ### Transcript
 

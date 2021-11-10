@@ -6,8 +6,8 @@ topics:
     - "coffee-stainers/linus"
     - "community"
     - "features/buildables/lights"
-    - "satisfactory-updates/teasers-trailers/update-3-reveal-trailer"
-    - "satisfactory-updates/teasers-trailers/update-4-patch-notes-video"
+    - "satisfactory-updates/teasers-and-trailers/update-3-reveal-trailer"
+    - "satisfactory-updates/teasers-and-trailers/update-4-patch-notes-video"
 ---
 # [March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary](../2021-03-17.md)
 ## Snutt & Jace Talk: Lights reveal
@@ -17,8 +17,8 @@ https://www.youtube.com/watch?v=NvQQ8tnbqbA
 * [Coffee Stainers > Linus](../topics/coffee-stainers/linus.md)
 * [Community](../topics/community.md)
 * [Features > Buildables > Lights](../topics/features/buildables/lights.md)
-* [Satisfactory Updates > Teasers & Trailers > Update 3 Reveal Trailer](../topics/satisfactory-updates/teasers-trailers/update-3-reveal-trailer.md)
-* [Satisfactory Updates > Teasers & Trailers > Update 4 Patch Notes Video](../topics/satisfactory-updates/teasers-trailers/update-4-patch-notes-video.md)
+* [Satisfactory Updates > Teasers & Trailers > Update 3 Reveal Trailer](../topics/satisfactory-updates/teasers-and-trailers/update-3-reveal-trailer.md)
+* [Satisfactory Updates > Teasers & Trailers > Update 4 Patch Notes Video](../topics/satisfactory-updates/teasers-and-trailers/update-4-patch-notes-video.md)
 
 ### Transcript
 

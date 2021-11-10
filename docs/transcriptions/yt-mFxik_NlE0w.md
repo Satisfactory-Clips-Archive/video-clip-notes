@@ -3,7 +3,7 @@ title: "December 19th, 2019 Livestream Q&A: Is there going to be a storyline?"
 date: "2019-12-19"
 layout: transcript
 topics:
-    - "story-lore"
+    - "story-and-lore"
 ---
 # [December 19th, 2019 Livestream](../2019-12-19.md)
 ## Q&A: Is there going to be a storyline?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: [April 20th, 20
 
 
 ### Topics
-* [Story & Lore](../topics/story-lore.md)
+* [Story & Lore](../topics/story-and-lore.md)
 
 ### Transcript
 

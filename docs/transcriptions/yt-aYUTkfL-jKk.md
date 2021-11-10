@@ -3,7 +3,7 @@ title: "March 24th, 2020 Livestream Q&A: Who speaks ADA?"
 date: "2020-03-24"
 layout: transcript
 topics:
-    - "story-lore/characters/ada"
+    - "story-and-lore/characters/ada"
 ---
 # [March 24th, 2020 Livestream](../2020-03-24.md)
 ## Q&A: Who speaks ADA?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: [May 18th, 2021
 
 
 ### Topics
-* [Story & Lore > Characters > ADA](../topics/story-lore/characters/ada.md)
+* [Story & Lore > Characters > ADA](../topics/story-and-lore/characters/ada.md)
 
 ### Transcript
 

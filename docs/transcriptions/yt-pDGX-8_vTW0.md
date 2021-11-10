@@ -3,7 +3,7 @@ title: "May 18th, 2021 Livestream Q&A: Who is the voice actor for ADA?"
 date: "2021-05-18"
 layout: transcript
 topics:
-    - "story-lore/characters/ada"
+    - "story-and-lore/characters/ada"
 ---
 # [May 18th, 2021 Livestream](../2021-05-18.md)
 ## Q&A: Who is the voice actor for ADA?
@@ -19,7 +19,7 @@ https://www.youtube.com/watch?v=pDGX-8_vTW0
 
 
 ### Topics
-* [Story & Lore > Characters > ADA](../topics/story-lore/characters/ada.md)
+* [Story & Lore > Characters > ADA](../topics/story-and-lore/characters/ada.md)
 
 ### Transcript
 

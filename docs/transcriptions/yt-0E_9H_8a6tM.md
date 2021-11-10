@@ -3,14 +3,14 @@ title: "August 31st, 2021 Livestream Snutt & Jace Talk: shots designed to be ann
 date: "2021-08-31"
 layout: transcript
 topics:
-    - "satisfactory-updates/teasers-trailers/update-5-teasers"
+    - "satisfactory-updates/teasers-and-trailers/update-5-teasers"
 ---
 # [August 31st, 2021 Livestream](../2021-08-31.md)
 ## Snutt & Jace Talk: shots designed to be annoying
 https://www.youtube.com/watch?v=0E_9H_8a6tM
 
 ### Topics
-* [Satisfactory Updates > Teasers & Trailers > Update 5 Teasers](../topics/satisfactory-updates/teasers-trailers/update-5-teasers.md)
+* [Satisfactory Updates > Teasers & Trailers > Update 5 Teasers](../topics/satisfactory-updates/teasers-and-trailers/update-5-teasers.md)
 
 ### Transcript
 

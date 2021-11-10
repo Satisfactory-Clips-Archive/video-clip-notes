@@ -3,7 +3,7 @@ title: "May 4th, 2021 Livestream Q&A: Will there be Story?"
 date: "2021-05-04"
 layout: transcript
 topics:
-    - "story-lore"
+    - "story-and-lore"
 ---
 # [May 4th, 2021 Livestream](../2021-05-04.md)
 ## Q&A: Will there be Story?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: [September 28th
 
 
 ### Topics
-* [Story & Lore](../topics/story-lore.md)
+* [Story & Lore](../topics/story-and-lore.md)
 
 ### Transcript
 

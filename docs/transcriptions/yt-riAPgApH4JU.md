@@ -3,8 +3,8 @@ title: "June 15th, 2021 Livestream Snutt & Jace Talk: Tacos & other Swedish food
 date: "2021-06-15"
 layout: transcript
 topics:
-    - "off-topic/food-drink"
-    - "off-topic/food-drink/pizza"
+    - "off-topic/food-and-drink"
+    - "off-topic/food-and-drink/pizza"
     - "off-topic/sweden"
 ---
 # [June 15th, 2021 Livestream](../2021-06-15.md)
@@ -12,8 +12,8 @@ topics:
 https://www.youtube.com/watch?v=riAPgApH4JU
 
 ### Topics
-* [Off-Topic > Food & Drink](../topics/off-topic/food-drink.md)
-* [Off-Topic > Food & Drink > Pizza](../topics/off-topic/food-drink/pizza.md)
+* [Off-Topic > Food & Drink](../topics/off-topic/food-and-drink.md)
+* [Off-Topic > Food & Drink > Pizza](../topics/off-topic/food-and-drink/pizza.md)
 * [Off-Topic > Sweden](../topics/off-topic/sweden.md)
 
 ### Transcript

@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "community/drawingxaos"
     - "environment/creatures/lizard-doggo"
-    - "satisfactory-updates/teasers-trailers/update-4-patch-notes-video"
+    - "satisfactory-updates/teasers-and-trailers/update-4-patch-notes-video"
 ---
 # [March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary](../2021-03-17.md)
 ## Snutt & Jace Talk: The real-life Lizard Doggo was killed with DrawingXaos' poster tube
@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=5sdMwNgZ1MA
 ### Topics
 * [Community > DrawingXaos](../topics/community/drawingxaos.md)
 * [Environment > Creatures > Lizard Doggo](../topics/environment/creatures/lizard-doggo.md)
-* [Satisfactory Updates > Teasers & Trailers > Update 4 Patch Notes Video](../topics/satisfactory-updates/teasers-trailers/update-4-patch-notes-video.md)
+* [Satisfactory Updates > Teasers & Trailers > Update 4 Patch Notes Video](../topics/satisfactory-updates/teasers-and-trailers/update-4-patch-notes-video.md)
 
 ### Transcript
 

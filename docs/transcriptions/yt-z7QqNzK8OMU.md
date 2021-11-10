@@ -3,7 +3,7 @@ title: "November 17th, 2020 Livestream Q&A: Is the Engineer human at least?"
 date: "2020-11-17"
 layout: transcript
 topics:
-    - "story-lore"
+    - "story-and-lore"
 ---
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Q&A: Is the Engineer human at least?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: [December 8th, 
 
 
 ### Topics
-* [Story & Lore](../topics/story-lore.md)
+* [Story & Lore](../topics/story-and-lore.md)
 
 ### Transcript
 

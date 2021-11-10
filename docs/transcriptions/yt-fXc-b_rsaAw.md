@@ -4,7 +4,7 @@ date: "2021-08-31"
 layout: transcript
 topics:
     - "coffee-stainers"
-    - "story-lore"
+    - "story-and-lore"
 ---
 # [August 31st, 2021 Livestream](../2021-08-31.md)
 ## Q&A: FMV Cutscenes of the CSS Devs in Story Mode?
@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=fXc-b_rsaAw
 
 ### Topics
 * [Coffee Stainers](../topics/coffee-stainers.md)
-* [Story & Lore](../topics/story-lore.md)
+* [Story & Lore](../topics/story-and-lore.md)
 
 ### Transcript
 

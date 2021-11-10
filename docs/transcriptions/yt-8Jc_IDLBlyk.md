@@ -4,7 +4,7 @@ date: "2021-07-13"
 layout: transcript
 topics:
     - "coffee-stainers/jace"
-    - "off-topic/food-drink"
+    - "off-topic/food-and-drink"
 ---
 # [July 13th, 2021 Livestream](../2021-07-13.md)
 ## Q&A: What did Jace have for lunch?
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=8Jc_IDLBlyk
 
 ### Topics
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
-* [Off-Topic > Food & Drink](../topics/off-topic/food-drink.md)
+* [Off-Topic > Food & Drink](../topics/off-topic/food-and-drink.md)
 
 ### Transcript
 

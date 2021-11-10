@@ -3,14 +3,14 @@ title: "July 20th, 2021 Livestream Community FYI: I like how you immediately use
 date: "2021-07-20"
 layout: transcript
 topics:
-    - "satisfactory-updates/teasers-trailers/update-4-patch-notes-video"
+    - "satisfactory-updates/teasers-and-trailers/update-4-patch-notes-video"
 ---
 # [July 20th, 2021 Livestream](../2021-07-20.md)
 ## Community FYI: I like how you immediately use the PS5 for important things
 https://www.youtube.com/watch?v=v2iZ5p9Dsq0
 
 ### Topics
-* [Satisfactory Updates > Teasers & Trailers > Update 4 Patch Notes Video](../topics/satisfactory-updates/teasers-trailers/update-4-patch-notes-video.md)
+* [Satisfactory Updates > Teasers & Trailers > Update 4 Patch Notes Video](../topics/satisfactory-updates/teasers-and-trailers/update-4-patch-notes-video.md)
 
 ### Transcript
 

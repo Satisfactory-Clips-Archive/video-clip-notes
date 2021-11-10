@@ -10,7 +10,7 @@ topics:
     - "environment/creatures/lizard-doggo"
     - "environment/world-map"
     - "merch"
-    - "off-topic/food-drink/pizza"
+    - "off-topic/food-and-drink/pizza"
 ---
 # [May 25th, 2021 Livestream](../2021-05-25.md)
 ## Q&A: How many Doggos are there in the world?
@@ -32,7 +32,7 @@ https://www.youtube.com/watch?v=PtsEfgW-R7o
 * [Environment > Creatures > Lizard Doggo](../topics/environment/creatures/lizard-doggo.md)
 * [Environment > World Map](../topics/environment/world-map.md)
 * [Merch](../topics/merch.md)
-* [Off-Topic > Food & Drink > Pizza](../topics/off-topic/food-drink/pizza.md)
+* [Off-Topic > Food & Drink > Pizza](../topics/off-topic/food-and-drink/pizza.md)
 
 ### Transcript
 

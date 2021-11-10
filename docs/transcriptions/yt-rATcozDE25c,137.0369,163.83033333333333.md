@@ -3,7 +3,7 @@ title: "October 1st, 2020 Q&A Q&A: Do you have a timeline on when you want to st
 date: "2020-10-01"
 layout: transcript
 topics:
-    - "story-lore"
+    - "story-and-lore"
 ---
 # [October 1st, 2020 Q&A](../2020-10-01.md)
 ## Q&A: Do you have a timeline on when you want to start implementing lore? Is it on the near horizon?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: [April 20th, 20
 
 
 ### Topics
-* [Story & Lore](../topics/story-lore.md)
+* [Story & Lore](../topics/story-and-lore.md)
 
 ### Transcript
 

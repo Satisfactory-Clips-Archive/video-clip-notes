@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "features/buildables"
     - "features/buildables/walls"
-    - "satisfactory-updates/teasers-trailers/update-5-teasers"
+    - "satisfactory-updates/teasers-and-trailers/update-5-teasers"
 ---
 # [August 31st, 2021 Livestream](../2021-08-31.md)
 ## Snutt & Jace Talk: More Glass ceilings & differently-sized walls
@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=Vls7zobjrgo
 ### Topics
 * [Features > Buildables](../topics/features/buildables.md)
 * [Features > Buildables > Walls](../topics/features/buildables/walls.md)
-* [Satisfactory Updates > Teasers & Trailers > Update 5 Teasers](../topics/satisfactory-updates/teasers-trailers/update-5-teasers.md)
+* [Satisfactory Updates > Teasers & Trailers > Update 5 Teasers](../topics/satisfactory-updates/teasers-and-trailers/update-5-teasers.md)
 
 ### Transcript
 

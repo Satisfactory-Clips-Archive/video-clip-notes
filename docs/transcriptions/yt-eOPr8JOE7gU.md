@@ -4,7 +4,7 @@ date: "2021-06-01"
 layout: transcript
 topics:
     - "satisfactory-updates/released/satisfactory-update-5"
-    - "satisfactory-updates/teasers-trailers/update-4-teasers"
+    - "satisfactory-updates/teasers-and-trailers/update-4-teasers"
 ---
 # [June 1st, 2021 Livestream](../2021-06-01.md)
 ## Q&A: What unexpected & surprising features will be in Update 5?
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=eOPr8JOE7gU
 
 ### Topics
 * [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
-* [Satisfactory Updates > Teasers & Trailers > Update 4 Teasers](../topics/satisfactory-updates/teasers-trailers/update-4-teasers.md)
+* [Satisfactory Updates > Teasers & Trailers > Update 4 Teasers](../topics/satisfactory-updates/teasers-and-trailers/update-4-teasers.md)
 
 ### Transcript
 

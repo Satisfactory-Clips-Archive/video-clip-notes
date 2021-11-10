@@ -3,14 +3,14 @@ title: "December 19th, 2019 Livestream Q&A: Bananas on Pizza?"
 date: "2019-12-19"
 layout: transcript
 topics:
-    - "off-topic/food-drink/pizza"
+    - "off-topic/food-and-drink/pizza"
 ---
 # [December 19th, 2019 Livestream](../2019-12-19.md)
 ## Q&A: Bananas on Pizza?
 https://www.youtube.com/watch?v=RbDtGuXHEH0
 
 ### Topics
-* [Off-Topic > Food & Drink > Pizza](../topics/off-topic/food-drink/pizza.md)
+* [Off-Topic > Food & Drink > Pizza](../topics/off-topic/food-and-drink/pizza.md)
 
 ### Transcript
 

@@ -6,7 +6,7 @@ topics:
     - "coffee-stainers/ben"
     - "features/buildables/lights"
     - "satisfactory-updates/released/satisfactory-update-4"
-    - "satisfactory-updates/teasers-trailers/update-4-patch-notes-video"
+    - "satisfactory-updates/teasers-and-trailers/update-4-patch-notes-video"
 ---
 # [March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary](../2021-03-17.md)
 ## Snutt & Jace Talk: We didn't know we were going to have Lights in Update 4 until weeks ago
@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=GMj_2tY7LFI
 * [Coffee Stainers > Ben](../topics/coffee-stainers/ben.md)
 * [Features > Buildables > Lights](../topics/features/buildables/lights.md)
 * [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
-* [Satisfactory Updates > Teasers & Trailers > Update 4 Patch Notes Video](../topics/satisfactory-updates/teasers-trailers/update-4-patch-notes-video.md)
+* [Satisfactory Updates > Teasers & Trailers > Update 4 Patch Notes Video](../topics/satisfactory-updates/teasers-and-trailers/update-4-patch-notes-video.md)
 
 ### Transcript
 

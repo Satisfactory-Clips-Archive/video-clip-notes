@@ -5,8 +5,8 @@ layout: transcript
 topics:
     - "coffee-stainers/jace"
     - "coffee-stainers/snutt"
-    - "off-topic/food-drink"
-    - "off-topic/food-drink/bacon"
+    - "off-topic/food-and-drink"
+    - "off-topic/food-and-drink/bacon"
 ---
 # [February 16th, 2021 Livestream](../2021-02-16.md)
 ## Q&A: Bacon or Sausage?
@@ -15,8 +15,8 @@ https://www.youtube.com/watch?v=n70T0HTcjB0
 ### Topics
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
 * [Coffee Stainers > Snutt](../topics/coffee-stainers/snutt.md)
-* [Off-Topic > Food & Drink](../topics/off-topic/food-drink.md)
-* [Off-Topic > Food & Drink > Bacon](../topics/off-topic/food-drink/bacon.md)
+* [Off-Topic > Food & Drink](../topics/off-topic/food-and-drink.md)
+* [Off-Topic > Food & Drink > Bacon](../topics/off-topic/food-and-drink/bacon.md)
 
 ### Transcript
 

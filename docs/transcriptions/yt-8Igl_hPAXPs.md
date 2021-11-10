@@ -3,10 +3,10 @@ title: "August 25th, 2020 Livestream Q&A: Will there be more narrative?"
 date: "2020-08-25"
 layout: transcript
 topics:
-    - "story-lore"
-    - "story-lore/characters/ada"
-    - "story-lore/characters/caterina-parks"
-    - "story-lore/characters/steve"
+    - "story-and-lore"
+    - "story-and-lore/characters/ada"
+    - "story-and-lore/characters/caterina-parks"
+    - "story-and-lore/characters/steve"
 ---
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: Will there be more narrative?
@@ -15,10 +15,10 @@ This question was possibly duplicated with a more recent answer: [April 20th, 20
 
 
 ### Topics
-* [Story & Lore](../topics/story-lore.md)
-* [Story & Lore > Characters > ADA](../topics/story-lore/characters/ada.md)
-* [Story & Lore > Characters > Caterina Parks](../topics/story-lore/characters/caterina-parks.md)
-* [Story & Lore > Characters > Steve](../topics/story-lore/characters/steve.md)
+* [Story & Lore](../topics/story-and-lore.md)
+* [Story & Lore > Characters > ADA](../topics/story-and-lore/characters/ada.md)
+* [Story & Lore > Characters > Caterina Parks](../topics/story-and-lore/characters/caterina-parks.md)
+* [Story & Lore > Characters > Steve](../topics/story-and-lore/characters/steve.md)
 
 ### Transcript
 

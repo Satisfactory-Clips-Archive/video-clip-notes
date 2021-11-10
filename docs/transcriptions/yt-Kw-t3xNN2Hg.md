@@ -4,7 +4,7 @@ date: "2021-08-31"
 layout: transcript
 topics:
     - "environment/biomes/northern-forest"
-    - "satisfactory-updates/teasers-trailers/update-5-teasers"
+    - "satisfactory-updates/teasers-and-trailers/update-5-teasers"
 ---
 # [August 31st, 2021 Livestream](../2021-08-31.md)
 ## Snutt & Jace Talk: Filming in the Northern Forest
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=Kw-t3xNN2Hg
 
 ### Topics
 * [Environment > Biomes > Northern Forest](../topics/environment/biomes/northern-forest.md)
-* [Satisfactory Updates > Teasers & Trailers > Update 5 Teasers](../topics/satisfactory-updates/teasers-trailers/update-5-teasers.md)
+* [Satisfactory Updates > Teasers & Trailers > Update 5 Teasers](../topics/satisfactory-updates/teasers-and-trailers/update-5-teasers.md)
 
 ### Transcript
 

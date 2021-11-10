@@ -4,7 +4,7 @@ date: "2021-09-03"
 layout: transcript
 topics:
     - "features/planned-features/build-modes"
-    - "satisfactory-updates/teasers-trailers/update-5-teasers"
+    - "satisfactory-updates/teasers-and-trailers/update-5-teasers"
 ---
 # [September 3rd, 2021 Dev Vlog](../2021-09-03.md)
 ## Intro
@@ -12,7 +12,7 @@ https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=0&end=47
 
 ### Topics
 * [Features > Planned Features > Build Modes](../topics/features/planned-features/build-modes.md)
-* [Satisfactory Updates > Teasers & Trailers > Update 5 Teasers](../topics/satisfactory-updates/teasers-trailers/update-5-teasers.md)
+* [Satisfactory Updates > Teasers & Trailers > Update 5 Teasers](../topics/satisfactory-updates/teasers-and-trailers/update-5-teasers.md)
 
 ### Transcript
 

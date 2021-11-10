@@ -5,8 +5,8 @@ layout: transcript
 topics:
     - "satisfactory-updates/released/satisfactory-update-3"
     - "satisfactory-updates/released/satisfactory-update-4"
-    - "satisfactory-updates/teasers-trailers/update-4-patch-notes-video"
-    - "satisfactory-updates/teasers-trailers/update-4-teasers"
+    - "satisfactory-updates/teasers-and-trailers/update-4-patch-notes-video"
+    - "satisfactory-updates/teasers-and-trailers/update-4-teasers"
 ---
 # [March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary](../2021-03-17.md)
 ## Community FYI: I honestly liked this vid over the actual trailers before it..
@@ -15,8 +15,8 @@ https://www.youtube.com/watch?v=CwhxCnZUAfY
 ### Topics
 * [Satisfactory Updates > Released > Satisfactory Update 3](../topics/satisfactory-updates/released/satisfactory-update-3.md)
 * [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
-* [Satisfactory Updates > Teasers & Trailers > Update 4 Patch Notes Video](../topics/satisfactory-updates/teasers-trailers/update-4-patch-notes-video.md)
-* [Satisfactory Updates > Teasers & Trailers > Update 4 Teasers](../topics/satisfactory-updates/teasers-trailers/update-4-teasers.md)
+* [Satisfactory Updates > Teasers & Trailers > Update 4 Patch Notes Video](../topics/satisfactory-updates/teasers-and-trailers/update-4-patch-notes-video.md)
+* [Satisfactory Updates > Teasers & Trailers > Update 4 Teasers](../topics/satisfactory-updates/teasers-and-trailers/update-4-teasers.md)
 
 ### Transcript
 

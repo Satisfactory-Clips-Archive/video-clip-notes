@@ -4,7 +4,7 @@ date: "2021-02-02"
 layout: transcript
 topics:
     - "satisfactory-updates/released/satisfactory-update-4"
-    - "satisfactory-updates/teasers-trailers"
+    - "satisfactory-updates/teasers-and-trailers"
 ---
 # [February 2nd, 2021 Livestream](../2021-02-02.md)
 ## Q&A: Any more teasers?
@@ -16,7 +16,7 @@ This question was possibly duplicated with a more recent answer: [February 23rd,
 
 ### Topics
 * [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
-* [Satisfactory Updates > Teasers & Trailers](../topics/satisfactory-updates/teasers-trailers.md)
+* [Satisfactory Updates > Teasers & Trailers](../topics/satisfactory-updates/teasers-and-trailers.md)
 
 ### Transcript
 

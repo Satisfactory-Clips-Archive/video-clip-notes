@@ -3,7 +3,7 @@ title: "June 29th, 2021 Livestream Q&A: Was the Update 4 Trailer music written f
 date: "2021-06-29"
 layout: transcript
 topics:
-    - "satisfactory-updates/teasers-trailers/update-4-teasers"
+    - "satisfactory-updates/teasers-and-trailers/update-4-teasers"
     - "soundtrack"
 ---
 # [June 29th, 2021 Livestream](../2021-06-29.md)
@@ -11,7 +11,7 @@ topics:
 https://www.youtube.com/watch?v=yXa-4uTFKJ0
 
 ### Topics
-* [Satisfactory Updates > Teasers & Trailers > Update 4 Teasers](../topics/satisfactory-updates/teasers-trailers/update-4-teasers.md)
+* [Satisfactory Updates > Teasers & Trailers > Update 4 Teasers](../topics/satisfactory-updates/teasers-and-trailers/update-4-teasers.md)
 * [Soundtrack](../topics/soundtrack.md)
 
 ### Transcript

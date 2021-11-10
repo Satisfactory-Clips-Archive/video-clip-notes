@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "features/tiers"
     - "satisfactory-updates/pending/satisfactory-1-0"
-    - "story-lore"
+    - "story-and-lore"
 ---
 # [May 4th, 2021 Livestream](../2021-05-04.md)
 ## Q&A: How long do you think the game will take to beat in 1.0?
@@ -16,7 +16,7 @@ This question was possibly duplicated with a more recent answer: [September 28th
 ### Topics
 * [Features > Tiers](../topics/features/tiers.md)
 * [Satisfactory Updates > Pending > Satisfactory 1.0](../topics/satisfactory-updates/pending/satisfactory-1-0.md)
-* [Story & Lore](../topics/story-lore.md)
+* [Story & Lore](../topics/story-and-lore.md)
 
 ### Transcript
 

@@ -3,14 +3,14 @@ title: "February 23rd, 2021 Livestream Q&A: Please tease us about the Friday tea
 date: "2021-02-23"
 layout: transcript
 topics:
-    - "satisfactory-updates/teasers-trailers"
+    - "satisfactory-updates/teasers-and-trailers"
 ---
 # [February 23rd, 2021 Livestream](../2021-02-23.md)
 ## Q&A: Please tease us about the Friday teaser?
 https://www.youtube.com/watch?v=xrbSRH35qY8
 
 ### Topics
-* [Satisfactory Updates > Teasers & Trailers](../topics/satisfactory-updates/teasers-trailers.md)
+* [Satisfactory Updates > Teasers & Trailers](../topics/satisfactory-updates/teasers-and-trailers.md)
 
 ### Transcript
 

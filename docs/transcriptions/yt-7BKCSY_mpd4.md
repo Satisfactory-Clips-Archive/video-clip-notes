@@ -3,14 +3,14 @@ title: "October 19th, 2021 Livestream Q&A: Wasn't there also a cringey video whe
 date: "2021-10-19"
 layout: transcript
 topics:
-    - "satisfactory-updates/teasers-trailers/update-3-patch-notes-video"
+    - "satisfactory-updates/teasers-and-trailers/update-3-patch-notes-video"
 ---
 # [October 19th, 2021 Livestream](../2021-10-19.md)
 ## Q&A: Wasn't there also a cringey video where you went to CERN just to show a big Pipe?
 https://www.youtube.com/watch?v=7BKCSY_mpd4
 
 ### Topics
-* [Satisfactory Updates > Teasers & Trailers > Update 3 Patch Notes Video](../topics/satisfactory-updates/teasers-trailers/update-3-patch-notes-video.md)
+* [Satisfactory Updates > Teasers & Trailers > Update 3 Patch Notes Video](../topics/satisfactory-updates/teasers-and-trailers/update-3-patch-notes-video.md)
 
 ### Transcript
 

@@ -3,14 +3,14 @@ title: "February 20th, 2019 Livestream Q&A: How will the Story be told in the ga
 date: "2019-02-20"
 layout: transcript
 topics:
-    - "story-lore"
+    - "story-and-lore"
 ---
 # [February 20th, 2019 Livestream](../2019-02-20.md)
 ## Q&A: How will the Story be told in the game- will it be audio lines or will the Story be text-based?
 https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4402&end=4457
 
 ### Topics
-* [Story & Lore](../topics/story-lore.md)
+* [Story & Lore](../topics/story-and-lore.md)
 
 ### Transcript
 

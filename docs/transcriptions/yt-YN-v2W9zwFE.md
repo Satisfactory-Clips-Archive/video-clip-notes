@@ -4,7 +4,7 @@ date: "2021-04-20"
 layout: transcript
 topics:
     - "features/tiers"
-    - "story-lore/project-assembly"
+    - "story-and-lore/project-assembly"
 ---
 # [April 20th, 2021 Livestream](../2021-04-20.md)
 ## Q&A: How many tiers will you need to reveal what Project Assembly is?
@@ -14,7 +14,7 @@ This question was possibly duplicated with a more recent answer: [April 27th, 20
 
 ### Topics
 * [Features > Tiers](../topics/features/tiers.md)
-* [Story & Lore > Project Assembly](../topics/story-lore/project-assembly.md)
+* [Story & Lore > Project Assembly](../topics/story-and-lore/project-assembly.md)
 
 ### Transcript
 

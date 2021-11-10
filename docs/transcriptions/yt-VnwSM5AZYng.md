@@ -3,14 +3,14 @@ title: "June 8th, 2020 Livestream Q&A: What if players don't want a Story?"
 date: "2020-06-08"
 layout: transcript
 topics:
-    - "story-lore"
+    - "story-and-lore"
 ---
 # [June 8th, 2020 Livestream](../2020-06-08.md)
 ## Q&A: What if players don't want a Story?
 https://www.youtube.com/watch?v=VnwSM5AZYng
 
 ### Topics
-* [Story & Lore](../topics/story-lore.md)
+* [Story & Lore](../topics/story-and-lore.md)
 
 ### Transcript
 

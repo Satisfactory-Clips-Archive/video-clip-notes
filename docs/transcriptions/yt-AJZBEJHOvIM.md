@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "satisfactory-updates/released/satisfactory-update-5"
     - "satisfactory-updates/state-of-dev"
-    - "satisfactory-updates/teasers-trailers"
+    - "satisfactory-updates/teasers-and-trailers"
 ---
 # [June 15th, 2021 Livestream](../2021-06-15.md)
 ## Q&A: TL;DR on State of Dev?
@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=AJZBEJHOvIM
 ### Topics
 * [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 * [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
-* [Satisfactory Updates > Teasers & Trailers](../topics/satisfactory-updates/teasers-trailers.md)
+* [Satisfactory Updates > Teasers & Trailers](../topics/satisfactory-updates/teasers-and-trailers.md)
 
 ### Transcript
 

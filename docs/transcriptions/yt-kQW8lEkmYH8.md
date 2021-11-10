@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "localisation"
     - "localisation/localization-community-highlight"
-    - "story-lore/characters/ada"
+    - "story-and-lore/characters/ada"
 ---
 # [July 6th, 2021 Livestream](../2021-07-06.md)
 ## Q&A: What about voice language support for ADA?
@@ -20,7 +20,7 @@ https://www.youtube.com/watch?v=kQW8lEkmYH8
 ### Topics
 * [Localisation](../topics/localisation.md)
 * [Localisation > Localization Community Highlight](../topics/localisation/localization-community-highlight.md)
-* [Story & Lore > Characters > ADA](../topics/story-lore/characters/ada.md)
+* [Story & Lore > Characters > ADA](../topics/story-and-lore/characters/ada.md)
 
 ### Transcript
 

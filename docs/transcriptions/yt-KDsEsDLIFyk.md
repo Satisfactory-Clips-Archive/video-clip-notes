@@ -3,14 +3,14 @@ title: "September 7th, 2021 Livestream Q&A: Next Teaser video, when?"
 date: "2021-09-07"
 layout: transcript
 topics:
-    - "satisfactory-updates/teasers-trailers/update-5-teasers"
+    - "satisfactory-updates/teasers-and-trailers/update-5-teasers"
 ---
 # [September 7th, 2021 Livestream](../2021-09-07.md)
 ## Q&A: Next Teaser video, when?
 https://www.youtube.com/watch?v=KDsEsDLIFyk
 
 ### Topics
-* [Satisfactory Updates > Teasers & Trailers > Update 5 Teasers](../topics/satisfactory-updates/teasers-trailers/update-5-teasers.md)
+* [Satisfactory Updates > Teasers & Trailers > Update 5 Teasers](../topics/satisfactory-updates/teasers-and-trailers/update-5-teasers.md)
 
 ### Transcript
 

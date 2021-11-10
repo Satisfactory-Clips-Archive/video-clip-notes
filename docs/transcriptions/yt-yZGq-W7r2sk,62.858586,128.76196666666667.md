@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "features/buildables/pillars"
     - "satisfactory-updates/released/satisfactory-update-5"
-    - "satisfactory-updates/teasers-trailers/update-5-teasers"
+    - "satisfactory-updates/teasers-and-trailers/update-5-teasers"
 ---
 # [September 3rd, 2021 Dev Vlog](../2021-09-03.md)
 ## Jace Talk: Small Metal Pillars
@@ -14,7 +14,7 @@ https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=62&end=129
 ### Topics
 * [Features > Buildables > Pillars](../topics/features/buildables/pillars.md)
 * [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
-* [Satisfactory Updates > Teasers & Trailers > Update 5 Teasers](../topics/satisfactory-updates/teasers-trailers/update-5-teasers.md)
+* [Satisfactory Updates > Teasers & Trailers > Update 5 Teasers](../topics/satisfactory-updates/teasers-and-trailers/update-5-teasers.md)
 
 ### Transcript
 

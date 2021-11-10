@@ -4,7 +4,7 @@ date: "2021-07-13"
 layout: transcript
 topics:
     - "environment/creatures"
-    - "off-topic/food-drink"
+    - "off-topic/food-and-drink"
     - "trolling"
 ---
 # [July 13th, 2021 Livestream](../2021-07-13.md)
@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=M644npYkLRA
 
 ### Topics
 * [Environment > Creatures](../topics/environment/creatures.md)
-* [Off-Topic > Food & Drink](../topics/off-topic/food-drink.md)
+* [Off-Topic > Food & Drink](../topics/off-topic/food-and-drink.md)
 * [Trolling](../topics/trolling.md)
 
 ### Transcript

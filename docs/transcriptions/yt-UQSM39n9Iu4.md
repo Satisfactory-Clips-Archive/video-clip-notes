@@ -4,7 +4,7 @@ date: "2021-06-01"
 layout: transcript
 topics:
     - "june-2021-epic-mega-sale-stream"
-    - "story-lore"
+    - "story-and-lore"
 ---
 # [June 1st, 2021 Livestream](../2021-06-01.md)
 ## Q&A: What's the name of the planet Satisfactory takes place on?
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=UQSM39n9Iu4
 
 ### Topics
 * [June 2021 Epic Mega Sale Stream](../topics/june-2021-epic-mega-sale-stream.md)
-* [Story & Lore](../topics/story-lore.md)
+* [Story & Lore](../topics/story-and-lore.md)
 
 ### Transcript
 

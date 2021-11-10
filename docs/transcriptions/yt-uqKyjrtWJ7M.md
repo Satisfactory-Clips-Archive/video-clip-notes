@@ -4,7 +4,7 @@ date: "2021-05-11"
 layout: transcript
 topics:
     - "coffee-stainers/snutt"
-    - "satisfactory-updates/teasers-trailers"
+    - "satisfactory-updates/teasers-and-trailers"
 ---
 # [May 11th, 2021 Livestream](../2021-05-11.md)
 ## Q&A: Snutt plays the game?
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=uqKyjrtWJ7M
 
 ### Topics
 * [Coffee Stainers > Snutt](../topics/coffee-stainers/snutt.md)
-* [Satisfactory Updates > Teasers & Trailers](../topics/satisfactory-updates/teasers-trailers.md)
+* [Satisfactory Updates > Teasers & Trailers](../topics/satisfactory-updates/teasers-and-trailers.md)
 
 ### Transcript
 

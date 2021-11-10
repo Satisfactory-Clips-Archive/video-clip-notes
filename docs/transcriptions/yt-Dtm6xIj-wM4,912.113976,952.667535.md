@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "coffee-stainers/g2"
     - "coffee-stainers/simon"
-    - "story-lore"
+    - "story-and-lore"
 ---
 # [February 6th, 2019 Livestream](../2019-02-06.md)
 ## Q&A: Is there an end-game/goal?
@@ -16,7 +16,7 @@ This question was possibly duplicated with a more recent answer: [November 10th,
 ### Topics
 * [Coffee Stainers > G2](../topics/coffee-stainers/g2.md)
 * [Coffee Stainers > Simon](../topics/coffee-stainers/simon.md)
-* [Story & Lore](../topics/story-lore.md)
+* [Story & Lore](../topics/story-and-lore.md)
 
 ### Transcript
 

@@ -4,7 +4,7 @@ date: "2021-08-31"
 layout: transcript
 topics:
     - "features/buildables/walls"
-    - "satisfactory-updates/teasers-trailers/update-5-teasers"
+    - "satisfactory-updates/teasers-and-trailers/update-5-teasers"
 ---
 # [August 31st, 2021 Livestream](../2021-08-31.md)
 ## Snutt & Jace Talk: Frame Walls
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=klmUasuQw9A
 
 ### Topics
 * [Features > Buildables > Walls](../topics/features/buildables/walls.md)
-* [Satisfactory Updates > Teasers & Trailers > Update 5 Teasers](../topics/satisfactory-updates/teasers-trailers/update-5-teasers.md)
+* [Satisfactory Updates > Teasers & Trailers > Update 5 Teasers](../topics/satisfactory-updates/teasers-and-trailers/update-5-teasers.md)
 
 ### Transcript
 

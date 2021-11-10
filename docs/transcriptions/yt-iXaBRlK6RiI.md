@@ -3,7 +3,7 @@ title: "October 19th, 2021 Livestream Q&A: Is there going to be a Story in the P
 date: "2021-10-19"
 layout: transcript
 topics:
-    - "satisfactory-updates/teasers-trailers/update-5-patch-notes-video"
+    - "satisfactory-updates/teasers-and-trailers/update-5-patch-notes-video"
 ---
 # [October 19th, 2021 Livestream](../2021-10-19.md)
 ## Q&A: Is there going to be a Story in the Patch Notes Video like last time?
@@ -17,7 +17,7 @@ https://www.youtube.com/watch?v=iXaBRlK6RiI
 
 
 ### Topics
-* [Satisfactory Updates > Teasers & Trailers > Update 5 Patch Notes Video](../topics/satisfactory-updates/teasers-trailers/update-5-patch-notes-video.md)
+* [Satisfactory Updates > Teasers & Trailers > Update 5 Patch Notes Video](../topics/satisfactory-updates/teasers-and-trailers/update-5-patch-notes-video.md)
 
 ### Transcript
 

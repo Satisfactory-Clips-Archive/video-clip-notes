@@ -4,7 +4,7 @@ date: "2020-10-20"
 layout: transcript
 topics:
     - "satisfactory-updates/satisfactory-prototypes"
-    - "story-lore"
+    - "story-and-lore"
 ---
 # [October 20th, 2020 Livestream](../2020-10-20.md)
 ## Q&A: What will Story Mode be like?
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=rRESDp2VwEI
 
 ### Topics
 * [Satisfactory Updates > Satisfactory Prototypes](../topics/satisfactory-updates/satisfactory-prototypes.md)
-* [Story & Lore](../topics/story-lore.md)
+* [Story & Lore](../topics/story-and-lore.md)
 
 ### Transcript
 

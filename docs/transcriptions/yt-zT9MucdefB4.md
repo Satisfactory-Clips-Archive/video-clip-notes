@@ -3,7 +3,7 @@ title: "March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary Q&A: W
 date: "2021-03-17"
 layout: transcript
 topics:
-    - "satisfactory-updates/teasers-trailers/update-4-patch-notes-video"
+    - "satisfactory-updates/teasers-and-trailers/update-4-patch-notes-video"
     - "technology/unreal-engine"
 ---
 # [March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary](../2021-03-17.md)
@@ -11,7 +11,7 @@ topics:
 https://www.youtube.com/watch?v=zT9MucdefB4
 
 ### Topics
-* [Satisfactory Updates > Teasers & Trailers > Update 4 Patch Notes Video](../topics/satisfactory-updates/teasers-trailers/update-4-patch-notes-video.md)
+* [Satisfactory Updates > Teasers & Trailers > Update 4 Patch Notes Video](../topics/satisfactory-updates/teasers-and-trailers/update-4-patch-notes-video.md)
 * [Technology > Unreal Engine](../topics/technology/unreal-engine.md)
 
 ### Transcript

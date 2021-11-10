@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "features/buildings"
     - "satisfactory-updates/released/satisfactory-update-5"
-    - "satisfactory-updates/teasers-trailers/update-5-teasers"
+    - "satisfactory-updates/teasers-and-trailers/update-5-teasers"
     - "technology/user-interface"
 ---
 # [September 10th, 2021 Video](../2021-09-10.md)
@@ -15,7 +15,7 @@ https://youtube.com/clip/UgzcjK3EbZSm6LhrHJ54AaABCQ
 ### Topics
 * [Features > Buildings](../topics/features/buildings.md)
 * [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
-* [Satisfactory Updates > Teasers & Trailers > Update 5 Teasers](../topics/satisfactory-updates/teasers-trailers/update-5-teasers.md)
+* [Satisfactory Updates > Teasers & Trailers > Update 5 Teasers](../topics/satisfactory-updates/teasers-and-trailers/update-5-teasers.md)
 * [Technology > User Interface](../topics/technology/user-interface.md)
 
 ### Transcript

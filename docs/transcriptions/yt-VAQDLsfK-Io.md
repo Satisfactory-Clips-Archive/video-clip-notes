@@ -6,7 +6,7 @@ topics:
     - "features/buildings"
     - "features/transportation/vehicles/truck"
     - "satisfactory-updates/released/satisfactory-update-5"
-    - "satisfactory-updates/teasers-trailers/update-5-teasers"
+    - "satisfactory-updates/teasers-and-trailers/update-5-teasers"
     - "technology/user-interface"
 ---
 # [September 14th, 2021 Livestream](../2021-09-14.md)
@@ -17,7 +17,7 @@ https://www.youtube.com/watch?v=VAQDLsfK-Io
 * [Features > Buildings](../topics/features/buildings.md)
 * [Features > Transportation > Vehicles > Truck](../topics/features/transportation/vehicles/truck.md)
 * [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
-* [Satisfactory Updates > Teasers & Trailers > Update 5 Teasers](../topics/satisfactory-updates/teasers-trailers/update-5-teasers.md)
+* [Satisfactory Updates > Teasers & Trailers > Update 5 Teasers](../topics/satisfactory-updates/teasers-and-trailers/update-5-teasers.md)
 * [Technology > User Interface](../topics/technology/user-interface.md)
 
 ### Transcript

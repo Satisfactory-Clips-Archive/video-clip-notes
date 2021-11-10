@@ -3,7 +3,7 @@ title: "November 3rd, 2020 Livestream Q&A: Do you plan on some cutscenes for the
 date: "2020-11-03"
 layout: transcript
 topics:
-    - "story-lore"
+    - "story-and-lore"
     - "technology/graphics"
 ---
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
@@ -13,7 +13,7 @@ This question was possibly duplicated with a more recent answer: [August 31st, 2
 
 
 ### Topics
-* [Story & Lore](../topics/story-lore.md)
+* [Story & Lore](../topics/story-and-lore.md)
 * [Technology > Graphics](../topics/technology/graphics.md)
 
 ### Transcript

@@ -3,14 +3,14 @@ title: "March 12th, 2020 Patch Notes Jace & Snutt Talk: lolnope"
 date: "2020-03-12"
 layout: transcript
 topics:
-    - "satisfactory-updates/teasers-trailers/update-3-patch-notes-video"
+    - "satisfactory-updates/teasers-and-trailers/update-3-patch-notes-video"
 ---
 # [March 12th, 2020 Patch Notes](../2020-03-12.md)
 ## Jace & Snutt Talk: lolnope
 https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=32&end=56
 
 ### Topics
-* [Satisfactory Updates > Teasers & Trailers > Update 3 Patch Notes Video](../topics/satisfactory-updates/teasers-trailers/update-3-patch-notes-video.md)
+* [Satisfactory Updates > Teasers & Trailers > Update 3 Patch Notes Video](../topics/satisfactory-updates/teasers-and-trailers/update-3-patch-notes-video.md)
 
 ### Transcript
 

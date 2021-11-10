@@ -3,7 +3,7 @@ title: "April 20th, 2021 Livestream Q&A: Will you be able to experience the Stor
 date: "2021-04-20"
 layout: transcript
 topics:
-    - "story-lore"
+    - "story-and-lore"
 ---
 # [April 20th, 2021 Livestream](../2021-04-20.md)
 ## Q&A: Will you be able to experience the Story regardless of where you're at in the game?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: [July 20th, 202
 
 
 ### Topics
-* [Story & Lore](../topics/story-lore.md)
+* [Story & Lore](../topics/story-and-lore.md)
 
 ### Transcript
 

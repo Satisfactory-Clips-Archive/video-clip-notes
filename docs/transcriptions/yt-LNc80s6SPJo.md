@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "community/panakotta"
     - "features/buildables/lights"
-    - "satisfactory-updates/teasers-trailers/update-4-launch-stream"
+    - "satisfactory-updates/teasers-and-trailers/update-4-launch-stream"
 ---
 # [March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary](../2021-03-17.md)
 ## Community FYI: When Panakotta was demoing the lights and both of you trying not to say anything...
@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=LNc80s6SPJo
 ### Topics
 * [Community > Panakotta](../topics/community/panakotta.md)
 * [Features > Buildables > Lights](../topics/features/buildables/lights.md)
-* [Satisfactory Updates > Teasers & Trailers > Update 4 Launch Stream](../topics/satisfactory-updates/teasers-trailers/update-4-launch-stream.md)
+* [Satisfactory Updates > Teasers & Trailers > Update 4 Launch Stream](../topics/satisfactory-updates/teasers-and-trailers/update-4-launch-stream.md)
 
 ### Transcript
 

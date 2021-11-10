@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "coffee-stainers/snutt"
     - "satisfactory-updates/satisfactory-prototypes"
-    - "story-lore"
+    - "story-and-lore"
 ---
 # [May 4th, 2021 Livestream](../2021-05-04.md)
 ## Q&A: Do you like the Story so far?
@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=2I9bRbAag6Q
 ### Topics
 * [Coffee Stainers > Snutt](../topics/coffee-stainers/snutt.md)
 * [Satisfactory Updates > Satisfactory Prototypes](../topics/satisfactory-updates/satisfactory-prototypes.md)
-* [Story & Lore](../topics/story-lore.md)
+* [Story & Lore](../topics/story-and-lore.md)
 
 ### Transcript
 

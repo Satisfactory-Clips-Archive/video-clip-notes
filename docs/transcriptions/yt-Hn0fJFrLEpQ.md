@@ -4,7 +4,7 @@ date: "2021-10-05"
 layout: transcript
 topics:
     - "satisfactory-updates/released/satisfactory-update-5"
-    - "satisfactory-updates/teasers-trailers/update-5-patch-notes-video"
+    - "satisfactory-updates/teasers-and-trailers/update-5-patch-notes-video"
 ---
 # [October 5th, 2021 Livestream](../2021-10-05.md)
 ## Q&A: Is Update 5 going to get a Patch Notes video like Update 4?
@@ -14,7 +14,7 @@ This question was possibly duplicated with a more recent answer: [October 19th, 
 
 ### Topics
 * [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
-* [Satisfactory Updates > Teasers & Trailers > Update 5 Patch Notes Video](../topics/satisfactory-updates/teasers-trailers/update-5-patch-notes-video.md)
+* [Satisfactory Updates > Teasers & Trailers > Update 5 Patch Notes Video](../topics/satisfactory-updates/teasers-and-trailers/update-5-patch-notes-video.md)
 
 ### Transcript
 

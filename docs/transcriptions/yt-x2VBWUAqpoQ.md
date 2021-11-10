@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "features/buildables/conveyor-belts"
     - "features/buildings/miner"
-    - "features/buildings/overclocking-underclocking"
+    - "features/buildings/overclocking-and-underclocking"
 ---
 # [August 24th, 2021 Livestream](../2021-08-24.md)
 ## Q&A: Is there going to be a Mk.6 Belt for Mk.3 Miner at 250% clock speed?
@@ -16,7 +16,7 @@ This question was possibly duplicated with a more recent answer: [October 12th, 
 ### Topics
 * [Features > Buildables > Conveyor Belts](../topics/features/buildables/conveyor-belts.md)
 * [Features > Buildings > Miner](../topics/features/buildings/miner.md)
-* [Features > Buildings > Overclocking & Underclocking](../topics/features/buildings/overclocking-underclocking.md)
+* [Features > Buildings > Overclocking & Underclocking](../topics/features/buildings/overclocking-and-underclocking.md)
 
 ### Transcript
 

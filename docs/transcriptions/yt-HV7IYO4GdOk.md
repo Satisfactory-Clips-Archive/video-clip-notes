@@ -4,7 +4,7 @@ date: "2021-10-19"
 layout: transcript
 topics:
     - "satisfactory-updates/released/satisfactory-update-3"
-    - "satisfactory-updates/teasers-trailers/update-3-reveal-trailer"
+    - "satisfactory-updates/teasers-and-trailers/update-3-reveal-trailer"
 ---
 # [October 19th, 2021 Livestream](../2021-10-19.md)
 ## Q&A: What was the Update 3 Pipes reveal, I wasn't around for that?
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=HV7IYO4GdOk
 
 ### Topics
 * [Satisfactory Updates > Released > Satisfactory Update 3](../topics/satisfactory-updates/released/satisfactory-update-3.md)
-* [Satisfactory Updates > Teasers & Trailers > Update 3 Reveal Trailer](../topics/satisfactory-updates/teasers-trailers/update-3-reveal-trailer.md)
+* [Satisfactory Updates > Teasers & Trailers > Update 3 Reveal Trailer](../topics/satisfactory-updates/teasers-and-trailers/update-3-reveal-trailer.md)
 
 ### Transcript
 

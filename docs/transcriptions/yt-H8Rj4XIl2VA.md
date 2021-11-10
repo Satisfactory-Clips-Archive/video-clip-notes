@@ -4,7 +4,7 @@ date: "2021-09-28"
 layout: transcript
 topics:
     - "satisfactory-updates/pending/satisfactory-1-0"
-    - "story-lore"
+    - "story-and-lore"
 ---
 # [September 28th, 2021 Livestream](../2021-09-28.md)
 ## Q&A: Do you have a goal for the expected game time for Story & 1.0?
@@ -20,7 +20,7 @@ https://www.youtube.com/watch?v=H8Rj4XIl2VA
 
 ### Topics
 * [Satisfactory Updates > Pending > Satisfactory 1.0](../topics/satisfactory-updates/pending/satisfactory-1-0.md)
-* [Story & Lore](../topics/story-lore.md)
+* [Story & Lore](../topics/story-and-lore.md)
 
 ### Transcript
 

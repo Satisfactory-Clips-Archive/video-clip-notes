@@ -4,7 +4,7 @@ date: "2021-11-02"
 layout: transcript
 topics:
     - "features/buildables/walls"
-    - "satisfactory-updates/teasers-trailers/update-5-teasers"
+    - "satisfactory-updates/teasers-and-trailers/update-5-teasers"
 ---
 # [November 2nd, 2021 Livestream](../2021-11-02.md)
 ## Q&A: Where is basic Wall 2m which Jace promised in the Update 5 cosmetics video?
@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=-1kh2fAn5_M
 
 ### Topics
 * [Features > Buildables > Walls](../topics/features/buildables/walls.md)
-* [Satisfactory Updates > Teasers & Trailers > Update 5 Teasers](../topics/satisfactory-updates/teasers-trailers/update-5-teasers.md)
+* [Satisfactory Updates > Teasers & Trailers > Update 5 Teasers](../topics/satisfactory-updates/teasers-and-trailers/update-5-teasers.md)
 
 ### Transcript
 

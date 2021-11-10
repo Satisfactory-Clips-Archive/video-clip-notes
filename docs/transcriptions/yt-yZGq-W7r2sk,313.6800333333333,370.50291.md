@@ -6,7 +6,7 @@ topics:
     - "features/buildables/roofs"
     - "features/buildables/windows"
     - "satisfactory-updates/released/satisfactory-update-5"
-    - "satisfactory-updates/teasers-trailers/update-5-teasers"
+    - "satisfactory-updates/teasers-and-trailers/update-5-teasers"
 ---
 # [September 3rd, 2021 Dev Vlog](../2021-09-03.md)
 ## Jace Talk: New Roofs & Windows
@@ -16,7 +16,7 @@ https://youtube.com/clip/UgyfrYJtRHTQzRWxtTF4AaABCQ
 * [Features > Buildables > Roofs](../topics/features/buildables/roofs.md)
 * [Features > Buildables > Windows](../topics/features/buildables/windows.md)
 * [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
-* [Satisfactory Updates > Teasers & Trailers > Update 5 Teasers](../topics/satisfactory-updates/teasers-trailers/update-5-teasers.md)
+* [Satisfactory Updates > Teasers & Trailers > Update 5 Teasers](../topics/satisfactory-updates/teasers-and-trailers/update-5-teasers.md)
 
 ### Transcript
 

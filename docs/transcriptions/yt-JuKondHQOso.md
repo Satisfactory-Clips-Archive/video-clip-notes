@@ -4,7 +4,7 @@ date: "2021-06-22"
 layout: transcript
 topics:
     - "features/paint"
-    - "story-lore"
+    - "story-and-lore"
 ---
 # [June 22nd, 2021 Livestream](../2021-06-22.md)
 ## Q&A: Is the Color Gun FICSIT-approved or Pioneer made?
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=JuKondHQOso
 
 ### Topics
 * [Features > Paint](../topics/features/paint.md)
-* [Story & Lore](../topics/story-lore.md)
+* [Story & Lore](../topics/story-and-lore.md)
 
 ### Transcript
 

@@ -3,14 +3,14 @@ title: "September 7th, 2021 Livestream Q&A: Without spoilers, are you thinking o
 date: "2021-09-07"
 layout: transcript
 topics:
-    - "story-lore"
+    - "story-and-lore"
 ---
 # [September 7th, 2021 Livestream](../2021-09-07.md)
 ## Q&A: Without spoilers, are you thinking of implementing the Story in an obvious way or with clues?
 https://www.youtube.com/watch?v=Dej5Z6LbdZc
 
 ### Topics
-* [Story & Lore](../topics/story-lore.md)
+* [Story & Lore](../topics/story-and-lore.md)
 
 ### Transcript
 

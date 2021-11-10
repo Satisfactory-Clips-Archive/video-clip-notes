@@ -6,7 +6,7 @@ topics:
     - "features/transportation/trains"
     - "features/transportation/trains/train-signals"
     - "satisfactory-updates/released/satisfactory-update-5"
-    - "satisfactory-updates/teasers-trailers/update-5-teasers"
+    - "satisfactory-updates/teasers-and-trailers/update-5-teasers"
 ---
 # [October 12th, 2021 Livestream](../2021-10-12.md)
 ## Q&A: What happens if Trains hit derailed Trains?
@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=4vjr-DTj-9Q
 * [Features > Transportation > Trains](../topics/features/transportation/trains.md)
 * [Features > Transportation > Trains > Train Signals](../topics/features/transportation/trains/train-signals.md)
 * [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
-* [Satisfactory Updates > Teasers & Trailers > Update 5 Teasers](../topics/satisfactory-updates/teasers-trailers/update-5-teasers.md)
+* [Satisfactory Updates > Teasers & Trailers > Update 5 Teasers](../topics/satisfactory-updates/teasers-and-trailers/update-5-teasers.md)
 
 ### Transcript
 

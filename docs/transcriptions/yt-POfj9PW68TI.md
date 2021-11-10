@@ -3,16 +3,16 @@ title: "August 24th, 2021 Livestream Snutt Talk: Showcasing features while they'
 date: "2021-08-24"
 layout: transcript
 topics:
-    - "satisfactory-updates/teasers-trailers"
-    - "satisfactory-updates/teasers-trailers/update-4-teasers"
+    - "satisfactory-updates/teasers-and-trailers"
+    - "satisfactory-updates/teasers-and-trailers/update-4-teasers"
 ---
 # [August 24th, 2021 Livestream](../2021-08-24.md)
 ## Snutt Talk: Showcasing features while they're still in development
 https://www.youtube.com/watch?v=POfj9PW68TI
 
 ### Topics
-* [Satisfactory Updates > Teasers & Trailers](../topics/satisfactory-updates/teasers-trailers.md)
-* [Satisfactory Updates > Teasers & Trailers > Update 4 Teasers](../topics/satisfactory-updates/teasers-trailers/update-4-teasers.md)
+* [Satisfactory Updates > Teasers & Trailers](../topics/satisfactory-updates/teasers-and-trailers.md)
+* [Satisfactory Updates > Teasers & Trailers > Update 4 Teasers](../topics/satisfactory-updates/teasers-and-trailers/update-4-teasers.md)
 
 ### Transcript
 

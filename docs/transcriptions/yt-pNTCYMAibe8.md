@@ -4,7 +4,7 @@ date: "2020-05-19"
 layout: transcript
 topics:
     - "coffee-stainers/hannah"
-    - "story-lore"
+    - "story-and-lore"
 ---
 # [May 19th, 2020 Livestream](../2020-05-19.md)
 ## Q&A: What's the name of the Player Character?
@@ -14,7 +14,7 @@ This question was possibly duplicated with a more recent answer: [December 8th, 
 
 ### Topics
 * [Coffee Stainers > Hannah](../topics/coffee-stainers/hannah.md)
-* [Story & Lore](../topics/story-lore.md)
+* [Story & Lore](../topics/story-and-lore.md)
 
 ### Transcript
 

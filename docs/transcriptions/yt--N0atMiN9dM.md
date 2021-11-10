@@ -6,7 +6,7 @@ topics:
     - "environment/resources/mercer-sphere"
     - "environment/resources/somersloop"
     - "satisfactory-updates/released/satisfactory-update-4"
-    - "story-lore"
+    - "story-and-lore"
 ---
 # [January 26th, 2021 Livestream](../2021-01-26.md)
 ## Q&A: Do Mercer Spheres and Somersloops get a place in Update 4?
@@ -18,7 +18,7 @@ This question was possibly duplicated with a more recent answer: [October 5th, 2
 * [Environment > Resources > Mercer Sphere](../topics/environment/resources/mercer-sphere.md)
 * [Environment > Resources > Somersloop](../topics/environment/resources/somersloop.md)
 * [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
-* [Story & Lore](../topics/story-lore.md)
+* [Story & Lore](../topics/story-and-lore.md)
 
 ### Transcript
 

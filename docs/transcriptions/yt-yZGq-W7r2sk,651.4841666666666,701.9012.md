@@ -8,7 +8,7 @@ topics:
     - "features/buildables/roofs"
     - "features/buildables/walls"
     - "satisfactory-updates/released/satisfactory-update-5"
-    - "satisfactory-updates/teasers-trailers/update-5-teasers"
+    - "satisfactory-updates/teasers-and-trailers/update-5-teasers"
 ---
 # [September 3rd, 2021 Dev Vlog](../2021-09-03.md)
 ## Jace Talk: New Buildables in the Walkways teaser shot
@@ -20,7 +20,7 @@ https://youtube.com/clip/UgxcHhkG1DDsw1Z9Uex4AaABCQ
 * [Features > Buildables > Roofs](../topics/features/buildables/roofs.md)
 * [Features > Buildables > Walls](../topics/features/buildables/walls.md)
 * [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
-* [Satisfactory Updates > Teasers & Trailers > Update 5 Teasers](../topics/satisfactory-updates/teasers-trailers/update-5-teasers.md)
+* [Satisfactory Updates > Teasers & Trailers > Update 5 Teasers](../topics/satisfactory-updates/teasers-and-trailers/update-5-teasers.md)
 
 ### Transcript
 

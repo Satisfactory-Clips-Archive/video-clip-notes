@@ -4,7 +4,7 @@ date: "2021-08-31"
 layout: transcript
 topics:
     - "coffee-stainers"
-    - "satisfactory-updates/teasers-trailers"
+    - "satisfactory-updates/teasers-and-trailers"
 ---
 # [August 31st, 2021 Livestream](../2021-08-31.md)
 ## Q&A: Who builds all the factories in your YouTube reveals?
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=piTvF4dhY0I
 
 ### Topics
 * [Coffee Stainers](../topics/coffee-stainers.md)
-* [Satisfactory Updates > Teasers & Trailers](../topics/satisfactory-updates/teasers-trailers.md)
+* [Satisfactory Updates > Teasers & Trailers](../topics/satisfactory-updates/teasers-and-trailers.md)
 
 ### Transcript
 

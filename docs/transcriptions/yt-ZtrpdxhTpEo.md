@@ -3,14 +3,14 @@ title: "October 19th, 2021 Livestream Q&A: Are you ever going to upload the inte
 date: "2021-10-19"
 layout: transcript
 topics:
-    - "satisfactory-updates/teasers-trailers/update-3-patch-notes-video"
+    - "satisfactory-updates/teasers-and-trailers/update-3-patch-notes-video"
 ---
 # [October 19th, 2021 Livestream](../2021-10-19.md)
 ## Q&A: Are you ever going to upload the interview the CERN staffer?
 https://www.youtube.com/watch?v=ZtrpdxhTpEo
 
 ### Topics
-* [Satisfactory Updates > Teasers & Trailers > Update 3 Patch Notes Video](../topics/satisfactory-updates/teasers-trailers/update-3-patch-notes-video.md)
+* [Satisfactory Updates > Teasers & Trailers > Update 3 Patch Notes Video](../topics/satisfactory-updates/teasers-and-trailers/update-3-patch-notes-video.md)
 
 ### Transcript
 

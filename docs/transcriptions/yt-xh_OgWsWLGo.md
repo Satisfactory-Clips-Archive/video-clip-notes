@@ -3,7 +3,7 @@ title: "February 23rd, 2021 Livestream Q&A: How many more teasers have you plann
 date: "2021-02-23"
 layout: transcript
 topics:
-    - "satisfactory-updates/teasers-trailers"
+    - "satisfactory-updates/teasers-and-trailers"
 ---
 # [February 23rd, 2021 Livestream](../2021-02-23.md)
 ## Q&A: How many more teasers have you planned?
@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=xh_OgWsWLGo
 
 
 ### Topics
-* [Satisfactory Updates > Teasers & Trailers](../topics/satisfactory-updates/teasers-trailers.md)
+* [Satisfactory Updates > Teasers & Trailers](../topics/satisfactory-updates/teasers-and-trailers.md)
 
 ### Transcript
 

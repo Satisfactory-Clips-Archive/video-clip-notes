@@ -3,7 +3,7 @@ title: "April 20th, 2021 Livestream Q&A: When are you adding Story?"
 date: "2021-04-20"
 layout: transcript
 topics:
-    - "story-lore"
+    - "story-and-lore"
 ---
 # [April 20th, 2021 Livestream](../2021-04-20.md)
 ## Q&A: When are you adding Story?
@@ -33,7 +33,7 @@ This question was possibly replaced with a more recent answer: [May 4th, 2021 Li
 
 
 ### Topics
-* [Story & Lore](../topics/story-lore.md)
+* [Story & Lore](../topics/story-and-lore.md)
 
 ### Transcript
 

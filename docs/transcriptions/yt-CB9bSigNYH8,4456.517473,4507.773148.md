@@ -4,7 +4,7 @@ date: "2019-02-20"
 layout: transcript
 topics:
     - "off-topic/subnautica"
-    - "story-lore"
+    - "story-and-lore"
 ---
 # [February 20th, 2019 Livestream](../2019-02-20.md)
 ## Q&A: Are you going to make the Story like Subnautica?
@@ -12,7 +12,7 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4456&end=4508
 
 ### Topics
 * [Off-Topic > Subnautica](../topics/off-topic/subnautica.md)
-* [Story & Lore](../topics/story-lore.md)
+* [Story & Lore](../topics/story-and-lore.md)
 
 ### Transcript
 

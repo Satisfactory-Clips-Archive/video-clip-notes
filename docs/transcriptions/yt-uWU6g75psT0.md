@@ -3,14 +3,14 @@ title: "March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary Q&A: I
 date: "2021-03-17"
 layout: transcript
 topics:
-    - "satisfactory-updates/teasers-trailers/update-4-patch-notes-video"
+    - "satisfactory-updates/teasers-and-trailers/update-4-patch-notes-video"
 ---
 # [March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary](../2021-03-17.md)
 ## Q&A: Is it a refurbished bank or hotel?
 https://www.youtube.com/watch?v=uWU6g75psT0
 
 ### Topics
-* [Satisfactory Updates > Teasers & Trailers > Update 4 Patch Notes Video](../topics/satisfactory-updates/teasers-trailers/update-4-patch-notes-video.md)
+* [Satisfactory Updates > Teasers & Trailers > Update 4 Patch Notes Video](../topics/satisfactory-updates/teasers-and-trailers/update-4-patch-notes-video.md)
 
 ### Transcript
 

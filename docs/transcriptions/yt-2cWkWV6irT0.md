@@ -6,7 +6,7 @@ topics:
     - "coffee-stainers/jace"
     - "coffee-stainers/snutt"
     - "off-topic"
-    - "off-topic/food-drink"
+    - "off-topic/food-and-drink"
 ---
 # [March 9th, 2021 Livestream](../2021-03-09.md)
 ## Snutt & Jace Talk: Oreos
@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=2cWkWV6irT0
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
 * [Coffee Stainers > Snutt](../topics/coffee-stainers/snutt.md)
 * [Off-Topic](../topics/off-topic.md)
-* [Off-Topic > Food & Drink](../topics/off-topic/food-drink.md)
+* [Off-Topic > Food & Drink](../topics/off-topic/food-and-drink.md)
 
 ### Transcript
 

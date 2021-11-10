@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "environment/resources/mercer-sphere"
     - "environment/resources/somersloop"
-    - "story-lore"
+    - "story-and-lore"
 ---
 # [December 19th, 2019 Livestream](../2019-12-19.md)
 ## Q&A: Will Mercer Spheres and Somersloops be useful soon?
@@ -16,7 +16,7 @@ This question was possibly duplicated with a more recent answer: [October 5th, 2
 ### Topics
 * [Environment > Resources > Mercer Sphere](../topics/environment/resources/mercer-sphere.md)
 * [Environment > Resources > Somersloop](../topics/environment/resources/somersloop.md)
-* [Story & Lore](../topics/story-lore.md)
+* [Story & Lore](../topics/story-and-lore.md)
 
 ### Transcript
 

@@ -4,7 +4,7 @@ date: "2021-09-21"
 layout: transcript
 topics:
     - "features/pioneer"
-    - "story-lore"
+    - "story-and-lore"
 ---
 # [September 21st, 2021 Livestream](../2021-09-21.md)
 ## Q&A: How old is the character you play as?
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=uiNbMYVIqE0
 
 ### Topics
 * [Features > Pioneer](../topics/features/pioneer.md)
-* [Story & Lore](../topics/story-lore.md)
+* [Story & Lore](../topics/story-and-lore.md)
 
 ### Transcript
 

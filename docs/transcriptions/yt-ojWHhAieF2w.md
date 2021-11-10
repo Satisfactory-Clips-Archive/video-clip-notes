@@ -4,7 +4,7 @@ date: "2020-10-13"
 layout: transcript
 topics:
     - "satisfactory-updates/pending/satisfactory-1-0"
-    - "story-lore"
+    - "story-and-lore"
 ---
 # [October 13th, 2020 Livestream](../2020-10-13.md)
 ## Q&A: Will Jeff Goldblum narrate 1.0?
@@ -14,7 +14,7 @@ This question was possibly duplicated with a more recent answer: [May 4th, 2021 
 
 ### Topics
 * [Satisfactory Updates > Pending > Satisfactory 1.0](../topics/satisfactory-updates/pending/satisfactory-1-0.md)
-* [Story & Lore](../topics/story-lore.md)
+* [Story & Lore](../topics/story-and-lore.md)
 
 ### Transcript
 

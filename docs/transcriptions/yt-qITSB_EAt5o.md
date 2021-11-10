@@ -3,14 +3,14 @@ title: "August 31st, 2021 Livestream Q&A: Do you delete the factories you use fo
 date: "2021-08-31"
 layout: transcript
 topics:
-    - "satisfactory-updates/teasers-trailers"
+    - "satisfactory-updates/teasers-and-trailers"
 ---
 # [August 31st, 2021 Livestream](../2021-08-31.md)
 ## Q&A: Do you delete the factories you use for Trailers?
 https://www.youtube.com/watch?v=qITSB_EAt5o
 
 ### Topics
-* [Satisfactory Updates > Teasers & Trailers](../topics/satisfactory-updates/teasers-trailers.md)
+* [Satisfactory Updates > Teasers & Trailers](../topics/satisfactory-updates/teasers-and-trailers.md)
 
 ### Transcript
 

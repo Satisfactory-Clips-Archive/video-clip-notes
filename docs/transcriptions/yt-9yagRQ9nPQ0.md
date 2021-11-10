@@ -3,14 +3,14 @@ title: "August 31st, 2021 Livestream Snutt & Jace Talk: Trailer saves"
 date: "2021-08-31"
 layout: transcript
 topics:
-    - "satisfactory-updates/teasers-trailers"
+    - "satisfactory-updates/teasers-and-trailers"
 ---
 # [August 31st, 2021 Livestream](../2021-08-31.md)
 ## Snutt & Jace Talk: Trailer saves
 https://www.youtube.com/watch?v=9yagRQ9nPQ0
 
 ### Topics
-* [Satisfactory Updates > Teasers & Trailers](../topics/satisfactory-updates/teasers-trailers.md)
+* [Satisfactory Updates > Teasers & Trailers](../topics/satisfactory-updates/teasers-and-trailers.md)
 
 ### Transcript
 

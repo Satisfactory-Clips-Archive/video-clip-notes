@@ -4,7 +4,7 @@ date: "2021-10-12"
 layout: transcript
 topics:
     - "features/transportation/trains"
-    - "satisfactory-updates/teasers-trailers"
+    - "satisfactory-updates/teasers-and-trailers"
 ---
 # [October 12th, 2021 Livestream](../2021-10-12.md)
 ## Q&A: Can we have Locomotive that looks like the one in the original Trailer?
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=PZX0CxE_XAA
 
 ### Topics
 * [Features > Transportation > Trains](../topics/features/transportation/trains.md)
-* [Satisfactory Updates > Teasers & Trailers](../topics/satisfactory-updates/teasers-trailers.md)
+* [Satisfactory Updates > Teasers & Trailers](../topics/satisfactory-updates/teasers-and-trailers.md)
 
 ### Transcript
 

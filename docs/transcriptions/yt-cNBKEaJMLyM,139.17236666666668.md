@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "satisfactory-updates/release-builds"
     - "satisfactory-updates/released/satisfactory-update-5"
-    - "satisfactory-updates/teasers-trailers/update-5-launch-stream"
+    - "satisfactory-updates/teasers-and-trailers/update-5-launch-stream"
 ---
 # [October 22nd, 2021 Video](../2021-10-22.md)
 ## Jace Talk: See you on Tuesday for the Update 5 Launch
@@ -14,7 +14,7 @@ https://youtube.com/embed/cNBKEaJMLyM?autoplay=1&start=139
 ### Topics
 * [Satisfactory Updates > Release Builds](../topics/satisfactory-updates/release-builds.md)
 * [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
-* [Satisfactory Updates > Teasers & Trailers > Update 5 Launch Stream](../topics/satisfactory-updates/teasers-trailers/update-5-launch-stream.md)
+* [Satisfactory Updates > Teasers & Trailers > Update 5 Launch Stream](../topics/satisfactory-updates/teasers-and-trailers/update-5-launch-stream.md)
 
 ### Transcript
 

@@ -3,7 +3,7 @@ title: "September 21st, 2021 Livestream Q&A: Are you going to add Goku to the St
 date: "2021-09-21"
 layout: transcript
 topics:
-    - "story-lore"
+    - "story-and-lore"
     - "trolling"
 ---
 # [September 21st, 2021 Livestream](../2021-09-21.md)
@@ -11,7 +11,7 @@ topics:
 https://www.youtube.com/watch?v=IYOulexv3-g
 
 ### Topics
-* [Story & Lore](../topics/story-lore.md)
+* [Story & Lore](../topics/story-and-lore.md)
 * [Trolling](../topics/trolling.md)
 
 ### Transcript

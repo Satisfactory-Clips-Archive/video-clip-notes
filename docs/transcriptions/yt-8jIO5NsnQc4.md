@@ -3,14 +3,14 @@ title: "July 6th, 2021 Livestream Community FYI: Might as well have Milk on your
 date: "2021-07-06"
 layout: transcript
 topics:
-    - "off-topic/food-drink/milk"
+    - "off-topic/food-and-drink/milk"
 ---
 # [July 6th, 2021 Livestream](../2021-07-06.md)
 ## Community FYI: Might as well have Milk on your Toast if you're having it warm
 https://www.youtube.com/watch?v=8jIO5NsnQc4
 
 ### Topics
-* [Off-Topic > Food & Drink > Milk](../topics/off-topic/food-drink/milk.md)
+* [Off-Topic > Food & Drink > Milk](../topics/off-topic/food-and-drink/milk.md)
 
 ### Transcript
 

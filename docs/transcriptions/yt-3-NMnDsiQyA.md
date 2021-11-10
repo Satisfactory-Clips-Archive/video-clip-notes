@@ -4,7 +4,7 @@ date: "2021-03-17"
 layout: transcript
 topics:
     - "features/buildables/lights"
-    - "satisfactory-updates/teasers-trailers/update-4-patch-notes-video"
+    - "satisfactory-updates/teasers-and-trailers/update-4-patch-notes-video"
     - "technology/user-interface"
 ---
 # [March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary](../2021-03-17.md)
@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=3-NMnDsiQyA
 
 ### Topics
 * [Features > Buildables > Lights](../topics/features/buildables/lights.md)
-* [Satisfactory Updates > Teasers & Trailers > Update 4 Patch Notes Video](../topics/satisfactory-updates/teasers-trailers/update-4-patch-notes-video.md)
+* [Satisfactory Updates > Teasers & Trailers > Update 4 Patch Notes Video](../topics/satisfactory-updates/teasers-and-trailers/update-4-patch-notes-video.md)
 * [Technology > User Interface](../topics/technology/user-interface.md)
 
 ### Transcript

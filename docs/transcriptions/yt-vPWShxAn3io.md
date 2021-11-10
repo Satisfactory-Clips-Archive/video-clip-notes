@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "environment/resources/mercer-sphere"
     - "environment/resources/somersloop"
-    - "story-lore"
+    - "story-and-lore"
 ---
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Jace & Snutt Talk: Story
@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=vPWShxAn3io
 ### Topics
 * [Environment > Resources > Mercer Sphere](../topics/environment/resources/mercer-sphere.md)
 * [Environment > Resources > Somersloop](../topics/environment/resources/somersloop.md)
-* [Story & Lore](../topics/story-lore.md)
+* [Story & Lore](../topics/story-and-lore.md)
 
 ### Transcript
 

@@ -8,7 +8,7 @@ date: Last Modified
 * [Deep Rock Galactic](../topics/off-topic/deep-rock-galactic.md)
 * [E3](../topics/off-topic/e3.md)
 * [Factorio](../topics/off-topic/factorio.md)
-* [Food & Drink](../topics/off-topic/food-drink.md)
+* [Food & Drink](../topics/off-topic/food-and-drink.md)
 * [Goat Simulator](../topics/off-topic/goat-simulator.md)
 * [I Love Strawberries](../topics/off-topic/i-love-strawberries.md)
 * [Infinifactory](../topics/off-topic/infinifactory.md)

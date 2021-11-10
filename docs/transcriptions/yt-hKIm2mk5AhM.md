@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "environment/world-map"
     - "features/unplanned-features/procedural-generation"
-    - "story-lore"
+    - "story-and-lore"
 ---
 # [February 9th, 2021 Livestream](../2021-02-09.md)
 ## Q&A: Why not have self generated maps?
@@ -16,7 +16,7 @@ This question was possibly duplicated with a more recent answer: [August 24th, 2
 ### Topics
 * [Environment > World Map](../topics/environment/world-map.md)
 * [Features > Unplanned Features > Procedural Generation](../topics/features/unplanned-features/procedural-generation.md)
-* [Story & Lore](../topics/story-lore.md)
+* [Story & Lore](../topics/story-and-lore.md)
 
 ### Transcript
 

@@ -6,7 +6,7 @@ topics:
     - "environment/resources/mercer-sphere"
     - "environment/resources/sam-ore"
     - "environment/resources/somersloop"
-    - "story-lore"
+    - "story-and-lore"
 ---
 # [July 20th, 2021 Livestream](../2021-07-20.md)
 ## Q&A: Will S.A.M. Ore, Somersloops, and Mercer Spheres have a function beyond Story stuff?
@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=mzMRZqpxaug
 * [Environment > Resources > Mercer Sphere](../topics/environment/resources/mercer-sphere.md)
 * [Environment > Resources > S.A.M. Ore](../topics/environment/resources/sam-ore.md)
 * [Environment > Resources > Somersloop](../topics/environment/resources/somersloop.md)
-* [Story & Lore](../topics/story-lore.md)
+* [Story & Lore](../topics/story-and-lore.md)
 
 ### Transcript
 

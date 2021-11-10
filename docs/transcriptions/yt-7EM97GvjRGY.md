@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "coffee-stainers/hannah"
     - "environment/world-map"
-    - "story-lore"
+    - "story-and-lore"
 ---
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: Will you guys be hiding more stuff throughout the world for the Story Mode?
@@ -16,7 +16,7 @@ This question was possibly duplicated with a more recent answer: [December 15th,
 ### Topics
 * [Coffee Stainers > Hannah](../topics/coffee-stainers/hannah.md)
 * [Environment > World Map](../topics/environment/world-map.md)
-* [Story & Lore](../topics/story-lore.md)
+* [Story & Lore](../topics/story-and-lore.md)
 
 ### Transcript
 

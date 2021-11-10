@@ -4,7 +4,7 @@ date: "2021-05-04"
 layout: transcript
 topics:
     - "environment"
-    - "story-lore"
+    - "story-and-lore"
 ---
 # [May 4th, 2021 Livestream](../2021-05-04.md)
 ## Q&A: Is there a secret internal lore for the giant spider skeletons?
@@ -14,7 +14,7 @@ This question was possibly duplicated with a more recent answer: [July 20th, 202
 
 ### Topics
 * [Environment](../topics/environment.md)
-* [Story & Lore](../topics/story-lore.md)
+* [Story & Lore](../topics/story-and-lore.md)
 
 ### Transcript
 

@@ -3,7 +3,7 @@ title: "August 10th, 2021 Livestream Q&A: Is the plan to continue playing after 
 date: "2021-08-10"
 layout: transcript
 topics:
-    - "story-lore"
+    - "story-and-lore"
 ---
 # [August 10th, 2021 Livestream](../2021-08-10.md)
 ## Q&A: Is the plan to continue playing after finishing the Story?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: [September 7th,
 
 
 ### Topics
-* [Story & Lore](../topics/story-lore.md)
+* [Story & Lore](../topics/story-and-lore.md)
 
 ### Transcript
 

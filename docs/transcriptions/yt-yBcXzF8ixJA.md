@@ -3,14 +3,14 @@ title: "October 19th, 2021 Livestream Q&A: Are you guys going to put a throwback
 date: "2021-10-19"
 layout: transcript
 topics:
-    - "satisfactory-updates/teasers-trailers/update-4-launch-stream"
+    - "satisfactory-updates/teasers-and-trailers/update-4-launch-stream"
 ---
 # [October 19th, 2021 Livestream](../2021-10-19.md)
 ## Q&A: Are you guys going to put a throwback to Update 4 with chat reactions on YouTube?
 https://www.youtube.com/watch?v=yBcXzF8ixJA
 
 ### Topics
-* [Satisfactory Updates > Teasers & Trailers > Update 4 Launch Stream](../topics/satisfactory-updates/teasers-trailers/update-4-launch-stream.md)
+* [Satisfactory Updates > Teasers & Trailers > Update 4 Launch Stream](../topics/satisfactory-updates/teasers-and-trailers/update-4-launch-stream.md)
 
 ### Transcript
 

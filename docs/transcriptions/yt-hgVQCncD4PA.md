@@ -4,7 +4,7 @@ date: "2021-08-31"
 layout: transcript
 topics:
     - "features/photo-mode"
-    - "satisfactory-updates/teasers-trailers"
+    - "satisfactory-updates/teasers-and-trailers"
 ---
 # [August 31st, 2021 Livestream](../2021-08-31.md)
 ## Q&A: Are there any plans for adding the tools to the game that you use to make the teasers?
@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=hgVQCncD4PA
 
 ### Topics
 * [Features > Photo Mode](../topics/features/photo-mode.md)
-* [Satisfactory Updates > Teasers & Trailers](../topics/satisfactory-updates/teasers-trailers.md)
+* [Satisfactory Updates > Teasers & Trailers](../topics/satisfactory-updates/teasers-and-trailers.md)
 
 ### Transcript
 

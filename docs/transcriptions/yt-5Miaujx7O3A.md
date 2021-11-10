@@ -3,7 +3,7 @@ title: "September 28th, 2021 Livestream Q&A: State of Story?"
 date: "2021-09-28"
 layout: transcript
 topics:
-    - "story-lore"
+    - "story-and-lore"
 ---
 # [September 28th, 2021 Livestream](../2021-09-28.md)
 ## Q&A: State of Story?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: [September 28th
 
 
 ### Topics
-* [Story & Lore](../topics/story-lore.md)
+* [Story & Lore](../topics/story-and-lore.md)
 
 ### Transcript
 

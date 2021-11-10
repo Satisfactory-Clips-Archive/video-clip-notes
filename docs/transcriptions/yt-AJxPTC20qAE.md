@@ -5,8 +5,8 @@ layout: transcript
 topics:
     - "features/equipment/zip-lines"
     - "features/multiplayer"
-    - "satisfactory-updates/teasers-trailers/update-4-patch-notes-video"
-    - "satisfactory-updates/teasers-trailers/update-4-teasers"
+    - "satisfactory-updates/teasers-and-trailers/update-4-patch-notes-video"
+    - "satisfactory-updates/teasers-and-trailers/update-4-teasers"
 ---
 # [March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary](../2021-03-17.md)
 ## Snutt & Jace Talk: Issues with the Zip Lines teaser & Update 4 Multiplayer improvement
@@ -15,8 +15,8 @@ https://www.youtube.com/watch?v=AJxPTC20qAE
 ### Topics
 * [Features > Equipment > Zip Lines](../topics/features/equipment/zip-lines.md)
 * [Features > Multiplayer](../topics/features/multiplayer.md)
-* [Satisfactory Updates > Teasers & Trailers > Update 4 Patch Notes Video](../topics/satisfactory-updates/teasers-trailers/update-4-patch-notes-video.md)
-* [Satisfactory Updates > Teasers & Trailers > Update 4 Teasers](../topics/satisfactory-updates/teasers-trailers/update-4-teasers.md)
+* [Satisfactory Updates > Teasers & Trailers > Update 4 Patch Notes Video](../topics/satisfactory-updates/teasers-and-trailers/update-4-patch-notes-video.md)
+* [Satisfactory Updates > Teasers & Trailers > Update 4 Teasers](../topics/satisfactory-updates/teasers-and-trailers/update-4-teasers.md)
 
 ### Transcript
 

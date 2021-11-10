@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "features/buildings/space-elevator"
     - "satisfactory-updates/released/satisfactory-update-4"
-    - "story-lore/project-assembly"
+    - "story-and-lore/project-assembly"
 ---
 # [December 11th, 2020 Teasers](../2020-12-11.md)
 ## Assembly Director System
@@ -14,7 +14,7 @@ https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=536&end=641
 ### Topics
 * [Features > Buildings > Space Elevator](../topics/features/buildings/space-elevator.md)
 * [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
-* [Story & Lore > Project Assembly](../topics/story-lore/project-assembly.md)
+* [Story & Lore > Project Assembly](../topics/story-and-lore/project-assembly.md)
 
 ### Transcript
 

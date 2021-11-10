@@ -4,7 +4,7 @@ date: "2021-03-02"
 layout: transcript
 topics:
     - "satisfactory-updates/state-of-dev"
-    - "satisfactory-updates/teasers-trailers"
+    - "satisfactory-updates/teasers-and-trailers"
 ---
 # [March 2nd, 2021 Livestream](../2021-03-02.md)
 ## State of Dev - Teaser Trailer due on Friday
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=E5tJZ7Yk2cI
 
 ### Topics
 * [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
-* [Satisfactory Updates > Teasers & Trailers](../topics/satisfactory-updates/teasers-trailers.md)
+* [Satisfactory Updates > Teasers & Trailers](../topics/satisfactory-updates/teasers-and-trailers.md)
 
 ### Transcript
 

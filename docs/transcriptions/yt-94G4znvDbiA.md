@@ -7,7 +7,7 @@ topics:
     - "features/buildings"
     - "features/planned-features/build-modes"
     - "satisfactory-updates/released/satisfactory-update-5"
-    - "satisfactory-updates/teasers-trailers/update-5-teasers"
+    - "satisfactory-updates/teasers-and-trailers/update-5-teasers"
 ---
 # [October 19th, 2021 Livestream](../2021-10-19.md)
 ## Q&A: Can Machines be rotated like Foundations in Update 5?
@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=94G4znvDbiA
 * [Features > Buildings](../topics/features/buildings.md)
 * [Features > Planned Features > Build Modes](../topics/features/planned-features/build-modes.md)
 * [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
-* [Satisfactory Updates > Teasers & Trailers > Update 5 Teasers](../topics/satisfactory-updates/teasers-trailers/update-5-teasers.md)
+* [Satisfactory Updates > Teasers & Trailers > Update 5 Teasers](../topics/satisfactory-updates/teasers-and-trailers/update-5-teasers.md)
 
 ### Transcript
 

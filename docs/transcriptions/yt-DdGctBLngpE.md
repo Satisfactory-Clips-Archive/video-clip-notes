@@ -4,7 +4,7 @@ date: "2020-08-25"
 layout: transcript
 topics:
     - "environment/resources/sam-ore"
-    - "story-lore"
+    - "story-and-lore"
 ---
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: Is the Story a mode, or can I play with my actual save game?
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=DdGctBLngpE
 
 ### Topics
 * [Environment > Resources > S.A.M. Ore](../topics/environment/resources/sam-ore.md)
-* [Story & Lore](../topics/story-lore.md)
+* [Story & Lore](../topics/story-and-lore.md)
 
 ### Transcript
 

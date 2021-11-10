@@ -5,8 +5,8 @@ layout: transcript
 topics:
     - "satisfactory-updates/released/satisfactory-update-5"
     - "satisfactory-updates/state-of-dev"
-    - "satisfactory-updates/teasers-trailers/update-5-launch-stream"
-    - "satisfactory-updates/teasers-trailers/update-5-patch-notes-video"
+    - "satisfactory-updates/teasers-and-trailers/update-5-launch-stream"
+    - "satisfactory-updates/teasers-and-trailers/update-5-patch-notes-video"
 ---
 # [November 2nd, 2021 Livestream](../2021-11-02.md)
 ## State of Dev: Update 5 (Part 1)
@@ -21,8 +21,8 @@ https://www.youtube.com/watch?v=G7hTmrjxqx8
 ### Topics
 * [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 * [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
-* [Satisfactory Updates > Teasers & Trailers > Update 5 Launch Stream](../topics/satisfactory-updates/teasers-trailers/update-5-launch-stream.md)
-* [Satisfactory Updates > Teasers & Trailers > Update 5 Patch Notes Video](../topics/satisfactory-updates/teasers-trailers/update-5-patch-notes-video.md)
+* [Satisfactory Updates > Teasers & Trailers > Update 5 Launch Stream](../topics/satisfactory-updates/teasers-and-trailers/update-5-launch-stream.md)
+* [Satisfactory Updates > Teasers & Trailers > Update 5 Patch Notes Video](../topics/satisfactory-updates/teasers-and-trailers/update-5-patch-notes-video.md)
 
 ### Transcript
 

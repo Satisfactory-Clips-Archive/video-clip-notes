@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "environment/resources/mercer-sphere"
     - "environment/resources/somersloop"
-    - "story-lore"
+    - "story-and-lore"
 ---
 # [March 23rd, 2021 Livestream](../2021-03-23.md)
 ## Q&A: If the WIP items are for Story would you advise not collecting them yet?
@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=OhElJ-ySLD4
 ### Topics
 * [Environment > Resources > Mercer Sphere](../topics/environment/resources/mercer-sphere.md)
 * [Environment > Resources > Somersloop](../topics/environment/resources/somersloop.md)
-* [Story & Lore](../topics/story-lore.md)
+* [Story & Lore](../topics/story-and-lore.md)
 
 ### Transcript
 

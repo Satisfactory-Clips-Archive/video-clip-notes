@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "features/buildings"
     - "features/planned-features/build-modes"
-    - "features/planned-features/build-modes/hard-soft-clearance/complex-clearance"
+    - "features/planned-features/build-modes/hard-and-soft-clearance/complex-clearance"
     - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [October 15th, 2021 Video](../2021-10-15.md)
@@ -15,7 +15,7 @@ https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=496&end=519
 ### Topics
 * [Features > Buildings](../topics/features/buildings.md)
 * [Features > Planned Features > Build Modes](../topics/features/planned-features/build-modes.md)
-* [Features > Planned Features > Build Modes > Hard & Soft Clearance > Complex Clearance](../topics/features/planned-features/build-modes/hard-soft-clearance/complex-clearance.md)
+* [Features > Planned Features > Build Modes > Hard & Soft Clearance > Complex Clearance](../topics/features/planned-features/build-modes/hard-and-soft-clearance/complex-clearance.md)
 * [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript

@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "community/josh"
     - "community/kibitz"
-    - "satisfactory-updates/teasers-trailers/update-4-patch-notes-video"
+    - "satisfactory-updates/teasers-and-trailers/update-4-patch-notes-video"
 ---
 # [March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary](../2021-03-17.md)
 ## Snutt & Jace Talk: Outro shoutouts
@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=TxyJKaXchnc
 ### Topics
 * [Community > Josh](../topics/community/josh.md)
 * [Community > Kibitz](../topics/community/kibitz.md)
-* [Satisfactory Updates > Teasers & Trailers > Update 4 Patch Notes Video](../topics/satisfactory-updates/teasers-trailers/update-4-patch-notes-video.md)
+* [Satisfactory Updates > Teasers & Trailers > Update 4 Patch Notes Video](../topics/satisfactory-updates/teasers-and-trailers/update-4-patch-notes-video.md)
 
 ### Transcript
 

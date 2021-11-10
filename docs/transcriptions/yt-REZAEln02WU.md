@@ -3,7 +3,7 @@ title: "March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary Snutt 
 date: "2021-03-17"
 layout: transcript
 topics:
-    - "satisfactory-updates/teasers-trailers/update-4-patch-notes-video"
+    - "satisfactory-updates/teasers-and-trailers/update-4-patch-notes-video"
 ---
 # [March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary](../2021-03-17.md)
 ## Snutt & Jace Talk: The secret door isn't actually on the top floor (Part 2)
@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=REZAEln02WU
 
 
 ### Topics
-* [Satisfactory Updates > Teasers & Trailers > Update 4 Patch Notes Video](../topics/satisfactory-updates/teasers-trailers/update-4-patch-notes-video.md)
+* [Satisfactory Updates > Teasers & Trailers > Update 4 Patch Notes Video](../topics/satisfactory-updates/teasers-and-trailers/update-4-patch-notes-video.md)
 
 ### Transcript
 

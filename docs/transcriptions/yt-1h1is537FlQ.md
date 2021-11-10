@@ -4,7 +4,7 @@ date: "2021-10-19"
 layout: transcript
 topics:
     - "satisfactory-updates/released/satisfactory-update-5"
-    - "satisfactory-updates/teasers-trailers/update-5-teasers"
+    - "satisfactory-updates/teasers-and-trailers/update-5-teasers"
 ---
 # [October 19th, 2021 Livestream](../2021-10-19.md)
 ## Snutt & Jace Talk: No more Update 5 Teasers
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=1h1is537FlQ
 
 ### Topics
 * [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
-* [Satisfactory Updates > Teasers & Trailers > Update 5 Teasers](../topics/satisfactory-updates/teasers-trailers/update-5-teasers.md)
+* [Satisfactory Updates > Teasers & Trailers > Update 5 Teasers](../topics/satisfactory-updates/teasers-and-trailers/update-5-teasers.md)
 
 ### Transcript
 

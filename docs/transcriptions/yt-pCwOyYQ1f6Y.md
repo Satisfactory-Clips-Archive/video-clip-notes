@@ -6,7 +6,7 @@ topics:
     - "environment/world-map"
     - "features/buildings"
     - "satisfactory-updates/released/satisfactory-update-4"
-    - "story-lore"
+    - "story-and-lore"
 ---
 # [January 26th, 2021 Livestream](../2021-01-26.md)
 ## Q&A: What is blocking you now from releasing Update 4, Story elements, Buildings, Maps?
@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=pCwOyYQ1f6Y
 * [Environment > World Map](../topics/environment/world-map.md)
 * [Features > Buildings](../topics/features/buildings.md)
 * [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
-* [Story & Lore](../topics/story-lore.md)
+* [Story & Lore](../topics/story-and-lore.md)
 
 ### Transcript
 

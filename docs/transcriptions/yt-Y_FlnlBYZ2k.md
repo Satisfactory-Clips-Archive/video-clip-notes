@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "coffee-stainers/snutt"
     - "mods"
-    - "satisfactory-updates/teasers-trailers"
+    - "satisfactory-updates/teasers-and-trailers"
 ---
 # [June 8th, 2021 Livestream](../2021-06-08.md)
 ## Q&A: What's your favourite mod?
@@ -22,7 +22,7 @@ https://www.youtube.com/watch?v=Y_FlnlBYZ2k
 ### Topics
 * [Coffee Stainers > Snutt](../topics/coffee-stainers/snutt.md)
 * [Mods](../topics/mods.md)
-* [Satisfactory Updates > Teasers & Trailers](../topics/satisfactory-updates/teasers-trailers.md)
+* [Satisfactory Updates > Teasers & Trailers](../topics/satisfactory-updates/teasers-and-trailers.md)
 
 ### Transcript
 

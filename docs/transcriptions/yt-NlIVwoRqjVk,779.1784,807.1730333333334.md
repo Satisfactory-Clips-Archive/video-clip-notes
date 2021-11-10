@@ -3,7 +3,7 @@ title: "May 15th, 2020 Q&A Q&A: In the finished game, will the Story of the game
 date: "2020-05-15"
 layout: transcript
 topics:
-    - "story-lore"
+    - "story-and-lore"
 ---
 # [May 15th, 2020 Q&A](../2020-05-15.md)
 ## Q&A: In the finished game, will the Story of the game impact how you play?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: [April 6th, 202
 
 
 ### Topics
-* [Story & Lore](../topics/story-lore.md)
+* [Story & Lore](../topics/story-and-lore.md)
 
 ### Transcript
 

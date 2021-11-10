@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "coffee-stainers/snutt"
     - "features/buildables/lights"
-    - "satisfactory-updates/teasers-trailers/update-4-launch-trailer"
+    - "satisfactory-updates/teasers-and-trailers/update-4-launch-trailer"
 ---
 # [May 28th, 2021 Dev Vlog](../2021-05-28.md)
 ## Snutt & Ben Talked: Consequences of too many lights
@@ -14,7 +14,7 @@ https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=783&end=809
 ### Topics
 * [Coffee Stainers > Snutt](../topics/coffee-stainers/snutt.md)
 * [Features > Buildables > Lights](../topics/features/buildables/lights.md)
-* [Satisfactory Updates > Teasers & Trailers > Update 4 Launch Trailer](../topics/satisfactory-updates/teasers-trailers/update-4-launch-trailer.md)
+* [Satisfactory Updates > Teasers & Trailers > Update 4 Launch Trailer](../topics/satisfactory-updates/teasers-and-trailers/update-4-launch-trailer.md)
 
 ### Transcript
 

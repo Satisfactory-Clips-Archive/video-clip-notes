@@ -3,14 +3,14 @@ title: "August 31st, 2021 Livestream Q&A: Can we have a cutscene of Jace's PS5?"
 date: "2021-08-31"
 layout: transcript
 topics:
-    - "satisfactory-updates/teasers-trailers/update-4-patch-notes-video"
+    - "satisfactory-updates/teasers-and-trailers/update-4-patch-notes-video"
 ---
 # [August 31st, 2021 Livestream](../2021-08-31.md)
 ## Q&A: Can we have a cutscene of Jace's PS5?
 https://www.youtube.com/watch?v=qX71nlh8IZQ
 
 ### Topics
-* [Satisfactory Updates > Teasers & Trailers > Update 4 Patch Notes Video](../topics/satisfactory-updates/teasers-trailers/update-4-patch-notes-video.md)
+* [Satisfactory Updates > Teasers & Trailers > Update 4 Patch Notes Video](../topics/satisfactory-updates/teasers-and-trailers/update-4-patch-notes-video.md)
 
 ### Transcript
 

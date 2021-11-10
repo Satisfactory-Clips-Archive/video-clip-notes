@@ -4,7 +4,7 @@ date: "2020-09-01"
 layout: transcript
 topics:
     - "satisfactory-updates/released/satisfactory-update-4"
-    - "story-lore"
+    - "story-and-lore"
 ---
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: Will Story happen in Update 4?
@@ -14,7 +14,7 @@ This question was possibly duplicated with a more recent answer: [April 20th, 20
 
 ### Topics
 * [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
-* [Story & Lore](../topics/story-lore.md)
+* [Story & Lore](../topics/story-and-lore.md)
 
 ### Transcript
 

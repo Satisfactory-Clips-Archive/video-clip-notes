@@ -3,7 +3,7 @@ title: "February 6th, 2019 Livestream Q&A: Is there Story in the game?"
 date: "2019-02-06"
 layout: transcript
 topics:
-    - "story-lore"
+    - "story-and-lore"
 ---
 # [February 6th, 2019 Livestream](../2019-02-06.md)
 ## Q&A: Is there Story in the game?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: [April 20th, 20
 
 
 ### Topics
-* [Story & Lore](../topics/story-lore.md)
+* [Story & Lore](../topics/story-and-lore.md)
 
 ### Transcript
 

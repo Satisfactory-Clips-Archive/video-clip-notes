@@ -4,7 +4,7 @@ date: "2021-02-16"
 layout: transcript
 topics:
     - "satisfactory-updates/pending/satisfactory-1-0"
-    - "story-lore"
+    - "story-and-lore"
 ---
 # [February 16th, 2021 Livestream](../2021-02-16.md)
 ## Q&A: Will there be new things for us to discover in 1.0 besides the Story?
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=2HTpXh20gqY
 
 ### Topics
 * [Satisfactory Updates > Pending > Satisfactory 1.0](../topics/satisfactory-updates/pending/satisfactory-1-0.md)
-* [Story & Lore](../topics/story-lore.md)
+* [Story & Lore](../topics/story-and-lore.md)
 
 ### Transcript
 

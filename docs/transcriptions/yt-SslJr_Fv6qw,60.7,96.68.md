@@ -4,9 +4,9 @@ date: "2019-01-19"
 layout: transcript
 topics:
     - "coffee-stainers/hannah"
-    - "story-lore/characters/ada"
-    - "story-lore/characters/caterina-parks"
-    - "story-lore/characters/steve"
+    - "story-and-lore/characters/ada"
+    - "story-and-lore/characters/caterina-parks"
+    - "story-and-lore/characters/steve"
     - "technology/user-interface"
 ---
 # [January 19th, 2019 Video](../2019-01-19.md)
@@ -15,9 +15,9 @@ https://youtube.com/embed/SslJr_Fv6qw?autoplay=1&start=60&end=97
 
 ### Topics
 * [Coffee Stainers > Hannah](../topics/coffee-stainers/hannah.md)
-* [Story & Lore > Characters > ADA](../topics/story-lore/characters/ada.md)
-* [Story & Lore > Characters > Caterina Parks](../topics/story-lore/characters/caterina-parks.md)
-* [Story & Lore > Characters > Steve](../topics/story-lore/characters/steve.md)
+* [Story & Lore > Characters > ADA](../topics/story-and-lore/characters/ada.md)
+* [Story & Lore > Characters > Caterina Parks](../topics/story-and-lore/characters/caterina-parks.md)
+* [Story & Lore > Characters > Steve](../topics/story-and-lore/characters/steve.md)
 * [Technology > User Interface](../topics/technology/user-interface.md)
 
 ### Transcript

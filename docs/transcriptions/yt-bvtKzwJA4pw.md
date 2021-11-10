@@ -3,7 +3,7 @@ title: "December 15th, 2020 Livestream Q&A: Will Hyper Tube cannons be patched o
 date: "2020-12-15"
 layout: transcript
 topics:
-    - "features/buildings/overclocking-underclocking"
+    - "features/buildings/overclocking-and-underclocking"
     - "features/transportation/hyper-tubes"
 ---
 # [December 15th, 2020 Livestream](../2020-12-15.md)
@@ -13,7 +13,7 @@ This question was possibly duplicated with a more recent answer: [September 28th
 
 
 ### Topics
-* [Features > Buildings > Overclocking & Underclocking](../topics/features/buildings/overclocking-underclocking.md)
+* [Features > Buildings > Overclocking & Underclocking](../topics/features/buildings/overclocking-and-underclocking.md)
 * [Features > Transportation > Hyper Tubes](../topics/features/transportation/hyper-tubes.md)
 
 ### Transcript

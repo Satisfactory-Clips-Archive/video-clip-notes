@@ -3,7 +3,7 @@ title: "June 8th, 2020 Livestream Q&A: What about Story Mode?"
 date: "2020-06-08"
 layout: transcript
 topics:
-    - "story-lore"
+    - "story-and-lore"
 ---
 # [June 8th, 2020 Livestream](../2020-06-08.md)
 ## Q&A: What about Story Mode?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: [September 8th,
 
 
 ### Topics
-* [Story & Lore](../topics/story-lore.md)
+* [Story & Lore](../topics/story-and-lore.md)
 
 ### Transcript
 

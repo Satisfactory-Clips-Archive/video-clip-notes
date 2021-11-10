@@ -3,7 +3,7 @@ title: "May 4th, 2021 Livestream Q&A: Any thoughts about having NPCs?"
 date: "2021-05-04"
 layout: transcript
 topics:
-    - "story-lore"
+    - "story-and-lore"
 ---
 # [May 4th, 2021 Livestream](../2021-05-04.md)
 ## Q&A: Any thoughts about having NPCs?
@@ -21,7 +21,7 @@ https://www.youtube.com/watch?v=w3aiQMS3xBA
 
 
 ### Topics
-* [Story & Lore](../topics/story-lore.md)
+* [Story & Lore](../topics/story-and-lore.md)
 
 ### Transcript
 

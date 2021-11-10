@@ -4,7 +4,7 @@ date: "2021-07-20"
 layout: transcript
 topics:
     - "coffee-stainers/jace"
-    - "satisfactory-updates/teasers-trailers/update-4-patch-notes-video"
+    - "satisfactory-updates/teasers-and-trailers/update-4-patch-notes-video"
 ---
 # [July 20th, 2021 Livestream](../2021-07-20.md)
 ## Jace Talk: PS5 scratches
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=1G7PQj5Ic9A
 
 ### Topics
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
-* [Satisfactory Updates > Teasers & Trailers > Update 4 Patch Notes Video](../topics/satisfactory-updates/teasers-trailers/update-4-patch-notes-video.md)
+* [Satisfactory Updates > Teasers & Trailers > Update 4 Patch Notes Video](../topics/satisfactory-updates/teasers-and-trailers/update-4-patch-notes-video.md)
 
 ### Transcript
 

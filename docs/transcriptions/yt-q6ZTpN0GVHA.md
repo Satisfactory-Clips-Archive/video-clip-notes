@@ -3,7 +3,7 @@ title: "March 2nd, 2021 Livestream Q&A: Is the Story good though?"
 date: "2021-03-02"
 layout: transcript
 topics:
-    - "story-lore"
+    - "story-and-lore"
     - "trolling"
 ---
 # [March 2nd, 2021 Livestream](../2021-03-02.md)
@@ -13,7 +13,7 @@ This question was possibly duplicated with a more recent answer: [August 3rd, 20
 
 
 ### Topics
-* [Story & Lore](../topics/story-lore.md)
+* [Story & Lore](../topics/story-and-lore.md)
 * [Trolling](../topics/trolling.md)
 
 ### Transcript

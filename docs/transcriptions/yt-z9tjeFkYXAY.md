@@ -3,7 +3,7 @@ title: "July 20th, 2021 Livestream Q&A: Can we do the Story with an existing 500
 date: "2021-07-20"
 layout: transcript
 topics:
-    - "story-lore"
+    - "story-and-lore"
 ---
 # [July 20th, 2021 Livestream](../2021-07-20.md)
 ## Q&A: Can we do the Story with an existing 500-hour factory or do we have to start from scratch?
@@ -19,7 +19,7 @@ https://www.youtube.com/watch?v=z9tjeFkYXAY
 
 
 ### Topics
-* [Story & Lore](../topics/story-lore.md)
+* [Story & Lore](../topics/story-and-lore.md)
 
 ### Transcript
 

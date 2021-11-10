@@ -4,7 +4,7 @@ date: "2021-09-21"
 layout: transcript
 topics:
     - "features/buildables/lights"
-    - "satisfactory-updates/teasers-trailers/update-5-teasers"
+    - "satisfactory-updates/teasers-and-trailers/update-5-teasers"
     - "technology/unreal-engine"
 ---
 # [September 21st, 2021 Livestream](../2021-09-21.md)
@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=x5sW4WEy32I
 
 ### Topics
 * [Features > Buildables > Lights](../topics/features/buildables/lights.md)
-* [Satisfactory Updates > Teasers & Trailers > Update 5 Teasers](../topics/satisfactory-updates/teasers-trailers/update-5-teasers.md)
+* [Satisfactory Updates > Teasers & Trailers > Update 5 Teasers](../topics/satisfactory-updates/teasers-and-trailers/update-5-teasers.md)
 * [Technology > Unreal Engine](../topics/technology/unreal-engine.md)
 
 ### Transcript

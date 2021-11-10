@@ -3,7 +3,7 @@ title: "February 16th, 2021 Livestream Q&A: Is the game going to have a big Stor
 date: "2021-02-16"
 layout: transcript
 topics:
-    - "story-lore"
+    - "story-and-lore"
 ---
 # [February 16th, 2021 Livestream](../2021-02-16.md)
 ## Q&A: Is the game going to have a big Story?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: [April 20th, 20
 
 
 ### Topics
-* [Story & Lore](../topics/story-lore.md)
+* [Story & Lore](../topics/story-and-lore.md)
 
 ### Transcript
 

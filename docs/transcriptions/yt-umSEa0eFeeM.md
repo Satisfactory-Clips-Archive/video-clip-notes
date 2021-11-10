@@ -3,7 +3,7 @@ title: "September 7th, 2021 Livestream Community FYI: Nice colour highlights the
 date: "2021-09-07"
 layout: transcript
 topics:
-    - "satisfactory-updates/teasers-trailers/update-5-teasers"
+    - "satisfactory-updates/teasers-and-trailers/update-5-teasers"
     - "technology/user-interface/holograms"
 ---
 # [September 7th, 2021 Livestream](../2021-09-07.md)
@@ -11,7 +11,7 @@ topics:
 https://www.youtube.com/watch?v=umSEa0eFeeM
 
 ### Topics
-* [Satisfactory Updates > Teasers & Trailers > Update 5 Teasers](../topics/satisfactory-updates/teasers-trailers/update-5-teasers.md)
+* [Satisfactory Updates > Teasers & Trailers > Update 5 Teasers](../topics/satisfactory-updates/teasers-and-trailers/update-5-teasers.md)
 * [Technology > User Interface > Holograms](../topics/technology/user-interface/holograms.md)
 
 ### Transcript

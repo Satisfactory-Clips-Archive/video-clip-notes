@@ -3,14 +3,14 @@ title: "August 3rd, 2021 Livestream Q&A: Will you be working on the script for t
 date: "2021-08-03"
 layout: transcript
 topics:
-    - "satisfactory-updates/teasers-trailers/update-5-patch-notes-video"
+    - "satisfactory-updates/teasers-and-trailers/update-5-patch-notes-video"
 ---
 # [August 3rd, 2021 Livestream](../2021-08-03.md)
 ## Q&A: Will you be working on the script for the Update 5 Patch Notes?
 https://www.youtube.com/watch?v=4X9QW9dOfY4
 
 ### Topics
-* [Satisfactory Updates > Teasers & Trailers > Update 5 Patch Notes Video](../topics/satisfactory-updates/teasers-trailers/update-5-patch-notes-video.md)
+* [Satisfactory Updates > Teasers & Trailers > Update 5 Patch Notes Video](../topics/satisfactory-updates/teasers-and-trailers/update-5-patch-notes-video.md)
 
 ### Transcript
 

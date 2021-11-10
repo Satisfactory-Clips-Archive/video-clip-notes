@@ -4,7 +4,7 @@ date: "2020-08-25"
 layout: transcript
 topics:
     - "features/power-management/green-energy"
-    - "story-lore"
+    - "story-and-lore"
 ---
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: Why are there no Solar Panels ?
@@ -14,7 +14,7 @@ This question was possibly duplicated with a more recent answer: [November 2nd, 
 
 ### Topics
 * [Features > Power Management > Green Energy](../topics/features/power-management/green-energy.md)
-* [Story & Lore](../topics/story-lore.md)
+* [Story & Lore](../topics/story-and-lore.md)
 
 ### Transcript
 

@@ -5,8 +5,8 @@ layout: transcript
 topics:
     - "coffee-stainers/jace"
     - "coffee-stainers/snutt"
-    - "off-topic/food-drink"
-    - "off-topic/food-drink/milk"
+    - "off-topic/food-and-drink"
+    - "off-topic/food-and-drink/milk"
 ---
 # [July 6th, 2021 Livestream](../2021-07-06.md)
 ## Q&A: What did Snutt have for breakfast?
@@ -15,8 +15,8 @@ https://www.youtube.com/watch?v=6nEbRCnR4yc
 ### Topics
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
 * [Coffee Stainers > Snutt](../topics/coffee-stainers/snutt.md)
-* [Off-Topic > Food & Drink](../topics/off-topic/food-drink.md)
-* [Off-Topic > Food & Drink > Milk](../topics/off-topic/food-drink/milk.md)
+* [Off-Topic > Food & Drink](../topics/off-topic/food-and-drink.md)
+* [Off-Topic > Food & Drink > Milk](../topics/off-topic/food-and-drink/milk.md)
 
 ### Transcript
 

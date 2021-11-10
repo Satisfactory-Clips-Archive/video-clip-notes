@@ -4,7 +4,7 @@ date: "2021-07-20"
 layout: transcript
 topics:
     - "environment"
-    - "story-lore"
+    - "story-and-lore"
 ---
 # [July 20th, 2021 Livestream](../2021-07-20.md)
 ## Q&A: Is there any Lore behind the World, it looks like it was underwater judging by landscape?
@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=WbKIIe_sffI
 
 ### Topics
 * [Environment](../topics/environment.md)
-* [Story & Lore](../topics/story-lore.md)
+* [Story & Lore](../topics/story-and-lore.md)
 
 ### Transcript
 

@@ -4,7 +4,7 @@ date: "2021-10-27"
 layout: transcript
 topics:
     - "features/multiplayer/dedicated-servers"
-    - "satisfactory-updates/teasers-trailers/update-5-patch-notes-video"
+    - "satisfactory-updates/teasers-and-trailers/update-5-patch-notes-video"
     - "trolling"
 ---
 # [October 27th, 2021 Video](../2021-10-27.md)
@@ -15,7 +15,7 @@ This question was possibly duplicated with a more recent answer: [November 2nd, 
 
 ### Topics
 * [Features > Multiplayer > Dedicated Servers](../topics/features/multiplayer/dedicated-servers.md)
-* [Satisfactory Updates > Teasers & Trailers > Update 5 Patch Notes Video](../topics/satisfactory-updates/teasers-trailers/update-5-patch-notes-video.md)
+* [Satisfactory Updates > Teasers & Trailers > Update 5 Patch Notes Video](../topics/satisfactory-updates/teasers-and-trailers/update-5-patch-notes-video.md)
 * [Trolling](../topics/trolling.md)
 
 ### Transcript

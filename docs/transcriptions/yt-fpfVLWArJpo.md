@@ -4,7 +4,7 @@ date: "2021-02-23"
 layout: transcript
 topics:
     - "localisation"
-    - "story-lore/characters/ada"
+    - "story-and-lore/characters/ada"
 ---
 # [February 23rd, 2021 Livestream](../2021-02-23.md)
 ## Q&A: Are you going to add more spoken languages to the game?
@@ -14,7 +14,7 @@ This question was possibly duplicated with a more recent answer: [July 6th, 2021
 
 ### Topics
 * [Localisation](../topics/localisation.md)
-* [Story & Lore > Characters > ADA](../topics/story-lore/characters/ada.md)
+* [Story & Lore > Characters > ADA](../topics/story-and-lore/characters/ada.md)
 
 ### Transcript
 

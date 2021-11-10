@@ -3,7 +3,7 @@ title: "July 6th, 2021 Livestream Q&A: Have you thought about updating values wh
 date: "2021-07-06"
 layout: transcript
 topics:
-    - "features/buildings/overclocking-underclocking"
+    - "features/buildings/overclocking-and-underclocking"
     - "technology/user-interface"
 ---
 # [July 6th, 2021 Livestream](../2021-07-06.md)
@@ -11,7 +11,7 @@ topics:
 https://www.youtube.com/watch?v=zf3aLdrxZKc
 
 ### Topics
-* [Features > Buildings > Overclocking & Underclocking](../topics/features/buildings/overclocking-underclocking.md)
+* [Features > Buildings > Overclocking & Underclocking](../topics/features/buildings/overclocking-and-underclocking.md)
 * [Technology > User Interface](../topics/technology/user-interface.md)
 
 ### Transcript

@@ -4,7 +4,7 @@ date: "2021-11-02"
 layout: transcript
 topics:
     - "community/josh"
-    - "satisfactory-updates/teasers-trailers/update-5-patch-notes-video"
+    - "satisfactory-updates/teasers-and-trailers/update-5-patch-notes-video"
 ---
 # [November 2nd, 2021 Livestream](../2021-11-02.md)
 ## Snutt & Jace Talk: Josh's role in the Update 5 Patch Notes script
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=xYGnNA7VLVQ
 
 ### Topics
 * [Community > Josh](../topics/community/josh.md)
-* [Satisfactory Updates > Teasers & Trailers > Update 5 Patch Notes Video](../topics/satisfactory-updates/teasers-trailers/update-5-patch-notes-video.md)
+* [Satisfactory Updates > Teasers & Trailers > Update 5 Patch Notes Video](../topics/satisfactory-updates/teasers-and-trailers/update-5-patch-notes-video.md)
 
 ### Transcript
 

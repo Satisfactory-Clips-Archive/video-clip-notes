@@ -6,7 +6,7 @@ topics:
     - "coffee-stainers/simon"
     - "environment/creatures/lizard-doggo"
     - "features/transportation/vehicles/drones"
-    - "satisfactory-updates/teasers-trailers/update-4-patch-notes-video"
+    - "satisfactory-updates/teasers-and-trailers/update-4-patch-notes-video"
 ---
 # [March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary](../2021-03-17.md)
 ## Snutt Talk: The VFX shot
@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=MTrCZR2Jsgo
 * [Coffee Stainers > Simon](../topics/coffee-stainers/simon.md)
 * [Environment > Creatures > Lizard Doggo](../topics/environment/creatures/lizard-doggo.md)
 * [Features > Transportation > Vehicles > Drones](../topics/features/transportation/vehicles/drones.md)
-* [Satisfactory Updates > Teasers & Trailers > Update 4 Patch Notes Video](../topics/satisfactory-updates/teasers-trailers/update-4-patch-notes-video.md)
+* [Satisfactory Updates > Teasers & Trailers > Update 4 Patch Notes Video](../topics/satisfactory-updates/teasers-and-trailers/update-4-patch-notes-video.md)
 
 ### Transcript
 

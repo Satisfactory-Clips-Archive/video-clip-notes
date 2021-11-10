@@ -3,14 +3,14 @@ title: "September 21st, 2021 Livestream Q&A: Does story have voice-over, is it m
 date: "2021-09-21"
 layout: transcript
 topics:
-    - "story-lore"
+    - "story-and-lore"
 ---
 # [September 21st, 2021 Livestream](../2021-09-21.md)
 ## Q&A: Does story have voice-over, is it mostly text-based?
 https://www.youtube.com/watch?v=kNHiKNWcniI
 
 ### Topics
-* [Story & Lore](../topics/story-lore.md)
+* [Story & Lore](../topics/story-and-lore.md)
 
 ### Transcript
 

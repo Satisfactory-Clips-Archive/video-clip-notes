@@ -3,7 +3,7 @@ title: "August 3rd, 2021 Livestream Q&A: Will the Story be good?"
 date: "2021-08-03"
 layout: transcript
 topics:
-    - "story-lore"
+    - "story-and-lore"
 ---
 # [August 3rd, 2021 Livestream](../2021-08-03.md)
 ## Q&A: Will the Story be good?
@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=TJ9ylAHb3_Y
 
 
 ### Topics
-* [Story & Lore](../topics/story-lore.md)
+* [Story & Lore](../topics/story-and-lore.md)
 
 ### Transcript
 

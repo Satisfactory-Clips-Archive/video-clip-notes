@@ -3,14 +3,14 @@ title: "July 6th, 2021 Livestream Q&A: What is Project Assembly for?"
 date: "2021-07-06"
 layout: transcript
 topics:
-    - "story-lore/project-assembly"
+    - "story-and-lore/project-assembly"
 ---
 # [July 6th, 2021 Livestream](../2021-07-06.md)
 ## Q&A: What is Project Assembly for?
 https://www.youtube.com/watch?v=TPp0jk-SXDg
 
 ### Topics
-* [Story & Lore > Project Assembly](../topics/story-lore/project-assembly.md)
+* [Story & Lore > Project Assembly](../topics/story-and-lore/project-assembly.md)
 
 ### Transcript
 

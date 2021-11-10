@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "coffee-stainers/hannah"
     - "environment/world-map"
-    - "story-lore"
+    - "story-and-lore"
     - "trolling"
 ---
 # [December 19th, 2019 Livestream](../2019-12-19.md)
@@ -15,7 +15,7 @@ https://www.youtube.com/watch?v=y8FchPasYvI
 ### Topics
 * [Coffee Stainers > Hannah](../topics/coffee-stainers/hannah.md)
 * [Environment > World Map](../topics/environment/world-map.md)
-* [Story & Lore](../topics/story-lore.md)
+* [Story & Lore](../topics/story-and-lore.md)
 * [Trolling](../topics/trolling.md)
 
 ### Transcript

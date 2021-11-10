@@ -3,7 +3,7 @@ title: "June 22nd, 2018 Q&A Q&A: Was the trailer a cinematic, or shot in-engine?
 date: "2018-06-22"
 layout: transcript
 topics:
-    - "satisfactory-updates/teasers-trailers"
+    - "satisfactory-updates/teasers-and-trailers"
 ---
 # [June 22nd, 2018 Q&A](../2018-06-22.md)
 ## Q&A: Was the trailer a cinematic, or shot in-engine?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: [October 13th, 
 
 
 ### Topics
-* [Satisfactory Updates > Teasers & Trailers](../topics/satisfactory-updates/teasers-trailers.md)
+* [Satisfactory Updates > Teasers & Trailers](../topics/satisfactory-updates/teasers-and-trailers.md)
 
 ### Transcript
 

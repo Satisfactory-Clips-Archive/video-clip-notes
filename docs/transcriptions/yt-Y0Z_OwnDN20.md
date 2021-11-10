@@ -4,7 +4,7 @@ date: "2021-08-10"
 layout: transcript
 topics:
     - "environment/resources/mercer-sphere"
-    - "story-lore"
+    - "story-and-lore"
 ---
 # [August 10th, 2021 Livestream](../2021-08-10.md)
 ## Q&A: Will the Mercer Spheres be lore related?
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=Y0Z_OwnDN20
 
 ### Topics
 * [Environment > Resources > Mercer Sphere](../topics/environment/resources/mercer-sphere.md)
-* [Story & Lore](../topics/story-lore.md)
+* [Story & Lore](../topics/story-and-lore.md)
 
 ### Transcript
 

@@ -4,7 +4,7 @@ date: "2021-02-05"
 layout: transcript
 topics:
     - "environment/resource-wells"
-    - "features/buildings/overclocking-underclocking"
+    - "features/buildings/overclocking-and-underclocking"
     - "features/buildings/resource-well-extractor"
     - "features/buildings/resource-well-pressurizer"
     - "features/gases"
@@ -17,7 +17,7 @@ https://youtube.com/embed/rI5kRMSwo5Q?autoplay=1&start=330&end=500
 
 ### Topics
 * [Environment > Resource Wells](../topics/environment/resource-wells.md)
-* [Features > Buildings > Overclocking & Underclocking](../topics/features/buildings/overclocking-underclocking.md)
+* [Features > Buildings > Overclocking & Underclocking](../topics/features/buildings/overclocking-and-underclocking.md)
 * [Features > Buildings > Resource Well Extractor](../topics/features/buildings/resource-well-extractor.md)
 * [Features > Buildings > Resource Well Pressurizer](../topics/features/buildings/resource-well-pressurizer.md)
 * [Features > Gases](../topics/features/gases.md)

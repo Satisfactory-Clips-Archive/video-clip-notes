@@ -4,7 +4,7 @@ date: "2021-03-02"
 layout: transcript
 topics:
     - "satisfactory-updates/pending/satisfactory-1-0"
-    - "story-lore"
+    - "story-and-lore"
 ---
 # [March 2nd, 2021 Livestream](../2021-03-02.md)
 ## Q&A: Is the Story completely written or is it still in progress?
@@ -14,7 +14,7 @@ This question was possibly duplicated with a more recent answer: [September 28th
 
 ### Topics
 * [Satisfactory Updates > Pending > Satisfactory 1.0](../topics/satisfactory-updates/pending/satisfactory-1-0.md)
-* [Story & Lore](../topics/story-lore.md)
+* [Story & Lore](../topics/story-and-lore.md)
 
 ### Transcript
 

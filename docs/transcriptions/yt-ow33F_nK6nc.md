@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "environment/resources/sam-ore"
     - "satisfactory-updates/pending/satisfactory-1-0"
-    - "story-lore"
+    - "story-and-lore"
 ---
 # [February 23rd, 2021 Livestream](../2021-02-23.md)
 ## Q&A: S.A.M. Ore getting a main use any time soon?
@@ -16,7 +16,7 @@ This question was possibly duplicated with a more recent answer: [September 14th
 ### Topics
 * [Environment > Resources > S.A.M. Ore](../topics/environment/resources/sam-ore.md)
 * [Satisfactory Updates > Pending > Satisfactory 1.0](../topics/satisfactory-updates/pending/satisfactory-1-0.md)
-* [Story & Lore](../topics/story-lore.md)
+* [Story & Lore](../topics/story-and-lore.md)
 
 ### Transcript
 

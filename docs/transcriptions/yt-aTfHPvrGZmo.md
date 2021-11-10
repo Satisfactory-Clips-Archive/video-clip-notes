@@ -4,7 +4,7 @@ date: "2021-06-15"
 layout: transcript
 topics:
     - "coffee-stainers/jace"
-    - "off-topic/food-drink"
+    - "off-topic/food-and-drink"
     - "off-topic/sweden"
 ---
 # [June 15th, 2021 Livestream](../2021-06-15.md)
@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=aTfHPvrGZmo
 
 ### Topics
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
-* [Off-Topic > Food & Drink](../topics/off-topic/food-drink.md)
+* [Off-Topic > Food & Drink](../topics/off-topic/food-and-drink.md)
 * [Off-Topic > Sweden](../topics/off-topic/sweden.md)
 
 ### Transcript

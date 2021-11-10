@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "coffee-stainers/jace"
     - "off-topic/australia"
-    - "off-topic/food-drink"
+    - "off-topic/food-and-drink"
     - "trolling"
 ---
 # [April 26th, 2019 Milo Tutorial](../2019-04-26.md)
@@ -15,7 +15,7 @@ https://youtube.com/embed/-eBlSsTmUSE?autoplay=1&start=23&end=168
 ### Topics
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
 * [Off-Topic > Australia](../topics/off-topic/australia.md)
-* [Off-Topic > Food & Drink](../topics/off-topic/food-drink.md)
+* [Off-Topic > Food & Drink](../topics/off-topic/food-and-drink.md)
 * [Trolling](../topics/trolling.md)
 
 ### Transcript

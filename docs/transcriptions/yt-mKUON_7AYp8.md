@@ -6,7 +6,7 @@ topics:
     - "coffee-stainers/jace"
     - "localisation"
     - "localisation/localization-community-highlight"
-    - "story-lore/characters/ada"
+    - "story-and-lore/characters/ada"
 ---
 # [July 6th, 2021 Livestream](../2021-07-06.md)
 ## Q&A: Will Jace be dubbing ADA's lines into Spanish?
@@ -22,7 +22,7 @@ https://www.youtube.com/watch?v=mKUON_7AYp8
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
 * [Localisation](../topics/localisation.md)
 * [Localisation > Localization Community Highlight](../topics/localisation/localization-community-highlight.md)
-* [Story & Lore > Characters > ADA](../topics/story-lore/characters/ada.md)
+* [Story & Lore > Characters > ADA](../topics/story-and-lore/characters/ada.md)
 
 ### Transcript
 

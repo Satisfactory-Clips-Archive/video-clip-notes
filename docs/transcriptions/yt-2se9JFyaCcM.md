@@ -4,7 +4,7 @@ date: "2021-03-02"
 layout: transcript
 topics:
     - "satisfactory-updates/released/satisfactory-update-3"
-    - "satisfactory-updates/teasers-trailers"
+    - "satisfactory-updates/teasers-and-trailers"
 ---
 # [March 2nd, 2021 Livestream](../2021-03-02.md)
 ## Snutt & Jace Talk: We talked about the patch notes video a lot
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=2se9JFyaCcM
 
 ### Topics
 * [Satisfactory Updates > Released > Satisfactory Update 3](../topics/satisfactory-updates/released/satisfactory-update-3.md)
-* [Satisfactory Updates > Teasers & Trailers](../topics/satisfactory-updates/teasers-trailers.md)
+* [Satisfactory Updates > Teasers & Trailers](../topics/satisfactory-updates/teasers-and-trailers.md)
 
 ### Transcript
 

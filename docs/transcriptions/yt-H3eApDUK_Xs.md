@@ -3,7 +3,7 @@ title: "June 8th, 2020 Livestream Snutt, Jace, & Mark Talk: Muting ADA"
 date: "2020-06-08"
 layout: transcript
 topics:
-    - "story-lore/characters/ada"
+    - "story-and-lore/characters/ada"
     - "technology/user-interface"
 ---
 # [June 8th, 2020 Livestream](../2020-06-08.md)
@@ -11,7 +11,7 @@ topics:
 https://www.youtube.com/watch?v=H3eApDUK_Xs
 
 ### Topics
-* [Story & Lore > Characters > ADA](../topics/story-lore/characters/ada.md)
+* [Story & Lore > Characters > ADA](../topics/story-and-lore/characters/ada.md)
 * [Technology > User Interface](../topics/technology/user-interface.md)
 
 ### Transcript

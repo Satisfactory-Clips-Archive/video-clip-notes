@@ -6,7 +6,7 @@ topics:
     - "coffee-stainers/hannah"
     - "environment"
     - "features/buildables"
-    - "story-lore"
+    - "story-and-lore"
 ---
 # [February 20th, 2019 Livestream](../2019-02-20.md)
 ## Q&A: Does Hannah work with any astronomers?
@@ -16,7 +16,7 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=2385&end=2457
 * [Coffee Stainers > Hannah](../topics/coffee-stainers/hannah.md)
 * [Environment](../topics/environment.md)
 * [Features > Buildables](../topics/features/buildables.md)
-* [Story & Lore](../topics/story-lore.md)
+* [Story & Lore](../topics/story-and-lore.md)
 
 ### Transcript
 

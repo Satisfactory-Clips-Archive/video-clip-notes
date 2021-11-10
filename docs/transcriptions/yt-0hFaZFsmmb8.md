@@ -7,7 +7,7 @@ topics:
     - "coffee-stainers/snutt"
     - "off-topic/australia"
     - "off-topic/sweden"
-    - "satisfactory-updates/teasers-trailers/update-4-patch-notes-video"
+    - "satisfactory-updates/teasers-and-trailers/update-4-patch-notes-video"
 ---
 # [March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary](../2021-03-17.md)
 ## Snutt & Jace Talk: The stairs scenes & Swedish shoe habits
@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=0hFaZFsmmb8
 * [Coffee Stainers > Snutt](../topics/coffee-stainers/snutt.md)
 * [Off-Topic > Australia](../topics/off-topic/australia.md)
 * [Off-Topic > Sweden](../topics/off-topic/sweden.md)
-* [Satisfactory Updates > Teasers & Trailers > Update 4 Patch Notes Video](../topics/satisfactory-updates/teasers-trailers/update-4-patch-notes-video.md)
+* [Satisfactory Updates > Teasers & Trailers > Update 4 Patch Notes Video](../topics/satisfactory-updates/teasers-and-trailers/update-4-patch-notes-video.md)
 
 ### Transcript
 

@@ -6,7 +6,7 @@ topics:
     - "environment/creatures/space-giraffe-tick-penguin-whale-thing"
     - "features/transportation/vehicles/truck"
     - "features/unplanned-features/base-defense"
-    - "satisfactory-updates/teasers-trailers/update-5-teasers"
+    - "satisfactory-updates/teasers-and-trailers/update-5-teasers"
     - "trolling"
 ---
 # [September 14th, 2021 Livestream](../2021-09-14.md)
@@ -17,7 +17,7 @@ https://www.youtube.com/watch?v=D6z9W_JVTyE
 * [Environment > Creatures > Space Giraffe-Tick-Penguin-Whale Thing](../topics/environment/creatures/space-giraffe-tick-penguin-whale-thing.md)
 * [Features > Transportation > Vehicles > Truck](../topics/features/transportation/vehicles/truck.md)
 * [Features > Unplanned Features > Base Defense](../topics/features/unplanned-features/base-defense.md)
-* [Satisfactory Updates > Teasers & Trailers > Update 5 Teasers](../topics/satisfactory-updates/teasers-trailers/update-5-teasers.md)
+* [Satisfactory Updates > Teasers & Trailers > Update 5 Teasers](../topics/satisfactory-updates/teasers-and-trailers/update-5-teasers.md)
 * [Trolling](../topics/trolling.md)
 
 ### Transcript

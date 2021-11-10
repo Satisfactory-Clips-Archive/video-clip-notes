@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "coffee-stainers/jace"
     - "coffee-stainers/snutt"
-    - "off-topic/food-drink"
+    - "off-topic/food-and-drink"
 ---
 # [May 18th, 2021 Livestream](../2021-05-18.md)
 ## Q&A: Does Jace like PB&J Sandwiches?
@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=98TBLUBhlhI
 ### Topics
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
 * [Coffee Stainers > Snutt](../topics/coffee-stainers/snutt.md)
-* [Off-Topic > Food & Drink](../topics/off-topic/food-drink.md)
+* [Off-Topic > Food & Drink](../topics/off-topic/food-and-drink.md)
 
 ### Transcript
 

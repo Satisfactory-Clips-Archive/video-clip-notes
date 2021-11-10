@@ -4,7 +4,7 @@ date: "2020-10-01"
 layout: transcript
 topics:
     - "environment/creatures/crab-boss"
-    - "satisfactory-updates/teasers-trailers"
+    - "satisfactory-updates/teasers-and-trailers"
 ---
 # [October 1st, 2020 Q&A](../2020-10-01.md)
 ## Q&A: What about the giant crab in the trailer, can we get that?
@@ -14,7 +14,7 @@ This question was possibly duplicated with a more recent answer: [November 2nd, 
 
 ### Topics
 * [Environment > Creatures > Crab Boss](../topics/environment/creatures/crab-boss.md)
-* [Satisfactory Updates > Teasers & Trailers](../topics/satisfactory-updates/teasers-trailers.md)
+* [Satisfactory Updates > Teasers & Trailers](../topics/satisfactory-updates/teasers-and-trailers.md)
 
 ### Transcript
 

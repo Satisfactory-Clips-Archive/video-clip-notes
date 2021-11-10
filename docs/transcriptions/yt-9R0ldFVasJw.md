@@ -4,7 +4,7 @@ date: "2021-03-30"
 layout: transcript
 topics:
     - "satisfactory-updates/released/satisfactory-update-4"
-    - "satisfactory-updates/teasers-trailers"
+    - "satisfactory-updates/teasers-and-trailers"
 ---
 # [March 30th, 2021 Livestream](../2021-03-30.md)
 ## Q&A: Will there be any more Dora and Diego?
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=9R0ldFVasJw
 
 ### Topics
 * [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
-* [Satisfactory Updates > Teasers & Trailers](../topics/satisfactory-updates/teasers-trailers.md)
+* [Satisfactory Updates > Teasers & Trailers](../topics/satisfactory-updates/teasers-and-trailers.md)
 
 ### Transcript
 

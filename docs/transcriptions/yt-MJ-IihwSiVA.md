@@ -6,8 +6,8 @@ topics:
     - "coffee-stainers/linus"
     - "coffee-stainers/simon"
     - "environment/creatures/lizard-doggo"
-    - "satisfactory-updates/teasers-trailers/update-4-patch-notes-video"
-    - "satisfactory-updates/teasers-trailers/update-4-teasers"
+    - "satisfactory-updates/teasers-and-trailers/update-4-patch-notes-video"
+    - "satisfactory-updates/teasers-and-trailers/update-4-teasers"
 ---
 # [March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary](../2021-03-17.md)
 ## Snutt & Jace Talk: mid-stream summary & Lizard Doggo compositing reiteration
@@ -17,8 +17,8 @@ https://www.youtube.com/watch?v=MJ-IihwSiVA
 * [Coffee Stainers > Linus](../topics/coffee-stainers/linus.md)
 * [Coffee Stainers > Simon](../topics/coffee-stainers/simon.md)
 * [Environment > Creatures > Lizard Doggo](../topics/environment/creatures/lizard-doggo.md)
-* [Satisfactory Updates > Teasers & Trailers > Update 4 Patch Notes Video](../topics/satisfactory-updates/teasers-trailers/update-4-patch-notes-video.md)
-* [Satisfactory Updates > Teasers & Trailers > Update 4 Teasers](../topics/satisfactory-updates/teasers-trailers/update-4-teasers.md)
+* [Satisfactory Updates > Teasers & Trailers > Update 4 Patch Notes Video](../topics/satisfactory-updates/teasers-and-trailers/update-4-patch-notes-video.md)
+* [Satisfactory Updates > Teasers & Trailers > Update 4 Teasers](../topics/satisfactory-updates/teasers-and-trailers/update-4-teasers.md)
 
 ### Transcript
 

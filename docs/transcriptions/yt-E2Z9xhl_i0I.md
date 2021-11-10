@@ -4,7 +4,7 @@ date: "2021-03-17"
 layout: transcript
 topics:
     - "coffee-stainers/linus"
-    - "satisfactory-updates/teasers-trailers/update-4-patch-notes-video"
+    - "satisfactory-updates/teasers-and-trailers/update-4-patch-notes-video"
 ---
 # [March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary](../2021-03-17.md)
 ## Community FYI: I saw the camera shake
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=E2Z9xhl_i0I
 
 ### Topics
 * [Coffee Stainers > Linus](../topics/coffee-stainers/linus.md)
-* [Satisfactory Updates > Teasers & Trailers > Update 4 Patch Notes Video](../topics/satisfactory-updates/teasers-trailers/update-4-patch-notes-video.md)
+* [Satisfactory Updates > Teasers & Trailers > Update 4 Patch Notes Video](../topics/satisfactory-updates/teasers-and-trailers/update-4-patch-notes-video.md)
 
 ### Transcript
 

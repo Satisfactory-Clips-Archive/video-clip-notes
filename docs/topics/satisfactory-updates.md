@@ -15,7 +15,7 @@ date: Last Modified
 * [Seasonal Events](../topics/satisfactory-updates/seasonal-events.md)
 * [Speculative](../topics/satisfactory-updates/speculative.md)
 * [State of Dev](../topics/satisfactory-updates/state-of-dev.md)
-* [Teasers & Trailers](../topics/satisfactory-updates/teasers-trailers.md)
+* [Teasers & Trailers](../topics/satisfactory-updates/teasers-and-trailers.md)
 * [World Update](../topics/satisfactory-updates/world-update.md)
 
 ## November 2nd, 2021 Livestream

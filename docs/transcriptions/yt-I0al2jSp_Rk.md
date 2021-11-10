@@ -4,7 +4,7 @@ date: "2020-10-13"
 layout: transcript
 topics:
     - "features/pioneer"
-    - "story-lore"
+    - "story-and-lore"
 ---
 # [October 13th, 2020 Livestream](../2020-10-13.md)
 ## Q&A: Is the Pioneer a human?
@@ -14,7 +14,7 @@ This question was possibly duplicated with a more recent answer: [December 8th, 
 
 ### Topics
 * [Features > Pioneer](../topics/features/pioneer.md)
-* [Story & Lore](../topics/story-lore.md)
+* [Story & Lore](../topics/story-and-lore.md)
 
 ### Transcript
 

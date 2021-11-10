@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "features/requested-features/crossovers"
     - "off-topic/sanctum"
-    - "story-lore"
+    - "story-and-lore"
 ---
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Are Sanctum and Satisfactory in the same Universe?
@@ -16,7 +16,7 @@ This question was possibly duplicated with a more recent answer: [December 15th,
 ### Topics
 * [Features > Requested Features > Crossovers](../topics/features/requested-features/crossovers.md)
 * [Off-Topic > Sanctum](../topics/off-topic/sanctum.md)
-* [Story & Lore](../topics/story-lore.md)
+* [Story & Lore](../topics/story-and-lore.md)
 
 ### Transcript
 

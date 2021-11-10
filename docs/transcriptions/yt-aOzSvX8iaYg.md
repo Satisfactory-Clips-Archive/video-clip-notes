@@ -3,7 +3,7 @@ title: "December 19th, 2019 Livestream Q&A: Who is the voice of A.D.A. ?"
 date: "2019-12-19"
 layout: transcript
 topics:
-    - "story-lore/characters/ada"
+    - "story-and-lore/characters/ada"
 ---
 # [December 19th, 2019 Livestream](../2019-12-19.md)
 ## Q&A: Who is the voice of A.D.A. ?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: [May 18th, 2021
 
 
 ### Topics
-* [Story & Lore > Characters > ADA](../topics/story-lore/characters/ada.md)
+* [Story & Lore > Characters > ADA](../topics/story-and-lore/characters/ada.md)
 
 ### Transcript
 

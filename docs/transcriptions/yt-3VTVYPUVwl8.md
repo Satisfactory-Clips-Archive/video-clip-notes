@@ -7,7 +7,7 @@ topics:
     - "coffee-stainers/jace"
     - "coffee-stainers/snutt"
     - "community/community-highlights"
-    - "satisfactory-updates/teasers-trailers/update-5-launch-stream"
+    - "satisfactory-updates/teasers-and-trailers/update-5-launch-stream"
 ---
 # [November 2nd, 2021 Livestream](../2021-11-02.md)
 ## Snutt & Jace Talk: Community Feedback to the Update 5 Launch Stream
@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=3VTVYPUVwl8
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
 * [Coffee Stainers > Snutt](../topics/coffee-stainers/snutt.md)
 * [Community > Community Highlights](../topics/community/community-highlights.md)
-* [Satisfactory Updates > Teasers & Trailers > Update 5 Launch Stream](../topics/satisfactory-updates/teasers-trailers/update-5-launch-stream.md)
+* [Satisfactory Updates > Teasers & Trailers > Update 5 Launch Stream](../topics/satisfactory-updates/teasers-and-trailers/update-5-launch-stream.md)
 
 ### Transcript
 

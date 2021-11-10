@@ -3,14 +3,14 @@ title: "November 12th, 2020 Video Birk Talk: Story"
 date: "2020-11-12"
 layout: transcript
 topics:
-    - "story-lore"
+    - "story-and-lore"
 ---
 # [November 12th, 2020 Video](../2020-11-12.md)
 ## Birk Talk: Story
 https://youtube.com/embed/VYyFA7-yRKc?autoplay=1&start=151&end=171
 
 ### Topics
-* [Story & Lore](../topics/story-lore.md)
+* [Story & Lore](../topics/story-and-lore.md)
 
 ### Transcript
 

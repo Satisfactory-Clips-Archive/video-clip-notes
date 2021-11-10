@@ -4,7 +4,7 @@ date: "2018-07-04"
 layout: transcript
 topics:
     - "features/buildings"
-    - "features/buildings/overclocking-underclocking"
+    - "features/buildings/overclocking-and-underclocking"
 ---
 # [July 4th, 2018 Video](../2018-07-04.md)
 ## Oscar Talk: The scope of gameplay and automation
@@ -12,7 +12,7 @@ https://youtube.com/embed/vUW3pockA5Y?autoplay=1&start=117&end=174
 
 ### Topics
 * [Features > Buildings](../topics/features/buildings.md)
-* [Features > Buildings > Overclocking & Underclocking](../topics/features/buildings/overclocking-underclocking.md)
+* [Features > Buildings > Overclocking & Underclocking](../topics/features/buildings/overclocking-and-underclocking.md)
 
 ### Transcript
 

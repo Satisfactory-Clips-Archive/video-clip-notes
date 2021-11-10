@@ -3,7 +3,7 @@ title: "March 9th, 2021 Livestream Q&A: Is Lore & Story progressing well, not we
 date: "2021-03-09"
 layout: transcript
 topics:
-    - "story-lore"
+    - "story-and-lore"
 ---
 # [March 9th, 2021 Livestream](../2021-03-09.md)
 ## Q&A: Is Lore & Story progressing well, not well, or not at all?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: [September 28th
 
 
 ### Topics
-* [Story & Lore](../topics/story-lore.md)
+* [Story & Lore](../topics/story-and-lore.md)
 
 ### Transcript
 

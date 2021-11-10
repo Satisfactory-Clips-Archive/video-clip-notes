@@ -6,7 +6,7 @@ topics:
     - "features/buildables"
     - "features/planned-features/build-modes"
     - "satisfactory-updates/released/satisfactory-update-5"
-    - "satisfactory-updates/teasers-trailers/update-5-teasers"
+    - "satisfactory-updates/teasers-and-trailers/update-5-teasers"
 ---
 # [October 19th, 2021 Livestream](../2021-10-19.md)
 ## Snutt & Jace Talk: Update 5 Build system improvements
@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=b6oCNvKP844
 * [Features > Buildables](../topics/features/buildables.md)
 * [Features > Planned Features > Build Modes](../topics/features/planned-features/build-modes.md)
 * [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
-* [Satisfactory Updates > Teasers & Trailers > Update 5 Teasers](../topics/satisfactory-updates/teasers-trailers/update-5-teasers.md)
+* [Satisfactory Updates > Teasers & Trailers > Update 5 Teasers](../topics/satisfactory-updates/teasers-and-trailers/update-5-teasers.md)
 
 ### Transcript
 

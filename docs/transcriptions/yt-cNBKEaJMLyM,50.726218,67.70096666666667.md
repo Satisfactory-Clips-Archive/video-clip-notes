@@ -4,8 +4,8 @@ date: "2021-10-22"
 layout: transcript
 topics:
     - "satisfactory-updates/released/satisfactory-update-4"
-    - "satisfactory-updates/teasers-trailers/update-4-launch-stream"
-    - "satisfactory-updates/teasers-trailers/update-4-patch-notes-video"
+    - "satisfactory-updates/teasers-and-trailers/update-4-launch-stream"
+    - "satisfactory-updates/teasers-and-trailers/update-4-patch-notes-video"
 ---
 # [October 22nd, 2021 Video](../2021-10-22.md)
 ## Jace Talk: Chat reactions to Update 4 Patch Notes
@@ -13,8 +13,8 @@ https://youtube.com/embed/cNBKEaJMLyM?autoplay=1&start=50&end=68
 
 ### Topics
 * [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
-* [Satisfactory Updates > Teasers & Trailers > Update 4 Launch Stream](../topics/satisfactory-updates/teasers-trailers/update-4-launch-stream.md)
-* [Satisfactory Updates > Teasers & Trailers > Update 4 Patch Notes Video](../topics/satisfactory-updates/teasers-trailers/update-4-patch-notes-video.md)
+* [Satisfactory Updates > Teasers & Trailers > Update 4 Launch Stream](../topics/satisfactory-updates/teasers-and-trailers/update-4-launch-stream.md)
+* [Satisfactory Updates > Teasers & Trailers > Update 4 Patch Notes Video](../topics/satisfactory-updates/teasers-and-trailers/update-4-patch-notes-video.md)
 
 ### Transcript
 

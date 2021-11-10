@@ -4,7 +4,7 @@ date: "2020-05-19"
 layout: transcript
 topics:
     - "environment/world-map"
-    - "story-lore"
+    - "story-and-lore"
 ---
 # [May 19th, 2020 Livestream](../2020-05-19.md)
 ## Q&A: Planet has floating rocks, is not bound by Earth physics?
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=jXwIeLGuSvI
 
 ### Topics
 * [Environment > World Map](../topics/environment/world-map.md)
-* [Story & Lore](../topics/story-lore.md)
+* [Story & Lore](../topics/story-and-lore.md)
 
 ### Transcript
 

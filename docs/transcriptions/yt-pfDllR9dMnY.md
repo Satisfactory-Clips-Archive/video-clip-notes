@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "satisfactory-updates/released/satisfactory-update-4"
     - "satisfactory-updates/state-of-dev"
-    - "satisfactory-updates/teasers-trailers"
+    - "satisfactory-updates/teasers-and-trailers"
 ---
 # [March 9th, 2021 Livestream](../2021-03-09.md)
 ## State of Dev: Update 4 patch notes video
@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=pfDllR9dMnY
 ### Topics
 * [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 * [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
-* [Satisfactory Updates > Teasers & Trailers](../topics/satisfactory-updates/teasers-trailers.md)
+* [Satisfactory Updates > Teasers & Trailers](../topics/satisfactory-updates/teasers-and-trailers.md)
 
 ### Transcript
 

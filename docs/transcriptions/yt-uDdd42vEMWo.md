@@ -3,14 +3,14 @@ title: "February 9th, 2021 Livestream Q&A: How far are we in Story-wise?"
 date: "2021-02-09"
 layout: transcript
 topics:
-    - "story-lore"
+    - "story-and-lore"
 ---
 # [February 9th, 2021 Livestream](../2021-02-09.md)
 ## Q&A: How far are we in Story-wise?
 https://www.youtube.com/watch?v=uDdd42vEMWo
 
 ### Topics
-* [Story & Lore](../topics/story-lore.md)
+* [Story & Lore](../topics/story-and-lore.md)
 
 ### Transcript
 

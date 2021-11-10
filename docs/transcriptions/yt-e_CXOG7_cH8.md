@@ -4,7 +4,7 @@ date: "2020-09-08"
 layout: transcript
 topics:
     - "off-topic/factorio"
-    - "story-lore"
+    - "story-and-lore"
 ---
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Will there be a Story Mode?
@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=e_CXOG7_cH8
 
 ### Topics
 * [Off-Topic > Factorio](../topics/off-topic/factorio.md)
-* [Story & Lore](../topics/story-lore.md)
+* [Story & Lore](../topics/story-and-lore.md)
 
 ### Transcript
 

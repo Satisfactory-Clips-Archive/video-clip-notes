@@ -4,7 +4,7 @@ date: "2021-08-03"
 layout: transcript
 topics:
     - "features/buildings/the-hub"
-    - "off-topic/food-drink/coffee"
+    - "off-topic/food-and-drink/coffee"
 ---
 # [August 3rd, 2021 Livestream](../2021-08-03.md)
 ## Q&A: How have you not made a "Hot Coffee" mini-game where you literally just make coffee?
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=sp0SRzvvDAc
 
 ### Topics
 * [Features > Buildings > The HUB](../topics/features/buildings/the-hub.md)
-* [Off-Topic > Food & Drink > Coffee](../topics/off-topic/food-drink/coffee.md)
+* [Off-Topic > Food & Drink > Coffee](../topics/off-topic/food-and-drink/coffee.md)
 
 ### Transcript
 

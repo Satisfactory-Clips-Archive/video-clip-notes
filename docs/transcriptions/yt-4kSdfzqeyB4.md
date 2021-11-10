@@ -3,7 +3,7 @@ title: "August 31st, 2021 Livestream Q&A: When are we getting a Story Mode?"
 date: "2021-08-31"
 layout: transcript
 topics:
-    - "story-lore"
+    - "story-and-lore"
 ---
 # [August 31st, 2021 Livestream](../2021-08-31.md)
 ## Q&A: When are we getting a Story Mode?
@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=4kSdfzqeyB4
 
 
 ### Topics
-* [Story & Lore](../topics/story-lore.md)
+* [Story & Lore](../topics/story-and-lore.md)
 
 ### Transcript
 

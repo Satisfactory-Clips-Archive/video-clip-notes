@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "community/community-highlights"
     - "features/buildings/space-elevator/food-court"
-    - "off-topic/food-drink"
+    - "off-topic/food-and-drink"
 ---
 # [August 3rd, 2021 Livestream](../2021-08-03.md)
 ## Jace & Hannah Talk: Food Court, no fish allowed
@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=k6bndNMxxdE
 ### Topics
 * [Community > Community Highlights](../topics/community/community-highlights.md)
 * [Features > Buildings > Space Elevator > Food Court](../topics/features/buildings/space-elevator/food-court.md)
-* [Off-Topic > Food & Drink](../topics/off-topic/food-drink.md)
+* [Off-Topic > Food & Drink](../topics/off-topic/food-and-drink.md)
 
 ### Transcript
 

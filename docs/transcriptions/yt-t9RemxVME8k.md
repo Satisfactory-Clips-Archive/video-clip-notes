@@ -3,14 +3,14 @@ title: "September 14th, 2021 Livestream Q&A: Any ideas for endgame, post-complet
 date: "2021-09-14"
 layout: transcript
 topics:
-    - "story-lore"
+    - "story-and-lore"
 ---
 # [September 14th, 2021 Livestream](../2021-09-14.md)
 ## Q&A: Any ideas for endgame, post-completing the Project?
 https://www.youtube.com/watch?v=t9RemxVME8k
 
 ### Topics
-* [Story & Lore](../topics/story-lore.md)
+* [Story & Lore](../topics/story-and-lore.md)
 
 ### Transcript
 

@@ -4,7 +4,7 @@ date: "2019-02-20"
 layout: transcript
 topics:
     - "environment"
-    - "story-lore"
+    - "story-and-lore"
 ---
 # [February 20th, 2019 Livestream](../2019-02-20.md)
 ## Q&A: Do the level names come back in game Lore?
@@ -12,7 +12,7 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=2353&end=2376
 
 ### Topics
 * [Environment](../topics/environment.md)
-* [Story & Lore](../topics/story-lore.md)
+* [Story & Lore](../topics/story-and-lore.md)
 
 ### Transcript
 

@@ -3,7 +3,7 @@ title: "July 13th, 2021 Livestream Q&A: Have you ever tried overclocking Fuel Ge
 date: "2021-07-13"
 layout: transcript
 topics:
-    - "features/buildings/overclocking-underclocking"
+    - "features/buildings/overclocking-and-underclocking"
     - "features/power-management"
     - "technology/user-interface"
 ---
@@ -12,7 +12,7 @@ topics:
 https://www.youtube.com/watch?v=W6Zxy430lZo
 
 ### Topics
-* [Features > Buildings > Overclocking & Underclocking](../topics/features/buildings/overclocking-underclocking.md)
+* [Features > Buildings > Overclocking & Underclocking](../topics/features/buildings/overclocking-and-underclocking.md)
 * [Features > Power Management](../topics/features/power-management.md)
 * [Technology > User Interface](../topics/technology/user-interface.md)
 

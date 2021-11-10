@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "community"
     - "off-topic/e3"
-    - "satisfactory-updates/teasers-trailers"
+    - "satisfactory-updates/teasers-and-trailers"
 ---
 # [June 15th, 2021 Livestream](../2021-06-15.md)
 ## Community FYI: Thanks for the stream, please don't stop these streams
@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=o6REds5XjcI
 ### Topics
 * [Community](../topics/community.md)
 * [Off-Topic > E3](../topics/off-topic/e3.md)
-* [Satisfactory Updates > Teasers & Trailers](../topics/satisfactory-updates/teasers-trailers.md)
+* [Satisfactory Updates > Teasers & Trailers](../topics/satisfactory-updates/teasers-and-trailers.md)
 
 ### Transcript
 

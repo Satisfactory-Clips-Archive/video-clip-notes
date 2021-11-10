@@ -4,7 +4,7 @@ date: "2021-07-20"
 layout: transcript
 topics:
     - "features/possible-features/game-modes"
-    - "story-lore"
+    - "story-and-lore"
 ---
 # [July 20th, 2021 Livestream](../2021-07-20.md)
 ## Q&A: Maybe starting from scratch in Story Mode, importing save in Construction Mode?
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=3uqePr4WNrw
 
 ### Topics
 * [Features > Possible Features > Game Modes](../topics/features/possible-features/game-modes.md)
-* [Story & Lore](../topics/story-lore.md)
+* [Story & Lore](../topics/story-and-lore.md)
 
 ### Transcript
 

@@ -4,7 +4,7 @@ date: "2021-02-09"
 layout: transcript
 topics:
     - "features/pioneer"
-    - "story-lore"
+    - "story-and-lore"
 ---
 # [February 9th, 2021 Livestream](../2021-02-09.md)
 ## Q&A: Is your character there of their own free will, or they an indentured servant or slave?
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=dE2pNt1PlFU
 
 ### Topics
 * [Features > Pioneer](../topics/features/pioneer.md)
-* [Story & Lore](../topics/story-lore.md)
+* [Story & Lore](../topics/story-and-lore.md)
 
 ### Transcript
 

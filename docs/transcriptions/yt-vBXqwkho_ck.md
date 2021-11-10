@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "coffee-stainers"
     - "community/community-highlights"
-    - "off-topic/food-drink/coffee"
+    - "off-topic/food-and-drink/coffee"
     - "off-topic/sweden"
 ---
 # [April 27th, 2021 Livestream](../2021-04-27.md)
@@ -15,7 +15,7 @@ https://www.youtube.com/watch?v=vBXqwkho_ck
 ### Topics
 * [Coffee Stainers](../topics/coffee-stainers.md)
 * [Community > Community Highlights](../topics/community/community-highlights.md)
-* [Off-Topic > Food & Drink > Coffee](../topics/off-topic/food-drink/coffee.md)
+* [Off-Topic > Food & Drink > Coffee](../topics/off-topic/food-and-drink/coffee.md)
 * [Off-Topic > Sweden](../topics/off-topic/sweden.md)
 
 ### Transcript

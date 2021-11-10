@@ -7,7 +7,7 @@ topics:
     - "features/buildables/conveyor-belts"
     - "features/buildables/walls"
     - "features/requested-features/holstering-equipment"
-    - "satisfactory-updates/teasers-trailers"
+    - "satisfactory-updates/teasers-and-trailers"
     - "technology/user-interface"
 ---
 # [March 23rd, 2021 Livestream](../2021-03-23.md)
@@ -21,7 +21,7 @@ This question was possibly duplicated with a more recent answer: [March 30th, 20
 * [Features > Buildables > Conveyor Belts](../topics/features/buildables/conveyor-belts.md)
 * [Features > Buildables > Walls](../topics/features/buildables/walls.md)
 * [Features > Requested Features > Holstering Equipment](../topics/features/requested-features/holstering-equipment.md)
-* [Satisfactory Updates > Teasers & Trailers](../topics/satisfactory-updates/teasers-trailers.md)
+* [Satisfactory Updates > Teasers & Trailers](../topics/satisfactory-updates/teasers-and-trailers.md)
 * [Technology > User Interface](../topics/technology/user-interface.md)
 
 ### Transcript

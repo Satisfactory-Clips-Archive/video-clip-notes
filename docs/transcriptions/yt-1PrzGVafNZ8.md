@@ -3,7 +3,7 @@ title: "November 2nd, 2021 Livestream Snutt & Jace Talk: That one track we use i
 date: "2021-11-02"
 layout: transcript
 topics:
-    - "satisfactory-updates/teasers-trailers"
+    - "satisfactory-updates/teasers-and-trailers"
     - "soundtrack"
 ---
 # [November 2nd, 2021 Livestream](../2021-11-02.md)
@@ -11,7 +11,7 @@ topics:
 https://www.youtube.com/watch?v=1PrzGVafNZ8
 
 ### Topics
-* [Satisfactory Updates > Teasers & Trailers](../topics/satisfactory-updates/teasers-trailers.md)
+* [Satisfactory Updates > Teasers & Trailers](../topics/satisfactory-updates/teasers-and-trailers.md)
 * [Soundtrack](../topics/soundtrack.md)
 
 ### Transcript

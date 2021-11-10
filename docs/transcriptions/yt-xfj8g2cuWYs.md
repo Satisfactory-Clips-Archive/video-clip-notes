@@ -3,7 +3,7 @@ title: "February 11th, 2020 Livestream Snutt & Jace Talk: Semlor (Part 2)"
 date: "2020-02-11"
 layout: transcript
 topics:
-    - "off-topic/food-drink/semlor"
+    - "off-topic/food-and-drink/semlor"
 ---
 # [February 11th, 2020 Livestream](../2020-02-11.md)
 ## Snutt & Jace Talk: Semlor (Part 2)
@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=xfj8g2cuWYs
 
 
 ### Topics
-* [Off-Topic > Food & Drink > Semlor](../topics/off-topic/food-drink/semlor.md)
+* [Off-Topic > Food & Drink > Semlor](../topics/off-topic/food-and-drink/semlor.md)
 
 ### Transcript
 

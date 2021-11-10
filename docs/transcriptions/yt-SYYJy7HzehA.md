@@ -6,7 +6,7 @@ topics:
     - "coffee-stainers/hannah"
     - "features/buildings/space-elevator/food-court"
     - "satisfactory-updates/pending/satisfactory-1-0"
-    - "story-lore"
+    - "story-and-lore"
 ---
 # [June 8th, 2021 Livestream](../2021-06-08.md)
 ## Q&A: What about Story?
@@ -18,7 +18,7 @@ This question was possibly duplicated with a more recent answer: [September 28th
 * [Coffee Stainers > Hannah](../topics/coffee-stainers/hannah.md)
 * [Features > Buildings > Space Elevator > Food Court](../topics/features/buildings/space-elevator/food-court.md)
 * [Satisfactory Updates > Pending > Satisfactory 1.0](../topics/satisfactory-updates/pending/satisfactory-1-0.md)
-* [Story & Lore](../topics/story-lore.md)
+* [Story & Lore](../topics/story-and-lore.md)
 
 ### Transcript
 

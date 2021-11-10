@@ -4,7 +4,7 @@ date: "2021-03-17"
 layout: transcript
 topics:
     - "features/transportation/vehicles/truck"
-    - "satisfactory-updates/teasers-trailers/update-4-patch-notes-video"
+    - "satisfactory-updates/teasers-and-trailers/update-4-patch-notes-video"
 ---
 # [March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary](../2021-03-17.md)
 ## Snutt & Jace Talk: The Truck kept flipping & falling
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=AP6XsLP_KUo
 
 ### Topics
 * [Features > Transportation > Vehicles > Truck](../topics/features/transportation/vehicles/truck.md)
-* [Satisfactory Updates > Teasers & Trailers > Update 4 Patch Notes Video](../topics/satisfactory-updates/teasers-trailers/update-4-patch-notes-video.md)
+* [Satisfactory Updates > Teasers & Trailers > Update 4 Patch Notes Video](../topics/satisfactory-updates/teasers-and-trailers/update-4-patch-notes-video.md)
 
 ### Transcript
 

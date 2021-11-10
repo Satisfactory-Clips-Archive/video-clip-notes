@@ -7,7 +7,7 @@ topics:
     - "coffee-stainers/mark"
     - "features/possible-features/game-modes"
     - "satisfactory-updates/pending/satisfactory-1-0"
-    - "story-lore"
+    - "story-and-lore"
 ---
 # [May 25th, 2021 Livestream](../2021-05-25.md)
 ## Q&A: Can you talk about plans for replayability?
@@ -24,7 +24,7 @@ https://www.youtube.com/watch?v=VvnI641_TLs
 * [Coffee Stainers > Mark](../topics/coffee-stainers/mark.md)
 * [Features > Possible Features > Game Modes](../topics/features/possible-features/game-modes.md)
 * [Satisfactory Updates > Pending > Satisfactory 1.0](../topics/satisfactory-updates/pending/satisfactory-1-0.md)
-* [Story & Lore](../topics/story-lore.md)
+* [Story & Lore](../topics/story-and-lore.md)
 
 ### Transcript
 

@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "features/buildings/blender"
     - "satisfactory-updates/released/satisfactory-update-4"
-    - "satisfactory-updates/teasers-trailers"
+    - "satisfactory-updates/teasers-and-trailers"
 ---
 # [January 12th, 2021 Livestream](../2021-01-12.md)
 ## Q&A: Any early release previews for the update?
@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=o1IfznnrGgc
 ### Topics
 * [Features > Buildings > Blender](../topics/features/buildings/blender.md)
 * [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
-* [Satisfactory Updates > Teasers & Trailers](../topics/satisfactory-updates/teasers-trailers.md)
+* [Satisfactory Updates > Teasers & Trailers](../topics/satisfactory-updates/teasers-and-trailers.md)
 
 ### Transcript
 

@@ -3,7 +3,7 @@ title: "August 24th, 2021 Livestream Q&A: When will the Power Shards show up in 
 date: "2021-08-24"
 layout: transcript
 topics:
-    - "features/buildings/overclocking-underclocking"
+    - "features/buildings/overclocking-and-underclocking"
     - "features/buildings/water-extractor"
     - "technology/user-interface"
 ---
@@ -12,7 +12,7 @@ topics:
 https://www.youtube.com/watch?v=YhVyhhj6INQ
 
 ### Topics
-* [Features > Buildings > Overclocking & Underclocking](../topics/features/buildings/overclocking-underclocking.md)
+* [Features > Buildings > Overclocking & Underclocking](../topics/features/buildings/overclocking-and-underclocking.md)
 * [Features > Buildings > Water Extractor](../topics/features/buildings/water-extractor.md)
 * [Technology > User Interface](../topics/technology/user-interface.md)
 

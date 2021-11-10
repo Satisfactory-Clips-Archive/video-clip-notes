@@ -4,7 +4,7 @@ date: "2021-10-29"
 layout: transcript
 topics:
     - "features/buildables/conveyor-belts"
-    - "features/planned-features/build-modes/hard-soft-clearance"
+    - "features/planned-features/build-modes/hard-and-soft-clearance"
     - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [October 29th, 2021 Video](../2021-10-29.md)
@@ -13,7 +13,7 @@ https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=307&end=339
 
 ### Topics
 * [Features > Buildables > Conveyor Belts](../topics/features/buildables/conveyor-belts.md)
-* [Features > Planned Features > Build Modes > Hard & Soft Clearance](../topics/features/planned-features/build-modes/hard-soft-clearance.md)
+* [Features > Planned Features > Build Modes > Hard & Soft Clearance](../topics/features/planned-features/build-modes/hard-and-soft-clearance.md)
 * [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript

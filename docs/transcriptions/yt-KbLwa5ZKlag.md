@@ -4,7 +4,7 @@ date: "2021-10-19"
 layout: transcript
 topics:
     - "features/buildings/miner"
-    - "features/buildings/overclocking-underclocking"
+    - "features/buildings/overclocking-and-underclocking"
 ---
 # [October 19th, 2021 Livestream](../2021-10-19.md)
 ## Q&A: Any Update on Overclocked Mk.3 Miners?
@@ -24,7 +24,7 @@ https://www.youtube.com/watch?v=KbLwa5ZKlag
 
 ### Topics
 * [Features > Buildings > Miner](../topics/features/buildings/miner.md)
-* [Features > Buildings > Overclocking & Underclocking](../topics/features/buildings/overclocking-underclocking.md)
+* [Features > Buildings > Overclocking & Underclocking](../topics/features/buildings/overclocking-and-underclocking.md)
 
 ### Transcript
 

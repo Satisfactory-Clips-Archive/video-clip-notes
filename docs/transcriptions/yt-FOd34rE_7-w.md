@@ -4,7 +4,7 @@ date: "2021-08-31"
 layout: transcript
 topics:
     - "community"
-    - "satisfactory-updates/teasers-trailers/update-5-teasers"
+    - "satisfactory-updates/teasers-and-trailers/update-5-teasers"
 ---
 # [August 31st, 2021 Livestream](../2021-08-31.md)
 ## Snutt & Jace Talk: Community Response to Update 5 Teasers
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=FOd34rE_7-w
 
 ### Topics
 * [Community](../topics/community.md)
-* [Satisfactory Updates > Teasers & Trailers > Update 5 Teasers](../topics/satisfactory-updates/teasers-trailers/update-5-teasers.md)
+* [Satisfactory Updates > Teasers & Trailers > Update 5 Teasers](../topics/satisfactory-updates/teasers-and-trailers/update-5-teasers.md)
 
 ### Transcript
 

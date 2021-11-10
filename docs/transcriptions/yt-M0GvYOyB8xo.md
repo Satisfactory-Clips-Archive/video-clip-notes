@@ -4,7 +4,7 @@ date: "2021-10-19"
 layout: transcript
 topics:
     - "satisfactory-updates/state-of-dev"
-    - "satisfactory-updates/teasers-trailers/update-5-teasers"
+    - "satisfactory-updates/teasers-and-trailers/update-5-teasers"
 ---
 # [October 19th, 2021 Livestream](../2021-10-19.md)
 ## State of Dev: Build System Changes video
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=M0GvYOyB8xo
 
 ### Topics
 * [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
-* [Satisfactory Updates > Teasers & Trailers > Update 5 Teasers](../topics/satisfactory-updates/teasers-trailers/update-5-teasers.md)
+* [Satisfactory Updates > Teasers & Trailers > Update 5 Teasers](../topics/satisfactory-updates/teasers-and-trailers/update-5-teasers.md)
 
 ### Transcript
 

@@ -4,7 +4,7 @@ date: "2021-02-23"
 layout: transcript
 topics:
     - "satisfactory-updates/pending/satisfactory-1-0"
-    - "story-lore"
+    - "story-and-lore"
 ---
 # [February 23rd, 2021 Livestream](../2021-02-23.md)
 ## Q&A: Are there any features that're being held for the 1.0 release?
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=ufAQLXW_yNk
 
 ### Topics
 * [Satisfactory Updates > Pending > Satisfactory 1.0](../topics/satisfactory-updates/pending/satisfactory-1-0.md)
-* [Story & Lore](../topics/story-lore.md)
+* [Story & Lore](../topics/story-and-lore.md)
 
 ### Transcript
 

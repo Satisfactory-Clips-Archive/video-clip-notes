@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "features/buildables/conveyor-belts"
     - "features/buildings/miner"
-    - "features/buildings/overclocking-underclocking"
+    - "features/buildings/overclocking-and-underclocking"
 ---
 # [March 30th, 2021 Livestream](../2021-03-30.md)
 ## Snutt Talk: Double output for Mk.3 Miner
@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=uj2-PF2xHY8
 ### Topics
 * [Features > Buildables > Conveyor Belts](../topics/features/buildables/conveyor-belts.md)
 * [Features > Buildings > Miner](../topics/features/buildings/miner.md)
-* [Features > Buildings > Overclocking & Underclocking](../topics/features/buildings/overclocking-underclocking.md)
+* [Features > Buildings > Overclocking & Underclocking](../topics/features/buildings/overclocking-and-underclocking.md)
 
 ### Transcript
 

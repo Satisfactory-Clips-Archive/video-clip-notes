@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "features/buildings/particle-accelerator"
     - "features/power-management"
-    - "satisfactory-updates/teasers-trailers/update-4-patch-notes-video"
+    - "satisfactory-updates/teasers-and-trailers/update-4-patch-notes-video"
     - "technology/user-interface"
 ---
 # [March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary](../2021-03-17.md)
@@ -15,7 +15,7 @@ https://www.youtube.com/watch?v=Ejl1r4KQpMY
 ### Topics
 * [Features > Buildings > Particle Accelerator](../topics/features/buildings/particle-accelerator.md)
 * [Features > Power Management](../topics/features/power-management.md)
-* [Satisfactory Updates > Teasers & Trailers > Update 4 Patch Notes Video](../topics/satisfactory-updates/teasers-trailers/update-4-patch-notes-video.md)
+* [Satisfactory Updates > Teasers & Trailers > Update 4 Patch Notes Video](../topics/satisfactory-updates/teasers-and-trailers/update-4-patch-notes-video.md)
 * [Technology > User Interface](../topics/technology/user-interface.md)
 
 ### Transcript

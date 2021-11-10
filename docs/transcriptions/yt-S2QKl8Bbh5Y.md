@@ -4,7 +4,7 @@ date: "2021-06-01"
 layout: transcript
 topics:
     - "environment/resources"
-    - "features/buildings/overclocking-underclocking"
+    - "features/buildings/overclocking-and-underclocking"
     - "features/crafting/recipes"
     - "june-2021-epic-mega-sale-stream"
     - "june-2021-epic-mega-sale-stream/setting-up-modular-frame-production"
@@ -21,7 +21,7 @@ https://www.youtube.com/watch?v=S2QKl8Bbh5Y
 
 ### Topics
 * [Environment > Resources](../topics/environment/resources.md)
-* [Features > Buildings > Overclocking & Underclocking](../topics/features/buildings/overclocking-underclocking.md)
+* [Features > Buildings > Overclocking & Underclocking](../topics/features/buildings/overclocking-and-underclocking.md)
 * [Features > Crafting > Recipes](../topics/features/crafting/recipes.md)
 * [June 2021 Epic Mega Sale Stream](../topics/june-2021-epic-mega-sale-stream.md)
 * [June 2021 Epic Mega Sale Stream > Setting up Modular Frame production](../topics/june-2021-epic-mega-sale-stream/setting-up-modular-frame-production.md)

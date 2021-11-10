@@ -3,7 +3,7 @@ title: "July 6th, 2021 Livestream Q&A: No epic reveal trailer?"
 date: "2021-07-06"
 layout: transcript
 topics:
-    - "satisfactory-updates/teasers-trailers/update-5-teasers"
+    - "satisfactory-updates/teasers-and-trailers/update-5-teasers"
 ---
 # [July 6th, 2021 Livestream](../2021-07-06.md)
 ## Q&A: No epic reveal trailer?
@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=jUhdgy_uAts
 
 
 ### Topics
-* [Satisfactory Updates > Teasers & Trailers > Update 5 Teasers](../topics/satisfactory-updates/teasers-trailers/update-5-teasers.md)
+* [Satisfactory Updates > Teasers & Trailers > Update 5 Teasers](../topics/satisfactory-updates/teasers-and-trailers/update-5-teasers.md)
 
 ### Transcript
 

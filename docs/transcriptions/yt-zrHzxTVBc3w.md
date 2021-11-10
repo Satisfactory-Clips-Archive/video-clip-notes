@@ -3,7 +3,7 @@ title: "November 10th, 2020 Livestream Q&A: Will Story need a new Save File?"
 date: "2020-11-10"
 layout: transcript
 topics:
-    - "story-lore"
+    - "story-and-lore"
 ---
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Will Story need a new Save File?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: [July 20th, 202
 
 
 ### Topics
-* [Story & Lore](../topics/story-lore.md)
+* [Story & Lore](../topics/story-and-lore.md)
 
 ### Transcript
 

@@ -4,7 +4,7 @@ date: "2021-10-05"
 layout: transcript
 topics:
     - "features/planned-features/build-modes"
-    - "features/planned-features/build-modes/hard-soft-clearance"
+    - "features/planned-features/build-modes/hard-and-soft-clearance"
     - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [October 5th, 2021 Livestream](../2021-10-05.md)
@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=Hh6MzKZ1lzE
 
 ### Topics
 * [Features > Planned Features > Build Modes](../topics/features/planned-features/build-modes.md)
-* [Features > Planned Features > Build Modes > Hard & Soft Clearance](../topics/features/planned-features/build-modes/hard-soft-clearance.md)
+* [Features > Planned Features > Build Modes > Hard & Soft Clearance](../topics/features/planned-features/build-modes/hard-and-soft-clearance.md)
 * [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript

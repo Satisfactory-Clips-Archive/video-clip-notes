@@ -4,7 +4,7 @@ date: "2021-03-17"
 layout: transcript
 topics:
     - "community/josh"
-    - "satisfactory-updates/teasers-trailers/update-4-patch-notes-video"
+    - "satisfactory-updates/teasers-and-trailers/update-4-patch-notes-video"
 ---
 # [March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary](../2021-03-17.md)
 ## Community FYI: The editor in me is so rock hard by these continuity details
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=CiUdIN4aPww
 
 ### Topics
 * [Community > Josh](../topics/community/josh.md)
-* [Satisfactory Updates > Teasers & Trailers > Update 4 Patch Notes Video](../topics/satisfactory-updates/teasers-trailers/update-4-patch-notes-video.md)
+* [Satisfactory Updates > Teasers & Trailers > Update 4 Patch Notes Video](../topics/satisfactory-updates/teasers-and-trailers/update-4-patch-notes-video.md)
 
 ### Transcript
 

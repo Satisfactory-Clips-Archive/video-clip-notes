@@ -7,7 +7,7 @@ topics:
     - "features/power-management/power-storage"
     - "features/power-management/power-switch"
     - "satisfactory-updates/released/satisfactory-update-4"
-    - "satisfactory-updates/teasers-trailers"
+    - "satisfactory-updates/teasers-and-trailers"
 ---
 # [February 19th, 2021 Video](../2021-02-19.md)
 ## Intro
@@ -18,7 +18,7 @@ https://youtube.com/embed/Tmpors_r_Vw?autoplay=1&start=0&end=27
 * [Features > Power Management > Power Storage](../topics/features/power-management/power-storage.md)
 * [Features > Power Management > Power Switch](../topics/features/power-management/power-switch.md)
 * [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
-* [Satisfactory Updates > Teasers & Trailers](../topics/satisfactory-updates/teasers-trailers.md)
+* [Satisfactory Updates > Teasers & Trailers](../topics/satisfactory-updates/teasers-and-trailers.md)
 
 ### Transcript
 

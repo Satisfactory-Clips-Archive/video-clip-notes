@@ -9,7 +9,7 @@ topics:
     - "features/buildings"
     - "features/buildings/assembler"
     - "features/buildings/constructor"
-    - "features/buildings/overclocking-underclocking"
+    - "features/buildings/overclocking-and-underclocking"
     - "features/buildings/smelter"
     - "features/crafting"
     - "features/crafting/recipes"
@@ -34,7 +34,7 @@ https://www.youtube.com/watch?v=Q9950uKeMEY
 * [Features > Buildings](../topics/features/buildings.md)
 * [Features > Buildings > Assembler](../topics/features/buildings/assembler.md)
 * [Features > Buildings > Constructor](../topics/features/buildings/constructor.md)
-* [Features > Buildings > Overclocking & Underclocking](../topics/features/buildings/overclocking-underclocking.md)
+* [Features > Buildings > Overclocking & Underclocking](../topics/features/buildings/overclocking-and-underclocking.md)
 * [Features > Buildings > Smelter](../topics/features/buildings/smelter.md)
 * [Features > Crafting](../topics/features/crafting.md)
 * [Features > Crafting > Recipes](../topics/features/crafting/recipes.md)

@@ -4,7 +4,7 @@ date: "2021-03-23"
 layout: transcript
 topics:
     - "environment/plants"
-    - "off-topic/food-drink/bacon"
+    - "off-topic/food-and-drink/bacon"
 ---
 # [March 23rd, 2021 Livestream](../2021-03-23.md)
 ## Community FYI: Need more bacon
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=ISfLwsCt-ug
 
 ### Topics
 * [Environment > Plants](../topics/environment/plants.md)
-* [Off-Topic > Food & Drink > Bacon](../topics/off-topic/food-drink/bacon.md)
+* [Off-Topic > Food & Drink > Bacon](../topics/off-topic/food-and-drink/bacon.md)
 
 ### Transcript
 
