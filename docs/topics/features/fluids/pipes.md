@@ -173,7 +173,7 @@ date: Last Modified
 * [Q&A: Can you talk a little bit about balancing for Pipes?](../../../transcriptions/yt-Pzda6aAHOYQ.md) [https://www.youtube.com/watch?v=Pzda6aAHOYQ](https://www.youtube.com/watch?v=Pzda6aAHOYQ)
 
 ## March 12th, 2020 Patch Notes
-* [Jace Talk: Finding the most amazing pipes](../../../transcriptions/yt-DsbHR1Nc8fw,67.81774999999999,97.51408333333333.md) [https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=67&end=98](https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=67&end=98)
+* [Jace Talk: Finding the most amazing pipes](../../../transcriptions/yt-DsbHR1Nc8fw,67.81774999999999,97.51408333333333.md) [https://youtube.com/clip/UgkxLGSt8NN7xFuWBmIAnZgtBqzTDGqeHIPs](https://youtube.com/clip/UgkxLGSt8NN7xFuWBmIAnZgtBqzTDGqeHIPs)
 * [Jace Talk: We're in an airport](../../../transcriptions/yt-DsbHR1Nc8fw,184.759462,221.864578.md) [https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=184&end=222](https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=184&end=222)
 * [Jace Talk: Searching for pipes in Geneva](../../../transcriptions/yt-DsbHR1Nc8fw,254.54595833333332,274.02375.md) [https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=254&end=275](https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=254&end=275)
 * [Jace Talk: Biiiiig Pipe](../../../transcriptions/yt-DsbHR1Nc8fw,513.8466666666666,523.138287.md) [https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=513&end=524](https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=513&end=524)

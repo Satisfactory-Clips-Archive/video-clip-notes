@@ -4,16 +4,16 @@ date: "2020-03-12"
 layout: transcript
 topics:
     - "features/fluids/pipes"
-    - "off-topic/sweden"
+    - "off-topic/sweden/stockholm"
     - "satisfactory-updates/released/satisfactory-update-3"
 ---
 # [March 12th, 2020 Patch Notes](../2020-03-12.md)
 ## Jace Talk: Finding the most amazing pipes
-https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=67&end=98
+https://youtube.com/clip/UgkxLGSt8NN7xFuWBmIAnZgtBqzTDGqeHIPs
 
 ### Topics
 * [Features > Fluids > Pipes](../topics/features/fluids/pipes.md)
-* [Off-Topic > Sweden](../topics/off-topic/sweden.md)
+* [Off-Topic > Sweden > Stockholm](../topics/off-topic/sweden/stockholm.md)
 * [Satisfactory Updates > Released > Satisfactory Update 3](../topics/satisfactory-updates/released/satisfactory-update-3.md)
 
 ### Transcript

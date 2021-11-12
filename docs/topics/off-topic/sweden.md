@@ -4,11 +4,13 @@ external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEoik7dzzDmMntF6t
 date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Sweden
+* [Gothenburg](../../topics/off-topic/sweden/gothenburg.md)
+* [Skövde](../../topics/off-topic/sweden/skovde.md)
+* [Stockholm](../../topics/off-topic/sweden/stockholm.md)
 
 ## November 2nd, 2021 Livestream
 * [Snutt & Jace Talk: Swedish Healthcare](../../transcriptions/yt-a3OlV_ETZBM.md) [https://www.youtube.com/watch?v=a3OlV_ETZBM](https://www.youtube.com/watch?v=a3OlV_ETZBM)
 * [Q&A: It's already dark?](../../transcriptions/yt-fx4JF3AL83U.md) [https://www.youtube.com/watch?v=fx4JF3AL83U](https://www.youtube.com/watch?v=fx4JF3AL83U)
-* [Q&A: How's the weather?](../../transcriptions/yt-cOCrIn5Fhs4.md) [https://www.youtube.com/watch?v=cOCrIn5Fhs4](https://www.youtube.com/watch?v=cOCrIn5Fhs4)
 
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
 * Q&A: Covid situation in Sweden? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=786&end=806](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=786&end=806)
@@ -35,9 +37,6 @@ date: Last Modified
 
 ## July 13th, 2021 Livestream
 * [Q&A: When are vacations over?](../../transcriptions/yt-47kyeruceXI.md) [https://www.youtube.com/watch?v=47kyeruceXI](https://www.youtube.com/watch?v=47kyeruceXI)
-
-## July 6th, 2021 Livestream
-* [Q&A: Would you choose Vodka or Tequila?](../../transcriptions/yt-Zu95lrXblrk.md) [https://www.youtube.com/watch?v=Zu95lrXblrk](https://www.youtube.com/watch?v=Zu95lrXblrk)
 
 ## June 29th, 2021 Livestream
 * [Q&A: How was Midsummer?](../../transcriptions/yt-U9bVS61gZCE.md) [https://www.youtube.com/watch?v=U9bVS61gZCE](https://www.youtube.com/watch?v=U9bVS61gZCE)
@@ -72,9 +71,6 @@ date: Last Modified
 * [Snutt Talk: Swedish vacations](../../transcriptions/yt-kovWhVSuVhg.md) [https://www.youtube.com/watch?v=kovWhVSuVhg](https://www.youtube.com/watch?v=kovWhVSuVhg)
 * [Community Highlights: 3pm Swedish Fika](../../transcriptions/yt-vBXqwkho_ck.md) [https://www.youtube.com/watch?v=vBXqwkho_ck](https://www.youtube.com/watch?v=vBXqwkho_ck)
 
-## April 20th, 2021 Livestream
-* [Q&A: When are you guys gonna relocate to Stockholm?](../../transcriptions/yt-7AEDyBWasBQ.md) [https://www.youtube.com/watch?v=7AEDyBWasBQ](https://www.youtube.com/watch?v=7AEDyBWasBQ)
-
 ## March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary
 * [Snutt & Jace Talk: The stairs scenes & Swedish shoe habits](../../transcriptions/yt-0hFaZFsmmb8.md) [https://www.youtube.com/watch?v=0hFaZFsmmb8](https://www.youtube.com/watch?v=0hFaZFsmmb8)
 * [Q&A: Is it cold inside?](../../transcriptions/yt--ePXx9kO3uQ.md) [https://www.youtube.com/watch?v=-ePXx9kO3uQ](https://www.youtube.com/watch?v=-ePXx9kO3uQ)
@@ -82,10 +78,6 @@ date: Last Modified
 
 ## December 8th, 2020 Livestream
 * [Q&A: Why do you guys speak English so fluently in Sweden?](../../transcriptions/yt-aFcW-Zs8DzE.md) [https://www.youtube.com/watch?v=aFcW-Zs8DzE](https://www.youtube.com/watch?v=aFcW-Zs8DzE)
-
-## March 12th, 2020 Patch Notes
-* [Jace Talk: Finding the most amazing pipes](../../transcriptions/yt-DsbHR1Nc8fw,67.81774999999999,97.51408333333333.md) [https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=67&end=98](https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=67&end=98)
-* [Jace Talk: Jumbo Stay](../../transcriptions/yt-DsbHR1Nc8fw,160.70220833333332,176.63479166666664.md) [https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=160&end=177](https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=160&end=177)
 
 ## December 19th, 2019 Livestream
 * [Q&A: How much Swedish do you need to know to work at a Swedish company?](../../transcriptions/yt-pm7VqpwLgEE.md) [https://www.youtube.com/watch?v=pm7VqpwLgEE](https://www.youtube.com/watch?v=pm7VqpwLgEE)

@@ -6,7 +6,7 @@ topics:
     - "coffee-stainers/jace"
     - "coffee-stainers/snutt"
     - "off-topic/food-and-drink"
-    - "off-topic/sweden"
+    - "off-topic/sweden/gothenburg"
 ---
 # [July 6th, 2021 Livestream](../2021-07-06.md)
 ## Q&A: Would you choose Vodka or Tequila?
@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=Zu95lrXblrk
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
 * [Coffee Stainers > Snutt](../topics/coffee-stainers/snutt.md)
 * [Off-Topic > Food & Drink](../topics/off-topic/food-and-drink.md)
-* [Off-Topic > Sweden](../topics/off-topic/sweden.md)
+* [Off-Topic > Sweden > Gothenburg](../topics/off-topic/sweden/gothenburg.md)
 
 ### Transcript
 

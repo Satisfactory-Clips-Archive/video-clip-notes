@@ -400,7 +400,6 @@ date: Last Modified
 * [Sanctum](./topics/off-topic/sanctum.md)
 * [Songs of Conquest](./topics/off-topic/songs-of-conquest.md)
 * [Subnautica](./topics/off-topic/subnautica.md)
-* [Sweden](./topics/off-topic/sweden.md)
 * [Terrible Jokes](./topics/off-topic/terrible-jokes.md)
 * [The Cycle](./topics/off-topic/the-cycle.md)
 * [Valheim](./topics/off-topic/valheim.md)
@@ -411,6 +410,12 @@ date: Last Modified
 * [Milk](./topics/off-topic/food-and-drink/milk.md)
 * [Pizza](./topics/off-topic/food-and-drink/pizza.md)
 * [Semlor](./topics/off-topic/food-and-drink/semlor.md)
+---
+
+## [Sweden](./topics/off-topic/sweden.md)
+* [Gothenburg](./topics/off-topic/sweden/gothenburg.md)
+* [Skövde](./topics/off-topic/sweden/skovde.md)
+* [Stockholm](./topics/off-topic/sweden/stockholm.md)
 ---
 * [QA Site](./topics/qa-site.md)
 

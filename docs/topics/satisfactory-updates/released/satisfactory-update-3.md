@@ -81,7 +81,7 @@ date: Last Modified
 * [State of Dev: Update 3, Steam Release](../../../transcriptions/yt-Y__cl6AcRzs.md) [https://www.youtube.com/watch?v=Y__cl6AcRzs](https://www.youtube.com/watch?v=Y__cl6AcRzs)
 
 ## March 12th, 2020 Patch Notes
-* [Jace Talk: Finding the most amazing pipes](../../../transcriptions/yt-DsbHR1Nc8fw,67.81774999999999,97.51408333333333.md) [https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=67&end=98](https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=67&end=98)
+* [Jace Talk: Finding the most amazing pipes](../../../transcriptions/yt-DsbHR1Nc8fw,67.81774999999999,97.51408333333333.md) [https://youtube.com/clip/UgkxLGSt8NN7xFuWBmIAnZgtBqzTDGqeHIPs](https://youtube.com/clip/UgkxLGSt8NN7xFuWBmIAnZgtBqzTDGqeHIPs)
 * [Jace Talk: We're sleeping in a plane, but we won't be adding planes](../../../transcriptions/yt-DsbHR1Nc8fw,123.28983333333332,155.44695833333333.md) [https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=123&end=156](https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=123&end=156)
 * [Jace Talk: Update to the Dune Desert](../../../transcriptions/yt-DsbHR1Nc8fw,221.864578,254.54595833333332.md) [https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=221&end=255](https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=221&end=255)
 * [Jace Talk: The AWESOME Sink](../../../transcriptions/yt-DsbHR1Nc8fw,282.61566666666664,321.02904166666667.md) [https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=282&end=322](https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=282&end=322)

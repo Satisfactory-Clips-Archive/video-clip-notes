@@ -4,7 +4,7 @@ date: "2021-04-20"
 layout: transcript
 topics:
     - "embracer-group/coffee-stain-holding/coffee-stain-north"
-    - "off-topic/sweden"
+    - "off-topic/sweden/stockholm"
 ---
 # [April 20th, 2021 Livestream](../2021-04-20.md)
 ## Q&A: When are you guys gonna relocate to Stockholm?
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=7AEDyBWasBQ
 
 ### Topics
 * [Embracer Group > Coffee Stain Holding > Coffee Stain North](../topics/embracer-group/coffee-stain-holding/coffee-stain-north.md)
-* [Off-Topic > Sweden](../topics/off-topic/sweden.md)
+* [Off-Topic > Sweden > Stockholm](../topics/off-topic/sweden/stockholm.md)
 
 ### Transcript
 

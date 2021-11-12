@@ -3,14 +3,16 @@ title: "November 2nd, 2021 Livestream Q&A: How's the weather?"
 date: "2021-11-02"
 layout: transcript
 topics:
-    - "off-topic/sweden"
+    - "off-topic/sweden/gothenburg"
+    - "off-topic/sweden/skovde"
 ---
 # [November 2nd, 2021 Livestream](../2021-11-02.md)
 ## Q&A: How's the weather?
 https://www.youtube.com/watch?v=cOCrIn5Fhs4
 
 ### Topics
-* [Off-Topic > Sweden](../topics/off-topic/sweden.md)
+* [Off-Topic > Sweden > Gothenburg](../topics/off-topic/sweden/gothenburg.md)
+* [Off-Topic > Sweden > Skövde](../topics/off-topic/sweden/skovde.md)
 
 ### Transcript
 

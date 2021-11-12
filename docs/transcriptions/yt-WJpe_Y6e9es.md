@@ -6,6 +6,7 @@ topics:
     - "coffee-stainers/jace"
     - "coffee-stainers/snutt"
     - "off-topic/sweden"
+    - "off-topic/sweden/stockholm"
 ---
 # [June 29th, 2021 Livestream](../2021-06-29.md)
 ## Q&A: I heard a bunch of appointments opened up in Stockholm today, are you guys getting vaccinated?
@@ -15,6 +16,7 @@ https://www.youtube.com/watch?v=WJpe_Y6e9es
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
 * [Coffee Stainers > Snutt](../topics/coffee-stainers/snutt.md)
 * [Off-Topic > Sweden](../topics/off-topic/sweden.md)
+* [Off-Topic > Sweden > Stockholm](../topics/off-topic/sweden/stockholm.md)
 
 ### Transcript
 

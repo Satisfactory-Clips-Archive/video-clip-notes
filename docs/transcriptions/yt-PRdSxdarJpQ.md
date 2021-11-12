@@ -4,6 +4,7 @@ date: "2021-08-31"
 layout: transcript
 topics:
     - "off-topic/sweden"
+    - "off-topic/sweden/stockholm"
 ---
 # [August 31st, 2021 Livestream](../2021-08-31.md)
 ## Q&A: Do you guys work near Paradox Interactive headquarters in Sweden?
@@ -11,6 +12,7 @@ https://www.youtube.com/watch?v=PRdSxdarJpQ
 
 ### Topics
 * [Off-Topic > Sweden](../topics/off-topic/sweden.md)
+* [Off-Topic > Sweden > Stockholm](../topics/off-topic/sweden/stockholm.md)
 
 ### Transcript
 

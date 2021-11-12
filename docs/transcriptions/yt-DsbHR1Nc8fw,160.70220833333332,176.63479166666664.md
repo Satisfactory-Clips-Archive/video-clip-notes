@@ -3,14 +3,14 @@ title: "March 12th, 2020 Patch Notes Jace Talk: Jumbo Stay"
 date: "2020-03-12"
 layout: transcript
 topics:
-    - "off-topic/sweden"
+    - "off-topic/sweden/stockholm"
 ---
 # [March 12th, 2020 Patch Notes](../2020-03-12.md)
 ## Jace Talk: Jumbo Stay
-https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=160&end=177
+https://youtube.com/clip/UgkxuW3BRLPppQdYXg-pq_qqtObfKDxsOXRY
 
 ### Topics
-* [Off-Topic > Sweden](../topics/off-topic/sweden.md)
+* [Off-Topic > Sweden > Stockholm](../topics/off-topic/sweden/stockholm.md)
 
 ### Transcript
 
