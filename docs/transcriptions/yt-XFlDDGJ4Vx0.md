@@ -20,7 +20,7 @@ https://www.youtube.com/watch?v=XFlDDGJ4Vx0
 * [September 22nd, 2020 Livestream Q&A: Snowy Biome confirmed?](./yt-Yend7bHTMvw.md) [https://www.youtube.com/watch?v=Yend7bHTMvw](https://www.youtube.com/watch?v=Yend7bHTMvw)
 * [September 15th, 2020 Livestream Q&A: Snow Area Confirmed?](./yt-yUDtq7D8XU8.md) [https://www.youtube.com/watch?v=yUDtq7D8XU8](https://www.youtube.com/watch?v=yUDtq7D8XU8)
 * August 18th, 2020 Livestream Q&A: Any ice/snow biome plans? [https://clips.twitch.tv/AlluringScrumptiousBaboonHeyGirl](https://clips.twitch.tv/AlluringScrumptiousBaboonHeyGirl)
-* [February 20th, 2019 Livestream Q&A: What about Snow in the game's future?](./yt-CB9bSigNYH8,5186.033333333334,5200.942785.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5186&end=5201](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5186&end=5201)
+* [February 20th, 2019 Livestream Q&A: What about Snow in the game's future?](./yt-CB9bSigNYH8,5186.033333333334,5200.942785.md) [https://youtube.com/clip/UgkxcKY1a-oHBDSLxA4CqM8L-4h33KcWXZ9H](https://youtube.com/clip/UgkxcKY1a-oHBDSLxA4CqM8L-4h33KcWXZ9H)
 </details>
 
 

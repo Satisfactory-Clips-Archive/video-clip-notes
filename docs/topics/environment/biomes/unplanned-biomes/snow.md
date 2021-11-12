@@ -47,5 +47,5 @@ date: Last Modified
 * [Q&A: Did we miss any announcements?](../../../../transcriptions/yt-Ws7_PXlK14g.md) [https://www.youtube.com/watch?v=Ws7_PXlK14g](https://www.youtube.com/watch?v=Ws7_PXlK14g)
 
 ## February 20th, 2019 Livestream
-* [Q&A: What about Snow in the game's future?](../../../../transcriptions/yt-CB9bSigNYH8,5186.033333333334,5200.942785.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5186&end=5201](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5186&end=5201)
-* [Q&A: Will there be seasons?](../../../../transcriptions/yt-CB9bSigNYH8,5450.593416,5454.661311.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5450&end=5455](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5450&end=5455)
+* [Q&A: What about Snow in the game's future?](../../../../transcriptions/yt-CB9bSigNYH8,5186.033333333334,5200.942785.md) [https://youtube.com/clip/UgkxcKY1a-oHBDSLxA4CqM8L-4h33KcWXZ9H](https://youtube.com/clip/UgkxcKY1a-oHBDSLxA4CqM8L-4h33KcWXZ9H)
+* [Q&A: Will there be seasons?](../../../../transcriptions/yt-CB9bSigNYH8,5450.593416,5454.661311.md) [https://youtube.com/clip/Ugkxi7UT-Gx9o9u3BFi1Ibl7cy8iBJBql0L4](https://youtube.com/clip/Ugkxi7UT-Gx9o9u3BFi1Ibl7cy8iBJBql0L4)

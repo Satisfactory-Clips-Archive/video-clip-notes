@@ -9,7 +9,7 @@ topics:
 ---
 # [February 20th, 2019 Livestream](../2019-02-20.md)
 ## Q&A: What about Snow in the game's future?
-https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5186&end=5201
+https://youtube.com/clip/UgkxcKY1a-oHBDSLxA4CqM8L-4h33KcWXZ9H
 This question was possibly duplicated with a more recent answer: [September 28th, 2021 Livestream Q&A: Like arctic mountain?](./yt-XFlDDGJ4Vx0.md) [https://www.youtube.com/watch?v=XFlDDGJ4Vx0](https://www.youtube.com/watch?v=XFlDDGJ4Vx0)
 
 
