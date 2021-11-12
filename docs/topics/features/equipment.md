@@ -29,14 +29,8 @@ date: Last Modified
 ## October 5th, 2021 Livestream
 * [Q&A: Can we blow up the Trains?](../../transcriptions/yt-HYFYwqyhl_g.md) [https://www.youtube.com/watch?v=HYFYwqyhl_g](https://www.youtube.com/watch?v=HYFYwqyhl_g)
 
-## September 28th, 2021 Livestream
-* [Q&A: Will coffee cup look different in Update 5?](../../transcriptions/yt-Mr80G3BjkDg.md) [https://www.youtube.com/watch?v=Mr80G3BjkDg](https://www.youtube.com/watch?v=Mr80G3BjkDg)
-
 ## September 21st, 2021 Livestream
 * [Q&A: Why is there no laser gun?](../../transcriptions/yt-cvvpoBzS7DM.md) [https://www.youtube.com/watch?v=cvvpoBzS7DM](https://www.youtube.com/watch?v=cvvpoBzS7DM)
-
-## September 7th, 2021 Livestream
-* [Q&A: Any news on switching the Mug from porcelain to metal?](../../transcriptions/yt-X7Eu3q-Y5Z8.md) [https://www.youtube.com/watch?v=X7Eu3q-Y5Z8](https://www.youtube.com/watch?v=X7Eu3q-Y5Z8)
 
 ## August 31st, 2021 Livestream
 * [Q&A: Black Powder & Iron to make bullets, machine gun for Base Defense?](../../transcriptions/yt-9q4EKEuu5R0.md) [https://www.youtube.com/watch?v=9q4EKEuu5R0](https://www.youtube.com/watch?v=9q4EKEuu5R0)
@@ -83,7 +77,6 @@ date: Last Modified
 * [Q&A: Will the Rebar shotgun come back?](../../transcriptions/yt-p7aALqL6xlo.md) [https://www.youtube.com/watch?v=p7aALqL6xlo](https://www.youtube.com/watch?v=p7aALqL6xlo)
 
 ## May 11th, 2021 Livestream
-* [Q&A: Mug?](../../transcriptions/yt-MNWvQrzo_Rk.md) [https://www.youtube.com/watch?v=MNWvQrzo_Rk](https://www.youtube.com/watch?v=MNWvQrzo_Rk)
 * [Q&A: Why can't you reload the bullets into the clips once you use so you don't waste any clips?](../../transcriptions/yt-ROevp5t8k6Y.md) [https://www.youtube.com/watch?v=ROevp5t8k6Y](https://www.youtube.com/watch?v=ROevp5t8k6Y)
 * [Q&A: More weapons?](../../transcriptions/yt-oxRXMC8b2q8.md) [https://www.youtube.com/watch?v=oxRXMC8b2q8](https://www.youtube.com/watch?v=oxRXMC8b2q8)
 

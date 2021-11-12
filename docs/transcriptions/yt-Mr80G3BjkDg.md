@@ -3,7 +3,7 @@ title: "September 28th, 2021 Livestream Q&A: Will coffee cup look different in U
 date: "2021-09-28"
 layout: transcript
 topics:
-    - "features/equipment"
+    - "features/equipment/cup"
     - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [September 28th, 2021 Livestream](../2021-09-28.md)
@@ -11,7 +11,7 @@ topics:
 https://www.youtube.com/watch?v=Mr80G3BjkDg
 
 ### Topics
-* [Features > Equipment](../topics/features/equipment.md)
+* [Features > Equipment > Cup](../topics/features/equipment/cup.md)
 * [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript

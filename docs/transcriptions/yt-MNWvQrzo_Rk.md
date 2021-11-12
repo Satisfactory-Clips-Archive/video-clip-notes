@@ -3,7 +3,7 @@ title: "May 11th, 2021 Livestream Q&A: Mug?"
 date: "2021-05-11"
 layout: transcript
 topics:
-    - "features/equipment"
+    - "features/equipment/cup"
     - "merch"
     - "off-topic/terrible-jokes"
 ---
@@ -14,7 +14,7 @@ This question was possibly duplicated with a more recent answer: [November 2nd, 
 
 
 ### Topics
-* [Features > Equipment](../topics/features/equipment.md)
+* [Features > Equipment > Cup](../topics/features/equipment/cup.md)
 * [Merch](../topics/merch.md)
 * [Off-Topic > Terrible Jokes](../topics/off-topic/terrible-jokes.md)
 
