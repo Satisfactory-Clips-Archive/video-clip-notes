@@ -22,7 +22,7 @@ date: Last Modified
 * [Q&A: Please play "Free Bird" on your guitar](../../transcriptions/yt-r9qe4DSkzck.md) [https://www.youtube.com/watch?v=r9qe4DSkzck](https://www.youtube.com/watch?v=r9qe4DSkzck)
 * [Community FYI: Snutt knows nothing, confirmed](../../transcriptions/yt-865hBBU1Ve0.md) [https://www.youtube.com/watch?v=865hBBU1Ve0](https://www.youtube.com/watch?v=865hBBU1Ve0)
 
-## November 5th, 2021 Livestream
+## November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary
 * [Snutt & Jace Talk: Vinyl, gaming against bots, don't think](../../transcriptions/yt-wjAS8c-jOLM.md) [https://www.youtube.com/watch?v=wjAS8c-jOLM](https://www.youtube.com/watch?v=wjAS8c-jOLM)
 * [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 10)](../../transcriptions/yt-MI6L900el4w.md) [https://www.youtube.com/watch?v=MI6L900el4w](https://www.youtube.com/watch?v=MI6L900el4w)
 * [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 17)](../../transcriptions/yt-n8kC_hOCn6o.md) [https://www.youtube.com/watch?v=n8kC_hOCn6o](https://www.youtube.com/watch?v=n8kC_hOCn6o)

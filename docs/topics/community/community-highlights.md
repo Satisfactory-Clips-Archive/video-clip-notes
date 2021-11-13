@@ -9,7 +9,7 @@ date: Last Modified
 * [Snutt Talk: Post-Update 5 proliferation of submissions](../../transcriptions/yt-zS6RdxeGvP4.md) [https://www.youtube.com/watch?v=zS6RdxeGvP4](https://www.youtube.com/watch?v=zS6RdxeGvP4)
 * [Community FYI: Just go to the Food Court](../../transcriptions/yt-oOuTpP3Dgdo.md) [https://www.youtube.com/watch?v=oOuTpP3Dgdo](https://www.youtube.com/watch?v=oOuTpP3Dgdo)
 
-## November 5th, 2021 Livestream
+## November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary
 * [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 15)](../../transcriptions/yt-El1sKfDOaLk.md) [https://www.youtube.com/watch?v=El1sKfDOaLk](https://www.youtube.com/watch?v=El1sKfDOaLk)
 * [Snutt & Jace Talk: Post Update 5 Community Highlights](../../transcriptions/yt-Rbs-Cy16XpY.md) [https://www.youtube.com/watch?v=Rbs-Cy16XpY](https://www.youtube.com/watch?v=Rbs-Cy16XpY)
 

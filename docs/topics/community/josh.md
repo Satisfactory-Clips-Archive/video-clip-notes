@@ -5,7 +5,7 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Josh
 
-## November 5th, 2021 Livestream
+## November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary
 * [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 59)](../../transcriptions/yt-uPDk0K7nm-o.md) [https://www.youtube.com/watch?v=uPDk0K7nm-o](https://www.youtube.com/watch?v=uPDk0K7nm-o)
 * [Q&A: Maybe do a voiceover for one of Josh's videos?](../../transcriptions/yt-C903038rHqU.md) [https://www.youtube.com/watch?v=C903038rHqU](https://www.youtube.com/watch?v=C903038rHqU)
 

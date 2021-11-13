@@ -1,12 +1,12 @@
 ---
-title: "November 5th, 2021 Livestream Snutt & Jace Talk: What do we do now?"
+title: "November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary Snutt & Jace Talk: What do we do now?"
 date: "2021-11-05"
 layout: transcript
 topics:
     - "coffee-stainers/jace"
     - "coffee-stainers/snutt"
 ---
-# [November 5th, 2021 Livestream](../2021-11-05.md)
+# [November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary](../2021-11-05.md)
 ## Snutt & Jace Talk: What do we do now?
 https://www.youtube.com/watch?v=a1qnKhjRJO8
 

@@ -5,7 +5,7 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Equipment](../../../topics/features/equipment.md) > Hover Pack
 
-## November 5th, 2021 Livestream
+## November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary
 * [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 14)](../../../transcriptions/yt-hogdxF1ITbc.md) [https://www.youtube.com/watch?v=hogdxF1ITbc](https://www.youtube.com/watch?v=hogdxF1ITbc)
 
 ## June 22nd, 2021 Livestream

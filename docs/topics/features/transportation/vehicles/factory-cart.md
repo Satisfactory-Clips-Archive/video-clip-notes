@@ -10,7 +10,7 @@ date: Last Modified
 * [Community FYI: You don't get fall damage if you're in the Factory Cart (Part 2)](../../../../transcriptions/yt-pgEhwpjcqw8.md) [https://www.youtube.com/watch?v=pgEhwpjcqw8](https://www.youtube.com/watch?v=pgEhwpjcqw8)
 * [Q&A: If Factory Cart is the only good Vehicle, when will be able to replace Trains with it?](../../../../transcriptions/yt-WemkAmsN1xM.md) [https://www.youtube.com/watch?v=WemkAmsN1xM](https://www.youtube.com/watch?v=WemkAmsN1xM)
 
-## November 5th, 2021 Livestream
+## November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary
 * [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 36)](../../../../transcriptions/yt-CfvrpfZdRQI.md) [https://www.youtube.com/watch?v=CfvrpfZdRQI](https://www.youtube.com/watch?v=CfvrpfZdRQI)
 
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video

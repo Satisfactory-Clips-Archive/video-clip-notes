@@ -10,7 +10,7 @@ date: Last Modified
 * [Community FYI: If a QA Site Post reaches 2500, it gets auto-rejected](../transcriptions/yt-jMtXOWsfTKw.md) [https://www.youtube.com/watch?v=jMtXOWsfTKw](https://www.youtube.com/watch?v=jMtXOWsfTKw)
 * [Q&A: Will you be adding an in-game ticket support system?](../transcriptions/yt-ChCuooOylV4.md) [https://www.youtube.com/watch?v=ChCuooOylV4](https://www.youtube.com/watch?v=ChCuooOylV4)
 
-## November 5th, 2021 Livestream
+## November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary
 * [Community FYI: Checked for rejected QA as soon as the video was over](../transcriptions/yt-2usvBK3tqEw.md) [https://www.youtube.com/watch?v=2usvBK3tqEw](https://www.youtube.com/watch?v=2usvBK3tqEw)
 
 ## November 2nd, 2021 Livestream

@@ -14,7 +14,7 @@ date: Last Modified
 * [User Interface](../topics/technology/user-interface.md)
 * [Vulkan](../topics/technology/vulkan.md)
 
-## November 5th, 2021 Livestream
+## November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary
 * [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 3)](../transcriptions/yt-FpTOxMOD6LU.md) [https://www.youtube.com/watch?v=FpTOxMOD6LU](https://www.youtube.com/watch?v=FpTOxMOD6LU)
 
 ## October 5th, 2021 Livestream

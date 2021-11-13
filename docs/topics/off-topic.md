@@ -23,7 +23,7 @@ date: Last Modified
 ## November 9th, 2021 Livestream
 * [Q&A: How to remove coffee stain from carpet?](../transcriptions/yt-iRamlC8l2C4.md) [https://www.youtube.com/watch?v=iRamlC8l2C4](https://www.youtube.com/watch?v=iRamlC8l2C4)
 
-## November 5th, 2021 Livestream
+## November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary
 * [Snutt & Jace Talk: Vinyl, gaming against bots, don't think](../transcriptions/yt-wjAS8c-jOLM.md) [https://www.youtube.com/watch?v=wjAS8c-jOLM](https://www.youtube.com/watch?v=wjAS8c-jOLM)
 * [Community FYI: There's a game called "Golf Story" that makes fun of Golf culture](../transcriptions/yt-lZtUUmd8igE.md) [https://www.youtube.com/watch?v=lZtUUmd8igE](https://www.youtube.com/watch?v=lZtUUmd8igE)
 

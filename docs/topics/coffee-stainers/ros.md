@@ -5,7 +5,7 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Ros
 
-## November 5th, 2021 Livestream
+## November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary
 * [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 26)](../../transcriptions/yt-_N3g-EVfJl4.md) [https://www.youtube.com/watch?v=_N3g-EVfJl4](https://www.youtube.com/watch?v=_N3g-EVfJl4)
 
 ## February 2nd, 2021 Livestream

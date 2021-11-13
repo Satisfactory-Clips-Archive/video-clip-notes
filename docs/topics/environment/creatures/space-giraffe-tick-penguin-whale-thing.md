@@ -5,7 +5,7 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Creatures](../../../topics/environment/creatures.md) > Space Giraffe-Tick-Penguin-Whale Thing
 
-## November 5th, 2021 Livestream
+## November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary
 * [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 20)](../../../transcriptions/yt-VoLPxETf3gk.md) [https://www.youtube.com/watch?v=VoLPxETf3gk](https://www.youtube.com/watch?v=VoLPxETf3gk)
 
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video

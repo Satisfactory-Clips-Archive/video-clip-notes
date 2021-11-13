@@ -37,7 +37,7 @@ date: Last Modified
 * [Torsten](../topics/coffee-stainers/torsten.md)
 * [Uzu](../topics/coffee-stainers/uzu.md)
 
-## November 5th, 2021 Livestream
+## November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary
 * [Community FYI: Jace, you should do group iron man with some Coffee Stainers](../transcriptions/yt-6ln9Rgr3MI0.md) [https://www.youtube.com/watch?v=6ln9Rgr3MI0](https://www.youtube.com/watch?v=6ln9Rgr3MI0)
 
 ## November 2nd, 2021 Livestream

@@ -5,7 +5,7 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Embracer Group](../../../topics/embracer-group.md) > [THQ Nordic](../../../topics/embracer-group/thq-nordic.md) > Lars
 
-## November 5th, 2021 Livestream
+## November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary
 * [Community FYI: Big fan of the biiiig reference from Lars](../../../transcriptions/yt-vKEZETKhaxw.md) [https://www.youtube.com/watch?v=vKEZETKhaxw](https://www.youtube.com/watch?v=vKEZETKhaxw)
 
 ## August 10th, 2021 Livestream

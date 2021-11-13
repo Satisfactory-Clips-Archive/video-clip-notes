@@ -28,7 +28,7 @@ date: Last Modified
 * [Snutt Talk: Post-Update 5 proliferation of submissions](../transcriptions/yt-zS6RdxeGvP4.md) [https://www.youtube.com/watch?v=zS6RdxeGvP4](https://www.youtube.com/watch?v=zS6RdxeGvP4)
 * [Q&A: Could you guys please try to make the game a bit worse- I'd like try other games?](../transcriptions/yt-HCnyDUXxlKM.md) [https://www.youtube.com/watch?v=HCnyDUXxlKM](https://www.youtube.com/watch?v=HCnyDUXxlKM)
 
-## November 5th, 2021 Livestream
+## November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary
 * [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 1)](../transcriptions/yt-6xKMiQJdZxg.md) [https://www.youtube.com/watch?v=6xKMiQJdZxg](https://www.youtube.com/watch?v=6xKMiQJdZxg)
 * Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 4) [https://www.youtube.com/watch?v=OR-FkU0jKCs](https://www.youtube.com/watch?v=OR-FkU0jKCs)
 * [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 9)](../transcriptions/yt-7ACxbeniulk.md) [https://www.youtube.com/watch?v=7ACxbeniulk](https://www.youtube.com/watch?v=7ACxbeniulk)

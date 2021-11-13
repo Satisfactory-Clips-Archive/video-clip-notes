@@ -5,7 +5,7 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Teasers & Trailers](../../../topics/satisfactory-updates/teasers-and-trailers.md) > Update 3 Reveal Trailer
 
-## November 5th, 2021 Livestream
+## November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary
 * Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 4) [https://www.youtube.com/watch?v=OR-FkU0jKCs](https://www.youtube.com/watch?v=OR-FkU0jKCs)
 
 ## October 19th, 2021 Livestream

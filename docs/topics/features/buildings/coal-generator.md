@@ -8,7 +8,7 @@ date: Last Modified
 ## November 9th, 2021 Livestream
 * [Q&A: How does Water work, I need help with my Coal Generators?](../../../transcriptions/yt-Lgaj7mVtT8I.md) [https://www.youtube.com/watch?v=Lgaj7mVtT8I](https://www.youtube.com/watch?v=Lgaj7mVtT8I)
 
-## November 5th, 2021 Livestream
+## November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary
 * [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 13)](../../../transcriptions/yt-vhvpoKYGVbM.md) [https://www.youtube.com/watch?v=vhvpoKYGVbM](https://www.youtube.com/watch?v=vhvpoKYGVbM)
 
 ## June 1st, 2021 Livestream

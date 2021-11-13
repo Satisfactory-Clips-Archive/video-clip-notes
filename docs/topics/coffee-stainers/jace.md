@@ -18,7 +18,7 @@ date: Last Modified
 * Q&A: Is Jace working on the Friday video, or Snutt? [https://www.youtube.com/watch?v=f2jATLfLeBY](https://www.youtube.com/watch?v=f2jATLfLeBY)
 * [Community FYI: Time flies when you're having fun](../../transcriptions/yt-OGYl_jNeQNI.md) [https://www.youtube.com/watch?v=OGYl_jNeQNI](https://www.youtube.com/watch?v=OGYl_jNeQNI)
 
-## November 5th, 2021 Livestream
+## November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary
 * [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 1)](../../transcriptions/yt-6xKMiQJdZxg.md) [https://www.youtube.com/watch?v=6xKMiQJdZxg](https://www.youtube.com/watch?v=6xKMiQJdZxg)
 * [Snutt & Jace Talk: Vinyl, gaming against bots, don't think](../../transcriptions/yt-wjAS8c-jOLM.md) [https://www.youtube.com/watch?v=wjAS8c-jOLM](https://www.youtube.com/watch?v=wjAS8c-jOLM)
 * [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 17)](../../transcriptions/yt-n8kC_hOCn6o.md) [https://www.youtube.com/watch?v=n8kC_hOCn6o](https://www.youtube.com/watch?v=n8kC_hOCn6o)

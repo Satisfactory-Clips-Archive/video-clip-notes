@@ -1,5 +1,5 @@
 ---
-title: "November 5th, 2021 Livestream Q&A: Did Jace's HelloFresh already arrive this week?"
+title: "November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary Q&A: Did Jace's HelloFresh already arrive this week?"
 date: "2021-11-05"
 layout: transcript
 topics:
@@ -7,7 +7,7 @@ topics:
     - "satisfactory-updates/teasers-and-trailers/update-5-launch-stream"
     - "satisfactory-updates/teasers-and-trailers/update-5-patch-notes-video"
 ---
-# [November 5th, 2021 Livestream](../2021-11-05.md)
+# [November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary](../2021-11-05.md)
 ## Q&A: Did Jace's HelloFresh already arrive this week?
 https://www.youtube.com/watch?v=UnXNb3M5T_Y
 

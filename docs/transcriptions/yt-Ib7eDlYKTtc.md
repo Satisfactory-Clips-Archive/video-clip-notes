@@ -1,5 +1,5 @@
 ---
-title: "November 5th, 2021 Livestream Q&A: Were you guys tempted to tease Signs?"
+title: "November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary Q&A: Were you guys tempted to tease Signs?"
 date: "2021-11-05"
 layout: transcript
 topics:
@@ -7,7 +7,7 @@ topics:
     - "satisfactory-updates/teasers-and-trailers/update-5-patch-notes-video"
     - "satisfactory-updates/teasers-and-trailers/update-5-teasers"
 ---
-# [November 5th, 2021 Livestream](../2021-11-05.md)
+# [November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary](../2021-11-05.md)
 ## Q&A: Were you guys tempted to tease Signs?
 https://www.youtube.com/watch?v=Ib7eDlYKTtc
 

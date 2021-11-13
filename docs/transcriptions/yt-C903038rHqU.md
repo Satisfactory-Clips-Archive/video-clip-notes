@@ -1,5 +1,5 @@
 ---
-title: "November 5th, 2021 Livestream Q&A: Maybe do a voiceover for one of Josh's videos?"
+title: "November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary Q&A: Maybe do a voiceover for one of Josh's videos?"
 date: "2021-11-05"
 layout: transcript
 topics:
@@ -7,7 +7,7 @@ topics:
     - "community/josh"
     - "satisfactory-updates/teasers-and-trailers/update-5-patch-notes-video"
 ---
-# [November 5th, 2021 Livestream](../2021-11-05.md)
+# [November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary](../2021-11-05.md)
 ## Q&A: Maybe do a voiceover for one of Josh's videos?
 https://www.youtube.com/watch?v=C903038rHqU
 

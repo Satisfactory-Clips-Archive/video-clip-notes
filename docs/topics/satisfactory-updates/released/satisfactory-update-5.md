@@ -23,7 +23,7 @@ date: Last Modified
 * [Q&A: When is the EA release?](../../../transcriptions/yt-Jvoyj5jezKI.md) [https://www.youtube.com/watch?v=Jvoyj5jezKI](https://www.youtube.com/watch?v=Jvoyj5jezKI)
 * [Q&A: When is Update 5 coming out of beta?](../../../transcriptions/yt-fD5bj01dx4Q.md) [https://www.youtube.com/watch?v=fD5bj01dx4Q](https://www.youtube.com/watch?v=fD5bj01dx4Q)
 
-## November 5th, 2021 Livestream
+## November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary
 * [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 16)](../../../transcriptions/yt-YFfud0NwaGk.md) [https://www.youtube.com/watch?v=YFfud0NwaGk](https://www.youtube.com/watch?v=YFfud0NwaGk)
 * [Snutt & Jace Talk: Post Update 5 Community Highlights](../../../transcriptions/yt-Rbs-Cy16XpY.md) [https://www.youtube.com/watch?v=Rbs-Cy16XpY](https://www.youtube.com/watch?v=Rbs-Cy16XpY)
 

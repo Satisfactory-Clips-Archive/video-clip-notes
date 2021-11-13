@@ -1,11 +1,11 @@
 ---
-title: "November 5th, 2021 Livestream Q&A: Is the Patch Notes VOD still on your channel, or are the clips all that remain?"
+title: "November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary Q&A: Is the Patch Notes VOD still on your channel, or are the clips all that remain?"
 date: "2021-11-05"
 layout: transcript
 topics:
     - "satisfactory-updates/teasers-and-trailers/update-4-patch-notes-video"
 ---
-# [November 5th, 2021 Livestream](../2021-11-05.md)
+# [November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary](../2021-11-05.md)
 ## Q&A: Is the Patch Notes VOD still on your channel, or are the clips all that remain?
 https://www.youtube.com/watch?v=V_YXOp7VQqc
 

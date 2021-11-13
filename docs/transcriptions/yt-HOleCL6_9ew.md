@@ -1,12 +1,12 @@
 ---
-title: "November 5th, 2021 Livestream Q&A: Are the crash physics fully deterministic or will they crash the same way every time?"
+title: "November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary Q&A: Are the crash physics fully deterministic or will they crash the same way every time?"
 date: "2021-11-05"
 layout: transcript
 topics:
     - "features/transportation/trains/train-signals"
     - "satisfactory-updates/teasers-and-trailers/update-5-patch-notes-video"
 ---
-# [November 5th, 2021 Livestream](../2021-11-05.md)
+# [November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary](../2021-11-05.md)
 ## Q&A: Are the crash physics fully deterministic or will they crash the same way every time?
 https://www.youtube.com/watch?v=HOleCL6_9ew
 

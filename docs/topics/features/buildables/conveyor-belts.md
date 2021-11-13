@@ -13,7 +13,7 @@ date: Last Modified
 * [Q&A: Will Programmable Splitters ever get a copy & paste feature?](../../../transcriptions/yt-P86fRw4YeZc.md) [https://www.youtube.com/watch?v=P86fRw4YeZc](https://www.youtube.com/watch?v=P86fRw4YeZc)
 * [Q&A: Why is the Mk.3 Conveyor 270?](../../../transcriptions/yt-n0XUhvc98mo.md) [https://www.youtube.com/watch?v=n0XUhvc98mo](https://www.youtube.com/watch?v=n0XUhvc98mo)
 
-## November 5th, 2021 Livestream
+## November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary
 * [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 16)](../../../transcriptions/yt-YFfud0NwaGk.md) [https://www.youtube.com/watch?v=YFfud0NwaGk](https://www.youtube.com/watch?v=YFfud0NwaGk)
 * [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 27)](../../../transcriptions/yt-V4Xb7i8jMww.md) [https://www.youtube.com/watch?v=V4Xb7i8jMww](https://www.youtube.com/watch?v=V4Xb7i8jMww)
 

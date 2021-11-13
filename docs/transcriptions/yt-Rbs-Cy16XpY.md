@@ -1,12 +1,12 @@
 ---
-title: "November 5th, 2021 Livestream Snutt & Jace Talk: Post Update 5 Community Highlights"
+title: "November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary Snutt & Jace Talk: Post Update 5 Community Highlights"
 date: "2021-11-05"
 layout: transcript
 topics:
     - "community/community-highlights"
     - "satisfactory-updates/released/satisfactory-update-5"
 ---
-# [November 5th, 2021 Livestream](../2021-11-05.md)
+# [November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary](../2021-11-05.md)
 ## Snutt & Jace Talk: Post Update 5 Community Highlights
 https://www.youtube.com/watch?v=Rbs-Cy16XpY
 

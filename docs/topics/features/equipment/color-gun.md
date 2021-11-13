@@ -10,7 +10,7 @@ date: Last Modified
 * [Community FYI: Customizer Wars](../../../transcriptions/yt-Bqebo7gBZmY.md) [https://www.youtube.com/watch?v=Bqebo7gBZmY](https://www.youtube.com/watch?v=Bqebo7gBZmY)
 * [Q&A: What are swatches?](../../../transcriptions/yt-RSrD8CqsUA8.md) [https://www.youtube.com/watch?v=RSrD8CqsUA8](https://www.youtube.com/watch?v=RSrD8CqsUA8)
 
-## November 5th, 2021 Livestream
+## November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary
 * [Community FYI: I miss the Color Gun](../../../transcriptions/yt-LYeoi1sEefU.md) [https://www.youtube.com/watch?v=LYeoi1sEefU](https://www.youtube.com/watch?v=LYeoi1sEefU)
 * [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 68)](../../../transcriptions/yt-kgYHTAd18Pc.md) [https://www.youtube.com/watch?v=kgYHTAd18Pc](https://www.youtube.com/watch?v=kgYHTAd18Pc)
 

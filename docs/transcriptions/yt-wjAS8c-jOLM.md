@@ -1,5 +1,5 @@
 ---
-title: "November 5th, 2021 Livestream Snutt & Jace Talk: Vinyl, gaming against bots, don't think"
+title: "November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary Snutt & Jace Talk: Vinyl, gaming against bots, don't think"
 date: "2021-11-05"
 layout: transcript
 topics:
@@ -8,7 +8,7 @@ topics:
     - "coffee-stainers/snutt"
     - "off-topic"
 ---
-# [November 5th, 2021 Livestream](../2021-11-05.md)
+# [November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary](../2021-11-05.md)
 ## Snutt & Jace Talk: Vinyl, gaming against bots, don't think
 https://www.youtube.com/watch?v=wjAS8c-jOLM
 

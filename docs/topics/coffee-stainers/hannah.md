@@ -6,7 +6,7 @@ date: Last Modified
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Hannah
 * [Coffee Stainers can't pronounce Hannah's last name](../../topics/coffee-stainers/hannah/coffee-stainers-cant-pronounce-hannahs-last-name.md)
 
-## November 5th, 2021 Livestream
+## November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary
 * [Snutt & Jace Talk: Vinyl, gaming against bots, don't think](../../transcriptions/yt-wjAS8c-jOLM.md) [https://www.youtube.com/watch?v=wjAS8c-jOLM](https://www.youtube.com/watch?v=wjAS8c-jOLM)
 
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video

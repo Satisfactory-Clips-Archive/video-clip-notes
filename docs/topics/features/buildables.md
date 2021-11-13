@@ -25,7 +25,7 @@ date: Last Modified
 * [Q&A: Is there any idea on improving the order of items you place?](../../transcriptions/yt-ewSNOJgHryQ.md) [https://www.youtube.com/watch?v=ewSNOJgHryQ](https://www.youtube.com/watch?v=ewSNOJgHryQ)
 * [Q&A: Will there be improvements to hit boxes, specifically for Power Poles between two Constructors?](../../transcriptions/yt-l75JZF14dbY.md) [https://www.youtube.com/watch?v=l75JZF14dbY](https://www.youtube.com/watch?v=l75JZF14dbY)
 
-## November 5th, 2021 Livestream
+## November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary
 * [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 12)](../../transcriptions/yt-bFyLzQZq4ys.md) [https://www.youtube.com/watch?v=bFyLzQZq4ys](https://www.youtube.com/watch?v=bFyLzQZq4ys)
 * [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 48)](../../transcriptions/yt-yXt0i77bv6k.md) [https://www.youtube.com/watch?v=yXt0i77bv6k](https://www.youtube.com/watch?v=yXt0i77bv6k)
 

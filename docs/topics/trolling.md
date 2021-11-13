@@ -10,7 +10,7 @@ date: Last Modified
 * [Community FYI: If a QA Site Post reaches 2500, it gets auto-rejected](../transcriptions/yt-jMtXOWsfTKw.md) [https://www.youtube.com/watch?v=jMtXOWsfTKw](https://www.youtube.com/watch?v=jMtXOWsfTKw)
 * [Q&A: Please play "Free Bird" on your guitar](../transcriptions/yt-r9qe4DSkzck.md) [https://www.youtube.com/watch?v=r9qe4DSkzck](https://www.youtube.com/watch?v=r9qe4DSkzck)
 
-## November 5th, 2021 Livestream
+## November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary
 * [Q&A: Can we get it on VHS?](../transcriptions/yt-i-_aB4wZIKs.md) [https://www.youtube.com/watch?v=i-_aB4wZIKs](https://www.youtube.com/watch?v=i-_aB4wZIKs)
 * [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 37)](../transcriptions/yt-o4WzAPUM30g.md) [https://www.youtube.com/watch?v=o4WzAPUM30g](https://www.youtube.com/watch?v=o4WzAPUM30g)
 * [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 58)](../transcriptions/yt-u5Xsk8BfRfc.md) [https://www.youtube.com/watch?v=u5Xsk8BfRfc](https://www.youtube.com/watch?v=u5Xsk8BfRfc)

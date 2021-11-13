@@ -9,7 +9,7 @@ date: Last Modified
 * [Q&A: Golf, when?](../../../transcriptions/yt-kYn6eCYtK6w.md) [https://www.youtube.com/watch?v=kYn6eCYtK6w](https://www.youtube.com/watch?v=kYn6eCYtK6w)
 * [Community FYI: If a QA Site Post reaches 2500, it gets auto-rejected](../../../transcriptions/yt-jMtXOWsfTKw.md) [https://www.youtube.com/watch?v=jMtXOWsfTKw](https://www.youtube.com/watch?v=jMtXOWsfTKw)
 
-## November 5th, 2021 Livestream
+## November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary
 * Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 4) [https://www.youtube.com/watch?v=OR-FkU0jKCs](https://www.youtube.com/watch?v=OR-FkU0jKCs)
 * [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 7)](../../../transcriptions/yt-Z9FAXoysVuc.md) [https://www.youtube.com/watch?v=Z9FAXoysVuc](https://www.youtube.com/watch?v=Z9FAXoysVuc)
 * [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 8)](../../../transcriptions/yt-aZeqFJ1kQUQ.md) [https://www.youtube.com/watch?v=aZeqFJ1kQUQ](https://www.youtube.com/watch?v=aZeqFJ1kQUQ)

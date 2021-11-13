@@ -11,7 +11,7 @@ date: Last Modified
 * [Update 5 Quiz: Underrated/Overrated](../../../topics/satisfactory-updates/teasers-and-trailers/update-5-launch-stream/underrated-or-overrated-quiz.md)
 * [Update 5 Revealed](../../../topics/satisfactory-updates/teasers-and-trailers/update-5-launch-stream/update-5-revealed.md)
 
-## November 5th, 2021 Livestream
+## November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary
 * [Q&A: Did Jace's HelloFresh already arrive this week?](../../../transcriptions/yt-UnXNb3M5T_Y.md) [https://www.youtube.com/watch?v=UnXNb3M5T_Y](https://www.youtube.com/watch?v=UnXNb3M5T_Y)
 
 ## November 2nd, 2021 Livestream

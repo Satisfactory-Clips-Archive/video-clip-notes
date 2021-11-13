@@ -5,7 +5,7 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Kibitz
 
-## November 5th, 2021 Livestream
+## November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary
 * [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 38)](../../transcriptions/yt-ET97RxecUtY.md) [https://www.youtube.com/watch?v=ET97RxecUtY](https://www.youtube.com/watch?v=ET97RxecUtY)
 
 ## October 12th, 2021 Livestream

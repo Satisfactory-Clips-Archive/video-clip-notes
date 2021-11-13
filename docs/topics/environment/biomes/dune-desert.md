@@ -8,7 +8,7 @@ date: Last Modified
 ## November 9th, 2021 Livestream
 * [Q&A: The new craters in the dunes, will those flat walls turn into a Cave system?](../../../transcriptions/yt-Yq45pgAN_ac.md) [https://www.youtube.com/watch?v=Yq45pgAN_ac](https://www.youtube.com/watch?v=Yq45pgAN_ac)
 
-## November 5th, 2021 Livestream
+## November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary
 * [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 40)](../../../transcriptions/yt-WlZMe96MtL4.md) [https://www.youtube.com/watch?v=WlZMe96MtL4](https://www.youtube.com/watch?v=WlZMe96MtL4)
 
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video

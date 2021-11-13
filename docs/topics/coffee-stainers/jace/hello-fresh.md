@@ -8,7 +8,7 @@ date: Last Modified
 ## November 9th, 2021 Livestream
 * [Q&A: Can you ask Jace when his HelloFresh delivery arrives?](../../../transcriptions/yt-Wd4yEmlJQOk.md) [https://www.youtube.com/watch?v=Wd4yEmlJQOk](https://www.youtube.com/watch?v=Wd4yEmlJQOk)
 
-## November 5th, 2021 Livestream
+## November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary
 * [Q&A: Did Jace's HelloFresh already arrive this week?](../../../transcriptions/yt-UnXNb3M5T_Y.md) [https://www.youtube.com/watch?v=UnXNb3M5T_Y](https://www.youtube.com/watch?v=UnXNb3M5T_Y)
 
 ## October 19th, 2021 Livestream

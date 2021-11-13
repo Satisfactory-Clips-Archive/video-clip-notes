@@ -10,7 +10,7 @@ date: Last Modified
 * Q&A: Will the Dedicated Server receive bug fixes / updates or whatever during Update 6 development? [https://www.youtube.com/watch?v=IQjrq9QmHqA](https://www.youtube.com/watch?v=IQjrq9QmHqA)
 * [Q&A: What areas are going to be reworked in the next Update?](../../../transcriptions/yt-Drt3ZdOCRJo.md) [https://www.youtube.com/watch?v=Drt3ZdOCRJo](https://www.youtube.com/watch?v=Drt3ZdOCRJo)
 
-## November 5th, 2021 Livestream
+## November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary
 * [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 44)](../../../transcriptions/yt-8NxB_aqhf1Q.md) [https://www.youtube.com/watch?v=8NxB_aqhf1Q](https://www.youtube.com/watch?v=8NxB_aqhf1Q)
 
 ## October 19th, 2021 Livestream

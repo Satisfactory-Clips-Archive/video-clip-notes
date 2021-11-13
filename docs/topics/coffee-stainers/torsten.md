@@ -5,7 +5,7 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Torsten
 
-## November 5th, 2021 Livestream
+## November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary
 * [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 21)](../../transcriptions/yt-V26cfhOb7_4.md) [https://www.youtube.com/watch?v=V26cfhOb7_4](https://www.youtube.com/watch?v=V26cfhOb7_4)
 * [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 26)](../../transcriptions/yt-_N3g-EVfJl4.md) [https://www.youtube.com/watch?v=_N3g-EVfJl4](https://www.youtube.com/watch?v=_N3g-EVfJl4)
 * [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 48)](../../transcriptions/yt-yXt0i77bv6k.md) [https://www.youtube.com/watch?v=yXt0i77bv6k](https://www.youtube.com/watch?v=yXt0i77bv6k)

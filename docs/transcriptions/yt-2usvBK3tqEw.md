@@ -1,5 +1,5 @@
 ---
-title: "November 5th, 2021 Livestream Community FYI: Checked for rejected QA as soon as the video was over"
+title: "November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary Community FYI: Checked for rejected QA as soon as the video was over"
 date: "2021-11-05"
 layout: transcript
 topics:
@@ -7,7 +7,7 @@ topics:
     - "qa-site"
     - "satisfactory-updates/teasers-and-trailers/update-5-patch-notes-video"
 ---
-# [November 5th, 2021 Livestream](../2021-11-05.md)
+# [November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary](../2021-11-05.md)
 ## Community FYI: Checked for rejected QA as soon as the video was over
 https://www.youtube.com/watch?v=2usvBK3tqEw
 

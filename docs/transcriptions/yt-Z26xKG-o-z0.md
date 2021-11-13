@@ -1,12 +1,12 @@
 ---
-title: "November 5th, 2021 Livestream Q&A: What's Factorio?"
+title: "November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary Q&A: What's Factorio?"
 date: "2021-11-05"
 layout: transcript
 topics:
     - "off-topic/factorio"
     - "trolling"
 ---
-# [November 5th, 2021 Livestream](../2021-11-05.md)
+# [November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary](../2021-11-05.md)
 ## Q&A: What's Factorio?
 https://www.youtube.com/watch?v=Z26xKG-o-z0
 

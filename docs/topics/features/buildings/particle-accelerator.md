@@ -9,7 +9,7 @@ date: Last Modified
 * [Q&A: Why doesn't the Particle Accelerator have a status light indicator? (Part 1)](../../../transcriptions/yt-1Tg_9PXHD9Q.md) [https://www.youtube.com/watch?v=1Tg_9PXHD9Q](https://www.youtube.com/watch?v=1Tg_9PXHD9Q)
 * [Q&A: Why doesn't the Particle Accelerator have a status light indicator? (Part 2)](../../../transcriptions/yt-UMztB6U1Bb0.md) [https://www.youtube.com/watch?v=UMztB6U1Bb0](https://www.youtube.com/watch?v=UMztB6U1Bb0)
 
-## November 5th, 2021 Livestream
+## November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary
 * [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 11)](../../../transcriptions/yt-MLoKz8ShCWs.md) [https://www.youtube.com/watch?v=MLoKz8ShCWs](https://www.youtube.com/watch?v=MLoKz8ShCWs)
 
 ## September 3rd, 2021 Dev Vlog

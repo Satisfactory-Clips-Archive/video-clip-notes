@@ -18,7 +18,7 @@ date: Last Modified
 * [Q&A: Two Pioneers in one car?](../../../transcriptions/yt-Btds0y7oaoE.md) [https://www.youtube.com/watch?v=Btds0y7oaoE](https://www.youtube.com/watch?v=Btds0y7oaoE)
 * Q&A: Why do Vehicles have a health bar? [https://www.youtube.com/watch?v=nY7aRkB1PbU](https://www.youtube.com/watch?v=nY7aRkB1PbU)
 
-## November 5th, 2021 Livestream
+## November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary
 * [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 21)](../../../transcriptions/yt-V26cfhOb7_4.md) [https://www.youtube.com/watch?v=V26cfhOb7_4](https://www.youtube.com/watch?v=V26cfhOb7_4)
 * [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 35)](../../../transcriptions/yt-gAZJCKcLbMA.md) [https://www.youtube.com/watch?v=gAZJCKcLbMA](https://www.youtube.com/watch?v=gAZJCKcLbMA)
 

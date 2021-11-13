@@ -5,7 +5,7 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Teasers & Trailers](../../../topics/satisfactory-updates/teasers-and-trailers.md) > Update 4 Patch Notes Video
 
-## November 5th, 2021 Livestream
+## November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary
 * [Q&A: Is the Patch Notes VOD still on your channel, or are the clips all that remain?](../../../transcriptions/yt-V_YXOp7VQqc.md) [https://www.youtube.com/watch?v=V_YXOp7VQqc](https://www.youtube.com/watch?v=V_YXOp7VQqc)
 * [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 7)](../../../transcriptions/yt-Z9FAXoysVuc.md) [https://www.youtube.com/watch?v=Z9FAXoysVuc](https://www.youtube.com/watch?v=Z9FAXoysVuc)
 * [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 14)](../../../transcriptions/yt-hogdxF1ITbc.md) [https://www.youtube.com/watch?v=hogdxF1ITbc](https://www.youtube.com/watch?v=hogdxF1ITbc)

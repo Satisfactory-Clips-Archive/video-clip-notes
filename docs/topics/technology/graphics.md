@@ -9,7 +9,7 @@ date: Last Modified
 * [Ray Tracing](../../topics/technology/graphics/ray-tracing.md)
 * [Ultrawide Monitors](../../topics/technology/graphics/ultrawide-monitors.md)
 
-## November 5th, 2021 Livestream
+## November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary
 * [Q&A: How do you do the depth-of-field effect?](../../transcriptions/yt-hwqoNG0udao.md) [https://www.youtube.com/watch?v=hwqoNG0udao](https://www.youtube.com/watch?v=hwqoNG0udao)
 
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video

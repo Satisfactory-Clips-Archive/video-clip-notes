@@ -1,5 +1,5 @@
 ---
-title: "November 5th, 2021 Livestream Q&A: If you're on stage at an in-person event would you come on as Snutty Mays & Juice Velvet?"
+title: "November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary Q&A: If you're on stage at an in-person event would you come on as Snutty Mays & Juice Velvet?"
 date: "2021-11-05"
 layout: transcript
 topics:
@@ -7,7 +7,7 @@ topics:
     - "coffee-stainers/snutt/snutty-mays"
     - "satisfactory-updates/teasers-and-trailers/update-5-patch-notes-video"
 ---
-# [November 5th, 2021 Livestream](../2021-11-05.md)
+# [November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary](../2021-11-05.md)
 ## Q&A: If you're on stage at an in-person event would you come on as Snutty Mays & Juice Velvet?
 https://www.youtube.com/watch?v=BfVGHJRPx-I
 

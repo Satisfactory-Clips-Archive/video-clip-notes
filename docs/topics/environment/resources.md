@@ -19,7 +19,7 @@ date: Last Modified
 * [Q&A: Will the stack sizes for Iron Plates increase, with Foundation changes they're eating up space?](../../transcriptions/yt-OXjbnXVYKw4.md) [https://www.youtube.com/watch?v=OXjbnXVYKw4](https://www.youtube.com/watch?v=OXjbnXVYKw4)
 * [Q&A: When will the Toilet in the HUB be usable & generate Biomass?](../../transcriptions/yt-9nKV9V8W8ns.md) [https://www.youtube.com/watch?v=9nKV9V8W8ns](https://www.youtube.com/watch?v=9nKV9V8W8ns)
 
-## November 5th, 2021 Livestream
+## November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary
 * [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 13)](../../transcriptions/yt-vhvpoKYGVbM.md) [https://www.youtube.com/watch?v=vhvpoKYGVbM](https://www.youtube.com/watch?v=vhvpoKYGVbM)
 
 ## November 2nd, 2021 Livestream

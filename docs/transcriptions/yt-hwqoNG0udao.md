@@ -1,5 +1,5 @@
 ---
-title: "November 5th, 2021 Livestream Q&A: How do you do the depth-of-field effect?"
+title: "November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary Q&A: How do you do the depth-of-field effect?"
 date: "2021-11-05"
 layout: transcript
 topics:
@@ -7,7 +7,7 @@ topics:
     - "technology/graphics"
     - "technology/unreal-engine"
 ---
-# [November 5th, 2021 Livestream](../2021-11-05.md)
+# [November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary](../2021-11-05.md)
 ## Q&A: How do you do the depth-of-field effect?
 https://www.youtube.com/watch?v=hwqoNG0udao
 

@@ -10,7 +10,7 @@ date: Last Modified
 * [Q&A: Will there be improvements to hit boxes, specifically for Power Poles between two Constructors?](../../../../transcriptions/yt-l75JZF14dbY.md) [https://www.youtube.com/watch?v=l75JZF14dbY](https://www.youtube.com/watch?v=l75JZF14dbY)
 * [Q&A: Train Station had bigger clearance?](../../../../transcriptions/yt-p-sGsaQvI2I.md) [https://www.youtube.com/watch?v=p-sGsaQvI2I](https://www.youtube.com/watch?v=p-sGsaQvI2I)
 
-## November 5th, 2021 Livestream
+## November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary
 * [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 11)](../../../../transcriptions/yt-MLoKz8ShCWs.md) [https://www.youtube.com/watch?v=MLoKz8ShCWs](https://www.youtube.com/watch?v=MLoKz8ShCWs)
 
 ## October 29th, 2021 Video

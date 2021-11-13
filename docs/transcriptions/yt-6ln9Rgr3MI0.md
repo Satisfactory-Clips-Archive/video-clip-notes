@@ -1,12 +1,12 @@
 ---
-title: "November 5th, 2021 Livestream Community FYI: Jace, you should do group iron man with some Coffee Stainers"
+title: "November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary Community FYI: Jace, you should do group iron man with some Coffee Stainers"
 date: "2021-11-05"
 layout: transcript
 topics:
     - "coffee-stainers"
     - "coffee-stainers/jace"
 ---
-# [November 5th, 2021 Livestream](../2021-11-05.md)
+# [November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary](../2021-11-05.md)
 ## Community FYI: Jace, you should do group iron man with some Coffee Stainers
 https://www.youtube.com/watch?v=6ln9Rgr3MI0
 

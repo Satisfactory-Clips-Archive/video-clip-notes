@@ -8,7 +8,7 @@ date: Last Modified
 ## November 9th, 2021 Livestream
 * [Q&A: Does Jace actually suck at golf?](../../../../transcriptions/yt-FinSn4pzEFw.md) [https://www.youtube.com/watch?v=FinSn4pzEFw](https://www.youtube.com/watch?v=FinSn4pzEFw)
 
-## November 5th, 2021 Livestream
+## November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary
 * [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 8)](../../../../transcriptions/yt-aZeqFJ1kQUQ.md) [https://www.youtube.com/watch?v=aZeqFJ1kQUQ](https://www.youtube.com/watch?v=aZeqFJ1kQUQ)
 * [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 9)](../../../../transcriptions/yt-7ACxbeniulk.md) [https://www.youtube.com/watch?v=7ACxbeniulk](https://www.youtube.com/watch?v=7ACxbeniulk)
 * [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 10)](../../../../transcriptions/yt-MI6L900el4w.md) [https://www.youtube.com/watch?v=MI6L900el4w](https://www.youtube.com/watch?v=MI6L900el4w)

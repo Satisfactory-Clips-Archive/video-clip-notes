@@ -1,11 +1,11 @@
 ---
-title: "November 5th, 2021 Livestream Community FYI: You're about to get banned on Twitch, you're in the Satisfactory category"
+title: "November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary Community FYI: You're about to get banned on Twitch, you're in the Satisfactory category"
 date: "2021-11-05"
 layout: transcript
 topics:
     - ""
 ---
-# [November 5th, 2021 Livestream](../2021-11-05.md)
+# [November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary](../2021-11-05.md)
 ## Community FYI: You're about to get banned on Twitch, you're in the Satisfactory category
 https://www.youtube.com/watch?v=WNMCDZvolqE
 

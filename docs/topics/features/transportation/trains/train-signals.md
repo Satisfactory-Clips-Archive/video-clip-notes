@@ -8,7 +8,7 @@ date: Last Modified
 ## November 9th, 2021 Livestream
 * [Q&A: Any plans to let Trains recalculate routes on-the-fly?](../../../../transcriptions/yt-ziGn1954IJg.md) [https://www.youtube.com/watch?v=ziGn1954IJg](https://www.youtube.com/watch?v=ziGn1954IJg)
 
-## November 5th, 2021 Livestream
+## November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary
 * [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 46)](../../../../transcriptions/yt-sT8XAmIhbKw.md) [https://www.youtube.com/watch?v=sT8XAmIhbKw](https://www.youtube.com/watch?v=sT8XAmIhbKw)
 * [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 47)](../../../../transcriptions/yt-S6ibDSVDct4.md) [https://www.youtube.com/watch?v=S6ibDSVDct4](https://www.youtube.com/watch?v=S6ibDSVDct4)
 * [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 48)](../../../../transcriptions/yt-yXt0i77bv6k.md) [https://www.youtube.com/watch?v=yXt0i77bv6k](https://www.youtube.com/watch?v=yXt0i77bv6k)

@@ -1,12 +1,12 @@
 ---
-title: "November 5th, 2021 Livestream Q&A: Can we get it on VHS?"
+title: "November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary Q&A: Can we get it on VHS?"
 date: "2021-11-05"
 layout: transcript
 topics:
     - "satisfactory-updates/teasers-and-trailers/update-5-patch-notes-video"
     - "trolling"
 ---
-# [November 5th, 2021 Livestream](../2021-11-05.md)
+# [November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary](../2021-11-05.md)
 ## Q&A: Can we get it on VHS?
 https://www.youtube.com/watch?v=i-_aB4wZIKs
 

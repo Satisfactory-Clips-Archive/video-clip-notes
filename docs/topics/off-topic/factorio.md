@@ -5,7 +5,7 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Factorio
 
-## November 5th, 2021 Livestream
+## November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary
 * [Q&A: What's Factorio?](../../transcriptions/yt-Z26xKG-o-z0.md) [https://www.youtube.com/watch?v=Z26xKG-o-z0](https://www.youtube.com/watch?v=Z26xKG-o-z0)
 
 ## October 12th, 2021 Livestream

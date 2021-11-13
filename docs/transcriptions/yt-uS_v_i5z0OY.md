@@ -1,12 +1,12 @@
 ---
-title: "November 5th, 2021 Livestream Q&A: Is the center floor hole a different colour?"
+title: "November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary Q&A: Is the center floor hole a different colour?"
 date: "2021-11-05"
 layout: transcript
 topics:
     - "features/buildables/floor-holes"
     - "satisfactory-updates/teasers-and-trailers/update-5-patch-notes-video"
 ---
-# [November 5th, 2021 Livestream](../2021-11-05.md)
+# [November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary](../2021-11-05.md)
 ## Q&A: Is the center floor hole a different colour?
 https://www.youtube.com/watch?v=uS_v_i5z0OY
 

@@ -1,12 +1,12 @@
 ---
-title: "November 5th, 2021 Livestream Community FYI: Big fan of the biiiig reference from Lars"
+title: "November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary Community FYI: Big fan of the biiiig reference from Lars"
 date: "2021-11-05"
 layout: transcript
 topics:
     - "embracer-group/thq-nordic/lars"
     - "satisfactory-updates/teasers-and-trailers/update-5-patch-notes-video"
 ---
-# [November 5th, 2021 Livestream](../2021-11-05.md)
+# [November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary](../2021-11-05.md)
 ## Community FYI: Big fan of the biiiig reference from Lars
 https://www.youtube.com/watch?v=vKEZETKhaxw
 

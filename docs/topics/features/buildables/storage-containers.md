@@ -5,7 +5,7 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildables](../../../topics/features/buildables.md) > Storage Containers
 
-## November 5th, 2021 Livestream
+## November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary
 * [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 12)](../../../transcriptions/yt-bFyLzQZq4ys.md) [https://www.youtube.com/watch?v=bFyLzQZq4ys](https://www.youtube.com/watch?v=bFyLzQZq4ys)
 
 ## October 29th, 2021 Video

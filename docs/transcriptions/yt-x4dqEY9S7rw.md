@@ -1,12 +1,12 @@
 ---
-title: "November 5th, 2021 Livestream Q&A: Who chooses the music for all of the videos?"
+title: "November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary Q&A: Who chooses the music for all of the videos?"
 date: "2021-11-05"
 layout: transcript
 topics:
     - "coffee-stainers/snutt"
     - "satisfactory-updates/teasers-and-trailers/update-5-patch-notes-video"
 ---
-# [November 5th, 2021 Livestream](../2021-11-05.md)
+# [November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary](../2021-11-05.md)
 ## Q&A: Who chooses the music for all of the videos?
 https://www.youtube.com/watch?v=x4dqEY9S7rw
 

@@ -9,7 +9,7 @@ date: Last Modified
 ## November 9th, 2021 Livestream
 * [Q&A: Why has all the spelling in the game become American English?](../transcriptions/yt-bLgfDLkJZHY.md) [https://www.youtube.com/watch?v=bLgfDLkJZHY](https://www.youtube.com/watch?v=bLgfDLkJZHY)
 
-## November 5th, 2021 Livestream
+## November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary
 * [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 34)](../transcriptions/yt-a4CeP8wjZ0U.md) [https://www.youtube.com/watch?v=a4CeP8wjZ0U](https://www.youtube.com/watch?v=a4CeP8wjZ0U)
 
 ## November 2nd, 2021 Livestream

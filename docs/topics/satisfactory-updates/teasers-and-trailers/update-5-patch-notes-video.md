@@ -7,7 +7,7 @@ date: Last Modified
 * [Snutty Mays & Juice Velvet Present: The Customizer™](../../../topics/satisfactory-updates/teasers-and-trailers/update-5-patch-notes-video/snutty-mays-and-juice-velvet-present-the-customizer.md)
 * [Update 5 Wager on releasing Golf versus Dedicated Servers](../../../topics/satisfactory-updates/teasers-and-trailers/update-5-patch-notes-video/update-5-wager-on-releasing-golf-versus-dedicated-servers.md)
 
-## November 5th, 2021 Livestream
+## November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary
 * [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 1)](../../../transcriptions/yt-6xKMiQJdZxg.md) [https://www.youtube.com/watch?v=6xKMiQJdZxg](https://www.youtube.com/watch?v=6xKMiQJdZxg)
 * [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 2)](../../../transcriptions/yt-1_ztVB3V2M0.md) [https://www.youtube.com/watch?v=1_ztVB3V2M0](https://www.youtube.com/watch?v=1_ztVB3V2M0)
 * [Q&A: Why is my ass removed from the Reveal Trailer? (Part 1)](../../../transcriptions/yt-O58vcwj0pjU.md) [https://www.youtube.com/watch?v=O58vcwj0pjU](https://www.youtube.com/watch?v=O58vcwj0pjU)

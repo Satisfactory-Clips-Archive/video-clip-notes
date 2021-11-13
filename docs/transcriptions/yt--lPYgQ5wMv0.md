@@ -1,11 +1,11 @@
 ---
-title: "November 5th, 2021 Livestream Q&A: Why are you guys always in your socks?"
+title: "November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary Q&A: Why are you guys always in your socks?"
 date: "2021-11-05"
 layout: transcript
 topics:
     - "off-topic/sweden"
 ---
-# [November 5th, 2021 Livestream](../2021-11-05.md)
+# [November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary](../2021-11-05.md)
 ## Q&A: Why are you guys always in your socks?
 https://www.youtube.com/watch?v=-lPYgQ5wMv0
 

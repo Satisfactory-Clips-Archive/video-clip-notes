@@ -1,5 +1,5 @@
 ---
-title: "November 5th, 2021 Livestream Q&A: Did you both do film school?"
+title: "November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary Q&A: Did you both do film school?"
 date: "2021-11-05"
 layout: transcript
 topics:
@@ -7,7 +7,7 @@ topics:
     - "coffee-stainers/snutt"
     - "satisfactory-updates/teasers-and-trailers/update-5-patch-notes-video"
 ---
-# [November 5th, 2021 Livestream](../2021-11-05.md)
+# [November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary](../2021-11-05.md)
 ## Q&A: Did you both do film school?
 https://www.youtube.com/watch?v=T0O07K7kPyE
 

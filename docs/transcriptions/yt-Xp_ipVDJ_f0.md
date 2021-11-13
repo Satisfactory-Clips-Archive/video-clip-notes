@@ -1,11 +1,11 @@
 ---
-title: "November 5th, 2021 Livestream Community FYI: Tried explaining my love for this game to my non-playing friends & they don't get it"
+title: "November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary Community FYI: Tried explaining my love for this game to my non-playing friends & they don't get it"
 date: "2021-11-05"
 layout: transcript
 topics:
     - "community"
 ---
-# [November 5th, 2021 Livestream](../2021-11-05.md)
+# [November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary](../2021-11-05.md)
 ## Community FYI: Tried explaining my love for this game to my non-playing friends & they don't get it
 https://www.youtube.com/watch?v=Xp_ipVDJ_f0
 

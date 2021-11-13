@@ -8,7 +8,7 @@ date: Last Modified
 ## November 9th, 2021 Livestream
 * [Q&A: Step-by-step instructions on the wiki for using SteamCMD?](../../transcriptions/yt-8gpbrdseKwg.md) [https://www.youtube.com/watch?v=8gpbrdseKwg](https://www.youtube.com/watch?v=8gpbrdseKwg)
 
-## November 5th, 2021 Livestream
+## November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary
 * [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 44)](../../transcriptions/yt-8NxB_aqhf1Q.md) [https://www.youtube.com/watch?v=8NxB_aqhf1Q](https://www.youtube.com/watch?v=8NxB_aqhf1Q)
 
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video

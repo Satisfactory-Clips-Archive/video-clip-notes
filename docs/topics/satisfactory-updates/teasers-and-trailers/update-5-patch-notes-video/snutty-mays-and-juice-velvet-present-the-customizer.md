@@ -5,7 +5,7 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Satisfactory Updates](../../../../topics/satisfactory-updates.md) > [Teasers & Trailers](../../../../topics/satisfactory-updates/teasers-and-trailers.md) > [Update 5 Patch Notes Video](../../../../topics/satisfactory-updates/teasers-and-trailers/update-5-patch-notes-video.md) > Snutty Mays & Juice Velvet Present: The Customizer™
 
-## November 5th, 2021 Livestream
+## November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary
 * [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 25)](../../../../transcriptions/yt-isJvJl_wzYs.md) [https://www.youtube.com/watch?v=isJvJl_wzYs](https://www.youtube.com/watch?v=isJvJl_wzYs)
 
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video

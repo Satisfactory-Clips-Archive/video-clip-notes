@@ -8,7 +8,7 @@ date: Last Modified
 ## November 9th, 2021 Livestream
 * [Q&A: Are there any Easter Eggs that still haven't been found?](../transcriptions/yt-kiUlJOZmhKs.md) [https://www.youtube.com/watch?v=kiUlJOZmhKs](https://www.youtube.com/watch?v=kiUlJOZmhKs)
 
-## November 5th, 2021 Livestream
+## November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary
 * [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 32)](../transcriptions/yt-QvJr2UFkIa4.md) [https://www.youtube.com/watch?v=QvJr2UFkIa4](https://www.youtube.com/watch?v=QvJr2UFkIa4)
 
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video

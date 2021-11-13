@@ -8,7 +8,7 @@ date: Last Modified
 ## November 12th, 2021 Video
 * Snutt Talk: Switching Wall Types with Zooping [https://youtube.com/clip/UgkxhBVzyTy6NO02bDwiATgeMiE0n_WOqp7r](https://youtube.com/clip/UgkxhBVzyTy6NO02bDwiATgeMiE0n_WOqp7r)
 
-## November 5th, 2021 Livestream
+## November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary
 * [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 15)](../../../../transcriptions/yt-El1sKfDOaLk.md) [https://www.youtube.com/watch?v=El1sKfDOaLk](https://www.youtube.com/watch?v=El1sKfDOaLk)
 * [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 16)](../../../../transcriptions/yt-YFfud0NwaGk.md) [https://www.youtube.com/watch?v=YFfud0NwaGk](https://www.youtube.com/watch?v=YFfud0NwaGk)
 * [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 17)](../../../../transcriptions/yt-n8kC_hOCn6o.md) [https://www.youtube.com/watch?v=n8kC_hOCn6o](https://www.youtube.com/watch?v=n8kC_hOCn6o)

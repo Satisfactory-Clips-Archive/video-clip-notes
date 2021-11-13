@@ -5,7 +5,7 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > Assembler
 
-## November 5th, 2021 Livestream
+## November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary
 * [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 13)](../../../transcriptions/yt-vhvpoKYGVbM.md) [https://www.youtube.com/watch?v=vhvpoKYGVbM](https://www.youtube.com/watch?v=vhvpoKYGVbM)
 
 ## June 1st, 2021 Livestream

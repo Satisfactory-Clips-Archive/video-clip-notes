@@ -18,7 +18,7 @@ date: Last Modified
 * Q&A: Will the Dedicated Server receive bug fixes / updates or whatever during Update 6 development? [https://www.youtube.com/watch?v=IQjrq9QmHqA](https://www.youtube.com/watch?v=IQjrq9QmHqA)
 * [Q&A: Are you working on the multi-threading for Servers?](../../../transcriptions/yt-sRtTjntZEMc.md) [https://www.youtube.com/watch?v=sRtTjntZEMc](https://www.youtube.com/watch?v=sRtTjntZEMc)
 
-## November 5th, 2021 Livestream
+## November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary
 * [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 9)](../../../transcriptions/yt-7ACxbeniulk.md) [https://www.youtube.com/watch?v=7ACxbeniulk](https://www.youtube.com/watch?v=7ACxbeniulk)
 * [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 10)](../../../transcriptions/yt-MI6L900el4w.md) [https://www.youtube.com/watch?v=MI6L900el4w](https://www.youtube.com/watch?v=MI6L900el4w)
 * [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 62)](../../../transcriptions/yt-4YG1dbFkhVM.md) [https://www.youtube.com/watch?v=4YG1dbFkhVM](https://www.youtube.com/watch?v=4YG1dbFkhVM)
