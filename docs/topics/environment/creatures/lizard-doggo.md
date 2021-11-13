@@ -9,7 +9,7 @@ date: Last Modified
 * [Q&A: Will you take responsibility for the Giant Lizard Doggo?](../../../transcriptions/yt-VTC8VvwZVmg.md) [https://www.youtube.com/watch?v=VTC8VvwZVmg](https://www.youtube.com/watch?v=VTC8VvwZVmg)
 
 ## October 28th, 2021 Video
-* [Jace Talk: Lizard Doggo Plush](../../../transcriptions/yt-YSPnFZbTvxE,12.9129,50.7507.md) [https://youtube.com/embed/YSPnFZbTvxE?autoplay=1&start=12&end=51](https://youtube.com/embed/YSPnFZbTvxE?autoplay=1&start=12&end=51)
+* [Jace Talk: Lizard Doggo Plush](../../../transcriptions/yt-YSPnFZbTvxE,12.9129,50.7507.md) [https://youtube.com/clip/UgkxElG2p7ah-Gl6tp4e7QaXPPJLRzewiECC](https://youtube.com/clip/UgkxElG2p7ah-Gl6tp4e7QaXPPJLRzewiECC)
 * [Jace Talk: Heroic Replicas Kickstarter](../../../transcriptions/yt-YSPnFZbTvxE,88.45503333333333,187.42056666666667.md) [https://youtube.com/embed/YSPnFZbTvxE?autoplay=1&start=88&end=188](https://youtube.com/embed/YSPnFZbTvxE?autoplay=1&start=88&end=188)
 * [End Tag](../../../transcriptions/yt-YSPnFZbTvxE,194.76123333333334.md) [https://youtube.com/embed/YSPnFZbTvxE?autoplay=1&start=194](https://youtube.com/embed/YSPnFZbTvxE?autoplay=1&start=194)
 

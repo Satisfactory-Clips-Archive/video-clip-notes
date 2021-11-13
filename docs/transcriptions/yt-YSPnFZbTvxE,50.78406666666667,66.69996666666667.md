@@ -8,7 +8,7 @@ topics:
 ---
 # [October 28th, 2021 Video](../2021-10-28.md)
 ## Jace Talk: Dave from Heroic Replicas
-https://youtube.com/embed/YSPnFZbTvxE?autoplay=1&start=50&end=67
+https://youtube.com/clip/UgkxojZRykZSjVwFQRFxWcuEdMegFjJAnbeN
 
 ### Topics
 * [Community](../topics/community.md)

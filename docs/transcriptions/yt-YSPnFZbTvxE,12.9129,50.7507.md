@@ -8,7 +8,7 @@ topics:
 ---
 # [October 28th, 2021 Video](../2021-10-28.md)
 ## Jace Talk: Lizard Doggo Plush
-https://youtube.com/embed/YSPnFZbTvxE?autoplay=1&start=12&end=51
+https://youtube.com/clip/UgkxElG2p7ah-Gl6tp4e7QaXPPJLRzewiECC
 
 ### Topics
 * [Environment > Creatures > Lizard Doggo](../topics/environment/creatures/lizard-doggo.md)

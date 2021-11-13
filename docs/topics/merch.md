@@ -18,9 +18,9 @@ date: Last Modified
 * [Q&A: Is the OST coming on vinyl?](../transcriptions/yt-a95G0B-fLdc.md) [https://www.youtube.com/watch?v=a95G0B-fLdc](https://www.youtube.com/watch?v=a95G0B-fLdc)
 
 ## October 28th, 2021 Video
-* [Jace Talk: Lizard Doggo Plush](../transcriptions/yt-YSPnFZbTvxE,12.9129,50.7507.md) [https://youtube.com/embed/YSPnFZbTvxE?autoplay=1&start=12&end=51](https://youtube.com/embed/YSPnFZbTvxE?autoplay=1&start=12&end=51)
-* [Jace Talk: Dave from Heroic Replicas](../transcriptions/yt-YSPnFZbTvxE,50.78406666666667,66.69996666666667.md) [https://youtube.com/embed/YSPnFZbTvxE?autoplay=1&start=50&end=67](https://youtube.com/embed/YSPnFZbTvxE?autoplay=1&start=50&end=67)
-* [Jace Talk: Heroic Replicas and the Xeno-Basher prototype](../transcriptions/yt-YSPnFZbTvxE,66.73333333333333,88.42166666666667.md) [https://youtube.com/embed/YSPnFZbTvxE?autoplay=1&start=66&end=89](https://youtube.com/embed/YSPnFZbTvxE?autoplay=1&start=66&end=89)
+* [Jace Talk: Lizard Doggo Plush](../transcriptions/yt-YSPnFZbTvxE,12.9129,50.7507.md) [https://youtube.com/clip/UgkxElG2p7ah-Gl6tp4e7QaXPPJLRzewiECC](https://youtube.com/clip/UgkxElG2p7ah-Gl6tp4e7QaXPPJLRzewiECC)
+* [Jace Talk: Dave from Heroic Replicas](../transcriptions/yt-YSPnFZbTvxE,50.78406666666667,66.69996666666667.md) [https://youtube.com/clip/UgkxojZRykZSjVwFQRFxWcuEdMegFjJAnbeN](https://youtube.com/clip/UgkxojZRykZSjVwFQRFxWcuEdMegFjJAnbeN)
+* [Jace Talk: Heroic Replicas and the Xeno-Basher prototype](../transcriptions/yt-YSPnFZbTvxE,66.73333333333333,88.42166666666667.md) [https://youtube.com/clip/Ugkx-okT27-vSwEc5TbOHTMGPyAY5ZI7Sznm](https://youtube.com/clip/Ugkx-okT27-vSwEc5TbOHTMGPyAY5ZI7Sznm)
 * [Jace Talk: Heroic Replicas Kickstarter](../transcriptions/yt-YSPnFZbTvxE,88.45503333333333,187.42056666666667.md) [https://youtube.com/embed/YSPnFZbTvxE?autoplay=1&start=88&end=188](https://youtube.com/embed/YSPnFZbTvxE?autoplay=1&start=88&end=188)
 * [End Tag](../transcriptions/yt-YSPnFZbTvxE,194.76123333333334.md) [https://youtube.com/embed/YSPnFZbTvxE?autoplay=1&start=194](https://youtube.com/embed/YSPnFZbTvxE?autoplay=1&start=194)
 

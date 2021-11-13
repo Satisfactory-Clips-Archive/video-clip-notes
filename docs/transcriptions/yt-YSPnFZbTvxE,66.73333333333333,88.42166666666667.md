@@ -10,7 +10,7 @@ topics:
 ---
 # [October 28th, 2021 Video](../2021-10-28.md)
 ## Jace Talk: Heroic Replicas and the Xeno-Basher prototype
-https://youtube.com/embed/YSPnFZbTvxE?autoplay=1&start=66&end=89
+https://youtube.com/clip/Ugkx-okT27-vSwEc5TbOHTMGPyAY5ZI7Sznm
 
 ### Topics
 * [Community](../topics/community.md)

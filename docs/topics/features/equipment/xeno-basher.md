@@ -6,7 +6,7 @@ date: Last Modified
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Equipment](../../../topics/features/equipment.md) > Xeno-Basher
 
 ## October 28th, 2021 Video
-* [Jace Talk: Heroic Replicas and the Xeno-Basher prototype](../../../transcriptions/yt-YSPnFZbTvxE,66.73333333333333,88.42166666666667.md) [https://youtube.com/embed/YSPnFZbTvxE?autoplay=1&start=66&end=89](https://youtube.com/embed/YSPnFZbTvxE?autoplay=1&start=66&end=89)
+* [Jace Talk: Heroic Replicas and the Xeno-Basher prototype](../../../transcriptions/yt-YSPnFZbTvxE,66.73333333333333,88.42166666666667.md) [https://youtube.com/clip/Ugkx-okT27-vSwEc5TbOHTMGPyAY5ZI7Sznm](https://youtube.com/clip/Ugkx-okT27-vSwEc5TbOHTMGPyAY5ZI7Sznm)
 * [Jace Talk: Heroic Replicas Kickstarter](../../../transcriptions/yt-YSPnFZbTvxE,88.45503333333333,187.42056666666667.md) [https://youtube.com/embed/YSPnFZbTvxE?autoplay=1&start=88&end=188](https://youtube.com/embed/YSPnFZbTvxE?autoplay=1&start=88&end=188)
 * [End Tag](../../../transcriptions/yt-YSPnFZbTvxE,194.76123333333334.md) [https://youtube.com/embed/YSPnFZbTvxE?autoplay=1&start=194](https://youtube.com/embed/YSPnFZbTvxE?autoplay=1&start=194)
 
