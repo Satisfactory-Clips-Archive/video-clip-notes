@@ -9,6 +9,37 @@ date: Last Modified
 * [Jace Art](../../topics/coffee-stainers/jace/jace-art.md)
 * [Juice Velvet](../../topics/coffee-stainers/jace/juice-velvet.md)
 
+## November 9th, 2021 Livestream
+* [Q&A: Snace Body Pillow, when?](../../transcriptions/yt-5k0P-54_WHw.md) [https://www.youtube.com/watch?v=5k0P-54_WHw](https://www.youtube.com/watch?v=5k0P-54_WHw)
+* Community FYI: Tell Jace to get better soon [https://www.youtube.com/watch?v=tC5aJ4MlFKk](https://www.youtube.com/watch?v=tC5aJ4MlFKk)
+* [Q&A: Are you missing Jace?](../../transcriptions/yt-Pwio-LZUcvk.md) [https://www.youtube.com/watch?v=Pwio-LZUcvk](https://www.youtube.com/watch?v=Pwio-LZUcvk)
+* [Q&A: On a scale of 1 to depressed how alone do you feel when Jace doesn't do the update with you?](../../transcriptions/yt-qXEASLxPw7E.md) [https://www.youtube.com/watch?v=qXEASLxPw7E](https://www.youtube.com/watch?v=qXEASLxPw7E)
+* [Q&A: Does Jace actually suck at golf?](../../transcriptions/yt-FinSn4pzEFw.md) [https://www.youtube.com/watch?v=FinSn4pzEFw](https://www.youtube.com/watch?v=FinSn4pzEFw)
+* Q&A: Is Jace working on the Friday video, or Snutt? [https://www.youtube.com/watch?v=f2jATLfLeBY](https://www.youtube.com/watch?v=f2jATLfLeBY)
+* [Community FYI: Time flies when you're having fun](../../transcriptions/yt-OGYl_jNeQNI.md) [https://www.youtube.com/watch?v=OGYl_jNeQNI](https://www.youtube.com/watch?v=OGYl_jNeQNI)
+
+## November 5th, 2021 Livestream
+* [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 1)](../../transcriptions/yt-6xKMiQJdZxg.md) [https://www.youtube.com/watch?v=6xKMiQJdZxg](https://www.youtube.com/watch?v=6xKMiQJdZxg)
+* [Snutt & Jace Talk: Vinyl, gaming against bots, don't think](../../transcriptions/yt-wjAS8c-jOLM.md) [https://www.youtube.com/watch?v=wjAS8c-jOLM](https://www.youtube.com/watch?v=wjAS8c-jOLM)
+* [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 17)](../../transcriptions/yt-n8kC_hOCn6o.md) [https://www.youtube.com/watch?v=n8kC_hOCn6o](https://www.youtube.com/watch?v=n8kC_hOCn6o)
+* [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 18)](../../transcriptions/yt-gRzXwedez1c.md) [https://www.youtube.com/watch?v=gRzXwedez1c](https://www.youtube.com/watch?v=gRzXwedez1c)
+* [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 22)](../../transcriptions/yt-MUbUmGOMOa8.md) [https://www.youtube.com/watch?v=MUbUmGOMOa8](https://www.youtube.com/watch?v=MUbUmGOMOa8)
+* [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 23)](../../transcriptions/yt-Ixi57vdWK4o.md) [https://www.youtube.com/watch?v=Ixi57vdWK4o](https://www.youtube.com/watch?v=Ixi57vdWK4o)
+* [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 44)](../../transcriptions/yt-8NxB_aqhf1Q.md) [https://www.youtube.com/watch?v=8NxB_aqhf1Q](https://www.youtube.com/watch?v=8NxB_aqhf1Q)
+* [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 45)](../../transcriptions/yt-M_DXntDjmck.md) [https://www.youtube.com/watch?v=M_DXntDjmck](https://www.youtube.com/watch?v=M_DXntDjmck)
+* [Q&A: Did you both do film school?](../../transcriptions/yt-T0O07K7kPyE.md) [https://www.youtube.com/watch?v=T0O07K7kPyE](https://www.youtube.com/watch?v=T0O07K7kPyE)
+* [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 55)](../../transcriptions/yt-d-UZfE4Jx2k.md) [https://www.youtube.com/watch?v=d-UZfE4Jx2k](https://www.youtube.com/watch?v=d-UZfE4Jx2k)
+* [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 57)](../../transcriptions/yt-cIBiRLVPSKA.md) [https://www.youtube.com/watch?v=cIBiRLVPSKA](https://www.youtube.com/watch?v=cIBiRLVPSKA)
+* [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 58)](../../transcriptions/yt-u5Xsk8BfRfc.md) [https://www.youtube.com/watch?v=u5Xsk8BfRfc](https://www.youtube.com/watch?v=u5Xsk8BfRfc)
+* [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 59)](../../transcriptions/yt-uPDk0K7nm-o.md) [https://www.youtube.com/watch?v=uPDk0K7nm-o](https://www.youtube.com/watch?v=uPDk0K7nm-o)
+* [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 60)](../../transcriptions/yt-SMQpStxDpNs.md) [https://www.youtube.com/watch?v=SMQpStxDpNs](https://www.youtube.com/watch?v=SMQpStxDpNs)
+* [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 65)](../../transcriptions/yt-Rv17b9FRyvY.md) [https://www.youtube.com/watch?v=Rv17b9FRyvY](https://www.youtube.com/watch?v=Rv17b9FRyvY)
+* [Community FYI: During Update 4 Commentary Stream you offered yourself up to voice people's stuff?](../../transcriptions/yt-mzyEDh33Y2E.md) [https://www.youtube.com/watch?v=mzyEDh33Y2E](https://www.youtube.com/watch?v=mzyEDh33Y2E)
+* [Q&A: Maybe do a voiceover for one of Josh's videos?](../../transcriptions/yt-C903038rHqU.md) [https://www.youtube.com/watch?v=C903038rHqU](https://www.youtube.com/watch?v=C903038rHqU)
+* [Snutt & Jace Talk: What do we do now?](../../transcriptions/yt-a1qnKhjRJO8.md) [https://www.youtube.com/watch?v=a1qnKhjRJO8](https://www.youtube.com/watch?v=a1qnKhjRJO8)
+* [Community FYI: I'm surprised you both could keep a straight face saying "holes" so many times](../../transcriptions/yt-5TxeF2BU7Yo.md) [https://www.youtube.com/watch?v=5TxeF2BU7Yo](https://www.youtube.com/watch?v=5TxeF2BU7Yo)
+* [Community FYI: Jace, you should do group iron man with some Coffee Stainers](../../transcriptions/yt-6ln9Rgr3MI0.md) [https://www.youtube.com/watch?v=6ln9Rgr3MI0](https://www.youtube.com/watch?v=6ln9Rgr3MI0)
+
 ## November 2nd, 2021 Livestream
 * [Snutt & Jace Talk: HelloFresh](../../transcriptions/yt-0zO8gV7jfrw.md) [https://www.youtube.com/watch?v=0zO8gV7jfrw](https://www.youtube.com/watch?v=0zO8gV7jfrw)
 * [Snutt & Jace Talk: Community Feedback to the Update 5 Launch Stream](../../transcriptions/yt-3VTVYPUVwl8.md) [https://www.youtube.com/watch?v=3VTVYPUVwl8](https://www.youtube.com/watch?v=3VTVYPUVwl8)

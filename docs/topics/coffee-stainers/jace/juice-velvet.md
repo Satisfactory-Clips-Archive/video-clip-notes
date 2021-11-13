@@ -1,8 +1,14 @@
 ---
 title: "Juice Velvet"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEosygjoYTHIREXy9ZtlTDfQ
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Coffee Stainers](../../../topics/coffee-stainers.md) > [Jace](../../../topics/coffee-stainers/jace.md) > Juice Velvet
+
+## November 5th, 2021 Livestream
+* [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 25)](../../../transcriptions/yt-isJvJl_wzYs.md) [https://www.youtube.com/watch?v=isJvJl_wzYs](https://www.youtube.com/watch?v=isJvJl_wzYs)
+* [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 67)](../../../transcriptions/yt-sSjSkOu19OM.md) [https://www.youtube.com/watch?v=sSjSkOu19OM](https://www.youtube.com/watch?v=sSjSkOu19OM)
+* [Q&A: If you're on stage at an in-person event would you come on as Snutty Mays & Juice Velvet?](../../../transcriptions/yt-BfVGHJRPx-I.md) [https://www.youtube.com/watch?v=BfVGHJRPx-I](https://www.youtube.com/watch?v=BfVGHJRPx-I)
 
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
 * [Snutt & Jace Talk: Wager on releasing Golf versus Dedicated Servers (Part 4)](../../../transcriptions/yt-QfaReoks6OM,262.7916666666667,269.8333333333333.md) [https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=262&end=270](https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=262&end=270)

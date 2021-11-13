@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Biomes](../../../topics/environment/biomes.md) > Northern Forest
 
+## November 9th, 2021 Livestream
+* [Q&A: Floating Nut tree near crystal mines in Northern Forest?](../../../transcriptions/yt-3VREREW888c.md) [https://www.youtube.com/watch?v=3VREREW888c](https://www.youtube.com/watch?v=3VREREW888c)
+
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
 * [Snutt & Jace Talk: We've updated the Northern Forest](../../../transcriptions/yt-QfaReoks6OM,551.5833333333334,584.2916666666666.md) [https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=551&end=585](https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=551&end=585)
 * Q&A: So how are you doing Hannah? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=10187&end=10341](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=10187&end=10341)

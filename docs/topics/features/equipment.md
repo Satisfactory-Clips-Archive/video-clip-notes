@@ -20,6 +20,9 @@ date: Last Modified
 * [Xeno-Zapper](../../topics/features/equipment/xeno-zapper.md)
 * [Zip Lines](../../topics/features/equipment/zip-lines.md)
 
+## November 9th, 2021 Livestream
+* [Q&A: Can't we use hazmat suit while driving a car?](../../transcriptions/yt-Gvzd1hxeFSs.md) [https://www.youtube.com/watch?v=Gvzd1hxeFSs](https://www.youtube.com/watch?v=Gvzd1hxeFSs)
+
 ## October 19th, 2021 Livestream
 * [Q&A: Are the new Walls bought from the AWESOME Shop?](../../transcriptions/yt-OYF68hbYpnA.md) [https://www.youtube.com/watch?v=OYF68hbYpnA](https://www.youtube.com/watch?v=OYF68hbYpnA)
 

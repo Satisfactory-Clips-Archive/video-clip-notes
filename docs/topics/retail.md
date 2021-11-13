@@ -9,6 +9,9 @@ date: Last Modified
 * [GeForce Now](../topics/retail/geforce-now.md)
 * [Steam Store](../topics/retail/steam-store.md)
 
+## November 9th, 2021 Livestream
+* [Q&A: Is the game still fully-funded?](../transcriptions/yt-ub_jfqVBxfs.md) [https://www.youtube.com/watch?v=ub_jfqVBxfs](https://www.youtube.com/watch?v=ub_jfqVBxfs)
+
 ## October 19th, 2021 Livestream
 * [Q&A: Will there be a Satisfactory release on GOG.com?](../transcriptions/yt-el3XMRbeP_Y.md) [https://www.youtube.com/watch?v=el3XMRbeP_Y](https://www.youtube.com/watch?v=el3XMRbeP_Y)
 

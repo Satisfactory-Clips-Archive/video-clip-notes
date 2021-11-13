@@ -8,7 +8,7 @@ topics:
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Q&A: What's the max amount of body slots?
 https://www.youtube.com/watch?v=aPWXjH-Xf1o
-This question was possibly duplicated with a more recent answer: [October 5th, 2021 Livestream Q&A: Equipment Slots rework still in progress?](./yt-NZGJ3mLsbNk.md) [https://www.youtube.com/watch?v=NZGJ3mLsbNk](https://www.youtube.com/watch?v=NZGJ3mLsbNk)
+This question was possibly duplicated with a more recent answer: [November 9th, 2021 Livestream Q&A: Two body slots, maybe?](./yt-1r0kKFc_mW4.md) [https://www.youtube.com/watch?v=1r0kKFc_mW4](https://www.youtube.com/watch?v=1r0kKFc_mW4)
 
 
 ### Topics

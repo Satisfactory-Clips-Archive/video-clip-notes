@@ -70,6 +70,7 @@ date: Last Modified
 * [SignpostMarv](./topics/community/signpostmarv.md)
 * [Smerkin](./topics/community/smerkin.md)
 * [Tom](./topics/community/tom.md)
+* [Vilsol](./topics/community/vilsol.md)
 * [Wiki](./topics/community/wiki.md)
 ---
 * [Concept Art](./topics/concept-art.md)

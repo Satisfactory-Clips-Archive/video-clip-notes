@@ -5,6 +5,13 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > Particle Accelerator
 
+## November 9th, 2021 Livestream
+* [Q&A: Why doesn't the Particle Accelerator have a status light indicator? (Part 1)](../../../transcriptions/yt-1Tg_9PXHD9Q.md) [https://www.youtube.com/watch?v=1Tg_9PXHD9Q](https://www.youtube.com/watch?v=1Tg_9PXHD9Q)
+* [Q&A: Why doesn't the Particle Accelerator have a status light indicator? (Part 2)](../../../transcriptions/yt-UMztB6U1Bb0.md) [https://www.youtube.com/watch?v=UMztB6U1Bb0](https://www.youtube.com/watch?v=UMztB6U1Bb0)
+
+## November 5th, 2021 Livestream
+* [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 11)](../../../transcriptions/yt-MLoKz8ShCWs.md) [https://www.youtube.com/watch?v=MLoKz8ShCWs](https://www.youtube.com/watch?v=MLoKz8ShCWs)
+
 ## September 3rd, 2021 Dev Vlog
 * [Jace Talk: Hard & Soft Clearance demonstration](../../../transcriptions/yt-yZGq-W7r2sk,981.5806,1109.108.md) [https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=981&end=1110](https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=981&end=1110)
 

@@ -8,7 +8,7 @@ topics:
 # [May 11th, 2021 Livestream](../2021-05-11.md)
 ## Q&A: What about allowing a second person in the buggy?
 https://www.youtube.com/watch?v=RENRn0EnoZE
-This question was possibly duplicated with a more recent answer: [September 14th, 2021 Livestream Q&A: Why can we not put a second person in the Buggy?](./yt-7k7lIdyQBvQ.md) [https://www.youtube.com/watch?v=7k7lIdyQBvQ](https://www.youtube.com/watch?v=7k7lIdyQBvQ)
+This question was possibly duplicated with a more recent answer: [November 9th, 2021 Livestream Q&A: Two Pioneers in one car?](./yt-Btds0y7oaoE.md) [https://www.youtube.com/watch?v=Btds0y7oaoE](https://www.youtube.com/watch?v=Btds0y7oaoE)
 
 
 ### Topics

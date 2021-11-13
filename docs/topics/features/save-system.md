@@ -7,6 +7,11 @@ date: Last Modified
 * [Autosave](../../topics/features/save-system/autosave.md)
 * [Cloud Sync](../../topics/features/save-system/cloud-sync.md)
 
+## November 9th, 2021 Livestream
+* [Q&A: How are you able to save the files so small in megabyte size?](../../transcriptions/yt-K1JZu9ulqAY.md) [https://www.youtube.com/watch?v=K1JZu9ulqAY](https://www.youtube.com/watch?v=K1JZu9ulqAY)
+* [Q&A: Compression can be off-loaded to another thread?](../../transcriptions/yt--JrnnGgKs_o.md) [https://www.youtube.com/watch?v=-JrnnGgKs_o](https://www.youtube.com/watch?v=-JrnnGgKs_o)
+* [Q&A: Try using Unreal async save?](../../transcriptions/yt-2zL_NHC2MfU.md) [https://www.youtube.com/watch?v=2zL_NHC2MfU](https://www.youtube.com/watch?v=2zL_NHC2MfU)
+
 ## November 2nd, 2021 Livestream
 * [Q&A: Will the save times be reduced?](../../transcriptions/yt-Oe3YJ6I0wIg.md) [https://www.youtube.com/watch?v=Oe3YJ6I0wIg](https://www.youtube.com/watch?v=Oe3YJ6I0wIg)
 * [Q&A: Can you add an option in the save/load menu to delete old saves?](../../transcriptions/yt-L6qL7hJSMZw.md) [https://www.youtube.com/watch?v=L6qL7hJSMZw](https://www.youtube.com/watch?v=L6qL7hJSMZw)

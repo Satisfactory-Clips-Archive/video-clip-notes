@@ -5,6 +5,19 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Unplanned Features](../../../topics/features/unplanned-features.md) > Golf
 
+## November 9th, 2021 Livestream
+* [Q&A: Golf, when?](../../../transcriptions/yt-kYn6eCYtK6w.md) [https://www.youtube.com/watch?v=kYn6eCYtK6w](https://www.youtube.com/watch?v=kYn6eCYtK6w)
+* [Community FYI: If a QA Site Post reaches 2500, it gets auto-rejected](../../../transcriptions/yt-jMtXOWsfTKw.md) [https://www.youtube.com/watch?v=jMtXOWsfTKw](https://www.youtube.com/watch?v=jMtXOWsfTKw)
+
+## November 5th, 2021 Livestream
+* Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 4) [https://www.youtube.com/watch?v=OR-FkU0jKCs](https://www.youtube.com/watch?v=OR-FkU0jKCs)
+* [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 7)](../../../transcriptions/yt-Z9FAXoysVuc.md) [https://www.youtube.com/watch?v=Z9FAXoysVuc](https://www.youtube.com/watch?v=Z9FAXoysVuc)
+* [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 8)](../../../transcriptions/yt-aZeqFJ1kQUQ.md) [https://www.youtube.com/watch?v=aZeqFJ1kQUQ](https://www.youtube.com/watch?v=aZeqFJ1kQUQ)
+* [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 9)](../../../transcriptions/yt-7ACxbeniulk.md) [https://www.youtube.com/watch?v=7ACxbeniulk](https://www.youtube.com/watch?v=7ACxbeniulk)
+* [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 10)](../../../transcriptions/yt-MI6L900el4w.md) [https://www.youtube.com/watch?v=MI6L900el4w](https://www.youtube.com/watch?v=MI6L900el4w)
+* [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 63)](../../../transcriptions/yt-EzTRXGJ57ho.md) [https://www.youtube.com/watch?v=EzTRXGJ57ho](https://www.youtube.com/watch?v=EzTRXGJ57ho)
+* [Community FYI: Checked for rejected QA as soon as the video was over](../../../transcriptions/yt-2usvBK3tqEw.md) [https://www.youtube.com/watch?v=2usvBK3tqEw](https://www.youtube.com/watch?v=2usvBK3tqEw)
+
 ## November 2nd, 2021 Livestream
 * [Snutt & Jace Talk: Golf](../../../transcriptions/yt-IwvIv7uXU20.md) [https://www.youtube.com/watch?v=IwvIv7uXU20](https://www.youtube.com/watch?v=IwvIv7uXU20)
 * [State of Dev: Golf](../../../transcriptions/yt-q6Tzjxn3DLg.md) [https://www.youtube.com/watch?v=q6Tzjxn3DLg](https://www.youtube.com/watch?v=q6Tzjxn3DLg)

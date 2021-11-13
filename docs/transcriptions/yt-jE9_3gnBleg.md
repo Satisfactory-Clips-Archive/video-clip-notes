@@ -9,13 +9,7 @@ topics:
 # [November 2nd, 2021 Livestream](../2021-11-02.md)
 ## Q&A: When will Update 5 come out on Early Access?
 https://www.youtube.com/watch?v=jE9_3gnBleg
-<details>
-<summary>This question may have been asked previously at least 3 other times, as recently as November 2021 and as early as October 2021.</summary>
-
-* [November 2nd, 2021 Livestream Q&A: When do you hope Update 5 will hit Early Access?](./yt-6iQWBOLYA60.md) [https://www.youtube.com/watch?v=6iQWBOLYA60](https://www.youtube.com/watch?v=6iQWBOLYA60)
-* October 26th, 2021 Update 5 Launch Stream and Patch Notes Video Q&A: When will Update 5 come to Early Access? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=16820&end=16843](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=16820&end=16843)
-* [October 19th, 2021 Livestream Q&A: How long will the Update be on Experimental?](./yt-P2AWq6YaQaw.md) [https://www.youtube.com/watch?v=P2AWq6YaQaw](https://www.youtube.com/watch?v=P2AWq6YaQaw)
-</details>
+This question was possibly duplicated with a more recent answer: [November 9th, 2021 Livestream Q&A: When is the EA release?](./yt-Jvoyj5jezKI.md) [https://www.youtube.com/watch?v=Jvoyj5jezKI](https://www.youtube.com/watch?v=Jvoyj5jezKI)
 
 
 ### Topics

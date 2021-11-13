@@ -5,6 +5,12 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Off-Topic](../../../topics/off-topic.md) > [Food & Drink](../../../topics/off-topic/food-and-drink.md) > Pizza
 
+## November 9th, 2021 Livestream
+* [Q&A: Pizza Hut & Subway?](../../../transcriptions/yt--vfoBbfpx7g.md) [https://www.youtube.com/watch?v=-vfoBbfpx7g](https://www.youtube.com/watch?v=-vfoBbfpx7g)
+* [Community FYI: Pizza Hut almost gone in Europe](../../../transcriptions/yt-j_El3-p3LzI.md) [https://www.youtube.com/watch?v=j_El3-p3LzI](https://www.youtube.com/watch?v=j_El3-p3LzI)
+* Community FYI: It's not a restaurant if Snutt can't get a Pizza in a Mug [https://www.youtube.com/watch?v=bi10-5lxu2g](https://www.youtube.com/watch?v=bi10-5lxu2g)
+* [Community FYI: Pizza Hut in America is garbage](../../../transcriptions/yt-b8KzTRoTuGo.md) [https://www.youtube.com/watch?v=b8KzTRoTuGo](https://www.youtube.com/watch?v=b8KzTRoTuGo)
+
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
 * Q&A: Swedish Pizza, underated/overrated? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=6472&end=6611](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=6472&end=6611)
 * Q&A: Pineapple on Pizza, underated/overrated? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=6610&end=6657](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=6610&end=6657)

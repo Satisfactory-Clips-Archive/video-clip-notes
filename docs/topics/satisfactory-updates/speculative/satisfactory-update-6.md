@@ -5,6 +5,14 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Speculative > Satisfactory Update 6
 
+## November 9th, 2021 Livestream
+* [State of Dev: Update 5, Update 6, and Dedicated Servers](../../../transcriptions/yt-02gPaTMBjkg.md) [https://www.youtube.com/watch?v=02gPaTMBjkg](https://www.youtube.com/watch?v=02gPaTMBjkg)
+* Q&A: Will the Dedicated Server receive bug fixes / updates or whatever during Update 6 development? [https://www.youtube.com/watch?v=IQjrq9QmHqA](https://www.youtube.com/watch?v=IQjrq9QmHqA)
+* [Q&A: What areas are going to be reworked in the next Update?](../../../transcriptions/yt-Drt3ZdOCRJo.md) [https://www.youtube.com/watch?v=Drt3ZdOCRJo](https://www.youtube.com/watch?v=Drt3ZdOCRJo)
+
+## November 5th, 2021 Livestream
+* [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 44)](../../../transcriptions/yt-8NxB_aqhf1Q.md) [https://www.youtube.com/watch?v=8NxB_aqhf1Q](https://www.youtube.com/watch?v=8NxB_aqhf1Q)
+
 ## October 19th, 2021 Livestream
 * [Q&A: What major features are left for Update 6?](../../../transcriptions/yt-4dLz2rdgyQ4.md) [https://www.youtube.com/watch?v=4dLz2rdgyQ4](https://www.youtube.com/watch?v=4dLz2rdgyQ4)
 * [Q&A: Update 6, still at November 31?](../../../transcriptions/yt-_WRAMGtLBqA.md) [https://www.youtube.com/watch?v=_WRAMGtLBqA](https://www.youtube.com/watch?v=_WRAMGtLBqA)

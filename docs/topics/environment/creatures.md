@@ -10,6 +10,9 @@ date: Last Modified
 * [Non Flying Bird](../../topics/environment/creatures/non-flying-bird.md)
 * [Space Giraffe-Tick-Penguin-Whale Thing](../../topics/environment/creatures/space-giraffe-tick-penguin-whale-thing.md)
 
+## November 9th, 2021 Livestream
+* [Q&A: Will you add an alien goat to Satisfactory?](../../transcriptions/yt-qjwd46Lr2og.md) [https://www.youtube.com/watch?v=qjwd46Lr2og](https://www.youtube.com/watch?v=qjwd46Lr2og)
+
 ## October 19th, 2021 Livestream
 * [Q&A: Are there plans for indigenous animals?](../../transcriptions/yt-Rfg7rUVG1xc.md) [https://www.youtube.com/watch?v=Rfg7rUVG1xc](https://www.youtube.com/watch?v=Rfg7rUVG1xc)
 

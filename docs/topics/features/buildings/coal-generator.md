@@ -5,6 +5,12 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > Coal Generator
 
+## November 9th, 2021 Livestream
+* [Q&A: How does Water work, I need help with my Coal Generators?](../../../transcriptions/yt-Lgaj7mVtT8I.md) [https://www.youtube.com/watch?v=Lgaj7mVtT8I](https://www.youtube.com/watch?v=Lgaj7mVtT8I)
+
+## November 5th, 2021 Livestream
+* [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 13)](../../../transcriptions/yt-vhvpoKYGVbM.md) [https://www.youtube.com/watch?v=vhvpoKYGVbM](https://www.youtube.com/watch?v=vhvpoKYGVbM)
+
 ## June 1st, 2021 Livestream
 * [Snutt & Jace Talk: Setting up a Coal Generator (Part 1)](../../../transcriptions/yt-cmDE_ThXeUk.md) [https://www.youtube.com/watch?v=cmDE_ThXeUk](https://www.youtube.com/watch?v=cmDE_ThXeUk)
 * [Snutt & Jace Talk: Setting up a Coal Generator (Part 2)](../../../transcriptions/yt-V5iNAIlEA38.md) [https://www.youtube.com/watch?v=V5iNAIlEA38](https://www.youtube.com/watch?v=V5iNAIlEA38)

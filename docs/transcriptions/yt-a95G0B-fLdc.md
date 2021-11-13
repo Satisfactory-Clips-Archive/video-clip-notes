@@ -9,11 +9,7 @@ topics:
 # [November 2nd, 2021 Livestream](../2021-11-02.md)
 ## Q&A: Is the OST coming on vinyl?
 https://www.youtube.com/watch?v=a95G0B-fLdc
-<details>
-<summary>This question may have been asked previously at least 1 other time, as recently as September 2020.</summary>
-
-* [September 8th, 2020 Livestream Q&A: Releasing a Vinyl on the Merch Store ?](./yt-DeEK7w3qPyg.md) [https://www.youtube.com/watch?v=DeEK7w3qPyg](https://www.youtube.com/watch?v=DeEK7w3qPyg)
-</details>
+This question was possibly duplicated with a more recent answer: [November 9th, 2021 Livestream Q&A: Will there be a Satisfactory Soundtrack vinyl disc?](./yt-KHMpvF2OS08.md) [https://www.youtube.com/watch?v=KHMpvF2OS08](https://www.youtube.com/watch?v=KHMpvF2OS08)
 
 
 ### Topics

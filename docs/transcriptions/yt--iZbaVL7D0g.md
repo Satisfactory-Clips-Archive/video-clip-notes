@@ -8,7 +8,7 @@ topics:
 # [February 16th, 2021 Livestream](../2021-02-16.md)
 ## Q&A: How big is the development team?
 https://www.youtube.com/watch?v=-iZbaVL7D0g
-This question was possibly duplicated with a more recent answer: [September 21st, 2021 Livestream Q&A: How big is the whole team?](./yt-PBRR5eAsO40.md) [https://www.youtube.com/watch?v=PBRR5eAsO40](https://www.youtube.com/watch?v=PBRR5eAsO40)
+This question was possibly duplicated with a more recent answer: [November 9th, 2021 Livestream Q&A: Is Satisfactory a team of 25 people?](./yt-niOtt1II3gw.md) [https://www.youtube.com/watch?v=niOtt1II3gw](https://www.youtube.com/watch?v=niOtt1II3gw)
 
 
 ### Topics

@@ -8,7 +8,7 @@ topics:
 # [August 24th, 2021 Livestream](../2021-08-24.md)
 ## Q&A: What about Conveyor Belts clipped to the ceiling?
 https://www.youtube.com/watch?v=ME3ktW5i1hs
-This question was possibly duplicated with a more recent answer: [August 31st, 2021 Livestream Q&A: Why can't Stackable Conveyor Poles be built from the ceiling?](./yt-O9O2h04O-mo.md) [https://www.youtube.com/watch?v=O9O2h04O-mo](https://www.youtube.com/watch?v=O9O2h04O-mo)
+This question was possibly duplicated with a more recent answer: November 9th, 2021 Livestream Q&A: What about ceiling mounts for Belts? [https://www.youtube.com/watch?v=ArUvBcQX7Hg](https://www.youtube.com/watch?v=ArUvBcQX7Hg)
 
 
 ### Topics

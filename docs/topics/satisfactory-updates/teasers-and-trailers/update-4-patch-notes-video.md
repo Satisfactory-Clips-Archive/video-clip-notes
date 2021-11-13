@@ -5,6 +5,13 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Teasers & Trailers](../../../topics/satisfactory-updates/teasers-and-trailers.md) > Update 4 Patch Notes Video
 
+## November 5th, 2021 Livestream
+* [Q&A: Is the Patch Notes VOD still on your channel, or are the clips all that remain?](../../../transcriptions/yt-V_YXOp7VQqc.md) [https://www.youtube.com/watch?v=V_YXOp7VQqc](https://www.youtube.com/watch?v=V_YXOp7VQqc)
+* [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 7)](../../../transcriptions/yt-Z9FAXoysVuc.md) [https://www.youtube.com/watch?v=Z9FAXoysVuc](https://www.youtube.com/watch?v=Z9FAXoysVuc)
+* [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 14)](../../../transcriptions/yt-hogdxF1ITbc.md) [https://www.youtube.com/watch?v=hogdxF1ITbc](https://www.youtube.com/watch?v=hogdxF1ITbc)
+* [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 41)](../../../transcriptions/yt-cFcsFpeNWfE.md) [https://www.youtube.com/watch?v=cFcsFpeNWfE](https://www.youtube.com/watch?v=cFcsFpeNWfE)
+* [Community FYI: During Update 4 Commentary Stream you offered yourself up to voice people's stuff?](../../../transcriptions/yt-mzyEDh33Y2E.md) [https://www.youtube.com/watch?v=mzyEDh33Y2E](https://www.youtube.com/watch?v=mzyEDh33Y2E)
+
 ## October 28th, 2021 Video
 * [End Tag](../../../transcriptions/yt-YSPnFZbTvxE,194.76123333333334.md) [https://youtube.com/embed/YSPnFZbTvxE?autoplay=1&start=194](https://youtube.com/embed/YSPnFZbTvxE?autoplay=1&start=194)
 

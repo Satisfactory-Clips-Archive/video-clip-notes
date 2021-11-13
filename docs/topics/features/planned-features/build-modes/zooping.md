@@ -5,6 +5,14 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > Planned Features > [Build Modes](../../../../topics/features/planned-features/build-modes.md) > Zooping
 
+## November 12th, 2021 Video
+* Snutt Talk: Switching Wall Types with Zooping [https://youtube.com/clip/UgkxhBVzyTy6NO02bDwiATgeMiE0n_WOqp7r](https://youtube.com/clip/UgkxhBVzyTy6NO02bDwiATgeMiE0n_WOqp7r)
+
+## November 5th, 2021 Livestream
+* [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 15)](../../../../transcriptions/yt-El1sKfDOaLk.md) [https://www.youtube.com/watch?v=El1sKfDOaLk](https://www.youtube.com/watch?v=El1sKfDOaLk)
+* [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 16)](../../../../transcriptions/yt-YFfud0NwaGk.md) [https://www.youtube.com/watch?v=YFfud0NwaGk](https://www.youtube.com/watch?v=YFfud0NwaGk)
+* [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 17)](../../../../transcriptions/yt-n8kC_hOCn6o.md) [https://www.youtube.com/watch?v=n8kC_hOCn6o](https://www.youtube.com/watch?v=n8kC_hOCn6o)
+
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
 * [Snutt & Jace Talk: Wager on releasing Golf versus Dedicated Servers (Part 2)](../../../../transcriptions/yt-QfaReoks6OM,185.33333333333334,200.29166666666666.md) [https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=185&end=201](https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=185&end=201)
 * [Snutt Talk: Zooping](../../../../transcriptions/yt-QfaReoks6OM,200.33333333333334,222.20833333333334.md) [https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=200&end=223](https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=200&end=223)

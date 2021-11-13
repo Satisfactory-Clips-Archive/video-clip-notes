@@ -5,6 +5,13 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Features](../../topics/features.md) > Pioneer
 
+## November 9th, 2021 Livestream
+* Q&A: Can I use the Customizer on myself? [https://www.youtube.com/watch?v=n1Y_di8jDpY](https://www.youtube.com/watch?v=n1Y_di8jDpY)
+* [Q&A: Will there ever be lifts for Vehicles & Players?](../../transcriptions/yt-wSEbzReDRqc.md) [https://www.youtube.com/watch?v=wSEbzReDRqc](https://www.youtube.com/watch?v=wSEbzReDRqc)
+* [Community FYI: You don't get fall damage if you're in the Factory Cart (Part 1)](../../transcriptions/yt-6qhAAvQoUKQ.md) [https://www.youtube.com/watch?v=6qhAAvQoUKQ](https://www.youtube.com/watch?v=6qhAAvQoUKQ)
+* [Community FYI: You don't get fall damage if you're in the Factory Cart (Part 2)](../../transcriptions/yt-pgEhwpjcqw8.md) [https://www.youtube.com/watch?v=pgEhwpjcqw8](https://www.youtube.com/watch?v=pgEhwpjcqw8)
+* [Q&A: Two Pioneers in one car?](../../transcriptions/yt-Btds0y7oaoE.md) [https://www.youtube.com/watch?v=Btds0y7oaoE](https://www.youtube.com/watch?v=Btds0y7oaoE)
+
 ## October 12th, 2021 Livestream
 * [Q&A: What about Trains running over Players?](../../transcriptions/yt-6dXZLCMVuqY.md) [https://www.youtube.com/watch?v=6dXZLCMVuqY](https://www.youtube.com/watch?v=6dXZLCMVuqY)
 

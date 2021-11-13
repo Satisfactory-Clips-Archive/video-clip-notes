@@ -8,7 +8,7 @@ topics:
 # [March 23rd, 2021 Livestream](../2021-03-23.md)
 ## Q&A: Do you ever think you'll give us more than one Body Slot?
 https://www.youtube.com/watch?v=b8xgQlBZ_yc
-This question was possibly duplicated with a more recent answer: [October 5th, 2021 Livestream Q&A: Equipment Slots rework still in progress?](./yt-NZGJ3mLsbNk.md) [https://www.youtube.com/watch?v=NZGJ3mLsbNk](https://www.youtube.com/watch?v=NZGJ3mLsbNk)
+This question was possibly duplicated with a more recent answer: [November 9th, 2021 Livestream Q&A: Two body slots, maybe?](./yt-1r0kKFc_mW4.md) [https://www.youtube.com/watch?v=1r0kKFc_mW4](https://www.youtube.com/watch?v=1r0kKFc_mW4)
 
 
 ### Topics

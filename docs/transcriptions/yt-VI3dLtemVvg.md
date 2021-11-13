@@ -9,6 +9,8 @@ topics:
 # [June 8th, 2021 Livestream](../2021-06-08.md)
 ## Q&A: How about an Elevator big enough for Vehicles?
 https://www.youtube.com/watch?v=VI3dLtemVvg
+This question was possibly duplicated with a more recent answer: [November 9th, 2021 Livestream Q&A: Will there ever be lifts for Vehicles & Players?](./yt-wSEbzReDRqc.md) [https://www.youtube.com/watch?v=wSEbzReDRqc](https://www.youtube.com/watch?v=wSEbzReDRqc)
+
 
 ### Topics
 * [Features > Requested Features > Elevators](../topics/features/requested-features/elevators.md)

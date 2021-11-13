@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > Possible Features > Decor
 
+## November 9th, 2021 Livestream
+* [Q&A: Planting Trees?](../../../transcriptions/yt-luBjVZ5Agc8.md) [https://www.youtube.com/watch?v=luBjVZ5Agc8](https://www.youtube.com/watch?v=luBjVZ5Agc8)
+
 ## October 5th, 2021 Livestream
 * [Q&A: Will we get Jace & Snutt statues in Update 5?](../../../transcriptions/yt-jmLrJTUDpL8.md) [https://www.youtube.com/watch?v=jmLrJTUDpL8](https://www.youtube.com/watch?v=jmLrJTUDpL8)
 

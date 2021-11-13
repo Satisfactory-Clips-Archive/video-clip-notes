@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > [Buildings](../../../../topics/features/buildings.md) > [Space Elevator](../../../../topics/features/buildings/space-elevator.md) > Food Court
 
+## November 9th, 2021 Livestream
+* [Community FYI: Just go to the Food Court](../../../../transcriptions/yt-oOuTpP3Dgdo.md) [https://www.youtube.com/watch?v=oOuTpP3Dgdo](https://www.youtube.com/watch?v=oOuTpP3Dgdo)
+
 ## August 10th, 2021 Livestream
 * [Q&A: Food Court is the place where we can get Doggo burgers?](../../../../transcriptions/yt-mrs1Bw4amO8.md) [https://www.youtube.com/watch?v=mrs1Bw4amO8](https://www.youtube.com/watch?v=mrs1Bw4amO8)
 * [Jace Talk: Gyoza](../../../../transcriptions/yt-bY80dkTfPc0.md) [https://www.youtube.com/watch?v=bY80dkTfPc0](https://www.youtube.com/watch?v=bY80dkTfPc0)

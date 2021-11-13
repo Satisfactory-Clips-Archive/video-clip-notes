@@ -14,6 +14,9 @@ date: Last Modified
 * [Update 5 Patch Notes Video](../../topics/satisfactory-updates/teasers-and-trailers/update-5-patch-notes-video.md)
 * [Update 5 Teasers](../../topics/satisfactory-updates/teasers-and-trailers/update-5-teasers.md)
 
+## November 5th, 2021 Livestream
+* [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 12)](../../transcriptions/yt-bFyLzQZq4ys.md) [https://www.youtube.com/watch?v=bFyLzQZq4ys](https://www.youtube.com/watch?v=bFyLzQZq4ys)
+
 ## November 2nd, 2021 Livestream
 * [Snutt & Jace Talk: That one track we use in all the YouTube videos](../../transcriptions/yt-1PrzGVafNZ8.md) [https://www.youtube.com/watch?v=1PrzGVafNZ8](https://www.youtube.com/watch?v=1PrzGVafNZ8)
 

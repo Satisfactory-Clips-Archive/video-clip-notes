@@ -9,7 +9,7 @@ topics:
 # [September 29th, 2020 Livestream](../2020-09-29.md)
 ## Q&A: Control Console with a simple representation of the Remote Plants?
 https://www.youtube.com/watch?v=hVDlrmNvsIY
-This question was possibly duplicated with a more recent answer: [August 24th, 2021 Livestream Q&A: Are there going to be stats on The HUB computer at some point?](./yt-LXjxyiB6F3s.md) [https://www.youtube.com/watch?v=LXjxyiB6F3s](https://www.youtube.com/watch?v=LXjxyiB6F3s)
+This question was possibly duplicated with a more recent answer: [November 9th, 2021 Livestream Q&A: Any plans to implement an in-game statistics panel?](./yt--FK6cMdhe18.md) [https://www.youtube.com/watch?v=-FK6cMdhe18](https://www.youtube.com/watch?v=-FK6cMdhe18)
 
 
 ### Topics

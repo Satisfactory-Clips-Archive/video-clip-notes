@@ -5,6 +5,13 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildables](../../../topics/features/buildables.md) > Signs
 
+## November 5th, 2021 Livestream
+* [Q&A: Were you guys tempted to tease Signs?](../../../transcriptions/yt-Ib7eDlYKTtc.md) [https://www.youtube.com/watch?v=Ib7eDlYKTtc](https://www.youtube.com/watch?v=Ib7eDlYKTtc)
+* [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 42)](../../../transcriptions/yt-FwfGEhrC9Ns.md) [https://www.youtube.com/watch?v=FwfGEhrC9Ns](https://www.youtube.com/watch?v=FwfGEhrC9Ns)
+* [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 43)](../../../transcriptions/yt-Y8yizV_opTI.md) [https://www.youtube.com/watch?v=Y8yizV_opTI](https://www.youtube.com/watch?v=Y8yizV_opTI)
+* [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 54)](../../../transcriptions/yt-4hDgbahf518.md) [https://www.youtube.com/watch?v=4hDgbahf518](https://www.youtube.com/watch?v=4hDgbahf518)
+* [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 66)](../../../transcriptions/yt-tY6Aj8wNVaE.md) [https://www.youtube.com/watch?v=tY6Aj8wNVaE](https://www.youtube.com/watch?v=tY6Aj8wNVaE)
+
 ## November 2nd, 2021 Livestream
 * [Snutt & Jace Talk: Torsten's Cosmetics Whiteboard (Part 6)](../../../transcriptions/yt-cL1_KQebJBQ.md) [https://www.youtube.com/watch?v=cL1_KQebJBQ](https://www.youtube.com/watch?v=cL1_KQebJBQ)
 

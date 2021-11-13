@@ -5,6 +5,24 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Multiplayer](../../../topics/features/multiplayer.md) > Dedicated Servers
 
+## November 9th, 2021 Livestream
+* [State of Dev: Dedicated Servers (Part 1)](../../../transcriptions/yt-w872IRljEbo.md) [https://www.youtube.com/watch?v=w872IRljEbo](https://www.youtube.com/watch?v=w872IRljEbo)
+* [State of Dev: Update 5, Update 6, and Dedicated Servers](../../../transcriptions/yt-02gPaTMBjkg.md) [https://www.youtube.com/watch?v=02gPaTMBjkg](https://www.youtube.com/watch?v=02gPaTMBjkg)
+* [State of Dev: Dedicated Servers (Part 2)](../../../transcriptions/yt-i8_JA6_ys9Y.md) [https://www.youtube.com/watch?v=i8_JA6_ys9Y](https://www.youtube.com/watch?v=i8_JA6_ys9Y)
+* [Q&A: When are Dedicated Servers coming?](../../../transcriptions/yt-O77SzOvlhHo.md) [https://www.youtube.com/watch?v=O77SzOvlhHo](https://www.youtube.com/watch?v=O77SzOvlhHo)
+* [Q&A: Official Docker, when?](../../../transcriptions/yt-BeXedaj-qHA.md) [https://www.youtube.com/watch?v=BeXedaj-qHA](https://www.youtube.com/watch?v=BeXedaj-qHA)
+* [State of Dev: Upcoming Patches](../../../transcriptions/yt-JottDd7m1w8.md) [https://www.youtube.com/watch?v=JottDd7m1w8](https://www.youtube.com/watch?v=JottDd7m1w8)
+* [Q&A: Step-by-step instructions on the wiki for using SteamCMD?](../../../transcriptions/yt-8gpbrdseKwg.md) [https://www.youtube.com/watch?v=8gpbrdseKwg](https://www.youtube.com/watch?v=8gpbrdseKwg)
+* [Q&A: Can you explain how the Dedicated Servers will work?](../../../transcriptions/yt-n1kanNJr2qQ.md) [https://www.youtube.com/watch?v=n1kanNJr2qQ](https://www.youtube.com/watch?v=n1kanNJr2qQ)
+* [Q&A: Is there a public feed/changelog/blog we can follow for Dedicated Server changes?](../../../transcriptions/yt--MxqS9W0Gps.md) [https://www.youtube.com/watch?v=-MxqS9W0Gps](https://www.youtube.com/watch?v=-MxqS9W0Gps)
+* Q&A: Will the Dedicated Server receive bug fixes / updates or whatever during Update 6 development? [https://www.youtube.com/watch?v=IQjrq9QmHqA](https://www.youtube.com/watch?v=IQjrq9QmHqA)
+* [Q&A: Are you working on the multi-threading for Servers?](../../../transcriptions/yt-sRtTjntZEMc.md) [https://www.youtube.com/watch?v=sRtTjntZEMc](https://www.youtube.com/watch?v=sRtTjntZEMc)
+
+## November 5th, 2021 Livestream
+* [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 9)](../../../transcriptions/yt-7ACxbeniulk.md) [https://www.youtube.com/watch?v=7ACxbeniulk](https://www.youtube.com/watch?v=7ACxbeniulk)
+* [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 10)](../../../transcriptions/yt-MI6L900el4w.md) [https://www.youtube.com/watch?v=MI6L900el4w](https://www.youtube.com/watch?v=MI6L900el4w)
+* [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 62)](../../../transcriptions/yt-4YG1dbFkhVM.md) [https://www.youtube.com/watch?v=4YG1dbFkhVM](https://www.youtube.com/watch?v=4YG1dbFkhVM)
+
 ## November 2nd, 2021 Livestream
 * [Q&A: Dedicated Servers don't show up in my Steam Library, is it a regional thing?](../../../transcriptions/yt-6Trsm-es3TQ.md) [https://www.youtube.com/watch?v=6Trsm-es3TQ](https://www.youtube.com/watch?v=6Trsm-es3TQ)
 * [Community FYI: GG for Dedicated Servers, by the way](../../../transcriptions/yt-TH2AZz_gYSw.md) [https://www.youtube.com/watch?v=TH2AZz_gYSw](https://www.youtube.com/watch?v=TH2AZz_gYSw)

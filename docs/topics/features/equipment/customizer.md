@@ -1,8 +1,33 @@
 ---
 title: "Customizer"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiErHf4MzxQldu5ULKXwa8BhQ
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Equipment](../../../topics/features/equipment.md) > Customizer
+
+## November 12th, 2021 Video
+* Q&A: What is the Customizer? [https://youtube.com/embed/8Tok_vdqZH8?autoplay=1&start=58&end=133](https://youtube.com/embed/8Tok_vdqZH8?autoplay=1&start=58&end=133)
+* Q&A: How do you get the Customizer? [https://youtube.com/clip/UgkxVXhGZS0OHgqFj5fh7LsJ1VgRop4aGR4F](https://youtube.com/clip/UgkxVXhGZS0OHgqFj5fh7LsJ1VgRop4aGR4F)
+* Snutt Talk: Using the Customizer [https://youtube.com/embed/8Tok_vdqZH8?autoplay=1&start=186&end=284](https://youtube.com/embed/8Tok_vdqZH8?autoplay=1&start=186&end=284)
+* Q&A: Are you going to add any more materials to the game? [https://youtube.com/clip/UgkxYD12O1ndcM0aglMn8LVGjHJXsVu2t5WJ](https://youtube.com/clip/UgkxYD12O1ndcM0aglMn8LVGjHJXsVu2t5WJ)
+* Snutt Talk: Let's talk about Patterns [https://youtube.com/clip/Ugkxh0QfGp_AtX49_cYmvysIF4JgaTKBtZ1T](https://youtube.com/clip/Ugkxh0QfGp_AtX49_cYmvysIF4JgaTKBtZ1T)
+* Q&A: How do you change the colour on the Patterns? [https://youtube.com/clip/UgkxtIAvwdFOnv9vtehBTsydtmLHmwrIjguf](https://youtube.com/clip/UgkxtIAvwdFOnv9vtehBTsydtmLHmwrIjguf)
+* Snutt Talk: Colours [https://youtube.com/embed/8Tok_vdqZH8?autoplay=1&start=398&end=472](https://youtube.com/embed/8Tok_vdqZH8?autoplay=1&start=398&end=472)
+* Snutt Talk: Colour Swatches [https://youtube.com/embed/8Tok_vdqZH8?autoplay=1&start=471&end=587](https://youtube.com/embed/8Tok_vdqZH8?autoplay=1&start=471&end=587)
+* Snutt Talk: Default Swatches [https://youtube.com/embed/8Tok_vdqZH8?autoplay=1&start=586&end=657](https://youtube.com/embed/8Tok_vdqZH8?autoplay=1&start=586&end=657)
+* Snutt Talk: Color Cartridges [https://youtube.com/clip/UgkxqpK7gQ4Yi2nMzRb-Zjas0l67BjSoViJ2](https://youtube.com/clip/UgkxqpK7gQ4Yi2nMzRb-Zjas0l67BjSoViJ2)
+* Snutt Talk: Quick Switching [https://youtube.com/clip/UgkxmGWwvlZ15Vmv2e8Az3y4EINRTnq5eFSU](https://youtube.com/clip/UgkxmGWwvlZ15Vmv2e8Az3y4EINRTnq5eFSU)
+* Snutt Talk: Swapping Materials on the Hotbar [https://youtube.com/embed/8Tok_vdqZH8?autoplay=1&start=767&end=838](https://youtube.com/embed/8Tok_vdqZH8?autoplay=1&start=767&end=838)
+* End Tag [https://youtube.com/embed/8Tok_vdqZH8?autoplay=1&start=865](https://youtube.com/embed/8Tok_vdqZH8?autoplay=1&start=865)
+
+## November 9th, 2021 Livestream
+* [Q&A: Is there any idea on improving the order of items you place?](../../../transcriptions/yt-ewSNOJgHryQ.md) [https://www.youtube.com/watch?v=ewSNOJgHryQ](https://www.youtube.com/watch?v=ewSNOJgHryQ)
+* Q&A: Can I use the Customizer on myself? [https://www.youtube.com/watch?v=n1Y_di8jDpY](https://www.youtube.com/watch?v=n1Y_di8jDpY)
+* [Community FYI: Customizer Wars](../../../transcriptions/yt-Bqebo7gBZmY.md) [https://www.youtube.com/watch?v=Bqebo7gBZmY](https://www.youtube.com/watch?v=Bqebo7gBZmY)
+* [Q&A: What are swatches?](../../../transcriptions/yt-RSrD8CqsUA8.md) [https://www.youtube.com/watch?v=RSrD8CqsUA8](https://www.youtube.com/watch?v=RSrD8CqsUA8)
+* [Q&A: Do we get more than one custom swatch colours in the Customizer?](../../../transcriptions/yt-HvB4goxGWko.md) [https://www.youtube.com/watch?v=HvB4goxGWko](https://www.youtube.com/watch?v=HvB4goxGWko)
+* [Q&A: Is painting everything with Custom Swatch bad because it isn't instanced?](../../../transcriptions/yt-EY9xCOgyoU4.md) [https://www.youtube.com/watch?v=EY9xCOgyoU4](https://www.youtube.com/watch?v=EY9xCOgyoU4)
+* [Q&A: You can make infinite presets, right?](../../../transcriptions/yt-a-XmKDXbe0k.md) [https://www.youtube.com/watch?v=a-XmKDXbe0k](https://www.youtube.com/watch?v=a-XmKDXbe0k)
 
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
 * [Snutt & Jace Talk: Wager on releasing Golf versus Dedicated Servers (Part 4)](../../../transcriptions/yt-QfaReoks6OM,262.7916666666667,269.8333333333333.md) [https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=262&end=270](https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=262&end=270)

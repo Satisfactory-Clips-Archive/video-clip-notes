@@ -8,7 +8,7 @@ topics:
 # [March 23rd, 2021 Livestream](../2021-03-23.md)
 ## Q&A: Will there be a no-mob option ?
 https://www.youtube.com/watch?v=KFT0l0kO5qg
-This question was possibly duplicated with a more recent answer: [August 17th, 2021 Livestream Q&A: Any plans for peace mode in the game?](./yt-MDBg0w3FweM.md) [https://www.youtube.com/watch?v=MDBg0w3FweM](https://www.youtube.com/watch?v=MDBg0w3FweM)
+This question was possibly duplicated with a more recent answer: [November 9th, 2021 Livestream Q&A: Chance we'll see Peaceful Modes in the game soon?](./yt-WMZBpM-POak.md) [https://www.youtube.com/watch?v=WMZBpM-POak](https://www.youtube.com/watch?v=WMZBpM-POak)
 
 
 ### Topics

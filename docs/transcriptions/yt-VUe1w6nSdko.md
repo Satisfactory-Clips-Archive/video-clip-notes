@@ -9,7 +9,7 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Any plans for Elevators?
 https://www.youtube.com/watch?v=VUe1w6nSdko
-This question was possibly duplicated with a more recent answer: November 2nd, 2021 Livestream Q&A: Will there ever be Elevators? [https://www.youtube.com/watch?v=e-r3tL5dY_8](https://www.youtube.com/watch?v=e-r3tL5dY_8)
+This question was possibly duplicated with a more recent answer: [November 9th, 2021 Livestream Q&A: Will there ever be lifts for Vehicles & Players?](./yt-wSEbzReDRqc.md) [https://www.youtube.com/watch?v=wSEbzReDRqc](https://www.youtube.com/watch?v=wSEbzReDRqc)
 
 
 ### Topics

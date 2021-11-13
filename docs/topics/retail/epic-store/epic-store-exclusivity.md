@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Retail](../../../topics/retail.md) > [Epic Store](../../../topics/retail/epic-store.md) > Epic Store Exclusivity
 
+## November 9th, 2021 Livestream
+* [Q&A: Is the game still fully-funded?](../../../transcriptions/yt-ub_jfqVBxfs.md) [https://www.youtube.com/watch?v=ub_jfqVBxfs](https://www.youtube.com/watch?v=ub_jfqVBxfs)
+
 ## May 15th, 2020 Q&A
 * [Q&A: Why did you sign an exclusivity deal with Epic?](../../../transcriptions/yt-NlIVwoRqjVk,461.22743333333335,677.4434333333334.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=461&end=678](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=461&end=678)
 

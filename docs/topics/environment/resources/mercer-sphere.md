@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Resources](../../../topics/environment/resources.md) > Mercer Sphere
 
+## November 9th, 2021 Livestream
+* [Q&A: Can you tell us the purpose of the Mercer Sphere and Somersloop?](../../../transcriptions/yt-nZsSk1ftKZk.md) [https://www.youtube.com/watch?v=nZsSk1ftKZk](https://www.youtube.com/watch?v=nZsSk1ftKZk)
+* [Q&A: Why is [Paternal Figure] so insistent on us collecting those when we can't use them?](../../../transcriptions/yt-9aIHAk5luq8.md) [https://www.youtube.com/watch?v=9aIHAk5luq8](https://www.youtube.com/watch?v=9aIHAk5luq8)
+
 ## October 5th, 2021 Livestream
 * [Q&A: Are Mercer Spheres & Somersloops going to have any relevance before 1.0?](../../../transcriptions/yt-b9gre_TGBH0.md) [https://www.youtube.com/watch?v=b9gre_TGBH0](https://www.youtube.com/watch?v=b9gre_TGBH0)
 

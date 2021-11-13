@@ -11,7 +11,7 @@ topics:
 # [January 26th, 2021 Livestream](../2021-01-26.md)
 ## Q&A: Do Mercer Spheres and Somersloops get a place in Update 4?
 https://www.youtube.com/watch?v=-N0atMiN9dM
-This question was possibly duplicated with a more recent answer: [October 5th, 2021 Livestream Q&A: Are Mercer Spheres & Somersloops going to have any relevance before 1.0?](./yt-b9gre_TGBH0.md) [https://www.youtube.com/watch?v=b9gre_TGBH0](https://www.youtube.com/watch?v=b9gre_TGBH0)
+This question was possibly duplicated with a more recent answer: [November 9th, 2021 Livestream Q&A: Can you tell us the purpose of the Mercer Sphere and Somersloop?](./yt-nZsSk1ftKZk.md) [https://www.youtube.com/watch?v=nZsSk1ftKZk](https://www.youtube.com/watch?v=nZsSk1ftKZk)
 
 
 ### Topics

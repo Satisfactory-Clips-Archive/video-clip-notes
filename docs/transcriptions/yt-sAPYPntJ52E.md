@@ -3,6 +3,7 @@ title: "August 24th, 2021 Livestream Snutt Talk: Gas Masks not working inside Ve
 date: "2021-08-24"
 layout: transcript
 topics:
+    - "features/equipment/gas-mask"
     - "features/transportation/vehicles"
 ---
 # [August 24th, 2021 Livestream](../2021-08-24.md)
@@ -10,6 +11,7 @@ topics:
 https://www.youtube.com/watch?v=sAPYPntJ52E
 
 ### Topics
+* [Features > Equipment > Gas Mask](../topics/features/equipment/gas-mask.md)
 * [Features > Transportation > Vehicles](../topics/features/transportation/vehicles.md)
 
 ### Transcript

@@ -8,7 +8,7 @@ topics:
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: Can you make a toolbar selection to be with just hotkeys instead of mousewheel?
 https://www.youtube.com/watch?v=xwwx4N37G8M
-This question was possibly duplicated with a more recent answer: [June 29th, 2021 Livestream Q&A: Equipment Hotkey, when?](./yt-W56wGXyT_sA.md) [https://www.youtube.com/watch?v=W56wGXyT_sA](https://www.youtube.com/watch?v=W56wGXyT_sA)
+This question was possibly duplicated with a more recent answer: [November 9th, 2021 Livestream Q&A: Mapping hotkeys instead of using mousewheel?](./yt-SRVEhitZpCE.md) [https://www.youtube.com/watch?v=SRVEhitZpCE](https://www.youtube.com/watch?v=SRVEhitZpCE)
 
 
 ### Topics

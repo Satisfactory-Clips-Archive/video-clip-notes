@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Resources](../../../topics/environment/resources.md) > Water
 
+## November 9th, 2021 Livestream
+* [Q&A: How does Water work, I need help with my Coal Generators?](../../../transcriptions/yt-Lgaj7mVtT8I.md) [https://www.youtube.com/watch?v=Lgaj7mVtT8I](https://www.youtube.com/watch?v=Lgaj7mVtT8I)
+
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
 * Q&A: Getting water from Resource Wells, underrated/overrated? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=7869&end=7899](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=7869&end=7899)
 

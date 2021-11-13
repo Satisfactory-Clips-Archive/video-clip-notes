@@ -9,6 +9,14 @@ date: Last Modified
 * [Object Limit](../../topics/technology/unreal-engine/object-limit.md)
 * [Unreal Engine 5](../../topics/technology/unreal-engine/unreal-engine-5.md)
 
+## November 9th, 2021 Livestream
+* [Q&A: Is painting everything with Custom Swatch bad because it isn't instanced?](../../transcriptions/yt-EY9xCOgyoU4.md) [https://www.youtube.com/watch?v=EY9xCOgyoU4](https://www.youtube.com/watch?v=EY9xCOgyoU4)
+* [Q&A: Have you had an Engine change to go upstream to Epic's repos?](../../transcriptions/yt-lZPrEabdP5Q.md) [https://www.youtube.com/watch?v=lZPrEabdP5Q](https://www.youtube.com/watch?v=lZPrEabdP5Q)
+* [Q&A: Try using Unreal async save?](../../transcriptions/yt-2zL_NHC2MfU.md) [https://www.youtube.com/watch?v=2zL_NHC2MfU](https://www.youtube.com/watch?v=2zL_NHC2MfU)
+
+## November 5th, 2021 Livestream
+* [Q&A: How do you do the depth-of-field effect?](../../transcriptions/yt-hwqoNG0udao.md) [https://www.youtube.com/watch?v=hwqoNG0udao](https://www.youtube.com/watch?v=hwqoNG0udao)
+
 ## November 2nd, 2021 Livestream
 * [Snutt & Jace Talk: Torsten's Cosmetics Whiteboard (Part 7)](../../transcriptions/yt-BLow4FGZ4LQ.md) [https://www.youtube.com/watch?v=BLow4FGZ4LQ](https://www.youtube.com/watch?v=BLow4FGZ4LQ)
 * [Q&A: Is Satisfactory using networking code in Unreal, or did you roll your own?](../../transcriptions/yt-6_TC7rp374A.md) [https://www.youtube.com/watch?v=6_TC7rp374A](https://www.youtube.com/watch?v=6_TC7rp374A)

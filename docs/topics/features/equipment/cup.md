@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Equipment](../../../topics/features/equipment.md) > Cup
 
+## November 9th, 2021 Livestream
+* [Q&A: The coffee doesn't flow out of the cup when you bend forward, any plans on fixing that?](../../../transcriptions/yt-5gRHmIpvpJw.md) [https://www.youtube.com/watch?v=5gRHmIpvpJw](https://www.youtube.com/watch?v=5gRHmIpvpJw)
+
 ## September 28th, 2021 Livestream
 * [Q&A: Will coffee cup look different in Update 5?](../../../transcriptions/yt-Mr80G3BjkDg.md) [https://www.youtube.com/watch?v=Mr80G3BjkDg](https://www.youtube.com/watch?v=Mr80G3BjkDg)
 

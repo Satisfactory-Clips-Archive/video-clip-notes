@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > Transportation > [Vehicles](../../../../topics/features/transportation/vehicles.md) > Autopilot
 
+## November 5th, 2021 Livestream
+* Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 31) [https://www.youtube.com/watch?v=gND0YVdujU8](https://www.youtube.com/watch?v=gND0YVdujU8)
+* [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 32)](../../../../transcriptions/yt-QvJr2UFkIa4.md) [https://www.youtube.com/watch?v=QvJr2UFkIa4](https://www.youtube.com/watch?v=QvJr2UFkIa4)
+
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
 * [Snutt & Jace Talk: Wager on releasing Golf versus Dedicated Servers (Part 5)](../../../../transcriptions/yt-QfaReoks6OM,382.7916666666667,403.0416666666667.md) [https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=382&end=404](https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=382&end=404)
 * [Snutt Talk: Huge Update to automated Vehicle pathing & surrounding systems](../../../../transcriptions/yt-QfaReoks6OM,403.0833333333333,437.7916666666667.md) [https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=403&end=438](https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=403&end=438)

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Factorio
 
+## November 5th, 2021 Livestream
+* [Q&A: What's Factorio?](../../transcriptions/yt-Z26xKG-o-z0.md) [https://www.youtube.com/watch?v=Z26xKG-o-z0](https://www.youtube.com/watch?v=Z26xKG-o-z0)
+
 ## October 12th, 2021 Livestream
 * [Q&A: Do you plan to port pyanodon mod?](../../transcriptions/yt-8pzKhyBAVmQ.md) [https://www.youtube.com/watch?v=8pzKhyBAVmQ](https://www.youtube.com/watch?v=8pzKhyBAVmQ)
 

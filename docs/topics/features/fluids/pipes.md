@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Fluids](../../../topics/features/fluids.md) > Pipes
 
+## November 9th, 2021 Livestream
+* [Q&A: How does Water work, I need help with my Coal Generators?](../../../transcriptions/yt-Lgaj7mVtT8I.md) [https://www.youtube.com/watch?v=Lgaj7mVtT8I](https://www.youtube.com/watch?v=Lgaj7mVtT8I)
+
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
 * Tobias, Snutt, and Jace Talk: Pre-pipes & pre-lifts build [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=3252&end=3323](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=3252&end=3323)
 

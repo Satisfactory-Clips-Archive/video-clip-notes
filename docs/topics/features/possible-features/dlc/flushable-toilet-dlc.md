@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > Possible Features > [DLC](../../../../topics/features/possible-features/dlc.md) > Flushable Toilet DLC
 
+## November 9th, 2021 Livestream
+* [Q&A: When will the Toilet in the HUB be usable & generate Biomass?](../../../../transcriptions/yt-9nKV9V8W8ns.md) [https://www.youtube.com/watch?v=9nKV9V8W8ns](https://www.youtube.com/watch?v=9nKV9V8W8ns)
+
 ## September 28th, 2021 Livestream
 * [Community FYI: "Update 5: The Flush"](../../../../transcriptions/yt-ltBHmNu2JqA.md) [https://www.youtube.com/watch?v=ltBHmNu2JqA](https://www.youtube.com/watch?v=ltBHmNu2JqA)
 

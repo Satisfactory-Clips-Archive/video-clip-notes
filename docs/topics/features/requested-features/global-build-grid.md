@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Requested Features](../../../topics/features/requested-features.md) > Global Build Grid
 
+## November 9th, 2021 Livestream
+* [Q&A: Will there ever be an option to set a grid map-wide?](../../../transcriptions/yt-iiNu3aKc1VI.md) [https://www.youtube.com/watch?v=iiNu3aKc1VI](https://www.youtube.com/watch?v=iiNu3aKc1VI)
+
 ## October 19th, 2021 Livestream
 * [Q&A: Ever thought about a general grid overlay rather than just eyeballing it?](../../../transcriptions/yt-prxWjP-hNdw.md) [https://www.youtube.com/watch?v=prxWjP-hNdw](https://www.youtube.com/watch?v=prxWjP-hNdw)
 

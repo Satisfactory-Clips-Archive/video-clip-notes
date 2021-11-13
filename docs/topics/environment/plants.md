@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Environment](../../topics/environment.md) > Plants
 
+## November 9th, 2021 Livestream
+* [Q&A: Planting Trees?](../../transcriptions/yt-luBjVZ5Agc8.md) [https://www.youtube.com/watch?v=luBjVZ5Agc8](https://www.youtube.com/watch?v=luBjVZ5Agc8)
+* [Q&A: What about the sync bug with foliage?](../../transcriptions/yt-dFFCtAAOIEA.md) [https://www.youtube.com/watch?v=dFFCtAAOIEA](https://www.youtube.com/watch?v=dFFCtAAOIEA)
+* [Q&A: Floating Nut tree near crystal mines in Northern Forest?](../../transcriptions/yt-3VREREW888c.md) [https://www.youtube.com/watch?v=3VREREW888c](https://www.youtube.com/watch?v=3VREREW888c)
+
 ## November 2nd, 2021 Livestream
 * Snutt & Jace Talk: Torsten's Cosmetics Whiteboard (Part 5) [https://www.youtube.com/watch?v=cpguvk8cvl0](https://www.youtube.com/watch?v=cpguvk8cvl0)
 

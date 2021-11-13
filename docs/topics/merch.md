@@ -7,6 +7,12 @@ date: Last Modified
 * [EU Merch Store](../topics/merch/eu-merch-store.md)
 * [Merch Prototypes](../topics/merch/merch-prototypes.md)
 
+## November 9th, 2021 Livestream
+* [Q&A: Snace Body Pillow, when?](../transcriptions/yt-5k0P-54_WHw.md) [https://www.youtube.com/watch?v=5k0P-54_WHw](https://www.youtube.com/watch?v=5k0P-54_WHw)
+* [Q&A: Will you take responsibility for the Giant Lizard Doggo?](../transcriptions/yt-VTC8VvwZVmg.md) [https://www.youtube.com/watch?v=VTC8VvwZVmg](https://www.youtube.com/watch?v=VTC8VvwZVmg)
+* [Q&A: Merch?](../transcriptions/yt-3ca8dg1tCEI.md) [https://www.youtube.com/watch?v=3ca8dg1tCEI](https://www.youtube.com/watch?v=3ca8dg1tCEI)
+* [Q&A: Will there be a Satisfactory Soundtrack vinyl disc?](../transcriptions/yt-KHMpvF2OS08.md) [https://www.youtube.com/watch?v=KHMpvF2OS08](https://www.youtube.com/watch?v=KHMpvF2OS08)
+
 ## November 2nd, 2021 Livestream
 * [Q&A: Any news for the Mug?](../transcriptions/yt-fayIArgdrEs.md) [https://www.youtube.com/watch?v=fayIArgdrEs](https://www.youtube.com/watch?v=fayIArgdrEs)
 * [Q&A: Is the OST coming on vinyl?](../transcriptions/yt-a95G0B-fLdc.md) [https://www.youtube.com/watch?v=a95G0B-fLdc](https://www.youtube.com/watch?v=a95G0B-fLdc)

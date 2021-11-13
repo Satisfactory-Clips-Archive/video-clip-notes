@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Terrible Jokes
 
+## November 5th, 2021 Livestream
+* [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 5)](../../transcriptions/yt-xqrU7puoJ6M.md) [https://www.youtube.com/watch?v=xqrU7puoJ6M](https://www.youtube.com/watch?v=xqrU7puoJ6M)
+* [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 54)](../../transcriptions/yt-4hDgbahf518.md) [https://www.youtube.com/watch?v=4hDgbahf518](https://www.youtube.com/watch?v=4hDgbahf518)
+
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
 * Terrible Joke: Muted Patch Notes [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=15031&end=15068](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=15031&end=15068)
 

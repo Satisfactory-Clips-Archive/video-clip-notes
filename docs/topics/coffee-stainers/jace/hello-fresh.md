@@ -5,6 +5,12 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Coffee Stainers](../../../topics/coffee-stainers.md) > [Jace](../../../topics/coffee-stainers/jace.md) > Jace's HelloFresh Deliveries
 
+## November 9th, 2021 Livestream
+* [Q&A: Can you ask Jace when his HelloFresh delivery arrives?](../../../transcriptions/yt-Wd4yEmlJQOk.md) [https://www.youtube.com/watch?v=Wd4yEmlJQOk](https://www.youtube.com/watch?v=Wd4yEmlJQOk)
+
+## November 5th, 2021 Livestream
+* [Q&A: Did Jace's HelloFresh already arrive this week?](../../../transcriptions/yt-UnXNb3M5T_Y.md) [https://www.youtube.com/watch?v=UnXNb3M5T_Y](https://www.youtube.com/watch?v=UnXNb3M5T_Y)
+
 ## October 19th, 2021 Livestream
 * [Jace Talk: HelloFresh again](../../../transcriptions/yt-CPfPUf1zmK4.md) [https://www.youtube.com/watch?v=CPfPUf1zmK4](https://www.youtube.com/watch?v=CPfPUf1zmK4)
 * [Jace Talk: 18 Minutes 'til HelloFresh](../../../transcriptions/yt-3GXk3dr-Tow.md) [https://www.youtube.com/watch?v=3GXk3dr-Tow](https://www.youtube.com/watch?v=3GXk3dr-Tow)

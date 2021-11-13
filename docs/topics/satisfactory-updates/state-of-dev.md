@@ -5,6 +5,13 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > State of Dev
 
+## November 9th, 2021 Livestream
+* [State of Dev: Dedicated Servers (Part 1)](../../transcriptions/yt-w872IRljEbo.md) [https://www.youtube.com/watch?v=w872IRljEbo](https://www.youtube.com/watch?v=w872IRljEbo)
+* [State of Dev: Update 5, Update 6, and Dedicated Servers](../../transcriptions/yt-02gPaTMBjkg.md) [https://www.youtube.com/watch?v=02gPaTMBjkg](https://www.youtube.com/watch?v=02gPaTMBjkg)
+* [State of Dev: Dedicated Servers (Part 2)](../../transcriptions/yt-i8_JA6_ys9Y.md) [https://www.youtube.com/watch?v=i8_JA6_ys9Y](https://www.youtube.com/watch?v=i8_JA6_ys9Y)
+* [State of Dev: Upcoming Patches](../../transcriptions/yt-JottDd7m1w8.md) [https://www.youtube.com/watch?v=JottDd7m1w8](https://www.youtube.com/watch?v=JottDd7m1w8)
+* [State of Dev: Update 5](../../transcriptions/yt-tRa-BfOMKTo.md) [https://www.youtube.com/watch?v=tRa-BfOMKTo](https://www.youtube.com/watch?v=tRa-BfOMKTo)
+
 ## November 2nd, 2021 Livestream
 * [State of Dev: Update 5 (Part 1)](../../transcriptions/yt-G7hTmrjxqx8.md) [https://www.youtube.com/watch?v=G7hTmrjxqx8](https://www.youtube.com/watch?v=G7hTmrjxqx8)
 * [State of Dev: Update 5 (Part 2)](../../transcriptions/yt-Z5AHy4aQeyY.md) [https://www.youtube.com/watch?v=Z5AHy4aQeyY](https://www.youtube.com/watch?v=Z5AHy4aQeyY)

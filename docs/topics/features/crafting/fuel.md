@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Crafting](../../../topics/features/crafting.md) > Fuel
 
+## November 9th, 2021 Livestream
+* [Q&A: All Fuels for the Chainsaw & Jetpack, when?](../../../transcriptions/yt-PZLgmrsMIlc.md) [https://www.youtube.com/watch?v=PZLgmrsMIlc](https://www.youtube.com/watch?v=PZLgmrsMIlc)
+
 ## November 2nd, 2021 Livestream
 * [Q&A: Can we have a toggle option to get the old fueling system on Truck Stations?](../../../transcriptions/yt-BWmSCd1wE2A.md) [https://www.youtube.com/watch?v=BWmSCd1wE2A](https://www.youtube.com/watch?v=BWmSCd1wE2A)
 

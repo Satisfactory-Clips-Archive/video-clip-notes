@@ -8,7 +8,7 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Is there any possibility you guys will be add the making of circles?
 https://www.youtube.com/watch?v=40bnpFI8SqE
-This question was possibly duplicated with a more recent answer: [April 27th, 2021 Livestream Q&A: Why are we not upvoting circular Foundations?](./yt-n1fJJTUeKMM.md) [https://www.youtube.com/watch?v=n1fJJTUeKMM](https://www.youtube.com/watch?v=n1fJJTUeKMM)
+This question was possibly duplicated with a more recent answer: [November 9th, 2021 Livestream Q&A: Will there ever be rounded Foundations?](./yt-B6jTKTB_WmE.md) [https://www.youtube.com/watch?v=B6jTKTB_WmE](https://www.youtube.com/watch?v=B6jTKTB_WmE)
 
 
 ### Topics

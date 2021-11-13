@@ -8,6 +8,8 @@ topics:
 # [November 2nd, 2021 Livestream](../2021-11-02.md)
 ## Q&A: Will Dedicated Servers eventually be multi-threaded?
 https://www.youtube.com/watch?v=XencmubF6hA
+This question was possibly duplicated with a more recent answer: [November 9th, 2021 Livestream Q&A: Are you working on the multi-threading for Servers?](./yt-sRtTjntZEMc.md) [https://www.youtube.com/watch?v=sRtTjntZEMc](https://www.youtube.com/watch?v=sRtTjntZEMc)
+
 
 ### Topics
 * [Features > Multiplayer > Dedicated Servers](../topics/features/multiplayer/dedicated-servers.md)

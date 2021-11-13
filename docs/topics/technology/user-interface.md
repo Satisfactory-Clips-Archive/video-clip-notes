@@ -6,6 +6,21 @@ date: Last Modified
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > User Interface
 * [Holograms](../../topics/technology/user-interface/holograms.md)
 
+## November 12th, 2021 Video
+* Snutt Talk: Colours [https://youtube.com/embed/8Tok_vdqZH8?autoplay=1&start=398&end=472](https://youtube.com/embed/8Tok_vdqZH8?autoplay=1&start=398&end=472)
+* Snutt Talk: Colour Swatches [https://youtube.com/embed/8Tok_vdqZH8?autoplay=1&start=471&end=587](https://youtube.com/embed/8Tok_vdqZH8?autoplay=1&start=471&end=587)
+* Snutt Talk: Default Swatches [https://youtube.com/embed/8Tok_vdqZH8?autoplay=1&start=586&end=657](https://youtube.com/embed/8Tok_vdqZH8?autoplay=1&start=586&end=657)
+* Snutt Talk: Swapping Materials on the Hotbar [https://youtube.com/embed/8Tok_vdqZH8?autoplay=1&start=767&end=838](https://youtube.com/embed/8Tok_vdqZH8?autoplay=1&start=767&end=838)
+
+## November 9th, 2021 Livestream
+* [Q&A: Will Programmable Splitters ever get a copy & paste feature?](../../transcriptions/yt-P86fRw4YeZc.md) [https://www.youtube.com/watch?v=P86fRw4YeZc](https://www.youtube.com/watch?v=P86fRw4YeZc)
+* [Q&A: Will pings be fixed with the next Update or will they always be 20 degrees off?](../../transcriptions/yt-NZD-kpk4KgQ.md) [https://www.youtube.com/watch?v=NZD-kpk4KgQ](https://www.youtube.com/watch?v=NZD-kpk4KgQ)
+* Q&A: Why do Vehicles have a health bar? [https://www.youtube.com/watch?v=nY7aRkB1PbU](https://www.youtube.com/watch?v=nY7aRkB1PbU)
+* [Q&A: Mapping hotkeys instead of using mousewheel?](../../transcriptions/yt-SRVEhitZpCE.md) [https://www.youtube.com/watch?v=SRVEhitZpCE](https://www.youtube.com/watch?v=SRVEhitZpCE)
+* [Community FYI: I set my Alt+Scroll set to +/- on my number pad](../../transcriptions/yt-JbNr9xsrt-c.md) [https://www.youtube.com/watch?v=JbNr9xsrt-c](https://www.youtube.com/watch?v=JbNr9xsrt-c)
+* [Q&A: Why can't I keybind extra mouse buttons?](../../transcriptions/yt-oVRGVjijnKw.md) [https://www.youtube.com/watch?v=oVRGVjijnKw](https://www.youtube.com/watch?v=oVRGVjijnKw)
+* [Q&A: Any plans to implement an in-game statistics panel?](../../transcriptions/yt--FK6cMdhe18.md) [https://www.youtube.com/watch?v=-FK6cMdhe18](https://www.youtube.com/watch?v=-FK6cMdhe18)
+
 ## November 2nd, 2021 Livestream
 * [Q&A: Is Map fixed yet? (Part 2)](../../transcriptions/yt-ltBfVqo8Zlc.md) [https://www.youtube.com/watch?v=ltBfVqo8Zlc](https://www.youtube.com/watch?v=ltBfVqo8Zlc)
 * [Q&A: Can we have a toggle option to get the old fueling system on Truck Stations?](../../transcriptions/yt-BWmSCd1wE2A.md) [https://www.youtube.com/watch?v=BWmSCd1wE2A](https://www.youtube.com/watch?v=BWmSCd1wE2A)

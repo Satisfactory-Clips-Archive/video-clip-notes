@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Soundtrack
 
+## November 9th, 2021 Livestream
+* [Q&A: Will there be a Satisfactory Soundtrack vinyl disc?](../transcriptions/yt-KHMpvF2OS08.md) [https://www.youtube.com/watch?v=KHMpvF2OS08](https://www.youtube.com/watch?v=KHMpvF2OS08)
+
 ## November 2nd, 2021 Livestream
 * [Q&A: Is the OST coming on vinyl?](../transcriptions/yt-a95G0B-fLdc.md) [https://www.youtube.com/watch?v=a95G0B-fLdc](https://www.youtube.com/watch?v=a95G0B-fLdc)
 * [Snutt & Jace Talk: That one track we use in all the YouTube videos](../transcriptions/yt-1PrzGVafNZ8.md) [https://www.youtube.com/watch?v=1PrzGVafNZ8](https://www.youtube.com/watch?v=1PrzGVafNZ8)

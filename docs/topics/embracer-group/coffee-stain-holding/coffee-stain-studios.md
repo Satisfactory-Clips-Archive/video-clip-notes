@@ -5,6 +5,14 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Embracer Group](../../../topics/embracer-group.md) > Coffee Stain Holding > Coffee Stain Studios
 
+## November 9th, 2021 Livestream
+* [Q&A: Do you do internships?](../../../transcriptions/yt-NdoDfVjkvG0.md) [https://www.youtube.com/watch?v=NdoDfVjkvG0](https://www.youtube.com/watch?v=NdoDfVjkvG0)
+* [Q&A: Is Satisfactory a team of 25 people?](../../../transcriptions/yt-niOtt1II3gw.md) [https://www.youtube.com/watch?v=niOtt1II3gw](https://www.youtube.com/watch?v=niOtt1II3gw)
+* [Q&A: Do you still have game jams at the studio?](../../../transcriptions/yt-rzOGistUZKI.md) [https://www.youtube.com/watch?v=rzOGistUZKI](https://www.youtube.com/watch?v=rzOGistUZKI)
+* [Q&A: Please post the game jam YouTube video, it might be interesting for others to see?](../../../transcriptions/yt-J8ERIRFJWYM.md) [https://www.youtube.com/watch?v=J8ERIRFJWYM](https://www.youtube.com/watch?v=J8ERIRFJWYM)
+* [Q&A: Isn't there a restaurant right next door to the Coffee Stain office in Skövde?](../../../transcriptions/yt-6l2SK2cFi1g.md) [https://www.youtube.com/watch?v=6l2SK2cFi1g](https://www.youtube.com/watch?v=6l2SK2cFi1g)
+* [Q&A: Do you have any job openings?](../../../transcriptions/yt-KJNAQ1MMEWI.md) [https://www.youtube.com/watch?v=KJNAQ1MMEWI](https://www.youtube.com/watch?v=KJNAQ1MMEWI)
+
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
 * Snutt & Jace Talk: Streaming from the new office for the first time [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=661&end=787](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=661&end=787)
 * Q&A: Is Coffee Stain still 20% Dutch? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=1406&end=1427](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=1406&end=1427)
@@ -85,6 +93,9 @@ date: Last Modified
 
 ## January 19th, 2021 Livestream
 * [Q&A: Who in Coffee Stain plays Satisfactory the most?](../../../transcriptions/yt-N4JpnY4zy70.md) [https://www.youtube.com/watch?v=N4JpnY4zy70](https://www.youtube.com/watch?v=N4JpnY4zy70)
+
+## January 12th, 2021 Livestream
+* [Q&A: Now that you have big boy office are you planning on hiring a lot more people to fill it out?](../../../transcriptions/yt-iqGA8u7MmMM.md) [https://www.youtube.com/watch?v=iqGA8u7MmMM](https://www.youtube.com/watch?v=iqGA8u7MmMM)
 
 ## November 10th, 2020 Livestream
 * [Q&A: Does Coffee Stain "matrix" it's people across different games?](../../../transcriptions/yt-AjCUCamZMTk.md) [https://www.youtube.com/watch?v=AjCUCamZMTk](https://www.youtube.com/watch?v=AjCUCamZMTk)

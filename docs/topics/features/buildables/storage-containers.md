@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildables](../../../topics/features/buildables.md) > Storage Containers
 
+## November 5th, 2021 Livestream
+* [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 12)](../../../transcriptions/yt-bFyLzQZq4ys.md) [https://www.youtube.com/watch?v=bFyLzQZq4ys](https://www.youtube.com/watch?v=bFyLzQZq4ys)
+
 ## October 29th, 2021 Video
 * [Snutt Talk: We've added more Personal Storage Boxes](../../../transcriptions/yt-rePLsjw-eEY,690.4564333333334,702.2348666666667.md) [https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=690&end=703](https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=690&end=703)
 

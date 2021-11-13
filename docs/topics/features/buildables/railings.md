@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildables](../../../topics/features/buildables.md) > Railings
 
+## November 5th, 2021 Livestream
+* [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 21)](../../../transcriptions/yt-V26cfhOb7_4.md) [https://www.youtube.com/watch?v=V26cfhOb7_4](https://www.youtube.com/watch?v=V26cfhOb7_4)
+
 ## November 2nd, 2021 Livestream
 * Snutt & Jace Talk: Torsten's Cosmetics Whiteboard (Part 8) [https://www.youtube.com/watch?v=q-yglbCI9pM](https://www.youtube.com/watch?v=q-yglbCI9pM)
 

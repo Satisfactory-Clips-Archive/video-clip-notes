@@ -8,7 +8,7 @@ topics:
 # [February 6th, 2019 Livestream](../2019-02-06.md)
 ## Q&A: Is there goats in Satisfactory?
 https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3842&end=3861
-This question was possibly duplicated with a more recent answer: [June 29th, 2021 Livestream Q&A: Can we get a Goat Simulator easter egg in the game?](./yt-hSZdK3Pg9AE.md) [https://www.youtube.com/watch?v=hSZdK3Pg9AE](https://www.youtube.com/watch?v=hSZdK3Pg9AE)
+This question was possibly duplicated with a more recent answer: [November 9th, 2021 Livestream Q&A: Will you add an alien goat to Satisfactory?](./yt-qjwd46Lr2og.md) [https://www.youtube.com/watch?v=qjwd46Lr2og](https://www.youtube.com/watch?v=qjwd46Lr2og)
 
 
 ### Topics

@@ -6,6 +6,13 @@ date: Last Modified
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > Planned Features > [Build Modes](../../../../topics/features/planned-features/build-modes.md) > Hard & Soft Clearance
 * [Complex Clearance](../../../../topics/features/planned-features/build-modes/hard-and-soft-clearance/complex-clearance.md)
 
+## November 9th, 2021 Livestream
+* [Q&A: Will there be improvements to hit boxes, specifically for Power Poles between two Constructors?](../../../../transcriptions/yt-l75JZF14dbY.md) [https://www.youtube.com/watch?v=l75JZF14dbY](https://www.youtube.com/watch?v=l75JZF14dbY)
+* [Q&A: Train Station had bigger clearance?](../../../../transcriptions/yt-p-sGsaQvI2I.md) [https://www.youtube.com/watch?v=p-sGsaQvI2I](https://www.youtube.com/watch?v=p-sGsaQvI2I)
+
+## November 5th, 2021 Livestream
+* [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 11)](../../../../transcriptions/yt-MLoKz8ShCWs.md) [https://www.youtube.com/watch?v=MLoKz8ShCWs](https://www.youtube.com/watch?v=MLoKz8ShCWs)
+
 ## October 29th, 2021 Video
 * [Jace Talk: Stackable Conveyor Poles & Floor Holes have Hard Clearance](../../../../transcriptions/yt-rePLsjw-eEY,307.4071,338.814696.md) [https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=307&end=339](https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=307&end=339)
 

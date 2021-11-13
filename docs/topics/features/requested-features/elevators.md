@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Requested Features](../../../topics/features/requested-features.md) > Elevators
 
+## November 9th, 2021 Livestream
+* [Q&A: Will there ever be lifts for Vehicles & Players?](../../../transcriptions/yt-wSEbzReDRqc.md) [https://www.youtube.com/watch?v=wSEbzReDRqc](https://www.youtube.com/watch?v=wSEbzReDRqc)
+
 ## November 2nd, 2021 Livestream
 * Q&A: Will there ever be Elevators? [https://www.youtube.com/watch?v=e-r3tL5dY_8](https://www.youtube.com/watch?v=e-r3tL5dY_8)
 

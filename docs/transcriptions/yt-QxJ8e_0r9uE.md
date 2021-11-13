@@ -9,7 +9,7 @@ topics:
 # [March 30th, 2021 Livestream](../2021-03-30.md)
 ## Q&A: Any plans on a global grid?
 https://www.youtube.com/watch?v=QxJ8e_0r9uE
-This question was possibly duplicated with a more recent answer: [June 29th, 2021 Livestream Q&A: Global grid?](./yt-_psXx_dfadY.md) [https://www.youtube.com/watch?v=_psXx_dfadY](https://www.youtube.com/watch?v=_psXx_dfadY)
+This question was possibly duplicated with a more recent answer: [November 9th, 2021 Livestream Q&A: Will there ever be an option to set a grid map-wide?](./yt-iiNu3aKc1VI.md) [https://www.youtube.com/watch?v=iiNu3aKc1VI](https://www.youtube.com/watch?v=iiNu3aKc1VI)
 
 
 ### Topics

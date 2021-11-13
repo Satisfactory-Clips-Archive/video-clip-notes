@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Seasonal Events](../../../topics/satisfactory-updates/seasonal-events.md) > FICS⁕MAS
 
+## November 9th, 2021 Livestream
+* [Q&A: FICS⁕MAS?](../../../transcriptions/yt-kpaIwFsaOAo.md) [https://www.youtube.com/watch?v=kpaIwFsaOAo](https://www.youtube.com/watch?v=kpaIwFsaOAo)
+
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
 * Q&A: Are you going to do FICS⁕MAS this year? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=14624&end=14669](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=14624&end=14669)
 

@@ -13,6 +13,15 @@ date: Last Modified
 * [Pollution](../../topics/features/requested-features/pollution.md)
 * [Third-person View](../../topics/features/requested-features/third-person-view.md)
 
+## November 9th, 2021 Livestream
+* [Q&A: Add Paintball?](../../transcriptions/yt-X1PFJ-0uUXs.md) [https://www.youtube.com/watch?v=X1PFJ-0uUXs](https://www.youtube.com/watch?v=X1PFJ-0uUXs)
+* [Q&A: Will you add an alien goat to Satisfactory?](../../transcriptions/yt-qjwd46Lr2og.md) [https://www.youtube.com/watch?v=qjwd46Lr2og](https://www.youtube.com/watch?v=qjwd46Lr2og)
+* [Q&A: Planting Trees?](../../transcriptions/yt-luBjVZ5Agc8.md) [https://www.youtube.com/watch?v=luBjVZ5Agc8](https://www.youtube.com/watch?v=luBjVZ5Agc8)
+* [Q&A: Will there ever be rounded Foundations?](../../transcriptions/yt-B6jTKTB_WmE.md) [https://www.youtube.com/watch?v=B6jTKTB_WmE](https://www.youtube.com/watch?v=B6jTKTB_WmE)
+* [Q&A: Bowling?](../../transcriptions/yt-lZIBHCRFWiU.md) [https://www.youtube.com/watch?v=lZIBHCRFWiU](https://www.youtube.com/watch?v=lZIBHCRFWiU)
+* [Q&A: Mapping hotkeys instead of using mousewheel?](../../transcriptions/yt-SRVEhitZpCE.md) [https://www.youtube.com/watch?v=SRVEhitZpCE](https://www.youtube.com/watch?v=SRVEhitZpCE)
+* [Q&A: Any plans to implement an in-game statistics panel?](../../transcriptions/yt--FK6cMdhe18.md) [https://www.youtube.com/watch?v=-FK6cMdhe18](https://www.youtube.com/watch?v=-FK6cMdhe18)
+
 ## November 2nd, 2021 Livestream
 * Snutt & Jace Talk: Torsten's Cosmetics Whiteboard (Part 5) [https://www.youtube.com/watch?v=cpguvk8cvl0](https://www.youtube.com/watch?v=cpguvk8cvl0)
 

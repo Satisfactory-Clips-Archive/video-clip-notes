@@ -1,8 +1,12 @@
 ---
 title: "Snutty Mays & Juice Velvet Present: The Customizer™"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEoMPT69J5UFBMeR3yqm2XEY
 date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Satisfactory Updates](../../../../topics/satisfactory-updates.md) > [Teasers & Trailers](../../../../topics/satisfactory-updates/teasers-and-trailers.md) > [Update 5 Patch Notes Video](../../../../topics/satisfactory-updates/teasers-and-trailers/update-5-patch-notes-video.md) > Snutty Mays & Juice Velvet Present: The Customizer™
+
+## November 5th, 2021 Livestream
+* [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 25)](../../../../transcriptions/yt-isJvJl_wzYs.md) [https://www.youtube.com/watch?v=isJvJl_wzYs](https://www.youtube.com/watch?v=isJvJl_wzYs)
 
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
 * [Snutty Mays & Juice Velvet Talk: Introducing The Customizer™](../../../../transcriptions/yt-QfaReoks6OM,292.875,305.7916666666667.md) [https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=292&end=306](https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=292&end=306)

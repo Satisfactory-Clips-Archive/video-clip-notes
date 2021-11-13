@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Creatures](../../../topics/environment/creatures.md) > Lizard Doggo
 
+## November 9th, 2021 Livestream
+* [Q&A: Will you take responsibility for the Giant Lizard Doggo?](../../../transcriptions/yt-VTC8VvwZVmg.md) [https://www.youtube.com/watch?v=VTC8VvwZVmg](https://www.youtube.com/watch?v=VTC8VvwZVmg)
+
 ## October 28th, 2021 Video
 * [Jace Talk: Lizard Doggo Plush](../../../transcriptions/yt-YSPnFZbTvxE,12.9129,50.7507.md) [https://youtube.com/embed/YSPnFZbTvxE?autoplay=1&start=12&end=51](https://youtube.com/embed/YSPnFZbTvxE?autoplay=1&start=12&end=51)
 * [Jace Talk: Heroic Replicas Kickstarter](../../../transcriptions/yt-YSPnFZbTvxE,88.45503333333333,187.42056666666667.md) [https://youtube.com/embed/YSPnFZbTvxE?autoplay=1&start=88&end=188](https://youtube.com/embed/YSPnFZbTvxE?autoplay=1&start=88&end=188)

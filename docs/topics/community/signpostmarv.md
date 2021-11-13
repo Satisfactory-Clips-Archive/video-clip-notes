@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > SignpostMarv
 
+## November 5th, 2021 Livestream
+* [Community FYI: That's the first question for the Q&A Archive](../../transcriptions/yt-bZOiGFf555c.md) [https://www.youtube.com/watch?v=bZOiGFf555c](https://www.youtube.com/watch?v=bZOiGFf555c)
+* [Community FYI: I'm surprised you both could keep a straight face saying "holes" so many times](../../transcriptions/yt-5TxeF2BU7Yo.md) [https://www.youtube.com/watch?v=5TxeF2BU7Yo](https://www.youtube.com/watch?v=5TxeF2BU7Yo)
+
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
 * Snutt & Jace Talk: Gift from SignpostMarv [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=8413&end=8534](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=8413&end=8534)
 

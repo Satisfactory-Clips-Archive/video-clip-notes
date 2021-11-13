@@ -9,6 +9,8 @@ topics:
 # [July 23rd, 2021 Dev Vlog](../2021-07-23.md)
 ## Q&A: Are there bugs with Drone's Battery consumption?
 https://youtube.com/clip/UgzrWEuR3Z4I1VXqEIx4AaABCQ
+This question was possibly duplicated with a more recent answer: [November 9th, 2021 Livestream Q&A: A bug from Update 4 where Drone Ports use too many batteries isn't fixed](./yt-k8ZPDghO130.md) [https://www.youtube.com/watch?v=k8ZPDghO130](https://www.youtube.com/watch?v=k8ZPDghO130)
+
 
 ### Topics
 * [Environment > Resources](../topics/environment/resources.md)

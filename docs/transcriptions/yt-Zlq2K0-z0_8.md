@@ -9,7 +9,7 @@ topics:
 # [December 19th, 2019 Livestream](../2019-12-19.md)
 ## Q&A: Is there going to be a central computer plant where you can check the whole production?
 https://www.youtube.com/watch?v=Zlq2K0-z0_8
-This question was possibly duplicated with a more recent answer: [August 24th, 2021 Livestream Q&A: Are there going to be stats on The HUB computer at some point?](./yt-LXjxyiB6F3s.md) [https://www.youtube.com/watch?v=LXjxyiB6F3s](https://www.youtube.com/watch?v=LXjxyiB6F3s)
+This question was possibly duplicated with a more recent answer: [November 9th, 2021 Livestream Q&A: Any plans to implement an in-game statistics panel?](./yt--FK6cMdhe18.md) [https://www.youtube.com/watch?v=-FK6cMdhe18](https://www.youtube.com/watch?v=-FK6cMdhe18)
 
 
 ### Topics

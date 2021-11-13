@@ -8,6 +8,25 @@ date: Last Modified
 * [#SaveTheWillows](../../../topics/satisfactory-updates/released/satisfactory-update-5/save-the-willows.md)
 * [Update 5 Torsten's Cosmetics Whiteboard](../../../topics/satisfactory-updates/released/satisfactory-update-5/torstens-cosmetics-whiteboard.md)
 
+## November 12th, 2021 Video
+* Q&A: When will the game be available on the Early Access branch? [https://youtube.com/clip/Ugkx2TwHrFg1Nx1AsL24SkaSA6X8a_hj0qav](https://youtube.com/clip/Ugkx2TwHrFg1Nx1AsL24SkaSA6X8a_hj0qav)
+
+## November 9th, 2021 Livestream
+* [Q&A: Will the stack sizes for Iron Plates increase, with Foundation changes they're eating up space?](../../../transcriptions/yt-OXjbnXVYKw4.md) [https://www.youtube.com/watch?v=OXjbnXVYKw4](https://www.youtube.com/watch?v=OXjbnXVYKw4)
+* [State of Dev: Update 5, Update 6, and Dedicated Servers](../../../transcriptions/yt-02gPaTMBjkg.md) [https://www.youtube.com/watch?v=02gPaTMBjkg](https://www.youtube.com/watch?v=02gPaTMBjkg)
+* [State of Dev: Upcoming Patches](../../../transcriptions/yt-JottDd7m1w8.md) [https://www.youtube.com/watch?v=JottDd7m1w8](https://www.youtube.com/watch?v=JottDd7m1w8)
+* [Q&A: Will there ever be 3m ramps?](../../../transcriptions/yt-XZrSYPFfxYE.md) [https://www.youtube.com/watch?v=XZrSYPFfxYE](https://www.youtube.com/watch?v=XZrSYPFfxYE)
+* [Q&A: Are Mods still broken?](../../../transcriptions/yt-aPOh6hDve_o.md) [https://www.youtube.com/watch?v=aPOh6hDve_o](https://www.youtube.com/watch?v=aPOh6hDve_o)
+* [Q&A: Will pings be fixed with the next Update or will they always be 20 degrees off?](../../../transcriptions/yt-NZD-kpk4KgQ.md) [https://www.youtube.com/watch?v=NZD-kpk4KgQ](https://www.youtube.com/watch?v=NZD-kpk4KgQ)
+* [State of Dev: Update 5](../../../transcriptions/yt-tRa-BfOMKTo.md) [https://www.youtube.com/watch?v=tRa-BfOMKTo](https://www.youtube.com/watch?v=tRa-BfOMKTo)
+* [Q&A: Patch today?](../../../transcriptions/yt-YKqX3MWdTR4.md) [https://www.youtube.com/watch?v=YKqX3MWdTR4](https://www.youtube.com/watch?v=YKqX3MWdTR4)
+* [Q&A: When is the EA release?](../../../transcriptions/yt-Jvoyj5jezKI.md) [https://www.youtube.com/watch?v=Jvoyj5jezKI](https://www.youtube.com/watch?v=Jvoyj5jezKI)
+* [Q&A: When is Update 5 coming out of beta?](../../../transcriptions/yt-fD5bj01dx4Q.md) [https://www.youtube.com/watch?v=fD5bj01dx4Q](https://www.youtube.com/watch?v=fD5bj01dx4Q)
+
+## November 5th, 2021 Livestream
+* [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 16)](../../../transcriptions/yt-YFfud0NwaGk.md) [https://www.youtube.com/watch?v=YFfud0NwaGk](https://www.youtube.com/watch?v=YFfud0NwaGk)
+* [Snutt & Jace Talk: Post Update 5 Community Highlights](../../../transcriptions/yt-Rbs-Cy16XpY.md) [https://www.youtube.com/watch?v=Rbs-Cy16XpY](https://www.youtube.com/watch?v=Rbs-Cy16XpY)
+
 ## November 2nd, 2021 Livestream
 * [State of Dev: Update 5 (Part 1)](../../../transcriptions/yt-G7hTmrjxqx8.md) [https://www.youtube.com/watch?v=G7hTmrjxqx8](https://www.youtube.com/watch?v=G7hTmrjxqx8)
 * [Snutt & Jace Talk: Things to do if you're having issues](../../../transcriptions/yt-muYUL8VCEtM.md) [https://www.youtube.com/watch?v=muYUL8VCEtM](https://www.youtube.com/watch?v=muYUL8VCEtM)

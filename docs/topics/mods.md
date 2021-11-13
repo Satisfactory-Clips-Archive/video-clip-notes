@@ -32,6 +32,9 @@ date: Last Modified
 * [Utility Signs](../topics/mods/utility-signs.md)
 * [Zip Strips](../topics/mods/zip-strips.md)
 
+## November 9th, 2021 Livestream
+* [Q&A: Are Mods still broken?](../transcriptions/yt-aPOh6hDve_o.md) [https://www.youtube.com/watch?v=aPOh6hDve_o](https://www.youtube.com/watch?v=aPOh6hDve_o)
+
 ## November 2nd, 2021 Livestream
 * [Q&A: Have you discussed Mods working with Dedicated Servers?](../transcriptions/yt-_FSlbFuaHq0.md) [https://www.youtube.com/watch?v=_FSlbFuaHq0](https://www.youtube.com/watch?v=_FSlbFuaHq0)
 

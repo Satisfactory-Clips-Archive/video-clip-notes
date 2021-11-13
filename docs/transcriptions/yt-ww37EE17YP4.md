@@ -9,7 +9,7 @@ topics:
 # [March 24th, 2020 Livestream](../2020-03-24.md)
 ## Q&A: Creative Mode without having to Mod?
 https://www.youtube.com/watch?v=ww37EE17YP4
-This question was possibly duplicated with a more recent answer: [August 10th, 2021 Livestream Q&A: Is there going to be a sandbox mode in Satisfactory?](./yt-xH1ucvjBDdA.md) [https://www.youtube.com/watch?v=xH1ucvjBDdA](https://www.youtube.com/watch?v=xH1ucvjBDdA)
+This question was possibly duplicated with a more recent answer: [November 9th, 2021 Livestream Q&A: Any plans for sandbox/Creative Mode?](./yt-B5eQjR_7TxY.md) [https://www.youtube.com/watch?v=B5eQjR_7TxY](https://www.youtube.com/watch?v=B5eQjR_7TxY)
 
 
 ### Topics

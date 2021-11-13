@@ -8,6 +8,8 @@ topics:
 # [October 12th, 2021 Livestream](../2021-10-12.md)
 ## Q&A: Since you put the position for Game Designer in Skövde, do you have plans for interns?
 https://www.youtube.com/watch?v=0nVP8r62DHg
+This question was possibly duplicated with a more recent answer: [November 9th, 2021 Livestream Q&A: Do you do internships?](./yt-NdoDfVjkvG0.md) [https://www.youtube.com/watch?v=NdoDfVjkvG0](https://www.youtube.com/watch?v=NdoDfVjkvG0)
+
 
 ### Topics
 * [Embracer Group > Coffee Stain Holding > Coffee Stain Studios](../topics/embracer-group/coffee-stain-holding/coffee-stain-studios.md)

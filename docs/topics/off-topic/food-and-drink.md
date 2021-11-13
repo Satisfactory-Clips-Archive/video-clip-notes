@@ -10,6 +10,13 @@ date: Last Modified
 * [Pizza](../../topics/off-topic/food-and-drink/pizza.md)
 * [Semlor](../../topics/off-topic/food-and-drink/semlor.md)
 
+## November 9th, 2021 Livestream
+* [Q&A: How is Skövde, can you get multiple cultures of food as takeaway easily?](../../transcriptions/yt-pHf1W6B2yXk.md) [https://www.youtube.com/watch?v=pHf1W6B2yXk](https://www.youtube.com/watch?v=pHf1W6B2yXk)
+* [Q&A: Pizza Hut & Subway?](../../transcriptions/yt--vfoBbfpx7g.md) [https://www.youtube.com/watch?v=-vfoBbfpx7g](https://www.youtube.com/watch?v=-vfoBbfpx7g)
+* [Community FYI: Fast food in general in the US is garbage](../../transcriptions/yt-xsL5SdsLAVA.md) [https://www.youtube.com/watch?v=xsL5SdsLAVA](https://www.youtube.com/watch?v=xsL5SdsLAVA)
+* [Community FYI: At 3am, Denny's is the best](../../transcriptions/yt-_88ssxoOU3g.md) [https://www.youtube.com/watch?v=_88ssxoOU3g](https://www.youtube.com/watch?v=_88ssxoOU3g)
+* [Community FYI: Max Burgers](../../transcriptions/yt-ww6e6B4J_1Q.md) [https://www.youtube.com/watch?v=ww6e6B4J_1Q](https://www.youtube.com/watch?v=ww6e6B4J_1Q)
+
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
 * Q&A: Avacadoes, underrated/overrated? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=6656&end=6728](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=6656&end=6728)
 * Q&A: Vanilla Ice Cream, underrated/overrated? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=6727&end=6744](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=6727&end=6744)

@@ -8,6 +8,12 @@ date: Last Modified
 ## September 21st, 2021 Livestream
 * [Q&A: Gas Mask in Vehicles?](../../../transcriptions/yt-_gjOkEU1pwI.md) [https://www.youtube.com/watch?v=_gjOkEU1pwI](https://www.youtube.com/watch?v=_gjOkEU1pwI)
 
+## August 24th, 2021 Livestream
+* [Snutt Talk: Gas Masks not working inside Vehicles](../../../transcriptions/yt-sAPYPntJ52E.md) [https://www.youtube.com/watch?v=sAPYPntJ52E](https://www.youtube.com/watch?v=sAPYPntJ52E)
+
+## August 10th, 2021 Livestream
+* [Q&A: Why would I spend $1 if I could just build Gas Mask?](../../../transcriptions/yt-QrOJ_rZvb7M.md) [https://www.youtube.com/watch?v=QrOJ_rZvb7M](https://www.youtube.com/watch?v=QrOJ_rZvb7M)
+
 ## May 4th, 2021 Livestream
 * Snutt Talk: QA Site bug report - Gas Masks in vehicles [https://www.youtube.com/watch?v=JZ0ePy8UvWU](https://www.youtube.com/watch?v=JZ0ePy8UvWU)
 

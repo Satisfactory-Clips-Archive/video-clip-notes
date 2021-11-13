@@ -5,6 +5,17 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Trolling
 
+## November 9th, 2021 Livestream
+* [Q&A: Responsive mode?](../transcriptions/yt-Zg9VbXSH6Zg.md) [https://www.youtube.com/watch?v=Zg9VbXSH6Zg](https://www.youtube.com/watch?v=Zg9VbXSH6Zg)
+* [Community FYI: If a QA Site Post reaches 2500, it gets auto-rejected](../transcriptions/yt-jMtXOWsfTKw.md) [https://www.youtube.com/watch?v=jMtXOWsfTKw](https://www.youtube.com/watch?v=jMtXOWsfTKw)
+* [Q&A: Please play "Free Bird" on your guitar](../transcriptions/yt-r9qe4DSkzck.md) [https://www.youtube.com/watch?v=r9qe4DSkzck](https://www.youtube.com/watch?v=r9qe4DSkzck)
+
+## November 5th, 2021 Livestream
+* [Q&A: Can we get it on VHS?](../transcriptions/yt-i-_aB4wZIKs.md) [https://www.youtube.com/watch?v=i-_aB4wZIKs](https://www.youtube.com/watch?v=i-_aB4wZIKs)
+* [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 37)](../transcriptions/yt-o4WzAPUM30g.md) [https://www.youtube.com/watch?v=o4WzAPUM30g](https://www.youtube.com/watch?v=o4WzAPUM30g)
+* [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 58)](../transcriptions/yt-u5Xsk8BfRfc.md) [https://www.youtube.com/watch?v=u5Xsk8BfRfc](https://www.youtube.com/watch?v=u5Xsk8BfRfc)
+* [Q&A: What's Factorio?](../transcriptions/yt-Z26xKG-o-z0.md) [https://www.youtube.com/watch?v=Z26xKG-o-z0](https://www.youtube.com/watch?v=Z26xKG-o-z0)
+
 ## November 2nd, 2021 Livestream
 * [Snutt & Jace Talk: Torsten's Cosmetics Whiteboard (Part 7)](../transcriptions/yt-BLow4FGZ4LQ.md) [https://www.youtube.com/watch?v=BLow4FGZ4LQ](https://www.youtube.com/watch?v=BLow4FGZ4LQ)
 

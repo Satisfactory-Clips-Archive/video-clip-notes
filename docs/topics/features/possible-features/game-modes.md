@@ -8,6 +8,9 @@ date: Last Modified
 * [Creative Mode](../../../topics/features/possible-features/game-modes/creative-mode.md)
 * [Peaceful Mode](../../../topics/features/possible-features/game-modes/peaceful-mode.md)
 
+## November 9th, 2021 Livestream
+* [Q&A: Responsive mode?](../../../transcriptions/yt-Zg9VbXSH6Zg.md) [https://www.youtube.com/watch?v=Zg9VbXSH6Zg](https://www.youtube.com/watch?v=Zg9VbXSH6Zg)
+
 ## September 28th, 2021 Livestream
 * [Q&A: Do we get a "Save+"?](../../../transcriptions/yt-1sDKlvkvGWY.md) [https://www.youtube.com/watch?v=1sDKlvkvGWY](https://www.youtube.com/watch?v=1sDKlvkvGWY)
 * [Q&A: Will you add a harder mode at some point with more expensive Recipes?](../../../transcriptions/yt-vMgvD3QPJqM.md) [https://www.youtube.com/watch?v=vMgvD3QPJqM](https://www.youtube.com/watch?v=vMgvD3QPJqM)

@@ -5,6 +5,20 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > Transportation > [Trains](../../../../topics/features/transportation/trains.md) > Train Signals
 
+## November 9th, 2021 Livestream
+* [Q&A: Any plans to let Trains recalculate routes on-the-fly?](../../../../transcriptions/yt-ziGn1954IJg.md) [https://www.youtube.com/watch?v=ziGn1954IJg](https://www.youtube.com/watch?v=ziGn1954IJg)
+
+## November 5th, 2021 Livestream
+* [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 46)](../../../../transcriptions/yt-sT8XAmIhbKw.md) [https://www.youtube.com/watch?v=sT8XAmIhbKw](https://www.youtube.com/watch?v=sT8XAmIhbKw)
+* [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 47)](../../../../transcriptions/yt-S6ibDSVDct4.md) [https://www.youtube.com/watch?v=S6ibDSVDct4](https://www.youtube.com/watch?v=S6ibDSVDct4)
+* [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 48)](../../../../transcriptions/yt-yXt0i77bv6k.md) [https://www.youtube.com/watch?v=yXt0i77bv6k](https://www.youtube.com/watch?v=yXt0i77bv6k)
+* [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 49)](../../../../transcriptions/yt-38bpEG2E0Bo.md) [https://www.youtube.com/watch?v=38bpEG2E0Bo](https://www.youtube.com/watch?v=38bpEG2E0Bo)
+* [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 50)](../../../../transcriptions/yt-hRK1QOCGd_E.md) [https://www.youtube.com/watch?v=hRK1QOCGd_E](https://www.youtube.com/watch?v=hRK1QOCGd_E)
+* [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 51)](../../../../transcriptions/yt-FB0ataMyHNU.md) [https://www.youtube.com/watch?v=FB0ataMyHNU](https://www.youtube.com/watch?v=FB0ataMyHNU)
+* Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 52) [https://www.youtube.com/watch?v=ljR1M_c10oQ](https://www.youtube.com/watch?v=ljR1M_c10oQ)
+* [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 53)](../../../../transcriptions/yt-W0s_645Ih6U.md) [https://www.youtube.com/watch?v=W0s_645Ih6U](https://www.youtube.com/watch?v=W0s_645Ih6U)
+* [Q&A: Are the crash physics fully deterministic or will they crash the same way every time?](../../../../transcriptions/yt-HOleCL6_9ew.md) [https://www.youtube.com/watch?v=HOleCL6_9ew](https://www.youtube.com/watch?v=HOleCL6_9ew)
+
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
 * [Snutt & Jace Talk: Train Signals and Collisions](../../../../transcriptions/yt-QfaReoks6OM,707.7916666666666,764.0416666666666.md) [https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=707&end=765](https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=707&end=765)
 

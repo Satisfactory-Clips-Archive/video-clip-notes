@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > Possible Features > Character Customisation
 
+## November 9th, 2021 Livestream
+* Q&A: Can I use the Customizer on myself? [https://www.youtube.com/watch?v=n1Y_di8jDpY](https://www.youtube.com/watch?v=n1Y_di8jDpY)
+
 ## August 24th, 2021 Livestream
 * [Q&A: Character Customisation?](../../../transcriptions/yt-5wiYaEfx0ro.md) [https://www.youtube.com/watch?v=5wiYaEfx0ro](https://www.youtube.com/watch?v=5wiYaEfx0ro)
 

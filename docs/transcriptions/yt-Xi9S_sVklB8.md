@@ -10,7 +10,7 @@ topics:
 # [January 19th, 2021 Livestream](../2021-01-19.md)
 ## Q&A: What about an opional grid to put all Foundations all aligned around the Map?
 https://www.youtube.com/watch?v=Xi9S_sVklB8
-This question was possibly duplicated with a more recent answer: [June 29th, 2021 Livestream Q&A: Global grid?](./yt-_psXx_dfadY.md) [https://www.youtube.com/watch?v=_psXx_dfadY](https://www.youtube.com/watch?v=_psXx_dfadY)
+This question was possibly duplicated with a more recent answer: [November 9th, 2021 Livestream Q&A: Will there ever be an option to set a grid map-wide?](./yt-iiNu3aKc1VI.md) [https://www.youtube.com/watch?v=iiNu3aKc1VI](https://www.youtube.com/watch?v=iiNu3aKc1VI)
 
 
 ### Topics

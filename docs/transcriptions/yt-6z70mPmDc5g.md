@@ -8,7 +8,7 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Any Easter Eggs nobody's found yet?
 https://www.youtube.com/watch?v=6z70mPmDc5g
-This question was possibly duplicated with a more recent answer: July 6th, 2021 Livestream Q&A: Have you all added Easter Eggs in the game that have not yet been discovered? [https://www.youtube.com/watch?v=aLNaD031GPw](https://www.youtube.com/watch?v=aLNaD031GPw)
+This question was possibly duplicated with a more recent answer: [November 9th, 2021 Livestream Q&A: Are there any Easter Eggs that still haven't been found?](./yt-kiUlJOZmhKs.md) [https://www.youtube.com/watch?v=kiUlJOZmhKs](https://www.youtube.com/watch?v=kiUlJOZmhKs)
 
 
 ### Topics

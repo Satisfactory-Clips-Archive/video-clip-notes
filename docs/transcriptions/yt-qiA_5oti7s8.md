@@ -8,7 +8,7 @@ topics:
 # [August 10th, 2021 Livestream](../2021-08-10.md)
 ## Q&A: Will we be able to equip more than one item?
 https://www.youtube.com/watch?v=qiA_5oti7s8
-This question was possibly duplicated with a more recent answer: [October 5th, 2021 Livestream Q&A: Equipment Slots rework still in progress?](./yt-NZGJ3mLsbNk.md) [https://www.youtube.com/watch?v=NZGJ3mLsbNk](https://www.youtube.com/watch?v=NZGJ3mLsbNk)
+This question was possibly duplicated with a more recent answer: [November 9th, 2021 Livestream Q&A: Two body slots, maybe?](./yt-1r0kKFc_mW4.md) [https://www.youtube.com/watch?v=1r0kKFc_mW4](https://www.youtube.com/watch?v=1r0kKFc_mW4)
 
 
 ### Topics

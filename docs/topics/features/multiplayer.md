@@ -7,6 +7,12 @@ date: Last Modified
 * [Crossplay](../../topics/features/multiplayer/crossplay.md)
 * [Dedicated Servers](../../topics/features/multiplayer/dedicated-servers.md)
 
+## November 9th, 2021 Livestream
+* [Community FYI: Customizer Wars](../../transcriptions/yt-Bqebo7gBZmY.md) [https://www.youtube.com/watch?v=Bqebo7gBZmY](https://www.youtube.com/watch?v=Bqebo7gBZmY)
+* [Q&A: Train Multiplayer fixes, when?](../../transcriptions/yt-cuRF2l9nqEU.md) [https://www.youtube.com/watch?v=cuRF2l9nqEU](https://www.youtube.com/watch?v=cuRF2l9nqEU)
+* [Q&A: Will pings be fixed with the next Update or will they always be 20 degrees off?](../../transcriptions/yt-NZD-kpk4KgQ.md) [https://www.youtube.com/watch?v=NZD-kpk4KgQ](https://www.youtube.com/watch?v=NZD-kpk4KgQ)
+* [Q&A: What about the sync bug with foliage?](../../transcriptions/yt-dFFCtAAOIEA.md) [https://www.youtube.com/watch?v=dFFCtAAOIEA](https://www.youtube.com/watch?v=dFFCtAAOIEA)
+
 ## November 2nd, 2021 Livestream
 * [Q&A: Multiplayer fixes, when?](../../transcriptions/yt-OUrWFNuyPIA.md) [https://www.youtube.com/watch?v=OUrWFNuyPIA](https://www.youtube.com/watch?v=OUrWFNuyPIA)
 * [Q&A: Is Satisfactory using networking code in Unreal, or did you roll your own?](../../transcriptions/yt-6_TC7rp374A.md) [https://www.youtube.com/watch?v=6_TC7rp374A](https://www.youtube.com/watch?v=6_TC7rp374A)

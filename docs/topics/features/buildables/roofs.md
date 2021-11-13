@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildables](../../../topics/features/buildables.md) > Roofs
 
+## November 9th, 2021 Livestream
+* [Q&A: We have angled roof, but when will we get angled windows?](../../../transcriptions/yt-2mkoJ8-mt2k.md) [https://www.youtube.com/watch?v=2mkoJ8-mt2k](https://www.youtube.com/watch?v=2mkoJ8-mt2k)
+
 ## September 28th, 2021 Livestream
 * [Q&A: Can you put ceiling Lights on the slanted Roof pieces?](../../../transcriptions/yt-Pt1KjHKo_As.md) [https://www.youtube.com/watch?v=Pt1KjHKo_As](https://www.youtube.com/watch?v=Pt1KjHKo_As)
 

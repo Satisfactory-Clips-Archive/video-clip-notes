@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Retail](../../topics/retail.md) > Early Access
 
+## November 9th, 2021 Livestream
+* [Q&A: Is the game still fully-funded?](../../transcriptions/yt-ub_jfqVBxfs.md) [https://www.youtube.com/watch?v=ub_jfqVBxfs](https://www.youtube.com/watch?v=ub_jfqVBxfs)
+
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
 * Snutt & Jace Talk: It's nice to be able to have an open dialog with Early Access [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=14854&end=14938](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=14854&end=14938)
 

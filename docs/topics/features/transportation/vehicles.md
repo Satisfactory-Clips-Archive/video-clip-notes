@@ -12,6 +12,16 @@ date: Last Modified
 * [Tractor](../../../topics/features/transportation/vehicles/tractor.md)
 * [Truck](../../../topics/features/transportation/vehicles/truck.md)
 
+## November 9th, 2021 Livestream
+* [Q&A: Will there ever be lifts for Vehicles & Players?](../../../transcriptions/yt-wSEbzReDRqc.md) [https://www.youtube.com/watch?v=wSEbzReDRqc](https://www.youtube.com/watch?v=wSEbzReDRqc)
+* [Q&A: Can't we use hazmat suit while driving a car?](../../../transcriptions/yt-Gvzd1hxeFSs.md) [https://www.youtube.com/watch?v=Gvzd1hxeFSs](https://www.youtube.com/watch?v=Gvzd1hxeFSs)
+* [Q&A: Two Pioneers in one car?](../../../transcriptions/yt-Btds0y7oaoE.md) [https://www.youtube.com/watch?v=Btds0y7oaoE](https://www.youtube.com/watch?v=Btds0y7oaoE)
+* Q&A: Why do Vehicles have a health bar? [https://www.youtube.com/watch?v=nY7aRkB1PbU](https://www.youtube.com/watch?v=nY7aRkB1PbU)
+
+## November 5th, 2021 Livestream
+* [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 21)](../../../transcriptions/yt-V26cfhOb7_4.md) [https://www.youtube.com/watch?v=V26cfhOb7_4](https://www.youtube.com/watch?v=V26cfhOb7_4)
+* [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 35)](../../../transcriptions/yt-gAZJCKcLbMA.md) [https://www.youtube.com/watch?v=gAZJCKcLbMA](https://www.youtube.com/watch?v=gAZJCKcLbMA)
+
 ## November 2nd, 2021 Livestream
 * [Snutt & Jace Talk: Torsten's Cosmetics Whiteboard (Part 3)](../../../transcriptions/yt-Mm0VnPSe0VY.md) [https://www.youtube.com/watch?v=Mm0VnPSe0VY](https://www.youtube.com/watch?v=Mm0VnPSe0VY)
 * [Q&A: Do you have a timeframe on Trains or Trucks being fixed?](../../../transcriptions/yt-D9BB4q1QrE8.md) [https://www.youtube.com/watch?v=D9BB4q1QrE8](https://www.youtube.com/watch?v=D9BB4q1QrE8)

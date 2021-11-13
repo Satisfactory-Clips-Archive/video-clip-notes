@@ -7,6 +7,15 @@ date: Last Modified
 * [Cheatcrete](../../../topics/features/buildables/foundations/cheatcrete.md)
 * [Foundation Stencils](../../../topics/features/buildables/foundations/stencils.md)
 
+## November 12th, 2021 Video
+* Snutt Talk: Quick Switching [https://youtube.com/clip/UgkxmGWwvlZ15Vmv2e8Az3y4EINRTnq5eFSU](https://youtube.com/clip/UgkxmGWwvlZ15Vmv2e8Az3y4EINRTnq5eFSU)
+
+## November 9th, 2021 Livestream
+* [Q&A: Will the stack sizes for Iron Plates increase, with Foundation changes they're eating up space?](../../../transcriptions/yt-OXjbnXVYKw4.md) [https://www.youtube.com/watch?v=OXjbnXVYKw4](https://www.youtube.com/watch?v=OXjbnXVYKw4)
+* [Q&A: Can we have walls with rounded platforms?](../../../transcriptions/yt-NfvaiVpdqHM.md) [https://www.youtube.com/watch?v=NfvaiVpdqHM](https://www.youtube.com/watch?v=NfvaiVpdqHM)
+* [Q&A: Will there ever be rounded Foundations?](../../../transcriptions/yt-B6jTKTB_WmE.md) [https://www.youtube.com/watch?v=B6jTKTB_WmE](https://www.youtube.com/watch?v=B6jTKTB_WmE)
+* [Q&A: Will there ever be 3m ramps?](../../../transcriptions/yt-XZrSYPFfxYE.md) [https://www.youtube.com/watch?v=XZrSYPFfxYE](https://www.youtube.com/watch?v=XZrSYPFfxYE)
+
 ## November 2nd, 2021 Livestream
 * [Q&A: How come you're turning Limestone into Concrete? How come it's Steel-framed?](../../../transcriptions/yt-tdXyjapP9IM.md) [https://www.youtube.com/watch?v=tdXyjapP9IM](https://www.youtube.com/watch?v=tdXyjapP9IM)
 

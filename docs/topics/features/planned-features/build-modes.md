@@ -8,6 +8,9 @@ date: Last Modified
 * [Quick Switch](../../../topics/features/planned-features/build-modes/quick-switch.md)
 * [Zooping](../../../topics/features/planned-features/build-modes/zooping.md)
 
+## November 9th, 2021 Livestream
+* [Q&A: Reverse Build Mode, when?](../../../transcriptions/yt-MhYk3tCLUi8.md) [https://www.youtube.com/watch?v=MhYk3tCLUi8](https://www.youtube.com/watch?v=MhYk3tCLUi8)
+
 ## October 29th, 2021 Video
 * [Snutt Talk: We've added deselect for Mass Dismantle](../../../transcriptions/yt-rePLsjw-eEY,901.9010000000001,966.2319333333334.md) [https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=901&end=967](https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=901&end=967)
 

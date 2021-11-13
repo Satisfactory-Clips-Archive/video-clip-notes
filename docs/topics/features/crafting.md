@@ -8,6 +8,9 @@ date: Last Modified
 * [Recipes](../../topics/features/crafting/recipes.md)
 * [Superposition Oscillator](../../topics/features/crafting/superposition-oscillator.md)
 
+## November 9th, 2021 Livestream
+* [Q&A: Will the stack sizes for Iron Plates increase, with Foundation changes they're eating up space?](../../transcriptions/yt-OXjbnXVYKw4.md) [https://www.youtube.com/watch?v=OXjbnXVYKw4](https://www.youtube.com/watch?v=OXjbnXVYKw4)
+
 ## August 10th, 2021 Livestream
 * [Q&A: Any chance of a Craft Bench or Workshop Train cart?](../../transcriptions/yt-wiS1sjSEt9g.md) [https://www.youtube.com/watch?v=wiS1sjSEt9g](https://www.youtube.com/watch?v=wiS1sjSEt9g)
 

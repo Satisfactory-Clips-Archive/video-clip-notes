@@ -8,6 +8,14 @@ date: Last Modified
 * [Skövde](../../topics/off-topic/sweden/skovde.md)
 * [Stockholm](../../topics/off-topic/sweden/stockholm.md)
 
+## November 9th, 2021 Livestream
+* [Community FYI: Max Burgers](../../transcriptions/yt-ww6e6B4J_1Q.md) [https://www.youtube.com/watch?v=ww6e6B4J_1Q](https://www.youtube.com/watch?v=ww6e6B4J_1Q)
+* [Q&A: Why don't you have a Swedish accent](../../transcriptions/yt-f-uv6hfGSJY.md) [https://www.youtube.com/watch?v=f-uv6hfGSJY](https://www.youtube.com/watch?v=f-uv6hfGSJY)
+
+## November 5th, 2021 Livestream
+* [Q&A: Why are you guys always in your socks?](../../transcriptions/yt--lPYgQ5wMv0.md) [https://www.youtube.com/watch?v=-lPYgQ5wMv0](https://www.youtube.com/watch?v=-lPYgQ5wMv0)
+* [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 19)](../../transcriptions/yt-LtlAjKscqog.md) [https://www.youtube.com/watch?v=LtlAjKscqog](https://www.youtube.com/watch?v=LtlAjKscqog)
+
 ## November 2nd, 2021 Livestream
 * [Snutt & Jace Talk: Swedish Healthcare](../../transcriptions/yt-a3OlV_ETZBM.md) [https://www.youtube.com/watch?v=a3OlV_ETZBM](https://www.youtube.com/watch?v=a3OlV_ETZBM)
 * [Q&A: It's already dark?](../../transcriptions/yt-fx4JF3AL83U.md) [https://www.youtube.com/watch?v=fx4JF3AL83U](https://www.youtube.com/watch?v=fx4JF3AL83U)

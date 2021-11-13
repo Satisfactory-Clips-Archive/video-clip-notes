@@ -14,6 +14,14 @@ date: Last Modified
 * [Steel](../../topics/environment/resources/steel.md)
 * [Water](../../topics/environment/resources/water.md)
 
+## November 9th, 2021 Livestream
+* [Q&A: A bug from Update 4 where Drone Ports use too many batteries isn't fixed](../../transcriptions/yt-k8ZPDghO130.md) [https://www.youtube.com/watch?v=k8ZPDghO130](https://www.youtube.com/watch?v=k8ZPDghO130)
+* [Q&A: Will the stack sizes for Iron Plates increase, with Foundation changes they're eating up space?](../../transcriptions/yt-OXjbnXVYKw4.md) [https://www.youtube.com/watch?v=OXjbnXVYKw4](https://www.youtube.com/watch?v=OXjbnXVYKw4)
+* [Q&A: When will the Toilet in the HUB be usable & generate Biomass?](../../transcriptions/yt-9nKV9V8W8ns.md) [https://www.youtube.com/watch?v=9nKV9V8W8ns](https://www.youtube.com/watch?v=9nKV9V8W8ns)
+
+## November 5th, 2021 Livestream
+* [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 13)](../../transcriptions/yt-vhvpoKYGVbM.md) [https://www.youtube.com/watch?v=vhvpoKYGVbM](https://www.youtube.com/watch?v=vhvpoKYGVbM)
+
 ## November 2nd, 2021 Livestream
 * [Q&A: How come you're turning Limestone into Concrete? How come it's Steel-framed?](../../transcriptions/yt-tdXyjapP9IM.md) [https://www.youtube.com/watch?v=tdXyjapP9IM](https://www.youtube.com/watch?v=tdXyjapP9IM)
 

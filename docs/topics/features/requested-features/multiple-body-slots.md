@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Requested Features](../../../topics/features/requested-features.md) > Multiple Body Slots
 
+## November 9th, 2021 Livestream
+* [Q&A: Two body slots, maybe?](../../../transcriptions/yt-1r0kKFc_mW4.md) [https://www.youtube.com/watch?v=1r0kKFc_mW4](https://www.youtube.com/watch?v=1r0kKFc_mW4)
+* [Community FYI: For the problem of the two body slots, you could turn the hazmat suit in to a mask](../../../transcriptions/yt-YTjaVznsGlc.md) [https://www.youtube.com/watch?v=YTjaVznsGlc](https://www.youtube.com/watch?v=YTjaVznsGlc)
+
 ## October 5th, 2021 Livestream
 * [Q&A: Equipment Slots rework still in progress?](../../../transcriptions/yt-NZGJ3mLsbNk.md) [https://www.youtube.com/watch?v=NZGJ3mLsbNk](https://www.youtube.com/watch?v=NZGJ3mLsbNk)
 

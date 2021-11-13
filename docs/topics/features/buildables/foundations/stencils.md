@@ -5,6 +5,14 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > [Buildables](../../../../topics/features/buildables.md) > [Foundations](../../../../topics/features/buildables/foundations.md) > Foundation Stencils
 
+## November 12th, 2021 Video
+* Snutt Talk: Let's talk about Patterns [https://youtube.com/clip/Ugkxh0QfGp_AtX49_cYmvysIF4JgaTKBtZ1T](https://youtube.com/clip/Ugkxh0QfGp_AtX49_cYmvysIF4JgaTKBtZ1T)
+* Q&A: How do you change the colour on the Patterns? [https://youtube.com/clip/UgkxtIAvwdFOnv9vtehBTsydtmLHmwrIjguf](https://youtube.com/clip/UgkxtIAvwdFOnv9vtehBTsydtmLHmwrIjguf)
+* Snutt Talk: Color Cartridges [https://youtube.com/clip/UgkxqpK7gQ4Yi2nMzRb-Zjas0l67BjSoViJ2](https://youtube.com/clip/UgkxqpK7gQ4Yi2nMzRb-Zjas0l67BjSoViJ2)
+
+## November 5th, 2021 Livestream
+* [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 28)](../../../../transcriptions/yt-vefTYgnFi7k.md) [https://www.youtube.com/watch?v=vefTYgnFi7k](https://www.youtube.com/watch?v=vefTYgnFi7k)
+
 ## November 2nd, 2021 Livestream
 * [Snutt & Jace Talk: Torsten's Cosmetics Whiteboard (Part 2)](../../../../transcriptions/yt-yKTK7X0Z8dQ.md) [https://www.youtube.com/watch?v=yKTK7X0Z8dQ](https://www.youtube.com/watch?v=yKTK7X0Z8dQ)
 

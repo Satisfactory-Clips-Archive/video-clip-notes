@@ -21,6 +21,14 @@ date: Last Modified
 * [Walls](../../topics/features/buildables/walls.md)
 * [Windows](../../topics/features/buildables/windows.md)
 
+## November 9th, 2021 Livestream
+* [Q&A: Is there any idea on improving the order of items you place?](../../transcriptions/yt-ewSNOJgHryQ.md) [https://www.youtube.com/watch?v=ewSNOJgHryQ](https://www.youtube.com/watch?v=ewSNOJgHryQ)
+* [Q&A: Will there be improvements to hit boxes, specifically for Power Poles between two Constructors?](../../transcriptions/yt-l75JZF14dbY.md) [https://www.youtube.com/watch?v=l75JZF14dbY](https://www.youtube.com/watch?v=l75JZF14dbY)
+
+## November 5th, 2021 Livestream
+* [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 12)](../../transcriptions/yt-bFyLzQZq4ys.md) [https://www.youtube.com/watch?v=bFyLzQZq4ys](https://www.youtube.com/watch?v=bFyLzQZq4ys)
+* [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 48)](../../transcriptions/yt-yXt0i77bv6k.md) [https://www.youtube.com/watch?v=yXt0i77bv6k](https://www.youtube.com/watch?v=yXt0i77bv6k)
+
 ## November 2nd, 2021 Livestream
 * [Snutt & Jace Talk: Torsten's Cosmetics Whiteboard (Part 1)](../../transcriptions/yt-2xXOlRDamHE.md) [https://www.youtube.com/watch?v=2xXOlRDamHE](https://www.youtube.com/watch?v=2xXOlRDamHE)
 * [Snutt & Jace Talk: Torsten's Cosmetics Whiteboard (Part 4)](../../transcriptions/yt-N8UgzoIneMk.md) [https://www.youtube.com/watch?v=N8UgzoIneMk](https://www.youtube.com/watch?v=N8UgzoIneMk)

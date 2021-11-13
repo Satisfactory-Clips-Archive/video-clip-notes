@@ -11,6 +11,9 @@ date: Last Modified
 * [Update 5 Quiz: Underrated/Overrated](../../../topics/satisfactory-updates/teasers-and-trailers/update-5-launch-stream/underrated-or-overrated-quiz.md)
 * [Update 5 Revealed](../../../topics/satisfactory-updates/teasers-and-trailers/update-5-launch-stream/update-5-revealed.md)
 
+## November 5th, 2021 Livestream
+* [Q&A: Did Jace's HelloFresh already arrive this week?](../../../transcriptions/yt-UnXNb3M5T_Y.md) [https://www.youtube.com/watch?v=UnXNb3M5T_Y](https://www.youtube.com/watch?v=UnXNb3M5T_Y)
+
 ## November 2nd, 2021 Livestream
 * [State of Dev: Update 5 (Part 1)](../../../transcriptions/yt-G7hTmrjxqx8.md) [https://www.youtube.com/watch?v=G7hTmrjxqx8](https://www.youtube.com/watch?v=G7hTmrjxqx8)
 * [Snutt & Jace Talk: HelloFresh](../../../transcriptions/yt-0zO8gV7jfrw.md) [https://www.youtube.com/watch?v=0zO8gV7jfrw](https://www.youtube.com/watch?v=0zO8gV7jfrw)

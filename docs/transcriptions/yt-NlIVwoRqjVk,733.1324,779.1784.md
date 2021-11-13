@@ -9,7 +9,7 @@ topics:
 # [May 15th, 2020 Q&A](../2020-05-15.md)
 ## Q&A: Will we get more than one body slot?
 https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=733&end=780
-This question was possibly duplicated with a more recent answer: [October 5th, 2021 Livestream Q&A: Equipment Slots rework still in progress?](./yt-NZGJ3mLsbNk.md) [https://www.youtube.com/watch?v=NZGJ3mLsbNk](https://www.youtube.com/watch?v=NZGJ3mLsbNk)
+This question was possibly duplicated with a more recent answer: [November 9th, 2021 Livestream Q&A: Two body slots, maybe?](./yt-1r0kKFc_mW4.md) [https://www.youtube.com/watch?v=1r0kKFc_mW4](https://www.youtube.com/watch?v=1r0kKFc_mW4)
 
 
 ### Topics

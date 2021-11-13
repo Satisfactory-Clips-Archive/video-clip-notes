@@ -20,6 +20,13 @@ date: Last Modified
 * [The Cycle](../topics/off-topic/the-cycle.md)
 * [Valheim](../topics/off-topic/valheim.md)
 
+## November 9th, 2021 Livestream
+* [Q&A: How to remove coffee stain from carpet?](../transcriptions/yt-iRamlC8l2C4.md) [https://www.youtube.com/watch?v=iRamlC8l2C4](https://www.youtube.com/watch?v=iRamlC8l2C4)
+
+## November 5th, 2021 Livestream
+* [Snutt & Jace Talk: Vinyl, gaming against bots, don't think](../transcriptions/yt-wjAS8c-jOLM.md) [https://www.youtube.com/watch?v=wjAS8c-jOLM](https://www.youtube.com/watch?v=wjAS8c-jOLM)
+* [Community FYI: There's a game called "Golf Story" that makes fun of Golf culture](../transcriptions/yt-lZtUUmd8igE.md) [https://www.youtube.com/watch?v=lZtUUmd8igE](https://www.youtube.com/watch?v=lZtUUmd8igE)
+
 ## October 19th, 2021 Livestream
 * [Snutt & Jace Talk: Skateboarding in Metal Gear Solid 2](../transcriptions/yt-u-F2Orn_I70.md) [https://www.youtube.com/watch?v=u-F2Orn_I70](https://www.youtube.com/watch?v=u-F2Orn_I70)
 

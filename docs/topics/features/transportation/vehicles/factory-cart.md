@@ -5,6 +5,14 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > Transportation > [Vehicles](../../../../topics/features/transportation/vehicles.md) > Factory Cart
 
+## November 9th, 2021 Livestream
+* [Community FYI: You don't get fall damage if you're in the Factory Cart (Part 1)](../../../../transcriptions/yt-6qhAAvQoUKQ.md) [https://www.youtube.com/watch?v=6qhAAvQoUKQ](https://www.youtube.com/watch?v=6qhAAvQoUKQ)
+* [Community FYI: You don't get fall damage if you're in the Factory Cart (Part 2)](../../../../transcriptions/yt-pgEhwpjcqw8.md) [https://www.youtube.com/watch?v=pgEhwpjcqw8](https://www.youtube.com/watch?v=pgEhwpjcqw8)
+* [Q&A: If Factory Cart is the only good Vehicle, when will be able to replace Trains with it?](../../../../transcriptions/yt-WemkAmsN1xM.md) [https://www.youtube.com/watch?v=WemkAmsN1xM](https://www.youtube.com/watch?v=WemkAmsN1xM)
+
+## November 5th, 2021 Livestream
+* [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 36)](../../../../transcriptions/yt-CfvrpfZdRQI.md) [https://www.youtube.com/watch?v=CfvrpfZdRQI](https://www.youtube.com/watch?v=CfvrpfZdRQI)
+
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
 * Snutt & Jace Talk: Factory Cart racing stream [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=2975&end=3002](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=2975&end=3002)
 * Rasmus, Snutt, and Jace Talk: You can automate Factory Carts as well [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=5537&end=5620](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=5537&end=5620)

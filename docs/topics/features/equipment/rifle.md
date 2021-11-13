@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Equipment](../../../topics/features/equipment.md) > Rifle
 
+## November 9th, 2021 Livestream
+* [Q&A: Rifle doesn't hitscan any more?](../../../transcriptions/yt-iK1vpA1xkMk.md) [https://www.youtube.com/watch?v=iK1vpA1xkMk](https://www.youtube.com/watch?v=iK1vpA1xkMk)
+
 ## October 12th, 2021 Livestream
 * [Q&A: Mk.2 Rifle returnning, when?](../../../transcriptions/yt-9TvXDVIoi9s.md) [https://www.youtube.com/watch?v=9TvXDVIoi9s](https://www.youtube.com/watch?v=9TvXDVIoi9s)
 

@@ -26,6 +26,13 @@ date: Last Modified
 * [The HUB](../../topics/features/buildings/the-hub.md)
 * [Water Extractor](../../topics/features/buildings/water-extractor.md)
 
+## November 9th, 2021 Livestream
+* [Q&A: Train Station had bigger clearance?](../../transcriptions/yt-p-sGsaQvI2I.md) [https://www.youtube.com/watch?v=p-sGsaQvI2I](https://www.youtube.com/watch?v=p-sGsaQvI2I)
+* [Q&A: Why is the station name "Åmål" in the main menu?](../../transcriptions/yt-FKpT8MJEw0k.md) [https://www.youtube.com/watch?v=FKpT8MJEw0k](https://www.youtube.com/watch?v=FKpT8MJEw0k)
+* [Q&A: When the Train loads & unloads, the Conveyor Belts stop- is that by design or a bug?](../../transcriptions/yt-cO2WaTWF5kM.md) [https://www.youtube.com/watch?v=cO2WaTWF5kM](https://www.youtube.com/watch?v=cO2WaTWF5kM)
+* [Q&A: A bug from Update 4 where Drone Ports use too many batteries isn't fixed](../../transcriptions/yt-k8ZPDghO130.md) [https://www.youtube.com/watch?v=k8ZPDghO130](https://www.youtube.com/watch?v=k8ZPDghO130)
+* [Q&A: Why does FICSIT use Comic Sans on the employee manual in the Equipment Shop?](../../transcriptions/yt-__8bl6Z31PE.md) [https://www.youtube.com/watch?v=__8bl6Z31PE](https://www.youtube.com/watch?v=__8bl6Z31PE)
+
 ## November 2nd, 2021 Livestream
 * [Q&A: Can we have a toggle option to get the old fueling system on Truck Stations?](../../transcriptions/yt-BWmSCd1wE2A.md) [https://www.youtube.com/watch?v=BWmSCd1wE2A](https://www.youtube.com/watch?v=BWmSCd1wE2A)
 

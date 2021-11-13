@@ -5,6 +5,13 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > Release Builds
 
+## November 12th, 2021 Video
+* Q&A: When will the game be available on the Early Access branch? [https://youtube.com/clip/Ugkx2TwHrFg1Nx1AsL24SkaSA6X8a_hj0qav](https://youtube.com/clip/Ugkx2TwHrFg1Nx1AsL24SkaSA6X8a_hj0qav)
+
+## November 9th, 2021 Livestream
+* [Q&A: When is the EA release?](../../transcriptions/yt-Jvoyj5jezKI.md) [https://www.youtube.com/watch?v=Jvoyj5jezKI](https://www.youtube.com/watch?v=Jvoyj5jezKI)
+* [Q&A: When is Update 5 coming out of beta?](../../transcriptions/yt-fD5bj01dx4Q.md) [https://www.youtube.com/watch?v=fD5bj01dx4Q](https://www.youtube.com/watch?v=fD5bj01dx4Q)
+
 ## November 2nd, 2021 Livestream
 * [Q&A: When will Update 5 come out on Early Access?](../../transcriptions/yt-jE9_3gnBleg.md) [https://www.youtube.com/watch?v=jE9_3gnBleg](https://www.youtube.com/watch?v=jE9_3gnBleg)
 * [Q&A: Can you play the Experimental build?](../../transcriptions/yt-Xr6AgBnJscw.md) [https://www.youtube.com/watch?v=Xr6AgBnJscw](https://www.youtube.com/watch?v=Xr6AgBnJscw)

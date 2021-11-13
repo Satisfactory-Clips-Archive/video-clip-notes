@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Dylan
 
+## November 5th, 2021 Livestream
+* [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 18)](../../transcriptions/yt-gRzXwedez1c.md) [https://www.youtube.com/watch?v=gRzXwedez1c](https://www.youtube.com/watch?v=gRzXwedez1c)
+* [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 67)](../../transcriptions/yt-sSjSkOu19OM.md) [https://www.youtube.com/watch?v=sSjSkOu19OM](https://www.youtube.com/watch?v=sSjSkOu19OM)
+
 ## December 15th, 2020 Livestream
 * [Q&A: Who's Dylan?](../../transcriptions/yt-1SJA0S2IagA.md) [https://www.youtube.com/watch?v=1SJA0S2IagA](https://www.youtube.com/watch?v=1SJA0S2IagA)
 

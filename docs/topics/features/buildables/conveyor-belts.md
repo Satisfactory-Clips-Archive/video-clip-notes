@@ -5,6 +5,18 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildables](../../../topics/features/buildables.md) > Conveyor Belts
 
+## November 9th, 2021 Livestream
+* [Q&A: Reverse Build Mode, when?](../../../transcriptions/yt-MhYk3tCLUi8.md) [https://www.youtube.com/watch?v=MhYk3tCLUi8](https://www.youtube.com/watch?v=MhYk3tCLUi8)
+* [Q&A: When the Train loads & unloads, the Conveyor Belts stop- is that by design or a bug?](../../../transcriptions/yt-cO2WaTWF5kM.md) [https://www.youtube.com/watch?v=cO2WaTWF5kM](https://www.youtube.com/watch?v=cO2WaTWF5kM)
+* [Q&A: Load balancing weird numbers sucks right now, any chance of Ratio Splitters?](../../../transcriptions/yt-8CzaRyUtSog.md) [https://www.youtube.com/watch?v=8CzaRyUtSog](https://www.youtube.com/watch?v=8CzaRyUtSog)
+* Q&A: What about ceiling mounts for Belts? [https://www.youtube.com/watch?v=ArUvBcQX7Hg](https://www.youtube.com/watch?v=ArUvBcQX7Hg)
+* [Q&A: Will Programmable Splitters ever get a copy & paste feature?](../../../transcriptions/yt-P86fRw4YeZc.md) [https://www.youtube.com/watch?v=P86fRw4YeZc](https://www.youtube.com/watch?v=P86fRw4YeZc)
+* [Q&A: Why is the Mk.3 Conveyor 270?](../../../transcriptions/yt-n0XUhvc98mo.md) [https://www.youtube.com/watch?v=n0XUhvc98mo](https://www.youtube.com/watch?v=n0XUhvc98mo)
+
+## November 5th, 2021 Livestream
+* [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 16)](../../../transcriptions/yt-YFfud0NwaGk.md) [https://www.youtube.com/watch?v=YFfud0NwaGk](https://www.youtube.com/watch?v=YFfud0NwaGk)
+* [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 27)](../../../transcriptions/yt-V4Xb7i8jMww.md) [https://www.youtube.com/watch?v=V4Xb7i8jMww](https://www.youtube.com/watch?v=V4Xb7i8jMww)
+
 ## October 29th, 2021 Video
 * [Jace Talk: Stackable Conveyor Poles & Floor Holes have Hard Clearance](../../../transcriptions/yt-rePLsjw-eEY,307.4071,338.814696.md) [https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=307&end=339](https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=307&end=339)
 * [Snutt Talk: Toggling Conveyor Lift direction](../../../transcriptions/yt-rePLsjw-eEY,513.0458666666667,572.2049666666667.md) [https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=513&end=573](https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=513&end=573)

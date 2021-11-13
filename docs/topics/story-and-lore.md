@@ -7,6 +7,10 @@ date: Last Modified
 * [Characters](../topics/story-and-lore/characters.md)
 * [Project Assembly](../topics/story-and-lore/project-assembly.md)
 
+## November 9th, 2021 Livestream
+* [Q&A: Why does FICSIT use Comic Sans on the employee manual in the Equipment Shop?](../transcriptions/yt-__8bl6Z31PE.md) [https://www.youtube.com/watch?v=__8bl6Z31PE](https://www.youtube.com/watch?v=__8bl6Z31PE)
+* [Q&A: Why is [Paternal Figure] so insistent on us collecting those when we can't use them?](../transcriptions/yt-9aIHAk5luq8.md) [https://www.youtube.com/watch?v=9aIHAk5luq8](https://www.youtube.com/watch?v=9aIHAk5luq8)
+
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
 * Hannah & Snutt Talk: Prototyping 1.0 [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=10340&end=10445](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=10340&end=10445)
 * Q&A: Does Hannah get a sense of trepidation when going from World design to Narrative design? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=10444&end=10472](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=10444&end=10472)

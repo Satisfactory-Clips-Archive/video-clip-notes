@@ -37,6 +37,9 @@ date: Last Modified
 * [Torsten](../topics/coffee-stainers/torsten.md)
 * [Uzu](../topics/coffee-stainers/uzu.md)
 
+## November 5th, 2021 Livestream
+* [Community FYI: Jace, you should do group iron man with some Coffee Stainers](../transcriptions/yt-6ln9Rgr3MI0.md) [https://www.youtube.com/watch?v=6ln9Rgr3MI0](https://www.youtube.com/watch?v=6ln9Rgr3MI0)
+
 ## November 2nd, 2021 Livestream
 * [Snutt & Jace Talk: Community Feedback to the Update 5 Launch Stream](../transcriptions/yt-3VTVYPUVwl8.md) [https://www.youtube.com/watch?v=3VTVYPUVwl8](https://www.youtube.com/watch?v=3VTVYPUVwl8)
 * [Q&A: Are Office Doggos considered Coffee Stainers or just Office Doggos?](../transcriptions/yt-7q3qw64REKY.md) [https://www.youtube.com/watch?v=7q3qw64REKY](https://www.youtube.com/watch?v=7q3qw64REKY)

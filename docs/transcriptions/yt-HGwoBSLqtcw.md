@@ -8,7 +8,7 @@ topics:
 # [December 19th, 2019 Livestream](../2019-12-19.md)
 ## Q&A: Human Elevators?
 https://www.youtube.com/watch?v=HGwoBSLqtcw
-This question was possibly duplicated with a more recent answer: November 2nd, 2021 Livestream Q&A: Will there ever be Elevators? [https://www.youtube.com/watch?v=e-r3tL5dY_8](https://www.youtube.com/watch?v=e-r3tL5dY_8)
+This question was possibly duplicated with a more recent answer: [November 9th, 2021 Livestream Q&A: Will there ever be lifts for Vehicles & Players?](./yt-wSEbzReDRqc.md) [https://www.youtube.com/watch?v=wSEbzReDRqc](https://www.youtube.com/watch?v=wSEbzReDRqc)
 
 
 ### Topics

@@ -5,6 +5,12 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Biomes](../../../topics/environment/biomes.md) > Caves
 
+## November 9th, 2021 Livestream
+* [Q&A: The new craters in the dunes, will those flat walls turn into a Cave system?](../../../transcriptions/yt-Yq45pgAN_ac.md) [https://www.youtube.com/watch?v=Yq45pgAN_ac](https://www.youtube.com/watch?v=Yq45pgAN_ac)
+
+## November 5th, 2021 Livestream
+* Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 31) [https://www.youtube.com/watch?v=gND0YVdujU8](https://www.youtube.com/watch?v=gND0YVdujU8)
+
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
 * [Jace Talk: We're updating some of the Caves](../../../transcriptions/yt-QfaReoks6OM,595.0833333333334,606.7916666666666.md) [https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=595&end=607](https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=595&end=607)
 * Q&A: So how are you doing Hannah? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=10187&end=10341](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=10187&end=10341)

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Embracer Group](../../../topics/embracer-group.md) > [THQ Nordic](../../../topics/embracer-group/thq-nordic.md) > Lars
 
+## November 5th, 2021 Livestream
+* [Community FYI: Big fan of the biiiig reference from Lars](../../../transcriptions/yt-vKEZETKhaxw.md) [https://www.youtube.com/watch?v=vKEZETKhaxw](https://www.youtube.com/watch?v=vKEZETKhaxw)
+
 ## August 10th, 2021 Livestream
 * [Q&A: Does Lars not make you not indie?](../../../transcriptions/yt-NZaGL-Zjl0o.md) [https://www.youtube.com/watch?v=NZaGL-Zjl0o](https://www.youtube.com/watch?v=NZaGL-Zjl0o)
 

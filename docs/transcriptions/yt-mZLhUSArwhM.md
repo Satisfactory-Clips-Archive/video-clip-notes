@@ -4,18 +4,16 @@ date: "2021-04-20"
 layout: transcript
 topics:
     - "features/roadmap"
-    - "satisfactory-updates"
 ---
 # [April 20th, 2021 Livestream](../2021-04-20.md)
 ## Q&A: Is there a roadmap publicly?
 https://www.youtube.com/watch?v=mZLhUSArwhM
 <details>
-<summary>This question may have been asked previously at least 7 other times, as recently as April 2021 and as early as March 2020.</summary>
+<summary>This question may have been asked previously at least 6 other times, as recently as April 2021 and as early as March 2020.</summary>
 
 * [April 20th, 2021 Livestream Q&A: Where can I find the latest roadmap?](./yt-oTow--NnLz8.md) [https://www.youtube.com/watch?v=oTow--NnLz8](https://www.youtube.com/watch?v=oTow--NnLz8)
 * [March 30th, 2021 Livestream Q&A: Satisfactory Roadmap?](./yt-HZ4vKssj208.md) [https://www.youtube.com/watch?v=HZ4vKssj208](https://www.youtube.com/watch?v=HZ4vKssj208)
 * [March 23rd, 2021 Livestream Q&A: Please can I have the future Roadmap back, I need it in my life](./yt-AlerpJ2AaXQ.md) [https://www.youtube.com/watch?v=AlerpJ2AaXQ](https://www.youtube.com/watch?v=AlerpJ2AaXQ)
-* [December 8th, 2020 Livestream Q&A: I would be interested to see your in-house roadmap](./yt-D0LY0PxkSJM.md) [https://www.youtube.com/watch?v=D0LY0PxkSJM](https://www.youtube.com/watch?v=D0LY0PxkSJM)
 * [September 1st, 2020 Livestream Q&A: Roadmap?](./yt-iSMAUqquuvc.md) [https://www.youtube.com/watch?v=iSMAUqquuvc](https://www.youtube.com/watch?v=iSMAUqquuvc)
 * [August 25th, 2020 Livestream Q&A: Do you have a set of ideas?](./yt-eSN0HQlSJBs.md) [https://www.youtube.com/watch?v=eSN0HQlSJBs](https://www.youtube.com/watch?v=eSN0HQlSJBs)
 * [March 24th, 2020 Livestream Q&A: Will there be a roadmap again for Updates?](./yt-EiqFP9bm7v4.md) [https://www.youtube.com/watch?v=EiqFP9bm7v4](https://www.youtube.com/watch?v=EiqFP9bm7v4)
@@ -24,7 +22,6 @@ https://www.youtube.com/watch?v=mZLhUSArwhM
 
 ### Topics
 * [Features > Roadmap](../topics/features/roadmap.md)
-* [Satisfactory Updates](../topics/satisfactory-updates.md)
 
 ### Transcript
 

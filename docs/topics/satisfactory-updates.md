@@ -18,6 +18,9 @@ date: Last Modified
 * [Teasers & Trailers](../topics/satisfactory-updates/teasers-and-trailers.md)
 * [World Update](../topics/satisfactory-updates/world-update.md)
 
+## November 9th, 2021 Livestream
+* [Q&A: Anyone know why we respawn after a patch?](../transcriptions/yt-rxDMR1jNQn0.md) [https://www.youtube.com/watch?v=rxDMR1jNQn0](https://www.youtube.com/watch?v=rxDMR1jNQn0)
+
 ## November 2nd, 2021 Livestream
 * [Q&A: After 1.0 will you still support the game or just move on?](../transcriptions/yt-4uejLZj2lCk.md) [https://www.youtube.com/watch?v=4uejLZj2lCk](https://www.youtube.com/watch?v=4uejLZj2lCk)
 * Q&A: Are you going to take a bunch of Mods and make an Update out of that? [https://www.youtube.com/watch?v=EYmRwJdzh7s](https://www.youtube.com/watch?v=EYmRwJdzh7s)
@@ -148,14 +151,9 @@ date: Last Modified
 * [State of Dev: Try verifying files if you're experiencing graphical glitches](../transcriptions/yt-5NkjFaKNJmI.md) [https://www.youtube.com/watch?v=5NkjFaKNJmI](https://www.youtube.com/watch?v=5NkjFaKNJmI)
 * [Snutt Talk: Steam & Epic patch download failures causing graphical issues](../transcriptions/yt-uNYU4_DIxtI.md) [https://www.youtube.com/watch?v=uNYU4_DIxtI](https://www.youtube.com/watch?v=uNYU4_DIxtI)
 * [Q&A: Will there be an Update 4.5?](../transcriptions/yt-rczQrecqq6w.md) [https://www.youtube.com/watch?v=rczQrecqq6w](https://www.youtube.com/watch?v=rczQrecqq6w)
-* [Q&A: Is there a roadmap publicly?](../transcriptions/yt-mZLhUSArwhM.md) [https://www.youtube.com/watch?v=mZLhUSArwhM](https://www.youtube.com/watch?v=mZLhUSArwhM)
 * Q&A: How many Updates before full release? [https://www.youtube.com/watch?v=7XSZ-08BaXc](https://www.youtube.com/watch?v=7XSZ-08BaXc)
 * [Q&A: Do you guys have stuff that you wanna add but not sure about putting it on the QA site?](../transcriptions/yt-1YwuzwU17kI.md) [https://www.youtube.com/watch?v=1YwuzwU17kI](https://www.youtube.com/watch?v=1YwuzwU17kI)
-* [Q&A: Where can I find the latest roadmap?](../transcriptions/yt-oTow--NnLz8.md) [https://www.youtube.com/watch?v=oTow--NnLz8](https://www.youtube.com/watch?v=oTow--NnLz8)
 * [Snutt Talk: Might be a good habit to verify game files after every update](../transcriptions/yt-11kugJNY9ug.md) [https://www.youtube.com/watch?v=11kugJNY9ug](https://www.youtube.com/watch?v=11kugJNY9ug)
-
-## March 23rd, 2021 Livestream
-* [Q&A: Please can I have the future Roadmap back, I need it in my life](../transcriptions/yt-AlerpJ2AaXQ.md) [https://www.youtube.com/watch?v=AlerpJ2AaXQ](https://www.youtube.com/watch?v=AlerpJ2AaXQ)
 
 ## March 9th, 2021 Livestream
 * [Q&A: Do you guys have plans for other save-breaking changes in the future?](../transcriptions/yt-mFPSgNO5cIk.md) [https://www.youtube.com/watch?v=mFPSgNO5cIk](https://www.youtube.com/watch?v=mFPSgNO5cIk)

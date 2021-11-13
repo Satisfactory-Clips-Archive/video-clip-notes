@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Features](../../topics/features.md) > Paint
 
+## November 5th, 2021 Livestream
+* [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 35)](../../transcriptions/yt-gAZJCKcLbMA.md) [https://www.youtube.com/watch?v=gAZJCKcLbMA](https://www.youtube.com/watch?v=gAZJCKcLbMA)
+
 ## October 29th, 2021 Video
 * [Snutt Talk: You can Paint Vehicles, Trains, and Drones](../../transcriptions/yt-rePLsjw-eEY,385.7854,405.30490000000003.md) [https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=385&end=406](https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=385&end=406)
 

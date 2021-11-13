@@ -5,6 +5,14 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > QA Site
 
+## November 9th, 2021 Livestream
+* [Q&A: A bug from Update 4 where Drone Ports use too many batteries isn't fixed](../transcriptions/yt-k8ZPDghO130.md) [https://www.youtube.com/watch?v=k8ZPDghO130](https://www.youtube.com/watch?v=k8ZPDghO130)
+* [Community FYI: If a QA Site Post reaches 2500, it gets auto-rejected](../transcriptions/yt-jMtXOWsfTKw.md) [https://www.youtube.com/watch?v=jMtXOWsfTKw](https://www.youtube.com/watch?v=jMtXOWsfTKw)
+* [Q&A: Will you be adding an in-game ticket support system?](../transcriptions/yt-ChCuooOylV4.md) [https://www.youtube.com/watch?v=ChCuooOylV4](https://www.youtube.com/watch?v=ChCuooOylV4)
+
+## November 5th, 2021 Livestream
+* [Community FYI: Checked for rejected QA as soon as the video was over](../transcriptions/yt-2usvBK3tqEw.md) [https://www.youtube.com/watch?v=2usvBK3tqEw](https://www.youtube.com/watch?v=2usvBK3tqEw)
+
 ## November 2nd, 2021 Livestream
 * [Snutt & Jace Talk: Golf](../transcriptions/yt-IwvIv7uXU20.md) [https://www.youtube.com/watch?v=IwvIv7uXU20](https://www.youtube.com/watch?v=IwvIv7uXU20)
 * [Community FYI: I can't post on the QA Site, I'm just not able to](../transcriptions/yt-p-3_lmB_92k.md) [https://www.youtube.com/watch?v=p-3_lmB_92k](https://www.youtube.com/watch?v=p-3_lmB_92k)

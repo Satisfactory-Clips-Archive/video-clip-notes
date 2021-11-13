@@ -8,7 +8,7 @@ topics:
 # [February 20th, 2019 Livestream](../2019-02-20.md)
 ## Q&A: Where do you apply?
 https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3825&end=3845
-This question was possibly duplicated with a more recent answer: [January 12th, 2021 Livestream Q&A: Now that you have big boy office are you planning on hiring a lot more people to fill it out?](./yt-iqGA8u7MmMM.md) [https://www.youtube.com/watch?v=iqGA8u7MmMM](https://www.youtube.com/watch?v=iqGA8u7MmMM)
+This question was possibly duplicated with a more recent answer: [November 9th, 2021 Livestream Q&A: Do you have any job openings?](./yt-KJNAQ1MMEWI.md) [https://www.youtube.com/watch?v=KJNAQ1MMEWI](https://www.youtube.com/watch?v=KJNAQ1MMEWI)
 
 
 ### Topics

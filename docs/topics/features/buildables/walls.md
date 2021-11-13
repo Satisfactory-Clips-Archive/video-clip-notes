@@ -5,6 +5,14 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildables](../../../topics/features/buildables.md) > Walls
 
+## November 12th, 2021 Video
+* Snutt Talk: Switching Wall Types with Zooping [https://youtube.com/clip/UgkxhBVzyTy6NO02bDwiATgeMiE0n_WOqp7r](https://youtube.com/clip/UgkxhBVzyTy6NO02bDwiATgeMiE0n_WOqp7r)
+
+## November 9th, 2021 Livestream
+* [Q&A: Can we have walls with rounded platforms?](../../../transcriptions/yt-NfvaiVpdqHM.md) [https://www.youtube.com/watch?v=NfvaiVpdqHM](https://www.youtube.com/watch?v=NfvaiVpdqHM)
+* [Q&A: Diagonal Walls?](../../../transcriptions/yt-iMzNdXuAzBI.md) [https://www.youtube.com/watch?v=iMzNdXuAzBI](https://www.youtube.com/watch?v=iMzNdXuAzBI)
+* [Q&A: Diagonal Walls?](../../../transcriptions/yt-tJb8dz7sNSk.md) [https://www.youtube.com/watch?v=tJb8dz7sNSk](https://www.youtube.com/watch?v=tJb8dz7sNSk)
+
 ## November 2nd, 2021 Livestream
 * Snutt & Jace Talk: Torsten's Cosmetics Whiteboard (Part 8) [https://www.youtube.com/watch?v=q-yglbCI9pM](https://www.youtube.com/watch?v=q-yglbCI9pM)
 * [Q&A: Where is basic Wall 2m which Jace promised in the Update 5 cosmetics video?](../../../transcriptions/yt--1kh2fAn5_M.md) [https://www.youtube.com/watch?v=-1kh2fAn5_M](https://www.youtube.com/watch?v=-1kh2fAn5_M)

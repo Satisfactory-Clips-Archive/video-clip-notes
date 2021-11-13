@@ -9,7 +9,7 @@ topics:
 # [August 3rd, 2021 Livestream](../2021-08-03.md)
 ## Q&A: Will there be passenger elevators in the game in Update 5?
 https://www.youtube.com/watch?v=qOQrrNMcI8g
-This question was possibly duplicated with a more recent answer: November 2nd, 2021 Livestream Q&A: Will there ever be Elevators? [https://www.youtube.com/watch?v=e-r3tL5dY_8](https://www.youtube.com/watch?v=e-r3tL5dY_8)
+This question was possibly duplicated with a more recent answer: [November 9th, 2021 Livestream Q&A: Will there ever be lifts for Vehicles & Players?](./yt-wSEbzReDRqc.md) [https://www.youtube.com/watch?v=wSEbzReDRqc](https://www.youtube.com/watch?v=wSEbzReDRqc)
 
 
 ### Topics

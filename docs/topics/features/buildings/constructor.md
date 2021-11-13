@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > Constructor
 
+## November 9th, 2021 Livestream
+* [Q&A: Will there be improvements to hit boxes, specifically for Power Poles between two Constructors?](../../../transcriptions/yt-l75JZF14dbY.md) [https://www.youtube.com/watch?v=l75JZF14dbY](https://www.youtube.com/watch?v=l75JZF14dbY)
+
 ## August 10th, 2021 Livestream
 * [Q&A: Will we ever get a Mk.2 Constructor?](../../../transcriptions/yt-lTmi7l3XfEI.md) [https://www.youtube.com/watch?v=lTmi7l3XfEI](https://www.youtube.com/watch?v=lTmi7l3XfEI)
 

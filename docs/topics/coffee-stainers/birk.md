@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Birk
 
+## November 5th, 2021 Livestream
+* [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 26)](../../transcriptions/yt-_N3g-EVfJl4.md) [https://www.youtube.com/watch?v=_N3g-EVfJl4](https://www.youtube.com/watch?v=_N3g-EVfJl4)
+
 ## May 18th, 2021 Livestream
 * [Q&A: Are you thinking of adding some type of Signs or screens?](../../transcriptions/yt-N8sqIFGjwyk.md) [https://www.youtube.com/watch?v=N8sqIFGjwyk](https://www.youtube.com/watch?v=N8sqIFGjwyk)
 

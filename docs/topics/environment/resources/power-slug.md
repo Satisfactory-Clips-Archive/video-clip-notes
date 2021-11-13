@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Resources](../../../topics/environment/resources.md) > Power Slug
 
+## November 9th, 2021 Livestream
+* [Q&A: Why did you change the colour from green to blue?](../../../transcriptions/yt-DT177nvPSwI.md) [https://www.youtube.com/watch?v=DT177nvPSwI](https://www.youtube.com/watch?v=DT177nvPSwI)
+
 ## October 29th, 2021 Video
 * [Snutt Talk: Blue Slug](../../../transcriptions/yt-rePLsjw-eEY,702.2682333333333,765.765.md) [https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=702&end=766](https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=702&end=766)
 

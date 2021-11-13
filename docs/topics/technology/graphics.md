@@ -9,6 +9,9 @@ date: Last Modified
 * [Ray Tracing](../../topics/technology/graphics/ray-tracing.md)
 * [Ultrawide Monitors](../../topics/technology/graphics/ultrawide-monitors.md)
 
+## November 5th, 2021 Livestream
+* [Q&A: How do you do the depth-of-field effect?](../../transcriptions/yt-hwqoNG0udao.md) [https://www.youtube.com/watch?v=hwqoNG0udao](https://www.youtube.com/watch?v=hwqoNG0udao)
+
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
 * [Snutt & Jace Talk: We've updated the Northern Forest](../../transcriptions/yt-QfaReoks6OM,551.5833333333334,584.2916666666666.md) [https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=551&end=585](https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=551&end=585)
 

@@ -21,7 +21,21 @@ date: Last Modified
 * [SignpostMarv](../topics/community/signpostmarv.md)
 * [Smerkin](../topics/community/smerkin.md)
 * [Tom](../topics/community/tom.md)
+* [Vilsol](../topics/community/vilsol.md)
 * [Wiki](../topics/community/wiki.md)
+
+## November 9th, 2021 Livestream
+* [Snutt Talk: Post-Update 5 proliferation of submissions](../transcriptions/yt-zS6RdxeGvP4.md) [https://www.youtube.com/watch?v=zS6RdxeGvP4](https://www.youtube.com/watch?v=zS6RdxeGvP4)
+* [Q&A: Could you guys please try to make the game a bit worse- I'd like try other games?](../transcriptions/yt-HCnyDUXxlKM.md) [https://www.youtube.com/watch?v=HCnyDUXxlKM](https://www.youtube.com/watch?v=HCnyDUXxlKM)
+
+## November 5th, 2021 Livestream
+* [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 1)](../transcriptions/yt-6xKMiQJdZxg.md) [https://www.youtube.com/watch?v=6xKMiQJdZxg](https://www.youtube.com/watch?v=6xKMiQJdZxg)
+* Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 4) [https://www.youtube.com/watch?v=OR-FkU0jKCs](https://www.youtube.com/watch?v=OR-FkU0jKCs)
+* [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 9)](../transcriptions/yt-7ACxbeniulk.md) [https://www.youtube.com/watch?v=7ACxbeniulk](https://www.youtube.com/watch?v=7ACxbeniulk)
+* [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 12)](../transcriptions/yt-bFyLzQZq4ys.md) [https://www.youtube.com/watch?v=bFyLzQZq4ys](https://www.youtube.com/watch?v=bFyLzQZq4ys)
+* [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 48)](../transcriptions/yt-yXt0i77bv6k.md) [https://www.youtube.com/watch?v=yXt0i77bv6k](https://www.youtube.com/watch?v=yXt0i77bv6k)
+* [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 66)](../transcriptions/yt-tY6Aj8wNVaE.md) [https://www.youtube.com/watch?v=tY6Aj8wNVaE](https://www.youtube.com/watch?v=tY6Aj8wNVaE)
+* [Community FYI: Tried explaining my love for this game to my non-playing friends & they don't get it](../transcriptions/yt-Xp_ipVDJ_f0.md) [https://www.youtube.com/watch?v=Xp_ipVDJ_f0](https://www.youtube.com/watch?v=Xp_ipVDJ_f0)
 
 ## November 2nd, 2021 Livestream
 * [Snutt & Jace Talk: Concept Art vs. Community](../transcriptions/yt-BnEZmedFCPk.md) [https://www.youtube.com/watch?v=BnEZmedFCPk](https://www.youtube.com/watch?v=BnEZmedFCPk)

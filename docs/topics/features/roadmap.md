@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Features](../../topics/features.md) > Roadmap
 
+## November 9th, 2021 Livestream
+* [Q&A: Do you have a roadmap, internally?](../../transcriptions/yt-w3CozyZWjE4.md) [https://www.youtube.com/watch?v=w3CozyZWjE4](https://www.youtube.com/watch?v=w3CozyZWjE4)
+
 ## May 11th, 2021 Livestream
 * [Q&A: Any news about Update 6?](../../transcriptions/yt-bIyYDcFuAhA.md) [https://www.youtube.com/watch?v=bIyYDcFuAhA](https://www.youtube.com/watch?v=bIyYDcFuAhA)
 
