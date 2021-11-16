@@ -122,7 +122,7 @@ date: Last Modified
 * [Q&A: Why are there roots in the desert?](../../transcriptions/yt-CB9bSigNYH8,1149.9,1160.079568.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1149&end=1161](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1149&end=1161)
 * [Q&A: Do you have orange plants to put in the cave?](../../transcriptions/yt-CB9bSigNYH8,1821.817506,1835.82202.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1821&end=1836](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=1821&end=1836)
 * [Hannah Talk: Level Design Stream (Part 5)](../../transcriptions/yt-CB9bSigNYH8,2027.05571,2326.9.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=2027&end=2327](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=2027&end=2327)
-* [Hannah Talk: Level Design Stream (Part 6)](../../transcriptions/yt-CB9bSigNYH8,3090.973157,3125.355289.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3090&end=3126](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3090&end=3126)
+* [Hannah Talk: Level Design Stream (Part 6)](../../transcriptions/yt-CB9bSigNYH8,3090.973157,3125.355289.md) [https://youtube.com/clip/UgkxZmEzXhAS3in6oeB0ilBKwc_MVtmznLyV](https://youtube.com/clip/UgkxZmEzXhAS3in6oeB0ilBKwc_MVtmznLyV)
 * [Q&A: How do trees grow in caves?](../../transcriptions/yt-CB9bSigNYH8,4340.648917,4349.006868.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4340&end=4350](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4340&end=4350)
 * [Hannah Talk: Level Design Stream (Part 7)](../../transcriptions/yt-CB9bSigNYH8,4600.866666666667,4629.566666666667.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4600&end=4630](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=4600&end=4630)
 

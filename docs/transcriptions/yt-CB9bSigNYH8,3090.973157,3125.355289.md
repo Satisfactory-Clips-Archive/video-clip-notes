@@ -11,7 +11,7 @@ topics:
 ---
 # [February 20th, 2019 Livestream](../2019-02-20.md)
 ## Hannah Talk: Level Design Stream (Part 6)
-https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3090&end=3126
+https://youtube.com/clip/UgkxZmEzXhAS3in6oeB0ilBKwc_MVtmznLyV
 <details>
 <summary>This video is part of a series of 13 videos.</summary>
 

@@ -155,7 +155,7 @@ date: Last Modified
 * [Snutt Talk: Livestream chat tropes](../transcriptions/yt-AYTOGDyRHLA.md) [https://www.youtube.com/watch?v=AYTOGDyRHLA](https://www.youtube.com/watch?v=AYTOGDyRHLA)
 
 ## April 13th, 2021 Livestream
-* [Hannah Talk: Floating rocks](../transcriptions/yt-cF3QleeEiJo,2105.731039,2156.762994.md) [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=2105&end=2157](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=2105&end=2157)
+* [Hannah Talk: Floating rocks](../transcriptions/yt-cF3QleeEiJo,2105.731039,2156.762994.md) [https://youtube.com/clip/UgkxOStf4sdlTxcJxcfxujnDxuWps-QzBoia](https://youtube.com/clip/UgkxOStf4sdlTxcJxcfxujnDxuWps-QzBoia)
 
 ## March 30th, 2021 Livestream
 * [Community FYI: Dedicated Servers would fix everything?](../transcriptions/yt-TyEl05Zmt4w.md) [https://www.youtube.com/watch?v=TyEl05Zmt4w](https://www.youtube.com/watch?v=TyEl05Zmt4w)

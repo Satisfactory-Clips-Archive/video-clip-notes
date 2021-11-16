@@ -65,7 +65,7 @@ date: Last Modified
 * [Q&A: Are there hidden puzzles in the game?](../transcriptions/yt-m7zB1crQc00.md) [https://www.youtube.com/watch?v=m7zB1crQc00](https://www.youtube.com/watch?v=m7zB1crQc00)
 
 ## April 13th, 2021 Livestream
-* [Hannah Talk: Floating rocks](../transcriptions/yt-cF3QleeEiJo,2105.731039,2156.762994.md) [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=2105&end=2157](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=2105&end=2157)
+* [Hannah Talk: Floating rocks](../transcriptions/yt-cF3QleeEiJo,2105.731039,2156.762994.md) [https://youtube.com/clip/UgkxOStf4sdlTxcJxcfxujnDxuWps-QzBoia](https://youtube.com/clip/UgkxOStf4sdlTxcJxcfxujnDxuWps-QzBoia)
 
 ## April 6th, 2021 Livestream
 * [Snutt & Mark Talk: Day/Night cycle changes](../transcriptions/yt-nDsZJUKHOUI.md) [https://www.youtube.com/watch?v=nDsZJUKHOUI](https://www.youtube.com/watch?v=nDsZJUKHOUI)
@@ -111,7 +111,7 @@ date: Last Modified
 * [Q&A: Do the level names come back in game Lore?](../transcriptions/yt-CB9bSigNYH8,2353.5666666666666,2375.497716.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=2353&end=2376](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=2353&end=2376)
 * [Q&A: Does Hannah work with any astronomers?](../transcriptions/yt-CB9bSigNYH8,2385.785806,2456.293546.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=2385&end=2457](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=2385&end=2457)
 * [Q&A: What's the line on the ground?](../transcriptions/yt-CB9bSigNYH8,2733.866666666667,2782.699199.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=2733&end=2783](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=2733&end=2783)
-* [Hannah Talk: Level Design Stream (Part 6)](../transcriptions/yt-CB9bSigNYH8,3090.973157,3125.355289.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3090&end=3126](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3090&end=3126)
+* [Hannah Talk: Level Design Stream (Part 6)](../transcriptions/yt-CB9bSigNYH8,3090.973157,3125.355289.md) [https://youtube.com/clip/UgkxZmEzXhAS3in6oeB0ilBKwc_MVtmznLyV](https://youtube.com/clip/UgkxZmEzXhAS3in6oeB0ilBKwc_MVtmznLyV)
 * [Q&A: This fountain has Jace's hair?](../transcriptions/yt-CB9bSigNYH8,3232.115343,3238.673381.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3232&end=3239](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3232&end=3239)
 * [Q&A: Are there big cliffs where you can see the entire map?](../transcriptions/yt-CB9bSigNYH8,3487.8,3520.911406.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3487&end=3521](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3487&end=3521)
 * [Q&A: How do you make the terrain?](../transcriptions/yt-CB9bSigNYH8,3524.5333333333333,3638.601169.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3524&end=3639](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3524&end=3639)
