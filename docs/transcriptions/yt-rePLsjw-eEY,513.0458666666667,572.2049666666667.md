@@ -9,7 +9,7 @@ topics:
 ---
 # [October 29th, 2021 Video](../2021-10-29.md)
 ## Snutt Talk: Toggling Conveyor Lift direction
-https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=513&end=573
+https://youtube.com/clip/Ugkx10XjsJ3B-U0z8qoK6Q3xVVFOWev_rAc3
 
 ### Topics
 * [Features > Buildables > Conveyor Belts](../topics/features/buildables/conveyor-belts.md)

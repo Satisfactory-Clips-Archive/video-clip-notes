@@ -19,7 +19,7 @@ date: Last Modified
 
 ## October 29th, 2021 Video
 * [Jace Talk: Stackable Conveyor Poles & Floor Holes have Hard Clearance](../../../transcriptions/yt-rePLsjw-eEY,307.4071,338.814696.md) [https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=307&end=339](https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=307&end=339)
-* [Snutt Talk: Toggling Conveyor Lift direction](../../../transcriptions/yt-rePLsjw-eEY,513.0458666666667,572.2049666666667.md) [https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=513&end=573](https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=513&end=573)
+* [Snutt Talk: Toggling Conveyor Lift direction](../../../transcriptions/yt-rePLsjw-eEY,513.0458666666667,572.2049666666667.md) [https://youtube.com/clip/Ugkx10XjsJ3B-U0z8qoK6Q3xVVFOWev_rAc3](https://youtube.com/clip/Ugkx10XjsJ3B-U0z8qoK6Q3xVVFOWev_rAc3)
 
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
 * Tobias, Snutt, and Jace Talk: Pre-pipes & pre-lifts build [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=3252&end=3323](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=3252&end=3323)
