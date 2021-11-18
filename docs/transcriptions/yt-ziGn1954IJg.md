@@ -9,6 +9,8 @@ topics:
 # [November 9th, 2021 Livestream](../2021-11-09.md)
 ## Q&A: Any plans to let Trains recalculate routes on-the-fly?
 https://www.youtube.com/watch?v=ziGn1954IJg
+This question was possibly duplicated with a more recent answer: [November 16th, 2021 Livestream Q&A: Any plans to change the Train pathing from static to dynamic?](./yt-BQ7X8ZyR7QU.md) [https://www.youtube.com/watch?v=BQ7X8ZyR7QU](https://www.youtube.com/watch?v=BQ7X8ZyR7QU)
+
 
 ### Topics
 * [Features > Transportation > Trains](../topics/features/transportation/trains.md)

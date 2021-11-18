@@ -9,7 +9,7 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: When is the official release?
 https://www.youtube.com/watch?v=H0HcDZTv_ts
-This question was possibly duplicated with a more recent answer: [September 21st, 2021 Livestream Q&A: When will the game be at full release?](./yt-Diz3iZ5irII.md) [https://www.youtube.com/watch?v=Diz3iZ5irII](https://www.youtube.com/watch?v=Diz3iZ5irII)
+This question was possibly duplicated with a more recent answer: [November 16th, 2021 Livestream Q&A: Is there an actual date for the official release of the game?](./yt-yoD51h2g5T0.md) [https://www.youtube.com/watch?v=yoD51h2g5T0](https://www.youtube.com/watch?v=yoD51h2g5T0)
 
 
 ### Topics

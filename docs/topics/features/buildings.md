@@ -26,6 +26,9 @@ date: Last Modified
 * [The HUB](../../topics/features/buildings/the-hub.md)
 * [Water Extractor](../../topics/features/buildings/water-extractor.md)
 
+## November 16th, 2021 Livestream
+* [State of Dev: New features in patch](../../transcriptions/yt-AsUWCZCK4xY.md) [https://www.youtube.com/watch?v=AsUWCZCK4xY](https://www.youtube.com/watch?v=AsUWCZCK4xY)
+
 ## November 9th, 2021 Livestream
 * [Q&A: Train Station had bigger clearance?](../../transcriptions/yt-p-sGsaQvI2I.md) [https://www.youtube.com/watch?v=p-sGsaQvI2I](https://www.youtube.com/watch?v=p-sGsaQvI2I)
 * [Q&A: Why is the station name "Åmål" in the main menu?](../../transcriptions/yt-FKpT8MJEw0k.md) [https://www.youtube.com/watch?v=FKpT8MJEw0k](https://www.youtube.com/watch?v=FKpT8MJEw0k)

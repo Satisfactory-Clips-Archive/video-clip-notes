@@ -9,6 +9,8 @@ topics:
 # [November 9th, 2021 Livestream](../2021-11-09.md)
 ## Q&A: Reverse Build Mode, when?
 https://www.youtube.com/watch?v=MhYk3tCLUi8
+This question was possibly duplicated with a more recent answer: [November 16th, 2021 Livestream Q&A: Add reverse Conveyor Belts like Lifts?](./yt-DxB17x3welQ.md) [https://www.youtube.com/watch?v=DxB17x3welQ](https://www.youtube.com/watch?v=DxB17x3welQ)
+
 
 ### Topics
 * [Features > Buildables > Conveyor Belts](../topics/features/buildables/conveyor-belts.md)

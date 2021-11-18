@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Pending > Satisfactory 1.0
 
+## November 16th, 2021 Livestream
+* [Q&A: Is there an actual date for the official release of the game?](../../../transcriptions/yt-yoD51h2g5T0.md) [https://www.youtube.com/watch?v=yoD51h2g5T0](https://www.youtube.com/watch?v=yoD51h2g5T0)
+
 ## November 2nd, 2021 Livestream
 * [Q&A: After 1.0 will you still support the game or just move on?](../../../transcriptions/yt-4uejLZj2lCk.md) [https://www.youtube.com/watch?v=4uejLZj2lCk](https://www.youtube.com/watch?v=4uejLZj2lCk)
 * [Community FYI: 1.0 prediction hype](../../../transcriptions/yt-3fVjS3bjxL4.md) [https://www.youtube.com/watch?v=3fVjS3bjxL4](https://www.youtube.com/watch?v=3fVjS3bjxL4)

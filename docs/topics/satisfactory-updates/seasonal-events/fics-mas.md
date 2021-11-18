@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Seasonal Events](../../../topics/satisfactory-updates/seasonal-events.md) > FICS⁕MAS
 
+## November 16th, 2021 Livestream
+* [Q&A: FICS⁕MAS?](../../../transcriptions/yt-v6qKwwjqagg.md) [https://www.youtube.com/watch?v=v6qKwwjqagg](https://www.youtube.com/watch?v=v6qKwwjqagg)
+
 ## November 9th, 2021 Livestream
 * [Q&A: FICS⁕MAS?](../../../transcriptions/yt-kpaIwFsaOAo.md) [https://www.youtube.com/watch?v=kpaIwFsaOAo](https://www.youtube.com/watch?v=kpaIwFsaOAo)
 

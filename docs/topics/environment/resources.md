@@ -14,6 +14,9 @@ date: Last Modified
 * [Steel](../../topics/environment/resources/steel.md)
 * [Water](../../topics/environment/resources/water.md)
 
+## November 16th, 2021 Livestream
+* [Q&A: Are there going to be more Resources added for the next Tier?](../../transcriptions/yt-mtLqH_BpG1U.md) [https://www.youtube.com/watch?v=mtLqH_BpG1U](https://www.youtube.com/watch?v=mtLqH_BpG1U)
+
 ## November 9th, 2021 Livestream
 * [Q&A: A bug from Update 4 where Drone Ports use too many batteries isn't fixed](../../transcriptions/yt-k8ZPDghO130.md) [https://www.youtube.com/watch?v=k8ZPDghO130](https://www.youtube.com/watch?v=k8ZPDghO130)
 * [Q&A: Will the stack sizes for Iron Plates increase, with Foundation changes they're eating up space?](../../transcriptions/yt-OXjbnXVYKw4.md) [https://www.youtube.com/watch?v=OXjbnXVYKw4](https://www.youtube.com/watch?v=OXjbnXVYKw4)

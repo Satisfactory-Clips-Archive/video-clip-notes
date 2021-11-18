@@ -12,6 +12,10 @@ date: Last Modified
 * [Tractor](../../../topics/features/transportation/vehicles/tractor.md)
 * [Truck](../../../topics/features/transportation/vehicles/truck.md)
 
+## November 16th, 2021 Livestream
+* [State of Dev: Update 5 Issues](../../../transcriptions/yt-yN7CBElEeY0.md) [https://www.youtube.com/watch?v=yN7CBElEeY0](https://www.youtube.com/watch?v=yN7CBElEeY0)
+* [Q&A: Are you going to add more Vehicles to the game?](../../../transcriptions/yt-pe4P1er1TEk.md) [https://www.youtube.com/watch?v=pe4P1er1TEk](https://www.youtube.com/watch?v=pe4P1er1TEk)
+
 ## November 9th, 2021 Livestream
 * [Q&A: Will there ever be lifts for Vehicles & Players?](../../../transcriptions/yt-wSEbzReDRqc.md) [https://www.youtube.com/watch?v=wSEbzReDRqc](https://www.youtube.com/watch?v=wSEbzReDRqc)
 * [Q&A: Can't we use hazmat suit while driving a car?](../../../transcriptions/yt-Gvzd1hxeFSs.md) [https://www.youtube.com/watch?v=Gvzd1hxeFSs](https://www.youtube.com/watch?v=Gvzd1hxeFSs)

@@ -6,6 +6,10 @@ date: Last Modified
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > Transportation > Trains
 * [Train Signals](../../../topics/features/transportation/trains/train-signals.md)
 
+## November 16th, 2021 Livestream
+* [Q&A: In regards to the build limit, is it better to build longer railway segments?](../../../transcriptions/yt-zhXICAd27NQ.md) [https://www.youtube.com/watch?v=zhXICAd27NQ](https://www.youtube.com/watch?v=zhXICAd27NQ)
+* [Q&A: Any plans to change the Train pathing from static to dynamic?](../../../transcriptions/yt-BQ7X8ZyR7QU.md) [https://www.youtube.com/watch?v=BQ7X8ZyR7QU](https://www.youtube.com/watch?v=BQ7X8ZyR7QU)
+
 ## November 9th, 2021 Livestream
 * [Q&A: Train Station had bigger clearance?](../../../transcriptions/yt-p-sGsaQvI2I.md) [https://www.youtube.com/watch?v=p-sGsaQvI2I](https://www.youtube.com/watch?v=p-sGsaQvI2I)
 * [Q&A: Why is the station name "Åmål" in the main menu?](../../../transcriptions/yt-FKpT8MJEw0k.md) [https://www.youtube.com/watch?v=FKpT8MJEw0k](https://www.youtube.com/watch?v=FKpT8MJEw0k)

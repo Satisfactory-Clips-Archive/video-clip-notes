@@ -7,6 +7,9 @@ date: Last Modified
 * [Crossplay](../../topics/features/multiplayer/crossplay.md)
 * [Dedicated Servers](../../topics/features/multiplayer/dedicated-servers.md)
 
+## November 16th, 2021 Livestream
+* [Q&A: The patch notes mentions network scalability options, what is the change really?](../../transcriptions/yt-MvLBb_yKxmM.md) [https://www.youtube.com/watch?v=MvLBb_yKxmM](https://www.youtube.com/watch?v=MvLBb_yKxmM)
+
 ## November 9th, 2021 Livestream
 * [Community FYI: Customizer Wars](../../transcriptions/yt-Bqebo7gBZmY.md) [https://www.youtube.com/watch?v=Bqebo7gBZmY](https://www.youtube.com/watch?v=Bqebo7gBZmY)
 * [Q&A: Train Multiplayer fixes, when?](../../transcriptions/yt-cuRF2l9nqEU.md) [https://www.youtube.com/watch?v=cuRF2l9nqEU](https://www.youtube.com/watch?v=cuRF2l9nqEU)

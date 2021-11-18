@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Uzu
 
+## November 16th, 2021 Livestream
+* [Q&A: Who is Uzu?](../../transcriptions/yt-RtVbl7ivbaM.md) [https://www.youtube.com/watch?v=RtVbl7ivbaM](https://www.youtube.com/watch?v=RtVbl7ivbaM)
+
 ## March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary
 * [Snutt Talk: We consulted with Uzu](../../transcriptions/yt-erOQnQoq0R8.md) [https://www.youtube.com/watch?v=erOQnQoq0R8](https://www.youtube.com/watch?v=erOQnQoq0R8)
 * [Snutt & Jace Talk: Información](../../transcriptions/yt-jIP3nccgQsY.md) [https://www.youtube.com/watch?v=jIP3nccgQsY](https://www.youtube.com/watch?v=jIP3nccgQsY)

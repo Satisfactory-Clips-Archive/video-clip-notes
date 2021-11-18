@@ -8,6 +8,22 @@ date: Last Modified
 * [#SaveTheWillows](../../../topics/satisfactory-updates/released/satisfactory-update-5/save-the-willows.md)
 * [Update 5 Torsten's Cosmetics Whiteboard](../../../topics/satisfactory-updates/released/satisfactory-update-5/torstens-cosmetics-whiteboard.md)
 
+## November 16th, 2021 Livestream
+* [State of Dev: Build server fell over](../../../transcriptions/yt-8wS_NI7M5NU.md) [https://www.youtube.com/watch?v=8wS_NI7M5NU](https://www.youtube.com/watch?v=8wS_NI7M5NU)
+* [State of Dev: New features in patch](../../../transcriptions/yt-AsUWCZCK4xY.md) [https://www.youtube.com/watch?v=AsUWCZCK4xY](https://www.youtube.com/watch?v=AsUWCZCK4xY)
+* [Q&A: When did the World Grid come out?](../../../transcriptions/yt-xtKjKykv2X0.md) [https://www.youtube.com/watch?v=xtKjKykv2X0](https://www.youtube.com/watch?v=xtKjKykv2X0)
+* [State of Dev: Update 5 Issues](../../../transcriptions/yt-yN7CBElEeY0.md) [https://www.youtube.com/watch?v=yN7CBElEeY0](https://www.youtube.com/watch?v=yN7CBElEeY0)
+* [State of Dev: Update 5 Early Access Release Date](../../../transcriptions/yt-YbUl-5wwrlE.md) [https://www.youtube.com/watch?v=YbUl-5wwrlE](https://www.youtube.com/watch?v=YbUl-5wwrlE)
+* [State of Dev: Recap](../../../transcriptions/yt-YZz40TB-Yps.md) [https://www.youtube.com/watch?v=YZz40TB-Yps](https://www.youtube.com/watch?v=YZz40TB-Yps)
+* [Q&A: The patch notes mentions network scalability options, what is the change really?](../../../transcriptions/yt-MvLBb_yKxmM.md) [https://www.youtube.com/watch?v=MvLBb_yKxmM](https://www.youtube.com/watch?v=MvLBb_yKxmM)
+* [Q&A: Have you any ideas about improving tutorials to help with Train Signalling?](../../../transcriptions/yt-PZK2xcjLJw8.md) [https://www.youtube.com/watch?v=PZK2xcjLJw8](https://www.youtube.com/watch?v=PZK2xcjLJw8)
+* [Q&A: Some of the animations on the Blender have disappeared, any ideas what causes this?](../../../transcriptions/yt-uyKaboVm6Q0.md) [https://www.youtube.com/watch?v=uyKaboVm6Q0](https://www.youtube.com/watch?v=uyKaboVm6Q0)
+* [Community FYI: Don't trust Jace ever again, screams in "everything should work just fine"](../../../transcriptions/yt-y7Zx2NeUD38.md) [https://www.youtube.com/watch?v=y7Zx2NeUD38](https://www.youtube.com/watch?v=y7Zx2NeUD38)
+* [Q&A: Did you ever find out why Ramps didn't get alternate materials?](../../../transcriptions/yt-_QYLbsfnNsw.md) [https://www.youtube.com/watch?v=_QYLbsfnNsw](https://www.youtube.com/watch?v=_QYLbsfnNsw)
+* [Q&A: Add reverse Conveyor Belts like Lifts?](../../../transcriptions/yt-DxB17x3welQ.md) [https://www.youtube.com/watch?v=DxB17x3welQ](https://www.youtube.com/watch?v=DxB17x3welQ)
+* [Q&A: Will most of the crashes and bugs be fixed with the Update 5 Early Access release?](../../../transcriptions/yt-Ce_ljLUkF3A.md) [https://www.youtube.com/watch?v=Ce_ljLUkF3A](https://www.youtube.com/watch?v=Ce_ljLUkF3A)
+* [Snutt & Jace Talk: Quick reminder](../../../transcriptions/yt-Wt9eBL8_VbU.md) [https://www.youtube.com/watch?v=Wt9eBL8_VbU](https://www.youtube.com/watch?v=Wt9eBL8_VbU)
+
 ## November 12th, 2021 Video
 * Q&A: When will the game be available on the Early Access branch? [https://youtube.com/clip/Ugkx2TwHrFg1Nx1AsL24SkaSA6X8a_hj0qav](https://youtube.com/clip/Ugkx2TwHrFg1Nx1AsL24SkaSA6X8a_hj0qav)
 

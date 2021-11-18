@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > Blender
 
+## November 16th, 2021 Livestream
+* [Q&A: Some of the animations on the Blender have disappeared, any ideas what causes this?](../../../transcriptions/yt-uyKaboVm6Q0.md) [https://www.youtube.com/watch?v=uyKaboVm6Q0](https://www.youtube.com/watch?v=uyKaboVm6Q0)
+
 ## June 22nd, 2021 Livestream
 * [Snutt & Torsten Talk: Concept Art - The Blender™](../../../transcriptions/yt--Z7MfVopphg.md) [https://www.youtube.com/watch?v=-Z7MfVopphg](https://www.youtube.com/watch?v=-Z7MfVopphg)
 

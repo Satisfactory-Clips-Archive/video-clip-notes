@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Equipment](../../../topics/features/equipment.md) > Customizer
 
+## November 16th, 2021 Livestream
+* [Q&A: Will we be able to use the Customizer to replace Foundations with Glass Foundations?](../../../transcriptions/yt-nSSAH4CPCNo.md) [https://www.youtube.com/watch?v=nSSAH4CPCNo](https://www.youtube.com/watch?v=nSSAH4CPCNo)
+
 ## November 12th, 2021 Video
 * Q&A: What is the Customizer? [https://youtube.com/embed/8Tok_vdqZH8?autoplay=1&start=58&end=133](https://youtube.com/embed/8Tok_vdqZH8?autoplay=1&start=58&end=133)
 * Q&A: How do you get the Customizer? [https://youtube.com/clip/UgkxVXhGZS0OHgqFj5fh7LsJ1VgRop4aGR4F](https://youtube.com/clip/UgkxVXhGZS0OHgqFj5fh7LsJ1VgRop4aGR4F)

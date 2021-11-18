@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Trolling
 
+## November 16th, 2021 Livestream
+* [Trolling: We'll confirm anything](../transcriptions/yt-ZaUyRFVsP9M.md) [https://www.youtube.com/watch?v=ZaUyRFVsP9M](https://www.youtube.com/watch?v=ZaUyRFVsP9M)
+
 ## November 9th, 2021 Livestream
 * [Q&A: Responsive mode?](../transcriptions/yt-Zg9VbXSH6Zg.md) [https://www.youtube.com/watch?v=Zg9VbXSH6Zg](https://www.youtube.com/watch?v=Zg9VbXSH6Zg)
 * [Community FYI: If a QA Site Post reaches 2500, it gets auto-rejected](../transcriptions/yt-jMtXOWsfTKw.md) [https://www.youtube.com/watch?v=jMtXOWsfTKw](https://www.youtube.com/watch?v=jMtXOWsfTKw)

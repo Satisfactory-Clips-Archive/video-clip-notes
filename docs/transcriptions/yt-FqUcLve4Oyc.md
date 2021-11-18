@@ -8,7 +8,7 @@ topics:
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Q&A: Will Gift Trees continue to produce?
 https://www.youtube.com/watch?v=FqUcLve4Oyc
-This question was possibly duplicated with a more recent answer: [November 9th, 2021 Livestream Q&A: FICS⁕MAS?](./yt-kpaIwFsaOAo.md) [https://www.youtube.com/watch?v=kpaIwFsaOAo](https://www.youtube.com/watch?v=kpaIwFsaOAo)
+This question was possibly duplicated with a more recent answer: [November 16th, 2021 Livestream Q&A: FICS⁕MAS?](./yt-v6qKwwjqagg.md) [https://www.youtube.com/watch?v=v6qKwwjqagg](https://www.youtube.com/watch?v=v6qKwwjqagg)
 
 
 ### Topics

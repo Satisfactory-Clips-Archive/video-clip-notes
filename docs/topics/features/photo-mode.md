@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Features](../../topics/features.md) > Photo Mode
 
+## November 16th, 2021 Livestream
+* [Q&A: Names in Photo Mode?](../../transcriptions/yt-PmA6ft2RJNg.md) [https://www.youtube.com/watch?v=PmA6ft2RJNg](https://www.youtube.com/watch?v=PmA6ft2RJNg)
+
 ## September 21st, 2021 Livestream
 * [Q&A: A third-person camera in Photo Mode would be a start?](../../transcriptions/yt-abN9BeUO-qA.md) [https://www.youtube.com/watch?v=abN9BeUO-qA](https://www.youtube.com/watch?v=abN9BeUO-qA)
 

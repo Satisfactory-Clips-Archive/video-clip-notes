@@ -17,6 +17,9 @@ date: Last Modified
 * [Terraforming](../../topics/features/unplanned-features/terraforming.md)
 * [VR](../../topics/features/unplanned-features/vr.md)
 
+## November 16th, 2021 Livestream
+* [Q&A: Any voxel editing planned?](../../transcriptions/yt-lron8sfb7zg.md) [https://www.youtube.com/watch?v=lron8sfb7zg](https://www.youtube.com/watch?v=lron8sfb7zg)
+
 ## October 5th, 2021 Livestream
 * [Q&A: No floating platforms any more?](../../transcriptions/yt-o_kTaVSOdg4.md) [https://www.youtube.com/watch?v=o_kTaVSOdg4](https://www.youtube.com/watch?v=o_kTaVSOdg4)
 

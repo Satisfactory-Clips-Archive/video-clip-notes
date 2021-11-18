@@ -5,6 +5,15 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > State of Dev
 
+## November 16th, 2021 Livestream
+* [State of Dev: Build server fell over](../../transcriptions/yt-8wS_NI7M5NU.md) [https://www.youtube.com/watch?v=8wS_NI7M5NU](https://www.youtube.com/watch?v=8wS_NI7M5NU)
+* [State of Dev: New features in patch](../../transcriptions/yt-AsUWCZCK4xY.md) [https://www.youtube.com/watch?v=AsUWCZCK4xY](https://www.youtube.com/watch?v=AsUWCZCK4xY)
+* [State of Dev: Update 5 Issues](../../transcriptions/yt-yN7CBElEeY0.md) [https://www.youtube.com/watch?v=yN7CBElEeY0](https://www.youtube.com/watch?v=yN7CBElEeY0)
+* [State of Dev: Closed Captions](../../transcriptions/yt-8n11usVWIm0.md) [https://www.youtube.com/watch?v=8n11usVWIm0](https://www.youtube.com/watch?v=8n11usVWIm0)
+* [State of Dev: Update 5 Early Access Release Date](../../transcriptions/yt-YbUl-5wwrlE.md) [https://www.youtube.com/watch?v=YbUl-5wwrlE](https://www.youtube.com/watch?v=YbUl-5wwrlE)
+* [State of Dev: DirectX 12 will now be the default rendering API](../../transcriptions/yt-7yfr4v2z1Z0.md) [https://www.youtube.com/watch?v=7yfr4v2z1Z0](https://www.youtube.com/watch?v=7yfr4v2z1Z0)
+* [State of Dev: Recap](../../transcriptions/yt-YZz40TB-Yps.md) [https://www.youtube.com/watch?v=YZz40TB-Yps](https://www.youtube.com/watch?v=YZz40TB-Yps)
+
 ## November 9th, 2021 Livestream
 * [State of Dev: Dedicated Servers (Part 1)](../../transcriptions/yt-w872IRljEbo.md) [https://www.youtube.com/watch?v=w872IRljEbo](https://www.youtube.com/watch?v=w872IRljEbo)
 * [State of Dev: Update 5, Update 6, and Dedicated Servers](../../transcriptions/yt-02gPaTMBjkg.md) [https://www.youtube.com/watch?v=02gPaTMBjkg](https://www.youtube.com/watch?v=02gPaTMBjkg)

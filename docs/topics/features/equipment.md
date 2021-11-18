@@ -20,6 +20,9 @@ date: Last Modified
 * [Xeno-Zapper](../../topics/features/equipment/xeno-zapper.md)
 * [Zip Lines](../../topics/features/equipment/zip-lines.md)
 
+## November 16th, 2021 Livestream
+* [Q&A: Have you ever completed the last-Tier challenge?](../../transcriptions/yt-X_bCuUtXSqQ.md) [https://www.youtube.com/watch?v=X_bCuUtXSqQ](https://www.youtube.com/watch?v=X_bCuUtXSqQ)
+
 ## November 9th, 2021 Livestream
 * [Q&A: Can't we use hazmat suit while driving a car?](../../transcriptions/yt-Gvzd1hxeFSs.md) [https://www.youtube.com/watch?v=Gvzd1hxeFSs](https://www.youtube.com/watch?v=Gvzd1hxeFSs)
 

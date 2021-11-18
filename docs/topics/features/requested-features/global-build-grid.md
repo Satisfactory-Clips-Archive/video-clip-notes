@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Requested Features](../../../topics/features/requested-features.md) > Global Build Grid
 
+## November 16th, 2021 Livestream
+* [State of Dev: New features in patch](../../../transcriptions/yt-AsUWCZCK4xY.md) [https://www.youtube.com/watch?v=AsUWCZCK4xY](https://www.youtube.com/watch?v=AsUWCZCK4xY)
+* [Q&A: When did the World Grid come out?](../../../transcriptions/yt-xtKjKykv2X0.md) [https://www.youtube.com/watch?v=xtKjKykv2X0](https://www.youtube.com/watch?v=xtKjKykv2X0)
+
 ## November 9th, 2021 Livestream
 * [Q&A: Will there ever be an option to set a grid map-wide?](../../../transcriptions/yt-iiNu3aKc1VI.md) [https://www.youtube.com/watch?v=iiNu3aKc1VI](https://www.youtube.com/watch?v=iiNu3aKc1VI)
 

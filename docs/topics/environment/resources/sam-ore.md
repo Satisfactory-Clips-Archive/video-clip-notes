@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Resources](../../../topics/environment/resources.md) > S.A.M. Ore
 
+## November 16th, 2021 Livestream
+* [Q&A: What's the purpose of S.A.M. Ore?](../../../transcriptions/yt-oPY1o6s9X-k.md) [https://www.youtube.com/watch?v=oPY1o6s9X-k](https://www.youtube.com/watch?v=oPY1o6s9X-k)
+
 ## September 14th, 2021 Livestream
 * [Q&A: Any S.A.M. news?](../../../transcriptions/yt-L4jQG4tp_4c.md) [https://www.youtube.com/watch?v=L4jQG4tp_4c](https://www.youtube.com/watch?v=L4jQG4tp_4c)
 

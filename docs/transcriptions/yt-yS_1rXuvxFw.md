@@ -8,7 +8,7 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Will there be a Peacfull Mode with no Hostile Creatures?
 https://www.youtube.com/watch?v=yS_1rXuvxFw
-This question was possibly duplicated with a more recent answer: [November 9th, 2021 Livestream Q&A: Chance we'll see Peaceful Modes in the game soon?](./yt-WMZBpM-POak.md) [https://www.youtube.com/watch?v=WMZBpM-POak](https://www.youtube.com/watch?v=WMZBpM-POak)
+This question was possibly duplicated with a more recent answer: [November 16th, 2021 Livestream Q&A: Will there ever be an option to toggle off monsters for those who want to just build?](./yt-WcsqEVLXPfU.md) [https://www.youtube.com/watch?v=WcsqEVLXPfU](https://www.youtube.com/watch?v=WcsqEVLXPfU)
 
 
 ### Topics

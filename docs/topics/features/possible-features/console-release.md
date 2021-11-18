@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > Possible Features > Console Release
 
+## November 16th, 2021 Livestream
+* [Snutt & Jace Talk: Frequently Asked Questions about where Satisfactory will be released](../../../transcriptions/yt-9TFj1vArqDg.md) [https://www.youtube.com/watch?v=9TFj1vArqDg](https://www.youtube.com/watch?v=9TFj1vArqDg)
+
 ## November 2nd, 2021 Livestream
 * [Q&A: Any info on Steam Deck compatibility?](../../../transcriptions/yt-D_ZQVOw9O2I.md) [https://www.youtube.com/watch?v=D_ZQVOw9O2I](https://www.youtube.com/watch?v=D_ZQVOw9O2I)
 * [Q&A: Console release?](../../../transcriptions/yt-XphmFYhaeHc.md) [https://www.youtube.com/watch?v=XphmFYhaeHc](https://www.youtube.com/watch?v=XphmFYhaeHc)

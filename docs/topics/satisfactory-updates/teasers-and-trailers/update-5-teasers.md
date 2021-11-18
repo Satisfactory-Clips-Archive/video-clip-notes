@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Teasers & Trailers](../../../topics/satisfactory-updates/teasers-and-trailers.md) > Update 5 Teasers
 
+## November 16th, 2021 Livestream
+* [Q&A: Trailer video for Update 5 Early Access release?](../../../transcriptions/yt-z9lRpGyZ_dY.md) [https://www.youtube.com/watch?v=z9lRpGyZ_dY](https://www.youtube.com/watch?v=z9lRpGyZ_dY)
+
 ## November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary
 * [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 12)](../../../transcriptions/yt-bFyLzQZq4ys.md) [https://www.youtube.com/watch?v=bFyLzQZq4ys](https://www.youtube.com/watch?v=bFyLzQZq4ys)
 * [Q&A: Were you guys tempted to tease Signs?](../../../transcriptions/yt-Ib7eDlYKTtc.md) [https://www.youtube.com/watch?v=Ib7eDlYKTtc](https://www.youtube.com/watch?v=Ib7eDlYKTtc)

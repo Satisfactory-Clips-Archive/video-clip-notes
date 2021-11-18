@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Multiplayer](../../../topics/features/multiplayer.md) > Dedicated Servers
 
+## November 16th, 2021 Livestream
+* [Q&A: Will the Server be multi-threaded like the game client?](../../../transcriptions/yt-G58lDUp0lhk.md) [https://www.youtube.com/watch?v=G58lDUp0lhk](https://www.youtube.com/watch?v=G58lDUp0lhk)
+* [Q&A: Can we expect a fix for the reappearing explodable rocks on Dedicated Servers?](../../../transcriptions/yt-GNlkXUsq_Do.md) [https://www.youtube.com/watch?v=GNlkXUsq_Do](https://www.youtube.com/watch?v=GNlkXUsq_Do)
+
 ## November 9th, 2021 Livestream
 * [State of Dev: Dedicated Servers (Part 1)](../../../transcriptions/yt-w872IRljEbo.md) [https://www.youtube.com/watch?v=w872IRljEbo](https://www.youtube.com/watch?v=w872IRljEbo)
 * [State of Dev: Update 5, Update 6, and Dedicated Servers](../../../transcriptions/yt-02gPaTMBjkg.md) [https://www.youtube.com/watch?v=02gPaTMBjkg](https://www.youtube.com/watch?v=02gPaTMBjkg)

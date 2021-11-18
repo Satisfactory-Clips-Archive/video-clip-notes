@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > Transportation > [Trains](../../../../topics/features/transportation/trains.md) > Train Signals
 
+## November 16th, 2021 Livestream
+* [Q&A: Have you any ideas about improving tutorials to help with Train Signalling?](../../../../transcriptions/yt-PZK2xcjLJw8.md) [https://www.youtube.com/watch?v=PZK2xcjLJw8](https://www.youtube.com/watch?v=PZK2xcjLJw8)
+* [Q&A: Any plans to change the Train pathing from static to dynamic?](../../../../transcriptions/yt-BQ7X8ZyR7QU.md) [https://www.youtube.com/watch?v=BQ7X8ZyR7QU](https://www.youtube.com/watch?v=BQ7X8ZyR7QU)
+
 ## November 9th, 2021 Livestream
 * [Q&A: Any plans to let Trains recalculate routes on-the-fly?](../../../../transcriptions/yt-ziGn1954IJg.md) [https://www.youtube.com/watch?v=ziGn1954IJg](https://www.youtube.com/watch?v=ziGn1954IJg)
 

@@ -24,6 +24,10 @@ date: Last Modified
 * [Vilsol](../topics/community/vilsol.md)
 * [Wiki](../topics/community/wiki.md)
 
+## November 16th, 2021 Livestream
+* [Q&A: Do you hate answering the same questions every week?](../transcriptions/yt-BhGBXKzEeyo.md) [https://www.youtube.com/watch?v=BhGBXKzEeyo](https://www.youtube.com/watch?v=BhGBXKzEeyo)
+* [Community FYI: Compared to other games, Satisfactory is already version 2.0](../transcriptions/yt-pne8xwoOipo.md) [https://www.youtube.com/watch?v=pne8xwoOipo](https://www.youtube.com/watch?v=pne8xwoOipo)
+
 ## November 9th, 2021 Livestream
 * [Snutt Talk: Post-Update 5 proliferation of submissions](../transcriptions/yt-zS6RdxeGvP4.md) [https://www.youtube.com/watch?v=zS6RdxeGvP4](https://www.youtube.com/watch?v=zS6RdxeGvP4)
 * [Q&A: Could you guys please try to make the game a bit worse- I'd like try other games?](../transcriptions/yt-HCnyDUXxlKM.md) [https://www.youtube.com/watch?v=HCnyDUXxlKM](https://www.youtube.com/watch?v=HCnyDUXxlKM)

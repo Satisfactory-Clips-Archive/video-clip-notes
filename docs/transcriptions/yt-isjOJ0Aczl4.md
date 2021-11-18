@@ -8,7 +8,7 @@ topics:
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Q&A: Is ADA a synth voice ?
 https://www.youtube.com/watch?v=isjOJ0Aczl4
-This question was possibly duplicated with a more recent answer: [May 18th, 2021 Livestream Q&A: Who is the voice actor for ADA?](./yt-pDGX-8_vTW0.md) [https://www.youtube.com/watch?v=pDGX-8_vTW0](https://www.youtube.com/watch?v=pDGX-8_vTW0)
+This question was possibly duplicated with a more recent answer: November 16th, 2021 Livestream Q&A: Who is the voice for ADA? [https://www.youtube.com/watch?v=5_yx7QQx9HU](https://www.youtube.com/watch?v=5_yx7QQx9HU)
 
 
 ### Topics

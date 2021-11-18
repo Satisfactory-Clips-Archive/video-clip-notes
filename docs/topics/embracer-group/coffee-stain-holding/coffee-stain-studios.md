@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Embracer Group](../../../topics/embracer-group.md) > Coffee Stain Holding > Coffee Stain Studios
 
+## November 16th, 2021 Livestream
+* [Q&A: Are you both more focussed on bug fixes or game expansion?](../../../transcriptions/yt-PCdXgs4GZ7U.md) [https://www.youtube.com/watch?v=PCdXgs4GZ7U](https://www.youtube.com/watch?v=PCdXgs4GZ7U)
+
 ## November 9th, 2021 Livestream
 * [Q&A: Do you do internships?](../../../transcriptions/yt-NdoDfVjkvG0.md) [https://www.youtube.com/watch?v=NdoDfVjkvG0](https://www.youtube.com/watch?v=NdoDfVjkvG0)
 * [Q&A: Is Satisfactory a team of 25 people?](../../../transcriptions/yt-niOtt1II3gw.md) [https://www.youtube.com/watch?v=niOtt1II3gw](https://www.youtube.com/watch?v=niOtt1II3gw)

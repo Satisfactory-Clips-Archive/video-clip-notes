@@ -8,7 +8,7 @@ topics:
 # [May 4th, 2021 Livestream](../2021-05-04.md)
 ## Q&A: Will you have an option to change the container max size?
 https://www.youtube.com/watch?v=KSP1Zs560Rs
-This question was possibly duplicated with a more recent answer: [September 14th, 2021 Livestream Q&A: Storage with slots intentionally disabled to limit how much is stored?](./yt-xL7xZ3W_MQ0.md) [https://www.youtube.com/watch?v=xL7xZ3W_MQ0](https://www.youtube.com/watch?v=xL7xZ3W_MQ0)
+This question was possibly duplicated with a more recent answer: [November 16th, 2021 Livestream Q&A: Will you consider adding a feature to limit how much of a Container we can fill?](./yt-bBdZgoKTPZ4.md) [https://www.youtube.com/watch?v=bBdZgoKTPZ4](https://www.youtube.com/watch?v=bBdZgoKTPZ4)
 
 
 ### Topics

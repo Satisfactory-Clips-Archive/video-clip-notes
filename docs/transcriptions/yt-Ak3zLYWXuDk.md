@@ -9,11 +9,7 @@ topics:
 # [May 4th, 2021 Livestream](../2021-05-04.md)
 ## Q&A: You have to answer everything like 8 times?
 https://www.youtube.com/watch?v=Ak3zLYWXuDk
-<details>
-<summary>This question may have been asked previously at least 1 other time, as recently as February 2021.</summary>
-
-* [February 9th, 2021 Livestream Q&A: Are you tired of answering the same questions every day?](./yt-ZV4gjWn8uCg.md) [https://www.youtube.com/watch?v=ZV4gjWn8uCg](https://www.youtube.com/watch?v=ZV4gjWn8uCg)
-</details>
+This question was possibly duplicated with a more recent answer: [November 16th, 2021 Livestream Q&A: Do you hate answering the same questions every week?](./yt-BhGBXKzEeyo.md) [https://www.youtube.com/watch?v=BhGBXKzEeyo](https://www.youtube.com/watch?v=BhGBXKzEeyo)
 
 
 ### Topics

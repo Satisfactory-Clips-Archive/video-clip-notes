@@ -8,6 +8,8 @@ topics:
 # [December 17th, 2020 Q&A](../2020-12-17.md)
 ## Q&A: Names in photo mode, when?
 https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=928&end=980
+This question was possibly duplicated with a more recent answer: [November 16th, 2021 Livestream Q&A: Names in Photo Mode?](./yt-PmA6ft2RJNg.md) [https://www.youtube.com/watch?v=PmA6ft2RJNg](https://www.youtube.com/watch?v=PmA6ft2RJNg)
+
 
 ### Topics
 * [Features > Photo Mode](../topics/features/photo-mode.md)

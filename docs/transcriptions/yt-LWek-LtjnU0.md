@@ -8,6 +8,8 @@ topics:
 # [October 13th, 2020 Livestream](../2020-10-13.md)
 ## Q&A: Any new Ores coming to the game?
 https://www.youtube.com/watch?v=LWek-LtjnU0
+This question was possibly duplicated with a more recent answer: [November 16th, 2021 Livestream Q&A: Are there going to be more Resources added for the next Tier?](./yt-mtLqH_BpG1U.md) [https://www.youtube.com/watch?v=mtLqH_BpG1U](https://www.youtube.com/watch?v=mtLqH_BpG1U)
+
 
 ### Topics
 * [Environment > Resources](../topics/environment/resources.md)

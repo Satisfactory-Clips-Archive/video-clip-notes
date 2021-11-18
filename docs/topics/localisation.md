@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../topics.md) > Localisation
 * [Localization Community Highlight](../topics/localisation/localization-community-highlight.md)
 
+## November 16th, 2021 Livestream
+* [Q&A: Please do a voice for Pirate English?](../transcriptions/yt-5kAcisPqt4Y.md) [https://www.youtube.com/watch?v=5kAcisPqt4Y](https://www.youtube.com/watch?v=5kAcisPqt4Y)
+
 ## November 9th, 2021 Livestream
 * [Q&A: Why has all the spelling in the game become American English?](../transcriptions/yt-bLgfDLkJZHY.md) [https://www.youtube.com/watch?v=bLgfDLkJZHY](https://www.youtube.com/watch?v=bLgfDLkJZHY)
 

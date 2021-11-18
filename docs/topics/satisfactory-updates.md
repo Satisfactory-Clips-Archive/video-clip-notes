@@ -18,6 +18,11 @@ date: Last Modified
 * [Teasers & Trailers](../topics/satisfactory-updates/teasers-and-trailers.md)
 * [World Update](../topics/satisfactory-updates/world-update.md)
 
+## November 16th, 2021 Livestream
+* [Q&A: Are there going to be more Resources added for the next Tier?](../transcriptions/yt-mtLqH_BpG1U.md) [https://www.youtube.com/watch?v=mtLqH_BpG1U](https://www.youtube.com/watch?v=mtLqH_BpG1U)
+* [Q&A: Are you both more focussed on bug fixes or game expansion?](../transcriptions/yt-PCdXgs4GZ7U.md) [https://www.youtube.com/watch?v=PCdXgs4GZ7U](https://www.youtube.com/watch?v=PCdXgs4GZ7U)
+* [Community FYI: Compared to other games, Satisfactory is already version 2.0](../transcriptions/yt-pne8xwoOipo.md) [https://www.youtube.com/watch?v=pne8xwoOipo](https://www.youtube.com/watch?v=pne8xwoOipo)
+
 ## November 9th, 2021 Livestream
 * [Q&A: Anyone know why we respawn after a patch?](../transcriptions/yt-rxDMR1jNQn0.md) [https://www.youtube.com/watch?v=rxDMR1jNQn0](https://www.youtube.com/watch?v=rxDMR1jNQn0)
 

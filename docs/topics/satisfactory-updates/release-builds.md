@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > Release Builds
 
+## November 16th, 2021 Livestream
+* [Q&A: Can Experimental saves be moved over to Early Access without issue?](../../transcriptions/yt-nPj_soas-a8.md) [https://www.youtube.com/watch?v=nPj_soas-a8](https://www.youtube.com/watch?v=nPj_soas-a8)
+* [Q&A: Will most of the crashes and bugs be fixed with the Update 5 Early Access release?](../../transcriptions/yt-Ce_ljLUkF3A.md) [https://www.youtube.com/watch?v=Ce_ljLUkF3A](https://www.youtube.com/watch?v=Ce_ljLUkF3A)
+* [Snutt & Jace Talk: Quick reminder](../../transcriptions/yt-Wt9eBL8_VbU.md) [https://www.youtube.com/watch?v=Wt9eBL8_VbU](https://www.youtube.com/watch?v=Wt9eBL8_VbU)
+
 ## November 12th, 2021 Video
 * Q&A: When will the game be available on the Early Access branch? [https://youtube.com/clip/Ugkx2TwHrFg1Nx1AsL24SkaSA6X8a_hj0qav](https://youtube.com/clip/Ugkx2TwHrFg1Nx1AsL24SkaSA6X8a_hj0qav)
 

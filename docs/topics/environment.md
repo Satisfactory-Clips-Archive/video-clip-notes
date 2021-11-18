@@ -11,6 +11,9 @@ date: Last Modified
 * [Resources](../topics/environment/resources.md)
 * [World Map](../topics/environment/world-map.md)
 
+## November 16th, 2021 Livestream
+* [Q&A: Can we expect a fix for the reappearing explodable rocks on Dedicated Servers?](../transcriptions/yt-GNlkXUsq_Do.md) [https://www.youtube.com/watch?v=GNlkXUsq_Do](https://www.youtube.com/watch?v=GNlkXUsq_Do)
+
 ## August 24th, 2021 Livestream
 * [Q&A: Is removing Crash Sites by deconstruction even for no parts something to do to clear the Map?](../transcriptions/yt-towkJfDEAvo.md) [https://www.youtube.com/watch?v=towkJfDEAvo](https://www.youtube.com/watch?v=towkJfDEAvo)
 * [Q&A: Are the big rock arches going to be explained in 1.0, they have a bone/rib cage feel to them?](../transcriptions/yt-qaBAdXY-5Lk.md) [https://www.youtube.com/watch?v=qaBAdXY-5Lk](https://www.youtube.com/watch?v=qaBAdXY-5Lk)

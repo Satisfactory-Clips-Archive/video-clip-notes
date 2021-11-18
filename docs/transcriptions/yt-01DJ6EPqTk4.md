@@ -8,7 +8,7 @@ topics:
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: If I backup current version, will FICS⁕MAS still work after the 18th?
 https://www.youtube.com/watch?v=01DJ6EPqTk4
-This question was possibly duplicated with a more recent answer: [November 9th, 2021 Livestream Q&A: FICS⁕MAS?](./yt-kpaIwFsaOAo.md) [https://www.youtube.com/watch?v=kpaIwFsaOAo](https://www.youtube.com/watch?v=kpaIwFsaOAo)
+This question was possibly duplicated with a more recent answer: [November 16th, 2021 Livestream Q&A: FICS⁕MAS?](./yt-v6qKwwjqagg.md) [https://www.youtube.com/watch?v=v6qKwwjqagg](https://www.youtube.com/watch?v=v6qKwwjqagg)
 
 
 ### Topics

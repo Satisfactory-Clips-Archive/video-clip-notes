@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > Possible Features > [Game Modes](../../../../topics/features/possible-features/game-modes.md) > Peaceful Mode
 
+## November 16th, 2021 Livestream
+* [Q&A: Will there ever be an option to toggle off monsters for those who want to just build?](../../../../transcriptions/yt-WcsqEVLXPfU.md) [https://www.youtube.com/watch?v=WcsqEVLXPfU](https://www.youtube.com/watch?v=WcsqEVLXPfU)
+
 ## November 9th, 2021 Livestream
 * [Q&A: Chance we'll see Peaceful Modes in the game soon?](../../../../transcriptions/yt-WMZBpM-POak.md) [https://www.youtube.com/watch?v=WMZBpM-POak](https://www.youtube.com/watch?v=WMZBpM-POak)
 

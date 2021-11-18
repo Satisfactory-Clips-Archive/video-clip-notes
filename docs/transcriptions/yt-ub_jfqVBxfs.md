@@ -10,6 +10,8 @@ topics:
 # [November 9th, 2021 Livestream](../2021-11-09.md)
 ## Q&A: Is the game still fully-funded?
 https://www.youtube.com/watch?v=ub_jfqVBxfs
+This question was possibly duplicated with a more recent answer: [November 16th, 2021 Livestream Q&A: How do you guys still making money out of Satisfactory, when is the point you run out of money?](./yt-TaAxXh2ZXQo.md) [https://www.youtube.com/watch?v=TaAxXh2ZXQo](https://www.youtube.com/watch?v=TaAxXh2ZXQo)
+
 
 ### Topics
 * [Retail](../topics/retail.md)

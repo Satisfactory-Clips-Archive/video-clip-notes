@@ -8,12 +8,7 @@ topics:
 # [February 6th, 2019 Livestream](../2019-02-06.md)
 ## Q&A: Is there a height limit?
 https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2288&end=2330
-<details>
-<summary>This question may have been asked previously at least 2 other times, as recently as February 2019 and as early as June 2018.</summary>
-
-* [February 6th, 2019 Livestream Q&A: Can I build as high as I want?](./yt-Dtm6xIj-wM4,2806.989791,2816.5666666666666.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2806&end=2817](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2806&end=2817)
-* [June 22nd, 2018 Q&A: Is there a height limit in the game?](./yt-W1E6EWrAsII,434.4,492.52.md) [https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=434&end=493](https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=434&end=493)
-</details>
+This question was possibly duplicated with a more recent answer: [November 16th, 2021 Livestream Q&A: Is there a height build limit?](./yt-qt5BFAJuJSM.md) [https://www.youtube.com/watch?v=qt5BFAJuJSM](https://www.youtube.com/watch?v=qt5BFAJuJSM)
 
 
 ### Topics

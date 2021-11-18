@@ -7,6 +7,13 @@ date: Last Modified
 * [Snutt Burger Time](../../topics/coffee-stainers/snutt/snutt-burger-time.md)
 * [Snutty Mays](../../topics/coffee-stainers/snutt/snutty-mays.md)
 
+## November 16th, 2021 Livestream
+* [Q&A: Do you miss being developers?](../../transcriptions/yt-WNg80maIy8E.md) [https://www.youtube.com/watch?v=WNg80maIy8E](https://www.youtube.com/watch?v=WNg80maIy8E)
+* [Community FYI: Do a C64 Satisfactory demake?](../../transcriptions/yt-1EQOwcBQtWI.md) [https://www.youtube.com/watch?v=1EQOwcBQtWI](https://www.youtube.com/watch?v=1EQOwcBQtWI)
+* [Q&A: Are you both more focussed on bug fixes or game expansion?](../../transcriptions/yt-PCdXgs4GZ7U.md) [https://www.youtube.com/watch?v=PCdXgs4GZ7U](https://www.youtube.com/watch?v=PCdXgs4GZ7U)
+* [Q&A: What's your favourite programming language?](../../transcriptions/yt-_YMb9-PyjTQ.md) [https://www.youtube.com/watch?v=_YMb9-PyjTQ](https://www.youtube.com/watch?v=_YMb9-PyjTQ)
+* [Q&A: Have you ever completed the last-Tier challenge?](../../transcriptions/yt-X_bCuUtXSqQ.md) [https://www.youtube.com/watch?v=X_bCuUtXSqQ](https://www.youtube.com/watch?v=X_bCuUtXSqQ)
+
 ## November 9th, 2021 Livestream
 * [Community FYI: Fast food in general in the US is garbage](../../transcriptions/yt-xsL5SdsLAVA.md) [https://www.youtube.com/watch?v=xsL5SdsLAVA](https://www.youtube.com/watch?v=xsL5SdsLAVA)
 * [Q&A: Snace Body Pillow, when?](../../transcriptions/yt-5k0P-54_WHw.md) [https://www.youtube.com/watch?v=5k0P-54_WHw](https://www.youtube.com/watch?v=5k0P-54_WHw)

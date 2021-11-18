@@ -7,6 +7,11 @@ date: Last Modified
 * [Cheatcrete](../../../topics/features/buildables/foundations/cheatcrete.md)
 * [Foundation Stencils](../../../topics/features/buildables/foundations/stencils.md)
 
+## November 16th, 2021 Livestream
+* [State of Dev: Update 5 Issues](../../../transcriptions/yt-yN7CBElEeY0.md) [https://www.youtube.com/watch?v=yN7CBElEeY0](https://www.youtube.com/watch?v=yN7CBElEeY0)
+* [Q&A: Will we be able to use the Customizer to replace Foundations with Glass Foundations?](../../../transcriptions/yt-nSSAH4CPCNo.md) [https://www.youtube.com/watch?v=nSSAH4CPCNo](https://www.youtube.com/watch?v=nSSAH4CPCNo)
+* [Q&A: Did you ever find out why Ramps didn't get alternate materials?](../../../transcriptions/yt-_QYLbsfnNsw.md) [https://www.youtube.com/watch?v=_QYLbsfnNsw](https://www.youtube.com/watch?v=_QYLbsfnNsw)
+
 ## November 12th, 2021 Video
 * Snutt Talk: Quick Switching [https://youtube.com/clip/UgkxmGWwvlZ15Vmv2e8Az3y4EINRTnq5eFSU](https://youtube.com/clip/UgkxmGWwvlZ15Vmv2e8Az3y4EINRTnq5eFSU)
 

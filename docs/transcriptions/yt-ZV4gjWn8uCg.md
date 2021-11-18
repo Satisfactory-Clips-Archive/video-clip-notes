@@ -11,7 +11,7 @@ topics:
 # [February 9th, 2021 Livestream](../2021-02-09.md)
 ## Q&A: Are you tired of answering the same questions every day?
 https://www.youtube.com/watch?v=ZV4gjWn8uCg
-This question was possibly duplicated with a more recent answer: [May 4th, 2021 Livestream Q&A: You have to answer everything like 8 times?](./yt-Ak3zLYWXuDk.md) [https://www.youtube.com/watch?v=Ak3zLYWXuDk](https://www.youtube.com/watch?v=Ak3zLYWXuDk)
+This question was possibly duplicated with a more recent answer: [November 16th, 2021 Livestream Q&A: Do you hate answering the same questions every week?](./yt-BhGBXKzEeyo.md) [https://www.youtube.com/watch?v=BhGBXKzEeyo](https://www.youtube.com/watch?v=BhGBXKzEeyo)
 
 
 ### Topics

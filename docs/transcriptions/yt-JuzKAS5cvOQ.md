@@ -9,6 +9,8 @@ topics:
 # [August 31st, 2021 Livestream](../2021-08-31.md)
 ## Q&A: Build limit in Update 5?
 https://www.youtube.com/watch?v=JuzKAS5cvOQ
+This question was possibly duplicated with a more recent answer: [November 16th, 2021 Livestream Q&A: Are you guys going to increase the build limit now that we can place more items?](./yt-TGuLDBd8Wao.md) [https://www.youtube.com/watch?v=TGuLDBd8Wao](https://www.youtube.com/watch?v=TGuLDBd8Wao)
+
 
 ### Topics
 * [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)

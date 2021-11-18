@@ -20,6 +20,9 @@ date: Last Modified
 * [The Cycle](../topics/off-topic/the-cycle.md)
 * [Valheim](../topics/off-topic/valheim.md)
 
+## November 16th, 2021 Livestream
+* [Q&A: Do you have any tips for someone who wants to become a game dev?](../transcriptions/yt-LlBIU7YGobQ.md) [https://www.youtube.com/watch?v=LlBIU7YGobQ](https://www.youtube.com/watch?v=LlBIU7YGobQ)
+
 ## November 9th, 2021 Livestream
 * [Q&A: How to remove coffee stain from carpet?](../transcriptions/yt-iRamlC8l2C4.md) [https://www.youtube.com/watch?v=iRamlC8l2C4](https://www.youtube.com/watch?v=iRamlC8l2C4)
 

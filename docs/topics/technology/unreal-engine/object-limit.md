@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Technology](../../../topics/technology.md) > [Unreal Engine](../../../topics/technology/unreal-engine.md) > Object Limit
 
+## November 16th, 2021 Livestream
+* [Q&A: Are you guys going to increase the build limit now that we can place more items?](../../../transcriptions/yt-TGuLDBd8Wao.md) [https://www.youtube.com/watch?v=TGuLDBd8Wao](https://www.youtube.com/watch?v=TGuLDBd8Wao)
+* [Q&A: In regards to the build limit, is it better to build longer railway segments?](../../../transcriptions/yt-zhXICAd27NQ.md) [https://www.youtube.com/watch?v=zhXICAd27NQ](https://www.youtube.com/watch?v=zhXICAd27NQ)
+
 ## August 31st, 2021 Livestream
 * [Q&A: Build limit in Update 5?](../../../transcriptions/yt-JuzKAS5cvOQ.md) [https://www.youtube.com/watch?v=JuzKAS5cvOQ](https://www.youtube.com/watch?v=JuzKAS5cvOQ)
 

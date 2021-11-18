@@ -16,6 +16,10 @@ date: Last Modified
 * [Tier 9](../../topics/features/tiers/tier-9.md)
 * [Tier 10](../../topics/features/tiers/tier-10.md)
 
+## November 16th, 2021 Livestream
+* [Q&A: Are there going to be more Resources added for the next Tier?](../../transcriptions/yt-mtLqH_BpG1U.md) [https://www.youtube.com/watch?v=mtLqH_BpG1U](https://www.youtube.com/watch?v=mtLqH_BpG1U)
+* [Q&A: Have you ever completed the last-Tier challenge?](../../transcriptions/yt-X_bCuUtXSqQ.md) [https://www.youtube.com/watch?v=X_bCuUtXSqQ](https://www.youtube.com/watch?v=X_bCuUtXSqQ)
+
 ## September 28th, 2021 Livestream
 * [Q&A: How does Story work with someone already in the end-game?](../../transcriptions/yt-0tMLlTrC6WE.md) [https://www.youtube.com/watch?v=0tMLlTrC6WE](https://www.youtube.com/watch?v=0tMLlTrC6WE)
 

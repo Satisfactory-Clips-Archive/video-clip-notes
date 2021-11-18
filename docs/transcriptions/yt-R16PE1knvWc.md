@@ -8,7 +8,7 @@ topics:
 # [October 19th, 2021 Livestream](../2021-10-19.md)
 ## Q&A: What day does FICS⁕MAS start?
 https://www.youtube.com/watch?v=R16PE1knvWc
-This question was possibly duplicated with a more recent answer: [November 9th, 2021 Livestream Q&A: FICS⁕MAS?](./yt-kpaIwFsaOAo.md) [https://www.youtube.com/watch?v=kpaIwFsaOAo](https://www.youtube.com/watch?v=kpaIwFsaOAo)
+This question was possibly duplicated with a more recent answer: [November 16th, 2021 Livestream Q&A: FICS⁕MAS?](./yt-v6qKwwjqagg.md) [https://www.youtube.com/watch?v=v6qKwwjqagg](https://www.youtube.com/watch?v=v6qKwwjqagg)
 
 
 ### Topics

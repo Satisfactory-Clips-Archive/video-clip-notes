@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > DirectX
 
+## November 16th, 2021 Livestream
+* [State of Dev: DirectX 12 will now be the default rendering API](../../transcriptions/yt-7yfr4v2z1Z0.md) [https://www.youtube.com/watch?v=7yfr4v2z1Z0](https://www.youtube.com/watch?v=7yfr4v2z1Z0)
+
 ## November 2nd, 2021 Livestream
 * [Q&A: Is DirectX 12 support going to be standard in future?](../../transcriptions/yt-Q2TfOox12kk.md) [https://www.youtube.com/watch?v=Q2TfOox12kk](https://www.youtube.com/watch?v=Q2TfOox12kk)
 

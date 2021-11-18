@@ -8,6 +8,8 @@ topics:
 # [November 9th, 2021 Livestream](../2021-11-09.md)
 ## Q&A: Will there ever be an option to set a grid map-wide?
 https://www.youtube.com/watch?v=iiNu3aKc1VI
+This question was possibly replaced with a more recent answer: [November 16th, 2021 Livestream Q&A: When did the World Grid come out?](./yt-xtKjKykv2X0.md) [https://www.youtube.com/watch?v=xtKjKykv2X0](https://www.youtube.com/watch?v=xtKjKykv2X0)
+
 <details>
 <summary>This question may have been asked previously at least 3 other times, as recently as June 2021 and as early as January 2021.</summary>
 

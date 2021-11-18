@@ -9,7 +9,7 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Do you ever get the feeling the game will be put aside and never leave Early Access?
 https://www.youtube.com/watch?v=LSx6aBL0q3Q
-This question was possibly duplicated with a more recent answer: [September 21st, 2021 Livestream Q&A: When will the game be at full release?](./yt-Diz3iZ5irII.md) [https://www.youtube.com/watch?v=Diz3iZ5irII](https://www.youtube.com/watch?v=Diz3iZ5irII)
+This question was possibly duplicated with a more recent answer: [November 16th, 2021 Livestream Q&A: Is there an actual date for the official release of the game?](./yt-yoD51h2g5T0.md) [https://www.youtube.com/watch?v=yoD51h2g5T0](https://www.youtube.com/watch?v=yoD51h2g5T0)
 
 
 ### Topics
