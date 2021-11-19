@@ -3,14 +3,14 @@ title: "July 13th, 2021 Livestream Community FYI: Global grid would be pretty co
 date: "2021-07-13"
 layout: transcript
 topics:
-    - "features/requested-features/global-build-grid"
+    - "features/global-build-grid"
 ---
 # [July 13th, 2021 Livestream](../2021-07-13.md)
 ## Community FYI: Global grid would be pretty cool
 https://www.youtube.com/watch?v=wQDevAQJ3DI
 
 ### Topics
-* [Features > Requested Features > Global Build Grid](../topics/features/requested-features/global-build-grid.md)
+* [Features > Global Build Grid](../topics/features/global-build-grid.md)
 
 ### Transcript
 

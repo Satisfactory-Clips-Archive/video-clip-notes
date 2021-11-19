@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "environment/world-map"
     - "features/buildables/foundations"
-    - "features/requested-features/global-build-grid"
+    - "features/global-build-grid"
 ---
 # [January 19th, 2021 Livestream](../2021-01-19.md)
 ## Q&A: What about an opional grid to put all Foundations all aligned around the Map?
@@ -16,7 +16,7 @@ This question was possibly duplicated with a more recent answer: [November 9th, 
 ### Topics
 * [Environment > World Map](../topics/environment/world-map.md)
 * [Features > Buildables > Foundations](../topics/features/buildables/foundations.md)
-* [Features > Requested Features > Global Build Grid](../topics/features/requested-features/global-build-grid.md)
+* [Features > Global Build Grid](../topics/features/global-build-grid.md)
 
 ### Transcript
 

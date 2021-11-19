@@ -3,14 +3,14 @@ title: "October 19th, 2021 Livestream Q&A: Ever thought about a general grid ove
 date: "2021-10-19"
 layout: transcript
 topics:
-    - "features/requested-features/global-build-grid"
+    - "features/global-build-grid"
 ---
 # [October 19th, 2021 Livestream](../2021-10-19.md)
 ## Q&A: Ever thought about a general grid overlay rather than just eyeballing it?
 https://www.youtube.com/watch?v=prxWjP-hNdw
 
 ### Topics
-* [Features > Requested Features > Global Build Grid](../topics/features/requested-features/global-build-grid.md)
+* [Features > Global Build Grid](../topics/features/global-build-grid.md)
 
 ### Transcript
 

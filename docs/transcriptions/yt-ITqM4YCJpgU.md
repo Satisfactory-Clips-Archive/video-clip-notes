@@ -3,14 +3,14 @@ title: "July 13th, 2021 Livestream Q&A: Will there ever be global grid options b
 date: "2021-07-13"
 layout: transcript
 topics:
-    - "features/requested-features/global-build-grid"
+    - "features/global-build-grid"
 ---
 # [July 13th, 2021 Livestream](../2021-07-13.md)
 ## Q&A: Will there ever be global grid options based off of your first Foundation?
 https://www.youtube.com/watch?v=ITqM4YCJpgU
 
 ### Topics
-* [Features > Requested Features > Global Build Grid](../topics/features/requested-features/global-build-grid.md)
+* [Features > Global Build Grid](../topics/features/global-build-grid.md)
 
 ### Transcript
 

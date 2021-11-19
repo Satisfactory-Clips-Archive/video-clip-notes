@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "features/accessibility"
     - "features/buildings"
-    - "features/requested-features/global-build-grid"
+    - "features/global-build-grid"
     - "satisfactory-updates/released/satisfactory-update-5"
     - "satisfactory-updates/state-of-dev"
 ---
@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=AsUWCZCK4xY
 ### Topics
 * [Features > Accessibility](../topics/features/accessibility.md)
 * [Features > Buildings](../topics/features/buildings.md)
-* [Features > Requested Features > Global Build Grid](../topics/features/requested-features/global-build-grid.md)
+* [Features > Global Build Grid](../topics/features/global-build-grid.md)
 * [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 * [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 

@@ -11,6 +11,7 @@ date: Last Modified
 * [Equipment](../topics/features/equipment.md)
 * [Fluids](../topics/features/fluids.md)
 * [Gases](../topics/features/gases.md)
+* [Global Build Grid](../topics/features/global-build-grid.md)
 * [Multiplayer](../topics/features/multiplayer.md)
 * [Paint](../topics/features/paint.md)
 * [Photo Mode](../topics/features/photo-mode.md)

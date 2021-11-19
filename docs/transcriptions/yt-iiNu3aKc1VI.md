@@ -3,7 +3,7 @@ title: "November 9th, 2021 Livestream Q&A: Will there ever be an option to set a
 date: "2021-11-09"
 layout: transcript
 topics:
-    - "features/requested-features/global-build-grid"
+    - "features/global-build-grid"
 ---
 # [November 9th, 2021 Livestream](../2021-11-09.md)
 ## Q&A: Will there ever be an option to set a grid map-wide?
@@ -20,7 +20,7 @@ This question was possibly replaced with a more recent answer: [November 16th, 2
 
 
 ### Topics
-* [Features > Requested Features > Global Build Grid](../topics/features/requested-features/global-build-grid.md)
+* [Features > Global Build Grid](../topics/features/global-build-grid.md)
 
 ### Transcript
 

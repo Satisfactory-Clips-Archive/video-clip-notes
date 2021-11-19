@@ -3,7 +3,7 @@ title: "June 29th, 2021 Livestream Q&A: Global grid?"
 date: "2021-06-29"
 layout: transcript
 topics:
-    - "features/requested-features/global-build-grid"
+    - "features/global-build-grid"
 ---
 # [June 29th, 2021 Livestream](../2021-06-29.md)
 ## Q&A: Global grid?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: [November 9th, 
 
 
 ### Topics
-* [Features > Requested Features > Global Build Grid](../topics/features/requested-features/global-build-grid.md)
+* [Features > Global Build Grid](../topics/features/global-build-grid.md)
 
 ### Transcript
 

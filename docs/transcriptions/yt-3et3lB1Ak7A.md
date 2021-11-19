@@ -4,7 +4,7 @@ date: "2021-05-04"
 layout: transcript
 topics:
     - "features/buildables/foundations"
-    - "features/requested-features/global-build-grid"
+    - "features/global-build-grid"
     - "qa-site"
 ---
 # [May 4th, 2021 Livestream](../2021-05-04.md)
@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=3et3lB1Ak7A
 
 ### Topics
 * [Features > Buildables > Foundations](../topics/features/buildables/foundations.md)
-* [Features > Requested Features > Global Build Grid](../topics/features/requested-features/global-build-grid.md)
+* [Features > Global Build Grid](../topics/features/global-build-grid.md)
 * [QA Site](../topics/qa-site.md)
 
 ### Transcript

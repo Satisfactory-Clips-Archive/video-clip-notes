@@ -4,7 +4,7 @@ date: "2021-03-30"
 layout: transcript
 topics:
     - "features/buildables/foundations"
-    - "features/requested-features/global-build-grid"
+    - "features/global-build-grid"
 ---
 # [March 30th, 2021 Livestream](../2021-03-30.md)
 ## Q&A: Any plans on a global grid?
@@ -14,7 +14,7 @@ This question was possibly duplicated with a more recent answer: [November 9th, 
 
 ### Topics
 * [Features > Buildables > Foundations](../topics/features/buildables/foundations.md)
-* [Features > Requested Features > Global Build Grid](../topics/features/requested-features/global-build-grid.md)
+* [Features > Global Build Grid](../topics/features/global-build-grid.md)
 
 ### Transcript
 
