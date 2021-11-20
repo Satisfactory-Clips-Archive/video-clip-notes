@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=UKot9dXEPXk
 <summary>This question may have been asked previously at least 14 other times, as recently as September 2021 and as early as August 2018.</summary>
 
 * [September 28th, 2021 Livestream Q&A: Do you plan to make Steam Achievements?](./yt-Kf33x3tiM5w.md) [https://www.youtube.com/watch?v=Kf33x3tiM5w](https://www.youtube.com/watch?v=Kf33x3tiM5w)
-* September 7th, 2021 Livestream Q&A: Will you add Steam Achievements when the game is done? [https://www.youtube.com/watch?v=tO60WajNJis](https://www.youtube.com/watch?v=tO60WajNJis)
+* [September 7th, 2021 Livestream Q&A: Will you add Steam Achievements when the game is done?](./yt-tO60WajNJis.md) [https://www.youtube.com/watch?v=tO60WajNJis](https://www.youtube.com/watch?v=tO60WajNJis)
 * [August 10th, 2021 Livestream Q&A: Will there be Steam Achievements in 1.0?](./yt-_wKUYaG0Hwc.md) [https://www.youtube.com/watch?v=_wKUYaG0Hwc](https://www.youtube.com/watch?v=_wKUYaG0Hwc)
 * [June 29th, 2021 Livestream Q&A: Please add Achievements & badges on Steam](./yt-vrBRxuX6YyA.md) [https://www.youtube.com/watch?v=vrBRxuX6YyA](https://www.youtube.com/watch?v=vrBRxuX6YyA)
 * [April 20th, 2021 Livestream Q&A: Will achievements be added?](./yt-5hha6bAuTTc.md) [https://www.youtube.com/watch?v=5hha6bAuTTc](https://www.youtube.com/watch?v=5hha6bAuTTc)
