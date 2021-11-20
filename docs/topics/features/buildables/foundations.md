@@ -7,6 +7,9 @@ date: Last Modified
 * [Cheatcrete](../../../topics/features/buildables/foundations/cheatcrete.md)
 * [Foundation Stencils](../../../topics/features/buildables/foundations/stencils.md)
 
+## November 19th, 2021 Video
+* Jace Talk: Hyper Tube Floor Holes [https://youtube.com/clip/Ugkxn4E6P9A_dXA7_hcyEM6OcgCJHGzlR5d5](https://youtube.com/clip/Ugkxn4E6P9A_dXA7_hcyEM6OcgCJHGzlR5d5)
+
 ## November 16th, 2021 Livestream
 * [State of Dev: Update 5 Issues](../../../transcriptions/yt-yN7CBElEeY0.md) [https://www.youtube.com/watch?v=yN7CBElEeY0](https://www.youtube.com/watch?v=yN7CBElEeY0)
 * [Q&A: Will we be able to use the Customizer to replace Foundations with Glass Foundations?](../../../transcriptions/yt-nSSAH4CPCNo.md) [https://www.youtube.com/watch?v=nSSAH4CPCNo](https://www.youtube.com/watch?v=nSSAH4CPCNo)

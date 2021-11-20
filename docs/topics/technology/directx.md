@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > DirectX
 
+## November 19th, 2021 Video
+* Jace Talk: DirectX 12 is now the default rendering API where supported [https://youtube.com/embed/cn3e-m4a-hU?autoplay=1&start=372&end=484](https://youtube.com/embed/cn3e-m4a-hU?autoplay=1&start=372&end=484)
+
 ## November 16th, 2021 Livestream
 * [State of Dev: DirectX 12 will now be the default rendering API](../../transcriptions/yt-7yfr4v2z1Z0.md) [https://www.youtube.com/watch?v=7yfr4v2z1Z0](https://www.youtube.com/watch?v=7yfr4v2z1Z0)
 

@@ -8,6 +8,20 @@ date: Last Modified
 * [#SaveTheWillows](../../../topics/satisfactory-updates/released/satisfactory-update-5/save-the-willows.md)
 * [Update 5 Torsten's Cosmetics Whiteboard](../../../topics/satisfactory-updates/released/satisfactory-update-5/torstens-cosmetics-whiteboard.md)
 
+## November 19th, 2021 Video
+* Jace Talk: Update 5 Patch Notes [https://youtube.com/clip/Ugkx4s03_afe0j_tmoNIAcYKpCZ36cudctjG](https://youtube.com/clip/Ugkx4s03_afe0j_tmoNIAcYKpCZ36cudctjG)
+* Jace Talk: New Features [https://youtube.com/clip/UgkxVGpI6RKeOLjUhjj7Mle7nf05-P3dUnpe](https://youtube.com/clip/UgkxVGpI6RKeOLjUhjj7Mle7nf05-P3dUnpe)
+* Jace Talk: Global Grid [https://youtube.com/clip/UgkxYYKn50nMWydVSIirSpQ21Cn-8AV0AvOj](https://youtube.com/clip/UgkxYYKn50nMWydVSIirSpQ21Cn-8AV0AvOj)
+* Jace Talk: Equipment Volume sliders & Misophonia Mode [https://youtube.com/clip/UgkxdExcGCgt8gtUyWqurmz23EKyRuD4RTAN](https://youtube.com/clip/UgkxdExcGCgt8gtUyWqurmz23EKyRuD4RTAN)
+* Jace Talk: Sign Brightness & Sign Icons [https://youtube.com/clip/UgkxhrHcOYuP0o22omuwx9a45UjeHEnv6J0p](https://youtube.com/clip/UgkxhrHcOYuP0o22omuwx9a45UjeHEnv6J0p)
+* Jace Talk: Manually loading/unloading Vehicles [https://youtube.com/clip/UgkxN3HmnddArXfq0mErANSrEOxh3fihfGrp](https://youtube.com/clip/UgkxN3HmnddArXfq0mErANSrEOxh3fihfGrp)
+* Jace Talk: Block visualisation for Train rails [https://youtube.com/clip/UgkxWrsPPwpj4oNSAVI6M1eZ__J34DHpYO7r](https://youtube.com/clip/UgkxWrsPPwpj4oNSAVI6M1eZ__J34DHpYO7r)
+* Jace Talk: Hyper Tube Floor Holes [https://youtube.com/clip/Ugkxn4E6P9A_dXA7_hcyEM6OcgCJHGzlR5d5](https://youtube.com/clip/Ugkxn4E6P9A_dXA7_hcyEM6OcgCJHGzlR5d5)
+* Jace Talk: Dedicated Server improvements [https://youtube.com/clip/UgkxE0BKdRYgVb1NNgxmIbZelYfWcw7UjyFx](https://youtube.com/clip/UgkxE0BKdRYgVb1NNgxmIbZelYfWcw7UjyFx)
+* Jace Talk: Dedicated Servers for both Experimental & Early Access branch [https://youtube.com/clip/UgkxTS4Zpzn05CvMYsafgvSJzQQLTD2JNoEc](https://youtube.com/clip/UgkxTS4Zpzn05CvMYsafgvSJzQQLTD2JNoEc)
+* Jace Talk: DirectX 12 is now the default rendering API where supported [https://youtube.com/embed/cn3e-m4a-hU?autoplay=1&start=372&end=484](https://youtube.com/embed/cn3e-m4a-hU?autoplay=1&start=372&end=484)
+* Jace Talk: More bugfixes & Features planned for Update 5 [https://youtube.com/embed/cn3e-m4a-hU?autoplay=1&start=483&end=547](https://youtube.com/embed/cn3e-m4a-hU?autoplay=1&start=483&end=547)
+
 ## November 16th, 2021 Livestream
 * [State of Dev: Build server fell over](../../../transcriptions/yt-8wS_NI7M5NU.md) [https://www.youtube.com/watch?v=8wS_NI7M5NU](https://www.youtube.com/watch?v=8wS_NI7M5NU)
 * [State of Dev: New features in patch](../../../transcriptions/yt-AsUWCZCK4xY.md) [https://www.youtube.com/watch?v=AsUWCZCK4xY](https://www.youtube.com/watch?v=AsUWCZCK4xY)

@@ -12,6 +12,9 @@ date: Last Modified
 * [Tractor](../../../topics/features/transportation/vehicles/tractor.md)
 * [Truck](../../../topics/features/transportation/vehicles/truck.md)
 
+## November 19th, 2021 Video
+* Jace Talk: Manually loading/unloading Vehicles [https://youtube.com/clip/UgkxN3HmnddArXfq0mErANSrEOxh3fihfGrp](https://youtube.com/clip/UgkxN3HmnddArXfq0mErANSrEOxh3fihfGrp)
+
 ## November 16th, 2021 Livestream
 * [State of Dev: Update 5 Issues](../../../transcriptions/yt-yN7CBElEeY0.md) [https://www.youtube.com/watch?v=yN7CBElEeY0](https://www.youtube.com/watch?v=yN7CBElEeY0)
 * [Q&A: Are you going to add more Vehicles to the game?](../../../transcriptions/yt-pe4P1er1TEk.md) [https://www.youtube.com/watch?v=pe4P1er1TEk](https://www.youtube.com/watch?v=pe4P1er1TEk)

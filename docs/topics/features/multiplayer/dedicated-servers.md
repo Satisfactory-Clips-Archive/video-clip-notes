@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Multiplayer](../../../topics/features/multiplayer.md) > Dedicated Servers
 
+## November 19th, 2021 Video
+* Jace Talk: Dedicated Server improvements [https://youtube.com/clip/UgkxE0BKdRYgVb1NNgxmIbZelYfWcw7UjyFx](https://youtube.com/clip/UgkxE0BKdRYgVb1NNgxmIbZelYfWcw7UjyFx)
+* Jace Talk: Dedicated Servers for both Experimental & Early Access branch [https://youtube.com/clip/UgkxTS4Zpzn05CvMYsafgvSJzQQLTD2JNoEc](https://youtube.com/clip/UgkxTS4Zpzn05CvMYsafgvSJzQQLTD2JNoEc)
+
 ## November 16th, 2021 Livestream
 * [Q&A: Will the Server be multi-threaded like the game client?](../../../transcriptions/yt-G58lDUp0lhk.md) [https://www.youtube.com/watch?v=G58lDUp0lhk](https://www.youtube.com/watch?v=G58lDUp0lhk)
 * [Q&A: Can we expect a fix for the reappearing explodable rocks on Dedicated Servers?](../../../transcriptions/yt-GNlkXUsq_Do.md) [https://www.youtube.com/watch?v=GNlkXUsq_Do](https://www.youtube.com/watch?v=GNlkXUsq_Do)

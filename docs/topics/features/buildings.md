@@ -26,6 +26,9 @@ date: Last Modified
 * [The HUB](../../topics/features/buildings/the-hub.md)
 * [Water Extractor](../../topics/features/buildings/water-extractor.md)
 
+## November 19th, 2021 Video
+* Jace Talk: Manually loading/unloading Vehicles [https://youtube.com/clip/UgkxN3HmnddArXfq0mErANSrEOxh3fihfGrp](https://youtube.com/clip/UgkxN3HmnddArXfq0mErANSrEOxh3fihfGrp)
+
 ## November 16th, 2021 Livestream
 * [State of Dev: New features in patch](../../transcriptions/yt-AsUWCZCK4xY.md) [https://www.youtube.com/watch?v=AsUWCZCK4xY](https://www.youtube.com/watch?v=AsUWCZCK4xY)
 

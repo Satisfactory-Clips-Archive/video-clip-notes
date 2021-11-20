@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildables](../../../topics/features/buildables.md) > Signs
 
+## November 19th, 2021 Video
+* Jace Talk: Sign Brightness & Sign Icons [https://youtube.com/clip/UgkxhrHcOYuP0o22omuwx9a45UjeHEnv6J0p](https://youtube.com/clip/UgkxhrHcOYuP0o22omuwx9a45UjeHEnv6J0p)
+
 ## November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary
 * [Q&A: Were you guys tempted to tease Signs?](../../../transcriptions/yt-Ib7eDlYKTtc.md) [https://www.youtube.com/watch?v=Ib7eDlYKTtc](https://www.youtube.com/watch?v=Ib7eDlYKTtc)
 * [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 42)](../../../transcriptions/yt-FwfGEhrC9Ns.md) [https://www.youtube.com/watch?v=FwfGEhrC9Ns](https://www.youtube.com/watch?v=FwfGEhrC9Ns)

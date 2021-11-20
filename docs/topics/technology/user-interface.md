@@ -6,6 +6,10 @@ date: Last Modified
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > User Interface
 * [Holograms](../../topics/technology/user-interface/holograms.md)
 
+## November 19th, 2021 Video
+* Jace Talk: Equipment Volume sliders & Misophonia Mode [https://youtube.com/clip/UgkxdExcGCgt8gtUyWqurmz23EKyRuD4RTAN](https://youtube.com/clip/UgkxdExcGCgt8gtUyWqurmz23EKyRuD4RTAN)
+* Jace Talk: Block visualisation for Train rails [https://youtube.com/clip/UgkxWrsPPwpj4oNSAVI6M1eZ__J34DHpYO7r](https://youtube.com/clip/UgkxWrsPPwpj4oNSAVI6M1eZ__J34DHpYO7r)
+
 ## November 12th, 2021 Video
 * Snutt Talk: Colours [https://youtube.com/embed/8Tok_vdqZH8?autoplay=1&start=398&end=472](https://youtube.com/embed/8Tok_vdqZH8?autoplay=1&start=398&end=472)
 * Snutt Talk: Colour Swatches [https://youtube.com/embed/8Tok_vdqZH8?autoplay=1&start=471&end=587](https://youtube.com/embed/8Tok_vdqZH8?autoplay=1&start=471&end=587)

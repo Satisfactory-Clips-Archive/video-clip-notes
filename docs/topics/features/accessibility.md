@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../topics.md) > [Features](../../topics/features.md) > Accessibility
 * [Arachnophobia Mode](../../topics/features/accessibility/arachnophobia-mode.md)
 
+## November 19th, 2021 Video
+* Jace Talk: Equipment Volume sliders & Misophonia Mode [https://youtube.com/clip/UgkxdExcGCgt8gtUyWqurmz23EKyRuD4RTAN](https://youtube.com/clip/UgkxdExcGCgt8gtUyWqurmz23EKyRuD4RTAN)
+
 ## November 16th, 2021 Livestream
 * [State of Dev: New features in patch](../../transcriptions/yt-AsUWCZCK4xY.md) [https://www.youtube.com/watch?v=AsUWCZCK4xY](https://www.youtube.com/watch?v=AsUWCZCK4xY)
 
