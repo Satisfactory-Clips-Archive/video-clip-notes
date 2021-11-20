@@ -45,7 +45,7 @@ date: Last Modified
 
 ## September 7th, 2021 Livestream
 * [Q&A: Is there a path to 1.0?](../../../transcriptions/yt-haID3MR0-fQ.md) [https://www.youtube.com/watch?v=haID3MR0-fQ](https://www.youtube.com/watch?v=haID3MR0-fQ)
-* Q&A: 1.0 at 5000 Upvotes [https://www.youtube.com/watch?v=jEt3dU9LTw4](https://www.youtube.com/watch?v=jEt3dU9LTw4)
+* [Q&A: 1.0 at 5000 Upvotes](../../../transcriptions/yt-jEt3dU9LTw4.md) [https://www.youtube.com/watch?v=jEt3dU9LTw4](https://www.youtube.com/watch?v=jEt3dU9LTw4)
 
 ## August 31st, 2021 Livestream
 * [Community FYI: I hope you never get to 1.0, these Updates are awesome!](../../../transcriptions/yt-ZkjtpAwuZM0.md) [https://www.youtube.com/watch?v=ZkjtpAwuZM0](https://www.youtube.com/watch?v=ZkjtpAwuZM0)

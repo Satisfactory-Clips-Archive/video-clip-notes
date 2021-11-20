@@ -18,7 +18,7 @@ date: Last Modified
 * [Q&A: What about Colors?](../../../transcriptions/yt-QfaReoks6OM,338.8333333333333,359.555311.md) [https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=338&end=360](https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=338&end=360)
 
 ## September 7th, 2021 Livestream
-* Q&A: Are there any plans in changing how the Color Gun works? [https://www.youtube.com/watch?v=l11BNMENCP8](https://www.youtube.com/watch?v=l11BNMENCP8)
+* [Q&A: Are there any plans in changing how the Color Gun works?](../../../transcriptions/yt-l11BNMENCP8.md) [https://www.youtube.com/watch?v=l11BNMENCP8](https://www.youtube.com/watch?v=l11BNMENCP8)
 
 ## May 4th, 2021 Livestream
 * Q&A: Were the Paint Gun textures made in Paint? [https://www.youtube.com/watch?v=3A1v13ZMLZc](https://www.youtube.com/watch?v=3A1v13ZMLZc)

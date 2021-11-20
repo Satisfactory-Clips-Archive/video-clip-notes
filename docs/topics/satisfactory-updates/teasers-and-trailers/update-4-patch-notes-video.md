@@ -22,7 +22,7 @@ date: Last Modified
 * [Jace Talk: Chat reactions to Update 4 Patch Notes](../../../transcriptions/yt-cNBKEaJMLyM,50.726218,67.70096666666667.md) [https://youtube.com/embed/cNBKEaJMLyM?autoplay=1&start=50&end=68](https://youtube.com/embed/cNBKEaJMLyM?autoplay=1&start=50&end=68)
 
 ## September 7th, 2021 Livestream
-* Community FYI: Nice PS5 [https://www.youtube.com/watch?v=pLe9r6zRaQI](https://www.youtube.com/watch?v=pLe9r6zRaQI)
+* [Community FYI: Nice PS5](../../../transcriptions/yt-pLe9r6zRaQI.md) [https://www.youtube.com/watch?v=pLe9r6zRaQI](https://www.youtube.com/watch?v=pLe9r6zRaQI)
 
 ## August 31st, 2021 Livestream
 * [Q&A: Can we have a cutscene of Jace's PS5?](../../../transcriptions/yt-qX71nlh8IZQ.md) [https://www.youtube.com/watch?v=qX71nlh8IZQ](https://www.youtube.com/watch?v=qX71nlh8IZQ)

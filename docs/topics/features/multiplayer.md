@@ -44,7 +44,7 @@ date: Last Modified
 * [Q&A: Are there an plans to fix Multiplayer with the next Update?](../../transcriptions/yt-ayc4aQbCQP8.md) [https://www.youtube.com/watch?v=ayc4aQbCQP8](https://www.youtube.com/watch?v=ayc4aQbCQP8)
 
 ## September 7th, 2021 Livestream
-* Q&A: Are we getting Multiplayer soon, or is it next Update? [https://www.youtube.com/watch?v=BiJvV3DwHFc](https://www.youtube.com/watch?v=BiJvV3DwHFc)
+* [Q&A: Are we getting Multiplayer soon, or is it next Update?](../../transcriptions/yt-BiJvV3DwHFc.md) [https://www.youtube.com/watch?v=BiJvV3DwHFc](https://www.youtube.com/watch?v=BiJvV3DwHFc)
 
 ## August 31st, 2021 Livestream
 * [Q&A: Is it right that you can't invite new Steam friends without restarting the game?](../../transcriptions/yt-kY7AIyEvJN0.md) [https://www.youtube.com/watch?v=kY7AIyEvJN0](https://www.youtube.com/watch?v=kY7AIyEvJN0)

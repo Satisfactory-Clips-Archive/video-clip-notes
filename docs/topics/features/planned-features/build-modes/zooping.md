@@ -43,8 +43,8 @@ date: Last Modified
 * [Q&A: What can be Zooped?](../../../../transcriptions/yt-tOkr62V4ks4.md) [https://www.youtube.com/watch?v=tOkr62V4ks4](https://www.youtube.com/watch?v=tOkr62V4ks4)
 * [Q&A: Can you Zoop Walkways?](../../../../transcriptions/yt-Z-FwUS9ql2o.md) [https://www.youtube.com/watch?v=Z-FwUS9ql2o](https://www.youtube.com/watch?v=Z-FwUS9ql2o)
 * [Q&A: Where's the term "Zoop" come from?](../../../../transcriptions/yt-HNK0TDmQBVU.md) [https://www.youtube.com/watch?v=HNK0TDmQBVU](https://www.youtube.com/watch?v=HNK0TDmQBVU)
-* Q&A: Implement vamonos as a Zoop sound? [https://www.youtube.com/watch?v=-En6joXAomU](https://www.youtube.com/watch?v=-En6joXAomU)
-* Q&A: Can we get the Zoop sound effect voice-acted by Jace? [https://www.youtube.com/watch?v=JanvR7rX-yk](https://www.youtube.com/watch?v=JanvR7rX-yk)
+* [Q&A: Implement vamonos as a Zoop sound?](../../../../transcriptions/yt--En6joXAomU.md) [https://www.youtube.com/watch?v=-En6joXAomU](https://www.youtube.com/watch?v=-En6joXAomU)
+* [Q&A: Can we get the Zoop sound effect voice-acted by Jace?](../../../../transcriptions/yt-JanvR7rX-yk.md) [https://www.youtube.com/watch?v=JanvR7rX-yk](https://www.youtube.com/watch?v=JanvR7rX-yk)
 * [Community FYI: Zoop is such a good feature name](../../../../transcriptions/yt-rDLDn5hWSb0.md) [https://www.youtube.com/watch?v=rDLDn5hWSb0](https://www.youtube.com/watch?v=rDLDn5hWSb0)
 * [Community FYI: Zoop Coin](../../../../transcriptions/yt-uW-ebXbDC3U.md) [https://www.youtube.com/watch?v=uW-ebXbDC3U](https://www.youtube.com/watch?v=uW-ebXbDC3U)
 

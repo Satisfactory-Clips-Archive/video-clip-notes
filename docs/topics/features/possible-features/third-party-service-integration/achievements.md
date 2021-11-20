@@ -12,7 +12,7 @@ date: Last Modified
 * [Q&A: Do you plan to make Steam Achievements?](../../../../transcriptions/yt-Kf33x3tiM5w.md) [https://www.youtube.com/watch?v=Kf33x3tiM5w](https://www.youtube.com/watch?v=Kf33x3tiM5w)
 
 ## September 7th, 2021 Livestream
-* Q&A: Will you add Steam Achievements when the game is done? [https://www.youtube.com/watch?v=tO60WajNJis](https://www.youtube.com/watch?v=tO60WajNJis)
+* [Q&A: Will you add Steam Achievements when the game is done?](../../../../transcriptions/yt-tO60WajNJis.md) [https://www.youtube.com/watch?v=tO60WajNJis](https://www.youtube.com/watch?v=tO60WajNJis)
 
 ## August 10th, 2021 Livestream
 * [Q&A: Will there be Steam Achievements in 1.0?](../../../../transcriptions/yt-_wKUYaG0Hwc.md) [https://www.youtube.com/watch?v=_wKUYaG0Hwc](https://www.youtube.com/watch?v=_wKUYaG0Hwc)

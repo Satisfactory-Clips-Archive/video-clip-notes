@@ -655,7 +655,7 @@ date: Last Modified
 <summary>This question may have been asked previously at least 14 other times, as recently as September 2021 and as early as August 2018.</summary>
 
 * [September 28th, 2021 Livestream Q&A: Do you plan to make Steam Achievements?](./transcriptions/yt-Kf33x3tiM5w.md) [https://www.youtube.com/watch?v=Kf33x3tiM5w](https://www.youtube.com/watch?v=Kf33x3tiM5w)
-* September 7th, 2021 Livestream Q&A: Will you add Steam Achievements when the game is done? [https://www.youtube.com/watch?v=tO60WajNJis](https://www.youtube.com/watch?v=tO60WajNJis)
+* [September 7th, 2021 Livestream Q&A: Will you add Steam Achievements when the game is done?](./transcriptions/yt-tO60WajNJis.md) [https://www.youtube.com/watch?v=tO60WajNJis](https://www.youtube.com/watch?v=tO60WajNJis)
 * [August 10th, 2021 Livestream Q&A: Will there be Steam Achievements in 1.0?](./transcriptions/yt-_wKUYaG0Hwc.md) [https://www.youtube.com/watch?v=_wKUYaG0Hwc](https://www.youtube.com/watch?v=_wKUYaG0Hwc)
 * [June 29th, 2021 Livestream Q&A: Please add Achievements & badges on Steam](./transcriptions/yt-vrBRxuX6YyA.md) [https://www.youtube.com/watch?v=vrBRxuX6YyA](https://www.youtube.com/watch?v=vrBRxuX6YyA)
 * [April 20th, 2021 Livestream Q&A: Will achievements be added?](./transcriptions/yt-5hha6bAuTTc.md) [https://www.youtube.com/watch?v=5hha6bAuTTc](https://www.youtube.com/watch?v=5hha6bAuTTc)
@@ -1157,7 +1157,7 @@ date: Last Modified
 * [October 5th, 2021 Livestream Q&A: Signs coming when, it's most wanted in QA?](./transcriptions/yt-E6TuyMSKYqI.md) [https://www.youtube.com/watch?v=E6TuyMSKYqI](https://www.youtube.com/watch?v=E6TuyMSKYqI)
 * [September 14th, 2021 Livestream Q&A: Any news about Signs?](./transcriptions/yt-9VRy5YUkq5A.md) [https://www.youtube.com/watch?v=9VRy5YUkq5A](https://www.youtube.com/watch?v=9VRy5YUkq5A)
 * August 17th, 2021 Livestream Q&A: Will you add Signs in the game? [https://www.youtube.com/watch?v=bmLgjjNst3M](https://www.youtube.com/watch?v=bmLgjjNst3M)
-* August 3rd, 2021 Livestream Q&A: Will we ever see writable signs to label stuff? [https://www.youtube.com/watch?v=5lnAMr0DyBE](https://www.youtube.com/watch?v=5lnAMr0DyBE)
+* [August 3rd, 2021 Livestream Q&A: Will we ever see writable signs to label stuff?](./transcriptions/yt-5lnAMr0DyBE.md) [https://www.youtube.com/watch?v=5lnAMr0DyBE](https://www.youtube.com/watch?v=5lnAMr0DyBE)
 * [July 13th, 2021 Livestream Q&A: Would you consider adding custom text signs?](./transcriptions/yt-HmdG5XPGjN8.md) [https://www.youtube.com/watch?v=HmdG5XPGjN8](https://www.youtube.com/watch?v=HmdG5XPGjN8)
 * [June 18th, 2021 Livestream Q&A: Will we have Signs?](./transcriptions/yt-slNYE26evgc,248.61503333333334,291.32436666666666.md) [https://youtube.com/embed/slNYE26evgc?autoplay=1&start=248&end=292](https://youtube.com/embed/slNYE26evgc?autoplay=1&start=248&end=292)
 * [June 15th, 2021 Livestream Q&A: Are there any plans to put Signs in the game?](./transcriptions/yt-7Iz77o4a4Mk.md) [https://www.youtube.com/watch?v=7Iz77o4a4Mk](https://www.youtube.com/watch?v=7Iz77o4a4Mk)

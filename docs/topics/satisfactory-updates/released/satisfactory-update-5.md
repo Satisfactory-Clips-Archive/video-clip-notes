@@ -408,8 +408,8 @@ date: Last Modified
 * [Q&A: Will Ramp versions be able to be half as well?](../../../transcriptions/yt-ClOiLPOWYVI.md) [https://www.youtube.com/watch?v=ClOiLPOWYVI](https://www.youtube.com/watch?v=ClOiLPOWYVI)
 * [Q&A: When building Belts, can we Quick Switch from normal Conveyor Poles to Stackable Poles?](../../../transcriptions/yt--omR1EfS5EE.md) [https://www.youtube.com/watch?v=-omR1EfS5EE](https://www.youtube.com/watch?v=-omR1EfS5EE)
 * [Q&A: Quick Switch is the same thing as the Radial Menu?](../../../transcriptions/yt-ot9z828JGSU.md) [https://www.youtube.com/watch?v=ot9z828JGSU](https://www.youtube.com/watch?v=ot9z828JGSU)
-* Q&A: Are you planning on having a sale on release? [https://www.youtube.com/watch?v=GR109lb7XtE](https://www.youtube.com/watch?v=GR109lb7XtE)
-* Q&A: Are we getting Multiplayer soon, or is it next Update? [https://www.youtube.com/watch?v=BiJvV3DwHFc](https://www.youtube.com/watch?v=BiJvV3DwHFc)
+* [Q&A: Are you planning on having a sale on release?](../../../transcriptions/yt-GR109lb7XtE.md) [https://www.youtube.com/watch?v=GR109lb7XtE](https://www.youtube.com/watch?v=GR109lb7XtE)
+* [Q&A: Are we getting Multiplayer soon, or is it next Update?](../../../transcriptions/yt-BiJvV3DwHFc.md) [https://www.youtube.com/watch?v=BiJvV3DwHFc](https://www.youtube.com/watch?v=BiJvV3DwHFc)
 
 ## September 3rd, 2021 Dev Vlog
 * [Jace Talk: Small Metal Pillars](../../../transcriptions/yt-yZGq-W7r2sk,62.858586,128.76196666666667.md) [https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=62&end=129](https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=62&end=129)
