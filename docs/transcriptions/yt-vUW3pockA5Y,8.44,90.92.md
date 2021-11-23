@@ -13,29 +13,36 @@ https://youtube.com/embed/vUW3pockA5Y?autoplay=1&start=8&end=91
 
 ### Transcript
 
-> and i'm the Game Director at coffee stain studios.
-> The initial idea of satisfactory was actually a base defense game.
-> I remember it as it was yesterday,
-> we were talking about game ideas, what can we do, what's a fun game.
-> That was in the stage when we were starting to brainstorm
-> for what's to come after Goat Sim[ulator].
-> And this idea about a base defense game came up.
-> It's like you need to go and you have to build everything from scratch.
-> But its not crafting like survival crafting is,
-> it's more Factorio inspired.
-> So it actually started as a base defense game primarily,
-> then the factory part got bigger and bigger,
-> and the fighting part got smaller and smaller.
-> So we actually just decided to not have that base defense aspect in at all.
-> I mean obviously we had a lot of discussions about it,
-> cause it's a very compelling type of gameplay.
-> We felt that it went very contrary to the main part of the game.
-> We felt that, if a part of the game loop is about
-> counter acting what you are doing primarily,
-> it doesn't really fit.
-> The electricity goes out and suddenly you are..
-> sure you have turrets but they can't do anything.
-> So it's sort of the same problem, it's arguably even worse
-> cause you did everything you could
-> and then it's fucked anyway.
-> That's why we got rid of it.
+> am Nastya Sam and I'm the game director
+> at posting videos
+> the initial idea of size factor was
+> actually a base defense game and we were
+> I remember it like it was yesterday and
+> we were like talking about game ideas
+> what can we do what it was a fun game
+> because that was in the stages when we
+> were starting to brainstorm for what
+> what's to come after go to and this idea
+> about a base defense game came up and
+> was like you go and you you have to do
+> everything from stuff but it's not
+> crafting like survival craftiness it's
+> more of Victoria inspired so it's
+> actually started as a way students game
+> primarily and then the factory part got
+> bigger and bigger and the fighting part
+> cut smaller and smaller so we actually
+> decided to not have that base defense
+> aspect in at all I mean obviously we had
+> a lot of discussions about it because
+> but it's a very compelling type of
+> gameplay we felt that it went very
+> contrary to to the main part of the game
+> we felt that if part of the game loop is
+> about counteracting what you're doing
+> primarily it doesn't really fit the
+> electricity goes out and suddenly you're
+> sure you have turrets but they can't do
+> anything so it's sort of the same
+> problem that's it's arguably worse
+> because you actually did everything you

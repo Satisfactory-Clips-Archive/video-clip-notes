@@ -5225,7 +5225,7 @@ date: Last Modified
 * [March 15th, 2019 Q&A: If I buy the game on Epic now, can I have it moved to my Steam account later?](./transcriptions/yt-R0S19_caQuw,384.72,393.2.md) [https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=384&end=394](https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=384&end=394)
 </details>
 
-## [December 19th, 2019 Livestream](./2019-12-19.md)
+## [December 19th, 2019 Video](./2019-12-19.md)
 ### [Q&A: Will price go up after Early Access ends?](./transcriptions/yt-TFg_ppmX8OE.md) [https://www.youtube.com/watch?v=TFg_ppmX8OE](https://www.youtube.com/watch?v=TFg_ppmX8OE)
 
 <details>
