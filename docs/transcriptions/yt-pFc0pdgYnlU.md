@@ -8,7 +8,7 @@ topics:
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: How about Creative Mode?
 https://www.youtube.com/watch?v=pFc0pdgYnlU
-This question was possibly duplicated with a more recent answer: [November 9th, 2021 Livestream Q&A: Any plans for sandbox/Creative Mode?](./yt-B5eQjR_7TxY.md) [https://www.youtube.com/watch?v=B5eQjR_7TxY](https://www.youtube.com/watch?v=B5eQjR_7TxY)
+This question was possibly duplicated with a more recent answer: [November 23rd, 2021 Livestream Q&A: Creative Mode?](./yt-iVDRQg_aWpU,6190.309672,6248.354523.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6190&end=6249](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6190&end=6249)
 
 
 ### Topics

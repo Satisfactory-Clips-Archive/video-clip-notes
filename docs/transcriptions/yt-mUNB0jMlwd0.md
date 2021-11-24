@@ -8,7 +8,7 @@ topics:
 # [September 21st, 2021 Livestream](../2021-09-21.md)
 ## Q&A: Is all the Story stuff finished?
 https://www.youtube.com/watch?v=mUNB0jMlwd0
-This question was possibly duplicated with a more recent answer: [September 28th, 2021 Livestream Q&A: What's the state of the Story?](./yt-gxRkjiYNeXc.md) [https://www.youtube.com/watch?v=gxRkjiYNeXc](https://www.youtube.com/watch?v=gxRkjiYNeXc)
+This question was possibly duplicated with a more recent answer: [November 23rd, 2021 Livestream Q&A: Any Updates to Lore & Story?](./yt-iVDRQg_aWpU,6155.399430055555,6185.114503.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6155&end=6186](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6155&end=6186)
 
 
 ### Topics

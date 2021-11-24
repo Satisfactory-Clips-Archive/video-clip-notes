@@ -8,6 +8,8 @@ topics:
 # [November 9th, 2021 Livestream](../2021-11-09.md)
 ## Q&A: Golf, when?
 https://www.youtube.com/watch?v=kYn6eCYtK6w
+This question was possibly duplicated with a more recent answer: [November 23rd, 2021 Livestream Q&A: Golf, when?](./yt-iVDRQg_aWpU,4826.73288641358,4833.520066.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=4826&end=4834](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=4826&end=4834)
+
 
 ### Topics
 * [Features > Unplanned Features > Golf](../topics/features/unplanned-features/golf.md)

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Deep Rock Galactic
 
+## November 23rd, 2021 Livestream
+* [Q&A: Deep Rock Galactic enabled Unreal VR plugins for Modding, any chance you could do the same?](../../transcriptions/yt-iVDRQg_aWpU,6082.76610344753,6109.750653.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6082&end=6110](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6082&end=6110)
+
 ## June 8th, 2021 Livestream
 * [Q&A: Do you guys play Deep Rock Galactic, too?](../../transcriptions/yt-R-q9Y-ZbTuk.md) [https://www.youtube.com/watch?v=R-q9Y-ZbTuk](https://www.youtube.com/watch?v=R-q9Y-ZbTuk)
 

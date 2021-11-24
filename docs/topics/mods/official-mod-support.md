@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../topics.md) > [Mods](../../topics/mods.md) > Official Mod Support
 * [Steam Workshop](../../topics/mods/official-mod-support/steam-workshop.md)
 
+## November 23rd, 2021 Livestream
+* [Q&A: Will there be Mod support for Dedicated Servers?](../../transcriptions/yt-iVDRQg_aWpU,5102.290458,5133.929581.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5102&end=5134](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5102&end=5134)
+
 ## July 16th, 2021 Video
 * [Q&A: Does Satisfactory have Official Mod Support?](../../transcriptions/yt-Z2WggHmVHGI,39.1391,95.22846666666666.md) [https://youtube.com/clip/UgylC5F8-3qS5liSCLp4AaABCQ](https://youtube.com/clip/UgylC5F8-3qS5liSCLp4AaABCQ)
 

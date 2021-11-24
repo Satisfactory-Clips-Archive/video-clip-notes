@@ -6,6 +6,11 @@ date: Last Modified
 # [Topics](../../topics.md) > [Retail](../../topics/retail.md) > Epic Store
 * [Epic Store Exclusivity](../../topics/retail/epic-store/epic-store-exclusivity.md)
 
+## November 23rd, 2021 Livestream
+* [Snutt & Jace Talk: Dedicated Servers available on Epic](../../transcriptions/yt-iVDRQg_aWpU,4935.999542962963,5023.740139.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=4935&end=5024](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=4935&end=5024)
+* [Snutt & Jace Talk: Update 5 in Steam/Epic + Patch Notes](../../transcriptions/yt-iVDRQg_aWpU,6746.299375342593,6787.602041.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6746&end=6788](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6746&end=6788)
+* [Snutt & Jace Talk: Launcher issues](../../transcriptions/yt-iVDRQg_aWpU,6948.916099,7001.546274.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6948&end=7002](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6948&end=7002)
+
 ## October 29th, 2021 Video
 * [Q&A: Do I need to buy the game on Steam to use Dedicated Servers if I already have the game on Epic?](../../transcriptions/yt-rePLsjw-eEY,195.987197,212.21200000000002.md) [https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=195&end=213](https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=195&end=213)
 * [Jace Talk: Steam/Epic bug](../../transcriptions/yt-rePLsjw-eEY,226.3261,274.14053333333334.md) [https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=226&end=275](https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=226&end=275)

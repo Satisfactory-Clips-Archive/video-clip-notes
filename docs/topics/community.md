@@ -24,6 +24,9 @@ date: Last Modified
 * [Vilsol](../topics/community/vilsol.md)
 * [Wiki](../topics/community/wiki.md)
 
+## November 23rd, 2021 Livestream
+* [Trolling: Golf is in Patch Notes](../transcriptions/yt-iVDRQg_aWpU,719.7999333518518,727.961643.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=719&end=728](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=719&end=728)
+
 ## November 16th, 2021 Livestream
 * [Q&A: Do you hate answering the same questions every week?](../transcriptions/yt-BhGBXKzEeyo.md) [https://www.youtube.com/watch?v=BhGBXKzEeyo](https://www.youtube.com/watch?v=BhGBXKzEeyo)
 * [Community FYI: Compared to other games, Satisfactory is already version 2.0](../transcriptions/yt-pne8xwoOipo.md) [https://www.youtube.com/watch?v=pne8xwoOipo](https://www.youtube.com/watch?v=pne8xwoOipo)

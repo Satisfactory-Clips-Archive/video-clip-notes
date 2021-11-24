@@ -2,21 +2,60 @@
 title: "Frequently Asked Questions"
 date: Last Modified
 ---
-## [November 16th, 2021 Livestream](./2021-11-16.md)
-### [Q&A: FICS⁕MAS?](./transcriptions/yt-v6qKwwjqagg.md) [https://www.youtube.com/watch?v=v6qKwwjqagg](https://www.youtube.com/watch?v=v6qKwwjqagg)
+## [November 23rd, 2021 Livestream](./2021-11-23.md)
+### [Q&A: Is Update 10 the official release of the game?](./transcriptions/yt-iVDRQg_aWpU,728.781025,740.470053.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=728&end=741](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=728&end=741)
 
 <details>
 
 <summary>A transcript is available</summary>
 
-> um so i saw someone ask about fixmas right so maybe we should address this as well um that we are we hope we can get some fixma stuff out um fixmas is kind of like due to update five release schedule we haven't had much time to look into fixmas um so like we are hoping we can get do get something together for fixmas but don't like expect anything like huge like you know it won't be twice as much content like last year you know like it might it might be sort of similar content maybe just like a few tweaks in here here and there um yeah yeah we don't know exactly because like we don't have a lot of time to look into it essentially like we did like a trailer and stuff for it last year and i don't know we have some ideas for maybe getting a trailer but like it might just be like a you know something better than nothing kind of situation yeah uh but but but we do have some ideas for what we can do we'll just have to see what what we can manage but yeah it's we had to focus on update 5 unfortunately yes well not unfortunately that's what we have to do but um yeah the timing is a bit unfortunate yeah and even even just like enabling fixmas didn't work because the like the almanac and stuff like that the calendar is broken right now so we this just everything's going against us right now but uh yeah we're gonna try and get something out at least hopefully yeah
+> come on
 
 
 </details>
 
 <details>
-<summary>This question may have been asked previously at least 11 other times, as recently as November 2021 and as early as December 2020.</summary>
+<summary>This question may have been asked previously at least 2 other times, as recently as September 2021 and as early as March 2021.</summary>
 
+* [September 21st, 2021 Livestream Q&A: Are you ready to celebrate the fact that the next Update is half way towards 1.0?](./transcriptions/yt-o64NGIJwdm4.md) [https://www.youtube.com/watch?v=o64NGIJwdm4](https://www.youtube.com/watch?v=o64NGIJwdm4)
+* [March 2nd, 2021 Livestream Q&A: Update 10 is 1.0?](./transcriptions/yt-dvCRDVGePX0.md) [https://www.youtube.com/watch?v=dvCRDVGePX0](https://www.youtube.com/watch?v=dvCRDVGePX0)
+</details>
+
+### [Q&A: How do you make the video camera movements in your trailer?](./transcriptions/yt-iVDRQg_aWpU,4735.134257,4790.865124.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=4735&end=4791](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=4735&end=4791)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> oh there was a sign that said this way does not feel right but now wait i made it no wait no no no no oh what the [ __ ] is this weird ass [ __ ] oh god damn it i took a wrong turn for sure damn it the [ __ ] window sound when you bonk into it no i hate this did you not see how like when we played chaos's [ __ ] amazed yeah yeah full of that [ __ ] that took so long there was a sign that said this does not feel right and then i found the ending oh you actually made it out yeah yeah i'm out son of a yeah me too god damn it
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 2 other times, as recently as August 2021 and as early as November 2020.</summary>
+
+* [August 31st, 2021 Livestream Q&A: Are there any plans for adding the tools to the game that you use to make the teasers?](./transcriptions/yt-hgVQCncD4PA.md) [https://www.youtube.com/watch?v=hgVQCncD4PA](https://www.youtube.com/watch?v=hgVQCncD4PA)
+* [November 10th, 2020 Livestream Q&A: Any tools to add Cinematic Tools to the game like Machinima or Content Creator purposes?](./transcriptions/yt-tv1pCGiRtkM.md) [https://www.youtube.com/watch?v=tv1pCGiRtkM](https://www.youtube.com/watch?v=tv1pCGiRtkM)
+</details>
+
+### [Q&A: Any news on FICS⁕MAS](./transcriptions/yt-iVDRQg_aWpU,4839.332885246913,4859.387351.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=4839&end=4860](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=4839&end=4860)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> [ __ ]
+>
+> climb ladies to the top use your inner monkey had jumped oh god oh no this this is so hard actually it's not too bad just make sure that you're no no oh oh oh wow okay you could do that i was stepping on the little platforms and jumping from the back oh i guess you could do that too but i'm a pro i'm a pro gamer
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 12 other times, as recently as November 2021 and as early as December 2020.</summary>
+
+* [November 16th, 2021 Livestream Q&A: FICS⁕MAS?](./transcriptions/yt-v6qKwwjqagg.md) [https://www.youtube.com/watch?v=v6qKwwjqagg](https://www.youtube.com/watch?v=v6qKwwjqagg)
 * [November 9th, 2021 Livestream Q&A: FICS⁕MAS?](./transcriptions/yt-kpaIwFsaOAo.md) [https://www.youtube.com/watch?v=kpaIwFsaOAo](https://www.youtube.com/watch?v=kpaIwFsaOAo)
 * October 26th, 2021 Update 5 Launch Stream and Patch Notes Video Q&A: Are you going to do FICS⁕MAS this year? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=14624&end=14669](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=14624&end=14669)
 * [October 19th, 2021 Livestream Q&A: What day does FICS⁕MAS start?](./transcriptions/yt-R16PE1knvWc.md) [https://www.youtube.com/watch?v=R16PE1knvWc](https://www.youtube.com/watch?v=R16PE1knvWc)
@@ -30,6 +69,174 @@ date: Last Modified
 * [December 8th, 2020 Livestream Q&A: Will Gift Trees continue to produce?](./transcriptions/yt-FqUcLve4Oyc.md) [https://www.youtube.com/watch?v=FqUcLve4Oyc](https://www.youtube.com/watch?v=FqUcLve4Oyc)
 </details>
 
+### [Q&A: Are you planning controller support?](./transcriptions/yt-iVDRQg_aWpU,5081.766196132716,5100.457111.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5081&end=5101](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5081&end=5101)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> 30 minutes until launch i kill the session now bye chase yep on the release we give us a server rig as an item we haven't done that no that's very true how do you make the video camera movements in your trailer uh it depends which ones you're talking about but we
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 5 other times, as recently as August 2021 and as early as February 2019.</summary>
+
+* [August 17th, 2021 Livestream Q&A: Any chance for improved controller support?](./transcriptions/yt-jZYkquJsDyM.md) [https://www.youtube.com/watch?v=jZYkquJsDyM](https://www.youtube.com/watch?v=jZYkquJsDyM)
+* [September 22nd, 2020 Livestream Q&A: Unreal Engine has default Controller support without you guys remapping?](./transcriptions/yt-ypJikGBEdvs.md) [https://www.youtube.com/watch?v=ypJikGBEdvs](https://www.youtube.com/watch?v=ypJikGBEdvs)
+* [September 22nd, 2020 Livestream Q&A: Confused on the use of Controllers?](./transcriptions/yt-BuC0nQS2Kqs.md) [https://www.youtube.com/watch?v=BuC0nQS2Kqs](https://www.youtube.com/watch?v=BuC0nQS2Kqs)
+* [March 9th, 2019 Livestream Q&A: Controller support?](./transcriptions/yt-XrsD3h62ils.md) [https://www.youtube.com/watch?v=XrsD3h62ils](https://www.youtube.com/watch?v=XrsD3h62ils)
+* [February 6th, 2019 Livestream Q&A: Controller support?](./transcriptions/yt-Dtm6xIj-wM4,4052.6,4151.820477.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=4052&end=4152](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=4052&end=4152)
+</details>
+
+### [Q&A: Will there be Mod support for Dedicated Servers?](./transcriptions/yt-iVDRQg_aWpU,5102.290458,5133.929581.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5102&end=5134](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5102&end=5134)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> can do some cinematic camera stuff uh uh and record the um the uh like animations for the camera we use this unreal engine sequencer so we can do a lot of advanced stuff in a real engine that you guys don't have access to unfortunately because you need to use the engine you can't it doesn't work that way um but we're hoping oh did you get it nice yeah putting it in the chat but we're hoping in the future we can improve uh photo mode so you guys can do
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 2 other times, as recently as November 2021 and as early as November 2020.</summary>
+
+* [November 2nd, 2021 Livestream Q&A: Have you discussed Mods working with Dedicated Servers?](./transcriptions/yt-_FSlbFuaHq0.md) [https://www.youtube.com/watch?v=_FSlbFuaHq0](https://www.youtube.com/watch?v=_FSlbFuaHq0)
+* [November 24th, 2020 Livestream Q&A: Are Dedicated Servers going to have Mod support?](./transcriptions/yt-PD79jEZuOAU.md) [https://www.youtube.com/watch?v=PD79jEZuOAU](https://www.youtube.com/watch?v=PD79jEZuOAU)
+</details>
+
+### [Q&A: VR Support?](./transcriptions/yt-iVDRQg_aWpU,5952.234365,5989.55304.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5952&end=5990](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5952&end=5990)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> there's going to be two entries in your steam that's actually a good thing to bring up actually because if you're playing the way that we set it up right now is that we already have two branches for the dedicated servers and one of them is experimental and one of them is ea and right now both are experimental they're both since we didn't have an ea at that point we released both experimental so the default branch which is going to be the early access branch that's going to get updated to the early access version is is the default branch so if you want to play on experimental you have to switch to that branch um yeah so but but like an important thing to note is that like when the early access
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 11 other times, as recently as October 2021 and as early as August 2018.</summary>
+
+* October 26th, 2021 Update 5 Launch Stream and Patch Notes Video Q&A: VR? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=1803&end=1874](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=1803&end=1874)
+* [October 12th, 2021 Livestream Q&A: When does VR support come?](./transcriptions/yt-5GIATvK8NVQ.md) [https://www.youtube.com/watch?v=5GIATvK8NVQ](https://www.youtube.com/watch?v=5GIATvK8NVQ)
+* [June 22nd, 2021 Livestream Q&A: Are there any plans for VR?](./transcriptions/yt-aSo4zUTOCwE.md) [https://www.youtube.com/watch?v=aSo4zUTOCwE](https://www.youtube.com/watch?v=aSo4zUTOCwE)
+* [April 27th, 2021 Livestream Q&A: Any chance for a VR port?](./transcriptions/yt-bPmfShefJi4.md) [https://www.youtube.com/watch?v=bPmfShefJi4](https://www.youtube.com/watch?v=bPmfShefJi4)
+* [April 20th, 2021 Livestream Q&A: VR, when?](./transcriptions/yt-njMrANjFNLc.md) [https://www.youtube.com/watch?v=njMrANjFNLc](https://www.youtube.com/watch?v=njMrANjFNLc)
+* [March 9th, 2021 Livestream Q&A: VR Support at any time?](./transcriptions/yt-TKv8QdGLBW0.md) [https://www.youtube.com/watch?v=TKv8QdGLBW0](https://www.youtube.com/watch?v=TKv8QdGLBW0)
+* [January 26th, 2021 Livestream Q&A: VR support would be heavenly?](./transcriptions/yt-0Ld1fbTEOvM.md) [https://www.youtube.com/watch?v=0Ld1fbTEOvM](https://www.youtube.com/watch?v=0Ld1fbTEOvM)
+* [November 3rd, 2020 Livestream Q&A: VR Support?](./transcriptions/yt-eJz8dJImPfQ.md) [https://www.youtube.com/watch?v=eJz8dJImPfQ](https://www.youtube.com/watch?v=eJz8dJImPfQ)
+* [September 8th, 2020 Livestream Q&A: Ever consider making a VR version of Satisfactory?](./transcriptions/yt-3s-PKymQ9QU.md) [https://www.youtube.com/watch?v=3s-PKymQ9QU](https://www.youtube.com/watch?v=3s-PKymQ9QU)
+* [February 6th, 2019 Livestream Q&A: Will there be VR support?](./transcriptions/yt-Dtm6xIj-wM4,2442.266666666667,2534.034208.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2442&end=2535](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2442&end=2535)
+* [August 1st, 2018 Q&A: What about VR support?](./transcriptions/yt-iFAy1NZUOGU,66.08,68.24.md) [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=66&end=69](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=66&end=69)
+</details>
+
+### [Q&A: Any Updates to Lore & Story?](./transcriptions/yt-iVDRQg_aWpU,6155.399430055555,6185.114503.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6155&end=6186](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6155&end=6186)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> you just copy paste that into your uh putting the save location everywhere you put that into your file explorer and that will take you to the save games folder a good test will be happening and yeah and save files in that folder are separated by your steam and epic some people play on steam and epic and if you if you do then your save files will be in different uh folders yeah so that's just something to note as well and if your save file doesn't show up in
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 12 other times, as recently as September 2021 and as early as March 2021.</summary>
+
+* [September 28th, 2021 Livestream Q&A: What's the state of the Story?](./transcriptions/yt-gxRkjiYNeXc.md) [https://www.youtube.com/watch?v=gxRkjiYNeXc](https://www.youtube.com/watch?v=gxRkjiYNeXc)
+* [September 28th, 2021 Livestream Q&A: State of Story?](./transcriptions/yt-5Miaujx7O3A.md) [https://www.youtube.com/watch?v=5Miaujx7O3A](https://www.youtube.com/watch?v=5Miaujx7O3A)
+* [September 21st, 2021 Livestream Q&A: Is all the Story stuff finished?](./transcriptions/yt-mUNB0jMlwd0.md) [https://www.youtube.com/watch?v=mUNB0jMlwd0](https://www.youtube.com/watch?v=mUNB0jMlwd0)
+* [June 8th, 2021 Livestream Q&A: What about Story?](./transcriptions/yt-SYYJy7HzehA.md) [https://www.youtube.com/watch?v=SYYJy7HzehA](https://www.youtube.com/watch?v=SYYJy7HzehA)
+* [May 18th, 2021 Livestream Q&A: Is there any sort of Story planned?](./transcriptions/yt-8cZ-oH-WA3E.md) [https://www.youtube.com/watch?v=8cZ-oH-WA3E](https://www.youtube.com/watch?v=8cZ-oH-WA3E)
+* [May 11th, 2021 Livestream Q&A: Do you have a clear idea of the Story Mode yet?](./transcriptions/yt-Zc2lKKROexI.md) [https://www.youtube.com/watch?v=Zc2lKKROexI](https://www.youtube.com/watch?v=Zc2lKKROexI)
+* [May 4th, 2021 Livestream Q&A: Will there be Story?](./transcriptions/yt-SKa_F6Km7sA.md) [https://www.youtube.com/watch?v=SKa_F6Km7sA](https://www.youtube.com/watch?v=SKa_F6Km7sA)
+* [March 30th, 2021 Livestream Q&A: Will there be Story to the game?](./transcriptions/yt-C23SCWtnv2U.md) [https://www.youtube.com/watch?v=C23SCWtnv2U](https://www.youtube.com/watch?v=C23SCWtnv2U)
+* [March 23rd, 2021 Livestream Q&A: Any Story hints?](./transcriptions/yt-83bWsjYlMrM.md) [https://www.youtube.com/watch?v=83bWsjYlMrM](https://www.youtube.com/watch?v=83bWsjYlMrM)
+* March 16th, 2021 Livestream Q&A: Storyline? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=8722&end=8747](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=8722&end=8747)
+* [March 9th, 2021 Livestream Q&A: Is Lore & Story progressing well, not well, or not at all?](./transcriptions/yt-UHWeEsduD0Q.md) [https://www.youtube.com/watch?v=UHWeEsduD0Q](https://www.youtube.com/watch?v=UHWeEsduD0Q)
+* [March 2nd, 2021 Livestream Q&A: Is the Story completely written or is it still in progress?](./transcriptions/yt-YrcsAlypXbo.md) [https://www.youtube.com/watch?v=YrcsAlypXbo](https://www.youtube.com/watch?v=YrcsAlypXbo)
+</details>
+
+### [Q&A: Creative Mode?](./transcriptions/yt-iVDRQg_aWpU,6190.309672,6248.354523.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6190&end=6249](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6190&end=6249)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> then take the save file and move it to the common folder after you've backed it up and then it should appear on the game no matter who you're logged in as and then you can just resave it yep why are my log files more than 100 like 1.5 gigs it's because our game is [ __ ] dog [ __ ] so many issues that need to be logged in the long file i actually don't know i think uh there might be a few things that are long i think there might be a few things that are like throwing unnecessary amount of vlogging in the game sometimes when we've been working on experimental uh so like it's just like every frame is spewing some kind of like warning or something that actually isn't a warning uh we fixed most of those things but yeah yeah i guess if if you uh if you have that and uh like huge log files you can always open them up and see if there's anything that's getting spammed uh yeah yeah or if you just have a lot of different log files that does that yep
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 21 other times, as recently as November 2021 and as early as August 2018.</summary>
+
+* [November 9th, 2021 Livestream Q&A: Any plans for sandbox/Creative Mode?](./transcriptions/yt-B5eQjR_7TxY.md) [https://www.youtube.com/watch?v=B5eQjR_7TxY](https://www.youtube.com/watch?v=B5eQjR_7TxY)
+* [August 10th, 2021 Livestream Q&A: Is there going to be a sandbox mode in Satisfactory?](./transcriptions/yt-xH1ucvjBDdA.md) [https://www.youtube.com/watch?v=xH1ucvjBDdA](https://www.youtube.com/watch?v=xH1ucvjBDdA)
+* [July 13th, 2021 Livestream Q&A: Creative Mode?](./transcriptions/yt-vUd-XU0sTXo.md) [https://www.youtube.com/watch?v=vUd-XU0sTXo](https://www.youtube.com/watch?v=vUd-XU0sTXo)
+* [May 4th, 2021 Livestream Q&A: Will there be a Creative Mode?](./transcriptions/yt-t5M96JMVybM.md) [https://www.youtube.com/watch?v=t5M96JMVybM](https://www.youtube.com/watch?v=t5M96JMVybM)
+* [April 20th, 2021 Livestream Q&A: Will there be Creative Mode?](./transcriptions/yt-AE7doTpLQOU.md) [https://www.youtube.com/watch?v=AE7doTpLQOU](https://www.youtube.com/watch?v=AE7doTpLQOU)
+* [March 30th, 2021 Livestream Q&A: Is Creative Mode coming?](./transcriptions/yt-l4yloW6vhr8.md) [https://www.youtube.com/watch?v=l4yloW6vhr8](https://www.youtube.com/watch?v=l4yloW6vhr8)
+* March 16th, 2021 Livestream Q&A: Will there be a Creative Mode? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=8639&end=8654](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=8639&end=8654)
+* [February 2nd, 2021 Livestream Q&A: Is Creative Mode coming?](./transcriptions/yt-aJZ3jTvUHHQ.md) [https://www.youtube.com/watch?v=aJZ3jTvUHHQ](https://www.youtube.com/watch?v=aJZ3jTvUHHQ)
+* [December 15th, 2020 Livestream Q&A: How about Creative Mode?](./transcriptions/yt-pFc0pdgYnlU.md) [https://www.youtube.com/watch?v=pFc0pdgYnlU](https://www.youtube.com/watch?v=pFc0pdgYnlU)
+* December 8th, 2020 Livestream Q&A: Will there be a creative-style mode in the future? [https://www.youtube.com/watch?v=ba7BBZw0IsU](https://www.youtube.com/watch?v=ba7BBZw0IsU)
+* [November 10th, 2020 Livestream Q&A: Is there going to be a Creative Mode?](./transcriptions/yt-NNUESlRoCJ8.md) [https://www.youtube.com/watch?v=NNUESlRoCJ8](https://www.youtube.com/watch?v=NNUESlRoCJ8)
+* [November 3rd, 2020 Livestream Q&A: Is there going to be a Creative Mode?](./transcriptions/yt-Yn4Brcx8CSs.md) [https://www.youtube.com/watch?v=Yn4Brcx8CSs](https://www.youtube.com/watch?v=Yn4Brcx8CSs)
+* [September 29th, 2020 Livestream Q&A: Satisfactory Sandbox ever?](./transcriptions/yt-3m68c85bVUM.md) [https://www.youtube.com/watch?v=3m68c85bVUM](https://www.youtube.com/watch?v=3m68c85bVUM)
+* [September 22nd, 2020 Livestream Q&A: Will there be a Creative Mode?](./transcriptions/yt-nz4VgYaVDDo.md) [https://www.youtube.com/watch?v=nz4VgYaVDDo](https://www.youtube.com/watch?v=nz4VgYaVDDo)
+* [September 1st, 2020 Livestream Q&A: Is there going to be creative mode?](./transcriptions/yt-zZILz6cMKbw.md) [https://www.youtube.com/watch?v=zZILz6cMKbw](https://www.youtube.com/watch?v=zZILz6cMKbw)
+* August 18th, 2020 Livestream Q&A: When is Creative Mode coming? [https://clips.twitch.tv/MagnificentImpartialSmoothieMikeHogu](https://clips.twitch.tv/MagnificentImpartialSmoothieMikeHogu)
+* [March 24th, 2020 Livestream Q&A: Wouldn't you split normal & Creative Mode then not allow switching?](./transcriptions/yt-7xTscBSrsY0.md) [https://www.youtube.com/watch?v=7xTscBSrsY0](https://www.youtube.com/watch?v=7xTscBSrsY0)
+* [March 24th, 2020 Livestream Q&A: Creative Mode without having to Mod?](./transcriptions/yt-ww37EE17YP4.md) [https://www.youtube.com/watch?v=ww37EE17YP4](https://www.youtube.com/watch?v=ww37EE17YP4)
+* [March 9th, 2019 Livestream Q&A: Will there be a creative mode?](./transcriptions/yt-eIPuM39KDcE.md) [https://www.youtube.com/watch?v=eIPuM39KDcE](https://www.youtube.com/watch?v=eIPuM39KDcE)
+* [February 6th, 2019 Livestream Q&A: Sandbox mode available?](./transcriptions/yt-Dtm6xIj-wM4,1962.712002,2009.493406.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1962&end=2010](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1962&end=2010)
+* [August 1st, 2018 Q&A: Will there be a Creative Mode?](./transcriptions/yt-iFAy1NZUOGU,14,29.md) [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=14&end=29](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=14&end=29)
+</details>
+
+### [Q&A: Adding Elevators?](./transcriptions/yt-iVDRQg_aWpU,6422.266072012346,6448.7188.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6422&end=6449](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6422&end=6449)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> the regular game because i know there's still a few features that we want to implement from dedicated servers that we haven't done yet and that's going to keep happening uh yeah and the dedicated servers are like uh still in their infancy so to speak and so like it's uh it's there's gonna be a lot more meaningful changes coming to that quicker than like the the main game itself yeah true story rock galactic enabled unreal engine vr plug and support from modding any chance you could do the same
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 20 other times, as recently as November 2021 and as early as December 2019.</summary>
+
+* [November 9th, 2021 Livestream Q&A: Will there ever be lifts for Vehicles & Players?](./transcriptions/yt-wSEbzReDRqc.md) [https://www.youtube.com/watch?v=wSEbzReDRqc](https://www.youtube.com/watch?v=wSEbzReDRqc)
+* November 2nd, 2021 Livestream Q&A: Will there ever be Elevators? [https://www.youtube.com/watch?v=e-r3tL5dY_8](https://www.youtube.com/watch?v=e-r3tL5dY_8)
+* [August 24th, 2021 Livestream Q&A: Any plans on an actual Elevator?](./transcriptions/yt-Ot_nXF5yBfU.md) [https://www.youtube.com/watch?v=Ot_nXF5yBfU](https://www.youtube.com/watch?v=Ot_nXF5yBfU)
+* [August 17th, 2021 Livestream Q&A: Elevators?](./transcriptions/yt-QFluxC4JyLI.md) [https://www.youtube.com/watch?v=QFluxC4JyLI](https://www.youtube.com/watch?v=QFluxC4JyLI)
+* [August 3rd, 2021 Livestream Q&A: Will there be passenger elevators in the game in Update 5?](./transcriptions/yt-qOQrrNMcI8g.md) [https://www.youtube.com/watch?v=qOQrrNMcI8g](https://www.youtube.com/watch?v=qOQrrNMcI8g)
+* [June 29th, 2021 Livestream Q&A: Elevators, when?](./transcriptions/yt-fRuFxL5hv-I.md) [https://www.youtube.com/watch?v=fRuFxL5hv-I](https://www.youtube.com/watch?v=fRuFxL5hv-I)
+* [June 8th, 2021 Livestream Q&A: How about an Elevator big enough for Vehicles?](./transcriptions/yt-VI3dLtemVvg.md) [https://www.youtube.com/watch?v=VI3dLtemVvg](https://www.youtube.com/watch?v=VI3dLtemVvg)
+* [June 1st, 2021 Livestream Q&A: Any plans for an Elevator for those of us that build mega factories?](./transcriptions/yt-snzgCf54CIQ.md) [https://www.youtube.com/watch?v=snzgCf54CIQ](https://www.youtube.com/watch?v=snzgCf54CIQ)
+* [April 20th, 2021 Livestream Q&A: Vertical elevators for character and transport?](./transcriptions/yt-uLe9eMpCxRg.md) [https://www.youtube.com/watch?v=uLe9eMpCxRg](https://www.youtube.com/watch?v=uLe9eMpCxRg)
+* [March 23rd, 2021 Livestream Q&A: How about Train Elevators?](./transcriptions/yt-OsGX9e5N9wk.md) [https://www.youtube.com/watch?v=OsGX9e5N9wk](https://www.youtube.com/watch?v=OsGX9e5N9wk)
+* [November 10th, 2020 Livestream Q&A: Any plans for Elevators?](./transcriptions/yt-VUe1w6nSdko.md) [https://www.youtube.com/watch?v=VUe1w6nSdko](https://www.youtube.com/watch?v=VUe1w6nSdko)
+* [September 29th, 2020 Livestream Q&A: Any plans for an elevator or lift?](./transcriptions/yt-zoHTyGXCbsM.md) [https://www.youtube.com/watch?v=zoHTyGXCbsM](https://www.youtube.com/watch?v=zoHTyGXCbsM)
+* [September 15th, 2020 Livestream Q&A: Are you guys going to make a Player Elevator?](./transcriptions/yt-KTp_pmyifGo.md) [https://www.youtube.com/watch?v=KTp_pmyifGo](https://www.youtube.com/watch?v=KTp_pmyifGo)
+* [September 8th, 2020 Livestream Q&A: Elevator for Vehicles & Players?](./transcriptions/yt-v_KEYdpCb-k.md) [https://www.youtube.com/watch?v=v_KEYdpCb-k](https://www.youtube.com/watch?v=v_KEYdpCb-k)
+* [August 25th, 2020 Livestream Q&A: Actual Elevators with floor-select buttons ?](./transcriptions/yt-vZxhnaT88dc.md) [https://www.youtube.com/watch?v=vZxhnaT88dc](https://www.youtube.com/watch?v=vZxhnaT88dc)
+* [August 25th, 2020 Livestream Q&A: Do you have plans for elevators usable for players?](./transcriptions/yt-ZnuY8kzdKQU.md) [https://www.youtube.com/watch?v=ZnuY8kzdKQU](https://www.youtube.com/watch?v=ZnuY8kzdKQU)
+* August 11th, 2020 Livestream Q&A: Elevators? [https://clips.twitch.tv/HelpfulSuaveScallionPeanutButterJellyTime](https://clips.twitch.tv/HelpfulSuaveScallionPeanutButterJellyTime)
+* December 19th, 2019 Livestream Q&A: Vehicle Lifts? [https://www.youtube.com/watch?v=ayGH9w3sEBo](https://www.youtube.com/watch?v=ayGH9w3sEBo)
+* [December 19th, 2019 Livestream Q&A: How about personal elevators?](./transcriptions/yt-f3TtRJWOI2Q.md) [https://www.youtube.com/watch?v=f3TtRJWOI2Q](https://www.youtube.com/watch?v=f3TtRJWOI2Q)
+* [December 19th, 2019 Livestream Q&A: Human Elevators?](./transcriptions/yt-HGwoBSLqtcw.md) [https://www.youtube.com/watch?v=HGwoBSLqtcw](https://www.youtube.com/watch?v=HGwoBSLqtcw)
+</details>
+
+## [November 16th, 2021 Livestream](./2021-11-16.md)
 ### [Q&A: Will the Server be multi-threaded like the game client?](./transcriptions/yt-G58lDUp0lhk.md) [https://www.youtube.com/watch?v=G58lDUp0lhk](https://www.youtube.com/watch?v=G58lDUp0lhk)
 
 <details>
@@ -322,42 +529,6 @@ date: Last Modified
 * [November 3rd, 2020 Livestream Q&A: What's your thoughts on hanging Conveyor Mounts?](./transcriptions/yt-M0C_VG2rMCI.md) [https://www.youtube.com/watch?v=M0C_VG2rMCI](https://www.youtube.com/watch?v=M0C_VG2rMCI)
 </details>
 
-### [Q&A: Any plans for sandbox/Creative Mode?](./transcriptions/yt-B5eQjR_7TxY.md) [https://www.youtube.com/watch?v=B5eQjR_7TxY](https://www.youtube.com/watch?v=B5eQjR_7TxY)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> uh any plans for sandbox creative mode yes we have plans for that um but we don't know when that will happen um we have plans for like general game modes like game modes um shut up uh so that enclosed like like pacifist mode i guess is the term or peaceful mode um so the animals don't harm you and stuff like that and yeah creative mode is one thing that's been requested a lot um people have also requested like halving the values and stuff like that i don't know exactly what gamers that are we're actually going to do these are just like suggestions that we've heard but yeah creative mode and peaceful mode two of the ones that i've heard the most and i'm pretty sure those are gonna happen at some point
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 20 other times, as recently as August 2021 and as early as August 2018.</summary>
-
-* [August 10th, 2021 Livestream Q&A: Is there going to be a sandbox mode in Satisfactory?](./transcriptions/yt-xH1ucvjBDdA.md) [https://www.youtube.com/watch?v=xH1ucvjBDdA](https://www.youtube.com/watch?v=xH1ucvjBDdA)
-* [July 13th, 2021 Livestream Q&A: Creative Mode?](./transcriptions/yt-vUd-XU0sTXo.md) [https://www.youtube.com/watch?v=vUd-XU0sTXo](https://www.youtube.com/watch?v=vUd-XU0sTXo)
-* [May 4th, 2021 Livestream Q&A: Will there be a Creative Mode?](./transcriptions/yt-t5M96JMVybM.md) [https://www.youtube.com/watch?v=t5M96JMVybM](https://www.youtube.com/watch?v=t5M96JMVybM)
-* [April 20th, 2021 Livestream Q&A: Will there be Creative Mode?](./transcriptions/yt-AE7doTpLQOU.md) [https://www.youtube.com/watch?v=AE7doTpLQOU](https://www.youtube.com/watch?v=AE7doTpLQOU)
-* [March 30th, 2021 Livestream Q&A: Is Creative Mode coming?](./transcriptions/yt-l4yloW6vhr8.md) [https://www.youtube.com/watch?v=l4yloW6vhr8](https://www.youtube.com/watch?v=l4yloW6vhr8)
-* March 16th, 2021 Livestream Q&A: Will there be a Creative Mode? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=8639&end=8654](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=8639&end=8654)
-* [February 2nd, 2021 Livestream Q&A: Is Creative Mode coming?](./transcriptions/yt-aJZ3jTvUHHQ.md) [https://www.youtube.com/watch?v=aJZ3jTvUHHQ](https://www.youtube.com/watch?v=aJZ3jTvUHHQ)
-* [December 15th, 2020 Livestream Q&A: How about Creative Mode?](./transcriptions/yt-pFc0pdgYnlU.md) [https://www.youtube.com/watch?v=pFc0pdgYnlU](https://www.youtube.com/watch?v=pFc0pdgYnlU)
-* December 8th, 2020 Livestream Q&A: Will there be a creative-style mode in the future? [https://www.youtube.com/watch?v=ba7BBZw0IsU](https://www.youtube.com/watch?v=ba7BBZw0IsU)
-* [November 10th, 2020 Livestream Q&A: Is there going to be a Creative Mode?](./transcriptions/yt-NNUESlRoCJ8.md) [https://www.youtube.com/watch?v=NNUESlRoCJ8](https://www.youtube.com/watch?v=NNUESlRoCJ8)
-* [November 3rd, 2020 Livestream Q&A: Is there going to be a Creative Mode?](./transcriptions/yt-Yn4Brcx8CSs.md) [https://www.youtube.com/watch?v=Yn4Brcx8CSs](https://www.youtube.com/watch?v=Yn4Brcx8CSs)
-* [September 29th, 2020 Livestream Q&A: Satisfactory Sandbox ever?](./transcriptions/yt-3m68c85bVUM.md) [https://www.youtube.com/watch?v=3m68c85bVUM](https://www.youtube.com/watch?v=3m68c85bVUM)
-* [September 22nd, 2020 Livestream Q&A: Will there be a Creative Mode?](./transcriptions/yt-nz4VgYaVDDo.md) [https://www.youtube.com/watch?v=nz4VgYaVDDo](https://www.youtube.com/watch?v=nz4VgYaVDDo)
-* [September 1st, 2020 Livestream Q&A: Is there going to be creative mode?](./transcriptions/yt-zZILz6cMKbw.md) [https://www.youtube.com/watch?v=zZILz6cMKbw](https://www.youtube.com/watch?v=zZILz6cMKbw)
-* August 18th, 2020 Livestream Q&A: When is Creative Mode coming? [https://clips.twitch.tv/MagnificentImpartialSmoothieMikeHogu](https://clips.twitch.tv/MagnificentImpartialSmoothieMikeHogu)
-* [March 24th, 2020 Livestream Q&A: Wouldn't you split normal & Creative Mode then not allow switching?](./transcriptions/yt-7xTscBSrsY0.md) [https://www.youtube.com/watch?v=7xTscBSrsY0](https://www.youtube.com/watch?v=7xTscBSrsY0)
-* [March 24th, 2020 Livestream Q&A: Creative Mode without having to Mod?](./transcriptions/yt-ww37EE17YP4.md) [https://www.youtube.com/watch?v=ww37EE17YP4](https://www.youtube.com/watch?v=ww37EE17YP4)
-* [March 9th, 2019 Livestream Q&A: Will there be a creative mode?](./transcriptions/yt-eIPuM39KDcE.md) [https://www.youtube.com/watch?v=eIPuM39KDcE](https://www.youtube.com/watch?v=eIPuM39KDcE)
-* [February 6th, 2019 Livestream Q&A: Sandbox mode available?](./transcriptions/yt-Dtm6xIj-wM4,1962.712002,2009.493406.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1962&end=2010](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1962&end=2010)
-* [August 1st, 2018 Q&A: Will there be a Creative Mode?](./transcriptions/yt-iFAy1NZUOGU,14,29.md) [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=14&end=29](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=14&end=29)
-</details>
-
 ### [Q&A: Will you add an alien goat to Satisfactory?](./transcriptions/yt-qjwd46Lr2og.md) [https://www.youtube.com/watch?v=qjwd46Lr2og](https://www.youtube.com/watch?v=qjwd46Lr2og)
 
 <details>
@@ -398,41 +569,6 @@ date: Last Modified
 
 * July 6th, 2021 Livestream Q&A: Have you all added Easter Eggs in the game that have not yet been discovered? [https://www.youtube.com/watch?v=aLNaD031GPw](https://www.youtube.com/watch?v=aLNaD031GPw)
 * [November 10th, 2020 Livestream Q&A: Any Easter Eggs nobody's found yet?](./transcriptions/yt-6z70mPmDc5g.md) [https://www.youtube.com/watch?v=6z70mPmDc5g](https://www.youtube.com/watch?v=6z70mPmDc5g)
-</details>
-
-### [Q&A: Will there ever be lifts for Vehicles & Players?](./transcriptions/yt-wSEbzReDRqc.md) [https://www.youtube.com/watch?v=wSEbzReDRqc](https://www.youtube.com/watch?v=wSEbzReDRqc)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> will ever be able to lifts for vehicles and players i don't know i probably not but uh i'll put that on kiwi site that's like one of the main reasons we added hyper tubes was to sort of resolve that uh so new probably not but always up on the keyword site you know if it gets 2 500 votes then we'll add it wait will be though
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 19 other times, as recently as November 2021 and as early as December 2019.</summary>
-
-* November 2nd, 2021 Livestream Q&A: Will there ever be Elevators? [https://www.youtube.com/watch?v=e-r3tL5dY_8](https://www.youtube.com/watch?v=e-r3tL5dY_8)
-* [August 24th, 2021 Livestream Q&A: Any plans on an actual Elevator?](./transcriptions/yt-Ot_nXF5yBfU.md) [https://www.youtube.com/watch?v=Ot_nXF5yBfU](https://www.youtube.com/watch?v=Ot_nXF5yBfU)
-* [August 17th, 2021 Livestream Q&A: Elevators?](./transcriptions/yt-QFluxC4JyLI.md) [https://www.youtube.com/watch?v=QFluxC4JyLI](https://www.youtube.com/watch?v=QFluxC4JyLI)
-* [August 3rd, 2021 Livestream Q&A: Will there be passenger elevators in the game in Update 5?](./transcriptions/yt-qOQrrNMcI8g.md) [https://www.youtube.com/watch?v=qOQrrNMcI8g](https://www.youtube.com/watch?v=qOQrrNMcI8g)
-* [June 29th, 2021 Livestream Q&A: Elevators, when?](./transcriptions/yt-fRuFxL5hv-I.md) [https://www.youtube.com/watch?v=fRuFxL5hv-I](https://www.youtube.com/watch?v=fRuFxL5hv-I)
-* [June 8th, 2021 Livestream Q&A: How about an Elevator big enough for Vehicles?](./transcriptions/yt-VI3dLtemVvg.md) [https://www.youtube.com/watch?v=VI3dLtemVvg](https://www.youtube.com/watch?v=VI3dLtemVvg)
-* [June 1st, 2021 Livestream Q&A: Any plans for an Elevator for those of us that build mega factories?](./transcriptions/yt-snzgCf54CIQ.md) [https://www.youtube.com/watch?v=snzgCf54CIQ](https://www.youtube.com/watch?v=snzgCf54CIQ)
-* [April 20th, 2021 Livestream Q&A: Vertical elevators for character and transport?](./transcriptions/yt-uLe9eMpCxRg.md) [https://www.youtube.com/watch?v=uLe9eMpCxRg](https://www.youtube.com/watch?v=uLe9eMpCxRg)
-* [March 23rd, 2021 Livestream Q&A: How about Train Elevators?](./transcriptions/yt-OsGX9e5N9wk.md) [https://www.youtube.com/watch?v=OsGX9e5N9wk](https://www.youtube.com/watch?v=OsGX9e5N9wk)
-* [November 10th, 2020 Livestream Q&A: Any plans for Elevators?](./transcriptions/yt-VUe1w6nSdko.md) [https://www.youtube.com/watch?v=VUe1w6nSdko](https://www.youtube.com/watch?v=VUe1w6nSdko)
-* [September 29th, 2020 Livestream Q&A: Any plans for an elevator or lift?](./transcriptions/yt-zoHTyGXCbsM.md) [https://www.youtube.com/watch?v=zoHTyGXCbsM](https://www.youtube.com/watch?v=zoHTyGXCbsM)
-* [September 15th, 2020 Livestream Q&A: Are you guys going to make a Player Elevator?](./transcriptions/yt-KTp_pmyifGo.md) [https://www.youtube.com/watch?v=KTp_pmyifGo](https://www.youtube.com/watch?v=KTp_pmyifGo)
-* [September 8th, 2020 Livestream Q&A: Elevator for Vehicles & Players?](./transcriptions/yt-v_KEYdpCb-k.md) [https://www.youtube.com/watch?v=v_KEYdpCb-k](https://www.youtube.com/watch?v=v_KEYdpCb-k)
-* [August 25th, 2020 Livestream Q&A: Actual Elevators with floor-select buttons ?](./transcriptions/yt-vZxhnaT88dc.md) [https://www.youtube.com/watch?v=vZxhnaT88dc](https://www.youtube.com/watch?v=vZxhnaT88dc)
-* [August 25th, 2020 Livestream Q&A: Do you have plans for elevators usable for players?](./transcriptions/yt-ZnuY8kzdKQU.md) [https://www.youtube.com/watch?v=ZnuY8kzdKQU](https://www.youtube.com/watch?v=ZnuY8kzdKQU)
-* August 11th, 2020 Livestream Q&A: Elevators? [https://clips.twitch.tv/HelpfulSuaveScallionPeanutButterJellyTime](https://clips.twitch.tv/HelpfulSuaveScallionPeanutButterJellyTime)
-* December 19th, 2019 Livestream Q&A: Vehicle Lifts? [https://www.youtube.com/watch?v=ayGH9w3sEBo](https://www.youtube.com/watch?v=ayGH9w3sEBo)
-* [December 19th, 2019 Livestream Q&A: How about personal elevators?](./transcriptions/yt-f3TtRJWOI2Q.md) [https://www.youtube.com/watch?v=f3TtRJWOI2Q](https://www.youtube.com/watch?v=f3TtRJWOI2Q)
-* [December 19th, 2019 Livestream Q&A: Human Elevators?](./transcriptions/yt-HGwoBSLqtcw.md) [https://www.youtube.com/watch?v=HGwoBSLqtcw](https://www.youtube.com/watch?v=HGwoBSLqtcw)
 </details>
 
 ### [Q&A: Will there ever be rounded Foundations?](./transcriptions/yt-B6jTKTB_WmE.md) [https://www.youtube.com/watch?v=B6jTKTB_WmE](https://www.youtube.com/watch?v=B6jTKTB_WmE)
@@ -1051,23 +1187,6 @@ date: Last Modified
 </details>
 
 ## [October 26th, 2021 Update 5 Launch Stream and Patch Notes Video](./2021-10-26.md)
-### Q&A: VR? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=1803&end=1874](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=1803&end=1874)
-
-<details>
-<summary>This question may have been asked previously at least 10 other times, as recently as October 2021 and as early as August 2018.</summary>
-
-* [October 12th, 2021 Livestream Q&A: When does VR support come?](./transcriptions/yt-5GIATvK8NVQ.md) [https://www.youtube.com/watch?v=5GIATvK8NVQ](https://www.youtube.com/watch?v=5GIATvK8NVQ)
-* [June 22nd, 2021 Livestream Q&A: Are there any plans for VR?](./transcriptions/yt-aSo4zUTOCwE.md) [https://www.youtube.com/watch?v=aSo4zUTOCwE](https://www.youtube.com/watch?v=aSo4zUTOCwE)
-* [April 27th, 2021 Livestream Q&A: Any chance for a VR port?](./transcriptions/yt-bPmfShefJi4.md) [https://www.youtube.com/watch?v=bPmfShefJi4](https://www.youtube.com/watch?v=bPmfShefJi4)
-* [April 20th, 2021 Livestream Q&A: VR, when?](./transcriptions/yt-njMrANjFNLc.md) [https://www.youtube.com/watch?v=njMrANjFNLc](https://www.youtube.com/watch?v=njMrANjFNLc)
-* [March 9th, 2021 Livestream Q&A: VR Support at any time?](./transcriptions/yt-TKv8QdGLBW0.md) [https://www.youtube.com/watch?v=TKv8QdGLBW0](https://www.youtube.com/watch?v=TKv8QdGLBW0)
-* [January 26th, 2021 Livestream Q&A: VR support would be heavenly?](./transcriptions/yt-0Ld1fbTEOvM.md) [https://www.youtube.com/watch?v=0Ld1fbTEOvM](https://www.youtube.com/watch?v=0Ld1fbTEOvM)
-* [November 3rd, 2020 Livestream Q&A: VR Support?](./transcriptions/yt-eJz8dJImPfQ.md) [https://www.youtube.com/watch?v=eJz8dJImPfQ](https://www.youtube.com/watch?v=eJz8dJImPfQ)
-* [September 8th, 2020 Livestream Q&A: Ever consider making a VR version of Satisfactory?](./transcriptions/yt-3s-PKymQ9QU.md) [https://www.youtube.com/watch?v=3s-PKymQ9QU](https://www.youtube.com/watch?v=3s-PKymQ9QU)
-* [February 6th, 2019 Livestream Q&A: Will there be VR support?](./transcriptions/yt-Dtm6xIj-wM4,2442.266666666667,2534.034208.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2442&end=2535](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2442&end=2535)
-* [August 1st, 2018 Q&A: What about VR support?](./transcriptions/yt-iFAy1NZUOGU,66.08,68.24.md) [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=66&end=69](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=66&end=69)
-</details>
-
 ### Q&A: Dedicated Servers? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=1873&end=2084](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=1873&end=2084)
 
 <details>
@@ -1634,33 +1753,6 @@ date: Last Modified
 * [August 31st, 2021 Livestream Q&A: Any Halloween FICSIT Event planned?](./transcriptions/yt-aCMDITIQ5WQ.md) [https://www.youtube.com/watch?v=aCMDITIQ5WQ](https://www.youtube.com/watch?v=aCMDITIQ5WQ)
 * [August 10th, 2021 Livestream Q&A: FICS'oween event?](./transcriptions/yt-56NgRh-X8ME.md) [https://www.youtube.com/watch?v=56NgRh-X8ME](https://www.youtube.com/watch?v=56NgRh-X8ME)
 * [October 20th, 2020 Livestream Q&A: Any Halloween Event?](./transcriptions/yt-WU3ncx4Ok3Y.md) [https://www.youtube.com/watch?v=WU3ncx4Ok3Y](https://www.youtube.com/watch?v=WU3ncx4Ok3Y)
-</details>
-
-### [Q&A: What's the state of the Story?](./transcriptions/yt-gxRkjiYNeXc.md) [https://www.youtube.com/watch?v=gxRkjiYNeXc](https://www.youtube.com/watch?v=gxRkjiYNeXc)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> um let's see here questions questions what's the state of the story uh being worked on sure is worked on and we won't tell you anything about it yep
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 11 other times, as recently as September 2021 and as early as March 2021.</summary>
-
-* [September 28th, 2021 Livestream Q&A: State of Story?](./transcriptions/yt-5Miaujx7O3A.md) [https://www.youtube.com/watch?v=5Miaujx7O3A](https://www.youtube.com/watch?v=5Miaujx7O3A)
-* [September 21st, 2021 Livestream Q&A: Is all the Story stuff finished?](./transcriptions/yt-mUNB0jMlwd0.md) [https://www.youtube.com/watch?v=mUNB0jMlwd0](https://www.youtube.com/watch?v=mUNB0jMlwd0)
-* [June 8th, 2021 Livestream Q&A: What about Story?](./transcriptions/yt-SYYJy7HzehA.md) [https://www.youtube.com/watch?v=SYYJy7HzehA](https://www.youtube.com/watch?v=SYYJy7HzehA)
-* [May 18th, 2021 Livestream Q&A: Is there any sort of Story planned?](./transcriptions/yt-8cZ-oH-WA3E.md) [https://www.youtube.com/watch?v=8cZ-oH-WA3E](https://www.youtube.com/watch?v=8cZ-oH-WA3E)
-* [May 11th, 2021 Livestream Q&A: Do you have a clear idea of the Story Mode yet?](./transcriptions/yt-Zc2lKKROexI.md) [https://www.youtube.com/watch?v=Zc2lKKROexI](https://www.youtube.com/watch?v=Zc2lKKROexI)
-* [May 4th, 2021 Livestream Q&A: Will there be Story?](./transcriptions/yt-SKa_F6Km7sA.md) [https://www.youtube.com/watch?v=SKa_F6Km7sA](https://www.youtube.com/watch?v=SKa_F6Km7sA)
-* [March 30th, 2021 Livestream Q&A: Will there be Story to the game?](./transcriptions/yt-C23SCWtnv2U.md) [https://www.youtube.com/watch?v=C23SCWtnv2U](https://www.youtube.com/watch?v=C23SCWtnv2U)
-* [March 23rd, 2021 Livestream Q&A: Any Story hints?](./transcriptions/yt-83bWsjYlMrM.md) [https://www.youtube.com/watch?v=83bWsjYlMrM](https://www.youtube.com/watch?v=83bWsjYlMrM)
-* March 16th, 2021 Livestream Q&A: Storyline? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=8722&end=8747](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=8722&end=8747)
-* [March 9th, 2021 Livestream Q&A: Is Lore & Story progressing well, not well, or not at all?](./transcriptions/yt-UHWeEsduD0Q.md) [https://www.youtube.com/watch?v=UHWeEsduD0Q](https://www.youtube.com/watch?v=UHWeEsduD0Q)
-* [March 2nd, 2021 Livestream Q&A: Is the Story completely written or is it still in progress?](./transcriptions/yt-YrcsAlypXbo.md) [https://www.youtube.com/watch?v=YrcsAlypXbo](https://www.youtube.com/watch?v=YrcsAlypXbo)
 </details>
 
 ### [Q&A: Why can't we have a rideable Drone?](./transcriptions/yt-UmndxzpLEwk.md) [https://www.youtube.com/watch?v=UmndxzpLEwk](https://www.youtube.com/watch?v=UmndxzpLEwk)
@@ -2695,26 +2787,6 @@ date: Last Modified
 </details>
 
 ## [August 17th, 2021 Livestream](./2021-08-17.md)
-### [Q&A: Any chance for improved controller support?](./transcriptions/yt-jZYkquJsDyM.md) [https://www.youtube.com/watch?v=jZYkquJsDyM](https://www.youtube.com/watch?v=jZYkquJsDyM)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> uh any chance for improved control support it's always possible um i i don't know what our like official stance is anymore unlike control yeah i think we want it but but like but no so i i it's actually something that's been thrown around a little bit more in like in discussion recently too so i don't think there's been any really like any decision has been made internally on whether or not we're going to do another possible control support or if we aim on having complete control support or if we at the very least uh have it so that you can map controllers to f to functions so people who need those kind of things for like accessibility reasons can just do that um yeah we're not really sure to what extent we're gonna do control support at this stage but um yeah it is something that has popped up again in conversation within the studio recently so yeah we'll sort of see don't don't have an answer for you though and if you guys are curious like if you haven't heard before uh like the main reason why we haven't really had control support is because every time we update the game we also have to like maintain control and support and there's a lot of elements to the game that like we have to maintain all the time every time we work on the game and since we're in early access and we're developing the game it's it's so much effort to just like every time we add a feature go back to the controller mapping and be like all right i'm going to fix it so it works with that and then go back to the feature and then sometimes maybe they don't work well together um so like it's it's it's one of those things where like it takes a lot of development effort that sort of we're going to have to revisit at some point anyways if we want to do it so like the closest might as well just do it at the end exactly um and i know it sucks for like people that maybe have like disabilities or like want accessibility options in the game there are some ways to like use steam if you're if you own the game on steam um to use the steam mapping thingamajig i'm not quite sure exactly how it works because i've never done it but some people have pointed out that it is possible to like play most of the game on the controller uh currently using that uh but i'm not exactly sure how it works but i'm sure there are some guides or some people out there that can help you out but that's the main reason why we haven't done it so far
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 4 other times, as recently as September 2020 and as early as February 2019.</summary>
-
-* [September 22nd, 2020 Livestream Q&A: Unreal Engine has default Controller support without you guys remapping?](./transcriptions/yt-ypJikGBEdvs.md) [https://www.youtube.com/watch?v=ypJikGBEdvs](https://www.youtube.com/watch?v=ypJikGBEdvs)
-* [September 22nd, 2020 Livestream Q&A: Confused on the use of Controllers?](./transcriptions/yt-BuC0nQS2Kqs.md) [https://www.youtube.com/watch?v=BuC0nQS2Kqs](https://www.youtube.com/watch?v=BuC0nQS2Kqs)
-* [March 9th, 2019 Livestream Q&A: Controller support?](./transcriptions/yt-XrsD3h62ils.md) [https://www.youtube.com/watch?v=XrsD3h62ils](https://www.youtube.com/watch?v=XrsD3h62ils)
-* [February 6th, 2019 Livestream Q&A: Controller support?](./transcriptions/yt-Dtm6xIj-wM4,4052.6,4151.820477.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=4052&end=4152](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=4052&end=4152)
-</details>
-
 ### [Q&A: How do factories keep running if they're not actually loaded?](./transcriptions/yt-jcWCvjYzlvw.md) [https://www.youtube.com/watch?v=jcWCvjYzlvw](https://www.youtube.com/watch?v=jcWCvjYzlvw)
 
 <details>

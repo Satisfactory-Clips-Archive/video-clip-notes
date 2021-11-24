@@ -3,7 +3,7 @@ title: "Quick Switch"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiErGzhsUN4suUKqAYQpEPrbm
 date: Last Modified
 ---
-# [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > Planned Features > [Build Modes](../../../../topics/features/planned-features/build-modes.md) > Quick Switch
+# [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > [Planned Features](../../../../topics/features/planned-features.md) > [Build Modes](../../../../topics/features/planned-features/build-modes.md) > Quick Switch
 
 ## November 12th, 2021 Video
 * Snutt Talk: Quick Switching [https://youtube.com/clip/UgkxmGWwvlZ15Vmv2e8Az3y4EINRTnq5eFSU](https://youtube.com/clip/UgkxmGWwvlZ15Vmv2e8Az3y4EINRTnq5eFSU)

@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Unplanned Features](../../../topics/features/unplanned-features.md) > Golf
 
+## November 23rd, 2021 Livestream
+* [Trolling: Golf is in Patch Notes](../../../transcriptions/yt-iVDRQg_aWpU,719.7999333518518,727.961643.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=719&end=728](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=719&end=728)
+* [Q&A: Golf, when?](../../../transcriptions/yt-iVDRQg_aWpU,4826.73288641358,4833.520066.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=4826&end=4834](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=4826&end=4834)
+
 ## November 9th, 2021 Livestream
 * [Q&A: Golf, when?](../../../transcriptions/yt-kYn6eCYtK6w.md) [https://www.youtube.com/watch?v=kYn6eCYtK6w](https://www.youtube.com/watch?v=kYn6eCYtK6w)
 * [Community FYI: If a QA Site Post reaches 2500, it gets auto-rejected](../../../transcriptions/yt-jMtXOWsfTKw.md) [https://www.youtube.com/watch?v=jMtXOWsfTKw](https://www.youtube.com/watch?v=jMtXOWsfTKw)

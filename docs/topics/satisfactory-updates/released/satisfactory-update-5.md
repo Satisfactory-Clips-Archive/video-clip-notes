@@ -8,6 +8,21 @@ date: Last Modified
 * [#SaveTheWillows](../../../topics/satisfactory-updates/released/satisfactory-update-5/save-the-willows.md)
 * [Update 5 Torsten's Cosmetics Whiteboard](../../../topics/satisfactory-updates/released/satisfactory-update-5/torstens-cosmetics-whiteboard.md)
 
+## November 23rd, 2021 Livestream
+* [Snutt & Jace Talk: Update 5 Teaser Season Supercut & Update 5 Launch](../../../transcriptions/yt-iVDRQg_aWpU,389.7332972469136,605.540672.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=389&end=606](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=389&end=606)
+* [State of Dev: Update 5](../../../transcriptions/yt-iVDRQg_aWpU,649.2999398796296,674.7999375185185.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=649&end=675](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=649&end=675)
+* [Q&A: Is the Australian release time the same as that time?](../../../transcriptions/yt-iVDRQg_aWpU,706.880632,717.671532.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=706&end=718](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=706&end=718)
+* [Trolling: Golf is in Patch Notes](../../../transcriptions/yt-iVDRQg_aWpU,719.7999333518518,727.961643.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=719&end=728](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=719&end=728)
+* [Q&A: When does Update 4 come out? When does Update 5 come out?](../../../transcriptions/yt-iVDRQg_aWpU,3885.4996402314814,3895.680472.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=3885&end=3896](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=3885&end=3896)
+* [Q&A: Why does the Early Access version already have a new logo?](../../../transcriptions/yt-iVDRQg_aWpU,4921.643349,4935.973888.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=4921&end=4936](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=4921&end=4936)
+* [Q&A: Will there be updates on Experimental?](../../../transcriptions/yt-iVDRQg_aWpU,5256.797646,5371.849599.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5256&end=5372](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5256&end=5372)
+* [Snutt & Jace Talk: Less than 10 minutes](../../../transcriptions/yt-iVDRQg_aWpU,6002.232777570987,6007.68116.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6002&end=6008](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6002&end=6008)
+* [Snutt & Jace Talk: Planned Features](../../../transcriptions/yt-iVDRQg_aWpU,6114.092788,6155.366922.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6114&end=6156](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6114&end=6156)
+* [Snutt & Jace Talk: Update 5 is out](../../../transcriptions/yt-iVDRQg_aWpU,6656.266050345679,6696.846009.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6656&end=6697](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6656&end=6697)
+* [Snutt & Jace Talk: Update 5 in Steam/Epic + Patch Notes](../../../transcriptions/yt-iVDRQg_aWpU,6746.299375342593,6787.602041.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6746&end=6788](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6746&end=6788)
+* [Community FYI: It's the Zoop Update](../../../transcriptions/yt-iVDRQg_aWpU,6911.186131,6934.491301.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6911&end=6935](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6911&end=6935)
+* [Snutt & Jace Talk: Launcher issues](../../../transcriptions/yt-iVDRQg_aWpU,6948.916099,7001.546274.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6948&end=7002](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6948&end=7002)
+
 ## November 19th, 2021 Video
 * Jace Talk: Update 5 Patch Notes [https://youtube.com/clip/Ugkx4s03_afe0j_tmoNIAcYKpCZ36cudctjG](https://youtube.com/clip/Ugkx4s03_afe0j_tmoNIAcYKpCZ36cudctjG)
 * Jace Talk: New Features [https://youtube.com/clip/UgkxVGpI6RKeOLjUhjj7Mle7nf05-P3dUnpe](https://youtube.com/clip/UgkxVGpI6RKeOLjUhjj7Mle7nf05-P3dUnpe)

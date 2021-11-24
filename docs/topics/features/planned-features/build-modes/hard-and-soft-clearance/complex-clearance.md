@@ -3,7 +3,7 @@ title: "Complex Clearance"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEq_ghuvlyXJ2TEs1dfgjh-3
 date: Last Modified
 ---
-# [Topics](../../../../../topics.md) > [Features](../../../../../topics/features.md) > Planned Features > [Build Modes](../../../../../topics/features/planned-features/build-modes.md) > [Hard & Soft Clearance](../../../../../topics/features/planned-features/build-modes/hard-and-soft-clearance.md) > Complex Clearance
+# [Topics](../../../../../topics.md) > [Features](../../../../../topics/features.md) > [Planned Features](../../../../../topics/features/planned-features.md) > [Build Modes](../../../../../topics/features/planned-features/build-modes.md) > [Hard & Soft Clearance](../../../../../topics/features/planned-features/build-modes/hard-and-soft-clearance.md) > Complex Clearance
 
 ## November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary
 * [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 13)](../../../../../transcriptions/yt-vhvpoKYGVbM.md) [https://www.youtube.com/watch?v=vhvpoKYGVbM](https://www.youtube.com/watch?v=vhvpoKYGVbM)

@@ -8,7 +8,7 @@ topics:
 # [August 17th, 2021 Livestream](../2021-08-17.md)
 ## Q&A: Elevators?
 https://www.youtube.com/watch?v=QFluxC4JyLI
-This question was possibly duplicated with a more recent answer: [November 9th, 2021 Livestream Q&A: Will there ever be lifts for Vehicles & Players?](./yt-wSEbzReDRqc.md) [https://www.youtube.com/watch?v=wSEbzReDRqc](https://www.youtube.com/watch?v=wSEbzReDRqc)
+This question was possibly duplicated with a more recent answer: [November 23rd, 2021 Livestream Q&A: Adding Elevators?](./yt-iVDRQg_aWpU,6422.266072012346,6448.7188.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6422&end=6449](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6422&end=6449)
 
 
 ### Topics

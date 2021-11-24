@@ -6,6 +6,10 @@ date: Last Modified
 # [Topics](../../topics.md) > [Retail](../../topics/retail.md) > Steam Store
 * [Steam Release](../../topics/retail/steam-store/steam-release.md)
 
+## November 23rd, 2021 Livestream
+* [Snutt & Jace Talk: Update 5 in Steam/Epic + Patch Notes](../../transcriptions/yt-iVDRQg_aWpU,6746.299375342593,6787.602041.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6746&end=6788](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6746&end=6788)
+* [Snutt & Jace Talk: Launcher issues](../../transcriptions/yt-iVDRQg_aWpU,6948.916099,7001.546274.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6948&end=7002](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6948&end=7002)
+
 ## November 2nd, 2021 Livestream
 * [Q&A: Dedicated Servers don't show up in my Steam Library, is it a regional thing?](../../transcriptions/yt-6Trsm-es3TQ.md) [https://www.youtube.com/watch?v=6Trsm-es3TQ](https://www.youtube.com/watch?v=6Trsm-es3TQ)
 * [Q&A: Steam CMD or Steam Tools, which is better?](../../transcriptions/yt-1iPCi4jWARg.md) [https://www.youtube.com/watch?v=1iPCi4jWARg](https://www.youtube.com/watch?v=1iPCi4jWARg)

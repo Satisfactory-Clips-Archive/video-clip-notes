@@ -9,11 +9,7 @@ topics:
 # [August 31st, 2021 Livestream](../2021-08-31.md)
 ## Q&A: Are there any plans for adding the tools to the game that you use to make the teasers?
 https://www.youtube.com/watch?v=hgVQCncD4PA
-<details>
-<summary>This question may have been asked previously at least 1 other time, as recently as November 2020.</summary>
-
-* [November 10th, 2020 Livestream Q&A: Any tools to add Cinematic Tools to the game like Machinima or Content Creator purposes?](./yt-tv1pCGiRtkM.md) [https://www.youtube.com/watch?v=tv1pCGiRtkM](https://www.youtube.com/watch?v=tv1pCGiRtkM)
-</details>
+This question was possibly duplicated with a more recent answer: [November 23rd, 2021 Livestream Q&A: How do you make the video camera movements in your trailer?](./yt-iVDRQg_aWpU,4735.134257,4790.865124.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=4735&end=4791](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=4735&end=4791)
 
 
 ### Topics

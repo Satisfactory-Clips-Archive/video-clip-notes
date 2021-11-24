@@ -3,7 +3,7 @@ title: "Build Modes"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiErB8iPe1PpO-x4cGtPIEN24
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > Planned Features > Build Modes
+# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Planned Features](../../../topics/features/planned-features.md) > Build Modes
 * [Hard & Soft Clearance](../../../topics/features/planned-features/build-modes/hard-and-soft-clearance.md)
 * [Quick Switch](../../../topics/features/planned-features/build-modes/quick-switch.md)
 * [Zooping](../../../topics/features/planned-features/build-modes/zooping.md)

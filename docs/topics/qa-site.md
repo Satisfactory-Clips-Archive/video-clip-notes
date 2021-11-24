@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > QA Site
 
+## November 23rd, 2021 Livestream
+* [Q&A: Where to post feedback?](../transcriptions/yt-iVDRQg_aWpU,6299.0327500895055,6355.017889.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6299&end=6356](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6299&end=6356)
+
 ## November 9th, 2021 Livestream
 * [Q&A: A bug from Update 4 where Drone Ports use too many batteries isn't fixed](../transcriptions/yt-k8ZPDghO130.md) [https://www.youtube.com/watch?v=k8ZPDghO130](https://www.youtube.com/watch?v=k8ZPDghO130)
 * [Community FYI: If a QA Site Post reaches 2500, it gets auto-rejected](../transcriptions/yt-jMtXOWsfTKw.md) [https://www.youtube.com/watch?v=jMtXOWsfTKw](https://www.youtube.com/watch?v=jMtXOWsfTKw)

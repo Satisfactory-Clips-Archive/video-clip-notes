@@ -3,7 +3,7 @@ title: "Hard & Soft Clearance"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiErG8xome5LS0FQBrQsdR_vb
 date: Last Modified
 ---
-# [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > Planned Features > [Build Modes](../../../../topics/features/planned-features/build-modes.md) > Hard & Soft Clearance
+# [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > [Planned Features](../../../../topics/features/planned-features.md) > [Build Modes](../../../../topics/features/planned-features/build-modes.md) > Hard & Soft Clearance
 * [Complex Clearance](../../../../topics/features/planned-features/build-modes/hard-and-soft-clearance/complex-clearance.md)
 
 ## November 9th, 2021 Livestream

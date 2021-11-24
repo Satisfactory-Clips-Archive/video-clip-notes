@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Released > Satisfactory Update 4
 
+## November 23rd, 2021 Livestream
+* [Q&A: When does Update 4 come out? When does Update 5 come out?](../../../transcriptions/yt-iVDRQg_aWpU,3885.4996402314814,3895.680472.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=3885&end=3896](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=3885&end=3896)
+
 ## November 9th, 2021 Livestream
 * [Q&A: A bug from Update 4 where Drone Ports use too many batteries isn't fixed](../../../transcriptions/yt-k8ZPDghO130.md) [https://www.youtube.com/watch?v=k8ZPDghO130](https://www.youtube.com/watch?v=k8ZPDghO130)
 

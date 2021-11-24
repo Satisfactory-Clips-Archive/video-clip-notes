@@ -5,6 +5,14 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Multiplayer](../../../topics/features/multiplayer.md) > Dedicated Servers
 
+## November 23rd, 2021 Livestream
+* [Q&A: Dedicated Servers with more than 4 players?](../../../transcriptions/yt-iVDRQg_aWpU,3859.799642611111,3885.463418.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=3859&end=3886](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=3859&end=3886)
+* [Snutt & Jace Talk: Dedicated Servers available on Epic](../../../transcriptions/yt-iVDRQg_aWpU,4935.999542962963,5023.740139.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=4935&end=5024](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=4935&end=5024)
+* [Q&A: Will there be Mod support for Dedicated Servers?](../../../transcriptions/yt-iVDRQg_aWpU,5102.290458,5133.929581.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5102&end=5134](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5102&end=5134)
+* [Q&A: Will there be a variable for SteamCMD for which version to choose?](../../../transcriptions/yt-iVDRQg_aWpU,5546.04042,5771.638973.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5546&end=5772](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5546&end=5772)
+* [Snutt & Jace Talk: Dedicated Servers](../../../transcriptions/yt-iVDRQg_aWpU,6787.632704848766,6827.706659.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6787&end=6828](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6787&end=6828)
+* [Q&A: Which app ids are there for the server branches on SteamCMD?](../../../transcriptions/yt-iVDRQg_aWpU,7001.566018373456,7089.537169.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=7001&end=7090](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=7001&end=7090)
+
 ## November 19th, 2021 Video
 * Jace Talk: Dedicated Server improvements [https://youtube.com/clip/UgkxE0BKdRYgVb1NNgxmIbZelYfWcw7UjyFx](https://youtube.com/clip/UgkxE0BKdRYgVb1NNgxmIbZelYfWcw7UjyFx)
 * Jace Talk: Dedicated Servers for both Experimental & Early Access branch [https://youtube.com/clip/UgkxTS4Zpzn05CvMYsafgvSJzQQLTD2JNoEc](https://youtube.com/clip/UgkxTS4Zpzn05CvMYsafgvSJzQQLTD2JNoEc)

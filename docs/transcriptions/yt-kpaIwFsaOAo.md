@@ -8,7 +8,7 @@ topics:
 # [November 9th, 2021 Livestream](../2021-11-09.md)
 ## Q&A: FICS⁕MAS?
 https://www.youtube.com/watch?v=kpaIwFsaOAo
-This question was possibly duplicated with a more recent answer: [November 16th, 2021 Livestream Q&A: FICS⁕MAS?](./yt-v6qKwwjqagg.md) [https://www.youtube.com/watch?v=v6qKwwjqagg](https://www.youtube.com/watch?v=v6qKwwjqagg)
+This question was possibly duplicated with a more recent answer: [November 23rd, 2021 Livestream Q&A: Any news on FICS⁕MAS](./yt-iVDRQg_aWpU,4839.332885246913,4859.387351.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=4839&end=4860](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=4839&end=4860)
 
 
 ### Topics

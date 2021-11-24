@@ -231,7 +231,7 @@ date: Last Modified
 * [Dedicated Servers](./topics/features/multiplayer/dedicated-servers.md)
 ---
 
-## Planned Features
+## [Planned Features](./topics/features/planned-features.md)
 
 ### [Build Modes](./topics/features/planned-features/build-modes.md)
 * [Quick Switch](./topics/features/planned-features/build-modes/quick-switch.md)

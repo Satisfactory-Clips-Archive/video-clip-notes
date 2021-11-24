@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Mods](../../topics/mods.md) > Mods vs. Features
 
+## November 23rd, 2021 Livestream
+* [Q&A: Deep Rock Galactic enabled Unreal VR plugins for Modding, any chance you could do the same?](../../transcriptions/yt-iVDRQg_aWpU,6082.76610344753,6109.750653.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6082&end=6110](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6082&end=6110)
+
 ## November 2nd, 2021 Livestream
 * [Snutt & Jace Talk: Torsten's Cosmetics Whiteboard (Part 7)](../../transcriptions/yt-BLow4FGZ4LQ.md) [https://www.youtube.com/watch?v=BLow4FGZ4LQ](https://www.youtube.com/watch?v=BLow4FGZ4LQ)
 * Q&A: Are you going to take a bunch of Mods and make an Update out of that? [https://www.youtube.com/watch?v=EYmRwJdzh7s](https://www.youtube.com/watch?v=EYmRwJdzh7s)

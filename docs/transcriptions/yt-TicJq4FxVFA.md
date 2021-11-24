@@ -10,6 +10,8 @@ topics:
 # [May 25th, 2021 Livestream](../2021-05-25.md)
 ## Q&A: Have you both done programming?
 https://www.youtube.com/watch?v=TicJq4FxVFA
+This question was possibly duplicated with a more recent answer: [November 23rd, 2021 Livestream Q&A: Snutt & Jace, are you coders?](./yt-iVDRQg_aWpU,5023.766201503086,5038.303715.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5023&end=5039](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5023&end=5039)
+
 
 ### Topics
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)

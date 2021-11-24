@@ -7,6 +7,9 @@ date: Last Modified
 * [Autosave](../../topics/features/save-system/autosave.md)
 * [Cloud Sync](../../topics/features/save-system/cloud-sync.md)
 
+## November 23rd, 2021 Livestream
+* [Q&A: Where are the save files actually located?](../../transcriptions/yt-iVDRQg_aWpU,5771.666132253086,5839.518444.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5771&end=5840](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5771&end=5840)
+
 ## November 19th, 2021 Video
 * Jace Talk: Dedicated Server improvements [https://youtube.com/clip/UgkxE0BKdRYgVb1NNgxmIbZelYfWcw7UjyFx](https://youtube.com/clip/UgkxE0BKdRYgVb1NNgxmIbZelYfWcw7UjyFx)
 
