@@ -6,8 +6,8 @@ date: Last Modified
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Pending > Satisfactory 1.0
 
 ## November 23rd, 2021 Livestream
-* [Q&A: Is Update 10 the official release of the game?](../../../transcriptions/yt-iVDRQg_aWpU,728.781025,740.470053.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=728&end=741](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=728&end=741)
-* [Q&A: Will it be Update 6 next, or 1.0?](../../../transcriptions/yt-iVDRQg_aWpU,5373.300345,5507.428342.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5373&end=5508](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5373&end=5508)
+* [Q&A: Is Update 10 the official release of the game?](../../../transcriptions/yt-iVDRQg_aWpU,1090.781025,1102.470053.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=1090&end=1103](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=1090&end=1103)
+* [Q&A: Will it be Update 6 next, or 1.0?](../../../transcriptions/yt-iVDRQg_aWpU,5735.300345,5869.428342.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5735&end=5870](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5735&end=5870)
 
 ## November 16th, 2021 Livestream
 * [Q&A: Is there an actual date for the official release of the game?](../../../transcriptions/yt-yoD51h2g5T0.md) [https://www.youtube.com/watch?v=yoD51h2g5T0](https://www.youtube.com/watch?v=yoD51h2g5T0)

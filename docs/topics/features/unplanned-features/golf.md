@@ -6,8 +6,8 @@ date: Last Modified
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Unplanned Features](../../../topics/features/unplanned-features.md) > Golf
 
 ## November 23rd, 2021 Livestream
-* [Trolling: Golf is in Patch Notes](../../../transcriptions/yt-iVDRQg_aWpU,719.7999333518518,727.961643.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=719&end=728](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=719&end=728)
-* [Q&A: Golf, when?](../../../transcriptions/yt-iVDRQg_aWpU,4826.73288641358,4833.520066.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=4826&end=4834](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=4826&end=4834)
+* [Trolling: Golf is in Patch Notes](../../../transcriptions/yt-iVDRQg_aWpU,1081.7999333518518,1089.961643.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=1081&end=1090](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=1081&end=1090)
+* [Q&A: Golf, when?](../../../transcriptions/yt-iVDRQg_aWpU,5188.73288641358,5195.520066.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5188&end=5196](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5188&end=5196)
 
 ## November 9th, 2021 Livestream
 * [Q&A: Golf, when?](../../../transcriptions/yt-kYn6eCYtK6w.md) [https://www.youtube.com/watch?v=kYn6eCYtK6w](https://www.youtube.com/watch?v=kYn6eCYtK6w)

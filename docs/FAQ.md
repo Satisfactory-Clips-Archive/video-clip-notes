@@ -3,13 +3,13 @@ title: "Frequently Asked Questions"
 date: Last Modified
 ---
 ## [November 23rd, 2021 Livestream](./2021-11-23.md)
-### [Q&A: Is Update 10 the official release of the game?](./transcriptions/yt-iVDRQg_aWpU,728.781025,740.470053.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=728&end=741](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=728&end=741)
+### [Q&A: Is Update 10 the official release of the game?](./transcriptions/yt-iVDRQg_aWpU,1090.781025,1102.470053.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=1090&end=1103](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=1090&end=1103)
 
 <details>
 
 <summary>A transcript is available</summary>
 
-> come on
+> it's update 10 the official release of the game you know absolutely yeah you got it nailed it update 10. that's the last one but what about 11 this one goes to 11. all right community highlights jace is
 
 
 </details>
@@ -21,13 +21,13 @@ date: Last Modified
 * [March 2nd, 2021 Livestream Q&A: Update 10 is 1.0?](./transcriptions/yt-dvCRDVGePX0.md) [https://www.youtube.com/watch?v=dvCRDVGePX0](https://www.youtube.com/watch?v=dvCRDVGePX0)
 </details>
 
-### [Q&A: How do you make the video camera movements in your trailer?](./transcriptions/yt-iVDRQg_aWpU,4735.134257,4790.865124.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=4735&end=4791](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=4735&end=4791)
+### [Q&A: How do you make the video camera movements in your trailer?](./transcriptions/yt-iVDRQg_aWpU,5097.134257,5152.865124.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5097&end=5153](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5097&end=5153)
 
 <details>
 
 <summary>A transcript is available</summary>
 
-> oh there was a sign that said this way does not feel right but now wait i made it no wait no no no no oh what the [ __ ] is this weird ass [ __ ] oh god damn it i took a wrong turn for sure damn it the [ __ ] window sound when you bonk into it no i hate this did you not see how like when we played chaos's [ __ ] amazed yeah yeah full of that [ __ ] that took so long there was a sign that said this does not feel right and then i found the ending oh you actually made it out yeah yeah i'm out son of a yeah me too god damn it
+> how do you make the video camera movements in your trailer uh it depends which ones you're talking about but we can do some cinematic camera stuff uh uh and record the um the uh like animations for the camera we use this unreal engine sequencer so we can do a lot of advanced stuff in a real engine that you guys don't have access to unfortunately because you need to use the engine you can't it doesn't work that way um but we're hoping oh did you get it nice yeah putting it in the chat but we're hoping in the future we can improve uh photo mode so you guys can do more stuff like that i know there's a mod for um like cinematic movements and stuff like that you can kind of create a little sequence um i hope we can do something like that in the future hopefully so yeah what do we do now jace
 
 
 </details>
@@ -39,15 +39,13 @@ date: Last Modified
 * [November 10th, 2020 Livestream Q&A: Any tools to add Cinematic Tools to the game like Machinima or Content Creator purposes?](./transcriptions/yt-tv1pCGiRtkM.md) [https://www.youtube.com/watch?v=tv1pCGiRtkM](https://www.youtube.com/watch?v=tv1pCGiRtkM)
 </details>
 
-### [Q&A: Any news on FICS⁕MAS](./transcriptions/yt-iVDRQg_aWpU,4839.332885246913,4859.387351.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=4839&end=4860](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=4839&end=4860)
+### [Q&A: Any news on FICS⁕MAS](./transcriptions/yt-iVDRQg_aWpU,5201.332885246913,5221.387351.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5201&end=5222](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5201&end=5222)
 
 <details>
 
 <summary>A transcript is available</summary>
 
-> [ __ ]
->
-> climb ladies to the top use your inner monkey had jumped oh god oh no this this is so hard actually it's not too bad just make sure that you're no no oh oh oh wow okay you could do that i was stepping on the little platforms and jumping from the back oh i guess you could do that too but i'm a pro i'm a pro gamer
+> some fixmas we don't have any news and fixmas really we are trying to do it but we will probably announce it more than we when we know what we're doing with it yep um but you know we have we have people that have gotten together to prepare stuff for fixmas so we'll see to what extent we can do things yeah we'll let you know as soon as we know yes paintball went
 
 
 </details>
@@ -69,13 +67,13 @@ date: Last Modified
 * [December 8th, 2020 Livestream Q&A: Will Gift Trees continue to produce?](./transcriptions/yt-FqUcLve4Oyc.md) [https://www.youtube.com/watch?v=FqUcLve4Oyc](https://www.youtube.com/watch?v=FqUcLve4Oyc)
 </details>
 
-### [Q&A: Are you planning controller support?](./transcriptions/yt-iVDRQg_aWpU,5081.766196132716,5100.457111.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5081&end=5101](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5081&end=5101)
+### [Q&A: Are you planning controller support?](./transcriptions/yt-iVDRQg_aWpU,5443.766196132716,5462.457111.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5443&end=5463](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5443&end=5463)
 
 <details>
 
 <summary>A transcript is available</summary>
 
-> 30 minutes until launch i kill the session now bye chase yep on the release we give us a server rig as an item we haven't done that no that's very true how do you make the video camera movements in your trailer uh it depends which ones you're talking about but we
+> uh are you planning controller support uh we'll have to sort of see how that goes um i think we plan on doing some level of controller support at least make things easy for people to remap things i think that might be in the the plans but really don't know when that's gonna be just yet yes will there be mod support for dedicated
 
 
 </details>
@@ -90,13 +88,17 @@ date: Last Modified
 * [February 6th, 2019 Livestream Q&A: Controller support?](./transcriptions/yt-Dtm6xIj-wM4,4052.6,4151.820477.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=4052&end=4152](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=4052&end=4152)
 </details>
 
-### [Q&A: Will there be Mod support for Dedicated Servers?](./transcriptions/yt-iVDRQg_aWpU,5102.290458,5133.929581.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5102&end=5134](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5102&end=5134)
+### [Q&A: Will there be Mod support for Dedicated Servers?](./transcriptions/yt-iVDRQg_aWpU,5464.290458,5495.929581.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5464&end=5496](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5464&end=5496)
 
 <details>
 
 <summary>A transcript is available</summary>
 
-> can do some cinematic camera stuff uh uh and record the um the uh like animations for the camera we use this unreal engine sequencer so we can do a lot of advanced stuff in a real engine that you guys don't have access to unfortunately because you need to use the engine you can't it doesn't work that way um but we're hoping oh did you get it nice yeah putting it in the chat but we're hoping in the future we can improve uh photo mode so you guys can do
+> will there be mod support for dedicated service that's such a good question because i i don't really see any issue why mods wouldn't work on dedicated servers um i guess the modders need to get the loader hooked up with the build or something maybe um
+>
+> [Music]
+>
+> i'm not quite sure how that works honestly but uh i'm pretty sure the modders are gonna be on it sooner than you think if they haven't already started doing stuff for it so you can play uh mods on dedicated servers as well uh some people are saying that uh my
 
 
 </details>
@@ -108,13 +110,13 @@ date: Last Modified
 * [November 24th, 2020 Livestream Q&A: Are Dedicated Servers going to have Mod support?](./transcriptions/yt-PD79jEZuOAU.md) [https://www.youtube.com/watch?v=PD79jEZuOAU](https://www.youtube.com/watch?v=PD79jEZuOAU)
 </details>
 
-### [Q&A: VR Support?](./transcriptions/yt-iVDRQg_aWpU,5952.234365,5989.55304.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5952&end=5990](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5952&end=5990)
+### [Q&A: VR Support?](./transcriptions/yt-iVDRQg_aWpU,6314.234365,6351.55304.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6314&end=6352](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6314&end=6352)
 
 <details>
 
 <summary>A transcript is available</summary>
 
-> there's going to be two entries in your steam that's actually a good thing to bring up actually because if you're playing the way that we set it up right now is that we already have two branches for the dedicated servers and one of them is experimental and one of them is ea and right now both are experimental they're both since we didn't have an ea at that point we released both experimental so the default branch which is going to be the early access branch that's going to get updated to the early access version is is the default branch so if you want to play on experimental you have to switch to that branch um yeah so but but like an important thing to note is that like when the early access
+> vr support vr is something that like it's certainly cool but it's not really something that we are prioritizing right now there are much more important things to do than vr we don't really feel that vr pushes the game forward doesn't get it closer to being completed is what i mean it would certainly be cool and if we did do it we would want to do it in a way that's actually you know like good uh so i i don't know if we're ever gonna choose to do vr over other things anytime soon wouldn't hold your breath it's a lot of effort and like nobody at the studio wants to dive into that essentially yeah
 
 
 </details>
@@ -135,13 +137,13 @@ date: Last Modified
 * [August 1st, 2018 Q&A: What about VR support?](./transcriptions/yt-iFAy1NZUOGU,66.08,68.24.md) [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=66&end=69](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=66&end=69)
 </details>
 
-### [Q&A: Any Updates to Lore & Story?](./transcriptions/yt-iVDRQg_aWpU,6155.399430055555,6185.114503.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6155&end=6186](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6155&end=6186)
+### [Q&A: Any Updates to Lore & Story?](./transcriptions/yt-iVDRQg_aWpU,6517.399430055555,6547.114503.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6517&end=6548](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6517&end=6548)
 
 <details>
 
 <summary>A transcript is available</summary>
 
-> you just copy paste that into your uh putting the save location everywhere you put that into your file explorer and that will take you to the save games folder a good test will be happening and yeah and save files in that folder are separated by your steam and epic some people play on steam and epic and if you if you do then your save files will be in different uh folders yeah so that's just something to note as well and if your save file doesn't show up in
+> the updates to the lauren story there will be in 1.0 um there will be a big ol big old reveal of the story and lore um eventually eventually because we're going to do we're not going to do like the subnautica track where we're like we in early access reveal stuff like bit by bit we're gonna do everything in one go so uh like when when we're finished with a complete story that's when we'll put it in the game for you guys uh folks asking about creative mode uh
 
 
 </details>
@@ -163,13 +165,13 @@ date: Last Modified
 * [March 2nd, 2021 Livestream Q&A: Is the Story completely written or is it still in progress?](./transcriptions/yt-YrcsAlypXbo.md) [https://www.youtube.com/watch?v=YrcsAlypXbo](https://www.youtube.com/watch?v=YrcsAlypXbo)
 </details>
 
-### [Q&A: Creative Mode?](./transcriptions/yt-iVDRQg_aWpU,6190.309672,6248.354523.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6190&end=6249](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6190&end=6249)
+### [Q&A: Creative Mode?](./transcriptions/yt-iVDRQg_aWpU,6552.309672,6610.354523.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6552&end=6611](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6552&end=6611)
 
 <details>
 
 <summary>A transcript is available</summary>
 
-> then take the save file and move it to the common folder after you've backed it up and then it should appear on the game no matter who you're logged in as and then you can just resave it yep why are my log files more than 100 like 1.5 gigs it's because our game is [ __ ] dog [ __ ] so many issues that need to be logged in the long file i actually don't know i think uh there might be a few things that are long i think there might be a few things that are like throwing unnecessary amount of vlogging in the game sometimes when we've been working on experimental uh so like it's just like every frame is spewing some kind of like warning or something that actually isn't a warning uh we fixed most of those things but yeah yeah i guess if if you uh if you have that and uh like huge log files you can always open them up and see if there's anything that's getting spammed uh yeah yeah or if you just have a lot of different log files that does that yep
+> uh folks asking about creative mode uh it's we we've looked into we're we're probably going to be adding alternate game modes to the game eventually but we don't want to do it anytime soon uh because we really we really want to finish off the base game right make sure that the core gameplay is a good experience and so sometimes people want to like sometimes like there's a good reason to have creative mode like that's just a good idea anyway for the game that's that's like one valid and fun way that people can enjoy the game but we also don't want people who experience some frustration with the game to then go to creative mode to solve that frustration we would prefer to hear the frustration you have so that we can make like alter the game and fix the game so that people who normally play won't have those issues and if we add alternate game modes in now we won't really be getting that feedback from y'all and we really need that so we really don't want to add alternate game modes like creative mode just yet but it is something that makes total sense for the game and um yeah maybe maybe we'll be a thing in the future yeah uh folks people who are just copy
 
 
 </details>
@@ -200,13 +202,13 @@ date: Last Modified
 * [August 1st, 2018 Q&A: Will there be a Creative Mode?](./transcriptions/yt-iFAy1NZUOGU,14,29.md) [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=14&end=29](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=14&end=29)
 </details>
 
-### [Q&A: Adding Elevators?](./transcriptions/yt-iVDRQg_aWpU,6422.266072012346,6448.7188.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6422&end=6449](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6422&end=6449)
+### [Q&A: Adding Elevators?](./transcriptions/yt-iVDRQg_aWpU,6784.266072012346,6810.7188.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6784&end=6811](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6784&end=6811)
 
 <details>
 
 <summary>A transcript is available</summary>
 
-> the regular game because i know there's still a few features that we want to implement from dedicated servers that we haven't done yet and that's going to keep happening uh yeah and the dedicated servers are like uh still in their infancy so to speak and so like it's uh it's there's gonna be a lot more meaningful changes coming to that quicker than like the the main game itself yeah true story rock galactic enabled unreal engine vr plug and support from modding any chance you could do the same
+> adding elevators elevators i'm not really sure what's happening with elevators i don't know if there's too much interest to adam just yet no i think hybrid tubes on outside obviously people yeah yeah yeah exactly like there there are kind of other solutions that you can use that elevators would address they're certainly kind of cool i guess but um there are quick ways to get around than elevators so we don't really know if it's a problem that we need to solve necessarily yeah one minute 42 left to
 
 
 </details>

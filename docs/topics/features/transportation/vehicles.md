@@ -13,7 +13,7 @@ date: Last Modified
 * [Truck](../../../topics/features/transportation/vehicles/truck.md)
 
 ## November 23rd, 2021 Livestream
-* [Q&A: Why hasn't Coffee Stain fixed inverted mouse on Vehicles?](../../../transcriptions/yt-iVDRQg_aWpU,5212.738038,5256.038897.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5212&end=5257](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5212&end=5257)
+* [Q&A: Why hasn't Coffee Stain fixed inverted mouse on Vehicles?](../../../transcriptions/yt-iVDRQg_aWpU,5574.738038,5618.038897.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5574&end=5619](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5574&end=5619)
 
 ## November 19th, 2021 Video
 * Jace Talk: Manually loading/unloading Vehicles [https://youtube.com/clip/UgkxN3HmnddArXfq0mErANSrEOxh3fihfGrp](https://youtube.com/clip/UgkxN3HmnddArXfq0mErANSrEOxh3fihfGrp)

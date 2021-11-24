@@ -8,7 +8,7 @@ topics:
 # [March 2nd, 2021 Livestream](../2021-03-02.md)
 ## Q&A: Update 10 is 1.0?
 https://www.youtube.com/watch?v=dvCRDVGePX0
-This question was possibly duplicated with a more recent answer: [November 23rd, 2021 Livestream Q&A: Is Update 10 the official release of the game?](./yt-iVDRQg_aWpU,728.781025,740.470053.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=728&end=741](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=728&end=741)
+This question was possibly duplicated with a more recent answer: [November 23rd, 2021 Livestream Q&A: Is Update 10 the official release of the game?](./yt-iVDRQg_aWpU,1090.781025,1102.470053.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=1090&end=1103](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=1090&end=1103)
 
 
 ### Topics

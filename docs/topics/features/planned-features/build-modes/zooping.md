@@ -6,7 +6,7 @@ date: Last Modified
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > [Planned Features](../../../../topics/features/planned-features.md) > [Build Modes](../../../../topics/features/planned-features/build-modes.md) > Zooping
 
 ## November 23rd, 2021 Livestream
-* [Community FYI: It's the Zoop Update](../../../../transcriptions/yt-iVDRQg_aWpU,6911.186131,6934.491301.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6911&end=6935](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6911&end=6935)
+* [Community FYI: It's the Zoop Update](../../../../transcriptions/yt-iVDRQg_aWpU,7273.186131,7296.491301.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=7273&end=7297](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=7273&end=7297)
 
 ## November 12th, 2021 Video
 * Snutt Talk: Switching Wall Types with Zooping [https://youtube.com/clip/UgkxhBVzyTy6NO02bDwiATgeMiE0n_WOqp7r](https://youtube.com/clip/UgkxhBVzyTy6NO02bDwiATgeMiE0n_WOqp7r)

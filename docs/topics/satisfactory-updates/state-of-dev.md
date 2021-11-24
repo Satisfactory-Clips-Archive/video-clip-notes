@@ -6,7 +6,7 @@ date: Last Modified
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > State of Dev
 
 ## November 23rd, 2021 Livestream
-* [State of Dev: Update 5](../../transcriptions/yt-iVDRQg_aWpU,649.2999398796296,674.7999375185185.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=649&end=675](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=649&end=675)
+* [State of Dev: Update 5](../../transcriptions/yt-iVDRQg_aWpU,1011.2999398796296,1036.7999375185185.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=1011&end=1037](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=1011&end=1037)
 
 ## November 16th, 2021 Livestream
 * [State of Dev: Build server fell over](../../transcriptions/yt-8wS_NI7M5NU.md) [https://www.youtube.com/watch?v=8wS_NI7M5NU](https://www.youtube.com/watch?v=8wS_NI7M5NU)

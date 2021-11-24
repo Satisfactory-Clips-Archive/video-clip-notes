@@ -9,7 +9,7 @@ topics:
 # [February 6th, 2019 Livestream](../2019-02-06.md)
 ## Q&A: Will there be VR support?
 https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2442&end=2535
-This question was possibly duplicated with a more recent answer: [November 23rd, 2021 Livestream Q&A: VR Support?](./yt-iVDRQg_aWpU,5952.234365,5989.55304.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5952&end=5990](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5952&end=5990)
+This question was possibly duplicated with a more recent answer: [November 23rd, 2021 Livestream Q&A: VR Support?](./yt-iVDRQg_aWpU,6314.234365,6351.55304.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6314&end=6352](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6314&end=6352)
 
 
 ### Topics

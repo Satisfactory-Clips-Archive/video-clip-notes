@@ -33,7 +33,7 @@ date: Last Modified
 * [Zip Strips](../topics/mods/zip-strips.md)
 
 ## November 23rd, 2021 Livestream
-* [Q&A: Will there be Mod support for Dedicated Servers?](../transcriptions/yt-iVDRQg_aWpU,5102.290458,5133.929581.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5102&end=5134](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5102&end=5134)
+* [Q&A: Will there be Mod support for Dedicated Servers?](../transcriptions/yt-iVDRQg_aWpU,5464.290458,5495.929581.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5464&end=5496](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5464&end=5496)
 
 ## November 9th, 2021 Livestream
 * [Q&A: Are Mods still broken?](../transcriptions/yt-aPOh6hDve_o.md) [https://www.youtube.com/watch?v=aPOh6hDve_o](https://www.youtube.com/watch?v=aPOh6hDve_o)

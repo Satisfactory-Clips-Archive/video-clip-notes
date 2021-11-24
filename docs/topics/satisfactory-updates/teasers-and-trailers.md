@@ -15,9 +15,9 @@ date: Last Modified
 * [Update 5 Teasers](../../topics/satisfactory-updates/teasers-and-trailers/update-5-teasers.md)
 
 ## November 23rd, 2021 Livestream
-* [Q&A: How do you make the video camera movements in your trailer?](../../transcriptions/yt-iVDRQg_aWpU,4735.134257,4790.865124.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=4735&end=4791](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=4735&end=4791)
-* [Q&A: What happened to the little outtake parts at the end of videos?](../../transcriptions/yt-iVDRQg_aWpU,5508.266357,5545.350522.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5508&end=5546](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5508&end=5546)
-* [Q&A: Any Teasers for what's coming next?](../../transcriptions/yt-iVDRQg_aWpU,6007.699443731482,6082.869612.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6007&end=6083](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6007&end=6083)
+* [Q&A: How do you make the video camera movements in your trailer?](../../transcriptions/yt-iVDRQg_aWpU,5097.134257,5152.865124.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5097&end=5153](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5097&end=5153)
+* [Q&A: What happened to the little outtake parts at the end of videos?](../../transcriptions/yt-iVDRQg_aWpU,5870.266357,5907.350522.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5870&end=5908](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5870&end=5908)
+* [Q&A: Any Teasers for what's coming next?](../../transcriptions/yt-iVDRQg_aWpU,6369.699443731482,6444.869612.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6369&end=6445](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6369&end=6445)
 
 ## November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary
 * [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 12)](../../transcriptions/yt-bFyLzQZq4ys.md) [https://www.youtube.com/watch?v=bFyLzQZq4ys](https://www.youtube.com/watch?v=bFyLzQZq4ys)

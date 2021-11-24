@@ -8,9 +8,9 @@ date: Last Modified
 * [Snutty Mays](../../topics/coffee-stainers/snutt/snutty-mays.md)
 
 ## November 23rd, 2021 Livestream
-* [Q&A: Snutt & Jace, are you coders?](../../transcriptions/yt-iVDRQg_aWpU,5023.766201503086,5038.303715.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5023&end=5039](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5023&end=5039)
-* [Q&A: Is Snutt your real name?](../../transcriptions/yt-iVDRQg_aWpU,5895.266120808642,5913.080774.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5895&end=5914](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5895&end=5914)
-* [Q&A: From where are you guys, what nationality?](../../transcriptions/yt-iVDRQg_aWpU,5940.09944999074,5951.24705.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5940&end=5952](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5940&end=5952)
+* [Q&A: Snutt & Jace, are you coders?](../../transcriptions/yt-iVDRQg_aWpU,5385.766201503086,5400.303715.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5385&end=5401](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5385&end=5401)
+* [Q&A: Is Snutt your real name?](../../transcriptions/yt-iVDRQg_aWpU,6257.266120808642,6275.080774.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6257&end=6276](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6257&end=6276)
+* [Q&A: From where are you guys, what nationality?](../../transcriptions/yt-iVDRQg_aWpU,6302.09944999074,6313.24705.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6302&end=6314](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6302&end=6314)
 
 ## November 16th, 2021 Livestream
 * [Q&A: Do you miss being developers?](../../transcriptions/yt-WNg80maIy8E.md) [https://www.youtube.com/watch?v=WNg80maIy8E](https://www.youtube.com/watch?v=WNg80maIy8E)

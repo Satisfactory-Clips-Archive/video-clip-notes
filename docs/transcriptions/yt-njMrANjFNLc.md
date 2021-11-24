@@ -8,7 +8,7 @@ topics:
 # [April 20th, 2021 Livestream](../2021-04-20.md)
 ## Q&A: VR, when?
 https://www.youtube.com/watch?v=njMrANjFNLc
-This question was possibly duplicated with a more recent answer: [November 23rd, 2021 Livestream Q&A: VR Support?](./yt-iVDRQg_aWpU,5952.234365,5989.55304.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5952&end=5990](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5952&end=5990)
+This question was possibly duplicated with a more recent answer: [November 23rd, 2021 Livestream Q&A: VR Support?](./yt-iVDRQg_aWpU,6314.234365,6351.55304.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6314&end=6352](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6314&end=6352)
 
 
 ### Topics

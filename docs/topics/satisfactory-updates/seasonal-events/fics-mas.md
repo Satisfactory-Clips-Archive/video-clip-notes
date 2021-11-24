@@ -6,7 +6,7 @@ date: Last Modified
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Seasonal Events](../../../topics/satisfactory-updates/seasonal-events.md) > FICS⁕MAS
 
 ## November 23rd, 2021 Livestream
-* [Q&A: Any news on FICS⁕MAS](../../../transcriptions/yt-iVDRQg_aWpU,4839.332885246913,4859.387351.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=4839&end=4860](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=4839&end=4860)
+* [Q&A: Any news on FICS⁕MAS](../../../transcriptions/yt-iVDRQg_aWpU,5201.332885246913,5221.387351.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5201&end=5222](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5201&end=5222)
 
 ## November 16th, 2021 Livestream
 * [Q&A: FICS⁕MAS?](../../../transcriptions/yt-v6qKwwjqagg.md) [https://www.youtube.com/watch?v=v6qKwwjqagg](https://www.youtube.com/watch?v=v6qKwwjqagg)

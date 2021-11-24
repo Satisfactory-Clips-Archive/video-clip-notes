@@ -6,11 +6,11 @@ date: Last Modified
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > Release Builds
 
 ## November 23rd, 2021 Livestream
-* [Q&A: When does Update 4 come out? When does Update 5 come out?](../../transcriptions/yt-iVDRQg_aWpU,3885.4996402314814,3895.680472.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=3885&end=3896](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=3885&end=3896)
-* [Q&A: Will there be updates on Experimental?](../../transcriptions/yt-iVDRQg_aWpU,5256.797646,5371.849599.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5256&end=5372](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5256&end=5372)
-* [Q&A: Will there be a variable for SteamCMD for which version to choose?](../../transcriptions/yt-iVDRQg_aWpU,5546.04042,5771.638973.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5546&end=5772](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5546&end=5772)
-* [Snutt & Jace Talk: Dedicated Servers](../../transcriptions/yt-iVDRQg_aWpU,6787.632704848766,6827.706659.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6787&end=6828](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6787&end=6828)
-* [Q&A: Which app ids are there for the server branches on SteamCMD?](../../transcriptions/yt-iVDRQg_aWpU,7001.566018373456,7089.537169.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=7001&end=7090](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=7001&end=7090)
+* [Q&A: When does Update 4 come out? When does Update 5 come out?](../../transcriptions/yt-iVDRQg_aWpU,4247.4996402314814,4257.680472.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=4247&end=4258](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=4247&end=4258)
+* [Q&A: Will there be updates on Experimental?](../../transcriptions/yt-iVDRQg_aWpU,5618.797646,5733.849599.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5618&end=5734](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5618&end=5734)
+* [Q&A: Will there be a variable for SteamCMD for which version to choose?](../../transcriptions/yt-iVDRQg_aWpU,5908.04042,6133.638973.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5908&end=6134](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5908&end=6134)
+* [Snutt & Jace Talk: Dedicated Servers](../../transcriptions/yt-iVDRQg_aWpU,7149.632704848766,7189.706659.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=7149&end=7190](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=7149&end=7190)
+* [Q&A: Which app ids are there for the server branches on SteamCMD?](../../transcriptions/yt-iVDRQg_aWpU,7363.566018373456,7451.537169.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=7363&end=7452](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=7363&end=7452)
 
 ## November 16th, 2021 Livestream
 * [Q&A: Can Experimental saves be moved over to Early Access without issue?](../../transcriptions/yt-nPj_soas-a8.md) [https://www.youtube.com/watch?v=nPj_soas-a8](https://www.youtube.com/watch?v=nPj_soas-a8)

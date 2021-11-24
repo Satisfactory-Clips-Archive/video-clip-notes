@@ -6,7 +6,7 @@ date: Last Modified
 # [Topics](../topics.md) > Trolling
 
 ## November 23rd, 2021 Livestream
-* [Trolling: Golf is in Patch Notes](../transcriptions/yt-iVDRQg_aWpU,719.7999333518518,727.961643.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=719&end=728](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=719&end=728)
+* [Trolling: Golf is in Patch Notes](../transcriptions/yt-iVDRQg_aWpU,1081.7999333518518,1089.961643.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=1081&end=1090](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=1081&end=1090)
 
 ## November 16th, 2021 Livestream
 * [Trolling: We'll confirm anything](../transcriptions/yt-ZaUyRFVsP9M.md) [https://www.youtube.com/watch?v=ZaUyRFVsP9M](https://www.youtube.com/watch?v=ZaUyRFVsP9M)

@@ -6,9 +6,9 @@ date: Last Modified
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Teasers & Trailers](../../../topics/satisfactory-updates/teasers-and-trailers.md) > Update 5 Teasers
 
 ## November 23rd, 2021 Livestream
-* [Snutt & Jace Talk: Update 5 Teaser Season Supercut & Update 5 Launch](../../../transcriptions/yt-iVDRQg_aWpU,389.7332972469136,605.540672.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=389&end=606](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=389&end=606)
-* [Snutt & Jace Talk: Countdown to Update 5 Trailer](../../../transcriptions/yt-iVDRQg_aWpU,5038.332866820988,5081.732862802469.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5038&end=5082](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5038&end=5082)
-* [Q&A: Who made the Trailer music?](../../../transcriptions/yt-iVDRQg_aWpU,6696.8660465864195,6738.688292.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6696&end=6739](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6696&end=6739)
+* [Snutt & Jace Talk: Update 5 Teaser Season Supercut & Update 5 Launch](../../../transcriptions/yt-iVDRQg_aWpU,751.7332972469136,967.540672.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=751&end=968](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=751&end=968)
+* [Snutt & Jace Talk: Countdown to Update 5 Trailer](../../../transcriptions/yt-iVDRQg_aWpU,5400.332866820988,5443.732862802469.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5400&end=5444](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5400&end=5444)
+* [Q&A: Who made the Trailer music?](../../../transcriptions/yt-iVDRQg_aWpU,7058.8660465864195,7100.688292.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=7058&end=7101](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=7058&end=7101)
 
 ## November 16th, 2021 Livestream
 * [Q&A: Trailer video for Update 5 Early Access release?](../../../transcriptions/yt-z9lRpGyZ_dY.md) [https://www.youtube.com/watch?v=z9lRpGyZ_dY](https://www.youtube.com/watch?v=z9lRpGyZ_dY)
