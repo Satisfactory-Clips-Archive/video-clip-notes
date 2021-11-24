@@ -22,7 +22,7 @@ date: Last Modified
 * [Q&A: Do you have a timeframe on Trains or Trucks being fixed?](../../../transcriptions/yt-D9BB4q1QrE8.md) [https://www.youtube.com/watch?v=D9BB4q1QrE8](https://www.youtube.com/watch?v=D9BB4q1QrE8)
 
 ## October 29th, 2021 Video
-* [Snutt Talk: You can Paint Vehicles, Trains, and Drones](../../../transcriptions/yt-rePLsjw-eEY,385.7854,405.30490000000003.md) [https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=385&end=406](https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=385&end=406)
+* [Snutt Talk: You can Paint Vehicles, Trains, and Drones](../../../transcriptions/yt-rePLsjw-eEY,385.7854,405.30490000000003.md) [https://youtube.com/clip/UgkxQT6FAmy_kl7s_EIq8rcyio7u9zY3Sxi5](https://youtube.com/clip/UgkxQT6FAmy_kl7s_EIq8rcyio7u9zY3Sxi5)
 
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
 * [Snutt & Jace Talk: Train Signals and Collisions](../../../transcriptions/yt-QfaReoks6OM,707.7916666666666,764.0416666666666.md) [https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=707&end=765](https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=707&end=765)

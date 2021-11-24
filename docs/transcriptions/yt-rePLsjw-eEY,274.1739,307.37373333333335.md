@@ -8,7 +8,7 @@ topics:
 ---
 # [October 29th, 2021 Video](../2021-10-29.md)
 ## Jace Talk: Missing Uranium & Bauxite nodes
-https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=274&end=308
+https://youtube.com/clip/UgkxF11xfTEmK35yJgMg3SBYgBoW1L97CuiO
 
 ### Topics
 * [Environment > Resources](../topics/environment/resources.md)

@@ -25,7 +25,7 @@ date: Last Modified
 * [Q&A: Is it possible to change your name on the QA Site?](../transcriptions/yt-3lddewDsNzw.md) [https://www.youtube.com/watch?v=3lddewDsNzw](https://www.youtube.com/watch?v=3lddewDsNzw)
 
 ## October 29th, 2021 Video
-* [Jace Talk: Update 5 bug reports](../transcriptions/yt-rePLsjw-eEY,78.44503333333334,114.48103333333333.md) [https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=78&end=115](https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=78&end=115)
+* [Jace Talk: Update 5 bug reports](../transcriptions/yt-rePLsjw-eEY,78.44503333333334,114.48103333333333.md) [https://youtube.com/clip/UgkxJI5VH8ctyuGYp-62AOEaJyNOmlNmFA_c](https://youtube.com/clip/UgkxJI5VH8ctyuGYp-62AOEaJyNOmlNmFA_c)
 
 ## October 27th, 2021 Video
 * [Jace Talk: We would appreciate your feedback on the Dedicated Servers](../transcriptions/yt-Nn-1s87JJxc,88.95553333333334,140.67386666666667.md) [https://youtube.com/embed/Nn-1s87JJxc?autoplay=1&start=88&end=141](https://youtube.com/embed/Nn-1s87JJxc?autoplay=1&start=88&end=141)

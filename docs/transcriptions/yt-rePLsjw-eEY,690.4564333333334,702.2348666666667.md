@@ -8,7 +8,7 @@ topics:
 ---
 # [October 29th, 2021 Video](../2021-10-29.md)
 ## Snutt Talk: We've added more Personal Storage Boxes
-https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=690&end=703
+https://youtube.com/clip/UgkxjFKVfTTFwFY-_2YSHyAViY1UA1rnM4SP
 
 ### Topics
 * [Features > Buildables > Storage Containers](../topics/features/buildables/storage-containers.md)

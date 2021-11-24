@@ -16,7 +16,7 @@ date: Last Modified
 * [Snutt & Jace Talk: That one track we use in all the YouTube videos](../transcriptions/yt-1PrzGVafNZ8.md) [https://www.youtube.com/watch?v=1PrzGVafNZ8](https://www.youtube.com/watch?v=1PrzGVafNZ8)
 
 ## October 29th, 2021 Video
-* [Snutt Talk: We've added more music](../transcriptions/yt-rePLsjw-eEY,765.7983666666667,798.4977.md) [https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=765&end=799](https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=765&end=799)
+* [Snutt Talk: We've added more music](../transcriptions/yt-rePLsjw-eEY,765.7983666666667,798.4977.md) [https://youtube.com/clip/UgkxG3P4nMWcbaf6x0LMKm3FrjY3GXkBVPwe](https://youtube.com/clip/UgkxG3P4nMWcbaf6x0LMKm3FrjY3GXkBVPwe)
 
 ## October 19th, 2021 Livestream
 * [Community FYI: I love the music track for the Update 3 Trailer](../transcriptions/yt-BmgkOw5NWKM.md) [https://www.youtube.com/watch?v=BmgkOw5NWKM](https://www.youtube.com/watch?v=BmgkOw5NWKM)

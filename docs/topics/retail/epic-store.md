@@ -12,8 +12,8 @@ date: Last Modified
 * [Snutt & Jace Talk: Launcher issues](../../transcriptions/yt-iVDRQg_aWpU,7310.916099,7363.546274.md) [https://youtube.com/clip/Ugkxxe5oLCLQG1rWyXjH4faPas26Wm_lyRv4](https://youtube.com/clip/Ugkxxe5oLCLQG1rWyXjH4faPas26Wm_lyRv4)
 
 ## October 29th, 2021 Video
-* [Q&A: Do I need to buy the game on Steam to use Dedicated Servers if I already have the game on Epic?](../../transcriptions/yt-rePLsjw-eEY,195.987197,212.21200000000002.md) [https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=195&end=213](https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=195&end=213)
-* [Jace Talk: Steam/Epic bug](../../transcriptions/yt-rePLsjw-eEY,226.3261,274.14053333333334.md) [https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=226&end=275](https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=226&end=275)
+* [Q&A: Do I need to buy the game on Steam to use Dedicated Servers if I already have the game on Epic?](../../transcriptions/yt-rePLsjw-eEY,195.987197,212.21200000000002.md) [https://youtube.com/clip/UgkxmZWLf86Gudsx4oQlCYOCt47oUQ9_c_bg](https://youtube.com/clip/UgkxmZWLf86Gudsx4oQlCYOCt47oUQ9_c_bg)
+* [Jace Talk: Steam/Epic bug](../../transcriptions/yt-rePLsjw-eEY,226.3261,274.14053333333334.md) [https://youtube.com/clip/UgkxCKbJp53V8HP5Emk1_BI9yH1j1sjTZF4J](https://youtube.com/clip/UgkxCKbJp53V8HP5Emk1_BI9yH1j1sjTZF4J)
 
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
 * Q&A: Epic Games login on Steam? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=16654&end=16706](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=16654&end=16706)

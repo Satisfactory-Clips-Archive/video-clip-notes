@@ -32,7 +32,7 @@ date: Last Modified
 * Q&A: Please add volume sliders for Vehicles [https://www.youtube.com/watch?v=FDAJll3QZw8](https://www.youtube.com/watch?v=FDAJll3QZw8)
 
 ## October 29th, 2021 Video
-* [Snutt Talk: Fine-grained volume controls](../../transcriptions/yt-rePLsjw-eEY,798.5310666666667,840.6398.md) [https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=798&end=841](https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=798&end=841)
+* [Snutt Talk: Fine-grained volume controls](../../transcriptions/yt-rePLsjw-eEY,798.5310666666667,840.6398.md) [https://youtube.com/clip/Ugkx4DQ4qRNIWVMIZdu3mPIXzVmJFT_n6hUq](https://youtube.com/clip/Ugkx4DQ4qRNIWVMIZdu3mPIXzVmJFT_n6hUq)
 * [Snutt Talk: HUD UI & button mapping changes](../../transcriptions/yt-rePLsjw-eEY,840.6731666666667,901.8676333333334.md) [https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=840&end=902](https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=840&end=902)
 
 ## October 27th, 2021 Video

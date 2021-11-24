@@ -8,7 +8,7 @@ topics:
 ---
 # [October 29th, 2021 Video](../2021-10-29.md)
 ## Jace Talk: Update 5 bug reports
-https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=78&end=115
+https://youtube.com/clip/UgkxJI5VH8ctyuGYp-62AOEaJyNOmlNmFA_c
 
 ### Topics
 * [QA Site](../topics/qa-site.md)

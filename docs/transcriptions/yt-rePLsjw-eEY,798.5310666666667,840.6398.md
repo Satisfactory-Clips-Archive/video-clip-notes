@@ -8,7 +8,7 @@ topics:
 ---
 # [October 29th, 2021 Video](../2021-10-29.md)
 ## Snutt Talk: Fine-grained volume controls
-https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=798&end=841
+https://youtube.com/clip/Ugkx4DQ4qRNIWVMIZdu3mPIXzVmJFT_n6hUq
 
 ### Topics
 * [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)

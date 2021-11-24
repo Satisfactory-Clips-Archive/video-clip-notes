@@ -45,7 +45,7 @@ date: Last Modified
 * [Q&A: Are Office Doggos considered Coffee Stainers or just Office Doggos?](../transcriptions/yt-7q3qw64REKY.md) [https://www.youtube.com/watch?v=7q3qw64REKY](https://www.youtube.com/watch?v=7q3qw64REKY)
 
 ## October 29th, 2021 Video
-* [Jace Talk: A lot of love from the Studio to you guys](../transcriptions/yt-rePLsjw-eEY,45.311933333333336,78.41166666666666.md) [https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=45&end=79](https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=45&end=79)
+* [Jace Talk: A lot of love from the Studio to you guys](../transcriptions/yt-rePLsjw-eEY,45.311933333333336,78.41166666666666.md) [https://youtube.com/clip/UgkxpRUI9NqxA5i4NQxYtqayETWWkS2fwLo0](https://youtube.com/clip/UgkxpRUI9NqxA5i4NQxYtqayETWWkS2fwLo0)
 
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
 * Q&A: Is Coffee Stain still 20% Dutch? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=1406&end=1427](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=1406&end=1427)

@@ -9,7 +9,7 @@ date: Last Modified
 * [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 35)](../../transcriptions/yt-gAZJCKcLbMA.md) [https://www.youtube.com/watch?v=gAZJCKcLbMA](https://www.youtube.com/watch?v=gAZJCKcLbMA)
 
 ## October 29th, 2021 Video
-* [Snutt Talk: You can Paint Vehicles, Trains, and Drones](../../transcriptions/yt-rePLsjw-eEY,385.7854,405.30490000000003.md) [https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=385&end=406](https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=385&end=406)
+* [Snutt Talk: You can Paint Vehicles, Trains, and Drones](../../transcriptions/yt-rePLsjw-eEY,385.7854,405.30490000000003.md) [https://youtube.com/clip/UgkxQT6FAmy_kl7s_EIq8rcyio7u9zY3Sxi5](https://youtube.com/clip/UgkxQT6FAmy_kl7s_EIq8rcyio7u9zY3Sxi5)
 
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
 * [Q&A: What about Colors?](../../transcriptions/yt-QfaReoks6OM,338.8333333333333,359.555311.md) [https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=338&end=360](https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=338&end=360)

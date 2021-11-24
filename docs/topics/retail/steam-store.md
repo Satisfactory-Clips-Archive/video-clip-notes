@@ -16,8 +16,8 @@ date: Last Modified
 * [Q&A: Any info on Steam Deck compatibility?](../../transcriptions/yt-D_ZQVOw9O2I.md) [https://www.youtube.com/watch?v=D_ZQVOw9O2I](https://www.youtube.com/watch?v=D_ZQVOw9O2I)
 
 ## October 29th, 2021 Video
-* [Q&A: Do I need to buy the game on Steam to use Dedicated Servers if I already have the game on Epic?](../../transcriptions/yt-rePLsjw-eEY,195.987197,212.21200000000002.md) [https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=195&end=213](https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=195&end=213)
-* [Jace Talk: Steam/Epic bug](../../transcriptions/yt-rePLsjw-eEY,226.3261,274.14053333333334.md) [https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=226&end=275](https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=226&end=275)
+* [Q&A: Do I need to buy the game on Steam to use Dedicated Servers if I already have the game on Epic?](../../transcriptions/yt-rePLsjw-eEY,195.987197,212.21200000000002.md) [https://youtube.com/clip/UgkxmZWLf86Gudsx4oQlCYOCt47oUQ9_c_bg](https://youtube.com/clip/UgkxmZWLf86Gudsx4oQlCYOCt47oUQ9_c_bg)
+* [Jace Talk: Steam/Epic bug](../../transcriptions/yt-rePLsjw-eEY,226.3261,274.14053333333334.md) [https://youtube.com/clip/UgkxCKbJp53V8HP5Emk1_BI9yH1j1sjTZF4J](https://youtube.com/clip/UgkxCKbJp53V8HP5Emk1_BI9yH1j1sjTZF4J)
 
 ## October 27th, 2021 Video
 * [Q&A: Where can I get the Dedicated Servers?](../../transcriptions/yt-Nn-1s87JJxc,140.70723333333333,196.0959.md) [https://youtube.com/embed/Nn-1s87JJxc?autoplay=1&start=140&end=197](https://youtube.com/embed/Nn-1s87JJxc?autoplay=1&start=140&end=197)

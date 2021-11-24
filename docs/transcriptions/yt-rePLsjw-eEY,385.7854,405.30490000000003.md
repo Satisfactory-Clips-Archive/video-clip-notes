@@ -11,7 +11,7 @@ topics:
 ---
 # [October 29th, 2021 Video](../2021-10-29.md)
 ## Snutt Talk: You can Paint Vehicles, Trains, and Drones
-https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=385&end=406
+https://youtube.com/clip/UgkxQT6FAmy_kl7s_EIq8rcyio7u9zY3Sxi5
 
 ### Topics
 * [Features > Paint](../topics/features/paint.md)

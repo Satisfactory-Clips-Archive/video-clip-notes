@@ -10,7 +10,7 @@ topics:
 ---
 # [October 29th, 2021 Video](../2021-10-29.md)
 ## Jace Talk: Steam/Epic bug
-https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=226&end=275
+https://youtube.com/clip/UgkxCKbJp53V8HP5Emk1_BI9yH1j1sjTZF4J
 
 ### Topics
 * [Features > Multiplayer > Dedicated Servers](../topics/features/multiplayer/dedicated-servers.md)

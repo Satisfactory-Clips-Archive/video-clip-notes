@@ -49,7 +49,7 @@ date: Last Modified
 * [Q&A: Haven't the Community already built a Dedicated Server Docker image?](../transcriptions/yt-9GdvoH4nUNU.md) [https://www.youtube.com/watch?v=9GdvoH4nUNU](https://www.youtube.com/watch?v=9GdvoH4nUNU)
 
 ## October 29th, 2021 Video
-* [Jace Talk: A lot of love from the Studio to you guys](../transcriptions/yt-rePLsjw-eEY,45.311933333333336,78.41166666666666.md) [https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=45&end=79](https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=45&end=79)
+* [Jace Talk: A lot of love from the Studio to you guys](../transcriptions/yt-rePLsjw-eEY,45.311933333333336,78.41166666666666.md) [https://youtube.com/clip/UgkxpRUI9NqxA5i4NQxYtqayETWWkS2fwLo0](https://youtube.com/clip/UgkxpRUI9NqxA5i4NQxYtqayETWWkS2fwLo0)
 
 ## October 28th, 2021 Video
 * [Jace Talk: Dave from Heroic Replicas](../transcriptions/yt-YSPnFZbTvxE,50.78406666666667,66.69996666666667.md) [https://youtube.com/clip/UgkxojZRykZSjVwFQRFxWcuEdMegFjJAnbeN](https://youtube.com/clip/UgkxojZRykZSjVwFQRFxWcuEdMegFjJAnbeN)

@@ -29,7 +29,7 @@ date: Last Modified
 * [Q&A: How come you're turning Limestone into Concrete? How come it's Steel-framed?](../../transcriptions/yt-tdXyjapP9IM.md) [https://www.youtube.com/watch?v=tdXyjapP9IM](https://www.youtube.com/watch?v=tdXyjapP9IM)
 
 ## October 29th, 2021 Video
-* [Jace Talk: Missing Uranium & Bauxite nodes](../../transcriptions/yt-rePLsjw-eEY,274.1739,307.37373333333335.md) [https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=274&end=308](https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=274&end=308)
+* [Jace Talk: Missing Uranium & Bauxite nodes](../../transcriptions/yt-rePLsjw-eEY,274.1739,307.37373333333335.md) [https://youtube.com/clip/UgkxF11xfTEmK35yJgMg3SBYgBoW1L97CuiO](https://youtube.com/clip/UgkxF11xfTEmK35yJgMg3SBYgBoW1L97CuiO)
 
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
 * [Jace Talk: Dune Desert is getting an Update](../../transcriptions/yt-QfaReoks6OM,584.3333333333334,595.0416666666666.md) [https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=584&end=596](https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=584&end=596)

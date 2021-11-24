@@ -8,7 +8,7 @@ topics:
 ---
 # [October 29th, 2021 Video](../2021-10-29.md)
 ## Snutt Talk: We've added more music
-https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=765&end=799
+https://youtube.com/clip/UgkxG3P4nMWcbaf6x0LMKm3FrjY3GXkBVPwe
 
 ### Topics
 * [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)

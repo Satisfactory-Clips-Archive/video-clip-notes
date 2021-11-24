@@ -9,7 +9,7 @@ topics:
 ---
 # [October 29th, 2021 Video](../2021-10-29.md)
 ## Jace Talk: Stackable Conveyor Poles & Floor Holes have Hard Clearance
-https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=307&end=339
+https://youtube.com/clip/Ugkxpd3eHZ0jKPep0Xa5q8SqHCauxTS6oyDr
 
 ### Topics
 * [Features > Buildables > Conveyor Belts](../topics/features/buildables/conveyor-belts.md)

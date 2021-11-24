@@ -11,7 +11,7 @@ topics:
 ---
 # [October 29th, 2021 Video](../2021-10-29.md)
 ## Jace Talk: A lot of love from the Studio to you guys
-https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=45&end=79
+https://youtube.com/clip/UgkxpRUI9NqxA5i4NQxYtqayETWWkS2fwLo0
 
 ### Topics
 * [Coffee Stainers](../topics/coffee-stainers.md)

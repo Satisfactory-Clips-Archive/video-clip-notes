@@ -8,7 +8,7 @@ topics:
 ---
 # [October 29th, 2021 Video](../2021-10-29.md)
 ## Snutt Talk: We've added a lot more Emotes to the game
-https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=664&end=691
+https://youtube.com/clip/UgkxbJ0gh0nXVvwLDyffqVvrtBkhi8zdQR4Y
 
 ### Topics
 * [Features > Emotes](../topics/features/emotes.md)

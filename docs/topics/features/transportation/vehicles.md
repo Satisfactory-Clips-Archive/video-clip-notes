@@ -38,7 +38,7 @@ date: Last Modified
 * Q&A: Please add volume sliders for Vehicles [https://www.youtube.com/watch?v=FDAJll3QZw8](https://www.youtube.com/watch?v=FDAJll3QZw8)
 
 ## October 29th, 2021 Video
-* [Snutt Talk: You can Paint Vehicles, Trains, and Drones](../../../transcriptions/yt-rePLsjw-eEY,385.7854,405.30490000000003.md) [https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=385&end=406](https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=385&end=406)
+* [Snutt Talk: You can Paint Vehicles, Trains, and Drones](../../../transcriptions/yt-rePLsjw-eEY,385.7854,405.30490000000003.md) [https://youtube.com/clip/UgkxQT6FAmy_kl7s_EIq8rcyio7u9zY3Sxi5](https://youtube.com/clip/UgkxQT6FAmy_kl7s_EIq8rcyio7u9zY3Sxi5)
 
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
 * [Jace Talk: Truck Stations have gotten an Update](../../../transcriptions/yt-QfaReoks6OM,460.1666666666667,474.8333333333333.md) [https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=460&end=475](https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=460&end=475)

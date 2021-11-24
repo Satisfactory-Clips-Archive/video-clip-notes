@@ -99,7 +99,7 @@ date: Last Modified
 * [Snutt & Jace Talk: Josh's role in the Update 5 Patch Notes script](../../../transcriptions/yt-xYGnNA7VLVQ.md) [https://www.youtube.com/watch?v=xYGnNA7VLVQ](https://www.youtube.com/watch?v=xYGnNA7VLVQ)
 
 ## October 29th, 2021 Video
-* [Jace Talk: A lot of love from the Studio to you guys](../../../transcriptions/yt-rePLsjw-eEY,45.311933333333336,78.41166666666666.md) [https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=45&end=79](https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=45&end=79)
+* [Jace Talk: A lot of love from the Studio to you guys](../../../transcriptions/yt-rePLsjw-eEY,45.311933333333336,78.41166666666666.md) [https://youtube.com/clip/UgkxpRUI9NqxA5i4NQxYtqayETWWkS2fwLo0](https://youtube.com/clip/UgkxpRUI9NqxA5i4NQxYtqayETWWkS2fwLo0)
 
 ## October 27th, 2021 Video
 * [Intro](../../../transcriptions/yt-Nn-1s87JJxc,,34.200833333333335.md) [https://youtube.com/embed/Nn-1s87JJxc?autoplay=1&start=0&end=35](https://youtube.com/embed/Nn-1s87JJxc?autoplay=1&start=0&end=35)

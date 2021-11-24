@@ -9,7 +9,7 @@ date: Last Modified
 * [Q&A: A bug from Update 4 where Drone Ports use too many batteries isn't fixed](../../../../transcriptions/yt-k8ZPDghO130.md) [https://www.youtube.com/watch?v=k8ZPDghO130](https://www.youtube.com/watch?v=k8ZPDghO130)
 
 ## October 29th, 2021 Video
-* [Snutt Talk: You can Paint Vehicles, Trains, and Drones](../../../../transcriptions/yt-rePLsjw-eEY,385.7854,405.30490000000003.md) [https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=385&end=406](https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=385&end=406)
+* [Snutt Talk: You can Paint Vehicles, Trains, and Drones](../../../../transcriptions/yt-rePLsjw-eEY,385.7854,405.30490000000003.md) [https://youtube.com/clip/UgkxQT6FAmy_kl7s_EIq8rcyio7u9zY3Sxi5](https://youtube.com/clip/UgkxQT6FAmy_kl7s_EIq8rcyio7u9zY3Sxi5)
 
 ## October 5th, 2021 Livestream
 * [Q&A: Will you be adding collisions to Drones eventually?](../../../../transcriptions/yt-q9vl3IKPFWI.md) [https://www.youtube.com/watch?v=q9vl3IKPFWI](https://www.youtube.com/watch?v=q9vl3IKPFWI)

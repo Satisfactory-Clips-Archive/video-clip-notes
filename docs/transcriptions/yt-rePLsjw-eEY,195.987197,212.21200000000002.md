@@ -10,7 +10,7 @@ topics:
 ---
 # [October 29th, 2021 Video](../2021-10-29.md)
 ## Q&A: Do I need to buy the game on Steam to use Dedicated Servers if I already have the game on Epic?
-https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=195&end=213
+https://youtube.com/clip/UgkxmZWLf86Gudsx4oQlCYOCt47oUQ9_c_bg
 
 ### Topics
 * [Features > Multiplayer > Dedicated Servers](../topics/features/multiplayer/dedicated-servers.md)
