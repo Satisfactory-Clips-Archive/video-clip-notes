@@ -7,7 +7,7 @@ topics:
 ---
 # [November 23rd, 2021 Livestream](../2021-11-23.md)
 ## Q&A: Why does the Early Access version already have a new logo?
-https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5283&end=5298
+https://youtube.com/clip/UgkxUi1xQN_qYqOEtj_K0Q24Bdnx02iM9jRI
 
 ### Topics
 * [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)

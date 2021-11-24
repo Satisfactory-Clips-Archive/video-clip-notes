@@ -7,7 +7,7 @@ topics:
 ---
 # [November 23rd, 2021 Livestream](../2021-11-23.md)
 ## Q&A: Is Snutt your real name?
-https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6257&end=6276
+https://youtube.com/clip/UgkxE8o2Mvgt_wODwmGSrko1aVC0jfIF7sVK
 
 ### Topics
 * [Coffee Stainers > Snutt](../topics/coffee-stainers/snutt.md)

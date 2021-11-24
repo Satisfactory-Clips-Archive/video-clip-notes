@@ -8,7 +8,7 @@ topics:
 ---
 # [November 23rd, 2021 Livestream](../2021-11-23.md)
 ## Q&A: From where are you guys, what nationality?
-https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6302&end=6314
+https://youtube.com/clip/UgkxIdPhQ9rX4FUIm-4qXdbJnTPTBcFRUdrJ
 
 ### Topics
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)

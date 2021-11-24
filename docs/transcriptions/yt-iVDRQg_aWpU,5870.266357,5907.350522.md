@@ -7,7 +7,7 @@ topics:
 ---
 # [November 23rd, 2021 Livestream](../2021-11-23.md)
 ## Q&A: What happened to the little outtake parts at the end of videos?
-https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5870&end=5908
+https://youtube.com/clip/UgkxNfFNZKC4MNMjYCzW36j-3DWqZ5LOnDtW
 
 ### Topics
 * [Satisfactory Updates > Teasers & Trailers](../topics/satisfactory-updates/teasers-and-trailers.md)

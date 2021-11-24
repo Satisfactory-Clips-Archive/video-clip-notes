@@ -10,7 +10,7 @@ topics:
 # [May 25th, 2021 Livestream](../2021-05-25.md)
 ## Q&A: Have you both done programming?
 https://www.youtube.com/watch?v=TicJq4FxVFA
-This question was possibly duplicated with a more recent answer: [November 23rd, 2021 Livestream Q&A: Snutt & Jace, are you coders?](./yt-iVDRQg_aWpU,5385.766201503086,5400.303715.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5385&end=5401](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5385&end=5401)
+This question was possibly duplicated with a more recent answer: [November 23rd, 2021 Livestream Q&A: Snutt & Jace, are you coders?](./yt-iVDRQg_aWpU,5385.766201503086,5400.303715.md) [https://youtube.com/clip/Ugkx5JuAzcrsCCcFtpKMHAgOzSvYKgxHUPAy](https://youtube.com/clip/Ugkx5JuAzcrsCCcFtpKMHAgOzSvYKgxHUPAy)
 
 
 ### Topics

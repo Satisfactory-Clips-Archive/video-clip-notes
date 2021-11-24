@@ -9,7 +9,7 @@ topics:
 ---
 # [November 23rd, 2021 Livestream](../2021-11-23.md)
 ## Snutt & Jace Talk: Update 5 in Steam/Epic + Patch Notes
-https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=7108&end=7150
+https://youtube.com/clip/UgkxPcFmByEUQldSILEOQtqprHSKCjSPR4Au
 
 ### Topics
 * [Retail > Epic Store](../topics/retail/epic-store.md)

@@ -7,7 +7,7 @@ topics:
 ---
 # [November 23rd, 2021 Livestream](../2021-11-23.md)
 ## Q&A: How are those kick flips coming?
-https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6275&end=6303
+https://youtube.com/clip/Ugkxhy8J74xATZ33Agt-tL9ZeR9CMe5ApJX-
 
 ### Topics
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)

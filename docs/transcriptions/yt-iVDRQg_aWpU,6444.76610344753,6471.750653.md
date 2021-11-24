@@ -9,7 +9,7 @@ topics:
 ---
 # [November 23rd, 2021 Livestream](../2021-11-23.md)
 ## Q&A: Deep Rock Galactic enabled Unreal VR plugins for Modding, any chance you could do the same?
-https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6444&end=6472
+https://youtube.com/clip/Ugkx7Wy5kj3h1LbCNZqvjtvkrLd9qkb6dkVN
 
 ### Topics
 * [Features > Unplanned Features > VR](../topics/features/unplanned-features/vr.md)

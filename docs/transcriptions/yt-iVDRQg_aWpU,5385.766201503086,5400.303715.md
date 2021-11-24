@@ -8,7 +8,7 @@ topics:
 ---
 # [November 23rd, 2021 Livestream](../2021-11-23.md)
 ## Q&A: Snutt & Jace, are you coders?
-https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5385&end=5401
+https://youtube.com/clip/Ugkx5JuAzcrsCCcFtpKMHAgOzSvYKgxHUPAy
 <details>
 <summary>This question may have been asked previously at least 1 other time, as recently as May 2021.</summary>
 

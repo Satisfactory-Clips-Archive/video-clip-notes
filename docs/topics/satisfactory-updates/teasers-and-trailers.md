@@ -15,8 +15,8 @@ date: Last Modified
 * [Update 5 Teasers](../../topics/satisfactory-updates/teasers-and-trailers/update-5-teasers.md)
 
 ## November 23rd, 2021 Livestream
-* [Q&A: How do you make the video camera movements in your trailer?](../../transcriptions/yt-iVDRQg_aWpU,5097.134257,5152.865124.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5097&end=5153](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5097&end=5153)
-* [Q&A: What happened to the little outtake parts at the end of videos?](../../transcriptions/yt-iVDRQg_aWpU,5870.266357,5907.350522.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5870&end=5908](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5870&end=5908)
+* [Q&A: How do you make the video camera movements in your trailer?](../../transcriptions/yt-iVDRQg_aWpU,5097.134257,5152.865124.md) [https://youtube.com/clip/UgkxfJiLMCxJQS7r5-CW6a5OuFz8hP_VGUup](https://youtube.com/clip/UgkxfJiLMCxJQS7r5-CW6a5OuFz8hP_VGUup)
+* [Q&A: What happened to the little outtake parts at the end of videos?](../../transcriptions/yt-iVDRQg_aWpU,5870.266357,5907.350522.md) [https://youtube.com/clip/UgkxNfFNZKC4MNMjYCzW36j-3DWqZ5LOnDtW](https://youtube.com/clip/UgkxNfFNZKC4MNMjYCzW36j-3DWqZ5LOnDtW)
 * [Q&A: Any Teasers for what's coming next?](../../transcriptions/yt-iVDRQg_aWpU,6369.699443731482,6444.869612.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6369&end=6445](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6369&end=6445)
 
 ## November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary

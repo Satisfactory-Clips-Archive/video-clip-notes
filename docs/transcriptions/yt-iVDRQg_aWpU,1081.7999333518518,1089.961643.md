@@ -10,7 +10,7 @@ topics:
 ---
 # [November 23rd, 2021 Livestream](../2021-11-23.md)
 ## Trolling: Golf is in Patch Notes
-https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=1081&end=1090
+https://youtube.com/clip/UgkxlApmn76Rq_kH0dGYjDKWysApMOUxCjr_
 
 ### Topics
 * [Community](../topics/community.md)

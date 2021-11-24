@@ -7,7 +7,7 @@ topics:
 ---
 # [November 23rd, 2021 Livestream](../2021-11-23.md)
 ## Q&A: How do you make the video camera movements in your trailer?
-https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5097&end=5153
+https://youtube.com/clip/UgkxfJiLMCxJQS7r5-CW6a5OuFz8hP_VGUup
 <details>
 <summary>This question may have been asked previously at least 2 other times, as recently as August 2021 and as early as November 2020.</summary>
 

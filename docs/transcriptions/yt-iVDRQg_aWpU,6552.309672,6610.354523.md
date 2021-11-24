@@ -7,7 +7,7 @@ topics:
 ---
 # [November 23rd, 2021 Livestream](../2021-11-23.md)
 ## Q&A: Creative Mode?
-https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6552&end=6611
+https://youtube.com/clip/UgkxzV3qrV8ZonMWhSn5LBuM2YZsmxpnAs2d
 <details>
 <summary>This question may have been asked previously at least 21 other times, as recently as November 2021 and as early as August 2018.</summary>
 

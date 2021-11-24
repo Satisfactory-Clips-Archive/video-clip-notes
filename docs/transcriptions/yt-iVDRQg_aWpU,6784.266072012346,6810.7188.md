@@ -7,7 +7,7 @@ topics:
 ---
 # [November 23rd, 2021 Livestream](../2021-11-23.md)
 ## Q&A: Adding Elevators?
-https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6784&end=6811
+https://youtube.com/clip/UgkxNdm8cNFL8ta9X0qt6iDOGmD2-0Axsc8U
 <details>
 <summary>This question may have been asked previously at least 20 other times, as recently as November 2021 and as early as December 2019.</summary>
 

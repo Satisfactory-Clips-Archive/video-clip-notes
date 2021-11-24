@@ -6,8 +6,8 @@ date: Last Modified
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Unplanned Features](../../../topics/features/unplanned-features.md) > VR
 
 ## November 23rd, 2021 Livestream
-* [Q&A: VR Support?](../../../transcriptions/yt-iVDRQg_aWpU,6314.234365,6351.55304.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6314&end=6352](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6314&end=6352)
-* [Q&A: Deep Rock Galactic enabled Unreal VR plugins for Modding, any chance you could do the same?](../../../transcriptions/yt-iVDRQg_aWpU,6444.76610344753,6471.750653.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6444&end=6472](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6444&end=6472)
+* [Q&A: VR Support?](../../../transcriptions/yt-iVDRQg_aWpU,6314.234365,6351.55304.md) [https://youtube.com/clip/UgkxH_brYKMFYwxTeHs6_FQOtO4la68AvjEE](https://youtube.com/clip/UgkxH_brYKMFYwxTeHs6_FQOtO4la68AvjEE)
+* [Q&A: Deep Rock Galactic enabled Unreal VR plugins for Modding, any chance you could do the same?](../../../transcriptions/yt-iVDRQg_aWpU,6444.76610344753,6471.750653.md) [https://youtube.com/clip/Ugkx7Wy5kj3h1LbCNZqvjtvkrLd9qkb6dkVN](https://youtube.com/clip/Ugkx7Wy5kj3h1LbCNZqvjtvkrLd9qkb6dkVN)
 
 ## November 2nd, 2021 Livestream
 * [Q&A: RTX or VR support coming soon?](../../../transcriptions/yt-1jJweErvkSM.md) [https://www.youtube.com/watch?v=1jJweErvkSM](https://www.youtube.com/watch?v=1jJweErvkSM)

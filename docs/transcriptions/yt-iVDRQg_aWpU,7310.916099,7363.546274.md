@@ -9,7 +9,7 @@ topics:
 ---
 # [November 23rd, 2021 Livestream](../2021-11-23.md)
 ## Snutt & Jace Talk: Launcher issues
-https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=7310&end=7364
+https://youtube.com/clip/Ugkxxe5oLCLQG1rWyXjH4faPas26Wm_lyRv4
 
 ### Topics
 * [Retail > Epic Store](../topics/retail/epic-store.md)

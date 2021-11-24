@@ -8,7 +8,7 @@ date: Last Modified
 ## November 23rd, 2021 Livestream
 * [Q&A: Will it be Update 6 next, or 1.0?](../../../transcriptions/yt-iVDRQg_aWpU,5735.300345,5869.428342.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5735&end=5870](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5735&end=5870)
 * [Q&A: Any Teasers for what's coming next?](../../../transcriptions/yt-iVDRQg_aWpU,6369.699443731482,6444.869612.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6369&end=6445](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6369&end=6445)
-* [Q&A: What do expect for Update 6?](../../../transcriptions/yt-iVDRQg_aWpU,6717.066078234568,6772.139635.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6717&end=6773](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6717&end=6773)
+* [Q&A: What do expect for Update 6?](../../../transcriptions/yt-iVDRQg_aWpU,6717.066078234568,6772.139635.md) [https://youtube.com/clip/Ugkx9zBIvBRVlXzwViOm5V5CRayO9Lwa2M3P](https://youtube.com/clip/Ugkx9zBIvBRVlXzwViOm5V5CRayO9Lwa2M3P)
 * [Q&A: Update 5 is history, what about Update 6?](../../../transcriptions/yt-iVDRQg_aWpU,7189.732701135802,7273.149706.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=7189&end=7274](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=7189&end=7274)
 
 ## November 9th, 2021 Livestream

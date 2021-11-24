@@ -8,7 +8,7 @@ topics:
 ---
 # [November 23rd, 2021 Livestream](../2021-11-23.md)
 ## Snutt & Jace Talk: Dedicated Servers
-https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=7149&end=7190
+https://youtube.com/clip/UgkxZEMe6KgejftK_qlKahpnYSAprfHS9xsJ
 
 ### Topics
 * [Features > Multiplayer > Dedicated Servers](../topics/features/multiplayer/dedicated-servers.md)

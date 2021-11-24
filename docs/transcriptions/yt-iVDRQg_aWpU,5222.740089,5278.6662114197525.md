@@ -3,11 +3,12 @@ title: "November 23rd, 2021 Livestream Q&A: Paintball, when?"
 date: "2021-11-23"
 layout: transcript
 topics:
+    - "features/equipment/color-gun"
     - "features/requested-features"
 ---
 # [November 23rd, 2021 Livestream](../2021-11-23.md)
 ## Q&A: Paintball, when?
-https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5222&end=5279
+https://youtube.com/clip/Ugkx0jrYYplSz91YxCi4z1mxZ95tqIe7Ep5G
 <details>
 <summary>This question may have been asked previously at least 1 other time, as recently as November 2021.</summary>
 
@@ -16,6 +17,7 @@ https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5222&end=5279
 
 
 ### Topics
+* [Features > Equipment > Color Gun](../topics/features/equipment/color-gun.md)
 * [Features > Requested Features](../topics/features/requested-features.md)
 
 ### Transcript

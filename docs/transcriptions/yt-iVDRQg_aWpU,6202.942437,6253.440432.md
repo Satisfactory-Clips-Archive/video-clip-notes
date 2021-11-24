@@ -7,7 +7,7 @@ topics:
 ---
 # [November 23rd, 2021 Satisfactory UPDATE 5 Early Access Release Countdown Stream](../2021-11-23.md)
 ## Q&A: Why are my log files more than 1.5 gigabytes?
-https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6202&end=6254
+https://youtube.com/clip/UgkxsPb63tqNg69nIYl3EijzN07U6EmZWZwz
 ### Topics
 
 

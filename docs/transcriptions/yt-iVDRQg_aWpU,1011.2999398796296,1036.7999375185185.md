@@ -8,7 +8,7 @@ topics:
 ---
 # [November 23rd, 2021 Livestream](../2021-11-23.md)
 ## State of Dev: Update 5
-https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=1011&end=1037
+https://youtube.com/clip/UgkxxAm8G7CBs1UCGX0sIQS1-g6VgYPzvIgP
 
 ### Topics
 * [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)

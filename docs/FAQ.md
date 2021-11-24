@@ -3,7 +3,7 @@ title: "Frequently Asked Questions"
 date: Last Modified
 ---
 ## [November 23rd, 2021 Livestream](./2021-11-23.md)
-### [Q&A: Is Update 10 the official release of the game?](./transcriptions/yt-iVDRQg_aWpU,1090.781025,1102.470053.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=1090&end=1103](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=1090&end=1103)
+### [Q&A: Is Update 10 the official release of the game?](./transcriptions/yt-iVDRQg_aWpU,1090.781025,1102.470053.md) [https://youtube.com/clip/UgkxJY0uiqJ2nQo9yN79dW_r7Z_WHvGgBZJF](https://youtube.com/clip/UgkxJY0uiqJ2nQo9yN79dW_r7Z_WHvGgBZJF)
 
 <details>
 
@@ -21,7 +21,7 @@ date: Last Modified
 * [March 2nd, 2021 Livestream Q&A: Update 10 is 1.0?](./transcriptions/yt-dvCRDVGePX0.md) [https://www.youtube.com/watch?v=dvCRDVGePX0](https://www.youtube.com/watch?v=dvCRDVGePX0)
 </details>
 
-### [Q&A: How do you make the video camera movements in your trailer?](./transcriptions/yt-iVDRQg_aWpU,5097.134257,5152.865124.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5097&end=5153](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5097&end=5153)
+### [Q&A: How do you make the video camera movements in your trailer?](./transcriptions/yt-iVDRQg_aWpU,5097.134257,5152.865124.md) [https://youtube.com/clip/UgkxfJiLMCxJQS7r5-CW6a5OuFz8hP_VGUup](https://youtube.com/clip/UgkxfJiLMCxJQS7r5-CW6a5OuFz8hP_VGUup)
 
 <details>
 
@@ -39,7 +39,7 @@ date: Last Modified
 * [November 10th, 2020 Livestream Q&A: Any tools to add Cinematic Tools to the game like Machinima or Content Creator purposes?](./transcriptions/yt-tv1pCGiRtkM.md) [https://www.youtube.com/watch?v=tv1pCGiRtkM](https://www.youtube.com/watch?v=tv1pCGiRtkM)
 </details>
 
-### [Q&A: Any news on FICS⁕MAS](./transcriptions/yt-iVDRQg_aWpU,5201.332885246913,5221.387351.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5201&end=5222](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5201&end=5222)
+### [Q&A: Any news on FICS⁕MAS?](./transcriptions/yt-iVDRQg_aWpU,5201.332885246913,5221.387351.md) [https://youtube.com/clip/UgkxOPrO-HiCuEt09eibx7FPbg40uqpjTCdm](https://youtube.com/clip/UgkxOPrO-HiCuEt09eibx7FPbg40uqpjTCdm)
 
 <details>
 
@@ -67,7 +67,7 @@ date: Last Modified
 * [December 8th, 2020 Livestream Q&A: Will Gift Trees continue to produce?](./transcriptions/yt-FqUcLve4Oyc.md) [https://www.youtube.com/watch?v=FqUcLve4Oyc](https://www.youtube.com/watch?v=FqUcLve4Oyc)
 </details>
 
-### [Q&A: Are you planning controller support?](./transcriptions/yt-iVDRQg_aWpU,5443.766196132716,5462.457111.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5443&end=5463](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5443&end=5463)
+### [Q&A: Are you planning controller support?](./transcriptions/yt-iVDRQg_aWpU,5443.766196132716,5462.457111.md) [https://youtube.com/clip/Ugkx_m7MeOzn0RdknMehAUOG5Qlu03WVK6DP](https://youtube.com/clip/Ugkx_m7MeOzn0RdknMehAUOG5Qlu03WVK6DP)
 
 <details>
 
@@ -88,7 +88,7 @@ date: Last Modified
 * [February 6th, 2019 Livestream Q&A: Controller support?](./transcriptions/yt-Dtm6xIj-wM4,4052.6,4151.820477.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=4052&end=4152](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=4052&end=4152)
 </details>
 
-### [Q&A: Will there be Mod support for Dedicated Servers?](./transcriptions/yt-iVDRQg_aWpU,5464.290458,5495.929581.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5464&end=5496](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5464&end=5496)
+### [Q&A: Will there be Mod support for Dedicated Servers?](./transcriptions/yt-iVDRQg_aWpU,5464.290458,5495.929581.md) [https://youtube.com/clip/UgkxsP5lcPdeWaIlvmcA1Dn8o2vr7bW4M5x6](https://youtube.com/clip/UgkxsP5lcPdeWaIlvmcA1Dn8o2vr7bW4M5x6)
 
 <details>
 
@@ -110,7 +110,7 @@ date: Last Modified
 * [November 24th, 2020 Livestream Q&A: Are Dedicated Servers going to have Mod support?](./transcriptions/yt-PD79jEZuOAU.md) [https://www.youtube.com/watch?v=PD79jEZuOAU](https://www.youtube.com/watch?v=PD79jEZuOAU)
 </details>
 
-### [Q&A: VR Support?](./transcriptions/yt-iVDRQg_aWpU,6314.234365,6351.55304.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6314&end=6352](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6314&end=6352)
+### [Q&A: VR Support?](./transcriptions/yt-iVDRQg_aWpU,6314.234365,6351.55304.md) [https://youtube.com/clip/UgkxH_brYKMFYwxTeHs6_FQOtO4la68AvjEE](https://youtube.com/clip/UgkxH_brYKMFYwxTeHs6_FQOtO4la68AvjEE)
 
 <details>
 
@@ -137,7 +137,7 @@ date: Last Modified
 * [August 1st, 2018 Q&A: What about VR support?](./transcriptions/yt-iFAy1NZUOGU,66.08,68.24.md) [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=66&end=69](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=66&end=69)
 </details>
 
-### [Q&A: Any Updates to Lore & Story?](./transcriptions/yt-iVDRQg_aWpU,6517.399430055555,6547.114503.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6517&end=6548](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6517&end=6548)
+### [Q&A: Any Updates to Lore & Story?](./transcriptions/yt-iVDRQg_aWpU,6517.399430055555,6547.114503.md) [https://youtube.com/clip/Ugkxkmhy5Ji-noe8JIyT4_4zlV8PFsBiFifK](https://youtube.com/clip/Ugkxkmhy5Ji-noe8JIyT4_4zlV8PFsBiFifK)
 
 <details>
 
@@ -165,7 +165,7 @@ date: Last Modified
 * [March 2nd, 2021 Livestream Q&A: Is the Story completely written or is it still in progress?](./transcriptions/yt-YrcsAlypXbo.md) [https://www.youtube.com/watch?v=YrcsAlypXbo](https://www.youtube.com/watch?v=YrcsAlypXbo)
 </details>
 
-### [Q&A: Creative Mode?](./transcriptions/yt-iVDRQg_aWpU,6552.309672,6610.354523.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6552&end=6611](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6552&end=6611)
+### [Q&A: Creative Mode?](./transcriptions/yt-iVDRQg_aWpU,6552.309672,6610.354523.md) [https://youtube.com/clip/UgkxzV3qrV8ZonMWhSn5LBuM2YZsmxpnAs2d](https://youtube.com/clip/UgkxzV3qrV8ZonMWhSn5LBuM2YZsmxpnAs2d)
 
 <details>
 
@@ -202,7 +202,7 @@ date: Last Modified
 * [August 1st, 2018 Q&A: Will there be a Creative Mode?](./transcriptions/yt-iFAy1NZUOGU,14,29.md) [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=14&end=29](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=14&end=29)
 </details>
 
-### [Q&A: Adding Elevators?](./transcriptions/yt-iVDRQg_aWpU,6784.266072012346,6810.7188.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6784&end=6811](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6784&end=6811)
+### [Q&A: Adding Elevators?](./transcriptions/yt-iVDRQg_aWpU,6784.266072012346,6810.7188.md) [https://youtube.com/clip/UgkxNdm8cNFL8ta9X0qt6iDOGmD2-0Axsc8U](https://youtube.com/clip/UgkxNdm8cNFL8ta9X0qt6iDOGmD2-0Axsc8U)
 
 <details>
 

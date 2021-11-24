@@ -6,7 +6,7 @@ date: Last Modified
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > Possible Features > [Game Modes](../../../../topics/features/possible-features/game-modes.md) > Creative Mode
 
 ## November 23rd, 2021 Livestream
-* [Q&A: Creative Mode?](../../../../transcriptions/yt-iVDRQg_aWpU,6552.309672,6610.354523.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6552&end=6611](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6552&end=6611)
+* [Q&A: Creative Mode?](../../../../transcriptions/yt-iVDRQg_aWpU,6552.309672,6610.354523.md) [https://youtube.com/clip/UgkxzV3qrV8ZonMWhSn5LBuM2YZsmxpnAs2d](https://youtube.com/clip/UgkxzV3qrV8ZonMWhSn5LBuM2YZsmxpnAs2d)
 
 ## November 9th, 2021 Livestream
 * [Q&A: Any plans for sandbox/Creative Mode?](../../../../transcriptions/yt-B5eQjR_7TxY.md) [https://www.youtube.com/watch?v=B5eQjR_7TxY](https://www.youtube.com/watch?v=B5eQjR_7TxY)

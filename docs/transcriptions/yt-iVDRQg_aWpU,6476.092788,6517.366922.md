@@ -8,7 +8,7 @@ topics:
 ---
 # [November 23rd, 2021 Livestream](../2021-11-23.md)
 ## Snutt & Jace Talk: Planned Features
-https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6476&end=6518
+https://youtube.com/clip/UgkxLKTh4FPUqKUPsrIqt9V1U53wIKeCcLCV
 
 ### Topics
 * [Features > Planned Features](../topics/features/planned-features.md)

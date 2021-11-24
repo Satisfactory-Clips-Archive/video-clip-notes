@@ -6,10 +6,10 @@ date: Last Modified
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > Release Builds
 
 ## November 23rd, 2021 Livestream
-* [Q&A: When does Update 4 come out? When does Update 5 come out?](../../transcriptions/yt-iVDRQg_aWpU,4247.4996402314814,4257.680472.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=4247&end=4258](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=4247&end=4258)
+* [Q&A: When does Update 4 come out? When does Update 5 come out?](../../transcriptions/yt-iVDRQg_aWpU,4247.4996402314814,4257.680472.md) [https://youtube.com/clip/Ugkx0M7IL9HWyAOlW8R52zlg_2J-V7T2t6rI](https://youtube.com/clip/Ugkx0M7IL9HWyAOlW8R52zlg_2J-V7T2t6rI)
 * [Q&A: Will there be updates on Experimental?](../../transcriptions/yt-iVDRQg_aWpU,5618.797646,5733.849599.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5618&end=5734](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5618&end=5734)
 * [Q&A: Will there be a variable for SteamCMD for which version to choose?](../../transcriptions/yt-iVDRQg_aWpU,5908.04042,6133.638973.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5908&end=6134](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5908&end=6134)
-* [Snutt & Jace Talk: Dedicated Servers](../../transcriptions/yt-iVDRQg_aWpU,7149.632704848766,7189.706659.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=7149&end=7190](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=7149&end=7190)
+* [Snutt & Jace Talk: Dedicated Servers](../../transcriptions/yt-iVDRQg_aWpU,7149.632704848766,7189.706659.md) [https://youtube.com/clip/UgkxZEMe6KgejftK_qlKahpnYSAprfHS9xsJ](https://youtube.com/clip/UgkxZEMe6KgejftK_qlKahpnYSAprfHS9xsJ)
 * [Q&A: Which app ids are there for the server branches on SteamCMD?](../../transcriptions/yt-iVDRQg_aWpU,7363.566018373456,7451.537169.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=7363&end=7452](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=7363&end=7452)
 
 ## November 16th, 2021 Livestream

@@ -8,7 +8,7 @@ topics:
 ---
 # [November 23rd, 2021 Livestream](../2021-11-23.md)
 ## Q&A: Why hasn't Coffee Stain fixed inverted mouse on Vehicles?
-https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5574&end=5619
+https://youtube.com/clip/UgkxRC2q3FEVwELO6o5l3M_rG5RddCytjy52
 
 ### Topics
 * [Features > Requested Features](../topics/features/requested-features.md)

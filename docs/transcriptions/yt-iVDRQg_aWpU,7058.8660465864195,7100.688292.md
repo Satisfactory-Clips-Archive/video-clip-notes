@@ -8,7 +8,7 @@ topics:
 ---
 # [November 23rd, 2021 Livestream](../2021-11-23.md)
 ## Q&A: Who made the Trailer music?
-https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=7058&end=7101
+https://youtube.com/clip/Ugkx4Xo8LJMjHglDPNo6HkX_4MHtK3tIBM5J
 
 ### Topics
 * [Satisfactory Updates > Teasers & Trailers > Update 5 Teasers](../topics/satisfactory-updates/teasers-and-trailers/update-5-teasers.md)

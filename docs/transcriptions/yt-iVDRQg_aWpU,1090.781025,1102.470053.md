@@ -7,7 +7,7 @@ topics:
 ---
 # [November 23rd, 2021 Livestream](../2021-11-23.md)
 ## Q&A: Is Update 10 the official release of the game?
-https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=1090&end=1103
+https://youtube.com/clip/UgkxJY0uiqJ2nQo9yN79dW_r7Z_WHvGgBZJF
 <details>
 <summary>This question may have been asked previously at least 2 other times, as recently as September 2021 and as early as March 2021.</summary>
 

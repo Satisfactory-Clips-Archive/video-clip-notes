@@ -7,7 +7,7 @@ topics:
 ---
 # [November 23rd, 2021 Livestream](../2021-11-23.md)
 ## Q&A: Are you planning controller support?
-https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5443&end=5463
+https://youtube.com/clip/Ugkx_m7MeOzn0RdknMehAUOG5Qlu03WVK6DP
 <details>
 <summary>This question may have been asked previously at least 5 other times, as recently as August 2021 and as early as February 2019.</summary>
 

@@ -8,7 +8,7 @@ topics:
 ---
 # [November 23rd, 2021 Livestream](../2021-11-23.md)
 ## Community FYI: It's the Zoop Update
-https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=7273&end=7297
+https://youtube.com/clip/UgkxsAofLiB_1ZZz5ZXn6dcjznapIMwmuLF-
 
 ### Topics
 * [Features > Planned Features > Build Modes > Zooping](../topics/features/planned-features/build-modes/zooping.md)

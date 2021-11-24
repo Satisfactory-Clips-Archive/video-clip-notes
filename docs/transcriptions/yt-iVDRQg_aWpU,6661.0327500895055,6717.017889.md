@@ -7,7 +7,7 @@ topics:
 ---
 # [November 23rd, 2021 Livestream](../2021-11-23.md)
 ## Q&A: Where to post feedback?
-https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6661&end=6718
+https://youtube.com/clip/Ugkx7HRD-xAbzE9CJcVG7BR2io_qfzL7jLHp
 <details>
 <summary>This question may have been asked previously at least 1 other time, as recently as September 2021.</summary>
 

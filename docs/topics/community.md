@@ -25,7 +25,7 @@ date: Last Modified
 * [Wiki](../topics/community/wiki.md)
 
 ## November 23rd, 2021 Livestream
-* [Trolling: Golf is in Patch Notes](../transcriptions/yt-iVDRQg_aWpU,1081.7999333518518,1089.961643.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=1081&end=1090](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=1081&end=1090)
+* [Trolling: Golf is in Patch Notes](../transcriptions/yt-iVDRQg_aWpU,1081.7999333518518,1089.961643.md) [https://youtube.com/clip/UgkxlApmn76Rq_kH0dGYjDKWysApMOUxCjr_](https://youtube.com/clip/UgkxlApmn76Rq_kH0dGYjDKWysApMOUxCjr_)
 
 ## November 16th, 2021 Livestream
 * [Q&A: Do you hate answering the same questions every week?](../transcriptions/yt-BhGBXKzEeyo.md) [https://www.youtube.com/watch?v=BhGBXKzEeyo](https://www.youtube.com/watch?v=BhGBXKzEeyo)

@@ -8,7 +8,7 @@ topics:
 # [June 29th, 2021 Livestream](../2021-06-29.md)
 ## Q&A: Elevators, when?
 https://www.youtube.com/watch?v=fRuFxL5hv-I
-This question was possibly duplicated with a more recent answer: [November 23rd, 2021 Livestream Q&A: Adding Elevators?](./yt-iVDRQg_aWpU,6784.266072012346,6810.7188.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6784&end=6811](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6784&end=6811)
+This question was possibly duplicated with a more recent answer: [November 23rd, 2021 Livestream Q&A: Adding Elevators?](./yt-iVDRQg_aWpU,6784.266072012346,6810.7188.md) [https://youtube.com/clip/UgkxNdm8cNFL8ta9X0qt6iDOGmD2-0Axsc8U](https://youtube.com/clip/UgkxNdm8cNFL8ta9X0qt6iDOGmD2-0Axsc8U)
 
 
 ### Topics

@@ -7,7 +7,7 @@ topics:
 ---
 # [November 23rd, 2021 Livestream](../2021-11-23.md)
 ## Q&A: Any Updates to Lore & Story?
-https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6517&end=6548
+https://youtube.com/clip/Ugkxkmhy5Ji-noe8JIyT4_4zlV8PFsBiFifK
 <details>
 <summary>This question may have been asked previously at least 12 other times, as recently as September 2021 and as early as March 2021.</summary>
 

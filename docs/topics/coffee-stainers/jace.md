@@ -10,11 +10,11 @@ date: Last Modified
 * [Juice Velvet](../../topics/coffee-stainers/jace/juice-velvet.md)
 
 ## November 23rd, 2021 Livestream
-* [Q&A: Is Jace an aussie?](../../transcriptions/yt-iVDRQg_aWpU,4198.666311419753,4201.467462.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=4198&end=4202](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=4198&end=4202)
-* [Q&A: Snutt & Jace, are you coders?](../../transcriptions/yt-iVDRQg_aWpU,5385.766201503086,5400.303715.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5385&end=5401](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5385&end=5401)
-* [Q&A: How are those kick flips coming?](../../transcriptions/yt-iVDRQg_aWpU,6275.099452490741,6302.079594.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6275&end=6303](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6275&end=6303)
-* [Q&A: From where are you guys, what nationality?](../../transcriptions/yt-iVDRQg_aWpU,6302.09944999074,6313.24705.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6302&end=6314](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6302&end=6314)
-* [Q&A: What state is Jace from?](../../transcriptions/yt-iVDRQg_aWpU,6351.599445407407,6364.191939.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6351&end=6365](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6351&end=6365)
+* [Q&A: Is Jace an aussie?](../../transcriptions/yt-iVDRQg_aWpU,4198.666311419753,4201.467462.md) [https://youtube.com/clip/Ugkx05U17mzOtQlAzApCUrF0VyqkJ1XZ4Tpa](https://youtube.com/clip/Ugkx05U17mzOtQlAzApCUrF0VyqkJ1XZ4Tpa)
+* [Q&A: Snutt & Jace, are you coders?](../../transcriptions/yt-iVDRQg_aWpU,5385.766201503086,5400.303715.md) [https://youtube.com/clip/Ugkx5JuAzcrsCCcFtpKMHAgOzSvYKgxHUPAy](https://youtube.com/clip/Ugkx5JuAzcrsCCcFtpKMHAgOzSvYKgxHUPAy)
+* [Q&A: How are those kick flips coming?](../../transcriptions/yt-iVDRQg_aWpU,6275.099452490741,6302.079594.md) [https://youtube.com/clip/Ugkxhy8J74xATZ33Agt-tL9ZeR9CMe5ApJX-](https://youtube.com/clip/Ugkxhy8J74xATZ33Agt-tL9ZeR9CMe5ApJX-)
+* [Q&A: From where are you guys, what nationality?](../../transcriptions/yt-iVDRQg_aWpU,6302.09944999074,6313.24705.md) [https://youtube.com/clip/UgkxIdPhQ9rX4FUIm-4qXdbJnTPTBcFRUdrJ](https://youtube.com/clip/UgkxIdPhQ9rX4FUIm-4qXdbJnTPTBcFRUdrJ)
+* [Q&A: What state is Jace from?](../../transcriptions/yt-iVDRQg_aWpU,6351.599445407407,6364.191939.md) [https://youtube.com/clip/UgkxUaxvzFsg6XMHW0COJTNjJH8PmL_jDDO8](https://youtube.com/clip/UgkxUaxvzFsg6XMHW0COJTNjJH8PmL_jDDO8)
 
 ## November 16th, 2021 Livestream
 * [Q&A: Do you miss being developers?](../../transcriptions/yt-WNg80maIy8E.md) [https://www.youtube.com/watch?v=WNg80maIy8E](https://www.youtube.com/watch?v=WNg80maIy8E)

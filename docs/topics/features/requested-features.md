@@ -13,9 +13,9 @@ date: Last Modified
 * [Third-person View](../../topics/features/requested-features/third-person-view.md)
 
 ## November 23rd, 2021 Livestream
-* [Q&A: Paintball, when?](../../transcriptions/yt-iVDRQg_aWpU,5222.740089,5278.6662114197525.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5222&end=5279](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5222&end=5279)
-* [Q&A: Are you planning controller support?](../../transcriptions/yt-iVDRQg_aWpU,5443.766196132716,5462.457111.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5443&end=5463](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5443&end=5463)
-* [Q&A: Why hasn't Coffee Stain fixed inverted mouse on Vehicles?](../../transcriptions/yt-iVDRQg_aWpU,5574.738038,5618.038897.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5574&end=5619](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5574&end=5619)
+* [Q&A: Paintball, when?](../../transcriptions/yt-iVDRQg_aWpU,5222.740089,5278.6662114197525.md) [https://youtube.com/clip/Ugkx0jrYYplSz91YxCi4z1mxZ95tqIe7Ep5G](https://youtube.com/clip/Ugkx0jrYYplSz91YxCi4z1mxZ95tqIe7Ep5G)
+* [Q&A: Are you planning controller support?](../../transcriptions/yt-iVDRQg_aWpU,5443.766196132716,5462.457111.md) [https://youtube.com/clip/Ugkx_m7MeOzn0RdknMehAUOG5Qlu03WVK6DP](https://youtube.com/clip/Ugkx_m7MeOzn0RdknMehAUOG5Qlu03WVK6DP)
+* [Q&A: Why hasn't Coffee Stain fixed inverted mouse on Vehicles?](../../transcriptions/yt-iVDRQg_aWpU,5574.738038,5618.038897.md) [https://youtube.com/clip/UgkxRC2q3FEVwELO6o5l3M_rG5RddCytjy52](https://youtube.com/clip/UgkxRC2q3FEVwELO6o5l3M_rG5RddCytjy52)
 
 ## November 16th, 2021 Livestream
 * [Q&A: Will you consider adding a feature to limit how much of a Container we can fill?](../../transcriptions/yt-bBdZgoKTPZ4.md) [https://www.youtube.com/watch?v=bBdZgoKTPZ4](https://www.youtube.com/watch?v=bBdZgoKTPZ4)

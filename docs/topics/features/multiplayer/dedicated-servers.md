@@ -6,11 +6,11 @@ date: Last Modified
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Multiplayer](../../../topics/features/multiplayer.md) > Dedicated Servers
 
 ## November 23rd, 2021 Livestream
-* [Q&A: Dedicated Servers with more than 4 players?](../../../transcriptions/yt-iVDRQg_aWpU,4221.799642611111,4247.463418.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=4221&end=4248](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=4221&end=4248)
+* [Q&A: Dedicated Servers with more than 4 players?](../../../transcriptions/yt-iVDRQg_aWpU,4221.799642611111,4247.463418.md) [https://youtube.com/clip/UgkxhsqKkTucssBdLCJtFjRmxGZtF-yz7Ceg](https://youtube.com/clip/UgkxhsqKkTucssBdLCJtFjRmxGZtF-yz7Ceg)
 * [Snutt & Jace Talk: Dedicated Servers available on Epic](../../../transcriptions/yt-iVDRQg_aWpU,5297.999542962963,5385.740139.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5297&end=5386](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5297&end=5386)
-* [Q&A: Will there be Mod support for Dedicated Servers?](../../../transcriptions/yt-iVDRQg_aWpU,5464.290458,5495.929581.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5464&end=5496](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5464&end=5496)
+* [Q&A: Will there be Mod support for Dedicated Servers?](../../../transcriptions/yt-iVDRQg_aWpU,5464.290458,5495.929581.md) [https://youtube.com/clip/UgkxsP5lcPdeWaIlvmcA1Dn8o2vr7bW4M5x6](https://youtube.com/clip/UgkxsP5lcPdeWaIlvmcA1Dn8o2vr7bW4M5x6)
 * [Q&A: Will there be a variable for SteamCMD for which version to choose?](../../../transcriptions/yt-iVDRQg_aWpU,5908.04042,6133.638973.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5908&end=6134](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5908&end=6134)
-* [Snutt & Jace Talk: Dedicated Servers](../../../transcriptions/yt-iVDRQg_aWpU,7149.632704848766,7189.706659.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=7149&end=7190](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=7149&end=7190)
+* [Snutt & Jace Talk: Dedicated Servers](../../../transcriptions/yt-iVDRQg_aWpU,7149.632704848766,7189.706659.md) [https://youtube.com/clip/UgkxZEMe6KgejftK_qlKahpnYSAprfHS9xsJ](https://youtube.com/clip/UgkxZEMe6KgejftK_qlKahpnYSAprfHS9xsJ)
 * [Q&A: Which app ids are there for the server branches on SteamCMD?](../../../transcriptions/yt-iVDRQg_aWpU,7363.566018373456,7451.537169.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=7363&end=7452](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=7363&end=7452)
 
 ## November 19th, 2021 Video

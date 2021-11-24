@@ -7,7 +7,7 @@ topics:
 ---
 # [November 23rd, 2021 Livestream](../2021-11-23.md)
 ## Q&A: What state is Jace from?
-https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6351&end=6365
+https://youtube.com/clip/UgkxUaxvzFsg6XMHW0COJTNjJH8PmL_jDDO8
 
 ### Topics
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)

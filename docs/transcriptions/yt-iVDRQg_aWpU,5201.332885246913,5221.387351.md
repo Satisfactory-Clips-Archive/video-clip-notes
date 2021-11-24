@@ -1,13 +1,13 @@
 ---
-title: "November 23rd, 2021 Livestream Q&A: Any news on FICS⁕MAS"
+title: "November 23rd, 2021 Livestream Q&A: Any news on FICS⁕MAS?"
 date: "2021-11-23"
 layout: transcript
 topics:
     - "satisfactory-updates/seasonal-events/fics-mas"
 ---
 # [November 23rd, 2021 Livestream](../2021-11-23.md)
-## Q&A: Any news on FICS⁕MAS
-https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5201&end=5222
+## Q&A: Any news on FICS⁕MAS?
+https://youtube.com/clip/UgkxOPrO-HiCuEt09eibx7FPbg40uqpjTCdm
 <details>
 <summary>This question may have been asked previously at least 12 other times, as recently as November 2021 and as early as December 2020.</summary>
 

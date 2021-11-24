@@ -7,8 +7,8 @@ date: Last Modified
 * [Steam Release](../../topics/retail/steam-store/steam-release.md)
 
 ## November 23rd, 2021 Livestream
-* [Snutt & Jace Talk: Update 5 in Steam/Epic + Patch Notes](../../transcriptions/yt-iVDRQg_aWpU,7108.299375342593,7149.602041.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=7108&end=7150](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=7108&end=7150)
-* [Snutt & Jace Talk: Launcher issues](../../transcriptions/yt-iVDRQg_aWpU,7310.916099,7363.546274.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=7310&end=7364](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=7310&end=7364)
+* [Snutt & Jace Talk: Update 5 in Steam/Epic + Patch Notes](../../transcriptions/yt-iVDRQg_aWpU,7108.299375342593,7149.602041.md) [https://youtube.com/clip/UgkxPcFmByEUQldSILEOQtqprHSKCjSPR4Au](https://youtube.com/clip/UgkxPcFmByEUQldSILEOQtqprHSKCjSPR4Au)
+* [Snutt & Jace Talk: Launcher issues](../../transcriptions/yt-iVDRQg_aWpU,7310.916099,7363.546274.md) [https://youtube.com/clip/Ugkxxe5oLCLQG1rWyXjH4faPas26Wm_lyRv4](https://youtube.com/clip/Ugkxxe5oLCLQG1rWyXjH4faPas26Wm_lyRv4)
 
 ## November 2nd, 2021 Livestream
 * [Q&A: Dedicated Servers don't show up in my Steam Library, is it a regional thing?](../../transcriptions/yt-6Trsm-es3TQ.md) [https://www.youtube.com/watch?v=6Trsm-es3TQ](https://www.youtube.com/watch?v=6Trsm-es3TQ)

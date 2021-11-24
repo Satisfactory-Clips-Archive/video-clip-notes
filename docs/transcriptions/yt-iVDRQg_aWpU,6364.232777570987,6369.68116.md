@@ -7,7 +7,7 @@ topics:
 ---
 # [November 23rd, 2021 Livestream](../2021-11-23.md)
 ## Snutt & Jace Talk: Less than 10 minutes
-https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6364&end=6370
+https://youtube.com/clip/Ugkx5ye_A6kynoFUW4iB1o4dSXQ4I_GNO18I
 
 ### Topics
 * [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)

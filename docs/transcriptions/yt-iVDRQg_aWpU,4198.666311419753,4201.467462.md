@@ -7,7 +7,7 @@ topics:
 ---
 # [November 23rd, 2021 Livestream](../2021-11-23.md)
 ## Q&A: Is Jace an aussie?
-https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=4198&end=4202
+https://youtube.com/clip/Ugkx05U17mzOtQlAzApCUrF0VyqkJ1XZ4Tpa
 
 ### Topics
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)

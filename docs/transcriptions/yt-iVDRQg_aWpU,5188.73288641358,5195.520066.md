@@ -7,7 +7,7 @@ topics:
 ---
 # [November 23rd, 2021 Livestream](../2021-11-23.md)
 ## Q&A: Golf, when?
-https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5188&end=5196
+https://youtube.com/clip/UgkxtKr3YShULCOATqNTspPVmbJ_hDuQi765
 <details>
 <summary>This question may have been asked previously at least 1 other time, as recently as November 2021.</summary>
 

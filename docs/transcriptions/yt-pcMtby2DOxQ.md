@@ -8,7 +8,7 @@ topics:
 # [September 14th, 2021 Livestream](../2021-09-14.md)
 ## Q&A: Is FICS⁕MAS returning this year?
 https://www.youtube.com/watch?v=pcMtby2DOxQ
-This question was possibly duplicated with a more recent answer: [November 23rd, 2021 Livestream Q&A: Any news on FICS⁕MAS](./yt-iVDRQg_aWpU,5201.332885246913,5221.387351.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5201&end=5222](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5201&end=5222)
+This question was possibly duplicated with a more recent answer: [November 23rd, 2021 Livestream Q&A: Any news on FICS⁕MAS?](./yt-iVDRQg_aWpU,5201.332885246913,5221.387351.md) [https://youtube.com/clip/UgkxOPrO-HiCuEt09eibx7FPbg40uqpjTCdm](https://youtube.com/clip/UgkxOPrO-HiCuEt09eibx7FPbg40uqpjTCdm)
 
 
 ### Topics

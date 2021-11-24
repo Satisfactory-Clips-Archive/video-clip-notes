@@ -7,7 +7,7 @@ topics:
 ---
 # [November 23rd, 2021 Livestream](../2021-11-23.md)
 ## Q&A: What do expect for Update 6?
-https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6717&end=6773
+https://youtube.com/clip/Ugkx9zBIvBRVlXzwViOm5V5CRayO9Lwa2M3P
 
 ### Topics
 * [Satisfactory Updates > Speculative > Satisfactory Update 6](../topics/satisfactory-updates/speculative/satisfactory-update-6.md)

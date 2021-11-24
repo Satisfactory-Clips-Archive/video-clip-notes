@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Equipment](../../../topics/features/equipment.md) > Color Gun
 
+## November 23rd, 2021 Livestream
+* [Q&A: Paintball, when?](../../../transcriptions/yt-iVDRQg_aWpU,5222.740089,5278.6662114197525.md) [https://youtube.com/clip/Ugkx0jrYYplSz91YxCi4z1mxZ95tqIe7Ep5G](https://youtube.com/clip/Ugkx0jrYYplSz91YxCi4z1mxZ95tqIe7Ep5G)
+
 ## November 9th, 2021 Livestream
 * [Q&A: Add Paintball?](../../../transcriptions/yt-X1PFJ-0uUXs.md) [https://www.youtube.com/watch?v=X1PFJ-0uUXs](https://www.youtube.com/watch?v=X1PFJ-0uUXs)
 * [Community FYI: Customizer Wars](../../../transcriptions/yt-Bqebo7gBZmY.md) [https://www.youtube.com/watch?v=Bqebo7gBZmY](https://www.youtube.com/watch?v=Bqebo7gBZmY)

@@ -7,7 +7,7 @@ topics:
 ---
 # [November 23rd, 2021 Livestream](../2021-11-23.md)
 ## Snutt & Jace Talk: Countdown to Update 5 Trailer
-https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5400&end=5444
+https://youtube.com/clip/UgkxAk7M9GhSb21pN_fbWj5xwRmqirWZLNb-
 
 ### Topics
 * [Satisfactory Updates > Teasers & Trailers > Update 5 Teasers](../topics/satisfactory-updates/teasers-and-trailers/update-5-teasers.md)

@@ -7,7 +7,7 @@ topics:
 ---
 # [November 23rd, 2021 Livestream](../2021-11-23.md)
 ## Snutt & Jace Talk: Update 5 is out
-https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=7018&end=7059
+https://youtube.com/clip/UgkxilI3zTiT7tKcWJnk1tGfRV9u8MPTdlMi
 
 ### Topics
 * [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)

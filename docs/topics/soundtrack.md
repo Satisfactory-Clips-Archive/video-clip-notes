@@ -6,7 +6,7 @@ date: Last Modified
 # [Topics](../topics.md) > Soundtrack
 
 ## November 23rd, 2021 Livestream
-* [Q&A: Who made the Trailer music?](../transcriptions/yt-iVDRQg_aWpU,7058.8660465864195,7100.688292.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=7058&end=7101](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=7058&end=7101)
+* [Q&A: Who made the Trailer music?](../transcriptions/yt-iVDRQg_aWpU,7058.8660465864195,7100.688292.md) [https://youtube.com/clip/Ugkx4Xo8LJMjHglDPNo6HkX_4MHtK3tIBM5J](https://youtube.com/clip/Ugkx4Xo8LJMjHglDPNo6HkX_4MHtK3tIBM5J)
 
 ## November 9th, 2021 Livestream
 * [Q&A: Will there be a Satisfactory Soundtrack vinyl disc?](../transcriptions/yt-KHMpvF2OS08.md) [https://www.youtube.com/watch?v=KHMpvF2OS08](https://www.youtube.com/watch?v=KHMpvF2OS08)

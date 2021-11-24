@@ -9,7 +9,7 @@ topics:
 # [September 21st, 2021 Livestream](../2021-09-21.md)
 ## Q&A: Are you ready to celebrate the fact that the next Update is half way towards 1.0?
 https://www.youtube.com/watch?v=o64NGIJwdm4
-This question was possibly duplicated with a more recent answer: [November 23rd, 2021 Livestream Q&A: Is Update 10 the official release of the game?](./yt-iVDRQg_aWpU,1090.781025,1102.470053.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=1090&end=1103](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=1090&end=1103)
+This question was possibly duplicated with a more recent answer: [November 23rd, 2021 Livestream Q&A: Is Update 10 the official release of the game?](./yt-iVDRQg_aWpU,1090.781025,1102.470053.md) [https://youtube.com/clip/UgkxJY0uiqJ2nQo9yN79dW_r7Z_WHvGgBZJF](https://youtube.com/clip/UgkxJY0uiqJ2nQo9yN79dW_r7Z_WHvGgBZJF)
 
 
 ### Topics

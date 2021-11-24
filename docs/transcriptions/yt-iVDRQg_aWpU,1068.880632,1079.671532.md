@@ -7,7 +7,7 @@ topics:
 ---
 # [November 23rd, 2021 Livestream](../2021-11-23.md)
 ## Q&A: Is the Australian release time the same as that time?
-https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=1068&end=1080
+https://youtube.com/clip/Ugkxel969I5jTKK51_7rD0tBz2UqdAy4kIM3
 
 ### Topics
 * [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)

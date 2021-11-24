@@ -8,7 +8,7 @@ date: Last Modified
 * [Project Assembly](../topics/story-and-lore/project-assembly.md)
 
 ## November 23rd, 2021 Livestream
-* [Q&A: Any Updates to Lore & Story?](../transcriptions/yt-iVDRQg_aWpU,6517.399430055555,6547.114503.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6517&end=6548](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6517&end=6548)
+* [Q&A: Any Updates to Lore & Story?](../transcriptions/yt-iVDRQg_aWpU,6517.399430055555,6547.114503.md) [https://youtube.com/clip/Ugkxkmhy5Ji-noe8JIyT4_4zlV8PFsBiFifK](https://youtube.com/clip/Ugkxkmhy5Ji-noe8JIyT4_4zlV8PFsBiFifK)
 
 ## November 9th, 2021 Livestream
 * [Q&A: Why does FICSIT use Comic Sans on the employee manual in the Equipment Shop?](../transcriptions/yt-__8bl6Z31PE.md) [https://www.youtube.com/watch?v=__8bl6Z31PE](https://www.youtube.com/watch?v=__8bl6Z31PE)
