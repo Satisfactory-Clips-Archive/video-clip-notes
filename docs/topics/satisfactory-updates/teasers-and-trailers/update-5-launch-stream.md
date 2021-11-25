@@ -153,7 +153,7 @@ date: Last Modified
 * Coffee Stainer Talk: Challenge Run (Part 4) [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=13429&end=13456](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=13429&end=13456)
 * Q&A: Does Mark think there's going to be another Quality of Life Update in the future? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=13455&end=13509](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=13455&end=13509)
 * Coffee Stainer Talk: Challenge Run (Part 5) [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=13506&end=13582](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=13506&end=13582)
-* Q&A: Is there going to be a polish push be fore 1.0? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=13581&end=13636](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=13581&end=13636)
+* Q&A: Is there going to be a polish push before 1.0? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=13581&end=13636](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=13581&end=13636)
 * Coffee Stainer Talk: Challenge Run (Part 6) [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=13635&end=13693](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=13635&end=13693)
 * Q&A: What is Mark most excited about for Update 5? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=13692&end=13744](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=13692&end=13744)
 * Mark, Snutt, and Jace Talk: Started Update 5 Teaser season, then delayed it [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=13743&end=13937](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=13743&end=13937)

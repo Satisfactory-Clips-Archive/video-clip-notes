@@ -33,7 +33,7 @@ date: Last Modified
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
 * Q&A: What was the first version of the game Tobias played? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=3322&end=3348](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=3322&end=3348)
 * Q&A: Does Mark think there's going to be another Quality of Life Update in the future? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=13455&end=13509](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=13455&end=13509)
-* Q&A: Is there going to be a polish push be fore 1.0? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=13581&end=13636](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=13581&end=13636)
+* Q&A: Is there going to be a polish push before 1.0? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=13581&end=13636](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=13581&end=13636)
 
 ## October 19th, 2021 Livestream
 * Q&A: How many more Updates? [https://www.youtube.com/watch?v=-jMLTqAu7t8](https://www.youtube.com/watch?v=-jMLTqAu7t8)
