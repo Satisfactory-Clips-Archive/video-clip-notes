@@ -1,12 +1,12 @@
 ---
-title: "November 23rd, 2021 Livestream Q&A: What do expect for Update 6?"
+title: "November 23rd, 2021 Livestream Q&A: What to expect for Update 6?"
 date: "2021-11-23"
 layout: transcript
 topics:
     - "satisfactory-updates/speculative/satisfactory-update-6"
 ---
 # [November 23rd, 2021 Livestream](../2021-11-23.md)
-## Q&A: What do expect for Update 6?
+## Q&A: What to expect for Update 6?
 https://youtube.com/clip/Ugkx9zBIvBRVlXzwViOm5V5CRayO9Lwa2M3P
 
 ### Topics
