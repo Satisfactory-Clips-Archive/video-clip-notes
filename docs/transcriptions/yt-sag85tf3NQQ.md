@@ -3,6 +3,7 @@ title: "December 1st, 2020 Livestream Q&A: How do we get rid of toxic waste?"
 date: "2020-12-01"
 layout: transcript
 topics:
+    - "coffee-stainers/tim"
     - "features/power-management/nuclear-energy/nuclear-waste"
     - "special-guests"
 ---
@@ -13,6 +14,7 @@ This question was possibly replaced with a more recent answer: [February 16th, 2
 
 
 ### Topics
+* [Coffee Stainers > Tim](../topics/coffee-stainers/tim.md)
 * [Features > Power Management > Nuclear Energy > Nuclear Waste](../topics/features/power-management/nuclear-energy/nuclear-waste.md)
 * [Special Guests](../topics/special-guests.md)
 
