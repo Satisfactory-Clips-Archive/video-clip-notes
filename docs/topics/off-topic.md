@@ -200,3 +200,6 @@ date: Last Modified
 * [Snutt, Simon, Jace Talk: Don't shit in the storage box](../transcriptions/yt-3gFgrVEkOpc.md) [https://www.youtube.com/watch?v=3gFgrVEkOpc](https://www.youtube.com/watch?v=3gFgrVEkOpc)
 * [Q&A: Pizza with seafood?](../transcriptions/yt-cWHt7D471vI.md) [https://www.youtube.com/watch?v=cWHt7D471vI](https://www.youtube.com/watch?v=cWHt7D471vI)
 * [Q&A: Is Jace using an old soup can for a mic?](../transcriptions/yt-kNfhYvkifNM.md) [https://www.youtube.com/watch?v=kNfhYvkifNM](https://www.youtube.com/watch?v=kNfhYvkifNM)
+
+## February 6th, 2019 Livestream
+* [Q&A: Can I play a Civilisation session with you guys?](../transcriptions/yt-Dtm6xIj-wM4,4036.169452,4043.827266.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=4036&end=4044](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=4036&end=4044)
