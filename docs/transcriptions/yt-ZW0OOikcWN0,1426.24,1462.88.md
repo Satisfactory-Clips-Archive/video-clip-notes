@@ -7,7 +7,7 @@ topics:
 ---
 # [August 1st, 2017 Tutorial](../2017-08-01.md)
 ## Outro
-https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=1426&end=1463
+https://youtube.com/clip/UgkxUjmX_VPU_Dx_CWBrmMv4zAMBYXi4yi3J
 
 ### Topics
 * [Satisfactory Updates > Pre-Alpha](../topics/satisfactory-updates/pre-alpha.md)

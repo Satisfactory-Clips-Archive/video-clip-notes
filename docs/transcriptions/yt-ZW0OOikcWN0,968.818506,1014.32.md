@@ -8,7 +8,7 @@ topics:
 ---
 # [August 1st, 2017 Tutorial](../2017-08-01.md)
 ## Jace Talk: Automating Crafting (Part 2)
-https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=968&end=1015
+https://youtube.com/clip/UgkxkBGJU822V0WH-mhLg3Rpuba9zO8LszJv
 <details>
 <summary>This video is a continuation of a previous video</summary>
 

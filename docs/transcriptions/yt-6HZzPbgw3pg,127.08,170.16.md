@@ -9,7 +9,7 @@ topics:
 ---
 # [November 17th, 2017 Introduction](../2017-11-17.md)
 ## Why would we need a Community Manager now?
-https://youtube.com/embed/6HZzPbgw3pg?autoplay=1&start=127&end=171
+https://youtube.com/clip/UgkxYIMeUJzTWAs6GaiQM4k5e0LyeZJfhtdF
 
 ### Topics
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)

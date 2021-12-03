@@ -90,6 +90,6 @@ date: Last Modified
 * [Reinforced Iron Plates being created](../../transcriptions/yt-J_Dznt1OG-0,515.824177,568.31775.md) [https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=515&end=569](https://youtube.com/embed/J_Dznt1OG-0?autoplay=1&start=515&end=569)
 
 ## August 1st, 2017 Tutorial
-* [Jace Talk: Multiplayer Crafting](../../transcriptions/yt-ZW0OOikcWN0,444.2,459.28.md) [https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=444&end=460](https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=444&end=460)
+* [Jace Talk: Multiplayer Crafting](../../transcriptions/yt-ZW0OOikcWN0,444.2,459.28.md) [https://youtube.com/clip/Ugkx9lIqxhJjs5YjLpQKbCgLrzbFP66hpHou](https://youtube.com/clip/Ugkx9lIqxhJjs5YjLpQKbCgLrzbFP66hpHou)
 * [Jace Talk: Automating Crafting (Part 1)](../../transcriptions/yt-ZW0OOikcWN0,747.08,866.md) [https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=747&end=866](https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=747&end=866)
-* [Jace Talk: Automating Crafting (Part 2)](../../transcriptions/yt-ZW0OOikcWN0,968.818506,1014.32.md) [https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=968&end=1015](https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=968&end=1015)
+* [Jace Talk: Automating Crafting (Part 2)](../../transcriptions/yt-ZW0OOikcWN0,968.818506,1014.32.md) [https://youtube.com/clip/UgkxkBGJU822V0WH-mhLg3Rpuba9zO8LszJv](https://youtube.com/clip/UgkxkBGJU822V0WH-mhLg3Rpuba9zO8LszJv)

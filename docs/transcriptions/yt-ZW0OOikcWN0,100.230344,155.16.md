@@ -8,7 +8,7 @@ topics:
 ---
 # [August 1st, 2017 Tutorial](../2017-08-01.md)
 ## Jace Talk: Multiplayer Ping & Text Chat
-https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=100&end=156
+https://youtube.com/clip/UgkxQWPujRTKYym5DupNCN9Q8Ax5Se2SoTHE
 
 ### Topics
 * [Features > Multiplayer](../topics/features/multiplayer.md)

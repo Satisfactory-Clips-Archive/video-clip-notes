@@ -40,4 +40,4 @@ date: Last Modified
 * [Q&A: Why is Coal so rare? It's almost impossible to find a good Coal spot.](../../../transcriptions/yt-YwhXtnyk8YE.md) [https://www.youtube.com/watch?v=YwhXtnyk8YE](https://www.youtube.com/watch?v=YwhXtnyk8YE)
 
 ## August 1st, 2017 Tutorial
-* [Jace Talk: Exploring for different Resources](../../../transcriptions/yt-ZW0OOikcWN0,1407.56,1426.24.md) [https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=1407&end=1427](https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=1407&end=1427)
+* [Jace Talk: Exploring for different Resources](../../../transcriptions/yt-ZW0OOikcWN0,1407.56,1426.24.md) [https://youtube.com/clip/UgkxCQsACdqigPDIflsOCR-z4nWo23MfyVuz](https://youtube.com/clip/UgkxCQsACdqigPDIflsOCR-z4nWo23MfyVuz)

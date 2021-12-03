@@ -8,7 +8,7 @@ topics:
 ---
 # [August 1st, 2017 Tutorial](../2017-08-01.md)
 ## Jace Talk: Gathering Resources
-https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=243&end=303
+https://youtube.com/clip/UgkxsMF8--T8sgZn9ed1p6hRNthxI1GiNcqZ
 
 ### Topics
 * [Environment > Resources](../topics/environment/resources.md)

@@ -280,7 +280,7 @@ date: Last Modified
 
 ## August 1st, 2017 Tutorial
 * [Jace Talk: Finding Resources](../../transcriptions/yt-ZW0OOikcWN0,155.16,243.88.md) [https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=155&end=244](https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=155&end=244)
-* [Jace Talk: Gathering Resources](../../transcriptions/yt-ZW0OOikcWN0,243.88,303.md) [https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=243&end=303](https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=243&end=303)
+* [Jace Talk: Gathering Resources](../../transcriptions/yt-ZW0OOikcWN0,243.88,303.md) [https://youtube.com/clip/UgkxsMF8--T8sgZn9ed1p6hRNthxI1GiNcqZ](https://youtube.com/clip/UgkxsMF8--T8sgZn9ed1p6hRNthxI1GiNcqZ)
 * [Jace Talk: Using Resources](../../transcriptions/yt-ZW0OOikcWN0,303,444.2.md) [https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=303&end=445](https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=303&end=445)
 * [Jace Talk: Automating Resource gathering](../../transcriptions/yt-ZW0OOikcWN0,459.28,651.16.md) [https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=459&end=652](https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=459&end=652)
-* [Jace Talk: Exploring for different Resources](../../transcriptions/yt-ZW0OOikcWN0,1407.56,1426.24.md) [https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=1407&end=1427](https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=1407&end=1427)
+* [Jace Talk: Exploring for different Resources](../../transcriptions/yt-ZW0OOikcWN0,1407.56,1426.24.md) [https://youtube.com/clip/UgkxCQsACdqigPDIflsOCR-z4nWo23MfyVuz](https://youtube.com/clip/UgkxCQsACdqigPDIflsOCR-z4nWo23MfyVuz)

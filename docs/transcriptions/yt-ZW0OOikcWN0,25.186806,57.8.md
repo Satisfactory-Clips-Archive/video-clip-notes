@@ -8,7 +8,7 @@ topics:
 ---
 # [August 1st, 2017 Tutorial](../2017-08-01.md)
 ## Jace Talk: Changing Localisation via the Swedish menus
-https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=25&end=58
+https://youtube.com/clip/UgkxmETL7sVkZZbDkHRiphH6XHWMVdaMBOWO
 
 ### Topics
 * [Localisation](../topics/localisation.md)

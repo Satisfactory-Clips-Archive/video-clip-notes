@@ -7,7 +7,7 @@ topics:
 ---
 # [August 1st, 2017 Tutorial](../2017-08-01.md)
 ## Jace Talk: Factory Overview
-https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=1187&end=1218
+https://youtube.com/clip/UgkxaCX3FwSdjGVaBPF-gGq7ra1a2MoZK36l
 
 ### Topics
 * [Satisfactory Updates > Pre-Alpha](../topics/satisfactory-updates/pre-alpha.md)

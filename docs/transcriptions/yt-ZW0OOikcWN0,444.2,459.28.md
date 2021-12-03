@@ -9,7 +9,7 @@ topics:
 ---
 # [August 1st, 2017 Tutorial](../2017-08-01.md)
 ## Jace Talk: Multiplayer Crafting
-https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=444&end=460
+https://youtube.com/clip/Ugkx9lIqxhJjs5YjLpQKbCgLrzbFP66hpHou
 
 ### Topics
 * [Features > Crafting](../topics/features/crafting.md)

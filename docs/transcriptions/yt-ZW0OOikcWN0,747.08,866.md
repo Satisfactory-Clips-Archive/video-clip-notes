@@ -12,7 +12,7 @@ https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=747&end=866
 <details>
 <summary>This video continues in another video</summary>
 
-* [August 1st, 2017 Tutorial Jace Talk: Automating Crafting (Part 2)](./yt-ZW0OOikcWN0,968.818506,1014.32.md) [https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=968&end=1015](https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=968&end=1015)
+* [August 1st, 2017 Tutorial Jace Talk: Automating Crafting (Part 2)](./yt-ZW0OOikcWN0,968.818506,1014.32.md) [https://youtube.com/clip/UgkxkBGJU822V0WH-mhLg3Rpuba9zO8LszJv](https://youtube.com/clip/UgkxkBGJU822V0WH-mhLg3Rpuba9zO8LszJv)
 </details>
 
 

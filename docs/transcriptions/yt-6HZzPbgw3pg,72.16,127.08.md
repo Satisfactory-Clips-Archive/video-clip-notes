@@ -8,7 +8,7 @@ topics:
 ---
 # [November 17th, 2017 Introduction](../2017-11-17.md)
 ## How can we be friends if you know nothing about me?
-https://youtube.com/embed/6HZzPbgw3pg?autoplay=1&start=72&end=128
+https://youtube.com/clip/UgkxKcfvUv6G6SdsBhbUWsjlWpYkqpVmkquv
 
 ### Topics
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)

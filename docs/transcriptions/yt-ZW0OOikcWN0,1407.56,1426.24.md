@@ -9,7 +9,7 @@ topics:
 ---
 # [August 1st, 2017 Tutorial](../2017-08-01.md)
 ## Jace Talk: Exploring for different Resources
-https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=1407&end=1427
+https://youtube.com/clip/UgkxCQsACdqigPDIflsOCR-z4nWo23MfyVuz
 
 ### Topics
 * [Environment > Resources](../topics/environment/resources.md)

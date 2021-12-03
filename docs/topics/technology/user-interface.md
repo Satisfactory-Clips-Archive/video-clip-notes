@@ -425,4 +425,4 @@ date: Last Modified
 * [Vehicle Autopilot](../../transcriptions/yt-IxoCzb2M0vQ,130.550701,249.6.md) [https://youtube.com/embed/IxoCzb2M0vQ?autoplay=1&start=130&end=250](https://youtube.com/embed/IxoCzb2M0vQ?autoplay=1&start=130&end=250)
 
 ## August 1st, 2017 Tutorial
-* [Jace Talk: Basic Movement & Controls](../../transcriptions/yt-ZW0OOikcWN0,73.32,100.230344.md) [https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=73&end=101](https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=73&end=101)
+* [Jace Talk: Basic Movement & Controls](../../transcriptions/yt-ZW0OOikcWN0,73.32,100.230344.md) [https://youtube.com/clip/Ugkx8TW6BSRBBbmUWmM1bibuWRTvB0KpOKZS](https://youtube.com/clip/Ugkx8TW6BSRBBbmUWmM1bibuWRTvB0KpOKZS)

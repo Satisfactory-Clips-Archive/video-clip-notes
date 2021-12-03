@@ -8,7 +8,7 @@ topics:
 ---
 # [August 1st, 2017 Tutorial](../2017-08-01.md)
 ## Jace Talk: Basic Movement & Controls
-https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=73&end=101
+https://youtube.com/clip/Ugkx8TW6BSRBBbmUWmM1bibuWRTvB0KpOKZS
 
 ### Topics
 * [Satisfactory Updates > Pre-Alpha](../topics/satisfactory-updates/pre-alpha.md)

@@ -344,5 +344,5 @@ date: Last Modified
 * [Jace Talk: General multiplayer questions](../../transcriptions/yt-W1E6EWrAsII,256.8,316.92.md) [https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=256&end=317](https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=256&end=317)
 
 ## August 1st, 2017 Tutorial
-* [Jace Talk: Multiplayer Ping & Text Chat](../../transcriptions/yt-ZW0OOikcWN0,100.230344,155.16.md) [https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=100&end=156](https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=100&end=156)
-* [Jace Talk: Multiplayer Crafting](../../transcriptions/yt-ZW0OOikcWN0,444.2,459.28.md) [https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=444&end=460](https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=444&end=460)
+* [Jace Talk: Multiplayer Ping & Text Chat](../../transcriptions/yt-ZW0OOikcWN0,100.230344,155.16.md) [https://youtube.com/clip/UgkxQWPujRTKYym5DupNCN9Q8Ax5Se2SoTHE](https://youtube.com/clip/UgkxQWPujRTKYym5DupNCN9Q8Ax5Se2SoTHE)
+* [Jace Talk: Multiplayer Crafting](../../transcriptions/yt-ZW0OOikcWN0,444.2,459.28.md) [https://youtube.com/clip/Ugkx9lIqxhJjs5YjLpQKbCgLrzbFP66hpHou](https://youtube.com/clip/Ugkx9lIqxhJjs5YjLpQKbCgLrzbFP66hpHou)
