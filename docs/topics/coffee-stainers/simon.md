@@ -126,3 +126,4 @@ date: Last Modified
 ## June 22nd, 2018 Q&A
 * [Jace Talk: General multiplayer questions](../../transcriptions/yt-W1E6EWrAsII,256.8,316.92.md) [https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=256&end=317](https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=256&end=317)
 * [Q&A: Let's talk about Simon?](../../transcriptions/yt-W1E6EWrAsII,520.44,538.52.md) [https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=520&end=539](https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=520&end=539)
+* [Simon in a cage](../../transcriptions/yt-W1E6EWrAsII,574.88.md) [https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=574](https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=574)
