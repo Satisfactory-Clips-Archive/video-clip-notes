@@ -9,7 +9,7 @@ topics:
 # [March 2nd, 2021 Livestream](../2021-03-02.md)
 ## Q&A: Is the Story completely written or is it still in progress?
 https://www.youtube.com/watch?v=YrcsAlypXbo
-This question was possibly duplicated with a more recent answer: [November 23rd, 2021 Livestream Q&A: Any Updates to Lore & Story?](./yt-iVDRQg_aWpU,6517.399430055555,6547.114503.md) [https://youtube.com/clip/Ugkxkmhy5Ji-noe8JIyT4_4zlV8PFsBiFifK](https://youtube.com/clip/Ugkxkmhy5Ji-noe8JIyT4_4zlV8PFsBiFifK)
+This question was possibly duplicated with a more recent answer: [November 30th, 2021 Livestream Q&A: How's the Story/narrative work going?](./yt-lARwqxR6S0Q.md) [https://www.youtube.com/watch?v=lARwqxR6S0Q](https://www.youtube.com/watch?v=lARwqxR6S0Q)
 
 
 ### Topics
