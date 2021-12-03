@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Australia
 
+## November 30th, 2021 Livestream
+* [Q&A: Catering to time travels now?](../../transcriptions/yt-Wrn_AYVV1TQ.md) [https://www.youtube.com/watch?v=Wrn_AYVV1TQ](https://www.youtube.com/watch?v=Wrn_AYVV1TQ)
+
 ## March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary
 * [Snutt & Jace Talk: The stairs scenes & Swedish shoe habits](../../transcriptions/yt-0hFaZFsmmb8.md) [https://www.youtube.com/watch?v=0hFaZFsmmb8](https://www.youtube.com/watch?v=0hFaZFsmmb8)
 

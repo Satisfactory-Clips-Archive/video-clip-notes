@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../topics.md) > [Retail](../../topics/retail.md) > Epic Store
 * [Epic Store Exclusivity](../../topics/retail/epic-store/epic-store-exclusivity.md)
 
+## November 30th, 2021 Livestream
+* [Q&A: Epic Dedicated Servers?](../../transcriptions/yt-Rw3RxD8Q5KI.md) [https://www.youtube.com/watch?v=Rw3RxD8Q5KI](https://www.youtube.com/watch?v=Rw3RxD8Q5KI)
+
 ## November 23rd, 2021 Livestream
 * [Snutt & Jace Talk: Dedicated Servers available on Epic](../../transcriptions/yt-iVDRQg_aWpU,5297.999542962963,5385.740139.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5297&end=5386](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5297&end=5386)
 * [Snutt & Jace Talk: Update 5 in Steam/Epic + Patch Notes](../../transcriptions/yt-iVDRQg_aWpU,7108.299375342593,7149.602041.md) [https://youtube.com/clip/UgkxPcFmByEUQldSILEOQtqprHSKCjSPR4Au](https://youtube.com/clip/UgkxPcFmByEUQldSILEOQtqprHSKCjSPR4Au)

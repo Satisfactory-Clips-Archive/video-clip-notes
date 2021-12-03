@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Coffee Stainers](../../../topics/coffee-stainers.md) > [Snutt](../../../topics/coffee-stainers/snutt.md) > Snutty Mays
 
+## November 30th, 2021 Livestream
+* [State of Dev: Satisfactory on Sale](../../../transcriptions/yt-DPVHQdcaDaw.md) [https://www.youtube.com/watch?v=DPVHQdcaDaw](https://www.youtube.com/watch?v=DPVHQdcaDaw)
+
 ## November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary
 * [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 25)](../../../transcriptions/yt-isJvJl_wzYs.md) [https://www.youtube.com/watch?v=isJvJl_wzYs](https://www.youtube.com/watch?v=isJvJl_wzYs)
 * [Q&A: If you're on stage at an in-person event would you come on as Snutty Mays & Juice Velvet?](../../../transcriptions/yt-BfVGHJRPx-I.md) [https://www.youtube.com/watch?v=BfVGHJRPx-I](https://www.youtube.com/watch?v=BfVGHJRPx-I)

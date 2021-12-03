@@ -26,6 +26,9 @@ date: Last Modified
 * [The HUB](../../topics/features/buildings/the-hub.md)
 * [Water Extractor](../../topics/features/buildings/water-extractor.md)
 
+## November 30th, 2021 Livestream
+* [Q&A: Will the FICS⁕MAS 2020 factory stuff still work?](../../transcriptions/yt-2jV6lzqCFrs.md) [https://www.youtube.com/watch?v=2jV6lzqCFrs](https://www.youtube.com/watch?v=2jV6lzqCFrs)
+
 ## November 19th, 2021 Video
 * Jace Talk: Manually loading/unloading Vehicles [https://youtube.com/clip/UgkxN3HmnddArXfq0mErANSrEOxh3fihfGrp](https://youtube.com/clip/UgkxN3HmnddArXfq0mErANSrEOxh3fihfGrp)
 

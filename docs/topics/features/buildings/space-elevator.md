@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > Space Elevator
 * [Food Court](../../../topics/features/buildings/space-elevator/food-court.md)
 
+## November 30th, 2021 Livestream
+* [Q&A: Is the focus now on content/project parts?](../../../transcriptions/yt-2uxuRg2qmhY.md) [https://www.youtube.com/watch?v=2uxuRg2qmhY](https://www.youtube.com/watch?v=2uxuRg2qmhY)
+
 ## November 16th, 2021 Livestream
 * [Q&A: Have you ever completed the last-Tier challenge?](../../../transcriptions/yt-X_bCuUtXSqQ.md) [https://www.youtube.com/watch?v=X_bCuUtXSqQ](https://www.youtube.com/watch?v=X_bCuUtXSqQ)
 

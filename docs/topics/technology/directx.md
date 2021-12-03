@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > DirectX
 
+## November 30th, 2021 Livestream
+* [Q&A: My save file gives me 10fps, will Update 5 fix that?](../../transcriptions/yt-jrLaGcqLbls.md) [https://www.youtube.com/watch?v=jrLaGcqLbls](https://www.youtube.com/watch?v=jrLaGcqLbls)
+
 ## November 19th, 2021 Video
 * Jace Talk: DirectX 12 is now the default rendering API where supported [https://youtube.com/embed/cn3e-m4a-hU?autoplay=1&start=372&end=484](https://youtube.com/embed/cn3e-m4a-hU?autoplay=1&start=372&end=484)
 

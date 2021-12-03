@@ -7,6 +7,10 @@ date: Last Modified
 * [Characters](../topics/story-and-lore/characters.md)
 * [Project Assembly](../topics/story-and-lore/project-assembly.md)
 
+## November 30th, 2021 Livestream
+* [Q&A: Is FICSIT supposed to have corporate or capitalistic undertones?](../transcriptions/yt-4jkpbweFOeU.md) [https://www.youtube.com/watch?v=4jkpbweFOeU](https://www.youtube.com/watch?v=4jkpbweFOeU)
+* [Q&A: How's the Story/narrative work going?](../transcriptions/yt-lARwqxR6S0Q.md) [https://www.youtube.com/watch?v=lARwqxR6S0Q](https://www.youtube.com/watch?v=lARwqxR6S0Q)
+
 ## November 23rd, 2021 Livestream
 * [Q&A: Any Updates to Lore & Story?](../transcriptions/yt-iVDRQg_aWpU,6517.399430055555,6547.114503.md) [https://youtube.com/clip/Ugkxkmhy5Ji-noe8JIyT4_4zlV8PFsBiFifK](https://youtube.com/clip/Ugkxkmhy5Ji-noe8JIyT4_4zlV8PFsBiFifK)
 

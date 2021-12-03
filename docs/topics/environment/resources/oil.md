@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Resources](../../../topics/environment/resources.md) > Oil
 
+## November 30th, 2021 Livestream
+* [Q&A: Why does Glossy Concrete require Oil, but Asphalt only requires Concrete?](../../../transcriptions/yt-AdOxeOT7cJ8.md) [https://www.youtube.com/watch?v=AdOxeOT7cJ8](https://www.youtube.com/watch?v=AdOxeOT7cJ8)
+
 ## March 30th, 2021 Livestream
 * [Q&A: Asking very nicely even if it's a no; Oil node in Green Hills?](../../../transcriptions/yt-RI8F-a7oO1s.md) [https://www.youtube.com/watch?v=RI8F-a7oO1s](https://www.youtube.com/watch?v=RI8F-a7oO1s)
 

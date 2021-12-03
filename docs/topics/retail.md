@@ -9,6 +9,9 @@ date: Last Modified
 * [GeForce Now](../topics/retail/geforce-now.md)
 * [Steam Store](../topics/retail/steam-store.md)
 
+## November 30th, 2021 Livestream
+* [State of Dev: Satisfactory on Sale](../transcriptions/yt-DPVHQdcaDaw.md) [https://www.youtube.com/watch?v=DPVHQdcaDaw](https://www.youtube.com/watch?v=DPVHQdcaDaw)
+
 ## November 16th, 2021 Livestream
 * [Q&A: Any chance the game will be on GOG at some point?](../transcriptions/yt-bpKi2UaaQLs.md) [https://www.youtube.com/watch?v=bpKi2UaaQLs](https://www.youtube.com/watch?v=bpKi2UaaQLs)
 * [Q&A: How do you guys still making money out of Satisfactory, when is the point you run out of money?](../transcriptions/yt-TaAxXh2ZXQo.md) [https://www.youtube.com/watch?v=TaAxXh2ZXQo](https://www.youtube.com/watch?v=TaAxXh2ZXQo)

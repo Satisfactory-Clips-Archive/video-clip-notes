@@ -9,6 +9,10 @@ date: Last Modified
 * [Jace Art](../../topics/coffee-stainers/jace/jace-art.md)
 * [Juice Velvet](../../topics/coffee-stainers/jace/juice-velvet.md)
 
+## November 30th, 2021 Livestream
+* [Q&A: Why doesn't Snutt have a strong accent?](../../transcriptions/yt-DYb3hFnv9iA.md) [https://www.youtube.com/watch?v=DYb3hFnv9iA](https://www.youtube.com/watch?v=DYb3hFnv9iA)
+* [Q&A: Does Jace speak Swedish with an Australian accent?](../../transcriptions/yt-81SkOcqO9Is.md) [https://www.youtube.com/watch?v=81SkOcqO9Is](https://www.youtube.com/watch?v=81SkOcqO9Is)
+
 ## November 23rd, 2021 Livestream
 * [Q&A: Is Jace an aussie?](../../transcriptions/yt-iVDRQg_aWpU,4198.666311419753,4201.467462.md) [https://youtube.com/clip/Ugkx05U17mzOtQlAzApCUrF0VyqkJ1XZ4Tpa](https://youtube.com/clip/Ugkx05U17mzOtQlAzApCUrF0VyqkJ1XZ4Tpa)
 * [Q&A: Snutt & Jace, are you coders?](../../transcriptions/yt-iVDRQg_aWpU,5385.766201503086,5400.303715.md) [https://youtube.com/clip/Ugkx5JuAzcrsCCcFtpKMHAgOzSvYKgxHUPAy](https://youtube.com/clip/Ugkx5JuAzcrsCCcFtpKMHAgOzSvYKgxHUPAy)

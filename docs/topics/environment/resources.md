@@ -14,6 +14,11 @@ date: Last Modified
 * [Steel](../../topics/environment/resources/steel.md)
 * [Water](../../topics/environment/resources/water.md)
 
+## November 30th, 2021 Livestream
+* [Q&A: Will the items disappear when FICS⁕MAS ends?](../../transcriptions/yt-wfEeaP56GKs.md) [https://www.youtube.com/watch?v=wfEeaP56GKs](https://www.youtube.com/watch?v=wfEeaP56GKs)
+* [Q&A: Is the focus now on content/project parts?](../../transcriptions/yt-2uxuRg2qmhY.md) [https://www.youtube.com/watch?v=2uxuRg2qmhY](https://www.youtube.com/watch?v=2uxuRg2qmhY)
+* [Q&A: Why does Glossy Concrete require Oil, but Asphalt only requires Concrete?](../../transcriptions/yt-AdOxeOT7cJ8.md) [https://www.youtube.com/watch?v=AdOxeOT7cJ8](https://www.youtube.com/watch?v=AdOxeOT7cJ8)
+
 ## November 16th, 2021 Livestream
 * [Q&A: Are there going to be more Resources added for the next Tier?](../../transcriptions/yt-mtLqH_BpG1U.md) [https://www.youtube.com/watch?v=mtLqH_BpG1U](https://www.youtube.com/watch?v=mtLqH_BpG1U)
 

@@ -32,6 +32,9 @@ date: Last Modified
 * [Utility Signs](../topics/mods/utility-signs.md)
 * [Zip Strips](../topics/mods/zip-strips.md)
 
+## November 30th, 2021 Livestream
+* Q&A: Do Mods work in Update 5? [https://www.youtube.com/watch?v=sV77JoiQ_G0](https://www.youtube.com/watch?v=sV77JoiQ_G0)
+
 ## November 23rd, 2021 Livestream
 * [Q&A: Will there be Mod support for Dedicated Servers?](../transcriptions/yt-iVDRQg_aWpU,5464.290458,5495.929581.md) [https://youtube.com/clip/UgkxsP5lcPdeWaIlvmcA1Dn8o2vr7bW4M5x6](https://youtube.com/clip/UgkxsP5lcPdeWaIlvmcA1Dn8o2vr7bW4M5x6)
 

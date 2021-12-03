@@ -7,6 +7,10 @@ date: Last Modified
 * [Snutt Burger Time](../../topics/coffee-stainers/snutt/snutt-burger-time.md)
 * [Snutty Mays](../../topics/coffee-stainers/snutt/snutty-mays.md)
 
+## November 30th, 2021 Livestream
+* [Snutt & Jace Talk: Handball](../../transcriptions/yt-2oM0G2HMZPI.md) [https://www.youtube.com/watch?v=2oM0G2HMZPI](https://www.youtube.com/watch?v=2oM0G2HMZPI)
+* [Q&A: Why doesn't Snutt have a strong accent?](../../transcriptions/yt-DYb3hFnv9iA.md) [https://www.youtube.com/watch?v=DYb3hFnv9iA](https://www.youtube.com/watch?v=DYb3hFnv9iA)
+
 ## November 23rd, 2021 Livestream
 * [Q&A: Snutt & Jace, are you coders?](../../transcriptions/yt-iVDRQg_aWpU,5385.766201503086,5400.303715.md) [https://youtube.com/clip/Ugkx5JuAzcrsCCcFtpKMHAgOzSvYKgxHUPAy](https://youtube.com/clip/Ugkx5JuAzcrsCCcFtpKMHAgOzSvYKgxHUPAy)
 * [Q&A: Is Snutt your real name?](../../transcriptions/yt-iVDRQg_aWpU,6257.266120808642,6275.080774.md) [https://youtube.com/clip/UgkxE8o2Mvgt_wODwmGSrko1aVC0jfIF7sVK](https://youtube.com/clip/UgkxE8o2Mvgt_wODwmGSrko1aVC0jfIF7sVK)

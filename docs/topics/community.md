@@ -24,6 +24,11 @@ date: Last Modified
 * [Vilsol](../topics/community/vilsol.md)
 * [Wiki](../topics/community/wiki.md)
 
+## November 30th, 2021 Livestream
+* [Q&A: Any comment on the leaked Toilet Flush DLC from Andrew?](../transcriptions/yt-K2KL5Aaf9Do.md) [https://www.youtube.com/watch?v=K2KL5Aaf9Do](https://www.youtube.com/watch?v=K2KL5Aaf9Do)
+* [Q&A: What is the percentage of players that have finished the game?](../transcriptions/yt-RDxG5YZw2-Y.md) [https://www.youtube.com/watch?v=RDxG5YZw2-Y](https://www.youtube.com/watch?v=RDxG5YZw2-Y)
+* [Q&A: How do you get the "Fuse Blown" sound file, I want to use it for my alarm clock](../transcriptions/yt-QctUvuCZAXo.md) [https://www.youtube.com/watch?v=QctUvuCZAXo](https://www.youtube.com/watch?v=QctUvuCZAXo)
+
 ## November 23rd, 2021 Livestream
 * [Trolling: Golf is in Patch Notes](../transcriptions/yt-iVDRQg_aWpU,1081.7999333518518,1089.961643.md) [https://youtube.com/clip/UgkxlApmn76Rq_kH0dGYjDKWysApMOUxCjr_](https://youtube.com/clip/UgkxlApmn76Rq_kH0dGYjDKWysApMOUxCjr_)
 

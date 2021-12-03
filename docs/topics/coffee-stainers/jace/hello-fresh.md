@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Coffee Stainers](../../../topics/coffee-stainers.md) > [Jace](../../../topics/coffee-stainers/jace.md) > Jace's HelloFresh Deliveries
 
+## November 30th, 2021 Livestream
+* [Snutt & Jace Talk: No HelloFresh this week](../../../transcriptions/yt-jrUMDylrk5I.md) [https://www.youtube.com/watch?v=jrUMDylrk5I](https://www.youtube.com/watch?v=jrUMDylrk5I)
+
 ## November 9th, 2021 Livestream
 * [Q&A: Can you ask Jace when his HelloFresh delivery arrives?](../../../transcriptions/yt-Wd4yEmlJQOk.md) [https://www.youtube.com/watch?v=Wd4yEmlJQOk](https://www.youtube.com/watch?v=Wd4yEmlJQOk)
 

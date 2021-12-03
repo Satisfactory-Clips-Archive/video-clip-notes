@@ -10,6 +10,9 @@ date: Last Modified
 * [Power Storage](../../topics/features/power-management/power-storage.md)
 * [Power Switch](../../topics/features/power-management/power-switch.md)
 
+## November 30th, 2021 Livestream
+* [Q&A: How do you get the "Fuse Blown" sound file, I want to use it for my alarm clock](../../transcriptions/yt-QctUvuCZAXo.md) [https://www.youtube.com/watch?v=QctUvuCZAXo](https://www.youtube.com/watch?v=QctUvuCZAXo)
+
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
 * Q&A: Plutonium Fuel actually used for Power, underrated/overrated? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=7615&end=7680](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=7615&end=7680)
 

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildables](../../../topics/features/buildables.md) > Walls
 
+## November 30th, 2021 Livestream
+* [Community FYI: We want A to C walls on flat Foundations](../../../transcriptions/yt-VQZ8myIFqmY.md) [https://www.youtube.com/watch?v=VQZ8myIFqmY](https://www.youtube.com/watch?v=VQZ8myIFqmY)
+
 ## November 12th, 2021 Video
 * Snutt Talk: Switching Wall Types with Zooping [https://youtube.com/clip/UgkxhBVzyTy6NO02bDwiATgeMiE0n_WOqp7r](https://youtube.com/clip/UgkxhBVzyTy6NO02bDwiATgeMiE0n_WOqp7r)
 

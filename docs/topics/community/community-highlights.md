@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Community Highlights
 
+## November 30th, 2021 Livestream
+* [Snutt & Jace Talk: z-fighting with Cosmetics](../../transcriptions/yt-5X5fNBV5Luk.md) [https://www.youtube.com/watch?v=5X5fNBV5Luk](https://www.youtube.com/watch?v=5X5fNBV5Luk)
+
 ## November 9th, 2021 Livestream
 * [Snutt Talk: Post-Update 5 proliferation of submissions](../../transcriptions/yt-zS6RdxeGvP4.md) [https://www.youtube.com/watch?v=zS6RdxeGvP4](https://www.youtube.com/watch?v=zS6RdxeGvP4)
 * [Community FYI: Just go to the Food Court](../../transcriptions/yt-oOuTpP3Dgdo.md) [https://www.youtube.com/watch?v=oOuTpP3Dgdo](https://www.youtube.com/watch?v=oOuTpP3Dgdo)

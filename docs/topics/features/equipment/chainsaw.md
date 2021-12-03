@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Equipment](../../../topics/features/equipment.md) > Chainsaw
 
+## November 30th, 2021 Livestream
+* [Q&A: Is there going to be a Chainsaw someday in the Merch store?](../../../transcriptions/yt-AygnkgeupMU.md) [https://www.youtube.com/watch?v=AygnkgeupMU](https://www.youtube.com/watch?v=AygnkgeupMU)
+
 ## November 9th, 2021 Livestream
 * [Q&A: All Fuels for the Chainsaw & Jetpack, when?](../../../transcriptions/yt-PZLgmrsMIlc.md) [https://www.youtube.com/watch?v=PZLgmrsMIlc](https://www.youtube.com/watch?v=PZLgmrsMIlc)
 

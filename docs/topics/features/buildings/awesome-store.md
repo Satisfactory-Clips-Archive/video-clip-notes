@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > AWESOME Store
 
+## November 30th, 2021 Livestream
+* [Q&A: Can you add scissors to the AWESOME Shop so we can run with scissors?](../../../transcriptions/yt-ETVv3qbTHxM.md) [https://www.youtube.com/watch?v=ETVv3qbTHxM](https://www.youtube.com/watch?v=ETVv3qbTHxM)
+
 ## October 19th, 2021 Livestream
 * [Q&A: Are the new Walls bought from the AWESOME Shop?](../../../transcriptions/yt-OYF68hbYpnA.md) [https://www.youtube.com/watch?v=OYF68hbYpnA](https://www.youtube.com/watch?v=OYF68hbYpnA)
 

@@ -9,6 +9,8 @@ topics:
 # [November 9th, 2021 Livestream](../2021-11-09.md)
 ## Q&A: Are Mods still broken?
 https://www.youtube.com/watch?v=aPOh6hDve_o
+This question was possibly replaced with a more recent answer: November 30th, 2021 Livestream Q&A: Do Mods work in Update 5? [https://www.youtube.com/watch?v=sV77JoiQ_G0](https://www.youtube.com/watch?v=sV77JoiQ_G0)
+
 <details>
 <summary>This question may have been asked previously at least 4 other times, as recently as September 2021 and as early as June 2021.</summary>
 

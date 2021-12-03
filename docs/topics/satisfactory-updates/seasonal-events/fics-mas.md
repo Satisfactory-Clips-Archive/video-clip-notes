@@ -5,6 +5,20 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Seasonal Events](../../../topics/satisfactory-updates/seasonal-events.md) > FICS⁕MAS
 
+## November 30th, 2021 Livestream
+* [State of Dev: FICS⁕MAS](../../../transcriptions/yt-QFRMFZvJmQg.md) [https://www.youtube.com/watch?v=QFRMFZvJmQg](https://www.youtube.com/watch?v=QFRMFZvJmQg)
+* Snutt & Jace Talk: FICS⁕MAS Recap [https://www.youtube.com/watch?v=fzPrIB66di4](https://www.youtube.com/watch?v=fzPrIB66di4)
+* [Snutt & Jace Talk: FICS⁕MAS 2021 confirmed](../../../transcriptions/yt-S9x-IkShgtc.md) [https://www.youtube.com/watch?v=S9x-IkShgtc](https://www.youtube.com/watch?v=S9x-IkShgtc)
+* [Q&A: Will the FICS⁕MAS 2020 factory stuff still work?](../../../transcriptions/yt-2jV6lzqCFrs.md) [https://www.youtube.com/watch?v=2jV6lzqCFrs](https://www.youtube.com/watch?v=2jV6lzqCFrs)
+* [Q&A: When will FICS⁕MAS end?](../../../transcriptions/yt-qtHu7xdu6RE.md) [https://www.youtube.com/watch?v=qtHu7xdu6RE](https://www.youtube.com/watch?v=qtHu7xdu6RE)
+* [Q&A: Will the items disappear when FICS⁕MAS ends?](../../../transcriptions/yt-wfEeaP56GKs.md) [https://www.youtube.com/watch?v=wfEeaP56GKs](https://www.youtube.com/watch?v=wfEeaP56GKs)
+* [Snutt & Jace Talk: tl:dr; FICS⁕MAS 2021 will work essential as FICS⁕MAS 2020 did](../../../transcriptions/yt-KLCg-4x75hs.md) [https://www.youtube.com/watch?v=KLCg-4x75hs](https://www.youtube.com/watch?v=KLCg-4x75hs)
+* [Community FYI: I love that the M.A.M. Research Tree is literally a tree](../../../transcriptions/yt-kd2esfrAzfk.md) [https://www.youtube.com/watch?v=kd2esfrAzfk](https://www.youtube.com/watch?v=kd2esfrAzfk)
+* [Q&A: If we didn't play last year, will we be able to unlock last year's stuff too?](../../../transcriptions/yt-tklG17dDneg.md) [https://www.youtube.com/watch?v=tklG17dDneg](https://www.youtube.com/watch?v=tklG17dDneg)
+* [Q&A: I'm not able to find the calendar?](../../../transcriptions/yt-n86j2h8dRtc.md) [https://www.youtube.com/watch?v=n86j2h8dRtc](https://www.youtube.com/watch?v=n86j2h8dRtc)
+* [Q&A: Catering to time travels now?](../../../transcriptions/yt-Wrn_AYVV1TQ.md) [https://www.youtube.com/watch?v=Wrn_AYVV1TQ](https://www.youtube.com/watch?v=Wrn_AYVV1TQ)
+* Snutt & Jace Talk: FICS⁕MAS [https://www.youtube.com/watch?v=JPPwZdhXIWM](https://www.youtube.com/watch?v=JPPwZdhXIWM)
+
 ## November 23rd, 2021 Livestream
 * [Q&A: Any news on FICS⁕MAS?](../../../transcriptions/yt-iVDRQg_aWpU,5201.332885246913,5221.387351.md) [https://youtube.com/clip/UgkxOPrO-HiCuEt09eibx7FPbg40uqpjTCdm](https://youtube.com/clip/UgkxOPrO-HiCuEt09eibx7FPbg40uqpjTCdm)
 

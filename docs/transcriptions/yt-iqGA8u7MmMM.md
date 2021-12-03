@@ -8,7 +8,7 @@ topics:
 # [January 12th, 2021 Livestream](../2021-01-12.md)
 ## Q&A: Now that you have big boy office are you planning on hiring a lot more people to fill it out?
 https://www.youtube.com/watch?v=iqGA8u7MmMM
-This question was possibly duplicated with a more recent answer: [November 9th, 2021 Livestream Q&A: Do you have any job openings?](./yt-KJNAQ1MMEWI.md) [https://www.youtube.com/watch?v=KJNAQ1MMEWI](https://www.youtube.com/watch?v=KJNAQ1MMEWI)
+This question was possibly duplicated with a more recent answer: [November 30th, 2021 Livestream Q&A: Are you hiring?](./yt-vFY-jE4PMA0.md) [https://www.youtube.com/watch?v=vFY-jE4PMA0](https://www.youtube.com/watch?v=vFY-jE4PMA0)
 
 
 ### Topics

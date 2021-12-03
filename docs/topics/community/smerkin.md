@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Smerkin
 
+## November 30th, 2021 Livestream
+* Community FYI: Smerkin wants a plush Manta [https://www.youtube.com/watch?v=aRWHFq5eieQ](https://www.youtube.com/watch?v=aRWHFq5eieQ)
+
 ## November 2nd, 2021 Livestream
 * [Community FYI: 1.0 prediction hype](../../transcriptions/yt-3fVjS3bjxL4.md) [https://www.youtube.com/watch?v=3fVjS3bjxL4](https://www.youtube.com/watch?v=3fVjS3bjxL4)
 

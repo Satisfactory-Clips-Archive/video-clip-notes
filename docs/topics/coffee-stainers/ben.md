@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Ben
 
+## November 30th, 2021 Livestream
+* [Snutt & Jace Talk: z-fighting with Cosmetics](../../transcriptions/yt-5X5fNBV5Luk.md) [https://www.youtube.com/watch?v=5X5fNBV5Luk](https://www.youtube.com/watch?v=5X5fNBV5Luk)
+
 ## October 12th, 2021 Livestream
 * [Jace Talk: Shoutouts for Coffee Stainers implementing Update 5 features](../../transcriptions/yt-OfbGW1Nb-XI.md) [https://www.youtube.com/watch?v=OfbGW1Nb-XI](https://www.youtube.com/watch?v=OfbGW1Nb-XI)
 

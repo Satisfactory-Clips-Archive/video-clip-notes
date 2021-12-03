@@ -7,6 +7,11 @@ date: Last Modified
 * [EU Merch Store](../topics/merch/eu-merch-store.md)
 * [Merch Prototypes](../topics/merch/merch-prototypes.md)
 
+## November 30th, 2021 Livestream
+* [Q&A: Is there going to be a Chainsaw someday in the Merch store?](../transcriptions/yt-AygnkgeupMU.md) [https://www.youtube.com/watch?v=AygnkgeupMU](https://www.youtube.com/watch?v=AygnkgeupMU)
+* [Q&A: Kickstarter Status?](../transcriptions/yt-rtDdvxdzGAM.md) [https://www.youtube.com/watch?v=rtDdvxdzGAM](https://www.youtube.com/watch?v=rtDdvxdzGAM)
+* Community FYI: Smerkin wants a plush Manta [https://www.youtube.com/watch?v=aRWHFq5eieQ](https://www.youtube.com/watch?v=aRWHFq5eieQ)
+
 ## November 9th, 2021 Livestream
 * [Q&A: Snace Body Pillow, when?](../transcriptions/yt-5k0P-54_WHw.md) [https://www.youtube.com/watch?v=5k0P-54_WHw](https://www.youtube.com/watch?v=5k0P-54_WHw)
 * [Q&A: Will you take responsibility for the Giant Lizard Doggo?](../transcriptions/yt-VTC8VvwZVmg.md) [https://www.youtube.com/watch?v=VTC8VvwZVmg](https://www.youtube.com/watch?v=VTC8VvwZVmg)

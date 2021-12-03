@@ -8,6 +8,8 @@ topics:
 # [November 23rd, 2021 Livestream](../2021-11-23.md)
 ## Q&A: Any news on FICS⁕MAS?
 https://youtube.com/clip/UgkxOPrO-HiCuEt09eibx7FPbg40uqpjTCdm
+This question was possibly replaced with a more recent answer: [November 30th, 2021 Livestream Q&A: Will the FICS⁕MAS 2020 factory stuff still work?](./yt-2jV6lzqCFrs.md) [https://www.youtube.com/watch?v=2jV6lzqCFrs](https://www.youtube.com/watch?v=2jV6lzqCFrs)
+
 <details>
 <summary>This question may have been asked previously at least 12 other times, as recently as November 2021 and as early as December 2020.</summary>
 

@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Multiplayer](../../../topics/features/multiplayer.md) > Dedicated Servers
 
+## November 30th, 2021 Livestream
+* [State of Dev: Dedicated Servers](../../../transcriptions/yt-nzzHdkTTEoU.md) [https://www.youtube.com/watch?v=nzzHdkTTEoU](https://www.youtube.com/watch?v=nzzHdkTTEoU)
+* [Q&A: Epic Dedicated Servers?](../../../transcriptions/yt-Rw3RxD8Q5KI.md) [https://www.youtube.com/watch?v=Rw3RxD8Q5KI](https://www.youtube.com/watch?v=Rw3RxD8Q5KI)
+* [Q&A: Do Dedicated Servers update automatically?](../../../transcriptions/yt-88maO9WgdmM.md) [https://www.youtube.com/watch?v=88maO9WgdmM](https://www.youtube.com/watch?v=88maO9WgdmM)
+
 ## November 23rd, 2021 Livestream
 * [Q&A: Dedicated Servers with more than 4 players?](../../../transcriptions/yt-iVDRQg_aWpU,4221.799642611111,4247.463418.md) [https://youtube.com/clip/UgkxhsqKkTucssBdLCJtFjRmxGZtF-yz7Ceg](https://youtube.com/clip/UgkxhsqKkTucssBdLCJtFjRmxGZtF-yz7Ceg)
 * [Snutt & Jace Talk: Dedicated Servers available on Epic](../../../transcriptions/yt-iVDRQg_aWpU,5297.999542962963,5385.740139.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5297&end=5386](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5297&end=5386)

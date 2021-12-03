@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Embracer Group](../../../topics/embracer-group.md) > Coffee Stain Holding > Coffee Stain Studios
 
+## November 30th, 2021 Livestream
+* [Q&A: Are you hiring?](../../../transcriptions/yt-vFY-jE4PMA0.md) [https://www.youtube.com/watch?v=vFY-jE4PMA0](https://www.youtube.com/watch?v=vFY-jE4PMA0)
+
 ## November 16th, 2021 Livestream
 * [Q&A: Are you both more focussed on bug fixes or game expansion?](../../../transcriptions/yt-PCdXgs4GZ7U.md) [https://www.youtube.com/watch?v=PCdXgs4GZ7U](https://www.youtube.com/watch?v=PCdXgs4GZ7U)
 

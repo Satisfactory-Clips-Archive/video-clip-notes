@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Deep Rock Galactic
 
+## November 30th, 2021 Livestream
+* [Q&A: Is Deep Rock Galactic in the same universe as FICSIT?](../../transcriptions/yt-jdGU01HXdBU.md) [https://www.youtube.com/watch?v=jdGU01HXdBU](https://www.youtube.com/watch?v=jdGU01HXdBU)
+
 ## November 23rd, 2021 Livestream
 * [Q&A: Deep Rock Galactic enabled Unreal VR plugins for Modding, any chance you could do the same?](../../transcriptions/yt-iVDRQg_aWpU,6444.76610344753,6471.750653.md) [https://youtube.com/clip/Ugkx7Wy5kj3h1LbCNZqvjtvkrLd9qkb6dkVN](https://youtube.com/clip/Ugkx7Wy5kj3h1LbCNZqvjtvkrLd9qkb6dkVN)
 

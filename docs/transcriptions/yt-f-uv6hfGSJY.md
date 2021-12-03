@@ -9,6 +9,8 @@ topics:
 # [November 9th, 2021 Livestream](../2021-11-09.md)
 ## Q&A: Why don't you have a Swedish accent
 https://www.youtube.com/watch?v=f-uv6hfGSJY
+This question was possibly duplicated with a more recent answer: [November 30th, 2021 Livestream Q&A: Why doesn't Snutt have a strong accent?](./yt-DYb3hFnv9iA.md) [https://www.youtube.com/watch?v=DYb3hFnv9iA](https://www.youtube.com/watch?v=DYb3hFnv9iA)
+
 
 ### Topics
 * [Coffee Stainers > Snutt](../topics/coffee-stainers/snutt.md)

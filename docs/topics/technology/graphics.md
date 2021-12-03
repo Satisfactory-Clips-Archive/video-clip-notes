@@ -9,6 +9,9 @@ date: Last Modified
 * [Ray Tracing](../../topics/technology/graphics/ray-tracing.md)
 * [Ultrawide Monitors](../../topics/technology/graphics/ultrawide-monitors.md)
 
+## November 30th, 2021 Livestream
+* [Snutt & Jace Talk: z-fighting with Cosmetics](../../transcriptions/yt-5X5fNBV5Luk.md) [https://www.youtube.com/watch?v=5X5fNBV5Luk](https://www.youtube.com/watch?v=5X5fNBV5Luk)
+
 ## November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary
 * [Q&A: How do you do the depth-of-field effect?](../../transcriptions/yt-hwqoNG0udao.md) [https://www.youtube.com/watch?v=hwqoNG0udao](https://www.youtube.com/watch?v=hwqoNG0udao)
 

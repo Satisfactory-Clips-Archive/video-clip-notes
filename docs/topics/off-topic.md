@@ -20,6 +20,10 @@ date: Last Modified
 * [The Cycle](../topics/off-topic/the-cycle.md)
 * [Valheim](../topics/off-topic/valheim.md)
 
+## November 30th, 2021 Livestream
+* [Snutt & Jace Talk: Gaming acronyms](../transcriptions/yt-2fibysKQt5A.md) [https://www.youtube.com/watch?v=2fibysKQt5A](https://www.youtube.com/watch?v=2fibysKQt5A)
+* [Snutt & Jace Talk: Handball](../transcriptions/yt-2oM0G2HMZPI.md) [https://www.youtube.com/watch?v=2oM0G2HMZPI](https://www.youtube.com/watch?v=2oM0G2HMZPI)
+
 ## November 16th, 2021 Livestream
 * [Q&A: Do you have any tips for someone who wants to become a game dev?](../transcriptions/yt-LlBIU7YGobQ.md) [https://www.youtube.com/watch?v=LlBIU7YGobQ](https://www.youtube.com/watch?v=LlBIU7YGobQ)
 

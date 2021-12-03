@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Coffee Stainers](../../../topics/coffee-stainers.md) > [Jace](../../../topics/coffee-stainers/jace.md) > Juice Velvet
 
+## November 30th, 2021 Livestream
+* [State of Dev: Satisfactory on Sale](../../../transcriptions/yt-DPVHQdcaDaw.md) [https://www.youtube.com/watch?v=DPVHQdcaDaw](https://www.youtube.com/watch?v=DPVHQdcaDaw)
+
 ## November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary
 * [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 25)](../../../transcriptions/yt-isJvJl_wzYs.md) [https://www.youtube.com/watch?v=isJvJl_wzYs](https://www.youtube.com/watch?v=isJvJl_wzYs)
 * [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 67)](../../../transcriptions/yt-sSjSkOu19OM.md) [https://www.youtube.com/watch?v=sSjSkOu19OM](https://www.youtube.com/watch?v=sSjSkOu19OM)

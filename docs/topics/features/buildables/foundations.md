@@ -7,6 +7,10 @@ date: Last Modified
 * [Cheatcrete](../../../topics/features/buildables/foundations/cheatcrete.md)
 * [Foundation Stencils](../../../topics/features/buildables/foundations/stencils.md)
 
+## November 30th, 2021 Livestream
+* Q&A: Quarter Pipe Concrete [https://www.youtube.com/watch?v=SntGjNRuKsc](https://www.youtube.com/watch?v=SntGjNRuKsc)
+* [Q&A: Why does Glossy Concrete require Oil, but Asphalt only requires Concrete?](../../../transcriptions/yt-AdOxeOT7cJ8.md) [https://www.youtube.com/watch?v=AdOxeOT7cJ8](https://www.youtube.com/watch?v=AdOxeOT7cJ8)
+
 ## November 19th, 2021 Video
 * Jace Talk: Hyper Tube Floor Holes [https://youtube.com/clip/Ugkxn4E6P9A_dXA7_hcyEM6OcgCJHGzlR5d5](https://youtube.com/clip/Ugkxn4E6P9A_dXA7_hcyEM6OcgCJHGzlR5d5)
 

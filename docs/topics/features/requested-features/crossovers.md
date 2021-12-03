@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Requested Features](../../../topics/features/requested-features.md) > Crossovers
 
+## November 30th, 2021 Livestream
+* [Q&A: Is Deep Rock Galactic in the same universe as FICSIT?](../../../transcriptions/yt-jdGU01HXdBU.md) [https://www.youtube.com/watch?v=jdGU01HXdBU](https://www.youtube.com/watch?v=jdGU01HXdBU)
+
 ## August 24th, 2021 Livestream
 * [Q&A: Any Valheim/Satisfactory crossover?](../../../transcriptions/yt-4AB3jIFQAXI.md) [https://www.youtube.com/watch?v=4AB3jIFQAXI](https://www.youtube.com/watch?v=4AB3jIFQAXI)
 

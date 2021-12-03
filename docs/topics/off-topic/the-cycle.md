@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > The Cycle
 
+## November 30th, 2021 Livestream
+* [Q&A: Where does one find the Korolev poster?](../../transcriptions/yt--cJUfS2yyX4.md) [https://www.youtube.com/watch?v=-cJUfS2yyX4](https://www.youtube.com/watch?v=-cJUfS2yyX4)
+
 ## April 27th, 2021 Livestream
 * [Q&A: I saw the Korolev poster in the game, are you guys fans of The Cycle?](../../transcriptions/yt-woolPqli5lQ.md) [https://www.youtube.com/watch?v=woolPqli5lQ](https://www.youtube.com/watch?v=woolPqli5lQ)
 

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildables](../../../topics/features/buildables.md) > Lights
 
+## November 30th, 2021 Livestream
+* [Q&A: When can we put Lights on Pillars again?](../../../transcriptions/yt-f_FPDjd81Kg.md) [https://www.youtube.com/watch?v=f_FPDjd81Kg](https://www.youtube.com/watch?v=f_FPDjd81Kg)
+
 ## October 12th, 2021 Livestream
 * [Q&A: Will Truck Lights finally work in Update 5?](../../../transcriptions/yt-35iZLfgEF0A.md) [https://www.youtube.com/watch?v=35iZLfgEF0A](https://www.youtube.com/watch?v=35iZLfgEF0A)
 

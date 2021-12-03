@@ -9,7 +9,7 @@ topics:
 # [May 15th, 2020 Q&A](../2020-05-15.md)
 ## Q&A: Will there be Steam Cards and Achievements? Also do you intend to use Steam Workshop?
 https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=301&end=347
-This question was possibly duplicated with a more recent answer: [November 2nd, 2021 Livestream Q&A: When are we going to get Achievements?](./yt-UKot9dXEPXk.md) [https://www.youtube.com/watch?v=UKot9dXEPXk](https://www.youtube.com/watch?v=UKot9dXEPXk)
+This question was possibly duplicated with a more recent answer: [November 30th, 2021 Livestream Q&A: Steam Achivements?](./yt-3KRCUE3VOxE.md) [https://www.youtube.com/watch?v=3KRCUE3VOxE](https://www.youtube.com/watch?v=3KRCUE3VOxE)
 
 
 ### Topics

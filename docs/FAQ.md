@@ -2,6 +2,109 @@
 title: "Frequently Asked Questions"
 date: Last Modified
 ---
+## [November 30th, 2021 Livestream](./2021-11-30.md)
+### [Q&A: Will the items disappear when FICS⁕MAS ends?](./transcriptions/yt-wfEeaP56GKs.md) [https://www.youtube.com/watch?v=wfEeaP56GKs](https://www.youtube.com/watch?v=wfEeaP56GKs)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> well the atoms disappear when fixmas ends uh so the i think so it's gonna be similar to last year right pretty much the same same deal i believe the recipes disappear but the items stay around so if you manufacture stuff the manufactured items will still stick around but you can't like make new you can't produce these items like anymore so you need to stock up on these items yeah they'll last you till next winter i mean some people did do that yeah and it still lasted so
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 2 other times, as recently as December 2020 and as early as December 2020.</summary>
+
+* [December 17th, 2020 Q&A: Will we keep our FICS⁕MAS stuff after the event ends?](./transcriptions/yt--JXPsTlJIiI,325.4251,379.5124666666667.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=325&end=380](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=325&end=380)
+* [December 15th, 2020 Livestream Q&A: Will FICS⁕MAS Buildings and items still be in the World after the event is over?](./transcriptions/yt-ospbB7hdDdI.md) [https://www.youtube.com/watch?v=ospbB7hdDdI](https://www.youtube.com/watch?v=ospbB7hdDdI)
+</details>
+
+### [Q&A: Are you hiring?](./transcriptions/yt-vFY-jE4PMA0.md) [https://www.youtube.com/watch?v=vFY-jE4PMA0](https://www.youtube.com/watch?v=vFY-jE4PMA0)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> uh someone asking if we're hiring uh you can go to coffeestandstudios.com jobs and it looks like we are hiring a generalist game designer right now this is uh if you want to see what jobs are available you can use that link live your live your dreams
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 6 other times, as recently as November 2021 and as early as February 2019.</summary>
+
+* [November 9th, 2021 Livestream Q&A: Do you have any job openings?](./transcriptions/yt-KJNAQ1MMEWI.md) [https://www.youtube.com/watch?v=KJNAQ1MMEWI](https://www.youtube.com/watch?v=KJNAQ1MMEWI)
+* [January 12th, 2021 Livestream Q&A: Now that you have big boy office are you planning on hiring a lot more people to fill it out?](./transcriptions/yt-iqGA8u7MmMM.md) [https://www.youtube.com/watch?v=iqGA8u7MmMM](https://www.youtube.com/watch?v=iqGA8u7MmMM)
+* [December 15th, 2020 Livestream Q&A: Are you hiring new devs?](./transcriptions/yt-KO7cDlkMYxM.md) [https://www.youtube.com/watch?v=KO7cDlkMYxM](https://www.youtube.com/watch?v=KO7cDlkMYxM)
+* [March 24th, 2020 Livestream Q&A: You have several job openings right now?](./transcriptions/yt-lqRP7DsUVes.md) [https://www.youtube.com/watch?v=lqRP7DsUVes](https://www.youtube.com/watch?v=lqRP7DsUVes)
+* [February 20th, 2019 Livestream Q&A: Where do you apply?](./transcriptions/yt-CB9bSigNYH8,3825.28082,3844.546451.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3825&end=3845](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3825&end=3845)
+* [February 6th, 2019 Livestream Q&A: Job Opportunities?](./transcriptions/yt-Dtm6xIj-wM4,567.312526,585.24344.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=567&end=586](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=567&end=586)
+</details>
+
+### [Q&A: Steam Achivements?](./transcriptions/yt-3KRCUE3VOxE.md) [https://www.youtube.com/watch?v=3KRCUE3VOxE](https://www.youtube.com/watch?v=3KRCUE3VOxE)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> uh steam achievements so uh we do plan on adding achievements at some point but maybe when the game is more done and not really in flux because we don't wanna add achievements that make sense now but what makes sense later um so yeah we're not really in any rush to add achievements i know that people like achievements but what's more important right now is just making sure that the game is where where it should be and then we can make achievements for for that state of the game for sure
+>
+> [Music]
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 15 other times, as recently as November 2021 and as early as August 2018.</summary>
+
+* [November 2nd, 2021 Livestream Q&A: When are we going to get Achievements?](./transcriptions/yt-UKot9dXEPXk.md) [https://www.youtube.com/watch?v=UKot9dXEPXk](https://www.youtube.com/watch?v=UKot9dXEPXk)
+* [September 28th, 2021 Livestream Q&A: Do you plan to make Steam Achievements?](./transcriptions/yt-Kf33x3tiM5w.md) [https://www.youtube.com/watch?v=Kf33x3tiM5w](https://www.youtube.com/watch?v=Kf33x3tiM5w)
+* [September 7th, 2021 Livestream Q&A: Will you add Steam Achievements when the game is done?](./transcriptions/yt-tO60WajNJis.md) [https://www.youtube.com/watch?v=tO60WajNJis](https://www.youtube.com/watch?v=tO60WajNJis)
+* [August 10th, 2021 Livestream Q&A: Will there be Steam Achievements in 1.0?](./transcriptions/yt-_wKUYaG0Hwc.md) [https://www.youtube.com/watch?v=_wKUYaG0Hwc](https://www.youtube.com/watch?v=_wKUYaG0Hwc)
+* [June 29th, 2021 Livestream Q&A: Please add Achievements & badges on Steam](./transcriptions/yt-vrBRxuX6YyA.md) [https://www.youtube.com/watch?v=vrBRxuX6YyA](https://www.youtube.com/watch?v=vrBRxuX6YyA)
+* [April 20th, 2021 Livestream Q&A: Will achievements be added?](./transcriptions/yt-5hha6bAuTTc.md) [https://www.youtube.com/watch?v=5hha6bAuTTc](https://www.youtube.com/watch?v=5hha6bAuTTc)
+* [April 13th, 2021 Livestream Q&A: Anything about achievements?](./transcriptions/yt-cF3QleeEiJo,6652.069241,6679.928238.md) [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6652&end=6680](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6652&end=6680)
+* [February 16th, 2021 Livestream Q&A: Will Achievements ever be created?](./transcriptions/yt-scxr_vl9Pzk.md) [https://www.youtube.com/watch?v=scxr_vl9Pzk](https://www.youtube.com/watch?v=scxr_vl9Pzk)
+* [November 10th, 2020 Livestream Q&A: Achievements system?](./transcriptions/yt-bthe_Dhs6uo.md) [https://www.youtube.com/watch?v=bthe_Dhs6uo](https://www.youtube.com/watch?v=bthe_Dhs6uo)
+* [November 3rd, 2020 Livestream Q&A: Are Steam Achievements going to be added in the future?](./transcriptions/yt-Gi08SVnHyLU.md) [https://www.youtube.com/watch?v=Gi08SVnHyLU](https://www.youtube.com/watch?v=Gi08SVnHyLU)
+* [October 1st, 2020 Q&A: Will there be achievements?](./transcriptions/yt-rATcozDE25c,435.5351,476.04223333333334.md) [https://youtube.com/embed/rATcozDE25c?autoplay=1&start=435&end=477](https://youtube.com/embed/rATcozDE25c?autoplay=1&start=435&end=477)
+* [September 29th, 2020 Livestream Q&A: Give us Steam Achievements already?](./transcriptions/yt-9tNel2ksYnI.md) [https://www.youtube.com/watch?v=9tNel2ksYnI](https://www.youtube.com/watch?v=9tNel2ksYnI)
+* [May 15th, 2020 Q&A: Will there be Steam Cards and Achievements? Also do you intend to use Steam Workshop?](./transcriptions/yt-NlIVwoRqjVk,301.33436666666665,346.41273333333334.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=301&end=347](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=301&end=347)
+* [March 24th, 2020 Livestream Q&A: Achievements?](./transcriptions/yt-G8K0Bjs8mNo.md) [https://www.youtube.com/watch?v=G8K0Bjs8mNo](https://www.youtube.com/watch?v=G8K0Bjs8mNo)
+* [August 1st, 2018 Q&A: Will there be Steam achievements?](./transcriptions/yt-iFAy1NZUOGU,119.72,131.28.md) [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=119&end=132](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=119&end=132)
+</details>
+
+### [Q&A: How's the Story/narrative work going?](./transcriptions/yt-lARwqxR6S0Q.md) [https://www.youtube.com/watch?v=lARwqxR6S0Q](https://www.youtube.com/watch?v=lARwqxR6S0Q)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> how's the story narrative work going it's going yeah it's uh yeah it's it's it's going a lot of work needs to be done a lot of problems need to be solved but you know it's it's going not really too much to say at this stage because like there's still a lot that can be in flux and that can be changed you know so that's kind of one reason why we well there's a few reasons why we don't want to talk about it because we also want to like keep it secret and build some hype for it you know at some point but the other thing is like as it's in development like everything in development um things can change very very rapidly in the early stages because we start identifying potential problems with what we wanted to do and then we need to find solutions for them so there's like no real point in us saying anything about it at the moment apart from that you know we're working on it true dad i am super disconnected from the story so i have no idea but i have full confidence that it's gonna be great it's the best story i've ever seen you guys there oh i blurted it out it's oh god i get paid to say that i don't but now you do i do now yeah you pick the same at least for the next two minutes i do and then it's going to come out terrible story shitty story [ __ ] cool taco articles one out of ten community manager juice john dan valver jess yeah give me just vultures volvo yeah there you go there you go said this thing tells all it's scathing review of own story did you pick the same wait did you pick some advent calendar if yes which one did you pick uh we we didn't pick an advent calendar we we made our own advent calendar uh war stories since twilight yes max but but we won't have as good as a love story but we'll have a better story overall i mean no one's going to talk twilight with love stories yeah i mean it's it's a 10 out of 10 bro i haven't seen it so i don't know but but i i stressed the memes the memes are 10 out of 10. yeah
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 13 other times, as recently as November 2021 and as early as March 2021.</summary>
+
+* [November 23rd, 2021 Livestream Q&A: Any Updates to Lore & Story?](./transcriptions/yt-iVDRQg_aWpU,6517.399430055555,6547.114503.md) [https://youtube.com/clip/Ugkxkmhy5Ji-noe8JIyT4_4zlV8PFsBiFifK](https://youtube.com/clip/Ugkxkmhy5Ji-noe8JIyT4_4zlV8PFsBiFifK)
+* [September 28th, 2021 Livestream Q&A: What's the state of the Story?](./transcriptions/yt-gxRkjiYNeXc.md) [https://www.youtube.com/watch?v=gxRkjiYNeXc](https://www.youtube.com/watch?v=gxRkjiYNeXc)
+* [September 28th, 2021 Livestream Q&A: State of Story?](./transcriptions/yt-5Miaujx7O3A.md) [https://www.youtube.com/watch?v=5Miaujx7O3A](https://www.youtube.com/watch?v=5Miaujx7O3A)
+* [September 21st, 2021 Livestream Q&A: Is all the Story stuff finished?](./transcriptions/yt-mUNB0jMlwd0.md) [https://www.youtube.com/watch?v=mUNB0jMlwd0](https://www.youtube.com/watch?v=mUNB0jMlwd0)
+* [June 8th, 2021 Livestream Q&A: What about Story?](./transcriptions/yt-SYYJy7HzehA.md) [https://www.youtube.com/watch?v=SYYJy7HzehA](https://www.youtube.com/watch?v=SYYJy7HzehA)
+* [May 18th, 2021 Livestream Q&A: Is there any sort of Story planned?](./transcriptions/yt-8cZ-oH-WA3E.md) [https://www.youtube.com/watch?v=8cZ-oH-WA3E](https://www.youtube.com/watch?v=8cZ-oH-WA3E)
+* [May 11th, 2021 Livestream Q&A: Do you have a clear idea of the Story Mode yet?](./transcriptions/yt-Zc2lKKROexI.md) [https://www.youtube.com/watch?v=Zc2lKKROexI](https://www.youtube.com/watch?v=Zc2lKKROexI)
+* [May 4th, 2021 Livestream Q&A: Will there be Story?](./transcriptions/yt-SKa_F6Km7sA.md) [https://www.youtube.com/watch?v=SKa_F6Km7sA](https://www.youtube.com/watch?v=SKa_F6Km7sA)
+* [March 30th, 2021 Livestream Q&A: Will there be Story to the game?](./transcriptions/yt-C23SCWtnv2U.md) [https://www.youtube.com/watch?v=C23SCWtnv2U](https://www.youtube.com/watch?v=C23SCWtnv2U)
+* [March 23rd, 2021 Livestream Q&A: Any Story hints?](./transcriptions/yt-83bWsjYlMrM.md) [https://www.youtube.com/watch?v=83bWsjYlMrM](https://www.youtube.com/watch?v=83bWsjYlMrM)
+* March 16th, 2021 Livestream Q&A: Storyline? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=8722&end=8747](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=8722&end=8747)
+* [March 9th, 2021 Livestream Q&A: Is Lore & Story progressing well, not well, or not at all?](./transcriptions/yt-UHWeEsduD0Q.md) [https://www.youtube.com/watch?v=UHWeEsduD0Q](https://www.youtube.com/watch?v=UHWeEsduD0Q)
+* [March 2nd, 2021 Livestream Q&A: Is the Story completely written or is it still in progress?](./transcriptions/yt-YrcsAlypXbo.md) [https://www.youtube.com/watch?v=YrcsAlypXbo](https://www.youtube.com/watch?v=YrcsAlypXbo)
+</details>
+
 ## [November 23rd, 2021 Livestream](./2021-11-23.md)
 ### [Q&A: Is Update 10 the official release of the game?](./transcriptions/yt-iVDRQg_aWpU,1090.781025,1102.470053.md) [https://youtube.com/clip/UgkxJY0uiqJ2nQo9yN79dW_r7Z_WHvGgBZJF](https://youtube.com/clip/UgkxJY0uiqJ2nQo9yN79dW_r7Z_WHvGgBZJF)
 
@@ -135,34 +238,6 @@ date: Last Modified
 * [September 8th, 2020 Livestream Q&A: Ever consider making a VR version of Satisfactory?](./transcriptions/yt-3s-PKymQ9QU.md) [https://www.youtube.com/watch?v=3s-PKymQ9QU](https://www.youtube.com/watch?v=3s-PKymQ9QU)
 * [February 6th, 2019 Livestream Q&A: Will there be VR support?](./transcriptions/yt-Dtm6xIj-wM4,2442.266666666667,2534.034208.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2442&end=2535](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2442&end=2535)
 * [August 1st, 2018 Q&A: What about VR support?](./transcriptions/yt-iFAy1NZUOGU,66.08,68.24.md) [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=66&end=69](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=66&end=69)
-</details>
-
-### [Q&A: Any Updates to Lore & Story?](./transcriptions/yt-iVDRQg_aWpU,6517.399430055555,6547.114503.md) [https://youtube.com/clip/Ugkxkmhy5Ji-noe8JIyT4_4zlV8PFsBiFifK](https://youtube.com/clip/Ugkxkmhy5Ji-noe8JIyT4_4zlV8PFsBiFifK)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> the updates to the lauren story there will be in 1.0 um there will be a big ol big old reveal of the story and lore um eventually eventually because we're going to do we're not going to do like the subnautica track where we're like we in early access reveal stuff like bit by bit we're gonna do everything in one go so uh like when when we're finished with a complete story that's when we'll put it in the game for you guys uh folks asking about creative mode uh
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 12 other times, as recently as September 2021 and as early as March 2021.</summary>
-
-* [September 28th, 2021 Livestream Q&A: What's the state of the Story?](./transcriptions/yt-gxRkjiYNeXc.md) [https://www.youtube.com/watch?v=gxRkjiYNeXc](https://www.youtube.com/watch?v=gxRkjiYNeXc)
-* [September 28th, 2021 Livestream Q&A: State of Story?](./transcriptions/yt-5Miaujx7O3A.md) [https://www.youtube.com/watch?v=5Miaujx7O3A](https://www.youtube.com/watch?v=5Miaujx7O3A)
-* [September 21st, 2021 Livestream Q&A: Is all the Story stuff finished?](./transcriptions/yt-mUNB0jMlwd0.md) [https://www.youtube.com/watch?v=mUNB0jMlwd0](https://www.youtube.com/watch?v=mUNB0jMlwd0)
-* [June 8th, 2021 Livestream Q&A: What about Story?](./transcriptions/yt-SYYJy7HzehA.md) [https://www.youtube.com/watch?v=SYYJy7HzehA](https://www.youtube.com/watch?v=SYYJy7HzehA)
-* [May 18th, 2021 Livestream Q&A: Is there any sort of Story planned?](./transcriptions/yt-8cZ-oH-WA3E.md) [https://www.youtube.com/watch?v=8cZ-oH-WA3E](https://www.youtube.com/watch?v=8cZ-oH-WA3E)
-* [May 11th, 2021 Livestream Q&A: Do you have a clear idea of the Story Mode yet?](./transcriptions/yt-Zc2lKKROexI.md) [https://www.youtube.com/watch?v=Zc2lKKROexI](https://www.youtube.com/watch?v=Zc2lKKROexI)
-* [May 4th, 2021 Livestream Q&A: Will there be Story?](./transcriptions/yt-SKa_F6Km7sA.md) [https://www.youtube.com/watch?v=SKa_F6Km7sA](https://www.youtube.com/watch?v=SKa_F6Km7sA)
-* [March 30th, 2021 Livestream Q&A: Will there be Story to the game?](./transcriptions/yt-C23SCWtnv2U.md) [https://www.youtube.com/watch?v=C23SCWtnv2U](https://www.youtube.com/watch?v=C23SCWtnv2U)
-* [March 23rd, 2021 Livestream Q&A: Any Story hints?](./transcriptions/yt-83bWsjYlMrM.md) [https://www.youtube.com/watch?v=83bWsjYlMrM](https://www.youtube.com/watch?v=83bWsjYlMrM)
-* March 16th, 2021 Livestream Q&A: Storyline? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=8722&end=8747](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=8722&end=8747)
-* [March 9th, 2021 Livestream Q&A: Is Lore & Story progressing well, not well, or not at all?](./transcriptions/yt-UHWeEsduD0Q.md) [https://www.youtube.com/watch?v=UHWeEsduD0Q](https://www.youtube.com/watch?v=UHWeEsduD0Q)
-* [March 2nd, 2021 Livestream Q&A: Is the Story completely written or is it still in progress?](./transcriptions/yt-YrcsAlypXbo.md) [https://www.youtube.com/watch?v=YrcsAlypXbo](https://www.youtube.com/watch?v=YrcsAlypXbo)
 </details>
 
 ### [Q&A: Creative Mode?](./transcriptions/yt-iVDRQg_aWpU,6552.309672,6610.354523.md) [https://youtube.com/clip/UgkxzV3qrV8ZonMWhSn5LBuM2YZsmxpnAs2d](https://youtube.com/clip/UgkxzV3qrV8ZonMWhSn5LBuM2YZsmxpnAs2d)
@@ -500,27 +575,6 @@ date: Last Modified
 * [February 20th, 2019 Livestream Q&A: How many people are there in the studio?](./transcriptions/yt-CB9bSigNYH8,808.45003,837.796486.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=808&end=838](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=808&end=838)
 </details>
 
-### [Q&A: Do you have any job openings?](./transcriptions/yt-KJNAQ1MMEWI.md) [https://www.youtube.com/watch?v=KJNAQ1MMEWI](https://www.youtube.com/watch?v=KJNAQ1MMEWI)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> uh do you have any job openings we do check out our website um go to coffeestainstudios.com what was it obviously studios.com yeah it is um check out the output we're looking for a generalist game designer at the moment
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 5 other times, as recently as January 2021 and as early as February 2019.</summary>
-
-* [January 12th, 2021 Livestream Q&A: Now that you have big boy office are you planning on hiring a lot more people to fill it out?](./transcriptions/yt-iqGA8u7MmMM.md) [https://www.youtube.com/watch?v=iqGA8u7MmMM](https://www.youtube.com/watch?v=iqGA8u7MmMM)
-* [December 15th, 2020 Livestream Q&A: Are you hiring new devs?](./transcriptions/yt-KO7cDlkMYxM.md) [https://www.youtube.com/watch?v=KO7cDlkMYxM](https://www.youtube.com/watch?v=KO7cDlkMYxM)
-* [March 24th, 2020 Livestream Q&A: You have several job openings right now?](./transcriptions/yt-lqRP7DsUVes.md) [https://www.youtube.com/watch?v=lqRP7DsUVes](https://www.youtube.com/watch?v=lqRP7DsUVes)
-* [February 20th, 2019 Livestream Q&A: Where do you apply?](./transcriptions/yt-CB9bSigNYH8,3825.28082,3844.546451.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3825&end=3845](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3825&end=3845)
-* [February 6th, 2019 Livestream Q&A: Job Opportunities?](./transcriptions/yt-Dtm6xIj-wM4,567.312526,585.24344.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=567&end=586](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=567&end=586)
-</details>
-
 ### Q&A: What about ceiling mounts for Belts? [https://www.youtube.com/watch?v=ArUvBcQX7Hg](https://www.youtube.com/watch?v=ArUvBcQX7Hg)
 
 <details>
@@ -778,36 +832,6 @@ date: Last Modified
 </details>
 
 ## [November 2nd, 2021 Livestream](./2021-11-02.md)
-### [Q&A: When are we going to get Achievements?](./transcriptions/yt-UKot9dXEPXk.md) [https://www.youtube.com/watch?v=UKot9dXEPXk](https://www.youtube.com/watch?v=UKot9dXEPXk)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> uh when are we going to get achievements uh maybe in the future well probably in the future we plan to add them but uh we kind of want the game to finish first yeah
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 14 other times, as recently as September 2021 and as early as August 2018.</summary>
-
-* [September 28th, 2021 Livestream Q&A: Do you plan to make Steam Achievements?](./transcriptions/yt-Kf33x3tiM5w.md) [https://www.youtube.com/watch?v=Kf33x3tiM5w](https://www.youtube.com/watch?v=Kf33x3tiM5w)
-* [September 7th, 2021 Livestream Q&A: Will you add Steam Achievements when the game is done?](./transcriptions/yt-tO60WajNJis.md) [https://www.youtube.com/watch?v=tO60WajNJis](https://www.youtube.com/watch?v=tO60WajNJis)
-* [August 10th, 2021 Livestream Q&A: Will there be Steam Achievements in 1.0?](./transcriptions/yt-_wKUYaG0Hwc.md) [https://www.youtube.com/watch?v=_wKUYaG0Hwc](https://www.youtube.com/watch?v=_wKUYaG0Hwc)
-* [June 29th, 2021 Livestream Q&A: Please add Achievements & badges on Steam](./transcriptions/yt-vrBRxuX6YyA.md) [https://www.youtube.com/watch?v=vrBRxuX6YyA](https://www.youtube.com/watch?v=vrBRxuX6YyA)
-* [April 20th, 2021 Livestream Q&A: Will achievements be added?](./transcriptions/yt-5hha6bAuTTc.md) [https://www.youtube.com/watch?v=5hha6bAuTTc](https://www.youtube.com/watch?v=5hha6bAuTTc)
-* [April 13th, 2021 Livestream Q&A: Anything about achievements?](./transcriptions/yt-cF3QleeEiJo,6652.069241,6679.928238.md) [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6652&end=6680](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6652&end=6680)
-* [February 16th, 2021 Livestream Q&A: Will Achievements ever be created?](./transcriptions/yt-scxr_vl9Pzk.md) [https://www.youtube.com/watch?v=scxr_vl9Pzk](https://www.youtube.com/watch?v=scxr_vl9Pzk)
-* [November 10th, 2020 Livestream Q&A: Achievements system?](./transcriptions/yt-bthe_Dhs6uo.md) [https://www.youtube.com/watch?v=bthe_Dhs6uo](https://www.youtube.com/watch?v=bthe_Dhs6uo)
-* [November 3rd, 2020 Livestream Q&A: Are Steam Achievements going to be added in the future?](./transcriptions/yt-Gi08SVnHyLU.md) [https://www.youtube.com/watch?v=Gi08SVnHyLU](https://www.youtube.com/watch?v=Gi08SVnHyLU)
-* [October 1st, 2020 Q&A: Will there be achievements?](./transcriptions/yt-rATcozDE25c,435.5351,476.04223333333334.md) [https://youtube.com/embed/rATcozDE25c?autoplay=1&start=435&end=477](https://youtube.com/embed/rATcozDE25c?autoplay=1&start=435&end=477)
-* [September 29th, 2020 Livestream Q&A: Give us Steam Achievements already?](./transcriptions/yt-9tNel2ksYnI.md) [https://www.youtube.com/watch?v=9tNel2ksYnI](https://www.youtube.com/watch?v=9tNel2ksYnI)
-* [May 15th, 2020 Q&A: Will there be Steam Cards and Achievements? Also do you intend to use Steam Workshop?](./transcriptions/yt-NlIVwoRqjVk,301.33436666666665,346.41273333333334.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=301&end=347](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=301&end=347)
-* [March 24th, 2020 Livestream Q&A: Achievements?](./transcriptions/yt-G8K0Bjs8mNo.md) [https://www.youtube.com/watch?v=G8K0Bjs8mNo](https://www.youtube.com/watch?v=G8K0Bjs8mNo)
-* [August 1st, 2018 Q&A: Will there be Steam achievements?](./transcriptions/yt-iFAy1NZUOGU,119.72,131.28.md) [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=119&end=132](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=119&end=132)
-</details>
-
 ### [Q&A: Multiplayer fixes, when?](./transcriptions/yt-OUrWFNuyPIA.md) [https://www.youtube.com/watch?v=OUrWFNuyPIA](https://www.youtube.com/watch?v=OUrWFNuyPIA)
 
 <details>

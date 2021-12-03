@@ -5,6 +5,13 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > State of Dev
 
+## November 30th, 2021 Livestream
+* [State of Dev: We released Update 5 last week](../../transcriptions/yt-YX82CfsFUo0.md) [https://www.youtube.com/watch?v=YX82CfsFUo0](https://www.youtube.com/watch?v=YX82CfsFUo0)
+* [State of Dev: Satisfactory on Sale](../../transcriptions/yt-DPVHQdcaDaw.md) [https://www.youtube.com/watch?v=DPVHQdcaDaw](https://www.youtube.com/watch?v=DPVHQdcaDaw)
+* [State of Dev: FICS⁕MAS](../../transcriptions/yt-QFRMFZvJmQg.md) [https://www.youtube.com/watch?v=QFRMFZvJmQg](https://www.youtube.com/watch?v=QFRMFZvJmQg)
+* [State of Dev: This is one of the most stable releases we've ever had](../../transcriptions/yt-5iE_Wqlr8Xg.md) [https://www.youtube.com/watch?v=5iE_Wqlr8Xg](https://www.youtube.com/watch?v=5iE_Wqlr8Xg)
+* [State of Dev: Dedicated Servers](../../transcriptions/yt-nzzHdkTTEoU.md) [https://www.youtube.com/watch?v=nzzHdkTTEoU](https://www.youtube.com/watch?v=nzzHdkTTEoU)
+
 ## November 23rd, 2021 Livestream
 * [State of Dev: Update 5](../../transcriptions/yt-iVDRQg_aWpU,1011.2999398796296,1036.7999375185185.md) [https://youtube.com/clip/UgkxxAm8G7CBs1UCGX0sIQS1-g6VgYPzvIgP](https://youtube.com/clip/UgkxxAm8G7CBs1UCGX0sIQS1-g6VgYPzvIgP)
 

@@ -14,6 +14,9 @@ date: Last Modified
 * [Update 5 Patch Notes Video](../../topics/satisfactory-updates/teasers-and-trailers/update-5-patch-notes-video.md)
 * [Update 5 Teasers](../../topics/satisfactory-updates/teasers-and-trailers/update-5-teasers.md)
 
+## November 30th, 2021 Livestream
+* [Q&A: How do you get Ghostwood Empire to do your Trailer music?](../../transcriptions/yt-frmO3fUX100.md) [https://www.youtube.com/watch?v=frmO3fUX100](https://www.youtube.com/watch?v=frmO3fUX100)
+
 ## November 23rd, 2021 Livestream
 * [Q&A: How do you make the video camera movements in your trailer?](../../transcriptions/yt-iVDRQg_aWpU,5097.134257,5152.865124.md) [https://youtube.com/clip/UgkxfJiLMCxJQS7r5-CW6a5OuFz8hP_VGUup](https://youtube.com/clip/UgkxfJiLMCxJQS7r5-CW6a5OuFz8hP_VGUup)
 * [Q&A: What happened to the little outtake parts at the end of videos?](../../transcriptions/yt-iVDRQg_aWpU,5870.266357,5907.350522.md) [https://youtube.com/clip/UgkxNfFNZKC4MNMjYCzW36j-3DWqZ5LOnDtW](https://youtube.com/clip/UgkxNfFNZKC4MNMjYCzW36j-3DWqZ5LOnDtW)

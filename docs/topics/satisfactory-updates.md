@@ -18,6 +18,10 @@ date: Last Modified
 * [Teasers & Trailers](../topics/satisfactory-updates/teasers-and-trailers.md)
 * [World Update](../topics/satisfactory-updates/world-update.md)
 
+## November 30th, 2021 Livestream
+* [Q&A: Is the focus now on content/project parts?](../transcriptions/yt-2uxuRg2qmhY.md) [https://www.youtube.com/watch?v=2uxuRg2qmhY](https://www.youtube.com/watch?v=2uxuRg2qmhY)
+* [Q&A: Will future Updates be faster as there's less to do?](../transcriptions/yt-_FHwwg-NciE.md) [https://www.youtube.com/watch?v=_FHwwg-NciE](https://www.youtube.com/watch?v=_FHwwg-NciE)
+
 ## November 16th, 2021 Livestream
 * [Q&A: Are there going to be more Resources added for the next Tier?](../transcriptions/yt-mtLqH_BpG1U.md) [https://www.youtube.com/watch?v=mtLqH_BpG1U](https://www.youtube.com/watch?v=mtLqH_BpG1U)
 * [Q&A: Are you both more focussed on bug fixes or game expansion?](../transcriptions/yt-PCdXgs4GZ7U.md) [https://www.youtube.com/watch?v=PCdXgs4GZ7U](https://www.youtube.com/watch?v=PCdXgs4GZ7U)

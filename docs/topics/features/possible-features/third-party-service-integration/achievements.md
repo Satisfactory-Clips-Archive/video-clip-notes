@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > Possible Features > [Third-Party Service Integration](../../../../topics/features/possible-features/third-party-service-integration.md) > Achievements
 
+## November 30th, 2021 Livestream
+* [Q&A: Steam Achivements?](../../../../transcriptions/yt-3KRCUE3VOxE.md) [https://www.youtube.com/watch?v=3KRCUE3VOxE](https://www.youtube.com/watch?v=3KRCUE3VOxE)
+
 ## November 2nd, 2021 Livestream
 * [Q&A: When are we going to get Achievements?](../../../../transcriptions/yt-UKot9dXEPXk.md) [https://www.youtube.com/watch?v=UKot9dXEPXk](https://www.youtube.com/watch?v=UKot9dXEPXk)
 

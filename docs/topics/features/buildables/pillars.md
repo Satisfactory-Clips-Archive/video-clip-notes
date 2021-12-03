@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildables](../../../topics/features/buildables.md) > Pillars
 
+## November 30th, 2021 Livestream
+* [Q&A: When can we put Lights on Pillars again?](../../../transcriptions/yt-f_FPDjd81Kg.md) [https://www.youtube.com/watch?v=f_FPDjd81Kg](https://www.youtube.com/watch?v=f_FPDjd81Kg)
+
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
 * [Snutt & Jace Talk: More Cosmetic Build Pieces](../../../transcriptions/yt-QfaReoks6OM,231.75,262.75.md) [https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=231&end=263](https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=231&end=263)
 

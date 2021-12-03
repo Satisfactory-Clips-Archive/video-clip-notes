@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Mark
 
+## November 30th, 2021 Livestream
+* [Community FYI: Mark for Community Manager](../../transcriptions/yt-1NL4q6EZpq8.md) [https://www.youtube.com/watch?v=1NL4q6EZpq8](https://www.youtube.com/watch?v=1NL4q6EZpq8)
+
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
 * Mark, Snutt, and Jace Talk: Introducing Mark [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=13226&end=13292](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=13226&end=13292)
 * Q&A: How does Mark feel when Coffee Stain started announcing Update 5 Features? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=13291&end=13434](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=13291&end=13434)

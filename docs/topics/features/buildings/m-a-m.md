@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > M.A.M.
 
+## November 30th, 2021 Livestream
+* [Community FYI: I love that the M.A.M. Research Tree is literally a tree](../../../transcriptions/yt-kd2esfrAzfk.md) [https://www.youtube.com/watch?v=kd2esfrAzfk](https://www.youtube.com/watch?v=kd2esfrAzfk)
+
 ## September 28th, 2021 Livestream
 * [Q&A: How do you get Hard Drives that require Holiday Event-specific items?](../../../transcriptions/yt-eviAiYWLroI.md) [https://www.youtube.com/watch?v=eviAiYWLroI](https://www.youtube.com/watch?v=eviAiYWLroI)
 

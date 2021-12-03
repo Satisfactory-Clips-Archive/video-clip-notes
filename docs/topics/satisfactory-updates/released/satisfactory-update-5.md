@@ -8,6 +8,13 @@ date: Last Modified
 * [#SaveTheWillows](../../../topics/satisfactory-updates/released/satisfactory-update-5/save-the-willows.md)
 * [Update 5 Torsten's Cosmetics Whiteboard](../../../topics/satisfactory-updates/released/satisfactory-update-5/torstens-cosmetics-whiteboard.md)
 
+## November 30th, 2021 Livestream
+* [State of Dev: We released Update 5 last week](../../../transcriptions/yt-YX82CfsFUo0.md) [https://www.youtube.com/watch?v=YX82CfsFUo0](https://www.youtube.com/watch?v=YX82CfsFUo0)
+* [State of Dev: This is one of the most stable releases we've ever had](../../../transcriptions/yt-5iE_Wqlr8Xg.md) [https://www.youtube.com/watch?v=5iE_Wqlr8Xg](https://www.youtube.com/watch?v=5iE_Wqlr8Xg)
+* Q&A: Do Mods work in Update 5? [https://www.youtube.com/watch?v=sV77JoiQ_G0](https://www.youtube.com/watch?v=sV77JoiQ_G0)
+* [Q&A: Do we need to start a new world to enjoy Update 5?](../../../transcriptions/yt-1b0ZPEwuQM8.md) [https://www.youtube.com/watch?v=1b0ZPEwuQM8](https://www.youtube.com/watch?v=1b0ZPEwuQM8)
+* [Q&A: My save file gives me 10fps, will Update 5 fix that?](../../../transcriptions/yt-jrLaGcqLbls.md) [https://www.youtube.com/watch?v=jrLaGcqLbls](https://www.youtube.com/watch?v=jrLaGcqLbls)
+
 ## November 23rd, 2021 Livestream
 * [Snutt & Jace Talk: Update 5 Teaser Season Supercut & Update 5 Launch](../../../transcriptions/yt-iVDRQg_aWpU,751.7332972469136,967.540672.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=751&end=968](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=751&end=968)
 * [State of Dev: Update 5](../../../transcriptions/yt-iVDRQg_aWpU,1011.2999398796296,1036.7999375185185.md) [https://youtube.com/clip/UgkxxAm8G7CBs1UCGX0sIQS1-g6VgYPzvIgP](https://youtube.com/clip/UgkxxAm8G7CBs1UCGX0sIQS1-g6VgYPzvIgP)

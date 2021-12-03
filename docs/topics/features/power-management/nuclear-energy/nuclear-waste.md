@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > [Power Management](../../../../topics/features/power-management.md) > [Nuclear Energy](../../../../topics/features/power-management/nuclear-energy.md) > Nuclear Waste
 
+## November 30th, 2021 Livestream
+* [Community FYI: Tim leaked stuff & left the company the same day](../../../../transcriptions/yt-fwcug1RNSEk.md) [https://www.youtube.com/watch?v=fwcug1RNSEk](https://www.youtube.com/watch?v=fwcug1RNSEk)
+
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
 * Community FYI: Uranium Waste on Pizza [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=6803&end=6812](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=6803&end=6812)
 

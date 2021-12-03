@@ -8,6 +8,10 @@ date: Last Modified
 * [Skövde](../../topics/off-topic/sweden/skovde.md)
 * [Stockholm](../../topics/off-topic/sweden/stockholm.md)
 
+## November 30th, 2021 Livestream
+* [Snutt & Jace Talk: Handball](../../transcriptions/yt-2oM0G2HMZPI.md) [https://www.youtube.com/watch?v=2oM0G2HMZPI](https://www.youtube.com/watch?v=2oM0G2HMZPI)
+* [Q&A: Why doesn't Snutt have a strong accent?](../../transcriptions/yt-DYb3hFnv9iA.md) [https://www.youtube.com/watch?v=DYb3hFnv9iA](https://www.youtube.com/watch?v=DYb3hFnv9iA)
+
 ## November 9th, 2021 Livestream
 * [Community FYI: Max Burgers](../../transcriptions/yt-ww6e6B4J_1Q.md) [https://www.youtube.com/watch?v=ww6e6B4J_1Q](https://www.youtube.com/watch?v=ww6e6B4J_1Q)
 * [Q&A: Why don't you have a Swedish accent](../../transcriptions/yt-f-uv6hfGSJY.md) [https://www.youtube.com/watch?v=f-uv6hfGSJY](https://www.youtube.com/watch?v=f-uv6hfGSJY)
