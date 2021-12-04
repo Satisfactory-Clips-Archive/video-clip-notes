@@ -8,7 +8,7 @@ topics:
 ---
 # [October 27th, 2021 Video](../2021-10-27.md)
 ## Jace Talk: Dedicated Servers are super experimental
-https://youtube.com/embed/Nn-1s87JJxc?autoplay=1&start=61&end=89
+https://youtube.com/clip/UgkxhvmKEXivPEhbAqZRllU64BJ7am9U3IO5
 
 ### Topics
 * [Features > Multiplayer > Dedicated Servers](../topics/features/multiplayer/dedicated-servers.md)

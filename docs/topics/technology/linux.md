@@ -9,7 +9,7 @@ date: Last Modified
 * [Snutt & Jace Talk: Frequently Asked Questions about where Satisfactory will be released](../../transcriptions/yt-9TFj1vArqDg.md) [https://www.youtube.com/watch?v=9TFj1vArqDg](https://www.youtube.com/watch?v=9TFj1vArqDg)
 
 ## October 27th, 2021 Video
-* [Q&A: What operating systems do you support?](../../transcriptions/yt-Nn-1s87JJxc,196.12926666666667,206.1059.md) [https://youtube.com/embed/Nn-1s87JJxc?autoplay=1&start=196&end=207](https://youtube.com/embed/Nn-1s87JJxc?autoplay=1&start=196&end=207)
+* [Q&A: What operating systems do you support?](../../transcriptions/yt-Nn-1s87JJxc,196.12926666666667,206.1059.md) [https://youtube.com/clip/UgkxM-LItEicq5GPuVkHM1QuIdg3QPTHRHGH](https://youtube.com/clip/UgkxM-LItEicq5GPuVkHM1QuIdg3QPTHRHGH)
 
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
 * Q&A: Will they be on Linux? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=16579&end=16588](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=16579&end=16588)

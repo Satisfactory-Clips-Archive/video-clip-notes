@@ -8,7 +8,7 @@ topics:
 ---
 # [October 27th, 2021 Video](../2021-10-27.md)
 ## Q&A: What operating systems do you support?
-https://youtube.com/embed/Nn-1s87JJxc?autoplay=1&start=196&end=207
+https://youtube.com/clip/UgkxM-LItEicq5GPuVkHM1QuIdg3QPTHRHGH
 <details>
 <summary>This question may have been asked previously at least 1 other time, as recently as October 2021.</summary>
 

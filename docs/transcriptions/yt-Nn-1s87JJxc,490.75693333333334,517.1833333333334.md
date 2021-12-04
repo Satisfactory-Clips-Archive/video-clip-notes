@@ -7,7 +7,7 @@ topics:
 ---
 # [October 27th, 2021 Video](../2021-10-27.md)
 ## Jace Talk: Setting up a Server
-https://youtube.com/embed/Nn-1s87JJxc?autoplay=1&start=490&end=518
+https://youtube.com/clip/UgkxztV6BNVPx4sxLUXaWkpw3RvDv6How96i
 
 ### Topics
 * [Features > Multiplayer > Dedicated Servers](../topics/features/multiplayer/dedicated-servers.md)

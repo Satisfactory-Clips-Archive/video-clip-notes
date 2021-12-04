@@ -7,7 +7,7 @@ topics:
 ---
 # [October 27th, 2021 Video](../2021-10-27.md)
 ## Q&A: Are Coffee Stain hosting any official Dedicated Servers?
-https://youtube.com/embed/Nn-1s87JJxc?autoplay=1&start=433&end=448
+https://youtube.com/clip/UgkxVSEmjxWiXqQepN49VFd6x9gXxVR83VFs
 <details>
 <summary>This question may have been asked previously at least 4 other times, as recently as October 2021 and as early as November 2020.</summary>
 

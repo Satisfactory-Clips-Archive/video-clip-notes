@@ -23,9 +23,9 @@ date: Last Modified
 * [Jace Talk: Steam/Epic bug](../../transcriptions/yt-rePLsjw-eEY,226.3261,274.14053333333334.md) [https://youtube.com/clip/UgkxCKbJp53V8HP5Emk1_BI9yH1j1sjTZF4J](https://youtube.com/clip/UgkxCKbJp53V8HP5Emk1_BI9yH1j1sjTZF4J)
 
 ## October 27th, 2021 Video
-* [Q&A: Where can I get the Dedicated Servers?](../../transcriptions/yt-Nn-1s87JJxc,140.70723333333333,196.0959.md) [https://youtube.com/embed/Nn-1s87JJxc?autoplay=1&start=140&end=197](https://youtube.com/embed/Nn-1s87JJxc?autoplay=1&start=140&end=197)
-* [Jace Talk: How to find Satisfactory Dedicated Server in Steam](../../transcriptions/yt-Nn-1s87JJxc,517.2167000000001,557.020737.md) [https://youtube.com/embed/Nn-1s87JJxc?autoplay=1&start=517&end=558](https://youtube.com/embed/Nn-1s87JJxc?autoplay=1&start=517&end=558)
-* [Jace Talk: Launching a Dedicated Server](../../transcriptions/yt-Nn-1s87JJxc,557.0565,613.9466666666667.md) [https://youtube.com/embed/Nn-1s87JJxc?autoplay=1&start=557&end=614](https://youtube.com/embed/Nn-1s87JJxc?autoplay=1&start=557&end=614)
+* [Q&A: Where can I get the Dedicated Servers?](../../transcriptions/yt-Nn-1s87JJxc,140.70723333333333,196.0959.md) [https://youtube.com/clip/UgkxBy7Mxe7I6Ou313R-orQoGRKU7YuxGy6i](https://youtube.com/clip/UgkxBy7Mxe7I6Ou313R-orQoGRKU7YuxGy6i)
+* [Jace Talk: How to find Satisfactory Dedicated Server in Steam](../../transcriptions/yt-Nn-1s87JJxc,517.2167000000001,557.020737.md) [https://youtube.com/clip/UgkxPvWoem7scdIrWPU4SDU5N83GxFvqN7fd](https://youtube.com/clip/UgkxPvWoem7scdIrWPU4SDU5N83GxFvqN7fd)
+* [Jace Talk: Launching a Dedicated Server](../../transcriptions/yt-Nn-1s87JJxc,557.0565,613.9466666666667.md) [https://youtube.com/clip/UgkxIqbHmznDoEgrXdUiJ8sY6AcHsg6V-PJW](https://youtube.com/clip/UgkxIqbHmznDoEgrXdUiJ8sY6AcHsg6V-PJW)
 
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
 * Snutt & Jace Talk: Satisfactory running on Steam Deck (Part 1) [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=1426&end=1588](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=1426&end=1588)

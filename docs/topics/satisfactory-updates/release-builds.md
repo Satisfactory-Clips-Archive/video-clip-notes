@@ -30,7 +30,7 @@ date: Last Modified
 * [Q&A: When do you hope Update 5 will hit Early Access?](../../transcriptions/yt-6iQWBOLYA60.md) [https://www.youtube.com/watch?v=6iQWBOLYA60](https://www.youtube.com/watch?v=6iQWBOLYA60)
 
 ## October 27th, 2021 Video
-* [Jace Talk: Dedicated Servers are super experimental](../../transcriptions/yt-Nn-1s87JJxc,61.628233333333334,88.92216666666667.md) [https://youtube.com/embed/Nn-1s87JJxc?autoplay=1&start=61&end=89](https://youtube.com/embed/Nn-1s87JJxc?autoplay=1&start=61&end=89)
+* [Jace Talk: Dedicated Servers are super experimental](../../transcriptions/yt-Nn-1s87JJxc,61.628233333333334,88.92216666666667.md) [https://youtube.com/clip/UgkxhvmKEXivPEhbAqZRllU64BJ7am9U3IO5](https://youtube.com/clip/UgkxhvmKEXivPEhbAqZRllU64BJ7am9U3IO5)
 
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
 * Q&A: What time is release? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=12892&end=12905](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=12892&end=12905)

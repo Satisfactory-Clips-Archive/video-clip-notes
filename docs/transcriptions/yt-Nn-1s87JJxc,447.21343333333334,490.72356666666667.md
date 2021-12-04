@@ -7,7 +7,7 @@ topics:
 ---
 # [October 27th, 2021 Video](../2021-10-27.md)
 ## Q&A: Has Coffee Stain partnered with any external vendors?
-https://youtube.com/embed/Nn-1s87JJxc?autoplay=1&start=447&end=491
+https://youtube.com/clip/Ugkxzpq9smmHNjvh469iDREofegrzSK2UWJW
 
 ### Topics
 * [Features > Multiplayer > Dedicated Servers](../topics/features/multiplayer/dedicated-servers.md)

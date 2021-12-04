@@ -64,7 +64,7 @@ date: Last Modified
 * [Q&A: What are you doing for dinner?](../../transcriptions/yt-wb4NqoIBxrU.md) [https://www.youtube.com/watch?v=wb4NqoIBxrU](https://www.youtube.com/watch?v=wb4NqoIBxrU)
 
 ## October 27th, 2021 Video
-* [Jace Talk: How to find Satisfactory Dedicated Server in Steam](../../transcriptions/yt-Nn-1s87JJxc,517.2167000000001,557.020737.md) [https://youtube.com/embed/Nn-1s87JJxc?autoplay=1&start=517&end=558](https://youtube.com/embed/Nn-1s87JJxc?autoplay=1&start=517&end=558)
+* [Jace Talk: How to find Satisfactory Dedicated Server in Steam](../../transcriptions/yt-Nn-1s87JJxc,517.2167000000001,557.020737.md) [https://youtube.com/clip/UgkxPvWoem7scdIrWPU4SDU5N83GxFvqN7fd](https://youtube.com/clip/UgkxPvWoem7scdIrWPU4SDU5N83GxFvqN7fd)
 
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
 * [Snutt & Jace Talk: No more Dora](../../transcriptions/yt-QfaReoks6OM,606.8333333333334,644.4583333333334.md) [https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=606&end=645](https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=606&end=645)

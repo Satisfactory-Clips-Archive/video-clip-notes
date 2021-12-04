@@ -32,7 +32,7 @@ date: Last Modified
 * [Jace Talk: Update 5 bug reports](../transcriptions/yt-rePLsjw-eEY,78.44503333333334,114.48103333333333.md) [https://youtube.com/clip/UgkxJI5VH8ctyuGYp-62AOEaJyNOmlNmFA_c](https://youtube.com/clip/UgkxJI5VH8ctyuGYp-62AOEaJyNOmlNmFA_c)
 
 ## October 27th, 2021 Video
-* [Jace Talk: We would appreciate your feedback on the Dedicated Servers](../transcriptions/yt-Nn-1s87JJxc,88.95553333333334,140.67386666666667.md) [https://youtube.com/embed/Nn-1s87JJxc?autoplay=1&start=88&end=141](https://youtube.com/embed/Nn-1s87JJxc?autoplay=1&start=88&end=141)
+* [Jace Talk: We would appreciate your feedback on the Dedicated Servers](../transcriptions/yt-Nn-1s87JJxc,88.95553333333334,140.67386666666667.md) [https://youtube.com/clip/UgkxxfK43k0sVneHAvKHoqLtcCA3q-m8RqhD](https://youtube.com/clip/UgkxxfK43k0sVneHAvKHoqLtcCA3q-m8RqhD)
 
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
 * [Jace & Snutt Talk: Golf](../transcriptions/yt-QfaReoks6OM,34.75,57.333333333333336.md) [https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=34&end=58](https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=34&end=58)

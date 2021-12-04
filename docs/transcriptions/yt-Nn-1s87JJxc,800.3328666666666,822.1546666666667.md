@@ -7,7 +7,7 @@ topics:
 ---
 # [October 27th, 2021 Video](../2021-10-27.md)
 ## Jace Talk: Administrator permissions
-https://youtube.com/embed/Nn-1s87JJxc?autoplay=1&start=800&end=823
+https://youtube.com/clip/UgkxhWxZYZ9J5bEAYKXfXurReqissgq_7m4Q
 
 ### Topics
 * [Features > Multiplayer > Dedicated Servers](../topics/features/multiplayer/dedicated-servers.md)

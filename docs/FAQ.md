@@ -1192,7 +1192,7 @@ date: Last Modified
 </details>
 
 ## [October 27th, 2021 Video](./2021-10-27.md)
-### [Q&A: Are Coffee Stain hosting any official Dedicated Servers?](./transcriptions/yt-Nn-1s87JJxc,433.3996333333333,447.1800666666667.md) [https://youtube.com/embed/Nn-1s87JJxc?autoplay=1&start=433&end=448](https://youtube.com/embed/Nn-1s87JJxc?autoplay=1&start=433&end=448)
+### [Q&A: Are Coffee Stain hosting any official Dedicated Servers?](./transcriptions/yt-Nn-1s87JJxc,433.3996333333333,447.1800666666667.md) [https://youtube.com/clip/UgkxVSEmjxWiXqQepN49VFd6x9gXxVR83VFs](https://youtube.com/clip/UgkxVSEmjxWiXqQepN49VFd6x9gXxVR83VFs)
 
 <details>
 

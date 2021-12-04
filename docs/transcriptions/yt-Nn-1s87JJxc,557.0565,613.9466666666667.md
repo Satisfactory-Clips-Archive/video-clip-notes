@@ -8,7 +8,7 @@ topics:
 ---
 # [October 27th, 2021 Video](../2021-10-27.md)
 ## Jace Talk: Launching a Dedicated Server
-https://youtube.com/embed/Nn-1s87JJxc?autoplay=1&start=557&end=614
+https://youtube.com/clip/UgkxIqbHmznDoEgrXdUiJ8sY6AcHsg6V-PJW
 
 ### Topics
 * [Features > Multiplayer > Dedicated Servers](../topics/features/multiplayer/dedicated-servers.md)

@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=RLw5RmNJInE
 <details>
 <summary>This question may have been asked previously at least 1 other time, as recently as October 2021.</summary>
 
-* [October 27th, 2021 Video Q&A: Did you just add a Dedicated Server model to the game?](./yt-Nn-1s87JJxc,34.2342,61.59486666666667.md) [https://youtube.com/embed/Nn-1s87JJxc?autoplay=1&start=34&end=62](https://youtube.com/embed/Nn-1s87JJxc?autoplay=1&start=34&end=62)
+* [October 27th, 2021 Video Q&A: Did you just add a Dedicated Server model to the game?](./yt-Nn-1s87JJxc,34.2342,61.59486666666667.md) [https://youtube.com/clip/UgkxEmlZ8wwojewHgSx-K89FRvbBJHNes5-j](https://youtube.com/clip/UgkxEmlZ8wwojewHgSx-K89FRvbBJHNes5-j)
 </details>
 
 

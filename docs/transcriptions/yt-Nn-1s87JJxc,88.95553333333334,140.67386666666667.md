@@ -8,7 +8,7 @@ topics:
 ---
 # [October 27th, 2021 Video](../2021-10-27.md)
 ## Jace Talk: We would appreciate your feedback on the Dedicated Servers
-https://youtube.com/embed/Nn-1s87JJxc?autoplay=1&start=88&end=141
+https://youtube.com/clip/UgkxxfK43k0sVneHAvKHoqLtcCA3q-m8RqhD
 
 ### Topics
 * [Features > Multiplayer > Dedicated Servers](../topics/features/multiplayer/dedicated-servers.md)

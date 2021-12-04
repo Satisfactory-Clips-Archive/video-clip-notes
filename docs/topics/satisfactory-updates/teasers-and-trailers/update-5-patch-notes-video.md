@@ -103,7 +103,7 @@ date: Last Modified
 
 ## October 27th, 2021 Video
 * [Intro](../../../transcriptions/yt-Nn-1s87JJxc,,34.200833333333335.md) [https://youtube.com/embed/Nn-1s87JJxc?autoplay=1&start=0&end=35](https://youtube.com/embed/Nn-1s87JJxc?autoplay=1&start=0&end=35)
-* [Q&A: Did you just add a Dedicated Server model to the game?](../../../transcriptions/yt-Nn-1s87JJxc,34.2342,61.59486666666667.md) [https://youtube.com/embed/Nn-1s87JJxc?autoplay=1&start=34&end=62](https://youtube.com/embed/Nn-1s87JJxc?autoplay=1&start=34&end=62)
+* [Q&A: Did you just add a Dedicated Server model to the game?](../../../transcriptions/yt-Nn-1s87JJxc,34.2342,61.59486666666667.md) [https://youtube.com/clip/UgkxEmlZ8wwojewHgSx-K89FRvbBJHNes5-j](https://youtube.com/clip/UgkxEmlZ8wwojewHgSx-K89FRvbBJHNes5-j)
 
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
 * [Jace & Snutt Talk: Introductions](../../../transcriptions/yt-QfaReoks6OM,13.375,34.688486.md) [https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=13&end=35](https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=13&end=35)

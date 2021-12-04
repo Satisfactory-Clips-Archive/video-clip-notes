@@ -9,7 +9,7 @@ topics:
 ---
 # [October 27th, 2021 Video](../2021-10-27.md)
 ## Jace Talk: How to find Satisfactory Dedicated Server in Steam
-https://youtube.com/embed/Nn-1s87JJxc?autoplay=1&start=517&end=558
+https://youtube.com/clip/UgkxPvWoem7scdIrWPU4SDU5N83GxFvqN7fd
 
 ### Topics
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)

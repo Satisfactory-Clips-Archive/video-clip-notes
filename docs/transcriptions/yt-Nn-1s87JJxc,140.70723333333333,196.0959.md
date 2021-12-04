@@ -8,7 +8,7 @@ topics:
 ---
 # [October 27th, 2021 Video](../2021-10-27.md)
 ## Q&A: Where can I get the Dedicated Servers?
-https://youtube.com/embed/Nn-1s87JJxc?autoplay=1&start=140&end=197
+https://youtube.com/clip/UgkxBy7Mxe7I6Ou313R-orQoGRKU7YuxGy6i
 <details>
 <summary>This question may have been asked previously at least 1 other time, as recently as October 2021.</summary>
 
