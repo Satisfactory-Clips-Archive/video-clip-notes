@@ -242,7 +242,7 @@ date: Last Modified
 * [Q&A: Is that it for State of Dev?](../../transcriptions/yt-OI6OAux6VrM.md) [https://www.youtube.com/watch?v=OI6OAux6VrM](https://www.youtube.com/watch?v=OI6OAux6VrM)
 
 ## December 1st, 2020 Livestream
-* [State of Dev](../../transcriptions/yt-Jn1zEzy2N9o.md) [https://www.youtube.com/watch?v=Jn1zEzy2N9o](https://www.youtube.com/watch?v=Jn1zEzy2N9o)
+* [State of Dev: FICS⁕MAS, Steam Awards](../../transcriptions/yt-Jn1zEzy2N9o.md) [https://www.youtube.com/watch?v=Jn1zEzy2N9o](https://www.youtube.com/watch?v=Jn1zEzy2N9o)
 
 ## November 24th, 2020 Livestream
 * [Snutt & Jace Talk: State of Dev](../../transcriptions/yt-uYPhHTSL6Ys.md) [https://www.youtube.com/watch?v=uYPhHTSL6Ys](https://www.youtube.com/watch?v=uYPhHTSL6Ys)

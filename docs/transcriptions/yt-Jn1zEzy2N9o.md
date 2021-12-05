@@ -1,12 +1,12 @@
 ---
-title: "December 1st, 2020 Livestream State of Dev"
+title: "December 1st, 2020 Livestream State of Dev: FICS⁕MAS, Steam Awards"
 date: "2020-12-01"
 layout: transcript
 topics:
     - "satisfactory-updates/state-of-dev"
 ---
 # [December 1st, 2020 Livestream](../2020-12-01.md)
-## State of Dev
+## State of Dev: FICS⁕MAS, Steam Awards
 https://www.youtube.com/watch?v=Jn1zEzy2N9o
 
 ### Topics
