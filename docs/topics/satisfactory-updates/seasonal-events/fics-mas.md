@@ -120,6 +120,7 @@ date: Last Modified
 * [Q&A: Do you know what caused the Lizard Doggos to be super-janky at the launch of FICS⁕MAS?](../../../transcriptions/yt-4M85D1XUDlU.md) [https://www.youtube.com/watch?v=4M85D1XUDlU](https://www.youtube.com/watch?v=4M85D1XUDlU)
 
 ## December 1st, 2020 Livestream
+* [Snutt & Jace Talk: Today is a special day](../../../transcriptions/yt-eFctxYpOQvQ.md) [https://www.youtube.com/watch?v=eFctxYpOQvQ](https://www.youtube.com/watch?v=eFctxYpOQvQ)
 * [Snutt & Jace Talk: FICS⁕MAS](../../../transcriptions/yt-EXAZ6xoHCx0.md) [https://www.youtube.com/watch?v=EXAZ6xoHCx0](https://www.youtube.com/watch?v=EXAZ6xoHCx0)
 
 ## March 24th, 2020 Livestream

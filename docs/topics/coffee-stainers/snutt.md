@@ -387,6 +387,9 @@ date: Last Modified
 * [Snutt Talk: Guitars](../../transcriptions/yt-U-4gFkYIESU.md) [https://www.youtube.com/watch?v=U-4gFkYIESU](https://www.youtube.com/watch?v=U-4gFkYIESU)
 * [Q&A: What's the best nickname someone has ever given you?](../../transcriptions/yt-_4_umuhMFK8.md) [https://www.youtube.com/watch?v=_4_umuhMFK8](https://www.youtube.com/watch?v=_4_umuhMFK8)
 
+## December 1st, 2020 Livestream
+* [Community FYI: Tim's got better responses than the CM team, we love you Tim](../../transcriptions/yt-xbU3VgcWHTg.md) [https://www.youtube.com/watch?v=xbU3VgcWHTg](https://www.youtube.com/watch?v=xbU3VgcWHTg)
+
 ## November 24th, 2020 Livestream
 * [Q&A: Who is the biggest [special guest] fan, Snuttalicious or Jaceru?](../../transcriptions/yt-a1eSZz7wksU.md) [https://www.youtube.com/watch?v=a1eSZz7wksU](https://www.youtube.com/watch?v=a1eSZz7wksU)
 

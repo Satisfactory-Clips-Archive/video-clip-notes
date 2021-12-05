@@ -240,6 +240,10 @@ date: Last Modified
 * [Q&A: Have you sold more than 10 copies yet?](../transcriptions/yt-m7UjXQmtBK0.md) [https://www.youtube.com/watch?v=m7UjXQmtBK0](https://www.youtube.com/watch?v=m7UjXQmtBK0)
 * [Q&A: If they refunded how could you get so many screenshots for FICS⁕MAS?](../transcriptions/yt-AHYlgGcYkjw.md) [https://www.youtube.com/watch?v=AHYlgGcYkjw](https://www.youtube.com/watch?v=AHYlgGcYkjw)
 
+## December 1st, 2020 Livestream
+* [Q&A: Isn't there a bugfix for Tim so he can continue to work?](../transcriptions/yt-JYFneaUval4.md) [https://www.youtube.com/watch?v=JYFneaUval4](https://www.youtube.com/watch?v=JYFneaUval4)
+* [Q&A: Epic-only Achievements?](../transcriptions/yt-wMol1AoQSFQ.md) [https://www.youtube.com/watch?v=wMol1AoQSFQ](https://www.youtube.com/watch?v=wMol1AoQSFQ)
+
 ## November 24th, 2020 Livestream
 * [Q&A: When is Satisfactory coming to N-Gage?](../transcriptions/yt-qL6dp9eUB58.md) [https://www.youtube.com/watch?v=qL6dp9eUB58](https://www.youtube.com/watch?v=qL6dp9eUB58)
 * [Q&A: Simon is dead, did he run out of Alpha Keys?](../transcriptions/yt-dj20zgoTvA0.md) [https://www.youtube.com/watch?v=dj20zgoTvA0](https://www.youtube.com/watch?v=dj20zgoTvA0)

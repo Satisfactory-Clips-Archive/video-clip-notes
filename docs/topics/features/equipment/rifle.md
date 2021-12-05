@@ -27,6 +27,9 @@ date: Last Modified
 ## February 23rd, 2021 Livestream
 * [Q&A: Reload for Rifles?](../../../transcriptions/yt-LGjLUSeHQ4w.md) [https://www.youtube.com/watch?v=LGjLUSeHQ4w](https://www.youtube.com/watch?v=LGjLUSeHQ4w)
 
+## December 1st, 2020 Livestream
+* [Q&A: Mk.2 Rifle?](../../../transcriptions/yt-9cdmVSl0lY8.md) [https://www.youtube.com/watch?v=9cdmVSl0lY8](https://www.youtube.com/watch?v=9cdmVSl0lY8)
+
 ## October 20th, 2020 Livestream
 * [Q&A: WTF, there's a Rifle in Satisfactory?](../../../transcriptions/yt-WTCjl2Tu39A.md) [https://www.youtube.com/watch?v=WTCjl2Tu39A](https://www.youtube.com/watch?v=WTCjl2Tu39A)
 * [Q&A: Is there going to be more equipment coming, like Rifle Mk. 2?](../../../transcriptions/yt--fXaMAXEY5U.md) [https://www.youtube.com/watch?v=-fXaMAXEY5U](https://www.youtube.com/watch?v=-fXaMAXEY5U)

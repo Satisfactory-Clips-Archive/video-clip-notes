@@ -210,6 +210,9 @@ date: Last Modified
 ## December 8th, 2020 Livestream
 * [Snutt Talk: Update 4 Tier 7 changes & Early Access](../../../transcriptions/yt-X9X9MsVbDAk.md) [https://www.youtube.com/watch?v=X9X9MsVbDAk](https://www.youtube.com/watch?v=X9X9MsVbDAk)
 
+## December 1st, 2020 Livestream
+* [Q&A: Will Tim play 1.0?](../../../transcriptions/yt-yt9lr15dA58.md) [https://www.youtube.com/watch?v=yt9lr15dA58](https://www.youtube.com/watch?v=yt9lr15dA58)
+
 ## November 17th, 2020 Livestream
 * [Q&A: Any idea when Somersloop, Mercer Sphere, S.A.M. Ore will actually be implemented?](../../../transcriptions/yt-ccmgnLh1oO0.md) [https://www.youtube.com/watch?v=ccmgnLh1oO0](https://www.youtube.com/watch?v=ccmgnLh1oO0)
 

@@ -23,6 +23,9 @@ date: Last Modified
 ## December 17th, 2020 Q&A
 * [Q&A: How do you have your coffee and/or tea?](../../../transcriptions/yt--JXPsTlJIiI,1078.9779,1094.8270666666667.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=1078&end=1095](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=1078&end=1095)
 
+## December 1st, 2020 Livestream
+* [Q&A: Do you drink coffee, Tim?](../../../transcriptions/yt-wjPnmSHFvZ0.md) [https://www.youtube.com/watch?v=wjPnmSHFvZ0](https://www.youtube.com/watch?v=wjPnmSHFvZ0)
+
 ## September 1st, 2020 Livestream
 * [Q&A: Is liking Coffee a requirement to work at the Studio?](../../../transcriptions/yt-GWoHn3wkLTM.md) [https://www.youtube.com/watch?v=GWoHn3wkLTM](https://www.youtube.com/watch?v=GWoHn3wkLTM)
 

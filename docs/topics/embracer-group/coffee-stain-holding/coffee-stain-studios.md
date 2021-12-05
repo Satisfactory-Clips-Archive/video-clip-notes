@@ -103,6 +103,9 @@ date: Last Modified
 ## January 12th, 2021 Livestream
 * [Q&A: Now that you have big boy office are you planning on hiring a lot more people to fill it out?](../../../transcriptions/yt-iqGA8u7MmMM.md) [https://www.youtube.com/watch?v=iqGA8u7MmMM](https://www.youtube.com/watch?v=iqGA8u7MmMM)
 
+## December 1st, 2020 Livestream
+* [Q&A: What would you tell the team to avoid doing in future?](../../../transcriptions/yt-VQtVJwhJrww.md) [https://www.youtube.com/watch?v=VQtVJwhJrww](https://www.youtube.com/watch?v=VQtVJwhJrww)
+
 ## November 10th, 2020 Livestream
 * [Q&A: Does Coffee Stain "matrix" it's people across different games?](../../../transcriptions/yt-AjCUCamZMTk.md) [https://www.youtube.com/watch?v=AjCUCamZMTk](https://www.youtube.com/watch?v=AjCUCamZMTk)
 * [Q&A: How come so many Dutch developers?](../../../transcriptions/yt-iV-D3TFuaIU.md) [https://www.youtube.com/watch?v=iV-D3TFuaIU](https://www.youtube.com/watch?v=iV-D3TFuaIU)

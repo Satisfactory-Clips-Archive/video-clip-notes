@@ -508,6 +508,9 @@ date: Last Modified
 * [Coffee Stain R&D Factory](../../transcriptions/yt-njXBs_p2l1w,124.9248,154.154.md) [https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=124&end=155](https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=124&end=155)
 * [Packaged Alumina Solution & Packaged Sulphuric Acid](../../transcriptions/yt-njXBs_p2l1w,154.154,245.57866666666666.md) [https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=154&end=246](https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=154&end=246)
 
+## December 1st, 2020 Livestream
+* [Community FYI: Tim's got better responses than the CM team, we love you Tim](../../transcriptions/yt-xbU3VgcWHTg.md) [https://www.youtube.com/watch?v=xbU3VgcWHTg](https://www.youtube.com/watch?v=xbU3VgcWHTg)
+
 ## November 24th, 2020 Livestream
 * [Q&A: Who is the biggest [special guest] fan, Snuttalicious or Jaceru?](../../transcriptions/yt-a1eSZz7wksU.md) [https://www.youtube.com/watch?v=a1eSZz7wksU](https://www.youtube.com/watch?v=a1eSZz7wksU)
 

@@ -139,6 +139,9 @@ date: Last Modified
 ## December 8th, 2020 Livestream
 * [Q&A: The Map?](../../transcriptions/yt-y7chTv597Cw.md) [https://www.youtube.com/watch?v=y7chTv597Cw](https://www.youtube.com/watch?v=y7chTv597Cw)
 
+## December 1st, 2020 Livestream
+* Q&A: Coolest thing on the map? [https://www.youtube.com/watch?v=1ydovUndxp8](https://www.youtube.com/watch?v=1ydovUndxp8)
+
 ## November 24th, 2020 Livestream
 * [Q&A: Any plans for underwater mechanics?](../../transcriptions/yt-nQplpfNLru8.md) [https://www.youtube.com/watch?v=nQplpfNLru8](https://www.youtube.com/watch?v=nQplpfNLru8)
 * [Q&A: Procedural generation of the World?](../../transcriptions/yt-q6tkuGjM4zY.md) [https://www.youtube.com/watch?v=q6tkuGjM4zY](https://www.youtube.com/watch?v=q6tkuGjM4zY)

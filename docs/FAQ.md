@@ -57,7 +57,7 @@ date: Last Modified
 </details>
 
 <details>
-<summary>This question may have been asked previously at least 15 other times, as recently as November 2021 and as early as August 2018.</summary>
+<summary>This question may have been asked previously at least 16 other times, as recently as November 2021 and as early as August 2018.</summary>
 
 * [November 2nd, 2021 Livestream Q&A: When are we going to get Achievements?](./transcriptions/yt-UKot9dXEPXk.md) [https://www.youtube.com/watch?v=UKot9dXEPXk](https://www.youtube.com/watch?v=UKot9dXEPXk)
 * [September 28th, 2021 Livestream Q&A: Do you plan to make Steam Achievements?](./transcriptions/yt-Kf33x3tiM5w.md) [https://www.youtube.com/watch?v=Kf33x3tiM5w](https://www.youtube.com/watch?v=Kf33x3tiM5w)
@@ -67,6 +67,7 @@ date: Last Modified
 * [April 20th, 2021 Livestream Q&A: Will achievements be added?](./transcriptions/yt-5hha6bAuTTc.md) [https://www.youtube.com/watch?v=5hha6bAuTTc](https://www.youtube.com/watch?v=5hha6bAuTTc)
 * [April 13th, 2021 Livestream Q&A: Anything about achievements?](./transcriptions/yt-cF3QleeEiJo,6652.069241,6679.928238.md) [https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6652&end=6680](https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6652&end=6680)
 * [February 16th, 2021 Livestream Q&A: Will Achievements ever be created?](./transcriptions/yt-scxr_vl9Pzk.md) [https://www.youtube.com/watch?v=scxr_vl9Pzk](https://www.youtube.com/watch?v=scxr_vl9Pzk)
+* [December 1st, 2020 Livestream Q&A: Epic-only Achievements?](./transcriptions/yt-wMol1AoQSFQ.md) [https://www.youtube.com/watch?v=wMol1AoQSFQ](https://www.youtube.com/watch?v=wMol1AoQSFQ)
 * [November 10th, 2020 Livestream Q&A: Achievements system?](./transcriptions/yt-bthe_Dhs6uo.md) [https://www.youtube.com/watch?v=bthe_Dhs6uo](https://www.youtube.com/watch?v=bthe_Dhs6uo)
 * [November 3rd, 2020 Livestream Q&A: Are Steam Achievements going to be added in the future?](./transcriptions/yt-Gi08SVnHyLU.md) [https://www.youtube.com/watch?v=Gi08SVnHyLU](https://www.youtube.com/watch?v=Gi08SVnHyLU)
 * [October 1st, 2020 Q&A: Will there be achievements?](./transcriptions/yt-rATcozDE25c,435.5351,476.04223333333334.md) [https://youtube.com/embed/rATcozDE25c?autoplay=1&start=435&end=477](https://youtube.com/embed/rATcozDE25c?autoplay=1&start=435&end=477)

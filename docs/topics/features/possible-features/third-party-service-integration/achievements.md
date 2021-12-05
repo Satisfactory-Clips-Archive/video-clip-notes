@@ -32,6 +32,9 @@ date: Last Modified
 ## February 16th, 2021 Livestream
 * [Q&A: Will Achievements ever be created?](../../../../transcriptions/yt-scxr_vl9Pzk.md) [https://www.youtube.com/watch?v=scxr_vl9Pzk](https://www.youtube.com/watch?v=scxr_vl9Pzk)
 
+## December 1st, 2020 Livestream
+* [Q&A: Epic-only Achievements?](../../../../transcriptions/yt-wMol1AoQSFQ.md) [https://www.youtube.com/watch?v=wMol1AoQSFQ](https://www.youtube.com/watch?v=wMol1AoQSFQ)
+
 ## November 10th, 2020 Livestream
 * [Q&A: Achievements system?](../../../../transcriptions/yt-bthe_Dhs6uo.md) [https://www.youtube.com/watch?v=bthe_Dhs6uo](https://www.youtube.com/watch?v=bthe_Dhs6uo)
 
