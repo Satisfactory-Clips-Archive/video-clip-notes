@@ -10,7 +10,7 @@ topics:
 ---
 # [October 26th, 2021 Update 5 Launch Stream and Patch Notes Video](../2021-10-26.md)
 ## Snutt & Jace Talk: Wager on releasing Golf versus Dedicated Servers (Part 11)
-https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=1068&end=1080
+https://youtube.com/clip/Ugkx5AFEye-drTgqVoqGe_qJljz8k-kWG4im
 <details>
 <summary>This video is part of a series of 10 videos.</summary>
 

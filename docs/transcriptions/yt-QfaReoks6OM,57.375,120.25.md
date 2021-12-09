@@ -24,7 +24,7 @@ https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=57&end=121
 * [October 26th, 2021 Update 5 Launch Stream and Patch Notes Video Snutt & Jace Talk: Wager on releasing Golf versus Dedicated Servers (Part 8)](./yt-QfaReoks6OM,681.5833333333334,707.75.md) [https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=681&end=708](https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=681&end=708)
 * [October 26th, 2021 Update 5 Launch Stream and Patch Notes Video Snutt & Jace Talk: Wager on releasing Golf versus Dedicated Servers (Part 9)](./yt-QfaReoks6OM,783.1666666666666,911.7083333333334.md) [https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=783&end=912](https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=783&end=912)
 * [October 26th, 2021 Update 5 Launch Stream and Patch Notes Video Snutt & Jace Talk: Wager on releasing Golf versus Dedicated Servers (Part 10)](./yt-QfaReoks6OM,911.75,1018.3333333333334.md) [https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=911&end=1019](https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=911&end=1019)
-* [October 26th, 2021 Update 5 Launch Stream and Patch Notes Video Snutt & Jace Talk: Wager on releasing Golf versus Dedicated Servers (Part 11)](./yt-QfaReoks6OM,1068.1666666666667,1079.875.md) [https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=1068&end=1080](https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=1068&end=1080)
+* [October 26th, 2021 Update 5 Launch Stream and Patch Notes Video Snutt & Jace Talk: Wager on releasing Golf versus Dedicated Servers (Part 11)](./yt-QfaReoks6OM,1068.1666666666667,1079.875.md) [https://youtube.com/clip/Ugkx5AFEye-drTgqVoqGe_qJljz8k-kWG4im](https://youtube.com/clip/Ugkx5AFEye-drTgqVoqGe_qJljz8k-kWG4im)
 </details>
 
 
