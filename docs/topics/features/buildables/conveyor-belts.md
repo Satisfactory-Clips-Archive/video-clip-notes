@@ -5,6 +5,13 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildables](../../../topics/features/buildables.md) > Conveyor Belts
 
+## December 7th, 2021 Livestream
+* Q&A: What about the Conveyor Belts & Pure stuff? [https://www.youtube.com/watch?v=4dWqAzXRySk](https://www.youtube.com/watch?v=4dWqAzXRySk)
+* [Q&A: What happened with the Conveyor Belt skin?](../../../transcriptions/yt-HWlLqhvdcbI.md) [https://www.youtube.com/watch?v=HWlLqhvdcbI](https://www.youtube.com/watch?v=HWlLqhvdcbI)
+* [Community FYI: Rebalancing entire game would be a funny April Fool's joke](../../../transcriptions/yt-x4atGQF4SM0.md) [https://www.youtube.com/watch?v=x4atGQF4SM0](https://www.youtube.com/watch?v=x4atGQF4SM0)
+* [Q&A: Are there plans for better Splitters, like with configurable ratios?](../../../transcriptions/yt-dI37z27JZfw.md) [https://www.youtube.com/watch?v=dI37z27JZfw](https://www.youtube.com/watch?v=dI37z27JZfw)
+* [Q&A: Are Conveyor Wall Holes coming?](../../../transcriptions/yt-H8hrMFtHdHs.md) [https://www.youtube.com/watch?v=H8hrMFtHdHs](https://www.youtube.com/watch?v=H8hrMFtHdHs)
+
 ## November 30th, 2021 Livestream
 * [Q&A: Any info on the issue of Mk.5 Belts not being able to handle max throughput?](../../../transcriptions/yt-WLPpIuj7NLE.md) [https://www.youtube.com/watch?v=WLPpIuj7NLE](https://www.youtube.com/watch?v=WLPpIuj7NLE)
 

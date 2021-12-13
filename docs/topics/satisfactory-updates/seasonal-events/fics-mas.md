@@ -5,6 +5,15 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Seasonal Events](../../../topics/satisfactory-updates/seasonal-events.md) > FICS⁕MAS
 
+## December 7th, 2021 Livestream
+* [State of Dev: December 7th, 2021](../../../transcriptions/yt-7nCntR0EE8g.md) [https://www.youtube.com/watch?v=7nCntR0EE8g](https://www.youtube.com/watch?v=7nCntR0EE8g)
+* [Q&A: Where's the snowball throw tool been?](../../../transcriptions/yt-ZbfZRZKpnOQ.md) [https://www.youtube.com/watch?v=ZbfZRZKpnOQ](https://www.youtube.com/watch?v=ZbfZRZKpnOQ)
+* [Q&A: FICS⁕MAS is my favourite time of year, has there been discussions about more events like this?](../../../transcriptions/yt-MvTuIeHbQWM.md) [https://www.youtube.com/watch?v=MvTuIeHbQWM](https://www.youtube.com/watch?v=MvTuIeHbQWM)
+* [Q&A: What happened with the Conveyor Belt skin?](../../../transcriptions/yt-HWlLqhvdcbI.md) [https://www.youtube.com/watch?v=HWlLqhvdcbI](https://www.youtube.com/watch?v=HWlLqhvdcbI)
+* [Q&A: Is there any way to switch off FICS⁕MAS?](../../../transcriptions/yt-sYhzfSPsACQ.md) [https://www.youtube.com/watch?v=sYhzfSPsACQ](https://www.youtube.com/watch?v=sYhzfSPsACQ)
+* [Q&A: Any plans for future mini-games after FICS⁕MAS one?](../../../transcriptions/yt-9ooCtzONZJE.md) [https://www.youtube.com/watch?v=9ooCtzONZJE](https://www.youtube.com/watch?v=9ooCtzONZJE)
+* [Q&A: Will the Reindeer Doggo get added to the Press Kit?](../../../transcriptions/yt-46ar-d1IahE.md) [https://www.youtube.com/watch?v=46ar-d1IahE](https://www.youtube.com/watch?v=46ar-d1IahE)
+
 ## November 30th, 2021 Livestream
 * [State of Dev: FICS⁕MAS](../../../transcriptions/yt-QFRMFZvJmQg.md) [https://www.youtube.com/watch?v=QFRMFZvJmQg](https://www.youtube.com/watch?v=QFRMFZvJmQg)
 * Snutt & Jace Talk: FICS⁕MAS Recap [https://www.youtube.com/watch?v=fzPrIB66di4](https://www.youtube.com/watch?v=fzPrIB66di4)

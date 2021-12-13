@@ -8,7 +8,7 @@ topics:
 # [June 22nd, 2021 Livestream](../2021-06-22.md)
 ## Q&A: Why can't we have custom ratio Splitters?
 https://www.youtube.com/watch?v=ripT8MydIjo
-This question was possibly duplicated with a more recent answer: [August 3rd, 2021 Livestream Q&A: Has anyone asked about Splitter Ratios before?](./yt-kvuii0bRjv4.md) [https://www.youtube.com/watch?v=kvuii0bRjv4](https://www.youtube.com/watch?v=kvuii0bRjv4)
+This question was possibly duplicated with a more recent answer: [December 7th, 2021 Livestream Q&A: Are there plans for better Splitters, like with configurable ratios?](./yt-dI37z27JZfw.md) [https://www.youtube.com/watch?v=dI37z27JZfw](https://www.youtube.com/watch?v=dI37z27JZfw)
 
 
 ### Topics

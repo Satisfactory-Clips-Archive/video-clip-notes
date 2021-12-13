@@ -18,6 +18,9 @@ date: Last Modified
 * [Teasers & Trailers](../topics/satisfactory-updates/teasers-and-trailers.md)
 * [World Update](../topics/satisfactory-updates/world-update.md)
 
+## December 7th, 2021 Livestream
+* Community FYI: Just like Jace said our saves wouldn't break [https://www.youtube.com/watch?v=P6neyP9QX94](https://www.youtube.com/watch?v=P6neyP9QX94)
+
 ## November 30th, 2021 Livestream
 * [Q&A: Is the focus now on content/project parts?](../transcriptions/yt-2uxuRg2qmhY.md) [https://www.youtube.com/watch?v=2uxuRg2qmhY](https://www.youtube.com/watch?v=2uxuRg2qmhY)
 * [Q&A: Will future Updates be faster as there's less to do?](../transcriptions/yt-_FHwwg-NciE.md) [https://www.youtube.com/watch?v=_FHwwg-NciE](https://www.youtube.com/watch?v=_FHwwg-NciE)

@@ -9,6 +9,8 @@ topics:
 # [November 30th, 2021 Livestream](../2021-11-30.md)
 ## Q&A: Epic Dedicated Servers?
 https://www.youtube.com/watch?v=Rw3RxD8Q5KI
+This question was possibly replaced with a more recent answer: December 7th, 2021 Livestream Q&A: How can I get the  Dedicated Servers on Epic launcher? [https://www.youtube.com/watch?v=rT4-6J5YU6Q](https://www.youtube.com/watch?v=rT4-6J5YU6Q)
+
 
 ### Topics
 * [Features > Multiplayer > Dedicated Servers](../topics/features/multiplayer/dedicated-servers.md)

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > DirectX
 
+## December 7th, 2021 Livestream
+* Q&A: Will you keep DirectX 11 support in future Updates? [https://www.youtube.com/watch?v=lV97VTEtsWs](https://www.youtube.com/watch?v=lV97VTEtsWs)
+
 ## November 30th, 2021 Livestream
 * [Q&A: My save file gives me 10fps, will Update 5 fix that?](../../transcriptions/yt-jrLaGcqLbls.md) [https://www.youtube.com/watch?v=jrLaGcqLbls](https://www.youtube.com/watch?v=jrLaGcqLbls)
 

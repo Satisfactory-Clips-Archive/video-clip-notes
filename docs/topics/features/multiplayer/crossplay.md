@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Multiplayer](../../../topics/features/multiplayer.md) > Crossplay
 
+## December 7th, 2021 Livestream
+* [State of Dev: December 7th, 2021](../../../transcriptions/yt-7nCntR0EE8g.md) [https://www.youtube.com/watch?v=7nCntR0EE8g](https://www.youtube.com/watch?v=7nCntR0EE8g)
+
 ## November 16th, 2021 Livestream
 * [Q&A: Can joining friends' games (Steam from Epic) can we have a cleaner way than Session IDs?](../../../transcriptions/yt-b-Z4VVc06zg.md) [https://www.youtube.com/watch?v=b-Z4VVc06zg](https://www.youtube.com/watch?v=b-Z4VVc06zg)
 

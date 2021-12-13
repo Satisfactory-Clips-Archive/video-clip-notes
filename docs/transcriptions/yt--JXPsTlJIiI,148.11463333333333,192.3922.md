@@ -11,7 +11,7 @@ topics:
 https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=148&end=193
 This question was possibly replaced with a more recent answer: [November 30th, 2021 Livestream Q&A: Will the FICS⁕MAS 2020 factory stuff still work?](./yt-2jV6lzqCFrs.md) [https://www.youtube.com/watch?v=2jV6lzqCFrs](https://www.youtube.com/watch?v=2jV6lzqCFrs)
 
-This question was possibly duplicated with a more recent answer: [July 13th, 2021 Livestream Q&A: Any more Holiday Events?](./yt-PLi6OES4LTg.md) [https://www.youtube.com/watch?v=PLi6OES4LTg](https://www.youtube.com/watch?v=PLi6OES4LTg)
+This question was possibly duplicated with a more recent answer: [December 7th, 2021 Livestream Q&A: FICS⁕MAS is my favourite time of year, has there been discussions about more events like this?](./yt-MvTuIeHbQWM.md) [https://www.youtube.com/watch?v=MvTuIeHbQWM](https://www.youtube.com/watch?v=MvTuIeHbQWM)
 
 
 ### Topics

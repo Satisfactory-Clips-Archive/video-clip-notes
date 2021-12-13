@@ -9,7 +9,7 @@ topics:
 # [February 16th, 2021 Livestream](../2021-02-16.md)
 ## Q&A: Storm or natural disasters in the game?
 https://www.youtube.com/watch?v=LgYBDQkiTrk
-This question was possibly duplicated with a more recent answer: [October 12th, 2021 Livestream Q&A: Will there ever be rain and extreme Weather in Satisfactory?](./yt-ukLbdvyFk-E.md) [https://www.youtube.com/watch?v=ukLbdvyFk-E](https://www.youtube.com/watch?v=ukLbdvyFk-E)
+This question was possibly duplicated with a more recent answer: [December 7th, 2021 Livestream Q&A: Will there be any kind of Weather in the future?](./yt-lvjgk5seKGc.md) [https://www.youtube.com/watch?v=lvjgk5seKGc](https://www.youtube.com/watch?v=lvjgk5seKGc)
 
 
 ### Topics

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildables](../../../topics/features/buildables.md) > Lights
 
+## December 7th, 2021 Livestream
+* [Q&A: Plans for more Lighting?](../../../transcriptions/yt-309YsDgrJhg.md) [https://www.youtube.com/watch?v=309YsDgrJhg](https://www.youtube.com/watch?v=309YsDgrJhg)
+
 ## November 30th, 2021 Livestream
 * [Q&A: When can we put Lights on Pillars again?](../../../transcriptions/yt-f_FPDjd81Kg.md) [https://www.youtube.com/watch?v=f_FPDjd81Kg](https://www.youtube.com/watch?v=f_FPDjd81Kg)
 

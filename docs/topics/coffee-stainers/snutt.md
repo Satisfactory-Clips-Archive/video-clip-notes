@@ -7,6 +7,11 @@ date: Last Modified
 * [Snutt Burger Time](../../topics/coffee-stainers/snutt/snutt-burger-time.md)
 * [Snutty Mays](../../topics/coffee-stainers/snutt/snutty-mays.md)
 
+## December 7th, 2021 Livestream
+* [Q&A: Video Friday with you, Snutt?](../../transcriptions/yt-Siig1flK1kE.md) [https://www.youtube.com/watch?v=Siig1flK1kE](https://www.youtube.com/watch?v=Siig1flK1kE)
+* [Q&A: What Features does Snutt personally want to be added to the game before 1.0?](../../transcriptions/yt-JfpR3MU71f4.md) [https://www.youtube.com/watch?v=JfpR3MU71f4](https://www.youtube.com/watch?v=JfpR3MU71f4)
+* [Q&A: What games is Snutt playing, currently?](../../transcriptions/yt-hcVE-ECBABI.md) [https://www.youtube.com/watch?v=hcVE-ECBABI](https://www.youtube.com/watch?v=hcVE-ECBABI)
+
 ## November 30th, 2021 Livestream
 * [Snutt & Jace Talk: Handball](../../transcriptions/yt-2oM0G2HMZPI.md) [https://www.youtube.com/watch?v=2oM0G2HMZPI](https://www.youtube.com/watch?v=2oM0G2HMZPI)
 * [Q&A: Why doesn't Snutt have a strong accent?](../../transcriptions/yt-DYb3hFnv9iA.md) [https://www.youtube.com/watch?v=DYb3hFnv9iA](https://www.youtube.com/watch?v=DYb3hFnv9iA)

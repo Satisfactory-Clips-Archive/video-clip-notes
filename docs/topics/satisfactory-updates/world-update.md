@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > World Update
 
+## December 7th, 2021 Livestream
+* [Q&A: What plans does Coffee Stain have for the map?](../../transcriptions/yt-mrwqBvr2eTk.md) [https://www.youtube.com/watch?v=mrwqBvr2eTk](https://www.youtube.com/watch?v=mrwqBvr2eTk)
+
 ## November 9th, 2021 Livestream
 * [Q&A: The new craters in the dunes, will those flat walls turn into a Cave system?](../../transcriptions/yt-Yq45pgAN_ac.md) [https://www.youtube.com/watch?v=Yq45pgAN_ac](https://www.youtube.com/watch?v=Yq45pgAN_ac)
 * [Q&A: What areas are going to be reworked in the next Update?](../../transcriptions/yt-Drt3ZdOCRJo.md) [https://www.youtube.com/watch?v=Drt3ZdOCRJo](https://www.youtube.com/watch?v=Drt3ZdOCRJo)

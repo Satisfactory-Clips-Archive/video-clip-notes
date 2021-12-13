@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > State of Dev
 
+## December 7th, 2021 Livestream
+* [State of Dev: December 7th, 2021](../../transcriptions/yt-7nCntR0EE8g.md) [https://www.youtube.com/watch?v=7nCntR0EE8g](https://www.youtube.com/watch?v=7nCntR0EE8g)
+* [State of Dev: Recap](../../transcriptions/yt--VZPknJnb-4.md) [https://www.youtube.com/watch?v=-VZPknJnb-4](https://www.youtube.com/watch?v=-VZPknJnb-4)
+
 ## November 30th, 2021 Livestream
 * [State of Dev: We released Update 5 last week](../../transcriptions/yt-YX82CfsFUo0.md) [https://www.youtube.com/watch?v=YX82CfsFUo0](https://www.youtube.com/watch?v=YX82CfsFUo0)
 * [State of Dev: Satisfactory on Sale](../../transcriptions/yt-DPVHQdcaDaw.md) [https://www.youtube.com/watch?v=DPVHQdcaDaw](https://www.youtube.com/watch?v=DPVHQdcaDaw)

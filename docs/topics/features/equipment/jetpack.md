@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Equipment](../../../topics/features/equipment.md) > Jetpack
 
+## December 7th, 2021 Livestream
+* [Q&A: Can you add something like Jetpack?](../../../transcriptions/yt-6DpfaPCLwD4.md) [https://www.youtube.com/watch?v=6DpfaPCLwD4](https://www.youtube.com/watch?v=6DpfaPCLwD4)
+
 ## November 9th, 2021 Livestream
 * [Q&A: All Fuels for the Chainsaw & Jetpack, when?](../../../transcriptions/yt-PZLgmrsMIlc.md) [https://www.youtube.com/watch?v=PZLgmrsMIlc](https://www.youtube.com/watch?v=PZLgmrsMIlc)
 

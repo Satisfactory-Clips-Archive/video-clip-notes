@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Creatures](../../../topics/environment/creatures.md) > Lizard Doggo
 
+## December 7th, 2021 Livestream
+* [Q&A: Will the Reindeer Doggo get added to the Press Kit?](../../../transcriptions/yt-46ar-d1IahE.md) [https://www.youtube.com/watch?v=46ar-d1IahE](https://www.youtube.com/watch?v=46ar-d1IahE)
+
 ## November 9th, 2021 Livestream
 * [Q&A: Will you take responsibility for the Giant Lizard Doggo?](../../../transcriptions/yt-VTC8VvwZVmg.md) [https://www.youtube.com/watch?v=VTC8VvwZVmg](https://www.youtube.com/watch?v=VTC8VvwZVmg)
 

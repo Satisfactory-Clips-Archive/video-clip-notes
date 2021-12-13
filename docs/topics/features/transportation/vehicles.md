@@ -12,6 +12,9 @@ date: Last Modified
 * [Tractor](../../../topics/features/transportation/vehicles/tractor.md)
 * [Truck](../../../topics/features/transportation/vehicles/truck.md)
 
+## December 7th, 2021 Livestream
+* [Q&A: Can we please have more granularity/deeper configurable of movements of goods with transport?](../../../transcriptions/yt-Ci5QGz4nz4w.md) [https://www.youtube.com/watch?v=Ci5QGz4nz4w](https://www.youtube.com/watch?v=Ci5QGz4nz4w)
+
 ## November 23rd, 2021 Livestream
 * [Q&A: Why hasn't Coffee Stain fixed inverted mouse on Vehicles?](../../../transcriptions/yt-iVDRQg_aWpU,5574.738038,5618.038897.md) [https://youtube.com/clip/UgkxRC2q3FEVwELO6o5l3M_rG5RddCytjy52](https://youtube.com/clip/UgkxRC2q3FEVwELO6o5l3M_rG5RddCytjy52)
 

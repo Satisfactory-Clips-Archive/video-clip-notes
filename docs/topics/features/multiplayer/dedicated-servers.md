@@ -5,6 +5,13 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Multiplayer](../../../topics/features/multiplayer.md) > Dedicated Servers
 
+## December 7th, 2021 Livestream
+* [State of Dev: December 7th, 2021](../../../transcriptions/yt-7nCntR0EE8g.md) [https://www.youtube.com/watch?v=7nCntR0EE8g](https://www.youtube.com/watch?v=7nCntR0EE8g)
+* [State of Dev: Recap](../../../transcriptions/yt--VZPknJnb-4.md) [https://www.youtube.com/watch?v=-VZPknJnb-4](https://www.youtube.com/watch?v=-VZPknJnb-4)
+* [Q&A: Why would Epic outage impact local Dedicated Servers?](../../../transcriptions/yt-WpFmO0XQBxw.md) [https://www.youtube.com/watch?v=WpFmO0XQBxw](https://www.youtube.com/watch?v=WpFmO0XQBxw)
+* Q&A: How can I get the  Dedicated Servers on Epic launcher? [https://www.youtube.com/watch?v=rT4-6J5YU6Q](https://www.youtube.com/watch?v=rT4-6J5YU6Q)
+* [Q&A: Why is the Dedicated Server player limited to 4 officially?](../../../transcriptions/yt-GSH-RxjtHRE.md) [https://www.youtube.com/watch?v=GSH-RxjtHRE](https://www.youtube.com/watch?v=GSH-RxjtHRE)
+
 ## November 30th, 2021 Livestream
 * [State of Dev: Dedicated Servers](../../../transcriptions/yt-nzzHdkTTEoU.md) [https://www.youtube.com/watch?v=nzzHdkTTEoU](https://www.youtube.com/watch?v=nzzHdkTTEoU)
 * [Q&A: Epic Dedicated Servers?](../../../transcriptions/yt-Rw3RxD8Q5KI.md) [https://www.youtube.com/watch?v=Rw3RxD8Q5KI](https://www.youtube.com/watch?v=Rw3RxD8Q5KI)

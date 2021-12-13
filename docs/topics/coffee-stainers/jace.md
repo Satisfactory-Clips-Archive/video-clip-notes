@@ -9,6 +9,9 @@ date: Last Modified
 * [Jace Art](../../topics/coffee-stainers/jace/jace-art.md)
 * [Juice Velvet](../../topics/coffee-stainers/jace/juice-velvet.md)
 
+## December 7th, 2021 Livestream
+* Community FYI: Just like Jace said our saves wouldn't break [https://www.youtube.com/watch?v=P6neyP9QX94](https://www.youtube.com/watch?v=P6neyP9QX94)
+
 ## November 30th, 2021 Livestream
 * [Q&A: Why doesn't Snutt have a strong accent?](../../transcriptions/yt-DYb3hFnv9iA.md) [https://www.youtube.com/watch?v=DYb3hFnv9iA](https://www.youtube.com/watch?v=DYb3hFnv9iA)
 * [Q&A: Does Jace speak Swedish with an Australian accent?](../../transcriptions/yt-81SkOcqO9Is.md) [https://www.youtube.com/watch?v=81SkOcqO9Is](https://www.youtube.com/watch?v=81SkOcqO9Is)

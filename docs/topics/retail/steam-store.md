@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../topics.md) > [Retail](../../topics/retail.md) > Steam Store
 * [Steam Release](../../topics/retail/steam-store/steam-release.md)
 
+## December 7th, 2021 Livestream
+* [State of Dev: December 7th, 2021](../../transcriptions/yt-7nCntR0EE8g.md) [https://www.youtube.com/watch?v=7nCntR0EE8g](https://www.youtube.com/watch?v=7nCntR0EE8g)
+
 ## November 30th, 2021 Livestream
 * [Q&A: Did you chat about the Steam Awards?](../../transcriptions/yt-QS3voxYgZMY.md) [https://www.youtube.com/watch?v=QS3voxYgZMY](https://www.youtube.com/watch?v=QS3voxYgZMY)
 

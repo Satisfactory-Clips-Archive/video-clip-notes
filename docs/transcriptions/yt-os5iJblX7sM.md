@@ -8,7 +8,7 @@ topics:
 # [July 6th, 2021 Livestream](../2021-07-06.md)
 ## Q&A: Do you envision the game having randomised ore deposits?
 https://www.youtube.com/watch?v=os5iJblX7sM
-This question was possibly duplicated with a more recent answer: [September 28th, 2021 Livestream Q&A: Are randomised Ore node spawns still on the table in the future?](./yt-XNZVUKgcCmI.md) [https://www.youtube.com/watch?v=XNZVUKgcCmI](https://www.youtube.com/watch?v=XNZVUKgcCmI)
+This question was possibly duplicated with a more recent answer: [December 7th, 2021 Livestream Q&A: Can there be an option when creating a new game to randomise Resources?](./yt-CfQq9j6DEt0.md) [https://www.youtube.com/watch?v=CfQq9j6DEt0](https://www.youtube.com/watch?v=CfQq9j6DEt0)
 
 
 ### Topics

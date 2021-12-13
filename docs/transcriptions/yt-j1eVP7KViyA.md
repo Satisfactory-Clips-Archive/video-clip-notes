@@ -8,7 +8,7 @@ topics:
 # [April 6th, 2021 Livestream](../2021-04-06.md)
 ## Q&A: Console port?
 https://www.youtube.com/watch?v=j1eVP7KViyA
-This question was possibly duplicated with a more recent answer: [November 2nd, 2021 Livestream Q&A: Console release?](./yt-XphmFYhaeHc.md) [https://www.youtube.com/watch?v=XphmFYhaeHc](https://www.youtube.com/watch?v=XphmFYhaeHc)
+This question was possibly duplicated with a more recent answer: [December 7th, 2021 Livestream Q&A: Will the game ever come to console like XBox & PS5?](./yt-zusWeyW2GFU.md) [https://www.youtube.com/watch?v=zusWeyW2GFU](https://www.youtube.com/watch?v=zusWeyW2GFU)
 
 
 ### Topics

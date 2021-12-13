@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../topics.md) > [Mods](../../topics/mods.md) > Official Mod Support
 * [Steam Workshop](../../topics/mods/official-mod-support/steam-workshop.md)
 
+## December 7th, 2021 Livestream
+* [Q&A: Do you guys consider releasing a dev kit for third-party map builders?](../../transcriptions/yt-w7FY53KMcck.md) [https://www.youtube.com/watch?v=w7FY53KMcck](https://www.youtube.com/watch?v=w7FY53KMcck)
+
 ## November 23rd, 2021 Livestream
 * [Q&A: Will there be Mod support for Dedicated Servers?](../../transcriptions/yt-iVDRQg_aWpU,5464.290458,5495.929581.md) [https://youtube.com/clip/UgkxsP5lcPdeWaIlvmcA1Dn8o2vr7bW4M5x6](https://youtube.com/clip/UgkxsP5lcPdeWaIlvmcA1Dn8o2vr7bW4M5x6)
 

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Terrible Jokes
 
+## December 7th, 2021 Livestream
+* [Community FYI: Make the Pioneer a furry, add paws button](../../transcriptions/yt-qGD49HDWHdY.md) [https://www.youtube.com/watch?v=qGD49HDWHdY](https://www.youtube.com/watch?v=qGD49HDWHdY)
+
 ## November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary
 * [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 5)](../../transcriptions/yt-xqrU7puoJ6M.md) [https://www.youtube.com/watch?v=xqrU7puoJ6M](https://www.youtube.com/watch?v=xqrU7puoJ6M)
 * [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 54)](../../transcriptions/yt-4hDgbahf518.md) [https://www.youtube.com/watch?v=4hDgbahf518](https://www.youtube.com/watch?v=4hDgbahf518)

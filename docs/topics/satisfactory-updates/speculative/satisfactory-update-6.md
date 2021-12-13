@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Speculative > Satisfactory Update 6
 
+## December 7th, 2021 Livestream
+* [Q&A: Update 6, when?](../../../transcriptions/yt--3F_QMKt5yo.md) [https://www.youtube.com/watch?v=-3F_QMKt5yo](https://www.youtube.com/watch?v=-3F_QMKt5yo)
+
 ## November 30th, 2021 Livestream
 * Q&A: Full release still April 24th? [https://www.youtube.com/watch?v=x3xd4BUF4NY](https://www.youtube.com/watch?v=x3xd4BUF4NY)
 * [Q&A: Will future Updates be faster as there's less to do?](../../../transcriptions/yt-_FHwwg-NciE.md) [https://www.youtube.com/watch?v=_FHwwg-NciE](https://www.youtube.com/watch?v=_FHwwg-NciE)

@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Mods](../../topics/mods.md) > Mods vs. Features
 
+## December 7th, 2021 Livestream
+* [Community FYI: Mod community will do it](../../transcriptions/yt-b5BaSiJbLS0.md) [https://www.youtube.com/watch?v=b5BaSiJbLS0](https://www.youtube.com/watch?v=b5BaSiJbLS0)
+* [Q&A: Will you allow Modded Maps?](../../transcriptions/yt-TS6ZdUxbeKQ.md) [https://www.youtube.com/watch?v=TS6ZdUxbeKQ](https://www.youtube.com/watch?v=TS6ZdUxbeKQ)
+* [Q&A: Do you guys consider releasing a dev kit for third-party map builders?](../../transcriptions/yt-w7FY53KMcck.md) [https://www.youtube.com/watch?v=w7FY53KMcck](https://www.youtube.com/watch?v=w7FY53KMcck)
+
 ## November 23rd, 2021 Livestream
 * [Q&A: Deep Rock Galactic enabled Unreal VR plugins for Modding, any chance you could do the same?](../../transcriptions/yt-iVDRQg_aWpU,6444.76610344753,6471.750653.md) [https://youtube.com/clip/Ugkx7Wy5kj3h1LbCNZqvjtvkrLd9qkb6dkVN](https://youtube.com/clip/Ugkx7Wy5kj3h1LbCNZqvjtvkrLd9qkb6dkVN)
 

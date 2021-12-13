@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildables](../../../topics/features/buildables.md) > Signs
 
+## December 7th, 2021 Livestream
+* [Q&A: Any plans to add emotes to signs or expand their functionality in other ways?](../../../transcriptions/yt-IWp55tlEaSg.md) [https://www.youtube.com/watch?v=IWp55tlEaSg](https://www.youtube.com/watch?v=IWp55tlEaSg)
+
 ## November 19th, 2021 Video
 * Jace Talk: Sign Brightness & Sign Icons [https://youtube.com/clip/UgkxhrHcOYuP0o22omuwx9a45UjeHEnv6J0p](https://youtube.com/clip/UgkxhrHcOYuP0o22omuwx9a45UjeHEnv6J0p)
 

@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Save System](../../../topics/features/save-system.md) > Autosave
 
+## December 7th, 2021 Livestream
+* [Q&A: Change number of autosaves before they overwrite each other?](../../../transcriptions/yt-s2QCfzkFGSQ.md) [https://www.youtube.com/watch?v=s2QCfzkFGSQ](https://www.youtube.com/watch?v=s2QCfzkFGSQ)
+* [Q&A: What happens if someone tries to join during an Autosave pause?](../../../transcriptions/yt-cTUuoRyw6EI.md) [https://www.youtube.com/watch?v=cTUuoRyw6EI](https://www.youtube.com/watch?v=cTUuoRyw6EI)
+
 ## September 28th, 2021 Livestream
 * Q&A: Can we change how often our game saves? [https://www.youtube.com/watch?v=8l0B-N5-TJg](https://www.youtube.com/watch?v=8l0B-N5-TJg)
 

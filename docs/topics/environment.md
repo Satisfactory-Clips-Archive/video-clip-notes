@@ -11,6 +11,9 @@ date: Last Modified
 * [Resources](../topics/environment/resources.md)
 * [World Map](../topics/environment/world-map.md)
 
+## December 7th, 2021 Livestream
+* Q&A: Why do a lot of rock structures in places look like spiders? [https://www.youtube.com/watch?v=61wHFJ-kmpI](https://www.youtube.com/watch?v=61wHFJ-kmpI)
+
 ## November 16th, 2021 Livestream
 * [Q&A: Can we expect a fix for the reappearing explodable rocks on Dedicated Servers?](../transcriptions/yt-GNlkXUsq_Do.md) [https://www.youtube.com/watch?v=GNlkXUsq_Do](https://www.youtube.com/watch?v=GNlkXUsq_Do)
 

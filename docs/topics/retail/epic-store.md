@@ -6,6 +6,12 @@ date: Last Modified
 # [Topics](../../topics.md) > [Retail](../../topics/retail.md) > Epic Store
 * [Epic Store Exclusivity](../../topics/retail/epic-store/epic-store-exclusivity.md)
 
+## December 7th, 2021 Livestream
+* [State of Dev: December 7th, 2021](../../transcriptions/yt-7nCntR0EE8g.md) [https://www.youtube.com/watch?v=7nCntR0EE8g](https://www.youtube.com/watch?v=7nCntR0EE8g)
+* [State of Dev: Recap](../../transcriptions/yt--VZPknJnb-4.md) [https://www.youtube.com/watch?v=-VZPknJnb-4](https://www.youtube.com/watch?v=-VZPknJnb-4)
+* [Q&A: Why would Epic outage impact local Dedicated Servers?](../../transcriptions/yt-WpFmO0XQBxw.md) [https://www.youtube.com/watch?v=WpFmO0XQBxw](https://www.youtube.com/watch?v=WpFmO0XQBxw)
+* Q&A: How can I get the  Dedicated Servers on Epic launcher? [https://www.youtube.com/watch?v=rT4-6J5YU6Q](https://www.youtube.com/watch?v=rT4-6J5YU6Q)
+
 ## November 30th, 2021 Livestream
 * [Q&A: Epic Dedicated Servers?](../../transcriptions/yt-Rw3RxD8Q5KI.md) [https://www.youtube.com/watch?v=Rw3RxD8Q5KI](https://www.youtube.com/watch?v=Rw3RxD8Q5KI)
 

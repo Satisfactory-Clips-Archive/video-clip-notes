@@ -10,7 +10,7 @@ topics:
 # [March 30th, 2021 Livestream](../2021-03-30.md)
 ## Q&A: Have you considered something like the Smart! mod for foundations?
 https://www.youtube.com/watch?v=kZtseQMvMvo
-This question was possibly duplicated with a more recent answer: [August 31st, 2021 Livestream Q&A: Do you intend to put helpful building modes like Smart! mod to help players build faster?](./yt-cN_omO1NK9c.md) [https://www.youtube.com/watch?v=cN_omO1NK9c](https://www.youtube.com/watch?v=cN_omO1NK9c)
+This question was possibly duplicated with a more recent answer: [December 7th, 2021 Livestream Q&A: Look at Smart! mod & try something like this?](./yt-EkDbmqW43Ic.md) [https://www.youtube.com/watch?v=EkDbmqW43Ic](https://www.youtube.com/watch?v=EkDbmqW43Ic)
 
 
 ### Topics

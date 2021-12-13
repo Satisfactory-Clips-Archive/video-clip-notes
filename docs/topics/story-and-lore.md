@@ -7,6 +7,12 @@ date: Last Modified
 * [Characters](../topics/story-and-lore/characters.md)
 * [Project Assembly](../topics/story-and-lore/project-assembly.md)
 
+## December 7th, 2021 Livestream
+* [Q&A: What kind of fuel is in the game, gasoline or diesel?](../transcriptions/yt-dU5gKPELFLo.md) [https://www.youtube.com/watch?v=dU5gKPELFLo](https://www.youtube.com/watch?v=dU5gKPELFLo)
+* [Q&A: Will we get a Story sneak-peek at some point or not until 1.0?](../transcriptions/yt-EHq6piERMTI.md) [https://www.youtube.com/watch?v=EHq6piERMTI](https://www.youtube.com/watch?v=EHq6piERMTI)
+* [Q&A: Will 1.0 Story Mode change how we play the game, or just add Lore on top of what we do now?](../transcriptions/yt-W41UD5yX9Es.md) [https://www.youtube.com/watch?v=W41UD5yX9Es](https://www.youtube.com/watch?v=W41UD5yX9Es)
+* [Q&A: Nothing will be Story-locked?](../transcriptions/yt-PW8jF99WMRI.md) [https://www.youtube.com/watch?v=PW8jF99WMRI](https://www.youtube.com/watch?v=PW8jF99WMRI)
+
 ## November 30th, 2021 Livestream
 * [Q&A: Is FICSIT supposed to have corporate or capitalistic undertones?](../transcriptions/yt-4jkpbweFOeU.md) [https://www.youtube.com/watch?v=4jkpbweFOeU](https://www.youtube.com/watch?v=4jkpbweFOeU)
 * [Q&A: How's the Story/narrative work going?](../transcriptions/yt-lARwqxR6S0Q.md) [https://www.youtube.com/watch?v=lARwqxR6S0Q](https://www.youtube.com/watch?v=lARwqxR6S0Q)

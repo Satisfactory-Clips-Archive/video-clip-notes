@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Resources](../../../topics/environment/resources.md) > Power Slug
 
+## December 7th, 2021 Livestream
+* [Q&A: Are the Power Shards working well, or are they bugged?](../../../transcriptions/yt-LoQRxymlI4A.md) [https://www.youtube.com/watch?v=LoQRxymlI4A](https://www.youtube.com/watch?v=LoQRxymlI4A)
+
 ## November 9th, 2021 Livestream
 * [Q&A: Why did you change the colour from green to blue?](../../../transcriptions/yt-DT177nvPSwI.md) [https://www.youtube.com/watch?v=DT177nvPSwI](https://www.youtube.com/watch?v=DT177nvPSwI)
 

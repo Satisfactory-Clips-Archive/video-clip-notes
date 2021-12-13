@@ -8,7 +8,7 @@ topics:
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Q&A: Will there be more polish to the Survival aspects of the game?
 https://www.youtube.com/watch?v=0flTS1mpH7s
-This question was possibly duplicated with a more recent answer: [May 25th, 2021 Livestream Q&A: Have you tossed around the idea of Survival?](./yt-lT59LnhiKdI.md) [https://www.youtube.com/watch?v=lT59LnhiKdI](https://www.youtube.com/watch?v=lT59LnhiKdI)
+This question was possibly duplicated with a more recent answer: [December 7th, 2021 Livestream Q&A: Would be good to add hunger & thirst?](./yt-gh63LOO7fTk.md) [https://www.youtube.com/watch?v=gh63LOO7fTk](https://www.youtube.com/watch?v=gh63LOO7fTk)
 
 
 ### Topics

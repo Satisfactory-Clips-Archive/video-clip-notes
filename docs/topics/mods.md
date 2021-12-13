@@ -32,6 +32,10 @@ date: Last Modified
 * [Utility Signs](../topics/mods/utility-signs.md)
 * [Zip Strips](../topics/mods/zip-strips.md)
 
+## December 7th, 2021 Livestream
+* [Q&A: What happened with the Conveyor Belt skin?](../transcriptions/yt-HWlLqhvdcbI.md) [https://www.youtube.com/watch?v=HWlLqhvdcbI](https://www.youtube.com/watch?v=HWlLqhvdcbI)
+* [Q&A: What is the percentage of incoming crash reports that're caused by Mods?](../transcriptions/yt-RK2Pd-m_0go.md) [https://www.youtube.com/watch?v=RK2Pd-m_0go](https://www.youtube.com/watch?v=RK2Pd-m_0go)
+
 ## November 30th, 2021 Livestream
 * Q&A: Do Mods work in Update 5? [https://www.youtube.com/watch?v=sV77JoiQ_G0](https://www.youtube.com/watch?v=sV77JoiQ_G0)
 

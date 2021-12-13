@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > Possible Features > Weather Systems
 
+## December 7th, 2021 Livestream
+* [Q&A: Will there be any kind of Weather in the future?](../../../transcriptions/yt-lvjgk5seKGc.md) [https://www.youtube.com/watch?v=lvjgk5seKGc](https://www.youtube.com/watch?v=lvjgk5seKGc)
+
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
 * [Snutt & Jace Talk: We've updated the Northern Forest](../../../transcriptions/yt-QfaReoks6OM,551.5833333333334,584.2916666666666.md) [https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=551&end=585](https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=551&end=585)
 

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildables](../../../topics/features/buildables.md) > Storage Containers
 
+## December 7th, 2021 Livestream
+* [Q&A: Can we get a way to limit available slots in Containers?](../../../transcriptions/yt-8TBD_NwiU6k.md) [https://www.youtube.com/watch?v=8TBD_NwiU6k](https://www.youtube.com/watch?v=8TBD_NwiU6k)
+
 ## November 16th, 2021 Livestream
 * [Q&A: Will you consider adding a feature to limit how much of a Container we can fill?](../../../transcriptions/yt-bBdZgoKTPZ4.md) [https://www.youtube.com/watch?v=bBdZgoKTPZ4](https://www.youtube.com/watch?v=bBdZgoKTPZ4)
 

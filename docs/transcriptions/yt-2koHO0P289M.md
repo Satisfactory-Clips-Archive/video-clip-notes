@@ -8,7 +8,7 @@ topics:
 # [January 19th, 2021 Livestream](../2021-01-19.md)
 ## Q&A: Is there a goal amount of Events per year?
 https://www.youtube.com/watch?v=2koHO0P289M
-This question was possibly duplicated with a more recent answer: [July 13th, 2021 Livestream Q&A: Any more Holiday Events?](./yt-PLi6OES4LTg.md) [https://www.youtube.com/watch?v=PLi6OES4LTg](https://www.youtube.com/watch?v=PLi6OES4LTg)
+This question was possibly duplicated with a more recent answer: [December 7th, 2021 Livestream Q&A: FICS⁕MAS is my favourite time of year, has there been discussions about more events like this?](./yt-MvTuIeHbQWM.md) [https://www.youtube.com/watch?v=MvTuIeHbQWM](https://www.youtube.com/watch?v=MvTuIeHbQWM)
 
 
 ### Topics

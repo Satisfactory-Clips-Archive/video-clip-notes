@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Unplanned Features](../../../topics/features/unplanned-features.md) > Golf
 
+## December 7th, 2021 Livestream
+* Q&A: When's Golf? [https://www.youtube.com/watch?v=hhZq5M3I8Io](https://www.youtube.com/watch?v=hhZq5M3I8Io)
+
 ## November 23rd, 2021 Livestream
 * [Trolling: Golf is in Patch Notes](../../../transcriptions/yt-iVDRQg_aWpU,1081.7999333518518,1089.961643.md) [https://youtube.com/clip/UgkxlApmn76Rq_kH0dGYjDKWysApMOUxCjr_](https://youtube.com/clip/UgkxlApmn76Rq_kH0dGYjDKWysApMOUxCjr_)
 * [Q&A: Golf, when?](../../../transcriptions/yt-iVDRQg_aWpU,5188.73288641358,5195.520066.md) [https://youtube.com/clip/UgkxtKr3YShULCOATqNTspPVmbJ_hDuQi765](https://youtube.com/clip/UgkxtKr3YShULCOATqNTspPVmbJ_hDuQi765)

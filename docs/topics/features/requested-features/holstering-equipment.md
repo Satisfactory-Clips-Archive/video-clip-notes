@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Requested Features](../../../topics/features/requested-features.md) > Holstering Equipment
 
+## December 7th, 2021 Livestream
+* Q&A: Weapon item holstering coming soon? [https://www.youtube.com/watch?v=JzPjAXwcKx8](https://www.youtube.com/watch?v=JzPjAXwcKx8)
+* [Q&A: What Features does Snutt personally want to be added to the game before 1.0?](../../../transcriptions/yt-JfpR3MU71f4.md) [https://www.youtube.com/watch?v=JfpR3MU71f4](https://www.youtube.com/watch?v=JfpR3MU71f4)
+
 ## May 4th, 2021 Livestream
 * [Snutt Talk: QA Site feature request - Holstering](../../../transcriptions/yt-UkF4FbtbplM.md) [https://www.youtube.com/watch?v=UkF4FbtbplM](https://www.youtube.com/watch?v=UkF4FbtbplM)
 

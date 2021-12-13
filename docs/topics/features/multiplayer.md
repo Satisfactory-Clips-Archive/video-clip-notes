@@ -7,6 +7,10 @@ date: Last Modified
 * [Crossplay](../../topics/features/multiplayer/crossplay.md)
 * [Dedicated Servers](../../topics/features/multiplayer/dedicated-servers.md)
 
+## December 7th, 2021 Livestream
+* [Q&A: What happens if someone tries to join during an Autosave pause?](../../transcriptions/yt-cTUuoRyw6EI.md) [https://www.youtube.com/watch?v=cTUuoRyw6EI](https://www.youtube.com/watch?v=cTUuoRyw6EI)
+* [Q&A: Why is the Dedicated Server player limited to 4 officially?](../../transcriptions/yt-GSH-RxjtHRE.md) [https://www.youtube.com/watch?v=GSH-RxjtHRE](https://www.youtube.com/watch?v=GSH-RxjtHRE)
+
 ## November 16th, 2021 Livestream
 * [Q&A: The patch notes mentions network scalability options, what is the change really?](../../transcriptions/yt-MvLBb_yKxmM.md) [https://www.youtube.com/watch?v=MvLBb_yKxmM](https://www.youtube.com/watch?v=MvLBb_yKxmM)
 

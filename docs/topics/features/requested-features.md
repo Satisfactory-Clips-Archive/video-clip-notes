@@ -12,6 +12,12 @@ date: Last Modified
 * [Pollution](../../topics/features/requested-features/pollution.md)
 * [Third-person View](../../topics/features/requested-features/third-person-view.md)
 
+## December 7th, 2021 Livestream
+* [Q&A: Are there plans for better Splitters, like with configurable ratios?](../../transcriptions/yt-dI37z27JZfw.md) [https://www.youtube.com/watch?v=dI37z27JZfw](https://www.youtube.com/watch?v=dI37z27JZfw)
+* [Q&A: Can we get a way to limit available slots in Containers?](../../transcriptions/yt-8TBD_NwiU6k.md) [https://www.youtube.com/watch?v=8TBD_NwiU6k](https://www.youtube.com/watch?v=8TBD_NwiU6k)
+* [Q&A: Can there be a powered version of Blade Runners that let you slide indefinitely & uphill ?](../../transcriptions/yt-T_OsYXu1T-Q.md) [https://www.youtube.com/watch?v=T_OsYXu1T-Q](https://www.youtube.com/watch?v=T_OsYXu1T-Q)
+* [Q&A: Are Conveyor Wall Holes coming?](../../transcriptions/yt-H8hrMFtHdHs.md) [https://www.youtube.com/watch?v=H8hrMFtHdHs](https://www.youtube.com/watch?v=H8hrMFtHdHs)
+
 ## November 23rd, 2021 Livestream
 * [Q&A: Paintball, when?](../../transcriptions/yt-iVDRQg_aWpU,5222.740089,5278.6662114197525.md) [https://youtube.com/clip/Ugkx0jrYYplSz91YxCi4z1mxZ95tqIe7Ep5G](https://youtube.com/clip/Ugkx0jrYYplSz91YxCi4z1mxZ95tqIe7Ep5G)
 * [Q&A: Are you planning controller support?](../../transcriptions/yt-iVDRQg_aWpU,5443.766196132716,5462.457111.md) [https://youtube.com/clip/Ugkx_m7MeOzn0RdknMehAUOG5Qlu03WVK6DP](https://youtube.com/clip/Ugkx_m7MeOzn0RdknMehAUOG5Qlu03WVK6DP)

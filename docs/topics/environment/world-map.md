@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Environment](../../topics/environment.md) > World Map
 
+## December 7th, 2021 Livestream
+* [Q&A: Will you allow Modded Maps?](../../transcriptions/yt-TS6ZdUxbeKQ.md) [https://www.youtube.com/watch?v=TS6ZdUxbeKQ](https://www.youtube.com/watch?v=TS6ZdUxbeKQ)
+* [Q&A: Do you guys consider releasing a dev kit for third-party map builders?](../../transcriptions/yt-w7FY53KMcck.md) [https://www.youtube.com/watch?v=w7FY53KMcck](https://www.youtube.com/watch?v=w7FY53KMcck)
+
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
 * Q&A: Are you going to add another World to the game? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=10609&end=10690](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=10609&end=10690)
 

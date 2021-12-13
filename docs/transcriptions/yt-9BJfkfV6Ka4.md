@@ -10,7 +10,7 @@ topics:
 # [May 18th, 2021 Livestream](../2021-05-18.md)
 ## Q&A: In-game events in the near-time?
 https://www.youtube.com/watch?v=9BJfkfV6Ka4
-This question was possibly duplicated with a more recent answer: [July 13th, 2021 Livestream Q&A: Any more Holiday Events?](./yt-PLi6OES4LTg.md) [https://www.youtube.com/watch?v=PLi6OES4LTg](https://www.youtube.com/watch?v=PLi6OES4LTg)
+This question was possibly duplicated with a more recent answer: [December 7th, 2021 Livestream Q&A: FICS⁕MAS is my favourite time of year, has there been discussions about more events like this?](./yt-MvTuIeHbQWM.md) [https://www.youtube.com/watch?v=MvTuIeHbQWM](https://www.youtube.com/watch?v=MvTuIeHbQWM)
 
 
 ### Topics

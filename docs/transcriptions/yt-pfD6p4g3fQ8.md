@@ -8,7 +8,7 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Will this game come out on Console at some point?
 https://www.youtube.com/watch?v=pfD6p4g3fQ8
-This question was possibly duplicated with a more recent answer: [November 2nd, 2021 Livestream Q&A: Console release?](./yt-XphmFYhaeHc.md) [https://www.youtube.com/watch?v=XphmFYhaeHc](https://www.youtube.com/watch?v=XphmFYhaeHc)
+This question was possibly duplicated with a more recent answer: [December 7th, 2021 Livestream Q&A: Will the game ever come to console like XBox & PS5?](./yt-zusWeyW2GFU.md) [https://www.youtube.com/watch?v=zusWeyW2GFU](https://www.youtube.com/watch?v=zusWeyW2GFU)
 
 
 ### Topics

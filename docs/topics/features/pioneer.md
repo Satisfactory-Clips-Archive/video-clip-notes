@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Features](../../topics/features.md) > Pioneer
 
+## December 7th, 2021 Livestream
+* [Community FYI: Make the Pioneer a furry, add paws button](../../transcriptions/yt-qGD49HDWHdY.md) [https://www.youtube.com/watch?v=qGD49HDWHdY](https://www.youtube.com/watch?v=qGD49HDWHdY)
+
 ## November 9th, 2021 Livestream
 * Q&A: Can I use the Customizer on myself? [https://www.youtube.com/watch?v=n1Y_di8jDpY](https://www.youtube.com/watch?v=n1Y_di8jDpY)
 * [Q&A: Will there ever be lifts for Vehicles & Players?](../../transcriptions/yt-wSEbzReDRqc.md) [https://www.youtube.com/watch?v=wSEbzReDRqc](https://www.youtube.com/watch?v=wSEbzReDRqc)

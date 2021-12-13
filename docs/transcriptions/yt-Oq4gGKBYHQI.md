@@ -8,7 +8,7 @@ topics:
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Q&A: Map Editor?
 https://www.youtube.com/watch?v=Oq4gGKBYHQI
-This question was possibly duplicated with a more recent answer: [June 29th, 2021 Livestream Q&A: Any plans for player-generated maps?](./yt-8AAgPIENmZ0.md) [https://www.youtube.com/watch?v=8AAgPIENmZ0](https://www.youtube.com/watch?v=8AAgPIENmZ0)
+This question was possibly duplicated with a more recent answer: [December 7th, 2021 Livestream Q&A: Will you allow Modded Maps?](./yt-TS6ZdUxbeKQ.md) [https://www.youtube.com/watch?v=TS6ZdUxbeKQ](https://www.youtube.com/watch?v=TS6ZdUxbeKQ)
 
 
 ### Topics

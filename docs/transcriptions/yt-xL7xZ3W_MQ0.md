@@ -8,7 +8,7 @@ topics:
 # [September 14th, 2021 Livestream](../2021-09-14.md)
 ## Q&A: Storage with slots intentionally disabled to limit how much is stored?
 https://www.youtube.com/watch?v=xL7xZ3W_MQ0
-This question was possibly duplicated with a more recent answer: [November 16th, 2021 Livestream Q&A: Will you consider adding a feature to limit how much of a Container we can fill?](./yt-bBdZgoKTPZ4.md) [https://www.youtube.com/watch?v=bBdZgoKTPZ4](https://www.youtube.com/watch?v=bBdZgoKTPZ4)
+This question was possibly duplicated with a more recent answer: [December 7th, 2021 Livestream Q&A: Can we get a way to limit available slots in Containers?](./yt-8TBD_NwiU6k.md) [https://www.youtube.com/watch?v=8TBD_NwiU6k](https://www.youtube.com/watch?v=8TBD_NwiU6k)
 
 
 ### Topics

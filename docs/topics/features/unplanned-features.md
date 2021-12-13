@@ -17,6 +17,9 @@ date: Last Modified
 * [Terraforming](../../topics/features/unplanned-features/terraforming.md)
 * [VR](../../topics/features/unplanned-features/vr.md)
 
+## December 7th, 2021 Livestream
+* [Q&A: Would be good to add hunger & thirst?](../../transcriptions/yt-gh63LOO7fTk.md) [https://www.youtube.com/watch?v=gh63LOO7fTk](https://www.youtube.com/watch?v=gh63LOO7fTk)
+
 ## November 16th, 2021 Livestream
 * [Q&A: Any voxel editing planned?](../../transcriptions/yt-lron8sfb7zg.md) [https://www.youtube.com/watch?v=lron8sfb7zg](https://www.youtube.com/watch?v=lron8sfb7zg)
 

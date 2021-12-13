@@ -7,6 +7,11 @@ date: Last Modified
 * [Autosave](../../topics/features/save-system/autosave.md)
 * [Cloud Sync](../../topics/features/save-system/cloud-sync.md)
 
+## December 7th, 2021 Livestream
+* Community FYI: Just like Jace said our saves wouldn't break [https://www.youtube.com/watch?v=P6neyP9QX94](https://www.youtube.com/watch?v=P6neyP9QX94)
+* [Community FYI: Still around 30 megabytes](../../transcriptions/yt-2xg_8iXzaC8.md) [https://www.youtube.com/watch?v=2xg_8iXzaC8](https://www.youtube.com/watch?v=2xg_8iXzaC8)
+* [Q&A: What contributes to the save file loading / save time?](../../transcriptions/yt-wkuu9F3wFoA.md) [https://www.youtube.com/watch?v=wkuu9F3wFoA](https://www.youtube.com/watch?v=wkuu9F3wFoA)
+
 ## November 23rd, 2021 Livestream
 * [Q&A: Where are the save files actually located?](../../transcriptions/yt-iVDRQg_aWpU,6133.666132253086,6201.518444.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6133&end=6202](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6133&end=6202)
 

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > [Equipment](../../../../topics/features/equipment.md) > [Nobelisk](../../../../topics/features/equipment/nobelisk.md) > Nobelisk Detonator
 
+## December 7th, 2021 Livestream
+* [Q&A: Where's the snowball throw tool been?](../../../../transcriptions/yt-ZbfZRZKpnOQ.md) [https://www.youtube.com/watch?v=ZbfZRZKpnOQ](https://www.youtube.com/watch?v=ZbfZRZKpnOQ)
+
 ## August 10th, 2021 Livestream
 * [Q&A: Battle Royale mode with only Nobelisk Detonators?](../../../../transcriptions/yt-815wYM_Z6_Q.md) [https://www.youtube.com/watch?v=815wYM_Z6_Q](https://www.youtube.com/watch?v=815wYM_Z6_Q)
 

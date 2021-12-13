@@ -5,6 +5,12 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Pending > Satisfactory 1.0
 
+## December 7th, 2021 Livestream
+* [Q&A: When do you feel like you'll be at a point to say "this is a finished game"?](../../../transcriptions/yt-CUzula9hmqM.md) [https://www.youtube.com/watch?v=CUzula9hmqM](https://www.youtube.com/watch?v=CUzula9hmqM)
+* [Q&A: Will we get a Story sneak-peek at some point or not until 1.0?](../../../transcriptions/yt-EHq6piERMTI.md) [https://www.youtube.com/watch?v=EHq6piERMTI](https://www.youtube.com/watch?v=EHq6piERMTI)
+* [Q&A: Will 1.0 Story Mode change how we play the game, or just add Lore on top of what we do now?](../../../transcriptions/yt-W41UD5yX9Es.md) [https://www.youtube.com/watch?v=W41UD5yX9Es](https://www.youtube.com/watch?v=W41UD5yX9Es)
+* [Q&A: What Features does Snutt personally want to be added to the game before 1.0?](../../../transcriptions/yt-JfpR3MU71f4.md) [https://www.youtube.com/watch?v=JfpR3MU71f4](https://www.youtube.com/watch?v=JfpR3MU71f4)
+
 ## November 30th, 2021 Livestream
 * Q&A: Full release still April 24th? [https://www.youtube.com/watch?v=x3xd4BUF4NY](https://www.youtube.com/watch?v=x3xd4BUF4NY)
 * [Q&A: Will future Updates be faster as there's less to do?](../../../transcriptions/yt-_FHwwg-NciE.md) [https://www.youtube.com/watch?v=_FHwwg-NciE](https://www.youtube.com/watch?v=_FHwwg-NciE)

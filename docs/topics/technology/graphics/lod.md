@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Technology](../../../topics/technology.md) > [Graphics](../../../topics/technology/graphics.md) > LOD
 
+## December 7th, 2021 Livestream
+* [Q&A: Is there going to be more work done on the LOD handling?](../../../transcriptions/yt-KLWmwY2xv_c.md) [https://www.youtube.com/watch?v=KLWmwY2xv_c](https://www.youtube.com/watch?v=KLWmwY2xv_c)
+
 ## June 29th, 2021 Livestream
 * [Q&A: What does LOD Dithering do in the game?](../../../transcriptions/yt-SGvX6YFSVJI.md) [https://www.youtube.com/watch?v=SGvX6YFSVJI](https://www.youtube.com/watch?v=SGvX6YFSVJI)
 * [Q&A: Can I use that low-res model all the time?](../../../transcriptions/yt-jmFnfqKlRLI.md) [https://www.youtube.com/watch?v=jmFnfqKlRLI](https://www.youtube.com/watch?v=jmFnfqKlRLI)

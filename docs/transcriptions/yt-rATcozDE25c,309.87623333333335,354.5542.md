@@ -8,7 +8,7 @@ topics:
 # [October 1st, 2020 Q&A](../2020-10-01.md)
 ## Q&A: Can we get survival features added in a mode for those of us who want more of a challenge?
 https://youtube.com/embed/rATcozDE25c?autoplay=1&start=309&end=355
-This question was possibly duplicated with a more recent answer: [May 25th, 2021 Livestream Q&A: Have you tossed around the idea of Survival?](./yt-lT59LnhiKdI.md) [https://www.youtube.com/watch?v=lT59LnhiKdI](https://www.youtube.com/watch?v=lT59LnhiKdI)
+This question was possibly duplicated with a more recent answer: [December 7th, 2021 Livestream Q&A: Would be good to add hunger & thirst?](./yt-gh63LOO7fTk.md) [https://www.youtube.com/watch?v=gh63LOO7fTk](https://www.youtube.com/watch?v=gh63LOO7fTk)
 
 
 ### Topics

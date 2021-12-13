@@ -9,7 +9,7 @@ topics:
 # [February 20th, 2019 Livestream](../2019-02-20.md)
 ## Q&A: Weather confirmed?
 https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5234&end=5239
-This question was possibly duplicated with a more recent answer: [October 12th, 2021 Livestream Q&A: Will there ever be rain and extreme Weather in Satisfactory?](./yt-ukLbdvyFk-E.md) [https://www.youtube.com/watch?v=ukLbdvyFk-E](https://www.youtube.com/watch?v=ukLbdvyFk-E)
+This question was possibly duplicated with a more recent answer: [December 7th, 2021 Livestream Q&A: Will there be any kind of Weather in the future?](./yt-lvjgk5seKGc.md) [https://www.youtube.com/watch?v=lvjgk5seKGc](https://www.youtube.com/watch?v=lvjgk5seKGc)
 
 
 ### Topics

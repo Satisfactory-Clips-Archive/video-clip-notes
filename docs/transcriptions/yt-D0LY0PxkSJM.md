@@ -8,7 +8,7 @@ topics:
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Q&A: I would be interested to see your in-house roadmap
 https://www.youtube.com/watch?v=D0LY0PxkSJM
-This question was possibly duplicated with a more recent answer: [November 9th, 2021 Livestream Q&A: Do you have a roadmap, internally?](./yt-w3CozyZWjE4.md) [https://www.youtube.com/watch?v=w3CozyZWjE4](https://www.youtube.com/watch?v=w3CozyZWjE4)
+This question was possibly duplicated with a more recent answer: December 7th, 2021 Livestream Q&A: Do you have a roadmap? [https://www.youtube.com/watch?v=zliKUqsPvEc](https://www.youtube.com/watch?v=zliKUqsPvEc)
 
 
 ### Topics

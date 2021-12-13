@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Environment](../../../../topics/environment.md) > [Biomes](../../../../topics/environment/biomes.md) > Unplanned Biomes > Underwater
 
+## December 7th, 2021 Livestream
+* [Q&A: Aquatic Update?](../../../../transcriptions/yt-4NRjkd3wkU0.md) [https://www.youtube.com/watch?v=4NRjkd3wkU0](https://www.youtube.com/watch?v=4NRjkd3wkU0)
+
 ## October 12th, 2021 Livestream
 * [Q&A: You were doing Caves this patch, would there be any possibility of doing anything Underwater?](../../../../transcriptions/yt-Y9QwQmUtiws.md) [https://www.youtube.com/watch?v=Y9QwQmUtiws](https://www.youtube.com/watch?v=Y9QwQmUtiws)
 

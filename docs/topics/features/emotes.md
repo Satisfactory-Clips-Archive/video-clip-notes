@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Features](../../topics/features.md) > Emotes
 
+## December 7th, 2021 Livestream
+* [Q&A: Any plans to add emotes to signs or expand their functionality in other ways?](../../transcriptions/yt-IWp55tlEaSg.md) [https://www.youtube.com/watch?v=IWp55tlEaSg](https://www.youtube.com/watch?v=IWp55tlEaSg)
+
 ## October 29th, 2021 Video
 * [Snutt Talk: We've added a lot more Emotes to the game](../../transcriptions/yt-rePLsjw-eEY,664.0634,690.3897000000001.md) [https://youtube.com/clip/UgkxbJ0gh0nXVvwLDyffqVvrtBkhi8zdQR4Y](https://youtube.com/clip/UgkxbJ0gh0nXVvwLDyffqVvrtBkhi8zdQR4Y)
 

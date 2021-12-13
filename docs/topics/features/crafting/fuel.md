@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Crafting](../../../topics/features/crafting.md) > Fuel
 
+## December 7th, 2021 Livestream
+* [Q&A: What kind of fuel is in the game, gasoline or diesel?](../../../transcriptions/yt-dU5gKPELFLo.md) [https://www.youtube.com/watch?v=dU5gKPELFLo](https://www.youtube.com/watch?v=dU5gKPELFLo)
+
 ## November 9th, 2021 Livestream
 * [Q&A: All Fuels for the Chainsaw & Jetpack, when?](../../../transcriptions/yt-PZLgmrsMIlc.md) [https://www.youtube.com/watch?v=PZLgmrsMIlc](https://www.youtube.com/watch?v=PZLgmrsMIlc)
 

@@ -8,7 +8,7 @@ topics:
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: Underwater biome when?
 https://www.youtube.com/watch?v=pKZc4ciFu6Q
-This question was possibly duplicated with a more recent answer: [August 17th, 2021 Livestream Q&A: Will there be an Underwater Biome](./yt-u-5r_fGpBz4.md) [https://www.youtube.com/watch?v=u-5r_fGpBz4](https://www.youtube.com/watch?v=u-5r_fGpBz4)
+This question was possibly duplicated with a more recent answer: [December 7th, 2021 Livestream Q&A: Aquatic Update?](./yt-4NRjkd3wkU0.md) [https://www.youtube.com/watch?v=4NRjkd3wkU0](https://www.youtube.com/watch?v=4NRjkd3wkU0)
 
 
 ### Topics

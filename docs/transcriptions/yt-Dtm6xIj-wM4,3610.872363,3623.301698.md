@@ -8,7 +8,7 @@ topics:
 # [February 6th, 2019 Livestream](../2019-02-06.md)
 ## Q&A: Can you see your character in third-person?
 https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3610&end=3624
-This question was possibly duplicated with a more recent answer: [July 13th, 2021 Livestream Q&A: Any thoughts about non-first-person Building Mode?](./yt-K2gmJrcqZ20.md) [https://www.youtube.com/watch?v=K2gmJrcqZ20](https://www.youtube.com/watch?v=K2gmJrcqZ20)
+This question was possibly duplicated with a more recent answer: December 7th, 2021 Livestream Q&A: Will there be third-person view? [https://www.youtube.com/watch?v=0CcI5NNow5E](https://www.youtube.com/watch?v=0CcI5NNow5E)
 
 
 ### Topics

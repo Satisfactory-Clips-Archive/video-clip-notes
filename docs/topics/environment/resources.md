@@ -14,6 +14,11 @@ date: Last Modified
 * [Steel](../../topics/environment/resources/steel.md)
 * [Water](../../topics/environment/resources/water.md)
 
+## December 7th, 2021 Livestream
+* [Q&A: Can we please have more granularity/deeper configurable of movements of goods with transport?](../../transcriptions/yt-Ci5QGz4nz4w.md) [https://www.youtube.com/watch?v=Ci5QGz4nz4w](https://www.youtube.com/watch?v=Ci5QGz4nz4w)
+* [Community FYI: Rebalancing entire game would be a funny April Fool's joke](../../transcriptions/yt-x4atGQF4SM0.md) [https://www.youtube.com/watch?v=x4atGQF4SM0](https://www.youtube.com/watch?v=x4atGQF4SM0)
+* [Q&A: Can there be an option when creating a new game to randomise Resources?](../../transcriptions/yt-CfQq9j6DEt0.md) [https://www.youtube.com/watch?v=CfQq9j6DEt0](https://www.youtube.com/watch?v=CfQq9j6DEt0)
+
 ## November 30th, 2021 Livestream
 * [Q&A: Will the items disappear when FICS⁕MAS ends?](../../transcriptions/yt-wfEeaP56GKs.md) [https://www.youtube.com/watch?v=wfEeaP56GKs](https://www.youtube.com/watch?v=wfEeaP56GKs)
 * [Q&A: Is the focus now on content/project parts?](../../transcriptions/yt-2uxuRg2qmhY.md) [https://www.youtube.com/watch?v=2uxuRg2qmhY](https://www.youtube.com/watch?v=2uxuRg2qmhY)

@@ -8,7 +8,7 @@ topics:
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Q&A: Are you planning on porting the game to PS4?
 https://www.youtube.com/watch?v=0Zv9Qjp2fHI
-This question was possibly duplicated with a more recent answer: [November 2nd, 2021 Livestream Q&A: Console release?](./yt-XphmFYhaeHc.md) [https://www.youtube.com/watch?v=XphmFYhaeHc](https://www.youtube.com/watch?v=XphmFYhaeHc)
+This question was possibly duplicated with a more recent answer: [December 7th, 2021 Livestream Q&A: Will the game ever come to console like XBox & PS5?](./yt-zusWeyW2GFU.md) [https://www.youtube.com/watch?v=zusWeyW2GFU](https://www.youtube.com/watch?v=zusWeyW2GFU)
 
 
 ### Topics

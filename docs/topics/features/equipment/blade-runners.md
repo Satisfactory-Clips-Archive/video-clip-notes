@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Equipment](../../../topics/features/equipment.md) > Blade Runners
 
+## December 7th, 2021 Livestream
+* [Q&A: Can there be a powered version of Blade Runners that let you slide indefinitely & uphill ?](../../../transcriptions/yt-T_OsYXu1T-Q.md) [https://www.youtube.com/watch?v=T_OsYXu1T-Q](https://www.youtube.com/watch?v=T_OsYXu1T-Q)
+
 ## May 11th, 2021 Livestream
 * [Q&A: Any workarounds for the D3D Fault in Unreal Engine?](../../../transcriptions/yt-oTvvZRRfLKY.md) [https://www.youtube.com/watch?v=oTvvZRRfLKY](https://www.youtube.com/watch?v=oTvvZRRfLKY)
 

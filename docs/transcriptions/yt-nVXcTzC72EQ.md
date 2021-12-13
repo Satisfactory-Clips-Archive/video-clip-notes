@@ -8,7 +8,7 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Third-Person When?
 https://www.youtube.com/watch?v=nVXcTzC72EQ
-This question was possibly duplicated with a more recent answer: [July 13th, 2021 Livestream Q&A: Any thoughts about non-first-person Building Mode?](./yt-K2gmJrcqZ20.md) [https://www.youtube.com/watch?v=K2gmJrcqZ20](https://www.youtube.com/watch?v=K2gmJrcqZ20)
+This question was possibly duplicated with a more recent answer: December 7th, 2021 Livestream Q&A: Will there be third-person view? [https://www.youtube.com/watch?v=0CcI5NNow5E](https://www.youtube.com/watch?v=0CcI5NNow5E)
 
 
 ### Topics

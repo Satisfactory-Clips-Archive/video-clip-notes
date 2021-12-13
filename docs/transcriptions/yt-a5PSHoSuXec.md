@@ -9,7 +9,7 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Time to invest in Map Modding?
 https://www.youtube.com/watch?v=a5PSHoSuXec
-This question was possibly duplicated with a more recent answer: [June 29th, 2021 Livestream Q&A: Any plans for player-generated maps?](./yt-8AAgPIENmZ0.md) [https://www.youtube.com/watch?v=8AAgPIENmZ0](https://www.youtube.com/watch?v=8AAgPIENmZ0)
+This question was possibly duplicated with a more recent answer: [December 7th, 2021 Livestream Q&A: Will you allow Modded Maps?](./yt-TS6ZdUxbeKQ.md) [https://www.youtube.com/watch?v=TS6ZdUxbeKQ](https://www.youtube.com/watch?v=TS6ZdUxbeKQ)
 
 
 ### Topics

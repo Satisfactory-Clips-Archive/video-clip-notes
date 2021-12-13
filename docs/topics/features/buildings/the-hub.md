@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > The HUB
 
+## December 7th, 2021 Livestream
+* [Q&A: Any plans for future mini-games after FICS⁕MAS one?](../../../transcriptions/yt-9ooCtzONZJE.md) [https://www.youtube.com/watch?v=9ooCtzONZJE](https://www.youtube.com/watch?v=9ooCtzONZJE)
+
 ## November 30th, 2021 Livestream
 * [Q&A: Where does one find the Korolev poster?](../../../transcriptions/yt--cJUfS2yyX4.md) [https://www.youtube.com/watch?v=-cJUfS2yyX4](https://www.youtube.com/watch?v=-cJUfS2yyX4)
 

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Equipment](../../../topics/features/equipment.md) > Color Gun
 
+## December 7th, 2021 Livestream
+* [Q&A: Can you make a 12 hour stream where you paint a whole factory with the Colour Gun?](../../../transcriptions/yt-dVk28SFgz90.md) [https://www.youtube.com/watch?v=dVk28SFgz90](https://www.youtube.com/watch?v=dVk28SFgz90)
+
 ## November 23rd, 2021 Livestream
 * [Q&A: Paintball, when?](../../../transcriptions/yt-iVDRQg_aWpU,5222.740089,5278.6662114197525.md) [https://youtube.com/clip/Ugkx0jrYYplSz91YxCi4z1mxZ95tqIe7Ep5G](https://youtube.com/clip/Ugkx0jrYYplSz91YxCi4z1mxZ95tqIe7Ep5G)
 
