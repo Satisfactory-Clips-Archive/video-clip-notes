@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Biomes](../../../topics/environment/biomes.md) > Spire Coast
 
+## December 14th, 2021 Livestream
+* [Q&A: Any plans for new Biome?](../../../transcriptions/yt-tpu1ubYrWVg.md) [https://www.youtube.com/watch?v=tpu1ubYrWVg](https://www.youtube.com/watch?v=tpu1ubYrWVg)
+
 ## October 19th, 2021 Livestream
 * [Snutt & Jace Talk: The dangers of building in the Spire Coast](../../../transcriptions/yt-Q3VtHc8K600.md) [https://www.youtube.com/watch?v=Q3VtHc8K600](https://www.youtube.com/watch?v=Q3VtHc8K600)
 

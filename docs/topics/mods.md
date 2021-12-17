@@ -32,6 +32,9 @@ date: Last Modified
 * [Utility Signs](../topics/mods/utility-signs.md)
 * [Zip Strips](../topics/mods/zip-strips.md)
 
+## December 14th, 2021 Livestream
+* [Q&A: I've been unable to find the FICS⁕MAS skins, where do you find them?](../transcriptions/yt-OPTD-DT5Ews.md) [https://www.youtube.com/watch?v=OPTD-DT5Ews](https://www.youtube.com/watch?v=OPTD-DT5Ews)
+
 ## December 7th, 2021 Livestream
 * [Q&A: What happened with the Conveyor Belt skin?](../transcriptions/yt-HWlLqhvdcbI.md) [https://www.youtube.com/watch?v=HWlLqhvdcbI](https://www.youtube.com/watch?v=HWlLqhvdcbI)
 * [Q&A: What is the percentage of incoming crash reports that're caused by Mods?](../transcriptions/yt-RK2Pd-m_0go.md) [https://www.youtube.com/watch?v=RK2Pd-m_0go](https://www.youtube.com/watch?v=RK2Pd-m_0go)

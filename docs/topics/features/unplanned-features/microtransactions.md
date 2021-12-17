@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Unplanned Features](../../../topics/features/unplanned-features.md) > Microtransactions
 
+## December 14th, 2021 Livestream
+* Q&A: Will you add Microtransactions? [https://www.youtube.com/watch?v=fLUrva0yrZs](https://www.youtube.com/watch?v=fLUrva0yrZs)
+
 ## September 7th, 2021 Livestream
 * [Community FYI: Zoop Coin](../../../transcriptions/yt-uW-ebXbDC3U.md) [https://www.youtube.com/watch?v=uW-ebXbDC3U](https://www.youtube.com/watch?v=uW-ebXbDC3U)
 

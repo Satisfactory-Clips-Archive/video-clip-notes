@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > Possible Features > Weather Systems
 
+## December 14th, 2021 Livestream
+* [Q&A: Will we ever have a Weather System?](../../../transcriptions/yt-V82DdkFIwNE.md) [https://www.youtube.com/watch?v=V82DdkFIwNE](https://www.youtube.com/watch?v=V82DdkFIwNE)
+
 ## December 7th, 2021 Livestream
 * [Q&A: Will there be any kind of Weather in the future?](../../../transcriptions/yt-lvjgk5seKGc.md) [https://www.youtube.com/watch?v=lvjgk5seKGc](https://www.youtube.com/watch?v=lvjgk5seKGc)
 

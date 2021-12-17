@@ -7,6 +7,11 @@ date: Last Modified
 * [Snutt Burger Time](../../topics/coffee-stainers/snutt/snutt-burger-time.md)
 * [Snutty Mays](../../topics/coffee-stainers/snutt/snutty-mays.md)
 
+## December 14th, 2021 Livestream
+* [Q&A: Get a pop filter?](../../transcriptions/yt-LQhwCnBXf_M.md) [https://www.youtube.com/watch?v=LQhwCnBXf_M](https://www.youtube.com/watch?v=LQhwCnBXf_M)
+* [Q&A: Snutt, what would you like for FICS⁕MAS?](../../transcriptions/yt-SmWm5H4JRT0.md) [https://www.youtube.com/watch?v=SmWm5H4JRT0](https://www.youtube.com/watch?v=SmWm5H4JRT0)
+* [Q&A: How much time do you spend in the game?](../../transcriptions/yt-ORJx_gm-PJ4.md) [https://www.youtube.com/watch?v=ORJx_gm-PJ4](https://www.youtube.com/watch?v=ORJx_gm-PJ4)
+
 ## December 7th, 2021 Livestream
 * [Q&A: Video Friday with you, Snutt?](../../transcriptions/yt-Siig1flK1kE.md) [https://www.youtube.com/watch?v=Siig1flK1kE](https://www.youtube.com/watch?v=Siig1flK1kE)
 * [Q&A: What Features does Snutt personally want to be added to the game before 1.0?](../../transcriptions/yt-JfpR3MU71f4.md) [https://www.youtube.com/watch?v=JfpR3MU71f4](https://www.youtube.com/watch?v=JfpR3MU71f4)

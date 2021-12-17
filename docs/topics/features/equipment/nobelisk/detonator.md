@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > [Equipment](../../../../topics/features/equipment.md) > [Nobelisk](../../../../topics/features/equipment/nobelisk.md) > Nobelisk Detonator
 
+## December 14th, 2021 Livestream
+* [Q&A: Will Snowballs get the old animation again, or is that gone?](../../../../transcriptions/yt-Ux9jFCn0Xu4.md) [https://www.youtube.com/watch?v=Ux9jFCn0Xu4](https://www.youtube.com/watch?v=Ux9jFCn0Xu4)
+
 ## December 7th, 2021 Livestream
 * [Q&A: Where's the snowball throw tool been?](../../../../transcriptions/yt-ZbfZRZKpnOQ.md) [https://www.youtube.com/watch?v=ZbfZRZKpnOQ](https://www.youtube.com/watch?v=ZbfZRZKpnOQ)
 

@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > Transportation > Trains
 * [Train Signals](../../../topics/features/transportation/trains/train-signals.md)
 
+## December 14th, 2021 Livestream
+* [Q&A: Train Laser Turrets?](../../../transcriptions/yt-aGxZXbeUCSg.md) [https://www.youtube.com/watch?v=aGxZXbeUCSg](https://www.youtube.com/watch?v=aGxZXbeUCSg)
+
 ## November 16th, 2021 Livestream
 * [Q&A: In regards to the build limit, is it better to build longer railway segments?](../../../transcriptions/yt-zhXICAd27NQ.md) [https://www.youtube.com/watch?v=zhXICAd27NQ](https://www.youtube.com/watch?v=zhXICAd27NQ)
 * [Q&A: Any plans to change the Train pathing from static to dynamic?](../../../transcriptions/yt-BQ7X8ZyR7QU.md) [https://www.youtube.com/watch?v=BQ7X8ZyR7QU](https://www.youtube.com/watch?v=BQ7X8ZyR7QU)

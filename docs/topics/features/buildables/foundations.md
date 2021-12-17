@@ -7,6 +7,9 @@ date: Last Modified
 * [Cheatcrete](../../../topics/features/buildables/foundations/cheatcrete.md)
 * [Foundation Stencils](../../../topics/features/buildables/foundations/stencils.md)
 
+## December 14th, 2021 Livestream
+* [Q&A: Any chance on being able to use the new Materials on U-shaped Foundations?](../../../transcriptions/yt-ORd4hZlYajw.md) [https://www.youtube.com/watch?v=ORd4hZlYajw](https://www.youtube.com/watch?v=ORd4hZlYajw)
+
 ## November 30th, 2021 Livestream
 * Q&A: Quarter Pipe Concrete [https://www.youtube.com/watch?v=SntGjNRuKsc](https://www.youtube.com/watch?v=SntGjNRuKsc)
 * [Q&A: Why does Glossy Concrete require Oil, but Asphalt only requires Concrete?](../../../transcriptions/yt-AdOxeOT7cJ8.md) [https://www.youtube.com/watch?v=AdOxeOT7cJ8](https://www.youtube.com/watch?v=AdOxeOT7cJ8)

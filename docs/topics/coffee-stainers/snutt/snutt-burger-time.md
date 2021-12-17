@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Coffee Stainers](../../../topics/coffee-stainers.md) > [Snutt](../../../topics/coffee-stainers/snutt.md) > Snutt Burger Time
 
+## December 14th, 2021 Livestream
+* [Q&A: Dinner plans?](../../../transcriptions/yt-n_Xv7DU_ICM.md) [https://www.youtube.com/watch?v=n_Xv7DU_ICM](https://www.youtube.com/watch?v=n_Xv7DU_ICM)
+
 ## September 14th, 2021 Livestream
 * [Q&A: Is tonight Burger night?](../../../transcriptions/yt-fLZ5oCBibos.md) [https://www.youtube.com/watch?v=fLZ5oCBibos](https://www.youtube.com/watch?v=fLZ5oCBibos)
 

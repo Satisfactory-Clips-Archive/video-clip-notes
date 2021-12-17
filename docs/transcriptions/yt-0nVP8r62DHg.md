@@ -8,7 +8,7 @@ topics:
 # [October 12th, 2021 Livestream](../2021-10-12.md)
 ## Q&A: Since you put the position for Game Designer in Skövde, do you have plans for interns?
 https://www.youtube.com/watch?v=0nVP8r62DHg
-This question was possibly duplicated with a more recent answer: [November 9th, 2021 Livestream Q&A: Do you do internships?](./yt-NdoDfVjkvG0.md) [https://www.youtube.com/watch?v=NdoDfVjkvG0](https://www.youtube.com/watch?v=NdoDfVjkvG0)
+This question was possibly duplicated with a more recent answer: [December 14th, 2021 Livestream Q&A: Do you take any interns at Coffee Stain?](./yt-6Wett6BcKU0.md) [https://www.youtube.com/watch?v=6Wett6BcKU0](https://www.youtube.com/watch?v=6Wett6BcKU0)
 
 
 ### Topics

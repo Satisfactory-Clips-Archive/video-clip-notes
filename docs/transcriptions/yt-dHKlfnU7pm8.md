@@ -9,7 +9,7 @@ topics:
 # [May 25th, 2021 Livestream](../2021-05-25.md)
 ## Q&A: How many Updates before Release?
 https://www.youtube.com/watch?v=dHKlfnU7pm8
-This question was possibly duplicated with a more recent answer: October 19th, 2021 Livestream Q&A: How many more Updates? [https://www.youtube.com/watch?v=-jMLTqAu7t8](https://www.youtube.com/watch?v=-jMLTqAu7t8)
+This question was possibly duplicated with a more recent answer: [December 14th, 2021 Livestream Q&A: How many more Updates are planned?](./yt-94UgcPML6FI.md) [https://www.youtube.com/watch?v=94UgcPML6FI](https://www.youtube.com/watch?v=94UgcPML6FI)
 
 
 ### Topics

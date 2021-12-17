@@ -8,7 +8,7 @@ topics:
 # [May 15th, 2020 Q&A](../2020-05-15.md)
 ## Q&A: Will there be a farming system with seeds and stuff so we can plant our own fruits?
 https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=1164&end=1177
-This question was possibly duplicated with a more recent answer: [August 10th, 2021 Livestream Q&A: Farming in the game?](./yt-nwkc5YeXylk.md) [https://www.youtube.com/watch?v=nwkc5YeXylk](https://www.youtube.com/watch?v=nwkc5YeXylk)
+This question was possibly duplicated with a more recent answer: [December 14th, 2021 Livestream Q&A: Can you comment of Farming?](./yt-TpcscsCHVCQ.md) [https://www.youtube.com/watch?v=TpcscsCHVCQ](https://www.youtube.com/watch?v=TpcscsCHVCQ)
 
 
 ### Topics

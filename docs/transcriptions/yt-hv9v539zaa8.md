@@ -8,7 +8,7 @@ topics:
 # [August 3rd, 2021 Livestream](../2021-08-03.md)
 ## Q&A: Are there any plans to add Farming food to the game?
 https://www.youtube.com/watch?v=hv9v539zaa8
-This question was possibly duplicated with a more recent answer: [August 10th, 2021 Livestream Q&A: Farming in the game?](./yt-nwkc5YeXylk.md) [https://www.youtube.com/watch?v=nwkc5YeXylk](https://www.youtube.com/watch?v=nwkc5YeXylk)
+This question was possibly duplicated with a more recent answer: [December 14th, 2021 Livestream Q&A: Can you comment of Farming?](./yt-TpcscsCHVCQ.md) [https://www.youtube.com/watch?v=TpcscsCHVCQ](https://www.youtube.com/watch?v=TpcscsCHVCQ)
 
 
 ### Topics

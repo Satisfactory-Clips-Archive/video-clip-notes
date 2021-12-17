@@ -8,7 +8,7 @@ topics:
 # [May 11th, 2021 Livestream](../2021-05-11.md)
 ## Q&A: KFC Console?
 https://www.youtube.com/watch?v=cFDgMxkg53A
-This question was possibly duplicated with a more recent answer: [May 25th, 2021 Livestream Q&A: Date for KFC Console release?](./yt-t_i7vgMUGKA.md) [https://www.youtube.com/watch?v=t_i7vgMUGKA](https://www.youtube.com/watch?v=t_i7vgMUGKA)
+This question was possibly duplicated with a more recent answer: [December 14th, 2021 Livestream Q&A: KFConsole release, when?](./yt-caCiGpNAB3M.md) [https://www.youtube.com/watch?v=caCiGpNAB3M](https://www.youtube.com/watch?v=caCiGpNAB3M)
 
 
 ### Topics

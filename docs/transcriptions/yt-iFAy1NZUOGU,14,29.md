@@ -8,7 +8,7 @@ topics:
 # [August 1st, 2018 Q&A](../2018-08-01.md)
 ## Q&A: Will there be a Creative Mode?
 https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=14&end=29
-This question was possibly duplicated with a more recent answer: [November 23rd, 2021 Livestream Q&A: Creative Mode?](./yt-iVDRQg_aWpU,6552.309672,6610.354523.md) [https://youtube.com/clip/UgkxzV3qrV8ZonMWhSn5LBuM2YZsmxpnAs2d](https://youtube.com/clip/UgkxzV3qrV8ZonMWhSn5LBuM2YZsmxpnAs2d)
+This question was possibly duplicated with a more recent answer: [December 14th, 2021 Livestream Q&A: Will you do Creative Mode?](./yt-q3kWY1f6rjk.md) [https://www.youtube.com/watch?v=q3kWY1f6rjk](https://www.youtube.com/watch?v=q3kWY1f6rjk)
 
 
 ### Topics

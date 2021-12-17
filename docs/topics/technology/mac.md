@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > Mac
 
+## December 14th, 2021 Livestream
+* [Q&A: Anything coming out on MacOS?](../../transcriptions/yt-NE3mXE6o1wI.md) [https://www.youtube.com/watch?v=NE3mXE6o1wI](https://www.youtube.com/watch?v=NE3mXE6o1wI)
+
 ## November 16th, 2021 Livestream
 * [Snutt & Jace Talk: Frequently Asked Questions about where Satisfactory will be released](../../transcriptions/yt-9TFj1vArqDg.md) [https://www.youtube.com/watch?v=9TFj1vArqDg](https://www.youtube.com/watch?v=9TFj1vArqDg)
 

@@ -24,6 +24,10 @@ date: Last Modified
 * [Vilsol](../topics/community/vilsol.md)
 * [Wiki](../topics/community/wiki.md)
 
+## December 14th, 2021 Livestream
+* Snutt Talk: 2021 Retrospective [https://www.youtube.com/watch?v=4kbofImwd6Q](https://www.youtube.com/watch?v=4kbofImwd6Q)
+* [Snutt Talk: Streaming for 2021](../transcriptions/yt-lgl2itXqWNU.md) [https://www.youtube.com/watch?v=lgl2itXqWNU](https://www.youtube.com/watch?v=lgl2itXqWNU)
+
 ## November 30th, 2021 Livestream
 * [Q&A: Any comment on the leaked Toilet Flush DLC from Andrew?](../transcriptions/yt-K2KL5Aaf9Do.md) [https://www.youtube.com/watch?v=K2KL5Aaf9Do](https://www.youtube.com/watch?v=K2KL5Aaf9Do)
 * [Q&A: What is the percentage of players that have finished the game?](../transcriptions/yt-RDxG5YZw2-Y.md) [https://www.youtube.com/watch?v=RDxG5YZw2-Y](https://www.youtube.com/watch?v=RDxG5YZw2-Y)

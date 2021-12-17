@@ -9,6 +9,8 @@ topics:
 # [December 7th, 2021 Livestream](../2021-12-07.md)
 ## Q&A: Where's the snowball throw tool been?
 https://www.youtube.com/watch?v=ZbfZRZKpnOQ
+This question was possibly duplicated with a more recent answer: [December 14th, 2021 Livestream Q&A: Will Snowballs get the old animation again, or is that gone?](./yt-Ux9jFCn0Xu4.md) [https://www.youtube.com/watch?v=Ux9jFCn0Xu4](https://www.youtube.com/watch?v=Ux9jFCn0Xu4)
+
 
 ### Topics
 * [Features > Equipment > Nobelisk > Nobelisk Detonator](../topics/features/equipment/nobelisk/detonator.md)

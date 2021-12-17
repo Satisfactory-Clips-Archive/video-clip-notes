@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Unplanned Features](../../../topics/features/unplanned-features.md) > Golf
 
+## December 14th, 2021 Livestream
+* [Q&A: Golf, when?](../../../transcriptions/yt-7izKxTtG3js.md) [https://www.youtube.com/watch?v=7izKxTtG3js](https://www.youtube.com/watch?v=7izKxTtG3js)
+
 ## December 7th, 2021 Livestream
 * Q&A: When's Golf? [https://www.youtube.com/watch?v=hhZq5M3I8Io](https://www.youtube.com/watch?v=hhZq5M3I8Io)
 

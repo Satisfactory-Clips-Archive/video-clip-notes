@@ -8,7 +8,7 @@ topics:
 # [July 6th, 2021 Livestream](../2021-07-06.md)
 ## Q&A: Will you be adding Weather Systems?
 https://www.youtube.com/watch?v=WMMQ1b8eAvA
-This question was possibly duplicated with a more recent answer: [December 7th, 2021 Livestream Q&A: Will there be any kind of Weather in the future?](./yt-lvjgk5seKGc.md) [https://www.youtube.com/watch?v=lvjgk5seKGc](https://www.youtube.com/watch?v=lvjgk5seKGc)
+This question was possibly duplicated with a more recent answer: [December 14th, 2021 Livestream Q&A: Will we ever have a Weather System?](./yt-V82DdkFIwNE.md) [https://www.youtube.com/watch?v=V82DdkFIwNE](https://www.youtube.com/watch?v=V82DdkFIwNE)
 
 
 ### Topics

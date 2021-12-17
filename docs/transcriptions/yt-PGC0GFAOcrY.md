@@ -8,7 +8,7 @@ topics:
 # [June 1st, 2021 Livestream](../2021-06-01.md)
 ## Q&A: Mug Merch?
 https://www.youtube.com/watch?v=PGC0GFAOcrY
-This question was possibly duplicated with a more recent answer: [November 2nd, 2021 Livestream Q&A: Any news for the Mug?](./yt-fayIArgdrEs.md) [https://www.youtube.com/watch?v=fayIArgdrEs](https://www.youtube.com/watch?v=fayIArgdrEs)
+This question was possibly duplicated with a more recent answer: December 14th, 2021 Livestream Q&A: Where's the Mug? [https://www.youtube.com/watch?v=vNCmjf3ERnY](https://www.youtube.com/watch?v=vNCmjf3ERnY)
 
 
 ### Topics

@@ -9,7 +9,7 @@ topics:
 # [March 23rd, 2021 Livestream](../2021-03-23.md)
 ## Q&A: Can we destroy or remove drop pods after Hard Drive collection?
 https://www.youtube.com/watch?v=9_BZvuAoyUI
-This question was possibly duplicated with a more recent answer: [August 24th, 2021 Livestream Q&A: Is removing Crash Sites by deconstruction even for no parts something to do to clear the Map?](./yt-towkJfDEAvo.md) [https://www.youtube.com/watch?v=towkJfDEAvo](https://www.youtube.com/watch?v=towkJfDEAvo)
+This question was possibly duplicated with a more recent answer: [December 14th, 2021 Livestream Q&A: Will crash sites ever be made deconstructable in future?](./yt-ouqhFkbmZZM.md) [https://www.youtube.com/watch?v=ouqhFkbmZZM](https://www.youtube.com/watch?v=ouqhFkbmZZM)
 
 
 ### Topics

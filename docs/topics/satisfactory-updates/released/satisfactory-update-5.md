@@ -8,6 +8,9 @@ date: Last Modified
 * [#SaveTheWillows](../../../topics/satisfactory-updates/released/satisfactory-update-5/save-the-willows.md)
 * [Update 5 Torsten's Cosmetics Whiteboard](../../../topics/satisfactory-updates/released/satisfactory-update-5/torstens-cosmetics-whiteboard.md)
 
+## December 14th, 2021 Livestream
+* Snutt Talk: 2021 Retrospective [https://www.youtube.com/watch?v=4kbofImwd6Q](https://www.youtube.com/watch?v=4kbofImwd6Q)
+
 ## November 30th, 2021 Livestream
 * [State of Dev: We released Update 5 last week](../../../transcriptions/yt-YX82CfsFUo0.md) [https://www.youtube.com/watch?v=YX82CfsFUo0](https://www.youtube.com/watch?v=YX82CfsFUo0)
 * [State of Dev: This is one of the most stable releases we've ever had](../../../transcriptions/yt-5iE_Wqlr8Xg.md) [https://www.youtube.com/watch?v=5iE_Wqlr8Xg](https://www.youtube.com/watch?v=5iE_Wqlr8Xg)

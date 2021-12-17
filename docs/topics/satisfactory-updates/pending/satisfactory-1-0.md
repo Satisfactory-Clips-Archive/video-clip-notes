@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Pending > Satisfactory 1.0
 
+## December 14th, 2021 Livestream
+* [Q&A: How much stuff are you holding back for 1.0?](../../../transcriptions/yt-q3ix1iH1YC8.md) [https://www.youtube.com/watch?v=q3ix1iH1YC8](https://www.youtube.com/watch?v=q3ix1iH1YC8)
+
 ## December 7th, 2021 Livestream
 * [Q&A: When do you feel like you'll be at a point to say "this is a finished game"?](../../../transcriptions/yt-CUzula9hmqM.md) [https://www.youtube.com/watch?v=CUzula9hmqM](https://www.youtube.com/watch?v=CUzula9hmqM)
 * [Q&A: Will we get a Story sneak-peek at some point or not until 1.0?](../../../transcriptions/yt-EHq6piERMTI.md) [https://www.youtube.com/watch?v=EHq6piERMTI](https://www.youtube.com/watch?v=EHq6piERMTI)

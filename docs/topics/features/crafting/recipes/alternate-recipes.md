@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > [Crafting](../../../../topics/features/crafting.md) > [Recipes](../../../../topics/features/crafting/recipes.md) > Alternate Recipes
 
+## December 14th, 2021 Livestream
+* [Q&A: Will crash sites ever be made deconstructable in future?](../../../../transcriptions/yt-ouqhFkbmZZM.md) [https://www.youtube.com/watch?v=ouqhFkbmZZM](https://www.youtube.com/watch?v=ouqhFkbmZZM)
+
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
 * Q&A: Alternative Recipes, underrated/overrated? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=7809&end=7870](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=7809&end=7870)
 

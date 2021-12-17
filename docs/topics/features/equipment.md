@@ -20,6 +20,9 @@ date: Last Modified
 * [Xeno-Zapper](../../topics/features/equipment/xeno-zapper.md)
 * [Zip Lines](../../topics/features/equipment/zip-lines.md)
 
+## December 14th, 2021 Livestream
+* [Q&A: Is it possible to add hostile insects and guns?](../../transcriptions/yt-xWLxmxLsoZY.md) [https://www.youtube.com/watch?v=xWLxmxLsoZY](https://www.youtube.com/watch?v=xWLxmxLsoZY)
+
 ## November 16th, 2021 Livestream
 * [Q&A: Have you ever completed the last-Tier challenge?](../../transcriptions/yt-X_bCuUtXSqQ.md) [https://www.youtube.com/watch?v=X_bCuUtXSqQ](https://www.youtube.com/watch?v=X_bCuUtXSqQ)
 

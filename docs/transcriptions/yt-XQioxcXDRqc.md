@@ -8,7 +8,7 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Are you adding support for Mac any time soon?
 https://www.youtube.com/watch?v=XQioxcXDRqc
-This question was possibly duplicated with a more recent answer: [February 16th, 2021 Livestream Q&A: When is Satisfactory going to be on Mac?](./yt-VTSAUKoarIw.md) [https://www.youtube.com/watch?v=VTSAUKoarIw](https://www.youtube.com/watch?v=VTSAUKoarIw)
+This question was possibly duplicated with a more recent answer: [December 14th, 2021 Livestream Q&A: Anything coming out on MacOS?](./yt-NE3mXE6o1wI.md) [https://www.youtube.com/watch?v=NE3mXE6o1wI](https://www.youtube.com/watch?v=NE3mXE6o1wI)
 
 
 ### Topics

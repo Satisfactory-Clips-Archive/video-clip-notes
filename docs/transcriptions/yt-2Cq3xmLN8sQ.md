@@ -9,7 +9,7 @@ topics:
 # [March 24th, 2020 Livestream](../2020-03-24.md)
 ## Q&A: Berry Farming?
 https://www.youtube.com/watch?v=2Cq3xmLN8sQ
-This question was possibly duplicated with a more recent answer: [August 10th, 2021 Livestream Q&A: Farming in the game?](./yt-nwkc5YeXylk.md) [https://www.youtube.com/watch?v=nwkc5YeXylk](https://www.youtube.com/watch?v=nwkc5YeXylk)
+This question was possibly duplicated with a more recent answer: [December 14th, 2021 Livestream Q&A: Can you comment of Farming?](./yt-TpcscsCHVCQ.md) [https://www.youtube.com/watch?v=TpcscsCHVCQ](https://www.youtube.com/watch?v=TpcscsCHVCQ)
 
 
 ### Topics

@@ -7,6 +7,9 @@ date: Last Modified
 * [EU Merch Store](../topics/merch/eu-merch-store.md)
 * [Merch Prototypes](../topics/merch/merch-prototypes.md)
 
+## December 14th, 2021 Livestream
+* Q&A: Where's the Mug? [https://www.youtube.com/watch?v=vNCmjf3ERnY](https://www.youtube.com/watch?v=vNCmjf3ERnY)
+
 ## November 30th, 2021 Livestream
 * [Q&A: Is there going to be a Chainsaw someday in the Merch store?](../transcriptions/yt-AygnkgeupMU.md) [https://www.youtube.com/watch?v=AygnkgeupMU](https://www.youtube.com/watch?v=AygnkgeupMU)
 * [Q&A: Kickstarter Status?](../transcriptions/yt-rtDdvxdzGAM.md) [https://www.youtube.com/watch?v=rtDdvxdzGAM](https://www.youtube.com/watch?v=rtDdvxdzGAM)

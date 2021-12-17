@@ -18,6 +18,10 @@ date: Last Modified
 * [Teasers & Trailers](../topics/satisfactory-updates/teasers-and-trailers.md)
 * [World Update](../topics/satisfactory-updates/world-update.md)
 
+## December 14th, 2021 Livestream
+* [Q&A: How many more Updates are planned?](../transcriptions/yt-94UgcPML6FI.md) [https://www.youtube.com/watch?v=94UgcPML6FI](https://www.youtube.com/watch?v=94UgcPML6FI)
+* [Q&A: Will there be a patch during holidays?](../transcriptions/yt-UZODHZXKbh0.md) [https://www.youtube.com/watch?v=UZODHZXKbh0](https://www.youtube.com/watch?v=UZODHZXKbh0)
+
 ## December 7th, 2021 Livestream
 * Community FYI: Just like Jace said our saves wouldn't break [https://www.youtube.com/watch?v=P6neyP9QX94](https://www.youtube.com/watch?v=P6neyP9QX94)
 

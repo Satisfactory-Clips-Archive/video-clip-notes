@@ -8,7 +8,7 @@ topics:
 # [July 20th, 2021 Livestream](../2021-07-20.md)
 ## Q&A: Any plans for Farming?
 https://www.youtube.com/watch?v=70U_d1fVoHk
-This question was possibly duplicated with a more recent answer: [August 10th, 2021 Livestream Q&A: Farming in the game?](./yt-nwkc5YeXylk.md) [https://www.youtube.com/watch?v=nwkc5YeXylk](https://www.youtube.com/watch?v=nwkc5YeXylk)
+This question was possibly duplicated with a more recent answer: [December 14th, 2021 Livestream Q&A: Can you comment of Farming?](./yt-TpcscsCHVCQ.md) [https://www.youtube.com/watch?v=TpcscsCHVCQ](https://www.youtube.com/watch?v=TpcscsCHVCQ)
 
 
 ### Topics

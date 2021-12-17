@@ -8,7 +8,7 @@ topics:
 # [July 20th, 2021 Livestream](../2021-07-20.md)
 ## Q&A: Any plans on making Crash Sites deconstructible after Hard Drive has been retrieved?
 https://www.youtube.com/watch?v=zz7h3PhhWAg
-This question was possibly duplicated with a more recent answer: [August 24th, 2021 Livestream Q&A: Is removing Crash Sites by deconstruction even for no parts something to do to clear the Map?](./yt-towkJfDEAvo.md) [https://www.youtube.com/watch?v=towkJfDEAvo](https://www.youtube.com/watch?v=towkJfDEAvo)
+This question was possibly duplicated with a more recent answer: [December 14th, 2021 Livestream Q&A: Will crash sites ever be made deconstructable in future?](./yt-ouqhFkbmZZM.md) [https://www.youtube.com/watch?v=ouqhFkbmZZM](https://www.youtube.com/watch?v=ouqhFkbmZZM)
 
 
 ### Topics

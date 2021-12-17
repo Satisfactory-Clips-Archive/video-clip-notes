@@ -26,6 +26,9 @@ date: Last Modified
 * [The HUB](../../topics/features/buildings/the-hub.md)
 * [Water Extractor](../../topics/features/buildings/water-extractor.md)
 
+## December 14th, 2021 Livestream
+* [Q&A: Five-input machine that makes Coffee?](../../transcriptions/yt-sgGhUaNdoZk.md) [https://www.youtube.com/watch?v=sgGhUaNdoZk](https://www.youtube.com/watch?v=sgGhUaNdoZk)
+
 ## November 30th, 2021 Livestream
 * [Q&A: Will the FICS⁕MAS 2020 factory stuff still work?](../../transcriptions/yt-2jV6lzqCFrs.md) [https://www.youtube.com/watch?v=2jV6lzqCFrs](https://www.youtube.com/watch?v=2jV6lzqCFrs)
 

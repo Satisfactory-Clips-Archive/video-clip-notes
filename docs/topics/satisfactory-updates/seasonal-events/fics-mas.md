@@ -5,6 +5,14 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Seasonal Events](../../../topics/satisfactory-updates/seasonal-events.md) > FICS⁕MAS
 
+## December 14th, 2021 Livestream
+* Snutt Talk: 2021 Retrospective [https://www.youtube.com/watch?v=4kbofImwd6Q](https://www.youtube.com/watch?v=4kbofImwd6Q)
+* [Q&A: I've been unable to find the FICS⁕MAS skins, where do you find them?](../../../transcriptions/yt-OPTD-DT5Ews.md) [https://www.youtube.com/watch?v=OPTD-DT5Ews](https://www.youtube.com/watch?v=OPTD-DT5Ews)
+* Q&A: Will FICS⁕MAS skins stay for a while? [https://www.youtube.com/watch?v=05Pp41R4mcg](https://www.youtube.com/watch?v=05Pp41R4mcg)
+* [Q&A: What about the Candy Cane Basher?](../../../transcriptions/yt-a-M_oEJEl2g.md) [https://www.youtube.com/watch?v=a-M_oEJEl2g](https://www.youtube.com/watch?v=a-M_oEJEl2g)
+* [Q&A: Will Snowballs get the old animation again, or is that gone?](../../../transcriptions/yt-Ux9jFCn0Xu4.md) [https://www.youtube.com/watch?v=Ux9jFCn0Xu4](https://www.youtube.com/watch?v=Ux9jFCn0Xu4)
+* [Q&A: Snutt, what would you like for FICS⁕MAS?](../../../transcriptions/yt-SmWm5H4JRT0.md) [https://www.youtube.com/watch?v=SmWm5H4JRT0](https://www.youtube.com/watch?v=SmWm5H4JRT0)
+
 ## December 7th, 2021 Livestream
 * [State of Dev: December 7th, 2021](../../../transcriptions/yt-7nCntR0EE8g.md) [https://www.youtube.com/watch?v=7nCntR0EE8g](https://www.youtube.com/watch?v=7nCntR0EE8g)
 * [Q&A: Where's the snowball throw tool been?](../../../transcriptions/yt-ZbfZRZKpnOQ.md) [https://www.youtube.com/watch?v=ZbfZRZKpnOQ](https://www.youtube.com/watch?v=ZbfZRZKpnOQ)

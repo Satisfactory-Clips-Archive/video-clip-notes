@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Requested Features](../../../topics/features/requested-features.md) > Multiple Body Slots
 
+## December 14th, 2021 Livestream
+* [Q&A: Why don't you want us to equip the Blade Runners and Jetpack at the same time?](../../../transcriptions/yt-HC83odaoVd0.md) [https://www.youtube.com/watch?v=HC83odaoVd0](https://www.youtube.com/watch?v=HC83odaoVd0)
+
 ## November 9th, 2021 Livestream
 * [Q&A: Two body slots, maybe?](../../../transcriptions/yt-1r0kKFc_mW4.md) [https://www.youtube.com/watch?v=1r0kKFc_mW4](https://www.youtube.com/watch?v=1r0kKFc_mW4)
 * [Community FYI: For the problem of the two body slots, you could turn the hazmat suit in to a mask](../../../transcriptions/yt-YTjaVznsGlc.md) [https://www.youtube.com/watch?v=YTjaVznsGlc](https://www.youtube.com/watch?v=YTjaVznsGlc)

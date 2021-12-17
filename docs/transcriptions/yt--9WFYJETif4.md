@@ -9,7 +9,7 @@ topics:
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: Is automated food production planned?
 https://www.youtube.com/watch?v=-9WFYJETif4
-This question was possibly duplicated with a more recent answer: [August 10th, 2021 Livestream Q&A: Farming in the game?](./yt-nwkc5YeXylk.md) [https://www.youtube.com/watch?v=nwkc5YeXylk](https://www.youtube.com/watch?v=nwkc5YeXylk)
+This question was possibly duplicated with a more recent answer: [December 14th, 2021 Livestream Q&A: Can you comment of Farming?](./yt-TpcscsCHVCQ.md) [https://www.youtube.com/watch?v=TpcscsCHVCQ](https://www.youtube.com/watch?v=TpcscsCHVCQ)
 
 
 ### Topics

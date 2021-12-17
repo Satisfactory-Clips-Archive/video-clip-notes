@@ -14,6 +14,11 @@ date: Last Modified
 * [Steel](../../topics/environment/resources/steel.md)
 * [Water](../../topics/environment/resources/water.md)
 
+## December 14th, 2021 Livestream
+* [Q&A: What's about the Quantum Computer?](../../transcriptions/yt-FEd9k69MZlc.md) [https://www.youtube.com/watch?v=FEd9k69MZlc](https://www.youtube.com/watch?v=FEd9k69MZlc)
+* [Q&A: Biomass picker car?](../../transcriptions/yt-5CEbzAA0MkE.md) [https://www.youtube.com/watch?v=5CEbzAA0MkE](https://www.youtube.com/watch?v=5CEbzAA0MkE)
+* [Q&A: Whose brilliant idea was it to stick Uranium on top of a pillar that's the tallest in the area?](../../transcriptions/yt-aSULg4OecOk.md) [https://www.youtube.com/watch?v=aSULg4OecOk](https://www.youtube.com/watch?v=aSULg4OecOk)
+
 ## December 7th, 2021 Livestream
 * [Q&A: Can we please have more granularity/deeper configurable of movements of goods with transport?](../../transcriptions/yt-Ci5QGz4nz4w.md) [https://www.youtube.com/watch?v=Ci5QGz4nz4w](https://www.youtube.com/watch?v=Ci5QGz4nz4w)
 * [Community FYI: Rebalancing entire game would be a funny April Fool's joke](../../transcriptions/yt-x4atGQF4SM0.md) [https://www.youtube.com/watch?v=x4atGQF4SM0](https://www.youtube.com/watch?v=x4atGQF4SM0)

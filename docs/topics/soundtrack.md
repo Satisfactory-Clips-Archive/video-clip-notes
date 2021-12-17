@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Soundtrack
 
+## December 14th, 2021 Livestream
+* [Q&A: Answer about Soundtrack release?](../transcriptions/yt-DoywhI2s_3o.md) [https://www.youtube.com/watch?v=DoywhI2s_3o](https://www.youtube.com/watch?v=DoywhI2s_3o)
+
 ## November 30th, 2021 Livestream
 * [Q&A: How do you get Ghostwood Empire to do your Trailer music?](../transcriptions/yt-frmO3fUX100.md) [https://www.youtube.com/watch?v=frmO3fUX100](https://www.youtube.com/watch?v=frmO3fUX100)
 

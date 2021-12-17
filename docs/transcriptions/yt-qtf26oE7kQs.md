@@ -8,7 +8,7 @@ topics:
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Q&A: How many Updates until 1.0?
 https://www.youtube.com/watch?v=qtf26oE7kQs
-This question was possibly duplicated with a more recent answer: October 19th, 2021 Livestream Q&A: How many more Updates? [https://www.youtube.com/watch?v=-jMLTqAu7t8](https://www.youtube.com/watch?v=-jMLTqAu7t8)
+This question was possibly duplicated with a more recent answer: [December 14th, 2021 Livestream Q&A: How many more Updates are planned?](./yt-94UgcPML6FI.md) [https://www.youtube.com/watch?v=94UgcPML6FI](https://www.youtube.com/watch?v=94UgcPML6FI)
 
 
 ### Topics

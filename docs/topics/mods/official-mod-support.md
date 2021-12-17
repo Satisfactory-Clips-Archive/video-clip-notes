@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../topics.md) > [Mods](../../topics/mods.md) > Official Mod Support
 * [Steam Workshop](../../topics/mods/official-mod-support/steam-workshop.md)
 
+## December 14th, 2021 Livestream
+* [Q&A: Map Editor?](../../transcriptions/yt-lX7XAk69lSw.md) [https://www.youtube.com/watch?v=lX7XAk69lSw](https://www.youtube.com/watch?v=lX7XAk69lSw)
+
 ## December 7th, 2021 Livestream
 * [Q&A: Do you guys consider releasing a dev kit for third-party map builders?](../../transcriptions/yt-w7FY53KMcck.md) [https://www.youtube.com/watch?v=w7FY53KMcck](https://www.youtube.com/watch?v=w7FY53KMcck)
 

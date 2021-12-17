@@ -8,11 +8,7 @@ topics:
 # [May 25th, 2021 Livestream](../2021-05-25.md)
 ## Q&A: Do you have plans to add a Coffee maker with Coffee nodes?
 https://www.youtube.com/watch?v=6QqajUpsshE
-<details>
-<summary>This question may have been asked previously at least 1 other time, as recently as February 2021.</summary>
-
-* [February 23rd, 2021 Livestream Q&A: Could you please add a Coffee machine or even a Coffee production line?](./yt-XpBlPzRT3FA.md) [https://www.youtube.com/watch?v=XpBlPzRT3FA](https://www.youtube.com/watch?v=XpBlPzRT3FA)
-</details>
+This question was possibly duplicated with a more recent answer: [December 14th, 2021 Livestream Q&A: Five-input machine that makes Coffee?](./yt-sgGhUaNdoZk.md) [https://www.youtube.com/watch?v=sgGhUaNdoZk](https://www.youtube.com/watch?v=sgGhUaNdoZk)
 
 
 ### Topics

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Speculative > Satisfactory Update 6
 
+## December 14th, 2021 Livestream
+* Snutt Talk: 2021 Retrospective [https://www.youtube.com/watch?v=4kbofImwd6Q](https://www.youtube.com/watch?v=4kbofImwd6Q)
+
 ## December 7th, 2021 Livestream
 * [Q&A: Update 6, when?](../../../transcriptions/yt--3F_QMKt5yo.md) [https://www.youtube.com/watch?v=-3F_QMKt5yo](https://www.youtube.com/watch?v=-3F_QMKt5yo)
 

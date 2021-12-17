@@ -7,6 +7,9 @@ date: Last Modified
 * [Nuclear Refinement](../../../topics/features/power-management/nuclear-energy/nuclear-refinement.md)
 * [Nuclear Waste](../../../topics/features/power-management/nuclear-energy/nuclear-waste.md)
 
+## December 14th, 2021 Livestream
+* [Q&A: Whose brilliant idea was it to stick Uranium on top of a pillar that's the tallest in the area?](../../../transcriptions/yt-aSULg4OecOk.md) [https://www.youtube.com/watch?v=aSULg4OecOk](https://www.youtube.com/watch?v=aSULg4OecOk)
+
 ## September 14th, 2021 Livestream
 * [Q&A: If and when Dedicated Servers go live, how will Nuclear Power & Nuclear Waste work?](../../../transcriptions/yt-g4VNWQOeiyw.md) [https://www.youtube.com/watch?v=g4VNWQOeiyw](https://www.youtube.com/watch?v=g4VNWQOeiyw)
 

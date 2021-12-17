@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildables](../../../topics/features/buildables.md) > Signs
 
+## December 14th, 2021 Livestream
+* [Q&A: Can we have revolving signs?](../../../transcriptions/yt-uEZ43YHhaRY.md) [https://www.youtube.com/watch?v=uEZ43YHhaRY](https://www.youtube.com/watch?v=uEZ43YHhaRY)
+
 ## December 7th, 2021 Livestream
 * [Q&A: Any plans to add emotes to signs or expand their functionality in other ways?](../../../transcriptions/yt-IWp55tlEaSg.md) [https://www.youtube.com/watch?v=IWp55tlEaSg](https://www.youtube.com/watch?v=IWp55tlEaSg)
 

@@ -8,7 +8,7 @@ topics:
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Q&A: Weather in Satisfactory?
 https://www.youtube.com/watch?v=Sxvg881RjeA
-This question was possibly duplicated with a more recent answer: [December 7th, 2021 Livestream Q&A: Will there be any kind of Weather in the future?](./yt-lvjgk5seKGc.md) [https://www.youtube.com/watch?v=lvjgk5seKGc](https://www.youtube.com/watch?v=lvjgk5seKGc)
+This question was possibly duplicated with a more recent answer: [December 14th, 2021 Livestream Q&A: Will we ever have a Weather System?](./yt-V82DdkFIwNE.md) [https://www.youtube.com/watch?v=V82DdkFIwNE](https://www.youtube.com/watch?v=V82DdkFIwNE)
 
 
 ### Topics

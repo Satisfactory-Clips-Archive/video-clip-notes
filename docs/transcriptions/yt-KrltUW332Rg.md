@@ -8,7 +8,7 @@ topics:
 # [June 15th, 2021 Livestream](../2021-06-15.md)
 ## Q&A: More Biomes coming to play?
 https://www.youtube.com/watch?v=KrltUW332Rg
-This question was possibly duplicated with a more recent answer: [September 14th, 2021 Livestream Q&A: Chance of a new Biome?](./yt-DXB_o7NPkOM.md) [https://www.youtube.com/watch?v=DXB_o7NPkOM](https://www.youtube.com/watch?v=DXB_o7NPkOM)
+This question was possibly duplicated with a more recent answer: [December 14th, 2021 Livestream Q&A: Any plans for new Biome?](./yt-tpu1ubYrWVg.md) [https://www.youtube.com/watch?v=tpu1ubYrWVg](https://www.youtube.com/watch?v=tpu1ubYrWVg)
 
 
 ### Topics

@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Equipment](../../../topics/features/equipment.md) > Nobelisk
 * [Nobelisk Detonator](../../../topics/features/equipment/nobelisk/detonator.md)
 
+## December 14th, 2021 Livestream
+* [Q&A: Will Snowballs get the old animation again, or is that gone?](../../../transcriptions/yt-Ux9jFCn0Xu4.md) [https://www.youtube.com/watch?v=Ux9jFCn0Xu4](https://www.youtube.com/watch?v=Ux9jFCn0Xu4)
+
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
 * Q&A: Nobelisks, underrated/overrated? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=7596&end=7618](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=7596&end=7618)
 

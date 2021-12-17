@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > World Update
 
+## December 14th, 2021 Livestream
+* [Q&A: Will we get more map variations?](../../transcriptions/yt-G_t_K2YsnvE.md) [https://www.youtube.com/watch?v=G_t_K2YsnvE](https://www.youtube.com/watch?v=G_t_K2YsnvE)
+* [Q&A: Any plans for new Biome?](../../transcriptions/yt-tpu1ubYrWVg.md) [https://www.youtube.com/watch?v=tpu1ubYrWVg](https://www.youtube.com/watch?v=tpu1ubYrWVg)
+* [Q&A: What parts of the Map are done?](../../transcriptions/yt-8c7AONMrJRs.md) [https://www.youtube.com/watch?v=8c7AONMrJRs](https://www.youtube.com/watch?v=8c7AONMrJRs)
+
 ## December 7th, 2021 Livestream
 * [Q&A: What plans does Coffee Stain have for the map?](../../transcriptions/yt-mrwqBvr2eTk.md) [https://www.youtube.com/watch?v=mrwqBvr2eTk](https://www.youtube.com/watch?v=mrwqBvr2eTk)
 

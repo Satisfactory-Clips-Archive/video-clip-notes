@@ -12,6 +12,14 @@ date: Last Modified
 * [Pollution](../../topics/features/requested-features/pollution.md)
 * [Third-person View](../../topics/features/requested-features/third-person-view.md)
 
+## December 14th, 2021 Livestream
+* [Q&A: Can we have revolving signs?](../../transcriptions/yt-uEZ43YHhaRY.md) [https://www.youtube.com/watch?v=uEZ43YHhaRY](https://www.youtube.com/watch?v=uEZ43YHhaRY)
+* [Q&A: Five-input machine that makes Coffee?](../../transcriptions/yt-sgGhUaNdoZk.md) [https://www.youtube.com/watch?v=sgGhUaNdoZk](https://www.youtube.com/watch?v=sgGhUaNdoZk)
+* [Q&A: Biomass picker car?](../../transcriptions/yt-5CEbzAA0MkE.md) [https://www.youtube.com/watch?v=5CEbzAA0MkE](https://www.youtube.com/watch?v=5CEbzAA0MkE)
+* [Q&A: Map Editor?](../../transcriptions/yt-lX7XAk69lSw.md) [https://www.youtube.com/watch?v=lX7XAk69lSw](https://www.youtube.com/watch?v=lX7XAk69lSw)
+* [Q&A: Glow-in-the-dark Patterns?](../../transcriptions/yt-WbjT836oTRQ.md) [https://www.youtube.com/watch?v=WbjT836oTRQ](https://www.youtube.com/watch?v=WbjT836oTRQ)
+* [Q&A: Can we get a mobile Satisfactory?](../../transcriptions/yt-S6E6qkiS8jg.md) [https://www.youtube.com/watch?v=S6E6qkiS8jg](https://www.youtube.com/watch?v=S6E6qkiS8jg)
+
 ## December 7th, 2021 Livestream
 * [Q&A: Are there plans for better Splitters, like with configurable ratios?](../../transcriptions/yt-dI37z27JZfw.md) [https://www.youtube.com/watch?v=dI37z27JZfw](https://www.youtube.com/watch?v=dI37z27JZfw)
 * [Q&A: Can we get a way to limit available slots in Containers?](../../transcriptions/yt-8TBD_NwiU6k.md) [https://www.youtube.com/watch?v=8TBD_NwiU6k](https://www.youtube.com/watch?v=8TBD_NwiU6k)

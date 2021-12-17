@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Concept Art
 
+## December 14th, 2021 Livestream
+* [Q&A: Concept Art book?](../transcriptions/yt-S5UkiIenMCo.md) [https://www.youtube.com/watch?v=S5UkiIenMCo](https://www.youtube.com/watch?v=S5UkiIenMCo)
+
 ## November 2nd, 2021 Livestream
 * [Snutt & Jace Talk: Concept Art vs. Community](../transcriptions/yt-BnEZmedFCPk.md) [https://www.youtube.com/watch?v=BnEZmedFCPk](https://www.youtube.com/watch?v=BnEZmedFCPk)
 * [Snutt & Jace Talk: Torsten's Cosmetics Whiteboard (Part 1)](../transcriptions/yt-2xXOlRDamHE.md) [https://www.youtube.com/watch?v=2xXOlRDamHE](https://www.youtube.com/watch?v=2xXOlRDamHE)

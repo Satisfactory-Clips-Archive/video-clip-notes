@@ -8,7 +8,7 @@ topics:
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Q&A: Any plans on Weather cycles?
 https://www.youtube.com/watch?v=-QpGRQcZfe0
-This question was possibly duplicated with a more recent answer: [December 7th, 2021 Livestream Q&A: Will there be any kind of Weather in the future?](./yt-lvjgk5seKGc.md) [https://www.youtube.com/watch?v=lvjgk5seKGc](https://www.youtube.com/watch?v=lvjgk5seKGc)
+This question was possibly duplicated with a more recent answer: [December 14th, 2021 Livestream Q&A: Will we ever have a Weather System?](./yt-V82DdkFIwNE.md) [https://www.youtube.com/watch?v=V82DdkFIwNE](https://www.youtube.com/watch?v=V82DdkFIwNE)
 
 
 ### Topics

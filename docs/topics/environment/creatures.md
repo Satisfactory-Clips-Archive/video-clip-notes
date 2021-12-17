@@ -10,6 +10,11 @@ date: Last Modified
 * [Non Flying Bird](../../topics/environment/creatures/non-flying-bird.md)
 * [Space Giraffe-Tick-Penguin-Whale Thing](../../topics/environment/creatures/space-giraffe-tick-penguin-whale-thing.md)
 
+## December 14th, 2021 Livestream
+* [Q&A: Is it possible to add hostile insects and guns?](../../transcriptions/yt-xWLxmxLsoZY.md) [https://www.youtube.com/watch?v=xWLxmxLsoZY](https://www.youtube.com/watch?v=xWLxmxLsoZY)
+* Q&A: Rideable Spiders? [https://www.youtube.com/watch?v=k32-KotmyiI](https://www.youtube.com/watch?v=k32-KotmyiI)
+* [Q&A: Did Tim make the Spiders?](../../transcriptions/yt-D6ntie5fsyU.md) [https://www.youtube.com/watch?v=D6ntie5fsyU](https://www.youtube.com/watch?v=D6ntie5fsyU)
+
 ## November 9th, 2021 Livestream
 * [Q&A: Will you add an alien goat to Satisfactory?](../../transcriptions/yt-qjwd46Lr2og.md) [https://www.youtube.com/watch?v=qjwd46Lr2og](https://www.youtube.com/watch?v=qjwd46Lr2og)
 

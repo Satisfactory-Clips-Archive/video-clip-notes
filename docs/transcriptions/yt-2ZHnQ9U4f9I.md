@@ -8,7 +8,7 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: Map expansion ?
 https://www.youtube.com/watch?v=2ZHnQ9U4f9I
-This question was possibly duplicated with a more recent answer: [September 14th, 2021 Livestream Q&A: Chance of a new Biome?](./yt-DXB_o7NPkOM.md) [https://www.youtube.com/watch?v=DXB_o7NPkOM](https://www.youtube.com/watch?v=DXB_o7NPkOM)
+This question was possibly duplicated with a more recent answer: [December 14th, 2021 Livestream Q&A: Any plans for new Biome?](./yt-tpu1ubYrWVg.md) [https://www.youtube.com/watch?v=tpu1ubYrWVg](https://www.youtube.com/watch?v=tpu1ubYrWVg)
 
 
 ### Topics

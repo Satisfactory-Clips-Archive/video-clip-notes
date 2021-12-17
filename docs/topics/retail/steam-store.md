@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../topics.md) > [Retail](../../topics/retail.md) > Steam Store
 * [Steam Release](../../topics/retail/steam-store/steam-release.md)
 
+## December 14th, 2021 Livestream
+* [Snutt Talk: Dedicated Servers on Steam & Epic](../../transcriptions/yt-B894pE07Itc.md) [https://www.youtube.com/watch?v=B894pE07Itc](https://www.youtube.com/watch?v=B894pE07Itc)
+
 ## December 7th, 2021 Livestream
 * [State of Dev: December 7th, 2021](../../transcriptions/yt-7nCntR0EE8g.md) [https://www.youtube.com/watch?v=7nCntR0EE8g](https://www.youtube.com/watch?v=7nCntR0EE8g)
 

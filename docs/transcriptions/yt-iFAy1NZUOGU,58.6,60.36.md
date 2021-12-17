@@ -8,7 +8,7 @@ topics:
 # [August 1st, 2018 Q&A](../2018-08-01.md)
 ## Q&A: Is there Weather in the game?
 https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=58&end=61
-This question was possibly duplicated with a more recent answer: [December 7th, 2021 Livestream Q&A: Will there be any kind of Weather in the future?](./yt-lvjgk5seKGc.md) [https://www.youtube.com/watch?v=lvjgk5seKGc](https://www.youtube.com/watch?v=lvjgk5seKGc)
+This question was possibly duplicated with a more recent answer: [December 14th, 2021 Livestream Q&A: Will we ever have a Weather System?](./yt-V82DdkFIwNE.md) [https://www.youtube.com/watch?v=V82DdkFIwNE](https://www.youtube.com/watch?v=V82DdkFIwNE)
 
 
 ### Topics

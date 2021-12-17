@@ -10,7 +10,7 @@ topics:
 # [March 30th, 2021 Livestream](../2021-03-30.md)
 ## Q&A: Add body slots so we can use Blade Runners and Jetpacks at the same time?
 https://www.youtube.com/watch?v=XkDGnJwkY18
-This question was possibly duplicated with a more recent answer: [November 9th, 2021 Livestream Q&A: Two body slots, maybe?](./yt-1r0kKFc_mW4.md) [https://www.youtube.com/watch?v=1r0kKFc_mW4](https://www.youtube.com/watch?v=1r0kKFc_mW4)
+This question was possibly duplicated with a more recent answer: [December 14th, 2021 Livestream Q&A: Why don't you want us to equip the Blade Runners and Jetpack at the same time?](./yt-HC83odaoVd0.md) [https://www.youtube.com/watch?v=HC83odaoVd0](https://www.youtube.com/watch?v=HC83odaoVd0)
 
 
 ### Topics

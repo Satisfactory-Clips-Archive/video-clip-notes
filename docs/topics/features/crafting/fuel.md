@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Crafting](../../../topics/features/crafting.md) > Fuel
 
+## December 14th, 2021 Livestream
+* [Q&A: What kind of Fuel?](../../../transcriptions/yt-x_RdJmv4yTw.md) [https://www.youtube.com/watch?v=x_RdJmv4yTw](https://www.youtube.com/watch?v=x_RdJmv4yTw)
+
 ## December 7th, 2021 Livestream
 * [Q&A: What kind of fuel is in the game, gasoline or diesel?](../../../transcriptions/yt-dU5gKPELFLo.md) [https://www.youtube.com/watch?v=dU5gKPELFLo](https://www.youtube.com/watch?v=dU5gKPELFLo)
 

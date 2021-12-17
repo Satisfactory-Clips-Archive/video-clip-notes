@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > [Buildables](../../../../topics/features/buildables.md) > [Foundations](../../../../topics/features/buildables/foundations.md) > Foundation Stencils
 
+## December 14th, 2021 Livestream
+* [Q&A: Glow-in-the-dark Patterns?](../../../../transcriptions/yt-WbjT836oTRQ.md) [https://www.youtube.com/watch?v=WbjT836oTRQ](https://www.youtube.com/watch?v=WbjT836oTRQ)
+
 ## November 12th, 2021 Video
 * Snutt Talk: Let's talk about Patterns [https://youtube.com/clip/Ugkxh0QfGp_AtX49_cYmvysIF4JgaTKBtZ1T](https://youtube.com/clip/Ugkxh0QfGp_AtX49_cYmvysIF4JgaTKBtZ1T)
 * Q&A: How do you change the colour on the Patterns? [https://youtube.com/clip/UgkxtIAvwdFOnv9vtehBTsydtmLHmwrIjguf](https://youtube.com/clip/UgkxtIAvwdFOnv9vtehBTsydtmLHmwrIjguf)

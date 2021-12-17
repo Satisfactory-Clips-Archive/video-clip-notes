@@ -9,7 +9,7 @@ topics:
 # [April 27th, 2021 Livestream](../2021-04-27.md)
 ## Q&A: What about an over-sized lawn mower?
 https://www.youtube.com/watch?v=4X4Ft5Cpat0
-This question was possibly duplicated with a more recent answer: [August 24th, 2021 Livestream Q&A: Any plans on a harvester Vehicle to get biomass?](./yt-fDpxXnlkDXY.md) [https://www.youtube.com/watch?v=fDpxXnlkDXY](https://www.youtube.com/watch?v=fDpxXnlkDXY)
+This question was possibly duplicated with a more recent answer: [December 14th, 2021 Livestream Q&A: Biomass picker car?](./yt-5CEbzAA0MkE.md) [https://www.youtube.com/watch?v=5CEbzAA0MkE](https://www.youtube.com/watch?v=5CEbzAA0MkE)
 
 
 ### Topics

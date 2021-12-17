@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > Possible Features > [Game Modes](../../../../topics/features/possible-features/game-modes.md) > Creative Mode
 
+## December 14th, 2021 Livestream
+* [Q&A: Will you do Creative Mode?](../../../../transcriptions/yt-q3kWY1f6rjk.md) [https://www.youtube.com/watch?v=q3kWY1f6rjk](https://www.youtube.com/watch?v=q3kWY1f6rjk)
+
 ## November 23rd, 2021 Livestream
 * [Q&A: Creative Mode?](../../../../transcriptions/yt-iVDRQg_aWpU,6552.309672,6610.354523.md) [https://youtube.com/clip/UgkxzV3qrV8ZonMWhSn5LBuM2YZsmxpnAs2d](https://youtube.com/clip/UgkxzV3qrV8ZonMWhSn5LBuM2YZsmxpnAs2d)
 

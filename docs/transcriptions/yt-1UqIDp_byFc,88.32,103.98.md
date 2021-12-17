@@ -10,6 +10,8 @@ topics:
 # [November 23rd, 2018 Dev Blog](../2018-11-23.md)
 ## Q&A: Are your games going to be full of Microtransactions now?
 https://youtube.com/embed/1UqIDp_byFc?autoplay=1&start=88&end=104
+This question was possibly replaced with a more recent answer: December 14th, 2021 Livestream Q&A: Will you add Microtransactions? [https://www.youtube.com/watch?v=fLUrva0yrZs](https://www.youtube.com/watch?v=fLUrva0yrZs)
+
 
 ### Topics
 * [Embracer Group > THQ Nordic](../topics/embracer-group/thq-nordic.md)

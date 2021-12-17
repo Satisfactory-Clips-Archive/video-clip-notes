@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Off-Topic](../../../topics/off-topic.md) > [Food & Drink](../../../topics/off-topic/food-and-drink.md) > Coffee
 
+## December 14th, 2021 Livestream
+* [Q&A: Five-input machine that makes Coffee?](../../../transcriptions/yt-sgGhUaNdoZk.md) [https://www.youtube.com/watch?v=sgGhUaNdoZk](https://www.youtube.com/watch?v=sgGhUaNdoZk)
+
 ## September 7th, 2021 Livestream
 * [Q&A: Main character of Satisfactory drinks so much Coffee, when do they pee?](../../../transcriptions/yt-VvPwssa6lvw.md) [https://www.youtube.com/watch?v=VvPwssa6lvw](https://www.youtube.com/watch?v=VvPwssa6lvw)
 

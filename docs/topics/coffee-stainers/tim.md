@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Tim
 
+## December 14th, 2021 Livestream
+* [Q&A: Did Tim make the Spiders?](../../transcriptions/yt-D6ntie5fsyU.md) [https://www.youtube.com/watch?v=D6ntie5fsyU](https://www.youtube.com/watch?v=D6ntie5fsyU)
+
 ## November 30th, 2021 Livestream
 * [Community FYI: Tim leaked stuff & left the company the same day](../../transcriptions/yt-fwcug1RNSEk.md) [https://www.youtube.com/watch?v=fwcug1RNSEk](https://www.youtube.com/watch?v=fwcug1RNSEk)
 

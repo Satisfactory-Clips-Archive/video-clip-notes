@@ -8,11 +8,7 @@ topics:
 # [August 24th, 2021 Livestream](../2021-08-24.md)
 ## Q&A: Any plans on a harvester Vehicle to get biomass?
 https://www.youtube.com/watch?v=fDpxXnlkDXY
-<details>
-<summary>This question may have been asked previously at least 1 other time, as recently as April 2021.</summary>
-
-* [April 27th, 2021 Livestream Q&A: What about an over-sized lawn mower?](./yt-4X4Ft5Cpat0.md) [https://www.youtube.com/watch?v=4X4Ft5Cpat0](https://www.youtube.com/watch?v=4X4Ft5Cpat0)
-</details>
+This question was possibly duplicated with a more recent answer: [December 14th, 2021 Livestream Q&A: Biomass picker car?](./yt-5CEbzAA0MkE.md) [https://www.youtube.com/watch?v=5CEbzAA0MkE](https://www.youtube.com/watch?v=5CEbzAA0MkE)
 
 
 ### Topics

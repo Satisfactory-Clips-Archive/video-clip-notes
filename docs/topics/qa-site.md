@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > QA Site
 
+## December 14th, 2021 Livestream
+* [Community FYI: I joined the discord, but couldn't find the suggestions section](../transcriptions/yt-wCCzv8kDEKg.md) [https://www.youtube.com/watch?v=wCCzv8kDEKg](https://www.youtube.com/watch?v=wCCzv8kDEKg)
+* [Q&A: Found an annoying bug that was reported 2 years ago already, do I make a new post?](../transcriptions/yt-RnS8tAhQGWI.md) [https://www.youtube.com/watch?v=RnS8tAhQGWI](https://www.youtube.com/watch?v=RnS8tAhQGWI)
+
 ## November 30th, 2021 Livestream
 * [Community FYI: We want A to C walls on flat Foundations](../transcriptions/yt-VQZ8myIFqmY.md) [https://www.youtube.com/watch?v=VQZ8myIFqmY](https://www.youtube.com/watch?v=VQZ8myIFqmY)
 * Q&A: Quarter Pipe Concrete [https://www.youtube.com/watch?v=SntGjNRuKsc](https://www.youtube.com/watch?v=SntGjNRuKsc)
