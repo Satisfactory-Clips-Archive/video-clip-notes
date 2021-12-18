@@ -658,7 +658,7 @@ date: Last Modified
 * [Q&A: Will there be new items coming to the AWESOME Shop between now and Update 4?](../../../transcriptions/yt-JSdd9fpzhK4.md) [https://www.youtube.com/watch?v=JSdd9fpzhK4](https://www.youtube.com/watch?v=JSdd9fpzhK4)
 * [Snutt Talk: Minor stuff before Update 4](../../../transcriptions/yt-GbggTKLCQtc.md) [https://www.youtube.com/watch?v=GbggTKLCQtc](https://www.youtube.com/watch?v=GbggTKLCQtc)
 * [Q&A: New enemies / creatures?](../../../transcriptions/yt-TDbNru0heoU.md) [https://www.youtube.com/watch?v=TDbNru0heoU](https://www.youtube.com/watch?v=TDbNru0heoU)
-* [ETA for Update 4? (Mid-stream reiteration)](../../../transcriptions/yt-tNgHT-JIuvE.md) [https://www.youtube.com/watch?v=tNgHT-JIuvE](https://www.youtube.com/watch?v=tNgHT-JIuvE)
+* [Q&A: ETA for Update 4? (Mid-stream reiteration)](../../../transcriptions/yt-tNgHT-JIuvE.md) [https://www.youtube.com/watch?v=tNgHT-JIuvE](https://www.youtube.com/watch?v=tNgHT-JIuvE)
 * [Q&A: Some new Machines in the next update?](../../../transcriptions/yt-Kk0ULnBXeXE.md) [https://www.youtube.com/watch?v=Kk0ULnBXeXE](https://www.youtube.com/watch?v=Kk0ULnBXeXE)
 * [Q&A: Dedicated Servers update?](../../../transcriptions/yt-mtE-rHjMsn4.md) [https://www.youtube.com/watch?v=mtE-rHjMsn4](https://www.youtube.com/watch?v=mtE-rHjMsn4)
 * [Q&A: Update 4, just a quality-of-life thing?](../../../transcriptions/yt-G7k6pjP1nK8.md) [https://www.youtube.com/watch?v=G7k6pjP1nK8](https://www.youtube.com/watch?v=G7k6pjP1nK8)

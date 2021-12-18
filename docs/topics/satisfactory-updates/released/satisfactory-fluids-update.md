@@ -173,7 +173,7 @@ date: Last Modified
 * [State of Dev: Update 4 & Update 5](../../../transcriptions/yt-e-51TRYTVg8.md) [https://www.youtube.com/watch?v=e-51TRYTVg8](https://www.youtube.com/watch?v=e-51TRYTVg8)
 * [Q&A: ETA for Update 4](../../../transcriptions/yt-3xgs6Y-ZSe8.md) [https://www.youtube.com/watch?v=3xgs6Y-ZSe8](https://www.youtube.com/watch?v=3xgs6Y-ZSe8)
 * [Snutt Talk: Minor stuff before Update 4](../../../transcriptions/yt-GbggTKLCQtc.md) [https://www.youtube.com/watch?v=GbggTKLCQtc](https://www.youtube.com/watch?v=GbggTKLCQtc)
-* [ETA for Update 4? (Mid-stream reiteration)](../../../transcriptions/yt-tNgHT-JIuvE.md) [https://www.youtube.com/watch?v=tNgHT-JIuvE](https://www.youtube.com/watch?v=tNgHT-JIuvE)
+* [Q&A: ETA for Update 4? (Mid-stream reiteration)](../../../transcriptions/yt-tNgHT-JIuvE.md) [https://www.youtube.com/watch?v=tNgHT-JIuvE](https://www.youtube.com/watch?v=tNgHT-JIuvE)
 * [Q&A: Can we get an indicator for the launch line from the Launch Pad?](../../../transcriptions/yt-YwYLlE8veKs.md) [https://www.youtube.com/watch?v=YwYLlE8veKs](https://www.youtube.com/watch?v=YwYLlE8veKs)
 * [Q&A: When will the next patch even get released?](../../../transcriptions/yt-I59oaCtgopI.md) [https://www.youtube.com/watch?v=I59oaCtgopI](https://www.youtube.com/watch?v=I59oaCtgopI)
 * [Q&A: A mark on pipes to show the meters ?](../../../transcriptions/yt-lXL_N-a887E.md) [https://www.youtube.com/watch?v=lXL_N-a887E](https://www.youtube.com/watch?v=lXL_N-a887E)

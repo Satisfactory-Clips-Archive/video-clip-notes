@@ -187,7 +187,7 @@ date: Last Modified
 * [Q&A: Are there going to be strawberry fishes in the game?](../../transcriptions/yt-LKcrsIMzGYY.md) [https://www.youtube.com/watch?v=LKcrsIMzGYY](https://www.youtube.com/watch?v=LKcrsIMzGYY)
 * Q&A: Are there any goats in the game? [https://www.youtube.com/watch?v=jAjSoN6Z1rc](https://www.youtube.com/watch?v=jAjSoN6Z1rc)
 * [Q&A: I don't like spiders but arachnophobia mode is even scarier](../../transcriptions/yt-GluAI4ipeLY.md) [https://www.youtube.com/watch?v=GluAI4ipeLY](https://www.youtube.com/watch?v=GluAI4ipeLY)
-* [Jace & Simon take on a Hog that rode Snutt](../../transcriptions/yt-U8qgrw_iVLU.md) [https://www.youtube.com/watch?v=U8qgrw_iVLU](https://www.youtube.com/watch?v=U8qgrw_iVLU)
+* [Snutt, Simon, and Jace Talk: Jace & Simon take on a Hog that rode Snutt](../../transcriptions/yt-U8qgrw_iVLU.md) [https://www.youtube.com/watch?v=U8qgrw_iVLU](https://www.youtube.com/watch?v=U8qgrw_iVLU)
 * [Q&A: How many types of scary spiders / cute cats are in game?](../../transcriptions/yt-Qw4AMG6mgnY.md) [https://www.youtube.com/watch?v=Qw4AMG6mgnY](https://www.youtube.com/watch?v=Qw4AMG6mgnY)
 * [Q&A: When are you going to add orcs to the game?](../../transcriptions/yt-S43FE8W6Feo.md) [https://www.youtube.com/watch?v=S43FE8W6Feo](https://www.youtube.com/watch?v=S43FE8W6Feo)
 * [Q&A: Is it possible to kill a Spitter with the standard Zapper?](../../transcriptions/yt-ZmVoWBHW9Jc.md) [https://www.youtube.com/watch?v=ZmVoWBHW9Jc](https://www.youtube.com/watch?v=ZmVoWBHW9Jc)

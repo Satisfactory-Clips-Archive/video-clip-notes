@@ -28,4 +28,4 @@ date: Last Modified
 * [Q&A: Are you going to add Ansel support for HD photos? (Part 2)](../../transcriptions/yt-VQp2sry-iDQ.md) [https://www.youtube.com/watch?v=VQp2sry-iDQ](https://www.youtube.com/watch?v=VQp2sry-iDQ)
 * [Q&A: Are you going to add Ansel support for HD photos? (Part 1)](../../transcriptions/yt-Gx8ilz44pJU.md) [https://www.youtube.com/watch?v=Gx8ilz44pJU](https://www.youtube.com/watch?v=Gx8ilz44pJU)
 * [Q&A: Where do photos go when you save them?](../../transcriptions/yt-wjFzW8KUu-w.md) [https://www.youtube.com/watch?v=wjFzW8KUu-w](https://www.youtube.com/watch?v=wjFzW8KUu-w)
-* [Jace & Simon take on a Hog that rode Snutt](../../transcriptions/yt-U8qgrw_iVLU.md) [https://www.youtube.com/watch?v=U8qgrw_iVLU](https://www.youtube.com/watch?v=U8qgrw_iVLU)
+* [Snutt, Simon, and Jace Talk: Jace & Simon take on a Hog that rode Snutt](../../transcriptions/yt-U8qgrw_iVLU.md) [https://www.youtube.com/watch?v=U8qgrw_iVLU](https://www.youtube.com/watch?v=U8qgrw_iVLU)
