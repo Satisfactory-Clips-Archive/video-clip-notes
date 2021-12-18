@@ -9,7 +9,7 @@ date: Last Modified
 * [Q&A: Will Jace ever get fixed?](../../../transcriptions/yt-c2fTW3Re8e8.md) [https://www.youtube.com/watch?v=c2fTW3Re8e8](https://www.youtube.com/watch?v=c2fTW3Re8e8)
 
 ## July 20th, 2021 Livestream
-* [Q&:A: "Fix Jace" has 97 votes, does it hurt that more people care about Golf?](../../../transcriptions/yt-bU2vsHorHVg.md) [https://www.youtube.com/watch?v=bU2vsHorHVg](https://www.youtube.com/watch?v=bU2vsHorHVg)
+* [Q&A: "Fix Jace" has 97 votes, does it hurt that more people care about Golf?](../../../transcriptions/yt-bU2vsHorHVg.md) [https://www.youtube.com/watch?v=bU2vsHorHVg](https://www.youtube.com/watch?v=bU2vsHorHVg)
 
 ## July 6th, 2021 Livestream
 * [Q&A: Is Jace fixed?](../../../transcriptions/yt-wV3t17BdtMo.md) [https://www.youtube.com/watch?v=wV3t17BdtMo](https://www.youtube.com/watch?v=wV3t17BdtMo)

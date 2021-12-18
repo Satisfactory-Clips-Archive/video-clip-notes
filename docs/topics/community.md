@@ -244,7 +244,7 @@ date: Last Modified
 * Mod highlight part 2: Crash Reporting [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=10155&end=10274](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=10155&end=10274)
 * Mod highlight part 2 Q&A: Are there any other shout-outs or things people should know? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=10273&end=10365](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=10273&end=10365)
 * Mod highlight part 2 Q&A: We broke mods with Update 4, how does the community make them work again? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=10364&end=10560](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=10364&end=10560)
-* Mod highlight part 2 - Baine jumps in to say hi, OG moderator in discord [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=10614&end=10692](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=10614&end=10692)
+* Mod highlight part 2: Baine jumps in to say hi, OG moderator in discord [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=10614&end=10692](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=10614&end=10692)
 * Mod highlight part 2 Q&A: Anything you want to say before we start the modding demo? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=10691&end=10986](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=10691&end=10986)
 * Mod highlight part 2: Introductions [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=11144&end=11172](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=11144&end=11172)
 * Mod highlight part 2 Q&A: Do mods work in Multiplayer? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=11960&end=11980](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=11960&end=11980)
@@ -353,7 +353,7 @@ date: Last Modified
 * [Q&A: Should I try a 5x5?](../transcriptions/yt-sTyZCrW9F_E.md) [https://www.youtube.com/watch?v=sTyZCrW9F_E](https://www.youtube.com/watch?v=sTyZCrW9F_E)
 
 ## June 8th, 2020 Livestream
-* [Community Highlights - Chainsaw on legs](../transcriptions/yt-tX8VDBudtuI.md) [https://www.youtube.com/watch?v=tX8VDBudtuI](https://www.youtube.com/watch?v=tX8VDBudtuI)
+* [Community Highlights: Chainsaw on legs](../transcriptions/yt-tX8VDBudtuI.md) [https://www.youtube.com/watch?v=tX8VDBudtuI](https://www.youtube.com/watch?v=tX8VDBudtuI)
 
 ## May 15th, 2020 Q&A
 * [Community FYI: I love u](../transcriptions/yt-NlIVwoRqjVk,1129.8620666666666,1134.9004333333335.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=1129&end=1135](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=1129&end=1135)

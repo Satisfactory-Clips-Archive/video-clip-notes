@@ -156,7 +156,7 @@ date: Last Modified
 * [Q&A: Has there been any progress towards Client stuff ?](../../transcriptions/yt-Q4ZutPyeA_E.md) [https://www.youtube.com/watch?v=Q4ZutPyeA_E](https://www.youtube.com/watch?v=Q4ZutPyeA_E)
 
 ## March 2nd, 2021 Livestream
-* [Comunity FYI: Multiplayer is bugged](../../transcriptions/yt-668iMY_81_k.md) [https://www.youtube.com/watch?v=668iMY_81_k](https://www.youtube.com/watch?v=668iMY_81_k)
+* [Community FYI: Multiplayer is bugged](../../transcriptions/yt-668iMY_81_k.md) [https://www.youtube.com/watch?v=668iMY_81_k](https://www.youtube.com/watch?v=668iMY_81_k)
 
 ## February 23rd, 2021 Livestream
 * [Q&A: What are the plans to improve multiplayer bugs in the future?](../../transcriptions/yt-D36NzV3LAB8.md) [https://www.youtube.com/watch?v=D36NzV3LAB8](https://www.youtube.com/watch?v=D36NzV3LAB8)

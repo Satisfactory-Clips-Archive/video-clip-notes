@@ -1,5 +1,5 @@
 ---
-title: "June 8th, 2020 Livestream Community Highlights - Chainsaw on legs"
+title: "June 8th, 2020 Livestream Community Highlights: Chainsaw on legs"
 date: "2020-06-08"
 layout: transcript
 topics:
@@ -7,7 +7,7 @@ topics:
     - "features/unplanned-features/base-defense"
 ---
 # [June 8th, 2020 Livestream](../2020-06-08.md)
-## Community Highlights - Chainsaw on legs
+## Community Highlights: Chainsaw on legs
 https://www.youtube.com/watch?v=tX8VDBudtuI
 
 ### Topics

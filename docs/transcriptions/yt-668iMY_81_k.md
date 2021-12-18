@@ -1,12 +1,12 @@
 ---
-title: "March 2nd, 2021 Livestream Comunity FYI: Multiplayer is bugged"
+title: "March 2nd, 2021 Livestream Community FYI: Multiplayer is bugged"
 date: "2021-03-02"
 layout: transcript
 topics:
     - "features/multiplayer"
 ---
 # [March 2nd, 2021 Livestream](../2021-03-02.md)
-## Comunity FYI: Multiplayer is bugged
+## Community FYI: Multiplayer is bugged
 https://www.youtube.com/watch?v=668iMY_81_k
 
 ### Topics

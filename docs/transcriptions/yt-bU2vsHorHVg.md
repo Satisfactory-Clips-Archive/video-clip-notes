@@ -1,12 +1,12 @@
 ---
-title: "July 20th, 2021 Livestream Q&:A: \"Fix Jace\" has 97 votes, does it hurt that more people care about Golf?"
+title: "July 20th, 2021 Livestream Q&A: \"Fix Jace\" has 97 votes, does it hurt that more people care about Golf?"
 date: "2021-07-20"
 layout: transcript
 topics:
     - "coffee-stainers/jace/fix-jace-qa-site-posts"
 ---
 # [July 20th, 2021 Livestream](../2021-07-20.md)
-## Q&:A: "Fix Jace" has 97 votes, does it hurt that more people care about Golf?
+## Q&A: "Fix Jace" has 97 votes, does it hurt that more people care about Golf?
 https://www.youtube.com/watch?v=bU2vsHorHVg
 
 ### Topics

@@ -114,7 +114,7 @@ date: Last Modified
 * Q&A: Will there be animals that attack the base? [https://clips.twitch.tv/ProtectiveTubularCatJebaited](https://clips.twitch.tv/ProtectiveTubularCatJebaited)
 
 ## June 8th, 2020 Livestream
-* [Community Highlights - Chainsaw on legs](../../../transcriptions/yt-tX8VDBudtuI.md) [https://www.youtube.com/watch?v=tX8VDBudtuI](https://www.youtube.com/watch?v=tX8VDBudtuI)
+* [Community Highlights: Chainsaw on legs](../../../transcriptions/yt-tX8VDBudtuI.md) [https://www.youtube.com/watch?v=tX8VDBudtuI](https://www.youtube.com/watch?v=tX8VDBudtuI)
 
 ## May 15th, 2020 Q&A
 * [Q&A: What is one item or equipment that some of the staff have wanted, but got canned for balancing?](../../../transcriptions/yt-NlIVwoRqjVk,1034.8338,1062.2612.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=1034&end=1063](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=1034&end=1063)
