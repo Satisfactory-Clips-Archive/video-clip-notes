@@ -1,5 +1,5 @@
 ---
-title: "March 2nd, 2021 Livestream State of Dev - Teaser Trailer due on Friday"
+title: "March 2nd, 2021 Livestream State of Dev: Teaser Trailer due on Friday"
 date: "2021-03-02"
 layout: transcript
 topics:
@@ -7,7 +7,7 @@ topics:
     - "satisfactory-updates/teasers-and-trailers"
 ---
 # [March 2nd, 2021 Livestream](../2021-03-02.md)
-## State of Dev - Teaser Trailer due on Friday
+## State of Dev: Teaser Trailer due on Friday
 https://www.youtube.com/watch?v=E5tJZ7Yk2cI
 
 ### Topics

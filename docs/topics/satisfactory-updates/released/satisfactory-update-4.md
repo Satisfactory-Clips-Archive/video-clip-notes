@@ -184,7 +184,7 @@ date: Last Modified
 * [Q&A: How scared of you of the next Let's Game It Out video?](../../../transcriptions/yt-8sbjtuLdwbA.md) [https://www.youtube.com/watch?v=8sbjtuLdwbA](https://www.youtube.com/watch?v=8sbjtuLdwbA)
 * [Q&A: Is Plutonium Fuel Rods intended to be sunk?](../../../transcriptions/yt-VDLkcw7O-UU.md) [https://www.youtube.com/watch?v=VDLkcw7O-UU](https://www.youtube.com/watch?v=VDLkcw7O-UU)
 * [PSA: AFK Crafting](../../../transcriptions/yt-JHjGj7cJjk8.md) [https://www.youtube.com/watch?v=JHjGj7cJjk8](https://www.youtube.com/watch?v=JHjGj7cJjk8)
-* [State of Dev Recap](../../../transcriptions/yt-sWVxkv8p6Ls.md) [https://www.youtube.com/watch?v=sWVxkv8p6Ls](https://www.youtube.com/watch?v=sWVxkv8p6Ls)
+* [State of Dev: Recap](../../../transcriptions/yt-sWVxkv8p6Ls.md) [https://www.youtube.com/watch?v=sWVxkv8p6Ls](https://www.youtube.com/watch?v=sWVxkv8p6Ls)
 * [Q&A: Should I start to dismantle my Turbo Motor automation, 40 hours down the drain?](../../../transcriptions/yt-1i0dU7zYdqs.md) [https://www.youtube.com/watch?v=1i0dU7zYdqs](https://www.youtube.com/watch?v=1i0dU7zYdqs)
 * Community FYI: I've noticed that vehicles drive a lot better as the not-host [https://www.youtube.com/watch?v=VwU9RL_CvLg](https://www.youtube.com/watch?v=VwU9RL_CvLg)
 * [Q&A: Crash on load fix soon?](../../../transcriptions/yt-sZ8wWJtYzWc.md) [https://www.youtube.com/watch?v=sZ8wWJtYzWc](https://www.youtube.com/watch?v=sZ8wWJtYzWc)
@@ -221,7 +221,7 @@ date: Last Modified
 * [The Blender](../../../transcriptions/yt-Dp77ih_XmkY,185.58333333333334,195.325577.md) [https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=185&end=196](https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=185&end=196)
 * [Encased Uranium Cells now produced in the Blender](../../../transcriptions/yt-Dp77ih_XmkY,195.325577,205.875.md) [https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=195&end=206](https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=195&end=206)
 * [Plutonium](../../../transcriptions/yt-Dp77ih_XmkY,205.875,228.767243.md) [https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=205&end=229](https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=205&end=229)
-* State of Dev [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=222&end=247](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=222&end=247)
+* State of Dev: March 16th [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=222&end=247](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=222&end=247)
 * [Power Storage](../../../transcriptions/yt-Dp77ih_XmkY,259.82206,283.432566.md) [https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=259&end=284](https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=259&end=284)
 * [Power Generators are no longer Self-Regulating](../../../transcriptions/yt-Dp77ih_XmkY,283.432566,307.5833333333333.md) [https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=283&end=308](https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=283&end=308)
 * [Geothermal is getting a change, too](../../../transcriptions/yt-Dp77ih_XmkY,307.5833333333333,319.2083333333333.md) [https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=307&end=320](https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=307&end=320)
@@ -315,7 +315,7 @@ date: Last Modified
 * [Q&A: I'm on Early Access, how do I get in on this Experimental stuff?](../../../transcriptions/yt-F-q3vfj__M4,112.71260000000001,182.71586666666667.md) [https://youtube.com/embed/F-q3vfj__M4?autoplay=1&start=112&end=183](https://youtube.com/embed/F-q3vfj__M4?autoplay=1&start=112&end=183)
 
 ## February 23rd, 2021 Livestream
-* [State of Dev](../../../transcriptions/yt-ODkDsExNtl4.md) [https://www.youtube.com/watch?v=ODkDsExNtl4](https://www.youtube.com/watch?v=ODkDsExNtl4)
+* [State of Dev: February 23rd, 2021](../../../transcriptions/yt-ODkDsExNtl4.md) [https://www.youtube.com/watch?v=ODkDsExNtl4](https://www.youtube.com/watch?v=ODkDsExNtl4)
 * [Snutt & Jace Talk: State of Dev getting repetitive](../../../transcriptions/yt-odeI3OhIa6Q.md) [https://www.youtube.com/watch?v=odeI3OhIa6Q](https://www.youtube.com/watch?v=odeI3OhIa6Q)
 * [Snutt & Jace Talk: Signs are confirmed](../../../transcriptions/yt-MowmGat6MFY.md) [https://www.youtube.com/watch?v=MowmGat6MFY](https://www.youtube.com/watch?v=MowmGat6MFY)
 * [Q&A: Where did the idea of making power producers produce 100% regardless of consumption come from?](../../../transcriptions/yt-Ws0Q7X1Twx0.md) [https://www.youtube.com/watch?v=Ws0Q7X1Twx0](https://www.youtube.com/watch?v=Ws0Q7X1Twx0)
@@ -488,7 +488,7 @@ date: Last Modified
 * [Q&A: More performance updates with Update 4?](../../../transcriptions/yt--NZqqfxHzhQ.md) [https://www.youtube.com/watch?v=-NZqqfxHzhQ](https://www.youtube.com/watch?v=-NZqqfxHzhQ)
 * [Q&A: Any early release previews for the update?](../../../transcriptions/yt-o1IfznnrGgc.md) [https://www.youtube.com/watch?v=o1IfznnrGgc](https://www.youtube.com/watch?v=o1IfznnrGgc)
 * [Q&A: Is new stuff still being created for Update 4 or just polishing and bug-fixing at this point?](../../../transcriptions/yt-s_F-RlFKxzs.md) [https://www.youtube.com/watch?v=s_F-RlFKxzs](https://www.youtube.com/watch?v=s_F-RlFKxzs)
-* [State of Dev - The Blender™](../../../transcriptions/yt-XBt0OWqSRPA.md) [https://www.youtube.com/watch?v=XBt0OWqSRPA](https://www.youtube.com/watch?v=XBt0OWqSRPA)
+* [State of Dev: The Blender™](../../../transcriptions/yt-XBt0OWqSRPA.md) [https://www.youtube.com/watch?v=XBt0OWqSRPA](https://www.youtube.com/watch?v=XBt0OWqSRPA)
 * [Q&A: Update 4 Release Date](../../../transcriptions/yt-8-vsYNedzEw.md) [https://www.youtube.com/watch?v=8-vsYNedzEw](https://www.youtube.com/watch?v=8-vsYNedzEw)
 
 ## December 17th, 2020 Q&A

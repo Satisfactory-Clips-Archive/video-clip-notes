@@ -1,5 +1,5 @@
 ---
-title: "January 12th, 2021 Livestream State of Dev - FICS⁕MAS"
+title: "January 12th, 2021 Livestream State of Dev: FICS⁕MAS"
 date: "2021-01-12"
 layout: transcript
 topics:
@@ -7,7 +7,7 @@ topics:
     - "satisfactory-updates/state-of-dev"
 ---
 # [January 12th, 2021 Livestream](../2021-01-12.md)
-## State of Dev - FICS⁕MAS
+## State of Dev: FICS⁕MAS
 https://www.youtube.com/watch?v=dnkH1mqdCKI
 
 ### Topics

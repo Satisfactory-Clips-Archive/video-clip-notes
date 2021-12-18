@@ -1,5 +1,5 @@
 ---
-title: "February 23rd, 2021 Livestream State of Dev"
+title: "February 23rd, 2021 Livestream State of Dev: February 23rd, 2021"
 date: "2021-02-23"
 layout: transcript
 topics:
@@ -9,7 +9,7 @@ topics:
     - "technology/unreal-engine"
 ---
 # [February 23rd, 2021 Livestream](../2021-02-23.md)
-## State of Dev
+## State of Dev: February 23rd, 2021
 https://www.youtube.com/watch?v=ODkDsExNtl4
 
 ### Topics

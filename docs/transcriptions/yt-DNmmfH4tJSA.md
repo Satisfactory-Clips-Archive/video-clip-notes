@@ -1,5 +1,5 @@
 ---
-title: "January 12th, 2021 Livestream State of Dev - Unreal Engine Update"
+title: "January 12th, 2021 Livestream State of Dev: Unreal Engine Update"
 date: "2021-01-12"
 layout: transcript
 topics:
@@ -10,7 +10,7 @@ topics:
     - "technology/unreal-engine"
 ---
 # [January 12th, 2021 Livestream](../2021-01-12.md)
-## State of Dev - Unreal Engine Update
+## State of Dev: Unreal Engine Update
 https://www.youtube.com/watch?v=DNmmfH4tJSA
 
 ### Topics

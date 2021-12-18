@@ -1,5 +1,5 @@
 ---
-title: "January 12th, 2021 Livestream State of Dev - The Blender™"
+title: "January 12th, 2021 Livestream State of Dev: The Blender™"
 date: "2021-01-12"
 layout: transcript
 topics:
@@ -9,7 +9,7 @@ topics:
     - "satisfactory-updates/state-of-dev"
 ---
 # [January 12th, 2021 Livestream](../2021-01-12.md)
-## State of Dev - The Blender™
+## State of Dev: The Blender™
 https://www.youtube.com/watch?v=XBt0OWqSRPA
 
 ### Topics

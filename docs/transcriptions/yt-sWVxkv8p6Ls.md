@@ -1,5 +1,5 @@
 ---
-title: "March 23rd, 2021 Livestream State of Dev Recap"
+title: "March 23rd, 2021 Livestream State of Dev: Recap"
 date: "2021-03-23"
 layout: transcript
 topics:
@@ -7,7 +7,7 @@ topics:
     - "satisfactory-updates/state-of-dev"
 ---
 # [March 23rd, 2021 Livestream](../2021-03-23.md)
-## State of Dev Recap
+## State of Dev: Recap
 https://www.youtube.com/watch?v=sWVxkv8p6Ls
 
 ### Topics

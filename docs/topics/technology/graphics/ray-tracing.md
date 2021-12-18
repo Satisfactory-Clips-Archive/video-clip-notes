@@ -30,7 +30,7 @@ date: Last Modified
 * [Q&A: Is ray-trace in planning?](../../../transcriptions/yt-Rx_M6fLOzvM.md) [https://www.youtube.com/watch?v=Rx_M6fLOzvM](https://www.youtube.com/watch?v=Rx_M6fLOzvM)
 
 ## January 12th, 2021 Livestream
-* [State of Dev - Unreal Engine Update](../../../transcriptions/yt-DNmmfH4tJSA.md) [https://www.youtube.com/watch?v=DNmmfH4tJSA](https://www.youtube.com/watch?v=DNmmfH4tJSA)
+* [State of Dev: Unreal Engine Update](../../../transcriptions/yt-DNmmfH4tJSA.md) [https://www.youtube.com/watch?v=DNmmfH4tJSA](https://www.youtube.com/watch?v=DNmmfH4tJSA)
 
 ## December 15th, 2020 Livestream
 * [Q&A: Will RTX be added to Update 4 with the new Unreal Engine?](../../../transcriptions/yt-RubFX693enI.md) [https://www.youtube.com/watch?v=RubFX693enI](https://www.youtube.com/watch?v=RubFX693enI)

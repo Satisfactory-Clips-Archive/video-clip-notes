@@ -1,12 +1,12 @@
 ---
-title: "December 15th, 2020 Livestream State of Dev"
+title: "December 15th, 2020 Livestream State of Dev: December 15th, 2020"
 date: "2020-12-15"
 layout: transcript
 topics:
     - "satisfactory-updates/state-of-dev"
 ---
 # [December 15th, 2020 Livestream](../2020-12-15.md)
-## State of Dev
+## State of Dev: December 15th, 2020
 https://www.youtube.com/watch?v=bGem8CSwRlQ
 
 ### Topics

@@ -90,7 +90,7 @@ date: Last Modified
 * [Q&A: When will be the exact time for stream on March 16th?](../../transcriptions/yt-dIlHIdHxRyM.md) [https://www.youtube.com/watch?v=dIlHIdHxRyM](https://www.youtube.com/watch?v=dIlHIdHxRyM)
 
 ## March 2nd, 2021 Livestream
-* [State of Dev - Teaser Trailer due on Friday](../../transcriptions/yt-E5tJZ7Yk2cI.md) [https://www.youtube.com/watch?v=E5tJZ7Yk2cI](https://www.youtube.com/watch?v=E5tJZ7Yk2cI)
+* [State of Dev: Teaser Trailer due on Friday](../../transcriptions/yt-E5tJZ7Yk2cI.md) [https://www.youtube.com/watch?v=E5tJZ7Yk2cI](https://www.youtube.com/watch?v=E5tJZ7Yk2cI)
 * [Q&A: How's the patch notes video coming along?](../../transcriptions/yt-JSiUvQ1K00Q.md) [https://www.youtube.com/watch?v=JSiUvQ1K00Q](https://www.youtube.com/watch?v=JSiUvQ1K00Q)
 * [Q&A: Patch Notes video since Update 1?](../../transcriptions/yt-APlNumHg7ng.md) [https://www.youtube.com/watch?v=APlNumHg7ng](https://www.youtube.com/watch?v=APlNumHg7ng)
 * [Snutt & Jace Talk: We talked about the patch notes video a lot](../../transcriptions/yt-2se9JFyaCcM.md) [https://www.youtube.com/watch?v=2se9JFyaCcM](https://www.youtube.com/watch?v=2se9JFyaCcM)

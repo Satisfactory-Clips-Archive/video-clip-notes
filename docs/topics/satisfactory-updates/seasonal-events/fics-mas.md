@@ -108,7 +108,7 @@ date: Last Modified
 * [Q&A: What will Gases be used for?](../../../transcriptions/yt-Jxh8kvtUuxY,136.00253333333333,187.084505.md) [https://youtube.com/embed/Jxh8kvtUuxY?autoplay=1&start=136&end=188](https://youtube.com/embed/Jxh8kvtUuxY?autoplay=1&start=136&end=188)
 
 ## January 12th, 2021 Livestream
-* [State of Dev - FICS⁕MAS](../../../transcriptions/yt-dnkH1mqdCKI.md) [https://www.youtube.com/watch?v=dnkH1mqdCKI](https://www.youtube.com/watch?v=dnkH1mqdCKI)
+* [State of Dev: FICS⁕MAS](../../../transcriptions/yt-dnkH1mqdCKI.md) [https://www.youtube.com/watch?v=dnkH1mqdCKI](https://www.youtube.com/watch?v=dnkH1mqdCKI)
 
 ## December 17th, 2020 Q&A
 * [Q&A: Will FICS⁕MAS and seasonal events in general be a regular thing?](../../../transcriptions/yt--JXPsTlJIiI,148.11463333333333,192.3922.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=148&end=193](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=148&end=193)

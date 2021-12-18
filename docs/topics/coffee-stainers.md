@@ -199,7 +199,7 @@ date: Last Modified
 * [Q&A: Are the node purity choices usually done by a balancing or a Map team?](../transcriptions/yt-x2U3iVnWPVo.md) [https://www.youtube.com/watch?v=x2U3iVnWPVo](https://www.youtube.com/watch?v=x2U3iVnWPVo)
 
 ## February 23rd, 2021 Livestream
-* [State of Dev](../transcriptions/yt-ODkDsExNtl4.md) [https://www.youtube.com/watch?v=ODkDsExNtl4](https://www.youtube.com/watch?v=ODkDsExNtl4)
+* [State of Dev: February 23rd, 2021](../transcriptions/yt-ODkDsExNtl4.md) [https://www.youtube.com/watch?v=ODkDsExNtl4](https://www.youtube.com/watch?v=ODkDsExNtl4)
 * [Q&A: How many devs do you have?](../transcriptions/yt-Hj0nhmramiM.md) [https://www.youtube.com/watch?v=Hj0nhmramiM](https://www.youtube.com/watch?v=Hj0nhmramiM)
 * [Q&A: How many of them work on Valheim?](../transcriptions/yt-15R0t95pwvc.md) [https://www.youtube.com/watch?v=15R0t95pwvc](https://www.youtube.com/watch?v=15R0t95pwvc)
 
