@@ -1,5 +1,5 @@
 ---
-title: "May 28th, 2021 Dev Vlog Snutt & Ben Talked: Consequences of too many lights"
+title: "May 28th, 2021 Dev Vlog Snutt & Ben Talk: Consequences of too many lights"
 date: "2021-05-28"
 layout: transcript
 topics:
@@ -8,7 +8,7 @@ topics:
     - "satisfactory-updates/teasers-and-trailers/update-4-launch-trailer"
 ---
 # [May 28th, 2021 Dev Vlog](../2021-05-28.md)
-## Snutt & Ben Talked: Consequences of too many lights
+## Snutt & Ben Talk: Consequences of too many lights
 https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=783&end=809
 
 ### Topics
