@@ -185,7 +185,7 @@ date: Last Modified
 * [State of Dev: Recap](../../transcriptions/yt-sWVxkv8p6Ls.md) [https://www.youtube.com/watch?v=sWVxkv8p6Ls](https://www.youtube.com/watch?v=sWVxkv8p6Ls)
 
 ## March 16th, 2021 Livestream
-* State of Dev: March 16th [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=222&end=247](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=222&end=247)
+* State of Dev: March 16th, 2021 [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=222&end=247](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=222&end=247)
 
 ## March 9th, 2021 Livestream
 * [State of Dev: Update 4 Release date trolling](../../transcriptions/yt-9V_3E9_masw.md) [https://www.youtube.com/watch?v=9V_3E9_masw](https://www.youtube.com/watch?v=9V_3E9_masw)
