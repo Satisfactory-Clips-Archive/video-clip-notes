@@ -10,6 +10,8 @@ topics:
 # [November 17th, 2017 Introduction](../2017-11-17.md)
 ## Why would we need a Community Manager now?
 https://youtube.com/clip/UgkxYIMeUJzTWAs6GaiQM4k5e0LyeZJfhtdF
+This question was possibly replaced with a more recent answer: [March 9th, 2018 Q&A: Sanctum 3?](./yt-Zo2ybvs7keI,502.32,614.16.md) [https://youtube.com/embed/Zo2ybvs7keI?autoplay=1&start=502&end=615](https://youtube.com/embed/Zo2ybvs7keI?autoplay=1&start=502&end=615)
+
 
 ### Topics
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
