@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Community Highlights
 
+## December 24th, 2021 Video
+* [Snutt Talk: Concurrent Player Count](../../transcriptions/yt-1Tksg738sHo,87.45403333333333,105.105.md) [https://youtube.com/clip/UgkxbPABt5EJJI-Fm4acq_whSvlQsUwZ4pZH](https://youtube.com/clip/UgkxbPABt5EJJI-Fm4acq_whSvlQsUwZ4pZH)
+
 ## November 30th, 2021 Livestream
 * [Snutt & Jace Talk: z-fighting with Cosmetics](../../transcriptions/yt-5X5fNBV5Luk.md) [https://www.youtube.com/watch?v=5X5fNBV5Luk](https://www.youtube.com/watch?v=5X5fNBV5Luk)
 

@@ -24,6 +24,11 @@ date: Last Modified
 * [Vilsol](../topics/community/vilsol.md)
 * [Wiki](../topics/community/wiki.md)
 
+## December 24th, 2021 Video
+* [Snutt Talk: Concurrent Player Count](../transcriptions/yt-1Tksg738sHo,87.45403333333333,105.105.md) [https://youtube.com/clip/UgkxbPABt5EJJI-Fm4acq_whSvlQsUwZ4pZH](https://youtube.com/clip/UgkxbPABt5EJJI-Fm4acq_whSvlQsUwZ4pZH)
+* [Snutt Talk: 3 Million copies sold](../transcriptions/yt-1Tksg738sHo,105.13836666666667,160.02653333333333.md) [https://youtube.com/clip/UgkxW7wHVHO0vTl18DAvRVquDIHyoBmvutsK](https://youtube.com/clip/UgkxW7wHVHO0vTl18DAvRVquDIHyoBmvutsK)
+* [Snutt Talk: 2022](../transcriptions/yt-1Tksg738sHo,160.0599.md) [https://youtube.com/clip/UgkxFbGdaZLBR99g8iunPzTYy2wEncT59SJn](https://youtube.com/clip/UgkxFbGdaZLBR99g8iunPzTYy2wEncT59SJn)
+
 ## December 14th, 2021 Livestream
 * Snutt Talk: 2021 Retrospective [https://www.youtube.com/watch?v=4kbofImwd6Q](https://www.youtube.com/watch?v=4kbofImwd6Q)
 * [Snutt Talk: Streaming for 2021](../transcriptions/yt-lgl2itXqWNU.md) [https://www.youtube.com/watch?v=lgl2itXqWNU](https://www.youtube.com/watch?v=lgl2itXqWNU)

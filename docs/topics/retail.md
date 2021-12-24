@@ -9,6 +9,9 @@ date: Last Modified
 * [GeForce Now](../topics/retail/geforce-now.md)
 * [Steam Store](../topics/retail/steam-store.md)
 
+## December 24th, 2021 Video
+* [Snutt Talk: 3 Million copies sold](../transcriptions/yt-1Tksg738sHo,105.13836666666667,160.02653333333333.md) [https://youtube.com/clip/UgkxW7wHVHO0vTl18DAvRVquDIHyoBmvutsK](https://youtube.com/clip/UgkxW7wHVHO0vTl18DAvRVquDIHyoBmvutsK)
+
 ## November 30th, 2021 Livestream
 * [State of Dev: Satisfactory on Sale](../transcriptions/yt-DPVHQdcaDaw.md) [https://www.youtube.com/watch?v=DPVHQdcaDaw](https://www.youtube.com/watch?v=DPVHQdcaDaw)
 

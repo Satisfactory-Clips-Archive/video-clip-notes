@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Released > Satisfactory Update 4
 
+## December 24th, 2021 Video
+* [Snutt Talk: Update 4](../../../transcriptions/yt-1Tksg738sHo,18.8188,43.77706666666667.md) [https://youtube.com/clip/Ugkxv8gfJKCDZbsE2wAIflV6PTGyJKj-RUmT](https://youtube.com/clip/Ugkxv8gfJKCDZbsE2wAIflV6PTGyJKj-RUmT)
+
 ## December 14th, 2021 Livestream
 * Snutt Talk: 2021 Retrospective [https://www.youtube.com/watch?v=4kbofImwd6Q](https://www.youtube.com/watch?v=4kbofImwd6Q)
 

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Multiplayer](../../../topics/features/multiplayer.md) > Dedicated Servers
 
+## December 24th, 2021 Video
+* [Snutt Talk: Dedicated Servers](../../../transcriptions/yt-1Tksg738sHo,71.80506666666666,87.42066666666666.md) [https://youtube.com/clip/Ugkx1G11NrBAIp31SVq9Aq8qJlDtNMkhqwyF](https://youtube.com/clip/Ugkx1G11NrBAIp31SVq9Aq8qJlDtNMkhqwyF)
+
 ## December 14th, 2021 Livestream
 * [Q&A: Any plans for official partners for Dedicated Server providers?](../../../transcriptions/yt-4W-iYhHMmCE.md) [https://www.youtube.com/watch?v=4W-iYhHMmCE](https://www.youtube.com/watch?v=4W-iYhHMmCE)
 * [Snutt Talk: Dedicated Servers on Steam & Epic](../../../transcriptions/yt-B894pE07Itc.md) [https://www.youtube.com/watch?v=B894pE07Itc](https://www.youtube.com/watch?v=B894pE07Itc)

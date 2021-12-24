@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Embracer Group](../../../topics/embracer-group.md) > Coffee Stain Holding > Coffee Stain Studios
 
+## December 24th, 2021 Video
+* [Snutt Talk: 2022](../../../transcriptions/yt-1Tksg738sHo,160.0599.md) [https://youtube.com/clip/UgkxFbGdaZLBR99g8iunPzTYy2wEncT59SJn](https://youtube.com/clip/UgkxFbGdaZLBR99g8iunPzTYy2wEncT59SJn)
+
 ## December 14th, 2021 Livestream
 * [Q&A: Any plans for official partners for Dedicated Server providers?](../../../transcriptions/yt-4W-iYhHMmCE.md) [https://www.youtube.com/watch?v=4W-iYhHMmCE](https://www.youtube.com/watch?v=4W-iYhHMmCE)
 * [Q&A: Do you take any interns at Coffee Stain?](../../../transcriptions/yt-6Wett6BcKU0.md) [https://www.youtube.com/watch?v=6Wett6BcKU0](https://www.youtube.com/watch?v=6Wett6BcKU0)
