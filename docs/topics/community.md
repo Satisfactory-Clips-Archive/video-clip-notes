@@ -24,6 +24,13 @@ date: Last Modified
 * [Vilsol](../topics/community/vilsol.md)
 * [Wiki](../topics/community/wiki.md)
 
+## January 21st, 2022 Video
+* [Jace Talk: Satisfactory Constructor Lego](../transcriptions/yt-t7pRHznihEA,53.229233,106.33956666666667.md) [https://youtube.com/embed/t7pRHznihEA?autoplay=1&start=53&end=107](https://youtube.com/embed/t7pRHznihEA?autoplay=1&start=53&end=107)
+
+## January 18th, 2022 Livestream
+* [State of Dev](../transcriptions/yt-BUUTQF6yW_c.md) [https://www.youtube.com/watch?v=BUUTQF6yW_c](https://www.youtube.com/watch?v=BUUTQF6yW_c)
+* [Q&A: Do you have problems with someone leak secret things from the game?](../transcriptions/yt-FEYF_0Iq4h0.md) [https://www.youtube.com/watch?v=FEYF_0Iq4h0](https://www.youtube.com/watch?v=FEYF_0Iq4h0)
+
 ## December 24th, 2021 Video
 * [Snutt Talk: Concurrent Player Count](../transcriptions/yt-1Tksg738sHo,87.45403333333333,105.105.md) [https://youtube.com/clip/UgkxbPABt5EJJI-Fm4acq_whSvlQsUwZ4pZH](https://youtube.com/clip/UgkxbPABt5EJJI-Fm4acq_whSvlQsUwZ4pZH)
 * [Snutt Talk: 3 Million copies sold](../transcriptions/yt-1Tksg738sHo,105.13836666666667,160.02653333333333.md) [https://youtube.com/clip/UgkxW7wHVHO0vTl18DAvRVquDIHyoBmvutsK](https://youtube.com/clip/UgkxW7wHVHO0vTl18DAvRVquDIHyoBmvutsK)

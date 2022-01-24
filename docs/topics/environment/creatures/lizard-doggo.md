@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Creatures](../../../topics/environment/creatures.md) > Lizard Doggo
 
+## January 18th, 2022 Livestream
+* [Q&A: Speaking of Lizzard Doggo, when are we going to get Lizard Doggo Simulator?](../../../transcriptions/yt--_QFGvE0h0I.md) [https://www.youtube.com/watch?v=-_QFGvE0h0I](https://www.youtube.com/watch?v=-_QFGvE0h0I)
+
 ## December 7th, 2021 Livestream
 * [Q&A: Will the Reindeer Doggo get added to the Press Kit?](../../../transcriptions/yt-46ar-d1IahE.md) [https://www.youtube.com/watch?v=46ar-d1IahE](https://www.youtube.com/watch?v=46ar-d1IahE)
 

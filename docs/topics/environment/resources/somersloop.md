@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Resources](../../../topics/environment/resources.md) > Somersloop
 
+## January 18th, 2022 Livestream
+* [Q&A: Somersloops, anything to do with them?](../../../transcriptions/yt-wTRtgWh6gmA.md) [https://www.youtube.com/watch?v=wTRtgWh6gmA](https://www.youtube.com/watch?v=wTRtgWh6gmA)
+
 ## November 9th, 2021 Livestream
 * [Q&A: Can you tell us the purpose of the Mercer Sphere and Somersloop?](../../../transcriptions/yt-nZsSk1ftKZk.md) [https://www.youtube.com/watch?v=nZsSk1ftKZk](https://www.youtube.com/watch?v=nZsSk1ftKZk)
 * [Q&A: Why is [Paternal Figure] so insistent on us collecting those when we can't use them?](../../../transcriptions/yt-9aIHAk5luq8.md) [https://www.youtube.com/watch?v=9aIHAk5luq8](https://www.youtube.com/watch?v=9aIHAk5luq8)

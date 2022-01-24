@@ -11,6 +11,9 @@ date: Last Modified
 * [Resources](../topics/environment/resources.md)
 * [World Map](../topics/environment/world-map.md)
 
+## January 18th, 2022 Livestream
+* [Q&A: Can we get rid of poison rocks?](../transcriptions/yt-yQfU5GLx4eM.md) [https://www.youtube.com/watch?v=yQfU5GLx4eM](https://www.youtube.com/watch?v=yQfU5GLx4eM)
+
 ## December 14th, 2021 Livestream
 * [Q&A: Whose brilliant idea was it to stick Uranium on top of a pillar that's the tallest in the area?](../transcriptions/yt-aSULg4OecOk.md) [https://www.youtube.com/watch?v=aSULg4OecOk](https://www.youtube.com/watch?v=aSULg4OecOk)
 

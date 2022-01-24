@@ -9,7 +9,7 @@ topics:
 # [June 8th, 2021 Livestream](../2021-06-08.md)
 ## Q&A: Please, teleporters?
 https://www.youtube.com/watch?v=dNPT8HQ3qRk
-This question was possibly duplicated with a more recent answer: [August 24th, 2021 Livestream Q&A: Will there ever be teleportation?](./yt-XeUtzOBJhrA.md) [https://www.youtube.com/watch?v=XeUtzOBJhrA](https://www.youtube.com/watch?v=XeUtzOBJhrA)
+This question was possibly duplicated with a more recent answer: [January 18th, 2022 Livestream Q&A: Will we see Teleportation in the future of Satisfactory?](./yt-tg6iemNxFAM.md) [https://www.youtube.com/watch?v=tg6iemNxFAM](https://www.youtube.com/watch?v=tg6iemNxFAM)
 
 
 ### Topics

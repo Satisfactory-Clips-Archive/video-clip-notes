@@ -9,6 +9,8 @@ topics:
 # [June 15th, 2021 Livestream](../2021-06-15.md)
 ## Q&A: When do the microtransactions and DLC packs start?
 https://www.youtube.com/watch?v=V2cOLLcElBI
+This question was possibly duplicated with a more recent answer: [January 18th, 2022 Livestream Q&A: Any plans for DLC & cosmetic purchases?](./yt-pvWgfvIrHDA.md) [https://www.youtube.com/watch?v=pvWgfvIrHDA](https://www.youtube.com/watch?v=pvWgfvIrHDA)
+
 
 ### Topics
 * [Features > Possible Features > DLC](../topics/features/possible-features/dlc.md)

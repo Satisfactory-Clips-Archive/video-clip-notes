@@ -7,6 +7,9 @@ date: Last Modified
 * [Flushable Toilet DLC](../../../topics/features/possible-features/dlc/flushable-toilet-dlc.md)
 * [Toilet Paper DLC](../../../topics/features/possible-features/dlc/toilet-paper-dlc.md)
 
+## January 18th, 2022 Livestream
+* [Q&A: Any plans for DLC & cosmetic purchases?](../../../transcriptions/yt-pvWgfvIrHDA.md) [https://www.youtube.com/watch?v=pvWgfvIrHDA](https://www.youtube.com/watch?v=pvWgfvIrHDA)
+
 ## August 24th, 2021 Livestream
 * [Community FYI: Second Map would be a legit DLC further down the line](../../../transcriptions/yt-W-RuXFHE29E.md) [https://www.youtube.com/watch?v=W-RuXFHE29E](https://www.youtube.com/watch?v=W-RuXFHE29E)
 

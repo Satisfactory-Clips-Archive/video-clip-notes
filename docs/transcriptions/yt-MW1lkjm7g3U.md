@@ -9,7 +9,7 @@ topics:
 # [June 29th, 2021 Livestream](../2021-06-29.md)
 ## Q&A: Will there be a proper use for the toilet in The HUB one day?
 https://www.youtube.com/watch?v=MW1lkjm7g3U
-This question was possibly duplicated with a more recent answer: September 21st, 2021 Livestream Q&A: Toilet Flush DLC? [https://www.youtube.com/watch?v=BTl-L9494v0](https://www.youtube.com/watch?v=BTl-L9494v0)
+This question was possibly duplicated with a more recent answer: [January 18th, 2022 Livestream Q&A: So when is the Toilet DLC coming out?](./yt-64PsGrL-jfw.md) [https://www.youtube.com/watch?v=64PsGrL-jfw](https://www.youtube.com/watch?v=64PsGrL-jfw)
 
 
 ### Topics

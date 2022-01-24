@@ -8,7 +8,7 @@ topics:
 # [January 26th, 2021 Livestream](../2021-01-26.md)
 ## Q&A: Are we going to increase the limit of only having 4 players per game?
 https://www.youtube.com/watch?v=9Fe7lcAQx9I
-This question was possibly duplicated with a more recent answer: March 16th, 2021 Livestream Q&A: Will 4 players be the limit? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=5809&end=5841](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=5809&end=5841)
+This question was possibly duplicated with a more recent answer: [January 18th, 2022 Livestream Q&A: Why is max supported players 4 and not 6 or 8?](./yt-rjVpNwIC6WU.md) [https://www.youtube.com/watch?v=rjVpNwIC6WU](https://www.youtube.com/watch?v=rjVpNwIC6WU)
 
 
 ### Topics

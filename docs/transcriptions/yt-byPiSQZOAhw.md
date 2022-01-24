@@ -9,7 +9,7 @@ topics:
 # [December 19th, 2019 Livestream](../2019-12-19.md)
 ## Q&A: Is there going to be a way to destroy the fart rock?
 https://www.youtube.com/watch?v=byPiSQZOAhw
-This question was possibly duplicated with a more recent answer: [May 25th, 2021 Livestream Q&A: Can we use Poison Gas in some way?](./yt-zjpwvKcY2ss.md) [https://www.youtube.com/watch?v=zjpwvKcY2ss](https://www.youtube.com/watch?v=zjpwvKcY2ss)
+This question was possibly duplicated with a more recent answer: [January 18th, 2022 Livestream Q&A: Can we get rid of poison rocks?](./yt-yQfU5GLx4eM.md) [https://www.youtube.com/watch?v=yQfU5GLx4eM](https://www.youtube.com/watch?v=yQfU5GLx4eM)
 
 
 ### Topics

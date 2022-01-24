@@ -9,6 +9,9 @@ date: Last Modified
 * [Jace Art](../../topics/coffee-stainers/jace/jace-art.md)
 * [Juice Velvet](../../topics/coffee-stainers/jace/juice-velvet.md)
 
+## January 18th, 2022 Livestream
+* [Q&A: Will there be a playthrough by you when the game comes out?](../../transcriptions/yt-cZqd0Qiq38E.md) [https://www.youtube.com/watch?v=cZqd0Qiq38E](https://www.youtube.com/watch?v=cZqd0Qiq38E)
+
 ## December 7th, 2021 Livestream
 * Community FYI: Just like Jace said our saves wouldn't break [https://www.youtube.com/watch?v=P6neyP9QX94](https://www.youtube.com/watch?v=P6neyP9QX94)
 

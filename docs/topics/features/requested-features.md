@@ -12,6 +12,12 @@ date: Last Modified
 * [Pollution](../../topics/features/requested-features/pollution.md)
 * [Third-person View](../../topics/features/requested-features/third-person-view.md)
 
+## January 18th, 2022 Livestream
+* [Q&A: Will we see Teleportation in the future of Satisfactory?](../../transcriptions/yt-tg6iemNxFAM.md) [https://www.youtube.com/watch?v=tg6iemNxFAM](https://www.youtube.com/watch?v=tg6iemNxFAM)
+* [Q&A: Jace, why can't we have two people in the Vehicles?](../../transcriptions/yt-HcTmSD0xDhA.md) [https://www.youtube.com/watch?v=HcTmSD0xDhA](https://www.youtube.com/watch?v=HcTmSD0xDhA)
+* [Q&A: Have the team been looking at an in-game planning tab?](../../transcriptions/yt-W02gtUdK6bI.md) [https://www.youtube.com/watch?v=W02gtUdK6bI](https://www.youtube.com/watch?v=W02gtUdK6bI)
+* [Q&A: When are we going to see placeable Wall Conveyor holes?](../../transcriptions/yt-sKqIciW-TVQ.md) [https://www.youtube.com/watch?v=sKqIciW-TVQ](https://www.youtube.com/watch?v=sKqIciW-TVQ)
+
 ## December 14th, 2021 Livestream
 * [Q&A: Can we have revolving signs?](../../transcriptions/yt-uEZ43YHhaRY.md) [https://www.youtube.com/watch?v=uEZ43YHhaRY](https://www.youtube.com/watch?v=uEZ43YHhaRY)
 * [Q&A: Five-input machine that makes Coffee?](../../transcriptions/yt-sgGhUaNdoZk.md) [https://www.youtube.com/watch?v=sgGhUaNdoZk](https://www.youtube.com/watch?v=sgGhUaNdoZk)

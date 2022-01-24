@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > Possible Features > Character Customisation
 
+## January 18th, 2022 Livestream
+* [Q&A: Any plans for DLC & cosmetic purchases?](../../../transcriptions/yt-pvWgfvIrHDA.md) [https://www.youtube.com/watch?v=pvWgfvIrHDA](https://www.youtube.com/watch?v=pvWgfvIrHDA)
+
 ## November 9th, 2021 Livestream
 * Q&A: Can I use the Customizer on myself? [https://www.youtube.com/watch?v=n1Y_di8jDpY](https://www.youtube.com/watch?v=n1Y_di8jDpY)
 

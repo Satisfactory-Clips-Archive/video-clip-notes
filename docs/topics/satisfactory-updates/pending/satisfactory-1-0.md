@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Pending > Satisfactory 1.0
 
+## January 18th, 2022 Livestream
+* [Q&A: Will there be a playthrough by you when the game comes out?](../../../transcriptions/yt-cZqd0Qiq38E.md) [https://www.youtube.com/watch?v=cZqd0Qiq38E](https://www.youtube.com/watch?v=cZqd0Qiq38E)
+
 ## December 14th, 2021 Livestream
 * [Q&A: How much stuff are you holding back for 1.0?](../../../transcriptions/yt-q3ix1iH1YC8.md) [https://www.youtube.com/watch?v=q3ix1iH1YC8](https://www.youtube.com/watch?v=q3ix1iH1YC8)
 

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Fluids](../../../topics/features/fluids.md) > Pipes
 
+## January 18th, 2022 Livestream
+* [Q&A: Any idea when Pipes will be fixed?](../../../transcriptions/yt-NyhQ5YEDFpw.md) [https://www.youtube.com/watch?v=NyhQ5YEDFpw](https://www.youtube.com/watch?v=NyhQ5YEDFpw)
+
 ## November 9th, 2021 Livestream
 * [Q&A: How does Water work, I need help with my Coal Generators?](../../../transcriptions/yt-Lgaj7mVtT8I.md) [https://www.youtube.com/watch?v=Lgaj7mVtT8I](https://www.youtube.com/watch?v=Lgaj7mVtT8I)
 

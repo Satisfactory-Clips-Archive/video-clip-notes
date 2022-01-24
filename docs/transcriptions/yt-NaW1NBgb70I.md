@@ -9,7 +9,7 @@ topics:
 # [August 31st, 2021 Livestream](../2021-08-31.md)
 ## Q&A: Could we use the Dedicated Servers with Docker?
 https://www.youtube.com/watch?v=NaW1NBgb70I
-This question was possibly duplicated with a more recent answer: [November 9th, 2021 Livestream Q&A: Official Docker, when?](./yt-BeXedaj-qHA.md) [https://www.youtube.com/watch?v=BeXedaj-qHA](https://www.youtube.com/watch?v=BeXedaj-qHA)
+This question was possibly duplicated with a more recent answer: [January 18th, 2022 Livestream Q&A: What's the status of Docker images?](./yt-dP8lKBJ8ZQE.md) [https://www.youtube.com/watch?v=dP8lKBJ8ZQE](https://www.youtube.com/watch?v=dP8lKBJ8ZQE)
 
 
 ### Topics

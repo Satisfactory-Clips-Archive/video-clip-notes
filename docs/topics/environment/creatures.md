@@ -10,6 +10,9 @@ date: Last Modified
 * [Non Flying Bird](../../topics/environment/creatures/non-flying-bird.md)
 * [Space Giraffe-Tick-Penguin-Whale Thing](../../topics/environment/creatures/space-giraffe-tick-penguin-whale-thing.md)
 
+## January 18th, 2022 Livestream
+* [Q&A: Horses, when?](../../transcriptions/yt-BLYn8kETMNc.md) [https://www.youtube.com/watch?v=BLYn8kETMNc](https://www.youtube.com/watch?v=BLYn8kETMNc)
+
 ## December 14th, 2021 Livestream
 * [Q&A: Is it possible to add hostile insects and guns?](../../transcriptions/yt-xWLxmxLsoZY.md) [https://www.youtube.com/watch?v=xWLxmxLsoZY](https://www.youtube.com/watch?v=xWLxmxLsoZY)
 * Q&A: Rideable Spiders? [https://www.youtube.com/watch?v=k32-KotmyiI](https://www.youtube.com/watch?v=k32-KotmyiI)

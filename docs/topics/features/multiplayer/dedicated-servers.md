@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Multiplayer](../../../topics/features/multiplayer.md) > Dedicated Servers
 
+## January 18th, 2022 Livestream
+* [Q&A: What's the status of Docker images?](../../../transcriptions/yt-dP8lKBJ8ZQE.md) [https://www.youtube.com/watch?v=dP8lKBJ8ZQE](https://www.youtube.com/watch?v=dP8lKBJ8ZQE)
+
 ## December 24th, 2021 Video
 * [Snutt Talk: Dedicated Servers](../../../transcriptions/yt-1Tksg738sHo,71.80506666666666,87.42066666666666.md) [https://youtube.com/clip/Ugkx1G11NrBAIp31SVq9Aq8qJlDtNMkhqwyF](https://youtube.com/clip/Ugkx1G11NrBAIp31SVq9Aq8qJlDtNMkhqwyF)
 

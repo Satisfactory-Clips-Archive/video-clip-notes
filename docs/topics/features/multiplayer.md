@@ -7,6 +7,10 @@ date: Last Modified
 * [Crossplay](../../topics/features/multiplayer/crossplay.md)
 * [Dedicated Servers](../../topics/features/multiplayer/dedicated-servers.md)
 
+## January 18th, 2022 Livestream
+* [Q&A: Why is max supported players 4 and not 6 or 8?](../../transcriptions/yt-rjVpNwIC6WU.md) [https://www.youtube.com/watch?v=rjVpNwIC6WU](https://www.youtube.com/watch?v=rjVpNwIC6WU)
+* [Q&A: So it's more about game balancing?](../../transcriptions/yt-uOptzi0X0jY.md) [https://www.youtube.com/watch?v=uOptzi0X0jY](https://www.youtube.com/watch?v=uOptzi0X0jY)
+
 ## December 7th, 2021 Livestream
 * [Q&A: What happens if someone tries to join during an Autosave pause?](../../transcriptions/yt-cTUuoRyw6EI.md) [https://www.youtube.com/watch?v=cTUuoRyw6EI](https://www.youtube.com/watch?v=cTUuoRyw6EI)
 * [Q&A: Why is the Dedicated Server player limited to 4 officially?](../../transcriptions/yt-GSH-RxjtHRE.md) [https://www.youtube.com/watch?v=GSH-RxjtHRE](https://www.youtube.com/watch?v=GSH-RxjtHRE)

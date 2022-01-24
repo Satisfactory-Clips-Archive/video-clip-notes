@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Seasonal Events](../../../topics/satisfactory-updates/seasonal-events.md) > FICS⁕MAS
 
+## January 18th, 2022 Livestream
+* [Snutt & Jace Talk: FICS⁕MAS ends](../../../transcriptions/yt-7UyASsk2vTs.md) [https://www.youtube.com/watch?v=7UyASsk2vTs](https://www.youtube.com/watch?v=7UyASsk2vTs)
+* [Snutt & Jace Talk: Get FICS⁕MAS back with time travel](../../../transcriptions/yt-7Gq_HUiPDUY.md) [https://www.youtube.com/watch?v=7Gq_HUiPDUY](https://www.youtube.com/watch?v=7Gq_HUiPDUY)
+
 ## December 14th, 2021 Livestream
 * Snutt Talk: 2021 Retrospective [https://www.youtube.com/watch?v=4kbofImwd6Q](https://www.youtube.com/watch?v=4kbofImwd6Q)
 * [Q&A: I've been unable to find the FICS⁕MAS skins, where do you find them?](../../../transcriptions/yt-OPTD-DT5Ews.md) [https://www.youtube.com/watch?v=OPTD-DT5Ews](https://www.youtube.com/watch?v=OPTD-DT5Ews)

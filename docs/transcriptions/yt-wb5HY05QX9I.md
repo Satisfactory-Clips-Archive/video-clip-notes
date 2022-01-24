@@ -8,7 +8,7 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Do you want to support more than 4 people?
 https://www.youtube.com/watch?v=wb5HY05QX9I
-This question was possibly duplicated with a more recent answer: March 16th, 2021 Livestream Q&A: Will 4 players be the limit? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=5809&end=5841](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=5809&end=5841)
+This question was possibly duplicated with a more recent answer: [January 18th, 2022 Livestream Q&A: Why is max supported players 4 and not 6 or 8?](./yt-rjVpNwIC6WU.md) [https://www.youtube.com/watch?v=rjVpNwIC6WU](https://www.youtube.com/watch?v=rjVpNwIC6WU)
 
 
 ### Topics

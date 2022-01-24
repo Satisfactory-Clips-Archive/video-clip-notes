@@ -18,6 +18,13 @@ date: Last Modified
 * [Teasers & Trailers](../topics/satisfactory-updates/teasers-and-trailers.md)
 * [World Update](../topics/satisfactory-updates/world-update.md)
 
+## January 21st, 2022 Video
+* [Jace Talk: Planning Update 6 and beyond](../transcriptions/yt-t7pRHznihEA,106.37293333333334,194.29410000000001.md) [https://youtube.com/embed/t7pRHznihEA?autoplay=1&start=106&end=195](https://youtube.com/embed/t7pRHznihEA?autoplay=1&start=106&end=195)
+
+## January 18th, 2022 Livestream
+* [Q&A: Do you have problems with someone leak secret things from the game?](../transcriptions/yt-FEYF_0Iq4h0.md) [https://www.youtube.com/watch?v=FEYF_0Iq4h0](https://www.youtube.com/watch?v=FEYF_0Iq4h0)
+* [Q&A: Put out a roadmap that's just "troll community, release update, troll community"?](../transcriptions/yt-yOLvvuiPGyQ.md) [https://www.youtube.com/watch?v=yOLvvuiPGyQ](https://www.youtube.com/watch?v=yOLvvuiPGyQ)
+
 ## December 14th, 2021 Livestream
 * [Q&A: How many more Updates are planned?](../transcriptions/yt-94UgcPML6FI.md) [https://www.youtube.com/watch?v=94UgcPML6FI](https://www.youtube.com/watch?v=94UgcPML6FI)
 * [Q&A: Will there be a patch during holidays?](../transcriptions/yt-UZODHZXKbh0.md) [https://www.youtube.com/watch?v=UZODHZXKbh0](https://www.youtube.com/watch?v=UZODHZXKbh0)

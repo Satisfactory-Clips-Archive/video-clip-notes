@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > Satisfactory Prototypes
 
+## January 18th, 2022 Livestream
+* [Q&A: Will we see Teleportation in the future of Satisfactory?](../../transcriptions/yt-tg6iemNxFAM.md) [https://www.youtube.com/watch?v=tg6iemNxFAM](https://www.youtube.com/watch?v=tg6iemNxFAM)
+
 ## August 31st, 2021 Livestream
 * [Q&A: When did pre-production start for Satisfactory?](../../transcriptions/yt-RS54ebmULag.md) [https://www.youtube.com/watch?v=RS54ebmULag](https://www.youtube.com/watch?v=RS54ebmULag)
 

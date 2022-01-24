@@ -8,7 +8,7 @@ topics:
 # [September 14th, 2021 Livestream](../2021-09-14.md)
 ## Q&A: Why can we not put a second person in the Buggy?
 https://www.youtube.com/watch?v=7k7lIdyQBvQ
-This question was possibly duplicated with a more recent answer: [November 9th, 2021 Livestream Q&A: Two Pioneers in one car?](./yt-Btds0y7oaoE.md) [https://www.youtube.com/watch?v=Btds0y7oaoE](https://www.youtube.com/watch?v=Btds0y7oaoE)
+This question was possibly duplicated with a more recent answer: [January 18th, 2022 Livestream Q&A: Jace, why can't we have two people in the Vehicles?](./yt-HcTmSD0xDhA.md) [https://www.youtube.com/watch?v=HcTmSD0xDhA](https://www.youtube.com/watch?v=HcTmSD0xDhA)
 
 
 ### Topics

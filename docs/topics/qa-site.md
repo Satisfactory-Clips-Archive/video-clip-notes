@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > QA Site
 
+## January 18th, 2022 Livestream
+* [Snutt & Jace Talk: Horse Armour QA Site post](../transcriptions/yt-W8hAorUGO54.md) [https://www.youtube.com/watch?v=W8hAorUGO54](https://www.youtube.com/watch?v=W8hAorUGO54)
+
 ## December 14th, 2021 Livestream
 * [Community FYI: I joined the discord, but couldn't find the suggestions section](../transcriptions/yt-wCCzv8kDEKg.md) [https://www.youtube.com/watch?v=wCCzv8kDEKg](https://www.youtube.com/watch?v=wCCzv8kDEKg)
 * [Q&A: Found an annoying bug that was reported 2 years ago already, do I make a new post?](../transcriptions/yt-RnS8tAhQGWI.md) [https://www.youtube.com/watch?v=RnS8tAhQGWI](https://www.youtube.com/watch?v=RnS8tAhQGWI)

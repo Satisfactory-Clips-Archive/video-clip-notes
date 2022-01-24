@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > Possible Features > [DLC](../../../../topics/features/possible-features/dlc.md) > Flushable Toilet DLC
 
+## January 18th, 2022 Livestream
+* [Q&A: So when is the Toilet DLC coming out?](../../../../transcriptions/yt-64PsGrL-jfw.md) [https://www.youtube.com/watch?v=64PsGrL-jfw](https://www.youtube.com/watch?v=64PsGrL-jfw)
+
 ## November 30th, 2021 Livestream
 * [Q&A: Any comment on the leaked Toilet Flush DLC from Andrew?](../../../../transcriptions/yt-K2KL5Aaf9Do.md) [https://www.youtube.com/watch?v=K2KL5Aaf9Do](https://www.youtube.com/watch?v=K2KL5Aaf9Do)
 

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > The HUB
 
+## January 18th, 2022 Livestream
+* [Q&A: When will you update the HUB?](../../../transcriptions/yt-T4jtXQz63o8.md) [https://www.youtube.com/watch?v=T4jtXQz63o8](https://www.youtube.com/watch?v=T4jtXQz63o8)
+
 ## December 7th, 2021 Livestream
 * [Q&A: Any plans for future mini-games after FICS⁕MAS one?](../../../transcriptions/yt-9ooCtzONZJE.md) [https://www.youtube.com/watch?v=9ooCtzONZJE](https://www.youtube.com/watch?v=9ooCtzONZJE)
 

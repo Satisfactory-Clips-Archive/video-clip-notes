@@ -7,6 +7,9 @@ date: Last Modified
 * [Cheatcrete](../../../topics/features/buildables/foundations/cheatcrete.md)
 * [Foundation Stencils](../../../topics/features/buildables/foundations/stencils.md)
 
+## January 18th, 2022 Livestream
+* [Q&A: Will we get industrial railing on ramps at some point?](../../../transcriptions/yt-Pmmw1JT8sEQ.md) [https://www.youtube.com/watch?v=Pmmw1JT8sEQ](https://www.youtube.com/watch?v=Pmmw1JT8sEQ)
+
 ## December 14th, 2021 Livestream
 * [Q&A: Any chance on being able to use the new Materials on U-shaped Foundations?](../../../transcriptions/yt-ORd4hZlYajw.md) [https://www.youtube.com/watch?v=ORd4hZlYajw](https://www.youtube.com/watch?v=ORd4hZlYajw)
 

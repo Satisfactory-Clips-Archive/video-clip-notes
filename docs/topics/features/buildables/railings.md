@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildables](../../../topics/features/buildables.md) > Railings
 
+## January 18th, 2022 Livestream
+* [Q&A: Will we get industrial railing on ramps at some point?](../../../transcriptions/yt-Pmmw1JT8sEQ.md) [https://www.youtube.com/watch?v=Pmmw1JT8sEQ](https://www.youtube.com/watch?v=Pmmw1JT8sEQ)
+
 ## November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary
 * [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 21)](../../../transcriptions/yt-V26cfhOb7_4.md) [https://www.youtube.com/watch?v=V26cfhOb7_4](https://www.youtube.com/watch?v=V26cfhOb7_4)
 

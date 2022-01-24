@@ -7,6 +7,11 @@ date: Last Modified
 * [Snutt Burger Time](../../topics/coffee-stainers/snutt/snutt-burger-time.md)
 * [Snutty Mays](../../topics/coffee-stainers/snutt/snutty-mays.md)
 
+## January 18th, 2022 Livestream
+* [Q&A: Snutt shave, when?](../../transcriptions/yt-rSg_59Lj_mo.md) [https://www.youtube.com/watch?v=rSg_59Lj_mo](https://www.youtube.com/watch?v=rSg_59Lj_mo)
+* [Q&A: What has Snutt leaked?](../../transcriptions/yt-2Z9tfylzDzA.md) [https://www.youtube.com/watch?v=2Z9tfylzDzA](https://www.youtube.com/watch?v=2Z9tfylzDzA)
+* [Q&A: Will there be a playthrough by you when the game comes out?](../../transcriptions/yt-cZqd0Qiq38E.md) [https://www.youtube.com/watch?v=cZqd0Qiq38E](https://www.youtube.com/watch?v=cZqd0Qiq38E)
+
 ## December 14th, 2021 Livestream
 * [Q&A: Get a pop filter?](../../transcriptions/yt-LQhwCnBXf_M.md) [https://www.youtube.com/watch?v=LQhwCnBXf_M](https://www.youtube.com/watch?v=LQhwCnBXf_M)
 * [Q&A: Snutt, what would you like for FICS⁕MAS?](../../transcriptions/yt-SmWm5H4JRT0.md) [https://www.youtube.com/watch?v=SmWm5H4JRT0](https://www.youtube.com/watch?v=SmWm5H4JRT0)

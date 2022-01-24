@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Wiki
 
+## January 18th, 2022 Livestream
+* [Q&A: Where is your focus for Update 6?](../../transcriptions/yt-a-L9c5HwpqQ.md) [https://www.youtube.com/watch?v=a-L9c5HwpqQ](https://www.youtube.com/watch?v=a-L9c5HwpqQ)
+
 ## November 9th, 2021 Livestream
 * [Q&A: Step-by-step instructions on the wiki for using SteamCMD?](../../transcriptions/yt-8gpbrdseKwg.md) [https://www.youtube.com/watch?v=8gpbrdseKwg](https://www.youtube.com/watch?v=8gpbrdseKwg)
 

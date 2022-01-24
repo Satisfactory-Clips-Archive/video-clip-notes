@@ -8,6 +8,8 @@ topics:
 # [October 5th, 2021 Livestream](../2021-10-05.md)
 ## Q&A: Bring back beardless Snutt?
 https://www.youtube.com/watch?v=2Deg1HJzcZ4
+This question was possibly duplicated with a more recent answer: [January 18th, 2022 Livestream Q&A: Snutt shave, when?](./yt-rSg_59Lj_mo.md) [https://www.youtube.com/watch?v=rSg_59Lj_mo](https://www.youtube.com/watch?v=rSg_59Lj_mo)
+
 
 ### Topics
 * [Coffee Stainers > Snutt](../topics/coffee-stainers/snutt.md)

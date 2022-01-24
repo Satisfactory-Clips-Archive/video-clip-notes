@@ -20,6 +20,10 @@ date: Last Modified
 * [The Cycle](../topics/off-topic/the-cycle.md)
 * [Valheim](../topics/off-topic/valheim.md)
 
+## January 18th, 2022 Livestream
+* [Snutt & Jace Talk: Days of the week](../transcriptions/yt-ODnLbeWKuWE.md) [https://www.youtube.com/watch?v=ODnLbeWKuWE](https://www.youtube.com/watch?v=ODnLbeWKuWE)
+* [Q&A: Have you had any calls from Phil Spencer offering you a large amount of money?](../transcriptions/yt--en4ixfGTtQ.md) [https://www.youtube.com/watch?v=-en4ixfGTtQ](https://www.youtube.com/watch?v=-en4ixfGTtQ)
+
 ## November 30th, 2021 Livestream
 * [Snutt & Jace Talk: Gaming acronyms](../transcriptions/yt-2fibysKQt5A.md) [https://www.youtube.com/watch?v=2fibysKQt5A](https://www.youtube.com/watch?v=2fibysKQt5A)
 * [Snutt & Jace Talk: Handball](../transcriptions/yt-2oM0G2HMZPI.md) [https://www.youtube.com/watch?v=2oM0G2HMZPI](https://www.youtube.com/watch?v=2oM0G2HMZPI)

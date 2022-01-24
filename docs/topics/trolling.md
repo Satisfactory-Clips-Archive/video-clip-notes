@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Trolling
 
+## January 18th, 2022 Livestream
+* [Q&A: Put out a roadmap that's just "troll community, release update, troll community"?](../transcriptions/yt-yOLvvuiPGyQ.md) [https://www.youtube.com/watch?v=yOLvvuiPGyQ](https://www.youtube.com/watch?v=yOLvvuiPGyQ)
+
 ## November 23rd, 2021 Livestream
 * [Trolling: Golf is in Patch Notes](../transcriptions/yt-iVDRQg_aWpU,1081.7999333518518,1089.961643.md) [https://youtube.com/clip/UgkxlApmn76Rq_kH0dGYjDKWysApMOUxCjr_](https://youtube.com/clip/UgkxlApmn76Rq_kH0dGYjDKWysApMOUxCjr_)
 

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Features](../../topics/features.md) > Roadmap
 
+## January 18th, 2022 Livestream
+* [Q&A: Put out a roadmap that's just "troll community, release update, troll community"?](../../transcriptions/yt-yOLvvuiPGyQ.md) [https://www.youtube.com/watch?v=yOLvvuiPGyQ](https://www.youtube.com/watch?v=yOLvvuiPGyQ)
+
 ## December 7th, 2021 Livestream
 * Q&A: Do you have a roadmap? [https://www.youtube.com/watch?v=zliKUqsPvEc](https://www.youtube.com/watch?v=zliKUqsPvEc)
 

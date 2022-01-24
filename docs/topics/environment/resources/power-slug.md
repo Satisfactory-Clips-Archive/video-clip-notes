@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Resources](../../../topics/environment/resources.md) > Power Slug
 
+## January 18th, 2022 Livestream
+* [Q&A: Any update on the Slugs bug?](../../../transcriptions/yt-HXO3vmkK0X0.md) [https://www.youtube.com/watch?v=HXO3vmkK0X0](https://www.youtube.com/watch?v=HXO3vmkK0X0)
+
 ## December 7th, 2021 Livestream
 * [Q&A: Are the Power Shards working well, or are they bugged?](../../../transcriptions/yt-LoQRxymlI4A.md) [https://www.youtube.com/watch?v=LoQRxymlI4A](https://www.youtube.com/watch?v=LoQRxymlI4A)
 

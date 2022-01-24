@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Requested Features](../../../topics/features/requested-features.md) > Crossovers
 
+## January 18th, 2022 Livestream
+* [Q&A: Speaking of Lizzard Doggo, when are we going to get Lizard Doggo Simulator?](../../../transcriptions/yt--_QFGvE0h0I.md) [https://www.youtube.com/watch?v=-_QFGvE0h0I](https://www.youtube.com/watch?v=-_QFGvE0h0I)
+
 ## November 30th, 2021 Livestream
 * [Q&A: Is Deep Rock Galactic in the same universe as FICSIT?](../../../transcriptions/yt-jdGU01HXdBU.md) [https://www.youtube.com/watch?v=jdGU01HXdBU](https://www.youtube.com/watch?v=jdGU01HXdBU)
 

@@ -10,6 +10,8 @@ topics:
 # [December 7th, 2021 Livestream](../2021-12-07.md)
 ## Q&A: Are Conveyor Wall Holes coming?
 https://www.youtube.com/watch?v=H8hrMFtHdHs
+This question was possibly duplicated with a more recent answer: [January 18th, 2022 Livestream Q&A: When are we going to see placeable Wall Conveyor holes?](./yt-sKqIciW-TVQ.md) [https://www.youtube.com/watch?v=sKqIciW-TVQ](https://www.youtube.com/watch?v=sKqIciW-TVQ)
+
 
 ### Topics
 * [Features > Buildables > Conveyor Belts](../topics/features/buildables/conveyor-belts.md)

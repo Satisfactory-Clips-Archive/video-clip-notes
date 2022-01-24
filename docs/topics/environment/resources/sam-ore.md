@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Resources](../../../topics/environment/resources.md) > S.A.M. Ore
 
+## January 18th, 2022 Livestream
+* [Snutt & Jace Talk: S.A.M. Ore](../../../transcriptions/yt-SZg2zhusjWw.md) [https://www.youtube.com/watch?v=SZg2zhusjWw](https://www.youtube.com/watch?v=SZg2zhusjWw)
+
 ## November 16th, 2021 Livestream
 * [Q&A: What's the purpose of S.A.M. Ore?](../../../transcriptions/yt-oPY1o6s9X-k.md) [https://www.youtube.com/watch?v=oPY1o6s9X-k](https://www.youtube.com/watch?v=oPY1o6s9X-k)
 

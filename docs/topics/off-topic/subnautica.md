@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Subnautica
 
+## January 18th, 2022 Livestream
+* [Community FYI: Subnautica had Terraformnig then removed it](../../transcriptions/yt-UvWeICPUSVA.md) [https://www.youtube.com/watch?v=UvWeICPUSVA](https://www.youtube.com/watch?v=UvWeICPUSVA)
+
 ## July 6th, 2021 Livestream
 * [Q&A: Are you & your colleagues looking up to some other indie games?](../../transcriptions/yt-Wo5BV2FL0T0.md) [https://www.youtube.com/watch?v=Wo5BV2FL0T0](https://www.youtube.com/watch?v=Wo5BV2FL0T0)
 

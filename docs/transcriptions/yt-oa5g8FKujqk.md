@@ -9,7 +9,7 @@ topics:
 # [March 30th, 2021 Livestream](../2021-03-30.md)
 ## Q&A: What about the Toilet?
 https://www.youtube.com/watch?v=oa5g8FKujqk
-This question was possibly duplicated with a more recent answer: September 21st, 2021 Livestream Q&A: Toilet Flush DLC? [https://www.youtube.com/watch?v=BTl-L9494v0](https://www.youtube.com/watch?v=BTl-L9494v0)
+This question was possibly duplicated with a more recent answer: [January 18th, 2022 Livestream Q&A: So when is the Toilet DLC coming out?](./yt-64PsGrL-jfw.md) [https://www.youtube.com/watch?v=64PsGrL-jfw](https://www.youtube.com/watch?v=64PsGrL-jfw)
 
 
 ### Topics

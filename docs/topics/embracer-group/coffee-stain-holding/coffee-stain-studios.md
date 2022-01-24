@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Embracer Group](../../../topics/embracer-group.md) > Coffee Stain Holding > Coffee Stain Studios
 
+## January 18th, 2022 Livestream
+* [Q&A: Have you had any calls from Phil Spencer offering you a large amount of money?](../../../transcriptions/yt--en4ixfGTtQ.md) [https://www.youtube.com/watch?v=-en4ixfGTtQ](https://www.youtube.com/watch?v=-en4ixfGTtQ)
+* [Q&A: Is Coffee Stain still 20% Dutch?](../../../transcriptions/yt-QwWO3fGEdro.md) [https://www.youtube.com/watch?v=QwWO3fGEdro](https://www.youtube.com/watch?v=QwWO3fGEdro)
+
 ## December 24th, 2021 Video
 * [Snutt Talk: 2022](../../../transcriptions/yt-1Tksg738sHo,160.0599.md) [https://youtube.com/clip/UgkxFbGdaZLBR99g8iunPzTYy2wEncT59SJn](https://youtube.com/clip/UgkxFbGdaZLBR99g8iunPzTYy2wEncT59SJn)
 

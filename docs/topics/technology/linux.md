@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > Linux
 
+## January 18th, 2022 Livestream
+* [Q&A: Steam Deck support?](../../transcriptions/yt--Rz59jnZnKM.md) [https://www.youtube.com/watch?v=-Rz59jnZnKM](https://www.youtube.com/watch?v=-Rz59jnZnKM)
+
 ## November 16th, 2021 Livestream
 * [Snutt & Jace Talk: Frequently Asked Questions about where Satisfactory will be released](../../transcriptions/yt-9TFj1vArqDg.md) [https://www.youtube.com/watch?v=9TFj1vArqDg](https://www.youtube.com/watch?v=9TFj1vArqDg)
 

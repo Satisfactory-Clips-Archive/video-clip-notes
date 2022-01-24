@@ -37,6 +37,11 @@ date: Last Modified
 * [Torsten](../topics/coffee-stainers/torsten.md)
 * [Uzu](../topics/coffee-stainers/uzu.md)
 
+## January 18th, 2022 Livestream
+* [Q&A: Do you have problems with someone leak secret things from the game?](../transcriptions/yt-FEYF_0Iq4h0.md) [https://www.youtube.com/watch?v=FEYF_0Iq4h0](https://www.youtube.com/watch?v=FEYF_0Iq4h0)
+* [Community FYI: Thanks for all the hard work you and the team are putting into the game](../transcriptions/yt-FODDKzWwcVk.md) [https://www.youtube.com/watch?v=FODDKzWwcVk](https://www.youtube.com/watch?v=FODDKzWwcVk)
+* [Q&A: Is Coffee Stain still 20% Dutch?](../transcriptions/yt-QwWO3fGEdro.md) [https://www.youtube.com/watch?v=QwWO3fGEdro](https://www.youtube.com/watch?v=QwWO3fGEdro)
+
 ## November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary
 * [Community FYI: Jace, you should do group iron man with some Coffee Stainers](../transcriptions/yt-6ln9Rgr3MI0.md) [https://www.youtube.com/watch?v=6ln9Rgr3MI0](https://www.youtube.com/watch?v=6ln9Rgr3MI0)
 

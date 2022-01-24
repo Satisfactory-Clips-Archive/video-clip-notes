@@ -8,7 +8,7 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: When can Poison Pillars be removed?
 https://www.youtube.com/watch?v=BRpEHi7W7u0
-This question was possibly duplicated with a more recent answer: [May 25th, 2021 Livestream Q&A: Can we use Poison Gas in some way?](./yt-zjpwvKcY2ss.md) [https://www.youtube.com/watch?v=zjpwvKcY2ss](https://www.youtube.com/watch?v=zjpwvKcY2ss)
+This question was possibly duplicated with a more recent answer: [January 18th, 2022 Livestream Q&A: Can we get rid of poison rocks?](./yt-yQfU5GLx4eM.md) [https://www.youtube.com/watch?v=yQfU5GLx4eM](https://www.youtube.com/watch?v=yQfU5GLx4eM)
 
 
 ### Topics

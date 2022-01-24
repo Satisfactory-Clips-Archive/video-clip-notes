@@ -8,6 +8,8 @@ topics:
 # [September 21st, 2021 Livestream](../2021-09-21.md)
 ## Q&A: When Satisfactory does hit 1.0, will you do a complete playthrough on-stream?
 https://www.youtube.com/watch?v=6LTinIiS1ss
+This question was possibly duplicated with a more recent answer: [January 18th, 2022 Livestream Q&A: Will there be a playthrough by you when the game comes out?](./yt-cZqd0Qiq38E.md) [https://www.youtube.com/watch?v=cZqd0Qiq38E](https://www.youtube.com/watch?v=cZqd0Qiq38E)
+
 
 ### Topics
 * [Satisfactory Updates > Pending > Satisfactory 1.0](../topics/satisfactory-updates/pending/satisfactory-1-0.md)

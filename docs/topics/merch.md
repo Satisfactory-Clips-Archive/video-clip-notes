@@ -7,6 +7,13 @@ date: Last Modified
 * [EU Merch Store](../topics/merch/eu-merch-store.md)
 * [Merch Prototypes](../topics/merch/merch-prototypes.md)
 
+## January 21st, 2022 Video
+* [Jace Talk: Satisfactory Constructor Lego](../transcriptions/yt-t7pRHznihEA,53.229233,106.33956666666667.md) [https://youtube.com/embed/t7pRHznihEA?autoplay=1&start=53&end=107](https://youtube.com/embed/t7pRHznihEA?autoplay=1&start=53&end=107)
+
+## January 18th, 2022 Livestream
+* [Q&A: Any plans for DLC & cosmetic purchases?](../transcriptions/yt-pvWgfvIrHDA.md) [https://www.youtube.com/watch?v=pvWgfvIrHDA](https://www.youtube.com/watch?v=pvWgfvIrHDA)
+* [Q&A: Merch?](../transcriptions/yt-GIt6rBSQqIk.md) [https://www.youtube.com/watch?v=GIt6rBSQqIk](https://www.youtube.com/watch?v=GIt6rBSQqIk)
+
 ## December 14th, 2021 Livestream
 * Q&A: Where's the Mug? [https://www.youtube.com/watch?v=vNCmjf3ERnY](https://www.youtube.com/watch?v=vNCmjf3ERnY)
 

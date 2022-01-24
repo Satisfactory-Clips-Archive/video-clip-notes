@@ -5,6 +5,12 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Speculative > Satisfactory Update 6
 
+## January 21st, 2022 Video
+* [Jace Talk: Planning Update 6 and beyond](../../../transcriptions/yt-t7pRHznihEA,106.37293333333334,194.29410000000001.md) [https://youtube.com/embed/t7pRHznihEA?autoplay=1&start=106&end=195](https://youtube.com/embed/t7pRHznihEA?autoplay=1&start=106&end=195)
+
+## January 18th, 2022 Livestream
+* [Q&A: Where is your focus for Update 6?](../../../transcriptions/yt-a-L9c5HwpqQ.md) [https://www.youtube.com/watch?v=a-L9c5HwpqQ](https://www.youtube.com/watch?v=a-L9c5HwpqQ)
+
 ## December 14th, 2021 Livestream
 * Snutt Talk: 2021 Retrospective [https://www.youtube.com/watch?v=4kbofImwd6Q](https://www.youtube.com/watch?v=4kbofImwd6Q)
 
