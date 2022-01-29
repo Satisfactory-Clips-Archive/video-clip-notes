@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Off-Topic](../../../topics/off-topic.md) > [Food & Drink](../../../topics/off-topic/food-and-drink.md) > Coffee
 
+## January 25th, 2022 Livestream
+* [Q&A: Official Coffee, when?](../../../transcriptions/yt-eL_rlab3pD0.md) [https://www.youtube.com/watch?v=eL_rlab3pD0](https://www.youtube.com/watch?v=eL_rlab3pD0)
+
 ## December 14th, 2021 Livestream
 * [Q&A: Five-input machine that makes Coffee?](../../../transcriptions/yt-sgGhUaNdoZk.md) [https://www.youtube.com/watch?v=sgGhUaNdoZk](https://www.youtube.com/watch?v=sgGhUaNdoZk)
 

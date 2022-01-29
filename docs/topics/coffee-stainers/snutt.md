@@ -7,6 +7,9 @@ date: Last Modified
 * [Snutt Burger Time](../../topics/coffee-stainers/snutt/snutt-burger-time.md)
 * [Snutty Mays](../../topics/coffee-stainers/snutt/snutty-mays.md)
 
+## January 25th, 2022 Livestream
+* [Q&A: Are you two still able to add your ideas to the game?](../../transcriptions/yt-Yif8SgooUPA.md) [https://www.youtube.com/watch?v=Yif8SgooUPA](https://www.youtube.com/watch?v=Yif8SgooUPA)
+
 ## January 18th, 2022 Livestream
 * [Q&A: Snutt shave, when?](../../transcriptions/yt-rSg_59Lj_mo.md) [https://www.youtube.com/watch?v=rSg_59Lj_mo](https://www.youtube.com/watch?v=rSg_59Lj_mo)
 * [Q&A: What has Snutt leaked?](../../transcriptions/yt-2Z9tfylzDzA.md) [https://www.youtube.com/watch?v=2Z9tfylzDzA](https://www.youtube.com/watch?v=2Z9tfylzDzA)

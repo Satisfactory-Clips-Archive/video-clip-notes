@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Equipment](../../../topics/features/equipment.md) > Nobelisk
 * [Nobelisk Detonator](../../../topics/features/equipment/nobelisk/detonator.md)
 
+## January 25th, 2022 Livestream
+* [Q&A: Can we get the snowball pile back?](../../../transcriptions/yt-pksvwaVVBtA.md) [https://www.youtube.com/watch?v=pksvwaVVBtA](https://www.youtube.com/watch?v=pksvwaVVBtA)
+
 ## December 14th, 2021 Livestream
 * [Q&A: Will Snowballs get the old animation again, or is that gone?](../../../transcriptions/yt-Ux9jFCn0Xu4.md) [https://www.youtube.com/watch?v=Ux9jFCn0Xu4](https://www.youtube.com/watch?v=Ux9jFCn0Xu4)
 

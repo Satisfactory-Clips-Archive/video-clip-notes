@@ -9,6 +9,9 @@ date: Last Modified
 * [Jace Art](../../topics/coffee-stainers/jace/jace-art.md)
 * [Juice Velvet](../../topics/coffee-stainers/jace/juice-velvet.md)
 
+## January 25th, 2022 Livestream
+* [Q&A: Are you two still able to add your ideas to the game?](../../transcriptions/yt-Yif8SgooUPA.md) [https://www.youtube.com/watch?v=Yif8SgooUPA](https://www.youtube.com/watch?v=Yif8SgooUPA)
+
 ## January 18th, 2022 Livestream
 * [Q&A: Will there be a playthrough by you when the game comes out?](../../transcriptions/yt-cZqd0Qiq38E.md) [https://www.youtube.com/watch?v=cZqd0Qiq38E](https://www.youtube.com/watch?v=cZqd0Qiq38E)
 

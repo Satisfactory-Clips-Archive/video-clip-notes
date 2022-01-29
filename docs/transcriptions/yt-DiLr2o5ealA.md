@@ -8,7 +8,7 @@ topics:
 # [June 29th, 2021 Livestream](../2021-06-29.md)
 ## Q&A: Do you have plans for S.A.M. Ore?
 https://www.youtube.com/watch?v=DiLr2o5ealA
-This question was possibly duplicated with a more recent answer: [November 16th, 2021 Livestream Q&A: What's the purpose of S.A.M. Ore?](./yt-oPY1o6s9X-k.md) [https://www.youtube.com/watch?v=oPY1o6s9X-k](https://www.youtube.com/watch?v=oPY1o6s9X-k)
+This question was possibly duplicated with a more recent answer: [January 25th, 2022 Livestream Q&A: Have you told what S.A.M. Ore stands for?](./yt-bp9bhL_WoQk.md) [https://www.youtube.com/watch?v=bp9bhL_WoQk](https://www.youtube.com/watch?v=bp9bhL_WoQk)
 
 
 ### Topics

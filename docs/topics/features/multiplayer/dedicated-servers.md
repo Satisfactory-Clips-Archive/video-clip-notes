@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Multiplayer](../../../topics/features/multiplayer.md) > Dedicated Servers
 
+## January 25th, 2022 Livestream
+* [Q&A: Why does the game lag during a save, it's especially jarring on Dedicated Servers?](../../../transcriptions/yt-I6kMEiZYYRQ.md) [https://www.youtube.com/watch?v=I6kMEiZYYRQ](https://www.youtube.com/watch?v=I6kMEiZYYRQ)
+
 ## January 18th, 2022 Livestream
 * [Q&A: What's the status of Docker images?](../../../transcriptions/yt-dP8lKBJ8ZQE.md) [https://www.youtube.com/watch?v=dP8lKBJ8ZQE](https://www.youtube.com/watch?v=dP8lKBJ8ZQE)
 

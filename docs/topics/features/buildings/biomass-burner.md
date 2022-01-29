@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > Biomass Burner
 
+## January 25th, 2022 Livestream
+* [Q&A: Will there be any form of automation for the production of Biomass?](../../../transcriptions/yt-L735aPTRivU.md) [https://www.youtube.com/watch?v=L735aPTRivU](https://www.youtube.com/watch?v=L735aPTRivU)
+
 ## September 28th, 2021 Livestream
 * [Q&A: Can you make Biomass Burners automated?](../../../transcriptions/yt-BZWw9qXGT0o.md) [https://www.youtube.com/watch?v=BZWw9qXGT0o](https://www.youtube.com/watch?v=BZWw9qXGT0o)
 * [Q&A: Why would you be a Biomass Burner?](../../../transcriptions/yt-pbZGwGUPs_I.md) [https://www.youtube.com/watch?v=pbZGwGUPs_I](https://www.youtube.com/watch?v=pbZGwGUPs_I)

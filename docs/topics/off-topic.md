@@ -20,6 +20,9 @@ date: Last Modified
 * [The Cycle](../topics/off-topic/the-cycle.md)
 * [Valheim](../topics/off-topic/valheim.md)
 
+## January 25th, 2022 Livestream
+* [Q&A: So CSS is not like FICSIT as a company?](../transcriptions/yt-lHepxnrYy9s.md) [https://www.youtube.com/watch?v=lHepxnrYy9s](https://www.youtube.com/watch?v=lHepxnrYy9s)
+
 ## January 18th, 2022 Livestream
 * [Snutt & Jace Talk: Days of the week](../transcriptions/yt-ODnLbeWKuWE.md) [https://www.youtube.com/watch?v=ODnLbeWKuWE](https://www.youtube.com/watch?v=ODnLbeWKuWE)
 * [Q&A: Have you had any calls from Phil Spencer offering you a large amount of money?](../transcriptions/yt--en4ixfGTtQ.md) [https://www.youtube.com/watch?v=-en4ixfGTtQ](https://www.youtube.com/watch?v=-en4ixfGTtQ)

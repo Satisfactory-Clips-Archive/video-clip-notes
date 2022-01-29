@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > State of Dev
 
+## January 25th, 2022 Livestream
+* [State of Dave](../../transcriptions/yt-Q8h_e076pRQ.md) [https://www.youtube.com/watch?v=Q8h_e076pRQ](https://www.youtube.com/watch?v=Q8h_e076pRQ)
+
 ## January 18th, 2022 Livestream
 * [Snutt & Jace Talk: Countdork (Welcome to the Future)](../../transcriptions/yt-LLqjKtNHVOc.md) [https://www.youtube.com/watch?v=LLqjKtNHVOc](https://www.youtube.com/watch?v=LLqjKtNHVOc)
 * [Snutt & Jace Talk: FICS⁕MAS ends](../../transcriptions/yt-7UyASsk2vTs.md) [https://www.youtube.com/watch?v=7UyASsk2vTs](https://www.youtube.com/watch?v=7UyASsk2vTs)

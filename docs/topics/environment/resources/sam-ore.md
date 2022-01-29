@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Resources](../../../topics/environment/resources.md) > S.A.M. Ore
 
+## January 25th, 2022 Livestream
+* [Q&A: Have you told what S.A.M. Ore stands for?](../../../transcriptions/yt-bp9bhL_WoQk.md) [https://www.youtube.com/watch?v=bp9bhL_WoQk](https://www.youtube.com/watch?v=bp9bhL_WoQk)
+
 ## January 18th, 2022 Livestream
 * [Snutt & Jace Talk: S.A.M. Ore](../../../transcriptions/yt-SZg2zhusjWw.md) [https://www.youtube.com/watch?v=SZg2zhusjWw](https://www.youtube.com/watch?v=SZg2zhusjWw)
 

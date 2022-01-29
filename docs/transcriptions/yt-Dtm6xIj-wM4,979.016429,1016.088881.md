@@ -8,7 +8,7 @@ topics:
 # [February 6th, 2019 Livestream](../2019-02-06.md)
 ## Q&A: Terraforming?
 https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=979&end=1017
-This question was possibly duplicated with a more recent answer: [January 18th, 2022 Livestream Q&A: Would you consider adding a little bit of Terraforming to the game?](./yt-qGCMhI8CKTo.md) [https://www.youtube.com/watch?v=qGCMhI8CKTo](https://www.youtube.com/watch?v=qGCMhI8CKTo)
+This question was possibly duplicated with a more recent answer: [January 25th, 2022 Livestream Q&A: Will we ever get Terraforming?](./yt-3nUoWBq9pjM.md) [https://www.youtube.com/watch?v=3nUoWBq9pjM](https://www.youtube.com/watch?v=3nUoWBq9pjM)
 
 
 ### Topics

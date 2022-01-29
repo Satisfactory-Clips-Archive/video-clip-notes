@@ -9,7 +9,7 @@ topics:
 # [January 12th, 2021 Livestream](../2021-01-12.md)
 ## Q&A: What's happening with S.A.M. Ore?
 https://www.youtube.com/watch?v=f0Z9VIAK5Iw
-This question was possibly duplicated with a more recent answer: [November 16th, 2021 Livestream Q&A: What's the purpose of S.A.M. Ore?](./yt-oPY1o6s9X-k.md) [https://www.youtube.com/watch?v=oPY1o6s9X-k](https://www.youtube.com/watch?v=oPY1o6s9X-k)
+This question was possibly duplicated with a more recent answer: [January 25th, 2022 Livestream Q&A: Have you told what S.A.M. Ore stands for?](./yt-bp9bhL_WoQk.md) [https://www.youtube.com/watch?v=bp9bhL_WoQk](https://www.youtube.com/watch?v=bp9bhL_WoQk)
 
 
 ### Topics

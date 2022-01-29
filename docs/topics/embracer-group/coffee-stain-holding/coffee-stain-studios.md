@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Embracer Group](../../../topics/embracer-group.md) > Coffee Stain Holding > Coffee Stain Studios
 
+## January 25th, 2022 Livestream
+* [Q&A: So CSS is not like FICSIT as a company?](../../../transcriptions/yt-lHepxnrYy9s.md) [https://www.youtube.com/watch?v=lHepxnrYy9s](https://www.youtube.com/watch?v=lHepxnrYy9s)
+
 ## January 18th, 2022 Livestream
 * [Q&A: Have you had any calls from Phil Spencer offering you a large amount of money?](../../../transcriptions/yt--en4ixfGTtQ.md) [https://www.youtube.com/watch?v=-en4ixfGTtQ](https://www.youtube.com/watch?v=-en4ixfGTtQ)
 * [Q&A: Is Coffee Stain still 20% Dutch?](../../../transcriptions/yt-QwWO3fGEdro.md) [https://www.youtube.com/watch?v=QwWO3fGEdro](https://www.youtube.com/watch?v=QwWO3fGEdro)

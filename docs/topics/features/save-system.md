@@ -7,6 +7,9 @@ date: Last Modified
 * [Autosave](../../topics/features/save-system/autosave.md)
 * [Cloud Sync](../../topics/features/save-system/cloud-sync.md)
 
+## January 25th, 2022 Livestream
+* [Q&A: Why does the game lag during a save, it's especially jarring on Dedicated Servers?](../../transcriptions/yt-I6kMEiZYYRQ.md) [https://www.youtube.com/watch?v=I6kMEiZYYRQ](https://www.youtube.com/watch?v=I6kMEiZYYRQ)
+
 ## December 7th, 2021 Livestream
 * Community FYI: Just like Jace said our saves wouldn't break [https://www.youtube.com/watch?v=P6neyP9QX94](https://www.youtube.com/watch?v=P6neyP9QX94)
 * [Community FYI: Still around 30 megabytes](../../transcriptions/yt-2xg_8iXzaC8.md) [https://www.youtube.com/watch?v=2xg_8iXzaC8](https://www.youtube.com/watch?v=2xg_8iXzaC8)

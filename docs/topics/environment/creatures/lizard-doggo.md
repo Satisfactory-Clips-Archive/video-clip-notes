@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Creatures](../../../topics/environment/creatures.md) > Lizard Doggo
 
+## January 25th, 2022 Livestream
+* [Q&A: Is Lizard Doggo supposed to respawn?](../../../transcriptions/yt-ysqzjxSteoY.md) [https://www.youtube.com/watch?v=ysqzjxSteoY](https://www.youtube.com/watch?v=ysqzjxSteoY)
+
 ## January 18th, 2022 Livestream
 * [Q&A: Speaking of Lizzard Doggo, when are we going to get Lizard Doggo Simulator?](../../../transcriptions/yt--_QFGvE0h0I.md) [https://www.youtube.com/watch?v=-_QFGvE0h0I](https://www.youtube.com/watch?v=-_QFGvE0h0I)
 

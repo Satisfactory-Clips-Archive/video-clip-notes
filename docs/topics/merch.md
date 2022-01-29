@@ -7,6 +7,12 @@ date: Last Modified
 * [EU Merch Store](../topics/merch/eu-merch-store.md)
 * [Merch Prototypes](../topics/merch/merch-prototypes.md)
 
+## January 25th, 2022 Livestream
+* [Snutt & Jace Talk: EU Merch Store & Mug](../transcriptions/yt-jCk40j36hy0.md) [https://www.youtube.com/watch?v=jCk40j36hy0](https://www.youtube.com/watch?v=jCk40j36hy0)
+* [Snutt & Jace Talk: Satisfactory Constructor Lego Set](../transcriptions/yt-6vgl-dZKb2s.md) [https://www.youtube.com/watch?v=6vgl-dZKb2s](https://www.youtube.com/watch?v=6vgl-dZKb2s)
+* [Q&A: About the Mug update, I got in too late?](../transcriptions/yt-UjbrU8W0lCU.md) [https://www.youtube.com/watch?v=UjbrU8W0lCU](https://www.youtube.com/watch?v=UjbrU8W0lCU)
+* [Q&A: Official Coffee, when?](../transcriptions/yt-eL_rlab3pD0.md) [https://www.youtube.com/watch?v=eL_rlab3pD0](https://www.youtube.com/watch?v=eL_rlab3pD0)
+
 ## January 21st, 2022 Video
 * [Jace Talk: Satisfactory Constructor Lego](../transcriptions/yt-t7pRHznihEA,53.229233,106.33956666666667.md) [https://youtube.com/embed/t7pRHznihEA?autoplay=1&start=53&end=107](https://youtube.com/embed/t7pRHznihEA?autoplay=1&start=53&end=107)
 

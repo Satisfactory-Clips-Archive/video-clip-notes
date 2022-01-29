@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildables](../../../topics/features/buildables.md) > Pillars
 
+## January 25th, 2022 Livestream
+* [Q&A: Do Pillars and other Buildable items affect UObject count?](../../../transcriptions/yt-WZBCdSdRISA.md) [https://www.youtube.com/watch?v=WZBCdSdRISA](https://www.youtube.com/watch?v=WZBCdSdRISA)
+
 ## November 30th, 2021 Livestream
 * [Q&A: When can we put Lights on Pillars again?](../../../transcriptions/yt-f_FPDjd81Kg.md) [https://www.youtube.com/watch?v=f_FPDjd81Kg](https://www.youtube.com/watch?v=f_FPDjd81Kg)
 

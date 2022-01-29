@@ -9,7 +9,7 @@ topics:
 # [February 11th, 2020 Livestream](../2020-02-11.md)
 ## Q&A: I'd love your Coffee?
 https://www.youtube.com/watch?v=BGRyEeiW078
-This question was possibly duplicated with a more recent answer: August 11th, 2020 Livestream Q&A: gravity-defying FICSIT-branded coffee [https://clips.twitch.tv/TalentedIntelligentGazelleFunRun](https://clips.twitch.tv/TalentedIntelligentGazelleFunRun)
+This question was possibly duplicated with a more recent answer: [January 25th, 2022 Livestream Q&A: Official Coffee, when?](./yt-eL_rlab3pD0.md) [https://www.youtube.com/watch?v=eL_rlab3pD0](https://www.youtube.com/watch?v=eL_rlab3pD0)
 
 
 ### Topics

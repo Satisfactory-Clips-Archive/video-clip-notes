@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > User Interface
 * [Holograms](../../topics/technology/user-interface/holograms.md)
 
+## January 25th, 2022 Livestream
+* [Q&A: How do I reset my keybindings?](../../transcriptions/yt-vTJEhrMDbwo.md) [https://www.youtube.com/watch?v=vTJEhrMDbwo](https://www.youtube.com/watch?v=vTJEhrMDbwo)
+
 ## November 19th, 2021 Video
 * Jace Talk: Equipment Volume sliders & Misophonia Mode [https://youtube.com/clip/UgkxdExcGCgt8gtUyWqurmz23EKyRuD4RTAN](https://youtube.com/clip/UgkxdExcGCgt8gtUyWqurmz23EKyRuD4RTAN)
 * Jace Talk: Block visualisation for Train rails [https://youtube.com/clip/UgkxWrsPPwpj4oNSAVI6M1eZ__J34DHpYO7r](https://youtube.com/clip/UgkxWrsPPwpj4oNSAVI6M1eZ__J34DHpYO7r)

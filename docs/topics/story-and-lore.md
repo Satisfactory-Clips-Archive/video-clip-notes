@@ -7,6 +7,9 @@ date: Last Modified
 * [Characters](../topics/story-and-lore/characters.md)
 * [Project Assembly](../topics/story-and-lore/project-assembly.md)
 
+## January 25th, 2022 Livestream
+* [Q&A: So CSS is not like FICSIT as a company?](../transcriptions/yt-lHepxnrYy9s.md) [https://www.youtube.com/watch?v=lHepxnrYy9s](https://www.youtube.com/watch?v=lHepxnrYy9s)
+
 ## December 7th, 2021 Livestream
 * [Q&A: What kind of fuel is in the game, gasoline or diesel?](../transcriptions/yt-dU5gKPELFLo.md) [https://www.youtube.com/watch?v=dU5gKPELFLo](https://www.youtube.com/watch?v=dU5gKPELFLo)
 * [Q&A: Will we get a Story sneak-peek at some point or not until 1.0?](../transcriptions/yt-EHq6piERMTI.md) [https://www.youtube.com/watch?v=EHq6piERMTI](https://www.youtube.com/watch?v=EHq6piERMTI)

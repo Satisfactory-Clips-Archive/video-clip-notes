@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Merch](../../topics/merch.md) > EU Merch Store
 
+## January 25th, 2022 Livestream
+* [Snutt & Jace Talk: EU Merch Store & Mug](../../transcriptions/yt-jCk40j36hy0.md) [https://www.youtube.com/watch?v=jCk40j36hy0](https://www.youtube.com/watch?v=jCk40j36hy0)
+
 ## October 5th, 2021 Livestream
 * [Q&A: EU Merch?](../../transcriptions/yt-dp0tlXo6TQ0.md) [https://www.youtube.com/watch?v=dp0tlXo6TQ0](https://www.youtube.com/watch?v=dp0tlXo6TQ0)
 

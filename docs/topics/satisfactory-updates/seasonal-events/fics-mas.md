@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Seasonal Events](../../../topics/satisfactory-updates/seasonal-events.md) > FICS⁕MAS
 
+## January 25th, 2022 Livestream
+* [Q&A: Can we get the snowball pile back?](../../../transcriptions/yt-pksvwaVVBtA.md) [https://www.youtube.com/watch?v=pksvwaVVBtA](https://www.youtube.com/watch?v=pksvwaVVBtA)
+* [Q&A: Can you possibly look at the scaling of Fireworks and be able to Sink them?](../../../transcriptions/yt-XdpLdvkjbso.md) [https://www.youtube.com/watch?v=XdpLdvkjbso](https://www.youtube.com/watch?v=XdpLdvkjbso)
+
 ## January 18th, 2022 Livestream
 * [Snutt & Jace Talk: FICS⁕MAS ends](../../../transcriptions/yt-7UyASsk2vTs.md) [https://www.youtube.com/watch?v=7UyASsk2vTs](https://www.youtube.com/watch?v=7UyASsk2vTs)
 * [Snutt & Jace Talk: Get FICS⁕MAS back with time travel](../../../transcriptions/yt-7Gq_HUiPDUY.md) [https://www.youtube.com/watch?v=7Gq_HUiPDUY](https://www.youtube.com/watch?v=7Gq_HUiPDUY)

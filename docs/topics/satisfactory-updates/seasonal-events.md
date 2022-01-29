@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > Seasonal Events
 * [FICS⁕MAS](../../topics/satisfactory-updates/seasonal-events/fics-mas.md)
 
+## January 25th, 2022 Livestream
+* [Q&A: FICS🐰EASTER?](../../transcriptions/yt-GpEsSq_PkMA.md) [https://www.youtube.com/watch?v=GpEsSq_PkMA](https://www.youtube.com/watch?v=GpEsSq_PkMA)
+
 ## December 7th, 2021 Livestream
 * [Q&A: FICS⁕MAS is my favourite time of year, has there been discussions about more events like this?](../../transcriptions/yt-MvTuIeHbQWM.md) [https://www.youtube.com/watch?v=MvTuIeHbQWM](https://www.youtube.com/watch?v=MvTuIeHbQWM)
 

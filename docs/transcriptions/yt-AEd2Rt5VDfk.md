@@ -9,7 +9,7 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Are you going to add the ability to raise/lower parts of the landscape?
 https://www.youtube.com/watch?v=AEd2Rt5VDfk
-This question was possibly duplicated with a more recent answer: [January 18th, 2022 Livestream Q&A: Would you consider adding a little bit of Terraforming to the game?](./yt-qGCMhI8CKTo.md) [https://www.youtube.com/watch?v=qGCMhI8CKTo](https://www.youtube.com/watch?v=qGCMhI8CKTo)
+This question was possibly duplicated with a more recent answer: [January 25th, 2022 Livestream Q&A: Will we ever get Terraforming?](./yt-3nUoWBq9pjM.md) [https://www.youtube.com/watch?v=3nUoWBq9pjM](https://www.youtube.com/watch?v=3nUoWBq9pjM)
 
 
 ### Topics

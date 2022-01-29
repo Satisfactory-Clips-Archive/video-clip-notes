@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Unplanned Features](../../../topics/features/unplanned-features.md) > Terraforming
 
+## January 25th, 2022 Livestream
+* [Q&A: Will we ever get Terraforming?](../../../transcriptions/yt-3nUoWBq9pjM.md) [https://www.youtube.com/watch?v=3nUoWBq9pjM](https://www.youtube.com/watch?v=3nUoWBq9pjM)
+
 ## January 18th, 2022 Livestream
 * [Q&A: Would you consider adding a little bit of Terraforming to the game?](../../../transcriptions/yt-qGCMhI8CKTo.md) [https://www.youtube.com/watch?v=qGCMhI8CKTo](https://www.youtube.com/watch?v=qGCMhI8CKTo)
 * [Community FYI: Subnautica had Terraformnig then removed it](../../../transcriptions/yt-UvWeICPUSVA.md) [https://www.youtube.com/watch?v=UvWeICPUSVA](https://www.youtube.com/watch?v=UvWeICPUSVA)

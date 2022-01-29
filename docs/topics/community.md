@@ -24,6 +24,10 @@ date: Last Modified
 * [Vilsol](../topics/community/vilsol.md)
 * [Wiki](../topics/community/wiki.md)
 
+## January 25th, 2022 Livestream
+* [Snutt & Jace Talk: Satisfactory Constructor Lego Set](../transcriptions/yt-6vgl-dZKb2s.md) [https://www.youtube.com/watch?v=6vgl-dZKb2s](https://www.youtube.com/watch?v=6vgl-dZKb2s)
+* [Snutt & Jace Talk: Last week's YouTube video re: suggestions](../transcriptions/yt-1Qna_p8-RXk.md) [https://www.youtube.com/watch?v=1Qna_p8-RXk](https://www.youtube.com/watch?v=1Qna_p8-RXk)
+
 ## January 21st, 2022 Video
 * [Jace Talk: Satisfactory Constructor Lego](../transcriptions/yt-t7pRHznihEA,53.229233,106.33956666666667.md) [https://youtube.com/embed/t7pRHznihEA?autoplay=1&start=53&end=107](https://youtube.com/embed/t7pRHznihEA?autoplay=1&start=53&end=107)
 

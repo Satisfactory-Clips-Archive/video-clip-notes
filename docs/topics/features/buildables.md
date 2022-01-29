@@ -21,6 +21,9 @@ date: Last Modified
 * [Walls](../../topics/features/buildables/walls.md)
 * [Windows](../../topics/features/buildables/windows.md)
 
+## January 25th, 2022 Livestream
+* [Q&A: Do Pillars and other Buildable items affect UObject count?](../../transcriptions/yt-WZBCdSdRISA.md) [https://www.youtube.com/watch?v=WZBCdSdRISA](https://www.youtube.com/watch?v=WZBCdSdRISA)
+
 ## November 9th, 2021 Livestream
 * [Q&A: Is there any idea on improving the order of items you place?](../../transcriptions/yt-ewSNOJgHryQ.md) [https://www.youtube.com/watch?v=ewSNOJgHryQ](https://www.youtube.com/watch?v=ewSNOJgHryQ)
 * [Q&A: Will there be improvements to hit boxes, specifically for Power Poles between two Constructors?](../../transcriptions/yt-l75JZF14dbY.md) [https://www.youtube.com/watch?v=l75JZF14dbY](https://www.youtube.com/watch?v=l75JZF14dbY)

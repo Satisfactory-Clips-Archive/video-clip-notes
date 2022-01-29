@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Environment](../../topics/environment.md) > Plants
 
+## January 25th, 2022 Livestream
+* [Q&A: Does Bacon respawn?](../../transcriptions/yt-_MlMOUEurI0.md) [https://www.youtube.com/watch?v=_MlMOUEurI0](https://www.youtube.com/watch?v=_MlMOUEurI0)
+* [Q&A: Will there be any form of automation for the production of Biomass?](../../transcriptions/yt-L735aPTRivU.md) [https://www.youtube.com/watch?v=L735aPTRivU](https://www.youtube.com/watch?v=L735aPTRivU)
+* [Community FYI: There's a tree in the Grass Fields that whenever you blow it up it just comes back](../../transcriptions/yt-Cxe3K84HjV4.md) [https://www.youtube.com/watch?v=Cxe3K84HjV4](https://www.youtube.com/watch?v=Cxe3K84HjV4)
+
 ## November 9th, 2021 Livestream
 * [Q&A: Planting Trees?](../../transcriptions/yt-luBjVZ5Agc8.md) [https://www.youtube.com/watch?v=luBjVZ5Agc8](https://www.youtube.com/watch?v=luBjVZ5Agc8)
 * [Q&A: What about the sync bug with foliage?](../../transcriptions/yt-dFFCtAAOIEA.md) [https://www.youtube.com/watch?v=dFFCtAAOIEA](https://www.youtube.com/watch?v=dFFCtAAOIEA)

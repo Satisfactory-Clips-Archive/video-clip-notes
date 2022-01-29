@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > AWESOME Sink
 
+## January 25th, 2022 Livestream
+* [Q&A: Can you possibly look at the scaling of Fireworks and be able to Sink them?](../../../transcriptions/yt-XdpLdvkjbso.md) [https://www.youtube.com/watch?v=XdpLdvkjbso](https://www.youtube.com/watch?v=XdpLdvkjbso)
+
 ## August 17th, 2021 Livestream
 * [Q&A: Anything for end-game planned besides collecting coupons?](../../../transcriptions/yt-MM2xi9oR4Z0.md) [https://www.youtube.com/watch?v=MM2xi9oR4Z0](https://www.youtube.com/watch?v=MM2xi9oR4Z0)
 
