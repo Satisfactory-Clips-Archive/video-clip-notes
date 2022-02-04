@@ -9,7 +9,7 @@ topics:
 # [April 6th, 2021 Livestream](../2021-04-06.md)
 ## Q&A: Fluids Sinks?
 https://www.youtube.com/watch?v=GippjFCCUPw
-This question was possibly duplicated with a more recent answer: [April 20th, 2021 Livestream Q&A: Is it possible to have a Sink also do Fluids?](./yt-FQqUQHMw4QA.md) [https://www.youtube.com/watch?v=FQqUQHMw4QA](https://www.youtube.com/watch?v=FQqUQHMw4QA)
+This question was possibly duplicated with a more recent answer: [February 1st, 2022 Livestream Q&A: What about the Fluid Sink?](./yt--yErJoC5VSQ.md) [https://www.youtube.com/watch?v=-yErJoC5VSQ](https://www.youtube.com/watch?v=-yErJoC5VSQ)
 
 
 ### Topics

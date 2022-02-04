@@ -10,7 +10,7 @@ topics:
 # [June 22nd, 2018 Q&A](../2018-06-22.md)
 ## Q&A: Is the Map procedurally generated?
 https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=316&end=346
-This question was possibly duplicated with a more recent answer: [August 24th, 2021 Livestream Q&A: Would it be possible to have a Map Randomly Generated in Satisfactory?](./yt-1AOF1qFxGm0.md) [https://www.youtube.com/watch?v=1AOF1qFxGm0](https://www.youtube.com/watch?v=1AOF1qFxGm0)
+This question was possibly duplicated with a more recent answer: [February 1st, 2022 Livestream Q&A: Is there a very long-term plan for random World generation?](./yt-0i2lAA8OUAs.md) [https://www.youtube.com/watch?v=0i2lAA8OUAs](https://www.youtube.com/watch?v=0i2lAA8OUAs)
 
 
 ### Topics

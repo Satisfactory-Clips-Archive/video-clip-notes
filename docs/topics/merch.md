@@ -7,6 +7,13 @@ date: Last Modified
 * [EU Merch Store](../topics/merch/eu-merch-store.md)
 * [Merch Prototypes](../topics/merch/merch-prototypes.md)
 
+## February 4th, 2022 Video
+* [Jace Talk: Merch](../transcriptions/yt-J4LlorYbVV0,19.32848,95.16173333333333.md) [https://youtube.com/embed/J4LlorYbVV0?autoplay=1&start=19&end=96](https://youtube.com/embed/J4LlorYbVV0?autoplay=1&start=19&end=96)
+
+## February 1st, 2022 Livestream
+* [Q&A: Is Jace's hoodie still available on the Merch store?](../transcriptions/yt-iQQuxvTJUK0.md) [https://www.youtube.com/watch?v=iQQuxvTJUK0](https://www.youtube.com/watch?v=iQQuxvTJUK0)
+* [Community FYI: That sweater's insane](../transcriptions/yt-z90VJddipWc.md) [https://www.youtube.com/watch?v=z90VJddipWc](https://www.youtube.com/watch?v=z90VJddipWc)
+
 ## January 25th, 2022 Livestream
 * [Snutt & Jace Talk: EU Merch Store & Mug](../transcriptions/yt-jCk40j36hy0.md) [https://www.youtube.com/watch?v=jCk40j36hy0](https://www.youtube.com/watch?v=jCk40j36hy0)
 * [Snutt & Jace Talk: Satisfactory Constructor Lego Set](../transcriptions/yt-6vgl-dZKb2s.md) [https://www.youtube.com/watch?v=6vgl-dZKb2s](https://www.youtube.com/watch?v=6vgl-dZKb2s)

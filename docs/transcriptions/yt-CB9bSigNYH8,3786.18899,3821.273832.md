@@ -9,6 +9,8 @@ topics:
 # [February 20th, 2019 Livestream](../2019-02-20.md)
 ## Q&A: Is there an undo button?
 https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3786&end=3822
+This question was possibly duplicated with a more recent answer: [February 1st, 2022 Livestream Q&A: Is it possible to do a Ctrl-undo function?](./yt-tleEcjuypWk.md) [https://www.youtube.com/watch?v=tleEcjuypWk](https://www.youtube.com/watch?v=tleEcjuypWk)
+
 
 ### Topics
 * [Level Design Stream](../topics/level-design-stream.md)

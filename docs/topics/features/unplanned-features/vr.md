@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Unplanned Features](../../../topics/features/unplanned-features.md) > VR
 
+## February 1st, 2022 Livestream
+* [Q&A: Will we see VR in the future?](../../../transcriptions/yt-fPaoCTlPlO0.md) [https://www.youtube.com/watch?v=fPaoCTlPlO0](https://www.youtube.com/watch?v=fPaoCTlPlO0)
+
 ## November 23rd, 2021 Livestream
 * [Q&A: VR Support?](../../../transcriptions/yt-iVDRQg_aWpU,6314.234365,6351.55304.md) [https://youtube.com/clip/UgkxH_brYKMFYwxTeHs6_FQOtO4la68AvjEE](https://youtube.com/clip/UgkxH_brYKMFYwxTeHs6_FQOtO4la68AvjEE)
 * [Q&A: Deep Rock Galactic enabled Unreal VR plugins for Modding, any chance you could do the same?](../../../transcriptions/yt-iVDRQg_aWpU,6444.76610344753,6471.750653.md) [https://youtube.com/clip/Ugkx7Wy5kj3h1LbCNZqvjtvkrLd9qkb6dkVN](https://youtube.com/clip/Ugkx7Wy5kj3h1LbCNZqvjtvkrLd9qkb6dkVN)

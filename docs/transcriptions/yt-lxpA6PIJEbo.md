@@ -9,7 +9,7 @@ topics:
 # [February 23rd, 2021 Livestream](../2021-02-23.md)
 ## Q&A: Will Foundations be falling down from non-supported beams?
 https://www.youtube.com/watch?v=lxpA6PIJEbo
-This question was possibly duplicated with a more recent answer: [October 5th, 2021 Livestream Q&A: No floating platforms any more?](./yt-o_kTaVSOdg4.md) [https://www.youtube.com/watch?v=o_kTaVSOdg4](https://www.youtube.com/watch?v=o_kTaVSOdg4)
+This question was possibly duplicated with a more recent answer: [February 1st, 2022 Livestream Q&A: Will you ever implement gravity to the Building objects?](./yt-8jD6INRCUQg.md) [https://www.youtube.com/watch?v=8jD6INRCUQg](https://www.youtube.com/watch?v=8jD6INRCUQg)
 
 
 ### Topics

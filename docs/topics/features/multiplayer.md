@@ -7,6 +7,9 @@ date: Last Modified
 * [Crossplay](../../topics/features/multiplayer/crossplay.md)
 * [Dedicated Servers](../../topics/features/multiplayer/dedicated-servers.md)
 
+## February 1st, 2022 Livestream
+* [Q&A: Do you plan on working on the Multiplayer aspect?](../../transcriptions/yt-19l2AM8vDQo.md) [https://www.youtube.com/watch?v=19l2AM8vDQo](https://www.youtube.com/watch?v=19l2AM8vDQo)
+
 ## January 18th, 2022 Livestream
 * [Q&A: Why is max supported players 4 and not 6 or 8?](../../transcriptions/yt-rjVpNwIC6WU.md) [https://www.youtube.com/watch?v=rjVpNwIC6WU](https://www.youtube.com/watch?v=rjVpNwIC6WU)
 * [Q&A: So it's more about game balancing?](../../transcriptions/yt-uOptzi0X0jY.md) [https://www.youtube.com/watch?v=uOptzi0X0jY](https://www.youtube.com/watch?v=uOptzi0X0jY)

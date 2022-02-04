@@ -20,6 +20,9 @@ date: Last Modified
 * [The Cycle](../topics/off-topic/the-cycle.md)
 * [Valheim](../topics/off-topic/valheim.md)
 
+## February 1st, 2022 Livestream
+* [Community FYI: I heard the same thing happened to the Dodo bird](../transcriptions/yt-DQRbw8aMqAQ.md) [https://www.youtube.com/watch?v=DQRbw8aMqAQ](https://www.youtube.com/watch?v=DQRbw8aMqAQ)
+
 ## January 25th, 2022 Livestream
 * [Q&A: So CSS is not like FICSIT as a company?](../transcriptions/yt-lHepxnrYy9s.md) [https://www.youtube.com/watch?v=lHepxnrYy9s](https://www.youtube.com/watch?v=lHepxnrYy9s)
 

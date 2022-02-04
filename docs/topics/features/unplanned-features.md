@@ -17,6 +17,19 @@ date: Last Modified
 * [Terraforming](../../topics/features/unplanned-features/terraforming.md)
 * [VR](../../topics/features/unplanned-features/vr.md)
 
+## February 4th, 2022 Video
+* [Jace Talk: Preamble to 6 things we're NEVER adding to Satisfactory](../../transcriptions/yt-J4LlorYbVV0,102.83606666666667,149.38256666666666.md) [https://youtube.com/embed/J4LlorYbVV0?autoplay=1&start=102&end=150](https://youtube.com/embed/J4LlorYbVV0?autoplay=1&start=102&end=150)
+* [Jace Talk: No Base Defence](../../transcriptions/yt-J4LlorYbVV0,149.41593333333333,264.33073333333334.md) [https://youtube.com/embed/J4LlorYbVV0?autoplay=1&start=149&end=265](https://youtube.com/embed/J4LlorYbVV0?autoplay=1&start=149&end=265)
+* [Jace Talk: No Factory Maintenance](../../transcriptions/yt-J4LlorYbVV0,264.3641,356.5228333333333.md) [https://youtube.com/embed/J4LlorYbVV0?autoplay=1&start=264&end=357](https://youtube.com/embed/J4LlorYbVV0?autoplay=1&start=264&end=357)
+* [Jace Talk: No Survival Elements](../../transcriptions/yt-J4LlorYbVV0,356.5562,428.7950333333333.md) [https://youtube.com/embed/J4LlorYbVV0?autoplay=1&start=356&end=429](https://youtube.com/embed/J4LlorYbVV0?autoplay=1&start=356&end=429)
+* [Jace Talk: Intermission to 6 things we're NEVER adding to Satisfactory](../../transcriptions/yt-J4LlorYbVV0,428.86176666666665,642.1415000000001.md) [https://youtube.com/embed/J4LlorYbVV0?autoplay=1&start=428&end=643](https://youtube.com/embed/J4LlorYbVV0?autoplay=1&start=428&end=643)
+* [Jace Talk: No Green Energy](../../transcriptions/yt-J4LlorYbVV0,656.577536,862.4616.md) [https://youtube.com/embed/J4LlorYbVV0?autoplay=1&start=656&end=863](https://youtube.com/embed/J4LlorYbVV0?autoplay=1&start=656&end=863)
+* [Jace Talk: Terraforming](../../transcriptions/yt-J4LlorYbVV0,862.4949666666666,945.3777666666667.md) [https://youtube.com/embed/J4LlorYbVV0?autoplay=1&start=862&end=946](https://youtube.com/embed/J4LlorYbVV0?autoplay=1&start=862&end=946)
+* [Jace Talk: No Golf](../../transcriptions/yt-J4LlorYbVV0,945.4111333333334,1063.8628.md) [https://youtube.com/embed/J4LlorYbVV0?autoplay=1&start=945&end=1064](https://youtube.com/embed/J4LlorYbVV0?autoplay=1&start=945&end=1064)
+
+## February 1st, 2022 Livestream
+* [Q&A: Will you ever implement gravity to the Building objects?](../../transcriptions/yt-8jD6INRCUQg.md) [https://www.youtube.com/watch?v=8jD6INRCUQg](https://www.youtube.com/watch?v=8jD6INRCUQg)
+
 ## December 7th, 2021 Livestream
 * [Q&A: Would be good to add hunger & thirst?](../../transcriptions/yt-gh63LOO7fTk.md) [https://www.youtube.com/watch?v=gh63LOO7fTk](https://www.youtube.com/watch?v=gh63LOO7fTk)
 

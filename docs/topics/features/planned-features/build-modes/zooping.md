@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > [Planned Features](../../../../topics/features/planned-features.md) > [Build Modes](../../../../topics/features/planned-features/build-modes.md) > Zooping
 
+## February 1st, 2022 Livestream
+* [Community FYI: Zoop for Signs would be awesome](../../../../transcriptions/yt-mELi3EHuIYM.md) [https://www.youtube.com/watch?v=mELi3EHuIYM](https://www.youtube.com/watch?v=mELi3EHuIYM)
+
 ## November 23rd, 2021 Livestream
 * [Community FYI: It's the Zoop Update](../../../../transcriptions/yt-iVDRQg_aWpU,7273.186131,7296.491301.md) [https://youtube.com/clip/UgkxsAofLiB_1ZZz5ZXn6dcjznapIMwmuLF-](https://youtube.com/clip/UgkxsAofLiB_1ZZz5ZXn6dcjznapIMwmuLF-)
 

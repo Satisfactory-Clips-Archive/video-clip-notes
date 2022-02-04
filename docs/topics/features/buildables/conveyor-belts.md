@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildables](../../../topics/features/buildables.md) > Conveyor Belts
 
+## February 1st, 2022 Livestream
+* [Q&A: Do you intend to add a Smart Merger?](../../../transcriptions/yt-QQzWlAO0NH0.md) [https://www.youtube.com/watch?v=QQzWlAO0NH0](https://www.youtube.com/watch?v=QQzWlAO0NH0)
+
 ## January 18th, 2022 Livestream
 * [Q&A: When are we going to see placeable Wall Conveyor holes?](../../../transcriptions/yt-sKqIciW-TVQ.md) [https://www.youtube.com/watch?v=sKqIciW-TVQ](https://www.youtube.com/watch?v=sKqIciW-TVQ)
 

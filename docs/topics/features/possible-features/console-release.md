@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > Possible Features > Console Release
 
+## February 1st, 2022 Livestream
+* [Community FYI: This had better work on my Steam Deck](../../../transcriptions/yt-uOsgasmRIfI.md) [https://www.youtube.com/watch?v=uOsgasmRIfI](https://www.youtube.com/watch?v=uOsgasmRIfI)
+
 ## January 18th, 2022 Livestream
 * [Q&A: When's Satisfactory due on Nintendo Switch?](../../../transcriptions/yt-et-JsEQbwt8.md) [https://www.youtube.com/watch?v=et-JsEQbwt8](https://www.youtube.com/watch?v=et-JsEQbwt8)
 * [Q&A: Steam Deck support?](../../../transcriptions/yt--Rz59jnZnKM.md) [https://www.youtube.com/watch?v=-Rz59jnZnKM](https://www.youtube.com/watch?v=-Rz59jnZnKM)

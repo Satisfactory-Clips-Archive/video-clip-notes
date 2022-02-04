@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > User Interface
 * [Holograms](../../topics/technology/user-interface/holograms.md)
 
+## February 1st, 2022 Livestream
+* [Q&A: Is it possible to do a Ctrl-undo function?](../../transcriptions/yt-tleEcjuypWk.md) [https://www.youtube.com/watch?v=tleEcjuypWk](https://www.youtube.com/watch?v=tleEcjuypWk)
+
 ## January 25th, 2022 Livestream
 * [Q&A: How do I reset my keybindings?](../../transcriptions/yt-vTJEhrMDbwo.md) [https://www.youtube.com/watch?v=vTJEhrMDbwo](https://www.youtube.com/watch?v=vTJEhrMDbwo)
 

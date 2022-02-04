@@ -12,6 +12,12 @@ date: Last Modified
 * [Pollution](../../topics/features/requested-features/pollution.md)
 * [Third-person View](../../topics/features/requested-features/third-person-view.md)
 
+## February 1st, 2022 Livestream
+* [Q&A: Is it possible to do a Ctrl-undo function?](../../transcriptions/yt-tleEcjuypWk.md) [https://www.youtube.com/watch?v=tleEcjuypWk](https://www.youtube.com/watch?v=tleEcjuypWk)
+* [Q&A: Flippers for fast travel through water?](../../transcriptions/yt-wwpW6KvDzcg.md) [https://www.youtube.com/watch?v=wwpW6KvDzcg](https://www.youtube.com/watch?v=wwpW6KvDzcg)
+* [Q&A: What about the Fluid Sink?](../../transcriptions/yt--yErJoC5VSQ.md) [https://www.youtube.com/watch?v=-yErJoC5VSQ](https://www.youtube.com/watch?v=-yErJoC5VSQ)
+* [Q&A: Do you intend to add a Smart Merger?](../../transcriptions/yt-QQzWlAO0NH0.md) [https://www.youtube.com/watch?v=QQzWlAO0NH0](https://www.youtube.com/watch?v=QQzWlAO0NH0)
+
 ## January 18th, 2022 Livestream
 * [Q&A: Will we see Teleportation in the future of Satisfactory?](../../transcriptions/yt-tg6iemNxFAM.md) [https://www.youtube.com/watch?v=tg6iemNxFAM](https://www.youtube.com/watch?v=tg6iemNxFAM)
 * [Q&A: Jace, why can't we have two people in the Vehicles?](../../transcriptions/yt-HcTmSD0xDhA.md) [https://www.youtube.com/watch?v=HcTmSD0xDhA](https://www.youtube.com/watch?v=HcTmSD0xDhA)

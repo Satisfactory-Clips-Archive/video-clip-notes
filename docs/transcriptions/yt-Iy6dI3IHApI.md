@@ -1,0 +1,19 @@
+---
+title: "February 1st, 2022 Livestream Q&A: Dinner plans?"
+date: "2022-02-01"
+layout: transcript
+topics:
+    - "coffee-stainers/jace"
+    - "coffee-stainers/snutt/snutt-burger-time"
+---
+# [February 1st, 2022 Livestream](../2022-02-01.md)
+## Q&A: Dinner plans?
+https://www.youtube.com/watch?v=Iy6dI3IHApI
+
+### Topics
+* [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
+* [Coffee Stainers > Snutt > Snutt Burger Time](../topics/coffee-stainers/snutt/snutt-burger-time.md)
+
+### Transcript
+
+> dinner plans dinner plans i don't know burger i don't know i'm not sure i might might do pizza i'm not sure i'll have to see i'm leaning towards it though because i don't think hello fresh is coming for another three hours so that's right i haven't seen hellofresh today bummer it's not a real stream you can yeah move that from your bringing card

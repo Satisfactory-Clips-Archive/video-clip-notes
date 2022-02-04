@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Power Management](../../../topics/features/power-management.md) > Green Energy
 
+## February 4th, 2022 Video
+* [Jace Talk: No Green Energy](../../../transcriptions/yt-J4LlorYbVV0,656.577536,862.4616.md) [https://youtube.com/embed/J4LlorYbVV0?autoplay=1&start=656&end=863](https://youtube.com/embed/J4LlorYbVV0?autoplay=1&start=656&end=863)
+
 ## November 2nd, 2021 Livestream
 * [Q&A: Solar, when?](../../../transcriptions/yt-b2ipv5TjTe8.md) [https://www.youtube.com/watch?v=b2ipv5TjTe8](https://www.youtube.com/watch?v=b2ipv5TjTe8)
 

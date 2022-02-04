@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildables](../../../topics/features/buildables.md) > Signs
 
+## February 1st, 2022 Livestream
+* [Community FYI: Zoop for Signs would be awesome](../../../transcriptions/yt-mELi3EHuIYM.md) [https://www.youtube.com/watch?v=mELi3EHuIYM](https://www.youtube.com/watch?v=mELi3EHuIYM)
+
 ## December 14th, 2021 Livestream
 * [Q&A: Can we have revolving signs?](../../../transcriptions/yt-uEZ43YHhaRY.md) [https://www.youtube.com/watch?v=uEZ43YHhaRY](https://www.youtube.com/watch?v=uEZ43YHhaRY)
 

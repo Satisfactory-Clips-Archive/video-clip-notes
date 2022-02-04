@@ -2,6 +2,141 @@
 title: "Frequently Asked Questions"
 date: Last Modified
 ---
+## [February 1st, 2022 Livestream](./2022-02-01.md)
+### [Q&A: Will you ever implement gravity to the Building objects?](./transcriptions/yt-8jD6INRCUQg.md) [https://www.youtube.com/watch?v=8jD6INRCUQg](https://www.youtube.com/watch?v=8jD6INRCUQg)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> will you ever implement gravity to the building objects no i don't think that's going to happen i'm pretty sure pretty sure that looks like sounds like a lot of simulation that we don't do enough of in the game i i guess a bunch of programming positions just opened up yeah maybe maybe
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 9 other times, as recently as October 2021 and as early as August 2020.</summary>
+
+* [October 5th, 2021 Livestream Q&A: No floating platforms any more?](./transcriptions/yt-o_kTaVSOdg4.md) [https://www.youtube.com/watch?v=o_kTaVSOdg4](https://www.youtube.com/watch?v=o_kTaVSOdg4)
+* [June 29th, 2021 Livestream Q&A: Will we always have sky factories or will we need to figure out how to build on the ground?](./transcriptions/yt-WiDZuigYT2c.md) [https://www.youtube.com/watch?v=WiDZuigYT2c](https://www.youtube.com/watch?v=WiDZuigYT2c)
+* [May 11th, 2021 Livestream Q&A: Will non-floating structures ever be a thing?](./transcriptions/yt-xu7EL-x1qVE.md) [https://www.youtube.com/watch?v=xu7EL-x1qVE](https://www.youtube.com/watch?v=xu7EL-x1qVE)
+* [April 20th, 2021 Livestream Q&A: Will you add structual integrity?](./transcriptions/yt-1FF9HfEL8x0.md) [https://www.youtube.com/watch?v=1FF9HfEL8x0](https://www.youtube.com/watch?v=1FF9HfEL8x0)
+* [March 23rd, 2021 Livestream Q&A: Will there ever be a limitation to floating foundations in the air?](./transcriptions/yt-ryFai7jtoKY.md) [https://www.youtube.com/watch?v=ryFai7jtoKY](https://www.youtube.com/watch?v=ryFai7jtoKY)
+* [February 23rd, 2021 Livestream Q&A: Will Foundations be falling down from non-supported beams?](./transcriptions/yt-lxpA6PIJEbo.md) [https://www.youtube.com/watch?v=lxpA6PIJEbo](https://www.youtube.com/watch?v=lxpA6PIJEbo)
+* [January 26th, 2021 Livestream Q&A: Will physics be improved later on, i.e. Steel Beams for supports instead of floating platforms?](./transcriptions/yt-H5XZebVqyTA.md) [https://www.youtube.com/watch?v=H5XZebVqyTA](https://www.youtube.com/watch?v=H5XZebVqyTA)
+* [November 10th, 2020 Livestream Q&A: When will we implement gravity physics to the Buildings?](./transcriptions/yt-6JFV5EAIU8U.md) [https://www.youtube.com/watch?v=6JFV5EAIU8U](https://www.youtube.com/watch?v=6JFV5EAIU8U)
+* August 11th, 2020 Livestream Q&A: Floating Factories vs. Structural Supports [https://clips.twitch.tv/GiftedSincereDillDoubleRainbow](https://clips.twitch.tv/GiftedSincereDillDoubleRainbow)
+</details>
+
+### [Q&A: Will we see VR in the future?](./transcriptions/yt-fPaoCTlPlO0.md) [https://www.youtube.com/watch?v=fPaoCTlPlO0](https://www.youtube.com/watch?v=fPaoCTlPlO0)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> um will we see vr in the future i don't know not really sure it's not it's not at all a priority and so i don't see it really ever getting done anytime soon at all when we have so many other things that like are super super important to do and vr is not a trivial thing like i guess it might be somewhat possible and maybe maybe tr trivial to just get the support in in any way maybe um but to actually make it anything good or worthwhile like i think it takes it would take a lot of effort and i don't think we're super willing to invest in that yet at the moment but maybe later who knows it's clear that there's a lot of people who would like it but i mean if it's if it's a crappy implementation i don't think it would be very fun was the modders mega vr support can they do that i guess i guess maybe yeah so i'm just sitting here staring at the [ __ ] lizard dog right now oh yeah i've still got him on my other monitor
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 12 other times, as recently as November 2021 and as early as August 2018.</summary>
+
+* [November 23rd, 2021 Livestream Q&A: VR Support?](./transcriptions/yt-iVDRQg_aWpU,6314.234365,6351.55304.md) [https://youtube.com/clip/UgkxH_brYKMFYwxTeHs6_FQOtO4la68AvjEE](https://youtube.com/clip/UgkxH_brYKMFYwxTeHs6_FQOtO4la68AvjEE)
+* October 26th, 2021 Update 5 Launch Stream and Patch Notes Video Q&A: VR? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=1803&end=1874](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=1803&end=1874)
+* [October 12th, 2021 Livestream Q&A: When does VR support come?](./transcriptions/yt-5GIATvK8NVQ.md) [https://www.youtube.com/watch?v=5GIATvK8NVQ](https://www.youtube.com/watch?v=5GIATvK8NVQ)
+* [June 22nd, 2021 Livestream Q&A: Are there any plans for VR?](./transcriptions/yt-aSo4zUTOCwE.md) [https://www.youtube.com/watch?v=aSo4zUTOCwE](https://www.youtube.com/watch?v=aSo4zUTOCwE)
+* [April 27th, 2021 Livestream Q&A: Any chance for a VR port?](./transcriptions/yt-bPmfShefJi4.md) [https://www.youtube.com/watch?v=bPmfShefJi4](https://www.youtube.com/watch?v=bPmfShefJi4)
+* [April 20th, 2021 Livestream Q&A: VR, when?](./transcriptions/yt-njMrANjFNLc.md) [https://www.youtube.com/watch?v=njMrANjFNLc](https://www.youtube.com/watch?v=njMrANjFNLc)
+* [March 9th, 2021 Livestream Q&A: VR Support at any time?](./transcriptions/yt-TKv8QdGLBW0.md) [https://www.youtube.com/watch?v=TKv8QdGLBW0](https://www.youtube.com/watch?v=TKv8QdGLBW0)
+* [January 26th, 2021 Livestream Q&A: VR support would be heavenly?](./transcriptions/yt-0Ld1fbTEOvM.md) [https://www.youtube.com/watch?v=0Ld1fbTEOvM](https://www.youtube.com/watch?v=0Ld1fbTEOvM)
+* [November 3rd, 2020 Livestream Q&A: VR Support?](./transcriptions/yt-eJz8dJImPfQ.md) [https://www.youtube.com/watch?v=eJz8dJImPfQ](https://www.youtube.com/watch?v=eJz8dJImPfQ)
+* [September 8th, 2020 Livestream Q&A: Ever consider making a VR version of Satisfactory?](./transcriptions/yt-3s-PKymQ9QU.md) [https://www.youtube.com/watch?v=3s-PKymQ9QU](https://www.youtube.com/watch?v=3s-PKymQ9QU)
+* [February 6th, 2019 Livestream Q&A: Will there be VR support?](./transcriptions/yt-Dtm6xIj-wM4,2442.266666666667,2534.034208.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2442&end=2535](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2442&end=2535)
+* [August 1st, 2018 Q&A: What about VR support?](./transcriptions/yt-iFAy1NZUOGU,66.08,68.24.md) [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=66&end=69](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=66&end=69)
+</details>
+
+### [Q&A: What about the Fluid Sink?](./transcriptions/yt--yErJoC5VSQ.md) [https://www.youtube.com/watch?v=-yErJoC5VSQ](https://www.youtube.com/watch?v=-yErJoC5VSQ)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> what about the fluid sink what what about it
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 9 other times, as recently as April 2021 and as early as August 2020.</summary>
+
+* [April 20th, 2021 Livestream Q&A: Is it possible to have a Sink also do Fluids?](./transcriptions/yt-FQqUQHMw4QA.md) [https://www.youtube.com/watch?v=FQqUQHMw4QA](https://www.youtube.com/watch?v=FQqUQHMw4QA)
+* [April 6th, 2021 Livestream Q&A: Sinking Fluids?](./transcriptions/yt-aXJMTzXDwrI.md) [https://www.youtube.com/watch?v=aXJMTzXDwrI](https://www.youtube.com/watch?v=aXJMTzXDwrI)
+* [April 6th, 2021 Livestream Q&A: Fluids Sinks?](./transcriptions/yt-GippjFCCUPw.md) [https://www.youtube.com/watch?v=GippjFCCUPw](https://www.youtube.com/watch?v=GippjFCCUPw)
+* [March 30th, 2021 Livestream Q&A: AWESOME Sink for fluids?](./transcriptions/yt-NzhKGg8zSAU.md) [https://www.youtube.com/watch?v=NzhKGg8zSAU](https://www.youtube.com/watch?v=NzhKGg8zSAU)
+* March 2nd, 2021 Livestream Q&A: Sink Fluids? [https://www.youtube.com/watch?v=_g71DI13oac](https://www.youtube.com/watch?v=_g71DI13oac)
+* [January 19th, 2021 Livestream Q&A: Sink that accepts Liquids or Gas?](./transcriptions/yt-SskXA-lxaCI.md) [https://www.youtube.com/watch?v=SskXA-lxaCI](https://www.youtube.com/watch?v=SskXA-lxaCI)
+* [October 27th, 2020 Livestream Q&A: Fluid Sink ever going to happen?](./transcriptions/yt-j79cJptq5h8.md) [https://www.youtube.com/watch?v=j79cJptq5h8](https://www.youtube.com/watch?v=j79cJptq5h8)
+* [September 1st, 2020 Livestream Q&A: Will there be something like the Resource Sink but for Fluids?](./transcriptions/yt-nT4pfUlmZBs.md) [https://www.youtube.com/watch?v=nT4pfUlmZBs](https://www.youtube.com/watch?v=nT4pfUlmZBs)
+* [August 25th, 2020 Livestream Q&A: Is the sink going to accept liquids in the future?](./transcriptions/yt-k6ZS5wzlNKs.md) [https://www.youtube.com/watch?v=k6ZS5wzlNKs](https://www.youtube.com/watch?v=k6ZS5wzlNKs)
+</details>
+
+### [Q&A: Is there a very long-term plan for random World generation?](./transcriptions/yt-0i2lAA8OUAs.md) [https://www.youtube.com/watch?v=0i2lAA8OUAs](https://www.youtube.com/watch?v=0i2lAA8OUAs)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> uh i'm really wondering if there's a very long-term plan for random world generation uh there's not really a long-term plan for random world generation because uh i mean first of all we haven't even finished with the current world and then we haven't really finished with the game at least in the way that we are envisioning it at the moment and so if we were to do something with like it's not as if it's not something we haven't thought about and it's not as if it's not something that's not in our backlog but whether or not we actually end up doing it we don't know and if we do it's probably not going to happen anytime soon but there's different levels of like randomization right so we can randomly generate the world or we can do other kinds of random genera uh generation with an existing world and so you never really know yeah that kind of thing will be a thing yeah we can't do like uh terrain to be randomized but we can like maybe randomize the nodes and stuff like that um
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 18 other times, as recently as August 2021 and as early as June 2018.</summary>
+
+* [August 24th, 2021 Livestream Q&A: Would it be possible to have a Map Randomly Generated in Satisfactory?](./transcriptions/yt-1AOF1qFxGm0.md) [https://www.youtube.com/watch?v=1AOF1qFxGm0](https://www.youtube.com/watch?v=1AOF1qFxGm0)
+* [June 29th, 2021 Livestream Q&A: Any plans for random map generation?](./transcriptions/yt-Z9c7weKgaz0.md) [https://www.youtube.com/watch?v=Z9c7weKgaz0](https://www.youtube.com/watch?v=Z9c7weKgaz0)
+* [April 27th, 2021 Livestream Q&A: Is the map generation going to be randomised in the future?](./transcriptions/yt-XMhLiJd6N2U.md) [https://www.youtube.com/watch?v=XMhLiJd6N2U](https://www.youtube.com/watch?v=XMhLiJd6N2U)
+* [April 20th, 2021 Livestream Q&A: Any plans for a procedurally generated map?](./transcriptions/yt-7LUcnDsDjnU.md) [https://www.youtube.com/watch?v=7LUcnDsDjnU](https://www.youtube.com/watch?v=7LUcnDsDjnU)
+* [March 30th, 2021 Livestream Q&A: Procedural Map?](./transcriptions/yt-ee53aGXd5wg.md) [https://www.youtube.com/watch?v=ee53aGXd5wg](https://www.youtube.com/watch?v=ee53aGXd5wg)
+* [February 16th, 2021 Livestream Q&A: Possible to get randomly generated maps?](./transcriptions/yt-FkM6JZIZrqg.md) [https://www.youtube.com/watch?v=FkM6JZIZrqg](https://www.youtube.com/watch?v=FkM6JZIZrqg)
+* [February 9th, 2021 Livestream Q&A: Why not have self generated maps?](./transcriptions/yt-hKIm2mk5AhM.md) [https://www.youtube.com/watch?v=hKIm2mk5AhM](https://www.youtube.com/watch?v=hKIm2mk5AhM)
+* [November 24th, 2020 Livestream Q&A: Procedural generation of the World?](./transcriptions/yt-q6tkuGjM4zY.md) [https://www.youtube.com/watch?v=q6tkuGjM4zY](https://www.youtube.com/watch?v=q6tkuGjM4zY)
+* [November 3rd, 2020 Livestream Q&A: Map is amazing, but infinite generation?](./transcriptions/yt-2yoGAha7ju0.md) [https://www.youtube.com/watch?v=2yoGAha7ju0](https://www.youtube.com/watch?v=2yoGAha7ju0)
+* [September 15th, 2020 Livestream Q&A: Any plans for randomly generated worlds / Procedurally Generated maps?](./transcriptions/yt-eo_84m3ZYfQ.md) [https://www.youtube.com/watch?v=eo_84m3ZYfQ](https://www.youtube.com/watch?v=eo_84m3ZYfQ)
+* [September 8th, 2020 Livestream Q&A: Procedural Generation?](./transcriptions/yt-lcZJKlvLZuo.md) [https://www.youtube.com/watch?v=lcZJKlvLZuo](https://www.youtube.com/watch?v=lcZJKlvLZuo)
+* [August 25th, 2020 Livestream Q&A: How about procedural maps?](./transcriptions/yt-oYVWBcgkahY.md) [https://www.youtube.com/watch?v=oYVWBcgkahY](https://www.youtube.com/watch?v=oYVWBcgkahY)
+* August 25th, 2020 Livestream Q&A: How about procedural maps? [https://clips.twitch.tv/ProtectiveWonderfulFrogVoteYea](https://clips.twitch.tv/ProtectiveWonderfulFrogVoteYea)
+* August 11th, 2020 Livestream Q&A: Randomly Generated Maps: [https://clips.twitch.tv/OilyBloodyMangoFutureMan](https://clips.twitch.tv/OilyBloodyMangoFutureMan)
+* [March 9th, 2019 Livestream Q&A: The map is pre-made, not procedurally generated?](./transcriptions/yt-229Wl8AMQx8.md) [https://www.youtube.com/watch?v=229Wl8AMQx8](https://www.youtube.com/watch?v=229Wl8AMQx8)
+* [March 9th, 2019 Livestream Q&A: Another game mode with a procedurally generated world?](./transcriptions/yt-GZlK2fIlYVk.md) [https://www.youtube.com/watch?v=GZlK2fIlYVk](https://www.youtube.com/watch?v=GZlK2fIlYVk)
+* [February 20th, 2019 Livestream Q&A: Is the World procedurally generated?](./transcriptions/yt-CB9bSigNYH8,3150.343797,3165.212187.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3150&end=3166](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3150&end=3166)
+* [June 22nd, 2018 Q&A: Is the Map procedurally generated?](./transcriptions/yt-W1E6EWrAsII,316.92,345.76.md) [https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=316&end=346](https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=316&end=346)
+</details>
+
+### [Q&A: Do you intend to add a Smart Merger?](./transcriptions/yt-QQzWlAO0NH0.md) [https://www.youtube.com/watch?v=QQzWlAO0NH0](https://www.youtube.com/watch?v=QQzWlAO0NH0)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> you intend to add a smart merger merger with possibilities to prioritize inputs so that's something that's been suggested a lot and i think the team know about that suggestion so like we'll we'll have to wait and see maybe we do plan maybe we don't
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 6 other times, as recently as April 2021 and as early as September 2020.</summary>
+
+* [April 20th, 2021 Livestream Q&A: Priority Merger?](./transcriptions/yt-KLCWJo13ln0.md) [https://www.youtube.com/watch?v=KLCWJo13ln0](https://www.youtube.com/watch?v=KLCWJo13ln0)
+* [February 9th, 2021 Livestream Q&A: Any plans for Smart Mergers yet?](./transcriptions/yt-KUfze04EJmA.md) [https://www.youtube.com/watch?v=KUfze04EJmA](https://www.youtube.com/watch?v=KUfze04EJmA)
+* [January 19th, 2021 Livestream Q&A: Smart Mergers?](./transcriptions/yt-iwID_cZx20g.md) [https://www.youtube.com/watch?v=iwID_cZx20g](https://www.youtube.com/watch?v=iwID_cZx20g)
+* [October 20th, 2020 Livestream Q&A: Will there be Priority Mergers for this Update?](./transcriptions/yt-sMidcvjGGOM.md) [https://www.youtube.com/watch?v=sMidcvjGGOM](https://www.youtube.com/watch?v=sMidcvjGGOM)
+* [September 8th, 2020 Livestream Q&A: Can you please add a Smart or Programmable Merger?](./transcriptions/yt-9rXxGWPB21E.md) [https://www.youtube.com/watch?v=9rXxGWPB21E](https://www.youtube.com/watch?v=9rXxGWPB21E)
+* [September 1st, 2020 Livestream Q&A: Thoughts on using a Priority Merger similar to Smart Splitter using overflow?](./transcriptions/yt-T5UqkbsAbXg.md) [https://www.youtube.com/watch?v=T5UqkbsAbXg](https://www.youtube.com/watch?v=T5UqkbsAbXg)
+</details>
+
 ## [January 25th, 2022 Livestream](./2022-01-25.md)
 ### [Q&A: Have you told what S.A.M. Ore stands for?](./transcriptions/yt-bp9bhL_WoQk.md) [https://www.youtube.com/watch?v=bp9bhL_WoQk](https://www.youtube.com/watch?v=bp9bhL_WoQk)
 
@@ -1205,33 +1340,6 @@ date: Last Modified
 * [November 24th, 2020 Livestream Q&A: Are Dedicated Servers going to have Mod support?](./transcriptions/yt-PD79jEZuOAU.md) [https://www.youtube.com/watch?v=PD79jEZuOAU](https://www.youtube.com/watch?v=PD79jEZuOAU)
 </details>
 
-### [Q&A: VR Support?](./transcriptions/yt-iVDRQg_aWpU,6314.234365,6351.55304.md) [https://youtube.com/clip/UgkxH_brYKMFYwxTeHs6_FQOtO4la68AvjEE](https://youtube.com/clip/UgkxH_brYKMFYwxTeHs6_FQOtO4la68AvjEE)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> vr support vr is something that like it's certainly cool but it's not really something that we are prioritizing right now there are much more important things to do than vr we don't really feel that vr pushes the game forward doesn't get it closer to being completed is what i mean it would certainly be cool and if we did do it we would want to do it in a way that's actually you know like good uh so i i don't know if we're ever gonna choose to do vr over other things anytime soon wouldn't hold your breath it's a lot of effort and like nobody at the studio wants to dive into that essentially yeah
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 11 other times, as recently as October 2021 and as early as August 2018.</summary>
-
-* October 26th, 2021 Update 5 Launch Stream and Patch Notes Video Q&A: VR? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=1803&end=1874](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=1803&end=1874)
-* [October 12th, 2021 Livestream Q&A: When does VR support come?](./transcriptions/yt-5GIATvK8NVQ.md) [https://www.youtube.com/watch?v=5GIATvK8NVQ](https://www.youtube.com/watch?v=5GIATvK8NVQ)
-* [June 22nd, 2021 Livestream Q&A: Are there any plans for VR?](./transcriptions/yt-aSo4zUTOCwE.md) [https://www.youtube.com/watch?v=aSo4zUTOCwE](https://www.youtube.com/watch?v=aSo4zUTOCwE)
-* [April 27th, 2021 Livestream Q&A: Any chance for a VR port?](./transcriptions/yt-bPmfShefJi4.md) [https://www.youtube.com/watch?v=bPmfShefJi4](https://www.youtube.com/watch?v=bPmfShefJi4)
-* [April 20th, 2021 Livestream Q&A: VR, when?](./transcriptions/yt-njMrANjFNLc.md) [https://www.youtube.com/watch?v=njMrANjFNLc](https://www.youtube.com/watch?v=njMrANjFNLc)
-* [March 9th, 2021 Livestream Q&A: VR Support at any time?](./transcriptions/yt-TKv8QdGLBW0.md) [https://www.youtube.com/watch?v=TKv8QdGLBW0](https://www.youtube.com/watch?v=TKv8QdGLBW0)
-* [January 26th, 2021 Livestream Q&A: VR support would be heavenly?](./transcriptions/yt-0Ld1fbTEOvM.md) [https://www.youtube.com/watch?v=0Ld1fbTEOvM](https://www.youtube.com/watch?v=0Ld1fbTEOvM)
-* [November 3rd, 2020 Livestream Q&A: VR Support?](./transcriptions/yt-eJz8dJImPfQ.md) [https://www.youtube.com/watch?v=eJz8dJImPfQ](https://www.youtube.com/watch?v=eJz8dJImPfQ)
-* [September 8th, 2020 Livestream Q&A: Ever consider making a VR version of Satisfactory?](./transcriptions/yt-3s-PKymQ9QU.md) [https://www.youtube.com/watch?v=3s-PKymQ9QU](https://www.youtube.com/watch?v=3s-PKymQ9QU)
-* [February 6th, 2019 Livestream Q&A: Will there be VR support?](./transcriptions/yt-Dtm6xIj-wM4,2442.266666666667,2534.034208.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2442&end=2535](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2442&end=2535)
-* [August 1st, 2018 Q&A: What about VR support?](./transcriptions/yt-iFAy1NZUOGU,66.08,68.24.md) [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=66&end=69](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=66&end=69)
-</details>
-
 ### [Q&A: Adding Elevators?](./transcriptions/yt-iVDRQg_aWpU,6784.266072012346,6810.7188.md) [https://youtube.com/clip/UgkxNdm8cNFL8ta9X0qt6iDOGmD2-0Axsc8U](https://youtube.com/clip/UgkxNdm8cNFL8ta9X0qt6iDOGmD2-0Axsc8U)
 
 <details>
@@ -2345,30 +2453,6 @@ date: Last Modified
 * [September 28th, 2021 Livestream Q&A: Any plans to release the Engine Upgrade to EA before Update 5 releases to Experimental?](./transcriptions/yt-IfYa23IgdLw.md) [https://www.youtube.com/watch?v=IfYa23IgdLw](https://www.youtube.com/watch?v=IfYa23IgdLw)
 </details>
 
-### [Q&A: No floating platforms any more?](./transcriptions/yt-o_kTaVSOdg4.md) [https://www.youtube.com/watch?v=o_kTaVSOdg4](https://www.youtube.com/watch?v=o_kTaVSOdg4)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> uh no floating platforms anymore i think you can have floating platforms uh that's not changing that will ever change honestly no i don't think it will ever change we've already we've already played with the idea of like uh structural integrity and stuff like that you know so that you had to hold up all your platforms and we kind of just just don't like it basically what about floating rocks though oh there's plenty of that don't you worry yeah will that ever go away i don't know gravity is a guy yeah uh it's the guy john
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 8 other times, as recently as June 2021 and as early as August 2020.</summary>
-
-* [June 29th, 2021 Livestream Q&A: Will we always have sky factories or will we need to figure out how to build on the ground?](./transcriptions/yt-WiDZuigYT2c.md) [https://www.youtube.com/watch?v=WiDZuigYT2c](https://www.youtube.com/watch?v=WiDZuigYT2c)
-* [May 11th, 2021 Livestream Q&A: Will non-floating structures ever be a thing?](./transcriptions/yt-xu7EL-x1qVE.md) [https://www.youtube.com/watch?v=xu7EL-x1qVE](https://www.youtube.com/watch?v=xu7EL-x1qVE)
-* [April 20th, 2021 Livestream Q&A: Will you add structual integrity?](./transcriptions/yt-1FF9HfEL8x0.md) [https://www.youtube.com/watch?v=1FF9HfEL8x0](https://www.youtube.com/watch?v=1FF9HfEL8x0)
-* [March 23rd, 2021 Livestream Q&A: Will there ever be a limitation to floating foundations in the air?](./transcriptions/yt-ryFai7jtoKY.md) [https://www.youtube.com/watch?v=ryFai7jtoKY](https://www.youtube.com/watch?v=ryFai7jtoKY)
-* [February 23rd, 2021 Livestream Q&A: Will Foundations be falling down from non-supported beams?](./transcriptions/yt-lxpA6PIJEbo.md) [https://www.youtube.com/watch?v=lxpA6PIJEbo](https://www.youtube.com/watch?v=lxpA6PIJEbo)
-* [January 26th, 2021 Livestream Q&A: Will physics be improved later on, i.e. Steel Beams for supports instead of floating platforms?](./transcriptions/yt-H5XZebVqyTA.md) [https://www.youtube.com/watch?v=H5XZebVqyTA](https://www.youtube.com/watch?v=H5XZebVqyTA)
-* [November 10th, 2020 Livestream Q&A: When will we implement gravity physics to the Buildings?](./transcriptions/yt-6JFV5EAIU8U.md) [https://www.youtube.com/watch?v=6JFV5EAIU8U](https://www.youtube.com/watch?v=6JFV5EAIU8U)
-* August 11th, 2020 Livestream Q&A: Floating Factories vs. Structural Supports [https://clips.twitch.tv/GiftedSincereDillDoubleRainbow](https://clips.twitch.tv/GiftedSincereDillDoubleRainbow)
-</details>
-
 ### [Q&A: I thought Coffee Stain Studios released Valheim?](./transcriptions/yt-jjOM5IpsAiw.md) [https://www.youtube.com/watch?v=jjOM5IpsAiw](https://www.youtube.com/watch?v=jjOM5IpsAiw)
 
 <details>
@@ -3267,39 +3351,6 @@ date: Last Modified
 
 * [August 17th, 2021 Livestream Q&A: Internally, do you know what the WIP items are planned to do, or is it up in the air?](./transcriptions/yt-cH02SWIw8-A.md) [https://www.youtube.com/watch?v=cH02SWIw8-A](https://www.youtube.com/watch?v=cH02SWIw8-A)
 * [March 23rd, 2021 Livestream Q&A: Do you have plans for the WIP items?](./transcriptions/yt-GPP6rcB8ROw.md) [https://www.youtube.com/watch?v=GPP6rcB8ROw](https://www.youtube.com/watch?v=GPP6rcB8ROw)
-</details>
-
-### [Q&A: Would it be possible to have a Map Randomly Generated in Satisfactory?](./transcriptions/yt-1AOF1qFxGm0.md) [https://www.youtube.com/watch?v=1AOF1qFxGm0](https://www.youtube.com/watch?v=1AOF1qFxGm0)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> um would it be possible to have a map randomly generated in satisfactory that's having the replay factor uh it is that's that's sort of what i talked about way before something that we've sort of confirmed that's coming in the game at some point is that we're gonna have uh various build modes or sorry various game modes in the game probably at some point uh and these can include like uh pacifist mode or you know creative mode maybe we'll have a randomizer uh the the the thing with the randomizer is that we cannot have procedural terrain because that's a lot more work than we want to put into the game and the game cannot support procedural generation i mean it can but like we're not going to do it essentially because we don't like that kind of vibe we'd rather handcraft it but we could do theoretic like a thing where we like mix up the nodes or like the the deposits um like the bushes i believe maybe the heart maybe even the crash sites like what's in them maybe like it's possible to do sort of that kind of randomizer um in the future so if you want that please upload that on the keyway side yeah like randomized node locations like i think that could add a lot to the game and it's not too tricky to implement i think so um yeah upload that if you want to see that in the game
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 17 other times, as recently as June 2021 and as early as June 2018.</summary>
-
-* [June 29th, 2021 Livestream Q&A: Any plans for random map generation?](./transcriptions/yt-Z9c7weKgaz0.md) [https://www.youtube.com/watch?v=Z9c7weKgaz0](https://www.youtube.com/watch?v=Z9c7weKgaz0)
-* [April 27th, 2021 Livestream Q&A: Is the map generation going to be randomised in the future?](./transcriptions/yt-XMhLiJd6N2U.md) [https://www.youtube.com/watch?v=XMhLiJd6N2U](https://www.youtube.com/watch?v=XMhLiJd6N2U)
-* [April 20th, 2021 Livestream Q&A: Any plans for a procedurally generated map?](./transcriptions/yt-7LUcnDsDjnU.md) [https://www.youtube.com/watch?v=7LUcnDsDjnU](https://www.youtube.com/watch?v=7LUcnDsDjnU)
-* [March 30th, 2021 Livestream Q&A: Procedural Map?](./transcriptions/yt-ee53aGXd5wg.md) [https://www.youtube.com/watch?v=ee53aGXd5wg](https://www.youtube.com/watch?v=ee53aGXd5wg)
-* [February 16th, 2021 Livestream Q&A: Possible to get randomly generated maps?](./transcriptions/yt-FkM6JZIZrqg.md) [https://www.youtube.com/watch?v=FkM6JZIZrqg](https://www.youtube.com/watch?v=FkM6JZIZrqg)
-* [February 9th, 2021 Livestream Q&A: Why not have self generated maps?](./transcriptions/yt-hKIm2mk5AhM.md) [https://www.youtube.com/watch?v=hKIm2mk5AhM](https://www.youtube.com/watch?v=hKIm2mk5AhM)
-* [November 24th, 2020 Livestream Q&A: Procedural generation of the World?](./transcriptions/yt-q6tkuGjM4zY.md) [https://www.youtube.com/watch?v=q6tkuGjM4zY](https://www.youtube.com/watch?v=q6tkuGjM4zY)
-* [November 3rd, 2020 Livestream Q&A: Map is amazing, but infinite generation?](./transcriptions/yt-2yoGAha7ju0.md) [https://www.youtube.com/watch?v=2yoGAha7ju0](https://www.youtube.com/watch?v=2yoGAha7ju0)
-* [September 15th, 2020 Livestream Q&A: Any plans for randomly generated worlds / Procedurally Generated maps?](./transcriptions/yt-eo_84m3ZYfQ.md) [https://www.youtube.com/watch?v=eo_84m3ZYfQ](https://www.youtube.com/watch?v=eo_84m3ZYfQ)
-* [September 8th, 2020 Livestream Q&A: Procedural Generation?](./transcriptions/yt-lcZJKlvLZuo.md) [https://www.youtube.com/watch?v=lcZJKlvLZuo](https://www.youtube.com/watch?v=lcZJKlvLZuo)
-* [August 25th, 2020 Livestream Q&A: How about procedural maps?](./transcriptions/yt-oYVWBcgkahY.md) [https://www.youtube.com/watch?v=oYVWBcgkahY](https://www.youtube.com/watch?v=oYVWBcgkahY)
-* August 25th, 2020 Livestream Q&A: How about procedural maps? [https://clips.twitch.tv/ProtectiveWonderfulFrogVoteYea](https://clips.twitch.tv/ProtectiveWonderfulFrogVoteYea)
-* August 11th, 2020 Livestream Q&A: Randomly Generated Maps: [https://clips.twitch.tv/OilyBloodyMangoFutureMan](https://clips.twitch.tv/OilyBloodyMangoFutureMan)
-* [March 9th, 2019 Livestream Q&A: The map is pre-made, not procedurally generated?](./transcriptions/yt-229Wl8AMQx8.md) [https://www.youtube.com/watch?v=229Wl8AMQx8](https://www.youtube.com/watch?v=229Wl8AMQx8)
-* [March 9th, 2019 Livestream Q&A: Another game mode with a procedurally generated world?](./transcriptions/yt-GZlK2fIlYVk.md) [https://www.youtube.com/watch?v=GZlK2fIlYVk](https://www.youtube.com/watch?v=GZlK2fIlYVk)
-* [February 20th, 2019 Livestream Q&A: Is the World procedurally generated?](./transcriptions/yt-CB9bSigNYH8,3150.343797,3165.212187.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3150&end=3166](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3150&end=3166)
-* [June 22nd, 2018 Q&A: Is the Map procedurally generated?](./transcriptions/yt-W1E6EWrAsII,316.92,345.76.md) [https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=316&end=346](https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=316&end=346)
 </details>
 
 ## [August 17th, 2021 Livestream](./2021-08-17.md)
@@ -4252,55 +4303,6 @@ date: Last Modified
 
 * [March 30th, 2021 Livestream Q&A: Any news on reworking colour selection?](./transcriptions/yt-OTsxz-Twmys.md) [https://www.youtube.com/watch?v=OTsxz-Twmys](https://www.youtube.com/watch?v=OTsxz-Twmys)
 * [March 23rd, 2021 Livestream Q&A: In the video about the Engine Upgrade, Jace talked about the improvement of building painting?](./transcriptions/yt-sc_p8BAXGEU.md) [https://www.youtube.com/watch?v=sc_p8BAXGEU](https://www.youtube.com/watch?v=sc_p8BAXGEU)
-</details>
-
-### [Q&A: Is it possible to have a Sink also do Fluids?](./transcriptions/yt-FQqUQHMw4QA.md) [https://www.youtube.com/watch?v=FQqUQHMw4QA](https://www.youtube.com/watch?v=FQqUQHMw4QA)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> there's always someone asked this is it possible to have a sink also use fluids you can't already do that uh you just need to package it first and we're not gonna do it so that you can just put a pipe in in the sink you're gonna need to package it
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 8 other times, as recently as April 2021 and as early as August 2020.</summary>
-
-* [April 6th, 2021 Livestream Q&A: Sinking Fluids?](./transcriptions/yt-aXJMTzXDwrI.md) [https://www.youtube.com/watch?v=aXJMTzXDwrI](https://www.youtube.com/watch?v=aXJMTzXDwrI)
-* [April 6th, 2021 Livestream Q&A: Fluids Sinks?](./transcriptions/yt-GippjFCCUPw.md) [https://www.youtube.com/watch?v=GippjFCCUPw](https://www.youtube.com/watch?v=GippjFCCUPw)
-* [March 30th, 2021 Livestream Q&A: AWESOME Sink for fluids?](./transcriptions/yt-NzhKGg8zSAU.md) [https://www.youtube.com/watch?v=NzhKGg8zSAU](https://www.youtube.com/watch?v=NzhKGg8zSAU)
-* March 2nd, 2021 Livestream Q&A: Sink Fluids? [https://www.youtube.com/watch?v=_g71DI13oac](https://www.youtube.com/watch?v=_g71DI13oac)
-* [January 19th, 2021 Livestream Q&A: Sink that accepts Liquids or Gas?](./transcriptions/yt-SskXA-lxaCI.md) [https://www.youtube.com/watch?v=SskXA-lxaCI](https://www.youtube.com/watch?v=SskXA-lxaCI)
-* [October 27th, 2020 Livestream Q&A: Fluid Sink ever going to happen?](./transcriptions/yt-j79cJptq5h8.md) [https://www.youtube.com/watch?v=j79cJptq5h8](https://www.youtube.com/watch?v=j79cJptq5h8)
-* [September 1st, 2020 Livestream Q&A: Will there be something like the Resource Sink but for Fluids?](./transcriptions/yt-nT4pfUlmZBs.md) [https://www.youtube.com/watch?v=nT4pfUlmZBs](https://www.youtube.com/watch?v=nT4pfUlmZBs)
-* [August 25th, 2020 Livestream Q&A: Is the sink going to accept liquids in the future?](./transcriptions/yt-k6ZS5wzlNKs.md) [https://www.youtube.com/watch?v=k6ZS5wzlNKs](https://www.youtube.com/watch?v=k6ZS5wzlNKs)
-</details>
-
-### [Q&A: Priority Merger?](./transcriptions/yt-KLCWJo13ln0.md) [https://www.youtube.com/watch?v=KLCWJo13ln0](https://www.youtube.com/watch?v=KLCWJo13ln0)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> priority merger i guess is is priority merger the same thing as like ratios being able to set ratio splitting or is that something you guys think is something different or because i see people refer to this as two different things and i'm not sure if it's like actually two different things or you guys are talking about the same thing whenever people say priority merger it's different oh okay then uh qa site go tell us what you what you think or maybe explain it to me actually that might be good priority merger gives priority to a specific input it will always take from that input before taking from others yeah that's something that we probably will add um wait i don't know honestly i don't think that's something we've uh thought too much about because the ratio thing we definitely see the use case for the priority merger um
->
-> [Music]
->
-> but at least i don't understand the difference between having the overflow option i need to re-knit this or maybe didn't talk to someone else so i think this is too hard to grasp but i hear you i hear okay um it's an oh it's not a merger yeah that's true okay cool cool cool that's true all right good to know uh if there's not a ticket for this on the qa site uh upvote it sorry if there's a ticket on this upload it and if there's not create one great snippet
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 5 other times, as recently as February 2021 and as early as September 2020.</summary>
-
-* [February 9th, 2021 Livestream Q&A: Any plans for Smart Mergers yet?](./transcriptions/yt-KUfze04EJmA.md) [https://www.youtube.com/watch?v=KUfze04EJmA](https://www.youtube.com/watch?v=KUfze04EJmA)
-* [January 19th, 2021 Livestream Q&A: Smart Mergers?](./transcriptions/yt-iwID_cZx20g.md) [https://www.youtube.com/watch?v=iwID_cZx20g](https://www.youtube.com/watch?v=iwID_cZx20g)
-* [October 20th, 2020 Livestream Q&A: Will there be Priority Mergers for this Update?](./transcriptions/yt-sMidcvjGGOM.md) [https://www.youtube.com/watch?v=sMidcvjGGOM](https://www.youtube.com/watch?v=sMidcvjGGOM)
-* [September 8th, 2020 Livestream Q&A: Can you please add a Smart or Programmable Merger?](./transcriptions/yt-9rXxGWPB21E.md) [https://www.youtube.com/watch?v=9rXxGWPB21E](https://www.youtube.com/watch?v=9rXxGWPB21E)
-* [September 1st, 2020 Livestream Q&A: Thoughts on using a Priority Merger similar to Smart Splitter using overflow?](./transcriptions/yt-T5UqkbsAbXg.md) [https://www.youtube.com/watch?v=T5UqkbsAbXg](https://www.youtube.com/watch?v=T5UqkbsAbXg)
 </details>
 
 ### [Q&A: Is there a roadmap publicly?](./transcriptions/yt-mZLhUSArwhM.md) [https://www.youtube.com/watch?v=mZLhUSArwhM](https://www.youtube.com/watch?v=mZLhUSArwhM)

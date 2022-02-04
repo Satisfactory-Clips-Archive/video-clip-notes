@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Unplanned Features](../../../topics/features/unplanned-features.md) > Golf
 
+## February 4th, 2022 Video
+* [Jace Talk: No Golf](../../../transcriptions/yt-J4LlorYbVV0,945.4111333333334,1063.8628.md) [https://youtube.com/embed/J4LlorYbVV0?autoplay=1&start=945&end=1064](https://youtube.com/embed/J4LlorYbVV0?autoplay=1&start=945&end=1064)
+
 ## December 14th, 2021 Livestream
 * [Q&A: Golf, when?](../../../transcriptions/yt-7izKxTtG3js.md) [https://www.youtube.com/watch?v=7izKxTtG3js](https://www.youtube.com/watch?v=7izKxTtG3js)
 

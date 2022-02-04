@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Unplanned Features](../../../topics/features/unplanned-features.md) > Base Defense
 
+## February 4th, 2022 Video
+* [Jace Talk: No Base Defence](../../../transcriptions/yt-J4LlorYbVV0,149.41593333333333,264.33073333333334.md) [https://youtube.com/embed/J4LlorYbVV0?autoplay=1&start=149&end=265](https://youtube.com/embed/J4LlorYbVV0?autoplay=1&start=149&end=265)
+
 ## October 12th, 2021 Livestream
 * [Q&A: Can you confirm Laser auto Towers in Update 5 Tier 10?](../../../transcriptions/yt-v4vyUvsJq5E.md) [https://www.youtube.com/watch?v=v4vyUvsJq5E](https://www.youtube.com/watch?v=v4vyUvsJq5E)
 

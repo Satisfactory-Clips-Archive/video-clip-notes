@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Creatures](../../../topics/environment/creatures.md) > Lizard Doggo
 
+## February 4th, 2022 Video
+* [Jace Talk: Merch](../../../transcriptions/yt-J4LlorYbVV0,19.32848,95.16173333333333.md) [https://youtube.com/embed/J4LlorYbVV0?autoplay=1&start=19&end=96](https://youtube.com/embed/J4LlorYbVV0?autoplay=1&start=19&end=96)
+
 ## January 25th, 2022 Livestream
 * [Q&A: Is Lizard Doggo supposed to respawn?](../../../transcriptions/yt-ysqzjxSteoY.md) [https://www.youtube.com/watch?v=ysqzjxSteoY](https://www.youtube.com/watch?v=ysqzjxSteoY)
 

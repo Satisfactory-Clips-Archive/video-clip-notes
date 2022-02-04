@@ -10,7 +10,7 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: When will we implement gravity physics to the Buildings?
 https://www.youtube.com/watch?v=6JFV5EAIU8U
-This question was possibly duplicated with a more recent answer: [October 5th, 2021 Livestream Q&A: No floating platforms any more?](./yt-o_kTaVSOdg4.md) [https://www.youtube.com/watch?v=o_kTaVSOdg4](https://www.youtube.com/watch?v=o_kTaVSOdg4)
+This question was possibly duplicated with a more recent answer: [February 1st, 2022 Livestream Q&A: Will you ever implement gravity to the Building objects?](./yt-8jD6INRCUQg.md) [https://www.youtube.com/watch?v=8jD6INRCUQg](https://www.youtube.com/watch?v=8jD6INRCUQg)
 
 
 ### Topics

@@ -8,7 +8,7 @@ topics:
 # [June 22nd, 2021 Livestream](../2021-06-22.md)
 ## Q&A: Are there any plans for VR?
 https://www.youtube.com/watch?v=aSo4zUTOCwE
-This question was possibly duplicated with a more recent answer: [November 23rd, 2021 Livestream Q&A: VR Support?](./yt-iVDRQg_aWpU,6314.234365,6351.55304.md) [https://youtube.com/clip/UgkxH_brYKMFYwxTeHs6_FQOtO4la68AvjEE](https://youtube.com/clip/UgkxH_brYKMFYwxTeHs6_FQOtO4la68AvjEE)
+This question was possibly duplicated with a more recent answer: [February 1st, 2022 Livestream Q&A: Will we see VR in the future?](./yt-fPaoCTlPlO0.md) [https://www.youtube.com/watch?v=fPaoCTlPlO0](https://www.youtube.com/watch?v=fPaoCTlPlO0)
 
 
 ### Topics

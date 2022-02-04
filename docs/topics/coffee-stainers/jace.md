@@ -9,6 +9,10 @@ date: Last Modified
 * [Jace Art](../../topics/coffee-stainers/jace/jace-art.md)
 * [Juice Velvet](../../topics/coffee-stainers/jace/juice-velvet.md)
 
+## February 1st, 2022 Livestream
+* [Q&A: Dinner plans?](../../transcriptions/yt-Iy6dI3IHApI.md) [https://www.youtube.com/watch?v=Iy6dI3IHApI](https://www.youtube.com/watch?v=Iy6dI3IHApI)
+* [Community FYI: I heard the same thing happened to the Dodo bird](../../transcriptions/yt-DQRbw8aMqAQ.md) [https://www.youtube.com/watch?v=DQRbw8aMqAQ](https://www.youtube.com/watch?v=DQRbw8aMqAQ)
+
 ## January 25th, 2022 Livestream
 * [Q&A: Are you two still able to add your ideas to the game?](../../transcriptions/yt-Yif8SgooUPA.md) [https://www.youtube.com/watch?v=Yif8SgooUPA](https://www.youtube.com/watch?v=Yif8SgooUPA)
 

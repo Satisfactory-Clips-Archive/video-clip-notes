@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Unplanned Features](../../../topics/features/unplanned-features.md) > Terraforming
 
+## February 4th, 2022 Video
+* [Jace Talk: Terraforming](../../../transcriptions/yt-J4LlorYbVV0,862.4949666666666,945.3777666666667.md) [https://youtube.com/embed/J4LlorYbVV0?autoplay=1&start=862&end=946](https://youtube.com/embed/J4LlorYbVV0?autoplay=1&start=862&end=946)
+
 ## January 25th, 2022 Livestream
 * [Q&A: Will we ever get Terraforming?](../../../transcriptions/yt-3nUoWBq9pjM.md) [https://www.youtube.com/watch?v=3nUoWBq9pjM](https://www.youtube.com/watch?v=3nUoWBq9pjM)
 

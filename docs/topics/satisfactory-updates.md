@@ -18,6 +18,9 @@ date: Last Modified
 * [Teasers & Trailers](../topics/satisfactory-updates/teasers-and-trailers.md)
 * [World Update](../topics/satisfactory-updates/world-update.md)
 
+## February 4th, 2022 Video
+* [Jace Talk: Bugfixes](../transcriptions/yt-J4LlorYbVV0,95.1951,102.8027.md) [https://youtube.com/embed/J4LlorYbVV0?autoplay=1&start=95&end=103](https://youtube.com/embed/J4LlorYbVV0?autoplay=1&start=95&end=103)
+
 ## January 21st, 2022 Video
 * [Jace Talk: Planning Update 6 and beyond](../transcriptions/yt-t7pRHznihEA,106.37293333333334,194.29410000000001.md) [https://youtube.com/embed/t7pRHznihEA?autoplay=1&start=106&end=195](https://youtube.com/embed/t7pRHznihEA?autoplay=1&start=106&end=195)
 

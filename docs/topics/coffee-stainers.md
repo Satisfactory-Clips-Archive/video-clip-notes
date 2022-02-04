@@ -37,6 +37,9 @@ date: Last Modified
 * [Torsten](../topics/coffee-stainers/torsten.md)
 * [Uzu](../topics/coffee-stainers/uzu.md)
 
+## February 1st, 2022 Livestream
+* [Snutt & Jace Talk: Coffee Stainer nicknames](../transcriptions/yt-5NsyIbKUxAo.md) [https://www.youtube.com/watch?v=5NsyIbKUxAo](https://www.youtube.com/watch?v=5NsyIbKUxAo)
+
 ## January 18th, 2022 Livestream
 * [Q&A: Do you have problems with someone leak secret things from the game?](../transcriptions/yt-FEYF_0Iq4h0.md) [https://www.youtube.com/watch?v=FEYF_0Iq4h0](https://www.youtube.com/watch?v=FEYF_0Iq4h0)
 * [Community FYI: Thanks for all the hard work you and the team are putting into the game](../transcriptions/yt-FODDKzWwcVk.md) [https://www.youtube.com/watch?v=FODDKzWwcVk](https://www.youtube.com/watch?v=FODDKzWwcVk)
