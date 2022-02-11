@@ -8,7 +8,7 @@ topics:
 # [May 4th, 2021 Livestream](../2021-05-04.md)
 ## Q&A: Boats?
 https://www.youtube.com/watch?v=E1c7SsWhb0s
-This question was possibly duplicated with a more recent answer: [August 10th, 2021 Livestream Q&A: Boats?](./yt-Kkr3alKdef0.md) [https://www.youtube.com/watch?v=Kkr3alKdef0](https://www.youtube.com/watch?v=Kkr3alKdef0)
+This question was possibly duplicated with a more recent answer: [February 8th, 2022 Livestream Q&A: Still wanna know when we're getting boats?](./yt-AKd0bKZW0ZE.md) [https://www.youtube.com/watch?v=AKd0bKZW0ZE](https://www.youtube.com/watch?v=AKd0bKZW0ZE)
 
 
 ### Topics

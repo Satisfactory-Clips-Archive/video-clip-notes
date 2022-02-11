@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Speculative > Satisfactory Update 6
 
+## February 8th, 2022 Livestream
+* [Q&A: Is Spire Coast rework still on the roadmap?](../../../transcriptions/yt-ej4HO0ZrhQQ.md) [https://www.youtube.com/watch?v=ej4HO0ZrhQQ](https://www.youtube.com/watch?v=ej4HO0ZrhQQ)
+
 ## January 21st, 2022 Video
 * [Jace Talk: Planning Update 6 and beyond](../../../transcriptions/yt-t7pRHznihEA,106.37293333333334,194.29410000000001.md) [https://youtube.com/embed/t7pRHznihEA?autoplay=1&start=106&end=195](https://youtube.com/embed/t7pRHznihEA?autoplay=1&start=106&end=195)
 

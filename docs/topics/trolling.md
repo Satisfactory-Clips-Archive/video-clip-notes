@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Trolling
 
+## February 8th, 2022 Livestream
+* [Q&A: Is there any Community Manager opening up soon when Snutt gets fired for the 6th time?](../transcriptions/yt-XVIcVR5Xcy0.md) [https://www.youtube.com/watch?v=XVIcVR5Xcy0](https://www.youtube.com/watch?v=XVIcVR5Xcy0)
+
 ## January 18th, 2022 Livestream
 * [Q&A: Put out a roadmap that's just "troll community, release update, troll community"?](../transcriptions/yt-yOLvvuiPGyQ.md) [https://www.youtube.com/watch?v=yOLvvuiPGyQ](https://www.youtube.com/watch?v=yOLvvuiPGyQ)
 

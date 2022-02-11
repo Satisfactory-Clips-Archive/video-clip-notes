@@ -8,7 +8,7 @@ topics:
 # [April 13th, 2021 Livestream](../2021-04-13.md)
 ## Q&A: Anything about achievements?
 https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6652&end=6680
-This question was possibly duplicated with a more recent answer: [November 30th, 2021 Livestream Q&A: Steam Achivements?](./yt-3KRCUE3VOxE.md) [https://www.youtube.com/watch?v=3KRCUE3VOxE](https://www.youtube.com/watch?v=3KRCUE3VOxE)
+This question was possibly duplicated with a more recent answer: [February 8th, 2022 Livestream Q&A: Are there Achievements planned for Satisfactory?](./yt-i-9UAyVFe6s.md) [https://www.youtube.com/watch?v=i-9UAyVFe6s](https://www.youtube.com/watch?v=i-9UAyVFe6s)
 
 
 ### Topics

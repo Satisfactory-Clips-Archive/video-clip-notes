@@ -8,12 +8,7 @@ topics:
 # [January 18th, 2022 Livestream](../2022-01-18.md)
 ## Q&A: What's the status of Docker images?
 https://www.youtube.com/watch?v=dP8lKBJ8ZQE
-<details>
-<summary>This question may have been asked previously at least 2 other times, as recently as November 2021 and as early as August 2021.</summary>
-
-* [November 9th, 2021 Livestream Q&A: Official Docker, when?](./yt-BeXedaj-qHA.md) [https://www.youtube.com/watch?v=BeXedaj-qHA](https://www.youtube.com/watch?v=BeXedaj-qHA)
-* [August 31st, 2021 Livestream Q&A: Could we use the Dedicated Servers with Docker?](./yt-NaW1NBgb70I.md) [https://www.youtube.com/watch?v=NaW1NBgb70I](https://www.youtube.com/watch?v=NaW1NBgb70I)
-</details>
+This question was possibly duplicated with a more recent answer: [February 8th, 2022 Livestream Q&A: Did you consider Docker support for Dedicated Servers?](./yt-2XzxkZF-fD0.md) [https://www.youtube.com/watch?v=2XzxkZF-fD0](https://www.youtube.com/watch?v=2XzxkZF-fD0)
 
 
 ### Topics

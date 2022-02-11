@@ -9,6 +9,9 @@ date: Last Modified
 * [Jace Art](../../topics/coffee-stainers/jace/jace-art.md)
 * [Juice Velvet](../../topics/coffee-stainers/jace/juice-velvet.md)
 
+## February 8th, 2022 Livestream
+* [Snutt & Jace Talk: pre-stream hype music for Snutt](../../transcriptions/yt-6EjZflR0fy8.md) [https://www.youtube.com/watch?v=6EjZflR0fy8](https://www.youtube.com/watch?v=6EjZflR0fy8)
+
 ## February 1st, 2022 Livestream
 * [Q&A: Dinner plans?](../../transcriptions/yt-Iy6dI3IHApI.md) [https://www.youtube.com/watch?v=Iy6dI3IHApI](https://www.youtube.com/watch?v=Iy6dI3IHApI)
 * [Community FYI: I heard the same thing happened to the Dodo bird](../../transcriptions/yt-DQRbw8aMqAQ.md) [https://www.youtube.com/watch?v=DQRbw8aMqAQ](https://www.youtube.com/watch?v=DQRbw8aMqAQ)

@@ -9,7 +9,7 @@ topics:
 # [March 24th, 2020 Livestream](../2020-03-24.md)
 ## Q&A: Creative Mode without having to Mod?
 https://www.youtube.com/watch?v=ww37EE17YP4
-This question was possibly duplicated with a more recent answer: [December 14th, 2021 Livestream Q&A: Will you do Creative Mode?](./yt-q3kWY1f6rjk.md) [https://www.youtube.com/watch?v=q3kWY1f6rjk](https://www.youtube.com/watch?v=q3kWY1f6rjk)
+This question was possibly duplicated with a more recent answer: [February 8th, 2022 Livestream Q&A: Creative Mode?](./yt-si20TQaDIXs.md) [https://www.youtube.com/watch?v=si20TQaDIXs](https://www.youtube.com/watch?v=si20TQaDIXs)
 
 
 ### Topics

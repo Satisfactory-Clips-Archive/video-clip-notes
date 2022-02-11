@@ -8,6 +8,9 @@ date: Last Modified
 * [Recipes](../../topics/features/crafting/recipes.md)
 * [Superposition Oscillator](../../topics/features/crafting/superposition-oscillator.md)
 
+## February 8th, 2022 Livestream
+* [Q&A: Are there any plans to add Alt Recipes for items that currently have none?](../../transcriptions/yt--9ItyjhW4Gs.md) [https://www.youtube.com/watch?v=-9ItyjhW4Gs](https://www.youtube.com/watch?v=-9ItyjhW4Gs)
+
 ## November 9th, 2021 Livestream
 * [Q&A: Will the stack sizes for Iron Plates increase, with Foundation changes they're eating up space?](../../transcriptions/yt-OXjbnXVYKw4.md) [https://www.youtube.com/watch?v=OXjbnXVYKw4](https://www.youtube.com/watch?v=OXjbnXVYKw4)
 

@@ -10,6 +10,9 @@ date: Last Modified
 * [Power Storage](../../topics/features/power-management/power-storage.md)
 * [Power Switch](../../topics/features/power-management/power-switch.md)
 
+## February 8th, 2022 Livestream
+* Q&A: Would you consider adding a way to remotely monitor your Power Grid? [https://www.youtube.com/watch?v=5owfQK47Hyg](https://www.youtube.com/watch?v=5owfQK47Hyg)
+
 ## November 30th, 2021 Livestream
 * [Q&A: How do you get the "Fuse Blown" sound file, I want to use it for my alarm clock](../../transcriptions/yt-QctUvuCZAXo.md) [https://www.youtube.com/watch?v=QctUvuCZAXo](https://www.youtube.com/watch?v=QctUvuCZAXo)
 

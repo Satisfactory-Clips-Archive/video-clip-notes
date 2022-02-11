@@ -8,7 +8,7 @@ topics:
 # [July 13th, 2021 Livestream](../2021-07-13.md)
 ## Q&A: Any plans for Character Customisation?
 https://www.youtube.com/watch?v=bC4-mnWrSQM
-This question was possibly duplicated with a more recent answer: [August 24th, 2021 Livestream Q&A: Character Customisation?](./yt-5wiYaEfx0ro.md) [https://www.youtube.com/watch?v=5wiYaEfx0ro](https://www.youtube.com/watch?v=5wiYaEfx0ro)
+This question was possibly duplicated with a more recent answer: [February 8th, 2022 Livestream Q&A: Can we customise the Pioneer in the future for Multiplayer?](./yt-3gdkRbsLRUo.md) [https://www.youtube.com/watch?v=3gdkRbsLRUo](https://www.youtube.com/watch?v=3gdkRbsLRUo)
 
 
 ### Topics

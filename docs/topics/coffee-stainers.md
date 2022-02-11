@@ -37,6 +37,10 @@ date: Last Modified
 * [Torsten](../topics/coffee-stainers/torsten.md)
 * [Uzu](../topics/coffee-stainers/uzu.md)
 
+## February 8th, 2022 Livestream
+* [Q&A: How many people work at your studio?](../transcriptions/yt-zZHLKZIyLRI.md) [https://www.youtube.com/watch?v=zZHLKZIyLRI](https://www.youtube.com/watch?v=zZHLKZIyLRI)
+* [Q&A: Does anyone at the company play with Mods?](../transcriptions/yt-v6oZ6eDo3uc.md) [https://www.youtube.com/watch?v=v6oZ6eDo3uc](https://www.youtube.com/watch?v=v6oZ6eDo3uc)
+
 ## February 1st, 2022 Livestream
 * [Snutt & Jace Talk: Coffee Stainer nicknames](../transcriptions/yt-5NsyIbKUxAo.md) [https://www.youtube.com/watch?v=5NsyIbKUxAo](https://www.youtube.com/watch?v=5NsyIbKUxAo)
 

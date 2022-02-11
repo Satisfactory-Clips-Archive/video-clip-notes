@@ -8,7 +8,7 @@ topics:
 # [May 25th, 2021 Livestream](../2021-05-25.md)
 ## Q&A: Any talk of adding Farming?
 https://www.youtube.com/watch?v=bGXZgS3dKc8
-This question was possibly duplicated with a more recent answer: [December 14th, 2021 Livestream Q&A: Can you comment of Farming?](./yt-TpcscsCHVCQ.md) [https://www.youtube.com/watch?v=TpcscsCHVCQ](https://www.youtube.com/watch?v=TpcscsCHVCQ)
+This question was possibly duplicated with a more recent answer: [February 8th, 2022 Livestream Q&A: Farms?](./yt-FqwSycZqJWo.md) [https://www.youtube.com/watch?v=FqwSycZqJWo](https://www.youtube.com/watch?v=FqwSycZqJWo)
 
 
 ### Topics

@@ -20,6 +20,9 @@ date: Last Modified
 * [The Cycle](../topics/off-topic/the-cycle.md)
 * [Valheim](../topics/off-topic/valheim.md)
 
+## February 8th, 2022 Livestream
+* [Q&A: Groundhog Day or Truman Show?](../transcriptions/yt-X7XkqtU7n4c.md) [https://www.youtube.com/watch?v=X7XkqtU7n4c](https://www.youtube.com/watch?v=X7XkqtU7n4c)
+
 ## February 1st, 2022 Livestream
 * [Community FYI: I heard the same thing happened to the Dodo bird](../transcriptions/yt-DQRbw8aMqAQ.md) [https://www.youtube.com/watch?v=DQRbw8aMqAQ](https://www.youtube.com/watch?v=DQRbw8aMqAQ)
 

@@ -8,7 +8,7 @@ topics:
 # [March 30th, 2021 Livestream](../2021-03-30.md)
 ## Q&A: Is Creative Mode coming?
 https://www.youtube.com/watch?v=l4yloW6vhr8
-This question was possibly duplicated with a more recent answer: [December 14th, 2021 Livestream Q&A: Will you do Creative Mode?](./yt-q3kWY1f6rjk.md) [https://www.youtube.com/watch?v=q3kWY1f6rjk](https://www.youtube.com/watch?v=q3kWY1f6rjk)
+This question was possibly duplicated with a more recent answer: [February 8th, 2022 Livestream Q&A: Creative Mode?](./yt-si20TQaDIXs.md) [https://www.youtube.com/watch?v=si20TQaDIXs](https://www.youtube.com/watch?v=si20TQaDIXs)
 
 
 ### Topics

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Valheim
 
+## February 8th, 2022 Livestream
+* [Q&A: What do you guys think about Valheim?](../../transcriptions/yt--h5pyZyjDLI.md) [https://www.youtube.com/watch?v=-h5pyZyjDLI](https://www.youtube.com/watch?v=-h5pyZyjDLI)
+
 ## October 5th, 2021 Livestream
 * Q&A: Have you guys heard of Valheim? [https://www.youtube.com/watch?v=lW2CuiAO-zw](https://www.youtube.com/watch?v=lW2CuiAO-zw)
 * [Q&A: I thought Coffee Stain Studios released Valheim?](../../transcriptions/yt-jjOM5IpsAiw.md) [https://www.youtube.com/watch?v=jjOM5IpsAiw](https://www.youtube.com/watch?v=jjOM5IpsAiw)

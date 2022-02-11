@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Pending > Satisfactory 1.0
 
+## February 8th, 2022 Livestream
+* [Q&A: Is Spire Coast rework still on the roadmap?](../../../transcriptions/yt-ej4HO0ZrhQQ.md) [https://www.youtube.com/watch?v=ej4HO0ZrhQQ](https://www.youtube.com/watch?v=ej4HO0ZrhQQ)
+* [Q&A: In light of Factorio's news about their expansion, do you have any plans for post-1.0 content?](../../../transcriptions/yt-P7I5wjusdjs.md) [https://www.youtube.com/watch?v=P7I5wjusdjs](https://www.youtube.com/watch?v=P7I5wjusdjs)
+
 ## January 18th, 2022 Livestream
 * [Q&A: Will there be a playthrough by you when the game comes out?](../../../transcriptions/yt-cZqd0Qiq38E.md) [https://www.youtube.com/watch?v=cZqd0Qiq38E](https://www.youtube.com/watch?v=cZqd0Qiq38E)
 

@@ -8,7 +8,7 @@ topics:
 # [August 17th, 2021 Livestream](../2021-08-17.md)
 ## Q&A: How many devs are you?
 https://www.youtube.com/watch?v=SvpznvEqr5E
-This question was possibly duplicated with a more recent answer: [November 9th, 2021 Livestream Q&A: Is Satisfactory a team of 25 people?](./yt-niOtt1II3gw.md) [https://www.youtube.com/watch?v=niOtt1II3gw](https://www.youtube.com/watch?v=niOtt1II3gw)
+This question was possibly duplicated with a more recent answer: [February 8th, 2022 Livestream Q&A: How many people work at your studio?](./yt-zZHLKZIyLRI.md) [https://www.youtube.com/watch?v=zZHLKZIyLRI](https://www.youtube.com/watch?v=zZHLKZIyLRI)
 
 
 ### Topics

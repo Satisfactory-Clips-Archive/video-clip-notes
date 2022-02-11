@@ -32,6 +32,9 @@ date: Last Modified
 * [Utility Signs](../topics/mods/utility-signs.md)
 * [Zip Strips](../topics/mods/zip-strips.md)
 
+## February 8th, 2022 Livestream
+* [Q&A: Does anyone at the company play with Mods?](../transcriptions/yt-v6oZ6eDo3uc.md) [https://www.youtube.com/watch?v=v6oZ6eDo3uc](https://www.youtube.com/watch?v=v6oZ6eDo3uc)
+
 ## December 14th, 2021 Livestream
 * [Q&A: I've been unable to find the FICS⁕MAS skins, where do you find them?](../transcriptions/yt-OPTD-DT5Ews.md) [https://www.youtube.com/watch?v=OPTD-DT5Ews](https://www.youtube.com/watch?v=OPTD-DT5Ews)
 

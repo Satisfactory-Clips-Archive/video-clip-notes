@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Wiki
 
+## February 8th, 2022 Livestream
+* [Snutt & Jace Talk: Lake Shark](../../transcriptions/yt-bu0Z-_vt8sk.md) [https://www.youtube.com/watch?v=bu0Z-_vt8sk](https://www.youtube.com/watch?v=bu0Z-_vt8sk)
+
 ## January 18th, 2022 Livestream
 * [Q&A: Where is your focus for Update 6?](../../transcriptions/yt-a-L9c5HwpqQ.md) [https://www.youtube.com/watch?v=a-L9c5HwpqQ](https://www.youtube.com/watch?v=a-L9c5HwpqQ)
 

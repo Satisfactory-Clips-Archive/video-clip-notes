@@ -8,6 +8,8 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Does Coffee Stain "matrix" it's people across different games?
 https://www.youtube.com/watch?v=AjCUCamZMTk
+This question was possibly duplicated with a more recent answer: [February 8th, 2022 Livestream Q&A: How much of Coffee Stain is working on Satisfactory vs. other games?](./yt-oCPtri5h_4k.md) [https://www.youtube.com/watch?v=oCPtri5h_4k](https://www.youtube.com/watch?v=oCPtri5h_4k)
+
 
 ### Topics
 * [Embracer Group > Coffee Stain Holding > Coffee Stain Studios](../topics/embracer-group/coffee-stain-holding/coffee-stain-studios.md)

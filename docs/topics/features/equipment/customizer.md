@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Equipment](../../../topics/features/equipment.md) > Customizer
 
+## February 8th, 2022 Livestream
+* [Q&A: Can we get materials for half-pipes?](../../../transcriptions/yt-s1Tz9QOFyZc.md) [https://www.youtube.com/watch?v=s1Tz9QOFyZc](https://www.youtube.com/watch?v=s1Tz9QOFyZc)
+* [Q&A: Renamable Colour Swatches?](../../../transcriptions/yt--b06Z6Xxtbk.md) [https://www.youtube.com/watch?v=-b06Z6Xxtbk](https://www.youtube.com/watch?v=-b06Z6Xxtbk)
+* [Q&A: Paint schemes for Trains?](../../../transcriptions/yt-Txneuw473IM.md) [https://www.youtube.com/watch?v=Txneuw473IM](https://www.youtube.com/watch?v=Txneuw473IM)
+
 ## December 7th, 2021 Livestream
 * [Q&A: What happened with the Conveyor Belt skin?](../../../transcriptions/yt-HWlLqhvdcbI.md) [https://www.youtube.com/watch?v=HWlLqhvdcbI](https://www.youtube.com/watch?v=HWlLqhvdcbI)
 * [Q&A: Can you make a 12 hour stream where you paint a whole factory with the Colour Gun?](../../../transcriptions/yt-dVk28SFgz90.md) [https://www.youtube.com/watch?v=dVk28SFgz90](https://www.youtube.com/watch?v=dVk28SFgz90)

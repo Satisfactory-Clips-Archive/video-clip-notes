@@ -7,6 +7,9 @@ date: Last Modified
 * [Flushable Toilet DLC](../../../topics/features/possible-features/dlc/flushable-toilet-dlc.md)
 * [Toilet Paper DLC](../../../topics/features/possible-features/dlc/toilet-paper-dlc.md)
 
+## February 8th, 2022 Livestream
+* [Q&A: In light of Factorio's news about their expansion, do you have any plans for post-1.0 content?](../../../transcriptions/yt-P7I5wjusdjs.md) [https://www.youtube.com/watch?v=P7I5wjusdjs](https://www.youtube.com/watch?v=P7I5wjusdjs)
+
 ## February 1st, 2022 Livestream
 * [Snutt & Jace Talk: Choo Choo DLC](../../../transcriptions/yt-VA-FA0BhTwk.md) [https://www.youtube.com/watch?v=VA-FA0BhTwk](https://www.youtube.com/watch?v=VA-FA0BhTwk)
 

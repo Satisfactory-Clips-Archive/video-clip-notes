@@ -7,6 +7,9 @@ date: Last Modified
 * [Crossplay](../../topics/features/multiplayer/crossplay.md)
 * [Dedicated Servers](../../topics/features/multiplayer/dedicated-servers.md)
 
+## February 8th, 2022 Livestream
+* [Q&A: Can we customise the Pioneer in the future for Multiplayer?](../../transcriptions/yt-3gdkRbsLRUo.md) [https://www.youtube.com/watch?v=3gdkRbsLRUo](https://www.youtube.com/watch?v=3gdkRbsLRUo)
+
 ## February 1st, 2022 Livestream
 * [Q&A: Do you plan on working on the Multiplayer aspect?](../../transcriptions/yt-19l2AM8vDQo.md) [https://www.youtube.com/watch?v=19l2AM8vDQo](https://www.youtube.com/watch?v=19l2AM8vDQo)
 

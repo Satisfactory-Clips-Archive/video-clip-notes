@@ -7,6 +7,12 @@ date: Last Modified
 * [Snutt Burger Time](../../topics/coffee-stainers/snutt/snutt-burger-time.md)
 * [Snutty Mays](../../topics/coffee-stainers/snutt/snutty-mays.md)
 
+## February 8th, 2022 Livestream
+* [Snutt & Jace Talk: pre-stream hype music for Snutt](../../transcriptions/yt-6EjZflR0fy8.md) [https://www.youtube.com/watch?v=6EjZflR0fy8](https://www.youtube.com/watch?v=6EjZflR0fy8)
+* Q&A: Do you accept suggestions for the "Get Snutt hype pre-stream playlist"? [https://www.youtube.com/watch?v=pqIwvRb5SaE](https://www.youtube.com/watch?v=pqIwvRb5SaE)
+* [Q&A: Is there any Community Manager opening up soon when Snutt gets fired for the 6th time?](../../transcriptions/yt-XVIcVR5Xcy0.md) [https://www.youtube.com/watch?v=XVIcVR5Xcy0](https://www.youtube.com/watch?v=XVIcVR5Xcy0)
+* [Snutt & Jace Talk: Lake Shark](../../transcriptions/yt-bu0Z-_vt8sk.md) [https://www.youtube.com/watch?v=bu0Z-_vt8sk](https://www.youtube.com/watch?v=bu0Z-_vt8sk)
+
 ## January 25th, 2022 Livestream
 * [Q&A: Are you two still able to add your ideas to the game?](../../transcriptions/yt-Yif8SgooUPA.md) [https://www.youtube.com/watch?v=Yif8SgooUPA](https://www.youtube.com/watch?v=Yif8SgooUPA)
 

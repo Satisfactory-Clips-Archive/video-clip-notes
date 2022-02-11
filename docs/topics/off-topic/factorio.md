@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Factorio
 
+## February 8th, 2022 Livestream
+* [Q&A: In light of Factorio's news about their expansion, do you have any plans for post-1.0 content?](../../transcriptions/yt-P7I5wjusdjs.md) [https://www.youtube.com/watch?v=P7I5wjusdjs](https://www.youtube.com/watch?v=P7I5wjusdjs)
+
 ## November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary
 * [Q&A: What's Factorio?](../../transcriptions/yt-Z26xKG-o-z0.md) [https://www.youtube.com/watch?v=Z26xKG-o-z0](https://www.youtube.com/watch?v=Z26xKG-o-z0)
 

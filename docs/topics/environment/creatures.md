@@ -10,6 +10,9 @@ date: Last Modified
 * [Non Flying Bird](../../topics/environment/creatures/non-flying-bird.md)
 * [Space Giraffe-Tick-Penguin-Whale Thing](../../topics/environment/creatures/space-giraffe-tick-penguin-whale-thing.md)
 
+## February 8th, 2022 Livestream
+* [Snutt & Jace Talk: Lake Shark](../../transcriptions/yt-bu0Z-_vt8sk.md) [https://www.youtube.com/watch?v=bu0Z-_vt8sk](https://www.youtube.com/watch?v=bu0Z-_vt8sk)
+
 ## January 18th, 2022 Livestream
 * [Q&A: Horses, when?](../../transcriptions/yt-BLYn8kETMNc.md) [https://www.youtube.com/watch?v=BLYn8kETMNc](https://www.youtube.com/watch?v=BLYn8kETMNc)
 

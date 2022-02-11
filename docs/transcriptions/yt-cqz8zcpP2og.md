@@ -8,7 +8,7 @@ topics:
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Q&A: How many Devs are working on the Game approximately?
 https://www.youtube.com/watch?v=cqz8zcpP2og
-This question was possibly duplicated with a more recent answer: [November 9th, 2021 Livestream Q&A: Is Satisfactory a team of 25 people?](./yt-niOtt1II3gw.md) [https://www.youtube.com/watch?v=niOtt1II3gw](https://www.youtube.com/watch?v=niOtt1II3gw)
+This question was possibly duplicated with a more recent answer: [February 8th, 2022 Livestream Q&A: How many people work at your studio?](./yt-zZHLKZIyLRI.md) [https://www.youtube.com/watch?v=zZHLKZIyLRI](https://www.youtube.com/watch?v=zZHLKZIyLRI)
 
 
 ### Topics

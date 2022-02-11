@@ -8,6 +8,8 @@ topics:
 # [August 10th, 2021 Livestream](../2021-08-10.md)
 ## Q&A: How long for the oil area rework?
 https://www.youtube.com/watch?v=ODRMLbY0hcs
+This question was possibly duplicated with a more recent answer: [February 8th, 2022 Livestream Q&A: Is Spire Coast rework still on the roadmap?](./yt-ej4HO0ZrhQQ.md) [https://www.youtube.com/watch?v=ej4HO0ZrhQQ](https://www.youtube.com/watch?v=ej4HO0ZrhQQ)
+
 
 ### Topics
 * [Environment > Biomes > Spire Coast](../topics/environment/biomes/spire-coast.md)

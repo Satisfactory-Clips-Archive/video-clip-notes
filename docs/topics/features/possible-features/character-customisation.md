@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > Possible Features > Character Customisation
 
+## February 8th, 2022 Livestream
+* [Q&A: Can we customise the Pioneer in the future for Multiplayer?](../../../transcriptions/yt-3gdkRbsLRUo.md) [https://www.youtube.com/watch?v=3gdkRbsLRUo](https://www.youtube.com/watch?v=3gdkRbsLRUo)
+
 ## January 18th, 2022 Livestream
 * [Q&A: Any plans for DLC & cosmetic purchases?](../../../transcriptions/yt-pvWgfvIrHDA.md) [https://www.youtube.com/watch?v=pvWgfvIrHDA](https://www.youtube.com/watch?v=pvWgfvIrHDA)
 

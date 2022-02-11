@@ -8,7 +8,7 @@ topics:
 # [May 15th, 2020 Q&A](../2020-05-15.md)
 ## Q&A: Will there be a farming system with seeds and stuff so we can plant our own fruits?
 https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=1164&end=1177
-This question was possibly duplicated with a more recent answer: [December 14th, 2021 Livestream Q&A: Can you comment of Farming?](./yt-TpcscsCHVCQ.md) [https://www.youtube.com/watch?v=TpcscsCHVCQ](https://www.youtube.com/watch?v=TpcscsCHVCQ)
+This question was possibly duplicated with a more recent answer: [February 8th, 2022 Livestream Q&A: Farms?](./yt-FqwSycZqJWo.md) [https://www.youtube.com/watch?v=FqwSycZqJWo](https://www.youtube.com/watch?v=FqwSycZqJWo)
 
 
 ### Topics

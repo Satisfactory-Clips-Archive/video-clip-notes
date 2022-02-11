@@ -5,6 +5,15 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Embracer Group](../../../topics/embracer-group.md) > Coffee Stain Holding > Coffee Stain Studios
 
+## February 8th, 2022 Livestream
+* [Q&A: Is "developer creative time" typical game development or unique to Coffee Stain?](../../../transcriptions/yt-D_K9Y_YaBGU.md) [https://www.youtube.com/watch?v=D_K9Y_YaBGU](https://www.youtube.com/watch?v=D_K9Y_YaBGU)
+* [Q&A: How much of Coffee Stain is working on Satisfactory vs. other games?](../../../transcriptions/yt-oCPtri5h_4k.md) [https://www.youtube.com/watch?v=oCPtri5h_4k](https://www.youtube.com/watch?v=oCPtri5h_4k)
+* [Q&A: How many people work at your studio?](../../../transcriptions/yt-zZHLKZIyLRI.md) [https://www.youtube.com/watch?v=zZHLKZIyLRI](https://www.youtube.com/watch?v=zZHLKZIyLRI)
+* [Q&A: Are you still hiring for a Generalist Game Designer](../../../transcriptions/yt-rVRmlX26QcM.md) [https://www.youtube.com/watch?v=rVRmlX26QcM](https://www.youtube.com/watch?v=rVRmlX26QcM)
+* [Q&A: What language do you use?](../../../transcriptions/yt-aiQhUjVl2AI.md) [https://www.youtube.com/watch?v=aiQhUjVl2AI](https://www.youtube.com/watch?v=aiQhUjVl2AI)
+* [Q&A: Is there any Community Manager opening up soon when Snutt gets fired for the 6th time?](../../../transcriptions/yt-XVIcVR5Xcy0.md) [https://www.youtube.com/watch?v=XVIcVR5Xcy0](https://www.youtube.com/watch?v=XVIcVR5Xcy0)
+* [Q&A: Does anyone at the company play with Mods?](../../../transcriptions/yt-v6oZ6eDo3uc.md) [https://www.youtube.com/watch?v=v6oZ6eDo3uc](https://www.youtube.com/watch?v=v6oZ6eDo3uc)
+
 ## January 25th, 2022 Livestream
 * [Q&A: So CSS is not like FICSIT as a company?](../../../transcriptions/yt-lHepxnrYy9s.md) [https://www.youtube.com/watch?v=lHepxnrYy9s](https://www.youtube.com/watch?v=lHepxnrYy9s)
 

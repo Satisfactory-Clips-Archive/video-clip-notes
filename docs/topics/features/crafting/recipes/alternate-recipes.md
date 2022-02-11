@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > [Crafting](../../../../topics/features/crafting.md) > [Recipes](../../../../topics/features/crafting/recipes.md) > Alternate Recipes
 
+## February 8th, 2022 Livestream
+* [Q&A: Are there any plans to add Alt Recipes for items that currently have none?](../../../../transcriptions/yt--9ItyjhW4Gs.md) [https://www.youtube.com/watch?v=-9ItyjhW4Gs](https://www.youtube.com/watch?v=-9ItyjhW4Gs)
+
 ## December 14th, 2021 Livestream
 * [Q&A: Will crash sites ever be made deconstructable in future?](../../../../transcriptions/yt-ouqhFkbmZZM.md) [https://www.youtube.com/watch?v=ouqhFkbmZZM](https://www.youtube.com/watch?v=ouqhFkbmZZM)
 

@@ -12,6 +12,10 @@ date: Last Modified
 * [Tractor](../../../topics/features/transportation/vehicles/tractor.md)
 * [Truck](../../../topics/features/transportation/vehicles/truck.md)
 
+## February 8th, 2022 Livestream
+* [Q&A: Still wanna know when we're getting boats?](../../../transcriptions/yt-AKd0bKZW0ZE.md) [https://www.youtube.com/watch?v=AKd0bKZW0ZE](https://www.youtube.com/watch?v=AKd0bKZW0ZE)
+* [Q&A: More Vehicles planned?](../../../transcriptions/yt-NdZjKiNaCRA.md) [https://www.youtube.com/watch?v=NdZjKiNaCRA](https://www.youtube.com/watch?v=NdZjKiNaCRA)
+
 ## January 18th, 2022 Livestream
 * [Q&A: Jace, why can't we have two people in the Vehicles?](../../../transcriptions/yt-HcTmSD0xDhA.md) [https://www.youtube.com/watch?v=HcTmSD0xDhA](https://www.youtube.com/watch?v=HcTmSD0xDhA)
 
