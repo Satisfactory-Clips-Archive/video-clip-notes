@@ -3,17 +3,17 @@ title: "Browse Topics"
 date: Last Modified
 ---
 # [Coffee Stainers](./topics/coffee-stainers.md)
+* [Coffee Stainer Karaoke](./topics/coffee-stainers/karaoke.md)
+* [Hot Potato Save File](./topics/coffee-stainers/hot-potato-save-file.md)
 * [Alex](./topics/coffee-stainers/alex.md)
 * [Anna](./topics/coffee-stainers/anna.md)
 * [Ben](./topics/coffee-stainers/ben.md)
 * [Birk](./topics/coffee-stainers/birk.md)
-* [Coffee Stainer Karaoke](./topics/coffee-stainers/karaoke.md)
 * [Dylan](./topics/coffee-stainers/dylan.md)
 * [Etienne](./topics/coffee-stainers/etienne.md)
 * [Flannel](./topics/coffee-stainers/flannel.md)
 * [G2](./topics/coffee-stainers/g2.md)
 * [Gnutt](./topics/coffee-stainers/gnutt.md)
-* [Hot Potato Save File](./topics/coffee-stainers/hot-potato-save-file.md)
 * [Jannik](./topics/coffee-stainers/jannik.md)
 * [Joel](./topics/coffee-stainers/joel.md)
 * [Kristoffer](./topics/coffee-stainers/kristoffer.md)
@@ -435,47 +435,14 @@ date: Last Modified
 ---
 
 # [Satisfactory Updates](./topics/satisfactory-updates.md)
-* [Free Weekends](./topics/satisfactory-updates/free-weekends.md)
-* [Modular Build](./topics/satisfactory-updates/modular-build.md)
-* [Pre-Alpha](./topics/satisfactory-updates/pre-alpha.md)
-* [Release Builds](./topics/satisfactory-updates/release-builds.md)
-* [Satisfactory 2017](./topics/satisfactory-updates/satisfactory-2017.md)
-* [Satisfactory Prototypes](./topics/satisfactory-updates/satisfactory-prototypes.md)
 * [State of Dev](./topics/satisfactory-updates/state-of-dev.md)
+* [Satisfactory Prototypes](./topics/satisfactory-updates/satisfactory-prototypes.md)
+* [Pre-Alpha](./topics/satisfactory-updates/pre-alpha.md)
+* [Satisfactory 2017](./topics/satisfactory-updates/satisfactory-2017.md)
+* [Modular Build](./topics/satisfactory-updates/modular-build.md)
+* [Release Builds](./topics/satisfactory-updates/release-builds.md)
+* [Free Weekends](./topics/satisfactory-updates/free-weekends.md)
 * [World Update](./topics/satisfactory-updates/world-update.md)
-
-## Pending
-* [Satisfactory 1.0](./topics/satisfactory-updates/pending/satisfactory-1-0.md)
----
-
-## Released
-* [Satisfactory Update 1](./topics/satisfactory-updates/released/satisfactory-update-1.md)
-* [Satisfactory Update 2](./topics/satisfactory-updates/released/satisfactory-update-2.md)
-* [Satisfactory Update 3](./topics/satisfactory-updates/released/satisfactory-update-3.md)
-* [Satisfactory Fluids Update](./topics/satisfactory-updates/released/satisfactory-fluids-update.md)
-* [Satisfactory Update 4](./topics/satisfactory-updates/released/satisfactory-update-4.md)
-
-### [Satisfactory Update 5](./topics/satisfactory-updates/released/satisfactory-update-5.md)
-* [#SaveTheWillows](./topics/satisfactory-updates/released/satisfactory-update-5/save-the-willows.md)
-* [Northern Forest World Update Q&A with Hannah](./topics/satisfactory-updates/released/satisfactory-update-5/northern-forest-world-update-q-and-a-with-hannah.md)
-* [Update 5 Torsten's Cosmetics Whiteboard](./topics/satisfactory-updates/released/satisfactory-update-5/torstens-cosmetics-whiteboard.md)
----
-
-### [Satisfactory Alpha](./topics/satisfactory-updates/released/satisfactory-alpha.md)
-* [Alpha Weekend](./topics/satisfactory-updates/released/satisfactory-alpha/alpha-weekend.md)
----
-
-## [Seasonal Events](./topics/satisfactory-updates/seasonal-events.md)
-* [FICS⁕MAS](./topics/satisfactory-updates/seasonal-events/fics-mas.md)
----
-
-## Speculative
-* [Satisfactory Update 6](./topics/satisfactory-updates/speculative/satisfactory-update-6.md)
-* [Satisfactory Update 7](./topics/satisfactory-updates/speculative/satisfactory-update-7.md)
-* [Satisfactory Update 8](./topics/satisfactory-updates/speculative/satisfactory-update-8.md)
-* [Satisfactory Update 9](./topics/satisfactory-updates/speculative/satisfactory-update-9.md)
-* [Satisfactory 2.0](./topics/satisfactory-updates/speculative/satisfactory-2-0.md)
----
 
 ## [Teasers & Trailers](./topics/satisfactory-updates/teasers-and-trailers.md)
 * [Update 3 Reveal Trailer](./topics/satisfactory-updates/teasers-and-trailers/update-3-reveal-trailer.md)
@@ -498,6 +465,39 @@ date: Last Modified
 * [Update 5 Challenge Run](./topics/satisfactory-updates/teasers-and-trailers/update-5-launch-stream/challenge-run.md)
 * [Update 5 Final Countdown](./topics/satisfactory-updates/teasers-and-trailers/update-5-launch-stream/its-the-final-countdown.md)
 * [Update 5 Revealed](./topics/satisfactory-updates/teasers-and-trailers/update-5-launch-stream/update-5-revealed.md)
+---
+
+## [Seasonal Events](./topics/satisfactory-updates/seasonal-events.md)
+* [FICS⁕MAS](./topics/satisfactory-updates/seasonal-events/fics-mas.md)
+---
+
+## Pending
+* [Satisfactory 1.0](./topics/satisfactory-updates/pending/satisfactory-1-0.md)
+---
+
+## Released
+* [Satisfactory Update 1](./topics/satisfactory-updates/released/satisfactory-update-1.md)
+* [Satisfactory Update 2](./topics/satisfactory-updates/released/satisfactory-update-2.md)
+* [Satisfactory Update 3](./topics/satisfactory-updates/released/satisfactory-update-3.md)
+* [Satisfactory Fluids Update](./topics/satisfactory-updates/released/satisfactory-fluids-update.md)
+* [Satisfactory Update 4](./topics/satisfactory-updates/released/satisfactory-update-4.md)
+
+### [Satisfactory Update 5](./topics/satisfactory-updates/released/satisfactory-update-5.md)
+* [#SaveTheWillows](./topics/satisfactory-updates/released/satisfactory-update-5/save-the-willows.md)
+* [Northern Forest World Update Q&A with Hannah](./topics/satisfactory-updates/released/satisfactory-update-5/northern-forest-world-update-q-and-a-with-hannah.md)
+* [Update 5 Torsten's Cosmetics Whiteboard](./topics/satisfactory-updates/released/satisfactory-update-5/torstens-cosmetics-whiteboard.md)
+---
+
+### [Satisfactory Alpha](./topics/satisfactory-updates/released/satisfactory-alpha.md)
+* [Alpha Weekend](./topics/satisfactory-updates/released/satisfactory-alpha/alpha-weekend.md)
+---
+
+## Speculative
+* [Satisfactory Update 6](./topics/satisfactory-updates/speculative/satisfactory-update-6.md)
+* [Satisfactory Update 7](./topics/satisfactory-updates/speculative/satisfactory-update-7.md)
+* [Satisfactory Update 8](./topics/satisfactory-updates/speculative/satisfactory-update-8.md)
+* [Satisfactory Update 9](./topics/satisfactory-updates/speculative/satisfactory-update-9.md)
+* [Satisfactory 2.0](./topics/satisfactory-updates/speculative/satisfactory-2-0.md)
 ---
 * [Soundtrack](./topics/soundtrack.md)
 * [Special Guests](./topics/special-guests.md)
