@@ -14,6 +14,9 @@ date: Last Modified
 * [Steel](../../topics/environment/resources/steel.md)
 * [Water](../../topics/environment/resources/water.md)
 
+## February 11th, 2022 Hot Potato Bonus Stream
+* [Q&A: Truck Stations unloading Lizard Doggo inventory for automated Biomass?](../../transcriptions/yt-z0W_JQb_K-A.md) [https://www.youtube.com/watch?v=z0W_JQb_K-A](https://www.youtube.com/watch?v=z0W_JQb_K-A)
+
 ## December 14th, 2021 Livestream
 * [Q&A: What's about the Quantum Computer?](../../transcriptions/yt-FEd9k69MZlc.md) [https://www.youtube.com/watch?v=FEd9k69MZlc](https://www.youtube.com/watch?v=FEd9k69MZlc)
 * [Q&A: Biomass picker car?](../../transcriptions/yt-5CEbzAA0MkE.md) [https://www.youtube.com/watch?v=5CEbzAA0MkE](https://www.youtube.com/watch?v=5CEbzAA0MkE)

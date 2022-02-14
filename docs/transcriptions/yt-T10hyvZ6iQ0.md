@@ -1,0 +1,17 @@
+---
+title: "February 11th, 2022 Hot Potato Bonus Stream Snutt & Jace Talk: LOD & imposter sprites + bonus Snuttfasa"
+date: "2022-02-11"
+layout: transcript
+topics:
+    - "technology/graphics/lod"
+---
+# [February 11th, 2022 Hot Potato Bonus Stream](../2022-02-11.md)
+## Snutt & Jace Talk: LOD & imposter sprites + bonus Snuttfasa
+https://www.youtube.com/watch?v=T10hyvZ6iQ0
+
+### Topics
+* [Technology > Graphics > LOD](../topics/technology/graphics/lod.md)
+
+### Transcript
+
+> everything the light touches blah blah blah what about that coal power plant down there oh we don't go there it's funny i can see i can see like the buildings but i can't see your character so there's just like yeah there's just like random buildings appearing out of thin air have you placed the water extractor yep okay the water extractor is called out but everything else is there yeah that's kind of weird so it just looks like you have a pipe going straight into the water i love how crooked burner look how crooked the because chat let me let me maybe a lot of people already know this but you know when things are in a distance what we tend to do a lot of games do this they tend to load in like a lower poly model for things so um actually talk about that later so so like the model that is the the the call generator here is like way less police and like a lot less detail because like when you're looking at like this it's taking up like just a couple of pixels on the screen and i guess when you zoom in it doesn't actually change the bottom it does a little bit but you can definitely see it on the conveyor belt that it looks weird and wonky and it doesn't have like as night detail because when you're rendering like this you don't need it it's wasted space and one other thing we do is that sometimes um when things are in the way in the distance we don't even need to load in a 3d model of it we load in a 2d model so like these trees for instance oh those aren't trees but these i'm pretty sure these trees are it's just a texture and then you rotate the texture towards the player same thing there like when you look at it like this you don't really notice it pretty sure these are a good example of that yeah you can see when it switches from the imposter texture or posture sprite to the actual 3d model fun fact thanks helps a lot nope there's actually a lot of work that goes into determining what those like lower poly and imposter sprites should look like i know that simon's built a lot of tools for generating the the models because like if if we make a imposter sprite and then we're like oh we need to change the model then you need to redo all that work that you already did with the imposter spray so i believe simon made like a tool to take in the model i know there already are our tools to do this kind of stuff and real engine has tools for this as well but uh sometimes you kind of lose uh detail that you want to keep that's like automated so sometimes you do need to do a little bit like special tinkering on the sprites and what not to make it look as good as it can based on the model that you're feeding it i know that simon spent a lot of time making tools for that um that you guys don't even notice hopefully hopefully it just looks like a smaller poly model but it's fake and like it switches out the texture as you're like moving around and depending on which angle you're looking at it stuff like that very clever very clever

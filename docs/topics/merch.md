@@ -7,6 +7,9 @@ date: Last Modified
 * [EU Merch Store](../topics/merch/eu-merch-store.md)
 * [Merch Prototypes](../topics/merch/merch-prototypes.md)
 
+## February 11th, 2022 Hot Potato Bonus Stream
+* [Q&A: Would it be weird if I ordered a full-sized Jace body pillow?](../transcriptions/yt-vQZoIxR3rqQ.md) [https://www.youtube.com/watch?v=vQZoIxR3rqQ](https://www.youtube.com/watch?v=vQZoIxR3rqQ)
+
 ## February 4th, 2022 Video
 * [Jace Talk: Merch](../transcriptions/yt-J4LlorYbVV0,19.32848,95.16173333333333.md) [https://youtube.com/embed/J4LlorYbVV0?autoplay=1&start=19&end=96](https://youtube.com/embed/J4LlorYbVV0?autoplay=1&start=19&end=96)
 

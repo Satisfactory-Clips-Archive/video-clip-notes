@@ -7,6 +7,9 @@ date: Last Modified
 * [Crossplay](../../topics/features/multiplayer/crossplay.md)
 * [Dedicated Servers](../../topics/features/multiplayer/dedicated-servers.md)
 
+## February 11th, 2022 Hot Potato Bonus Stream
+* [Q&A: Can you revive players?](../../transcriptions/yt-35WSy5FR8Z0.md) [https://www.youtube.com/watch?v=35WSy5FR8Z0](https://www.youtube.com/watch?v=35WSy5FR8Z0)
+
 ## February 8th, 2022 Livestream
 * [Q&A: Can we customise the Pioneer in the future for Multiplayer?](../../transcriptions/yt-3gdkRbsLRUo.md) [https://www.youtube.com/watch?v=3gdkRbsLRUo](https://www.youtube.com/watch?v=3gdkRbsLRUo)
 

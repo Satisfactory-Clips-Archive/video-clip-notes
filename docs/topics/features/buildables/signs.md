@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildables](../../../topics/features/buildables.md) > Signs
 
+## February 11th, 2022 Hot Potato Bonus Stream
+* [Q&A: Gallery of Sign pixel art gallery for people to sign their work on the Hot Potato save?](../../../transcriptions/yt-4POx-6Z_LKQ.md) [https://www.youtube.com/watch?v=4POx-6Z_LKQ](https://www.youtube.com/watch?v=4POx-6Z_LKQ)
+
 ## February 1st, 2022 Livestream
 * [Community FYI: Zoop for Signs would be awesome](../../../transcriptions/yt-mELi3EHuIYM.md) [https://www.youtube.com/watch?v=mELi3EHuIYM](https://www.youtube.com/watch?v=mELi3EHuIYM)
 

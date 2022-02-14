@@ -9,6 +9,15 @@ date: Last Modified
 * [Jace Art](../../topics/coffee-stainers/jace/jace-art.md)
 * [Juice Velvet](../../topics/coffee-stainers/jace/juice-velvet.md)
 
+## February 11th, 2022 Hot Potato Bonus Stream
+* [Snutt & Jace Talk: Jace not live](../../transcriptions/yt-PDGY2OaNbew.md) [https://www.youtube.com/watch?v=PDGY2OaNbew](https://www.youtube.com/watch?v=PDGY2OaNbew)
+* [Snutt & Jace Talk: Community Management presentation](../../transcriptions/yt-fW1Qb9foyvQ.md) [https://www.youtube.com/watch?v=fW1Qb9foyvQ](https://www.youtube.com/watch?v=fW1Qb9foyvQ)
+* [Snutt & Jace Talk: Random goofiness](../../transcriptions/yt-ZnNr2gWsZpM.md) [https://www.youtube.com/watch?v=ZnNr2gWsZpM](https://www.youtube.com/watch?v=ZnNr2gWsZpM)
+* [Snutt & Jace Talk: Update 4 & 5 Patch Notes voiceover work](../../transcriptions/yt-uUA4K0auvWA.md) [https://www.youtube.com/watch?v=uUA4K0auvWA](https://www.youtube.com/watch?v=uUA4K0auvWA)
+* [Snutt & Jace Talk: Twisted Metal & Space Quest, game rentals & JaceDad](../../transcriptions/yt-P64S0n9AePw.md) [https://www.youtube.com/watch?v=P64S0n9AePw](https://www.youtube.com/watch?v=P64S0n9AePw)
+* [Q&A: Are you paid for doing this?](../../transcriptions/yt-rIlnQuk_FRw.md) [https://www.youtube.com/watch?v=rIlnQuk_FRw](https://www.youtube.com/watch?v=rIlnQuk_FRw)
+* [Q&A: Would it be weird if I ordered a full-sized Jace body pillow?](../../transcriptions/yt-vQZoIxR3rqQ.md) [https://www.youtube.com/watch?v=vQZoIxR3rqQ](https://www.youtube.com/watch?v=vQZoIxR3rqQ)
+
 ## February 8th, 2022 Livestream
 * [Snutt & Jace Talk: pre-stream hype music for Snutt](../../transcriptions/yt-6EjZflR0fy8.md) [https://www.youtube.com/watch?v=6EjZflR0fy8](https://www.youtube.com/watch?v=6EjZflR0fy8)
 

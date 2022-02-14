@@ -7,6 +7,10 @@ date: Last Modified
 * [Snutty Mays & Juice Velvet Present: The Customizer™](../../../topics/satisfactory-updates/teasers-and-trailers/update-5-patch-notes-video/snutty-mays-and-juice-velvet-present-the-customizer.md)
 * [Update 5 Wager on releasing Golf versus Dedicated Servers](../../../topics/satisfactory-updates/teasers-and-trailers/update-5-patch-notes-video/update-5-wager-on-releasing-golf-versus-dedicated-servers.md)
 
+## February 11th, 2022 Hot Potato Bonus Stream
+* [Snutt & Jace Talk: Update 4 & 5 Patch Notes scripts](../../../transcriptions/yt-xRybReOeSrM.md) [https://www.youtube.com/watch?v=xRybReOeSrM](https://www.youtube.com/watch?v=xRybReOeSrM)
+* [Snutt & Jace Talk: Update 4 & 5 Patch Notes voiceover work](../../../transcriptions/yt-uUA4K0auvWA.md) [https://www.youtube.com/watch?v=uUA4K0auvWA](https://www.youtube.com/watch?v=uUA4K0auvWA)
+
 ## November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary
 * [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 1)](../../../transcriptions/yt-6xKMiQJdZxg.md) [https://www.youtube.com/watch?v=6xKMiQJdZxg](https://www.youtube.com/watch?v=6xKMiQJdZxg)
 * [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 2)](../../../transcriptions/yt-1_ztVB3V2M0.md) [https://www.youtube.com/watch?v=1_ztVB3V2M0](https://www.youtube.com/watch?v=1_ztVB3V2M0)

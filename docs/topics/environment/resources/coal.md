@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Resources](../../../topics/environment/resources.md) > Coal
 
+## February 11th, 2022 Hot Potato Bonus Stream
+* [Q&A: Can you un-automate Coal?](../../../transcriptions/yt-QfRPustlQ24.md) [https://www.youtube.com/watch?v=QfRPustlQ24](https://www.youtube.com/watch?v=QfRPustlQ24)
+
 ## September 28th, 2021 Livestream
 * [Q&A: Any plans to fix the Coal nodes by the big lake in the grasslands?](../../../transcriptions/yt-9_fDYPhx9IE.md) [https://www.youtube.com/watch?v=9_fDYPhx9IE](https://www.youtube.com/watch?v=9_fDYPhx9IE)
 

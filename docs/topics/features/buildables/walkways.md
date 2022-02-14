@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildables](../../../topics/features/buildables.md) > Walkways
 
+## February 11th, 2022 Hot Potato Bonus Stream
+* [Q&A: Could we build over the existing walkways to change the type of it?](../../../transcriptions/yt-9E9oc-IQ45w.md) [https://www.youtube.com/watch?v=9E9oc-IQ45w](https://www.youtube.com/watch?v=9E9oc-IQ45w)
+
 ## November 2nd, 2021 Livestream
 * [Snutt & Jace Talk: Torsten's Cosmetics Whiteboard (Part 4)](../../../transcriptions/yt-N8UgzoIneMk.md) [https://www.youtube.com/watch?v=N8UgzoIneMk](https://www.youtube.com/watch?v=N8UgzoIneMk)
 

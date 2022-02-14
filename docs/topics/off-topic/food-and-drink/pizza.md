@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Off-Topic](../../../topics/off-topic.md) > [Food & Drink](../../../topics/off-topic/food-and-drink.md) > Pizza
 
+## February 11th, 2022 Hot Potato Bonus Stream
+* [Snutt & Jace Talk: Pizza Hut](../../../transcriptions/yt-hMIDSzLnuSM.md) [https://www.youtube.com/watch?v=hMIDSzLnuSM](https://www.youtube.com/watch?v=hMIDSzLnuSM)
+
 ## February 8th, 2022 Livestream
 * [Q&A: What's for dinner this evening?](../../../transcriptions/yt-IiP1xsdJU28.md) [https://www.youtube.com/watch?v=IiP1xsdJU28](https://www.youtube.com/watch?v=IiP1xsdJU28)
 

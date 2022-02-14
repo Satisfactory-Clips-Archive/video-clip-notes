@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Creatures](../../../topics/environment/creatures.md) > Lizard Doggo
 
+## February 11th, 2022 Hot Potato Bonus Stream
+* [Q&A: Truck Stations unloading Lizard Doggo inventory for automated Biomass?](../../../transcriptions/yt-z0W_JQb_K-A.md) [https://www.youtube.com/watch?v=z0W_JQb_K-A](https://www.youtube.com/watch?v=z0W_JQb_K-A)
+
 ## February 4th, 2022 Video
 * [Jace Talk: Merch](../../../transcriptions/yt-J4LlorYbVV0,19.32848,95.16173333333333.md) [https://youtube.com/embed/J4LlorYbVV0?autoplay=1&start=19&end=96](https://youtube.com/embed/J4LlorYbVV0?autoplay=1&start=19&end=96)
 

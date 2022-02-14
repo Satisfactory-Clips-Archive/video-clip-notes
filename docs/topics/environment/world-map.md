@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Environment](../../topics/environment.md) > World Map
 
+## February 11th, 2022 Hot Potato Bonus Stream
+* [Q&A: Is there any talk for updating the Map or making it more in depth?](../../transcriptions/yt-mM2BzlGYiJI.md) [https://www.youtube.com/watch?v=mM2BzlGYiJI](https://www.youtube.com/watch?v=mM2BzlGYiJI)
+
 ## December 7th, 2021 Livestream
 * [Q&A: Will you allow Modded Maps?](../../transcriptions/yt-TS6ZdUxbeKQ.md) [https://www.youtube.com/watch?v=TS6ZdUxbeKQ](https://www.youtube.com/watch?v=TS6ZdUxbeKQ)
 * [Q&A: Do you guys consider releasing a dev kit for third-party map builders?](../../transcriptions/yt-w7FY53KMcck.md) [https://www.youtube.com/watch?v=w7FY53KMcck](https://www.youtube.com/watch?v=w7FY53KMcck)

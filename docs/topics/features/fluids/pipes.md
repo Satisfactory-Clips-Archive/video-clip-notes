@@ -5,6 +5,12 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Fluids](../../../topics/features/fluids.md) > Pipes
 
+## February 11th, 2022 Hot Potato Bonus Stream
+* [Snutt & Jace Talk: Pipes](../../../transcriptions/yt-BGMXJ25bSrg.md) [https://www.youtube.com/watch?v=BGMXJ25bSrg](https://www.youtube.com/watch?v=BGMXJ25bSrg)
+* [Q&A: Do Pipes still simulate viscosity?](../../../transcriptions/yt-xtDwb-7lGP4.md) [https://www.youtube.com/watch?v=xtDwb-7lGP4](https://www.youtube.com/watch?v=xtDwb-7lGP4)
+* [Snutt & Jace Talk: Pipe Indicators](../../../transcriptions/yt-oXTmafKdXb4.md) [https://www.youtube.com/watch?v=oXTmafKdXb4](https://www.youtube.com/watch?v=oXTmafKdXb4)
+* [Q&A: What's the expensive part of showing Fluid in Pipes?](../../../transcriptions/yt-szunlP3nxJs.md) [https://www.youtube.com/watch?v=szunlP3nxJs](https://www.youtube.com/watch?v=szunlP3nxJs)
+
 ## February 8th, 2022 Livestream
 * [Q&A: Any movement on the Mk.2 Pipe thing?](../../../transcriptions/yt-1mrJkO17-nw.md) [https://www.youtube.com/watch?v=1mrJkO17-nw](https://www.youtube.com/watch?v=1mrJkO17-nw)
 

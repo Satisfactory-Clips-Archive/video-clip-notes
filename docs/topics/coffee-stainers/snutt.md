@@ -7,6 +7,16 @@ date: Last Modified
 * [Snutt Burger Time](../../topics/coffee-stainers/snutt/snutt-burger-time.md)
 * [Snutty Mays](../../topics/coffee-stainers/snutt/snutty-mays.md)
 
+## February 11th, 2022 Hot Potato Bonus Stream
+* [Snutt & Jace Talk: Schmoyoho](../../transcriptions/yt-g4MSjmnJRDc.md) [https://www.youtube.com/watch?v=g4MSjmnJRDc](https://www.youtube.com/watch?v=g4MSjmnJRDc)
+* [Snutt & Jace Talk: Jace not live](../../transcriptions/yt-PDGY2OaNbew.md) [https://www.youtube.com/watch?v=PDGY2OaNbew](https://www.youtube.com/watch?v=PDGY2OaNbew)
+* [Snutt & Jace Talk: Community Management presentation](../../transcriptions/yt-fW1Qb9foyvQ.md) [https://www.youtube.com/watch?v=fW1Qb9foyvQ](https://www.youtube.com/watch?v=fW1Qb9foyvQ)
+* [Snutt & Jace Talk: Random goofiness](../../transcriptions/yt-ZnNr2gWsZpM.md) [https://www.youtube.com/watch?v=ZnNr2gWsZpM](https://www.youtube.com/watch?v=ZnNr2gWsZpM)
+* [Snutt & Jace Talk: Update 4 & 5 Patch Notes voiceover work](../../transcriptions/yt-uUA4K0auvWA.md) [https://www.youtube.com/watch?v=uUA4K0auvWA](https://www.youtube.com/watch?v=uUA4K0auvWA)
+* [Snutt & Jace Talk: Snutt doesn't recognise the official emojis](../../transcriptions/yt-BW44MxDF_Zk.md) [https://www.youtube.com/watch?v=BW44MxDF_Zk](https://www.youtube.com/watch?v=BW44MxDF_Zk)
+* [Snutt & Jace Talk: Kermit Treptow](../../transcriptions/yt-GPEKcJ4FiNY.md) [https://www.youtube.com/watch?v=GPEKcJ4FiNY](https://www.youtube.com/watch?v=GPEKcJ4FiNY)
+* [Q&A: Are you paid for doing this?](../../transcriptions/yt-rIlnQuk_FRw.md) [https://www.youtube.com/watch?v=rIlnQuk_FRw](https://www.youtube.com/watch?v=rIlnQuk_FRw)
+
 ## February 8th, 2022 Livestream
 * [Snutt & Jace Talk: pre-stream hype music for Snutt](../../transcriptions/yt-6EjZflR0fy8.md) [https://www.youtube.com/watch?v=6EjZflR0fy8](https://www.youtube.com/watch?v=6EjZflR0fy8)
 * Q&A: Do you accept suggestions for the "Get Snutt hype pre-stream playlist"? [https://www.youtube.com/watch?v=pqIwvRb5SaE](https://www.youtube.com/watch?v=pqIwvRb5SaE)

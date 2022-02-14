@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Coffee Stainers](../../../topics/coffee-stainers.md) > [Jace](../../../topics/coffee-stainers/jace.md) > Jace Art
 
+## February 11th, 2022 Hot Potato Bonus Stream
+* [Snutt & Jace Talk: High-Quality Kirby Screenshots](../../../transcriptions/yt-HoB6D6YEfK8.md) [https://www.youtube.com/watch?v=HoB6D6YEfK8](https://www.youtube.com/watch?v=HoB6D6YEfK8)
+
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
 * Jace Talk: Art Giveaway, Jace vs. Torsten [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=9958&end=9994](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=9958&end=9994)
 * Q&A: What should Jace & Torsten draw? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=9993&end=10151](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=9993&end=10151)

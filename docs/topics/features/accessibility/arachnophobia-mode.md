@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Accessibility](../../../topics/features/accessibility.md) > Arachnophobia Mode
 
+## February 11th, 2022 Hot Potato Bonus Stream
+* [Q&A: What if you're both Arachnophobic and Ailurophobic?](../../../transcriptions/yt-he-m1c2zsTI.md) [https://www.youtube.com/watch?v=he-m1c2zsTI](https://www.youtube.com/watch?v=he-m1c2zsTI)
+* [Community FYI: I've never seen a cat‽](../../../transcriptions/yt-QMne-wqTs08.md) [https://www.youtube.com/watch?v=QMne-wqTs08](https://www.youtube.com/watch?v=QMne-wqTs08)
+* [Q&A: Do you guys have Arachnophobia Mode enabled because it's so fun to see the cats?](../../../transcriptions/yt-r2fO6iMAGoE.md) [https://www.youtube.com/watch?v=r2fO6iMAGoE](https://www.youtube.com/watch?v=r2fO6iMAGoE)
+
 ## September 28th, 2021 Livestream
 * [Q&A: Some heavy metal music for when spiders show up?](../../../transcriptions/yt-m1TGYFDz8y8.md) [https://www.youtube.com/watch?v=m1TGYFDz8y8](https://www.youtube.com/watch?v=m1TGYFDz8y8)
 * [Community FYI: There are no spiders, just kittens](../../../transcriptions/yt-hdd-jMSkoL4.md) [https://www.youtube.com/watch?v=hdd-jMSkoL4](https://www.youtube.com/watch?v=hdd-jMSkoL4)

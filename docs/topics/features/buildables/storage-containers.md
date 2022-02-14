@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildables](../../../topics/features/buildables.md) > Storage Containers
 
+## February 11th, 2022 Hot Potato Bonus Stream
+* [Q&A: Any chance of more Personal Storage Box skins, like "flammable" or "explosive" ?](../../../transcriptions/yt-tmaEVRmrmhw.md) [https://www.youtube.com/watch?v=tmaEVRmrmhw](https://www.youtube.com/watch?v=tmaEVRmrmhw)
+
 ## December 7th, 2021 Livestream
 * [Q&A: Can we get a way to limit available slots in Containers?](../../../transcriptions/yt-8TBD_NwiU6k.md) [https://www.youtube.com/watch?v=8TBD_NwiU6k](https://www.youtube.com/watch?v=8TBD_NwiU6k)
 

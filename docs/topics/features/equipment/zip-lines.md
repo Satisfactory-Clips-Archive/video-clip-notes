@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Equipment](../../../topics/features/equipment.md) > Zip Lines
 
+## February 11th, 2022 Hot Potato Bonus Stream
+* [Snutt & Jace Talk: Zip Line considerations during development](../../../transcriptions/yt-WCrErDN7Ki8.md) [https://www.youtube.com/watch?v=WCrErDN7Ki8](https://www.youtube.com/watch?v=WCrErDN7Ki8)
+
 ## July 20th, 2021 Livestream
 * [Q&A: Do you think early-game is good already, or we could get Zip Line to smooth it out?](../../../transcriptions/yt-TPfczwWNIbM.md) [https://www.youtube.com/watch?v=TPfczwWNIbM](https://www.youtube.com/watch?v=TPfczwWNIbM)
 

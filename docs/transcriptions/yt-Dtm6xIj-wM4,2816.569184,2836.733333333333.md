@@ -8,7 +8,7 @@ topics:
 # [February 6th, 2019 Livestream](../2019-02-06.md)
 ## Q&A: Any plans for stuff like Blueprints?
 https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2816&end=2837
-This question was possibly duplicated with a more recent answer: [November 2nd, 2021 Livestream Q&A: Current team consensus on Blueprints?](./yt-yP3yd9rIfUk.md) [https://www.youtube.com/watch?v=yP3yd9rIfUk](https://www.youtube.com/watch?v=yP3yd9rIfUk)
+This question was possibly duplicated with a more recent answer: [February 11th, 2022 Hot Potato Bonus Stream Q&A: Blueprints?](./yt-lidkhceF2oc.md) [https://www.youtube.com/watch?v=lidkhceF2oc](https://www.youtube.com/watch?v=lidkhceF2oc)
 
 
 ### Topics

@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > User Interface
 * [Holograms](../../topics/technology/user-interface/holograms.md)
 
+## February 11th, 2022 Hot Potato Bonus Stream
+* [Q&A: Could we build over the existing walkways to change the type of it?](../../transcriptions/yt-9E9oc-IQ45w.md) [https://www.youtube.com/watch?v=9E9oc-IQ45w](https://www.youtube.com/watch?v=9E9oc-IQ45w)
+
 ## February 1st, 2022 Livestream
 * [Q&A: Is it possible to do a Ctrl-undo function?](../../transcriptions/yt-tleEcjuypWk.md) [https://www.youtube.com/watch?v=tleEcjuypWk](https://www.youtube.com/watch?v=tleEcjuypWk)
 

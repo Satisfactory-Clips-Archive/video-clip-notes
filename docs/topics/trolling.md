@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Trolling
 
+## February 11th, 2022 Hot Potato Bonus Stream
+* [Snutt & Jace Talk: Jace not live](../transcriptions/yt-PDGY2OaNbew.md) [https://www.youtube.com/watch?v=PDGY2OaNbew](https://www.youtube.com/watch?v=PDGY2OaNbew)
+
 ## February 8th, 2022 Livestream
 * [Q&A: Is there any Community Manager opening up soon when Snutt gets fired for the 6th time?](../transcriptions/yt-XVIcVR5Xcy0.md) [https://www.youtube.com/watch?v=XVIcVR5Xcy0](https://www.youtube.com/watch?v=XVIcVR5Xcy0)
 

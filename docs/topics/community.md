@@ -24,6 +24,9 @@ date: Last Modified
 * [Vilsol](../topics/community/vilsol.md)
 * [Wiki](../topics/community/wiki.md)
 
+## February 11th, 2022 Hot Potato Bonus Stream
+* [Snutt & Jace Talk: Weebl](../transcriptions/yt-5cWg-4aqJTc.md) [https://www.youtube.com/watch?v=5cWg-4aqJTc](https://www.youtube.com/watch?v=5cWg-4aqJTc)
+
 ## January 25th, 2022 Livestream
 * [Snutt & Jace Talk: Satisfactory Constructor Lego Set](../transcriptions/yt-6vgl-dZKb2s.md) [https://www.youtube.com/watch?v=6vgl-dZKb2s](https://www.youtube.com/watch?v=6vgl-dZKb2s)
 * [Snutt & Jace Talk: Last week's YouTube video re: suggestions](../transcriptions/yt-1Qna_p8-RXk.md) [https://www.youtube.com/watch?v=1Qna_p8-RXk](https://www.youtube.com/watch?v=1Qna_p8-RXk)

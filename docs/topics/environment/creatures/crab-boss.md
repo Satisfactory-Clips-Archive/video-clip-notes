@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Creatures](../../../topics/environment/creatures.md) > Crab Boss
 
+## February 11th, 2022 Hot Potato Bonus Stream
+* [Q&A: What about crabphobia?](../../../transcriptions/yt-y3vztWYw7kY.md) [https://www.youtube.com/watch?v=y3vztWYw7kY](https://www.youtube.com/watch?v=y3vztWYw7kY)
+
 ## November 9th, 2021 Livestream
 * [Q&A: Will the Crab Boss drop crab-themed armor?](../../../transcriptions/yt-81xfQgrxQs8.md) [https://www.youtube.com/watch?v=81xfQgrxQs8](https://www.youtube.com/watch?v=81xfQgrxQs8)
 

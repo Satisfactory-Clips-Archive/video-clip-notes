@@ -8,6 +8,10 @@ date: Last Modified
 * [Pumps](../../topics/features/fluids/pumps.md)
 * [Valves](../../topics/features/fluids/valves.md)
 
+## February 11th, 2022 Hot Potato Bonus Stream
+* [Q&A: Do Pipes still simulate viscosity?](../../transcriptions/yt-xtDwb-7lGP4.md) [https://www.youtube.com/watch?v=xtDwb-7lGP4](https://www.youtube.com/watch?v=xtDwb-7lGP4)
+* [Q&A: What's the expensive part of showing Fluid in Pipes?](../../transcriptions/yt-szunlP3nxJs.md) [https://www.youtube.com/watch?v=szunlP3nxJs](https://www.youtube.com/watch?v=szunlP3nxJs)
+
 ## February 1st, 2022 Livestream
 * [Q&A: What about the Fluid Sink?](../../transcriptions/yt--yErJoC5VSQ.md) [https://www.youtube.com/watch?v=-yErJoC5VSQ](https://www.youtube.com/watch?v=-yErJoC5VSQ)
 

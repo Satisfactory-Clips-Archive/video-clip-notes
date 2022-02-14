@@ -20,6 +20,11 @@ date: Last Modified
 * [The Cycle](../topics/off-topic/the-cycle.md)
 * [Valheim](../topics/off-topic/valheim.md)
 
+## February 11th, 2022 Hot Potato Bonus Stream
+* [Snutt & Jace Talk: Schmoyoho](../transcriptions/yt-g4MSjmnJRDc.md) [https://www.youtube.com/watch?v=g4MSjmnJRDc](https://www.youtube.com/watch?v=g4MSjmnJRDc)
+* [Snutt & Jace Talk: Final Fantasy](../transcriptions/yt--WmtadMElPQ.md) [https://www.youtube.com/watch?v=-WmtadMElPQ](https://www.youtube.com/watch?v=-WmtadMElPQ)
+* [Snutt & Jace Talk: Twisted Metal & Space Quest, game rentals & JaceDad](../transcriptions/yt-P64S0n9AePw.md) [https://www.youtube.com/watch?v=P64S0n9AePw](https://www.youtube.com/watch?v=P64S0n9AePw)
+
 ## February 8th, 2022 Livestream
 * [Q&A: Groundhog Day or Truman Show?](../transcriptions/yt-X7XkqtU7n4c.md) [https://www.youtube.com/watch?v=X7XkqtU7n4c](https://www.youtube.com/watch?v=X7XkqtU7n4c)
 

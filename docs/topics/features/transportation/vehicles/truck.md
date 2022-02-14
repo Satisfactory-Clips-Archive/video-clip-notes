@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > Transportation > [Vehicles](../../../../topics/features/transportation/vehicles.md) > Truck
 
+## February 11th, 2022 Hot Potato Bonus Stream
+* [Q&A: Truck Stations unloading Lizard Doggo inventory for automated Biomass?](../../../../transcriptions/yt-z0W_JQb_K-A.md) [https://www.youtube.com/watch?v=z0W_JQb_K-A](https://www.youtube.com/watch?v=z0W_JQb_K-A)
+
 ## October 12th, 2021 Livestream
 * [Q&A: Will there ever be Rail crossings and will they interact with Truck autopilot?](../../../../transcriptions/yt-iBHxLQCXYNk.md) [https://www.youtube.com/watch?v=iBHxLQCXYNk](https://www.youtube.com/watch?v=iBHxLQCXYNk)
 * [Q&A: Will Trucks queue up behind a station if another Truck is there?](../../../../transcriptions/yt-RIQ0Lzb4DZ8.md) [https://www.youtube.com/watch?v=RIQ0Lzb4DZ8](https://www.youtube.com/watch?v=RIQ0Lzb4DZ8)

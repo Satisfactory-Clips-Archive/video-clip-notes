@@ -8,6 +8,10 @@ date: Last Modified
 * [Skövde](../../topics/off-topic/sweden/skovde.md)
 * [Stockholm](../../topics/off-topic/sweden/stockholm.md)
 
+## February 11th, 2022 Hot Potato Bonus Stream
+* [Snutt & Jace Talk: Pizza Hut](../../transcriptions/yt-hMIDSzLnuSM.md) [https://www.youtube.com/watch?v=hMIDSzLnuSM](https://www.youtube.com/watch?v=hMIDSzLnuSM)
+* [Snutt & Jace Talk: Seasonal darkness](../../transcriptions/yt-axmuLxBImGs.md) [https://www.youtube.com/watch?v=axmuLxBImGs](https://www.youtube.com/watch?v=axmuLxBImGs)
+
 ## November 30th, 2021 Livestream
 * [Snutt & Jace Talk: Handball](../../transcriptions/yt-2oM0G2HMZPI.md) [https://www.youtube.com/watch?v=2oM0G2HMZPI](https://www.youtube.com/watch?v=2oM0G2HMZPI)
 * [Q&A: Why doesn't Snutt have a strong accent?](../../transcriptions/yt-DYb3hFnv9iA.md) [https://www.youtube.com/watch?v=DYb3hFnv9iA](https://www.youtube.com/watch?v=DYb3hFnv9iA)

@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../topics.md) > [Features](../../topics/features.md) > Accessibility
 * [Arachnophobia Mode](../../topics/features/accessibility/arachnophobia-mode.md)
 
+## February 11th, 2022 Hot Potato Bonus Stream
+* [Q&A: What if you're both Arachnophobic and Ailurophobic?](../../transcriptions/yt-he-m1c2zsTI.md) [https://www.youtube.com/watch?v=he-m1c2zsTI](https://www.youtube.com/watch?v=he-m1c2zsTI)
+
 ## November 19th, 2021 Video
 * Jace Talk: Equipment Volume sliders & Misophonia Mode [https://youtube.com/clip/UgkxdExcGCgt8gtUyWqurmz23EKyRuD4RTAN](https://youtube.com/clip/UgkxdExcGCgt8gtUyWqurmz23EKyRuD4RTAN)
 

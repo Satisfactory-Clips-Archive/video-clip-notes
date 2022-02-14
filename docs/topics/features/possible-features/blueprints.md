@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > Possible Features > Blueprints
 
+## February 11th, 2022 Hot Potato Bonus Stream
+* [Q&A: Blueprints?](../../../transcriptions/yt-lidkhceF2oc.md) [https://www.youtube.com/watch?v=lidkhceF2oc](https://www.youtube.com/watch?v=lidkhceF2oc)
+
 ## November 2nd, 2021 Livestream
 * [Q&A: Current team consensus on Blueprints?](../../../transcriptions/yt-yP3yd9rIfUk.md) [https://www.youtube.com/watch?v=yP3yd9rIfUk](https://www.youtube.com/watch?v=yP3yd9rIfUk)
 

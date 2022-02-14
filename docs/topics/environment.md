@@ -11,6 +11,9 @@ date: Last Modified
 * [Resources](../topics/environment/resources.md)
 * [World Map](../topics/environment/world-map.md)
 
+## February 11th, 2022 Hot Potato Bonus Stream
+* [Q&A: Is there any talk for updating the Map or making it more in depth?](../transcriptions/yt-mM2BzlGYiJI.md) [https://www.youtube.com/watch?v=mM2BzlGYiJI](https://www.youtube.com/watch?v=mM2BzlGYiJI)
+
 ## January 18th, 2022 Livestream
 * [Q&A: Can we get rid of poison rocks?](../transcriptions/yt-yQfU5GLx4eM.md) [https://www.youtube.com/watch?v=yQfU5GLx4eM](https://www.youtube.com/watch?v=yQfU5GLx4eM)
 

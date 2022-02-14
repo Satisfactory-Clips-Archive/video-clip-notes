@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Technology](../../../topics/technology.md) > [Graphics](../../../topics/technology/graphics.md) > LOD
 
+## February 11th, 2022 Hot Potato Bonus Stream
+* [Snutt & Jace Talk: LOD & imposter sprites + bonus Snuttfasa](../../../transcriptions/yt-T10hyvZ6iQ0.md) [https://www.youtube.com/watch?v=T10hyvZ6iQ0](https://www.youtube.com/watch?v=T10hyvZ6iQ0)
+
 ## December 7th, 2021 Livestream
 * [Q&A: Is there going to be more work done on the LOD handling?](../../../transcriptions/yt-KLWmwY2xv_c.md) [https://www.youtube.com/watch?v=KLWmwY2xv_c](https://www.youtube.com/watch?v=KLWmwY2xv_c)
 

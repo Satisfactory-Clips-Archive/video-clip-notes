@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > Coal Generator
 
+## February 11th, 2022 Hot Potato Bonus Stream
+* [Q&A: Can you un-automate Coal?](../../../transcriptions/yt-QfRPustlQ24.md) [https://www.youtube.com/watch?v=QfRPustlQ24](https://www.youtube.com/watch?v=QfRPustlQ24)
+
 ## November 9th, 2021 Livestream
 * [Q&A: How does Water work, I need help with my Coal Generators?](../../../transcriptions/yt-Lgaj7mVtT8I.md) [https://www.youtube.com/watch?v=Lgaj7mVtT8I](https://www.youtube.com/watch?v=Lgaj7mVtT8I)
 
