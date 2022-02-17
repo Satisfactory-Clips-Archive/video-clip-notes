@@ -10,6 +10,9 @@ date: Last Modified
 * [Power Storage](../../topics/features/power-management/power-storage.md)
 * [Power Switch](../../topics/features/power-management/power-switch.md)
 
+## February 15th, 2022 Livestream
+* [Q&A: Is there a way to change the default Power Poles you automatically place with the power line?](../../transcriptions/yt-yrX3851FYKA.md) [https://www.youtube.com/watch?v=yrX3851FYKA](https://www.youtube.com/watch?v=yrX3851FYKA)
+
 ## February 8th, 2022 Livestream
 * Q&A: Would you consider adding a way to remotely monitor your Power Grid? [https://www.youtube.com/watch?v=5owfQK47Hyg](https://www.youtube.com/watch?v=5owfQK47Hyg)
 

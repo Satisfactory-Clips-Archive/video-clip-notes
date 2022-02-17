@@ -8,7 +8,7 @@ topics:
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: Do you have plans for elevators usable for players?
 https://www.youtube.com/watch?v=ZnuY8kzdKQU
-This question was possibly duplicated with a more recent answer: [November 23rd, 2021 Livestream Q&A: Adding Elevators?](./yt-iVDRQg_aWpU,6784.266072012346,6810.7188.md) [https://youtube.com/clip/UgkxNdm8cNFL8ta9X0qt6iDOGmD2-0Axsc8U](https://youtube.com/clip/UgkxNdm8cNFL8ta9X0qt6iDOGmD2-0Axsc8U)
+This question was possibly duplicated with a more recent answer: [February 15th, 2022 Livestream Q&A: Elevators?](./yt-m-7bmrKMk5c.md) [https://www.youtube.com/watch?v=m-7bmrKMk5c](https://www.youtube.com/watch?v=m-7bmrKMk5c)
 
 
 ### Topics

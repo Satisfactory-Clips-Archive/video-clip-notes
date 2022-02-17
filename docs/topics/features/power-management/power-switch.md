@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Power Management](../../../topics/features/power-management.md) > Power Switch
 
+## February 15th, 2022 Livestream
+* [Q&A: Will this game ever support turning on more than 53 Power Switches without crashing?](../../../transcriptions/yt-In8ivlake1U.md) [https://www.youtube.com/watch?v=In8ivlake1U](https://www.youtube.com/watch?v=In8ivlake1U)
+
 ## May 11th, 2021 Livestream
 * [Q&A: What happened with Priority Switches?](../../../transcriptions/yt-p-3nFsRAtBI.md) [https://www.youtube.com/watch?v=p-3nFsRAtBI](https://www.youtube.com/watch?v=p-3nFsRAtBI)
 

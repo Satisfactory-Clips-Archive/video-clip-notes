@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Environment](../../topics/environment.md) > World Map
 
+## February 15th, 2022 Livestream
+* [Q&A: More Maps?](../../transcriptions/yt-TC3b3F-b8a8.md) [https://www.youtube.com/watch?v=TC3b3F-b8a8](https://www.youtube.com/watch?v=TC3b3F-b8a8)
+
 ## February 11th, 2022 Hot Potato Bonus Stream
 * [Q&A: Is there any talk for updating the Map or making it more in depth?](../../transcriptions/yt-mM2BzlGYiJI.md) [https://www.youtube.com/watch?v=mM2BzlGYiJI](https://www.youtube.com/watch?v=mM2BzlGYiJI)
 

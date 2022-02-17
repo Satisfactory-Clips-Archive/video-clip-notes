@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Australia
 
+## February 15th, 2022 Livestream
+* [Snutt & Jace Talk: Amusement parks in Australia vs. the rest of the world](../../transcriptions/yt-8bPuEQfFp2o.md) [https://www.youtube.com/watch?v=8bPuEQfFp2o](https://www.youtube.com/watch?v=8bPuEQfFp2o)
+
 ## November 30th, 2021 Livestream
 * [Q&A: Catering to time travels now?](../../transcriptions/yt-Wrn_AYVV1TQ.md) [https://www.youtube.com/watch?v=Wrn_AYVV1TQ](https://www.youtube.com/watch?v=Wrn_AYVV1TQ)
 

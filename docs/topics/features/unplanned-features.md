@@ -17,6 +17,9 @@ date: Last Modified
 * [Terraforming](../../topics/features/unplanned-features/terraforming.md)
 * [VR](../../topics/features/unplanned-features/vr.md)
 
+## February 15th, 2022 Livestream
+* [Q&A: Hovercrafts?](../../transcriptions/yt-dYpp-mc3AZE.md) [https://www.youtube.com/watch?v=dYpp-mc3AZE](https://www.youtube.com/watch?v=dYpp-mc3AZE)
+
 ## February 4th, 2022 Video
 * [Jace Talk: Preamble to 6 things we're NEVER adding to Satisfactory](../../transcriptions/yt-J4LlorYbVV0,102.83606666666667,149.38256666666666.md) [https://youtube.com/embed/J4LlorYbVV0?autoplay=1&start=102&end=150](https://youtube.com/embed/J4LlorYbVV0?autoplay=1&start=102&end=150)
 * [Jace Talk: No Base Defence](../../transcriptions/yt-J4LlorYbVV0,149.41593333333333,264.33073333333334.md) [https://youtube.com/embed/J4LlorYbVV0?autoplay=1&start=149&end=265](https://youtube.com/embed/J4LlorYbVV0?autoplay=1&start=149&end=265)

@@ -12,6 +12,10 @@ date: Last Modified
 * [Tractor](../../../topics/features/transportation/vehicles/tractor.md)
 * [Truck](../../../topics/features/transportation/vehicles/truck.md)
 
+## February 15th, 2022 Livestream
+* [Q&A: Any chance of an Update for the Vehicles?](../../../transcriptions/yt-kiVI8W14Ec0.md) [https://www.youtube.com/watch?v=kiVI8W14Ec0](https://www.youtube.com/watch?v=kiVI8W14Ec0)
+* [Q&A: Hovercrafts?](../../../transcriptions/yt-dYpp-mc3AZE.md) [https://www.youtube.com/watch?v=dYpp-mc3AZE](https://www.youtube.com/watch?v=dYpp-mc3AZE)
+
 ## February 8th, 2022 Livestream
 * [Q&A: Still wanna know when we're getting boats?](../../../transcriptions/yt-AKd0bKZW0ZE.md) [https://www.youtube.com/watch?v=AKd0bKZW0ZE](https://www.youtube.com/watch?v=AKd0bKZW0ZE)
 * [Q&A: More Vehicles planned?](../../../transcriptions/yt-NdZjKiNaCRA.md) [https://www.youtube.com/watch?v=NdZjKiNaCRA](https://www.youtube.com/watch?v=NdZjKiNaCRA)

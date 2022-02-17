@@ -21,6 +21,9 @@ date: Last Modified
 * [Walls](../../topics/features/buildables/walls.md)
 * [Windows](../../topics/features/buildables/windows.md)
 
+## February 15th, 2022 Livestream
+* [Q&A: Is there a way to change the default Power Poles you automatically place with the power line?](../../transcriptions/yt-yrX3851FYKA.md) [https://www.youtube.com/watch?v=yrX3851FYKA](https://www.youtube.com/watch?v=yrX3851FYKA)
+
 ## January 25th, 2022 Livestream
 * [Q&A: Do Pillars and other Buildable items affect UObject count?](../../transcriptions/yt-WZBCdSdRISA.md) [https://www.youtube.com/watch?v=WZBCdSdRISA](https://www.youtube.com/watch?v=WZBCdSdRISA)
 

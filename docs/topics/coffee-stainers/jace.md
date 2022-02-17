@@ -9,6 +9,11 @@ date: Last Modified
 * [Jace Art](../../topics/coffee-stainers/jace/jace-art.md)
 * [Juice Velvet](../../topics/coffee-stainers/jace/juice-velvet.md)
 
+## February 15th, 2022 Livestream
+* [Community FYI: Jace, you look truncated](../../transcriptions/yt-1tf9HGbS-oA.md) [https://www.youtube.com/watch?v=1tf9HGbS-oA](https://www.youtube.com/watch?v=1tf9HGbS-oA)
+* [Q&A: What's your own personal favourite Coffee Stain game?](../../transcriptions/yt-Fw4aLzCIYHo.md) [https://www.youtube.com/watch?v=Fw4aLzCIYHo](https://www.youtube.com/watch?v=Fw4aLzCIYHo)
+* [Q&A: Hey Jace, how'd it feel to be truncated for the first time today?](../../transcriptions/yt-XEfmnSn63hE.md) [https://www.youtube.com/watch?v=XEfmnSn63hE](https://www.youtube.com/watch?v=XEfmnSn63hE)
+
 ## February 11th, 2022 Hot Potato Bonus Stream
 * [Snutt & Jace Talk: Jace not live](../../transcriptions/yt-PDGY2OaNbew.md) [https://www.youtube.com/watch?v=PDGY2OaNbew](https://www.youtube.com/watch?v=PDGY2OaNbew)
 * [Snutt & Jace Talk: Community Management presentation](../../transcriptions/yt-fW1Qb9foyvQ.md) [https://www.youtube.com/watch?v=fW1Qb9foyvQ](https://www.youtube.com/watch?v=fW1Qb9foyvQ)

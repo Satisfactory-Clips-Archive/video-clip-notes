@@ -7,6 +7,9 @@ date: Last Modified
 * [EU Merch Store](../topics/merch/eu-merch-store.md)
 * [Merch Prototypes](../topics/merch/merch-prototypes.md)
 
+## February 15th, 2022 Livestream
+* [Snutt & Jace Talk: Lego Constructor Set](../transcriptions/yt-H_6Boxjjt0E.md) [https://www.youtube.com/watch?v=H_6Boxjjt0E](https://www.youtube.com/watch?v=H_6Boxjjt0E)
+
 ## February 11th, 2022 Hot Potato Bonus Stream
 * [Q&A: Would it be weird if I ordered a full-sized Jace body pillow?](../transcriptions/yt-vQZoIxR3rqQ.md) [https://www.youtube.com/watch?v=vQZoIxR3rqQ](https://www.youtube.com/watch?v=vQZoIxR3rqQ)
 

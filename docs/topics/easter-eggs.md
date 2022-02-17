@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Easter Eggs
 
+## February 15th, 2022 Livestream
+* [Q&A: Will you add a Goat to honour Goat Simulator?](../transcriptions/yt-sy-UO8evFeM.md) [https://www.youtube.com/watch?v=sy-UO8evFeM](https://www.youtube.com/watch?v=sy-UO8evFeM)
+
 ## November 9th, 2021 Livestream
 * [Q&A: Are there any Easter Eggs that still haven't been found?](../transcriptions/yt-kiUlJOZmhKs.md) [https://www.youtube.com/watch?v=kiUlJOZmhKs](https://www.youtube.com/watch?v=kiUlJOZmhKs)
 

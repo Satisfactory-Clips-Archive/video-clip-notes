@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Wiki
 
+## February 15th, 2022 Livestream
+* [Community FYI: Jace, you look truncated](../../transcriptions/yt-1tf9HGbS-oA.md) [https://www.youtube.com/watch?v=1tf9HGbS-oA](https://www.youtube.com/watch?v=1tf9HGbS-oA)
+
 ## February 8th, 2022 Livestream
 * [Snutt & Jace Talk: Lake Shark](../../transcriptions/yt-bu0Z-_vt8sk.md) [https://www.youtube.com/watch?v=bu0Z-_vt8sk](https://www.youtube.com/watch?v=bu0Z-_vt8sk)
 

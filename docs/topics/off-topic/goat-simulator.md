@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Goat Simulator
 
+## February 15th, 2022 Livestream
+* [Q&A: What's your own personal favourite Coffee Stain game?](../../transcriptions/yt-Fw4aLzCIYHo.md) [https://www.youtube.com/watch?v=Fw4aLzCIYHo](https://www.youtube.com/watch?v=Fw4aLzCIYHo)
+* [Q&A: Will you add a Goat to honour Goat Simulator?](../../transcriptions/yt-sy-UO8evFeM.md) [https://www.youtube.com/watch?v=sy-UO8evFeM](https://www.youtube.com/watch?v=sy-UO8evFeM)
+
 ## January 18th, 2022 Livestream
 * [Q&A: Speaking of Lizzard Doggo, when are we going to get Lizard Doggo Simulator?](../../transcriptions/yt--_QFGvE0h0I.md) [https://www.youtube.com/watch?v=-_QFGvE0h0I](https://www.youtube.com/watch?v=-_QFGvE0h0I)
 

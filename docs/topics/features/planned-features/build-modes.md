@@ -8,6 +8,9 @@ date: Last Modified
 * [Quick Switch](../../../topics/features/planned-features/build-modes/quick-switch.md)
 * [Zooping](../../../topics/features/planned-features/build-modes/zooping.md)
 
+## February 15th, 2022 Livestream
+* [Q&A: Is there a way to change the default Power Poles you automatically place with the power line?](../../../transcriptions/yt-yrX3851FYKA.md) [https://www.youtube.com/watch?v=yrX3851FYKA](https://www.youtube.com/watch?v=yrX3851FYKA)
+
 ## November 9th, 2021 Livestream
 * [Q&A: Reverse Build Mode, when?](../../../transcriptions/yt-MhYk3tCLUi8.md) [https://www.youtube.com/watch?v=MhYk3tCLUi8](https://www.youtube.com/watch?v=MhYk3tCLUi8)
 

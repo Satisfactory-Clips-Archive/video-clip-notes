@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildables](../../../topics/features/buildables.md) > Walls
 
+## February 15th, 2022 Livestream
+* [Q&A: Can we get stacked gates that link so they operate together?](../../../transcriptions/yt-EXwaMA0E3x4.md) [https://www.youtube.com/watch?v=EXwaMA0E3x4](https://www.youtube.com/watch?v=EXwaMA0E3x4)
+
 ## January 18th, 2022 Livestream
 * [Q&A: When are we going to see placeable Wall Conveyor holes?](../../../transcriptions/yt-sKqIciW-TVQ.md) [https://www.youtube.com/watch?v=sKqIciW-TVQ](https://www.youtube.com/watch?v=sKqIciW-TVQ)
 

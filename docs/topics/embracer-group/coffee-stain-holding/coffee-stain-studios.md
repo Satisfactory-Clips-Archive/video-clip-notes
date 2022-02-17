@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Embracer Group](../../../topics/embracer-group.md) > Coffee Stain Holding > Coffee Stain Studios
 
+## February 15th, 2022 Livestream
+* [Q&A: What's your own personal favourite Coffee Stain game?](../../../transcriptions/yt-Fw4aLzCIYHo.md) [https://www.youtube.com/watch?v=Fw4aLzCIYHo](https://www.youtube.com/watch?v=Fw4aLzCIYHo)
+
 ## February 8th, 2022 Livestream
 * [Q&A: Is "developer creative time" typical game development or unique to Coffee Stain?](../../../transcriptions/yt-D_K9Y_YaBGU.md) [https://www.youtube.com/watch?v=D_K9Y_YaBGU](https://www.youtube.com/watch?v=D_K9Y_YaBGU)
 * [Q&A: How much of Coffee Stain is working on Satisfactory vs. other games?](../../../transcriptions/yt-oCPtri5h_4k.md) [https://www.youtube.com/watch?v=oCPtri5h_4k](https://www.youtube.com/watch?v=oCPtri5h_4k)

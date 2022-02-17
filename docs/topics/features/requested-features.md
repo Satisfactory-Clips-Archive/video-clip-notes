@@ -12,6 +12,11 @@ date: Last Modified
 * [Pollution](../../topics/features/requested-features/pollution.md)
 * [Third-person View](../../topics/features/requested-features/third-person-view.md)
 
+## February 15th, 2022 Livestream
+* [Q&A: Will Smart Mergers ever be a thing?](../../transcriptions/yt-xzmIE-SlPp4.md) [https://www.youtube.com/watch?v=xzmIE-SlPp4](https://www.youtube.com/watch?v=xzmIE-SlPp4)
+* [Q&A: Can we get stacked gates that link so they operate together?](../../transcriptions/yt-EXwaMA0E3x4.md) [https://www.youtube.com/watch?v=EXwaMA0E3x4](https://www.youtube.com/watch?v=EXwaMA0E3x4)
+* [Q&A: How about Trains with Rails above it and not under it?](../../transcriptions/yt-muU4xmGOOXU.md) [https://www.youtube.com/watch?v=muU4xmGOOXU](https://www.youtube.com/watch?v=muU4xmGOOXU)
+
 ## February 8th, 2022 Livestream
 * Q&A: Would you consider adding a way to remotely monitor your Power Grid? [https://www.youtube.com/watch?v=5owfQK47Hyg](https://www.youtube.com/watch?v=5owfQK47Hyg)
 
@@ -106,3 +111,6 @@ date: Last Modified
 
 ## June 1st, 2021 Livestream
 * [Q&A: Any plans for an Elevator for those of us that build mega factories?](../../transcriptions/yt-snzgCf54CIQ.md) [https://www.youtube.com/watch?v=snzgCf54CIQ](https://www.youtube.com/watch?v=snzgCf54CIQ)
+
+## September 15th, 2020 Livestream
+* [Q&A: Off-road Motorbike?](../../transcriptions/yt-ZEFN3_Qz4Kg.md) [https://www.youtube.com/watch?v=ZEFN3_Qz4Kg](https://www.youtube.com/watch?v=ZEFN3_Qz4Kg)

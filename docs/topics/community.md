@@ -24,6 +24,9 @@ date: Last Modified
 * [Vilsol](../topics/community/vilsol.md)
 * [Wiki](../topics/community/wiki.md)
 
+## February 15th, 2022 Livestream
+* [Snutt & Jace Talk: Lego Constructor Set](../transcriptions/yt-H_6Boxjjt0E.md) [https://www.youtube.com/watch?v=H_6Boxjjt0E](https://www.youtube.com/watch?v=H_6Boxjjt0E)
+
 ## February 11th, 2022 Hot Potato Bonus Stream
 * [Snutt & Jace Talk: Weebl](../transcriptions/yt-5cWg-4aqJTc.md) [https://www.youtube.com/watch?v=5cWg-4aqJTc](https://www.youtube.com/watch?v=5cWg-4aqJTc)
 

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > DirectX
 
+## February 15th, 2022 Livestream
+* [Snutt & Jace Talk: If your game is crashing because of something related to DirectX blah](../../transcriptions/yt-AzF9_sSAW_A.md) [https://www.youtube.com/watch?v=AzF9_sSAW_A](https://www.youtube.com/watch?v=AzF9_sSAW_A)
+
 ## December 7th, 2021 Livestream
 * Q&A: Will you keep DirectX 11 support in future Updates? [https://www.youtube.com/watch?v=lV97VTEtsWs](https://www.youtube.com/watch?v=lV97VTEtsWs)
 

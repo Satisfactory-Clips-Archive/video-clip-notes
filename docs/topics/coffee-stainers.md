@@ -39,6 +39,9 @@ date: Last Modified
 * [Torsten](../topics/coffee-stainers/torsten.md)
 * [Uzu](../topics/coffee-stainers/uzu.md)
 
+## February 15th, 2022 Livestream
+* [Q&A: Do you know who came up with the concept of Satisfactory?](../transcriptions/yt-kZ4-l18DVXg.md) [https://www.youtube.com/watch?v=kZ4-l18DVXg](https://www.youtube.com/watch?v=kZ4-l18DVXg)
+
 ## February 8th, 2022 Livestream
 * [Q&A: How many people work at your studio?](../transcriptions/yt-zZHLKZIyLRI.md) [https://www.youtube.com/watch?v=zZHLKZIyLRI](https://www.youtube.com/watch?v=zZHLKZIyLRI)
 * [Q&A: Does anyone at the company play with Mods?](../transcriptions/yt-v6oZ6eDo3uc.md) [https://www.youtube.com/watch?v=v6oZ6eDo3uc](https://www.youtube.com/watch?v=v6oZ6eDo3uc)
