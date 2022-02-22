@@ -4,6 +4,7 @@ date: "2021-07-13"
 layout: transcript
 topics:
     - "coffee-stainers/jace"
+    - "off-topic/final-fantasy"
 ---
 # [July 13th, 2021 Livestream](../2021-07-13.md)
 ## Jace Talk: Someone needs to make Midgar
@@ -11,6 +12,7 @@ https://www.youtube.com/watch?v=fq7MwDA2py8
 
 ### Topics
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
+* [Off-Topic > Final Fantasy](../topics/off-topic/final-fantasy.md)
 
 ### Transcript
 

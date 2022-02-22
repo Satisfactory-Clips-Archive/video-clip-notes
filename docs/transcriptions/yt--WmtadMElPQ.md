@@ -4,6 +4,7 @@ date: "2022-02-11"
 layout: transcript
 topics:
     - "off-topic"
+    - "off-topic/final-fantasy"
 ---
 # [February 11th, 2022 Hot Potato Bonus Stream](../2022-02-11.md)
 ## Snutt & Jace Talk: Final Fantasy
@@ -11,6 +12,7 @@ https://www.youtube.com/watch?v=-WmtadMElPQ
 
 ### Topics
 * [Off-Topic](../topics/off-topic.md)
+* [Off-Topic > Final Fantasy](../topics/off-topic/final-fantasy.md)
 
 ### Transcript
 

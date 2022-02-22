@@ -4,6 +4,7 @@ date: "2021-09-21"
 layout: transcript
 topics:
     - "environment/creatures/crab-boss"
+    - "off-topic/final-fantasy"
 ---
 # [September 21st, 2021 Livestream](../2021-09-21.md)
 ## Q&A: Will there be bosses?
@@ -11,6 +12,7 @@ https://www.youtube.com/watch?v=M6hPQBYMYzA
 
 ### Topics
 * [Environment > Creatures > Crab Boss](../topics/environment/creatures/crab-boss.md)
+* [Off-Topic > Final Fantasy](../topics/off-topic/final-fantasy.md)
 
 ### Transcript
 

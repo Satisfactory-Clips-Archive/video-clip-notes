@@ -4,6 +4,7 @@ date: "2021-09-21"
 layout: transcript
 topics:
     - "off-topic"
+    - "off-topic/final-fantasy"
 ---
 # [September 21st, 2021 Livestream](../2021-09-21.md)
 ## Snutt & Jace Talk: Final Fantasy
@@ -11,6 +12,7 @@ https://www.youtube.com/watch?v=8UBjw297OVs
 
 ### Topics
 * [Off-Topic](../topics/off-topic.md)
+* [Off-Topic > Final Fantasy](../topics/off-topic/final-fantasy.md)
 
 ### Transcript
 
