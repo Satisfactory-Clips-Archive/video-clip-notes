@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > Transportation > [Vehicles](../../../../topics/features/transportation/vehicles.md) > Explorer
 
+## February 22nd, 2022 Livestream
+* [Q&A: Add plush Doggo to the second seat?](../../../../transcriptions/yt-NoqAEj4SREw.md) [https://www.youtube.com/watch?v=NoqAEj4SREw](https://www.youtube.com/watch?v=NoqAEj4SREw)
+* [Community FYI: The second seat is for the Autopilot](../../../../transcriptions/yt-UqCM_w-4INk.md) [https://www.youtube.com/watch?v=UqCM_w-4INk](https://www.youtube.com/watch?v=UqCM_w-4INk)
+
 ## September 14th, 2021 Livestream
 * [Q&A: Why can we not put a second person in the Buggy?](../../../../transcriptions/yt-7k7lIdyQBvQ.md) [https://www.youtube.com/watch?v=7k7lIdyQBvQ](https://www.youtube.com/watch?v=7k7lIdyQBvQ)
 

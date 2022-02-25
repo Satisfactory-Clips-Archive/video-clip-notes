@@ -8,6 +8,11 @@ date: Last Modified
 * [Creative Mode](../../../topics/features/possible-features/game-modes/creative-mode.md)
 * [Peaceful Mode](../../../topics/features/possible-features/game-modes/peaceful-mode.md)
 
+## February 22nd, 2022 Livestream
+* [Q&A: Have you thought about making Space Elevator goals more difficult?](../../../transcriptions/yt-Q7byNQ9xEkw.md) [https://www.youtube.com/watch?v=Q7byNQ9xEkw](https://www.youtube.com/watch?v=Q7byNQ9xEkw)
+* [Q&A: Game mode to make environmental puzzles more difficult?](../../../transcriptions/yt-vI1MbFXJphw.md) [https://www.youtube.com/watch?v=vI1MbFXJphw](https://www.youtube.com/watch?v=vI1MbFXJphw)
+* [Q&A: What do you think of a Hard Mode with production per minute requirements?](../../../transcriptions/yt-NyWrFTRCXJA.md) [https://www.youtube.com/watch?v=NyWrFTRCXJA](https://www.youtube.com/watch?v=NyWrFTRCXJA)
+
 ## November 9th, 2021 Livestream
 * [Q&A: Responsive mode?](../../../transcriptions/yt-Zg9VbXSH6Zg.md) [https://www.youtube.com/watch?v=Zg9VbXSH6Zg](https://www.youtube.com/watch?v=Zg9VbXSH6Zg)
 

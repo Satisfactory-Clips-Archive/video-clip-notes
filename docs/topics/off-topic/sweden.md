@@ -8,6 +8,9 @@ date: Last Modified
 * [Skövde](../../topics/off-topic/sweden/skovde.md)
 * [Stockholm](../../topics/off-topic/sweden/stockholm.md)
 
+## February 22nd, 2022 Livestream
+* [Snutt & Jace Talk: Swedish week numbers](../../transcriptions/yt-9s1X1Ky4rzI.md) [https://www.youtube.com/watch?v=9s1X1Ky4rzI](https://www.youtube.com/watch?v=9s1X1Ky4rzI)
+
 ## February 11th, 2022 Hot Potato Bonus Stream
 * [Snutt & Jace Talk: Pizza Hut](../../transcriptions/yt-hMIDSzLnuSM.md) [https://www.youtube.com/watch?v=hMIDSzLnuSM](https://www.youtube.com/watch?v=hMIDSzLnuSM)
 * [Snutt & Jace Talk: Seasonal darkness](../../transcriptions/yt-axmuLxBImGs.md) [https://www.youtube.com/watch?v=axmuLxBImGs](https://www.youtube.com/watch?v=axmuLxBImGs)

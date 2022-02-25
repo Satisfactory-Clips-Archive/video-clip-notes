@@ -7,6 +7,12 @@ date: Last Modified
 * [Snutt Burger Time](../../topics/coffee-stainers/snutt/snutt-burger-time.md)
 * [Snutty Mays](../../topics/coffee-stainers/snutt/snutty-mays.md)
 
+## February 22nd, 2022 Livestream
+* [Q&A: Snutt, be honest: why do you hate Star Wars?](../../transcriptions/yt-UXv8unOsnRo.md) [https://www.youtube.com/watch?v=UXv8unOsnRo](https://www.youtube.com/watch?v=UXv8unOsnRo)
+* [Community FYI: Spock is Star Trek, though](../../transcriptions/yt-Zvj3uNH1a-M.md) [https://www.youtube.com/watch?v=Zvj3uNH1a-M](https://www.youtube.com/watch?v=Zvj3uNH1a-M)
+* [Q&A: What do you want to be when you grow up?](../../transcriptions/yt-c0Me_EQY_Qs.md) [https://www.youtube.com/watch?v=c0Me_EQY_Qs](https://www.youtube.com/watch?v=c0Me_EQY_Qs)
+* [Q&A: Has Snutt been fired yet this week?](../../transcriptions/yt-7lOu9AfeaH4.md) [https://www.youtube.com/watch?v=7lOu9AfeaH4](https://www.youtube.com/watch?v=7lOu9AfeaH4)
+
 ## February 15th, 2022 Livestream
 * [Q&A: What's your own personal favourite Coffee Stain game?](../../transcriptions/yt-Fw4aLzCIYHo.md) [https://www.youtube.com/watch?v=Fw4aLzCIYHo](https://www.youtube.com/watch?v=Fw4aLzCIYHo)
 

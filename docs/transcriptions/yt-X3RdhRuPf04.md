@@ -8,7 +8,7 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Hyper Tube Cannon future ?
 https://www.youtube.com/watch?v=X3RdhRuPf04
-This question was possibly duplicated with a more recent answer: [September 28th, 2021 Livestream Q&A: Were Hyper Tubes ever meant to work that way or was it an accident?](./yt-oT-Qz36u1co.md) [https://www.youtube.com/watch?v=oT-Qz36u1co](https://www.youtube.com/watch?v=oT-Qz36u1co)
+This question was possibly duplicated with a more recent answer: [February 22nd, 2022 Livestream Q&A: Are you going to remove the Hypertube cannon?](./yt-R_3Ck6l2LeQ.md) [https://www.youtube.com/watch?v=R_3Ck6l2LeQ](https://www.youtube.com/watch?v=R_3Ck6l2LeQ)
 
 
 ### Topics

@@ -12,6 +12,18 @@ date: Last Modified
 * [Pollution](../../topics/features/requested-features/pollution.md)
 * [Third-person View](../../topics/features/requested-features/third-person-view.md)
 
+## February 22nd, 2022 Livestream
+* [Q&A: What about actual harbour & shipping?](../../transcriptions/yt-rs49UPLHlGM.md) [https://www.youtube.com/watch?v=rs49UPLHlGM](https://www.youtube.com/watch?v=rs49UPLHlGM)
+* [Q&A: Angle Lights up?](../../transcriptions/yt-Bh6ulAtlCKE.md) [https://www.youtube.com/watch?v=Bh6ulAtlCKE](https://www.youtube.com/watch?v=Bh6ulAtlCKE)
+* [Q&A: Smaller ceiling factory Lights?](../../transcriptions/yt-gTrZzs13bbA.md) [https://www.youtube.com/watch?v=gTrZzs13bbA](https://www.youtube.com/watch?v=gTrZzs13bbA)
+* [Q&A: More architecture coming in Update 6?](../../transcriptions/yt-E_xludNxf08.md) [https://www.youtube.com/watch?v=E_xludNxf08](https://www.youtube.com/watch?v=E_xludNxf08)
+* [Q&A: Do you have solution for corner Roofs in mind?](../../transcriptions/yt-17_rShob9vA.md) [https://www.youtube.com/watch?v=17_rShob9vA](https://www.youtube.com/watch?v=17_rShob9vA)
+* [Q&A: Can we have more than one player in a Vehicle?](../../transcriptions/yt-gcECX3h__YQ.md) [https://www.youtube.com/watch?v=gcECX3h__YQ](https://www.youtube.com/watch?v=gcECX3h__YQ)
+* [Q&A: Flying Vehicles?](../../transcriptions/yt-RY7melOTU34.md) [https://www.youtube.com/watch?v=RY7melOTU34](https://www.youtube.com/watch?v=RY7melOTU34)
+* [Q&A: When can you pick up the tamed Doggo?](../../transcriptions/yt-VOpTrVlT95g.md) [https://www.youtube.com/watch?v=VOpTrVlT95g](https://www.youtube.com/watch?v=VOpTrVlT95g)
+* [Q&A: Teleporters?](../../transcriptions/yt-UdJROx6rvdg.md) [https://www.youtube.com/watch?v=UdJROx6rvdg](https://www.youtube.com/watch?v=UdJROx6rvdg)
+* [Q&A: Gun turret on the Truck?](../../transcriptions/yt-WrKWDq64mMc.md) [https://www.youtube.com/watch?v=WrKWDq64mMc](https://www.youtube.com/watch?v=WrKWDq64mMc)
+
 ## February 15th, 2022 Livestream
 * [Q&A: Will Smart Mergers ever be a thing?](../../transcriptions/yt-xzmIE-SlPp4.md) [https://www.youtube.com/watch?v=xzmIE-SlPp4](https://www.youtube.com/watch?v=xzmIE-SlPp4)
 * [Q&A: Can we get stacked gates that link so they operate together?](../../transcriptions/yt-EXwaMA0E3x4.md) [https://www.youtube.com/watch?v=EXwaMA0E3x4](https://www.youtube.com/watch?v=EXwaMA0E3x4)

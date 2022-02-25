@@ -24,6 +24,9 @@ date: Last Modified
 * [Vilsol](../topics/community/vilsol.md)
 * [Wiki](../topics/community/wiki.md)
 
+## February 22nd, 2022 Livestream
+* [State of Dave](../transcriptions/yt-p1jNaTm6j2Q.md) [https://www.youtube.com/watch?v=p1jNaTm6j2Q](https://www.youtube.com/watch?v=p1jNaTm6j2Q)
+
 ## February 15th, 2022 Livestream
 * [Snutt & Jace Talk: Lego Constructor Set](../transcriptions/yt-H_6Boxjjt0E.md) [https://www.youtube.com/watch?v=H_6Boxjjt0E](https://www.youtube.com/watch?v=H_6Boxjjt0E)
 

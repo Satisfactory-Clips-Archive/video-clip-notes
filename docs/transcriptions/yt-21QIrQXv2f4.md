@@ -10,6 +10,8 @@ topics:
 # [September 14th, 2021 Livestream](../2021-09-14.md)
 ## Q&A: When will you be returning to the office?
 https://www.youtube.com/watch?v=21QIrQXv2f4
+This question was possibly duplicated with a more recent answer: [February 22nd, 2022 Livestream Q&A: Are Coffee Stainers back at the office now?](./yt-DK5UfByJ61U.md) [https://www.youtube.com/watch?v=DK5UfByJ61U](https://www.youtube.com/watch?v=DK5UfByJ61U)
+
 
 ### Topics
 * [Coffee Stainers](../topics/coffee-stainers.md)

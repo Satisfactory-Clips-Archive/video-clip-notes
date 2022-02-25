@@ -6,6 +6,10 @@ date: Last Modified
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > Space Elevator
 * [Food Court](../../../topics/features/buildings/space-elevator/food-court.md)
 
+## February 22nd, 2022 Livestream
+* [Q&A: Have you thought about making Space Elevator goals more difficult?](../../../transcriptions/yt-Q7byNQ9xEkw.md) [https://www.youtube.com/watch?v=Q7byNQ9xEkw](https://www.youtube.com/watch?v=Q7byNQ9xEkw)
+* [Q&A: What do you think of a Hard Mode with production per minute requirements?](../../../transcriptions/yt-NyWrFTRCXJA.md) [https://www.youtube.com/watch?v=NyWrFTRCXJA](https://www.youtube.com/watch?v=NyWrFTRCXJA)
+
 ## November 30th, 2021 Livestream
 * [Q&A: Is the focus now on content/project parts?](../../../transcriptions/yt-2uxuRg2qmhY.md) [https://www.youtube.com/watch?v=2uxuRg2qmhY](https://www.youtube.com/watch?v=2uxuRg2qmhY)
 

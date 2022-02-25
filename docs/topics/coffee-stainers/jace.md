@@ -9,6 +9,11 @@ date: Last Modified
 * [Jace Art](../../topics/coffee-stainers/jace/jace-art.md)
 * [Juice Velvet](../../topics/coffee-stainers/jace/juice-velvet.md)
 
+## February 22nd, 2022 Livestream
+* [Q&A: What do you want to be when you grow up?](../../transcriptions/yt-c0Me_EQY_Qs.md) [https://www.youtube.com/watch?v=c0Me_EQY_Qs](https://www.youtube.com/watch?v=c0Me_EQY_Qs)
+* [Q&A: Can you show the Doggo Plushie, I'm waiting for mine?](../../transcriptions/yt-rIWDa8fKA5A.md) [https://www.youtube.com/watch?v=rIWDa8fKA5A](https://www.youtube.com/watch?v=rIWDa8fKA5A)
+* [Q&A: Can you still channel full-Aussie accent?](../../transcriptions/yt-U9ft-1L806k.md) [https://www.youtube.com/watch?v=U9ft-1L806k](https://www.youtube.com/watch?v=U9ft-1L806k)
+
 ## February 15th, 2022 Livestream
 * [Community FYI: Jace, you look truncated](../../transcriptions/yt-1tf9HGbS-oA.md) [https://www.youtube.com/watch?v=1tf9HGbS-oA](https://www.youtube.com/watch?v=1tf9HGbS-oA)
 * [Q&A: What's your own personal favourite Coffee Stain game?](../../transcriptions/yt-Fw4aLzCIYHo.md) [https://www.youtube.com/watch?v=Fw4aLzCIYHo](https://www.youtube.com/watch?v=Fw4aLzCIYHo)

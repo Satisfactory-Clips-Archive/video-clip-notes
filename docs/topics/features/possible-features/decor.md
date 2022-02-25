@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > Possible Features > Decor
 
+## February 22nd, 2022 Livestream
+* [Q&A: Can you add a gaming chair so I can feel superior in my factory?](../../../transcriptions/yt-uOBd9PP77GY.md) [https://www.youtube.com/watch?v=uOBd9PP77GY](https://www.youtube.com/watch?v=uOBd9PP77GY)
+* [Q&A: More architecture coming in Update 6?](../../../transcriptions/yt-E_xludNxf08.md) [https://www.youtube.com/watch?v=E_xludNxf08](https://www.youtube.com/watch?v=E_xludNxf08)
+
 ## December 7th, 2021 Livestream
 * Q&A: Any plans for adding a butt-load of props? [https://www.youtube.com/watch?v=DXUaVHou2bs](https://www.youtube.com/watch?v=DXUaVHou2bs)
 

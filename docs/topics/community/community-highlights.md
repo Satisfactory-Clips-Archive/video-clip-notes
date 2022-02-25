@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Community Highlights
 
+## February 22nd, 2022 Livestream
+* [Q&A: Is the rare alternate clapping Emote still in the game?](../../transcriptions/yt-JhdDyDRBLjM.md) [https://www.youtube.com/watch?v=JhdDyDRBLjM](https://www.youtube.com/watch?v=JhdDyDRBLjM)
+
 ## December 24th, 2021 Video
 * [Snutt Talk: Concurrent Player Count](../../transcriptions/yt-1Tksg738sHo,87.45403333333333,105.105.md) [https://youtube.com/clip/UgkxbPABt5EJJI-Fm4acq_whSvlQsUwZ4pZH](https://youtube.com/clip/UgkxbPABt5EJJI-Fm4acq_whSvlQsUwZ4pZH)
 

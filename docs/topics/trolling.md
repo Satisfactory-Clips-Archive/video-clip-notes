@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Trolling
 
+## February 22nd, 2022 Livestream
+* [Snutt & Jace Talk: Two Two Two Two Two Trolling](../transcriptions/yt-OyY9ck4pIzo.md) [https://www.youtube.com/watch?v=OyY9ck4pIzo](https://www.youtube.com/watch?v=OyY9ck4pIzo)
+* [Community FYI: Spock is Star Trek, though](../transcriptions/yt-Zvj3uNH1a-M.md) [https://www.youtube.com/watch?v=Zvj3uNH1a-M](https://www.youtube.com/watch?v=Zvj3uNH1a-M)
+* [Q&A: Has Snutt been fired yet this week?](../transcriptions/yt-7lOu9AfeaH4.md) [https://www.youtube.com/watch?v=7lOu9AfeaH4](https://www.youtube.com/watch?v=7lOu9AfeaH4)
+
 ## February 11th, 2022 Hot Potato Bonus Stream
 * [Snutt & Jace Talk: Jace not live](../transcriptions/yt-PDGY2OaNbew.md) [https://www.youtube.com/watch?v=PDGY2OaNbew](https://www.youtube.com/watch?v=PDGY2OaNbew)
 

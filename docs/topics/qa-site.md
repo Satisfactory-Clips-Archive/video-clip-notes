@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > QA Site
 
+## February 22nd, 2022 Livestream
+* [Q&A: How are you dealing with old issues on the QA Site?](../transcriptions/yt-aKxR86z_fAU.md) [https://www.youtube.com/watch?v=aKxR86z_fAU](https://www.youtube.com/watch?v=aKxR86z_fAU)
+
 ## January 18th, 2022 Livestream
 * [Snutt & Jace Talk: Horse Armour QA Site post](../transcriptions/yt-W8hAorUGO54.md) [https://www.youtube.com/watch?v=W8hAorUGO54](https://www.youtube.com/watch?v=W8hAorUGO54)
 

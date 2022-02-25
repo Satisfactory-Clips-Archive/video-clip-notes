@@ -9,7 +9,7 @@ topics:
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: How about procedural maps?
 https://www.youtube.com/watch?v=oYVWBcgkahY
-This question was possibly duplicated with a more recent answer: [February 1st, 2022 Livestream Q&A: Is there a very long-term plan for random World generation?](./yt-0i2lAA8OUAs.md) [https://www.youtube.com/watch?v=0i2lAA8OUAs](https://www.youtube.com/watch?v=0i2lAA8OUAs)
+This question was possibly duplicated with a more recent answer: [February 22nd, 2022 Livestream Q&A: Will you add randomised worlds in the future?](./yt-EDjLXUUbXKg.md) [https://www.youtube.com/watch?v=EDjLXUUbXKg](https://www.youtube.com/watch?v=EDjLXUUbXKg)
 
 
 ### Topics

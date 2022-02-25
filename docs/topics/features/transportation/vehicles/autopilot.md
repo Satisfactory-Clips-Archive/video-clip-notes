@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > Transportation > [Vehicles](../../../../topics/features/transportation/vehicles.md) > Autopilot
 
+## February 22nd, 2022 Livestream
+* [Community FYI: The second seat is for the Autopilot](../../../../transcriptions/yt-UqCM_w-4INk.md) [https://www.youtube.com/watch?v=UqCM_w-4INk](https://www.youtube.com/watch?v=UqCM_w-4INk)
+
 ## November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary
 * Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 31) [https://www.youtube.com/watch?v=gND0YVdujU8](https://www.youtube.com/watch?v=gND0YVdujU8)
 * [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 32)](../../../../transcriptions/yt-QvJr2UFkIa4.md) [https://www.youtube.com/watch?v=QvJr2UFkIa4](https://www.youtube.com/watch?v=QvJr2UFkIa4)

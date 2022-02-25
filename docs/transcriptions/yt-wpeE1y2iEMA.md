@@ -8,6 +8,8 @@ topics:
 # [May 4th, 2021 Livestream](../2021-05-04.md)
 ## Q&A: Visit the Food Court?
 https://www.youtube.com/watch?v=wpeE1y2iEMA
+This question was possibly duplicated with a more recent answer: [February 22nd, 2022 Livestream Q&A: When will we see the Food Court](./yt-gvBWfMy9jBc.md) [https://www.youtube.com/watch?v=gvBWfMy9jBc](https://www.youtube.com/watch?v=gvBWfMy9jBc)
+
 
 ### Topics
 * [Features > Buildings > Space Elevator > Food Court](../topics/features/buildings/space-elevator/food-court.md)

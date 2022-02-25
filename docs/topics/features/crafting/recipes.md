@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Crafting](../../../topics/features/crafting.md) > Recipes
 * [Alternate Recipes](../../../topics/features/crafting/recipes/alternate-recipes.md)
 
+## February 22nd, 2022 Livestream
+* [Q&A: What do you think of a Hard Mode with production per minute requirements?](../../../transcriptions/yt-NyWrFTRCXJA.md) [https://www.youtube.com/watch?v=NyWrFTRCXJA](https://www.youtube.com/watch?v=NyWrFTRCXJA)
+
 ## September 28th, 2021 Livestream
 * [Q&A: Are there any Recipes that sure won't change 'til 1.0?](../../../transcriptions/yt-3iBW1DPBlD4.md) [https://www.youtube.com/watch?v=3iBW1DPBlD4](https://www.youtube.com/watch?v=3iBW1DPBlD4)
 * [Q&A: Will you add a harder mode at some point with more expensive Recipes?](../../../transcriptions/yt-vMgvD3QPJqM.md) [https://www.youtube.com/watch?v=vMgvD3QPJqM](https://www.youtube.com/watch?v=vMgvD3QPJqM)

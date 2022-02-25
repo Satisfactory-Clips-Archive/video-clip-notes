@@ -8,7 +8,7 @@ topics:
 # [September 29th, 2020 Livestream](../2020-09-29.md)
 ## Q&A: Will we see air vehicles some time in the future?
 https://www.youtube.com/watch?v=qJ56jBYTtAc
-This question was possibly duplicated with a more recent answer: [March 30th, 2021 Livestream Q&A: Will there be planes and helicopters?](./yt-E-c_NfjMqUM.md) [https://www.youtube.com/watch?v=E-c_NfjMqUM](https://www.youtube.com/watch?v=E-c_NfjMqUM)
+This question was possibly duplicated with a more recent answer: [February 22nd, 2022 Livestream Q&A: Flying Vehicles?](./yt-RY7melOTU34.md) [https://www.youtube.com/watch?v=RY7melOTU34](https://www.youtube.com/watch?v=RY7melOTU34)
 
 
 ### Topics

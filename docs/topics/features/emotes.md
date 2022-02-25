@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Features](../../topics/features.md) > Emotes
 
+## February 22nd, 2022 Livestream
+* [Q&A: Is the rare alternate clapping Emote still in the game?](../../transcriptions/yt-JhdDyDRBLjM.md) [https://www.youtube.com/watch?v=JhdDyDRBLjM](https://www.youtube.com/watch?v=JhdDyDRBLjM)
+
 ## December 7th, 2021 Livestream
 * [Q&A: Any plans to add emotes to signs or expand their functionality in other ways?](../../transcriptions/yt-IWp55tlEaSg.md) [https://www.youtube.com/watch?v=IWp55tlEaSg](https://www.youtube.com/watch?v=IWp55tlEaSg)
 

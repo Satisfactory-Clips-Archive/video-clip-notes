@@ -10,7 +10,7 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: Are we going to be able to get the Space Elevator Food Court?
 https://www.youtube.com/watch?v=YNogQuanQlc
-This question was possibly duplicated with a more recent answer: August 3rd, 2021 Livestream Q&A: When is Satisfactory Food Court open? [https://www.youtube.com/watch?v=ewVv8u7Misw](https://www.youtube.com/watch?v=ewVv8u7Misw)
+This question was possibly duplicated with a more recent answer: [February 22nd, 2022 Livestream Q&A: When will we see the Food Court](./yt-gvBWfMy9jBc.md) [https://www.youtube.com/watch?v=gvBWfMy9jBc](https://www.youtube.com/watch?v=gvBWfMy9jBc)
 
 
 ### Topics

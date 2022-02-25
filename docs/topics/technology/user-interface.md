@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > User Interface
 * [Holograms](../../topics/technology/user-interface/holograms.md)
 
+## February 22nd, 2022 Livestream
+* [Q&A: Thoughts on being able to copy/paste Buildings with the settings also copied?](../../transcriptions/yt-RBoV0E1Dpfc.md) [https://www.youtube.com/watch?v=RBoV0E1Dpfc](https://www.youtube.com/watch?v=RBoV0E1Dpfc)
+
 ## February 11th, 2022 Hot Potato Bonus Stream
 * [Q&A: Could we build over the existing walkways to change the type of it?](../../transcriptions/yt-9E9oc-IQ45w.md) [https://www.youtube.com/watch?v=9E9oc-IQ45w](https://www.youtube.com/watch?v=9E9oc-IQ45w)
 

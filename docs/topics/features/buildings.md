@@ -26,6 +26,9 @@ date: Last Modified
 * [The HUB](../../topics/features/buildings/the-hub.md)
 * [Water Extractor](../../topics/features/buildings/water-extractor.md)
 
+## February 22nd, 2022 Livestream
+* [Q&A: Thoughts on being able to copy/paste Buildings with the settings also copied?](../../transcriptions/yt-RBoV0E1Dpfc.md) [https://www.youtube.com/watch?v=RBoV0E1Dpfc](https://www.youtube.com/watch?v=RBoV0E1Dpfc)
+
 ## December 14th, 2021 Livestream
 * [Q&A: Five-input machine that makes Coffee?](../../transcriptions/yt-sgGhUaNdoZk.md) [https://www.youtube.com/watch?v=sgGhUaNdoZk](https://www.youtube.com/watch?v=sgGhUaNdoZk)
 

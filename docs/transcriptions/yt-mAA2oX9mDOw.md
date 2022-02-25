@@ -8,7 +8,7 @@ topics:
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: Implement some kind of hire spaceship thingy for better exploration & faster travelling ?
 https://www.youtube.com/watch?v=mAA2oX9mDOw
-This question was possibly duplicated with a more recent answer: [March 30th, 2021 Livestream Q&A: Will there be planes and helicopters?](./yt-E-c_NfjMqUM.md) [https://www.youtube.com/watch?v=E-c_NfjMqUM](https://www.youtube.com/watch?v=E-c_NfjMqUM)
+This question was possibly duplicated with a more recent answer: [February 22nd, 2022 Livestream Q&A: Flying Vehicles?](./yt-RY7melOTU34.md) [https://www.youtube.com/watch?v=RY7melOTU34](https://www.youtube.com/watch?v=RY7melOTU34)
 
 
 ### Topics

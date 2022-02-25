@@ -8,11 +8,7 @@ topics:
 # [November 16th, 2021 Livestream](../2021-11-16.md)
 ## Q&A: Are you guys going to increase the build limit now that we can place more items?
 https://www.youtube.com/watch?v=TGuLDBd8Wao
-<details>
-<summary>This question may have been asked previously at least 1 other time, as recently as August 2021.</summary>
-
-* [August 31st, 2021 Livestream Q&A: Build limit in Update 5?](./yt-JuzKAS5cvOQ.md) [https://www.youtube.com/watch?v=JuzKAS5cvOQ](https://www.youtube.com/watch?v=JuzKAS5cvOQ)
-</details>
+This question was possibly duplicated with a more recent answer: [February 22nd, 2022 Livestream Q&A: Increase Object Limit, when?](./yt-YtQ3rlOUFW8.md) [https://www.youtube.com/watch?v=YtQ3rlOUFW8](https://www.youtube.com/watch?v=YtQ3rlOUFW8)
 
 
 ### Topics

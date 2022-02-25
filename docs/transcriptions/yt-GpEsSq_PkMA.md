@@ -8,6 +8,8 @@ topics:
 # [January 25th, 2022 Livestream](../2022-01-25.md)
 ## Q&A: FICS🐰EASTER?
 https://www.youtube.com/watch?v=GpEsSq_PkMA
+This question was possibly duplicated with a more recent answer: [February 22nd, 2022 Livestream Q&A: Is an Easter event possible?](./yt-LQgMkjce5dM.md) [https://www.youtube.com/watch?v=LQgMkjce5dM](https://www.youtube.com/watch?v=LQgMkjce5dM)
+
 
 ### Topics
 * [Satisfactory Updates > Seasonal Events](../topics/satisfactory-updates/seasonal-events.md)

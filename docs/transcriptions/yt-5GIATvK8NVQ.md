@@ -8,7 +8,7 @@ topics:
 # [October 12th, 2021 Livestream](../2021-10-12.md)
 ## Q&A: When does VR support come?
 https://www.youtube.com/watch?v=5GIATvK8NVQ
-This question was possibly duplicated with a more recent answer: [February 1st, 2022 Livestream Q&A: Will we see VR in the future?](./yt-fPaoCTlPlO0.md) [https://www.youtube.com/watch?v=fPaoCTlPlO0](https://www.youtube.com/watch?v=fPaoCTlPlO0)
+This question was possibly duplicated with a more recent answer: [February 22nd, 2022 Livestream Q&A: Is it possible Satisfactory comes for VR?](./yt--NP1VBDg3u4.md) [https://www.youtube.com/watch?v=-NP1VBDg3u4](https://www.youtube.com/watch?v=-NP1VBDg3u4)
 
 
 ### Topics

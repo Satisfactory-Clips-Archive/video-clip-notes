@@ -8,6 +8,8 @@ topics:
 # [September 21st, 2021 Livestream](../2021-09-21.md)
 ## Q&A: Are we going to get more Developer Highlights?
 https://www.youtube.com/watch?v=otFqKQW3HlI
+This question was possibly duplicated with a more recent answer: [February 22nd, 2022 Livestream Q&A: Do you plan to make more Developer Highlights?](./yt-OTGms3-QSKg.md) [https://www.youtube.com/watch?v=OTGms3-QSKg](https://www.youtube.com/watch?v=OTGms3-QSKg)
+
 
 ### Topics
 * [Coffee Stainers](../topics/coffee-stainers.md)

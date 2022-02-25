@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildables](../../../topics/features/buildables.md) > Roofs
 
+## February 22nd, 2022 Livestream
+* [Q&A: Do you have solution for corner Roofs in mind?](../../../transcriptions/yt-17_rShob9vA.md) [https://www.youtube.com/watch?v=17_rShob9vA](https://www.youtube.com/watch?v=17_rShob9vA)
+
 ## November 9th, 2021 Livestream
 * [Q&A: We have angled roof, but when will we get angled windows?](../../../transcriptions/yt-2mkoJ8-mt2k.md) [https://www.youtube.com/watch?v=2mkoJ8-mt2k](https://www.youtube.com/watch?v=2mkoJ8-mt2k)
 

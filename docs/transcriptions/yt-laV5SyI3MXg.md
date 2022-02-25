@@ -11,7 +11,7 @@ topics:
 # [May 4th, 2021 Livestream](../2021-05-04.md)
 ## Q&A: Pick up Lizard Doggo as a feature?
 https://www.youtube.com/watch?v=laV5SyI3MXg
-This question was possibly duplicated with a more recent answer: [September 28th, 2021 Livestream Q&A: Is it possible to make the Pioneer pick up the Doggo?](./yt-uAJX0gy44Ss.md) [https://www.youtube.com/watch?v=uAJX0gy44Ss](https://www.youtube.com/watch?v=uAJX0gy44Ss)
+This question was possibly duplicated with a more recent answer: [February 22nd, 2022 Livestream Q&A: When can you pick up the tamed Doggo?](./yt-VOpTrVlT95g.md) [https://www.youtube.com/watch?v=VOpTrVlT95g](https://www.youtube.com/watch?v=VOpTrVlT95g)
 
 
 ### Topics

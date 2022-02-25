@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Resources](../../../topics/environment/resources.md) > Mercer Sphere
 
+## February 22nd, 2022 Livestream
+* [Q&A: How can you have so many Story items in the game without having a solid plan about the story?](../../../transcriptions/yt-FXbl9z0HuG0.md) [https://www.youtube.com/watch?v=FXbl9z0HuG0](https://www.youtube.com/watch?v=FXbl9z0HuG0)
+
 ## November 9th, 2021 Livestream
 * [Q&A: Can you tell us the purpose of the Mercer Sphere and Somersloop?](../../../transcriptions/yt-nZsSk1ftKZk.md) [https://www.youtube.com/watch?v=nZsSk1ftKZk](https://www.youtube.com/watch?v=nZsSk1ftKZk)
 * [Q&A: Why is [Paternal Figure] so insistent on us collecting those when we can't use them?](../../../transcriptions/yt-9aIHAk5luq8.md) [https://www.youtube.com/watch?v=9aIHAk5luq8](https://www.youtube.com/watch?v=9aIHAk5luq8)

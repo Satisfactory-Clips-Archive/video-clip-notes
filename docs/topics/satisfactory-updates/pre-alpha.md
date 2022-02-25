@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > Pre-Alpha
 
+## February 22nd, 2022 Livestream
+* [Q&A: How much has changed since the Alpha?](../../transcriptions/yt-9A3GnzVaBW0.md) [https://www.youtube.com/watch?v=9A3GnzVaBW0](https://www.youtube.com/watch?v=9A3GnzVaBW0)
+
 ## August 31st, 2021 Livestream
 * [Snutt & Jace Talk: Idle Games](../../transcriptions/yt-RfOnl5Krlyo.md) [https://www.youtube.com/watch?v=RfOnl5Krlyo](https://www.youtube.com/watch?v=RfOnl5Krlyo)
 

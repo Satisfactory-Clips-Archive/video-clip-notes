@@ -8,7 +8,7 @@ topics:
 # [May 15th, 2020 Q&A](../2020-05-15.md)
 ## Q&A: Is there any plans for any sort of flying vehicle?
 https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=26&end=71
-This question was possibly duplicated with a more recent answer: [March 30th, 2021 Livestream Q&A: Will there be planes and helicopters?](./yt-E-c_NfjMqUM.md) [https://www.youtube.com/watch?v=E-c_NfjMqUM](https://www.youtube.com/watch?v=E-c_NfjMqUM)
+This question was possibly duplicated with a more recent answer: [February 22nd, 2022 Livestream Q&A: Flying Vehicles?](./yt-RY7melOTU34.md) [https://www.youtube.com/watch?v=RY7melOTU34](https://www.youtube.com/watch?v=RY7melOTU34)
 
 
 ### Topics

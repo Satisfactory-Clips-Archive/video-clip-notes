@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Final Fantasy
 
+## February 22nd, 2022 Livestream
+* [Community FYI: FICSIT Fantasy](../../transcriptions/yt-y2rvhr5gFVc.md) [https://www.youtube.com/watch?v=y2rvhr5gFVc](https://www.youtube.com/watch?v=y2rvhr5gFVc)
+* [Q&A: Any summary about Updates?](../../transcriptions/yt-OCWfwBCWXG0.md) [https://www.youtube.com/watch?v=OCWfwBCWXG0](https://www.youtube.com/watch?v=OCWfwBCWXG0)
+* [Q&A: Are you excited for Final Fantasy 6 remaster?](../../transcriptions/yt-cs9wm_ew6Ks.md) [https://www.youtube.com/watch?v=cs9wm_ew6Ks](https://www.youtube.com/watch?v=cs9wm_ew6Ks)
+
 ## February 11th, 2022 Hot Potato Bonus Stream
 * [Snutt & Jace Talk: Final Fantasy](../../transcriptions/yt--WmtadMElPQ.md) [https://www.youtube.com/watch?v=-WmtadMElPQ](https://www.youtube.com/watch?v=-WmtadMElPQ)
 

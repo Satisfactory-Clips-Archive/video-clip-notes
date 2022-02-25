@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Released > Satisfactory Alpha
 * [Alpha Weekend](../../../topics/satisfactory-updates/released/satisfactory-alpha/alpha-weekend.md)
 
+## February 22nd, 2022 Livestream
+* [Q&A: How much has changed since the Alpha?](../../../transcriptions/yt-9A3GnzVaBW0.md) [https://www.youtube.com/watch?v=9A3GnzVaBW0](https://www.youtube.com/watch?v=9A3GnzVaBW0)
+
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
 * Tobias, Snutt, and Jace Talk: Pre-pipes & pre-lifts build [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=3252&end=3323](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=3252&end=3323)
 

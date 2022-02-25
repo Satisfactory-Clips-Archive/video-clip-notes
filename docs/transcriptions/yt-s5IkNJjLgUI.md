@@ -8,11 +8,7 @@ topics:
 # [September 21st, 2021 Livestream](../2021-09-21.md)
 ## Q&A: Any plans to let us point factory Lights up?
 https://www.youtube.com/watch?v=s5IkNJjLgUI
-<details>
-<summary>This question may have been asked previously at least 1 other time, as recently as May 2021.</summary>
-
-* [May 28th, 2021 Dev Vlog Q&A: Are we going to be able to turn Lights upside down?](./yt-dyqOMITwLsY,500.75024999999994,597.456414.md) [https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=500&end=598](https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=500&end=598)
-</details>
+This question was possibly duplicated with a more recent answer: [February 22nd, 2022 Livestream Q&A: Angle Lights up?](./yt-Bh6ulAtlCKE.md) [https://www.youtube.com/watch?v=Bh6ulAtlCKE](https://www.youtube.com/watch?v=Bh6ulAtlCKE)
 
 
 ### Topics

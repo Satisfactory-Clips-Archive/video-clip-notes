@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Resources](../../../topics/environment/resources.md) > S.A.M. Ore
 
+## February 22nd, 2022 Livestream
+* [Q&A: How can you have so many Story items in the game without having a solid plan about the story?](../../../transcriptions/yt-FXbl9z0HuG0.md) [https://www.youtube.com/watch?v=FXbl9z0HuG0](https://www.youtube.com/watch?v=FXbl9z0HuG0)
+
 ## January 25th, 2022 Livestream
 * [Q&A: Have you told what S.A.M. Ore stands for?](../../../transcriptions/yt-bp9bhL_WoQk.md) [https://www.youtube.com/watch?v=bp9bhL_WoQk](https://www.youtube.com/watch?v=bp9bhL_WoQk)
 

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Technology](../../../topics/technology.md) > [Unreal Engine](../../../topics/technology/unreal-engine.md) > Object Limit
 
+## February 22nd, 2022 Livestream
+* [Q&A: Increase Object Limit, when?](../../../transcriptions/yt-YtQ3rlOUFW8.md) [https://www.youtube.com/watch?v=YtQ3rlOUFW8](https://www.youtube.com/watch?v=YtQ3rlOUFW8)
+
 ## January 25th, 2022 Livestream
 * [Q&A: How am I hitting the UObject limit with 230,000 objects in the game?](../../../transcriptions/yt-3hgzfsHVqeY.md) [https://www.youtube.com/watch?v=3hgzfsHVqeY](https://www.youtube.com/watch?v=3hgzfsHVqeY)
 * [Q&A: Do Pillars and other Buildable items affect UObject count?](../../../transcriptions/yt-WZBCdSdRISA.md) [https://www.youtube.com/watch?v=WZBCdSdRISA](https://www.youtube.com/watch?v=WZBCdSdRISA)

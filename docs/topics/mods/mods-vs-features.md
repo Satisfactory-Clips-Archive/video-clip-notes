@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Mods](../../topics/mods.md) > Mods vs. Features
 
+## February 22nd, 2022 Livestream
+* [Q&A: Gun turret on the Truck?](../../transcriptions/yt-WrKWDq64mMc.md) [https://www.youtube.com/watch?v=WrKWDq64mMc](https://www.youtube.com/watch?v=WrKWDq64mMc)
+
 ## December 7th, 2021 Livestream
 * [Community FYI: Mod community will do it](../../transcriptions/yt-b5BaSiJbLS0.md) [https://www.youtube.com/watch?v=b5BaSiJbLS0](https://www.youtube.com/watch?v=b5BaSiJbLS0)
 * [Q&A: Will you allow Modded Maps?](../../transcriptions/yt-TS6ZdUxbeKQ.md) [https://www.youtube.com/watch?v=TS6ZdUxbeKQ](https://www.youtube.com/watch?v=TS6ZdUxbeKQ)

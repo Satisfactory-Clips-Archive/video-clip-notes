@@ -8,7 +8,7 @@ topics:
 # [August 10th, 2021 Livestream](../2021-08-10.md)
 ## Q&A: Will we be able to equip more than one item?
 https://www.youtube.com/watch?v=qiA_5oti7s8
-This question was possibly duplicated with a more recent answer: [December 14th, 2021 Livestream Q&A: Why don't you want us to equip the Blade Runners and Jetpack at the same time?](./yt-HC83odaoVd0.md) [https://www.youtube.com/watch?v=HC83odaoVd0](https://www.youtube.com/watch?v=HC83odaoVd0)
+This question was possibly duplicated with a more recent answer: [February 22nd, 2022 Livestream Q&A: Will we get a second Body slot?](./yt-u4iuArSF2C8.md) [https://www.youtube.com/watch?v=u4iuArSF2C8](https://www.youtube.com/watch?v=u4iuArSF2C8)
 
 
 ### Topics

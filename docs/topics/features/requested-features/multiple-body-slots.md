@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Requested Features](../../../topics/features/requested-features.md) > Multiple Body Slots
 
+## February 22nd, 2022 Livestream
+* [Q&A: Will we get a second Body slot?](../../../transcriptions/yt-u4iuArSF2C8.md) [https://www.youtube.com/watch?v=u4iuArSF2C8](https://www.youtube.com/watch?v=u4iuArSF2C8)
+
 ## December 14th, 2021 Livestream
 * [Q&A: Why don't you want us to equip the Blade Runners and Jetpack at the same time?](../../../transcriptions/yt-HC83odaoVd0.md) [https://www.youtube.com/watch?v=HC83odaoVd0](https://www.youtube.com/watch?v=HC83odaoVd0)
 

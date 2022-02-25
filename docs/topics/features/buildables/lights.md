@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildables](../../../topics/features/buildables.md) > Lights
 
+## February 22nd, 2022 Livestream
+* [Q&A: Angle Lights up?](../../../transcriptions/yt-Bh6ulAtlCKE.md) [https://www.youtube.com/watch?v=Bh6ulAtlCKE](https://www.youtube.com/watch?v=Bh6ulAtlCKE)
+* [Q&A: Smaller ceiling factory Lights?](../../../transcriptions/yt-gTrZzs13bbA.md) [https://www.youtube.com/watch?v=gTrZzs13bbA](https://www.youtube.com/watch?v=gTrZzs13bbA)
+
 ## December 7th, 2021 Livestream
 * [Q&A: Plans for more Lighting?](../../../transcriptions/yt-309YsDgrJhg.md) [https://www.youtube.com/watch?v=309YsDgrJhg](https://www.youtube.com/watch?v=309YsDgrJhg)
 

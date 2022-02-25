@@ -8,7 +8,7 @@ topics:
 # [October 1st, 2020 Q&A](../2020-10-01.md)
 ## Q&A: Will there be any environmental influences later on, like climate change or heatwave storms?
 https://youtube.com/embed/rATcozDE25c?autoplay=1&start=390&end=430
-This question was possibly duplicated with a more recent answer: [December 14th, 2021 Livestream Q&A: Will we ever have a Weather System?](./yt-V82DdkFIwNE.md) [https://www.youtube.com/watch?v=V82DdkFIwNE](https://www.youtube.com/watch?v=V82DdkFIwNE)
+This question was possibly duplicated with a more recent answer: [February 22nd, 2022 Livestream Q&A: Weather effects?](./yt-YPpaGRqhc7k.md) [https://www.youtube.com/watch?v=YPpaGRqhc7k](https://www.youtube.com/watch?v=YPpaGRqhc7k)
 
 
 ### Topics

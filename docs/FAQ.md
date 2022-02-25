@@ -2,6 +2,381 @@
 title: "Frequently Asked Questions"
 date: Last Modified
 ---
+## [February 22nd, 2022 Livestream](./2022-02-22.md)
+### [Q&A: Is there a Roadmap posted anywhere?](./transcriptions/yt-1KCTKGZQ2Zg.md) [https://www.youtube.com/watch?v=1KCTKGZQ2Zg](https://www.youtube.com/watch?v=1KCTKGZQ2Zg)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> is there a road map posted anywhere not necessarily with release dates or targeting things uh but more larger if you have game features and content no there isn't because uh ultimately they're unreliable and if we can't put a reliable roadmap up there's no point in having a roadmap and when i say like unreliable like even features that you know if you asked us what features we were going to add this year last year that's already changed so it's like there's no point in us especially with features like we definitely wouldn't have want to put a road map up last year saying features x y and z are going to be added only for us now with more information as time has gone on we come to realize that we don't want to add those and then remove them from the road map and then feel pressure to have actually added those things because we said that we would add them so roadmap is really really not a good idea for us it doesn't really work for us the way that we work at all i understand that it can be useful for a community to have a vague idea of what's going to be happening but if we can't give you that accurately there's no point in giving it to you yes i feel for sure and you know when it comes to things that like make sense for you guys to know in advance such as like oh if you're gonna add a signalling system to trains then you know that like you're gonna need to like rework that in the future like that kind of information we try to like put out as much as soon as we can once we feel confident that we can put it out um but uh yeah maybe not a roadmap but a page that have a lot of brainstorm ideas okay so like we like we have something like that and the thing is first of all one there's the qa site which is almost that which is insanely big all right and ultimately like cool there's there's ideas there but it doesn't tell you anything about what we're gonna do we also have one internally that we use which is almost as big as the qa site which again we could we could put that in front of you but that's not gonna tell you anything about what we're gonna do that's just a bunch of ideas so it's it's not actually it's not actually useful yeah
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 3 other times, as recently as December 2021 and as early as December 2020.</summary>
+
+* December 7th, 2021 Livestream Q&A: Do you have a roadmap? [https://www.youtube.com/watch?v=zliKUqsPvEc](https://www.youtube.com/watch?v=zliKUqsPvEc)
+* [November 9th, 2021 Livestream Q&A: Do you have a roadmap, internally?](./transcriptions/yt-w3CozyZWjE4.md) [https://www.youtube.com/watch?v=w3CozyZWjE4](https://www.youtube.com/watch?v=w3CozyZWjE4)
+* [December 8th, 2020 Livestream Q&A: I would be interested to see your in-house roadmap](./transcriptions/yt-D0LY0PxkSJM.md) [https://www.youtube.com/watch?v=D0LY0PxkSJM](https://www.youtube.com/watch?v=D0LY0PxkSJM)
+</details>
+
+### [Q&A: Increase Object Limit, when?](./transcriptions/yt-YtQ3rlOUFW8.md) [https://www.youtube.com/watch?v=YtQ3rlOUFW8](https://www.youtube.com/watch?v=YtQ3rlOUFW8)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> increase object limit when so uh never we can actually say that for sure because the object limit isn't something that we've set this is not something that we can control either because it's something that is part of the engine um and you know the engine isn't really intended to be used the way we use it um it's it has to do with how the memory is managed uh in the engine and like you can sort of up that limit using config files and that's been possible ever since day one but uh the problem is that like there's no there's like you're kind of like losing out on safeguards when you do that so like a lot of weird things can happen memory wise if you start you know changing that number uh because that is a theoretical limit um so like there's been people reporting that like they've had their save files corrupted or you know like weird stuff happening factory logic not working the way they should um so it is always recommended that we don't change that we are however working on improving the game so we don't have to use as many game objects now a game object isn't the same as like an object that you place in the world it has a memory object specifically so like if you place a constructor for instance it used to be that a constructor was like maybe 16 different game objects and now it's like down to eight and i think there's plans to improve that as well and like maybe not specific for the constructor but like for a lot of different things we are constantly working on improving the memory footprint of the game and uh i believe recently we've been working a lot on like the environment to like kind of get down the memory footprint on that and like how we manage loading the environment and stuff like that um so um but we can't really change the the like the u object limit the unreal object limit uh that's set by the engine
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 2 other times, as recently as November 2021 and as early as August 2021.</summary>
+
+* [November 16th, 2021 Livestream Q&A: Are you guys going to increase the build limit now that we can place more items?](./transcriptions/yt-TGuLDBd8Wao.md) [https://www.youtube.com/watch?v=TGuLDBd8Wao](https://www.youtube.com/watch?v=TGuLDBd8Wao)
+* [August 31st, 2021 Livestream Q&A: Build limit in Update 5?](./transcriptions/yt-JuzKAS5cvOQ.md) [https://www.youtube.com/watch?v=JuzKAS5cvOQ](https://www.youtube.com/watch?v=JuzKAS5cvOQ)
+</details>
+
+### [Q&A: Steam Deck support?](./transcriptions/yt-j7fes9QN6ds.md) [https://www.youtube.com/watch?v=j7fes9QN6ds](https://www.youtube.com/watch?v=j7fes9QN6ds)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> did i miss something about the steam deck support i don't know we haven't said anything about this so when is the steam deck gonna come out like officially because one thing i can tell you guys right now is that we probably won't be able to verify the game um to be steam deck verified or whatever before the game hits before the steam deck is released february 25 so okay so it's on friday yeah so so the the main crux when it comes to the to have like a game being verified on steam deck is you have to have full controller support which obviously we don't have right now we have like somewhat controller support but we're not like fully control the support right and you also need to support the full uh rendering display of the steam deck so like render it in in the full whatever this resolution uh something something i can't remember where it is but uh which like the game can do but it doesn't run well when you do it that way and we feel like you know we need to sort of do special things 12 by 1280 by 800 that's a very specific one yeah but that's the one so uh we would need to be able to like render the game at that resolution at all times and that's not something that like out of the box we we're getting we can't we we're getting one resolution but i'm not sure if that's the full one and ui elements have to scale with that resolution and stuff like that and that's also like a lot of work needs to be put into that and that's not something we we're going to be able to do uh in three days so um but um yeah not with attitude but as to as for like whether or not we will support that in the future we don't know at this point because it's part of like the planning that we're doing so you know when we know we will let you guys know
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 2 other times, as recently as January 2022 and as early as November 2021.</summary>
+
+* [January 18th, 2022 Livestream Q&A: Steam Deck support?](./transcriptions/yt--Rz59jnZnKM.md) [https://www.youtube.com/watch?v=-Rz59jnZnKM](https://www.youtube.com/watch?v=-Rz59jnZnKM)
+* [November 2nd, 2021 Livestream Q&A: Any info on Steam Deck compatibility?](./transcriptions/yt-D_ZQVOw9O2I.md) [https://www.youtube.com/watch?v=D_ZQVOw9O2I](https://www.youtube.com/watch?v=D_ZQVOw9O2I)
+</details>
+
+### [Q&A: Will you add randomised worlds in the future?](./transcriptions/yt-EDjLXUUbXKg.md) [https://www.youtube.com/watch?v=EDjLXUUbXKg](https://www.youtube.com/watch?v=EDjLXUUbXKg)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> will you add randomized worlds in the future i mean who knows what the future will bring but i don't think it's necessarily planned i mean because we're not going to be doing i don't know if we're going to be doing any procedural generation of the world we haven't even finished the world that we're working on so the thought of like doing any kind of procedural generated world is uh beyond the scope of what we're working on at the moment but of course there could be randomized uh like nodes and stuff like that that's probably possible but again like it's not really what we're focusing on right now
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 19 other times, as recently as February 2022 and as early as June 2018.</summary>
+
+* [February 1st, 2022 Livestream Q&A: Is there a very long-term plan for random World generation?](./transcriptions/yt-0i2lAA8OUAs.md) [https://www.youtube.com/watch?v=0i2lAA8OUAs](https://www.youtube.com/watch?v=0i2lAA8OUAs)
+* [August 24th, 2021 Livestream Q&A: Would it be possible to have a Map Randomly Generated in Satisfactory?](./transcriptions/yt-1AOF1qFxGm0.md) [https://www.youtube.com/watch?v=1AOF1qFxGm0](https://www.youtube.com/watch?v=1AOF1qFxGm0)
+* [June 29th, 2021 Livestream Q&A: Any plans for random map generation?](./transcriptions/yt-Z9c7weKgaz0.md) [https://www.youtube.com/watch?v=Z9c7weKgaz0](https://www.youtube.com/watch?v=Z9c7weKgaz0)
+* [April 27th, 2021 Livestream Q&A: Is the map generation going to be randomised in the future?](./transcriptions/yt-XMhLiJd6N2U.md) [https://www.youtube.com/watch?v=XMhLiJd6N2U](https://www.youtube.com/watch?v=XMhLiJd6N2U)
+* [April 20th, 2021 Livestream Q&A: Any plans for a procedurally generated map?](./transcriptions/yt-7LUcnDsDjnU.md) [https://www.youtube.com/watch?v=7LUcnDsDjnU](https://www.youtube.com/watch?v=7LUcnDsDjnU)
+* [March 30th, 2021 Livestream Q&A: Procedural Map?](./transcriptions/yt-ee53aGXd5wg.md) [https://www.youtube.com/watch?v=ee53aGXd5wg](https://www.youtube.com/watch?v=ee53aGXd5wg)
+* [February 16th, 2021 Livestream Q&A: Possible to get randomly generated maps?](./transcriptions/yt-FkM6JZIZrqg.md) [https://www.youtube.com/watch?v=FkM6JZIZrqg](https://www.youtube.com/watch?v=FkM6JZIZrqg)
+* [February 9th, 2021 Livestream Q&A: Why not have self generated maps?](./transcriptions/yt-hKIm2mk5AhM.md) [https://www.youtube.com/watch?v=hKIm2mk5AhM](https://www.youtube.com/watch?v=hKIm2mk5AhM)
+* [November 24th, 2020 Livestream Q&A: Procedural generation of the World?](./transcriptions/yt-q6tkuGjM4zY.md) [https://www.youtube.com/watch?v=q6tkuGjM4zY](https://www.youtube.com/watch?v=q6tkuGjM4zY)
+* [November 3rd, 2020 Livestream Q&A: Map is amazing, but infinite generation?](./transcriptions/yt-2yoGAha7ju0.md) [https://www.youtube.com/watch?v=2yoGAha7ju0](https://www.youtube.com/watch?v=2yoGAha7ju0)
+* [September 15th, 2020 Livestream Q&A: Any plans for randomly generated worlds / Procedurally Generated maps?](./transcriptions/yt-eo_84m3ZYfQ.md) [https://www.youtube.com/watch?v=eo_84m3ZYfQ](https://www.youtube.com/watch?v=eo_84m3ZYfQ)
+* [September 8th, 2020 Livestream Q&A: Procedural Generation?](./transcriptions/yt-lcZJKlvLZuo.md) [https://www.youtube.com/watch?v=lcZJKlvLZuo](https://www.youtube.com/watch?v=lcZJKlvLZuo)
+* [August 25th, 2020 Livestream Q&A: How about procedural maps?](./transcriptions/yt-oYVWBcgkahY.md) [https://www.youtube.com/watch?v=oYVWBcgkahY](https://www.youtube.com/watch?v=oYVWBcgkahY)
+* August 25th, 2020 Livestream Q&A: How about procedural maps? [https://clips.twitch.tv/ProtectiveWonderfulFrogVoteYea](https://clips.twitch.tv/ProtectiveWonderfulFrogVoteYea)
+* August 11th, 2020 Livestream Q&A: Randomly Generated Maps: [https://clips.twitch.tv/OilyBloodyMangoFutureMan](https://clips.twitch.tv/OilyBloodyMangoFutureMan)
+* [March 9th, 2019 Livestream Q&A: The map is pre-made, not procedurally generated?](./transcriptions/yt-229Wl8AMQx8.md) [https://www.youtube.com/watch?v=229Wl8AMQx8](https://www.youtube.com/watch?v=229Wl8AMQx8)
+* [March 9th, 2019 Livestream Q&A: Another game mode with a procedurally generated world?](./transcriptions/yt-GZlK2fIlYVk.md) [https://www.youtube.com/watch?v=GZlK2fIlYVk](https://www.youtube.com/watch?v=GZlK2fIlYVk)
+* [February 20th, 2019 Livestream Q&A: Is the World procedurally generated?](./transcriptions/yt-CB9bSigNYH8,3150.343797,3165.212187.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3150&end=3166](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3150&end=3166)
+* [June 22nd, 2018 Q&A: Is the Map procedurally generated?](./transcriptions/yt-W1E6EWrAsII,316.92,345.76.md) [https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=316&end=346](https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=316&end=346)
+</details>
+
+### [Q&A: Weather effects?](./transcriptions/yt-YPpaGRqhc7k.md) [https://www.youtube.com/watch?v=YPpaGRqhc7k](https://www.youtube.com/watch?v=YPpaGRqhc7k)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> weather effects uh i don't know that is something we've it's something we talked about yeah we've yeah i think i think we still want to do it i think here's here's a little fun story about weather effects i think mark told me this i think weather effect is something that we've talked about since day one and we've always been like oh that would be so cool to add but it always gets pushed aside because like but it doesn't really add anything to the game you know as it is right now like it's it's a cool effect and like it would be cool if we could tie it into you know that like the how you're placing buildings and stuff like that interact with like your environment stuff like that but but it's it's a cool effect it doesn't add anything gameplay-wise right so it's constantly being pushed aside but we still haven't like said like no we won't do it you know yeah i'm sure you could ask you could ask people in the office and they'd be like yeah we would like it if we could snap our fingers i think i think we would have it i've seen rain yeah uh what was that sure let's keep it of that no weather effects please i want to be able to see what i'm building i mean you can have weather effects but you could still see what you're building right yeah it's not like the fog or anything is in the way as it is right now or the nighttime
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 18 other times, as recently as December 2021 and as early as August 2018.</summary>
+
+* [December 14th, 2021 Livestream Q&A: Will we ever have a Weather System?](./transcriptions/yt-V82DdkFIwNE.md) [https://www.youtube.com/watch?v=V82DdkFIwNE](https://www.youtube.com/watch?v=V82DdkFIwNE)
+* [December 7th, 2021 Livestream Q&A: Will there be any kind of Weather in the future?](./transcriptions/yt-lvjgk5seKGc.md) [https://www.youtube.com/watch?v=lvjgk5seKGc](https://www.youtube.com/watch?v=lvjgk5seKGc)
+* [October 12th, 2021 Livestream Q&A: Will there ever be rain and extreme Weather in Satisfactory?](./transcriptions/yt-ukLbdvyFk-E.md) [https://www.youtube.com/watch?v=ukLbdvyFk-E](https://www.youtube.com/watch?v=ukLbdvyFk-E)
+* [September 14th, 2021 Livestream Q&A: Have you considered adding Weather effects to the game?](./transcriptions/yt-sNZLo0Q6lBg.md) [https://www.youtube.com/watch?v=sNZLo0Q6lBg](https://www.youtube.com/watch?v=sNZLo0Q6lBg)
+* [July 6th, 2021 Livestream Q&A: Will you be adding Weather Systems?](./transcriptions/yt-WMMQ1b8eAvA.md) [https://www.youtube.com/watch?v=WMMQ1b8eAvA](https://www.youtube.com/watch?v=WMMQ1b8eAvA)
+* [April 20th, 2021 Livestream Q&A: Gonna be weather changes, like rain, snow, and sand storms?](./transcriptions/yt-wUZr64_l6R4.md) [https://www.youtube.com/watch?v=wUZr64_l6R4](https://www.youtube.com/watch?v=wUZr64_l6R4)
+* [March 9th, 2021 Livestream Q&A: Will there be Weather in the game?](./transcriptions/yt-m9oykKdGfUE.md) [https://www.youtube.com/watch?v=m9oykKdGfUE](https://www.youtube.com/watch?v=m9oykKdGfUE)
+* [February 16th, 2021 Livestream Q&A: Storm or natural disasters in the game?](./transcriptions/yt-LgYBDQkiTrk.md) [https://www.youtube.com/watch?v=LgYBDQkiTrk](https://www.youtube.com/watch?v=LgYBDQkiTrk)
+* [November 17th, 2020 Livestream Q&A: Any plans on Weather cycles?](./transcriptions/yt--QpGRQcZfe0.md) [https://www.youtube.com/watch?v=-QpGRQcZfe0](https://www.youtube.com/watch?v=-QpGRQcZfe0)
+* [November 10th, 2020 Livestream Q&A: Can we get Weather to change?](./transcriptions/yt-iq-K9FY-RT8.md) [https://www.youtube.com/watch?v=iq-K9FY-RT8](https://www.youtube.com/watch?v=iq-K9FY-RT8)
+* [November 10th, 2020 Livestream Q&A: Will we have Weather events?](./transcriptions/yt-MzWzCnmbkYI.md) [https://www.youtube.com/watch?v=MzWzCnmbkYI](https://www.youtube.com/watch?v=MzWzCnmbkYI)
+* [October 1st, 2020 Q&A: Will there be any environmental influences later on, like climate change or heatwave storms?](./transcriptions/yt-rATcozDE25c,390.9238666666667,429.5291.md) [https://youtube.com/embed/rATcozDE25c?autoplay=1&start=390&end=430](https://youtube.com/embed/rATcozDE25c?autoplay=1&start=390&end=430)
+* [September 22nd, 2020 Livestream Q&A: Weather in Satisfactory?](./transcriptions/yt-Sxvg881RjeA.md) [https://www.youtube.com/watch?v=Sxvg881RjeA](https://www.youtube.com/watch?v=Sxvg881RjeA)
+* [September 8th, 2020 Livestream Q&A: Do we intend to add rain/storms ?](./transcriptions/yt-3WDeVbpr30g.md) [https://www.youtube.com/watch?v=3WDeVbpr30g](https://www.youtube.com/watch?v=3WDeVbpr30g)
+* August 11th, 2020 Livestream Q&A: What about Weather systems? [https://clips.twitch.tv/SilkyFurryCheetahMVGame](https://clips.twitch.tv/SilkyFurryCheetahMVGame)
+* [May 15th, 2020 Q&A: Will there be weather changes?](./transcriptions/yt-NlIVwoRqjVk,374.5742,397.43036666666666.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=374&end=398](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=374&end=398)
+* [February 20th, 2019 Livestream Q&A: Weather confirmed?](./transcriptions/yt-CB9bSigNYH8,5234.485233,5238.267007.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5234&end=5239](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5234&end=5239)
+* [August 1st, 2018 Q&A: Is there Weather in the game?](./transcriptions/yt-iFAy1NZUOGU,58.6,60.36.md) [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=58&end=61](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=58&end=61)
+</details>
+
+### [Q&A: When will we see the Food Court](./transcriptions/yt-gvBWfMy9jBc.md) [https://www.youtube.com/watch?v=gvBWfMy9jBc](https://www.youtube.com/watch?v=gvBWfMy9jBc)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> when will we see the food court when you finish the game just finish the game
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 3 other times, as recently as August 2021 and as early as September 2020.</summary>
+
+* August 3rd, 2021 Livestream Q&A: When is Satisfactory Food Court open? [https://www.youtube.com/watch?v=ewVv8u7Misw](https://www.youtube.com/watch?v=ewVv8u7Misw)
+* [May 4th, 2021 Livestream Q&A: Visit the Food Court?](./transcriptions/yt-wpeE1y2iEMA.md) [https://www.youtube.com/watch?v=wpeE1y2iEMA](https://www.youtube.com/watch?v=wpeE1y2iEMA)
+* [September 1st, 2020 Livestream Q&A: Are we going to be able to get the Space Elevator Food Court?](./transcriptions/yt-YNogQuanQlc.md) [https://www.youtube.com/watch?v=YNogQuanQlc](https://www.youtube.com/watch?v=YNogQuanQlc)
+</details>
+
+### [Q&A: What about actual harbour & shipping?](./transcriptions/yt-rs49UPLHlGM.md) [https://www.youtube.com/watch?v=rs49UPLHlGM](https://www.youtube.com/watch?v=rs49UPLHlGM)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> what about actual harbor and shipping we don't really want to do uh aquatic stuff no because we um we sort of we sort of i think in a way we sort of rely on the water to be a boundary for the game and if we give you the opportunity to navigate that boundary like then it can't just be a boundary anymore like there needs to be we have to do something with it and that's not really in our plans so like it's not as it's not as simple as just adding a ship and a shipping dock uh to the game like we would have to do more to justify the existence of it and give it a place in the game so it's actually a lot that's a lot of work to do something like that and then if you have add like a shipping container or whatever then you know why is the wall like why is there no aquatic life like it doesn't make sense like so that just adds more work on top of that too
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 10 other times, as recently as February 2022 and as early as August 2020.</summary>
+
+* [February 8th, 2022 Livestream Q&A: Still wanna know when we're getting boats?](./transcriptions/yt-AKd0bKZW0ZE.md) [https://www.youtube.com/watch?v=AKd0bKZW0ZE](https://www.youtube.com/watch?v=AKd0bKZW0ZE)
+* [August 10th, 2021 Livestream Q&A: Boats?](./transcriptions/yt-Kkr3alKdef0.md) [https://www.youtube.com/watch?v=Kkr3alKdef0](https://www.youtube.com/watch?v=Kkr3alKdef0)
+* July 13th, 2021 Livestream Q&A: Ocean vessels? [https://www.youtube.com/watch?v=l7Pb9atvuRs](https://www.youtube.com/watch?v=l7Pb9atvuRs)
+* July 13th, 2021 Livestream Q&A: Any plans for boats? [https://www.youtube.com/watch?v=6a1lKPUaDaQ](https://www.youtube.com/watch?v=6a1lKPUaDaQ)
+* May 25th, 2021 Livestream Q&A: Adding boats, ports, or mass shipping around the coast? [https://www.youtube.com/watch?v=O_Ti41Q-JyE](https://www.youtube.com/watch?v=O_Ti41Q-JyE)
+* [May 4th, 2021 Livestream Q&A: Boats?](./transcriptions/yt-E1c7SsWhb0s.md) [https://www.youtube.com/watch?v=E1c7SsWhb0s](https://www.youtube.com/watch?v=E1c7SsWhb0s)
+* [April 27th, 2021 Livestream Q&A: Will Satisfactory ever have boats?](./transcriptions/yt-LVpl0f5g6ow.md) [https://www.youtube.com/watch?v=LVpl0f5g6ow](https://www.youtube.com/watch?v=LVpl0f5g6ow)
+* [September 22nd, 2020 Livestream Q&A: Boats will come?](./transcriptions/yt-33wha_duTqs.md) [https://www.youtube.com/watch?v=33wha_duTqs](https://www.youtube.com/watch?v=33wha_duTqs)
+* [August 25th, 2020 Livestream Q&A: If you add Trucks then add Boats?](./transcriptions/yt-A10cQzT6TpU.md) [https://www.youtube.com/watch?v=A10cQzT6TpU](https://www.youtube.com/watch?v=A10cQzT6TpU)
+* [August 25th, 2020 Livestream Q&A: We need Battleships?](./transcriptions/yt-VaEaP9IBe08.md) [https://www.youtube.com/watch?v=VaEaP9IBe08](https://www.youtube.com/watch?v=VaEaP9IBe08)
+</details>
+
+### [Q&A: Angle Lights up?](./transcriptions/yt-Bh6ulAtlCKE.md) [https://www.youtube.com/watch?v=Bh6ulAtlCKE](https://www.youtube.com/watch?v=Bh6ulAtlCKE)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> angle lights up yo hit that up on the qa side that i we talked to do you guys remember the video i mean with ben uh we talked about lights so that's something that he wants to do he just hasn't had time to do it maybe if it's more upload on the qa side maybe we'll be like oh ben go do that
+>
+> [Music]
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 2 other times, as recently as September 2021 and as early as May 2021.</summary>
+
+* [September 21st, 2021 Livestream Q&A: Any plans to let us point factory Lights up?](./transcriptions/yt-s5IkNJjLgUI.md) [https://www.youtube.com/watch?v=s5IkNJjLgUI](https://www.youtube.com/watch?v=s5IkNJjLgUI)
+* [May 28th, 2021 Dev Vlog Q&A: Are we going to be able to turn Lights upside down?](./transcriptions/yt-dyqOMITwLsY,500.75024999999994,597.456414.md) [https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=500&end=598](https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=500&end=598)
+</details>
+
+### [Q&A: Can we have more than one player in a Vehicle?](./transcriptions/yt-gcECX3h__YQ.md) [https://www.youtube.com/watch?v=gcECX3h__YQ](https://www.youtube.com/watch?v=gcECX3h__YQ)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> the obligatory question of whether or not we can have more than one player in a vehicle because the explorer has multiple seats so we could back in the day before the game came out and then someone decided that we shouldn't have that capabilities and then disabled it and then now we are of the belief that we don't want to do that anymore but if you ask anyone why no one knows so that's the status that's a really good summary of that actually yeah that's that's literally it it's like there was someone who told me like uh yeah that's right there was someone who's told me this story of like this person who would like when he's gonna cut his stakes he would always cut the tips of the steaks off and then cook it it's just like a weird thing and someone someone asked him like why do you do that why do you cut the tips off he's like i don't know like my mom always did it like oh okay so go to the mom and be like yo why do you always cut the tips of the steak she's like oh i don't really know my mom used to do it but okay so was it like the grandma i was like why i cut the tips off the steak so like because they didn't fit in the pan so they had to shred it so it's like i feel like this is the same case with the vehicles where it's like we've just inherited this belief we should just i i don't know i this you know what that might not be true mark might have good reasons but whatever we sort of figured out a lot of people are kind of just like i don't know it's i don't know and but no one wants to do it either but no one really knows why that's the thing right i don't know if we know whether or not it's like like a design decision or it was a technical decision or do we even know that i don't know because that is a really good like uh parable as to the situation because like you can no you can't ride in trains together but you can't can you can you have like if you have two trains on on like two locomotives on one train section can you have two people sit in each like train car oh yeah what happens there because like if it's a technical reason like why i mean it works in the train doesn't it kind of or maybe it's not because it's the same thing i don't know yeah i mean i don't know if it's a technical reason because we used to have it yeah i mean i mean but i mean but there could have still been a technical reason to not have it still like just because it technically worked back and it doesn't mean it works reliably for all reasons always but but you mean at this point it is a thing i don't know like we just have to right that's the answer we just someone's grandma knows the reason why that's what we your grandma we need to find out why there's only there's only one grandma on the planet he'll know the reason you could ask her quick before time runs out um i saw a question before that i wanted to answer but it's gone now so i guess we want to do that um sounds technical to me yeah for sure
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 10 other times, as recently as January 2022 and as early as August 2020.</summary>
+
+* [January 18th, 2022 Livestream Q&A: Jace, why can't we have two people in the Vehicles?](./transcriptions/yt-HcTmSD0xDhA.md) [https://www.youtube.com/watch?v=HcTmSD0xDhA](https://www.youtube.com/watch?v=HcTmSD0xDhA)
+* [November 9th, 2021 Livestream Q&A: Two Pioneers in one car?](./transcriptions/yt-Btds0y7oaoE.md) [https://www.youtube.com/watch?v=Btds0y7oaoE](https://www.youtube.com/watch?v=Btds0y7oaoE)
+* [September 14th, 2021 Livestream Q&A: Why can we not put a second person in the Buggy?](./transcriptions/yt-7k7lIdyQBvQ.md) [https://www.youtube.com/watch?v=7k7lIdyQBvQ](https://www.youtube.com/watch?v=7k7lIdyQBvQ)
+* [July 20th, 2021 Livestream Q&A: Any plans for Vehicles to hold more than one player?](./transcriptions/yt-49PWrYsgFtk.md) [https://www.youtube.com/watch?v=49PWrYsgFtk](https://www.youtube.com/watch?v=49PWrYsgFtk)
+* [July 13th, 2021 Livestream Q&A: Two-people Explorer, please](./transcriptions/yt-hnYfzcUnUQE.md) [https://www.youtube.com/watch?v=hnYfzcUnUQE](https://www.youtube.com/watch?v=hnYfzcUnUQE)
+* [May 18th, 2021 Livestream Q&A: Will there ever be two players per car?](./transcriptions/yt-MGcq63fWfYY.md) [https://www.youtube.com/watch?v=MGcq63fWfYY](https://www.youtube.com/watch?v=MGcq63fWfYY)
+* [May 11th, 2021 Livestream Q&A: What about allowing a second person in the buggy?](./transcriptions/yt-RENRn0EnoZE.md) [https://www.youtube.com/watch?v=RENRn0EnoZE](https://www.youtube.com/watch?v=RENRn0EnoZE)
+* [April 27th, 2021 Livestream Q&A: Two-person buggy?](./transcriptions/yt-IUQeH1sTCv0.md) [https://www.youtube.com/watch?v=IUQeH1sTCv0](https://www.youtube.com/watch?v=IUQeH1sTCv0)
+* August 11th, 2020 Livestream Q&A: Two-seated vehicles (Part 1) [https://clips.twitch.tv/OilySourBeaverAMPEnergy](https://clips.twitch.tv/OilySourBeaverAMPEnergy)
+* August 11th, 2020 Livestream Q&A: Two-seated vehicles (Part 2) [https://clips.twitch.tv/CooperativeFurtiveWasabiOhMyDog](https://clips.twitch.tv/CooperativeFurtiveWasabiOhMyDog)
+</details>
+
+### [Q&A: Flying Vehicles?](./transcriptions/yt-RY7melOTU34.md) [https://www.youtube.com/watch?v=RY7melOTU34](https://www.youtube.com/watch?v=RY7melOTU34)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> what is your flying vehicle's question no one has asked that yet no to answer your question wait what was that flying vehicles people that's that yeah has anyone asked the obligatory flying vehicles question yet the answer to that question is no no one ever uh
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 15 other times, as recently as March 2021 and as early as March 2019.</summary>
+
+* [March 30th, 2021 Livestream Q&A: Will there be planes and helicopters?](./transcriptions/yt-E-c_NfjMqUM.md) [https://www.youtube.com/watch?v=E-c_NfjMqUM](https://www.youtube.com/watch?v=E-c_NfjMqUM)
+* [February 9th, 2021 Livestream Q&A: Is flyable transport an option?](./transcriptions/yt-kd3UMt4pESk.md) [https://www.youtube.com/watch?v=kd3UMt4pESk](https://www.youtube.com/watch?v=kd3UMt4pESk)
+* [January 26th, 2021 Livestream Q&A: Can we expect aircraft any time?](./transcriptions/yt-XMIUlTU9xcU.md) [https://www.youtube.com/watch?v=XMIUlTU9xcU](https://www.youtube.com/watch?v=XMIUlTU9xcU)
+* [December 17th, 2020 Q&A: Are there any other plans for vehicles? Amphibious, air?](./transcriptions/yt--JXPsTlJIiI,615.0477666666667,664.8642.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=615&end=665](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=615&end=665)
+* [November 3rd, 2020 Livestream Q&A: Will we get Flying Vehicles?](./transcriptions/yt-CkWtF0M2ddY.md) [https://www.youtube.com/watch?v=CkWtF0M2ddY](https://www.youtube.com/watch?v=CkWtF0M2ddY)
+* [September 29th, 2020 Livestream Q&A: Will we see air vehicles some time in the future?](./transcriptions/yt-qJ56jBYTtAc.md) [https://www.youtube.com/watch?v=qJ56jBYTtAc](https://www.youtube.com/watch?v=qJ56jBYTtAc)
+* [September 8th, 2020 Livestream Q&A: What're your guys thoughts on transport beyond Jetpacks ?](./transcriptions/yt--sa8wjg4lYk.md) [https://www.youtube.com/watch?v=-sa8wjg4lYk](https://www.youtube.com/watch?v=-sa8wjg4lYk)
+* [September 8th, 2020 Livestream Q&A: The game needs small Flying Vehicles to travel long distance?](./transcriptions/yt-i0_bbpQ_91I.md) [https://www.youtube.com/watch?v=i0_bbpQ_91I](https://www.youtube.com/watch?v=i0_bbpQ_91I)
+* [August 25th, 2020 Livestream Q&A: Implement some kind of hire spaceship thingy for better exploration & faster travelling ?](./transcriptions/yt-mAA2oX9mDOw.md) [https://www.youtube.com/watch?v=mAA2oX9mDOw](https://www.youtube.com/watch?v=mAA2oX9mDOw)
+* August 25th, 2020 Livestream Q&A: How about a drone to fly around? [https://www.youtube.com/watch?v=1msTsQksmbI](https://www.youtube.com/watch?v=1msTsQksmbI)
+* [August 25th, 2020 Livestream Q&A: Add Planes as Vehicles and we can automate it to carry our resources?](./transcriptions/yt-Ds9NIPna9_4.md) [https://www.youtube.com/watch?v=Ds9NIPna9_4](https://www.youtube.com/watch?v=Ds9NIPna9_4)
+* [May 15th, 2020 Q&A: Is there any plans for any sort of flying vehicle?](./transcriptions/yt-NlIVwoRqjVk,26.760066666666667,70.83743333333334.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=26&end=71](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=26&end=71)
+* [December 19th, 2019 Livestream Q&A: Give us a flight vehicle?](./transcriptions/yt-Fb6JnI4Bb4I.md) [https://www.youtube.com/watch?v=Fb6JnI4Bb4I](https://www.youtube.com/watch?v=Fb6JnI4Bb4I)
+* [December 19th, 2019 Livestream Q&A: Have you considerd Flying Drones?](./transcriptions/yt-KYox3m1mePU.md) [https://www.youtube.com/watch?v=KYox3m1mePU](https://www.youtube.com/watch?v=KYox3m1mePU)
+* [March 9th, 2019 Livestream Q&A: Flying vehicles for overhead view of your factory?](./transcriptions/yt-njN-07Q5-8s.md) [https://www.youtube.com/watch?v=njN-07Q5-8s](https://www.youtube.com/watch?v=njN-07Q5-8s)
+</details>
+
+### [Q&A: Is it possible Satisfactory comes for VR?](./transcriptions/yt--NP1VBDg3u4.md) [https://www.youtube.com/watch?v=-NP1VBDg3u4](https://www.youtube.com/watch?v=-NP1VBDg3u4)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> is it possible the satisfaction comes from vr uh i mean possible is a very broad term here we don't have any plans for vr um you know maybe in the future someone does it maybe we won't we won't do it but like maybe you know some other studio makes it for us or something i don't know but we have no plans for vr at least at the moment um and maybe there's a mod that comes out for i don't know but uh yeah we don't have yep
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 13 other times, as recently as February 2022 and as early as August 2018.</summary>
+
+* [February 1st, 2022 Livestream Q&A: Will we see VR in the future?](./transcriptions/yt-fPaoCTlPlO0.md) [https://www.youtube.com/watch?v=fPaoCTlPlO0](https://www.youtube.com/watch?v=fPaoCTlPlO0)
+* [November 23rd, 2021 Livestream Q&A: VR Support?](./transcriptions/yt-iVDRQg_aWpU,6314.234365,6351.55304.md) [https://youtube.com/clip/UgkxH_brYKMFYwxTeHs6_FQOtO4la68AvjEE](https://youtube.com/clip/UgkxH_brYKMFYwxTeHs6_FQOtO4la68AvjEE)
+* October 26th, 2021 Update 5 Launch Stream and Patch Notes Video Q&A: VR? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=1803&end=1874](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=1803&end=1874)
+* [October 12th, 2021 Livestream Q&A: When does VR support come?](./transcriptions/yt-5GIATvK8NVQ.md) [https://www.youtube.com/watch?v=5GIATvK8NVQ](https://www.youtube.com/watch?v=5GIATvK8NVQ)
+* [June 22nd, 2021 Livestream Q&A: Are there any plans for VR?](./transcriptions/yt-aSo4zUTOCwE.md) [https://www.youtube.com/watch?v=aSo4zUTOCwE](https://www.youtube.com/watch?v=aSo4zUTOCwE)
+* [April 27th, 2021 Livestream Q&A: Any chance for a VR port?](./transcriptions/yt-bPmfShefJi4.md) [https://www.youtube.com/watch?v=bPmfShefJi4](https://www.youtube.com/watch?v=bPmfShefJi4)
+* [April 20th, 2021 Livestream Q&A: VR, when?](./transcriptions/yt-njMrANjFNLc.md) [https://www.youtube.com/watch?v=njMrANjFNLc](https://www.youtube.com/watch?v=njMrANjFNLc)
+* [March 9th, 2021 Livestream Q&A: VR Support at any time?](./transcriptions/yt-TKv8QdGLBW0.md) [https://www.youtube.com/watch?v=TKv8QdGLBW0](https://www.youtube.com/watch?v=TKv8QdGLBW0)
+* [January 26th, 2021 Livestream Q&A: VR support would be heavenly?](./transcriptions/yt-0Ld1fbTEOvM.md) [https://www.youtube.com/watch?v=0Ld1fbTEOvM](https://www.youtube.com/watch?v=0Ld1fbTEOvM)
+* [November 3rd, 2020 Livestream Q&A: VR Support?](./transcriptions/yt-eJz8dJImPfQ.md) [https://www.youtube.com/watch?v=eJz8dJImPfQ](https://www.youtube.com/watch?v=eJz8dJImPfQ)
+* [September 8th, 2020 Livestream Q&A: Ever consider making a VR version of Satisfactory?](./transcriptions/yt-3s-PKymQ9QU.md) [https://www.youtube.com/watch?v=3s-PKymQ9QU](https://www.youtube.com/watch?v=3s-PKymQ9QU)
+* [February 6th, 2019 Livestream Q&A: Will there be VR support?](./transcriptions/yt-Dtm6xIj-wM4,2442.266666666667,2534.034208.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2442&end=2535](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2442&end=2535)
+* [August 1st, 2018 Q&A: What about VR support?](./transcriptions/yt-iFAy1NZUOGU,66.08,68.24.md) [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=66&end=69](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=66&end=69)
+</details>
+
+### [Q&A: When can you pick up the tamed Doggo?](./transcriptions/yt-VOpTrVlT95g.md) [https://www.youtube.com/watch?v=VOpTrVlT95g](https://www.youtube.com/watch?v=VOpTrVlT95g)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> when can you pick up an the tamed doggo we need to add like special gloves animal handling gloves
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 3 other times, as recently as September 2021 and as early as May 2021.</summary>
+
+* [September 28th, 2021 Livestream Q&A: Is it possible to make the Pioneer pick up the Doggo?](./transcriptions/yt-uAJX0gy44Ss.md) [https://www.youtube.com/watch?v=uAJX0gy44Ss](https://www.youtube.com/watch?v=uAJX0gy44Ss)
+* [August 10th, 2021 Livestream Q&A: Any ways to transport Doggos long distance in the future?](./transcriptions/yt-zN9bnZKIqbo.md) [https://www.youtube.com/watch?v=zN9bnZKIqbo](https://www.youtube.com/watch?v=zN9bnZKIqbo)
+* [May 4th, 2021 Livestream Q&A: Pick up Lizard Doggo as a feature?](./transcriptions/yt-laV5SyI3MXg.md) [https://www.youtube.com/watch?v=laV5SyI3MXg](https://www.youtube.com/watch?v=laV5SyI3MXg)
+</details>
+
+### [Q&A: Are you going to remove the Hypertube cannon?](./transcriptions/yt-R_3Ck6l2LeQ.md) [https://www.youtube.com/watch?v=R_3Ck6l2LeQ](https://www.youtube.com/watch?v=R_3Ck6l2LeQ)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> i've had some people ask if we're going to remove like the hypertube cannon and stuff and the answer that is no we're not going to remove it we haven't yet at least there's been no plans
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 9 other times, as recently as September 2021 and as early as August 2020.</summary>
+
+* [September 28th, 2021 Livestream Q&A: Were Hyper Tubes ever meant to work that way or was it an accident?](./transcriptions/yt-oT-Qz36u1co.md) [https://www.youtube.com/watch?v=oT-Qz36u1co](https://www.youtube.com/watch?v=oT-Qz36u1co)
+* [September 14th, 2021 Livestream Q&A: Do you guys like how Hyper Tubes turned out with cannons?](./transcriptions/yt-LG0wAne1mR8.md) [https://www.youtube.com/watch?v=LG0wAne1mR8](https://www.youtube.com/watch?v=LG0wAne1mR8)
+* [June 29th, 2021 Livestream Q&A: What's your opinion on Hyper Tube accelerators?](./transcriptions/yt-HmJNJUmQyGQ.md) [https://www.youtube.com/watch?v=HmJNJUmQyGQ](https://www.youtube.com/watch?v=HmJNJUmQyGQ)
+* [June 22nd, 2021 Livestream Q&A: Would you add a Hyper Tube launcher, or do you want to keep the exploity method people use now?](./transcriptions/yt-vGet8HcuE7E.md) [https://www.youtube.com/watch?v=vGet8HcuE7E](https://www.youtube.com/watch?v=vGet8HcuE7E)
+* [June 15th, 2021 Livestream Q&A: Have you considered making actual Hyper Tube boosters?](./transcriptions/yt-Oz3Y-caTPTY.md) [https://www.youtube.com/watch?v=Oz3Y-caTPTY](https://www.youtube.com/watch?v=Oz3Y-caTPTY)
+* [March 9th, 2021 Livestream Q&A: Is the cannon an intended behaviour for Hyper Tubes or a bug?](./transcriptions/yt-9oX64bJ65Cg.md) [https://www.youtube.com/watch?v=9oX64bJ65Cg](https://www.youtube.com/watch?v=9oX64bJ65Cg)
+* [December 15th, 2020 Livestream Q&A: Will Hyper Tube cannons be patched out eventually & officially supported as a feature?](./transcriptions/yt-bvtKzwJA4pw.md) [https://www.youtube.com/watch?v=bvtKzwJA4pw](https://www.youtube.com/watch?v=bvtKzwJA4pw)
+* [September 8th, 2020 Livestream Q&A: Hyper Tube Cannon future ?](./transcriptions/yt-X3RdhRuPf04.md) [https://www.youtube.com/watch?v=X3RdhRuPf04](https://www.youtube.com/watch?v=X3RdhRuPf04)
+* August 11th, 2020 Livestream Q&A: Hypertube Cannons - Bug or Feature? [https://clips.twitch.tv/OilyPatientOtterTBTacoLeft](https://clips.twitch.tv/OilyPatientOtterTBTacoLeft)
+</details>
+
+### [Q&A: Teleporters?](./transcriptions/yt-UdJROx6rvdg.md) [https://www.youtube.com/watch?v=UdJROx6rvdg](https://www.youtube.com/watch?v=UdJROx6rvdg)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> teleporters which can teleport you but requires insane amount of energy to use and use some form of legume element as a resource wouldn't be funny if every time you use the teleporter your factory work it comes at a cost yeah balancing very nice yeah i mean i mean request on the qa side teleporter would be pretty sweet i guess
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 6 other times, as recently as January 2022 and as early as April 2021.</summary>
+
+* [January 18th, 2022 Livestream Q&A: Will we see Teleportation in the future of Satisfactory?](./transcriptions/yt-tg6iemNxFAM.md) [https://www.youtube.com/watch?v=tg6iemNxFAM](https://www.youtube.com/watch?v=tg6iemNxFAM)
+* [August 24th, 2021 Livestream Q&A: Will there ever be teleportation?](./transcriptions/yt-XeUtzOBJhrA.md) [https://www.youtube.com/watch?v=XeUtzOBJhrA](https://www.youtube.com/watch?v=XeUtzOBJhrA)
+* [June 8th, 2021 Livestream Q&A: Please, teleporters?](./transcriptions/yt-dNPT8HQ3qRk.md) [https://www.youtube.com/watch?v=dNPT8HQ3qRk](https://www.youtube.com/watch?v=dNPT8HQ3qRk)
+* [May 18th, 2021 Livestream Q&A: Are there any plans for teleportation?](./transcriptions/yt-RyU3sk4C5d8.md) [https://www.youtube.com/watch?v=RyU3sk4C5d8](https://www.youtube.com/watch?v=RyU3sk4C5d8)
+* [May 11th, 2021 Livestream Q&A: Teleport System?](./transcriptions/yt-aZHVhI9GZk8.md) [https://www.youtube.com/watch?v=aZHVhI9GZk8](https://www.youtube.com/watch?v=aZHVhI9GZk8)
+* [April 27th, 2021 Livestream Q&A: How about a teleporter for people to hand-feed the system?](./transcriptions/yt-m95zf9b3oo0.md) [https://www.youtube.com/watch?v=m95zf9b3oo0](https://www.youtube.com/watch?v=m95zf9b3oo0)
+</details>
+
+### [Q&A: Will we get a second Body slot?](./transcriptions/yt-u4iuArSF2C8.md) [https://www.youtube.com/watch?v=u4iuArSF2C8](https://www.youtube.com/watch?v=u4iuArSF2C8)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> uh will we get a second body slot we know a lot of people want like a second body slot or something to do with that so it's something that we have looked into maybe we will maybe we won't
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 17 other times, as recently as December 2021 and as early as May 2020.</summary>
+
+* [December 14th, 2021 Livestream Q&A: Why don't you want us to equip the Blade Runners and Jetpack at the same time?](./transcriptions/yt-HC83odaoVd0.md) [https://www.youtube.com/watch?v=HC83odaoVd0](https://www.youtube.com/watch?v=HC83odaoVd0)
+* [November 9th, 2021 Livestream Q&A: Two body slots, maybe?](./transcriptions/yt-1r0kKFc_mW4.md) [https://www.youtube.com/watch?v=1r0kKFc_mW4](https://www.youtube.com/watch?v=1r0kKFc_mW4)
+* [October 5th, 2021 Livestream Q&A: Equipment Slots rework still in progress?](./transcriptions/yt-NZGJ3mLsbNk.md) [https://www.youtube.com/watch?v=NZGJ3mLsbNk](https://www.youtube.com/watch?v=NZGJ3mLsbNk)
+* September 14th, 2021 Livestream Q&A: Tell me something good about Dual Body Slots? [https://www.youtube.com/watch?v=47I5UvpAn98](https://www.youtube.com/watch?v=47I5UvpAn98)
+* [August 10th, 2021 Livestream Q&A: Will we be able to equip more than one item?](./transcriptions/yt-qiA_5oti7s8.md) [https://www.youtube.com/watch?v=qiA_5oti7s8](https://www.youtube.com/watch?v=qiA_5oti7s8)
+* [July 13th, 2021 Livestream Q&A: Any chance we can get another Body Slot?](./transcriptions/yt-UuhHtf0yr64.md) [https://www.youtube.com/watch?v=UuhHtf0yr64](https://www.youtube.com/watch?v=UuhHtf0yr64)
+* [May 4th, 2021 Livestream Q&A: Will there be a new body slot?](./transcriptions/yt-80Ajx6Ml2Aw.md) [https://www.youtube.com/watch?v=80Ajx6Ml2Aw](https://www.youtube.com/watch?v=80Ajx6Ml2Aw)
+* [April 20th, 2021 Livestream Q&A: Body Slots?](./transcriptions/yt-G6TdxrJuIaA.md) [https://www.youtube.com/watch?v=G6TdxrJuIaA](https://www.youtube.com/watch?v=G6TdxrJuIaA)
+* [April 6th, 2021 Livestream Q&A: Multiple Body slots, when?](./transcriptions/yt-Xa03UsMWsjo.md) [https://www.youtube.com/watch?v=Xa03UsMWsjo](https://www.youtube.com/watch?v=Xa03UsMWsjo)
+* [March 30th, 2021 Livestream Q&A: Add body slots so we can use Blade Runners and Jetpacks at the same time?](./transcriptions/yt-XkDGnJwkY18.md) [https://www.youtube.com/watch?v=XkDGnJwkY18](https://www.youtube.com/watch?v=XkDGnJwkY18)
+* [March 23rd, 2021 Livestream Q&A: Do you ever think you'll give us more than one Body Slot?](./transcriptions/yt-b8xgQlBZ_yc.md) [https://www.youtube.com/watch?v=b8xgQlBZ_yc](https://www.youtube.com/watch?v=b8xgQlBZ_yc)
+* [March 9th, 2021 Livestream Q&A: Will we ever get a second body slot?](./transcriptions/yt-B2LmiIWJu8o.md) [https://www.youtube.com/watch?v=B2LmiIWJu8o](https://www.youtube.com/watch?v=B2LmiIWJu8o)
+* [March 2nd, 2021 Livestream Q&A: When are we going to be able to use more than one Equipment at a time?](./transcriptions/yt-w6VfAW7WD1w.md) [https://www.youtube.com/watch?v=w6VfAW7WD1w](https://www.youtube.com/watch?v=w6VfAW7WD1w)
+* [February 2nd, 2021 Livestream Q&A: Will we get two character slots for Jetpacks and Blade Runners](./transcriptions/yt-YKIN_NCGDpo.md) [https://www.youtube.com/watch?v=YKIN_NCGDpo](https://www.youtube.com/watch?v=YKIN_NCGDpo)
+* [October 6th, 2020 Livestream Q&A: What's the max amount of body slots?](./transcriptions/yt-aPWXjH-Xf1o.md) [https://www.youtube.com/watch?v=aPWXjH-Xf1o](https://www.youtube.com/watch?v=aPWXjH-Xf1o)
+* [September 15th, 2020 Livestream Q&A: Can I wear Boots, Jetpack and a Gas Mask?](./transcriptions/yt-Gt1ATsmBu6k.md) [https://www.youtube.com/watch?v=Gt1ATsmBu6k](https://www.youtube.com/watch?v=Gt1ATsmBu6k)
+* [May 15th, 2020 Q&A: Will we get more than one body slot?](./transcriptions/yt-NlIVwoRqjVk,733.1324,779.1784.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=733&end=780](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=733&end=780)
+</details>
+
 ## [February 15th, 2022 Livestream](./2022-02-15.md)
 ### [Q&A: Will Smart Mergers ever be a thing?](./transcriptions/yt-xzmIE-SlPp4.md) [https://www.youtube.com/watch?v=xzmIE-SlPp4](https://www.youtube.com/watch?v=xzmIE-SlPp4)
 
@@ -372,31 +747,6 @@ date: Last Modified
 * [February 6th, 2019 Livestream Q&A: Will there be any cosmetics available?](./transcriptions/yt-Dtm6xIj-wM4,3923.903388,3977.117038.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3923&end=3978](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3923&end=3978)
 </details>
 
-### [Q&A: Still wanna know when we're getting boats?](./transcriptions/yt-AKd0bKZW0ZE.md) [https://www.youtube.com/watch?v=AKd0bKZW0ZE](https://www.youtube.com/watch?v=AKd0bKZW0ZE)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> still want to know when we're getting boats you're not uh i think you're i think you're not getting boats but you can always go to the qa site and leave it as a suggestion let the team know that you want it and then you never know was maybe your game was that a thing maybe we should add it to the video from last week boats i mean it's not something that's like it's honestly not something requested that often no so
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 9 other times, as recently as August 2021 and as early as August 2020.</summary>
-
-* [August 10th, 2021 Livestream Q&A: Boats?](./transcriptions/yt-Kkr3alKdef0.md) [https://www.youtube.com/watch?v=Kkr3alKdef0](https://www.youtube.com/watch?v=Kkr3alKdef0)
-* July 13th, 2021 Livestream Q&A: Ocean vessels? [https://www.youtube.com/watch?v=l7Pb9atvuRs](https://www.youtube.com/watch?v=l7Pb9atvuRs)
-* July 13th, 2021 Livestream Q&A: Any plans for boats? [https://www.youtube.com/watch?v=6a1lKPUaDaQ](https://www.youtube.com/watch?v=6a1lKPUaDaQ)
-* May 25th, 2021 Livestream Q&A: Adding boats, ports, or mass shipping around the coast? [https://www.youtube.com/watch?v=O_Ti41Q-JyE](https://www.youtube.com/watch?v=O_Ti41Q-JyE)
-* [May 4th, 2021 Livestream Q&A: Boats?](./transcriptions/yt-E1c7SsWhb0s.md) [https://www.youtube.com/watch?v=E1c7SsWhb0s](https://www.youtube.com/watch?v=E1c7SsWhb0s)
-* [April 27th, 2021 Livestream Q&A: Will Satisfactory ever have boats?](./transcriptions/yt-LVpl0f5g6ow.md) [https://www.youtube.com/watch?v=LVpl0f5g6ow](https://www.youtube.com/watch?v=LVpl0f5g6ow)
-* [September 22nd, 2020 Livestream Q&A: Boats will come?](./transcriptions/yt-33wha_duTqs.md) [https://www.youtube.com/watch?v=33wha_duTqs](https://www.youtube.com/watch?v=33wha_duTqs)
-* [August 25th, 2020 Livestream Q&A: If you add Trucks then add Boats?](./transcriptions/yt-A10cQzT6TpU.md) [https://www.youtube.com/watch?v=A10cQzT6TpU](https://www.youtube.com/watch?v=A10cQzT6TpU)
-* [August 25th, 2020 Livestream Q&A: We need Battleships?](./transcriptions/yt-VaEaP9IBe08.md) [https://www.youtube.com/watch?v=VaEaP9IBe08](https://www.youtube.com/watch?v=VaEaP9IBe08)
-</details>
-
 ### [Q&A: Farms?](./transcriptions/yt-FqwSycZqJWo.md) [https://www.youtube.com/watch?v=FqwSycZqJWo](https://www.youtube.com/watch?v=FqwSycZqJWo)
 
 <details>
@@ -544,34 +894,6 @@ date: Last Modified
 * August 11th, 2020 Livestream Q&A: Floating Factories vs. Structural Supports [https://clips.twitch.tv/GiftedSincereDillDoubleRainbow](https://clips.twitch.tv/GiftedSincereDillDoubleRainbow)
 </details>
 
-### [Q&A: Will we see VR in the future?](./transcriptions/yt-fPaoCTlPlO0.md) [https://www.youtube.com/watch?v=fPaoCTlPlO0](https://www.youtube.com/watch?v=fPaoCTlPlO0)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> um will we see vr in the future i don't know not really sure it's not it's not at all a priority and so i don't see it really ever getting done anytime soon at all when we have so many other things that like are super super important to do and vr is not a trivial thing like i guess it might be somewhat possible and maybe maybe tr trivial to just get the support in in any way maybe um but to actually make it anything good or worthwhile like i think it takes it would take a lot of effort and i don't think we're super willing to invest in that yet at the moment but maybe later who knows it's clear that there's a lot of people who would like it but i mean if it's if it's a crappy implementation i don't think it would be very fun was the modders mega vr support can they do that i guess i guess maybe yeah so i'm just sitting here staring at the [ __ ] lizard dog right now oh yeah i've still got him on my other monitor
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 12 other times, as recently as November 2021 and as early as August 2018.</summary>
-
-* [November 23rd, 2021 Livestream Q&A: VR Support?](./transcriptions/yt-iVDRQg_aWpU,6314.234365,6351.55304.md) [https://youtube.com/clip/UgkxH_brYKMFYwxTeHs6_FQOtO4la68AvjEE](https://youtube.com/clip/UgkxH_brYKMFYwxTeHs6_FQOtO4la68AvjEE)
-* October 26th, 2021 Update 5 Launch Stream and Patch Notes Video Q&A: VR? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=1803&end=1874](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=1803&end=1874)
-* [October 12th, 2021 Livestream Q&A: When does VR support come?](./transcriptions/yt-5GIATvK8NVQ.md) [https://www.youtube.com/watch?v=5GIATvK8NVQ](https://www.youtube.com/watch?v=5GIATvK8NVQ)
-* [June 22nd, 2021 Livestream Q&A: Are there any plans for VR?](./transcriptions/yt-aSo4zUTOCwE.md) [https://www.youtube.com/watch?v=aSo4zUTOCwE](https://www.youtube.com/watch?v=aSo4zUTOCwE)
-* [April 27th, 2021 Livestream Q&A: Any chance for a VR port?](./transcriptions/yt-bPmfShefJi4.md) [https://www.youtube.com/watch?v=bPmfShefJi4](https://www.youtube.com/watch?v=bPmfShefJi4)
-* [April 20th, 2021 Livestream Q&A: VR, when?](./transcriptions/yt-njMrANjFNLc.md) [https://www.youtube.com/watch?v=njMrANjFNLc](https://www.youtube.com/watch?v=njMrANjFNLc)
-* [March 9th, 2021 Livestream Q&A: VR Support at any time?](./transcriptions/yt-TKv8QdGLBW0.md) [https://www.youtube.com/watch?v=TKv8QdGLBW0](https://www.youtube.com/watch?v=TKv8QdGLBW0)
-* [January 26th, 2021 Livestream Q&A: VR support would be heavenly?](./transcriptions/yt-0Ld1fbTEOvM.md) [https://www.youtube.com/watch?v=0Ld1fbTEOvM](https://www.youtube.com/watch?v=0Ld1fbTEOvM)
-* [November 3rd, 2020 Livestream Q&A: VR Support?](./transcriptions/yt-eJz8dJImPfQ.md) [https://www.youtube.com/watch?v=eJz8dJImPfQ](https://www.youtube.com/watch?v=eJz8dJImPfQ)
-* [September 8th, 2020 Livestream Q&A: Ever consider making a VR version of Satisfactory?](./transcriptions/yt-3s-PKymQ9QU.md) [https://www.youtube.com/watch?v=3s-PKymQ9QU](https://www.youtube.com/watch?v=3s-PKymQ9QU)
-* [February 6th, 2019 Livestream Q&A: Will there be VR support?](./transcriptions/yt-Dtm6xIj-wM4,2442.266666666667,2534.034208.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2442&end=2535](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2442&end=2535)
-* [August 1st, 2018 Q&A: What about VR support?](./transcriptions/yt-iFAy1NZUOGU,66.08,68.24.md) [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=66&end=69](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=66&end=69)
-</details>
-
 ### [Q&A: What about the Fluid Sink?](./transcriptions/yt--yErJoC5VSQ.md) [https://www.youtube.com/watch?v=-yErJoC5VSQ](https://www.youtube.com/watch?v=-yErJoC5VSQ)
 
 <details>
@@ -595,40 +917,6 @@ date: Last Modified
 * [October 27th, 2020 Livestream Q&A: Fluid Sink ever going to happen?](./transcriptions/yt-j79cJptq5h8.md) [https://www.youtube.com/watch?v=j79cJptq5h8](https://www.youtube.com/watch?v=j79cJptq5h8)
 * [September 1st, 2020 Livestream Q&A: Will there be something like the Resource Sink but for Fluids?](./transcriptions/yt-nT4pfUlmZBs.md) [https://www.youtube.com/watch?v=nT4pfUlmZBs](https://www.youtube.com/watch?v=nT4pfUlmZBs)
 * [August 25th, 2020 Livestream Q&A: Is the sink going to accept liquids in the future?](./transcriptions/yt-k6ZS5wzlNKs.md) [https://www.youtube.com/watch?v=k6ZS5wzlNKs](https://www.youtube.com/watch?v=k6ZS5wzlNKs)
-</details>
-
-### [Q&A: Is there a very long-term plan for random World generation?](./transcriptions/yt-0i2lAA8OUAs.md) [https://www.youtube.com/watch?v=0i2lAA8OUAs](https://www.youtube.com/watch?v=0i2lAA8OUAs)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> uh i'm really wondering if there's a very long-term plan for random world generation uh there's not really a long-term plan for random world generation because uh i mean first of all we haven't even finished with the current world and then we haven't really finished with the game at least in the way that we are envisioning it at the moment and so if we were to do something with like it's not as if it's not something we haven't thought about and it's not as if it's not something that's not in our backlog but whether or not we actually end up doing it we don't know and if we do it's probably not going to happen anytime soon but there's different levels of like randomization right so we can randomly generate the world or we can do other kinds of random genera uh generation with an existing world and so you never really know yeah that kind of thing will be a thing yeah we can't do like uh terrain to be randomized but we can like maybe randomize the nodes and stuff like that um
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 18 other times, as recently as August 2021 and as early as June 2018.</summary>
-
-* [August 24th, 2021 Livestream Q&A: Would it be possible to have a Map Randomly Generated in Satisfactory?](./transcriptions/yt-1AOF1qFxGm0.md) [https://www.youtube.com/watch?v=1AOF1qFxGm0](https://www.youtube.com/watch?v=1AOF1qFxGm0)
-* [June 29th, 2021 Livestream Q&A: Any plans for random map generation?](./transcriptions/yt-Z9c7weKgaz0.md) [https://www.youtube.com/watch?v=Z9c7weKgaz0](https://www.youtube.com/watch?v=Z9c7weKgaz0)
-* [April 27th, 2021 Livestream Q&A: Is the map generation going to be randomised in the future?](./transcriptions/yt-XMhLiJd6N2U.md) [https://www.youtube.com/watch?v=XMhLiJd6N2U](https://www.youtube.com/watch?v=XMhLiJd6N2U)
-* [April 20th, 2021 Livestream Q&A: Any plans for a procedurally generated map?](./transcriptions/yt-7LUcnDsDjnU.md) [https://www.youtube.com/watch?v=7LUcnDsDjnU](https://www.youtube.com/watch?v=7LUcnDsDjnU)
-* [March 30th, 2021 Livestream Q&A: Procedural Map?](./transcriptions/yt-ee53aGXd5wg.md) [https://www.youtube.com/watch?v=ee53aGXd5wg](https://www.youtube.com/watch?v=ee53aGXd5wg)
-* [February 16th, 2021 Livestream Q&A: Possible to get randomly generated maps?](./transcriptions/yt-FkM6JZIZrqg.md) [https://www.youtube.com/watch?v=FkM6JZIZrqg](https://www.youtube.com/watch?v=FkM6JZIZrqg)
-* [February 9th, 2021 Livestream Q&A: Why not have self generated maps?](./transcriptions/yt-hKIm2mk5AhM.md) [https://www.youtube.com/watch?v=hKIm2mk5AhM](https://www.youtube.com/watch?v=hKIm2mk5AhM)
-* [November 24th, 2020 Livestream Q&A: Procedural generation of the World?](./transcriptions/yt-q6tkuGjM4zY.md) [https://www.youtube.com/watch?v=q6tkuGjM4zY](https://www.youtube.com/watch?v=q6tkuGjM4zY)
-* [November 3rd, 2020 Livestream Q&A: Map is amazing, but infinite generation?](./transcriptions/yt-2yoGAha7ju0.md) [https://www.youtube.com/watch?v=2yoGAha7ju0](https://www.youtube.com/watch?v=2yoGAha7ju0)
-* [September 15th, 2020 Livestream Q&A: Any plans for randomly generated worlds / Procedurally Generated maps?](./transcriptions/yt-eo_84m3ZYfQ.md) [https://www.youtube.com/watch?v=eo_84m3ZYfQ](https://www.youtube.com/watch?v=eo_84m3ZYfQ)
-* [September 8th, 2020 Livestream Q&A: Procedural Generation?](./transcriptions/yt-lcZJKlvLZuo.md) [https://www.youtube.com/watch?v=lcZJKlvLZuo](https://www.youtube.com/watch?v=lcZJKlvLZuo)
-* [August 25th, 2020 Livestream Q&A: How about procedural maps?](./transcriptions/yt-oYVWBcgkahY.md) [https://www.youtube.com/watch?v=oYVWBcgkahY](https://www.youtube.com/watch?v=oYVWBcgkahY)
-* August 25th, 2020 Livestream Q&A: How about procedural maps? [https://clips.twitch.tv/ProtectiveWonderfulFrogVoteYea](https://clips.twitch.tv/ProtectiveWonderfulFrogVoteYea)
-* August 11th, 2020 Livestream Q&A: Randomly Generated Maps: [https://clips.twitch.tv/OilyBloodyMangoFutureMan](https://clips.twitch.tv/OilyBloodyMangoFutureMan)
-* [March 9th, 2019 Livestream Q&A: The map is pre-made, not procedurally generated?](./transcriptions/yt-229Wl8AMQx8.md) [https://www.youtube.com/watch?v=229Wl8AMQx8](https://www.youtube.com/watch?v=229Wl8AMQx8)
-* [March 9th, 2019 Livestream Q&A: Another game mode with a procedurally generated world?](./transcriptions/yt-GZlK2fIlYVk.md) [https://www.youtube.com/watch?v=GZlK2fIlYVk](https://www.youtube.com/watch?v=GZlK2fIlYVk)
-* [February 20th, 2019 Livestream Q&A: Is the World procedurally generated?](./transcriptions/yt-CB9bSigNYH8,3150.343797,3165.212187.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3150&end=3166](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3150&end=3166)
-* [June 22nd, 2018 Q&A: Is the Map procedurally generated?](./transcriptions/yt-W1E6EWrAsII,316.92,345.76.md) [https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=316&end=346](https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=316&end=346)
 </details>
 
 ## [January 25th, 2022 Livestream](./2022-01-25.md)
@@ -790,56 +1078,6 @@ date: Last Modified
 * [December 19th, 2019 Livestream Q&A: Satisfactory on Switch?](./transcriptions/yt-QVQZ2qgtTsQ.md) [https://www.youtube.com/watch?v=QVQZ2qgtTsQ](https://www.youtube.com/watch?v=QVQZ2qgtTsQ)
 * [March 9th, 2019 Livestream Q&A: Will you create Console version of Satisfactory?](./transcriptions/yt-_MGUbEI247M.md) [https://www.youtube.com/watch?v=_MGUbEI247M](https://www.youtube.com/watch?v=_MGUbEI247M)
 * [March 9th, 2019 Livestream Q&A: Any scope of the game being on consoles?](./transcriptions/yt-bsTq_WiSeCY.md) [https://www.youtube.com/watch?v=bsTq_WiSeCY](https://www.youtube.com/watch?v=bsTq_WiSeCY)
-</details>
-
-### [Q&A: Will we see Teleportation in the future of Satisfactory?](./transcriptions/yt-tg6iemNxFAM.md) [https://www.youtube.com/watch?v=tg6iemNxFAM](https://www.youtube.com/watch?v=tg6iemNxFAM)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> we see teleportation in the future of satisfactory i actually don't know uh it is something that we played with many uh many many many years ago and then stopped working with it i i but like that happens often right like designers try out different things all the time and then cancel things all the time so i i don't really know if it's gonna come back or not but um i don't know like i could i could maybe see us doing it i i don't think it's a complete no from my perspective but i'm also not the game director um so if only you were if only i was wow what a game this would be so much better you'd have to you'd have to uh
->
-> [Music]
->
-> every time you want to do a milestone you have to solve a complicated puzzle in 3d space does that make sense my puzzle games gotta get it
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 5 other times, as recently as August 2021 and as early as April 2021.</summary>
-
-* [August 24th, 2021 Livestream Q&A: Will there ever be teleportation?](./transcriptions/yt-XeUtzOBJhrA.md) [https://www.youtube.com/watch?v=XeUtzOBJhrA](https://www.youtube.com/watch?v=XeUtzOBJhrA)
-* [June 8th, 2021 Livestream Q&A: Please, teleporters?](./transcriptions/yt-dNPT8HQ3qRk.md) [https://www.youtube.com/watch?v=dNPT8HQ3qRk](https://www.youtube.com/watch?v=dNPT8HQ3qRk)
-* [May 18th, 2021 Livestream Q&A: Are there any plans for teleportation?](./transcriptions/yt-RyU3sk4C5d8.md) [https://www.youtube.com/watch?v=RyU3sk4C5d8](https://www.youtube.com/watch?v=RyU3sk4C5d8)
-* [May 11th, 2021 Livestream Q&A: Teleport System?](./transcriptions/yt-aZHVhI9GZk8.md) [https://www.youtube.com/watch?v=aZHVhI9GZk8](https://www.youtube.com/watch?v=aZHVhI9GZk8)
-* [April 27th, 2021 Livestream Q&A: How about a teleporter for people to hand-feed the system?](./transcriptions/yt-m95zf9b3oo0.md) [https://www.youtube.com/watch?v=m95zf9b3oo0](https://www.youtube.com/watch?v=m95zf9b3oo0)
-</details>
-
-### [Q&A: Jace, why can't we have two people in the Vehicles?](./transcriptions/yt-HcTmSD0xDhA.md) [https://www.youtube.com/watch?v=HcTmSD0xDhA](https://www.youtube.com/watch?v=HcTmSD0xDhA)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> this isn't the question i was looking for but i just ran past this and i just think it's just funny to bring it up jace why can't we have two people in the vehicles i want two people in the vehicles yeah we don't know and we said for i mean half a year or something that we were going to try and figure out why because we we used to have it and then someday we just yeah and someday it was just removed and we we don't know why and i literally went to someone and i was like i was like hey i think the vehicles are bugged i can't get in with my second person and just like we removed it i liked it and and we've said for a long time like yeah yeah we'll we'll we'll ask what the reason was you know like it's always nice to like you know give a reason to things uh that's like the at this point it's a running joke that we it'll never happen but maybe we'll remember someday
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 9 other times, as recently as November 2021 and as early as August 2020.</summary>
-
-* [November 9th, 2021 Livestream Q&A: Two Pioneers in one car?](./transcriptions/yt-Btds0y7oaoE.md) [https://www.youtube.com/watch?v=Btds0y7oaoE](https://www.youtube.com/watch?v=Btds0y7oaoE)
-* [September 14th, 2021 Livestream Q&A: Why can we not put a second person in the Buggy?](./transcriptions/yt-7k7lIdyQBvQ.md) [https://www.youtube.com/watch?v=7k7lIdyQBvQ](https://www.youtube.com/watch?v=7k7lIdyQBvQ)
-* [July 20th, 2021 Livestream Q&A: Any plans for Vehicles to hold more than one player?](./transcriptions/yt-49PWrYsgFtk.md) [https://www.youtube.com/watch?v=49PWrYsgFtk](https://www.youtube.com/watch?v=49PWrYsgFtk)
-* [July 13th, 2021 Livestream Q&A: Two-people Explorer, please](./transcriptions/yt-hnYfzcUnUQE.md) [https://www.youtube.com/watch?v=hnYfzcUnUQE](https://www.youtube.com/watch?v=hnYfzcUnUQE)
-* [May 18th, 2021 Livestream Q&A: Will there ever be two players per car?](./transcriptions/yt-MGcq63fWfYY.md) [https://www.youtube.com/watch?v=MGcq63fWfYY](https://www.youtube.com/watch?v=MGcq63fWfYY)
-* [May 11th, 2021 Livestream Q&A: What about allowing a second person in the buggy?](./transcriptions/yt-RENRn0EnoZE.md) [https://www.youtube.com/watch?v=RENRn0EnoZE](https://www.youtube.com/watch?v=RENRn0EnoZE)
-* [April 27th, 2021 Livestream Q&A: Two-person buggy?](./transcriptions/yt-IUQeH1sTCv0.md) [https://www.youtube.com/watch?v=IUQeH1sTCv0](https://www.youtube.com/watch?v=IUQeH1sTCv0)
-* August 11th, 2020 Livestream Q&A: Two-seated vehicles (Part 1) [https://clips.twitch.tv/OilySourBeaverAMPEnergy](https://clips.twitch.tv/OilySourBeaverAMPEnergy)
-* August 11th, 2020 Livestream Q&A: Two-seated vehicles (Part 2) [https://clips.twitch.tv/CooperativeFurtiveWasabiOhMyDog](https://clips.twitch.tv/CooperativeFurtiveWasabiOhMyDog)
 </details>
 
 ### [Q&A: Can we get rid of poison rocks?](./transcriptions/yt-yQfU5GLx4eM.md) [https://www.youtube.com/watch?v=yQfU5GLx4eM](https://www.youtube.com/watch?v=yQfU5GLx4eM)
@@ -1006,38 +1244,6 @@ date: Last Modified
 * [February 23rd, 2021 Livestream Q&A: Could you please add a Coffee machine or even a Coffee production line?](./transcriptions/yt-XpBlPzRT3FA.md) [https://www.youtube.com/watch?v=XpBlPzRT3FA](https://www.youtube.com/watch?v=XpBlPzRT3FA)
 </details>
 
-### [Q&A: Why don't you want us to equip the Blade Runners and Jetpack at the same time?](./transcriptions/yt-HC83odaoVd0.md) [https://www.youtube.com/watch?v=HC83odaoVd0](https://www.youtube.com/watch?v=HC83odaoVd0)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> why don't you want us guys to equip the blatants and jet pack at the same time i the reason for that is because we feel like it's a bit too overpowered and we've sort of designed the level design that's around for situations where you don't have like all equipment a bit like being able to equip everything so we would need to change some level design if we were to do that um so but at some point we're gonna like revamp the equipment system i don't know what our decisions there are so yeah
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 16 other times, as recently as November 2021 and as early as May 2020.</summary>
-
-* [November 9th, 2021 Livestream Q&A: Two body slots, maybe?](./transcriptions/yt-1r0kKFc_mW4.md) [https://www.youtube.com/watch?v=1r0kKFc_mW4](https://www.youtube.com/watch?v=1r0kKFc_mW4)
-* [October 5th, 2021 Livestream Q&A: Equipment Slots rework still in progress?](./transcriptions/yt-NZGJ3mLsbNk.md) [https://www.youtube.com/watch?v=NZGJ3mLsbNk](https://www.youtube.com/watch?v=NZGJ3mLsbNk)
-* September 14th, 2021 Livestream Q&A: Tell me something good about Dual Body Slots? [https://www.youtube.com/watch?v=47I5UvpAn98](https://www.youtube.com/watch?v=47I5UvpAn98)
-* [August 10th, 2021 Livestream Q&A: Will we be able to equip more than one item?](./transcriptions/yt-qiA_5oti7s8.md) [https://www.youtube.com/watch?v=qiA_5oti7s8](https://www.youtube.com/watch?v=qiA_5oti7s8)
-* [July 13th, 2021 Livestream Q&A: Any chance we can get another Body Slot?](./transcriptions/yt-UuhHtf0yr64.md) [https://www.youtube.com/watch?v=UuhHtf0yr64](https://www.youtube.com/watch?v=UuhHtf0yr64)
-* [May 4th, 2021 Livestream Q&A: Will there be a new body slot?](./transcriptions/yt-80Ajx6Ml2Aw.md) [https://www.youtube.com/watch?v=80Ajx6Ml2Aw](https://www.youtube.com/watch?v=80Ajx6Ml2Aw)
-* [April 20th, 2021 Livestream Q&A: Body Slots?](./transcriptions/yt-G6TdxrJuIaA.md) [https://www.youtube.com/watch?v=G6TdxrJuIaA](https://www.youtube.com/watch?v=G6TdxrJuIaA)
-* [April 6th, 2021 Livestream Q&A: Multiple Body slots, when?](./transcriptions/yt-Xa03UsMWsjo.md) [https://www.youtube.com/watch?v=Xa03UsMWsjo](https://www.youtube.com/watch?v=Xa03UsMWsjo)
-* [March 30th, 2021 Livestream Q&A: Add body slots so we can use Blade Runners and Jetpacks at the same time?](./transcriptions/yt-XkDGnJwkY18.md) [https://www.youtube.com/watch?v=XkDGnJwkY18](https://www.youtube.com/watch?v=XkDGnJwkY18)
-* [March 23rd, 2021 Livestream Q&A: Do you ever think you'll give us more than one Body Slot?](./transcriptions/yt-b8xgQlBZ_yc.md) [https://www.youtube.com/watch?v=b8xgQlBZ_yc](https://www.youtube.com/watch?v=b8xgQlBZ_yc)
-* [March 9th, 2021 Livestream Q&A: Will we ever get a second body slot?](./transcriptions/yt-B2LmiIWJu8o.md) [https://www.youtube.com/watch?v=B2LmiIWJu8o](https://www.youtube.com/watch?v=B2LmiIWJu8o)
-* [March 2nd, 2021 Livestream Q&A: When are we going to be able to use more than one Equipment at a time?](./transcriptions/yt-w6VfAW7WD1w.md) [https://www.youtube.com/watch?v=w6VfAW7WD1w](https://www.youtube.com/watch?v=w6VfAW7WD1w)
-* [February 2nd, 2021 Livestream Q&A: Will we get two character slots for Jetpacks and Blade Runners](./transcriptions/yt-YKIN_NCGDpo.md) [https://www.youtube.com/watch?v=YKIN_NCGDpo](https://www.youtube.com/watch?v=YKIN_NCGDpo)
-* [October 6th, 2020 Livestream Q&A: What's the max amount of body slots?](./transcriptions/yt-aPWXjH-Xf1o.md) [https://www.youtube.com/watch?v=aPWXjH-Xf1o](https://www.youtube.com/watch?v=aPWXjH-Xf1o)
-* [September 15th, 2020 Livestream Q&A: Can I wear Boots, Jetpack and a Gas Mask?](./transcriptions/yt-Gt1ATsmBu6k.md) [https://www.youtube.com/watch?v=Gt1ATsmBu6k](https://www.youtube.com/watch?v=Gt1ATsmBu6k)
-* [May 15th, 2020 Q&A: Will we get more than one body slot?](./transcriptions/yt-NlIVwoRqjVk,733.1324,779.1784.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=733&end=780](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=733&end=780)
-</details>
-
 ### [Q&A: Anything coming out on MacOS?](./transcriptions/yt-NE3mXE6o1wI.md) [https://www.youtube.com/watch?v=NE3mXE6o1wI](https://www.youtube.com/watch?v=NE3mXE6o1wI)
 
 <details>
@@ -1166,39 +1372,6 @@ date: Last Modified
 * [September 1st, 2020 Livestream Q&A: Map expansion ?](./transcriptions/yt-2ZHnQ9U4f9I.md) [https://www.youtube.com/watch?v=2ZHnQ9U4f9I](https://www.youtube.com/watch?v=2ZHnQ9U4f9I)
 </details>
 
-### [Q&A: Will we ever have a Weather System?](./transcriptions/yt-V82DdkFIwNE.md) [https://www.youtube.com/watch?v=V82DdkFIwNE](https://www.youtube.com/watch?v=V82DdkFIwNE)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> will we ever have a red weather system i like to say rain um we i don't know like it's something that we always wanted um i think it's high on like people's lists internally that we would like to do but uh we just i don't know if we will have time to make it for for the game honestly
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 17 other times, as recently as December 2021 and as early as August 2018.</summary>
-
-* [December 7th, 2021 Livestream Q&A: Will there be any kind of Weather in the future?](./transcriptions/yt-lvjgk5seKGc.md) [https://www.youtube.com/watch?v=lvjgk5seKGc](https://www.youtube.com/watch?v=lvjgk5seKGc)
-* [October 12th, 2021 Livestream Q&A: Will there ever be rain and extreme Weather in Satisfactory?](./transcriptions/yt-ukLbdvyFk-E.md) [https://www.youtube.com/watch?v=ukLbdvyFk-E](https://www.youtube.com/watch?v=ukLbdvyFk-E)
-* [September 14th, 2021 Livestream Q&A: Have you considered adding Weather effects to the game?](./transcriptions/yt-sNZLo0Q6lBg.md) [https://www.youtube.com/watch?v=sNZLo0Q6lBg](https://www.youtube.com/watch?v=sNZLo0Q6lBg)
-* [July 6th, 2021 Livestream Q&A: Will you be adding Weather Systems?](./transcriptions/yt-WMMQ1b8eAvA.md) [https://www.youtube.com/watch?v=WMMQ1b8eAvA](https://www.youtube.com/watch?v=WMMQ1b8eAvA)
-* [April 20th, 2021 Livestream Q&A: Gonna be weather changes, like rain, snow, and sand storms?](./transcriptions/yt-wUZr64_l6R4.md) [https://www.youtube.com/watch?v=wUZr64_l6R4](https://www.youtube.com/watch?v=wUZr64_l6R4)
-* [March 9th, 2021 Livestream Q&A: Will there be Weather in the game?](./transcriptions/yt-m9oykKdGfUE.md) [https://www.youtube.com/watch?v=m9oykKdGfUE](https://www.youtube.com/watch?v=m9oykKdGfUE)
-* [February 16th, 2021 Livestream Q&A: Storm or natural disasters in the game?](./transcriptions/yt-LgYBDQkiTrk.md) [https://www.youtube.com/watch?v=LgYBDQkiTrk](https://www.youtube.com/watch?v=LgYBDQkiTrk)
-* [November 17th, 2020 Livestream Q&A: Any plans on Weather cycles?](./transcriptions/yt--QpGRQcZfe0.md) [https://www.youtube.com/watch?v=-QpGRQcZfe0](https://www.youtube.com/watch?v=-QpGRQcZfe0)
-* [November 10th, 2020 Livestream Q&A: Can we get Weather to change?](./transcriptions/yt-iq-K9FY-RT8.md) [https://www.youtube.com/watch?v=iq-K9FY-RT8](https://www.youtube.com/watch?v=iq-K9FY-RT8)
-* [November 10th, 2020 Livestream Q&A: Will we have Weather events?](./transcriptions/yt-MzWzCnmbkYI.md) [https://www.youtube.com/watch?v=MzWzCnmbkYI](https://www.youtube.com/watch?v=MzWzCnmbkYI)
-* [October 1st, 2020 Q&A: Will there be any environmental influences later on, like climate change or heatwave storms?](./transcriptions/yt-rATcozDE25c,390.9238666666667,429.5291.md) [https://youtube.com/embed/rATcozDE25c?autoplay=1&start=390&end=430](https://youtube.com/embed/rATcozDE25c?autoplay=1&start=390&end=430)
-* [September 22nd, 2020 Livestream Q&A: Weather in Satisfactory?](./transcriptions/yt-Sxvg881RjeA.md) [https://www.youtube.com/watch?v=Sxvg881RjeA](https://www.youtube.com/watch?v=Sxvg881RjeA)
-* [September 8th, 2020 Livestream Q&A: Do we intend to add rain/storms ?](./transcriptions/yt-3WDeVbpr30g.md) [https://www.youtube.com/watch?v=3WDeVbpr30g](https://www.youtube.com/watch?v=3WDeVbpr30g)
-* August 11th, 2020 Livestream Q&A: What about Weather systems? [https://clips.twitch.tv/SilkyFurryCheetahMVGame](https://clips.twitch.tv/SilkyFurryCheetahMVGame)
-* [May 15th, 2020 Q&A: Will there be weather changes?](./transcriptions/yt-NlIVwoRqjVk,374.5742,397.43036666666666.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=374&end=398](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=374&end=398)
-* [February 20th, 2019 Livestream Q&A: Weather confirmed?](./transcriptions/yt-CB9bSigNYH8,5234.485233,5238.267007.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5234&end=5239](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5234&end=5239)
-* [August 1st, 2018 Q&A: Is there Weather in the game?](./transcriptions/yt-iFAy1NZUOGU,58.6,60.36.md) [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=58&end=61](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=58&end=61)
-</details>
-
 ### [Q&A: Can we get a mobile Satisfactory?](./transcriptions/yt-S6E6qkiS8jg.md) [https://www.youtube.com/watch?v=S6E6qkiS8jg](https://www.youtube.com/watch?v=S6E6qkiS8jg)
 
 <details>
@@ -1260,15 +1433,6 @@ date: Last Modified
 * [January 19th, 2021 Livestream Q&A: Is there a goal amount of Events per year?](./transcriptions/yt-2koHO0P289M.md) [https://www.youtube.com/watch?v=2koHO0P289M](https://www.youtube.com/watch?v=2koHO0P289M)
 * [December 17th, 2020 Q&A: Will FICS⁕MAS and seasonal events in general be a regular thing?](./transcriptions/yt--JXPsTlJIiI,148.11463333333333,192.3922.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=148&end=193](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=148&end=193)
 * [December 15th, 2020 Livestream Q&A: Will there be more Seasonal Events?](./transcriptions/yt-TNrm3qsWdxQ.md) [https://www.youtube.com/watch?v=TNrm3qsWdxQ](https://www.youtube.com/watch?v=TNrm3qsWdxQ)
-</details>
-
-### Q&A: Do you have a roadmap? [https://www.youtube.com/watch?v=zliKUqsPvEc](https://www.youtube.com/watch?v=zliKUqsPvEc)
-
-<details>
-<summary>This question may have been asked previously at least 2 other times, as recently as November 2021 and as early as December 2020.</summary>
-
-* [November 9th, 2021 Livestream Q&A: Do you have a roadmap, internally?](./transcriptions/yt-w3CozyZWjE4.md) [https://www.youtube.com/watch?v=w3CozyZWjE4](https://www.youtube.com/watch?v=w3CozyZWjE4)
-* [December 8th, 2020 Livestream Q&A: I would be interested to see your in-house roadmap](./transcriptions/yt-D0LY0PxkSJM.md) [https://www.youtube.com/watch?v=D0LY0PxkSJM](https://www.youtube.com/watch?v=D0LY0PxkSJM)
 </details>
 
 ### [Q&A: Look at Smart! mod & try something like this?](./transcriptions/yt-EkDbmqW43Ic.md) [https://www.youtube.com/watch?v=EkDbmqW43Ic](https://www.youtube.com/watch?v=EkDbmqW43Ic)
@@ -2772,30 +2936,6 @@ date: Last Modified
 * [September 8th, 2020 Livestream Q&A: Can you add ability to deselect with ctrl?](./transcriptions/yt-CjWFoMF7EIo.md) [https://www.youtube.com/watch?v=CjWFoMF7EIo](https://www.youtube.com/watch?v=CjWFoMF7EIo)
 </details>
 
-### [Q&A: Were Hyper Tubes ever meant to work that way or was it an accident?](./transcriptions/yt-oT-Qz36u1co.md) [https://www.youtube.com/watch?v=oT-Qz36u1co](https://www.youtube.com/watch?v=oT-Qz36u1co)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> were ibus intended to work that way was it an accident you probably mean the hypertube cannons i think that was an accident yeah but i think we were like okay with it yeah we're okay with it because like you need so much power to be able to set up all those uh entrances yeah um so like it sort of justif like accidentally got a little bit of game design that emerged from that so i think we were okay with that yeah
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 8 other times, as recently as September 2021 and as early as August 2020.</summary>
-
-* [September 14th, 2021 Livestream Q&A: Do you guys like how Hyper Tubes turned out with cannons?](./transcriptions/yt-LG0wAne1mR8.md) [https://www.youtube.com/watch?v=LG0wAne1mR8](https://www.youtube.com/watch?v=LG0wAne1mR8)
-* [June 29th, 2021 Livestream Q&A: What's your opinion on Hyper Tube accelerators?](./transcriptions/yt-HmJNJUmQyGQ.md) [https://www.youtube.com/watch?v=HmJNJUmQyGQ](https://www.youtube.com/watch?v=HmJNJUmQyGQ)
-* [June 22nd, 2021 Livestream Q&A: Would you add a Hyper Tube launcher, or do you want to keep the exploity method people use now?](./transcriptions/yt-vGet8HcuE7E.md) [https://www.youtube.com/watch?v=vGet8HcuE7E](https://www.youtube.com/watch?v=vGet8HcuE7E)
-* [June 15th, 2021 Livestream Q&A: Have you considered making actual Hyper Tube boosters?](./transcriptions/yt-Oz3Y-caTPTY.md) [https://www.youtube.com/watch?v=Oz3Y-caTPTY](https://www.youtube.com/watch?v=Oz3Y-caTPTY)
-* [March 9th, 2021 Livestream Q&A: Is the cannon an intended behaviour for Hyper Tubes or a bug?](./transcriptions/yt-9oX64bJ65Cg.md) [https://www.youtube.com/watch?v=9oX64bJ65Cg](https://www.youtube.com/watch?v=9oX64bJ65Cg)
-* [December 15th, 2020 Livestream Q&A: Will Hyper Tube cannons be patched out eventually & officially supported as a feature?](./transcriptions/yt-bvtKzwJA4pw.md) [https://www.youtube.com/watch?v=bvtKzwJA4pw](https://www.youtube.com/watch?v=bvtKzwJA4pw)
-* [September 8th, 2020 Livestream Q&A: Hyper Tube Cannon future ?](./transcriptions/yt-X3RdhRuPf04.md) [https://www.youtube.com/watch?v=X3RdhRuPf04](https://www.youtube.com/watch?v=X3RdhRuPf04)
-* August 11th, 2020 Livestream Q&A: Hypertube Cannons - Bug or Feature? [https://clips.twitch.tv/OilyPatientOtterTBTacoLeft](https://clips.twitch.tv/OilyPatientOtterTBTacoLeft)
-</details>
-
 ### [Q&A: Will the Vehicles bouncing on Foundations be fixed at some point?](./transcriptions/yt-O19MUfB6WXM.md) [https://www.youtube.com/watch?v=O19MUfB6WXM](https://www.youtube.com/watch?v=O19MUfB6WXM)
 
 <details>
@@ -2921,24 +3061,6 @@ date: Last Modified
 * [September 15th, 2020 Livestream Q&A: Snow Area Confirmed?](./transcriptions/yt-yUDtq7D8XU8.md) [https://www.youtube.com/watch?v=yUDtq7D8XU8](https://www.youtube.com/watch?v=yUDtq7D8XU8)
 * August 18th, 2020 Livestream Q&A: Any ice/snow biome plans? [https://clips.twitch.tv/AlluringScrumptiousBaboonHeyGirl](https://clips.twitch.tv/AlluringScrumptiousBaboonHeyGirl)
 * [February 20th, 2019 Livestream Q&A: What about Snow in the game's future?](./transcriptions/yt-CB9bSigNYH8,5186.033333333334,5200.942785.md) [https://youtube.com/clip/UgkxcKY1a-oHBDSLxA4CqM8L-4h33KcWXZ9H](https://youtube.com/clip/UgkxcKY1a-oHBDSLxA4CqM8L-4h33KcWXZ9H)
-</details>
-
-### [Q&A: Is it possible to make the Pioneer pick up the Doggo?](./transcriptions/yt-uAJX0gy44Ss.md) [https://www.youtube.com/watch?v=uAJX0gy44Ss](https://www.youtube.com/watch?v=uAJX0gy44Ss)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> it's possible to make the pioneer pick up the doggo let's say i keeps cliff diving look if the doggo feels like cliff diving is the way like what how they want to spend their time then who are we to say that that no you can't right like it's it's it's up to the doggo to figure out what they want to do and uh we're not going to stand in the way
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 2 other times, as recently as August 2021 and as early as May 2021.</summary>
-
-* [August 10th, 2021 Livestream Q&A: Any ways to transport Doggos long distance in the future?](./transcriptions/yt-zN9bnZKIqbo.md) [https://www.youtube.com/watch?v=zN9bnZKIqbo](https://www.youtube.com/watch?v=zN9bnZKIqbo)
-* [May 4th, 2021 Livestream Q&A: Pick up Lizard Doggo as a feature?](./transcriptions/yt-laV5SyI3MXg.md) [https://www.youtube.com/watch?v=laV5SyI3MXg](https://www.youtube.com/watch?v=laV5SyI3MXg)
 </details>
 
 ## [September 21st, 2021 Livestream](./2021-09-21.md)
@@ -4510,36 +4632,6 @@ date: Last Modified
 </details>
 
 ## [March 30th, 2021 Livestream](./2021-03-30.md)
-### [Q&A: Will there be planes and helicopters?](./transcriptions/yt-E-c_NfjMqUM.md) [https://www.youtube.com/watch?v=E-c_NfjMqUM](https://www.youtube.com/watch?v=E-c_NfjMqUM)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> will there be planes and helicopters there will be no flying vehicles in the game
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 14 other times, as recently as February 2021 and as early as March 2019.</summary>
-
-* [February 9th, 2021 Livestream Q&A: Is flyable transport an option?](./transcriptions/yt-kd3UMt4pESk.md) [https://www.youtube.com/watch?v=kd3UMt4pESk](https://www.youtube.com/watch?v=kd3UMt4pESk)
-* [January 26th, 2021 Livestream Q&A: Can we expect aircraft any time?](./transcriptions/yt-XMIUlTU9xcU.md) [https://www.youtube.com/watch?v=XMIUlTU9xcU](https://www.youtube.com/watch?v=XMIUlTU9xcU)
-* [December 17th, 2020 Q&A: Are there any other plans for vehicles? Amphibious, air?](./transcriptions/yt--JXPsTlJIiI,615.0477666666667,664.8642.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=615&end=665](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=615&end=665)
-* [November 3rd, 2020 Livestream Q&A: Will we get Flying Vehicles?](./transcriptions/yt-CkWtF0M2ddY.md) [https://www.youtube.com/watch?v=CkWtF0M2ddY](https://www.youtube.com/watch?v=CkWtF0M2ddY)
-* [September 29th, 2020 Livestream Q&A: Will we see air vehicles some time in the future?](./transcriptions/yt-qJ56jBYTtAc.md) [https://www.youtube.com/watch?v=qJ56jBYTtAc](https://www.youtube.com/watch?v=qJ56jBYTtAc)
-* [September 8th, 2020 Livestream Q&A: What're your guys thoughts on transport beyond Jetpacks ?](./transcriptions/yt--sa8wjg4lYk.md) [https://www.youtube.com/watch?v=-sa8wjg4lYk](https://www.youtube.com/watch?v=-sa8wjg4lYk)
-* [September 8th, 2020 Livestream Q&A: The game needs small Flying Vehicles to travel long distance?](./transcriptions/yt-i0_bbpQ_91I.md) [https://www.youtube.com/watch?v=i0_bbpQ_91I](https://www.youtube.com/watch?v=i0_bbpQ_91I)
-* [August 25th, 2020 Livestream Q&A: Implement some kind of hire spaceship thingy for better exploration & faster travelling ?](./transcriptions/yt-mAA2oX9mDOw.md) [https://www.youtube.com/watch?v=mAA2oX9mDOw](https://www.youtube.com/watch?v=mAA2oX9mDOw)
-* August 25th, 2020 Livestream Q&A: How about a drone to fly around? [https://www.youtube.com/watch?v=1msTsQksmbI](https://www.youtube.com/watch?v=1msTsQksmbI)
-* [August 25th, 2020 Livestream Q&A: Add Planes as Vehicles and we can automate it to carry our resources?](./transcriptions/yt-Ds9NIPna9_4.md) [https://www.youtube.com/watch?v=Ds9NIPna9_4](https://www.youtube.com/watch?v=Ds9NIPna9_4)
-* [May 15th, 2020 Q&A: Is there any plans for any sort of flying vehicle?](./transcriptions/yt-NlIVwoRqjVk,26.760066666666667,70.83743333333334.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=26&end=71](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=26&end=71)
-* [December 19th, 2019 Livestream Q&A: Give us a flight vehicle?](./transcriptions/yt-Fb6JnI4Bb4I.md) [https://www.youtube.com/watch?v=Fb6JnI4Bb4I](https://www.youtube.com/watch?v=Fb6JnI4Bb4I)
-* [December 19th, 2019 Livestream Q&A: Have you considerd Flying Drones?](./transcriptions/yt-KYox3m1mePU.md) [https://www.youtube.com/watch?v=KYox3m1mePU](https://www.youtube.com/watch?v=KYox3m1mePU)
-* [March 9th, 2019 Livestream Q&A: Flying vehicles for overhead view of your factory?](./transcriptions/yt-njN-07Q5-8s.md) [https://www.youtube.com/watch?v=njN-07Q5-8s](https://www.youtube.com/watch?v=njN-07Q5-8s)
-</details>
-
 ### [Q&A: What's the feature you want to add?](./transcriptions/yt-VJgvG8RvkLw.md) [https://www.youtube.com/watch?v=VJgvG8RvkLw](https://www.youtube.com/watch?v=VJgvG8RvkLw)
 
 <details>

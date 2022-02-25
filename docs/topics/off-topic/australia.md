@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Australia
 
+## February 22nd, 2022 Livestream
+* [Q&A: Can you still channel full-Aussie accent?](../../transcriptions/yt-U9ft-1L806k.md) [https://www.youtube.com/watch?v=U9ft-1L806k](https://www.youtube.com/watch?v=U9ft-1L806k)
+
 ## February 15th, 2022 Livestream
 * [Snutt & Jace Talk: Amusement parks in Australia vs. the rest of the world](../../transcriptions/yt-8bPuEQfFp2o.md) [https://www.youtube.com/watch?v=8bPuEQfFp2o](https://www.youtube.com/watch?v=8bPuEQfFp2o)
 

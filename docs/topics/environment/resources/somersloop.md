@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Resources](../../../topics/environment/resources.md) > Somersloop
 
+## February 22nd, 2022 Livestream
+* [Q&A: How can you have so many Story items in the game without having a solid plan about the story?](../../../transcriptions/yt-FXbl9z0HuG0.md) [https://www.youtube.com/watch?v=FXbl9z0HuG0](https://www.youtube.com/watch?v=FXbl9z0HuG0)
+
 ## January 18th, 2022 Livestream
 * [Q&A: Somersloops, anything to do with them?](../../../transcriptions/yt-wTRtgWh6gmA.md) [https://www.youtube.com/watch?v=wTRtgWh6gmA](https://www.youtube.com/watch?v=wTRtgWh6gmA)
 

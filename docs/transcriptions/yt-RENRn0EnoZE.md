@@ -8,7 +8,7 @@ topics:
 # [May 11th, 2021 Livestream](../2021-05-11.md)
 ## Q&A: What about allowing a second person in the buggy?
 https://www.youtube.com/watch?v=RENRn0EnoZE
-This question was possibly duplicated with a more recent answer: [January 18th, 2022 Livestream Q&A: Jace, why can't we have two people in the Vehicles?](./yt-HcTmSD0xDhA.md) [https://www.youtube.com/watch?v=HcTmSD0xDhA](https://www.youtube.com/watch?v=HcTmSD0xDhA)
+This question was possibly duplicated with a more recent answer: [February 22nd, 2022 Livestream Q&A: Can we have more than one player in a Vehicle?](./yt-gcECX3h__YQ.md) [https://www.youtube.com/watch?v=gcECX3h__YQ](https://www.youtube.com/watch?v=gcECX3h__YQ)
 
 
 ### Topics

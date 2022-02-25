@@ -39,6 +39,11 @@ date: Last Modified
 * [Torsten](../topics/coffee-stainers/torsten.md)
 * [Uzu](../topics/coffee-stainers/uzu.md)
 
+## February 22nd, 2022 Livestream
+* [Q&A: Are Coffee Stainers back at the office now?](../transcriptions/yt-DK5UfByJ61U.md) [https://www.youtube.com/watch?v=DK5UfByJ61U](https://www.youtube.com/watch?v=DK5UfByJ61U)
+* [Q&A: Do you share the same office building with programmers/designers?](../transcriptions/yt-NE8wNfbvzEY.md) [https://www.youtube.com/watch?v=NE8wNfbvzEY](https://www.youtube.com/watch?v=NE8wNfbvzEY)
+* [Q&A: Do you plan to make more Developer Highlights?](../transcriptions/yt-OTGms3-QSKg.md) [https://www.youtube.com/watch?v=OTGms3-QSKg](https://www.youtube.com/watch?v=OTGms3-QSKg)
+
 ## February 15th, 2022 Livestream
 * [Q&A: Do you know who came up with the concept of Satisfactory?](../transcriptions/yt-kZ4-l18DVXg.md) [https://www.youtube.com/watch?v=kZ4-l18DVXg](https://www.youtube.com/watch?v=kZ4-l18DVXg)
 

@@ -9,7 +9,7 @@ topics:
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: Will Hyper Tube cannons be patched out eventually & officially supported as a feature?
 https://www.youtube.com/watch?v=bvtKzwJA4pw
-This question was possibly duplicated with a more recent answer: [September 28th, 2021 Livestream Q&A: Were Hyper Tubes ever meant to work that way or was it an accident?](./yt-oT-Qz36u1co.md) [https://www.youtube.com/watch?v=oT-Qz36u1co](https://www.youtube.com/watch?v=oT-Qz36u1co)
+This question was possibly duplicated with a more recent answer: [February 22nd, 2022 Livestream Q&A: Are you going to remove the Hypertube cannon?](./yt-R_3Ck6l2LeQ.md) [https://www.youtube.com/watch?v=R_3Ck6l2LeQ](https://www.youtube.com/watch?v=R_3Ck6l2LeQ)
 
 
 ### Topics

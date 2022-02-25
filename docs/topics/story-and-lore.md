@@ -7,6 +7,9 @@ date: Last Modified
 * [Characters](../topics/story-and-lore/characters.md)
 * [Project Assembly](../topics/story-and-lore/project-assembly.md)
 
+## February 22nd, 2022 Livestream
+* [Q&A: How can you have so many Story items in the game without having a solid plan about the story?](../transcriptions/yt-FXbl9z0HuG0.md) [https://www.youtube.com/watch?v=FXbl9z0HuG0](https://www.youtube.com/watch?v=FXbl9z0HuG0)
+
 ## January 25th, 2022 Livestream
 * [Q&A: So CSS is not like FICSIT as a company?](../transcriptions/yt-lHepxnrYy9s.md) [https://www.youtube.com/watch?v=lHepxnrYy9s](https://www.youtube.com/watch?v=lHepxnrYy9s)
 

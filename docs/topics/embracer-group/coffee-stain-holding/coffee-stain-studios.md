@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Embracer Group](../../../topics/embracer-group.md) > Coffee Stain Holding > Coffee Stain Studios
 
+## February 22nd, 2022 Livestream
+* [Q&A: Are Coffee Stainers back at the office now?](../../../transcriptions/yt-DK5UfByJ61U.md) [https://www.youtube.com/watch?v=DK5UfByJ61U](https://www.youtube.com/watch?v=DK5UfByJ61U)
+* [Q&A: Do you share the same office building with programmers/designers?](../../../transcriptions/yt-NE8wNfbvzEY.md) [https://www.youtube.com/watch?v=NE8wNfbvzEY](https://www.youtube.com/watch?v=NE8wNfbvzEY)
+
 ## February 15th, 2022 Livestream
 * [Q&A: What's your own personal favourite Coffee Stain game?](../../../transcriptions/yt-Fw4aLzCIYHo.md) [https://www.youtube.com/watch?v=Fw4aLzCIYHo](https://www.youtube.com/watch?v=Fw4aLzCIYHo)
 

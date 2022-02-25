@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > [Buildings](../../../../topics/features/buildings.md) > [Space Elevator](../../../../topics/features/buildings/space-elevator.md) > Food Court
 
+## February 22nd, 2022 Livestream
+* [Q&A: When will we see the Food Court](../../../../transcriptions/yt-gvBWfMy9jBc.md) [https://www.youtube.com/watch?v=gvBWfMy9jBc](https://www.youtube.com/watch?v=gvBWfMy9jBc)
+
 ## February 1st, 2022 Livestream
 * [Q&A: When will we update the menu at the Food Court?](../../../../transcriptions/yt-5aXN_M_llxE.md) [https://www.youtube.com/watch?v=5aXN_M_llxE](https://www.youtube.com/watch?v=5aXN_M_llxE)
 

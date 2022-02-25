@@ -8,6 +8,9 @@ date: Last Modified
 * [Quick Switch](../../../topics/features/planned-features/build-modes/quick-switch.md)
 * [Zooping](../../../topics/features/planned-features/build-modes/zooping.md)
 
+## February 22nd, 2022 Livestream
+* [Q&A: Thoughts on being able to copy/paste Buildings with the settings also copied?](../../../transcriptions/yt-RBoV0E1Dpfc.md) [https://www.youtube.com/watch?v=RBoV0E1Dpfc](https://www.youtube.com/watch?v=RBoV0E1Dpfc)
+
 ## February 15th, 2022 Livestream
 * [Q&A: Is there a way to change the default Power Poles you automatically place with the power line?](../../../transcriptions/yt-yrX3851FYKA.md) [https://www.youtube.com/watch?v=yrX3851FYKA](https://www.youtube.com/watch?v=yrX3851FYKA)
 

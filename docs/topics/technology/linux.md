@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > Linux
 
+## February 22nd, 2022 Livestream
+* [Q&A: Steam Deck support?](../../transcriptions/yt-j7fes9QN6ds.md) [https://www.youtube.com/watch?v=j7fes9QN6ds](https://www.youtube.com/watch?v=j7fes9QN6ds)
+
 ## February 1st, 2022 Livestream
 * [Community FYI: This had better work on my Steam Deck](../../transcriptions/yt-uOsgasmRIfI.md) [https://www.youtube.com/watch?v=uOsgasmRIfI](https://www.youtube.com/watch?v=uOsgasmRIfI)
 

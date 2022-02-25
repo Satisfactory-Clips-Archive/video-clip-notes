@@ -16,6 +16,9 @@ date: Last Modified
 * [Tier 9](../../topics/features/tiers/tier-9.md)
 * [Tier 10](../../topics/features/tiers/tier-10.md)
 
+## February 22nd, 2022 Livestream
+* [Q&A: How likely is it we'll get a new research at/before 1.0?](../../transcriptions/yt-gsqCsfIKxwI.md) [https://www.youtube.com/watch?v=gsqCsfIKxwI](https://www.youtube.com/watch?v=gsqCsfIKxwI)
+
 ## November 30th, 2021 Livestream
 * [Q&A: Why do Tiers unlock in pairs?](../../transcriptions/yt-hAnCEdKTCBc.md) [https://www.youtube.com/watch?v=hAnCEdKTCBc](https://www.youtube.com/watch?v=hAnCEdKTCBc)
 

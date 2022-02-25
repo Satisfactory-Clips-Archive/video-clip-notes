@@ -21,6 +21,9 @@ date: Last Modified
 * [The Cycle](../topics/off-topic/the-cycle.md)
 * [Valheim](../topics/off-topic/valheim.md)
 
+## February 22nd, 2022 Livestream
+* [Community FYI: Spock is Star Trek, though](../transcriptions/yt-Zvj3uNH1a-M.md) [https://www.youtube.com/watch?v=Zvj3uNH1a-M](https://www.youtube.com/watch?v=Zvj3uNH1a-M)
+
 ## February 15th, 2022 Livestream
 * [Snutt & Jace Talk: Amusement parks in Australia vs. the rest of the world](../transcriptions/yt-8bPuEQfFp2o.md) [https://www.youtube.com/watch?v=8bPuEQfFp2o](https://www.youtube.com/watch?v=8bPuEQfFp2o)
 

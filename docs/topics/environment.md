@@ -11,6 +11,9 @@ date: Last Modified
 * [Resources](../topics/environment/resources.md)
 * [World Map](../topics/environment/world-map.md)
 
+## February 22nd, 2022 Livestream
+* [Q&A: Game mode to make environmental puzzles more difficult?](../transcriptions/yt-vI1MbFXJphw.md) [https://www.youtube.com/watch?v=vI1MbFXJphw](https://www.youtube.com/watch?v=vI1MbFXJphw)
+
 ## February 11th, 2022 Hot Potato Bonus Stream
 * [Q&A: Is there any talk for updating the Map or making it more in depth?](../transcriptions/yt-mM2BzlGYiJI.md) [https://www.youtube.com/watch?v=mM2BzlGYiJI](https://www.youtube.com/watch?v=mM2BzlGYiJI)
 

@@ -7,6 +7,10 @@ date: Last Modified
 * [EU Merch Store](../topics/merch/eu-merch-store.md)
 * [Merch Prototypes](../topics/merch/merch-prototypes.md)
 
+## February 22nd, 2022 Livestream
+* [Q&A: Add plush Doggo to the second seat?](../transcriptions/yt-NoqAEj4SREw.md) [https://www.youtube.com/watch?v=NoqAEj4SREw](https://www.youtube.com/watch?v=NoqAEj4SREw)
+* [Q&A: Can you show the Doggo Plushie, I'm waiting for mine?](../transcriptions/yt-rIWDa8fKA5A.md) [https://www.youtube.com/watch?v=rIWDa8fKA5A](https://www.youtube.com/watch?v=rIWDa8fKA5A)
+
 ## February 15th, 2022 Livestream
 * [Snutt & Jace Talk: Lego Constructor Set](../transcriptions/yt-H_6Boxjjt0E.md) [https://www.youtube.com/watch?v=H_6Boxjjt0E](https://www.youtube.com/watch?v=H_6Boxjjt0E)
 

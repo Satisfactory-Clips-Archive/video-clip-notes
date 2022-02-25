@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Speculative > Satisfactory Update 6
 
+## February 22nd, 2022 Livestream
+* [State of Dave](../../../transcriptions/yt-p1jNaTm6j2Q.md) [https://www.youtube.com/watch?v=p1jNaTm6j2Q](https://www.youtube.com/watch?v=p1jNaTm6j2Q)
+* [Q&A: More architecture coming in Update 6?](../../../transcriptions/yt-E_xludNxf08.md) [https://www.youtube.com/watch?v=E_xludNxf08](https://www.youtube.com/watch?v=E_xludNxf08)
+
 ## February 15th, 2022 Livestream
 * [Q&A: Update 6 release date?](../../../transcriptions/yt-abjQnsElsdQ.md) [https://www.youtube.com/watch?v=abjQnsElsdQ](https://www.youtube.com/watch?v=abjQnsElsdQ)
 

@@ -5,6 +5,12 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Creatures](../../../topics/environment/creatures.md) > Lizard Doggo
 
+## February 22nd, 2022 Livestream
+* [Community FYI: Bunny ears on the Doggo](../../../transcriptions/yt-cgAWGgg5z5I.md) [https://www.youtube.com/watch?v=cgAWGgg5z5I](https://www.youtube.com/watch?v=cgAWGgg5z5I)
+* [Q&A: Add plush Doggo to the second seat?](../../../transcriptions/yt-NoqAEj4SREw.md) [https://www.youtube.com/watch?v=NoqAEj4SREw](https://www.youtube.com/watch?v=NoqAEj4SREw)
+* [Q&A: When can you pick up the tamed Doggo?](../../../transcriptions/yt-VOpTrVlT95g.md) [https://www.youtube.com/watch?v=VOpTrVlT95g](https://www.youtube.com/watch?v=VOpTrVlT95g)
+* [Q&A: Can you show the Doggo Plushie, I'm waiting for mine?](../../../transcriptions/yt-rIWDa8fKA5A.md) [https://www.youtube.com/watch?v=rIWDa8fKA5A](https://www.youtube.com/watch?v=rIWDa8fKA5A)
+
 ## February 15th, 2022 Livestream
 * [Q&A: Doggo saddle, when?](../../../transcriptions/yt-uDasN7Z2m0s.md) [https://www.youtube.com/watch?v=uDasN7Z2m0s](https://www.youtube.com/watch?v=uDasN7Z2m0s)
 
