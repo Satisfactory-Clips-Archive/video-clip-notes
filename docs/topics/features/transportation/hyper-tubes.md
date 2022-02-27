@@ -9,7 +9,7 @@ date: Last Modified
 * [Q&A: Are you going to remove the Hypertube cannon?](../../../transcriptions/yt-R_3Ck6l2LeQ.md) [https://www.youtube.com/watch?v=R_3Ck6l2LeQ](https://www.youtube.com/watch?v=R_3Ck6l2LeQ)
 
 ## November 19th, 2021 Video
-* Jace Talk: Hyper Tube Floor Holes [https://youtube.com/clip/Ugkxn4E6P9A_dXA7_hcyEM6OcgCJHGzlR5d5](https://youtube.com/clip/Ugkxn4E6P9A_dXA7_hcyEM6OcgCJHGzlR5d5)
+* [Jace Talk: Hyper Tube Floor Holes](../../../transcriptions/yt-cn3e-m4a-hU,299.299,310.130083.md) [https://youtube.com/clip/Ugkxn4E6P9A_dXA7_hcyEM6OcgCJHGzlR5d5](https://youtube.com/clip/Ugkxn4E6P9A_dXA7_hcyEM6OcgCJHGzlR5d5)
 
 ## September 28th, 2021 Livestream
 * [Q&A: Will Lizard Doggos be able to use Hyper Tubes?](../../../transcriptions/yt-1TET5q4oqxU.md) [https://www.youtube.com/watch?v=1TET5q4oqxU](https://www.youtube.com/watch?v=1TET5q4oqxU)

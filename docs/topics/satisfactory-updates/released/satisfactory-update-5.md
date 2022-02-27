@@ -12,7 +12,7 @@ date: Last Modified
 * [Snutt Talk: Update 5](../../../transcriptions/yt-1Tksg738sHo,43.810433333333336,71.7717.md) [https://youtube.com/clip/UgkxE50Q9mVpMVOgZyshJU8yuNcOPd1-HFB-](https://youtube.com/clip/UgkxE50Q9mVpMVOgZyshJU8yuNcOPd1-HFB-)
 
 ## December 14th, 2021 Livestream
-* Snutt Talk: 2021 Retrospective [https://www.youtube.com/watch?v=4kbofImwd6Q](https://www.youtube.com/watch?v=4kbofImwd6Q)
+* [Snutt Talk: 2021 Retrospective](../../../transcriptions/yt-4kbofImwd6Q.md) [https://www.youtube.com/watch?v=4kbofImwd6Q](https://www.youtube.com/watch?v=4kbofImwd6Q)
 
 ## November 30th, 2021 Livestream
 * [State of Dev: We released Update 5 last week](../../../transcriptions/yt-YX82CfsFUo0.md) [https://www.youtube.com/watch?v=YX82CfsFUo0](https://www.youtube.com/watch?v=YX82CfsFUo0)
@@ -37,18 +37,18 @@ date: Last Modified
 * [Snutt & Jace Talk: Launcher issues](../../../transcriptions/yt-iVDRQg_aWpU,7310.916099,7363.546274.md) [https://youtube.com/clip/Ugkxxe5oLCLQG1rWyXjH4faPas26Wm_lyRv4](https://youtube.com/clip/Ugkxxe5oLCLQG1rWyXjH4faPas26Wm_lyRv4)
 
 ## November 19th, 2021 Video
-* Jace Talk: Update 5 Patch Notes [https://youtube.com/clip/Ugkx4s03_afe0j_tmoNIAcYKpCZ36cudctjG](https://youtube.com/clip/Ugkx4s03_afe0j_tmoNIAcYKpCZ36cudctjG)
-* Jace Talk: New Features [https://youtube.com/clip/UgkxVGpI6RKeOLjUhjj7Mle7nf05-P3dUnpe](https://youtube.com/clip/UgkxVGpI6RKeOLjUhjj7Mle7nf05-P3dUnpe)
-* Jace Talk: Global Grid [https://youtube.com/clip/UgkxYYKn50nMWydVSIirSpQ21Cn-8AV0AvOj](https://youtube.com/clip/UgkxYYKn50nMWydVSIirSpQ21Cn-8AV0AvOj)
-* Jace Talk: Equipment Volume sliders & Misophonia Mode [https://youtube.com/clip/UgkxdExcGCgt8gtUyWqurmz23EKyRuD4RTAN](https://youtube.com/clip/UgkxdExcGCgt8gtUyWqurmz23EKyRuD4RTAN)
-* Jace Talk: Sign Brightness & Sign Icons [https://youtube.com/clip/UgkxhrHcOYuP0o22omuwx9a45UjeHEnv6J0p](https://youtube.com/clip/UgkxhrHcOYuP0o22omuwx9a45UjeHEnv6J0p)
-* Jace Talk: Manually loading/unloading Vehicles [https://youtube.com/clip/UgkxN3HmnddArXfq0mErANSrEOxh3fihfGrp](https://youtube.com/clip/UgkxN3HmnddArXfq0mErANSrEOxh3fihfGrp)
-* Jace Talk: Block visualisation for Train rails [https://youtube.com/clip/UgkxWrsPPwpj4oNSAVI6M1eZ__J34DHpYO7r](https://youtube.com/clip/UgkxWrsPPwpj4oNSAVI6M1eZ__J34DHpYO7r)
-* Jace Talk: Hyper Tube Floor Holes [https://youtube.com/clip/Ugkxn4E6P9A_dXA7_hcyEM6OcgCJHGzlR5d5](https://youtube.com/clip/Ugkxn4E6P9A_dXA7_hcyEM6OcgCJHGzlR5d5)
-* Jace Talk: Dedicated Server improvements [https://youtube.com/clip/UgkxE0BKdRYgVb1NNgxmIbZelYfWcw7UjyFx](https://youtube.com/clip/UgkxE0BKdRYgVb1NNgxmIbZelYfWcw7UjyFx)
-* Jace Talk: Dedicated Servers for both Experimental & Early Access branch [https://youtube.com/clip/UgkxTS4Zpzn05CvMYsafgvSJzQQLTD2JNoEc](https://youtube.com/clip/UgkxTS4Zpzn05CvMYsafgvSJzQQLTD2JNoEc)
-* Jace Talk: DirectX 12 is now the default rendering API where supported [https://youtube.com/embed/cn3e-m4a-hU?autoplay=1&start=372&end=484](https://youtube.com/embed/cn3e-m4a-hU?autoplay=1&start=372&end=484)
-* Jace Talk: More bugfixes & Features planned for Update 5 [https://youtube.com/embed/cn3e-m4a-hU?autoplay=1&start=483&end=547](https://youtube.com/embed/cn3e-m4a-hU?autoplay=1&start=483&end=547)
+* [Jace Talk: Update 5 Patch Notes](../../../transcriptions/yt-cn3e-m4a-hU,40.90753333333333,74.24083333333334.md) [https://youtube.com/clip/Ugkx4s03_afe0j_tmoNIAcYKpCZ36cudctjG](https://youtube.com/clip/Ugkx4s03_afe0j_tmoNIAcYKpCZ36cudctjG)
+* [Jace Talk: New Features](../../../transcriptions/yt-cn3e-m4a-hU,74.27420000000001,104.87143333333333.md) [https://youtube.com/clip/UgkxVGpI6RKeOLjUhjj7Mle7nf05-P3dUnpe](https://youtube.com/clip/UgkxVGpI6RKeOLjUhjj7Mle7nf05-P3dUnpe)
+* [Jace Talk: Global Grid](../../../transcriptions/yt-cn3e-m4a-hU,104.90480000000001,130.8307.md) [https://youtube.com/clip/UgkxYYKn50nMWydVSIirSpQ21Cn-8AV0AvOj](https://youtube.com/clip/UgkxYYKn50nMWydVSIirSpQ21Cn-8AV0AvOj)
+* [Jace Talk: Equipment Volume sliders & Misophonia Mode](../../../transcriptions/yt-cn3e-m4a-hU,130.86406666666667,185.4853.md) [https://youtube.com/clip/UgkxdExcGCgt8gtUyWqurmz23EKyRuD4RTAN](https://youtube.com/clip/UgkxdExcGCgt8gtUyWqurmz23EKyRuD4RTAN)
+* [Jace Talk: Sign Brightness & Sign Icons](../../../transcriptions/yt-cn3e-m4a-hU,185.51866666666666,244.41083333333333.md) [https://youtube.com/clip/UgkxhrHcOYuP0o22omuwx9a45UjeHEnv6J0p](https://youtube.com/clip/UgkxhrHcOYuP0o22omuwx9a45UjeHEnv6J0p)
+* [Jace Talk: Manually loading/unloading Vehicles](../../../transcriptions/yt-cn3e-m4a-hU,244.4442,266.6664.md) [https://youtube.com/clip/UgkxN3HmnddArXfq0mErANSrEOxh3fihfGrp](https://youtube.com/clip/UgkxN3HmnddArXfq0mErANSrEOxh3fihfGrp)
+* [Jace Talk: Block visualisation for Train rails](../../../transcriptions/yt-cn3e-m4a-hU,266.6997666666667,299.2656333333333.md) [https://youtube.com/clip/UgkxWrsPPwpj4oNSAVI6M1eZ__J34DHpYO7r](https://youtube.com/clip/UgkxWrsPPwpj4oNSAVI6M1eZ__J34DHpYO7r)
+* [Jace Talk: Hyper Tube Floor Holes](../../../transcriptions/yt-cn3e-m4a-hU,299.299,310.130083.md) [https://youtube.com/clip/Ugkxn4E6P9A_dXA7_hcyEM6OcgCJHGzlR5d5](https://youtube.com/clip/Ugkxn4E6P9A_dXA7_hcyEM6OcgCJHGzlR5d5)
+* [Jace Talk: Dedicated Server improvements](../../../transcriptions/yt-cn3e-m4a-hU,310.17653333333334,333.07573.md) [https://youtube.com/clip/UgkxE0BKdRYgVb1NNgxmIbZelYfWcw7UjyFx](https://youtube.com/clip/UgkxE0BKdRYgVb1NNgxmIbZelYfWcw7UjyFx)
+* [Jace Talk: Dedicated Servers for both Experimental & Early Access branch](../../../transcriptions/yt-cn3e-m4a-hU,333.09943333333337,371.9716.md) [https://youtube.com/clip/UgkxTS4Zpzn05CvMYsafgvSJzQQLTD2JNoEc](https://youtube.com/clip/UgkxTS4Zpzn05CvMYsafgvSJzQQLTD2JNoEc)
+* [Jace Talk: DirectX 12 is now the default rendering API where supported](../../../transcriptions/yt-cn3e-m4a-hU,372.0049666666667,483.4162666666667.md) [https://youtube.com/embed/cn3e-m4a-hU?autoplay=1&start=372&end=484](https://youtube.com/embed/cn3e-m4a-hU?autoplay=1&start=372&end=484)
+* [Jace Talk: More bugfixes & Features planned for Update 5](../../../transcriptions/yt-cn3e-m4a-hU,483.44963333333334,546.0121333333334.md) [https://youtube.com/embed/cn3e-m4a-hU?autoplay=1&start=483&end=547](https://youtube.com/embed/cn3e-m4a-hU?autoplay=1&start=483&end=547)
 
 ## November 16th, 2021 Livestream
 * [State of Dev: Build server fell over](../../../transcriptions/yt-8wS_NI7M5NU.md) [https://www.youtube.com/watch?v=8wS_NI7M5NU](https://www.youtube.com/watch?v=8wS_NI7M5NU)

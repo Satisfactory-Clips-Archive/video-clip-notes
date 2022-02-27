@@ -8,7 +8,7 @@ topics:
 # [August 24th, 2021 Livestream](../2021-08-24.md)
 ## Q&A: How's the mug going along?
 https://www.youtube.com/watch?v=D_6lMCAJw6o
-This question was possibly duplicated with a more recent answer: December 14th, 2021 Livestream Q&A: Where's the Mug? [https://www.youtube.com/watch?v=vNCmjf3ERnY](https://www.youtube.com/watch?v=vNCmjf3ERnY)
+This question was possibly duplicated with a more recent answer: [December 14th, 2021 Livestream Q&A: Where's the Mug?](./yt-vNCmjf3ERnY.md) [https://www.youtube.com/watch?v=vNCmjf3ERnY](https://www.youtube.com/watch?v=vNCmjf3ERnY)
 
 
 ### Topics

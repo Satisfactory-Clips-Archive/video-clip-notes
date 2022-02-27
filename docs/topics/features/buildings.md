@@ -36,7 +36,7 @@ date: Last Modified
 * [Q&A: Will the FICS⁕MAS 2020 factory stuff still work?](../../transcriptions/yt-2jV6lzqCFrs.md) [https://www.youtube.com/watch?v=2jV6lzqCFrs](https://www.youtube.com/watch?v=2jV6lzqCFrs)
 
 ## November 19th, 2021 Video
-* Jace Talk: Manually loading/unloading Vehicles [https://youtube.com/clip/UgkxN3HmnddArXfq0mErANSrEOxh3fihfGrp](https://youtube.com/clip/UgkxN3HmnddArXfq0mErANSrEOxh3fihfGrp)
+* [Jace Talk: Manually loading/unloading Vehicles](../../transcriptions/yt-cn3e-m4a-hU,244.4442,266.6664.md) [https://youtube.com/clip/UgkxN3HmnddArXfq0mErANSrEOxh3fihfGrp](https://youtube.com/clip/UgkxN3HmnddArXfq0mErANSrEOxh3fihfGrp)
 
 ## November 16th, 2021 Livestream
 * [State of Dev: New features in patch](../../transcriptions/yt-AsUWCZCK4xY.md) [https://www.youtube.com/watch?v=AsUWCZCK4xY](https://www.youtube.com/watch?v=AsUWCZCK4xY)

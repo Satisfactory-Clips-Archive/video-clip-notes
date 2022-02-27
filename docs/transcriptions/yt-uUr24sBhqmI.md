@@ -8,7 +8,7 @@ topics:
 # [August 17th, 2021 Livestream](../2021-08-17.md)
 ## Q&A: When can I buy my official FICSIT Mug replicas?
 https://www.youtube.com/watch?v=uUr24sBhqmI
-This question was possibly duplicated with a more recent answer: December 14th, 2021 Livestream Q&A: Where's the Mug? [https://www.youtube.com/watch?v=vNCmjf3ERnY](https://www.youtube.com/watch?v=vNCmjf3ERnY)
+This question was possibly duplicated with a more recent answer: [December 14th, 2021 Livestream Q&A: Where's the Mug?](./yt-vNCmjf3ERnY.md) [https://www.youtube.com/watch?v=vNCmjf3ERnY](https://www.youtube.com/watch?v=vNCmjf3ERnY)
 
 
 ### Topics

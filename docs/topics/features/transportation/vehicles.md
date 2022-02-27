@@ -39,7 +39,7 @@ date: Last Modified
 * [Q&A: Why hasn't Coffee Stain fixed inverted mouse on Vehicles?](../../../transcriptions/yt-iVDRQg_aWpU,5574.738038,5618.038897.md) [https://youtube.com/clip/UgkxRC2q3FEVwELO6o5l3M_rG5RddCytjy52](https://youtube.com/clip/UgkxRC2q3FEVwELO6o5l3M_rG5RddCytjy52)
 
 ## November 19th, 2021 Video
-* Jace Talk: Manually loading/unloading Vehicles [https://youtube.com/clip/UgkxN3HmnddArXfq0mErANSrEOxh3fihfGrp](https://youtube.com/clip/UgkxN3HmnddArXfq0mErANSrEOxh3fihfGrp)
+* [Jace Talk: Manually loading/unloading Vehicles](../../../transcriptions/yt-cn3e-m4a-hU,244.4442,266.6664.md) [https://youtube.com/clip/UgkxN3HmnddArXfq0mErANSrEOxh3fihfGrp](https://youtube.com/clip/UgkxN3HmnddArXfq0mErANSrEOxh3fihfGrp)
 
 ## November 16th, 2021 Livestream
 * [State of Dev: Update 5 Issues](../../../transcriptions/yt-yN7CBElEeY0.md) [https://www.youtube.com/watch?v=yN7CBElEeY0](https://www.youtube.com/watch?v=yN7CBElEeY0)

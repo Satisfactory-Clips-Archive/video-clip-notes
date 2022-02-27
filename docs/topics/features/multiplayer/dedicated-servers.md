@@ -45,8 +45,8 @@ date: Last Modified
 * [Q&A: Which app ids are there for the server branches on SteamCMD?](../../../transcriptions/yt-iVDRQg_aWpU,7363.566018373456,7451.537169.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=7363&end=7452](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=7363&end=7452)
 
 ## November 19th, 2021 Video
-* Jace Talk: Dedicated Server improvements [https://youtube.com/clip/UgkxE0BKdRYgVb1NNgxmIbZelYfWcw7UjyFx](https://youtube.com/clip/UgkxE0BKdRYgVb1NNgxmIbZelYfWcw7UjyFx)
-* Jace Talk: Dedicated Servers for both Experimental & Early Access branch [https://youtube.com/clip/UgkxTS4Zpzn05CvMYsafgvSJzQQLTD2JNoEc](https://youtube.com/clip/UgkxTS4Zpzn05CvMYsafgvSJzQQLTD2JNoEc)
+* [Jace Talk: Dedicated Server improvements](../../../transcriptions/yt-cn3e-m4a-hU,310.17653333333334,333.07573.md) [https://youtube.com/clip/UgkxE0BKdRYgVb1NNgxmIbZelYfWcw7UjyFx](https://youtube.com/clip/UgkxE0BKdRYgVb1NNgxmIbZelYfWcw7UjyFx)
+* [Jace Talk: Dedicated Servers for both Experimental & Early Access branch](../../../transcriptions/yt-cn3e-m4a-hU,333.09943333333337,371.9716.md) [https://youtube.com/clip/UgkxTS4Zpzn05CvMYsafgvSJzQQLTD2JNoEc](https://youtube.com/clip/UgkxTS4Zpzn05CvMYsafgvSJzQQLTD2JNoEc)
 
 ## November 16th, 2021 Livestream
 * [Q&A: Will the Server be multi-threaded like the game client?](../../../transcriptions/yt-G58lDUp0lhk.md) [https://www.youtube.com/watch?v=G58lDUp0lhk](https://www.youtube.com/watch?v=G58lDUp0lhk)

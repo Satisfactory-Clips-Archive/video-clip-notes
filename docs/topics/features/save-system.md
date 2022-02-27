@@ -22,7 +22,7 @@ date: Last Modified
 * [Q&A: Where are the save files actually located?](../../transcriptions/yt-iVDRQg_aWpU,6133.666132253086,6201.518444.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6133&end=6202](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6133&end=6202)
 
 ## November 19th, 2021 Video
-* Jace Talk: Dedicated Server improvements [https://youtube.com/clip/UgkxE0BKdRYgVb1NNgxmIbZelYfWcw7UjyFx](https://youtube.com/clip/UgkxE0BKdRYgVb1NNgxmIbZelYfWcw7UjyFx)
+* [Jace Talk: Dedicated Server improvements](../../transcriptions/yt-cn3e-m4a-hU,310.17653333333334,333.07573.md) [https://youtube.com/clip/UgkxE0BKdRYgVb1NNgxmIbZelYfWcw7UjyFx](https://youtube.com/clip/UgkxE0BKdRYgVb1NNgxmIbZelYfWcw7UjyFx)
 
 ## November 16th, 2021 Livestream
 * [Q&A: Can Experimental saves be moved over to Early Access without issue?](../../transcriptions/yt-nPj_soas-a8.md) [https://www.youtube.com/watch?v=nPj_soas-a8](https://www.youtube.com/watch?v=nPj_soas-a8)

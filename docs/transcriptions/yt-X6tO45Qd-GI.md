@@ -8,7 +8,7 @@ topics:
 # [August 10th, 2021 Livestream](../2021-08-10.md)
 ## Q&A: What is with the Mug?
 https://www.youtube.com/watch?v=X6tO45Qd-GI
-This question was possibly duplicated with a more recent answer: December 14th, 2021 Livestream Q&A: Where's the Mug? [https://www.youtube.com/watch?v=vNCmjf3ERnY](https://www.youtube.com/watch?v=vNCmjf3ERnY)
+This question was possibly duplicated with a more recent answer: [December 14th, 2021 Livestream Q&A: Where's the Mug?](./yt-vNCmjf3ERnY.md) [https://www.youtube.com/watch?v=vNCmjf3ERnY](https://www.youtube.com/watch?v=vNCmjf3ERnY)
 
 
 ### Topics

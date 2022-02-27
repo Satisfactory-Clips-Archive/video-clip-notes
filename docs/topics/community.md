@@ -50,7 +50,7 @@ date: Last Modified
 * [Snutt Talk: 2022](../transcriptions/yt-1Tksg738sHo,160.0599.md) [https://youtube.com/clip/UgkxFbGdaZLBR99g8iunPzTYy2wEncT59SJn](https://youtube.com/clip/UgkxFbGdaZLBR99g8iunPzTYy2wEncT59SJn)
 
 ## December 14th, 2021 Livestream
-* Snutt Talk: 2021 Retrospective [https://www.youtube.com/watch?v=4kbofImwd6Q](https://www.youtube.com/watch?v=4kbofImwd6Q)
+* [Snutt Talk: 2021 Retrospective](../transcriptions/yt-4kbofImwd6Q.md) [https://www.youtube.com/watch?v=4kbofImwd6Q](https://www.youtube.com/watch?v=4kbofImwd6Q)
 * [Snutt Talk: Streaming for 2021](../transcriptions/yt-lgl2itXqWNU.md) [https://www.youtube.com/watch?v=lgl2itXqWNU](https://www.youtube.com/watch?v=lgl2itXqWNU)
 
 ## November 30th, 2021 Livestream

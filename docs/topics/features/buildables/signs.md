@@ -18,7 +18,7 @@ date: Last Modified
 * [Q&A: Any plans to add emotes to signs or expand their functionality in other ways?](../../../transcriptions/yt-IWp55tlEaSg.md) [https://www.youtube.com/watch?v=IWp55tlEaSg](https://www.youtube.com/watch?v=IWp55tlEaSg)
 
 ## November 19th, 2021 Video
-* Jace Talk: Sign Brightness & Sign Icons [https://youtube.com/clip/UgkxhrHcOYuP0o22omuwx9a45UjeHEnv6J0p](https://youtube.com/clip/UgkxhrHcOYuP0o22omuwx9a45UjeHEnv6J0p)
+* [Jace Talk: Sign Brightness & Sign Icons](../../../transcriptions/yt-cn3e-m4a-hU,185.51866666666666,244.41083333333333.md) [https://youtube.com/clip/UgkxhrHcOYuP0o22omuwx9a45UjeHEnv6J0p](https://youtube.com/clip/UgkxhrHcOYuP0o22omuwx9a45UjeHEnv6J0p)
 
 ## November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary
 * [Q&A: Were you guys tempted to tease Signs?](../../../transcriptions/yt-Ib7eDlYKTtc.md) [https://www.youtube.com/watch?v=Ib7eDlYKTtc](https://www.youtube.com/watch?v=Ib7eDlYKTtc)

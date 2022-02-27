@@ -8,7 +8,7 @@ topics:
 # [May 25th, 2021 Livestream](../2021-05-25.md)
 ## Q&A: What about the enamel cup?
 https://www.youtube.com/watch?v=bv7CJbAYnBM
-This question was possibly duplicated with a more recent answer: December 14th, 2021 Livestream Q&A: Where's the Mug? [https://www.youtube.com/watch?v=vNCmjf3ERnY](https://www.youtube.com/watch?v=vNCmjf3ERnY)
+This question was possibly duplicated with a more recent answer: [December 14th, 2021 Livestream Q&A: Where's the Mug?](./yt-vNCmjf3ERnY.md) [https://www.youtube.com/watch?v=vNCmjf3ERnY](https://www.youtube.com/watch?v=vNCmjf3ERnY)
 
 
 ### Topics

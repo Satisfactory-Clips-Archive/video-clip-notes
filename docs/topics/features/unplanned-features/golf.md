@@ -12,7 +12,7 @@ date: Last Modified
 * [Q&A: Golf, when?](../../../transcriptions/yt-7izKxTtG3js.md) [https://www.youtube.com/watch?v=7izKxTtG3js](https://www.youtube.com/watch?v=7izKxTtG3js)
 
 ## December 7th, 2021 Livestream
-* Q&A: When's Golf? [https://www.youtube.com/watch?v=hhZq5M3I8Io](https://www.youtube.com/watch?v=hhZq5M3I8Io)
+* [Q&A: When's Golf?](../../../transcriptions/yt-hhZq5M3I8Io.md) [https://www.youtube.com/watch?v=hhZq5M3I8Io](https://www.youtube.com/watch?v=hhZq5M3I8Io)
 
 ## November 23rd, 2021 Livestream
 * [Trolling: Golf is in Patch Notes](../../../transcriptions/yt-iVDRQg_aWpU,1081.7999333518518,1089.961643.md) [https://youtube.com/clip/UgkxlApmn76Rq_kH0dGYjDKWysApMOUxCjr_](https://youtube.com/clip/UgkxlApmn76Rq_kH0dGYjDKWysApMOUxCjr_)

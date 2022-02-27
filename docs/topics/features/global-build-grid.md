@@ -6,7 +6,7 @@ date: Last Modified
 # [Topics](../../topics.md) > [Features](../../topics/features.md) > Global Build Grid
 
 ## November 19th, 2021 Video
-* Jace Talk: Global Grid [https://youtube.com/clip/UgkxYYKn50nMWydVSIirSpQ21Cn-8AV0AvOj](https://youtube.com/clip/UgkxYYKn50nMWydVSIirSpQ21Cn-8AV0AvOj)
+* [Jace Talk: Global Grid](../../transcriptions/yt-cn3e-m4a-hU,104.90480000000001,130.8307.md) [https://youtube.com/clip/UgkxYYKn50nMWydVSIirSpQ21Cn-8AV0AvOj](https://youtube.com/clip/UgkxYYKn50nMWydVSIirSpQ21Cn-8AV0AvOj)
 
 ## November 16th, 2021 Livestream
 * [State of Dev: New features in patch](../../transcriptions/yt-AsUWCZCK4xY.md) [https://www.youtube.com/watch?v=AsUWCZCK4xY](https://www.youtube.com/watch?v=AsUWCZCK4xY)

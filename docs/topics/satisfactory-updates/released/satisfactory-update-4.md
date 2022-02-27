@@ -9,7 +9,7 @@ date: Last Modified
 * [Snutt Talk: Update 4](../../../transcriptions/yt-1Tksg738sHo,18.8188,43.77706666666667.md) [https://youtube.com/clip/Ugkxv8gfJKCDZbsE2wAIflV6PTGyJKj-RUmT](https://youtube.com/clip/Ugkxv8gfJKCDZbsE2wAIflV6PTGyJKj-RUmT)
 
 ## December 14th, 2021 Livestream
-* Snutt Talk: 2021 Retrospective [https://www.youtube.com/watch?v=4kbofImwd6Q](https://www.youtube.com/watch?v=4kbofImwd6Q)
+* [Snutt Talk: 2021 Retrospective](../../../transcriptions/yt-4kbofImwd6Q.md) [https://www.youtube.com/watch?v=4kbofImwd6Q](https://www.youtube.com/watch?v=4kbofImwd6Q)
 
 ## November 23rd, 2021 Livestream
 * [Q&A: When does Update 4 come out? When does Update 5 come out?](../../../transcriptions/yt-iVDRQg_aWpU,4247.4996402314814,4257.680472.md) [https://youtube.com/clip/Ugkx0M7IL9HWyAOlW8R52zlg_2J-V7T2t6rI](https://youtube.com/clip/Ugkx0M7IL9HWyAOlW8R52zlg_2J-V7T2t6rI)

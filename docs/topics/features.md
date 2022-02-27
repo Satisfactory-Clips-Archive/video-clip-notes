@@ -28,7 +28,7 @@ date: Last Modified
 * [Unreleased Features](../topics/features/unreleased-features.md)
 
 ## November 19th, 2021 Video
-* Jace Talk: New Features [https://youtube.com/clip/UgkxVGpI6RKeOLjUhjj7Mle7nf05-P3dUnpe](https://youtube.com/clip/UgkxVGpI6RKeOLjUhjj7Mle7nf05-P3dUnpe)
+* [Jace Talk: New Features](../transcriptions/yt-cn3e-m4a-hU,74.27420000000001,104.87143333333333.md) [https://youtube.com/clip/UgkxVGpI6RKeOLjUhjj7Mle7nf05-P3dUnpe](https://youtube.com/clip/UgkxVGpI6RKeOLjUhjj7Mle7nf05-P3dUnpe)
 
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
 * Q&A: Tell us your favourite part about working for Coffee Stain? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=9316&end=9388](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=9316&end=9388)

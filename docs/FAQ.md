@@ -1103,7 +1103,16 @@ date: Last Modified
 </details>
 
 ## [December 14th, 2021 Livestream](./2021-12-14.md)
-### Q&A: Where's the Mug? [https://www.youtube.com/watch?v=vNCmjf3ERnY](https://www.youtube.com/watch?v=vNCmjf3ERnY)
+### [Q&A: Where's the Mug?](./transcriptions/yt-vNCmjf3ERnY.md) [https://www.youtube.com/watch?v=vNCmjf3ERnY](https://www.youtube.com/watch?v=vNCmjf3ERnY)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> where's the mug the mug is like um we ran into some complications with uh due to kovid um and um yeah unfortunately like most of our merch situation got a big setback because of that um so i think that's that's the tl dr i don't know the specifics about it but that's that's a bummer thing about it so yes
+
+
+</details>
 
 <details>
 <summary>This question may have been asked previously at least 21 other times, as recently as November 2021 and as early as February 2021.</summary>
@@ -1221,7 +1230,7 @@ date: Last Modified
 <details>
 <summary>This question may have been asked previously at least 3 other times, as recently as December 2021 and as early as November 2021.</summary>
 
-* December 7th, 2021 Livestream Q&A: When's Golf? [https://www.youtube.com/watch?v=hhZq5M3I8Io](https://www.youtube.com/watch?v=hhZq5M3I8Io)
+* [December 7th, 2021 Livestream Q&A: When's Golf?](./transcriptions/yt-hhZq5M3I8Io.md) [https://www.youtube.com/watch?v=hhZq5M3I8Io](https://www.youtube.com/watch?v=hhZq5M3I8Io)
 * [November 23rd, 2021 Livestream Q&A: Golf, when?](./transcriptions/yt-iVDRQg_aWpU,5188.73288641358,5195.520066.md) [https://youtube.com/clip/UgkxtKr3YShULCOATqNTspPVmbJ_hDuQi765](https://youtube.com/clip/UgkxtKr3YShULCOATqNTspPVmbJ_hDuQi765)
 * [November 9th, 2021 Livestream Q&A: Golf, when?](./transcriptions/yt-kYn6eCYtK6w.md) [https://www.youtube.com/watch?v=kYn6eCYtK6w](https://www.youtube.com/watch?v=kYn6eCYtK6w)
 </details>
@@ -1526,7 +1535,16 @@ date: Last Modified
 * [October 1st, 2020 Q&A: Any plans to make more randomness like resources, start locations, other random world elements?](./transcriptions/yt-rATcozDE25c,632.7321000000001,695.2278666666667.md) [https://youtube.com/embed/rATcozDE25c?autoplay=1&start=632&end=696](https://youtube.com/embed/rATcozDE25c?autoplay=1&start=632&end=696)
 </details>
 
-### Q&A: Weapon item holstering coming soon? [https://www.youtube.com/watch?v=JzPjAXwcKx8](https://www.youtube.com/watch?v=JzPjAXwcKx8)
+### [Q&A: Weapon item holstering coming soon?](./transcriptions/yt-JzPjAXwcKx8.md) [https://www.youtube.com/watch?v=JzPjAXwcKx8](https://www.youtube.com/watch?v=JzPjAXwcKx8)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> weapon item holstering coming soon no not soon maybe in maybe if you plea on the keyway side i've wanted that for a long time i just i don't know what the hole up is
+
+
+</details>
 
 <details>
 <summary>This question may have been asked previously at least 3 other times, as recently as April 2021 and as early as May 2020.</summary>
@@ -1900,7 +1918,20 @@ date: Last Modified
 * [June 22nd, 2018 Q&A: Is there a height limit in the game?](./transcriptions/yt-W1E6EWrAsII,434.4,492.52.md) [https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=434&end=493](https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=434&end=493)
 </details>
 
-### Q&A: Who is the voice for ADA? [https://www.youtube.com/watch?v=5_yx7QQx9HU](https://www.youtube.com/watch?v=5_yx7QQx9HU)
+### [Q&A: Who is the voice for ADA?](./transcriptions/yt-5_yx7QQx9HU.md) [https://www.youtube.com/watch?v=5_yx7QQx9HU](https://www.youtube.com/watch?v=5_yx7QQx9HU)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> who is the voice for aydah it's actually me yeah i didn't i didn't know that yeah yeah no i i uh i just smashed those voice lines out real quick damn whenever hannah's like we need a new one i'm like okay can you give me one right now yeah yeah i can howdy pardon my name's aydah and i'm your hey
+>
+> [Laughter]
+>
+> uh no yeah no way there's actually google's text-to-speech one of the google's speech yeah it's google text-to-speech um stupid uh yeah yeah actually literally google takes a speech with like a tiny bit of uh processing done to it but uh yeah it's like actually i can't remember which which which text-to-speech it is wavenet c if you go and find it you can uh scoot around and uh check them all out and you'll find data you can also google if you google ada satisfactory it says on the wiki which one it is as well if you want to get a direct link to it but yeah it's wavenet c that's some people point out
+
+
+</details>
 
 <details>
 <summary>This question may have been asked previously at least 5 other times, as recently as May 2021 and as early as December 2019.</summary>

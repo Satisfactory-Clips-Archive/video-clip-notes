@@ -16,7 +16,7 @@ date: Last Modified
 * [Q&A: When are we going to see placeable Wall Conveyor holes?](../../../transcriptions/yt-sKqIciW-TVQ.md) [https://www.youtube.com/watch?v=sKqIciW-TVQ](https://www.youtube.com/watch?v=sKqIciW-TVQ)
 
 ## December 7th, 2021 Livestream
-* Q&A: What about the Conveyor Belts & Pure stuff? [https://www.youtube.com/watch?v=4dWqAzXRySk](https://www.youtube.com/watch?v=4dWqAzXRySk)
+* [Q&A: What about the Conveyor Belts & Pure stuff?](../../../transcriptions/yt-4dWqAzXRySk.md) [https://www.youtube.com/watch?v=4dWqAzXRySk](https://www.youtube.com/watch?v=4dWqAzXRySk)
 * [Q&A: What happened with the Conveyor Belt skin?](../../../transcriptions/yt-HWlLqhvdcbI.md) [https://www.youtube.com/watch?v=HWlLqhvdcbI](https://www.youtube.com/watch?v=HWlLqhvdcbI)
 * [Community FYI: Rebalancing entire game would be a funny April Fool's joke](../../../transcriptions/yt-x4atGQF4SM0.md) [https://www.youtube.com/watch?v=x4atGQF4SM0](https://www.youtube.com/watch?v=x4atGQF4SM0)
 * [Q&A: Are there plans for better Splitters, like with configurable ratios?](../../../transcriptions/yt-dI37z27JZfw.md) [https://www.youtube.com/watch?v=dI37z27JZfw](https://www.youtube.com/watch?v=dI37z27JZfw)

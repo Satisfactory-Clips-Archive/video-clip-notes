@@ -8,7 +8,7 @@ topics:
 # [March 24th, 2020 Livestream](../2020-03-24.md)
 ## Q&A: Who speaks ADA?
 https://www.youtube.com/watch?v=aYUTkfL-jKk
-This question was possibly duplicated with a more recent answer: November 16th, 2021 Livestream Q&A: Who is the voice for ADA? [https://www.youtube.com/watch?v=5_yx7QQx9HU](https://www.youtube.com/watch?v=5_yx7QQx9HU)
+This question was possibly duplicated with a more recent answer: [November 16th, 2021 Livestream Q&A: Who is the voice for ADA?](./yt-5_yx7QQx9HU.md) [https://www.youtube.com/watch?v=5_yx7QQx9HU](https://www.youtube.com/watch?v=5_yx7QQx9HU)
 
 
 ### Topics

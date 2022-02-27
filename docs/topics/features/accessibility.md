@@ -10,7 +10,7 @@ date: Last Modified
 * [Q&A: What if you're both Arachnophobic and Ailurophobic?](../../transcriptions/yt-he-m1c2zsTI.md) [https://www.youtube.com/watch?v=he-m1c2zsTI](https://www.youtube.com/watch?v=he-m1c2zsTI)
 
 ## November 19th, 2021 Video
-* Jace Talk: Equipment Volume sliders & Misophonia Mode [https://youtube.com/clip/UgkxdExcGCgt8gtUyWqurmz23EKyRuD4RTAN](https://youtube.com/clip/UgkxdExcGCgt8gtUyWqurmz23EKyRuD4RTAN)
+* [Jace Talk: Equipment Volume sliders & Misophonia Mode](../../transcriptions/yt-cn3e-m4a-hU,130.86406666666667,185.4853.md) [https://youtube.com/clip/UgkxdExcGCgt8gtUyWqurmz23EKyRuD4RTAN](https://youtube.com/clip/UgkxdExcGCgt8gtUyWqurmz23EKyRuD4RTAN)
 
 ## November 16th, 2021 Livestream
 * [State of Dev: New features in patch](../../transcriptions/yt-AsUWCZCK4xY.md) [https://www.youtube.com/watch?v=AsUWCZCK4xY](https://www.youtube.com/watch?v=AsUWCZCK4xY)

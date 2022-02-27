@@ -9,13 +9,13 @@ date: Last Modified
 * [Snutt & Jace Talk: If your game is crashing because of something related to DirectX blah](../../transcriptions/yt-AzF9_sSAW_A.md) [https://www.youtube.com/watch?v=AzF9_sSAW_A](https://www.youtube.com/watch?v=AzF9_sSAW_A)
 
 ## December 7th, 2021 Livestream
-* Q&A: Will you keep DirectX 11 support in future Updates? [https://www.youtube.com/watch?v=lV97VTEtsWs](https://www.youtube.com/watch?v=lV97VTEtsWs)
+* [Q&A: Will you keep DirectX 11 support in future Updates?](../../transcriptions/yt-lV97VTEtsWs.md) [https://www.youtube.com/watch?v=lV97VTEtsWs](https://www.youtube.com/watch?v=lV97VTEtsWs)
 
 ## November 30th, 2021 Livestream
 * [Q&A: My save file gives me 10fps, will Update 5 fix that?](../../transcriptions/yt-jrLaGcqLbls.md) [https://www.youtube.com/watch?v=jrLaGcqLbls](https://www.youtube.com/watch?v=jrLaGcqLbls)
 
 ## November 19th, 2021 Video
-* Jace Talk: DirectX 12 is now the default rendering API where supported [https://youtube.com/embed/cn3e-m4a-hU?autoplay=1&start=372&end=484](https://youtube.com/embed/cn3e-m4a-hU?autoplay=1&start=372&end=484)
+* [Jace Talk: DirectX 12 is now the default rendering API where supported](../../transcriptions/yt-cn3e-m4a-hU,372.0049666666667,483.4162666666667.md) [https://youtube.com/embed/cn3e-m4a-hU?autoplay=1&start=372&end=484](https://youtube.com/embed/cn3e-m4a-hU?autoplay=1&start=372&end=484)
 
 ## November 16th, 2021 Livestream
 * [State of Dev: DirectX 12 will now be the default rendering API](../../transcriptions/yt-7yfr4v2z1Z0.md) [https://www.youtube.com/watch?v=7yfr4v2z1Z0](https://www.youtube.com/watch?v=7yfr4v2z1Z0)

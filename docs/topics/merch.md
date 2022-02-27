@@ -38,7 +38,7 @@ date: Last Modified
 * [Q&A: Merch?](../transcriptions/yt-GIt6rBSQqIk.md) [https://www.youtube.com/watch?v=GIt6rBSQqIk](https://www.youtube.com/watch?v=GIt6rBSQqIk)
 
 ## December 14th, 2021 Livestream
-* Q&A: Where's the Mug? [https://www.youtube.com/watch?v=vNCmjf3ERnY](https://www.youtube.com/watch?v=vNCmjf3ERnY)
+* [Q&A: Where's the Mug?](../transcriptions/yt-vNCmjf3ERnY.md) [https://www.youtube.com/watch?v=vNCmjf3ERnY](https://www.youtube.com/watch?v=vNCmjf3ERnY)
 
 ## November 30th, 2021 Livestream
 * [Q&A: Is there going to be a Chainsaw someday in the Merch store?](../transcriptions/yt-AygnkgeupMU.md) [https://www.youtube.com/watch?v=AygnkgeupMU](https://www.youtube.com/watch?v=AygnkgeupMU)

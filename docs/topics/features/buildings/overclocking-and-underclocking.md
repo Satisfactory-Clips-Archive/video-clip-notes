@@ -9,7 +9,7 @@ date: Last Modified
 * [Q&A: Overclocking above 250%?](../../../transcriptions/yt-iVGvecv9U6M.md) [https://www.youtube.com/watch?v=iVGvecv9U6M](https://www.youtube.com/watch?v=iVGvecv9U6M)
 
 ## December 7th, 2021 Livestream
-* Q&A: What about the Conveyor Belts & Pure stuff? [https://www.youtube.com/watch?v=4dWqAzXRySk](https://www.youtube.com/watch?v=4dWqAzXRySk)
+* [Q&A: What about the Conveyor Belts & Pure stuff?](../../../transcriptions/yt-4dWqAzXRySk.md) [https://www.youtube.com/watch?v=4dWqAzXRySk](https://www.youtube.com/watch?v=4dWqAzXRySk)
 * [Community FYI: Rebalancing entire game would be a funny April Fool's joke](../../../transcriptions/yt-x4atGQF4SM0.md) [https://www.youtube.com/watch?v=x4atGQF4SM0](https://www.youtube.com/watch?v=x4atGQF4SM0)
 * [Q&A: Are the Power Shards working well, or are they bugged?](../../../transcriptions/yt-LoQRxymlI4A.md) [https://www.youtube.com/watch?v=LoQRxymlI4A](https://www.youtube.com/watch?v=LoQRxymlI4A)
 

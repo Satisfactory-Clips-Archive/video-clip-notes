@@ -19,8 +19,8 @@ date: Last Modified
 * [Q&A: How do I reset my keybindings?](../../transcriptions/yt-vTJEhrMDbwo.md) [https://www.youtube.com/watch?v=vTJEhrMDbwo](https://www.youtube.com/watch?v=vTJEhrMDbwo)
 
 ## November 19th, 2021 Video
-* Jace Talk: Equipment Volume sliders & Misophonia Mode [https://youtube.com/clip/UgkxdExcGCgt8gtUyWqurmz23EKyRuD4RTAN](https://youtube.com/clip/UgkxdExcGCgt8gtUyWqurmz23EKyRuD4RTAN)
-* Jace Talk: Block visualisation for Train rails [https://youtube.com/clip/UgkxWrsPPwpj4oNSAVI6M1eZ__J34DHpYO7r](https://youtube.com/clip/UgkxWrsPPwpj4oNSAVI6M1eZ__J34DHpYO7r)
+* [Jace Talk: Equipment Volume sliders & Misophonia Mode](../../transcriptions/yt-cn3e-m4a-hU,130.86406666666667,185.4853.md) [https://youtube.com/clip/UgkxdExcGCgt8gtUyWqurmz23EKyRuD4RTAN](https://youtube.com/clip/UgkxdExcGCgt8gtUyWqurmz23EKyRuD4RTAN)
+* [Jace Talk: Block visualisation for Train rails](../../transcriptions/yt-cn3e-m4a-hU,266.6997666666667,299.2656333333333.md) [https://youtube.com/clip/UgkxWrsPPwpj4oNSAVI6M1eZ__J34DHpYO7r](https://youtube.com/clip/UgkxWrsPPwpj4oNSAVI6M1eZ__J34DHpYO7r)
 
 ## November 12th, 2021 Video
 * Snutt Talk: Colours [https://youtube.com/embed/8Tok_vdqZH8?autoplay=1&start=398&end=472](https://youtube.com/embed/8Tok_vdqZH8?autoplay=1&start=398&end=472)
