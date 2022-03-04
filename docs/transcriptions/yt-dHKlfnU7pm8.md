@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [December 14th,
 
 ### Transcript
 
-> how many updates before release we haven't decided on like a number or anything like that that can change, , we have said that we're releasing update five and, there's probably one people yeah yeah it's probably gonna be another one at least another one after that at least it could be more than one more but yeah we'll see
+> how many updates before release we haven't decided on like a number or anything like that that can change, we have said that we're releasing update five and, there's probably one people yeah yeah it's probably gonna be another one at least another one after that at least it could be more than one more but yeah we'll see

@@ -16,7 +16,7 @@ This question was possibly duplicated with a more recent answer: [February 26th,
 
 ### Transcript
 
-> yeah, , a few people asking about, sort of can they play their are they access save on experimental et cetera et cetera, yeah so the system has been this way, all along where like when when the early access version updates it's just going to get replaced with the experimental version right which means your save files are compatible with experimental so you if you want to switch to the experimental version now using your world or whatever, your save files you can do that a good thing to always do just make a backup just because
+> yeah, a few people asking about, sort of can they play their are they access save on experimental et cetera et cetera, yeah so the system has been this way, all along where like when when the early access version updates it's just going to get replaced with the experimental version right which means your save files are compatible with experimental so you if you want to switch to the experimental version now using your world or whatever, your save files you can do that a good thing to always do just make a backup just because
 >
 > [Music]
 >

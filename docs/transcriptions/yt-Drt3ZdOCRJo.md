@@ -20,4 +20,4 @@ https://www.youtube.com/watch?v=Drt3ZdOCRJo
 >
 > [Music]
 >
-> so I don't know if that's gonna make sense in the next update if there is a next update will there be an update six I don't know, anyway so, , so yeah like we don't know exactly when that world branch will get merged in so we don't know if update 6 will have any world changes actually, that's the end of that
+> so I don't know if that's gonna make sense in the next update if there is a next update will there be an update six I don't know, anyway so, so yeah like we don't know exactly when that world branch will get merged in so we don't know if update 6 will have any world changes actually, that's the end of that

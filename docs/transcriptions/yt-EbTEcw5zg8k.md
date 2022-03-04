@@ -20,4 +20,4 @@ This question was possibly duplicated with a more recent answer: [February 11th,
 
 ### Transcript
 
-> given how often blueprint keeps being requested it really needs to be adopted, , sure but it's also highly requested that like they people want more enemies in the game and like tower defense and stuff like that and it's also not something that we want to do, so like that's why this is such a heated debate internally even of like what makes the game fun because the game can't be fun for everyone so you have to make some some decisions there albeit I think it would be dope
+> given how often blueprint keeps being requested it really needs to be adopted, sure but it's also highly requested that like they people want more enemies in the game and like tower defense and stuff like that and it's also not something that we want to do, so like that's why this is such a heated debate internally even of like what makes the game fun because the game can't be fun for everyone so you have to make some some decisions there albeit I think it would be dope

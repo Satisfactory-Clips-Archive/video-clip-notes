@@ -20,4 +20,4 @@ This question was possibly duplicated with a more recent answer: [October 19th, 
 
 ### Transcript
 
-> oh mark three minor with 1200 resources per minute what, , come back where'd you go, the belt is only 780 so if there are two outputs we can get the resources, now I see what you mean, I don't know what's planned for that, I think the minor mark 3 might change a little bit in the future, maybe not we've talked about this a long time, internally so maybe we won't change it but we've talked a little bit about doing some changes to my the minor mark iii but we'll see
+> oh mark three minor with 1200 resources per minute what, come back where'd you go, the belt is only 780 so if there are two outputs we can get the resources, now I see what you mean, I don't know what's planned for that, I think the minor mark 3 might change a little bit in the future, maybe not we've talked about this a long time, internally so maybe we won't change it but we've talked a little bit about doing some changes to my the minor mark iii but we'll see

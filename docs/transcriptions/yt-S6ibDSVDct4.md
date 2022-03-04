@@ -94,4 +94,4 @@ https://www.youtube.com/watch?v=S6ibDSVDct4
 >
 > [Laughter]
 >
-> showing how the sausage is made truly this is truly raw this is straight up sausage meat oh [ __ ] but we ended up doing we ended up doing this shot instead because it's a pretty easy vfx shot this wasn't planned so I'm sorry simon that you just got this like last second but, , it's working yeah it worked out really well there was no animation so that's like the big big hurdle when it comes to that kind of stuff so worked out and yeah the train stuff
+> showing how the sausage is made truly this is truly raw this is straight up sausage meat oh [ __ ] but we ended up doing we ended up doing this shot instead because it's a pretty easy vfx shot this wasn't planned so I'm sorry simon that you just got this like last second but, it's working yeah it worked out really well there was no animation so that's like the big big hurdle when it comes to that kind of stuff so worked out and yeah the train stuff

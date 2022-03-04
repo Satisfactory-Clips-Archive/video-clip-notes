@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [September 28th
 
 ### Transcript
 
-> so, are you adding a hard mode how does it affect normal gameplay so, additional game modes are something that we've talked about, that we want to add just, not yet, so yeah, people want peaceful mode or creative mode a hard mode makes sense as well what whatever that could be maybe you know I think permadeath could be something that could be interesting but it could also be, , just harder production or something I don't know whatever this direct tron comes up with
+> so, are you adding a hard mode how does it affect normal gameplay so, additional game modes are something that we've talked about, that we want to add just, not yet, so yeah, people want peaceful mode or creative mode a hard mode makes sense as well what whatever that could be maybe you know I think permadeath could be something that could be interesting but it could also be, just harder production or something I don't know whatever this direct tron comes up with

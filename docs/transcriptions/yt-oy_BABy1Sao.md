@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=oy_BABy1Sao
 
 ### Transcript
 
-> maybe you know like, someone asked earlier yeah about create will there be a creative mode or a peaceful mode someone asked that earlier that was that's the question that I wanted to answer before but I forgot, , so game modes is a thing that we we think that we will add to the game at some point so then there could be like a peaceful mode there could be a creative mode but maybe there could be things like hardcore modes which make the monsters much harder right so like maybe that's maybe it can come in that form
+> maybe you know like, someone asked earlier yeah about create will there be a creative mode or a peaceful mode someone asked that earlier that was that's the question that I wanted to answer before but I forgot, so game modes is a thing that we we think that we will add to the game at some point so then there could be like a peaceful mode there could be a creative mode but maybe there could be things like hardcore modes which make the monsters much harder right so like maybe that's maybe it can come in that form

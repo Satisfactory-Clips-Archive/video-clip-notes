@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=qqrWXWhCR9E
 
 ### Transcript
 
-> so we'll start with I think megalian is the top there so, yeah megalian hello and, how long have you been part of the community what languages are you involved with we'll start with that I've been part of the community since the launch in march 2019 and ever since enjoying the game pretty much every day and I do translations for german and also pirate english pirates hell yeah about pirate english a little later on, if you didn't know that was there, it is, okay so next up, , I believe that's rodrik the stream's kind of being weird for me but, roger hello, hello what what do you work with, I started in 2020 in february I think when I discovered a game on youtube trailer and I started playing I got addicted because the game is awesome then so sorry to hear that I
+> so we'll start with I think megalian is the top there so, yeah megalian hello and, how long have you been part of the community what languages are you involved with we'll start with that I've been part of the community since the launch in march 2019 and ever since enjoying the game pretty much every day and I do translations for german and also pirate english pirates hell yeah about pirate english a little later on, if you didn't know that was there, it is, okay so next up, I believe that's rodrik the stream's kind of being weird for me but, roger hello, hello what what do you work with, I started in 2020 in february I think when I discovered a game on youtube trailer and I started playing I got addicted because the game is awesome then so sorry to hear that I
 >
 > [Laughter]
 >

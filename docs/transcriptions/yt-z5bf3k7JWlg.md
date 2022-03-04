@@ -16,7 +16,7 @@ This question was possibly duplicated with a more recent answer: October 26th, 2
 
 ### Transcript
 
-> dedicated servers are coming hopefully before update four, no man's land, , dedicated servers are hopefully coming before update four we are prioritizing those, a bit more now than we did before we were kind of like those they were kind of on the back burner while we were doing the steam, release unfortunately but now we've gotten the stimulus out of the way we can start working on the dedicated service full time again so that's being prioritized will it support linux possibly we have an ambition to be able to support linux on for dedicated servers I can't say for sure whether we'll do it or not because it really depends on how much work it is to be able to support it also we also don't quite know the demand for it fully
+> dedicated servers are coming hopefully before update four, no man's land, dedicated servers are hopefully coming before update four we are prioritizing those, a bit more now than we did before we were kind of like those they were kind of on the back burner while we were doing the steam, release unfortunately but now we've gotten the stimulus out of the way we can start working on the dedicated service full time again so that's being prioritized will it support linux possibly we have an ambition to be able to support linux on for dedicated servers I can't say for sure whether we'll do it or not because it really depends on how much work it is to be able to support it also we also don't quite know the demand for it fully
 >
 > [Music]
 >

@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=M644npYkLRA
 
 ### Transcript
 
-> there's interesting animals that look like they would make good burgers a lot of the animals in satisfactory make really good burgers, , they just they just do I've tried them they're good
+> there's interesting animals that look like they would make good burgers a lot of the animals in satisfactory make really good burgers, they just they just do I've tried them they're good
