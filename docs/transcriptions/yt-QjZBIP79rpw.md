@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=QjZBIP79rpw
 
 ### Transcript
 
-> someone's asking if what's the vote goal for golf it's 1 100. we we thought that was too ridiculous of a number back when we started this whole thing when we said 1 100 back then uh but people got it this far so yeah it's it's pretty close unbelievable yeah
+> someone's asking if what's the vote goal for golf it's 1 100. we we thought that was too ridiculous of a number back when we started this whole thing when we said 1 100 back then, but people got it this far so yeah it's it's pretty close unbelievable yeah

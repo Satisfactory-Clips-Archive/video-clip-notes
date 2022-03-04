@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=o_76lxBOUDU
 
 ### Transcript
 
-> um random clouds would be good we have random clouds in the game what are you talking about simon is working on that don't neglect simon yeah he's doing hard work it would be cool yeah now that you mention it though it would be cool if like you know the more radioactive material you have in your map or something you get like toxic rain in certain areas that might be toxic rain i was actually thinking of him when i read that rain sorry i moved away from the mic so i can breathe toxic rain toxic rain get some upon your head toxic rain
+> random clouds would be good we have random clouds in the game what are you talking about simon is working on that don't neglect simon yeah he's doing hard work it would be cool yeah now that you mention it though it would be cool if like you know the more radioactive material you have in your map or something you get like toxic rain in certain areas that might be toxic rain i was actually thinking of him when i read that rain sorry i moved away from the mic so i can breathe toxic rain toxic rain get some upon your head toxic rain

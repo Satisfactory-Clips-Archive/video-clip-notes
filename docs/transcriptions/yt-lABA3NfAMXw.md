@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [December 14th,
 
 ### Transcript
 
-> where's the mug uh still working on that
+> where's the mug, still working on that

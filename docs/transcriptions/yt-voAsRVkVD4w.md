@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=voAsRVkVD4w
 
 ### Transcript
 
-> there plans to make power storage usable for buyer burners oh because biomass burners produce only what you use right um probably not i think i think i think the i think the goal is to uh get you away from biomass you want to get away from that as soon as possible that's sort of why they suck you don't want to use them you don't want to stay there
+> there plans to make power storage usable for buyer burners oh because biomass burners produce only what you use right, probably not i think i think i think the i think the goal is to, get you away from biomass you want to get away from that as soon as possible that's sort of why they suck you don't want to use them you don't want to stay there

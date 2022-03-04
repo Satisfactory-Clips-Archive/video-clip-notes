@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=vKEZETKhaxw
 
 ### Transcript
 
-> uh big fan of the big reference from largest i i forgot about that that that was a reference to that but yeah that's definitely in there that is a reference to that that that's like a big smile it's a reference that like i forgot the origin of that reference i just remember the reference because you use it a lot still a little bit more professional could you smile a bit more
+> big fan of the big reference from largest i i forgot about that that that was a reference to that but yeah that's definitely in there that is a reference to that that that's like a big smile it's a reference that like i forgot the origin of that reference i just remember the reference because you use it a lot still a little bit more professional could you smile a bit more

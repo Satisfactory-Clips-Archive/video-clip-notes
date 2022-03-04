@@ -20,4 +20,4 @@ https://www.youtube.com/watch?v=maPp0k3TajI
 >
 > [Laughter]
 >
-> like i'm pretty sure like even like at the office we also get the opportunity to do some creative work where we can do uh don't have to work on the game necessarily um and then there people also work on on smaller things checkpoint just to learn things and stuff it's pretty great um but everyone's got a like a personal like it's like a it's like a meme for game developers where we have so many like personal products to just leave hanging um
+> like i'm pretty sure like even like at the office we also get the opportunity to do some creative work where we can do, don't have to work on the game necessarily, and then there people also work on on smaller things checkpoint just to learn things and stuff it's pretty great, but everyone's got a like a personal like it's like a it's like a meme for game developers where we have so many like personal products to just leave hanging ,

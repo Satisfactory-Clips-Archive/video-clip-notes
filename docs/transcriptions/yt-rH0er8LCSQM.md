@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=rH0er8LCSQM
 
 ### Transcript
 
-> yeah any plans on oh come on any plans on a two in two out splitter merger combo not at the moment no uh
+> yeah any plans on oh come on any plans on a two in two out splitter merger combo not at the moment no

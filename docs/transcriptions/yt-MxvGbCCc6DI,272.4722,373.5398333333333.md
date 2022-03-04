@@ -32,7 +32,7 @@ afters of the Dune Desert changes just of a couple of the places so you can
 kind of see what we're talking about here so there's there's the big wall separating
 the Dune Desert and the Spire Coast you can see that there used to be kind of
 steps and now it looks a little bit more natural now you're probably not building factories 
-there so it's probably not a huge issue but that's one thing that's being changed in the north eastern portion of the Dune Desert there's, uh, there used to just be you know,
+there so it's probably not a huge issue but that's one thing that's being changed in the north eastern portion of the Dune Desert there's, , , there used to just be you know,
 just dunes there and now there's gonna be this
 massive crater there again this shouldn't be too much of an issue
 for people with existing factories in that place as the

@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [November 16th,
 
 ### Transcript
 
-> um thanks thanks so that was the chance that the game will be released this year when the game is released you can get it now but if you're talking about 1.0 uh pretty small chance that that's gonna happen this year
+> thanks thanks so that was the chance that the game will be released this year when the game is released you can get it now but if you're talking about 1.0, pretty small chance that that's gonna happen this year

@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=wwpW6KvDzcg
 
 ### Transcript
 
-> flippers for fast travel through water uh you're gonna have to upload that on the keyway side yeah we've got a few people asking cert suggestions just remember that we have the qa site uh best place to leave your bug reports questions and suggestions questions on satisfactorygame.com so uh yeah
+> flippers for fast travel through water, you're gonna have to upload that on the keyway side yeah we've got a few people asking cert suggestions just remember that we have the qa site, best place to leave your bug reports questions and suggestions questions on satisfactorygame.com so, yeah

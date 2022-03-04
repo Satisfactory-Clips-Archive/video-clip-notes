@@ -25,4 +25,4 @@ https://www.youtube.com/watch?v=kMtDQ0sZPAw
 
 ### Transcript
 
-> so anybody asked what the uh working progress items do in the future oh we haven't said and we're not gonna say until 1.0 is out
+> so anybody asked what the, working progress items do in the future oh we haven't said and we're not gonna say until 1.0 is out

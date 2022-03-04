@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [October 5th, 2
 
 ### Transcript
 
-> educated service on windows and linux so it's going to be on windows and we're interested in linux as well so but we'll have to see how that goes tldr of state of dev there was pretty much nothing of value said um yeah we're just working on the game nothing really new and uh still expecting it to be out to what fall this year
+> educated service on windows and linux so it's going to be on windows and we're interested in linux as well so but we'll have to see how that goes tldr of state of dev there was pretty much nothing of value said, yeah we're just working on the game nothing really new and, still expecting it to be out to what fall this year

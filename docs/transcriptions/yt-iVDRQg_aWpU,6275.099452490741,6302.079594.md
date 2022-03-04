@@ -14,4 +14,4 @@ https://youtube.com/clip/Ugkxhy8J74xATZ33Agt-tL9ZeR9CMe5ApJX-
 
 ### Transcript
 
-> have those kick flips coming yeah i'm curious too have it it's it's been really cold lately and it's a bit scary to go out and skate where there might be like icy patches yeah yeah so i haven't really been skating um yeah it's also been raining and i i i think it's the same issue there right if it's like wet it's almost like it's too slippery yeah yeah and also it's just like bad for your deck and your bearings on your board and stuff grip tape and it's just yeah yeah from where you guys what
+> have those kick flips coming yeah i'm curious too have it it's it's been really cold lately and it's a bit scary to go out and skate where there might be like icy patches yeah yeah so i haven't really been skating, yeah it's also been raining and i i i think it's the same issue there right if it's like wet it's almost like it's too slippery yeah yeah and also it's just like bad for your deck and your bearings on your board and stuff grip tape and it's just yeah yeah from where you guys what

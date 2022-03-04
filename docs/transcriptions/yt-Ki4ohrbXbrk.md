@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [September 21st
 
 ### Transcript
 
-> uh what are the thoughts of making the game tower defense yeah okay we got a lot of people asking me to tear up defense today it's okay real talk no tower defense there will be no tower defense none no tower defense and satisfactory your factory will not you know will not cannot be destroyed uh the only thing that will destroy your factory are our updates yeah so that's the only thing you need to defend against the developers come in coming for your factories
+> what are the thoughts of making the game tower defense yeah okay we got a lot of people asking me to tear up defense today it's okay real talk no tower defense there will be no tower defense none no tower defense and satisfactory your factory will not you know will not cannot be destroyed, the only thing that will destroy your factory are our updates yeah so that's the only thing you need to defend against the developers come in coming for your factories

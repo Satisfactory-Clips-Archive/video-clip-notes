@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [August 31st, 2
 
 ### Transcript
 
-> the soundtrack on spotify yes we have considered that uh but because of reasons we have chosen not to do it i'm not gonna say what those reasons are at the moment but uh i mean i think it's gonna happen yeah yeah i think it's gonna happen but we're not we're not doing it yet
+> the soundtrack on spotify yes we have considered that, but because of reasons we have chosen not to do it i'm not gonna say what those reasons are at the moment but, i mean i think it's gonna happen yeah yeah i think it's gonna happen but we're not we're not doing it yet

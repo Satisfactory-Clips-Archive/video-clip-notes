@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [November 2nd, 
 
 ### Transcript
 
-> okay solar panels uh also something to upvote on the question site uh it's not something that we've planned as of yet uh but i don't know maybe in the future i have no idea what what goes in the what happens in the brain of our game director mark chan mark chan sounds like his actual name mark becca my name is mark chan yeah
+> okay solar panels, also something to upvote on the question site, it's not something that we've planned as of yet, but i don't know maybe in the future i have no idea what what goes in the what happens in the brain of our game director mark chan mark chan sounds like his actual name mark becca my name is mark chan yeah

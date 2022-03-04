@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [February 22nd,
 
 ### Transcript
 
-> including adding weather systems this is something that we thought about early on um and i don't know if we settle on like no let's not do it or yes let's do it but i don't think we are gonna do that um because we probably if we add that i think we want that to have some sort of gameplay mechanic and i think that's too much of a thing to add at this point um maybe we'll we'll do something just for for cosmetics or something i don't know but i i have i don't know upload down the q side if you want to see that
+> including adding weather systems this is something that we thought about early on, and i don't know if we settle on like no let's not do it or yes let's do it but i don't think we are gonna do that, because we probably if we add that i think we want that to have some sort of gameplay mechanic and i think that's too much of a thing to add at this point, maybe we'll we'll do something just for for cosmetics or something i don't know but i i have i don't know upload down the q side if you want to see that

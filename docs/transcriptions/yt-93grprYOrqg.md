@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [August 31st, 2
 
 ### Transcript
 
-> is there an estimated release date there is one internally and publicly we have said that it will be fall 2021 you guys full 2022. uh so that's like the the estimated release date that we're we're giving publicly of course we have a better idea internally but we don't want to give that out because like we're also there's also like you know it might get pushed back or whatever so we we don't really have a date that we want to hard commit to just yet
+> is there an estimated release date there is one internally and publicly we have said that it will be fall 2021 you guys full 2022., so that's like the the estimated release date that we're we're giving publicly of course we have a better idea internally but we don't want to give that out because like we're also there's also like you know it might get pushed back or whatever so we we don't really have a date that we want to hard commit to just yet

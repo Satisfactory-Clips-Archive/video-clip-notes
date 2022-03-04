@@ -26,4 +26,4 @@ https://www.youtube.com/watch?v=38C7R9swuJQ
 >
 > [Laughter]
 >
-> oh yeah yeah i need to i need to pin the [ __ ] reddit first oh god ah okay wash my hands sitting down in the chair all right six put all my beanies back on i'm gonna put my headphones all right here we go hey everyone it's me jace i'm back from the bathroom i did the entire thing all right we're all good here chat right we're all good here okay uh do the josh is that like an interpretive dance of josh or what does that mean that better be the sound of the toilet flush dlc yeah yeah 100.
+> oh yeah yeah i need to i need to pin the [ __ ] reddit first oh god ah okay wash my hands sitting down in the chair all right six put all my beanies back on i'm gonna put my headphones all right here we go hey everyone it's me jace i'm back from the bathroom i did the entire thing all right we're all good here chat right we're all good here okay, do the josh is that like an interpretive dance of josh or what does that mean that better be the sound of the toilet flush dlc yeah yeah 100.

@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [November 16th,
 
 ### Transcript
 
-> oh here's the question who's the voice actor for the fix-it voice for aydah well it's robert it is uh it's uh google text to speech yeah yeah she's text for speech guys
+> oh here's the question who's the voice actor for the fix-it voice for aydah well it's robert it is, it's, google text to speech yeah yeah she's text for speech guys

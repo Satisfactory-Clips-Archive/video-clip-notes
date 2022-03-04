@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=xzRjKtWNZIo
 
 ### Transcript
 
-> would it be possible to use a copy and paste functionality on blocks that don't have recipes you know what that's a super good suggestion go to our qa site and and upload that stuff and if if it's not there or if it's there and if it's not there make a ticket for it um because that's the kind of feedback that we love to see
+> would it be possible to use a copy and paste functionality on blocks that don't have recipes you know what that's a super good suggestion go to our qa site and and upload that stuff and if if it's not there or if it's there and if it's not there make a ticket for it, because that's the kind of feedback that we love to see

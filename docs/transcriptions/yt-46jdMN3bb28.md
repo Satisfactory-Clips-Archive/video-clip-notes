@@ -26,7 +26,7 @@ https://www.youtube.com/watch?v=46jdMN3bb28
 
 ### Transcript
 
-> real question is whether it's actually at the end of the space elevator this has been revealed before um but i can just echo it it's a food court so you can go there's like a bunch of food up there it's like a big court uh you can get like liz duggar burgers and such there's uh if you check out sophie's uh dev highlight on our youtube channel there is a there's concept art for that um but yeah that's not coming until 1.00 yeah there's artfur
+> real question is whether it's actually at the end of the space elevator this has been revealed before, but i can just echo it it's a food court so you can go there's like a bunch of food up there it's like a big court, you can get like liz duggar burgers and such there's, if you check out sophie's, dev highlight on our youtube channel there is a there's concept art for that, but yeah that's not coming until 1.00 yeah there's artfur
 >
 > [Music]
 >

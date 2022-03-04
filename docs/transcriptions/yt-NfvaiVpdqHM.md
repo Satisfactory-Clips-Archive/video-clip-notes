@@ -16,6 +16,6 @@ https://www.youtube.com/watch?v=NfvaiVpdqHM
 
 ### Transcript
 
-> uh coming wallace in the rounded platforms we don't have any rounded platforms what are you talking about it doesn't exist
+> coming wallace in the rounded platforms we don't have any rounded platforms what are you talking about it doesn't exist
 >
 > [Music]

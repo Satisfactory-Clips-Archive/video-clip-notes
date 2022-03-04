@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [February 15th,
 
 ### Transcript
 
-> uh will be another map no nothing planned that is more optimized exactly more work for hannah confirmed there's always more work for hannah hannah never sleeps
+> will be another map no nothing planned that is more optimized exactly more work for hannah confirmed there's always more work for hannah hannah never sleeps

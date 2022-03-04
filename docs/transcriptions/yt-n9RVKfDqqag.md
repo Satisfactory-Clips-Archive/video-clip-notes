@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [August 31st, 2
 
 ### Transcript
 
-> when update 5 we said fall or autumn in the northern hemisphere so uh that's when we think it will be but um you know we will delay if we need to delay
+> when update 5 we said fall or autumn in the northern hemisphere so, that's when we think it will be but, you know we will delay if we need to delay

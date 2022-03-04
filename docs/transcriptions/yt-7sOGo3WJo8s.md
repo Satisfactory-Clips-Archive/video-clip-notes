@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=7sOGo3WJo8s
 
 ### Transcript
 
-> better visibility for spiders by erectophobia hard to see if they're dead uh yeah it's a good point true i recommend going to the qa site and leaving that post there or seeing if someone else has done it and upload it i think um yeah i think so as well it's hard to it's hard to know when they're dead right they just kind of stop moving it's true you have to poke it with the xenobasher to make sure
+> better visibility for spiders by erectophobia hard to see if they're dead, yeah it's a good point true i recommend going to the qa site and leaving that post there or seeing if someone else has done it and upload it i think, yeah i think so as well it's hard to it's hard to know when they're dead right they just kind of stop moving it's true you have to poke it with the xenobasher to make sure

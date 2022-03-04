@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=kCjnulfKA1E
 
 ### Transcript
 
-> uh i can give you the set of dedicated servers same situation there um we're also trying to like figure out um kind of what we need to do for dedicated servers right now uh what's left what makes sense um and things like that so we don't have an eta on dedicated service either dedicated service could be anytime at any time so we'll find out
+> i can give you the set of dedicated servers same situation there, we're also trying to like figure out, kind of what we need to do for dedicated servers right now, what's left what makes sense, and things like that so we don't have an eta on dedicated service either dedicated service could be anytime at any time so we'll find out

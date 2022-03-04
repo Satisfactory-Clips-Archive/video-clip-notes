@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=2r7-Vfzg2FM
 
 ### Transcript
 
-> being able to pick up the orange storage boxes and move them would be nice it would be nice right but it doesn't really work with the system we've built for them unfortunately um i mean anything can be changed like upload that on the keyway side if you think that's that's a cool feature we should have in the game helpful with that on the qa site my name's not getting paid they're getting paid pay bad money mad months
+> being able to pick up the orange storage boxes and move them would be nice it would be nice right but it doesn't really work with the system we've built for them unfortunately, i mean anything can be changed like upload that on the keyway side if you think that's that's a cool feature we should have in the game helpful with that on the qa site my name's not getting paid they're getting paid pay bad money mad months

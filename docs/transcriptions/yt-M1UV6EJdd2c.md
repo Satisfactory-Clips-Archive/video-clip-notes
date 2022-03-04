@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=M1UV6EJdd2c
 
 ### Transcript
 
-> since we're going to load screen so much is it possible it becomes faster in update four uh potentially an update for but the bigger update to that will probably happen in the future updates because we're working on
+> since we're going to load screen so much is it possible it becomes faster in update four, potentially an update for but the bigger update to that will probably happen in the future updates because we're working on
 >
 > [Music]
 >

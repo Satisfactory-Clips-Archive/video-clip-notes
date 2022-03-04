@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [November 16th,
 
 ### Transcript
 
-> any plans to let trains recalculate routes on the fly right now they won't path around other trains uh no i don't think so it's never impossible that's another good qa side thing
+> any plans to let trains recalculate routes on the fly right now they won't path around other trains, no i don't think so it's never impossible that's another good qa side thing

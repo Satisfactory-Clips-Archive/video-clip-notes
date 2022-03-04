@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=L5L3kXz810E
 
 ### Transcript
 
-> we're going to add that to ourselves uh we're trolling us no we're always honest here this is this is an honest space okay this is 100 on a stream this is honest stream i'm going to change the title of the stream to honest stream no it already says honest it's an honestly yeah honestly just close enough yeah
+> we're going to add that to ourselves, we're trolling us no we're always honest here this is this is an honest space okay this is 100 on a stream this is honest stream i'm going to change the title of the stream to honest stream no it already says honest it's an honestly yeah honestly just close enough yeah

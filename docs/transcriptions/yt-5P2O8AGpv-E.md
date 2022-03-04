@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=5P2O8AGpv-E
 
 ### Transcript
 
-> what do i think about subnautica i love subnautica i haven't played uh god damn it i forgot the name of it again i talked about this yesterday on my stream and i already forgot the name of of the uh of the new subnautica below sierra thank you um yeah no i love it it's great we're very inspired by subnautica in terms of story and like the presentation of that
+> what do i think about subnautica i love subnautica i haven't played, god damn it i forgot the name of it again i talked about this yesterday on my stream and i already forgot the name of of the, of the new subnautica below sierra thank you, yeah no i love it it's great we're very inspired by subnautica in terms of story and like the presentation of that

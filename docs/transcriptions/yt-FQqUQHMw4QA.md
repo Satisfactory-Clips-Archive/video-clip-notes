@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [February 1st, 
 
 ### Transcript
 
-> there's always someone asked this is it possible to have a sink also use fluids you can't already do that uh you just need to package it first and we're not gonna do it so that you can just put a pipe in in the sink you're gonna need to package it
+> there's always someone asked this is it possible to have a sink also use fluids you can't already do that, you just need to package it first and we're not gonna do it so that you can just put a pipe in in the sink you're gonna need to package it

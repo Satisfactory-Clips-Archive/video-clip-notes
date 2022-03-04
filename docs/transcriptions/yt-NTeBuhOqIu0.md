@@ -18,4 +18,4 @@ This question was possibly replaced with a more recent answer: [February 2nd, 20
 
 ### Transcript
 
-> oh yeah yeah yeah i see that player which stream is it possible to use power light as it lands no you cannot but uh there are other means to uh get around a big factory at you know kind of later you can do that hint say no more animals
+> oh yeah yeah yeah i see that player which stream is it possible to use power light as it lands no you cannot but, there are other means to, get around a big factory at you know kind of later you can do that hint say no more animals

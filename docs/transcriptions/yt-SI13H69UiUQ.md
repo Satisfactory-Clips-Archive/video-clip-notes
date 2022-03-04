@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=SI13H69UiUQ
 
 ### Transcript
 
-> uh and giant spiders farting gas what kind of question is that yes of course
+> and giant spiders farting gas what kind of question is that yes of course

@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=Lwt8DhC_wkg
 
 ### Transcript
 
-> why do fuel generators say no power when they have no fuel that's a good question they also say no power when you haven't hooked them up to the grid i think um which i guess kind of makes i mean technically they don't have any power because it's not producing any power right i don't know uh ask that's the key website maybe they know
+> why do fuel generators say no power when they have no fuel that's a good question they also say no power when you haven't hooked them up to the grid i think, which i guess kind of makes i mean technically they don't have any power because it's not producing any power right i don't know, ask that's the key website maybe they know

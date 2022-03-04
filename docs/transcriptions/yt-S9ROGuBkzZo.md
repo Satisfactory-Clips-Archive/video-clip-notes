@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [July 13th, 202
 
 ### Transcript
 
-> energy stored in day night cycle would make solar power extremely interesting to set up we we don't think so because we tried that it was one of the first things that we did with power and uh we we if just felt like we got free power and we didn't like that the the another problem is as well is that the night cycle is only like what five minutes and the day cycle is like 50 so like there's no there's no good balance there either between the day night cycle you're gonna get free power
+> energy stored in day night cycle would make solar power extremely interesting to set up we we don't think so because we tried that it was one of the first things that we did with power and, we we if just felt like we got free power and we didn't like that the the another problem is as well is that the night cycle is only like what five minutes and the day cycle is like 50 so like there's no there's no good balance there either between the day night cycle you're gonna get free power

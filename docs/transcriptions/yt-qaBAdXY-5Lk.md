@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=qaBAdXY-5Lk
 
 ### Transcript
 
-> are the big rock arches going to be explained in 1.0 because they don't look like rock and get a bone like rib cage feel for from them that's an interesting question uh maybe you
+> are the big rock arches going to be explained in 1.0 because they don't look like rock and get a bone like rib cage feel for from them that's an interesting question, maybe you

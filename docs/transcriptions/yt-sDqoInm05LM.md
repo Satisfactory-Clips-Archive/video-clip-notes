@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=sDqoInm05LM
 
 ### Transcript
 
-> you are you guys swedish uh i'm swedish but dylan i am an american so it's so like tail between my legs and sure but i've been i've been living in sweden for a long time yeah
+> you are you guys swedish, i'm swedish but dylan i am an american so it's so like tail between my legs and sure but i've been i've been living in sweden for a long time yeah

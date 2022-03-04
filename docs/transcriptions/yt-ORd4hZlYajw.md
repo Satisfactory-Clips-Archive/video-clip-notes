@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [February 8th, 
 
 ### Transcript
 
-> any plan on being able to use materials in u-shaped foundations uh not impossible but uh don't know at this point please upload that on the keyboard side if you really missed that
+> any plan on being able to use materials in u-shaped foundations, not impossible but, don't know at this point please upload that on the keyboard side if you really missed that

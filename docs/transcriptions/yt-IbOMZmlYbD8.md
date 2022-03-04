@@ -22,4 +22,4 @@ This question was possibly duplicated with a more recent answer: [October 5th, 2
 
 ### Transcript
 
-> uh jason smith statues and update five no one wants that no and i'm sure you're not even asking because you want it you just want you just be like do i need to steer clear of update 5 or not yeah that's it yeah
+> jason smith statues and update five no one wants that no and i'm sure you're not even asking because you want it you just want you just be like do i need to steer clear of update 5 or not yeah that's it yeah

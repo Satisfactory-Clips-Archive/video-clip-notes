@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=RBupI-zwGl4
 
 ### Transcript
 
-> future's coming wait snook open open wait what the the vote went down open up uh open up golf and just refresh it periodically okay so like like put us on that scene where there's both of us in there because we might we might actually hit it possible i don't i don't believe it that refresh button does that no that's good okay cool let's see what have we got 10.98 oh okay oh oh we're so close yeah well oh get your votes in now because in half an hour we're gonna delete open it up open it up oh wait wait before i do that i gotta log out no i'm already okay okay oh no oh oh holy crap that's interesting refresh refresh i know oh cool i didn't know we had this refreshing on our website is that ajax going on in the background wow didn't didn't know we were so uh futuristic yeah ajax is futuristic sure yeah wait it went down get it back down to one thousand and we'll add it right away
+> future's coming wait snook open open wait what the the vote went down open up, open up golf and just refresh it periodically okay so like like put us on that scene where there's both of us in there because we might we might actually hit it possible i don't i don't believe it that refresh button does that no that's good okay cool let's see what have we got 10.98 oh okay oh oh we're so close yeah well oh get your votes in now because in half an hour we're gonna delete open it up open it up oh wait wait before i do that i gotta log out no i'm already okay okay oh no oh oh holy crap that's interesting refresh refresh i know oh cool i didn't know we had this refreshing on our website is that ajax going on in the background wow didn't didn't know we were so, futuristic yeah ajax is futuristic sure yeah wait it went down get it back down to one thousand and we'll add it right away
 >
 > [Laughter]
 >
@@ -22,4 +22,4 @@ https://www.youtube.com/watch?v=RBupI-zwGl4
 >
 > [Laughter]
 >
-> wow jason's been saying golf at 12 000 votes for months yeah exactly and and we're this close since day one this is close i think since before we even announced satisfactory i said it yeah yeah i said goal for 12 000. 1200. it was a period where people were asking for pipes but uh a lot more people were asking golf at that point yeah yeah i think pipes was number two on the qa site and number one was was golf
+> wow jason's been saying golf at 12 000 votes for months yeah exactly and and we're this close since day one this is close i think since before we even announced satisfactory i said it yeah yeah i said goal for 12 000. 1200. it was a period where people were asking for pipes but, a lot more people were asking golf at that point yeah yeah i think pipes was number two on the qa site and number one was was golf

@@ -22,7 +22,7 @@ https://www.youtube.com/watch?v=a-L9c5HwpqQ
 
 ### Transcript
 
-> uh buildings and recipes update files about buildings and vehicles where is your focus for update six uh update six top what's that oh yeah can you give us a date chase off day six oh update six do you do you guys want to know when updates oh i guess you guys want to know when it's coming out yeah yeah it's uh april april 12th 13th sorry we're actually gonna we're not gonna we're choosing not to go with tuesday we're gonna change things up keep you on your toes we're doing a wednesday april 13th update 6. i'm just checking the wiki to see if what was the date again april april 13th where we're moving it forward you already did that one you got to do another one 13th yeah we already did that i said i meant 20th i meant 20th sorry 13 to 20 they're close in my mind yes that that sounds uh legitimate
+> buildings and recipes update files about buildings and vehicles where is your focus for update six, update six top what's that oh yeah can you give us a date chase off day six oh update six do you do you guys want to know when updates oh i guess you guys want to know when it's coming out yeah yeah it's, april april 12th 13th sorry we're actually gonna we're not gonna we're choosing not to go with tuesday we're gonna change things up keep you on your toes we're doing a wednesday april 13th update 6. i'm just checking the wiki to see if what was the date again april april 13th where we're moving it forward you already did that one you got to do another one 13th yeah we already did that i said i meant 20th i meant 20th sorry 13 to 20 they're close in my mind yes that that sounds, legitimate
 >
 > [Laughter]
 >
@@ -30,4 +30,4 @@ https://www.youtube.com/watch?v=a-L9c5HwpqQ
 >
 > [Laughter]
 >
-> oh you comedians in chat come on i mean what other was it going to be this year god yeah i mean it'd be really good so on 420 oh i didn't even think of that oh actually true actually 420 what a coincidence oh true there you go um
+> oh you comedians in chat come on i mean what other was it going to be this year god yeah i mean it'd be really good so on 420 oh i didn't even think of that oh actually true actually 420 what a coincidence oh true there you go ,

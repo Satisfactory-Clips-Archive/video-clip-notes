@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [November 16th,
 
 ### Transcript
 
-> uh full release of the game how far is that that's uh i wish we knew that we we uh we have like maybe ideas but like you never know uh but you know officially it has said on the steam page for a long time that the the goal is to release it sometime 2022 um but you know how development sometimes given how development works then yeah you never know let's see we'll have to see we'll have to see yes
+> full release of the game how far is that that's, i wish we knew that we we, we have like maybe ideas but like you never know, but you know officially it has said on the steam page for a long time that the the goal is to release it sometime 2022, but you know how development sometimes given how development works then yeah you never know let's see we'll have to see we'll have to see yes

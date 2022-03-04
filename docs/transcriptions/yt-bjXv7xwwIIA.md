@@ -22,4 +22,4 @@ https://www.youtube.com/watch?v=bjXv7xwwIIA
 
 > [Music]
 >
-> uh can we get a co2 meter so we can keep track of how badly we screwed the planet i don't think fixit cares about that that would be cool though yeah we have talked about in the past though like your actions would up the nature or whatever but we never we haven't done anything with that nope
+>, can we get a co2 meter so we can keep track of how badly we screwed the planet i don't think fixit cares about that that would be cool though yeah we have talked about in the past though like your actions would up the nature or whatever but we never we haven't done anything with that nope

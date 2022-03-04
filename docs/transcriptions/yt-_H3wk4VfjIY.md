@@ -16,4 +16,4 @@ This question was possibly replaced with a more recent answer: [February 19th, 2
 
 ### Transcript
 
-> potential to get some better management for power grids yeah that's a pretty good idea uh make sure to drop it on the question site i've seen a few people ask about this on this stream
+> potential to get some better management for power grids yeah that's a pretty good idea, make sure to drop it on the question site i've seen a few people ask about this on this stream

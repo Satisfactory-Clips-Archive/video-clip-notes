@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=tS_CE6H7Oc4
 
 ### Transcript
 
-> do you have an e.t on valheim earth and home update uh no we don't work on valham so i have no idea ask on their weekly dev streams oh wait they don't have one do they or maybe they do i don't know
+> do you have an e.t on valheim earth and home update, no we don't work on valham so i have no idea ask on their weekly dev streams oh wait they don't have one do they or maybe they do i don't know

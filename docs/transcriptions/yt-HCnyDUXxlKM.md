@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=HCnyDUXxlKM
 
 ### Transcript
 
-> you guys please try to make the game a bit worse uh i'd like to maybe try other play play other games not just this one endlessly uh i'm so sorry to hear that uh we will try we will try we are trying all the time but it apparently isn't working out for us
+> you guys please try to make the game a bit worse, i'd like to maybe try other play play other games not just this one endlessly, i'm so sorry to hear that, we will try we will try we are trying all the time but it apparently isn't working out for us

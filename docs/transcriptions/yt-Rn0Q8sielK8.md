@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [September 7th,
 
 ### Transcript
 
-> uh is it planned to continue playing after completing the story i'm not sure how that works exactly yet but whatever we do we don't really want to like in in like whatever like however the story works with the game we're not gonna make it so that you could accidentally finish the story and you can't play anymore so like either you can finish the story and then load your save before maybe or maybe even if you finish the story you can continue playing i'm not really sure what the decision is there or how they're gonna do it but
+> is it planned to continue playing after completing the story i'm not sure how that works exactly yet but whatever we do we don't really want to like in in like whatever like however the story works with the game we're not gonna make it so that you could accidentally finish the story and you can't play anymore so like either you can finish the story and then load your save before maybe or maybe even if you finish the story you can continue playing i'm not really sure what the decision is there or how they're gonna do it but

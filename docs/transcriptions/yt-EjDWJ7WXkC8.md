@@ -26,4 +26,4 @@ https://www.youtube.com/watch?v=EjDWJ7WXkC8
 
 ### Transcript
 
-> and then he has new wall types doors windows foundations etc uh we are gonna do that too i don't know exactly what we planned but we are gonna revamp uh some of the uh decorations in the game
+> and then he has new wall types doors windows foundations etc, we are gonna do that too i don't know exactly what we planned but we are gonna revamp, some of the, decorations in the game

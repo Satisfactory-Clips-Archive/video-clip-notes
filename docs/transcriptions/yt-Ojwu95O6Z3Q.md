@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [January 25th, 
 
 ### Transcript
 
-> okay will there be some uh chance to get terraforming i don't think so i don't think we're gonna add terraforming new
+> okay will there be some, chance to get terraforming i don't think so i don't think we're gonna add terraforming new

@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=bQoFSKckhQs
 
 ### Transcript
 
-> are you doing any uh filming of the play test so we could see some sort of mini documentary during the update five launch stream uh we are not currently doing that uh so yeah no we are not doing that at the moment
+> are you doing any, filming of the play test so we could see some sort of mini documentary during the update five launch stream, we are not currently doing that, so yeah no we are not doing that at the moment

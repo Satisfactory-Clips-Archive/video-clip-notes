@@ -25,4 +25,4 @@ https://www.youtube.com/watch?v=UrUHlWoT-cc
 
 ### Transcript
 
-> if you're a host you cannot use trains multiplayer i don't know when that is gonna fix that is that is super known and and uh do you know if there's a fix for that in update five do you do you know one way or the other i'm putting on the spot a little bit i don't i don't know but i'm hoping that we'll fix that um because it's a bug that's been in the game for a long time and it i was it feels bad not having those type of issues fixed i'm hoping i will ask someone now and we'll see if they can give me an answer
+> if you're a host you cannot use trains multiplayer i don't know when that is gonna fix that is that is super known and and, do you know if there's a fix for that in update five do you do you know one way or the other i'm putting on the spot a little bit i don't i don't know but i'm hoping that we'll fix that, because it's a bug that's been in the game for a long time and it i was it feels bad not having those type of issues fixed i'm hoping i will ask someone now and we'll see if they can give me an answer

@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=IegIG0LR1-4
 
 ### Transcript
 
-> uh game needs uh nice and sphere soon or it's gonna lose people game needs working toilet suit or it's gonna lose people or it's gonna lose people as quickly becoming a meme just here in this stream uh
+> game needs, nice and sphere soon or it's gonna lose people game needs working toilet suit or it's gonna lose people or it's gonna lose people as quickly becoming a meme just here in this stream

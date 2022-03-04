@@ -22,4 +22,4 @@ https://www.youtube.com/watch?v=oM_Qt4ihxdI
 
 ### Transcript
 
-> you did it snoop so you can see here i'm much more awake look at this smile right this is me happy that like this is the last part i'm done after this yeah i'm pretty tired look at me i'm [ __ ] wired here i'm like oh i'm nearly [ __ ] done but uh yeah all right let's go let's stay in my life
+> you did it snoop so you can see here i'm much more awake look at this smile right this is me happy that like this is the last part i'm done after this yeah i'm pretty tired look at me i'm [ __ ] wired here i'm like oh i'm nearly [ __ ] done but, yeah all right let's go let's stay in my life

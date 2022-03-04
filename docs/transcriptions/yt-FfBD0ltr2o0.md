@@ -20,4 +20,4 @@ This question was possibly duplicated with a more recent answer: [August 3rd, 20
 
 ### Transcript
 
-> do we know if my factory will be affected by north north forest so like what we sort of said was that for the most part there isn't going to be that many changes in the northern forest when it comes to uh like landscape so you may have trees in the way but that should pretty much be the only serious issue so
+> do we know if my factory will be affected by north north forest so like what we sort of said was that for the most part there isn't going to be that many changes in the northern forest when it comes to, like landscape so you may have trees in the way but that should pretty much be the only serious issue so

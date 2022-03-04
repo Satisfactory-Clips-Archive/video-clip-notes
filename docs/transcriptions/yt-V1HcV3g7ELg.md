@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [November 2nd, 
 
 ### Transcript
 
-> creation there interesting interesting faster autosaves i think so i hope so i mean we want to like obviously uh we are working we're working on systems that will make it so that we can do better auto saving or faster saving in general there's a few systems that are like we have a little bit of technical depth that's stopping us from working on that particular issue right now but we're working on those systems some of the systems are starting to take effect in update three update four um so yeah we're on the path on the path
+> creation there interesting interesting faster autosaves i think so i hope so i mean we want to like obviously, we are working we're working on systems that will make it so that we can do better auto saving or faster saving in general there's a few systems that are like we have a little bit of technical depth that's stopping us from working on that particular issue right now but we're working on those systems some of the systems are starting to take effect in update three update four, so yeah we're on the path on the path

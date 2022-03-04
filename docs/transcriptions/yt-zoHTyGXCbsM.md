@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [February 15th,
 
 ### Transcript
 
-> um any plans for an elevator or a lift there are no plans for that
+> any plans for an elevator or a lift there are no plans for that

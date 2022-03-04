@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=yt9lr15dA58
 
 ### Transcript
 
-> um will you play 1.0 tim of course i will play update 4 as well well
+> will you play 1.0 tim of course i will play update 4 as well well

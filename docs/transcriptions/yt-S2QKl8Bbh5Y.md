@@ -28,4 +28,4 @@ https://www.youtube.com/watch?v=S2QKl8Bbh5Y
 
 ### Transcript
 
-> so this is just a simple example of like how we took a regular line that was kind of naively put together and we figured out ways to better balance it um and right now we even have like we have one machine that we're not utilizing for anything we can use it for something else so we have 30 plus those 15 that we have over here and then we can spend those on some other chain or you know store them or whatever you want to do um so we could be producing more rods and maybe store the rods and we'd still have 100 efficient efficiency going
+> so this is just a simple example of like how we took a regular line that was kind of naively put together and we figured out ways to better balance it, and right now we even have like we have one machine that we're not utilizing for anything we can use it for something else so we have 30 plus those 15 that we have over here and then we can spend those on some other chain or you know store them or whatever you want to do, so we could be producing more rods and maybe store the rods and we'd still have 100 efficient efficiency going

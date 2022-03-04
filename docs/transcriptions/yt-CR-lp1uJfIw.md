@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [January 25th, 
 
 ### Transcript
 
-> uh considered terraforming yeah i don't think we're gonna be adding terraforming to the game
+> considered terraforming yeah i don't think we're gonna be adding terraforming to the game

@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=XXV23XMUmJA
 
 ### Transcript
 
-> would you say bringing satisfaction to life is your reason how do you pronounce that reason to try i know i know what it means i just have no idea pronounce it well i don't even know what it means it's like you're not point of life but like your goal or like your your reason to be like you're no it's definitely not for me i mean there are more important things to me than my job uh my job is important to me and it's a you know really good job yeah speaking of there's more
+> would you say bringing satisfaction to life is your reason how do you pronounce that reason to try i know i know what it means i just have no idea pronounce it well i don't even know what it means it's like you're not point of life but like your goal or like your your reason to be like you're no it's definitely not for me i mean there are more important things to me than my job, my job is important to me and it's a you know really good job yeah speaking of there's more

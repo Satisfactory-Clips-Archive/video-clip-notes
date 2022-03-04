@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [February 22nd,
 
 ### Transcript
 
-> what about allowing a second person to buggy uh i maybe i don't know why we haven't done that i mean maybe it's like something with uh networking uh that it's like expensive to do it i don't know i'll put that on q side if you want to see that
+> what about allowing a second person to buggy, i maybe i don't know why we haven't done that i mean maybe it's like something with, networking, that it's like expensive to do it i don't know i'll put that on q side if you want to see that

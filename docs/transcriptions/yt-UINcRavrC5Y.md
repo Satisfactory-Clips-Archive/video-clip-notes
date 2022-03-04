@@ -20,7 +20,7 @@ https://www.youtube.com/watch?v=UINcRavrC5Y
 
 ### Transcript
 
-> and the last thing we leaked was the door hmm the door yeah what's the doors that's what's going on door the door holds the secret what's this the secret yeah the secret oh my god door is confirmed huh hashtag we want doors yeah we need to get yours coming through we want hashtag we want doors we need that trending on on twitter right now yes so uh is jason snook going back in the vlog
+> and the last thing we leaked was the door hmm the door yeah what's the doors that's what's going on door the door holds the secret what's this the secret yeah the secret oh my god door is confirmed huh hashtag we want doors yeah we need to get yours coming through we want hashtag we want doors we need that trending on on twitter right now yes so, is jason snook going back in the vlog
 >
 > [Laughter]
 >

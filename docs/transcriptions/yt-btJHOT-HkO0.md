@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [January 19th, 
 
 ### Transcript
 
-> when i play multiplayer or not the host the train and host doesn't update correctly is this a gnome bug hell yeah it is try uh changing the uh the bandwidth setting in the in the menu both up and down both on host end and client end and remember to restart the game back and forth every time you do it it's super annoying but that's just the way it works
+> when i play multiplayer or not the host the train and host doesn't update correctly is this a gnome bug hell yeah it is try, changing the, the bandwidth setting in the in the menu both up and down both on host end and client end and remember to restart the game back and forth every time you do it it's super annoying but that's just the way it works

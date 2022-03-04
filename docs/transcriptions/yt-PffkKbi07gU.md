@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=PffkKbi07gU
 
 ### Transcript
 
-> um do you know which country plays satisfactory the most uh i'm i'm not sure because i think it varies a little bit also between like steam and epic versions um but i think uh usa was the biggest thing yeah the us was a what's the biggest uh wow and then i think it's like germany and then russia uh are large communities and then i think it's just like a lot of different countries but those i think are the biggest ones
+> do you know which country plays satisfactory the most, i'm i'm not sure because i think it varies a little bit also between like steam and epic versions, but i think, usa was the biggest thing yeah the us was a what's the biggest, wow and then i think it's like germany and then russia, are large communities and then i think it's just like a lot of different countries but those i think are the biggest ones

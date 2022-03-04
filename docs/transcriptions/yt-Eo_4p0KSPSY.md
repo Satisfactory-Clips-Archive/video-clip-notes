@@ -16,4 +16,4 @@ This question was possibly replaced with a more recent answer: [February 16th, 2
 
 ### Transcript
 
-> faith yeah their plan how to deal with nuclear waste it will have to result in endless long supplies uh currently that is what you have to do you just need to you just gotta you gotta pull it out but you know you never know i certainly don't
+> faith yeah their plan how to deal with nuclear waste it will have to result in endless long supplies, currently that is what you have to do you just need to you just gotta you gotta pull it out but you know you never know i certainly don't

@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=SmWm5H4JRT0
 
 ### Transcript
 
-> snow what would you like for fixmas i would like the goddamn snow to disappear so i can go out and play disc golf again that's what i want in real life not in the game right i can already see chat like blazing he mentioned golf that's what i want but it is it is on the way like we're plus five right now um so yeah you guys
+> snow what would you like for fixmas i would like the goddamn snow to disappear so i can go out and play disc golf again that's what i want in real life not in the game right i can already see chat like blazing he mentioned golf that's what i want but it is it is on the way like we're plus five right now, so yeah you guys

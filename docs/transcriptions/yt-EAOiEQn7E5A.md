@@ -28,4 +28,4 @@ This question was possibly duplicated with a more recent answer: [October 12th, 
 >
 > [Music]
 >
-> i swear to god i've never had this many issues on stream ever in my entire life this is bananas this is insane why did the game audio died oh oh god oh oh man this is never stream never start streaming y'all streaming is fake or or something god damn it all right um yeah tier 10 when yeah so so yeah oh wrong keyboard um i was honestly very surprised when when mark chan was like yeah we're gonna have more tears than eight
+> i swear to god i've never had this many issues on stream ever in my entire life this is bananas this is insane why did the game audio died oh oh god oh oh man this is never stream never start streaming y'all streaming is fake or or something god damn it all right, yeah tier 10 when yeah so so yeah oh wrong keyboard, i was honestly very surprised when when mark chan was like yeah we're gonna have more tears than eight

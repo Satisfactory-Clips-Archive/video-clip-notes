@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [May 4th, 2021 
 
 ### Transcript
 
-> um why are there fines so big because it's a big feature um
+> why are there fines so big because it's a big feature

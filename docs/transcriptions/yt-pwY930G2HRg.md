@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=pwY930G2HRg
 
 ### Transcript
 
-> you can destroy the nobelisks uh not the big riaz rocks you can destroy the like flowers but not the big ones yet and the reason for that is because they're baked into the map so like there's no good way for us to save it currently another mods their work around that where like they they have like a separate system like remove it but the gas cloud is like baked into the map and we don't like that solution
+> you can destroy the nobelisks, not the big riaz rocks you can destroy the like flowers but not the big ones yet and the reason for that is because they're baked into the map so like there's no good way for us to save it currently another mods their work around that where like they they have like a separate system like remove it but the gas cloud is like baked into the map and we don't like that solution

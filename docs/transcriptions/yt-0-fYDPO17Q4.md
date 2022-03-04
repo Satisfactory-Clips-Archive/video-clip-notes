@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=0-fYDPO17Q4
 
 ### Transcript
 
-> and he plans to do another jace art stream specifically update five weeks it sounds like a good idea marv um i've been thinking about that recently so maybe i should do another art stream i think it's a good idea maybe i'll do one next week i don't know if we'll leak anything or not but we'll see
+> and he plans to do another jace art stream specifically update five weeks it sounds like a good idea marv, i've been thinking about that recently so maybe i should do another art stream i think it's a good idea maybe i'll do one next week i don't know if we'll leak anything or not but we'll see

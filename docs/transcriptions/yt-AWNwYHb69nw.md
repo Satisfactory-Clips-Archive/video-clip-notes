@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=AWNwYHb69nw
 
 ### Transcript
 
-> that i actually don't know maybe they do is the q a site linkedin game it is it is um i think it says give feedback i think on the main menu you also see it in the main menu when you boot the game
+> that i actually don't know maybe they do is the q a site linkedin game it is it is, i think it says give feedback i think on the main menu you also see it in the main menu when you boot the game

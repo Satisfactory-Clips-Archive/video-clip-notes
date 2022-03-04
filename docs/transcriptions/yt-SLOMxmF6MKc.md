@@ -20,7 +20,7 @@ This question was possibly duplicated with a more recent answer: [April 20th, 20
 
 ### Transcript
 
-> can you give us a teaser what the story will be is our youtube video uh no we've not received released any information about the story apart from some characters like um katarina parks is the ceo of fix-it things like that uh but we've not really teased a story that's something that we're gonna be pretty tight-lipped about until we release it
+> can you give us a teaser what the story will be is our youtube video, no we've not received released any information about the story apart from some characters like, katarina parks is the ceo of fix-it things like that, but we've not really teased a story that's something that we're gonna be pretty tight-lipped about until we release it
 >
 > [Music]
 >

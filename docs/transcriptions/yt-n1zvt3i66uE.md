@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=n1zvt3i66uE
 
 ### Transcript
 
-> is the giant's chainsaw a bug yes that is a bug believe it or not we didn't put that in the game intentionally uh if somebody figures out a repro case for that bug by the way with the chainsaw the giant chainsaw please put that on the keyway side we have no idea how people are getting that bug it's been it's been in the game since uh update 4 on experimental and we thought we solved it and then we didn't so so please um please uh reach out to us on qaside if you're into this bug
+> is the giant's chainsaw a bug yes that is a bug believe it or not we didn't put that in the game intentionally, if somebody figures out a repro case for that bug by the way with the chainsaw the giant chainsaw please put that on the keyway side we have no idea how people are getting that bug it's been it's been in the game since, update 4 on experimental and we thought we solved it and then we didn't so so please, please, reach out to us on qaside if you're into this bug

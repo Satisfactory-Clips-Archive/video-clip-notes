@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=sYhzfSPsACQ
 
 ### Transcript
 
-> is there any way to switch off the fixmas yeah if you go to the main menu like not in the game but in yeah i mean like not when you're on the planet but when you're in the main menu there's a setting in gameplay where you can turn off uh seasonal events
+> is there any way to switch off the fixmas yeah if you go to the main menu like not in the game but in yeah i mean like not when you're on the planet but when you're in the main menu there's a setting in gameplay where you can turn off, seasonal events

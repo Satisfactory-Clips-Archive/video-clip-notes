@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=I1q8M9cnCQg
 
 ### Transcript
 
-> please don't burn the sympathetic valheim social no no no no no no i love her no no i would never do that um she's amazing i'm being facetious for the sake of being facetious no at least lisa's doing a great job i i'm super proud of lisa we we we take jabs not not specifically us and like iron gate but but like within the coffee stain probably like coffee stain community management we take jabs with each other sometimes
+> please don't burn the sympathetic valheim social no no no no no no i love her no no i would never do that, she's amazing i'm being facetious for the sake of being facetious no at least lisa's doing a great job i i'm super proud of lisa we we we take jabs not not specifically us and like iron gate but but like within the coffee stain probably like coffee stain community management we take jabs with each other sometimes

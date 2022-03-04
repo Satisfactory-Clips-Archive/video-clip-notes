@@ -18,4 +18,4 @@ https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=606&end=622
 
 ### Transcript
 
-> update four on um early access today which is very exciting if you've played it on experimental you probably know what's gonna happen you probably know what's in it already but if you haven't played an x rental then who oh boy a lot of stuff how's everybody doing we're streaming on
+> update four on, early access today which is very exciting if you've played it on experimental you probably know what's gonna happen you probably know what's in it already but if you haven't played an x rental then who oh boy a lot of stuff how's everybody doing we're streaming on

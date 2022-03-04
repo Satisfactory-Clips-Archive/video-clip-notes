@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=Qef2i5Nug_U
 
 ### Transcript
 
-> uh are we getting new types of floating trees we're all comedians in the chat today yeah you know new types of floating everything well
+> are we getting new types of floating trees we're all comedians in the chat today yeah you know new types of floating everything well

@@ -21,4 +21,4 @@ https://www.youtube.com/watch?v=NELPCpQX388
 
 ### Transcript
 
-> will the bottom left island peninsula be included in the map is it not included yeah is it not no not on the map on the map no on that the uh the update map there's there's nothing on it oh okay as in like there's no changes to that area yeah no changes yeah yeah that's probably what they're talking about yeah yeah is that the uh that's where that like kills fear is right or the kill yeah pretty sure you die if you try to go there in real life too if you go there you die if you die and satisfactory you die in real life
+> will the bottom left island peninsula be included in the map is it not included yeah is it not no not on the map on the map no on that the, the update map there's there's nothing on it oh okay as in like there's no changes to that area yeah no changes yeah yeah that's probably what they're talking about yeah yeah is that the, that's where that like kills fear is right or the kill yeah pretty sure you die if you try to go there in real life too if you go there you die if you die and satisfactory you die in real life

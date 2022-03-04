@@ -20,4 +20,4 @@ https://www.youtube.com/watch?v=REZAEln02WU
 
 ### Transcript
 
-> appreciate it thank you so much okay carrying on so so so that's the the door the secret door at the end it's actually on the the bottom floor you guys so uh uh yeah
+> appreciate it thank you so much okay carrying on so so so that's the the door the secret door at the end it's actually on the the bottom floor you guys so, , yeah

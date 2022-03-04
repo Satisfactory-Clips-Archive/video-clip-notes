@@ -16,7 +16,7 @@ This question was possibly duplicated with a more recent answer: [December 14th,
 
 ### Transcript
 
-> sir i don't know how to talk to the kfc gaming console the exclusivity on camera console yeah soon soon we're going to be uh removing from all the pc stores and going exclusive on kfc console we can't talk about the fact that we're a launch title there but you know oh actually i don't know before if if i have to say that that was a joke i don't know if like there's any legal ramifications if it wasn't clear that i was kidding there i hope people can piece it together people really believed we actually sold nine copies and wrote articles about that tonight i mean that that was worth it though come on that was that articles were so funny yeah i just love how they kept updating them and be like more and more mad like it was so like the one yeah remember the german one that that one [ __ ] killed me yep
+> sir i don't know how to talk to the kfc gaming console the exclusivity on camera console yeah soon soon we're going to be, removing from all the pc stores and going exclusive on kfc console we can't talk about the fact that we're a launch title there but you know oh actually i don't know before if if i have to say that that was a joke i don't know if like there's any legal ramifications if it wasn't clear that i was kidding there i hope people can piece it together people really believed we actually sold nine copies and wrote articles about that tonight i mean that that was worth it though come on that was that articles were so funny yeah i just love how they kept updating them and be like more and more mad like it was so like the one yeah remember the german one that that one [ __ ] killed me yep
 >
 > [Music]
 >

@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=Mj6RbY92QtU
 
 ### Transcript
 
-> um there's places where there's water visibly visually but when you fall there it'll take damage yeah those are spots that we're gonna like fix in the coming world updates um same thing there if you see them report them on a qri site so we can fix it
+> there's places where there's water visibly visually but when you fall there it'll take damage yeah those are spots that we're gonna like fix in the coming world updates, same thing there if you see them report them on a qri site so we can fix it

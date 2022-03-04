@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=thvzHJofHfw
 
 ### Transcript
 
-> do you review bugs weekly or as they get reported uh we have people who are reviewing the qa site literally every single day yeah uh so pretty much yeah pretty much as they come in
+> do you review bugs weekly or as they get reported, we have people who are reviewing the qa site literally every single day yeah, so pretty much yeah pretty much as they come in

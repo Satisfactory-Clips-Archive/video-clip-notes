@@ -20,4 +20,4 @@ https://www.youtube.com/watch?v=CeKdl2MMLc0
 
 ### Transcript
 
-> uh anyway a telestation to deposit only the specific freight liquid cart so we'd have to build more stations than necessary i mean if you only have one resource in that cart then you kind of can do that already um but no you can't uh you can't specifically set any settings on a per cart basis
+> anyway a telestation to deposit only the specific freight liquid cart so we'd have to build more stations than necessary i mean if you only have one resource in that cart then you kind of can do that already, but no you can't, you can't specifically set any settings on a per cart basis

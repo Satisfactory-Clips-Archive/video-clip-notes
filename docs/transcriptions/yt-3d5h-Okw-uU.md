@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=3d5h-Okw-uU
 
 ### Transcript
 
-> um in fact experimental is working well of linux mint that's that's cool considering that we're not fully supporting it but yeah that is a fun fact indeed good for you good to hear good to hear
+> in fact experimental is working well of linux mint that's that's cool considering that we're not fully supporting it but yeah that is a fun fact indeed good for you good to hear good to hear

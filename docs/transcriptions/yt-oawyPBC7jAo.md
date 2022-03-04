@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=oawyPBC7jAo
 
 ### Transcript
 
-> uh will there be less invalid placement issues uh we are kind of experimenting a little bit with the placement stuff making the the collision boxes like a little bit more um generous i'd say uh some people really don't like it some people kind of dig it uh we'll see where we go with that that's that's for mark to decide um director mark director mark john yeah making decisions
+> will there be less invalid placement issues, we are kind of experimenting a little bit with the placement stuff making the the collision boxes like a little bit more, generous i'd say, some people really don't like it some people kind of dig it, we'll see where we go with that that's that's for mark to decide, director mark director mark john yeah making decisions

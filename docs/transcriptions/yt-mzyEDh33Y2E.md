@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=mzyEDh33Y2E
 
 ### Transcript
 
-> um i think during the update for commentary stream you offered yourself up to voice people's stuff yeah offer's still there no one's approached i i mean i haven't done anything so like i've been thinking about it i was like maybe i should take these little clips and put them together and make a little reel and just try apply for some stuff oh yeah see if i can do some stuff on the side it could be fun because i've done vo stuff it's fun oh yeah nice
+> i think during the update for commentary stream you offered yourself up to voice people's stuff yeah offer's still there no one's approached i i mean i haven't done anything so like i've been thinking about it i was like maybe i should take these little clips and put them together and make a little reel and just try apply for some stuff oh yeah see if i can do some stuff on the side it could be fun because i've done vo stuff it's fun oh yeah nice

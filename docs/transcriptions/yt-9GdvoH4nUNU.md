@@ -16,8 +16,8 @@ https://www.youtube.com/watch?v=9GdvoH4nUNU
 
 ### Transcript
 
-> having the community already built a dedicated server docker image maybe uh but like if we if we want to provide a docker image to people we need to
+> having the community already built a dedicated server docker image maybe, but like if we if we want to provide a docker image to people we need to
 >
 > [Music]
 >
-> make sure it's one that's like trustworthy that like you know we can say yeah this is this one's good to use and we're not just gonna link to like a random person in the community uh i mean i'm sure we could but like we sort of want to just have our own one that we have sort of control over
+> make sure it's one that's like trustworthy that like you know we can say yeah this is this one's good to use and we're not just gonna link to like a random person in the community, i mean i'm sure we could but like we sort of want to just have our own one that we have sort of control over

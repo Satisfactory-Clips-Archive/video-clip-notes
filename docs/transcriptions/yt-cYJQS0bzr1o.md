@@ -24,4 +24,4 @@ https://www.youtube.com/watch?v=cYJQS0bzr1o
 >
 > [ __ ]
 >
-> shade with throne i don't know if it's faster maybe it is uh i don't think it is but i remember i think the recipe is still the same i think the reasoning there is because it would overpower some of the some of the configurations if it were so that's why we haven't changed that stuff maybe that was related to the mixing of fluids whatever
+> shade with throne i don't know if it's faster maybe it is, i don't think it is but i remember i think the recipe is still the same i think the reasoning there is because it would overpower some of the some of the configurations if it were so that's why we haven't changed that stuff maybe that was related to the mixing of fluids whatever

@@ -22,7 +22,7 @@ https://www.youtube.com/watch?v=6La5K6gxORE
 
 ### Transcript
 
-> uh what are the radio menus for walls not distinguished between smooth walls and and corrugated walls uh i don't know go to the q a z and uh ask about or vote for that i think there's a post for that already no post found no wait it should work i posted it this is how you farm karma on the qa posts uh or the q a site mark um i made a post about that a few days ago yeah go and upload that post
+> what are the radio menus for walls not distinguished between smooth walls and and corrugated walls, i don't know go to the q a z and, ask about or vote for that i think there's a post for that already no post found no wait it should work i posted it this is how you farm karma on the qa posts, or the q a site mark, i made a post about that a few days ago yeah go and upload that post
 >
 > [Music]
 >

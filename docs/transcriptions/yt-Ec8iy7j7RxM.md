@@ -16,8 +16,8 @@ https://www.youtube.com/watch?v=Ec8iy7j7RxM
 
 ### Transcript
 
-> uh did you get don't don't go away come back where'd you go did you get more reports that there are graphical glitch glitches when update four started since the release items are not rendered correctly on belt sometimes for me yo so this nine out of ten times when i get people to tell me this it's because they need to verify the game files because of the patching uh the patch that you download sometimes like doesn't work or doesn't install everything correctly um so nine out of ten times when people say this to me it's because they need to verify their game files
+> did you get don't don't go away come back where'd you go did you get more reports that there are graphical glitch glitches when update four started since the release items are not rendered correctly on belt sometimes for me yo so this nine out of ten times when i get people to tell me this it's because they need to verify the game files because of the patching, the patch that you download sometimes like doesn't work or doesn't install everything correctly, so nine out of ten times when people say this to me it's because they need to verify their game files
 >
 > [Music]
 >
-> in some cases specifically to the belts it's because we need to update the uh the material on some items uh if you're referring to fixed items specifically we're probably not going to do that until next christmas because we don't support fixmas stuff currently um but yeah verify your game files this is what i'm it's all i can say
+> in some cases specifically to the belts it's because we need to update the, the material on some items, if you're referring to fixed items specifically we're probably not going to do that until next christmas because we don't support fixmas stuff currently, but yeah verify your game files this is what i'm it's all i can say

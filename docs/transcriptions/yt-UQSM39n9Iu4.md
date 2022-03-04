@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=UQSM39n9Iu4
 
 ### Transcript
 
-> so here here we are in the beautiful world of massage ii what's the name of the planet again massage 2 a b b i believe it is and actually apparently that that name is is uh according to how planets are named it makes sense apparently yeah if you ever have fun yeah i i remember looking through like it's like those stellar uh maps or whatever all the names of the planets are like impossible to pronounce and like they don't make any sense so yeah same same energy
+> so here here we are in the beautiful world of massage ii what's the name of the planet again massage 2 a b b i believe it is and actually apparently that that name is is, according to how planets are named it makes sense apparently yeah if you ever have fun yeah i i remember looking through like it's like those stellar, maps or whatever all the names of the planets are like impossible to pronounce and like they don't make any sense so yeah same same energy

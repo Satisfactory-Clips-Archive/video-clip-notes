@@ -23,4 +23,4 @@ https://www.youtube.com/watch?v=s1Tz9QOFyZc
 
 ### Transcript
 
-> um someone asked if we can get materials for half pipes or something um i've missed the question uh if there aren't there and there should be then i recommend the qa site suggestions there i think it's it's uh yeah we have we added like a lot of material customization to a lot of almost all the foundations except the half pipe one and i think the reason for that is maybe we ran out of time um so uh yeah i'll put that let's see where you want it yeah
+> someone asked if we can get materials for half pipes or something, i've missed the question, if there aren't there and there should be then i recommend the qa site suggestions there i think it's it's, yeah we have we added like a lot of material customization to a lot of almost all the foundations except the half pipe one and i think the reason for that is maybe we ran out of time, so, yeah i'll put that let's see where you want it yeah

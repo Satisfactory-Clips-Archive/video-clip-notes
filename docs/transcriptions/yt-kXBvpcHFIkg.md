@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=kXBvpcHFIkg
 
 ### Transcript
 
-> flip come first we almost didn't do today's stream because we had so much stuff on we're like maybe we should just not do stream but we uh we're squeaking it out boys and girls all right we're making it happen making this dream happen
+> flip come first we almost didn't do today's stream because we had so much stuff on we're like maybe we should just not do stream but we, we're squeaking it out boys and girls all right we're making it happen making this dream happen

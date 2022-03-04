@@ -25,4 +25,4 @@ https://www.youtube.com/watch?v=aiQhUjVl2AI
 
 ### Transcript
 
-> language you use c plus plus english english yes computers computer language a computer a computer um
+> language you use c plus plus english english yes computers computer language a computer a computer

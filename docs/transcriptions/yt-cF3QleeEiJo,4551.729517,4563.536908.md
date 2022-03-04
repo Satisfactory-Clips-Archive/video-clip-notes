@@ -20,4 +20,4 @@ This question was possibly duplicated with a more recent answer: [April 13th, 20
 
 ### Transcript
 
-> faster smart yeah so mods uh so mars should be uh coming along on update on the early access branch in the coming days awesome cool wait snoop works
+> faster smart yeah so mods, so mars should be, coming along on update on the early access branch in the coming days awesome cool wait snoop works

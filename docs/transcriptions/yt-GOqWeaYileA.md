@@ -55,4 +55,4 @@ This question was possibly replaced with a more recent answer: [October 5th, 202
 
 ### Transcript
 
-> the collision signalling updates uh to trains expecting update vive that is something that you know maybe will maybe we are focusing our attention on other things you'll have to wait and see
+> the collision signalling updates, to trains expecting update vive that is something that you know maybe will maybe we are focusing our attention on other things you'll have to wait and see

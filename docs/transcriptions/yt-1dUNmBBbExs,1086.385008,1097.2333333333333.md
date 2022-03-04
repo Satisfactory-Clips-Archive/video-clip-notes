@@ -18,8 +18,8 @@ https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=1086&end=1098
 
 ### Transcript
 
-> um again saying where's the tony hawk's pro skater mod where you can grind that sick rail
+> again saying where's the tony hawk's pro skater mod where you can grind that sick rail
 >
 > [Laughter]
 >
-> what do you what do you mean mod update yeah yeah exactly it's already in there um all
+> what do you what do you mean mod update yeah yeah exactly it's already in there, all

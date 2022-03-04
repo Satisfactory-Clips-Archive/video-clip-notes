@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=TH2AZz_gYSw
 
 ### Transcript
 
-> gg for dedicated servers by the way thanks we we know that there are still like a few a couple of crashes that are happening on dedicated servers uh and maybe the patch today will address some of those uh i guess we'll find out i haven't read the patch but uh it's never impossible
+> gg for dedicated servers by the way thanks we we know that there are still like a few a couple of crashes that are happening on dedicated servers, and maybe the patch today will address some of those, i guess we'll find out i haven't read the patch but, it's never impossible

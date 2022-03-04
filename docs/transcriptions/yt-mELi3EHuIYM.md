@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=mELi3EHuIYM
 
 ### Transcript
 
-> soup for science would be awesome i agree uh it would also be great if we could easier like copy and paste settings between buildings more easily same thing on the signs yeah something could probably be done there
+> soup for science would be awesome i agree, it would also be great if we could easier like copy and paste settings between buildings more easily same thing on the signs yeah something could probably be done there

@@ -18,11 +18,11 @@ https://www.youtube.com/watch?v=aHNGLfzMuxE
 
 ### Transcript
 
-> uh power storage yes um it was also kind of fun and um i remember talking to um to the game director mark and it was like pretty clear like power storage that should just be it is essentially just a battery so let's make it a battery a giant battery um so we looked into different uh different battery uh shapes um and tried out a little bit with stuff and um
+> power storage yes, it was also kind of fun and, i remember talking to, to the game director mark and it was like pretty clear like power storage that should just be it is essentially just a battery so let's make it a battery a giant battery, so we looked into different, different battery, shapes, and tried out a little bit with stuff and
 >
 > [Music]
 >
-> yeah i'm i'm at at first my favorite was the the right one the rounded off the elongated one it was kind of my favorite but because i the plan was to have like an animation like the top part the connectors that they uh they fold out and then you have the electricity effect on it when it's when it charges so uh that would have been fun but then again uh the requirements came in about like and we tried around with a few block outs and found that well it should be a round one like a square foundation size so um and then the foundation size essentially uh made the decision for us and said well no we're gonna go for that design and again here we needed to figure out some animation some feedback because uh is it charging or is it uh is it charging um factory factor your factory right now is it empty so we need a bit of feedback more feedback than the ui so this is where this came in and on the right uh third here you can see the final mesh which is pretty close to the concept
+> yeah i'm i'm at at first my favorite was the the right one the rounded off the elongated one it was kind of my favorite but because i the plan was to have like an animation like the top part the connectors that they, they fold out and then you have the electricity effect on it when it's when it charges so, that would have been fun but then again, the requirements came in about like and we tried around with a few block outs and found that well it should be a round one like a square foundation size so, and then the foundation size essentially, made the decision for us and said well no we're gonna go for that design and again here we needed to figure out some animation some feedback because, is it charging or is it, is it charging, factory factor your factory right now is it empty so we need a bit of feedback more feedback than the ui so this is where this came in and on the right, third here you can see the final mesh which is pretty close to the concept
 >
 > [Music]
 >

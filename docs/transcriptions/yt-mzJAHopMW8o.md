@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=mzJAHopMW8o
 
 ### Transcript
 
-> oh what software do you use uh what hardware do you use i use photoshop illustrate mostly illustrator i use uh balsamiq i use vizio i use unreal engine 4 i use after effects premiere i'm not that much anymore but yeah yeah
+> oh what software do you use, what hardware do you use i use photoshop illustrate mostly illustrator i use, balsamiq i use vizio i use unreal engine 4 i use after effects premiere i'm not that much anymore but yeah yeah

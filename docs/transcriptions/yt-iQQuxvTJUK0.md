@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=iQQuxvTJUK0
 
 ### Transcript
 
-> folks asking about my hoodie i don't think it's available anymore folks but it used to be on our merch store if you exclamation mark merch you can see that we have two different merch stores where you can buy things from uh and this hoodie is on neither of them weird flex to answer your questions
+> folks asking about my hoodie i don't think it's available anymore folks but it used to be on our merch store if you exclamation mark merch you can see that we have two different merch stores where you can buy things from, and this hoodie is on neither of them weird flex to answer your questions

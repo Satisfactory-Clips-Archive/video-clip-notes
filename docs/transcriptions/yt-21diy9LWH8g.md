@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=21diy9LWH8g
 
 ### Transcript
 
-> but yeah if you think autosave is annoying uh try bumping it up a bit uh because you can change the interval i believe you can disable it completely as well but i'm not quite sure about that
+> but yeah if you think autosave is annoying, try bumping it up a bit, because you can change the interval i believe you can disable it completely as well but i'm not quite sure about that

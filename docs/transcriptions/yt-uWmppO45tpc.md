@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=uWmppO45tpc
 
 ### Transcript
 
-> um the css have studio tours yeah we've had people who like sort of stop bike of the monitor and we give them a tour we've done that before not to say that like people can sign up and be like hey give me the tour yeah and by no means just show up and expect
+> the css have studio tours yeah we've had people who like sort of stop bike of the monitor and we give them a tour we've done that before not to say that like people can sign up and be like hey give me the tour yeah and by no means just show up and expect

@@ -24,4 +24,4 @@ https://www.youtube.com/watch?v=S6E6qkiS8jg
 
 ### Transcript
 
-> can we get a mobile satisfactory oh god all right micro transactions just confirmed you guys it uh sorry it's just rolling in here uh-huh uh-huh all right this just in micro transactions are coming so we can make the mobile port of the game
+> can we get a mobile satisfactory oh god all right micro transactions just confirmed you guys it, sorry it's just rolling in here, -huh, -huh all right this just in micro transactions are coming so we can make the mobile port of the game

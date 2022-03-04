@@ -20,4 +20,4 @@ https://youtube.com/clip/UgkxhsqKkTucssBdLCJtFjRmxGZtF-yz7Ceg
 
 ### Transcript
 
-> uh question a dedicated service more than four players uh officially no we support only four players that's basically it even on dedicated servers but there are ways to change that limit by config files and stuff just google around there might you might find a way to do it some people have managed it but we only officially support up to four players yeah some people the audacity some people made a really big server
+> question a dedicated service more than four players, officially no we support only four players that's basically it even on dedicated servers but there are ways to change that limit by config files and stuff just google around there might you might find a way to do it some people have managed it but we only officially support up to four players yeah some people the audacity some people made a really big server

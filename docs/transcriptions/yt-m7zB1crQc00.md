@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=m7zB1crQc00
 
 ### Transcript
 
-> are there hidden puzzles in the game uh there are there are not hitting but yeah i guess there are there are like exploration puzzles if you will like jump puzzles have to reach like certain areas and like equipment you need stuff like that uh but it's not like you know uh the witness puzzles in that sense
+> are there hidden puzzles in the game, there are there are not hitting but yeah i guess there are there are like exploration puzzles if you will like jump puzzles have to reach like certain areas and like equipment you need stuff like that, but it's not like you know, the witness puzzles in that sense

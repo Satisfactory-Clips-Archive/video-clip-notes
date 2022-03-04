@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=VDkjRnWH6PQ
 
 ### Transcript
 
-> ratio splitters would be a game changer dude ratio splits would be super cool i that's that's one feature that i would really oh personally i'm surprised that like the ratio splitter isn't like higher on the keyway side um but maybe that's just me
+> ratio splitters would be a game changer dude ratio splits would be super cool i that's that's one feature that i would really oh personally i'm surprised that like the ratio splitter isn't like higher on the keyway side, but maybe that's just me

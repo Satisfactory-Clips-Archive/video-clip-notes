@@ -16,6 +16,6 @@ https://www.youtube.com/watch?v=RkF6Qjjwf5A
 
 ### Transcript
 
-> um any insane people in chat building bamboo forest i i bet there are because we get we get some bamboo forest folks in uh community highlights there's one that i didn't pick for today but i was you know i was about to and they they built in the bamboo forest yeah dark angel 69 built a really cool uh duck oh them again yeah
+> any insane people in chat building bamboo forest i i bet there are because we get we get some bamboo forest folks in, community highlights there's one that i didn't pick for today but i was you know i was about to and they they built in the bamboo forest yeah dark angel 69 built a really cool, duck oh them again yeah
 >
 > [Music]

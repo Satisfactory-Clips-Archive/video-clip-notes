@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=0S0ISLTI2es
 
 ### Transcript
 
-> uh one question on uh steam real quick when are you removing spiders can't handle them there's arachnophobia mode it turns the spiders into cats and everything's fine not scary i promise
+> one question on, steam real quick when are you removing spiders can't handle them there's arachnophobia mode it turns the spiders into cats and everything's fine not scary i promise

@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=414Ibs0g0Yo
 
 ### Transcript
 
-> some youtubers refer to a vehicle update is this a thing uh i mean we will probably update vehicles yeah at some point in the future um we have said that we will be doing trains in the future like we have we have already confirmed that you know eventually we will do sign signals and collision with trains those are things that will be happening at some point in the future we do want those in the game so yeah
+> some youtubers refer to a vehicle update is this a thing, i mean we will probably update vehicles yeah at some point in the future, we have said that we will be doing trains in the future like we have we have already confirmed that you know eventually we will do sign signals and collision with trains those are things that will be happening at some point in the future we do want those in the game so yeah

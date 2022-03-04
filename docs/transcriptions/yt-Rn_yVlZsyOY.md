@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=Rn_yVlZsyOY
 
 ### Transcript
 
-> are vehicle concepts actually something that mods could provide i'm not sure i don't know what the current limitations are with the with what the modding folks have done uh specifically around vehicles but yeah i mean i don't think i've i think i've seen people haven't modded vehicles in have they but who knows when we you know eventually do official mod support we'll see what happens
+> are vehicle concepts actually something that mods could provide i'm not sure i don't know what the current limitations are with the with what the modding folks have done, specifically around vehicles but yeah i mean i don't think i've i think i've seen people haven't modded vehicles in have they but who knows when we you know eventually do official mod support we'll see what happens

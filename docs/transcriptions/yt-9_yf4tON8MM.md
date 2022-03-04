@@ -16,4 +16,4 @@ This question was possibly replaced with a more recent answer: [September 17th, 
 
 ### Transcript
 
-> um any vulcan support no not currently
+> any vulcan support no not currently

@@ -20,4 +20,4 @@ https://www.youtube.com/watch?v=4dLz2rdgyQ4
 
 ### Transcript
 
-> sir what major features are left for update six you have to wait till we uh you know announce them
+> sir what major features are left for update six you have to wait till we, you know announce them

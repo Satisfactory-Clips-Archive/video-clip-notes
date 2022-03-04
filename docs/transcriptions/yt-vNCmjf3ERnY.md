@@ -42,4 +42,4 @@ This question was possibly replaced with a more recent answer: [January 25th, 20
 
 ### Transcript
 
-> where's the mug the mug is like um we ran into some complications with uh due to kovid um and um yeah unfortunately like most of our merch situation got a big setback because of that um so i think that's that's the tl dr i don't know the specifics about it but that's that's a bummer thing about it so yes
+> where's the mug the mug is like, we ran into some complications with, due to kovid, and, yeah unfortunately like most of our merch situation got a big setback because of that, so i think that's that's the tl dr i don't know the specifics about it but that's that's a bummer thing about it so yes

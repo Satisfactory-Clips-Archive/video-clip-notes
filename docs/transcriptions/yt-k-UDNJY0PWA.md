@@ -22,8 +22,8 @@ This question was possibly duplicated with a more recent answer: [May 4th, 2021 
 
 ### Transcript
 
-> any plans to improve the visual part of building in the game like more walls different foundation designs uh yeah there's there's a few things like in terms of cosmetics there are a bunch of ideas that we want to do um
+> any plans to improve the visual part of building in the game like more walls different foundation designs, yeah there's there's a few things like in terms of cosmetics there are a bunch of ideas that we want to do
 >
 > [Music]
 >
-> i know that some of the artists are have like a bunch of ideas of cosmetics and like stuff to put on the walls and stuff like that that they want to do um but don't know when that will come
+> i know that some of the artists are have like a bunch of ideas of cosmetics and like stuff to put on the walls and stuff like that that they want to do, but don't know when that will come

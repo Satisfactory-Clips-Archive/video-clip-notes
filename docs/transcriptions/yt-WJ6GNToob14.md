@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=WJ6GNToob14
 
 ### Transcript
 
-> being able to attach walkways to this train station up platforms oh yeah that would be cool i'll put that in the qa side a lot if you if you haven't noticed there's a lot of up with that on the keyway site uh and that's because that's that's the type of feedback where like we can't we can't do everything at the same time so we need to prioritize and uh those are the kinds of things so like the more eyes we have on that the better
+> being able to attach walkways to this train station up platforms oh yeah that would be cool i'll put that in the qa side a lot if you if you haven't noticed there's a lot of up with that on the keyway site, and that's because that's that's the type of feedback where like we can't we can't do everything at the same time so we need to prioritize and, those are the kinds of things so like the more eyes we have on that the better

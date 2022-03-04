@@ -18,8 +18,8 @@ https://www.youtube.com/watch?v=qtyPULKrJyE
 
 ### Transcript
 
-> let's see here will railings snap to all kind of ramps uh separate buildables to normal fences um so the the railings will snap to uh i mean what kind of ramps are there there's only like two or three right um i mean those like i think i showcased it's hard to see in the video maybe but like all the ramp types are in that video i believe maybe except the smallest one i know as i have to come clean about something though uh something that smirking pointed out in his stream was that i wasn't using the double ramp um the reason for that was because there's there's a kernel in the bug in the version that we have right now where the railings don't snap to the double ramps so i had to use the old-fashioned way of building ramps which is like a a ramp and then a upside down ramp so it's not an actual level ramp but they are going to snap to double rams
+> let's see here will railings snap to all kind of ramps, separate buildables to normal fences, so the the railings will snap to, i mean what kind of ramps are there there's only like two or three right, i mean those like i think i showcased it's hard to see in the video maybe but like all the ramp types are in that video i believe maybe except the smallest one i know as i have to come clean about something though, something that smirking pointed out in his stream was that i wasn't using the double ramp, the reason for that was because there's there's a kernel in the bug in the version that we have right now where the railings don't snap to the double ramps so i had to use the old-fashioned way of building ramps which is like a a ramp and then a upside down ramp so it's not an actual level ramp but they are going to snap to double rams
 >
 > [Music]
 >
-> in the in update five so uh
+> in the in update five so ,

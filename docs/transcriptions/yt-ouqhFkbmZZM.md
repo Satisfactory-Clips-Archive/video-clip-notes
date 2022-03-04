@@ -23,4 +23,4 @@ https://www.youtube.com/watch?v=ouqhFkbmZZM
 
 ### Transcript
 
-> will crash sites ever be made deconstructable in the future i don't know uh i'll put that in the queue side depending on how you want us to solve that because there's a i think there's a couple of ways we could solve that if they're just deconstructable or like yeah i don't know
+> will crash sites ever be made deconstructable in the future i don't know, i'll put that in the queue side depending on how you want us to solve that because there's a i think there's a couple of ways we could solve that if they're just deconstructable or like yeah i don't know

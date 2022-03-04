@@ -22,4 +22,4 @@ https://youtube.com/clip/Ugkx5JuAzcrsCCcFtpKMHAgOzSvYKgxHUPAy
 
 ### Transcript
 
-> uh snoot and jace are you coders well we used to be programmers on such a satisfactory but we don't do that anymore but uh we've both been programmers for quite a while before that in various places it's too bad so if you're just joining
+> snoot and jace are you coders well we used to be programmers on such a satisfactory but we don't do that anymore but, we've both been programmers for quite a while before that in various places it's too bad so if you're just joining

@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=-_5IROo4_H4
 
 ### Transcript
 
-> um i thought watch the vod i thought you meant like i should watch the vaude on the vaude if you're watching the vaude i see you
+> i thought watch the vod i thought you meant like i should watch the vaude on the vaude if you're watching the vaude i see you

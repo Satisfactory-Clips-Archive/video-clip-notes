@@ -14,4 +14,4 @@ https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=1833&end=1844
 
 ### Transcript
 
-> you know does anyone know if there's a mod to holster weapon or tool i think there is i'm not sure but i think we can check it out later um
+> you know does anyone know if there's a mod to holster weapon or tool i think there is i'm not sure but i think we can check it out later

@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=pyBH9slmZjY
 
 ### Transcript
 
-> can you improve ladder rendering distance uh i don't know can we i don't know if that's something that we've uh seen as an issue so please report that on the q website if you think we should
+> can you improve ladder rendering distance, i don't know can we i don't know if that's something that we've, seen as an issue so please report that on the q website if you think we should

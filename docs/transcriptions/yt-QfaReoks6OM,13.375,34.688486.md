@@ -24,4 +24,4 @@ to Satisfactory in Update 5. For a lot of stuff
 that will be showing off today. There will be additional videos
 with more information, so be on the lookout for cards up
 above to learn more about those things. Now, a lot of features
-have been requested over on our QA Site,
+have been requested over on our QA Site

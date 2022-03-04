@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [November 9th, 
 
 ### Transcript
 
-> but how long the update will be on experimental i think we don't we never know but i think uh roughly a month is has been the um track record yeah um a track record has been roughly a month ish but if it's if it needs more work if it's not stable like we're not going to push it right so yeah yeah
+> but how long the update will be on experimental i think we don't we never know but i think, roughly a month is has been the, track record yeah, a track record has been roughly a month ish but if it's if it needs more work if it's not stable like we're not going to push it right so yeah yeah

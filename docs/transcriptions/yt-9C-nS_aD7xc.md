@@ -22,4 +22,4 @@ https://www.youtube.com/watch?v=9C-nS_aD7xc
 
 ### Transcript
 
-> talking is hard use your words thrown novelists can travel through hypertubes that would be awesome uh that would be so funny if you're like have someone standing at the other end you just like throw it and it shows up i stand that idea i'll put that on the keyway side i think that's funny i don't think that's impossible to implement either maybe it is i don't know i didn't implement either of those hypertube fireworks launcher yeah
+> talking is hard use your words thrown novelists can travel through hypertubes that would be awesome, that would be so funny if you're like have someone standing at the other end you just like throw it and it shows up i stand that idea i'll put that on the keyway side i think that's funny i don't think that's impossible to implement either maybe it is i don't know i didn't implement either of those hypertube fireworks launcher yeah

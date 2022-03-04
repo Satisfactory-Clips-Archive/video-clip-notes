@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=xhhj85GeqvA
 
 ### Transcript
 
-> it's no do you know there's this district in berlin called your surname i do know that there's a district in berlin um that has a very similar name to my name uh i'm actually from germany not no i'm not from germany but like my name comes from germany i'm like what is it third degree immigrant immigrant or something like that so that is where that end comes from actually so uh yes
+> it's no do you know there's this district in berlin called your surname i do know that there's a district in berlin, that has a very similar name to my name, i'm actually from germany not no i'm not from germany but like my name comes from germany i'm like what is it third degree immigrant immigrant or something like that so that is where that end comes from actually so, yes

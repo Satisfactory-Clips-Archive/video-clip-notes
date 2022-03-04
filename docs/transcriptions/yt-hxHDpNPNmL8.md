@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=hxHDpNPNmL8
 
 ### Transcript
 
-> um dedicated servers something that a lot of people ask about we don't have any like real news we are making good progress on them though um so those are coming along
+> dedicated servers something that a lot of people ask about we don't have any like real news we are making good progress on them though, so those are coming along

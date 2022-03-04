@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [November 9th, 
 
 ### Transcript
 
-> apparently there might be some bugs with battery consumption is that is that a thing that i think people pointed out or something or is it has that been fixed i don't think we've ever had a bug in our game to be honest not that i've seen all right moving right on no but yeah there might be something there where it displays the wrong battery um consumption but i think it should be fixed by now we might have to double check that should tm yeah what are some of like the biggest
+> apparently there might be some bugs with battery consumption is that is that a thing that i think people pointed out or something or is it has that been fixed i don't think we've ever had a bug in our game to be honest not that i've seen all right moving right on no but yeah there might be something there where it displays the wrong battery, consumption but i think it should be fixed by now we might have to double check that should tm yeah what are some of like the biggest

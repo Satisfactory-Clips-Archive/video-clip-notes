@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=JhdDyDRBLjM
 
 ### Transcript
 
-> is the rare ultimate clapping emote animation and still game yeah those those uh rare emotes are all still there and they're running and everything so yeah naruto run
+> is the rare ultimate clapping emote animation and still game yeah those those, rare emotes are all still there and they're running and everything so yeah naruto run

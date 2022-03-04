@@ -20,4 +20,4 @@ This question was possibly duplicated with a more recent answer: [February 22nd,
 >
 > [Laughter]
 >
-> grandson's dobbing on the tic tac again uh nobody dabs anymore chad stop it
+> grandson's dobbing on the tic tac again, nobody dabs anymore chad stop it

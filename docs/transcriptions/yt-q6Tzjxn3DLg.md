@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=q6Tzjxn3DLg
 
 ### Transcript
 
-> uh yeah i guess the uh the only post that we don't read on the qa side is that one about golf you know because that's been rejected no more golf rip
+> yeah i guess the, the only post that we don't read on the qa side is that one about golf you know because that's been rejected no more golf rip

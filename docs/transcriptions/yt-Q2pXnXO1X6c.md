@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=Q2pXnXO1X6c
 
 ### Transcript
 
-> vertical splitters and mergers this is something that i've seen a lot of people request and i don't think this is gonna happen you guys to be honest um because we don't really see the big gain in this i mean it's we won't say nothing's impossible but uh yeah i don't know if that's gonna happen honestly we'll see
+> vertical splitters and mergers this is something that i've seen a lot of people request and i don't think this is gonna happen you guys to be honest, because we don't really see the big gain in this i mean it's we won't say nothing's impossible but, yeah i don't know if that's gonna happen honestly we'll see

@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=j-HgypXTdQ8
 
 ### Transcript
 
-> 100 yeah don't worry about it j you're muted jace yeah i can't even hear you okay okay all right so moment has been redeemed so we're going viking for a little while or we're going to what you know you had that oh you bart sorry all right snot how are you doing snot oh boy oh boy is that what i sound like yeah fair enough i did a really good import uh interpretation of you neck beard
+> 100 yeah don't worry about it j you're muted jace yeah i can't even hear you okay okay all right so moment has been redeemed so we're going viking for a little while or we're going to what you know you had that oh you bart sorry all right snot how are you doing snot oh boy oh boy is that what i sound like yeah fair enough i did a really good import, interpretation of you neck beard
 >
 > [Music]
 >

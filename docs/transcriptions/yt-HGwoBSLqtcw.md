@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [February 15th,
 
 ### Transcript
 
-> scott keeps talking about elevators uh some scott no human elevators there it is no plans for hel elevators all right you can keep talking about elevators though that's when you do you man follow your dreams yeah whatever you want maybe they'll let me water something i don't know
+> scott keeps talking about elevators, some scott no human elevators there it is no plans for hel elevators all right you can keep talking about elevators though that's when you do you man follow your dreams yeah whatever you want maybe they'll let me water something i don't know

@@ -16,8 +16,8 @@ This question was possibly duplicated with a more recent answer: [February 15th,
 
 ### Transcript
 
-> and he plans on an actual elevator i don't think so we talked about this a lot last week me and jace uh i think like elevators are tricky to do in games specifically multiplayer um and like it's not something that we feel that we're currently missing the game like it doesn't add much to the game right now because we when we made the hyper tubes that sort of solved part of the problem with the elevators now granted we don't have that for vehicles but we don't
+> and he plans on an actual elevator i don't think so we talked about this a lot last week me and jace, i think like elevators are tricky to do in games specifically multiplayer, and like it's not something that we feel that we're currently missing the game like it doesn't add much to the game right now because we when we made the hyper tubes that sort of solved part of the problem with the elevators now granted we don't have that for vehicles but we don't
 >
 > [Music]
 >
-> we don't really think that's like at the moment something important to the main gameplay uh may change or not i don't know but uh but there's a mod for that it's pretty good so yes
+> we don't really think that's like at the moment something important to the main gameplay, may change or not i don't know but, but there's a mod for that it's pretty good so yes

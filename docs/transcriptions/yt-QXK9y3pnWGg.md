@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [December 7th, 
 
 ### Transcript
 
-> uh underwater worlds that would require a whole new map how about subnautica this is the place of nautica yeah yeah it's much better on the world underwater stuff that we would ever all right here's the here's probably is
+> underwater worlds that would require a whole new map how about subnautica this is the place of nautica yeah yeah it's much better on the world underwater stuff that we would ever all right here's the here's probably is

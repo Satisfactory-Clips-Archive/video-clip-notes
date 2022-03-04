@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=1D3Q3xWkQ6o
 
 ### Transcript
 
-> so i saw a question about using get natural gases for the game uh i don't know that's i guess that's something for uh mark to answer but um could be cool make sure to upload that on the website if you really like it
+> so i saw a question about using get natural gases for the game, i don't know that's i guess that's something for, mark to answer but, could be cool make sure to upload that on the website if you really like it

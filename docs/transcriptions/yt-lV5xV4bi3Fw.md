@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=lV5xV4bi3Fw
 
 ### Transcript
 
-> any chance for volcano or asteroid smashing through our factory zero chance i think uh fat boy slim shady um nice name
+> any chance for volcano or asteroid smashing through our factory zero chance i think, fat boy slim shady, nice name

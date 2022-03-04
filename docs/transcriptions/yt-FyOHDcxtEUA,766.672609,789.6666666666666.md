@@ -16,4 +16,4 @@ https://youtube.com/clip/Ugw8x_S9XXS7RVhAK_N4AaABCQ
 
 ### Transcript
 
-> what i'm demonstrating here in this video is when you're building inside the world grid it actually updates the heights of that cell so as you can see it increased the height of that square um yeah and yeah when you dismantle things it reduces back to the normal size as well easy peasy uh okay so that's that's everything
+> what i'm demonstrating here in this video is when you're building inside the world grid it actually updates the heights of that cell so as you can see it increased the height of that square, yeah and yeah when you dismantle things it reduces back to the normal size as well easy peasy, okay so that's that's everything

@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [November 9th, 
 
 ### Transcript
 
-> any plans on a global grid yo i would love that plea please upload that in the question site so it becomes more apparent that people really want this uh i'm pretty sure they're already post about this but this is something that i really want personally um and it's something we've we've looked at but we haven't had time to check it out fully and see if it's something that we want to pursue or can pursue like at the time because it's always like stuff that we're working on
+> any plans on a global grid yo i would love that plea please upload that in the question site so it becomes more apparent that people really want this, i'm pretty sure they're already post about this but this is something that i really want personally, and it's something we've we've looked at but we haven't had time to check it out fully and see if it's something that we want to pursue or can pursue like at the time because it's always like stuff that we're working on

@@ -20,4 +20,4 @@ This question was possibly duplicated with a more recent answer: [November 9th, 
 
 ### Transcript
 
-> mercy spheres and summer slopes be useful soon uh nope they're going to be tied to the story and the story is not going to be added uh for quite some time probably not until launch the 1.0 yeah but they will be used
+> mercy spheres and summer slopes be useful soon, nope they're going to be tied to the story and the story is not going to be added, for quite some time probably not until launch the 1.0 yeah but they will be used

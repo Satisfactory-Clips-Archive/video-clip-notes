@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [November 16th,
 
 ### Transcript
 
-> do not uh is ada cg or a voice actress she's text to speech with a couple effects on her but um yeah it's like google google text yeah text and speech
+> do not, is ada cg or a voice actress she's text to speech with a couple effects on her but, yeah it's like google google text yeah text and speech

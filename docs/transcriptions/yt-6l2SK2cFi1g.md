@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=6l2SK2cFi1g
 
 ### Transcript
 
-> isn't there a restaurant right next door to the coffee store new i mean sort of but it's not really a restaurant it's like a like a cafe more uh but they they don't have good food imo
+> isn't there a restaurant right next door to the coffee store new i mean sort of but it's not really a restaurant it's like a like a cafe more, but they they don't have good food imo

@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=1NL4q6EZpq8
 
 > [Music]
 >
-> mark for community manager yeah how bad can it be tim tim uh tim set the the bar so like mark will just leak everything or maybe he'll be the opposite and leak nothing
+> mark for community manager yeah how bad can it be tim tim, tim set the the bar so like mark will just leak everything or maybe he'll be the opposite and leak nothing

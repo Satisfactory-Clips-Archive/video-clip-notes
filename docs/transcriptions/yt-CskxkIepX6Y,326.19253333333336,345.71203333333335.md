@@ -20,4 +20,4 @@ https://youtube.com/clip/Ugkxafni_0V2A90Q7IgLuLDlDC0GVqmT9q9Q
 
 ### Transcript
 
-> that's train collisions they're a thing but you need some way to avoid them right so we've introduced signals to the game train signals are just sort of what they sound like they're signals that you put by the train tracks and they either allow or block trains from continuing on their path uh in an effort to reduce collisions or to eliminate all uh train collisions entirely now we have two kinds of signals in satisfactory we have
+> that's train collisions they're a thing but you need some way to avoid them right so we've introduced signals to the game train signals are just sort of what they sound like they're signals that you put by the train tracks and they either allow or block trains from continuing on their path, in an effort to reduce collisions or to eliminate all, train collisions entirely now we have two kinds of signals in satisfactory we have

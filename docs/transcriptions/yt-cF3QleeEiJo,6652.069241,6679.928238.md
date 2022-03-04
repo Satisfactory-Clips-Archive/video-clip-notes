@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [February 8th, 
 
 ### Transcript
 
-> achievements achievements is going to be we're going to hold off for achievements until 1.0 we're going to wait in like that's going to be one of the last things we're going to do we're we're most definitely going to add achievements but it's probably going to be when the game hits 1.0 because then we know like balancing wise what makes sense uh we know you know that the core content is going to be the game same thing for story story is also saved for 1.0 release so that's going to come then um train collision
+> achievements achievements is going to be we're going to hold off for achievements until 1.0 we're going to wait in like that's going to be one of the last things we're going to do we're we're most definitely going to add achievements but it's probably going to be when the game hits 1.0 because then we know like balancing wise what makes sense, we know you know that the core content is going to be the game same thing for story story is also saved for 1.0 release so that's going to come then, train collision

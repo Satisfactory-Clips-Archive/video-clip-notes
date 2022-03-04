@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=19l2AM8vDQo
 
 ### Transcript
 
-> do you plan on working on the multiplayer aspect we work on the multiplayer aspect literally every day yes yep so uh yep we plan to continue doing that
+> do you plan on working on the multiplayer aspect we work on the multiplayer aspect literally every day yes yep so, yep we plan to continue doing that

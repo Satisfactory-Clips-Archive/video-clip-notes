@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: October 26th, 2
 
 ### Transcript
 
-> uh dedicated servers we talked about that briefly before as well dedicated servers are we're still working on that don't have an announcement yet blah blah blah don't worry it's coming like okay
+> dedicated servers we talked about that briefly before as well dedicated servers are we're still working on that don't have an announcement yet blah blah blah don't worry it's coming like okay

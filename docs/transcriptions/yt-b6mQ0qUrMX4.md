@@ -20,4 +20,4 @@ https://www.youtube.com/watch?v=b6mQ0qUrMX4
 
 ### Transcript
 
-> would be cool if there's a head equipment slot you could put light there there you already have a light on you um if you hit b you'll turn on the light b as in bright you guys that's that's an easy remember that's an easy easy thing to remember b as in bright am i right jace there it is b for flashlight b as in beam oh that's another good one b has in blazing headlamp yeah there's a lot of them
+> would be cool if there's a head equipment slot you could put light there there you already have a light on you, if you hit b you'll turn on the light b as in bright you guys that's that's an easy remember that's an easy easy thing to remember b as in bright am i right jace there it is b for flashlight b as in beam oh that's another good one b has in blazing headlamp yeah there's a lot of them

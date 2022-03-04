@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=_71h_WKygcg
 
 ### Transcript
 
-> will the spline be visible for players only limited to the waypoints uh i don't think the spline will be visible the spline won't be visible you'll see the notes that's pretty much how it works right now yeah the spline the spline that was just a debug draw so that so that you could see the spline and what's being done yes
+> will the spline be visible for players only limited to the waypoints, i don't think the spline will be visible the spline won't be visible you'll see the notes that's pretty much how it works right now yeah the spline the spline that was just a debug draw so that so that you could see the spline and what's being done yes

@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [October 5th, 2
 
 ### Transcript
 
-> this and uh like no one there how many of them are working on valheim zero zero of them are working in valhalla yeah we don't make
+> this and, like no one there how many of them are working on valheim zero zero of them are working in valhalla yeah we don't make

@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=fgduj_wvIkQ
 
 ### Transcript
 
-> uh adjustable day night cycle i don't know if that's something that we're going to be doing but i mean you could leave that suggestion on the qa site qa questions on satisfactiongame.com yeah
+> adjustable day night cycle i don't know if that's something that we're going to be doing but i mean you could leave that suggestion on the qa site qa questions on satisfactiongame.com yeah

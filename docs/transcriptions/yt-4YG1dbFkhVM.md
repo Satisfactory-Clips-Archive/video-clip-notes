@@ -92,7 +92,7 @@ https://www.youtube.com/watch?v=4YG1dbFkhVM
 
 > [Music]
 >
-> there were some people that didn't believe that we announced dedicated service until this text appeared on screen interesting i remember seeing like a few reactions they're like wait they're actually doing their service i thought it was just a joke it's been something and then there it is yes but i also love that some people were like uh they're probably just adding it as a model in the game and that's it they're not actually losing dedicated servers which i guess we should we should add it to the yeah we're finally releasing an experimental version of dedicated server support and when we say experimental we mean experimental we're pretty sure there's still a bunch of bugs when playing on the dedicated servers but at least they're out there now so y'all can help us by trying them out and sending us your feedback
+> there were some people that didn't believe that we announced dedicated service until this text appeared on screen interesting i remember seeing like a few reactions they're like wait they're actually doing their service i thought it was just a joke it's been something and then there it is yes but i also love that some people were like, they're probably just adding it as a model in the game and that's it they're not actually losing dedicated servers which i guess we should we should add it to the yeah we're finally releasing an experimental version of dedicated server support and when we say experimental we mean experimental we're pretty sure there's still a bunch of bugs when playing on the dedicated servers but at least they're out there now so y'all can help us by trying them out and sending us your feedback
 >
 > [Music]
 >

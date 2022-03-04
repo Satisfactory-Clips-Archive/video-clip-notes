@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=ClOiLPOWYVI
 
 ### Transcript
 
-> um well ramp versions be able to be half as well i don't know about that so so right now the new railings are half uh foundation foundation width um but when you put them on ramps they take up the whole ramp i actually don't know if you can do half so i don't think so either i think they the whole thing yeah take it or leave it
+> well ramp versions be able to be half as well i don't know about that so so right now the new railings are half, foundation foundation width, but when you put them on ramps they take up the whole ramp i actually don't know if you can do half so i don't think so either i think they the whole thing yeah take it or leave it

@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [January 18th, 
 
 ### Transcript
 
-> i have a question will satisfy to be coming to console uh we don't have any plans to consult this stage it might it might not but right now we're just like simply not thinking about it at all
+> i have a question will satisfy to be coming to console, we don't have any plans to consult this stage it might it might not but right now we're just like simply not thinking about it at all

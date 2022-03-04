@@ -16,8 +16,8 @@ https://www.youtube.com/watch?v=klmUasuQw9A
 
 ### Transcript
 
-> they rather rather do look the same don't they yes also another thing i think this this is one thing that's a lot of people missed though when they were doing uh when they're analyzing this shot these things behind the wrist
+> they rather rather do look the same don't they yes also another thing i think this this is one thing that's a lot of people missed though when they were doing, when they're analyzing this shot these things behind the wrist
 >
 > [Music]
 >
-> what's going on there snook what's going on there i wonder if they're linked to uh to this situation hmm interesting interesting quiet for all the yes yes indeed
+> what's going on there snook what's going on there i wonder if they're linked to, to this situation hmm interesting interesting quiet for all the yes yes indeed

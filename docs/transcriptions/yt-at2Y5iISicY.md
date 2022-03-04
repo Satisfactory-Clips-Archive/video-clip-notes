@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [November 2nd, 
 
 ### Transcript
 
-> will be any updates after 1.0 uh we'll see we don't know let's cross that bridge when we get to it
+> will be any updates after 1.0, we'll see we don't know let's cross that bridge when we get to it

@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=jCKuHkgeKeA
 
 ### Transcript
 
-> is there speedrun satisfactory there is actually a speedrunning community guys for satisfactory uh speedrun.com satisfactory maybe we'll see if that works actually did so yeah you guys can check out speedrun times you guys they've got uh yeah different different uh categories
+> is there speedrun satisfactory there is actually a speedrunning community guys for satisfactory, speedrun.com satisfactory maybe we'll see if that works actually did so yeah you guys can check out speedrun times you guys they've got, yeah different different, categories

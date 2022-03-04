@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=7HqeTNU0yrE
 
 ### Transcript
 
-> our power buildings uh classes manufacturing uh i mean probably not but i guess that's what we mean i don't think we're adding any power buildings either uh we're not adding power buildings either power generation we're adding more biomass generators to the game that's something you guys liked right pretty sure i see a lot of people talking about biomass generators so i'm assuming it's all good things i love the biomass generators would these power buildings be on top or bottom oh you oh you guys i get it i see it i get that reference yep
+> our power buildings, classes manufacturing, i mean probably not but i guess that's what we mean i don't think we're adding any power buildings either, we're not adding power buildings either power generation we're adding more biomass generators to the game that's something you guys liked right pretty sure i see a lot of people talking about biomass generators so i'm assuming it's all good things i love the biomass generators would these power buildings be on top or bottom oh you oh you guys i get it i see it i get that reference yep

@@ -27,4 +27,4 @@ https://www.youtube.com/watch?v=m9tVh9AX65w
 
 ### Transcript
 
-> yeah animation is super yeah so super position oscillator let's see uh wiki because it's it's like it's an unreleased item basically that was part of the fix-it thing here you go so you can check that out there's like um that's the yeah looks good and on the on the uh wiki page says in the gallery there's an animation you can check it out it's really good
+> yeah animation is super yeah so super position oscillator let's see, wiki because it's it's like it's an unreleased item basically that was part of the fix-it thing here you go so you can check that out there's like, that's the yeah looks good and on the on the, wiki page says in the gallery there's an animation you can check it out it's really good

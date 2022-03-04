@@ -25,4 +25,4 @@ https://www.youtube.com/watch?v=SN1SSlPdSUo
 
 ### Transcript
 
-> let's do a refresh on this how about how about we just refresh this how about we just refresh the start qa okay and then we'll uh refresh this 844 you guys are really close you're really close to getting goldfin 900 only 66 away 56 away for good math
+> let's do a refresh on this how about how about we just refresh this how about we just refresh the start qa okay and then we'll, refresh this 844 you guys are really close you're really close to getting goldfin 900 only 66 away 56 away for good math

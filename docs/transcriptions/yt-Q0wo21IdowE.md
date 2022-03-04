@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=Q0wo21IdowE
 
 ### Transcript
 
-> will version 1.0 remain compatible with current pc hardware js yeah i think we are we are uh we're not changing our uh minimum required specs and stuff like that for 1.0 it should be fine
+> will version 1.0 remain compatible with current pc hardware js yeah i think we are we are, we're not changing our, minimum required specs and stuff like that for 1.0 it should be fine

@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=rSX888DAE0Y
 
 ### Transcript
 
-> it will set your own roots for trains the ki often does not use the insider route uh i'm not sure what you mean because i feel like yes or it might be that like the train doesn't take the best if you have like a train line built with multiple paths maybe it doesn't take the shortest route or something like that i don't know but go to the qa site and uh let us know what you think
+> it will set your own roots for trains the ki often does not use the insider route, i'm not sure what you mean because i feel like yes or it might be that like the train doesn't take the best if you have like a train line built with multiple paths maybe it doesn't take the shortest route or something like that i don't know but go to the qa site and, let us know what you think

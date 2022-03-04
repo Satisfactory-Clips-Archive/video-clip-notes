@@ -20,4 +20,4 @@ https://www.youtube.com/watch?v=6C2UsVKIGnQ
 
 ### Transcript
 
-> will you make the hot potato save file available for download potentially i have some ideas around the whole potato save file again i think last stream i mentioned that and that i haven't talked disney about them yet i still haven't talked about them yet what was that but um about the hot hot potato uh c file how about that huh yeah
+> will you make the hot potato save file available for download potentially i have some ideas around the whole potato save file again i think last stream i mentioned that and that i haven't talked disney about them yet i still haven't talked about them yet what was that but, about the hot hot potato, c file how about that huh yeah

@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=b5lMzGupLTc
 
 ### Transcript
 
-> uh remember jace promises one breakout saves and all right it won't break your saves your trains might derail but you're the save should work it should load fine
+> remember jace promises one breakout saves and all right it won't break your saves your trains might derail but you're the save should work it should load fine

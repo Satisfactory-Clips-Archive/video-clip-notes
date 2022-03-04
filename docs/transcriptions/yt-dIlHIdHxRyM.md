@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=dIlHIdHxRyM
 
 ### Transcript
 
-> when will be the exact time for stream on march 16th uh 2 p.m cet so 1 p.m gmt
+> when will be the exact time for stream on march 16th, 2 p.m cet so 1 p.m gmt
 >
 > [Music]
 >

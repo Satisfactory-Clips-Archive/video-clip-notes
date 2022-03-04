@@ -26,4 +26,4 @@ https://www.youtube.com/watch?v=R83_D7zSZYo
 
 ### Transcript
 
-> have you thought of uh letting people oh don't disappear uh use space elevator to send up plutonium fuel rods instead of syncing them uh no it would not fit the story there's a lot of people this is something that will make sense once we have stored in the game but there's a reason why we have the awesome sink and we have the space elevator they serve very two very different things
+> have you thought of, letting people oh don't disappear, use space elevator to send up plutonium fuel rods instead of syncing them, no it would not fit the story there's a lot of people this is something that will make sense once we have stored in the game but there's a reason why we have the awesome sink and we have the space elevator they serve very two very different things

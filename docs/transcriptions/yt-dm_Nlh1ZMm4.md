@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=dm_Nlh1ZMm4
 
 ### Transcript
 
-> uh do you think that all the changes that you made in the engine will block you from migraine to ue5 yeah i think it would be it does yeah it does every time we want to update to any unveiled version we have to go through our merch issues
+> do you think that all the changes that you made in the engine will block you from migraine to ue5 yeah i think it would be it does yeah it does every time we want to update to any unveiled version we have to go through our merch issues

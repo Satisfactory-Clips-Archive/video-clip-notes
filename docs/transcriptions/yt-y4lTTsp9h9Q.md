@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=y4lTTsp9h9Q
 
 ### Transcript
 
-> uh i didn't know uh i had arachnphobia until i played this game right that being said any more aggro beasts being added there's the big crab big crab is gonna be added we we teased that in our reveal trailer like over two years ago or three years or something like that since the reveal trailer came out i don't remember was it 2019 i can't remember um yeah and that will be added
+> i didn't know, i had arachnphobia until i played this game right that being said any more aggro beasts being added there's the big crab big crab is gonna be added we we teased that in our reveal trailer like over two years ago or three years or something like that since the reveal trailer came out i don't remember was it 2019 i can't remember, yeah and that will be added

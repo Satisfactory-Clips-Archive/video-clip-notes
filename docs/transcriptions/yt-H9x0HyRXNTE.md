@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [February 8th, 
 
 ### Transcript
 
-> no plans for that um how big is the dev team something around 30. people um
+> no plans for that, how big is the dev team something around 30. people

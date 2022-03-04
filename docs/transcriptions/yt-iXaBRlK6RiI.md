@@ -21,4 +21,4 @@ https://www.youtube.com/watch?v=iXaBRlK6RiI
 
 ### Transcript
 
-> yeah somebody asked if there's gonna be like a story in the patchwork video as last time i guess you guys are gonna have to uh wait and see next week
+> yeah somebody asked if there's gonna be like a story in the patchwork video as last time i guess you guys are gonna have to, wait and see next week

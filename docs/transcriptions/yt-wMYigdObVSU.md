@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=wMYigdObVSU
 
 ### Transcript
 
-> all right so there's gonna be one question and that question is gonna be snoot where al pizza uh are we leaving it here i've been outed uh
+> all right so there's gonna be one question and that question is gonna be snoot where al pizza, are we leaving it here i've been outed

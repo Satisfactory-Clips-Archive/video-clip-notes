@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [May 11th, 2021
 
 ### Transcript
 
-> use for batteries in the hover pack uh no we're not gonna do that the hover pack isn't supposed to be uh used with fuel like that that's the whole premise of the hover pack
+> use for batteries in the hover pack, no we're not gonna do that the hover pack isn't supposed to be, used with fuel like that that's the whole premise of the hover pack

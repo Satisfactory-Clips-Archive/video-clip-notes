@@ -25,4 +25,4 @@ https://www.youtube.com/watch?v=-226kRinKxI
 
 ### Transcript
 
-> uh any halloween easter eggs probably no halloween seasonal events this time since uh you know uh people are working really hard to just get update five done and ready and in a good state um we don't really have time to put any seasonal event kind of stuff in for halloween this time around at least yes true story
+> any halloween easter eggs probably no halloween seasonal events this time since, you know, people are working really hard to just get update five done and ready and in a good state, we don't really have time to put any seasonal event kind of stuff in for halloween this time around at least yes true story

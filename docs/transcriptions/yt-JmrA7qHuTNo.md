@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: October 26th, 2
 
 ### Transcript
 
-> any updated decade servers uh no no no real update on dedicated servers yet
+> any updated decade servers, no no no real update on dedicated servers yet

@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=eECUlmDq1LQ
 
 ### Transcript
 
-> uh are you telling us that it's actually just a factorial dlc hmm no it's satisfactory is a fact standalone factorio whatever i can't even finish that sentence
+> are you telling us that it's actually just a factorial dlc hmm no it's satisfactory is a fact standalone factorio whatever i can't even finish that sentence

@@ -22,4 +22,4 @@ https://www.youtube.com/watch?v=YhVyhhj6INQ
 >
 > [Music]
 >
-> others like if you use a pip it's it's something weird like if you use the pipette tool when you build it it doesn't show up or something uh qa site upload that and then uh we'll take a look at that and uh fix it i don't think it's a huge issue though or like it's not a it might be fixing update five already it might already be fixed i don't know
+> others like if you use a pip it's it's something weird like if you use the pipette tool when you build it it doesn't show up or something, qa site upload that and then, we'll take a look at that and, fix it i don't think it's a huge issue though or like it's not a it might be fixing update five already it might already be fixed i don't know

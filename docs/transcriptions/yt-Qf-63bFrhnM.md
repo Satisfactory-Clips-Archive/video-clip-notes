@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=Qf-63bFrhnM
 
 ### Transcript
 
-> are you guys happy with the state of geothermal generators it seems like you get them late uh for them to make an impact i'm actually not sure yeah i'm also not sure if uh because like the the last iteration we did on them was like you know trying to improve the issues that we had and i don't know if uh mark was like yeah this is now it's perfect the way i want it or not like i haven't seen people use them overly much even after the update so maybe we make another round on them or something i don't know but uh yeah we don't know
+> are you guys happy with the state of geothermal generators it seems like you get them late, for them to make an impact i'm actually not sure yeah i'm also not sure if, because like the the last iteration we did on them was like you know trying to improve the issues that we had and i don't know if, mark was like yeah this is now it's perfect the way i want it or not like i haven't seen people use them overly much even after the update so maybe we make another round on them or something i don't know but, yeah we don't know

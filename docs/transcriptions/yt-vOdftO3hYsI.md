@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=vOdftO3hYsI
 
 ### Transcript
 
-> yeah does they recommend to use all cores and steam similar to uh in steam options similar to art no yeah what's the worst thing we're using as many courses we can the unfortunate thing is like a lot of stuff in the game needs to like run in sequence so we can't run too much in parallel um
+> yeah does they recommend to use all cores and steam similar to, in steam options similar to art no yeah what's the worst thing we're using as many courses we can the unfortunate thing is like a lot of stuff in the game needs to like run in sequence so we can't run too much in parallel
 >
 > [Music]
 >

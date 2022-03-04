@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=grzwzYP1ceE
 
 ### Transcript
 
-> oh one thing i forgot to mention this before uh one thing that i was really stoked about when we when we made the teaser video um was that uh like there's a little story in like that build um and i'm so glad that kibbitz actually caught on that because it's a it's a battery distribution factory right it's like it gets in the stuff to build the batteries and build the batteries and then they send the batteries out with drones and i'm so glad that somebody caught that
+> oh one thing i forgot to mention this before, one thing that i was really stoked about when we when we made the teaser video, was that, like there's a little story in like that build, and i'm so glad that kibbitz actually caught on that because it's a it's a battery distribution factory right it's like it gets in the stuff to build the batteries and build the batteries and then they send the batteries out with drones and i'm so glad that somebody caught that

@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=9ooCtzONZJE
 
 ### Transcript
 
-> any plans for future minigames after fixing this one uh don't think so don't know actually never impossible but i don't know
+> any plans for future minigames after fixing this one, don't think so don't know actually never impossible but i don't know

@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [February 22nd,
 
 ### Transcript
 
-> boats uh no no aquatic
+> boats, no no aquatic

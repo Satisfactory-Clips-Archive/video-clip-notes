@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [October 12th, 
 
 ### Transcript
 
-> uh what is the plan with quantum computer superposition oscillator that is top secret who knows who knows what is the plan who knows certainly not us i barely know how the assembler works not me
+> what is the plan with quantum computer superposition oscillator that is top secret who knows who knows what is the plan who knows certainly not us i barely know how the assembler works not me

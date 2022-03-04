@@ -18,4 +18,4 @@ https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=783&end=809
 
 ### Transcript
 
-> cool that's kind of the problem with it um in theory you can have as i mean as many light as you want until your engine crashes because we didn't clap clamped yet so have fun with that yeah i was making the the trailer i tried to like what's the maximum of lights i could try and then it just absolutely wrecked my computer i got like a thousand error messages
+> cool that's kind of the problem with it, in theory you can have as i mean as many light as you want until your engine crashes because we didn't clap clamped yet so have fun with that yeah i was making the the trailer i tried to like what's the maximum of lights i could try and then it just absolutely wrecked my computer i got like a thousand error messages

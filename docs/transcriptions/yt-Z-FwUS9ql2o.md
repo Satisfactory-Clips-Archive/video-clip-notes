@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=Z-FwUS9ql2o
 
 ### Transcript
 
-> um can you zoop walkways uh in the build that i played you could not but i believe you will be able to yes i think so yeah pretty sure pretty sure you can let me go to the video or yes you can it's not in the video but i'm pretty sure then yeah we'll see okay uh i i think i heard someone today said that they were working on that so like i think i think it makes sense i guess so we'll see uh maybe you can if it turns out that you can't then there will have been some reason to not do it but yeah true story
+> can you zoop walkways, in the build that i played you could not but i believe you will be able to yes i think so yeah pretty sure pretty sure you can let me go to the video or yes you can it's not in the video but i'm pretty sure then yeah we'll see okay, i i think i heard someone today said that they were working on that so like i think i think it makes sense i guess so we'll see, maybe you can if it turns out that you can't then there will have been some reason to not do it but yeah true story

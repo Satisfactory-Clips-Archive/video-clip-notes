@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [October 19th, 
 
 ### Transcript
 
-> would you consider adding custom text signs yes we will add custom text text signs or signs basically um in some form so we will be adding signs to the game gonna be coming gonna be coming
+> would you consider adding custom text signs yes we will add custom text text signs or signs basically, in some form so we will be adding signs to the game gonna be coming gonna be coming

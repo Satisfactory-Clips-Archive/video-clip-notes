@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=PW8jF99WMRI
 
 ### Transcript
 
-> nothing will be story locked uh i don't know i don't think so
+> nothing will be story locked, i don't know i don't think so

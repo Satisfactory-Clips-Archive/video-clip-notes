@@ -14,8 +14,8 @@ https://www.youtube.com/watch?v=yxR7CVf2CNA
 
 ### Transcript
 
-> is it better to create a new thread on accurate issues no always upload everything you if it's already on there upload it um
+> is it better to create a new thread on accurate issues no always upload everything you if it's already on there upload it
 >
 > [Music]
 >
-> there are maybe some cases where like i'd still say upload old issues even if they still if they still persist um because it's better to have those tickets like become popular so they become like you know so they're there and you know obvious to us um that rather than like making a bunch of new ones we still see them but i think for community sake it's better if you upvote the old issues um so that you know it feels good for you guys to know that there are popular issues or whatever
+> there are maybe some cases where like i'd still say upload old issues even if they still if they still persist, because it's better to have those tickets like become popular so they become like you know so they're there and you know obvious to us, that rather than like making a bunch of new ones we still see them but i think for community sake it's better if you upvote the old issues, so that you know it feels good for you guys to know that there are popular issues or whatever

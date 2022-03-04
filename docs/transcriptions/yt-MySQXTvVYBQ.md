@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=MySQXTvVYBQ
 
 ### Transcript
 
-> are you 100 community manager or do you something else uh i'm 100 community manager and so is chase i'm 50 community manager 50 unemployed that's not sure 100 community manager over here i do nothing but the internets
+> are you 100 community manager or do you something else, i'm 100 community manager and so is chase i'm 50 community manager 50 unemployed that's not sure 100 community manager over here i do nothing but the internets

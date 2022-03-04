@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [August 17th, 2
 
 ### Transcript
 
-> more weapons i don't know uh upload on the qa side if you want to see more weapons
+> more weapons i don't know, upload on the qa side if you want to see more weapons

@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=vCLJzFzyCAg
 
 ### Transcript
 
-> going on there one other thing as well is the the weird looking like trimming looking stuff on the uh on on the glass there yeah this thing yeah yes and it's not on every piece all in every piece curious here is indeed wow yeah stroke chin yes
+> going on there one other thing as well is the the weird looking like trimming looking stuff on the, on on the glass there yeah this thing yeah yes and it's not on every piece all in every piece curious here is indeed wow yeah stroke chin yes

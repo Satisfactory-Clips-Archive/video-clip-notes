@@ -14,8 +14,8 @@ https://www.youtube.com/watch?v=d_Fby_o9pJo
 
 ### Transcript
 
-> what do you call the animals and satisfactory so there's liza doggo uh bean whale space tick whatever it is tim whatever call him tim yeah yeah mr bean it's got a lot of names the community the bird is nfb non-flying bird non-flying bird uh huh it does fly and lying it does kind of flies uh hugs spitters stingers um yeah yeah anything else what's the name of the flower thing oh i don't know this is weird oh some flowers it's just a weirdo weirdo that's his name it's weird like stands up all weird it's like
+> what do you call the animals and satisfactory so there's liza doggo, bean whale space tick whatever it is tim whatever call him tim yeah yeah mr bean it's got a lot of names the community the bird is nfb non-flying bird non-flying bird, huh it does fly and lying it does kind of flies, hugs spitters stingers, yeah yeah anything else what's the name of the flower thing oh i don't know this is weird oh some flowers it's just a weirdo weirdo that's his name it's weird like stands up all weird it's like
 >
 > [Music]
 >
-> weirdo gets up and farts it's like grandpa like oh sorry about that just gonna sit down oh here we go grandpa you farting again back in my day we did grandpa you got gas again i'm gonna get my pudding sit down grandpa okay god damn uh
+> weirdo gets up and farts it's like grandpa like oh sorry about that just gonna sit down oh here we go grandpa you farting again back in my day we did grandpa you got gas again i'm gonna get my pudding sit down grandpa okay god damn ,

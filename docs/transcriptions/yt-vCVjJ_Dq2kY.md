@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [October 5th, 2
 
 ### Transcript
 
-> any eta for basic train schedules like wait till empty wait till full uh that's a very good suggestion actually go to the qa site enough about that stuff if you want that yeah q a qsi
+> any eta for basic train schedules like wait till empty wait till full, that's a very good suggestion actually go to the qa site enough about that stuff if you want that yeah q a qsi

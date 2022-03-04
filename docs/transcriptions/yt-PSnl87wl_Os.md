@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [December 14th,
 
 ### Transcript
 
-> what's the mug coming i don't think we have an update on the mug but we are working on that stuff for the uh the merch side of things so hopefully soon tm
+> what's the mug coming i don't think we have an update on the mug but we are working on that stuff for the, the merch side of things so hopefully soon tm

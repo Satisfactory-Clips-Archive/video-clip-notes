@@ -18,4 +18,4 @@ This question was possibly replaced with a more recent answer: October 26th, 202
 
 ### Transcript
 
-> will the trains ever be paintable uh i hope so i don't know same thing with priority there but um it would be cool
+> will the trains ever be paintable, i hope so i don't know same thing with priority there but, it would be cool

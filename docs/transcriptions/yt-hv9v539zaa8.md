@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [February 8th, 
 
 ### Transcript
 
-> uh are there any plants at farming food to the game that's something that we've talked about a bunch before and like the idea of so you know it might be a thing in the in in the future we'll see
+> are there any plants at farming food to the game that's something that we've talked about a bunch before and like the idea of so you know it might be a thing in the in in the future we'll see

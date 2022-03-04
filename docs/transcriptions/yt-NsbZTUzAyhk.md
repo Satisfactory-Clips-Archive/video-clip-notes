@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=NsbZTUzAyhk
 
 ### Transcript
 
-> can you do a lizard doggo accident i can yeah personally um do you mean like give the liza doggo an accident in the game or or do the lizzidogo accident because there's a dog has got a bit of an accident i don't know if you guys know this sounds something like how to partner
+> can you do a lizard doggo accident i can yeah personally, do you mean like give the liza doggo an accident in the game or or do the lizzidogo accident because there's a dog has got a bit of an accident i don't know if you guys know this sounds something like how to partner

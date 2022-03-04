@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=5gvscNdfd_Y
 
 ### Transcript
 
-> oh boy oh is it time hell yeah i'm so glad we get to experience this this is this is honestly the best way to kick off the new year honestly getting first stream on for the year 2022 and jace is getting hella fresh hella fresh i'm getting hella fresh um
+> oh boy oh is it time hell yeah i'm so glad we get to experience this this is this is honestly the best way to kick off the new year honestly getting first stream on for the year 2022 and jace is getting hella fresh hella fresh i'm getting hella fresh

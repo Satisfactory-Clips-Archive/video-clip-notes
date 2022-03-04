@@ -22,4 +22,4 @@ https://www.youtube.com/watch?v=HlqTqzwd_rM
 
 ### Transcript
 
-> how do you get the train derail hitting the giant tick monster started a long trains video oh quite secret i'll never tell yeah i had to do some very special stuff though for that very special very special he had to uh he had to use some update six stuff yeah some serious technology in update six hell yeah
+> how do you get the train derail hitting the giant tick monster started a long trains video oh quite secret i'll never tell yeah i had to do some very special stuff though for that very special very special he had to, he had to use some update six stuff yeah some serious technology in update six hell yeah

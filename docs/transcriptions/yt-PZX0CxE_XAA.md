@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=PZX0CxE_XAA
 
 ### Transcript
 
-> um can we have a locomotive that looks like the one in the original trailer oh my god that was so long ago um no we don't have any intention like bring back any of the old assets that we've made you know we we changed them for a reason
+> can we have a locomotive that looks like the one in the original trailer oh my god that was so long ago, no we don't have any intention like bring back any of the old assets that we've made you know we we changed them for a reason

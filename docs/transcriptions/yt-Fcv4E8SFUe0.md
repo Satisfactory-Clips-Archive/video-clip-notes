@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=Fcv4E8SFUe0
 
 ### Transcript
 
-> um no there's this i mean we're working on the game obviously but there's no amazing news or anything like that um coming up i think uh well i'm trying like every time we have the state of dev now i'm trying to think we'll just do it last week i think we just said working on stuff
+> no there's this i mean we're working on the game obviously but there's no amazing news or anything like that, coming up i think, well i'm trying like every time we have the state of dev now i'm trying to think we'll just do it last week i think we just said working on stuff

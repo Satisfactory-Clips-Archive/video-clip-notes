@@ -22,4 +22,4 @@ https://www.youtube.com/watch?v=7uSzql6YPJc
 
 ### Transcript
 
-> how many people can be on one save without servers i mean like private so uh it's um it's limited to four but you can change like config files and make it to whatever you want but uh yeah like it doesn't really scale super well but we have seen people play with i think the limit was like 60 people or something in a server or something yeah it wasn't working well and it wasn't a meaningful factory building going on but we've had people do that
+> how many people can be on one save without servers i mean like private so, it's, it's limited to four but you can change like config files and make it to whatever you want but, yeah like it doesn't really scale super well but we have seen people play with i think the limit was like 60 people or something in a server or something yeah it wasn't working well and it wasn't a meaningful factory building going on but we've had people do that

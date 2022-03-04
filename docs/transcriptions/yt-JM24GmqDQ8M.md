@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=JM24GmqDQ8M
 
 ### Transcript
 
-> uh is it useful to sign uh mine sam or at the moment not really i mean i suppose you can just stockpile it i don't really know if that helps that much
+> is it useful to sign, mine sam or at the moment not really i mean i suppose you can just stockpile it i don't really know if that helps that much

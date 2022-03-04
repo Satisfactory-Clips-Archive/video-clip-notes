@@ -24,13 +24,13 @@ shots of different areas there's also a bit of like lighting and fog
 rework happening with that as well This change to Northern Forest
 is a change that we consider to be a major change for sure it definitely looks and feels very different and a lot of people you know immediately a lot of people's feedback has been you
 know &quot;but what about my factory?&quot; &quot;is my factory going to be engulfed by
-the terrain, uh, cliffs?&quot; etc. etc. now the good thing
+the terrain, , , cliffs?&quot; etc. etc. now the good thing
 about the Northern Forest is that even though this change
 the the rework is major, the impact that it will have in your factory
 shouldn't be too bad. You're gonna get trees in your factory but you can take
 care of that with a chainsaw you're gonna you're gonna have a bunch of trees
 in your factory but as far as like landscape goes actually not much has
-changed so there's very very minor polish to the uh landscape and terrain
-so uh you shouldn't have any issues with the landscape engulfing your factories as far as the Northern Forest is concerned Now as for the
+changed so there's very very minor polish to the, landscape and terrain
+so, you shouldn't have any issues with the landscape engulfing your factories as far as the Northern Forest is concerned Now as for the
 feedback that we've been getting we've been getting a lot of positive feedback
 a lot of people love the look of the-

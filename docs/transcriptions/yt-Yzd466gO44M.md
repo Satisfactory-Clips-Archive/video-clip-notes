@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [November 2nd, 
 
 ### Transcript
 
-> uh will there be more creatures yes there will be there is still if you watch the reveal trailer there's a big crab in it and also a developer highlight with our animator there's also the big crab in there so there will be a big crab coming as for after that i don't know of the creatures but i'm assuming there might be some
+> will there be more creatures yes there will be there is still if you watch the reveal trailer there's a big crab in it and also a developer highlight with our animator there's also the big crab in there so there will be a big crab coming as for after that i don't know of the creatures but i'm assuming there might be some

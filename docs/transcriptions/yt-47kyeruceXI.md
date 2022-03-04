@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=47kyeruceXI
 
 ### Transcript
 
-> when a vacation is over it kind of depends so snooze one snoot's on vacation for the next five weeks um some people take five weeks some people take two weeks some people's vacations started this week some people start next week it's kind of weird so for the next like one to two months it's gonna be like this weird like skeleton crew of people basically people coming and going
+> when a vacation is over it kind of depends so snooze one snoot's on vacation for the next five weeks, some people take five weeks some people take two weeks some people's vacations started this week some people start next week it's kind of weird so for the next like one to two months it's gonna be like this weird like skeleton crew of people basically people coming and going

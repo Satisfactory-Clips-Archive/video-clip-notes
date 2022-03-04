@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=g0JP5QLR-I8
 
 ### Transcript
 
-> um are you planning on adding more renewable powers solar and wind we don't plan on adding renewable stuff like solar and wind something that we've talked about a few times but yeah no we're not really planning on it yes no
+> are you planning on adding more renewable powers solar and wind we don't plan on adding renewable stuff like solar and wind something that we've talked about a few times but yeah no we're not really planning on it yes no

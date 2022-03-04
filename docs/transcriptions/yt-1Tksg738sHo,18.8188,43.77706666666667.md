@@ -14,4 +14,4 @@ https://youtube.com/clip/Ugkxv8gfJKCDZbsE2wAIflV6PTGyJKj-RUmT
 
 ### Transcript
 
-> april we released update four and with it we brought tier viii drones new equipment new parts and resources uh extended the nuclear production chain and we added lights something that we weren't sure we were going to be able to do we're so happy that we managed to do it and along with update 4 we also broke our concurrent player numbers which is so amazing so thank you everyone who played update 4 and then later this year
+> april we released update four and with it we brought tier viii drones new equipment new parts and resources, extended the nuclear production chain and we added lights something that we weren't sure we were going to be able to do we're so happy that we managed to do it and along with update 4 we also broke our concurrent player numbers which is so amazing so thank you everyone who played update 4 and then later this year

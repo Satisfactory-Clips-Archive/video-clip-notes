@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=yNnIzPtYBcs
 
 ### Transcript
 
-> model i don't know if we're going to do that i don't know if we have plans for that we might do character um like customization in the future but i don't know to what degree that'll be and i i don't think there's gonna we're gonna add a male character model i don't know if we need to but we might add some other things
+> model i don't know if we're going to do that i don't know if we have plans for that we might do character, like customization in the future but i don't know to what degree that'll be and i i don't think there's gonna we're gonna add a male character model i don't know if we need to but we might add some other things

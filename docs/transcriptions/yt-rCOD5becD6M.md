@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [September 14th
 
 ### Transcript
 
-> um probably answer this question before train collisions train collisions is something that we i believe we will be adding at some point in the future
+> probably answer this question before train collisions train collisions is something that we i believe we will be adding at some point in the future

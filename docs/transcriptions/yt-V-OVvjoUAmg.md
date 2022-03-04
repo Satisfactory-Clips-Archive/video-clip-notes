@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [September 14th
 
 ### Transcript
 
-> in your face or anything uh just something jason any news on train signals no no news sorry dog sorry dog just open the code and just open the code open the code just go and open the code didn't work yeah
+> in your face or anything, just something jason any news on train signals no no news sorry dog sorry dog just open the code and just open the code open the code just go and open the code didn't work yeah

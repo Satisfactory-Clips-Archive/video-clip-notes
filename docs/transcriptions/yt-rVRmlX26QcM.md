@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=rVRmlX26QcM
 
 ### Transcript
 
-> uh are you still hiring for a generalist game designer yes are we okay i think the i think the ad is still up i'm pretty sure we are i think we've had some interviews and stuff like that but i don't i don't know if anything's actually been locked in yet so yeah if you're interested by all means send through your um cvs location yeah coffeestandstudios.com or coffeestain.se jobs i think works coffeesandstudios.com jobs
+> are you still hiring for a generalist game designer yes are we okay i think the i think the ad is still up i'm pretty sure we are i think we've had some interviews and stuff like that but i don't i don't know if anything's actually been locked in yet so yeah if you're interested by all means send through your, cvs location yeah coffeestandstudios.com or coffeestain.se jobs i think works coffeesandstudios.com jobs

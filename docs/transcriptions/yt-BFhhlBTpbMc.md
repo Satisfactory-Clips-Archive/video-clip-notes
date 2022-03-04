@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [November 2nd, 
 
 ### Transcript
 
-> when are you optimizing co-op every day every day we make we make we we that's something that is an ongoing thing and we always make uh improvements on that whenever we can and then those improvements come to you when the update drops
+> when are you optimizing co-op every day every day we make we make we we that's something that is an ongoing thing and we always make, improvements on that whenever we can and then those improvements come to you when the update drops

@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=HtrCOtzx3Aw
 
 ### Transcript
 
-> uh there's a question here does experimental run with more detailed logging does that mean performance will be worse than experiments or is it early access i don't think experiment experimental runs is more detailed no it doesn't
+> there's a question here does experimental run with more detailed logging does that mean performance will be worse than experiments or is it early access i don't think experiment experimental runs is more detailed no it doesn't

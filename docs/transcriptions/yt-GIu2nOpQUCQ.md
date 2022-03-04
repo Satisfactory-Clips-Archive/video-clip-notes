@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [March 23rd, 20
 
 ### Transcript
 
-> can't believe you but thanks anyways um plutonium fuel rod sinkable big bug or not not a bug
+> can't believe you but thanks anyways, plutonium fuel rod sinkable big bug or not not a bug

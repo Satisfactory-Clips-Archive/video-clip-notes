@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [January 18th, 
 
 ### Transcript
 
-> any any plans any plans for bringing the game to nintendo switch no not really uh i don't know how it fully works but apparently there's like control is on switch and control is is like not made for switch and it's apparently some kind of cloud-based thing like that that's the only potential way i think that we could ever release the game on switch it'd be funny if we if we only release satisfactory on switch with that and not on xbox and play type in that'd be so funny
+> any any plans any plans for bringing the game to nintendo switch no not really, i don't know how it fully works but apparently there's like control is on switch and control is is like not made for switch and it's apparently some kind of cloud-based thing like that that's the only potential way i think that we could ever release the game on switch it'd be funny if we if we only release satisfactory on switch with that and not on xbox and play type in that'd be so funny

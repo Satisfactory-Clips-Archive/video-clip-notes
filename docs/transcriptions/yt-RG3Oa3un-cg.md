@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [October 5th, 2
 
 ### Transcript
 
-> when will vehicles be paintable i'm pretty sure they will be paintable in the future i'm not sure when uh i mean uh the next major update might be update five so it might be in there who knows we'll see but um yeah we'll have to see
+> when will vehicles be paintable i'm pretty sure they will be paintable in the future i'm not sure when, i mean, the next major update might be update five so it might be in there who knows we'll see but, yeah we'll have to see

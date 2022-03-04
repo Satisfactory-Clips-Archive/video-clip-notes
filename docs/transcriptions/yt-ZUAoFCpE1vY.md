@@ -20,4 +20,4 @@ This question was possibly duplicated with a more recent answer: [October 19th, 
 >
 > [Music]
 >
-> not impossible um those are all part of the balancing thing um with the game and it's possible that will change but i don't know
+> not impossible, those are all part of the balancing thing, with the game and it's possible that will change but i don't know

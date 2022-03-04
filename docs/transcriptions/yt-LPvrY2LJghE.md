@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: July 6th, 2021 
 
 ### Transcript
 
-> will we get a bigger map uh no you won't get a bigger map you will get a more detailed map is what we're working on we're working on adding more fixing up the map as it is there are a few areas in the map that aren't done uh there are a few areas that are like kind of work in progress too so if anything we're going to work on that
+> will we get a bigger map, no you won't get a bigger map you will get a more detailed map is what we're working on we're working on adding more fixing up the map as it is there are a few areas in the map that aren't done, there are a few areas that are like kind of work in progress too so if anything we're going to work on that

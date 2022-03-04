@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=LWYYLfTDnvI
 
 ### Transcript
 
-> will you give josh a key for valheim we don't make valheim uh we make we make satisfactory so i can't give keys away for a different game no he's gonna have to go and ask the developers um but if it was up to me no
+> will you give josh a key for valheim we don't make valheim, we make we make satisfactory so i can't give keys away for a different game no he's gonna have to go and ask the developers, but if it was up to me no

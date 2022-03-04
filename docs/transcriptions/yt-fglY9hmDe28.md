@@ -20,4 +20,4 @@ https://www.youtube.com/watch?v=fglY9hmDe28
 
 ### Transcript
 
-> uh will zoop mba uh available at tier zero or later so at the moment uh zooping will be available yeah immediately from yeah immediately it's it's a core gameplay feature you don't have to research it or anything like that
+> will zoop mba, available at tier zero or later so at the moment, zooping will be available yeah immediately from yeah immediately it's it's a core gameplay feature you don't have to research it or anything like that

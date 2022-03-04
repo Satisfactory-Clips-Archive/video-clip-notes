@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=XcfIWDujsxA
 
 ### Transcript
 
-> so what you're saying is clear out all the biomes and you increase your garbage limit no it's actually the other way around the the foliage in the world isn't um memory allocated the same way as objects other objects are so the foliage system is actually relatively unaffected by that limit believe it or not
+> so what you're saying is clear out all the biomes and you increase your garbage limit no it's actually the other way around the the foliage in the world isn't, memory allocated the same way as objects other objects are so the foliage system is actually relatively unaffected by that limit believe it or not

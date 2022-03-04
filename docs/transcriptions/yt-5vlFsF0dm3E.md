@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [May 18th, 2021
 
 ### Transcript
 
-> um you can use working progress collectibles for anything in update for nope they're all for uh like 1.0 like the story stuff
+> you can use working progress collectibles for anything in update for nope they're all for, like 1.0 like the story stuff

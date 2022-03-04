@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=jbpsoJMv5SU
 
 ### Transcript
 
-> tesla coil for short range wireless power i don't think uh i think we've thought about wireless power and i don't think we figured out a good way to use that to make it make sense so to speak um we didn't get much bang for the buck so to speak
+> tesla coil for short range wireless power i don't think, i think we've thought about wireless power and i don't think we figured out a good way to use that to make it make sense so to speak, we didn't get much bang for the buck so to speak

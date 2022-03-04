@@ -20,7 +20,7 @@ https://www.youtube.com/watch?v=2aOpQh44UV8
 
 ### Transcript
 
-> you considered more alternative recipes me myself no i have not but have others uh i think so um
+> you considered more alternative recipes me myself no i have not but have others, i think so
 >
 > [Music]
 >

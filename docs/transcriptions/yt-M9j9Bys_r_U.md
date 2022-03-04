@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [June 22nd, 202
 
 ### Transcript
 
-> um does the engine update include the waterfall graphics update i don't know actually it doesn't okay no i don't well i'm pretty sure ben says in the video that it's not um but i'm pretty sure he says it what regardless in the video so check out the video with ben um because i'm pretty sure it's mentioned there
+> does the engine update include the waterfall graphics update i don't know actually it doesn't okay no i don't well i'm pretty sure ben says in the video that it's not, but i'm pretty sure he says it what regardless in the video so check out the video with ben, because i'm pretty sure it's mentioned there

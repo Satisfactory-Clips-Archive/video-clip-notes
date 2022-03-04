@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=JDXZ-q-9na0
 
 ### Transcript
 
-> apple watch geforce now yes a satisfactory is available on geforce now um you can play from there and it's been available for some time there
+> apple watch geforce now yes a satisfactory is available on geforce now, you can play from there and it's been available for some time there

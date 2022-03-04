@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=I6Zgi1aOJTk
 
 ### Transcript
 
-> will there be changes to existing oil nodes uh no there will be no changes to the existing oil nodes uh i'm gonna go and move them now just just an inch to the left just an inch to the left and i'll be like that's right that liar said there'd be no changes son of a flying pr community manager lies to the community
+> will there be changes to existing oil nodes, no there will be no changes to the existing oil nodes, i'm gonna go and move them now just just an inch to the left just an inch to the left and i'll be like that's right that liar said there'd be no changes son of a flying pr community manager lies to the community

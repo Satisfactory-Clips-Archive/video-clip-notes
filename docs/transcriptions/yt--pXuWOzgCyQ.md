@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=-pXuWOzgCyQ
 >
 > [Music]
 >
-> but you can't do that in this build because it crashes the game oh does it yeah that's nice not unfortunate that's how we that's how we show them uh you don't miss out on much though uh to be honest um if that is a weak like uh excuse or whatever but there is some stuff that unfortunately
+> but you can't do that in this build because it crashes the game oh does it yeah that's nice not unfortunate that's how we that's how we show them, you don't miss out on much though, to be honest, if that is a weak like, excuse or whatever but there is some stuff that unfortunately

@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [August 31st, 2
 
 ### Transcript
 
-> and the next question you might ask is but when when when's update 5 and we don't know for sure but we're hoping um sometime before our vacation but that's what that's what we're hoping that's not on announcement or anything like that that's just like our internal um whatever so that's probably gonna change we're gonna announce when we know for sure um
+> and the next question you might ask is but when when when's update 5 and we don't know for sure but we're hoping, sometime before our vacation but that's what that's what we're hoping that's not on announcement or anything like that that's just like our internal, whatever so that's probably gonna change we're gonna announce when we know for sure

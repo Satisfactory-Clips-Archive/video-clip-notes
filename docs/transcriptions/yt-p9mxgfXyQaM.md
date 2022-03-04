@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=p9mxgfXyQaM
 
 ### Transcript
 
-> what was the accidental bug fix that was the something that's called a cheat creep where there were two foundation sets in the game that didn't have collision um and we didn't know about that and we didn't fix it either so it got fixed by itself or something i don't know
+> what was the accidental bug fix that was the something that's called a cheat creep where there were two foundation sets in the game that didn't have collision, and we didn't know about that and we didn't fix it either so it got fixed by itself or something i don't know

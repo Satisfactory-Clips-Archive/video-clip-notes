@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=bz7PJ3VF6FE
 
 ### Transcript
 
-> uh creatures and resources in deep oceans i don't think there are plans for that
+> creatures and resources in deep oceans i don't think there are plans for that

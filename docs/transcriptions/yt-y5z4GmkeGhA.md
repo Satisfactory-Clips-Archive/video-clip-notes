@@ -43,8 +43,8 @@ you...
 > Snutt: I've seen sometimes when I've played.
 >
 > Snutt: Uh sometimes just like restarting the
-game uh gets it working again. Snutt: But yeah, it's it's like we're working
-on those type of things uh to see if we can
+game, gets it working again. Snutt: But yeah, it's it's like we're working
+on those type of things, to see if we can
 >
 > Snutt: flush them out.
 >

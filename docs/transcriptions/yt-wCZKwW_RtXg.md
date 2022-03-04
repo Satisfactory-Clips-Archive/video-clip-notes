@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [September 14th
 
 ### Transcript
 
-> train system rework that's something that we've said since we launched trains uh since the train update yeah we've confirmed that we're gonna be doing like train collision at some point and also uh signals so that'll be coming
+> train system rework that's something that we've said since we launched trains, since the train update yeah we've confirmed that we're gonna be doing like train collision at some point and also, signals so that'll be coming

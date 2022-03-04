@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [August 24th, 2
 
 ### Transcript
 
-> do you have plans for the vip items we do uh for 1.0 we're gonna add them they're they're integrated to the storyline um so you'll know what they do once we hit 1.0 essentially
+> do you have plans for the vip items we do, for 1.0 we're gonna add them they're they're integrated to the storyline, so you'll know what they do once we hit 1.0 essentially

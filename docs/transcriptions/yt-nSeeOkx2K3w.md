@@ -22,4 +22,4 @@ https://www.youtube.com/watch?v=nSeeOkx2K3w
 
 ### Transcript
 
-> what happens to the signals what happens to goods crashed in trains they just stay in the the cart they're just the carts on the ground and when you repair the train it's still back in the cart you don't have to worry about it um
+> what happens to the signals what happens to goods crashed in trains they just stay in the the cart they're just the carts on the ground and when you repair the train it's still back in the cart you don't have to worry about it

@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [October 19th, 
 
 ### Transcript
 
-> um will we ever see writable signs to label stuff yes that will be a thing at some point in the future we've confirmed that we will do signs at some point
+> will we ever see writable signs to label stuff yes that will be a thing at some point in the future we've confirmed that we will do signs at some point

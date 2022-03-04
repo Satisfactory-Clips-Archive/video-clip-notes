@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [January 18th, 
 
 ### Transcript
 
-> will it be possible to remove the toxic pillars uh it would be possible to do something with the toxic gas in the future
+> will it be possible to remove the toxic pillars, it would be possible to do something with the toxic gas in the future

@@ -22,4 +22,4 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5436&end=5449
 
 ### Transcript
 
-> available from the certain earring axis that's that question what it'll be seasons new um think I think
+> available from the certain earring axis that's that question what it'll be seasons new, think I think

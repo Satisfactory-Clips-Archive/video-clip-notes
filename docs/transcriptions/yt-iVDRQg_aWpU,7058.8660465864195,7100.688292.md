@@ -16,4 +16,4 @@ https://youtube.com/clip/Ugkx4Xo8LJMjHglDPNo6HkX_4MHtK3tIBM5J
 
 ### Transcript
 
-> ghostwood empire last la as last time and dennis making some sweet old sweet old rhyming jams tunes i believe it's uh on their soundcloud right now yes and we're gonna have a little ghost wood empire yes and we're gonna hit up a link in the uh in the uh youtube description that i'm pushing out right now uh as soon as i figure out why this thing isn't working say all right pushing it now behind the scenes bam there you go and i'll also drop a little link here in all the things and this is the
+> ghostwood empire last la as last time and dennis making some sweet old sweet old rhyming jams tunes i believe it's, on their soundcloud right now yes and we're gonna have a little ghost wood empire yes and we're gonna hit up a link in the, in the, youtube description that i'm pushing out right now, as soon as i figure out why this thing isn't working say all right pushing it now behind the scenes bam there you go and i'll also drop a little link here in all the things and this is the

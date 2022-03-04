@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=CfUusHOKqcY
 
 ### Transcript
 
-> can we train lizard doggos to feed biomass into the generators uh yes you gotta use reinforced conditioning um and um yeah make sure to use a lot of primary reinforcement uh like food and then you should be able to if you keep at it do it every day you should be able to do that just like your regular dogs lizard doggers are smarter than you think
+> can we train lizard doggos to feed biomass into the generators, yes you gotta use reinforced conditioning, and, yeah make sure to use a lot of primary reinforcement, like food and then you should be able to if you keep at it do it every day you should be able to do that just like your regular dogs lizard doggers are smarter than you think

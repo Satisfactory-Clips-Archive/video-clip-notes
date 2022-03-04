@@ -22,4 +22,4 @@ This question was possibly duplicated with a more recent answer: [February 22nd,
 
 ### Transcript
 
-> pick up laserdog as a feature uh as a must ah no you can't already pick them up so what you need to do is you need to grab your xenobasher um and it will stick to it so just bonk them and then it we'll be able to carry them
+> pick up laserdog as a feature, as a must ah no you can't already pick them up so what you need to do is you need to grab your xenobasher, and it will stick to it so just bonk them and then it we'll be able to carry them

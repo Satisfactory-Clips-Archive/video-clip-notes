@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=KVz4PN_LLhU
 
 ### Transcript
 
-> it took a few days to get this but let's uh let's just watch my [ __ ] dismount for a moment here
+> it took a few days to get this but let's, let's just watch my [ __ ] dismount for a moment here
 >
 > [Music]
 >

@@ -25,6 +25,6 @@ https://www.youtube.com/watch?v=35iZLfgEF0A
 
 ### Transcript
 
-> well truck lights finally work in update five truck lights work in update four okay they just like they're weird okay uh so uh yeah hopefully they worked when i've tested it but i mean never counts when i tested
+> well truck lights finally work in update five truck lights work in update four okay they just like they're weird okay, so, yeah hopefully they worked when i've tested it but i mean never counts when i tested
 >
 > [Music]

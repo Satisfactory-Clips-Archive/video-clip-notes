@@ -20,4 +20,4 @@ This question was possibly duplicated with a more recent answer: [October 5th, 2
 
 ### Transcript
 
-> yep any plans to release the engine upgrade to ea before update 5 release to experimental so we we did talk about this earlier but maybe some people have missed it um no we're not going to be moving the engine upgrade to early access we're going to keep that there on experimental and then update 5 will launch an experimental and uh the early access folks won't get the engine upgrade until they get update five yes which will be you know maybe a month after uh update five jobs on experimental if all goes well fingers crossed
+> yep any plans to release the engine upgrade to ea before update 5 release to experimental so we we did talk about this earlier but maybe some people have missed it, no we're not going to be moving the engine upgrade to early access we're going to keep that there on experimental and then update 5 will launch an experimental and, the early access folks won't get the engine upgrade until they get update five yes which will be you know maybe a month after, update five jobs on experimental if all goes well fingers crossed

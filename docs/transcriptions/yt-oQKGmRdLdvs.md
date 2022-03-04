@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=oQKGmRdLdvs
 
 ### Transcript
 
-> uh can you release the official statement if it's okay to stream the game with music on twitch yeah it's okay yes we've uh we i believe we tweeted about that a couple of when we released the game um yeah but yeah it's okay you can use that music yeah you won't get any dmc claims or anything from us yeah and all we own all the music in the game
+> can you release the official statement if it's okay to stream the game with music on twitch yeah it's okay yes we've, we i believe we tweeted about that a couple of when we released the game, yeah but yeah it's okay you can use that music yeah you won't get any dmc claims or anything from us yeah and all we own all the music in the game

@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=0nc0vXpzr8o
 
 ### Transcript
 
-> um super late to the party let me see this good question uh not sure if this is just the teaser part are the old style rails we currently have now going to have a ram version as well so no the the the current railings that's in the game right now they will still be the the same way there's gonna be some tweak to them or something uh but like they're gonna be two separate buildables sort of so uh they will still be in the game
+> super late to the party let me see this good question, not sure if this is just the teaser part are the old style rails we currently have now going to have a ram version as well so no the the the current railings that's in the game right now they will still be the the same way there's gonna be some tweak to them or something, but like they're gonna be two separate buildables sort of so, they will still be in the game

@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [December 14th,
 
 ### Transcript
 
-> will the map change for 1.0 i think it will evolve but i don't think it's like it's not going to grow um more of the area will be like more usable because like right now there are big areas of the thing that's just kind of like just kind of there but it hasn't been really worked on or created yet so um in the in that case there's gonna be more to do on the existing map but it won't become bigger
+> will the map change for 1.0 i think it will evolve but i don't think it's like it's not going to grow, more of the area will be like more usable because like right now there are big areas of the thing that's just kind of like just kind of there but it hasn't been really worked on or created yet so, in the in that case there's gonna be more to do on the existing map but it won't become bigger

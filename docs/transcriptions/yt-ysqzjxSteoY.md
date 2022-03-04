@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=ysqzjxSteoY
 
 ### Transcript
 
-> uh is lagos supposed to respawn yes it's supposed to respawn if you haven't tamed it uh and if you have tamed it it will probably also respond the way that a respawn worked is that it's like areas on the map where there can spawn lizard doggos and if the lizard doggo dedicated that area has already spawned then it won't spawn it again
+> is lagos supposed to respawn yes it's supposed to respawn if you haven't tamed it, and if you have tamed it it will probably also respond the way that a respawn worked is that it's like areas on the map where there can spawn lizard doggos and if the lizard doggo dedicated that area has already spawned then it won't spawn it again

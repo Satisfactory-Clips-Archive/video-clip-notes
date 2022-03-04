@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [December 7th, 
 
 ### Transcript
 
-> uh we're randomizing nodes uh yeah like things like randomizing and increase replayability and things uh all these like different game modes like creative mode someone was asking about as well they're all possibilities um but probably added as like extra game modes that people can opt into we're not doing that just yet though
+> we're randomizing nodes, yeah like things like randomizing and increase replayability and things, all these like different game modes like creative mode someone was asking about as well they're all possibilities, but probably added as like extra game modes that people can opt into we're not doing that just yet though

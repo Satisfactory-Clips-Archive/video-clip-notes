@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=fWXyMbvdIKI
 
 ### Transcript
 
-> it's udp it's uh it's both tcp and udp actually but mostly udp which means that packets can come in any order they can be lost uh so that's something that the game has to keep track of et cetera et cetera
+> it's udp it's, it's both tcp and udp actually but mostly udp which means that packets can come in any order they can be lost, so that's something that the game has to keep track of et cetera et cetera

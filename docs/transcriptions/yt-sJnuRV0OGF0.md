@@ -22,4 +22,4 @@ This question was possibly duplicated with a more recent answer: [September 21st
 
 ### Transcript
 
-> animator was good hell yeah can we get turrets and more pve no uh marv here's another reference to the the wiki uh we don't have any intention to add like any kind of like tower defense to the game or you know any kind of like survival aspects to the game more so than already exist we might improve like exploration in the game but we don't have any interest of of adding tower defense if you want to play tower fans you can check out our game sanctum 2. it's really cool
+> animator was good hell yeah can we get turrets and more pve no, marv here's another reference to the the wiki, we don't have any intention to add like any kind of like tower defense to the game or you know any kind of like survival aspects to the game more so than already exist we might improve like exploration in the game but we don't have any interest of of adding tower defense if you want to play tower fans you can check out our game sanctum 2. it's really cool

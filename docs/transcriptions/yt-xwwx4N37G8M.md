@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [November 9th, 
 
 ### Transcript
 
-> can you make a toolbar selection to be with just hotkey like shift number or something instead of mouse wheel uh you probably make sure to hit that up on the question site i would recommend that
+> can you make a toolbar selection to be with just hotkey like shift number or something instead of mouse wheel, you probably make sure to hit that up on the question site i would recommend that

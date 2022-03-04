@@ -23,6 +23,6 @@ https://www.youtube.com/watch?v=Bh6ulAtlCKE
 
 ### Transcript
 
-> angle lights up yo hit that up on the qa side that i we talked to do you guys remember the video i mean with ben uh we talked about lights so that's something that he wants to do he just hasn't had time to do it maybe if it's more upload on the qa side maybe we'll be like oh ben go do that
+> angle lights up yo hit that up on the qa side that i we talked to do you guys remember the video i mean with ben, we talked about lights so that's something that he wants to do he just hasn't had time to do it maybe if it's more upload on the qa side maybe we'll be like oh ben go do that
 >
 > [Music]

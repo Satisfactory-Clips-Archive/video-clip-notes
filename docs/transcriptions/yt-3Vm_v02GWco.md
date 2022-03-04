@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [December 14th,
 
 ### Transcript
 
-> um yeah is there gonna be map expansion or acid rain weather i don't know if there's gonna be whether or not something that we had planned from the very beginning but i don't know if it's something we're gonna stick with but if there's gonna be map expansion i don't think so i mean i don't think the map pretty sure the map's not gonna get any bigger than it is but it's also not done so like after all these years we haven't even finished one map yet so uh we're not going to be expanding on it or creating new ones anytime soon
+> yeah is there gonna be map expansion or acid rain weather i don't know if there's gonna be whether or not something that we had planned from the very beginning but i don't know if it's something we're gonna stick with but if there's gonna be map expansion i don't think so i mean i don't think the map pretty sure the map's not gonna get any bigger than it is but it's also not done so like after all these years we haven't even finished one map yet so, we're not going to be expanding on it or creating new ones anytime soon

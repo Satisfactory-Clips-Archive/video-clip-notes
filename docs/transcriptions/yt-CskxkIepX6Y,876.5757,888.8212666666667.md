@@ -22,4 +22,4 @@ https://youtube.com/clip/Ugkx0uFobWLIS-LRVKzTwNdOKKnesGBr9ZGe
 
 ### Transcript
 
-> real quick so the freight station ui is getting a bit of love a bit of a facelift um it is it now resembles kind of like the the new look and feel of the truck station ui um it now shows average number of items incoming and outgoing for example so another new piece of ui
+> real quick so the freight station ui is getting a bit of love a bit of a facelift, it is it now resembles kind of like the the new look and feel of the truck station ui, it now shows average number of items incoming and outgoing for example so another new piece of ui

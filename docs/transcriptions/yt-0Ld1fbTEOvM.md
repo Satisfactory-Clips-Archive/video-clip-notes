@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [February 22nd,
 
 ### Transcript
 
-> here good to hear vr support would be heavenly that's not something that we um are planning uh it's not uh yeah it's not something that we uh are prioritizing vr no
+> here good to hear vr support would be heavenly that's not something that we, are planning, it's not, yeah it's not something that we, are prioritizing vr no

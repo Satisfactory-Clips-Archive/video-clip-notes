@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=7r67GMFo7Kc
 
 ### Transcript
 
-> do you guys use fuzzing to test your game uh do you mean like fuzzy logic or then no we use qa no yeah we do uh manual testing almost everything and smoke testing is almost almost everything is manual we do we do performance tests that are automated but that's pretty much it
+> do you guys use fuzzing to test your game, do you mean like fuzzy logic or then no we use qa no yeah we do, manual testing almost everything and smoke testing is almost almost everything is manual we do we do performance tests that are automated but that's pretty much it

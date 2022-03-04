@@ -16,4 +16,4 @@ This question was possibly replaced with a more recent answer: [February 19th, 2
 
 ### Transcript
 
-> ai and electricity management system that can handle power search while we're away from the base that's a pretty good suggestion as well to put on the on the qa site um i have to say it sounds cool i know that uh we've been like tinkering with the idea of doing more logical stuff um because we don't have a lot of that right now the the most advanced logical thing you can do right now is like setting filters for splitters and mergers i believe but i think i think it would be cool
+> ai and electricity management system that can handle power search while we're away from the base that's a pretty good suggestion as well to put on the on the qa site, i have to say it sounds cool i know that, we've been like tinkering with the idea of doing more logical stuff, because we don't have a lot of that right now the the most advanced logical thing you can do right now is like setting filters for splitters and mergers i believe but i think i think it would be cool

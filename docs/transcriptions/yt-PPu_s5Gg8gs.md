@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [July 20th, 202
 
 ### Transcript
 
-> uh so will the story play out when implemented or do we have to start a new game i'm actually not sure if you need to start a new game or not um there's a possibility you need to if you want to play through the story um but yeah we'll have to see when the when the when it gets closer that was a big one
+> so will the story play out when implemented or do we have to start a new game i'm actually not sure if you need to start a new game or not, there's a possibility you need to if you want to play through the story, but yeah we'll have to see when the when the when it gets closer that was a big one

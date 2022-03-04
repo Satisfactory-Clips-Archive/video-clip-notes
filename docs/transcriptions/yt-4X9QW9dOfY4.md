@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=4X9QW9dOfY4
 
 ### Transcript
 
-> uh since we're now in update five teaser season will you be working on the script for patch notes video what's your tour of door and boots uh so update five um so so snoot is on vacation right and has been for quite a few quite a while and will be for the next two weeks or something like that so we haven't really been working on the script too much or anything but we do have some ideas of what we want to do um yeah yeah we have some ideas we've brainstormed some ideas some of them are pretty good
+> since we're now in update five teaser season will you be working on the script for patch notes video what's your tour of door and boots, so update five, so so snoot is on vacation right and has been for quite a few quite a while and will be for the next two weeks or something like that so we haven't really been working on the script too much or anything but we do have some ideas of what we want to do, yeah yeah we have some ideas we've brainstormed some ideas some of them are pretty good

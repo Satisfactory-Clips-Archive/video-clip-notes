@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=i8j5U47-pcw
 
 ### Transcript
 
-> um can i add a glider for jumping down stuff oh that'd be real cool we do have the parachutes right now i guess they sort of work like that it would be dope if it wasn't just like it it would be just an equipment though maybe and not just like a consumable because the parachutes are kind of confusing
+> can i add a glider for jumping down stuff oh that'd be real cool we do have the parachutes right now i guess they sort of work like that it would be dope if it wasn't just like it it would be just an equipment though maybe and not just like a consumable because the parachutes are kind of confusing

@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [October 5th, 2
 
 ### Transcript
 
-> linux hosting please we are uh we are we're like first and foremost we're we're trying to solve windows but yes we are also uh trying to have people be able to host them on linux so that's nice we've kept we've kept linux in mind through the development as well because we knew that it would be heavily demanded that people want it so i don't know the state of it and we don't really want to promise linux but uh the person who's been working on it uh has had linux in mind
+> linux hosting please we are, we are we're like first and foremost we're we're trying to solve windows but yes we are also, trying to have people be able to host them on linux so that's nice we've kept we've kept linux in mind through the development as well because we knew that it would be heavily demanded that people want it so i don't know the state of it and we don't really want to promise linux but, the person who's been working on it, has had linux in mind

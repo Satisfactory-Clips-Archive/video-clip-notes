@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=HE5CIGke424
 
 ### Transcript
 
-> mark two and three power poles gives us more hover pack range uh no plans for that or right now
+> mark two and three power poles gives us more hover pack range, no plans for that or right now

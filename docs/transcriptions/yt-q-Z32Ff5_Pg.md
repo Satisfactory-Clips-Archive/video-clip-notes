@@ -18,4 +18,4 @@ This question was possibly replaced with a more recent answer: [February 16th, 2
 
 ### Transcript
 
-> nuclear removal when in real life or in game let me know um
+> nuclear removal when in real life or in game let me know

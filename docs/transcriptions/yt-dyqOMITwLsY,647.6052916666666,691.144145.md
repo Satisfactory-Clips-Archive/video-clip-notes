@@ -18,4 +18,4 @@ https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=647&end=692
 
 ### Transcript
 
-> you finally have the ceiling lights so we have been cheating we've been lying i'm really sorry for that but those fog planes are not real there's no real mist going on uh they they just they just looked like this with a beautiful shader on top of it yeah that's it to be fair most lighting in games that have those type of like they're they're usually a mesh that you just do that with so it's not an actual it's really expensive to do for your mattress we looked at it and just like maybe neural five um i wish so
+> you finally have the ceiling lights so we have been cheating we've been lying i'm really sorry for that but those fog planes are not real there's no real mist going on, they they just they just looked like this with a beautiful shader on top of it yeah that's it to be fair most lighting in games that have those type of like they're they're usually a mesh that you just do that with so it's not an actual it's really expensive to do for your mattress we looked at it and just like maybe neural five, i wish so

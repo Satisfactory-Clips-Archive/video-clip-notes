@@ -20,4 +20,4 @@ https://www.youtube.com/watch?v=YTFbOFwNSLw
 
 ### Transcript
 
-> i always found the headlift indicators kind of useless maybe because they didn't work uh you know what sounds like you need to go to the qa site and give some feedback there questions.satisfactorygame.com because that sounds like feedback that the team needs to hear the folks over on twitch you can leave your yeah bugs questions suggestions feedback on the qa site
+> i always found the headlift indicators kind of useless maybe because they didn't work, you know what sounds like you need to go to the qa site and give some feedback there questions.satisfactorygame.com because that sounds like feedback that the team needs to hear the folks over on twitch you can leave your yeah bugs questions suggestions feedback on the qa site

@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [December 19th,
 
 ### Transcript
 
-> like what is this say at 30 or will it drop increases time goes on it's gonna state that we think it will go up either as it goes or when it releases but we don't know yet so so it's it's a it's a non-answer essentially um it's a good non-answer i i would say i would say um cannot confirm or deny if i just like just couldn't say it but i just genuinely don't know
+> like what is this say at 30 or will it drop increases time goes on it's gonna state that we think it will go up either as it goes or when it releases but we don't know yet so so it's it's a it's a non-answer essentially, it's a good non-answer i i would say i would say, cannot confirm or deny if i just like just couldn't say it but i just genuinely don't know

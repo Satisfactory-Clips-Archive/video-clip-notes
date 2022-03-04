@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=d-MzgqyOzAI
 
 ### Transcript
 
-> you're putting ragdoll back in ragdoll is still in the game probably that one you could toggle it remember oh yeah uh people use that to like jump off you could jump on buildings people would ragdoll and hit the ground you wouldn't take full damage yeah yeah yeah now we're probably probably won't add that back that was a debug thing
+> you're putting ragdoll back in ragdoll is still in the game probably that one you could toggle it remember oh yeah, people use that to like jump off you could jump on buildings people would ragdoll and hit the ground you wouldn't take full damage yeah yeah yeah now we're probably probably won't add that back that was a debug thing

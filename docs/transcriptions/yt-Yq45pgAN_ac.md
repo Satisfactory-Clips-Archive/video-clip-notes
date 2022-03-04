@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=Yq45pgAN_ac
 
 ### Transcript
 
-> uh the new craters in the dunes will those flat walls turn into a cave system maybe but you didn't hear here you i don't know maybe maybe they will
+> the new craters in the dunes will those flat walls turn into a cave system maybe but you didn't hear here you i don't know maybe maybe they will

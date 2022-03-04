@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=yOLvvuiPGyQ
 
 ### Transcript
 
-> yeah put our road map that's just troll community tour community release update troll community even then we would disappoint people because we wouldn't troll enough or something you know there's also the aspect of like not everyone you know have adjusted to uh the satisfactory community management style or whatever it's like you gotta you gotta ease into it you know oh
+> yeah put our road map that's just troll community tour community release update troll community even then we would disappoint people because we wouldn't troll enough or something you know there's also the aspect of like not everyone you know have adjusted to, the satisfactory community management style or whatever it's like you gotta you gotta ease into it you know oh

@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [December 7th, 
 
 ### Transcript
 
-> uh it'd be great if storage could have slots enabled disabled so you can intentionally limit how much is stored right like if you just want to keep yeah well i would say uh put that on the qa side yes um just so that other folks at the studio can can see your suggestion and not just us goofballs
+> it'd be great if storage could have slots enabled disabled so you can intentionally limit how much is stored right like if you just want to keep yeah well i would say, put that on the qa side yes, just so that other folks at the studio can can see your suggestion and not just us goofballs

@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [November 16th,
 
 ### Transcript
 
-> that's money for your money uh will it be peaceful mode with no hostile creatures um likely uh we think in in the future we'll have something like alternate game modes which may include modding or whatever but then peaceful mode could be good and there could be other modes of that as well like no dismantle sure
+> that's money for your money, will it be peaceful mode with no hostile creatures, likely, we think in in the future we'll have something like alternate game modes which may include modding or whatever but then peaceful mode could be good and there could be other modes of that as well like no dismantle sure

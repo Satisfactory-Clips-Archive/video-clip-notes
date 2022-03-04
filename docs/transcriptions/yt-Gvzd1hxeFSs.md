@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=Gvzd1hxeFSs
 
 ### Transcript
 
-> can we use hazmat while driving a car that is also like a bug that we've been wanting to it's not is that barely that is a bug that that we're been aware of since like release and it's gonna be part of like the equipment revamp that we're gonna do to fix that issue um so yeah
+> can we use hazmat while driving a car that is also like a bug that we've been wanting to it's not is that barely that is a bug that that we're been aware of since like release and it's gonna be part of like the equipment revamp that we're gonna do to fix that issue, so yeah

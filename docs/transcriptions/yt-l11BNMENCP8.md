@@ -16,4 +16,4 @@ This question was possibly replaced with a more recent answer: November 12th, 20
 
 ### Transcript
 
-> are there any plans of changing how the collar gun works um maybe uh i'm not quite sure maybe that's possible yeah do you do you think that needs to be changed to the color gun yeah i would like to hear what suggestions it's a bit slow i guess but yeah well i'll put that in the keyway side if you want us to change the the color gun let us know what you think unreal engine zoo painting zoo painting hell yeah
+> are there any plans of changing how the collar gun works, maybe, i'm not quite sure maybe that's possible yeah do you do you think that needs to be changed to the color gun yeah i would like to hear what suggestions it's a bit slow i guess but yeah well i'll put that in the keyway side if you want us to change the the color gun let us know what you think unreal engine zoo painting zoo painting hell yeah

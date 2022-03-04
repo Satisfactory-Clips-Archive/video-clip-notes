@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=Rv5fCMyM2T4
 
 ### Transcript
 
-> god damn it this is this is actually all right well good thing i saved right yep secret poop time butt buddy fat sir vegeta don't worry about it what penalty save files uh why saves come no a wise safe's come indeed very good this ain't my first rodeo
+> god damn it this is this is actually all right well good thing i saved right yep secret poop time butt buddy fat sir vegeta don't worry about it what penalty save files, why saves come no a wise safe's come indeed very good this ain't my first rodeo

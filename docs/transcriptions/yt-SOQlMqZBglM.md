@@ -20,4 +20,4 @@ https://www.youtube.com/watch?v=SOQlMqZBglM
 
 ### Transcript
 
-> what are the odds of an update six oh it depends if we do i don't know it depends if we do it yeah i don't know i mean if we uh we'll have we haven't even done update five yet maybe update six will be 1.0 maybe it will just be update six maybe we'll skip six and go straight to seven who knows that'd be pretty funny though who knows what if update 6 is 1.0 you guys
+> what are the odds of an update six oh it depends if we do i don't know it depends if we do it yeah i don't know i mean if we, we'll have we haven't even done update five yet maybe update six will be 1.0 maybe it will just be update six maybe we'll skip six and go straight to seven who knows that'd be pretty funny though who knows what if update 6 is 1.0 you guys

@@ -51,7 +51,7 @@ Snutt: 10 out of 10 reviews from alligator on this stream. Jace: Yeah
 Jace: Plus two for nut Snutt: No! Minus two for no nut.. or.. yeah
 Jace: Plus four for nut and a cup Jace: Um maybe showing meters away on pings
 Jace: Yeah could be interesting. Jace: So- so the whole measuring and pings
-stuff let's uh- let's uh, uh look at that. Snutt: Plug our questions
+stuff let's, - let's, , , look at that. Snutt: Plug our questions
 Jace: We have a website.
 >
 > Jace: questions.satisfactorygame.com

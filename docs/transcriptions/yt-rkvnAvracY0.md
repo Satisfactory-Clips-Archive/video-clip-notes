@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=rkvnAvracY0
 
 ### Transcript
 
-> just hide autos over the cutscene that would be annoying there's already a little countdown you can already you know make sure that you're standing on the ground or something and not like jet packing across the canyon um before the audio start begins
+> just hide autos over the cutscene that would be annoying there's already a little countdown you can already you know make sure that you're standing on the ground or something and not like jet packing across the canyon, before the audio start begins

@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [January 25th, 
 
 ### Transcript
 
-> what's the purpose of sam orr well let me tell ya no let me not i i was gonna never mind uh you probably know where i was gonna go with that chase never mind uh we actually don't know okay cool uh you uh you we don't know uh i actually legit don't know uh yeah um it's so sam orr and like some of the other aspects that are like marked as work in progress they're gonna be part of the story um and uh once we have the story out then that's when you know what to do with it so we probably won't see any like use of that until like 1.0 actually
+> what's the purpose of sam orr well let me tell ya no let me not i i was gonna never mind, you probably know where i was gonna go with that chase never mind, we actually don't know okay cool, you, you we don't know, i actually legit don't know, yeah, it's so sam orr and like some of the other aspects that are like marked as work in progress they're gonna be part of the story, and, once we have the story out then that's when you know what to do with it so we probably won't see any like use of that until like 1.0 actually

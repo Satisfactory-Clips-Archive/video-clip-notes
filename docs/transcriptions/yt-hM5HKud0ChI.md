@@ -20,4 +20,4 @@ This question was possibly duplicated with a more recent answer: [October 19th, 
 
 ### Transcript
 
-> done any further look into the mark three minor and heart second output no that's the short answer um yeah so there you go no answer no update on that
+> done any further look into the mark three minor and heart second output no that's the short answer, yeah so there you go no answer no update on that

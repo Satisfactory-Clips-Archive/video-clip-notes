@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=rO4PnufLT7I
 
 ### Transcript
 
-> uh i would like to get more rail track options like a roundabout track i don't think so you can already make roundabout tracks um right now so no i don't think so
+> i would like to get more rail track options like a roundabout track i don't think so you can already make roundabout tracks, right now so no i don't think so

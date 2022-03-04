@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=AzF9_sSAW_A
 
 ### Transcript
 
-> if you're if your game is crashing and it's crashing because of something uh related to directx blah uh try some of the other render pipelines there's there's if you google like satisfactory crash or like your particular crash like people have already like figured out like a lot of workarounds for some issues so uh hit up that google machine um most issues that i see people have have been solved one way or another
+> if you're if your game is crashing and it's crashing because of something, related to directx blah, try some of the other render pipelines there's there's if you google like satisfactory crash or like your particular crash like people have already like figured out like a lot of workarounds for some issues so, hit up that google machine, most issues that i see people have have been solved one way or another

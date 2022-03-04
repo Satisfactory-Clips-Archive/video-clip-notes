@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=D1VuJBaiIfM
 
 ### Transcript
 
-> just got a twitter notification for the last year well thank you very much for stopping by everybody appreciate it just kidding welcome corey uh the archive will still be here and we're still around for a little longer so glad you can glad you could make it
+> just got a twitter notification for the last year well thank you very much for stopping by everybody appreciate it just kidding welcome corey, the archive will still be here and we're still around for a little longer so glad you can glad you could make it

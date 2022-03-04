@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=QwPENhdmGrs
 
 ### Transcript
 
-> uh is this satisfactory hot tub stream not this one no
+> is this satisfactory hot tub stream not this one no

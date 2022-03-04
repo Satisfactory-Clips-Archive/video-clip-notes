@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [September 28th
 
 ### Transcript
 
-> um rtx support ever i don't know maybe in the future but we sure as hell have way more things to do than to implement that
+> rtx support ever i don't know maybe in the future but we sure as hell have way more things to do than to implement that

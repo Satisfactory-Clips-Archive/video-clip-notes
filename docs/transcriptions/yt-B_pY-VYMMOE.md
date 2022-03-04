@@ -20,4 +20,4 @@ https://www.youtube.com/watch?v=B_pY-VYMMOE
 
 ### Transcript
 
-> factorygame.com how many new machines in update four uh i don't know if the top my head at least two at least three we've announced three we've announced three and i'm like at least two
+> factorygame.com how many new machines in update four, i don't know if the top my head at least two at least three we've announced three we've announced three and i'm like at least two

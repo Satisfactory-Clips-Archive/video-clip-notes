@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=LaDbKbTnmzI
 
 ### Transcript
 
-> so what's for dinner today oh it might be a pizza i have to beat the reindeer but uh are you well you're not doing burgers huh now that you said pizza i kind of like pizza huh yeah pizza is special on tuesdays
+> so what's for dinner today oh it might be a pizza i have to beat the reindeer but, are you well you're not doing burgers huh now that you said pizza i kind of like pizza huh yeah pizza is special on tuesdays

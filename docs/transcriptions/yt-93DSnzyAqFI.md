@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=93DSnzyAqFI
 
 ### Transcript
 
-> um strict secret mode so leaked in two weeks exactly
+> strict secret mode so leaked in two weeks exactly

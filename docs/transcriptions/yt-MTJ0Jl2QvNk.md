@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=MTJ0Jl2QvNk
 
 ### Transcript
 
-> does update 5 have a mobi in it no moba no moba coming to uh we want our players to enjoy their time playing satisfactory that's that's just a vision kind of thing that we have
+> does update 5 have a mobi in it no moba no moba coming to, we want our players to enjoy their time playing satisfactory that's that's just a vision kind of thing that we have

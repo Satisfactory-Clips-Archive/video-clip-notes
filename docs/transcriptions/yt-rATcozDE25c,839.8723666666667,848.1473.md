@@ -14,4 +14,4 @@ https://youtube.com/embed/rATcozDE25c?autoplay=1&start=839&end=849
 
 ### Transcript
 
-> hallucinogenic i'm not sure if you're talking about in-game or in real life but uh respectively no and yes does this look
+> hallucinogenic i'm not sure if you're talking about in-game or in real life but, respectively no and yes does this look

@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [November 16th,
 
 ### Transcript
 
-> um any plans for peace mode in the game i think there are um like a passive fist mode or a past peaceful mode yeah um or game modes in general i think we've we've thought about um one aspect there is like we kind of want to finish the the balancing of the game somewhat so we have an understanding on what the state of the game is before we start like adding creative mode or peaceful mode or whatever but i think that's on the table
+> any plans for peace mode in the game i think there are, like a passive fist mode or a past peaceful mode yeah, or game modes in general i think we've we've thought about, one aspect there is like we kind of want to finish the the balancing of the game somewhat so we have an understanding on what the state of the game is before we start like adding creative mode or peaceful mode or whatever but i think that's on the table

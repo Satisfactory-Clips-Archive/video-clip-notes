@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=TVmelqDZCWc
 
 ### Transcript
 
-> let's see here will you upgrade the middle of the cyber truck cyber truck is cyber wagon first of all uh is perfect the way it is no need to change it
+> let's see here will you upgrade the middle of the cyber truck cyber truck is cyber wagon first of all, is perfect the way it is no need to change it

@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=PvDKIvSEwD8
 
 ### Transcript
 
-> i already hate this favorite color my favorite color is uh red mine is violet well violet because is it because my my name is last name kind of sounds like that and you're just like are you subtly trying to say something here oh yeah
+> i already hate this favorite color my favorite color is, red mine is violet well violet because is it because my my name is last name kind of sounds like that and you're just like are you subtly trying to say something here oh yeah

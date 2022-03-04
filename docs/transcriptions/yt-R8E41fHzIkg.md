@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=R8E41fHzIkg
 
 ### Transcript
 
-> imagine trying to find your uh golf ball in snow that's gonna be rough
+> imagine trying to find your, golf ball in snow that's gonna be rough

@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: October 26th, 2
 
 ### Transcript
 
-> update and dedicated service please i i gave an update on on dedication early in the stream but i'll do it again we're still working on it if you want like the full on like status of that check out state of development early in the stream um right before we jump to cue to commute highlights um we're still working today service there because i'm not tied into any updates and um we're gonna release them as soon as we can essentially
+> update and dedicated service please i i gave an update on on dedication early in the stream but i'll do it again we're still working on it if you want like the full on like status of that check out state of development early in the stream, right before we jump to cue to commute highlights, we're still working today service there because i'm not tied into any updates and, we're gonna release them as soon as we can essentially

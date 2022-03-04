@@ -16,4 +16,4 @@ https://youtube.com/embed/iahxEfLCFWU?autoplay=1&start=224&end=246
 
 ### Transcript
 
-> now in last week's teaser video you may have spotted this little doohickey at the end of the video and this this is a valve and they will allow you to limit the maximum flow rate of a pipeline so just slap it on a pipe and uh configure it and you're good to go valves don't consume power they do not stop head lift but they do stop backflow so they are directional now in this update we've also added some
+> now in last week's teaser video you may have spotted this little doohickey at the end of the video and this this is a valve and they will allow you to limit the maximum flow rate of a pipeline so just slap it on a pipe and, configure it and you're good to go valves don't consume power they do not stop head lift but they do stop backflow so they are directional now in this update we've also added some

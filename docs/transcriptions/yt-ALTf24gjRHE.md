@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=ALTf24gjRHE
 
 ### Transcript
 
-> yeah uh where can i find those cute cats they're being like caves there's like weird caves and stuff
+> yeah, where can i find those cute cats they're being like caves there's like weird caves and stuff

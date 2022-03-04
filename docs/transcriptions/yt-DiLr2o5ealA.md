@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [January 25th, 
 
 ### Transcript
 
-> do we have plans for samore you better believe we do um but we're not gonna disclose it yep
+> do we have plans for samore you better believe we do, but we're not gonna disclose it yep

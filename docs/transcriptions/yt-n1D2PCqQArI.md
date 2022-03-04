@@ -16,7 +16,6 @@ https://www.youtube.com/watch?v=n1D2PCqQArI
 
 ### Transcript
 
-> uh
 >
 > [Music]
 >

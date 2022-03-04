@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=CLFSgP1ywbI
 
 ### Transcript
 
-> uh the hubs have a live feed from discord oh that would be pretty cool my dementor
+> the hubs have a live feed from discord oh that would be pretty cool my dementor

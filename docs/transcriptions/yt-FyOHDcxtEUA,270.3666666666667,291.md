@@ -14,4 +14,4 @@ https://youtube.com/clip/UgwCeOry0Hy7Dg0QywB4AaABCQ
 
 ### Transcript
 
-> distance as well so but it becomes more efficient the further it flies that makes exactly because yeah the base that you you pay for yeah so the base is because the base is so uh it's such a high value with four batteries um flying shorter distances is more or less cost effective i should say right
+> distance as well so but it becomes more efficient the further it flies that makes exactly because yeah the base that you you pay for yeah so the base is because the base is so, it's such a high value with four batteries, flying shorter distances is more or less cost effective i should say right

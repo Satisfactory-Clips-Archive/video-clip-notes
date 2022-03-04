@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=5kZ3YC5ZSaQ
 
 ### Transcript
 
-> um currently playing satisfactory windows 11 uh dev it changes nothing oh nice it works on windows 11 good
+> currently playing satisfactory windows 11, dev it changes nothing oh nice it works on windows 11 good

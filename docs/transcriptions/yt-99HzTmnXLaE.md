@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=99HzTmnXLaE
 
 ### Transcript
 
-> will toilet dlc require pipes uh i don't know you can't spill the beans
+> will toilet dlc require pipes, i don't know you can't spill the beans

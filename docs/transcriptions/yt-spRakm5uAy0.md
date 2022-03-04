@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [March 9th, 202
 
 ### Transcript
 
-> uh hey one will update four come out the uh plan right now is march 9 or march 16. yeah fingers crossed professionals at work here you better crossed
+> hey one will update four come out the, plan right now is march 9 or march 16. yeah fingers crossed professionals at work here you better crossed

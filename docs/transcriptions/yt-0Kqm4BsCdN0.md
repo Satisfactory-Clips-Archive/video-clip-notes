@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=0Kqm4BsCdN0
 
 ### Transcript
 
-> optimization for frames what do you mean you mean like fps we're always optimizing the game so you know it improves over time uh there's a lot going on here
+> optimization for frames what do you mean you mean like fps we're always optimizing the game so you know it improves over time, there's a lot going on here

@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=LQhwCnBXf_M
 
 ### Transcript
 
-> get a pop filter i i have a pop filter but it's so like obnox not obnoxious to have it on all the time so uh y'all i unfortunately have to suffer a little bit for me
+> get a pop filter i i have a pop filter but it's so like obnox not obnoxious to have it on all the time so, y'all i unfortunately have to suffer a little bit for me

@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: October 26th, 2
 
 ### Transcript
 
-> uh rough dedicated servers never heard of it what's that um dedicated service won't make it this year i mean obviously um i don't actually know the state of the dedicated service right at this moment but i'm sure i'm sure we will hit you up
+> rough dedicated servers never heard of it what's that, dedicated service won't make it this year i mean obviously, i don't actually know the state of the dedicated service right at this moment but i'm sure i'm sure we will hit you up

@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [August 3rd, 20
 
 ### Transcript
 
-> uh is j6 no no we're still working on it yeah huge huge shout out to everyone
+> is j6 no no we're still working on it yeah huge huge shout out to everyone

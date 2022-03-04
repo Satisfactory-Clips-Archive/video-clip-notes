@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [February 15th,
 
 ### Transcript
 
-> uh when will we get the toilet dlc uh i'm not sure soon soon one dollar dlc flushing um i i asked about that recently and we're gonna wait until after update four before we sort of look into that but it's a one dollar dlc coming soon yeah
+> when will we get the toilet dlc, i'm not sure soon soon one dollar dlc flushing, i i asked about that recently and we're gonna wait until after update four before we sort of look into that but it's a one dollar dlc coming soon yeah

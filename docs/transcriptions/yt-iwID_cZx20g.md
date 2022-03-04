@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [February 15th,
 
 ### Transcript
 
-> let's see here smart mergers i don't know we should ask mark that when i was here um we here yet we hear you that's all i gotta say
+> let's see here smart mergers i don't know we should ask mark that when i was here, we here yet we hear you that's all i gotta say

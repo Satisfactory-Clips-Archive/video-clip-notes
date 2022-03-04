@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=_zbrGpdnQF4
 
 ### Transcript
 
-> just add headlights to vehicles please there are headlights to the vehicles uh there is a bug with some of them so they don't turn on i believe unless you do like a very like weird thing uh something that we're aware of and i think we're gonna fix because we did we had headlights in the game when we launched the game and then there was a bug and they broke and then we fixed them again and then they broke again uh so yeah early access you guys what can i say
+> just add headlights to vehicles please there are headlights to the vehicles, there is a bug with some of them so they don't turn on i believe unless you do like a very like weird thing, something that we're aware of and i think we're gonna fix because we did we had headlights in the game when we launched the game and then there was a bug and they broke and then we fixed them again and then they broke again, so yeah early access you guys what can i say

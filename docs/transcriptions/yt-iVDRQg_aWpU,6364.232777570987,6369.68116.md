@@ -14,4 +14,4 @@ https://youtube.com/clip/Ugkx5ye_A6kynoFUW4iB1o4dSXQ4I_GNO18I
 
 ### Transcript
 
-> less than 10 minutes until the game drops any teasers for what's coming next um no
+> less than 10 minutes until the game drops any teasers for what's coming next, no

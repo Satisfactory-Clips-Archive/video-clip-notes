@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=cYPJzcepPkY
 
 ### Transcript
 
-> we're gonna have a big stream next week all right there's gonna be a lot it's gonna be like a four-hour stream i think um we're gonna have a lot of guests on the stream and uh and then and then we're gonna you know we'll play we'll play a little video yeah a little video
+> we're gonna have a big stream next week all right there's gonna be a lot it's gonna be like a four-hour stream i think, we're gonna have a lot of guests on the stream and, and then and then we're gonna you know we'll play we'll play a little video yeah a little video

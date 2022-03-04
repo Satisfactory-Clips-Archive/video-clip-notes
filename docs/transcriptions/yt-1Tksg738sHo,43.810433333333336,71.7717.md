@@ -14,4 +14,4 @@ https://youtube.com/clip/UgkxE50Q9mVpMVOgZyshJU8yuNcOPd1-HFB-
 
 ### Transcript
 
-> we brought you update 5 along with a fresh coat of paint for the game uh update 5 is going to be a smaller update but it ended up way bigger than we anticipated uh and in it we had a lot more cosmetic buildables we added signs improvements to the build system we added signals and collisions for trains we made improvements to the vehicle automation system just more cosmetic options and an updated look to the northern forest and the dune desert um and with update five
+> we brought you update 5 along with a fresh coat of paint for the game, update 5 is going to be a smaller update but it ended up way bigger than we anticipated, and in it we had a lot more cosmetic buildables we added signs improvements to the build system we added signals and collisions for trains we made improvements to the vehicle automation system just more cosmetic options and an updated look to the northern forest and the dune desert, and with update five

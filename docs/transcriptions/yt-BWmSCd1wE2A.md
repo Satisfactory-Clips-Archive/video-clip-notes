@@ -20,12 +20,11 @@ https://www.youtube.com/watch?v=BWmSCd1wE2A
 
 ### Transcript
 
-> uh
 >
 > [Music]
 >
-> can we expect truck stations to be changed to have a toggle option for the old fueling system and new fueling system i don't know say that again can we expect truck stations to be changed to have a toggle option for the old fueling system and the new fueling system what what like i'm curious why do you why would you want trucks to take all the fuel when they don't need it i'm curious about that but ultimately if you want if you want that you can uh leave that on the qa site questionsatisfactorygame.com uh and i guess explain the problem you're having like why do you need that to change back right
+> can we expect truck stations to be changed to have a toggle option for the old fueling system and new fueling system i don't know say that again can we expect truck stations to be changed to have a toggle option for the old fueling system and the new fueling system what what like i'm curious why do you why would you want trucks to take all the fuel when they don't need it i'm curious about that but ultimately if you want if you want that you can, leave that on the qa site questionsatisfactorygame.com, and i guess explain the problem you're having like why do you need that to change back right
 >
 > [Music]
 >
-> fix new feeling system instead yeah so there there is an issue with the fueling system with the trucks right now and so that is we're aware of that and i think that's being worked on right now actually um so yeah right because there's a bug yeah so like just because there's right it just because there's a bug that doesn't mean we roll back to the old stuff right no it's like if there's a bug you just fix the bug right so
+> fix new feeling system instead yeah so there there is an issue with the fueling system with the trucks right now and so that is we're aware of that and i think that's being worked on right now actually, so yeah right because there's a bug yeah so like just because there's right it just because there's a bug that doesn't mean we roll back to the old stuff right no it's like if there's a bug you just fix the bug right so

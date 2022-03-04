@@ -24,4 +24,4 @@ https://www.youtube.com/watch?v=iXslbiZMQ3Y
 
 ### Transcript
 
-> side areas and street lights that are mostly there for decoration wait wait i have to see if i can find this uh lina sent me so lina said like a test render of it [ __ ] where is it it's so funny there's like um there's a there's a bean guy walking in the background of that oh really where the [ __ ] did he send me that's so funny it's it's like i'll look for it while we talk because it's going to take [ __ ] ages because of [ __ ] teams but oh so funny look
+> side areas and street lights that are mostly there for decoration wait wait i have to see if i can find this, lina sent me so lina said like a test render of it [ __ ] where is it it's so funny there's like, there's a there's a bean guy walking in the background of that oh really where the [ __ ] did he send me that's so funny it's it's like i'll look for it while we talk because it's going to take [ __ ] ages because of [ __ ] teams but oh so funny look

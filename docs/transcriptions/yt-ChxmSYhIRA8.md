@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=ChxmSYhIRA8
 
 ### Transcript
 
-> why is resources like sam already implemented but has no recipes used seems a little bit up to me yeah it certainly is odd i think it was we probably planned to use it sooner uh but that haven't uh and that's pretty much it i don't think i or or i don't know maybe maybe it was intentional that people would just have it and just wonder what it's about and it's interesting and weird and maybe that's just part of the experience because it is supposed to be kind of weird you'll learn more about it when uh when when we when we release the story
+> why is resources like sam already implemented but has no recipes used seems a little bit up to me yeah it certainly is odd i think it was we probably planned to use it sooner, but that haven't, and that's pretty much it i don't think i or or i don't know maybe maybe it was intentional that people would just have it and just wonder what it's about and it's interesting and weird and maybe that's just part of the experience because it is supposed to be kind of weird you'll learn more about it when, when when we when we release the story

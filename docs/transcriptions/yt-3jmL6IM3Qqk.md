@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: July 6th, 2021 
 
 ### Transcript
 
-> we'll get a bigger map uh not a bigger map but we're gonna make changes to the current map so there's still more stuff coming to the current map
+> we'll get a bigger map, not a bigger map but we're gonna make changes to the current map so there's still more stuff coming to the current map

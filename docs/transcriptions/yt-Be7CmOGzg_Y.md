@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=Be7CmOGzg_Y
 
 ### Transcript
 
-> we're going to add some sort of building visualization on the game map um that's kind of hard considering the game is in 3d so like how does that visualize when buildings are on top of other buildings you know it's a bit tricky true story
+> we're going to add some sort of building visualization on the game map, that's kind of hard considering the game is in 3d so like how does that visualize when buildings are on top of other buildings you know it's a bit tricky true story

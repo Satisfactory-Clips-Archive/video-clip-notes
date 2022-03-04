@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=12uZ730Ljc8
 
 ### Transcript
 
-> let's look at this machine again 90. so it's getting up there so it's it this number is calculated based on like time past and how it's been doing this number is going to go up uh every cycle so you see it went up by three percent there until it eventually will be like yeah this machine is at 100 efficient efficiency
+> let's look at this machine again 90. so it's getting up there so it's it this number is calculated based on like time past and how it's been doing this number is going to go up, every cycle so you see it went up by three percent there until it eventually will be like yeah this machine is at 100 efficient efficiency

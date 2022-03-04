@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=0poAyojQ65Q
 
 ### Transcript
 
-> was the door sketch before after playing human full flat which also had a door a bit that was uh yeah i think irrelevant to that because the idea of it being we can talk about that in a sec because i'll bring in in a second i think
+> was the door sketch before after playing human full flat which also had a door a bit that was, yeah i think irrelevant to that because the idea of it being we can talk about that in a sec because i'll bring in in a second i think

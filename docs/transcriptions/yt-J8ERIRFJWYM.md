@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=J8ERIRFJWYM
 
 ### Transcript
 
-> please post the game jam video youtube video might be interesting for others to see oh uh yeah it's on youtube somewhere yeah go to your channel and you can look it up if you're interested in that
+> please post the game jam video youtube video might be interesting for others to see oh, yeah it's on youtube somewhere yeah go to your channel and you can look it up if you're interested in that

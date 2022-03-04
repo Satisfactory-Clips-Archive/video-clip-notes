@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=zRxEgzhBbic
 
 ### Transcript
 
-> are you taking your community highlights only from reddit no we take it from uh twitter and reddit so people use a screenshot flare on reddit we'll take uh yeah we take from the screenshot flare on reddit and we use uh satisfactory screenshots on twitter but there is way more people posting on reddit than twitter yes so a lot of the stuff comes from reddit because not that many people posting on twitter anymore yeah twitter's dying everybody no one's using twitter anymore
+> are you taking your community highlights only from reddit no we take it from, twitter and reddit so people use a screenshot flare on reddit we'll take, yeah we take from the screenshot flare on reddit and we use, satisfactory screenshots on twitter but there is way more people posting on reddit than twitter yes so a lot of the stuff comes from reddit because not that many people posting on twitter anymore yeah twitter's dying everybody no one's using twitter anymore

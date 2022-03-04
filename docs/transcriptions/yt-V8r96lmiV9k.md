@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [April 20th, 20
 
 ### Transcript
 
-> um what about the story will more of it come yeah there's a whole story and it will not come incrementally it will come in one go at some point
+> what about the story will more of it come yeah there's a whole story and it will not come incrementally it will come in one go at some point

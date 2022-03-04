@@ -22,4 +22,4 @@ https://youtube.com/clip/UgkxQT6FAmy_kl7s_EIq8rcyio7u9zY3Sxi5
 
 ### Transcript
 
-> things that we revealed in the passions video was that you can now paint vehicles dope we've been wanting that for a long time um and in the personal video we mostly showed off you can paint like the regular wheeled vehicles a lot of people have asked like can you paint trains as well yes you can you can paint all the vehicles in the game you can even paint the drones if you want to another thing
+> things that we revealed in the passions video was that you can now paint vehicles dope we've been wanting that for a long time, and in the personal video we mostly showed off you can paint like the regular wheeled vehicles a lot of people have asked like can you paint trains as well yes you can you can paint all the vehicles in the game you can even paint the drones if you want to another thing

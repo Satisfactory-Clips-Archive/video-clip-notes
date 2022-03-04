@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=02Zb5q8Zm5s
 
 ### Transcript
 
-> kit has increased to match performance i thought i just joined thought this was update three that would be so funny yeah no we turned the game to battle royale yeah oh sorry it's not oh yeah wait it's uh yeah it's uh what was it this is what was this called this yeah it's not about royal tv e p dpp pv evp yes
+> kit has increased to match performance i thought i just joined thought this was update three that would be so funny yeah no we turned the game to battle royale yeah oh sorry it's not oh yeah wait it's, yeah it's, what was it this is what was this called this yeah it's not about royal tv e p dpp pv evp yes

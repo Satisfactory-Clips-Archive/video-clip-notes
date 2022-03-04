@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=GFWvkkrw9_A
 
 ### Transcript
 
-> uh how long can your fps go before pipes and bells start bugging it's it's kind of hard to say because we we don't really have like a number we just noticed that like on the lower frame rates we noticed that the the precision uh gets a little bad it depends on like the setup so it's kind of hard to answer
+> how long can your fps go before pipes and bells start bugging it's it's kind of hard to say because we we don't really have like a number we just noticed that like on the lower frame rates we noticed that the the precision, gets a little bad it depends on like the setup so it's kind of hard to answer

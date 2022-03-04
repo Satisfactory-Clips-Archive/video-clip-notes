@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=41mxgVg4jNA
 
 ### Transcript
 
-> when our bulldozers call it coming uh you already got the dismantle gun why would you want more than that actually nature you should be able to ball those in either that's kind of true actually
+> when our bulldozers call it coming, you already got the dismantle gun why would you want more than that actually nature you should be able to ball those in either that's kind of true actually

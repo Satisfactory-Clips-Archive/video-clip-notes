@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=bu0Z-_vt8sk
 
 ### Transcript
 
-> i want a petition to re-add the uh the the big fish that we had in the game that was removed yeah exactly then and i learned about it like two years after we've removed it yeah there was like some bombs i was already going i was gonna say there was some fish like roaming around in some lake somewhere uh yeah
+> i want a petition to re-add the, the the big fish that we had in the game that was removed yeah exactly then and i learned about it like two years after we've removed it yeah there was like some bombs i was already going i was gonna say there was some fish like roaming around in some lake somewhere, yeah

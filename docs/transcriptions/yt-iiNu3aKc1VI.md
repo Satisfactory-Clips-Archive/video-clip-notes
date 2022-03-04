@@ -24,4 +24,4 @@ This question was possibly replaced with a more recent answer: [November 16th, 2
 
 ### Transcript
 
-> will there be an option to set a grid map wide so you can pave the world and have them meet up properly it's not impossible that that's added at some point um i think we've talked about this for a long time doing that uh but we we haven't figured out like a good way to do it um so it's possible that it might happen soon or not um we'll see we'll see
+> will there be an option to set a grid map wide so you can pave the world and have them meet up properly it's not impossible that that's added at some point, i think we've talked about this for a long time doing that, but we we haven't figured out like a good way to do it, so it's possible that it might happen soon or not, we'll see we'll see

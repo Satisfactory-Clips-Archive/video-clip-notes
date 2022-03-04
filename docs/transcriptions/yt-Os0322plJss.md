@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=Os0322plJss
 
 ### Transcript
 
-> um give me an iron man suit powered my fuel rods nuclear pasta that makes us immune from poison radiation can fly like a hot pack yeah let's do it let's add it let's do it for sure
+> give me an iron man suit powered my fuel rods nuclear pasta that makes us immune from poison radiation can fly like a hot pack yeah let's do it let's add it let's do it for sure

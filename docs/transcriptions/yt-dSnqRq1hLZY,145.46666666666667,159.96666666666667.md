@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [October 5th, 2
 
 ### Transcript
 
-> why is shipping so expensive so four fans by fans is based in the us which means that yeah shipping is favorable for people in the us which sucks for everyone else we are looking into other alternatives from non-us peeps but uh we don't really have anything ready just yet
+> why is shipping so expensive so four fans by fans is based in the us which means that yeah shipping is favorable for people in the us which sucks for everyone else we are looking into other alternatives from non-us peeps but, we don't really have anything ready just yet

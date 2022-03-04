@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [February 15th,
 
 ### Transcript
 
-> um so yeah when we will release update six after update five before update seven possibly be after update nine um
+> so yeah when we will release update six after update five before update seven possibly be after update nine

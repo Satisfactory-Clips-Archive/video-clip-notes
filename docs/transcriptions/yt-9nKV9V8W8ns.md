@@ -18,6 +18,6 @@ https://www.youtube.com/watch?v=9nKV9V8W8ns
 
 ### Transcript
 
-> when would the toilet and the hub be usable and generate biomass that's such a good question you know what we're still we're still fighting hard for that toilet dlc you know one dollar toilet dlc um we'll make it happen
+> when would the toilet and the hub be usable and generate biomass that's such a good question you know what we're still we're still fighting hard for that toilet dlc you know one dollar toilet dlc, we'll make it happen
 >
 > [Music]

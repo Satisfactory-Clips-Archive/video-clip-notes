@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=j0wtwJ9ZWI8
 
 ### Transcript
 
-> is hannah the only one working on the story hannah is the lead writer for the story i don't know if we had any other writers to be honest uh i think hannah writes all of it uh but but you know people are working on features that are tied in with the lore like how how the lords played out and like you know sequences to that etc etc um so there are more people working on the lord than just hannah but hannah is the lead writer so yeah hopefully that answers your question
+> is hannah the only one working on the story hannah is the lead writer for the story i don't know if we had any other writers to be honest, i think hannah writes all of it, but but you know people are working on features that are tied in with the lore like how how the lords played out and like you know sequences to that etc etc, so there are more people working on the lord than just hannah but hannah is the lead writer so yeah hopefully that answers your question

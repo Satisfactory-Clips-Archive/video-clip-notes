@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [February 22nd,
 
 ### Transcript
 
-> any plans for procedural gender map uh no no plans for procedural generated map uh it's all handmade that was something we tested when we started and we didn't like it
+> any plans for procedural gender map, no no plans for procedural generated map, it's all handmade that was something we tested when we started and we didn't like it

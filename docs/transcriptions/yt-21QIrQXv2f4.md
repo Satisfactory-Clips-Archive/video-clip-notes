@@ -20,4 +20,4 @@ This question was possibly duplicated with a more recent answer: [February 22nd,
 
 ### Transcript
 
-> when will you be returning to the office i don't know exactly we were there last week for one day yeah that sucked no i'm kidding um if you add dedicated servers you didn't get my underwear yeah the dress code was uh i get used to one type and then i got there and like oh oh yeah clothes mandatory ew i don't like this
+> when will you be returning to the office i don't know exactly we were there last week for one day yeah that sucked no i'm kidding, if you add dedicated servers you didn't get my underwear yeah the dress code was, i get used to one type and then i got there and like oh oh yeah clothes mandatory ew i don't like this

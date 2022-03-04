@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [February 1st, 
 
 ### Transcript
 
-> so there it is chat there it is fluid sinks question mark you can already sync those fluids you guys just package them um but are they still fluids when you package them don't get
+> so there it is chat there it is fluid sinks question mark you can already sync those fluids you guys just package them, but are they still fluids when you package them don't get

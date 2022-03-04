@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=01tZ8LavWWg
 
 ### Transcript
 
-> are we gonna going to get uh a moon is the big white thing in the sky a moon or is that a planet i'm not sure probably a moon right
+> are we gonna going to get, a moon is the big white thing in the sky a moon or is that a planet i'm not sure probably a moon right

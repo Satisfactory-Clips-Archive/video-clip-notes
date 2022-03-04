@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [September 28th
 
 ### Transcript
 
-> uh ride drones uh probably not we probably won't change like how the drones work in that regard
+> ride drones, probably not we probably won't change like how the drones work in that regard

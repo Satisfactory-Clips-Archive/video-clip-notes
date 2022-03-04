@@ -20,4 +20,4 @@ https://www.youtube.com/watch?v=eAmIT8FuZdM
 
 ### Transcript
 
-> the things that are going on so so yeah still planning to launch on early access um i would recommend if you haven't playing x mental at this point i would recommend switching over to early access once it drops because on epic we'll talk about that soon also but on epic we don't have cloud sync enabled anymore um on experimental just because it costs so many issues so that's good to know everybody i think i'm not 100 sure but i'm pretty sure so just want to say that real quick
+> the things that are going on so so yeah still planning to launch on early access, i would recommend if you haven't playing x mental at this point i would recommend switching over to early access once it drops because on epic we'll talk about that soon also but on epic we don't have cloud sync enabled anymore, on experimental just because it costs so many issues so that's good to know everybody i think i'm not 100 sure but i'm pretty sure so just want to say that real quick

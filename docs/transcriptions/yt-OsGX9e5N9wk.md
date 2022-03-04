@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [February 15th,
 
 ### Transcript
 
-> uh how about train elevators train gets in a special station and goes up or down zone levels that's insanity that would be cool though but i we don't have plans for that
+> how about train elevators train gets in a special station and goes up or down zone levels that's insanity that would be cool though but i we don't have plans for that

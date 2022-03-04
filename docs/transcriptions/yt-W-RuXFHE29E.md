@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=W-RuXFHE29E
 
 ### Transcript
 
-> second map would just be a good dlc down the line yeah it could be uh like a like a water world map
+> second map would just be a good dlc down the line yeah it could be, like a like a water world map

@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [September 14th
 
 ### Transcript
 
-> all right fine whatever um translation will be coming yes we we have plans for that
+> all right fine whatever, translation will be coming yes we we have plans for that

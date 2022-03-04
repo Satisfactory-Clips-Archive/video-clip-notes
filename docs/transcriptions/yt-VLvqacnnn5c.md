@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [September 7th,
 
 ### Transcript
 
-> can you add floor holes for pipes i'm gonna uh do some nice runs hidden under foundation yeah i mean sounds pretty good again that's like a definitely suggestion i think that's probably been suggested before so if you go to our qa site uh it's linked now um make that suggestion there or look for if it's been suggested and then upload it um yeah that's good good ideas
+> can you add floor holes for pipes i'm gonna, do some nice runs hidden under foundation yeah i mean sounds pretty good again that's like a definitely suggestion i think that's probably been suggested before so if you go to our qa site, it's linked now, make that suggestion there or look for if it's been suggested and then upload it, yeah that's good good ideas

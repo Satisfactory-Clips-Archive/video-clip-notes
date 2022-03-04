@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=YZJ8RChJn2w
 
 ### Transcript
 
-> will we be able to stop using mods for more building assets we won't stop you from using mods if that's the question uh but there are there's probably gonna be more decoration in the game at some point uh probably not to the same degree as as mods are making though because they're they are pushing out stuff
+> will we be able to stop using mods for more building assets we won't stop you from using mods if that's the question, but there are there's probably gonna be more decoration in the game at some point, probably not to the same degree as as mods are making though because they're they are pushing out stuff

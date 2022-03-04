@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [December 14th,
 
 ### Transcript
 
-> uh mug mug is uh yeah i mean same status is like what we said like last week or something um mug eu store uh are things that are currently in the works like like actually there's been progress on them i can't really give you any dates or anything yet but um might be in the next few months next next couple months or something like that we'll have to see
+> mug mug is, yeah i mean same status is like what we said like last week or something, mug eu store, are things that are currently in the works like like actually there's been progress on them i can't really give you any dates or anything yet but, might be in the next few months next next couple months or something like that we'll have to see

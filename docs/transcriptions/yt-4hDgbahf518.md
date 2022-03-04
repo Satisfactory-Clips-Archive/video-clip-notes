@@ -92,6 +92,6 @@ https://www.youtube.com/watch?v=4hDgbahf518
 
 ### Transcript
 
-> right right anyway let's start the music yeah that's the last last hole and uh yeah now that we added signs it's a lot easier to keep track of the scorecard nice dude i loved how everyone in chat was just nice nice nice nice nice yeah at this point i went back and watched it on youtube as well as the same thing yeah it's so funny they're both saying the same thing
+> right right anyway let's start the music yeah that's the last last hole and, yeah now that we added signs it's a lot easier to keep track of the scorecard nice dude i loved how everyone in chat was just nice nice nice nice nice yeah at this point i went back and watched it on youtube as well as the same thing yeah it's so funny they're both saying the same thing
 >
 > [Music]

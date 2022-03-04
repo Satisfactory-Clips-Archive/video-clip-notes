@@ -14,4 +14,4 @@ https://youtube.com/clip/UgyYNv0yANrj0o9ti7h4AaABCQ
 
 ### Transcript
 
-> timer for so the timer this is just basically behind the scenes uh information that we can toggle on so we can see what's going on but it's just so we can see that it takes it doesn't get stuck so we can see that it takes the correct amount of time to dock for example okay nice all right one more vid uh so
+> timer for so the timer this is just basically behind the scenes, information that we can toggle on so we can see what's going on but it's just so we can see that it takes it doesn't get stuck so we can see that it takes the correct amount of time to dock for example okay nice all right one more vid, so

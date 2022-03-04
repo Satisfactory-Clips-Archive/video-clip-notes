@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=4AB3jIFQAXI
 
 ### Transcript
 
-> uh any valheim satisfactory crossover nothing planned honestly
+> any valheim satisfactory crossover nothing planned honestly

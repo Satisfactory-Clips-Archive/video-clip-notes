@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=0bCxdLVhBQU
 
 ### Transcript
 
-> it's why is jace's camera blurry oh you know what it no it's actually quite good um this is one of those situations where you know like back in my day the camera was way blurrier than this oh yeah you don't you don't know how good you've got it my friend blurry images you don't know blurry you don't know what you're talking about yeah jace's blurry rl yeah it's just how my face your face falls nice yeah this is how it falls
+> it's why is jace's camera blurry oh you know what it no it's actually quite good, this is one of those situations where you know like back in my day the camera was way blurrier than this oh yeah you don't you don't know how good you've got it my friend blurry images you don't know blurry you don't know what you're talking about yeah jace's blurry rl yeah it's just how my face your face falls nice yeah this is how it falls

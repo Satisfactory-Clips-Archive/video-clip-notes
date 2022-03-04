@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [August 3rd, 20
 
 ### Transcript
 
-> it will not uh will satisfactory have native support for linux don't know uh we don't have plans for that right now and you know anything can happen but we don't have plans for that right now so no one can tell
+> it will not, will satisfactory have native support for linux don't know, we don't have plans for that right now and you know anything can happen but we don't have plans for that right now so no one can tell

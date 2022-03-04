@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [December 14th,
 
 ### Transcript
 
-> is the coffee's uh mud mug merch still in process yes it is there was a delay because of uh kovid the factories that would be making it had to uh delay
+> is the coffee's, mud mug merch still in process yes it is there was a delay because of, kovid the factories that would be making it had to, delay

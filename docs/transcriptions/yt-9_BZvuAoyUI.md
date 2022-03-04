@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [December 14th,
 
 ### Transcript
 
-> can we destroy or remove drop pods after hard drive collection this is something that we talked a little about internally we have some ideas on how to handle this uh but we don't know exactly how we're gonna but we hear you guys we hear you guys uh we agree with you uh we're gonna figure something out i don't know exactly what the solution will be
+> can we destroy or remove drop pods after hard drive collection this is something that we talked a little about internally we have some ideas on how to handle this, but we don't know exactly how we're gonna but we hear you guys we hear you guys, we agree with you, we're gonna figure something out i don't know exactly what the solution will be

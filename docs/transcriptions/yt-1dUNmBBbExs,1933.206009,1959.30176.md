@@ -20,8 +20,8 @@ https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=1933&end=1960
 
 ### Transcript
 
-> uh but yeah the teleporter mod is really nice it's really fast to set up mystery machine gun monster truck
+> but yeah the teleporter mod is really nice it's really fast to set up mystery machine gun monster truck
 >
 > [Music]
 >
-> um and yeah there's like two modes to it you can also set it so that automatically like just standing on it it will move you somewhere but here i'm like like picking my my spot so that is the teleporter mod uh now we're gonna
+>, and yeah there's like two modes to it you can also set it so that automatically like just standing on it it will move you somewhere but here i'm like like picking my my spot so that is the teleporter mod, now we're gonna

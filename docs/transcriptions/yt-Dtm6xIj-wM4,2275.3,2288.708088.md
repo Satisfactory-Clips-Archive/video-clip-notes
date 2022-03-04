@@ -14,4 +14,4 @@ https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2275&end=2289
 
 ### Transcript
 
-> often do change her hair color oh I'm actually curious Lin stuff um I mean like it's changed here but it's just faded honestly that's all it is every couple months it's usually a little expensive so I just try saving money is there a height limit it's the
+> often do change her hair color oh I'm actually curious Lin stuff, I mean like it's changed here but it's just faded honestly that's all it is every couple months it's usually a little expensive so I just try saving money is there a height limit it's the

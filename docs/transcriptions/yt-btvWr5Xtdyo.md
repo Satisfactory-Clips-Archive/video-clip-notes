@@ -18,8 +18,8 @@ This question was possibly duplicated with a more recent answer: [October 20th, 
 
 > [Music]
 >
-> yeah yeah cool uh when will satisfactory two come out for raspberry pi four after it comes after you
+> yeah yeah cool, when will satisfactory two come out for raspberry pi four after it comes after you
 >
 > [Music]
 >
-> true we go again uh
+> true we go again ,

@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [February 22nd,
 
 ### Transcript
 
-> uh body slots something we have been talking about before we're gonna change that i think at some point i think mark said uh we haven't been we haven't worked out exactly how we're gonna change that we also don't know when that's gonna happen if it's gonna be soon or later down the line but we're probably going to change body slots how that system works or add more body slots or whatever the solution will be we're not we're not happy with that system either you guys
+> body slots something we have been talking about before we're gonna change that i think at some point i think mark said, we haven't been we haven't worked out exactly how we're gonna change that we also don't know when that's gonna happen if it's gonna be soon or later down the line but we're probably going to change body slots how that system works or add more body slots or whatever the solution will be we're not we're not happy with that system either you guys

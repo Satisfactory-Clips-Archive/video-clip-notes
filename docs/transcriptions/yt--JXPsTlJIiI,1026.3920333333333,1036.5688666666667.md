@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [December 14th,
 
 ### Transcript
 
-> will there be new biomes uh well we can ask hannah so hannah what do you think are we gonna have any new biomes no okay she seemed pretty pretty sure on that one do you enjoy working from home or are you looking
+> will there be new biomes, well we can ask hannah so hannah what do you think are we gonna have any new biomes no okay she seemed pretty pretty sure on that one do you enjoy working from home or are you looking

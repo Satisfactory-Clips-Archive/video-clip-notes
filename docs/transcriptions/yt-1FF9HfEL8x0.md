@@ -22,4 +22,4 @@ This question was possibly duplicated with a more recent answer: [February 1st, 
 
 ### Transcript
 
-> will you add structural integrity uh no hell no uh we we we don't like that idea same thing with like uh like physical properties to like structures we're not gonna add that either um a because performance goodbye uh b because it'd be frustrating for people they play placed structures and then just like one day everything just falls apart wouldn't be great
+> will you add structural integrity, no hell no, we we we don't like that idea same thing with like, like physical properties to like structures we're not gonna add that either, a because performance goodbye, b because it'd be frustrating for people they play placed structures and then just like one day everything just falls apart wouldn't be great

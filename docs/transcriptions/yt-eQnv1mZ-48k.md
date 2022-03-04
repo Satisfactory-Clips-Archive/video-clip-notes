@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=eQnv1mZ-48k
 
 ### Transcript
 
-> have you ever pitched an idea that you thought was hot only go completely shot down yes um i a lot of times actually i used to uh where i used to work before i used to be like part of doing a lot of game pitches to publishers and uh um 95 of the time that you do a pitch uh it gets shot down essentially so um that's the way the cookie crumbles
+> have you ever pitched an idea that you thought was hot only go completely shot down yes, i a lot of times actually i used to, where i used to work before i used to be like part of doing a lot of game pitches to publishers and, , 95 of the time that you do a pitch, it gets shot down essentially so, that's the way the cookie crumbles

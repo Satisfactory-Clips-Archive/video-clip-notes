@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [July 6th, 2021
 
 ### Transcript
 
-> update 5 trailer win probably a few weeks before uh update 5 comes out or when update 5 comes out that's when i think
+> update 5 trailer win probably a few weeks before, update 5 comes out or when update 5 comes out that's when i think

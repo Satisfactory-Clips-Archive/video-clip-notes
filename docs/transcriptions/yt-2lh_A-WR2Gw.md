@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=2lh_A-WR2Gw
 
 ### Transcript
 
-> so good uh oh i should have shaved a mustache why didn't i do that for the stream yeah that would have been good i missed that i actually shaved because i wanted to like trim my mustache but then i up so i was like okay i guess i was shaving all of it uh yeah i hate it when that happens yeah especially since i tend to never like go clean shaven yeah yeah once you mess up you gotta like commit you gotta go gotta go the community the community has spoken it's true it's true okay all right that was beautiful
+> so good, oh i should have shaved a mustache why didn't i do that for the stream yeah that would have been good i missed that i actually shaved because i wanted to like trim my mustache but then i up so i was like okay i guess i was shaving all of it, yeah i hate it when that happens yeah especially since i tend to never like go clean shaven yeah yeah once you mess up you gotta like commit you gotta go gotta go the community the community has spoken it's true it's true okay all right that was beautiful

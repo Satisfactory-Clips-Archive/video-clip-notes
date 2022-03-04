@@ -20,4 +20,4 @@ https://www.youtube.com/watch?v=S2_Ni6CmTFI
 
 ### Transcript
 
-> take saddles when that's that's a really good question oh man yeah the tick saddle we should add it as a uh that's an easter egg or something store item oh that's pretty good yeah
+> take saddles when that's that's a really good question oh man yeah the tick saddle we should add it as a, that's an easter egg or something store item oh that's pretty good yeah

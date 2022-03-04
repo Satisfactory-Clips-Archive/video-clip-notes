@@ -36,4 +36,4 @@ anything you have down there they should- those nodes shouldn't
 move too much anyway and even if they do move and things are misaligned - your miners
 and oil extractors and all that stuff will continue to work as if they were
 attached to that node anyway one other thing that you might
-be wondering uh is that we had-
+be wondering, is that we had-

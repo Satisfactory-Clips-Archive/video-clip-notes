@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=7AEDyBWasBQ
 
 ### Transcript
 
-> when do you guys relocate to stockholm yo never first of all hopefully not stockholm if if we're gonna relocate anywhere we're gonna really get the gotham bird that's what i'm trying to get them to do um for various reasons but coffee scene is not going to move through yeah f stockholm we already have publishing in stockholm they can we have coffee north has claimed uh has claimed stockholm the only city that hasn't been claimed in sweden by by any coffee stain company right now is gothenburg so get on that
+> when do you guys relocate to stockholm yo never first of all hopefully not stockholm if if we're gonna relocate anywhere we're gonna really get the gotham bird that's what i'm trying to get them to do, for various reasons but coffee scene is not going to move through yeah f stockholm we already have publishing in stockholm they can we have coffee north has claimed, has claimed stockholm the only city that hasn't been claimed in sweden by by any coffee stain company right now is gothenburg so get on that

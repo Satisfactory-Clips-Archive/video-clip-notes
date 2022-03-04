@@ -39,4 +39,4 @@ https://www.youtube.com/watch?v=szj7yUfsDnA
 
 ### Transcript
 
-> and look at that we got some uh cold running oh is there a coal coming through some coal coming out we should also check out the water extractors because they show yeah yeah running you can kind of see the water flowing through the pipe here with on the indicator on it you can also look at the pipe itself see like the flow rate is coming in the maximum a lot of flow rate that the pipe can allow the fluid to be transported in um and we can see on the coal generator so everything seems gucci uh
+> and look at that we got some, cold running oh is there a coal coming through some coal coming out we should also check out the water extractors because they show yeah yeah running you can kind of see the water flowing through the pipe here with on the indicator on it you can also look at the pipe itself see like the flow rate is coming in the maximum a lot of flow rate that the pipe can allow the fluid to be transported in, and we can see on the coal generator so everything seems gucci

@@ -22,4 +22,4 @@ https://www.youtube.com/watch?v=p-3nFsRAtBI
 
 ### Transcript
 
-> tom what happened with priority switches i decided not to we've answered like this every single time i've seen it at least uh at one point we made a video we leaked some things uh we leaked it before we're ready to talk about any of that uh when we're ready to talk about that we're gonna talk about it
+> tom what happened with priority switches i decided not to we've answered like this every single time i've seen it at least, at one point we made a video we leaked some things, we leaked it before we're ready to talk about any of that, when we're ready to talk about that we're gonna talk about it

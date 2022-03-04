@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=GWygJUeqbHU
 
 ### Transcript
 
-> uh have you got any plans after satisfactory no we haven't finished satisfactory yet so we're still we're still very much focused on just finishing the game yeah we'll we'll burn that bridge when we get to it yeah yep
+> have you got any plans after satisfactory no we haven't finished satisfactory yet so we're still we're still very much focused on just finishing the game yeah we'll we'll burn that bridge when we get to it yeah yep

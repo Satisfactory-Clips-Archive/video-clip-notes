@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=6_JS0HRIPp8
 
 ### Transcript
 
-> can you change the spawn radius for animals or uber enemies and i love it um any suggestions that you want to make uh you can leave them on the qa site questions on satisfactorygame.com that's the best place to leave suggestions and stuff to you guys in general uh that way the rest of the team you know producers director people like that um people who uh decide what we're doing next they will see the stuff on that website
+> can you change the spawn radius for animals or uber enemies and i love it, any suggestions that you want to make, you can leave them on the qa site questions on satisfactorygame.com that's the best place to leave suggestions and stuff to you guys in general, that way the rest of the team you know producers director people like that, people who, decide what we're doing next they will see the stuff on that website

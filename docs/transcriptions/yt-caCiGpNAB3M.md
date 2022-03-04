@@ -24,4 +24,4 @@ https://www.youtube.com/watch?v=caCiGpNAB3M
 
 ### Transcript
 
-> kfc console release when kfc console has been discontinued right or am i thinking of something else i think they dropped that joke kfc console unfortunately am i wrong no it hasn't even been released yet wait is it going to be released kfc console is only 24 fps oh 240 fps oh geez wait i'm confused has it released or won't release like what is the state of this this is a real question okay i'm just gonna ignore chat now i need to know this uh it's not released okay good to know good to know is it gonna be released nobody knows
+> kfc console release when kfc console has been discontinued right or am i thinking of something else i think they dropped that joke kfc console unfortunately am i wrong no it hasn't even been released yet wait is it going to be released kfc console is only 24 fps oh 240 fps oh geez wait i'm confused has it released or won't release like what is the state of this this is a real question okay i'm just gonna ignore chat now i need to know this, it's not released okay good to know good to know is it gonna be released nobody knows

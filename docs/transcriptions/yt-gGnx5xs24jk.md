@@ -16,7 +16,7 @@ This question was possibly duplicated with a more recent answer: [October 19th, 
 
 ### Transcript
 
-> anyway somebody asked about the instead of golf and uh well we should check that yeah we should check that let's see here actually i should probably bring it over to this one oh my god oh god wow god what am i doing learns how to use tabs pretty much good thing nobody saw that on stream cool um
+> anyway somebody asked about the instead of golf and, well we should check that yeah we should check that let's see here actually i should probably bring it over to this one oh my god oh god wow god what am i doing learns how to use tabs pretty much good thing nobody saw that on stream cool
 >
 > [Music]
 >

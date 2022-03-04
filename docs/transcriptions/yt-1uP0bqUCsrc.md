@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=1uP0bqUCsrc
 
 ### Transcript
 
-> you had plans in the past implement structure the power cell foundations of the factory what happened to the idea uh we didn't though there used to be exist a wall that did that that you could like drag wires from but well you didn't like that especially not since we added the the wall foundations or like the wall thingamajigs so uh yeah we don't have plans for that
+> you had plans in the past implement structure the power cell foundations of the factory what happened to the idea, we didn't though there used to be exist a wall that did that that you could like drag wires from but well you didn't like that especially not since we added the the wall foundations or like the wall thingamajigs so, yeah we don't have plans for that

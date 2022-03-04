@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [December 14th,
 
 ### Transcript
 
-> your plans to add a coffee maker with coffee note to a mine that's pretty cool coffee node oh my god we are now why haven't we done that yet we need a coffee note that's so good you should be able to make like uh we gotta add like beans in the game you know the coffee beans yeah cause that's like that feels like something that would be tied into farming if we did farming
+> your plans to add a coffee maker with coffee note to a mine that's pretty cool coffee node oh my god we are now why haven't we done that yet we need a coffee note that's so good you should be able to make like, we gotta add like beans in the game you know the coffee beans yeah cause that's like that feels like something that would be tied into farming if we did farming

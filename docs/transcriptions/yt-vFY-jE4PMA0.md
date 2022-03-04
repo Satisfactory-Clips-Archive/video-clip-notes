@@ -25,4 +25,4 @@ https://www.youtube.com/watch?v=vFY-jE4PMA0
 
 ### Transcript
 
-> uh someone asking if we're hiring uh you can go to coffeestandstudios.com jobs and it looks like we are hiring a generalist game designer right now this is uh if you want to see what jobs are available you can use that link live your live your dreams
+> someone asking if we're hiring, you can go to coffeestandstudios.com jobs and it looks like we are hiring a generalist game designer right now this is, if you want to see what jobs are available you can use that link live your live your dreams

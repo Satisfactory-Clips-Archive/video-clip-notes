@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [May 11th, 2021
 
 ### Transcript
 
-> can there be a first person view for driving cars um i don't think we've ever thought we've always been like talking about like what if you could be third person when you're outside of the car never the other way around i don't think i've ever seen that before yeah uh i i i personally i could never do that in cyberpunk when i played it it was impossible either it was so hard to play yeah yeah for sure um
+> can there be a first person view for driving cars, i don't think we've ever thought we've always been like talking about like what if you could be third person when you're outside of the car never the other way around i don't think i've ever seen that before yeah, i i i personally i could never do that in cyberpunk when i played it it was impossible either it was so hard to play yeah yeah for sure

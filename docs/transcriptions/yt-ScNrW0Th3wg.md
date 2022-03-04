@@ -18,4 +18,4 @@ This question was possibly replaced with a more recent answer: [January 15th, 20
 
 ### Transcript
 
-> to hold down there will gas be an update for you mean i was going to insert a fart joke but i like i'm too bad um gas is already in the game right you already have the gas pillars just walk into those and you have gas gas
+> to hold down there will gas be an update for you mean i was going to insert a fart joke but i like i'm too bad, gas is already in the game right you already have the gas pillars just walk into those and you have gas gas

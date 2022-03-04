@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=UbRjqQgji40
 
 ### Transcript
 
-> okay uh any news from the content creator program no we are we are working on that though
+> okay, any news from the content creator program no we are we are working on that though

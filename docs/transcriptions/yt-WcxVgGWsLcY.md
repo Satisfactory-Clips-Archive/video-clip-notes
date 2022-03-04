@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=WcxVgGWsLcY
 
 ### Transcript
 
-> so so what i'm gonna do is i'm gonna place eight coal generators uh i've been thinking i'm gonna actually go off script a little bit what was that big big bean animation not work it's just floating away he's been taken away by the currents
+> so so what i'm gonna do is i'm gonna place eight coal generators, i've been thinking i'm gonna actually go off script a little bit what was that big big bean animation not work it's just floating away he's been taken away by the currents
 >
 > [Laughter]
 >

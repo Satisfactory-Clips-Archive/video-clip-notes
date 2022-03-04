@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [February 22nd,
 
 ### Transcript
 
-> um if you add trucks then add boats that's never gonna happen at least not that i think no aquatic
+> if you add trucks then add boats that's never gonna happen at least not that i think no aquatic

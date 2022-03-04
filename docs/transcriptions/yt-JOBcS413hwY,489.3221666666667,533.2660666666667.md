@@ -24,4 +24,4 @@ https://youtube.com/embed/JOBcS413hwY?autoplay=1&start=489&end=534
 >
 > [Music]
 >
-> okay so i dug up the uh the um the programmable automation robot thingy and i took some took a pretty nice screenshot of it so i'll bring it up now there it is i don't know what do you guys think this is uh you know it may go through some more changes in terms of design we're not really sure yet but it's looking pretty good to me it's pretty close to final as far as i know and it'll do you know a bunch of different things so that's uh all the things all the things
+> okay so i dug up the, the, the programmable automation robot thingy and i took some took a pretty nice screenshot of it so i'll bring it up now there it is i don't know what do you guys think this is, you know it may go through some more changes in terms of design we're not really sure yet but it's looking pretty good to me it's pretty close to final as far as i know and it'll do you know a bunch of different things so that's, all the things all the things

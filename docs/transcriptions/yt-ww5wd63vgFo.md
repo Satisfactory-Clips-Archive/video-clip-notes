@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=ww5wd63vgFo
 
 ### Transcript
 
-> um any update for teaser videos there may be one in the beginning of next year first week
+> any update for teaser videos there may be one in the beginning of next year first week

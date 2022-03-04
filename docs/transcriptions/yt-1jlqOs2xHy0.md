@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=1jlqOs2xHy0
 
 ### Transcript
 
-> so and the reason why there are multiple kinds of conveyor belts by the way is because uh as you progress you get like faster conveyor belts basically which um can carry more units of whatever per minute uh so right now is using mark one i believe um which i think carries 60 per minute if i'm not correct incorrect so yeah the first two ones are 60 and then 120 and then it's like three yeah 420 i don't think it's 420. it would be funny i think it's 480 480 sounds pretty easy i think we messed up with the numbers there but we got out a lot of potential
+> so and the reason why there are multiple kinds of conveyor belts by the way is because, as you progress you get like faster conveyor belts basically which, can carry more units of whatever per minute, so right now is using mark one i believe, which i think carries 60 per minute if i'm not correct incorrect so yeah the first two ones are 60 and then 120 and then it's like three yeah 420 i don't think it's 420. it would be funny i think it's 480 480 sounds pretty easy i think we messed up with the numbers there but we got out a lot of potential

@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=K5CKH3D4gkM
 
 ### Transcript
 
-> occlusion calling was the word i was looking for oh because there are cases where occlusion calling is is is good to do and and most cases they do if you don't instant stuff uh in rendering techniques but since we batched enough it's hard to do that
+> occlusion calling was the word i was looking for oh because there are cases where occlusion calling is is is good to do and and most cases they do if you don't instant stuff, in rendering techniques but since we batched enough it's hard to do that

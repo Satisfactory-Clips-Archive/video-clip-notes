@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=mFmwCr9HYK8
 
 ### Transcript
 
-> every tuesday this time yep thank you very much vincent for linking that in the chat over on steam so that uh yeah folks on steam if you want to watch on twitch uh where most people are uh you can go to twitch.tv coffee stain studios devs that's right
+> every tuesday this time yep thank you very much vincent for linking that in the chat over on steam so that, yeah folks on steam if you want to watch on twitch, where most people are, you can go to twitch.tv coffee stain studios devs that's right

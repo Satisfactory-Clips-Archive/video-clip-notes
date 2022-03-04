@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [February 8th, 
 
 ### Transcript
 
-> uh shall we yeah one more question actually this one was asked a couple times what's the status of docker images i don't know but i'll make a note of it right now and i'll try to find out that's a good question did we get i'll last later never mind no ask me now during the the
+> shall we yeah one more question actually this one was asked a couple times what's the status of docker images i don't know but i'll make a note of it right now and i'll try to find out that's a good question did we get i'll last later never mind no ask me now during the the

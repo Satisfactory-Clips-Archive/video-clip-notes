@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=M9rzguRCWjc
 
 ### Transcript
 
-> yeah we at least need an i love strawberries poster or uh pale berries poster or something yeah
+> yeah we at least need an i love strawberries poster or, pale berries poster or something yeah

@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=xmZ--a6nkQU
 
 ### Transcript
 
-> uh when will jace get to tier seven never no i'm sure i'm sure he can do it if if we backseat game enough on the streams or pl jax is playing i'm sure we can do it
+> when will jace get to tier seven never no i'm sure i'm sure he can do it if if we backseat game enough on the streams or pl jax is playing i'm sure we can do it

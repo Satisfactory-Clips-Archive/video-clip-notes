@@ -20,4 +20,4 @@ https://www.youtube.com/watch?v=jUhdgy_uAts
 
 ### Transcript
 
-> uh no epic reveal trailer there's going to be a reveal trailer same old demo
+> no epic reveal trailer there's going to be a reveal trailer same old demo

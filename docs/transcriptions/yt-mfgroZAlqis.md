@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [February 15th,
 
 ### Transcript
 
-> yep when is update 6 coming november 31st wow uh sorry oh very specific the officers
+> yep when is update 6 coming november 31st wow, sorry oh very specific the officers

@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=uW-ebXbDC3U
 
 ### Transcript
 
-> zoop coin oh my god that's so good that's such a good name we're adding in-game currencies right now remember when uh we teased the uh awesome awesomesync and people are like the awesome shopping people are like you guys are getting in-game currencies and we were like let's not debunk that immediately let's keep that let's let's keep that running for a while
+> zoop coin oh my god that's so good that's such a good name we're adding in-game currencies right now remember when, we teased the, awesome awesomesync and people are like the awesome shopping people are like you guys are getting in-game currencies and we were like let's not debunk that immediately let's keep that let's let's keep that running for a while

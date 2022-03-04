@@ -16,7 +16,7 @@ This question was possibly duplicated with a more recent answer: [February 8th, 
 
 ### Transcript
 
-> will ever be farming in the game uh i don't know maybe
+> will ever be farming in the game, i don't know maybe
 >
 > [Music]
 >

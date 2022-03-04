@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=yb2UEdQMQMI
 
 ### Transcript
 
-> all right anyway so yeah i'm back from vacation what a time to be alive um let's do a little bit of dev because most of this is like the first week when most people are back from vacation i think there's like one or two people are still doing like a couple of days um but this is like the full one week with like the full crew sort of kicking it off yep yep most people are back pretty full crew yeah still working on on that all update yeah
+> all right anyway so yeah i'm back from vacation what a time to be alive, let's do a little bit of dev because most of this is like the first week when most people are back from vacation i think there's like one or two people are still doing like a couple of days, but this is like the full one week with like the full crew sort of kicking it off yep yep most people are back pretty full crew yeah still working on on that all update yeah

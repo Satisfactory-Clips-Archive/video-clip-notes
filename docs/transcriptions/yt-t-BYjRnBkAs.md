@@ -16,8 +16,8 @@ https://www.youtube.com/watch?v=t-BYjRnBkAs
 
 ### Transcript
 
-> let's see percentage with decimals in overclock menu isn't that already possible i i thought that was already in the game but maybe i'm thinking of something else it's fake it's a fake beard uh you should already be able yeah it is so you can if you not everybody knows this but if you go to the build menu and you click on the number the the decimal you can actually write whatever you want and you can do the same thing in parts per minute so if you know that like you want to produce like 60 parts per minute instead of 45 in like the keterium constructor or whatever like if you know that you want to get hit 60 instead of 45 you can just type that in in the parts per minute in the overclocking setting um and yeah we even added four decimal spaces now it used to be three decimal spaces but now there's four so you get even more precision
+> let's see percentage with decimals in overclock menu isn't that already possible i i thought that was already in the game but maybe i'm thinking of something else it's fake it's a fake beard, you should already be able yeah it is so you can if you not everybody knows this but if you go to the build menu and you click on the number the the decimal you can actually write whatever you want and you can do the same thing in parts per minute so if you know that like you want to produce like 60 parts per minute instead of 45 in like the keterium constructor or whatever like if you know that you want to get hit 60 instead of 45 you can just type that in in the parts per minute in the overclocking setting, and yeah we even added four decimal spaces now it used to be three decimal spaces but now there's four so you get even more precision
 >
 > [Music]
 >
-> so uh so yeah you can already do that
+> so, so yeah you can already do that

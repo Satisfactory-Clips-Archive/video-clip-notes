@@ -22,4 +22,4 @@ https://www.youtube.com/watch?v=OEM59V7fCkQ
 >
 > [Music]
 >
-> uh railings on rams a dirt a durr i mean we currently say right because a lot of the stuff hasn't been revealed yet um i think my favorite feature hasn't been revealed yet yeah that's true is it something that might be revealed this week it's possible very possible all right all right
+>, railings on rams a dirt a durr i mean we currently say right because a lot of the stuff hasn't been revealed yet, i think my favorite feature hasn't been revealed yet yeah that's true is it something that might be revealed this week it's possible very possible all right all right

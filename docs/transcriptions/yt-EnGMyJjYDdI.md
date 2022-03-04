@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [October 6th, 2
 
 ### Transcript
 
-> uh wait you can tame any native life form no only there's a dog at this point yes i have two now
+> wait you can tame any native life form no only there's a dog at this point yes i have two now

@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=bmg87ZvXsjM
 
 ### Transcript
 
-> epic doesn't have linux support at all uh it's half true like does it count as like official linux support when steam games because like not all steam games work in linux like you you'll have like uh what's it called wine vine on epic that works the same way so it's like pretty much the same thing as proton as far as i know people have played satisfactory on linux when we were epic exclusive so i know it works
+> epic doesn't have linux support at all, it's half true like does it count as like official linux support when steam games because like not all steam games work in linux like you you'll have like, what's it called wine vine on epic that works the same way so it's like pretty much the same thing as proton as far as i know people have played satisfactory on linux when we were epic exclusive so i know it works

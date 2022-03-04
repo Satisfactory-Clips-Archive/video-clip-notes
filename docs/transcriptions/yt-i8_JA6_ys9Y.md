@@ -22,4 +22,4 @@ https://www.youtube.com/watch?v=i8_JA6_ys9Y
 
 ### Transcript
 
-> so so just you guys are aware uh dedicated servers won't like leave experimental state once early acts uh once we leave experimental state for update five right they are two kind of separate entities but we're working really hard to fix those up and yeah good times to have for all
+> so so just you guys are aware, dedicated servers won't like leave experimental state once early acts, once we leave experimental state for update five right they are two kind of separate entities but we're working really hard to fix those up and yeah good times to have for all

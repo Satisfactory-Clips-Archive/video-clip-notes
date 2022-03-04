@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=XVIcVR5Xcy0
 
 ### Transcript
 
-> is there a uh community managed position opening up soon when the snook gets fired for the sixth time uh subsequently yeah i get fired all the time but i also apply for the job as soon as i get fired and then i got it back because i have experience or something you weren't allowed to tell them that snit i don't know how many times you're gonna break your nda i swear to god you're out of here get get out that's that's it that's the last draw today for today yeah i'll see you tomorrow yeah i'll see you tomorrow man yeah i'm the only applicant yeah pros of the job you get to work in a creative environment you get to work with a great community cons you work with jace
+> is there a, community managed position opening up soon when the snook gets fired for the sixth time, subsequently yeah i get fired all the time but i also apply for the job as soon as i get fired and then i got it back because i have experience or something you weren't allowed to tell them that snit i don't know how many times you're gonna break your nda i swear to god you're out of here get get out that's that's it that's the last draw today for today yeah i'll see you tomorrow yeah i'll see you tomorrow man yeah i'm the only applicant yeah pros of the job you get to work in a creative environment you get to work with a great community cons you work with jace
 >
 > [Laughter]
 >

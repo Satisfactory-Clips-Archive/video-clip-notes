@@ -20,6 +20,6 @@ https://youtube.com/clip/Ugkxvj8a3wzSAepqTv-cIb2F1KetdU6ZT7iJ
 
 ### Transcript
 
-> but your factories themselves should function should uh should function as they as they were in update four so you should have no issues enough in that regard
+> but your factories themselves should function should, should function as they as they were in update four so you should have no issues enough in that regard
 >
 > [Music]

@@ -23,4 +23,4 @@ https://youtube.com/clip/UgkxVSEmjxWiXqQepN49VFd6x9gXxVR83VFs
 
 ### Transcript
 
-> our coffee stain hosting any official dedicated servers no we're not going to be hosting any servers what we plan to do is just give you the tools and you can run it on your local machine on a separate machine uh whatever you have the tools to host servers uh however you want has coffee stain partnered with any
+> our coffee stain hosting any official dedicated servers no we're not going to be hosting any servers what we plan to do is just give you the tools and you can run it on your local machine on a separate machine, whatever you have the tools to host servers, however you want has coffee stain partnered with any

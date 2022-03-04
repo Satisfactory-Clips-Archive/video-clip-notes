@@ -29,4 +29,4 @@ https://www.youtube.com/watch?v=Mm0VnPSe0VY
 
 ### Transcript
 
-> uh giant oh yeah yeah vehicle building i don't know what this is about oh dude this this one is so cool that like yeah it looks badass huge dude that's like looks like have you played uh near automata yeah yeah i'll do that yeah yeah exactly yeah yeah yeah yeah hell yeah that's so true that level is insane by the way
+> giant oh yeah yeah vehicle building i don't know what this is about oh dude this this one is so cool that like yeah it looks badass huge dude that's like looks like have you played, near automata yeah yeah i'll do that yeah yeah exactly yeah yeah yeah yeah hell yeah that's so true that level is insane by the way

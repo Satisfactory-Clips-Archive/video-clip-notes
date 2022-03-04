@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=q3VwDMvfbTM
 
 ### Transcript
 
-> uh any secondary maps or planets plan no no no plans for that
+> any secondary maps or planets plan no no no plans for that

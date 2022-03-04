@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=u67YUrQ4csE
 
 ### Transcript
 
-> uh i like the new bigger stacks with some items yeah that's definitely a life saver there
+> i like the new bigger stacks with some items yeah that's definitely a life saver there

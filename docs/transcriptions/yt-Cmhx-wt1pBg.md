@@ -26,4 +26,4 @@ https://www.youtube.com/watch?v=Cmhx-wt1pBg
 
 ### Transcript
 
-> uh can we get a packager that has outputs not stacked oh that's a good that's an interesting question uh drop a comment on that on the questions site uh questions outside of factory.com
+> can we get a packager that has outputs not stacked oh that's a good that's an interesting question, drop a comment on that on the questions site, questions outside of factory.com

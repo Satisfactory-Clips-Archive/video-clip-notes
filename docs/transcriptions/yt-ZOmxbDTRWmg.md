@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [May 18th, 2021
 
 ### Transcript
 
-> let me do cables um do you guys know what's gonna be the last tier in the game um is it gonna be harder stuff like network programming stuff i don't i don't know is there the real answer i don't think snoop knows either barely know what i'm doing right now i'm half conscious 1.0 sneak peek
+> let me do cables, do you guys know what's gonna be the last tier in the game, is it gonna be harder stuff like network programming stuff i don't i don't know is there the real answer i don't think snoop knows either barely know what i'm doing right now i'm half conscious 1.0 sneak peek

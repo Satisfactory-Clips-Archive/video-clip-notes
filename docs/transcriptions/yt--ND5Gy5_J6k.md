@@ -20,4 +20,4 @@ https://www.youtube.com/watch?v=-ND5Gy5_J6k
 >
 > [Laughter]
 >
-> don't remember that command yeah i remember i was going through the commands and i saw the merch commands i i better feel we had one god damn it god what is it the timing i mean come on streamlabs why you gotta do it dirty like that man come on that's so funny oh boy yeah uh yeah at least you're not letting us have expeditions oh we've never dude
+> don't remember that command yeah i remember i was going through the commands and i saw the merch commands i i better feel we had one god damn it god what is it the timing i mean come on streamlabs why you gotta do it dirty like that man come on that's so funny oh boy yeah, yeah at least you're not letting us have expeditions oh we've never dude

@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=7gIaj1aBo_E
 
 ### Transcript
 
-> can we have final rotations on foundations 30 45 degrees maybe that could be a thing a lot of people have requested it and uh this is a perfect thing for them yeah for sure and uh i know that that is something that the team has listened to as well so maybe there might be a thing for that in the future
+> can we have final rotations on foundations 30 45 degrees maybe that could be a thing a lot of people have requested it and, this is a perfect thing for them yeah for sure and, i know that that is something that the team has listened to as well so maybe there might be a thing for that in the future

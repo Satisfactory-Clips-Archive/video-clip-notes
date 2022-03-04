@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [January 18th, 
 
 ### Transcript
 
-> maybe i have to change scene i can also say that uh some people are like does this mean that a console is confirmed we no yeah yeah console's not confirmed we just thought it would be funny to do that because like there's vhs which is super old tech and ps5 which is super new tech it's just really funny to see them together i think yeah you know
+> maybe i have to change scene i can also say that, some people are like does this mean that a console is confirmed we no yeah yeah console's not confirmed we just thought it would be funny to do that because like there's vhs which is super old tech and ps5 which is super new tech it's just really funny to see them together i think yeah you know

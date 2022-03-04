@@ -20,4 +20,4 @@ This question was possibly duplicated with a more recent answer: [May 11th, 2021
 
 ### Transcript
 
-> daisy chain all power building or building power no we don't want to do that uh the only reason why we added daisy chaining for lights and power storages is because we felt like those were exceptions to the rule and they were much more annoying to hook up maybe we opened pandora's box when we did that i don't know
+> daisy chain all power building or building power no we don't want to do that, the only reason why we added daisy chaining for lights and power storages is because we felt like those were exceptions to the rule and they were much more annoying to hook up maybe we opened pandora's box when we did that i don't know

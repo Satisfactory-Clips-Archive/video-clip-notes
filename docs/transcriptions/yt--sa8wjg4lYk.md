@@ -20,4 +20,4 @@ This question was possibly duplicated with a more recent answer: [February 22nd,
 
 ### Transcript
 
-> what are your guys thoughts on transports uh beyond jet packs uh i'm not completely convinced that there's that they're necessary that's my that's my thought the what uh airborne transport beyond jetpacks oh yes
+> what are your guys thoughts on transports, beyond jet packs, i'm not completely convinced that there's that they're necessary that's my that's my thought the what, airborne transport beyond jetpacks oh yes

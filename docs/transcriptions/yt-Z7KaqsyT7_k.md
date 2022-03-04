@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [February 15th,
 
 ### Transcript
 
-> uh flushable toilet dlc yes that is that that that we can confirm straight away like that's definitely happening a flush dlc one dollar per flush that's like i i quit if we don't do that i i'd resign i feel like i've i've uh yes please what me resigning or the flushing wait um yeah so
+> flushable toilet dlc yes that is that that that we can confirm straight away like that's definitely happening a flush dlc one dollar per flush that's like i i quit if we don't do that i i'd resign i feel like i've i've, yes please what me resigning or the flushing wait, yeah so

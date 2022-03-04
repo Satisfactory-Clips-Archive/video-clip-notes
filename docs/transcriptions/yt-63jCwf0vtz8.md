@@ -31,4 +31,4 @@ https://www.youtube.com/watch?v=63jCwf0vtz8
 
 ### Transcript
 
-> but yeah interesting this this uh the the the flowers act differently depending on how you set them up that one's dying needs water yeah it needs water
+> but yeah interesting this this, the the the flowers act differently depending on how you set them up that one's dying needs water yeah it needs water

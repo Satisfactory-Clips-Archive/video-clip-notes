@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=UhehbJ9kR2c
 
 ### Transcript
 
-> yeah machines breaking down i don't like we don't like that in internally um same thing with like you know base defense we we don't want that either
+> yeah machines breaking down i don't like we don't like that in internally, same thing with like you know base defense we we don't want that either

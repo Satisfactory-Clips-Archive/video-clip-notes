@@ -16,4 +16,4 @@ This question was possibly replaced with a more recent answer: [March 9th, 2021 
 
 ### Transcript
 
-> when comes update four uh beginning of 2021 yes sir next year almost got it right
+> when comes update four, beginning of 2021 yes sir next year almost got it right

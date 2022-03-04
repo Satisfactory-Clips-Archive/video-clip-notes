@@ -22,4 +22,4 @@ https://www.youtube.com/watch?v=SRVEhitZpCE
 
 ### Transcript
 
-> uh in short cocky's good mouse feel bad any shot for mapping hand slots to hotkeys so i'm not always trying to use that uh i is it for the um when you're switching hot bars or is it something else in the game because i think you can change that i don't think you need to have the the mouse wheel for that uh but i might be wrong but i think the intent was to add that because a lot of people complain about the mouse wheel including this guy but i might be wrong
+> in short cocky's good mouse feel bad any shot for mapping hand slots to hotkeys so i'm not always trying to use that, i is it for the, when you're switching hot bars or is it something else in the game because i think you can change that i don't think you need to have the the mouse wheel for that, but i might be wrong but i think the intent was to add that because a lot of people complain about the mouse wheel including this guy but i might be wrong

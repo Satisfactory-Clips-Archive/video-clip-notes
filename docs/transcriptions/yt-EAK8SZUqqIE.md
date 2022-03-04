@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=EAK8SZUqqIE
 
 ### Transcript
 
-> um does the storage containers have soft clearance now so we can get closer to walls so no the storage container won't have soft clearance but walls will have soft clearance so you can build it close to walls you can clip them into walls if a soft clearance overlaps a hard clearance that's allowed so the fact that the walls are soft clearance mean they can be built into other things yes
+> does the storage containers have soft clearance now so we can get closer to walls so no the storage container won't have soft clearance but walls will have soft clearance so you can build it close to walls you can clip them into walls if a soft clearance overlaps a hard clearance that's allowed so the fact that the walls are soft clearance mean they can be built into other things yes

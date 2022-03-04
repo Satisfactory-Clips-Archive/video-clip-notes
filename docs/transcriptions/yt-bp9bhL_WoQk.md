@@ -41,4 +41,4 @@ https://www.youtube.com/watch?v=bp9bhL_WoQk
 
 ### Transcript
 
-> have you told what sam or does no or stands for it stands for uh something it's on the wiki what is it or does it say what it stands for strange alien is that what it is mineral material stands for strange alien metal metal metal
+> have you told what sam or does no or stands for it stands for, something it's on the wiki what is it or does it say what it stands for strange alien is that what it is mineral material stands for strange alien metal metal metal

@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=ipZ1acgaODg
 
 ### Transcript
 
-> yeah uh want to make a giant ass world and open multiplayer yeah soon soon and and y'all want us to fix multiplayer and optimization forget about it you can only have one thing yeah
+> yeah, want to make a giant ass world and open multiplayer yeah soon soon and and y'all want us to fix multiplayer and optimization forget about it you can only have one thing yeah

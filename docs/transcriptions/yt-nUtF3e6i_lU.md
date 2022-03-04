@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: October 26th, 2
 
 ### Transcript
 
-> like once dedicated servers mark isn't necessarily involved in that that much um we don't have an update on dedicated service by the way still working on that
+> like once dedicated servers mark isn't necessarily involved in that that much, we don't have an update on dedicated service by the way still working on that

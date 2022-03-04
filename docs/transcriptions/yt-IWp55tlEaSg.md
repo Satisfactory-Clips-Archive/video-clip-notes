@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=IWp55tlEaSg
 
 ### Transcript
 
-> and he plans to add emotes to signs or expand their functionality in other ways uh i guess i guess science science are kind of like easy to expand on i think so like we're always adding more things to them or we have at least so far so it's not impossible but we i don't know what we have planned right now
+> and he plans to add emotes to signs or expand their functionality in other ways, i guess i guess science science are kind of like easy to expand on i think so like we're always adding more things to them or we have at least so far so it's not impossible but we i don't know what we have planned right now

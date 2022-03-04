@@ -92,4 +92,4 @@ https://www.youtube.com/watch?v=MUbUmGOMOa8
 
 ### Transcript
 
-> oh no wow that sucked bad shot that shot there like snoot's reaction there like that that is scripted that was what was supposed to happen yeah but snoot's reaction to that was real because he wasn't expecting i wasn't expecting it to be that bad um but it went really bad and his reaction was completely genuine it's so funny i thought you were gonna you were supposed to like shoot it up like it was yeah it was supposed to go up on green so good which made the shot even better just look down at it for a bit i'm glad that i didn't react
+> oh no wow that sucked bad shot that shot there like snoot's reaction there like that that is scripted that was what was supposed to happen yeah but snoot's reaction to that was real because he wasn't expecting i wasn't expecting it to be that bad, but it went really bad and his reaction was completely genuine it's so funny i thought you were gonna you were supposed to like shoot it up like it was yeah it was supposed to go up on green so good which made the shot even better just look down at it for a bit i'm glad that i didn't react

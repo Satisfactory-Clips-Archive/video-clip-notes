@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=XFj9FsKClCk
 
 ### Transcript
 
-> um so yeah if you run into crashes check the forums and see if someone else is running into issues and see if there's a workaround for it uh and if not just know that we are receiving the crash reports so we do see them
+> so yeah if you run into crashes check the forums and see if someone else is running into issues and see if there's a workaround for it, and if not just know that we are receiving the crash reports so we do see them

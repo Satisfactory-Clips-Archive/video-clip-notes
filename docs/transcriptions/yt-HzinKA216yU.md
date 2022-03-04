@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=HzinKA216yU
 
 ### Transcript
 
-> uh why was the auto save not working before i don't know there's been there was some changes to how we load uh the converge configuration file um and i guess that broke that broke a lot of the settings actually in the menu so it wasn't just auto saving but that was the most obvious thing that was affecting everyone but it's been fixed so don't worry about it
+> why was the auto save not working before i don't know there's been there was some changes to how we load, the converge configuration file, and i guess that broke that broke a lot of the settings actually in the menu so it wasn't just auto saving but that was the most obvious thing that was affecting everyone but it's been fixed so don't worry about it

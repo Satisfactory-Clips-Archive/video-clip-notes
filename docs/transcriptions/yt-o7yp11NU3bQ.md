@@ -20,4 +20,4 @@ https://www.youtube.com/watch?v=o7yp11NU3bQ
 
 ### Transcript
 
-> uh any optimizations in the future we optimize pretty much every single update uh there's always optimizations so yep
+> any optimizations in the future we optimize pretty much every single update, there's always optimizations so yep

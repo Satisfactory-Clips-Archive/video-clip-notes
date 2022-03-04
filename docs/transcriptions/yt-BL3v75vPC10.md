@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=BL3v75vPC10
 
 ### Transcript
 
-> why is spacebar twice not know for auto handcraft uh you mean like double click it instead of just single clicking it because you can't do that now you just press it once it will auto craft
+> why is spacebar twice not know for auto handcraft, you mean like double click it instead of just single clicking it because you can't do that now you just press it once it will auto craft

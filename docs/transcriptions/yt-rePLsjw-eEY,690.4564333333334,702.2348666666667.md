@@ -16,4 +16,4 @@ https://youtube.com/clip/UgkxjFKVfTTFwFY-_2YSHyAViY1UA1rnM4SP
 
 ### Transcript
 
-> added a bunch more storage personal storage boxes so we we still have the the regular one we now also have the medical storage box and we also have the hazard storage box uh pretty neat pretty neat so this next thing that i want to
+> added a bunch more storage personal storage boxes so we we still have the the regular one we now also have the medical storage box and we also have the hazard storage box, pretty neat pretty neat so this next thing that i want to

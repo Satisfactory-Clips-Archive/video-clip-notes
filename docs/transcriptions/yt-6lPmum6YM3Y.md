@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [October 27th, 
 
 ### Transcript
 
-> next question um who will be hosting oh yes answer this actually um we yeah i guess maybe we didn't say this specifically but we won't be hosting any dedicated servers uh conference day won't be you all can host them yourselves
+> next question, who will be hosting oh yes answer this actually, we yeah i guess maybe we didn't say this specifically but we won't be hosting any dedicated servers, conference day won't be you all can host them yourselves

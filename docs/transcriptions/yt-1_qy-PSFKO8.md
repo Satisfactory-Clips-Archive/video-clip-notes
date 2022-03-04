@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [November 9th, 
 
 ### Transcript
 
-> when will all the collectibles like mercy's fears be fully implemented they're gonna be they're related to the story odd knock so uh yeah it'll have something to do with the story when that comes along
+> when will all the collectibles like mercy's fears be fully implemented they're gonna be they're related to the story odd knock so, yeah it'll have something to do with the story when that comes along

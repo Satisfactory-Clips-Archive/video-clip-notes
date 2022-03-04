@@ -22,4 +22,4 @@ https://www.youtube.com/watch?v=2ZSa-x9tGEk
 
 ### Transcript
 
-> work uh well trains derail if they run out of track uh so does momentum apply when they derail no they don't derail if they run on track they just like stupidly stop still yeah it would be fun to see them just yeah go past it yeah but yeah that would be pretty cool oh man i feel like it's something we could maybe do like if it runs out of track just switch it to the physics mode and let it go it's kind of funny now
+> work, well trains derail if they run out of track, so does momentum apply when they derail no they don't derail if they run on track they just like stupidly stop still yeah it would be fun to see them just yeah go past it yeah but yeah that would be pretty cool oh man i feel like it's something we could maybe do like if it runs out of track just switch it to the physics mode and let it go it's kind of funny now

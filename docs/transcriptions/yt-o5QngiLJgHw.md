@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=o5QngiLJgHw
 
 ### Transcript
 
-> yeah and uh so the same deal with merch we don't have any like real updates as to like when you expect to see the the updated chop shop and stuff like that yeah
+> yeah and, so the same deal with merch we don't have any like real updates as to like when you expect to see the the updated chop shop and stuff like that yeah

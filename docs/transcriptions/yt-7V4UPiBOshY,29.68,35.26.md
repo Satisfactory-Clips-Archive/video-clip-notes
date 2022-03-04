@@ -14,4 +14,4 @@ https://youtube.com/embed/7V4UPiBOshY?autoplay=1&start=29&end=36
 
 ### Transcript
 
-> forced you to do this uh-huh no one we we just chose to do it but then why yes do we have a bunch of
+> forced you to do this, -huh no one we we just chose to do it but then why yes do we have a bunch of

@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [November 9th, 
 
 ### Transcript
 
-> um quick question is there going to be like a central computer plan where you can check the whole production uh a lot of people suggested that it's pretty cool idea i don't actually know but uh i think we sort of know that idea yeah it's probably a good idea honestly it's honestly how cool yeah like maybe at the hub you can just check overall stuff okay anyway moving on um
+> quick question is there going to be like a central computer plan where you can check the whole production, a lot of people suggested that it's pretty cool idea i don't actually know but, i think we sort of know that idea yeah it's probably a good idea honestly it's honestly how cool yeah like maybe at the hub you can just check overall stuff okay anyway moving on

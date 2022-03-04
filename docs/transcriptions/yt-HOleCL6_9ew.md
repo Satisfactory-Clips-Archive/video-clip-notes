@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=HOleCL6_9ew
 
 ### Transcript
 
-> yeah that's nice is the crash physics uh fully deterministic or the transaction exactly the same way every time no they won't it's uh the way i the way i set it up was that i could just realistically like trigger them all at the same time so the crashes would end up being different for him each time but at least at least they would all start at the same time and they would crash exactly
+> yeah that's nice is the crash physics, fully deterministic or the transaction exactly the same way every time no they won't it's, the way i the way i set it up was that i could just realistically like trigger them all at the same time so the crashes would end up being different for him each time but at least at least they would all start at the same time and they would crash exactly

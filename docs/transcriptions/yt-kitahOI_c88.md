@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [February 15th,
 
 ### Transcript
 
-> toilet dlc toilet dlc coming soon uh toy look toilet dlc is gonna be a thing if it's if it's the last thing i ever do all right toilet dlc is gonna be my magnum opus we are gonna have toilet dlc you're here for the toile dc toilet dlc when it's coming it's coming don't worry i'm a man of the people and the toilet dlc is gonna be a thing don't you worry i swear
+> toilet dlc toilet dlc coming soon, toy look toilet dlc is gonna be a thing if it's if it's the last thing i ever do all right toilet dlc is gonna be my magnum opus we are gonna have toilet dlc you're here for the toile dc toilet dlc when it's coming it's coming don't worry i'm a man of the people and the toilet dlc is gonna be a thing don't you worry i swear

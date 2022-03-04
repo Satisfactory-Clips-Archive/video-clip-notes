@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [September 22nd
 
 ### Transcript
 
-> can i choose the gender and customize that my character you cannot at the moment we considered customization like things like um color and whatnot but we don't really know right now
+> can i choose the gender and customize that my character you cannot at the moment we considered customization like things like, color and whatnot but we don't really know right now

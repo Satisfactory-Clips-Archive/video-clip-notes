@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=ltEZAwikPn4
 
 ### Transcript
 
-> uh shens factory lasagna okay so a lot of people always talking about spaghetti in factories all right well you know what there are other kinds satisfactory welcomes other kinds of pasta as well uh lasagna being one of them
+> shens factory lasagna okay so a lot of people always talking about spaghetti in factories all right well you know what there are other kinds satisfactory welcomes other kinds of pasta as well, lasagna being one of them

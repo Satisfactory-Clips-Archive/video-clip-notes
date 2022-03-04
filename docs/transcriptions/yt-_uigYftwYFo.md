@@ -22,4 +22,4 @@ https://www.youtube.com/watch?v=_uigYftwYFo
 
 ### Transcript
 
-> so update factor tick is tied to fps since it's fire from game thread and it's blocking uh and lower fps means the bigger deltas which means bigger precision issues however we do sub steps to reduce this there you go that's the answer two or three sub steps dear seed
+> so update factor tick is tied to fps since it's fire from game thread and it's blocking, and lower fps means the bigger deltas which means bigger precision issues however we do sub steps to reduce this there you go that's the answer two or three sub steps dear seed

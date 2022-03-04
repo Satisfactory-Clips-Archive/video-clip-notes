@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=2NIYN2OWrWs
 
 ### Transcript
 
-> we saw it we saw it we have fixed the gamma it's an experimental version we haven't fixed the lighting in general though there's still uh some issues there
+> we saw it we saw it we have fixed the gamma it's an experimental version we haven't fixed the lighting in general though there's still, some issues there

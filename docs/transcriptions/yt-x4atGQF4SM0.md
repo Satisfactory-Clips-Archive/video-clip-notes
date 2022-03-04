@@ -20,6 +20,6 @@ https://www.youtube.com/watch?v=x4atGQF4SM0
 
 ### Transcript
 
-> rebalance entire game will be a fun april fool's joke so just to clarify here when i say rebalance i might i mean like values go down um so all the values will go down a little bit and then the 1200 from the pure node will be the max value that we have right now in the game okay so like it won't we won't change all the recipes we will just shift everything so it won't really affect anyone like you'll still produce as many items but the throughput will be different you know what i mean
+> rebalance entire game will be a fun april fool's joke so just to clarify here when i say rebalance i might i mean like values go down, so all the values will go down a little bit and then the 1200 from the pure node will be the max value that we have right now in the game okay so like it won't we won't change all the recipes we will just shift everything so it won't really affect anyone like you'll still produce as many items but the throughput will be different you know what i mean
 >
 > [Music]

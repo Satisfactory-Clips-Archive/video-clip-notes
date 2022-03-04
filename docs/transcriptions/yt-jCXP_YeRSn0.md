@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [May 25th, 2021
 
 ### Transcript
 
-> can we harvest the fart rocks um you're gonna be able to do something about the fart rocks in the future uh i don't exactly know what was planned there um but we we you're gonna be able to manage them in some way
+> can we harvest the fart rocks, you're gonna be able to do something about the fart rocks in the future, i don't exactly know what was planned there, but we we you're gonna be able to manage them in some way

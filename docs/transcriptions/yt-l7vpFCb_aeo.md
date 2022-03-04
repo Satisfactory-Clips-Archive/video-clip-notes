@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [November 2nd, 
 
 ### Transcript
 
-> uh plans to add new mobs we if you mean enemies yes we have plans to add the crab boss at some point that's the only one i know of right now but maybe we'll have more in the future
+> plans to add new mobs we if you mean enemies yes we have plans to add the crab boss at some point that's the only one i know of right now but maybe we'll have more in the future

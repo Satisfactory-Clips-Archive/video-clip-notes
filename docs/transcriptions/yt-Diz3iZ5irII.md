@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [November 16th,
 
 ### Transcript
 
-> uh when will the game be uh at full release so right now we don't know exactly um we have some pretty good plans you know internally for what we want to do like a a road to 1.0 if you will but um we don't have anything that we are going to share publicly because there's still more than enough like time and space to uh you know for for unforeseen things to occur that will push things around so there's no real point in saying right now
+> when will the game be, at full release so right now we don't know exactly, we have some pretty good plans you know internally for what we want to do like a a road to 1.0 if you will but, we don't have anything that we are going to share publicly because there's still more than enough like time and space to, you know for for unforeseen things to occur that will push things around so there's no real point in saying right now

@@ -37,4 +37,4 @@ https://www.youtube.com/watch?v=kfEIpnOvAoc
 >
 > [Music]
 >
-> wait a minute calc this was the thing would change just coming out commenting all up on real engines code no actually i think this is like so this is a mixture of our old and new let's see what they're doing so use spline form is defined by their uh shader when it's um rendering non-instance blinds so we can kind of like take a note from them but we've also merged some things so this isn't verbatim what their code looks like either
+> wait a minute calc this was the thing would change just coming out commenting all up on real engines code no actually i think this is like so this is a mixture of our old and new let's see what they're doing so use spline form is defined by their, shader when it's, rendering non-instance blinds so we can kind of like take a note from them but we've also merged some things so this isn't verbatim what their code looks like either

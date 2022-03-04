@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [December 14th,
 
 ### Transcript
 
-> uh mug merch yes hopefully soon can't wait to get that out to people it's gonna be really good it's gonna be really good
+> mug merch yes hopefully soon can't wait to get that out to people it's gonna be really good it's gonna be really good

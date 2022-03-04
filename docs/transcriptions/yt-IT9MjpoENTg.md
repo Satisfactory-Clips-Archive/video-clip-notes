@@ -21,4 +21,4 @@ https://www.youtube.com/watch?v=IT9MjpoENTg
 
 ### Transcript
 
-> where did the name zouk come from the name came from uh was it mark was just like zoop he just said that when he went to build using it yeah he just and then we were like we'll call it zooping it was from when we made update 4 and we added like this sort of functionality for ladders and when mark were building ladders he would say like zoop and then he stuck with that name and then that's that's what we're going with
+> where did the name zouk come from the name came from, was it mark was just like zoop he just said that when he went to build using it yeah he just and then we were like we'll call it zooping it was from when we made update 4 and we added like this sort of functionality for ladders and when mark were building ladders he would say like zoop and then he stuck with that name and then that's that's what we're going with

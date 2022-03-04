@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=nktOwqQ3gpI
 
 ### Transcript
 
-> ability to change arachnophobia cats this uh jason there was also a mod that changed i think put my face on the on the spiders or something it was weird
+> ability to change arachnophobia cats this, jason there was also a mod that changed i think put my face on the on the spiders or something it was weird

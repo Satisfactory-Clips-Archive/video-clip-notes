@@ -16,8 +16,8 @@ https://www.youtube.com/watch?v=awAhXucxS-Y
 
 ### Transcript
 
-> you've got the next one um let's see here and that's new community manager we already done that like three times
+> you've got the next one, let's see here and that's new community manager we already done that like three times
 >
 > [Laughter]
 >
-> uh the amount of times we've said uh i'm quitting jason's quitting um we've already done it
+>, the amount of times we've said, i'm quitting jason's quitting, we've already done it

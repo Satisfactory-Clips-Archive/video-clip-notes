@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=G0mmpee5yxE
 
 ### Transcript
 
-> uh will plutonium waste be sinkable later no waste will not be thinkable ever for sure
+> will plutonium waste be sinkable later no waste will not be thinkable ever for sure

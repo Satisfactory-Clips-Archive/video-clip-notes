@@ -24,4 +24,4 @@ https://www.youtube.com/watch?v=pZFmSr5jTAk
 
 ### Transcript
 
-> what do you use to make models we use blender and we use maya and we use uh i don't know if we use moto anymore i think someone used moto before but maybe not anymore but i think blender is the one we use the most now simon's like infiltrated us we use blender to make blenders i think the blender was made in blender uh i think either in blender or maya one of those two the blender was made in blender confirmed from dr black rat that's my reference
+> what do you use to make models we use blender and we use maya and we use, i don't know if we use moto anymore i think someone used moto before but maybe not anymore but i think blender is the one we use the most now simon's like infiltrated us we use blender to make blenders i think the blender was made in blender, i think either in blender or maya one of those two the blender was made in blender confirmed from dr black rat that's my reference

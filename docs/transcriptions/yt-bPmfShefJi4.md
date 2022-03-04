@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [February 22nd,
 
 ### Transcript
 
-> uh any chance for a vr port uh even if it's without control support not from us uh we are not interested in making that currently
+> any chance for a vr port, even if it's without control support not from us, we are not interested in making that currently

@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=b3YN6nebj3s
 
 ### Transcript
 
-> uh do you intend to open jobs for junior programmers work at satisfactory sunday um i don't think there's any plans for that anytime soon but if you go to coffee stain studios no coffeestain.se crofsteinstudios.com i think both all of those work is.com office stage.sc i think it's the uh real like the dns that we use right no studios.com sorry yeah that's cool so this works here um you can go there and you can submit and open up open application uh yeah
+> do you intend to open jobs for junior programmers work at satisfactory sunday, i don't think there's any plans for that anytime soon but if you go to coffee stain studios no coffeestain.se crofsteinstudios.com i think both all of those work is.com office stage.sc i think it's the, real like the dns that we use right no studios.com sorry yeah that's cool so this works here, you can go there and you can submit and open up open application, yeah

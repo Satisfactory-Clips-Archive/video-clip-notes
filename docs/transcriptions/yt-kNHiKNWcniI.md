@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=kNHiKNWcniI
 
 ### Transcript
 
-> so we have vo or mostly text based there's plans for review uh there will be uh you know the uh the the latvian r d uh
+> so we have vo or mostly text based there's plans for review, there will be, you know the, the the latvian r d
 >
 > [Music]
 >

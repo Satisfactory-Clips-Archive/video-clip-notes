@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=T38Lc3xS3BE
 
 ### Transcript
 
-> is the golem cup only a reward in ea or will there be a final release as well i don't know it's possible that the golden cup is only ea uh i think we're not against the idea of like giving you guys who were played in an ea some kind of reward or something like that in-game reward
+> is the golem cup only a reward in ea or will there be a final release as well i don't know it's possible that the golden cup is only ea, i think we're not against the idea of like giving you guys who were played in an ea some kind of reward or something like that in-game reward
 >
 > [Music]
 >

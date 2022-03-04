@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [September 21st
 
 ### Transcript
 
-> uh tower defense yeah we're never gonna have tower defense all right next next question
+> tower defense yeah we're never gonna have tower defense all right next next question

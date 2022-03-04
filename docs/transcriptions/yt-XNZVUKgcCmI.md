@@ -20,4 +20,4 @@ This question was possibly duplicated with a more recent answer: [December 7th, 
 
 ### Transcript
 
-> uh are randomized or node spawns still on the table something in the future i think i i think like like jace when jake's talked about game modes before i think that's one of them potentially that we could do but we haven't like decided anything like we probably won't until we get to the point where we actually start looking into game modes so we won't know until then
+> are randomized or node spawns still on the table something in the future i think i i think like like jace when jake's talked about game modes before i think that's one of them potentially that we could do but we haven't like decided anything like we probably won't until we get to the point where we actually start looking into game modes so we won't know until then

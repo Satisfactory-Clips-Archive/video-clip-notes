@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [October 12th, 
 
 > [Music]
 >
-> we get a mark six belt in the future uh it's possible we don't know yet
+> we get a mark six belt in the future, it's possible we don't know yet

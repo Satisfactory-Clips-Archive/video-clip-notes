@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=18BH9HDRl9A
 
 ### Transcript
 
-> uh any ships or submarines no plans for aquatic stuff
+> any ships or submarines no plans for aquatic stuff

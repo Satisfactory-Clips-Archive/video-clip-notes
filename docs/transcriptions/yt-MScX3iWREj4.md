@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=MScX3iWREj4
 
 ### Transcript
 
-> in an unpowered vehicle why do brakes only work when you're not in it wait brakes don't work when you're in it wait isn't it the other way around where sometimes vehicles if you brake and then jump out it will stop breaking sometimes that's pretty funny uh that sounds like a bug it sounds like it's on the qa bug qa bug qa site upload it uh if not consider making a post yes questions oh that was the correct man
+> in an unpowered vehicle why do brakes only work when you're not in it wait brakes don't work when you're in it wait isn't it the other way around where sometimes vehicles if you brake and then jump out it will stop breaking sometimes that's pretty funny, that sounds like a bug it sounds like it's on the qa bug qa bug qa site upload it, if not consider making a post yes questions oh that was the correct man

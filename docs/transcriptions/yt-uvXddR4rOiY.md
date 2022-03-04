@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=uvXddR4rOiY
 
 ### Transcript
 
-> uh what have you done for us lately there'll be a video next week all right that's what we've done right what the [ __ ] is that
+> what have you done for us lately there'll be a video next week all right that's what we've done right what the [ __ ] is that

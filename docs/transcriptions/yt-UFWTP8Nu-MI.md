@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [November 2nd, 
 
 ### Transcript
 
-> uh there's a way we can make autosave more seamless um not really that's kind of we are working on that yeah that's on us yeah we work on it we are taking the first step in order to be able to get that better but it's it's taki it's a big system like it's a huge system so it's it's taking it's also relies on like other systems that's why it's taking so long but it's it's totally on our prior list and that's it's gonna happen at some point i think
+> there's a way we can make autosave more seamless, not really that's kind of we are working on that yeah that's on us yeah we work on it we are taking the first step in order to be able to get that better but it's it's taki it's a big system like it's a huge system so it's it's taking it's also relies on like other systems that's why it's taking so long but it's it's totally on our prior list and that's it's gonna happen at some point i think

@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=VeD6hOmySbE
 
 ### Transcript
 
-> yeah well fitness for difference or the same as last year don't know we no one no one is playing fixmas i mean there might not even be a fixmas who knows um it all depends on the situation the situation
+> yeah well fitness for difference or the same as last year don't know we no one no one is playing fixmas i mean there might not even be a fixmas who knows, it all depends on the situation the situation

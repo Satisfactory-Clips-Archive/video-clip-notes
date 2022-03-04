@@ -20,4 +20,4 @@ This question was possibly duplicated with a more recent answer: [November 2nd, 
 
 ### Transcript
 
-> so any news on big crab monster uh i don't know what the latest is on him or her or it's um we haven't worked on in a while because you know we need to fix the ai system first and uh i haven't done that yet yeah we haven't done that yet because update for i don't think it will happen in update 4 but it might happen in the next coming updates
+> so any news on big crab monster, i don't know what the latest is on him or her or it's, we haven't worked on in a while because you know we need to fix the ai system first and, i haven't done that yet yeah we haven't done that yet because update for i don't think it will happen in update 4 but it might happen in the next coming updates

@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [November 16th,
 
 ### Transcript
 
-> will there be satisfactory release on star star star i don't know i don't know what that is yeah they're like asterisks it's like it's been censored i've seen oh they probably put a link or something maybe oh maybe yeah you i don't know what you're saying doing because it's getting it's getting uh censored or something so maybe it's gog.com oh it might be gold yeah gog we have no plans for gog as far as i know would be cool i guess
+> will there be satisfactory release on star star star i don't know i don't know what that is yeah they're like asterisks it's like it's been censored i've seen oh they probably put a link or something maybe oh maybe yeah you i don't know what you're saying doing because it's getting it's getting, censored or something so maybe it's gog.com oh it might be gold yeah gog we have no plans for gog as far as i know would be cool i guess

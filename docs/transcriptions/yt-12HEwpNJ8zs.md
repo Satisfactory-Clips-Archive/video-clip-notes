@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=12HEwpNJ8zs
 
 ### Transcript
 
-> dedicated service please okay we'll do it at 700 votes on usa what do we have like an uploaded ticket for for dedicated servers uh i mean if if we did then we would have put them in by now right but no one no one clearly no one wants is that how it works i guess that's how it works yeah clearly no one's interested in a dedicated service
+> dedicated service please okay we'll do it at 700 votes on usa what do we have like an uploaded ticket for for dedicated servers, i mean if if we did then we would have put them in by now right but no one no one clearly no one wants is that how it works i guess that's how it works yeah clearly no one's interested in a dedicated service

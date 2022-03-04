@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=zZ0aGMG1xjM
 
 ### Transcript
 
-> talking about screen we can program or write or draw something i see um yeah it sounds good i don't know if it's if or when it's gonna happen but sounds good
+> talking about screen we can program or write or draw something i see, yeah it sounds good i don't know if it's if or when it's gonna happen but sounds good

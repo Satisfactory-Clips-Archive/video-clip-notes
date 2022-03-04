@@ -20,4 +20,4 @@ https://www.youtube.com/watch?v=sLBqy5auRck
 
 ### Transcript
 
-> any plans about new pets uh no plans right now i believe as far as i know
+> any plans about new pets, no plans right now i believe as far as i know

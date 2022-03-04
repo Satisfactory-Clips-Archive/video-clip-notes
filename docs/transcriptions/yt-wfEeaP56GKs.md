@@ -23,4 +23,4 @@ https://www.youtube.com/watch?v=wfEeaP56GKs
 
 ### Transcript
 
-> well the atoms disappear when fixmas ends uh so the i think so it's gonna be similar to last year right pretty much the same same deal i believe the recipes disappear but the items stay around so if you manufacture stuff the manufactured items will still stick around but you can't like make new you can't produce these items like anymore so you need to stock up on these items yeah they'll last you till next winter i mean some people did do that yeah and it still lasted so
+> well the atoms disappear when fixmas ends, so the i think so it's gonna be similar to last year right pretty much the same same deal i believe the recipes disappear but the items stay around so if you manufacture stuff the manufactured items will still stick around but you can't like make new you can't produce these items like anymore so you need to stock up on these items yeah they'll last you till next winter i mean some people did do that yeah and it still lasted so

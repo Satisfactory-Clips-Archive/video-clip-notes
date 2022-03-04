@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [September 21st
 
 ### Transcript
 
-> is it gonna be tower defense uh there won't be no um
+> is it gonna be tower defense, there won't be no

@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: October 26th, 2
 
 ### Transcript
 
-> dedicated service everyone asking about dedicated service as always uh we don't know it's the short answer yeah but um yeah there's there's the uh bought command and the bot is currently the correct answer
+> dedicated service everyone asking about dedicated service as always, we don't know it's the short answer yeah but, yeah there's there's the, bought command and the bot is currently the correct answer

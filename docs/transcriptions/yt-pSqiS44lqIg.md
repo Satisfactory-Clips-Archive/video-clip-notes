@@ -20,4 +20,4 @@ This question was possibly duplicated with a more recent answer: [January 25th, 
 
 ### Transcript
 
-> um sam are gonna be using the next update new samoa is tied to story stuff like we mentioned before story is gonna come in 1.0 um and that's when sam or plays a part i have no idea how samwar is going to play a part uh i guess we're gonna have to find out i have some ideas some ideas yeah okay it's gonna be interesting look at me look at me i'm jace i know a little bit more of the snoot and i can divide by zero
+> sam are gonna be using the next update new samoa is tied to story stuff like we mentioned before story is gonna come in 1.0, and that's when sam or plays a part i have no idea how samwar is going to play a part, i guess we're gonna have to find out i have some ideas some ideas yeah okay it's gonna be interesting look at me look at me i'm jace i know a little bit more of the snoot and i can divide by zero

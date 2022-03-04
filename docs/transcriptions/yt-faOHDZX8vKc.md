@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=faOHDZX8vKc
 
 ### Transcript
 
-> anyway welcome to our weekly upstream where we uh dive into the intricates of satisfactory the game that we're currently working on we're working on it you're watching this at school let's go okay boomer
+> anyway welcome to our weekly upstream where we, dive into the intricates of satisfactory the game that we're currently working on we're working on it you're watching this at school let's go okay boomer

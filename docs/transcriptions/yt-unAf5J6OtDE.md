@@ -20,4 +20,4 @@ This question was possibly duplicated with a more recent answer: December 7th, 2
 
 ### Transcript
 
-> it's fine look it's fine i did it for content talked about engine upgrade was that unreal engine five no unreal engine five isn't even out like we don't know when 1005 will happen uh i'm referring to uh we're updating from unreal engine 422 which is the worst which is the current version of the game to unreal engine 4.25 and i think twin 4.26 is coming out soon so we'll be like i'm gonna miss that eight minutes all right
+> it's fine look it's fine i did it for content talked about engine upgrade was that unreal engine five no unreal engine five isn't even out like we don't know when 1005 will happen, i'm referring to, we're updating from unreal engine 422 which is the worst which is the current version of the game to unreal engine 4.25 and i think twin 4.26 is coming out soon so we'll be like i'm gonna miss that eight minutes all right

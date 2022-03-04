@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [December 7th, 
 
 ### Transcript
 
-> yo the ratio splitter something we talked with mark as well i think mark was keen for the idea um same thing there i don't know when that will happen but i think that's gonna happen
+> yo the ratio splitter something we talked with mark as well i think mark was keen for the idea, same thing there i don't know when that will happen but i think that's gonna happen

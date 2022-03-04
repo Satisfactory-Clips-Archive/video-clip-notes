@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=xWLxmxLsoZY
 
 ### Transcript
 
-> is it possible to add hostile insects and guns uh we we won't add any like we've said this many times we won't add any kind of like base defense we won't add any kind of like maintenance on your factories and stuff like that because we want that effect to be a chill building game so new
+> is it possible to add hostile insects and guns, we we won't add any like we've said this many times we won't add any kind of like base defense we won't add any kind of like maintenance on your factories and stuff like that because we want that effect to be a chill building game so new

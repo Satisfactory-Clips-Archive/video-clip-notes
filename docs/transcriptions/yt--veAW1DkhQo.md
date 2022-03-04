@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=-veAW1DkhQo
 
 ### Transcript
 
-> our dedicated server is a thing they will be they um yeah we're working on them
+> our dedicated server is a thing they will be they, yeah we're working on them

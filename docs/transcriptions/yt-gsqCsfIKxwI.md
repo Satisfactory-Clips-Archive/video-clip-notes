@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=gsqCsfIKxwI
 
 ### Transcript
 
-> likely we'll get new research at before 1.0 uh don't know man who knows cannot cannot answer one way or the other
+> likely we'll get new research at before 1.0, don't know man who knows cannot cannot answer one way or the other

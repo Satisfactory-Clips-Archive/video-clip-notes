@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [February 22nd,
 
 ### Transcript
 
-> were ibus intended to work that way was it an accident you probably mean the hypertube cannons i think that was an accident yeah but i think we were like okay with it yeah we're okay with it because like you need so much power to be able to set up all those uh entrances yeah um so like it sort of justif like accidentally got a little bit of game design that emerged from that so i think we were okay with that yeah
+> were ibus intended to work that way was it an accident you probably mean the hypertube cannons i think that was an accident yeah but i think we were like okay with it yeah we're okay with it because like you need so much power to be able to set up all those, entrances yeah, so like it sort of justif like accidentally got a little bit of game design that emerged from that so i think we were okay with that yeah

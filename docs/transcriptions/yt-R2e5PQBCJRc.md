@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [July 13th, 202
 
 ### Transcript
 
-> will it be sloped frame foundation uh i'm not sure what that means because we do have slope foundations but i don't know what framed means if if you're asking about railings on the on the slope foundations i hope so maybe someday
+> will it be sloped frame foundation, i'm not sure what that means because we do have slope foundations but i don't know what framed means if if you're asking about railings on the on the slope foundations i hope so maybe someday

@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=zfzaEPZHtsA
 
 ### Transcript
 
-> so just deleted all of them once yes that's correct you can hold the default key is control and if you hold ctrl down you can uh mark up to 50 objects that you want to dismantle and then you uh yeah then you you mass dismantle everything yes
+> so just deleted all of them once yes that's correct you can hold the default key is control and if you hold ctrl down you can, mark up to 50 objects that you want to dismantle and then you, yeah then you you mass dismantle everything yes

@@ -16,4 +16,4 @@ https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1861&end=1873
 
 ### Transcript
 
-> will they be a founders plak plak plak will they be a founders pack with alpha access um we're not no comment yeah name maybe I don't know developer Diaries is
+> will they be a founders plak plak plak will they be a founders pack with alpha access, we're not no comment yeah name maybe I don't know developer Diaries is

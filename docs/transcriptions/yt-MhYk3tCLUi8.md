@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [November 16th,
 
 ### Transcript
 
-> so reverse build mode when it's it's in for uh conveyor lifts um possibly we might do it for regular conveyor belts as well i don't know if they work the same way but we have heard that request um and we will see what happens i guess reverse build mode is of course the dismantle mode where you remove instead of adding it right okay that makes sense okay cool um
+> so reverse build mode when it's it's in for, conveyor lifts, possibly we might do it for regular conveyor belts as well i don't know if they work the same way but we have heard that request, and we will see what happens i guess reverse build mode is of course the dismantle mode where you remove instead of adding it right okay that makes sense okay cool

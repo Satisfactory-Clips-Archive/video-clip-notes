@@ -22,4 +22,4 @@ https://www.youtube.com/watch?v=Q40_kNmSB20
 
 ### Transcript
 
-> will it be first person pov in vehicles yo that's a good question i actually don't know that i'll put that on the keyword side if if there isn't a ticket for that um because as far as we know like we didn't know anyone who wants that to be honest but yeah
+> will it be first person pov in vehicles yo that's a good question i actually don't know that i'll put that on the keyword side if if there isn't a ticket for that, because as far as we know like we didn't know anyone who wants that to be honest but yeah

@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [February 8th, 
 
 ### Transcript
 
-> character customization something cool we wish we could do it oh wish we we we hope we can make it i don't know if it's gonna happen or not depends on time planning yada yada uh but it would be cool
+> character customization something cool we wish we could do it oh wish we we we hope we can make it i don't know if it's gonna happen or not depends on time planning yada yada, but it would be cool

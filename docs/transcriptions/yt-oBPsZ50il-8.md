@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=oBPsZ50il-8
 
 ### Transcript
 
-> um when you threw the tape at your vs5 it truly hurt physically when i saw the black skirt like marks on my ps5 after i was done with it yeah it felt bad man it felt real bad
+> when you threw the tape at your vs5 it truly hurt physically when i saw the black skirt like marks on my ps5 after i was done with it yeah it felt bad man it felt real bad

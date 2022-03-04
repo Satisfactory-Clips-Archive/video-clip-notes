@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=ufYriERRzwc
 
 ### Transcript
 
-> see it is alternate buildings slave it like recipes uh no plans for that um sure long story short yeah no plans for that also i can iterate on that question there's also no plans for you know you know constructor mark ii or smelter mark ii there's no plan for that either
+> see it is alternate buildings slave it like recipes, no plans for that, sure long story short yeah no plans for that also i can iterate on that question there's also no plans for you know you know constructor mark ii or smelter mark ii there's no plan for that either

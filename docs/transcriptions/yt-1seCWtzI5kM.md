@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=1seCWtzI5kM
 
 ### Transcript
 
-> update 4 will come before update 5. ah we'll see it's it's uh nothing's guaranteed
+> update 4 will come before update 5. ah we'll see it's it's, nothing's guaranteed

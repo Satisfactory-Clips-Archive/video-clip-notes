@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [November 30th,
 
 ### Transcript
 
-> is there any sort of story planned yes there's going to be a story in the game and you will learn about fix it and things like that through the story yeah and the story's going to come when the game reaches 1.0 so we're going to do like the entire story in one go in one update because we want you to experience the whole story uh in like one go and not just like in chunks where you have to wait until we release the next chunk
+> is there any sort of story planned yes there's going to be a story in the game and you will learn about fix it and things like that through the story yeah and the story's going to come when the game reaches 1.0 so we're going to do like the entire story in one go in one update because we want you to experience the whole story, in like one go and not just like in chunks where you have to wait until we release the next chunk

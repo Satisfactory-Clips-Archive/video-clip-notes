@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: October 26th, 2
 
 ### Transcript
 
-> any updates on dedicated servers uh they're no real update on like the dedicated servers themselves we have made a few updates to multiplayer that will hopefully solve some of the issues with multiple with dedicated servers um and um yeah nothing nothing more that we're working on them and we're still trying we need to fix the client side issues before we can deploy multiple uh dedicated service essentially
+> any updates on dedicated servers, they're no real update on like the dedicated servers themselves we have made a few updates to multiplayer that will hopefully solve some of the issues with multiple with dedicated servers, and, yeah nothing nothing more that we're working on them and we're still trying we need to fix the client side issues before we can deploy multiple, dedicated service essentially

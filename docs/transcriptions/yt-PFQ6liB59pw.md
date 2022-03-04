@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [June 29th, 202
 
 ### Transcript
 
-> having burger pizza this week i'm i don't know i'm kind of yeah i don't know i was sick last week um and i don't know if i should quarantine or not but i don't think i had covered but yeah getting burgers kind of hinges on me being outside of my apartment um so i don't know i think it's fine
+> having burger pizza this week i'm i don't know i'm kind of yeah i don't know i was sick last week, and i don't know if i should quarantine or not but i don't think i had covered but yeah getting burgers kind of hinges on me being outside of my apartment, so i don't know i think it's fine

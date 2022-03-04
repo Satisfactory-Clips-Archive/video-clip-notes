@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=0zO8gV7jfrw
 
 ### Transcript
 
-> and actually i think my uh my hellofresh is going to be coming at a really inconvenient hell yeah so we got to do we forgot about that we forgot about that during the the big stream we were going to have a segment where jace like just bailed because his helicopter showed up yeah we forgot about that we forgot about that yeah
+> and actually i think my, my hellofresh is going to be coming at a really inconvenient hell yeah so we got to do we forgot about that we forgot about that during the the big stream we were going to have a segment where jace like just bailed because his helicopter showed up yeah we forgot about that we forgot about that yeah

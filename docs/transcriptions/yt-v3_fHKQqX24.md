@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [February 23rd,
 
 ### Transcript
 
-> done this yeah what length will the new ziplines cap at no idea man that's uh no i don't know well i mean yeah they're not zip lines though are they just power lines yeah they're power lines so yeah should be same length that's power lines
+> done this yeah what length will the new ziplines cap at no idea man that's, no i don't know well i mean yeah they're not zip lines though are they just power lines yeah they're power lines so yeah should be same length that's power lines

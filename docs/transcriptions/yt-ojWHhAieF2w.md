@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [May 4th, 2021 
 
 ### Transcript
 
-> ever be pipes no never will jeff goldblum narrate 1.0 that would be so dope that would be good i would be i would understand jeff goldblum and um morgan freeman if we can get them both oh morgan freeman
+> ever be pipes no never will jeff goldblum narrate 1.0 that would be so dope that would be good i would be i would understand jeff goldblum and, morgan freeman if we can get them both oh morgan freeman

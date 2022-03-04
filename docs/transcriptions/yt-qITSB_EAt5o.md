@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=qITSB_EAt5o
 
 ### Transcript
 
-> do you really delete the factories you use for trailers so what usually happens is that every time we make it a teaser video whatever we create a new save file and we create a factory and then once we're done with that we just like forget about it we might reuse this one that we made just because we put so much effort into it um and use it for like maybe the trailer later or something like that but uh usually they become like dated um so that's what happens yep
+> do you really delete the factories you use for trailers so what usually happens is that every time we make it a teaser video whatever we create a new save file and we create a factory and then once we're done with that we just like forget about it we might reuse this one that we made just because we put so much effort into it, and use it for like maybe the trailer later or something like that but, usually they become like dated, so that's what happens yep

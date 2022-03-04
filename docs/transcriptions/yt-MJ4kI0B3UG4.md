@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=MJ4kI0B3UG4
 
 ### Transcript
 
-> is it just me does jace have a different accent in the uh the 2017 video yes my accent has changed over time it has changed yeah is it more australian now or less australian now there's less australia now okay yeah
+> is it just me does jace have a different accent in the, the 2017 video yes my accent has changed over time it has changed yeah is it more australian now or less australian now there's less australia now okay yeah

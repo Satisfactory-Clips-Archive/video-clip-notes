@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=bbAGxhCSN8c
 
 ### Transcript
 
-> yeah were you serious about uh the drones in the last youtube video yeah definitely drones are coming you guys yeah yeah yeah yeah they're coming uh i will tell you the video last week can't wait to get you the drones
+> yeah were you serious about, the drones in the last youtube video yeah definitely drones are coming you guys yeah yeah yeah yeah they're coming, i will tell you the video last week can't wait to get you the drones

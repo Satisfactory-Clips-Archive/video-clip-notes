@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=S5KvicTkt3w
 
 ### Transcript
 
-> jake's shaved chase shaved uh yeah sale on flannels yeah i mean this actually was pretty coordinated right like because you saw someone what on discord or something say that we were gonna wear the same shirt i mean they i i just wanted their predictions to come true so like i was like okay now we have to yep oh my god we have to please the people right yes yes okay spreading games
+> jake's shaved chase shaved, yeah sale on flannels yeah i mean this actually was pretty coordinated right like because you saw someone what on discord or something say that we were gonna wear the same shirt i mean they i i just wanted their predictions to come true so like i was like okay now we have to yep oh my god we have to please the people right yes yes okay spreading games

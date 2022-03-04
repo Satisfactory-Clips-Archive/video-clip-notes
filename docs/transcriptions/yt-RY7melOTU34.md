@@ -38,4 +38,4 @@ https://www.youtube.com/watch?v=RY7melOTU34
 
 ### Transcript
 
-> what is your flying vehicle's question no one has asked that yet no to answer your question wait what was that flying vehicles people that's that yeah has anyone asked the obligatory flying vehicles question yet the answer to that question is no no one ever uh
+> what is your flying vehicle's question no one has asked that yet no to answer your question wait what was that flying vehicles people that's that yeah has anyone asked the obligatory flying vehicles question yet the answer to that question is no no one ever

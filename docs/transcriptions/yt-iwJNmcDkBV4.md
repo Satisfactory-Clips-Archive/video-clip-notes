@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=iwJNmcDkBV4
 
 ### Transcript
 
-> uh will some of the many pipes be touched and proved at all i think we're going to do another pass on pipes at some point but i don't know if it's going to be for update 5 or later uh if we have time we're probably going to like look into the issues that happened with the engine upgrade a while back with pipes but i don't know the specifics here
+> will some of the many pipes be touched and proved at all i think we're going to do another pass on pipes at some point but i don't know if it's going to be for update 5 or later, if we have time we're probably going to like look into the issues that happened with the engine upgrade a while back with pipes but i don't know the specifics here

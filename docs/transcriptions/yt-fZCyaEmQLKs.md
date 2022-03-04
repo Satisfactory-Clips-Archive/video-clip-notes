@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=fZCyaEmQLKs
 
 ### Transcript
 
-> uh every idea like a personal drone one can go fetch a stack that's something i don't think we're gonna do to be honest because we looked at the the when we looked at drones we looked at the drones that we have and those are the type of drones that we wanted at so like we won't do any like personal drone stuff like that
+> every idea like a personal drone one can go fetch a stack that's something i don't think we're gonna do to be honest because we looked at the the when we looked at drones we looked at the drones that we have and those are the type of drones that we wanted at so like we won't do any like personal drone stuff like that

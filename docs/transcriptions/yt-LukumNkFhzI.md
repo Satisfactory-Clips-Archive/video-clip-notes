@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=LukumNkFhzI
 
 ### Transcript
 
-> panna cotta calling cheater yes yes no some some aftermarket products here being used but that looks great great job mystic very very good um gives me an idea actually oh we don't we can just you know i'm just going to mute myself one second so maybe we can um steal this idea from mods with the signs oh chase you you weren't you weren't muted there oh god i love mods so much yeah great yeah yeah mods are great oh i can't wait i'm gonna fix the my mixes a little uh uh
+> panna cotta calling cheater yes yes no some some aftermarket products here being used but that looks great great job mystic very very good, gives me an idea actually oh we don't we can just you know i'm just going to mute myself one second so maybe we can, steal this idea from mods with the signs oh chase you you weren't you weren't muted there oh god i love mods so much yeah great yeah yeah mods are great oh i can't wait i'm gonna fix the my mixes a little
 >
 > [Music]
 >

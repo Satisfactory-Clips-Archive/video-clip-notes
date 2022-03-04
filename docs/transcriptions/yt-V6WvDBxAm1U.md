@@ -27,4 +27,4 @@ https://www.youtube.com/watch?v=V6WvDBxAm1U
 
 ### Transcript
 
-> uh will there be new tears tier 9 to 10 and update five maybe there will be maybe who knows who knows well i know i bet who else knows it's no no i didn't because i didn't hear what you said uh will there be uh tiers nine and ten update five maybe interesting
+> will there be new tears tier 9 to 10 and update five maybe there will be maybe who knows who knows well i know i bet who else knows it's no no i didn't because i didn't hear what you said, will there be, tiers nine and ten update five maybe interesting

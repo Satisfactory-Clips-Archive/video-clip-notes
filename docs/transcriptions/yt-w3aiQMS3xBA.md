@@ -25,4 +25,4 @@ https://www.youtube.com/watch?v=w3aiQMS3xBA
 
 ### Transcript
 
-> every thoughts about having npcs and probably some raider yeah and our thoughts is that we probably don't want it we want it to feel very like you're alone on that planet and it's very like isolated so uh there's gonna be like no i actually don't know
+> every thoughts about having npcs and probably some raider yeah and our thoughts is that we probably don't want it we want it to feel very like you're alone on that planet and it's very like isolated so, there's gonna be like no i actually don't know

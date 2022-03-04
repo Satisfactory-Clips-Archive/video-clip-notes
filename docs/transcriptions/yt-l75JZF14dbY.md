@@ -18,8 +18,8 @@ https://www.youtube.com/watch?v=l75JZF14dbY
 
 ### Transcript
 
-> were there improvements to hitboxes specifically being able to place power poles between two constructors in the empty space um
+> were there improvements to hitboxes specifically being able to place power poles between two constructors in the empty space
 >
 > [Music]
 >
-> for that one i'd like that specific use case i don't think so because i like we would have to change the hitbox quite significantly um where like it would make sense in that use case but a lot of other use cases it wouldn't make sense but there is a oh actually we might change the power poles to be soft clearance not sure if that's true or not uh but something just caught my eye here it's possible we might change that actually to soft clearance instead uh don't quote me on this though but because i might be wrong but a little birdie whispered in my ears
+> for that one i'd like that specific use case i don't think so because i like we would have to change the hitbox quite significantly, where like it would make sense in that use case but a lot of other use cases it wouldn't make sense but there is a oh actually we might change the power poles to be soft clearance not sure if that's true or not, but something just caught my eye here it's possible we might change that actually to soft clearance instead, don't quote me on this though but because i might be wrong but a little birdie whispered in my ears

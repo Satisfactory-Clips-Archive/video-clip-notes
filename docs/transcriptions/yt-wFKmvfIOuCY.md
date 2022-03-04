@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [February 8th, 
 
 ### Transcript
 
-> cosmetics for the character or even eliza taco uh not impossible
+> cosmetics for the character or even eliza taco, not impossible

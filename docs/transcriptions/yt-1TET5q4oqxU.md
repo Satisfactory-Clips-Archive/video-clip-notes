@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=1TET5q4oqxU
 
 ### Transcript
 
-> will lizard dogs be able to use hyper tubes soon soon that would be cool that would be pretty cool they can use for really cool yeah they can use um the jump pads oh people are gonna make hypertube cannons and set them across yes uh i'm actually more for this feature now
+> will lizard dogs be able to use hyper tubes soon soon that would be cool that would be pretty cool they can use for really cool yeah they can use, the jump pads oh people are gonna make hypertube cannons and set them across yes, i'm actually more for this feature now

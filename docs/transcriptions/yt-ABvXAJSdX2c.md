@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=ABvXAJSdX2c
 
 ### Transcript
 
-> more shop items decoration plan for the next update we do plan on adding more like shop items and things to the game uh as the game goes on there might be some in the next update there might be more in future updates too it's it's it's nice because the the shop is this kind of feature that is like it's pretty free for us to just like add some cool new interesting stuff so it makes some sense
+> more shop items decoration plan for the next update we do plan on adding more like shop items and things to the game, as the game goes on there might be some in the next update there might be more in future updates too it's it's it's nice because the the shop is this kind of feature that is like it's pretty free for us to just like add some cool new interesting stuff so it makes some sense

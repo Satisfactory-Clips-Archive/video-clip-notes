@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [February 22nd,
 
 ### Transcript
 
-> why don't you want us guys to equip the blatants and jet pack at the same time i the reason for that is because we feel like it's a bit too overpowered and we've sort of designed the level design that's around for situations where you don't have like all equipment a bit like being able to equip everything so we would need to change some level design if we were to do that um so but at some point we're gonna like revamp the equipment system i don't know what our decisions there are so yeah
+> why don't you want us guys to equip the blatants and jet pack at the same time i the reason for that is because we feel like it's a bit too overpowered and we've sort of designed the level design that's around for situations where you don't have like all equipment a bit like being able to equip everything so we would need to change some level design if we were to do that, so but at some point we're gonna like revamp the equipment system i don't know what our decisions there are so yeah

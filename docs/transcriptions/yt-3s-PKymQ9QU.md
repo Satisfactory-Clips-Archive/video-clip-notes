@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [February 22nd,
 
 ### Transcript
 
-> um ever consider making a vr version satisfactory i don't think that's been like seriously considered i mean it could be pretty cool yeah eventually i i mean i mean maybe everything's possible but yeah i think so yeah and maybe that's that would be i think that that would be such a low priority at least for quite some time this factory needs control support before considering vr yeah yeah
+> ever consider making a vr version satisfactory i don't think that's been like seriously considered i mean it could be pretty cool yeah eventually i i mean i mean maybe everything's possible but yeah i think so yeah and maybe that's that would be i think that that would be such a low priority at least for quite some time this factory needs control support before considering vr yeah yeah

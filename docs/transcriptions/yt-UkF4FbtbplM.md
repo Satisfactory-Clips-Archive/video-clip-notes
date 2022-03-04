@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=UkF4FbtbplM
 
 ### Transcript
 
-> weapon key thing whole string that's something that i i think we i hope we have that at some point i'm gonna add that to the game if if we don't have a performance personally i will personally do it uh if we don't have it um because he feels come on
+> weapon key thing whole string that's something that i i think we i hope we have that at some point i'm gonna add that to the game if if we don't have a performance personally i will personally do it, if we don't have it, because he feels come on

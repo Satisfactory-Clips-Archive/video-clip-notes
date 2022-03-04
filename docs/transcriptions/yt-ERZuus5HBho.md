@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [September 7th,
 
 ### Transcript
 
-> how are plans around 1.0 shaping up i think okay actually uh i don't really it's it's kind of hard to i don't know we're we're sort of focused on update five and then what's after update five which is i'm just it's update six it's yeah i'm pretty sure that's how that's working uh and uh yeah and so i don't really know exactly if like we're on target for 1.0 or not but we are on target for the things that are more immediate it seems so far
+> how are plans around 1.0 shaping up i think okay actually, i don't really it's it's kind of hard to i don't know we're we're sort of focused on update five and then what's after update five which is i'm just it's update six it's yeah i'm pretty sure that's how that's working, and, yeah and so i don't really know exactly if like we're on target for 1.0 or not but we are on target for the things that are more immediate it seems so far

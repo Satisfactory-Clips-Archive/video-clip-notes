@@ -20,4 +20,4 @@ https://www.youtube.com/watch?v=wANkw8R1tKQ
 
 ### Transcript
 
-> does looking into pathfinding apply to truck and tractor navigation uh yes they're two they're okay so they're two different things honestly but we are looking into both actually that's part of like the vehicle kind of overhaul we're gonna do at some point we're gonna look into the pathfinding for the vehicles as well
+> does looking into pathfinding apply to truck and tractor navigation, yes they're two they're okay so they're two different things honestly but we are looking into both actually that's part of like the vehicle kind of overhaul we're gonna do at some point we're gonna look into the pathfinding for the vehicles as well

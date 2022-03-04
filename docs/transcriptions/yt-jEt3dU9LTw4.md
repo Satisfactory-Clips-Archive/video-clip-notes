@@ -20,4 +20,4 @@ https://www.youtube.com/watch?v=jEt3dU9LTw4
 >
 > [Laughter]
 >
-> you go ahead go ahead uh oh okay we weren't doing the same thing we were were we yeah where are we wait you didn't say anything to me right no i didn't send anything to you okay we're in the same document we're highlighting the same cell in the spreadsheet oh are we no i did actually that would be something from before oh okay yeah no no no no that wasn't ignore that sorry chat we're just uh we're having a intimate moment oh both our dad's cold at the same time you know how it is a jokesters
+> you go ahead go ahead, oh okay we weren't doing the same thing we were were we yeah where are we wait you didn't say anything to me right no i didn't send anything to you okay we're in the same document we're highlighting the same cell in the spreadsheet oh are we no i did actually that would be something from before oh okay yeah no no no no that wasn't ignore that sorry chat we're just, we're having a intimate moment oh both our dad's cold at the same time you know how it is a jokesters

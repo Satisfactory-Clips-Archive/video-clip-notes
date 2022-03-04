@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [February 8th, 
 
 ### Transcript
 
-> um are you gonna add more vehicles to the game i don't think we have any plans for more vehicles um we might like extend or add some functionality to the vehicles maybe in the future but yeah i don't know if we have any any more vehicles that we want to add
+> are you gonna add more vehicles to the game i don't think we have any plans for more vehicles, we might like extend or add some functionality to the vehicles maybe in the future but yeah i don't know if we have any any more vehicles that we want to add

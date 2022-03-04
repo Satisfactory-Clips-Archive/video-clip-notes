@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=3eu1Tgh96HY
 
 ### Transcript
 
-> uh hello jurassic any plans for an elevator where there's already an elevator in the game it's the space elevator goes really high really high
+> hello jurassic any plans for an elevator where there's already an elevator in the game it's the space elevator goes really high really high

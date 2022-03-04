@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [December 14th,
 
 ### Transcript
 
-> what about an oversized lawnmower i mean we the the tractors and already kind of like that but you can't use them to collect foliage so that's kind of maybe what what one of the extensions that i talked about earlier about with vehicles that might be one thing like you'd be able to like use your your um your tractor is a lawnmower potentially i don't know we'll see
+> what about an oversized lawnmower i mean we the the tractors and already kind of like that but you can't use them to collect foliage so that's kind of maybe what what one of the extensions that i talked about earlier about with vehicles that might be one thing like you'd be able to like use your your, your tractor is a lawnmower potentially i don't know we'll see

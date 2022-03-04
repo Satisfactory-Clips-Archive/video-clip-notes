@@ -23,7 +23,7 @@ https://www.youtube.com/watch?v=jjOM5IpsAiw
 
 ### Transcript
 
-> i thought cooperstain studios released valheim no uh coffee saying publishing released valentine it it is it is confusing though i won't like publicly shame anyone for coming for confusing like the different companies within coffee stain a coffee saying group uh but we're working on satisfactory so we're not doing anything related to yeah to uh vol volhem volhem i think yes yeah yeah iron gator the ones developing that game yes iron gate yes
+> i thought cooperstain studios released valheim no, coffee saying publishing released valentine it it is it is confusing though i won't like publicly shame anyone for coming for confusing like the different companies within coffee stain a coffee saying group, but we're working on satisfactory so we're not doing anything related to yeah to, vol volhem volhem i think yes yeah yeah iron gator the ones developing that game yes iron gate yes
 >
 > [Laughter]
 >

@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=_IL63Q90d1k
 
 ### Transcript
 
-> please think about adding dedicated storage containers uh like an rx set of specific kind of resources and it takes only that when you store all you get a lot of time when managing inventory can't you achieve that with uh smart splitters though
+> please think about adding dedicated storage containers, like an rx set of specific kind of resources and it takes only that when you store all you get a lot of time when managing inventory can't you achieve that with, smart splitters though
 >
 > [Music]
 >

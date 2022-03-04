@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=11kugJNY9ug
 
 ### Transcript
 
-> uh yeah verify game files it might be a good habit to just do that every time you download patches on steam honestly because it it has broken like so much recently we i don't know what we need to do there like if we need to reach out to val about it or because it doesn't happen as often in other games as far as i can tell maybe they do i don't know maybe they change something there and maybe we'll also like have to do like that you have to download the game every single time because it's costing so many issues for us i don't know
+> yeah verify game files it might be a good habit to just do that every time you download patches on steam honestly because it it has broken like so much recently we i don't know what we need to do there like if we need to reach out to val about it or because it doesn't happen as often in other games as far as i can tell maybe they do i don't know maybe they change something there and maybe we'll also like have to do like that you have to download the game every single time because it's costing so many issues for us i don't know

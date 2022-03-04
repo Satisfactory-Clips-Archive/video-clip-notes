@@ -20,4 +20,4 @@ This question was possibly duplicated with a more recent answer: [October 19th, 
 
 ### Transcript
 
-> are you going to add even more buildings to make the game less refinery reliant like you do with blender i'm not sure i'm not sure what the the details of uh newer buildings are but um there'll be some new stuff we'll see what happens
+> are you going to add even more buildings to make the game less refinery reliant like you do with blender i'm not sure i'm not sure what the the details of, newer buildings are but, there'll be some new stuff we'll see what happens

@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=R8AbNs9YNSI
 
 ### Transcript
 
-> uh there's always been secret in the updates will there be a secret in update if you're if what you mean by that is if there's going to be more things that we haven't announced yes there are still more things some things we're not going to announce until we drop the patch notes video and you're going to learn there oh boy you're gonna learn oh boy
+> there's always been secret in the updates will there be a secret in update if you're if what you mean by that is if there's going to be more things that we haven't announced yes there are still more things some things we're not going to announce until we drop the patch notes video and you're going to learn there oh boy you're gonna learn oh boy

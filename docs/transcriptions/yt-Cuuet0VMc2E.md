@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [August 31st, 2
 
 ### Transcript
 
-> uh when will update 5b sometime fall we don't have a dead we're not dead set on a date yet but sometimes fall
+> when will update 5b sometime fall we don't have a dead we're not dead set on a date yet but sometimes fall

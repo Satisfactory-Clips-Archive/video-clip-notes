@@ -16,4 +16,4 @@ https://youtube.com/clip/UgyaHJbh1qj9vMOb5k94AaABCQ
 
 ### Transcript
 
-> so what this is is uh kind of the first implementation of the drones very beautiful just a couple balls flying back and forth um with some programmer art stations as well and this is just basically having vehicles flying back and forth transporting items which is really the first step in order to get these to work exciting so
+> so what this is is, kind of the first implementation of the drones very beautiful just a couple balls flying back and forth, with some programmer art stations as well and this is just basically having vehicles flying back and forth transporting items which is really the first step in order to get these to work exciting so

@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=KxOniqAHQI4
 
 ### Transcript
 
-> uh any change of the hard drive system will alternative recipes be unlocked by a more orderly progression no changes to the hard drive system yet uh or yet it sounds like we're gonna i we don't have any plans for it i think uh so no changes there for update four all right people asking about the
+> any change of the hard drive system will alternative recipes be unlocked by a more orderly progression no changes to the hard drive system yet, or yet it sounds like we're gonna i we don't have any plans for it i think, so no changes there for update four all right people asking about the

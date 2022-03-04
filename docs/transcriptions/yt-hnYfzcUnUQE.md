@@ -18,7 +18,7 @@ This question was possibly duplicated with a more recent answer: [February 22nd,
 
 ### Transcript
 
-> two people explorer please i don't think that's gonna happen that's a shame it used to be like that we used to have two people in the explorer and then like one day when i was working on the explorers i couldn't get my second player to jump in the car and i was like yo what's going on it's bugged and then we're like we remove second players from vehicles you could have two people on the little sugar cube tractor as well you could get two people on yeah every vehicle um yeah and they uh they removed it savages cannot believe it monsters they removed it i was like but why and i cried many tears and they didn't care so uh i i think um
+> two people explorer please i don't think that's gonna happen that's a shame it used to be like that we used to have two people in the explorer and then like one day when i was working on the explorers i couldn't get my second player to jump in the car and i was like yo what's going on it's bugged and then we're like we remove second players from vehicles you could have two people on the little sugar cube tractor as well you could get two people on yeah every vehicle, yeah and they, they removed it savages cannot believe it monsters they removed it i was like but why and i cried many tears and they didn't care so, i i think
 >
 > [Music]
 >

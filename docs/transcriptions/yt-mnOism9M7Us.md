@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=mnOism9M7Us
 
 ### Transcript
 
-> uh there's actually new music in the game already since update 4. there's more coming i believe
+> there's actually new music in the game already since update 4. there's more coming i believe

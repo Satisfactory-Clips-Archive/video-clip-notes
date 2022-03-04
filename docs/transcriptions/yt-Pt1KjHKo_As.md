@@ -18,8 +18,8 @@ https://www.youtube.com/watch?v=Pt1KjHKo_As
 
 ### Transcript
 
-> can you put ceiling lights on the slanted roof pieces uh
+> can you put ceiling lights on the slanted roof pieces
 >
 > [Music]
 >
-> good question it's not going to rotate with the uh the slanted pieces i think i think it's just gonna like that's a good question actually i have no idea i think it's gonna stick to it but i don't think it will like rotate with it so it's still gonna be like just you know straight up i think a better option there maybe is like the the the spotlight or the call not the spotlight the um headlights what are they called the rotatable lights floodlights those are the ones probably wait is it floodless yeah i think i can't remember so many names yeah floodlights if i see someone typing in chat i'm like jimmy like yeah that's it that's the one chat are never wrong wall-mounted floodlight all right cool
+> good question it's not going to rotate with the, the slanted pieces i think i think it's just gonna like that's a good question actually i have no idea i think it's gonna stick to it but i don't think it will like rotate with it so it's still gonna be like just you know straight up i think a better option there maybe is like the the the spotlight or the call not the spotlight the, headlights what are they called the rotatable lights floodlights those are the ones probably wait is it floodless yeah i think i can't remember so many names yeah floodlights if i see someone typing in chat i'm like jimmy like yeah that's it that's the one chat are never wrong wall-mounted floodlight all right cool

@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=ytaLWsFTESc
 
 ### Transcript
 
-> uh is the crash reporter going to you guys or going to epic it's going to us we're the ones reading that yep
+> is the crash reporter going to you guys or going to epic it's going to us we're the ones reading that yep

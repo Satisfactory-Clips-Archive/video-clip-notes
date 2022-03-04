@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=oqjLxMUfZJo
 
 ### Transcript
 
-> so far train part looks amazing it really does i love the uh towers the lights shining on the uh and street here as it goes past the lights it's really nice
+> so far train part looks amazing it really does i love the, towers the lights shining on the, and street here as it goes past the lights it's really nice

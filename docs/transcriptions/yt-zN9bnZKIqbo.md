@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [February 22nd,
 
 ### Transcript
 
-> any ways to transport dog goes long distance in the future i've seen some people who uh managed to get liz doggers onto a train you could do that i guess
+> any ways to transport dog goes long distance in the future i've seen some people who, managed to get liz doggers onto a train you could do that i guess

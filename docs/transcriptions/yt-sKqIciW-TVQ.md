@@ -24,4 +24,4 @@ https://www.youtube.com/watch?v=sKqIciW-TVQ
 
 ### Transcript
 
-> hey snoot and jace hello uh when are we going to see replaceable foundation wall conveyors i don't know when but i think you will see it at some point i'm pretty sure
+> hey snoot and jace hello, when are we going to see replaceable foundation wall conveyors i don't know when but i think you will see it at some point i'm pretty sure

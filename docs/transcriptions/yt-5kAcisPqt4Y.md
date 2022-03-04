@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=5kAcisPqt4Y
 
 ### Transcript
 
-> um please do a voice for pirate english that would be pretty dope yeah that could be cool um we should we should have a juice velvet and cindy mae's voice pack yeah that would be funny that would be pretty good that would be pretty good
+> please do a voice for pirate english that would be pretty dope yeah that could be cool, we should we should have a juice velvet and cindy mae's voice pack yeah that would be funny that would be pretty good that would be pretty good

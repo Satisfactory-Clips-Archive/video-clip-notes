@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=5MBPRaV8NZs
 
 ### Transcript
 
-> so trans is going to smash into each other will they be smart once collision is enabled so we want to add signals to the game which means they won't be smart uh once collision is enabled and you need to do things to ensure that your trains don't smash into each other that's basically what that means basically
+> so trans is going to smash into each other will they be smart once collision is enabled so we want to add signals to the game which means they won't be smart, once collision is enabled and you need to do things to ensure that your trains don't smash into each other that's basically what that means basically

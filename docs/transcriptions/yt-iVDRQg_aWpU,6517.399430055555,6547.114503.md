@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [November 30th,
 
 ### Transcript
 
-> the updates to the lauren story there will be in 1.0 um there will be a big ol big old reveal of the story and lore um eventually eventually because we're going to do we're not going to do like the subnautica track where we're like we in early access reveal stuff like bit by bit we're gonna do everything in one go so uh like when when we're finished with a complete story that's when we'll put it in the game for you guys uh folks asking about creative mode uh
+> the updates to the lauren story there will be in 1.0, there will be a big ol big old reveal of the story and lore, eventually eventually because we're going to do we're not going to do like the subnautica track where we're like we in early access reveal stuff like bit by bit we're gonna do everything in one go so, like when when we're finished with a complete story that's when we'll put it in the game for you guys, folks asking about creative mode

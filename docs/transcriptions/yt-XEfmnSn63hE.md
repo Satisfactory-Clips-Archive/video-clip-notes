@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=XEfmnSn63hE
 
 ### Transcript
 
-> hey jace how does it feel to be truncated for the first time today well you know i learned a lesson and that is to appreciate what you have all right because once it's gone that's when you realize um you know so appreciate it before it's gone
+> hey jace how does it feel to be truncated for the first time today well you know i learned a lesson and that is to appreciate what you have all right because once it's gone that's when you realize, you know so appreciate it before it's gone

@@ -18,4 +18,4 @@ https://youtube.com/clip/Ugkx7Wy5kj3h1LbCNZqvjtvkrLd9qkb6dkVN
 
 ### Transcript
 
-> true story rock galactic enabled unreal engine vr plug and support from modding any chance you could do the same for satisfactory motors it's it's possible something that we can consider um and yeah maybe the modders will get some kind of vr implementation possible if we include that but we have to have to run it by the team we have to see and they need to assess whether or not that's okay that's safe if there's any sort of like trade-off yeah we have to kind of look into it
+> true story rock galactic enabled unreal engine vr plug and support from modding any chance you could do the same for satisfactory motors it's it's possible something that we can consider, and yeah maybe the modders will get some kind of vr implementation possible if we include that but we have to have to run it by the team we have to see and they need to assess whether or not that's okay that's safe if there's any sort of like trade-off yeah we have to kind of look into it

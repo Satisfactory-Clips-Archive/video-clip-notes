@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [November 9th, 
 
 ### Transcript
 
-> diagonal walls what about them they're in the game um yes
+> diagonal walls what about them they're in the game, yes

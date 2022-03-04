@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [December 14th,
 
 ### Transcript
 
-> um can you please add a coffee machine or even a coffee production line i don't know maybe maybe not uh we'll see
+> can you please add a coffee machine or even a coffee production line i don't know maybe maybe not, we'll see

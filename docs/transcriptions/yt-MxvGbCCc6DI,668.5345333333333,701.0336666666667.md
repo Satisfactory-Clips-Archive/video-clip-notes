@@ -15,7 +15,7 @@ https://youtube.com/clip/UgyuVzQ9hVSDqmBsVK94AaABCQ
 ### Transcript
 
 > one other thing that you might
-be wondering uh is that we had- i remember you know,
+be wondering, is that we had- i remember you know,
 quite a while ago we showcased a video of some like world update,
 like technical updates that are coming in Satisfactory in the future.
 We did a video with Ben our Tech Artist and he showcased some you know

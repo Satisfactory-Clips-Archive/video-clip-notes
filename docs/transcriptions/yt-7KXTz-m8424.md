@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=7KXTz-m8424
 
 ### Transcript
 
-> yeah how about that device you used to mesh your own conveyor belts exactly like put push push that [ __ ] on that question site so that someone can be like let me implement that um if our game director chan once approves of it mark becca sanchez
+> yeah how about that device you used to mesh your own conveyor belts exactly like put push push that [ __ ] on that question site so that someone can be like let me implement that, if our game director chan once approves of it mark becca sanchez

@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [December 14th,
 
 ### Transcript
 
-> uh any plans to release a map editor uh no plans that would be cool unfortunately the whole map is like baked so it's kind of hard to do it
+> any plans to release a map editor, no plans that would be cool unfortunately the whole map is like baked so it's kind of hard to do it

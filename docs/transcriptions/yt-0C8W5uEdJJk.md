@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=0C8W5uEdJJk
 
 ### Transcript
 
-> satisfactory belt and valheim that's a really good question actually make sure to go to uh questions.valhalla.com
+> satisfactory belt and valheim that's a really good question actually make sure to go to, questions.valhalla.com

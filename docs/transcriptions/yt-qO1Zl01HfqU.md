@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [February 8th, 
 
 ### Transcript
 
-> farming would be cool farming would be cool uh something that um we've we think is pretty good might happen at some point actually army to some degree but uh yeah
+> farming would be cool farming would be cool, something that, we've we think is pretty good might happen at some point actually army to some degree but, yeah

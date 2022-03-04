@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [February 22nd,
 
 ### Transcript
 
-> uh is that map generation gonna be randomized in the future no it won't be generalized and that's in the sense that like it will be procedural but we have thought about the idea of having like moving the notes around potentially and randomizing those potentially but we haven't made any decisions around that but if that's something you want to see make sure to upload that on the qa site
+> is that map generation gonna be randomized in the future no it won't be generalized and that's in the sense that like it will be procedural but we have thought about the idea of having like moving the notes around potentially and randomizing those potentially but we haven't made any decisions around that but if that's something you want to see make sure to upload that on the qa site

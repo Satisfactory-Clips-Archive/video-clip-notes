@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=oMxI9llLuDc
 
 ### Transcript
 
-> uh jace how does your hair look magnificent every day thanks jeff i don't know i just wake up in it you wake up here yeah i just i just let it cook overnight put it on on air airfry airfry thank you that was the word i was looking for um
+> jace how does your hair look magnificent every day thanks jeff i don't know i just wake up in it you wake up here yeah i just i just let it cook overnight put it on on air airfry airfry thank you that was the word i was looking for

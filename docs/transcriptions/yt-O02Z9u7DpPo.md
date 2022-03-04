@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [August 31st, 2
 
 ### Transcript
 
-> question from steam because i missed that well the game fee in the future had some cataclysms or breakdowns i don't know i don't think so but i don't know it would be cool though it would be cool um so yeah
+> question from steam because i missed that well the game fee in the future had some cataclysms or breakdowns i don't know i don't think so but i don't know it would be cool though it would be cool, so yeah

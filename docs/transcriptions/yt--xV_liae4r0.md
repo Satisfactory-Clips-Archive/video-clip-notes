@@ -20,4 +20,4 @@ https://www.youtube.com/watch?v=-xV_liae4r0
 
 ### Transcript
 
-> will the game be over before star citizen uh probably probably star citizen that's uh that's like next millennia right yeah i mean i feel like star citizen is a journey not a destination it is yeah that's true some games are like that
+> will the game be over before star citizen, probably probably star citizen that's, that's like next millennia right yeah i mean i feel like star citizen is a journey not a destination it is yeah that's true some games are like that

@@ -22,4 +22,4 @@ https://www.youtube.com/watch?v=FIsHFVHNdNU
 
 ### Transcript
 
-> games are like that yeah any word on reducing the refinery spam further uh please let us know on the keyway side if you think that refineries is still too too spammy yeah so we did do stuff with that right before yeah we try to balance for that and if you if you feel like there needs to be more balance then you need to let us know in the q a that qa questions on satisfactory game dot com
+> games are like that yeah any word on reducing the refinery spam further, please let us know on the keyway side if you think that refineries is still too too spammy yeah so we did do stuff with that right before yeah we try to balance for that and if you if you feel like there needs to be more balance then you need to let us know in the q a that qa questions on satisfactory game dot com

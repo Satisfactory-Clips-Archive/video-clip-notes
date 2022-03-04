@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [August 31st, 2
 
 ### Transcript
 
-> like when can we expect uh update five to roll out sometime this fall we don't have a date for it yet we don't even have like a month really uh set in stone but uh we will let you guys know when we kind of when we yes like when we feel confident that we have an estimate so to speak
+> like when can we expect, update five to roll out sometime this fall we don't have a date for it yet we don't even have like a month really, set in stone but, we will let you guys know when we kind of when we yes like when we feel confident that we have an estimate so to speak

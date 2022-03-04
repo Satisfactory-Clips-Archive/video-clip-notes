@@ -16,8 +16,8 @@ https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6990&end=7049
 
 ### Transcript
 
-> is the engine upgrade still only on experimental no so you will get both this is why i don't know if i have time to explain this in one minute to 48 seconds but uh the end of an upgrade is gonna be part of update 4. so everything from
+> is the engine upgrade still only on experimental no so you will get both this is why i don't know if i have time to explain this in one minute to 48 seconds but, the end of an upgrade is gonna be part of update 4. so everything from
 >
 > [Music]
 >
-> from when we last updated the game update 3 or the fluid update rather everything from since then since 3 months ago is gonna be in this next update so this is a huge update in terms of like stuff that's in it uh the patch notes are longer than they were for update three but that's because we missed a window where we were supposed to push experimental to to early access so you're going to get that now instead so we've been moving the the engine version um along with update 4 on next parenthood you're all going to get that now when you access less than one minute you
+> from when we last updated the game update 3 or the fluid update rather everything from since then since 3 months ago is gonna be in this next update so this is a huge update in terms of like stuff that's in it, the patch notes are longer than they were for update three but that's because we missed a window where we were supposed to push experimental to to early access so you're going to get that now instead so we've been moving the the engine version, along with update 4 on next parenthood you're all going to get that now when you access less than one minute you

@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [February 9th, 
 
 ### Transcript
 
-> um how much will update 4b i mean you don't have to pay money for it if that's what you're asking no
+> how much will update 4b i mean you don't have to pay money for it if that's what you're asking no

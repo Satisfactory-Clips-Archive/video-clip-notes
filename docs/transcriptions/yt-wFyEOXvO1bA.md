@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [May 11th, 2021
 
 ### Transcript
 
-> and he plans to daisy chain buildings together to not have power poles everywhere uh no that's that's a like design decision we've had pretty much from the start that uh we don't want to do it like that
+> and he plans to daisy chain buildings together to not have power poles everywhere, no that's that's a like design decision we've had pretty much from the start that, we don't want to do it like that

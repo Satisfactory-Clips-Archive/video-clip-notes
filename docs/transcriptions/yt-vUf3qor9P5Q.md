@@ -27,4 +27,4 @@ https://www.youtube.com/watch?v=vUf3qor9P5Q
 
 ### Transcript
 
-> some people asking about recipes and stuff uh you know if we have recipe changes in the works we'll we'll do a video on them um yeah we'll release that information before update 5 comes out
+> some people asking about recipes and stuff, you know if we have recipe changes in the works we'll we'll do a video on them, yeah we'll release that information before update 5 comes out

@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=r5O_kz-b8nA
 
 ### Transcript
 
-> how was your release hangover after seeing how much work went into those 11 minute release trial that really enjoyed jason's private stream uh it was i wasn't hungover jace maybe maybe jace was uh i didn't know jase was going to be drinking i missed out on that i was completely sober
+> how was your release hangover after seeing how much work went into those 11 minute release trial that really enjoyed jason's private stream, it was i wasn't hungover jace maybe maybe jace was, i didn't know jase was going to be drinking i missed out on that i was completely sober

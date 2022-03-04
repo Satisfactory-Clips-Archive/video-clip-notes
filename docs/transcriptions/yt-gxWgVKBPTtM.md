@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [December 14th,
 
 ### Transcript
 
-> obviously you guys are planning a mobile port right yeah yeah this is we're just running on mobile emulator right now it'll it'll be coming to uh uh epic mobile devices the epic windows but
+> obviously you guys are planning a mobile port right yeah yeah this is we're just running on mobile emulator right now it'll it'll be coming to, , epic mobile devices the epic windows but

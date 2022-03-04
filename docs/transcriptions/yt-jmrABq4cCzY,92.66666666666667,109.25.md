@@ -14,4 +14,4 @@ https://youtube.com/embed/jmrABq4cCzY?autoplay=1&start=92&end=110
 
 ### Transcript
 
-> expect it on the early access version you might ask and the answer to that is april 13th uh this year okay look at all the comedians out there oh does this doesn't mean 2022 i think you're so funny don't you with that said though um i just want to
+> expect it on the early access version you might ask and the answer to that is april 13th, this year okay look at all the comedians out there oh does this doesn't mean 2022 i think you're so funny don't you with that said though, i just want to

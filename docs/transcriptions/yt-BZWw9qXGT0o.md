@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [September 28th
 
 ### Transcript
 
-> um can you make biomass burners automated no we can make them but we're not gonna take that in the game no you can't yeah
+> can you make biomass burners automated no we can make them but we're not gonna take that in the game no you can't yeah

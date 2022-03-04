@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=tSgSZ7D_z6I
 
 ### Transcript
 
-> also this base looks like it's preparing for tower defense we're not going to add tower defense you guys um but really nice regardless tricky
+> also this base looks like it's preparing for tower defense we're not going to add tower defense you guys, but really nice regardless tricky

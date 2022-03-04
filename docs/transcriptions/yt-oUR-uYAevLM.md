@@ -20,4 +20,4 @@ https://www.youtube.com/watch?v=oUR-uYAevLM
 
 ### Transcript
 
-> uh so say great work for the game of the design people people showing love
+> so say great work for the game of the design people people showing love

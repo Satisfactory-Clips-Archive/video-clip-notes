@@ -20,4 +20,4 @@ https://www.youtube.com/watch?v=EZ8F7j6KcqA
 
 ### Transcript
 
-> will the spline fix for uh apply for drones no i don't think so they're completely separate systems
+> will the spline fix for, apply for drones no i don't think so they're completely separate systems

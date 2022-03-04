@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=v8CUSW5rdWM
 
 ### Transcript
 
-> any plans for better control over trains such stations uh not impossible please upvote on the qa site uh what you want to specifically be clear about what it is that you want yeah
+> any plans for better control over trains such stations, not impossible please upvote on the qa site, what you want to specifically be clear about what it is that you want yeah

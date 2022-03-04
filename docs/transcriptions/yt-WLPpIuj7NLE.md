@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=WLPpIuj7NLE
 
 ### Transcript
 
-> any info on the issue of mk5 belts not being able to handle max throughput uh we've heard people's you know people talk about it and uh we'll either do something or not later yes but uh yeah no no information on that yet but we we hear people we know that people want that to be addressed we are very very aware known issue as to say in the biz yes yeah we'll address that when we when we get to it sort of in the planning but it is it is known don't worry guys like we know about that
+> any info on the issue of mk5 belts not being able to handle max throughput, we've heard people's you know people talk about it and, we'll either do something or not later yes but, yeah no no information on that yet but we we hear people we know that people want that to be addressed we are very very aware known issue as to say in the biz yes yeah we'll address that when we when we get to it sort of in the planning but it is it is known don't worry guys like we know about that

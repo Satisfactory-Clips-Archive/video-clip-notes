@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=9jRRF4yMh-0
 
 ### Transcript
 
-> what did you want to do when you were younger and how did you get into game development uh i wanted to work so boring i wanted to work with games um it's my uncle's fault he wants to work with games so i wanted to work with games i thought i thought i wanted to do programming uh which is not really what i want to do but can you can you do programming a little bit yeah but not very good probably better than me though shut down shut up don't say anything all right
+> what did you want to do when you were younger and how did you get into game development, i wanted to work so boring i wanted to work with games, it's my uncle's fault he wants to work with games so i wanted to work with games i thought i thought i wanted to do programming, which is not really what i want to do but can you can you do programming a little bit yeah but not very good probably better than me though shut down shut up don't say anything all right

@@ -25,8 +25,8 @@ https://youtube.com/clip/UgkxsP5lcPdeWaIlvmcA1Dn8o2vr7bW4M5x6
 
 ### Transcript
 
-> will there be mod support for dedicated service that's such a good question because i i don't really see any issue why mods wouldn't work on dedicated servers um i guess the modders need to get the loader hooked up with the build or something maybe um
+> will there be mod support for dedicated service that's such a good question because i i don't really see any issue why mods wouldn't work on dedicated servers, i guess the modders need to get the loader hooked up with the build or something maybe
 >
 > [Music]
 >
-> i'm not quite sure how that works honestly but uh i'm pretty sure the modders are gonna be on it sooner than you think if they haven't already started doing stuff for it so you can play uh mods on dedicated servers as well uh some people are saying that uh my
+> i'm not quite sure how that works honestly but, i'm pretty sure the modders are gonna be on it sooner than you think if they haven't already started doing stuff for it so you can play, mods on dedicated servers as well, some people are saying that, my

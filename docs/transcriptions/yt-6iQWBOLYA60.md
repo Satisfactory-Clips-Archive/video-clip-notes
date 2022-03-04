@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [November 9th, 
 
 ### Transcript
 
-> uh when do you hope update five will hit early access so we sort of always estimate about a month so that was you know maybe end of november or something is like the estimation we haven't given a date because we could absolutely blow past that date as well if the game if it has to come out in december hell if it has to come out in january like we just have to take the time that we need to make sure that it's in a state that is stable before we put it to early access
+> when do you hope update five will hit early access so we sort of always estimate about a month so that was you know maybe end of november or something is like the estimation we haven't given a date because we could absolutely blow past that date as well if the game if it has to come out in december hell if it has to come out in january like we just have to take the time that we need to make sure that it's in a state that is stable before we put it to early access

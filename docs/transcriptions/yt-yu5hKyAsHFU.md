@@ -20,4 +20,4 @@ https://www.youtube.com/watch?v=yu5hKyAsHFU
 
 ### Transcript
 
-> um someone asking if there was a change in the eastern dune desert between update three and four eastern desert apparently their power poles ended up floating or inside rocks sounds like there was a change then but maybe maybe a bug fix or something but there wasn't a specific thing that we did in that biome there okay take care war duck
+> someone asking if there was a change in the eastern dune desert between update three and four eastern desert apparently their power poles ended up floating or inside rocks sounds like there was a change then but maybe maybe a bug fix or something but there wasn't a specific thing that we did in that biome there okay take care war duck

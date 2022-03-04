@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=V_2RRi_Hf0A
 
 ### Transcript
 
-> uh since i can't find the age restrictions for interns the website could i ask what those are i don't know i'm assuming it's gonna be like 18 or something yeah i think
+> since i can't find the age restrictions for interns the website could i ask what those are i don't know i'm assuming it's gonna be like 18 or something yeah i think

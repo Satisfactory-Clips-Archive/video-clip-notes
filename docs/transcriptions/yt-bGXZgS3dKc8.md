@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [February 8th, 
 
 ### Transcript
 
-> guessing this gets asked a bit but any talk on adding farming actually doesn't get asked that often but it is something that has been requested and has been something that we sort of commented on before definitely sounds cool sounds fun uh don't really know um yeah don't really know much more beyond that but it is something that people think is uh cool and can make sense
+> guessing this gets asked a bit but any talk on adding farming actually doesn't get asked that often but it is something that has been requested and has been something that we sort of commented on before definitely sounds cool sounds fun, don't really know, yeah don't really know much more beyond that but it is something that people think is, cool and can make sense

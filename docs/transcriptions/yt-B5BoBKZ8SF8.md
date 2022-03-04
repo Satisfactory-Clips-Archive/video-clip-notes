@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=B5BoBKZ8SF8
 
 ### Transcript
 
-> will the server source code be available for custom mods with pre-compiled binaries pre-compiled binaries um if that's the case
+> will the server source code be available for custom mods with pre-compiled binaries pre-compiled binaries, if that's the case

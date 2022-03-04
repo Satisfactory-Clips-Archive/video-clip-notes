@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=XYZyZK-g-qk
 
 ### Transcript
 
-> uh and we can now manually swap rails in a train junction yeah you could do that before right yeah kind of just hit the uh the direction that you want to go in and then look for the switch to change yep
+> and we can now manually swap rails in a train junction yeah you could do that before right yeah kind of just hit the, the direction that you want to go in and then look for the switch to change yep

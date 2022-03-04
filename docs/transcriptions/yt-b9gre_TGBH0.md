@@ -20,4 +20,4 @@ This question was possibly duplicated with a more recent answer: [November 9th, 
 
 ### Transcript
 
-> are mercy spheres and some so it's going to have any relevance before 1.0 um no no no there you go um
+> are mercy spheres and some so it's going to have any relevance before 1.0, no no no there you go

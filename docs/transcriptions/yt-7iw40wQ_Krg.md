@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=7iw40wQ_Krg
 
 ### Transcript
 
-> vending machines confirmed oh my god vending machines confirmed clocks confirmed vlogs confirmed tired noble confirmed oh dude this is a bad oh no uh oh oh god uh uh that's not great no terrible all right let's just yeah let's just move that out of the way food court yeah yeah we got tires i don't know what these were they was just random just random things
+> vending machines confirmed oh my god vending machines confirmed clocks confirmed vlogs confirmed tired noble confirmed oh dude this is a bad oh no, oh oh god, , that's not great no terrible all right let's just yeah let's just move that out of the way food court yeah yeah we got tires i don't know what these were they was just random just random things

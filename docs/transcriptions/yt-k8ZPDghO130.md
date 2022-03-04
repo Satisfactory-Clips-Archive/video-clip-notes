@@ -28,4 +28,4 @@ https://www.youtube.com/watch?v=k8ZPDghO130
 
 ### Transcript
 
-> a bug formatted for where drone ports use too many batteries when players far away mention it was fixed it's not any chance for a fix so uh qa side let us know that it's still not fixed and let us know exactly and like prove it essentially um
+> a bug formatted for where drone ports use too many batteries when players far away mention it was fixed it's not any chance for a fix so, qa side let us know that it's still not fixed and let us know exactly and like prove it essentially

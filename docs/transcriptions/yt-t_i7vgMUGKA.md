@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [December 14th,
 
 > [Laughter]
 >
-> date for kfc console release uh no no sooner than anything but later than you hope is it kfc console kf console kf console this the console in the c is uh yeah yeah kfc onsol yeah kf yeah kfc onsol sounds like uh like alexa kfc onsol on on demand kfc onslaught oh yes there is huge
+> date for kfc console release, no no sooner than anything but later than you hope is it kfc console kf console kf console this the console in the c is, yeah yeah kfc onsol yeah kf yeah kfc onsol sounds like, like alexa kfc onsol on on demand kfc onslaught oh yes there is huge

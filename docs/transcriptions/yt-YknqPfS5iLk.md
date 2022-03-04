@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=YknqPfS5iLk
 
 ### Transcript
 
-> train physics train signals yes that is planned at some point we've been wanting to do that since we uh launched trains essentially um i don't know when that was gonna happen we've always like we cannot push it back a bunch of times um just because it's such a big thing to to to fix um but we are going to do that at some point because like we're definitely going to have like train signaling and stuff like that before 1.0 but which update i don't know exactly
+> train physics train signals yes that is planned at some point we've been wanting to do that since we, launched trains essentially, i don't know when that was gonna happen we've always like we cannot push it back a bunch of times, just because it's such a big thing to to to fix, but we are going to do that at some point because like we're definitely going to have like train signaling and stuff like that before 1.0 but which update i don't know exactly

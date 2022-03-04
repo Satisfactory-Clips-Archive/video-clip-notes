@@ -14,7 +14,7 @@ https://youtube.com/embed/vUW3pockA5Y?autoplay=1&start=209&end=281
 
 ### Transcript
 
-> The design tasks to do change in scope basically, cause when you start out in the beginning of a project you do very very broad strokes. As for Game Director versus Game Designer it's a lot of, i guess, administrative work. Now we gotta also review people's work,
+> The design tasks to do change in scope basically, cause when you start out in the beginning of a project you do very very broad strokes. As for Game Director versus Game Designer it's a lot of, i guess, administrative work. Now we gotta also review people's work
 >
 > i'm basically a gate keeper: is this done or not?
 >

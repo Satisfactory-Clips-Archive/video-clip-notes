@@ -18,7 +18,7 @@ https://youtube.com/embed/njXBs_p2l1w?autoplay=1&start=443&end=537
 
 ### Transcript
 
-> all right this one's actually a really long drive um let's take a while we're there okay cool let's look at the uh let's look at the the concept art so the next one is magnetic field generator and this is as you can see here it is a project assembly part so this is project part number six magnetic field generator we'll read the description about it a little bit later but it looks very cool looks like it connects so you make multiple of them and they connect together interesting interesting generates a magnetic field i assume so let's take a look at it in game nice i like this one this one looks cool i just want to i just want to plug them end on end kind of some human centipede
+> all right this one's actually a really long drive, let's take a while we're there okay cool let's look at the, let's look at the the concept art so the next one is magnetic field generator and this is as you can see here it is a project assembly part so this is project part number six magnetic field generator we'll read the description about it a little bit later but it looks very cool looks like it connects so you make multiple of them and they connect together interesting interesting generates a magnetic field i assume so let's take a look at it in game nice i like this one this one looks cool i just want to i just want to plug them end on end kind of some human centipede
 >
 > [ __ ]
 >

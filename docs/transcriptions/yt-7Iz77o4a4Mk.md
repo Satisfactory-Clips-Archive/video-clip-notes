@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [October 19th, 
 
 ### Transcript
 
-> uh there was are there any plans to put signs into the game yes we're gonna add signs eventually
+> there was are there any plans to put signs into the game yes we're gonna add signs eventually

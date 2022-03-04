@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=hKxm2Ps1UYY
 
 ### Transcript
 
-> will the resource transportation get an update easier mass transportation um i don't know uh that's a good thing to post on the questions website i'm gonna drop it questions on satisfying.com and we will be like no we're never doing that actually um so that is a good good example of a good request to be able to move stuff better if
+> will the resource transportation get an update easier mass transportation, i don't know, that's a good thing to post on the questions website i'm gonna drop it questions on satisfying.com and we will be like no we're never doing that actually, so that is a good good example of a good request to be able to move stuff better if

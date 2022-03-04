@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=u7ud0qmbM6U
 
 ### Transcript
 
-> um every time the game was loaded five mark three disappears from every building type yeah that's i thought we're we're aware of that issue and i'm pretty sure there's like a few more uh that we need to fix at some point
+> every time the game was loaded five mark three disappears from every building type yeah that's i thought we're we're aware of that issue and i'm pretty sure there's like a few more, that we need to fix at some point

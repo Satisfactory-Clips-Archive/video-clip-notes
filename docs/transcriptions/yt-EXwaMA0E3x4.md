@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=EXwaMA0E3x4
 
 ### Transcript
 
-> uh can we get stacked gates that link so they operate together oh i see what you mean ah i'll put that in the key i like i i think it's technically possible to do it that way but you'd need to upload that like on the keyway site so we can prioritize
+> can we get stacked gates that link so they operate together oh i see what you mean ah i'll put that in the key i like i i think it's technically possible to do it that way but you'd need to upload that like on the keyway site so we can prioritize

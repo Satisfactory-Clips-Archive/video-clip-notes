@@ -39,4 +39,4 @@ https://www.youtube.com/watch?v=LP3IgdK7OwA
 
 ### Transcript
 
-> uh will there be a thing like monsters attacking us in waves like in victoria no so there won't be any monsters attacking your factory and there won't be any uh base defense or anything like that
+> will there be a thing like monsters attacking us in waves like in victoria no so there won't be any monsters attacking your factory and there won't be any, base defense or anything like that

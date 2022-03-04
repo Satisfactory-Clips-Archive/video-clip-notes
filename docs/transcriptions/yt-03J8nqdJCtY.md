@@ -20,4 +20,4 @@ https://www.youtube.com/watch?v=03J8nqdJCtY
 
 ### Transcript
 
-> them underneath the things yeah someone's saying that this is modded because the foundations are like glitching into the power plants i'm pretty sure there is a way to do that in vanilla uh with a bit of how how you build stuff there are a few tricks with clipping specifically especially with pipes and stuff like the way you they order you build stuff
+> them underneath the things yeah someone's saying that this is modded because the foundations are like glitching into the power plants i'm pretty sure there is a way to do that in vanilla, with a bit of how how you build stuff there are a few tricks with clipping specifically especially with pipes and stuff like the way you they order you build stuff

@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [June 8th, 2021
 
 ### Transcript
 
-> it's scandalous when's the toilet paper dlc there's the the hard hidden questions come out soon soon soon we could uh let's see here
+> it's scandalous when's the toilet paper dlc there's the the hard hidden questions come out soon soon soon we could, let's see here

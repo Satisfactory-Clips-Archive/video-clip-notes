@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [November 23rd,
 
 ### Transcript
 
-> um if i back up current version will xmas still work after 18th nope it will not
+> if i back up current version will xmas still work after 18th nope it will not

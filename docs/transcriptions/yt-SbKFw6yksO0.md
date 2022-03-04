@@ -16,4 +16,4 @@ This question was possibly replaced with a more recent answer: [March 9th, 2021 
 
 ### Transcript
 
-> um when do you think the release date would be solid my guess is in like maybe three in three weeks we'd probably know for sure if the ninth is going to be the date that's just the guess my guess all right like not like maybe other people in the studio will disagree with me there but that's that's what i think
+> when do you think the release date would be solid my guess is in like maybe three in three weeks we'd probably know for sure if the ninth is going to be the date that's just the guess my guess all right like not like maybe other people in the studio will disagree with me there but that's that's what i think

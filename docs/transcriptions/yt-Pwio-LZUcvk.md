@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=Pwio-LZUcvk
 
 ### Transcript
 
-> are you missing jace sure do uh the streams are a lot easier to do when jace is here but uh uh it's no big deal i can manage
+> are you missing jace sure do, the streams are a lot easier to do when jace is here but, , it's no big deal i can manage

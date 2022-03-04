@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=fx4JF3AL83U
 
 ### Transcript
 
-> it's already dark oh yeah it's like four yeah um it's it's nice it's uh we're getting the winter soon so
+> it's already dark oh yeah it's like four yeah, it's it's nice it's, we're getting the winter soon so

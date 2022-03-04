@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [February 15th,
 
 ### Transcript
 
-> thoughts on adding a priority merger similar to smart splitter using overflow uh i don't know requested on the question site it's the best place to do that
+> thoughts on adding a priority merger similar to smart splitter using overflow, i don't know requested on the question site it's the best place to do that

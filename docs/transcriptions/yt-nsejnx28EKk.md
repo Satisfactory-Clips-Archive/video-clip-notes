@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=nsejnx28EKk
 
 ### Transcript
 
-> can we see j streamers aluminium factory build yeah if i do stream i'll i'll be streaming that so like i've been meaning to pick that up again just haven't really been feeling it too much lately but maybe i will um
+> can we see j streamers aluminium factory build yeah if i do stream i'll i'll be streaming that so like i've been meaning to pick that up again just haven't really been feeling it too much lately but maybe i will

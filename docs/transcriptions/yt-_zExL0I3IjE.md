@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=_zExL0I3IjE
 
 ### Transcript
 
-> how long was that no discussion keep it all right well that's that's a that's a that's some solid feedback right there you know what i'm saying um but we don't want to make it like 2 op either because there needs to be that's like the important thing here like we don't want to make it too optimized either because where's the fun in that
+> how long was that no discussion keep it all right well that's that's a that's a that's some solid feedback right there you know what i'm saying, but we don't want to make it like 2 op either because there needs to be that's like the important thing here like we don't want to make it too optimized either because where's the fun in that

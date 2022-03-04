@@ -20,7 +20,7 @@ https://www.youtube.com/watch?v=2cWkWV6irT0
 
 ### Transcript
 
-> job jimmy great job it looks good i like the little sandwich what would you call it last time we called like the the glass um um ice cream sandwich yeah yeah yeah yeah yeah those little no it was triple stacked oreo that was what it was oreo okay yeah triple stacked oreo it's been like actually over a year since i've had an oreo we need to fix this i can't yeah i can't remember last time i had an oreo yeah all right so they're not great like i i don't know what it is i just don't like oreos wait look my juggling balls are in oreo
+> job jimmy great job it looks good i like the little sandwich what would you call it last time we called like the the glass, , ice cream sandwich yeah yeah yeah yeah yeah those little no it was triple stacked oreo that was what it was oreo okay yeah triple stacked oreo it's been like actually over a year since i've had an oreo we need to fix this i can't yeah i can't remember last time i had an oreo yeah all right so they're not great like i i don't know what it is i just don't like oreos wait look my juggling balls are in oreo
 >
 > [Laughter]
 >

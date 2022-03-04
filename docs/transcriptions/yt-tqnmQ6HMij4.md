@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [May 11th, 2021
 
 ### Transcript
 
-> um what's the reason behind no daisy chaining it looks cleaner i don't know honestly i think it's uh i don't know that's a question for mark i wish i knew
+> what's the reason behind no daisy chaining it looks cleaner i don't know honestly i think it's, i don't know that's a question for mark i wish i knew

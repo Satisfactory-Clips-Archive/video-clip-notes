@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [May 18th, 2021
 
 ### Transcript
 
-> what is the story with the mercy sphere that would be related to the story uh can't say anything will there be achievements
+> what is the story with the mercy sphere that would be related to the story, can't say anything will there be achievements

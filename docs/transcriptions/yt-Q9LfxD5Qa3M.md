@@ -16,4 +16,4 @@ This question was possibly replaced with a more recent answer: [February 26th, 2
 
 ### Transcript
 
-> it um is there already a date for day four we don't have a locked we haven't locked down a date yet we have some internal ideas on when we were releasing it we've been looking at sometime mid march uh we said 9th and 16th is the yeah the days that we think might be it yeah but we will hopefully know next week where when exactly it will be when we can commit to an actual date wait
+> it, is there already a date for day four we don't have a locked we haven't locked down a date yet we have some internal ideas on when we were releasing it we've been looking at sometime mid march, we said 9th and 16th is the yeah the days that we think might be it yeah but we will hopefully know next week where when exactly it will be when we can commit to an actual date wait

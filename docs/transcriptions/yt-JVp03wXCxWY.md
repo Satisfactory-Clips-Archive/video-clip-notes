@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [July 13th, 202
 
 ### Transcript
 
-> um tilted fences we already i think i already answered this but that's something that i think we want to add at some point but i know the state of that
+> tilted fences we already i think i already answered this but that's something that i think we want to add at some point but i know the state of that

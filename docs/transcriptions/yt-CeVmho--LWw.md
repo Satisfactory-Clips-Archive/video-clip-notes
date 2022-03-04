@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=CeVmho--LWw
 
 ### Transcript
 
-> some people have been asking like why aren't there any lights in this video like what are they hiding uh it's just we removed them we removed them people didn't like them after all they said actually night time is fine yeah we don't need them i missed when i couldn't see yeah they're going yeah i preferred it when i couldn't i preferred it i felt like i was playing phasmaphobia yep satisfactory is going to be a horror game from now on yeah exactly
+> some people have been asking like why aren't there any lights in this video like what are they hiding, it's just we removed them we removed them people didn't like them after all they said actually night time is fine yeah we don't need them i missed when i couldn't see yeah they're going yeah i preferred it when i couldn't i preferred it i felt like i was playing phasmaphobia yep satisfactory is going to be a horror game from now on yeah exactly

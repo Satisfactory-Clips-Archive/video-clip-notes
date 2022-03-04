@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: December 7th, 2
 
 ### Transcript
 
-> does you if i bring good enough features for satisfactory video guys to consider upgrading the future yeah i mean we can consider it in the future but like yeah we'll have to see it it's it's a possibility that will happen but don't hold your breath like i said earlier it's it's actually still an early access engine we're not gonna switch to an early access engine um because we need the game to to run for the people who play it so you know it might be something that happens eventually
+> does you if i bring good enough features for satisfactory video guys to consider upgrading the future yeah i mean we can consider it in the future but like yeah we'll have to see it it's it's a possibility that will happen but don't hold your breath like i said earlier it's it's actually still an early access engine we're not gonna switch to an early access engine, because we need the game to to run for the people who play it so you know it might be something that happens eventually

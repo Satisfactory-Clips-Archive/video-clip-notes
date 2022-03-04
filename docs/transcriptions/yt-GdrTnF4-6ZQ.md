@@ -20,4 +20,4 @@ This question was possibly replaced with a more recent answer: March 16th, 2021 
 
 ### Transcript
 
-> so uh how girthy will the update for download be i don't know how we get how girthy we don't know exactly how many inches i could tell you that the modular build version would be two gigs more but that's uh cookies two gigs more of nothing new yeah literally nothing here uh but it's gonna be good it's gonna be good um it's all fine size
+> so, how girthy will the update for download be i don't know how we get how girthy we don't know exactly how many inches i could tell you that the modular build version would be two gigs more but that's, cookies two gigs more of nothing new yeah literally nothing here, but it's gonna be good it's gonna be good, it's all fine size

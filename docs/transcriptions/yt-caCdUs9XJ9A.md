@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=caCdUs9XJ9A
 
 ### Transcript
 
-> beacons work fine for tagging rated crash sites they do uh it's just a little bit unconvenient we think we all rather we agree with you guys that you you think it's inconvenient to use beacons for that uh we are gonna try and figure out a solution for that
+> beacons work fine for tagging rated crash sites they do, it's just a little bit unconvenient we think we all rather we agree with you guys that you you think it's inconvenient to use beacons for that, we are gonna try and figure out a solution for that

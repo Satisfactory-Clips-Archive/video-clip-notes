@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [August 17th, 2
 
 ### Transcript
 
-> right what's the name of the tall thing is we got space sticks or is uh potato space potatoes we also said like space giraffes uh i think the official like uh work name is space ticks if i'm not wrong
+> right what's the name of the tall thing is we got space sticks or is, potato space potatoes we also said like space giraffes, i think the official like, work name is space ticks if i'm not wrong

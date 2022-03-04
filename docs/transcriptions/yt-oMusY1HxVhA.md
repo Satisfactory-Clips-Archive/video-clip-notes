@@ -20,4 +20,4 @@ https://www.youtube.com/watch?v=oMusY1HxVhA
 
 ### Transcript
 
-> uh do you recommend the game no i don't i don't i recommend valheim that's also an early access you guys just insane i recommend goat simulator that's that's a classic classy game or the uh the sequel to satisfactory the tower defense sequel called sanctum 2. yeah
+> do you recommend the game no i don't i don't i recommend valheim that's also an early access you guys just insane i recommend goat simulator that's that's a classic classy game or the, the sequel to satisfactory the tower defense sequel called sanctum 2. yeah

@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=UCVNQgitHIE
 
 ### Transcript
 
-> um we've got people some people asking for like suggestions like can we get this can we have this can we get this the best thing to do is uh questions.satisfactorygame.com leave your suggestions there or look for other people who have uh maybe they've already posted it and you can upvote what is there it's the best way to do it uh yeah
+> we've got people some people asking for like suggestions like can we get this can we have this can we get this the best thing to do is, questions.satisfactorygame.com leave your suggestions there or look for other people who have, maybe they've already posted it and you can upvote what is there it's the best way to do it, yeah

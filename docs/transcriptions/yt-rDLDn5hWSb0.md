@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=rDLDn5hWSb0
 
 ### Transcript
 
-> zoop is such a good feature name that's why we're patting pending it it's uh it costs five cents every time you want to use it yep all right only tier three subs can use it we're going to introduce an in-game currency too like when you're using it in-game every single time and if you want to be able to use it more you have to buy in-game currencies and uh sucks to be you guys because it's a pretty neat feature
+> zoop is such a good feature name that's why we're patting pending it it's, it costs five cents every time you want to use it yep all right only tier three subs can use it we're going to introduce an in-game currency too like when you're using it in-game every single time and if you want to be able to use it more you have to buy in-game currencies and, sucks to be you guys because it's a pretty neat feature

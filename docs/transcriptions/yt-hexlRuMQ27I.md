@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=hexlRuMQ27I
 
 ### Transcript
 
-> uh what is your most asked question dedicated service yeah probably that or when is when is update x coming out but dedicated service i think is the one that beats it yeah
+> what is your most asked question dedicated service yeah probably that or when is when is update x coming out but dedicated service i think is the one that beats it yeah

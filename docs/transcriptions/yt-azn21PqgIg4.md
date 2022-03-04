@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=azn21PqgIg4
 
 ### Transcript
 
-> with my performance in this and to celebrate you need to take a shoe i need to do a shoe someone has redeemed chewie okay another chewy shoe you guys is like kind of like an i i think it's an australian term i am australian by the way outside of australia yeah and it's where you take a shot out of a shoe this shoe i hardly wear people like ooh that's gross i've worn like this shoe like two times so uh but i've taken way more shots out of it it's a shot shoe shoe issue but can you say infomarcion just threw up in my mouth nice perfect this is the content you all wanted oh what what's happening with the beanies
+> with my performance in this and to celebrate you need to take a shoe i need to do a shoe someone has redeemed chewie okay another chewy shoe you guys is like kind of like an i i think it's an australian term i am australian by the way outside of australia yeah and it's where you take a shot out of a shoe this shoe i hardly wear people like ooh that's gross i've worn like this shoe like two times so, but i've taken way more shots out of it it's a shot shoe shoe issue but can you say infomarcion just threw up in my mouth nice perfect this is the content you all wanted oh what what's happening with the beanies
 >
 > [Music]
 >

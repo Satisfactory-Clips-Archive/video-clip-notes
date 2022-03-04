@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=05RIKX2c9o0
 
 ### Transcript
 
-> oh plans for small hub storage container uh you mean the the the thing we have in the hub or a small hub storage container we have one in the hub right now or i don't get it
+> oh plans for small hub storage container, you mean the the the thing we have in the hub or a small hub storage container we have one in the hub right now or i don't get it

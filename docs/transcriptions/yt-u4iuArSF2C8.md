@@ -36,4 +36,4 @@ https://www.youtube.com/watch?v=u4iuArSF2C8
 
 ### Transcript
 
-> uh will we get a second body slot we know a lot of people want like a second body slot or something to do with that so it's something that we have looked into maybe we will maybe we won't
+> will we get a second body slot we know a lot of people want like a second body slot or something to do with that so it's something that we have looked into maybe we will maybe we won't

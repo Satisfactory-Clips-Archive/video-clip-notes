@@ -23,4 +23,4 @@ https://www.youtube.com/watch?v=bzRcbP7bZLs
 
 ### Transcript
 
-> any plans to add more map functionality like the calculator website we don't really want to add the the kind of functionality that the calculator website has that stuff's like honestly just game breaking basically um it's great that it exists you know as a tool for people to use if they wish to use it but i don't think that needs to be part of the game personally and i don't think i don't think the others will feel the same way or i think the others will feel the same way true story
+> any plans to add more map functionality like the calculator website we don't really want to add the the kind of functionality that the calculator website has that stuff's like honestly just game breaking basically, it's great that it exists you know as a tool for people to use if they wish to use it but i don't think that needs to be part of the game personally and i don't think i don't think the others will feel the same way or i think the others will feel the same way true story

@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=MKMFfY4DZlg
 
 ### Transcript
 
-> would it be possible to craft power shards using the particle etc make it uh energy intensified that i think that that sounds like an interesting idea yo qa cite that make that suggestion gemma that's like it's like a fun idea like when you're that late game just make your own shards overclock everything if you can you know power it it's more efficient to build more but
+> would it be possible to craft power shards using the particle etc make it, energy intensified that i think that that sounds like an interesting idea yo qa cite that make that suggestion gemma that's like it's like a fun idea like when you're that late game just make your own shards overclock everything if you can you know power it it's more efficient to build more but

@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [August 31st, 2
 
 ### Transcript
 
-> what's the next release plan dates uh we don't have any dates yet we're hoping for update 5 to launch in fall that's the only update we have for that
+> what's the next release plan dates, we don't have any dates yet we're hoping for update 5 to launch in fall that's the only update we have for that

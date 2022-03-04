@@ -22,4 +22,4 @@ This question was possibly duplicated with a more recent answer: [October 12th, 
 
 ### Transcript
 
-> how do you get hard drives that require holiday event specific items so there aren't actually that require holiday event specific items but there were items that are going to be future items that haven't really been released yet yeah that we did give out during a holiday event right so that's probably what you're talking about um but you know they're not really holiday event specific items if you if you weren't around for the holiday if you didn't get it you just have to wait for the items to come out yes that's all
+> how do you get hard drives that require holiday event specific items so there aren't actually that require holiday event specific items but there were items that are going to be future items that haven't really been released yet yeah that we did give out during a holiday event right so that's probably what you're talking about, but you know they're not really holiday event specific items if you if you weren't around for the holiday if you didn't get it you just have to wait for the items to come out yes that's all

@@ -20,7 +20,7 @@ https://www.youtube.com/watch?v=5x5XXOoj9Xw
 
 ### Transcript
 
-> yeah will this question be missed is zipline travel limited to distances between two power poles easy um what was that question about the ziplines
+> yeah will this question be missed is zipline travel limited to distances between two power poles easy, what was that question about the ziplines
 >
 > [Music]
 >

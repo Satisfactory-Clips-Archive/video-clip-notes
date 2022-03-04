@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [September 14th
 
 ### Transcript
 
-> let's see here train remake is also something that we have started working on but we don't know exactly when that's going to happen release wise um probably further down the line
+> let's see here train remake is also something that we have started working on but we don't know exactly when that's going to happen release wise, probably further down the line

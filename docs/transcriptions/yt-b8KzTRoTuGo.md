@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=b8KzTRoTuGo
 
 ### Transcript
 
-> uh pizza out in america's garbage like microwave pizza i i concur but pizza hut in in sweden and maybe europe i don't remember maybe it's good in europe as well but like pizza in sweden is legitness it's really good
+> pizza out in america's garbage like microwave pizza i i concur but pizza hut in in sweden and maybe europe i don't remember maybe it's good in europe as well but like pizza in sweden is legitness it's really good

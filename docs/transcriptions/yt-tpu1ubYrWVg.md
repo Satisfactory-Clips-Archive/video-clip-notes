@@ -33,4 +33,4 @@ https://www.youtube.com/watch?v=tpu1ubYrWVg
 
 ### Transcript
 
-> any plans for new biome the only thing i know is that we have plans for a uh a new biome i don't know what the new biome is actually i was actually we talked about this me and jace don't know what the new biome is we only know that it's like supposed to replace spider coast or something and me and me and jace were offered by hannah do you guys want to see the new biome and we rejected that no i don't wanna know i wanted to be in a surprise when the game comes out
+> any plans for new biome the only thing i know is that we have plans for a, a new biome i don't know what the new biome is actually i was actually we talked about this me and jace don't know what the new biome is we only know that it's like supposed to replace spider coast or something and me and me and jace were offered by hannah do you guys want to see the new biome and we rejected that no i don't wanna know i wanted to be in a surprise when the game comes out

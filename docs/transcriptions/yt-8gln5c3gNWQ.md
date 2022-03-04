@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=8gln5c3gNWQ
 
 ### Transcript
 
-> under just waiting for jase to bring out his inner steve irwin that's already happened on uh update three patch notes video check that out there oh yeah yeah that bit is so funny yeah i was thinking of adding like a reprice of that bit in the in the this one but we didn't do it wow bad band how dare you yeah yeah rewatch that i'm gonna rewatch that actually myself because i feel like a decade ago since we did that
+> under just waiting for jase to bring out his inner steve irwin that's already happened on, update three patch notes video check that out there oh yeah yeah that bit is so funny yeah i was thinking of adding like a reprice of that bit in the in the this one but we didn't do it wow bad band how dare you yeah yeah rewatch that i'm gonna rewatch that actually myself because i feel like a decade ago since we did that

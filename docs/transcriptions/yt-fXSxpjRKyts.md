@@ -20,4 +20,4 @@ https://www.youtube.com/watch?v=fXSxpjRKyts
 
 ### Transcript
 
-> burger or pizza today snook what's it gonna be always burger a whisper every tuesday huh yeah i think uh i'm gonna be doing some i'm just gonna make a sandwich i think um sandwiches are burgers yeah dude be like that
+> burger or pizza today snook what's it gonna be always burger a whisper every tuesday huh yeah i think, i'm gonna be doing some i'm just gonna make a sandwich i think, sandwiches are burgers yeah dude be like that

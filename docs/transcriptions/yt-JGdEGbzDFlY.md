@@ -22,7 +22,7 @@ https://www.youtube.com/watch?v=JGdEGbzDFlY
 >
 > [Laughter]
 >
-> the wiki's got some mad on it it's got some bad uh my favorite page on the wiki is the uh the the bean the space whale thing
+> the wiki's got some mad on it it's got some bad, my favorite page on the wiki is the, the the bean the space whale thing
 >
 > [Music]
 >

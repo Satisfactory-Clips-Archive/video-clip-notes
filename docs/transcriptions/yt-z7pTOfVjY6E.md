@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=z7pTOfVjY6E
 
 ### Transcript
 
-> does the calculations incorporate different types of fuel okay so this is a good point as well um the calculations for fuel required in the truck stations only calculate based on the fuel that's being put into the truck station yeah so if you're putting like coal in it does all its calculations assuming that you're putting coal into the vehicles
+> does the calculations incorporate different types of fuel okay so this is a good point as well, the calculations for fuel required in the truck stations only calculate based on the fuel that's being put into the truck station yeah so if you're putting like coal in it does all its calculations assuming that you're putting coal into the vehicles

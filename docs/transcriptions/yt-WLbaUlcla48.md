@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [November 2nd, 
 
 ### Transcript
 
-> uh you got an idea right now solar energy a lot of people have asked about renewable energies and solar energy and for the most part we don't feel like we want it in the game essentially we've answered that question a bunch of times but yeah basically basically it seems like it's not going to be a thing
+> you got an idea right now solar energy a lot of people have asked about renewable energies and solar energy and for the most part we don't feel like we want it in the game essentially we've answered that question a bunch of times but yeah basically basically it seems like it's not going to be a thing

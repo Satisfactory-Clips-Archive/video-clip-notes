@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [February 8th, 
 
 ### Transcript
 
-> can we have food making in the game be great to put some of the annoying creatures in the mincer uh i don't think we have plans for that uh but that sounds dope uh albeit you can't make fuel out of the the the like the enemy the stuff the enemies leaves around so i guess you kind of are already um so yeah
+> can we have food making in the game be great to put some of the annoying creatures in the mincer, i don't think we have plans for that, but that sounds dope, albeit you can't make fuel out of the the the like the enemy the stuff the enemies leaves around so i guess you kind of are already, so yeah

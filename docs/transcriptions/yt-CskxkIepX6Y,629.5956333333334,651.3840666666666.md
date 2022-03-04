@@ -20,4 +20,4 @@ https://youtube.com/clip/Ugkxlr6dgXQK6J-r_W8-8IknvcYyruSSX7py
 
 ### Transcript
 
-> factoid about the past signals one last property of them is that they can be chained okay so this is kind of an advanced thing i'm not really even going to what situations need chained path signals it's it's more of just kind of like an advanced thing i'm just putting it out here in this video so that you know that this is the thing that can be done with pass signals eventually you might find the need to do this uh and when you do you know that you can okay so that's enough about the the two
+> factoid about the past signals one last property of them is that they can be chained okay so this is kind of an advanced thing i'm not really even going to what situations need chained path signals it's it's more of just kind of like an advanced thing i'm just putting it out here in this video so that you know that this is the thing that can be done with pass signals eventually you might find the need to do this, and when you do you know that you can okay so that's enough about the the two

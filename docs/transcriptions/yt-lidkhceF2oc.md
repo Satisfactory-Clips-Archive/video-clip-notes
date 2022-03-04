@@ -38,4 +38,4 @@ https://www.youtube.com/watch?v=lidkhceF2oc
 
 ### Transcript
 
-> the only thing oh i found new blueprints i can yeah exactly chad stop i'm gonna blueprints stop i like how you like chat stop and literally no one is saying that i know they're saying it i know they're not writing they're all thinking that they're all thinking they're being too kind they're being too kind to us that's all uh very good uh the one the one occasion where it might have would have been good yes you know it is rare but suddenly so sometimes the occasion happens okay but it's not it's too rare guys it's
+> the only thing oh i found new blueprints i can yeah exactly chad stop i'm gonna blueprints stop i like how you like chat stop and literally no one is saying that i know they're saying it i know they're not writing they're all thinking that they're all thinking they're being too kind they're being too kind to us that's all, very good, the one the one occasion where it might have would have been good yes you know it is rare but suddenly so sometimes the occasion happens okay but it's not it's too rare guys it's

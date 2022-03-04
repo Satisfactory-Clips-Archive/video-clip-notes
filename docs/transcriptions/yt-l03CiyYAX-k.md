@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=l03CiyYAX-k
 
 ### Transcript
 
-> uh let's just take a couple more does the wall uh power connectors now tell how many connections are connected to them what how many power connectors do they tell how many connections are connected to them did they not before yeah no they've obviously done that okay
+> let's just take a couple more does the wall, power connectors now tell how many connections are connected to them what how many power connectors do they tell how many connections are connected to them did they not before yeah no they've obviously done that okay

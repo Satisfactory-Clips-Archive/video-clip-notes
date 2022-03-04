@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [September 14th
 
 ### Transcript
 
-> collision same thing uh not 1.0 train conditions going to come in one of the updates i'm not sure when at what update but we are planning to add train collision and train signaling system to the game at some point in one of the coming updates but if that's update 5 or update 6 or whatever
+> collision same thing, not 1.0 train conditions going to come in one of the updates i'm not sure when at what update but we are planning to add train collision and train signaling system to the game at some point in one of the coming updates but if that's update 5 or update 6 or whatever

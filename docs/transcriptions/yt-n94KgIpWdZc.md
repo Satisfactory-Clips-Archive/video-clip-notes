@@ -30,4 +30,4 @@ https://www.youtube.com/watch?v=n94KgIpWdZc
 
 ### Transcript
 
-> this this wiki page is really interesting actually um sam ingot by the way oh apparently unlocked in tier nine who knew not me that's news to me yep wait how is how can or be unlocked in tier nine when it's like out there and no no ingot oh ingot oh [ __ ] sam ingest interesting wow heat resistant suit you guys coming soon what is that rifle mark ii interesting foundry mark ii oh that's not gonna happen can tell you that much mark has been on the stream denying pretty much all mark ii factory buildings hater hater yeah hater
+> this this wiki page is really interesting actually, sam ingot by the way oh apparently unlocked in tier nine who knew not me that's news to me yep wait how is how can or be unlocked in tier nine when it's like out there and no no ingot oh ingot oh [ __ ] sam ingest interesting wow heat resistant suit you guys coming soon what is that rifle mark ii interesting foundry mark ii oh that's not gonna happen can tell you that much mark has been on the stream denying pretty much all mark ii factory buildings hater hater yeah hater

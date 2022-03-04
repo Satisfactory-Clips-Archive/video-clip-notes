@@ -27,4 +27,4 @@ https://www.youtube.com/watch?v=1YsAHChZmrs
 
 ### Transcript
 
-> doesn't look like golf doesn't look like golf no uh it's very difficult to make golf clubs out of yes uh god damn it chad is only talking about golf
+> doesn't look like golf doesn't look like golf no, it's very difficult to make golf clubs out of yes, god damn it chad is only talking about golf

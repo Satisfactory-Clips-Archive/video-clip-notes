@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=NmBjitrYGZk
 
 ### Transcript
 
-> just straight up lars telling it to smile whose idea was that oh that was laura's idea that was my idea it was a joke all right lars wasn't that comfortable with that but uh i was like look it's joke people will give us a joke it's just a joke i feel like people got the joke i feel like i feel like people got the joke yeah yeah it's amazing though like like like i like i'm not [ __ ] kidding people like like like like embrace her haven't made us do or say anything else no just
+> just straight up lars telling it to smile whose idea was that oh that was laura's idea that was my idea it was a joke all right lars wasn't that comfortable with that but, i was like look it's joke people will give us a joke it's just a joke i feel like people got the joke i feel like i feel like people got the joke yeah yeah it's amazing though like like like i like i'm not [ __ ] kidding people like like like like embrace her haven't made us do or say anything else no just

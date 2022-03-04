@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=UMBKLIKZ610
 
 ### Transcript
 
-> uh there is xmas event thing you need for one of the crash sites yes that's true but it will also be an actual item in the game eventually so if you missed the uh super position oscillator from the christmas event uh you're gonna have to wait till it gets released in the base game but those who played during christmas they get uh they get that little surprise
+> there is xmas event thing you need for one of the crash sites yes that's true but it will also be an actual item in the game eventually so if you missed the, super position oscillator from the christmas event, you're gonna have to wait till it gets released in the base game but those who played during christmas they get, they get that little surprise

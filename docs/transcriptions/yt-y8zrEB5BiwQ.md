@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [January 25th, 
 
 ### Transcript
 
-> uh will we use samurai for something yep one day one day samuel will be used for something sam
+> will we use samurai for something yep one day one day samuel will be used for something sam

@@ -20,4 +20,4 @@ This question was possibly duplicated with a more recent answer: [October 5th, 2
 
 ### Transcript
 
-> uh will color gun work on vehicles in the future yes it i think so wait maybe i shouldn't say that because i actually am not certain but i think so i'm not water coming you guys i feel regret oh yeah it's gonna no it's fine jase don't just go for it live your dreams
+> will color gun work on vehicles in the future yes it i think so wait maybe i shouldn't say that because i actually am not certain but i think so i'm not water coming you guys i feel regret oh yeah it's gonna no it's fine jase don't just go for it live your dreams

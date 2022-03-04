@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=OI6OAux6VrM
 
 ### Transcript
 
-> yes uh all right what's next anyway is that it was state of depth i don't care ah i wish you could say that it's a straight face
+> yes, all right what's next anyway is that it was state of depth i don't care ah i wish you could say that it's a straight face

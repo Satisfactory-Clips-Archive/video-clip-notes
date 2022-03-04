@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=LYeoi1sEefU
 
 ### Transcript
 
-> so yeah miss the color gun oh i'm so sorry to hear that it's dead dead in the water it's dead it's just dead yeah start grieving get help honestly it's so much better with the customizer though um imo
+> so yeah miss the color gun oh i'm so sorry to hear that it's dead dead in the water it's dead it's just dead yeah start grieving get help honestly it's so much better with the customizer though, imo

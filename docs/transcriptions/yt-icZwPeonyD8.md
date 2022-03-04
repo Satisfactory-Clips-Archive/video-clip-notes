@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: March 2nd, 2021
 
 ### Transcript
 
-> have them well you two handle community streams of valham too we don't we don't work on valheim like at all so we we work for coffee stain studios uh iron gate studios developed valheim coffee stain publishing published valheim uh so we don't work on valhalla
+> have them well you two handle community streams of valham too we don't we don't work on valheim like at all so we we work for coffee stain studios, iron gate studios developed valheim coffee stain publishing published valheim, so we don't work on valhalla

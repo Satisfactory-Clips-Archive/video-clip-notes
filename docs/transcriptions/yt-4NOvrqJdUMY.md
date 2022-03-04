@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [August 31st, 2
 
 ### Transcript
 
-> what do you think i put out updates for the story uh release of 1.0 so the very last update to the game
+> what do you think i put out updates for the story, release of 1.0 so the very last update to the game

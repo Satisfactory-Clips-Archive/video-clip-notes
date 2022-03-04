@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [June 22nd, 202
 
 ### Transcript
 
-> will ben's water system be included uh i can't remember if it's going to be in this update or not it's going to be with the next world update right yeah or is that not i'm not sure who knows when that will be exactly it may be with update five it may be before might be after i don't have to find out you guys
+> will ben's water system be included, i can't remember if it's going to be in this update or not it's going to be with the next world update right yeah or is that not i'm not sure who knows when that will be exactly it may be with update five it may be before might be after i don't have to find out you guys

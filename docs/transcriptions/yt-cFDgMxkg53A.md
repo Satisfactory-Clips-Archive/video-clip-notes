@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [December 14th,
 
 ### Transcript
 
-> kfc console that's definitely happening everything i said about a console goes out the window when we talk about the kfc console okay that's definitely happening i know we said we're going to release an oya but apparently oya isn't the anymore man the times we live in uh kfc console is apparently the way to go
+> kfc console that's definitely happening everything i said about a console goes out the window when we talk about the kfc console okay that's definitely happening i know we said we're going to release an oya but apparently oya isn't the anymore man the times we live in, kfc console is apparently the way to go

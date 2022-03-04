@@ -20,4 +20,4 @@ This question was possibly duplicated with a more recent answer: [September 14th
 
 ### Transcript
 
-> are there going to be changes to recipes like there was an update for uh so we are planning on talking about potential changes to recipes later in a few in a few weeks so yeah we will talk about that at some point yep yep
+> are there going to be changes to recipes like there was an update for, so we are planning on talking about potential changes to recipes later in a few in a few weeks so yeah we will talk about that at some point yep yep

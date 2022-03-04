@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [February 8th, 
 
 ### Transcript
 
-> uh farm we'll be able to farm or grow food that's a great idea it's something we've thought about a lot so it might be a thing in the future
+> farm we'll be able to farm or grow food that's a great idea it's something we've thought about a lot so it might be a thing in the future

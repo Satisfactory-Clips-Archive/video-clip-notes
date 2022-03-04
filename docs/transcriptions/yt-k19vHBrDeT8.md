@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=k19vHBrDeT8
 
 ### Transcript
 
-> can't how's this okay so uh johnny pope says mom can we have smart no we have smart at home smart at home zoo yeah that kind of smart mod at home isn't it yeah yeah it kind of is right actually true
+> can't how's this okay so, johnny pope says mom can we have smart no we have smart at home smart at home zoo yeah that kind of smart mod at home isn't it yeah yeah it kind of is right actually true

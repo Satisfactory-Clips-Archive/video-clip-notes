@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [February 8th, 
 
 ### Transcript
 
-> uh update that's pretty funny will it be creative mode most likely when we get to a point when uh we have alternate game modes we'll most likely have that
+> update that's pretty funny will it be creative mode most likely when we get to a point when, we have alternate game modes we'll most likely have that

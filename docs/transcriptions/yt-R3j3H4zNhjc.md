@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=R3j3H4zNhjc
 
 ### Transcript
 
-> and uh do we have any big updates snoot do we have any big updates about update five boy howdy do we ever uh no not really well not not that we can communicate publicly yet because it's still a bit too early it's it's too soon to reveal it oh hey sarah it's too soon to reveal everything yet but we are working on update 5. update 5 is like on the horizon for us so to speak
+> and, do we have any big updates snoot do we have any big updates about update five boy howdy do we ever, no not really well not not that we can communicate publicly yet because it's still a bit too early it's it's too soon to reveal it oh hey sarah it's too soon to reveal everything yet but we are working on update 5. update 5 is like on the horizon for us so to speak

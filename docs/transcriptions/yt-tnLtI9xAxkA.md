@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=tnLtI9xAxkA
 
 ### Transcript
 
-> increase the timer by default that's not a good idea because um because then it feels like the game is crashed and then people close out whereas they could connect it that's why we don't want to do that
+> increase the timer by default that's not a good idea because, because then it feels like the game is crashed and then people close out whereas they could connect it that's why we don't want to do that

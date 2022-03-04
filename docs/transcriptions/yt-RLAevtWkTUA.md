@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=RLAevtWkTUA
 
 ### Transcript
 
-> uh did jace ever finish refactoring the attachment system i did did you um yeah yeah years ago that's sick
+> did jace ever finish refactoring the attachment system i did did you, yeah yeah years ago that's sick

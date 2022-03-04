@@ -16,4 +16,4 @@ https://youtube.com/clip/Ugkxi7UT-Gx9o9u3BFi1Ibl7cy8iBJBql0L4
 
 ### Transcript
 
-> it'll be seasons new um think I think
+> it'll be seasons new, think I think

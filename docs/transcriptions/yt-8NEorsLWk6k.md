@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [December 14th,
 
 ### Transcript
 
-> uh how about making crash sites deconstructable after looting this is something that we are aware of uh and uh we don't know same thing we don't know exactly when we're gonna fix this but it's something that we're gonna fix at some point uh either with like you being like put a flag up or something or remove it from the source scanner or stuff like that but uh we're gonna do some some ways so that you like don't run into the same hard drive or crash site over and over again
+> how about making crash sites deconstructable after looting this is something that we are aware of, and, we don't know same thing we don't know exactly when we're gonna fix this but it's something that we're gonna fix at some point, either with like you being like put a flag up or something or remove it from the source scanner or stuff like that but, we're gonna do some some ways so that you like don't run into the same hard drive or crash site over and over again

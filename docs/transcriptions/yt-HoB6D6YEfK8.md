@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=HoB6D6YEfK8
 
 ### Transcript
 
-> that's one of my favorite things you know like uh i did the kirby art i don't know if you guys saw on twitter you better [ __ ] seen it i don't know if i'm gonna cut you pretty good there's actually more kirby art actually that uh has yet to be released i might still release it maybe not but i don't know if you guys saw it um i'll put a link follow us on twitter if you haven't already check the link check the link i don't know if you want to bring it up on stream that might be good i don't know [ __ ] around though that's sweet yeah that's nintendo shut down yeah actually good point don't bring it up on stream but um yeah so beautiful kirby art there's there's more being held hostage you just need to uh
+> that's one of my favorite things you know like, i did the kirby art i don't know if you guys saw on twitter you better [ __ ] seen it i don't know if i'm gonna cut you pretty good there's actually more kirby art actually that, has yet to be released i might still release it maybe not but i don't know if you guys saw it, i'll put a link follow us on twitter if you haven't already check the link check the link i don't know if you want to bring it up on stream that might be good i don't know [ __ ] around though that's sweet yeah that's nintendo shut down yeah actually good point don't bring it up on stream but, yeah so beautiful kirby art there's there's more being held hostage you just need to
 >
 > [Music]
 >

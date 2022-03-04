@@ -16,7 +16,7 @@ This question was possibly duplicated with a more recent answer: [July 16th, 202
 
 ### Transcript
 
-> um what's the plan for mod support we are going to have official mod support at some point we have unofficial mod support currently on ea and they're working really hard together on experimental
+> what's the plan for mod support we are going to have official mod support at some point we have unofficial mod support currently on ea and they're working really hard together on experimental
 >
 > [Music]
 >

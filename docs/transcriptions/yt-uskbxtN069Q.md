@@ -20,4 +20,4 @@ This question was possibly duplicated with a more recent answer: [May 4th, 2021 
 
 ### Transcript
 
-> can we sleep through nights no you can't um in real in rely for a game in my case it doesn't matter
+> can we sleep through nights no you can't, in real in rely for a game in my case it doesn't matter

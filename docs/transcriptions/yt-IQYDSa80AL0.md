@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [August 31st, 2
 
 ### Transcript
 
-> uh somebody asked do you ever lurk on satisfactory streams or watch vids hell yeah we do i watch the stream almost every day uh i'll lurk and and uh sneak around so if you've stream satisfactory there's a high chance i've probably been there at some point yeah
+> somebody asked do you ever lurk on satisfactory streams or watch vids hell yeah we do i watch the stream almost every day, i'll lurk and and, sneak around so if you've stream satisfactory there's a high chance i've probably been there at some point yeah

@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=XrHLYw27VyE
 
 ### Transcript
 
-> uh game looks blurry on ultra wide resolution despite indicating it's running native um but then on the qsa
+> game looks blurry on ultra wide resolution despite indicating it's running native, but then on the qsa

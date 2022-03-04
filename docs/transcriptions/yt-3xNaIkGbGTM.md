@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=3xNaIkGbGTM
 
 ### Transcript
 
-> um will you fix buildings hitboxes like the space elevator i think so there are a few buildings that still have kind of weird collision boxes um but i don't know how prioritized that is currently
+> will you fix buildings hitboxes like the space elevator i think so there are a few buildings that still have kind of weird collision boxes, but i don't know how prioritized that is currently

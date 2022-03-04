@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=QL_YLSmR5pc
 
 ### Transcript
 
-> you do free updates after release pay dlc or just move on i don't know i don't think we do uh we have ideas as like oh maybe this could be a dlc or maybe we'll do this or whatever but i don't think we've committed to anything it's it's a bridge will burn when we get to it we'll burn that bridge when we cross it okay
+> you do free updates after release pay dlc or just move on i don't know i don't think we do, we have ideas as like oh maybe this could be a dlc or maybe we'll do this or whatever but i don't think we've committed to anything it's it's a bridge will burn when we get to it we'll burn that bridge when we cross it okay

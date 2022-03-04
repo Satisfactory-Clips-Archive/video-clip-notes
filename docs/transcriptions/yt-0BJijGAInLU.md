@@ -23,4 +23,4 @@ https://www.youtube.com/watch?v=0BJijGAInLU
 
 ### Transcript
 
-> so somebody asked if it's possible to play uh steam multiplayer with epic yes that is possible uh with two ways either you can hook up your your epic account so that your epic friends show up in your steam version or you can use session ids with which are like if you go in the game you host a multiplayer session you can share like a code you can send that to wherever and when they join they can join that code so yes it's possible to cross-play your is
+> so somebody asked if it's possible to play, steam multiplayer with epic yes that is possible, with two ways either you can hook up your your epic account so that your epic friends show up in your steam version or you can use session ids with which are like if you go in the game you host a multiplayer session you can share like a code you can send that to wherever and when they join they can join that code so yes it's possible to cross-play your is

@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [February 8th, 
 
 ### Transcript
 
-> uh how many people work for saying i think it's 30 something you can go to our website and check it
+> how many people work for saying i think it's 30 something you can go to our website and check it

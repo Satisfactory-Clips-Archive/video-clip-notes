@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=LRUNHLC-E2M
 
 ### Transcript
 
-> so yes skatepark confirmed i mean you can pretty much build a skateboard already uh with the currents like we have half pipes one two three four exclamation mark that's nice absolute exclamation mark at the end uh
+> so yes skatepark confirmed i mean you can pretty much build a skateboard already, with the currents like we have half pipes one two three four exclamation mark that's nice absolute exclamation mark at the end

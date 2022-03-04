@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=n86j2h8dRtc
 
 ### Transcript
 
-> i'm not able to find the camera so the calendar isn't available yet you guys um the new fixmaster won't be like available until it's december 1st for you guys um so just bear that in mind but also we need to put out a patch uh for that to go live at all so even if it is december 1st for you right now it's not available yet but soon so and
+> i'm not able to find the camera so the calendar isn't available yet you guys, the new fixmaster won't be like available until it's december 1st for you guys, so just bear that in mind but also we need to put out a patch, for that to go live at all so even if it is december 1st for you right now it's not available yet but soon so and

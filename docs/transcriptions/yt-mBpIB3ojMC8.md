@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [February 15th,
 
 ### Transcript
 
-> uh one dollar toilet dlc it's coming you guys
+> one dollar toilet dlc it's coming you guys

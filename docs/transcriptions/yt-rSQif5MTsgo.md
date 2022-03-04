@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=rSQif5MTsgo
 
 ### Transcript
 
-> and so one thing just to sort of state about that like yes it's not sort of like told you like there's like there's like a a company right going on so like um behind the scenes and all of that is sort of like sort of drip fed to you as you play the game but the game will have like a full-on sort of like narrative system to it as well the game will be able to be finished at the moment that's not in uh the story's not in but eventually all of the uh the story all of that stuff will become uh apparent
+> and so one thing just to sort of state about that like yes it's not sort of like told you like there's like there's like a a company right going on so like, behind the scenes and all of that is sort of like sort of drip fed to you as you play the game but the game will have like a full-on sort of like narrative system to it as well the game will be able to be finished at the moment that's not in, the story's not in but eventually all of the, the story all of that stuff will become, apparent

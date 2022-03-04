@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=xjsa3kVm6Kc
 
 ### Transcript
 
-> you want to make a meat factory we have to make uh i want to make i want to make a food mod you know i was thinking like i wanted to uh i wanted to make like a fridge that you could put in uh the hub and uh you could store like biomass and stuff in there uh and then you cook little burgers that would be really fun cooking mod
+> you want to make a meat factory we have to make, i want to make i want to make a food mod you know i was thinking like i wanted to, i wanted to make like a fridge that you could put in, the hub and, you could store like biomass and stuff in there, and then you cook little burgers that would be really fun cooking mod

@@ -24,4 +24,4 @@ This question was possibly replaced with a more recent answer: [November 2nd, 20
 
 ### Transcript
 
-> um directx 12 support we tried to uh and uh didn't go so well um but it's not impossible we'll try again maybe in the future
+> directx 12 support we tried to, and, didn't go so well, but it's not impossible we'll try again maybe in the future

@@ -28,4 +28,4 @@ https://www.youtube.com/watch?v=_OosGOGi99M
 
 > [Music]
 >
-> what's all these stars that are getting oh is it any links yeah it's links oh the links are getting blocked no people are people are cursing right now they're like fix j's i want to say like a really vulgar word maine if you're able to find it feel free to share the link in chat so i can take a look um there are four fixed json now what was oh the it's the q a post gotcha gotcha yeah yeah yeah yeah
+> what's all these stars that are getting oh is it any links yeah it's links oh the links are getting blocked no people are people are cursing right now they're like fix j's i want to say like a really vulgar word maine if you're able to find it feel free to share the link in chat so i can take a look, there are four fixed json now what was oh the it's the q a post gotcha gotcha yeah yeah yeah yeah

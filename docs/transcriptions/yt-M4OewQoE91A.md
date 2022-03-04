@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=M4OewQoE91A
 
 ### Transcript
 
-> uh are we going to add bigger storage companies i don't know if you feel that we should though yeah i don't think we wish but yeah qa site but we also don't know
+> are we going to add bigger storage companies i don't know if you feel that we should though yeah i don't think we wish but yeah qa site but we also don't know

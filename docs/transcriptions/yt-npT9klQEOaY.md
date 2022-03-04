@@ -14,8 +14,8 @@ https://www.youtube.com/watch?v=npT9klQEOaY
 
 ### Transcript
 
-> anyway um what's with the golf it's the best feature that most people want in the game
+> anyway, what's with the golf it's the best feature that most people want in the game
 >
 > [Music]
 >
-> um yeah i know about that golf command i know
+>, yeah i know about that golf command i know

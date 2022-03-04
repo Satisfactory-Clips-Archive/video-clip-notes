@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=Ii-CZGy8-7A
 
 ### Transcript
 
-> so yeah what are the incentives to unlock tier 8 in terms of factory efficiency uh well i mean the incentive is that you can progress in the game i guess
+> so yeah what are the incentives to unlock tier 8 in terms of factory efficiency, well i mean the incentive is that you can progress in the game i guess
 >
 > [Music]
 >

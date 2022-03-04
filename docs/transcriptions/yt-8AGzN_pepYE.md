@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [April 20th, 20
 
 ### Transcript
 
-> uh will there be a larger storage power storage i don't know i don't think so um so yeah
+> will there be a larger storage power storage i don't know i don't think so, so yeah

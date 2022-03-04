@@ -20,4 +20,4 @@ https://www.youtube.com/watch?v=v-m1sbuYaqw
 
 ### Transcript
 
-> trailers for tractors um i don't think so i mean the tractors can already hold a bit i don't think we're i don't think there's any plans to add trailers to them also sounds like a physics nightmare oh yeah i was gonna say no thank you holy getting caught on all these little things getting like things stuck between and it's like doesn't know what to do but it has to be connected oh yeah it's gonna freak out yeah not a good time
+> trailers for tractors, i don't think so i mean the tractors can already hold a bit i don't think we're i don't think there's any plans to add trailers to them also sounds like a physics nightmare oh yeah i was gonna say no thank you holy getting caught on all these little things getting like things stuck between and it's like doesn't know what to do but it has to be connected oh yeah it's gonna freak out yeah not a good time

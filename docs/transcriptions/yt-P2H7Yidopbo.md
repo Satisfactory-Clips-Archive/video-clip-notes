@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [November 16th,
 
 ### Transcript
 
-> will there be a peaceful mode with no enemies yes there will be a peace mode mode uh without enemies that you can play at some point um don't know when that will make it in the game but it's something that we have planned to do
+> will there be a peaceful mode with no enemies yes there will be a peace mode mode, without enemies that you can play at some point, don't know when that will make it in the game but it's something that we have planned to do

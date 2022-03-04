@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [November 16th,
 
 ### Transcript
 
-> sure um and i see some questions about uh 1.0 we are still gonna we still have a few updates to the game before we feel like we're done with it and we feel like we've reached 1.0 um so there's still a few updates coming you guys before
+> sure, and i see some questions about, 1.0 we are still gonna we still have a few updates to the game before we feel like we're done with it and we feel like we've reached 1.0, so there's still a few updates coming you guys before

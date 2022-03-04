@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [February 22nd,
 
 ### Transcript
 
-> will there be rain in extreme weather and satisfactory maybe we've played around with weather in the past and we haven't really done anything more with it since but uh you know it might be a thing
+> will there be rain in extreme weather and satisfactory maybe we've played around with weather in the past and we haven't really done anything more with it since but, you know it might be a thing

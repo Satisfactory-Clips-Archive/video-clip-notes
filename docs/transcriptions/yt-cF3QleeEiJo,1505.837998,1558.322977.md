@@ -18,4 +18,4 @@ https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1505&end=1559
 >
 > [Music]
 >
-> i have enough time to eat right um cool dedicated service so uh this is for the one that for the people that hate people that like eat on mike and [ __ ] this one goes right for you munch toast confirmed i was gonna do like an anime thing like a kid running into the stream like oh no i'm ready for school or something like that but this is actually my lunch i'm not kidding um i had a window for lunch i didn't take it um thanks i hated it awesome so dedicated servers a question that has
+> i have enough time to eat right, cool dedicated service so, this is for the one that for the people that hate people that like eat on mike and [ __ ] this one goes right for you munch toast confirmed i was gonna do like an anime thing like a kid running into the stream like oh no i'm ready for school or something like that but this is actually my lunch i'm not kidding, i had a window for lunch i didn't take it, thanks i hated it awesome so dedicated servers a question that has

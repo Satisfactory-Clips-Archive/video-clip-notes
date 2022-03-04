@@ -22,4 +22,4 @@ https://www.youtube.com/watch?v=4kSdfzqeyB4
 
 ### Transcript
 
-> what am i getting a story mode that's happening at one point oh so that's still a bit 1.0 snitch i have no freaking clue we've written to 2022 on our steam page but uh i don't know how all the all the plans kind of point towards 2022 but uh you never know yeah you never know
+> what am i getting a story mode that's happening at one point oh so that's still a bit 1.0 snitch i have no freaking clue we've written to 2022 on our steam page but, i don't know how all the all the plans kind of point towards 2022 but, you never know yeah you never know

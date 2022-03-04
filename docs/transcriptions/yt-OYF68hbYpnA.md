@@ -18,8 +18,8 @@ https://www.youtube.com/watch?v=OYF68hbYpnA
 
 ### Transcript
 
-> are the new walls bought from the awesome shop uh
+> are the new walls bought from the awesome shop
 >
 > [Music]
 >
-> new walls yeah um yes they yeah yeah yeah the the only wall that you won't get from the awesome shop is the one meter one because that one you'll get by default when you get the walls like the wall regular wall so uh that's the only one that you don't need to purchase in the auction shop ash's shop okay every single ash is
+> new walls yeah, yes they yeah yeah yeah the the only wall that you won't get from the awesome shop is the one meter one because that one you'll get by default when you get the walls like the wall regular wall so, that's the only one that you don't need to purchase in the auction shop ash's shop okay every single ash is

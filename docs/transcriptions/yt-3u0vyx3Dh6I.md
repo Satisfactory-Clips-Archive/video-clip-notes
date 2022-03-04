@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=3u0vyx3Dh6I
 
 ### Transcript
 
-> will enemies ever become more of a threat yo you guys need to sit down in the community um and like the people that like want more enemies and like harder enemies and like the people that like think that enemies are too hard and like ruining the game you guys need to like kiss or something because like this it's so split it's amazing
+> will enemies ever become more of a threat yo you guys need to sit down in the community, and like the people that like want more enemies and like harder enemies and like the people that like think that enemies are too hard and like ruining the game you guys need to like kiss or something because like this it's so split it's amazing

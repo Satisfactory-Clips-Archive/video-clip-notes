@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=81SkOcqO9Is
 
 ### Transcript
 
-> does jay speak with uh speak swedish with an australian accent apparently i do uh you know tim tim's like uh he has like a family member or whatever who is from australia and so he can hear the australian accent when someone speaks uh swedish and so when i speak swedish around tim he's like oh you have the australian accent when you speak swedish
+> does jay speak with, speak swedish with an australian accent apparently i do, you know tim tim's like, he has like a family member or whatever who is from australia and so he can hear the australian accent when someone speaks, swedish and so when i speak swedish around tim he's like oh you have the australian accent when you speak swedish

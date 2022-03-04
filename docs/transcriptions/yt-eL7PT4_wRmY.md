@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [October 5th, 2
 
 ### Transcript
 
-> when can we go to space uh never not in our game at least
+> when can we go to space, never not in our game at least

@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=SZI2qdSlTFc
 
 ### Transcript
 
-> what's the theme of the stream it's just uh we do this weekly so we talk about the the game and development on the game and answer any questions you guys have
+> what's the theme of the stream it's just, we do this weekly so we talk about the the game and development on the game and answer any questions you guys have

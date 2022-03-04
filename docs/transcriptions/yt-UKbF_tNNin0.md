@@ -14,6 +14,6 @@ https://www.youtube.com/watch?v=UKbF_tNNin0
 
 ### Transcript
 
-> bag of money yeah um patch notes patch notes will be released um last when the update goes out that'll that'll be like on reddit that'll be on uh discord that's usually where they go yeah
+> bag of money yeah, patch notes patch notes will be released, last when the update goes out that'll that'll be like on reddit that'll be on, discord that's usually where they go yeah
 >
 > [Music]

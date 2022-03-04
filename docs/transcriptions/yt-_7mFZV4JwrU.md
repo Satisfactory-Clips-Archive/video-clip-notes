@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=_7mFZV4JwrU
 
 ### Transcript
 
-> i'm up with your face no that's horrible yeah well you'll probably find it on fix it app fix it dot app is the uh the biggest mod site for first for satisfactory it's like uh you can get the mod manager there and install mods i don't know if that mod has been like updated to work with current versions of the game but i know that uh yeah but i know that it did exist once upon a time it was shared with me a bazillion times hey jace have you seen this yes
+> i'm up with your face no that's horrible yeah well you'll probably find it on fix it app fix it dot app is the, the biggest mod site for first for satisfactory it's like, you can get the mod manager there and install mods i don't know if that mod has been like updated to work with current versions of the game but i know that, yeah but i know that it did exist once upon a time it was shared with me a bazillion times hey jace have you seen this yes

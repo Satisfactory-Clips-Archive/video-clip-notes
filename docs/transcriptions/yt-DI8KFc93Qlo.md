@@ -20,4 +20,4 @@ https://www.youtube.com/watch?v=DI8KFc93Qlo
 
 ### Transcript
 
-> can you please reveal new items we just did actually you could see a lot of new items in the youtube video that we released last week and actually earlier in this stream as well if you go back and uh check this out it might mean parts yep like like parts on conveyor belts yep they might but they said items too late now
+> can you please reveal new items we just did actually you could see a lot of new items in the youtube video that we released last week and actually earlier in this stream as well if you go back and, check this out it might mean parts yep like like parts on conveyor belts yep they might but they said items too late now

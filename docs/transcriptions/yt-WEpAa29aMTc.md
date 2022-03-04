@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=WEpAa29aMTc
 
 ### Transcript
 
-> uh it seems like a russian community or they they really think that i look like this guy if i start getting images of being tagged in philip kirklarov's images we're done yeah we're shutting everything down
+> it seems like a russian community or they they really think that i look like this guy if i start getting images of being tagged in philip kirklarov's images we're done yeah we're shutting everything down

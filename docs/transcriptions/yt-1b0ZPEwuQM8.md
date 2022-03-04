@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=1b0ZPEwuQM8
 
 ### Transcript
 
-> uh do we need to start a new world to enjoy update five no you can you can keep playing on your own save files that you already have there might be some things that you need to like re-unlock because we moved how you unlock certain things but uh yeah you can definitely play on on your existence so far the opposite of leaking everything is releasing nothing that's that's what we do sometimes
+> do we need to start a new world to enjoy update five no you can you can keep playing on your own save files that you already have there might be some things that you need to like re-unlock because we moved how you unlock certain things but, yeah you can definitely play on on your existence so far the opposite of leaking everything is releasing nothing that's that's what we do sometimes

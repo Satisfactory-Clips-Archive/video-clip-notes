@@ -16,8 +16,8 @@ https://www.youtube.com/watch?v=tOkr62V4ks4
 
 ### Transcript
 
-> okay so what what can be zooped i think i had a freeze frame on this actually it was walls foundations ramps uh pillars i think i think beams um
+> okay so what what can be zooped i think i had a freeze frame on this actually it was walls foundations ramps, pillars i think i think beams
 >
 > [Music]
 >
-> uh ranch foundations walls roof pieces yeah yeah beams here yeah beams are here yeah yeah yeah there you go fences ranges pillars beams it's tricky for us because right now you can like in our build you can't soup everything but that's gonna be in the later build so when we've tested it out like sometimes it hasn't worked but it's work in progress that that's how it is um but yeah that's pretty much uh that
+>, ranch foundations walls roof pieces yeah yeah beams here yeah beams are here yeah yeah yeah there you go fences ranges pillars beams it's tricky for us because right now you can like in our build you can't soup everything but that's gonna be in the later build so when we've tested it out like sometimes it hasn't worked but it's work in progress that that's how it is, but yeah that's pretty much, that

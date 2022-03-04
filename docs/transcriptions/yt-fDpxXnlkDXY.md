@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [December 14th,
 
 ### Transcript
 
-> and it plans on a harvested vehicle that can be used to more easily or even automate getting uh mass for biofuel we have talked about this before where one idea we had for the vehicles uh was that we probably won't add more vehicles but maybe we'll add like attachments to vehicles so you'll have a proper forming them but like one attachment to like the tractor for instance it could be that you're like mowing down bushes or something um it's sort of like up in the air but we haven't made an illusion that's one thing
+> and it plans on a harvested vehicle that can be used to more easily or even automate getting, mass for biofuel we have talked about this before where one idea we had for the vehicles, was that we probably won't add more vehicles but maybe we'll add like attachments to vehicles so you'll have a proper forming them but like one attachment to like the tractor for instance it could be that you're like mowing down bushes or something, it's sort of like up in the air but we haven't made an illusion that's one thing

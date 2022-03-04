@@ -18,4 +18,4 @@ https://youtube.com/clip/UgkxN3HmnddArXfq0mErANSrEOxh3fihfGrp
 
 ### Transcript
 
-> in the long run another thing that has caused a bit of confusion is like what happens with vehicles and truck stations when you're driving them like they're not loading or unloading or it's kind of weird uh so we've now actually added the ability to press f when you're at a truck station to manually uh load or unload from a truck that you're driving of course the trucks do their things normally when they're automated but this is specifically when you're driving a tractor or something like that uh this is a big one this was just added a
+> in the long run another thing that has caused a bit of confusion is like what happens with vehicles and truck stations when you're driving them like they're not loading or unloading or it's kind of weird, so we've now actually added the ability to press f when you're at a truck station to manually, load or unload from a truck that you're driving of course the trucks do their things normally when they're automated but this is specifically when you're driving a tractor or something like that, this is a big one this was just added a

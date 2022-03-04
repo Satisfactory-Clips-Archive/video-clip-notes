@@ -18,4 +18,4 @@ https://youtube.com/clip/Ugkxn4E6P9A_dXA7_hcyEM6OcgCJHGzlR5d5
 
 ### Transcript
 
-> another thing that we've added is hypertube floor holes so in update 5 we've added conveyor lift holes uh and this is the same thing but for hyper tubes essentially so now you can pass it tubes through floors dedicated servers have been getting a bit of love as well
+> another thing that we've added is hypertube floor holes so in update 5 we've added conveyor lift holes, and this is the same thing but for hyper tubes essentially so now you can pass it tubes through floors dedicated servers have been getting a bit of love as well

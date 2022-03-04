@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=KHtDXnNFFaA
 
 ### Transcript
 
-> uh is this only about satisfactory yeah we pretty much only talk about satisfactory here
+> is this only about satisfactory yeah we pretty much only talk about satisfactory here

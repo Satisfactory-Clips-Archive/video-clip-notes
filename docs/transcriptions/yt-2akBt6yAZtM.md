@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=2akBt6yAZtM
 
 ### Transcript
 
-> um was it no 1000 at the beginning no no we said 1400 no yeah it's always been 1400
+> was it no 1000 at the beginning no no we said 1400 no yeah it's always been 1400

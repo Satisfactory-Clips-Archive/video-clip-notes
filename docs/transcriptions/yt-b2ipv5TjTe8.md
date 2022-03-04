@@ -26,4 +26,4 @@ https://www.youtube.com/watch?v=b2ipv5TjTe8
 
 ### Transcript
 
-> uh solar wind probably not gonna add solar yeah probably never
+> solar wind probably not gonna add solar yeah probably never

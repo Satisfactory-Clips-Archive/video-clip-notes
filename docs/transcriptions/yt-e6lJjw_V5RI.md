@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=e6lJjw_V5RI
 
 ### Transcript
 
-> will you guys make the hitboxes on things cleaner or is that more effort than it's worth uh it's more effort than it's worth in some cases we are working on making building tighter like so that you can do that um i think in some cases it's not because of like smaller collision boxes i think it's like more design of collision how how that system works which is something that we're uh experimenting a little bit with right now to see if we can prove that
+> will you guys make the hitboxes on things cleaner or is that more effort than it's worth, it's more effort than it's worth in some cases we are working on making building tighter like so that you can do that, i think in some cases it's not because of like smaller collision boxes i think it's like more design of collision how how that system works which is something that we're, experimenting a little bit with right now to see if we can prove that
 >
 > [Music]
 >

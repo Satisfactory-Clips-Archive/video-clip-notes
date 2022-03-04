@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [November 16th,
 
 ### Transcript
 
-> projected date for 1.0 we've said a lot of different like even like i think we've guesstimated years um but what does it say on the steam page right now like i guess that's the most accurate answer right now um let's see here since like we don't have we don't have a date really not even internally um and on the steam page we save roughly 2022 which is next year but we thought the game was to come out 20 2019 originally so like take that at face value okay
+> projected date for 1.0 we've said a lot of different like even like i think we've guesstimated years, but what does it say on the steam page right now like i guess that's the most accurate answer right now, let's see here since like we don't have we don't have a date really not even internally, and on the steam page we save roughly 2022 which is next year but we thought the game was to come out 20 2019 originally so like take that at face value okay

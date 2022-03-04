@@ -22,4 +22,4 @@ https://www.youtube.com/watch?v=GrqLG3yidw4
 >
 > [Music]
 >
-> you didn't uh yeah i did i don't know what are you talking about i mean i mean they docked it from my pay but i didn't have to pay up front you know yeah
+> you didn't, yeah i did i don't know what are you talking about i mean i mean they docked it from my pay but i didn't have to pay up front you know yeah

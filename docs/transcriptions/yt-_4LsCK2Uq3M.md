@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=_4LsCK2Uq3M
 
 ### Transcript
 
-> large shrimp doggos amount would be wonderful uh so some people might know we've talked about this before but um the the big space bean right uh that you stefan uh our current ceo but he used to be programmer at coffee stain he actually created a saddle that you could apply and then jump onto the big space beans and ride them around and and the the pioneer would just be like this like stuck to the back and it would just run around it was super quick as well it was really funny
+> large shrimp doggos amount would be wonderful, so some people might know we've talked about this before but, the the big space bean right, that you stefan, our current ceo but he used to be programmer at coffee stain he actually created a saddle that you could apply and then jump onto the big space beans and ride them around and and the the pioneer would just be like this like stuck to the back and it would just run around it was super quick as well it was really funny

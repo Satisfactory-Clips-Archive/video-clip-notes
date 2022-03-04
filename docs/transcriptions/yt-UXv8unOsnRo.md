@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=UXv8unOsnRo
 
 ### Transcript
 
-> where's this coming from snoopy honest why do you hate star wars when have i ever said i hate star wars i love star wars you said that you hated spock look i mean spock is a very uh i can't come up with something funny but yes no i don't hate star wars
+> where's this coming from snoopy honest why do you hate star wars when have i ever said i hate star wars i love star wars you said that you hated spock look i mean spock is a very, i can't come up with something funny but yes no i don't hate star wars

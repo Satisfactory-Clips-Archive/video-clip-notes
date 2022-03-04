@@ -90,4 +90,4 @@ https://www.youtube.com/watch?v=MLoKz8ShCWs
 
 ### Transcript
 
-> soft clearance uh chaos and i stole that from someone else you did oh yeah maybe mark or something someone else made something like this i can't believe it then i did that for the video yeah and then you did that for this one any building with functionality such a thief
+> soft clearance, chaos and i stole that from someone else you did oh yeah maybe mark or something someone else made something like this i can't believe it then i did that for the video yeah and then you did that for this one any building with functionality such a thief

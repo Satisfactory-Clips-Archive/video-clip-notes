@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=pWwXk0cJ9Fk
 
 ### Transcript
 
-> all right sewage pipes too uh maybe yeah that's that's gonna be after the toilet update for sure
+> all right sewage pipes too, maybe yeah that's that's gonna be after the toilet update for sure

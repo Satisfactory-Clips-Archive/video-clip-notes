@@ -20,4 +20,4 @@ https://www.youtube.com/watch?v=R_PE2NXxUlw
 
 ### Transcript
 
-> so here comes the tricky part i'm going to jump back on stream bam to the game and then if we look for a stream by the way i challenge anyone to play the entire game with the debug text only like x percent yeah yeah that's amazing upload that to uh speedrun archives immediately
+> so here comes the tricky part i'm going to jump back on stream bam to the game and then if we look for a stream by the way i challenge anyone to play the entire game with the debug text only like x percent yeah yeah that's amazing upload that to, speedrun archives immediately

@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [January 18th, 
 
 ### Transcript
 
-> what was that any scope of the game being on consoles uh we have no plans on that at all at the moment
+> what was that any scope of the game being on consoles, we have no plans on that at all at the moment

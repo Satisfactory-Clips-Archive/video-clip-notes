@@ -20,7 +20,7 @@ This question was possibly duplicated with a more recent answer: [October 5th, 2
 
 ### Transcript
 
-> will dedicate a service be available on linux or windows so we're first and foremost windows um but we might do some form of linux support uh depending on time
+> will dedicate a service be available on linux or windows so we're first and foremost windows, but we might do some form of linux support, depending on time
 >
 > [Music]
 >

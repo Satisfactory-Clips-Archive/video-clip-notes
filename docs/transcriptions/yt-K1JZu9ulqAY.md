@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=K1JZu9ulqAY
 
 ### Transcript
 
-> how are we able to save the file so small in megabit size it's because the there's we're using hella compression that's how we're doing it um a lot of compression that's pretty much it
+> how are we able to save the file so small in megabit size it's because the there's we're using hella compression that's how we're doing it, a lot of compression that's pretty much it

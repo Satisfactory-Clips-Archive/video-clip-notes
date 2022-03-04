@@ -16,8 +16,7 @@ https://www.youtube.com/watch?v=7ZhQQ90M2eU
 
 ### Transcript
 
-> um
 >
 > [Music]
 >
-> my my corpse is in the dead zone how to retrieve it uh that's a that's a hard one if you're if you're if your pioneer is in like the the archaeosphere places uh you the only way you might be able to get them is through the calculator side or like any save editing tool that exists
+> my my corpse is in the dead zone how to retrieve it, that's a that's a hard one if you're if you're if your pioneer is in like the the archaeosphere places, you the only way you might be able to get them is through the calculator side or like any save editing tool that exists

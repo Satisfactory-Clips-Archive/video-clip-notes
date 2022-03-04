@@ -30,4 +30,4 @@ https://www.youtube.com/watch?v=QvxM4Cp6B3U
 
 ### Transcript
 
-> we'll be able to paint vehicles at some point maybe i mean we used to be able to do that once upon a time maybe that'll be a thing at some point in the future yeah a long time ago i don't know i don't know if we ever did on a released version of the game actually i'm not sure when that changed but uh yeah you could paint vehicles speaking of like release stuff
+> we'll be able to paint vehicles at some point maybe i mean we used to be able to do that once upon a time maybe that'll be a thing at some point in the future yeah a long time ago i don't know i don't know if we ever did on a released version of the game actually i'm not sure when that changed but, yeah you could paint vehicles speaking of like release stuff

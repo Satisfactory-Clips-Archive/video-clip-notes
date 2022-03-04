@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [October 5th, 2
 
 ### Transcript
 
-> that's pretty funny eu store uh what's the i don't know yeah we don't know i don't know sorry we are looking into it we just don't know what's going on right now yeah i need to go get an update problem yeah it's it's hard to keep track of all those things when there's all the other things going on yeah uh but other people are taking care of that other people are following up on that stuff so even though i'm not taking you know even though i don't know what's happening doesn't mean nothing's happening i just don't know yeah
+> that's pretty funny eu store, what's the i don't know yeah we don't know i don't know sorry we are looking into it we just don't know what's going on right now yeah i need to go get an update problem yeah it's it's hard to keep track of all those things when there's all the other things going on yeah, but other people are taking care of that other people are following up on that stuff so even though i'm not taking you know even though i don't know what's happening doesn't mean nothing's happening i just don't know yeah

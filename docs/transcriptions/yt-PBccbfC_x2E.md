@@ -18,8 +18,7 @@ This question was possibly duplicated with a more recent answer: [September 7th,
 
 ### Transcript
 
-> uh
 >
 > [Music]
 >
-> turbo fuel for a jet pack might be on the um yeah i suggested um i think we are gonna do that at some point i believe mark has confirmed that uh the problem with turbo fuel wasn't that we didn't want to do it like the the issue was that there was no good way to like pick turbo fuel for any equipment like there's no way even in like a chainsaw to be able to pick like you know liquid biofuel or anything like that which is maybe something we're gonna do in the future too for the chainsaw um but currently there was no way when we released the jetpack there was no way to like pick fuel and uh we're probably gonna add that in the future so that you can pick turbo fuel and maybe that's more efficient or something like that um so yeah that's the that's that's the reason why we haven't done it yet
+> turbo fuel for a jet pack might be on the, yeah i suggested, i think we are gonna do that at some point i believe mark has confirmed that, the problem with turbo fuel wasn't that we didn't want to do it like the the issue was that there was no good way to like pick turbo fuel for any equipment like there's no way even in like a chainsaw to be able to pick like you know liquid biofuel or anything like that which is maybe something we're gonna do in the future too for the chainsaw, but currently there was no way when we released the jetpack there was no way to like pick fuel and, we're probably gonna add that in the future so that you can pick turbo fuel and maybe that's more efficient or something like that, so yeah that's the that's that's the reason why we haven't done it yet

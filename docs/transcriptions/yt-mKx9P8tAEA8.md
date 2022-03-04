@@ -14,8 +14,8 @@ https://www.youtube.com/watch?v=mKx9P8tAEA8
 
 ### Transcript
 
-> would you tell us seriously you're not adding golf even if it's a even if it's a joke wait wait is that will is that a like a trick question how many double negatives were there so would you tell us seriously you're not adding golf even if it is a joke i i guess they want to know if whether or not we would actually tell them okay yeah i was like is this a trick or like so if you don't add not golf would you not tell us not if you don't as a joke that's a joke yeah as a not joke yeah no sorry go ahead um
+> would you tell us seriously you're not adding golf even if it's a even if it's a joke wait wait is that will is that a like a trick question how many double negatives were there so would you tell us seriously you're not adding golf even if it is a joke i i guess they want to know if whether or not we would actually tell them okay yeah i was like is this a trick or like so if you don't add not golf would you not tell us not if you don't as a joke that's a joke yeah as a not joke yeah no sorry go ahead
 >
 > [Music]
 >
-> yeah uh you know what get to that 1300 and we'll talk then we'll talk uh
+> yeah, you know what get to that 1300 and we'll talk then we'll talk ,

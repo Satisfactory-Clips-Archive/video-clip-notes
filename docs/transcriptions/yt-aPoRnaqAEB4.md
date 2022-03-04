@@ -20,4 +20,4 @@ https://www.youtube.com/watch?v=aPoRnaqAEB4
 
 ### Transcript
 
-> can you make cyber trucks uh wheels round look you can't improve on perfection okay cyber wagon thank you very much
+> can you make cyber trucks, wheels round look you can't improve on perfection okay cyber wagon thank you very much

@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [February 8th, 
 
 ### Transcript
 
-> will be next year hey how about creative mode that's something that we are looking into or like not looking into but we are interested in that so that's probable that that will happen i don't know when um so yes
+> will be next year hey how about creative mode that's something that we are looking into or like not looking into but we are interested in that so that's probable that that will happen i don't know when, so yes

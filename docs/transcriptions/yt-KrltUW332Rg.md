@@ -20,4 +20,4 @@ This question was possibly duplicated with a more recent answer: [December 14th,
 >
 > [Music]
 >
-> so there you go there's also going to be a bunch of reworks on areas that already exist yeah yeah so there's going to be a lot of changes to the game uh to the map coming up soon but one will be a new biome apparently i don't know what that biome is going to be me neither it was hannah told us through chat yeah twitch yeah we we found out while that's how we found out
+> so there you go there's also going to be a bunch of reworks on areas that already exist yeah yeah so there's going to be a lot of changes to the game, to the map coming up soon but one will be a new biome apparently i don't know what that biome is going to be me neither it was hannah told us through chat yeah twitch yeah we we found out while that's how we found out

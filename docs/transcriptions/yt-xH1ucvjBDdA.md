@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [February 8th, 
 
 ### Transcript
 
-> is there gonna be a sandbox mode in satisfactory so we plan on adding game modes at some point eventually um but at the moment we don't uh we're not making that at the moment but yeah maybe one day
+> is there gonna be a sandbox mode in satisfactory so we plan on adding game modes at some point eventually, but at the moment we don't, we're not making that at the moment but yeah maybe one day

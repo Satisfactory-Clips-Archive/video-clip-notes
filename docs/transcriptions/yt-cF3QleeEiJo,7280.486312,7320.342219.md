@@ -16,4 +16,4 @@ https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=7280&end=7321
 
 ### Transcript
 
-> for checking out the the trailer hope you liked it uh the song by the way is made by wait let me actually drop it in and chat so the song is made by ghostwood empire and it's made by dennis who or among other people who made the update 3 trailer music so and i am going to drop that soundcloud in chat bam bam bam if you want to check out that song it rips okay i saw a lot of cat chat going on in chat i loved it
+> for checking out the the trailer hope you liked it, the song by the way is made by wait let me actually drop it in and chat so the song is made by ghostwood empire and it's made by dennis who or among other people who made the update 3 trailer music so and i am going to drop that soundcloud in chat bam bam bam if you want to check out that song it rips okay i saw a lot of cat chat going on in chat i loved it

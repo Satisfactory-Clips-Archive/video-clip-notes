@@ -24,4 +24,4 @@ https://youtube.com/clip/Ugkx_m7MeOzn0RdknMehAUOG5Qlu03WVK6DP
 
 ### Transcript
 
-> uh are you planning controller support uh we'll have to sort of see how that goes um i think we plan on doing some level of controller support at least make things easy for people to remap things i think that might be in the the plans but really don't know when that's gonna be just yet yes will there be mod support for dedicated
+> are you planning controller support, we'll have to sort of see how that goes, i think we plan on doing some level of controller support at least make things easy for people to remap things i think that might be in the the plans but really don't know when that's gonna be just yet yes will there be mod support for dedicated

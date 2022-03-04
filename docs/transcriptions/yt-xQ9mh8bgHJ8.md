@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=xQ9mh8bgHJ8
 
 ### Transcript
 
-> why'd you put the character limit on beakers and train stations uh because it caused major issues with multiplayer uh and when i say major i mean it was unplayable in multiplayer in some cases uh you could crash the whole game doing that in multiplayer so easy fix just put a limit to it
+> why'd you put the character limit on beakers and train stations, because it caused major issues with multiplayer, and when i say major i mean it was unplayable in multiplayer in some cases, you could crash the whole game doing that in multiplayer so easy fix just put a limit to it

@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=2COaFidZEYY
 
 ### Transcript
 
-> uh is uh is torsten a german guy yeah yeah german confirmed confirmed yeah yeah we have two germans now up to two all right
+> is, is torsten a german guy yeah yeah german confirmed confirmed yeah yeah we have two germans now up to two all right

@@ -20,8 +20,7 @@ https://www.youtube.com/watch?v=SgweFihGY38
 
 ### Transcript
 
-> uh
 >
 > [Music]
 >
-> you do it first i couldn't read the question are there any plans for smaller lights i saw that being suggested a couple times uh qa site it's it's always hard to answer those questions when the questions are are there plans i don't know it's like if there are plans i probably aren't allow i'm not allowed to say it or if there's no plans i don't know but that doesn't mean it's not something that isn't you know going to be taken for consideration so yeah i mean i i don't really know how to answer it but um best thing to do is qaside questions on satisfactorygame.com leave your suggestions there let the team know that it's what you want
+> you do it first i couldn't read the question are there any plans for smaller lights i saw that being suggested a couple times, qa site it's it's always hard to answer those questions when the questions are are there plans i don't know it's like if there are plans i probably aren't allow i'm not allowed to say it or if there's no plans i don't know but that doesn't mean it's not something that isn't you know going to be taken for consideration so yeah i mean i i don't really know how to answer it but, best thing to do is qaside questions on satisfactorygame.com leave your suggestions there let the team know that it's what you want

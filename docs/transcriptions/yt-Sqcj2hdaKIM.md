@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=Sqcj2hdaKIM
 
 ### Transcript
 
-> chainsaw needs to kill animals yeah uh we've actually thought about that uh we we elected not to have the chainsaw hurt animals because it felt a bit too raw so we did we we did consider it okay not gonna lie like hurting animals but also hurting teammates or like other players uh and we felt it it felt like maybe not okay
+> chainsaw needs to kill animals yeah, we've actually thought about that, we we elected not to have the chainsaw hurt animals because it felt a bit too raw so we did we we did consider it okay not gonna lie like hurting animals but also hurting teammates or like other players, and we felt it it felt like maybe not okay

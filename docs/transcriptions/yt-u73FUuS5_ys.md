@@ -22,4 +22,4 @@ https://www.youtube.com/watch?v=u73FUuS5_ys
 
 ### Transcript
 
-> speed running support for 1.0 is there something you can't do speed running wise uh in satisfactory because as far as it like there are speedrunning records already
+> speed running support for 1.0 is there something you can't do speed running wise, in satisfactory because as far as it like there are speedrunning records already

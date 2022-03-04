@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [August 10th, 2
 
 ### Transcript
 
-> what sort of size will update five being compared to update four is because it's really hard to give that answer jamie i i really don't know i don't know maybe we're on the same i don't know it's really really hard to answer that question um like in megabytes i could definitely not give the answer but um there's a lot there's a lot of things there's a lot of things like even if i could give you the answer i i just it's not a question i i know how to answer so
+> what sort of size will update five being compared to update four is because it's really hard to give that answer jamie i i really don't know i don't know maybe we're on the same i don't know it's really really hard to answer that question, like in megabytes i could definitely not give the answer but, there's a lot there's a lot of things there's a lot of things like even if i could give you the answer i i just it's not a question i i know how to answer so

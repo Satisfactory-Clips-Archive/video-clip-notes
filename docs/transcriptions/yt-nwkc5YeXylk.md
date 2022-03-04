@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [February 8th, 
 
 ### Transcript
 
-> hmm framing in the game i'm assuming you're saying farming because if you're talking about picture framing we're not going to add picture framing to the game so maybe you're talking about farming uh we like that idea and that's something that we will probably look into at some point definitely makes sense in our game so we'll see
+> hmm framing in the game i'm assuming you're saying farming because if you're talking about picture framing we're not going to add picture framing to the game so maybe you're talking about farming, we like that idea and that's something that we will probably look into at some point definitely makes sense in our game so we'll see

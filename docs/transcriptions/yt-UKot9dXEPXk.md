@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [February 8th, 
 
 ### Transcript
 
-> uh when are we going to get achievements uh maybe in the future well probably in the future we plan to add them but uh we kind of want the game to finish first yeah
+> when are we going to get achievements, maybe in the future well probably in the future we plan to add them but, we kind of want the game to finish first yeah

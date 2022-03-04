@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=sYlIdZkJYHE
 
 ### Transcript
 
-> uh option to respawn creatures so the way that it works here in the game is that if you place buildings then creatures won't respond uh and if you haven't then they will that's that's the end of that dude that's pretty much how it works we don't have any plans right now to change that
+> option to respawn creatures so the way that it works here in the game is that if you place buildings then creatures won't respond, and if you haven't then they will that's that's the end of that dude that's pretty much how it works we don't have any plans right now to change that

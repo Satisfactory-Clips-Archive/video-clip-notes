@@ -18,4 +18,4 @@ https://youtube.com/clip/Ugzkf2Qp5gQgz7c0TNJ4AaABCQ
 
 ### Transcript
 
-> next bonus thing that we're adding is the ability to add truck stations to a recorded path after the fact so you can record a path at a truck station have the docking area sort of overlap where the recorded path is and the truck station will then will actually like rework the waypoints of that segment of the recorded path and create a docking node there instead so that um vehicles can then go and use that node so that's all i wanted to talk about today i hope
+> next bonus thing that we're adding is the ability to add truck stations to a recorded path after the fact so you can record a path at a truck station have the docking area sort of overlap where the recorded path is and the truck station will then will actually like rework the waypoints of that segment of the recorded path and create a docking node there instead so that, vehicles can then go and use that node so that's all i wanted to talk about today i hope

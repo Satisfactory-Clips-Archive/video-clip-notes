@@ -24,4 +24,4 @@ https://www.youtube.com/watch?v=L5P4V2YcjBc
 >
 > [Laughter]
 >
-> uh i don't know uh most are working enough coffee thing nothing probably simon you guys you guys oh it's a community satisfaction yeah
+>, i don't know, most are working enough coffee thing nothing probably simon you guys you guys oh it's a community satisfaction yeah

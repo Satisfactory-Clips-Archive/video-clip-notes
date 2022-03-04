@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [November 30th,
 
 ### Transcript
 
-> um let's see here questions questions what's the state of the story uh being worked on sure is worked on and we won't tell you anything about it yep
+> let's see here questions questions what's the state of the story, being worked on sure is worked on and we won't tell you anything about it yep

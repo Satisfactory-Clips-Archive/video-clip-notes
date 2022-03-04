@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [December 14th,
 
 ### Transcript
 
-> is the soundtrack available available to buy separately no because we want to we want to complete the soundtrack first and it's not like done we can add more music so we're not going to sell it um but we are looking into that at some point
+> is the soundtrack available available to buy separately no because we want to we want to complete the soundtrack first and it's not like done we can add more music so we're not going to sell it, but we are looking into that at some point

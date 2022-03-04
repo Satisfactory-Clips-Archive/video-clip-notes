@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=guT_rOkRQGo
 
 ### Transcript
 
-> uh hair clips conveyor clipping is stupid ah don't do it gamma if you think conveyor clipping is stupid my recommendation to you is don't do it don't let them clip at at any cost never let your conveyor belts clip however some people like their conveyor belts clipping they'll take that hit might look a little funky but at least they can move on with what they're doing you know that's okay
+> hair clips conveyor clipping is stupid ah don't do it gamma if you think conveyor clipping is stupid my recommendation to you is don't do it don't let them clip at at any cost never let your conveyor belts clip however some people like their conveyor belts clipping they'll take that hit might look a little funky but at least they can move on with what they're doing you know that's okay

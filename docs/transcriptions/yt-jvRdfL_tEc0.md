@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=jvRdfL_tEc0
 
 ### Transcript
 
-> two pioneers in the car no no no no two parties in the cart the cart was added after uh why was it removed i think it was seen as kind of like op i think um yeah that you could transport two people around really far i'm not really sure
+> two pioneers in the car no no no no two parties in the cart the cart was added after, why was it removed i think it was seen as kind of like op i think, yeah that you could transport two people around really far i'm not really sure

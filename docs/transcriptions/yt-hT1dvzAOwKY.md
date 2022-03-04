@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=hT1dvzAOwKY
 
 ### Transcript
 
-> uh what the update are we up to i am playing since update three we're update four right now and update five is you know coming coming soon coming soon
+> what the update are we up to i am playing since update three we're update four right now and update five is you know coming coming soon coming soon

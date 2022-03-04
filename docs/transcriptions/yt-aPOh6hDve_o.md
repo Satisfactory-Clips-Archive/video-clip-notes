@@ -27,4 +27,4 @@ This question was possibly replaced with a more recent answer: November 30th, 20
 
 ### Transcript
 
-> mod's still broken i think mods are still broken yes uh we have we we don't really like keep track of that too much it's kind of like the modern community kind of doing their thing we're trying to help them out as much as we can but um it's like their responsibility to fix it um so yeah still work but not for long so hopefully soon trademark hopefully before update 5 hits early access fingers crossed
+> mod's still broken i think mods are still broken yes, we have we we don't really like keep track of that too much it's kind of like the modern community kind of doing their thing we're trying to help them out as much as we can but, it's like their responsibility to fix it, so yeah still work but not for long so hopefully soon trademark hopefully before update 5 hits early access fingers crossed

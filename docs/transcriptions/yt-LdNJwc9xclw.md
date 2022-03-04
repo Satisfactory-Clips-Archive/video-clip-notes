@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [February 11th,
 
 ### Transcript
 
-> are you guys planning on putting any form of blueprints building into the game uh currently there's no plans to do that
+> are you guys planning on putting any form of blueprints building into the game, currently there's no plans to do that

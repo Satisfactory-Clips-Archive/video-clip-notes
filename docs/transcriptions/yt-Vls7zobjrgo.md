@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=Vls7zobjrgo
 
 ### Transcript
 
-> yeah they got this little walkway situation more glass ceiling here yeah these are still the same walls but uh yeah yeah yeah we had them for interesting things going on here this little bevel situation going on how peculiar interesting huh interesting walls are both i yeah smirking was talking about different sized walls apparently as well oh yeah that's a good catch that's a good catch i mean that's a good interesting interesting uh theory theory yes very interesting theory interesting theory yes yes yeah yeah yeah interesting interesting
+> yeah they got this little walkway situation more glass ceiling here yeah these are still the same walls but, yeah yeah yeah we had them for interesting things going on here this little bevel situation going on how peculiar interesting huh interesting walls are both i yeah smirking was talking about different sized walls apparently as well oh yeah that's a good catch that's a good catch i mean that's a good interesting interesting, theory theory yes very interesting theory interesting theory yes yes yeah yeah yeah interesting interesting

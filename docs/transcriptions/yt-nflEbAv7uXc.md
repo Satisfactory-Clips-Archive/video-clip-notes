@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=nflEbAv7uXc
 
 ### Transcript
 
-> are we going to be able to make liza doggers sit so they can't don't constantly follow us with nuclear waste uh maybe maybe something that people have suggested that they want to be able to have it sit like even if it's just an enclosure you know so it's not always like running at you or whatever this i mean the solution if it's got nuclear waste is you just take the nuclear waste and then i don't just put on the ground i don't know
+> are we going to be able to make liza doggers sit so they can't don't constantly follow us with nuclear waste, maybe maybe something that people have suggested that they want to be able to have it sit like even if it's just an enclosure you know so it's not always like running at you or whatever this i mean the solution if it's got nuclear waste is you just take the nuclear waste and then i don't just put on the ground i don't know

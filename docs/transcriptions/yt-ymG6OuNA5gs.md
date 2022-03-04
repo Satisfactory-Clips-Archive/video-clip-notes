@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=ymG6OuNA5gs
 
 ### Transcript
 
-> do you think about exit points when designing the game like when the player should stop playing i don't think so if you don't know i mean i don't but um no i i feel like the game is so open ended that everyone can just kind of choose when their stopping point is you know for some people it's when the sun starts coming up some people's when they finish building a you know a build
+> do you think about exit points when designing the game like when the player should stop playing i don't think so if you don't know i mean i don't but, no i i feel like the game is so open ended that everyone can just kind of choose when their stopping point is you know for some people it's when the sun starts coming up some people's when they finish building a you know a build

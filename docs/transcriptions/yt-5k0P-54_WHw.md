@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=5k0P-54_WHw
 
 ### Transcript
 
-> uh do we like that snaze body pillow when no that's the good that's that's a real question right here see yeah okay fun fact whenever me and jace brings us up on our manager meetings or whatever when we talk to people with responsibilities and we always bring up the snace body pillow and there's always like this me and jay think it's hilarious but everyone else is just like yes that's a thing um so yes
+> do we like that snaze body pillow when no that's the good that's that's a real question right here see yeah okay fun fact whenever me and jace brings us up on our manager meetings or whatever when we talk to people with responsibilities and we always bring up the snace body pillow and there's always like this me and jay think it's hilarious but everyone else is just like yes that's a thing, so yes

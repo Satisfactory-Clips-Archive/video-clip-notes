@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=Hi-wSNVeFPU
 
 ### Transcript
 
-> convey your input for biomass please i don't think we want to do that because i think the point of biomass is that we don't that you're not really supposed to use biomass like the fact that it's not automated is the problem and is the reason is the motivation for you to get away from it as quickly as possible so um it's supposed to be tedious it's supposed to be tedious and you're supposed to stop using it eventually
+> convey your input for biomass please i don't think we want to do that because i think the point of biomass is that we don't that you're not really supposed to use biomass like the fact that it's not automated is the problem and is the reason is the motivation for you to get away from it as quickly as possible so, it's supposed to be tedious it's supposed to be tedious and you're supposed to stop using it eventually

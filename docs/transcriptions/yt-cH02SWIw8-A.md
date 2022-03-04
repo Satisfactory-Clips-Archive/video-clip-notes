@@ -20,8 +20,7 @@ This question was possibly duplicated with a more recent answer: [August 24th, 2
 
 ### Transcript
 
-> um
 >
 > [Music]
 >
-> internally do you know what the whip items are planned to do or is it up in the air i think um i think we have some idea but since the way that story is gonna work in general is still somewhat up in the air like people are like i believe they're like workshopping it now and stuff yeah i think um so because of that like we can't really we don't really know for certain exactly how we're gonna use the items just other than the fact that we will use them yeah we're currently prototyping like we have a story set but we're currently prototyping like how exactly we tell that story and like the format of it um so sorry for mansplaining jesus answered there that's right thanks for the men's playing without you i got you fam
+> internally do you know what the whip items are planned to do or is it up in the air i think, i think we have some idea but since the way that story is gonna work in general is still somewhat up in the air like people are like i believe they're like workshopping it now and stuff yeah i think, so because of that like we can't really we don't really know for certain exactly how we're gonna use the items just other than the fact that we will use them yeah we're currently prototyping like we have a story set but we're currently prototyping like how exactly we tell that story and like the format of it, so sorry for mansplaining jesus answered there that's right thanks for the men's playing without you i got you fam

@@ -14,6 +14,6 @@ https://www.youtube.com/watch?v=hqa03KfBldI
 
 ### Transcript
 
-> good time could have got a good one oh god it's hard to teach kleptomaniacs humor they take things literally this is this is what we've come to there's like a thousand people here watching yeah [ __ ] me trying to boot into the game yeah and jace trying to like try stalling stalling making dabs really trying to entertain with a website um oh god i can hear gameplay
+> good time could have got a good one oh god it's hard to teach kleptomaniacs humor they take things literally this is this is what we've come to there's like a thousand people here watching yeah [ __ ] me trying to boot into the game yeah and jace trying to like try stalling stalling making dabs really trying to entertain with a website, oh god i can hear gameplay
 >
 > [Laughter]

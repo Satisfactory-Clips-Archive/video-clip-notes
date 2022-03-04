@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [September 14th
 
 ### Transcript
 
-> there's going to be changes to some recipes in update 5. i i don't know i'm actually going to send a hot question to mark maybe you can answer we'll see we'll see if mark finishes respond to that but i don't know currently um actually
+> there's going to be changes to some recipes in update 5. i i don't know i'm actually going to send a hot question to mark maybe you can answer we'll see we'll see if mark finishes respond to that but i don't know currently, actually

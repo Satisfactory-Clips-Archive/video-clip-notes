@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=TcvSDhVsAGE
 
 ### Transcript
 
-> uh j so jace can we get vertical horizontal conveyor lifts no that's ridiculous so what we'll have is the horizontal conveyor lifts but we might add the ability to rotate them 90 degrees so you can choose
+> j so jace can we get vertical horizontal conveyor lifts no that's ridiculous so what we'll have is the horizontal conveyor lifts but we might add the ability to rotate them 90 degrees so you can choose

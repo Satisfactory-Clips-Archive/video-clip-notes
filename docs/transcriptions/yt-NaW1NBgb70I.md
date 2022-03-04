@@ -18,7 +18,7 @@ This question was possibly duplicated with a more recent answer: [February 8th, 
 
 ### Transcript
 
-> uh someone was asking if you could use the dedicated servers with docker i actually don't know i don't know if there's details i'm sure someone uh like once dedicated servers is available i'm sure someone is gonna set up a docker
+> someone was asking if you could use the dedicated servers with docker i actually don't know i don't know if there's details i'm sure someone, like once dedicated servers is available i'm sure someone is gonna set up a docker
 >
 > [Music]
 >

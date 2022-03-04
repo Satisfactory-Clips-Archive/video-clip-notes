@@ -94,4 +94,4 @@ https://www.youtube.com/watch?v=QvJr2UFkIa4
 >
 > [Laughter]
 >
-> i just built like um foundations and i drove out and then back again and then removed them yeah yeah that's that's all that truck does it just drives off the cliff over and over again we record an entire route i didn't even notice that no it's it's like one of those like secret like easter eggs in the video sort of if you like do uh go through them now no i think these are legit we need to re-record an entire route yeah another vehicle to it
+> i just built like, foundations and i drove out and then back again and then removed them yeah yeah that's that's all that truck does it just drives off the cliff over and over again we record an entire route i didn't even notice that no it's it's like one of those like secret like easter eggs in the video sort of if you like do, go through them now no i think these are legit we need to re-record an entire route yeah another vehicle to it

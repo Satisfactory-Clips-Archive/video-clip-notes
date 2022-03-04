@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=NGASSnryRp0
 
 ### Transcript
 
-> maybe some sneak peek pictures yeah so like we'll be we'll be teasing stuff uh like i don't have anything to show you right now but you know like like we did with update four leading up to where we're gonna put out videos and tease new content you know what's gonna happen in time it's gonna happen in time there'll be footage of the world update stuff
+> maybe some sneak peek pictures yeah so like we'll be we'll be teasing stuff, like i don't have anything to show you right now but you know like like we did with update four leading up to where we're gonna put out videos and tease new content you know what's gonna happen in time it's gonna happen in time there'll be footage of the world update stuff

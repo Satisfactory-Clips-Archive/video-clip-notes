@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=rur1X-JfHCk
 
 ### Transcript
 
-> uh so no more dedicated problems yeah exactly we we wanted to put dedicated servers in but the community were like please put more important things in first um so that's kind of why we're just we just don't know what you guys said you know
+> so no more dedicated problems yeah exactly we we wanted to put dedicated servers in but the community were like please put more important things in first, so that's kind of why we're just we just don't know what you guys said you know

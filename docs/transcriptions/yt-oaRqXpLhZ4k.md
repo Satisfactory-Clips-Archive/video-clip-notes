@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [October 5th, 2
 
 ### Transcript
 
-> uh will dedicated service be native linux uh it's possible we are looking like that's one of the options we're hoping for um obviously we're gonna do windows first and that jazz but if if there is like a possibility for it then we're definitely gonna investigate it so we are aware
+> will dedicated service be native linux, it's possible we are looking like that's one of the options we're hoping for, obviously we're gonna do windows first and that jazz but if if there is like a possibility for it then we're definitely gonna investigate it so we are aware

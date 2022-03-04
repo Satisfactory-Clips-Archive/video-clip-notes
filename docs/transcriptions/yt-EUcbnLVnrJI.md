@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=EUcbnLVnrJI
 
 ### Transcript
 
-> uh i just put in a merch request on the qa site for pins we have a pin right we have a lizard doggo pin yes yeah this is a dogger pin but we could maybe make some more it'd be cool to have a mini blender building pin 1000 would spend life savings all right
+> i just put in a merch request on the qa site for pins we have a pin right we have a lizard doggo pin yes yeah this is a dogger pin but we could maybe make some more it'd be cool to have a mini blender building pin 1000 would spend life savings all right

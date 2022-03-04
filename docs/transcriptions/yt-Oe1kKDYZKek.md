@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [September 14th
 
 ### Transcript
 
-> ideas to add something to no man's land uh yeah there's gonna be something everywhere if there's some area that's like empty that feels empty that's because we haven't added stuff to it yet
+> ideas to add something to no man's land, yeah there's gonna be something everywhere if there's some area that's like empty that feels empty that's because we haven't added stuff to it yet

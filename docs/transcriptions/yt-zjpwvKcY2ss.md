@@ -20,4 +20,4 @@ https://www.youtube.com/watch?v=zjpwvKcY2ss
 
 ### Transcript
 
-> uh can we use poison gas in some way not yet uh or yet like i don't know actually if we are going to do anything with it the only thing that i know is that we're gonna you're gonna be able to like handle maybe handle is also not the wrong the right way to say there's there's some way to like get rid of gas in the environment in the future i don't know exactly what's been planned there um but you're gonna need to like tackle that at some point
+> can we use poison gas in some way not yet, or yet like i don't know actually if we are going to do anything with it the only thing that i know is that we're gonna you're gonna be able to like handle maybe handle is also not the wrong the right way to say there's there's some way to like get rid of gas in the environment in the future i don't know exactly what's been planned there, but you're gonna need to like tackle that at some point

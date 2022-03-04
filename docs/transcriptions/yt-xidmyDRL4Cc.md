@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=xidmyDRL4Cc
 
 ### Transcript
 
-> purpose for gas pillars when they've had a purpose the whole time to uh deter you and to kill you fart rock destroyer maybe maybe
+> purpose for gas pillars when they've had a purpose the whole time to, deter you and to kill you fart rock destroyer maybe maybe

@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=Xp_ipVDJ_f0
 >
 > [ __ ]
 >
-> what do you do sounds like you've got some sounds like your friends are smart or something not or stupid stupid don't get it don't get it get new friends they don't get it they just don't get you it is a hard game to like pitch though it's like what do you do uh you build factories like yeah but what do you do you you uh run around it's like factorio but in 3d what's factorio ah [ __ ] oh
+> what do you do sounds like you've got some sounds like your friends are smart or something not or stupid stupid don't get it don't get it get new friends they don't get it they just don't get you it is a hard game to like pitch though it's like what do you do, you build factories like yeah but what do you do you you, run around it's like factorio but in 3d what's factorio ah [ __ ] oh
 >
 > [ __ ]
 >

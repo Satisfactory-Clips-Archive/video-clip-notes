@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=C7jnOWalyHM
 
 ### Transcript
 
-> um how do you guys get the source control version number embedded in the game does that dynamically update or is someone changing the number by hand every time i i don't know i actually don't know i think i think it's i don't think someone is changing every time i'm pretty sure it does it dynamically but uh because if someone was changing it every time i'm pretty sure i would have heard someone go oh [ __ ] i forgot to update the uh the version number oopsies so i'm pretty sure it's um does it automatically
+> how do you guys get the source control version number embedded in the game does that dynamically update or is someone changing the number by hand every time i i don't know i actually don't know i think i think it's i don't think someone is changing every time i'm pretty sure it does it dynamically but, because if someone was changing it every time i'm pretty sure i would have heard someone go oh [ __ ] i forgot to update the, the version number oopsies so i'm pretty sure it's, does it automatically

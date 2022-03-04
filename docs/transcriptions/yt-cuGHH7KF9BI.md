@@ -18,4 +18,4 @@ This question was possibly replaced with a more recent answer: [January 19th, 20
 
 ### Transcript
 
-> all right so let's see will there be large larger underground spaces um caves would be would be really cool if we could do that like bigger ones yeah would be nice
+> all right so let's see will there be large larger underground spaces, caves would be would be really cool if we could do that like bigger ones yeah would be nice

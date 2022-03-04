@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: October 26th, 2
 
 ### Transcript
 
-> dedicated servers please please feed us yeah i i'm hearing sort of like updates about the dedicated servers over the past you know week or so like daily updates and it's coming along it's coming along you guys uh it's like at a point where you know we we may have some stuff that we can test internally which is exciting but that doesn't mean it's nearly ready to put out there but we're we're working on
+> dedicated servers please please feed us yeah i i'm hearing sort of like updates about the dedicated servers over the past you know week or so like daily updates and it's coming along it's coming along you guys, it's like at a point where you know we we may have some stuff that we can test internally which is exciting but that doesn't mean it's nearly ready to put out there but we're we're working on

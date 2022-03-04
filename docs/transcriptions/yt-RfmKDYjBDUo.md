@@ -16,4 +16,4 @@ This question was possibly replaced with a more recent answer: [March 9th, 2021 
 
 ### Transcript
 
-> it's not planned essentially it's the tldr any updates on update 4 release date nope um next year early next year sometime uh no why do you yes january has been january january has been thrown around in the past but yeah we'll see we'll see we'll see
+> it's not planned essentially it's the tldr any updates on update 4 release date nope, next year early next year sometime, no why do you yes january has been january january has been thrown around in the past but yeah we'll see we'll see we'll see

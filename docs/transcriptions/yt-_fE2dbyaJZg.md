@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [January 25th, 
 
 ### Transcript
 
-> uh is terraforming possible anytime in the future no as far as we know um
+> is terraforming possible anytime in the future no as far as we know

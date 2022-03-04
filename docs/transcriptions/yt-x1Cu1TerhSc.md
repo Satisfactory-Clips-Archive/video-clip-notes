@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [August 31st, 2
 
 ### Transcript
 
-> does anyone on the team watch people stream the game randomly yeah i'm pretty sure i'm pretty sure there are people on the team that watch uh streamers not everyone though you know because like a lot of people when they're done with their days staring at satisfactory they don't really want to watch more satisfactory sometimes some people have streamers on the background while they work i haven't watched a lot of satisfactory recently honestly i used to stop in streams quite a bit i should start that up again
+> does anyone on the team watch people stream the game randomly yeah i'm pretty sure i'm pretty sure there are people on the team that watch, streamers not everyone though you know because like a lot of people when they're done with their days staring at satisfactory they don't really want to watch more satisfactory sometimes some people have streamers on the background while they work i haven't watched a lot of satisfactory recently honestly i used to stop in streams quite a bit i should start that up again

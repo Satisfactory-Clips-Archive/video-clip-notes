@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [November 2nd, 
 
 ### Transcript
 
-> uh are there any plans to fix multiplayer with next updates uh so unstable at the moment where there are yes there'll be like well there are fixes to many things in the game including uh multiplayer issues some of them right probably not gonna get all of them but we're we're chipping away at it so when the next big update comes along hopefully you'll have a better experience
+> are there any plans to fix multiplayer with next updates, so unstable at the moment where there are yes there'll be like well there are fixes to many things in the game including, multiplayer issues some of them right probably not gonna get all of them but we're we're chipping away at it so when the next big update comes along hopefully you'll have a better experience

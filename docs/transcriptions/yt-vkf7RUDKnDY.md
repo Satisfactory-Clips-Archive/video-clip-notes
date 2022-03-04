@@ -22,4 +22,4 @@ https://www.youtube.com/watch?v=vkf7RUDKnDY
 
 ### Transcript
 
-> uh question are lights in their final form or will there be tweaks to how lights are diffused it feels very harsh at the moment i think uh that's a don't know i have no idea where you are yeah
+> question are lights in their final form or will there be tweaks to how lights are diffused it feels very harsh at the moment i think, that's a don't know i have no idea where you are yeah

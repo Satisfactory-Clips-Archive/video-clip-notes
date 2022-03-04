@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=N9-tzL5aozw
 
 ### Transcript
 
-> um flying factory cart when yo you don't be cool flying explorer
+> flying factory cart when yo you don't be cool flying explorer

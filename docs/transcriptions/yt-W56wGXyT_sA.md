@@ -24,4 +24,4 @@ https://www.youtube.com/watch?v=W56wGXyT_sA
 
 ### Transcript
 
-> equipment hotkey when uh i'll put that on the qr side if you want that i don't know exactly what that entails but it sounds good oh you mean on the hot bar maybe that's uh that would be sweet it would be really nice yeah so you could just press like one two three or four or five or whatever that would be really nice yeah
+> equipment hotkey when, i'll put that on the qr side if you want that i don't know exactly what that entails but it sounds good oh you mean on the hot bar maybe that's, that would be sweet it would be really nice yeah so you could just press like one two three or four or five or whatever that would be really nice yeah

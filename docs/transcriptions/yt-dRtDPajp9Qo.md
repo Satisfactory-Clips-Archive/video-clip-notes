@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=dRtDPajp9Qo
 
 ### Transcript
 
-> you're the alien yeah exactly yeah would you guys be uh for doing a stream reacting to all other fan f fiber fan for fan forge i guess uh yeah maybe possibly video in the future yeah if anything it'll probably be a video yeah
+> you're the alien yeah exactly yeah would you guys be, for doing a stream reacting to all other fan f fiber fan for fan forge i guess, yeah maybe possibly video in the future yeah if anything it'll probably be a video yeah

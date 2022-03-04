@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=9q4EKEuu5R0
 
 ### Transcript
 
-> an iron mix to make bullets and a machine gun machine for base defense uh we're not gonna add bass defense to the game
+> an iron mix to make bullets and a machine gun machine for base defense, we're not gonna add bass defense to the game

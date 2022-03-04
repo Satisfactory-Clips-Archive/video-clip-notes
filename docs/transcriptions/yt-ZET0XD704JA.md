@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [April 20th, 20
 
 ### Transcript
 
-> uh will the story be released as a book slash merch that could be interesting maybe it's like a or like a comic book spin-off like uh portal did that would be really cool actually
+> will the story be released as a book slash merch that could be interesting maybe it's like a or like a comic book spin-off like, portal did that would be really cool actually

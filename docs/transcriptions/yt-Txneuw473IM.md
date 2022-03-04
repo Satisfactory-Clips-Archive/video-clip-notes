@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=Txneuw473IM
 
 ### Transcript
 
-> pain schemes for trains don't uh i don't know what you mean by that don't we have that already or is it something else that i'm i'm missing painting trains yeah you can picture yeah because you can paint them but maybe something else yeah
+> pain schemes for trains don't, i don't know what you mean by that don't we have that already or is it something else that i'm i'm missing painting trains yeah you can picture yeah because you can paint them but maybe something else yeah

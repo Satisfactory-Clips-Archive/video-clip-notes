@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [July 6th, 2021
 
 ### Transcript
 
-> we know what's going to be in update five we know what's going to be in update five but you guys do not not really there's some things but uh that we have released in fact we have a youtube video on that you can find a link if you want i'm not gonna give you a choice okay yeah holy i didn't realize yeah here's the link if you uh want to see that video
+> we know what's going to be in update five we know what's going to be in update five but you guys do not not really there's some things but, that we have released in fact we have a youtube video on that you can find a link if you want i'm not gonna give you a choice okay yeah holy i didn't realize yeah here's the link if you, want to see that video

@@ -16,4 +16,4 @@ This question was possibly replaced with a more recent answer: [February 19th, 2
 
 ### Transcript
 
-> yeah what about a more complex power system with transformers and stuff uh also a really good idea um take punch that into the questions website it's also a pretty good idea uh not impossible
+> yeah what about a more complex power system with transformers and stuff, also a really good idea, take punch that into the questions website it's also a pretty good idea, not impossible

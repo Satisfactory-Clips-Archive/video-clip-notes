@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=jM_iu4s-OJ8
 
 ### Transcript
 
-> uh you're self-publishing right satisfactory's technique an indie game yeah i mean i think technically we're not india anymore because we have another company that owns coffee stain or so i don't know how the those rules work but yeah like like we have a publisher but the publisher is also us we have coffee stain publishing and so we like we just do everything ourselves basically um so i don't know like i think by some definitions we're not india anymore but we are pretty much independent we function independently do our own thing
+> you're self-publishing right satisfactory's technique an indie game yeah i mean i think technically we're not india anymore because we have another company that owns coffee stain or so i don't know how the those rules work but yeah like like we have a publisher but the publisher is also us we have coffee stain publishing and so we like we just do everything ourselves basically, so i don't know like i think by some definitions we're not india anymore but we are pretty much independent we function independently do our own thing

@@ -22,10 +22,9 @@ https://www.youtube.com/watch?v=HYFYwqyhl_g
 
 ### Transcript
 
-> um
 >
 > [Music]
 >
-> can we blow up the trains wow why would you want to do that why would you want to like place your hard-earned uh hub part your precious hub part just blow up your train that sounds evil guys i'm writing this down
+> can we blow up the trains wow why would you want to do that why would you want to like place your hard-earned, hub part your precious hub part just blow up your train that sounds evil guys i'm writing this down
 >
 > [Laughter]

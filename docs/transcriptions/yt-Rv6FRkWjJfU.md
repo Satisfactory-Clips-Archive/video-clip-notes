@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=Rv6FRkWjJfU
 
 ### Transcript
 
-> wow wow yeah what is the future of nuclear waste um i i can't really say what the future is um because you know we will either you know tease it moving forward or surprise you with something or nothing happens but we we have already teased that something is happening um in one of the recent youtube videos um you know we we teased some some some changes to nuclear waste yeah not to mention that tim leaked it tim linked it yeah i forgot about that yeah that's so funny he's way out of the company
+> wow wow yeah what is the future of nuclear waste, i i can't really say what the future is, because you know we will either you know tease it moving forward or surprise you with something or nothing happens but we we have already teased that something is happening, in one of the recent youtube videos, you know we we teased some some some changes to nuclear waste yeah not to mention that tim leaked it tim linked it yeah i forgot about that yeah that's so funny he's way out of the company

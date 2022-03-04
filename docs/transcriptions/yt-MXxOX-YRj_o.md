@@ -18,7 +18,7 @@ This question was possibly replaced with a more recent answer: [October 8th, 202
 
 ### Transcript
 
-> how much work on the chains we'll see in update five there's a couple of bug fixes that i know for sure are gonna make it in there um
+> how much work on the chains we'll see in update five there's a couple of bug fixes that i know for sure are gonna make it in there
 >
 > [Music]
 >

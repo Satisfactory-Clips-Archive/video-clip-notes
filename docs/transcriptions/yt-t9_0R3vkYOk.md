@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=t9_0R3vkYOk
 
 ### Transcript
 
-> item let me know uh i heard how bad was the indigestion after eating all the keys i just want more keys holy can't get enough of them it's like the runs after in the morning though it was worth it keys
+> item let me know, i heard how bad was the indigestion after eating all the keys i just want more keys holy can't get enough of them it's like the runs after in the morning though it was worth it keys

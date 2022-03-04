@@ -20,4 +20,4 @@ This question was possibly replaced with a more recent answer: [April 13th, 2021
 
 ### Transcript
 
-> will the engine upgrade or update four be first in early access uh they'll come at the same time because the engine upgrade is currently update four update four is built on the engine upgrade
+> will the engine upgrade or update four be first in early access, they'll come at the same time because the engine upgrade is currently update four update four is built on the engine upgrade

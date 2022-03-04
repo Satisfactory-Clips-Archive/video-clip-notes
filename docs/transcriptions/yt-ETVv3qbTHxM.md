@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=ETVv3qbTHxM
 
 ### Transcript
 
-> uh can you add scissors to awesome shops so we can run with scissors i like it if people run around with scissors instead of the coffee mug or something that's pretty funny we'll get right on it but you get additional fall damage if you oh my god that's so good yeah i love that i love that so much yeah
+> can you add scissors to awesome shops so we can run with scissors i like it if people run around with scissors instead of the coffee mug or something that's pretty funny we'll get right on it but you get additional fall damage if you oh my god that's so good yeah i love that i love that so much yeah

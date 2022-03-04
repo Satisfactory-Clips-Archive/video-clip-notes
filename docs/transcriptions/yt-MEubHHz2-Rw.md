@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=MEubHHz2-Rw
 
 ### Transcript
 
-> uh flying cyber wagon went oh man that's that's we need to put that don't even worry about the qa side on that one we'll put it straight into production right now
+> flying cyber wagon went oh man that's that's we need to put that don't even worry about the qa side on that one we'll put it straight into production right now

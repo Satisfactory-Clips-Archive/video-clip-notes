@@ -24,4 +24,4 @@ https://www.youtube.com/watch?v=ezGse7K-fWI
 
 ### Transcript
 
-> about like what what does that mean for existing ways of extracting water and oil does that mean that oil nodes will be removed or changed or will that mean that we don't use water extractors anymore so maybe you can uh clear up that confusion a bit mark uh so all the current ways of extracting oil and water will stay as they are so you will keep your water extractors and your oil pumps where they are all the nodes will stay exactly the same for those so everything you already have and it's currently in the game it won't change at all
+> about like what what does that mean for existing ways of extracting water and oil does that mean that oil nodes will be removed or changed or will that mean that we don't use water extractors anymore so maybe you can, clear up that confusion a bit mark, so all the current ways of extracting oil and water will stay as they are so you will keep your water extractors and your oil pumps where they are all the nodes will stay exactly the same for those so everything you already have and it's currently in the game it won't change at all

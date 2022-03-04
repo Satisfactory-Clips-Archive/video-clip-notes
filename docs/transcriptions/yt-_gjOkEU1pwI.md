@@ -24,4 +24,4 @@ https://www.youtube.com/watch?v=_gjOkEU1pwI
 
 ### Transcript
 
-> yeah somebody asked about the uh the gas mask in the in vehicles that's that's part of the when we're gonna look at the equipment because the the that bug is like sure we can make a sort of workaround solution for that but we'd rather do like a proper implementation of the equipment system that needs to be overhauled for it to work with vehicles so that's why we haven't done that yet
+> yeah somebody asked about the, the gas mask in the in vehicles that's that's part of the when we're gonna look at the equipment because the the that bug is like sure we can make a sort of workaround solution for that but we'd rather do like a proper implementation of the equipment system that needs to be overhauled for it to work with vehicles so that's why we haven't done that yet

@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=c0Me_EQY_Qs
 
 ### Transcript
 
-> what do you want to be when you grow up a fire truck uh find a fancy streamer a fire truck is that what you said hell yeah that's pretty good
+> what do you want to be when you grow up a fire truck, find a fancy streamer a fire truck is that what you said hell yeah that's pretty good

@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=PRdSxdarJpQ
 
 ### Transcript
 
-> do you guys work near paradox interactive headquarters in sweden i don't know his paradox isn't here stockholm right yeah i think so then no so we have i mean there there is a there is a coffee coffee state north which is a studio one of our studios in stockholm so i guess they work near him but we're in a tiny little town called we uh used to work closely to the raft people but they also moved to stockholm just leaves we smell bad what was the name of that studio mayraft rubber we were close to iron gate though red bead that's the name of it
+> do you guys work near paradox interactive headquarters in sweden i don't know his paradox isn't here stockholm right yeah i think so then no so we have i mean there there is a there is a coffee coffee state north which is a studio one of our studios in stockholm so i guess they work near him but we're in a tiny little town called we, used to work closely to the raft people but they also moved to stockholm just leaves we smell bad what was the name of that studio mayraft rubber we were close to iron gate though red bead that's the name of it

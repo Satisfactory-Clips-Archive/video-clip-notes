@@ -16,4 +16,4 @@ https://youtube.com/clip/UgwoWLQOb1xROLzSTph4AaABCQ
 
 ### Transcript
 
-> you say that the their their aerial vehicles does that mean we can pilot them as players no destroyer of dreams yeah that's how it goes here okay so um what was
+> you say that the their their aerial vehicles does that mean we can pilot them as players no destroyer of dreams yeah that's how it goes here okay so, what was

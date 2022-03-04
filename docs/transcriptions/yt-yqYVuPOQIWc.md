@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=yqYVuPOQIWc
 
 ### Transcript
 
-> no new teaser this thursday friday it'll be out on friday friday yeah there'll be a and it will be a teaser yeah um
+> no new teaser this thursday friday it'll be out on friday friday yeah there'll be a and it will be a teaser yeah

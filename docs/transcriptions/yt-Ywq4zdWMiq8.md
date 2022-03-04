@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [February 11th,
 
 ### Transcript
 
-> um well blueprints be a thing at some point um so you can just make air buildings that don't take resources um and pre-plan upgrades the factory there are mods for that kind of thing and as far as i know we do not we are not gonna make it but there are mods
+> well blueprints be a thing at some point, so you can just make air buildings that don't take resources, and pre-plan upgrades the factory there are mods for that kind of thing and as far as i know we do not we are not gonna make it but there are mods

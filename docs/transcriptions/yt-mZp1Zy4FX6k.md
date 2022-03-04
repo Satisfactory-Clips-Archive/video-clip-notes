@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [November 2nd, 
 
 ### Transcript
 
-> when we see the crab well you can see the crab actually you can see the crab right now in the uh reveal trailer from two years ago three years ago however long ago that was you could see the crab right now just not in the game
+> when we see the crab well you can see the crab actually you can see the crab right now in the, reveal trailer from two years ago three years ago however long ago that was you could see the crab right now just not in the game

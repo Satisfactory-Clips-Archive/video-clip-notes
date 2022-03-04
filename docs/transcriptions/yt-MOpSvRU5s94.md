@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=MOpSvRU5s94
 
 ### Transcript
 
-> can we make pipes transparent yeah you uh hop press f and then hold click disappear can't see him anymore jay borden
+> can we make pipes transparent yeah you, hop press f and then hold click disappear can't see him anymore jay borden

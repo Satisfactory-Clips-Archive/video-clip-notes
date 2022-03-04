@@ -20,4 +20,4 @@ https://youtube.com/embed/jmrABq4cCzY?autoplay=1&start=67&end=93
 
 ### Transcript
 
-> how to access the game on experimental if you're on steam right click the game and hit properties then you go into the betas tab and then you pick the drop down list you pick like experimental it's one of the options there and on the epic version of the game there should be like a satisfactory experimental version in your library somewhere around there um the we had an issue where the icon on the epic games version didn't update but the update was out and when can we
+> how to access the game on experimental if you're on steam right click the game and hit properties then you go into the betas tab and then you pick the drop down list you pick like experimental it's one of the options there and on the epic version of the game there should be like a satisfactory experimental version in your library somewhere around there, the we had an issue where the icon on the epic games version didn't update but the update was out and when can we

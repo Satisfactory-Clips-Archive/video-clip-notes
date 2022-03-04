@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=THQ2-ZTc7Jk
 
 ### Transcript
 
-> um can you play something i guess that would have made sense left-handed uh i am left-handed but the stream is mirrored uh confusingly enough ignore that snooty caster
+> can you play something i guess that would have made sense left-handed, i am left-handed but the stream is mirrored, confusingly enough ignore that snooty caster

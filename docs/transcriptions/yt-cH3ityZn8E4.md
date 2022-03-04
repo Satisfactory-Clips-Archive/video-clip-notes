@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=cH3ityZn8E4
 
 ### Transcript
 
-> um what hub here will have electric floors i have no idea i don't think anyone has any uh someone maybe has an idea but yeah whether or not that that goes they have not told us no
+> what hub here will have electric floors i have no idea i don't think anyone has any, someone maybe has an idea but yeah whether or not that that goes they have not told us no

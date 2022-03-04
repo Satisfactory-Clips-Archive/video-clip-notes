@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=wXmaEokJ54A
 
 ### Transcript
 
-> did i work on metal slug i no not really i i i helped i helped do some testing for uh one of the metal slugs that got re-released onto steam i was a programmer for for uh king of fighters 13 the steam version of that i did a lot of that by myself actually um and then worked on some other small projects with them yeah and then i moved and then i worked for q games for a few months and then i moved to sweden
+> did i work on metal slug i no not really i i i helped i helped do some testing for, one of the metal slugs that got re-released onto steam i was a programmer for for, king of fighters 13 the steam version of that i did a lot of that by myself actually, and then worked on some other small projects with them yeah and then i moved and then i worked for q games for a few months and then i moved to sweden

@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=544C8V8neKk
 
 ### Transcript
 
-> make the flying meant to fly higher please that is the first time i've seen anyone ask that actually um you can leave it as a suggestion on questions at satisfactorygame.com uh feel free to leave that suggestion there and the development team will take it into consideration what was that did you hear a sound that sounded that was from uh me dipping out from the team's thing oh that's what that was right yeah
+> make the flying meant to fly higher please that is the first time i've seen anyone ask that actually, you can leave it as a suggestion on questions at satisfactorygame.com, feel free to leave that suggestion there and the development team will take it into consideration what was that did you hear a sound that sounded that was from, me dipping out from the team's thing oh that's what that was right yeah

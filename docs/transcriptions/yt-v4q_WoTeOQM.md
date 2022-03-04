@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [July 13th, 202
 
 ### Transcript
 
-> how's the current map update progressing progressing well progressing well yes uh it might be a thing that we can sort of showcase or tease or something um as soon as maybe to too strong yeah in the near future yeah yeah in the semi near future
+> how's the current map update progressing progressing well progressing well yes, it might be a thing that we can sort of showcase or tease or something, as soon as maybe to too strong yeah in the near future yeah yeah in the semi near future

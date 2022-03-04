@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=cKI8Ss3vpeA
 
 ### Transcript
 
-> um imagine thinking satisfactory would lose people for any reason i mean i mean sometimes you can burn out on the game
+> imagine thinking satisfactory would lose people for any reason i mean i mean sometimes you can burn out on the game

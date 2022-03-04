@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=VQZ8myIFqmY
 
 ### Transcript
 
-> uh we want a to c walls on flat foundations okay i'm not sure entirely sure what a to c walls are but you can go to the qa site question satisfactory game.com and leave your suggestions there and let the team the team will read it take that into consideration yes
+> we want a to c walls on flat foundations okay i'm not sure entirely sure what a to c walls are but you can go to the qa site question satisfactory game.com and leave your suggestions there and let the team the team will read it take that into consideration yes

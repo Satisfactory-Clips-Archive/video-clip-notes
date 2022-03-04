@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=vsmihiP_Tmg
 
 ### Transcript
 
-> within the direction of gas will the coal generators be divided into two buildings uh no it will still be the same buildings like everything nothing will change up until tier seven uh with update four everything everything tier seven and upward is the the changes and we're also adding tier eight we're not adding any other tiers than that in um in the update four
+> within the direction of gas will the coal generators be divided into two buildings, no it will still be the same buildings like everything nothing will change up until tier seven, with update four everything everything tier seven and upward is the the changes and we're also adding tier eight we're not adding any other tiers than that in, in the update four

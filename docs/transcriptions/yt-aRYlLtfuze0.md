@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=aRYlLtfuze0
 
 ### Transcript
 
-> on it yeah a huge huge shout out to everyone who uh does anything related to translations in the in our community it's amazing to see uh it's like a lot of like communities sub communities within our community yeah doing like amazing stuff um and maybe one day we'll end up showcasing everybody but uh it was nice to to give them some credit yes yeah much love much love yeah
+> on it yeah a huge huge shout out to everyone who, does anything related to translations in the in our community it's amazing to see, it's like a lot of like communities sub communities within our community yeah doing like amazing stuff, and maybe one day we'll end up showcasing everybody but, it was nice to to give them some credit yes yeah much love much love yeah

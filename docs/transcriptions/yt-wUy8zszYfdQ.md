@@ -20,4 +20,4 @@ This question was possibly duplicated with a more recent answer: [October 19th, 
 
 ### Transcript
 
-> you get signed soon uh i hope so science is like one of the most top voted things on the qa site right apart from golf i hope what are we looking at right now 168 votes we can do better i'm going to drop the the make sure to upload this on the q a side this is the most important issue right now um what do you mean snoot feature requests i want to edit that no no this is a community um yeah it's in progress somebody was already working on that who would have thought not me
+> you get signed soon, i hope so science is like one of the most top voted things on the qa site right apart from golf i hope what are we looking at right now 168 votes we can do better i'm going to drop the the make sure to upload this on the q a side this is the most important issue right now, what do you mean snoot feature requests i want to edit that no no this is a community, yeah it's in progress somebody was already working on that who would have thought not me

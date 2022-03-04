@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=bAyZfwp-yyI
 
 ### Transcript
 
-> well fixing the ai pathing for the crab also make the bean non-derpy unfortunately yes the that is that is like the main issue with why we can't add the big crab enemy it's because of the ai pathing so uh yeah
+> well fixing the ai pathing for the crab also make the bean non-derpy unfortunately yes the that is that is like the main issue with why we can't add the big crab enemy it's because of the ai pathing so, yeah

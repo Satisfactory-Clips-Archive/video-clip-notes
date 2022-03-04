@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=6K5GUcR4tyU
 
 ### Transcript
 
-> it should have been diego we like the idea of the uh like he didn't know what i was doing and he got annoyed at me that that kind of we should bring in all right so let's grab snoot uh i hope you're there snoot sure am okay
+> it should have been diego we like the idea of the, like he didn't know what i was doing and he got annoyed at me that that kind of we should bring in all right so let's grab snoot, i hope you're there snoot sure am okay

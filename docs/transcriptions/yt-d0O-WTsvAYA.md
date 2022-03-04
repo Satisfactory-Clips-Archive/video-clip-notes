@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=d0O-WTsvAYA
 
 ### Transcript
 
-> why would you need support for spearing exactly like what isn't the point of speedrunning that i mean you can add features to like have like timers and stuff like that i guess uh as far as i know there's nothing stopping you from speedrunning the game
+> why would you need support for spearing exactly like what isn't the point of speedrunning that i mean you can add features to like have like timers and stuff like that i guess, as far as i know there's nothing stopping you from speedrunning the game

@@ -16,7 +16,7 @@ This question was possibly duplicated with a more recent answer: [February 22nd,
 
 ### Transcript
 
-> oh my god it's good any plans on weather cycles uh there was always a plan for that but uh i don't think that's uh
+> oh my god it's good any plans on weather cycles, there was always a plan for that but, i don't think that's
 >
 > [Music]
 >

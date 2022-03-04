@@ -20,4 +20,4 @@ https://www.youtube.com/watch?v=nD48o-qhzbg
 
 ### Transcript
 
-> um i think someone asked about the inspiration for the north forest biome uh and like we looked a lot at uh prehistoric forests like illustrations of clear story followers it's what people kind of thought they looked like at the time specifically also for the the the pine trees and you know we just looked out the window basically swedish landscape as an inspiration now you don't have to come to sweden just play satisfactory it's the same thing exactly yeah exactly
+> i think someone asked about the inspiration for the north forest biome, and like we looked a lot at, prehistoric forests like illustrations of clear story followers it's what people kind of thought they looked like at the time specifically also for the the the pine trees and you know we just looked out the window basically swedish landscape as an inspiration now you don't have to come to sweden just play satisfactory it's the same thing exactly yeah exactly

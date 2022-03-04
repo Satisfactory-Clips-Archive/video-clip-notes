@@ -18,4 +18,4 @@ https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6956&end=6968
 
 ### Transcript
 
-> hover pack why not one up tier six i don't know uh mark uh changed his mind a little bit it's better than tier viii but yeah did you meet the swedish chef yet i am
+> hover pack why not one up tier six i don't know, mark, changed his mind a little bit it's better than tier viii but yeah did you meet the swedish chef yet i am

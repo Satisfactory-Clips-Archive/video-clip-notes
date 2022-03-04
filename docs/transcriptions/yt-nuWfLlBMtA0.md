@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [March 2nd, 202
 
 ### Transcript
 
-> um are we gonna have new stuff in the awesome shop uh for update four i i don't know i think so right i don't know sure didn't didn't you show something off in the maybe uh there's some changes to the ui okay yeah that maybe that was what i think about it currently if there's any things coming or not you're gonna find out when the update is yeah only a few weeks away not too long not too long guys not too long yeah it is really soon
+> are we gonna have new stuff in the awesome shop, for update four i i don't know i think so right i don't know sure didn't didn't you show something off in the maybe, there's some changes to the ui okay yeah that maybe that was what i think about it currently if there's any things coming or not you're gonna find out when the update is yeah only a few weeks away not too long not too long guys not too long yeah it is really soon

@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=MZfzoZh_uO0
 
 ### Transcript
 
-> all right here we go so here's the video again so uh all right so trains confirmed trains coming into update five you guys you all wanted it you know we teased it a long time ago and finally they're here yep
+> all right here we go so here's the video again so, all right so trains confirmed trains coming into update five you guys you all wanted it you know we teased it a long time ago and finally they're here yep

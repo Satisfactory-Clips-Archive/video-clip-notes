@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=4W-iYhHMmCE
 
 ### Transcript
 
-> any plans for official partners for dedicated server providers we have absolutely uh no interest in any partnership with any vendor uh whatsoever we we've we've done our part we've you know released dedicated servers and we've given everyone the same tools we don't like you know playing any favorites or anything like that um so yeah it's just up to anyone if they want to you know set up a service to provide dedicated servers we are not going to be partnering with anyone for that
+> any plans for official partners for dedicated server providers we have absolutely, no interest in any partnership with any vendor, whatsoever we we've we've done our part we've you know released dedicated servers and we've given everyone the same tools we don't like you know playing any favorites or anything like that, so yeah it's just up to anyone if they want to you know set up a service to provide dedicated servers we are not going to be partnering with anyone for that

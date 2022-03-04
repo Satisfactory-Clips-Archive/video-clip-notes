@@ -16,4 +16,4 @@ This question was possibly replaced with a more recent answer: [February 16th, 2
 
 ### Transcript
 
-> um will be a way to deal with nuclear wastes i don't know maybe one day yeah but the the fact that you can't deal with it is like kind um by design that's the trade-off of using it so
+> will be a way to deal with nuclear wastes i don't know maybe one day yeah but the the fact that you can't deal with it is like kind, by design that's the trade-off of using it so

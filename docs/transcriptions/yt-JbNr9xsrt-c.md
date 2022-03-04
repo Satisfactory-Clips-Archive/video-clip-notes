@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=JbNr9xsrt-c
 
 ### Transcript
 
-> i have my alt scroll set to a plus minus on my numpad so okay i don't know if that actually clarified whether or not it was possible to actually switch it but i think it's possible to switch the mouse wheel to to like two buttons um pretty sure but i might be wrong it's under controls okay
+> i have my alt scroll set to a plus minus on my numpad so okay i don't know if that actually clarified whether or not it was possible to actually switch it but i think it's possible to switch the mouse wheel to to like two buttons, pretty sure but i might be wrong it's under controls okay

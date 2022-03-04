@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=uaMgtzaVucM
 
 ### Transcript
 
-> sorry but with both of you being fired quitting will we get guest hosting from your dad's next week how's your dad's english it's uh it's i guess it's okay it's a little bit on this side you know but yeah sweetie he's got the he's got the volvo accent as we say here right my dad's accent's really thick as well yeah love it it's got like a thick french accent kind of mmm creole romantic
+> sorry but with both of you being fired quitting will we get guest hosting from your dad's next week how's your dad's english it's, it's i guess it's okay it's a little bit on this side you know but yeah sweetie he's got the he's got the volvo accent as we say here right my dad's accent's really thick as well yeah love it it's got like a thick french accent kind of mmm creole romantic

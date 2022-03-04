@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=r8KwSMf7_kk
 
 ### Transcript
 
-> uh could there ever be drones or airplanes that we could fly and transport stuff with well there already are drones that you can transport stuff with but you can't fly on them and you know there there's an ongoing discussion there of whether or not you should be able to fly on them or not something that's been requested but at the moment you cannot
+> could there ever be drones or airplanes that we could fly and transport stuff with well there already are drones that you can transport stuff with but you can't fly on them and you know there there's an ongoing discussion there of whether or not you should be able to fly on them or not something that's been requested but at the moment you cannot

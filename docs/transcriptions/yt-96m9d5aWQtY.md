@@ -18,4 +18,4 @@ This question was possibly replaced with a more recent answer: [September 7th, 2
 
 ### Transcript
 
-> any news on walls that would fit on rams uh i answered this before but i'll say it again uh we have nothing to announce right now but we it would be cool i would like to do it i think but priorities
+> any news on walls that would fit on rams, i answered this before but i'll say it again, we have nothing to announce right now but we it would be cool i would like to do it i think but priorities

@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=GFpWe3jY2hQ
 
 ### Transcript
 
-> uh any plans for fusion power i don't think so not that i know
+> any plans for fusion power i don't think so not that i know

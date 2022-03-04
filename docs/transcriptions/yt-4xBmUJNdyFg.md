@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=4xBmUJNdyFg
 
 ### Transcript
 
-> right now yep uh are there gonna be free dlcs uh they're just updates so like yeah those gonna be updates yeah
+> right now yep, are there gonna be free dlcs, they're just updates so like yeah those gonna be updates yeah

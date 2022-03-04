@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [November 30th,
 
 ### Transcript
 
-> uh do you have any job openings we do check out our website um go to coffeestainstudios.com what was it obviously studios.com yeah it is um check out the output we're looking for a generalist game designer at the moment
+> do you have any job openings we do check out our website, go to coffeestainstudios.com what was it obviously studios.com yeah it is, check out the output we're looking for a generalist game designer at the moment

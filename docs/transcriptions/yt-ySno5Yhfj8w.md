@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=ySno5Yhfj8w
 
 ### Transcript
 
-> adam teleportation with mod work really nicely you're you're running into the same issue there unfortunately um there are precision errors with the way the underlying transportation of items work currently
+> adam teleportation with mod work really nicely you're you're running into the same issue there unfortunately, there are precision errors with the way the underlying transportation of items work currently

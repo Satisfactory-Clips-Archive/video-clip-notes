@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [February 26th,
 
 ### Transcript
 
-> okay yeah um we'll update forbidden experimental main branch like uh like always it's gonna come out on experimental first so uh people can test that and then once it's stable we'll move it to the main branch
+> okay yeah, we'll update forbidden experimental main branch like, like always it's gonna come out on experimental first so, people can test that and then once it's stable we'll move it to the main branch

@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=BXpzAjxfBqc
 
 ### Transcript
 
-> the times and save files were hundreds of megabytes yeah those are good times and then i added compression to it and then they were like hundreds of uh
+> the times and save files were hundreds of megabytes yeah those are good times and then i added compression to it and then they were like hundreds of

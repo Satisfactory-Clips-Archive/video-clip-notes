@@ -28,4 +28,4 @@ https://www.youtube.com/watch?v=WcsqEVLXPfU
 
 ### Transcript
 
-> will there ever be an option to toggle off monsters uh for those who've played over and over and just want to build without being slapped into next week by hog so we we do intend on adding like game modes or something at some point a lot of people want peaceful peaceful mode so that might be a thing in the future but in the meantime um you just just just kill them and then uh and then build there and the hogs won't spawn again yeah yeah in the future who knows
+> will there ever be an option to toggle off monsters, for those who've played over and over and just want to build without being slapped into next week by hog so we we do intend on adding like game modes or something at some point a lot of people want peaceful peaceful mode so that might be a thing in the future but in the meantime, you just just just kill them and then, and then build there and the hogs won't spawn again yeah yeah in the future who knows

@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=pLGMWKj9AW0
 
 ### Transcript
 
-> uh can we make it so friends can play in our sessions have more rights like setting our right out of train rats you're supposed to be able to do that there's a there's a couple of bugs in multiplayer um but yes you're supposed to be able to do that essentially and you're going to get more rights once we fix those issues
+> can we make it so friends can play in our sessions have more rights like setting our right out of train rats you're supposed to be able to do that there's a there's a couple of bugs in multiplayer, but yes you're supposed to be able to do that essentially and you're going to get more rights once we fix those issues

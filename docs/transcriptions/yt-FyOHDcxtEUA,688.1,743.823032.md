@@ -16,7 +16,7 @@ https://youtube.com/clip/Ugx1wXZIIMeYwnzB5XV4AaABCQ
 
 ### Transcript
 
-> yeah so what we're looking at here is a very early version of the drone i think it's the first time we got the animations in for the docking and the takeoffs so what we did is we basically set up a little docking sequence and takeoff sequence that plays when the drone flies um it just looks a little bit better when it interacts with the station that way it's just it's just an animation that plays when it gets to the right point exactly yeah instead of just like flying to the station and then stopping there without anything fancy happening uh this just makes it look a lot better damn there you go it travels up to the world grid and to its destination and then this is just running another animation i guess yeah exactly so you can see it's starting right there
+> yeah so what we're looking at here is a very early version of the drone i think it's the first time we got the animations in for the docking and the takeoffs so what we did is we basically set up a little docking sequence and takeoff sequence that plays when the drone flies, it just looks a little bit better when it interacts with the station that way it's just it's just an animation that plays when it gets to the right point exactly yeah instead of just like flying to the station and then stopping there without anything fancy happening, this just makes it look a lot better damn there you go it travels up to the world grid and to its destination and then this is just running another animation i guess yeah exactly so you can see it's starting right there
 >
 > [Music]
 >

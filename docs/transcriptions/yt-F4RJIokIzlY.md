@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [July 13th, 202
 
 ### Transcript
 
-> any news on ram fences on on on rams i guess fences on ramps uh don't know make sure to upload that on the q a side after evo voted golf on the qa side okay
+> any news on ram fences on on on rams i guess fences on ramps, don't know make sure to upload that on the q a side after evo voted golf on the qa side okay

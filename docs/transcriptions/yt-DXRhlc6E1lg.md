@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=DXRhlc6E1lg
 
 ### Transcript
 
-> how do i roll and roll for experimental so you right click on the game uh you hit properties and in the privacy tab properties tab there's a betas tab in steam uh you click that there's like a drop it down list where you pick experimental it says like default by default you pick experimental and it will reinstall the game with the experimental branch
+> how do i roll and roll for experimental so you right click on the game, you hit properties and in the privacy tab properties tab there's a betas tab in steam, you click that there's like a drop it down list where you pick experimental it says like default by default you pick experimental and it will reinstall the game with the experimental branch

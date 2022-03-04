@@ -21,7 +21,7 @@ https://www.youtube.com/watch?v=7i6s8l1lmJ0
 ### Transcript
 
 > Snutt: Umm- and I saw someone asked whether
-uh the uh containers will like save after unpackage?
+, the, containers will like save after unpackage?
 >
 > Snutt: Yeah, it'll work the same way as refineries.
 >

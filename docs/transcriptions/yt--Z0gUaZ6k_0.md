@@ -20,4 +20,4 @@ This question was possibly duplicated with a more recent answer: [October 12th, 
 
 ### Transcript
 
-> what's the story behind the two fixed miss items in the super the super oscillator quantum here uh there's three items or maybe there's two um yeah no comment it will make sense when it makes sense
+> what's the story behind the two fixed miss items in the super the super oscillator quantum here, there's three items or maybe there's two, yeah no comment it will make sense when it makes sense

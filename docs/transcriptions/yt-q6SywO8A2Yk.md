@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=q6SywO8A2Yk
 
 ### Transcript
 
-> hello please fix multiplayer i have to say this every time someone says hello please please fix multiplayer saying that doesn't actually help us fix multiplayer because we have no idea what your issue is okay so go to question site qa uh you can leave your detailed stuff if you have having issues with multiplayer leave all the details there so we know exactly what your problem is and we can maybe fix it okay
+> hello please fix multiplayer i have to say this every time someone says hello please please fix multiplayer saying that doesn't actually help us fix multiplayer because we have no idea what your issue is okay so go to question site qa, you can leave your detailed stuff if you have having issues with multiplayer leave all the details there so we know exactly what your problem is and we can maybe fix it okay

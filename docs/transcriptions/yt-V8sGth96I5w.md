@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [December 17th,
 
 ### Transcript
 
-> that's what we're working towards we need more foundation types uh triangle foundations smaller foundations yeah it's not impossible that happens make sure to upload that on the keyway side doo doo doo doo doo
+> that's what we're working towards we need more foundation types, triangle foundations smaller foundations yeah it's not impossible that happens make sure to upload that on the keyway side doo doo doo doo doo

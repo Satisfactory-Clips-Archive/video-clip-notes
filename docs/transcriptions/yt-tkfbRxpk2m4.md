@@ -18,7 +18,7 @@ This question was possibly replaced with a more recent answer: [October 8th, 202
 
 ### Transcript
 
-> um train loading are the plans to add an option to tell the train to hole at the station until the dock is full or do i need to place that on the qa qa qa quick over here i believe it's already there but i don't know the answer to that so uh q a q a most of these questions like when it comes to like things i don't know it's mostly because like either we haven't made a decision either because it's somewhat of a new request that i haven't seen a lot of so i haven't like been able to check in with people uh or it's because um
+> train loading are the plans to add an option to tell the train to hole at the station until the dock is full or do i need to place that on the qa qa qa quick over here i believe it's already there but i don't know the answer to that so, q a q a most of these questions like when it comes to like things i don't know it's mostly because like either we haven't made a decision either because it's somewhat of a new request that i haven't seen a lot of so i haven't like been able to check in with people, or it's because
 >
 > [Music]
 >

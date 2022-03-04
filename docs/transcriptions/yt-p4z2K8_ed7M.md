@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=p4z2K8_ed7M
 
 ### Transcript
 
-> uh is it possible to enable collision damage in buildings from vehicles uh no that's not something that that ties into the thing where like we don't want to do like reparate like you need to repair buildings and stuff like that like that's it's not something we want to do
+> is it possible to enable collision damage in buildings from vehicles, no that's not something that that ties into the thing where like we don't want to do like reparate like you need to repair buildings and stuff like that like that's it's not something we want to do

@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [November 16th,
 
 ### Transcript
 
-> chance we'll see people peaceful moots in the game soon i don't know um defined soon i think it's gonna happen before 1.0 but yeah i don't know when
+> chance we'll see people peaceful moots in the game soon i don't know, defined soon i think it's gonna happen before 1.0 but yeah i don't know when

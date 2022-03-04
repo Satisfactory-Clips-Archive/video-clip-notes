@@ -25,4 +25,4 @@ https://www.youtube.com/watch?v=C9vuYpUPjBM
 
 ### Transcript
 
-> anyway so there we go all right and we still blown the fuse from prior um or maybe we blow a fuse again i'm pretty sure we're good looks like we just blew it there we go oh oh oh look at that so now our production is up at 600 megawatts
+> anyway so there we go all right and we still blown the fuse from prior, or maybe we blow a fuse again i'm pretty sure we're good looks like we just blew it there we go oh oh oh look at that so now our production is up at 600 megawatts

@@ -20,4 +20,4 @@ https://www.youtube.com/watch?v=NA6C7snDkTw
 
 ### Transcript
 
-> will there be a satisfactory benchmark you can compare settings with uh not at the moment we have our own we only have a benchmark for our level currently um so uh yeah but that we can't can't give that to anyone else
+> will there be a satisfactory benchmark you can compare settings with, not at the moment we have our own we only have a benchmark for our level currently, so, yeah but that we can't can't give that to anyone else

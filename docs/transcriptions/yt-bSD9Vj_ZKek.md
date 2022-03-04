@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [February 15th,
 
 ### Transcript
 
-> uh working hub toilet yeah that's the toilet dlc it's a one dollar dlc it'll happen don't worry
+> working hub toilet yeah that's the toilet dlc it's a one dollar dlc it'll happen don't worry

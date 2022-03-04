@@ -18,4 +18,4 @@ This question was possibly replaced with a more recent answer: [November 2nd, 20
 
 ### Transcript
 
-> will satisfactory be supported on the steam deck uh hopefully yeah maybe yeah maybe we'll have to see we we're still waiting on that
+> will satisfactory be supported on the steam deck, hopefully yeah maybe yeah maybe we'll have to see we we're still waiting on that

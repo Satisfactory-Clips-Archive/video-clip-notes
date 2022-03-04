@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [June 1st, 2021
 
 ### Transcript
 
-> debrief PvE or PvP uh there's no PvP no no but there's PvE we have like angry monsters in the world and as you can see some of them in the trailer pay attention yeah if I hadn't closed my thing I could have shown it there's a few things you would obviously as you can see fight flowers flowers are the most lethal thing you can find in this game absolutely committing to it now
+> debrief PvE or PvP, there's no PvP no no but there's PvE we have like angry monsters in the world and as you can see some of them in the trailer pay attention yeah if I hadn't closed my thing I could have shown it there's a few things you would obviously as you can see fight flowers flowers are the most lethal thing you can find in this game absolutely committing to it now

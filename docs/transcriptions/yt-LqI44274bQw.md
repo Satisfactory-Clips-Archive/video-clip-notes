@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=LqI44274bQw
 
 ### Transcript
 
-> have valheim sales surprise satisfactory yeah absolutely they're like they've like doubled it i think so like what's malheim they're like uh they're over five mil yeah oh right what's valheim exactly yeah what's that game never heard of it
+> have valheim sales surprise satisfactory yeah absolutely they're like they've like doubled it i think so like what's malheim they're like, they're over five mil yeah oh right what's valheim exactly yeah what's that game never heard of it

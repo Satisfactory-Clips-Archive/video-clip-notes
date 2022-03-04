@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=jC1yskM2KZQ
 
 ### Transcript
 
-> we're not using unreal engine 5 right now are still going to be fixing engine upgrade while in content freeze yes we're fixing uh stabilizing things is part of the uh content freeze yes
+> we're not using unreal engine 5 right now are still going to be fixing engine upgrade while in content freeze yes we're fixing, stabilizing things is part of the, content freeze yes

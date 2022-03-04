@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [February 22nd,
 
 ### Transcript
 
-> when does vr support come your guess is as good as mine dog yeah you tell us yeah you tell us just uh we've said before you can just put the game on two monitors sit really close adjust them a little bit find the sweet spot bam it's like you're there it's like you're there
+> when does vr support come your guess is as good as mine dog yeah you tell us yeah you tell us just, we've said before you can just put the game on two monitors sit really close adjust them a little bit find the sweet spot bam it's like you're there it's like you're there

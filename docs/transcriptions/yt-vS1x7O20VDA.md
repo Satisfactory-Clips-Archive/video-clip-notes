@@ -27,4 +27,4 @@ https://www.youtube.com/watch?v=vS1x7O20VDA
 
 ### Transcript
 
-> uh do you plan on making tankers for trucks and trains uh trains i guess with tankers you mean like liquid uh thingamabobs so for trains there exists uh liquid freight cars i believe they're called um and i don't think we have any plans currently to make any for trucks i don't know uh the rationale behind that but that's that's what i got for you
+> do you plan on making tankers for trucks and trains, trains i guess with tankers you mean like liquid, thingamabobs so for trains there exists, liquid freight cars i believe they're called, and i don't think we have any plans currently to make any for trucks i don't know, the rationale behind that but that's that's what i got for you

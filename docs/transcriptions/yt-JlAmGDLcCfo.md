@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [August 31st, 2
 
 ### Transcript
 
-> can you guys add a lifestyle update with furniture and stuff like that so yeah we are looking into decorative stuff uh so if there's anything specific you guys want us to add uh please post it on the q a site
+> can you guys add a lifestyle update with furniture and stuff like that so yeah we are looking into decorative stuff, so if there's anything specific you guys want us to add, please post it on the q a site

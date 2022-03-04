@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [September 7th,
 
 ### Transcript
 
-> uh we'll be able to place holes in walls and floors freely uh i think that would be cool um i don't know what we've planned for that yet um i think we want to like revamp the foundations themselves that's good but it would be cool i'll put that on the quest inside because i know there's there's like it's one of the most uploaded ones currently uh to be able to pull uh elevators through foundations like that so make sure to upload it
+> we'll be able to place holes in walls and floors freely, i think that would be cool, i don't know what we've planned for that yet, i think we want to like revamp the foundations themselves that's good but it would be cool i'll put that on the quest inside because i know there's there's like it's one of the most uploaded ones currently, to be able to pull, elevators through foundations like that so make sure to upload it

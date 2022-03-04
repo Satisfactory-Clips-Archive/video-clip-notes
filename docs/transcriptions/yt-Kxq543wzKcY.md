@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [November 2nd, 
 
 ### Transcript
 
-> uh are we ever gonna see a new enemy type we've just been talking about that my dude uh there's gonna be a big crab at least at least just that one at least at least
+> are we ever gonna see a new enemy type we've just been talking about that my dude, there's gonna be a big crab at least at least just that one at least at least

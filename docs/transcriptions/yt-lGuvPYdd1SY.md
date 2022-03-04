@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=lGuvPYdd1SY
 
 ### Transcript
 
-> ability to ride the space elevator can you have some people done that before what am i thinking of because i remember people like flying up into the sky hitting the skybox and then everything just sort of breaking which is pretty funny i don't think i don't know if that was the um drone the dropship the hub dropship or not
+> ability to ride the space elevator can you have some people done that before what am i thinking of because i remember people like flying up into the sky hitting the skybox and then everything just sort of breaking which is pretty funny i don't think i don't know if that was the, drone the dropship the hub dropship or not

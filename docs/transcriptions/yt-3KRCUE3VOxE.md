@@ -16,6 +16,6 @@ This question was possibly duplicated with a more recent answer: [February 8th, 
 
 ### Transcript
 
-> uh steam achievements so uh we do plan on adding achievements at some point but maybe when the game is more done and not really in flux because we don't wanna add achievements that make sense now but what makes sense later um so yeah we're not really in any rush to add achievements i know that people like achievements but what's more important right now is just making sure that the game is where where it should be and then we can make achievements for for that state of the game for sure
+> steam achievements so, we do plan on adding achievements at some point but maybe when the game is more done and not really in flux because we don't wanna add achievements that make sense now but what makes sense later, so yeah we're not really in any rush to add achievements i know that people like achievements but what's more important right now is just making sure that the game is where where it should be and then we can make achievements for for that state of the game for sure
 >
 > [Music]

@@ -33,4 +33,4 @@ This question was possibly replaced with a more recent answer: [November 30th, 2
 
 ### Transcript
 
-> some fixmas we don't have any news and fixmas really we are trying to do it but we will probably announce it more than we when we know what we're doing with it yep um but you know we have we have people that have gotten together to prepare stuff for fixmas so we'll see to what extent we can do things yeah we'll let you know as soon as we know yes paintball went
+> some fixmas we don't have any news and fixmas really we are trying to do it but we will probably announce it more than we when we know what we're doing with it yep, but you know we have we have people that have gotten together to prepare stuff for fixmas so we'll see to what extent we can do things yeah we'll let you know as soon as we know yes paintball went

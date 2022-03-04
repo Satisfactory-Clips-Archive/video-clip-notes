@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=WdgSK2Le_eQ
 
 ### Transcript
 
-> i'm not seeing anything anything that i've glanced over so to speak that like i think is like good information so i'll just grab one of the questions that i like here um i can answer this one real quick is satisfactory inspired by factorio yes it is
+> i'm not seeing anything anything that i've glanced over so to speak that like i think is like good information so i'll just grab one of the questions that i like here, i can answer this one real quick is satisfactory inspired by factorio yes it is

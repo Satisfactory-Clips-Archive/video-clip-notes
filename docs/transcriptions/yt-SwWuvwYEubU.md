@@ -20,4 +20,4 @@ This question was possibly duplicated with a more recent answer: [August 31st, 2
 
 ### Transcript
 
-> are we gonna get the lore yeah at some point we're probably at 1.0 um hannah has told me that we are gonna like do a little tiny teaser in one of the updates before 1.0 with the the the lore and the story uh it's gonna be a tiny tiny teaser um but i don't know when that will happen and i also don't know what it is um but yeah that's what hannah told me
+> are we gonna get the lore yeah at some point we're probably at 1.0, hannah has told me that we are gonna like do a little tiny teaser in one of the updates before 1.0 with the the the lore and the story, it's gonna be a tiny tiny teaser, but i don't know when that will happen and i also don't know what it is, but yeah that's what hannah told me

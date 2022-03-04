@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=6jX9MU7ZKB4
 
 ### Transcript
 
-> um i wanted to ask if you have any intention of adding gold into the game no we don't have any intention to add gold uh we actually i we used to have this weird like trading system in the game uh yeah it was kind of strange and i think i think there was like money at some point as well but um no no we're not gonna we decided to keep it
+> i wanted to ask if you have any intention of adding gold into the game no we don't have any intention to add gold, we actually i we used to have this weird like trading system in the game, yeah it was kind of strange and i think i think there was like money at some point as well but, no no we're not gonna we decided to keep it

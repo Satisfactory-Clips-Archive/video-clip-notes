@@ -28,4 +28,4 @@ https://www.youtube.com/watch?v=KbLwa5ZKlag
 
 ### Transcript
 
-> any update on overclocked mark three miners no and you probably won't get an update for a long time long time because uh like next update for that might be for potentially update six if we if we have time to look into that flip day six which i'm not saying that we are or will have we'll see we'll get to it when we get to it you know but no no update on that stuff
+> any update on overclocked mark three miners no and you probably won't get an update for a long time long time because, like next update for that might be for potentially update six if we if we have time to look into that flip day six which i'm not saying that we are or will have we'll see we'll get to it when we get to it you know but no no update on that stuff

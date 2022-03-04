@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=__8bl6Z31PE
 
 ### Transcript
 
-> let's fix it use comic sans how do i jump to the uh there we go no let us fix it use comic sans on the employee manual in the equipment shop that's a really good question because they hate their employees apparently it's the most optimal uh
+> let's fix it use comic sans how do i jump to the, there we go no let us fix it use comic sans on the employee manual in the equipment shop that's a really good question because they hate their employees apparently it's the most optimal
 >
 > [Music]
 >

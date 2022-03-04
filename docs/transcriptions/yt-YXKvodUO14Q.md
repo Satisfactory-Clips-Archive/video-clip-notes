@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=YXKvodUO14Q
 >
 > [Music]
 >
-> a lot of code is still running on in the game that isn't supposed to be running uh even if you're not rendering anything uh because the the way to make a proper headless server in unreal engine is to make a build that is like that strips a lot of code that's not supposed to be running a lot of people are aware of how we performed yeah um so it's not there's like no way to make a proper proper dedicated server um and then there are sites that like claim to to have dedicated servers which is not true but then there's also sites that just host games which is essentially just like the same as having one of your friends just have a machine running and have the game running
+> a lot of code is still running on in the game that isn't supposed to be running, even if you're not rendering anything, because the the way to make a proper headless server in unreal engine is to make a build that is like that strips a lot of code that's not supposed to be running a lot of people are aware of how we performed yeah, so it's not there's like no way to make a proper proper dedicated server, and then there are sites that like claim to to have dedicated servers which is not true but then there's also sites that just host games which is essentially just like the same as having one of your friends just have a machine running and have the game running
 >
 > [Music]
 >

@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [January 18th, 
 
 ### Transcript
 
-> um well the gabriel will be on console uh we don't know we don't have any plans for that currently but we never know what happens in the future
+> well the gabriel will be on console, we don't know we don't have any plans for that currently but we never know what happens in the future

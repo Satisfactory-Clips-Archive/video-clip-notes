@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=mybTuUCtTMY
 
 ### Transcript
 
-> uh will we have a content teaser yeah for sure um when when we have one uh i mean we've teased every single time uh we've released updates and whatnot and when also when we have like a proper you know date coming up we'll we'll say it but it's it there's a lot of work we're just like starting out working on update four i don't remember how long it took between update two and update three but like you know expect that um things things take time especially when we want to make good you know so yeah
+> will we have a content teaser yeah for sure, when when we have one, i mean we've teased every single time, we've released updates and whatnot and when also when we have like a proper you know date coming up we'll we'll say it but it's it there's a lot of work we're just like starting out working on update four i don't remember how long it took between update two and update three but like you know expect that, things things take time especially when we want to make good you know so yeah

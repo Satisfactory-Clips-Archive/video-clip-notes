@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=nBPPzhTE1Vg
 
 ### Transcript
 
-> um my youtube channel got 660 subscribers oh six more six more to my youtube channel explodes
+> my youtube channel got 660 subscribers oh six more six more to my youtube channel explodes

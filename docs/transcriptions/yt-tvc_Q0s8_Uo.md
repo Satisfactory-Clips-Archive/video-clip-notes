@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=tvc_Q0s8_Uo
 
 ### Transcript
 
-> uh what are your summer vacation plans mine is to uh work mine is to uh
+> what are your summer vacation plans mine is to, work mine is to
 >
 > [Music]
 >

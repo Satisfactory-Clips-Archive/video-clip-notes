@@ -27,4 +27,4 @@ https://www.youtube.com/watch?v=EkDbmqW43Ic
 
 ### Transcript
 
-> look at smart mod try something like this i know specifically what you mean with smart mod because smart mode does a lot of things like smart mode is a big mod and uh we we think that smart mods takes away a little bit of the fun in the game we we we enjoyed the the zooping aspect of it that's why we implemented it but i think smart mod does a little bit too much uh and that's the main reason
+> look at smart mod try something like this i know specifically what you mean with smart mod because smart mode does a lot of things like smart mode is a big mod and, we we think that smart mods takes away a little bit of the fun in the game we we we enjoyed the the zooping aspect of it that's why we implemented it but i think smart mod does a little bit too much, and that's the main reason

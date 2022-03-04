@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=MA7w4S6lUOs
 
 ### Transcript
 
-> um fixed tractors what's wrong with them there's nothing wrong with tractors yuri what are you talking about i don't you're full of full of it full of it full of it
+> fixed tractors what's wrong with them there's nothing wrong with tractors yuri what are you talking about i don't you're full of full of it full of it full of it

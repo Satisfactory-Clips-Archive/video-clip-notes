@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [December 14th,
 
 ### Transcript
 
-> all right when can i buy my official fix-it mug replica we talked about this a little earlier in the stream um it's pretty close to production basically so we don't have a date for when they're going to be available but we're working on them stay tuned
+> all right when can i buy my official fix-it mug replica we talked about this a little earlier in the stream, it's pretty close to production basically so we don't have a date for when they're going to be available but we're working on them stay tuned

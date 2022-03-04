@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=iK1vpA1xkMk
 
 ### Transcript
 
-> rifle isn't hitscan anymore uh it is it is
+> rifle isn't hitscan anymore, it is it is

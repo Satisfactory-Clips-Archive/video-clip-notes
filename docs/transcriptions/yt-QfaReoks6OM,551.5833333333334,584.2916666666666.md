@@ -37,4 +37,4 @@ in the Northern Forest, then expect to see some trees and bushes
 stick up in your factories. But that's nothing
 your trusty old Chainsaw can't fix! Dune Desert
 is also getting a bit of an update. There's a few changes to the cliffs,
- there's a new crater,
+ there's a new crater

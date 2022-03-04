@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=uOsgasmRIfI
 
 ### Transcript
 
-> this better work on my steam deck i want to steam deck on my all and my office reform packing we have tried it on steam technique and it does run on steam deck uh without us actually doing a thing um yeah it wasn't it wasn't you know amazing performance we didn't get like a solid 60 fps on like a bigger factory but ran out like 45 ish which is you know surprisingly good something i think i think the fps is going to be less of an issue the controls than like the controls is what's going to be the issue yeah
+> this better work on my steam deck i want to steam deck on my all and my office reform packing we have tried it on steam technique and it does run on steam deck, without us actually doing a thing, yeah it wasn't it wasn't you know amazing performance we didn't get like a solid 60 fps on like a bigger factory but ran out like 45 ish which is you know surprisingly good something i think i think the fps is going to be less of an issue the controls than like the controls is what's going to be the issue yeah

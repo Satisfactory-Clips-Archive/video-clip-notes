@@ -14,4 +14,4 @@ https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=7320&end=7348
 
 ### Transcript
 
-> um so yeah the the update is out um i'm just gonna like push all the things now uh which is the last thing i have to do for today almost so thank you so much everyone for for joining us on the stream today and hanging out um and let's see if let's see if i can raid someone on twitch here
+> so yeah the the update is out, i'm just gonna like push all the things now, which is the last thing i have to do for today almost so thank you so much everyone for for joining us on the stream today and hanging out, and let's see if let's see if i can raid someone on twitch here

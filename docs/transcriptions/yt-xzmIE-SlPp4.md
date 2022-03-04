@@ -28,7 +28,7 @@ https://www.youtube.com/watch?v=xzmIE-SlPp4
 
 ### Transcript
 
-> smart merger ever be a thing i don't know um that's another qi site kind of requests um
+> smart merger ever be a thing i don't know, that's another qi site kind of requests
 >
 > [Music]
 >
@@ -36,4 +36,4 @@ https://www.youtube.com/watch?v=xzmIE-SlPp4
 >
 > [Music]
 >
-> because because the one thing i know that we have talked about internally is that like um people have requested like ratio splitting so you can do sort of similar with the uh pipe valves so you can set like how much water you want to go in a certain valve and i know that people are requested that for um for belts as well um and and one thing that i think it was marco pointed this out i can't remember is that like you know the big part of satisfactory is the ratio handling um so like a big portion of the game is kind of like out of the window if we just give you an option like that that's true that's true but i also it's natural to want that right it's absolutely natural to request that but it does undo a lot of the game but then yeah it makes sense for folks who've like already done a lot but exactly like it could be a very late like tier seven or something like kind of thing um i don't know it could make sense maybe but uh yeah i'll put that on the keyword side let us know your thoughts yeah do consider it
+> because because the one thing i know that we have talked about internally is that like, people have requested like ratio splitting so you can do sort of similar with the, pipe valves so you can set like how much water you want to go in a certain valve and i know that people are requested that for, for belts as well, and and one thing that i think it was marco pointed this out i can't remember is that like you know the big part of satisfactory is the ratio handling, so like a big portion of the game is kind of like out of the window if we just give you an option like that that's true that's true but i also it's natural to want that right it's absolutely natural to request that but it does undo a lot of the game but then yeah it makes sense for folks who've like already done a lot but exactly like it could be a very late like tier seven or something like kind of thing, i don't know it could make sense maybe but, yeah i'll put that on the keyword side let us know your thoughts yeah do consider it

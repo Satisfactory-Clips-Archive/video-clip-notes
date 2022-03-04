@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [April 27th, 20
 
 ### Transcript
 
-> how many tiers will you need to reveal what project assembly is uh we won't need any tiers more to reveal what project assembly is um we we just uh need to reveal what projects assemblies which is not it's like public information it's it's a food court on top of the space elevator uh it's not a cafeteria it's a food court so you can go up there and like get liza douglas burgers and hot dogs and stuff like that
+> how many tiers will you need to reveal what project assembly is, we won't need any tiers more to reveal what project assembly is, we we just, need to reveal what projects assemblies which is not it's like public information it's it's a food court on top of the space elevator, it's not a cafeteria it's a food court so you can go up there and like get liza douglas burgers and hot dogs and stuff like that

@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=dWHUW2vrUYE
 
 ### Transcript
 
-> my head on something how about mod safety how do you guys sure no malware installed with mods we use so we can't guarantee that because we're not the ones like we don't have official mod support to the game um i don't know if we can ever like fully uh guarantee that so it is a little bit on your your own risk to use mods honestly um and i guess that's just how the way the cookie crumbles for now pretty crumbly cookie if you ask me yeah
+> my head on something how about mod safety how do you guys sure no malware installed with mods we use so we can't guarantee that because we're not the ones like we don't have official mod support to the game, i don't know if we can ever like fully, guarantee that so it is a little bit on your your own risk to use mods honestly, and i guess that's just how the way the cookie crumbles for now pretty crumbly cookie if you ask me yeah

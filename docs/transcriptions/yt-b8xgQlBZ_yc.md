@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [February 22nd,
 
 ### Transcript
 
-> um do you ever think you'll give us more than one body slot uh i don't know i think we're gonna like remake a little bit how that equipment system works um rather than just give you another body slot because if we feel like giving you another body slot it's 2op um we'd rather change how equipment works instead uh and yeah remake it so that you do make interesting decisions with that
+> do you ever think you'll give us more than one body slot, i don't know i think we're gonna like remake a little bit how that equipment system works, rather than just give you another body slot because if we feel like giving you another body slot it's 2op, we'd rather change how equipment works instead, and yeah remake it so that you do make interesting decisions with that

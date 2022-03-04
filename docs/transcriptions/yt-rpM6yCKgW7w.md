@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=rpM6yCKgW7w
 
 ### Transcript
 
-> pipe max flow bug fix when from my understanding is that it might not really be fixable or something or there is but but there might be some work around that we might do for it um yeah
+> pipe max flow bug fix when from my understanding is that it might not really be fixable or something or there is but but there might be some work around that we might do for it, yeah

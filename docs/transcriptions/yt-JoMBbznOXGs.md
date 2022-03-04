@@ -29,4 +29,4 @@ https://www.youtube.com/watch?v=JoMBbznOXGs
 
 ### Transcript
 
-> uh buildings that can be daisy chain like the lights we don't have any plans for that we added an exception for batteries and lights just because they were so much more annoying and they also didn't add anything to like having just to like add the poles to them whereas we feel like with the polls there's a you make decisions around that
+> buildings that can be daisy chain like the lights we don't have any plans for that we added an exception for batteries and lights just because they were so much more annoying and they also didn't add anything to like having just to like add the poles to them whereas we feel like with the polls there's a you make decisions around that

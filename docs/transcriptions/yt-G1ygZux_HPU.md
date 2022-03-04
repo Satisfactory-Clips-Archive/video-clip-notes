@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=G1ygZux_HPU
 
 ### Transcript
 
-> do you guys know how many active players the game currently has yeah we do but i don't really know if like like the like the other people in the office uh want us to talk about that like yeah so i can't really just give you the answer right now but um we're happy with it it's good
+> do you guys know how many active players the game currently has yeah we do but i don't really know if like like the like the other people in the office, want us to talk about that like yeah so i can't really just give you the answer right now but, we're happy with it it's good

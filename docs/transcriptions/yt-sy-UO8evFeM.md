@@ -30,4 +30,4 @@ https://www.youtube.com/watch?v=sy-UO8evFeM
 
 ### Transcript
 
-> we had a goat to honor goat simulator that would be kind of cool uh do we have a reference to goats but there is there's a goat in the game so you gotta look for it wait why am i not remembering this all right should i know this i definitely know this right let me send a message to my dad all right and then your dad can tell my dad and my dad will tell me yes
+> we had a goat to honor goat simulator that would be kind of cool, do we have a reference to goats but there is there's a goat in the game so you gotta look for it wait why am i not remembering this all right should i know this i definitely know this right let me send a message to my dad all right and then your dad can tell my dad and my dad will tell me yes

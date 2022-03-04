@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [December 7th, 
 
 ### Transcript
 
-> okay let's move on uh will you guys eventually add survival elements like hunger and thirst no i don't think so i don't think that's gonna come to the game it's not part of uh the kind of game we want to make um so you know it can you know that could change but i don't think so it seems like we're pretty set on that
+> okay let's move on, will you guys eventually add survival elements like hunger and thirst no i don't think so i don't think that's gonna come to the game it's not part of, the kind of game we want to make, so you know it can you know that could change but i don't think so it seems like we're pretty set on that

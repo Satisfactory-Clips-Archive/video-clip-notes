@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=8Lp7oflSHfc
 
 ### Transcript
 
-> uh in the island in the southwest really not being touched and is it parodies or parrot i think it's paradise but spelled incorrectly franimous the island to the southwest on the map um and whether or not it's being touched or not i mean it wasn't it wasn't on the map you know that like it wasn't marked for anything so who knows who knows
+> in the island in the southwest really not being touched and is it parodies or parrot i think it's paradise but spelled incorrectly franimous the island to the southwest on the map, and whether or not it's being touched or not i mean it wasn't it wasn't on the map you know that like it wasn't marked for anything so who knows who knows

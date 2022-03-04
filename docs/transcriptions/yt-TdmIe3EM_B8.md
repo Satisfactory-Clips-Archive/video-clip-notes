@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [January 19th, 
 
 ### Transcript
 
-> um possibilities of placing more than one foundation at once that's something that's uh talked about pretty often but the uh plan right now is no this we will not do
+> possibilities of placing more than one foundation at once that's something that's, talked about pretty often but the, plan right now is no this we will not do

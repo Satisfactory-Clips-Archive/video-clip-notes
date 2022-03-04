@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=RoKvL8KuXFk
 
 ### Transcript
 
-> uh you need the nitrogen gas or fizzy drinks i like that that's something we need to add why only coffee where's the uh where's the soda soda
+> you need the nitrogen gas or fizzy drinks i like that that's something we need to add why only coffee where's the, where's the soda soda

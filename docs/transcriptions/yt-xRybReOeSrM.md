@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=xRybReOeSrM
 
 ### Transcript
 
-> come see the mobs of what they fall come to the models of the uranium nodes new spangled update from compensating studios do you still remember every word uh let's see their update from a new spangle update from copper state studios
+> come see the mobs of what they fall come to the models of the uranium nodes new spangled update from compensating studios do you still remember every word, let's see their update from a new spangle update from copper state studios
 >
 > [Music]
 >

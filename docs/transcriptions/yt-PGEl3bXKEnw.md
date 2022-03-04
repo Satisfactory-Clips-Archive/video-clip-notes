@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=PGEl3bXKEnw
 
 ### Transcript
 
-> um we know you love tower defense no shut up shut up total eclipse go away i'm banning you
+> we know you love tower defense no shut up shut up total eclipse go away i'm banning you

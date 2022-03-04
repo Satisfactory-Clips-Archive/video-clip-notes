@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=woolPqli5lQ
 
 ### Transcript
 
-> saw the coreleve poster in the game are you guys fans on the cycle uh we are fans of the cycle that's for sure and that's why there's a reference to it in the game
+> saw the coreleve poster in the game are you guys fans on the cycle, we are fans of the cycle that's for sure and that's why there's a reference to it in the game

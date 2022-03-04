@@ -22,4 +22,4 @@ https://www.youtube.com/watch?v=k4lycXGHDAQ
 
 ### Transcript
 
-> um new resource nodes in the biome are we no we're not changing any of the the resource nodes so like all of the they're all going to be at the same spots nothing's going to break in that regard so yeah there you go i'm not touching that gameplay it's gonna stay the same
+> new resource nodes in the biome are we no we're not changing any of the the resource nodes so like all of the they're all going to be at the same spots nothing's going to break in that regard so yeah there you go i'm not touching that gameplay it's gonna stay the same

@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=8g9x9VzYlJs
 
 ### Transcript
 
-> fine can there be a notebook in the hub with summer's loop on the cover oh no it should be uh should be a picture of jace's left foot i was wondering where you're gonna go with that yeah and i went precisely where i meant to
+> fine can there be a notebook in the hub with summer's loop on the cover oh no it should be, should be a picture of jace's left foot i was wondering where you're gonna go with that yeah and i went precisely where i meant to

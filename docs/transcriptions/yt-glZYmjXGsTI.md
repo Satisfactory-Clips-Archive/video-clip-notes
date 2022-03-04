@@ -88,7 +88,7 @@ https://www.youtube.com/watch?v=glZYmjXGsTI
 
 ### Transcript
 
-> and then oh when we got that because we redid that yeah so yeah let me play the entire thing and then we can talk about that was really close huh guess we're not adding either of them now that's convenient tough luck buddy oh wait wait wait look wait no we could have done that let's see more vfx work simon so yeah the the the liz dogger got back from me bonking it on the head revenge it was fine it was just sleeping you guys this can't be happening oh yeah oh yes so this this uh the ball rolling um essentially the way we do it is we we film jace throwing it and like it rolling up and then we film it again us just like knocking it in and then we mask us out right when those doggo uh fun fact about this shot in particular was this was the first take uh this is the entire clip of that take so this is me hitting record hard enough to get it perfectly where it just landed it just needs to be close enough okay yeah i think yeah oh my god first try you can hear me say first shot yeah yeah do it do it and then jace comes in and just like
+> and then oh when we got that because we redid that yeah so yeah let me play the entire thing and then we can talk about that was really close huh guess we're not adding either of them now that's convenient tough luck buddy oh wait wait wait look wait no we could have done that let's see more vfx work simon so yeah the the the liz dogger got back from me bonking it on the head revenge it was fine it was just sleeping you guys this can't be happening oh yeah oh yes so this this, the ball rolling, essentially the way we do it is we we film jace throwing it and like it rolling up and then we film it again us just like knocking it in and then we mask us out right when those doggo, fun fact about this shot in particular was this was the first take, this is the entire clip of that take so this is me hitting record hard enough to get it perfectly where it just landed it just needs to be close enough okay yeah i think yeah oh my god first try you can hear me say first shot yeah yeah do it do it and then jace comes in and just like
 >
 > [Music]
 >
@@ -100,7 +100,7 @@ https://www.youtube.com/watch?v=glZYmjXGsTI
 >
 > [Laughter]
 >
-> oh god wait don't wait one more try is anyone in uh try again oh oh so funny no no i can't use that it's too close or that one and then we were like yeah we got it perfect oh my god i forgot about the pharmaceutical
+> oh god wait don't wait one more try is anyone in, try again oh oh so funny no no i can't use that it's too close or that one and then we were like yeah we got it perfect oh my god i forgot about the pharmaceutical
 >
 > [Laughter]
 >
@@ -108,8 +108,8 @@ https://www.youtube.com/watch?v=glZYmjXGsTI
 >
 > [Laughter]
 >
-> the ball got the last laugh so thank you so much for the follows everybody yeah so uh we had to redo it and then yeah we set the set up the camera again and then we got a first try this is so good so good you had the goal to say first try so funny um and yeah then uh
+> the ball got the last laugh so thank you so much for the follows everybody yeah so, we had to redo it and then yeah we set the set up the camera again and then we got a first try this is so good so good you had the goal to say first try so funny, and yeah then ,
 >
 > [Laughter]
 >
-> experts yeah i i don't think so we had to this hole was like particularly like coccupied or something because people kept coming at this point of the day people kept like reappearing all of the time so we had to go back this whole like three times to reshoot this over and over again yeah um because we shot like the oh you did it blah blah and then we shot the vomitos part and then we shot this part and all those three things we had to like keep going back and forth because people kept like showing up yeah we had to like leave the hole so that the other people could play we couldn't stand nearby because we might get hit by the yeah and then and then we went back and they were like they were um uh they were mowing the lawn so like two guys showed up i couldn't believe it yeah with huge lawnmowers just like and they were like it was so funny because they were like smiling and looking at us like hey guys and they're also like what the like see like inside i'm like boiling like get the out and they were also like looking at like what the are you guys doing yeah why are you going backwards bro so yeah you're like why you running lawnmower
+> experts yeah i i don't think so we had to this hole was like particularly like coccupied or something because people kept coming at this point of the day people kept like reappearing all of the time so we had to go back this whole like three times to reshoot this over and over again yeah, because we shot like the oh you did it blah blah and then we shot the vomitos part and then we shot this part and all those three things we had to like keep going back and forth because people kept like showing up yeah we had to like leave the hole so that the other people could play we couldn't stand nearby because we might get hit by the yeah and then and then we went back and they were like they were, , they were mowing the lawn so like two guys showed up i couldn't believe it yeah with huge lawnmowers just like and they were like it was so funny because they were like smiling and looking at us like hey guys and they're also like what the like see like inside i'm like boiling like get the out and they were also like looking at like what the are you guys doing yeah why are you going backwards bro so yeah you're like why you running lawnmower

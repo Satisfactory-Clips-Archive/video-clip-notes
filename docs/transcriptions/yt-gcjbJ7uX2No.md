@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=gcjbJ7uX2No
 
 ### Transcript
 
-> ricky wilmot uh plans to make saddle for the big flying thing you can get on it can you right yeah i'm pretty sure they put collision on cause a lot of people were trying yeah but i think you jump or something if you're jumping i'm not sure yeah i don't remember the state of that but you might be right actually
+> ricky wilmot, plans to make saddle for the big flying thing you can get on it can you right yeah i'm pretty sure they put collision on cause a lot of people were trying yeah but i think you jump or something if you're jumping i'm not sure yeah i don't remember the state of that but you might be right actually

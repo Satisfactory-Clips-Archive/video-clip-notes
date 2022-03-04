@@ -24,4 +24,4 @@ https://www.youtube.com/watch?v=mtLqH_BpG1U
 
 ### Transcript
 
-> are there going to be more resources added for next year so uh currently the plan is not really to if we if we expand things we don't really want to expand things by adding new resources necessarily we kind of think that there's a lot of resources in the game right now and that there's still ways to expand the game using the same resources so i don't think we're in a huge rush to uh add new resources to the game but that doesn't mean we can't add more things to the game so this is true
+> are there going to be more resources added for next year so, currently the plan is not really to if we if we expand things we don't really want to expand things by adding new resources necessarily we kind of think that there's a lot of resources in the game right now and that there's still ways to expand the game using the same resources so i don't think we're in a huge rush to, add new resources to the game but that doesn't mean we can't add more things to the game so this is true

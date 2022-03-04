@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [November 2nd, 
 
 ### Transcript
 
-> about the giant crab in the trailer can we get that so here's this giant enemy crab yes uh not sure when but yes you will get the giant crab will there be vehicle
+> about the giant crab in the trailer can we get that so here's this giant enemy crab yes, not sure when but yes you will get the giant crab will there be vehicle

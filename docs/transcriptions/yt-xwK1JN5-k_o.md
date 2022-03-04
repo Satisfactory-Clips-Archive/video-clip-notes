@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=xwK1JN5-k_o
 
 ### Transcript
 
-> and you confirm coffee stain is part of thq uh embrace the group yeah we are yes is it called h what wait no then they're called grace embrace a group of ingredients it's so confusing because it used to be called thq nordic but like there's it's two companies it's two different companies embrace their own cg or thq nordic wait i think so yeah but yeah they're they're not really related to us no
+> and you confirm coffee stain is part of thq, embrace the group yeah we are yes is it called h what wait no then they're called grace embrace a group of ingredients it's so confusing because it used to be called thq nordic but like there's it's two companies it's two different companies embrace their own cg or thq nordic wait i think so yeah but yeah they're they're not really related to us no
