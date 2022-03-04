@@ -35,7 +35,7 @@ https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=500&end=552
 
 ### Transcript
 
-> Uh... You alright, Snutt? Oh, it's, , ... It's
+> Uh... You alright, Snutt? Oh, it's, ... It's
 nothing, it's just, ... It's just some troll on the internet
 going by &quot;Dark Angel 69&quot; has been writing some weird shit
 about me. Well, like what? Oh, it's nothing. It's just like... they wrote about how, like... That I don't know how to set up
