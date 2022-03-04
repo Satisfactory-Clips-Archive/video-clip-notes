@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=l58eeCBeEpU
 >
 > [Music]
 >
-> like ghost stoppers where like the client can't sometimes do certain actions that only the server can do so like if that if you run into that on a dedicated server then yes that ,
+> like ghost stoppers where like the client can't sometimes do certain actions that only the server can do so like if that if you run into that on a dedicated server then yes that,
 >
 > [Music]
 >

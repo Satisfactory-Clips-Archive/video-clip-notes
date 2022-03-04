@@ -22,4 +22,4 @@ This question was possibly duplicated with a more recent answer: [February 15th,
 >
 > [Music]
 >
-> remember that yeah that's topical anyway ,
+> remember that yeah that's topical anyway,

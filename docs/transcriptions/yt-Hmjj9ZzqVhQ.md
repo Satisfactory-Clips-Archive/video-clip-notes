@@ -22,4 +22,4 @@ https://www.youtube.com/watch?v=Hmjj9ZzqVhQ
 >
 > [Laughter]
 >
-> they won't they won't stop heckling us about this oh I wish that that was how it worked, in some ways it does you know because because like your your feedback and requests and stuff yeah our like are listened to yeah and we run to them and be like they want this but again chad like this is a minor update this is an update for big so like, but it's cool it's cool yeah but you don't like it too much you'll be disappointed if you think too much yeah it won't be lights I can tell you that much it isn't lights now and it isn't signs sorry guys yeah ,
+> they won't they won't stop heckling us about this oh I wish that that was how it worked, in some ways it does you know because because like your your feedback and requests and stuff yeah our like are listened to yeah and we run to them and be like they want this but again chad like this is a minor update this is an update for big so like, but it's cool it's cool yeah but you don't like it too much you'll be disappointed if you think too much yeah it won't be lights I can tell you that much it isn't lights now and it isn't signs sorry guys yeah,

@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=d_Fby_o9pJo
 >
 > [Music]
 >
-> weirdo gets up and farts it's like grandpa like oh sorry about that just gonna sit down oh here we go grandpa you farting again back in my day we did grandpa you got gas again I'm gonna get my pudding sit down grandpa okay god damn ,
+> weirdo gets up and farts it's like grandpa like oh sorry about that just gonna sit down oh here we go grandpa you farting again back in my day we did grandpa you got gas again I'm gonna get my pudding sit down grandpa okay god damn,

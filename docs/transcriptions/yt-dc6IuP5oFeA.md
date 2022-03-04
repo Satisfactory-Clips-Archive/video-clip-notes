@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=dc6IuP5oFeA
 >
 > [Laughter]
 >
-> not on youtube though, where, people go through like how the trains work there are a few bugs with trains currently that we're actually working on like at this very moment or not maybe at this very moment but like it's part of like this week's ,
+> not on youtube though, where, people go through like how the trains work there are a few bugs with trains currently that we're actually working on like at this very moment or not maybe at this very moment but like it's part of like this week's,
 >
 > [Music]
 >

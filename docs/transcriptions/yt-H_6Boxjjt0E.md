@@ -20,7 +20,7 @@ https://www.youtube.com/watch?v=H_6Boxjjt0E
 >
 > [Music]
 >
-> if you guys remember if you don't remember it's good if you don't remember because then maybe you can help us out, so a while back ,
+> if you guys remember if you don't remember it's good if you don't remember because then maybe you can help us out, so a while back,
 >
 > [Music]
 >

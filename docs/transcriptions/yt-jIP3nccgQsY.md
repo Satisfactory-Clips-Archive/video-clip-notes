@@ -26,4 +26,4 @@ https://www.youtube.com/watch?v=jIP3nccgQsY
 >
 > [ __ ]
 >
-> yeah yeah and then everyone else who doesn't speak spanish was like exactly what, mud is saying yeah zapdos where's articuno you know ,
+> yeah yeah and then everyone else who doesn't speak spanish was like exactly what, mud is saying yeah zapdos where's articuno you know,

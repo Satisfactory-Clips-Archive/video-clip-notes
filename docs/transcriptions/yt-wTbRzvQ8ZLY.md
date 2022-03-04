@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=wTbRzvQ8ZLY
 
 > [Music]
 >
-> please make the walking beans stop clipping so yeah that's part of the, that's part of the reason why we haven't been able to add the like big crab creature thing ,
+> please make the walking beans stop clipping so yeah that's part of the, that's part of the reason why we haven't been able to add the like big crab creature thing,
 >
 > [Music]
 >

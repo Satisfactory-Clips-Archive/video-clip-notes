@@ -26,7 +26,7 @@ https://www.youtube.com/watch?v=4kbofImwd6Q
 >
 > [Music]
 >
-> cool I guess we'll just jump straight into it not having a good time ah josh I'm so sorry oh having a great time I app I was just worried for a second but we all good we're all good ,
+> cool I guess we'll just jump straight into it not having a good time ah josh I'm so sorry oh having a great time I app I was just worried for a second but we all good we're all good,
 >
 > [Music]
 >

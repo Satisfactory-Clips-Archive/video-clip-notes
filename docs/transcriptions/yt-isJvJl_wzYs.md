@@ -94,4 +94,4 @@ https://www.youtube.com/watch?v=isJvJl_wzYs
 >
 > [Laughter]
 >
-> velvety goodness yes and so recording that bit is so fun so much fun, yeah yeah that's that's the that was pretty much spot on perfect like yeah nailed it yeah low low timing was a little weird I think but whatever yeah yeah yeah I was like super fast at some point I noticed yeah whatever I think I was too yeah that was fun yeah I'll also want to point out something here there's this website url interesting anyway moving on yes yes ,
+> velvety goodness yes and so recording that bit is so fun so much fun, yeah yeah that's that's the that was pretty much spot on perfect like yeah nailed it yeah low low timing was a little weird I think but whatever yeah yeah yeah I was like super fast at some point I noticed yeah whatever I think I was too yeah that was fun yeah I'll also want to point out something here there's this website url interesting anyway moving on yes yes,

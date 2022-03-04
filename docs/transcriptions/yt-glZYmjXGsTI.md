@@ -108,7 +108,7 @@ https://www.youtube.com/watch?v=glZYmjXGsTI
 >
 > [Laughter]
 >
-> the ball got the last laugh so thank you so much for the follows everybody yeah so, we had to redo it and then yeah we set the set up the camera again and then we got a first try this is so good so good you had the goal to say first try so funny, and yeah then ,
+> the ball got the last laugh so thank you so much for the follows everybody yeah so, we had to redo it and then yeah we set the set up the camera again and then we got a first try this is so good so good you had the goal to say first try so funny, and yeah then,
 >
 > [Laughter]
 >

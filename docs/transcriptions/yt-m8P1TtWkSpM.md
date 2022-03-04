@@ -22,7 +22,7 @@ https://www.youtube.com/watch?v=m8P1TtWkSpM
 >
 > [Music]
 >
-> god I wish I could like explain how tedious the merch ,
+> god I wish I could like explain how tedious the merch,
 >
 > [Music]
 >

@@ -22,7 +22,7 @@ https://www.youtube.com/watch?v=B894pE07Itc
 >
 > [Music]
 >
-> yeah we talked about that dedicated servers are also available on on epic right now we still haven't gotten back on like what the hell's going on with with steam why not everyone has access to the dedicated servers on steam because they should be anyone regardless if you own the game or not, you can you can like they are accessible in the back end because everyone has been able to download them using steam command which is like the like the console version of downloading them, but like it's weird and valve don't know what's up they've checked it we're just waiting to hear back from them but it works on epic and it works on inseam command so those are two viable ways check the wiki, if you want to learn more on how to get the dedicated servers and how to set them up ,
+> yeah we talked about that dedicated servers are also available on on epic right now we still haven't gotten back on like what the hell's going on with with steam why not everyone has access to the dedicated servers on steam because they should be anyone regardless if you own the game or not, you can you can like they are accessible in the back end because everyone has been able to download them using steam command which is like the like the console version of downloading them, but like it's weird and valve don't know what's up they've checked it we're just waiting to hear back from them but it works on epic and it works on inseam command so those are two viable ways check the wiki, if you want to learn more on how to get the dedicated servers and how to set them up,
 >
 > [Music]
 >

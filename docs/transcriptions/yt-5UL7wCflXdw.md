@@ -22,7 +22,7 @@ https://www.youtube.com/watch?v=5UL7wCflXdw
 >
 > [Laughter]
 >
-> well I mean art of the personality that's that's part of the lore baby yes blood twist the the ore comes from the personal miners they poop it out yeah exactly what's more human than that right sorry yeah and the drones the drones were essentially made the same way, in the bottom right you see this horrible block out, it's amazing yeah, and we use that to just figure out how big is it and one of the guides for figuring out the size of the drones was actually how much does the cargo how many inventory slots does it have so it has to be something in between a personal storage, chest and, an industrial storage container so it has to be something in between so we need to we tweaked a lot of that also ,
+> well I mean art of the personality that's that's part of the lore baby yes blood twist the the ore comes from the personal miners they poop it out yeah exactly what's more human than that right sorry yeah and the drones the drones were essentially made the same way, in the bottom right you see this horrible block out, it's amazing yeah, and we use that to just figure out how big is it and one of the guides for figuring out the size of the drones was actually how much does the cargo how many inventory slots does it have so it has to be something in between a personal storage, chest and, an industrial storage container so it has to be something in between so we need to we tweaked a lot of that also,
 >
 > [Music]
 >

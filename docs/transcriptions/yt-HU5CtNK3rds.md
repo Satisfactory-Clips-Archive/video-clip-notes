@@ -22,4 +22,4 @@ https://www.youtube.com/watch?v=HU5CtNK3rds
 >
 > [Music]
 >
-> what do we got what do we got dude call the big ones goober that's amazing goober oh that's amazing there are like this this is the thing I like about not having like a official name to them because people have they call in like different things it's amazing ,
+> what do we got what do we got dude call the big ones goober that's amazing goober oh that's amazing there are like this this is the thing I like about not having like a official name to them because people have they call in like different things it's amazing,

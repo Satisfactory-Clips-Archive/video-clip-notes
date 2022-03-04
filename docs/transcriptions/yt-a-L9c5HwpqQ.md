@@ -30,4 +30,4 @@ https://www.youtube.com/watch?v=a-L9c5HwpqQ
 >
 > [Laughter]
 >
-> oh you comedians in chat come on I mean what other was it going to be this year god yeah I mean it'd be really good so on 420 oh I didn't even think of that oh actually true actually 420 what a coincidence oh true there you go ,
+> oh you comedians in chat come on I mean what other was it going to be this year god yeah I mean it'd be really good so on 420 oh I didn't even think of that oh actually true actually 420 what a coincidence oh true there you go,

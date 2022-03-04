@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=mKx9P8tAEA8
 >
 > [Music]
 >
-> yeah, you know what get to that 1300 and we'll talk then we'll talk ,
+> yeah, you know what get to that 1300 and we'll talk then we'll talk,

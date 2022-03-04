@@ -20,4 +20,4 @@ https://www.youtube.com/watch?v=aByFeSq5z2U
 >
 > [Music]
 >
-> she will close how will jake get off this pinch oh [ __ ] oh no oh no oh no okay what a what a thing go on as you were everyone has your anyway ,
+> she will close how will jake get off this pinch oh [ __ ] oh no oh no oh no okay what a what a thing go on as you were everyone has your anyway,

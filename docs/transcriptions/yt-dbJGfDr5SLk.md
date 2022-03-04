@@ -22,4 +22,4 @@ This question was possibly duplicated with a more recent answer: [February 16th,
 >
 > [Music]
 >
-> so there's not an easy answer to any any of that actually we should just have we should just have a we should just not render like have this shitty like cheat option where people just click on it and then hide all ore for the people who have like a bit huge thing and they don't want to don't care about seeing that or yeah it's it's okay so I think that the tldr is that it's not impossible that will happen but we don't know right now but we have tested it ,
+> so there's not an easy answer to any any of that actually we should just have we should just have a we should just not render like have this shitty like cheat option where people just click on it and then hide all ore for the people who have like a bit huge thing and they don't want to don't care about seeing that or yeah it's it's okay so I think that the tldr is that it's not impossible that will happen but we don't know right now but we have tested it,

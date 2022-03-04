@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=6FEEq5JjARw
 >
 > [Music]
 >
-> my brain just blue screen right so ,
+> my brain just blue screen right so,

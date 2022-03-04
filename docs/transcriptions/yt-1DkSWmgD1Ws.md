@@ -26,4 +26,4 @@ https://www.youtube.com/watch?v=1DkSWmgD1Ws
 >
 > [Laughter]
 >
-> bob the walker walker chuck norris dlc confirmed, holy [ __ ] okay what are we doing ,
+> bob the walker walker chuck norris dlc confirmed, holy [ __ ] okay what are we doing,

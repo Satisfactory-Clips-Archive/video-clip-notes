@@ -20,8 +20,7 @@ https://www.youtube.com/watch?v=7i6s8l1lmJ0
 
 ### Transcript
 
-> Snutt: Umm- and I saw someone asked whether
-, the, containers will like save after unpackage?
+> Snutt: Umm- and I saw someone asked whether, the, containers will like save after unpackage?
 >
 > Snutt: Yeah, it'll work the same way as refineries.
 >

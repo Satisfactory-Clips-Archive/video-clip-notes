@@ -30,7 +30,7 @@ https://www.youtube.com/watch?v=1gqhd1IBleI
 >
 > [Laughter]
 >
-> that would be so dumb he turns it into a bag okay so tim's a folder all right cool right ,
+> that would be so dumb he turns it into a bag okay so tim's a folder all right cool right,
 >
 > [Music]
 >

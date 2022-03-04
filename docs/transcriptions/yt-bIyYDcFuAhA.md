@@ -30,7 +30,7 @@ This question was possibly duplicated with a more recent answer: [June 29th, 202
 >
 > [Music]
 >
-> yeah we don't want to be forced into an arbitrary path, we also don't want to ,
+> yeah we don't want to be forced into an arbitrary path, we also don't want to,
 >
 > [Music]
 >

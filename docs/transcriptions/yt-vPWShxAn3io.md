@@ -22,7 +22,7 @@ https://www.youtube.com/watch?v=vPWShxAn3io
 >
 > [Music]
 >
-> sorry I farted ,
+> sorry I farted,
 >
 > [Laughter]
 >

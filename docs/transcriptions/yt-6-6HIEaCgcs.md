@@ -24,4 +24,4 @@ https://www.youtube.com/watch?v=6-6HIEaCgcs
 >
 > [Music]
 >
-> amazing I'm just thinking when people when people get what's not like it hurts I bet, it's got her on steam I bought the game twice I got to see my an epic yeah I bought it twice you literally drive in golf that's that's not the part of golf I'm thinking of I guess you do yeah you already added the golf cart though you already know about that ,
+> amazing I'm just thinking when people when people get what's not like it hurts I bet, it's got her on steam I bought the game twice I got to see my an epic yeah I bought it twice you literally drive in golf that's that's not the part of golf I'm thinking of I guess you do yeah you already added the golf cart though you already know about that,
