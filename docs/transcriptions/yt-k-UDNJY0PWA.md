@@ -26,4 +26,4 @@ This question was possibly duplicated with a more recent answer: [May 4th, 2021 
 >
 > [Music]
 >
-> i know that some of the artists are have like a bunch of ideas of cosmetics and like stuff to put on the walls and stuff like that that they want to do, but don't know when that will come
+> I know that some of the artists are have like a bunch of ideas of cosmetics and like stuff to put on the walls and stuff like that that they want to do, but don't know when that will come

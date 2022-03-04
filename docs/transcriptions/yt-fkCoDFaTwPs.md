@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [October 5th, 2
 
 ### Transcript
 
-> eu merch shop i you know what i actually don't know the latest on eu workshop i actually don't know and i haven't checked in a couple weeks i'm sorry i'm gonna make a note make sure i do check that out you might shop
+> eu merch shop I you know what I actually don't know the latest on eu workshop I actually don't know and I haven't checked in a couple weeks I'm sorry I'm gonna make a note make sure I do check that out you might shop

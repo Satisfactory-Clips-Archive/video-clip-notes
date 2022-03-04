@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=POjQa1nqb4U
 
 ### Transcript
 
-> and we get pumps which push liquids down that may or may not be in the works woodwind.exe sorry my dad sent me something funny just i'll put that on the keyword side that sounds like a really good thing i think there's i think my dad and your dad would really get along yeah both kind of court jesters the most both of them all right all right
+> and we get pumps which push liquids down that may or may not be in the works woodwind.exe sorry my dad sent me something funny just I'll put that on the keyword side that sounds like a really good thing I think there's I think my dad and your dad would really get along yeah both kind of court jesters the most both of them all right all right

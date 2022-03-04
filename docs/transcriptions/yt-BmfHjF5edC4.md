@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=BmfHjF5edC4
 
 ### Transcript
 
-> do you see my detonator okay i don't recognize your name necessarily but i definitely saw a like life-sized detonator that someone made on twitter if that was you alligator that was amazing very impressive yeah i loved it good job man
+> do you see my detonator okay I don't recognize your name necessarily but I definitely saw a like life-sized detonator that someone made on twitter if that was you alligator that was amazing very impressive yeah I loved it good job man

@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=rZ_ZrEDqUW8
 
 ### Transcript
 
-> i'm gonna fix the fixmas bash so you can hit enemies with it again i don't know i don't know if i can do that
+> I'm gonna fix the fixmas bash so you can hit enemies with it again I don't know I don't know if I can do that

@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=865hBBU1Ve0
 
 ### Transcript
 
-> knows nothing confirmed i mean i've said this since day one were you kidding me i never know anything
+> knows nothing confirmed I mean I've said this since day one were you kidding me I never know anything

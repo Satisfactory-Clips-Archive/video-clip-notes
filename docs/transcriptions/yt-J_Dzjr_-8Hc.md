@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: July 20th, 2021
 
 ### Transcript
 
-> what are you guys adding battle royale mode i don't know sometime before 1.0 i mean you it's already in you can already do it kind of yeah 2029 possible it's more likely 2030 maybe 20 now 20 20 30 might be a little bit too ridiculous yeah let's not get ahead of ourselves here
+> what are you guys adding battle royale mode I don't know sometime before 1.0 I mean you it's already in you can already do it kind of yeah 2029 possible it's more likely 2030 maybe 20 now 20 20 30 might be a little bit too ridiculous yeah let's not get ahead of ourselves here

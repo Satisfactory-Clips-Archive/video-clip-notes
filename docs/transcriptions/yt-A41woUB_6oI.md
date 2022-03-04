@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [September 7th,
 
 ### Transcript
 
-> foundation holes for belts that would be cool upload that on the keyway side i would love for us to do a solution where it's like kind of like with pipes where you can drag the conveyable through foundations easily without having to like slot them into specific holes that would be dope
+> foundation holes for belts that would be cool upload that on the keyway side I would love for us to do a solution where it's like kind of like with pipes where you can drag the conveyable through foundations easily without having to like slot them into specific holes that would be dope

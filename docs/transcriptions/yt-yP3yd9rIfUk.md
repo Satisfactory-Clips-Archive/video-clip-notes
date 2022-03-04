@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [February 11th,
 
 ### Transcript
 
-> week current team consensus on blueprints copy and paste, current team consensus is as far as i know we're not adding it but i i i think i think that i don't think it's off the table yes no wait yes no yeah it's not off the table it's not off the table it's immediate in the cards it's in the we haven't formulated yeah it's in the cards yeah we will
+> week current team consensus on blueprints copy and paste, current team consensus is as far as I know we're not adding it but- I think I think that I don't think it's off the table yes no wait yes no yeah it's not off the table it's not off the table it's immediate in the cards it's in the we haven't formulated yeah it's in the cards yeah we will

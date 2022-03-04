@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [November 9th, 
 
 ### Transcript
 
-> curved walls windows and foundations i think, those are the things to take into consideration when we look into better build options in the game so please upload that on the kiwi site i'm pretty sure there are tickets for this but if if, if yeah make sure to upload those those, things same with that signs science is like one of our most uploaded tickets i believe on the keyword site make sure to hit that upload button smash that up vote button
+> curved walls windows and foundations I think, those are the things to take into consideration when we look into better build options in the game so please upload that on the kiwi site I'm pretty sure there are tickets for this but if if, if yeah make sure to upload those those, things same with that signs science is like one of our most uploaded tickets I believe on the keyword site make sure to hit that upload button smash that up vote button

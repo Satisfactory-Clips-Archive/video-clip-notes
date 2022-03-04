@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=pghytEdJyNo
 
 ### Transcript
 
-> i don't think there's anything else no i think it's just i mean apart from the glass ceiling i suppose which is oh yeah you know it's pretty cool it adds a lot more light to this
+> I don't think there's anything else no I think it's just I mean apart from the glass ceiling I suppose which is oh yeah you know it's pretty cool it adds a lot more light to this

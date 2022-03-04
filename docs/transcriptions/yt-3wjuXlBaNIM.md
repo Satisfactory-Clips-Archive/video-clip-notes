@@ -18,4 +18,4 @@ This question was possibly replaced with a more recent answer: [October 29th, 20
 
 ### Transcript
 
-> let us choose belt and lift direction manually i'll do anything, i think we have especially around lifts i think i think there's like an intention to do something around lifts because they can be a real pain in the butt, so you know maybe qa site if it ain't already there and if it is there upload it if you haven't already
+> let us choose belt and lift direction manually I'll do anything, I think we have especially around lifts I think I think there's like an intention to do something around lifts because they can be a real pain in the butt, so you know maybe qa site if it ain't already there and if it is there upload it if you haven't already

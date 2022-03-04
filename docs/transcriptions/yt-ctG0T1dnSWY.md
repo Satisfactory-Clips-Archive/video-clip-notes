@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=ctG0T1dnSWY
 
 ### Transcript
 
-> yeah linux is at least possible same thing with mac i don't know when i think mac is more probable than than console to be honest but, same thing there no plans for it right now maybe it will happen with linux you have proton which apparently is pretty good
+> yeah linux is at least possible same thing with mac I don't know when I think mac is more probable than than console to be honest but, same thing there no plans for it right now maybe it will happen with linux you have proton which apparently is pretty good

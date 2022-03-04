@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=CqKiFu-37vQ
 
 ### Transcript
 
-> jay's is officially satisfactory pro he kind of is although it's funny because like jace hasn't gotten as far as i've gotten i think he's at tier six now right because i had to i had to learn the the, tier seven stuff for the update any so i got force fed the game
+> jay's is officially satisfactory pro he kind of is although it's funny because like jace hasn't gotten as far as I've gotten I think he's at tier six now right because I had to I had to learn the the, tier seven stuff for the update any so I got force fed the game

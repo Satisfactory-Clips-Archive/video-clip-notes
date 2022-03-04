@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=Z-GAgR2VYXk
 
 ### Transcript
 
-> the correct answer, someone said something about a trailer trailer huh when is the next teaser trailer, maybe maybe that's what it was soon i think we're gonna do a teaser this week yes i think so i think so too yep
+> the correct answer, someone said something about a trailer trailer huh when is the next teaser trailer, maybe maybe that's what it was soon I think we're gonna do a teaser this week yes I think so I think so too yep

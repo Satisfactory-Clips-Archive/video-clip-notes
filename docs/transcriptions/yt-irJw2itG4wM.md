@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [January 25th, 
 
 ### Transcript
 
-> sam orr what's that sam is that in the game yeah i think so yeah top secret i think yeah yeah i think so i i don't play the games i have no idea
+> sam orr what's that sam is that in the game yeah I think so yeah top secret I think yeah yeah I think so- I don't play the games I have no idea

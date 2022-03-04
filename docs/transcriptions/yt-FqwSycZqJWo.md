@@ -39,4 +39,4 @@ https://www.youtube.com/watch?v=FqwSycZqJWo
 
 ### Transcript
 
-> farms far farms can farming be considered yes it can be considered and it is something that's been considered like we like the idea of farms but i don't know if or when it's going to happen but i do know that like folks at the office do you like the idea farms farming we like to eat yeah
+> farms far farms can farming be considered yes it can be considered and it is something that's been considered like we like the idea of farms but I don't know if or when it's going to happen but I do know that like folks at the office do you like the idea farms farming we like to eat yeah

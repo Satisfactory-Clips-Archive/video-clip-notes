@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [February 22nd,
 
 ### Transcript
 
-> we can consider it amazing but infinite generation thank you, but no not gonna do that i don't think that's gonna happen ever probably
+> we can consider it amazing but infinite generation thank you, but no not gonna do that I don't think that's gonna happen ever probably

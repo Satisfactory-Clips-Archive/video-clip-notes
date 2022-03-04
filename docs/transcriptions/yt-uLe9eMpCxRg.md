@@ -20,4 +20,4 @@ This question was possibly duplicated with a more recent answer: [February 15th,
 
 ### Transcript
 
-> vertical elevators for character and transport we don't have any plans for that right now i don't know if if that's going to happen, same thing there up foot on the qa site if that is something that you want to see
+> vertical elevators for character and transport we don't have any plans for that right now I don't know if if that's going to happen, same thing there up foot on the qa site if that is something that you want to see

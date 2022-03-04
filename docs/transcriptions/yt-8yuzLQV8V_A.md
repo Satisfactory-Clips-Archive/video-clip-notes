@@ -25,4 +25,4 @@ https://www.youtube.com/watch?v=8yuzLQV8V_A
 
 ### Transcript
 
-> we'll join any community students do you mean will we join community streams we've joined them in the past i was there all day even oh hanging out in the chat you mean yeah yeah yeah we do that we're there all the time lately i've been mostly been lurking because i've been so busy or at least yeah i'm speaking for my sake at least but i i almost every day i have a a satisfactory stream running in the background i see ya
+> we'll join any community students do you mean will we join community streams we've joined them in the past I was there all day even oh hanging out in the chat you mean yeah yeah yeah we do that we're there all the time lately I've been mostly been lurking because I've been so busy or at least yeah I'm speaking for my sake at least but- I almost every day I have a a satisfactory stream running in the background I see ya

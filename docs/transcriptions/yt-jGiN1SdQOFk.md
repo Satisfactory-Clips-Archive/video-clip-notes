@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [February 9th, 
 
 ### Transcript
 
-> i have all the power yeah i want one binary i want one yeah we're we're working on it, or i i'm poking the correct people about it and they're like yeah yeah we're going to do this it's a really good idea it's going to be simon and then
+> I have all the power yeah I want one binary I want one yeah we're we're working on it, or- I'm poking the correct people about it and they're like yeah yeah we're going to do this it's a really good idea it's going to be simon and then

@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [September 28th
 
 ### Transcript
 
-> music is awesome could you add some more i think we are going to add some more music yeah
+> music is awesome could you add some more I think we are going to add some more music yeah

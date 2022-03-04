@@ -14,8 +14,8 @@ https://www.youtube.com/watch?v=V_YXOp7VQqc
 
 ### Transcript
 
-> is the patch notes vod still live on your channel or are the clips all that remain i believe it's just eclipse the patch not spot i i think he's talking about the time when we did patch notes when we did this last time for update oh on my it'll live forever in our memories guys not mine
+> is the patch notes vod still live on your channel or are the clips all that remain I believe it's just eclipse the patch not spot- I think he's talking about the time when we did patch notes when we did this last time for update oh on my it'll live forever in our memories guys not mine
 >
 > [Laughter]
 >
-> all i remember was telling sarah that she had great muscles she does though she does it's not factually incorrect no it's not i feel like that was a double negative and i think i got it but yeah
+> all I remember was telling sarah that she had great muscles she does though she does it's not factually incorrect no it's not I feel like that was a double negative and I think I got it but yeah

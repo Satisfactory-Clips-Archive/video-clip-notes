@@ -32,4 +32,4 @@ This question was possibly replaced with a more recent answer: [October 29th, 20
 
 ### Transcript
 
-> when new music i i i don't know what the we have added music since update four i think it's like new tracks coming in i don't know if there's gonna be more but maybe so, we'll see i don't think there's any music coming up like five though no i don't i don't think so i don't heard anything about number
+> when new music- I don't know what the we have added music since update four I think it's like new tracks coming in I don't know if there's gonna be more but maybe so, we'll see I don't think there's any music coming up like five though no I don't I don't think so I don't heard anything about number

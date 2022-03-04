@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=5ceOUnZAXnk
 
 ### Transcript
 
-> how many trains will it take to crash the entire system i mean i guess you're gonna have to find out
+> how many trains will it take to crash the entire system I mean I guess you're gonna have to find out

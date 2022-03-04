@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=X5P9-9npJIQ
 
 ### Transcript
 
-> i just realized like a new whole like meta to it
+> I just realized like a new whole like meta to it
 >
 > [Laughter]
 >

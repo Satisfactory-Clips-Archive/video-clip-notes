@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=E_t6aUIA5Zk
 
 ### Transcript
 
-> swap drones with hubba pack when are drones unlocked is it tiers six no drones are pretty late aren't they they're like eight whatever tier seven yeah they're pretty late too i think i'm okay with with drones being tier seven because you do get like trains and before that, you don't want to get everything at the same time but the hover pack it would be sweet to get like a little bit earlier turns to seven heart pack eight okay got it
+> swap drones with hubba pack when are drones unlocked is it tiers six no drones are pretty late aren't they they're like eight whatever tier seven yeah they're pretty late too I think I'm okay with with drones being tier seven because you do get like trains and before that, you don't want to get everything at the same time but the hover pack it would be sweet to get like a little bit earlier turns to seven heart pack eight okay got it

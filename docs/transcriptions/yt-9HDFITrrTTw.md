@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=9HDFITrrTTw
 
 ### Transcript
 
-> who doesn't have a resting [ __ ] face i feel like smith doesn't listen give us your best resting [ __ ] face i guess that's it it's pretty good it's pretty good that's the wolverine thing we're like no if i look like this
+> who doesn't have a resting [ __ ] face I feel like smith doesn't listen give us your best resting [ __ ] face I guess that's it it's pretty good it's pretty good that's the wolverine thing we're like no if I look like this
 >
 > [Music]
 >
@@ -22,4 +22,4 @@ https://www.youtube.com/watch?v=9HDFITrrTTw
 >
 > [Laughter]
 >
-> can you do a resting [ __ ] accent you know i can you know my name's jason this is a resting [ __ ] accent right here that's it hell yeah his secret is he's always angry yeah yeah yeah i'm not angry now i'm angry always
+> can you do a resting [ __ ] accent you know I can you know my name's jason this is a resting [ __ ] accent right here that's it hell yeah his secret is he's always angry yeah yeah yeah I'm not angry now I'm angry always

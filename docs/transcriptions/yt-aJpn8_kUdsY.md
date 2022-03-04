@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=aJpn8_kUdsY
 
 ### Transcript
 
-> mammals or you lay eggs that's a that's a bit that's a big question actually i don't know that's a really good question i wonder who i asked the coffin about that i actually don't know google lizards now the lizard doggers are also doggos so like it could be either or sharks aren't mammals and many don't lay eggs yeah sharks is like one of those weird like where they both depending on the breed of shark they lay eggs and they also don't
+> mammals or you lay eggs that's a that's a bit that's a big question actually I don't know that's a really good question I wonder who I asked the coffin about that I actually don't know google lizards now the lizard doggers are also doggos so like it could be either or sharks aren't mammals and many don't lay eggs yeah sharks is like one of those weird like where they both depending on the breed of shark they lay eggs and they also don't

@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=NMmBLjJHb3c
 
 ### Transcript
 
-> but i don't know how much what what is this what the [ __ ] that's the stop pod copy paste oh my god copy paste hello tracks available complete as many as you can all right what is this oh my god i already hate this game where we came out first right we lose again first right yeah yeah all right [ __ ] god how could they
+> but I don't know how much what what is this what the [ __ ] that's the stop pod copy paste oh my god copy paste hello tracks available complete as many as you can all right what is this oh my god I already hate this game where we came out first right we lose again first right yeah yeah all right [ __ ] god how could they

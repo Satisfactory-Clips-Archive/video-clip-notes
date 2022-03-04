@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [January 26th, 
 
 ### Transcript
 
-> how about lighting lighting's gonna happen at some point is it though i think so that's a good point maybe it won't but i'm pretty sure
+> how about lighting lighting's gonna happen at some point is it though I think so that's a good point maybe it won't but I'm pretty sure

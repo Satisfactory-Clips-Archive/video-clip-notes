@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [November 23rd,
 
 ### Transcript
 
-> will even come back next year, i think so i i my my i don't know actually but my guess is yes i think so, and, maybe we'll work more on it maybe we'll just do like a rerun of it maybe we'll update just like the advent calendar i don't know exactly what what what the event would look like next year, but i have a feeling that it's probably will be just like it will turn back on again, as if nothing happened next year if anything
+> will even come back next year, I think so- I my my I don't know actually but my guess is yes I think so, and, maybe we'll work more on it maybe we'll just do like a rerun of it maybe we'll update just like the advent calendar I don't know exactly what what what the event would look like next year, but I have a feeling that it's probably will be just like it will turn back on again, as if nothing happened next year if anything

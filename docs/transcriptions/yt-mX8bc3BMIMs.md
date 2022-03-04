@@ -20,4 +20,4 @@ https://www.youtube.com/watch?v=mX8bc3BMIMs
 
 ### Transcript
 
-> if the giant crab can't break walls then i'm making a zoo it probably won't be able to make, brick walls bb so, you're actually you're in luck i look forward to seeing your zoo
+> if the giant crab can't break walls then I'm making a zoo it probably won't be able to make, brick walls bb so, you're actually you're in luck I look forward to seeing your zoo

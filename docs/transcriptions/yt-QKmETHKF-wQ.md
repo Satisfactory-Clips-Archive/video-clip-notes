@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=QKmETHKF-wQ
 
 ### Transcript
 
-> steam linking him insane stadium i've never gotten steam link to work it's been it's been so bad every time i try to use it stadia has worked better for me than that steam link that's so funny, anyway
+> steam linking him insane stadium I've never gotten steam link to work it's been it's been so bad every time I try to use it stadia has worked better for me than that steam link that's so funny, anyway

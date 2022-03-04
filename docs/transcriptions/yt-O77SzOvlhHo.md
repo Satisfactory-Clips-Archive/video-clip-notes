@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=O77SzOvlhHo
 
 ### Transcript
 
-> and when a dedicated server's coming they're out like this is so weird have we updated the, did we have a command for dedicated servers on twitch before i don't know if we did
+> and when a dedicated server's coming they're out like this is so weird have we updated the, did we have a command for dedicated servers on twitch before I don't know if we did

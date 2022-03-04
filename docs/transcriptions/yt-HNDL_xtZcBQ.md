@@ -20,4 +20,4 @@ https://www.youtube.com/watch?v=HNDL_xtZcBQ
 
 ### Transcript
 
-> working so is map fixed yet so like you know that kind of question is not super helpful because i have no idea what problem you are having with the map you know what i mean it maybe maybe you're asking if the map is finished it's not finished yet so there's going to be changes
+> working so is map fixed yet so like you know that kind of question is not super helpful because I have no idea what problem you are having with the map you know what I mean it maybe maybe you're asking if the map is finished it's not finished yet so there's going to be changes

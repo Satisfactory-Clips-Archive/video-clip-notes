@@ -23,4 +23,4 @@ https://www.youtube.com/watch?v=0ajNSKl4azA
 
 ### Transcript
 
-> let's get a bicycle we're not making a bicycle you've got the factory car what's wrong with that it's like the whole like mom i want a bicycle you've got a bicycle at home your bicycle at home is the factory car
+> let's get a bicycle we're not making a bicycle you've got the factory car what's wrong with that it's like the whole like mom I want a bicycle you've got a bicycle at home your bicycle at home is the factory car

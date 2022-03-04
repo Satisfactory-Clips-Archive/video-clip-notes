@@ -92,4 +92,4 @@ https://www.youtube.com/watch?v=YFfud0NwaGk
 
 ### Transcript
 
-> are now able to place up to 10 build pieces at a time zooping isn't available for manufacturing buildings but you can use it for foundations and most of the cosmetic build pieces by just dragging them out either horizontally or vertically yay zooping there was a bug when i made that those b-roll shots where you couldn't place any conveyor belts oh god so i just had to roll with that nice
+> are now able to place up to 10 build pieces at a time zooping isn't available for manufacturing buildings but you can use it for foundations and most of the cosmetic build pieces by just dragging them out either horizontally or vertically yay zooping there was a bug when I made that those b-roll shots where you couldn't place any conveyor belts oh god so I just had to roll with that nice

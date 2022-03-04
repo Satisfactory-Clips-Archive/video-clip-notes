@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=lbC5luVtDXE
 
 ### Transcript
 
-> that's that's right i'm trying to mimic my face from the freeze framing yeah somebody mentioned that you were doing the same gestures in the video as you were doing when you were explaining the same thing and i thought that was pretty funny and i actually caught that like we're the same person yeah yeah yeah who would have thought can't believe this
+> that's that's right I'm trying to mimic my face from the freeze framing yeah somebody mentioned that you were doing the same gestures in the video as you were doing when you were explaining the same thing and I thought that was pretty funny and I actually caught that like we're the same person yeah yeah yeah who would have thought can't believe this

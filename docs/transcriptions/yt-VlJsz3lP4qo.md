@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=VlJsz3lP4qo
 
 ### Transcript
 
-> like to see a soundtrack that i can buy from steam because i often turn down the sounds that have game music for the most parts okay, as for the soundtrack i think the plan right now is to release one eventually but we kind of want it to be done first so like there might be more sounds i think there are some other things that we have to work out as well but but i it is like i think everyone is interested in that i don't think you could find anyone at coffee's then that's like that's a bad idea
+> like to see a soundtrack that I can buy from steam because I often turn down the sounds that have game music for the most parts okay, as for the soundtrack I think the plan right now is to release one eventually but we kind of want it to be done first so like there might be more sounds I think there are some other things that we have to work out as well but but I it is like I think everyone is interested in that I don't think you could find anyone at coffee's then that's like that's a bad idea

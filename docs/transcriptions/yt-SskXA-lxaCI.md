@@ -20,4 +20,4 @@ This question was possibly duplicated with a more recent answer: [February 1st, 
 
 ### Transcript
 
-> sink that accepts liquids or gas so the sink will not be able to accept like like the liquid in its liquid form but if you package it and if you package gas then yes the sink will be able to accept it and that's i i'm assuming that's going to work the same way with gases i i don't know for sure but i like that's the way it worked with that's the way it works with liquids so i'm assuming that's how it's going to work with gases as well, so no change to the sink itself but you can still, sync like the package by a variety of it
+> sink that accepts liquids or gas so the sink will not be able to accept like like the liquid in its liquid form but if you package it and if you package gas then yes the sink will be able to accept it and that's- I'm assuming that's going to work the same way with gases- I don't know for sure but I like that's the way it worked with that's the way it works with liquids so I'm assuming that's how it's going to work with gases as well, so no change to the sink itself but you can still, sync like the package by a variety of it

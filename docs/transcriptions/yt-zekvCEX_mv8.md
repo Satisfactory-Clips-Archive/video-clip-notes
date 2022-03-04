@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [August 31st, 2
 
 ### Transcript
 
-> hey can i play an epic with someone on steam yes you can yes
+> hey can I play an epic with someone on steam yes you can yes

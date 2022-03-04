@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=aSiqmneWXcg
 
 ### Transcript
 
-> could we order food from the food station or is it like a buffet no it's it's more of a buffet i'd say
+> could we order food from the food station or is it like a buffet no it's it's more of a buffet I'd say

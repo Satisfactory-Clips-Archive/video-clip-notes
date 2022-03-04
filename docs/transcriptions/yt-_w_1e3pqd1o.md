@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=_w_1e3pqd1o
 
 ### Transcript
 
-> on the splitters, like you can see the arrows which show like which direction each output goes there are splitters and mergers, you know make sense split things into, an input into three directions or merge, three inputs into one direction, you know pretty much say that past three times your, factory building i know again i got through it once and i'm i'm happy about myself i'm really proud i did it
+> on the splitters, like you can see the arrows which show like which direction each output goes there are splitters and mergers, you know make sense split things into, an input into three directions or merge, three inputs into one direction, you know pretty much say that past three times your, factory building I know again I got through it once and I'm I'm happy about myself I'm really proud I did it

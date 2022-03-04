@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=o-EuIuJUVwM
 
 ### Transcript
 
-> next game off to satisfactory sanctum 3 are you looking forward to weekly feature requests for factory automation yeah you'll just do that just to annoy us i'm sure
+> next game off to satisfactory sanctum 3 are you looking forward to weekly feature requests for factory automation yeah you'll just do that just to annoy us I'm sure

@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=cuRF2l9nqEU
 
 ### Transcript
 
-> issues train multiplayer fixes when hard to say because i don't know what that means but please head on over to our qa site if you have any specific issues that you want to fix and that's the way we can that's the way we will know what to fix essentially
+> issues train multiplayer fixes when hard to say because I don't know what that means but please head on over to our qa site if you have any specific issues that you want to fix and that's the way we can that's the way we will know what to fix essentially

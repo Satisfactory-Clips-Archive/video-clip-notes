@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=yq5TiOozKpE
 
 ### Transcript
 
-> as in pack it sure no it's packager like packager i'd spell that right nope you sure didn't but yeah
+> as in pack it sure no it's packager like packager I'd spell that right nope you sure didn't but yeah

@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [September 21st
 
 ### Transcript
 
-> well one point i'd go to experimental capsule i assume i assume it will because we sort of rely on experimental to, stabilize the game so it you know it might i'm not sure we'll see we'll see maybe we'll try to do something different for for 1.0 because it's a big deal we'll have to see
+> well one point I'd go to experimental capsule I assume I assume it will because we sort of rely on experimental to, stabilize the game so it you know it might I'm not sure we'll see we'll see maybe we'll try to do something different for for 1.0 because it's a big deal we'll have to see

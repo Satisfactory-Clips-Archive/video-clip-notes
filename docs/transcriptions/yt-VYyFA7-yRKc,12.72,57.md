@@ -14,8 +14,8 @@ https://youtube.com/embed/VYyFA7-yRKc?autoplay=1&start=12&end=57
 
 ### Transcript
 
-> hi there i'm burke welcome to my place i'm the producer at coffee stain studios, that means i work with another team with project planning it's like kind of answering the question when are we doing what exactly for the game how are we going to do it the best way that we can and what is like the time frame that we think we'll be able to do it in and that we can deliver it to you guys for like for example updates in general so in the future when will inevitably delay an update again you can at least partly blame me for that
+> hi there I'm burke welcome to my place I'm the producer at coffee stain studios, that means I work with another team with project planning it's like kind of answering the question when are we doing what exactly for the game how are we going to do it the best way that we can and what is like the time frame that we think we'll be able to do it in and that we can deliver it to you guys for like for example updates in general so in the future when will inevitably delay an update again you can at least partly blame me for that
 >
 > [Music]
 >
-> nice to meet you i want to talk to you
+> nice to meet you I want to talk to you

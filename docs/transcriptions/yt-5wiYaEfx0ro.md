@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [February 8th, 
 
 ### Transcript
 
-> character customization i don't know what we're planning there honestly like the character customization i think we tied into like sort of the equipment revamp that we're gonna do at some point and i don't know what we're planning or what we're going to do currently it would be sweet i guess same thing there if you think that's something that the game really needs then go to the keyway site and upload that stuff so we know
+> character customization I don't know what we're planning there honestly like the character customization I think we tied into like sort of the equipment revamp that we're gonna do at some point and I don't know what we're planning or what we're going to do currently it would be sweet I guess same thing there if you think that's something that the game really needs then go to the keyway site and upload that stuff so we know

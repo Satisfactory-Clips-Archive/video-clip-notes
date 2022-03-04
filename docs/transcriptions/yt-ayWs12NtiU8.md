@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=ayWs12NtiU8
 
 ### Transcript
 
-> alrighty, one moment guys one moment i'm using a new kind of like stream setup here well which is actually the one that snoot had been using, you know this whole time, but now i'm now i'm streaming from my pc so i'm getting used to it it seems like so far everything's going good
+> alrighty, one moment guys one moment I'm using a new kind of like stream setup here well which is actually the one that snoot had been using, you know this whole time, but now I'm now I'm streaming from my pc so I'm getting used to it it seems like so far everything's going good

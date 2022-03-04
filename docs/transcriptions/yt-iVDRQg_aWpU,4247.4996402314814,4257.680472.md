@@ -18,4 +18,4 @@ https://youtube.com/clip/Ugkx0M7IL9HWyAOlW8R52zlg_2J-V7T2t6rI
 
 ### Transcript
 
-> when does update four come out, about eight months ago i think, five update five comes out in about in 45 minutes if that's what you're
+> when does update four come out, about eight months ago I think, five update five comes out in about in 45 minutes if that's what you're

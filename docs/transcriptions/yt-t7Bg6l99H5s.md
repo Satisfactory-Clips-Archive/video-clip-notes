@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=t7Bg6l99H5s
 
 ### Transcript
 
-> nine up votes left for golf we're staying live until we get them i'm just kidding oh boy
+> nine up votes left for golf we're staying live until we get them I'm just kidding oh boy

@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=vIxlNniUSW0
 
 ### Transcript
 
-> jace you look like philip kirkurov the russian pop star have you ever seen me and him in the same room yeah i think not i don't i think the jig is i think or not
+> jace you look like philip kirkurov the russian pop star have you ever seen me and him in the same room yeah I think not I don't I think the jig is I think or not

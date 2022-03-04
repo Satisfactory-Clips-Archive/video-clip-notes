@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [May 25th, 2021
 
 ### Transcript
 
-> if you kill lizard doggers do they respawn do they i think so no comment okay i don't know actually i think they do but aren't they don't they just use the same creature spawner yeah they do but yeah so then yeah but let's say they don't so you're a monster if you do that can't believe
+> if you kill lizard doggers do they respawn do they I think so no comment okay I don't know actually I think they do but aren't they don't they just use the same creature spawner yeah they do but yeah so then yeah but let's say they don't so you're a monster if you do that can't believe

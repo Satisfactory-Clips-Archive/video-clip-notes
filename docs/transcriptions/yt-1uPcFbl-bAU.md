@@ -20,4 +20,4 @@ This question was possibly replaced with a more recent answer: [October 27th, 20
 
 ### Transcript
 
-> mr worldwide i am packages out yet no they're going to come with a big update at the end of the month yes
+> mr worldwide I am packages out yet no they're going to come with a big update at the end of the month yes

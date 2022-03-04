@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=mLNBDdcisps
 
 ### Transcript
 
-> i'm just looking at those stats by the way i have this crazy number we have translated over two million words over time over the course of the project yeah we have 27 000 words in the project itself oh okay so and it's 50 languages so that amounts to like 1 million words but in fact we translated much more because a lot of strings were deleted or changed because the game is developed so in fact it was much more work than you see it in the end damn
+> I'm just looking at those stats by the way I have this crazy number we have translated over two million words over time over the course of the project yeah we have 27 000 words in the project itself oh okay so and it's 50 languages so that amounts to like 1 million words but in fact we translated much more because a lot of strings were deleted or changed because the game is developed so in fact it was much more work than you see it in the end damn

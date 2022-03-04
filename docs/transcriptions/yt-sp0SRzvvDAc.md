@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=sp0SRzvvDAc
 
 ### Transcript
 
-> have you not made a hot coffee mini game where you literally just make coffee i mean it's a great idea i love that idea there should be i'm with you there how have we not how have we not i mean i i think we should have like a cooking thing that would be really fun
+> have you not made a hot coffee mini game where you literally just make coffee I mean it's a great idea I love that idea there should be I'm with you there how have we not how have we not I mean- I think we should have like a cooking thing that would be really fun

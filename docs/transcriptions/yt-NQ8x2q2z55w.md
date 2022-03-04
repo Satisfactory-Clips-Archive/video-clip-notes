@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=NQ8x2q2z55w
 
 ### Transcript
 
-> and i'm losing my mind, is the kitchen coming to the hub i want to cook a doggo now that is my kind hello let's be friends sorry go on
+> and I'm losing my mind, is the kitchen coming to the hub I want to cook a doggo now that is my kind hello let's be friends sorry go on

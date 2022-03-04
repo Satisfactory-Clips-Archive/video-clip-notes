@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=BtzgOBKZd_Q
 
 ### Transcript
 
-> how am i so documentary person swear i'm i'm i'm fine doing fine i hope you like the video
+> how am I so documentary person swear I'm I'm I'm fine doing fine I hope you like the video

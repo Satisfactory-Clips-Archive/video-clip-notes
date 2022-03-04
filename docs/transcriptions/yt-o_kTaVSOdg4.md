@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [February 1st, 
 
 ### Transcript
 
-> no floating platforms anymore i think you can have floating platforms, that's not changing that will ever change honestly no i don't think it will ever change we've already we've already played with the idea of like, structural integrity and stuff like that you know so that you had to hold up all your platforms and we kind of just just don't like it basically what about floating rocks though oh there's plenty of that don't you worry yeah will that ever go away i don't know gravity is a guy yeah, it's the guy john
+> no floating platforms anymore I think you can have floating platforms, that's not changing that will ever change honestly no I don't think it will ever change we've already we've already played with the idea of like, structural integrity and stuff like that you know so that you had to hold up all your platforms and we kind of just just don't like it basically what about floating rocks though oh there's plenty of that don't you worry yeah will that ever go away I don't know gravity is a guy yeah, it's the guy john

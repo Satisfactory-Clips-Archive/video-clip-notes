@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=iRamlC8l2C4
 
 ### Transcript
 
-> how to remove coffee stains from carpet so i've heard that you're supposed to like use salt or something i don't know i'm not qualified enough to tell you how i'm qualified to tell you how to get coffee stains in your carpet right
+> how to remove coffee stains from carpet so I've heard that you're supposed to like use salt or something I don't know I'm not qualified enough to tell you how I'm qualified to tell you how to get coffee stains in your carpet right

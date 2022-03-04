@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=UOKVbH99zdo
 
 ### Transcript
 
-> second series also made by you guys didn't know that i really enjoyed it yep yeah no second two is great game no like for real though guys check out sanctum 2. like actually it's a good game it's a very good game play with friends it's very good
+> second series also made by you guys didn't know that I really enjoyed it yep yeah no second two is great game no like for real though guys check out sanctum 2. like actually it's a good game it's a very good game play with friends it's very good

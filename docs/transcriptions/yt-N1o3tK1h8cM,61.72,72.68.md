@@ -14,4 +14,4 @@ https://youtube.com/embed/N1o3tK1h8cM?autoplay=1&start=61&end=73
 
 ### Transcript
 
-> goal is to better engage with you all we have a bunch of ideas on how to do this and how to better improve what we already do we're kind of bringing this out as we go so we'll kind of see what the future brings but who am i right
+> goal is to better engage with you all we have a bunch of ideas on how to do this and how to better improve what we already do we're kind of bringing this out as we go so we'll kind of see what the future brings but who am I right

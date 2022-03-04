@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=6Q_0cSluMwc
 
 ### Transcript
 
-> why can't you make golf in the game look it's not look it's not that we don't we can't do it it's not even that we don't want to we want to do it but we need the votes yeah we need right we need the votes and we just don't have them we said one thousand one hundred we're at one thousand ninety four we're not there yet i'm dying we're all dying to put him in but like it's you guys you're not voting enough that's that's it we need a recount that's it
+> why can't you make golf in the game look it's not look it's not that we don't we can't do it it's not even that we don't want to we want to do it but we need the votes yeah we need right we need the votes and we just don't have them we said one thousand one hundred we're at one thousand ninety four we're not there yet I'm dying we're all dying to put him in but like it's you guys you're not voting enough that's that's it we need a recount that's it

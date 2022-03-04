@@ -29,4 +29,4 @@ https://www.youtube.com/watch?v=XFlDDGJ4Vx0
 
 ### Transcript
 
-> like arctic moon i don't think we're gonna add any, like snow biomes or anything like that no seems like, hannah's giving a hard no on that yeah hardest of nos helps a lot jared glad to hear it no hannah just showed up to just give the old no there it is spelling it out for you i can time out hannah so it we can pretend it never happened but we all know it happened and, yeah
+> like arctic moon I don't think we're gonna add any, like snow biomes or anything like that no seems like, hannah's giving a hard no on that yeah hardest of nos helps a lot jared glad to hear it no hannah just showed up to just give the old no there it is spelling it out for you I can time out hannah so it we can pretend it never happened but we all know it happened and, yeah

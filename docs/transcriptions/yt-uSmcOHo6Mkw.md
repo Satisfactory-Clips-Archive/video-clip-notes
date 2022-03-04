@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=uSmcOHo6Mkw
 
 ### Transcript
 
-> yeah it is about that time we could probably start wrapping up my hellofresh is sitting outside my door i haven't picked it up yet but i will grab it in a minute your hella fresh is turning hella sour yeah very good
+> yeah it is about that time we could probably start wrapping up my hellofresh is sitting outside my door I haven't picked it up yet but I will grab it in a minute your hella fresh is turning hella sour yeah very good
 >
 > [Laughter]
 >

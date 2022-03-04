@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=7LiXrAwoqPE
 
 ### Transcript
 
-> where did i get the, test chamber 19 panel behind me i got it custom made show off
+> where did I get the, test chamber 19 panel behind me I got it custom made show off

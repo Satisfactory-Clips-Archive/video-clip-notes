@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=UnXNb3M5T_Y
 
 ### Transcript
 
-> did my hello fresher already arrived this week so on you know what it showed up at 9 30 p.m on tuesday wait really yeah my hello friend oh yeah i wanted to go to bed we missed it on stream that's true yeah yeah that's a shame it was super late i i still feel i still like wake up in a cold sweat thinking we didn't do that joke on the live stream where the baby yeah well you know what wait they're calling right nelson hang on my hella fresh is here i'll be right back oh god well this is perfect
+> did my hello fresher already arrived this week so on you know what it showed up at 9 30 p.m on tuesday wait really yeah my hello friend oh yeah I wanted to go to bed we missed it on stream that's true yeah yeah that's a shame it was super late- I still feel I still like wake up in a cold sweat thinking we didn't do that joke on the live stream where the baby yeah well you know what wait they're calling right nelson hang on my hella fresh is here I'll be right back oh god well this is perfect

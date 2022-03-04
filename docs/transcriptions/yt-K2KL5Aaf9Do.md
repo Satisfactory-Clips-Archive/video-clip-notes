@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=K2KL5Aaf9Do
 
 ### Transcript
 
-> maybe we should do that any comment on the leaked toilet flush dlc yeah you would like a comment wouldn't you yeah i bet you would we don't tolerate leaks around here okay andrew
+> maybe we should do that any comment on the leaked toilet flush dlc yeah you would like a comment wouldn't you yeah I bet you would we don't tolerate leaks around here okay andrew

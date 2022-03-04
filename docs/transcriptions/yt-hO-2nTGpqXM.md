@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=hO-2nTGpqXM
 
 ### Transcript
 
-> what is the foliage going to be used for, biomass i guess
+> what is the foliage going to be used for, biomass I guess

@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=46ar-d1IahE
 
 ### Transcript
 
-> will the reindeer doggo get added to the press kit oh that's a good question i don't know i think it's probably too late or maybe it's not too late but i don't know i can ask if someone can do it but here's the thing like most people are going on vacation now so i don't know who's available
+> will the reindeer doggo get added to the press kit oh that's a good question I don't know I think it's probably too late or maybe it's not too late but I don't know I can ask if someone can do it but here's the thing like most people are going on vacation now so I don't know who's available

@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=-cJUfS2yyX4
 
 ### Transcript
 
-> where does one find the car live poster in the toilet in a little bathroom what sorry i dad was writing something really funny here dad again goddammit yeah always oh is that a coral poster yeah yeah yeah yeah it's in the toilet where it belongs
+> where does one find the car live poster in the toilet in a little bathroom what sorry I dad was writing something really funny here dad again goddammit yeah always oh is that a coral poster yeah yeah yeah yeah it's in the toilet where it belongs

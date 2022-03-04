@@ -20,4 +20,4 @@ https://www.youtube.com/watch?v=pZozYHy8vNk
 
 ### Transcript
 
-> just a scratch padding game all tabbing sucks yeah i think that could make sense to have like some notepads kind of things like we've got the to-do list which is something right but maybe some place where you can type your own notes in-game that could maybe
+> just a scratch padding game all tabbing sucks yeah I think that could make sense to have like some notepads kind of things like we've got the to-do list which is something right but maybe some place where you can type your own notes in-game that could maybe

@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=XNigRFh5_LA
 
 ### Transcript
 
-> will there be any changes to clear clear how the efficiency works you mean like how you calculate efficiency and stuff like that, possibly i don't know specifically what's planned but i think there's like some ui and ux stuff that can help improve that so it's not impossible
+> will there be any changes to clear clear how the efficiency works you mean like how you calculate efficiency and stuff like that, possibly I don't know specifically what's planned but I think there's like some ui and ux stuff that can help improve that so it's not impossible

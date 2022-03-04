@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=pGu4gQkQI1w
 
 ### Transcript
 
-> two by two factory challenge that's impossible two by two you can only be like packagers on that or something, yeah i don't think you'd be able to fit a manufacturer on there
+> two by two factory challenge that's impossible two by two you can only be like packagers on that or something, yeah I don't think you'd be able to fit a manufacturer on there

@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [October 12th, 
 
 ### Transcript
 
-> tier nine when tomorrow we're gonna put it out tomorrow big update smart tier nine guys i didn't know that yeah yeah that was they just told me
+> tier nine when tomorrow we're gonna put it out tomorrow big update smart tier nine guys I didn't know that yeah yeah that was they just told me

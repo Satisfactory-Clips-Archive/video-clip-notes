@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=tX8VDBudtuI
 
 ### Transcript
 
-> next round is from aventador [ __ ] chainsaw on wheels bro but it's not wheels it's legs but yeah the legs yeah oh that's amazing this is a horror show i guess they just they just just drop drop them on the ground yeah yeah i think they stacked it, but it looks like it's like they've automated biomass yeah oh no he's coming we were saying that there's gonna be no, base defense in the game well yeah apparently it is
+> next round is from aventador [ __ ] chainsaw on wheels bro but it's not wheels it's legs but yeah the legs yeah oh that's amazing this is a horror show I guess they just they just just drop drop them on the ground yeah yeah I think they stacked it, but it looks like it's like they've automated biomass yeah oh no he's coming we were saying that there's gonna be no, base defense in the game well yeah apparently it is

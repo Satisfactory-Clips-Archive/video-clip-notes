@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [February 15th,
 
 ### Transcript
 
-> when will update six be coming soon soon can we get five out first please i mean is that too much to ask i guess good time for five all right
+> when will update six be coming soon soon can we get five out first please I mean is that too much to ask I guess good time for five all right

@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=MxwLmhSXPYU
 
 ### Transcript
 
-> that's that's, the things i wanted to bring up for now, hopefully i will be able to give a better like explanation of things in the video this coming week, but this is the information that i have right now and looking forward to to checking out the discussion about this afterwards
+> that's that's, the things I wanted to bring up for now, hopefully I will be able to give a better like explanation of things in the video this coming week, but this is the information that I have right now and looking forward to to checking out the discussion about this afterwards

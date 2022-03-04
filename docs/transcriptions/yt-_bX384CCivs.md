@@ -26,4 +26,4 @@ https://www.youtube.com/watch?v=_bX384CCivs
 
 ### Transcript
 
-> housing type items for the pioneers i don't know, it would definitely be pretty good like i think internal like decorations and stuff like that could be cool i think like sofas and beds could be fun just play sims or just play sims good point pretty sure that game exists you know what terrible idea yeah yeah kidding it's much better game though oh no wait, , , i'm fired oh god oh god oh god oh runescape in runescape you can, you can you can make a boxing ring a boxing ring this is specifically you can and so
+> housing type items for the pioneers I don't know, it would definitely be pretty good like I think internal like decorations and stuff like that could be cool I think like sofas and beds could be fun just play sims or just play sims good point pretty sure that game exists you know what terrible idea yeah yeah kidding it's much better game though oh no wait, , , I'm fired oh god oh god oh god oh runescape in runescape you can, you can you can make a boxing ring a boxing ring this is specifically you can and so

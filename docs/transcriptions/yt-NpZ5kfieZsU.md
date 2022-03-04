@@ -25,4 +25,4 @@ https://www.youtube.com/watch?v=NpZ5kfieZsU
 
 ### Transcript
 
-> but are you guys ever moving back into the new headquarters, i mean we are going to like sort of once the regulations in sweden's like decrease no like get like get lifted that is that is technically in the plans yeah
+> but are you guys ever moving back into the new headquarters, I mean we are going to like sort of once the regulations in sweden's like decrease no like get like get lifted that is that is technically in the plans yeah

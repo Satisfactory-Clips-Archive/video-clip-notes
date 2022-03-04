@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: July 13th, 2021
 
 ### Transcript
 
-> i push one or the other no can i have pizza in-game yo that would be cool
+> I push one or the other no can I have pizza in-game yo that would be cool

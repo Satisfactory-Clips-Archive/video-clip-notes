@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=OqF1WnAJ31A
 
 ### Transcript
 
-> play wonder wall i'll get dmc aid
+> play wonder wall I'll get dmc aid

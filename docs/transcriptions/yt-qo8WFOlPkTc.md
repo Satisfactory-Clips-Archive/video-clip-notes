@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: July 20th, 2021
 
 ### Transcript
 
-> inevitable battle royale mode coming soon maybe when we get, mods i don't know if that's going to be a thing that's possible
+> inevitable battle royale mode coming soon maybe when we get, mods I don't know if that's going to be a thing that's possible

@@ -20,4 +20,4 @@ https://www.youtube.com/watch?v=4cmv1GtvB18
 
 ### Transcript
 
-> copy paste settings for miners fluid extracted power plants when i upload that on cubist that's hopefully soon because i don't think that's a hard thing to fix i say that but yeah i'll put that on the keyword side and then we will take a look
+> copy paste settings for miners fluid extracted power plants when I upload that on cubist that's hopefully soon because I don't think that's a hard thing to fix I say that but yeah I'll put that on the keyword side and then we will take a look

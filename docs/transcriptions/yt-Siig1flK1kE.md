@@ -14,8 +14,8 @@ https://www.youtube.com/watch?v=Siig1flK1kE
 
 ### Transcript
 
-> video friday with you snoot so we probably won't put out any videos this week either, we we're i think i said this before but we're kind of like slowing down when it comes to, stuff in general at coffee stain and we will be taking a break from from from that and that includes me and jace as well so this is i think this is for but this is the second to last stream we're doing this year we will do one more stream next week and that will be the final one and then we will take a break and that goes for youtube as well like there won't be any youtube videos until next year
+> video friday with you snoot so we probably won't put out any videos this week either, we we're I think I said this before but we're kind of like slowing down when it comes to, stuff in general at coffee stain and we will be taking a break from from from that and that includes me and jace as well so this is I think this is for but this is the second to last stream we're doing this year we will do one more stream next week and that will be the final one and then we will take a break and that goes for youtube as well like there won't be any youtube videos until next year
 >
 > [Music]
 >
-> could be a good video actually talk about the us stuff too i'll do that interesting i'll think about that
+> could be a good video actually talk about the us stuff too I'll do that interesting I'll think about that

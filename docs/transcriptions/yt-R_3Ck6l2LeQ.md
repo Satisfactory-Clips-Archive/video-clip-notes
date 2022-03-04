@@ -28,4 +28,4 @@ https://www.youtube.com/watch?v=R_3Ck6l2LeQ
 
 ### Transcript
 
-> i've had some people ask if we're going to remove like the hypertube cannon and stuff and the answer that is no we're not going to remove it we haven't yet at least there's been no plans
+> I've had some people ask if we're going to remove like the hypertube cannon and stuff and the answer that is no we're not going to remove it we haven't yet at least there's been no plans

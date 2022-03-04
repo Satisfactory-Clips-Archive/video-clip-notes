@@ -16,4 +16,4 @@ https://youtube.com/clip/UgxRV6hcvXyjD6YnjPl4AaABCQ
 
 ### Transcript
 
-> so what we're looking at here is the drones using the world grid in order to pathfind to their target destination so as soon as they take off you can see the red lines representing the path they take along the well grid, this is on our test map however so as you can see the whole grid is just kind of flat it's the same height but if you were to do this in the actual world, all of these squares would have a different height representation cool and one thing that i've noticed as
+> so what we're looking at here is the drones using the world grid in order to pathfind to their target destination so as soon as they take off you can see the red lines representing the path they take along the well grid, this is on our test map however so as you can see the whole grid is just kind of flat it's the same height but if you were to do this in the actual world, all of these squares would have a different height representation cool and one thing that I've noticed as

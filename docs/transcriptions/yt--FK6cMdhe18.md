@@ -30,4 +30,4 @@ https://www.youtube.com/watch?v=-FK6cMdhe18
 
 ### Transcript
 
-> any plans to implement an in-game statistics panel, i don't know honestly my hunch is no but you can always go to the qa site and upload it and maybe change our mind
+> any plans to implement an in-game statistics panel, I don't know honestly my hunch is no but you can always go to the qa site and upload it and maybe change our mind

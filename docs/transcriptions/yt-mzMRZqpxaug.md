@@ -20,4 +20,4 @@ https://www.youtube.com/watch?v=mzMRZqpxaug
 
 ### Transcript
 
-> will sam or summerslips and merciful have a function beyond story stuff, they're related to the story that's all i could say
+> will sam or summerslips and merciful have a function beyond story stuff, they're related to the story that's all I could say

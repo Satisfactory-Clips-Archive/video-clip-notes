@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=LCZehy3T6ck
 
 ### Transcript
 
-> toggle between foundation heights, i guess this is a ui thing yeah so you can kind of do this now with the, if you hold e when you have, stuff this is also like should this also be marked as done maybe, whatever i'm not the one who does this
+> toggle between foundation heights, I guess this is a ui thing yeah so you can kind of do this now with the, if you hold e when you have, stuff this is also like should this also be marked as done maybe, whatever I'm not the one who does this

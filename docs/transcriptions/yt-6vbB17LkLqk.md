@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: December 7th, 2
 
 ### Transcript
 
-> any plan for lost, unreal engine if you mean i'm 105 there are no plans for that right now
+> any plan for lost, unreal engine if you mean I'm 105 there are no plans for that right now

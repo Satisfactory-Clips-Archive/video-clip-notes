@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=AdOxeOT7cJ8
 
 ### Transcript
 
-> yep why does glossy concrete require oil but asphalt only requires concrete because you got to get that slippery surface on the on the, on the concrete i don't know there's probably, some reasoning here that mark thought about i don't know only mark knows it's another collection yeah sorry oh that was i was just gonna echo it's only it's only a mark notes thing one of those things
+> yep why does glossy concrete require oil but asphalt only requires concrete because you got to get that slippery surface on the on the, on the concrete I don't know there's probably, some reasoning here that mark thought about I don't know only mark knows it's another collection yeah sorry oh that was I was just gonna echo it's only it's only a mark notes thing one of those things

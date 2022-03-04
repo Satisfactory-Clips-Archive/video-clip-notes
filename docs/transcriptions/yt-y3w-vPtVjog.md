@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [October 19th, 
 
 ### Transcript
 
-> of it i think, signs for hypertube entrances so yeah we're gonna have science at some point, hopefully sooner rather than later but i don't know what's gonna happen and i think we we would make like a generic sign implementation rather than like something just for hypertubes
+> of it I think, signs for hypertube entrances so yeah we're gonna have science at some point, hopefully sooner rather than later but I don't know what's gonna happen and I think we we would make like a generic sign implementation rather than like something just for hypertubes

@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [February 15th,
 
 ### Transcript
 
-> that's the flush button that's coming along yeah yeah i i don't know we need that one dlc yeah
+> that's the flush button that's coming along yeah yeah- I don't know we need that one dlc yeah

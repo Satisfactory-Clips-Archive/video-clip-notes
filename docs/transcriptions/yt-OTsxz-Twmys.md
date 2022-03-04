@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [April 20th, 20
 
 ### Transcript
 
-> any news on reworking color selection, no not right now i don't have anything new to talk about there
+> any news on reworking color selection, no not right now I don't have anything new to talk about there

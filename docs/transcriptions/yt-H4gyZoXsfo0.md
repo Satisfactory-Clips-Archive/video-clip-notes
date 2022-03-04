@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=H4gyZoXsfo0
 
 ### Transcript
 
-> isn't that that's what's happening i get audio issues so i can actually blame simon you can blame simon no matter what it is yeah yeah i mean we've got i would make that joke nevermind that was a bad joke you can blame simon for this stream like the way this stream progresses yep
+> isn't that that's what's happening I get audio issues so I can actually blame simon you can blame simon no matter what it is yeah yeah I mean we've got I would make that joke nevermind that was a bad joke you can blame simon for this stream like the way this stream progresses yep

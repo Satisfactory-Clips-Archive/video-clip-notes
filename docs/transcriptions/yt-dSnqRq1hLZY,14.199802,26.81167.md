@@ -14,4 +14,4 @@ https://youtube.com/embed/dSnqRq1hLZY?autoplay=1&start=14&end=27
 
 ### Transcript
 
-> didn't know last week we launched our very first lineup of official merch with our buddies over at four fans by fans and if you want to check that out you can click like the little thingy annotation thingy in the corner here maybe but today's video is going to be more about merge but before we get into that i just want to address some things
+> didn't know last week we launched our very first lineup of official merch with our buddies over at four fans by fans and if you want to check that out you can click like the little thingy annotation thingy in the corner here maybe but today's video is going to be more about merge but before we get into that I just want to address some things

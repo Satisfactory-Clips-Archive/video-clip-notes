@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=4PMdlE1TIfY
 
 ### Transcript
 
-> are doing any marketing to driving new players we do, i'm not going to talk too much about that because i don't think that's interesting but we do we do market the game
+> are doing any marketing to driving new players we do, I'm not going to talk too much about that because I don't think that's interesting but we do we do market the game

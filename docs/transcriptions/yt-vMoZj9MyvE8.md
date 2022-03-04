@@ -18,8 +18,8 @@ This question was possibly duplicated with a more recent answer: [September 21st
 
 ### Transcript
 
-> hot tub stream went soon soon oh if we if we did do a hot tub stream would we have to use the hot tub category or should we do still do satisfactory i get a feeling if we use satisfactory we'll get like get a strike from twitch or something oh yeah probably i'll be like that's the wrong thing how dare you
+> hot tub stream went soon soon oh if we if we did do a hot tub stream would we have to use the hot tub category or should we do still do satisfactory I get a feeling if we use satisfactory we'll get like get a strike from twitch or something oh yeah probably I'll be like that's the wrong thing how dare you
 >
 > [Music]
 >
-> i saw that one as well yeah we gotta add hot tubs in the game we should do that yeah
+> I saw that one as well yeah we gotta add hot tubs in the game we should do that yeah

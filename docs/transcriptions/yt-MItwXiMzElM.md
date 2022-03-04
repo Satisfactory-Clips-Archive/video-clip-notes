@@ -20,4 +20,4 @@ https://www.youtube.com/watch?v=MItwXiMzElM
 >
 > [Music]
 >
-> i don't know you know you know you know my favorite feature is it's the hold e with the radial menu to switch between different kinds of conveyor belts and and things like that that's my favorite feature that's my favorite unannounced feature wow we got big brains here in the chat following up with that, yeah
+> I don't know you know you know you know my favorite feature is it's the hold e with the radial menu to switch between different kinds of conveyor belts and and things like that that's my favorite feature that's my favorite unannounced feature wow we got big brains here in the chat following up with that, yeah

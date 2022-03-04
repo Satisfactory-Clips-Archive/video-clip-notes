@@ -26,4 +26,4 @@ https://www.youtube.com/watch?v=C2fArx9F9RM
 
 ### Transcript
 
-> what about some leaks we've leaks so many people keep like saying leaks in the chat we leak stuff every week i never leak anything what are you talking about intentionally or otherwise yeah no never happens
+> what about some leaks we've leaks so many people keep like saying leaks in the chat we leak stuff every week I never leak anything what are you talking about intentionally or otherwise yeah no never happens

@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=003TYyIDfk4
 
 ### Transcript
 
-> why was it why was i hesitant to share this because i was i would have preferred to, have structured the way that i wanted to communicate it and receive your feedback in a better way rather than just off the cuff right, but i and been a little bit better prepared that's that's the reason why but we can do both so now we got the now we got the, piercing the veil, checkup and then we can do another one
+> why was it why was I hesitant to share this because I was I would have preferred to, have structured the way that I wanted to communicate it and receive your feedback in a better way rather than just off the cuff right, but I and been a little bit better prepared that's that's the reason why but we can do both so now we got the now we got the, piercing the veil, checkup and then we can do another one

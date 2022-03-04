@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=pxGSEQM2uso
 
 ### Transcript
 
-> these things can get burned in hell where they belong i saw one on reddit and my question is why would i don't know sniper i don't know why they i i came to work one day and then we had stingers in the game i don't know what don't wasn't me they're terrifying but there is arachnophobia mode
+> these things can get burned in hell where they belong I saw one on reddit and my question is why would I don't know sniper I don't know why they- I came to work one day and then we had stingers in the game I don't know what don't wasn't me they're terrifying but there is arachnophobia mode

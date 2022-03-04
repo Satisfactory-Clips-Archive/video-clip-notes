@@ -33,4 +33,4 @@ https://www.youtube.com/watch?v=N8UgzoIneMk
 
 ### Transcript
 
-> some ladders we already had ladders but we didn't have these like stairs yeah yeah which i'm super stoked about, yeah didn't have any slides or ladders from other games oh this is from alien isolation actually that art style, so yeah good else
+> some ladders we already had ladders but we didn't have these like stairs yeah yeah which I'm super stoked about, yeah didn't have any slides or ladders from other games oh this is from alien isolation actually that art style, so yeah good else

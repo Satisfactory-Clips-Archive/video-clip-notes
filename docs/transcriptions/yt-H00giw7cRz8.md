@@ -16,11 +16,11 @@ https://www.youtube.com/watch?v=H00giw7cRz8
 
 ### Transcript
 
-> it's like a it's like a musical instrument-ish oh it's like a percussionist i think i know what it is i think i've yeah right i think i sort of know it's got like a lever thing that you you rotate yeah right or not yeah there's different designs i think there's one where like you you twist it like this oh put wait wait wait wait let me let me see i can't wait for marge to make a gif out of this wait wait wait, do it again i look really dodgy into the camera and i'll look kind of scared at you okay ready that's perfect
+> it's like a it's like a musical instrument-ish oh it's like a percussionist I think I know what it is I think I've yeah right I think I sort of know it's got like a lever thing that you you rotate yeah right or not yeah there's different designs I think there's one where like you you twist it like this oh put wait wait wait wait let me let me see I can't wait for marge to make a gif out of this wait wait wait, do it again I look really dodgy into the camera and I'll look kind of scared at you okay ready that's perfect
 >
 > [Laughter]
 >
-> oh [ __ ] i'm so sorry chad, but yeah really cool i love the windows that's like in the short side of it oh my god focus chase we're doing a stream act professional can you be a bit a little bit more special
+> oh [ __ ] I'm so sorry chad, but yeah really cool I love the windows that's like in the short side of it oh my god focus chase we're doing a stream act professional can you be a bit a little bit more special
 >
 > [Music]
 >

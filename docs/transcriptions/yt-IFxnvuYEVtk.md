@@ -27,4 +27,4 @@ https://www.youtube.com/watch?v=IFxnvuYEVtk
 
 ### Transcript
 
-> that's how it starts destroy all the followers in the game biomes increase performance or decrease because the game is the track what you destroyed i think it does nothing yeah it just disappears yeah because we're tracking that they're either there or not i don't think the way it works is that it's assumed there unless it checks it list that keeps growing when you remove things yeah i'm pretty sure that's how it is so i think it does nothing i don't know i could be wrong yeah i actually don't know i don't remember i'm uncertain right now
+> that's how it starts destroy all the followers in the game biomes increase performance or decrease because the game is the track what you destroyed I think it does nothing yeah it just disappears yeah because we're tracking that they're either there or not I don't think the way it works is that it's assumed there unless it checks it list that keeps growing when you remove things yeah I'm pretty sure that's how it is so I think it does nothing I don't know I could be wrong yeah I actually don't know I don't remember I'm uncertain right now

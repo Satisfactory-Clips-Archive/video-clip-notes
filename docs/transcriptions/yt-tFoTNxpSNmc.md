@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=tFoTNxpSNmc
 
 ### Transcript
 
-> interesting curious that drones take up you know 70 of the screen yeah isn't that interesting isn't that interesting huh i wonder if people were to go frame by frame through this segment of the video i wonder what they would find and hands in hand exactly i've seen a lot of people react to this video and people have look even looked at the germans but no one has said anything no one has spotted anything on the drones hmm that's peculiar yes
+> interesting curious that drones take up you know 70 of the screen yeah isn't that interesting isn't that interesting huh I wonder if people were to go frame by frame through this segment of the video I wonder what they would find and hands in hand exactly I've seen a lot of people react to this video and people have look even looked at the germans but no one has said anything no one has spotted anything on the drones hmm that's peculiar yes

@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [February 22nd,
 
 ### Transcript
 
-> none well we have weather events yeah we just said that before, maybe i don't know for sure yet
+> none well we have weather events yeah we just said that before, maybe I don't know for sure yet

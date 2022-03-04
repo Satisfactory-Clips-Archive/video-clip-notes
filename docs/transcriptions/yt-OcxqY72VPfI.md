@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=OcxqY72VPfI
 
 ### Transcript
 
-> i do not hear new music oh you gotta explore more the music is tied to like the areas you are in so if you're just in one the same area over and over again you're not gonna get any of the new music
+> I do not hear new music oh you gotta explore more the music is tied to like the areas you are in so if you're just in one the same area over and over again you're not gonna get any of the new music

@@ -16,4 +16,4 @@ This question was possibly replaced with a more recent answer: [March 9th, 2021 
 
 ### Transcript
 
-> or i wonder ata on update 4 is february or march next year
+> or I wonder ata on update 4 is february or march next year

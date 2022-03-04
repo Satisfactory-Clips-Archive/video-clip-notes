@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=cIuO0sScXGg
 
 ### Transcript
 
-> why is there a coffee cup in the hub called bry is it mine does it say bry on it i thought it said something else i don't know, bry equals like care in swedish like should i care, i don't know if that's that's like an easter egg or something like that but i don't know
+> why is there a coffee cup in the hub called bry is it mine does it say bry on it I thought it said something else I don't know, bry equals like care in swedish like should I care, I don't know if that's that's like an easter egg or something like that but I don't know

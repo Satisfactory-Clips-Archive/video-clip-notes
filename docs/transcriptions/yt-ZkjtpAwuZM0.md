@@ -19,4 +19,4 @@ https://www.youtube.com/watch?v=ZkjtpAwuZM0
 >
 > [Music]
 >
-> i hope you never get to one point these updates are awesome but we might update the game after 1.0 who knows yeah, or maybe we work on a different game and the other game is cool too who knows we've made a lot of cool games a lot of people like our games so who knows maybe there's more we can do than satisfactory
+> I hope you never get to one point these updates are awesome but we might update the game after 1.0 who knows yeah, or maybe we work on a different game and the other game is cool too who knows we've made a lot of cool games a lot of people like our games so who knows maybe there's more we can do than satisfactory

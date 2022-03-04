@@ -14,4 +14,4 @@ https://youtube.com/embed/Z2WggHmVHGI?autoplay=1&start=0&end=10
 
 ### Transcript
 
-> in the end it doesn't even matter i love nirvana my favorite band hey everyone my name is jason i'm a
+> in the end it doesn't even matter I love nirvana my favorite band hey everyone my name is jason I'm a

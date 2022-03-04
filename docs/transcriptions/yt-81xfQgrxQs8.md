@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=81xfQgrxQs8
 
 ### Transcript
 
-> crab boss will the crab boss drop crab themed armor nobody wants that oh no i don't know probably not it's my guess that's gross but maybe it does maybe drops like a part that you really need or something i don't know
+> crab boss will the crab boss drop crab themed armor nobody wants that oh no I don't know probably not it's my guess that's gross but maybe it does maybe drops like a part that you really need or something I don't know

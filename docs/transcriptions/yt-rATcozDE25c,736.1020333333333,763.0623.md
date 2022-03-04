@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [December 7th, 
 
 ### Transcript
 
-> exploration this is a pretty hard no it's something that could maybe happen in the distant future but one thing you need to keep in mind here is if we have underwater and even just on water to some degree that means a whole new world like level to create and we even haven't even finished the main world so that's not something that's going to happen anytime soon i'm pretty sure and whenever i talk to hannah about it she pretty much just straight up says no any new maps coming
+> exploration this is a pretty hard no it's something that could maybe happen in the distant future but one thing you need to keep in mind here is if we have underwater and even just on water to some degree that means a whole new world like level to create and we even haven't even finished the main world so that's not something that's going to happen anytime soon I'm pretty sure and whenever I talk to hannah about it she pretty much just straight up says no any new maps coming

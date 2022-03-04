@@ -20,4 +20,4 @@ https://www.youtube.com/watch?v=3WrMpHoUWFM
 
 ### Transcript
 
-> here's a myth that you can finish satisfactory in a thousand hours, i think, i think you can technically there's only one person that has finished satisfactory to this date technically and by like current standards you would be like oh well that's not really finishing the game anymore but someone actually finished the game does anybody remember who that person is because we've said it before i want to see if anybody remembers who that person is
+> here's a myth that you can finish satisfactory in a thousand hours, I think, I think you can technically there's only one person that has finished satisfactory to this date technically and by like current standards you would be like oh well that's not really finishing the game anymore but someone actually finished the game does anybody remember who that person is because we've said it before I want to see if anybody remembers who that person is

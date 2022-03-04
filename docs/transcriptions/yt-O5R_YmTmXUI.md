@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=O5R_YmTmXUI
 
 ### Transcript
 
-> i'm already out of concrete collect fart gas for fuel you know what live your life man follow your heart there's so much farting going on here
+> I'm already out of concrete collect fart gas for fuel you know what live your life man follow your heart there's so much farting going on here

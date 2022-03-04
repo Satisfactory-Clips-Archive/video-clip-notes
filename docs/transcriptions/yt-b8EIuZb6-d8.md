@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=b8EIuZb6-d8
 
 ### Transcript
 
-> are all the geysers in sync with the output that's a really good question i actually don't know hmm i don't think so because we're not we're not syncing with like a clock or anything like that i think they're synced by just like when they spawn or something so i don't i don't know actually maybe they are i have no idea actually because i have to ask like one of the programmers that actually implemented it see if they know
+> are all the geysers in sync with the output that's a really good question I actually don't know hmm I don't think so because we're not we're not syncing with like a clock or anything like that I think they're synced by just like when they spawn or something so I don't I don't know actually maybe they are I have no idea actually because I have to ask like one of the programmers that actually implemented it see if they know

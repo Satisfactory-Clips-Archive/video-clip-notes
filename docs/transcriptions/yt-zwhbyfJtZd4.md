@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=zwhbyfJtZd4
 
 ### Transcript
 
-> the tinder the dating app would be pi and r oh my god very good harry pi and r oh my goodness amazing i love that so much
+> the tinder the dating app would be pi and r oh my god very good harry pi and r oh my goodness amazing I love that so much

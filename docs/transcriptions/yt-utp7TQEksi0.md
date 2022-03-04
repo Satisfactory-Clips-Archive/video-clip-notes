@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [September 14th
 
 ### Transcript
 
-> are we going to get changes to the five the basic material recipes, no i don't think so i don't think we are going to make any changes to maybe there will be minor tweaks but i don't think there are any plans for changes to, like the tiers up until seven or eight or like yeah yeah it's it's always possible that mark goes like no and changes some of that stuff rebalances it, based on feedback from people but, to my knowledge there are no plans for it but patent-pending or like anything can happen
+> are we going to get changes to the five the basic material recipes, no I don't think so I don't think we are going to make any changes to maybe there will be minor tweaks but I don't think there are any plans for changes to, like the tiers up until seven or eight or like yeah yeah it's it's always possible that mark goes like no and changes some of that stuff rebalances it, based on feedback from people but, to my knowledge there are no plans for it but patent-pending or like anything can happen

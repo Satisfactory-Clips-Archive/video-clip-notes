@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=rIlnQuk_FRw
 
 ### Transcript
 
-> are we paid for doing this yep we sure are unfortunately i mean we're we are you know essentially working on a video right now but it's really nice that we can sort of also hang out with folks at the same time yeah we do get paid when we stream on our regular streams too guys okay
+> are we paid for doing this yep we sure are unfortunately I mean we're we are you know essentially working on a video right now but it's really nice that we can sort of also hang out with folks at the same time yeah we do get paid when we stream on our regular streams too guys okay

@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=17_rShob9vA
 
 ### Transcript
 
-> do you have a solution for corner roofs in mind a solution would be well no i mean i don't know if we have, please i'll put down the cube there's a couple of like cosmetic stuff that we wanted to do that we didn't have time to make i think corner roofs was one of them so please update that on the keyway side and make sure that let the team know let them know because if we were like oh we wanted to make corner roofs but nobody said they wanted us so i guess we're not making it
+> do you have a solution for corner roofs in mind a solution would be well no I mean I don't know if we have, please I'll put down the cube there's a couple of like cosmetic stuff that we wanted to do that we didn't have time to make I think corner roofs was one of them so please update that on the keyway side and make sure that let the team know let them know because if we were like oh we wanted to make corner roofs but nobody said they wanted us so I guess we're not making it

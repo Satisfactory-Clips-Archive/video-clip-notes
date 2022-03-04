@@ -29,4 +29,4 @@ https://www.youtube.com/watch?v=mxPcSrf1YQE
 
 ### Transcript
 
-> i think that's, japanese practice time i'm pretty sure that's uchu space yes so, is it gonna be that you can go to space, no you cannot go to space we're not gonna we're not gonna add the ability to go to space didn't need the english to answer bam gotcha
+> I think that's, japanese practice time I'm pretty sure that's uchu space yes so, is it gonna be that you can go to space, no you cannot go to space we're not gonna we're not gonna add the ability to go to space didn't need the english to answer bam gotcha

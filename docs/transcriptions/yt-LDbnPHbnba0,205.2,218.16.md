@@ -14,4 +14,4 @@ https://youtube.com/embed/LDbnPHbnba0?autoplay=1&start=205&end=219
 
 ### Transcript
 
-> for hardware I use sure you can do some design with a lot of hardware and it's really expensive I feel that I I got what I need when I have a sound card and when I have software my favorite thing that I've
+> for hardware I use sure you can do some design with a lot of hardware and it's really expensive I feel that- I got what I need when I have a sound card and when I have software my favorite thing that I've

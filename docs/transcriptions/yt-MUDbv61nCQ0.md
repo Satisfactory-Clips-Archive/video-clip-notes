@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=MUDbv61nCQ0
 
 ### Transcript
 
-> why do you call them timetables when they don't attract time i don't know man don't blame me blame the people at english language headquarters blame them blame them
+> why do you call them timetables when they don't attract time I don't know man don't blame me blame the people at english language headquarters blame them blame them

@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=KWRlYteoilQ
 
 ### Transcript
 
-> do you know i am kibbits i discovered the game thanks to his youtube channel actually never heard of him no no neither, i'll check him out later yeah it's it's funny because some people have said that one of the bases in the latest trailer kind of looks like a kibbut base but i don't know about that i've never heard of what a kibbutz base is no yeah yeah i heard that once before and i was like okay dude i tried to look on urban dictionary but i couldn't find it urban dictionary i'm curious now
+> do you know I am kibbits I discovered the game thanks to his youtube channel actually never heard of him no no neither, I'll check him out later yeah it's it's funny because some people have said that one of the bases in the latest trailer kind of looks like a kibbut base but I don't know about that I've never heard of what a kibbutz base is no yeah yeah I heard that once before and I was like okay dude I tried to look on urban dictionary but I couldn't find it urban dictionary I'm curious now

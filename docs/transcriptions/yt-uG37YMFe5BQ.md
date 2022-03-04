@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=uG37YMFe5BQ
 
 ### Transcript
 
-> should demonstrate on devstream one week that would be fun could do some like multiplayer with snoot or something that would be really fun i'd like to do that it's a really good game
+> should demonstrate on devstream one week that would be fun could do some like multiplayer with snoot or something that would be really fun I'd like to do that it's a really good game

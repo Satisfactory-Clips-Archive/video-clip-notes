@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [September 28th
 
 ### Transcript
 
-> yeah hard mode ooh i wish that'd be cool actually upload that on keyword site
+> yeah hard mode ooh I wish that'd be cool actually upload that on keyword site

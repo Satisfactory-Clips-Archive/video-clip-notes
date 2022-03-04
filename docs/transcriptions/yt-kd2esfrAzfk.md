@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=kd2esfrAzfk
 
 ### Transcript
 
-> i love how the mam research tree is literally a tree yeah that's the same thing there like the the mam tree that shows up today, is also like from last year so it's you can't access it if you've never played fixmas before we're gonna fix that in the next patch
+> I love how the mam research tree is literally a tree yeah that's the same thing there like the the mam tree that shows up today, is also like from last year so it's you can't access it if you've never played fixmas before we're gonna fix that in the next patch

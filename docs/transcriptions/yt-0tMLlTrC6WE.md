@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=0tMLlTrC6WE
 
 ### Transcript
 
-> how does story work with someone already in the end game we need to start over to experience it don't know i don't know mini wheats i don't know probably no idea i don't know
+> how does story work with someone already in the end game we need to start over to experience it don't know I don't know mini wheats I don't know probably no idea I don't know

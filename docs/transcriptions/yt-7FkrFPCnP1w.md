@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=7FkrFPCnP1w
 
 ### Transcript
 
-> they're gonna be a new island sometime i don't know
+> they're gonna be a new island sometime I don't know

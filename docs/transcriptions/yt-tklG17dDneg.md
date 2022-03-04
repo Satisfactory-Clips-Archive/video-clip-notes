@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=tklG17dDneg
 
 ### Transcript
 
-> if we didn't play last year we'll be able to play unlock last year's stuff too most of it i think like the like 99 of it i'm pretty sure it might be i don't know i actually don't know fully but there there might be like one thing you can't get that's like a little bit like exclusive for those people that played on last year
+> if we didn't play last year we'll be able to play unlock last year's stuff too most of it I think like the like 99 of it I'm pretty sure it might be I don't know I actually don't know fully but there there might be like one thing you can't get that's like a little bit like exclusive for those people that played on last year

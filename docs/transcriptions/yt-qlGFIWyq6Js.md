@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=qlGFIWyq6Js
 
 ### Transcript
 
-> vfx yeah oh fun fact about that actually big yeah christopher made all like the animations and stuff he actually did all the vfx before as well yeah the animator i was saying yeah he actually did all the vfx as well so there you go dude's insane actually so insane yeah yes mvp yeah
+> vfx yeah oh fun fact about that actually big yeah christopher made all like the animations and stuff he actually did all the vfx before as well yeah the animator I was saying yeah he actually did all the vfx as well so there you go dude's insane actually so insane yeah yes mvp yeah

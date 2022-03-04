@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=twjZc7ImIts
 
 ### Transcript
 
-> will the engine upgrade work on linux we don't officially support linux yet, but if you have the game running on linux right now, hopefully it will work, i don't know
+> will the engine upgrade work on linux we don't officially support linux yet, but if you have the game running on linux right now, hopefully it will work, I don't know

@@ -20,4 +20,4 @@ https://www.youtube.com/watch?v=tG5bTwKIzA4
 
 ### Transcript
 
-> two inputs on truck stop hinting at two outputs on mk3 miner though they are two different buildings, no yes yeah i mean there are other buildings that also have two inputs and outputs such as the train stations i mean that it's doesn't a hint for that
+> two inputs on truck stop hinting at two outputs on mk3 miner though they are two different buildings, no yes yeah I mean there are other buildings that also have two inputs and outputs such as the train stations I mean that it's doesn't a hint for that

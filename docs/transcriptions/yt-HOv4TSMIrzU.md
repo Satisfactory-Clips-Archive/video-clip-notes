@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=HOv4TSMIrzU
 
 ### Transcript
 
-> want to hear a udp joke no because i already know what the joke is gonna be so no i dropped that connection immediately i'm not receiving blocked by router i'm gonna have to use punch through to get that joke to me
+> want to hear a udp joke no because I already know what the joke is gonna be so no I dropped that connection immediately I'm not receiving blocked by router I'm gonna have to use punch through to get that joke to me

@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [November 30th,
 
 ### Transcript
 
-> where do you apply there's the website the coffee-stained website itself you can always apply for a job if you think that you've got the the skills and they want to work in the games and with coffee-stained go ahead and do it we have open up open applications a kind of resolution I I'm not sure what
+> where do you apply there's the website the coffee-stained website itself you can always apply for a job if you think that you've got the the skills and they want to work in the games and with coffee-stained go ahead and do it we have open up open applications a kind of resolution- I'm not sure what

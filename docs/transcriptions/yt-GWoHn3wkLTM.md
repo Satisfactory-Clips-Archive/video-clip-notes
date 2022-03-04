@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=GWoHn3wkLTM
 
 ### Transcript
 
-> is liking coffee a requirement to work at the studio hell no i hate coffee, i hate it
+> is liking coffee a requirement to work at the studio hell no I hate coffee, I hate it

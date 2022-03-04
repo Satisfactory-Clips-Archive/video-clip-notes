@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [February 15th,
 
 ### Transcript
 
-> will you add an alien go to satisfactory what if there is one i mean i'm not saying there is one but one if there is one i mean i'm not saying there is one actually but what if there was one, i'm not saying there's one but what if
+> will you add an alien go to satisfactory what if there is one I mean I'm not saying there is one but one if there is one I mean I'm not saying there is one actually but what if there was one, I'm not saying there's one but what if

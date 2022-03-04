@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=akL8F1_RI7k
 
 ### Transcript
 
-> what a chance of getting a dyson sphere for super and game power i mean that's not impossible, but i don't know what we have in store but i think like that's maybe something that would be something like like really end game stuff i think is the thing we'll be looking at for there you wouldn't be getting solar power for that's not ever gonna happen probably
+> what a chance of getting a dyson sphere for super and game power I mean that's not impossible, but I don't know what we have in store but I think like that's maybe something that would be something like like really end game stuff I think is the thing we'll be looking at for there you wouldn't be getting solar power for that's not ever gonna happen probably

@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [October 19th, 
 
 ### Transcript
 
-> anyway, i saw one very important thing here in chat state of golf i am curious we need what is the state of golf what is this what's the check see here oh we sat at 600 votes it's at 526 not enough wait really that's kind of juicy at 600 600 votes guys we'll put, we'll prioritize golf and put it in we'll put it in immediately we'll we'll skip update five and just put it in and just make a standalone release of it yep cool
+> anyway, I saw one very important thing here in chat state of golf I am curious we need what is the state of golf what is this what's the check see here oh we sat at 600 votes it's at 526 not enough wait really that's kind of juicy at 600 600 votes guys we'll put, we'll prioritize golf and put it in we'll put it in immediately we'll we'll skip update five and just put it in and just make a standalone release of it yep cool

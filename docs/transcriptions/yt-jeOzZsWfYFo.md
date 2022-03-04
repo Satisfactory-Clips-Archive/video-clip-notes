@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: July 13th, 2021
 
 ### Transcript
 
-> will we get quantum computers and superposition oscillators in one of the following updates or are they for update 1.0 they will come in a future update they are not reserved for 1.0, that's all i know actually they're part of some something they're they're up to something sneaky bastards potentially they might be part of like something story related but i don't think they are i think they're part of some production chain that's not been released yet, so yeah
+> will we get quantum computers and superposition oscillators in one of the following updates or are they for update 1.0 they will come in a future update they are not reserved for 1.0, that's all I know actually they're part of some something they're they're up to something sneaky bastards potentially they might be part of like something story related but I don't think they are I think they're part of some production chain that's not been released yet, so yeah

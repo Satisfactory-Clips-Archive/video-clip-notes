@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [February 15th,
 
 ### Transcript
 
-> all natural, the one with the toilet b operative i can't wait more with this inside me, hang in there, one dollar dlc hey there i love that like i really need to go just hang in there just hang in there yeah i mean you pay for toilets here in sweden and in like a lot of places that's true in australia you never pay for, bathrooms yeah australia better
+> all natural, the one with the toilet b operative I can't wait more with this inside me, hang in there, one dollar dlc hey there I love that like I really need to go just hang in there just hang in there yeah I mean you pay for toilets here in sweden and in like a lot of places that's true in australia you never pay for, bathrooms yeah australia better

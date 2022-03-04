@@ -18,7 +18,7 @@ This question was possibly duplicated with a more recent answer: [February 22nd,
 
 ### Transcript
 
-> we see teleportation in the future of satisfactory i actually don't know, it is something that we played with many, many many many years ago and then stopped working with it i i but like that happens often right like designers try out different things all the time and then cancel things all the time so i i don't really know if it's gonna come back or not but, i don't know like i could i could maybe see us doing it i i don't think it's a complete no from my perspective but i'm also not the game director, so if only you were if only i was wow what a game this would be so much better you'd have to you'd have to
+> we see teleportation in the future of satisfactory I actually don't know, it is something that we played with many, many many many years ago and then stopped working with it- I but like that happens often right like designers try out different things all the time and then cancel things all the time so- I don't really know if it's gonna come back or not but, I don't know like I could I could maybe see us doing it- I don't think it's a complete no from my perspective but I'm also not the game director, so if only you were if only I was wow what a game this would be so much better you'd have to you'd have to
 >
 > [Music]
 >

@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=YzLyQJ97JQ4
 
 ### Transcript
 
-> triangle foundations that make me so happy check out satisfactory questions on satisfactorygame.com i'm sure that's been suggested before if you find it, give it an up vote
+> triangle foundations that make me so happy check out satisfactory questions on satisfactorygame.com I'm sure that's been suggested before if you find it, give it an up vote

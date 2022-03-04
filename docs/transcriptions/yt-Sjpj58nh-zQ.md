@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=Sjpj58nh-zQ
 
 ### Transcript
 
-> is there a way of reducing or switching off hud to avoid screen burn, i mean you can turn off the hud using, the photo mode but that turns off all yeah ui, i don't know if this is this is i mean there's no current way to do that, no go to the q a side and up vote, this this issue or or post it if it's not there yeah qa site here i'm gonna put a link for you guys questions on satisfactorygum.com best place to leave your suggestions and also bugs and stuff like that
+> is there a way of reducing or switching off hud to avoid screen burn, I mean you can turn off the hud using, the photo mode but that turns off all yeah ui, I don't know if this is this is I mean there's no current way to do that, no go to the q a side and up vote, this this issue or or post it if it's not there yeah qa site here I'm gonna put a link for you guys questions on satisfactorygum.com best place to leave your suggestions and also bugs and stuff like that

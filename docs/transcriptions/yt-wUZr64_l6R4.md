@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [February 22nd,
 
 ### Transcript
 
-> gonna be weather changes like rain snow and sandstorms i don't know i don't think so
+> gonna be weather changes like rain snow and sandstorms I don't know I don't think so

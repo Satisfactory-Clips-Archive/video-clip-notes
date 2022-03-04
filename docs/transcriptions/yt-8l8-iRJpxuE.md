@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=8l8-iRJpxuE
 
 ### Transcript
 
-> just want to confirm that yes, the songs of conquest is early 2022. so before satisfactory i mean you can say any year it will be before octopus
+> just want to confirm that yes, the songs of conquest is early 2022. so before satisfactory I mean you can say any year it will be before octopus

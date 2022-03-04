@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=WXzXvM121Uc
 
 ### Transcript
 
-> get skateboard decks with satisfactory rod yeah that would be cool wait what casual flying is asking can we get some skateboard decks with satisfaction oh that's pretty good get custom you could probably get custom skateboards pretty sure you can yeah i'm pretty sure there's like on print all like on-demand printing services for that i feel like i've seen people do that but i might be wrong maybe they did it like themselves that would be dope
+> get skateboard decks with satisfactory rod yeah that would be cool wait what casual flying is asking can we get some skateboard decks with satisfaction oh that's pretty good get custom you could probably get custom skateboards pretty sure you can yeah I'm pretty sure there's like on print all like on-demand printing services for that I feel like I've seen people do that but I might be wrong maybe they did it like themselves that would be dope

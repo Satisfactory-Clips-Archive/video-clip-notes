@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [February 22nd,
 
 ### Transcript
 
-> a teleport system i don't know if that's gonna happen we have tried that in the past and i don't know if we liked it or not so i can't really say, so i don't know
+> a teleport system I don't know if that's gonna happen we have tried that in the past and I don't know if we liked it or not so I can't really say, so I don't know

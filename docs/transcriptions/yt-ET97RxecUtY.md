@@ -90,8 +90,8 @@ https://www.youtube.com/watch?v=ET97RxecUtY
 
 ### Transcript
 
-> yeah yep the golf clubs yeah like it was funny watching kibbits reaction because kibbits ha apparently has a thing where he has like a golf clap like, sound effect playing on stream or something so he was like oh golf club golf club that's no good man was that you no that was, we're using epidemic for for the sounds and stuff so i just like when i was putting this together i was like this it's like a violin and there's like some i slowed down some footage or some sound or something go like yeah or something like that oh, that slowed down no or sped up maybe actually think it's like yeah and then i do a pan or like left right from left yeah yeah yeah that's no good man that's, right in the woods all right let's go look for it i guess
+> yeah yep the golf clubs yeah like it was funny watching kibbits reaction because kibbits ha apparently has a thing where he has like a golf clap like, sound effect playing on stream or something so he was like oh golf club golf club that's no good man was that you no that was, we're using epidemic for for the sounds and stuff so I just like when I was putting this together I was like this it's like a violin and there's like some I slowed down some footage or some sound or something go like yeah or something like that oh, that slowed down no or sped up maybe actually think it's like yeah and then I do a pan or like left right from left yeah yeah yeah that's no good man that's, right in the woods all right let's go look for it I guess
 >
 > [Music]
 >
-> i think it's a tuba actually it's trombone now it's tremble forever
+> I think it's a tuba actually it's trombone now it's tremble forever

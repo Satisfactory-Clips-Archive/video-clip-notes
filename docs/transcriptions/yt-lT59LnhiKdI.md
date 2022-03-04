@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [December 7th, 
 
 ### Transcript
 
-> have you tossed around the idea of survival i i mean i i think it has been thought of and i don't think it's going to be a thing it's i don't think survival is something that we want to pursue no
+> have you tossed around the idea of survival- I mean- I think it has been thought of and I don't think it's going to be a thing it's I don't think survival is something that we want to pursue no

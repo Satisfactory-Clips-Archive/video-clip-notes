@@ -20,4 +20,4 @@ https://www.youtube.com/watch?v=y7chTv597Cw
 >
 > [Laughter]
 >
-> i bet i i bet it was me who made that so i was like jace, you need to like show the map when you press m and i'm like sure thing man
+> I bet- I bet it was me who made that so I was like jace, you need to like show the map when you press m and I'm like sure thing man

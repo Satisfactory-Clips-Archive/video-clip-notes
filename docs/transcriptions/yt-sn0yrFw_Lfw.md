@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=sn0yrFw_Lfw
 
 ### Transcript
 
-> opposite, let's see any more anymore can we put the nanny back in can we put the nanny back in probably like i think it's still there it's just not hooked up yeah so but like design wise are they gonna yeah i mean it's a bit weird i think it's funny but i think it's still weird yeah yeah it could be like one of those super rare like one of the thousand things like we like a lot of easter eggs because we already have like a bunch of obscure references as easter eggs
+> opposite, let's see any more anymore can we put the nanny back in can we put the nanny back in probably like I think it's still there it's just not hooked up yeah so but like design wise are they gonna yeah I mean it's a bit weird I think it's funny but I think it's still weird yeah yeah it could be like one of those super rare like one of the thousand things like we like a lot of easter eggs because we already have like a bunch of obscure references as easter eggs

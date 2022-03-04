@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=5RnAhqgllT4
 
 ### Transcript
 
-> let's see here will we get 45 degree railings alongside the ramp ranges, i don't know i don't know this is the question
+> let's see here will we get 45 degree railings alongside the ramp ranges, I don't know I don't know this is the question

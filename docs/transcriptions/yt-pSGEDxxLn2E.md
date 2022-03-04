@@ -20,4 +20,4 @@ This question was possibly duplicated with a more recent answer: [September 7th,
 
 ### Transcript
 
-> completely changed everything would turbo fuel, will turbo fuel finally be usable for jetpacks in update four or sooner, i don't think so, is my answer to that i don't think so, but it's possible in the future we change that that's another thing like that's a ux thing or a design thing where how you pick the fuel for your jetpack hasn't we don't have a solution to that yet
+> completely changed everything would turbo fuel, will turbo fuel finally be usable for jetpacks in update four or sooner, I don't think so, is my answer to that I don't think so, but it's possible in the future we change that that's another thing like that's a ux thing or a design thing where how you pick the fuel for your jetpack hasn't we don't have a solution to that yet

@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=vgxwqJg7o2A
 
 ### Transcript
 
-> this is a bit of a bummer yeah, any chance you're putting a daily limit to the game i found myself playing 60 hours, i mean that's actually interesting we could we maybe like i feel like natalie is would see that and be like ooh sort of like an accessibility thing you know, add it to the qa site yeah that's a really good thing yeah actually yeah that's actually super good yeah, because it probably won't be a really hard thing to do says the community manager where can it be
+> this is a bit of a bummer yeah, any chance you're putting a daily limit to the game I found myself playing 60 hours, I mean that's actually interesting we could we maybe like I feel like natalie is would see that and be like ooh sort of like an accessibility thing you know, add it to the qa site yeah that's a really good thing yeah actually yeah that's actually super good yeah, because it probably won't be a really hard thing to do says the community manager where can it be

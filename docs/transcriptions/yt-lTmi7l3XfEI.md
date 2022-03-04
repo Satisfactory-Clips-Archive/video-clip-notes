@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=lTmi7l3XfEI
 
 ### Transcript
 
-> we have to get an mk2 constructor i believe the current i believe the current plan for mk2 stuff is is no like mk2 like manufacturing buildings is not really that we're not really interested in it if i remember correctly i could be wrong but i'm pretty certain that it's not something that we're we're shooting for so
+> we have to get an mk2 constructor I believe the current I believe the current plan for mk2 stuff is is no like mk2 like manufacturing buildings is not really that we're not really interested in it if I remember correctly I could be wrong but I'm pretty certain that it's not something that we're we're shooting for so

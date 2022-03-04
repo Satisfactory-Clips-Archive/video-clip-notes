@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=7q3qw64REKY
 
 ### Transcript
 
-> our office doggo is considered coffee stainers or just office doggos office doggos is my vote i'd say, since they're not actually working on the game or maybe they are maybe i'm just like morning
+> our office doggo is considered coffee stainers or just office doggos office doggos is my vote I'd say, since they're not actually working on the game or maybe they are maybe I'm just like morning

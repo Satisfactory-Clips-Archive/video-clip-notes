@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=NNpsw0IUTW4
 
 ### Transcript
 
-> renditions of the five maybe i don't know honestly i was playing for that
+> renditions of the five maybe I don't know honestly I was playing for that

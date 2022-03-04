@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [October 6th, 2
 
 ### Transcript
 
-> one can anything you can reveal about fluid changes coming, i can't because i have no idea i'm also not allowed, even if i did yeah i honestly don't know what's going on yeah i think they're intentionally not telling us they don't trust us anymore i'm also intentionally not asking it makes my job easier
+> one can anything you can reveal about fluid changes coming, I can't because I have no idea I'm also not allowed, even if I did yeah I honestly don't know what's going on yeah I think they're intentionally not telling us they don't trust us anymore I'm also intentionally not asking it makes my job easier

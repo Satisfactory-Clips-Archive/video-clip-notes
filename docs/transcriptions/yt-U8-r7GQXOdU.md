@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=U8-r7GQXOdU
 
 ### Transcript
 
-> it's satisfactory across stardew valley i don't know how that would work but, i mean we we've talked about like being interested in having farming in the game so you know if that becomes a thing then satisfactory will be stardew valley-esque but there's not really going to be other people that you can like get to know or hang out with unless they're your friends that you play with online
+> it's satisfactory across stardew valley I don't know how that would work but, I mean we we've talked about like being interested in having farming in the game so you know if that becomes a thing then satisfactory will be stardew valley-esque but there's not really going to be other people that you can like get to know or hang out with unless they're your friends that you play with online

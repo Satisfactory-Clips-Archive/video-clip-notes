@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=DaTJpHN6dRg
 
 ### Transcript
 
-> arachnophobia mode is worse than the spiders i'll just switch back to the spiders
+> arachnophobia mode is worse than the spiders I'll just switch back to the spiders

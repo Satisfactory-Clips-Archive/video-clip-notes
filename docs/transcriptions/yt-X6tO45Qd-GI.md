@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [December 14th,
 
 ### Transcript
 
-> what is with the mug oh yeah yeah i need i have to check pretty much slash mug i i don't know what the latest is on that
+> what is with the mug oh yeah yeah I need I have to check pretty much slash mug- I don't know what the latest is on that

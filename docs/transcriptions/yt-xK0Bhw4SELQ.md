@@ -16,8 +16,8 @@ https://www.youtube.com/watch?v=xK0Bhw4SELQ
 
 ### Transcript
 
-> imagine if hannah just popped in chat and responded she does that sometimes it scares me you look like honorary canadians with your flannel i'll take that as a compliment yes now all we need is a bag of milk a bag of milk good old canada they they drink milk and bags in the u.s too right do they not no i don't think so i'm pretty sure
+> imagine if hannah just popped in chat and responded she does that sometimes it scares me you look like honorary canadians with your flannel I'll take that as a compliment yes now all we need is a bag of milk a bag of milk good old canada they they drink milk and bags in the u.s too right do they not no I don't think so I'm pretty sure
 >
 > [Music]
 >
-> i'm pretty sure they don't yeah
+> I'm pretty sure they don't yeah

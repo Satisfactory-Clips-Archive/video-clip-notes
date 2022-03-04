@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=q9vl3IKPFWI
 
 ### Transcript
 
-> will you be adding collisions to drones eventually i don't know radar tower change
+> will you be adding collisions to drones eventually I don't know radar tower change

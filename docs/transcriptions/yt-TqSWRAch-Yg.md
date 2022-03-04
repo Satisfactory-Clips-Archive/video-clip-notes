@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=TqSWRAch-Yg
 
 ### Transcript
 
-> someone's gonna have doggo burgers tonight yeah it's gonna be good i can't wait to get me some of that legit duncan burger boy it's pronounced boy you guys if you didn't know say with me it would be very tender exactly
+> someone's gonna have doggo burgers tonight yeah it's gonna be good I can't wait to get me some of that legit duncan burger boy it's pronounced boy you guys if you didn't know say with me it would be very tender exactly

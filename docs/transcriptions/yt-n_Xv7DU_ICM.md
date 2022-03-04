@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=n_Xv7DU_ICM
 
 ### Transcript
 
-> dinner plans this is the real question matt is present for sure, i might be getting burgers today i haven't had burgers i have to stream for a while now actually, i kind of broke my streak for a while but it is coming back
+> dinner plans this is the real question matt is present for sure, I might be getting burgers today I haven't had burgers I have to stream for a while now actually, I kind of broke my streak for a while but it is coming back

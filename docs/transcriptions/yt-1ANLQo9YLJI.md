@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=1ANLQo9YLJI
 
 ### Transcript
 
-> so yeah are doors being planned i don't know honestly they don't tell me nothing
+> so yeah are doors being planned I don't know honestly they don't tell me nothing

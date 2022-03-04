@@ -19,7 +19,7 @@ https://youtube.com/clip/Ugxc2QWKgGz3eJShU2N4AaABCQ
 > yeah okay so that's a bunch of like
 world changes that are coming some people have asked can we
 please get like a kind of like map so we can see
-what's kind of being worked on and what's being changed and i've prepared a
+what's kind of being worked on and what's being changed and I've prepared a
 couple maps for you actually so the first map that we're gonna look
 at is this first map here and this map here is actually just a map of just
 the changes that are coming in Update 5 So you can see that the Northern
@@ -31,5 +31,5 @@ mild to significant foliage changes In this case like in the Northern Forest
 foliage changes are significant but you can take care of those with chainsaws
 for example with a minor landscape polish
 unlikely to impact your factory So those are the changes that are
-coming in Update 5 now i have another map for you which is actually
+coming in Update 5 now I have another map for you which is actually
 sort of our roadmap for map changes

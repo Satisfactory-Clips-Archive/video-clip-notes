@@ -21,4 +21,4 @@ https://www.youtube.com/watch?v=35jxkNZh7mA
 
 ### Transcript
 
-> i feel like this is probably the decision before so i apologize repeat question but is there a possibility of altering the terrain in certain circumstances for example is there a way to make tunnels no so you can't really deform the terrain that's not really a thing that's possible now and i don't really see if that's going to be a thing in the future
+> I feel like this is probably the decision before so I apologize repeat question but is there a possibility of altering the terrain in certain circumstances for example is there a way to make tunnels no so you can't really deform the terrain that's not really a thing that's possible now and I don't really see if that's going to be a thing in the future

@@ -16,4 +16,4 @@ This question was possibly replaced with a more recent answer: [October 27th, 20
 
 ### Transcript
 
-> release date this month or next month the release date is supposed to be end of this month so i'm not sure when next month it's going to be
+> release date this month or next month the release date is supposed to be end of this month so I'm not sure when next month it's going to be

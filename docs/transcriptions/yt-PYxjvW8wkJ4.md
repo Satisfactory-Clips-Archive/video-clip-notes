@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=PYxjvW8wkJ4
 
 ### Transcript
 
-> and yeah like i said before there might be some changes to main recipes, but we're mostly looking into changing all recipes, in general throughout the the update for, recipe changes
+> and yeah like I said before there might be some changes to main recipes, but we're mostly looking into changing all recipes, in general throughout the the update for, recipe changes

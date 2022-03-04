@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=gTrZzs13bbA
 
 ### Transcript
 
-> i would love smaller ceiling factory lights so this same thing same deal there please i'll put that in the qra site to let us know i have seen a lot of people request that but it doesn't it doesn't count if i've seen it the other people at cops yeah we just we just we just stream and make youtube videos and post memes on twitter
+> I would love smaller ceiling factory lights so this same thing same deal there please I'll put that in the qra site to let us know I have seen a lot of people request that but it doesn't it doesn't count if I've seen it the other people at cops yeah we just we just we just stream and make youtube videos and post memes on twitter

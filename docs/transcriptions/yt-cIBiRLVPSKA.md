@@ -90,7 +90,7 @@ https://www.youtube.com/watch?v=cIBiRLVPSKA
 
 ### Transcript
 
-> i'm still ahead by a lot
+> I'm still ahead by a lot
 >
 > [Music]
 >
@@ -98,8 +98,8 @@ https://www.youtube.com/watch?v=cIBiRLVPSKA
 >
 > [Music]
 >
-> that reaction is actually a completely real reaction that was the only good shot i had all day that was like an actual legit pogies i wasn't even acting
+> that reaction is actually a completely real reaction that was the only good shot I had all day that was like an actual legit pogies I wasn't even acting
 >
 > [Music]
 >
-> and nobody believed it or i certainly didn't believe it you can tell from
+> and nobody believed it or I certainly didn't believe it you can tell from

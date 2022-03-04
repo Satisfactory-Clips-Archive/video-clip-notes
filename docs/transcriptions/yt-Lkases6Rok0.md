@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=Lkases6Rok0
 
 ### Transcript
 
-> no cyber truck in space you mean cyber wagon maybe if you if you i mean i've said it shoot off into space
+> no cyber truck in space you mean cyber wagon maybe if you if you I mean I've said it shoot off into space

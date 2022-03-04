@@ -18,7 +18,7 @@ https://youtube.com/embed/MxvGbCCc6DI?autoplay=1&start=542&end=612
 
 ### Transcript
 
-> now i have another map for you which is actually
+> now I have another map for you which is actually
 sort of our roadmap for map changes between now and 1.0 we don't have a time
 frame on these necessarily but we do know that there are no more map changes
 apart from the Update 5 changes coming this year so any other map changes will
@@ -34,7 +34,7 @@ anything there at the moment try and move it out it's probably a good move and t
 that's pretty much final and we're pretty much happy with how that looks
 no major landscape or foliage updates planned for those areas and then of course after
 Update 5 comes out the Northern Forest and Dune Desert,
-as i said before, would go green they would be considered final as well
+as I said before, would go green they would be considered final as well
 you know maybe only some minor polish in the future so
 you know as you can see the vast majority of the map after Update 5
 is going to be in you know a pretty final state which is pretty, pretty exciting now there's a very obvious concern that people

@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=N1LAv4gX8sQ
 
 ### Transcript
 
-> getting update what's for dinner tonight oh i'm supposed to cook i need pizza sounds good but it sounds like a really round off last week i'm cooking 100 yeah i don't know what i'm getting today because i ate such a late lunch we'll see we'll see maybe i'll just eat work yeah it's pretty good i had it for breakfast yeah sounds like a wedding
+> getting update what's for dinner tonight oh I'm supposed to cook I need pizza sounds good but it sounds like a really round off last week I'm cooking 100 yeah I don't know what I'm getting today because I ate such a late lunch we'll see we'll see maybe I'll just eat work yeah it's pretty good I had it for breakfast yeah sounds like a wedding

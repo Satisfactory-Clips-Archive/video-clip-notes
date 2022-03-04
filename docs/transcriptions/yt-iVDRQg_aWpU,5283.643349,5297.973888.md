@@ -14,4 +14,4 @@ https://youtube.com/clip/UgkxUi1xQN_qYqOEtj_K0Q24Bdnx02iM9jRI
 
 ### Transcript
 
-> why does the ea version already have a new logo does it maybe it does i might might actually have a new logo but we might change it again yeah it might yeah it's probably just like we changed the assets on the stores yeah
+> why does the ea version already have a new logo does it maybe it does I might might actually have a new logo but we might change it again yeah it might yeah it's probably just like we changed the assets on the stores yeah

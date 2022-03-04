@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=h6RWjpfFpqg
 
 ### Transcript
 
-> yeah or something jace can you square a circle maybe if i watch a number five video because isn't there a video that they show you how to do that or something yeah square circle yeah i think it's a math sounds like a lot of a lot of work i don't feel like it yeah that's true a lot of elbow work
+> yeah or something jace can you square a circle maybe if I watch a number five video because isn't there a video that they show you how to do that or something yeah square circle yeah I think it's a math sounds like a lot of a lot of work I don't feel like it yeah that's true a lot of elbow work

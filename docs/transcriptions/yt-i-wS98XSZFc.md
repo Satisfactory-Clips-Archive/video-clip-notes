@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=i-wS98XSZFc
 
 ### Transcript
 
-> i don't think people realize how much data you get from your ea release yeah i guess so i mean we yeah we get a lot there's so much we learned from ea it's been really helpful
+> I don't think people realize how much data you get from your ea release yeah I guess so I mean we yeah we get a lot there's so much we learned from ea it's been really helpful

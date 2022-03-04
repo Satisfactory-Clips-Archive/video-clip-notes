@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=HtAZQN9T8so
 
 ### Transcript
 
-> is it easy to be on time without snit well see the thing is so snoot when when snoot's here like well not here but when when we stream together he's the one who normally, you know starts the stream and is in control of the stream you know what i mean so i'm not gonna say it's all his fault but since since i've been right driving this ship since i've been piloting the ship i feel like i've been on time just just put it out there okay
+> is it easy to be on time without snit well see the thing is so snoot when when snoot's here like well not here but when when we stream together he's the one who normally, you know starts the stream and is in control of the stream you know what I mean so I'm not gonna say it's all his fault but since since I've been right driving this ship since I've been piloting the ship I feel like I've been on time just just put it out there okay

@@ -20,4 +20,4 @@ https://www.youtube.com/watch?v=v2-4y3n9dBw
 
 ### Transcript
 
-> are they going to be hot foundations maybe maybe they might be in the future maybe they won't i actually don't know
+> are they going to be hot foundations maybe maybe they might be in the future maybe they won't I actually don't know

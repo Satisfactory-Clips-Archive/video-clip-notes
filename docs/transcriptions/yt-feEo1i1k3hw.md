@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=feEo1i1k3hw
 
 ### Transcript
 
-> willows is gold flags people want wheelers for anything if we eventually cut willows it's going to be a willow's mod and everyone's just going to be building willows everywhere which i'm all for
+> willows is gold flags people want wheelers for anything if we eventually cut willows it's going to be a willow's mod and everyone's just going to be building willows everywhere which I'm all for

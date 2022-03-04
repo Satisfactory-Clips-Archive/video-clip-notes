@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=hrwqrs89c4s
 
 ### Transcript
 
-> fingers crossed 24 7 servers for the game that's so important, i guess so they're they're they're again i think we're going to be choosing some like, you know like this renting vendors so you can like rent a server so you can have yours 24 7 or you can run it yourself, yeah pretty much i think yeah yeah i don't know exactly i don't know what it's gonna be like but we'll find out when we get there we're across we'll burn that bridge when we get there yeah yeah
+> fingers crossed 24 7 servers for the game that's so important, I guess so they're they're they're again I think we're going to be choosing some like, you know like this renting vendors so you can like rent a server so you can have yours 24 7 or you can run it yourself, yeah pretty much I think yeah yeah I don't know exactly I don't know what it's gonna be like but we'll find out when we get there we're across we'll burn that bridge when we get there yeah yeah

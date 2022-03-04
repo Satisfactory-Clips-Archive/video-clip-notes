@@ -88,4 +88,4 @@ https://www.youtube.com/watch?v=kgYHTAd18Pc
 
 ### Transcript
 
-> oh the color gone that wasn't in the snow oh by the way it's so good yeah color gun more like color gone yeah that was that was an in the moment thing i was like with this will work proud of that one
+> oh the color gone that wasn't in the snow oh by the way it's so good yeah color gun more like color gone yeah that was that was an in the moment thing I was like with this will work proud of that one

@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=7Gq_HUiPDUY
 
 ### Transcript
 
-> well the guys just you guys know i mean if if you really really really miss fixmas i mean there is a way technically you can still like but you get you gotta learn how to time travel that's the only problem and it's highly illegal yeah it's highly legal actually space police will come after you
+> well the guys just you guys know I mean if if you really really really miss fixmas I mean there is a way technically you can still like but you get you gotta learn how to time travel that's the only problem and it's highly illegal yeah it's highly legal actually space police will come after you

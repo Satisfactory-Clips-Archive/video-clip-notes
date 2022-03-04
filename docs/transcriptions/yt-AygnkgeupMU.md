@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=AygnkgeupMU
 
 ### Transcript
 
-> somebody asked if there's going to be a chainsaw someday in the merch store yo that's kind of hardcore that's pretty cool can we get a deal with like what's, what's the typical chainsaw brand like yamaha probably makes chainsaws can we get a deal with them to make the official satisfactory chainsaw oh my god i'll be pretty sweet steal all right yep let's get a partnership going let's make it nobelisk in the merge store yeah there might be issues around that no police oh my god yeah you get the, you can get the nobles but not the detonator
+> somebody asked if there's going to be a chainsaw someday in the merch store yo that's kind of hardcore that's pretty cool can we get a deal with like what's, what's the typical chainsaw brand like yamaha probably makes chainsaws can we get a deal with them to make the official satisfactory chainsaw oh my god I'll be pretty sweet steal all right yep let's get a partnership going let's make it nobelisk in the merge store yeah there might be issues around that no police oh my god yeah you get the, you can get the nobles but not the detonator

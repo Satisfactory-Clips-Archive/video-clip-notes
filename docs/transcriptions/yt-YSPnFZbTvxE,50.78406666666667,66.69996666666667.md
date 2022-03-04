@@ -16,4 +16,4 @@ https://youtube.com/clip/UgkxojZRykZSjVwFQRFxWcuEdMegFjJAnbeN
 
 ### Transcript
 
-> belly so this lizzie dog is actually not being made by us and it's not being sold on our merch store so i'll give you a little bit of a backstory here this all started when dave from heroic replicas approached us and asked us if he could make licensed a licensed xenobasher replica as well as some other things that he could then sell to the public so if you don't know heroic replicas makes
+> belly so this lizzie dog is actually not being made by us and it's not being sold on our merch store so I'll give you a little bit of a backstory here this all started when dave from heroic replicas approached us and asked us if he could make licensed a licensed xenobasher replica as well as some other things that he could then sell to the public so if you don't know heroic replicas makes

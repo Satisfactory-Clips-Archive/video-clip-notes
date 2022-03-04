@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=g9Co4BT8rGU
 
 ### Transcript
 
-> it's a big fan of dora i assume i've never seen a single episode of door in my life, honestly apparently i acted out dora like reasonably well, i just i just i watched a lot of blues clues that's the thing when i was a kid i was i was drawing from blue's clues and when i say kid i mean like a teenager i was watching blue blue's clues so i i i drew from inspiration from that
+> it's a big fan of dora I assume I've never seen a single episode of door in my life, honestly apparently I acted out dora like reasonably well, I just I just I watched a lot of blues clues that's the thing when I was a kid I was I was drawing from blue's clues and when I say kid I mean like a teenager I was watching blue blue's clues so- I drew from inspiration from that

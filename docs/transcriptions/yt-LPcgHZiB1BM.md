@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=LPcgHZiB1BM
 
 ### Transcript
 
-> how do you feel about people playing the game first time with version 1.0 about your hype it's going to be interesting for sure, but again like i think the story is going to be kind of sidelined with the rest of the game so i don't think, i think you're going to get a very similar experience regardless if you've played it before or the first time
+> how do you feel about people playing the game first time with version 1.0 about your hype it's going to be interesting for sure, but again like I think the story is going to be kind of sidelined with the rest of the game so I don't think, I think you're going to get a very similar experience regardless if you've played it before or the first time

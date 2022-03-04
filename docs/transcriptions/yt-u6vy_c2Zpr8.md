@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=u6vy_c2Zpr8
 
 ### Transcript
 
-> canadian bacon isn't bacon it's just ham ham i don't even remember where that's from anymore that's the kid yeah yeah the little kid yeah and he's like i guess they got like mad at that he got into like a little fight or something with another kid he was like but they're arguing about ham sandwiches or something like that yeah like something about sandwich
+> canadian bacon isn't bacon it's just ham ham I don't even remember where that's from anymore that's the kid yeah yeah the little kid yeah and he's like I guess they got like mad at that he got into like a little fight or something with another kid he was like but they're arguing about ham sandwiches or something like that yeah like something about sandwich

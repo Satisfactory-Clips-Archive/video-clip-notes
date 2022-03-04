@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=OYXRpqM4Eec
 
 ### Transcript
 
-> been waiting for the crab boss for so long yeah yeah we were intentionally like originally that was gonna be in update three and i got pushed a little bit
+> been waiting for the crab boss for so long yeah yeah we were intentionally like originally that was gonna be in update three and I got pushed a little bit

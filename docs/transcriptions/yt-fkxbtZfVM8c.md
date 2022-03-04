@@ -18,4 +18,4 @@ This question was possibly replaced with a more recent answer: [January 15th, 20
 
 ### Transcript
 
-> will there be a new type of processing material like steam in update for, it could be happening oh gibbs is hosting host host well thanks for the host kibbits love you man was what was it sorry i i come it's so hard when kibitz just comes into your life you can't you get distracted man, where was that question oh right if there's gonna be like any other we're moving and grooving here with the questions y'all, this, if there's gonna be new like steam, possible i don't know because they don't tell me, so maybe i don't know
+> will there be a new type of processing material like steam in update for, it could be happening oh gibbs is hosting host host well thanks for the host kibbits love you man was what was it sorry- I come it's so hard when kibitz just comes into your life you can't you get distracted man, where was that question oh right if there's gonna be like any other we're moving and grooving here with the questions y'all, this, if there's gonna be new like steam, possible I don't know because they don't tell me, so maybe I don't know

@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [March 30th, 20
 
 ### Transcript
 
-> are there any things you wanted to add to the game had to cancel if so are there any ideas you want to resurrect your newsletter i don't know if there's anything we wanted but couldn't do i think a lot of the things that's a weird yeah i guess it is right but it's kind of well i can't think of anything that we were like, it's a shame we can't do that and we'll never be able to do it
+> are there any things you wanted to add to the game had to cancel if so are there any ideas you want to resurrect your newsletter I don't know if there's anything we wanted but couldn't do I think a lot of the things that's a weird yeah I guess it is right but it's kind of well I can't think of anything that we were like, it's a shame we can't do that and we'll never be able to do it

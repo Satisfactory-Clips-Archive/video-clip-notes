@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=FGSWvdPw8Uk
 
 ### Transcript
 
-> well signs be in the awesome shop i don't know so don't fully i don't know i have no idea actually yeah actually i don't know either we have we have confirmed that we're gonna add science to some at some point in the game so i'll be in it'll be somewhere so if that was, like trying to leak something we've already confirmed it, it's also in the video that jay's put out last week youtube.com studios slash youtube.net.com
+> well signs be in the awesome shop I don't know so don't fully I don't know I have no idea actually yeah actually I don't know either we have we have confirmed that we're gonna add science to some at some point in the game so I'll be in it'll be somewhere so if that was, like trying to leak something we've already confirmed it, it's also in the video that jay's put out last week youtube.com studios slash youtube.net.com

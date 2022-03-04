@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=Q2qZphshIXc
 
 ### Transcript
 
-> snood varley j strep yeah what's your name my name is snitch marley i'm donny combo breaker
+> snood varley j strep yeah what's your name my name is snitch marley I'm donny combo breaker

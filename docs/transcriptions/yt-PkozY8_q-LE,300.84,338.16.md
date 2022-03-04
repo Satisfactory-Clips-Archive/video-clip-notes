@@ -14,4 +14,4 @@ https://youtube.com/embed/PkozY8_q-LE?autoplay=1&start=300&end=339
 
 ### Transcript
 
-> I try to upload my art everywhere, so everyone will see.. but.. no one ever does. My main social media is Instagram. What I upload is also my personal style, so it doesn't really look like the art in the game i guess. But, yeah Even though i have my own styles, i also can jump into other ones, but... it's not my favorite thing. Yes..? Now it sounds like a hate my job. If i was to choose whatever i could draw, it would be like this costume drama hats and stuff. So if you wanna check that out, please do! And, what hardware do you use?
+> I try to upload my art everywhere, so everyone will see.. but.. no one ever does. My main social media is Instagram. What I upload is also my personal style, so it doesn't really look like the art in the game I guess. But, yeah Even though I have my own styles, I also can jump into other ones, but... it's not my favorite thing. Yes..? Now it sounds like a hate my job. If I was to choose whatever I could draw, it would be like this costume drama hats and stuff. So if you wanna check that out, please do! And, what hardware do you use?

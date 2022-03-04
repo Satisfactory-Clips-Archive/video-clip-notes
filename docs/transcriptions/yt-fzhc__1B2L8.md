@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=fzhc__1B2L8
 
 ### Transcript
 
-> will elizabeth go after the golf caddy when golf gets implemented that's a good question that's that's pretty clever actually that's pretty good got to put a little golfer hat on it as well yeah yeah i wonder how much good advice you'll get from the doggo though i don't know oh wow we're at 940 on golf oh really at the goal you guys nearly there gotta make sure to end the stream before it gets there
+> will elizabeth go after the golf caddy when golf gets implemented that's a good question that's that's pretty clever actually that's pretty good got to put a little golfer hat on it as well yeah yeah I wonder how much good advice you'll get from the doggo though I don't know oh wow we're at 940 on golf oh really at the goal you guys nearly there gotta make sure to end the stream before it gets there

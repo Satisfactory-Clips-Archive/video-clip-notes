@@ -26,4 +26,4 @@ https://www.youtube.com/watch?v=B6jTKTB_WmE
 
 ### Transcript
 
-> will there be rounded round foundations i don't know i have no idea i'll put that on the keyway side of the usa
+> will there be rounded round foundations I don't know I have no idea I'll put that on the keyway side of the usa

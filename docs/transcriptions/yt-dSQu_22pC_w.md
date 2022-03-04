@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=dSQu_22pC_w
 
 ### Transcript
 
-> no i don't live in a fox see i live in fox zero so it's specifically i live everywhere that isn't a fog
+> no I don't live in a fox see I live in fox zero so it's specifically I live everywhere that isn't a fog

@@ -20,4 +20,4 @@ This question was possibly duplicated with a more recent answer: [December 14th,
 
 ### Transcript
 
-> do you guys consider releasing a dev kit for third-party map builders, yeah that's gonna be mod support essentially i think we won't release tools anything like that but we'll release like a way so people can make tools for it
+> do you guys consider releasing a dev kit for third-party map builders, yeah that's gonna be mod support essentially I think we won't release tools anything like that but we'll release like a way so people can make tools for it

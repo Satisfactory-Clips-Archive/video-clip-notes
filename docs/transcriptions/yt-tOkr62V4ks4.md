@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=tOkr62V4ks4
 
 ### Transcript
 
-> okay so what what can be zooped i think i had a freeze frame on this actually it was walls foundations ramps, pillars i think i think beams
+> okay so what what can be zooped I think I had a freeze frame on this actually it was walls foundations ramps, pillars I think I think beams
 >
 > [Music]
 >

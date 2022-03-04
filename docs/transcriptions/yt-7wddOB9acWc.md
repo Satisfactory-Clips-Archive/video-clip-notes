@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=7wddOB9acWc
 
 ### Transcript
 
-> what's the worst thing about update five worst thing i don't know probably that it's not out yet you know still a lot of work left that kind of sucks it'd be nice if it was just done right if you could just make the update be done that would be really nice
+> what's the worst thing about update five worst thing I don't know probably that it's not out yet you know still a lot of work left that kind of sucks it'd be nice if it was just done right if you could just make the update be done that would be really nice

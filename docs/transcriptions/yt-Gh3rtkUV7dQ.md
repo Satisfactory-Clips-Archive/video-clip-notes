@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=Gh3rtkUV7dQ
 
 ### Transcript
 
-> jace can you fix my lack of forward planning yo i am not the person who can help you there my dude i'm not the one who's gonna help you there you don't want my help you don't want my wisdom i'm gonna send you backwards that's for sure that's for sure
+> jace can you fix my lack of forward planning yo I am not the person who can help you there my dude I'm not the one who's gonna help you there you don't want my help you don't want my wisdom I'm gonna send you backwards that's for sure that's for sure

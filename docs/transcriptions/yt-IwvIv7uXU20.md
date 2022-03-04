@@ -18,8 +18,8 @@ https://www.youtube.com/watch?v=IwvIv7uXU20
 
 ### Transcript
 
-> pretty cool and the oh look at that the, i can't remember sorry i just love switches i think we reacted to the same thing i love seeing like golf sucks in the middle of nothing we want golfers again then you should have voted for it yeah you should have voted for it
+> pretty cool and the oh look at that the, I can't remember sorry I just love switches I think we reacted to the same thing I love seeing like golf sucks in the middle of nothing we want golfers again then you should have voted for it yeah you should have voted for it
 >
 > [Music]
 >
-> i didn't see a single vote you had your chance you had your chance exactly
+> I didn't see a single vote you had your chance you had your chance exactly

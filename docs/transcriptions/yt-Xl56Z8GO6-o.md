@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [November 2nd, 
 
 ### Transcript
 
-> when giant crab i don't know man i don't know i'm looking forward to giant crab as well we've been hyping giant crab since since before the game was out i can't wait to get the giant crab out
+> when giant crab I don't know man I don't know I'm looking forward to giant crab as well we've been hyping giant crab since since before the game was out I can't wait to get the giant crab out

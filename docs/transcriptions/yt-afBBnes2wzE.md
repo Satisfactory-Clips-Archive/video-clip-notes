@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=afBBnes2wzE
 
 ### Transcript
 
-> all right how can i change the language to pirate is pirate not in can you just change that it should be in yeah i think it's i think it's there as an option right now simulator yeah because you didn't the debug stuff was only like it's a quick switch right that didn't have anything to do with the language the thing we showed off yeah yeah i'm pretty sure
+> all right how can I change the language to pirate is pirate not in can you just change that it should be in yeah I think it's I think it's there as an option right now simulator yeah because you didn't the debug stuff was only like it's a quick switch right that didn't have anything to do with the language the thing we showed off yeah yeah I'm pretty sure

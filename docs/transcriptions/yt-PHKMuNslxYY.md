@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=PHKMuNslxYY
 
 ### Transcript
 
-> should ask hannah burger yeah yeah maybe i should ask kinda burger but maybe i also like that no one knows i think that's i think that's kind of fun i think it's kind of fun
+> should ask hannah burger yeah yeah maybe I should ask kinda burger but maybe I also like that no one knows I think that's I think that's kind of fun I think it's kind of fun

@@ -20,4 +20,4 @@ https://www.youtube.com/watch?v=sAE9XVl-jHA
 
 ### Transcript
 
-> change this little rail placement i don't think so i think it's the same same system yeah i think it's the same system
+> change this little rail placement I don't think so I think it's the same same system yeah I think it's the same system

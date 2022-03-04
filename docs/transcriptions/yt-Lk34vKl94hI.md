@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=Lk34vKl94hI
 
 ### Transcript
 
-> can we get a drink on the fridge in the base is there a fridge in the base what say what is there a fridge i didn't even know that i haven't seen that
+> can we get a drink on the fridge in the base is there a fridge in the base what say what is there a fridge I didn't even know that I haven't seen that

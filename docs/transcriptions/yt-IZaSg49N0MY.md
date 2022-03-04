@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=IZaSg49N0MY
 
 ### Transcript
 
-> what was the thing i want to say chase read my mind quick, yeah i know i i just remember the meme somebody posted in the discord about like somebody was like checking out a tutorial on like the the signals inside in factorio and it's like an hour long video it's like the basics of signals in factorio and they're like the basics like yeah yeah like signals are tricky and they're complicated but they're kind of fun to figure out i had a lot of fun figuring out how that works
+> what was the thing I want to say chase read my mind quick, yeah I know- I just remember the meme somebody posted in the discord about like somebody was like checking out a tutorial on like the the signals inside in factorio and it's like an hour long video it's like the basics of signals in factorio and they're like the basics like yeah yeah like signals are tricky and they're complicated but they're kind of fun to figure out I had a lot of fun figuring out how that works

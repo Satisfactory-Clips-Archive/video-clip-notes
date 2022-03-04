@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=Cgy1m7GQvXc
 
 ### Transcript
 
-> what was the first reaction of factorio devs wube i guess that's how you pronounce it when they store your jaw be satisfactory yeah i think they said some nice things and that we're looking forward to it to seeing it
+> what was the first reaction of factorio devs wube I guess that's how you pronounce it when they store your jaw be satisfactory yeah I think they said some nice things and that we're looking forward to it to seeing it

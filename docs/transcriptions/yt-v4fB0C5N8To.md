@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=v4fB0C5N8To
 
 ### Transcript
 
-> i write satisfactory fanfiction that's amazing cold smoke damn ship it direct direct all your work to, hannah on twitter
+> I write satisfactory fanfiction that's amazing cold smoke damn ship it direct direct all your work to, hannah on twitter

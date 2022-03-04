@@ -19,4 +19,4 @@ https://www.youtube.com/watch?v=n1D2PCqQArI
 >
 > [Music]
 >
-> the zooping maintain the direction of the original piece yeah i think so i don't think it flips them around no as usual
+> the zooping maintain the direction of the original piece yeah I think so I don't think it flips them around no as usual

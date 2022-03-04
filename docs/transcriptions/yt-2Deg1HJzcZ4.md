@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [January 18th, 
 
 ### Transcript
 
-> bring back beardless snoot i don't think i've ever been beardless ever in any capacity i've had shorter when you had yeah long hair no i i no no i haven't been clean-shaven in like since i was 18 or something dog i don't look good without a beard it looks like i'm three years old same nice
+> bring back beardless snoot I don't think I've ever been beardless ever in any capacity I've had shorter when you had yeah long hair no- I no no I haven't been clean-shaven in like since I was 18 or something dog I don't look good without a beard it looks like I'm three years old same nice

@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=ESOzJtKUlUg
 
 ### Transcript
 
-> fix this is fun if you're gonna let it run again without changes that would be great yeah maybe we can reuse the same stuff as before yeah i mean who knows maybe he has a sorry as a worst case scenario if we reused what we had last year and then maybe only just put a couple tiny small things in maybe that maybe that's better than nothing right but yeah yeah we'll have to sort of see
+> fix this is fun if you're gonna let it run again without changes that would be great yeah maybe we can reuse the same stuff as before yeah I mean who knows maybe he has a sorry as a worst case scenario if we reused what we had last year and then maybe only just put a couple tiny small things in maybe that maybe that's better than nothing right but yeah yeah we'll have to sort of see

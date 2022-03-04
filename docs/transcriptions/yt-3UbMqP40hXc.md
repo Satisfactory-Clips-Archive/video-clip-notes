@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=3UbMqP40hXc
 
 ### Transcript
 
-> do men get parental leave yes they do get pregnant yes men and women get equal parental leave in sweden babies deserve to have parents do they though they do i guess prove it parents deserve to have time to raise their child to raise child
+> do men get parental leave yes they do get pregnant yes men and women get equal parental leave in sweden babies deserve to have parents do they though they do I guess prove it parents deserve to have time to raise their child to raise child

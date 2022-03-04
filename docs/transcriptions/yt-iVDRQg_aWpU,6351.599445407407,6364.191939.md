@@ -14,4 +14,4 @@ https://youtube.com/clip/UgkxUaxvzFsg6XMHW0COJTNjJH8PmL_jDDO8
 
 ### Transcript
 
-> yeah what state am i from i was born in sydney sydney australia yep i grew up in sydney and i also grew up in brisbane i spent half my childhood in either of each of those places
+> yeah what state am I from I was born in sydney sydney australia yep I grew up in sydney and I also grew up in brisbane I spent half my childhood in either of each of those places

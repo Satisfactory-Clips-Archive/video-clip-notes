@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=Y9m96T9a5qU
 
 ### Transcript
 
-> yeah will we be getting more walls and other building stuff in vanilla yeah we're going to be adding more stuff in the future i just don't win
+> yeah will we be getting more walls and other building stuff in vanilla yeah we're going to be adding more stuff in the future I just don't win

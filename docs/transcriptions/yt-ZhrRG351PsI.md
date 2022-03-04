@@ -24,6 +24,6 @@ This question was possibly duplicated with a more recent answer: [November 10th,
 >
 > [Laughter]
 >
-> cool story many other we have like five dutch people now like you, ross natalie hannah and ben ben we have five yeah yeah we're getting another one in august i'm just collecting like a pokemon just becoming dutch yeah why are we moving when are we moving to [ __ ] netherlands yeah i'm i'm i'm down we'll be nice and i can get a dutch citizenship as well and i'm just gonna like collect like jace is like a [ __ ] pokemon trainer just like i gotta get my citizenship badge this is the next
+> cool story many other we have like five dutch people now like you, ross natalie hannah and ben ben we have five yeah yeah we're getting another one in august I'm just collecting like a pokemon just becoming dutch yeah why are we moving when are we moving to [ __ ] netherlands yeah I'm I'm I'm down we'll be nice and I can get a dutch citizenship as well and I'm just gonna like collect like jace is like a [ __ ] pokemon trainer just like I gotta get my citizenship badge this is the next
 >
 > [Music]

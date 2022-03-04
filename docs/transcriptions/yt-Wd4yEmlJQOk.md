@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=Wd4yEmlJQOk
 
 ### Transcript
 
-> can you ask jace when his fellow fresh delivery arrives ah that's such a good comment oh so good i will i will call him right now no i won't actually maybe sleeping
+> can you ask jace when his fellow fresh delivery arrives ah that's such a good comment oh so good I will I will call him right now no I won't actually maybe sleeping

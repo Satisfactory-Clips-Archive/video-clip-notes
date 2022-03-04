@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [February 15th,
 
 ### Transcript
 
-> toilet dlc when i know exactly right these are the hard-hitting questions
+> toilet dlc when I know exactly right these are the hard-hitting questions

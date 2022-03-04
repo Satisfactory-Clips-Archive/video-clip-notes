@@ -25,4 +25,4 @@ https://www.youtube.com/watch?v=4Dgn9kWGN48
 
 ### Transcript
 
-> space elevator has a resourcing for six specific items after all the stages i don't know what the plan is for that currently
+> space elevator has a resourcing for six specific items after all the stages I don't know what the plan is for that currently

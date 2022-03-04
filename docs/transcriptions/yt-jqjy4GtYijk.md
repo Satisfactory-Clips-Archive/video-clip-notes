@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=jqjy4GtYijk
 
 ### Transcript
 
-> can we get foundations for sharper angles, yeah maybe in the future, i'll put that on the keyway side
+> can we get foundations for sharper angles, yeah maybe in the future, I'll put that on the keyway side

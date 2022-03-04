@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=kMRu9njOTE0
 
 ### Transcript
 
-> any more destructible elements planned i'd like to explore more things in obelisk that would be cool i i don't know though but that would be really cool because right now it's just the big rocks right basically
+> any more destructible elements planned I'd like to explore more things in obelisk that would be cool- I don't know though but that would be really cool because right now it's just the big rocks right basically

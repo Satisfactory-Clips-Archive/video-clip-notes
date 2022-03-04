@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [November 30th,
 
 ### Transcript
 
-> will there be story, i think i feel like i've talked about story like four times in this stream already yes there will be story
+> will there be story, I think I feel like I've talked about story like four times in this stream already yes there will be story

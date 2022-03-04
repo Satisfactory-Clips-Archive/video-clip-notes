@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [October 12th, 
 
 ### Transcript
 
-> tier 9 any plan i don't know i actually don't know i will say that, adding stuff to satisfactory doesn't mean that we add more tears right we can we can add more to the current tiers okay you guys so yeah
+> tier 9 any plan I don't know I actually don't know I will say that, adding stuff to satisfactory doesn't mean that we add more tears right we can we can add more to the current tiers okay you guys so yeah

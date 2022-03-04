@@ -16,4 +16,4 @@ This question was possibly replaced with a more recent answer: September 28th, 2
 
 ### Transcript
 
-> can you do a reactivity to josh's videos, well the thing is yeah yeah kinda i mean we sort of just watch them and enjoy them in our own time i was thinking about it when that dropped but then like yeah too late now but then why why only josh why not everyone yeah why josh and why not anyone else you know it's not it's not it's not super fair you know yeah
+> can you do a reactivity to josh's videos, well the thing is yeah yeah kinda I mean we sort of just watch them and enjoy them in our own time I was thinking about it when that dropped but then like yeah too late now but then why why only josh why not everyone yeah why josh and why not anyone else you know it's not it's not it's not super fair you know yeah

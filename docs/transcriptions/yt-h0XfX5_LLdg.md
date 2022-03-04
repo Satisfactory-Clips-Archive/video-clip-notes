@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=h0XfX5_LLdg
 
 ### Transcript
 
-> pizza's always the answer see but the thing is i might have pizza tomorrow tomorrow oh yeah tomorrow tomorrow i'm gonna have pizza sure
+> pizza's always the answer see but the thing is I might have pizza tomorrow tomorrow oh yeah tomorrow tomorrow I'm gonna have pizza sure

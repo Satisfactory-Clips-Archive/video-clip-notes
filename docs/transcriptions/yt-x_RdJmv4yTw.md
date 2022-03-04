@@ -20,4 +20,4 @@ https://www.youtube.com/watch?v=x_RdJmv4yTw
 
 ### Transcript
 
-> what kind of fuel i answered this last time it's whatever you want i'll never tell could be something alien too like who knows
+> what kind of fuel I answered this last time it's whatever you want I'll never tell could be something alien too like who knows

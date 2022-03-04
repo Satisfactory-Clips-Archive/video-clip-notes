@@ -16,8 +16,8 @@ This question was possibly duplicated with a more recent answer: [December 14th,
 
 ### Transcript
 
-> how's the mug cup going along, i i i
+> how's the mug cup going along, I- I
 >
 > [Music]
 >
-> i'm in those meetings but i jace is much better at like keeping track of that stuff, i i think there's i'm not gonna say anything because i actually don't know what's going on, like i don't know fully, right now but we are working on that stuff both for eu and us i believe
+> I'm in those meetings but I jace is much better at like keeping track of that stuff, I think there's I'm not gonna say anything because I actually don't know what's going on, like I don't know fully, right now but we are working on that stuff both for eu and us I believe

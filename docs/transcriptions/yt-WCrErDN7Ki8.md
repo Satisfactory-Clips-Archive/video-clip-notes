@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=WCrErDN7Ki8
 
 ### Transcript
 
-> people people people no it does not beat the power yeah that's true that was one thing we actually were considering when we made the zip line was like do we require the wires to be powered for it to work or should we just like and i think we just found out that it was annoying to use them when there were no power
+> people people people no it does not beat the power yeah that's true that was one thing we actually were considering when we made the zip line was like do we require the wires to be powered for it to work or should we just like and I think we just found out that it was annoying to use them when there were no power

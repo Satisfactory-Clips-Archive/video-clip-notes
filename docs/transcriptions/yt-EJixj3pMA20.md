@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=EJixj3pMA20
 
 ### Transcript
 
-> part of it for some reason yeah on the other side you see some of my tattoos so i'm okay look you're gonna see you can see a bit of this one right where you're right here this one this one tough docking maneuver this one okay
+> part of it for some reason yeah on the other side you see some of my tattoos so I'm okay look you're gonna see you can see a bit of this one right where you're right here this one this one tough docking maneuver this one okay

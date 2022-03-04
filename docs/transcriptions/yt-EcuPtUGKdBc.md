@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=EcuPtUGKdBc
 
 ### Transcript
 
-> i like the mark plus mod any plan to make it in vanilla no not that i know of
+> I like the mark plus mod any plan to make it in vanilla no not that I know of

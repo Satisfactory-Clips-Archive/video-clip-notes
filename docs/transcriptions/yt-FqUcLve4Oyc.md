@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [November 23rd,
 
 ### Transcript
 
-> all right i think i fixed the figure well gift trees continue to produce i'm actually not sure, again, no you can test you can test this yeah you can test it but i don't think they will produce oh maybe they do since the i don't know maybe they won't that i'm actually not sure about if somebody could try that right now and let us know no they will not all right i'll i'm gonna update on the faq on the discord
+> all right I think I fixed the figure well gift trees continue to produce I'm actually not sure, again, no you can test you can test this yeah you can test it but I don't think they will produce oh maybe they do since the I don't know maybe they won't that I'm actually not sure about if somebody could try that right now and let us know no they will not all right I'll I'm gonna update on the faq on the discord

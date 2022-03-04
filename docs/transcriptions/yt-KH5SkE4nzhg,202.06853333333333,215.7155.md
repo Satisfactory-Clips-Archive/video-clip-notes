@@ -16,4 +16,4 @@ https://youtube.com/embed/KH5SkE4nzhg?autoplay=1&start=202&end=216
 
 ### Transcript
 
-> line, so batteries will have its own spot now in progression and will have some very unique use cases as well it will also require the the new building that i alluded to before so batteries are going to get a bit of a bit of a change so there are a couple small other things
+> line, so batteries will have its own spot now in progression and will have some very unique use cases as well it will also require the the new building that I alluded to before so batteries are going to get a bit of a bit of a change so there are a couple small other things

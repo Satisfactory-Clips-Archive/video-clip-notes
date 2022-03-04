@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=05iOdJucZzs
 
 ### Transcript
 
-> bags do exist in the u.s but it's not as common oh no i'm so sorry to hear that
+> bags do exist in the u.s but it's not as common oh no I'm so sorry to hear that

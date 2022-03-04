@@ -22,4 +22,4 @@ https://www.youtube.com/watch?v=nmIwxwjWDp4
 
 ### Transcript
 
-> any plans in the future for new machines to make power probably i feel like we'd probably end up adding some some other power machine but i don't know what the plans are no me neither
+> any plans in the future for new machines to make power probably I feel like we'd probably end up adding some some other power machine but I don't know what the plans are no me neither

@@ -16,7 +16,7 @@ This question was possibly duplicated with a more recent answer: [February 8th, 
 
 ### Transcript
 
-> is it gonna be creative mode, yeah at some point i believe so, we don't know when because i think creative mode will happen the thing the reason why we don't have creative mode yet is because there's still stuff that we're working out or balancing with the game we're still not like 100 happy with the balancing of the game so we're still like really collecting feedback from people and we think that adding a creative mode would like kind of disrupt that a bit
+> is it gonna be creative mode, yeah at some point I believe so, we don't know when because I think creative mode will happen the thing the reason why we don't have creative mode yet is because there's still stuff that we're working out or balancing with the game we're still not like 100 happy with the balancing of the game so we're still like really collecting feedback from people and we think that adding a creative mode would like kind of disrupt that a bit
 >
 > [Music]
 >

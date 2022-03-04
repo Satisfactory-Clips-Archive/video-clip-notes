@@ -18,8 +18,8 @@ https://www.youtube.com/watch?v=P56ynLYzkug
 
 ### Transcript
 
-> how old are you guys i'm 22. how are you you're 12 17. 17. i'm barely legal baby what the no wait 18. for the work for the work industry you mean yeah to be working is what you meant let's move on
+> how old are you guys I'm 22. how are you you're 12 17. 17. I'm barely legal baby what the no wait 18. for the work for the work industry you mean yeah to be working is what you meant let's move on
 >
 > [Laughter]
 >
-> oh god dear god i'm like panicking looking for a question right now
+> oh god dear god I'm like panicking looking for a question right now

@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=Iy6dI3IHApI
 
 ### Transcript
 
-> dinner plans dinner plans i don't know burger i don't know i'm not sure i might might do pizza i'm not sure i'll have to see i'm leaning towards it though because i don't think hello fresh is coming for another three hours so that's right i haven't seen hellofresh today bummer it's not a real stream you can yeah move that from your bringing card
+> dinner plans dinner plans I don't know burger I don't know I'm not sure I might might do pizza I'm not sure I'll have to see I'm leaning towards it though because I don't think hello fresh is coming for another three hours so that's right I haven't seen hellofresh today bummer it's not a real stream you can yeah move that from your bringing card

@@ -20,4 +20,4 @@ This question was possibly duplicated with a more recent answer: October 26th, 2
 
 ### Transcript
 
-> no we're not gonna do anything efficient with that, dedicated servers update we are working on them fortunately that's not a really good update or anything, i really hope we can get them out before update four which is this year at some point, it's been forever we kind of always also thought we were gonna have dedicated service update three which we didn't, but yeah hopefully very soon when three years time yeah got a delay man gotta delay everything
+> no we're not gonna do anything efficient with that, dedicated servers update we are working on them fortunately that's not a really good update or anything, I really hope we can get them out before update four which is this year at some point, it's been forever we kind of always also thought we were gonna have dedicated service update three which we didn't, but yeah hopefully very soon when three years time yeah got a delay man gotta delay everything

@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=5R_kTzpUoy4
 
 ### Transcript
 
-> hey snoot and jace can you change the inputs on out, and outputs on the refinery to match the packager please, neither nor i can do that no, but if you would like that to happen qa site questions on satisfactorygame.com make put the suggestion there i think people have actually made that suggestion before or i do remember people talking about the outputs on the refineries not being what they wanted it to be or something, that's the best way to do it so if you want to go there qaside questions satisfactorygame.com
+> hey snoot and jace can you change the inputs on out, and outputs on the refinery to match the packager please, neither nor I can do that no, but if you would like that to happen qa site questions on satisfactorygame.com make put the suggestion there I think people have actually made that suggestion before or I do remember people talking about the outputs on the refineries not being what they wanted it to be or something, that's the best way to do it so if you want to go there qaside questions satisfactorygame.com

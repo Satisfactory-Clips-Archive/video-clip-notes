@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=pEVKagBHXRA
 
 ### Transcript
 
-> fix random floating plants and rocks again well maybe i could fix that maybe i could do it i should do oh yo i should do a stream where all i do is fix floating plants and rocks i i just fly around looking for them and people can tell me where they are and i'll fix them myself and then you'll it is not an efficient way to do it but it would be and then you'll you'll stream like you making the commit on perforce and then you see hannah like rejecting it yeah just rolling it back immediately yeah exactly
+> fix random floating plants and rocks again well maybe I could fix that maybe I could do it I should do oh yo I should do a stream where all I do is fix floating plants and rocks- I just fly around looking for them and people can tell me where they are and I'll fix them myself and then you'll it is not an efficient way to do it but it would be and then you'll you'll stream like you making the commit on perforce and then you see hannah like rejecting it yeah just rolling it back immediately yeah exactly

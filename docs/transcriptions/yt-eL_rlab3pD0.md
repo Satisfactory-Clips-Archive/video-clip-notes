@@ -23,7 +23,7 @@ https://www.youtube.com/watch?v=eL_rlab3pD0
 
 ### Transcript
 
-> official coffee when, that's not something we've actually tried to do i there's a lot of youtubers that do like their own coffee brand yeah i don't know what's up with that yeah we'll see we'll chuck it on the pile me and jace have a bigger one though
+> official coffee when, that's not something we've actually tried to do I there's a lot of youtubers that do like their own coffee brand yeah I don't know what's up with that yeah we'll see we'll chuck it on the pile me and jace have a bigger one though
 >
 > [Music]
 >

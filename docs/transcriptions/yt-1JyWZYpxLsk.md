@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=1JyWZYpxLsk
 
 ### Transcript
 
-> train collisions soon far away near far wherever you are jesus has become the new pavarotti i just i don't know if you guys know this yeah all right, let's kick it off hopefully everything sounds tasty on that's so good though oh that's amazing
+> train collisions soon far away near far wherever you are jesus has become the new pavarotti I just I don't know if you guys know this yeah all right, let's kick it off hopefully everything sounds tasty on that's so good though oh that's amazing

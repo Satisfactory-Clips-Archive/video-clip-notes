@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=Q73LO7UV_l4
 
 ### Transcript
 
-> satisfactory, will turbo motors be used more in the update, not in this update, i don't know maybe in the later ones but, yeah the shitty answer to that question not none of this update i guess it's the the tldr or the the one key thing to get away from that answer
+> satisfactory, will turbo motors be used more in the update, not in this update, I don't know maybe in the later ones but, yeah the shitty answer to that question not none of this update I guess it's the the tldr or the the one key thing to get away from that answer

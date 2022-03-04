@@ -20,4 +20,4 @@ https://www.youtube.com/watch?v=9g3cWpNsCDE
 
 ### Transcript
 
-> jason trolls that they live under the bridge you know what i haven't said it yet but i would live under that bridge i would live there
+> jason trolls that they live under the bridge you know what I haven't said it yet but I would live under that bridge I would live there

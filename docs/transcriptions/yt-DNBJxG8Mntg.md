@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=DNBJxG8Mntg
 
 ### Transcript
 
-> not current is better i mean i'm glad to hear that i'm glad that the current area is better i mean the current but yeah again best we had at the time yeah
+> not current is better I mean I'm glad to hear that I'm glad that the current area is better I mean the current but yeah again best we had at the time yeah

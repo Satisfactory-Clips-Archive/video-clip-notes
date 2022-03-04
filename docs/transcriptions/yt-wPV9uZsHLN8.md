@@ -35,4 +35,4 @@ https://www.youtube.com/watch?v=wPV9uZsHLN8
 
 ### Transcript
 
-> oh so i'm glad we could take this on a friday after a full week of, engine merges yeah good times my brain my brain my brain shader eric yeah i like the snoot that just sounds like a weird parameter that i probably mistyped doesn't it spline start and pop this is why syntax highlighting helps i feel like that's just supposed to be endpoints yes i would like to retry that compilation because i'm an idiot thank you
+> oh so I'm glad we could take this on a friday after a full week of, engine merges yeah good times my brain my brain my brain shader eric yeah I like the snoot that just sounds like a weird parameter that I probably mistyped doesn't it spline start and pop this is why syntax highlighting helps I feel like that's just supposed to be endpoints yes I would like to retry that compilation because I'm an idiot thank you

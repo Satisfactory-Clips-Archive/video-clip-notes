@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=UBj-gw_Jv_8
 
 ### Transcript
 
-> did i paint the dog over myself yeah i did, actually i'm surprised you spotted that that was a, painting most people think that that was like a real life photo very photo realistic depiction of, what petting a lizard was like you've got a really good eye called toby really good eye
+> did I paint the dog over myself yeah I did, actually I'm surprised you spotted that that was a, painting most people think that that was like a real life photo very photo realistic depiction of, what petting a lizard was like you've got a really good eye called toby really good eye

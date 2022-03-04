@@ -24,4 +24,4 @@ This question was possibly replaced with a more recent answer: [March 23rd, 2021
 
 ### Transcript
 
-> pretty fun any plans to add a levitate option with jetpacks that's been, highly pretty highly requested, again i would, make the suggestion on our qa site i think that's correct yeah, but i think it's already been suggested so try and find it on there first and then upload that as opposed to remaking a duplicate post yes slam that heart upvote button real good yep
+> pretty fun any plans to add a levitate option with jetpacks that's been, highly pretty highly requested, again I would, make the suggestion on our qa site I think that's correct yeah, but I think it's already been suggested so try and find it on there first and then upload that as opposed to remaking a duplicate post yes slam that heart upvote button real good yep

@@ -24,4 +24,4 @@ This question was possibly duplicated with a more recent answer: [March 2nd, 202
 
 ### Transcript
 
-> site will update for change and existing old recipes i think some things change yes didn't i think it didn't change old recipes yeah i don't i think mark said wait let me i'm going to dig up the response maybe not old recipes then yeah okay
+> site will update for change and existing old recipes I think some things change yes didn't I think it didn't change old recipes yeah I don't I think mark said wait let me I'm going to dig up the response maybe not old recipes then yeah okay

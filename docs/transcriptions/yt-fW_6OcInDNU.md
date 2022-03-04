@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=fW_6OcInDNU
 
 ### Transcript
 
-> tier 8 is missing inflated pocket dimension that's for the mam i believe i'm pretty sure we moved most of those to ma'am
+> tier 8 is missing inflated pocket dimension that's for the mam I believe I'm pretty sure we moved most of those to ma'am

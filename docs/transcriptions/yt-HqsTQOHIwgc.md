@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=HqsTQOHIwgc
 
 ### Transcript
 
-> well completing the game would be hard oh sorry al i'll just will completing the game be harder or easier than the golden cup i have no idea but i think it will i don't know actually i don't actually guess yeah i don't know i don't know we don't know yet we're still working on like that that part of the game so to speak so we don't know
+> well completing the game would be hard oh sorry al I'll just will completing the game be harder or easier than the golden cup I have no idea but I think it will I don't know actually I don't actually guess yeah I don't know I don't know we don't know yet we're still working on like that that part of the game so to speak so we don't know

@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=tnGG0nyqFZE
 
 ### Transcript
 
-> our somebody else asked if, like trains are gonna like completely stop before a signal or if there's a chance like if they're coming down a hill if they're gonna like slide i'm pretty sure that we have the same logic as with the, train station so like yeah so trains will do a hard stop if when they're approaching signals or we'll try to at least but i'm also not 100 sure this is yeah in from what i've seen they they break in time and yeah don't overshoot
+> our somebody else asked if, like trains are gonna like completely stop before a signal or if there's a chance like if they're coming down a hill if they're gonna like slide I'm pretty sure that we have the same logic as with the, train station so like yeah so trains will do a hard stop if when they're approaching signals or we'll try to at least but I'm also not 100 sure this is yeah in from what I've seen they they break in time and yeah don't overshoot

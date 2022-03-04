@@ -35,4 +35,4 @@ https://www.youtube.com/watch?v=V5iNAIlEA38
 
 ### Transcript
 
-> so what i'm doing right now is i'm also collecting some some biomass this is something that you need for the biometric generators, and the reason why i'm doing this is because of the is because we kind of need some biomass generators to like jump start the coal generators but after that they're going to be fully automated
+> so what I'm doing right now is I'm also collecting some some biomass this is something that you need for the biometric generators, and the reason why I'm doing this is because of the is because we kind of need some biomass generators to like jump start the coal generators but after that they're going to be fully automated

@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=W_czo-nZ4hw
 
 ### Transcript
 
-> will there be other bosses i'm not sure if i didn't know i wouldn't be able to say so
+> will there be other bosses I'm not sure if I didn't know I wouldn't be able to say so

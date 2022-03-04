@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=hNMDQdKTEQM
 
 ### Transcript
 
-> solid oh [ __ ] oh [ __ ] jace is back [ __ ] yeah i know she just no it's awk come up [ __ ] jayce is back yeah [ __ ] jason i'm back vamanos vamanos
+> solid oh [ __ ] oh [ __ ] jace is back [ __ ] yeah I know she just no it's awk come up [ __ ] jayce is back yeah [ __ ] jason I'm back vamanos vamanos

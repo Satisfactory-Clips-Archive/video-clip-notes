@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [November 2nd, 
 
 ### Transcript
 
-> will there be dlc after 1.0 i don't know no idea we didn't even know when 1.0 is
+> will there be dlc after 1.0 I don't know no idea we didn't even know when 1.0 is

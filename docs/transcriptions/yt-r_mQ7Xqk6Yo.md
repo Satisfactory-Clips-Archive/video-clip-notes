@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=r_mQ7Xqk6Yo
 
 ### Transcript
 
-> lines is, do the power lines need to be powered to be able to use them and jace knows to answer that question they sure do yes is that true yeah yeah i remember correctly yes they do they do yeah
+> lines is, do the power lines need to be powered to be able to use them and jace knows to answer that question they sure do yes is that true yeah yeah I remember correctly yes they do they do yeah

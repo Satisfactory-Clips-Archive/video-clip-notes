@@ -24,4 +24,4 @@ https://www.youtube.com/watch?v=XOclHeWo2Mk
 
 ### Transcript
 
-> oh hold the phone okay i gave some misinformation before word on the street is you can delete nodes from vehicle recording really yes wow this changes everything yeah so then you might be like oh then will people shoot we'll figure it out later okay just yeah all the people that rage quit the stream when you said that they will never know yep yeah i got i i got i got bonked by management they were like this is your last you're on thin eyes barley yeah you're large last time filet mignon neon nano trucks nani
+> oh hold the phone okay I gave some misinformation before word on the street is you can delete nodes from vehicle recording really yes wow this changes everything yeah so then you might be like oh then will people shoot we'll figure it out later okay just yeah all the people that rage quit the stream when you said that they will never know yep yeah I got- I got I got bonked by management they were like this is your last you're on thin eyes barley yeah you're large last time filet mignon neon nano trucks nani

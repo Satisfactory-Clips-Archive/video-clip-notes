@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=T3HTo6rKIAI
 
 ### Transcript
 
-> we're making a chill game me goes in the dark caves, well look okay, the factory building part is pretty chill okay most most of the game is pretty chill there's just like an occasional thing that happens in the one i just gotta tackle that you know
+> we're making a chill game me goes in the dark caves, well look okay, the factory building part is pretty chill okay most most of the game is pretty chill there's just like an occasional thing that happens in the one I just gotta tackle that you know

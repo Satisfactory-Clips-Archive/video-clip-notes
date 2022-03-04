@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [November 2nd, 
 
 ### Transcript
 
-> better auto save system, you can't set how long in between the auto save happen, i think we should add a quick save button i think that will help a lot
+> better auto save system, you can't set how long in between the auto save happen, I think we should add a quick save button I think that will help a lot

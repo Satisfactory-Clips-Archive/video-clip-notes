@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=xIfzyBihoI4
 
 ### Transcript
 
-> so yeah, will the engine upgrade affect our windows installation i hope not i'd be a bummer
+> so yeah, will the engine upgrade affect our windows installation I hope not I'd be a bummer

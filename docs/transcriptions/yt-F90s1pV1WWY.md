@@ -16,4 +16,4 @@ This question was possibly replaced with a more recent answer: [February 9th, 20
 
 ### Transcript
 
-> i don't think, you can't find a place to make a cup a cup no i can't find a place to make an enamel cup of the colors that i had that's what i said don't dumb it down like it's just a cup like this is serious no we spent months looking for a place to find a cup no to make the specific cup yeah we want it to be the right cup you guys
+> I don't think, you can't find a place to make a cup a cup no I can't find a place to make an enamel cup of the colors that I had that's what I said don't dumb it down like it's just a cup like this is serious no we spent months looking for a place to find a cup no to make the specific cup yeah we want it to be the right cup you guys

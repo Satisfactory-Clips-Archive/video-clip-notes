@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=3XRZmwYw_EY
 
 ### Transcript
 
-> nice is the nope no i was i was just breathing and when i breathe i say stuff for some reason no sandwiches
+> nice is the nope no I was I was just breathing and when I breathe I say stuff for some reason no sandwiches
 >
 > [Laughter]
 >

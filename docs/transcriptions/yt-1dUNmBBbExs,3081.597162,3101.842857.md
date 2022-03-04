@@ -20,4 +20,4 @@ https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=3081&end=3102
 
 ### Transcript
 
-> so now we see they can see it down here the lights light up so i've set them up so they light up automatically when it's nighttime but you can also have them like turn on whenever you want, so now it's it's a bit lighter and, and a bit more frame rate it's really cool
+> so now we see they can see it down here the lights light up so I've set them up so they light up automatically when it's nighttime but you can also have them like turn on whenever you want, so now it's it's a bit lighter and, and a bit more frame rate it's really cool

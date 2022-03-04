@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=UUOheBkifOY
 
 ### Transcript
 
-> trains change color when docking with stations if the station are different colors really do you mean do they or that's all would that be a feature this is not this is apparently not a question yeah they're saying that that's what happens but how can they change color i don't know how many devs are you
+> trains change color when docking with stations if the station are different colors really do you mean do they or that's all would that be a feature this is not this is apparently not a question yeah they're saying that that's what happens but how can they change color I don't know how many devs are you

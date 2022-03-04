@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=Uof19aszfFc
 
 ### Transcript
 
-> are you gonna reinstate expand gameplay telemetrics, to limit do you see a player slow down choose, we haven't really updated that at all, and it's not much we are collecting right now like gameplay-wise, we only like really collect how far in the game you are and, like at what tier when you reach what tier and, i don't know if we're gonna need more than that at the moment
+> are you gonna reinstate expand gameplay telemetrics, to limit do you see a player slow down choose, we haven't really updated that at all, and it's not much we are collecting right now like gameplay-wise, we only like really collect how far in the game you are and, like at what tier when you reach what tier and, I don't know if we're gonna need more than that at the moment

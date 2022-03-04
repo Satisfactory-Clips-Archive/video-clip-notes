@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=uW98SNWj3zo
 
 ### Transcript
 
-> any big new feature in update five like trains pipeline, guess we're gonna have to wait and see you guys what's coming we are gonna roll out like more announcements for update five in the coming weeks so, starting with this let me start it we have already started but this this friday we're also going to do a little bit of a teaser video with, more things to come and just do one feature at a time i think we did ramp railings and then we're going to do redacted and then we'll do redacted
+> any big new feature in update five like trains pipeline, guess we're gonna have to wait and see you guys what's coming we are gonna roll out like more announcements for update five in the coming weeks so, starting with this let me start it we have already started but this this friday we're also going to do a little bit of a teaser video with, more things to come and just do one feature at a time I think we did ramp railings and then we're going to do redacted and then we'll do redacted

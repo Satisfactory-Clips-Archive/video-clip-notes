@@ -20,4 +20,4 @@ This question was possibly replaced with a more recent answer: [August 3rd, 2021
 
 ### Transcript
 
-> are you still planning underground, bye oh come back come back are you still planning underground biome that worries me, yes kind of well not really i mean, it's kind of hard to answer that question, somewhat it's it's not like decided yet, but there is potential for a underground biome but we haven't decided that yet
+> are you still planning underground, bye oh come back come back are you still planning underground biome that worries me, yes kind of well not really I mean, it's kind of hard to answer that question, somewhat it's it's not like decided yet, but there is potential for a underground biome but we haven't decided that yet

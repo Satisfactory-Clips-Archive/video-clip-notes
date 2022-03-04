@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [January 25th, 
 
 ### Transcript
 
-> is the same or ever going to be useful yes sam or will be useful i had i had someone on facebook say the other day if samoa is not going to be useful why don't you just remove it from the game it's like who's going to tell them maybe because they're going to be useful you're almost there almost there
+> is the same or ever going to be useful yes sam or will be useful I had I had someone on facebook say the other day if samoa is not going to be useful why don't you just remove it from the game it's like who's going to tell them maybe because they're going to be useful you're almost there almost there

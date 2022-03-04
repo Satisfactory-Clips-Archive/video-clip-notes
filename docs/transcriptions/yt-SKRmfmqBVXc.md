@@ -14,8 +14,8 @@ https://www.youtube.com/watch?v=SKRmfmqBVXc
 
 ### Transcript
 
-> i don't know
+> I don't know
 >
 > [Music]
 >
-> do you have more clothes than the ones we see in the videos yes the clothes that i wear underneath that you don't see that's the solid answer that's like look see this is sure you get you get some proper cm points from me over here that answer
+> do you have more clothes than the ones we see in the videos yes the clothes that I wear underneath that you don't see that's the solid answer that's like look see this is sure you get you get some proper cm points from me over here that answer

@@ -20,4 +20,4 @@ https://www.youtube.com/watch?v=u30RKv4VEeI
 
 ### Transcript
 
-> why are glass foundations more optimized than solid foundations, it's because the glass foundations are aren't part of like some light calculation, but they will in the future so they might not be more optimized soon we'll we'll we'll tank your fps oh yeah you better believe it, i think ben also talks about this in the video that's coming this week so stay tuned for that
+> why are glass foundations more optimized than solid foundations, it's because the glass foundations are aren't part of like some light calculation, but they will in the future so they might not be more optimized soon we'll we'll we'll tank your fps oh yeah you better believe it, I think ben also talks about this in the video that's coming this week so stay tuned for that

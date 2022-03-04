@@ -16,4 +16,4 @@ This question was possibly replaced with a more recent answer: [January 15th, 20
 
 ### Transcript
 
-> no i don't think update 4 will not be just a quality of life thing update 4 will be like content proper content i can assure you that, like update 4 might in like update four will probably, contain quantum quantity quality of life stuff jesus christ, but it might also be that we might release some like as we go but no update four will definitely contain you know new content or features you know or stuff in general
+> no I don't think update 4 will not be just a quality of life thing update 4 will be like content proper content I can assure you that, like update 4 might in like update four will probably, contain quantum quantity quality of life stuff jesus christ, but it might also be that we might release some like as we go but no update four will definitely contain you know new content or features you know or stuff in general

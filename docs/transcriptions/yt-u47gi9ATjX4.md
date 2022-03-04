@@ -23,4 +23,4 @@ https://www.youtube.com/watch?v=u47gi9ATjX4
 
 > [Music]
 >
-> will the game be adapted for 21.9 monitors i don't know, if you want that though make sure that you, either upvote existing suggestions or make the suggestion yourself if it's not there on our qa site questions on satisfactorygame.com there you are there you are
+> will the game be adapted for 21.9 monitors I don't know, if you want that though make sure that you, either upvote existing suggestions or make the suggestion yourself if it's not there on our qa site questions on satisfactorygame.com there you are there you are

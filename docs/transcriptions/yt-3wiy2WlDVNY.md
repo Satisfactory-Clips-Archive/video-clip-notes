@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=3wiy2WlDVNY
 
 ### Transcript
 
-> chainsaw melee win i don't think we'll ever add that unfortunately like i think we've we sort of discussed that early on that like geez it's so hardcore maybe we'll change my minds i don't know but yeah it would certainly change the vibe of the game if like you're running around with your chainsaw like something like oh lizzie doggo don't mind if i do just rip off the chainsaw
+> chainsaw melee win I don't think we'll ever add that unfortunately like I think we've we sort of discussed that early on that like geez it's so hardcore maybe we'll change my minds I don't know but yeah it would certainly change the vibe of the game if like you're running around with your chainsaw like something like oh lizzie doggo don't mind if I do just rip off the chainsaw

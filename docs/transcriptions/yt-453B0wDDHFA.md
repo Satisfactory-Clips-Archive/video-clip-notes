@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [August 31st, 2
 
 ### Transcript
 
-> really wondering will you add more decoration options so we don't have to rely on mud so much yeah i think that'll happen at some point it'll be neat i think i think i think just a lot of stuff
+> really wondering will you add more decoration options so we don't have to rely on mud so much yeah I think that'll happen at some point it'll be neat I think I think I think just a lot of stuff

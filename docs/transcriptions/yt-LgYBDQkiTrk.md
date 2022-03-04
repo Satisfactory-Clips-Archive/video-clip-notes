@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [February 22nd,
 
 ### Transcript
 
-> storm or natural disaster included in the game we actually thought about natural disasters in the beginning we even prototyped some but, they're not in the game now i don't know if they're gonna continue to be in the game or not
+> storm or natural disaster included in the game we actually thought about natural disasters in the beginning we even prototyped some but, they're not in the game now I don't know if they're gonna continue to be in the game or not

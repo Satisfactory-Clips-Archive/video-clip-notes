@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=Kq1yKGpbExM
 
 ### Transcript
 
-> you see read out more machines have a purpose was it made to be informational, i mean does it not actually display your efficiency isn't that the purpose
+> you see read out more machines have a purpose was it made to be informational, I mean does it not actually display your efficiency isn't that the purpose

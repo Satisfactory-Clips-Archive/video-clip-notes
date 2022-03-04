@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=aFIv65hCAk0
 
 ### Transcript
 
-> will i be the end boss in the game no it's probably gonna be simon if anyone probably simon he's the terrifying one
+> will I be the end boss in the game no it's probably gonna be simon if anyone probably simon he's the terrifying one

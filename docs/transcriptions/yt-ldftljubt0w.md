@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=ldftljubt0w
 
 ### Transcript
 
-> but the game like two years ago for 30 euros i was not sure it's my type of game but after spending 100 hours of gameplay i wouldn't feel bad spending 60 on satisfactory i'm glad to hear that i'm glad you're enjoying it thank you
+> but the game like two years ago for 30 euros I was not sure it's my type of game but after spending 100 hours of gameplay I wouldn't feel bad spending 60 on satisfactory I'm glad to hear that I'm glad you're enjoying it thank you

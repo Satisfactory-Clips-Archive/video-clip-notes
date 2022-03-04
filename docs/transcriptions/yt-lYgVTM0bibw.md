@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=lYgVTM0bibw
 
 ### Transcript
 
-> what about rare resources like silver and gold yeah i don't know what's if that's gonna be in the game but i don't know
+> what about rare resources like silver and gold yeah I don't know what's if that's gonna be in the game but I don't know

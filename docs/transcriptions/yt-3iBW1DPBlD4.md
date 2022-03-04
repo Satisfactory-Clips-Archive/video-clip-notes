@@ -16,6 +16,6 @@ https://www.youtube.com/watch?v=3iBW1DPBlD4
 
 ### Transcript
 
-> are there any recipes that sure won't change until one point oh probably i'm sure like iron to iron ingots probably won't change but i don't really know, yeah
+> are there any recipes that sure won't change until one point oh probably I'm sure like iron to iron ingots probably won't change but I don't really know, yeah
 >
 > [Music]

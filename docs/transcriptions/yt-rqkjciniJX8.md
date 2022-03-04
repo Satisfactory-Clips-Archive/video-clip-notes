@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=rqkjciniJX8
 
 ### Transcript
 
-> oh oh boy it's here oh hello french why are you oh yeah i can't wait i wonder what jay's got this time you guys oh wait do you think he's gonna make some some some omelettes maybe some juicy risotto more like vomits farmer you have to bring it up
+> oh oh boy it's here oh hello french why are you oh yeah I can't wait I wonder what jay's got this time you guys oh wait do you think he's gonna make some some some omelettes maybe some juicy risotto more like vomits farmer you have to bring it up

@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=8n11usVWIm0
 
 ### Transcript
 
-> probably i love that the the closed caption made soon to juice but whatever, yeah i fixed the closed captions by the way if you if you you guys didn't know that, fixed fixed it's still, it will still say weird things probably yeah yeah, yeah
+> probably I love that the the closed caption made soon to juice but whatever, yeah I fixed the closed captions by the way if you if you you guys didn't know that, fixed fixed it's still, it will still say weird things probably yeah yeah, yeah

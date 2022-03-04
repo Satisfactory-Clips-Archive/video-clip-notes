@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=eDymPpcon4E
 
 ### Transcript
 
-> how many machines will you add i don't know i don't know if we're gonna add more machines
+> how many machines will you add I don't know I don't know if we're gonna add more machines

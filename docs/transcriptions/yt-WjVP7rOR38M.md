@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [August 17th, 2
 
 ### Transcript
 
-> trailer for the trucks i don't think that will happen whatsoever like the trucks is such a mess right now the like vehicles in games in general is so much more like it's so much work
+> trailer for the trucks I don't think that will happen whatsoever like the trucks is such a mess right now the like vehicles in games in general is so much more like it's so much work

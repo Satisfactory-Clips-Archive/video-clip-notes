@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=eFgO1iuPr20
 
 ### Transcript
 
-> are we getting a new gun with the gas update like a freeze gun, i don't think so i don't know actually no i don't think so this is a peaceful game okay
+> are we getting a new gun with the gas update like a freeze gun, I don't think so I don't know actually no I don't think so this is a peaceful game okay

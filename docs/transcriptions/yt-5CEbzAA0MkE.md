@@ -25,4 +25,4 @@ https://www.youtube.com/watch?v=5CEbzAA0MkE
 
 ### Transcript
 
-> buy a mess pick a car i don't know could be cool i'll put them on curiously
+> buy a mess pick a car I don't know could be cool I'll put them on curiously

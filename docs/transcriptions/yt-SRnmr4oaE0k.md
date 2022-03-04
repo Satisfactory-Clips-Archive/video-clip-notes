@@ -18,8 +18,8 @@ This question was possibly replaced with a more recent answer: [March 30th, 2021
 
 ### Transcript
 
-> yeah yeah can you do percentage decimals to get exact part rates, i think i don't want to promise anything but i have we have talked about that
+> yeah yeah can you do percentage decimals to get exact part rates, I think I don't want to promise anything but I have we have talked about that
 >
 > [Music]
 >
-> so it might be a thing that's coming if not i'll put that on the keyway side because i know there's a there's a ticket for that on the on the keyword site, i i remember being in a discussion where we talked about it but i don't know exactly what we decided it would be pretty neat i think
+> so it might be a thing that's coming if not I'll put that on the keyway side because I know there's a there's a ticket for that on the on the keyword site, I remember being in a discussion where we talked about it but I don't know exactly what we decided it would be pretty neat I think

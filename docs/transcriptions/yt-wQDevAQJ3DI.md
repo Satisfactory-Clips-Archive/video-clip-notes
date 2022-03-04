@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=wQDevAQJ3DI
 
 ### Transcript
 
-> global grid would be pretty cool yeah it might be it might be a nice thing i would love a global grid cool global grid yes please all right questions on satisfactorygamebook.com guys put it out there that way the, you know directors designers producers they will see those posts as well you guys so definitely leave your suggestion there it's a good one
+> global grid would be pretty cool yeah it might be it might be a nice thing I would love a global grid cool global grid yes please all right questions on satisfactorygamebook.com guys put it out there that way the, you know directors designers producers they will see those posts as well you guys so definitely leave your suggestion there it's a good one

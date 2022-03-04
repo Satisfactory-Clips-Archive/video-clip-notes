@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=lV97VTEtsWs
 
 ### Transcript
 
-> will you keep directx 12 11 supporting future updates yes because directx 12 is not supported on all, computers so yes a lot of laptops don't support like a lot of intel laptops don't support, directx 12., there's a couple of amd ones as well but they're not like as big of an issue i think as intel ones but it's the same thing there like there are a couple of amd, gpus as well that don't support directx 12. so we can like just have directives but we have to have both
+> will you keep directx 12 11 supporting future updates yes because directx 12 is not supported on all, computers so yes a lot of laptops don't support like a lot of intel laptops don't support, directx 12., there's a couple of amd ones as well but they're not like as big of an issue I think as intel ones but it's the same thing there like there are a couple of amd, gpus as well that don't support directx 12. so we can like just have directives but we have to have both

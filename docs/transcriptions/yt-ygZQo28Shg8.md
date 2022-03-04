@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=ygZQo28Shg8
 
 ### Transcript
 
-> let's see here lol that's not a question but but i like it i like it yeah i love your energy i like your energy
+> let's see here lol that's not a question but but I like it I like it yeah I love your energy I like your energy

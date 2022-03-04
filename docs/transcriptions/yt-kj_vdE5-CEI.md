@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [October 5th, 2
 
 ### Transcript
 
-> any update on merge shipping alternatives, no no update still same we're looking into it but i don't know how far we're into that process honestly
+> any update on merge shipping alternatives, no no update still same we're looking into it but I don't know how far we're into that process honestly

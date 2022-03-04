@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=pkYEJmwJWrg
 
 ### Transcript
 
-> home stop playing the game i see another question on the hotbar can i answer yeah yeah yeah of course so we're working on a thing where you can customize hot bars and where you can basically switch between different hot bars depending on the situation that you're in so you could for example press like shift up or shift down to switch your hotbar but we're we're testing that and we're seeing like how we can do that with taking up without taking up too much input from different things so yes that's nice
+> home stop playing the game I see another question on the hotbar can I answer yeah yeah yeah of course so we're working on a thing where you can customize hot bars and where you can basically switch between different hot bars depending on the situation that you're in so you could for example press like shift up or shift down to switch your hotbar but we're we're testing that and we're seeing like how we can do that with taking up without taking up too much input from different things so yes that's nice

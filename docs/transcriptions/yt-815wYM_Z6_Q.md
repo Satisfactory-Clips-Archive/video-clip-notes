@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=815wYM_Z6_Q
 
 ### Transcript
 
-> what battle royale mode with only noble is detonators i mean people should make it you could probably just make your own little enclosure people throwing obelisks
+> what battle royale mode with only noble is detonators I mean people should make it you could probably just make your own little enclosure people throwing obelisks

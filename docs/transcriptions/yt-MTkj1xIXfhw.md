@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=MTkj1xIXfhw
 
 ### Transcript
 
-> will the dark areas of the map open up soon i'm not sure what you mean by dark areas but if there are areas that are just like perpetually dark that sounds to me like they're probably going to be fixed up just don't go to those dark areas during night please because yeah stay safe yeah i'm not saying like the people that live in those dark areas you know what i'm going with this
+> will the dark areas of the map open up soon I'm not sure what you mean by dark areas but if there are areas that are just like perpetually dark that sounds to me like they're probably going to be fixed up just don't go to those dark areas during night please because yeah stay safe yeah I'm not saying like the people that live in those dark areas you know what I'm going with this

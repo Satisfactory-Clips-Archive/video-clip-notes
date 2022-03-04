@@ -26,4 +26,4 @@ https://www.youtube.com/watch?v=vQlvfDhG01E
 
 ### Transcript
 
-> long ass yeah you have the doggo statue why would you want to get anything else yeah a beanie trophy no i can get behind that yeah my beanie that would be good yeah or if we ever add like cosmetics like hats different helmets and stuff you can wear oh yeah that would be cool huh yeah the jace beanie and the snoot beanie i like that idea i can't find that
+> long ass yeah you have the doggo statue why would you want to get anything else yeah a beanie trophy no I can get behind that yeah my beanie that would be good yeah or if we ever add like cosmetics like hats different helmets and stuff you can wear oh yeah that would be cool huh yeah the jace beanie and the snoot beanie I like that idea I can't find that

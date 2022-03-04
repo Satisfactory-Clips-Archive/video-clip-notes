@@ -28,4 +28,4 @@ This question was possibly replaced with a more recent answer: [August 24th, 202
 
 ### Transcript
 
-> when we have fences for ramps i don't know i don't know hopefully soon
+> when we have fences for ramps I don't know I don't know hopefully soon

@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: October 26th, 2
 
 ### Transcript
 
-> on yeah nice any updates on dedicated servers, no no not right now we're working on multiplayer stuff, and i think you'll see some of the changes we've done to networking in update four for multiplayer that hopefully will make things better but that's like one step towards dedicated servers yep
+> on yeah nice any updates on dedicated servers, no no not right now we're working on multiplayer stuff, and I think you'll see some of the changes we've done to networking in update four for multiplayer that hopefully will make things better but that's like one step towards dedicated servers yep

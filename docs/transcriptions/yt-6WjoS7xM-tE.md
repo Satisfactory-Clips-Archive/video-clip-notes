@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=6WjoS7xM-tE
 
 ### Transcript
 
-> no we have another session of jesus to read the wiki what the wicked yeah i don't think there's anything too weird on the wiki these days
+> no we have another session of jesus to read the wiki what the wicked yeah I don't think there's anything too weird on the wiki these days

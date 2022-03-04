@@ -22,4 +22,4 @@ https://www.youtube.com/watch?v=vaJUG2WcuVA
 
 ### Transcript
 
-> continue to vote save the willows i'm all for this hashtag save the willow situation by the way folks hell yeah all for it all for it i love it
+> continue to vote save the willows I'm all for this hashtag save the willow situation by the way folks hell yeah all for it all for it I love it

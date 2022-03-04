@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=HokduD0IdEY
 
 ### Transcript
 
-> the hype tube wall mounting rotation ever be aligned with the eight by four ramp i don't know dog also don't know but if you wanted to be qa side questions on satisfactorygame.com i'll leave the suggestion there do it
+> the hype tube wall mounting rotation ever be aligned with the eight by four ramp I don't know dog also don't know but if you wanted to be qa side questions on satisfactorygame.com I'll leave the suggestion there do it

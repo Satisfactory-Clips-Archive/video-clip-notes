@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=8mRS8ucA-2Y
 
 ### Transcript
 
-> and then these these like yellow lines are like network like logic network that you can run with the regular power poles and stuff like that and then he tells it to, send it to that destination and then you can see the little thing moving oh that's incredible and it moves through all the sorter and ends up in that it like like it like path finds its way over there yep that's interesting yep and this is a pretty hefty network it's cool yeah yeah there's a lot of splitting stuff going on there yeah so here's an even further seriously yeah what if i hate programming and this is like well first of all i guess you're fired lim
+> and then these these like yellow lines are like network like logic network that you can run with the regular power poles and stuff like that and then he tells it to, send it to that destination and then you can see the little thing moving oh that's incredible and it moves through all the sorter and ends up in that it like like it like path finds its way over there yep that's interesting yep and this is a pretty hefty network it's cool yeah yeah there's a lot of splitting stuff going on there yeah so here's an even further seriously yeah what if I hate programming and this is like well first of all I guess you're fired lim
 >
 > [Laughter]
 >

@@ -21,4 +21,4 @@ https://www.youtube.com/watch?v=cZUm0MioIek
 
 ### Transcript
 
-> are there any plans for new weapons maybe maybe maybe i mean it sort of makes sense that we might do something with them but we'll have to see
+> are there any plans for new weapons maybe maybe maybe I mean it sort of makes sense that we might do something with them but we'll have to see

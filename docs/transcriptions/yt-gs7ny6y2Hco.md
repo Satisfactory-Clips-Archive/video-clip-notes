@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=gs7ny6y2Hco
 >
 > [Music]
 >
-> out of those people like a few of them work on specifically online stuff but, it kind of goes back and forth sometimes it's like one programmer be like i want to fix this because it's i need to fix this multiplayer thing because it's part of the system that i'm working on so then they fix that part and sometimes it's programmers be like i'm doing nothing but fixing multiplayer, so it kind of shifts but there are roughly like a few people always working on nothing but multiplayer stuff all the time
+> out of those people like a few of them work on specifically online stuff but, it kind of goes back and forth sometimes it's like one programmer be like I want to fix this because it's I need to fix this multiplayer thing because it's part of the system that I'm working on so then they fix that part and sometimes it's programmers be like I'm doing nothing but fixing multiplayer, so it kind of shifts but there are roughly like a few people always working on nothing but multiplayer stuff all the time

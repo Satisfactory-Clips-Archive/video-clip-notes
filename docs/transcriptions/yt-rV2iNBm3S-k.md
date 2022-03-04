@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=rV2iNBm3S-k
 
 ### Transcript
 
-> can you make an option to turn the manta off, not nothing we have planned but i'll put that on the q a side if you want to see that
+> can you make an option to turn the manta off, not nothing we have planned but I'll put that on the q a side if you want to see that

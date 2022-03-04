@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=RtaiQPBJVqQ
 
 ### Transcript
 
-> see why can't we access the inventory when in a vehicle, i don't know maybe because of some ux the reason
+> see why can't we access the inventory when in a vehicle, I don't know maybe because of some ux the reason

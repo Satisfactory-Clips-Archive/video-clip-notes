@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=CiUdIN4aPww
 
 ### Transcript
 
-> yeah yeah exactly the editor in me is rock hard by these continuity details yeah they wouldn't get past it they probably would like i think even i would spot that one and be like i can't deal with this popping yeah but it would definitely never have gone past in it it's way too anal for that yeah all right
+> yeah yeah exactly the editor in me is rock hard by these continuity details yeah they wouldn't get past it they probably would like I think even I would spot that one and be like I can't deal with this popping yeah but it would definitely never have gone past in it it's way too anal for that yeah all right

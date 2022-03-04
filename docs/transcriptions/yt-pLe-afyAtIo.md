@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: October 26th, 2
 
 > [Music]
 >
-> do you consider your game as niche or do you believe it will go mainstream i i think it kind of is nation way that factory games always felt kind of niche but at the same time i think this game has so much more, i don't know i i don't know i feel like this game is more accessible than some of the others in my opinion i'm not sure if anyone says that but so maybe it will give me a strength
+> do you consider your game as niche or do you believe it will go mainstream- I think it kind of is nation way that factory games always felt kind of niche but at the same time I think this game has so much more, I don't know- I don't know I feel like this game is more accessible than some of the others in my opinion I'm not sure if anyone says that but so maybe it will give me a strength

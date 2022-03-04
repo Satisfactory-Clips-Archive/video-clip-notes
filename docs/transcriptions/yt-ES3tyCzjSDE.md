@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [February 23rd,
 
 ### Transcript
 
-> chase can we get a beanie, get my beanie as a hat and satisfactory that would be pretty cool i feel like my beanie is kind of iconic not this one right here wait is that a dota b yeah it's a dota 1 i just noticed i don't know if that's narcissistic of me to be like my beanie's iconic but it kind of is i worry a lot except for right now he has got to say like yeah then where is it hmm
+> chase can we get a beanie, get my beanie as a hat and satisfactory that would be pretty cool I feel like my beanie is kind of iconic not this one right here wait is that a dota b yeah it's a dota 1 I just noticed I don't know if that's narcissistic of me to be like my beanie's iconic but it kind of is I worry a lot except for right now he has got to say like yeah then where is it hmm

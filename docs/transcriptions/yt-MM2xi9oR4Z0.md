@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=MM2xi9oR4Z0
 
 ### Transcript
 
-> anything for end game plan besides collecting coupons i'm sure we have some ideas i don't know how far we're gonna go with it, though, i've heard some discussions like what we can do for endgame but i don't know if anything's set in stone so it's possible maybe not we'll see like sort of when we're closing in on one point or we'll see like i guess how we feel
+> anything for end game plan besides collecting coupons I'm sure we have some ideas I don't know how far we're gonna go with it, though, I've heard some discussions like what we can do for endgame but I don't know if anything's set in stone so it's possible maybe not we'll see like sort of when we're closing in on one point or we'll see like I guess how we feel

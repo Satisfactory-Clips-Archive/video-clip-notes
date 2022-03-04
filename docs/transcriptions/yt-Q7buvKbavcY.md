@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=Q7buvKbavcY
 
 ### Transcript
 
-> i'll just mask it out or whatever lollipop we've all done it you never play have you not seen me play on the coffee scene stream all i'm doing is trying scrambling trying to get power back up and running i heard that sound so many times on stream
+> I'll just mask it out or whatever lollipop we've all done it you never play have you not seen me play on the coffee scene stream all I'm doing is trying scrambling trying to get power back up and running I heard that sound so many times on stream

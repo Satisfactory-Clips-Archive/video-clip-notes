@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=6FEEq5JjARw
 
 ### Transcript
 
-> i talked about you should really try not to say, i'm gonna say, even more now, , so, right what was i talking about
+> I talked about you should really try not to say, I'm gonna say, even more now, , so, right what was I talking about
 >
 > [Music]
 >

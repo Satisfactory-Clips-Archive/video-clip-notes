@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=BmgkOw5NWKM
 
 ### Transcript
 
-> appreciate the word we love the music sorry i love the music track for update yeah it was dope it's, made by the same dude who made the music track for update for trailer too actually and he's also making for update five oh spoilers yeah so he's the same
+> appreciate the word we love the music sorry I love the music track for update yeah it was dope it's, made by the same dude who made the music track for update for trailer too actually and he's also making for update five oh spoilers yeah so he's the same

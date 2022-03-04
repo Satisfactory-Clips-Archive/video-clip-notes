@@ -20,4 +20,4 @@ https://www.youtube.com/watch?v=ROw3qnWJwFk
 
 ### Transcript
 
-> it's been done, will the color of the liquid update in regards to what packaging and packages and destroyers are just fancies, i think it will, i haven't seen all the animations yet but, i think it will otherwise it would be weird it feels like blue water coming out of the oil packager i guess
+> it's been done, will the color of the liquid update in regards to what packaging and packages and destroyers are just fancies, I think it will, I haven't seen all the animations yet but, I think it will otherwise it would be weird it feels like blue water coming out of the oil packager I guess

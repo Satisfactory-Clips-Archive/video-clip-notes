@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [October 27th, 
 
 ### Transcript
 
-> a couple people asking about server hosting we're not going to be hosting any servers you can host your own and, and they'll no doubt there'll be some like, server hosting vendors when we do have dedicated servers that will, you know that you can rent service seats from i'm assuming i'm also assuming
+> a couple people asking about server hosting we're not going to be hosting any servers you can host your own and, and they'll no doubt there'll be some like, server hosting vendors when we do have dedicated servers that will, you know that you can rent service seats from I'm assuming I'm also assuming

@@ -16,4 +16,4 @@ This question was possibly replaced with a more recent answer: [February 9th, 20
 
 ### Transcript
 
-> whatever, the cup where can i buy it, it's not released yet where maybe march maybe april is the current guess, and then you can buy it from the, for fans by fan store and who knows if we'll have another store in eu store by then
+> whatever, the cup where can I buy it, it's not released yet where maybe march maybe april is the current guess, and then you can buy it from the, for fans by fan store and who knows if we'll have another store in eu store by then

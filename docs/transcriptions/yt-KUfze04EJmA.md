@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [February 15th,
 
 ### Transcript
 
-> any plans for smart mergers yet i don't know i don't know i don't think so at all
+> any plans for smart mergers yet I don't know I don't know I don't think so at all

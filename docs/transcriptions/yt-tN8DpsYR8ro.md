@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: July 20th, 2021
 
 ### Transcript
 
-> will we get a better royal update no i don't think so unless that's a seasonal thing it could be fun if people like it at the studio
+> will we get a better royal update no I don't think so unless that's a seasonal thing it could be fun if people like it at the studio

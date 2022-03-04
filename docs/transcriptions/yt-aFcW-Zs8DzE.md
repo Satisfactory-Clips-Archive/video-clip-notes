@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=aFcW-Zs8DzE
 
 ### Transcript
 
-> why do you guys speak english so fluently in sweden i'm not swedish well i am swedish now but i'm actually australian so i can speak it well but, snoot's english is unkindly good i mean probably got the best english out of like, everyone in the office in terms of like any of the suites even but i wanted you to be like even better than dylan's well that's good considering that i'm on the internet all the time talking to people i guess
+> why do you guys speak english so fluently in sweden I'm not swedish well I am swedish now but I'm actually australian so I can speak it well but, snoot's english is unkindly good I mean probably got the best english out of like, everyone in the office in terms of like any of the suites even but I wanted you to be like even better than dylan's well that's good considering that I'm on the internet all the time talking to people I guess

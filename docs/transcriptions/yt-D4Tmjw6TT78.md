@@ -37,7 +37,7 @@ https://www.youtube.com/watch?v=D4Tmjw6TT78
 
 ### Transcript
 
-> so cold power cold power you guys yeah all right sorry i can't decide which tool to use whoa what the whoa oh no it's a revenge the planet fights back can you pet this guy no no you can't break that oh boy all right but look at that if we scan again yep here's the, we found the call yeah nice so this is this is where we're gonna place our little thing the miner this icon will get chat you guys are too funny
+> so cold power cold power you guys yeah all right sorry I can't decide which tool to use whoa what the whoa oh no it's a revenge the planet fights back can you pet this guy no no you can't break that oh boy all right but look at that if we scan again yep here's the, we found the call yeah nice so this is this is where we're gonna place our little thing the miner this icon will get chat you guys are too funny
 >
 > [Laughter]
 >

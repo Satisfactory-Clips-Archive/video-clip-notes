@@ -18,7 +18,7 @@ This question was possibly duplicated with a more recent answer: [February 26th,
 
 ### Transcript
 
-> i think i missed the discussion around wanted to be shifted to early access it's been a fairly large delay with the big experimental changes yeah so, you didn't miss it so it's not talked about this before but, basically we're not gonna move, experimental over to early access until update 4 moves to early access so there's not going to be a move from experimental to early access for quite some time and that's just because of
+> I think I missed the discussion around wanted to be shifted to early access it's been a fairly large delay with the big experimental changes yeah so, you didn't miss it so it's not talked about this before but, basically we're not gonna move, experimental over to early access until update 4 moves to early access so there's not going to be a move from experimental to early access for quite some time and that's just because of
 >
 > [Music]
 >

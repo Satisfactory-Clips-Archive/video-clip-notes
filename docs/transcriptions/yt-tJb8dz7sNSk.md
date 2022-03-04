@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=tJb8dz7sNSk
 
 ### Transcript
 
-> what if people keep asking and diagonal walls like i we have diagonal walls what about them i can't answer a question if it's nonsensical
+> what if people keep asking and diagonal walls like I we have diagonal walls what about them I can't answer a question if it's nonsensical

@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=9Dcxqpq1G6k
 
 ### Transcript
 
-> do you love q and a's i kind of yeah actually i kind of do it's a lot of fun
+> do you love q and a's I kind of yeah actually I kind of do it's a lot of fun

@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [December 14th,
 
 ### Transcript
 
-> how many updates until 1.0 we have no idea yeah or i don't at least
+> how many updates until 1.0 we have no idea yeah or I don't at least

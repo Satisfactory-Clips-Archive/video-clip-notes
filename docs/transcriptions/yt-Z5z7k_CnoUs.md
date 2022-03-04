@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=Z5z7k_CnoUs
 
 ### Transcript
 
-> can we get a world cup owned by two people so dedicated servers will sort of allow that i guess like you know your server will always be running and anyone can go in there and play you don't need both of you to be on or whatever the other alternative is, after you finish playing share the save file with your buddy which is kind of lame but that's the only real work around right now so just, get track your save folder, and
+> can we get a world cup owned by two people so dedicated servers will sort of allow that I guess like you know your server will always be running and anyone can go in there and play you don't need both of you to be on or whatever the other alternative is, after you finish playing share the save file with your buddy which is kind of lame but that's the only real work around right now so just, get track your save folder, and

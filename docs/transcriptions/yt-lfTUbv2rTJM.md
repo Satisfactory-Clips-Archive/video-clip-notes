@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=lfTUbv2rTJM
 
 ### Transcript
 
-> love the beard thanks i'm gonna probably shave it soon the way i the way i handle my beard is, i i shave it and i shave it kind of like i trim it i don't shave it completely off but i trim it and then i let it grow and then when i get really annoyed by it i shave it all off again and that's the cycle repeats so yeah
+> love the beard thanks I'm gonna probably shave it soon the way I the way I handle my beard is, I shave it and I shave it kind of like I trim it I don't shave it completely off but I trim it and then I let it grow and then when I get really annoyed by it I shave it all off again and that's the cycle repeats so yeah

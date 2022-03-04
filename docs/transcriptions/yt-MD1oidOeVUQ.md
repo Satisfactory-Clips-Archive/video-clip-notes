@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=MD1oidOeVUQ
 
 ### Transcript
 
-> i said that was unofficial clips channel do you all have a place where you upload the virtual streams, nope we don't do that but there is the unofficial clips channel run by, marv so they're actually here in chat signpost marv yeah you
+> I said that was unofficial clips channel do you all have a place where you upload the virtual streams, nope we don't do that but there is the unofficial clips channel run by, marv so they're actually here in chat signpost marv yeah you

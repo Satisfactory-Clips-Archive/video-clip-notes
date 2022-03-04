@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=A6j0dU1ZGfk
 
 ### Transcript
 
-> someone has been asking if their will will we add early game gases don't know but i think we're going to be adding more gases yeah i'm pretty sure that there are more gases that, if i remember correctly, so yeah maybe yeah because like it feels weird just add one gas and that's it yeah so maybe in the future
+> someone has been asking if their will will we add early game gases don't know but I think we're going to be adding more gases yeah I'm pretty sure that there are more gases that, if I remember correctly, so yeah maybe yeah because like it feels weird just add one gas and that's it yeah so maybe in the future

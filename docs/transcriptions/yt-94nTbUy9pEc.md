@@ -20,4 +20,4 @@ https://www.youtube.com/watch?v=94nTbUy9pEc
 
 ### Transcript
 
-> and he plans to bring into samson fridges oh that would be hot we have we're going to be a kfc console exclusive i think
+> and he plans to bring into samson fridges oh that would be hot we have we're going to be a kfc console exclusive I think

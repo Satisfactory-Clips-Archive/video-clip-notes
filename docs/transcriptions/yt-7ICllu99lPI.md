@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=7ICllu99lPI
 
 ### Transcript
 
-> why is the ui size after updated different than fresh installation, don't no shouldn't have changed as far as i know
+> why is the ui size after updated different than fresh installation, don't no shouldn't have changed as far as I know

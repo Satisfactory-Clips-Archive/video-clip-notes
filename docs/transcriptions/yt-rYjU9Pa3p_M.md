@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [June 1st, 2021
 
 ### Transcript
 
-> pvp ah we don't have any plans for that like we would specifically pvp but like we also don't i don't think we see a point in having multiple respawn points for that sake
+> pvp ah we don't have any plans for that like we would specifically pvp but like we also don't I don't think we see a point in having multiple respawn points for that sake

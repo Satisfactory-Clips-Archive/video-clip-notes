@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=yMK6P7xtCwc
 
 ### Transcript
 
-> what camera are we using we're using a canon m50 i just doxed jace's camera too wow and my address oh yeah there's only two of those on the planet yeah
+> what camera are we using we're using a canon m50 I just doxed jace's camera too wow and my address oh yeah there's only two of those on the planet yeah

@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=NoM9FK-dx6s
 
 ### Transcript
 
-> thing is that no defense turrets before how about tesla towers, i don't know i don't think so oh thanks chet yeah i'm allergic to cecil towers
+> thing is that no defense turrets before how about tesla towers, I don't know I don't think so oh thanks chet yeah I'm allergic to cecil towers

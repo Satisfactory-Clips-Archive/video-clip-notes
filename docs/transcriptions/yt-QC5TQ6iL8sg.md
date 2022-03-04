@@ -20,4 +20,4 @@ This question was possibly duplicated with a more recent answer: [March 9th, 202
 
 ### Transcript
 
-> you played infinite in infinity factory, you think of the footprint metric of construction i haven't played it but jace has played it i believe some people have played it, so yes we have played it
+> you played infinite in infinity factory, you think of the footprint metric of construction I haven't played it but jace has played it I believe some people have played it, so yes we have played it

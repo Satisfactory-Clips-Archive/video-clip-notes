@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=ioPXHnpubzQ
 
 ### Transcript
 
-> will trains collide with toilets no that's the only thing i'll confirm right now all right i said to the team guys we need you know we have to tell people about trains collecting the toilets like no jace we need to keep our secrets and i'm like no this is too far this is where i draw the line okay and then we're like you're the community manager
+> will trains collide with toilets no that's the only thing I'll confirm right now all right I said to the team guys we need you know we have to tell people about trains collecting the toilets like no jace we need to keep our secrets and I'm like no this is too far this is where I draw the line okay and then we're like you're the community manager

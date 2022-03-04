@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [October 19th, 
 
 ### Transcript
 
-> signs signs are gonna happen you guys, i don't know when but they're gonna happen
+> signs signs are gonna happen you guys, I don't know when but they're gonna happen

@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=X-dk6cTGO_g
 
 ### Transcript
 
-> can we ban jace from the qa site i think we could unless the word for the fact that he is admin or some [ __ ] like that but it's fine he's never on that site like jace doesn't give a [ __ ] no i'm kidding maybe uzo can can ban jace from the question site
+> can we ban jace from the qa site I think we could unless the word for the fact that he is admin or some [ __ ] like that but it's fine he's never on that site like jace doesn't give a [ __ ] no I'm kidding maybe uzo can can ban jace from the question site

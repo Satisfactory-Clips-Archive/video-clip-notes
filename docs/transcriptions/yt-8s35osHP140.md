@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [January 18th, 
 
 ### Transcript
 
-> the stern gastrics did did you guys miss this just because i just talked about that at some point we are gonna be able to you're gonna be able to do something with the, , gas rocks in the game
+> the stern gastrics did did you guys miss this just because I just talked about that at some point we are gonna be able to you're gonna be able to do something with the, , gas rocks in the game

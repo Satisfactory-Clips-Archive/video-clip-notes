@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [May 11th, 2021
 
 ### Transcript
 
-> please fix first person vehicles we don't have a first person vehicles so i don't know how we fixed that
+> please fix first person vehicles we don't have a first person vehicles so I don't know how we fixed that

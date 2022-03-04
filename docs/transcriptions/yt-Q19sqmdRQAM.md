@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=Q19sqmdRQAM
 
 ### Transcript
 
-> multi-gpu support, that's a tricky one i don't know what we need to do probably a lot of work to get that working properly there is okay i've talked to a bunch of people about this in community there is a way to get multi gpu like sli working for satisfactory, and it's something that you can set up on your end but i didn't get it to work when i had an sli, and i've heard some people say that they managed to do it but it was a pain in the ass so like maybe there's something we can do on our end but i don't think we're to prioritize that for a while
+> multi-gpu support, that's a tricky one I don't know what we need to do probably a lot of work to get that working properly there is okay I've talked to a bunch of people about this in community there is a way to get multi gpu like sli working for satisfactory, and it's something that you can set up on your end but I didn't get it to work when I had an sli, and I've heard some people say that they managed to do it but it was a pain in the ass so like maybe there's something we can do on our end but I don't think we're to prioritize that for a while

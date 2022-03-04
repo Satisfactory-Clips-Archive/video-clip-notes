@@ -20,4 +20,4 @@ This question was possibly duplicated with a more recent answer: [December 15th,
 
 ### Transcript
 
-> a sanctum and satisfactory in the same universe i don't think so but they might be i've always wanted it to be but i don't know i mean there is a sanctum character in the game yep pretty sure hannah can confirm but i'm 99.9 sure she's gonna she is she is she is there is
+> a sanctum and satisfactory in the same universe I don't think so but they might be I've always wanted it to be but I don't know I mean there is a sanctum character in the game yep pretty sure hannah can confirm but I'm 99.9 sure she's gonna she is she is she is there is

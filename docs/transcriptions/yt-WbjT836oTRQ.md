@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=WbjT836oTRQ
 
 ### Transcript
 
-> glow in the dark patterns oh that's kind of cool that would be actually really cool can you i'll put that in the keyway side
+> glow in the dark patterns oh that's kind of cool that would be actually really cool can you I'll put that in the keyway side

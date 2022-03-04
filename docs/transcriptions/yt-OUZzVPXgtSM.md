@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [February 8th, 
 
 ### Transcript
 
-> plans to add more vehicles i don't think we have plans to add more vehicles i think we have plans to like maybe change about how the vehicles work maybe but i don't know, but i'm pretty sure we don't have any plans for any more vehicles as of now
+> plans to add more vehicles I don't think we have plans to add more vehicles I think we have plans to like maybe change about how the vehicles work maybe but I don't know, but I'm pretty sure we don't have any plans for any more vehicles as of now

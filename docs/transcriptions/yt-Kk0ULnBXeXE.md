@@ -24,4 +24,4 @@ This question was possibly replaced with a more recent answer: [October 27th, 20
 
 ### Transcript
 
-> some new machines in the next update i don't know, i have no idea honestly that's, game director chan mark marchand probably has a better answer for that
+> some new machines in the next update I don't know, I have no idea honestly that's, game director chan mark marchand probably has a better answer for that

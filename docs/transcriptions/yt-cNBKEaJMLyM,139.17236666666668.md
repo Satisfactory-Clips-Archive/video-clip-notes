@@ -18,6 +18,6 @@ https://youtube.com/embed/cNBKEaJMLyM?autoplay=1&start=139
 
 ### Transcript
 
-> family and with that i hope to see you on tuesday for, the update 5 satisfactory experimental launch i am really excited there's still a lot of work to do so i'm going to just get back to that now have a lovely weekend everybody hope to see you there on tuesday take care bye
+> family and with that I hope to see you on tuesday for, the update 5 satisfactory experimental launch I am really excited there's still a lot of work to do so I'm going to just get back to that now have a lovely weekend everybody hope to see you there on tuesday take care bye
 >
 > [Music]

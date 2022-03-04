@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [February 15th,
 
 ### Transcript
 
-> yeah where's the toilet dlc i'm pushing for it we're all waiting for that sweet flush bro it's getting stinking here
+> yeah where's the toilet dlc I'm pushing for it we're all waiting for that sweet flush bro it's getting stinking here

@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=iMiv4fo4p5Q
 
 ### Transcript
 
-> wasn't the vehicle rework meant to be jace's job i'm not i've been a programmer for years dude hey me long time ago in my galaxy far away
+> wasn't the vehicle rework meant to be jace's job I'm not I've been a programmer for years dude hey me long time ago in my galaxy far away

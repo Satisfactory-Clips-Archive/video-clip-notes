@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [January 26th, 
 
 ### Transcript
 
-> who suggested to build factory game, it is it was just, after we wanted to move on from good simulator we made a bunch of different, prototypes and there were a couple people who made vector game all right so i could have sworn the cave was around here somewhere
+> who suggested to build factory game, it is it was just, after we wanted to move on from good simulator we made a bunch of different, prototypes and there were a couple people who made vector game all right so I could have sworn the cave was around here somewhere

@@ -24,4 +24,4 @@ https://www.youtube.com/watch?v=Lem_s04UYBA
 
 ### Transcript
 
-> different platforms as well well jason still be friends with me if i buy it on steam already friends with you smirking with merkin oh is it smirking oh i don't know about that i don't know he's a sketchy dude
+> different platforms as well well jason still be friends with me if I buy it on steam already friends with you smirking with merkin oh is it smirking oh I don't know about that I don't know he's a sketchy dude

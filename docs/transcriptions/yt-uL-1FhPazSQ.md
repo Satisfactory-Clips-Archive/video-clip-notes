@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=uL-1FhPazSQ
 
 ### Transcript
 
-> can you fix the things i i will fix the things tomorrow i'll do it tomorrow i'll just fix things tomorrow you guys i'll just do it tomorrow i'm busy today i'm i'm just gonna go to sleep early tonight i think i'll do it tomorrow
+> can you fix the things- I will fix the things tomorrow I'll do it tomorrow I'll just fix things tomorrow you guys I'll just do it tomorrow I'm busy today I'm I'm just gonna go to sleep early tonight I think I'll do it tomorrow

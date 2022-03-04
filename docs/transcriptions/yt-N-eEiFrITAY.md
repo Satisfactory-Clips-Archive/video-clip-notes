@@ -20,4 +20,4 @@ This question was possibly duplicated with a more recent answer: [November 9th, 
 
 ### Transcript
 
-> well the coffee cup ever spilling game 1 dlc what a specific like feature to add to the game or like dlc to add you want the coffee to spill i buy our dlc for 5 bucks it's more than the game or something how much is the game 29 something like that ah details i guess five bucks is a little bit less than 29 but who cares who keeps track keeps track yeah
+> well the coffee cup ever spilling game 1 dlc what a specific like feature to add to the game or like dlc to add you want the coffee to spill I buy our dlc for 5 bucks it's more than the game or something how much is the game 29 something like that ah details I guess five bucks is a little bit less than 29 but who cares who keeps track keeps track yeah

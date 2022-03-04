@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [April 6th, 202
 
 ### Transcript
 
-> what about wind turbine yeah that's also something that's you know likely or might happen i don't know i don't know the state of these things it's it's we need to get mark, marc chan on the channel so we can explain his reasoning
+> what about wind turbine yeah that's also something that's you know likely or might happen I don't know I don't know the state of these things it's it's we need to get mark, marc chan on the channel so we can explain his reasoning

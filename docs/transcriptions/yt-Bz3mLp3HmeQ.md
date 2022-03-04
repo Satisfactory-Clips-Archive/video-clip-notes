@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [April 20th, 20
 
 ### Transcript
 
-> what's up with pipe manifolds i don't know you tell me
+> what's up with pipe manifolds I don't know you tell me

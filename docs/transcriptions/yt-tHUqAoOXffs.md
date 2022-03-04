@@ -20,4 +20,4 @@ This question was possibly duplicated with a more recent answer: October 26th, 2
 >
 > [Laughter]
 >
->, check the status on that because i actually don't know the status on dedicated servers yeah at all pretty sure it's just, they're working on it yeah but yeah what the expectation and whatnot we'll talk to some people see
+>, check the status on that because I actually don't know the status on dedicated servers yeah at all pretty sure it's just, they're working on it yeah but yeah what the expectation and whatnot we'll talk to some people see

@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=JkzbVXkvxA8
 
 ### Transcript
 
-> automatic load balancer i mean and then what do you what do you do then you're the you're the load balancer i mean there might be some stuff that can can aid with load balancing added in the future i could see that at some point so i guess you're probably talking about like ratio splitting and stuff that might that might be a thing that might be a thing who knows
+> automatic load balancer I mean and then what do you what do you do then you're the you're the load balancer I mean there might be some stuff that can can aid with load balancing added in the future I could see that at some point so I guess you're probably talking about like ratio splitting and stuff that might that might be a thing that might be a thing who knows

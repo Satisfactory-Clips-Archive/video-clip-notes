@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [September 14th
 
 ### Transcript
 
-> will trains get an update yes, i talked about this stream as well there's gonna be an update to trains, more news in the future
+> will trains get an update yes, I talked about this stream as well there's gonna be an update to trains, more news in the future

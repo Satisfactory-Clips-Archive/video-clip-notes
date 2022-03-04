@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [November 2nd, 
 
 ### Transcript
 
-> will we have more monsters, yes i think so i'm pretty sure the the like yeah like we have one more thing that's for sure coming that's the big crab enemy that we have in our trailer, but i think we have more plans for animals i'm not quite sure i think so
+> will we have more monsters, yes I think so I'm pretty sure the the like yeah like we have one more thing that's for sure coming that's the big crab enemy that we have in our trailer, but I think we have more plans for animals I'm not quite sure I think so

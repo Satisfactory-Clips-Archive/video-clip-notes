@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=PPuCGpHIoJg
 
 ### Transcript
 
-> dev stream on belts that would be cool the stream is this hey guys welcome to the stream welcome to satisfactory stream today we're gonna talk about stuff and things and, i hope you enjoyed our stream thanks so much for watching anyway
+> dev stream on belts that would be cool the stream is this hey guys welcome to the stream welcome to satisfactory stream today we're gonna talk about stuff and things and, I hope you enjoyed our stream thanks so much for watching anyway

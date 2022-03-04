@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=9hON4HpgaXU
 
 ### Transcript
 
-> indeed yes, will there be more adjustments to progression most likely i don't think anything really is fixed in stone necessarily so, but if you have any suggestions i suggest going to our qa site questions.satisfactorygame.com and you can leave suggestions or feedback there as well so, our director and everyone else can see it, yeah see your suggestion
+> indeed yes, will there be more adjustments to progression most likely I don't think anything really is fixed in stone necessarily so, but if you have any suggestions I suggest going to our qa site questions.satisfactorygame.com and you can leave suggestions or feedback there as well so, our director and everyone else can see it, yeah see your suggestion

@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=DQukmGvnZbE
 
 ### Transcript
 
-> sounds dope, can we paint lizard doggers in update four i don't think so
+> sounds dope, can we paint lizard doggers in update four I don't think so

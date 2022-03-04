@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=S9MUZeBg2cw
 
 ### Transcript
 
-> yeah yeah does the game run on dos yeah i wish it's actually native to dos it runs on windows emulator right now yeah you have to you have to, it only runs on windows 95 you have to degrade to play this game
+> yeah yeah does the game run on dos yeah I wish it's actually native to dos it runs on windows emulator right now yeah you have to you have to, it only runs on windows 95 you have to degrade to play this game

@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=2kc4K94B3QA
 
 ### Transcript
 
-> can you remove fluid from crate because i destroyed fluid train and got created full of fluid wait really that you're not supposed to be able to do that that's a bug oh boy oh, what's boy please can you please go to our qa site and, report that bug i know someone's gonna be really happy about that who's that dylan he's like i finally fixed it i guess not i haven't seen
+> can you remove fluid from crate because I destroyed fluid train and got created full of fluid wait really that you're not supposed to be able to do that that's a bug oh boy oh, what's boy please can you please go to our qa site and, report that bug I know someone's gonna be really happy about that who's that dylan he's like I finally fixed it I guess not I haven't seen

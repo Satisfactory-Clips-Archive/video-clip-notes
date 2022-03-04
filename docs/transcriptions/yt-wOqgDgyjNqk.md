@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [November 9th, 
 
 ### Transcript
 
-> why do mark 3 and mark 6 belts have weird transfer speeds because you're supposed to, you're supposed to figure it out or whatever like it's supposed to, give you a little bit of a challenge there that's that's the i mean that's the gist of it essentially that that's like the whole thing about the recipes in the game overall it's like you're supposed to get a challenge and like figure out ratios and stuff like that, so yeah that's why
+> why do mark 3 and mark 6 belts have weird transfer speeds because you're supposed to, you're supposed to figure it out or whatever like it's supposed to, give you a little bit of a challenge there that's that's the I mean that's the gist of it essentially that that's like the whole thing about the recipes in the game overall it's like you're supposed to get a challenge and like figure out ratios and stuff like that, so yeah that's why

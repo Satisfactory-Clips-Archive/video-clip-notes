@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=tXsoac1sPx8
 
 ### Transcript
 
-> is satisfactory gonna be in smash anytime soon yo that would be amazing i'd love that but no we we're not in talks with nintendo about smash smash smash
+> is satisfactory gonna be in smash anytime soon yo that would be amazing I'd love that but no we we're not in talks with nintendo about smash smash smash

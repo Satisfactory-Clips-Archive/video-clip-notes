@@ -20,4 +20,4 @@ This question was possibly duplicated with a more recent answer: [February 1st, 
 
 ### Transcript
 
-> will non-floating structures ever be a thing i'm pretty sure no because it would break so much also it would be so performance heavy to like do physics simulation on everything in the game no thank you, so i i i have a hard time saying that's ever gonna be a thing
+> will non-floating structures ever be a thing I'm pretty sure no because it would break so much also it would be so performance heavy to like do physics simulation on everything in the game no thank you, so- I have a hard time saying that's ever gonna be a thing

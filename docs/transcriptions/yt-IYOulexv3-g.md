@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=IYOulexv3-g
 
 ### Transcript
 
-> are you going to add goku to the story yeah of course yeah why not it's a given naturally when i think factories i think i think goku
+> are you going to add goku to the story yeah of course yeah why not it's a given naturally when I think factories I think I think goku

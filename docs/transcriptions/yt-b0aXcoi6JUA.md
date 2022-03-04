@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=b0aXcoi6JUA
 
 ### Transcript
 
-> slug soda is an energy drink i like that that's pretty good slug sodas like you you you choose like do you want to use it for for power shards or do you want to put it in your drink it's got electrolytes
+> slug soda is an energy drink I like that that's pretty good slug sodas like you you you choose like do you want to use it for for power shards or do you want to put it in your drink it's got electrolytes

@@ -24,4 +24,4 @@ https://www.youtube.com/watch?v=HOtX8hK6Lxg
 
 ### Transcript
 
-> is update five bigger than update four that's a really hard question answer you know we get asked that question each time and it's hard to sort of answer if it's gonna be bigger or not, i also don't know if it matters or if it's bigger or not do ever does every update have to be bigger than the one before you know does it have to be
+> is update five bigger than update four that's a really hard question answer you know we get asked that question each time and it's hard to sort of answer if it's gonna be bigger or not, I also don't know if it matters or if it's bigger or not do ever does every update have to be bigger than the one before you know does it have to be

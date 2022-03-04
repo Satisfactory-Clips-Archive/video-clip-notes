@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=fWjnJ3MU1rw
 
 ### Transcript
 
-> why don't you try to make a mod because i got work to do i can barely make the the changes of the game i want to do how the hell am i supposed to have time to do mods
+> why don't you try to make a mod because I got work to do I can barely make the the changes of the game I want to do how the hell am I supposed to have time to do mods

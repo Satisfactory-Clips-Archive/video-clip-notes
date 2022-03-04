@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [September 14th
 
 ### Transcript
 
-> yeah so in the question on whether or not, update5 will change recipes, i don't know yet
+> yeah so in the question on whether or not, update5 will change recipes, I don't know yet

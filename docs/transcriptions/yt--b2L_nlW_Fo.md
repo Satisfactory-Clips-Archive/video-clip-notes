@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [January 25th, 
 
 ### Transcript
 
-> please tell me update4 will use vip or you mean samore no update4 will not use samwar that's like the one thing i know for sure is not gonna be the case
+> please tell me update4 will use vip or you mean samore no update4 will not use samwar that's like the one thing I know for sure is not gonna be the case

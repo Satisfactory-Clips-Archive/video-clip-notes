@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [May 4th, 2021 
 
 ### Transcript
 
-> i'll be waiting for any percent speed runs after 1.0 that would be cool there's some, there's some speed runs already you can go to speedruns.com and look for satisfactory there's some stuff there some categories the no dismantle percentage for instance has a world record i am now the world record holder i don't know how long it took me i guess i can check the save it doesn't count i should do it i'll yeah i'll do it
+> I'll be waiting for any percent speed runs after 1.0 that would be cool there's some, there's some speed runs already you can go to speedruns.com and look for satisfactory there's some stuff there some categories the no dismantle percentage for instance has a world record I am now the world record holder I don't know how long it took me I guess I can check the save it doesn't count I should do it I'll yeah I'll do it

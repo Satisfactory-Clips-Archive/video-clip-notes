@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [February 8th, 
 
 ### Transcript
 
-> any plans of character customization, i think i i don't know what the plans are i'm pretty sure that it's something that we will add at some point, but i just don't know to what degree like i don't know if you could customize everything or just change the color it certainly makes sense like in multiplayer so you could tell like your friends wearing like green or something like that
+> any plans of character customization, I think- I don't know what the plans are I'm pretty sure that it's something that we will add at some point, but I just don't know to what degree like I don't know if you could customize everything or just change the color it certainly makes sense like in multiplayer so you could tell like your friends wearing like green or something like that

@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=lHepxnrYy9s
 
 ### Transcript
 
-> so see css is not like fix it as a company i i don't i don't think they are no one is one is called fix it and one is called coffee stain studious but there's other factors that differentiate the two but
+> so see css is not like fix it as a company- I don't I don't think they are no one is one is called fix it and one is called coffee stain studious but there's other factors that differentiate the two but

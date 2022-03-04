@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=4iUdXfx0v5k
 
 ### Transcript
 
-> circular foundation i think will see fighting being be addressed, i don't know i mean i'm not sure if the team are gonna put time into solving the z fighting or not if we add circle foundations or whatever
+> circular foundation I think will see fighting being be addressed, I don't know I mean I'm not sure if the team are gonna put time into solving the z fighting or not if we add circle foundations or whatever

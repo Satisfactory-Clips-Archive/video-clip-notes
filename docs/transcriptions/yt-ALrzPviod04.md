@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=ALrzPviod04
 
 > [Music]
 >
-> why do drones have jet thrusters when they only consume batteries yo that's the real question i honestly don't know
+> why do drones have jet thrusters when they only consume batteries yo that's the real question I honestly don't know

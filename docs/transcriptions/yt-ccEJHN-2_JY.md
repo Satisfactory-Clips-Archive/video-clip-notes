@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=ccEJHN-2_JY
 
 ### Transcript
 
-> i love it sometimes when when specifically during the the part where torsion were talking like we both like started laughing at some at some point and i'm pretty sure we were like both looking at the same like comments same comment yeah probably i saw someone saying like you guys should smile or whatever yeah i saw that yeah but it's like but we're listening to him and reading chat at the same time it's like
+> I love it sometimes when when specifically during the the part where torsion were talking like we both like started laughing at some at some point and I'm pretty sure we were like both looking at the same like comments same comment yeah probably I saw someone saying like you guys should smile or whatever yeah I saw that yeah but it's like but we're listening to him and reading chat at the same time it's like

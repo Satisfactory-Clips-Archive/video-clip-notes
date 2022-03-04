@@ -16,4 +16,4 @@ This question was possibly replaced with a more recent answer: [August 6th, 2021
 
 ### Transcript
 
-> did we go of the areas were not to build for the moment no not yet so, we'll release, when when i do, when we i will be making a video about the world update, and we will the plan right now i spoke to hannah about it as well the plan right now is that we'll we'll release some sort of some sort of map or like heat map of like where some major changes are and that if you're in these areas you should consider, moving but but we will we'll put out, we'll put out as much information as possible for that soon
+> did we go of the areas were not to build for the moment no not yet so, we'll release, when when I do, when we I will be making a video about the world update, and we will the plan right now I spoke to hannah about it as well the plan right now is that we'll we'll release some sort of some sort of map or like heat map of like where some major changes are and that if you're in these areas you should consider, moving but but we will we'll put out, we'll put out as much information as possible for that soon

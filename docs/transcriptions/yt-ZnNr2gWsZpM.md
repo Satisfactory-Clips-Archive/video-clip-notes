@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=ZnNr2gWsZpM
 
 ### Transcript
 
-> i love the yeah the j oh nice wait is the jace cam flashing or did you just change it no i just tasted it okay i'm just goofing around i'm such a goof you it's so random i'm so random i'll just say a word peanuts [ __ ] millennials this is not the new update what are you guys talking about this is the old one all that's updated i remember this
+> I love the yeah the j oh nice wait is the jace cam flashing or did you just change it no I just tasted it okay I'm just goofing around I'm such a goof you it's so random I'm so random I'll just say a word peanuts [ __ ] millennials this is not the new update what are you guys talking about this is the old one all that's updated I remember this

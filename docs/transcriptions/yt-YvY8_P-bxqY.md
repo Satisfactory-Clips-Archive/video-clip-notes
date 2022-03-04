@@ -22,4 +22,4 @@ https://www.youtube.com/watch?v=YvY8_P-bxqY
 >
 > [Music]
 >
-> we've got trust issues i don't blame you okay like so it's coming no you misunder you misunderstood that's the same picture exactly yeah yeah i mean you can you can miss true misconstrue everything i say anyways but space stuff is not coming you guys
+> we've got trust issues I don't blame you okay like so it's coming no you misunder you misunderstood that's the same picture exactly yeah yeah I mean you can you can miss true misconstrue everything I say anyways but space stuff is not coming you guys

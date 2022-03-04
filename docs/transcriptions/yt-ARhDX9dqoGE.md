@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=ARhDX9dqoGE
 
 ### Transcript
 
-> add name tag on containers so i guess this is kind of like signs a lot of people have been wanting signs and we've said that we want science to so we will add signs to the game eventually so that you can, yeah most people want them on containers and stuff things like that so you can see what's in them or or organize your factory a little better so we'll we'll add signs in the future at some point
+> add name tag on containers so I guess this is kind of like signs a lot of people have been wanting signs and we've said that we want science to so we will add signs to the game eventually so that you can, yeah most people want them on containers and stuff things like that so you can see what's in them or or organize your factory a little better so we'll we'll add signs in the future at some point

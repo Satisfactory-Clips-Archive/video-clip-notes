@@ -20,4 +20,4 @@ This question was possibly duplicated with a more recent answer: [October 19th, 
 
 ### Transcript
 
-> endgame is all about building refineries well yeah endgame right now is all about building refineries there are still like two more tiers, after that, and, it might be that like we have a lot of good data now about how refineries are balanced right now and like if they're too tedious then when you get to the next tier you're already burned out with the refineries so like that's probably gonna change maybe i don't know, yeah nuclear is the current endgame yeah that's true but you do need a lot of like well
+> endgame is all about building refineries well yeah endgame right now is all about building refineries there are still like two more tiers, after that, and, it might be that like we have a lot of good data now about how refineries are balanced right now and like if they're too tedious then when you get to the next tier you're already burned out with the refineries so like that's probably gonna change maybe I don't know, yeah nuclear is the current endgame yeah that's true but you do need a lot of like well

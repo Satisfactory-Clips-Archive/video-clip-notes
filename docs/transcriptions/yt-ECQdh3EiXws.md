@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [November 2nd, 
 
 ### Transcript
 
-> questions better multi-threading support i mean there is multiple things we have yeah maybe better is a different thing it can, it's tricky possibly in the future because there are things that we can still move to do multi-threading with but, we've done like the low-hanging fruit so to speak
+> questions better multi-threading support I mean there is multiple things we have yeah maybe better is a different thing it can, it's tricky possibly in the future because there are things that we can still move to do multi-threading with but, we've done like the low-hanging fruit so to speak

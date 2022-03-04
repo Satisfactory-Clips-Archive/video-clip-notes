@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [December 14th,
 
 ### Transcript
 
-> will be a soundtrack release, i don't this is i'm not super in the loop on this, i don't know i think i think because like the yannick who who made the soundtrack, , he has put up the one of the like trailer songs or something in, on on his soundcloud so you can check that out i think that's the first reveal trailer we did that song is on cl soundcloud, but i don't know plans for other songs in the game so we will see we'll see
+> will be a soundtrack release, I don't this is I'm not super in the loop on this, I don't know I think I think because like the yannick who who made the soundtrack, , he has put up the one of the like trailer songs or something in, on on his soundcloud so you can check that out I think that's the first reveal trailer we did that song is on cl soundcloud, but I don't know plans for other songs in the game so we will see we'll see

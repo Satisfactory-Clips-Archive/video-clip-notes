@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=-MxqS9W0Gps
 
 ### Transcript
 
-> is there a public feed changelog blog we can follow for dedicated service changes no it's the same one or i mean yes there is one it's the same one as they have all the other patch notes so there's not there's not one specifically tied to the data server it's the same as like they're incorporated in the same patch notes as everyone else everything else
+> is there a public feed changelog blog we can follow for dedicated service changes no it's the same one or I mean yes there is one it's the same one as they have all the other patch notes so there's not there's not one specifically tied to the data server it's the same as like they're incorporated in the same patch notes as everyone else everything else
 >
 > [Music]
 >

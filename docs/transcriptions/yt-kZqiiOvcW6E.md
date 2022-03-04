@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=kZqiiOvcW6E
 
 ### Transcript
 
-> yeah see co-workers in real life what the is that i know right
+> yeah see co-workers in real life what the is that I know right

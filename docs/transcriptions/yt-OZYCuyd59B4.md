@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=OZYCuyd59B4
 
 ### Transcript
 
-> more foundations, what do you mean more foundations more foundation types maybe i don't know
+> more foundations, what do you mean more foundations more foundation types maybe I don't know

@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=m8v8TVvDSeY
 
 ### Transcript
 
-> will you be expanding on how power works anymore in update four like prioritizing locations, like prioritizing locations i don't know what that means
+> will you be expanding on how power works anymore in update four like prioritizing locations, like prioritizing locations I don't know what that means

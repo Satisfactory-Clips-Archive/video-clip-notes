@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=3Z1fgl80K0I
 
 ### Transcript
 
-> sure was the best part of my day yesterday what was yesterday monday what did i do i don't really remember yesterday i spoke to burke for a little bit that was nice
+> sure was the best part of my day yesterday what was yesterday monday what did I do I don't really remember yesterday I spoke to burke for a little bit that was nice

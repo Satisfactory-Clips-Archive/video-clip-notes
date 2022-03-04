@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [May 18th, 2021
 
 ### Transcript
 
-> what about working progress things like mercy's fears tied to the story that i've talked about four times
+> what about working progress things like mercy's fears tied to the story that I've talked about four times

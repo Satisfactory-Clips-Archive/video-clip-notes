@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=9KV0D_VniRI
 
 ### Transcript
 
-> do you know what sam stands for sexy alien man i was also gonna go for sexy sexy alien man or stupid sexy alien monkey door i don't know it's true oh strange alien material that makes that makes sense as well yeah maybe we can go with that that makes sense
+> do you know what sam stands for sexy alien man I was also gonna go for sexy sexy alien man or stupid sexy alien monkey door I don't know it's true oh strange alien material that makes that makes sense as well yeah maybe we can go with that that makes sense

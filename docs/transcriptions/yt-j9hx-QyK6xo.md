@@ -20,4 +20,4 @@ https://www.youtube.com/watch?v=j9hx-QyK6xo
 
 ### Transcript
 
-> somebody asked if we have plans to reloc localize the game to swedish, the game has community driven localization so if you want like no one's localizing it i mean somebody started doing it actually yeah i think it's in norwegian yeah, if you want to localize the game or help out with that, join our discord and, in the welcome page there are instructions on how to do it and, yeah follow those instructions
+> somebody asked if we have plans to reloc localize the game to swedish, the game has community driven localization so if you want like no one's localizing it I mean somebody started doing it actually yeah I think it's in norwegian yeah, if you want to localize the game or help out with that, join our discord and, in the welcome page there are instructions on how to do it and, yeah follow those instructions

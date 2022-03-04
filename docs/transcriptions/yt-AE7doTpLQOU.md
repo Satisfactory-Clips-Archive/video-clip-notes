@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [February 8th, 
 
 ### Transcript
 
-> we get to it will it be creative mode yes at some point i'm pretty sure passive mode and creative mode are two things that we've, looked into i know passive mode is gonna happen i am fairly confident creative mode is gonna happen but i don't know exactly when or how or
+> we get to it will it be creative mode yes at some point I'm pretty sure passive mode and creative mode are two things that we've, looked into I know passive mode is gonna happen I am fairly confident creative mode is gonna happen but I don't know exactly when or how or

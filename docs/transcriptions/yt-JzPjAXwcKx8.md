@@ -22,4 +22,4 @@ https://www.youtube.com/watch?v=JzPjAXwcKx8
 
 ### Transcript
 
-> weapon item holstering coming soon no not soon maybe in maybe if you plea on the keyway side i've wanted that for a long time i just i don't know what the hole up is
+> weapon item holstering coming soon no not soon maybe in maybe if you plea on the keyway side I've wanted that for a long time I just I don't know what the hole up is

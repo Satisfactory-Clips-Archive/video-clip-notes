@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=LoKORvJh0Vw
 
 ### Transcript
 
-> you would be fixing food items that would be cool i'd like that especially cooking i think cooking would be really fun
+> you would be fixing food items that would be cool I'd like that especially cooking I think cooking would be really fun

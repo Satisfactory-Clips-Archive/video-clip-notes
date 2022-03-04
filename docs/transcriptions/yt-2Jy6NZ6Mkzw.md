@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=2Jy6NZ6Mkzw
 
 ### Transcript
 
-> yep that's right steve that's it we get all our ideas from mods you guys it's not like we have, we obsess over the game 24 7, for for five years now but yeah it's gonna happen i mean there's more mods that are gonna be, you know native or not native but like you know vanilla versions are gonna be added so
+> yep that's right steve that's it we get all our ideas from mods you guys it's not like we have, we obsess over the game 24 7, for for five years now but yeah it's gonna happen I mean there's more mods that are gonna be, you know native or not native but like you know vanilla versions are gonna be added so

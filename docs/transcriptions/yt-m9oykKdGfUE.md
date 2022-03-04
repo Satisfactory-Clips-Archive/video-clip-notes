@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [February 22nd,
 
 ### Transcript
 
-> well there'd be weather in the game like rain i don't know we we experimented with whether a long long time ago and then it's been cut i'm not sure if we're gonna bring it back or not but
+> well there'd be weather in the game like rain I don't know we we experimented with whether a long long time ago and then it's been cut I'm not sure if we're gonna bring it back or not but

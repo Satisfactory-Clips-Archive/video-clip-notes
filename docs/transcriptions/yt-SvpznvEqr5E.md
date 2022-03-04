@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [February 8th, 
 
 ### Transcript
 
-> how many doves are you i think we're like 30 or something yeah something like that
+> how many doves are you I think we're like 30 or something yeah something like that

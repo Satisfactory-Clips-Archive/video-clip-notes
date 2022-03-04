@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [February 15th,
 
 ### Transcript
 
-> do you plan on doing a new map, no there's no plan for that no no plan i haven't even finished that current one so
+> do you plan on doing a new map, no there's no plan for that no no plan I haven't even finished that current one so

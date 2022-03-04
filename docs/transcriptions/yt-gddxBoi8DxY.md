@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=gddxBoi8DxY
 
 ### Transcript
 
-> your story yeah, any plans on updating vehicles and planning routes we have plans to update vehicles but, we don't know when that will happen there is we we talked a little bit about this during one of the program meetings today of like improving the the routing aspect of it but it's again like it's a planning thing so i think we want to do it but we haven't planned it in so to speak yet but there's going to be some type of overhaul of the vehicles way further down the line i believe okay
+> your story yeah, any plans on updating vehicles and planning routes we have plans to update vehicles but, we don't know when that will happen there is we we talked a little bit about this during one of the program meetings today of like improving the the routing aspect of it but it's again like it's a planning thing so I think we want to do it but we haven't planned it in so to speak yet but there's going to be some type of overhaul of the vehicles way further down the line I believe okay

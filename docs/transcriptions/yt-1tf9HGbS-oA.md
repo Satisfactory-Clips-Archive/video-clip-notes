@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=1tf9HGbS-oA
 
 ### Transcript
 
-> jc looked truncated i could say that you know no one has ever told me that i looked truncated before this is the first time in my entire life we can mark that on a calendar put that on the wiki 15th of february 2022 jace was told that he looks truncated for the first time in his entire life nice
+> jc looked truncated I could say that you know no one has ever told me that I looked truncated before this is the first time in my entire life we can mark that on a calendar put that on the wiki 15th of february 2022 jace was told that he looks truncated for the first time in his entire life nice

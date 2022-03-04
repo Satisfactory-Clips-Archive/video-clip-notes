@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [February 15th,
 
 ### Transcript
 
-> how about personal elevators i don't think they're coming improve the
+> how about personal elevators I don't think they're coming improve the

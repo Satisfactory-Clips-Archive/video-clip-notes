@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [June 29th, 202
 
 ### Transcript
 
-> i think we want hannah on stream to explain upcoming changes i don't think hannah can explain upcoming changes i i mean i'm not saying she's incapable of it i'm just saying that like it's a secret the way i said it was like she's not able to do it no hannah would never even if she tried nobody can do our job especially at us oh my god oh i'm so happy that nobody i can obviously watches our streams yep
+> I think we want hannah on stream to explain upcoming changes I don't think hannah can explain upcoming changes- I mean I'm not saying she's incapable of it I'm just saying that like it's a secret the way I said it was like she's not able to do it no hannah would never even if she tried nobody can do our job especially at us oh my god oh I'm so happy that nobody I can obviously watches our streams yep

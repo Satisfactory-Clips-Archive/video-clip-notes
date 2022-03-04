@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=btTUPx2DUAk
 
 ### Transcript
 
-> when is flushing dlc coming yeah i don't know it's been whipped for so long i know i want it to come out i want the flushing dlc to release it's my magnum opus
+> when is flushing dlc coming yeah I don't know it's been whipped for so long I know I want it to come out I want the flushing dlc to release it's my magnum opus

@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=2usvBK3tqEw
 
 ### Transcript
 
-> i checked the rejected q a as soon as the video was over yeah so that was as we were we were doing you can see me on the stream do it because we did it while we were on cam, in the background i'm trying to log into the keyway side and like origin set it to reject it so, yeah rip rip golf rip golf
+> I checked the rejected q a as soon as the video was over yeah so that was as we were we were doing you can see me on the stream do it because we did it while we were on cam, in the background I'm trying to log into the keyway side and like origin set it to reject it so, yeah rip rip golf rip golf

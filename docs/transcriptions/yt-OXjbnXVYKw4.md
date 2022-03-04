@@ -20,4 +20,4 @@ https://www.youtube.com/watch?v=OXjbnXVYKw4
 
 ### Transcript
 
-> we have the stack sizes of iron plates increased to 500 with foundation changes they're eating up a lot of space, maybe that will change i don't know this is kind of like where that the experimental version 4500 that's not i mean that's doable totally 696 tonight i don't believe that for a second and i think that's doable right
+> we have the stack sizes of iron plates increased to 500 with foundation changes they're eating up a lot of space, maybe that will change I don't know this is kind of like where that the experimental version 4500 that's not I mean that's doable totally 696 tonight I don't believe that for a second and I think that's doable right

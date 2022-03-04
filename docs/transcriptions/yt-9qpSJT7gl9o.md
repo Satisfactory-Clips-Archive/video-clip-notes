@@ -20,4 +20,4 @@ This question was possibly duplicated with a more recent answer: [April 27th, 20
 
 ### Transcript
 
-> i'm gonna fix the wheels when selecting walls is there an issue with the walls right now same thing if there is an issue with, so the selection wheel please hit us up on the keyway side
+> I'm gonna fix the wheels when selecting walls is there an issue with the walls right now same thing if there is an issue with, so the selection wheel please hit us up on the keyway side

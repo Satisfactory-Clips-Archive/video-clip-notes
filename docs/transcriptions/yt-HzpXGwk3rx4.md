@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=HzpXGwk3rx4
 
 ### Transcript
 
-> almost right almost right very good g nice yeah i feel like i can do the g but it's yeah
+> almost right almost right very good g nice yeah I feel like I can do the g but it's yeah

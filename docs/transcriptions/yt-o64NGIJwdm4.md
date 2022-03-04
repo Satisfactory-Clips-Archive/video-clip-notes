@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [November 23rd,
 
 ### Transcript
 
-> yeah are you ready to celebrate the fact that with the next update is halfway to, marked towards 1.0 i don't think that's the case yeah i think we're i think we're well past the halfway mark from the sounds of things the update numbering isn't like a decimal it's just it's just an iterate number yeah update five is there there could be update 1206, not that i think there will be but think that is no, like it's not going to be like update 10 is 1.0 like it's going to be like some number 69. that's a cool number
+> yeah are you ready to celebrate the fact that with the next update is halfway to, marked towards 1.0 I don't think that's the case yeah I think we're I think we're well past the halfway mark from the sounds of things the update numbering isn't like a decimal it's just it's just an iterate number yeah update five is there there could be update 1206, not that I think there will be but think that is no, like it's not going to be like update 10 is 1.0 like it's going to be like some number 69. that's a cool number

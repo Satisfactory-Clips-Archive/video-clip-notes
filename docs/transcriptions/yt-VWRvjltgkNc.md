@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=VWRvjltgkNc
 
 ### Transcript
 
-> snow isn't going on vacation as soon as jace arrived i'm going on vacation like in a month yeah i'm just going to warm up soon i mean a month flies by yeah yeah i'll be all alone before you know it yeah don't you worry chad oh you're gonna get rid of me soon yep
+> snow isn't going on vacation as soon as jace arrived I'm going on vacation like in a month yeah I'm just going to warm up soon I mean a month flies by yeah yeah I'll be all alone before you know it yeah don't you worry chad oh you're gonna get rid of me soon yep

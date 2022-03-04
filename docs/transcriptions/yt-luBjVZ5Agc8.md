@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=luBjVZ5Agc8
 
 ### Transcript
 
-> replanting trees feature, would be cool, please go to the qi site and upload that because i know there's a there's a ticket for that
+> replanting trees feature, would be cool, please go to the qi site and upload that because I know there's a there's a ticket for that

@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [September 28th
 
 ### Transcript
 
-> could this mental mode have an ignore function maybe, maybe we've talked about that too i think the thing that makes the most sense too intuitively is the deselecting in some way
+> could this mental mode have an ignore function maybe, maybe we've talked about that too I think the thing that makes the most sense too intuitively is the deselecting in some way

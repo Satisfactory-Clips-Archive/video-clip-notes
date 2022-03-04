@@ -16,4 +16,4 @@ This question was possibly replaced with a more recent answer: [October 27th, 20
 
 ### Transcript
 
-> not a smelter okay so it might have been an acid before but any plans on adding ladders like the ones you can be added to walls inside of foundations, that's also a pretty good one to chuck on the keyway site, chuck it on that i'm gonna post it again actually oh maybe no i already, whatever i'll do there we go [ __ ] that on the kiwi side that's a really good suggestion for that stuff
+> not a smelter okay so it might have been an acid before but any plans on adding ladders like the ones you can be added to walls inside of foundations, that's also a pretty good one to chuck on the keyway site, chuck it on that I'm gonna post it again actually oh maybe no I already, whatever I'll do there we go [ __ ] that on the kiwi side that's a really good suggestion for that stuff

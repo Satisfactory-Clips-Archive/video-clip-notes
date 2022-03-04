@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=z6_iEXhMjfE
 
 ### Transcript
 
-> jason snow body pillow when oh yeah that's something that we haven't looked at didn't you tell me that like you brought this up a while ago and like everyone and like everyone was like yeah i think that's so funny i'm still i'm still all for it yeah me too like yeah who doesn't want a full-size jace body pillow come on come on yeah
+> jason snow body pillow when oh yeah that's something that we haven't looked at didn't you tell me that like you brought this up a while ago and like everyone and like everyone was like yeah I think that's so funny I'm still I'm still all for it yeah me too like yeah who doesn't want a full-size jace body pillow come on come on yeah

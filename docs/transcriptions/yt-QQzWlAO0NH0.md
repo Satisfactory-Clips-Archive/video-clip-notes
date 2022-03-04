@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [February 15th,
 
 ### Transcript
 
-> you intend to add a smart merger merger with possibilities to prioritize inputs so that's something that's been suggested a lot and i think the team know about that suggestion so like we'll we'll have to wait and see maybe we do plan maybe we don't
+> you intend to add a smart merger merger with possibilities to prioritize inputs so that's something that's been suggested a lot and I think the team know about that suggestion so like we'll we'll have to wait and see maybe we do plan maybe we don't

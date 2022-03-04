@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=f4aZRJpobRc
 
 ### Transcript
 
-> that's interesting ethan, make it so you can close up the outputs for the aesthetics purposes of splitters and stuff i i've actually never seen that suggestion before i highly recommend going to questions on satisfactorygame.com leaving the suggestion there definitely definitely
+> that's interesting ethan, make it so you can close up the outputs for the aesthetics purposes of splitters and stuff- I've actually never seen that suggestion before I highly recommend going to questions on satisfactorygame.com leaving the suggestion there definitely definitely

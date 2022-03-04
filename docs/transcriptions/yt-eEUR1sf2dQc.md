@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=eEUR1sf2dQc
 
 ### Transcript
 
-> what did i do before working at css i worked at a game, studio i worked in japan making video games i worked at a company called q games and then another company called snk if you guys have heard of like metal slug you know that was made by snk i used to work for them or like king of fighters i actually worked on the steam port with king fighters
+> what did I do before working at css I worked at a game, studio I worked in japan making video games I worked at a company called q games and then another company called snk if you guys have heard of like metal slug you know that was made by snk I used to work for them or like king of fighters I actually worked on the steam port with king fighters

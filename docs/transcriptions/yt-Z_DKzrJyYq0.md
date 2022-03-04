@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=Z_DKzrJyYq0
 
 ### Transcript
 
-> there's one more thing with the walkways here that is isn't very obvious in this shot but in the next one it's a little bit more obvious i think if the keen eye catches it is that the walkways seem to have some kind of pattern going on here oh what's going on there yeah they also seem to be like not like slanted as much as the old ones what's a little difference interesting
+> there's one more thing with the walkways here that is isn't very obvious in this shot but in the next one it's a little bit more obvious I think if the keen eye catches it is that the walkways seem to have some kind of pattern going on here oh what's going on there yeah they also seem to be like not like slanted as much as the old ones what's a little difference interesting

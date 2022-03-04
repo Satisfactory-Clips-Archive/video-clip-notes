@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [February 23rd,
 
 ### Transcript
 
-> water extractors need to snap to grid yo i would appreciate that a lot because i just a generic like, global grid in general would be sweet
+> water extractors need to snap to grid yo I would appreciate that a lot because I just a generic like, global grid in general would be sweet

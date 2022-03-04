@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=oI_RmzILLrk
 
 ### Transcript
 
-> is there a larger version of the beams that were revealed a couple weeks ago, no there's the beams that we revealed those are the beams that we have revealed so if you haven't seen like like if you haven't seen something in our reveal videos then it probably hasn't been revealed you know what i'm saying a little hack
+> is there a larger version of the beams that were revealed a couple weeks ago, no there's the beams that we revealed those are the beams that we have revealed so if you haven't seen like like if you haven't seen something in our reveal videos then it probably hasn't been revealed you know what I'm saying a little hack

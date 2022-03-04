@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=LxR-pnwW_so
 
 ### Transcript
 
-> i know you love portal maybe if you get five ten dollars near each other they start to sing like the tarts oh yeah cool
+> I know you love portal maybe if you get five ten dollars near each other they start to sing like the tarts oh yeah cool

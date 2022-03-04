@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=2I9bRbAag6Q
 
 ### Transcript
 
-> do you like the story so far i haven't seen it so i don't know i've only seen the, the abstract the synopsis for it but i don't know how it's gonna play out that's something that we're prototyping currently
+> do you like the story so far I haven't seen it so I don't know I've only seen the, the abstract the synopsis for it but I don't know how it's gonna play out that's something that we're prototyping currently

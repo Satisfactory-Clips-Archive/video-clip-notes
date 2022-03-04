@@ -24,7 +24,7 @@ https://www.youtube.com/watch?v=UINcRavrC5Y
 >
 > [Laughter]
 >
-> we're letting all the gays out that's what we're doing oh yeah i'm so sorry
+> we're letting all the gays out that's what we're doing oh yeah I'm so sorry
 >
 > [Laughter]
 >

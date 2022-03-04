@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=qHeo-7n5tyE
 
 ### Transcript
 
-> it's marked as in progress wait what what are you talking about in progress sent by a developer oh no oh wait i need to log in and see who did that where's my we did it oh i can't remember my password whatever
+> it's marked as in progress wait what what are you talking about in progress sent by a developer oh no oh wait I need to log in and see who did that where's my we did it oh I can't remember my password whatever

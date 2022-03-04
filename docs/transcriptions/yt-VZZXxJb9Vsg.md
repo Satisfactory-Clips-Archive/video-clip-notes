@@ -28,4 +28,4 @@ This question was possibly replaced with a more recent answer: [October 29th, 20
 
 ### Transcript
 
-> foundations with holes vip or dream, go to the qa side and upload that and maybe if it gets enough votes maybe it will be vip but if if not then it's gonna be a dream i guess or something
+> foundations with holes vip or dream, go to the qa side and upload that and maybe if it gets enough votes maybe it will be vip but if if not then it's gonna be a dream I guess or something

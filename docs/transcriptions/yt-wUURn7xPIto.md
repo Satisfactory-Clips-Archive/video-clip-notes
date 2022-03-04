@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=wUURn7xPIto
 
 ### Transcript
 
-> favorite edition from update four that's the radial menu right e is that from update four was that from before update four drones are pretty cool they're pretty fun i never got to drones though in my own playthrough like i've used them from like, with cheats and stuff but
+> favorite edition from update four that's the radial menu right e is that from update four was that from before update four drones are pretty cool they're pretty fun I never got to drones though in my own playthrough like I've used them from like, with cheats and stuff but

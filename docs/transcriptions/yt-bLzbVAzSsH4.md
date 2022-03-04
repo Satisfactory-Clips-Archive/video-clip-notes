@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=bLzbVAzSsH4
 
 ### Transcript
 
-> what's for dinner snoot sure burger but jace actually i had a chicken burger that i that i made here oh at home just before stream so i'm, i'm all fooded up it's burger tuesday you guys it's the first thing at the seams boys and girls it's official
+> what's for dinner snoot sure burger but jace actually I had a chicken burger that I that I made here oh at home just before stream so I'm, I'm all fooded up it's burger tuesday you guys it's the first thing at the seams boys and girls it's official

@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=9R7r3GFbSyc
 
 ### Transcript
 
-> make sure make sure you eat all your greens or we won't answer your questions what's your favorite cheese jase ham and bear nice mine is port salud you don't pronounce it like that but i do yeah i don't pronounce it like that you're right
+> make sure make sure you eat all your greens or we won't answer your questions what's your favorite cheese jase ham and bear nice mine is port salud you don't pronounce it like that but I do yeah I don't pronounce it like that you're right

@@ -23,4 +23,4 @@ https://www.youtube.com/watch?v=071RPMJfFJk
 
 ### Transcript
 
-> what operating system will dedicated service be i i actually don't really know i mean i guess it's going to be windows and i think it's possibly going to be on linux i'm not sure
+> what operating system will dedicated service be- I actually don't really know I mean I guess it's going to be windows and I think it's possibly going to be on linux I'm not sure

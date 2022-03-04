@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=odeI3OhIa6Q
 
 ### Transcript
 
-> okay another trait yeah so, i mean is there is is there much else to say not really that's that's kind of like the bummer of state of dev the coming because it's gonna be a repeat of this until update four is out because it's the same story, every week essentially up until then we're just going to be fixing bugs and, yeah we're in feature-free so there's nothing yeah nothing exciting really to talk about currently no not really just developing
+> okay another trait yeah so, I mean is there is is there much else to say not really that's that's kind of like the bummer of state of dev the coming because it's gonna be a repeat of this until update four is out because it's the same story, every week essentially up until then we're just going to be fixing bugs and, yeah we're in feature-free so there's nothing yeah nothing exciting really to talk about currently no not really just developing

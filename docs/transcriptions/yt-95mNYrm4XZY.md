@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=95mNYrm4XZY
 
 ### Transcript
 
-> i kind of like riding on top of automated trucks i like that too i like that too
+> I kind of like riding on top of automated trucks I like that too I like that too

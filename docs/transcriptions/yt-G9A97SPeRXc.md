@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=G9A97SPeRXc
 
 ### Transcript
 
-> we're asking for straws here but essentially we're still working on a little bit on update four there are some issues that we're trying to solve and i'm gonna let you guys know if there's anything here that you feel like i should be addressing when it comes to known issues here please remind me because i i forget all the time, and you know we're not trying to to hide anything like that we're totally gonna be honest with you guys what's going on
+> we're asking for straws here but essentially we're still working on a little bit on update four there are some issues that we're trying to solve and I'm gonna let you guys know if there's anything here that you feel like I should be addressing when it comes to known issues here please remind me because- I forget all the time, and you know we're not trying to to hide anything like that we're totally gonna be honest with you guys what's going on

@@ -24,4 +24,4 @@ This question was possibly replaced with a more recent answer: [March 2nd, 2021 
 
 ### Transcript
 
-> more crash sites for update four with hard drives, i don't think so no, there are still still more hard drives in the world than there are alternative recipes, and it will probably be like that for a while but if we if we add like way more alternative recipes then maybe we'll add more drop pods or crash sites but i don't think that's the case
+> more crash sites for update four with hard drives, I don't think so no, there are still still more hard drives in the world than there are alternative recipes, and it will probably be like that for a while but if we if we add like way more alternative recipes then maybe we'll add more drop pods or crash sites but I don't think that's the case

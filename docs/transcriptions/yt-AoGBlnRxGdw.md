@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [June 29th, 202
 
 ### Transcript
 
-> i'm sunday chillin, what do you guys do outside of community management responsibilities right now i think that's all i do i just decided you mean like when i'm not working or oh yeah maybe outside of when i'm not working or i mean we just do community management conferencing like realism yeah yeah yeah that's all we do yeah but outside of work you know we just do our own thing play games chill that's what i do pretty much only play games nerd
+> I'm sunday chillin, what do you guys do outside of community management responsibilities right now I think that's all I do I just decided you mean like when I'm not working or oh yeah maybe outside of when I'm not working or I mean we just do community management conferencing like realism yeah yeah yeah that's all we do yeah but outside of work you know we just do our own thing play games chill that's what I do pretty much only play games nerd

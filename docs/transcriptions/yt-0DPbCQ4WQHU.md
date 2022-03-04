@@ -18,7 +18,7 @@ This question was possibly duplicated with a more recent answer: [October 5th, 2
 
 ### Transcript
 
-> paintable vehicles when that's what i want to know, is there any plan to get paintable before or did i dream that i feel like every time i bring it up they were yeah yeah they were way way way back okay i'm not crazy good way back when i also asked that question every single time i think about it yep you do but you like it
+> paintable vehicles when that's what I want to know, is there any plan to get paintable before or did I dream that I feel like every time I bring it up they were yeah yeah they were way way way back okay I'm not crazy good way back when I also asked that question every single time I think about it yep you do but you like it
 >
 > [Laughter]
 >

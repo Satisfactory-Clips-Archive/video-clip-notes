@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=vQZoIxR3rqQ
 
 ### Transcript
 
-> yeah would it be weird if i ordered a full-size jace body pillar maybe not as weird as you think if we don't know about it then it's not like
+> yeah would it be weird if I ordered a full-size jace body pillar maybe not as weird as you think if we don't know about it then it's not like

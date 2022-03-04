@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=LgOQ-5jwczg
 
 ### Transcript
 
-> oh doing all this work in the game to earn a 10-piece bucket of chicken ah 10-piece bucket of this doggo hello much more crunchy sounds delicious you know what i bet it is i bet it is delicious yeah i need that doggo crunch exactly exactly
+> oh doing all this work in the game to earn a 10-piece bucket of chicken ah 10-piece bucket of this doggo hello much more crunchy sounds delicious you know what I bet it is I bet it is delicious yeah I need that doggo crunch exactly exactly

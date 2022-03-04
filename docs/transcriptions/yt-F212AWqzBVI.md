@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=F212AWqzBVI
 
 ### Transcript
 
-> giving people solar wind and hydra actually means fixer gets more resources to use for the factory and parts why do they get more resources to use no coal it's not quick enough if there's many to add rtx that's for you yeah wait is this though before i say that if there's anything i learned from from clean energy is that it's so much more resource demanding than just going oh there's chocolate wood in the block
+> giving people solar wind and hydra actually means fixer gets more resources to use for the factory and parts why do they get more resources to use no coal it's not quick enough if there's many to add rtx that's for you yeah wait is this though before I say that if there's anything I learned from from clean energy is that it's so much more resource demanding than just going oh there's chocolate wood in the block

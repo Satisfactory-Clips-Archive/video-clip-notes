@@ -23,4 +23,4 @@ https://www.youtube.com/watch?v=DOFC8O2yXNw
 
 ### Transcript
 
-> will this be the last update before 1.0 no the we still have update 5 slated at some point i don't know how many updates we'll do after that, or even how many updates come in between that because we've kind of we went down the path of like doing like a smaller update, which we call the fluid update, in between three and four, and we kind of like that approach too, maybe we'll just like change and just rename all the updates to just number updates but we'll see we'll see
+> will this be the last update before 1.0 no the we still have update 5 slated at some point I don't know how many updates we'll do after that, or even how many updates come in between that because we've kind of we went down the path of like doing like a smaller update, which we call the fluid update, in between three and four, and we kind of like that approach too, maybe we'll just like change and just rename all the updates to just number updates but we'll see we'll see

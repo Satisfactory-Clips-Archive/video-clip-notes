@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [September 14th
 
 ### Transcript
 
-> what are the plans for no man's land in the southwest corner of the map i don't know probably more foliage i don't know
+> what are the plans for no man's land in the southwest corner of the map I don't know probably more foliage I don't know

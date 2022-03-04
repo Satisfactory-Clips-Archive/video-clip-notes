@@ -22,4 +22,4 @@ https://www.youtube.com/watch?v=_F3OkVu4LnQ
 
 ### Transcript
 
-> okay so this is the hub and i told snoop that there's something in the hub and i'm not sure if it's there or not it might be let me let me tell ya there is something in the hub so here's the hub right this is where you you you your living quarters you've got your work station here you also got the toilet here and it's currently occupied so that was me before i logged out and then and gave the safe to snoop just drinking coffee i mean like what do you suppose i mean coffee just goes straight through you right yeah
+> okay so this is the hub and I told snoop that there's something in the hub and I'm not sure if it's there or not it might be let me let me tell ya there is something in the hub so here's the hub right this is where you you you your living quarters you've got your work station here you also got the toilet here and it's currently occupied so that was me before I logged out and then and gave the safe to snoop just drinking coffee I mean like what do you suppose I mean coffee just goes straight through you right yeah

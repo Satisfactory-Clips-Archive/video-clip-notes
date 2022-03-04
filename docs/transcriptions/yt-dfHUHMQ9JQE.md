@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=dfHUHMQ9JQE
 
 ### Transcript
 
-> the devs back from vacation yep we've we've been back from vacation for a week a whole week or a week and a half i guess sort of, so yes
+> the devs back from vacation yep we've we've been back from vacation for a week a whole week or a week and a half I guess sort of, so yes

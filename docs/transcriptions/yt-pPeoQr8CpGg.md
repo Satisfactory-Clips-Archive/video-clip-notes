@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [November 16th,
 
 ### Transcript
 
-> is it going to be some kind of peaceful mode we're looking into, game modes in the future and i think peaceful mode is is a no-brainer, and it's something that a lot of people have suggested so i i'm i'm pretty hopeful that there would be a peaceful mode in the future
+> is it going to be some kind of peaceful mode we're looking into, game modes in the future and I think peaceful mode is is a no-brainer, and it's something that a lot of people have suggested so- I'm I'm pretty hopeful that there would be a peaceful mode in the future

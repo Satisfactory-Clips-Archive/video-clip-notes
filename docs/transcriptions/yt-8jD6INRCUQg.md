@@ -28,4 +28,4 @@ https://www.youtube.com/watch?v=8jD6INRCUQg
 
 ### Transcript
 
-> will you ever implement gravity to the building objects no i don't think that's going to happen i'm pretty sure pretty sure that looks like sounds like a lot of simulation that we don't do enough of in the game i i guess a bunch of programming positions just opened up yeah maybe maybe
+> will you ever implement gravity to the building objects no I don't think that's going to happen I'm pretty sure pretty sure that looks like sounds like a lot of simulation that we don't do enough of in the game- I guess a bunch of programming positions just opened up yeah maybe maybe

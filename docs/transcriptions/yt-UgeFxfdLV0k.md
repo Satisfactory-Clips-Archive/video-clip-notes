@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [December 7th, 
 
 ### Transcript
 
-> what about underwater oh boy play subnautica place i'm not a girl just no yeah you don't need us to make that just like with towers if you if you want to play down tower defense just play sanctum you know we don't need to make it it's already it's already there better better than we would it's fine yeah well you were playing at a bunch of my holiday was nice
+> what about underwater oh boy play subnautica place I'm not a girl just no yeah you don't need us to make that just like with towers if you if you want to play down tower defense just play sanctum you know we don't need to make it it's already it's already there better better than we would it's fine yeah well you were playing at a bunch of my holiday was nice

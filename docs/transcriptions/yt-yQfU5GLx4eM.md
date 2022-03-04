@@ -25,4 +25,4 @@ https://www.youtube.com/watch?v=yQfU5GLx4eM
 
 ### Transcript
 
-> but guys get rid of poison rocks no i don't think so
+> but guys get rid of poison rocks no I don't think so

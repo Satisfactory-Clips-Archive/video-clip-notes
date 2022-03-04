@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=T6mvEOG0HLI
 
 ### Transcript
 
-> pretty neat developer build is this a developer build it might be right, no this is a this is a live build this is the one on epic, this is the same one in a picture this might be an older version 1553 i think we released a newer version than this i might be playing an old version of the game but okay, no mods no yeah no no mods
+> pretty neat developer build is this a developer build it might be right, no this is a this is a live build this is the one on epic, this is the same one in a picture this might be an older version 1553 I think we released a newer version than this I might be playing an old version of the game but okay, no mods no yeah no no mods

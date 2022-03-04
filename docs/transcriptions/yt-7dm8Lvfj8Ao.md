@@ -16,7 +16,7 @@ This question was possibly duplicated with a more recent answer: [January 26th, 
 
 ### Transcript
 
-> here's a question, can you put in lies please i'm not yelling, hmm weird, anyway, we here yeah yeah yeah one day we want to it's they're they're we haven't they're pretty important and probably even a pretty high priority in a way they're just really hard to do it so it's yeah it's tricky to make, we've talked about this a lot in the past yeah it's just like we have a performance budget of the game and we're not meeting it currently, with like a lot of stuff that's already in the game if we were to add lights on top of that which is really makes it a lot more complex in terms of like how we optimize performance for that regard
+> here's a question, can you put in lies please I'm not yelling, hmm weird, anyway, we here yeah yeah yeah one day we want to it's they're they're we haven't they're pretty important and probably even a pretty high priority in a way they're just really hard to do it so it's yeah it's tricky to make, we've talked about this a lot in the past yeah it's just like we have a performance budget of the game and we're not meeting it currently, with like a lot of stuff that's already in the game if we were to add lights on top of that which is really makes it a lot more complex in terms of like how we optimize performance for that regard
 >
 > [Music]
 >

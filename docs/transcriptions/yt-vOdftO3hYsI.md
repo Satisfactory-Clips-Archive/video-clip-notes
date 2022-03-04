@@ -20,4 +20,4 @@ https://www.youtube.com/watch?v=vOdftO3hYsI
 >
 > [Music]
 >
-> so we're doing like i think there are more ways we can improve parallelization in the game but we have done a lot in terms of that so a bit stuck on a few things that you can't run in parallel right now
+> so we're doing like I think there are more ways we can improve parallelization in the game but we have done a lot in terms of that so a bit stuck on a few things that you can't run in parallel right now

@@ -28,4 +28,4 @@ This question was possibly replaced with a more recent answer: [October 26th, 20
 
 ### Transcript
 
-> oh state of golf 1 392 only eight more to go is that true let's see here game and switch yeah okay oh eight more to go oh wow look at that let me see if i can bring it up on
+> oh state of golf 1 392 only eight more to go is that true let's see here game and switch yeah okay oh eight more to go oh wow look at that let me see if I can bring it up on

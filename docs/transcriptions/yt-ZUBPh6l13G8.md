@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=ZUBPh6l13G8
 
 ### Transcript
 
-> how do you make your animations what programs to use i think we use i don't know if we use blender for animation we use maya for animations okay, but it's possible that maybe we'll switch to blender animation as well but i'm pretty sure we use my, for we are gonna stick to maya with animations at least okay
+> how do you make your animations what programs to use I think we use I don't know if we use blender for animation we use maya for animations okay, but it's possible that maybe we'll switch to blender animation as well but I'm pretty sure we use my, for we are gonna stick to maya with animations at least okay

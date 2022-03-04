@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [February 22nd,
 
 ### Transcript
 
-> will we ever get a second body slot i think probably maybe in the future, i remember correctly that's not something that, i think we might be not sure either that or we'll like redo how equipment work yeah equipment isn't final i guess
+> will we ever get a second body slot I think probably maybe in the future, I remember correctly that's not something that, I think we might be not sure either that or we'll like redo how equipment work yeah equipment isn't final I guess

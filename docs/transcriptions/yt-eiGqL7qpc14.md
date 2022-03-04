@@ -22,4 +22,4 @@ This question was possibly duplicated with a more recent answer: [April 27th, 20
 
 ### Transcript
 
-> will there be faster smelter manufacturers does like i don't know you you overclock them right that's how you get faster
+> will there be faster smelter manufacturers does like I don't know you you overclock them right that's how you get faster

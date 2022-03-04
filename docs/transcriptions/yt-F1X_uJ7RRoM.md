@@ -22,4 +22,4 @@ https://www.youtube.com/watch?v=F1X_uJ7RRoM
 >
 > [Laughter]
 >
-> looks like we got a couple of comedians in chat all right you guys think you're so funny absolutely you actually are kind of funny there's a lot of times where like we're talking about something and i see like a comment and i just like have to keep faith
+> looks like we got a couple of comedians in chat all right you guys think you're so funny absolutely you actually are kind of funny there's a lot of times where like we're talking about something and I see like a comment and I just like have to keep faith

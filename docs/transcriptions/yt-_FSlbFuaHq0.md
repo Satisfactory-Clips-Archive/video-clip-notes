@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [November 23rd,
 
 ### Transcript
 
-> yes, then i've discussed mods work with dedicated servers not sure my dude
+> yes, then I've discussed mods work with dedicated servers not sure my dude

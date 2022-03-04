@@ -29,4 +29,4 @@ https://www.youtube.com/watch?v=yKTK7X0Z8dQ
 
 ### Transcript
 
-> got some foundation stencils yeah stencils i don't know if this are they called stencils in the game or are they called like something else i think they're called patterns are they called patterns in the game
+> got some foundation stencils yeah stencils I don't know if this are they called stencils in the game or are they called like something else I think they're called patterns are they called patterns in the game

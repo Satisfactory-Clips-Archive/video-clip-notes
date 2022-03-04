@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=f05_-GJTYyg
 
 ### Transcript
 
-> any thoughts on an expensive mode i haven't thought about it i haven't thought about it maybe mark has our game director, don't know if you if you want an expensive mode in the game make sure to upload that in a q a site
+> any thoughts on an expensive mode I haven't thought about it I haven't thought about it maybe mark has our game director, don't know if you if you want an expensive mode in the game make sure to upload that in a q a site

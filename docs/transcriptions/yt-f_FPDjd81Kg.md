@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=f_FPDjd81Kg
 
 ### Transcript
 
-> when can we put lights on pillars again i don't know could you do that before can you not do that now something strange is happening go to the qa side questions on satisfactorygame.com leave your suggestion or question or bug report there yes yes
+> when can we put lights on pillars again I don't know could you do that before can you not do that now something strange is happening go to the qa side questions on satisfactorygame.com leave your suggestion or question or bug report there yes yes

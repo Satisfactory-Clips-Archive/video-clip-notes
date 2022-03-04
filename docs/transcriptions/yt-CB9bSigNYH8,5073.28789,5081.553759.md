@@ -16,4 +16,4 @@ https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5073&end=5082
 
 ### Transcript
 
-> point and I do a little gameplay when I studied in verdad did I I think I
+> point and I do a little gameplay when I studied in verdad did- I think I

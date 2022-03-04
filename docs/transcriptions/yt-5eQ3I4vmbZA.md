@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [September 28th
 
 ### Transcript
 
-> least will there be a way to auto feed biomass into the generators i don't think so, because that's the point of the generation like you're supposed to feel annoying you don't want to use them
+> least will there be a way to auto feed biomass into the generators I don't think so, because that's the point of the generation like you're supposed to feel annoying you don't want to use them

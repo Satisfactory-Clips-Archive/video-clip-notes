@@ -90,8 +90,8 @@ https://www.youtube.com/watch?v=QvJr2UFkIa4
 
 ### Transcript
 
-> stuck then as a last resort vehicle ghosting will make sure that vehicles stays on track they're not the only changes we've made to the vehicles though oh hey jace did you make it up to the green yet shut up smith the ability to save and load recorded vehicle paths now you won't need to re-record an entire route whenever you i'm so sad that nobody's meant pointed this out by the way at least not that i've seen there's one now you won't need to automated path here that just falls off a cliff and it's that's literally what it is it just falls off the cliff
+> stuck then as a last resort vehicle ghosting will make sure that vehicles stays on track they're not the only changes we've made to the vehicles though oh hey jace did you make it up to the green yet shut up smith the ability to save and load recorded vehicle paths now you won't need to re-record an entire route whenever you I'm so sad that nobody's meant pointed this out by the way at least not that I've seen there's one now you won't need to automated path here that just falls off a cliff and it's that's literally what it is it just falls off the cliff
 >
 > [Laughter]
 >
-> i just built like, foundations and i drove out and then back again and then removed them yeah yeah that's that's all that truck does it just drives off the cliff over and over again we record an entire route i didn't even notice that no it's it's like one of those like secret like easter eggs in the video sort of if you like do, go through them now no i think these are legit we need to re-record an entire route yeah another vehicle to it
+> I just built like, foundations and I drove out and then back again and then removed them yeah yeah that's that's all that truck does it just drives off the cliff over and over again we record an entire route I didn't even notice that no it's it's like one of those like secret like easter eggs in the video sort of if you like do, go through them now no I think these are legit we need to re-record an entire route yeah another vehicle to it

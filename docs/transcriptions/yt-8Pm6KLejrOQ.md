@@ -18,7 +18,7 @@ This question was possibly duplicated with a more recent answer: [January 19th, 
 
 ### Transcript
 
-> i have several references to this being a note 2 which was that do you plan on oh i can't see it can you see the preview thing open thread oh my god do you plan on adding mass foundation placement like the smart mod it is i think i've answered that before it's an ongoing discussion we've had for a long time and i don't know what the state of that is
+> I have several references to this being a note 2 which was that do you plan on oh I can't see it can you see the preview thing open thread oh my god do you plan on adding mass foundation placement like the smart mod it is I think I've answered that before it's an ongoing discussion we've had for a long time and I don't know what the state of that is
 >
 > [Music]
 >

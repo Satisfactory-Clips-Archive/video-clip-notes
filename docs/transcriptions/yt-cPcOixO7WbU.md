@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=cPcOixO7WbU
 
 ### Transcript
 
-> trippy how do you split out first-time players versus players that are starting new game i actually have no idea i don't know anything about this the stats i don't know enough to to be able to comment on how that works
+> trippy how do you split out first-time players versus players that are starting new game I actually have no idea I don't know anything about this the stats I don't know enough to to be able to comment on how that works

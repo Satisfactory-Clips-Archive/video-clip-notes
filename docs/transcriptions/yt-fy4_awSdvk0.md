@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [February 8th, 
 
 ### Transcript
 
-> would it be at some point character customization most likely i don't know what to what degree but yeah
+> would it be at some point character customization most likely I don't know what to what degree but yeah

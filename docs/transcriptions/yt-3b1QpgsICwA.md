@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [October 19th, 
 
 ### Transcript
 
-> what game will come out first satisfactory star citizen, good question i i i would guess satisfactory actually, but i don't know i also don't know the state of development for star citizen
+> what game will come out first satisfactory star citizen, good question- I would guess satisfactory actually, but I don't know I also don't know the state of development for star citizen

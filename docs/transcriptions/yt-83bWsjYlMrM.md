@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [November 30th,
 
 ### Transcript
 
-> know any story hints no i don't know i don't know any other story i'm lying i know everything about the story but i'm not telling you
+> know any story hints no I don't know I don't know any other story I'm lying I know everything about the story but I'm not telling you

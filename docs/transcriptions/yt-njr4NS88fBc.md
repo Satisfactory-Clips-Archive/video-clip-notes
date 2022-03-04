@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=njr4NS88fBc
 
 ### Transcript
 
-> yep why are we only females in the game and not male options because that's just the way we made the game in most other games there are only male in the game without female options so i think it's fine
+> yep why are we only females in the game and not male options because that's just the way we made the game in most other games there are only male in the game without female options so I think it's fine

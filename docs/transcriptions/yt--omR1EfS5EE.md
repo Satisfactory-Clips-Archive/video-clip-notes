@@ -18,8 +18,8 @@ https://www.youtube.com/watch?v=-omR1EfS5EE
 
 ### Transcript
 
-> damn it i saw a question i forgot to save it to the list damn it
+> damn it I saw a question I forgot to save it to the list damn it
 >
 > [Music]
 >
-> damn it where'd you go oh yeah, when building belts can we quick switch from normal conveyor post to stackable poles i think so do you remember i just actually just have the game open and just test these things give it a shot it was it was, conveyor pulls to stackable poles mark if you're watching tell me i just realized that i cannot open the game right now i have the game running i can't open it i'm getting an angry because i i i don't know i need to i need to we don't know, vpn and stuff yeah that's a good point maybe that's something that it's cool to do
+> damn it where'd you go oh yeah, when building belts can we quick switch from normal conveyor post to stackable poles I think so do you remember I just actually just have the game open and just test these things give it a shot it was it was, conveyor pulls to stackable poles mark if you're watching tell me I just realized that I cannot open the game right now I have the game running I can't open it I'm getting an angry because- I don't know I need to I need to we don't know, vpn and stuff yeah that's a good point maybe that's something that it's cool to do

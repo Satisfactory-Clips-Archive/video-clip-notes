@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=01kKtFHOsUg
 
 ### Transcript
 
-> bar at the top of the space elevator so it's not a bar it's gonna be a food cart at the top of the space elevator, probably 1.0 you know because it is tied to to the story that's probably one that will imply implemented i know we teased that a bunch but those who wait for something good
+> bar at the top of the space elevator so it's not a bar it's gonna be a food cart at the top of the space elevator, probably 1.0 you know because it is tied to to the story that's probably one that will imply implemented I know we teased that a bunch but those who wait for something good

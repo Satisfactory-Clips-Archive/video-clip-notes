@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [August 31st, 2
 
 ### Transcript
 
-> will there be another game update this month or next month i'm not sure probably not not, don't know whether the new update is coming exactly yet, yes
+> will there be another game update this month or next month I'm not sure probably not not, don't know whether the new update is coming exactly yet, yes

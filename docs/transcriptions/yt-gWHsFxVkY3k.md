@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [May 11th, 2021
 
 ### Transcript
 
-> did you eat your pb j yeah i had it on my stream last night, first time i had a pb j by the way you guys it was, it wasn't like disgusting but also wasn't amazing so it was a very lukewarm experience sorry to any pb j enthusiast out there
+> did you eat your pb j yeah I had it on my stream last night, first time I had a pb j by the way you guys it was, it wasn't like disgusting but also wasn't amazing so it was a very lukewarm experience sorry to any pb j enthusiast out there

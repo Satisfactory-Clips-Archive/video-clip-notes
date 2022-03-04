@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=Y0Z_OwnDN20
 
 ### Transcript
 
-> will the mercy spheres be low related i believe so i believe so and the sam or i can't wait for the story stuff to get in it sounds really fun
+> will the mercy spheres be low related I believe so I believe so and the sam or I can't wait for the story stuff to get in it sounds really fun

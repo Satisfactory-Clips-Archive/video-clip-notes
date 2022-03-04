@@ -24,4 +24,4 @@ https://www.youtube.com/watch?v=BG-xhTN4-0Q
 
 ### Transcript
 
-> how did you come up with the idea of making satisfactory i think factorio was one of the biggest, no things in the beginning yeah the people like when we were, when we were brainstorming our next game a lot of people we all split up and made different games that we could pitch to see what we would like and the people who made satisfactory, were super obsessed with factorio at that time and that ended up being the best game and so we made that
+> how did you come up with the idea of making satisfactory I think factorio was one of the biggest, no things in the beginning yeah the people like when we were, when we were brainstorming our next game a lot of people we all split up and made different games that we could pitch to see what we would like and the people who made satisfactory, were super obsessed with factorio at that time and that ended up being the best game and so we made that

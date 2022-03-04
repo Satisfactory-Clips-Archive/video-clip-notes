@@ -14,4 +14,4 @@ https://youtube.com/clip/UgkxztV6BNVPx4sxLUXaWkpw3RvDv6How96i
 
 ### Transcript
 
-> little bit of a demo now just to demonstrate how you actually set up a server, but i cannot stress enough go to that wiki please link in the description below please visit that wiki that's going to have more up-to-date information i'm just going to give you just what a typical you know set up how to set it up like what what the experience or workflow kind of looks like so that you guys can see what it looks like, here in this video okay so let's just jump over to, let's just jump over to that now okay so welcome to
+> little bit of a demo now just to demonstrate how you actually set up a server, but I cannot stress enough go to that wiki please link in the description below please visit that wiki that's going to have more up-to-date information I'm just going to give you just what a typical you know set up how to set it up like what what the experience or workflow kind of looks like so that you guys can see what it looks like, here in this video okay so let's just jump over to, let's just jump over to that now okay so welcome to

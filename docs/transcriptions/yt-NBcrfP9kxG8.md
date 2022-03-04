@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=NBcrfP9kxG8
 
 ### Transcript
 
-> well one point i'd be out before the world ends depends how quickly the world ends yeah
+> well one point I'd be out before the world ends depends how quickly the world ends yeah

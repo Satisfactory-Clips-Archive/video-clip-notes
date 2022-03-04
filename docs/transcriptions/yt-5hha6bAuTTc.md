@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [February 8th, 
 
 ### Transcript
 
-> will achievements be added, i think at some point yes we're probably gonna be waiting until the game is 1.0 until we add achievements and we're gonna have achievements both for steam and epic but we're waiting until we're done with the game until we do that
+> will achievements be added, I think at some point yes we're probably gonna be waiting until the game is 1.0 until we add achievements and we're gonna have achievements both for steam and epic but we're waiting until we're done with the game until we do that

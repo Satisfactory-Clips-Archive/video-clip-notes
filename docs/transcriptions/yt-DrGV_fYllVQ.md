@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=DrGV_fYllVQ
 
 ### Transcript
 
-> where'd that question go oh my god what's going on you mentioned in the past each game object taking less space will that be true for update for later i'm not sure what you're referring to because i don't think i've ever said that no it's it's the got a lot of sure do all right, okay let's go so no it that's the, like some build things like buildings may end up taking up not less space but will have less objects in it so one building can consist of multiple objects, which counts to the object limit and we will be making changes so that buildings have less objects in them sort of thing yeah essentially the buildings will leave less of a memory footprint that is tracked in the
+> where'd that question go oh my god what's going on you mentioned in the past each game object taking less space will that be true for update for later I'm not sure what you're referring to because I don't think I've ever said that no it's it's the got a lot of sure do all right, okay let's go so no it that's the, like some build things like buildings may end up taking up not less space but will have less objects in it so one building can consist of multiple objects, which counts to the object limit and we will be making changes so that buildings have less objects in them sort of thing yeah essentially the buildings will leave less of a memory footprint that is tracked in the
 >
 > [Music]
 >

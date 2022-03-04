@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=rxDMR1jNQn0
 
 ### Transcript
 
-> anyone know why we respawn after a patch we don't respond after our patch we respawn if you lose the connectivity or or the the the online id that you have that you're assigned if you lose track of that then you reset, hopefully we can fix that sometime soon i'm i kind of wanted to fix that
+> anyone know why we respawn after a patch we don't respond after our patch we respawn if you lose the connectivity or or the the the online id that you have that you're assigned if you lose track of that then you reset, hopefully we can fix that sometime soon I'm I kind of wanted to fix that

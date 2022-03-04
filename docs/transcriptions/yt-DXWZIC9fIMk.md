@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=DXWZIC9fIMk
 
 ### Transcript
 
-> what's hannah's last name jace i can't tell you because i can't say it
+> what's hannah's last name jace I can't tell you because I can't say it
 >
 > [Laughter]
 >

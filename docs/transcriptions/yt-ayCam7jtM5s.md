@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=ayCam7jtM5s
 
 ### Transcript
 
-> we'll be able to upgrade entire length of belt versus section by section that's, you'll probably have to go to the qa site to leave that suggestion yeah, and and we can sort of take that into consideration, i'm not really sure honestly yeah but i could see i could see why you would want it can we might be really hard to do ux wise yeah but maybe it might be too ip as well
+> we'll be able to upgrade entire length of belt versus section by section that's, you'll probably have to go to the qa site to leave that suggestion yeah, and and we can sort of take that into consideration, I'm not really sure honestly yeah but I could see I could see why you would want it can we might be really hard to do ux wise yeah but maybe it might be too ip as well

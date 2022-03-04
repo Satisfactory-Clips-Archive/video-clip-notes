@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=AnhjxHz7VgM
 
 ### Transcript
 
-> do i take damage if i'm playing the package game while the hub is running that's it you know what we could try them for science that's a good point a question actually i'm pretty sure you do, because it's just a menu just always on top of you so it's like standing on it's the same thing as standing on the node as if you had the build menu open pretty much
+> do I take damage if I'm playing the package game while the hub is running that's it you know what we could try them for science that's a good point a question actually I'm pretty sure you do, because it's just a menu just always on top of you so it's like standing on it's the same thing as standing on the node as if you had the build menu open pretty much

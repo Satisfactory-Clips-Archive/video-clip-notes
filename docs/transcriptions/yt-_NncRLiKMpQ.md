@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=_NncRLiKMpQ
 
 ### Transcript
 
-> how's the barrel scanner bug coming along yeah i started looking into that and i couldn't fix it easily, it needed more work which is probably why that still hasn't been fixed because it's probably not an easy solution, so yes
+> how's the barrel scanner bug coming along yeah I started looking into that and I couldn't fix it easily, it needed more work which is probably why that still hasn't been fixed because it's probably not an easy solution, so yes

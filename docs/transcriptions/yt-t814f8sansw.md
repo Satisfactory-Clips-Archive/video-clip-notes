@@ -20,4 +20,4 @@ https://www.youtube.com/watch?v=t814f8sansw
 
 ### Transcript
 
-> yeah, there will be will there be an update on, so i think what you're asking here is will epic and steam have the same updates and stuff yeah they're gonna be the same versions
+> yeah, there will be will there be an update on, so I think what you're asking here is will epic and steam have the same updates and stuff yeah they're gonna be the same versions

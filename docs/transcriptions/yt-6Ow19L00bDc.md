@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=6Ow19L00bDc
 
 ### Transcript
 
-> how's update 5 coming along any new structures, yeah i think there will be new structures but it's coming along nicely but not a lot is happening right because it's, it's it's vacation yeah
+> how's update 5 coming along any new structures, yeah I think there will be new structures but it's coming along nicely but not a lot is happening right because it's, it's it's vacation yeah

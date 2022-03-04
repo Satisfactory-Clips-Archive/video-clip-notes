@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [May 11th, 2021
 
 ### Transcript
 
-> daisy chaining machines when that's not something that we are going to do we made an exception for that for lights and power storages just because, those were it made sense in those cases but we're not going to add daisy chaining to the other factories i'm pretty sure
+> daisy chaining machines when that's not something that we are going to do we made an exception for that for lights and power storages just because, those were it made sense in those cases but we're not going to add daisy chaining to the other factories I'm pretty sure

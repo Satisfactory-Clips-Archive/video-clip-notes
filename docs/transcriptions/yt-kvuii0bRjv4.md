@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [December 7th, 
 
 ### Transcript
 
-> has anyone else about splitter issues before yeah yeah they have that's been requested i think it's probably on the qa site if it isn't put it there
+> has anyone else about splitter issues before yeah yeah they have that's been requested I think it's probably on the qa site if it isn't put it there

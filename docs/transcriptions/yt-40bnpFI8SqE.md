@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [November 9th, 
 
 ### Transcript
 
-> is there any possibility guys you will be add the making of circles i guess circle foundations because if you make them now it's laggy, yeah it would be laggy because you add like a lot of foundations right to force a circle, that would make it pretty laggy, yeah we might, circles kind of yes we just have to make new systems i think for that awesome
+> is there any possibility guys you will be add the making of circles I guess circle foundations because if you make them now it's laggy, yeah it would be laggy because you add like a lot of foundations right to force a circle, that would make it pretty laggy, yeah we might, circles kind of yes we just have to make new systems I think for that awesome

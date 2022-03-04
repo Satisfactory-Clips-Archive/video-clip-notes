@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=JFYNrAFgkko
 
 ### Transcript
 
-> was that what i didn't hear anything
+> was that what I didn't hear anything
 >
 > [Music]
 >

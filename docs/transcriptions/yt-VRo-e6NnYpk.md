@@ -16,8 +16,8 @@ This question was possibly duplicated with a more recent answer: [September 22nd
 
 ### Transcript
 
-> so maybe i don't know can we choose the jenner of the player, right now the gender is female
+> so maybe I don't know can we choose the jenner of the player, right now the gender is female
 >
 > [Music]
 >
-> and, maybe in the future we'll have like some kind of character customization, i don't know maybe possibly
+> and, maybe in the future we'll have like some kind of character customization, I don't know maybe possibly

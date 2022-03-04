@@ -18,6 +18,6 @@ https://www.youtube.com/watch?v=RBoV0E1Dpfc
 
 ### Transcript
 
-> thoughts on being able to copy paste buildings with the settings also copied so that you don't have to copy each building separately that's a feature that i would love to have like i felt i felt that i've wanted it i felt the need for it, i mean you know qa site make sure it's requested there if it is there upvote it
+> thoughts on being able to copy paste buildings with the settings also copied so that you don't have to copy each building separately that's a feature that I would love to have like I felt I felt that I've wanted it I felt the need for it, I mean you know qa site make sure it's requested there if it is there upvote it
 >
 > [Music]

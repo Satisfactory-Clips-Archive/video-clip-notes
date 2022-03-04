@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=qX71nlh8IZQ
 
 ### Transcript
 
-> we have a cutscene of jason's ps5 put that on i put it on twitter actually it's there i mean it's also interesting yeah still have black marks on it maybe maybe the ps5 will have to make another appearance in the next patch notes video
+> we have a cutscene of jason's ps5 put that on I put it on twitter actually it's there I mean it's also interesting yeah still have black marks on it maybe maybe the ps5 will have to make another appearance in the next patch notes video
 >
 > [Laughter]
 >

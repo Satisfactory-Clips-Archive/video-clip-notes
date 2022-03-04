@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [September 14th
 
 ### Transcript
 
-> can you add trucks that carry liquids i don't know i'll put them on the q a side
+> can you add trucks that carry liquids I don't know I'll put them on the q a side

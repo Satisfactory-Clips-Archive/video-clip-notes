@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=vTDAIk8UZ1E
 
 ### Transcript
 
-> anyway golf we need to make yo i am on that okay i am making a command for that right now, do i have that open somewhere ah stupid snipe don't all right i'll try to remember that last time maybe i'll just do it now it's always awkward to do things on stream when jason's in here because i can't like, no i can't do it now actually stupid anyway i'll post the, i'll post the link again
+> anyway golf we need to make yo I am on that okay I am making a command for that right now, do I have that open somewhere ah stupid snipe don't all right I'll try to remember that last time maybe I'll just do it now it's always awkward to do things on stream when jason's in here because I can't like, no I can't do it now actually stupid anyway I'll post the, I'll post the link again

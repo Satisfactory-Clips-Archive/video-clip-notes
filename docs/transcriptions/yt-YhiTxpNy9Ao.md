@@ -16,4 +16,4 @@ This question was possibly replaced with a more recent answer: [February 9th, 20
 
 ### Transcript
 
-> probably gonna wait, i need the coffee mug like i like in the game i play but the cover guppy is in the game you can get the coffee cup in the game get that cup get that cup, i need that cup for christmas hopefully we can get in for christmas
+> probably gonna wait, I need the coffee mug like I like in the game I play but the cover guppy is in the game you can get the coffee cup in the game get that cup get that cup, I need that cup for christmas hopefully we can get in for christmas

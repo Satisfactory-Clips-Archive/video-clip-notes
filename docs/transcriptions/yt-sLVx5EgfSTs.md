@@ -42,4 +42,4 @@ https://www.youtube.com/watch?v=sLVx5EgfSTs
 
 ### Transcript
 
-> this gives the toilet flush dlc i wonder i want to that is that is the biggest crime that we haven't done it already yeah it really is 54 that's gonna that's gonna be my magnum opus once that dlc comes out i'm dropping the mic and out yeah because where do i go where do i go from there
+> this gives the toilet flush dlc I wonder I want to that is that is the biggest crime that we haven't done it already yeah it really is 54 that's gonna that's gonna be my magnum opus once that dlc comes out I'm dropping the mic and out yeah because where do I go where do I go from there

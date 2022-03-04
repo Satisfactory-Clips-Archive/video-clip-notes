@@ -21,4 +21,4 @@ https://www.youtube.com/watch?v=AsHymUPXtrU
 
 ### Transcript
 
-> when will trains be fixed i mean the reason we don't really comment on those kind of comments is because that doesn't what's what problem are you having yeah you need to be more specific is it gonna be fixed when's multiplayer gonna be fixed i don't know what you're talking about yeah well like what problem are you having in particular
+> when will trains be fixed I mean the reason we don't really comment on those kind of comments is because that doesn't what's what problem are you having yeah you need to be more specific is it gonna be fixed when's multiplayer gonna be fixed I don't know what you're talking about yeah well like what problem are you having in particular

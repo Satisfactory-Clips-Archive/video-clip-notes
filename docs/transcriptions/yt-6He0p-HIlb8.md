@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=6He0p-HIlb8
 
 ### Transcript
 
-> god of war cosplay when when i get beefcakes i am not beefcake enough
+> god of war cosplay when when I get beefcakes I am not beefcake enough

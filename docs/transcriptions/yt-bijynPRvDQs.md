@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=bijynPRvDQs
 
 ### Transcript
 
-> would be better if those pngs have been running around i think that was, mj's on the community magical studios yeah we need to, p people have been asking for like a simon image for the spiders for arachnophobia mode that would be pretty good
+> would be better if those pngs have been running around I think that was, mj's on the community magical studios yeah we need to, p people have been asking for like a simon image for the spiders for arachnophobia mode that would be pretty good

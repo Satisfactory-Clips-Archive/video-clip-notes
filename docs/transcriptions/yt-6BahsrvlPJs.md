@@ -20,4 +20,4 @@ https://www.youtube.com/watch?v=6BahsrvlPJs
 
 ### Transcript
 
-> don't know we'll see we'll be able to call our vehicles some personal containers after the engine upgrade not after our engine update but we will be able to color vehicles at some point i'm pretty sure
+> don't know we'll see we'll be able to call our vehicles some personal containers after the engine upgrade not after our engine update but we will be able to color vehicles at some point I'm pretty sure

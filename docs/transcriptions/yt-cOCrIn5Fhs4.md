@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=cOCrIn5Fhs4
 
 ### Transcript
 
-> how's the weather a little rainy someone asked before if it's still raining equipped then it looks like it is is it raining over there no not at all it hasn't rained all day and i know because i've been outside all day almost nice nice
+> how's the weather a little rainy someone asked before if it's still raining equipped then it looks like it is is it raining over there no not at all it hasn't rained all day and I know because I've been outside all day almost nice nice

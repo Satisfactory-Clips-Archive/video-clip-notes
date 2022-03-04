@@ -25,4 +25,4 @@ https://www.youtube.com/watch?v=UdJROx6rvdg
 
 ### Transcript
 
-> teleporters which can teleport you but requires insane amount of energy to use and use some form of legume element as a resource wouldn't be funny if every time you use the teleporter your factory work it comes at a cost yeah balancing very nice yeah i mean i mean request on the qa side teleporter would be pretty sweet i guess
+> teleporters which can teleport you but requires insane amount of energy to use and use some form of legume element as a resource wouldn't be funny if every time you use the teleporter your factory work it comes at a cost yeah balancing very nice yeah I mean I mean request on the qa side teleporter would be pretty sweet I guess

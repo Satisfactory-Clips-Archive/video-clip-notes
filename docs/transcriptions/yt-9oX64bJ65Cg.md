@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [February 22nd,
 
 ### Transcript
 
-> it was the man cannon an intended behavior for hypotubes or a bug i think it was a bug but i think we're okay with it what was the oh you mean the the cannons like they just launched yourself like that that was not intentional
+> it was the man cannon an intended behavior for hypotubes or a bug I think it was a bug but I think we're okay with it what was the oh you mean the the cannons like they just launched yourself like that that was not intentional

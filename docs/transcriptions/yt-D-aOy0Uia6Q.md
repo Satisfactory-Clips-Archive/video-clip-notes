@@ -20,4 +20,4 @@ This question was possibly replaced with a more recent answer: [March 30th, 2021
 
 ### Transcript
 
-> i have a cold power plant fully overclocked generates an output that is unprecise due to the scale would you make the overclocking numbers more precise easier matter, i don't i don't know but i don't think so, it's kind of the manner of the the overclocking itself that kind of makes it like that, but i'm not quite sure maybe maybe not, make sure to upload that on the q website if this is something that you feel strongly about
+> I have a cold power plant fully overclocked generates an output that is unprecise due to the scale would you make the overclocking numbers more precise easier matter, I don't I don't know but I don't think so, it's kind of the manner of the the overclocking itself that kind of makes it like that, but I'm not quite sure maybe maybe not, make sure to upload that on the q website if this is something that you feel strongly about

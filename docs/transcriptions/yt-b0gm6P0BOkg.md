@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [June 8th, 2021
 
 ### Transcript
 
-> mk2 trains maybe after we're done with mk1 trains yeah no i actually don't know if we're done with mark 1 trains yeah i don't know if we'd need it no
+> mk2 trains maybe after we're done with mk1 trains yeah no I actually don't know if we're done with mark 1 trains yeah I don't know if we'd need it no

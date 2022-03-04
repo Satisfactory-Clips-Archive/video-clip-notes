@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [November 9th, 
 
 ### Transcript
 
-> yeah any easter eggs nobody's found yet, i think so but it's kind of hard to know what people have found yeah exactly yeah
+> yeah any easter eggs nobody's found yet, I think so but it's kind of hard to know what people have found yeah exactly yeah

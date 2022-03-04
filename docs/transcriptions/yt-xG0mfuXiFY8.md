@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [November 10th,
 
 ### Transcript
 
-> all this that's really hard what's the final objective in the game you need to complete project assembly and that's all i can say that's the one
+> all this that's really hard what's the final objective in the game you need to complete project assembly and that's all I can say that's the one

@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=3Dvfr0Nx0Ww
 
 ### Transcript
 
-> we can have doggo houses that's now that's a hardening question that would be cool i would be able to i would love it if we could be able to name the list of doggos i think that would be pretty sweet
+> we can have doggo houses that's now that's a hardening question that would be cool I would be able to I would love it if we could be able to name the list of doggos I think that would be pretty sweet

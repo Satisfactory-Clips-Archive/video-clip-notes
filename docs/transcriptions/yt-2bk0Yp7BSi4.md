@@ -18,7 +18,7 @@ This question was possibly duplicated with a more recent answer: [June 8th, 2021
 
 ### Transcript
 
-> do you need to make another engine upgrade to make the cyber wagon wheels round that's such a good question, yeah cyber wagon wheels won't be round until unreal engine five i i think like i don't i think we need the tech we need what's it called the
+> do you need to make another engine upgrade to make the cyber wagon wheels round that's such a good question, yeah cyber wagon wheels won't be round until unreal engine five- I think like I don't I think we need the tech we need what's it called the
 >
 > [Music]
 >

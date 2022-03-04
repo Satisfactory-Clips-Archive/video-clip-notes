@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=aNjrI1SZYRY
 
 ### Transcript
 
-> just as long as it comes to dedicated servers i don't care how long it takes oh you don't care oh oh more time for us oh delayed again 1.0 and dedicated service will come out in 15 years
+> just as long as it comes to dedicated servers I don't care how long it takes oh you don't care oh oh more time for us oh delayed again 1.0 and dedicated service will come out in 15 years

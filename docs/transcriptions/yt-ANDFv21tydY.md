@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [April 20th, 20
 
 ### Transcript
 
-> hmm i'm excited are they going to be lower teasers in the game before launch hmm i don't know maybe i feel i feel like that's a very big possibility i don't even know exactly how we would do it just yet but we don't have to think about it anytime soon since the, 1.0 won't be, until maybe for some time until we're both 50.
+> hmm I'm excited are they going to be lower teasers in the game before launch hmm I don't know maybe I feel I feel like that's a very big possibility I don't even know exactly how we would do it just yet but we don't have to think about it anytime soon since the, 1.0 won't be, until maybe for some time until we're both 50.

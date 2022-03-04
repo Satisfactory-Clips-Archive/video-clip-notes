@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=uqKyjrtWJ7M
 
 ### Transcript
 
-> you play the game well i did when we were making trailers for it but after that i needed therapy because holy play the game like woke up worked worked on trailer stuff by playing the game building and went to bed and that was my day every day for like three weeks it was awful and then i was like i'm out i don't have to do this anymore and then we need to do i needed to like jump in on the actual trailer and help out so i need to do more of that it was awful didn't rage quits i mean kinda i needed therapy
+> you play the game well I did when we were making trailers for it but after that I needed therapy because holy play the game like woke up worked worked on trailer stuff by playing the game building and went to bed and that was my day every day for like three weeks it was awful and then I was like I'm out I don't have to do this anymore and then we need to do I needed to like jump in on the actual trailer and help out so I need to do more of that it was awful didn't rage quits I mean kinda I needed therapy

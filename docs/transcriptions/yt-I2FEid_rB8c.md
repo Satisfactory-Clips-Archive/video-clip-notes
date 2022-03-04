@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=I2FEid_rB8c
 
 ### Transcript
 
-> any plans for a possible repeatable project for end game project assembly i'm not sure what you mean by repeatable project you mean like a like a like a task that you can just keep doing over and over like it just keeps giving you like send more send more send more
+> any plans for a possible repeatable project for end game project assembly I'm not sure what you mean by repeatable project you mean like a like a like a task that you can just keep doing over and over like it just keeps giving you like send more send more send more

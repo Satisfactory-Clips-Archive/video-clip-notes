@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=KVnmJKVYqZE
 
 ### Transcript
 
-> will there be an option to craft lower tier items such as screws and assemblies manufacturers or and products so accelerated just multiple times faster, i don't know i can't i kind of doubt it i feel like that's something that's not going to happen but you can always leave that suggestion on our qa site questions on satisfactorygame.com let's questions, and or see if other people have, suggested and then upvote it
+> will there be an option to craft lower tier items such as screws and assemblies manufacturers or and products so accelerated just multiple times faster, I don't know I can't I kind of doubt it I feel like that's something that's not going to happen but you can always leave that suggestion on our qa site questions on satisfactorygame.com let's questions, and or see if other people have, suggested and then upvote it

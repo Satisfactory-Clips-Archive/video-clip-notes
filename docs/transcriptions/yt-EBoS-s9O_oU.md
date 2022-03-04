@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [November 16th,
 
 ### Transcript
 
-> i've played an experimental for a while and now i can't load my save on previous version do you have to wait for update for it to play it on stable version yes this is this is why i'm i i always like emphasize on the fact that you have to back up your saves because you can't go back to a previous version of the game, when you when you play you can only load save files in a newer version or the same version as, the one you played so you you you're gonna have to wait until it hits early access
+> I've played an experimental for a while and now I can't load my save on previous version do you have to wait for update for it to play it on stable version yes this is this is why I'm- I always like emphasize on the fact that you have to back up your saves because you can't go back to a previous version of the game, when you when you play you can only load save files in a newer version or the same version as, the one you played so you you you're gonna have to wait until it hits early access

@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=NxUuFfkp2zE
 
 ### Transcript
 
-> hola, indoor factories are very dark we'll be getting lighting to add to our bases so that's something that's been requested a lot it's something that we want to add, there's some difficulties with, adding them it's actually kind of hard to do so i i think it's gonna happen but i don't know when yeah
+> hola, indoor factories are very dark we'll be getting lighting to add to our bases so that's something that's been requested a lot it's something that we want to add, there's some difficulties with, adding them it's actually kind of hard to do so- I think it's gonna happen but I don't know when yeah

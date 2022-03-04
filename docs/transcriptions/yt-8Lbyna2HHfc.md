@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=8Lbyna2HHfc
 
 ### Transcript
 
-> yeah the resource scanner should ignore looted crash sites i've tried to solve this once it was more work than i wanted it to be this is the same case where if you use the resource scanner and you run into a bush and you pick up the berry it will still ping the same bush even though you've already picked up the berry i set out to to fix that and the way the resource scanner was built made it really difficult to solve that so we'd need to probably redo how the resource scanner works to be able to do that but i don't think it's not going to happen, i think if i just threw more time on it then i would have solved it
+> yeah the resource scanner should ignore looted crash sites I've tried to solve this once it was more work than I wanted it to be this is the same case where if you use the resource scanner and you run into a bush and you pick up the berry it will still ping the same bush even though you've already picked up the berry I set out to to fix that and the way the resource scanner was built made it really difficult to solve that so we'd need to probably redo how the resource scanner works to be able to do that but I don't think it's not going to happen, I think if I just threw more time on it then I would have solved it
 >
 > [Music]
 >

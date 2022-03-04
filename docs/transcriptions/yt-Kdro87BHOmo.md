@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=Kdro87BHOmo
 
 ### Transcript
 
-> will we get rebindable copy paste that's a good question i actually don't know, same thing upload the keyword site but that's a pretty, good question
+> will we get rebindable copy paste that's a good question I actually don't know, same thing upload the keyword site but that's a pretty, good question

@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=1a099owXMxE
 
 ### Transcript
 
-> coffee shop by him i mean well there's probably a coffee shop in a food court you know there is there is made of the, the nuts yeah coffee out of those that's what anyway, i mean the coffee had to come from somewhere right the food courts it makes sense
+> coffee shop by him I mean well there's probably a coffee shop in a food court you know there is there is made of the, the nuts yeah coffee out of those that's what anyway, I mean the coffee had to come from somewhere right the food courts it makes sense

@@ -24,4 +24,4 @@ https://www.youtube.com/watch?v=piDbzK70HdU
 
 ### Transcript
 
-> did you ever say if dlss was coming we have said that, we would require to upgrade the engine at some point to be able to do that, and and maybe we'll do that so it's possible that dlss can come to the game at some point, i'd say it's likely if if if that works that is like it's they say that it's plug and play with that, like the functionality of that we'll see okay we'll see it just works right yep
+> did you ever say if dlss was coming we have said that, we would require to upgrade the engine at some point to be able to do that, and and maybe we'll do that so it's possible that dlss can come to the game at some point, I'd say it's likely if if if that works that is like it's they say that it's plug and play with that, like the functionality of that we'll see okay we'll see it just works right yep

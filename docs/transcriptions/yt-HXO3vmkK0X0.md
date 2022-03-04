@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=HXO3vmkK0X0
 
 ### Transcript
 
-> any update on the slugs bug, which one there's multiple slug bugs, luckily you can't pick b can't be picked up can't be picked up, i don't know but we'll probably fix that at some point it sounds like a thing we want to fix but i don't know when
+> any update on the slugs bug, which one there's multiple slug bugs, luckily you can't pick b can't be picked up can't be picked up, I don't know but we'll probably fix that at some point it sounds like a thing we want to fix but I don't know when

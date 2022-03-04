@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [November 2nd, 
 
 ### Transcript
 
-> that's pretty good they're gonna be new creatures there's the big crab that's coming soon after that i'm not sure
+> that's pretty good they're gonna be new creatures there's the big crab that's coming soon after that I'm not sure

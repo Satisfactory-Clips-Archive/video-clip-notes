@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=9e3AzoHz4yI
 
 ### Transcript
 
-> we'll add will we add new aquatic forms that we could choke with chaotic evil factory pollution right yowzers will it be new alien life forms of life they'll be the big crab they'll be the big crab and i guess it's technically aquatic
+> we'll add will we add new aquatic forms that we could choke with chaotic evil factory pollution right yowzers will it be new alien life forms of life they'll be the big crab they'll be the big crab and I guess it's technically aquatic

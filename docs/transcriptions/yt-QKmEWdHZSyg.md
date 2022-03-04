@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=QKmEWdHZSyg
 
 ### Transcript
 
-> are mushrooms going to regrow i don't know i don't think the the berry bushes and the nuts bushes do but not the mushrooms right now i think but it might happen in the future i don't know
+> are mushrooms going to regrow I don't know I don't think the the berry bushes and the nuts bushes do but not the mushrooms right now I think but it might happen in the future I don't know

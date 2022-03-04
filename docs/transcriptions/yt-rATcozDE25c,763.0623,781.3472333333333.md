@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [February 15th,
 
 ### Transcript
 
-> so as i answered just in the previous question no basically we haven't even finished the current map, so probably not there there has been some talk of it and it pretty much just gets shot down every time so i don't i don't think it's happening i don't think it's happening what was your thought process behind the
+> so as I answered just in the previous question no basically we haven't even finished the current map, so probably not there there has been some talk of it and it pretty much just gets shot down every time so I don't I don't think it's happening I don't think it's happening what was your thought process behind the

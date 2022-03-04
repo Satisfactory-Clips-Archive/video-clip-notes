@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=oU5O751x1Cg
 
 ### Transcript
 
-> are you saying dinosaurs i mean have you been paying attention to the creatures on the world they they got some they got some dinosaur going on dinosaurs in update five you guys hell yeah dinosaurs confirmed, very good
+> are you saying dinosaurs I mean have you been paying attention to the creatures on the world they they got some they got some dinosaur going on dinosaurs in update five you guys hell yeah dinosaurs confirmed, very good

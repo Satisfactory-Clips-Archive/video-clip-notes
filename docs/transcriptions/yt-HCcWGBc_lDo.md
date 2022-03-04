@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [August 31st, 2
 
 ### Transcript
 
-> will the soundtrack be released on spotify so i think we would like to do that at some point there's just some things we need to figure out and also i think we're waiting until we have all the music because there might be more music i believe that's the current state of things
+> will the soundtrack be released on spotify so I think we would like to do that at some point there's just some things we need to figure out and also I think we're waiting until we have all the music because there might be more music I believe that's the current state of things

@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: November 9th, 2
 
 ### Transcript
 
-> what about conveyor belts under the ceiling clips of the scene that's that's, that's something that's perfect to go to the qa side and up vote if it doesn't already exist, i think that's a really cool feature i would like to have that in the game i don't know what we're planning but, please go to the q a site and upload that stuff so we can so we know it has to have you know a thousand upwards or whatever a thousand and one
+> what about conveyor belts under the ceiling clips of the scene that's that's, that's something that's perfect to go to the qa side and up vote if it doesn't already exist, I think that's a really cool feature I would like to have that in the game I don't know what we're planning but, please go to the q a site and upload that stuff so we can so we know it has to have you know a thousand upwards or whatever a thousand and one

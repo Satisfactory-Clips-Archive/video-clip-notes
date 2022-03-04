@@ -18,8 +18,8 @@ This question was possibly replaced with a more recent answer: [October 8th, 202
 
 ### Transcript
 
-> how much work on the chains we'll see in update five there's a couple of bug fixes that i know for sure are gonna make it in there
+> how much work on the chains we'll see in update five there's a couple of bug fixes that I know for sure are gonna make it in there
 >
 > [Music]
 >
-> i think maybe that's later i don't know there's there's probably gonna be something because there's been a few like at least like bug faces for training because there's been a few issues that we have neglected for a long time i think
+> I think maybe that's later I don't know there's there's probably gonna be something because there's been a few like at least like bug faces for training because there's been a few issues that we have neglected for a long time I think

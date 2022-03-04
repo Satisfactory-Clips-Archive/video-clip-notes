@@ -24,4 +24,4 @@ https://www.youtube.com/watch?v=JjyzyUK5tj8
 
 ### Transcript
 
-> the satisfactory run on linux i mean we don't make it for linux we didn't support it for linux you know at least not now we would like to at some point in the future but we'll see but people have had success getting it to run on linux, using proton i believe
+> the satisfactory run on linux I mean we don't make it for linux we didn't support it for linux you know at least not now we would like to at some point in the future but we'll see but people have had success getting it to run on linux, using proton I believe

@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=5TxeF2BU7Yo
 
 ### Transcript
 
-> marv i think that says more about you than it does us dog yeah what are you implying here we're talking about literal holes yes
+> marv I think that says more about you than it does us dog yeah what are you implying here we're talking about literal holes yes

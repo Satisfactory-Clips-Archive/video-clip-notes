@@ -22,4 +22,4 @@ https://www.youtube.com/watch?v=WbKIIe_sffI
 
 ### Transcript
 
-> is there any lower behind the world the game is, on it looked like it was once underwater judging by landscape yeah so there's like a lot of like like corally looking things right, scattered around the world, there's lore about the world i can't really say much about it i'm not sure i don't know if there's specific lore that addresses the nature of that landscape in the way that you're talking about or not
+> is there any lower behind the world the game is, on it looked like it was once underwater judging by landscape yeah so there's like a lot of like like corally looking things right, scattered around the world, there's lore about the world I can't really say much about it I'm not sure I don't know if there's specific lore that addresses the nature of that landscape in the way that you're talking about or not

@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=vSJ0V15Mlow
 
 ### Transcript
 
-> we have no idea, i'm on a work hall trying to lip read speak slower yeah we should look into getting the the closed captions closed caption thing going yeah if we can get it to work for both of our voices then yeah yeah that was the thing we were looking into that last year, is that your oven singing in the background dog
+> we have no idea, I'm on a work hall trying to lip read speak slower yeah we should look into getting the the closed captions closed caption thing going yeah if we can get it to work for both of our voices then yeah yeah that was the thing we were looking into that last year, is that your oven singing in the background dog

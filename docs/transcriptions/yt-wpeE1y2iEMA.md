@@ -16,8 +16,8 @@ This question was possibly duplicated with a more recent answer: [February 22nd,
 
 ### Transcript
 
-> visit the food court might be cool yeah maybe i don't know when we'll add that, would be i'm pretty sure you're gonna be able to visit it
+> visit the food court might be cool yeah maybe I don't know when we'll add that, would be I'm pretty sure you're gonna be able to visit it
 >
 > [Music]
 >
-> i think that's still on the table
+> I think that's still on the table

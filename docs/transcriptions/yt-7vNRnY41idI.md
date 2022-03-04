@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=7vNRnY41idI
 
 ### Transcript
 
-> what's matching beards part of the plane cause you two are winning we don't have matching beards what are you talking about i'm talking about the beard type that we have we do have beards if that's the the matchiness of it
+> what's matching beards part of the plane cause you two are winning we don't have matching beards what are you talking about I'm talking about the beard type that we have we do have beards if that's the the matchiness of it

@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=fq7MwDA2py8
 
 ### Transcript
 
-> just build a little factory is the sky above finishing yeah i mean that's fairly safe i guess someone needs to make a sky factory the whole factory on a big platform in the sky someone needs to make midgar that's what i want i'm saying like i want to i want to see a mid gar factory big pizza in the sky need to login to vote make sure you log in cloud foundations yeah welcome to movie factory yeah that would be pretty cool
+> just build a little factory is the sky above finishing yeah I mean that's fairly safe I guess someone needs to make a sky factory the whole factory on a big platform in the sky someone needs to make midgar that's what I want I'm saying like I want to I want to see a mid gar factory big pizza in the sky need to login to vote make sure you log in cloud foundations yeah welcome to movie factory yeah that would be pretty cool

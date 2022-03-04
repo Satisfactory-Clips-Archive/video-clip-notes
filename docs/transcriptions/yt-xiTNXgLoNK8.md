@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [September 28th
 
 ### Transcript
 
-> it will satisfactories support ray tracing i don't know maybe in the future but we don't really focus on that right now
+> it will satisfactories support ray tracing I don't know maybe in the future but we don't really focus on that right now

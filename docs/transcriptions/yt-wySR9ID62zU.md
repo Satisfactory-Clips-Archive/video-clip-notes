@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [April 20th, 20
 
 ### Transcript
 
-> yeah what's the storyline of satisfactory is this after deep rock galactic it's not in the same universe as deep rock, but i can't say anything about the storyline
+> yeah what's the storyline of satisfactory is this after deep rock galactic it's not in the same universe as deep rock, but I can't say anything about the storyline

@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=foek1b3z0kI
 
 ### Transcript
 
-> i used to watch stuff together, what is the superposition oscillator crystal for description hint at teleportation i don't know
+> I used to watch stuff together, what is the superposition oscillator crystal for description hint at teleportation I don't know

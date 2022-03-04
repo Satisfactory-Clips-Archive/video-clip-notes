@@ -34,4 +34,4 @@ https://www.youtube.com/watch?v=4uejLZj2lCk
 
 ### Transcript
 
-> after 1.0 will you still keep supporting the game we'll just move on we'll sort of just have to see how that goes like i think there are many ideas we can do past 1.0 but yeah it's just something that right now we just need to focus on getting to 1.0 and then we'll sort of see what state the game's in and we'll see what the team wants to do figure it out later that's that's a that's a later issue so many variables that can affect the outcome of that decision you know so who knows
+> after 1.0 will you still keep supporting the game we'll just move on we'll sort of just have to see how that goes like I think there are many ideas we can do past 1.0 but yeah it's just something that right now we just need to focus on getting to 1.0 and then we'll sort of see what state the game's in and we'll see what the team wants to do figure it out later that's that's a that's a later issue so many variables that can affect the outcome of that decision you know so who knows

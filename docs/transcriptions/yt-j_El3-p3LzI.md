@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=j_El3-p3LzI
 
 ### Transcript
 
-> it's a food court pizza are almost gone in europe that's a shame pizza in sweden is really good actually like it's it's i know that people always like don't believe us when i say that but like in sweden specifically the pizza is like very well managed and like they have really good pizza, so yeah
+> it's a food court pizza are almost gone in europe that's a shame pizza in sweden is really good actually like it's it's I know that people always like don't believe us when I say that but like in sweden specifically the pizza is like very well managed and like they have really good pizza, so yeah

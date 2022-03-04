@@ -18,4 +18,4 @@ https://youtube.com/clip/UgkxRT_6nzgEfU7ffNARf4A2Sryn8R83sglP
 
 ### Transcript
 
-> of warning though is that whenever you make the switch be sure to backup your save files because if you play on experimental which is a newer version and you play there you save but you run into issues want to go back to early access for stability reasons your save file might not be compatible anymore okay so make sure you back up your saves so one thing i want to talk about real quick is a lot of people have a lot of
+> of warning though is that whenever you make the switch be sure to backup your save files because if you play on experimental which is a newer version and you play there you save but you run into issues want to go back to early access for stability reasons your save file might not be compatible anymore okay so make sure you back up your saves so one thing I want to talk about real quick is a lot of people have a lot of

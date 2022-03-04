@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=Aflfj7-LF6w
 
 ### Transcript
 
-> quantum computers don't exist yet i overlooked something crash capsules are still needed among quantum computers, will exist they do exist there's there's there's been one way so far where you can acquire quantum computers in the game so far, no spoilers i have one yeah there's only you can only get one or two i think you could get i'm not gonna talk too much about it actually if you wanna if you want information i'll look it up you're not gonna get it through me at least for that stuff because it's a little bit spoiler territory
+> quantum computers don't exist yet I overlooked something crash capsules are still needed among quantum computers, will exist they do exist there's there's there's been one way so far where you can acquire quantum computers in the game so far, no spoilers I have one yeah there's only you can only get one or two I think you could get I'm not gonna talk too much about it actually if you wanna if you want information I'll look it up you're not gonna get it through me at least for that stuff because it's a little bit spoiler territory

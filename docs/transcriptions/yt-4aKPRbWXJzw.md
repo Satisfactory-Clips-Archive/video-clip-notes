@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=4aKPRbWXJzw
 
 ### Transcript
 
-> are you suggesting you have other houses on other planets jace didn't you see in the community highlight you see where i live look really nice
+> are you suggesting you have other houses on other planets jace didn't you see in the community highlight you see where I live look really nice

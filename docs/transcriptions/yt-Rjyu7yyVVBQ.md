@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=Rjyu7yyVVBQ
 
 ### Transcript
 
-> yep what do you call something brown and sticky a brown stick yeah you're such a [ __ ] disappointment i love the i can [ __ ] disappoint
+> yep what do you call something brown and sticky a brown stick yeah you're such a [ __ ] disappointment I love the I can [ __ ] disappoint

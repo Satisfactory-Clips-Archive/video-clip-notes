@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=JvI8MOw8Ff8
 
 ### Transcript
 
-> i would suggest switching to unity yeah we'll we'll do that now we'll switch to unity okay yeah rip
+> I would suggest switching to unity yeah we'll we'll do that now we'll switch to unity okay yeah rip

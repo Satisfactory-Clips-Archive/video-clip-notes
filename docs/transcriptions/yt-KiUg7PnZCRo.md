@@ -16,7 +16,7 @@ This question was possibly duplicated with a more recent answer: December 7th, 2
 
 ### Transcript
 
-> do you think in the far future satisfaction you can get an engine updated unreal engine 5, not anytime soon it's not really in the plans, at the moment yeah so i think the short answer is no but you never know like you never know but right now it's not really something that we
+> do you think in the far future satisfaction you can get an engine updated unreal engine 5, not anytime soon it's not really in the plans, at the moment yeah so I think the short answer is no but you never know like you never know but right now it's not really something that we
 >
 > [Music]
 >

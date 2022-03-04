@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=Q4BRujPmgN0
 
 ### Transcript
 
-> since you have a cup of coffee how about a spit-taking mode oh i like that just spit your coffee out on someone's face i'll be down for that weird weird flex
+> since you have a cup of coffee how about a spit-taking mode oh I like that just spit your coffee out on someone's face I'll be down for that weird weird flex

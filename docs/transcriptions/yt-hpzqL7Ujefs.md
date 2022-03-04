@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=hpzqL7Ujefs
 
 ### Transcript
 
-> is the second map planned for like few months after release no there is no second map planned we've been working on this map for you know let's see now i don't know five or six years we're not done there's no plans for a second map
+> is the second map planned for like few months after release no there is no second map planned we've been working on this map for you know let's see now I don't know five or six years we're not done there's no plans for a second map

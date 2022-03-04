@@ -20,4 +20,4 @@ https://www.youtube.com/watch?v=KVz4PN_LLhU
 >
 > [Music]
 >
-> oh i got a [ __ ] drug over there just stare at the camera the whole time we legit we did that shot like three times just because we figured that would be way funnier yeah because you should just because i think i ran off at one point i was like i was looking at the camera the whole time and then you guys like do it do it i was alright fine
+> oh I got a [ __ ] drug over there just stare at the camera the whole time we legit we did that shot like three times just because we figured that would be way funnier yeah because you should just because I think I ran off at one point I was like I was looking at the camera the whole time and then you guys like do it do it I was alright fine

@@ -20,4 +20,4 @@ https://www.youtube.com/watch?v=8OZFHe6joWg
 >
 > [Music]
 >
-> specifically the the physics for the vehicles i think we're going to change that or we've been talking a little bit about changing the physics engine for the game, which is a huge thing but we'll see what happens with that
+> specifically the the physics for the vehicles I think we're going to change that or we've been talking a little bit about changing the physics engine for the game, which is a huge thing but we'll see what happens with that

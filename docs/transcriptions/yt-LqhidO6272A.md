@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=LqhidO6272A
 
 ### Transcript
 
-> yeah i know you're right you're right actually, platform building space new
+> yeah I know you're right you're right actually, platform building space new

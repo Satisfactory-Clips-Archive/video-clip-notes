@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [December 7th, 
 
 ### Transcript
 
-> do you i met ooh sorry do you mission the final game having randomized or deposits to kind of avoid meta at repetitive places i don't know if we plan to have that in the main game at some point but it's a cool like game mode, and we do plan to have some sort of like setting for game modes, it makes it makes sense so i guess it makes sense, maybe i don't know question mark we'll see
+> do you I met ooh sorry do you mission the final game having randomized or deposits to kind of avoid meta at repetitive places I don't know if we plan to have that in the main game at some point but it's a cool like game mode, and we do plan to have some sort of like setting for game modes, it makes it makes sense so I guess it makes sense, maybe I don't know question mark we'll see

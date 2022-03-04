@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=HMrZKuuXUEs
 
 ### Transcript
 
-> on that, finish like a credit scene in game end yeah sure i guess so i mean i mean if even if even if you complete the story, i don't think it's like you can't play the game anymore right like you could probably keep going to factory i don't know how that's gonna play out but i don't think it's going to be like game end and then you can keep doing your factory if you want right yeah but yes there will be, an ending i don't know if there's going to be a credit scene, seeing as there's already credits available in like options or something right so
+> on that, finish like a credit scene in game end yeah sure I guess so I mean I mean if even if even if you complete the story, I don't think it's like you can't play the game anymore right like you could probably keep going to factory I don't know how that's gonna play out but I don't think it's going to be like game end and then you can keep doing your factory if you want right yeah but yes there will be, an ending I don't know if there's going to be a credit scene, seeing as there's already credits available in like options or something right so

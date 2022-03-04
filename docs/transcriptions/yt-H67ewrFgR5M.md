@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [September 7th,
 
 ### Transcript
 
-> how are the sales numbers i think they're pretty good yeah they're pretty good no idea i have a rough idea wow they're pretty good pretty good sales numbers
+> how are the sales numbers I think they're pretty good yeah they're pretty good no idea I have a rough idea wow they're pretty good pretty good sales numbers

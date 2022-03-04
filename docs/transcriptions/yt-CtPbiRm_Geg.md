@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [December 14th,
 
 ### Transcript
 
-> how many updates to 1.0 cannot confirm more than i, cannot confirm or deny deny what i cannot deny i cannot deny that there are no updates at all maybe update 5 is 1.0 maybe that's what we're going to be given in update five oh boy at this rate 2025 alright give us some credit give us some credit
+> how many updates to 1.0 cannot confirm more than I, cannot confirm or deny deny what I cannot deny I cannot deny that there are no updates at all maybe update 5 is 1.0 maybe that's what we're going to be given in update five oh boy at this rate 2025 alright give us some credit give us some credit

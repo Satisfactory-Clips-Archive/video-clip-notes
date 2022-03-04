@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=lioAEHnpDvc
 
 ### Transcript
 
-> it's not at home or at the office, with green screen a lot of call mail from calling me we're still in the office with green screens yeah we're still working from home most of us, i haven't gotten my second shot yet, i get mine on thursday thursday that's two days, so, i guess we're closing in but still don't fully know, still still still things are still running rampant in sweden or whatever
+> it's not at home or at the office, with green screen a lot of call mail from calling me we're still in the office with green screens yeah we're still working from home most of us, I haven't gotten my second shot yet, I get mine on thursday thursday that's two days, so, I guess we're closing in but still don't fully know, still still still things are still running rampant in sweden or whatever

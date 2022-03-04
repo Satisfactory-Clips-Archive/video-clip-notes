@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=iBHxLQCXYNk
 
 ### Transcript
 
-> of course will there be rail crossings and will they interact with truck autopilot i've seen a couple people suggest that, right now as far as i know there's no plans for that that's pretty interesting
+> of course will there be rail crossings and will they interact with truck autopilot I've seen a couple people suggest that, right now as far as I know there's no plans for that that's pretty interesting

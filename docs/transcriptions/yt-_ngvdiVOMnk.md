@@ -33,4 +33,4 @@ https://www.youtube.com/watch?v=_ngvdiVOMnk
 
 ### Transcript
 
-> all right on to the next thing which was modern frames so how do you print how do you make mulder frames we need hold up hold hold up real quick we need to build constructors and we need to build assemblers and i just happen to know that we need to build it cool all right we're good
+> all right on to the next thing which was modern frames so how do you print how do you make mulder frames we need hold up hold hold up real quick we need to build constructors and we need to build assemblers and I just happen to know that we need to build it cool all right we're good

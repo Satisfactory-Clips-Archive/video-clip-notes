@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=NZD-kpk4KgQ
 
 ### Transcript
 
-> will pings alt left click get fixed with the new update or will there always be 20 grade degrees of the spot i'm trying to ping, i maybe that was i i don't know if that's fixed on experimental or not maybe somebody can clarify that or not but i think that's something that might be fixed later down the line so probably but i don't know unless it already is fixed because i know we did a bunch of changes to how the the line tracing works in the game right now
+> will pings alt left click get fixed with the new update or will there always be 20 grade degrees of the spot I'm trying to ping, I maybe that was- I don't know if that's fixed on experimental or not maybe somebody can clarify that or not but I think that's something that might be fixed later down the line so probably but I don't know unless it already is fixed because I know we did a bunch of changes to how the the line tracing works in the game right now

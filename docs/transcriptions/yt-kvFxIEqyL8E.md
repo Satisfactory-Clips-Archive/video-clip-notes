@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=kvFxIEqyL8E
 
 ### Transcript
 
-> we make flower petals renewable or stack size i think yeah another suggestion there you can go to the qa site so this one's on steam so i'll put the link over there questions about satisfactory game dot com best place to leave bug reports or suggestions things like that yes
+> we make flower petals renewable or stack size I think yeah another suggestion there you can go to the qa site so this one's on steam so I'll put the link over there questions about satisfactory game dot com best place to leave bug reports or suggestions things like that yes

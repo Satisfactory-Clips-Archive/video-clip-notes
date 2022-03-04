@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=9aIHAk5luq8
 
 ### Transcript
 
-> why is paternal figures so insistent on us collecting those when we can't use them at the moment that's such a good point i've never thought about that but you have to collect them though don't skimp out you have to collect them
+> why is paternal figures so insistent on us collecting those when we can't use them at the moment that's such a good point I've never thought about that but you have to collect them though don't skimp out you have to collect them

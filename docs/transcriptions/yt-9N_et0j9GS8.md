@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=9N_et0j9GS8
 
 ### Transcript
 
-> can i speak with swedish no not really my my wish is pretty trash i can understand a decent amount and i can read a decent amount but my swedish speaking is trash i speak better japanese than swedish
+> can I speak with swedish no not really my my wish is pretty trash I can understand a decent amount and I can read a decent amount but my swedish speaking is trash I speak better japanese than swedish

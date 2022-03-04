@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [February 8th, 
 
 ### Transcript
 
-> will we get more vehicles out of the game i don't know maybe maybe there'll be more vehicles added to the game who knows
+> will we get more vehicles out of the game I don't know maybe maybe there'll be more vehicles added to the game who knows

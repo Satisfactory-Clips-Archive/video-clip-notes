@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=r12CKyyTTJk
 
 ### Transcript
 
-> not being able to wear masks in is rough it is it is and it's it's annoying both it is annoying that you can't like wear wear masks and stuff and it's also frustrating that you can't wear them like in vehicles and stuff like that we're super aware of that they they it's like it's a simple problem that needs a complex solution unfortunately it's one of those cases in game dev so, yeah but we're gonna fix that eventually i think
+> not being able to wear masks in is rough it is it is and it's it's annoying both it is annoying that you can't like wear wear masks and stuff and it's also frustrating that you can't wear them like in vehicles and stuff like that we're super aware of that they they it's like it's a simple problem that needs a complex solution unfortunately it's one of those cases in game dev so, yeah but we're gonna fix that eventually I think

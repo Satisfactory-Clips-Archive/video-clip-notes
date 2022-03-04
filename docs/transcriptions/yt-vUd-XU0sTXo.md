@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [February 8th, 
 
 ### Transcript
 
-> creative mode so creative mode or alternate game modes is something that we like the idea of and we'll probably do but, yeah that will be sometime in the future again a lot of things can't come in the future, i wish i could give you more concrete information but i can't right now
+> creative mode so creative mode or alternate game modes is something that we like the idea of and we'll probably do but, yeah that will be sometime in the future again a lot of things can't come in the future, I wish I could give you more concrete information but I can't right now

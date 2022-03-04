@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=jmFnfqKlRLI
 
 ### Transcript
 
-> can i use that low res model all the time i don't think so can you you can't force, you can you're using a console command i don't remember yet it's it's a it's like a generic unreal engine command somewhere you can control like lotting of objects but i don't remember like it's probably in the unreal engine documentation somewhere i bet ben probably knows it yeah he sure does and probably knows it
+> can I use that low res model all the time I don't think so can you you can't force, you can you're using a console command I don't remember yet it's it's a it's like a generic unreal engine command somewhere you can control like lotting of objects but I don't remember like it's probably in the unreal engine documentation somewhere I bet ben probably knows it yeah he sure does and probably knows it

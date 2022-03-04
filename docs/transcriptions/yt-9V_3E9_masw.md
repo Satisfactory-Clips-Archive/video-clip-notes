@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=9V_3E9_masw
 
 ### Transcript
 
-> we've got we've got a little bit of, awkward announcement yeah i guess it's the state of dev you guys it's, yeah you all want some state of dev updates
+> we've got we've got a little bit of, awkward announcement yeah I guess it's the state of dev you guys it's, yeah you all want some state of dev updates
 >
 > [Laughter]
 >
@@ -26,4 +26,4 @@ https://www.youtube.com/watch?v=9V_3E9_masw
 >
 > [Laughter]
 >
-> yeah well it's not happening because it's still on for march 16. part 16 yeah yeah we're still going to sound like funny dot dot dot yeah so last stream before, before the release it's still we're still good next next week guys next week on the experimental yeah next week on experimental yes yes indeed indeed that was good the plan was to like lie about a date but this worked out really well yeah it was good that you unveiled that i think i preferred this i think i prefer this way yeah this is good this was good good times march 16th that's right seven yeah seven days from now i guess it and the release will be 5 pm gmt i guess 5 pm gmt yes i was trying to like make the math and i was just like it's always 5 pm gmt you don't need don't need math just remember 5 pm gmt well i can never remember yes yeah i always remember six our time and then i'm like and then you get refused to carry the four minus oh yes pressing n on my keyboard but nothing's happening oh no no no no math why not 1 pm gmt because it's always 5 pm gmt yeah at 5 we get g and t yes very good, cool so, i mean state of dev wise that's pretty much it right yeah like we're on track update is next week
+> yeah well it's not happening because it's still on for march 16. part 16 yeah yeah we're still going to sound like funny dot dot dot yeah so last stream before, before the release it's still we're still good next next week guys next week on the experimental yeah next week on experimental yes yes indeed indeed that was good the plan was to like lie about a date but this worked out really well yeah it was good that you unveiled that I think I preferred this I think I prefer this way yeah this is good this was good good times march 16th that's right seven yeah seven days from now I guess it and the release will be 5 pm gmt I guess 5 pm gmt yes I was trying to like make the math and I was just like it's always 5 pm gmt you don't need don't need math just remember 5 pm gmt well I can never remember yes yeah I always remember six our time and then I'm like and then you get refused to carry the four minus oh yes pressing n on my keyboard but nothing's happening oh no no no no math why not 1 pm gmt because it's always 5 pm gmt yeah at 5 we get g and t yes very good, cool so, I mean state of dev wise that's pretty much it right yeah like we're on track update is next week

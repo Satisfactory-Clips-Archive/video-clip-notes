@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=cWHt7D471vI
 
 ### Transcript
 
-> pizza was seafood yeah it had like it had like those mussels those shells actually like they didn't even take the muscle meat out they just put the creature out of the water on the pizza it's just the weirdest thing i've ever seen in my entire life yeah i did like a paradox stream when i was like walking around showing what we were doing and when i got to the pizza corner everyone was like what the [ __ ] oh
+> pizza was seafood yeah it had like it had like those mussels those shells actually like they didn't even take the muscle meat out they just put the creature out of the water on the pizza it's just the weirdest thing I've ever seen in my entire life yeah I did like a paradox stream when I was like walking around showing what we were doing and when I got to the pizza corner everyone was like what the [ __ ] oh

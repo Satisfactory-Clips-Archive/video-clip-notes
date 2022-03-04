@@ -16,4 +16,4 @@ https://youtube.com/embed/slNYE26evgc?autoplay=1&start=0&end=22
 
 ### Transcript
 
-> all right i don't remember how to do this hello linus how are you doing this long time no see let us it's been a while it's been a while since we did this all right it's good to be working with you again i don't see you but i i feel you i feel you on the inside linus okay let's go on with the video hey everyone my name's jason i'm a
+> all right I don't remember how to do this hello linus how are you doing this long time no see let us it's been a while it's been a while since we did this all right it's good to be working with you again I don't see you but- I feel you I feel you on the inside linus okay let's go on with the video hey everyone my name's jason I'm a

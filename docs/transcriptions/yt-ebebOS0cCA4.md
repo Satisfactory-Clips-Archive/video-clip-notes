@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=ebebOS0cCA4
 
 ### Transcript
 
-> probably the price of dogo burgers in food court, so they're they're gonna be one coupon one coupon for a regular burger two coupons and you get a burger fries and a large coke game sponsored by coke sorry i could have brand new i faced that i was trying to look if we saved that highlight when we played the old version i didn't hear how you started that i just come back and just hear like get one free coke and like what the are you talking about you heard all you needed to hear all right perfect
+> probably the price of dogo burgers in food court, so they're they're gonna be one coupon one coupon for a regular burger two coupons and you get a burger fries and a large coke game sponsored by coke sorry I could have brand new I faced that I was trying to look if we saved that highlight when we played the old version I didn't hear how you started that I just come back and just hear like get one free coke and like what the are you talking about you heard all you needed to hear all right perfect

@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [October 5th, 2
 
 ### Transcript
 
-> well dedicated server run under linux i don't know yet yeah people have been asking about dedicated servers will there be them yes when dunno
+> well dedicated server run under linux I don't know yet yeah people have been asking about dedicated servers will there be them yes when dunno

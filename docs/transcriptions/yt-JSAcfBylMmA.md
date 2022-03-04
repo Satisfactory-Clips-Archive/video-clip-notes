@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=JSAcfBylMmA
 
 ### Transcript
 
-> no faith any word emerging terms for reducing object count that's possibly oh i wanted to say that might be something that's coming in november update but we haven't started working on that yet so i don't know if that will happen for that update, but i'm pretty sure it will happen at some point, because that would, it would yeah it would it wouldn't reduce the object count that much because foundations aren't the heavy hater hitter in the the object account department it's more the all the buildings
+> no faith any word emerging terms for reducing object count that's possibly oh I wanted to say that might be something that's coming in november update but we haven't started working on that yet so I don't know if that will happen for that update, but I'm pretty sure it will happen at some point, because that would, it would yeah it would it wouldn't reduce the object count that much because foundations aren't the heavy hater hitter in the the object account department it's more the all the buildings

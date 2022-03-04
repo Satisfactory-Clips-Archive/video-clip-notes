@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=BAw5PGJH918
 
 ### Transcript
 
-> would be possible for us to set our own drone paths in the future i don't know, i mean most of these suggestions or i guess you were asking a question but if you have that as a suggestion qa site questions on satisfactorygame.com post them there for sure or upvote existing suggestions that might already be there, but yeah i don't i don't really know about that yeah literally have no no clue
+> would be possible for us to set our own drone paths in the future I don't know, I mean most of these suggestions or I guess you were asking a question but if you have that as a suggestion qa site questions on satisfactorygame.com post them there for sure or upvote existing suggestions that might already be there, but yeah I don't I don't really know about that yeah literally have no no clue

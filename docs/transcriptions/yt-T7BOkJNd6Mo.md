@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=T7BOkJNd6Mo
 
 ### Transcript
 
-> phallic rock has to be number one it's a rock phallic rock i like that is that is that the actual like no it's a copper rock it's got to be someone put that in the wiki yeah i'm checking the wiki right now it's not there why yeah that should be its own page oh damn it i'm the person that
+> phallic rock has to be number one it's a rock phallic rock I like that is that is that the actual like no it's a copper rock it's got to be someone put that in the wiki yeah I'm checking the wiki right now it's not there why yeah that should be its own page oh damn it I'm the person that

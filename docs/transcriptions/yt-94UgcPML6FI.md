@@ -37,4 +37,4 @@ https://www.youtube.com/watch?v=94UgcPML6FI
 
 ### Transcript
 
-> i mean more updates are planned don't know honestly at this point
+> I mean more updates are planned don't know honestly at this point

@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [August 10th, 2
 
 ### Transcript
 
-> i don't forget can we get an autorun but button, that's a great thing to suggest on our equip questions website i'll drop it right here and i just disagree on the stream i'm i'm gone probably you can probably hear me though still right yeah it's fine yeah i can hear you, the flame modding only, yeah so so those type of suggestions are great to post on the modern community on the questions website for auto run features and stuff like that, and i guess like there's you can sort of auto run
+> I don't forget can we get an autorun but button, that's a great thing to suggest on our equip questions website I'll drop it right here and I just disagree on the stream I'm I'm gone probably you can probably hear me though still right yeah it's fine yeah I can hear you, the flame modding only, yeah so so those type of suggestions are great to post on the modern community on the questions website for auto run features and stuff like that, and I guess like there's you can sort of auto run

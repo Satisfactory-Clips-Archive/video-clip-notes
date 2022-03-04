@@ -24,4 +24,4 @@ https://www.youtube.com/watch?v=3dUbg92Gt68
 
 ### Transcript
 
-> i felt so bad so, film this so this is the first thing like we filmed so we filmed outside we did the intro and we did the outro outside first and then we came in and we did the we filmed this kind of in order we did we filmed the, in front of the stairs and then we just did a bunch of shots of us just sitting on the couch just being like yeah i have like if you want to go over to my screen i have like here's just like a selection i need to figure out how to do this because it's all bonkers the old magic
+> I felt so bad so, film this so this is the first thing like we filmed so we filmed outside we did the intro and we did the outro outside first and then we came in and we did the we filmed this kind of in order we did we filmed the, in front of the stairs and then we just did a bunch of shots of us just sitting on the couch just being like yeah I have like if you want to go over to my screen I have like here's just like a selection I need to figure out how to do this because it's all bonkers the old magic

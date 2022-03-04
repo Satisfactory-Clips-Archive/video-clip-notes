@@ -24,4 +24,4 @@ https://www.youtube.com/watch?v=vMgvD3QPJqM
 
 ### Transcript
 
-> will you add a harder mode at some point with more expensive recipes i think we've talked about that maybe when we do add game modes in the future yeah i think a more hardcore mode whatever that might mean maybe means expensive recipes maybe there are other things that we could do with it i think that makes sense yeah because like i hear her i've heard both like people wanting to like half recipes for some reason like they're producing half as much yeah which is bonkers to me but you do you fam just underclock 50 yeah yeah
+> will you add a harder mode at some point with more expensive recipes I think we've talked about that maybe when we do add game modes in the future yeah I think a more hardcore mode whatever that might mean maybe means expensive recipes maybe there are other things that we could do with it I think that makes sense yeah because like I hear her I've heard both like people wanting to like half recipes for some reason like they're producing half as much yeah which is bonkers to me but you do you fam just underclock 50 yeah yeah

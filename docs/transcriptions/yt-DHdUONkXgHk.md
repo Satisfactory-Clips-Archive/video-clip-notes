@@ -24,4 +24,4 @@ https://www.youtube.com/watch?v=DHdUONkXgHk
 
 ### Transcript
 
-> will there be tier 9 maybe who knows will there be tmi wait tier 9. oh you know every stream we didn't share too much information with you guys don't worry got farting grandpa over here before like not that that's you know nothing through my life just move on okay i just bring it up anyway
+> will there be tier 9 maybe who knows will there be tmi wait tier 9. oh you know every stream we didn't share too much information with you guys don't worry got farting grandpa over here before like not that that's you know nothing through my life just move on okay I just bring it up anyway

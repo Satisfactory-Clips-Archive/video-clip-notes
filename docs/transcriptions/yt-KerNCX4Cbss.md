@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=KerNCX4Cbss
 
 ### Transcript
 
-> vertical splitters no we have no plans for that we did add horizontal lifts though i wish i had that image at hand but i don't think i do it's clipped somewhere look in the clips find the clip it's funny it's good it's good quality content from yours truly
+> vertical splitters no we have no plans for that we did add horizontal lifts though I wish I had that image at hand but I don't think I do it's clipped somewhere look in the clips find the clip it's funny it's good it's good quality content from yours truly

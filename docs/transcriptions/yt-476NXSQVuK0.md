@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=476NXSQVuK0
 
 ### Transcript
 
-> how am i feeling i'm feeling fine thanks thanks for asking
+> how am I feeling I'm feeling fine thanks thanks for asking

@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: October 26th, 2
 
 ### Transcript
 
-> is there any time scale on to be able to set up service or satisfactory i guess you're talking about dedicated servers, progress on them is going pretty well, yeah yeah i don't know yeah i don't know we well we'll let you guys know on a day when we feel confident that we can release them we're focusing so much on update 5 right now so yeah
+> is there any time scale on to be able to set up service or satisfactory I guess you're talking about dedicated servers, progress on them is going pretty well, yeah yeah I don't know yeah I don't know we well we'll let you guys know on a day when we feel confident that we can release them we're focusing so much on update 5 right now so yeah

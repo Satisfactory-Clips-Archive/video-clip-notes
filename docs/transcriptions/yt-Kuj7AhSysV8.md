@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=Kuj7AhSysV8
 
 ### Transcript
 
-> alpha keys when did you ever get enough of kimeza who who here got an alpha key no me neither sucks right i never got enough of a key i legit signed up and i did not get an alpha game still salty i would be too to be honest
+> alpha keys when did you ever get enough of kimeza who who here got an alpha key no me neither sucks right I never got enough of a key I legit signed up and I did not get an alpha game still salty I would be too to be honest

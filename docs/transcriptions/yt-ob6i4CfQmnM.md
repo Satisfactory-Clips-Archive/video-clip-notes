@@ -20,4 +20,4 @@ https://www.youtube.com/watch?v=ob6i4CfQmnM
 
 ### Transcript
 
-> here it is so you go to engine.ini how do i post this you go to engine.ini and your post and you paste this or you write over because it's like and that's how you increase the connection timer
+> here it is so you go to engine.ini how do I post this you go to engine.ini and your post and you paste this or you write over because it's like and that's how you increase the connection timer

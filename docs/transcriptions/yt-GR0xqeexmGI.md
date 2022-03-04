@@ -16,8 +16,8 @@ https://www.youtube.com/watch?v=GR0xqeexmGI
 
 ### Transcript
 
-> any news rumors about new in-game events whether fixmess will be coming back i i actually don't know what we've decided there, it was up to me i think we would bring back fixmas like maybe we won't add a lot of new things maybe we won't add any new things but we would at least like have fixmas back so it's like available
+> any news rumors about new in-game events whether fixmess will be coming back- I actually don't know what we've decided there, it was up to me I think we would bring back fixmas like maybe we won't add a lot of new things maybe we won't add any new things but we would at least like have fixmas back so it's like available
 >
 > [Music]
 >
-> that's my that's my, 50 cents so we'll see we look here's the thing like it's still summer in sweden okay we we're like we're kind of like draining the last drips of summer here like you know it's last day of summer is coming up we don't want to look like i i legit get stressed out when people are like oh [ __ ] yeah halloween's coming up like no it's still hot like it's still summer shut up i can still see green leaves on the trees i don't want to go in like like fall and and winter suck in sweden so like let us have this okay stop looking forward to to, to winter
+> that's my that's my, 50 cents so we'll see we look here's the thing like it's still summer in sweden okay we we're like we're kind of like draining the last drips of summer here like you know it's last day of summer is coming up we don't want to look like- I legit get stressed out when people are like oh [ __ ] yeah halloween's coming up like no it's still hot like it's still summer shut up I can still see green leaves on the trees I don't want to go in like like fall and and winter suck in sweden so like let us have this okay stop looking forward to to, to winter

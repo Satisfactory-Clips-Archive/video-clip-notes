@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=byfgR8myflI
 
 ### Transcript
 
-> any chance to have this in vanilla i saw a mod who let a belt ending in a stackable belt ending i don't know but if you have any suggestions put on the wayside questions satisfactorygame.com handled it oh yeah we haven't mentioned the qsi today that's that's, that would be weird if we hadn't mentioned it on a stream yeah it's not a stream if you don't, if you don't mention it true story yep
+> any chance to have this in vanilla I saw a mod who let a belt ending in a stackable belt ending I don't know but if you have any suggestions put on the wayside questions satisfactorygame.com handled it oh yeah we haven't mentioned the qsi today that's that's, that would be weird if we hadn't mentioned it on a stream yeah it's not a stream if you don't, if you don't mention it true story yep

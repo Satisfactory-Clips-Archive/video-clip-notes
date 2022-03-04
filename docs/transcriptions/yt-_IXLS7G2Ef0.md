@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=_IXLS7G2Ef0
 
 ### Transcript
 
-> when dedicated servers are available we'll be able to load existing save games yes that i'm like pretty confident with
+> when dedicated servers are available we'll be able to load existing save games yes that I'm like pretty confident with

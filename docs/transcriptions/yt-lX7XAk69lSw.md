@@ -34,8 +34,8 @@ https://www.youtube.com/watch?v=lX7XAk69lSw
 
 ### Transcript
 
-> map editor is something that we probably i don't know if we can do that easily
+> map editor is something that we probably I don't know if we can do that easily
 >
 > [Music]
 >
-> i think you're kind of gonna get map editor if once we have like official mod support is is my guess but we we don't know for sure we don't know exactly like the extent of the mod support that we want to do, but we we we we're using unreal engine as a map editor so we can't like we're usually when people release map editors they create one we haven't really created one
+> I think you're kind of gonna get map editor if once we have like official mod support is is my guess but we we don't know for sure we don't know exactly like the extent of the mod support that we want to do, but we we we we're using unreal engine as a map editor so we can't like we're usually when people release map editors they create one we haven't really created one

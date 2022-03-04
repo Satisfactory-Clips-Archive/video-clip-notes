@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=x56_-zALi10
 
 ### Transcript
 
-> yeah that's so mean do i feel inferior because json sort of constructors hey i have 120 hours on stream with that game i i've i've got gotten to tier 6 of my own oh i haven't gotten to tier 6 yet yeah so just just want to pluck my little muscles there i still don't know what an assembler is though just handcraft your way to tier six yeah yeah i know what it looks like but i don't you know what i mean i do wanna don't
+> yeah that's so mean do I feel inferior because json sort of constructors hey I have 120 hours on stream with that game- I've I've got gotten to tier 6 of my own oh I haven't gotten to tier 6 yet yeah so just just want to pluck my little muscles there I still don't know what an assembler is though just handcraft your way to tier six yeah yeah I know what it looks like but I don't you know what I mean I do wanna don't

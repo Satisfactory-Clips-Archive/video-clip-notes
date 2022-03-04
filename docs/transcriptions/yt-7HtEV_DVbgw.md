@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=7HtEV_DVbgw
 
 ### Transcript
 
-> yep all right we need another announcement we've got we've got room for a few more announcements okay this is really all you got chat like you could flushing toilet paid dlc flashing i mean we announced the flashing toilet pay guilty that's not a real announcement yeah it doesn't count
+> yep all right we need another announcement we've got we've got room for a few more announcements okay this is really all you got chat like you could flushing toilet paid dlc flashing I mean we announced the flashing toilet pay guilty that's not a real announcement yeah it doesn't count

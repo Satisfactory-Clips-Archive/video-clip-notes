@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=-OHmfKyBPA4
 
 ### Transcript
 
-> i can't believe we still haven't fixed that typo which one when you walk up to, some nodes that aren't pure they're in pure it should be impure and, i don't know how many like bug reports we've gotten over that when ass alpha has gone along and we'd be like nah we'll fix it at some point and then i was watching a stream yesterday i was like it's still not fixed it's amazing
+> I can't believe we still haven't fixed that typo which one when you walk up to, some nodes that aren't pure they're in pure it should be impure and, I don't know how many like bug reports we've gotten over that when ass alpha has gone along and we'd be like nah we'll fix it at some point and then I was watching a stream yesterday I was like it's still not fixed it's amazing

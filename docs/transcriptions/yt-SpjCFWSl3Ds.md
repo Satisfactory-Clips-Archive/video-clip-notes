@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=SpjCFWSl3Ds
 
 ### Transcript
 
-> maybe i don't know
+> maybe I don't know

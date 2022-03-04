@@ -18,8 +18,8 @@ https://www.youtube.com/watch?v=LukumNkFhzI
 
 ### Transcript
 
-> panna cotta calling cheater yes yes no some some aftermarket products here being used but that looks great great job mystic very very good, gives me an idea actually oh we don't we can just you know i'm just going to mute myself one second so maybe we can, steal this idea from mods with the signs oh chase you you weren't you weren't muted there oh god i love mods so much yeah great yeah yeah mods are great oh i can't wait i'm gonna fix the my mixes a little
+> panna cotta calling cheater yes yes no some some aftermarket products here being used but that looks great great job mystic very very good, gives me an idea actually oh we don't we can just you know I'm just going to mute myself one second so maybe we can, steal this idea from mods with the signs oh chase you you weren't you weren't muted there oh god I love mods so much yeah great yeah yeah mods are great oh I can't wait I'm gonna fix the my mixes a little
 >
 > [Music]
 >
-> vacation for the next five weeks no i'm gonna vacation shut up
+> vacation for the next five weeks no I'm gonna vacation shut up

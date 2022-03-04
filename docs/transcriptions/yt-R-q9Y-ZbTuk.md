@@ -20,4 +20,4 @@ https://www.youtube.com/watch?v=R-q9Y-ZbTuk
 
 ### Transcript
 
-> you guys play deep rock galactic too it's release crafts and publishing and it's awesome yeah i played deep rock, a while ago a lot of people from from coffee station played a lot of deep rock but i haven't played it in quite a while i wouldn't mind playing again though it is fun i highly recommend it
+> you guys play deep rock galactic too it's release crafts and publishing and it's awesome yeah I played deep rock, a while ago a lot of people from from coffee station played a lot of deep rock but I haven't played it in quite a while I wouldn't mind playing again though it is fun I highly recommend it

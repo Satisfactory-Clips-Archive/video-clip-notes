@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=W0xfn2sbVkM
 
 ### Transcript
 
-> also like it man this is going to be full of bugs i'm going to love it thanks dude thank you i mean i mean i mean all updates are full of books i mean who are we kidding here
+> also like it man this is going to be full of bugs I'm going to love it thanks dude thank you I mean I mean I mean all updates are full of books I mean who are we kidding here

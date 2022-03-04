@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=laybFj6QKzA
 
 ### Transcript
 
-> i know some vr related commands in console is the game getting vr well there's no plans for vr at this stage and satisfactory
+> I know some vr related commands in console is the game getting vr well there's no plans for vr at this stage and satisfactory

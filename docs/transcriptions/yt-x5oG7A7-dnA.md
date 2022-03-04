@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [October 5th, 2
 
 ### Transcript
 
-> will the vehicles be colorable i hope so they were once upon a time i think i don't know if they ever were colorable when the game was live but i'm if i remember correctly you could color them at one point once upon a time back in the day when you could put two people in the explorer back in those days the wild wild west the game was the game was pumping back then it was crazy
+> will the vehicles be colorable I hope so they were once upon a time I think I don't know if they ever were colorable when the game was live but I'm if I remember correctly you could color them at one point once upon a time back in the day when you could put two people in the explorer back in those days the wild wild west the game was the game was pumping back then it was crazy

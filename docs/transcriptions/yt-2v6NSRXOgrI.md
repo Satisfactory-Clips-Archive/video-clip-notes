@@ -24,4 +24,4 @@ https://www.youtube.com/watch?v=2v6NSRXOgrI
 
 ### Transcript
 
-> there's an old cubits video where trucks just barely pass through the truck station bounty box load unload stuff yeah i'm not sure i think we're gonna have to just try it out with the new system the new, model and stuff see if there are any issues
+> there's an old cubits video where trucks just barely pass through the truck station bounty box load unload stuff yeah I'm not sure I think we're gonna have to just try it out with the new system the new, model and stuff see if there are any issues

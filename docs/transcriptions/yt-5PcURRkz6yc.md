@@ -23,4 +23,4 @@ https://www.youtube.com/watch?v=5PcURRkz6yc
 
 ### Transcript
 
-> any chance we'll get individual respawn points for multiplayer i'm not sure what that means individual respawn points you mean you don't spawn in the hub why would you want that
+> any chance we'll get individual respawn points for multiplayer I'm not sure what that means individual respawn points you mean you don't spawn in the hub why would you want that

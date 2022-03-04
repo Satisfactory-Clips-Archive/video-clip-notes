@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=_WRAMGtLBqA
 
 ### Transcript
 
-> earthquake six still at november 31. oh dear no when was update six can you give us a new datejust or give us what do you mean sorry i'll give you the actual day yeah sorry i misspoke april 7th tired april 7th, april 7th, i didn't i meant, 5th sorry april 5th tuesday april 5th both it could be both
+> earthquake six still at november 31. oh dear no when was update six can you give us a new datejust or give us what do you mean sorry I'll give you the actual day yeah sorry I misspoke april 7th tired april 7th, april 7th, I didn't I meant, 5th sorry april 5th tuesday april 5th both it could be both

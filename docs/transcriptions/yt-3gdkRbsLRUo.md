@@ -41,4 +41,4 @@ https://www.youtube.com/watch?v=3gdkRbsLRUo
 
 ### Transcript
 
-> can we customize the pioneer in the future for multiplayer so that's something character customization of some kind, is i think something that we'll end up doing i don't know how advanced it's going to be but something as simple as changing colors makes a lot of sense especially for multiplayer right yeah so i do think it's something that i imagine it will happen before 1.0 i just don't know when it's going to happen
+> can we customize the pioneer in the future for multiplayer so that's something character customization of some kind, is I think something that we'll end up doing I don't know how advanced it's going to be but something as simple as changing colors makes a lot of sense especially for multiplayer right yeah so I do think it's something that I imagine it will happen before 1.0 I just don't know when it's going to happen

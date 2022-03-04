@@ -20,4 +20,4 @@ This question was possibly duplicated with a more recent answer: [January 25th, 
 
 ### Transcript
 
-> samurai getting a main use anytime soon i wouldn't say anytime soon because we're planning to use, sam or for, the story part of the game, and the story part is slated for update the the 1.0 release that's when it's going to be used so i don't think there's going to be any use for it up until that point, at least to the best of my knowledge
+> samurai getting a main use anytime soon I wouldn't say anytime soon because we're planning to use, sam or for, the story part of the game, and the story part is slated for update the the 1.0 release that's when it's going to be used so I don't think there's going to be any use for it up until that point, at least to the best of my knowledge

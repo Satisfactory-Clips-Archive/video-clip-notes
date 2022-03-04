@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=Cq-UPGtRNGM
 
 ### Transcript
 
-> is director mark's christmas video still can kind of get that teacup you mean like the coffee cup that he gets wait what were you ever gonna get this he cup yeah i don't remember, i didn't get it what was it was the question his director mark's christmas video is still canon will we get that teacup i don't remember the teacup what was the christmas video i was thinking maybe it was the simon saga one where he had he was getting coffee i i don't remember sorry contents
+> is director mark's christmas video still can kind of get that teacup you mean like the coffee cup that he gets wait what were you ever gonna get this he cup yeah I don't remember, I didn't get it what was it was the question his director mark's christmas video is still canon will we get that teacup I don't remember the teacup what was the christmas video I was thinking maybe it was the simon saga one where he had he was getting coffee- I don't remember sorry contents

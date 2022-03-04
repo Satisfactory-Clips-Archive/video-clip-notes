@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=Cjn88-M1BbE
 
 ### Transcript
 
-> to early access how much time between experimental and early access we have no idea it depends how long, it takes to stabilize the game yeah, basically does anybody remember how long it stayed last time do you remember i think it was like two weeks or three yeah it's not super long yeah but this update is really big so yeah so left to see yeah, yeah
+> to early access how much time between experimental and early access we have no idea it depends how long, it takes to stabilize the game yeah, basically does anybody remember how long it stayed last time do you remember I think it was like two weeks or three yeah it's not super long yeah but this update is really big so yeah so left to see yeah, yeah

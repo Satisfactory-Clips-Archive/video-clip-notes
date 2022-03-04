@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=oOuTpP3Dgdo
 
 ### Transcript
 
-> just go to the food court actually i want i wanted to address this too like in the blast dress video i just got like so stressed out that i missed out the, highlight command, in blastoise video he has built the food court and it is it is pretty pretty close to actually what the food cart in the game is going to be like so do check out the video that i posted before use the cc highlight command, check it out check out the video latest video as a food
+> just go to the food court actually I want I wanted to address this too like in the blast dress video I just got like so stressed out that I missed out the, highlight command, in blastoise video he has built the food court and it is it is pretty pretty close to actually what the food cart in the game is going to be like so do check out the video that I posted before use the cc highlight command, check it out check out the video latest video as a food

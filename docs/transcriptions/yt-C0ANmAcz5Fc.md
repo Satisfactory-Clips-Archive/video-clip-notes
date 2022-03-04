@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=C0ANmAcz5Fc
 
 ### Transcript
 
-> was a little bit funny yeah, how did the jokes work localization actually have no idea i just have full faith in the, localization folks oh yeah job like i said before i was putting the translations in as they came in live on stream, so i i haven't checked them they could be garbage for orlando i'm assuming they're not i'm assuming they're fine
+> was a little bit funny yeah, how did the jokes work localization actually have no idea I just have full faith in the, localization folks oh yeah job like I said before I was putting the translations in as they came in live on stream, so- I haven't checked them they could be garbage for orlando I'm assuming they're not I'm assuming they're fine

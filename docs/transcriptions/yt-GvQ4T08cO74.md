@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=GvQ4T08cO74
 
 ### Transcript
 
-> yeah have you ever traveled to canada i spent, like two days in montreal and one day in, quebec that's it that was very good thank you to canada no i don't think so no i don't think i've ever been in canada okay
+> yeah have you ever traveled to canada I spent, like two days in montreal and one day in, quebec that's it that was very good thank you to canada no I don't think so no I don't think I've ever been in canada okay

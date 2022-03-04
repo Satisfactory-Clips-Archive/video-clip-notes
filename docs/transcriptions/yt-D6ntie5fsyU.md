@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=D6ntie5fsyU
 
 ### Transcript
 
-> did tim make the spiders no tim didn't make the spiders tim didn't develop anything on the game like like when i say develop i mean like like he worked he was a game developer right and he worked on the game but he wasn't, making, technically it did actually no he did never mind i take it all back
+> did tim make the spiders no tim didn't make the spiders tim didn't develop anything on the game like like when I say develop I mean like like he worked he was a game developer right and he worked on the game but he wasn't, making, technically it did actually no he did never mind I take it all back

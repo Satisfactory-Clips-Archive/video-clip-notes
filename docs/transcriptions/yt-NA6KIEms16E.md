@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=NA6KIEms16E
 
 ### Transcript
 
-> i can't believe it update nine went all right that's going a little too far we can't we can't give all the details out now blue games all right no yeah we have to draw that line somewhere right check calm down real talk here okay let's let's keep it civil here let's not go overboard here it's crazy
+> I can't believe it update nine went all right that's going a little too far we can't we can't give all the details out now blue games all right no yeah we have to draw that line somewhere right check calm down real talk here okay let's let's keep it civil here let's not go overboard here it's crazy

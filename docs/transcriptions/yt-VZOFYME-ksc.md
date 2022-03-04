@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=VZOFYME-ksc
 
 ### Transcript
 
-> if i will add new machines, so in update five there won't be any new like, build-up like what was the term you used in the video constructing machines or constructed buildings with functionality yeah like there won't be that in update five, oh oh oh that that that video you mean, manufacturing manufacturing building that's the word yeah no new manufacturing building production there are new buildables but just not manufactured yes exactly
+> if I will add new machines, so in update five there won't be any new like, build-up like what was the term you used in the video constructing machines or constructed buildings with functionality yeah like there won't be that in update five, oh oh oh that that that video you mean, manufacturing manufacturing building that's the word yeah no new manufacturing building production there are new buildables but just not manufactured yes exactly

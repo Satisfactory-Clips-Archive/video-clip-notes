@@ -20,4 +20,4 @@ https://www.youtube.com/watch?v=v0UZaH3mXh4
 >
 > [Music]
 >
-> so yeah it's kind of hard to give advice because it really depends on how you build, like i think it's better to build far and like it's it's better to build like stretching across the map i believe rather than like have everything in one place because if you join in on that place you have so much stuff you have to load as a client and if you have things more spread out then you will load as you kind of go i believe but, that's just one thing out of many things that that impact the game in various ways
+> so yeah it's kind of hard to give advice because it really depends on how you build, like I think it's better to build far and like it's it's better to build like stretching across the map I believe rather than like have everything in one place because if you join in on that place you have so much stuff you have to load as a client and if you have things more spread out then you will load as you kind of go I believe but, that's just one thing out of many things that that impact the game in various ways

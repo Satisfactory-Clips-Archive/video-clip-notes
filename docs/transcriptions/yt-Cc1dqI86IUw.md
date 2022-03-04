@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=Cc1dqI86IUw
 
 ### Transcript
 
-> go for the factory more gold gold with your factory that's so good that's a really good name for that actually that that needs to be a dlc now i believe the starter section of the map oh sorry come on after we did that toilet one golf yeah golf golf with your factory dlc i think that should be a requirement for 1.0
+> go for the factory more gold gold with your factory that's so good that's a really good name for that actually that that needs to be a dlc now I believe the starter section of the map oh sorry come on after we did that toilet one golf yeah golf golf with your factory dlc I think that should be a requirement for 1.0

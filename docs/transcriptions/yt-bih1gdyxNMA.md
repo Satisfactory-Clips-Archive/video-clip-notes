@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=bih1gdyxNMA
 
 ### Transcript
 
-> when you die in satisfactory does the soul go to valheim i don't that's a good question i don't know well i'm excited factory crossover when good question would be neat
+> when you die in satisfactory does the soul go to valheim I don't that's a good question I don't know well I'm excited factory crossover when good question would be neat

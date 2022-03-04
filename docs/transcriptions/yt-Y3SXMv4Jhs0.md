@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=Y3SXMv4Jhs0
 
 ### Transcript
 
-> any chance for a rocket launcher it's very violent i don't think so i don't know we're probably gonna look into maybe more weapons or something when we look into exploration because that's something that we've always wanted to like flesh out a little bit more make exploration a bit more fun so maybe maybe more guns will make that more fun i don't know
+> any chance for a rocket launcher it's very violent I don't think so I don't know we're probably gonna look into maybe more weapons or something when we look into exploration because that's something that we've always wanted to like flesh out a little bit more make exploration a bit more fun so maybe maybe more guns will make that more fun I don't know

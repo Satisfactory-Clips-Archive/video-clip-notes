@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=7r2YUHrQyB8
 
 ### Transcript
 
-> we will we have to redo pipe systems with the new update, i don't know i don't think you need to do whatever whatever dude i'm not your mom i because i literally tried the new update today, playing with it a bit and i mean everything works for me i guess
+> we will we have to redo pipe systems with the new update, I don't know I don't think you need to do whatever whatever dude I'm not your mom I because I literally tried the new update today, playing with it a bit and I mean everything works for me I guess

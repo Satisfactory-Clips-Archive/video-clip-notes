@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=ykbt3XMUIus
 
 ### Transcript
 
-> recovering from that so when a mark ii drones coming out i don't think we have plans for that but we'll see maybe in the future i don't know
+> recovering from that so when a mark ii drones coming out I don't think we have plans for that but we'll see maybe in the future I don't know

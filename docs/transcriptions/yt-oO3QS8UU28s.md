@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=oO3QS8UU28s
 
 ### Transcript
 
-> this is the first time i've seen gameplay of this i feel quite dumb so if this is your first time seeing gameplay of this then you're not getting anywhere near the like proper picture or what it's like yeah this is this is not, the intended experience
+> this is the first time I've seen gameplay of this I feel quite dumb so if this is your first time seeing gameplay of this then you're not getting anywhere near the like proper picture or what it's like yeah this is this is not, the intended experience

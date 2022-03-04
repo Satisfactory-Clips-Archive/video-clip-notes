@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [December 14th,
 
 ### Transcript
 
-> any updates on the mug, i don't have any updates apart from that, i think it's i think it's in prototype stage i think, but all the hard stuff is done i think it's just the the final few things so like we might have another merch push soonish so they'll be like the mug and we may have some other new things with it as well maybe, that would be really nice
+> any updates on the mug, I don't have any updates apart from that, I think it's I think it's in prototype stage I think, but all the hard stuff is done I think it's just the the final few things so like we might have another merch push soonish so they'll be like the mug and we may have some other new things with it as well maybe, that would be really nice

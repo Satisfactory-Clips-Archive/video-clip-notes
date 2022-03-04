@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [August 10th, 2
 
 ### Transcript
 
-> will we add bikes, i don't think so i don't think we're gonna be adding bikes that sounds like a nightmare
+> will we add bikes, I don't think so I don't think we're gonna be adding bikes that sounds like a nightmare

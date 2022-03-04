@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=eReH6Sdroq8
 
 ### Transcript
 
-> one more question okay, any improvements on build limits, so there is going to be i think some improvements on it with the engine upgrade i believe and the i'm it basically reducing the amount of objects that a specific object can contain meaning data you can build more objects so the limit doesn't change but objects contain less objects so that you can then build more so there should be some improvements on that going forward
+> one more question okay, any improvements on build limits, so there is going to be I think some improvements on it with the engine upgrade I believe and the I'm it basically reducing the amount of objects that a specific object can contain meaning data you can build more objects so the limit doesn't change but objects contain less objects so that you can then build more so there should be some improvements on that going forward

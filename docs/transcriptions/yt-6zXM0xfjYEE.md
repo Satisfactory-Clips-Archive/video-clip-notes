@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=6zXM0xfjYEE
 
 ### Transcript
 
-> i still feel sad about my ps5 my ps5 is fine don't worry about it i l don't worry i like the black marks on my ps5 it's fine
+> I still feel sad about my ps5 my ps5 is fine don't worry about it I l don't worry I like the black marks on my ps5 it's fine

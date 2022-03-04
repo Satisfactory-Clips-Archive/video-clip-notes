@@ -18,7 +18,7 @@ This question was possibly duplicated with a more recent answer: [September 14th
 
 ### Transcript
 
-> tanker trucks, good question hmm it's not impossible but, i would suggest, suggesting that on the quest
+> tanker trucks, good question hmm it's not impossible but, I would suggest, suggesting that on the quest
 >
 > [Music]
 >
@@ -34,11 +34,11 @@ This question was possibly duplicated with a more recent answer: [September 14th
 >
 > [Laughter]
 >
-> jesus all right, well at least that error i know why that is because it's my like audio card is burning up, or audio device so what was it, tanker trucks yeah so make sure to post these questions like post that on our creptions website, because that's a really good suggestion for our questions website, it's not impossible to be honest i don't think so, adding another truck, for for for ,
+> jesus all right, well at least that error I know why that is because it's my like audio card is burning up, or audio device so what was it, tanker trucks yeah so make sure to post these questions like post that on our creptions website, because that's a really good suggestion for our questions website, it's not impossible to be honest I don't think so, adding another truck, for for for ,
 >
 > [Music]
 >
-> liquids we would have to implement, you know a new truck or we can just use a regulator and have i guess something needs to change on the like loading stations for that to be viable
+> liquids we would have to implement, you know a new truck or we can just use a regulator and have I guess something needs to change on the like loading stations for that to be viable
 >
 > [Music]
 >

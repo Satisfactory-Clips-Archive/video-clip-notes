@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [September 21st
 
 ### Transcript
 
-> oh oh i i we almost didn't have a stream where we didn't say this, somebody asked about turrets and [ __ ] we're not gonna add any bass defense to the game ever there you go marv there's your, 47th reference on the wiki or something
+> oh oh- I we almost didn't have a stream where we didn't say this, somebody asked about turrets and [ __ ] we're not gonna add any bass defense to the game ever there you go marv there's your, 47th reference on the wiki or something

@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: October 5th, 20
 
 ### Transcript
 
-> will radar towers get more useful i don't know if any plans for that but please go to our qa site and let us know what about them isn't useful thick indeed
+> will radar towers get more useful I don't know if any plans for that but please go to our qa site and let us know what about them isn't useful thick indeed

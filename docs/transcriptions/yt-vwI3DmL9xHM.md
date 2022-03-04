@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [March 2nd, 202
 
 ### Transcript
 
-> any chance of making tutorial on optimum graphic settings for performance i don't know if we're going to do that, what was that, any chance of making a tutorial on optimal graphics settings for performance no but everything put everything on low yeah let's totally ramp it up yeah i don't think we're gonna be doing that
+> any chance of making tutorial on optimum graphic settings for performance I don't know if we're going to do that, what was that, any chance of making a tutorial on optimal graphics settings for performance no but everything put everything on low yeah let's totally ramp it up yeah I don't think we're gonna be doing that

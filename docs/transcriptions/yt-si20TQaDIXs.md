@@ -42,4 +42,4 @@ https://www.youtube.com/watch?v=si20TQaDIXs
 
 ### Transcript
 
-> creative mode creative mode is something that might happen in the future where we look into like it would be i think we want to have different game modes satisfactory and creative mode is certainly one of those modes that we could add i know that a lot of people always also requested like, pacifist mode or you know stuff like that, and that's something that we we probably want to look into at some point but we just haven't, done it yet so maybe in the future
+> creative mode creative mode is something that might happen in the future where we look into like it would be I think we want to have different game modes satisfactory and creative mode is certainly one of those modes that we could add I know that a lot of people always also requested like, pacifist mode or you know stuff like that, and that's something that we we probably want to look into at some point but we just haven't, done it yet so maybe in the future

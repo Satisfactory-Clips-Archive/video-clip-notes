@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=FoCmMml5gi8
 
 ### Transcript
 
-> show off will you get to collab with gearbox now no i don't think that's gonna happen
+> show off will you get to collab with gearbox now no I don't think that's gonna happen

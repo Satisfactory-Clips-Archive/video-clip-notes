@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=OhElJ-ySLD4
 
 ### Transcript
 
-> if the vip items are for story would you advise not collecting them yet or will it not affect the story, i actually don't know how we're gonna handle that, in the future it might be that you can i mean you can like you can collect them if you want but i honestly don't know if like at some point we're gonna be like when we put in the story and we realized like oh for this to work we need to make a tweak to the to the
+> if the vip items are for story would you advise not collecting them yet or will it not affect the story, I actually don't know how we're gonna handle that, in the future it might be that you can I mean you can like you can collect them if you want but I honestly don't know if like at some point we're gonna be like when we put in the story and we realized like oh for this to work we need to make a tweak to the to the
 >
 > [Music]
 >

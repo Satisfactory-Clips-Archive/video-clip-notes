@@ -20,4 +20,4 @@ https://youtube.com/clip/UgxSn7sZCo9cJTo0QTN4AaABCQ
 
 ### Transcript
 
-> for sure and what future plans do we have for drones if there's any that you know of, currently we i don't think we really have any plans, as of right now, apart from maybe smaller improvements like maybe making them fly better in the air like making it look better as they fly and things like that but no real like gameplay additions as far as i know boo lasers add lasers to the drones so i believe we have some work in progress
+> for sure and what future plans do we have for drones if there's any that you know of, currently we I don't think we really have any plans, as of right now, apart from maybe smaller improvements like maybe making them fly better in the air like making it look better as they fly and things like that but no real like gameplay additions as far as I know boo lasers add lasers to the drones so I believe we have some work in progress

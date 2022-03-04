@@ -16,4 +16,4 @@ https://youtube.com/clip/UgkxxAm8G7CBs1UCGX0sIQS1-g6VgYPzvIgP
 
 ### Transcript
 
-> i mean as for state of dev the update's coming out today and we're still busy working on it so like, that's pretty much it not really much more to say for dave's death i think we're all aware of what's happening the update is coming, yeah that team is still busy improving and fixing stuff as well so there'll be more patches coming out of the deposit next week nice nice nice sir well without further ado then or do you
+> I mean as for state of dev the update's coming out today and we're still busy working on it so like, that's pretty much it not really much more to say for dave's death I think we're all aware of what's happening the update is coming, yeah that team is still busy improving and fixing stuff as well so there'll be more patches coming out of the deposit next week nice nice nice sir well without further ado then or do you

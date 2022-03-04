@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [November 9th, 
 
 ### Transcript
 
-> so yeah somebody asked before if if update 5 is going to break mods, i think so oh yeah yeah i probably will probably sure will i wouldn't be surprised if it did
+> so yeah somebody asked before if if update 5 is going to break mods, I think so oh yeah yeah I probably will probably sure will I wouldn't be surprised if it did

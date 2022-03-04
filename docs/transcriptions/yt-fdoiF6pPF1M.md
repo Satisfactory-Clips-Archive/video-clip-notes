@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [May 4th, 2021 
 
 ### Transcript
 
-> like emote yes please we'll be able to breed the doggers that's disgusting and shameless oh you mean for gameplay, yeah there might be like we've always talked about something like farming and if there's farming i think the fauna would pay, play a role in that as well so you know maybe
+> like emote yes please we'll be able to breed the doggers that's disgusting and shameless oh you mean for gameplay, yeah there might be like we've always talked about something like farming and if there's farming I think the fauna would pay, play a role in that as well so you know maybe

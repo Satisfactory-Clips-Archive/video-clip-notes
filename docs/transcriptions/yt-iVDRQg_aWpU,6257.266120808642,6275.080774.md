@@ -14,4 +14,4 @@ https://youtube.com/clip/UgkxE8o2Mvgt_wODwmGSrko1aVC0jfIF7sVK
 
 ### Transcript
 
-> crap i've seen some people ask if snook is my real name it's my legal name shows up there you go there you go my legal name is juice velvet that's right jace varley is my stage name this was staged have those kick flips coming
+> crap I've seen some people ask if snook is my real name it's my legal name shows up there you go there you go my legal name is juice velvet that's right jace varley is my stage name this was staged have those kick flips coming

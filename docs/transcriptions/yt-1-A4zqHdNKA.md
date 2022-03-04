@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [February 15th,
 
 ### Transcript
 
-> will we have other maps no there it is that's why that's why i asked that one because i need to be over real quick
+> will we have other maps no there it is that's why that's why I asked that one because I need to be over real quick

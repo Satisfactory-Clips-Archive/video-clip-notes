@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=rBIoeBysK4w
 
 ### Transcript
 
-> wrangler title hints for last selling dog goes ah i leaked it i leaked it doggo wrangling dlc ten dollars that's right you heard here first
+> wrangler title hints for last selling dog goes ah I leaked it I leaked it doggo wrangling dlc ten dollars that's right you heard here first

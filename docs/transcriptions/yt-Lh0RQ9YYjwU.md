@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=Lh0RQ9YYjwU
 
 ### Transcript
 
-> 666 for golf yeah getting close to 700 golf being, implemented at 700. we're guaranteed to get tigers in the gulf at 700 tricks no chicken this time yep i mean we never tricked you before we said 700 from the beginning
+> 666 for golf yeah getting close to 700 golf being, implemented at 700. we're guaranteed to get tigers in the gulf at 700 tricks no chicken this time yep I mean we never tricked you before we said 700 from the beginning

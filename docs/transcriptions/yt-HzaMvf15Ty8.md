@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [August 25th, 2
 
 ### Transcript
 
-> on do you guys plan on adding filters to truck stations i don't know maybe
+> on do you guys plan on adding filters to truck stations I don't know maybe

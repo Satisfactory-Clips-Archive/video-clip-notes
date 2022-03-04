@@ -20,8 +20,8 @@ https://www.youtube.com/watch?v=2aOpQh44UV8
 
 ### Transcript
 
-> you considered more alternative recipes me myself no i have not but have others, i think so
+> you considered more alternative recipes me myself no I have not but have others, I think so
 >
 > [Music]
 >
-> i'm i'm like they haven't told me but i can pretty safely say that yeah they probably have thought of alternative more alternative recipes
+> I'm I'm like they haven't told me but I can pretty safely say that yeah they probably have thought of alternative more alternative recipes

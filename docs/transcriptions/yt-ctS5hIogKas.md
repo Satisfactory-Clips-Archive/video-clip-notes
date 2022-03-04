@@ -16,4 +16,4 @@ This question was possibly replaced with a more recent answer: [March 9th, 2021 
 
 ### Transcript
 
-> update four, gonna be did i make a comment for that i can't remember yes i did oh here i made it a command you guys look let's see if this is correct information nothing seems to appearing right now that's oh wait update four i'm an idiot there you go there you go expected to be released in early 2020. magic year maybe 2021 won't suck as much as 20. famous last words
+> update four, gonna be did I make a comment for that I can't remember yes I did oh here I made it a command you guys look let's see if this is correct information nothing seems to appearing right now that's oh wait update four I'm an idiot there you go there you go expected to be released in early 2020. magic year maybe 2021 won't suck as much as 20. famous last words

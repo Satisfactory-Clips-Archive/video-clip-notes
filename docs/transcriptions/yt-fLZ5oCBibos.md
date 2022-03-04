@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=fLZ5oCBibos
 
 ### Transcript
 
-> it's tonight burger night oh man i'm trying to be healthy actually i've got some i'm cooking i'm cooking i'm trying to, be not healthy hell yeah do it i'm trying to get more calories do it gets thick maybe
+> it's tonight burger night oh man I'm trying to be healthy actually I've got some I'm cooking I'm cooking I'm trying to, be not healthy hell yeah do it I'm trying to get more calories do it gets thick maybe

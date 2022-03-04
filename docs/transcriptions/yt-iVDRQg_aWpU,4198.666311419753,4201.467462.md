@@ -14,4 +14,4 @@ https://youtube.com/clip/Ugkx05U17mzOtQlAzApCUrF0VyqkJ1XZ4Tpa
 
 ### Transcript
 
-> is jason aussie i am let's see if it's the same one
+> is jason aussie I am let's see if it's the same one

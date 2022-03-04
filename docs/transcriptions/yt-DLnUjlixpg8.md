@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [November 2nd, 
 
 ### Transcript
 
-> just go for it, low first person setting that there's more than five enemies in, yeah i think so i think there is
+> just go for it, low first person setting that there's more than five enemies in, yeah I think so I think there is

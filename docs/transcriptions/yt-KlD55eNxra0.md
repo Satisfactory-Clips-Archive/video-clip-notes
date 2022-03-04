@@ -24,4 +24,4 @@ This question was possibly duplicated with a more recent answer: [February 15th,
 
 ### Transcript
 
-> when can we get a good satisfactory what if i told you that there might be a go inside a sidestream somewhere final boss will be goat in one point crossover event of the century well i think it'd be very disappointing i think a lot of people will be like oh really and we're like paying rent you guys hell yeah this is darker reskin code yes
+> when can we get a good satisfactory what if I told you that there might be a go inside a sidestream somewhere final boss will be goat in one point crossover event of the century well I think it'd be very disappointing I think a lot of people will be like oh really and we're like paying rent you guys hell yeah this is darker reskin code yes

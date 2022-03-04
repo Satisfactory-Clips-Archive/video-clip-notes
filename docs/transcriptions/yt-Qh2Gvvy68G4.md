@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=Qh2Gvvy68G4
 
 ### Transcript
 
-> only three times is going to be a new vehicle well that's kind of weird because i'm gonna have to blink three times before the stream is over you know i'm gonna have to
+> only three times is going to be a new vehicle well that's kind of weird because I'm gonna have to blink three times before the stream is over you know I'm gonna have to

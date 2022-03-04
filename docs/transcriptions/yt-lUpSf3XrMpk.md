@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=lUpSf3XrMpk
 
 ### Transcript
 
-> what not i need a singer can you sing i used to sing i can maybe sing but i don't know if i'm any good anymore but let's see
+> what not I need a singer can you sing I used to sing I can maybe sing but I don't know if I'm any good anymore but let's see

@@ -19,6 +19,6 @@ https://www.youtube.com/watch?v=r_K0NK3NVKk
 >
 > [Music]
 >
-> how are you guys doing how are they how are you doing snoop i'm how are the devs doing i'm super thanks for asking i'm super how are you doing do you want to go back to that i want it oh yeah yeah hey james how are you doing well you doing
+> how are you guys doing how are they how are you doing snoop I'm how are the devs doing I'm super thanks for asking I'm super how are you doing do you want to go back to that I want it oh yeah yeah hey james how are you doing well you doing
 >
 > [Laughter]

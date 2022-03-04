@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=s2QCfzkFGSQ
 
 ### Transcript
 
-> change number of autosaves before they override each other, we haven't had like any reason to so far but, you can always go to the qa site and, voice your opinion because we haven't really thought about that like it used to be that the save files got like really big so like three was really pushing it but now that we have i don't know i don't know what a good number would be actually even because like it's also annoying if it just fills up your director with just like a ton of autosaves
+> change number of autosaves before they override each other, we haven't had like any reason to so far but, you can always go to the qa site and, voice your opinion because we haven't really thought about that like it used to be that the save files got like really big so like three was really pushing it but now that we have I don't know I don't know what a good number would be actually even because like it's also annoying if it just fills up your director with just like a ton of autosaves

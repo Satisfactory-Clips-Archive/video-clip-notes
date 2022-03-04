@@ -24,4 +24,4 @@ This question was possibly duplicated with a more recent answer: [July 16th, 202
 >
 > [Music]
 >
-> because we think mods is an amazing thing that should totally be a thing for the game we're going to support that as much as we can because i know like people ask me a lot like hey what do you think about mods like we love them we definitely love them we love what people are making and we want people like we want to give, like the availability for people to be able to make more stuff like that
+> because we think mods is an amazing thing that should totally be a thing for the game we're going to support that as much as we can because I know like people ask me a lot like hey what do you think about mods like we love them we definitely love them we love what people are making and we want people like we want to give, like the availability for people to be able to make more stuff like that

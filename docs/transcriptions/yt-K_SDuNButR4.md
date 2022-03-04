@@ -20,4 +20,4 @@ https://www.youtube.com/watch?v=K_SDuNButR4
 
 ### Transcript
 
-> oh an overflow valve where it only goes that way once the pipeline is completely full but yeah yeah that would actually be really sweet i see i see what you're playing it
+> oh an overflow valve where it only goes that way once the pipeline is completely full but yeah yeah that would actually be really sweet I see I see what you're playing it

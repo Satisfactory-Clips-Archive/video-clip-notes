@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=0u0CeKkxzek
 
 ### Transcript
 
-> can we please get rid of the stone asset which is blocking the way to the underground from the crater you know what they're referring to if you mean like the i think i know what they mean, if you enjoy falling through the world they ensure we can get rid of that there's nothing i know i know what yeah that's the crater in the, dune does it right yeah exactly yeah there's nothing there dude we can delete it if you want yeah it's just, yeah you can if you glitch through the world and you you get the same experience yep you get the full experience
+> can we please get rid of the stone asset which is blocking the way to the underground from the crater you know what they're referring to if you mean like the I think I know what they mean, if you enjoy falling through the world they ensure we can get rid of that there's nothing I know I know what yeah that's the crater in the, dune does it right yeah exactly yeah there's nothing there dude we can delete it if you want yeah it's just, yeah you can if you glitch through the world and you you get the same experience yep you get the full experience

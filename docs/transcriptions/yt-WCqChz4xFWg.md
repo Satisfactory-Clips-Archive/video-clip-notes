@@ -20,4 +20,4 @@ https://www.youtube.com/watch?v=WCqChz4xFWg
 
 ### Transcript
 
-> a lot, is there a way to deposit all material the same material i don't think we have that i don't know if we're gonna have that anytime soon what it's kind of weird do we have that where you can, deposit all material of the same type yeah you control click there you are control click it's good to know i'll use that in this run or control drag i don't know if the control trick click works but yeah you can you can do that
+> a lot, is there a way to deposit all material the same material I don't think we have that I don't know if we're gonna have that anytime soon what it's kind of weird do we have that where you can, deposit all material of the same type yeah you control click there you are control click it's good to know I'll use that in this run or control drag I don't know if the control trick click works but yeah you can you can do that

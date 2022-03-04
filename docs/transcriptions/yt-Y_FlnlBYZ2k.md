@@ -26,4 +26,4 @@ https://www.youtube.com/watch?v=Y_FlnlBYZ2k
 
 ### Transcript
 
-> what's your favorite mod i haven't used mods in a long time so i actually haven't checked out, it's been a while since since i played with mods honestly because i i've been making a lot of trailer stuff and i can't use the mod manager for that because it breaks our dev build potentially so i'm but, maybe we should i'm just gonna try out some more i gotta check it out
+> what's your favorite mod I haven't used mods in a long time so I actually haven't checked out, it's been a while since since I played with mods honestly because- I've been making a lot of trailer stuff and I can't use the mod manager for that because it breaks our dev build potentially so I'm but, maybe we should I'm just gonna try out some more I gotta check it out

@@ -20,4 +20,4 @@ This question was possibly duplicated with a more recent answer: [February 15th,
 
 ### Transcript
 
-> will ever be able to lifts for vehicles and players i don't know i probably not but, i'll put that on kiwi site that's like one of the main reasons we added hyper tubes was to sort of resolve that, so new probably not but always up on the keyword site you know if it gets 2 500 votes then we'll add it wait will be though
+> will ever be able to lifts for vehicles and players I don't know I probably not but, I'll put that on kiwi site that's like one of the main reasons we added hyper tubes was to sort of resolve that, so new probably not but always up on the keyword site you know if it gets 2 500 votes then we'll add it wait will be though

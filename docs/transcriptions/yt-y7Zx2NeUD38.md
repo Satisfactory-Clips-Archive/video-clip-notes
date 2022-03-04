@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=y7Zx2NeUD38
 
 ### Transcript
 
-> don't trust jace ever again screams in everything should work just fine for update save files yeah it worked i was right
+> don't trust jace ever again screams in everything should work just fine for update save files yeah it worked I was right

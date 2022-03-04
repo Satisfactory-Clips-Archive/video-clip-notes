@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [September 14th
 
 ### Transcript
 
-> mel that's really nice oh nice yeah, any improvement for the trucks, as if they could transport fluids no i mean that would be pretty cool with the fluids in general right wait can no they can't right right we're gonna hesitate to do anything with the vehicles because, they're, because why snit because they're quite expensive performance-wise who did that snit what me no i don't know i'm not going to throw anyone on the bus it was jace it was 100 what the
+> mel that's really nice oh nice yeah, any improvement for the trucks, as if they could transport fluids no I mean that would be pretty cool with the fluids in general right wait can no they can't right right we're gonna hesitate to do anything with the vehicles because, they're, because why snit because they're quite expensive performance-wise who did that snit what me no I don't know I'm not going to throw anyone on the bus it was jace it was 100 what the

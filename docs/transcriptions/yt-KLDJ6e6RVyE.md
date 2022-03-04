@@ -20,4 +20,4 @@ https://www.youtube.com/watch?v=KLDJ6e6RVyE
 
 ### Transcript
 
-> the phone game comes out maybe you can release like a limited edition version like a figurine oh that would be cool i wonder if we can organize that though i think we could probably do that yeah maybe we should do it sounds dope
+> the phone game comes out maybe you can release like a limited edition version like a figurine oh that would be cool I wonder if we can organize that though I think we could probably do that yeah maybe we should do it sounds dope

@@ -20,4 +20,4 @@ https://www.youtube.com/watch?v=rkt-OLWCJ8k
 
 ### Transcript
 
-> do you have enough guitars you need one more i actually have more you can't see off camera but not the flex anything but i do have more don't worry about it
+> do you have enough guitars you need one more I actually have more you can't see off camera but not the flex anything but I do have more don't worry about it

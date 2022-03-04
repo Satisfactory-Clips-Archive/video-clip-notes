@@ -27,7 +27,7 @@ of weird like they're more minor the Dune Desert looks and feels basically
 the same as it did before however the changes that we did make are
 landscape based so people who are you know kind of
 concerned about their factories There's the potential that these landscape
-changes may encroach on your factory So i'm going to show off some before and
+changes may encroach on your factory So I'm going to show off some before and
 afters of the Dune Desert changes just of a couple of the places so you can 
 kind of see what we're talking about here so there's there's the big wall separating
 the Dune Desert and the Spire Coast you can see that there used to be kind of

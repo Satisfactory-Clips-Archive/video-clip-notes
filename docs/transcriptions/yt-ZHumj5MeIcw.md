@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=ZHumj5MeIcw
 
 ### Transcript
 
-> the way it is so i'm not ignoring vr support questions, vr support is not planned whatsoever, i don't think it's something we're gonna do, it might be that some mod makes it i don't know
+> the way it is so I'm not ignoring vr support questions, vr support is not planned whatsoever, I don't think it's something we're gonna do, it might be that some mod makes it I don't know

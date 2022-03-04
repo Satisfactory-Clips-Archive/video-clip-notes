@@ -18,10 +18,10 @@ This question was possibly duplicated with a more recent answer: [February 8th, 
 
 ### Transcript
 
-> someone was asking if you could use the dedicated servers with docker i actually don't know i don't know if there's details i'm sure someone, like once dedicated servers is available i'm sure someone is gonna set up a docker
+> someone was asking if you could use the dedicated servers with docker I actually don't know I don't know if there's details I'm sure someone, like once dedicated servers is available I'm sure someone is gonna set up a docker
 >
 > [Music]
 >
-> thing recipe darker recipe darker image that's thank you i actually why didn't i say that i actually thought of that i was like i'm pretty sure it's image and i just didn't say anything just decided not to help okay thanks hey jays helps a lot yeah no worries i love that that meme is still running i still see comments on like everything we do on tweets thanks jace helps a lot
+> thing recipe darker recipe darker image that's thank you I actually why didn't I say that I actually thought of that I was like I'm pretty sure it's image and I just didn't say anything just decided not to help okay thanks hey jays helps a lot yeah no worries I love that that meme is still running I still see comments on like everything we do on tweets thanks jace helps a lot
 >
 > [Music]

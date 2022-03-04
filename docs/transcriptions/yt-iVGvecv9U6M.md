@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=iVGvecv9U6M
 
 ### Transcript
 
-> overclocking above 250 no i can give you a straight no there
+> overclocking above 250 no I can give you a straight no there

@@ -14,8 +14,8 @@ https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1505&end=1559
 
 ### Transcript
 
-> cool that's a that's a that's a mouthful i'm just going to eat my lunch real quick
+> cool that's a that's a that's a mouthful I'm just going to eat my lunch real quick
 >
 > [Music]
 >
-> i have enough time to eat right, cool dedicated service so, this is for the one that for the people that hate people that like eat on mike and [ __ ] this one goes right for you munch toast confirmed i was gonna do like an anime thing like a kid running into the stream like oh no i'm ready for school or something like that but this is actually my lunch i'm not kidding, i had a window for lunch i didn't take it, thanks i hated it awesome so dedicated servers a question that has
+> I have enough time to eat right, cool dedicated service so, this is for the one that for the people that hate people that like eat on mike and [ __ ] this one goes right for you munch toast confirmed I was gonna do like an anime thing like a kid running into the stream like oh no I'm ready for school or something like that but this is actually my lunch I'm not kidding, I had a window for lunch I didn't take it, thanks I hated it awesome so dedicated servers a question that has

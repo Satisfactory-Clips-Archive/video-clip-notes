@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=weSHyVmGPHI
 
 ### Transcript
 
-> you start from scratch every time you make a major update anyway yeah that's that's pretty bonkers dark jackal i could never do that but i'm yeah that's the way you play cool man cool
+> you start from scratch every time you make a major update anyway yeah that's that's pretty bonkers dark jackal I could never do that but I'm yeah that's the way you play cool man cool

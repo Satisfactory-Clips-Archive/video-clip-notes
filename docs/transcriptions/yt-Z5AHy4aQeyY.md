@@ -22,4 +22,4 @@ https://www.youtube.com/watch?v=Z5AHy4aQeyY
 
 ### Transcript
 
-> shall we, move on to oh well state of dev well i guess state of dev is is what we just kind of talked about the team is working really hard on on putting patches out we've been putting the patch out like almost every day, team's been super busy knocking out a you know cleaning up a bunch of bugs and that will just continue we'll just keep going with that and for the most part we're really happy with the release and it seems like a lot of people are really enjoying update five, yeah so that's pretty much the state of things yeah
+> shall we, move on to oh well state of dev well I guess state of dev is is what we just kind of talked about the team is working really hard on on putting patches out we've been putting the patch out like almost every day, team's been super busy knocking out a you know cleaning up a bunch of bugs and that will just continue we'll just keep going with that and for the most part we're really happy with the release and it seems like a lot of people are really enjoying update five, yeah so that's pretty much the state of things yeah

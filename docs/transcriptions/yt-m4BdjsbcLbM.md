@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=m4BdjsbcLbM
 
 ### Transcript
 
-> i remember when you leave pipes by accident about a year or two two years ago so that was not an accident i know what you're talking about it was on a stream but that was not an accident i also know i don't yeah it's funny because like we do so much that we that we show off and then that's the thing that people like you leave it yeah yeah
+> I remember when you leave pipes by accident about a year or two two years ago so that was not an accident I know what you're talking about it was on a stream but that was not an accident I also know I don't yeah it's funny because like we do so much that we that we show off and then that's the thing that people like you leave it yeah yeah

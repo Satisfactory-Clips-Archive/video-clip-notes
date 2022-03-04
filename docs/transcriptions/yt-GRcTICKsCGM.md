@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [October 5th, 2
 
 ### Transcript
 
-> eu shop eu shop yeah actually there hasn't been moving on eu shop pretty sure we sort of like have something nailed down and we're just working things out nice but i'm pretty sure that, like my understanding is that like it's not coming anytime not coming too soon or anything but we sort of i think we know who we're going with nice some progress has been made yeah if i understand correctly
+> eu shop eu shop yeah actually there hasn't been moving on eu shop pretty sure we sort of like have something nailed down and we're just working things out nice but I'm pretty sure that, like my understanding is that like it's not coming anytime not coming too soon or anything but we sort of I think we know who we're going with nice some progress has been made yeah if I understand correctly

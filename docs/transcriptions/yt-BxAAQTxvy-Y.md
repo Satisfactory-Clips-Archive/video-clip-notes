@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [June 29th, 202
 
 ### Transcript
 
-> direct text 10 12 when i don't think that will happen for a long time
+> direct text 10 12 when I don't think that will happen for a long time

@@ -29,8 +29,8 @@ https://www.youtube.com/watch?v=K5YpKYuj2W0
 >
 > [Laughter]
 >
-> where i refresh it it's gone five more every way if i every time i refresh it gets one this is like a game if i just keep refreshing it goes up oh incredible incredible you might accomplish a golf update now when we get to 800 we're gonna i'm gonna push that button you guys are gonna see an update immediately
+> where I refresh it it's gone five more every way if I every time I refresh it gets one this is like a game if I just keep refreshing it goes up oh incredible incredible you might accomplish a golf update now when we get to 800 we're gonna I'm gonna push that button you guys are gonna see an update immediately
 >
 > [Music]
 >
-> into both experimental and early access golf is just going to come they crash the site is the site not working now oh that's a shame it is pretty slow right now actually oh wow 762 holy [ __ ] all right well yeah while you guys do that let's move on to community highlights okay let's keep this stream let's keep the stream rolling push the button to stop the site factory golf is required all right all right let's let's leave that for now let's leave that for now all right community highlight community highlight segment okay, okay so if i do this oh you know what i don't know if i could do community house because no one's gonna no one's gonna pay attention you're all just gonna be talking about golf
+> into both experimental and early access golf is just going to come they crash the site is the site not working now oh that's a shame it is pretty slow right now actually oh wow 762 holy [ __ ] all right well yeah while you guys do that let's move on to community highlights okay let's keep this stream let's keep the stream rolling push the button to stop the site factory golf is required all right all right let's let's leave that for now let's leave that for now all right community highlight community highlight segment okay, okay so if I do this oh you know what I don't know if I could do community house because no one's gonna no one's gonna pay attention you're all just gonna be talking about golf

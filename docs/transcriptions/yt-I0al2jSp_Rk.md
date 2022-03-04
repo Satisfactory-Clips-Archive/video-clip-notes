@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [December 8th, 
 
 ### Transcript
 
-> is the pioneer a human, i think so i think so i think that's the lore
+> is the pioneer a human, I think so I think so I think that's the lore

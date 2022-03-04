@@ -20,4 +20,4 @@ https://www.youtube.com/watch?v=awAhXucxS-Y
 >
 > [Laughter]
 >
->, the amount of times we've said, i'm quitting jason's quitting, we've already done it
+>, the amount of times we've said, I'm quitting jason's quitting, we've already done it

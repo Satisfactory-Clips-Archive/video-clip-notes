@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [December 7th, 
 
 ### Transcript
 
-> we consider adding a feature to limit how much of a container can be filled we can always consider it and it's the same thing there like if you want to see that then enough without qa site we have talked about that but it's always like you know priorities, not like i haven't seen too many people ask about this, but, yeah make sure to upload that on the q a side if you want to see that
+> we consider adding a feature to limit how much of a container can be filled we can always consider it and it's the same thing there like if you want to see that then enough without qa site we have talked about that but it's always like you know priorities, not like I haven't seen too many people ask about this, but, yeah make sure to upload that on the q a side if you want to see that

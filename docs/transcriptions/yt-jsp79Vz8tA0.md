@@ -21,4 +21,4 @@ https://www.youtube.com/watch?v=jsp79Vz8tA0
 
 ### Transcript
 
-> will we get mark ii power storage in the future i don't know i don't think so
+> will we get mark ii power storage in the future I don't know I don't think so

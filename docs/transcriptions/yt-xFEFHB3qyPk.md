@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=xFEFHB3qyPk
 
 ### Transcript
 
-> can we increase the cable length of the conveyor belts i think the reason why we have that limit is because of, it's probably mostly because of this design decision, but i think there's a technical reason as well why we have those limits, i'm not quite sure but i think it's mostly a design decision maybe maybe in the future upload that on the question side doo doo doo doo doo doo doo
+> can we increase the cable length of the conveyor belts I think the reason why we have that limit is because of, it's probably mostly because of this design decision, but I think there's a technical reason as well why we have those limits, I'm not quite sure but I think it's mostly a design decision maybe maybe in the future upload that on the question side doo doo doo doo doo doo doo

@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=NM_f7DwMhdA
 
 ### Transcript
 
-> or coffee stain employment yeah what requires more computing power belts or pipes i would say belts
+> or coffee stain employment yeah what requires more computing power belts or pipes I would say belts

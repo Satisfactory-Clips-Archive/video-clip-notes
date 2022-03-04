@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [October 5th, 2
 
 ### Transcript
 
-> yeah but we have paintable vehicles don't know we used to way back when years ago we had paintable vehicles yeah what the happened with that i don't know what happened i think it's just one of those things where like some minor thing broke it and then we just haven't had time to fix it or something yeah i don't know
+> yeah but we have paintable vehicles don't know we used to way back when years ago we had paintable vehicles yeah what the happened with that I don't know what happened I think it's just one of those things where like some minor thing broke it and then we just haven't had time to fix it or something yeah I don't know

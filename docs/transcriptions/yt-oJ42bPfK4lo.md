@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=oJ42bPfK4lo
 
 ### Transcript
 
-> diagonal walls i think i answered yeah yeah yeah okay yeah, maybe there's going to be more with buildables in the future so we'll see when that comes but that is something that we know people have been asking for so yeah we'll see how that works out in terms of design and tech on that side of things
+> diagonal walls I think I answered yeah yeah yeah okay yeah, maybe there's going to be more with buildables in the future so we'll see when that comes but that is something that we know people have been asking for so yeah we'll see how that works out in terms of design and tech on that side of things

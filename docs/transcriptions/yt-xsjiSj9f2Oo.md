@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [August 17th, 2
 
 ### Transcript
 
-> are there any plans for more weapons or at least talk about it i don't know i don't know
+> are there any plans for more weapons or at least talk about it I don't know I don't know

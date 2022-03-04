@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=-rldplszJSQ
 
 ### Transcript
 
-> any changes play, plan for the void area underground either further development or making it so we can't get down there, i don't actually know i don't know actually
+> any changes play, plan for the void area underground either further development or making it so we can't get down there, I don't actually know I don't know actually

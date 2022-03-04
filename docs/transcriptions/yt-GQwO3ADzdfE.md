@@ -20,4 +20,4 @@ https://www.youtube.com/watch?v=GQwO3ADzdfE
 
 ### Transcript
 
-> you know what i'm going to show you guys a little secret so you see this mountain we actually have a climbing mechanic in the game, and i think you're going to be surprised oh wow amazing mechanic it's glad i've missed it
+> you know what I'm going to show you guys a little secret so you see this mountain we actually have a climbing mechanic in the game, and I think you're going to be surprised oh wow amazing mechanic it's glad I've missed it

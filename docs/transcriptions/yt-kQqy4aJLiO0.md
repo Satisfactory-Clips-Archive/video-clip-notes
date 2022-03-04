@@ -20,4 +20,4 @@ https://www.youtube.com/watch?v=kQqy4aJLiO0
 
 ### Transcript
 
-> would upgrading my cpu or my gpu get me better frame rates i am pretty sure cpu is the biggest bottleneck right now for the game unless you have like a really old graphics card, but from my understanding the cpu is like the biggest bottleneck for like big factories and stuff like that
+> would upgrading my cpu or my gpu get me better frame rates I am pretty sure cpu is the biggest bottleneck right now for the game unless you have like a really old graphics card, but from my understanding the cpu is like the biggest bottleneck for like big factories and stuff like that

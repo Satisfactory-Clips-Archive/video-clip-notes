@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=NfxKGSt-Ogw
 
 ### Transcript
 
-> are you lads allowed to comment on new ores for example for instance this amor, not really i mean it's gonna be like samoa is tied to the story and story won't really be out until, 1.0 so for now it's just gonna be a mysterious little ore but leave them on the map and they'll mature and you get sam or plus
+> are you lads allowed to comment on new ores for example for instance this amor, not really I mean it's gonna be like samoa is tied to the story and story won't really be out until, 1.0 so for now it's just gonna be a mysterious little ore but leave them on the map and they'll mature and you get sam or plus

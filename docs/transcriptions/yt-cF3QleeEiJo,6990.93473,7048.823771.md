@@ -16,7 +16,7 @@ https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=6990&end=7049
 
 ### Transcript
 
-> is the engine upgrade still only on experimental no so you will get both this is why i don't know if i have time to explain this in one minute to 48 seconds but, the end of an upgrade is gonna be part of update 4. so everything from
+> is the engine upgrade still only on experimental no so you will get both this is why I don't know if I have time to explain this in one minute to 48 seconds but, the end of an upgrade is gonna be part of update 4. so everything from
 >
 > [Music]
 >

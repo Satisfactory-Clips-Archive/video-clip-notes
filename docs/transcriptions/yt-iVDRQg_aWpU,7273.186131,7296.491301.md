@@ -16,4 +16,4 @@ https://youtube.com/clip/UgkxsAofLiB_1ZZz5ZXn6dcjznapIMwmuLF-
 
 ### Transcript
 
-> oh yeah this is the soup update hope you're all excited for this i've seen some people stream the game still in update 4 and they've been waiting so looking forward to not having to see people not use souping anymore because that is excruciating dude like watching people not not because people like are doing something wrong but that the fact the fact the game is missing zooping yeah yeah it it makes total sense for it to be there super good yeah well i mean do we have anything to kind of say here
+> oh yeah this is the soup update hope you're all excited for this I've seen some people stream the game still in update 4 and they've been waiting so looking forward to not having to see people not use souping anymore because that is excruciating dude like watching people not not because people like are doing something wrong but that the fact the fact the game is missing zooping yeah yeah it it makes total sense for it to be there super good yeah well I mean do we have anything to kind of say here

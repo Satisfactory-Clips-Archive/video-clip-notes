@@ -22,4 +22,4 @@ This question was possibly duplicated with a more recent answer: July 20th, 2021
 
 ### Transcript
 
-> i want i want to fire nukes at my royal pioneers oof that's hardcore why why would you want to destroy this beautiful planet with nukes not that we're not already destroying it
+> I want I want to fire nukes at my royal pioneers oof that's hardcore why why would you want to destroy this beautiful planet with nukes not that we're not already destroying it

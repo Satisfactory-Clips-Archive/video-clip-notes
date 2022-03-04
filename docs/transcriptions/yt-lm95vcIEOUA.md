@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=lm95vcIEOUA
 
 ### Transcript
 
-> how's that here doing muted gotta do it good oh it's muted again oh classic will never get old i mean it's our fault for leaning in we leaned in on it last week yeah that is true it's probably never going away
+> how's that here doing muted gotta do it good oh it's muted again oh classic will never get old I mean it's our fault for leaning in we leaned in on it last week yeah that is true it's probably never going away

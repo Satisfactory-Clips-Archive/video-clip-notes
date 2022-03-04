@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=Fu1oJLSiJo0
 
 ### Transcript
 
-> will you stream your gameplay i think we will jace has done that a few times when, when he's not been on vacation, we might potentially do a a another round of that but with me and doing mods, in the future we haven't solidified on this idea yet but event potentially we'll do it in the future
+> will you stream your gameplay I think we will jace has done that a few times when, when he's not been on vacation, we might potentially do a a another round of that but with me and doing mods, in the future we haven't solidified on this idea yet but event potentially we'll do it in the future

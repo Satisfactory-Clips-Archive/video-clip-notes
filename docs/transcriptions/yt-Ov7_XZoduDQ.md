@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [January 18th, 
 
 ### Transcript
 
-> the future any chance of blade status background n64 yes we are no but oya i know oya was just like killed off or whatever like the support for it but yeah totally oya expect that you
+> the future any chance of blade status background n64 yes we are no but oya I know oya was just like killed off or whatever like the support for it but yeah totally oya expect that you

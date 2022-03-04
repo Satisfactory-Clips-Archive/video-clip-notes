@@ -23,4 +23,4 @@ https://www.youtube.com/watch?v=KHMpvF2OS08
 
 ### Transcript
 
-> will there be a satisfactory soundtrack vinyl disc i don't know that would be cool i would i would love to see that, but, yeah i don't know you know maybe we should release the soundtrack at all if anything
+> will there be a satisfactory soundtrack vinyl disc I don't know that would be cool I would I would love to see that, but, yeah I don't know you know maybe we should release the soundtrack at all if anything

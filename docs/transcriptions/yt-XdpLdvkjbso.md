@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=XdpLdvkjbso
 
 ### Transcript
 
-> can you possibly look at the scaling for fireworks and also be able to sync them, i recommend you go to the qa side and post that suggestion there let the team know
+> can you possibly look at the scaling for fireworks and also be able to sync them, I recommend you go to the qa side and post that suggestion there let the team know

@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=XZrSYPFfxYE
 
 ### Transcript
 
-> will there ever be three meter rams i don't think so that sounds like an uneven number
+> will there ever be three meter rams I don't think so that sounds like an uneven number

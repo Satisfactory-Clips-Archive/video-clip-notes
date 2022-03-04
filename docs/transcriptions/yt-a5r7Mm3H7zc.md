@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=a5r7Mm3H7zc
 
 ### Transcript
 
-> are the plans for faster world travel i don't think there are plans for that i don't think
+> are the plans for faster world travel I don't think there are plans for that I don't think

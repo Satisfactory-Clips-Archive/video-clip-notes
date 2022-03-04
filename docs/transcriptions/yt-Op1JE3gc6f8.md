@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=Op1JE3gc6f8
 
 ### Transcript
 
-> is it a hard or soft tea pronunciation for my surname it's a soft soft tea i guess it's varlet not violet violet
+> is it a hard or soft tea pronunciation for my surname it's a soft soft tea I guess it's varlet not violet violet

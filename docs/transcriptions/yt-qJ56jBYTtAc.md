@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [February 22nd,
 
 ### Transcript
 
-> will we see vehicles air vehicles sometime in the future i mean there's already one in there it delivers your stuff
+> will we see vehicles air vehicles sometime in the future I mean there's already one in there it delivers your stuff

@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=YM_8Kq1EkLQ
 
 ### Transcript
 
-> does it hurt having a, piercing on my lip no not really well i mean it doesn't hurt at all, now that i have it but at the time, it hurt a little this feels like a pinch that's it
+> does it hurt having a, piercing on my lip no not really well I mean it doesn't hurt at all, now that I have it but at the time, it hurt a little this feels like a pinch that's it

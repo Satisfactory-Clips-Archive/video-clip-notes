@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=NZaGL-Zjl0o
 
 ### Transcript
 
-> does lars not make you not indie yeah i mean i i think i think being owned by embracer technically means we're not in india anymore but i i think we're we still dysfunctionally all right our indie
+> does lars not make you not indie yeah I mean- I think I think being owned by embracer technically means we're not in india anymore but- I think we're we still dysfunctionally all right our indie

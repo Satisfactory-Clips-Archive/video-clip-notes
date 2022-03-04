@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [May 18th, 2021
 
 ### Transcript
 
-> any more resources planned more gases i feel like we have more gas as planned it feels weird just having one gas, but i don't know what's on the table actually, we haven't talked about gases for a long time, i mean you'd be surprised, but, i i feel like we need to add at least one more gas right or something i don't know
+> any more resources planned more gases I feel like we have more gas as planned it feels weird just having one gas, but I don't know what's on the table actually, we haven't talked about gases for a long time, I mean you'd be surprised, but, I feel like we need to add at least one more gas right or something I don't know

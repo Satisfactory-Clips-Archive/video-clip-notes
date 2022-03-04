@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=n2iZ5LMi2QI
 
 ### Transcript
 
-> this is a little off topic but did jace become dora of coffee stain studios i did a little bit yes maybe a little bit vamanos oh i thought you said door i was like what oh dora dora oh yeah i was the monkey i was supposed to run around with a banana but we forgot about that part i think it was good that you were like the straight man you know yeah it was good
+> this is a little off topic but did jace become dora of coffee stain studios I did a little bit yes maybe a little bit vamanos oh I thought you said door I was like what oh dora dora oh yeah I was the monkey I was supposed to run around with a banana but we forgot about that part I think it was good that you were like the straight man you know yeah it was good

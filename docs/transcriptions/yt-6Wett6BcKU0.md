@@ -21,4 +21,4 @@ https://www.youtube.com/watch?v=6Wett6BcKU0
 
 ### Transcript
 
-> are taking an intern to the coffee stain no not that i know of sometimes we do but usually when we're taking interns it's like if we want to hire someone or like an internship should lead to a job i think is the approach so we're kind of cautious about like hiring interns not even interns to make your coffee no that's that's a waste for everyone really
+> are taking an intern to the coffee stain no not that I know of sometimes we do but usually when we're taking interns it's like if we want to hire someone or like an internship should lead to a job I think is the approach so we're kind of cautious about like hiring interns not even interns to make your coffee no that's that's a waste for everyone really

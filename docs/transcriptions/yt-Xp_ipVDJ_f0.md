@@ -22,4 +22,4 @@ https://www.youtube.com/watch?v=Xp_ipVDJ_f0
 >
 > [ __ ]
 >
-> maybe just see if they want to watch our videos and if they enjoy just hanging out and maybe eventually they'll be like i guess i'll give it a go if they enjoy hanging out all right about something that they don't care about so maybe not but whatever all right juice velvet you had me yet absolutely
+> maybe just see if they want to watch our videos and if they enjoy just hanging out and maybe eventually they'll be like I guess I'll give it a go if they enjoy hanging out all right about something that they don't care about so maybe not but whatever all right juice velvet you had me yet absolutely

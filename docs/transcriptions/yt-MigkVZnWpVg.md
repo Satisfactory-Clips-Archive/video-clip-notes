@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=MigkVZnWpVg
 
 ### Transcript
 
-> yeah please upload circular foundations you guys i think that's really i think that's actually useful instead of what am i saying no it's not golf all the way i can't believe i almost said that
+> yeah please upload circular foundations you guys I think that's really I think that's actually useful instead of what am I saying no it's not golf all the way I can't believe I almost said that

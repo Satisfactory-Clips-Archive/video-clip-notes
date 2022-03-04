@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=Epl-5Jmqq8o
 
 ### Transcript
 
-> oh you bet i can i could do his accent perfectly do it then i don't believe you can how departed my name's jace's dad and i'm jason's dad i've been his dad for a while now vamanos wow it's like i'm talking to your dad right now yeah i know there you are jace is dead do vehicles have collision detection for other vehicles i believe so even though what is he always yelling my dad he's got a really strong voice it's his accent you know
+> oh you bet I can I could do his accent perfectly do it then I don't believe you can how departed my name's jace's dad and I'm jason's dad I've been his dad for a while now vamanos wow it's like I'm talking to your dad right now yeah I know there you are jace is dead do vehicles have collision detection for other vehicles I believe so even though what is he always yelling my dad he's got a really strong voice it's his accent you know

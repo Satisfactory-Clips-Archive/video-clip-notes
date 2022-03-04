@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=P7TqN8XDO5k
 
 ### Transcript
 
-> are you really fired or did you make the decision to move to another job or neither i made the decision to to go yes
+> are you really fired or did you make the decision to move to another job or neither I made the decision to to go yes

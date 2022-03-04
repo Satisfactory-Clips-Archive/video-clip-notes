@@ -16,4 +16,4 @@ https://youtube.com/clip/UgkxbJ0gh0nXVvwLDyffqVvrtBkhi8zdQR4Y
 
 ### Transcript
 
-> right one thing that you hopefully also didn't miss is that we've added a lot more emotes to the game so you can emote a lot more there's there used to be just two and now there's a bunch more so you have like the heart shape and now you have like the wave you can point and stuff, you can play rock paper scissors, if you're playing multiplayer so maybe you'll settle a lot of dispute or something using that i don't know, but we're super stoked to get that and it's a really nice little detail we've also added a bunch more storage personal
+> right one thing that you hopefully also didn't miss is that we've added a lot more emotes to the game so you can emote a lot more there's there used to be just two and now there's a bunch more so you have like the heart shape and now you have like the wave you can point and stuff, you can play rock paper scissors, if you're playing multiplayer so maybe you'll settle a lot of dispute or something using that I don't know, but we're super stoked to get that and it's a really nice little detail we've also added a bunch more storage personal

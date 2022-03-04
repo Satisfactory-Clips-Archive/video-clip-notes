@@ -14,4 +14,4 @@ https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=4036&end=4044
 
 ### Transcript
 
-> question so far can i play a civilization session with you Jace no one more good question pipes nut that's
+> question so far can I play a civilization session with you Jace no one more good question pipes nut that's

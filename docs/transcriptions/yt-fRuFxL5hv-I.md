@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [February 15th,
 
 ### Transcript
 
-> elevators when i don't know if we're gonna be putting elevators i don't know i'm not sure feel free to go to the qa site and you know put that there i'm sure it's probably up
+> elevators when I don't know if we're gonna be putting elevators I don't know I'm not sure feel free to go to the qa site and you know put that there I'm sure it's probably up

@@ -22,4 +22,4 @@ https://www.youtube.com/watch?v=QwWO3fGEdro
 
 ### Transcript
 
-> twenty percent dutch i think so right it's like twenty percent maybe yeah they take it over no i think we're less than twenty percent how many are we i keep forgetting i think we're something like in the 30s and i think we have like four dutch people that's more right is it more oh yeah wait there is more it's like five or six or something i don't know they're invading what am i forgetting yeah something like that slowly taking over
+> twenty percent dutch I think so right it's like twenty percent maybe yeah they take it over no I think we're less than twenty percent how many are we I keep forgetting I think we're something like in the 30s and I think we have like four dutch people that's more right is it more oh yeah wait there is more it's like five or six or something I don't know they're invading what am I forgetting yeah something like that slowly taking over

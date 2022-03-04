@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: October 26th, 2
 
 ### Transcript
 
-> how how's the coveted situation there i don't know i think from what i hear the covet situation is shitty in sweden but i don't really i just stay i just stay here so like and i don't really pay attention to a lot of things so i'm not really too sure
+> how how's the coveted situation there I don't know I think from what I hear the covet situation is shitty in sweden but I don't really I just stay I just stay here so like and I don't really pay attention to a lot of things so I'm not really too sure

@@ -22,4 +22,4 @@ https://www.youtube.com/watch?v=nTovpIX8gp0
 
 ### Transcript
 
-> cool so now we've got more pocket space amazing stuff pocket dimension has been inflated nice thanks aydah adams by the way like the little what's the acronym again ai yeah assistant and something automated directory assistant maybe yeah i can't remember it somewhere whatever it's not important
+> cool so now we've got more pocket space amazing stuff pocket dimension has been inflated nice thanks aydah adams by the way like the little what's the acronym again ai yeah assistant and something automated directory assistant maybe yeah I can't remember it somewhere whatever it's not important

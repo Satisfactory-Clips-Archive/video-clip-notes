@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=SYEIsZ6KVgU
 
 ### Transcript
 
-> how about being able to snap foundations by the halfway point instead of just the edge that's another q a site thing for sure that sounds pretty cool i actually haven't seen that suggested much personally i haven't seen it but, yeah you should check it on the site see questions i'm using all the commands for the exact same, output that, yeah questions of satisfactorygame.com or suggested stuff
+> how about being able to snap foundations by the halfway point instead of just the edge that's another q a site thing for sure that sounds pretty cool I actually haven't seen that suggested much personally I haven't seen it but, yeah you should check it on the site see questions I'm using all the commands for the exact same, output that, yeah questions of satisfactorygame.com or suggested stuff

@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=PHz1xqlxvqo
 
 ### Transcript
 
-> your mic sounds so much better i haven't changed my mic what are you talking about
+> your mic sounds so much better I haven't changed my mic what are you talking about

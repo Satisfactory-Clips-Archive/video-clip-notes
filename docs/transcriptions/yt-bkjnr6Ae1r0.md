@@ -16,4 +16,4 @@ This question was possibly replaced with a more recent answer: [February 9th, 20
 
 ### Transcript
 
-> a lot of here on the stream how's the cup going i assume by a cup you mean the mug merch, there's been movements like forward on that but yeah so we'll hopefully keep going forward on that
+> a lot of here on the stream how's the cup going I assume by a cup you mean the mug merch, there's been movements like forward on that but yeah so we'll hopefully keep going forward on that

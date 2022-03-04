@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=-b06Z6Xxtbk
 
 ### Transcript
 
-> renamable color swatches that's actually a really good question i think that would be a really good addition please go to the giveaway site and i'll put that, because it is a little bit confusing that you can't name them or it would be good if you could yeah put the names in the swatches
+> renamable color swatches that's actually a really good question I think that would be a really good addition please go to the giveaway site and I'll put that, because it is a little bit confusing that you can't name them or it would be good if you could yeah put the names in the swatches

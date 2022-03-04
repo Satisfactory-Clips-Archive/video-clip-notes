@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=yZHoy5xKB1c
 
 ### Transcript
 
-> earth will the drones get a buff because they're a little bit too expensive against the train, the thing is that they're not really supposed to replace the trains they're more like we really want them to be in their own niche that's also kind of why we made them quite expensive in that sense because otherwise we were worried that people were just gonna build six million drones everywhere to basically do what trains can already do, so no i don't think we're gonna buff them necessarily
+> earth will the drones get a buff because they're a little bit too expensive against the train, the thing is that they're not really supposed to replace the trains they're more like we really want them to be in their own niche that's also kind of why we made them quite expensive in that sense because otherwise we were worried that people were just gonna build six million drones everywhere to basically do what trains can already do, so no I don't think we're gonna buff them necessarily

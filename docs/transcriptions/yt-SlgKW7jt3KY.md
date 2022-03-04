@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=SlgKW7jt3KY
 
 ### Transcript
 
-> paradox avoided yeah that was a close call actually oh you have to do this every day nowadays because you recorded like one for not ever every day actually you did one for every week that's true yeah so we have to do this every week up until i don't know right i have no idea sorry that was life, it was it was until october 5th yeah yeah bummer well quantum leaping yeah we got this
+> paradox avoided yeah that was a close call actually oh you have to do this every day nowadays because you recorded like one for not ever every day actually you did one for every week that's true yeah so we have to do this every week up until I don't know right I have no idea sorry that was life, it was it was until october 5th yeah yeah bummer well quantum leaping yeah we got this

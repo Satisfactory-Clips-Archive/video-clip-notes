@@ -28,4 +28,4 @@ https://www.youtube.com/watch?v=Md41t3AMEX0
 
 ### Transcript
 
-> and yes april 13th is still the, the date for when we expect, update four to hit early access next week this time oh my god actually six right that is the time i think it's six hour time yeah i always forget but it's six it's always the same time ever every time and i always forget anyways 5 p.m gmt
+> and yes april 13th is still the, the date for when we expect, update four to hit early access next week this time oh my god actually six right that is the time I think it's six hour time yeah I always forget but it's six it's always the same time ever every time and I always forget anyways 5 p.m gmt

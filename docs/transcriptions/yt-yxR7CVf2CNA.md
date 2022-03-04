@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=yxR7CVf2CNA
 >
 > [Music]
 >
-> there are maybe some cases where like i'd still say upload old issues even if they still if they still persist, because it's better to have those tickets like become popular so they become like you know so they're there and you know obvious to us, that rather than like making a bunch of new ones we still see them but i think for community sake it's better if you upvote the old issues, so that you know it feels good for you guys to know that there are popular issues or whatever
+> there are maybe some cases where like I'd still say upload old issues even if they still if they still persist, because it's better to have those tickets like become popular so they become like you know so they're there and you know obvious to us, that rather than like making a bunch of new ones we still see them but I think for community sake it's better if you upvote the old issues, so that you know it feels good for you guys to know that there are popular issues or whatever

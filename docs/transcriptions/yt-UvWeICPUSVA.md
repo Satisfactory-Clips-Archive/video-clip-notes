@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=UvWeICPUSVA
 
 ### Transcript
 
-> yeah subnautica did have terraforming and removed it i forgot about that oh really yeah they had it in their, closed beta i think or close like up until their close beta or something like that or maybe it was early access and then they removed it because it ruined story like you could just go through the ground it doesn't make sense to not have it in that game
+> yeah subnautica did have terraforming and removed it I forgot about that oh really yeah they had it in their, closed beta I think or close like up until their close beta or something like that or maybe it was early access and then they removed it because it ruined story like you could just go through the ground it doesn't make sense to not have it in that game

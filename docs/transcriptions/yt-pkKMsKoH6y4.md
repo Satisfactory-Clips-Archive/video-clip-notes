@@ -22,4 +22,4 @@ https://www.youtube.com/watch?v=pkKMsKoH6y4
 
 ### Transcript
 
-> will ever better remove or destroy poison pills i don't know what the status is on that i don't know
+> will ever better remove or destroy poison pills I don't know what the status is on that I don't know

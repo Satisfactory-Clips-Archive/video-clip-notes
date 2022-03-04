@@ -29,4 +29,4 @@ This question was possibly replaced with a more recent answer: October 26th, 202
 
 ### Transcript
 
-> this is dog a plushie that's something that i just formed nothing yeah what about the lucifer though, yeah so this is actually the discussion that's going on with with behind the scenes and what we're trying to figure out they'll be dog
+> this is dog a plushie that's something that I just formed nothing yeah what about the lucifer though, yeah so this is actually the discussion that's going on with with behind the scenes and what we're trying to figure out they'll be dog

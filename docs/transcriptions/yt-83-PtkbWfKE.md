@@ -24,4 +24,4 @@ https://www.youtube.com/watch?v=83-PtkbWfKE
 
 ### Transcript
 
-> will the cost of stuff in awesome shop adapt to new things being added or will there be an additional stuff to buy there will be like wait i think i think the question really asking is will stuff wait the the cosmetic stuff will will be in the austin shop is i think the question the answer that you really want here, and you'll buy them with tickets the same way you do buy everything in the awesome shop coupons and there's no real change to like how the coupons work or something like we just like add more stuff to the awesome shop essentially
+> will the cost of stuff in awesome shop adapt to new things being added or will there be an additional stuff to buy there will be like wait I think I think the question really asking is will stuff wait the the cosmetic stuff will will be in the austin shop is I think the question the answer that you really want here, and you'll buy them with tickets the same way you do buy everything in the awesome shop coupons and there's no real change to like how the coupons work or something like we just like add more stuff to the awesome shop essentially

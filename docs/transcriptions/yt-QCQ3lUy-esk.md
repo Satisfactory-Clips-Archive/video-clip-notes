@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=QCQ3lUy-esk
 
 ### Transcript
 
-> what's the biggest problem you've had with the game, just the game i don't know if we've had a biggest problem because like there's so many small things that are happening here everywhere a lot of problems i think that from my perspective my programming perspective i think the biggest problem has been
+> what's the biggest problem you've had with the game, just the game I don't know if we've had a biggest problem because like there's so many small things that are happening here everywhere a lot of problems I think that from my perspective my programming perspective I think the biggest problem has been
 >
 > [Music]
 >

@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=tVFjOlpLbn8
 
 ### Transcript
 
-> no what's for dinner tonight we're both gonna get pizza i kind of offset my burger days because i had burgers like a couple of days ago, another thing is pizza hut in gothenburg also has a deal every tuesday where like you get half off or something like that so it's just an opportunity too good to, pass up on
+> no what's for dinner tonight we're both gonna get pizza I kind of offset my burger days because I had burgers like a couple of days ago, another thing is pizza hut in gothenburg also has a deal every tuesday where like you get half off or something like that so it's just an opportunity too good to, pass up on

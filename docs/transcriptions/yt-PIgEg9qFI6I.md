@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=PIgEg9qFI6I
 
 ### Transcript
 
-> please add rpg attribute system that's not going to happen i think i think that's not going to happen
+> please add rpg attribute system that's not going to happen I think I think that's not going to happen

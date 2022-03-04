@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=-1_j_CPi6YI
 
 ### Transcript
 
-> will dedicate service be self-hosted yes i'm like 80 sure that dedicated servers will you will be able to self-host them
+> will dedicate service be self-hosted yes I'm like 80 sure that dedicated servers will you will be able to self-host them

@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=W6Zxy430lZo
 
 ### Transcript
 
-> have you tried overclocking fuel generators it's very confusing interface doesn't reflect correctly the target power huh i don't really know anything about that actually you're angus but questions at satisfactorygame.com leave a detailed explanation about what you're experiencing there because if there's something funky going on we want to know about it
+> have you tried overclocking fuel generators it's very confusing interface doesn't reflect correctly the target power huh I don't really know anything about that actually you're angus but questions at satisfactorygame.com leave a detailed explanation about what you're experiencing there because if there's something funky going on we want to know about it

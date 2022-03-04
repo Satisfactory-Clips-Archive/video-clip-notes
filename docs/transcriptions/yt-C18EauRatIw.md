@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [October 5th, 2
 
 ### Transcript
 
-> what about the vehicles being paintable that sounds like a great thing to put on the keyboard side as well i'm sure pretty sure there is one so you can just upload it yeah so definitely go and upload it i'm sure it's i'm sure it's there sure what's there sounds like a great idea they were paintable way back when
+> what about the vehicles being paintable that sounds like a great thing to put on the keyboard side as well I'm sure pretty sure there is one so you can just upload it yeah so definitely go and upload it I'm sure it's I'm sure it's there sure what's there sounds like a great idea they were paintable way back when

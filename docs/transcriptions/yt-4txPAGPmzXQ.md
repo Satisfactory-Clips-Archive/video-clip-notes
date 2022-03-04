@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [February 8th, 
 
 ### Transcript
 
-> would ever be farming added to the base game, , we've sort of talked about this before we like the idea of it definitely sounds cool certainly makes sense you know, so like it might it might be a thing in the base game but i don't know if it's gonna be in for 1.0 or not, also don't actually know if it's going to be coming but yeah trying to let us down gently
+> would ever be farming added to the base game, , we've sort of talked about this before we like the idea of it definitely sounds cool certainly makes sense you know, so like it might it might be a thing in the base game but I don't know if it's gonna be in for 1.0 or not, also don't actually know if it's going to be coming but yeah trying to let us down gently

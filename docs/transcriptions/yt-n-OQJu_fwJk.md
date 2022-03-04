@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=n-OQJu_fwJk
 
 ### Transcript
 
-> definitely need more railing types make sure to put down the qrs side dude yeah yeah i got a dmc8
+> definitely need more railing types make sure to put down the qrs side dude yeah yeah I got a dmc8

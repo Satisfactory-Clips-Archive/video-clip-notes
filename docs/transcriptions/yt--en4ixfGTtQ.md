@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=-en4ixfGTtQ
 
 ### Transcript
 
-> have you had any phone calls from phil spencer offering you a large, amount of money that was just before that's who was calling before but i'm streaming so i had to have to hang up on him yeah, you can can call me later if he's if he's he did offer us a 69 69 billion deal but, we'll talk to them later
+> have you had any phone calls from phil spencer offering you a large, amount of money that was just before that's who was calling before but I'm streaming so I had to have to hang up on him yeah, you can can call me later if he's if he's he did offer us a 69 69 billion deal but, we'll talk to them later

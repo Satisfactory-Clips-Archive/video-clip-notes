@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [September 14th
 
 ### Transcript
 
-> how's progress on train signals and collisions will it still drop before update 5 it will not drop before update 5. it certainly won't i don't think we've ever said that it would but yeah
+> how's progress on train signals and collisions will it still drop before update 5 it will not drop before update 5. it certainly won't I don't think we've ever said that it would but yeah

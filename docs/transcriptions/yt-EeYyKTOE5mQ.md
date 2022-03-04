@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [September 14th
 
 ### Transcript
 
-> get it strange creature mounts yeah you i'm trying to find a good warcraft, wow mount reference here but i didn't play wow enough i never played but you you could mount one of the creatures at one point jace that's not safe for work okay
+> get it strange creature mounts yeah you I'm trying to find a good warcraft, wow mount reference here but I didn't play wow enough I never played but you you could mount one of the creatures at one point jace that's not safe for work okay

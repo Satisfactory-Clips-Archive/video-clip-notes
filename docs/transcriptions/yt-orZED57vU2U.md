@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=orZED57vU2U
 
 ### Transcript
 
-> jason has been an intern his whole this whole time my whole life i've been interning my whole life still waiting for that break that lucky break he still is yeah feels weird that i got hired as community manager before you got out of internship of life
+> jason has been an intern his whole this whole time my whole life I've been interning my whole life still waiting for that break that lucky break he still is yeah feels weird that I got hired as community manager before you got out of internship of life

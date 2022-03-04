@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [January 25th, 
 
 ### Transcript
 
-> well any plans for terraforming, no no plans for terraforming it was like a decision we had to take when we started making this game that we would rather handcraft everything well they mean they mean changing the landscape but yeah we don't have plans for any of that either yeah oh yeah yeah no i think you were thinking procedural yeah i was thinking procedural but say same deal kind of like there that system isn't put in place two answers for the price of one question yeah there you go
+> well any plans for terraforming, no no plans for terraforming it was like a decision we had to take when we started making this game that we would rather handcraft everything well they mean they mean changing the landscape but yeah we don't have plans for any of that either yeah oh yeah yeah no I think you were thinking procedural yeah I was thinking procedural but say same deal kind of like there that system isn't put in place two answers for the price of one question yeah there you go

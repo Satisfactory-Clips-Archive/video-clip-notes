@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [February 8th, 
 
 ### Transcript
 
-> well avatar skins be added to the game i don't know and i don't know if they will be but if they do then like i'm not sure when we're gonna do character customization
+> well avatar skins be added to the game I don't know and I don't know if they will be but if they do then like I'm not sure when we're gonna do character customization

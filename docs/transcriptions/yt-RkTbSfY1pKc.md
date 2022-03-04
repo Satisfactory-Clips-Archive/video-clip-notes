@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=RkTbSfY1pKc
 
 ### Transcript
 
-> still got some time left is the game only good because you guys made goat simulator actually a really good question yes, it is yeah i mean go to simulator made us bank guys like we got a lot of money from go to man it's sold a lot and, what's really cool about coffee stain is that as a studio we we we decided okay well now that we have all this funding if we have a game that's big and is going to take a long time to make we can still do that so using that money we were able to, make satisfactory and boy how did we did we ever yep
+> still got some time left is the game only good because you guys made goat simulator actually a really good question yes, it is yeah I mean go to simulator made us bank guys like we got a lot of money from go to man it's sold a lot and, what's really cool about coffee stain is that as a studio we we we decided okay well now that we have all this funding if we have a game that's big and is going to take a long time to make we can still do that so using that money we were able to, make satisfactory and boy how did we did we ever yep

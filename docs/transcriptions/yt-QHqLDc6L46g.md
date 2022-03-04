@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=QHqLDc6L46g
 
 > [Music]
 >
-> so jason am i not swedish i am not i'm australian how did you know
+> so jason am I not swedish I am not I'm australian how did you know

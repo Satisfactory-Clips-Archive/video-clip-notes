@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=qOqS6B-RV4w
 
 ### Transcript
 
-> that version available somewhere i don't think so no it's not no
+> that version available somewhere I don't think so no it's not no

@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=7hJDZCiH0o0
 
 ### Transcript
 
-> will there be any big ui changes before 1.0 like color palette and design i don't know if there will be there are changes to certain uis in update 5 and there will be new uis in update 5 as well so but if you you're saying like like the color palette and design i don't think that the color palette or the design is going to change so much i think it's still going to look and feel kind of like what the ui looks like now but there are there are some there's a lot of ui work going into update 5 for sure true story
+> will there be any big ui changes before 1.0 like color palette and design I don't know if there will be there are changes to certain uis in update 5 and there will be new uis in update 5 as well so but if you you're saying like like the color palette and design I don't think that the color palette or the design is going to change so much I think it's still going to look and feel kind of like what the ui looks like now but there are there are some there's a lot of ui work going into update 5 for sure true story

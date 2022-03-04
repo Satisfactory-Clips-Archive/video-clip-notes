@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=p-3_lmB_92k
 
 ### Transcript
 
-> i can't post on the qa site i'm just not able to so you need to create an account to do that if you still can't do that then that's weird for sure feel free to contact us on like twitter or something in a dm and maybe let us know what's up yeah
+> I can't post on the qa site I'm just not able to so you need to create an account to do that if you still can't do that then that's weird for sure feel free to contact us on like twitter or something in a dm and maybe let us know what's up yeah

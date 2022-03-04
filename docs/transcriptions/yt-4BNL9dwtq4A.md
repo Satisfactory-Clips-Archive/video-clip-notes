@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=4BNL9dwtq4A
 
 ### Transcript
 
-> i'm excited the game is phenomenal been playing it with my dad since beta first released so excited to see where it goes oh nice to have you here glad you're enjoying the game you and your dad i'm assuming your dad enjoys the game too
+> I'm excited the game is phenomenal been playing it with my dad since beta first released so excited to see where it goes oh nice to have you here glad you're enjoying the game you and your dad I'm assuming your dad enjoys the game too

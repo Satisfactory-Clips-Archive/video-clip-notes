@@ -14,4 +14,4 @@ https://youtube.com/embed/Y7G72e0LLBg?autoplay=1&start=280&end=304
 
 ### Transcript
 
-> the soundtracks feel very appreciated when people they say stuff like and I didn't come here for the trailer I came if with music it's very fun to have people enjoy what you create it means a lot I I really hope people won't be a record disappointed when the music is not as of the beat or you know funny in that sense in the game I think they'll survive
+> the soundtracks feel very appreciated when people they say stuff like and I didn't come here for the trailer I came if with music it's very fun to have people enjoy what you create it means a lot- I really hope people won't be a record disappointed when the music is not as of the beat or you know funny in that sense in the game I think they'll survive

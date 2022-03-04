@@ -18,4 +18,4 @@ https://youtube.com/embed/cNBKEaJMLyM?autoplay=1&start=50&end=68
 
 ### Transcript
 
-> everyone's reactions you'll probably see that we did a bonus video like a throwback video that i released a couple days ago which was chat reaction to, when we revealed the update for patch notes video so like yeah it'll be at another moment kind of like that so it'd be really cool to see you there if you want to hang out and, share that moment with us and everyone else it'll be really really cool i was gonna do
+> everyone's reactions you'll probably see that we did a bonus video like a throwback video that I released a couple days ago which was chat reaction to, when we revealed the update for patch notes video so like yeah it'll be at another moment kind of like that so it'd be really cool to see you there if you want to hang out and, share that moment with us and everyone else it'll be really really cool I was gonna do

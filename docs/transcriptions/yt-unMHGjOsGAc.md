@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [July 13th, 202
 
 ### Transcript
 
-> there's some some info there any plans for farming for biomass production, i don't think there are plans for that at this stage but i i think people have sort of thought of that in like animal breeding or whatever but that's not a focus we think it sounds cool it sounds cool
+> there's some some info there any plans for farming for biomass production, I don't think there are plans for that at this stage but- I think people have sort of thought of that in like animal breeding or whatever but that's not a focus we think it sounds cool it sounds cool

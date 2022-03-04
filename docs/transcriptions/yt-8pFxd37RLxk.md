@@ -16,4 +16,4 @@ This question was possibly replaced with a more recent answer: [February 19th, 2
 
 ### Transcript
 
-> make sense forever what's the point of batters if we don't have variable power i don't know man batteries who needs them i know i don't yep
+> make sense forever what's the point of batters if we don't have variable power I don't know man batteries who needs them I know I don't yep

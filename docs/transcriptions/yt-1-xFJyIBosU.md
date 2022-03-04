@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=1-xFJyIBosU
 
 ### Transcript
 
-> as we know, toilet plunger for the hub when you can leave your suggestions at, questions at satisfactorygame.com for plunger actually i don't think many people have suggested the plunger but there have been other suggestions for toilet things right and i think one dollar toilet flush dlc coming soon soon
+> as we know, toilet plunger for the hub when you can leave your suggestions at, questions at satisfactorygame.com for plunger actually I don't think many people have suggested the plunger but there have been other suggestions for toilet things right and I think one dollar toilet flush dlc coming soon soon

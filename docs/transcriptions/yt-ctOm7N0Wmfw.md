@@ -16,4 +16,4 @@ This question was possibly replaced with a more recent answer: [January 19th, 20
 
 ### Transcript
 
-> 2021 anyway we can get close captions for the stream yes i mean the closed captions are always kind of garbage but they're better than nothing right so i'm gonna make a note of that, isn't there like a, there's like a twitch plug-in that's on by default i believe so they can you enable on the back end if i or maybe i'm talking about well we'll have to look into it later yeah we'll have to look at that but right now we can totally look into that yeah
+> 2021 anyway we can get close captions for the stream yes I mean the closed captions are always kind of garbage but they're better than nothing right so I'm gonna make a note of that, isn't there like a, there's like a twitch plug-in that's on by default I believe so they can you enable on the back end if I or maybe I'm talking about well we'll have to look into it later yeah we'll have to look at that but right now we can totally look into that yeah

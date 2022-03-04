@@ -22,4 +22,4 @@ https://www.youtube.com/watch?v=0JyFVACOZ-E
 
 ### Transcript
 
-> is it safe to set up 1 000 t turbo fuel generators or better weight, i'd say you can do it, thought you're gonna say t-swift taylor swift generators, no i think gopher honestly, i don't think, i actually don't know how what the actual effect will be i'll i'll pretend that i played the game, but no it should be fine should be trademarked
+> is it safe to set up 1 000 t turbo fuel generators or better weight, I'd say you can do it, thought you're gonna say t-swift taylor swift generators, no I think gopher honestly, I don't think, I actually don't know how what the actual effect will be I'll I'll pretend that I played the game, but no it should be fine should be trademarked

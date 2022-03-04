@@ -20,4 +20,4 @@ https://www.youtube.com/watch?v=YLYrWKLJLK0
 
 ### Transcript
 
-> and another question is with update five coming this fall we'll be getting a mid-update patch like similar to how we did with the fluid update i guess for update three, new the next update will be update five so no no mid patch we decided to just like put everything in one package instead
+> and another question is with update five coming this fall we'll be getting a mid-update patch like similar to how we did with the fluid update I guess for update three, new the next update will be update five so no no mid patch we decided to just like put everything in one package instead

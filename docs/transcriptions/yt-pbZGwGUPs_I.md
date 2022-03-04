@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=pbZGwGUPs_I
 
 ### Transcript
 
-> why would you be a biomass burner because i put the biomass burn biomass in and the gas comes out nice nice
+> why would you be a biomass burner because I put the biomass burn biomass in and the gas comes out nice nice

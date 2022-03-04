@@ -20,4 +20,4 @@ https://www.youtube.com/watch?v=9GdvoH4nUNU
 >
 > [Music]
 >
-> make sure it's one that's like trustworthy that like you know we can say yeah this is this one's good to use and we're not just gonna link to like a random person in the community, i mean i'm sure we could but like we sort of want to just have our own one that we have sort of control over
+> make sure it's one that's like trustworthy that like you know we can say yeah this is this one's good to use and we're not just gonna link to like a random person in the community, I mean I'm sure we could but like we sort of want to just have our own one that we have sort of control over

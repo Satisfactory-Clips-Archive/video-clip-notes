@@ -32,4 +32,4 @@ https://www.youtube.com/watch?v=zZHLKZIyLRI
 
 ### Transcript
 
-> how many people work at your studio we are around 30-ish people i think that's studios
+> how many people work at your studio we are around 30-ish people I think that's studios

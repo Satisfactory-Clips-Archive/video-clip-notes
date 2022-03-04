@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=ksDZZ9B4W-E
 
 ### Transcript
 
-> can you place a small pillar base and a large one i believe so yes, yeah i actually don't know maybe i don't know but i'm i think so should i need to turn
+> can you place a small pillar base and a large one I believe so yes, yeah I actually don't know maybe I don't know but I'm I think so should I need to turn

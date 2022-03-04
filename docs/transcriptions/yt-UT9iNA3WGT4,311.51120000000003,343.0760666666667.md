@@ -14,4 +14,4 @@ https://youtube.com/embed/UT9iNA3WGT4?autoplay=1&start=311&end=344
 
 ### Transcript
 
-> in my last year of university it was time to find an internship i played sanctum back when it came out so i wrote a letter to the studio that made that game which is coffee stain and they are inhibda and i thought how do you even say skip the cliff i had no idea it turned out that they were actually looking for a ui designer at that time so it was a perfect match one year later after i finished my internship i was hired by coffee stain and i decided to drive here with my two cats and since then i've been here and it's really good
+> in my last year of university it was time to find an internship I played sanctum back when it came out so I wrote a letter to the studio that made that game which is coffee stain and they are inhibda and I thought how do you even say skip the cliff I had no idea it turned out that they were actually looking for a ui designer at that time so it was a perfect match one year later after I finished my internship I was hired by coffee stain and I decided to drive here with my two cats and since then I've been here and it's really good

@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=rzOGistUZKI
 
 ### Transcript
 
-> you still have game jams at the studio, we only really have had game jams when we were like in between projects, and since we haven't been in between a project since we started working on satisfactory then no, but there's been like a couple of external game jams that people have been to i know, i i know that people at the studio have been to external ones and i've been to external ones as well so i mean people still do them but we haven't had one like within coffee stains since since before satisfactory so yes
+> you still have game jams at the studio, we only really have had game jams when we were like in between projects, and since we haven't been in between a project since we started working on satisfactory then no, but there's been like a couple of external game jams that people have been to I know, I know that people at the studio have been to external ones and I've been to external ones as well so I mean people still do them but we haven't had one like within coffee stains since since before satisfactory so yes

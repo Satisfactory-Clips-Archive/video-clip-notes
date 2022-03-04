@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=y7y-w8tPtLw
 
 ### Transcript
 
-> will there be overclocking of vehicles no i don't think so
+> will there be overclocking of vehicles no I don't think so

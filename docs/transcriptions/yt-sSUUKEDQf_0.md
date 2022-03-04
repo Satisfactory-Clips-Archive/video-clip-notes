@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=sSUUKEDQf_0
 
 ### Transcript
 
-> sorry i don't understand your talks because i'm not english native will you show us something cool, we don't have anything no we don't have any we don't have anything new on the stream to show we're just here to answer questions just hang out just hang out and answer questions
+> sorry I don't understand your talks because I'm not english native will you show us something cool, we don't have anything no we don't have any we don't have anything new on the stream to show we're just here to answer questions just hang out just hang out and answer questions

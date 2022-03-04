@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=PccFeGsFlE4
 
 ### Transcript
 
-> human yeah are you guys still involved in development you all seem way too cool to be engineers well okay so we're we're not in development but we are not too cool to be, like i guess you're saying like software engineers, because our programmers are cool they're really cool they're they're fun people are really chill, great guys, massive shout outs to our programming team by the way let's, well to the entire team but yeah also programmers
+> human yeah are you guys still involved in development you all seem way too cool to be engineers well okay so we're we're not in development but we are not too cool to be, like I guess you're saying like software engineers, because our programmers are cool they're really cool they're they're fun people are really chill, great guys, massive shout outs to our programming team by the way let's, well to the entire team but yeah also programmers

@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: October 26th, 2
 
 ### Transcript
 
-> do you know when, dedicated servers are coming nope i don't know
+> do you know when, dedicated servers are coming nope I don't know

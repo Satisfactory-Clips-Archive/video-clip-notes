@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=B894pE07Itc
 
 ### Transcript
 
-> oh speaking of that note by the way i don't know if did we say that last week that dedicated servers are also available on the epic store now i think we did because that was on monday
+> oh speaking of that note by the way I don't know if did we say that last week that dedicated servers are also available on the epic store now I think we did because that was on monday
 >
 > [Music]
 >
@@ -26,4 +26,4 @@ https://www.youtube.com/watch?v=B894pE07Itc
 >
 > [Music]
 >
-> it is, if you come to us and ask how to set them up you're kind of wasting your time because i me and jayce don't know how to do it, there is a video that jay's put up, on youtube a little bit like talking about it but like it's very bare bones and it's probably dated by now so yes
+> it is, if you come to us and ask how to set them up you're kind of wasting your time because I me and jayce don't know how to do it, there is a video that jay's put up, on youtube a little bit like talking about it but like it's very bare bones and it's probably dated by now so yes

@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=3veZ5xlZQB8
 
 ### Transcript
 
-> i don't want to leave the planet after finishing the story but what about the the food court don't you want to visit the food court food court
+> I don't want to leave the planet after finishing the story but what about the the food court don't you want to visit the food court food court

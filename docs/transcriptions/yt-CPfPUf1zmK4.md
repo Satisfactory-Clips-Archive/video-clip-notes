@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=CPfPUf1zmK4
 
 ### Transcript
 
-> i'm sorry but my hello friend is going to be here soon this is happening again
+> I'm sorry but my hello friend is going to be here soon this is happening again

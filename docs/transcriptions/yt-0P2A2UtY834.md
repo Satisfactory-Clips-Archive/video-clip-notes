@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=0P2A2UtY834
 
 ### Transcript
 
-> great actually so you didn't jerk around with the space celebrity it's it's big oh yeah i have i have seen the finished one or at least i saw the finished one like way back when i i'm pretty you can't finish it at the moment not in this and not in early access right not yet oh no yeah but but i have seen what it looks like when it's finished than it is it's good it's a thing, and the animation speaker did for it now it's oh yeah
+> great actually so you didn't jerk around with the space celebrity it's it's big oh yeah I have I have seen the finished one or at least I saw the finished one like way back when- I'm pretty you can't finish it at the moment not in this and not in early access right not yet oh no yeah but but I have seen what it looks like when it's finished than it is it's good it's a thing, and the animation speaker did for it now it's oh yeah

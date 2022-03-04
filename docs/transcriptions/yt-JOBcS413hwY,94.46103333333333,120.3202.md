@@ -18,4 +18,4 @@ https://youtube.com/embed/JOBcS413hwY?autoplay=1&start=94&end=121
 
 ### Transcript
 
-> let's go to facebook all right so this one here has a 600 000 la lofts the ability to specify an inventory slot to be a specific item and a specific amount and then have a cute personal drone fetching it for you when you use set items so, if you want to get one of those that is already implemented we just implemented it over on discord so frederick i hope that helps top fan
+> let's go to facebook all right so this one here has a 600 000 la lofts the ability to specify an inventory slot to be a specific item and a specific amount and then have a cute personal drone fetching it for you when you use set items so, if you want to get one of those that is already implemented we just implemented it over on discord so frederick I hope that helps top fan

@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=bsn3QpMW06Q
 
 ### Transcript
 
-> by all will the update work with old works worlds, yes as far as i know the fluid update will for sure, i can't say for update 4 because i don't know what's in it yeah we do this one step at a time
+> by all will the update work with old works worlds, yes as far as I know the fluid update will for sure, I can't say for update 4 because I don't know what's in it yeah we do this one step at a time

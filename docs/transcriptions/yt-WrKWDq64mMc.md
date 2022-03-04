@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=WrKWDq64mMc
 
 ### Transcript
 
-> gun turret on the truck for mud hunting i've seen that mod by the way there's someone who someone did make a mod where they put a gun on the explorer it is a functional mod i don't know if it's released but i know for sure i've seen it working
+> gun turret on the truck for mud hunting I've seen that mod by the way there's someone who someone did make a mod where they put a gun on the explorer it is a functional mod I don't know if it's released but I know for sure I've seen it working

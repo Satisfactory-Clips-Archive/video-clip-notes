@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=jRGWJsQxvfg
 
 ### Transcript
 
-> was my question about update 4.20 the one you wouldn't read out no we we that that might 0.420, we i don't think we've ever done 10 patches to one update, i think so yeah we'll see it's 6420 it's just counting snip it's just an it's just a iterator it's not a decimal, it's not a decimal
+> was my question about update 4.20 the one you wouldn't read out no we we that that might 0.420, we I don't think we've ever done 10 patches to one update, I think so yeah we'll see it's 6420 it's just counting snip it's just an it's just a iterator it's not a decimal, it's not a decimal

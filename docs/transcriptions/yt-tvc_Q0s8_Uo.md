@@ -20,4 +20,4 @@ https://www.youtube.com/watch?v=tvc_Q0s8_Uo
 >
 > [Music]
 >
-> maybe buy a onewheel oh yeah you're only gonna get one well yeah i'm thinking of it but it's like a very expensive thing to buy when you don't know if you can ride it or not but we'll see i don't know i'm just gonna spend a lot of time outside hiking
+> maybe buy a onewheel oh yeah you're only gonna get one well yeah I'm thinking of it but it's like a very expensive thing to buy when you don't know if you can ride it or not but we'll see I don't know I'm just gonna spend a lot of time outside hiking

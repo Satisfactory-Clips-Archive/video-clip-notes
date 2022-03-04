@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=KH-MlrotoAg
 
 ### Transcript
 
-> that's going to happen let's get out video next week next video next week i i was wishful making we're recording it right now actually
+> that's going to happen let's get out video next week next video next week- I was wishful making we're recording it right now actually

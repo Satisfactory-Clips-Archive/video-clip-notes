@@ -25,4 +25,4 @@ https://www.youtube.com/watch?v=JnR3oHKDQi0
 
 ### Transcript
 
-> does sanctum and satisfactory exist in the same universe i don't know actually i don't think so but i'm not the one writing the story that's hannah, so she's like the only one who knows i guess but, i don't think so
+> does sanctum and satisfactory exist in the same universe I don't know actually I don't think so but I'm not the one writing the story that's hannah, so she's like the only one who knows I guess but, I don't think so

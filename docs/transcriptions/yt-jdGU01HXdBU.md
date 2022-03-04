@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=jdGU01HXdBU
 
 ### Transcript
 
-> is deep rock galactic in the same universe as fixed it i don't think so pretty sure yeah pretty sure they're not different games made by different people at different times
+> is deep rock galactic in the same universe as fixed it I don't think so pretty sure yeah pretty sure they're not different games made by different people at different times

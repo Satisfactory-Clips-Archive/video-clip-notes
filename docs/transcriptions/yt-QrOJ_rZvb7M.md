@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=QrOJ_rZvb7M
 
 ### Transcript
 
-> why would i spend one dollar if i could just build gas miles and build gas months then don't spend the one dollar
+> why would I spend one dollar if I could just build gas miles and build gas months then don't spend the one dollar

@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: July 6th, 2021 
 
 ### Transcript
 
-> will the map become bigger it won't become bigger but there will be more like it will be further developed and that may mean more or less i'm not sure exactly what that will think but the map is not done but it will not be bigger in size it may be bigger in the sense that you can do more in it though yeah
+> will the map become bigger it won't become bigger but there will be more like it will be further developed and that may mean more or less I'm not sure exactly what that will think but the map is not done but it will not be bigger in size it may be bigger in the sense that you can do more in it though yeah

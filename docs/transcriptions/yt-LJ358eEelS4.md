@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [December 14th,
 
 ### Transcript
 
-> satisfactory mobile game that will happen though that's that will for sure happen oh will it i'm just kidding where am i yeah we'll never know will we anyway, unless
+> satisfactory mobile game that will happen though that's that will for sure happen oh will it I'm just kidding where am I yeah we'll never know will we anyway, unless

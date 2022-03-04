@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=DYVLJV-KblM
 
 ### Transcript
 
-> the lights actually cost power they do, somebody told me yesterday on my stream it was like, i already forgot but they are they have different, they cost different and like the ceiling lights cost more i think than the regular ones, etc etc one two six is that what it is one megawatt two is it ten megawatts or twenty megawatts or one mega two mega one six yeah there you go so that's how much they cost, maybe we'll put that is that not in the description of the lights maybe we need to put that there one straight two roof six flood cool
+> the lights actually cost power they do, somebody told me yesterday on my stream it was like, I already forgot but they are they have different, they cost different and like the ceiling lights cost more I think than the regular ones, etc etc one two six is that what it is one megawatt two is it ten megawatts or twenty megawatts or one mega two mega one six yeah there you go so that's how much they cost, maybe we'll put that is that not in the description of the lights maybe we need to put that there one straight two roof six flood cool

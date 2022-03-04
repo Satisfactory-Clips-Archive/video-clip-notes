@@ -14,8 +14,8 @@ https://www.youtube.com/watch?v=BQmDx2-pln0
 
 ### Transcript
 
-> yeah it's so weird because normally i can't see the stream, and now i can it's like right there and it's very distracting yeah how do you guys even watch this without being distracted jace doesn't look pixelated
+> yeah it's so weird because normally I can't see the stream, and now I can it's like right there and it's very distracting yeah how do you guys even watch this without being distracted jace doesn't look pixelated
 >
 > [Music]
 >
-> that's interesting fix your camera jason yeah but jake's finally fixed his camera yeah yeah that's what happened i finally fixed my camera yeah about time, yeah so yeah no yeah we finally sort of settled on a way so we can get like quality, because usually the way we've done it before is like through various weird media to like capture from discord and and it's convenient but it we we lose a little bit of quality from jace but now here we are now i'm streaming directly to smith's pc so hopefully the quality will be a little better for y'all hd js has joined the fight
+> that's interesting fix your camera jason yeah but jake's finally fixed his camera yeah yeah that's what happened I finally fixed my camera yeah about time, yeah so yeah no yeah we finally sort of settled on a way so we can get like quality, because usually the way we've done it before is like through various weird media to like capture from discord and and it's convenient but it we we lose a little bit of quality from jace but now here we are now I'm streaming directly to smith's pc so hopefully the quality will be a little better for y'all hd js has joined the fight

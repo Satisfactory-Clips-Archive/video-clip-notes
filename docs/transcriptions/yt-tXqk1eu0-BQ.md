@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [January 25th, 
 
 ### Transcript
 
-> what's the secret behind sam orr can you clue us in, sam orr is an ore that is used in the game it will be story related it will be story related and i actually have no idea exactly i will tie in
+> what's the secret behind sam orr can you clue us in, sam orr is an ore that is used in the game it will be story related it will be story related and I actually have no idea exactly I will tie in

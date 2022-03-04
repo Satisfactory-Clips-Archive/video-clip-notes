@@ -14,4 +14,4 @@ https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=791&end=809
 
 ### Transcript
 
-> all right is simon okay i don't know let's ask him hi simon how are you hey i'm i'm good thank you fine good all right thanks man by the way what did you think about cyberpunk so far it's all right why don't my computer streams in my hub show me power
+> all right is simon okay I don't know let's ask him hi simon how are you hey I'm I'm good thank you fine good all right thanks man by the way what did you think about cyberpunk so far it's all right why don't my computer streams in my hub show me power

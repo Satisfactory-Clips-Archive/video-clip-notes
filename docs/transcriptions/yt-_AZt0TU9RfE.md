@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=_AZt0TU9RfE
 
 ### Transcript
 
-> can i speak norwegian no yeah the the beauty of like scandinavian languages is that they're all kind of they're kind of similar i didn't grow up at a convent, they're kind of similar and recently i got like, you know hellofresh right i'm not sponsored right but like i got like hello fresh right and and i gave you recipes and one of my recipes were all in norwegian for some reason but luckily swedish and norwegian is so similar that i was able to read the whole recipe in origin anyway
+> can I speak norwegian no yeah the the beauty of like scandinavian languages is that they're all kind of they're kind of similar I didn't grow up at a convent, they're kind of similar and recently I got like, you know hellofresh right I'm not sponsored right but like I got like hello fresh right and and I gave you recipes and one of my recipes were all in norwegian for some reason but luckily swedish and norwegian is so similar that I was able to read the whole recipe in origin anyway

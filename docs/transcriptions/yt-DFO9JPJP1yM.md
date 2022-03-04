@@ -16,8 +16,8 @@ This question was possibly duplicated with a more recent answer: [September 7th,
 
 ### Transcript
 
-> any thoughts about reworking foundations or adding foundation holes, there are plans to improve the build process is what i've heard last time
+> any thoughts about reworking foundations or adding foundation holes, there are plans to improve the build process is what I've heard last time
 >
 > [Music]
 >
-> weaved, how do i put this there are plans to improve the build process is all i know currently i don't know exactly what that entails, but, yeah that's all i know currently
+> weaved, how do I put this there are plans to improve the build process is all I know currently I don't know exactly what that entails, but, yeah that's all I know currently

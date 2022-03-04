@@ -20,4 +20,4 @@ https://www.youtube.com/watch?v=UMztB6U1Bb0
 
 ### Transcript
 
-> i don't see one what the hell particle accelerator go away oh yeah i think the i think it's on the side of like the the i can't see it in this image, but the way i remember it's like on the side of the circular thing in the middle i think maybe it's not maybe it doesn't have one i haven't thought about that actually here's another picture yeah maybe it doesn't have one i don't know boy we sure up didn't we anyway, what was i talking about oh yeah, anyway i wasn't talking about anything i was just moving
+> I don't see one what the hell particle accelerator go away oh yeah I think the I think it's on the side of like the the I can't see it in this image, but the way I remember it's like on the side of the circular thing in the middle I think maybe it's not maybe it doesn't have one I haven't thought about that actually here's another picture yeah maybe it doesn't have one I don't know boy we sure up didn't we anyway, what was I talking about oh yeah, anyway I wasn't talking about anything I was just moving

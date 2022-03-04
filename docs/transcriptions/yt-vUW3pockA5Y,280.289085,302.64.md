@@ -16,10 +16,10 @@ https://youtube.com/embed/vUW3pockA5Y?autoplay=1&start=280&end=303
 
 ### Transcript
 
-> I am a lurker, so i lurk for some shit and I find out what...
+> I am a lurker, so I lurk for some shit and I find out what...
 >
 > [coffee break]
 >
 > [Jace is playing us the song of his people]
 >
-> Well.., .. Coffee Stain, right? ..so i lurk for some shit and I find out what people say. Feedback, ideas, like the trello board was amazing.
+> Well.., .. Coffee Stain, right? ..so I lurk for some shit and I find out what people say. Feedback, ideas, like the trello board was amazing.

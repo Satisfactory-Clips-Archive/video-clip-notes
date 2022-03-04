@@ -16,4 +16,4 @@ This question was possibly replaced with a more recent answer: [October 27th, 20
 
 ### Transcript
 
-> will you add pipes never we're never adding pipes i've told you a million times for years now we will never add pipes okay just drop it you guys just drop it are there any plans to put a blueprint
+> will you add pipes never we're never adding pipes I've told you a million times for years now we will never add pipes okay just drop it you guys just drop it are there any plans to put a blueprint

@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=zT2Lz_L4zQY
 
 ### Transcript
 
-> can you cover the guy that plays seven 1700 178 000 foundations it was not reddit, i did see that and i and i thought geez that's a lot of foundations
+> can you cover the guy that plays seven 1700 178 000 foundations it was not reddit, I did see that and I and I thought geez that's a lot of foundations

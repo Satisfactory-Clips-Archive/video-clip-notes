@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=gXQnRUa8KgI
 
 ### Transcript
 
-> so yeah is it called packager or fluid packager that's a good question it's just packaging yeah i think it's just called packager maybe it should be fluid packager yeah let me check my notes because that's a little misleading maybe dude
+> so yeah is it called packager or fluid packager that's a good question it's just packaging yeah I think it's just called packager maybe it should be fluid packager yeah let me check my notes because that's a little misleading maybe dude

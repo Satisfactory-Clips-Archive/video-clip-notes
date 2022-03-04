@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=yhi19PhUzkE
 
 ### Transcript
 
-> out of that stream can we have a natural healing area in the hub like in the area with the beds that's kind of cool i don't see why not honestly, yeah i mean that's a suggestions thing i'll put the link again, yeah i can't really do much with it right now i think it's a great idea
+> out of that stream can we have a natural healing area in the hub like in the area with the beds that's kind of cool I don't see why not honestly, yeah I mean that's a suggestions thing I'll put the link again, yeah I can't really do much with it right now I think it's a great idea

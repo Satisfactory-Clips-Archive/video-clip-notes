@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=9u3U07NNrHM
 
 ### Transcript
 
-> will we have different voltage-rated power lines in update four no at least not as far as i know no we don't pretty sure
+> will we have different voltage-rated power lines in update four no at least not as far as I know no we don't pretty sure

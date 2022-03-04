@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=uiNbMYVIqE0
 
 ### Transcript
 
-> how old does the character play us that's a good question i have no idea they're as old as you are as old as you want them to be yep unless you're a young child in which case they're older than you you have to be at least above 13 to be able to go to massage whatever yeah or something
+> how old does the character play us that's a good question I have no idea they're as old as you are as old as you want them to be yep unless you're a young child in which case they're older than you you have to be at least above 13 to be able to go to massage whatever yeah or something

@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [February 22nd,
 
 ### Transcript
 
-> the satisfactory theme park going i don't know are we building a theme park you
+> the satisfactory theme park going I don't know are we building a theme park you

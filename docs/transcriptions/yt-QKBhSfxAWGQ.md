@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=QKBhSfxAWGQ
 
 ### Transcript
 
-> is it worth to go to experimental just for a try update three it might be multi-threaded update three i think third is already on experimental yeah multiplayer is unexpected at least check out update three and just start a new save so you don't like back up your old saves whenever you change right yeah but just give it a go dude this is impossible
+> is it worth to go to experimental just for a try update three it might be multi-threaded update three I think third is already on experimental yeah multiplayer is unexpected at least check out update three and just start a new save so you don't like back up your old saves whenever you change right yeah but just give it a go dude this is impossible

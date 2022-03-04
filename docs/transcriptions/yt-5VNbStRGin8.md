@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=5VNbStRGin8
 
 ### Transcript
 
-> how's the burger it was good and i am looking forward to today's burger especially holy, because i had a at lunch today
+> how's the burger it was good and I am looking forward to today's burger especially holy, because I had a at lunch today

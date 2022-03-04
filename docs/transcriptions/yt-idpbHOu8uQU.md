@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=idpbHOu8uQU
 
 ### Transcript
 
-> am i having a good day i'm having a good day falcon thanks
+> am I having a good day I'm having a good day falcon thanks

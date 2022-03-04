@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=Me95NJDGqzc
 
 ### Transcript
 
-> snappers merge snap to each other this is also something i'm not quite sure it's if it's like technically feasible well it's technically feasible but like it's we we felt like if you want to do this we need to add more, models to the game so that there's like meshes that match that and, it's not high on the prior list so i also don't know if that will happen
+> snappers merge snap to each other this is also something I'm not quite sure it's if it's like technically feasible well it's technically feasible but like it's we we felt like if you want to do this we need to add more, models to the game so that there's like meshes that match that and, it's not high on the prior list so I also don't know if that will happen

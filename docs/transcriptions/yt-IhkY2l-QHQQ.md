@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=IhkY2l-QHQQ
 
 ### Transcript
 
-> who in the office will be worth the most points in the awesome sink that's a pretty interesting question, yeah in terms of rarity or i think, i think the the office dogs are worth the most in the office in the, awesome sink if i had to sink the dogs yeah i think the the office doggos okay ux designers are always worth the most i guess that's true
+> who in the office will be worth the most points in the awesome sink that's a pretty interesting question, yeah in terms of rarity or I think, I think the the office dogs are worth the most in the office in the, awesome sink if I had to sink the dogs yeah I think the the office doggos okay ux designers are always worth the most I guess that's true

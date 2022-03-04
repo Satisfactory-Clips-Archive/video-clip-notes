@@ -35,4 +35,4 @@ https://www.youtube.com/watch?v=dp0tlXo6TQ0
 
 ### Transcript
 
-> eu merch i haven't looked into it sorry folks i'll i'm gonna make it make a mental note, gets the latest of that i'll try it for you guys next week yeah so so i
+> eu merch I haven't looked into it sorry folks I'll I'm gonna make it make a mental note, gets the latest of that I'll try it for you guys next week yeah so so I

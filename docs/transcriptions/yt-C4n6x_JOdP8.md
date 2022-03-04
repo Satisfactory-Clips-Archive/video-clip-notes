@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=C4n6x_JOdP8
 
 ### Transcript
 
-> gonna hurt your 1 000 hour save yeah well you know i mean yeah yeah i mean you you can have the way the signals would end up working is that you you can have like a lot of trains on one track but but you would need to use signals to make sure that they don't collide
+> gonna hurt your 1 000 hour save yeah well you know I mean yeah yeah I mean you you can have the way the signals would end up working is that you you can have like a lot of trains on one track but but you would need to use signals to make sure that they don't collide

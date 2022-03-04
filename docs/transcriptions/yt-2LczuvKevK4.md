@@ -34,4 +34,4 @@ This question was possibly duplicated with a more recent answer: [March 2nd, 202
 
 ### Transcript
 
-> question, if i understand correctly recipes in tier six and below will not change that will will also change but no production lines below tier seven so recipes in tier six and below will not change right yeah yeah these are all schools yeah so recipes up until tier seven will not be affected by update four so those are all clean don't worry about it fam, so it's yeah it's everything below seven that that sorry it's everything above and including tier 7 that will change
+> question, if I understand correctly recipes in tier six and below will not change that will will also change but no production lines below tier seven so recipes in tier six and below will not change right yeah yeah these are all schools yeah so recipes up until tier seven will not be affected by update four so those are all clean don't worry about it fam, so it's yeah it's everything below seven that that sorry it's everything above and including tier 7 that will change

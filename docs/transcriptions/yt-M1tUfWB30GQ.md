@@ -20,4 +20,4 @@ https://www.youtube.com/watch?v=M1tUfWB30GQ
 
 ### Transcript
 
-> that was the wrong scene there that's the right scene all right okay i had one job get the red scene we're joined by hannah everybody hi everybody i'm jason the community manager here at cop stain studios nice nice shirt by the way yeah nice shirt next thanks pretending to be you is it is it is it working that was it was very very convincing it was very convincing maybe maybe too professional yeah maybe too professional all right yeah i'll have like sins in the background very good very good
+> that was the wrong scene there that's the right scene all right okay I had one job get the red scene we're joined by hannah everybody hi everybody I'm jason the community manager here at cop stain studios nice nice shirt by the way yeah nice shirt next thanks pretending to be you is it is it is it working that was it was very very convincing it was very convincing maybe maybe too professional yeah maybe too professional all right yeah I'll have like sins in the background very good very good

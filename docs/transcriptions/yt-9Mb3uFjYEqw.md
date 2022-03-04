@@ -16,4 +16,4 @@ This question was possibly replaced with a more recent answer: [October 29th, 20
 
 ### Transcript
 
-> automatic doors yo that's the dream automatic doors doors doors would be great doors would be great i would love doors
+> automatic doors yo that's the dream automatic doors doors doors would be great doors would be great I would love doors

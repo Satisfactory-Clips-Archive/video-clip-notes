@@ -18,4 +18,4 @@ This question was possibly replaced with a more recent answer: [October 5th, 202
 
 ### Transcript
 
-> if you had collision for trains would you make a video of them crashing in the animation for collision maybe makes sense if we if we are going to add collision to trains i think it'd be a really good idea that we show off collisions that's what i think
+> if you had collision for trains would you make a video of them crashing in the animation for collision maybe makes sense if we if we are going to add collision to trains I think it'd be a really good idea that we show off collisions that's what I think

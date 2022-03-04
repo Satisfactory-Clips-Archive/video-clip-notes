@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=cPFaiUJc9LE
 
 ### Transcript
 
-> modular build will come out when modular build came out a while ago actually so that's that modular builds have been out for a couple of weeks or a month even when was the modular built i think that was quite a while actually
+> modular build will come out when modular build came out a while ago actually so that's that modular builds have been out for a couple of weeks or a month even when was the modular built I think that was quite a while actually

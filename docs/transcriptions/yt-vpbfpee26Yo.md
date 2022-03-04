@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=vpbfpee26Yo
 
 ### Transcript
 
-> yeah all right now i'm not completely useless all right only a little bit this area is this area is really cool so like this is transitioning the the grass is changing from green to kind of like a teal as well yeah you know what i mean it's like this is what we should start yeah we should totally go down this area because this is like one of my favorite areas this is the dog i'm gonna tame it one sec then i'm not gonna show on stream what you do entertainment
+> yeah all right now I'm not completely useless all right only a little bit this area is this area is really cool so like this is transitioning the the grass is changing from green to kind of like a teal as well yeah you know what I mean it's like this is what we should start yeah we should totally go down this area because this is like one of my favorite areas this is the dog I'm gonna tame it one sec then I'm not gonna show on stream what you do entertainment

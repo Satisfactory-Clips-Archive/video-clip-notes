@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [September 28th
 
 ### Transcript
 
-> do you have to buy the game the full version when it comes out no if you bought the game now you have the game, i also don't know if the price of the game is gonna increase once we hit like the final release, no idea but if you've bought the game early access you you own the game even when we hit 1.0 so don't worry about that
+> do you have to buy the game the full version when it comes out no if you bought the game now you have the game, I also don't know if the price of the game is gonna increase once we hit like the final release, no idea but if you've bought the game early access you you own the game even when we hit 1.0 so don't worry about that

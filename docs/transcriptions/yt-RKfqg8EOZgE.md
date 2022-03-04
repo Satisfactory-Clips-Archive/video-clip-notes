@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [September 28th
 
 ### Transcript
 
-> customs yeah any new additions to the music plan i don't know if i'm allowed to say this or not but i'm going to say it yes yes i've said baby oh well yes yeah yeah there's there's, new additions to the music being planned
+> customs yeah any new additions to the music plan I don't know if I'm allowed to say this or not but I'm going to say it yes yes I've said baby oh well yes yeah yeah there's there's, new additions to the music being planned

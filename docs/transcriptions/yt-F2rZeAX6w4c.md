@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=F2rZeAX6w4c
 
 ### Transcript
 
-> oh and by the way so update four we sort of talked about it before is our recent like our most major biggest major like update recently, let me say that again it's our most recent major update so that fast three times no i said it once and i feel really good about myself, yeah so so, that came out recently we got a lot of new features and we'll be showing some of them off, today both in-game and also probably some that in community highlights later
+> oh and by the way so update four we sort of talked about it before is our recent like our most major biggest major like update recently, let me say that again it's our most recent major update so that fast three times no I said it once and I feel really good about myself, yeah so so, that came out recently we got a lot of new features and we'll be showing some of them off, today both in-game and also probably some that in community highlights later

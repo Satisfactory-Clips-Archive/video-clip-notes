@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=cHGEiggCmOs
 
 ### Transcript
 
-> so how what's the what's the, what the the burning question everyone's mind is what's the, floating floating plants and rocks situation in update five you know i i try to keep the world lore as consistent as possible, so i'm doing my best there will be floating rocks and floating grass you know you know how to please the people i i will i do you know i like everything i do is is for all of you okay you need to understand this nice
+> so how what's the what's the, what the the burning question everyone's mind is what's the, floating floating plants and rocks situation in update five you know- I try to keep the world lore as consistent as possible, so I'm doing my best there will be floating rocks and floating grass you know you know how to please the people- I will I do you know I like everything I do is is for all of you okay you need to understand this nice

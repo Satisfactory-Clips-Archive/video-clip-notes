@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=PuIVw3wCELk
 
 ### Transcript
 
-> king of question dodging number one community i'm i'm answering the questions that i can see my dude and sometimes my answers aren't real answers because i don't have an answer right so i've got like two options i can ignore or three options i can ignore i can give some like pre-made pr response or i can just tell you what's in my brain i'm gonna go with option number three tell you what's in my brain it may not be much but it is it's all i got it's all i got
+> king of question dodging number one community I'm I'm answering the questions that I can see my dude and sometimes my answers aren't real answers because I don't have an answer right so I've got like two options I can ignore or three options I can ignore I can give some like pre-made pr response or I can just tell you what's in my brain I'm gonna go with option number three tell you what's in my brain it may not be much but it is it's all I got it's all I got

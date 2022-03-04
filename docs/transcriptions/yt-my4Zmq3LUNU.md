@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [October 19th, 
 
 ### Transcript
 
-> 1k3 miners get two outputs to transport the full production no i don't think i don't i don't know i don't know what the situation with two outputs is
+> 1k3 miners get two outputs to transport the full production no I don't think I don't I don't know I don't know what the situation with two outputs is

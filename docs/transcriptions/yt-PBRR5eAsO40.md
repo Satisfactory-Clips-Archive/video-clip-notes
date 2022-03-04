@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [February 8th, 
 
 ### Transcript
 
-> how big is the whole team i think we're like 30 or 40 people at coffee stain studios yeah we've been like 30 a long time or like roughly 30. yep
+> how big is the whole team I think we're like 30 or 40 people at coffee stain studios yeah we've been like 30 a long time or like roughly 30. yep

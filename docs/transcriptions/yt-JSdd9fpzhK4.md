@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=JSdd9fpzhK4
 
 ### Transcript
 
-> will there be new items coming to the awesome shop between now and update four it's not impossible, but i don't know at this point
+> will there be new items coming to the awesome shop between now and update four it's not impossible, but I don't know at this point

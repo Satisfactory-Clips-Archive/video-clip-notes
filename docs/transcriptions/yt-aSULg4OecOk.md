@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=aSULg4OecOk
 
 ### Transcript
 
-> whose brilliant idea was that a stick nuclear deposit on top of a pillar that's the tallest in the area that would probably be hannah honestly 400 iq play move right there from hannah i'm sure there are other ones lower down
+> whose brilliant idea was that a stick nuclear deposit on top of a pillar that's the tallest in the area that would probably be hannah honestly 400 iq play move right there from hannah I'm sure there are other ones lower down

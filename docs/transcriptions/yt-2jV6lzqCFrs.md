@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=2jV6lzqCFrs
 
 ### Transcript
 
-> will the old factory stuff still work yes the olfactory the old stuff that you had for fixmas last year will still work i am pretty sure like, unless we made some some recipes changes which is not impossible but i think for the most part everything should function but it's i don't know maybe you'll find out maybe maybe it doesn't i don't know
+> will the old factory stuff still work yes the olfactory the old stuff that you had for fixmas last year will still work I am pretty sure like, unless we made some some recipes changes which is not impossible but I think for the most part everything should function but it's I don't know maybe you'll find out maybe maybe it doesn't I don't know

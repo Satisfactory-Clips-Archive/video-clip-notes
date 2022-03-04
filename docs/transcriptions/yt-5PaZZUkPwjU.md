@@ -24,4 +24,4 @@ https://www.youtube.com/watch?v=5PaZZUkPwjU
 
 ### Transcript
 
-> yes free placement of foundations, i don't know if that's a thing we've thought about or like if that's the thing we're intending to do please put it on the qa site, if you think that sounds dope because you can do that with foundations now so i think it wouldn't make sense if you could do it with machines too right i'll put that in the keyway side
+> yes free placement of foundations, I don't know if that's a thing we've thought about or like if that's the thing we're intending to do please put it on the qa site, if you think that sounds dope because you can do that with foundations now so I think it wouldn't make sense if you could do it with machines too right I'll put that in the keyway side

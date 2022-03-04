@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=Aqe4sfwWECk
 
 ### Transcript
 
-> you said flying vehicles would never be a thing and then we got drones you can't you can't fly in the drones i mean there was always a flying vehicle it's the drop ship right there there was always a flying vehicle
+> you said flying vehicles would never be a thing and then we got drones you can't you can't fly in the drones I mean there was always a flying vehicle it's the drop ship right there there was always a flying vehicle

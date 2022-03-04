@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=bZOiGFf555c
 
 ### Transcript
 
-> that's the first question through the qa archives yeah i'm gonna watch your math chase everything we say today is gonna be okay compared to like boy every other time i guess i mean marv is always watching anyway it doesn't matter where i am or what i'm doing the wiki already or whatever clips of jace sleeping j snores on the wiki wow with it with a with a two minute video handheld damn ceiling marv yes stealing my heart wow
+> that's the first question through the qa archives yeah I'm gonna watch your math chase everything we say today is gonna be okay compared to like boy every other time I guess I mean marv is always watching anyway it doesn't matter where I am or what I'm doing the wiki already or whatever clips of jace sleeping j snores on the wiki wow with it with a with a two minute video handheld damn ceiling marv yes stealing my heart wow

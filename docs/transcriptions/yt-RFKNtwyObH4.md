@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=RFKNtwyObH4
 
 ### Transcript
 
-> fences that can go on corners yeah a highly requested feature i'm sure that will be a thing at some point in the future
+> fences that can go on corners yeah a highly requested feature I'm sure that will be a thing at some point in the future

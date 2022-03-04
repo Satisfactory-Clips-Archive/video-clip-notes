@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=0wO-cb0IiFI
 
 ### Transcript
 
-> wow why not use vicious studio code, because visual studio code does not have all the features we need yeah i use i for this is kind of a new computer instead of notepad oops oh yeah oh yeah that's yeah just a random file i like have notes or like an old version that i'm comparing against i don't know it's, yeah i mean i probably should
+> wow why not use vicious studio code, because visual studio code does not have all the features we need yeah I use I for this is kind of a new computer instead of notepad oops oh yeah oh yeah that's yeah just a random file I like have notes or like an old version that I'm comparing against I don't know it's, yeah I mean I probably should

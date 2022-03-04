@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=xBFNJxkeLmM
 
 ### Transcript
 
-> is that the kiana reeves ms pain shirt hell yeah this is made by jace i'm probably i probably mirrored this it probably looks like ass but yeah this is, jace's work go to fourfansfightfans.com slash phantom satisfactory if you want to get in on this okay this is my favorite hoodie by far it's backwards yeah i put it on backwards it's you know stuff happens, yeah check out our merch
+> is that the kiana reeves ms pain shirt hell yeah this is made by jace I'm probably I probably mirrored this it probably looks like ass but yeah this is, jace's work go to fourfansfightfans.com slash phantom satisfactory if you want to get in on this okay this is my favorite hoodie by far it's backwards yeah I put it on backwards it's you know stuff happens, yeah check out our merch

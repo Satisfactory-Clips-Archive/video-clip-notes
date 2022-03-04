@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=Ts3PbTEeg_I
 
 ### Transcript
 
-> i guess satisfactory two could be a game with similar gameplay but the error would be post victorian steampunk and a lot of the games because swimming structures and submariner yeah i mean that's always a possibility but the seeing satisfactory two give me a mild gives me mild heart palpit palpitation it's not gonna lie
+> I guess satisfactory two could be a game with similar gameplay but the error would be post victorian steampunk and a lot of the games because swimming structures and submariner yeah I mean that's always a possibility but the seeing satisfactory two give me a mild gives me mild heart palpit palpitation it's not gonna lie

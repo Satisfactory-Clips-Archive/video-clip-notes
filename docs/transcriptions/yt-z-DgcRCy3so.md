@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [May 4th, 2021 
 
 ### Transcript
 
-> and any npcs in the game i don't think that white wilson says
+> and any npcs in the game I don't think that white wilson says

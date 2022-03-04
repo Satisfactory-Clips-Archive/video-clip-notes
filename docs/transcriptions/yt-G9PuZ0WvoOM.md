@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: October 26th, 2
 
 ### Transcript
 
-> what are we expecting to get hosted servers i assume you mean dedicated servers, we are actively working on them right now we are working on them more than we were before, but i'll tell you we don't know we don't know hopefully before update 4 but it's it's hard to say because i don't know what's left on it
+> what are we expecting to get hosted servers I assume you mean dedicated servers, we are actively working on them right now we are working on them more than we were before, but I'll tell you we don't know we don't know hopefully before update 4 but it's it's hard to say because I don't know what's left on it

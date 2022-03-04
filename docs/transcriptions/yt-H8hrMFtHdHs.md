@@ -20,4 +20,4 @@ This question was possibly duplicated with a more recent answer: [January 18th, 
 
 ### Transcript
 
-> a conveyor halls conveyor wall holes coming soon coming not soon arc let me read that question again are conveyor wall holes coming, please go to the qa side and upload that if you want it i don't know
+> a conveyor halls conveyor wall holes coming soon coming not soon arc let me read that question again are conveyor wall holes coming, please go to the qa side and upload that if you want it I don't know

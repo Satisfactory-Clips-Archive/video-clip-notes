@@ -16,4 +16,4 @@ This question was possibly replaced with a more recent answer: [February 9th, 20
 
 ### Transcript
 
-> that now, oh sorry one second what about the mug, the we've, another step has been taken towards mug so there has been progress this doesn't mean anything is confirmed this doesn't mean that you know we absolutely can step back but i i'm feeling pretty confident about it okay moving on the mug the most important part of any merch
+> that now, oh sorry one second what about the mug, the we've, another step has been taken towards mug so there has been progress this doesn't mean anything is confirmed this doesn't mean that you know we absolutely can step back but- I'm feeling pretty confident about it okay moving on the mug the most important part of any merch

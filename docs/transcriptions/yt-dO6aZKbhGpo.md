@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=dO6aZKbhGpo
 
 ### Transcript
 
-> the game is good i have nothing to ask nice hair thanks thanks for thanks for being here
+> the game is good I have nothing to ask nice hair thanks thanks for thanks for being here

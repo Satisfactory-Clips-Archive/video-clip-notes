@@ -18,8 +18,8 @@ https://www.youtube.com/watch?v=GrqLG3yidw4
 
 ### Transcript
 
-> there was a question that i saw and then i lost it yeah isn't that fun yeah that's never happened to me can we expect an employee discount when you buy the game i didn't actually buy the game we just got it for free because we we make it so we need to test it so wait you you got it for free
+> there was a question that I saw and then I lost it yeah isn't that fun yeah that's never happened to me can we expect an employee discount when you buy the game I didn't actually buy the game we just got it for free because we we make it so we need to test it so wait you you got it for free
 >
 > [Music]
 >
-> you didn't, yeah i did i don't know what are you talking about i mean i mean they docked it from my pay but i didn't have to pay up front you know yeah
+> you didn't, yeah I did I don't know what are you talking about I mean I mean they docked it from my pay but I didn't have to pay up front you know yeah

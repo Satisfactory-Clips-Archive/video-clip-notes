@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=unw-HJxUj8A
 
 ### Transcript
 
-> love from india hello hello hello everyone in the world it's awesome to to hear people be in very different countries almost like whoa people like there's people out there playing our game the hell could i thunk it who would have thought
+> love from india hello hello hello everyone in the world it's awesome to to hear people be in very different countries almost like whoa people like there's people out there playing our game the hell could I thunk it who would have thought

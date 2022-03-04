@@ -16,7 +16,7 @@ This question was possibly duplicated with a more recent answer: [February 8th, 
 
 ### Transcript
 
-> soon soon how large is the development team, so we're roughly like okay so when i so we're roughly 30 people at coffee snake studios just magically works now granted not all of them are working like developing on the game or like working on the game itself, they are supporting the people working on the game you can say almost, so like it's a technical technicality i guess, i don't know exactly how big our development team is we have like five programmers we have like five or six more than five programmers now
+> soon soon how large is the development team, so we're roughly like okay so when I so we're roughly 30 people at coffee snake studios just magically works now granted not all of them are working like developing on the game or like working on the game itself, they are supporting the people working on the game you can say almost, so like it's a technical technicality I guess, I don't know exactly how big our development team is we have like five programmers we have like five or six more than five programmers now
 >
 > [Applause]
 >

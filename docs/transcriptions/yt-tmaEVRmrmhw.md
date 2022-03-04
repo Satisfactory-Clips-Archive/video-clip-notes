@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=tmaEVRmrmhw
 
 ### Transcript
 
-> cool any chance of more personal storage box skins left flammable and explosive it sounds kind of fun could happen if you hit that upload button on the old qa side let us know yeah i think it's possible
+> cool any chance of more personal storage box skins left flammable and explosive it sounds kind of fun could happen if you hit that upload button on the old qa side let us know yeah I think it's possible

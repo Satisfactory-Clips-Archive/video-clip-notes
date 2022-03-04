@@ -20,4 +20,4 @@ https://www.youtube.com/watch?v=IT5jhfah7Eo
 >
 > [Music]
 >
-> no i don't think there would be a technical reason is that the case that's kind of weird obviously it makes sense if like things are like blocked right and the the belts keep going but you probably mean that even if they're not blocked they still move at different speeds that's probably maybe some tuning is required that's kind of weird belts moves faster than the items interesting i wonder if we i mean can we just fix that could we just like adjust the speed on that interesting
+> no I don't think there would be a technical reason is that the case that's kind of weird obviously it makes sense if like things are like blocked right and the the belts keep going but you probably mean that even if they're not blocked they still move at different speeds that's probably maybe some tuning is required that's kind of weird belts moves faster than the items interesting I wonder if we I mean can we just fix that could we just like adjust the speed on that interesting

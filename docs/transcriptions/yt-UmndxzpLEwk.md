@@ -22,4 +22,4 @@ https://www.youtube.com/watch?v=UmndxzpLEwk
 
 ### Transcript
 
-> yeah why can't we have a writable drone so it's not that we can't have one we just decided that we shouldn't have one or something there was a there was a point during development for update four we actually like the people sat down at a round table and we're like should we be able to ride drones and the decision would made and that's the one that's in the game and i can't really tell you why but that's the decision that was made
+> yeah why can't we have a writable drone so it's not that we can't have one we just decided that we shouldn't have one or something there was a there was a point during development for update four we actually like the people sat down at a round table and we're like should we be able to ride drones and the decision would made and that's the one that's in the game and I can't really tell you why but that's the decision that was made

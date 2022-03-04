@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [November 2nd, 
 
 ### Transcript
 
-> would make a difference will there be new enemies there will be the crab enemy but i think there's going to be some new enemies but i'm not quite sure
+> would make a difference will there be new enemies there will be the crab enemy but I think there's going to be some new enemies but I'm not quite sure

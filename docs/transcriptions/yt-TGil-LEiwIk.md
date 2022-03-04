@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=TGil-LEiwIk
 
 ### Transcript
 
-> it would be remove a lot of walls from our walls and menu it would, we wouldn't make it so that, you know if you had those walls built they would disappear, unless people really really want them to stick around but you know it would be similar to how we've done with like other things before, where they'd be in the game but you can't build new ones maybe or we keep them i don't know but i feel like it would be such a such an improvement
+> it would be remove a lot of walls from our walls and menu it would, we wouldn't make it so that, you know if you had those walls built they would disappear, unless people really really want them to stick around but you know it would be similar to how we've done with like other things before, where they'd be in the game but you can't build new ones maybe or we keep them I don't know but I feel like it would be such a such an improvement

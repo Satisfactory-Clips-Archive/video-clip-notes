@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=3llMN85Ghyw
 
 ### Transcript
 
-> if you have both, philophobia and arachnophobia i feel really sorry for you, pacifist mode mod it is unless you use the mod where someone used jace's face but i think that's honestly the worst solution to everything
+> if you have both, philophobia and arachnophobia I feel really sorry for you, pacifist mode mod it is unless you use the mod where someone used jace's face but I think that's honestly the worst solution to everything

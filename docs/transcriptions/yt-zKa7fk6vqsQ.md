@@ -18,8 +18,8 @@ This question was possibly duplicated with a more recent answer: [October 19th, 
 
 ### Transcript
 
-> oh here's a question cinematic or patch note vid on release day i i thought you were like oh here's a question like what have we been doing up into this we found one we found one finally that's interesting we just had a big fat meeting about that yesterday yeah
+> oh here's a question cinematic or patch note vid on release day- I thought you were like oh here's a question like what have we been doing up into this we found one we found one finally that's interesting we just had a big fat meeting about that yesterday yeah
 >
 > [Music]
 >
-> do we i guess we do i guess you'll find out or something i guess you'll find out i guess you'll find out yeah not that i think it's a like oh if they know oh no like big deal mm-hmm right, i think we just leave it cool yeah yeah yeah you'll find out it's gonna be it's gonna be something regardless that's true that's for true
+> do we I guess we do I guess you'll find out or something I guess you'll find out I guess you'll find out yeah not that I think it's a like oh if they know oh no like big deal mm-hmm right, I think we just leave it cool yeah yeah yeah you'll find out it's gonna be it's gonna be something regardless that's true that's for true

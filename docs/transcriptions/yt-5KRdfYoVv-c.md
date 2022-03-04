@@ -20,4 +20,4 @@ https://www.youtube.com/watch?v=5KRdfYoVv-c
 
 ### Transcript
 
-> will the sleeping room have additional function use a computer for instance, there are some ideas for it but nothing set in stone yet, and i'm also not gonna say what ideas we have but we have some ideas i think, so i guess we'll just having to find out
+> will the sleeping room have additional function use a computer for instance, there are some ideas for it but nothing set in stone yet, and I'm also not gonna say what ideas we have but we have some ideas I think, so I guess we'll just having to find out

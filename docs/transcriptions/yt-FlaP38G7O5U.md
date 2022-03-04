@@ -18,7 +18,7 @@ This question was possibly duplicated with a more recent answer: [February 15th,
 
 ### Transcript
 
-> by the way guys flushable toilet 1 dlc i i decided what about the toilet paper though one yellow square you can only buy one packet at a time
+> by the way guys flushable toilet 1 dlc- I decided what about the toilet paper though one yellow square you can only buy one packet at a time
 >
 > [Music]
 >

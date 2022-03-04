@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [September 21st
 
 ### Transcript
 
-> any plans to do these updates from a hot tub i'm not gonna lie we've actually yeah we've talked about this a few times we're probably not gonna do it tldr missed everything we don't know what we're doing oh that's a freaking tldr actually
+> any plans to do these updates from a hot tub I'm not gonna lie we've actually yeah we've talked about this a few times we're probably not gonna do it tldr missed everything we don't know what we're doing oh that's a freaking tldr actually

@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=_G-sfOI1QhE
 
 ### Transcript
 
-> are you swedes i technically am actually is we are no but you are too i mean i guess i am yeah you are we're we're both from sweden we both speak swedish sometimes spencer yeah
+> are you swedes I technically am actually is we are no but you are too I mean I guess I am yeah you are we're we're both from sweden we both speak swedish sometimes spencer yeah

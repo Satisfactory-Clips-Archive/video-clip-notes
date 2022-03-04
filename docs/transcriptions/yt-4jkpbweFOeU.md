@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=4jkpbweFOeU
 
 ### Transcript
 
-> is fix it supposed to have corporate or capitalistic undertones i wonder i wonder i don't know if if they have those undertones to you then maybe that maybe it does i wonder
+> is fix it supposed to have corporate or capitalistic undertones I wonder I wonder I don't know if if they have those undertones to you then maybe that maybe it does I wonder

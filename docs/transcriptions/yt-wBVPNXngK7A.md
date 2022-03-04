@@ -22,4 +22,4 @@ https://www.youtube.com/watch?v=wBVPNXngK7A
 
 ### Transcript
 
-> will update five be the last major update before one pointer oh i don't know maybe maybe it's the last one maybe there's more who knows top secret i'll never tell oh gosh
+> will update five be the last major update before one pointer oh I don't know maybe maybe it's the last one maybe there's more who knows top secret I'll never tell oh gosh

@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=iZuz7S6SauA
 
 ### Transcript
 
-> i think things be going like they do we're working on update five, update five is still slated for fall sometime fall we don't have a date yet but once we do oh boy we're gonna we're gonna ring the bell keep it a secret until a good time, no i think we're update four did we did we like give the date like right away, we'll keep you updated as soon as i think for update four we gave like a, whoa a rough date there we go i was moving around does that actually move on stream too
+> I think things be going like they do we're working on update five, update five is still slated for fall sometime fall we don't have a date yet but once we do oh boy we're gonna we're gonna ring the bell keep it a secret until a good time, no I think we're update four did we did we like give the date like right away, we'll keep you updated as soon as I think for update four we gave like a, whoa a rough date there we go I was moving around does that actually move on stream too
 >
 > [Music]
 >

@@ -14,8 +14,8 @@ https://www.youtube.com/watch?v=uDdd42vEMWo
 
 ### Transcript
 
-> how far are we in story-wise i mean you guys are nowhere in the story but in terms of what we have prepared, i mean the stories i think it's like i don't want to say done because it's something that's constantly being combed over and and hannah is you know it's it's a process but i mean it's essentially we have the whole story, pending or changes the small changes that hannah might make, we we have sort of started looking into the implementation of it as well, and so that's that's something that we have started looking at, you guys won't see any of it for a long time yeah but
+> how far are we in story-wise I mean you guys are nowhere in the story but in terms of what we have prepared, I mean the stories I think it's like I don't want to say done because it's something that's constantly being combed over and and hannah is you know it's it's a process but I mean it's essentially we have the whole story, pending or changes the small changes that hannah might make, we we have sort of started looking into the implementation of it as well, and so that's that's something that we have started looking at, you guys won't see any of it for a long time yeah but
 >
 > [Music]
 >
-> but that's exciting to know that i mean that's something you know we are at the point where where it makes sense for us to work on it so
+> but that's exciting to know that I mean that's something you know we are at the point where where it makes sense for us to work on it so

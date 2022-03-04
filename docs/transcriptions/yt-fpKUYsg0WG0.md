@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=fpKUYsg0WG0
 
 ### Transcript
 
-> hover pack drift isn't intentional or unintentional pretty sure it's unintentional but i also we don't probably don't know exactly why that is happening, so yeah please report on the kiwi site if you know exactly how to get it to happen
+> hover pack drift isn't intentional or unintentional pretty sure it's unintentional but I also we don't probably don't know exactly why that is happening, so yeah please report on the kiwi site if you know exactly how to get it to happen

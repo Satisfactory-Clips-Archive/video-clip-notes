@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=XZPos5u6IQY
 
 ### Transcript
 
-> you had you had tower defense satisfactory for a couple years already yeah you were one of the special people lucky people got in early there you go this is defending the golf ball i guess they're very sweet actually
+> you had you had tower defense satisfactory for a couple years already yeah you were one of the special people lucky people got in early there you go this is defending the golf ball I guess they're very sweet actually

@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [January 25th, 
 
 ### Transcript
 
-> interview with samurais please i need to know we will you know we will reveal it in the future in the future
+> interview with samurais please I need to know we will you know we will reveal it in the future in the future

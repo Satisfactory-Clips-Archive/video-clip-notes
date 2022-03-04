@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=c1alrd8pbFU
 
 ### Transcript
 
-> very nice and neat and organized yes it happens sometimes i wish i was disorganized in real life right yeah sorry there's a lot of folks you know, factories don't look as organized as this mine for example does not, but snoot likes to put a little bit of extra love into his factories yes yes
+> very nice and neat and organized yes it happens sometimes I wish I was disorganized in real life right yeah sorry there's a lot of folks you know, factories don't look as organized as this mine for example does not, but snoot likes to put a little bit of extra love into his factories yes yes

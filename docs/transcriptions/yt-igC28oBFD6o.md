@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=igC28oBFD6o
 
 ### Transcript
 
-> has it been nice getting everyone back in, the office after vacation any hiccups i mean people haven't really started coming back yet some people have but there's still a lot of people out, yeah but then also a lot of people still work from home as well because kovid like me i don't really work at the office
+> has it been nice getting everyone back in, the office after vacation any hiccups I mean people haven't really started coming back yet some people have but there's still a lot of people out, yeah but then also a lot of people still work from home as well because kovid like me I don't really work at the office

@@ -31,4 +31,4 @@ This question was possibly replaced with a more recent answer: [October 29th, 20
 >
 > [Music]
 >
-> you know if, when you're when you're mass dismantling you can deselect things yeah you know yeah so a lot of people requested that i think that's something that will end up happening at some point yeah i was going to do it at some point and then i was put on other things and never then i never got back to it so i'm pretty sure once we have like time for it we're gonna do that
+> you know if, when you're when you're mass dismantling you can deselect things yeah you know yeah so a lot of people requested that I think that's something that will end up happening at some point yeah I was going to do it at some point and then I was put on other things and never then I never got back to it so I'm pretty sure once we have like time for it we're gonna do that

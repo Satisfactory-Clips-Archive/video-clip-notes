@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=Kfn13oEuA0c
 
 > [Music]
 >
-> march is coming, the epic exclusivity will it be other way to get it, we'll run out some well i think they can still hear me yeah yeah they can, we'll announce that, announce information regarding that closer to when that year whatever whatever information that is closer to that, marks
+> march is coming, the epic exclusivity will it be other way to get it, we'll run out some well I think they can still hear me yeah yeah they can, we'll announce that, announce information regarding that closer to when that year whatever whatever information that is closer to that, marks

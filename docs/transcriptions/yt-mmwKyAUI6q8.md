@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=mmwKyAUI6q8
 
 ### Transcript
 
-> i need someone to collect slugs in my game do you provide that service you bet go to slughunter.com and, sign up you use promo code jace 10 off we need to stop saying these like slughunter.coms or whatever because people buy those to me oh no look at you marv yeah
+> I need someone to collect slugs in my game do you provide that service you bet go to slughunter.com and, sign up you use promo code jace 10 off we need to stop saying these like slughunter.coms or whatever because people buy those to me oh no look at you marv yeah

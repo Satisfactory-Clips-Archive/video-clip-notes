@@ -24,4 +24,4 @@ https://www.youtube.com/watch?v=NdZjKiNaCRA
 
 ### Transcript
 
-> more vehicles planned i don't know don't think so i don't think there are any plans for them
+> more vehicles planned I don't know don't think so I don't think there are any plans for them

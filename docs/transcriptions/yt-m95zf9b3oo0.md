@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [February 22nd,
 
 ### Transcript
 
-> how about a teleporter for people to hand feed the system i don't quite know what that means
+> how about a teleporter for people to hand feed the system I don't quite know what that means

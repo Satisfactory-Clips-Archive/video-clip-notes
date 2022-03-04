@@ -25,7 +25,7 @@ gonna happen with the resource nodes?&quot; now on the plus side here, resource 
 we don't plan on actually moving them at all if we move them they're gonna
 move very- you know just a very small
 amount and actually you can see in this
-before and after that i did of the crater, earlier you can see these resource modes
+before and after that I did of the crater, earlier you can see these resource modes
 there they don't, like, they don't move an inch they're in the exact same locations even though the
 landscape around them has changed a lot and that's kind of what we intend on
 doing so even if you look at the red and white areas of the map that we showed

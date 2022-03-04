@@ -20,4 +20,4 @@ https://www.youtube.com/watch?v=qYRsGrGlVqg
 
 ### Transcript
 
-> what's the meaniest and stupidest thing you've seen a dev add in well i mean the animations right, the naruto animations that's the meaniest and stupid thing that people probably the naruto run and stuff for sure i can't think of anything actually maybe the the next memeous thing was, when stefan added that you could ride the back of the bean the big space tick and you just run around gallop around the level on it and then we had to take it out yeah because it was cyber wagon that's that's a contender cyberbank is pretty good too
+> what's the meaniest and stupidest thing you've seen a dev add in well I mean the animations right, the naruto animations that's the meaniest and stupid thing that people probably the naruto run and stuff for sure I can't think of anything actually maybe the the next memeous thing was, when stefan added that you could ride the back of the bean the big space tick and you just run around gallop around the level on it and then we had to take it out yeah because it was cyber wagon that's that's a contender cyberbank is pretty good too

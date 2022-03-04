@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=JqvA3qyHS2g
 
 ### Transcript
 
-> any chances the train tracks will have a change so they work better, at intersection switch points, i actually don't know if you're asking if there's a chance sure i guess there's a chance
+> any chances the train tracks will have a change so they work better, at intersection switch points, I actually don't know if you're asking if there's a chance sure I guess there's a chance

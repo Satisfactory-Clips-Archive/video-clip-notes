@@ -24,4 +24,4 @@ https://www.youtube.com/watch?v=8TBD_NwiU6k
 
 ### Transcript
 
-> can we get a way to limit available slots in container, same thing there go to the qa site and upload that stuff if you if you want that, that's all i'm gonna say i can't say whether we're gonna do it or not because i don't know
+> can we get a way to limit available slots in container, same thing there go to the qa site and upload that stuff if you if you want that, that's all I'm gonna say I can't say whether we're gonna do it or not because I don't know

@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [March 23rd, 20
 
 ### Transcript
 
-> want a diagonal walls coming i don't know
+> want a diagonal walls coming I don't know

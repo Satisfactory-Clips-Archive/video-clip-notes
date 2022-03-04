@@ -22,4 +22,4 @@ This question was possibly duplicated with a more recent answer: [February 22nd,
 
 ### Transcript
 
-> it's possible to make the pioneer pick up the doggo let's say i keeps cliff diving look if the doggo feels like cliff diving is the way like what how they want to spend their time then who are we to say that that no you can't right like it's it's it's up to the doggo to figure out what they want to do and, we're not going to stand in the way
+> it's possible to make the pioneer pick up the doggo let's say I keeps cliff diving look if the doggo feels like cliff diving is the way like what how they want to spend their time then who are we to say that that no you can't right like it's it's it's up to the doggo to figure out what they want to do and, we're not going to stand in the way

@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=lNsmanCf4jk
 
 ### Transcript
 
-> so you know what happening somebody suggested depleted uranium ammo i i thought that was pretty cool
+> so you know what happening somebody suggested depleted uranium ammo- I thought that was pretty cool

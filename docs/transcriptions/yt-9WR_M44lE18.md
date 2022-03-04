@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=9WR_M44lE18
 
 ### Transcript
 
-> how do i vote for golf you go to our qa site oh no i can't i can't write in the the this wait maybe i can what the hell oh i'm not logged in on steam for some reason, you go to questions.satisfactorygame.com and that's how you vote on it
+> how do I vote for golf you go to our qa site oh no I can't I can't write in the the this wait maybe I can what the hell oh I'm not logged in on steam for some reason, you go to questions.satisfactorygame.com and that's how you vote on it

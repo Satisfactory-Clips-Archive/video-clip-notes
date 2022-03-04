@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [February 8th, 
 
 ### Transcript
 
-> them they're okay are we going to be able to change characters we may have like character customization in the future i mean i think we will personally i think there's a good chance of it, especially at the very least like color changes so you know when you play online you can be like you know sarah is blue and john is red, those are amazing usernames by the way probably taken on epic and steam no no no no chance no one uses epic so they're probably, they're probably free yeah you're right
+> them they're okay are we going to be able to change characters we may have like character customization in the future I mean I think we will personally I think there's a good chance of it, especially at the very least like color changes so you know when you play online you can be like you know sarah is blue and john is red, those are amazing usernames by the way probably taken on epic and steam no no no no chance no one uses epic so they're probably, they're probably free yeah you're right

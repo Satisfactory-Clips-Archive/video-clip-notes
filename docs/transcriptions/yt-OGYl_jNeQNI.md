@@ -19,4 +19,4 @@ https://www.youtube.com/watch?v=OGYl_jNeQNI
 >
 > [Music]
 >
-> we're good night snit good night good night moom time flies from having fun time flies when you keep lose track of time this is also why jace is good to have on stream because jake's gonna be like yo it's that time dude i'm like oh it is and then we'll move on or whatever
+> we're good night snit good night good night moom time flies from having fun time flies when you keep lose track of time this is also why jace is good to have on stream because jake's gonna be like yo it's that time dude I'm like oh it is and then we'll move on or whatever

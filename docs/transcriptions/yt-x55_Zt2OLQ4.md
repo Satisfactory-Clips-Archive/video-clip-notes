@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [February 8th, 
 
 ### Transcript
 
-> when we'll be able to get different character customization that's something that like we want to do i don't know when it's going to happen actually i have some idea when it might happen potentially maybe but, yeah right now it's kind of just like a it's a it's a thing that we we want to do i don't know to what degree and i don't know for sure when so
+> when we'll be able to get different character customization that's something that like we want to do I don't know when it's going to happen actually I have some idea when it might happen potentially maybe but, yeah right now it's kind of just like a it's a it's a thing that we we want to do I don't know to what degree and I don't know for sure when so

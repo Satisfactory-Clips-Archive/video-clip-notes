@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=d5naZ7yeDw8
 
 ### Transcript
 
-> and updates is your factors will be mega broken actually don't know if factors will break this time but you know we'll see i'll get more concrete information about that and maybe talk about it in a video in the future but we'll see
+> and updates is your factors will be mega broken actually don't know if factors will break this time but you know we'll see I'll get more concrete information about that and maybe talk about it in a video in the future but we'll see

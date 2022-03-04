@@ -20,4 +20,4 @@ This question was possibly duplicated with a more recent answer: [August 10th, 2
 
 ### Transcript
 
-> there's a question about alternative recipes if we're gonna add any more yeah someone asked that, i don't know i only know of like the big major things that are coming you know so i don't i don't actually know for sure about the additional small things yeah there's this potentially actually i think something like answered this question at some point, i'm pretty sure we were told this as well actually but i don't remember i don't remember yeah
+> there's a question about alternative recipes if we're gonna add any more yeah someone asked that, I don't know I only know of like the big major things that are coming you know so I don't I don't actually know for sure about the additional small things yeah there's this potentially actually I think something like answered this question at some point, I'm pretty sure we were told this as well actually but I don't remember I don't remember yeah

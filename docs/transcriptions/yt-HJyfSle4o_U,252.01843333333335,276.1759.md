@@ -22,4 +22,4 @@ This question was possibly duplicated with a more recent answer: [September 28th
 
 ### Transcript
 
-> that's all well and good but what's the dx12 and vulcan gonna do for you, we think that most people you know maybe not everybody but we think most people who, can run dx12 or vulkan will end up experiencing performance improvements that's not going to be for everyone it completely depends on your specific hardware and your specific build and satisfactory where your bottlenecks lie but we do think that, yeah it should in general give a little bit of a performance boost and that's pretty much all that's going to be coming so i hope
+> that's all well and good but what's the dx12 and vulcan gonna do for you, we think that most people you know maybe not everybody but we think most people who, can run dx12 or vulkan will end up experiencing performance improvements that's not going to be for everyone it completely depends on your specific hardware and your specific build and satisfactory where your bottlenecks lie but we do think that, yeah it should in general give a little bit of a performance boost and that's pretty much all that's going to be coming so I hope

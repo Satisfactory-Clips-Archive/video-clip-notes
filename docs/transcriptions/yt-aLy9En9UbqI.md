@@ -20,4 +20,4 @@ https://www.youtube.com/watch?v=aLy9En9UbqI
 
 ### Transcript
 
-> would you ever consider adding rails to the map would be nice to see a full, rail network i like the idea, qa side would be good but i think it's a good idea especially for that timetable i think it would look really good if you could see your rails there i think i've heard the ui team talk about doing that just haven't like nailed it or not what's the word like decided on it yet or something
+> would you ever consider adding rails to the map would be nice to see a full, rail network I like the idea, qa side would be good but I think it's a good idea especially for that timetable I think it would look really good if you could see your rails there I think I've heard the ui team talk about doing that just haven't like nailed it or not what's the word like decided on it yet or something

@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [October 12th, 
 
 ### Transcript
 
-> broader belts no that's crazy, yeah i would probably serve so close oh sorry okay go ahead i was just finishing
+> broader belts no that's crazy, yeah I would probably serve so close oh sorry okay go ahead I was just finishing

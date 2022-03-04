@@ -23,4 +23,4 @@ https://www.youtube.com/watch?v=Soh2tpzlV7c
 
 ### Transcript
 
-> superposition what superposition oscillator i i love the animation of the superposition oscillator it's very good
+> superposition what superposition oscillator- I love the animation of the superposition oscillator it's very good

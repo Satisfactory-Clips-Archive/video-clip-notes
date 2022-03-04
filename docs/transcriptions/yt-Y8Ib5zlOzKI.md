@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=Y8Ib5zlOzKI
 
 ### Transcript
 
-> do we have to worry about nuclear power plants too in update for or just the fuel rod production i think it's both, i mean your nuclear power plants will be affected by the fuel rod production therefore they will be affected by it
+> do we have to worry about nuclear power plants too in update for or just the fuel rod production I think it's both, I mean your nuclear power plants will be affected by the fuel rod production therefore they will be affected by it

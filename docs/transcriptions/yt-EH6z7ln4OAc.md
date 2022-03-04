@@ -16,4 +16,4 @@ This question was possibly replaced with a more recent answer: [March 9th, 2021 
 
 ### Transcript
 
-> update for still this year, maybe maybe not maybe next year maybe this year we don't know my guess is either at the end of this year or the beginning beginning of next year which is like no what a vague answer we we don't know for sure that it's like it's not happening this year yet update four before doors of stone, don't know what that is i can say i i'm pretty certain that you won't get if if cyberpunk doesn't get delayed again you'll get cyberpunk before update 4. that i'm pretty certain of
+> update for still this year, maybe maybe not maybe next year maybe this year we don't know my guess is either at the end of this year or the beginning beginning of next year which is like no what a vague answer we we don't know for sure that it's like it's not happening this year yet update four before doors of stone, don't know what that is I can say- I'm pretty certain that you won't get if if cyberpunk doesn't get delayed again you'll get cyberpunk before update 4. that I'm pretty certain of

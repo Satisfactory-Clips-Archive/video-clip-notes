@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=Rk7nTHXH6V8
 
 > [Music]
 >
-> i hope, at the end of the weekend that people will gotten so far that they start doing crazy stuff for sure like testing like trying to like break quote unquote break the game by doing fun stuff the i think still the coolest thing that i've seen someone do is build the, hourglass yeah it's a gigantic hourglass made by a guy named blanket man yeah it's this massive hourglass structure and inside is a factory super cool like just because why not it would look good
+> I hope, at the end of the weekend that people will gotten so far that they start doing crazy stuff for sure like testing like trying to like break quote unquote break the game by doing fun stuff the I think still the coolest thing that I've seen someone do is build the, hourglass yeah it's a gigantic hourglass made by a guy named blanket man yeah it's this massive hourglass structure and inside is a factory super cool like just because why not it would look good

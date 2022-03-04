@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=oI151i4cEOo
 
 ### Transcript
 
-> hope you guys will stick around to community managers once satisfactory is done and coffee sand moves on to its next project love the way you guys are handling the interaction yeah i mean i guess that sounds good too then then we can have a job that we don't lose that job that's pretty good i mean maybe
+> hope you guys will stick around to community managers once satisfactory is done and coffee sand moves on to its next project love the way you guys are handling the interaction yeah I mean I guess that sounds good too then then we can have a job that we don't lose that job that's pretty good I mean maybe

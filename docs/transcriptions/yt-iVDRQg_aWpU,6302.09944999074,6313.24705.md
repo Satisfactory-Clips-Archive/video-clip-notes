@@ -16,4 +16,4 @@ https://youtube.com/clip/UgkxIdPhQ9rX4FUIm-4qXdbJnTPTBcFRUdrJ
 
 ### Transcript
 
-> yeah yeah from where you guys what nationality i'm australian i'm swedish there you go vr support vr is something that like
+> yeah yeah from where you guys what nationality I'm australian I'm swedish there you go vr support vr is something that like

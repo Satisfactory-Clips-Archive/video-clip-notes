@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=pUhUMOrlae4
 
 ### Transcript
 
-> space elevator says that tier 8 is the final tier of early access what does this mean in terms of additional updates while in early access tier 8 is the is the last tier currently and i don't know what plans we have for for later ones, yeah that's it
+> space elevator says that tier 8 is the final tier of early access what does this mean in terms of additional updates while in early access tier 8 is the is the last tier currently and I don't know what plans we have for for later ones, yeah that's it

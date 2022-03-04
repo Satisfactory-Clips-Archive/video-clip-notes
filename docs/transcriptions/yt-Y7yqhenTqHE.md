@@ -36,4 +36,4 @@ This question was possibly replaced with a more recent answer: October 26th, 202
 
 ### Transcript
 
-> yeah paul's still looking like a reasonable timeline yeah yeah i think we're it looks like we're still gonna release the game in in fall so any any time starting from tomorrow and three months from now yeah yeah december counts as fall right i'm pretty sure with global warming all that just actually trust me man trust me okay yeah yeah
+> yeah paul's still looking like a reasonable timeline yeah yeah I think we're it looks like we're still gonna release the game in in fall so any any time starting from tomorrow and three months from now yeah yeah december counts as fall right I'm pretty sure with global warming all that just actually trust me man trust me okay yeah yeah

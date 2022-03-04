@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=NQS-IFhG8o8
 
 ### Transcript
 
-> see how many languages do you speak i mostly i can speak like i speak english, way better than i speak swedish, or sorry let me let me actually create that i don't think i speak english better than i speak swedish but i have a way bigger vocabulary for english than i have for swedish so i think in english and a lot of times when i'm speaking swedish i'm like what is this word, i know it in english what is the word, swedish netherlands there you go i butchered all that i think my german dialect is a little bit better than my dutch but not by much
+> see how many languages do you speak I mostly I can speak like I speak english, way better than I speak swedish, or sorry let me let me actually create that I don't think I speak english better than I speak swedish but I have a way bigger vocabulary for english than I have for swedish so I think in english and a lot of times when I'm speaking swedish I'm like what is this word, I know it in english what is the word, swedish netherlands there you go I butchered all that I think my german dialect is a little bit better than my dutch but not by much

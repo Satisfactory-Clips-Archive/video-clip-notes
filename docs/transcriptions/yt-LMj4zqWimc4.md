@@ -20,12 +20,12 @@ https://www.youtube.com/watch?v=LMj4zqWimc4
 
 ### Transcript
 
-> next up we have from jace, who would have thought not me, i posted on twitter a while ago that you don't need signs anymore guys we've solved it you can just use power switches, and, honestly i don't know what's wrong with the guy but, he clearly needs some therapy
+> next up we have from jace, who would have thought not me, I posted on twitter a while ago that you don't need signs anymore guys we've solved it you can just use power switches, and, honestly I don't know what's wrong with the guy but, he clearly needs some therapy
 >
 > [Laughter]
 >
-> i'm sorry jace i love you
+> I'm sorry jace I love you
 >
 > [Laughter]
 >
-> so so yeah this is jace just want to demonstrate to you guys that you can totally use power switch to signs this is a lesson okay, some therapy hey i need it too okay, also pooping right now i'm fitting yes it's this is very this is the difference between my butt and jason's butt is that mine like sucks and jesus pushes
+> so so yeah this is jace just want to demonstrate to you guys that you can totally use power switch to signs this is a lesson okay, some therapy hey I need it too okay, also pooping right now I'm fitting yes it's this is very this is the difference between my butt and jason's butt is that mine like sucks and jesus pushes

@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=nVQBgfpVy68
 
 ### Transcript
 
-> i don't know next next week is going to be released for for update 4 on early access so it will probably not be as extravagant as the last the stream we did for for experimental release but we're still going to be here we can hang out and then at the end of the stream we're going to release update 4 on next on early access and it's going to be a good time for everybody hopefully
+> I don't know next next week is going to be released for for update 4 on early access so it will probably not be as extravagant as the last the stream we did for for experimental release but we're still going to be here we can hang out and then at the end of the stream we're going to release update 4 on next on early access and it's going to be a good time for everybody hopefully

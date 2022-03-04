@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [February 22nd,
 
 ### Transcript
 
-> will we ever have a red weather system i like to say rain, we i don't know like it's something that we always wanted, i think it's high on like people's lists internally that we would like to do but, we just i don't know if we will have time to make it for for the game honestly
+> will we ever have a red weather system I like to say rain, we I don't know like it's something that we always wanted, I think it's high on like people's lists internally that we would like to do but, we just I don't know if we will have time to make it for for the game honestly

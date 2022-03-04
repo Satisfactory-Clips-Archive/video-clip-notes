@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [February 22nd,
 
 ### Transcript
 
-> boats i don't think we're gonna i don't think we're gonna be adding boats anytime soon there's not really that much water you guys you don't really need boats i don't really need boats if you really feel you need boats go to the question site questions.satisfactorygame.com leave it there
+> boats I don't think we're gonna I don't think we're gonna be adding boats anytime soon there's not really that much water you guys you don't really need boats I don't really need boats if you really feel you need boats go to the question site questions.satisfactorygame.com leave it there

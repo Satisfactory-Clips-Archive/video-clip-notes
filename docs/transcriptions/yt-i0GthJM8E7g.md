@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=i0GthJM8E7g
 
 ### Transcript
 
-> my loading has gone up over time but i'm blaming that's, on how much i built yeah exactly so that it is going to go up the more you build but if there's like a significant spike in loading times specifically after an update then it might be worthwhile submitting a save file
+> my loading has gone up over time but I'm blaming that's, on how much I built yeah exactly so that it is going to go up the more you build but if there's like a significant spike in loading times specifically after an update then it might be worthwhile submitting a save file

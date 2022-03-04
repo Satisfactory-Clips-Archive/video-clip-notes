@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=y_8BiuOg4zg
 
 ### Transcript
 
-> why should we believe a lying liar you know what we'll we'll let we'll let the update speak for itself okay okay i really hope it's not now it's gonna be a update there might be some other that might be nice hyped
+> why should we believe a lying liar you know what we'll we'll let we'll let the update speak for itself okay okay I really hope it's not now it's gonna be a update there might be some other that might be nice hyped

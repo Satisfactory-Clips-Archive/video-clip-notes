@@ -20,4 +20,4 @@ https://www.youtube.com/watch?v=xRybReOeSrM
 >
 > [Music]
 >
-> i can't remember the rest no i can't i can't remember yeah i don't remember that it's been too long all i remember is color gun more like color and gone man gone out of the game you don't you don't need that when you got the customizer
+> I can't remember the rest no I can't I can't remember yeah I don't remember that it's been too long all I remember is color gun more like color and gone man gone out of the game you don't you don't need that when you got the customizer

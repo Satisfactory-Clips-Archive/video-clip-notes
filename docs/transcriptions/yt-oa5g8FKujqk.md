@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [February 15th,
 
 ### Transcript
 
-> dream on what about the toilet yeah what about the toilet one dollar dlc flushing dlc i love it it's coming i promise it'd be funny
+> dream on what about the toilet yeah what about the toilet one dollar dlc flushing dlc I love it it's coming I promise it'd be funny

@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=_MlMOUEurI0
 
 ### Transcript
 
-> the bacon respawn they do not the only thing that respawn is like the berry barrel nuts and the bacon, the barrel nuts and the nuts the barrel berries the berry what am i talking about barrel whatever the berries and the nuts respawn
+> the bacon respawn they do not the only thing that respawn is like the berry barrel nuts and the bacon, the barrel nuts and the nuts the barrel berries the berry what am I talking about barrel whatever the berries and the nuts respawn

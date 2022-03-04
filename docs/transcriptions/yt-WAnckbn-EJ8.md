@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [April 20th, 20
 
 ### Transcript
 
-> does the, story come in 2021 it does if we release the full game in 2021 and i don't know we're doing that
+> does the, story come in 2021 it does if we release the full game in 2021 and I don't know we're doing that

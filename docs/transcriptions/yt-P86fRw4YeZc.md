@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=P86fRw4YeZc
 
 ### Transcript
 
-> will programmer programmable splitters ever get a copy and paste feature yes i think so that sounds really good please upload that on the keyword site to make sure
+> will programmer programmable splitters ever get a copy and paste feature yes I think so that sounds really good please upload that on the keyword site to make sure

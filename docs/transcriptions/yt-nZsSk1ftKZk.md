@@ -30,4 +30,4 @@ https://www.youtube.com/watch?v=nZsSk1ftKZk
 
 ### Transcript
 
-> can you tell us the purpose of the mercenary in the summer's loop no i can't know what i cannot for two reasons one we're not gonna unveil that because it's tied to the story but two i also have no idea so there's that
+> can you tell us the purpose of the mercenary in the summer's loop no I can't know what I cannot for two reasons one we're not gonna unveil that because it's tied to the story but two I also have no idea so there's that

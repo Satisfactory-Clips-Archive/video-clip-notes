@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [January 26th, 
 
 ### Transcript
 
-> satisfactory as the illegitimate love child of no man's sky in factorio however what would you say was your inspiration of making satisfactory i actually haven't heard of either of those games it's just an original idea that we came up with someone just brainstormed it out and, here we are will there be a one-to-one lizard doggo
+> satisfactory as the illegitimate love child of no man's sky in factorio however what would you say was your inspiration of making satisfactory I actually haven't heard of either of those games it's just an original idea that we came up with someone just brainstormed it out and, here we are will there be a one-to-one lizard doggo

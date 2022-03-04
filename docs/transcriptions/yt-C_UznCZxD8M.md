@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [February 8th, 
 
 ### Transcript
 
-> do you like falheim i do if you have any questions about valheim i'll take them up here and pass them on to to their creative community manager
+> do you like falheim I do if you have any questions about valheim I'll take them up here and pass them on to to their creative community manager

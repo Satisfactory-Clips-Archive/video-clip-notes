@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [December 7th, 
 
 ### Transcript
 
-> holster weapon toolkit whoa i wish i've been thinking of like just ad hocking that into the game but i just don't have time, i'll put that on the q a side
+> holster weapon toolkit whoa I wish I've been thinking of like just ad hocking that into the game but I just don't have time, I'll put that on the q a side

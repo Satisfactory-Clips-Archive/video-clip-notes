@@ -24,4 +24,4 @@ https://www.youtube.com/watch?v=I5HR5ocUX9o
 
 > [Music]
 >
-> can it show some larger foundations, that would be something you can suggest on the questions.satisfactorygame.com site because i don't know i guess if you want to know if there's a chance sure there's a chance ,
+> can it show some larger foundations, that would be something you can suggest on the questions.satisfactorygame.com site because I don't know I guess if you want to know if there's a chance sure there's a chance ,

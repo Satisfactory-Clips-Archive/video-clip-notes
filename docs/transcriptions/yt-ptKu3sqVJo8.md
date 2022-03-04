@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=ptKu3sqVJo8
 
 ### Transcript
 
-> and the person that plays 300 000 foundations i can confirm glass foundations are more optimized than solid interesting that's a lot of foundations napoleon
+> and the person that plays 300 000 foundations I can confirm glass foundations are more optimized than solid interesting that's a lot of foundations napoleon

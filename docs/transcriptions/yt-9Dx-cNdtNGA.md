@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=9Dx-cNdtNGA
 
 ### Transcript
 
-> days without incident i love this feature by the way this is a really cool feature this is something that we wanted to do wanting to have as well this is something that we've talked about even before releasing the game, oh i'm not checked to collect this before yeah so like just have a days before accident blah blah kind of situation in the game would be cool, super cool feature
+> days without incident I love this feature by the way this is a really cool feature this is something that we wanted to do wanting to have as well this is something that we've talked about even before releasing the game, oh I'm not checked to collect this before yeah so like just have a days before accident blah blah kind of situation in the game would be cool, super cool feature

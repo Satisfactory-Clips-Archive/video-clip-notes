@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=zThi_BgpiIA
 
 ### Transcript
 
-> so these are so these are cheap buildings and i'm going to cheat a resource with these things this would make the game really fun to play if you guys had them because you can literally build anything you want so let's output some i don't know batteries are cool look at that look at them go
+> so these are so these are cheap buildings and I'm going to cheat a resource with these things this would make the game really fun to play if you guys had them because you can literally build anything you want so let's output some I don't know batteries are cool look at that look at them go

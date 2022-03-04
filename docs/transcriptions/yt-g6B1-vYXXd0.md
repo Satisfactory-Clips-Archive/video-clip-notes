@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=g6B1-vYXXd0
 
 ### Transcript
 
-> we have secret sturdy secrets people are asking if you're using amex or vim, so i use vim pretty much exclusively, enough of this though right not for this no i, okay i haven't used them in forever if i'm being perfectly honest i don't know if you guys know the unreal support for linux is not exactly top tier so that's you know i wonder if there's anyone who actually does develop there's always somebody that hardcore
+> we have secret sturdy secrets people are asking if you're using amex or vim, so I use vim pretty much exclusively, enough of this though right not for this no I, okay I haven't used them in forever if I'm being perfectly honest I don't know if you guys know the unreal support for linux is not exactly top tier so that's you know I wonder if there's anyone who actually does develop there's always somebody that hardcore

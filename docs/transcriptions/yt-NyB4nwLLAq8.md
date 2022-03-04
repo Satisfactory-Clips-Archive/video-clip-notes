@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=NyB4nwLLAq8
 
 ### Transcript
 
-> do you have data on how many players straight up don't care about efficiency i don't think we have that data
+> do you have data on how many players straight up don't care about efficiency I don't think we have that data

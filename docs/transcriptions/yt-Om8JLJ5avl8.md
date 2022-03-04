@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [October 5th, 2
 
 ### Transcript
 
-> everything about the eu store yeah i talked about that a little earlier basically we're in the process and that's really boring and it's taking some time and it's super boring stuff, but trying to figure it out
+> everything about the eu store yeah I talked about that a little earlier basically we're in the process and that's really boring and it's taking some time and it's super boring stuff, but trying to figure it out

@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [November 9th, 
 
 ### Transcript
 
-> global grid, would be awesome i i wish we had that go to the qa side enough about that
+> global grid, would be awesome- I wish we had that go to the qa side enough about that

@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=WTCjl2Tu39A
 
 ### Transcript
 
-> oh yeah, wait what the they're right from the satisfactory yeah there's one rifle, it's kind of like i think it's a bit it needs a bigger clip in my opinion because it runs out of ammo really quickly, yeah there's a rifle
+> oh yeah, wait what the they're right from the satisfactory yeah there's one rifle, it's kind of like I think it's a bit it needs a bigger clip in my opinion because it runs out of ammo really quickly, yeah there's a rifle

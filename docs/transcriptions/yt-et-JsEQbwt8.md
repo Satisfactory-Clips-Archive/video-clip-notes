@@ -53,4 +53,4 @@ https://www.youtube.com/watch?v=et-JsEQbwt8
 
 ### Transcript
 
-> when satisfactory to nintendo switch if you know that's probably never gonna happen yeah pretty sure that's never gonna happen the the only like caveat would be if there's like some kind of like streaming service for switch or something i don't know if there is one even hasn't there been games that are like not really should have been supported on switch and they can stream or something not that we have any plans for that or anything but yeah i i doubt that we're gonna be able to release on switch honestly
+> when satisfactory to nintendo switch if you know that's probably never gonna happen yeah pretty sure that's never gonna happen the the only like caveat would be if there's like some kind of like streaming service for switch or something I don't know if there is one even hasn't there been games that are like not really should have been supported on switch and they can stream or something not that we have any plans for that or anything but yeah- I doubt that we're gonna be able to release on switch honestly

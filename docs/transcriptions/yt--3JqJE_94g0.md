@@ -26,4 +26,4 @@ https://www.youtube.com/watch?v=-3JqJE_94g0
 
 ### Transcript
 
-> how are possible are dedicated service in the next updates like, i don't know but it's possible that the lag that you're experiencing right now that might significantly improve with this engine upgrade, i guess we'll have to find out if you know what i mean
+> how are possible are dedicated service in the next updates like, I don't know but it's possible that the lag that you're experiencing right now that might significantly improve with this engine upgrade, I guess we'll have to find out if you know what I mean

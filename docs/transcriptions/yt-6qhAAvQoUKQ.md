@@ -22,4 +22,4 @@ https://www.youtube.com/watch?v=6qhAAvQoUKQ
 
 ### Transcript
 
-> you don't get fall damage if you're in the factory card if you can get into the factory cart in mid-air that would be insane can you do that i dare you to do it
+> you don't get fall damage if you're in the factory card if you can get into the factory cart in mid-air that would be insane can you do that I dare you to do it

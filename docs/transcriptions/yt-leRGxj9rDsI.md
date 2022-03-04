@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=leRGxj9rDsI
 
 ### Transcript
 
-> aoe allows you to cheat in some places yeah i mean that's kind of intentional we kind of want people to to, abuse that as well like there's cases where like you can get rid of rocks and and, we don't mind that we think that's, that's okay
+> aoe allows you to cheat in some places yeah I mean that's kind of intentional we kind of want people to to, abuse that as well like there's cases where like you can get rid of rocks and and, we don't mind that we think that's, that's okay

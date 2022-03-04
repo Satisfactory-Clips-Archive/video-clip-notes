@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=gs7DWYpLwK8
 
 ### Transcript
 
-> i actually quite enjoy starting over in the game yeah i i don't some people like it some people don't
+> I actually quite enjoy starting over in the game yeah- I don't some people like it some people don't

@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=xOPbMP6jy6E
 
 ### Transcript
 
-> will truck stations and trucks substract to be made renamable i don't know i don't know leave that suggestion on the qa site
+> will truck stations and trucks substract to be made renamable I don't know I don't know leave that suggestion on the qa site

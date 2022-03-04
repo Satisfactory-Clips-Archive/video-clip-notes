@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=-TeX5OBsrGk
 
 ### Transcript
 
-> he thinks man hands cameras in my factory yeah a lot of people pretty much refuse to use screws oh wait did i mess up this one i refuse to use screws but screws are such an integral part of the thing these alternatives you're not allowed to use magic outside of school exactly
+> he thinks man hands cameras in my factory yeah a lot of people pretty much refuse to use screws oh wait did I mess up this one I refuse to use screws but screws are such an integral part of the thing these alternatives you're not allowed to use magic outside of school exactly

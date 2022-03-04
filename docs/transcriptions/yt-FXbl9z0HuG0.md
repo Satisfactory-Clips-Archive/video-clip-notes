@@ -20,4 +20,4 @@ https://www.youtube.com/watch?v=FXbl9z0HuG0
 
 ### Transcript
 
-> how can you have so many store items in the game without any solid plan for the story, i mean how do you know we don't have a solid plan for the story just haven't implemented it yet
+> how can you have so many store items in the game without any solid plan for the story, I mean how do you know we don't have a solid plan for the story just haven't implemented it yet

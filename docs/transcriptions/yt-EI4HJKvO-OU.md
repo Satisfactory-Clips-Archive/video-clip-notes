@@ -22,4 +22,4 @@ This question was possibly duplicated with a more recent answer: [November 17th,
 
 ### Transcript
 
-> cool very cool pollution is a thing no it's a thing that we planned in the beginning we didn't do but i don't think like one of the things that we planned on was being like base defense right and that's the thing that we just like cut out we're like no, pollution ended up not being a thing but i don't think it was just ruled out so maybe
+> cool very cool pollution is a thing no it's a thing that we planned in the beginning we didn't do but I don't think like one of the things that we planned on was being like base defense right and that's the thing that we just like cut out we're like no, pollution ended up not being a thing but I don't think it was just ruled out so maybe

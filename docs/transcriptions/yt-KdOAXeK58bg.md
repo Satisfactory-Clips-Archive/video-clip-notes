@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=KdOAXeK58bg
 
 ### Transcript
 
-> science was the main reason i bought satisfactory actually oh that's cool i synchronize the reason i even work at coffee stain for real for real
+> science was the main reason I bought satisfactory actually oh that's cool I synchronize the reason I even work at coffee stain for real for real

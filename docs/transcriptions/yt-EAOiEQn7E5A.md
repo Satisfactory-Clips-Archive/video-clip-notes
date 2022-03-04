@@ -20,7 +20,7 @@ This question was possibly duplicated with a more recent answer: [October 12th, 
 
 ### Transcript
 
-> what is expected for tier nine i have no idea honestly i didn't know about tier nine until like director chan was like no we might add in tier nine i was like wait what we've been saying we're not going above here
+> what is expected for tier nine I have no idea honestly I didn't know about tier nine until like director chan was like no we might add in tier nine I was like wait what we've been saying we're not going above here
 >
 > [Music]
 >
@@ -28,4 +28,4 @@ This question was possibly duplicated with a more recent answer: [October 12th, 
 >
 > [Music]
 >
-> i swear to god i've never had this many issues on stream ever in my entire life this is bananas this is insane why did the game audio died oh oh god oh oh man this is never stream never start streaming y'all streaming is fake or or something god damn it all right, yeah tier 10 when yeah so so yeah oh wrong keyboard, i was honestly very surprised when when mark chan was like yeah we're gonna have more tears than eight
+> I swear to god I've never had this many issues on stream ever in my entire life this is bananas this is insane why did the game audio died oh oh god oh oh man this is never stream never start streaming y'all streaming is fake or or something god damn it all right, yeah tier 10 when yeah so so yeah oh wrong keyboard, I was honestly very surprised when when mark chan was like yeah we're gonna have more tears than eight

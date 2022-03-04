@@ -16,8 +16,8 @@ https://www.youtube.com/watch?v=A1xd4qWdOgo
 
 ### Transcript
 
-> dlc confirmed the parasnit compels you that's what's happening all right let me scroll up and see if i can see some
+> dlc confirmed the parasnit compels you that's what's happening all right let me scroll up and see if I can see some
 >
 > [Music]
 >
-> massage goals should be played with nobelist no matter who wins we all have a blast oh my god i love it
+> massage goals should be played with nobelist no matter who wins we all have a blast oh my god I love it

@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=lZtUUmd8igE
 
 ### Transcript
 
-> yeah there's a game called golf story that makes fun of golf culture i i have played that actually it's nice yeah i didn't finish it though because, it was a long game it's like a golf rpg it's really cute though
+> yeah there's a game called golf story that makes fun of golf culture- I have played that actually it's nice yeah I didn't finish it though because, it was a long game it's like a golf rpg it's really cute though

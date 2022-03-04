@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=bbAIZkim4Ww
 
 ### Transcript
 
-> does hannah use vr when editing the world no i wanted to say we should add back
+> does hannah use vr when editing the world no I wanted to say we should add back

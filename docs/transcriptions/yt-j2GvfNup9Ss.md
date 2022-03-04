@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=j2GvfNup9Ss
 
 ### Transcript
 
-> so they're varying like complexity to some of these recipes which like this is where i guess you i guess you can get a sense of like where the the sort of like the major part of this game comes from is the fact that you like you have to figure out how you want to build things because there's really no like even though the recipes are kind of straightforward there's really no like one way to build, lines and setups and i think we're gonna see that in a second too
+> so they're varying like complexity to some of these recipes which like this is where I guess you I guess you can get a sense of like where the the sort of like the major part of this game comes from is the fact that you like you have to figure out how you want to build things because there's really no like even though the recipes are kind of straightforward there's really no like one way to build, lines and setups and I think we're gonna see that in a second too

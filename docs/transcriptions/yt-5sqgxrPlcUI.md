@@ -20,4 +20,4 @@ This question was possibly duplicated with a more recent answer: [February 15th,
 
 ### Transcript
 
-> so so please toilet dlc before official dlc toilets you'll see soon soon you think we're joking i think we're joking don't push us just like we're joking about the drones right shut up they're gonna believe it it's fine
+> so so please toilet dlc before official dlc toilets you'll see soon soon you think we're joking I think we're joking don't push us just like we're joking about the drones right shut up they're gonna believe it it's fine

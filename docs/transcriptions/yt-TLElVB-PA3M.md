@@ -23,4 +23,4 @@ https://www.youtube.com/watch?v=TLElVB-PA3M
 
 ### Transcript
 
-> make refineries smaller we're not going to change any sizes of the buildings i don't think we're ever going to do that honestly if you, if you feel like a building is too small or too big we're probably not going to reduce sizes although famous last words i guess but i don't think we've ever done that so far so i guess that's interesting
+> make refineries smaller we're not going to change any sizes of the buildings I don't think we're ever going to do that honestly if you, if you feel like a building is too small or too big we're probably not going to reduce sizes although famous last words I guess but I don't think we've ever done that so far so I guess that's interesting

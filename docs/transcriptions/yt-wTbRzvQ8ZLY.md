@@ -22,4 +22,4 @@ https://www.youtube.com/watch?v=wTbRzvQ8ZLY
 >
 > [Music]
 >
-> it's because, the ai pathing is a bit wonky like there's some bug with air passing, so and that's why the like the ticks like we are weird when they walk around we need to solve that before we add that big crab feature the crab creature and when we fix that we will also fix the tick thing i believe
+> it's because, the ai pathing is a bit wonky like there's some bug with air passing, so and that's why the like the ticks like we are weird when they walk around we need to solve that before we add that big crab feature the crab creature and when we fix that we will also fix the tick thing I believe

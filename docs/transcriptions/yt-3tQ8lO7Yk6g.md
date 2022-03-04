@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [April 2nd, 202
 
 ### Transcript
 
-> so the unique services would be released with the steam release though yeah i i don't know if we i can't remember if we actually said that it would come with steam or if if we were no i don't think we said that i think we said that it was gonna we said it was gonna come out before we announced steam, but then it yeah then it clearly didn't it just really didn't it like dedicated service so didn't come out on time you know what i mean that's fair to say we [ __ ] up there
+> so the unique services would be released with the steam release though yeah- I don't know if we I can't remember if we actually said that it would come with steam or if if we were no I don't think we said that I think we said that it was gonna we said it was gonna come out before we announced steam, but then it yeah then it clearly didn't it just really didn't it like dedicated service so didn't come out on time you know what I mean that's fair to say we [ __ ] up there

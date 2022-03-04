@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [August 10th, 2
 
 ### Transcript
 
-> foam have you guys shot down the idea of a grappling hook oh that'd be cool, i don't know i don't know if we've shut it down but, it's it's we haven't, thought about that but make sure to post that on the keyway site if there isn't already someone who may oppose about that because that would be cool
+> foam have you guys shot down the idea of a grappling hook oh that'd be cool, I don't know I don't know if we've shut it down but, it's it's we haven't, thought about that but make sure to post that on the keyway site if there isn't already someone who may oppose about that because that would be cool

@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [February 8th, 
 
 ### Transcript
 
-> new suit skins, so customization for player customization, is something that i think we've talked a lot about we think it's cool i don't know when or if it will happen but i think i think it's possible but i don't know i can't confirm anything right now just because there's so much else we want to do
+> new suit skins, so customization for player customization, is something that I think we've talked a lot about we think it's cool I don't know when or if it will happen but I think I think it's possible but I don't know I can't confirm anything right now just because there's so much else we want to do

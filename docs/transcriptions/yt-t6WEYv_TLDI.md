@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [August 31st, 2
 
 ### Transcript
 
-> do you plan on some cutscenes for the story i'm not actually sure about cutscenes i'm not sure i i i for the way i understand it i don't think so but i think the only cutscene will be the drop pod sequence really yeah as far as i know yeah love to see yeah if you count that as a cutscene
+> do you plan on some cutscenes for the story I'm not actually sure about cutscenes I'm not sure- I for the way I understand it I don't think so but I think the only cutscene will be the drop pod sequence really yeah as far as I know yeah love to see yeah if you count that as a cutscene

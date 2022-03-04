@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=AKSgtvlhOlg
 
 > [Music]
 >
-> i'm gonna get a working bathtub for bathtub streams too soon it's actually a really good idea it's actually such a good idea to get hot tubs in the game
+> I'm gonna get a working bathtub for bathtub streams too soon it's actually a really good idea it's actually such a good idea to get hot tubs in the game

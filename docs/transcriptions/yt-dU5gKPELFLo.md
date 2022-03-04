@@ -19,7 +19,7 @@ This question was possibly duplicated with a more recent answer: [December 14th,
 ### Transcript
 
 > what kind of fuels in the game gasoline or diesel   oh could be something else you know 
-it could be something futuristic   i don't know i have no idea i don't think we've 
-decided on anything i just say it's just fuel hamster juice well you never know because you don't know really like it could be 
+it could be something futuristic   I don't know I have no idea I don't think we've 
+decided on anything I just say it's just fuel hamster juice well you never know because you don't know really like it could be 
 something something else because you don't know   what's on that planet you know some kind of oil 
 but you know is it is it olive oil is it you know

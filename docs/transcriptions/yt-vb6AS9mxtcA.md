@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=vb6AS9mxtcA
 
 ### Transcript
 
-> yeah i have a question is there in some future spaceships on other planets probably not probably not
+> yeah I have a question is there in some future spaceships on other planets probably not probably not

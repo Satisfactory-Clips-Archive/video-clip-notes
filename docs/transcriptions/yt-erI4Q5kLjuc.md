@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=erI4Q5kLjuc
 
 ### Transcript
 
-> you can't do it about automating the throwing slash placing of novelists automate the throwing wait automate the throwing you get like another arm i don't know if it needs to be in the game but i want to see it you know what i mean
+> you can't do it about automating the throwing slash placing of novelists automate the throwing wait automate the throwing you get like another arm I don't know if it needs to be in the game but I want to see it you know what I mean

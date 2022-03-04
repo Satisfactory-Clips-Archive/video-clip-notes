@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=LCrtpZD9T9I
 
 ### Transcript
 
-> we ever see snoot play one of those guitars back there i have done it once a stream i can sing you can play the guitar player i walk the only round i love taylor swift favorite nirvana song
+> we ever see snoot play one of those guitars back there I have done it once a stream I can sing you can play the guitar player I walk the only round I love taylor swift favorite nirvana song

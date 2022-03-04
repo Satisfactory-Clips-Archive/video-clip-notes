@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=v4vyUvsJq5E
 
 ### Transcript
 
-> can you confirm laser auto towers on update 5 tier 10. that's a very specific one but yes i can confirm we're gonna have laser towers tier 85, there are gonna be update five you're gonna be able to shoot so in the lasers and put a laser on beans freaking lasers on the beans oh for sure
+> can you confirm laser auto towers on update 5 tier 10. that's a very specific one but yes I can confirm we're gonna have laser towers tier 85, there are gonna be update five you're gonna be able to shoot so in the lasers and put a laser on beans freaking lasers on the beans oh for sure

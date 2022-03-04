@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=wgqxnxuo_Vc
 
 ### Transcript
 
-> somebody asked this a while ago but i missed it, somebody asked if you can slide on the rails you can, it's not amazing like it's it's you know but but you can slide on them technically
+> somebody asked this a while ago but I missed it, somebody asked if you can slide on the rails you can, it's not amazing like it's it's you know but but you can slide on them technically

@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=2--yx9IFs7U
 
 ### Transcript
 
-> nut farm i like that that's the only like that's it's not even a question it's just nut farm
+> nut farm I like that that's the only like that's it's not even a question it's just nut farm

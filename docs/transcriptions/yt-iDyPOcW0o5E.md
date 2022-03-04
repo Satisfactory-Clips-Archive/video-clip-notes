@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [September 28th
 
 ### Transcript
 
-> are you guys considering adding more music to the game music can be a huge thing with games like this i mean you just look at my car, maybe
+> are you guys considering adding more music to the game music can be a huge thing with games like this I mean you just look at my car, maybe

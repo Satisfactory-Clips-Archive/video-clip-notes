@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [September 28th
 
 ### Transcript
 
-> i saw one that was asking about, an ice biome not gonna happen i'm sorry isn't that do i have to recreate the no yeah maybe we're sticking with the map that we have but we're improving what is on that map basically and that means some biomes change some biomes won't
+> I saw one that was asking about, an ice biome not gonna happen I'm sorry isn't that do I have to recreate the no yeah maybe we're sticking with the map that we have but we're improving what is on that map basically and that means some biomes change some biomes won't

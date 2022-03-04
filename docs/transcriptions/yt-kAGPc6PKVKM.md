@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=kAGPc6PKVKM
 
 ### Transcript
 
-> any thoughts to expanding copy and paste functionality did work without opening the structure i think so i am pretty sure the ui peeps have ideas for this already i haven't talked to them in a while about this specifically but i wouldn't be surprised if there's there's more ideas for this
+> any thoughts to expanding copy and paste functionality did work without opening the structure I think so I am pretty sure the ui peeps have ideas for this already I haven't talked to them in a while about this specifically but I wouldn't be surprised if there's there's more ideas for this

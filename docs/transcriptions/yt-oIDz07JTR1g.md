@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=oIDz07JTR1g
 
 ### Transcript
 
-> hd jace is the best day i see we should have done this a long time ago and i'm saying that as if jase like hasn't been bugging me about this for a long time yeah for summer it it it annoys me for some reason people always like what's wrong with your camera like god like we're using just don't worry about it just chill out second of all and now we get 4k snoot i get irrationally upset about it
+> hd jace is the best day I see we should have done this a long time ago and I'm saying that as if jase like hasn't been bugging me about this for a long time yeah for summer it it it annoys me for some reason people always like what's wrong with your camera like god like we're using just don't worry about it just chill out second of all and now we get 4k snoot I get irrationally upset about it

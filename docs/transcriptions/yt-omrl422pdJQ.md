@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=omrl422pdJQ
 
 ### Transcript
 
-> morning this is not what i thought this part of the stream was gonna turn out no no i mean either but i'm really glad that y'all came along and watched looks like a lot of people are still having fun like i know we're not doing anything game related right now but the update's going out at 5 00 pm gmt you know in 13 minutes regardless of whether or not we did this stream you know so we figured something is more fun right than nothing so yeah i hope you, you've all been enjoying it i've had fun four hours really flew by fast
+> morning this is not what I thought this part of the stream was gonna turn out no no I mean either but I'm really glad that y'all came along and watched looks like a lot of people are still having fun like I know we're not doing anything game related right now but the update's going out at 5 00 pm gmt you know in 13 minutes regardless of whether or not we did this stream you know so we figured something is more fun right than nothing so yeah I hope you, you've all been enjoying it I've had fun four hours really flew by fast

@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=MezRAcpczbY
 
 ### Transcript
 
-> is only one of you allowed to wear a beanie at a time no we, we've done that before as well yeah it's happening with the beanie swap that was really good oh yeah i remember that yeah remember that that was amazing somebody posted on a reddit, the same brand that you have on your yellow beauty and someone was like i got merch
+> is only one of you allowed to wear a beanie at a time no we, we've done that before as well yeah it's happening with the beanie swap that was really good oh yeah I remember that yeah remember that that was amazing somebody posted on a reddit, the same brand that you have on your yellow beauty and someone was like I got merch
 >
 > [Laughter]
 >

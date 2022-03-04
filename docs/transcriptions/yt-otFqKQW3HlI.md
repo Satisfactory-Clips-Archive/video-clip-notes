@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [February 22nd,
 
 ### Transcript
 
-> are we going to get more developer highlights that's a good question i really want to do another one the problem is, the one that what i that i want to do is with someone who doesn't really work at the office at the moment, and that's kind of the issue is that not everyone is working the offices because of the, of corona and stuff but the plan is to to eventually make them again so once people start more people start returning to the office, we'll make some more developer highlights for sure hot
+> are we going to get more developer highlights that's a good question I really want to do another one the problem is, the one that what I that I want to do is with someone who doesn't really work at the office at the moment, and that's kind of the issue is that not everyone is working the offices because of the, of corona and stuff but the plan is to to eventually make them again so once people start more people start returning to the office, we'll make some more developer highlights for sure hot

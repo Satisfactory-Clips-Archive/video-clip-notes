@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=b8BSxuagqLI
 
 ### Transcript
 
-> yeah hey simon how long would it take you to finish the game, 131 hours and 30 minutes there you go it's a long playtime i can see
+> yeah hey simon how long would it take you to finish the game, 131 hours and 30 minutes there you go it's a long playtime I can see

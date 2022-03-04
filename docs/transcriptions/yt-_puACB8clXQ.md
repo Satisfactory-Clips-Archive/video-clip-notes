@@ -25,6 +25,6 @@ https://www.youtube.com/watch?v=_puACB8clXQ
 
 ### Transcript
 
-> ah do you guys are really going for that 800. oh god wow you guys got the 800 that's crazy press one in the chat if you ever thought this was ever gonna get to 800. that's incredible that's an incredible achievement one so many believers in the chat so many believers you all thought you were gonna get to 800. incredible we are so close to 900 we are so close to 900 once we get to 900 golf is being released i cannot wait i am looking forward to that so close incredible okay so let's go community highlights let's go everybody let's go everybody all right community everybody
+> ah do you guys are really going for that 800. oh god wow you guys got the 800 that's crazy press one in the chat if you ever thought this was ever gonna get to 800. that's incredible that's an incredible achievement one so many believers in the chat so many believers you all thought you were gonna get to 800. incredible we are so close to 900 we are so close to 900 once we get to 900 golf is being released I cannot wait I am looking forward to that so close incredible okay so let's go community highlights let's go everybody let's go everybody all right community everybody
 >
 > [Laughter]

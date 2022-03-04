@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: October 26th, 2
 
 ### Transcript
 
-> are there server files if i want to host my dedicated servers on my own server that's the dedicated service support that we're going to be rolling out when it's done so no not at the moment but there will be
+> are there server files if I want to host my dedicated servers on my own server that's the dedicated service support that we're going to be rolling out when it's done so no not at the moment but there will be

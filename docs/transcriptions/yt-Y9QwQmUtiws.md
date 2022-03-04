@@ -20,4 +20,4 @@ https://www.youtube.com/watch?v=Y9QwQmUtiws
 
 ### Transcript
 
-> you were doing caves this patch would there be any possibility of doing anything underwater we're not really doing any underwater stuff see the thing is if you if you so like our map is not done yet right we're still working on the world and if you add underwater then it's like a lot more the map has become playable and you have to do you have to justify that you need to like start populating stuff under the water and stuff so, that's not really a rabbit hole we are planning to jump into at the moment but, i mean it would certainly be cool
+> you were doing caves this patch would there be any possibility of doing anything underwater we're not really doing any underwater stuff see the thing is if you if you so like our map is not done yet right we're still working on the world and if you add underwater then it's like a lot more the map has become playable and you have to do you have to justify that you need to like start populating stuff under the water and stuff so, that's not really a rabbit hole we are planning to jump into at the moment but, I mean it would certainly be cool

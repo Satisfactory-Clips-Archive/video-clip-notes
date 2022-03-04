@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=2mkoJ8-mt2k
 
 ### Transcript
 
-> we have angled roof but whenever we're getting angled windows we do have angled windows, i mean it's the angle like we have angled window roofs doesn't that count i think it does cool fantastic, i'll put that on the keyword site maybe sounds like a good thing to upload on the keyword site if you ask me hope you are ready for like 45 more minutes of me saying about that in the qa site
+> we have angled roof but whenever we're getting angled windows we do have angled windows, I mean it's the angle like we have angled window roofs doesn't that count I think it does cool fantastic, I'll put that on the keyword site maybe sounds like a good thing to upload on the keyword site if you ask me hope you are ready for like 45 more minutes of me saying about that in the qa site

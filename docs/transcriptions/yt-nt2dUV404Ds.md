@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=nt2dUV404Ds
 
 ### Transcript
 
-> bagged milk in louisiana interesting that is interesting i didn't know louisiana was part of canada, i think i saw the same comment dude
+> bagged milk in louisiana interesting that is interesting I didn't know louisiana was part of canada, I think I saw the same comment dude

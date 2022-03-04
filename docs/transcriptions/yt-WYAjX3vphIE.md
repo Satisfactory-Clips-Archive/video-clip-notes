@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [November 2nd, 
 
 ### Transcript
 
-> other plans after 1.0 release i don't know yet we'll see
+> other plans after 1.0 release I don't know yet we'll see

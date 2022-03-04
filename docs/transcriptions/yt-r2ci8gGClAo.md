@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=r2ci8gGClAo
 
 ### Transcript
 
-> go here we're in the main hall of our new office but how do we get to the basement do you know how to get to the basement what are you doing behind us all right then what are you doing kills me listen carefully guys what are you doing just watching it just watching it get to the basement do you know how to get to the basement look smooth a clue did you like put that there or we can play it in a machine over there but i also love this but i'm just like what the [ __ ] just happened so so far first of all we took a few tastes to get this
+> go here we're in the main hall of our new office but how do we get to the basement do you know how to get to the basement what are you doing behind us all right then what are you doing kills me listen carefully guys what are you doing just watching it just watching it get to the basement do you know how to get to the basement look smooth a clue did you like put that there or we can play it in a machine over there but I also love this but I'm just like what the [ __ ] just happened so so far first of all we took a few tastes to get this

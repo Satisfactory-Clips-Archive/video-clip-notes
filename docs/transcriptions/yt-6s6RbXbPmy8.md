@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=6s6RbXbPmy8
 
 ### Transcript
 
-> yeah so some other people also pointed that that there's water in the tower but this water pipe isn't working that's a bug don't worry about that that's not anything secret i think that's just like indicating modular pillars yeah
+> yeah so some other people also pointed that that there's water in the tower but this water pipe isn't working that's a bug don't worry about that that's not anything secret I think that's just like indicating modular pillars yeah

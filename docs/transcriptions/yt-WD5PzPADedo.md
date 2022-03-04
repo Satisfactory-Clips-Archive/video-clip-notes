@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=WD5PzPADedo
 
 ### Transcript
 
-> when do you have to play as a doggo to fall across the lens wait i think there's a mod where i think i've seen a mod once before where you could play as the doggo it was pretty weird
+> when do you have to play as a doggo to fall across the lens wait I think there's a mod where I think I've seen a mod once before where you could play as the doggo it was pretty weird

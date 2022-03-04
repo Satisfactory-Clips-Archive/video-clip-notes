@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=s4sl2h532UM
 
 ### Transcript
 
-> is there any reason why the spiders look like that because we made them look like that i don't know
+> is there any reason why the spiders look like that because we made them look like that I don't know

@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [September 28th
 
 ### Transcript
 
-> can you tell us the theme for update five yes the theme is that it's gonna be the fifth update which is technically not true but that's the theme i'm speaking more than four less than six seven is right out yes
+> can you tell us the theme for update five yes the theme is that it's gonna be the fifth update which is technically not true but that's the theme I'm speaking more than four less than six seven is right out yes

@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=3uqePr4WNrw
 
 ### Transcript
 
-> maybe start from scratch and story mode importing old save from construction mode yeah or maybe you know if we end up having things like alternate game modes so that people can like sort of speed speed run through like if there was like a creative mode or something maybe that could help people just like more easily experience the story and then keep their old factory i don't know if that's a good idea or not
+> maybe start from scratch and story mode importing old save from construction mode yeah or maybe you know if we end up having things like alternate game modes so that people can like sort of speed speed run through like if there was like a creative mode or something maybe that could help people just like more easily experience the story and then keep their old factory I don't know if that's a good idea or not

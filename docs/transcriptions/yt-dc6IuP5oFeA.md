@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=dc6IuP5oFeA
 
 ### Transcript
 
-> and tips for train bugs mine keep docking forever, no i check out any video there are a ton of videos about, about docking about trains specifically i'm fired all right
+> and tips for train bugs mine keep docking forever, no I check out any video there are a ton of videos about, about docking about trains specifically I'm fired all right
 >
 > [Laughter]
 >
@@ -22,4 +22,4 @@ https://www.youtube.com/watch?v=dc6IuP5oFeA
 >
 > [Music]
 >
->, to-do list to fix a bunch of, train issues, and also i believe some networking issues specifically with trains, the like i know it's frustrating like we've fixed a bunch of train issues and then they come back over and over again like it's it's a sometimes some systems are like house of cards and when we fix something it breaks another thing, so like sometimes we fix something with trains and then the issue comes back but it's just, that's how the cookie crumbles sometimes and the cookie does in fact crumble for sure especially when we're involved yup
+>, to-do list to fix a bunch of, train issues, and also I believe some networking issues specifically with trains, the like I know it's frustrating like we've fixed a bunch of train issues and then they come back over and over again like it's it's a sometimes some systems are like house of cards and when we fix something it breaks another thing, so like sometimes we fix something with trains and then the issue comes back but it's just, that's how the cookie crumbles sometimes and the cookie does in fact crumble for sure especially when we're involved yup

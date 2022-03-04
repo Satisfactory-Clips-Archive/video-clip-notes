@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=ko3yGf2vfO4
 
 ### Transcript
 
-> i missed a surprise what was it the surprises right here right here who would have thought they hired an intern
+> I missed a surprise what was it the surprises right here right here who would have thought they hired an intern

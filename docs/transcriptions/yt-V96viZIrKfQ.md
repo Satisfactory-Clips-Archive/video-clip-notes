@@ -22,4 +22,4 @@ https://www.youtube.com/watch?v=V96viZIrKfQ
 
 ### Transcript
 
-> do we do any work outside of the streams i sure hope so we're just here for two hours a week yeah that'd be pretty good that's a pretty good deal i yeah i'd be down for that yeah
+> do we do any work outside of the streams I sure hope so we're just here for two hours a week yeah that'd be pretty good that's a pretty good deal I yeah I'd be down for that yeah

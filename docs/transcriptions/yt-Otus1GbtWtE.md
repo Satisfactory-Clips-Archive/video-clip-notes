@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=Otus1GbtWtE
 
 ### Transcript
 
-> how will the fps be with this change in the biome we'll have to see usually whenever we make sort of changes they have to go through an optimization process so we don't really know for sure if if or how much the changes will impact the biome but you know like yeah i'm not i don't really know for sure what sort of impact it has but whatever impact it currently has, you know our tech artist ben as well as the programming team will do whatever they can, to mitigate any of those, , performance losses
+> how will the fps be with this change in the biome we'll have to see usually whenever we make sort of changes they have to go through an optimization process so we don't really know for sure if if or how much the changes will impact the biome but you know like yeah I'm not I don't really know for sure what sort of impact it has but whatever impact it currently has, you know our tech artist ben as well as the programming team will do whatever they can, to mitigate any of those, , performance losses

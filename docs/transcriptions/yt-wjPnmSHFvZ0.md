@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=wjPnmSHFvZ0
 
 ### Transcript
 
-> do you drink coffee tim i think you're a coffee drinker yes how do you how do you take your coffee with my mouth all right all right that was too much information yeah wow whoa whoa whoa calm down let's reel this back in all right this is a pg3 pg streamer right three pg three
+> do you drink coffee tim I think you're a coffee drinker yes how do you how do you take your coffee with my mouth all right all right that was too much information yeah wow whoa whoa whoa calm down let's reel this back in all right this is a pg3 pg streamer right three pg three

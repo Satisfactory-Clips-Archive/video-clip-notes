@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=ak2xGu7ZZIc
 
 ### Transcript
 
-> will there be a tier 9 and 10 maybe who knows who knows i mean i know but it's, top secret information my dude
+> will there be a tier 9 and 10 maybe who knows who knows I mean I know but it's, top secret information my dude

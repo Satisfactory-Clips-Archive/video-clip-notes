@@ -20,4 +20,4 @@ https://www.youtube.com/watch?v=uL_cajdKTcg
 
 ### Transcript
 
-> nerd, what about modular build we're going to release some information about that pretty soon but i guess we can kind of mention do we do you know or not sorry say again i was reading chat modular build, it's gonna happen after like fairly soon after we feel like, experimental is is okay, we're we're so focused on fixing update four, sorry fixing experimental right now, make sure that runs before we go to the next step, but i think it won't take too long it's my guess after it hits like ea or something like that the experimental branch status
+> nerd, what about modular build we're going to release some information about that pretty soon but I guess we can kind of mention do we do you know or not sorry say again I was reading chat modular build, it's gonna happen after like fairly soon after we feel like, experimental is is okay, we're we're so focused on fixing update four, sorry fixing experimental right now, make sure that runs before we go to the next step, but I think it won't take too long it's my guess after it hits like ea or something like that the experimental branch status

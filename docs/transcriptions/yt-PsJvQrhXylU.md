@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=PsJvQrhXylU
 
 ### Transcript
 
-> any way to toggle aoe on chainsaw oh that's a good question i don't think we've ever considered that, it's always been aoe honestly i played the game without the aoe, it's not great i guess if you want to like chainsaw down like a specific tree and leave like the branches or something like that, but those are such rare occasions i guess
+> any way to toggle aoe on chainsaw oh that's a good question I don't think we've ever considered that, it's always been aoe honestly I played the game without the aoe, it's not great I guess if you want to like chainsaw down like a specific tree and leave like the branches or something like that, but those are such rare occasions I guess

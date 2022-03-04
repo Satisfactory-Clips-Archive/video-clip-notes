@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: December 7th, 2
 
 ### Transcript
 
-> how much do you think around five will help develop the game i don't think it does help the development i don't think it would in our case and and it's like we're not gonna be switching to it anytime soon so i don't think it's gonna help us i don't know maybe it will in the future at some point but it's not anytime soon you
+> how much do you think around five will help develop the game I don't think it does help the development I don't think it would in our case and and it's like we're not gonna be switching to it anytime soon so I don't think it's gonna help us I don't know maybe it will in the future at some point but it's not anytime soon you

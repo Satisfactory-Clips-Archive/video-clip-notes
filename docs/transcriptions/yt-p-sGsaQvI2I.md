@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=p-sGsaQvI2I
 
 ### Transcript
 
-> train station a bigger clearance known i don't know kiwi's like maybe somebody here knows i don't know
+> train station a bigger clearance known I don't know kiwi's like maybe somebody here knows I don't know

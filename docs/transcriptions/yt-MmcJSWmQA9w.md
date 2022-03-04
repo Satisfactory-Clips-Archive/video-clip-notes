@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=MmcJSWmQA9w
 
 ### Transcript
 
-> know sometimes i get an unreal, engine crash report copying, satisfaction with the game hasn't crashed any ideas if you're getting the crash reporter then the game has crashed yes i i don't know how you get the crash reporter and the game keeps running, if that is happening then that's crazy that's that's wait you get the crash report as the game is running like does the game kind of i don't know if that's what they're saying that's a new one
+> know sometimes I get an unreal, engine crash report copying, satisfaction with the game hasn't crashed any ideas if you're getting the crash reporter then the game has crashed yes- I don't know how you get the crash reporter and the game keeps running, if that is happening then that's crazy that's that's wait you get the crash report as the game is running like does the game kind of I don't know if that's what they're saying that's a new one

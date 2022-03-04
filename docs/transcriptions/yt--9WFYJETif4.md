@@ -18,7 +18,7 @@ This question was possibly duplicated with a more recent answer: [February 8th, 
 
 ### Transcript
 
-> this automated food production plan i have been on three health bars my entire life well you know some of us are on three health bars some are around five you know some around seven some are ten, you know you gotta you gotta do what's best with what you have you know like there's nothing saying that you can't live life to the fullest just because you have three health bars or three bars
+> this automated food production plan I have been on three health bars my entire life well you know some of us are on three health bars some are around five you know some around seven some are ten, you know you gotta you gotta do what's best with what you have you know like there's nothing saying that you can't live life to the fullest just because you have three health bars or three bars
 >
 > [Music]
 >

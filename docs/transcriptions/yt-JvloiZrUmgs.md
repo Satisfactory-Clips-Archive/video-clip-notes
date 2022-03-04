@@ -27,4 +27,4 @@ https://www.youtube.com/watch?v=JvloiZrUmgs
 
 ### Transcript
 
-> i feel like i feel like we won't be able to focus on the community highlights anymore i'm gonna i look i'm gonna refresh the golf all right we'll drop golf for now and i'm gonna check in on it again after community highlights all right i'm gonna i'll check in on golf after community highlights and we'll talk about it again all right but for now let's let's appreciate the submissions that people have put in don't drop golf this is this is drop golf okay
+> I feel like I feel like we won't be able to focus on the community highlights anymore I'm gonna I look I'm gonna refresh the golf all right we'll drop golf for now and I'm gonna check in on it again after community highlights all right I'm gonna I'll check in on golf after community highlights and we'll talk about it again all right but for now let's let's appreciate the submissions that people have put in don't drop golf this is this is drop golf okay

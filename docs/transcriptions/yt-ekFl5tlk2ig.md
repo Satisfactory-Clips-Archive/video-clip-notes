@@ -26,4 +26,4 @@ https://www.youtube.com/watch?v=ekFl5tlk2ig
 
 ### Transcript
 
-> one dollar toilet paper dlc coming soon coming soon guys it's it's one toilet wait i always get this wrong it's one dollar toilet flush dlc right, yeah toilet flush toilet flush not paper exactly you already have paper you have the coupons you can wipe on those yeah exactly
+> one dollar toilet paper dlc coming soon coming soon guys it's it's one toilet wait I always get this wrong it's one dollar toilet flush dlc right, yeah toilet flush toilet flush not paper exactly you already have paper you have the coupons you can wipe on those yeah exactly

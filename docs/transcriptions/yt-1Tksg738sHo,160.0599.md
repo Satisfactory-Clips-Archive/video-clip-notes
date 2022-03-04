@@ -16,7 +16,7 @@ https://youtube.com/clip/UgkxFbGdaZLBR99g8iunPzTYy2wEncT59SJn
 
 ### Transcript
 
-> again next year with more streams we'll make keep making more videos and maybe some more updates to the game who knows we are still working towards 1.0 but until then to everyone playing the game our moderators all content creators people making tools and guides anyone making mods you know translators wiki contributors reviewers anyone i'm forgetting here really anyone has been part of the journey that is satisfactory a huge thank you to you all happy holidays and a happy new year
+> again next year with more streams we'll make keep making more videos and maybe some more updates to the game who knows we are still working towards 1.0 but until then to everyone playing the game our moderators all content creators people making tools and guides anyone making mods you know translators wiki contributors reviewers anyone I'm forgetting here really anyone has been part of the journey that is satisfactory a huge thank you to you all happy holidays and a happy new year
 >
 > [Music]
 >

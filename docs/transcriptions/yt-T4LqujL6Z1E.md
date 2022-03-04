@@ -16,7 +16,7 @@ This question was possibly duplicated with a more recent answer: [August 31st, 2
 
 ### Transcript
 
-> when are you guys returning to the office that's a that's a million dollar question, right now the recommendation is sweden is to work from home until new year and then there's going to be a new reevaluation after that so we don't know really, but now there's like a soft lockdown in some parts of sweden, i don't think it is in cueva though, but yeah like the couple of last couple of weeks there's been a surge
+> when are you guys returning to the office that's a that's a million dollar question, right now the recommendation is sweden is to work from home until new year and then there's going to be a new reevaluation after that so we don't know really, but now there's like a soft lockdown in some parts of sweden, I don't think it is in cueva though, but yeah like the couple of last couple of weeks there's been a surge
 >
 > [Music]
 >

@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=nFJUho2El3Y
 
 ### Transcript
 
-> how will how is the world building going will we see updates to the map in the next update, i i assume there are changes in this update coming up but there's going to be massive changes in update four as well i'm guessing i don't know i don't know what they are i don't know exactly what the world is hannah hannah is a busy bee and she now has lackeys, so i assume she's doing nothing not doing nothing well, yeah so i i don't know we'll see we'll see i don't know what they are though i can't tell you right now
+> how will how is the world building going will we see updates to the map in the next update, I assume there are changes in this update coming up but there's going to be massive changes in update four as well I'm guessing I don't know I don't know what they are I don't know exactly what the world is hannah hannah is a busy bee and she now has lackeys, so I assume she's doing nothing not doing nothing well, yeah so- I don't know we'll see we'll see I don't know what they are though I can't tell you right now

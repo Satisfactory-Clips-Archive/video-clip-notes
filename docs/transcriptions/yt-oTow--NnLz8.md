@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [April 20th, 20
 
 ### Transcript
 
-> where can i find the latest road map you can't the best way to there's no road map the best way to just like hang out on our twitch or twitter or whatever and just get news which i i guess is not a great way but yeah it's it's the, the decision we've taken just because we want to be able to like react to stuff that's going on, we feel limited with a road map
+> where can I find the latest road map you can't the best way to there's no road map the best way to just like hang out on our twitch or twitter or whatever and just get news which- I guess is not a great way but yeah it's it's the, the decision we've taken just because we want to be able to like react to stuff that's going on, we feel limited with a road map

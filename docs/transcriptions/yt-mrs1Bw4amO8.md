@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=mrs1Bw4amO8
 
 ### Transcript
 
-> food court is the place where we can get doga birds right yeah yeah dog of burgers tacos kebabs stir-fry you can get doggo gyoza you guys know what gyoza is it's good lizzie dogger lizzie lizard dog all right liz's dog yo that's amazing yeah i love kyozo
+> food court is the place where we can get doga birds right yeah yeah dog of burgers tacos kebabs stir-fry you can get doggo gyoza you guys know what gyoza is it's good lizzie dogger lizzie lizard dog all right liz's dog yo that's amazing yeah I love kyozo

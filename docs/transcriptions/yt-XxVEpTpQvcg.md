@@ -21,4 +21,4 @@ https://www.youtube.com/watch?v=XxVEpTpQvcg
 
 ### Transcript
 
-> did you know about the multiplayer bug so i can't join a game or find it we we aware of it, we're trying to solve it we don't we don't really know why it's happening, but we are gonna push some kind of fix for that on ea soon this week hopefully, that might fix it for some people but it might not for everyone still trying to figure out what the hell is going on
+> did you know about the multiplayer bug so I can't join a game or find it we we aware of it, we're trying to solve it we don't we don't really know why it's happening, but we are gonna push some kind of fix for that on ea soon this week hopefully, that might fix it for some people but it might not for everyone still trying to figure out what the hell is going on

@@ -20,4 +20,4 @@ https://www.youtube.com/watch?v=BmPwejyviV8
 
 ### Transcript
 
-> how come your bills were so good in trailers when you're building your channel with dog like gotta help oh yeah i didn't care on my own channel okay like you're here after i have to on our coffee stage channel i actually have to care
+> how come your bills were so good in trailers when you're building your channel with dog like gotta help oh yeah I didn't care on my own channel okay like you're here after I have to on our coffee stage channel I actually have to care

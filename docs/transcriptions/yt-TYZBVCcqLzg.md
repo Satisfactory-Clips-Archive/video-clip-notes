@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=TYZBVCcqLzg
 
 ### Transcript
 
-> so yeah will hypertube cannons be broken by the engine upgrade, i don't think so no by the engine update no they won't, or maybe like it's hard to say i i don't know if we've tested that if we've tested that we would know but i don't think they will so that's that's that's my that's my answer i'm sticking by it
+> so yeah will hypertube cannons be broken by the engine upgrade, I don't think so no by the engine update no they won't, or maybe like it's hard to say- I don't know if we've tested that if we've tested that we would know but I don't think they will so that's that's that's my that's my answer I'm sticking by it

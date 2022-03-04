@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=woqoPQxH1aQ
 
 ### Transcript
 
-> would the engineer be a smoker though i don't know it's this is like role play yeah
+> would the engineer be a smoker though I don't know it's this is like role play yeah
 >
 > [Music]
 >

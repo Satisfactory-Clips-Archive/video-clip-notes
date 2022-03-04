@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=o-rncE3S1wA
 
 ### Transcript
 
-> me will the awesome store say the same with some of the items we integrated into tears with the mam i think the awesome the awesome sink will be sorry the awesome store will stay mostly the same but i can't say for sure
+> me will the awesome store say the same with some of the items we integrated into tears with the mam I think the awesome the awesome sink will be sorry the awesome store will stay mostly the same but I can't say for sure

@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [December 14th,
 
 > [Music]
 >
-> any word on mugs, not really, all i know is that the production of them was delayed because of kovid and the factories that were producing them so, we really know what's up yeah it's taking so long
+> any word on mugs, not really, all I know is that the production of them was delayed because of kovid and the factories that were producing them so, we really know what's up yeah it's taking so long

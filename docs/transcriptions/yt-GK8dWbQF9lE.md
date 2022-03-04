@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=GK8dWbQF9lE
 
 ### Transcript
 
-> magnum toilet absolutely the shelby riots if there's no flush dlc i i'll lead i'll lead the i'll lead the riot don't you worry there's gonna be toilet dlc
+> magnum toilet absolutely the shelby riots if there's no flush dlc- I'll lead I'll lead the I'll lead the riot don't you worry there's gonna be toilet dlc

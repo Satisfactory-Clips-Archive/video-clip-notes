@@ -20,4 +20,4 @@ https://www.youtube.com/watch?v=9s-7Ipd_EE4
 
 ### Transcript
 
-> do you like mods is it something that helps you with the development of the game i you know what a few weeks ago i made a video all about that so i'm not going to talk about it here but i will put a link this is the mod mod video that i made much more in-depth stuff there you can get your answer there
+> do you like mods is it something that helps you with the development of the game I you know what a few weeks ago I made a video all about that so I'm not going to talk about it here but I will put a link this is the mod mod video that I made much more in-depth stuff there you can get your answer there

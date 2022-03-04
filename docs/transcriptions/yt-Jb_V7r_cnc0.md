@@ -20,4 +20,4 @@ https://www.youtube.com/watch?v=Jb_V7r_cnc0
 
 ### Transcript
 
-> i also would like to mention, like, during update four, like there's a lot of really really cool [ __ ] happening for the next updates, along the way which i also obviously can talk about but it's gonna be awesome and, sophie wasn't available for most of the update for stuff but she's back now, because she's been our principal, concept artist, all along so, she's back working on a lot of really cool stuff and it's gonna be nice
+> I also would like to mention, like, during update four, like there's a lot of really really cool [ __ ] happening for the next updates, along the way which I also obviously can talk about but it's gonna be awesome and, sophie wasn't available for most of the update for stuff but she's back now, because she's been our principal, concept artist, all along so, she's back working on a lot of really cool stuff and it's gonna be nice

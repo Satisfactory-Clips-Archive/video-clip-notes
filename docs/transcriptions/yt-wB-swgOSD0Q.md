@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=wB-swgOSD0Q
 
 ### Transcript
 
-> are you a full-time community manager now i'm still developing i'm full-time community manager full-time community manager
+> are you a full-time community manager now I'm still developing I'm full-time community manager full-time community manager

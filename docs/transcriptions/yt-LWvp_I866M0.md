@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [January 18th, 
 
 ### Transcript
 
-> will we ever make a console version that's a good question we have no plans for it right now, because we need to focus on pc so i don't like console version will not happen until 1.0, if it happens but after that we'll see but no plans right now back up your saves exactly all right let me jump back down again kfc console well oya and, kfc console
+> will we ever make a console version that's a good question we have no plans for it right now, because we need to focus on pc so I don't like console version will not happen until 1.0, if it happens but after that we'll see but no plans right now back up your saves exactly all right let me jump back down again kfc console well oya and, kfc console

@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=cCmKMxqgfw8
 
 ### Transcript
 
-> i cannot say hannah's last name it's not the g either i can do like the dutch g is like a thing or something right isn't that right i can do the g it's the it's the vowels before the g that is not in my in my wheelhouse
+> I cannot say hannah's last name it's not the g either I can do like the dutch g is like a thing or something right isn't that right I can do the g it's the it's the vowels before the g that is not in my in my wheelhouse

@@ -24,4 +24,4 @@ https://www.youtube.com/watch?v=wqMveGY5x18
 
 ### Transcript
 
-> okay well thank you all so much for joining us today really appreciate it i hope that everyone watching has a little bit of a an an idea of what goes into making this, game sort of the people in i guess non-english speaking places so thank you so much for taking the time and joining us everyone thank you for having us yeah thank you thank you for inviting us no problem take care everybody have a good day guys thanks bye thanks bye bye
+> okay well thank you all so much for joining us today really appreciate it I hope that everyone watching has a little bit of a an an idea of what goes into making this, game sort of the people in I guess non-english speaking places so thank you so much for taking the time and joining us everyone thank you for having us yeah thank you thank you for inviting us no problem take care everybody have a good day guys thanks bye thanks bye bye

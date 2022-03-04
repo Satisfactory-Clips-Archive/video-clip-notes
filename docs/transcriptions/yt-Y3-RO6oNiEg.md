@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=Y3-RO6oNiEg
 
 ### Transcript
 
-> how's pirate language translation coming i'm not sure i haven't checked in but, yeah i haven't really checked in i'm sure it's coming along nicely mcgowan has been doing great
+> how's pirate language translation coming I'm not sure I haven't checked in but, yeah I haven't really checked in I'm sure it's coming along nicely mcgowan has been doing great

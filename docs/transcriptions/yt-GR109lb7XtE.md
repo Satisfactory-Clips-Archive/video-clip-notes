@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=GR109lb7XtE
 
 ### Transcript
 
-> are they planning to have a sale on release so don't really well okay so one don't know two even if i knew i will have to say i don't know i'm pretty sure there's like legal issues or something about like talk like leaking sale dates i'm pretty sure know how to do that so so like the the answer is always gonna be i don't know even if i do know that's true
+> are they planning to have a sale on release so don't really well okay so one don't know two even if I knew I will have to say I don't know I'm pretty sure there's like legal issues or something about like talk like leaking sale dates I'm pretty sure know how to do that so so like the the answer is always gonna be I don't know even if I do know that's true

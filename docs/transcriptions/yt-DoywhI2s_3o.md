@@ -24,4 +24,4 @@ https://www.youtube.com/watch?v=DoywhI2s_3o
 
 ### Transcript
 
-> answer about soundtrack release, i we we kind of want to finish the soundtrack before we put it out i think we might put it out earlier but, there's still more music to be added to the game so that's that's mostly why we haven't put out the soundtrack but we might put it up earlier we'll see
+> answer about soundtrack release, I we we kind of want to finish the soundtrack before we put it out I think we might put it out earlier but, there's still more music to be added to the game so that's that's mostly why we haven't put out the soundtrack but we might put it up earlier we'll see

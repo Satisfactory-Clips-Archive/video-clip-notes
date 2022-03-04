@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=SkcmBKDOi1U
 
 ### Transcript
 
-> when i started the game i got a black particle etc on the home screen was that a bug or a feature so this bug, like your buildings just turned black has been a thing that's been happening sort of recently and usually for some people just restarting the game helps other people need to like verify their files because sometimes like the, game files can get corrupted when you download an update or whatever from steam or whatever so try verify your files if that happens and and usually it gets fixed yeah
+> when I started the game I got a black particle etc on the home screen was that a bug or a feature so this bug, like your buildings just turned black has been a thing that's been happening sort of recently and usually for some people just restarting the game helps other people need to like verify their files because sometimes like the, game files can get corrupted when you download an update or whatever from steam or whatever so try verify your files if that happens and and usually it gets fixed yeah

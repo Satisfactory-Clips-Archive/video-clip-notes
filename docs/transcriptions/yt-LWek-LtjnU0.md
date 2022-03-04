@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [November 16th,
 
 ### Transcript
 
-> okay any new wars coming to the game no, as far as i know the only or that's not like being used yet is the sam orr which is tied into story, and that's not gonna come until later to like 1.0 ish so it's a later thing but i don't think there's any new or planned we we have enough for the stuff that's already in the game recipe-wise
+> okay any new wars coming to the game no, as far as I know the only or that's not like being used yet is the sam orr which is tied into story, and that's not gonna come until later to like 1.0 ish so it's a later thing but I don't think there's any new or planned we we have enough for the stuff that's already in the game recipe-wise

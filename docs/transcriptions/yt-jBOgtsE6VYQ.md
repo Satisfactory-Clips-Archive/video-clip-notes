@@ -28,4 +28,4 @@ https://www.youtube.com/watch?v=jBOgtsE6VYQ
 
 ### Transcript
 
-> what does this versus fear do and how much does it waste that how much does it weigh yeah do you have any plans for mercy's fears i can't say i can't say what it does at the moment it just sits there and it says creepy things to you that's about it is it saying a creepy thing she just tells you to pick it up harvest isn't that creepy this isn't a creepy way
+> what does this versus fear do and how much does it waste that how much does it weigh yeah do you have any plans for mercy's fears I can't say I can't say what it does at the moment it just sits there and it says creepy things to you that's about it is it saying a creepy thing she just tells you to pick it up harvest isn't that creepy this isn't a creepy way

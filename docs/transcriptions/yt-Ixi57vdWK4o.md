@@ -90,4 +90,4 @@ https://www.youtube.com/watch?v=Ixi57vdWK4o
 
 ### Transcript
 
-> so good which made the shot even better just look down at it for a bit i'm glad that i didn't react yeah oh good one thing i love it i didn't know this isn't like way later i love how you're like walking up as if the golf club is like cane here yeah yeah exactly yeah
+> so good which made the shot even better just look down at it for a bit I'm glad that I didn't react yeah oh good one thing I love it I didn't know this isn't like way later I love how you're like walking up as if the golf club is like cane here yeah yeah exactly yeah

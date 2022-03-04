@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [January 25th, 
 
 ### Transcript
 
-> has sam or been given a function yet no no function for samurai yet that will be tied to this story i can't wait for the story to get in i can't wait for 1.0 that's gonna be great
+> has sam or been given a function yet no no function for samurai yet that will be tied to this story I can't wait for the story to get in I can't wait for 1.0 that's gonna be great

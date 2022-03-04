@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: March 16th, 202
 
 ### Transcript
 
-> will mods work correctly after the update, i may probably not because they don't work with experimental right now but i think the mod community are like kind of like they're waiting for the update i think, to see if there's any differences but i think they're looking into it so we'll see i believe in them they're doing some pretty amazing yeah for sure just like kibbitz released a video this week i think that had like a ton of mods that i haven't seen before that was insane
+> will mods work correctly after the update, I may probably not because they don't work with experimental right now but I think the mod community are like kind of like they're waiting for the update I think, to see if there's any differences but I think they're looking into it so we'll see I believe in them they're doing some pretty amazing yeah for sure just like kibbitz released a video this week I think that had like a ton of mods that I haven't seen before that was insane

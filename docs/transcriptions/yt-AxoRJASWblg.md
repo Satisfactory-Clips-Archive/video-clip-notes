@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [January 18th, 
 
 ### Transcript
 
-> do you think satisfactory will come to playstation or xbox i don't know maybe right now we're not focusing on that though but, it's not, it's not it's not out of the question it's certainly not out of the question it's very much inside the question it's not out of the question but we haven't asked that question yet yes
+> do you think satisfactory will come to playstation or xbox I don't know maybe right now we're not focusing on that though but, it's not, it's not it's not out of the question it's certainly not out of the question it's very much inside the question it's not out of the question but we haven't asked that question yet yes

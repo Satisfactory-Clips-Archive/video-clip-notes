@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=ZBpgMm7_Mt0
 
 ### Transcript
 
-> god i have no clean shoes yo my shoes are super [ __ ] dirty i've i've like i have, taken upon me to do the hiking thing my my shoes are [ __ ] gross like i'm in the mud walking and [ __ ] in sweden we don't wear shoes and also that yeah all right
+> god I have no clean shoes yo my shoes are super [ __ ] dirty I've I've like I have, taken upon me to do the hiking thing my my shoes are [ __ ] gross like I'm in the mud walking and [ __ ] in sweden we don't wear shoes and also that yeah all right

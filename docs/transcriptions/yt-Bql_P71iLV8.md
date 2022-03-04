@@ -20,4 +20,4 @@ https://www.youtube.com/watch?v=Bql_P71iLV8
 
 ### Transcript
 
-> will there be a hotkey for holding shift to go down ladders faster that's a good question just, jump off the ladder that's the fastest way i think yeah your knees will thank you
+> will there be a hotkey for holding shift to go down ladders faster that's a good question just, jump off the ladder that's the fastest way I think yeah your knees will thank you

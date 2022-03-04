@@ -24,4 +24,4 @@ https://www.youtube.com/watch?v=yktQGSMqHyo
 
 ### Transcript
 
-> will satisfactory have pvp no probably not i mean you can hit each other so you like you can yeah you can there is friendly fire so to speak so i mean if that constitutes pvp but not like in the sense of building stuff like you won't be able to like yeah like race around yeah
+> will satisfactory have pvp no probably not I mean you can hit each other so you like you can yeah you can there is friendly fire so to speak so I mean if that constitutes pvp but not like in the sense of building stuff like you won't be able to like yeah like race around yeah

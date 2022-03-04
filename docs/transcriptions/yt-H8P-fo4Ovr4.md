@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=H8P-fo4Ovr4
 
 ### Transcript
 
-> i realized something by the way jace for the shoot that's happening this week like there was a lot of snow when we shot last week and there's not going to be any snow oh yeah that's that's, that's the thing you gotta reshoot yeah anyway, continuity yeah immersion broken i love that i pointed out in chat or and on a stream as well so that people can point it out in the video yeah good good well played well played got it
+> I realized something by the way jace for the shoot that's happening this week like there was a lot of snow when we shot last week and there's not going to be any snow oh yeah that's that's, that's the thing you gotta reshoot yeah anyway, continuity yeah immersion broken I love that I pointed out in chat or and on a stream as well so that people can point it out in the video yeah good good well played well played got it

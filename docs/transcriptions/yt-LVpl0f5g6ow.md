@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [February 22nd,
 
 ### Transcript
 
-> will satisfactory ever have boats i highly doubt it
+> will satisfactory ever have boats I highly doubt it

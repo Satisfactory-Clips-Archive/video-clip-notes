@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=Lw9r_gSLLOE
 
 ### Transcript
 
-> can you stand on the space level while it launches yeah wait i think you can i think you can yeah or at least i've seen people do it i don't know if that's changed or not
+> can you stand on the space level while it launches yeah wait I think you can I think you can yeah or at least I've seen people do it I don't know if that's changed or not

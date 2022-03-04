@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [February 15th,
 
 ### Transcript
 
-> okay so when is the toilet dlc coming out i don't know i'm asking that question every day yeah same we have a it's been this many days signed since we asked and it's always at zero yeah we have a dedicated team working on it yeah 40 people yeah yep for sure
+> okay so when is the toilet dlc coming out I don't know I'm asking that question every day yeah same we have a it's been this many days signed since we asked and it's always at zero yeah we have a dedicated team working on it yeah 40 people yeah yep for sure

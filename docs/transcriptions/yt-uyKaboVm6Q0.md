@@ -16,6 +16,6 @@ https://www.youtube.com/watch?v=uyKaboVm6Q0
 
 ### Transcript
 
-> some animations on the blenders that disappeared oh anyway causes i have no idea i wonder if it's like if you're too far away from them the lotting will clip out the animation maybe but i know give us give us your feedback on the keyword site let us know if that's buggy
+> some animations on the blenders that disappeared oh anyway causes I have no idea I wonder if it's like if you're too far away from them the lotting will clip out the animation maybe but I know give us give us your feedback on the keyword site let us know if that's buggy
 >
 > [Music]

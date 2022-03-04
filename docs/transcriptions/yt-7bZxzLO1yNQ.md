@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=7bZxzLO1yNQ
 
 ### Transcript
 
-> happen amphibians confirmed in the game fish are coming no no that's not what i said
+> happen amphibians confirmed in the game fish are coming no no that's not what I said

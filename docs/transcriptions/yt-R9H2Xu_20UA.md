@@ -20,4 +20,4 @@ This question was possibly duplicated with a more recent answer: [December 7th, 
 
 ### Transcript
 
-> yeah okay will it be a penultimate access release with the story or will the story only be available on the released version it'll what the hell's going on don't worry about it all right, the story will be released with the a scene change scene change apparently i already did okay, it will be released with one point
+> yeah okay will it be a penultimate access release with the story or will the story only be available on the released version it'll what the hell's going on don't worry about it all right, the story will be released with the a scene change scene change apparently I already did okay, it will be released with one point

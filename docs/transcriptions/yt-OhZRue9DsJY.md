@@ -20,4 +20,4 @@ https://www.youtube.com/watch?v=OhZRue9DsJY
 
 ### Transcript
 
-> what quality of life updates can we hope for the next update so we're actually gonna be teasing a little bit some of the quality of life features that's coming this week this thursday i believe
+> what quality of life updates can we hope for the next update so we're actually gonna be teasing a little bit some of the quality of life features that's coming this week this thursday I believe

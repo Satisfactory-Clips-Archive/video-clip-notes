@@ -16,8 +16,8 @@ https://www.youtube.com/watch?v=9E9oc-IQ45w
 
 ### Transcript
 
-> yeah it would be nice if you could like do the same thing whoa crazy, do the same thing you we do with walls so like if you have a corner walkway selected and you hold ctrl i guess we use that right now for like the the what's it called the angle adjustments
+> yeah it would be nice if you could like do the same thing whoa crazy, do the same thing you we do with walls so like if you have a corner walkway selected and you hold ctrl I guess we use that right now for like the the what's it called the angle adjustments
 >
 > [Music]
 >
->, and i know a lot of people use that a lot but it would be nice if you could just like yeah switch them because i also find it annoying that like very often do i use the wrong type of what you would call it walkway type
+>, and I know a lot of people use that a lot but it would be nice if you could just like yeah switch them because I also find it annoying that like very often do I use the wrong type of what you would call it walkway type

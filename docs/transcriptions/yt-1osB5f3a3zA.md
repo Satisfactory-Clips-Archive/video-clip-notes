@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=1osB5f3a3zA
 
 ### Transcript
 
-> i said one year and they said one year of early access at launch did we say that no no no no we didn't i don't think no we never said one year of early access we said one year exclusivity on epic it's a steam but we never said that it was going to be one like 1.0 was going to come out, actually we didn't even say one year till steam we just said one year of exclusivity, yeah
+> I said one year and they said one year of early access at launch did we say that no no no no we didn't I don't think no we never said one year of early access we said one year exclusivity on epic it's a steam but we never said that it was going to be one like 1.0 was going to come out, actually we didn't even say one year till steam we just said one year of exclusivity, yeah

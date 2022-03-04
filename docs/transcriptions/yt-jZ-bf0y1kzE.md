@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=jZ-bf0y1kzE
 
 ### Transcript
 
-> when box up was reworked the stated reason was because you had noticed a lot of player fall off when they hit aluminium wall do you have any data that suggests the problem is better is there a new wall that causes people so that's a great question but it's also one that i don't have an answer for i'm afraid stretchy alien, yeah i don't know like if snoot was here he might be able to weigh in a little bit more because i think he was i think he sort of knew a bit more about that stuff but yeah i don't really don't know unfortunately sorry dog
+> when box up was reworked the stated reason was because you had noticed a lot of player fall off when they hit aluminium wall do you have any data that suggests the problem is better is there a new wall that causes people so that's a great question but it's also one that I don't have an answer for I'm afraid stretchy alien, yeah I don't know like if snoot was here he might be able to weigh in a little bit more because I think he was I think he sort of knew a bit more about that stuff but yeah I don't really don't know unfortunately sorry dog

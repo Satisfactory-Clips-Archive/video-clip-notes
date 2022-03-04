@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [June 29th, 202
 
 ### Transcript
 
-> and a q and a when maybe we'll have announced soon soon soon you will never you never i'll never tell
+> and a q and a when maybe we'll have announced soon soon soon you will never you never I'll never tell

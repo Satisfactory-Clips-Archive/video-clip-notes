@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=QBG6YQp72cg
 
 ### Transcript
 
-> will our northern base be safe if it's under the map i think it'll still be working but i don't know if you'll be if it's yeah like i think i think everything will just keep running but you won't be able to get to it can we clarify do you mean under the map right now or true because if it's under the map right now you're probably good like if you if you know how to get down there i'm sure you'll fade away
+> will our northern base be safe if it's under the map I think it'll still be working but I don't know if you'll be if it's yeah like I think I think everything will just keep running but you won't be able to get to it can we clarify do you mean under the map right now or true because if it's under the map right now you're probably good like if you if you know how to get down there I'm sure you'll fade away

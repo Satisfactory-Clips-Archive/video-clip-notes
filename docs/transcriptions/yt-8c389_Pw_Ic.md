@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=8c389_Pw_Ic
 
 ### Transcript
 
-> so i have a question here why are the stairs and stuff not available earlier in the game the stairs from the the awesome shop i guess yeah, i mean we wanted to move most of the so before you actually unlocked a lot of foundations and stuff from i think during onboarding even and then we moved a lot of that stuff to the, to the awesome shop because we kind of wanted the awesome shop to be more for that like this unrestricted place where you could just buy whatever you want but you would still have to progress your factory for any kind of make decisions decisions on what is important for you what you really want to buy
+> so I have a question here why are the stairs and stuff not available earlier in the game the stairs from the the awesome shop I guess yeah, I mean we wanted to move most of the so before you actually unlocked a lot of foundations and stuff from I think during onboarding even and then we moved a lot of that stuff to the, to the awesome shop because we kind of wanted the awesome shop to be more for that like this unrestricted place where you could just buy whatever you want but you would still have to progress your factory for any kind of make decisions decisions on what is important for you what you really want to buy
 >
 > [Music]
 >

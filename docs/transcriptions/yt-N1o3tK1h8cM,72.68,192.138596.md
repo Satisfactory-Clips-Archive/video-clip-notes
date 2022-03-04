@@ -14,7 +14,7 @@ https://youtube.com/embed/N1o3tK1h8cM?autoplay=1&start=72&end=193
 
 ### Transcript
 
-> the future brings but who am i right well you're about to find out how about you roll that tape
+> the future brings but who am I right well you're about to find out how about you roll that tape
 >
 > [Music]
 >

@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [April 6th, 202
 
 ### Transcript
 
-> did i miss the part about it released early access, you did but i can say it right now we plan for releasing update 4 to early access on april 13th
+> did I miss the part about it released early access, you did but I can say it right now we plan for releasing update 4 to early access on april 13th

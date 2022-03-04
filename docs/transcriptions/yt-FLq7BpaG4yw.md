@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=FLq7BpaG4yw
 
 ### Transcript
 
-> so essentially an art director like keeps track of the the general art style of the game and makes it because and stuff like that i guess yeah it's it varies from company to company from team to team and from project to project but, this is essentially what i'm doing yeah cool
+> so essentially an art director like keeps track of the the general art style of the game and makes it because and stuff like that I guess yeah it's it varies from company to company from team to team and from project to project but, this is essentially what I'm doing yeah cool

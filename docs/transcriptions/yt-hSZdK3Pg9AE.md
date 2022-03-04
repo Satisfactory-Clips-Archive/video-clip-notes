@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [February 15th,
 
 ### Transcript
 
-> can we get a goat simulator easter egg in the game what if i told you there already is one is there one yeah there is isn't there probably pretty sure this one
+> can we get a goat simulator easter egg in the game what if I told you there already is one is there one yeah there is isn't there probably pretty sure this one

@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=O_cRHUcRZ3Q
 
 ### Transcript
 
-> is there a cheaty way to enable fixedness and april fools, maybe but but i'm not gonna tell you
+> is there a cheaty way to enable fixedness and april fools, maybe but but I'm not gonna tell you

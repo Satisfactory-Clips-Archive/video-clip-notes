@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=-nAX-cCDJRI
 
 ### Transcript
 
-> as peaceful mode basically no creatures that's what people say yeah basically if there's a peaceful mode i think that's how that would work, but we didn't have a peaceful mode, yet question mark question mark
+> as peaceful mode basically no creatures that's what people say yeah basically if there's a peaceful mode I think that's how that would work, but we didn't have a peaceful mode, yet question mark question mark

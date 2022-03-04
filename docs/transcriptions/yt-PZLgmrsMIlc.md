@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=PZLgmrsMIlc
 
 ### Transcript
 
-> all fuels for the chainsaw and jetpack win that would be dope, we've said for a long time that we probably do that i don't know when though
+> all fuels for the chainsaw and jetpack win that would be dope, we've said for a long time that we probably do that I don't know when though

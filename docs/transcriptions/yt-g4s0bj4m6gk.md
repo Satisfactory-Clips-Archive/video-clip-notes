@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=g4s0bj4m6gk
 
 ### Transcript
 
-> do we need to redo truck recording i don't think so no i don't think so oh existing ones yeah but what if they don't, aren't closed loops, maybe we do hmm maybe i can ask someone yeah just dm your dad on facebook yeah sorry talking to dad one second yeah yeah yeah one second
+> do we need to redo truck recording I don't think so no I don't think so oh existing ones yeah but what if they don't, aren't closed loops, maybe we do hmm maybe I can ask someone yeah just dm your dad on facebook yeah sorry talking to dad one second yeah yeah yeah one second

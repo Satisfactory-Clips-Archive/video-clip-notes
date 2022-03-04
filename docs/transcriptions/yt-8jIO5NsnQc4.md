@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=8jIO5NsnQc4
 
 ### Transcript
 
-> we're going to start teasing stuff at some point sorry i just start coming might as well have milk on toast if you're having it warm like why do you have milk on your toast if it's cold i don't get it moving on we gotta drop the milk
+> we're going to start teasing stuff at some point sorry I just start coming might as well have milk on toast if you're having it warm like why do you have milk on your toast if it's cold I don't get it moving on we gotta drop the milk

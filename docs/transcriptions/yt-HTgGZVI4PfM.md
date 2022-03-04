@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=HTgGZVI4PfM
 
 ### Transcript
 
-> jace can you get a heart monitor i'm, i'm i'm nervous about this stream honestly so heart rate would be at like constant 90 or something
+> jace can you get a heart monitor I'm, I'm I'm nervous about this stream honestly so heart rate would be at like constant 90 or something

@@ -20,4 +20,4 @@ This question was possibly duplicated with a more recent answer: [December 15th,
 
 ### Transcript
 
-> will you guys be hiding more stuff throughout the world for the story mode i believe so hannah hannah is mischievous she does stuff
+> will you guys be hiding more stuff throughout the world for the story mode I believe so hannah hannah is mischievous she does stuff

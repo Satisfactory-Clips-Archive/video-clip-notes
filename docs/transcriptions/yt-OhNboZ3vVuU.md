@@ -18,7 +18,7 @@ This question was possibly duplicated with a more recent answer: [July 20th, 202
 
 ### Transcript
 
-> is there a secret internal lore for all the giant spider skeletons i'm not quite sure what the inter like the giant spider skeletons you are referring to but there is there is lore to the world so to speak
+> is there a secret internal lore for all the giant spider skeletons I'm not quite sure what the inter like the giant spider skeletons you are referring to but there is there is lore to the world so to speak
 >
 > [Music]
 >

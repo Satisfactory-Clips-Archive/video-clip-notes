@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [October 19th, 
 
 ### Transcript
 
-> here now, people asking about science we're going to have science at some point you guys, just don't know at some point at some point it's in the backlog of things that actually are gonna make it in before 1.0 remember what producer burke said i can't see a 1.0 release of satisfactory without science in them so you know what happens
+> here now, people asking about science we're going to have science at some point you guys, just don't know at some point at some point it's in the backlog of things that actually are gonna make it in before 1.0 remember what producer burke said I can't see a 1.0 release of satisfactory without science in them so you know what happens

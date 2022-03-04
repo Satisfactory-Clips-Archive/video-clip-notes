@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [February 15th,
 
 ### Transcript
 
-> are you guys going to make a player elevator like a real elevator where you can choose your floor i'm going to do for resources required okay so that yeah ender gaming game marie tty, that's definitely a cool suggestion to put on the questions site i'm going to put this link in again hopefully i'm pretty sure that won't exist so make sure to upload that jazz yeah yeah or look for it exactly, it's it's pretty highly suggested i think yeah i think it's it's not even on the front page or like the top that makes sense
+> are you guys going to make a player elevator like a real elevator where you can choose your floor I'm going to do for resources required okay so that yeah ender gaming game marie tty, that's definitely a cool suggestion to put on the questions site I'm going to put this link in again hopefully I'm pretty sure that won't exist so make sure to upload that jazz yeah yeah or look for it exactly, it's it's pretty highly suggested I think yeah I think it's it's not even on the front page or like the top that makes sense

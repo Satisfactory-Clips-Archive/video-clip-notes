@@ -22,4 +22,4 @@ https://www.youtube.com/watch?v=MwG60ilcvf0
 
 ### Transcript
 
-> is it true that the more trees and plants cut down the sludgy game is, so this is something that i think snoop knows about i'm pretty sure i'm pretty sure it's it's not i can't remember i can't remember i i know why people were saying it but i can't remember if that's actually true or not if smith's still here and you feel like it just say yes or no but i can't remember every time we get that question answers it so i don't know the answer that's actually that's actually the truth
+> is it true that the more trees and plants cut down the sludgy game is, so this is something that I think snoop knows about I'm pretty sure I'm pretty sure it's it's not I can't remember I can't remember- I know why people were saying it but I can't remember if that's actually true or not if smith's still here and you feel like it just say yes or no but I can't remember every time we get that question answers it so I don't know the answer that's actually that's actually the truth

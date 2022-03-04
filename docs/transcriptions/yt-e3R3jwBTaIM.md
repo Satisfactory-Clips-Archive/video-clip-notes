@@ -20,4 +20,4 @@ https://www.youtube.com/watch?v=e3R3jwBTaIM
 
 ### Transcript
 
-> i thought that was pretty funny do you even satisfactory i do it's just i get very easily distracted and i forget things
+> I thought that was pretty funny do you even satisfactory I do it's just I get very easily distracted and I forget things

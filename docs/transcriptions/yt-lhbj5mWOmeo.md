@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=lhbj5mWOmeo
 
 ### Transcript
 
-> if the game's not dead where's the new content we're working on it we're working on it i don't i don't know a single other game studio that put out like, well i guess it's been some time but like if you if you compare it like no man's sky like how long are those updates like they're usually like a quarter quarterly ish right, i don't know
+> if the game's not dead where's the new content we're working on it we're working on it I don't I don't know a single other game studio that put out like, well I guess it's been some time but like if you if you compare it like no man's sky like how long are those updates like they're usually like a quarter quarterly ish right, I don't know

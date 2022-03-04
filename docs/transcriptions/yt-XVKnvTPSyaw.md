@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=XVKnvTPSyaw
 
 ### Transcript
 
-> you forgot midnight ghost country exactly yeah oh yeah yeah ghost hunt as well, published by coffee stain for sure doing super great and they haven't even released the game yeah yeah oh i found a hole they're getting a lot of interest
+> you forgot midnight ghost country exactly yeah oh yeah yeah ghost hunt as well, published by coffee stain for sure doing super great and they haven't even released the game yeah yeah oh I found a hole they're getting a lot of interest

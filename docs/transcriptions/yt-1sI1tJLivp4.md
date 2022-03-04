@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=1sI1tJLivp4
 
 ### Transcript
 
-> one thing that i also would like to clear up that i saw some questions about is that splitters will sort of right now splitters are sort of in between because splitters are kind of have soft clearance in the game in the current version they're not going to change that much but they will technically have hard clearance but this is something that we'll probably like sort of take your feedback on and see what we do about it in the future and yeah like stuff like, polls and stuff like that have heart clearness as well, true true true yes cool
+> one thing that I also would like to clear up that I saw some questions about is that splitters will sort of right now splitters are sort of in between because splitters are kind of have soft clearance in the game in the current version they're not going to change that much but they will technically have hard clearance but this is something that we'll probably like sort of take your feedback on and see what we do about it in the future and yeah like stuff like, polls and stuff like that have heart clearness as well, true true true yes cool

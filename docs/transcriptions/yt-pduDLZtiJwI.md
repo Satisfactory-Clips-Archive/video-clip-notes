@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [August 31st, 2
 
 ### Transcript
 
-> and since we've got pure aesthetic parts like storage shelves and, tv highlight i mean i think that there will be things in the future that'll just be purely aesthetic stuff, that makes total sense i think it's very clear even with just the very simple, foundations and things that we've added to the game it's very clear that people want to decorate their factories and make it their own, so it makes it it's a no-brainer that we would eventually, add some cosmetic items or whatever into the game i think that's gonna happen yep
+> and since we've got pure aesthetic parts like storage shelves and, tv highlight I mean I think that there will be things in the future that'll just be purely aesthetic stuff, that makes total sense I think it's very clear even with just the very simple, foundations and things that we've added to the game it's very clear that people want to decorate their factories and make it their own, so it makes it it's a no-brainer that we would eventually, add some cosmetic items or whatever into the game I think that's gonna happen yep

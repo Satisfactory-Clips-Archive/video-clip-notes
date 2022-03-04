@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [November 23rd,
 
 ### Transcript
 
-> our dedicated server is going to do that our dedicated server is going to be able to support more than four people for players so i think we're gonna have i don't know this is my guess i think we're gonna have the same like approach that we do with the rest of the game so like we officially support four players you know but you can always change the config file so you can have more than four players but i think four will be the official number there as well 128 no
+> our dedicated server is going to do that our dedicated server is going to be able to support more than four people for players so I think we're gonna have I don't know this is my guess I think we're gonna have the same like approach that we do with the rest of the game so like we officially support four players you know but you can always change the config file so you can have more than four players but I think four will be the official number there as well 128 no

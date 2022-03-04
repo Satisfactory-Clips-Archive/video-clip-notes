@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=lp-78BEgCW4
 
 ### Transcript
 
-> i have the tubes clipping through the ground going to be fixed no no no it doesn't need to be fixed if you don't want your hypo just clips to the ground don't build them so that they clip through the ground that's the play there dog just just build above the ground build around the mountains whatever if you don't care about clipping then just leave it as it is
+> I have the tubes clipping through the ground going to be fixed no no no it doesn't need to be fixed if you don't want your hypo just clips to the ground don't build them so that they clip through the ground that's the play there dog just just build above the ground build around the mountains whatever if you don't care about clipping then just leave it as it is

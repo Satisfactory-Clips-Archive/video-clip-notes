@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=saIw4cqM0nI
 
 ### Transcript
 
-> you can take a look at our our different videos you guys we have a youtube channel consider subscribing we hit 200k subs by the way and we did nothing for it we didn't even announce it we didn't do anything i remember like we were like we're about to hit 200k subs i'm like that's pretty cool and then we just sort of forgot about it and then it happened and i saw it i was like oh that's pretty cool and then i forgot about it and then someone messaged us and was like you got 200k subs like oh cool and then i forgot about it again hmm
+> you can take a look at our our different videos you guys we have a youtube channel consider subscribing we hit 200k subs by the way and we did nothing for it we didn't even announce it we didn't do anything I remember like we were like we're about to hit 200k subs I'm like that's pretty cool and then we just sort of forgot about it and then it happened and I saw it I was like oh that's pretty cool and then I forgot about it and then someone messaged us and was like you got 200k subs like oh cool and then I forgot about it again hmm

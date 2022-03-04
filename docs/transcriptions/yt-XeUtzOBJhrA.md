@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [February 22nd,
 
 ### Transcript
 
-> will ever be teleportation i don't know we've we've sort of prototyped it at one point but we haven't made a decision just because we prototype things in the game doesn't mean that they actually happen, which can be a bummer for like the people implementing the things like but like in comparison i've worked on a lot of games that were never released either so i mean sometimes it'd be like that
+> will ever be teleportation I don't know we've we've sort of prototyped it at one point but we haven't made a decision just because we prototype things in the game doesn't mean that they actually happen, which can be a bummer for like the people implementing the things like but like in comparison I've worked on a lot of games that were never released either so I mean sometimes it'd be like that

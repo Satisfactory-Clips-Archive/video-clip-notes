@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=3Li4IIooQmk
 
 ### Transcript
 
-> i can't believe it, what are you doing for dinner tonight smith, probably burgers i'm doing pizza hell yeah let's let's get that bread hell yeah put them all together make the worst meal ever pizza burger hell yeah pizza burger
+> I can't believe it, what are you doing for dinner tonight smith, probably burgers I'm doing pizza hell yeah let's let's get that bread hell yeah put them all together make the worst meal ever pizza burger hell yeah pizza burger

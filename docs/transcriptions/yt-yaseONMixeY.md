@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=yaseONMixeY
 
 ### Transcript
 
-> i heard from that, satisfactory dating app integration is in the works is it true ah that's right it's coming come coming soon you're alone on this planet and you look at your your tinder app or whatever it's just like looking for for people doesn't find anyone just gets like a lizard doggo and a spider that's like pretty much it and i mean i guess you just take what you can get at that point because you're kind of lonely on the on the planet swipe right indeed brian yes yes just alien profiles here
+> I heard from that, satisfactory dating app integration is in the works is it true ah that's right it's coming come coming soon you're alone on this planet and you look at your your tinder app or whatever it's just like looking for for people doesn't find anyone just gets like a lizard doggo and a spider that's like pretty much it and I mean I guess you just take what you can get at that point because you're kind of lonely on the on the planet swipe right indeed brian yes yes just alien profiles here

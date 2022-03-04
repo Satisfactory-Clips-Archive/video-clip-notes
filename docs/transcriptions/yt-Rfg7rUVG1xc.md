@@ -20,4 +20,4 @@ https://www.youtube.com/watch?v=Rfg7rUVG1xc
 
 ### Transcript
 
-> are there plans for more indigenous animals but friendly and hostile there is a big crab we'll be adding a big crab we're not done with the the animals yet i love that answer
+> are there plans for more indigenous animals but friendly and hostile there is a big crab we'll be adding a big crab we're not done with the the animals yet I love that answer

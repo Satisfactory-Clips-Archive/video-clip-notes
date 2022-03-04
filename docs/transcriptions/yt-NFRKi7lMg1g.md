@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=NFRKi7lMg1g
 
 ### Transcript
 
-> team thank you thank you everyone's been keeping up to date with what everyone's saying online and, they're yeah and it's it seems like it's one of our one of our like best and smoothest updates yet i think so far, it definitely went well
+> team thank you thank you everyone's been keeping up to date with what everyone's saying online and, they're yeah and it's it seems like it's one of our one of our like best and smoothest updates yet I think so far, it definitely went well

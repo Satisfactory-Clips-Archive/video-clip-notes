@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=AM7YsTblDn0
 
 ### Transcript
 
-> bomb yeah well there possibility to include mods in geforce now i don't think that's possible actually because of the way deforest now is set up because there's you don't have any control of how is installed there i think, so i don't i think the answer is gonna be no unfortunately well breaking hearts breaking hearts
+> bomb yeah well there possibility to include mods in geforce now I don't think that's possible actually because of the way deforest now is set up because there's you don't have any control of how is installed there I think, so I don't I think the answer is gonna be no unfortunately well breaking hearts breaking hearts

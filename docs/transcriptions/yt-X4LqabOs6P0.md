@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=X4LqabOs6P0
 
 ### Transcript
 
-> video on friday yeah there i think the video, maybe we'll see we'll see we'll see yeah there might be there's a few things, hinging on it but if you were here on this stream then you probably won't see anything yeah one thing we're thinking is of turning the stream into a video but we'll see if we can do that and whether we still feel that's a good idea later who knows sometimes you change your mind yes
+> video on friday yeah there I think the video, maybe we'll see we'll see we'll see yeah there might be there's a few things, hinging on it but if you were here on this stream then you probably won't see anything yeah one thing we're thinking is of turning the stream into a video but we'll see if we can do that and whether we still feel that's a good idea later who knows sometimes you change your mind yes

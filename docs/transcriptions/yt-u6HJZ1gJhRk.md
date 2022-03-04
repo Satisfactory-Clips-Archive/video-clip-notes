@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: March 16th, 202
 
 ### Transcript
 
-> yeah i know i did, when will mods work again my game won't crash yeah so mods aren't mods yeah that's that's not like we we don't have official mod support so we can't really control that unfortunately that's, unfortunately for our model community but hopefully soon, we're looking into helping them solve that
+> yeah I know I did, when will mods work again my game won't crash yeah so mods aren't mods yeah that's that's not like we we don't have official mod support so we can't really control that unfortunately that's, unfortunately for our model community but hopefully soon, we're looking into helping them solve that

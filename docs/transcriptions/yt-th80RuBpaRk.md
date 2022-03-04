@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=th80RuBpaRk
 
 ### Transcript
 
-> plans to open source the engine i doubt it i don't think so don't think that's happening
+> plans to open source the engine I doubt it I don't think so don't think that's happening

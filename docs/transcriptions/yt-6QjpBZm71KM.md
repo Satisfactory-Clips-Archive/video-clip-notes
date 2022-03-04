@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [June 15th, 202
 
 ### Transcript
 
-> any thoughts on early engine five looks really good yeah looks amazing and i and i love seeing what people are posting about
+> any thoughts on early engine five looks really good yeah looks amazing and I and I love seeing what people are posting about

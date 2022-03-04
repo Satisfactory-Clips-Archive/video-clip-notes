@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=b3EOvPWcd18
 
 ### Transcript
 
-> if the health crisis will your team continue to work remotely or do you have an office space to return to we have an office space, and yeah i i i don't know i i guess we would come back together i don't know we'll see when when that happens
+> if the health crisis will your team continue to work remotely or do you have an office space to return to we have an office space, and yeah- I don't know- I guess we would come back together I don't know we'll see when when that happens

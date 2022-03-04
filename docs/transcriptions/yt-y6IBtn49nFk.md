@@ -22,8 +22,8 @@ https://www.youtube.com/watch?v=y6IBtn49nFk
 
 > [Music]
 >
-> shout outs to sarah by the way miss mad hat please check out miss mad hat's twitch do you have a exclamation mark sarah i actually don't
+> shout outs to sarah by the way miss mad hat please check out miss mad hat's twitch do you have a exclamation mark sarah I actually don't
 >
 > [ __ ]
 >
-> i i i have to say this i think it's super funny because josh does this thing on his channel and it's like a meme where people just write type like exclamation marks sarah i do this in every chat now i like no matter what chat i just write exclamation point sarah like as for shits and giggles there was a lovely person you guys also she climbs walls like rock climbing oh really that's awesome oh
+> I- I have to say this I think it's super funny because josh does this thing on his channel and it's like a meme where people just write type like exclamation marks sarah I do this in every chat now I like no matter what chat I just write exclamation point sarah like as for shits and giggles there was a lovely person you guys also she climbs walls like rock climbing oh really that's awesome oh

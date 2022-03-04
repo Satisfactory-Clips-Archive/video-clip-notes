@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=bkv73fUWgD8
 
 ### Transcript
 
-> i don't really know if this has been us before but will there be a jace mob you can invite to your factory and then kick down the roof in the game that sounds like a terrible idea no one wants a jace mob and no one wants to kick jace because everyone everyone likes chase
+> I don't really know if this has been us before but will there be a jace mob you can invite to your factory and then kick down the roof in the game that sounds like a terrible idea no one wants a jace mob and no one wants to kick jace because everyone everyone likes chase

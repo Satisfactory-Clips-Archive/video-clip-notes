@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=TLsu0PSmPG0
 
 ### Transcript
 
-> do you use c plus plus 20 yet, no because we're kind of dependent on epic implementing it so we can't we it's not really up to us in that regard and i don't know what they're planning for that i think maybe under 105 will have c plus 20 support i think they're on 17. plus plus plus plus plus plus actually i don't know which version engine supports right now
+> do you use c plus plus 20 yet, no because we're kind of dependent on epic implementing it so we can't we it's not really up to us in that regard and I don't know what they're planning for that I think maybe under 105 will have c plus 20 support I think they're on 17. plus plus plus plus plus plus actually I don't know which version engine supports right now

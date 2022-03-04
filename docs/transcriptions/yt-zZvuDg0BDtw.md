@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=zZvuDg0BDtw
 
 ### Transcript
 
-> yeah any issues with the new engine not really i think the that engine launched there was a there was a couple issues here and there but like not actually that many and it seems like, we were able to take care of it so like the it really seems pretty stable right now the engine
+> yeah any issues with the new engine not really I think the that engine launched there was a there was a couple issues here and there but like not actually that many and it seems like, we were able to take care of it so like the it really seems pretty stable right now the engine

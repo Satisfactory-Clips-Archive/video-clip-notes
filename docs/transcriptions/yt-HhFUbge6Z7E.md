@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=HhFUbge6Z7E
 
 ### Transcript
 
-> i want to get the how many lines of code is satisfies oh a lot thousands yeah that's a lot at least four or five at least four or five that's our official
+> I want to get the how many lines of code is satisfies oh a lot thousands yeah that's a lot at least four or five at least four or five that's our official

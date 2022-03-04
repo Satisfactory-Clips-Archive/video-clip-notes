@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=qXBAzxHoAH0
 
 ### Transcript
 
-> are there any plans to make building stacked conveyor belts less tedious are they tedious at the moment if they're tedious let us know qaside stacked conveyor belts is it tedious i've never found it to be tedious it's always been fine to me
+> are there any plans to make building stacked conveyor belts less tedious are they tedious at the moment if they're tedious let us know qaside stacked conveyor belts is it tedious I've never found it to be tedious it's always been fine to me

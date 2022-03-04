@@ -88,4 +88,4 @@ https://www.youtube.com/watch?v=vefTYgnFi7k
 
 ### Transcript
 
-> yep yeah but yeah stencils super i most of these i didn't know about like when i'm scrolling through these this is like almost the first time i'm seeing this as well because we don't the icons was like the last thing we did so, i don't know what like when you're building and stuff and you don't know what what you can pick like it's impossible to know like what we have in the game so when i was making this shot i was like oh wow we have so many weird things the radiated lizard doggo
+> yep yeah but yeah stencils super I most of these I didn't know about like when I'm scrolling through these this is like almost the first time I'm seeing this as well because we don't the icons was like the last thing we did so, I don't know what like when you're building and stuff and you don't know what what you can pick like it's impossible to know like what we have in the game so when I was making this shot I was like oh wow we have so many weird things the radiated lizard doggo

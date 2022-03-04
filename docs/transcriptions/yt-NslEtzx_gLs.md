@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=NslEtzx_gLs
 
 ### Transcript
 
-> can you tease us someday with a little bit of, coming map improvements yes yes we can tease you someday about the improvements i promise you that someday we will here's another question can you tease us about updates for the game yes yes we can they are coming there there's gonna be updates to the game yeah there will be updates
+> can you tease us someday with a little bit of, coming map improvements yes yes we can tease you someday about the improvements I promise you that someday we will here's another question can you tease us about updates for the game yes yes we can they are coming there there's gonna be updates to the game yeah there will be updates

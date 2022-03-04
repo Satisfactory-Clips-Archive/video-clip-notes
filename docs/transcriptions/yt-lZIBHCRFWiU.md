@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=lZIBHCRFWiU
 
 ### Transcript
 
-> essentially bowling you can kind of bowl in the game right now i don't know who was it somebody made like a video where they had like the bowling sound that they just drove a train through something was it kibbits or was it someone else i can't remember it was a good video, so yes good times
+> essentially bowling you can kind of bowl in the game right now I don't know who was it somebody made like a video where they had like the bowling sound that they just drove a train through something was it kibbits or was it someone else I can't remember it was a good video, so yes good times

@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=NoqAEj4SREw
 
 ### Transcript
 
-> add plush doggo to the second seat actually good idea it's so you put your feet up i think that's the official answer honestly ah true
+> add plush doggo to the second seat actually good idea it's so you put your feet up I think that's the official answer honestly ah true

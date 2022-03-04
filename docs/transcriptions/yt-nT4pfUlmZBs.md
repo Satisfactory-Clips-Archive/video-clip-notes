@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [February 1st, 
 
 ### Transcript
 
-> will it be something like the resource sync but for fluids, maybe i think so, i don't quite know, but i think so
+> will it be something like the resource sync but for fluids, maybe I think so, I don't quite know, but I think so

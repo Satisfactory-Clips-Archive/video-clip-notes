@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=7beQurnHslA
 
 ### Transcript
 
-> is it better to rinse your kitchen sponge after every use or just toss it once a week that's a good question i mean why not rinse it after every use and toss it once problem solved dead i mean if you can divide by zero then you could do that you know maybe i'm living on a different plane of existence to others but oh enlightened one please tell us more about your wisdom
+> is it better to rinse your kitchen sponge after every use or just toss it once a week that's a good question I mean why not rinse it after every use and toss it once problem solved dead I mean if you can divide by zero then you could do that you know maybe I'm living on a different plane of existence to others but oh enlightened one please tell us more about your wisdom

@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=XBP-e-b-C00
 
 ### Transcript
 
-> can the new rails be painted i actually don't know to be honest so that's gonna be a that's been a good old i have no idea type answer here
+> can the new rails be painted I actually don't know to be honest so that's gonna be a that's been a good old I have no idea type answer here

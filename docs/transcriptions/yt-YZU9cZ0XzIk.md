@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=YZU9cZ0XzIk
 
 ### Transcript
 
-> they've been more softened in the future like you did with boxer in the past i'm not sure no
+> they've been more softened in the future like you did with boxer in the past I'm not sure no

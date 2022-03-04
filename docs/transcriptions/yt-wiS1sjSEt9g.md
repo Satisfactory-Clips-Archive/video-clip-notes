@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=wiS1sjSEt9g
 
 ### Transcript
 
-> any chance of a craft bench or workshop train cart i mean if there's a good reason for it i can't think of a good reason but if you have a good reason for it feel free to make the suggestion on our qa site questions.satisfactorygame.com
+> any chance of a craft bench or workshop train cart I mean if there's a good reason for it I can't think of a good reason but if you have a good reason for it feel free to make the suggestion on our qa site questions.satisfactorygame.com

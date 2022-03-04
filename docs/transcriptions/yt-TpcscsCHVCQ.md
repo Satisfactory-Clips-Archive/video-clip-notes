@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [February 8th, 
 
 ### Transcript
 
-> can you comment on farming i can comment on farming sure farming's something i guess not on our game but it sure is something it's great in farmington i use hbs because i'm a little bit better than everyone else favorite tool for farming i've never farmed anything in my entire life so i don't know the farming equipment's pretty good
+> can you comment on farming I can comment on farming sure farming's something I guess not on our game but it sure is something it's great in farmington I use hbs because I'm a little bit better than everyone else favorite tool for farming I've never farmed anything in my entire life so I don't know the farming equipment's pretty good

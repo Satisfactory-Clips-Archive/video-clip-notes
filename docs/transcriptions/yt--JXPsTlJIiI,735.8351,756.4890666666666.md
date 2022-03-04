@@ -18,4 +18,4 @@ This question was possibly replaced with a more recent answer: [December 11th, 2
 
 ### Transcript
 
-> reason we cannot package sulfuric acid well this question was asked before last week's video came out about the parts if you had seen that video from last week you will have noticed that packaged sulfuric acid and package alumina solution will be coming in, update four and if you haven't seen that parts video i recommend you check it out card up here the js will there be lights
+> reason we cannot package sulfuric acid well this question was asked before last week's video came out about the parts if you had seen that video from last week you will have noticed that packaged sulfuric acid and package alumina solution will be coming in, update four and if you haven't seen that parts video I recommend you check it out card up here the js will there be lights

@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=0DNgoTetdz0
 
 ### Transcript
 
-> if i link my steam account with the epic launch account do i need to keep epic launcher running in the background no you don't if you're running it on steam no
+> if I link my steam account with the epic launch account do I need to keep epic launcher running in the background no you don't if you're running it on steam no

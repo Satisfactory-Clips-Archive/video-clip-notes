@@ -14,4 +14,4 @@ https://youtube.com/embed/1dUNmBBbExs?autoplay=1&start=2489&end=2528
 
 ### Transcript
 
-> cpu says changes everything into a good game i mean it kind of does honestly like it makes, some of the the annoying builds does it doesn't skip a beat there no i mean i mean all these mods do like they're like even small mods do change like significantly especially one when you cheat where like you don't have to like pay anything, yeah that's pretty good, yeah exactly like that's that's you, satisfactory isn't [ __ ] competitive or anything like that you know what i mean
+> cpu says changes everything into a good game I mean it kind of does honestly like it makes, some of the the annoying builds does it doesn't skip a beat there no I mean I mean all these mods do like they're like even small mods do change like significantly especially one when you cheat where like you don't have to like pay anything, yeah that's pretty good, yeah exactly like that's that's you, satisfactory isn't [ __ ] competitive or anything like that you know what I mean

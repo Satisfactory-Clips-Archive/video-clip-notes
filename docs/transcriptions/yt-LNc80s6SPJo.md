@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=LNc80s6SPJo
 
 ### Transcript
 
-> back when panna was demoing light so both of you are just trying your hardest not to say anything yeah pretty much yeah pretty much what he was saying that i was i was in my brain i was like do i like poke at this a bit more is it gonna be too obvious i think i said something about the lights i was like oh you have lights now or something like that i can't remember, yeah
+> back when panna was demoing light so both of you are just trying your hardest not to say anything yeah pretty much yeah pretty much what he was saying that I was I was in my brain I was like do I like poke at this a bit more is it gonna be too obvious I think I said something about the lights I was like oh you have lights now or something like that I can't remember, yeah

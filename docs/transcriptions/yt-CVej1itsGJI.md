@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=CVej1itsGJI
 
 ### Transcript
 
-> currently i'm a fan of all coffee stain publishing games yeah they're doing a great job they've got a great eye for good, games and good studios you know, who would have thought not me not me yeah
+> currently I'm a fan of all coffee stain publishing games yeah they're doing a great job they've got a great eye for good, games and good studios you know, who would have thought not me not me yeah

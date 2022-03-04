@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=SXI5FmhKutQ
 
 ### Transcript
 
-> oh your golf check off huh check off oh we're 14 100 1500 yeah well that's only 100 to go right yeah only 100 if you guys can get that last 100 yeah before next week we are finally 100 away yeah exactly god this community [ __ ] knocks it out of the park you guys oh hell yeah you guys blow my mind seriously almost without how good you are at uploading stuff i remember when the goal was 1100. sorry fletch look i don't need to gaslight you or anything but like that's just not how it was yeah no it's been 1500 since day one i'm really sorry yeah
+> oh your golf check off huh check off oh we're 14 100 1500 yeah well that's only 100 to go right yeah only 100 if you guys can get that last 100 yeah before next week we are finally 100 away yeah exactly god this community [ __ ] knocks it out of the park you guys oh hell yeah you guys blow my mind seriously almost without how good you are at uploading stuff I remember when the goal was 1100. sorry fletch look I don't need to gaslight you or anything but like that's just not how it was yeah no it's been 1500 since day one I'm really sorry yeah
 >
 > [Laughter]
 >

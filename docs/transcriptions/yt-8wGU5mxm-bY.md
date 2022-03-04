@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=8wGU5mxm-bY
 
 ### Transcript
 
-> model of the explorer seems almost incomplete can we expect some kind of changes that's rude that's a rude i think the explorer is perfect and beautiful the way it is i actually have no idea
+> model of the explorer seems almost incomplete can we expect some kind of changes that's rude that's a rude I think the explorer is perfect and beautiful the way it is I actually have no idea

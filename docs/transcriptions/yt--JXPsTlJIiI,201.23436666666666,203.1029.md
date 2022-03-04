@@ -14,4 +14,4 @@ https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=201&end=204
 
 ### Transcript
 
-> how are you i'm good are there going to
+> how are you I'm good are there going to

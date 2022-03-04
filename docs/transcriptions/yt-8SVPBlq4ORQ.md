@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: April 20th, 202
 
 ### Transcript
 
-> let's see regain health that's it i like that idea actually it's a pretty pretty good idea
+> let's see regain health that's it I like that idea actually it's a pretty pretty good idea
