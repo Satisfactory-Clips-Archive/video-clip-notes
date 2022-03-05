@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > [Power Management](../../../../topics/features/power-management.md) > [Nuclear Energy](../../../../topics/features/power-management/nuclear-energy.md) > Nuclear Refinement
 
+## March 1st, 2022 Livestream
+* [Q&A: Thoughts about making Nuclear Energy more complex?](../../../../transcriptions/yt-a5bp63jJ6ic.md) [https://www.youtube.com/watch?v=a5bp63jJ6ic](https://www.youtube.com/watch?v=a5bp63jJ6ic)
+
 ## November 30th, 2021 Livestream
 * [Community FYI: Tim leaked stuff & left the company the same day](../../../../transcriptions/yt-fwcug1RNSEk.md) [https://www.youtube.com/watch?v=fwcug1RNSEk](https://www.youtube.com/watch?v=fwcug1RNSEk)
 

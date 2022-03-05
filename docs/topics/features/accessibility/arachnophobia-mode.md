@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Accessibility](../../../topics/features/accessibility.md) > Arachnophobia Mode
 
+## March 1st, 2022 Livestream
+* [Q&A: Make game less scawwy?](../../../transcriptions/yt-tOXcd7rJGag.md) [https://www.youtube.com/watch?v=tOXcd7rJGag](https://www.youtube.com/watch?v=tOXcd7rJGag)
+
 ## February 11th, 2022 Hot Potato Bonus Stream
 * [Q&A: What if you're both Arachnophobic and Ailurophobic?](../../../transcriptions/yt-he-m1c2zsTI.md) [https://www.youtube.com/watch?v=he-m1c2zsTI](https://www.youtube.com/watch?v=he-m1c2zsTI)
 * [Community FYI: I've never seen a cat‽](../../../transcriptions/yt-QMne-wqTs08.md) [https://www.youtube.com/watch?v=QMne-wqTs08](https://www.youtube.com/watch?v=QMne-wqTs08)

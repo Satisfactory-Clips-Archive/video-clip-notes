@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Resources](../../../topics/environment/resources.md) > Somersloop
 
+## March 1st, 2022 Livestream
+* [Q&A: What's with the artefacts around the World?](../../../transcriptions/yt-A5JsCEPWRu4.md) [https://www.youtube.com/watch?v=A5JsCEPWRu4](https://www.youtube.com/watch?v=A5JsCEPWRu4)
+
 ## February 22nd, 2022 Livestream
 * [Q&A: How can you have so many Story items in the game without having a solid plan about the story?](../../../transcriptions/yt-FXbl9z0HuG0.md) [https://www.youtube.com/watch?v=FXbl9z0HuG0](https://www.youtube.com/watch?v=FXbl9z0HuG0)
 

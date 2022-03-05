@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Trolling
 
+## March 4th, 2022 Video
+* [Snutt & Jace Talk: Hot Potato RiQRoll](../transcriptions/yt-AbggpyCo1kc,136.00253333333333,160.69386666666668.md) [https://youtube.com/embed/AbggpyCo1kc?autoplay=1&start=136&end=161](https://youtube.com/embed/AbggpyCo1kc?autoplay=1&start=136&end=161)
+
 ## February 22nd, 2022 Livestream
 * [Snutt & Jace Talk: Two Two Two Two Two Trolling](../transcriptions/yt-OyY9ck4pIzo.md) [https://www.youtube.com/watch?v=OyY9ck4pIzo](https://www.youtube.com/watch?v=OyY9ck4pIzo)
 * [Community FYI: Spock is Star Trek, though](../transcriptions/yt-Zvj3uNH1a-M.md) [https://www.youtube.com/watch?v=Zvj3uNH1a-M](https://www.youtube.com/watch?v=Zvj3uNH1a-M)

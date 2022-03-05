@@ -18,6 +18,12 @@ date: Last Modified
 * [Teasers & Trailers](../topics/satisfactory-updates/teasers-and-trailers.md)
 * [World Update](../topics/satisfactory-updates/world-update.md)
 
+## March 1st, 2022 Livestream
+* [Q&A: Will you make a "What's next for Satisfactory" video?](../transcriptions/yt-F2Ux0lu2y2o.md) [https://www.youtube.com/watch?v=F2Ux0lu2y2o](https://www.youtube.com/watch?v=F2Ux0lu2y2o)
+* [Q&A: How many big Updates are you away from 1.0?](../transcriptions/yt-jdUPNumTkUE.md) [https://www.youtube.com/watch?v=jdUPNumTkUE](https://www.youtube.com/watch?v=jdUPNumTkUE)
+* [Q&A: Any plans to improve general performance?](../transcriptions/yt-zeyd67hqrB8.md) [https://www.youtube.com/watch?v=zeyd67hqrB8](https://www.youtube.com/watch?v=zeyd67hqrB8)
+* [Q&A: Why is the Equipment system such a low-priority Feature?](../transcriptions/yt-lTt-3gSfUtM.md) [https://www.youtube.com/watch?v=lTt-3gSfUtM](https://www.youtube.com/watch?v=lTt-3gSfUtM)
+
 ## February 22nd, 2022 Livestream
 * [Q&A: Any summary about Updates?](../transcriptions/yt-OCWfwBCWXG0.md) [https://www.youtube.com/watch?v=OCWfwBCWXG0](https://www.youtube.com/watch?v=OCWfwBCWXG0)
 

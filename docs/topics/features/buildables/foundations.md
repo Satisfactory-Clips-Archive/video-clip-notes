@@ -7,6 +7,9 @@ date: Last Modified
 * [Cheatcrete](../../../topics/features/buildables/foundations/cheatcrete.md)
 * [Foundation Stencils](../../../topics/features/buildables/foundations/stencils.md)
 
+## March 4th, 2022 Video
+* [Snutt & Jace Talk: Welcome to leg day walkway](../../../transcriptions/yt-AbggpyCo1kc,393.9268666666667,422.503885.md) [https://youtube.com/embed/AbggpyCo1kc?autoplay=1&start=393&end=423](https://youtube.com/embed/AbggpyCo1kc?autoplay=1&start=393&end=423)
+
 ## February 8th, 2022 Livestream
 * [Q&A: Can we get materials for half-pipes?](../../../transcriptions/yt-s1Tz9QOFyZc.md) [https://www.youtube.com/watch?v=s1Tz9QOFyZc](https://www.youtube.com/watch?v=s1Tz9QOFyZc)
 

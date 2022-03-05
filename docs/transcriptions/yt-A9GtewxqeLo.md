@@ -10,7 +10,7 @@ topics:
 # [April 27th, 2021 Livestream](../2021-04-27.md)
 ## Q&A: Is there combat & Base Defense required in the game?
 https://www.youtube.com/watch?v=A9GtewxqeLo
-This question was possibly duplicated with a more recent answer: [September 21st, 2021 Livestream Q&A: Will there be a thing like monsters attacking us in waves like in Factorio?](./yt-LP3IgdK7OwA.md) [https://www.youtube.com/watch?v=LP3IgdK7OwA](https://www.youtube.com/watch?v=LP3IgdK7OwA)
+This question was possibly duplicated with a more recent answer: [March 1st, 2022 Livestream Q&A: When Base Defense?](./yt-jydtfpmdc5Q.md) [https://www.youtube.com/watch?v=jydtfpmdc5Q](https://www.youtube.com/watch?v=jydtfpmdc5Q)
 
 
 ### Topics

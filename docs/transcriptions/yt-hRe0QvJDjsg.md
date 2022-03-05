@@ -10,7 +10,7 @@ topics:
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: Do you have any clue on what the alien artefacts do?
 https://www.youtube.com/watch?v=hRe0QvJDjsg
-This question was possibly duplicated with a more recent answer: [November 9th, 2021 Livestream Q&A: Can you tell us the purpose of the Mercer Sphere and Somersloop?](./yt-nZsSk1ftKZk.md) [https://www.youtube.com/watch?v=nZsSk1ftKZk](https://www.youtube.com/watch?v=nZsSk1ftKZk)
+This question was possibly duplicated with a more recent answer: [March 1st, 2022 Livestream Q&A: What's with the artefacts around the World?](./yt-A5JsCEPWRu4.md) [https://www.youtube.com/watch?v=A5JsCEPWRu4](https://www.youtube.com/watch?v=A5JsCEPWRu4)
 
 
 ### Topics

@@ -24,6 +24,9 @@ date: Last Modified
 * [Vilsol](../topics/community/vilsol.md)
 * [Wiki](../topics/community/wiki.md)
 
+## March 4th, 2022 Video
+* [Outro](../transcriptions/yt-AbggpyCo1kc,867.6000666666666.md) [https://youtube.com/embed/AbggpyCo1kc?autoplay=1&start=867](https://youtube.com/embed/AbggpyCo1kc?autoplay=1&start=867)
+
 ## February 22nd, 2022 Livestream
 * [State of Dave](../transcriptions/yt-p1jNaTm6j2Q.md) [https://www.youtube.com/watch?v=p1jNaTm6j2Q](https://www.youtube.com/watch?v=p1jNaTm6j2Q)
 

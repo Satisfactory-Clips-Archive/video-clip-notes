@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Biomes](../../../topics/environment/biomes.md) > Spire Coast
 
+## March 1st, 2022 Livestream
+* [Q&A: So I built my palace in the Spire Coast - how effed am I?](../../../transcriptions/yt-6DXkRHwr4LI.md) [https://www.youtube.com/watch?v=6DXkRHwr4LI](https://www.youtube.com/watch?v=6DXkRHwr4LI)
+* [Community FYI: I have so much stuff in Spire Coast in I am in denial about these warnings](../../../transcriptions/yt-BhUdu7bn260.md) [https://www.youtube.com/watch?v=BhUdu7bn260](https://www.youtube.com/watch?v=BhUdu7bn260)
+
 ## February 22nd, 2022 Livestream
 * [Q&A: Will our northern base safe if it's under the map?](../../../transcriptions/yt-QBG6YQp72cg.md) [https://www.youtube.com/watch?v=QBG6YQp72cg](https://www.youtube.com/watch?v=QBG6YQp72cg)
 

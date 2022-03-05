@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > State of Dev
 
+## March 1st, 2022 Livestream
+* [State of Dave](../../transcriptions/yt-YDoLYuMXXsk.md) [https://www.youtube.com/watch?v=YDoLYuMXXsk](https://www.youtube.com/watch?v=YDoLYuMXXsk)
+* [Snutt & Robo Jace Talk: State of Dave recap](../../transcriptions/yt-YsNxIhayl9A.md) [https://www.youtube.com/watch?v=YsNxIhayl9A](https://www.youtube.com/watch?v=YsNxIhayl9A)
+
 ## February 22nd, 2022 Livestream
 * [State of Dave](../../transcriptions/yt-p1jNaTm6j2Q.md) [https://www.youtube.com/watch?v=p1jNaTm6j2Q](https://www.youtube.com/watch?v=p1jNaTm6j2Q)
 * [Q&A: Any summary about Updates?](../../transcriptions/yt-OCWfwBCWXG0.md) [https://www.youtube.com/watch?v=OCWfwBCWXG0](https://www.youtube.com/watch?v=OCWfwBCWXG0)

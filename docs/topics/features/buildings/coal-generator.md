@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > Coal Generator
 
+## March 4th, 2022 Video
+* [Snutt & Jace Talk: Jace's Spiral Coal Plant](../../../transcriptions/yt-AbggpyCo1kc,379.6793,393.8935.md) [https://youtube.com/embed/AbggpyCo1kc?autoplay=1&start=379&end=394](https://youtube.com/embed/AbggpyCo1kc?autoplay=1&start=379&end=394)
+
 ## February 11th, 2022 Hot Potato Bonus Stream
 * [Q&A: Can you un-automate Coal?](../../../transcriptions/yt-QfRPustlQ24.md) [https://www.youtube.com/watch?v=QfRPustlQ24](https://www.youtube.com/watch?v=QfRPustlQ24)
 

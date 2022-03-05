@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Unplanned Features](../../../topics/features/unplanned-features.md) > Base Defense
 
+## March 1st, 2022 Livestream
+* [Q&A: When Base Defense?](../../../transcriptions/yt-jydtfpmdc5Q.md) [https://www.youtube.com/watch?v=jydtfpmdc5Q](https://www.youtube.com/watch?v=jydtfpmdc5Q)
+
 ## February 4th, 2022 Video
 * [Jace Talk: No Base Defence](../../../transcriptions/yt-J4LlorYbVV0,149.41593333333333,264.33073333333334.md) [https://youtube.com/embed/J4LlorYbVV0?autoplay=1&start=149&end=265](https://youtube.com/embed/J4LlorYbVV0?autoplay=1&start=149&end=265)
 

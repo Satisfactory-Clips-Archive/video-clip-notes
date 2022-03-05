@@ -10,6 +10,8 @@ topics:
 # [October 27th, 2020 Livestream](../2020-10-27.md)
 ## Q&A: Will we see performance improvements?
 https://www.youtube.com/watch?v=TbPMkoLwW4U
+This question was possibly duplicated with a more recent answer: [March 1st, 2022 Livestream Q&A: Any plans to improve general performance?](./yt-zeyd67hqrB8.md) [https://www.youtube.com/watch?v=zeyd67hqrB8](https://www.youtube.com/watch?v=zeyd67hqrB8)
+
 
 ### Topics
 * [Features > Multiplayer](../topics/features/multiplayer.md)

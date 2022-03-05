@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > Physics
 
+## March 1st, 2022 Livestream
+* [Q&A: Why don't Trains kill people or rag doll?](../../transcriptions/yt-IGwr-vvp3Nk.md) [https://www.youtube.com/watch?v=IGwr-vvp3Nk](https://www.youtube.com/watch?v=IGwr-vvp3Nk)
+
 ## October 5th, 2021 Livestream
 * [Snutt & Jace Talk: Train Signals & Collisions Teaser (Part 6)](../../transcriptions/yt-13ofNtLHhr8.md) [https://www.youtube.com/watch?v=13ofNtLHhr8](https://www.youtube.com/watch?v=13ofNtLHhr8)
 

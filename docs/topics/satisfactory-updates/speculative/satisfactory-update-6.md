@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Speculative > Satisfactory Update 6
 
+## March 1st, 2022 Livestream
+* [Q&A: Will you make a "What's next for Satisfactory" video?](../../../transcriptions/yt-F2Ux0lu2y2o.md) [https://www.youtube.com/watch?v=F2Ux0lu2y2o](https://www.youtube.com/watch?v=F2Ux0lu2y2o)
+* [Q&A: How many big Updates are you away from 1.0?](../../../transcriptions/yt-jdUPNumTkUE.md) [https://www.youtube.com/watch?v=jdUPNumTkUE](https://www.youtube.com/watch?v=jdUPNumTkUE)
+* [Q&A: Can Jace give the date on April for Update 6?](../../../transcriptions/yt-po9Ba6ZL_UM.md) [https://www.youtube.com/watch?v=po9Ba6ZL_UM](https://www.youtube.com/watch?v=po9Ba6ZL_UM)
+
 ## February 22nd, 2022 Livestream
 * [State of Dave](../../../transcriptions/yt-p1jNaTm6j2Q.md) [https://www.youtube.com/watch?v=p1jNaTm6j2Q](https://www.youtube.com/watch?v=p1jNaTm6j2Q)
 * [Q&A: More architecture coming in Update 6?](../../../transcriptions/yt-E_xludNxf08.md) [https://www.youtube.com/watch?v=E_xludNxf08](https://www.youtube.com/watch?v=E_xludNxf08)

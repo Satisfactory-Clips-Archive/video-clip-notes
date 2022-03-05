@@ -8,11 +8,7 @@ topics:
 # [April 6th, 2021 Livestream](../2021-04-06.md)
 ## Q&A: Have you considered logic networks?
 https://www.youtube.com/watch?v=we87JUG_GTw
-<details>
-<summary>This question may have been asked previously at least 1 other time, as recently as September 2020.</summary>
-
-* [September 1st, 2020 Livestream Q&A: Any chance of a Logic System in the game?](./yt-xojr_FfvDwk.md) [https://www.youtube.com/watch?v=xojr_FfvDwk](https://www.youtube.com/watch?v=xojr_FfvDwk)
-</details>
+This question was possibly duplicated with a more recent answer: [March 1st, 2022 Livestream Q&A: Your thoughts on logic implementation in the game?](./yt-pmI1YjZcywA.md) [https://www.youtube.com/watch?v=pmI1YjZcywA](https://www.youtube.com/watch?v=pmI1YjZcywA)
 
 
 ### Topics

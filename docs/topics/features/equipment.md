@@ -20,6 +20,9 @@ date: Last Modified
 * [Xeno-Zapper](../../topics/features/equipment/xeno-zapper.md)
 * [Zip Lines](../../topics/features/equipment/zip-lines.md)
 
+## March 1st, 2022 Livestream
+* [Q&A: Why is the Equipment system such a low-priority Feature?](../../transcriptions/yt-lTt-3gSfUtM.md) [https://www.youtube.com/watch?v=lTt-3gSfUtM](https://www.youtube.com/watch?v=lTt-3gSfUtM)
+
 ## February 1st, 2022 Livestream
 * [Q&A: Flippers for fast travel through water?](../../transcriptions/yt-wwpW6KvDzcg.md) [https://www.youtube.com/watch?v=wwpW6KvDzcg](https://www.youtube.com/watch?v=wwpW6KvDzcg)
 

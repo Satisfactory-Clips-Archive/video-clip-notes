@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Crafting](../../../topics/features/crafting.md) > Recipes
 * [Alternate Recipes](../../../topics/features/crafting/recipes/alternate-recipes.md)
 
+## March 1st, 2022 Livestream
+* [Q&A: Feature where you can see what Recipe something is used in?](../../../transcriptions/yt-7YSWmdpt3I0.md) [https://www.youtube.com/watch?v=7YSWmdpt3I0](https://www.youtube.com/watch?v=7YSWmdpt3I0)
+
 ## February 22nd, 2022 Livestream
 * [Q&A: What do you think of a Hard Mode with production per minute requirements?](../../../transcriptions/yt-NyWrFTRCXJA.md) [https://www.youtube.com/watch?v=NyWrFTRCXJA](https://www.youtube.com/watch?v=NyWrFTRCXJA)
 

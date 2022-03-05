@@ -9,7 +9,7 @@ topics:
 # [April 20th, 2021 Livestream](../2021-04-20.md)
 ## Q&A: What's with the bug with the Gas Mask with the Truck?
 https://www.youtube.com/watch?v=GDthMsvmWaw
-This question was possibly duplicated with a more recent answer: [September 21st, 2021 Livestream Q&A: Gas Mask in Vehicles?](./yt-_gjOkEU1pwI.md) [https://www.youtube.com/watch?v=_gjOkEU1pwI](https://www.youtube.com/watch?v=_gjOkEU1pwI)
+This question was possibly duplicated with a more recent answer: [March 1st, 2022 Livestream Q&A: Can we keep the Gas Mask equipped while we're inside a Vehicle?](./yt-a9GuVZ_HAMU.md) [https://www.youtube.com/watch?v=a9GuVZ_HAMU](https://www.youtube.com/watch?v=a9GuVZ_HAMU)
 
 
 ### Topics

@@ -8,7 +8,7 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Can we get Weather to change?
 https://www.youtube.com/watch?v=iq-K9FY-RT8
-This question was possibly duplicated with a more recent answer: [February 22nd, 2022 Livestream Q&A: Weather effects?](./yt-YPpaGRqhc7k.md) [https://www.youtube.com/watch?v=YPpaGRqhc7k](https://www.youtube.com/watch?v=YPpaGRqhc7k)
+This question was possibly duplicated with a more recent answer: [March 1st, 2022 Livestream Q&A: Any plans for extreme weather that affect productivity?](./yt-6O2mdDMAFes.md) [https://www.youtube.com/watch?v=6O2mdDMAFes](https://www.youtube.com/watch?v=6O2mdDMAFes)
 
 
 ### Topics

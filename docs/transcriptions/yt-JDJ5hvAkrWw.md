@@ -9,14 +9,7 @@ topics:
 # [February 16th, 2021 Livestream](../2021-02-16.md)
 ## Q&A: Does obscuring belts actually help with performance?
 https://www.youtube.com/watch?v=JDJ5hvAkrWw
-<details>
-<summary>This question may have been asked previously at least 4 other times, as recently as November 2020 and as early as September 2020.</summary>
-
-* [November 3rd, 2020 Livestream Q&A: What about having covered Conveyors to help performance?](./yt-dbJGfDr5SLk.md) [https://www.youtube.com/watch?v=dbJGfDr5SLk](https://www.youtube.com/watch?v=dbJGfDr5SLk)
-* [October 27th, 2020 Livestream Q&A: Can you make it so we can use closed Conveyor Belts to help with Rendering?](./yt-6KdakqhC8Q4.md) [https://www.youtube.com/watch?v=6KdakqhC8Q4](https://www.youtube.com/watch?v=6KdakqhC8Q4)
-* [September 29th, 2020 Livestream Q&A: Enclosed Belts](./yt-oLpv9B5-OjE.md) [https://www.youtube.com/watch?v=oLpv9B5-OjE](https://www.youtube.com/watch?v=oLpv9B5-OjE)
-* [September 22nd, 2020 Livestream Q&A: Would implementing covered belts reduce the number of objects in the world?](./yt-2R4MfLt_oMw.md) [https://www.youtube.com/watch?v=2R4MfLt_oMw](https://www.youtube.com/watch?v=2R4MfLt_oMw)
-</details>
+This question was possibly duplicated with a more recent answer: [March 1st, 2022 Livestream Q&A: Why don't you design as a little domes on the belts that shows much less objects?](./yt-J8uJFq6qOvw.md) [https://www.youtube.com/watch?v=J8uJFq6qOvw](https://www.youtube.com/watch?v=J8uJFq6qOvw)
 
 
 ### Topics

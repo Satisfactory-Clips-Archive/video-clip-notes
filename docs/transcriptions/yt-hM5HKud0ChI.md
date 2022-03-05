@@ -10,7 +10,7 @@ topics:
 # [October 5th, 2021 Livestream](../2021-10-05.md)
 ## Q&A: Done any further look into the Mk.3 Miner and the second output?
 https://www.youtube.com/watch?v=hM5HKud0ChI
-This question was possibly duplicated with a more recent answer: [October 19th, 2021 Livestream Q&A: Any Update on Overclocked Mk.3 Miners?](./yt-KbLwa5ZKlag.md) [https://www.youtube.com/watch?v=KbLwa5ZKlag](https://www.youtube.com/watch?v=KbLwa5ZKlag)
+This question was possibly duplicated with a more recent answer: [March 1st, 2022 Livestream Q&A: Can we get something to allow us to make full use of Mk.3 Miner?](./yt-0oveQsKkGDQ.md) [https://www.youtube.com/watch?v=0oveQsKkGDQ](https://www.youtube.com/watch?v=0oveQsKkGDQ)
 
 
 ### Topics

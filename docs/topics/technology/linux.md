@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > Linux
 
+## March 1st, 2022 Livestream
+* [Q&A: Steam Deck release?](../../transcriptions/yt-8xcEe2G_fio.md) [https://www.youtube.com/watch?v=8xcEe2G_fio](https://www.youtube.com/watch?v=8xcEe2G_fio)
+
 ## February 22nd, 2022 Livestream
 * [Q&A: Steam Deck support?](../../transcriptions/yt-j7fes9QN6ds.md) [https://www.youtube.com/watch?v=j7fes9QN6ds](https://www.youtube.com/watch?v=j7fes9QN6ds)
 

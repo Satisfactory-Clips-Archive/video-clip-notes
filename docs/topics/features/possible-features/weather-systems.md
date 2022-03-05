@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > Possible Features > Weather Systems
 
+## March 1st, 2022 Livestream
+* [Q&A: Any plans for extreme weather that affect productivity?](../../../transcriptions/yt-6O2mdDMAFes.md) [https://www.youtube.com/watch?v=6O2mdDMAFes](https://www.youtube.com/watch?v=6O2mdDMAFes)
+
 ## February 22nd, 2022 Livestream
 * [Q&A: Weather effects?](../../../transcriptions/yt-YPpaGRqhc7k.md) [https://www.youtube.com/watch?v=YPpaGRqhc7k](https://www.youtube.com/watch?v=YPpaGRqhc7k)
 

@@ -8,7 +8,7 @@ topics:
 # [February 20th, 2019 Livestream](../2019-02-20.md)
 ## Q&A: How many people are there in the studio?
 https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=808&end=838
-This question was possibly duplicated with a more recent answer: [February 8th, 2022 Livestream Q&A: How many people work at your studio?](./yt-zZHLKZIyLRI.md) [https://www.youtube.com/watch?v=zZHLKZIyLRI](https://www.youtube.com/watch?v=zZHLKZIyLRI)
+This question was possibly duplicated with a more recent answer: [March 1st, 2022 Livestream Q&A: How many people are working on the game?](./yt-55pQn6DUgpM.md) [https://www.youtube.com/watch?v=55pQn6DUgpM](https://www.youtube.com/watch?v=55pQn6DUgpM)
 
 
 ### Topics

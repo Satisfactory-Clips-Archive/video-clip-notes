@@ -8,7 +8,7 @@ topics:
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Q&A: Will the Map become bigger?
 https://www.youtube.com/watch?v=1pzu9fbySq0
-This question was possibly duplicated with a more recent answer: July 6th, 2021 Livestream Q&A: Are you going to expand the playable area on the Map? [https://www.youtube.com/watch?v=gy1FELPzm2w](https://www.youtube.com/watch?v=gy1FELPzm2w)
+This question was possibly duplicated with a more recent answer: [March 1st, 2022 Livestream Q&A: Any plans to increase the Satisfactory Map size?](./yt-jJWJNuE_CXQ.md) [https://www.youtube.com/watch?v=jJWJNuE_CXQ](https://www.youtube.com/watch?v=jJWJNuE_CXQ)
 
 
 ### Topics

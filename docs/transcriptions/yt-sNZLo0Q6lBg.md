@@ -8,7 +8,7 @@ topics:
 # [September 14th, 2021 Livestream](../2021-09-14.md)
 ## Q&A: Have you considered adding Weather effects to the game?
 https://www.youtube.com/watch?v=sNZLo0Q6lBg
-This question was possibly duplicated with a more recent answer: [February 22nd, 2022 Livestream Q&A: Weather effects?](./yt-YPpaGRqhc7k.md) [https://www.youtube.com/watch?v=YPpaGRqhc7k](https://www.youtube.com/watch?v=YPpaGRqhc7k)
+This question was possibly duplicated with a more recent answer: [March 1st, 2022 Livestream Q&A: Any plans for extreme weather that affect productivity?](./yt-6O2mdDMAFes.md) [https://www.youtube.com/watch?v=6O2mdDMAFes](https://www.youtube.com/watch?v=6O2mdDMAFes)
 
 
 ### Topics

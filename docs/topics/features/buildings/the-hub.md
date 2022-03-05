@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > The HUB
 
+## March 1st, 2022 Livestream
+* [Community FYI: Loving the mini-game in the HUB](../../../transcriptions/yt-g2HQFFU0Wc8.md) [https://www.youtube.com/watch?v=g2HQFFU0Wc8](https://www.youtube.com/watch?v=g2HQFFU0Wc8)
+
 ## February 11th, 2022 Hot Potato Bonus Stream
 * [Q&A: Do I take damage if I'm playing the Package game?](../../../transcriptions/yt-AnhjxHz7VgM.md) [https://www.youtube.com/watch?v=AnhjxHz7VgM](https://www.youtube.com/watch?v=AnhjxHz7VgM)
 * [Q&A: What happens if you play the mini-game and remove the HUB?](../../../transcriptions/yt-kN04A1jy75Q.md) [https://www.youtube.com/watch?v=kN04A1jy75Q](https://www.youtube.com/watch?v=kN04A1jy75Q)

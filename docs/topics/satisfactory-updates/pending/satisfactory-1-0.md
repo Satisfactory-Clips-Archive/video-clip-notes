@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Pending > Satisfactory 1.0
 
+## March 1st, 2022 Livestream
+* [Q&A: Will you make a "What's next for Satisfactory" video?](../../../transcriptions/yt-F2Ux0lu2y2o.md) [https://www.youtube.com/watch?v=F2Ux0lu2y2o](https://www.youtube.com/watch?v=F2Ux0lu2y2o)
+* [Q&A: How many big Updates are you away from 1.0?](../../../transcriptions/yt-jdUPNumTkUE.md) [https://www.youtube.com/watch?v=jdUPNumTkUE](https://www.youtube.com/watch?v=jdUPNumTkUE)
+* [Q&A: Any DLC/expansions planned, or just more free stuff?](../../../transcriptions/yt-B5iDfRbSD-o.md) [https://www.youtube.com/watch?v=B5iDfRbSD-o](https://www.youtube.com/watch?v=B5iDfRbSD-o)
+
 ## February 22nd, 2022 Livestream
 * [Q&A: How likely is it we'll get a new research at/before 1.0?](../../../transcriptions/yt-gsqCsfIKxwI.md) [https://www.youtube.com/watch?v=gsqCsfIKxwI](https://www.youtube.com/watch?v=gsqCsfIKxwI)
 

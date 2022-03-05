@@ -8,7 +8,7 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Any plans for a helicopter so we don't have to turn into spaghetti to get across the map?
 https://www.youtube.com/watch?v=l-k7qpxgpRQ
-This question was possibly duplicated with a more recent answer: April 27th, 2021 Livestream Q&A: Helicopters when? [https://www.youtube.com/watch?v=3MKZhjpTAhg](https://www.youtube.com/watch?v=3MKZhjpTAhg)
+This question was possibly duplicated with a more recent answer: [March 1st, 2022 Livestream Q&A: I'd like to see a mini-helicopter for the late game?](./yt-RUeyipJT38A.md) [https://www.youtube.com/watch?v=RUeyipJT38A](https://www.youtube.com/watch?v=RUeyipJT38A)
 
 
 ### Topics

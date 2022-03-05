@@ -8,6 +8,9 @@ date: Last Modified
 * [Pumps](../../topics/features/fluids/pumps.md)
 * [Valves](../../topics/features/fluids/valves.md)
 
+## March 1st, 2022 Livestream
+* [Q&A: Why do liquids behave so strangely?](../../transcriptions/yt-i5KQc_aaesQ.md) [https://www.youtube.com/watch?v=i5KQc_aaesQ](https://www.youtube.com/watch?v=i5KQc_aaesQ)
+
 ## February 11th, 2022 Hot Potato Bonus Stream
 * [Q&A: Do Pipes still simulate viscosity?](../../transcriptions/yt-xtDwb-7lGP4.md) [https://www.youtube.com/watch?v=xtDwb-7lGP4](https://www.youtube.com/watch?v=xtDwb-7lGP4)
 * [Q&A: What's the expensive part of showing Fluid in Pipes?](../../transcriptions/yt-szunlP3nxJs.md) [https://www.youtube.com/watch?v=szunlP3nxJs](https://www.youtube.com/watch?v=szunlP3nxJs)

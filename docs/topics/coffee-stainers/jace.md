@@ -8,6 +8,18 @@ date: Last Modified
 * [Jace's HelloFresh Deliveries](../../topics/coffee-stainers/jace/hello-fresh.md)
 * [Jace Art](../../topics/coffee-stainers/jace/jace-art.md)
 * [Juice Velvet](../../topics/coffee-stainers/jace/juice-velvet.md)
+* [Robo Jace](../../topics/coffee-stainers/jace/robo-jace.md)
+
+## March 4th, 2022 Video
+* [Snutt & Jace Talk: Hot Coffee Potato Stainers](../../transcriptions/yt-AbggpyCo1kc,111.87843333333333,118.68523333333333.md) [https://youtube.com/embed/AbggpyCo1kc?autoplay=1&start=111&end=119](https://youtube.com/embed/AbggpyCo1kc?autoplay=1&start=111&end=119)
+* [Snutt & Jace Talk: Jace owes Lym $1](../../transcriptions/yt-AbggpyCo1kc,118.672224,132.36556666666667.md) [https://youtube.com/embed/AbggpyCo1kc?autoplay=1&start=118&end=133](https://youtube.com/embed/AbggpyCo1kc?autoplay=1&start=118&end=133)
+* [Snutt & Jace Talk: Hot Potato Devs](../../transcriptions/yt-AbggpyCo1kc,160.72723333333334,178.24473333333333.md) [https://youtube.com/embed/AbggpyCo1kc?autoplay=1&start=160&end=179](https://youtube.com/embed/AbggpyCo1kc?autoplay=1&start=160&end=179)
+* [Snutt & Jace Talk: Jace's Spiral Coal Plant](../../transcriptions/yt-AbggpyCo1kc,379.6793,393.8935.md) [https://youtube.com/embed/AbggpyCo1kc?autoplay=1&start=379&end=394](https://youtube.com/embed/AbggpyCo1kc?autoplay=1&start=379&end=394)
+* [Snutt & Jace Talk: Hot Potato Punishment Maze](../../transcriptions/yt-AbggpyCo1kc,497.26343333333335,693.0924.md) [https://youtube.com/embed/AbggpyCo1kc?autoplay=1&start=497&end=694](https://youtube.com/embed/AbggpyCo1kc?autoplay=1&start=497&end=694)
+
+## March 1st, 2022 Livestream
+* [Q&A: Which dinosaur is Jace's favourite dinosaur?](../../transcriptions/yt-_qw3UihlGoU.md) [https://www.youtube.com/watch?v=_qw3UihlGoU](https://www.youtube.com/watch?v=_qw3UihlGoU)
+* [Q&A: Do you have Jace trapped in a basement?](../../transcriptions/yt-k6qvwB19haI.md) [https://www.youtube.com/watch?v=k6qvwB19haI](https://www.youtube.com/watch?v=k6qvwB19haI)
 
 ## February 22nd, 2022 Livestream
 * [Q&A: What do you want to be when you grow up?](../../transcriptions/yt-c0Me_EQY_Qs.md) [https://www.youtube.com/watch?v=c0Me_EQY_Qs](https://www.youtube.com/watch?v=c0Me_EQY_Qs)

@@ -8,6 +8,8 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: What're your plans for looking at performance issues?
 https://www.youtube.com/watch?v=fRnLlewf3U0
+This question was possibly duplicated with a more recent answer: [March 1st, 2022 Livestream Q&A: Any plans to improve general performance?](./yt-zeyd67hqrB8.md) [https://www.youtube.com/watch?v=zeyd67hqrB8](https://www.youtube.com/watch?v=zeyd67hqrB8)
+
 
 ### Topics
 

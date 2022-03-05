@@ -9,6 +9,7 @@ date: Last Modified
 * [Anna](./topics/coffee-stainers/anna.md)
 * [Ben](./topics/coffee-stainers/ben.md)
 * [Birk](./topics/coffee-stainers/birk.md)
+* [Bogdan](./topics/coffee-stainers/bogdan.md)
 * [Dylan](./topics/coffee-stainers/dylan.md)
 * [Etienne](./topics/coffee-stainers/etienne.md)
 * [Flannel](./topics/coffee-stainers/flannel.md)
@@ -18,6 +19,7 @@ date: Last Modified
 * [Joel](./topics/coffee-stainers/joel.md)
 * [Kristoffer](./topics/coffee-stainers/kristoffer.md)
 * [Linus](./topics/coffee-stainers/linus.md)
+* [Lym](./topics/coffee-stainers/lym.md)
 * [Marie](./topics/coffee-stainers/marie.md)
 * [Mark](./topics/coffee-stainers/mark.md)
 * [Markus](./topics/coffee-stainers/markus.md)
@@ -43,6 +45,7 @@ date: Last Modified
 * [Jace's HelloFresh Deliveries](./topics/coffee-stainers/jace/hello-fresh.md)
 * [Jace Art](./topics/coffee-stainers/jace/jace-art.md)
 * [Juice Velvet](./topics/coffee-stainers/jace/juice-velvet.md)
+* [Robo Jace](./topics/coffee-stainers/jace/robo-jace.md)
 ---
 
 ## [Simon](./topics/coffee-stainers/simon.md)
@@ -158,6 +161,7 @@ date: Last Modified
 * [Railings](./topics/features/buildables/railings.md)
 * [Roofs](./topics/features/buildables/roofs.md)
 * [Signs](./topics/features/buildables/signs.md)
+* [Stairs](./topics/features/buildables/stairs.md)
 * [Storage Containers](./topics/features/buildables/storage-containers.md)
 * [Walkways](./topics/features/buildables/walkways.md)
 * [Walls](./topics/features/buildables/walls.md)

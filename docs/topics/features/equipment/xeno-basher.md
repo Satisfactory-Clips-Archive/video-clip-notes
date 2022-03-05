@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Equipment](../../../topics/features/equipment.md) > Xeno-Basher
 
+## March 4th, 2022 Video
+* [Snutt & Jace Talk: The wrong way to pet a Doggo](../../../transcriptions/yt-AbggpyCo1kc,486.98650000000004,497.2300666666667.md) [https://youtube.com/embed/AbggpyCo1kc?autoplay=1&start=486&end=498](https://youtube.com/embed/AbggpyCo1kc?autoplay=1&start=486&end=498)
+
 ## December 14th, 2021 Livestream
 * [Q&A: What about the Candy Cane Basher?](../../../transcriptions/yt-a-M_oEJEl2g.md) [https://www.youtube.com/watch?v=a-M_oEJEl2g](https://www.youtube.com/watch?v=a-M_oEJEl2g)
 

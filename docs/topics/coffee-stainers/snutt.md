@@ -7,6 +7,16 @@ date: Last Modified
 * [Snutt Burger Time](../../topics/coffee-stainers/snutt/snutt-burger-time.md)
 * [Snutty Mays](../../topics/coffee-stainers/snutt/snutty-mays.md)
 
+## March 4th, 2022 Video
+* [Snutt & Jace Talk: Hot Coffee Potato Stainers](../../transcriptions/yt-AbggpyCo1kc,111.87843333333333,118.68523333333333.md) [https://youtube.com/embed/AbggpyCo1kc?autoplay=1&start=111&end=119](https://youtube.com/embed/AbggpyCo1kc?autoplay=1&start=111&end=119)
+* [Snutt & Jace Talk: Hot Potato Devs](../../transcriptions/yt-AbggpyCo1kc,160.72723333333334,178.24473333333333.md) [https://youtube.com/embed/AbggpyCo1kc?autoplay=1&start=160&end=179](https://youtube.com/embed/AbggpyCo1kc?autoplay=1&start=160&end=179)
+* [Snutt & Jace Talk: Hot Potato Punishment Maze](../../transcriptions/yt-AbggpyCo1kc,497.26343333333335,693.0924.md) [https://youtube.com/embed/AbggpyCo1kc?autoplay=1&start=497&end=694](https://youtube.com/embed/AbggpyCo1kc?autoplay=1&start=497&end=694)
+
+## March 1st, 2022 Livestream
+* [Q&A: Snutt do you cook?](../../transcriptions/yt-LE_hv2que28.md) [https://www.youtube.com/watch?v=LE_hv2que28](https://www.youtube.com/watch?v=LE_hv2que28)
+* [Q&A: Jace, does Snutt deserve a raise?](../../transcriptions/yt-uxKkLUhuazk.md) [https://www.youtube.com/watch?v=uxKkLUhuazk](https://www.youtube.com/watch?v=uxKkLUhuazk)
+* [Community FYI: Snutt is now Jace's boss, confirmed](../../transcriptions/yt-kxGtr02ljPU.md) [https://www.youtube.com/watch?v=kxGtr02ljPU](https://www.youtube.com/watch?v=kxGtr02ljPU)
+
 ## February 22nd, 2022 Livestream
 * [Q&A: Snutt, be honest: why do you hate Star Wars?](../../transcriptions/yt-UXv8unOsnRo.md) [https://www.youtube.com/watch?v=UXv8unOsnRo](https://www.youtube.com/watch?v=UXv8unOsnRo)
 * [Community FYI: Spock is Star Trek, though](../../transcriptions/yt-Zvj3uNH1a-M.md) [https://www.youtube.com/watch?v=Zvj3uNH1a-M](https://www.youtube.com/watch?v=Zvj3uNH1a-M)

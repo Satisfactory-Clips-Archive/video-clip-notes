@@ -14,6 +14,12 @@ date: Last Modified
 * [Steel](../../topics/environment/resources/steel.md)
 * [Water](../../topics/environment/resources/water.md)
 
+## March 1st, 2022 Livestream
+* [Q&A: Can we run out of Mycelium?](../../transcriptions/yt-FNwy0D9q20E.md) [https://www.youtube.com/watch?v=FNwy0D9q20E](https://www.youtube.com/watch?v=FNwy0D9q20E)
+* [Q&A: Feature where you can see what Recipe something is used in?](../../transcriptions/yt-7YSWmdpt3I0.md) [https://www.youtube.com/watch?v=7YSWmdpt3I0](https://www.youtube.com/watch?v=7YSWmdpt3I0)
+* [Q&A: What if you split all Pure nodes into two Normal nodes?](../../transcriptions/yt-gxX6dvYgSvY.md) [https://www.youtube.com/watch?v=gxX6dvYgSvY](https://www.youtube.com/watch?v=gxX6dvYgSvY)
+* [Q&A: Will there be a possibility to buy/craft/collect the Quantum Computer?](../../transcriptions/yt-70nwOX-gPo8.md) [https://www.youtube.com/watch?v=70nwOX-gPo8](https://www.youtube.com/watch?v=70nwOX-gPo8)
+
 ## February 15th, 2022 Livestream
 * [Q&A: Have you thought about adding bulk packaging of items?](../../transcriptions/yt-SQFquk2yNGo.md) [https://www.youtube.com/watch?v=SQFquk2yNGo](https://www.youtube.com/watch?v=SQFquk2yNGo)
 

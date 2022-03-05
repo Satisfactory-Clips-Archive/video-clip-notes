@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Torsten
 
+## March 4th, 2022 Video
+* [Snutt & Jace Talk: Hot Coffee Potato Stainers](../../transcriptions/yt-AbggpyCo1kc,111.87843333333333,118.68523333333333.md) [https://youtube.com/embed/AbggpyCo1kc?autoplay=1&start=111&end=119](https://youtube.com/embed/AbggpyCo1kc?autoplay=1&start=111&end=119)
+* [Snutt & Jace Talk: Hot Potato Devs](../../transcriptions/yt-AbggpyCo1kc,160.72723333333334,178.24473333333333.md) [https://youtube.com/embed/AbggpyCo1kc?autoplay=1&start=160&end=179](https://youtube.com/embed/AbggpyCo1kc?autoplay=1&start=160&end=179)
+
 ## November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary
 * [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 21)](../../transcriptions/yt-V26cfhOb7_4.md) [https://www.youtube.com/watch?v=V26cfhOb7_4](https://www.youtube.com/watch?v=V26cfhOb7_4)
 * [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 26)](../../transcriptions/yt-_N3g-EVfJl4.md) [https://www.youtube.com/watch?v=_N3g-EVfJl4](https://www.youtube.com/watch?v=_N3g-EVfJl4)

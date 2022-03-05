@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Equipment](../../../topics/features/equipment.md) > Gas Mask
 
+## March 1st, 2022 Livestream
+* [Q&A: Can we keep the Gas Mask equipped while we're inside a Vehicle?](../../../transcriptions/yt-a9GuVZ_HAMU.md) [https://www.youtube.com/watch?v=a9GuVZ_HAMU](https://www.youtube.com/watch?v=a9GuVZ_HAMU)
+
 ## September 21st, 2021 Livestream
 * [Q&A: Gas Mask in Vehicles?](../../../transcriptions/yt-_gjOkEU1pwI.md) [https://www.youtube.com/watch?v=_gjOkEU1pwI](https://www.youtube.com/watch?v=_gjOkEU1pwI)
 

@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../topics.md) > [Retail](../../topics/retail.md) > Steam Store
 * [Steam Release](../../topics/retail/steam-store/steam-release.md)
 
+## March 1st, 2022 Livestream
+* [Q&A: Any plans for a version picker on Steam?](../../transcriptions/yt-F_oFa2NyWiI.md) [https://www.youtube.com/watch?v=F_oFa2NyWiI](https://www.youtube.com/watch?v=F_oFa2NyWiI)
+
 ## December 14th, 2021 Livestream
 * [Snutt Talk: Dedicated Servers on Steam & Epic](../../transcriptions/yt-B894pE07Itc.md) [https://www.youtube.com/watch?v=B894pE07Itc](https://www.youtube.com/watch?v=B894pE07Itc)
 

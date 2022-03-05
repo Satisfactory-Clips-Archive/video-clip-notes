@@ -8,7 +8,7 @@ topics:
 # [March 30th, 2021 Livestream](../2021-03-30.md)
 ## Q&A: Is a bigger world a possibility?
 https://www.youtube.com/watch?v=dlL942ooTho
-This question was possibly duplicated with a more recent answer: July 6th, 2021 Livestream Q&A: Are you going to expand the playable area on the Map? [https://www.youtube.com/watch?v=gy1FELPzm2w](https://www.youtube.com/watch?v=gy1FELPzm2w)
+This question was possibly duplicated with a more recent answer: [March 1st, 2022 Livestream Q&A: Any plans to increase the Satisfactory Map size?](./yt-jJWJNuE_CXQ.md) [https://www.youtube.com/watch?v=jJWJNuE_CXQ](https://www.youtube.com/watch?v=jJWJNuE_CXQ)
 
 
 ### Topics

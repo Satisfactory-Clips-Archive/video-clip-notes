@@ -9,7 +9,7 @@ topics:
 # [October 27th, 2020 Livestream](../2020-10-27.md)
 ## Q&A: Can you make it so we can use closed Conveyor Belts to help with Rendering?
 https://www.youtube.com/watch?v=6KdakqhC8Q4
-This question was possibly duplicated with a more recent answer: [February 16th, 2021 Livestream Q&A: Does obscuring belts actually help with performance?](./yt-JDJ5hvAkrWw.md) [https://www.youtube.com/watch?v=JDJ5hvAkrWw](https://www.youtube.com/watch?v=JDJ5hvAkrWw)
+This question was possibly duplicated with a more recent answer: [March 1st, 2022 Livestream Q&A: Why don't you design as a little domes on the belts that shows much less objects?](./yt-J8uJFq6qOvw.md) [https://www.youtube.com/watch?v=J8uJFq6qOvw](https://www.youtube.com/watch?v=J8uJFq6qOvw)
 
 
 ### Topics

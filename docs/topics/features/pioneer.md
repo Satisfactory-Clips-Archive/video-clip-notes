@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Features](../../topics/features.md) > Pioneer
 
+## March 1st, 2022 Livestream
+* [Q&A: Why don't Trains kill people or rag doll?](../../transcriptions/yt-IGwr-vvp3Nk.md) [https://www.youtube.com/watch?v=IGwr-vvp3Nk](https://www.youtube.com/watch?v=IGwr-vvp3Nk)
+
 ## December 7th, 2021 Livestream
 * [Community FYI: Make the Pioneer a furry, add paws button](../../transcriptions/yt-qGD49HDWHdY.md) [https://www.youtube.com/watch?v=qGD49HDWHdY](https://www.youtube.com/watch?v=qGD49HDWHdY)
 

@@ -10,6 +10,9 @@ date: Last Modified
 * [Pizza](../../topics/off-topic/food-and-drink/pizza.md)
 * [Semlor](../../topics/off-topic/food-and-drink/semlor.md)
 
+## March 1st, 2022 Livestream
+* [Q&A: Snutt do you cook?](../../transcriptions/yt-LE_hv2que28.md) [https://www.youtube.com/watch?v=LE_hv2que28](https://www.youtube.com/watch?v=LE_hv2que28)
+
 ## November 9th, 2021 Livestream
 * [Q&A: How is Skövde, can you get multiple cultures of food as takeaway easily?](../../transcriptions/yt-pHf1W6B2yXk.md) [https://www.youtube.com/watch?v=pHf1W6B2yXk](https://www.youtube.com/watch?v=pHf1W6B2yXk)
 * [Q&A: Pizza Hut & Subway?](../../transcriptions/yt--vfoBbfpx7g.md) [https://www.youtube.com/watch?v=-vfoBbfpx7g](https://www.youtube.com/watch?v=-vfoBbfpx7g)

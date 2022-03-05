@@ -7,6 +7,9 @@ date: Last Modified
 * [Characters](../topics/story-and-lore/characters.md)
 * [Project Assembly](../topics/story-and-lore/project-assembly.md)
 
+## March 1st, 2022 Livestream
+* [Q&A: How grounded do you want to keep the game?](../transcriptions/yt-0x9zoPg-wyY.md) [https://www.youtube.com/watch?v=0x9zoPg-wyY](https://www.youtube.com/watch?v=0x9zoPg-wyY)
+
 ## February 22nd, 2022 Livestream
 * [Q&A: How can you have so many Story items in the game without having a solid plan about the story?](../transcriptions/yt-FXbl9z0HuG0.md) [https://www.youtube.com/watch?v=FXbl9z0HuG0](https://www.youtube.com/watch?v=FXbl9z0HuG0)
 

@@ -8,6 +8,8 @@ topics:
 # [June 22nd, 2021 Livestream](../2021-06-22.md)
 ## Q&A: Hyper Tube splitters, press A or D and you'll turn at the next junction, what do you think?
 https://www.youtube.com/watch?v=0KSOVcZ6f6A
+This question was possibly duplicated with a more recent answer: [March 1st, 2022 Livestream Q&A: Adding Hyper Tube merger/splitters?](./yt-YkMoJvr0ID4.md) [https://www.youtube.com/watch?v=YkMoJvr0ID4](https://www.youtube.com/watch?v=YkMoJvr0ID4)
+
 
 ### Topics
 * [Features > Transportation > Hyper Tubes](../topics/features/transportation/hyper-tubes.md)

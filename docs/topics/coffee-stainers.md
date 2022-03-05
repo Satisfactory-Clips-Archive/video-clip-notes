@@ -8,6 +8,7 @@ date: Last Modified
 * [Anna](../topics/coffee-stainers/anna.md)
 * [Ben](../topics/coffee-stainers/ben.md)
 * [Birk](../topics/coffee-stainers/birk.md)
+* [Bogdan](../topics/coffee-stainers/bogdan.md)
 * [Dylan](../topics/coffee-stainers/dylan.md)
 * [Etienne](../topics/coffee-stainers/etienne.md)
 * [Flannel](../topics/coffee-stainers/flannel.md)
@@ -21,6 +22,7 @@ date: Last Modified
 * [Coffee Stainer Karaoke](../topics/coffee-stainers/karaoke.md)
 * [Kristoffer](../topics/coffee-stainers/kristoffer.md)
 * [Linus](../topics/coffee-stainers/linus.md)
+* [Lym](../topics/coffee-stainers/lym.md)
 * [Marie](../topics/coffee-stainers/marie.md)
 * [Mark](../topics/coffee-stainers/mark.md)
 * [Markus](../topics/coffee-stainers/markus.md)
@@ -38,6 +40,9 @@ date: Last Modified
 * [Tobias](../topics/coffee-stainers/tobias.md)
 * [Torsten](../topics/coffee-stainers/torsten.md)
 * [Uzu](../topics/coffee-stainers/uzu.md)
+
+## March 1st, 2022 Livestream
+* [Q&A: How many people are working on the game?](../transcriptions/yt-55pQn6DUgpM.md) [https://www.youtube.com/watch?v=55pQn6DUgpM](https://www.youtube.com/watch?v=55pQn6DUgpM)
 
 ## February 22nd, 2022 Livestream
 * [Q&A: Are Coffee Stainers back at the office now?](../transcriptions/yt-DK5UfByJ61U.md) [https://www.youtube.com/watch?v=DK5UfByJ61U](https://www.youtube.com/watch?v=DK5UfByJ61U)

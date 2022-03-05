@@ -8,7 +8,7 @@ topics:
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Q&A: Any plans on Weather cycles?
 https://www.youtube.com/watch?v=-QpGRQcZfe0
-This question was possibly duplicated with a more recent answer: [February 22nd, 2022 Livestream Q&A: Weather effects?](./yt-YPpaGRqhc7k.md) [https://www.youtube.com/watch?v=YPpaGRqhc7k](https://www.youtube.com/watch?v=YPpaGRqhc7k)
+This question was possibly duplicated with a more recent answer: [March 1st, 2022 Livestream Q&A: Any plans for extreme weather that affect productivity?](./yt-6O2mdDMAFes.md) [https://www.youtube.com/watch?v=6O2mdDMAFes](https://www.youtube.com/watch?v=6O2mdDMAFes)
 
 
 ### Topics

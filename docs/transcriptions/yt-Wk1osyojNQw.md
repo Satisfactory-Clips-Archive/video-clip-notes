@@ -10,6 +10,8 @@ topics:
 # [February 9th, 2021 Livestream](../2021-02-09.md)
 ## Q&A: Will there be another list coming in the Codex showing you which recipes need certain items?
 https://www.youtube.com/watch?v=Wk1osyojNQw
+This question was possibly duplicated with a more recent answer: [March 1st, 2022 Livestream Q&A: Feature where you can see what Recipe something is used in?](./yt-7YSWmdpt3I0.md) [https://www.youtube.com/watch?v=7YSWmdpt3I0](https://www.youtube.com/watch?v=7YSWmdpt3I0)
+
 
 ### Topics
 * [Environment > Resources](../topics/environment/resources.md)

@@ -8,7 +8,7 @@ topics:
 # [February 6th, 2019 Livestream](../2019-02-06.md)
 ## Q&A: Controller support?
 https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=4052&end=4152
-This question was possibly duplicated with a more recent answer: [November 23rd, 2021 Livestream Q&A: Are you planning controller support?](./yt-iVDRQg_aWpU,5443.766196132716,5462.457111.md) [https://youtube.com/clip/Ugkx_m7MeOzn0RdknMehAUOG5Qlu03WVK6DP](https://youtube.com/clip/Ugkx_m7MeOzn0RdknMehAUOG5Qlu03WVK6DP)
+This question was possibly duplicated with a more recent answer: [March 1st, 2022 Livestream Q&A: Controller support??](./yt-K8bnLGiUvnY.md) [https://www.youtube.com/watch?v=K8bnLGiUvnY](https://www.youtube.com/watch?v=K8bnLGiUvnY)
 
 
 ### Topics

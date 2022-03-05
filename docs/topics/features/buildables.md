@@ -16,6 +16,7 @@ date: Last Modified
 * [Railings](../../topics/features/buildables/railings.md)
 * [Roofs](../../topics/features/buildables/roofs.md)
 * [Signs](../../topics/features/buildables/signs.md)
+* [Stairs](../../topics/features/buildables/stairs.md)
 * [Storage Containers](../../topics/features/buildables/storage-containers.md)
 * [Walkways](../../topics/features/buildables/walkways.md)
 * [Walls](../../topics/features/buildables/walls.md)

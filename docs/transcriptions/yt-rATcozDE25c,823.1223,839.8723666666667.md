@@ -9,6 +9,8 @@ topics:
 # [October 1st, 2020 Q&A](../2020-10-01.md)
 ## Q&A: What are the community managers' favourite dinosaurs?
 https://youtube.com/embed/rATcozDE25c?autoplay=1&start=823&end=840
+This question was possibly duplicated with a more recent answer: [March 1st, 2022 Livestream Q&A: Which dinosaur is Jace's favourite dinosaur?](./yt-_qw3UihlGoU.md) [https://www.youtube.com/watch?v=_qw3UihlGoU](https://www.youtube.com/watch?v=_qw3UihlGoU)
+
 
 ### Topics
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)

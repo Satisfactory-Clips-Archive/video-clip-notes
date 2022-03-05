@@ -8,7 +8,7 @@ topics:
 # [October 12th, 2021 Livestream](../2021-10-12.md)
 ## Q&A: Will there ever be rain and extreme Weather in Satisfactory?
 https://www.youtube.com/watch?v=ukLbdvyFk-E
-This question was possibly duplicated with a more recent answer: [February 22nd, 2022 Livestream Q&A: Weather effects?](./yt-YPpaGRqhc7k.md) [https://www.youtube.com/watch?v=YPpaGRqhc7k](https://www.youtube.com/watch?v=YPpaGRqhc7k)
+This question was possibly duplicated with a more recent answer: [March 1st, 2022 Livestream Q&A: Any plans for extreme weather that affect productivity?](./yt-6O2mdDMAFes.md) [https://www.youtube.com/watch?v=6O2mdDMAFes](https://www.youtube.com/watch?v=6O2mdDMAFes)
 
 
 ### Topics

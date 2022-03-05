@@ -5,6 +5,12 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildables](../../../topics/features/buildables.md) > Signs
 
+## March 4th, 2022 Video
+* [Snutt & Jace Talk: Hot Potato Devs](../../../transcriptions/yt-AbggpyCo1kc,160.72723333333334,178.24473333333333.md) [https://youtube.com/embed/AbggpyCo1kc?autoplay=1&start=160&end=179](https://youtube.com/embed/AbggpyCo1kc?autoplay=1&start=160&end=179)
+* [Snutt & Jace Talk: Welcome to leg day walkway](../../../transcriptions/yt-AbggpyCo1kc,393.9268666666667,422.503885.md) [https://youtube.com/embed/AbggpyCo1kc?autoplay=1&start=393&end=423](https://youtube.com/embed/AbggpyCo1kc?autoplay=1&start=393&end=423)
+* [Snutt & Jace Talk: Hot Potato Present Factory](../../../transcriptions/yt-AbggpyCo1kc,693.1257666666667,777.6769.md) [https://youtube.com/embed/AbggpyCo1kc?autoplay=1&start=693&end=778](https://youtube.com/embed/AbggpyCo1kc?autoplay=1&start=693&end=778)
+* [Snutt & Jace Talk: Hot Potato Stairs & Signs](../../../transcriptions/yt-AbggpyCo1kc,777.7102666666667,867.5667.md) [https://youtube.com/embed/AbggpyCo1kc?autoplay=1&start=777&end=868](https://youtube.com/embed/AbggpyCo1kc?autoplay=1&start=777&end=868)
+
 ## February 11th, 2022 Hot Potato Bonus Stream
 * [Q&A: Gallery of Sign pixel art gallery for people to sign their work on the Hot Potato save?](../../../transcriptions/yt-4POx-6Z_LKQ.md) [https://www.youtube.com/watch?v=4POx-6Z_LKQ](https://www.youtube.com/watch?v=4POx-6Z_LKQ)
 

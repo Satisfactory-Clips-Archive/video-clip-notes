@@ -5,6 +5,12 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > World Update
 
+## March 1st, 2022 Livestream
+* [Q&A: So I built my palace in the Spire Coast - how effed am I?](../../transcriptions/yt-6DXkRHwr4LI.md) [https://www.youtube.com/watch?v=6DXkRHwr4LI](https://www.youtube.com/watch?v=6DXkRHwr4LI)
+* [Q&A: Any other part of the Map that we need to avoid?](../../transcriptions/yt-1fUuOuevhMg.md) [https://www.youtube.com/watch?v=1fUuOuevhMg](https://www.youtube.com/watch?v=1fUuOuevhMg)
+* [Community FYI: I have so much stuff in Spire Coast in I am in denial about these warnings](../../transcriptions/yt-BhUdu7bn260.md) [https://www.youtube.com/watch?v=BhUdu7bn260](https://www.youtube.com/watch?v=BhUdu7bn260)
+* [Q&A: What about changing the south-west kill boundary?](../../transcriptions/yt-8ZoNptHbM0Y.md) [https://www.youtube.com/watch?v=8ZoNptHbM0Y](https://www.youtube.com/watch?v=8ZoNptHbM0Y)
+
 ## February 8th, 2022 Livestream
 * [Q&A: Is Spire Coast rework still on the roadmap?](../../transcriptions/yt-ej4HO0ZrhQQ.md) [https://www.youtube.com/watch?v=ej4HO0ZrhQQ](https://www.youtube.com/watch?v=ej4HO0ZrhQQ)
 
