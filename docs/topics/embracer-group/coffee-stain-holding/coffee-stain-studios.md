@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Embracer Group](../../../topics/embracer-group.md) > Coffee Stain Holding > Coffee Stain Studios
 
+## March 8th, 2022 Livestream
+* [Community FYI: Just realised what CSS stands for](../../../transcriptions/yt-bG-EeTcctRs.md) [https://www.youtube.com/watch?v=bG-EeTcctRs](https://www.youtube.com/watch?v=bG-EeTcctRs)
+
 ## February 22nd, 2022 Livestream
 * [Q&A: Are Coffee Stainers back at the office now?](../../../transcriptions/yt-DK5UfByJ61U.md) [https://www.youtube.com/watch?v=DK5UfByJ61U](https://www.youtube.com/watch?v=DK5UfByJ61U)
 * [Q&A: Do you share the same office building with programmers/designers?](../../../transcriptions/yt-NE8wNfbvzEY.md) [https://www.youtube.com/watch?v=NE8wNfbvzEY](https://www.youtube.com/watch?v=NE8wNfbvzEY)

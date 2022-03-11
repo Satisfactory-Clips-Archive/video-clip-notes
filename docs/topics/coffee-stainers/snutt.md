@@ -7,6 +7,12 @@ date: Last Modified
 * [Snutt Burger Time](../../topics/coffee-stainers/snutt/snutt-burger-time.md)
 * [Snutty Mays](../../topics/coffee-stainers/snutt/snutty-mays.md)
 
+## March 8th, 2022 Livestream
+* [Q&A: Is Snutt flame-thrower ever going to be a thing?](../../transcriptions/yt-qERkt-fOUcA.md) [https://www.youtube.com/watch?v=qERkt-fOUcA](https://www.youtube.com/watch?v=qERkt-fOUcA)
+* [Q&A: Any plans for Disc Golf?](../../transcriptions/yt-cYlH0sKb68A.md) [https://www.youtube.com/watch?v=cYlH0sKb68A](https://www.youtube.com/watch?v=cYlH0sKb68A)
+* [Snutt Talk: Coffee Stain Confessional (Q&A: What do you dislike most in Satisfactory?)](../../transcriptions/yt-OFgqrwb-_Y8.md) [https://www.youtube.com/watch?v=OFgqrwb-_Y8](https://www.youtube.com/watch?v=OFgqrwb-_Y8)
+* [Q&A: Did you get your pay raise?](../../transcriptions/yt-kaQB-OZtK-8.md) [https://www.youtube.com/watch?v=kaQB-OZtK-8](https://www.youtube.com/watch?v=kaQB-OZtK-8)
+
 ## March 4th, 2022 Video
 * [Snutt & Jace Talk: Hot Coffee Potato Stainers](../../transcriptions/yt-AbggpyCo1kc,111.87843333333333,118.68523333333333.md) [https://youtube.com/embed/AbggpyCo1kc?autoplay=1&start=111&end=119](https://youtube.com/embed/AbggpyCo1kc?autoplay=1&start=111&end=119)
 * [Snutt & Jace Talk: Hot Potato Devs](../../transcriptions/yt-AbggpyCo1kc,160.72723333333334,178.24473333333333.md) [https://youtube.com/embed/AbggpyCo1kc?autoplay=1&start=160&end=179](https://youtube.com/embed/AbggpyCo1kc?autoplay=1&start=160&end=179)

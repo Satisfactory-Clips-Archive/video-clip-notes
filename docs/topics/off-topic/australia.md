@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Australia
 
+## March 8th, 2022 Livestream
+* [Community FYI: Jace needs to be upside down](../../transcriptions/yt-pWAQJVitWSs.md) [https://www.youtube.com/watch?v=pWAQJVitWSs](https://www.youtube.com/watch?v=pWAQJVitWSs)
+
 ## February 22nd, 2022 Livestream
 * [Q&A: Can you still channel full-Aussie accent?](../../transcriptions/yt-U9ft-1L806k.md) [https://www.youtube.com/watch?v=U9ft-1L806k](https://www.youtube.com/watch?v=U9ft-1L806k)
 

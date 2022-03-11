@@ -8,11 +8,7 @@ topics:
 # [August 17th, 2021 Livestream](../2021-08-17.md)
 ## Q&A: Trailers for Tractors?
 https://www.youtube.com/watch?v=v-m1sbuYaqw
-<details>
-<summary>This question may have been asked previously at least 1 other time, as recently as August 2020.</summary>
-
-* [August 25th, 2020 Livestream Q&A: Trailer for the Trucks?](./yt-WjVP7rOR38M.md) [https://www.youtube.com/watch?v=WjVP7rOR38M](https://www.youtube.com/watch?v=WjVP7rOR38M)
-</details>
+This question was possibly duplicated with a more recent answer: [March 8th, 2022 Livestream Q&A: Will you add Trucks with interchangeable trailers?](./yt-FI1njD1Kygo.md) [https://www.youtube.com/watch?v=FI1njD1Kygo](https://www.youtube.com/watch?v=FI1njD1Kygo)
 
 
 ### Topics

@@ -9,7 +9,7 @@ topics:
 # [October 5th, 2021 Livestream](../2021-10-05.md)
 ## Q&A: Plans to add more Vehicles?
 https://www.youtube.com/watch?v=OUZzVPXgtSM
-This question was possibly duplicated with a more recent answer: [February 8th, 2022 Livestream Q&A: More Vehicles planned?](./yt-NdZjKiNaCRA.md) [https://www.youtube.com/watch?v=NdZjKiNaCRA](https://www.youtube.com/watch?v=NdZjKiNaCRA)
+This question was possibly duplicated with a more recent answer: [March 8th, 2022 Livestream Q&A: Any plans on adding more transportation options?](./yt-Uc6dwW6QENE.md) [https://www.youtube.com/watch?v=Uc6dwW6QENE](https://www.youtube.com/watch?v=Uc6dwW6QENE)
 
 
 ### Topics

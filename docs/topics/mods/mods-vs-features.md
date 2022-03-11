@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Mods](../../topics/mods.md) > Mods vs. Features
 
+## March 8th, 2022 Livestream
+* [Q&A: Will you ever add a copy & paste function for factory Buildings?](../../transcriptions/yt-ldx3rMaaM2c.md) [https://www.youtube.com/watch?v=ldx3rMaaM2c](https://www.youtube.com/watch?v=ldx3rMaaM2c)
+
 ## March 1st, 2022 Livestream
 * [Q&A: Your thoughts on logic implementation in the game?](../../transcriptions/yt-pmI1YjZcywA.md) [https://www.youtube.com/watch?v=pmI1YjZcywA](https://www.youtube.com/watch?v=pmI1YjZcywA)
 

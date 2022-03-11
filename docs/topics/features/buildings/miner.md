@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > Miner
 
+## March 8th, 2022 Livestream
+* [Q&A: Will there be any Mk.6 Belts?](../../../transcriptions/yt-eTfr0KIE6xs.md) [https://www.youtube.com/watch?v=eTfr0KIE6xs](https://www.youtube.com/watch?v=eTfr0KIE6xs)
+
 ## March 1st, 2022 Livestream
 * [Q&A: Can we get something to allow us to make full use of Mk.3 Miner?](../../../transcriptions/yt-0oveQsKkGDQ.md) [https://www.youtube.com/watch?v=0oveQsKkGDQ](https://www.youtube.com/watch?v=0oveQsKkGDQ)
 * [Q&A: What if you split all Pure nodes into two Normal nodes?](../../../transcriptions/yt-gxX6dvYgSvY.md) [https://www.youtube.com/watch?v=gxX6dvYgSvY](https://www.youtube.com/watch?v=gxX6dvYgSvY)

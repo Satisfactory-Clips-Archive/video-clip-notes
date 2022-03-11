@@ -8,7 +8,7 @@ topics:
 # [May 11th, 2021 Livestream](../2021-05-11.md)
 ## Q&A: What about allowing a second person in the buggy?
 https://www.youtube.com/watch?v=RENRn0EnoZE
-This question was possibly duplicated with a more recent answer: [February 22nd, 2022 Livestream Q&A: Can we have more than one player in a Vehicle?](./yt-gcECX3h__YQ.md) [https://www.youtube.com/watch?v=gcECX3h__YQ](https://www.youtube.com/watch?v=gcECX3h__YQ)
+This question was possibly duplicated with a more recent answer: [March 8th, 2022 Livestream Q&A: Are we ever going to add passenger riding in the Explorer again?](./yt-2Mk9iV_UdBQ.md) [https://www.youtube.com/watch?v=2Mk9iV_UdBQ](https://www.youtube.com/watch?v=2Mk9iV_UdBQ)
 
 
 ### Topics

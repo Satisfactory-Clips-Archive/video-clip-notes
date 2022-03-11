@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Equipment](../../../topics/features/equipment.md) > Cup
 
+## March 8th, 2022 Livestream
+* [Q&A: Is the coffee in the Golden Cup better than the coffee in the normal one?](../../../transcriptions/yt-VGvELEKDHGI.md) [https://www.youtube.com/watch?v=VGvELEKDHGI](https://www.youtube.com/watch?v=VGvELEKDHGI)
+
 ## November 9th, 2021 Livestream
 * [Q&A: The coffee doesn't flow out of the cup when you bend forward, any plans on fixing that?](../../../transcriptions/yt-5gRHmIpvpJw.md) [https://www.youtube.com/watch?v=5gRHmIpvpJw](https://www.youtube.com/watch?v=5gRHmIpvpJw)
 

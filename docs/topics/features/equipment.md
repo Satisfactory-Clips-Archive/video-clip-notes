@@ -20,6 +20,9 @@ date: Last Modified
 * [Xeno-Zapper](../../topics/features/equipment/xeno-zapper.md)
 * [Zip Lines](../../topics/features/equipment/zip-lines.md)
 
+## March 8th, 2022 Livestream
+* [Q&A: Is Snutt flame-thrower ever going to be a thing?](../../transcriptions/yt-qERkt-fOUcA.md) [https://www.youtube.com/watch?v=qERkt-fOUcA](https://www.youtube.com/watch?v=qERkt-fOUcA)
+
 ## March 1st, 2022 Livestream
 * [Q&A: Why is the Equipment system such a low-priority Feature?](../../transcriptions/yt-lTt-3gSfUtM.md) [https://www.youtube.com/watch?v=lTt-3gSfUtM](https://www.youtube.com/watch?v=lTt-3gSfUtM)
 

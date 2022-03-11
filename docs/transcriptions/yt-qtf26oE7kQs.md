@@ -8,7 +8,7 @@ topics:
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Q&A: How many Updates until 1.0?
 https://www.youtube.com/watch?v=qtf26oE7kQs
-This question was possibly duplicated with a more recent answer: [March 1st, 2022 Livestream Q&A: How many big Updates are you away from 1.0?](./yt-jdUPNumTkUE.md) [https://www.youtube.com/watch?v=jdUPNumTkUE](https://www.youtube.com/watch?v=jdUPNumTkUE)
+This question was possibly duplicated with a more recent answer: [March 8th, 2022 Livestream Q&A: How many releases until 1.0?](./yt-VCC3bWwqnkw.md) [https://www.youtube.com/watch?v=VCC3bWwqnkw](https://www.youtube.com/watch?v=VCC3bWwqnkw)
 
 
 ### Topics

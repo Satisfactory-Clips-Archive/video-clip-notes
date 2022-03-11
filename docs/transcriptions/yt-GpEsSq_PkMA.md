@@ -8,7 +8,7 @@ topics:
 # [January 25th, 2022 Livestream](../2022-01-25.md)
 ## Q&A: FICS🐰EASTER?
 https://www.youtube.com/watch?v=GpEsSq_PkMA
-This question was possibly duplicated with a more recent answer: [February 22nd, 2022 Livestream Q&A: Is an Easter event possible?](./yt-LQgMkjce5dM.md) [https://www.youtube.com/watch?v=LQgMkjce5dM](https://www.youtube.com/watch?v=LQgMkjce5dM)
+This question was possibly duplicated with a more recent answer: [March 8th, 2022 Livestream Q&A: Any plans for an Easter event?](./yt-rhE2IjeHwpI.md) [https://www.youtube.com/watch?v=rhE2IjeHwpI](https://www.youtube.com/watch?v=rhE2IjeHwpI)
 
 
 ### Topics

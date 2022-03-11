@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > Transportation > [Vehicles](../../../../topics/features/transportation/vehicles.md) > Explorer
 
+## March 8th, 2022 Livestream
+* [Q&A: Are we ever going to add passenger riding in the Explorer again?](../../../../transcriptions/yt-2Mk9iV_UdBQ.md) [https://www.youtube.com/watch?v=2Mk9iV_UdBQ](https://www.youtube.com/watch?v=2Mk9iV_UdBQ)
+
 ## February 22nd, 2022 Livestream
 * [Q&A: Add plush Doggo to the second seat?](../../../../transcriptions/yt-NoqAEj4SREw.md) [https://www.youtube.com/watch?v=NoqAEj4SREw](https://www.youtube.com/watch?v=NoqAEj4SREw)
 * [Community FYI: The second seat is for the Autopilot](../../../../transcriptions/yt-UqCM_w-4INk.md) [https://www.youtube.com/watch?v=UqCM_w-4INk](https://www.youtube.com/watch?v=UqCM_w-4INk)

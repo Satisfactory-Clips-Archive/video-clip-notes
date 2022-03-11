@@ -41,6 +41,9 @@ date: Last Modified
 * [Torsten](../topics/coffee-stainers/torsten.md)
 * [Uzu](../topics/coffee-stainers/uzu.md)
 
+## March 8th, 2022 Livestream
+* [Community FYI: The root cause of problems is developers not playing the game](../transcriptions/yt-XrwW_32XwhI.md) [https://www.youtube.com/watch?v=XrwW_32XwhI](https://www.youtube.com/watch?v=XrwW_32XwhI)
+
 ## March 1st, 2022 Livestream
 * [Q&A: How many people are working on the game?](../transcriptions/yt-55pQn6DUgpM.md) [https://www.youtube.com/watch?v=55pQn6DUgpM](https://www.youtube.com/watch?v=55pQn6DUgpM)
 

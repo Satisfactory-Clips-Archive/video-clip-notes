@@ -9,7 +9,7 @@ topics:
 # [April 6th, 2021 Livestream](../2021-04-06.md)
 ## Q&A: Fluid Trucks?
 https://www.youtube.com/watch?v=lDJH-Q4E5Xk
-This question was possibly duplicated with a more recent answer: [September 14th, 2021 Livestream Q&A: Do you plan on making Tankers for Trucks & Trains?](./yt-vS1x7O20VDA.md) [https://www.youtube.com/watch?v=vS1x7O20VDA](https://www.youtube.com/watch?v=vS1x7O20VDA)
+This question was possibly duplicated with a more recent answer: [March 8th, 2022 Livestream Q&A: Plans to make Truck Stations for Fluids?](./yt-O0Pr5KSisOA.md) [https://www.youtube.com/watch?v=O0Pr5KSisOA](https://www.youtube.com/watch?v=O0Pr5KSisOA)
 
 
 ### Topics

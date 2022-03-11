@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Pending > Satisfactory 1.0
 
+## March 8th, 2022 Livestream
+* [Q&A: When would you guess the Map would be finalised?](../../../transcriptions/yt-0RdnPihfRpk.md) [https://www.youtube.com/watch?v=0RdnPihfRpk](https://www.youtube.com/watch?v=0RdnPihfRpk)
+* [Q&A: How many releases until 1.0?](../../../transcriptions/yt-VCC3bWwqnkw.md) [https://www.youtube.com/watch?v=VCC3bWwqnkw](https://www.youtube.com/watch?v=VCC3bWwqnkw)
+
 ## March 1st, 2022 Livestream
 * [Q&A: Will you make a "What's next for Satisfactory" video?](../../../transcriptions/yt-F2Ux0lu2y2o.md) [https://www.youtube.com/watch?v=F2Ux0lu2y2o](https://www.youtube.com/watch?v=F2Ux0lu2y2o)
 * [Q&A: How many big Updates are you away from 1.0?](../../../transcriptions/yt-jdUPNumTkUE.md) [https://www.youtube.com/watch?v=jdUPNumTkUE](https://www.youtube.com/watch?v=jdUPNumTkUE)

@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > Seasonal Events
 * [FICS⁕MAS](../../topics/satisfactory-updates/seasonal-events/fics-mas.md)
 
+## March 8th, 2022 Livestream
+* [Q&A: Any plans for an Easter event?](../../transcriptions/yt-rhE2IjeHwpI.md) [https://www.youtube.com/watch?v=rhE2IjeHwpI](https://www.youtube.com/watch?v=rhE2IjeHwpI)
+
 ## February 22nd, 2022 Livestream
 * [Q&A: Is an Easter event possible?](../../transcriptions/yt-LQgMkjce5dM.md) [https://www.youtube.com/watch?v=LQgMkjce5dM](https://www.youtube.com/watch?v=LQgMkjce5dM)
 * [Community FYI: Bunny ears on the Doggo](../../transcriptions/yt-cgAWGgg5z5I.md) [https://www.youtube.com/watch?v=cgAWGgg5z5I](https://www.youtube.com/watch?v=cgAWGgg5z5I)

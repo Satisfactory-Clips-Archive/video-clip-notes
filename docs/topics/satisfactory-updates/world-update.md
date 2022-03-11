@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > World Update
 
+## March 8th, 2022 Livestream
+* [Q&A: When would you guess the Map would be finalised?](../../transcriptions/yt-0RdnPihfRpk.md) [https://www.youtube.com/watch?v=0RdnPihfRpk](https://www.youtube.com/watch?v=0RdnPihfRpk)
+* [Q&A: Does the World Update include the top of the Map near the Dune Desert?](../../transcriptions/yt-oEtrnGqOY64.md) [https://www.youtube.com/watch?v=oEtrnGqOY64](https://www.youtube.com/watch?v=oEtrnGqOY64)
+
 ## March 1st, 2022 Livestream
 * [Q&A: So I built my palace in the Spire Coast - how effed am I?](../../transcriptions/yt-6DXkRHwr4LI.md) [https://www.youtube.com/watch?v=6DXkRHwr4LI](https://www.youtube.com/watch?v=6DXkRHwr4LI)
 * [Q&A: Any other part of the Map that we need to avoid?](../../transcriptions/yt-1fUuOuevhMg.md) [https://www.youtube.com/watch?v=1fUuOuevhMg](https://www.youtube.com/watch?v=1fUuOuevhMg)

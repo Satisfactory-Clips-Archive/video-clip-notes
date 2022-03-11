@@ -5,6 +5,7 @@ layout: index
 ---
 # 2022
 ## March
+* [March 8th](2022-03-08.md)
 * [March 4th](2022-03-04.md)
 * [March 1st](2022-03-01.md)
 

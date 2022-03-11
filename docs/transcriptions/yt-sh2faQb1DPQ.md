@@ -9,7 +9,7 @@ topics:
 # [February 11th, 2020 Livestream](../2020-02-11.md)
 ## Q&A: Bikes in Satisfactory confirmed?
 https://www.youtube.com/watch?v=sh2faQb1DPQ
-This question was possibly duplicated with a more recent answer: [August 10th, 2021 Livestream Q&A: Let's get a bicycle?](./yt-0ajNSKl4azA.md) [https://www.youtube.com/watch?v=0ajNSKl4azA](https://www.youtube.com/watch?v=0ajNSKl4azA)
+This question was possibly duplicated with a more recent answer: [March 8th, 2022 Livestream Q&A: How about motorbikes?](./yt-WRIH_bwu9aQ.md) [https://www.youtube.com/watch?v=WRIH_bwu9aQ](https://www.youtube.com/watch?v=WRIH_bwu9aQ)
 
 
 ### Topics

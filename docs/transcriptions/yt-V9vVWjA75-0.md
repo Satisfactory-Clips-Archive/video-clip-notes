@@ -9,7 +9,7 @@ topics:
 # [August 10th, 2021 Livestream](../2021-08-10.md)
 ## Q&A: How many more updates will you publish before launch
 https://www.youtube.com/watch?v=V9vVWjA75-0
-This question was possibly duplicated with a more recent answer: [March 1st, 2022 Livestream Q&A: How many big Updates are you away from 1.0?](./yt-jdUPNumTkUE.md) [https://www.youtube.com/watch?v=jdUPNumTkUE](https://www.youtube.com/watch?v=jdUPNumTkUE)
+This question was possibly duplicated with a more recent answer: [March 8th, 2022 Livestream Q&A: How many releases until 1.0?](./yt-VCC3bWwqnkw.md) [https://www.youtube.com/watch?v=VCC3bWwqnkw](https://www.youtube.com/watch?v=VCC3bWwqnkw)
 
 
 ### Topics

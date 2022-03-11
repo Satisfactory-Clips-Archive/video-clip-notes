@@ -11,6 +11,9 @@ date: Last Modified
 * [Resources](../topics/environment/resources.md)
 * [World Map](../topics/environment/world-map.md)
 
+## March 8th, 2022 Livestream
+* [Q&A: Removable rocks, when?](../transcriptions/yt-9Lsp_D_eYB8.md) [https://www.youtube.com/watch?v=9Lsp_D_eYB8](https://www.youtube.com/watch?v=9Lsp_D_eYB8)
+
 ## February 22nd, 2022 Livestream
 * [Q&A: Game mode to make environmental puzzles more difficult?](../transcriptions/yt-vI1MbFXJphw.md) [https://www.youtube.com/watch?v=vI1MbFXJphw](https://www.youtube.com/watch?v=vI1MbFXJphw)
 

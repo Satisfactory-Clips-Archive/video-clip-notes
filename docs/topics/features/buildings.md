@@ -26,6 +26,10 @@ date: Last Modified
 * [The HUB](../../topics/features/buildings/the-hub.md)
 * [Water Extractor](../../topics/features/buildings/water-extractor.md)
 
+## March 8th, 2022 Livestream
+* [Q&A: Plans to make Truck Stations for Fluids?](../../transcriptions/yt-O0Pr5KSisOA.md) [https://www.youtube.com/watch?v=O0Pr5KSisOA](https://www.youtube.com/watch?v=O0Pr5KSisOA)
+* [Q&A: Will you ever add a copy & paste function for factory Buildings?](../../transcriptions/yt-ldx3rMaaM2c.md) [https://www.youtube.com/watch?v=ldx3rMaaM2c](https://www.youtube.com/watch?v=ldx3rMaaM2c)
+
 ## March 4th, 2022 Video
 * [Snutt & Jace Talk: Hot Potato Docking Stations](../../transcriptions/yt-AbggpyCo1kc,276.74313333333333,313.9469666666667.md) [https://youtube.com/embed/AbggpyCo1kc?autoplay=1&start=276&end=314](https://youtube.com/embed/AbggpyCo1kc?autoplay=1&start=276&end=314)
 

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Environment](../../topics/environment.md) > Plants
 
+## March 8th, 2022 Livestream
+* [Q&A: Can you add some flower & plant cosmetic stuff?](../../transcriptions/yt-RotDytRFNIA.md) [https://www.youtube.com/watch?v=RotDytRFNIA](https://www.youtube.com/watch?v=RotDytRFNIA)
+
 ## January 25th, 2022 Livestream
 * [Q&A: Does Bacon respawn?](../../transcriptions/yt-_MlMOUEurI0.md) [https://www.youtube.com/watch?v=_MlMOUEurI0](https://www.youtube.com/watch?v=_MlMOUEurI0)
 * [Q&A: Will there be any form of automation for the production of Biomass?](../../transcriptions/yt-L735aPTRivU.md) [https://www.youtube.com/watch?v=L735aPTRivU](https://www.youtube.com/watch?v=L735aPTRivU)

@@ -8,7 +8,7 @@ topics:
 # [March 30th, 2021 Livestream](../2021-03-30.md)
 ## Q&A: Will there be a Mk.6 belt?
 https://www.youtube.com/watch?v=x2MeE6UR3o8
-This question was possibly duplicated with a more recent answer: [October 12th, 2021 Livestream Q&A: Do you plan to increase the Belt speed to 780?](./yt-rpK_pbol3-0.md) [https://www.youtube.com/watch?v=rpK_pbol3-0](https://www.youtube.com/watch?v=rpK_pbol3-0)
+This question was possibly duplicated with a more recent answer: [March 8th, 2022 Livestream Q&A: Will there be any Mk.6 Belts?](./yt-eTfr0KIE6xs.md) [https://www.youtube.com/watch?v=eTfr0KIE6xs](https://www.youtube.com/watch?v=eTfr0KIE6xs)
 
 
 ### Topics

@@ -16,6 +16,9 @@ date: Last Modified
 * [Tier 9](../../topics/features/tiers/tier-9.md)
 * [Tier 10](../../topics/features/tiers/tier-10.md)
 
+## March 8th, 2022 Livestream
+* [Q&A: How many more Tiers are planned in future development?](../../transcriptions/yt-gg0SE9FSwfM.md) [https://www.youtube.com/watch?v=gg0SE9FSwfM](https://www.youtube.com/watch?v=gg0SE9FSwfM)
+
 ## February 22nd, 2022 Livestream
 * [Q&A: How likely is it we'll get a new research at/before 1.0?](../../transcriptions/yt-gsqCsfIKxwI.md) [https://www.youtube.com/watch?v=gsqCsfIKxwI](https://www.youtube.com/watch?v=gsqCsfIKxwI)
 

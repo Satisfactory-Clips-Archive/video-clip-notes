@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Biomes](../../../topics/environment/biomes.md) > Dune Desert
 
+## March 8th, 2022 Livestream
+* [Q&A: Does the World Update include the top of the Map near the Dune Desert?](../../../transcriptions/yt-oEtrnGqOY64.md) [https://www.youtube.com/watch?v=oEtrnGqOY64](https://www.youtube.com/watch?v=oEtrnGqOY64)
+
 ## November 30th, 2021 Livestream
 * [Q&A: Can we please get rid of the stone that is blocking the way to the underground in the crater?](../../../transcriptions/yt-0u0CeKkxzek.md) [https://www.youtube.com/watch?v=0u0CeKkxzek](https://www.youtube.com/watch?v=0u0CeKkxzek)
 

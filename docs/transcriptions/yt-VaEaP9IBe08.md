@@ -8,7 +8,7 @@ topics:
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: We need Battleships?
 https://www.youtube.com/watch?v=VaEaP9IBe08
-This question was possibly duplicated with a more recent answer: [February 22nd, 2022 Livestream Q&A: What about actual harbour & shipping?](./yt-rs49UPLHlGM.md) [https://www.youtube.com/watch?v=rs49UPLHlGM](https://www.youtube.com/watch?v=rs49UPLHlGM)
+This question was possibly duplicated with a more recent answer: [March 8th, 2022 Livestream Q&A: Can you add boats & use the water more?](./yt-iRIAhkRVPoE.md) [https://www.youtube.com/watch?v=iRIAhkRVPoE](https://www.youtube.com/watch?v=iRIAhkRVPoE)
 
 
 ### Topics

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > QA Site
 
+## March 8th, 2022 Livestream
+* [Re: Reporting Issues](../transcriptions/yt-Svk5fRCAfX8.md) [https://www.youtube.com/watch?v=Svk5fRCAfX8](https://www.youtube.com/watch?v=Svk5fRCAfX8)
+
 ## February 22nd, 2022 Livestream
 * [Q&A: How are you dealing with old issues on the QA Site?](../transcriptions/yt-aKxR86z_fAU.md) [https://www.youtube.com/watch?v=aKxR86z_fAU](https://www.youtube.com/watch?v=aKxR86z_fAU)
 

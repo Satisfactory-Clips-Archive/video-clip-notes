@@ -2,39 +2,251 @@
 title: "Frequently Asked Questions"
 date: Last Modified
 ---
-## [March 1st, 2022 Livestream](./2022-03-01.md)
-### [Q&A: Your thoughts on logic implementation in the game?](./transcriptions/yt-pmI1YjZcywA.md) [https://www.youtube.com/watch?v=pmI1YjZcywA](https://www.youtube.com/watch?v=pmI1YjZcywA)
+## [March 8th, 2022 Livestream](./2022-03-08.md)
+### [Q&A: Will you add Trucks with interchangeable trailers?](./transcriptions/yt-FI1njD1Kygo.md) [https://www.youtube.com/watch?v=FI1njD1Kygo](https://www.youtube.com/watch?v=FI1njD1Kygo)
 
 <details>
 
 <summary>A transcript is available</summary>
 
-> your thoughts on logic implementation on the game um i think it would be cool i don't know where i cause like it is a bit complex and i think like i think one there's like two things here right when it comes to logic system for our game um it can it can open up a lot of like possibilities with our game uh you make a lot of cool stuff because like part of satisfactory is really all about like tinkering you know and and you know being able to to set up whatever you want and do like can i abstract changes of your systems and stuff like that because like there's nothing that says like you have to play satisfaction in a certain way and we certainly haven't designed it that way um but um but you know if if you add like a logic system and and we also want to cater in like you know that the rest of the game loom makes sense for that um then we also need to like strike a balance between what uh what we kind of add to the game and doesn't like enforce it to people you know um because if if we make something that's like too difficult to maintain when it comes to logic system then i think people would be a little bit discouraged so i think we need probably need to like draw a fine line and i see panna cotta in chat here too panna cot has made like a huge mod for logic systems in the game and i think that like sort of shows you know the deep end of of a logic system because you can do a lot of that stuff in that mod and i don't think we would like go that deep if we were to implement a logic system uh i think we would sort of need to find like middle ground um for like what makes sense in our game because it is it is like in other games where they have logic systems like it's really easy to get kind of like caught up in in the difficulty in those kind of systems and it's it's like for the people that want that that's a great addition but we always have to like sort of you know rationalize between everything we add to the game that makes sense for the entire game so um so yeah long story short i think it would be cool but it's also hard to say what be it would be a good like balance um i think so uh yeah
+> we add trucks with interchangeable trailers so like supermassive trucks i don't think so um i don't think that's in the plans uh but if you want to see that make sure you upload that on the qri site and post on it there give us detailed information on what you want to see
 
 
 </details>
 
 <details>
-<summary>This question may have been asked previously at least 2 other times, as recently as April 2021 and as early as September 2020.</summary>
+<summary>This question may have been asked previously at least 2 other times, as recently as August 2021 and as early as August 2020.</summary>
 
-* [April 6th, 2021 Livestream Q&A: Have you considered logic networks?](./transcriptions/yt-we87JUG_GTw.md) [https://www.youtube.com/watch?v=we87JUG_GTw](https://www.youtube.com/watch?v=we87JUG_GTw)
-* [September 1st, 2020 Livestream Q&A: Any chance of a Logic System in the game?](./transcriptions/yt-xojr_FfvDwk.md) [https://www.youtube.com/watch?v=xojr_FfvDwk](https://www.youtube.com/watch?v=xojr_FfvDwk)
+* [August 17th, 2021 Livestream Q&A: Trailers for Tractors?](./transcriptions/yt-v-m1sbuYaqw.md) [https://www.youtube.com/watch?v=v-m1sbuYaqw](https://www.youtube.com/watch?v=v-m1sbuYaqw)
+* [August 25th, 2020 Livestream Q&A: Trailer for the Trucks?](./transcriptions/yt-WjVP7rOR38M.md) [https://www.youtube.com/watch?v=WjVP7rOR38M](https://www.youtube.com/watch?v=WjVP7rOR38M)
 </details>
 
-### [Q&A: How many big Updates are you away from 1.0?](./transcriptions/yt-jdUPNumTkUE.md) [https://www.youtube.com/watch?v=jdUPNumTkUE](https://www.youtube.com/watch?v=jdUPNumTkUE)
+### [Q&A: Can you add boats & use the water more?](./transcriptions/yt-iRIAhkRVPoE.md) [https://www.youtube.com/watch?v=iRIAhkRVPoE](https://www.youtube.com/watch?v=iRIAhkRVPoE)
 
 <details>
 
 <summary>A transcript is available</summary>
 
-> how many big updates are away from 1.0 we don't know anything between zero and infinite or 99 let's just say something between zero and 99 i guess because i don't think we're gonna make that many
+> uh would you add more transportation options like boats and make use of the water more no we have no plans to make use of the water more because we can't like add like one small thing um you know it doesn't really like justify its its existence if you just add that like without adding like making it make sense in the in the uh context of what we're adding it so if we had like a boat like why how we why do we have a boat and not like a full marine life you know like that or aquatic life like it doesn't make sense to us to do it that way so so yes so probably no aquatic stuff
 
 
 </details>
 
 <details>
-<summary>This question may have been asked previously at least 19 other times, as recently as December 2021 and as early as March 2019.</summary>
+<summary>This question may have been asked previously at least 11 other times, as recently as February 2022 and as early as August 2020.</summary>
 
+* [February 22nd, 2022 Livestream Q&A: What about actual harbour & shipping?](./transcriptions/yt-rs49UPLHlGM.md) [https://www.youtube.com/watch?v=rs49UPLHlGM](https://www.youtube.com/watch?v=rs49UPLHlGM)
+* [February 8th, 2022 Livestream Q&A: Still wanna know when we're getting boats?](./transcriptions/yt-AKd0bKZW0ZE.md) [https://www.youtube.com/watch?v=AKd0bKZW0ZE](https://www.youtube.com/watch?v=AKd0bKZW0ZE)
+* [August 10th, 2021 Livestream Q&A: Boats?](./transcriptions/yt-Kkr3alKdef0.md) [https://www.youtube.com/watch?v=Kkr3alKdef0](https://www.youtube.com/watch?v=Kkr3alKdef0)
+* July 13th, 2021 Livestream Q&A: Ocean vessels? [https://www.youtube.com/watch?v=l7Pb9atvuRs](https://www.youtube.com/watch?v=l7Pb9atvuRs)
+* July 13th, 2021 Livestream Q&A: Any plans for boats? [https://www.youtube.com/watch?v=6a1lKPUaDaQ](https://www.youtube.com/watch?v=6a1lKPUaDaQ)
+* May 25th, 2021 Livestream Q&A: Adding boats, ports, or mass shipping around the coast? [https://www.youtube.com/watch?v=O_Ti41Q-JyE](https://www.youtube.com/watch?v=O_Ti41Q-JyE)
+* [May 4th, 2021 Livestream Q&A: Boats?](./transcriptions/yt-E1c7SsWhb0s.md) [https://www.youtube.com/watch?v=E1c7SsWhb0s](https://www.youtube.com/watch?v=E1c7SsWhb0s)
+* [April 27th, 2021 Livestream Q&A: Will Satisfactory ever have boats?](./transcriptions/yt-LVpl0f5g6ow.md) [https://www.youtube.com/watch?v=LVpl0f5g6ow](https://www.youtube.com/watch?v=LVpl0f5g6ow)
+* [September 22nd, 2020 Livestream Q&A: Boats will come?](./transcriptions/yt-33wha_duTqs.md) [https://www.youtube.com/watch?v=33wha_duTqs](https://www.youtube.com/watch?v=33wha_duTqs)
+* [August 25th, 2020 Livestream Q&A: If you add Trucks then add Boats?](./transcriptions/yt-A10cQzT6TpU.md) [https://www.youtube.com/watch?v=A10cQzT6TpU](https://www.youtube.com/watch?v=A10cQzT6TpU)
+* [August 25th, 2020 Livestream Q&A: We need Battleships?](./transcriptions/yt-VaEaP9IBe08.md) [https://www.youtube.com/watch?v=VaEaP9IBe08](https://www.youtube.com/watch?v=VaEaP9IBe08)
+</details>
+
+### [Q&A: Any plans for an Easter event?](./transcriptions/yt-rhE2IjeHwpI.md) [https://www.youtube.com/watch?v=rhE2IjeHwpI](https://www.youtube.com/watch?v=rhE2IjeHwpI)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> how to talk about a upcoming easter do a themed events um i don't think there's gonna be an easter event guys i think um because when we do these events they're sort of like they're never really planned like there's there's not really a producer going hey we need to make a seasonal event for this thing it's more like them asking like do you guys want to do a seasonal event and if people are too busy with like other things that we're working on um then it's kind of hard to like justify us doing anything um so uh and that's the same the same goes for like a halloween event you know like it it's a lot of development time that that goes into making just fix it fix mess um so maybe we're like kind of setting us up poorly when like oh we have one season when we wanted more but you know it's it's it really is like a out of interest from people at coffee stain whether we do the events or not um so yeah but since easter is coming up very soon and we have actually not talked about it at all i'm doubting that doubting that that will happen honestly unless we just like last second decide but i don't know
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 2 other times, as recently as February 2022 and as early as January 2022.</summary>
+
+* [February 22nd, 2022 Livestream Q&A: Is an Easter event possible?](./transcriptions/yt-LQgMkjce5dM.md) [https://www.youtube.com/watch?v=LQgMkjce5dM](https://www.youtube.com/watch?v=LQgMkjce5dM)
+* [January 25th, 2022 Livestream Q&A: FICS🐰EASTER?](./transcriptions/yt-GpEsSq_PkMA.md) [https://www.youtube.com/watch?v=GpEsSq_PkMA](https://www.youtube.com/watch?v=GpEsSq_PkMA)
+</details>
+
+### [Q&A: Any plans for any Golf?](./transcriptions/yt-IVZrSqBV5hM.md) [https://www.youtube.com/watch?v=IVZrSqBV5hM](https://www.youtube.com/watch?v=IVZrSqBV5hM)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> any plans for any golf to be added no we already said no
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 6 other times, as recently as March 2022 and as early as November 2021.</summary>
+
+* March 8th, 2022 Livestream Q&A: Golf? [https://www.youtube.com/watch?v=IYiTB2D1hKk](https://www.youtube.com/watch?v=IYiTB2D1hKk)
+* [March 8th, 2022 Livestream Q&A: Is it true you guys are adding Golf?](./transcriptions/yt-5fao-wsp_CM.md) [https://www.youtube.com/watch?v=5fao-wsp_CM](https://www.youtube.com/watch?v=5fao-wsp_CM)
+* [December 14th, 2021 Livestream Q&A: Golf, when?](./transcriptions/yt-7izKxTtG3js.md) [https://www.youtube.com/watch?v=7izKxTtG3js](https://www.youtube.com/watch?v=7izKxTtG3js)
+* [December 7th, 2021 Livestream Q&A: When's Golf?](./transcriptions/yt-hhZq5M3I8Io.md) [https://www.youtube.com/watch?v=hhZq5M3I8Io](https://www.youtube.com/watch?v=hhZq5M3I8Io)
+* [November 23rd, 2021 Livestream Q&A: Golf, when?](./transcriptions/yt-iVDRQg_aWpU,5188.73288641358,5195.520066.md) [https://youtube.com/clip/UgkxtKr3YShULCOATqNTspPVmbJ_hDuQi765](https://youtube.com/clip/UgkxtKr3YShULCOATqNTspPVmbJ_hDuQi765)
+* [November 9th, 2021 Livestream Q&A: Golf, when?](./transcriptions/yt-kYn6eCYtK6w.md) [https://www.youtube.com/watch?v=kYn6eCYtK6w](https://www.youtube.com/watch?v=kYn6eCYtK6w)
+</details>
+
+### [Q&A: Are we ever going to add passenger riding in the Explorer again?](./transcriptions/yt-2Mk9iV_UdBQ.md) [https://www.youtube.com/watch?v=2Mk9iV_UdBQ](https://www.youtube.com/watch?v=2Mk9iV_UdBQ)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> you ever gonna add passenger riding an explorer again i don't know probably not if we would have we probably would have added or better yet like if if we would have we probably wouldn't have removed it you know what i mean um so probably the answer is no
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 11 other times, as recently as February 2022 and as early as August 2020.</summary>
+
+* [February 22nd, 2022 Livestream Q&A: Can we have more than one player in a Vehicle?](./transcriptions/yt-gcECX3h__YQ.md) [https://www.youtube.com/watch?v=gcECX3h__YQ](https://www.youtube.com/watch?v=gcECX3h__YQ)
+* [January 18th, 2022 Livestream Q&A: Jace, why can't we have two people in the Vehicles?](./transcriptions/yt-HcTmSD0xDhA.md) [https://www.youtube.com/watch?v=HcTmSD0xDhA](https://www.youtube.com/watch?v=HcTmSD0xDhA)
+* [November 9th, 2021 Livestream Q&A: Two Pioneers in one car?](./transcriptions/yt-Btds0y7oaoE.md) [https://www.youtube.com/watch?v=Btds0y7oaoE](https://www.youtube.com/watch?v=Btds0y7oaoE)
+* [September 14th, 2021 Livestream Q&A: Why can we not put a second person in the Buggy?](./transcriptions/yt-7k7lIdyQBvQ.md) [https://www.youtube.com/watch?v=7k7lIdyQBvQ](https://www.youtube.com/watch?v=7k7lIdyQBvQ)
+* [July 20th, 2021 Livestream Q&A: Any plans for Vehicles to hold more than one player?](./transcriptions/yt-49PWrYsgFtk.md) [https://www.youtube.com/watch?v=49PWrYsgFtk](https://www.youtube.com/watch?v=49PWrYsgFtk)
+* [July 13th, 2021 Livestream Q&A: Two-people Explorer, please](./transcriptions/yt-hnYfzcUnUQE.md) [https://www.youtube.com/watch?v=hnYfzcUnUQE](https://www.youtube.com/watch?v=hnYfzcUnUQE)
+* [May 18th, 2021 Livestream Q&A: Will there ever be two players per car?](./transcriptions/yt-MGcq63fWfYY.md) [https://www.youtube.com/watch?v=MGcq63fWfYY](https://www.youtube.com/watch?v=MGcq63fWfYY)
+* [May 11th, 2021 Livestream Q&A: What about allowing a second person in the buggy?](./transcriptions/yt-RENRn0EnoZE.md) [https://www.youtube.com/watch?v=RENRn0EnoZE](https://www.youtube.com/watch?v=RENRn0EnoZE)
+* [April 27th, 2021 Livestream Q&A: Two-person buggy?](./transcriptions/yt-IUQeH1sTCv0.md) [https://www.youtube.com/watch?v=IUQeH1sTCv0](https://www.youtube.com/watch?v=IUQeH1sTCv0)
+* August 11th, 2020 Livestream Q&A: Two-seated vehicles (Part 1) [https://clips.twitch.tv/OilySourBeaverAMPEnergy](https://clips.twitch.tv/OilySourBeaverAMPEnergy)
+* August 11th, 2020 Livestream Q&A: Two-seated vehicles (Part 2) [https://clips.twitch.tv/CooperativeFurtiveWasabiOhMyDog](https://clips.twitch.tv/CooperativeFurtiveWasabiOhMyDog)
+</details>
+
+### [Q&A: How about motorbikes?](./transcriptions/yt-WRIH_bwu9aQ.md) [https://www.youtube.com/watch?v=WRIH_bwu9aQ](https://www.youtube.com/watch?v=WRIH_bwu9aQ)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> um how about motorbikes having a fast motorized transport that's what the factory cart is for you guys that's a that's a fast motorized vehicle isn't it for sure it is
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 5 other times, as recently as August 2021 and as early as February 2020.</summary>
+
+* [August 10th, 2021 Livestream Q&A: Let's get a bicycle?](./transcriptions/yt-0ajNSKl4azA.md) [https://www.youtube.com/watch?v=0ajNSKl4azA](https://www.youtube.com/watch?v=0ajNSKl4azA)
+* [July 13th, 2021 Livestream Q&A: Will you add bikes?](./transcriptions/yt-rEjEJpuqsus.md) [https://www.youtube.com/watch?v=rEjEJpuqsus](https://www.youtube.com/watch?v=rEjEJpuqsus)
+* [September 15th, 2020 Livestream Q&A: Off-road Motorbike?](./transcriptions/yt-ZEFN3_Qz4Kg.md) [https://www.youtube.com/watch?v=ZEFN3_Qz4Kg](https://www.youtube.com/watch?v=ZEFN3_Qz4Kg)
+* [September 8th, 2020 Livestream Q&A: Dirt Bikes?](./transcriptions/yt-75OR9Co9l74.md) [https://www.youtube.com/watch?v=75OR9Co9l74](https://www.youtube.com/watch?v=75OR9Co9l74)
+* [February 11th, 2020 Livestream Q&A: Bikes in Satisfactory confirmed?](./transcriptions/yt-sh2faQb1DPQ.md) [https://www.youtube.com/watch?v=sh2faQb1DPQ](https://www.youtube.com/watch?v=sh2faQb1DPQ)
+</details>
+
+### [Q&A: Plans to make Truck Stations for Fluids?](./transcriptions/yt-O0Pr5KSisOA.md) [https://www.youtube.com/watch?v=O0Pr5KSisOA](https://www.youtube.com/watch?v=O0Pr5KSisOA)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> plans to make truck stations for fluids no not at the moment but again not impossible uh qa side is the way to go
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 7 other times, as recently as September 2021 and as early as August 2020.</summary>
+
+* [September 14th, 2021 Livestream Q&A: Do you plan on making Tankers for Trucks & Trains?](./transcriptions/yt-vS1x7O20VDA.md) [https://www.youtube.com/watch?v=vS1x7O20VDA](https://www.youtube.com/watch?v=vS1x7O20VDA)
+* [May 11th, 2021 Livestream Q&A: Can you add Trucks that carry liquids?](./transcriptions/yt-2EiZU9aWekQ.md) [https://www.youtube.com/watch?v=2EiZU9aWekQ](https://www.youtube.com/watch?v=2EiZU9aWekQ)
+* [April 6th, 2021 Livestream Q&A: Fluid Trucks?](./transcriptions/yt-lDJH-Q4E5Xk.md) [https://www.youtube.com/watch?v=lDJH-Q4E5Xk](https://www.youtube.com/watch?v=lDJH-Q4E5Xk)
+* [March 30th, 2021 Livestream Q&A: Will there be Trucks that can transport fluids?](./transcriptions/yt-sO7qhlAKq3U.md) [https://www.youtube.com/watch?v=sO7qhlAKq3U](https://www.youtube.com/watch?v=sO7qhlAKq3U)
+* [October 6th, 2020 Livestream Q&A: What do you think about adding some kind of Tanker Truck?](./transcriptions/yt-JCBQj8Ern20.md) [https://www.youtube.com/watch?v=JCBQj8Ern20](https://www.youtube.com/watch?v=JCBQj8Ern20)
+* [September 15th, 2020 Livestream Q&A: Any improvement for the Trucks so they can transport Fluids?](./transcriptions/yt-lNpwyJr7lZc.md) [https://www.youtube.com/watch?v=lNpwyJr7lZc](https://www.youtube.com/watch?v=lNpwyJr7lZc)
+* [August 25th, 2020 Livestream Q&A: Tanker Trucks?](./transcriptions/yt-IPmVdCgi2_A.md) [https://www.youtube.com/watch?v=IPmVdCgi2_A](https://www.youtube.com/watch?v=IPmVdCgi2_A)
+</details>
+
+### [Q&A: Can we get a Coffee Machine?](./transcriptions/yt-_LWGvvaXsBI.md) [https://www.youtube.com/watch?v=_LWGvvaXsBI](https://www.youtube.com/watch?v=_LWGvvaXsBI)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> will it be a coffee machine can't stand the cough in the cup why you don't need a coffee machine the coffee in the cup will stay fresh forever it's a special coffee cup
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 3 other times, as recently as December 2021 and as early as February 2021.</summary>
+
+* [December 14th, 2021 Livestream Q&A: Five-input machine that makes Coffee?](./transcriptions/yt-sgGhUaNdoZk.md) [https://www.youtube.com/watch?v=sgGhUaNdoZk](https://www.youtube.com/watch?v=sgGhUaNdoZk)
+* [May 25th, 2021 Livestream Q&A: Do you have plans to add a Coffee maker with Coffee nodes?](./transcriptions/yt-6QqajUpsshE.md) [https://www.youtube.com/watch?v=6QqajUpsshE](https://www.youtube.com/watch?v=6QqajUpsshE)
+* [February 23rd, 2021 Livestream Q&A: Could you please add a Coffee machine or even a Coffee production line?](./transcriptions/yt-XpBlPzRT3FA.md) [https://www.youtube.com/watch?v=XpBlPzRT3FA](https://www.youtube.com/watch?v=XpBlPzRT3FA)
+</details>
+
+### [Q&A: Will there be any Mk.6 Belts?](./transcriptions/yt-eTfr0KIE6xs.md) [https://www.youtube.com/watch?v=eTfr0KIE6xs](https://www.youtube.com/watch?v=eTfr0KIE6xs)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> with the beanie mark six belt so we don't know yet um here this is a question that comes up often and i'll re-tell tell the story once again so when it comes to fast moving belts with the game there's an issue with like precision in terms of like how uh items are like moved between uh conveyor belts and factory buildings or something like that and the faster a belt is moving the more precision it requires and if your computer is running less than optimally like less than 60fps then you can run into issues where uh those windows like when it's updating in the factory tick then it might like sort of run out of precision and that means that you'll sort of not be able to like make 100 efficient factory buildings that can already kind of happen with the factory belts that we have right now so we're kind of hesitant on adding a faster belt because that will just make the issue uh like more obvious it's so somewhat of the issue we were having with pipes you know if you need that like 100 efficiency on 600 uh cubic meters of pipes then the game kind of fluctuates sometimes depending on how your game runs so sometimes you can get a little bit more sometimes you get a little less than 100 efficiency which is also strange and that is kind of the same kind of problem the same rooted issue and it's it's it's like a it's a tricky issue to solve because we don't know a good there's no like really good solution to it you know just make the code go just make the code good right but that's easy to say uh with all the systems that it touches so um we don't have a solution essentially this is the thing i'm trying to get here get out of here um and we sort of haven't been able to look into it because because since it is a bigger task then we sort of need to do it when it makes sense um so so that's why so when it comes to like mark six belts and the same thing with like overclocking on miners where like you can't get the full like speed out of mark three miners same thing there we don't know what a solution what our solution will be if we ever will add mark six belts i'm actually kind of doubting that we will do that because of the the uh issues that we have we might do the like more ghosts more so go like the route of maybe adding another output on the mark three minor or maybe we'll completely rebalance the game uh i don't know like this this is uh this is like a pretty involved issue to look into um and it will take some time and we haven't been able to do that because we've had so many other issues that we've been meaning to look into we've had we actually just started looking into an issue with foliage with our foliage system that we've been meaning to look into for two years um so so yeah it would be tricky and like this is an issue that we've known about for a long time too so like so yes easy solution would be two x's and mark three minors isis solution might not be that like that's the that's the kind of thing like we don't actually know what the easiest solution is we can only guess at this point so we actually need to look into it properly before we can make any kind of statements as to what we'll do so yes
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 16 other times, as recently as October 2021 and as early as September 2020.</summary>
+
+* [October 12th, 2021 Livestream Q&A: Do you plan to increase the Belt speed to 780?](./transcriptions/yt-rpK_pbol3-0.md) [https://www.youtube.com/watch?v=rpK_pbol3-0](https://www.youtube.com/watch?v=rpK_pbol3-0)
+* [September 14th, 2021 Livestream Q&A: Will we get a Mk.6 Belt in the future?](./transcriptions/yt-CQNpIStn7SM.md) [https://www.youtube.com/watch?v=CQNpIStn7SM](https://www.youtube.com/watch?v=CQNpIStn7SM)
+* [August 24th, 2021 Livestream Q&A: Is there going to be a Mk.6 Belt for Mk.3 Miner at 250% clock speed?](./transcriptions/yt-x2VBWUAqpoQ.md) [https://www.youtube.com/watch?v=x2VBWUAqpoQ](https://www.youtube.com/watch?v=x2VBWUAqpoQ)
+* [May 18th, 2021 Livestream Q&A: Is there a technical reason you only made Mk.5 belts and not higher?](./transcriptions/yt-SiU_cgb0XhI.md) [https://www.youtube.com/watch?v=SiU_cgb0XhI](https://www.youtube.com/watch?v=SiU_cgb0XhI)
+* [May 4th, 2021 Livestream Q&A: Mk.6 Conveyor Belts?](./transcriptions/yt-9KayDn0JaEY.md) [https://www.youtube.com/watch?v=9KayDn0JaEY](https://www.youtube.com/watch?v=9KayDn0JaEY)
+* [April 27th, 2021 Livestream Q&A: Will there ever be a belt that goes faster, like a Mk.6 one?](./transcriptions/yt-cnyCqL7xl6U.md) [https://www.youtube.com/watch?v=cnyCqL7xl6U](https://www.youtube.com/watch?v=cnyCqL7xl6U)
+* [April 6th, 2021 Livestream Q&A: Mk.6 Belts?](./transcriptions/yt-sUed4aFcYLs.md) [https://www.youtube.com/watch?v=sUed4aFcYLs](https://www.youtube.com/watch?v=sUed4aFcYLs)
+* [March 30th, 2021 Livestream Q&A: Will there be a Mk.6 belt?](./transcriptions/yt-x2MeE6UR3o8.md) [https://www.youtube.com/watch?v=x2MeE6UR3o8](https://www.youtube.com/watch?v=x2MeE6UR3o8)
+* [March 30th, 2021 Livestream Q&A: Will there be Belt Mk.6?](./transcriptions/yt--fmlo0D_LXM.md) [https://www.youtube.com/watch?v=-fmlo0D_LXM](https://www.youtube.com/watch?v=-fmlo0D_LXM)
+* [March 23rd, 2021 Livestream Q&A: Any chance of faster belts in the future?](./transcriptions/yt-Rv5-4k_ZzWU.md) [https://www.youtube.com/watch?v=Rv5-4k_ZzWU](https://www.youtube.com/watch?v=Rv5-4k_ZzWU)
+* [February 2nd, 2021 Livestream Q&A: Mk.6 Belt in the next Update?](./transcriptions/yt-DpT2LNED0wk.md) [https://www.youtube.com/watch?v=DpT2LNED0wk](https://www.youtube.com/watch?v=DpT2LNED0wk)
+* [November 24th, 2020 Livestream Q&A: Mk.6 Belts coming?](./transcriptions/yt-H2WwaLFOI9Q.md) [https://www.youtube.com/watch?v=H2WwaLFOI9Q](https://www.youtube.com/watch?v=H2WwaLFOI9Q)
+* [November 10th, 2020 Livestream Q&A: Are Conveyor Belt Mk. 6 going to be a thing?](./transcriptions/yt-WbtzFVFOFMs.md) [https://www.youtube.com/watch?v=WbtzFVFOFMs](https://www.youtube.com/watch?v=WbtzFVFOFMs)
+* [November 3rd, 2020 Livestream Q&A: Any plans for better Belts for Pure nodes?](./transcriptions/yt-UxW9nGO9Ius.md) [https://www.youtube.com/watch?v=UxW9nGO9Ius](https://www.youtube.com/watch?v=UxW9nGO9Ius)
+* [November 3rd, 2020 Livestream Q&A: Broader Belts?](./transcriptions/yt-Y1ulbhgaSeU.md) [https://www.youtube.com/watch?v=Y1ulbhgaSeU](https://www.youtube.com/watch?v=Y1ulbhgaSeU)
+* [September 29th, 2020 Livestream Q&A: What about Mk.6 Belts?](./transcriptions/yt-NiBLAUCxIEs.md) [https://www.youtube.com/watch?v=NiBLAUCxIEs](https://www.youtube.com/watch?v=NiBLAUCxIEs)
+</details>
+
+### [Q&A: Any plans on adding more transportation options?](./transcriptions/yt-Uc6dwW6QENE.md) [https://www.youtube.com/watch?v=Uc6dwW6QENE](https://www.youtube.com/watch?v=Uc6dwW6QENE)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> and he plans on adding more transportation options i believe i already answered that and the answer is probably maybe no probably not um let me see what the you back chase ah the camera glitched out again damn it
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 6 other times, as recently as February 2022 and as early as August 2020.</summary>
+
+* [February 8th, 2022 Livestream Q&A: More Vehicles planned?](./transcriptions/yt-NdZjKiNaCRA.md) [https://www.youtube.com/watch?v=NdZjKiNaCRA](https://www.youtube.com/watch?v=NdZjKiNaCRA)
+* [November 16th, 2021 Livestream Q&A: Are you going to add more Vehicles to the game?](./transcriptions/yt-pe4P1er1TEk.md) [https://www.youtube.com/watch?v=pe4P1er1TEk](https://www.youtube.com/watch?v=pe4P1er1TEk)
+* [October 5th, 2021 Livestream Q&A: Plans to add more Vehicles?](./transcriptions/yt-OUZzVPXgtSM.md) [https://www.youtube.com/watch?v=OUZzVPXgtSM](https://www.youtube.com/watch?v=OUZzVPXgtSM)
+* [September 21st, 2021 Livestream Q&A: Will we get more Vehicles added to the game?](./transcriptions/yt-2OR5iK5zy7E.md) [https://www.youtube.com/watch?v=2OR5iK5zy7E](https://www.youtube.com/watch?v=2OR5iK5zy7E)
+* May 11th, 2021 Livestream Q&A: New Vehicles? [https://www.youtube.com/watch?v=Y3WBeGuXOeQ](https://www.youtube.com/watch?v=Y3WBeGuXOeQ)
+* August 18th, 2020 Livestream Q&A: Are there some other vehicles planned? [https://clips.twitch.tv/EsteemedNurturingHyenaWOOP](https://clips.twitch.tv/EsteemedNurturingHyenaWOOP)
+</details>
+
+### [Q&A: How many releases until 1.0?](./transcriptions/yt-VCC3bWwqnkw.md) [https://www.youtube.com/watch?v=VCC3bWwqnkw](https://www.youtube.com/watch?v=VCC3bWwqnkw)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> how many releases into 1.0 we don't know anything between 0 and 99. jace is lacking this is munching
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 20 other times, as recently as March 2022 and as early as March 2019.</summary>
+
+* [March 1st, 2022 Livestream Q&A: How many big Updates are you away from 1.0?](./transcriptions/yt-jdUPNumTkUE.md) [https://www.youtube.com/watch?v=jdUPNumTkUE](https://www.youtube.com/watch?v=jdUPNumTkUE)
 * [December 14th, 2021 Livestream Q&A: How many more Updates are planned?](./transcriptions/yt-94UgcPML6FI.md) [https://www.youtube.com/watch?v=94UgcPML6FI](https://www.youtube.com/watch?v=94UgcPML6FI)
 * October 19th, 2021 Livestream Q&A: How many more Updates? [https://www.youtube.com/watch?v=-jMLTqAu7t8](https://www.youtube.com/watch?v=-jMLTqAu7t8)
 * August 17th, 2021 Livestream Q&A: How many Updates after 5? [https://www.youtube.com/watch?v=Rbh6KabAZSY](https://www.youtube.com/watch?v=Rbh6KabAZSY)
@@ -54,6 +266,25 @@ date: Last Modified
 * [May 19th, 2020 Livestream Q&A: Do you intended to do planned amount of huge Updates?](./transcriptions/yt-Nk53HWpUnnk.md) [https://www.youtube.com/watch?v=Nk53HWpUnnk](https://www.youtube.com/watch?v=Nk53HWpUnnk)
 * [March 24th, 2020 Livestream Q&A: How often will you be releasing new content?](./transcriptions/yt-1gGMZa-xf70.md) [https://www.youtube.com/watch?v=1gGMZa-xf70](https://www.youtube.com/watch?v=1gGMZa-xf70)
 * [March 9th, 2019 Livestream Q&A: How often will you release updates in Early Access?](./transcriptions/yt-PBkvqmyjADM.md) [https://www.youtube.com/watch?v=PBkvqmyjADM](https://www.youtube.com/watch?v=PBkvqmyjADM)
+</details>
+
+## [March 1st, 2022 Livestream](./2022-03-01.md)
+### [Q&A: Your thoughts on logic implementation in the game?](./transcriptions/yt-pmI1YjZcywA.md) [https://www.youtube.com/watch?v=pmI1YjZcywA](https://www.youtube.com/watch?v=pmI1YjZcywA)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> your thoughts on logic implementation on the game um i think it would be cool i don't know where i cause like it is a bit complex and i think like i think one there's like two things here right when it comes to logic system for our game um it can it can open up a lot of like possibilities with our game uh you make a lot of cool stuff because like part of satisfactory is really all about like tinkering you know and and you know being able to to set up whatever you want and do like can i abstract changes of your systems and stuff like that because like there's nothing that says like you have to play satisfaction in a certain way and we certainly haven't designed it that way um but um but you know if if you add like a logic system and and we also want to cater in like you know that the rest of the game loom makes sense for that um then we also need to like strike a balance between what uh what we kind of add to the game and doesn't like enforce it to people you know um because if if we make something that's like too difficult to maintain when it comes to logic system then i think people would be a little bit discouraged so i think we need probably need to like draw a fine line and i see panna cotta in chat here too panna cot has made like a huge mod for logic systems in the game and i think that like sort of shows you know the deep end of of a logic system because you can do a lot of that stuff in that mod and i don't think we would like go that deep if we were to implement a logic system uh i think we would sort of need to find like middle ground um for like what makes sense in our game because it is it is like in other games where they have logic systems like it's really easy to get kind of like caught up in in the difficulty in those kind of systems and it's it's like for the people that want that that's a great addition but we always have to like sort of you know rationalize between everything we add to the game that makes sense for the entire game so um so yeah long story short i think it would be cool but it's also hard to say what be it would be a good like balance um i think so uh yeah
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 2 other times, as recently as April 2021 and as early as September 2020.</summary>
+
+* [April 6th, 2021 Livestream Q&A: Have you considered logic networks?](./transcriptions/yt-we87JUG_GTw.md) [https://www.youtube.com/watch?v=we87JUG_GTw](https://www.youtube.com/watch?v=we87JUG_GTw)
+* [September 1st, 2020 Livestream Q&A: Any chance of a Logic System in the game?](./transcriptions/yt-xojr_FfvDwk.md) [https://www.youtube.com/watch?v=xojr_FfvDwk](https://www.youtube.com/watch?v=xojr_FfvDwk)
 </details>
 
 ### [Q&A: Any plans to improve general performance?](./transcriptions/yt-zeyd67hqrB8.md) [https://www.youtube.com/watch?v=zeyd67hqrB8](https://www.youtube.com/watch?v=zeyd67hqrB8)
@@ -529,32 +760,6 @@ date: Last Modified
 * [September 1st, 2020 Livestream Q&A: Are we going to be able to get the Space Elevator Food Court?](./transcriptions/yt-YNogQuanQlc.md) [https://www.youtube.com/watch?v=YNogQuanQlc](https://www.youtube.com/watch?v=YNogQuanQlc)
 </details>
 
-### [Q&A: What about actual harbour & shipping?](./transcriptions/yt-rs49UPLHlGM.md) [https://www.youtube.com/watch?v=rs49UPLHlGM](https://www.youtube.com/watch?v=rs49UPLHlGM)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> what about actual harbor and shipping we don't really want to do uh aquatic stuff no because we um we sort of we sort of i think in a way we sort of rely on the water to be a boundary for the game and if we give you the opportunity to navigate that boundary like then it can't just be a boundary anymore like there needs to be we have to do something with it and that's not really in our plans so like it's not as it's not as simple as just adding a ship and a shipping dock uh to the game like we would have to do more to justify the existence of it and give it a place in the game so it's actually a lot that's a lot of work to do something like that and then if you have add like a shipping container or whatever then you know why is the wall like why is there no aquatic life like it doesn't make sense like so that just adds more work on top of that too
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 10 other times, as recently as February 2022 and as early as August 2020.</summary>
-
-* [February 8th, 2022 Livestream Q&A: Still wanna know when we're getting boats?](./transcriptions/yt-AKd0bKZW0ZE.md) [https://www.youtube.com/watch?v=AKd0bKZW0ZE](https://www.youtube.com/watch?v=AKd0bKZW0ZE)
-* [August 10th, 2021 Livestream Q&A: Boats?](./transcriptions/yt-Kkr3alKdef0.md) [https://www.youtube.com/watch?v=Kkr3alKdef0](https://www.youtube.com/watch?v=Kkr3alKdef0)
-* July 13th, 2021 Livestream Q&A: Ocean vessels? [https://www.youtube.com/watch?v=l7Pb9atvuRs](https://www.youtube.com/watch?v=l7Pb9atvuRs)
-* July 13th, 2021 Livestream Q&A: Any plans for boats? [https://www.youtube.com/watch?v=6a1lKPUaDaQ](https://www.youtube.com/watch?v=6a1lKPUaDaQ)
-* May 25th, 2021 Livestream Q&A: Adding boats, ports, or mass shipping around the coast? [https://www.youtube.com/watch?v=O_Ti41Q-JyE](https://www.youtube.com/watch?v=O_Ti41Q-JyE)
-* [May 4th, 2021 Livestream Q&A: Boats?](./transcriptions/yt-E1c7SsWhb0s.md) [https://www.youtube.com/watch?v=E1c7SsWhb0s](https://www.youtube.com/watch?v=E1c7SsWhb0s)
-* [April 27th, 2021 Livestream Q&A: Will Satisfactory ever have boats?](./transcriptions/yt-LVpl0f5g6ow.md) [https://www.youtube.com/watch?v=LVpl0f5g6ow](https://www.youtube.com/watch?v=LVpl0f5g6ow)
-* [September 22nd, 2020 Livestream Q&A: Boats will come?](./transcriptions/yt-33wha_duTqs.md) [https://www.youtube.com/watch?v=33wha_duTqs](https://www.youtube.com/watch?v=33wha_duTqs)
-* [August 25th, 2020 Livestream Q&A: If you add Trucks then add Boats?](./transcriptions/yt-A10cQzT6TpU.md) [https://www.youtube.com/watch?v=A10cQzT6TpU](https://www.youtube.com/watch?v=A10cQzT6TpU)
-* [August 25th, 2020 Livestream Q&A: We need Battleships?](./transcriptions/yt-VaEaP9IBe08.md) [https://www.youtube.com/watch?v=VaEaP9IBe08](https://www.youtube.com/watch?v=VaEaP9IBe08)
-</details>
-
 ### [Q&A: Angle Lights up?](./transcriptions/yt-Bh6ulAtlCKE.md) [https://www.youtube.com/watch?v=Bh6ulAtlCKE](https://www.youtube.com/watch?v=Bh6ulAtlCKE)
 
 <details>
@@ -573,32 +778,6 @@ date: Last Modified
 
 * [September 21st, 2021 Livestream Q&A: Any plans to let us point factory Lights up?](./transcriptions/yt-s5IkNJjLgUI.md) [https://www.youtube.com/watch?v=s5IkNJjLgUI](https://www.youtube.com/watch?v=s5IkNJjLgUI)
 * [May 28th, 2021 Dev Vlog Q&A: Are we going to be able to turn Lights upside down?](./transcriptions/yt-dyqOMITwLsY,500.75024999999994,597.456414.md) [https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=500&end=598](https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=500&end=598)
-</details>
-
-### [Q&A: Can we have more than one player in a Vehicle?](./transcriptions/yt-gcECX3h__YQ.md) [https://www.youtube.com/watch?v=gcECX3h__YQ](https://www.youtube.com/watch?v=gcECX3h__YQ)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> the obligatory question of whether or not we can have more than one player in a vehicle because the explorer has multiple seats so we could back in the day before the game came out and then someone decided that we shouldn't have that capabilities and then disabled it and then now we are of the belief that we don't want to do that anymore but if you ask anyone why no one knows so that's the status that's a really good summary of that actually yeah that's that's literally it it's like there was someone who told me like uh yeah that's right there was someone who's told me this story of like this person who would like when he's gonna cut his stakes he would always cut the tips of the steaks off and then cook it it's just like a weird thing and someone someone asked him like why do you do that why do you cut the tips off he's like i don't know like my mom always did it like oh okay so go to the mom and be like yo why do you always cut the tips of the steak she's like oh i don't really know my mom used to do it but okay so was it like the grandma i was like why i cut the tips off the steak so like because they didn't fit in the pan so they had to shred it so it's like i feel like this is the same case with the vehicles where it's like we've just inherited this belief we should just i i don't know i this you know what that might not be true mark might have good reasons but whatever we sort of figured out a lot of people are kind of just like i don't know it's i don't know and but no one wants to do it either but no one really knows why that's the thing right i don't know if we know whether or not it's like like a design decision or it was a technical decision or do we even know that i don't know because that is a really good like uh parable as to the situation because like you can no you can't ride in trains together but you can't can you can you have like if you have two trains on on like two locomotives on one train section can you have two people sit in each like train car oh yeah what happens there because like if it's a technical reason like why i mean it works in the train doesn't it kind of or maybe it's not because it's the same thing i don't know yeah i mean i don't know if it's a technical reason because we used to have it yeah i mean i mean but i mean but there could have still been a technical reason to not have it still like just because it technically worked back and it doesn't mean it works reliably for all reasons always but but you mean at this point it is a thing i don't know like we just have to right that's the answer we just someone's grandma knows the reason why that's what we your grandma we need to find out why there's only there's only one grandma on the planet he'll know the reason you could ask her quick before time runs out um i saw a question before that i wanted to answer but it's gone now so i guess we want to do that um sounds technical to me yeah for sure
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 10 other times, as recently as January 2022 and as early as August 2020.</summary>
-
-* [January 18th, 2022 Livestream Q&A: Jace, why can't we have two people in the Vehicles?](./transcriptions/yt-HcTmSD0xDhA.md) [https://www.youtube.com/watch?v=HcTmSD0xDhA](https://www.youtube.com/watch?v=HcTmSD0xDhA)
-* [November 9th, 2021 Livestream Q&A: Two Pioneers in one car?](./transcriptions/yt-Btds0y7oaoE.md) [https://www.youtube.com/watch?v=Btds0y7oaoE](https://www.youtube.com/watch?v=Btds0y7oaoE)
-* [September 14th, 2021 Livestream Q&A: Why can we not put a second person in the Buggy?](./transcriptions/yt-7k7lIdyQBvQ.md) [https://www.youtube.com/watch?v=7k7lIdyQBvQ](https://www.youtube.com/watch?v=7k7lIdyQBvQ)
-* [July 20th, 2021 Livestream Q&A: Any plans for Vehicles to hold more than one player?](./transcriptions/yt-49PWrYsgFtk.md) [https://www.youtube.com/watch?v=49PWrYsgFtk](https://www.youtube.com/watch?v=49PWrYsgFtk)
-* [July 13th, 2021 Livestream Q&A: Two-people Explorer, please](./transcriptions/yt-hnYfzcUnUQE.md) [https://www.youtube.com/watch?v=hnYfzcUnUQE](https://www.youtube.com/watch?v=hnYfzcUnUQE)
-* [May 18th, 2021 Livestream Q&A: Will there ever be two players per car?](./transcriptions/yt-MGcq63fWfYY.md) [https://www.youtube.com/watch?v=MGcq63fWfYY](https://www.youtube.com/watch?v=MGcq63fWfYY)
-* [May 11th, 2021 Livestream Q&A: What about allowing a second person in the buggy?](./transcriptions/yt-RENRn0EnoZE.md) [https://www.youtube.com/watch?v=RENRn0EnoZE](https://www.youtube.com/watch?v=RENRn0EnoZE)
-* [April 27th, 2021 Livestream Q&A: Two-person buggy?](./transcriptions/yt-IUQeH1sTCv0.md) [https://www.youtube.com/watch?v=IUQeH1sTCv0](https://www.youtube.com/watch?v=IUQeH1sTCv0)
-* August 11th, 2020 Livestream Q&A: Two-seated vehicles (Part 1) [https://clips.twitch.tv/OilySourBeaverAMPEnergy](https://clips.twitch.tv/OilySourBeaverAMPEnergy)
-* August 11th, 2020 Livestream Q&A: Two-seated vehicles (Part 2) [https://clips.twitch.tv/CooperativeFurtiveWasabiOhMyDog](https://clips.twitch.tv/CooperativeFurtiveWasabiOhMyDog)
 </details>
 
 ### [Q&A: Flying Vehicles?](./transcriptions/yt-RY7melOTU34.md) [https://www.youtube.com/watch?v=RY7melOTU34](https://www.youtube.com/watch?v=RY7melOTU34)
@@ -1139,27 +1318,6 @@ date: Last Modified
 * [March 24th, 2020 Livestream Q&A: Berry Farming?](./transcriptions/yt-2Cq3xmLN8sQ.md) [https://www.youtube.com/watch?v=2Cq3xmLN8sQ](https://www.youtube.com/watch?v=2Cq3xmLN8sQ)
 </details>
 
-### [Q&A: More Vehicles planned?](./transcriptions/yt-NdZjKiNaCRA.md) [https://www.youtube.com/watch?v=NdZjKiNaCRA](https://www.youtube.com/watch?v=NdZjKiNaCRA)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> more vehicles planned i don't know don't think so i don't think there are any plans for them
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 5 other times, as recently as November 2021 and as early as August 2020.</summary>
-
-* [November 16th, 2021 Livestream Q&A: Are you going to add more Vehicles to the game?](./transcriptions/yt-pe4P1er1TEk.md) [https://www.youtube.com/watch?v=pe4P1er1TEk](https://www.youtube.com/watch?v=pe4P1er1TEk)
-* [October 5th, 2021 Livestream Q&A: Plans to add more Vehicles?](./transcriptions/yt-OUZzVPXgtSM.md) [https://www.youtube.com/watch?v=OUZzVPXgtSM](https://www.youtube.com/watch?v=OUZzVPXgtSM)
-* [September 21st, 2021 Livestream Q&A: Will we get more Vehicles added to the game?](./transcriptions/yt-2OR5iK5zy7E.md) [https://www.youtube.com/watch?v=2OR5iK5zy7E](https://www.youtube.com/watch?v=2OR5iK5zy7E)
-* May 11th, 2021 Livestream Q&A: New Vehicles? [https://www.youtube.com/watch?v=Y3WBeGuXOeQ](https://www.youtube.com/watch?v=Y3WBeGuXOeQ)
-* August 18th, 2020 Livestream Q&A: Are there some other vehicles planned? [https://clips.twitch.tv/EsteemedNurturingHyenaWOOP](https://clips.twitch.tv/EsteemedNurturingHyenaWOOP)
-</details>
-
 ### [Q&A: Did you consider Docker support for Dedicated Servers?](./transcriptions/yt-2XzxkZF-fD0.md) [https://www.youtube.com/watch?v=2XzxkZF-fD0](https://www.youtube.com/watch?v=2XzxkZF-fD0)
 
 <details>
@@ -1506,43 +1664,6 @@ date: Last Modified
 * [February 2nd, 2021 Livestream Q&A: KFConsole exclusive?](./transcriptions/yt-nK8NUTMQVTM.md) [https://www.youtube.com/watch?v=nK8NUTMQVTM](https://www.youtube.com/watch?v=nK8NUTMQVTM)
 * [January 26th, 2021 Livestream Q&A: How are the talks with exclusivity on KFConsole?](./transcriptions/yt-hEs8MwzAoig.md) [https://www.youtube.com/watch?v=hEs8MwzAoig](https://www.youtube.com/watch?v=hEs8MwzAoig)
 * [January 12th, 2021 Livestream Q&A: Can we get a Console Release for the KFConsole?](./transcriptions/yt-P7R2hxi19pM.md) [https://www.youtube.com/watch?v=P7R2hxi19pM](https://www.youtube.com/watch?v=P7R2hxi19pM)
-</details>
-
-### [Q&A: Golf, when?](./transcriptions/yt-7izKxTtG3js.md) [https://www.youtube.com/watch?v=7izKxTtG3js](https://www.youtube.com/watch?v=7izKxTtG3js)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> golf when golf is also not happening you guys like golf has been rejected the only thing we've rejected apart from base defense and that stuff
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 3 other times, as recently as December 2021 and as early as November 2021.</summary>
-
-* [December 7th, 2021 Livestream Q&A: When's Golf?](./transcriptions/yt-hhZq5M3I8Io.md) [https://www.youtube.com/watch?v=hhZq5M3I8Io](https://www.youtube.com/watch?v=hhZq5M3I8Io)
-* [November 23rd, 2021 Livestream Q&A: Golf, when?](./transcriptions/yt-iVDRQg_aWpU,5188.73288641358,5195.520066.md) [https://youtube.com/clip/UgkxtKr3YShULCOATqNTspPVmbJ_hDuQi765](https://youtube.com/clip/UgkxtKr3YShULCOATqNTspPVmbJ_hDuQi765)
-* [November 9th, 2021 Livestream Q&A: Golf, when?](./transcriptions/yt-kYn6eCYtK6w.md) [https://www.youtube.com/watch?v=kYn6eCYtK6w](https://www.youtube.com/watch?v=kYn6eCYtK6w)
-</details>
-
-### [Q&A: Five-input machine that makes Coffee?](./transcriptions/yt-sgGhUaNdoZk.md) [https://www.youtube.com/watch?v=sgGhUaNdoZk](https://www.youtube.com/watch?v=sgGhUaNdoZk)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> five input machine that makes coffee that's insane
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 2 other times, as recently as May 2021 and as early as February 2021.</summary>
-
-* [May 25th, 2021 Livestream Q&A: Do you have plans to add a Coffee maker with Coffee nodes?](./transcriptions/yt-6QqajUpsshE.md) [https://www.youtube.com/watch?v=6QqajUpsshE](https://www.youtube.com/watch?v=6QqajUpsshE)
-* [February 23rd, 2021 Livestream Q&A: Could you please add a Coffee machine or even a Coffee production line?](./transcriptions/yt-XpBlPzRT3FA.md) [https://www.youtube.com/watch?v=XpBlPzRT3FA](https://www.youtube.com/watch?v=XpBlPzRT3FA)
 </details>
 
 ### [Q&A: Anything coming out on MacOS?](./transcriptions/yt-NE3mXE6o1wI.md) [https://www.youtube.com/watch?v=NE3mXE6o1wI](https://www.youtube.com/watch?v=NE3mXE6o1wI)
@@ -2870,37 +2991,6 @@ date: Last Modified
 * [May 11th, 2021 Livestream Q&A: Vehicle Lights?](./transcriptions/yt-GW8fdTPWY8Y.md) [https://www.youtube.com/watch?v=GW8fdTPWY8Y](https://www.youtube.com/watch?v=GW8fdTPWY8Y)
 </details>
 
-### [Q&A: Do you plan to increase the Belt speed to 780?](./transcriptions/yt-rpK_pbol3-0.md) [https://www.youtube.com/watch?v=rpK_pbol3-0](https://www.youtube.com/watch?v=rpK_pbol3-0)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> and plan increase the belt speed to 780. um we we haven't decided yet um i feel like i've answered this question every single stream for like a couple of weeks but the we're we're looking into uh there's a technical reason why we can't like just increase the speed all the time because there's a mathematical like precision issue with the way we're doing calculations on the train sorry not the train the conveyor belts so um we need to solve an issue with them first if we were to implement it and if we can't solve it then we can't add it um and if we can't solve it then we probably need to rebalance some other aspects of the game like for instance the minor mark c minor with the overclocking stuff and stuff like that so we'll see we don't know
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 15 other times, as recently as September 2021 and as early as September 2020.</summary>
-
-* [September 14th, 2021 Livestream Q&A: Will we get a Mk.6 Belt in the future?](./transcriptions/yt-CQNpIStn7SM.md) [https://www.youtube.com/watch?v=CQNpIStn7SM](https://www.youtube.com/watch?v=CQNpIStn7SM)
-* [August 24th, 2021 Livestream Q&A: Is there going to be a Mk.6 Belt for Mk.3 Miner at 250% clock speed?](./transcriptions/yt-x2VBWUAqpoQ.md) [https://www.youtube.com/watch?v=x2VBWUAqpoQ](https://www.youtube.com/watch?v=x2VBWUAqpoQ)
-* [May 18th, 2021 Livestream Q&A: Is there a technical reason you only made Mk.5 belts and not higher?](./transcriptions/yt-SiU_cgb0XhI.md) [https://www.youtube.com/watch?v=SiU_cgb0XhI](https://www.youtube.com/watch?v=SiU_cgb0XhI)
-* [May 4th, 2021 Livestream Q&A: Mk.6 Conveyor Belts?](./transcriptions/yt-9KayDn0JaEY.md) [https://www.youtube.com/watch?v=9KayDn0JaEY](https://www.youtube.com/watch?v=9KayDn0JaEY)
-* [April 27th, 2021 Livestream Q&A: Will there ever be a belt that goes faster, like a Mk.6 one?](./transcriptions/yt-cnyCqL7xl6U.md) [https://www.youtube.com/watch?v=cnyCqL7xl6U](https://www.youtube.com/watch?v=cnyCqL7xl6U)
-* [April 6th, 2021 Livestream Q&A: Mk.6 Belts?](./transcriptions/yt-sUed4aFcYLs.md) [https://www.youtube.com/watch?v=sUed4aFcYLs](https://www.youtube.com/watch?v=sUed4aFcYLs)
-* [March 30th, 2021 Livestream Q&A: Will there be a Mk.6 belt?](./transcriptions/yt-x2MeE6UR3o8.md) [https://www.youtube.com/watch?v=x2MeE6UR3o8](https://www.youtube.com/watch?v=x2MeE6UR3o8)
-* [March 30th, 2021 Livestream Q&A: Will there be Belt Mk.6?](./transcriptions/yt--fmlo0D_LXM.md) [https://www.youtube.com/watch?v=-fmlo0D_LXM](https://www.youtube.com/watch?v=-fmlo0D_LXM)
-* [March 23rd, 2021 Livestream Q&A: Any chance of faster belts in the future?](./transcriptions/yt-Rv5-4k_ZzWU.md) [https://www.youtube.com/watch?v=Rv5-4k_ZzWU](https://www.youtube.com/watch?v=Rv5-4k_ZzWU)
-* [February 2nd, 2021 Livestream Q&A: Mk.6 Belt in the next Update?](./transcriptions/yt-DpT2LNED0wk.md) [https://www.youtube.com/watch?v=DpT2LNED0wk](https://www.youtube.com/watch?v=DpT2LNED0wk)
-* [November 24th, 2020 Livestream Q&A: Mk.6 Belts coming?](./transcriptions/yt-H2WwaLFOI9Q.md) [https://www.youtube.com/watch?v=H2WwaLFOI9Q](https://www.youtube.com/watch?v=H2WwaLFOI9Q)
-* [November 10th, 2020 Livestream Q&A: Are Conveyor Belt Mk. 6 going to be a thing?](./transcriptions/yt-WbtzFVFOFMs.md) [https://www.youtube.com/watch?v=WbtzFVFOFMs](https://www.youtube.com/watch?v=WbtzFVFOFMs)
-* [November 3rd, 2020 Livestream Q&A: Any plans for better Belts for Pure nodes?](./transcriptions/yt-UxW9nGO9Ius.md) [https://www.youtube.com/watch?v=UxW9nGO9Ius](https://www.youtube.com/watch?v=UxW9nGO9Ius)
-* [November 3rd, 2020 Livestream Q&A: Broader Belts?](./transcriptions/yt-Y1ulbhgaSeU.md) [https://www.youtube.com/watch?v=Y1ulbhgaSeU](https://www.youtube.com/watch?v=Y1ulbhgaSeU)
-* [September 29th, 2020 Livestream Q&A: What about Mk.6 Belts?](./transcriptions/yt-NiBLAUCxIEs.md) [https://www.youtube.com/watch?v=NiBLAUCxIEs](https://www.youtube.com/watch?v=NiBLAUCxIEs)
-</details>
-
 ## [October 5th, 2021 Livestream](./2021-10-05.md)
 ### [Q&A: EU Merch?](./transcriptions/yt-dp0tlXo6TQ0.md) [https://www.youtube.com/watch?v=dp0tlXo6TQ0](https://www.youtube.com/watch?v=dp0tlXo6TQ0)
 
@@ -3446,28 +3536,6 @@ date: Last Modified
 * [November 17th, 2020 Livestream Q&A: Will Trees respawning being worked on?](./transcriptions/yt-59eW6SBaiNk.md) [https://www.youtube.com/watch?v=59eW6SBaiNk](https://www.youtube.com/watch?v=59eW6SBaiNk)
 </details>
 
-### [Q&A: Do you plan on making Tankers for Trucks & Trains?](./transcriptions/yt-vS1x7O20VDA.md) [https://www.youtube.com/watch?v=vS1x7O20VDA](https://www.youtube.com/watch?v=vS1x7O20VDA)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> uh do you plan on making tankers for trucks and trains uh trains i guess with tankers you mean like liquid uh thingamabobs so for trains there exists uh liquid freight cars i believe they're called um and i don't think we have any plans currently to make any for trucks i don't know uh the rationale behind that but that's that's what i got for you
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 6 other times, as recently as May 2021 and as early as August 2020.</summary>
-
-* [May 11th, 2021 Livestream Q&A: Can you add Trucks that carry liquids?](./transcriptions/yt-2EiZU9aWekQ.md) [https://www.youtube.com/watch?v=2EiZU9aWekQ](https://www.youtube.com/watch?v=2EiZU9aWekQ)
-* [April 6th, 2021 Livestream Q&A: Fluid Trucks?](./transcriptions/yt-lDJH-Q4E5Xk.md) [https://www.youtube.com/watch?v=lDJH-Q4E5Xk](https://www.youtube.com/watch?v=lDJH-Q4E5Xk)
-* [March 30th, 2021 Livestream Q&A: Will there be Trucks that can transport fluids?](./transcriptions/yt-sO7qhlAKq3U.md) [https://www.youtube.com/watch?v=sO7qhlAKq3U](https://www.youtube.com/watch?v=sO7qhlAKq3U)
-* [October 6th, 2020 Livestream Q&A: What do you think about adding some kind of Tanker Truck?](./transcriptions/yt-JCBQj8Ern20.md) [https://www.youtube.com/watch?v=JCBQj8Ern20](https://www.youtube.com/watch?v=JCBQj8Ern20)
-* [September 15th, 2020 Livestream Q&A: Any improvement for the Trucks so they can transport Fluids?](./transcriptions/yt-lNpwyJr7lZc.md) [https://www.youtube.com/watch?v=lNpwyJr7lZc](https://www.youtube.com/watch?v=lNpwyJr7lZc)
-* [August 25th, 2020 Livestream Q&A: Tanker Trucks?](./transcriptions/yt-IPmVdCgi2_A.md) [https://www.youtube.com/watch?v=IPmVdCgi2_A](https://www.youtube.com/watch?v=IPmVdCgi2_A)
-</details>
-
 ### [Q&A: Will there bottom-left island peninsula be included in the map?](./transcriptions/yt-NELPCpQX388.md) [https://www.youtube.com/watch?v=NELPCpQX388](https://www.youtube.com/watch?v=NELPCpQX388)
 
 <details>
@@ -3865,26 +3933,6 @@ date: Last Modified
 * [August 3rd, 2021 Livestream Q&A: What sort of size will Update 5 be compared to Update 4?](./transcriptions/yt-6szGN07pKus.md) [https://www.youtube.com/watch?v=6szGN07pKus](https://www.youtube.com/watch?v=6szGN07pKus)
 * July 6th, 2021 Livestream Q&A: Will Update 5 be bigger than Update 4? [https://www.youtube.com/watch?v=3Ad-13NANOg](https://www.youtube.com/watch?v=3Ad-13NANOg)
 * [June 15th, 2021 Livestream Q&A: Is Update 5 still shaping up to be the same size as Update 4?](./transcriptions/yt-i-QNHs4CWgc.md) [https://www.youtube.com/watch?v=i-QNHs4CWgc](https://www.youtube.com/watch?v=i-QNHs4CWgc)
-</details>
-
-### [Q&A: Let's get a bicycle?](./transcriptions/yt-0ajNSKl4azA.md) [https://www.youtube.com/watch?v=0ajNSKl4azA](https://www.youtube.com/watch?v=0ajNSKl4azA)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> let's get a bicycle we're not making a bicycle you've got the factory car what's wrong with that it's like the whole like mom i want a bicycle you've got a bicycle at home your bicycle at home is the factory car
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 4 other times, as recently as July 2021 and as early as February 2020.</summary>
-
-* [July 13th, 2021 Livestream Q&A: Will you add bikes?](./transcriptions/yt-rEjEJpuqsus.md) [https://www.youtube.com/watch?v=rEjEJpuqsus](https://www.youtube.com/watch?v=rEjEJpuqsus)
-* [September 15th, 2020 Livestream Q&A: Off-road Motorbike?](./transcriptions/yt-ZEFN3_Qz4Kg.md) [https://www.youtube.com/watch?v=ZEFN3_Qz4Kg](https://www.youtube.com/watch?v=ZEFN3_Qz4Kg)
-* [September 8th, 2020 Livestream Q&A: Dirt Bikes?](./transcriptions/yt-75OR9Co9l74.md) [https://www.youtube.com/watch?v=75OR9Co9l74](https://www.youtube.com/watch?v=75OR9Co9l74)
-* [February 11th, 2020 Livestream Q&A: Bikes in Satisfactory confirmed?](./transcriptions/yt-sh2faQb1DPQ.md) [https://www.youtube.com/watch?v=sh2faQb1DPQ](https://www.youtube.com/watch?v=sh2faQb1DPQ)
 </details>
 
 ## [August 3rd, 2021 Livestream](./2021-08-03.md)
@@ -4848,6 +4896,27 @@ date: Last Modified
 * [February 9th, 2021 Livestream Q&A: Is Update 4 the last update?](./transcriptions/yt-3fNjN1FjhPU.md) [https://www.youtube.com/watch?v=3fNjN1FjhPU](https://www.youtube.com/watch?v=3fNjN1FjhPU)
 </details>
 
+### [Q&A: Multiple Foundation placing instead of one-by-one?](./transcriptions/yt-YJLWX_-_trA.md) [https://www.youtube.com/watch?v=YJLWX_-_trA](https://www.youtube.com/watch?v=YJLWX_-_trA)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> um multiple foundation placing instead of one by one uh maybe in the future we haven't uh looked into that yet or maybe mark hasn't just hadn't made a decision yet but we haven't implemented anything yet
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 5 other times, as recently as January 2021 and as early as March 2020.</summary>
+
+* [January 19th, 2021 Livestream Q&A: Mass Foundation creation?](./transcriptions/yt-Z0H06UJbb4E.md) [https://www.youtube.com/watch?v=Z0H06UJbb4E](https://www.youtube.com/watch?v=Z0H06UJbb4E)
+* [January 12th, 2021 Livestream Q&A: Possibility of placing more than one foundation at once?](./transcriptions/yt-TdmIe3EM_B8.md) [https://www.youtube.com/watch?v=TdmIe3EM_B8](https://www.youtube.com/watch?v=TdmIe3EM_B8)
+* [December 15th, 2020 Livestream Q&A: Do you plan on adding mass foundation placement?](./transcriptions/yt-8Pm6KLejrOQ.md) [https://www.youtube.com/watch?v=8Pm6KLejrOQ](https://www.youtube.com/watch?v=8Pm6KLejrOQ)
+* July 21st, 2020 Livestream Q&A: Why no mass building? [https://clips.twitch.tv/SoftBovineArmadilloNerfRedBlaster](https://clips.twitch.tv/SoftBovineArmadilloNerfRedBlaster)
+* [March 24th, 2020 Livestream Q&A: Multiple Foundation creation?](./transcriptions/yt-zfdV2qIDHP4.md) [https://www.youtube.com/watch?v=zfdV2qIDHP4](https://www.youtube.com/watch?v=zfdV2qIDHP4)
+</details>
+
 ### [Q&A: Any mods you want to add to vanilla at some stage?](./transcriptions/yt-mH06GfDfnQc.md) [https://www.youtube.com/watch?v=mH06GfDfnQc](https://www.youtube.com/watch?v=mH06GfDfnQc)
 
 <details>
@@ -5334,26 +5403,6 @@ date: Last Modified
 * [October 20th, 2020 Livestream Q&A: The Trains lag a lot on Multiplayer?](./transcriptions/yt-AxQoNckHBhI.md) [https://www.youtube.com/watch?v=AxQoNckHBhI](https://www.youtube.com/watch?v=AxQoNckHBhI)
 * [September 1st, 2020 Livestream Q&A: Will you guys fix the connection loss with long loading with friends?](./transcriptions/yt-qOV_ydeQ07E.md) [https://www.youtube.com/watch?v=qOV_ydeQ07E](https://www.youtube.com/watch?v=qOV_ydeQ07E)
 * [August 25th, 2020 Livestream Q&A: When I play multiplayer and the train and host doesn't update correctly, is this a known bug?](./transcriptions/yt-btJHOT-HkO0.md) [https://www.youtube.com/watch?v=btJHOT-HkO0](https://www.youtube.com/watch?v=btJHOT-HkO0)
-</details>
-
-### [Q&A: Mass Foundation creation?](./transcriptions/yt-Z0H06UJbb4E.md) [https://www.youtube.com/watch?v=Z0H06UJbb4E](https://www.youtube.com/watch?v=Z0H06UJbb4E)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> mass foundation creation um mark talked about this a while ago like before holiday vacation um where we oh maybe this was a video that jace put out but we talked about essentially that we are kind of considering you know doing some kind of um not blueprints but like some kind of similar system or or something that makes sense in our game we don't think that blueprints by like the way the blueprints are like implemented in other games like factorio we don't think that makes sense in our game but we are looking into you know some kind of similar system to that to make late game building more enjoyable as you as you may know we're still done not done with the game there's still a lot of stuff to do with it and a lot of people you know think it's tedious when you reach the end game to not be able to like you know mass build and stuff like that and we we take that into consideration uh part of the game part of what makes this game fun too is like there's two problems math mass building uh there's one where the object constraint limit with the engine that makes if if we enable more people to build bigger things then they're gonna run into that wall much quicker that's one problem the other problem is that um a lot of aspects as to what makes the game fun is the fact that you are you know this pioneer and you're hand selecting stuff and building stuff building up this everything by yourself and like these huge huge bases are really achievements from our players doing all that stuff and uh it's it's scary to remove that aspect of the game because that can really like optimize out the fun another game but we know that it's pretty tedious for a lot of people to do that stuff so we are looking into ways to improve it but i don't know right now what our intentions are um but when we hear you like it's it's not a it's not like a yeah we hear you guys uh and i can't mention i can mention somebody mentioned like the the mods that exist we have looked at the mods and we don't really like the solution um that mods have made um because we feel like like i said before it really optimized like the mods the way they are built right now they optimize out the fun out of the game for us um the way we perceive it and also like i know a lot of people gonna be like no but a lot of people download the mods but our core game player base do not download those mods um so it's it's a it's a shitty answer but uh yeah it's it's like there's always that case when you know we have our opinions of what we don't want to do with the game and what we think are best for the game and then you know you guys definitely have good suggestions too it's not that we're saying like our no our mega brains are we're much since like our mega brains have the right answers and like this is how a game is supposed to be uh every design decision affects a lot of the game and uh it's it's um it's really tricky it's really tricky so that's why we're a bit hesitant to just like throw in you know multi build modes and stuff like that so yeah
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 4 other times, as recently as January 2021 and as early as March 2020.</summary>
-
-* [January 12th, 2021 Livestream Q&A: Possibility of placing more than one foundation at once?](./transcriptions/yt-TdmIe3EM_B8.md) [https://www.youtube.com/watch?v=TdmIe3EM_B8](https://www.youtube.com/watch?v=TdmIe3EM_B8)
-* [December 15th, 2020 Livestream Q&A: Do you plan on adding mass foundation placement?](./transcriptions/yt-8Pm6KLejrOQ.md) [https://www.youtube.com/watch?v=8Pm6KLejrOQ](https://www.youtube.com/watch?v=8Pm6KLejrOQ)
-* July 21st, 2020 Livestream Q&A: Why no mass building? [https://clips.twitch.tv/SoftBovineArmadilloNerfRedBlaster](https://clips.twitch.tv/SoftBovineArmadilloNerfRedBlaster)
-* [March 24th, 2020 Livestream Q&A: Multiple Foundation creation?](./transcriptions/yt-zfdV2qIDHP4.md) [https://www.youtube.com/watch?v=zfdV2qIDHP4](https://www.youtube.com/watch?v=zfdV2qIDHP4)
 </details>
 
 ### [Q&A: Can we get a Packager with outputs not stacked?](./transcriptions/yt-Cmhx-wt1pBg.md) [https://www.youtube.com/watch?v=Cmhx-wt1pBg](https://www.youtube.com/watch?v=Cmhx-wt1pBg)

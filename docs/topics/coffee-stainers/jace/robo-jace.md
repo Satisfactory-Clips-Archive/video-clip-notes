@@ -5,6 +5,18 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Coffee Stainers](../../../topics/coffee-stainers.md) > [Jace](../../../topics/coffee-stainers/jace.md) > Robo Jace
 
+## March 8th, 2022 Livestream
+* [Q&A: Can we get a Robo Jace download?](../../../transcriptions/yt-xGPHdhWU_5s.md) [https://www.youtube.com/watch?v=xGPHdhWU_5s](https://www.youtube.com/watch?v=xGPHdhWU_5s)
+* [Q&A: Is Jace okay?](../../../transcriptions/yt-y4Z1z86F5ks.md) [https://www.youtube.com/watch?v=y4Z1z86F5ks](https://www.youtube.com/watch?v=y4Z1z86F5ks)
+* [Q&A: I think Jace is muted?](../../../transcriptions/yt-0-fxCa2rBLM.md) [https://www.youtube.com/watch?v=0-fxCa2rBLM](https://www.youtube.com/watch?v=0-fxCa2rBLM)
+* [Community FYI: Jace isn't muted, he's on a 7-hour delay](../../../transcriptions/yt-uvOFM0JT8Rc.md) [https://www.youtube.com/watch?v=uvOFM0JT8Rc](https://www.youtube.com/watch?v=uvOFM0JT8Rc)
+* [Community FYI: 7 day delay](../../../transcriptions/yt-4V27indCMWw.md) [https://www.youtube.com/watch?v=4V27indCMWw](https://www.youtube.com/watch?v=4V27indCMWw)
+* [Community FYI: Jace needs to be upside down](../../../transcriptions/yt-pWAQJVitWSs.md) [https://www.youtube.com/watch?v=pWAQJVitWSs](https://www.youtube.com/watch?v=pWAQJVitWSs)
+* [Q&A: Did you get your pay raise?](../../../transcriptions/yt-kaQB-OZtK-8.md) [https://www.youtube.com/watch?v=kaQB-OZtK-8](https://www.youtube.com/watch?v=kaQB-OZtK-8)
+* [Community FYI: Jace is just an avatar](../../../transcriptions/yt-kr0a53d-3Rc.md) [https://www.youtube.com/watch?v=kr0a53d-3Rc](https://www.youtube.com/watch?v=kr0a53d-3Rc)
+* [Q&A: Did Jace lose a bet?](../../../transcriptions/yt-bSHbDITCOo8.md) [https://www.youtube.com/watch?v=bSHbDITCOo8](https://www.youtube.com/watch?v=bSHbDITCOo8)
+* [Community FYI: Jace is an AI](../../../transcriptions/yt-xpqgBscBpCA.md) [https://www.youtube.com/watch?v=xpqgBscBpCA](https://www.youtube.com/watch?v=xpqgBscBpCA)
+
 ## March 1st, 2022 Livestream
 * [State of Dave](../../../transcriptions/yt-YDoLYuMXXsk.md) [https://www.youtube.com/watch?v=YDoLYuMXXsk](https://www.youtube.com/watch?v=YDoLYuMXXsk)
 * [Snutt & Robo Jace Talk: State of Dave recap](../../../transcriptions/yt-YsNxIhayl9A.md) [https://www.youtube.com/watch?v=YsNxIhayl9A](https://www.youtube.com/watch?v=YsNxIhayl9A)

@@ -8,6 +8,8 @@ topics:
 # [July 6th, 2021 Livestream](../2021-07-06.md)
 ## Q&A: Do you plan to add more Tiers?
 https://www.youtube.com/watch?v=VaqszvQTlYA
+This question was possibly duplicated with a more recent answer: [March 8th, 2022 Livestream Q&A: How many more Tiers are planned in future development?](./yt-gg0SE9FSwfM.md) [https://www.youtube.com/watch?v=gg0SE9FSwfM](https://www.youtube.com/watch?v=gg0SE9FSwfM)
+
 
 ### Topics
 * [Features > Tiers](../topics/features/tiers.md)

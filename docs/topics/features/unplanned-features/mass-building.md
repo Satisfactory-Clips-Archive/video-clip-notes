@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Unplanned Features](../../../topics/features/unplanned-features.md) > Mass Building
 
+## March 8th, 2022 Livestream
+* [Q&A: Will you ever add a copy & paste function for factory Buildings?](../../../transcriptions/yt-ldx3rMaaM2c.md) [https://www.youtube.com/watch?v=ldx3rMaaM2c](https://www.youtube.com/watch?v=ldx3rMaaM2c)
+
 ## September 28th, 2021 Livestream
 * [Community FYI: We have Smart! Mod](../../../transcriptions/yt-UgLfd0Zjfr8.md) [https://www.youtube.com/watch?v=UgLfd0Zjfr8](https://www.youtube.com/watch?v=UgLfd0Zjfr8)
 

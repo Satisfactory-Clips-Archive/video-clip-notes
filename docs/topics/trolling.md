@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Trolling
 
+## March 8th, 2022 Livestream
+* [Community FYI: Just realised what CSS stands for](../transcriptions/yt-bG-EeTcctRs.md) [https://www.youtube.com/watch?v=bG-EeTcctRs](https://www.youtube.com/watch?v=bG-EeTcctRs)
+
 ## March 4th, 2022 Video
 * [Snutt & Jace Talk: Hot Potato RiQRoll](../transcriptions/yt-AbggpyCo1kc,136.00253333333333,160.69386666666668.md) [https://youtube.com/embed/AbggpyCo1kc?autoplay=1&start=136&end=161](https://youtube.com/embed/AbggpyCo1kc?autoplay=1&start=136&end=161)
 

@@ -21,6 +21,9 @@ date: Last Modified
 * [The Cycle](../topics/off-topic/the-cycle.md)
 * [Valheim](../topics/off-topic/valheim.md)
 
+## March 8th, 2022 Livestream
+* [Q&A: How far are you in Elden Ring?](../transcriptions/yt-bTdyh-xxgOU.md) [https://www.youtube.com/watch?v=bTdyh-xxgOU](https://www.youtube.com/watch?v=bTdyh-xxgOU)
+
 ## February 22nd, 2022 Livestream
 * [Community FYI: Spock is Star Trek, though](../transcriptions/yt-Zvj3uNH1a-M.md) [https://www.youtube.com/watch?v=Zvj3uNH1a-M](https://www.youtube.com/watch?v=Zvj3uNH1a-M)
 

@@ -8,6 +8,8 @@ topics:
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Q&A: When do we get Twitch Subscribe/Emote options?
 https://www.youtube.com/watch?v=1oMDAPZ2bZ4
+This question was possibly duplicated with a more recent answer: [March 8th, 2022 Livestream Q&A: Can you make Twitch Follower emotes?](./yt--bUqdNtHRG0.md) [https://www.youtube.com/watch?v=-bUqdNtHRG0](https://www.youtube.com/watch?v=-bUqdNtHRG0)
+
 
 ### Topics
 * [Features > Possible Features > Third-Party Service Integration](../topics/features/possible-features/third-party-service-integration.md)

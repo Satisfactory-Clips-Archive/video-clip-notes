@@ -8,7 +8,7 @@ topics:
 # [November 23rd, 2021 Livestream](../2021-11-23.md)
 ## Q&A: Golf, when?
 https://youtube.com/clip/UgkxtKr3YShULCOATqNTspPVmbJ_hDuQi765
-This question was possibly duplicated with a more recent answer: [December 14th, 2021 Livestream Q&A: Golf, when?](./yt-7izKxTtG3js.md) [https://www.youtube.com/watch?v=7izKxTtG3js](https://www.youtube.com/watch?v=7izKxTtG3js)
+This question was possibly duplicated with a more recent answer: [March 8th, 2022 Livestream Q&A: Any plans for any Golf?](./yt-IVZrSqBV5hM.md) [https://www.youtube.com/watch?v=IVZrSqBV5hM](https://www.youtube.com/watch?v=IVZrSqBV5hM)
 
 
 ### Topics

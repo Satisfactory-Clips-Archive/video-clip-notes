@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Equipment](../../../topics/features/equipment.md) > Customizer
 
+## March 8th, 2022 Livestream
+* [Q&A: Will you ever fix the colouring for the Stackable Pipe thingies?](../../../transcriptions/yt-6nJonEBDVkg.md) [https://www.youtube.com/watch?v=6nJonEBDVkg](https://www.youtube.com/watch?v=6nJonEBDVkg)
+* [Q&A: Can you middle-click to select an existing colour?](../../../transcriptions/yt-4OieGu7-174.md) [https://www.youtube.com/watch?v=4OieGu7-174](https://www.youtube.com/watch?v=4OieGu7-174)
+
 ## February 8th, 2022 Livestream
 * [Q&A: Can we get materials for half-pipes?](../../../transcriptions/yt-s1Tz9QOFyZc.md) [https://www.youtube.com/watch?v=s1Tz9QOFyZc](https://www.youtube.com/watch?v=s1Tz9QOFyZc)
 * [Q&A: Renamable Colour Swatches?](../../../transcriptions/yt--b06Z6Xxtbk.md) [https://www.youtube.com/watch?v=-b06Z6Xxtbk](https://www.youtube.com/watch?v=-b06Z6Xxtbk)
