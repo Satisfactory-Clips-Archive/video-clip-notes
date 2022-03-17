@@ -149,3 +149,6 @@ date: Last Modified
 
 ## September 15th, 2020 Livestream
 * [Q&A: Off-road Motorbike?](../../transcriptions/yt-ZEFN3_Qz4Kg.md) [https://www.youtube.com/watch?v=ZEFN3_Qz4Kg](https://www.youtube.com/watch?v=ZEFN3_Qz4Kg)
+
+## February 20th, 2019 Livestream
+* [Q&A: Will water affect items on the belts?](../../transcriptions/yt-CB9bSigNYH8,1955.775013,1966.289331.md) [https://www.youtube.com/clip/UgkxllVBScl700szLwvM-xqFXnadljxxfMJa](https://www.youtube.com/clip/UgkxllVBScl700szLwvM-xqFXnadljxxfMJa)

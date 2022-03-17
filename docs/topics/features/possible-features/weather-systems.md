@@ -86,6 +86,7 @@ date: Last Modified
 * [Jace Talk: Update to the Dune Desert](../../../transcriptions/yt-DsbHR1Nc8fw,221.864578,254.54595833333332.md) [https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=221&end=255](https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=221&end=255)
 
 ## February 20th, 2019 Livestream
+* [Q&A: Will water affect items on the belts?](../../../transcriptions/yt-CB9bSigNYH8,1955.775013,1966.289331.md) [https://www.youtube.com/clip/UgkxllVBScl700szLwvM-xqFXnadljxxfMJa](https://www.youtube.com/clip/UgkxllVBScl700szLwvM-xqFXnadljxxfMJa)
 * [Q&A: Weather confirmed?](../../../transcriptions/yt-CB9bSigNYH8,5234.485233,5238.267007.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5234&end=5239](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5234&end=5239)
 * [Q&A: Will there be seasons?](../../../transcriptions/yt-CB9bSigNYH8,5450.593416,5454.661311.md) [https://youtube.com/clip/Ugkxi7UT-Gx9o9u3BFi1Ibl7cy8iBJBql0L4](https://youtube.com/clip/Ugkxi7UT-Gx9o9u3BFi1Ibl7cy8iBJBql0L4)
 
