@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Easter Eggs
 
+## March 18th, 2022 Video
+* [Snutt & Jace Talk: Easter Eggs article](../transcriptions/yt-VBGakEZilwk,1293.2586333333334,1400.4991.md) [https://youtube.com/embed/VBGakEZilwk?autoplay=1&start=1293&end=1401](https://youtube.com/embed/VBGakEZilwk?autoplay=1&start=1293&end=1401)
+
 ## March 4th, 2022 Video
 * [Snutt & Jace Talk: Hot Potato Skate Park](../transcriptions/yt-AbggpyCo1kc,313.98033333333336,379.64593333333335.md) [https://youtube.com/embed/AbggpyCo1kc?autoplay=1&start=313&end=380](https://youtube.com/embed/AbggpyCo1kc?autoplay=1&start=313&end=380)
 

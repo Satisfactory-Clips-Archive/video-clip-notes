@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Creatures](../../../topics/environment/creatures.md) > Lizard Doggo
 
+## March 18th, 2022 Video
+* [Snutt & Jace Talk: Lizard Doggo article](../../../transcriptions/yt-VBGakEZilwk,1193.3588333333335,1293.2252666666666.md) [https://youtube.com/embed/VBGakEZilwk?autoplay=1&start=1193&end=1294](https://youtube.com/embed/VBGakEZilwk?autoplay=1&start=1193&end=1294)
+
 ## March 15th, 2022 Livestream
 * [Q&A: Will Lizard Doggo ever be improved so it can hang around your base?](../../../transcriptions/yt-CquWVMvEM2s.md) [https://www.youtube.com/watch?v=CquWVMvEM2s](https://www.youtube.com/watch?v=CquWVMvEM2s)
 

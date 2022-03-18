@@ -10,6 +10,10 @@ date: Last Modified
 * [Non Flying Bird](../../topics/environment/creatures/non-flying-bird.md)
 * [Space Giraffe-Tick-Penguin-Whale Thing](../../topics/environment/creatures/space-giraffe-tick-penguin-whale-thing.md)
 
+## March 18th, 2022 Video
+* [Snutt & Jace Talk: Stinger article](../../transcriptions/yt-VBGakEZilwk,157.69086666666666,396.4293666666667.md) [https://youtube.com/embed/VBGakEZilwk?autoplay=1&start=157&end=397](https://youtube.com/embed/VBGakEZilwk?autoplay=1&start=157&end=397)
+* [Snutt & Jace Talk: Lake Shark article](../../transcriptions/yt-VBGakEZilwk,514.8476666666667,563.7632.md) [https://youtube.com/clip/UgkxUEo-S03-1d33dALjpwfKrOQGwZotPioM](https://youtube.com/clip/UgkxUEo-S03-1d33dALjpwfKrOQGwZotPioM)
+
 ## March 15th, 2022 Livestream
 * [Q&A: Will we see more enemy types in the future or more weapons?](../../transcriptions/yt-zlyra4JQvW4.md) [https://www.youtube.com/watch?v=zlyra4JQvW4](https://www.youtube.com/watch?v=zlyra4JQvW4)
 

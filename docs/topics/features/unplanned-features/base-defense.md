@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Unplanned Features](../../../topics/features/unplanned-features.md) > Base Defense
 
+## March 18th, 2022 Video
+* [Snutt & Jace Talk: The Home Page](../../../transcriptions/yt-VBGakEZilwk,63.1631,90.75733333333334.md) [https://youtube.com/clip/UgkxsWX2hWEg6Lf-IGbHys_3J4Zhjx4nNNKe](https://youtube.com/clip/UgkxsWX2hWEg6Lf-IGbHys_3J4Zhjx4nNNKe)
+
 ## March 1st, 2022 Livestream
 * [Q&A: When Base Defense?](../../../transcriptions/yt-jydtfpmdc5Q.md) [https://www.youtube.com/watch?v=jydtfpmdc5Q](https://www.youtube.com/watch?v=jydtfpmdc5Q)
 

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildables](../../../topics/features/buildables.md) > Lights
 
+## March 18th, 2022 Video
+* [Snutt & Jace Talk: Unreleased Content article](../../../transcriptions/yt-VBGakEZilwk,589.7892,1115.8480666666667.md) [https://youtube.com/embed/VBGakEZilwk?autoplay=1&start=589&end=1116](https://youtube.com/embed/VBGakEZilwk?autoplay=1&start=589&end=1116)
+
 ## February 22nd, 2022 Livestream
 * [Q&A: Angle Lights up?](../../../transcriptions/yt-Bh6ulAtlCKE.md) [https://www.youtube.com/watch?v=Bh6ulAtlCKE](https://www.youtube.com/watch?v=Bh6ulAtlCKE)
 * [Q&A: Smaller ceiling factory Lights?](../../../transcriptions/yt-gTrZzs13bbA.md) [https://www.youtube.com/watch?v=gTrZzs13bbA](https://www.youtube.com/watch?v=gTrZzs13bbA)

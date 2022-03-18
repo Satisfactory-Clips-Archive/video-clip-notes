@@ -7,6 +7,13 @@ date: Last Modified
 * [Snutt Burger Time](../../topics/coffee-stainers/snutt/snutt-burger-time.md)
 * [Snutty Mays](../../topics/coffee-stainers/snutt/snutty-mays.md)
 
+## March 18th, 2022 Video
+* [Intro](../../transcriptions/yt-VBGakEZilwk,,63.129733333333334.md) [https://youtube.com/embed/VBGakEZilwk?autoplay=1&start=0&end=64](https://youtube.com/embed/VBGakEZilwk?autoplay=1&start=0&end=64)
+* [Snutt & Jace Talk: Coffee Stain Studios article](../../transcriptions/yt-VBGakEZilwk,444.1770666666667,514.8143.md) [https://youtube.com/embed/VBGakEZilwk?autoplay=1&start=444&end=515](https://youtube.com/embed/VBGakEZilwk?autoplay=1&start=444&end=515)
+* [Snutt & Jace Talk: Lake Shark article](../../transcriptions/yt-VBGakEZilwk,514.8476666666667,563.7632.md) [https://youtube.com/clip/UgkxUEo-S03-1d33dALjpwfKrOQGwZotPioM](https://youtube.com/clip/UgkxUEo-S03-1d33dALjpwfKrOQGwZotPioM)
+* [Snutt & Jace Talk: Unreleased Content article](../../transcriptions/yt-VBGakEZilwk,589.7892,1115.8480666666667.md) [https://youtube.com/embed/VBGakEZilwk?autoplay=1&start=589&end=1116](https://youtube.com/embed/VBGakEZilwk?autoplay=1&start=589&end=1116)
+* [Snutt & Jace Talk: Lizard Doggo article](../../transcriptions/yt-VBGakEZilwk,1193.3588333333335,1293.2252666666666.md) [https://youtube.com/embed/VBGakEZilwk?autoplay=1&start=1193&end=1294](https://youtube.com/embed/VBGakEZilwk?autoplay=1&start=1193&end=1294)
+
 ## March 15th, 2022 Livestream
 * [Q&A: Do either of you get Satis Merch, or do you have to get your own?](../../transcriptions/yt-sQJRb9leaPc.md) [https://www.youtube.com/watch?v=sQJRb9leaPc](https://www.youtube.com/watch?v=sQJRb9leaPc)
 

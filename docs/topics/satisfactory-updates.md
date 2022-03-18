@@ -18,6 +18,9 @@ date: Last Modified
 * [Teasers & Trailers](../topics/satisfactory-updates/teasers-and-trailers.md)
 * [World Update](../topics/satisfactory-updates/world-update.md)
 
+## March 18th, 2022 Video
+* [Snutt & Jace Talk: Patch Notes articles](../transcriptions/yt-VBGakEZilwk,563.7965666666666,589.7558333333334.md) [https://youtube.com/clip/Ugkx2sUtYS3klKIH1ZPc7si67PbKCdaMDNvX](https://youtube.com/clip/Ugkx2sUtYS3klKIH1ZPc7si67PbKCdaMDNvX)
+
 ## March 15th, 2022 Livestream
 * [Q&A: Have you considered doing ".5" Updates, building on existing Features?](../transcriptions/yt-ZxtWXoWW_Bw.md) [https://www.youtube.com/watch?v=ZxtWXoWW_Bw](https://www.youtube.com/watch?v=ZxtWXoWW_Bw)
 

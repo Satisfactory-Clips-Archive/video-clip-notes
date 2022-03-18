@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Tim
 
+## March 18th, 2022 Video
+* [Snutt & Jace Talk: Coffee Stain Studios article](../../transcriptions/yt-VBGakEZilwk,444.1770666666667,514.8143.md) [https://youtube.com/embed/VBGakEZilwk?autoplay=1&start=444&end=515](https://youtube.com/embed/VBGakEZilwk?autoplay=1&start=444&end=515)
+
 ## December 14th, 2021 Livestream
 * [Q&A: Did Tim make the Spiders?](../../transcriptions/yt-D6ntie5fsyU.md) [https://www.youtube.com/watch?v=D6ntie5fsyU](https://www.youtube.com/watch?v=D6ntie5fsyU)
 

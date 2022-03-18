@@ -20,6 +20,10 @@ date: Last Modified
 * [Xeno-Zapper](../../topics/features/equipment/xeno-zapper.md)
 * [Zip Lines](../../topics/features/equipment/zip-lines.md)
 
+## March 18th, 2022 Video
+* [Snutt & Jace Talk: Object Scanner article](../../transcriptions/yt-VBGakEZilwk,396.46273333333335,444.1437.md) [https://youtube.com/clip/UgkxFybmlO2ujKphxk9ccd-dB9_cjfm1b4qS](https://youtube.com/clip/UgkxFybmlO2ujKphxk9ccd-dB9_cjfm1b4qS)
+* [Snutt & Jace Talk: Unreleased Content article](../../transcriptions/yt-VBGakEZilwk,589.7892,1115.8480666666667.md) [https://youtube.com/embed/VBGakEZilwk?autoplay=1&start=589&end=1116](https://youtube.com/embed/VBGakEZilwk?autoplay=1&start=589&end=1116)
+
 ## March 15th, 2022 Livestream
 * [Q&A: Will we see more enemy types in the future or more weapons?](../../transcriptions/yt-zlyra4JQvW4.md) [https://www.youtube.com/watch?v=zlyra4JQvW4](https://www.youtube.com/watch?v=zlyra4JQvW4)
 

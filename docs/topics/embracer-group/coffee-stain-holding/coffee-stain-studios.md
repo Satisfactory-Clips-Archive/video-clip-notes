@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Embracer Group](../../../topics/embracer-group.md) > Coffee Stain Holding > Coffee Stain Studios
 
+## March 18th, 2022 Video
+* [Snutt & Jace Talk: Coffee Stain Studios article](../../../transcriptions/yt-VBGakEZilwk,444.1770666666667,514.8143.md) [https://youtube.com/embed/VBGakEZilwk?autoplay=1&start=444&end=515](https://youtube.com/embed/VBGakEZilwk?autoplay=1&start=444&end=515)
+
 ## March 8th, 2022 Livestream
 * [Community FYI: Just realised what CSS stands for](../../../transcriptions/yt-bG-EeTcctRs.md) [https://www.youtube.com/watch?v=bG-EeTcctRs](https://www.youtube.com/watch?v=bG-EeTcctRs)
 

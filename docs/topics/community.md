@@ -24,6 +24,9 @@ date: Last Modified
 * [Vilsol](../topics/community/vilsol.md)
 * [Wiki](../topics/community/wiki.md)
 
+## March 18th, 2022 Video
+* [Intro](../transcriptions/yt-VBGakEZilwk,,63.129733333333334.md) [https://youtube.com/embed/VBGakEZilwk?autoplay=1&start=0&end=64](https://youtube.com/embed/VBGakEZilwk?autoplay=1&start=0&end=64)
+
 ## March 15th, 2022 Livestream
 * [Q&A: Who's going to get the Content Creator Hot Potato Save File?](../transcriptions/yt-usmo3-7hS64.md) [https://www.youtube.com/watch?v=usmo3-7hS64](https://www.youtube.com/watch?v=usmo3-7hS64)
 

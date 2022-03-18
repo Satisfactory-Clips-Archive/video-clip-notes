@@ -14,6 +14,9 @@ date: Last Modified
 * [Update 5 Patch Notes Video](../../topics/satisfactory-updates/teasers-and-trailers/update-5-patch-notes-video.md)
 * [Update 5 Teasers](../../topics/satisfactory-updates/teasers-and-trailers/update-5-teasers.md)
 
+## March 18th, 2022 Video
+* [Snutt & Jace Talk: Unreleased Content article](../../transcriptions/yt-VBGakEZilwk,589.7892,1115.8480666666667.md) [https://youtube.com/embed/VBGakEZilwk?autoplay=1&start=589&end=1116](https://youtube.com/embed/VBGakEZilwk?autoplay=1&start=589&end=1116)
+
 ## November 30th, 2021 Livestream
 * [Q&A: How do you get Ghostwood Empire to do your Trailer music?](../../transcriptions/yt-frmO3fUX100.md) [https://www.youtube.com/watch?v=frmO3fUX100](https://www.youtube.com/watch?v=frmO3fUX100)
 

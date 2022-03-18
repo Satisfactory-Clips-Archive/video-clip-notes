@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Accessibility](../../../topics/features/accessibility.md) > Arachnophobia Mode
 
+## March 18th, 2022 Video
+* [Snutt & Jace Talk: Stinger article](../../../transcriptions/yt-VBGakEZilwk,157.69086666666666,396.4293666666667.md) [https://youtube.com/embed/VBGakEZilwk?autoplay=1&start=157&end=397](https://youtube.com/embed/VBGakEZilwk?autoplay=1&start=157&end=397)
+
 ## March 15th, 2022 Livestream
 * [Q&A: Whose cats were used for Arachnophobia Mode?](../../../transcriptions/yt-f2soWvNwS-g.md) [https://www.youtube.com/watch?v=f2soWvNwS-g](https://www.youtube.com/watch?v=f2soWvNwS-g)
 

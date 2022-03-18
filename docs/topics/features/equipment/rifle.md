@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Equipment](../../../topics/features/equipment.md) > Rifle
 
+## March 18th, 2022 Video
+* [Snutt & Jace Talk: Unreleased Content article](../../../transcriptions/yt-VBGakEZilwk,589.7892,1115.8480666666667.md) [https://youtube.com/embed/VBGakEZilwk?autoplay=1&start=589&end=1116](https://youtube.com/embed/VBGakEZilwk?autoplay=1&start=589&end=1116)
+
 ## November 9th, 2021 Livestream
 * [Q&A: Rifle doesn't hitscan any more?](../../../transcriptions/yt-iK1vpA1xkMk.md) [https://www.youtube.com/watch?v=iK1vpA1xkMk](https://www.youtube.com/watch?v=iK1vpA1xkMk)
 
