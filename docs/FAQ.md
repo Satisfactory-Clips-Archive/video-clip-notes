@@ -2,6 +2,198 @@
 title: "Frequently Asked Questions"
 date: Last Modified
 ---
+## [March 15th, 2022 Livestream](./2022-03-15.md)
+### [Q&A: Golf, when?](./transcriptions/yt-lnYChdXeOJQ.md) [https://www.youtube.com/watch?v=lnYChdXeOJQ](https://www.youtube.com/watch?v=lnYChdXeOJQ)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> so yes golf when never easy
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 7 other times, as recently as March 2022 and as early as November 2021.</summary>
+
+* [March 8th, 2022 Livestream Q&A: Any plans for any Golf?](./transcriptions/yt-IVZrSqBV5hM.md) [https://www.youtube.com/watch?v=IVZrSqBV5hM](https://www.youtube.com/watch?v=IVZrSqBV5hM)
+* March 8th, 2022 Livestream Q&A: Golf? [https://www.youtube.com/watch?v=IYiTB2D1hKk](https://www.youtube.com/watch?v=IYiTB2D1hKk)
+* [March 8th, 2022 Livestream Q&A: Is it true you guys are adding Golf?](./transcriptions/yt-5fao-wsp_CM.md) [https://www.youtube.com/watch?v=5fao-wsp_CM](https://www.youtube.com/watch?v=5fao-wsp_CM)
+* [December 14th, 2021 Livestream Q&A: Golf, when?](./transcriptions/yt-7izKxTtG3js.md) [https://www.youtube.com/watch?v=7izKxTtG3js](https://www.youtube.com/watch?v=7izKxTtG3js)
+* [December 7th, 2021 Livestream Q&A: When's Golf?](./transcriptions/yt-hhZq5M3I8Io.md) [https://www.youtube.com/watch?v=hhZq5M3I8Io](https://www.youtube.com/watch?v=hhZq5M3I8Io)
+* [November 23rd, 2021 Livestream Q&A: Golf, when?](./transcriptions/yt-iVDRQg_aWpU,5188.73288641358,5195.520066.md) [https://youtube.com/clip/UgkxtKr3YShULCOATqNTspPVmbJ_hDuQi765](https://youtube.com/clip/UgkxtKr3YShULCOATqNTspPVmbJ_hDuQi765)
+* [November 9th, 2021 Livestream Q&A: Golf, when?](./transcriptions/yt-kYn6eCYtK6w.md) [https://www.youtube.com/watch?v=kYn6eCYtK6w](https://www.youtube.com/watch?v=kYn6eCYtK6w)
+</details>
+
+### Q&A: Will Console ever come out? [https://www.youtube.com/watch?v=szP1t6ZFKR0](https://www.youtube.com/watch?v=szP1t6ZFKR0)
+
+<details>
+<summary>This question may have been asked previously at least 35 other times, as recently as January 2022 and as early as March 2019.</summary>
+
+* [January 18th, 2022 Livestream Q&A: When's Satisfactory due on Nintendo Switch?](./transcriptions/yt-et-JsEQbwt8.md) [https://www.youtube.com/watch?v=et-JsEQbwt8](https://www.youtube.com/watch?v=et-JsEQbwt8)
+* [December 7th, 2021 Livestream Q&A: Will the game ever come to console like XBox & PS5?](./transcriptions/yt-zusWeyW2GFU.md) [https://www.youtube.com/watch?v=zusWeyW2GFU](https://www.youtube.com/watch?v=zusWeyW2GFU)
+* [November 2nd, 2021 Livestream Q&A: Console release?](./transcriptions/yt-XphmFYhaeHc.md) [https://www.youtube.com/watch?v=XphmFYhaeHc](https://www.youtube.com/watch?v=XphmFYhaeHc)
+* [September 28th, 2021 Livestream Q&A: Do you think Satisfactory will come to Playstation or XBox?](./transcriptions/yt-AxoRJASWblg.md) [https://www.youtube.com/watch?v=AxoRJASWblg](https://www.youtube.com/watch?v=AxoRJASWblg)
+* [May 25th, 2021 Livestream Q&A: Can we expect a console release in 2022?](./transcriptions/yt-u1rxQ_Hwo-U.md) [https://www.youtube.com/watch?v=u1rxQ_Hwo-U](https://www.youtube.com/watch?v=u1rxQ_Hwo-U)
+* [May 11th, 2021 Livestream Q&A: When the full game's out, will you consider releasing for Console?](./transcriptions/yt-CmSDjJQUmIM.md) [https://www.youtube.com/watch?v=CmSDjJQUmIM](https://www.youtube.com/watch?v=CmSDjJQUmIM)
+* [April 6th, 2021 Livestream Q&A: Console port?](./transcriptions/yt-j1eVP7KViyA.md) [https://www.youtube.com/watch?v=j1eVP7KViyA](https://www.youtube.com/watch?v=j1eVP7KViyA)
+* [March 30th, 2021 Livestream Q&A: Will we ever make a Console version?](./transcriptions/yt-LWvp_I866M0.md) [https://www.youtube.com/watch?v=LWvp_I866M0](https://www.youtube.com/watch?v=LWvp_I866M0)
+* [March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary Q&A: Does this mean that Console is confirmed?](./transcriptions/yt-19QNZuFNN3Y.md) [https://www.youtube.com/watch?v=19QNZuFNN3Y](https://www.youtube.com/watch?v=19QNZuFNN3Y)
+* [February 23rd, 2021 Livestream Q&A: Any plans for bringing the game to Nintendo Switch?](./transcriptions/yt-rfeMtSPOadY.md) [https://www.youtube.com/watch?v=rfeMtSPOadY](https://www.youtube.com/watch?v=rfeMtSPOadY)
+* [February 9th, 2021 Livestream Q&A: Do you plan to release on Console one day?](./transcriptions/yt-mS_O_qnXJp0.md) [https://www.youtube.com/watch?v=mS_O_qnXJp0](https://www.youtube.com/watch?v=mS_O_qnXJp0)
+* [February 2nd, 2021 Livestream Q&A: Will Satisfactory be coming to Console?](./transcriptions/yt-ZljpvyZWlIA.md) [https://www.youtube.com/watch?v=ZljpvyZWlIA](https://www.youtube.com/watch?v=ZljpvyZWlIA)
+* [February 2nd, 2021 Livestream Q&A: Will the game ever be on Console?](./transcriptions/yt-G_pmJbKEhX4.md) [https://www.youtube.com/watch?v=G_pmJbKEhX4](https://www.youtube.com/watch?v=G_pmJbKEhX4)
+* [January 26th, 2021 Livestream Q&A: Release date on PS4?](./transcriptions/yt-xUdlPZfMgDw.md) [https://www.youtube.com/watch?v=xUdlPZfMgDw](https://www.youtube.com/watch?v=xUdlPZfMgDw)
+* [January 19th, 2021 Livestream Q&A: Could we expect the game on Consoles some day?](./transcriptions/yt-OVn94IC65fw.md) [https://www.youtube.com/watch?v=OVn94IC65fw](https://www.youtube.com/watch?v=OVn94IC65fw)
+* [November 24th, 2020 Livestream Q&A: When is Satisfactory coming to Switch?](./transcriptions/yt-tBDXG3OHt1c.md) [https://www.youtube.com/watch?v=tBDXG3OHt1c](https://www.youtube.com/watch?v=tBDXG3OHt1c)
+* [November 24th, 2020 Livestream Q&A: When is Satisfactory coming to N-Gage?](./transcriptions/yt-qL6dp9eUB58.md) [https://www.youtube.com/watch?v=qL6dp9eUB58](https://www.youtube.com/watch?v=qL6dp9eUB58)
+* [November 24th, 2020 Livestream Q&A: Is Console confirmed for Satisfactory?](./transcriptions/yt-KEJYlYO511Q.md) [https://www.youtube.com/watch?v=KEJYlYO511Q](https://www.youtube.com/watch?v=KEJYlYO511Q)
+* [November 17th, 2020 Livestream Q&A: Is Console support coming?](./transcriptions/yt-tqB7YuLM2Fs.md) [https://www.youtube.com/watch?v=tqB7YuLM2Fs](https://www.youtube.com/watch?v=tqB7YuLM2Fs)
+* [October 13th, 2020 Livestream Q&A: I want this to come to XBox Series X & Playstation 5](./transcriptions/yt-9NqrE4ASW9U.md) [https://www.youtube.com/watch?v=9NqrE4ASW9U](https://www.youtube.com/watch?v=9NqrE4ASW9U)
+* [October 1st, 2020 Q&A: Is there any possibility it might come to PS4 and Xbox?](./transcriptions/yt-rATcozDE25c,163.83033333333333,261.52793333333335.md) [https://youtube.com/embed/rATcozDE25c?autoplay=1&start=163&end=262](https://youtube.com/embed/rATcozDE25c?autoplay=1&start=163&end=262)
+* [September 15th, 2020 Livestream Q&A: Coming to Consoles?](./transcriptions/yt-09PyuqxekgU.md) [https://www.youtube.com/watch?v=09PyuqxekgU](https://www.youtube.com/watch?v=09PyuqxekgU)
+* [September 15th, 2020 Livestream Q&A: Are you planning on porting the game to PS4?](./transcriptions/yt-0Zv9Qjp2fHI.md) [https://www.youtube.com/watch?v=0Zv9Qjp2fHI](https://www.youtube.com/watch?v=0Zv9Qjp2fHI)
+* [September 8th, 2020 Livestream Q&A: Will this game come out on Console at some point?](./transcriptions/yt-pfD6p4g3fQ8.md) [https://www.youtube.com/watch?v=pfD6p4g3fQ8](https://www.youtube.com/watch?v=pfD6p4g3fQ8)
+* [September 1st, 2020 Livestream Q&A: Satisfactory on next-gen Consoles?](./transcriptions/yt-ed1gycRZji4.md) [https://www.youtube.com/watch?v=ed1gycRZji4](https://www.youtube.com/watch?v=ed1gycRZji4)
+* [August 25th, 2020 Livestream Q&A: Any chance to play Satisfactory on N64?](./transcriptions/yt-Ov7_XZoduDQ.md) [https://www.youtube.com/watch?v=Ov7_XZoduDQ](https://www.youtube.com/watch?v=Ov7_XZoduDQ)
+* August 18th, 2020 Livestream Q&A: Are there any plans to port the game to console? [https://clips.twitch.tv/CogentRichJackalHeyGirl](https://clips.twitch.tv/CogentRichJackalHeyGirl)
+* July 28th, 2020 Livestream Q&A: Satisfactory Console Release [https://clips.twitch.tv/FragileNimbleEggnogDatSheffy](https://clips.twitch.tv/FragileNimbleEggnogDatSheffy)
+* [June 8th, 2020 Livestream Q&A: Will there be Console versions of the game?](./transcriptions/yt-9fvWGq0_Cv0.md) [https://www.youtube.com/watch?v=9fvWGq0_Cv0](https://www.youtube.com/watch?v=9fvWGq0_Cv0)
+* [March 24th, 2020 Livestream Q&A: Satisfactory on the next Console generation?](./transcriptions/yt-9bez-QIVKLA.md) [https://www.youtube.com/watch?v=9bez-QIVKLA](https://www.youtube.com/watch?v=9bez-QIVKLA)
+* [February 11th, 2020 Livestream Q&A: Is Satisfactory going to be on PS5/PS6?](./transcriptions/yt-1v4Mho5Uh9I.md) [https://www.youtube.com/watch?v=1v4Mho5Uh9I](https://www.youtube.com/watch?v=1v4Mho5Uh9I)
+* [January 22nd, 2020 Livestream Q&A: Console?](./transcriptions/yt-k-7WiSX0BYM.md) [https://www.youtube.com/watch?v=k-7WiSX0BYM](https://www.youtube.com/watch?v=k-7WiSX0BYM)
+* [December 19th, 2019 Livestream Q&A: Satisfactory on Switch?](./transcriptions/yt-QVQZ2qgtTsQ.md) [https://www.youtube.com/watch?v=QVQZ2qgtTsQ](https://www.youtube.com/watch?v=QVQZ2qgtTsQ)
+* [March 9th, 2019 Livestream Q&A: Will you create Console version of Satisfactory?](./transcriptions/yt-_MGUbEI247M.md) [https://www.youtube.com/watch?v=_MGUbEI247M](https://www.youtube.com/watch?v=_MGUbEI247M)
+* [March 9th, 2019 Livestream Q&A: Any scope of the game being on consoles?](./transcriptions/yt-bsTq_WiSeCY.md) [https://www.youtube.com/watch?v=bsTq_WiSeCY](https://www.youtube.com/watch?v=bsTq_WiSeCY)
+</details>
+
+### [Q&A: Music on Spotify?](./transcriptions/yt-ffAoXn7HynE.md) [https://www.youtube.com/watch?v=ffAoXn7HynE](https://www.youtube.com/watch?v=ffAoXn7HynE)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> music on spotify i think we might do that at some point but right now i think we're sort of waiting until we have all of our music locked down before we put it up i believe that's the situation with that yeah
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 8 other times, as recently as August 2021 and as early as January 2020.</summary>
+
+* [August 31st, 2021 Livestream Q&A: Can we get a Satisfactory OST available on Spotify?](./transcriptions/yt-uTcx8PYGUXU.md) [https://www.youtube.com/watch?v=uTcx8PYGUXU](https://www.youtube.com/watch?v=uTcx8PYGUXU)
+* [August 3rd, 2021 Livestream Q&A: Will the soundtrack be released on Spotify?](./transcriptions/yt-HCcWGBc_lDo.md) [https://www.youtube.com/watch?v=HCcWGBc_lDo](https://www.youtube.com/watch?v=HCcWGBc_lDo)
+* [March 23rd, 2021 Livestream Q&A: Will the game Soundtrack come to Spotify soon?](./transcriptions/yt-bBS_pCVpXwY.md) [https://www.youtube.com/watch?v=bBS_pCVpXwY](https://www.youtube.com/watch?v=bBS_pCVpXwY)
+* [March 9th, 2021 Livestream Q&A: Any plans on bringing music tracks to Spotify & YouTube?](./transcriptions/yt-K-yARAF955w.md) [https://www.youtube.com/watch?v=K-yARAF955w](https://www.youtube.com/watch?v=K-yARAF955w)
+* [March 2nd, 2021 Livestream Q&A: Were you going to put the game music on Spotify?](./transcriptions/yt-Ba6lc4pqHFo.md) [https://www.youtube.com/watch?v=Ba6lc4pqHFo](https://www.youtube.com/watch?v=Ba6lc4pqHFo)
+* [September 22nd, 2020 Livestream Q&A: Is the OST on Spotify?](./transcriptions/yt-iCN324N905o.md) [https://www.youtube.com/watch?v=iCN324N905o](https://www.youtube.com/watch?v=iCN324N905o)
+* [September 8th, 2020 Livestream Q&A: Releasing the Soundtrack on Spotify?](./transcriptions/yt-zoDYA4Y9jdE.md) [https://www.youtube.com/watch?v=zoDYA4Y9jdE](https://www.youtube.com/watch?v=zoDYA4Y9jdE)
+* [January 22nd, 2020 Livestream Q&A: Are there plans to put the OST on Spotify?](./transcriptions/yt-z4cypywhIks.md) [https://www.youtube.com/watch?v=z4cypywhIks](https://www.youtube.com/watch?v=z4cypywhIks)
+</details>
+
+### [Q&A: Circle Foundation without Mods?](./transcriptions/yt-As8zQkJUXXE.md) [https://www.youtube.com/watch?v=As8zQkJUXXE](https://www.youtube.com/watch?v=As8zQkJUXXE)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> uh circle foundation without mods that would be cool um but i don't know if we've planned for that but uh i think there's a qa side ticket for it please upload it so we have more leverage as like what we prioritize there
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 6 other times, as recently as November 2021 and as early as November 2020.</summary>
+
+* [November 9th, 2021 Livestream Q&A: Will there ever be rounded Foundations?](./transcriptions/yt-B6jTKTB_WmE.md) [https://www.youtube.com/watch?v=B6jTKTB_WmE](https://www.youtube.com/watch?v=B6jTKTB_WmE)
+* [April 27th, 2021 Livestream Q&A: Why are we not upvoting circular Foundations?](./transcriptions/yt-n1fJJTUeKMM.md) [https://www.youtube.com/watch?v=n1fJJTUeKMM](https://www.youtube.com/watch?v=n1fJJTUeKMM)
+* [March 30th, 2021 Livestream Q&A: Curved Walls, Windows, and Foundations?](./transcriptions/yt-gBErG8jzRtI.md) [https://www.youtube.com/watch?v=gBErG8jzRtI](https://www.youtube.com/watch?v=gBErG8jzRtI)
+* [November 17th, 2020 Livestream Q&A: Circular Foundations?](./transcriptions/yt-5snNwUqWAxA.md) [https://www.youtube.com/watch?v=5snNwUqWAxA](https://www.youtube.com/watch?v=5snNwUqWAxA)
+* [November 10th, 2020 Livestream Q&A: Is there any possibility you guys will be add the making of circles?](./transcriptions/yt-40bnpFI8SqE.md) [https://www.youtube.com/watch?v=40bnpFI8SqE](https://www.youtube.com/watch?v=40bnpFI8SqE)
+* [November 3rd, 2020 Livestream Q&A: Can we get Circular Foundations?](./transcriptions/yt-4sKy5-TJVKY.md) [https://www.youtube.com/watch?v=4sKy5-TJVKY](https://www.youtube.com/watch?v=4sKy5-TJVKY)
+</details>
+
+### [Q&A: Character Customisation?](./transcriptions/yt-1a-I7ds_Ipc.md) [https://www.youtube.com/watch?v=1a-I7ds_Ipc](https://www.youtube.com/watch?v=1a-I7ds_Ipc)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> uh character customization question mark that's a good question mark i don't know uh if you want to see character customization enough with it on the key website
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 21 other times, as recently as February 2022 and as early as February 2019.</summary>
+
+* [February 8th, 2022 Livestream Q&A: Can we customise the Pioneer in the future for Multiplayer?](./transcriptions/yt-3gdkRbsLRUo.md) [https://www.youtube.com/watch?v=3gdkRbsLRUo](https://www.youtube.com/watch?v=3gdkRbsLRUo)
+* [August 24th, 2021 Livestream Q&A: Character Customisation?](./transcriptions/yt-5wiYaEfx0ro.md) [https://www.youtube.com/watch?v=5wiYaEfx0ro](https://www.youtube.com/watch?v=5wiYaEfx0ro)
+* [July 13th, 2021 Livestream Q&A: Any plans for Character Customisation?](./transcriptions/yt-bC4-mnWrSQM.md) [https://www.youtube.com/watch?v=bC4-mnWrSQM](https://www.youtube.com/watch?v=bC4-mnWrSQM)
+* [June 15th, 2021 Livestream Q&A: Any plans to change the Pioneer trim colour so you can differentiate each other on Multiplayer?](./transcriptions/yt-ox4zHZlziCg.md) [https://www.youtube.com/watch?v=ox4zHZlziCg](https://www.youtube.com/watch?v=ox4zHZlziCg)
+* [May 25th, 2021 Livestream Q&A: Will avatar skins be added to the game?](./transcriptions/yt-imDJ1KxXSgM.md) [https://www.youtube.com/watch?v=imDJ1KxXSgM](https://www.youtube.com/watch?v=imDJ1KxXSgM)
+* [April 27th, 2021 Livestream Q&A: Character Customisation?](./transcriptions/yt-pju6G7NEuq8.md) [https://www.youtube.com/watch?v=pju6G7NEuq8](https://www.youtube.com/watch?v=pju6G7NEuq8)
+* [March 30th, 2021 Livestream Q&A: New Suit Skins?](./transcriptions/yt-1ekgStY-lEc.md) [https://www.youtube.com/watch?v=1ekgStY-lEc](https://www.youtube.com/watch?v=1ekgStY-lEc)
+* [March 9th, 2021 Livestream Q&A: Will there be at some point Character Customisation?](./transcriptions/yt-fy4_awSdvk0.md) [https://www.youtube.com/watch?v=fy4_awSdvk0](https://www.youtube.com/watch?v=fy4_awSdvk0)
+* [February 9th, 2021 Livestream Q&A: When will we be able to get different character customisations?](./transcriptions/yt-x55_Zt2OLQ4.md) [https://www.youtube.com/watch?v=x55_Zt2OLQ4](https://www.youtube.com/watch?v=x55_Zt2OLQ4)
+* [January 12th, 2021 Livestream Q&A: New skins?](./transcriptions/yt--IYD97gEt4w.md) [https://www.youtube.com/watch?v=-IYD97gEt4w](https://www.youtube.com/watch?v=-IYD97gEt4w)
+* [December 17th, 2020 Q&A: Character customization?](./transcriptions/yt--JXPsTlJIiI,911.9110000000001,928.7611666666667.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=911&end=929](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=911&end=929)
+* December 15th, 2020 Livestream Q&A: Are we adding new skins? [https://www.youtube.com/watch?v=w2zJd6F1Udw](https://www.youtube.com/watch?v=w2zJd6F1Udw)
+* [October 20th, 2020 Livestream Q&A: Are there plans for Character Customisation?](./transcriptions/yt-LAR8rVCHVmw.md) [https://www.youtube.com/watch?v=LAR8rVCHVmw](https://www.youtube.com/watch?v=LAR8rVCHVmw)
+* [September 8th, 2020 Livestream Q&A: Are you going to be able to change characters?](./transcriptions/yt-GymA7otvYYo.md) [https://www.youtube.com/watch?v=GymA7otvYYo](https://www.youtube.com/watch?v=GymA7otvYYo)
+* [September 8th, 2020 Livestream Q&A: Cosmetics for the Pioneer or even Lizard Doggo?](./transcriptions/yt-wFKmvfIOuCY.md) [https://www.youtube.com/watch?v=wFKmvfIOuCY](https://www.youtube.com/watch?v=wFKmvfIOuCY)
+* [August 25th, 2020 Livestream Q&A: Let me personalise my character?](./transcriptions/yt-QyKyNbHPaHg.md) [https://www.youtube.com/watch?v=QyKyNbHPaHg](https://www.youtube.com/watch?v=QyKyNbHPaHg)
+* August 25th, 2020 Livestream Q&A: Let me personalise my character? [https://clips.twitch.tv/CharmingRespectfulFlyFUNgineer](https://clips.twitch.tv/CharmingRespectfulFlyFUNgineer)
+* August 18th, 2020 Livestream Q&A: Additional Suit Variations in the Coupon Shop ? [https://clips.twitch.tv/CourteousMotionlessWrenMcaT](https://clips.twitch.tv/CourteousMotionlessWrenMcaT)
+* [June 8th, 2020 Livestream Q&A: Player skin customisation?](./transcriptions/yt-oJzUWOdpQ5o.md) [https://www.youtube.com/watch?v=oJzUWOdpQ5o](https://www.youtube.com/watch?v=oJzUWOdpQ5o)
+* [May 15th, 2020 Q&A: Customisation of our characters?](./transcriptions/yt-NlIVwoRqjVk,987.6199666666666,994.1932.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=987&end=995](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=987&end=995)
+* [February 6th, 2019 Livestream Q&A: Will there be any cosmetics available?](./transcriptions/yt-Dtm6xIj-wM4,3923.903388,3977.117038.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3923&end=3978](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3923&end=3978)
+</details>
+
+### [Q&A: Ratio Splitters?](./transcriptions/yt-uSTCJe2TORM.md) [https://www.youtube.com/watch?v=uSTCJe2TORM](https://www.youtube.com/watch?v=uSTCJe2TORM)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> uh will it be possible to set ratios of items for programmable splitters so a lot of people uh request that and like so it's like that's one of those things where you know it could be good it seems like a natural choice and maybe it's a thing that we'll end up doing but there's a pretty strong argument against it as well and that is that that removes that gameplay element completely basically it's really really overpowered if we if we let you just set ratios um it's the same kind of thing with like how we were hesitant to add mass uh product uh mass building and like you know there's zooping now but that's still constrained to a certain uh limit because it takes away large parts of the gameplay and i would say ratio is even more so because it takes away some of the challenge and the problem solving and the way you need to think about how you use space it gets rid of all of that uh i like i know that's that's hard to do but that's the point like that's the challenge right so like that's the argument to not do it uh or one of the arguments to not do it yeah it's um obviously it's one of those like contenders for like it it could optimize away the fun of the game yeah it's always like a for a game designer there's there's always the thing like if you if you as a player can optimize away the fun out of the game you will always do it uh you would always take the shorter path um lippora gates here i zoom twice on sundays whether i need it or not wow happy for you yeah i'm happy for you um but uh yeah like it's it's certainly a thing that we what not me and jay specifically but like we have that internal discussion so we will see what comes out of it we'll see and we'll keep you guys updated twice on sundays this can make a good pizza true yeah like my galleon points out here as well like why do pipes have valves but like the the belts don't have a similar uh feature and and the pipe the fluid mechanics are more complex in the game um so they they have more urgency than being able to set ratios have um there's there's yeah there's this less like what's it called like abstraction layer of like understanding of of the the piping and what it actually happens when you split it and sometimes like the back the one thing actually that's brought up in this video by total and the medallions um guide as well is like something that not a lot of people realize is that there's there's a concept of like back uh slashing backflow um and the the the thing was that the only way people found like really consistently to get around that was to put pumps like on horizontal lines to stop that because pumps stop uh backflow and then since that already exists in the game it also made more sense for us to like all right but well if people are kind of like working around that already and we can't remove pumps and we can't really remove that feature then it makes more sense as well to have valves um yeah so there's like a few more like they're not really comparable is what i'm trying to get here uh because there's more to it than than just ratio splitting when it comes to valves they serve multiple purposes
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 9 other times, as recently as December 2021 and as early as January 2020.</summary>
+
+* [December 7th, 2021 Livestream Q&A: Are there plans for better Splitters, like with configurable ratios?](./transcriptions/yt-dI37z27JZfw.md) [https://www.youtube.com/watch?v=dI37z27JZfw](https://www.youtube.com/watch?v=dI37z27JZfw)
+* [August 3rd, 2021 Livestream Q&A: Has anyone asked about Splitter Ratios before?](./transcriptions/yt-kvuii0bRjv4.md) [https://www.youtube.com/watch?v=kvuii0bRjv4](https://www.youtube.com/watch?v=kvuii0bRjv4)
+* [July 6th, 2021 Livestream Q&A: Can we please make Programmable Splitter ratio outputs?](./transcriptions/yt-ZxdCngTCah4.md) [https://www.youtube.com/watch?v=ZxdCngTCah4](https://www.youtube.com/watch?v=ZxdCngTCah4)
+* [June 22nd, 2021 Livestream Q&A: Why can't we have custom ratio Splitters?](./transcriptions/yt-ripT8MydIjo.md) [https://www.youtube.com/watch?v=ripT8MydIjo](https://www.youtube.com/watch?v=ripT8MydIjo)
+* [April 20th, 2021 Livestream Q&A: The Ratio Splitter?](./transcriptions/yt-cBwAofHv-6o.md) [https://www.youtube.com/watch?v=cBwAofHv-6o](https://www.youtube.com/watch?v=cBwAofHv-6o)
+* April 6th, 2021 Livestream Q&A: Ratio Splitters? [https://www.youtube.com/watch?v=A26wW5I25T8](https://www.youtube.com/watch?v=A26wW5I25T8)
+* [January 19th, 2021 Livestream Q&A: Are you going to add more functionality to the Programmable Splitters?](./transcriptions/yt-PGyc_YN4DaM.md) [https://www.youtube.com/watch?v=PGyc_YN4DaM](https://www.youtube.com/watch?v=PGyc_YN4DaM)
+* [December 15th, 2020 Livestream Q&A: Any thought to allow Splitters to regulate the flow of items per minute?](./transcriptions/yt-nSC4C_h1ONo.md) [https://www.youtube.com/watch?v=nSC4C_h1ONo](https://www.youtube.com/watch?v=nSC4C_h1ONo)
+* [January 22nd, 2020 Livestream Q&A: What do you think about Splitters that can split a certain percentage of the Belts?](./transcriptions/yt-GiOZBqdfrAQ.md) [https://www.youtube.com/watch?v=GiOZBqdfrAQ](https://www.youtube.com/watch?v=GiOZBqdfrAQ)
+</details>
+
+### [Q&A: Will you ever fix the Blades glitching through the Hypertubes?](./transcriptions/yt-RSRBm3ZiLKg.md) [https://www.youtube.com/watch?v=RSRBm3ZiLKg](https://www.youtube.com/watch?v=RSRBm3ZiLKg)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> uh i saw a really good question here uh i should have lost it actually i actually lost it i'm not kidding here one second uh will you ever fix the blades glitching through the hyper2 bug yes we will 100 fix that i feel that is an embarrassing bug that's been in the game for too long but it's also like not really anything game breaking or like you know it's it's an annoying bug but it's not like prohibiting anything in the game it just visually looks weird but i think we will get around to that i mean it feels weird if we didn't
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 2 other times, as recently as August 2021 and as early as March 2021.</summary>
+
+* [August 17th, 2021 Livestream Q&A: Same bug as the equipment that flies in the tube?](./transcriptions/yt-r7lFsWlRIPE.md) [https://www.youtube.com/watch?v=r7lFsWlRIPE](https://www.youtube.com/watch?v=r7lFsWlRIPE)
+* [March 30th, 2021 Livestream Q&A: When are my Blade Runners going to stay on my character while in Hyper Tubes?](./transcriptions/yt-gXm3WrzRrUU.md) [https://www.youtube.com/watch?v=gXm3WrzRrUU](https://www.youtube.com/watch?v=gXm3WrzRrUU)
+</details>
+
 ## [March 8th, 2022 Livestream](./2022-03-08.md)
 ### [Q&A: Will you add Trucks with interchangeable trailers?](./transcriptions/yt-FI1njD1Kygo.md) [https://www.youtube.com/watch?v=FI1njD1Kygo](https://www.youtube.com/watch?v=FI1njD1Kygo)
 
@@ -64,28 +256,6 @@ date: Last Modified
 
 * [February 22nd, 2022 Livestream Q&A: Is an Easter event possible?](./transcriptions/yt-LQgMkjce5dM.md) [https://www.youtube.com/watch?v=LQgMkjce5dM](https://www.youtube.com/watch?v=LQgMkjce5dM)
 * [January 25th, 2022 Livestream Q&A: FICS🐰EASTER?](./transcriptions/yt-GpEsSq_PkMA.md) [https://www.youtube.com/watch?v=GpEsSq_PkMA](https://www.youtube.com/watch?v=GpEsSq_PkMA)
-</details>
-
-### [Q&A: Any plans for any Golf?](./transcriptions/yt-IVZrSqBV5hM.md) [https://www.youtube.com/watch?v=IVZrSqBV5hM](https://www.youtube.com/watch?v=IVZrSqBV5hM)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> any plans for any golf to be added no we already said no
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 6 other times, as recently as March 2022 and as early as November 2021.</summary>
-
-* March 8th, 2022 Livestream Q&A: Golf? [https://www.youtube.com/watch?v=IYiTB2D1hKk](https://www.youtube.com/watch?v=IYiTB2D1hKk)
-* [March 8th, 2022 Livestream Q&A: Is it true you guys are adding Golf?](./transcriptions/yt-5fao-wsp_CM.md) [https://www.youtube.com/watch?v=5fao-wsp_CM](https://www.youtube.com/watch?v=5fao-wsp_CM)
-* [December 14th, 2021 Livestream Q&A: Golf, when?](./transcriptions/yt-7izKxTtG3js.md) [https://www.youtube.com/watch?v=7izKxTtG3js](https://www.youtube.com/watch?v=7izKxTtG3js)
-* [December 7th, 2021 Livestream Q&A: When's Golf?](./transcriptions/yt-hhZq5M3I8Io.md) [https://www.youtube.com/watch?v=hhZq5M3I8Io](https://www.youtube.com/watch?v=hhZq5M3I8Io)
-* [November 23rd, 2021 Livestream Q&A: Golf, when?](./transcriptions/yt-iVDRQg_aWpU,5188.73288641358,5195.520066.md) [https://youtube.com/clip/UgkxtKr3YShULCOATqNTspPVmbJ_hDuQi765](https://youtube.com/clip/UgkxtKr3YShULCOATqNTspPVmbJ_hDuQi765)
-* [November 9th, 2021 Livestream Q&A: Golf, when?](./transcriptions/yt-kYn6eCYtK6w.md) [https://www.youtube.com/watch?v=kYn6eCYtK6w](https://www.youtube.com/watch?v=kYn6eCYtK6w)
 </details>
 
 ### [Q&A: Are we ever going to add passenger riding in the Explorer again?](./transcriptions/yt-2Mk9iV_UdBQ.md) [https://www.youtube.com/watch?v=2Mk9iV_UdBQ](https://www.youtube.com/watch?v=2Mk9iV_UdBQ)
@@ -1246,42 +1416,6 @@ date: Last Modified
 * [February 20th, 2019 Livestream Q&A: What Engine?](./transcriptions/yt-CB9bSigNYH8,692.002303,698.226859.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=692&end=699](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=692&end=699)
 </details>
 
-### [Q&A: Can we customise the Pioneer in the future for Multiplayer?](./transcriptions/yt-3gdkRbsLRUo.md) [https://www.youtube.com/watch?v=3gdkRbsLRUo](https://www.youtube.com/watch?v=3gdkRbsLRUo)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> can we customize the pioneer in the future for multiplayer so that's something character customization of some kind um is i think something that we'll end up doing i don't know how advanced it's going to be but something as simple as changing colors makes a lot of sense especially for multiplayer right yeah so i do think it's something that i imagine it will happen before 1.0 i just don't know when it's going to happen
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 20 other times, as recently as August 2021 and as early as February 2019.</summary>
-
-* [August 24th, 2021 Livestream Q&A: Character Customisation?](./transcriptions/yt-5wiYaEfx0ro.md) [https://www.youtube.com/watch?v=5wiYaEfx0ro](https://www.youtube.com/watch?v=5wiYaEfx0ro)
-* [July 13th, 2021 Livestream Q&A: Any plans for Character Customisation?](./transcriptions/yt-bC4-mnWrSQM.md) [https://www.youtube.com/watch?v=bC4-mnWrSQM](https://www.youtube.com/watch?v=bC4-mnWrSQM)
-* [June 15th, 2021 Livestream Q&A: Any plans to change the Pioneer trim colour so you can differentiate each other on Multiplayer?](./transcriptions/yt-ox4zHZlziCg.md) [https://www.youtube.com/watch?v=ox4zHZlziCg](https://www.youtube.com/watch?v=ox4zHZlziCg)
-* [May 25th, 2021 Livestream Q&A: Will avatar skins be added to the game?](./transcriptions/yt-imDJ1KxXSgM.md) [https://www.youtube.com/watch?v=imDJ1KxXSgM](https://www.youtube.com/watch?v=imDJ1KxXSgM)
-* [April 27th, 2021 Livestream Q&A: Character Customisation?](./transcriptions/yt-pju6G7NEuq8.md) [https://www.youtube.com/watch?v=pju6G7NEuq8](https://www.youtube.com/watch?v=pju6G7NEuq8)
-* [March 30th, 2021 Livestream Q&A: New Suit Skins?](./transcriptions/yt-1ekgStY-lEc.md) [https://www.youtube.com/watch?v=1ekgStY-lEc](https://www.youtube.com/watch?v=1ekgStY-lEc)
-* [March 9th, 2021 Livestream Q&A: Will there be at some point Character Customisation?](./transcriptions/yt-fy4_awSdvk0.md) [https://www.youtube.com/watch?v=fy4_awSdvk0](https://www.youtube.com/watch?v=fy4_awSdvk0)
-* [February 9th, 2021 Livestream Q&A: When will we be able to get different character customisations?](./transcriptions/yt-x55_Zt2OLQ4.md) [https://www.youtube.com/watch?v=x55_Zt2OLQ4](https://www.youtube.com/watch?v=x55_Zt2OLQ4)
-* [January 12th, 2021 Livestream Q&A: New skins?](./transcriptions/yt--IYD97gEt4w.md) [https://www.youtube.com/watch?v=-IYD97gEt4w](https://www.youtube.com/watch?v=-IYD97gEt4w)
-* [December 17th, 2020 Q&A: Character customization?](./transcriptions/yt--JXPsTlJIiI,911.9110000000001,928.7611666666667.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=911&end=929](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=911&end=929)
-* December 15th, 2020 Livestream Q&A: Are we adding new skins? [https://www.youtube.com/watch?v=w2zJd6F1Udw](https://www.youtube.com/watch?v=w2zJd6F1Udw)
-* [October 20th, 2020 Livestream Q&A: Are there plans for Character Customisation?](./transcriptions/yt-LAR8rVCHVmw.md) [https://www.youtube.com/watch?v=LAR8rVCHVmw](https://www.youtube.com/watch?v=LAR8rVCHVmw)
-* [September 8th, 2020 Livestream Q&A: Are you going to be able to change characters?](./transcriptions/yt-GymA7otvYYo.md) [https://www.youtube.com/watch?v=GymA7otvYYo](https://www.youtube.com/watch?v=GymA7otvYYo)
-* [September 8th, 2020 Livestream Q&A: Cosmetics for the Pioneer or even Lizard Doggo?](./transcriptions/yt-wFKmvfIOuCY.md) [https://www.youtube.com/watch?v=wFKmvfIOuCY](https://www.youtube.com/watch?v=wFKmvfIOuCY)
-* [August 25th, 2020 Livestream Q&A: Let me personalise my character?](./transcriptions/yt-QyKyNbHPaHg.md) [https://www.youtube.com/watch?v=QyKyNbHPaHg](https://www.youtube.com/watch?v=QyKyNbHPaHg)
-* August 25th, 2020 Livestream Q&A: Let me personalise my character? [https://clips.twitch.tv/CharmingRespectfulFlyFUNgineer](https://clips.twitch.tv/CharmingRespectfulFlyFUNgineer)
-* August 18th, 2020 Livestream Q&A: Additional Suit Variations in the Coupon Shop ? [https://clips.twitch.tv/CourteousMotionlessWrenMcaT](https://clips.twitch.tv/CourteousMotionlessWrenMcaT)
-* [June 8th, 2020 Livestream Q&A: Player skin customisation?](./transcriptions/yt-oJzUWOdpQ5o.md) [https://www.youtube.com/watch?v=oJzUWOdpQ5o](https://www.youtube.com/watch?v=oJzUWOdpQ5o)
-* [May 15th, 2020 Q&A: Customisation of our characters?](./transcriptions/yt-NlIVwoRqjVk,987.6199666666666,994.1932.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=987&end=995](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=987&end=995)
-* [February 6th, 2019 Livestream Q&A: Will there be any cosmetics available?](./transcriptions/yt-Dtm6xIj-wM4,3923.903388,3977.117038.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3923&end=3978](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3923&end=3978)
-</details>
-
 ### [Q&A: Farms?](./transcriptions/yt-FqwSycZqJWo.md) [https://www.youtube.com/watch?v=FqwSycZqJWo](https://www.youtube.com/watch?v=FqwSycZqJWo)
 
 <details>
@@ -1512,56 +1646,6 @@ date: Last Modified
 * March 16th, 2021 Livestream Q&A: Will 4 players be the limit? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=5809&end=5841](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=5809&end=5841)
 * [January 26th, 2021 Livestream Q&A: Are we going to increase the limit of only having 4 players per game?](./transcriptions/yt-9Fe7lcAQx9I.md) [https://www.youtube.com/watch?v=9Fe7lcAQx9I](https://www.youtube.com/watch?v=9Fe7lcAQx9I)
 * [March 9th, 2019 Livestream Q&A: Do you want to support more than 4 people?](./transcriptions/yt-wb5HY05QX9I.md) [https://www.youtube.com/watch?v=wb5HY05QX9I](https://www.youtube.com/watch?v=wb5HY05QX9I)
-</details>
-
-### [Q&A: When's Satisfactory due on Nintendo Switch?](./transcriptions/yt-et-JsEQbwt8.md) [https://www.youtube.com/watch?v=et-JsEQbwt8](https://www.youtube.com/watch?v=et-JsEQbwt8)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> when satisfactory to nintendo switch if you know that's probably never gonna happen yeah pretty sure that's never gonna happen the the only like caveat would be if there's like some kind of like streaming service for switch or something i don't know if there is one even hasn't there been games that are like not really should have been supported on switch and they can stream or something not that we have any plans for that or anything but yeah i i doubt that we're gonna be able to release on switch honestly
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 34 other times, as recently as December 2021 and as early as March 2019.</summary>
-
-* [December 7th, 2021 Livestream Q&A: Will the game ever come to console like XBox & PS5?](./transcriptions/yt-zusWeyW2GFU.md) [https://www.youtube.com/watch?v=zusWeyW2GFU](https://www.youtube.com/watch?v=zusWeyW2GFU)
-* [November 2nd, 2021 Livestream Q&A: Console release?](./transcriptions/yt-XphmFYhaeHc.md) [https://www.youtube.com/watch?v=XphmFYhaeHc](https://www.youtube.com/watch?v=XphmFYhaeHc)
-* [September 28th, 2021 Livestream Q&A: Do you think Satisfactory will come to Playstation or XBox?](./transcriptions/yt-AxoRJASWblg.md) [https://www.youtube.com/watch?v=AxoRJASWblg](https://www.youtube.com/watch?v=AxoRJASWblg)
-* [May 25th, 2021 Livestream Q&A: Can we expect a console release in 2022?](./transcriptions/yt-u1rxQ_Hwo-U.md) [https://www.youtube.com/watch?v=u1rxQ_Hwo-U](https://www.youtube.com/watch?v=u1rxQ_Hwo-U)
-* [May 11th, 2021 Livestream Q&A: When the full game's out, will you consider releasing for Console?](./transcriptions/yt-CmSDjJQUmIM.md) [https://www.youtube.com/watch?v=CmSDjJQUmIM](https://www.youtube.com/watch?v=CmSDjJQUmIM)
-* [April 6th, 2021 Livestream Q&A: Console port?](./transcriptions/yt-j1eVP7KViyA.md) [https://www.youtube.com/watch?v=j1eVP7KViyA](https://www.youtube.com/watch?v=j1eVP7KViyA)
-* [March 30th, 2021 Livestream Q&A: Will we ever make a Console version?](./transcriptions/yt-LWvp_I866M0.md) [https://www.youtube.com/watch?v=LWvp_I866M0](https://www.youtube.com/watch?v=LWvp_I866M0)
-* [March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary Q&A: Does this mean that Console is confirmed?](./transcriptions/yt-19QNZuFNN3Y.md) [https://www.youtube.com/watch?v=19QNZuFNN3Y](https://www.youtube.com/watch?v=19QNZuFNN3Y)
-* [February 23rd, 2021 Livestream Q&A: Any plans for bringing the game to Nintendo Switch?](./transcriptions/yt-rfeMtSPOadY.md) [https://www.youtube.com/watch?v=rfeMtSPOadY](https://www.youtube.com/watch?v=rfeMtSPOadY)
-* [February 9th, 2021 Livestream Q&A: Do you plan to release on Console one day?](./transcriptions/yt-mS_O_qnXJp0.md) [https://www.youtube.com/watch?v=mS_O_qnXJp0](https://www.youtube.com/watch?v=mS_O_qnXJp0)
-* [February 2nd, 2021 Livestream Q&A: Will Satisfactory be coming to Console?](./transcriptions/yt-ZljpvyZWlIA.md) [https://www.youtube.com/watch?v=ZljpvyZWlIA](https://www.youtube.com/watch?v=ZljpvyZWlIA)
-* [February 2nd, 2021 Livestream Q&A: Will the game ever be on Console?](./transcriptions/yt-G_pmJbKEhX4.md) [https://www.youtube.com/watch?v=G_pmJbKEhX4](https://www.youtube.com/watch?v=G_pmJbKEhX4)
-* [January 26th, 2021 Livestream Q&A: Release date on PS4?](./transcriptions/yt-xUdlPZfMgDw.md) [https://www.youtube.com/watch?v=xUdlPZfMgDw](https://www.youtube.com/watch?v=xUdlPZfMgDw)
-* [January 19th, 2021 Livestream Q&A: Could we expect the game on Consoles some day?](./transcriptions/yt-OVn94IC65fw.md) [https://www.youtube.com/watch?v=OVn94IC65fw](https://www.youtube.com/watch?v=OVn94IC65fw)
-* [November 24th, 2020 Livestream Q&A: When is Satisfactory coming to Switch?](./transcriptions/yt-tBDXG3OHt1c.md) [https://www.youtube.com/watch?v=tBDXG3OHt1c](https://www.youtube.com/watch?v=tBDXG3OHt1c)
-* [November 24th, 2020 Livestream Q&A: When is Satisfactory coming to N-Gage?](./transcriptions/yt-qL6dp9eUB58.md) [https://www.youtube.com/watch?v=qL6dp9eUB58](https://www.youtube.com/watch?v=qL6dp9eUB58)
-* [November 24th, 2020 Livestream Q&A: Is Console confirmed for Satisfactory?](./transcriptions/yt-KEJYlYO511Q.md) [https://www.youtube.com/watch?v=KEJYlYO511Q](https://www.youtube.com/watch?v=KEJYlYO511Q)
-* [November 17th, 2020 Livestream Q&A: Is Console support coming?](./transcriptions/yt-tqB7YuLM2Fs.md) [https://www.youtube.com/watch?v=tqB7YuLM2Fs](https://www.youtube.com/watch?v=tqB7YuLM2Fs)
-* [October 13th, 2020 Livestream Q&A: I want this to come to XBox Series X & Playstation 5](./transcriptions/yt-9NqrE4ASW9U.md) [https://www.youtube.com/watch?v=9NqrE4ASW9U](https://www.youtube.com/watch?v=9NqrE4ASW9U)
-* [October 1st, 2020 Q&A: Is there any possibility it might come to PS4 and Xbox?](./transcriptions/yt-rATcozDE25c,163.83033333333333,261.52793333333335.md) [https://youtube.com/embed/rATcozDE25c?autoplay=1&start=163&end=262](https://youtube.com/embed/rATcozDE25c?autoplay=1&start=163&end=262)
-* [September 15th, 2020 Livestream Q&A: Coming to Consoles?](./transcriptions/yt-09PyuqxekgU.md) [https://www.youtube.com/watch?v=09PyuqxekgU](https://www.youtube.com/watch?v=09PyuqxekgU)
-* [September 15th, 2020 Livestream Q&A: Are you planning on porting the game to PS4?](./transcriptions/yt-0Zv9Qjp2fHI.md) [https://www.youtube.com/watch?v=0Zv9Qjp2fHI](https://www.youtube.com/watch?v=0Zv9Qjp2fHI)
-* [September 8th, 2020 Livestream Q&A: Will this game come out on Console at some point?](./transcriptions/yt-pfD6p4g3fQ8.md) [https://www.youtube.com/watch?v=pfD6p4g3fQ8](https://www.youtube.com/watch?v=pfD6p4g3fQ8)
-* [September 1st, 2020 Livestream Q&A: Satisfactory on next-gen Consoles?](./transcriptions/yt-ed1gycRZji4.md) [https://www.youtube.com/watch?v=ed1gycRZji4](https://www.youtube.com/watch?v=ed1gycRZji4)
-* [August 25th, 2020 Livestream Q&A: Any chance to play Satisfactory on N64?](./transcriptions/yt-Ov7_XZoduDQ.md) [https://www.youtube.com/watch?v=Ov7_XZoduDQ](https://www.youtube.com/watch?v=Ov7_XZoduDQ)
-* August 18th, 2020 Livestream Q&A: Are there any plans to port the game to console? [https://clips.twitch.tv/CogentRichJackalHeyGirl](https://clips.twitch.tv/CogentRichJackalHeyGirl)
-* July 28th, 2020 Livestream Q&A: Satisfactory Console Release [https://clips.twitch.tv/FragileNimbleEggnogDatSheffy](https://clips.twitch.tv/FragileNimbleEggnogDatSheffy)
-* [June 8th, 2020 Livestream Q&A: Will there be Console versions of the game?](./transcriptions/yt-9fvWGq0_Cv0.md) [https://www.youtube.com/watch?v=9fvWGq0_Cv0](https://www.youtube.com/watch?v=9fvWGq0_Cv0)
-* [March 24th, 2020 Livestream Q&A: Satisfactory on the next Console generation?](./transcriptions/yt-9bez-QIVKLA.md) [https://www.youtube.com/watch?v=9bez-QIVKLA](https://www.youtube.com/watch?v=9bez-QIVKLA)
-* [February 11th, 2020 Livestream Q&A: Is Satisfactory going to be on PS5/PS6?](./transcriptions/yt-1v4Mho5Uh9I.md) [https://www.youtube.com/watch?v=1v4Mho5Uh9I](https://www.youtube.com/watch?v=1v4Mho5Uh9I)
-* [January 22nd, 2020 Livestream Q&A: Console?](./transcriptions/yt-k-7WiSX0BYM.md) [https://www.youtube.com/watch?v=k-7WiSX0BYM](https://www.youtube.com/watch?v=k-7WiSX0BYM)
-* [December 19th, 2019 Livestream Q&A: Satisfactory on Switch?](./transcriptions/yt-QVQZ2qgtTsQ.md) [https://www.youtube.com/watch?v=QVQZ2qgtTsQ](https://www.youtube.com/watch?v=QVQZ2qgtTsQ)
-* [March 9th, 2019 Livestream Q&A: Will you create Console version of Satisfactory?](./transcriptions/yt-_MGUbEI247M.md) [https://www.youtube.com/watch?v=_MGUbEI247M](https://www.youtube.com/watch?v=_MGUbEI247M)
-* [March 9th, 2019 Livestream Q&A: Any scope of the game being on consoles?](./transcriptions/yt-bsTq_WiSeCY.md) [https://www.youtube.com/watch?v=bsTq_WiSeCY](https://www.youtube.com/watch?v=bsTq_WiSeCY)
 </details>
 
 ### [Q&A: Can we get rid of poison rocks?](./transcriptions/yt-yQfU5GLx4eM.md) [https://www.youtube.com/watch?v=yQfU5GLx4eM](https://www.youtube.com/watch?v=yQfU5GLx4eM)
@@ -1879,34 +1963,6 @@ date: Last Modified
 * [March 30th, 2021 Livestream Q&A: Have you considered something like the Smart! mod for foundations?](./transcriptions/yt-kZtseQMvMvo.md) [https://www.youtube.com/watch?v=kZtseQMvMvo](https://www.youtube.com/watch?v=kZtseQMvMvo)
 * [March 30th, 2021 Livestream Q&A: Why not just replace Foundation groups with a single object?](./transcriptions/yt-wNLWTAG6j5o.md) [https://www.youtube.com/watch?v=wNLWTAG6j5o](https://www.youtube.com/watch?v=wNLWTAG6j5o)
 * [December 17th, 2020 Q&A: Are there plans for mass building foundation and walls?](./transcriptions/yt--JXPsTlJIiI,706.3389666666667,728.4610666666666.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=706&end=729](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=706&end=729)
-</details>
-
-### [Q&A: Are there plans for better Splitters, like with configurable ratios?](./transcriptions/yt-dI37z27JZfw.md) [https://www.youtube.com/watch?v=dI37z27JZfw](https://www.youtube.com/watch?v=dI37z27JZfw)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> are the plans for better splitters like with configurable ratios that's another good one to post on the qa side um it's it's not out of this world that we do something about that um there is a concern when i talk to mark about it that like having you know a magical ratio splitter would remove some of the uh what would you say like the extendability of splitters with the game because a lot of um a big aspect of you know our game compared to a lot of factory games is really the ratio uh stuff in our game so you know what you're really solving in satisfactory compared to a lot of other factory games is is how to handle the ratio of production and the scary thing is that that's such a huge pillar of our game if we make that aspect too easy um it might ruin the game um might not it's not like it might be good like maybe not but we we really want to like figure out what we want to do there because if we just add a splitter that's magic like you can set it to whatever um we're not quite like that can impact the game quite severely uh but it's not impossible yeah there wouldn't be any trade offs exactly and and it's it's very important when it comes to game design that nothing is ever given for free because like if you can optimize like if you give a player the option to optimize away the fun they will do it every time
->
-> [Music]
->
-> so it's it's very important that we don't remove that aspect of the game um but if if ratio splitting does that we don't know so that's something we need to investigate before we can make any claims as to if it would do it or not and we haven't looked into it yet
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 8 other times, as recently as August 2021 and as early as January 2020.</summary>
-
-* [August 3rd, 2021 Livestream Q&A: Has anyone asked about Splitter Ratios before?](./transcriptions/yt-kvuii0bRjv4.md) [https://www.youtube.com/watch?v=kvuii0bRjv4](https://www.youtube.com/watch?v=kvuii0bRjv4)
-* [July 6th, 2021 Livestream Q&A: Can we please make Programmable Splitter ratio outputs?](./transcriptions/yt-ZxdCngTCah4.md) [https://www.youtube.com/watch?v=ZxdCngTCah4](https://www.youtube.com/watch?v=ZxdCngTCah4)
-* [June 22nd, 2021 Livestream Q&A: Why can't we have custom ratio Splitters?](./transcriptions/yt-ripT8MydIjo.md) [https://www.youtube.com/watch?v=ripT8MydIjo](https://www.youtube.com/watch?v=ripT8MydIjo)
-* [April 20th, 2021 Livestream Q&A: The Ratio Splitter?](./transcriptions/yt-cBwAofHv-6o.md) [https://www.youtube.com/watch?v=cBwAofHv-6o](https://www.youtube.com/watch?v=cBwAofHv-6o)
-* April 6th, 2021 Livestream Q&A: Ratio Splitters? [https://www.youtube.com/watch?v=A26wW5I25T8](https://www.youtube.com/watch?v=A26wW5I25T8)
-* [January 19th, 2021 Livestream Q&A: Are you going to add more functionality to the Programmable Splitters?](./transcriptions/yt-PGyc_YN4DaM.md) [https://www.youtube.com/watch?v=PGyc_YN4DaM](https://www.youtube.com/watch?v=PGyc_YN4DaM)
-* [December 15th, 2020 Livestream Q&A: Any thought to allow Splitters to regulate the flow of items per minute?](./transcriptions/yt-nSC4C_h1ONo.md) [https://www.youtube.com/watch?v=nSC4C_h1ONo](https://www.youtube.com/watch?v=nSC4C_h1ONo)
-* [January 22nd, 2020 Livestream Q&A: What do you think about Splitters that can split a certain percentage of the Belts?](./transcriptions/yt-GiOZBqdfrAQ.md) [https://www.youtube.com/watch?v=GiOZBqdfrAQ](https://www.youtube.com/watch?v=GiOZBqdfrAQ)
 </details>
 
 ### [Q&A: Will we get a Story sneak-peek at some point or not until 1.0?](./transcriptions/yt-EHq6piERMTI.md) [https://www.youtube.com/watch?v=EHq6piERMTI](https://www.youtube.com/watch?v=EHq6piERMTI)
@@ -2401,27 +2457,6 @@ date: Last Modified
 
 * July 6th, 2021 Livestream Q&A: Have you all added Easter Eggs in the game that have not yet been discovered? [https://www.youtube.com/watch?v=aLNaD031GPw](https://www.youtube.com/watch?v=aLNaD031GPw)
 * [November 10th, 2020 Livestream Q&A: Any Easter Eggs nobody's found yet?](./transcriptions/yt-6z70mPmDc5g.md) [https://www.youtube.com/watch?v=6z70mPmDc5g](https://www.youtube.com/watch?v=6z70mPmDc5g)
-</details>
-
-### [Q&A: Will there ever be rounded Foundations?](./transcriptions/yt-B6jTKTB_WmE.md) [https://www.youtube.com/watch?v=B6jTKTB_WmE](https://www.youtube.com/watch?v=B6jTKTB_WmE)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> will there be rounded round foundations i don't know i have no idea i'll put that on the keyway side of the usa
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 5 other times, as recently as April 2021 and as early as November 2020.</summary>
-
-* [April 27th, 2021 Livestream Q&A: Why are we not upvoting circular Foundations?](./transcriptions/yt-n1fJJTUeKMM.md) [https://www.youtube.com/watch?v=n1fJJTUeKMM](https://www.youtube.com/watch?v=n1fJJTUeKMM)
-* [March 30th, 2021 Livestream Q&A: Curved Walls, Windows, and Foundations?](./transcriptions/yt-gBErG8jzRtI.md) [https://www.youtube.com/watch?v=gBErG8jzRtI](https://www.youtube.com/watch?v=gBErG8jzRtI)
-* [November 17th, 2020 Livestream Q&A: Circular Foundations?](./transcriptions/yt-5snNwUqWAxA.md) [https://www.youtube.com/watch?v=5snNwUqWAxA](https://www.youtube.com/watch?v=5snNwUqWAxA)
-* [November 10th, 2020 Livestream Q&A: Is there any possibility you guys will be add the making of circles?](./transcriptions/yt-40bnpFI8SqE.md) [https://www.youtube.com/watch?v=40bnpFI8SqE](https://www.youtube.com/watch?v=40bnpFI8SqE)
-* [November 3rd, 2020 Livestream Q&A: Can we get Circular Foundations?](./transcriptions/yt-4sKy5-TJVKY.md) [https://www.youtube.com/watch?v=4sKy5-TJVKY](https://www.youtube.com/watch?v=4sKy5-TJVKY)
 </details>
 
 ### [Q&A: Will there ever be an option to set a grid map-wide?](./transcriptions/yt-iiNu3aKc1VI.md) [https://www.youtube.com/watch?v=iiNu3aKc1VI](https://www.youtube.com/watch?v=iiNu3aKc1VI)
@@ -3670,29 +3705,6 @@ date: Last Modified
 * [January 12th, 2021 Livestream Q&A: CPU make multi-core?](./transcriptions/yt-0yzIyIlPDxw.md) [https://www.youtube.com/watch?v=0yzIyIlPDxw](https://www.youtube.com/watch?v=0yzIyIlPDxw)
 * [November 24th, 2020 Livestream Q&A: I have 24 (CPU) cores, can you make more use of it ?](./transcriptions/yt-LUM8i_wyJ-Y.md) [https://www.youtube.com/watch?v=LUM8i_wyJ-Y](https://www.youtube.com/watch?v=LUM8i_wyJ-Y)
 * [August 25th, 2020 Livestream Q&A: Will we ever have proper multi-core support?](./transcriptions/yt-08PQFXaEac8.md) [https://www.youtube.com/watch?v=08PQFXaEac8](https://www.youtube.com/watch?v=08PQFXaEac8)
-</details>
-
-### [Q&A: Can we get a Satisfactory OST available on Spotify?](./transcriptions/yt-uTcx8PYGUXU.md) [https://www.youtube.com/watch?v=uTcx8PYGUXU](https://www.youtube.com/watch?v=uTcx8PYGUXU)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> um can we get a satisfactory ost available on spotify so we do want to put together a satisfactory ost at some point but we also want to wait till we have all the songs that's one part of the of the puzzle yes and then uh i think there might be some other stuff with like licensing and legal stuff i'm not sure but i think it's probably fine it looks i don't know i'm pretty hopeful i'm pretty pretty hopeful that we will have an ost eventually but we don't want to like put out an ost that's partially finished and then add more music later and then i don't know when am i getting
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 7 other times, as recently as August 2021 and as early as January 2020.</summary>
-
-* [August 3rd, 2021 Livestream Q&A: Will the soundtrack be released on Spotify?](./transcriptions/yt-HCcWGBc_lDo.md) [https://www.youtube.com/watch?v=HCcWGBc_lDo](https://www.youtube.com/watch?v=HCcWGBc_lDo)
-* [March 23rd, 2021 Livestream Q&A: Will the game Soundtrack come to Spotify soon?](./transcriptions/yt-bBS_pCVpXwY.md) [https://www.youtube.com/watch?v=bBS_pCVpXwY](https://www.youtube.com/watch?v=bBS_pCVpXwY)
-* [March 9th, 2021 Livestream Q&A: Any plans on bringing music tracks to Spotify & YouTube?](./transcriptions/yt-K-yARAF955w.md) [https://www.youtube.com/watch?v=K-yARAF955w](https://www.youtube.com/watch?v=K-yARAF955w)
-* [March 2nd, 2021 Livestream Q&A: Were you going to put the game music on Spotify?](./transcriptions/yt-Ba6lc4pqHFo.md) [https://www.youtube.com/watch?v=Ba6lc4pqHFo](https://www.youtube.com/watch?v=Ba6lc4pqHFo)
-* [September 22nd, 2020 Livestream Q&A: Is the OST on Spotify?](./transcriptions/yt-iCN324N905o.md) [https://www.youtube.com/watch?v=iCN324N905o](https://www.youtube.com/watch?v=iCN324N905o)
-* [September 8th, 2020 Livestream Q&A: Releasing the Soundtrack on Spotify?](./transcriptions/yt-zoDYA4Y9jdE.md) [https://www.youtube.com/watch?v=zoDYA4Y9jdE](https://www.youtube.com/watch?v=zoDYA4Y9jdE)
-* [January 22nd, 2020 Livestream Q&A: Are there plans to put the OST on Spotify?](./transcriptions/yt-z4cypywhIks.md) [https://www.youtube.com/watch?v=z4cypywhIks](https://www.youtube.com/watch?v=z4cypywhIks)
 </details>
 
 ### [Q&A: When are we getting a Story Mode?](./transcriptions/yt-4kSdfzqeyB4.md) [https://www.youtube.com/watch?v=4kSdfzqeyB4](https://www.youtube.com/watch?v=4kSdfzqeyB4)

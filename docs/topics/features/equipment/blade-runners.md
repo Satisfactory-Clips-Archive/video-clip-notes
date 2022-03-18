@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Equipment](../../../topics/features/equipment.md) > Blade Runners
 
+## March 15th, 2022 Livestream
+* [Q&A: Will you ever fix the Blades glitching through the Hypertubes?](../../../transcriptions/yt-RSRBm3ZiLKg.md) [https://www.youtube.com/watch?v=RSRBm3ZiLKg](https://www.youtube.com/watch?v=RSRBm3ZiLKg)
+
 ## March 1st, 2022 Livestream
 * [Q&A: Any plans to make a Jetpack/Blade Runner combo?](../../../transcriptions/yt-7boFnv3DaWI.md) [https://www.youtube.com/watch?v=7boFnv3DaWI](https://www.youtube.com/watch?v=7boFnv3DaWI)
 

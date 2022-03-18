@@ -20,6 +20,9 @@ date: Last Modified
 * [Xeno-Zapper](../../topics/features/equipment/xeno-zapper.md)
 * [Zip Lines](../../topics/features/equipment/zip-lines.md)
 
+## March 15th, 2022 Livestream
+* [Q&A: Will we see more enemy types in the future or more weapons?](../../transcriptions/yt-zlyra4JQvW4.md) [https://www.youtube.com/watch?v=zlyra4JQvW4](https://www.youtube.com/watch?v=zlyra4JQvW4)
+
 ## March 8th, 2022 Livestream
 * [Q&A: Is Snutt flame-thrower ever going to be a thing?](../../transcriptions/yt-qERkt-fOUcA.md) [https://www.youtube.com/watch?v=qERkt-fOUcA](https://www.youtube.com/watch?v=qERkt-fOUcA)
 

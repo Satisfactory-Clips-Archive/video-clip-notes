@@ -5,6 +5,14 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Australia
 
+## March 15th, 2022 Livestream
+* [Snutt & Jace Talk: Robo Jace (Intro)](../../transcriptions/yt-EU5g84DVAcc.md) [https://www.youtube.com/watch?v=EU5g84DVAcc](https://www.youtube.com/watch?v=EU5g84DVAcc)
+* [Q&A: Is Jace in Australia?](../../transcriptions/yt-2gcwbZ2f8Ic.md) [https://www.youtube.com/watch?v=2gcwbZ2f8Ic](https://www.youtube.com/watch?v=2gcwbZ2f8Ic)
+* [Q&A: How is Jace not upside down?](../../transcriptions/yt-8tJx6rkgDok.md) [https://www.youtube.com/watch?v=8tJx6rkgDok](https://www.youtube.com/watch?v=8tJx6rkgDok)
+* [Q&A: Where is Jace streaming from?](../../transcriptions/yt-G-X_n18t6NA.md) [https://www.youtube.com/watch?v=G-X_n18t6NA](https://www.youtube.com/watch?v=G-X_n18t6NA)
+* [Q&A: Do Toilets work in Australia?](../../transcriptions/yt-QrwkQxjyQus.md) [https://www.youtube.com/watch?v=QrwkQxjyQus](https://www.youtube.com/watch?v=QrwkQxjyQus)
+* [Q&A: When did Jace move back to Australia?](../../transcriptions/yt-rUCIxAOtqTY.md) [https://www.youtube.com/watch?v=rUCIxAOtqTY](https://www.youtube.com/watch?v=rUCIxAOtqTY)
+
 ## March 8th, 2022 Livestream
 * [Community FYI: Jace needs to be upside down](../../transcriptions/yt-pWAQJVitWSs.md) [https://www.youtube.com/watch?v=pWAQJVitWSs](https://www.youtube.com/watch?v=pWAQJVitWSs)
 

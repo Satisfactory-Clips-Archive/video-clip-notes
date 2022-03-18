@@ -18,6 +18,9 @@ date: Last Modified
 * [Teasers & Trailers](../topics/satisfactory-updates/teasers-and-trailers.md)
 * [World Update](../topics/satisfactory-updates/world-update.md)
 
+## March 15th, 2022 Livestream
+* [Q&A: Have you considered doing ".5" Updates, building on existing Features?](../transcriptions/yt-ZxtWXoWW_Bw.md) [https://www.youtube.com/watch?v=ZxtWXoWW_Bw](https://www.youtube.com/watch?v=ZxtWXoWW_Bw)
+
 ## March 8th, 2022 Livestream
 * [Q&A: How many more Tiers are planned in future development?](../transcriptions/yt-gg0SE9FSwfM.md) [https://www.youtube.com/watch?v=gg0SE9FSwfM](https://www.youtube.com/watch?v=gg0SE9FSwfM)
 * [Q&A: How many releases until 1.0?](../transcriptions/yt-VCC3bWwqnkw.md) [https://www.youtube.com/watch?v=VCC3bWwqnkw](https://www.youtube.com/watch?v=VCC3bWwqnkw)

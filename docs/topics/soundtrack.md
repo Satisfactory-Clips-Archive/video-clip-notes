@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Soundtrack
 
+## March 15th, 2022 Livestream
+* [Q&A: Music on Spotify?](../transcriptions/yt-ffAoXn7HynE.md) [https://www.youtube.com/watch?v=ffAoXn7HynE](https://www.youtube.com/watch?v=ffAoXn7HynE)
+
 ## December 14th, 2021 Livestream
 * [Q&A: Answer about Soundtrack release?](../transcriptions/yt-DoywhI2s_3o.md) [https://www.youtube.com/watch?v=DoywhI2s_3o](https://www.youtube.com/watch?v=DoywhI2s_3o)
 

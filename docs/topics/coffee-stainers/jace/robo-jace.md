@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Coffee Stainers](../../../topics/coffee-stainers.md) > [Jace](../../../topics/coffee-stainers/jace.md) > Robo Jace
 
+## March 15th, 2022 Livestream
+* [Snutt & Jace Talk: Robo Jace (Intro)](../../../transcriptions/yt-EU5g84DVAcc.md) [https://www.youtube.com/watch?v=EU5g84DVAcc](https://www.youtube.com/watch?v=EU5g84DVAcc)
+* [Community FYI: Thanks Jace for sacrificing part of your pay cheque to get a raise](../../../transcriptions/yt-yFBhL_zDyuw.md) [https://www.youtube.com/watch?v=yFBhL_zDyuw](https://www.youtube.com/watch?v=yFBhL_zDyuw)
+
 ## March 8th, 2022 Livestream
 * [Q&A: Can we get a Robo Jace download?](../../../transcriptions/yt-xGPHdhWU_5s.md) [https://www.youtube.com/watch?v=xGPHdhWU_5s](https://www.youtube.com/watch?v=xGPHdhWU_5s)
 * [Q&A: Is Jace okay?](../../../transcriptions/yt-y4Z1z86F5ks.md) [https://www.youtube.com/watch?v=y4Z1z86F5ks](https://www.youtube.com/watch?v=y4Z1z86F5ks)

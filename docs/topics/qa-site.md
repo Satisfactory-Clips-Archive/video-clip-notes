@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > QA Site
 
+## March 15th, 2022 Livestream
+* [Q&A: How useful are these "I have played 1000 hours and these are my complaints" QA Site posts?](../transcriptions/yt-7x8urIiVog0.md) [https://www.youtube.com/watch?v=7x8urIiVog0](https://www.youtube.com/watch?v=7x8urIiVog0)
+
 ## March 8th, 2022 Livestream
 * [Re: Reporting Issues](../transcriptions/yt-Svk5fRCAfX8.md) [https://www.youtube.com/watch?v=Svk5fRCAfX8](https://www.youtube.com/watch?v=Svk5fRCAfX8)
 

@@ -8,7 +8,7 @@ topics:
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Q&A: Is the OST on Spotify?
 https://www.youtube.com/watch?v=iCN324N905o
-This question was possibly duplicated with a more recent answer: [August 31st, 2021 Livestream Q&A: Can we get a Satisfactory OST available on Spotify?](./yt-uTcx8PYGUXU.md) [https://www.youtube.com/watch?v=uTcx8PYGUXU](https://www.youtube.com/watch?v=uTcx8PYGUXU)
+This question was possibly duplicated with a more recent answer: [March 15th, 2022 Livestream Q&A: Music on Spotify?](./yt-ffAoXn7HynE.md) [https://www.youtube.com/watch?v=ffAoXn7HynE](https://www.youtube.com/watch?v=ffAoXn7HynE)
 
 
 ### Topics

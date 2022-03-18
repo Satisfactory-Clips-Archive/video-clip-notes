@@ -8,7 +8,7 @@ topics:
 # [March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary](../2021-03-17.md)
 ## Q&A: Does this mean that Console is confirmed?
 https://www.youtube.com/watch?v=19QNZuFNN3Y
-This question was possibly duplicated with a more recent answer: [January 18th, 2022 Livestream Q&A: When's Satisfactory due on Nintendo Switch?](./yt-et-JsEQbwt8.md) [https://www.youtube.com/watch?v=et-JsEQbwt8](https://www.youtube.com/watch?v=et-JsEQbwt8)
+This question was possibly duplicated with a more recent answer: March 15th, 2022 Livestream Q&A: Will Console ever come out? [https://www.youtube.com/watch?v=szP1t6ZFKR0](https://www.youtube.com/watch?v=szP1t6ZFKR0)
 
 
 ### Topics

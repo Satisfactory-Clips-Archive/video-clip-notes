@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Pending > Satisfactory 1.0
 
+## March 15th, 2022 Livestream
+* [Q&A: Do you intend to keep compatibility with old saves in 1.0?](../../../transcriptions/yt-Jugnbd6aYwQ.md) [https://www.youtube.com/watch?v=Jugnbd6aYwQ](https://www.youtube.com/watch?v=Jugnbd6aYwQ)
+
 ## March 8th, 2022 Livestream
 * [Q&A: When would you guess the Map would be finalised?](../../../transcriptions/yt-0RdnPihfRpk.md) [https://www.youtube.com/watch?v=0RdnPihfRpk](https://www.youtube.com/watch?v=0RdnPihfRpk)
 * [Q&A: How many releases until 1.0?](../../../transcriptions/yt-VCC3bWwqnkw.md) [https://www.youtube.com/watch?v=VCC3bWwqnkw](https://www.youtube.com/watch?v=VCC3bWwqnkw)

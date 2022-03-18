@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Sofi
 
+## March 15th, 2022 Livestream
+* [Q&A: Whose cats were used for Arachnophobia Mode?](../../transcriptions/yt-f2soWvNwS-g.md) [https://www.youtube.com/watch?v=f2soWvNwS-g](https://www.youtube.com/watch?v=f2soWvNwS-g)
+
 ## June 22nd, 2021 Livestream
 * [Torsten Talk: Update 5 Concept Art](../../transcriptions/yt-Jb_V7r_cnc0.md) [https://www.youtube.com/watch?v=Jb_V7r_cnc0](https://www.youtube.com/watch?v=Jb_V7r_cnc0)
 * Snutt & Jace & Torsten Talk: Developer Highlights [https://www.youtube.com/watch?v=jO0uF_Ul7ZA](https://www.youtube.com/watch?v=jO0uF_Ul7ZA)

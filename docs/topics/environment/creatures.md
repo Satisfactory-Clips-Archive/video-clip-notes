@@ -10,6 +10,9 @@ date: Last Modified
 * [Non Flying Bird](../../topics/environment/creatures/non-flying-bird.md)
 * [Space Giraffe-Tick-Penguin-Whale Thing](../../topics/environment/creatures/space-giraffe-tick-penguin-whale-thing.md)
 
+## March 15th, 2022 Livestream
+* [Q&A: Will we see more enemy types in the future or more weapons?](../../transcriptions/yt-zlyra4JQvW4.md) [https://www.youtube.com/watch?v=zlyra4JQvW4](https://www.youtube.com/watch?v=zlyra4JQvW4)
+
 ## March 1st, 2022 Livestream
 * [Q&A: New monsters?](../../transcriptions/yt-JcaCeUfkVpo.md) [https://www.youtube.com/watch?v=JcaCeUfkVpo](https://www.youtube.com/watch?v=JcaCeUfkVpo)
 

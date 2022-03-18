@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > State of Dev
 
+## March 15th, 2022 Livestream
+* [State of Dave](../../transcriptions/yt-AB0xnJuGK5w.md) [https://www.youtube.com/watch?v=AB0xnJuGK5w](https://www.youtube.com/watch?v=AB0xnJuGK5w)
+
 ## March 8th, 2022 Livestream
 * [State of Dave](../../transcriptions/yt-h50BymQ68pM.md) [https://www.youtube.com/watch?v=h50BymQ68pM](https://www.youtube.com/watch?v=h50BymQ68pM)
 

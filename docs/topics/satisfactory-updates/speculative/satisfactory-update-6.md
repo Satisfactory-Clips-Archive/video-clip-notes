@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Speculative > Satisfactory Update 6
 
+## March 15th, 2022 Livestream
+* [Q&A: Is there a rough estimate for the next Update?](../../../transcriptions/yt-c-M3BviVCzE.md) [https://www.youtube.com/watch?v=c-M3BviVCzE](https://www.youtube.com/watch?v=c-M3BviVCzE)
+
 ## March 1st, 2022 Livestream
 * [Q&A: Will you make a "What's next for Satisfactory" video?](../../../transcriptions/yt-F2Ux0lu2y2o.md) [https://www.youtube.com/watch?v=F2Ux0lu2y2o](https://www.youtube.com/watch?v=F2Ux0lu2y2o)
 * [Q&A: How many big Updates are you away from 1.0?](../../../transcriptions/yt-jdUPNumTkUE.md) [https://www.youtube.com/watch?v=jdUPNumTkUE](https://www.youtube.com/watch?v=jdUPNumTkUE)

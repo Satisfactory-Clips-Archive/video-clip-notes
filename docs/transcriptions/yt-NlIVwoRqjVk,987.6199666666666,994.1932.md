@@ -8,7 +8,7 @@ topics:
 # [May 15th, 2020 Q&A](../2020-05-15.md)
 ## Q&A: Customisation of our characters?
 https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=987&end=995
-This question was possibly duplicated with a more recent answer: [February 8th, 2022 Livestream Q&A: Can we customise the Pioneer in the future for Multiplayer?](./yt-3gdkRbsLRUo.md) [https://www.youtube.com/watch?v=3gdkRbsLRUo](https://www.youtube.com/watch?v=3gdkRbsLRUo)
+This question was possibly duplicated with a more recent answer: [March 15th, 2022 Livestream Q&A: Character Customisation?](./yt-1a-I7ds_Ipc.md) [https://www.youtube.com/watch?v=1a-I7ds_Ipc](https://www.youtube.com/watch?v=1a-I7ds_Ipc)
 
 
 ### Topics

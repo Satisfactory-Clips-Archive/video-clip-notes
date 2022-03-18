@@ -8,7 +8,7 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Will you create Console version of Satisfactory?
 https://www.youtube.com/watch?v=_MGUbEI247M
-This question was possibly duplicated with a more recent answer: [January 18th, 2022 Livestream Q&A: When's Satisfactory due on Nintendo Switch?](./yt-et-JsEQbwt8.md) [https://www.youtube.com/watch?v=et-JsEQbwt8](https://www.youtube.com/watch?v=et-JsEQbwt8)
+This question was possibly duplicated with a more recent answer: March 15th, 2022 Livestream Q&A: Will Console ever come out? [https://www.youtube.com/watch?v=szP1t6ZFKR0](https://www.youtube.com/watch?v=szP1t6ZFKR0)
 
 
 ### Topics

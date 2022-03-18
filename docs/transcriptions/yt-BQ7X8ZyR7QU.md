@@ -9,6 +9,8 @@ topics:
 # [November 16th, 2021 Livestream](../2021-11-16.md)
 ## Q&A: Any plans to change the Train pathing from static to dynamic?
 https://www.youtube.com/watch?v=BQ7X8ZyR7QU
+This question was possibly replaced with a more recent answer: [March 15th, 2022 Livestream Q&A: Is it planned to rework the Train pathing?](./yt-H3xMlRotxW0.md) [https://www.youtube.com/watch?v=H3xMlRotxW0](https://www.youtube.com/watch?v=H3xMlRotxW0)
+
 <details>
 <summary>This question may have been asked previously at least 1 other time, as recently as November 2021.</summary>
 

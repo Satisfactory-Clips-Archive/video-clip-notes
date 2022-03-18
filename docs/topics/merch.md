@@ -7,6 +7,10 @@ date: Last Modified
 * [EU Merch Store](../topics/merch/eu-merch-store.md)
 * [Merch Prototypes](../topics/merch/merch-prototypes.md)
 
+## March 15th, 2022 Livestream
+* [Snutt & Jace Talk: Merch](../transcriptions/yt-Zrl4Opu8e98.md) [https://www.youtube.com/watch?v=Zrl4Opu8e98](https://www.youtube.com/watch?v=Zrl4Opu8e98)
+* [Q&A: Do either of you get Satis Merch, or do you have to get your own?](../transcriptions/yt-sQJRb9leaPc.md) [https://www.youtube.com/watch?v=sQJRb9leaPc](https://www.youtube.com/watch?v=sQJRb9leaPc)
+
 ## February 22nd, 2022 Livestream
 * [Q&A: Add plush Doggo to the second seat?](../transcriptions/yt-NoqAEj4SREw.md) [https://www.youtube.com/watch?v=NoqAEj4SREw](https://www.youtube.com/watch?v=NoqAEj4SREw)
 * [Q&A: Can you show the Doggo Plushie, I'm waiting for mine?](../transcriptions/yt-rIWDa8fKA5A.md) [https://www.youtube.com/watch?v=rIWDa8fKA5A](https://www.youtube.com/watch?v=rIWDa8fKA5A)

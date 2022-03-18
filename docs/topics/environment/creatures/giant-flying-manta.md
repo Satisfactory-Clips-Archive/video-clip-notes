@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Creatures](../../../topics/environment/creatures.md) > Giant Flying Manta
 
+## March 15th, 2022 Livestream
+* [Q&A: Who gets Sky Manta saddles?](../../../transcriptions/yt-C45QlJMMGGc.md) [https://www.youtube.com/watch?v=C45QlJMMGGc](https://www.youtube.com/watch?v=C45QlJMMGGc)
+
 ## October 12th, 2021 Livestream
 * [Community Highlights: Manta lore](../../../transcriptions/yt-EfmdHVHibCE.md) [https://www.youtube.com/watch?v=EfmdHVHibCE](https://www.youtube.com/watch?v=EfmdHVHibCE)
 

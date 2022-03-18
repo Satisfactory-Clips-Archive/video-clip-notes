@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Speculative > Satisfactory Update 7
 
+## March 15th, 2022 Livestream
+* [Q&A: Is there a rough estimate for the next Update?](../../../transcriptions/yt-c-M3BviVCzE.md) [https://www.youtube.com/watch?v=c-M3BviVCzE](https://www.youtube.com/watch?v=c-M3BviVCzE)
+
 ## February 8th, 2022 Livestream
 * [Q&A: Is Spire Coast rework still on the roadmap?](../../../transcriptions/yt-ej4HO0ZrhQQ.md) [https://www.youtube.com/watch?v=ej4HO0ZrhQQ](https://www.youtube.com/watch?v=ej4HO0ZrhQQ)
 

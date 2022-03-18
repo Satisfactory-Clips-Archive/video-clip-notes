@@ -1,0 +1,17 @@
+---
+title: "March 15th, 2022 Livestream Q&A: How useful are these \"I have played 1000 hours and these are my complaints\" QA Site posts?"
+date: "2022-03-15"
+layout: transcript
+topics:
+    - "qa-site"
+---
+# [March 15th, 2022 Livestream](../2022-03-15.md)
+## Q&A: How useful are these "I have played 1000 hours and these are my complaints" QA Site posts?
+https://www.youtube.com/watch?v=7x8urIiVog0
+
+### Topics
+* [QA Site](../topics/qa-site.md)
+
+### Transcript
+
+> on the q a side how useful are these I played a thousand hours here's a list of my complaints post to you so I talked a little bit about this last week I think where you know there's there's a lot of people playing our game and people are have like various you know degrees of like how much they play the game right because I think there's a small subset of people that have played like thousands and thousands of hours in the game and you guys have one type of like, feedback for us and then there's the other rest of the people the other dimpy 99 no but, like there's there's many types of players and likes people that have played for thousands hours there's people who play for a couple of hours and we always have to like kind of like figure out the middle path for everything you know like the people that are paid the thousands of hours they may have you know the experience to be able to point that like this thing is really annoying and this is something that you know could alleviate a lot of problems but maybe only you guys run into that and you know if if only like one percent of the people playing our game run into an issue then it like how much warns that us fixing it but we also care a lot about those people that play thousands of hours so obviously we want to fix those kind of things things so it is a balancing act of you know figuring out but when you ask like how like how useful those are I would say they're 100 useful, like regardless how much you played so so I would say so specifically what they're saying here though is like what about here's a list of complaints yeah so I would say it's it's it's infinitely better that they make those posts than if they don't make those yes however something that's better is and it might be more tedious but it's to make separate posts for each individual thing and the reason for that is because, then people can upvote on the things like other people can upvote the things that matter to them or that they agree with but it's kind of tricky to sort of upvote like or it's hard for us to engage like if we if there's a post that has like 50 different complaints and it has a lot of upvotes like we don't know which complaints people are up voting for, you know what I mean but if those were broken up then we'd be like okay we can see that like a lot of people care about you know these ten different things here or whatever so like I would say ideally one post for one topic, but these posts with like lists of complaints are also better than not having those in those posts at all yeah for sure after golf I'll never upload again man it's gonna say the same thing hey you know what so like we we did we didn't add golf but what we did do was we made an entire fun video for it all right yeah you did get something out of it okay you got something out of it you know we we acknowledge that y'all you know the joke the meme we acknowledge that you all wanted it yeah but we we're not a feature but we you know we didn't we did something with it hopefully it was fun yes very nice you made a mean to anger chat no I'm talking about

@@ -9,7 +9,7 @@ topics:
 # [May 11th, 2021 Livestream](../2021-05-11.md)
 ## Q&A: When the full game's out, will you consider releasing for Console?
 https://www.youtube.com/watch?v=CmSDjJQUmIM
-This question was possibly duplicated with a more recent answer: [January 18th, 2022 Livestream Q&A: When's Satisfactory due on Nintendo Switch?](./yt-et-JsEQbwt8.md) [https://www.youtube.com/watch?v=et-JsEQbwt8](https://www.youtube.com/watch?v=et-JsEQbwt8)
+This question was possibly duplicated with a more recent answer: March 15th, 2022 Livestream Q&A: Will Console ever come out? [https://www.youtube.com/watch?v=szP1t6ZFKR0](https://www.youtube.com/watch?v=szP1t6ZFKR0)
 
 
 ### Topics

@@ -9,11 +9,7 @@ topics:
 # [August 17th, 2021 Livestream](../2021-08-17.md)
 ## Q&A: Same bug as the equipment that flies in the tube?
 https://www.youtube.com/watch?v=r7lFsWlRIPE
-<details>
-<summary>This question may have been asked previously at least 1 other time, as recently as March 2021.</summary>
-
-* [March 30th, 2021 Livestream Q&A: When are my Blade Runners going to stay on my character while in Hyper Tubes?](./yt-gXm3WrzRrUU.md) [https://www.youtube.com/watch?v=gXm3WrzRrUU](https://www.youtube.com/watch?v=gXm3WrzRrUU)
-</details>
+This question was possibly duplicated with a more recent answer: [March 15th, 2022 Livestream Q&A: Will you ever fix the Blades glitching through the Hypertubes?](./yt-RSRBm3ZiLKg.md) [https://www.youtube.com/watch?v=RSRBm3ZiLKg](https://www.youtube.com/watch?v=RSRBm3ZiLKg)
 
 
 ### Topics

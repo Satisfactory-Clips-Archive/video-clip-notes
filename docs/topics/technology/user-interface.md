@@ -6,6 +6,10 @@ date: Last Modified
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > User Interface
 * [Holograms](../../topics/technology/user-interface/holograms.md)
 
+## March 15th, 2022 Livestream
+* [Q&A: How do you switch hotbars in-game?](../../transcriptions/yt-OYft5tBT14U.md) [https://www.youtube.com/watch?v=OYft5tBT14U](https://www.youtube.com/watch?v=OYft5tBT14U)
+* [Q&A: Will hard-coded keybinds be fixed?](../../transcriptions/yt-kIZ7lO4jGq0.md) [https://www.youtube.com/watch?v=kIZ7lO4jGq0](https://www.youtube.com/watch?v=kIZ7lO4jGq0)
+
 ## March 8th, 2022 Livestream
 * [Q&A: Can you middle-click to select an existing colour?](../../transcriptions/yt-4OieGu7-174.md) [https://www.youtube.com/watch?v=4OieGu7-174](https://www.youtube.com/watch?v=4OieGu7-174)
 * [Q&A: Will you ever add a copy & paste function for factory Buildings?](../../transcriptions/yt-ldx3rMaaM2c.md) [https://www.youtube.com/watch?v=ldx3rMaaM2c](https://www.youtube.com/watch?v=ldx3rMaaM2c)

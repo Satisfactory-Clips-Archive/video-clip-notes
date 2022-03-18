@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Mods](../../topics/mods.md) > Mods vs. Features
 
+## March 15th, 2022 Livestream
+* [Q&A: Circle Foundation without Mods?](../../transcriptions/yt-As8zQkJUXXE.md) [https://www.youtube.com/watch?v=As8zQkJUXXE](https://www.youtube.com/watch?v=As8zQkJUXXE)
+
 ## March 8th, 2022 Livestream
 * [Q&A: Will you ever add a copy & paste function for factory Buildings?](../../transcriptions/yt-ldx3rMaaM2c.md) [https://www.youtube.com/watch?v=ldx3rMaaM2c](https://www.youtube.com/watch?v=ldx3rMaaM2c)
 

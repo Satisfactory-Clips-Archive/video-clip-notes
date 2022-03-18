@@ -10,6 +10,15 @@ date: Last Modified
 * [Juice Velvet](../../topics/coffee-stainers/jace/juice-velvet.md)
 * [Robo Jace](../../topics/coffee-stainers/jace/robo-jace.md)
 
+## March 15th, 2022 Livestream
+* [Snutt & Jace Talk: Robo Jace (Intro)](../../transcriptions/yt-EU5g84DVAcc.md) [https://www.youtube.com/watch?v=EU5g84DVAcc](https://www.youtube.com/watch?v=EU5g84DVAcc)
+* [Q&A: Is Jace in Australia?](../../transcriptions/yt-2gcwbZ2f8Ic.md) [https://www.youtube.com/watch?v=2gcwbZ2f8Ic](https://www.youtube.com/watch?v=2gcwbZ2f8Ic)
+* [Q&A: How is Jace not upside down?](../../transcriptions/yt-8tJx6rkgDok.md) [https://www.youtube.com/watch?v=8tJx6rkgDok](https://www.youtube.com/watch?v=8tJx6rkgDok)
+* [Q&A: Do either of you get Satis Merch, or do you have to get your own?](../../transcriptions/yt-sQJRb9leaPc.md) [https://www.youtube.com/watch?v=sQJRb9leaPc](https://www.youtube.com/watch?v=sQJRb9leaPc)
+* [Q&A: Where is Jace streaming from?](../../transcriptions/yt-G-X_n18t6NA.md) [https://www.youtube.com/watch?v=G-X_n18t6NA](https://www.youtube.com/watch?v=G-X_n18t6NA)
+* [Q&A: What do you have for dinner plans?](../../transcriptions/yt-EJsJ9rtR81c.md) [https://www.youtube.com/watch?v=EJsJ9rtR81c](https://www.youtube.com/watch?v=EJsJ9rtR81c)
+* [Q&A: When did Jace move back to Australia?](../../transcriptions/yt-rUCIxAOtqTY.md) [https://www.youtube.com/watch?v=rUCIxAOtqTY](https://www.youtube.com/watch?v=rUCIxAOtqTY)
+
 ## March 4th, 2022 Video
 * [Snutt & Jace Talk: Hot Coffee Potato Stainers](../../transcriptions/yt-AbggpyCo1kc,111.87843333333333,118.68523333333333.md) [https://youtube.com/embed/AbggpyCo1kc?autoplay=1&start=111&end=119](https://youtube.com/embed/AbggpyCo1kc?autoplay=1&start=111&end=119)
 * [Snutt & Jace Talk: Jace owes Lym $1](../../transcriptions/yt-AbggpyCo1kc,118.672224,132.36556666666667.md) [https://youtube.com/embed/AbggpyCo1kc?autoplay=1&start=118&end=133](https://youtube.com/embed/AbggpyCo1kc?autoplay=1&start=118&end=133)

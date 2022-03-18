@@ -8,6 +8,8 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Plans to make saddle for the big flying thing?
 https://www.youtube.com/watch?v=gcjbJ7uX2No
+This question was possibly duplicated with a more recent answer: [March 15th, 2022 Livestream Q&A: Who gets Sky Manta saddles?](./yt-C45QlJMMGGc.md) [https://www.youtube.com/watch?v=C45QlJMMGGc](https://www.youtube.com/watch?v=C45QlJMMGGc)
+
 
 ### Topics
 * [Environment > Creatures > Giant Flying Manta](../topics/environment/creatures/giant-flying-manta.md)

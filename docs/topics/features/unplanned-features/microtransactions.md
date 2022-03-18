@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Unplanned Features](../../../topics/features/unplanned-features.md) > Microtransactions
 
+## March 15th, 2022 Livestream
+* [Community FYI: Hats, worked for Valve right?](../../../transcriptions/yt-gNhT500r6eE.md) [https://www.youtube.com/watch?v=gNhT500r6eE](https://www.youtube.com/watch?v=gNhT500r6eE)
+
 ## December 14th, 2021 Livestream
 * [Q&A: Will you add Microtransactions?](../../../transcriptions/yt-fLUrva0yrZs.md) [https://www.youtube.com/watch?v=fLUrva0yrZs](https://www.youtube.com/watch?v=fLUrva0yrZs)
 

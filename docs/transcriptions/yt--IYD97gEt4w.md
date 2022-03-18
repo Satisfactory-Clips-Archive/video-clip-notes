@@ -8,7 +8,7 @@ topics:
 # [January 12th, 2021 Livestream](../2021-01-12.md)
 ## Q&A: New skins?
 https://www.youtube.com/watch?v=-IYD97gEt4w
-This question was possibly duplicated with a more recent answer: [February 8th, 2022 Livestream Q&A: Can we customise the Pioneer in the future for Multiplayer?](./yt-3gdkRbsLRUo.md) [https://www.youtube.com/watch?v=3gdkRbsLRUo](https://www.youtube.com/watch?v=3gdkRbsLRUo)
+This question was possibly duplicated with a more recent answer: [March 15th, 2022 Livestream Q&A: Character Customisation?](./yt-1a-I7ds_Ipc.md) [https://www.youtube.com/watch?v=1a-I7ds_Ipc](https://www.youtube.com/watch?v=1a-I7ds_Ipc)
 
 
 ### Topics

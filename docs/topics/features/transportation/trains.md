@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > Transportation > Trains
 * [Train Signals](../../../topics/features/transportation/trains/train-signals.md)
 
+## March 15th, 2022 Livestream
+* [Q&A: Is it planned to rework the Train pathing?](../../../transcriptions/yt-H3xMlRotxW0.md) [https://www.youtube.com/watch?v=H3xMlRotxW0](https://www.youtube.com/watch?v=H3xMlRotxW0)
+
 ## March 8th, 2022 Livestream
 * [Q&A: Is it possible to add a "no load" option on Train cars?](../../../transcriptions/yt-dZXrOQ3ljac.md) [https://www.youtube.com/watch?v=dZXrOQ3ljac](https://www.youtube.com/watch?v=dZXrOQ3ljac)
 

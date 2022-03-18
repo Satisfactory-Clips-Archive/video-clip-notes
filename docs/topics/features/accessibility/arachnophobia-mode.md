@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Accessibility](../../../topics/features/accessibility.md) > Arachnophobia Mode
 
+## March 15th, 2022 Livestream
+* [Q&A: Whose cats were used for Arachnophobia Mode?](../../../transcriptions/yt-f2soWvNwS-g.md) [https://www.youtube.com/watch?v=f2soWvNwS-g](https://www.youtube.com/watch?v=f2soWvNwS-g)
+
 ## March 1st, 2022 Livestream
 * [Q&A: Make game less scawwy?](../../../transcriptions/yt-tOXcd7rJGag.md) [https://www.youtube.com/watch?v=tOXcd7rJGag](https://www.youtube.com/watch?v=tOXcd7rJGag)
 
