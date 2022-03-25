@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > Mac
 
+## March 22nd, 2022 Livestream
+* [Q&A: Will there be a Mac OS version?](../../transcriptions/yt-NXk08Ir5PCg.md) [https://www.youtube.com/watch?v=NXk08Ir5PCg](https://www.youtube.com/watch?v=NXk08Ir5PCg)
+
 ## December 14th, 2021 Livestream
 * [Q&A: Anything coming out on MacOS?](../../transcriptions/yt-NE3mXE6o1wI.md) [https://www.youtube.com/watch?v=NE3mXE6o1wI](https://www.youtube.com/watch?v=NE3mXE6o1wI)
 

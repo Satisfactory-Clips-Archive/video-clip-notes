@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > World Update
 
+## March 22nd, 2022 Livestream
+* [Q&A: With the massive changes in the Spire Coast coming, will the nodes be moved?](../../transcriptions/yt-68KABdE6tGI.md) [https://www.youtube.com/watch?v=68KABdE6tGI](https://www.youtube.com/watch?v=68KABdE6tGI)
+
 ## March 8th, 2022 Livestream
 * [Q&A: When would you guess the Map would be finalised?](../../transcriptions/yt-0RdnPihfRpk.md) [https://www.youtube.com/watch?v=0RdnPihfRpk](https://www.youtube.com/watch?v=0RdnPihfRpk)
 * [Q&A: Does the World Update include the top of the Map near the Dune Desert?](../../transcriptions/yt-oEtrnGqOY64.md) [https://www.youtube.com/watch?v=oEtrnGqOY64](https://www.youtube.com/watch?v=oEtrnGqOY64)

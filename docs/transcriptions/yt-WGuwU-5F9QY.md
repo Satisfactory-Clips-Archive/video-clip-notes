@@ -9,6 +9,8 @@ topics:
 # [June 8th, 2021 Livestream](../2021-06-08.md)
 ## Q&A: My game stutters when I look around certain parts of the Map, what settings can I tweak?
 https://www.youtube.com/watch?v=WGuwU-5F9QY
+This question was possibly duplicated with a more recent answer: [March 22nd, 2022 Livestream Q&A: Any info on stuttering fix while moving around in the world?](./yt-qQewNwoZxMI.md) [https://www.youtube.com/watch?v=qQewNwoZxMI](https://www.youtube.com/watch?v=qQewNwoZxMI)
+
 
 ### Topics
 * [Environment > World Map](../topics/environment/world-map.md)

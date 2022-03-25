@@ -9,7 +9,7 @@ topics:
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Q&A: Will there be DLCs?
 https://www.youtube.com/watch?v=-f-E47s74Uw
-This question was possibly duplicated with a more recent answer: [November 2nd, 2021 Livestream Q&A: After 1.0 will you still support the game or just move on?](./yt-4uejLZj2lCk.md) [https://www.youtube.com/watch?v=4uejLZj2lCk](https://www.youtube.com/watch?v=4uejLZj2lCk)
+This question was possibly duplicated with a more recent answer: [March 22nd, 2022 Livestream Q&A: What's your vision of the game after 1.0?](./yt-xSSMYi2gdUo.md) [https://www.youtube.com/watch?v=xSSMYi2gdUo](https://www.youtube.com/watch?v=xSSMYi2gdUo)
 
 <details>
 <summary>This question may have been asked previously at least 2 other times, as recently as October 2020 and as early as February 2019.</summary>

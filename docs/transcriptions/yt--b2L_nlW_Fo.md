@@ -9,7 +9,7 @@ topics:
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: Please tell me Update 4 will use S.A.M. Ore
 https://www.youtube.com/watch?v=-b2L_nlW_Fo
-This question was possibly duplicated with a more recent answer: [January 25th, 2022 Livestream Q&A: Have you told what S.A.M. Ore stands for?](./yt-bp9bhL_WoQk.md) [https://www.youtube.com/watch?v=bp9bhL_WoQk](https://www.youtube.com/watch?v=bp9bhL_WoQk)
+This question was possibly duplicated with a more recent answer: [March 22nd, 2022 Livestream Q&A: When are we going to see something with S.A.M. Ore?](./yt-QPP1gPrzC9Y.md) [https://www.youtube.com/watch?v=QPP1gPrzC9Y](https://www.youtube.com/watch?v=QPP1gPrzC9Y)
 
 
 ### Topics

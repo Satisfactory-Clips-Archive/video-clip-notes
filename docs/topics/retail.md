@@ -9,6 +9,10 @@ date: Last Modified
 * [GeForce Now](../topics/retail/geforce-now.md)
 * [Steam Store](../topics/retail/steam-store.md)
 
+## March 22nd, 2022 Livestream
+* [Q&A: How can you finance the game?](../transcriptions/yt-WfpyvW54Hs0.md) [https://www.youtube.com/watch?v=WfpyvW54Hs0](https://www.youtube.com/watch?v=WfpyvW54Hs0)
+* [Q&A: How many copies have you sold?](../transcriptions/yt-WdgjQHLjLCk.md) [https://www.youtube.com/watch?v=WdgjQHLjLCk](https://www.youtube.com/watch?v=WdgjQHLjLCk)
+
 ## December 24th, 2021 Video
 * [Snutt Talk: 3 Million copies sold](../transcriptions/yt-1Tksg738sHo,105.13836666666667,160.02653333333333.md) [https://youtube.com/clip/UgkxW7wHVHO0vTl18DAvRVquDIHyoBmvutsK](https://youtube.com/clip/UgkxW7wHVHO0vTl18DAvRVquDIHyoBmvutsK)
 

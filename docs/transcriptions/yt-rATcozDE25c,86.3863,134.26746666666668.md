@@ -9,7 +9,7 @@ topics:
 # [October 1st, 2020 Q&A](../2020-10-01.md)
 ## Q&A: Are there any plans beyond 1.0?
 https://youtube.com/embed/rATcozDE25c?autoplay=1&start=86&end=135
-This question was possibly duplicated with a more recent answer: [November 2nd, 2021 Livestream Q&A: After 1.0 will you still support the game or just move on?](./yt-4uejLZj2lCk.md) [https://www.youtube.com/watch?v=4uejLZj2lCk](https://www.youtube.com/watch?v=4uejLZj2lCk)
+This question was possibly duplicated with a more recent answer: [March 22nd, 2022 Livestream Q&A: What's your vision of the game after 1.0?](./yt-xSSMYi2gdUo.md) [https://www.youtube.com/watch?v=xSSMYi2gdUo](https://www.youtube.com/watch?v=xSSMYi2gdUo)
 
 
 ### Topics

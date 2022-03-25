@@ -26,6 +26,10 @@ date: Last Modified
 * [The HUB](../../topics/features/buildings/the-hub.md)
 * [Water Extractor](../../topics/features/buildings/water-extractor.md)
 
+## March 22nd, 2022 Livestream
+* [Q&A: Is there going to be a copy & paste function?](../../transcriptions/yt-eObleNCQCp4.md) [https://www.youtube.com/watch?v=eObleNCQCp4](https://www.youtube.com/watch?v=eObleNCQCp4)
+* [Q&A: Would be cool to be able to copy & paste from a distance](../../transcriptions/yt-VtDPmxElNt8.md) [https://www.youtube.com/watch?v=VtDPmxElNt8](https://www.youtube.com/watch?v=VtDPmxElNt8)
+
 ## March 8th, 2022 Livestream
 * [Q&A: Plans to make Truck Stations for Fluids?](../../transcriptions/yt-O0Pr5KSisOA.md) [https://www.youtube.com/watch?v=O0Pr5KSisOA](https://www.youtube.com/watch?v=O0Pr5KSisOA)
 * [Q&A: Will you ever add a copy & paste function for factory Buildings?](../../transcriptions/yt-ldx3rMaaM2c.md) [https://www.youtube.com/watch?v=ldx3rMaaM2c](https://www.youtube.com/watch?v=ldx3rMaaM2c)

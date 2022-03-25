@@ -8,6 +8,8 @@ topics:
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Q&A: Will there be an update on how many copies of the game has sold?
 https://www.youtube.com/watch?v=WevOPEUHjT4
+This question was possibly replaced with a more recent answer: [March 22nd, 2022 Livestream Q&A: How many copies have you sold?](./yt-WdgjQHLjLCk.md) [https://www.youtube.com/watch?v=WdgjQHLjLCk](https://www.youtube.com/watch?v=WdgjQHLjLCk)
+
 
 ### Topics
 * [Retail](../topics/retail.md)

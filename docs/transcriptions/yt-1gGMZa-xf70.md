@@ -8,7 +8,7 @@ topics:
 # [March 24th, 2020 Livestream](../2020-03-24.md)
 ## Q&A: How often will you be releasing new content?
 https://www.youtube.com/watch?v=1gGMZa-xf70
-This question was possibly duplicated with a more recent answer: [March 8th, 2022 Livestream Q&A: How many releases until 1.0?](./yt-VCC3bWwqnkw.md) [https://www.youtube.com/watch?v=VCC3bWwqnkw](https://www.youtube.com/watch?v=VCC3bWwqnkw)
+This question was possibly duplicated with a more recent answer: [March 22nd, 2022 Livestream Q&A: Do you think you guys are close to 1.0?](./yt-D0Za_7YA9G0.md) [https://www.youtube.com/watch?v=D0Za_7YA9G0](https://www.youtube.com/watch?v=D0Za_7YA9G0)
 
 
 ### Topics

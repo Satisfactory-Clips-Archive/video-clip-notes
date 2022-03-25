@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../topics.md) > [Retail](../../topics/retail.md) > Epic Store
 * [Epic Store Exclusivity](../../topics/retail/epic-store/epic-store-exclusivity.md)
 
+## March 22nd, 2022 Livestream
+* [Q&A: But only 17 on Epic, correct?](../../transcriptions/yt-0-37qub4X_g.md) [https://www.youtube.com/watch?v=0-37qub4X_g](https://www.youtube.com/watch?v=0-37qub4X_g)
+
 ## December 14th, 2021 Livestream
 * [Snutt Talk: Dedicated Servers on Steam & Epic](../../transcriptions/yt-B894pE07Itc.md) [https://www.youtube.com/watch?v=B894pE07Itc](https://www.youtube.com/watch?v=B894pE07Itc)
 

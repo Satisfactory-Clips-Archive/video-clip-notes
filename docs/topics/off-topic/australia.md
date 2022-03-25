@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Australia
 
+## March 22nd, 2022 Livestream
+* [Snutt & Jace Talk: Sweden, Australia, and Final Fantasy](../../transcriptions/yt-nB5WPdA8EPs.md) [https://www.youtube.com/watch?v=nB5WPdA8EPs](https://www.youtube.com/watch?v=nB5WPdA8EPs)
+
 ## March 15th, 2022 Livestream
 * [Snutt & Jace Talk: Robo Jace (Intro)](../../transcriptions/yt-EU5g84DVAcc.md) [https://www.youtube.com/watch?v=EU5g84DVAcc](https://www.youtube.com/watch?v=EU5g84DVAcc)
 * [Q&A: Is Jace in Australia?](../../transcriptions/yt-2gcwbZ2f8Ic.md) [https://www.youtube.com/watch?v=2gcwbZ2f8Ic](https://www.youtube.com/watch?v=2gcwbZ2f8Ic)

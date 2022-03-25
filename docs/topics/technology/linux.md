@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > Linux
 
+## March 22nd, 2022 Livestream
+* [Q&A: Testing on Steam Deck yet?](../../transcriptions/yt-A8jMGfamqAE.md) [https://www.youtube.com/watch?v=A8jMGfamqAE](https://www.youtube.com/watch?v=A8jMGfamqAE)
+
 ## March 1st, 2022 Livestream
 * [Q&A: Steam Deck release?](../../transcriptions/yt-8xcEe2G_fio.md) [https://www.youtube.com/watch?v=8xcEe2G_fio](https://www.youtube.com/watch?v=8xcEe2G_fio)
 

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Environment](../../topics/environment.md) > World Map
 
+## March 22nd, 2022 Livestream
+* [Q&A: Any info on stuttering fix while moving around in the world?](../../transcriptions/yt-qQewNwoZxMI.md) [https://www.youtube.com/watch?v=qQewNwoZxMI](https://www.youtube.com/watch?v=qQewNwoZxMI)
+
 ## March 1st, 2022 Livestream
 * [Q&A: Any plans to increase the Satisfactory Map size?](../../transcriptions/yt-jJWJNuE_CXQ.md) [https://www.youtube.com/watch?v=jJWJNuE_CXQ](https://www.youtube.com/watch?v=jJWJNuE_CXQ)
 

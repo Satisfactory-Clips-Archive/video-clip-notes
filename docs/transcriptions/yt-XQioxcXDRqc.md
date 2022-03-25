@@ -8,7 +8,7 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Are you adding support for Mac any time soon?
 https://www.youtube.com/watch?v=XQioxcXDRqc
-This question was possibly duplicated with a more recent answer: [December 14th, 2021 Livestream Q&A: Anything coming out on MacOS?](./yt-NE3mXE6o1wI.md) [https://www.youtube.com/watch?v=NE3mXE6o1wI](https://www.youtube.com/watch?v=NE3mXE6o1wI)
+This question was possibly duplicated with a more recent answer: [March 22nd, 2022 Livestream Q&A: Will there be a Mac OS version?](./yt-NXk08Ir5PCg.md) [https://www.youtube.com/watch?v=NXk08Ir5PCg](https://www.youtube.com/watch?v=NXk08Ir5PCg)
 
 
 ### Topics

@@ -24,6 +24,11 @@ date: Last Modified
 * [Vilsol](../topics/community/vilsol.md)
 * [Wiki](../topics/community/wiki.md)
 
+## March 22nd, 2022 Livestream
+* [Snutt & Jace Talk: Satisfactory three year anniversary](../transcriptions/yt-RjebSqee0gs.md) [https://www.youtube.com/watch?v=RjebSqee0gs](https://www.youtube.com/watch?v=RjebSqee0gs)
+* [Snutt & Jace Talk: Satisfactory Constructor Lego Set](../transcriptions/yt-120i4hEezfY.md) [https://www.youtube.com/watch?v=120i4hEezfY](https://www.youtube.com/watch?v=120i4hEezfY)
+* [Q&A: With 10k are they going to make the Lego set?](../transcriptions/yt-uVSEWzl4MDA.md) [https://www.youtube.com/watch?v=uVSEWzl4MDA](https://www.youtube.com/watch?v=uVSEWzl4MDA)
+
 ## March 18th, 2022 Video
 * [Intro](../transcriptions/yt-VBGakEZilwk,,63.129733333333334.md) [https://youtube.com/embed/VBGakEZilwk?autoplay=1&start=0&end=64](https://youtube.com/embed/VBGakEZilwk?autoplay=1&start=0&end=64)
 

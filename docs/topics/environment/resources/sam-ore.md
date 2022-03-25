@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Resources](../../../topics/environment/resources.md) > S.A.M. Ore
 
+## March 22nd, 2022 Livestream
+* [Q&A: When are we going to see something with S.A.M. Ore?](../../../transcriptions/yt-QPP1gPrzC9Y.md) [https://www.youtube.com/watch?v=QPP1gPrzC9Y](https://www.youtube.com/watch?v=QPP1gPrzC9Y)
+
 ## March 18th, 2022 Video
 * [Snutt & Jace Talk: Unreleased Content article](../../../transcriptions/yt-VBGakEZilwk,589.7892,1115.8480666666667.md) [https://youtube.com/embed/VBGakEZilwk?autoplay=1&start=589&end=1116](https://youtube.com/embed/VBGakEZilwk?autoplay=1&start=589&end=1116)
 

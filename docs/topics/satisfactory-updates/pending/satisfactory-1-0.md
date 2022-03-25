@@ -5,6 +5,13 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Pending > Satisfactory 1.0
 
+## March 22nd, 2022 Livestream
+* [Q&A: Do you think you guys are close to 1.0?](../../../transcriptions/yt-D0Za_7YA9G0.md) [https://www.youtube.com/watch?v=D0Za_7YA9G0](https://www.youtube.com/watch?v=D0Za_7YA9G0)
+* [Q&A: What's your vision of the game after 1.0?](../../../transcriptions/yt-xSSMYi2gdUo.md) [https://www.youtube.com/watch?v=xSSMYi2gdUo](https://www.youtube.com/watch?v=xSSMYi2gdUo)
+* [Q&A: Will we see a return of Captain Birk of the S.S. Chillax when the 1.0 plans are more firm?](../../../transcriptions/yt-9f7ZcAO-tf4.md) [https://www.youtube.com/watch?v=9f7ZcAO-tf4](https://www.youtube.com/watch?v=9f7ZcAO-tf4)
+* [Q&A: How long is the Roadmap to full release?](../../../transcriptions/yt-yPcySE_Bma0.md) [https://www.youtube.com/watch?v=yPcySE_Bma0](https://www.youtube.com/watch?v=yPcySE_Bma0)
+* [Q&A: Will the Story be coming in 1.0?](../../../transcriptions/yt-PQc2dwD7_Tg.md) [https://www.youtube.com/watch?v=PQc2dwD7_Tg](https://www.youtube.com/watch?v=PQc2dwD7_Tg)
+
 ## March 15th, 2022 Livestream
 * [Q&A: Do you intend to keep compatibility with old saves in 1.0?](../../../transcriptions/yt-Jugnbd6aYwQ.md) [https://www.youtube.com/watch?v=Jugnbd6aYwQ](https://www.youtube.com/watch?v=Jugnbd6aYwQ)
 

@@ -18,6 +18,10 @@ date: Last Modified
 * [Teasers & Trailers](../topics/satisfactory-updates/teasers-and-trailers.md)
 * [World Update](../topics/satisfactory-updates/world-update.md)
 
+## March 22nd, 2022 Livestream
+* [State of Dave](../transcriptions/yt-L57fpVqeGpI.md) [https://www.youtube.com/watch?v=L57fpVqeGpI](https://www.youtube.com/watch?v=L57fpVqeGpI)
+* [Q&A: Video on feature creep, please?](../transcriptions/yt-Jk2c2e7gM6I.md) [https://www.youtube.com/watch?v=Jk2c2e7gM6I](https://www.youtube.com/watch?v=Jk2c2e7gM6I)
+
 ## March 18th, 2022 Video
 * [Snutt & Jace Talk: Patch Notes articles](../transcriptions/yt-VBGakEZilwk,563.7965666666666,589.7558333333334.md) [https://youtube.com/clip/Ugkx2sUtYS3klKIH1ZPc7si67PbKCdaMDNvX](https://youtube.com/clip/Ugkx2sUtYS3klKIH1ZPc7si67PbKCdaMDNvX)
 

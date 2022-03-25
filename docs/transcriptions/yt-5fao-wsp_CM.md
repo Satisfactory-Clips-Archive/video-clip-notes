@@ -8,7 +8,7 @@ topics:
 # [March 8th, 2022 Livestream](../2022-03-08.md)
 ## Q&A: Is it true you guys are adding Golf?
 https://www.youtube.com/watch?v=5fao-wsp_CM
-This question was possibly duplicated with a more recent answer: [March 15th, 2022 Livestream Q&A: Golf, when?](./yt-lnYChdXeOJQ.md) [https://www.youtube.com/watch?v=lnYChdXeOJQ](https://www.youtube.com/watch?v=lnYChdXeOJQ)
+This question was possibly duplicated with a more recent answer: [March 22nd, 2022 Livestream Q&A: Why no Golf?](./yt-STS5LemFXA0.md) [https://www.youtube.com/watch?v=STS5LemFXA0](https://www.youtube.com/watch?v=STS5LemFXA0)
 
 
 ### Topics

@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Final Fantasy
 
+## March 22nd, 2022 Livestream
+* [Snutt & Jace Talk: Sweden, Australia, and Final Fantasy](../../transcriptions/yt-nB5WPdA8EPs.md) [https://www.youtube.com/watch?v=nB5WPdA8EPs](https://www.youtube.com/watch?v=nB5WPdA8EPs)
+* [Q&A: Has Snutt played the new Final Fantasy yet?](../../transcriptions/yt-0nbcozBNJNg.md) [https://www.youtube.com/watch?v=0nbcozBNJNg](https://www.youtube.com/watch?v=0nbcozBNJNg)
+
 ## February 22nd, 2022 Livestream
 * [Community FYI: FICSIT Fantasy](../../transcriptions/yt-y2rvhr5gFVc.md) [https://www.youtube.com/watch?v=y2rvhr5gFVc](https://www.youtube.com/watch?v=y2rvhr5gFVc)
 * [Q&A: Any summary about Updates?](../../transcriptions/yt-OCWfwBCWXG0.md) [https://www.youtube.com/watch?v=OCWfwBCWXG0](https://www.youtube.com/watch?v=OCWfwBCWXG0)

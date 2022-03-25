@@ -7,6 +7,10 @@ date: Last Modified
 * [EU Merch Store](../topics/merch/eu-merch-store.md)
 * [Merch Prototypes](../topics/merch/merch-prototypes.md)
 
+## March 22nd, 2022 Livestream
+* [Snutt & Jace Talk: Satisfactory Constructor Lego Set](../transcriptions/yt-120i4hEezfY.md) [https://www.youtube.com/watch?v=120i4hEezfY](https://www.youtube.com/watch?v=120i4hEezfY)
+* [Q&A: With 10k are they going to make the Lego set?](../transcriptions/yt-uVSEWzl4MDA.md) [https://www.youtube.com/watch?v=uVSEWzl4MDA](https://www.youtube.com/watch?v=uVSEWzl4MDA)
+
 ## March 15th, 2022 Livestream
 * [Snutt & Jace Talk: Merch](../transcriptions/yt-Zrl4Opu8e98.md) [https://www.youtube.com/watch?v=Zrl4Opu8e98](https://www.youtube.com/watch?v=Zrl4Opu8e98)
 * [Q&A: Do either of you get Satis Merch, or do you have to get your own?](../transcriptions/yt-sQJRb9leaPc.md) [https://www.youtube.com/watch?v=sQJRb9leaPc](https://www.youtube.com/watch?v=sQJRb9leaPc)

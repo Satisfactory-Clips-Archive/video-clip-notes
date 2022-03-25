@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Retail](../../topics/retail.md) > Early Access
 
+## March 22nd, 2022 Livestream
+* [Snutt & Jace Talk: Satisfactory three year anniversary](../../transcriptions/yt-RjebSqee0gs.md) [https://www.youtube.com/watch?v=RjebSqee0gs](https://www.youtube.com/watch?v=RjebSqee0gs)
+
 ## November 9th, 2021 Livestream
 * [Q&A: Is the game still fully-funded?](../../transcriptions/yt-ub_jfqVBxfs.md) [https://www.youtube.com/watch?v=ub_jfqVBxfs](https://www.youtube.com/watch?v=ub_jfqVBxfs)
 

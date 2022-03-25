@@ -9,6 +9,8 @@ topics:
 # [May 11th, 2021 Livestream](../2021-05-11.md)
 ## Q&A: Lego set please?
 https://www.youtube.com/watch?v=sjo3yhJzE0Y
+This question was possibly replaced with a more recent answer: [March 22nd, 2022 Livestream Q&A: With 10k are they going to make the Lego set?](./yt-uVSEWzl4MDA.md) [https://www.youtube.com/watch?v=uVSEWzl4MDA](https://www.youtube.com/watch?v=uVSEWzl4MDA)
+
 
 ### Topics
 * [Community](../topics/community.md)

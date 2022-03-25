@@ -9,7 +9,7 @@ topics:
 # [January 18th, 2022 Livestream](../2022-01-18.md)
 ## Q&A: Will we see Teleportation in the future of Satisfactory?
 https://www.youtube.com/watch?v=tg6iemNxFAM
-This question was possibly duplicated with a more recent answer: [February 22nd, 2022 Livestream Q&A: Teleporters?](./yt-UdJROx6rvdg.md) [https://www.youtube.com/watch?v=UdJROx6rvdg](https://www.youtube.com/watch?v=UdJROx6rvdg)
+This question was possibly duplicated with a more recent answer: [March 22nd, 2022 Livestream Q&A: Will there ever be teleportation in the game?](./yt-OyiCY_Hm0mo.md) [https://www.youtube.com/watch?v=OyiCY_Hm0mo](https://www.youtube.com/watch?v=OyiCY_Hm0mo)
 
 
 ### Topics

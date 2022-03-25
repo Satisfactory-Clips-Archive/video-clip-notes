@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../topics.md) > [Retail](../../topics/retail.md) > Steam Store
 * [Steam Release](../../topics/retail/steam-store/steam-release.md)
 
+## March 22nd, 2022 Livestream
+* [Q&A: Testing on Steam Deck yet?](../../transcriptions/yt-A8jMGfamqAE.md) [https://www.youtube.com/watch?v=A8jMGfamqAE](https://www.youtube.com/watch?v=A8jMGfamqAE)
+
 ## March 1st, 2022 Livestream
 * [Q&A: Any plans for a version picker on Steam?](../../transcriptions/yt-F_oFa2NyWiI.md) [https://www.youtube.com/watch?v=F_oFa2NyWiI](https://www.youtube.com/watch?v=F_oFa2NyWiI)
 

@@ -11,6 +11,9 @@ date: Last Modified
 * [Resources](../topics/environment/resources.md)
 * [World Map](../topics/environment/world-map.md)
 
+## March 22nd, 2022 Livestream
+* [Q&A: Will holes in the Map be removed?](../transcriptions/yt-Qg2NCEWJBE4.md) [https://www.youtube.com/watch?v=Qg2NCEWJBE4](https://www.youtube.com/watch?v=Qg2NCEWJBE4)
+
 ## March 8th, 2022 Livestream
 * [Q&A: Removable rocks, when?](../transcriptions/yt-9Lsp_D_eYB8.md) [https://www.youtube.com/watch?v=9Lsp_D_eYB8](https://www.youtube.com/watch?v=9Lsp_D_eYB8)
 

@@ -6,6 +6,12 @@ date: Last Modified
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > User Interface
 * [Holograms](../../topics/technology/user-interface/holograms.md)
 
+## March 22nd, 2022 Livestream
+* [Q&A: Is there going to be a copy & paste function?](../../transcriptions/yt-eObleNCQCp4.md) [https://www.youtube.com/watch?v=eObleNCQCp4](https://www.youtube.com/watch?v=eObleNCQCp4)
+* [Q&A: Would be cool to be able to copy & paste from a distance](../../transcriptions/yt-VtDPmxElNt8.md) [https://www.youtube.com/watch?v=VtDPmxElNt8](https://www.youtube.com/watch?v=VtDPmxElNt8)
+* [Q&A: Any thoughts on making Zoop limit a gameplay setting?](../../transcriptions/yt-FwIeJutZj98.md) [https://www.youtube.com/watch?v=FwIeJutZj98](https://www.youtube.com/watch?v=FwIeJutZj98)
+* [Q&A: What's your favourite feature in the game right now?](../../transcriptions/yt-bgf3K5VwYLE.md) [https://www.youtube.com/watch?v=bgf3K5VwYLE](https://www.youtube.com/watch?v=bgf3K5VwYLE)
+
 ## March 15th, 2022 Livestream
 * [Q&A: How do you switch hotbars in-game?](../../transcriptions/yt-OYft5tBT14U.md) [https://www.youtube.com/watch?v=OYft5tBT14U](https://www.youtube.com/watch?v=OYft5tBT14U)
 * [Q&A: Will hard-coded keybinds be fixed?](../../transcriptions/yt-kIZ7lO4jGq0.md) [https://www.youtube.com/watch?v=kIZ7lO4jGq0](https://www.youtube.com/watch?v=kIZ7lO4jGq0)

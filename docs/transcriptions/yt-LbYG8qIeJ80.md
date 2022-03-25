@@ -8,6 +8,8 @@ topics:
 # [September 7th, 2021 Livestream](../2021-09-07.md)
 ## Q&A: How many copies of the game have been purchased so far?
 https://www.youtube.com/watch?v=LbYG8qIeJ80
+This question was possibly replaced with a more recent answer: [March 22nd, 2022 Livestream Q&A: How many copies have you sold?](./yt-WdgjQHLjLCk.md) [https://www.youtube.com/watch?v=WdgjQHLjLCk](https://www.youtube.com/watch?v=WdgjQHLjLCk)
+
 <details>
 <summary>This question may have been asked previously at least 1 other time, as recently as August 2021.</summary>
 

@@ -8,14 +8,7 @@ topics:
 # [December 14th, 2021 Livestream](../2021-12-14.md)
 ## Q&A: Anything coming out on MacOS?
 https://www.youtube.com/watch?v=NE3mXE6o1wI
-<details>
-<summary>This question may have been asked previously at least 4 other times, as recently as February 2021 and as early as March 2019.</summary>
-
-* [February 16th, 2021 Livestream Q&A: When is Satisfactory going to be on Mac?](./yt-VTSAUKoarIw.md) [https://www.youtube.com/watch?v=VTSAUKoarIw](https://www.youtube.com/watch?v=VTSAUKoarIw)
-* [November 24th, 2020 Livestream Q&A: Is there going to be a Satisfactory for Mac?](./yt-eLjNJO4pUBA.md) [https://www.youtube.com/watch?v=eLjNJO4pUBA](https://www.youtube.com/watch?v=eLjNJO4pUBA)
-* [November 10th, 2020 Livestream Q&A: Mac Release / Release to other platforms?](./yt-xVOvU3NVxfs.md) [https://www.youtube.com/watch?v=xVOvU3NVxfs](https://www.youtube.com/watch?v=xVOvU3NVxfs)
-* [March 9th, 2019 Livestream Q&A: Are you adding support for Mac any time soon?](./yt-XQioxcXDRqc.md) [https://www.youtube.com/watch?v=XQioxcXDRqc](https://www.youtube.com/watch?v=XQioxcXDRqc)
-</details>
+This question was possibly duplicated with a more recent answer: [March 22nd, 2022 Livestream Q&A: Will there be a Mac OS version?](./yt-NXk08Ir5PCg.md) [https://www.youtube.com/watch?v=NXk08Ir5PCg](https://www.youtube.com/watch?v=NXk08Ir5PCg)
 
 
 ### Topics

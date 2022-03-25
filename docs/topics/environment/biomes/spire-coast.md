@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Biomes](../../../topics/environment/biomes.md) > Spire Coast
 
+## March 22nd, 2022 Livestream
+* [Q&A: With the massive changes in the Spire Coast coming, will the nodes be moved?](../../../transcriptions/yt-68KABdE6tGI.md) [https://www.youtube.com/watch?v=68KABdE6tGI](https://www.youtube.com/watch?v=68KABdE6tGI)
+
 ## March 1st, 2022 Livestream
 * [Q&A: So I built my palace in the Spire Coast - how effed am I?](../../../transcriptions/yt-6DXkRHwr4LI.md) [https://www.youtube.com/watch?v=6DXkRHwr4LI](https://www.youtube.com/watch?v=6DXkRHwr4LI)
 * [Community FYI: I have so much stuff in Spire Coast in I am in denial about these warnings](../../../transcriptions/yt-BhUdu7bn260.md) [https://www.youtube.com/watch?v=BhUdu7bn260](https://www.youtube.com/watch?v=BhUdu7bn260)

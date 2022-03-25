@@ -14,6 +14,11 @@ date: Last Modified
 * [Steel](../../topics/environment/resources/steel.md)
 * [Water](../../topics/environment/resources/water.md)
 
+## March 22nd, 2022 Livestream
+* [Q&A: Any ideas for Items that need a physically bigger Belt?](../../transcriptions/yt-Mc4USh6tctI.md) [https://www.youtube.com/watch?v=Mc4USh6tctI](https://www.youtube.com/watch?v=Mc4USh6tctI)
+* [Q&A: With the massive changes in the Spire Coast coming, will the nodes be moved?](../../transcriptions/yt-68KABdE6tGI.md) [https://www.youtube.com/watch?v=68KABdE6tGI](https://www.youtube.com/watch?v=68KABdE6tGI)
+* [Q&A: Any plans to add more complexity to the game, like new kinds of ores?](../../transcriptions/yt-J4zwNZtVHA0.md) [https://www.youtube.com/watch?v=J4zwNZtVHA0](https://www.youtube.com/watch?v=J4zwNZtVHA0)
+
 ## March 1st, 2022 Livestream
 * [Q&A: Can we run out of Mycelium?](../../transcriptions/yt-FNwy0D9q20E.md) [https://www.youtube.com/watch?v=FNwy0D9q20E](https://www.youtube.com/watch?v=FNwy0D9q20E)
 * [Q&A: Feature where you can see what Recipe something is used in?](../../transcriptions/yt-7YSWmdpt3I0.md) [https://www.youtube.com/watch?v=7YSWmdpt3I0](https://www.youtube.com/watch?v=7YSWmdpt3I0)

@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > Constructor
 
+## March 22nd, 2022 Livestream
+* [Snutt & Jace Talk: Satisfactory Constructor Lego Set](../../../transcriptions/yt-120i4hEezfY.md) [https://www.youtube.com/watch?v=120i4hEezfY](https://www.youtube.com/watch?v=120i4hEezfY)
+* [Q&A: With 10k are they going to make the Lego set?](../../../transcriptions/yt-uVSEWzl4MDA.md) [https://www.youtube.com/watch?v=uVSEWzl4MDA](https://www.youtube.com/watch?v=uVSEWzl4MDA)
+
 ## November 9th, 2021 Livestream
 * [Q&A: Will there be improvements to hit boxes, specifically for Power Poles between two Constructors?](../../../transcriptions/yt-l75JZF14dbY.md) [https://www.youtube.com/watch?v=l75JZF14dbY](https://www.youtube.com/watch?v=l75JZF14dbY)
 

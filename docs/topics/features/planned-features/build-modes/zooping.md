@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > [Planned Features](../../../../topics/features/planned-features.md) > [Build Modes](../../../../topics/features/planned-features/build-modes.md) > Zooping
 
+## March 22nd, 2022 Livestream
+* [Q&A: Any thoughts on making Zoop limit a gameplay setting?](../../../../transcriptions/yt-FwIeJutZj98.md) [https://www.youtube.com/watch?v=FwIeJutZj98](https://www.youtube.com/watch?v=FwIeJutZj98)
+
 ## February 1st, 2022 Livestream
 * [Community FYI: Zoop for Signs would be awesome](../../../../transcriptions/yt-mELi3EHuIYM.md) [https://www.youtube.com/watch?v=mELi3EHuIYM](https://www.youtube.com/watch?v=mELi3EHuIYM)
 

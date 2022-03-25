@@ -7,6 +7,12 @@ date: Last Modified
 * [Snutt Burger Time](../../topics/coffee-stainers/snutt/snutt-burger-time.md)
 * [Snutty Mays](../../topics/coffee-stainers/snutt/snutty-mays.md)
 
+## March 22nd, 2022 Livestream
+* [Q&A: Has Snutt played the new Final Fantasy yet?](../../transcriptions/yt-0nbcozBNJNg.md) [https://www.youtube.com/watch?v=0nbcozBNJNg](https://www.youtube.com/watch?v=0nbcozBNJNg)
+* [Q&A: What's your favourite retro game?](../../transcriptions/yt-GErK58lZabs.md) [https://www.youtube.com/watch?v=GErK58lZabs](https://www.youtube.com/watch?v=GErK58lZabs)
+* [Q&A: What's your favourite feature in the game right now?](../../transcriptions/yt-bgf3K5VwYLE.md) [https://www.youtube.com/watch?v=bgf3K5VwYLE](https://www.youtube.com/watch?v=bgf3K5VwYLE)
+* [Q&A: Is the rumour true that Snutt has been voted as having the manliest beard in all of the office?](../../transcriptions/yt-enECaoHZzno.md) [https://www.youtube.com/watch?v=enECaoHZzno](https://www.youtube.com/watch?v=enECaoHZzno)
+
 ## March 18th, 2022 Video
 * [Intro](../../transcriptions/yt-VBGakEZilwk,,63.129733333333334.md) [https://youtube.com/embed/VBGakEZilwk?autoplay=1&start=0&end=64](https://youtube.com/embed/VBGakEZilwk?autoplay=1&start=0&end=64)
 * [Snutt & Jace Talk: Coffee Stain Studios article](../../transcriptions/yt-VBGakEZilwk,444.1770666666667,514.8143.md) [https://youtube.com/embed/VBGakEZilwk?autoplay=1&start=444&end=515](https://youtube.com/embed/VBGakEZilwk?autoplay=1&start=444&end=515)

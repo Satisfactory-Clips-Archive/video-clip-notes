@@ -8,6 +8,9 @@ date: Last Modified
 * [Skövde](../../topics/off-topic/sweden/skovde.md)
 * [Stockholm](../../topics/off-topic/sweden/stockholm.md)
 
+## March 22nd, 2022 Livestream
+* [Snutt & Jace Talk: Sweden, Australia, and Final Fantasy](../../transcriptions/yt-nB5WPdA8EPs.md) [https://www.youtube.com/watch?v=nB5WPdA8EPs](https://www.youtube.com/watch?v=nB5WPdA8EPs)
+
 ## March 4th, 2022 Video
 * [Snutt & Jace Talk: Hot Potato Freefall Challenge & Swedish Math](../../transcriptions/yt-AbggpyCo1kc,178.2781,276.70976666666667.md) [https://youtube.com/embed/AbggpyCo1kc?autoplay=1&start=178&end=277](https://youtube.com/embed/AbggpyCo1kc?autoplay=1&start=178&end=277)
 * [Snutt & Jace Talk: Hello Shat](../../transcriptions/yt-AbggpyCo1kc,422.5221,486.987253.md) [https://youtube.com/embed/AbggpyCo1kc?autoplay=1&start=422&end=487](https://youtube.com/embed/AbggpyCo1kc?autoplay=1&start=422&end=487)

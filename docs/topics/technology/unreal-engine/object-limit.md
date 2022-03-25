@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Technology](../../../topics/technology.md) > [Unreal Engine](../../../topics/technology/unreal-engine.md) > Object Limit
 
+## March 22nd, 2022 Livestream
+* [Community FYI: Increased Object Limit would be neat](../../../transcriptions/yt-BeA9JlXTV1Y.md) [https://www.youtube.com/watch?v=BeA9JlXTV1Y](https://www.youtube.com/watch?v=BeA9JlXTV1Y)
+
 ## February 22nd, 2022 Livestream
 * [Q&A: Increase Object Limit, when?](../../../transcriptions/yt-YtQ3rlOUFW8.md) [https://www.youtube.com/watch?v=YtQ3rlOUFW8](https://www.youtube.com/watch?v=YtQ3rlOUFW8)
 

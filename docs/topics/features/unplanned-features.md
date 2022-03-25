@@ -17,6 +17,9 @@ date: Last Modified
 * [Terraforming](../../topics/features/unplanned-features/terraforming.md)
 * [VR](../../topics/features/unplanned-features/vr.md)
 
+## March 22nd, 2022 Livestream
+* [Community FYI: I'd like to have more combat in Satisfactory](../../transcriptions/yt-Vx9Y31Eig64.md) [https://www.youtube.com/watch?v=Vx9Y31Eig64](https://www.youtube.com/watch?v=Vx9Y31Eig64)
+
 ## February 15th, 2022 Livestream
 * [Q&A: Hovercrafts?](../../transcriptions/yt-dYpp-mc3AZE.md) [https://www.youtube.com/watch?v=dYpp-mc3AZE](https://www.youtube.com/watch?v=dYpp-mc3AZE)
 

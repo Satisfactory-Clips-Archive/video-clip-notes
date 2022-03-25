@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > The HUB
 
+## March 22nd, 2022 Livestream
+* [Q&A: Will the office in The HUB ever be more useful?](../../../transcriptions/yt-tBqA3rA2lZA.md) [https://www.youtube.com/watch?v=tBqA3rA2lZA](https://www.youtube.com/watch?v=tBqA3rA2lZA)
+
 ## March 1st, 2022 Livestream
 * [Community FYI: Loving the mini-game in the HUB](../../../transcriptions/yt-g2HQFFU0Wc8.md) [https://www.youtube.com/watch?v=g2HQFFU0Wc8](https://www.youtube.com/watch?v=g2HQFFU0Wc8)
 

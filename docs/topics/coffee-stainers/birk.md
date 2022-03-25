@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Birk
 
+## March 22nd, 2022 Livestream
+* [Q&A: Will we see a return of Captain Birk of the S.S. Chillax when the 1.0 plans are more firm?](../../transcriptions/yt-9f7ZcAO-tf4.md) [https://www.youtube.com/watch?v=9f7ZcAO-tf4](https://www.youtube.com/watch?v=9f7ZcAO-tf4)
+* [Q&A: Is the rumour true that Snutt has been voted as having the manliest beard in all of the office?](../../transcriptions/yt-enECaoHZzno.md) [https://www.youtube.com/watch?v=enECaoHZzno](https://www.youtube.com/watch?v=enECaoHZzno)
+
 ## November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary
 * [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 26)](../../transcriptions/yt-_N3g-EVfJl4.md) [https://www.youtube.com/watch?v=_N3g-EVfJl4](https://www.youtube.com/watch?v=_N3g-EVfJl4)
 

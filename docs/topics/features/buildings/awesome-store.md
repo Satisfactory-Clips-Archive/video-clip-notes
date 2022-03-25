@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > AWESOME Store
 
+## March 22nd, 2022 Livestream
+* [Q&A: Minor updates to the AWESOME Shop- corner roof pieces, etc.?](../../../transcriptions/yt-CHeSR2RRNKI.md) [https://www.youtube.com/watch?v=CHeSR2RRNKI](https://www.youtube.com/watch?v=CHeSR2RRNKI)
+
 ## November 30th, 2021 Livestream
 * [Q&A: Can you add scissors to the AWESOME Shop so we can run with scissors?](../../../transcriptions/yt-ETVv3qbTHxM.md) [https://www.youtube.com/watch?v=ETVv3qbTHxM](https://www.youtube.com/watch?v=ETVv3qbTHxM)
 

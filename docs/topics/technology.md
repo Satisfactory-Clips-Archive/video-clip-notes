@@ -14,6 +14,9 @@ date: Last Modified
 * [User Interface](../topics/technology/user-interface.md)
 * [Vulkan](../topics/technology/vulkan.md)
 
+## March 22nd, 2022 Livestream
+* [Q&A: Is it true that the game uses CPU and not uses GPU at all?](../transcriptions/yt-4jWFmma41cw.md) [https://www.youtube.com/watch?v=4jWFmma41cw](https://www.youtube.com/watch?v=4jWFmma41cw)
+
 ## November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary
 * [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 3)](../transcriptions/yt-FpTOxMOD6LU.md) [https://www.youtube.com/watch?v=FpTOxMOD6LU](https://www.youtube.com/watch?v=FpTOxMOD6LU)
 
