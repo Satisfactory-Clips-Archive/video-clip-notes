@@ -7,7 +7,7 @@ topics:
 ---
 # [June 22nd, 2018 Q&A](../2018-06-22.md)
 ## Q&A: Let's talk about Simon?
-https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=520&end=539
+https://youtube.com/clip/UgkxpqrUMOmr26iiPZ-wjxwZUatn8PFuQvG1
 
 ### Topics
 * [Coffee Stainers > Simon](../topics/coffee-stainers/simon.md)
