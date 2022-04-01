@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > [Crafting](../../../../topics/features/crafting.md) > [Recipes](../../../../topics/features/crafting/recipes.md) > Alternate Recipes
 
+## April 1st, 2022 Video
+* Snutt & Jace Talk: Alt Recipes [https://youtube.com/embed/jAc8Fnj1o9w?autoplay=1&start=693&end=792](https://youtube.com/embed/jAc8Fnj1o9w?autoplay=1&start=693&end=792)
+
 ## February 8th, 2022 Livestream
 * [Q&A: Are there any plans to add Alt Recipes for items that currently have none?](../../../../transcriptions/yt--9ItyjhW4Gs.md) [https://www.youtube.com/watch?v=-9ItyjhW4Gs](https://www.youtube.com/watch?v=-9ItyjhW4Gs)
 

@@ -24,6 +24,9 @@ date: Last Modified
 * [Vilsol](../topics/community/vilsol.md)
 * [Wiki](../topics/community/wiki.md)
 
+## April 1st, 2022 Video
+* Snutt & Jace Talk: Update 5 and the effect it had on the Community [https://youtube.com/embed/jAc8Fnj1o9w?autoplay=1&start=84&end=154](https://youtube.com/embed/jAc8Fnj1o9w?autoplay=1&start=84&end=154)
+
 ## March 22nd, 2022 Livestream
 * [Snutt & Jace Talk: Satisfactory three year anniversary](../transcriptions/yt-RjebSqee0gs.md) [https://www.youtube.com/watch?v=RjebSqee0gs](https://www.youtube.com/watch?v=RjebSqee0gs)
 * [Snutt & Jace Talk: Satisfactory Constructor Lego Set](../transcriptions/yt-120i4hEezfY.md) [https://www.youtube.com/watch?v=120i4hEezfY](https://www.youtube.com/watch?v=120i4hEezfY)

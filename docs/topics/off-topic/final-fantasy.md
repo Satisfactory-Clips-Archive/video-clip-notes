@@ -5,6 +5,12 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Final Fantasy
 
+## April 1st, 2022 Video
+* Snutt & Jace Talk: Final Fantasy (Part 1) [https://youtube.com/embed/jAc8Fnj1o9w?autoplay=1&start=153&end=694](https://youtube.com/embed/jAc8Fnj1o9w?autoplay=1&start=153&end=694)
+* Snutt & Jace Talk: Final Fantasy (Part 2) [https://youtube.com/embed/jAc8Fnj1o9w?autoplay=1&start=791&end=1792](https://youtube.com/embed/jAc8Fnj1o9w?autoplay=1&start=791&end=1792)
+* Snutt & Jace Talk: Final Fantasy (Part 3) [https://youtube.com/embed/jAc8Fnj1o9w?autoplay=1&start=1852&end=2043](https://youtube.com/embed/jAc8Fnj1o9w?autoplay=1&start=1852&end=2043)
+* Snutt & Jace Talk: Final Fantasy (Part 4) [https://youtube.com/embed/jAc8Fnj1o9w?autoplay=1&start=2282&end=2423](https://youtube.com/embed/jAc8Fnj1o9w?autoplay=1&start=2282&end=2423)
+
 ## March 22nd, 2022 Livestream
 * [Snutt & Jace Talk: Sweden, Australia, and Final Fantasy](../../transcriptions/yt-nB5WPdA8EPs.md) [https://www.youtube.com/watch?v=nB5WPdA8EPs](https://www.youtube.com/watch?v=nB5WPdA8EPs)
 * [Q&A: Has Snutt played the new Final Fantasy yet?](../../transcriptions/yt-0nbcozBNJNg.md) [https://www.youtube.com/watch?v=0nbcozBNJNg](https://www.youtube.com/watch?v=0nbcozBNJNg)

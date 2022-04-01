@@ -18,6 +18,9 @@ date: Last Modified
 * [Teasers & Trailers](../topics/satisfactory-updates/teasers-and-trailers.md)
 * [World Update](../topics/satisfactory-updates/world-update.md)
 
+## April 1st, 2022 Video
+* Snutt & Jace Talk: The next iteration of Satisfactory [https://youtube.com/embed/jAc8Fnj1o9w?autoplay=1&start=1791&end=1853](https://youtube.com/embed/jAc8Fnj1o9w?autoplay=1&start=1791&end=1853)
+
 ## March 29th, 2022 Livestream
 * [EOS Reset Account](../transcriptions/yt-XczXasUwc0w.md) [https://www.youtube.com/watch?v=XczXasUwc0w](https://www.youtube.com/watch?v=XczXasUwc0w)
 * [Q&A: Is the plan still to release two Updates per year?](../transcriptions/yt-QbwPPWtVGW0.md) [https://www.youtube.com/watch?v=QbwPPWtVGW0](https://www.youtube.com/watch?v=QbwPPWtVGW0)

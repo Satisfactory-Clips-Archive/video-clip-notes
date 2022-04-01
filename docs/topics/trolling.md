@@ -5,6 +5,20 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Trolling
 
+## April 1st, 2022 Video
+* Intro [https://youtube.com/embed/jAc8Fnj1o9w?autoplay=1&start=0&end=85](https://youtube.com/embed/jAc8Fnj1o9w?autoplay=1&start=0&end=85)
+* Snutt & Jace Talk: Update 5 and the effect it had on the Community [https://youtube.com/embed/jAc8Fnj1o9w?autoplay=1&start=84&end=154](https://youtube.com/embed/jAc8Fnj1o9w?autoplay=1&start=84&end=154)
+* Snutt & Jace Talk: Final Fantasy (Part 1) [https://youtube.com/embed/jAc8Fnj1o9w?autoplay=1&start=153&end=694](https://youtube.com/embed/jAc8Fnj1o9w?autoplay=1&start=153&end=694)
+* Snutt & Jace Talk: Alt Recipes [https://youtube.com/embed/jAc8Fnj1o9w?autoplay=1&start=693&end=792](https://youtube.com/embed/jAc8Fnj1o9w?autoplay=1&start=693&end=792)
+* Snutt & Jace Talk: Final Fantasy (Part 2) [https://youtube.com/embed/jAc8Fnj1o9w?autoplay=1&start=791&end=1792](https://youtube.com/embed/jAc8Fnj1o9w?autoplay=1&start=791&end=1792)
+* Snutt & Jace Talk: The next iteration of Satisfactory [https://youtube.com/embed/jAc8Fnj1o9w?autoplay=1&start=1791&end=1853](https://youtube.com/embed/jAc8Fnj1o9w?autoplay=1&start=1791&end=1853)
+* Snutt & Jace Talk: Final Fantasy (Part 3) [https://youtube.com/embed/jAc8Fnj1o9w?autoplay=1&start=1852&end=2043](https://youtube.com/embed/jAc8Fnj1o9w?autoplay=1&start=1852&end=2043)
+* Snutt & Jace Talk: Chrono Cross [https://youtube.com/embed/jAc8Fnj1o9w?autoplay=1&start=2042&end=2205](https://youtube.com/embed/jAc8Fnj1o9w?autoplay=1&start=2042&end=2205)
+* Snutt & Jace Talk: The Legend of Dragoon [https://youtube.com/embed/jAc8Fnj1o9w?autoplay=1&start=2204&end=2237](https://youtube.com/embed/jAc8Fnj1o9w?autoplay=1&start=2204&end=2237)
+* Snutt & Jace Talk: PS1-era gaming [https://youtube.com/embed/jAc8Fnj1o9w?autoplay=1&start=2236&end=2283](https://youtube.com/embed/jAc8Fnj1o9w?autoplay=1&start=2236&end=2283)
+* Snutt & Jace Talk: Final Fantasy (Part 4) [https://youtube.com/embed/jAc8Fnj1o9w?autoplay=1&start=2282&end=2423](https://youtube.com/embed/jAc8Fnj1o9w?autoplay=1&start=2282&end=2423)
+* Outro [https://youtube.com/embed/jAc8Fnj1o9w?autoplay=1&start=2422](https://youtube.com/embed/jAc8Fnj1o9w?autoplay=1&start=2422)
+
 ## March 22nd, 2022 Livestream
 * [Q&A: But only 17 on Epic, correct?](../transcriptions/yt-0-37qub4X_g.md) [https://www.youtube.com/watch?v=0-37qub4X_g](https://www.youtube.com/watch?v=0-37qub4X_g)
 

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Community Highlights
 
+## April 1st, 2022 Video
+* Snutt & Jace Talk: Update 5 and the effect it had on the Community [https://youtube.com/embed/jAc8Fnj1o9w?autoplay=1&start=84&end=154](https://youtube.com/embed/jAc8Fnj1o9w?autoplay=1&start=84&end=154)
+
 ## February 22nd, 2022 Livestream
 * [Q&A: Is the rare alternate clapping Emote still in the game?](../../transcriptions/yt-JhdDyDRBLjM.md) [https://www.youtube.com/watch?v=JhdDyDRBLjM](https://www.youtube.com/watch?v=JhdDyDRBLjM)
 

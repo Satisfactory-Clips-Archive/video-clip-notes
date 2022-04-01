@@ -8,6 +8,9 @@ date: Last Modified
 * [#SaveTheWillows](../../../topics/satisfactory-updates/released/satisfactory-update-5/save-the-willows.md)
 * [Update 5 Torsten's Cosmetics Whiteboard](../../../topics/satisfactory-updates/released/satisfactory-update-5/torstens-cosmetics-whiteboard.md)
 
+## April 1st, 2022 Video
+* Snutt & Jace Talk: Update 5 and the effect it had on the Community [https://youtube.com/embed/jAc8Fnj1o9w?autoplay=1&start=84&end=154](https://youtube.com/embed/jAc8Fnj1o9w?autoplay=1&start=84&end=154)
+
 ## March 1st, 2022 Livestream
 * [Community FYI: The performance updates in Update 5 were great](../../../transcriptions/yt-u617uFFnxUs.md) [https://www.youtube.com/watch?v=u617uFFnxUs](https://www.youtube.com/watch?v=u617uFFnxUs)
 

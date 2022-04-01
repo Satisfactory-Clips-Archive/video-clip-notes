@@ -21,6 +21,11 @@ date: Last Modified
 * [The Cycle](../topics/off-topic/the-cycle.md)
 * [Valheim](../topics/off-topic/valheim.md)
 
+## April 1st, 2022 Video
+* Snutt & Jace Talk: Chrono Cross [https://youtube.com/embed/jAc8Fnj1o9w?autoplay=1&start=2042&end=2205](https://youtube.com/embed/jAc8Fnj1o9w?autoplay=1&start=2042&end=2205)
+* Snutt & Jace Talk: The Legend of Dragoon [https://youtube.com/embed/jAc8Fnj1o9w?autoplay=1&start=2204&end=2237](https://youtube.com/embed/jAc8Fnj1o9w?autoplay=1&start=2204&end=2237)
+* Snutt & Jace Talk: PS1-era gaming [https://youtube.com/embed/jAc8Fnj1o9w?autoplay=1&start=2236&end=2283](https://youtube.com/embed/jAc8Fnj1o9w?autoplay=1&start=2236&end=2283)
+
 ## March 29th, 2022 Livestream
 * [Q&A: Will you disable building like in Fortnite?](../transcriptions/yt-qY3pI7IPyJU.md) [https://www.youtube.com/watch?v=qY3pI7IPyJU](https://www.youtube.com/watch?v=qY3pI7IPyJU)
 
