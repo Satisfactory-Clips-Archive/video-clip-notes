@@ -11,7 +11,7 @@ topics:
 # [June 22nd, 2018 Q&A](../2018-06-22.md)
 ## Q&A: Will we need to defend our factory?
 https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=176&end=215
-This question was possibly duplicated with a more recent answer: [March 1st, 2022 Livestream Q&A: When Base Defense?](./yt-jydtfpmdc5Q.md) [https://www.youtube.com/watch?v=jydtfpmdc5Q](https://www.youtube.com/watch?v=jydtfpmdc5Q)
+This question was possibly duplicated with a more recent answer: March 29th, 2022 Livestream Q&A: Tower Defense, when? [https://www.youtube.com/watch?v=xbk9T1Z94xU](https://www.youtube.com/watch?v=xbk9T1Z94xU)
 
 
 ### Topics

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Mods](../../topics/mods.md) > Mods vs. Features
 
+## March 29th, 2022 Livestream
+* [Snutt Talk: If you have opinions of how a Mod changes the game is what the game should have...](../../transcriptions/yt-w4Rg6whLWd4.md) [https://www.youtube.com/watch?v=w4Rg6whLWd4](https://www.youtube.com/watch?v=w4Rg6whLWd4)
+
 ## March 15th, 2022 Livestream
 * [Q&A: Circle Foundation without Mods?](../../transcriptions/yt-As8zQkJUXXE.md) [https://www.youtube.com/watch?v=As8zQkJUXXE](https://www.youtube.com/watch?v=As8zQkJUXXE)
 

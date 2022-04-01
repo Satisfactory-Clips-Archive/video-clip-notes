@@ -14,6 +14,9 @@ date: Last Modified
 * [Update 5 Patch Notes Video](../../topics/satisfactory-updates/teasers-and-trailers/update-5-patch-notes-video.md)
 * [Update 5 Teasers](../../topics/satisfactory-updates/teasers-and-trailers/update-5-teasers.md)
 
+## March 29th, 2022 Livestream
+* [Community FYI: Jace and Snutt go kayaking = Patch Notes video for Ben's river changes](../../transcriptions/yt-G7d6uwMRo0w.md) [https://www.youtube.com/watch?v=G7d6uwMRo0w](https://www.youtube.com/watch?v=G7d6uwMRo0w)
+
 ## March 18th, 2022 Video
 * [Snutt & Jace Talk: Unreleased Content article](../../transcriptions/yt-VBGakEZilwk,589.7892,1115.8480666666667.md) [https://youtube.com/embed/VBGakEZilwk?autoplay=1&start=589&end=1116](https://youtube.com/embed/VBGakEZilwk?autoplay=1&start=589&end=1116)
 

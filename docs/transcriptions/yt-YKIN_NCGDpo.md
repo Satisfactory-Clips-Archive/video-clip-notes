@@ -10,7 +10,7 @@ topics:
 # [February 2nd, 2021 Livestream](../2021-02-02.md)
 ## Q&A: Will we get two character slots for Jetpacks and Blade Runners
 https://www.youtube.com/watch?v=YKIN_NCGDpo
-This question was possibly duplicated with a more recent answer: [February 22nd, 2022 Livestream Q&A: Will we get a second Body slot?](./yt-u4iuArSF2C8.md) [https://www.youtube.com/watch?v=u4iuArSF2C8](https://www.youtube.com/watch?v=u4iuArSF2C8)
+This question was possibly duplicated with a more recent answer: [March 29th, 2022 Livestream Q&A: Will we ever be able to equip all the Equipment at once?](./yt-i7Oym1g9yio.md) [https://www.youtube.com/watch?v=i7Oym1g9yio](https://www.youtube.com/watch?v=i7Oym1g9yio)
 
 
 ### Topics

@@ -9,11 +9,7 @@ topics:
 # [November 16th, 2021 Livestream](../2021-11-16.md)
 ## Q&A: Add reverse Conveyor Belts like Lifts?
 https://www.youtube.com/watch?v=DxB17x3welQ
-<details>
-<summary>This question may have been asked previously at least 1 other time, as recently as November 2021.</summary>
-
-* [November 9th, 2021 Livestream Q&A: Reverse Build Mode, when?](./yt-MhYk3tCLUi8.md) [https://www.youtube.com/watch?v=MhYk3tCLUi8](https://www.youtube.com/watch?v=MhYk3tCLUi8)
-</details>
+This question was possibly duplicated with a more recent answer: [March 29th, 2022 Livestream Q&A: Add in a reverse function on Belts like you did with Lifts?](./yt-pN08CYnMRKs.md) [https://www.youtube.com/watch?v=pN08CYnMRKs](https://www.youtube.com/watch?v=pN08CYnMRKs)
 
 
 ### Topics

@@ -18,6 +18,12 @@ date: Last Modified
 * [Teasers & Trailers](../topics/satisfactory-updates/teasers-and-trailers.md)
 * [World Update](../topics/satisfactory-updates/world-update.md)
 
+## March 29th, 2022 Livestream
+* [EOS Reset Account](../transcriptions/yt-XczXasUwc0w.md) [https://www.youtube.com/watch?v=XczXasUwc0w](https://www.youtube.com/watch?v=XczXasUwc0w)
+* [Q&A: Is the plan still to release two Updates per year?](../transcriptions/yt-QbwPPWtVGW0.md) [https://www.youtube.com/watch?v=QbwPPWtVGW0](https://www.youtube.com/watch?v=QbwPPWtVGW0)
+* [Q&A: Are we going to see any DS (Dedicated Server) enhancements independent of content release?](../transcriptions/yt-Q7I_FQhf3M0.md) [https://www.youtube.com/watch?v=Q7I_FQhf3M0](https://www.youtube.com/watch?v=Q7I_FQhf3M0)
+* [Q&A: Will there be Updates after 1.0?](../transcriptions/yt-EjZAdss6k4Q.md) [https://www.youtube.com/watch?v=EjZAdss6k4Q](https://www.youtube.com/watch?v=EjZAdss6k4Q)
+
 ## March 22nd, 2022 Livestream
 * [State of Dave](../transcriptions/yt-L57fpVqeGpI.md) [https://www.youtube.com/watch?v=L57fpVqeGpI](https://www.youtube.com/watch?v=L57fpVqeGpI)
 * [Q&A: Video on feature creep, please?](../transcriptions/yt-Jk2c2e7gM6I.md) [https://www.youtube.com/watch?v=Jk2c2e7gM6I](https://www.youtube.com/watch?v=Jk2c2e7gM6I)

@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../topics.md) > [Retail](../../topics/retail.md) > Epic Store
 * [Epic Store Exclusivity](../../topics/retail/epic-store/epic-store-exclusivity.md)
 
+## March 29th, 2022 Livestream
+* [EOS Reset Account](../../transcriptions/yt-XczXasUwc0w.md) [https://www.youtube.com/watch?v=XczXasUwc0w](https://www.youtube.com/watch?v=XczXasUwc0w)
+
 ## March 22nd, 2022 Livestream
 * [Q&A: But only 17 on Epic, correct?](../../transcriptions/yt-0-37qub4X_g.md) [https://www.youtube.com/watch?v=0-37qub4X_g](https://www.youtube.com/watch?v=0-37qub4X_g)
 

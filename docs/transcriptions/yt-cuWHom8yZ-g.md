@@ -8,6 +8,8 @@ topics:
 # [January 26th, 2021 Livestream](../2021-01-26.md)
 ## Q&A: Do you ever plan on implementing to move things instead of having to demolish?
 https://www.youtube.com/watch?v=cuWHom8yZ-g
+This question was possibly duplicated with a more recent answer: [March 29th, 2022 Livestream Q&A: Will there ever be a way to move a section of a factory in-game?](./yt-r_ZyB55ZPvE.md) [https://www.youtube.com/watch?v=r_ZyB55ZPvE](https://www.youtube.com/watch?v=r_ZyB55ZPvE)
+
 
 ### Topics
 * [Technology > User Interface](../topics/technology/user-interface.md)

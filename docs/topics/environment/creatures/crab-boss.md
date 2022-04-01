@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Creatures](../../../topics/environment/creatures.md) > Crab Boss
 
+## March 29th, 2022 Livestream
+* [Q&A: Will the shooter aspect of Satisfactory become stronger- you said there would be bosses?](../../../transcriptions/yt-2O6KzVNYDE0.md) [https://www.youtube.com/watch?v=2O6KzVNYDE0](https://www.youtube.com/watch?v=2O6KzVNYDE0)
+
 ## February 11th, 2022 Hot Potato Bonus Stream
 * [Q&A: What about crabphobia?](../../../transcriptions/yt-y3vztWYw7kY.md) [https://www.youtube.com/watch?v=y3vztWYw7kY](https://www.youtube.com/watch?v=y3vztWYw7kY)
 

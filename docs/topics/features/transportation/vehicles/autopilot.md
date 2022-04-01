@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > Transportation > [Vehicles](../../../../topics/features/transportation/vehicles.md) > Autopilot
 
+## March 29th, 2022 Livestream
+* [Q&A: Can you add the ability to ride a Truck in Autopilot?](../../../../transcriptions/yt-LQ1TStNUY7A.md) [https://www.youtube.com/watch?v=LQ1TStNUY7A](https://www.youtube.com/watch?v=LQ1TStNUY7A)
+
 ## February 22nd, 2022 Livestream
 * [Community FYI: The second seat is for the Autopilot](../../../../transcriptions/yt-UqCM_w-4INk.md) [https://www.youtube.com/watch?v=UqCM_w-4INk](https://www.youtube.com/watch?v=UqCM_w-4INk)
 

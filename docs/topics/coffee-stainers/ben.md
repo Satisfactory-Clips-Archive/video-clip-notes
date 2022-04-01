@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Ben
 
+## March 29th, 2022 Livestream
+* [Community FYI: Jace and Snutt go kayaking = Patch Notes video for Ben's river changes](../../transcriptions/yt-G7d6uwMRo0w.md) [https://www.youtube.com/watch?v=G7d6uwMRo0w](https://www.youtube.com/watch?v=G7d6uwMRo0w)
+
 ## November 30th, 2021 Livestream
 * [Snutt & Jace Talk: z-fighting with Cosmetics](../../transcriptions/yt-5X5fNBV5Luk.md) [https://www.youtube.com/watch?v=5X5fNBV5Luk](https://www.youtube.com/watch?v=5X5fNBV5Luk)
 

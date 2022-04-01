@@ -14,6 +14,10 @@ date: Last Modified
 * [Steel](../../topics/environment/resources/steel.md)
 * [Water](../../topics/environment/resources/water.md)
 
+## March 29th, 2022 Livestream
+* [Q&A: Has the duping been patched yet?](../../transcriptions/yt-lG4xT5aiqrA.md) [https://www.youtube.com/watch?v=lG4xT5aiqrA](https://www.youtube.com/watch?v=lG4xT5aiqrA)
+* [Q&A: What's your favourite Resource to set up?](../../transcriptions/yt-f8XQHfPTy4k.md) [https://www.youtube.com/watch?v=f8XQHfPTy4k](https://www.youtube.com/watch?v=f8XQHfPTy4k)
+
 ## March 22nd, 2022 Livestream
 * [Q&A: Any ideas for Items that need a physically bigger Belt?](../../transcriptions/yt-Mc4USh6tctI.md) [https://www.youtube.com/watch?v=Mc4USh6tctI](https://www.youtube.com/watch?v=Mc4USh6tctI)
 * [Q&A: With the massive changes in the Spire Coast coming, will the nodes be moved?](../../transcriptions/yt-68KABdE6tGI.md) [https://www.youtube.com/watch?v=68KABdE6tGI](https://www.youtube.com/watch?v=68KABdE6tGI)

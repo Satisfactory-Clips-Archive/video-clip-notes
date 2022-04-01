@@ -2,45 +2,150 @@
 title: "Frequently Asked Questions"
 date: Last Modified
 ---
-## [March 22nd, 2022 Livestream](./2022-03-22.md)
-### [Q&A: Why no Golf?](./transcriptions/yt-STS5LemFXA0.md) [https://www.youtube.com/watch?v=STS5LemFXA0](https://www.youtube.com/watch?v=STS5LemFXA0)
+## [March 29th, 2022 Livestream](./2022-03-29.md)
+### [Q&A: Will we ever be able to equip all the Equipment at once?](./transcriptions/yt-i7Oym1g9yio.md) [https://www.youtube.com/watch?v=i7Oym1g9yio](https://www.youtube.com/watch?v=i7Oym1g9yio)
 
 <details>
 
 <summary>A transcript is available</summary>
 
-> why no golf why because it sucks golf sucks
+> will we ever be able to equip all the equipment at once i don't think we'll be able to equip all equipment at once because it kind of breaks sorry i was asking yeah so no i don't know if we'll ever make it so that you can equip everything at once because it was sort of goes against some of the design principles that we have for the equipment system but we do want to make some changes to the equivalent system we're not quite happy with it how it works right now uh the fact that you can't equip the hover pack and the hazmat suit at the same time is a it's a pretty big oversight on our part and we will sort of we we are looking into solutions as it has to like fix that if that means that we'll add a new body slot or that we completely revamp the equipment system and make it different i can't say for sure because we haven't made any decisions yet so we will see we'll see
 
 
 </details>
 
 <details>
-<summary>This question may have been asked previously at least 8 other times, as recently as March 2022 and as early as November 2021.</summary>
+<summary>This question may have been asked previously at least 18 other times, as recently as February 2022 and as early as May 2020.</summary>
 
-* [March 15th, 2022 Livestream Q&A: Golf, when?](./transcriptions/yt-lnYChdXeOJQ.md) [https://www.youtube.com/watch?v=lnYChdXeOJQ](https://www.youtube.com/watch?v=lnYChdXeOJQ)
-* [March 8th, 2022 Livestream Q&A: Any plans for any Golf?](./transcriptions/yt-IVZrSqBV5hM.md) [https://www.youtube.com/watch?v=IVZrSqBV5hM](https://www.youtube.com/watch?v=IVZrSqBV5hM)
-* March 8th, 2022 Livestream Q&A: Golf? [https://www.youtube.com/watch?v=IYiTB2D1hKk](https://www.youtube.com/watch?v=IYiTB2D1hKk)
-* [March 8th, 2022 Livestream Q&A: Is it true you guys are adding Golf?](./transcriptions/yt-5fao-wsp_CM.md) [https://www.youtube.com/watch?v=5fao-wsp_CM](https://www.youtube.com/watch?v=5fao-wsp_CM)
-* [December 14th, 2021 Livestream Q&A: Golf, when?](./transcriptions/yt-7izKxTtG3js.md) [https://www.youtube.com/watch?v=7izKxTtG3js](https://www.youtube.com/watch?v=7izKxTtG3js)
-* [December 7th, 2021 Livestream Q&A: When's Golf?](./transcriptions/yt-hhZq5M3I8Io.md) [https://www.youtube.com/watch?v=hhZq5M3I8Io](https://www.youtube.com/watch?v=hhZq5M3I8Io)
-* [November 23rd, 2021 Livestream Q&A: Golf, when?](./transcriptions/yt-iVDRQg_aWpU,5188.73288641358,5195.520066.md) [https://youtube.com/clip/UgkxtKr3YShULCOATqNTspPVmbJ_hDuQi765](https://youtube.com/clip/UgkxtKr3YShULCOATqNTspPVmbJ_hDuQi765)
-* [November 9th, 2021 Livestream Q&A: Golf, when?](./transcriptions/yt-kYn6eCYtK6w.md) [https://www.youtube.com/watch?v=kYn6eCYtK6w](https://www.youtube.com/watch?v=kYn6eCYtK6w)
+* [February 22nd, 2022 Livestream Q&A: Will we get a second Body slot?](./transcriptions/yt-u4iuArSF2C8.md) [https://www.youtube.com/watch?v=u4iuArSF2C8](https://www.youtube.com/watch?v=u4iuArSF2C8)
+* [December 14th, 2021 Livestream Q&A: Why don't you want us to equip the Blade Runners and Jetpack at the same time?](./transcriptions/yt-HC83odaoVd0.md) [https://www.youtube.com/watch?v=HC83odaoVd0](https://www.youtube.com/watch?v=HC83odaoVd0)
+* [November 9th, 2021 Livestream Q&A: Two body slots, maybe?](./transcriptions/yt-1r0kKFc_mW4.md) [https://www.youtube.com/watch?v=1r0kKFc_mW4](https://www.youtube.com/watch?v=1r0kKFc_mW4)
+* [October 5th, 2021 Livestream Q&A: Equipment Slots rework still in progress?](./transcriptions/yt-NZGJ3mLsbNk.md) [https://www.youtube.com/watch?v=NZGJ3mLsbNk](https://www.youtube.com/watch?v=NZGJ3mLsbNk)
+* September 14th, 2021 Livestream Q&A: Tell me something good about Dual Body Slots? [https://www.youtube.com/watch?v=47I5UvpAn98](https://www.youtube.com/watch?v=47I5UvpAn98)
+* [August 10th, 2021 Livestream Q&A: Will we be able to equip more than one item?](./transcriptions/yt-qiA_5oti7s8.md) [https://www.youtube.com/watch?v=qiA_5oti7s8](https://www.youtube.com/watch?v=qiA_5oti7s8)
+* [July 13th, 2021 Livestream Q&A: Any chance we can get another Body Slot?](./transcriptions/yt-UuhHtf0yr64.md) [https://www.youtube.com/watch?v=UuhHtf0yr64](https://www.youtube.com/watch?v=UuhHtf0yr64)
+* [May 4th, 2021 Livestream Q&A: Will there be a new body slot?](./transcriptions/yt-80Ajx6Ml2Aw.md) [https://www.youtube.com/watch?v=80Ajx6Ml2Aw](https://www.youtube.com/watch?v=80Ajx6Ml2Aw)
+* [April 20th, 2021 Livestream Q&A: Body Slots?](./transcriptions/yt-G6TdxrJuIaA.md) [https://www.youtube.com/watch?v=G6TdxrJuIaA](https://www.youtube.com/watch?v=G6TdxrJuIaA)
+* [April 6th, 2021 Livestream Q&A: Multiple Body slots, when?](./transcriptions/yt-Xa03UsMWsjo.md) [https://www.youtube.com/watch?v=Xa03UsMWsjo](https://www.youtube.com/watch?v=Xa03UsMWsjo)
+* [March 30th, 2021 Livestream Q&A: Add body slots so we can use Blade Runners and Jetpacks at the same time?](./transcriptions/yt-XkDGnJwkY18.md) [https://www.youtube.com/watch?v=XkDGnJwkY18](https://www.youtube.com/watch?v=XkDGnJwkY18)
+* [March 23rd, 2021 Livestream Q&A: Do you ever think you'll give us more than one Body Slot?](./transcriptions/yt-b8xgQlBZ_yc.md) [https://www.youtube.com/watch?v=b8xgQlBZ_yc](https://www.youtube.com/watch?v=b8xgQlBZ_yc)
+* [March 9th, 2021 Livestream Q&A: Will we ever get a second body slot?](./transcriptions/yt-B2LmiIWJu8o.md) [https://www.youtube.com/watch?v=B2LmiIWJu8o](https://www.youtube.com/watch?v=B2LmiIWJu8o)
+* [March 2nd, 2021 Livestream Q&A: When are we going to be able to use more than one Equipment at a time?](./transcriptions/yt-w6VfAW7WD1w.md) [https://www.youtube.com/watch?v=w6VfAW7WD1w](https://www.youtube.com/watch?v=w6VfAW7WD1w)
+* [February 2nd, 2021 Livestream Q&A: Will we get two character slots for Jetpacks and Blade Runners](./transcriptions/yt-YKIN_NCGDpo.md) [https://www.youtube.com/watch?v=YKIN_NCGDpo](https://www.youtube.com/watch?v=YKIN_NCGDpo)
+* [October 6th, 2020 Livestream Q&A: What's the max amount of body slots?](./transcriptions/yt-aPWXjH-Xf1o.md) [https://www.youtube.com/watch?v=aPWXjH-Xf1o](https://www.youtube.com/watch?v=aPWXjH-Xf1o)
+* [September 15th, 2020 Livestream Q&A: Can I wear Boots, Jetpack and a Gas Mask?](./transcriptions/yt-Gt1ATsmBu6k.md) [https://www.youtube.com/watch?v=Gt1ATsmBu6k](https://www.youtube.com/watch?v=Gt1ATsmBu6k)
+* [May 15th, 2020 Q&A: Will we get more than one body slot?](./transcriptions/yt-NlIVwoRqjVk,733.1324,779.1784.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=733&end=780](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=733&end=780)
 </details>
 
-### [Q&A: Do you think you guys are close to 1.0?](./transcriptions/yt-D0Za_7YA9G0.md) [https://www.youtube.com/watch?v=D0Za_7YA9G0](https://www.youtube.com/watch?v=D0Za_7YA9G0)
+### Q&A: Tower Defense, when? [https://www.youtube.com/watch?v=xbk9T1Z94xU](https://www.youtube.com/watch?v=xbk9T1Z94xU)
+
+<details>
+<summary>This question may have been asked previously at least 20 other times, as recently as March 2022 and as early as June 2018.</summary>
+
+* [March 1st, 2022 Livestream Q&A: When Base Defense?](./transcriptions/yt-jydtfpmdc5Q.md) [https://www.youtube.com/watch?v=jydtfpmdc5Q](https://www.youtube.com/watch?v=jydtfpmdc5Q)
+* [September 21st, 2021 Livestream Q&A: Will there be a thing like monsters attacking us in waves like in Factorio?](./transcriptions/yt-LP3IgdK7OwA.md) [https://www.youtube.com/watch?v=LP3IgdK7OwA](https://www.youtube.com/watch?v=LP3IgdK7OwA)
+* [July 20th, 2021 Livestream Q&A: What're your thoughts on making the game Tower Defense?](./transcriptions/yt-Ki4ohrbXbrk.md) [https://www.youtube.com/watch?v=Ki4ohrbXbrk](https://www.youtube.com/watch?v=Ki4ohrbXbrk)
+* [June 8th, 2021 Livestream Q&A: Turrets & shit?](./transcriptions/yt-KPUcYM5lOac.md) [https://www.youtube.com/watch?v=KPUcYM5lOac](https://www.youtube.com/watch?v=KPUcYM5lOac)
+* [May 11th, 2021 Livestream Q&A: Tower Defense?](./transcriptions/yt-VRiUOPEpWvU.md) [https://www.youtube.com/watch?v=VRiUOPEpWvU](https://www.youtube.com/watch?v=VRiUOPEpWvU)
+* [April 27th, 2021 Livestream Q&A: Is there combat & Base Defense required in the game?](./transcriptions/yt-A9GtewxqeLo.md) [https://www.youtube.com/watch?v=A9GtewxqeLo](https://www.youtube.com/watch?v=A9GtewxqeLo)
+* [March 30th, 2021 Livestream Q&A: Could some Sanctum gameplay, maybe the Tower Defense part come to Satisfactory?](./transcriptions/yt-1UTiDPGMgRI.md) [https://www.youtube.com/watch?v=1UTiDPGMgRI](https://www.youtube.com/watch?v=1UTiDPGMgRI)
+* February 26th, 2021 Videos Q&A: Please add semi tower defense in this game I'm begging you! [https://satisfactory.fandom.com/wiki/File:February_26th,_2021_Instagram_AMA_-_Please_add_semi_tower_defence_in_this_game.mp4](https://satisfactory.fandom.com/wiki/File:February_26th,_2021_Instagram_AMA_-_Please_add_semi_tower_defence_in_this_game.mp4)
+* [February 9th, 2021 Livestream Q&A: Is there going to be tower defense?](./transcriptions/yt-9dWWC0mFitU.md) [https://www.youtube.com/watch?v=9dWWC0mFitU](https://www.youtube.com/watch?v=9dWWC0mFitU)
+* January 22nd, 2021 Instagram AMA Q&A: Is there a plan for automatize the base defense? [https://satisfactory.fandom.com/wiki/File:January_22nd%2C_2021_Instagram_AMA-base_defense.mp4](https://satisfactory.fandom.com/wiki/File:January_22nd%2C_2021_Instagram_AMA-base_defense.mp4)
+* [December 15th, 2020 Livestream Q&A: Can we get turrets and more PvE?](./transcriptions/yt-sJnuRV0OGF0.md) [https://www.youtube.com/watch?v=sJnuRV0OGF0](https://www.youtube.com/watch?v=sJnuRV0OGF0)
+* [December 8th, 2020 Livestream Q&A: Will there be any Base Defense?](./transcriptions/yt-5-8ACtMU2_E.md) [https://www.youtube.com/watch?v=5-8ACtMU2_E](https://www.youtube.com/watch?v=5-8ACtMU2_E)
+* [October 13th, 2020 Livestream Q&A: If Factories can get attacked?](./transcriptions/yt-tK_m7AqM4sY.md) [https://www.youtube.com/watch?v=tK_m7AqM4sY](https://www.youtube.com/watch?v=tK_m7AqM4sY)
+* [September 22nd, 2020 Livestream Q&A: Hoping for Base Defence?](./transcriptions/yt-RjFIQhJY824.md) [https://www.youtube.com/watch?v=RjFIQhJY824](https://www.youtube.com/watch?v=RjFIQhJY824)
+* August 18th, 2020 Livestream Q&A: Will there be animals that attack the base? [https://clips.twitch.tv/ProtectiveTubularCatJebaited](https://clips.twitch.tv/ProtectiveTubularCatJebaited)
+* [May 15th, 2020 Q&A: What is one item or equipment that some of the staff have wanted, but got canned for balancing?](./transcriptions/yt-NlIVwoRqjVk,1034.8338,1062.2612.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=1034&end=1063](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=1034&end=1063)
+* [March 9th, 2019 Livestream Q&A: Will there be turrets or something in the game?](./transcriptions/yt-xNBFywqCrxM.md) [https://www.youtube.com/watch?v=xNBFywqCrxM](https://www.youtube.com/watch?v=xNBFywqCrxM)
+* [March 9th, 2019 Livestream Q&A: Can creatures in any way disrupt your factory?](./transcriptions/yt-R2Fms8EjhN8.md) [https://www.youtube.com/watch?v=R2Fms8EjhN8](https://www.youtube.com/watch?v=R2Fms8EjhN8)
+* [February 6th, 2019 Livestream Q&A: Why not turrets like Sanctum?](./transcriptions/yt-Dtm6xIj-wM4,1589.6333333333334,1639.062223.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1589&end=1640](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1589&end=1640)
+* [June 22nd, 2018 Q&A: Will we need to defend our factory?](./transcriptions/yt-W1E6EWrAsII,176.6,214.36.md) [https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=176&end=215](https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=176&end=215)
+</details>
+
+### [Q&A: Has opions on Blueprinting changed?](./transcriptions/yt-Gtl0TOAaxy0.md) [https://www.youtube.com/watch?v=Gtl0TOAaxy0](https://www.youtube.com/watch?v=Gtl0TOAaxy0)
 
 <details>
 
 <summary>A transcript is available</summary>
 
-> do you think you guys are close to 1.0 it depends like compare like i would say we're close to 1.0 but we're definitely trying to aim for 1.0 sometime in the near future not like i don't think we want to be in early access for another three years let me put it that way um but as for like when 1.0 is gonna happen like i don't even know if we know what what exactly 1.0 is right now you know 2023 i mean it's possible
+> has opinions on blueprinting changed any i'm so tired of placing 10 splitters and 11 smelters uh i don't know what our current opinion is on it honestly um we go back and forth on it i think uh if we do do it we would probably want to have some kind of limitation to it so it's still not like too easy to move the goal post but yeah it's it's just one thing that we've constantly gone back and forth about with you guys as well so like what the reason for it is but like honestly like why wouldn't you want to place 11 spelters and 10 splitters like what's th where's the non-fun of that you know so uh yeah but i don't know what our current stance is on it
 
 
 </details>
 
 <details>
-<summary>This question may have been asked previously at least 21 other times, as recently as March 2022 and as early as March 2019.</summary>
+<summary>This question may have been asked previously at least 20 other times, as recently as February 2022 and as early as February 2019.</summary>
 
+* [February 11th, 2022 Hot Potato Bonus Stream Q&A: Blueprints?](./transcriptions/yt-lidkhceF2oc.md) [https://www.youtube.com/watch?v=lidkhceF2oc](https://www.youtube.com/watch?v=lidkhceF2oc)
+* [November 2nd, 2021 Livestream Q&A: Current team consensus on Blueprints?](./transcriptions/yt-yP3yd9rIfUk.md) [https://www.youtube.com/watch?v=yP3yd9rIfUk](https://www.youtube.com/watch?v=yP3yd9rIfUk)
+* [September 28th, 2021 Livestream Q&A: Are you guys putting any form of Blueprinting into the game?](./transcriptions/yt-LdNJwc9xclw.md) [https://www.youtube.com/watch?v=LdNJwc9xclw](https://www.youtube.com/watch?v=LdNJwc9xclw)
+* [June 29th, 2021 Livestream Q&A: Blueprints, for repetitive factory setups?](./transcriptions/yt-NYHU62S6czs.md) [https://www.youtube.com/watch?v=NYHU62S6czs](https://www.youtube.com/watch?v=NYHU62S6czs)
+* [June 22nd, 2021 Livestream Q&A: Will we see something like Blueprints in Update 5?](./transcriptions/yt-A3GSOZWzGqs.md) [https://www.youtube.com/watch?v=A3GSOZWzGqs](https://www.youtube.com/watch?v=A3GSOZWzGqs)
+* [April 20th, 2021 Livestream Q&A: Blueprints?](./transcriptions/yt-x0N2HGv49Eg.md) [https://www.youtube.com/watch?v=x0N2HGv49Eg](https://www.youtube.com/watch?v=x0N2HGv49Eg)
+* [April 6th, 2021 Livestream Q&A: Blueprints, when?](./transcriptions/yt-9Yqc4z9NPI8.md) [https://www.youtube.com/watch?v=9Yqc4z9NPI8](https://www.youtube.com/watch?v=9Yqc4z9NPI8)
+* [February 23rd, 2021 Livestream Q&A: Any plans for Blueprint mode?](./transcriptions/yt-tJSLxVZ-sFg.md) [https://www.youtube.com/watch?v=tJSLxVZ-sFg](https://www.youtube.com/watch?v=tJSLxVZ-sFg)
+* [December 17th, 2020 Q&A: Do you plan to add copy & paste functionality / blueprints?](./transcriptions/yt--JXPsTlJIiI,1208.0401666666667,1266.3651.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=1208&end=1267](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=1208&end=1267)
+* November 17th, 2020 Livestream Q&A: Are you going to add any Template/Blueprint system? [https://www.youtube.com/watch?v=tkwKMTaTpV8](https://www.youtube.com/watch?v=tkwKMTaTpV8)
+* November 17th, 2020 Livestream Q&A: Can we have your opinion on Blueprints? [https://www.youtube.com/watch?v=0HoRmIFZq4Y](https://www.youtube.com/watch?v=0HoRmIFZq4Y)
+* [November 3rd, 2020 Livestream Q&A: Blueprints?](./transcriptions/yt-Vm5LIvY8TtA.md) [https://www.youtube.com/watch?v=Vm5LIvY8TtA](https://www.youtube.com/watch?v=Vm5LIvY8TtA)
+* [October 1st, 2020 Q&A: Are there any plans to put a blueprint system in the game?](./transcriptions/yt-rATcozDE25c,538.5713666666667,591.3240666666667.md) [https://youtube.com/embed/rATcozDE25c?autoplay=1&start=538&end=592](https://youtube.com/embed/rATcozDE25c?autoplay=1&start=538&end=592)
+* [September 29th, 2020 Livestream Q&A: Will Blueprints be a thing at some point?](./transcriptions/yt-Ywq4zdWMiq8.md) [https://www.youtube.com/watch?v=Ywq4zdWMiq8](https://www.youtube.com/watch?v=Ywq4zdWMiq8)
+* [September 15th, 2020 Livestream Q&A: Are there any plans for Blueprinting Buildings?](./transcriptions/yt--sQgPUaxR-Y.md) [https://www.youtube.com/watch?v=-sQgPUaxR-Y](https://www.youtube.com/watch?v=-sQgPUaxR-Y)
+* [September 1st, 2020 Livestream Q&A: Blueprints?](./transcriptions/yt-hpl23B1A0Qk.md) [https://www.youtube.com/watch?v=hpl23B1A0Qk](https://www.youtube.com/watch?v=hpl23B1A0Qk)
+* [August 25th, 2020 Livestream Q&A: Blueprints would be awesome for end-game](./transcriptions/yt-e2YhcCwJNNg.md) [https://www.youtube.com/watch?v=e2YhcCwJNNg](https://www.youtube.com/watch?v=e2YhcCwJNNg)
+* [August 25th, 2020 Livestream Q&A: Given how often Blueprints keeps being requested it really needs to be adopted?](./transcriptions/yt-EbTEcw5zg8k.md) [https://www.youtube.com/watch?v=EbTEcw5zg8k](https://www.youtube.com/watch?v=EbTEcw5zg8k)
+* [June 8th, 2020 Livestream Q&A: Blueprints/Mass construction - will we have it ? If not, why not?](./transcriptions/yt-T1w4TV8Y8Lk.md) [https://www.youtube.com/watch?v=T1w4TV8Y8Lk](https://www.youtube.com/watch?v=T1w4TV8Y8Lk)
+* [February 6th, 2019 Livestream Q&A: Any plans for stuff like Blueprints?](./transcriptions/yt-Dtm6xIj-wM4,2816.569184,2836.733333333333.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2816&end=2837](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2816&end=2837)
+</details>
+
+### [Q&A: Will there be any improved controller support to make it easier?](./transcriptions/yt-3-nNqXQHZs4.md) [https://www.youtube.com/watch?v=3-nNqXQHZs4](https://www.youtube.com/watch?v=3-nNqXQHZs4)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> will there be any improved control support to make it easier i hope so um i think initially we really thought that we would like 100 have control of support for the game but i think the complexity of like the interactions we've added to the game have made it like we don't know if we can do it at this point um
+>
+> [Music]
+>
+> but at the same time i know that there are like steam mappings to the to for control support so i think it's possible still but we don't know for sure because we're still not done with the game we still might make kind of drastic changes to how you interact with things um so you never know really you know maybe as of now it looks very promising to have controlled support full control support to the game um but you know once we reach 1.0 that might be a different case so we don't know right now um and it's also like as to why we haven't done it yet is because the game is develo like during development we would constantly need to maintain control support and it is it is a huge task actually so it's one of those things where like since we're early access and since we're still constantly changing things for the game it would be too much work for us to constantly like have to cater towards controller support all the time if we're adding something it would limit a lot of additions we've done um so but as of now there are pretty good controller mappings um for steam and like you can use them even on epic i think um so those are recommended for now and as for steam deck support and that ties into that question too because one of the one of the requirements to be steam deck verified is that we have full control support which see previous answer so
+>
+> [Music]
+>
+> and also there's a bunch of issues with like resolution rendering and like the game isn't performant enough for something um on the steam deck so don't know about that either but it would certainly be nice to have it so yeah
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 7 other times, as recently as March 2022 and as early as February 2019.</summary>
+
+* [March 1st, 2022 Livestream Q&A: Controller support??](./transcriptions/yt-K8bnLGiUvnY.md) [https://www.youtube.com/watch?v=K8bnLGiUvnY](https://www.youtube.com/watch?v=K8bnLGiUvnY)
+* [November 23rd, 2021 Livestream Q&A: Are you planning controller support?](./transcriptions/yt-iVDRQg_aWpU,5443.766196132716,5462.457111.md) [https://youtube.com/clip/Ugkx_m7MeOzn0RdknMehAUOG5Qlu03WVK6DP](https://youtube.com/clip/Ugkx_m7MeOzn0RdknMehAUOG5Qlu03WVK6DP)
+* [August 17th, 2021 Livestream Q&A: Any chance for improved controller support?](./transcriptions/yt-jZYkquJsDyM.md) [https://www.youtube.com/watch?v=jZYkquJsDyM](https://www.youtube.com/watch?v=jZYkquJsDyM)
+* [September 22nd, 2020 Livestream Q&A: Unreal Engine has default Controller support without you guys remapping?](./transcriptions/yt-ypJikGBEdvs.md) [https://www.youtube.com/watch?v=ypJikGBEdvs](https://www.youtube.com/watch?v=ypJikGBEdvs)
+* [September 22nd, 2020 Livestream Q&A: Confused on the use of Controllers?](./transcriptions/yt-BuC0nQS2Kqs.md) [https://www.youtube.com/watch?v=BuC0nQS2Kqs](https://www.youtube.com/watch?v=BuC0nQS2Kqs)
+* [March 9th, 2019 Livestream Q&A: Controller support?](./transcriptions/yt-XrsD3h62ils.md) [https://www.youtube.com/watch?v=XrsD3h62ils](https://www.youtube.com/watch?v=XrsD3h62ils)
+* [February 6th, 2019 Livestream Q&A: Controller support?](./transcriptions/yt-Dtm6xIj-wM4,4052.6,4151.820477.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=4052&end=4152](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=4052&end=4152)
+</details>
+
+### [Q&A: Any tentative timeline when the game would reach 1.0?](./transcriptions/yt-yuPw8-uL4NA.md) [https://www.youtube.com/watch?v=yuPw8-uL4NA](https://www.youtube.com/watch?v=yuPw8-uL4NA)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> so yes any tentative timeline when the game 1.0 no not really not that we can share at least because it's kind of it's not it's going to be delayed you
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 22 other times, as recently as March 2022 and as early as March 2019.</summary>
+
+* [March 22nd, 2022 Livestream Q&A: Do you think you guys are close to 1.0?](./transcriptions/yt-D0Za_7YA9G0.md) [https://www.youtube.com/watch?v=D0Za_7YA9G0](https://www.youtube.com/watch?v=D0Za_7YA9G0)
 * [March 8th, 2022 Livestream Q&A: How many releases until 1.0?](./transcriptions/yt-VCC3bWwqnkw.md) [https://www.youtube.com/watch?v=VCC3bWwqnkw](https://www.youtube.com/watch?v=VCC3bWwqnkw)
 * [March 1st, 2022 Livestream Q&A: How many big Updates are you away from 1.0?](./transcriptions/yt-jdUPNumTkUE.md) [https://www.youtube.com/watch?v=jdUPNumTkUE](https://www.youtube.com/watch?v=jdUPNumTkUE)
 * [December 14th, 2021 Livestream Q&A: How many more Updates are planned?](./transcriptions/yt-94UgcPML6FI.md) [https://www.youtube.com/watch?v=94UgcPML6FI](https://www.youtube.com/watch?v=94UgcPML6FI)
@@ -64,20 +169,21 @@ date: Last Modified
 * [March 9th, 2019 Livestream Q&A: How often will you release updates in Early Access?](./transcriptions/yt-PBkvqmyjADM.md) [https://www.youtube.com/watch?v=PBkvqmyjADM](https://www.youtube.com/watch?v=PBkvqmyjADM)
 </details>
 
-### [Q&A: What's your vision of the game after 1.0?](./transcriptions/yt-xSSMYi2gdUo.md) [https://www.youtube.com/watch?v=xSSMYi2gdUo](https://www.youtube.com/watch?v=xSSMYi2gdUo)
+### [Q&A: Will there be Updates after 1.0?](./transcriptions/yt-EjZAdss6k4Q.md) [https://www.youtube.com/watch?v=EjZAdss6k4Q](https://www.youtube.com/watch?v=EjZAdss6k4Q)
 
 <details>
 
 <summary>A transcript is available</summary>
 
-> what is the vision of the game after 1.0 we haven't same thing there like we we don't really know what 1.0 would look like either uh we we don't really have anything planned for after 1.0 either um so no idea there we may maybe we'll do dlc maybe we'll uh just abandon the game completely i don't know like i have no idea actually uh there's definitely there's definitely not an abundance of things we can make with the game i think we can work on this game for forever essentially um but like what we do after one point i don't know toilet flush dlc that is the that why hasn't that happened yet that's the true crime right there yeah make your bets september 22 2025 2024
+> uh will there be updates after 1.0 i don't we don't know maybe maybe we'll be like paid dlc maybe we'll do free updates uh nothing has been decided yet we will do what makes sense at the time that's that's kind of like if you've been here before you you might notice that this is kind of like our mantra when it comes to development for the game but we all we always you know we'll take thing one thing at a time uh you know we will we will burn that bridge when we get to it so um we'll see when we're at 1.0 like what we'll do
 
 
 </details>
 
 <details>
-<summary>This question may have been asked previously at least 14 other times, as recently as November 2021 and as early as June 2018.</summary>
+<summary>This question may have been asked previously at least 15 other times, as recently as March 2022 and as early as June 2018.</summary>
 
+* [March 22nd, 2022 Livestream Q&A: What's your vision of the game after 1.0?](./transcriptions/yt-xSSMYi2gdUo.md) [https://www.youtube.com/watch?v=xSSMYi2gdUo](https://www.youtube.com/watch?v=xSSMYi2gdUo)
 * [November 2nd, 2021 Livestream Q&A: After 1.0 will you still support the game or just move on?](./transcriptions/yt-4uejLZj2lCk.md) [https://www.youtube.com/watch?v=4uejLZj2lCk](https://www.youtube.com/watch?v=4uejLZj2lCk)
 * [September 21st, 2021 Livestream Q&A: Will the game continue to receive Updates (either minor or major) after 1.0?](./transcriptions/yt-RDO1LqiB54Y.md) [https://www.youtube.com/watch?v=RDO1LqiB54Y](https://www.youtube.com/watch?v=RDO1LqiB54Y)
 * [August 24th, 2021 Livestream Q&A: Will there be updates after 1.0?](./transcriptions/yt-LXG_NjB0cr4.md) [https://www.youtube.com/watch?v=LXG_NjB0cr4](https://www.youtube.com/watch?v=LXG_NjB0cr4)
@@ -92,6 +198,71 @@ date: Last Modified
 * [January 22nd, 2020 Livestream Q&A: Will there be DLC after 1.0?](./transcriptions/yt-FHqvzjGbhvg.md) [https://www.youtube.com/watch?v=FHqvzjGbhvg](https://www.youtube.com/watch?v=FHqvzjGbhvg)
 * [February 6th, 2019 Livestream Q&A: Are there going to be free updates after the game is released, or is it all going to be DLCs?](./transcriptions/yt-Dtm6xIj-wM4,1550.571925,1573.58823.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1550&end=1574](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1550&end=1574)
 * [June 22nd, 2018 Q&A: Plans for post-launch?](./transcriptions/yt-W1E6EWrAsII,120.52,176.6.md) [https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=120&end=177](https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=120&end=177)
+</details>
+
+### [Q&A: Will there be a two-way switch for Hyper Tubes?](./transcriptions/yt-UgTF5uThITM.md) [https://www.youtube.com/watch?v=UgTF5uThITM](https://www.youtube.com/watch?v=UgTF5uThITM)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> will be a two-way switch for hyper tubes a two-way switch as in like a splitter kind of situation or we can like pick which direction to go uh if so then probably not because we would need to change how the hypertube system works uh
+>
+> [Music]
+>
+> i mean it's possible let us know on the q a side if you want that if you really want that
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 2 other times, as recently as March 2022 and as early as June 2021.</summary>
+
+* [March 1st, 2022 Livestream Q&A: Adding Hyper Tube merger/splitters?](./transcriptions/yt-YkMoJvr0ID4.md) [https://www.youtube.com/watch?v=YkMoJvr0ID4](https://www.youtube.com/watch?v=YkMoJvr0ID4)
+* [June 22nd, 2021 Livestream Q&A: Hyper Tube splitters, press A or D and you'll turn at the next junction, what do you think?](./transcriptions/yt-0KSOVcZ6f6A.md) [https://www.youtube.com/watch?v=0KSOVcZ6f6A](https://www.youtube.com/watch?v=0KSOVcZ6f6A)
+</details>
+
+### [Q&A: Add in a reverse function on Belts like you did with Lifts?](./transcriptions/yt-pN08CYnMRKs.md) [https://www.youtube.com/watch?v=pN08CYnMRKs](https://www.youtube.com/watch?v=pN08CYnMRKs)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> and then reverse function and belts like we did with lifts i would like that too the reason why i don't i think the reason why we didn't add it was because it was like a sort of a late tier addition to the lifts um we it was like not part of the update five release even it was like during experimental we added it um and sometimes we add things to like kind of try them out as well like sometimes some features don't like stick with some people um so i think i think that is a pretty good addition to the belts in general though so please upload there okay with cooler side let give it a little vote on the q website to make sure that uh we see it would be dandy
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 2 other times, as recently as November 2021 and as early as November 2021.</summary>
+
+* [November 16th, 2021 Livestream Q&A: Add reverse Conveyor Belts like Lifts?](./transcriptions/yt-DxB17x3welQ.md) [https://www.youtube.com/watch?v=DxB17x3welQ](https://www.youtube.com/watch?v=DxB17x3welQ)
+* [November 9th, 2021 Livestream Q&A: Reverse Build Mode, when?](./transcriptions/yt-MhYk3tCLUi8.md) [https://www.youtube.com/watch?v=MhYk3tCLUi8](https://www.youtube.com/watch?v=MhYk3tCLUi8)
+</details>
+
+## [March 22nd, 2022 Livestream](./2022-03-22.md)
+### [Q&A: Why no Golf?](./transcriptions/yt-STS5LemFXA0.md) [https://www.youtube.com/watch?v=STS5LemFXA0](https://www.youtube.com/watch?v=STS5LemFXA0)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> why no golf why because it sucks golf sucks
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 8 other times, as recently as March 2022 and as early as November 2021.</summary>
+
+* [March 15th, 2022 Livestream Q&A: Golf, when?](./transcriptions/yt-lnYChdXeOJQ.md) [https://www.youtube.com/watch?v=lnYChdXeOJQ](https://www.youtube.com/watch?v=lnYChdXeOJQ)
+* [March 8th, 2022 Livestream Q&A: Any plans for any Golf?](./transcriptions/yt-IVZrSqBV5hM.md) [https://www.youtube.com/watch?v=IVZrSqBV5hM](https://www.youtube.com/watch?v=IVZrSqBV5hM)
+* March 8th, 2022 Livestream Q&A: Golf? [https://www.youtube.com/watch?v=IYiTB2D1hKk](https://www.youtube.com/watch?v=IYiTB2D1hKk)
+* [March 8th, 2022 Livestream Q&A: Is it true you guys are adding Golf?](./transcriptions/yt-5fao-wsp_CM.md) [https://www.youtube.com/watch?v=5fao-wsp_CM](https://www.youtube.com/watch?v=5fao-wsp_CM)
+* [December 14th, 2021 Livestream Q&A: Golf, when?](./transcriptions/yt-7izKxTtG3js.md) [https://www.youtube.com/watch?v=7izKxTtG3js](https://www.youtube.com/watch?v=7izKxTtG3js)
+* [December 7th, 2021 Livestream Q&A: When's Golf?](./transcriptions/yt-hhZq5M3I8Io.md) [https://www.youtube.com/watch?v=hhZq5M3I8Io](https://www.youtube.com/watch?v=hhZq5M3I8Io)
+* [November 23rd, 2021 Livestream Q&A: Golf, when?](./transcriptions/yt-iVDRQg_aWpU,5188.73288641358,5195.520066.md) [https://youtube.com/clip/UgkxtKr3YShULCOATqNTspPVmbJ_hDuQi765](https://youtube.com/clip/UgkxtKr3YShULCOATqNTspPVmbJ_hDuQi765)
+* [November 9th, 2021 Livestream Q&A: Golf, when?](./transcriptions/yt-kYn6eCYtK6w.md) [https://www.youtube.com/watch?v=kYn6eCYtK6w](https://www.youtube.com/watch?v=kYn6eCYtK6w)
 </details>
 
 ### [Q&A: When will we see more of the Story?](./transcriptions/yt-hesfPUzwrZs.md) [https://www.youtube.com/watch?v=hesfPUzwrZs](https://www.youtube.com/watch?v=hesfPUzwrZs)
@@ -763,41 +934,6 @@ date: Last Modified
 * [February 20th, 2019 Livestream Q&A: How many people are there in the studio?](./transcriptions/yt-CB9bSigNYH8,808.45003,837.796486.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=808&end=838](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=808&end=838)
 </details>
 
-### [Q&A: When Base Defense?](./transcriptions/yt-jydtfpmdc5Q.md) [https://www.youtube.com/watch?v=jydtfpmdc5Q](https://www.youtube.com/watch?v=jydtfpmdc5Q)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> when base defense
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 19 other times, as recently as September 2021 and as early as June 2018.</summary>
-
-* [September 21st, 2021 Livestream Q&A: Will there be a thing like monsters attacking us in waves like in Factorio?](./transcriptions/yt-LP3IgdK7OwA.md) [https://www.youtube.com/watch?v=LP3IgdK7OwA](https://www.youtube.com/watch?v=LP3IgdK7OwA)
-* [July 20th, 2021 Livestream Q&A: What're your thoughts on making the game Tower Defense?](./transcriptions/yt-Ki4ohrbXbrk.md) [https://www.youtube.com/watch?v=Ki4ohrbXbrk](https://www.youtube.com/watch?v=Ki4ohrbXbrk)
-* [June 8th, 2021 Livestream Q&A: Turrets & shit?](./transcriptions/yt-KPUcYM5lOac.md) [https://www.youtube.com/watch?v=KPUcYM5lOac](https://www.youtube.com/watch?v=KPUcYM5lOac)
-* [May 11th, 2021 Livestream Q&A: Tower Defense?](./transcriptions/yt-VRiUOPEpWvU.md) [https://www.youtube.com/watch?v=VRiUOPEpWvU](https://www.youtube.com/watch?v=VRiUOPEpWvU)
-* [April 27th, 2021 Livestream Q&A: Is there combat & Base Defense required in the game?](./transcriptions/yt-A9GtewxqeLo.md) [https://www.youtube.com/watch?v=A9GtewxqeLo](https://www.youtube.com/watch?v=A9GtewxqeLo)
-* [March 30th, 2021 Livestream Q&A: Could some Sanctum gameplay, maybe the Tower Defense part come to Satisfactory?](./transcriptions/yt-1UTiDPGMgRI.md) [https://www.youtube.com/watch?v=1UTiDPGMgRI](https://www.youtube.com/watch?v=1UTiDPGMgRI)
-* February 26th, 2021 Videos Q&A: Please add semi tower defense in this game I'm begging you! [https://satisfactory.fandom.com/wiki/File:February_26th,_2021_Instagram_AMA_-_Please_add_semi_tower_defence_in_this_game.mp4](https://satisfactory.fandom.com/wiki/File:February_26th,_2021_Instagram_AMA_-_Please_add_semi_tower_defence_in_this_game.mp4)
-* [February 9th, 2021 Livestream Q&A: Is there going to be tower defense?](./transcriptions/yt-9dWWC0mFitU.md) [https://www.youtube.com/watch?v=9dWWC0mFitU](https://www.youtube.com/watch?v=9dWWC0mFitU)
-* January 22nd, 2021 Instagram AMA Q&A: Is there a plan for automatize the base defense? [https://satisfactory.fandom.com/wiki/File:January_22nd%2C_2021_Instagram_AMA-base_defense.mp4](https://satisfactory.fandom.com/wiki/File:January_22nd%2C_2021_Instagram_AMA-base_defense.mp4)
-* [December 15th, 2020 Livestream Q&A: Can we get turrets and more PvE?](./transcriptions/yt-sJnuRV0OGF0.md) [https://www.youtube.com/watch?v=sJnuRV0OGF0](https://www.youtube.com/watch?v=sJnuRV0OGF0)
-* [December 8th, 2020 Livestream Q&A: Will there be any Base Defense?](./transcriptions/yt-5-8ACtMU2_E.md) [https://www.youtube.com/watch?v=5-8ACtMU2_E](https://www.youtube.com/watch?v=5-8ACtMU2_E)
-* [October 13th, 2020 Livestream Q&A: If Factories can get attacked?](./transcriptions/yt-tK_m7AqM4sY.md) [https://www.youtube.com/watch?v=tK_m7AqM4sY](https://www.youtube.com/watch?v=tK_m7AqM4sY)
-* [September 22nd, 2020 Livestream Q&A: Hoping for Base Defence?](./transcriptions/yt-RjFIQhJY824.md) [https://www.youtube.com/watch?v=RjFIQhJY824](https://www.youtube.com/watch?v=RjFIQhJY824)
-* August 18th, 2020 Livestream Q&A: Will there be animals that attack the base? [https://clips.twitch.tv/ProtectiveTubularCatJebaited](https://clips.twitch.tv/ProtectiveTubularCatJebaited)
-* [May 15th, 2020 Q&A: What is one item or equipment that some of the staff have wanted, but got canned for balancing?](./transcriptions/yt-NlIVwoRqjVk,1034.8338,1062.2612.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=1034&end=1063](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=1034&end=1063)
-* [March 9th, 2019 Livestream Q&A: Will there be turrets or something in the game?](./transcriptions/yt-xNBFywqCrxM.md) [https://www.youtube.com/watch?v=xNBFywqCrxM](https://www.youtube.com/watch?v=xNBFywqCrxM)
-* [March 9th, 2019 Livestream Q&A: Can creatures in any way disrupt your factory?](./transcriptions/yt-R2Fms8EjhN8.md) [https://www.youtube.com/watch?v=R2Fms8EjhN8](https://www.youtube.com/watch?v=R2Fms8EjhN8)
-* [February 6th, 2019 Livestream Q&A: Why not turrets like Sanctum?](./transcriptions/yt-Dtm6xIj-wM4,1589.6333333333334,1639.062223.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1589&end=1640](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1589&end=1640)
-* [June 22nd, 2018 Q&A: Will we need to defend our factory?](./transcriptions/yt-W1E6EWrAsII,176.6,214.36.md) [https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=176&end=215](https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=176&end=215)
-</details>
-
 ### [Q&A: Any plans to increase the Satisfactory Map size?](./transcriptions/yt-jJWJNuE_CXQ.md) [https://www.youtube.com/watch?v=jJWJNuE_CXQ](https://www.youtube.com/watch?v=jJWJNuE_CXQ)
 
 <details>
@@ -821,28 +957,6 @@ date: Last Modified
 * [November 3rd, 2020 Livestream Q&A: Will the Map become bigger?](./transcriptions/yt-1pzu9fbySq0.md) [https://www.youtube.com/watch?v=1pzu9fbySq0](https://www.youtube.com/watch?v=1pzu9fbySq0)
 * [September 15th, 2020 Livestream Q&A: Will the Map be bigger?](./transcriptions/yt-b49tcUeMO3E.md) [https://www.youtube.com/watch?v=b49tcUeMO3E](https://www.youtube.com/watch?v=b49tcUeMO3E)
 * December 19th, 2019 Livestream Q&A: Will we get a bigger World Map? [https://www.youtube.com/watch?v=TfKysphS2S4](https://www.youtube.com/watch?v=TfKysphS2S4)
-</details>
-
-### [Q&A: Controller support??](./transcriptions/yt-K8bnLGiUvnY.md) [https://www.youtube.com/watch?v=K8bnLGiUvnY](https://www.youtube.com/watch?v=K8bnLGiUvnY)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> controller support question mark question mark hopefully maybe i yeah i hopefully like control support something we've always liked push back for 1.0 um and uh i don't know if when see here's the problem i know that we kind of like said in the beginning of development that like oh control support has definitely happened like no doubt about it it's 100 happening um but as as the game went on and we developed the game like it's becoming like harder and harder to like kind of like mentally like how would control support work with our game with the changes we've made because we didn't anticipate these changes and i guess that's kind of our fault in a way because really when if you want to have control support you have to like kind of have it day one and then you have to design the game around it and i think we just said that like we kind of want to cater towards playstation uh playstation why don't i say that uh pc ps pc uh we want to cater towards pc players first and then if it makes sense to add control support and and you know then we'll do that um i still think we will honestly but uh you know nothing's guaranteed at this point
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 6 other times, as recently as November 2021 and as early as February 2019.</summary>
-
-* [November 23rd, 2021 Livestream Q&A: Are you planning controller support?](./transcriptions/yt-iVDRQg_aWpU,5443.766196132716,5462.457111.md) [https://youtube.com/clip/Ugkx_m7MeOzn0RdknMehAUOG5Qlu03WVK6DP](https://youtube.com/clip/Ugkx_m7MeOzn0RdknMehAUOG5Qlu03WVK6DP)
-* [August 17th, 2021 Livestream Q&A: Any chance for improved controller support?](./transcriptions/yt-jZYkquJsDyM.md) [https://www.youtube.com/watch?v=jZYkquJsDyM](https://www.youtube.com/watch?v=jZYkquJsDyM)
-* [September 22nd, 2020 Livestream Q&A: Unreal Engine has default Controller support without you guys remapping?](./transcriptions/yt-ypJikGBEdvs.md) [https://www.youtube.com/watch?v=ypJikGBEdvs](https://www.youtube.com/watch?v=ypJikGBEdvs)
-* [September 22nd, 2020 Livestream Q&A: Confused on the use of Controllers?](./transcriptions/yt-BuC0nQS2Kqs.md) [https://www.youtube.com/watch?v=BuC0nQS2Kqs](https://www.youtube.com/watch?v=BuC0nQS2Kqs)
-* [March 9th, 2019 Livestream Q&A: Controller support?](./transcriptions/yt-XrsD3h62ils.md) [https://www.youtube.com/watch?v=XrsD3h62ils](https://www.youtube.com/watch?v=XrsD3h62ils)
-* [February 6th, 2019 Livestream Q&A: Controller support?](./transcriptions/yt-Dtm6xIj-wM4,4052.6,4151.820477.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=4052&end=4152](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=4052&end=4152)
 </details>
 
 ### [Q&A: Steam Deck release?](./transcriptions/yt-8xcEe2G_fio.md) [https://www.youtube.com/watch?v=8xcEe2G_fio](https://www.youtube.com/watch?v=8xcEe2G_fio)
@@ -1229,39 +1343,6 @@ date: Last Modified
 * August 11th, 2020 Livestream Q&A: Hypertube Cannons - Bug or Feature? [https://clips.twitch.tv/OilyPatientOtterTBTacoLeft](https://clips.twitch.tv/OilyPatientOtterTBTacoLeft)
 </details>
 
-### [Q&A: Will we get a second Body slot?](./transcriptions/yt-u4iuArSF2C8.md) [https://www.youtube.com/watch?v=u4iuArSF2C8](https://www.youtube.com/watch?v=u4iuArSF2C8)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> uh will we get a second body slot we know a lot of people want like a second body slot or something to do with that so it's something that we have looked into maybe we will maybe we won't
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 17 other times, as recently as December 2021 and as early as May 2020.</summary>
-
-* [December 14th, 2021 Livestream Q&A: Why don't you want us to equip the Blade Runners and Jetpack at the same time?](./transcriptions/yt-HC83odaoVd0.md) [https://www.youtube.com/watch?v=HC83odaoVd0](https://www.youtube.com/watch?v=HC83odaoVd0)
-* [November 9th, 2021 Livestream Q&A: Two body slots, maybe?](./transcriptions/yt-1r0kKFc_mW4.md) [https://www.youtube.com/watch?v=1r0kKFc_mW4](https://www.youtube.com/watch?v=1r0kKFc_mW4)
-* [October 5th, 2021 Livestream Q&A: Equipment Slots rework still in progress?](./transcriptions/yt-NZGJ3mLsbNk.md) [https://www.youtube.com/watch?v=NZGJ3mLsbNk](https://www.youtube.com/watch?v=NZGJ3mLsbNk)
-* September 14th, 2021 Livestream Q&A: Tell me something good about Dual Body Slots? [https://www.youtube.com/watch?v=47I5UvpAn98](https://www.youtube.com/watch?v=47I5UvpAn98)
-* [August 10th, 2021 Livestream Q&A: Will we be able to equip more than one item?](./transcriptions/yt-qiA_5oti7s8.md) [https://www.youtube.com/watch?v=qiA_5oti7s8](https://www.youtube.com/watch?v=qiA_5oti7s8)
-* [July 13th, 2021 Livestream Q&A: Any chance we can get another Body Slot?](./transcriptions/yt-UuhHtf0yr64.md) [https://www.youtube.com/watch?v=UuhHtf0yr64](https://www.youtube.com/watch?v=UuhHtf0yr64)
-* [May 4th, 2021 Livestream Q&A: Will there be a new body slot?](./transcriptions/yt-80Ajx6Ml2Aw.md) [https://www.youtube.com/watch?v=80Ajx6Ml2Aw](https://www.youtube.com/watch?v=80Ajx6Ml2Aw)
-* [April 20th, 2021 Livestream Q&A: Body Slots?](./transcriptions/yt-G6TdxrJuIaA.md) [https://www.youtube.com/watch?v=G6TdxrJuIaA](https://www.youtube.com/watch?v=G6TdxrJuIaA)
-* [April 6th, 2021 Livestream Q&A: Multiple Body slots, when?](./transcriptions/yt-Xa03UsMWsjo.md) [https://www.youtube.com/watch?v=Xa03UsMWsjo](https://www.youtube.com/watch?v=Xa03UsMWsjo)
-* [March 30th, 2021 Livestream Q&A: Add body slots so we can use Blade Runners and Jetpacks at the same time?](./transcriptions/yt-XkDGnJwkY18.md) [https://www.youtube.com/watch?v=XkDGnJwkY18](https://www.youtube.com/watch?v=XkDGnJwkY18)
-* [March 23rd, 2021 Livestream Q&A: Do you ever think you'll give us more than one Body Slot?](./transcriptions/yt-b8xgQlBZ_yc.md) [https://www.youtube.com/watch?v=b8xgQlBZ_yc](https://www.youtube.com/watch?v=b8xgQlBZ_yc)
-* [March 9th, 2021 Livestream Q&A: Will we ever get a second body slot?](./transcriptions/yt-B2LmiIWJu8o.md) [https://www.youtube.com/watch?v=B2LmiIWJu8o](https://www.youtube.com/watch?v=B2LmiIWJu8o)
-* [March 2nd, 2021 Livestream Q&A: When are we going to be able to use more than one Equipment at a time?](./transcriptions/yt-w6VfAW7WD1w.md) [https://www.youtube.com/watch?v=w6VfAW7WD1w](https://www.youtube.com/watch?v=w6VfAW7WD1w)
-* [February 2nd, 2021 Livestream Q&A: Will we get two character slots for Jetpacks and Blade Runners](./transcriptions/yt-YKIN_NCGDpo.md) [https://www.youtube.com/watch?v=YKIN_NCGDpo](https://www.youtube.com/watch?v=YKIN_NCGDpo)
-* [October 6th, 2020 Livestream Q&A: What's the max amount of body slots?](./transcriptions/yt-aPWXjH-Xf1o.md) [https://www.youtube.com/watch?v=aPWXjH-Xf1o](https://www.youtube.com/watch?v=aPWXjH-Xf1o)
-* [September 15th, 2020 Livestream Q&A: Can I wear Boots, Jetpack and a Gas Mask?](./transcriptions/yt-Gt1ATsmBu6k.md) [https://www.youtube.com/watch?v=Gt1ATsmBu6k](https://www.youtube.com/watch?v=Gt1ATsmBu6k)
-* [May 15th, 2020 Q&A: Will we get more than one body slot?](./transcriptions/yt-NlIVwoRqjVk,733.1324,779.1784.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=733&end=780](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=733&end=780)
-</details>
-
 ## [February 15th, 2022 Livestream](./2022-02-15.md)
 ### [Q&A: Will Smart Mergers ever be a thing?](./transcriptions/yt-xzmIE-SlPp4.md) [https://www.youtube.com/watch?v=xzmIE-SlPp4](https://www.youtube.com/watch?v=xzmIE-SlPp4)
 
@@ -1441,42 +1522,6 @@ date: Last Modified
 * [August 31st, 2021 Livestream Q&A: Update 6, when?](./transcriptions/yt-ZNvVgWjUVZ4.md) [https://www.youtube.com/watch?v=ZNvVgWjUVZ4](https://www.youtube.com/watch?v=ZNvVgWjUVZ4)
 * August 3rd, 2021 Livestream Q&A: When's Update 6? [https://www.youtube.com/watch?v=idUzu51pIKQ](https://www.youtube.com/watch?v=idUzu51pIKQ)
 * [September 1st, 2020 Livestream Q&A: When will we release Update 6?](./transcriptions/yt-7Mtw3tqgwKQ.md) [https://www.youtube.com/watch?v=7Mtw3tqgwKQ](https://www.youtube.com/watch?v=7Mtw3tqgwKQ)
-</details>
-
-## [February 11th, 2022 Hot Potato Bonus Stream](./2022-02-11.md)
-### [Q&A: Blueprints?](./transcriptions/yt-lidkhceF2oc.md) [https://www.youtube.com/watch?v=lidkhceF2oc](https://www.youtube.com/watch?v=lidkhceF2oc)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> the only thing oh i found new blueprints i can yeah exactly chad stop i'm gonna blueprints stop i like how you like chat stop and literally no one is saying that i know they're saying it i know they're not writing they're all thinking that they're all thinking they're being too kind they're being too kind to us that's all uh very good uh the one the one occasion where it might have would have been good yes you know it is rare but suddenly so sometimes the occasion happens okay but it's not it's too rare guys it's
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 19 other times, as recently as November 2021 and as early as February 2019.</summary>
-
-* [November 2nd, 2021 Livestream Q&A: Current team consensus on Blueprints?](./transcriptions/yt-yP3yd9rIfUk.md) [https://www.youtube.com/watch?v=yP3yd9rIfUk](https://www.youtube.com/watch?v=yP3yd9rIfUk)
-* [September 28th, 2021 Livestream Q&A: Are you guys putting any form of Blueprinting into the game?](./transcriptions/yt-LdNJwc9xclw.md) [https://www.youtube.com/watch?v=LdNJwc9xclw](https://www.youtube.com/watch?v=LdNJwc9xclw)
-* [June 29th, 2021 Livestream Q&A: Blueprints, for repetitive factory setups?](./transcriptions/yt-NYHU62S6czs.md) [https://www.youtube.com/watch?v=NYHU62S6czs](https://www.youtube.com/watch?v=NYHU62S6czs)
-* [June 22nd, 2021 Livestream Q&A: Will we see something like Blueprints in Update 5?](./transcriptions/yt-A3GSOZWzGqs.md) [https://www.youtube.com/watch?v=A3GSOZWzGqs](https://www.youtube.com/watch?v=A3GSOZWzGqs)
-* [April 20th, 2021 Livestream Q&A: Blueprints?](./transcriptions/yt-x0N2HGv49Eg.md) [https://www.youtube.com/watch?v=x0N2HGv49Eg](https://www.youtube.com/watch?v=x0N2HGv49Eg)
-* [April 6th, 2021 Livestream Q&A: Blueprints, when?](./transcriptions/yt-9Yqc4z9NPI8.md) [https://www.youtube.com/watch?v=9Yqc4z9NPI8](https://www.youtube.com/watch?v=9Yqc4z9NPI8)
-* [February 23rd, 2021 Livestream Q&A: Any plans for Blueprint mode?](./transcriptions/yt-tJSLxVZ-sFg.md) [https://www.youtube.com/watch?v=tJSLxVZ-sFg](https://www.youtube.com/watch?v=tJSLxVZ-sFg)
-* [December 17th, 2020 Q&A: Do you plan to add copy & paste functionality / blueprints?](./transcriptions/yt--JXPsTlJIiI,1208.0401666666667,1266.3651.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=1208&end=1267](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=1208&end=1267)
-* November 17th, 2020 Livestream Q&A: Are you going to add any Template/Blueprint system? [https://www.youtube.com/watch?v=tkwKMTaTpV8](https://www.youtube.com/watch?v=tkwKMTaTpV8)
-* November 17th, 2020 Livestream Q&A: Can we have your opinion on Blueprints? [https://www.youtube.com/watch?v=0HoRmIFZq4Y](https://www.youtube.com/watch?v=0HoRmIFZq4Y)
-* [November 3rd, 2020 Livestream Q&A: Blueprints?](./transcriptions/yt-Vm5LIvY8TtA.md) [https://www.youtube.com/watch?v=Vm5LIvY8TtA](https://www.youtube.com/watch?v=Vm5LIvY8TtA)
-* [October 1st, 2020 Q&A: Are there any plans to put a blueprint system in the game?](./transcriptions/yt-rATcozDE25c,538.5713666666667,591.3240666666667.md) [https://youtube.com/embed/rATcozDE25c?autoplay=1&start=538&end=592](https://youtube.com/embed/rATcozDE25c?autoplay=1&start=538&end=592)
-* [September 29th, 2020 Livestream Q&A: Will Blueprints be a thing at some point?](./transcriptions/yt-Ywq4zdWMiq8.md) [https://www.youtube.com/watch?v=Ywq4zdWMiq8](https://www.youtube.com/watch?v=Ywq4zdWMiq8)
-* [September 15th, 2020 Livestream Q&A: Are there any plans for Blueprinting Buildings?](./transcriptions/yt--sQgPUaxR-Y.md) [https://www.youtube.com/watch?v=-sQgPUaxR-Y](https://www.youtube.com/watch?v=-sQgPUaxR-Y)
-* [September 1st, 2020 Livestream Q&A: Blueprints?](./transcriptions/yt-hpl23B1A0Qk.md) [https://www.youtube.com/watch?v=hpl23B1A0Qk](https://www.youtube.com/watch?v=hpl23B1A0Qk)
-* [August 25th, 2020 Livestream Q&A: Blueprints would be awesome for end-game](./transcriptions/yt-e2YhcCwJNNg.md) [https://www.youtube.com/watch?v=e2YhcCwJNNg](https://www.youtube.com/watch?v=e2YhcCwJNNg)
-* [August 25th, 2020 Livestream Q&A: Given how often Blueprints keeps being requested it really needs to be adopted?](./transcriptions/yt-EbTEcw5zg8k.md) [https://www.youtube.com/watch?v=EbTEcw5zg8k](https://www.youtube.com/watch?v=EbTEcw5zg8k)
-* [June 8th, 2020 Livestream Q&A: Blueprints/Mass construction - will we have it ? If not, why not?](./transcriptions/yt-T1w4TV8Y8Lk.md) [https://www.youtube.com/watch?v=T1w4TV8Y8Lk](https://www.youtube.com/watch?v=T1w4TV8Y8Lk)
-* [February 6th, 2019 Livestream Q&A: Any plans for stuff like Blueprints?](./transcriptions/yt-Dtm6xIj-wM4,2816.569184,2836.733333333333.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2816&end=2837](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2816&end=2837)
 </details>
 
 ## [February 8th, 2022 Livestream](./2022-02-08.md)

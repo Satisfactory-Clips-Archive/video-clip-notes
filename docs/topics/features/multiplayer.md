@@ -7,6 +7,9 @@ date: Last Modified
 * [Crossplay](../../topics/features/multiplayer/crossplay.md)
 * [Dedicated Servers](../../topics/features/multiplayer/dedicated-servers.md)
 
+## March 29th, 2022 Livestream
+* [EOS Reset Account](../../transcriptions/yt-XczXasUwc0w.md) [https://www.youtube.com/watch?v=XczXasUwc0w](https://www.youtube.com/watch?v=XczXasUwc0w)
+
 ## February 11th, 2022 Hot Potato Bonus Stream
 * [Q&A: Can you revive players?](../../transcriptions/yt-35WSy5FR8Z0.md) [https://www.youtube.com/watch?v=35WSy5FR8Z0](https://www.youtube.com/watch?v=35WSy5FR8Z0)
 

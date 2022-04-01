@@ -8,7 +8,7 @@ topics:
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: Blueprints would be awesome for end-game
 https://www.youtube.com/watch?v=e2YhcCwJNNg
-This question was possibly duplicated with a more recent answer: [February 11th, 2022 Hot Potato Bonus Stream Q&A: Blueprints?](./yt-lidkhceF2oc.md) [https://www.youtube.com/watch?v=lidkhceF2oc](https://www.youtube.com/watch?v=lidkhceF2oc)
+This question was possibly duplicated with a more recent answer: [March 29th, 2022 Livestream Q&A: Has opions on Blueprinting changed?](./yt-Gtl0TOAaxy0.md) [https://www.youtube.com/watch?v=Gtl0TOAaxy0](https://www.youtube.com/watch?v=Gtl0TOAaxy0)
 
 
 ### Topics

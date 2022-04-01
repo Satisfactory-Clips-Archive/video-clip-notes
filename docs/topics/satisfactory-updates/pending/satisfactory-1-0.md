@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Pending > Satisfactory 1.0
 
+## March 29th, 2022 Livestream
+* [State of Dave](../../../transcriptions/yt-AXh8bvElSWw.md) [https://www.youtube.com/watch?v=AXh8bvElSWw](https://www.youtube.com/watch?v=AXh8bvElSWw)
+* [Q&A: Any tentative timeline when the game would reach 1.0?](../../../transcriptions/yt-yuPw8-uL4NA.md) [https://www.youtube.com/watch?v=yuPw8-uL4NA](https://www.youtube.com/watch?v=yuPw8-uL4NA)
+* [Q&A: Will there be Updates after 1.0?](../../../transcriptions/yt-EjZAdss6k4Q.md) [https://www.youtube.com/watch?v=EjZAdss6k4Q](https://www.youtube.com/watch?v=EjZAdss6k4Q)
+
 ## March 22nd, 2022 Livestream
 * [Q&A: Do you think you guys are close to 1.0?](../../../transcriptions/yt-D0Za_7YA9G0.md) [https://www.youtube.com/watch?v=D0Za_7YA9G0](https://www.youtube.com/watch?v=D0Za_7YA9G0)
 * [Q&A: What's your vision of the game after 1.0?](../../../transcriptions/yt-xSSMYi2gdUo.md) [https://www.youtube.com/watch?v=xSSMYi2gdUo](https://www.youtube.com/watch?v=xSSMYi2gdUo)

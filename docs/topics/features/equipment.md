@@ -20,6 +20,10 @@ date: Last Modified
 * [Xeno-Zapper](../../topics/features/equipment/xeno-zapper.md)
 * [Zip Lines](../../topics/features/equipment/zip-lines.md)
 
+## March 29th, 2022 Livestream
+* [Q&A: Will the shooter aspect of Satisfactory become stronger- you said there would be bosses?](../../transcriptions/yt-2O6KzVNYDE0.md) [https://www.youtube.com/watch?v=2O6KzVNYDE0](https://www.youtube.com/watch?v=2O6KzVNYDE0)
+* [Q&A: Will we be able to mount the Rebar Gun on top of a buggy?](../../transcriptions/yt-DVXbH_LG2Y4.md) [https://www.youtube.com/watch?v=DVXbH_LG2Y4](https://www.youtube.com/watch?v=DVXbH_LG2Y4)
+
 ## March 18th, 2022 Video
 * [Snutt & Jace Talk: Object Scanner article](../../transcriptions/yt-VBGakEZilwk,396.46273333333335,444.1437.md) [https://youtube.com/clip/UgkxFybmlO2ujKphxk9ccd-dB9_cjfm1b4qS](https://youtube.com/clip/UgkxFybmlO2ujKphxk9ccd-dB9_cjfm1b4qS)
 * [Snutt & Jace Talk: Unreleased Content article](../../transcriptions/yt-VBGakEZilwk,589.7892,1115.8480666666667.md) [https://youtube.com/embed/VBGakEZilwk?autoplay=1&start=589&end=1116](https://youtube.com/embed/VBGakEZilwk?autoplay=1&start=589&end=1116)

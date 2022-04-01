@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../topics.md) > [Retail](../../topics/retail.md) > Steam Store
 * [Steam Release](../../topics/retail/steam-store/steam-release.md)
 
+## March 29th, 2022 Livestream
+* [EOS Reset Account](../../transcriptions/yt-XczXasUwc0w.md) [https://www.youtube.com/watch?v=XczXasUwc0w](https://www.youtube.com/watch?v=XczXasUwc0w)
+
 ## March 22nd, 2022 Livestream
 * [Q&A: Testing on Steam Deck yet?](../../transcriptions/yt-A8jMGfamqAE.md) [https://www.youtube.com/watch?v=A8jMGfamqAE](https://www.youtube.com/watch?v=A8jMGfamqAE)
 

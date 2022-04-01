@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Speculative > Satisfactory Update 6
 
+## March 29th, 2022 Livestream
+* [State of Dave](../../../transcriptions/yt-AXh8bvElSWw.md) [https://www.youtube.com/watch?v=AXh8bvElSWw](https://www.youtube.com/watch?v=AXh8bvElSWw)
+
 ## March 22nd, 2022 Livestream
 * [Q&A: Is it true the next Update is planned for the 17th of April?](../../../transcriptions/yt-Y5j6qpGzT40.md) [https://www.youtube.com/watch?v=Y5j6qpGzT40](https://www.youtube.com/watch?v=Y5j6qpGzT40)
 * [Community FYI: April 1st is the obvious release date](../../../transcriptions/yt-Sc1xG6-YllQ.md) [https://www.youtube.com/watch?v=Sc1xG6-YllQ](https://www.youtube.com/watch?v=Sc1xG6-YllQ)

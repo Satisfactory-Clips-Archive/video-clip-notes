@@ -8,6 +8,8 @@ topics:
 # [March 15th, 2022 Livestream](../2022-03-15.md)
 ## Q&A: Will hard-coded keybinds be fixed?
 https://www.youtube.com/watch?v=kIZ7lO4jGq0
+This question was possibly duplicated with a more recent answer: [March 29th, 2022 Livestream Q&A: Are the hard-coded keybinds ever going to be fixed?](./yt-pTi93j8cw0M.md) [https://www.youtube.com/watch?v=pTi93j8cw0M](https://www.youtube.com/watch?v=pTi93j8cw0M)
+
 
 ### Topics
 * [Technology > User Interface](../topics/technology/user-interface.md)

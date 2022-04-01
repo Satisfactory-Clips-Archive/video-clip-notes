@@ -8,7 +8,7 @@ topics:
 # [September 28th, 2021 Livestream](../2021-09-28.md)
 ## Q&A: Are you guys putting any form of Blueprinting into the game?
 https://www.youtube.com/watch?v=LdNJwc9xclw
-This question was possibly duplicated with a more recent answer: [February 11th, 2022 Hot Potato Bonus Stream Q&A: Blueprints?](./yt-lidkhceF2oc.md) [https://www.youtube.com/watch?v=lidkhceF2oc](https://www.youtube.com/watch?v=lidkhceF2oc)
+This question was possibly duplicated with a more recent answer: [March 29th, 2022 Livestream Q&A: Has opions on Blueprinting changed?](./yt-Gtl0TOAaxy0.md) [https://www.youtube.com/watch?v=Gtl0TOAaxy0](https://www.youtube.com/watch?v=Gtl0TOAaxy0)
 
 
 ### Topics

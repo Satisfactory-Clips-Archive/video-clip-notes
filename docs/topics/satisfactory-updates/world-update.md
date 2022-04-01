@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > World Update
 
+## March 29th, 2022 Livestream
+* [Q&A: Any change for exploration planned?](../../transcriptions/yt-ytPhU2Nw6Nc.md) [https://www.youtube.com/watch?v=ytPhU2Nw6Nc](https://www.youtube.com/watch?v=ytPhU2Nw6Nc)
+* [Community FYI: Would need at least a month in advance](../../transcriptions/yt-En0He-CKHn0.md) [https://www.youtube.com/watch?v=En0He-CKHn0](https://www.youtube.com/watch?v=En0He-CKHn0)
+
 ## March 22nd, 2022 Livestream
 * [Q&A: With the massive changes in the Spire Coast coming, will the nodes be moved?](../../transcriptions/yt-68KABdE6tGI.md) [https://www.youtube.com/watch?v=68KABdE6tGI](https://www.youtube.com/watch?v=68KABdE6tGI)
 

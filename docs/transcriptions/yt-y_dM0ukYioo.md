@@ -8,7 +8,7 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: How long will the game be supported?
 https://www.youtube.com/watch?v=y_dM0ukYioo
-This question was possibly duplicated with a more recent answer: [March 22nd, 2022 Livestream Q&A: What's your vision of the game after 1.0?](./yt-xSSMYi2gdUo.md) [https://www.youtube.com/watch?v=xSSMYi2gdUo](https://www.youtube.com/watch?v=xSSMYi2gdUo)
+This question was possibly duplicated with a more recent answer: [March 29th, 2022 Livestream Q&A: Will there be Updates after 1.0?](./yt-EjZAdss6k4Q.md) [https://www.youtube.com/watch?v=EjZAdss6k4Q](https://www.youtube.com/watch?v=EjZAdss6k4Q)
 
 
 ### Topics

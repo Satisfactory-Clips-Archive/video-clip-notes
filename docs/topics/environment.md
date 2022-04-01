@@ -11,6 +11,10 @@ date: Last Modified
 * [Resources](../topics/environment/resources.md)
 * [World Map](../topics/environment/world-map.md)
 
+## March 29th, 2022 Livestream
+* [Community FYI: Jace and Snutt go kayaking = Patch Notes video for Ben's river changes](../transcriptions/yt-G7d6uwMRo0w.md) [https://www.youtube.com/watch?v=G7d6uwMRo0w](https://www.youtube.com/watch?v=G7d6uwMRo0w)
+* [Q&A: Any change for exploration planned?](../transcriptions/yt-ytPhU2Nw6Nc.md) [https://www.youtube.com/watch?v=ytPhU2Nw6Nc](https://www.youtube.com/watch?v=ytPhU2Nw6Nc)
+
 ## March 22nd, 2022 Livestream
 * [Q&A: Will holes in the Map be removed?](../transcriptions/yt-Qg2NCEWJBE4.md) [https://www.youtube.com/watch?v=Qg2NCEWJBE4](https://www.youtube.com/watch?v=Qg2NCEWJBE4)
 

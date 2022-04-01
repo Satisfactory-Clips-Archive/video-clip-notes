@@ -8,7 +8,7 @@ topics:
 # [December 17th, 2020 Q&A](../2020-12-17.md)
 ## Q&A: Do you plan to add copy & paste functionality / blueprints?
 https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=1208&end=1267
-This question was possibly duplicated with a more recent answer: [February 11th, 2022 Hot Potato Bonus Stream Q&A: Blueprints?](./yt-lidkhceF2oc.md) [https://www.youtube.com/watch?v=lidkhceF2oc](https://www.youtube.com/watch?v=lidkhceF2oc)
+This question was possibly duplicated with a more recent answer: [March 29th, 2022 Livestream Q&A: Has opions on Blueprinting changed?](./yt-Gtl0TOAaxy0.md) [https://www.youtube.com/watch?v=Gtl0TOAaxy0](https://www.youtube.com/watch?v=Gtl0TOAaxy0)
 
 
 ### Topics

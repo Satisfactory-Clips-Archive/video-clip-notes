@@ -6,6 +6,13 @@ date: Last Modified
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > User Interface
 * [Holograms](../../topics/technology/user-interface/holograms.md)
 
+## March 29th, 2022 Livestream
+* [Q&A: Has the duping been patched yet?](../../transcriptions/yt-lG4xT5aiqrA.md) [https://www.youtube.com/watch?v=lG4xT5aiqrA](https://www.youtube.com/watch?v=lG4xT5aiqrA)
+* [Q&A: Will there be any improved controller support to make it easier?](../../transcriptions/yt-3-nNqXQHZs4.md) [https://www.youtube.com/watch?v=3-nNqXQHZs4](https://www.youtube.com/watch?v=3-nNqXQHZs4)
+* [Q&A: Can we get a colour slot for Lights like the one in the Customizer?](../../transcriptions/yt-82I-B3EaYss.md) [https://www.youtube.com/watch?v=82I-B3EaYss](https://www.youtube.com/watch?v=82I-B3EaYss)
+* [Q&A: Will there be an option to lower the Train volume?](../../transcriptions/yt-ulBAJ0fxShE.md) [https://www.youtube.com/watch?v=ulBAJ0fxShE](https://www.youtube.com/watch?v=ulBAJ0fxShE)
+* [Q&A: Are the hard-coded keybinds ever going to be fixed?](../../transcriptions/yt-pTi93j8cw0M.md) [https://www.youtube.com/watch?v=pTi93j8cw0M](https://www.youtube.com/watch?v=pTi93j8cw0M)
+
 ## March 22nd, 2022 Livestream
 * [Q&A: Is there going to be a copy & paste function?](../../transcriptions/yt-eObleNCQCp4.md) [https://www.youtube.com/watch?v=eObleNCQCp4](https://www.youtube.com/watch?v=eObleNCQCp4)
 * [Q&A: Would be cool to be able to copy & paste from a distance](../../transcriptions/yt-VtDPmxElNt8.md) [https://www.youtube.com/watch?v=VtDPmxElNt8](https://www.youtube.com/watch?v=VtDPmxElNt8)

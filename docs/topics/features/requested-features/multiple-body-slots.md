@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Requested Features](../../../topics/features/requested-features.md) > Multiple Body Slots
 
+## March 29th, 2022 Livestream
+* [Q&A: Will we ever be able to equip all the Equipment at once?](../../../transcriptions/yt-i7Oym1g9yio.md) [https://www.youtube.com/watch?v=i7Oym1g9yio](https://www.youtube.com/watch?v=i7Oym1g9yio)
+
 ## February 22nd, 2022 Livestream
 * [Q&A: Will we get a second Body slot?](../../../transcriptions/yt-u4iuArSF2C8.md) [https://www.youtube.com/watch?v=u4iuArSF2C8](https://www.youtube.com/watch?v=u4iuArSF2C8)
 

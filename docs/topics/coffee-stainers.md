@@ -41,6 +41,9 @@ date: Last Modified
 * [Torsten](../topics/coffee-stainers/torsten.md)
 * [Uzu](../topics/coffee-stainers/uzu.md)
 
+## March 29th, 2022 Livestream
+* [Q&A: Have any of the CSS devs dipped into moonlighing with Modding?](../transcriptions/yt-jCWZoQwPJ_c.md) [https://www.youtube.com/watch?v=jCWZoQwPJ_c](https://www.youtube.com/watch?v=jCWZoQwPJ_c)
+
 ## March 8th, 2022 Livestream
 * [Community FYI: The root cause of problems is developers not playing the game](../transcriptions/yt-XrwW_32XwhI.md) [https://www.youtube.com/watch?v=XrwW_32XwhI](https://www.youtube.com/watch?v=XrwW_32XwhI)
 

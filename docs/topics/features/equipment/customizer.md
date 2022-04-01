@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Equipment](../../../topics/features/equipment.md) > Customizer
 
+## March 29th, 2022 Livestream
+* [Q&A: Can we get a colour slot for Lights like the one in the Customizer?](../../../transcriptions/yt-82I-B3EaYss.md) [https://www.youtube.com/watch?v=82I-B3EaYss](https://www.youtube.com/watch?v=82I-B3EaYss)
+* [Q&A: Would it be possible for the Factory Cart to keep the colour intact?](../../../transcriptions/yt-00W3BKCd330.md) [https://www.youtube.com/watch?v=00W3BKCd330](https://www.youtube.com/watch?v=00W3BKCd330)
+
 ## March 8th, 2022 Livestream
 * [Q&A: Will you ever fix the colouring for the Stackable Pipe thingies?](../../../transcriptions/yt-6nJonEBDVkg.md) [https://www.youtube.com/watch?v=6nJonEBDVkg](https://www.youtube.com/watch?v=6nJonEBDVkg)
 * [Q&A: Can you middle-click to select an existing colour?](../../../transcriptions/yt-4OieGu7-174.md) [https://www.youtube.com/watch?v=4OieGu7-174](https://www.youtube.com/watch?v=4OieGu7-174)

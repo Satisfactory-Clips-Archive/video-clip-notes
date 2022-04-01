@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildables](../../../topics/features/buildables.md) > Lights
 
+## March 29th, 2022 Livestream
+* [Q&A: Can we get a colour slot for Lights like the one in the Customizer?](../../../transcriptions/yt-82I-B3EaYss.md) [https://www.youtube.com/watch?v=82I-B3EaYss](https://www.youtube.com/watch?v=82I-B3EaYss)
+
 ## March 18th, 2022 Video
 * [Snutt & Jace Talk: Unreleased Content article](../../../transcriptions/yt-VBGakEZilwk,589.7892,1115.8480666666667.md) [https://youtube.com/embed/VBGakEZilwk?autoplay=1&start=589&end=1116](https://youtube.com/embed/VBGakEZilwk?autoplay=1&start=589&end=1116)
 

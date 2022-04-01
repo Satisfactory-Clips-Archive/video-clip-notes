@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Embracer Group](../../../topics/embracer-group.md) > Coffee Stain Holding > Coffee Stain Studios
 
+## March 29th, 2022 Livestream
+* [Q&A: Which development model do you use?](../../../transcriptions/yt-7hBlOnUJmBw.md) [https://www.youtube.com/watch?v=7hBlOnUJmBw](https://www.youtube.com/watch?v=7hBlOnUJmBw)
+
 ## March 18th, 2022 Video
 * [Snutt & Jace Talk: Coffee Stain Studios article](../../../transcriptions/yt-VBGakEZilwk,444.1770666666667,514.8143.md) [https://youtube.com/embed/VBGakEZilwk?autoplay=1&start=444&end=515](https://youtube.com/embed/VBGakEZilwk?autoplay=1&start=444&end=515)
 

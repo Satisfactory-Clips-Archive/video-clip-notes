@@ -32,6 +32,11 @@ date: Last Modified
 * [Utility Signs](../topics/mods/utility-signs.md)
 * [Zip Strips](../topics/mods/zip-strips.md)
 
+## March 29th, 2022 Livestream
+* [Q&A: Can you forward Mod crash reports?](../transcriptions/yt-LdI-yRvTBf8.md) [https://www.youtube.com/watch?v=LdI-yRvTBf8](https://www.youtube.com/watch?v=LdI-yRvTBf8)
+* [Q&A: Have any of the CSS devs dipped into moonlighing with Modding?](../transcriptions/yt-jCWZoQwPJ_c.md) [https://www.youtube.com/watch?v=jCWZoQwPJ_c](https://www.youtube.com/watch?v=jCWZoQwPJ_c)
+* [Community FYI: Don't you dare make a TD Mod, you'll be banned](../transcriptions/yt-pChknrrRxO4.md) [https://www.youtube.com/watch?v=pChknrrRxO4](https://www.youtube.com/watch?v=pChknrrRxO4)
+
 ## March 1st, 2022 Livestream
 * [Q&A: How do I Mod Satisfactory?](../transcriptions/yt-CRP9uJM9y2Q.md) [https://www.youtube.com/watch?v=CRP9uJM9y2Q](https://www.youtube.com/watch?v=CRP9uJM9y2Q)
 

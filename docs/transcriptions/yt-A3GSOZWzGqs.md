@@ -10,7 +10,7 @@ topics:
 # [June 22nd, 2021 Livestream](../2021-06-22.md)
 ## Q&A: Will we see something like Blueprints in Update 5?
 https://www.youtube.com/watch?v=A3GSOZWzGqs
-This question was possibly duplicated with a more recent answer: [February 11th, 2022 Hot Potato Bonus Stream Q&A: Blueprints?](./yt-lidkhceF2oc.md) [https://www.youtube.com/watch?v=lidkhceF2oc](https://www.youtube.com/watch?v=lidkhceF2oc)
+This question was possibly duplicated with a more recent answer: [March 29th, 2022 Livestream Q&A: Has opions on Blueprinting changed?](./yt-Gtl0TOAaxy0.md) [https://www.youtube.com/watch?v=Gtl0TOAaxy0](https://www.youtube.com/watch?v=Gtl0TOAaxy0)
 
 
 ### Topics

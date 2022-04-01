@@ -12,6 +12,23 @@ date: Last Modified
 * [Pollution](../../topics/features/requested-features/pollution.md)
 * [Third-person View](../../topics/features/requested-features/third-person-view.md)
 
+## March 29th, 2022 Livestream
+* [Q&A: Do you guys have plans to add more features to Photo Mode?](../../transcriptions/yt-OmICrCy_Yuc.md) [https://www.youtube.com/watch?v=OmICrCy_Yuc](https://www.youtube.com/watch?v=OmICrCy_Yuc)
+* [Q&A: Has the duping been patched yet?](../../transcriptions/yt-lG4xT5aiqrA.md) [https://www.youtube.com/watch?v=lG4xT5aiqrA](https://www.youtube.com/watch?v=lG4xT5aiqrA)
+* [Q&A: Can you add the ability to ride a Truck in Autopilot?](../../transcriptions/yt-LQ1TStNUY7A.md) [https://www.youtube.com/watch?v=LQ1TStNUY7A](https://www.youtube.com/watch?v=LQ1TStNUY7A)
+* [Q&A: Will there ever be a way to move a section of a factory in-game?](../../transcriptions/yt-r_ZyB55ZPvE.md) [https://www.youtube.com/watch?v=r_ZyB55ZPvE](https://www.youtube.com/watch?v=r_ZyB55ZPvE)
+* [Q&A: If Mod support comes out will you be able to help Mod-related crashes?](../../transcriptions/yt-PqZNvyKik9s.md) [https://www.youtube.com/watch?v=PqZNvyKik9s](https://www.youtube.com/watch?v=PqZNvyKik9s)
+* [Q&A: Will there be any improved controller support to make it easier?](../../transcriptions/yt-3-nNqXQHZs4.md) [https://www.youtube.com/watch?v=3-nNqXQHZs4](https://www.youtube.com/watch?v=3-nNqXQHZs4)
+* [Snutt Talk: If you have opinions of how a Mod changes the game is what the game should have...](../../transcriptions/yt-w4Rg6whLWd4.md) [https://www.youtube.com/watch?v=w4Rg6whLWd4](https://www.youtube.com/watch?v=w4Rg6whLWd4)
+* [Q&A: Can we get a colour slot for Lights like the one in the Customizer?](../../transcriptions/yt-82I-B3EaYss.md) [https://www.youtube.com/watch?v=82I-B3EaYss](https://www.youtube.com/watch?v=82I-B3EaYss)
+* [Q&A: Will there be an option to lower the Train volume?](../../transcriptions/yt-ulBAJ0fxShE.md) [https://www.youtube.com/watch?v=ulBAJ0fxShE](https://www.youtube.com/watch?v=ulBAJ0fxShE)
+* [Q&A: Will there be a two-way switch for Hyper Tubes?](../../transcriptions/yt-UgTF5uThITM.md) [https://www.youtube.com/watch?v=UgTF5uThITM](https://www.youtube.com/watch?v=UgTF5uThITM)
+* [Q&A: Add in a reverse function on Belts like you did with Lifts?](../../transcriptions/yt-pN08CYnMRKs.md) [https://www.youtube.com/watch?v=pN08CYnMRKs](https://www.youtube.com/watch?v=pN08CYnMRKs)
+* [Q&A: Will we be able to mount the Rebar Gun on top of a buggy?](../../transcriptions/yt-DVXbH_LG2Y4.md) [https://www.youtube.com/watch?v=DVXbH_LG2Y4](https://www.youtube.com/watch?v=DVXbH_LG2Y4)
+* [Q&A: Are the hard-coded keybinds ever going to be fixed?](../../transcriptions/yt-pTi93j8cw0M.md) [https://www.youtube.com/watch?v=pTi93j8cw0M](https://www.youtube.com/watch?v=pTi93j8cw0M)
+* [Q&A: Would it be possible for the Factory Cart to keep the colour intact?](../../transcriptions/yt-00W3BKCd330.md) [https://www.youtube.com/watch?v=00W3BKCd330](https://www.youtube.com/watch?v=00W3BKCd330)
+* [Q&A: Third seat for the Factory Cart, when?](../../transcriptions/yt-33mFbhHdCJ0.md) [https://www.youtube.com/watch?v=33mFbhHdCJ0](https://www.youtube.com/watch?v=33mFbhHdCJ0)
+
 ## March 22nd, 2022 Livestream
 * [Q&A: Will the office in The HUB ever be more useful?](../../transcriptions/yt-tBqA3rA2lZA.md) [https://www.youtube.com/watch?v=tBqA3rA2lZA](https://www.youtube.com/watch?v=tBqA3rA2lZA)
 * [Q&A: Will there ever be teleportation in the game?](../../transcriptions/yt-OyiCY_Hm0mo.md) [https://www.youtube.com/watch?v=OyiCY_Hm0mo](https://www.youtube.com/watch?v=OyiCY_Hm0mo)

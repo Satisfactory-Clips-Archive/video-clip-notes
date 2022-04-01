@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Multiplayer](../../../topics/features/multiplayer.md) > Dedicated Servers
 
+## March 29th, 2022 Livestream
+* [Q&A: Are we going to see any DS (Dedicated Server) enhancements independent of content release?](../../../transcriptions/yt-Q7I_FQhf3M0.md) [https://www.youtube.com/watch?v=Q7I_FQhf3M0](https://www.youtube.com/watch?v=Q7I_FQhf3M0)
+
 ## March 1st, 2022 Livestream
 * [Q&A: Any good resources for optimising Dedicated Servers?](../../../transcriptions/yt-lq84X4zSCvI.md) [https://www.youtube.com/watch?v=lq84X4zSCvI](https://www.youtube.com/watch?v=lq84X4zSCvI)
 

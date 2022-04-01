@@ -12,6 +12,9 @@ date: Last Modified
 * [Tractor](../../../topics/features/transportation/vehicles/tractor.md)
 * [Truck](../../../topics/features/transportation/vehicles/truck.md)
 
+## March 29th, 2022 Livestream
+* [Q&A: Can you add the ability to ride a Truck in Autopilot?](../../../transcriptions/yt-LQ1TStNUY7A.md) [https://www.youtube.com/watch?v=LQ1TStNUY7A](https://www.youtube.com/watch?v=LQ1TStNUY7A)
+
 ## March 8th, 2022 Livestream
 * [Q&A: Can you add boats & use the water more?](../../../transcriptions/yt-iRIAhkRVPoE.md) [https://www.youtube.com/watch?v=iRIAhkRVPoE](https://www.youtube.com/watch?v=iRIAhkRVPoE)
 * [Q&A: How about motorbikes?](../../../transcriptions/yt-WRIH_bwu9aQ.md) [https://www.youtube.com/watch?v=WRIH_bwu9aQ](https://www.youtube.com/watch?v=WRIH_bwu9aQ)

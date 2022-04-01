@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > Transportation > [Vehicles](../../../../topics/features/transportation/vehicles.md) > Truck
 
+## March 29th, 2022 Livestream
+* [Q&A: Can you add the ability to ride a Truck in Autopilot?](../../../../transcriptions/yt-LQ1TStNUY7A.md) [https://www.youtube.com/watch?v=LQ1TStNUY7A](https://www.youtube.com/watch?v=LQ1TStNUY7A)
+
 ## March 8th, 2022 Livestream
 * [Q&A: Will you add Trucks with interchangeable trailers?](../../../../transcriptions/yt-FI1njD1Kygo.md) [https://www.youtube.com/watch?v=FI1njD1Kygo](https://www.youtube.com/watch?v=FI1njD1Kygo)
 * [Q&A: Plans to make Truck Stations for Fluids?](../../../../transcriptions/yt-O0Pr5KSisOA.md) [https://www.youtube.com/watch?v=O0Pr5KSisOA](https://www.youtube.com/watch?v=O0Pr5KSisOA)

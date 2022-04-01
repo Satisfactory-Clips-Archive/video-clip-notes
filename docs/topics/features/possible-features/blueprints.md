@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > Possible Features > Blueprints
 
+## March 29th, 2022 Livestream
+* [Q&A: Has opions on Blueprinting changed?](../../../transcriptions/yt-Gtl0TOAaxy0.md) [https://www.youtube.com/watch?v=Gtl0TOAaxy0](https://www.youtube.com/watch?v=Gtl0TOAaxy0)
+
 ## February 11th, 2022 Hot Potato Bonus Stream
 * [Q&A: Blueprints?](../../../transcriptions/yt-lidkhceF2oc.md) [https://www.youtube.com/watch?v=lidkhceF2oc](https://www.youtube.com/watch?v=lidkhceF2oc)
 

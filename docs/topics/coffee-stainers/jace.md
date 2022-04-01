@@ -10,6 +10,11 @@ date: Last Modified
 * [Juice Velvet](../../topics/coffee-stainers/jace/juice-velvet.md)
 * [Robo Jace](../../topics/coffee-stainers/jace/robo-jace.md)
 
+## March 29th, 2022 Livestream
+* [Q&A: If Jace is taking kayaking lessons, will you be taking Jace out exploring with you?](../../transcriptions/yt-1_5o-iJm-NU.md) [https://www.youtube.com/watch?v=1_5o-iJm-NU](https://www.youtube.com/watch?v=1_5o-iJm-NU)
+* [Community FYI: Jace and Snutt go kayaking = Patch Notes video for Ben's river changes](../../transcriptions/yt-G7d6uwMRo0w.md) [https://www.youtube.com/watch?v=G7d6uwMRo0w](https://www.youtube.com/watch?v=G7d6uwMRo0w)
+* [Q&A: When you release Official Mod Support will you and Jace please do a coding livestream?](../../transcriptions/yt-AIjoV_gzbDY.md) [https://www.youtube.com/watch?v=AIjoV_gzbDY](https://www.youtube.com/watch?v=AIjoV_gzbDY)
+
 ## March 18th, 2022 Video
 * [Intro](../../transcriptions/yt-VBGakEZilwk,,63.129733333333334.md) [https://youtube.com/embed/VBGakEZilwk?autoplay=1&start=0&end=64](https://youtube.com/embed/VBGakEZilwk?autoplay=1&start=0&end=64)
 * [Snutt & Jace Talk: Coffee Stain Studios article](../../transcriptions/yt-VBGakEZilwk,444.1770666666667,514.8143.md) [https://youtube.com/embed/VBGakEZilwk?autoplay=1&start=444&end=515](https://youtube.com/embed/VBGakEZilwk?autoplay=1&start=444&end=515)

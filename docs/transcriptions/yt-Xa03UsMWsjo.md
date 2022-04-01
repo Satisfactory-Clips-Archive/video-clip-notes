@@ -8,7 +8,7 @@ topics:
 # [April 6th, 2021 Livestream](../2021-04-06.md)
 ## Q&A: Multiple Body slots, when?
 https://www.youtube.com/watch?v=Xa03UsMWsjo
-This question was possibly duplicated with a more recent answer: [February 22nd, 2022 Livestream Q&A: Will we get a second Body slot?](./yt-u4iuArSF2C8.md) [https://www.youtube.com/watch?v=u4iuArSF2C8](https://www.youtube.com/watch?v=u4iuArSF2C8)
+This question was possibly duplicated with a more recent answer: [March 29th, 2022 Livestream Q&A: Will we ever be able to equip all the Equipment at once?](./yt-i7Oym1g9yio.md) [https://www.youtube.com/watch?v=i7Oym1g9yio](https://www.youtube.com/watch?v=i7Oym1g9yio)
 
 
 ### Topics

@@ -6,6 +6,11 @@ date: Last Modified
 # [Topics](../../topics.md) > [Mods](../../topics/mods.md) > Official Mod Support
 * [Steam Workshop](../../topics/mods/official-mod-support/steam-workshop.md)
 
+## March 29th, 2022 Livestream
+* [Q&A: If Mod support comes out will you be able to help Mod-related crashes?](../../transcriptions/yt-PqZNvyKik9s.md) [https://www.youtube.com/watch?v=PqZNvyKik9s](https://www.youtube.com/watch?v=PqZNvyKik9s)
+* [Q&A: Will you make source code obligatory for Mods?](../../transcriptions/yt-EXY14vpfatE.md) [https://www.youtube.com/watch?v=EXY14vpfatE](https://www.youtube.com/watch?v=EXY14vpfatE)
+* [Q&A: When you release Official Mod Support will you and Jace please do a coding livestream?](../../transcriptions/yt-AIjoV_gzbDY.md) [https://www.youtube.com/watch?v=AIjoV_gzbDY](https://www.youtube.com/watch?v=AIjoV_gzbDY)
+
 ## December 14th, 2021 Livestream
 * [Q&A: Map Editor?](../../transcriptions/yt-lX7XAk69lSw.md) [https://www.youtube.com/watch?v=lX7XAk69lSw](https://www.youtube.com/watch?v=lX7XAk69lSw)
 

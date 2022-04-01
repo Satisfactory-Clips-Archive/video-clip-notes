@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Teasers & Trailers](../../../topics/satisfactory-updates/teasers-and-trailers.md) > Update 4 Patch Notes Video
 
+## March 29th, 2022 Livestream
+* [Q&A: What's your favourite Resource to set up?](../../../transcriptions/yt-f8XQHfPTy4k.md) [https://www.youtube.com/watch?v=f8XQHfPTy4k](https://www.youtube.com/watch?v=f8XQHfPTy4k)
+
 ## February 11th, 2022 Hot Potato Bonus Stream
 * [Snutt & Jace Talk: Update 4 & 5 Patch Notes scripts](../../../transcriptions/yt-xRybReOeSrM.md) [https://www.youtube.com/watch?v=xRybReOeSrM](https://www.youtube.com/watch?v=xRybReOeSrM)
 * [Snutt & Jace Talk: Update 4 & 5 Patch Notes voiceover work](../../../transcriptions/yt-uUA4K0auvWA.md) [https://www.youtube.com/watch?v=uUA4K0auvWA](https://www.youtube.com/watch?v=uUA4K0auvWA)

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > Transportation > [Vehicles](../../../../topics/features/transportation/vehicles.md) > Explorer
 
+## March 29th, 2022 Livestream
+* [Q&A: Will we be able to mount the Rebar Gun on top of a buggy?](../../../../transcriptions/yt-DVXbH_LG2Y4.md) [https://www.youtube.com/watch?v=DVXbH_LG2Y4](https://www.youtube.com/watch?v=DVXbH_LG2Y4)
+
 ## March 8th, 2022 Livestream
 * [Q&A: Are we ever going to add passenger riding in the Explorer again?](../../../../transcriptions/yt-2Mk9iV_UdBQ.md) [https://www.youtube.com/watch?v=2Mk9iV_UdBQ](https://www.youtube.com/watch?v=2Mk9iV_UdBQ)
 

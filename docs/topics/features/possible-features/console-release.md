@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > Possible Features > Console Release
 
+## March 29th, 2022 Livestream
+* [Q&A: Will there be any improved controller support to make it easier?](../../../transcriptions/yt-3-nNqXQHZs4.md) [https://www.youtube.com/watch?v=3-nNqXQHZs4](https://www.youtube.com/watch?v=3-nNqXQHZs4)
+
 ## March 22nd, 2022 Livestream
 * [Q&A: Testing on Steam Deck yet?](../../../transcriptions/yt-A8jMGfamqAE.md) [https://www.youtube.com/watch?v=A8jMGfamqAE](https://www.youtube.com/watch?v=A8jMGfamqAE)
 

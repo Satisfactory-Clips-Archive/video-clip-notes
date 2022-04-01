@@ -14,6 +14,9 @@ date: Last Modified
 * [User Interface](../topics/technology/user-interface.md)
 * [Vulkan](../topics/technology/vulkan.md)
 
+## March 29th, 2022 Livestream
+* [Q&A: Which development model do you use?](../transcriptions/yt-7hBlOnUJmBw.md) [https://www.youtube.com/watch?v=7hBlOnUJmBw](https://www.youtube.com/watch?v=7hBlOnUJmBw)
+
 ## March 22nd, 2022 Livestream
 * [Q&A: Is it true that the game uses CPU and not uses GPU at all?](../transcriptions/yt-4jWFmma41cw.md) [https://www.youtube.com/watch?v=4jWFmma41cw](https://www.youtube.com/watch?v=4jWFmma41cw)
 

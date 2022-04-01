@@ -7,6 +7,13 @@ date: Last Modified
 * [Snutt Burger Time](../../topics/coffee-stainers/snutt/snutt-burger-time.md)
 * [Snutty Mays](../../topics/coffee-stainers/snutt/snutty-mays.md)
 
+## March 29th, 2022 Livestream
+* [Q&A: If Jace is taking kayaking lessons, will you be taking Jace out exploring with you?](../../transcriptions/yt-1_5o-iJm-NU.md) [https://www.youtube.com/watch?v=1_5o-iJm-NU](https://www.youtube.com/watch?v=1_5o-iJm-NU)
+* [Community FYI: Jace and Snutt go kayaking = Patch Notes video for Ben's river changes](../../transcriptions/yt-G7d6uwMRo0w.md) [https://www.youtube.com/watch?v=G7d6uwMRo0w](https://www.youtube.com/watch?v=G7d6uwMRo0w)
+* [Q&A: What happened to lunch?](../../transcriptions/yt-HmEbJaXUZNw.md) [https://www.youtube.com/watch?v=HmEbJaXUZNw](https://www.youtube.com/watch?v=HmEbJaXUZNw)
+* [Q&A: What's your favourite Resource to set up?](../../transcriptions/yt-f8XQHfPTy4k.md) [https://www.youtube.com/watch?v=f8XQHfPTy4k](https://www.youtube.com/watch?v=f8XQHfPTy4k)
+* [Q&A: When you release Official Mod Support will you and Jace please do a coding livestream?](../../transcriptions/yt-AIjoV_gzbDY.md) [https://www.youtube.com/watch?v=AIjoV_gzbDY](https://www.youtube.com/watch?v=AIjoV_gzbDY)
+
 ## March 22nd, 2022 Livestream
 * [Q&A: Has Snutt played the new Final Fantasy yet?](../../transcriptions/yt-0nbcozBNJNg.md) [https://www.youtube.com/watch?v=0nbcozBNJNg](https://www.youtube.com/watch?v=0nbcozBNJNg)
 * [Q&A: What's your favourite retro game?](../../transcriptions/yt-GErK58lZabs.md) [https://www.youtube.com/watch?v=GErK58lZabs](https://www.youtube.com/watch?v=GErK58lZabs)

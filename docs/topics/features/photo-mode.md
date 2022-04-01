@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Features](../../topics/features.md) > Photo Mode
 
+## March 29th, 2022 Livestream
+* [Q&A: Do you guys have plans to add more features to Photo Mode?](../../transcriptions/yt-OmICrCy_Yuc.md) [https://www.youtube.com/watch?v=OmICrCy_Yuc](https://www.youtube.com/watch?v=OmICrCy_Yuc)
+
 ## November 16th, 2021 Livestream
 * [Q&A: Names in Photo Mode?](../../transcriptions/yt-PmA6ft2RJNg.md) [https://www.youtube.com/watch?v=PmA6ft2RJNg](https://www.youtube.com/watch?v=PmA6ft2RJNg)
 

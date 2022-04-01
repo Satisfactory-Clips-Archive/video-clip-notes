@@ -21,6 +21,9 @@ date: Last Modified
 * [The Cycle](../topics/off-topic/the-cycle.md)
 * [Valheim](../topics/off-topic/valheim.md)
 
+## March 29th, 2022 Livestream
+* [Q&A: Will you disable building like in Fortnite?](../transcriptions/yt-qY3pI7IPyJU.md) [https://www.youtube.com/watch?v=qY3pI7IPyJU](https://www.youtube.com/watch?v=qY3pI7IPyJU)
+
 ## March 8th, 2022 Livestream
 * [Q&A: How far are you in Elden Ring?](../transcriptions/yt-bTdyh-xxgOU.md) [https://www.youtube.com/watch?v=bTdyh-xxgOU](https://www.youtube.com/watch?v=bTdyh-xxgOU)
 

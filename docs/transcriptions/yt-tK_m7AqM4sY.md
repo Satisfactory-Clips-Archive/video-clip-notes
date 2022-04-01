@@ -9,7 +9,7 @@ topics:
 # [October 13th, 2020 Livestream](../2020-10-13.md)
 ## Q&A: If Factories can get attacked?
 https://www.youtube.com/watch?v=tK_m7AqM4sY
-This question was possibly duplicated with a more recent answer: [March 1st, 2022 Livestream Q&A: When Base Defense?](./yt-jydtfpmdc5Q.md) [https://www.youtube.com/watch?v=jydtfpmdc5Q](https://www.youtube.com/watch?v=jydtfpmdc5Q)
+This question was possibly duplicated with a more recent answer: March 29th, 2022 Livestream Q&A: Tower Defense, when? [https://www.youtube.com/watch?v=xbk9T1Z94xU](https://www.youtube.com/watch?v=xbk9T1Z94xU)
 
 
 ### Topics

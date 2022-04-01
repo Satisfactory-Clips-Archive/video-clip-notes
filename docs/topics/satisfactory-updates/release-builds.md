@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > Release Builds
 
+## March 29th, 2022 Livestream
+* [EOS Reset Account](../../transcriptions/yt-XczXasUwc0w.md) [https://www.youtube.com/watch?v=XczXasUwc0w](https://www.youtube.com/watch?v=XczXasUwc0w)
+
 ## November 23rd, 2021 Livestream
 * [Q&A: When does Update 4 come out? When does Update 5 come out?](../../transcriptions/yt-iVDRQg_aWpU,4247.4996402314814,4257.680472.md) [https://youtube.com/clip/Ugkx0M7IL9HWyAOlW8R52zlg_2J-V7T2t6rI](https://youtube.com/clip/Ugkx0M7IL9HWyAOlW8R52zlg_2J-V7T2t6rI)
 * [Q&A: Will there be updates on Experimental?](../../transcriptions/yt-iVDRQg_aWpU,5618.797646,5733.849599.md) [https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5618&end=5734](https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5618&end=5734)
