@@ -24,7 +24,7 @@ date: Last Modified
 
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
 * [Snutt & Jace Talk: Wager on releasing Golf versus Dedicated Servers (Part 2)](../../../../transcriptions/yt-QfaReoks6OM,185.33333333333334,200.29166666666666.md) [https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=185&end=201](https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=185&end=201)
-* [Snutt Talk: Zooping](../../../../transcriptions/yt-QfaReoks6OM,200.33333333333334,222.20833333333334.md) [https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=200&end=223](https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=200&end=223)
+* [Snutt Talk: Zooping](../../../../transcriptions/yt-QfaReoks6OM,200.33333333333334,222.20833333333334.md) [https://youtube.com/clip/Ugkxipll7YUfA0-OyO4CK6Yfr1vjsVdyd6qN](https://youtube.com/clip/Ugkxipll7YUfA0-OyO4CK6Yfr1vjsVdyd6qN)
 * Tobias, Snutt, and Jace Talk: New players will be spoiled [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=3347&end=3442](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=3347&end=3442)
 
 ## October 19th, 2021 Livestream

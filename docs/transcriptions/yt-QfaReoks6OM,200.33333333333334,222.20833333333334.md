@@ -9,7 +9,7 @@ topics:
 ---
 # [October 26th, 2021 Update 5 Launch Stream and Patch Notes Video](../2021-10-26.md)
 ## Snutt Talk: Zooping
-https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=200&end=223
+https://youtube.com/clip/Ugkxipll7YUfA0-OyO4CK6Yfr1vjsVdyd6qN
 
 ### Topics
 * [Features > Planned Features > Build Modes > Zooping](../topics/features/planned-features/build-modes/zooping.md)
