@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Speculative > Satisfactory Update 6
 
+## April 5th, 2022 Livestream
+* [State of Dave](../../../transcriptions/yt-biMundmzhdE.md) [https://www.youtube.com/watch?v=biMundmzhdE](https://www.youtube.com/watch?v=biMundmzhdE)
+
 ## April 1st, 2022 Video
 * Snutt & Jace Talk: The next iteration of Satisfactory [https://youtube.com/embed/jAc8Fnj1o9w?autoplay=1&start=1791&end=1853](https://youtube.com/embed/jAc8Fnj1o9w?autoplay=1&start=1791&end=1853)
 

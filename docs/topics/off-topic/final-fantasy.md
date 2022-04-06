@@ -4,6 +4,7 @@ external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEoun-5sdS3OekZiI
 date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Final Fantasy
+* [The Official Satisfactory PODCAST](../../topics/off-topic/final-fantasy/the-official-satisfactory-podcast.md)
 
 ## April 1st, 2022 Video
 * Snutt & Jace Talk: Final Fantasy (Part 1) [https://youtube.com/embed/jAc8Fnj1o9w?autoplay=1&start=153&end=694](https://youtube.com/embed/jAc8Fnj1o9w?autoplay=1&start=153&end=694)

@@ -401,7 +401,6 @@ date: Last Modified
 * [Deep Rock Galactic](./topics/off-topic/deep-rock-galactic.md)
 * [E3](./topics/off-topic/e3.md)
 * [Factorio](./topics/off-topic/factorio.md)
-* [Final Fantasy](./topics/off-topic/final-fantasy.md)
 * [Goat Simulator](./topics/off-topic/goat-simulator.md)
 * [I Love Strawberries](./topics/off-topic/i-love-strawberries.md)
 * [Infinifactory](./topics/off-topic/infinifactory.md)
@@ -411,6 +410,10 @@ date: Last Modified
 * [Terrible Jokes](./topics/off-topic/terrible-jokes.md)
 * [The Cycle](./topics/off-topic/the-cycle.md)
 * [Valheim](./topics/off-topic/valheim.md)
+
+## [Final Fantasy](./topics/off-topic/final-fantasy.md)
+* [The Official Satisfactory PODCAST](./topics/off-topic/final-fantasy/the-official-satisfactory-podcast.md)
+---
 
 ## [Food & Drink](./topics/off-topic/food-and-drink.md)
 * [Bacon](./topics/off-topic/food-and-drink/bacon.md)

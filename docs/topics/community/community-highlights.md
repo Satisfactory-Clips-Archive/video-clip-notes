@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Community Highlights
 
+## April 5th, 2022 Livestream
+* [Community Highlights - Satisfactory Clips Archive](../../transcriptions/yt-gDEJQRC4a6M.md) [https://www.youtube.com/watch?v=gDEJQRC4a6M](https://www.youtube.com/watch?v=gDEJQRC4a6M)
+
 ## April 1st, 2022 Video
 * Snutt & Jace Talk: Update 5 and the effect it had on the Community [https://youtube.com/embed/jAc8Fnj1o9w?autoplay=1&start=84&end=154](https://youtube.com/embed/jAc8Fnj1o9w?autoplay=1&start=84&end=154)
 
