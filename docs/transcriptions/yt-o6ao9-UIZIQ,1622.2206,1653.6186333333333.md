@@ -13,7 +13,7 @@ https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=1622&end=1654
 <summary>This video is a continuation of a previous video</summary>
 
 * [April 8th, 2022 Video Jace Talk: Microsoft Word (Part 1)](./yt-o6ao9-UIZIQ,1493.5921,1518.517.md) [https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=1493&end=1519](https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=1493&end=1519)
-* April 8th, 2022 Video Jace Talk: Microsoft Word (Part 3) [https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=2202&end=2207](https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=2202&end=2207)
+* [April 8th, 2022 Video Jace Talk: Microsoft Word (Part 3)](./yt-o6ao9-UIZIQ,2202.066533333333,2206.2373666666667.md) [https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=2202&end=2207](https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=2202&end=2207)
 </details>
 
 
