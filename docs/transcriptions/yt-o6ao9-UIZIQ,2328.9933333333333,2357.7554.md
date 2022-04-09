@@ -1,5 +1,5 @@
 ---
-title: "April 8th, 2022 Video Stream Ass-istant"
+title: "April 8th, 2022 Video Jace Talk: Stream Ass-istant"
 date: "2022-04-08"
 layout: transcript
 topics:
@@ -8,7 +8,7 @@ topics:
     - "technology"
 ---
 # [April 8th, 2022 Video](../2022-04-08.md)
-## Stream Ass-istant
+## Jace Talk: Stream Ass-istant
 https://youtube.com/clip/UgkxKexsR90eOB4iPozgU_WquXlROIe_0SKi
 
 ### Topics

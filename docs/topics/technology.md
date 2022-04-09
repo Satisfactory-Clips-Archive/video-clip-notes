@@ -94,7 +94,7 @@ date: Last Modified
 * [Jace Talk: Stream Elements](../transcriptions/yt-o6ao9-UIZIQ,2299.9977,2303.9016.md) [https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=2299&end=2304](https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=2299&end=2304)
 * [Jace Talk: Restream](../transcriptions/yt-o6ao9-UIZIQ,2303.9349666666667,2318.1825333333336.md) [https://youtube.com/clip/Ugkx0ksbim4x1teXV7IS8q97TBaIJ5jvwqbf](https://youtube.com/clip/Ugkx0ksbim4x1teXV7IS8q97TBaIJ5jvwqbf)
 * [Jace Talk: Google Slides](../transcriptions/yt-o6ao9-UIZIQ,2318.2159,2328.959966666667.md) [https://youtube.com/clip/UgkxHElxfYgIVG35SP39x7sv2X8zfCNftuEW](https://youtube.com/clip/UgkxHElxfYgIVG35SP39x7sv2X8zfCNftuEW)
-* [Stream Ass-istant](../transcriptions/yt-o6ao9-UIZIQ,2328.9933333333333,2357.7554.md) [https://youtube.com/clip/UgkxKexsR90eOB4iPozgU_WquXlROIe_0SKi](https://youtube.com/clip/UgkxKexsR90eOB4iPozgU_WquXlROIe_0SKi)
+* [Jace Talk: Stream Ass-istant](../transcriptions/yt-o6ao9-UIZIQ,2328.9933333333333,2357.7554.md) [https://youtube.com/clip/UgkxKexsR90eOB4iPozgU_WquXlROIe_0SKi](https://youtube.com/clip/UgkxKexsR90eOB4iPozgU_WquXlROIe_0SKi)
 * [Q&A: What tools does the CEO use?](../transcriptions/yt-o6ao9-UIZIQ,2361.5592,2382.113066666667.md) [https://youtube.com/clip/Ugkxul_nK84L-3UFQ3UajKVje662NS7-BWfE](https://youtube.com/clip/Ugkxul_nK84L-3UFQ3UajKVje662NS7-BWfE)
 
 ## March 29th, 2022 Livestream
