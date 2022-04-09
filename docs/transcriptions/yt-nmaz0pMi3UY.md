@@ -8,6 +8,12 @@ topics:
 # [October 19th, 2021 Livestream](../2021-10-19.md)
 ## Q&A: State of Golf? (Part 2)
 https://www.youtube.com/watch?v=nmaz0pMi3UY
+<details>
+<summary>This video is a continuation of a previous video</summary>
+
+* [October 19th, 2021 Livestream Q&A: State of Golf? (Part 1)](./yt-Mzh3VpE5y8Q.md) [https://www.youtube.com/watch?v=Mzh3VpE5y8Q](https://www.youtube.com/watch?v=Mzh3VpE5y8Q)
+</details>
+
 
 ### Topics
 * [Features > Unplanned Features > Golf](../topics/features/unplanned-features/golf.md)

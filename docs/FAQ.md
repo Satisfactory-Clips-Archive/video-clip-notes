@@ -2,6 +2,28 @@
 title: "Frequently Asked Questions"
 date: Last Modified
 ---
+## [April 8th, 2022 Video](./2022-04-08.md)
+### [Q&A: Do your programs use C++ or Blueprints?](./transcriptions/yt-o6ao9-UIZIQ,275.8756,308.6750333333333.md) [https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=275&end=309](https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=275&end=309)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> ask us do your programs use c plus plus or blueprint for the most part they they prefer native so c plus plus uh programming that's generally where most of the programming work gets done however blueprint is like an integral part of the way unreal engine works and it's also a very useful tool for our ui artists and designers and so our programmers do need to bridge the gap between native and blueprints sometimes and do have to do some things in blueprints it sometimes it just makes sense to do things in blueprints um you know just got to use the right tool for the right job and of course they use unreal engine for testing the game and debugging the game as well our
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 5 other times, as recently as February 2022 and as early as February 2019.</summary>
+
+* [February 8th, 2022 Livestream Q&A: What language do you use?](./transcriptions/yt-aiQhUjVl2AI.md) [https://www.youtube.com/watch?v=aiQhUjVl2AI](https://www.youtube.com/watch?v=aiQhUjVl2AI)
+* [February 16th, 2021 Livestream Q&A: What engine do you use & what programming language?](./transcriptions/yt-L-HM1a7oSK8.md) [https://www.youtube.com/watch?v=L-HM1a7oSK8](https://www.youtube.com/watch?v=L-HM1a7oSK8)
+* October 9th, 2020 Livestream Q&A: What language is Satisfactory programmed in? [https://www.youtube.com/watch?v=Bczgrpei-oQ](https://www.youtube.com/watch?v=Bczgrpei-oQ)
+* [September 8th, 2020 Livestream Q&A: Are you using Blueprints or C++?](./transcriptions/yt-z7fe-_3-Al4.md) [https://www.youtube.com/watch?v=z7fe-_3-Al4](https://www.youtube.com/watch?v=z7fe-_3-Al4)
+* [February 20th, 2019 Livestream Q&A: What Engine?](./transcriptions/yt-CB9bSigNYH8,692.002303,698.226859.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=692&end=699](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=692&end=699)
+</details>
+
 ## [March 29th, 2022 Livestream](./2022-03-29.md)
 ### [Q&A: Will we ever be able to equip all the Equipment at once?](./transcriptions/yt-i7Oym1g9yio.md) [https://www.youtube.com/watch?v=i7Oym1g9yio](https://www.youtube.com/watch?v=i7Oym1g9yio)
 
@@ -1594,26 +1616,6 @@ date: Last Modified
 * [May 4th, 2021 Livestream Q&A: Do you like Valheim?](./transcriptions/yt-C_UznCZxD8M.md) [https://www.youtube.com/watch?v=C_UznCZxD8M](https://www.youtube.com/watch?v=C_UznCZxD8M)
 </details>
 
-### [Q&A: What language do you use?](./transcriptions/yt-aiQhUjVl2AI.md) [https://www.youtube.com/watch?v=aiQhUjVl2AI](https://www.youtube.com/watch?v=aiQhUjVl2AI)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> language you use c plus plus english english yes computers computer language a computer a computer um
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 4 other times, as recently as February 2021 and as early as February 2019.</summary>
-
-* [February 16th, 2021 Livestream Q&A: What engine do you use & what programming language?](./transcriptions/yt-L-HM1a7oSK8.md) [https://www.youtube.com/watch?v=L-HM1a7oSK8](https://www.youtube.com/watch?v=L-HM1a7oSK8)
-* October 9th, 2020 Livestream Q&A: What language is Satisfactory programmed in? [https://www.youtube.com/watch?v=Bczgrpei-oQ](https://www.youtube.com/watch?v=Bczgrpei-oQ)
-* [September 8th, 2020 Livestream Q&A: Are you using Blueprints or C++?](./transcriptions/yt-z7fe-_3-Al4.md) [https://www.youtube.com/watch?v=z7fe-_3-Al4](https://www.youtube.com/watch?v=z7fe-_3-Al4)
-* [February 20th, 2019 Livestream Q&A: What Engine?](./transcriptions/yt-CB9bSigNYH8,692.002303,698.226859.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=692&end=699](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=692&end=699)
-</details>
-
 ### [Q&A: Farms?](./transcriptions/yt-FqwSycZqJWo.md) [https://www.youtube.com/watch?v=FqwSycZqJWo](https://www.youtube.com/watch?v=FqwSycZqJWo)
 
 <details>
@@ -3009,6 +3011,13 @@ date: Last Modified
 </details>
 
 ### [Q&A: State of Golf? (Part 1)](./transcriptions/yt-Mzh3VpE5y8Q.md) [https://www.youtube.com/watch?v=Mzh3VpE5y8Q](https://www.youtube.com/watch?v=Mzh3VpE5y8Q)
+
+<details>
+<summary>This video continues in another video</summary>
+
+* [October 19th, 2021 Livestream Q&A: State of Golf? (Part 1)](./transcriptions/yt-Mzh3VpE5y8Q.md) [https://www.youtube.com/watch?v=Mzh3VpE5y8Q](https://www.youtube.com/watch?v=Mzh3VpE5y8Q)
+* [October 19th, 2021 Livestream Q&A: State of Golf? (Part 2)](./transcriptions/yt-nmaz0pMi3UY.md) [https://www.youtube.com/watch?v=nmaz0pMi3UY](https://www.youtube.com/watch?v=nmaz0pMi3UY)
+</details>
 
 <details>
 

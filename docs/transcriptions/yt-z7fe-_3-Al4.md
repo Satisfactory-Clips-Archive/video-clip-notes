@@ -8,7 +8,7 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Are you using Blueprints or C++?
 https://www.youtube.com/watch?v=z7fe-_3-Al4
-This question was possibly duplicated with a more recent answer: [February 8th, 2022 Livestream Q&A: What language do you use?](./yt-aiQhUjVl2AI.md) [https://www.youtube.com/watch?v=aiQhUjVl2AI](https://www.youtube.com/watch?v=aiQhUjVl2AI)
+This question was possibly duplicated with a more recent answer: [April 8th, 2022 Video Q&A: Do your programs use C++ or Blueprints?](./yt-o6ao9-UIZIQ,275.8756,308.6750333333333.md) [https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=275&end=309](https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=275&end=309)
 
 
 ### Topics

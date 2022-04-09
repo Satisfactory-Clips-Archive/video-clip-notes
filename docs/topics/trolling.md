@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Trolling
 
+## April 8th, 2022 Video
+* [Jace Talk: Don't mention Google Translate](../transcriptions/yt-o6ao9-UIZIQ,1925.1565666666668,1959.7244333333333.md) [https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=1925&end=1960](https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=1925&end=1960)
+
 ## April 1st, 2022 Video
 * Intro [https://youtube.com/embed/jAc8Fnj1o9w?autoplay=1&start=0&end=85](https://youtube.com/embed/jAc8Fnj1o9w?autoplay=1&start=0&end=85)
 * Snutt & Jace Talk: Update 5 and the effect it had on the Community [https://youtube.com/embed/jAc8Fnj1o9w?autoplay=1&start=84&end=154](https://youtube.com/embed/jAc8Fnj1o9w?autoplay=1&start=84&end=154)

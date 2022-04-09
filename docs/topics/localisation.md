@@ -6,6 +6,15 @@ date: Last Modified
 # [Topics](../topics.md) > Localisation
 * [Localization Community Highlight](../topics/localisation/localization-community-highlight.md)
 
+## April 8th, 2022 Video
+* [Jace Talk: Unreal Engine 4 (Part 8)](../transcriptions/yt-o6ao9-UIZIQ,1747.2455,1772.7042666666666.md) [https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=1747&end=1773](https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=1747&end=1773)
+* [Jace Talk: Crowdin](../transcriptions/yt-o6ao9-UIZIQ,1772.7376333333334,1794.7930000000001.md) [https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=1772&end=1795](https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=1772&end=1795)
+* [Jace Talk: Python (Part 2)](../transcriptions/yt-o6ao9-UIZIQ,1794.8263666666667,1852.7175333333334.md) [https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=1794&end=1853](https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=1794&end=1853)
+* [Jace Talk: Visual Studio Code](../transcriptions/yt-o6ao9-UIZIQ,1852.7509,1866.3978666666667.md) [https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=1852&end=1867](https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=1852&end=1867)
+* [Jace Talk: Google Sheets](../transcriptions/yt-o6ao9-UIZIQ,1866.4312333333335,1896.3277666666668.md) [https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=1866&end=1897](https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=1866&end=1897)
+* [Jace Talk: Discord](../transcriptions/yt-o6ao9-UIZIQ,1896.3611333333333,1925.1232.md) [https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=1896&end=1926](https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=1896&end=1926)
+* [Jace Talk: Don't mention Google Translate](../transcriptions/yt-o6ao9-UIZIQ,1925.1565666666668,1959.7244333333333.md) [https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=1925&end=1960](https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=1925&end=1960)
+
 ## November 16th, 2021 Livestream
 * [Q&A: Please do a voice for Pirate English?](../transcriptions/yt-5kAcisPqt4Y.md) [https://www.youtube.com/watch?v=5kAcisPqt4Y](https://www.youtube.com/watch?v=5kAcisPqt4Y)
 

@@ -8,6 +8,12 @@ topics:
 # [October 19th, 2021 Livestream](../2021-10-19.md)
 ## Q&A: State of Golf? (Part 1)
 https://www.youtube.com/watch?v=Mzh3VpE5y8Q
+<details>
+<summary>This video continues in another video</summary>
+
+* [October 19th, 2021 Livestream Q&A: State of Golf? (Part 2)](./yt-nmaz0pMi3UY.md) [https://www.youtube.com/watch?v=nmaz0pMi3UY](https://www.youtube.com/watch?v=nmaz0pMi3UY)
+</details>
+
 This question was possibly replaced with a more recent answer: [October 26th, 2021 Update 5 Launch Stream and Patch Notes Video Snutt & Jace Talk: Wager on releasing Golf versus Dedicated Servers (Part 11)](./yt-QfaReoks6OM,1068.1666666666667,1079.875.md) [https://youtube.com/clip/Ugkx5AFEye-drTgqVoqGe_qJljz8k-kWG4im](https://youtube.com/clip/Ugkx5AFEye-drTgqVoqGe_qJljz8k-kWG4im)
 
 <details>

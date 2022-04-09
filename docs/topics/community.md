@@ -24,6 +24,11 @@ date: Last Modified
 * [Vilsol](../topics/community/vilsol.md)
 * [Wiki](../topics/community/wiki.md)
 
+## April 8th, 2022 Video
+* [Jace Talk: Crowdin](../transcriptions/yt-o6ao9-UIZIQ,1772.7376333333334,1794.7930000000001.md) [https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=1772&end=1795](https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=1772&end=1795)
+* [Jace Talk: Discord](../transcriptions/yt-o6ao9-UIZIQ,1896.3611333333333,1925.1232.md) [https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=1896&end=1926](https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=1896&end=1926)
+* [Jace Talk: Thanks to my coworkers](../transcriptions/yt-o6ao9-UIZIQ,2390.2879000000003,2458.3225333333335.md) [https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=2390&end=2459](https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=2390&end=2459)
+
 ## April 5th, 2022 Livestream
 * [Snutt & Jace Talk: Multiplayer 4Package% Speedrunning](../transcriptions/yt-rbHZJS33ZJc.md) [https://www.youtube.com/watch?v=rbHZJS33ZJc](https://www.youtube.com/watch?v=rbHZJS33ZJc)
 

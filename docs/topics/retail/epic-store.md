@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../topics.md) > [Retail](../../topics/retail.md) > Epic Store
 * [Epic Store Exclusivity](../../topics/retail/epic-store/epic-store-exclusivity.md)
 
+## April 8th, 2022 Video
+* [Jace Talk: Steam, Epic, Humble](../../transcriptions/yt-o6ao9-UIZIQ,245.51193333333333,257.8242333333333.md) [https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=245&end=258](https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=245&end=258)
+
 ## March 29th, 2022 Livestream
 * [EOS Reset Account](../../transcriptions/yt-XczXasUwc0w.md) [https://www.youtube.com/watch?v=XczXasUwc0w](https://www.youtube.com/watch?v=XczXasUwc0w)
 

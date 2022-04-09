@@ -7,6 +7,9 @@ date: Last Modified
 * [Snutt Burger Time](../../topics/coffee-stainers/snutt/snutt-burger-time.md)
 * [Snutty Mays](../../topics/coffee-stainers/snutt/snutty-mays.md)
 
+## April 8th, 2022 Video
+* [Stream Ass-istant](../../transcriptions/yt-o6ao9-UIZIQ,2328.9933333333333,2357.7554.md) [https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=2328&end=2358](https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=2328&end=2358)
+
 ## March 29th, 2022 Livestream
 * [Q&A: If Jace is taking kayaking lessons, will you be taking Jace out exploring with you?](../../transcriptions/yt-1_5o-iJm-NU.md) [https://www.youtube.com/watch?v=1_5o-iJm-NU](https://www.youtube.com/watch?v=1_5o-iJm-NU)
 * [Community FYI: Jace and Snutt go kayaking = Patch Notes video for Ben's river changes](../../transcriptions/yt-G7d6uwMRo0w.md) [https://www.youtube.com/watch?v=G7d6uwMRo0w](https://www.youtube.com/watch?v=G7d6uwMRo0w)
