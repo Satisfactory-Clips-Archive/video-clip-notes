@@ -8,7 +8,7 @@ topics:
 ---
 # [April 8th, 2022 Video](../2022-04-08.md)
 ## Jace Talk: Marmoset Toolbag 3
-https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=519&end=557
+https://youtube.com/clip/UgkxbKhY2DKlRYq-mk7ltAKzneNHibH4S9F0
 
 ### Topics
 * [Coffee Stainers](../topics/coffee-stainers.md)

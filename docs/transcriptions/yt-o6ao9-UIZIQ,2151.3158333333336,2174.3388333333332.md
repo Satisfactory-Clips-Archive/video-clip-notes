@@ -8,7 +8,7 @@ topics:
 ---
 # [April 8th, 2022 Video](../2022-04-08.md)
 ## Jace Talk: IT rabbit hole
-https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=2151&end=2175
+https://youtube.com/clip/Ugkx2seb-TvBwGP45aGHbbP8Vq3Jrj7L-l9Y
 
 ### Topics
 * [Coffee Stainers](../topics/coffee-stainers.md)

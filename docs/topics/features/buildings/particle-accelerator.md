@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > Particle Accelerator
 
+## April 8th, 2022 Video
+* [Jace Talk: Vital](../../../transcriptions/yt-o6ao9-UIZIQ,1249.248,1272.4712.md) [https://youtube.com/clip/UgkxEiMfIuoeVkC7Ne5ooq9LM4vER80vG2wv](https://youtube.com/clip/UgkxEiMfIuoeVkC7Ne5ooq9LM4vER80vG2wv)
+
 ## March 18th, 2022 Video
 * [Snutt & Jace Talk: Unreleased Content article](../../../transcriptions/yt-VBGakEZilwk,589.7892,1115.8480666666667.md) [https://youtube.com/embed/VBGakEZilwk?autoplay=1&start=589&end=1116](https://youtube.com/embed/VBGakEZilwk?autoplay=1&start=589&end=1116)
 

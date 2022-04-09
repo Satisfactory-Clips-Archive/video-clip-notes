@@ -4,14 +4,16 @@ date: "2022-04-08"
 layout: transcript
 topics:
     - "coffee-stainers"
+    - "features/buildings/particle-accelerator"
     - "technology"
 ---
 # [April 8th, 2022 Video](../2022-04-08.md)
 ## Jace Talk: Vital
-https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=1249&end=1273
+https://youtube.com/clip/UgkxEiMfIuoeVkC7Ne5ooq9LM4vER80vG2wv
 
 ### Topics
 * [Coffee Stainers](../topics/coffee-stainers.md)
+* [Features > Buildings > Particle Accelerator](../topics/features/buildings/particle-accelerator.md)
 * [Technology](../topics/technology.md)
 
 ### Transcript

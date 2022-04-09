@@ -8,7 +8,7 @@ topics:
 ---
 # [April 8th, 2022 Video](../2022-04-08.md)
 ## Jace Talk: Audacity / Sonar / Adobe Audition
-https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=2270&end=2281
+https://youtube.com/clip/UgkxeQ8bDU0w5Hlr6v_uhqE8mH0AEbFIwM-B
 
 ### Topics
 * [Coffee Stainers](../topics/coffee-stainers.md)

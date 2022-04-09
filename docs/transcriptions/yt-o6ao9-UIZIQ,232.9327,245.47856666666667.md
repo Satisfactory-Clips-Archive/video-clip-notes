@@ -8,7 +8,7 @@ topics:
 ---
 # [April 8th, 2022 Video](../2022-04-08.md)
 ## Jace Talk: Wireguard
-https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=232&end=246
+https://youtube.com/clip/UgkxxEF6MYESLZbLvkPCGSWUMiRAR5K0-od6
 
 ### Topics
 * [Coffee Stainers](../topics/coffee-stainers.md)

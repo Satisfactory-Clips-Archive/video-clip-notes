@@ -8,7 +8,7 @@ topics:
 ---
 # [April 8th, 2022 Video](../2022-04-08.md)
 ## Jace Talk: Wwise
-https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=1207&end=1231
+https://youtube.com/clip/Ugkxa_m_JFtg1hqD6qwU1iyHI474ss1KKRj0
 
 ### Topics
 * [Coffee Stainers](../topics/coffee-stainers.md)

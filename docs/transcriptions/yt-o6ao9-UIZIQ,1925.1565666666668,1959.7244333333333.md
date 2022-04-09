@@ -10,7 +10,7 @@ topics:
 ---
 # [April 8th, 2022 Video](../2022-04-08.md)
 ## Jace Talk: Don't mention Google Translate
-https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=1925&end=1960
+https://youtube.com/clip/Ugkxi-g58LBpFrG4iC9xMCjgIlrT7TFgj_qJ
 
 ### Topics
 * [Coffee Stainers](../topics/coffee-stainers.md)

@@ -8,12 +8,12 @@ topics:
 ---
 # [April 8th, 2022 Video](../2022-04-08.md)
 ## Jace Talk: Hardware (Part 1)
-https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=864&end=875
+https://youtube.com/clip/UgkxaE1woKKEB8u2L3ghUWswWKMVbCYW1U04
 <details>
 <summary>This video continues in another video</summary>
 
-* [April 8th, 2022 Video Jace Talk: Hardware (Part 2)](./yt-o6ao9-UIZIQ,1272.5045666666667,1303.6690333333333.md) [https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=1272&end=1304](https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=1272&end=1304)
-* [April 8th, 2022 Video Jace Talk: Hardware (Part 3)](./yt-o6ao9-UIZIQ,1586.3180666666667,1596.5616333333335.md) [https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=1586&end=1597](https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=1586&end=1597)
+* [April 8th, 2022 Video Jace Talk: Hardware (Part 2)](./yt-o6ao9-UIZIQ,1272.5045666666667,1303.6690333333333.md) [https://youtube.com/clip/UgkxSRHdyZdLLhD1y4aZlWx2EHDRGcMlUc30](https://youtube.com/clip/UgkxSRHdyZdLLhD1y4aZlWx2EHDRGcMlUc30)
+* [April 8th, 2022 Video Jace Talk: Hardware (Part 3)](./yt-o6ao9-UIZIQ,1586.3180666666667,1596.5616333333335.md) [https://youtube.com/clip/UgkxcYXC9QqPFnGmSBwgZosSMy0bg56sYfl7](https://youtube.com/clip/UgkxcYXC9QqPFnGmSBwgZosSMy0bg56sYfl7)
 </details>
 
 

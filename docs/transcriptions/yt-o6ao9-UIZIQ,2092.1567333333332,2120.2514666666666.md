@@ -8,7 +8,7 @@ topics:
 ---
 # [April 8th, 2022 Video](../2022-04-08.md)
 ## Jace Talk: Google Cloud Platform
-https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=2092&end=2121
+https://youtube.com/clip/Ugkx6K-xOZv5nSRu4sGoVbASH5urqVJBIwOt
 
 ### Topics
 * [Coffee Stainers](../topics/coffee-stainers.md)

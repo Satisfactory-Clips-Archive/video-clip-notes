@@ -8,7 +8,7 @@ topics:
 ---
 # [April 8th, 2022 Video](../2022-04-08.md)
 ## Jace Talk: PureRef
-https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=604&end=628
+https://youtube.com/clip/UgkxBottyV7OiWm6orZrLklmTtz4Nj_Ekwjr
 
 ### Topics
 * [Coffee Stainers](../topics/coffee-stainers.md)

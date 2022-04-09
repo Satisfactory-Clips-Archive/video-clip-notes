@@ -12,7 +12,7 @@ https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=1043&end=1111
 <details>
 <summary>This video is a continuation of a previous video</summary>
 
-* [April 8th, 2022 Video Jace Talk: Houdini (Part 1)](./yt-o6ao9-UIZIQ,924.2566666666667,956.7558.md) [https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=924&end=957](https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=924&end=957)
+* [April 8th, 2022 Video Jace Talk: Houdini (Part 1)](./yt-o6ao9-UIZIQ,924.2566666666667,956.7558.md) [https://youtube.com/clip/UgkxUAwXxOcEuBJS-9gC1b3692FfpZSt6e2A](https://youtube.com/clip/UgkxUAwXxOcEuBJS-9gC1b3692FfpZSt6e2A)
 </details>
 
 

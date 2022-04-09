@@ -8,7 +8,7 @@ topics:
 ---
 # [April 8th, 2022 Video](../2022-04-08.md)
 ## Jace Talk: Substance Painter (Part 1)
-https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=462&end=480
+https://youtube.com/clip/UgkxHoO6At0s_Ik3NNVnuZyw3Yd27jvz-NZ0
 <details>
 <summary>This video continues in another video</summary>
 

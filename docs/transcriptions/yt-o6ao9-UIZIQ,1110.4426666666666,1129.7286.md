@@ -8,12 +8,12 @@ topics:
 ---
 # [April 8th, 2022 Video](../2022-04-08.md)
 ## Jace Talk: Python (Part 1)
-https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=1110&end=1130
+https://youtube.com/clip/UgkxEkjex_TwBj03LttOUbj2K8wmncWgZpHS
 <details>
 <summary>This video continues in another video</summary>
 
-* [April 8th, 2022 Video Jace Talk: Python (Part 2)](./yt-o6ao9-UIZIQ,1794.8263666666667,1852.7175333333334.md) [https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=1794&end=1853](https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=1794&end=1853)
-* [April 8th, 2022 Video Jace Talk: Python (Part 3)](./yt-o6ao9-UIZIQ,2013.6116,2041.6729666666668.md) [https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=2013&end=2042](https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=2013&end=2042)
+* [April 8th, 2022 Video Jace Talk: Python (Part 2)](./yt-o6ao9-UIZIQ,1794.8263666666667,1852.7175333333334.md) [https://youtube.com/clip/Ugkxj-R436xU8XBIIXTOjbH9FSnenYNNj7V3](https://youtube.com/clip/Ugkxj-R436xU8XBIIXTOjbH9FSnenYNNj7V3)
+* [April 8th, 2022 Video Jace Talk: Python (Part 3)](./yt-o6ao9-UIZIQ,2013.6116,2041.6729666666668.md) [https://youtube.com/clip/UgkxGNPjh5-HS9yIIaLW_Morziy164vy6ha-](https://youtube.com/clip/UgkxGNPjh5-HS9yIIaLW_Morziy164vy6ha-)
 </details>
 
 

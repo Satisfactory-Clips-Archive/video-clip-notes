@@ -8,11 +8,11 @@ topics:
 ---
 # [April 8th, 2022 Video](../2022-04-08.md)
 ## Jace Talk: Microsoft Visio / yED (Part 1)
-https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=840&end=865
+https://youtube.com/clip/Ugkx9q5E38sTRyxKt5CqVpxsl68tfazwJESK
 <details>
 <summary>This video continues in another video</summary>
 
-* [April 8th, 2022 Video Jace Talk: Microsoft Visio (Part 2)](./yt-o6ao9-UIZIQ,1573.0047666666667,1586.2847.md) [https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=1573&end=1587](https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=1573&end=1587)
+* [April 8th, 2022 Video Jace Talk: Microsoft Visio (Part 2)](./yt-o6ao9-UIZIQ,1573.0047666666667,1586.2847.md) [https://youtube.com/clip/UgkxvNLHy_UKOroXnGDS2yOpyhbxDJbSC8zJ](https://youtube.com/clip/UgkxvNLHy_UKOroXnGDS2yOpyhbxDJbSC8zJ)
 </details>
 
 

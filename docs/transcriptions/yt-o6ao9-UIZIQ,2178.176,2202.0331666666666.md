@@ -8,7 +8,7 @@ topics:
 ---
 # [April 8th, 2022 Video](../2022-04-08.md)
 ## Jace Talk: Social Media
-https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=2178&end=2203
+https://youtube.com/clip/Ugkx4TajbZCJ5FFLo4VeEAdT0w3yLmtaDc1H
 
 ### Topics
 * [Coffee Stainers](../topics/coffee-stainers.md)

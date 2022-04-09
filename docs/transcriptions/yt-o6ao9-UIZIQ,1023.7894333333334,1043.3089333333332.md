@@ -8,11 +8,11 @@ topics:
 ---
 # [April 8th, 2022 Video](../2022-04-08.md)
 ## Jace Talk: Visual Studio / Rider (Part 2)
-https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=1023&end=1044
+https://youtube.com/clip/Ugkxy6WLZ0dnd32I4ldZoS8CLjTI746W9GEc
 <details>
 <summary>This video is a continuation of a previous video</summary>
 
-* [April 8th, 2022 Video Jace Talk: Visual Studio / Rider (Part 1)](./yt-o6ao9-UIZIQ,308.7084,355.82213333333334.md) [https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=308&end=356](https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=308&end=356)
+* [April 8th, 2022 Video Jace Talk: Visual Studio / Rider (Part 1)](./yt-o6ao9-UIZIQ,308.7084,355.82213333333334.md) [https://youtube.com/clip/UgkxUVo4aogSk05UMsWP2zIq2PpfI1Ho9bCS](https://youtube.com/clip/UgkxUVo4aogSk05UMsWP2zIq2PpfI1Ho9bCS)
 </details>
 
 

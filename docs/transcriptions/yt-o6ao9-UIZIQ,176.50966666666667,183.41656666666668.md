@@ -8,7 +8,7 @@ topics:
 ---
 # [April 8th, 2022 Video](../2022-04-08.md)
 ## Jace Talk: Unreal Game Sync
-https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=176&end=184
+https://youtube.com/clip/UgkxOshAnRgt6Yz8nEBzf9Os2dVYYcKvt2Id
 
 ### Topics
 * [Coffee Stainers](../topics/coffee-stainers.md)

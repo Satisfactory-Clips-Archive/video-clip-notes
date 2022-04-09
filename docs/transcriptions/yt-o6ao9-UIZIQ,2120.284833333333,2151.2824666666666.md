@@ -8,7 +8,7 @@ topics:
 ---
 # [April 8th, 2022 Video](../2022-04-08.md)
 ## Jace Talk: Incredibuild
-https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=2120&end=2152
+https://youtube.com/clip/UgkxvPDdUxlSS1__hZrW5q661fTUuNPpy-_c
 
 ### Topics
 * [Coffee Stainers](../topics/coffee-stainers.md)

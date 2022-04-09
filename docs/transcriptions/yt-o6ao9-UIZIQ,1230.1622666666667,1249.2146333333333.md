@@ -8,7 +8,7 @@ topics:
 ---
 # [April 8th, 2022 Video](../2022-04-08.md)
 ## Jace Talk: Reaper
-https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=1230&end=1250
+https://youtube.com/clip/UgkxlZgapNeteR_LMCJQ76tShTOnSOOmfy8J
 
 ### Topics
 * [Coffee Stainers](../topics/coffee-stainers.md)

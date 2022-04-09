@@ -8,7 +8,7 @@ topics:
 ---
 # [April 8th, 2022 Video](../2022-04-08.md)
 ## Jace Talk: PowerShell
-https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=1976&end=2014
+https://youtube.com/clip/Ugkxs7rI92o81DThyICprF6fR3leeUkum4l0
 
 ### Topics
 * [Coffee Stainers](../topics/coffee-stainers.md)

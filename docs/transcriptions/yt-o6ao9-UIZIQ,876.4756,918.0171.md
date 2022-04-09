@@ -8,11 +8,11 @@ topics:
 ---
 # [April 8th, 2022 Video](../2022-04-08.md)
 ## Jace Talk: Autodesk Maya (Part 2)
-https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=876&end=919
+https://youtube.com/clip/Ugkxi5nrdtiDdAclkVtvQp4BotGeqegQgV32
 <details>
 <summary>This video is a continuation of a previous video</summary>
 
-* [April 8th, 2022 Video Jace Talk: Autodesk Maya (Part 1)](./yt-o6ao9-UIZIQ,586.9864,604.4371666666667.md) [https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=586&end=605](https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=586&end=605)
+* [April 8th, 2022 Video Jace Talk: Autodesk Maya (Part 1)](./yt-o6ao9-UIZIQ,586.9864,604.4371666666667.md) [https://youtube.com/clip/UgkxPyX6bQ8X6Q4LRBva8A-Ed1PQr5THhfUf](https://youtube.com/clip/UgkxPyX6bQ8X6Q4LRBva8A-Ed1PQr5THhfUf)
 </details>
 
 

@@ -6,7 +6,7 @@ date: Last Modified
 # [Topics](../../../topics.md) > [Coffee Stainers](../../../topics/coffee-stainers.md) > [Jace](../../../topics/coffee-stainers/jace.md) > Jace Art
 
 ## April 8th, 2022 Video
-* [Jace Talk: Microsoft Paint (Part 2)](../../../transcriptions/yt-o6ao9-UIZIQ,2258.8232333333335,2270.7017666666666.md) [https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=2258&end=2271](https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=2258&end=2271)
+* [Jace Talk: Microsoft Paint (Part 2)](../../../transcriptions/yt-o6ao9-UIZIQ,2258.8232333333335,2270.7017666666666.md) [https://youtube.com/clip/Ugkx3JLRn9i8B9x5Q2vE26tMKfE1pEQmYBkc](https://youtube.com/clip/Ugkx3JLRn9i8B9x5Q2vE26tMKfE1pEQmYBkc)
 
 ## February 11th, 2022 Hot Potato Bonus Stream
 * [Snutt & Jace Talk: High-Quality Kirby Screenshots](../../../transcriptions/yt-HoB6D6YEfK8.md) [https://www.youtube.com/watch?v=HoB6D6YEfK8](https://www.youtube.com/watch?v=HoB6D6YEfK8)

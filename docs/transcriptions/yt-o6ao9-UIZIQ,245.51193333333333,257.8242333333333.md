@@ -10,7 +10,7 @@ topics:
 ---
 # [April 8th, 2022 Video](../2022-04-08.md)
 ## Jace Talk: Steam, Epic, Humble
-https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=245&end=258
+https://youtube.com/clip/UgkxZ_7dMT6DXCRuCgJJrWk54r4Tkgbea98T
 
 ### Topics
 * [Coffee Stainers](../topics/coffee-stainers.md)

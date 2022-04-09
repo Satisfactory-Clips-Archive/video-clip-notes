@@ -9,11 +9,11 @@ topics:
 ---
 # [April 8th, 2022 Video](../2022-04-08.md)
 ## Jace Talk: Monday.com (Part 2)
-https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=1383&end=1410
+https://youtube.com/clip/Ugkx_zeMxtLu7orzqv-tTyINToTrT2qLcnLf
 <details>
 <summary>This video is a continuation of a previous video</summary>
 
-* [April 8th, 2022 Video Jace Talk: Monday.com (Part 1)](./yt-o6ao9-UIZIQ,224.45756666666668,232.89933333333335.md) [https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=224&end=233](https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=224&end=233)
+* [April 8th, 2022 Video Jace Talk: Monday.com (Part 1)](./yt-o6ao9-UIZIQ,224.45756666666668,232.89933333333335.md) [https://youtube.com/clip/UgkxmVgZxNcyYp2QOcPJ82BL_H7dXvo07a0F](https://youtube.com/clip/UgkxmVgZxNcyYp2QOcPJ82BL_H7dXvo07a0F)
 </details>
 
 

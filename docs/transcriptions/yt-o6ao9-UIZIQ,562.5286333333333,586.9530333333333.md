@@ -8,7 +8,7 @@ topics:
 ---
 # [April 8th, 2022 Video](../2022-04-08.md)
 ## Jace Talk: ZBrush
-https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=562&end=587
+https://youtube.com/clip/Ugkx9hcZ8L-kX2mOLuPabyYn-4ATvcIRCNS-
 
 ### Topics
 * [Coffee Stainers](../topics/coffee-stainers.md)

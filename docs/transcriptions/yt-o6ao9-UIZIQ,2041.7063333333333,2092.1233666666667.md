@@ -8,7 +8,7 @@ topics:
 ---
 # [April 8th, 2022 Video](../2022-04-08.md)
 ## Jace Talk: Jenkins
-https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=2041&end=2093
+https://youtube.com/clip/UgkxJygRI2hoVJsInz17FsM9Jif3bzTbeMT7
 
 ### Topics
 * [Coffee Stainers](../topics/coffee-stainers.md)

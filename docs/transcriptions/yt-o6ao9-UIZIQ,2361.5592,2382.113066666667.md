@@ -9,7 +9,7 @@ topics:
 ---
 # [April 8th, 2022 Video](../2022-04-08.md)
 ## Q&A: What tools does the CEO use?
-https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=2361&end=2383
+https://youtube.com/clip/Ugkxul_nK84L-3UFQ3UajKVje662NS7-BWfE
 
 ### Topics
 * [Coffee Stainers](../topics/coffee-stainers.md)

@@ -9,7 +9,7 @@ topics:
 ---
 # [April 8th, 2022 Video](../2022-04-08.md)
 ## Stream Ass-istant
-https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=2328&end=2358
+https://youtube.com/clip/UgkxKexsR90eOB4iPozgU_WquXlROIe_0SKi
 
 ### Topics
 * [Coffee Stainers](../topics/coffee-stainers.md)

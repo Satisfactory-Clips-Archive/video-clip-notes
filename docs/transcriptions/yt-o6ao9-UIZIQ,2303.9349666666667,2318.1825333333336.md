@@ -8,7 +8,7 @@ topics:
 ---
 # [April 8th, 2022 Video](../2022-04-08.md)
 ## Jace Talk: Restream
-https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=2303&end=2319
+https://youtube.com/clip/Ugkx0ksbim4x1teXV7IS8q97TBaIJ5jvwqbf
 
 ### Topics
 * [Coffee Stainers](../topics/coffee-stainers.md)

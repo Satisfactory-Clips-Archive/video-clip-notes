@@ -8,7 +8,7 @@ topics:
 ---
 # [April 8th, 2022 Video](../2022-04-08.md)
 ## Jace Talk: Houdini (Part 1)
-https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=924&end=957
+https://youtube.com/clip/UgkxUAwXxOcEuBJS-9gC1b3692FfpZSt6e2A
 <details>
 <summary>This video continues in another video</summary>
 

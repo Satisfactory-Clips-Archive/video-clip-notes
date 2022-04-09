@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Soundtrack
 
+## April 8th, 2022 Video
+* [Jace Talk: Hardware (Part 2)](../transcriptions/yt-o6ao9-UIZIQ,1272.5045666666667,1303.6690333333333.md) [https://youtube.com/clip/UgkxSRHdyZdLLhD1y4aZlWx2EHDRGcMlUc30](https://youtube.com/clip/UgkxSRHdyZdLLhD1y4aZlWx2EHDRGcMlUc30)
+
 ## March 15th, 2022 Livestream
 * [Q&A: Music on Spotify?](../transcriptions/yt-ffAoXn7HynE.md) [https://www.youtube.com/watch?v=ffAoXn7HynE](https://www.youtube.com/watch?v=ffAoXn7HynE)
 

@@ -8,7 +8,7 @@ topics:
 ---
 # [April 8th, 2022 Video](../2022-04-08.md)
 ## Jace Talk: Google
-https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=133&end=154
+https://youtube.com/clip/UgkxFUbDnYYPor2eyNUwIOromaxLrB6MqdnG
 
 ### Topics
 * [Coffee Stainers](../topics/coffee-stainers.md)

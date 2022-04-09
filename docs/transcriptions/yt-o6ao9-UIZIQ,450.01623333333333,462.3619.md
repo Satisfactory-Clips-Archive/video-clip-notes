@@ -8,12 +8,12 @@ topics:
 ---
 # [April 8th, 2022 Video](../2022-04-08.md)
 ## Jace Talk: Substance Designer (Part 1)
-https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=450&end=463
+https://youtube.com/clip/UgkxAXECHitd99Ltyk2RNKMihVs2ZEk0lYa6
 <details>
 <summary>This video continues in another video</summary>
 
-* [April 8th, 2022 Video Jace Talk: Substance Designer (Part 2)](./yt-o6ao9-UIZIQ,988.4541333333334,1000.1324666666667.md) [https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=988&end=1001](https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=988&end=1001)
-* [April 8th, 2022 Video Jace Talk: Substance Designer (Part 3)](./yt-o6ao9-UIZIQ,1177.5096666666666,1200.6661333333334.md) [https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=1177&end=1201](https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=1177&end=1201)
+* [April 8th, 2022 Video Jace Talk: Substance Designer (Part 2)](./yt-o6ao9-UIZIQ,988.4541333333334,1000.1324666666667.md) [https://youtube.com/clip/UgkxeLn4kVY_1l32EEY1K-novRwANZpWS2ot](https://youtube.com/clip/UgkxeLn4kVY_1l32EEY1K-novRwANZpWS2ot)
+* [April 8th, 2022 Video Jace Talk: Substance Designer (Part 3)](./yt-o6ao9-UIZIQ,1177.5096666666666,1200.6661333333334.md) [https://youtube.com/clip/Ugkx5yq2yYouIb6F9L2bY4D1kSQVpeGGhbA2](https://youtube.com/clip/Ugkx5yq2yYouIb6F9L2bY4D1kSQVpeGGhbA2)
 </details>
 
 

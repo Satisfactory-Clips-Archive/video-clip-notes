@@ -8,12 +8,12 @@ topics:
 ---
 # [April 8th, 2022 Video](../2022-04-08.md)
 ## Jace Talk: Blender (Part 1)
-https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=421&end=450
+https://youtube.com/clip/UgkxVCcEsrYbqQCdSj6epAl1iFAVH8Jxmk28
 <details>
 <summary>This video continues in another video</summary>
 
-* [April 8th, 2022 Video Jace Talk: Blender (Part 2)](./yt-o6ao9-UIZIQ,956.7891666666667,973.0721.md) [https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=956&end=974](https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=956&end=974)
-* [April 8th, 2022 Video Jace Talk: Blender (Part 3)](./yt-o6ao9-UIZIQ,1129.7619666666667,1168.7008666666668.md) [https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=1129&end=1169](https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=1129&end=1169)
+* [April 8th, 2022 Video Jace Talk: Blender (Part 2)](./yt-o6ao9-UIZIQ,956.7891666666667,973.0721.md) [https://youtube.com/clip/Ugkx45FsTq03oo4K0tn4mVu2RL9f4vArFjbD](https://youtube.com/clip/Ugkx45FsTq03oo4K0tn4mVu2RL9f4vArFjbD)
+* [April 8th, 2022 Video Jace Talk: Blender (Part 3)](./yt-o6ao9-UIZIQ,1129.7619666666667,1168.7008666666668.md) [https://youtube.com/clip/UgkxnnhHlaSimtoHCULFKRkPox5nLOV3NPv9](https://youtube.com/clip/UgkxnnhHlaSimtoHCULFKRkPox5nLOV3NPv9)
 </details>
 
 

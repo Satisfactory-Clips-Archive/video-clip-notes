@@ -10,7 +10,7 @@ topics:
 ---
 # [April 8th, 2022 Video](../2022-04-08.md)
 ## Jace Talk: Crowdin
-https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=1772&end=1795
+https://youtube.com/clip/UgkxKFYeckJrKMH9d_Q3ZqyT2RdhmYYEEQCJ
 
 ### Topics
 * [Coffee Stainers](../topics/coffee-stainers.md)

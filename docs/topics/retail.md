@@ -10,7 +10,7 @@ date: Last Modified
 * [Steam Store](../topics/retail/steam-store.md)
 
 ## April 8th, 2022 Video
-* [Jace Talk: Steam, Epic, Humble](../transcriptions/yt-o6ao9-UIZIQ,245.51193333333333,257.8242333333333.md) [https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=245&end=258](https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=245&end=258)
+* [Jace Talk: Steam, Epic, Humble](../transcriptions/yt-o6ao9-UIZIQ,245.51193333333333,257.8242333333333.md) [https://youtube.com/clip/UgkxZ_7dMT6DXCRuCgJJrWk54r4Tkgbea98T](https://youtube.com/clip/UgkxZ_7dMT6DXCRuCgJJrWk54r4Tkgbea98T)
 
 ## March 22nd, 2022 Livestream
 * [Q&A: How can you finance the game?](../transcriptions/yt-WfpyvW54Hs0.md) [https://www.youtube.com/watch?v=WfpyvW54Hs0](https://www.youtube.com/watch?v=WfpyvW54Hs0)

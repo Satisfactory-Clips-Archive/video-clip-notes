@@ -8,11 +8,11 @@ topics:
 ---
 # [April 8th, 2022 Video](../2022-04-08.md)
 ## Jace Talk: Microsoft 365 (Part 1)
-https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=183&end=225
+https://youtube.com/clip/UgkxLLYSo2sikupDXo9XqqbXBqLWT-NFbOFd
 <details>
 <summary>This video continues in another video</summary>
 
-* [April 8th, 2022 Video Jace Talk: Microsoft 365 (Part 2)](./yt-o6ao9-UIZIQ,1315.8145,1347.9799666666668.md) [https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=1315&end=1348](https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=1315&end=1348)
+* [April 8th, 2022 Video Jace Talk: Microsoft 365 (Part 2)](./yt-o6ao9-UIZIQ,1315.8145,1347.9799666666668.md) [https://youtube.com/clip/Ugkxd9zjRx6bj2zZIuYluAP5gjtRMXy1neGt](https://youtube.com/clip/Ugkxd9zjRx6bj2zZIuYluAP5gjtRMXy1neGt)
 </details>
 
 

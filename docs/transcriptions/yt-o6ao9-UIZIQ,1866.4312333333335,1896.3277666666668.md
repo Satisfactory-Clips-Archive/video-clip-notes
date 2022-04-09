@@ -9,7 +9,7 @@ topics:
 ---
 # [April 8th, 2022 Video](../2022-04-08.md)
 ## Jace Talk: Google Sheets
-https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=1866&end=1897
+https://youtube.com/clip/Ugkx2uCh7t_wAa71qWm8VxdZR6d7dSo6xSjy
 
 ### Topics
 * [Coffee Stainers](../topics/coffee-stainers.md)

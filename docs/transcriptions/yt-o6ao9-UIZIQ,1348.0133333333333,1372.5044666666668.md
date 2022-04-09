@@ -8,7 +8,7 @@ topics:
 ---
 # [April 8th, 2022 Video](../2022-04-08.md)
 ## Jace Talk: GSuite
-https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=1348&end=1373
+https://youtube.com/clip/Ugkxcw6iGpmJ7tL041MxGB7NA2YXkj6m2fko
 
 ### Topics
 * [Coffee Stainers](../topics/coffee-stainers.md)

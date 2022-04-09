@@ -8,7 +8,7 @@ topics:
 ---
 # [April 8th, 2022 Video](../2022-04-08.md)
 ## Jace Talk: Notepad / Notepad++
-https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=396&end=420
+https://youtube.com/clip/Ugkx_PqY6rW9NSNzr5eu7swgtJIsiZQTK1I8
 
 ### Topics
 * [Coffee Stainers](../topics/coffee-stainers.md)

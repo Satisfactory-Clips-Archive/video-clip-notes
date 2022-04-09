@@ -8,7 +8,7 @@ topics:
 ---
 # [April 8th, 2022 Video](../2022-04-08.md)
 ## Jace Talk: Beyond Compare
-https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=355&end=397
+https://youtube.com/clip/UgkxcoUUUXNcy0pw--QIaj1dHs_Ls7qUuAl6
 
 ### Topics
 * [Coffee Stainers](../topics/coffee-stainers.md)

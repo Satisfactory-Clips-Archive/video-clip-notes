@@ -8,11 +8,11 @@ topics:
 ---
 # [April 8th, 2022 Video](../2022-04-08.md)
 ## Jace Talk: Microsoft Paint (Part 1)
-https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=1554&end=1573
+https://youtube.com/clip/Ugkx3aZyw8BujFQ2h2mZdFRZwwF_JdpIwJht
 <details>
 <summary>This video continues in another video</summary>
 
-* [April 8th, 2022 Video Jace Talk: Microsoft Paint (Part 2)](./yt-o6ao9-UIZIQ,2258.8232333333335,2270.7017666666666.md) [https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=2258&end=2271](https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=2258&end=2271)
+* [April 8th, 2022 Video Jace Talk: Microsoft Paint (Part 2)](./yt-o6ao9-UIZIQ,2258.8232333333335,2270.7017666666666.md) [https://youtube.com/clip/Ugkx3JLRn9i8B9x5Q2vE26tMKfE1pEQmYBkc](https://youtube.com/clip/Ugkx3JLRn9i8B9x5Q2vE26tMKfE1pEQmYBkc)
 </details>
 
 

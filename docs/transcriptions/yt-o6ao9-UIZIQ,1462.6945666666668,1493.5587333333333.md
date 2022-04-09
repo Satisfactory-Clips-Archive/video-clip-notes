@@ -8,11 +8,11 @@ topics:
 ---
 # [April 8th, 2022 Video](../2022-04-08.md)
 ## Jace Talk: Microsoft Excel (Part 1)
-https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=1462&end=1494
+https://youtube.com/clip/UgkxBcZDKzU3DqZ13oJAXk3_t5E_dZn8fNVW
 <details>
 <summary>This video continues in another video</summary>
 
-* [April 8th, 2022 Video Jace Talk: Microsoft Excel (Part 2)](./yt-o6ao9-UIZIQ,1653.652,1682.9813.md) [https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=1653&end=1683](https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=1653&end=1683)
+* [April 8th, 2022 Video Jace Talk: Microsoft Excel (Part 2)](./yt-o6ao9-UIZIQ,1653.652,1682.9813.md) [https://youtube.com/clip/Ugkx8lGHhHruCqNlJ8fLIgMqRfJNnmtpmAtm](https://youtube.com/clip/Ugkx8lGHhHruCqNlJ8fLIgMqRfJNnmtpmAtm)
 </details>
 
 

@@ -9,7 +9,7 @@ topics:
 ---
 # [April 8th, 2022 Video](../2022-04-08.md)
 ## Jace Talk: Visual Studio Code
-https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=1852&end=1867
+https://youtube.com/clip/Ugkx290AUnpKM7umwWkmCyEzWQVMz9jGR_MD
 
 ### Topics
 * [Coffee Stainers](../topics/coffee-stainers.md)

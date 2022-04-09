@@ -10,15 +10,14 @@ date: Last Modified
 * [Unreal Engine 5](../../topics/technology/unreal-engine/unreal-engine-5.md)
 
 ## April 8th, 2022 Video
-* [Jace Talk: Unreal Engine 4 (Part 1)](../../transcriptions/yt-o6ao9-UIZIQ,103.93716666666667,133.5334.md) [https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=103&end=134](https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=103&end=134)
-* [Jace Talk: Unreal Engine 4 (Part 2)](../../transcriptions/yt-o6ao9-UIZIQ,264.5643,308.6750333333333.md) [https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=264&end=309](https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=264&end=309)
-* [Q&A: Do your programs use C++ or Blueprints?](../../transcriptions/yt-o6ao9-UIZIQ,275.8756,308.6750333333333.md) [https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=275&end=309](https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=275&end=309)
-* [Jace Talk: Unreal Engine 4 (Part 3)](../../transcriptions/yt-o6ao9-UIZIQ,657.6236333333334,674.5405333333333.md) [https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=657&end=675](https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=657&end=675)
-* [Jace Talk: Unreal Engine 4 (Part 4)](../../transcriptions/yt-o6ao9-UIZIQ,792.8587333333334,839.9724666666667.md) [https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=792&end=840](https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=792&end=840)
-* [Jace Talk: Unreal Engine 4 (Part 5)](../../transcriptions/yt-o6ao9-UIZIQ,973.1054666666666,988.4207666666667.md) [https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=973&end=989](https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=973&end=989)
-* [Jace Talk: Unreal Engine 4 (Part 6)](../../transcriptions/yt-o6ao9-UIZIQ,1411.7436666666667,1462.6612.md) [https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=1411&end=1463](https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=1411&end=1463)
-* [Jace Talk: Unreal Engine 4 (Part 7)](../../transcriptions/yt-o6ao9-UIZIQ,1599.2977,1622.1872333333333.md) [https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=1599&end=1623](https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=1599&end=1623)
-* [Jace Talk: Unreal Engine 4 (Part 8)](../../transcriptions/yt-o6ao9-UIZIQ,1747.2455,1772.7042666666666.md) [https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=1747&end=1773](https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=1747&end=1773)
+* [Jace Talk: Unreal Engine 4 (Part 1)](../../transcriptions/yt-o6ao9-UIZIQ,103.93716666666667,133.5334.md) [https://youtube.com/clip/UgkxidAarRVATlSr5B6iAeDwRGHGb8LtxXw4](https://youtube.com/clip/UgkxidAarRVATlSr5B6iAeDwRGHGb8LtxXw4)
+* [Q&A: Do your programs use C++ or Blueprints?](../../transcriptions/yt-o6ao9-UIZIQ,275.8756,308.6750333333333.md) [https://youtube.com/clip/UgkxPMNT3hI6yP1QwEdl_6D1Vb8drM52CfKu](https://youtube.com/clip/UgkxPMNT3hI6yP1QwEdl_6D1Vb8drM52CfKu)
+* [Jace Talk: Unreal Engine 4 (Part 3)](../../transcriptions/yt-o6ao9-UIZIQ,657.6236333333334,674.5405333333333.md) [https://youtube.com/clip/Ugkx481NsgcWGIyHZeOgcgpWWlCnStxqdvEY](https://youtube.com/clip/Ugkx481NsgcWGIyHZeOgcgpWWlCnStxqdvEY)
+* [Jace Talk: Unreal Engine 4 (Part 4)](../../transcriptions/yt-o6ao9-UIZIQ,792.8587333333334,839.9724666666667.md) [https://youtube.com/clip/UgkxpXmNp57_5p7y2JHHDzjealUYOuQCf1Fb](https://youtube.com/clip/UgkxpXmNp57_5p7y2JHHDzjealUYOuQCf1Fb)
+* [Jace Talk: Unreal Engine 4 (Part 5)](../../transcriptions/yt-o6ao9-UIZIQ,973.1054666666666,988.4207666666667.md) [https://youtube.com/clip/UgkxELkY5wALF765hCH__vtvWyAroejM9uvK](https://youtube.com/clip/UgkxELkY5wALF765hCH__vtvWyAroejM9uvK)
+* [Jace Talk: Unreal Engine 4 (Part 6)](../../transcriptions/yt-o6ao9-UIZIQ,1411.7436666666667,1462.6612.md) [https://youtube.com/clip/UgkxRtRkmTQ6bAGNU3eNC3lVB2ZqHjDUadcy](https://youtube.com/clip/UgkxRtRkmTQ6bAGNU3eNC3lVB2ZqHjDUadcy)
+* [Jace Talk: Unreal Engine 4 (Part 7)](../../transcriptions/yt-o6ao9-UIZIQ,1599.2977,1622.1872333333333.md) [https://youtube.com/clip/Ugkx48U5ZlMv6ENuqPzy1W90lVvZO_LhXXhc](https://youtube.com/clip/Ugkx48U5ZlMv6ENuqPzy1W90lVvZO_LhXXhc)
+* [Jace Talk: Unreal Engine 4 (Part 8)](../../transcriptions/yt-o6ao9-UIZIQ,1747.2455,1772.7042666666666.md) [https://youtube.com/clip/UgkxSRbgvL9m2ufZWW9I0HuXhd_g51x_AYBq](https://youtube.com/clip/UgkxSRbgvL9m2ufZWW9I0HuXhd_g51x_AYBq)
 
 ## March 22nd, 2022 Livestream
 * [Q&A: Does the game push the limits of Unreal Engine?](../../transcriptions/yt-oBy4_sq83HE.md) [https://www.youtube.com/watch?v=oBy4_sq83HE](https://www.youtube.com/watch?v=oBy4_sq83HE)

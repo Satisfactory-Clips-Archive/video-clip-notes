@@ -8,7 +8,7 @@ topics:
 ---
 # [April 8th, 2022 Video](../2022-04-08.md)
 ## Jace Talk: Google Earth
-https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=1683&end=1700
+https://youtube.com/clip/Ugkxz9c0PfBpwxjW9vBwItRaTSbhNkdGwL-K
 
 ### Topics
 * [Coffee Stainers](../topics/coffee-stainers.md)

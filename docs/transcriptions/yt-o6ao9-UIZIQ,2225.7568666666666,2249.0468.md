@@ -8,7 +8,7 @@ topics:
 ---
 # [April 8th, 2022 Video](../2022-04-08.md)
 ## Jace Talk: Adobe After Effects
-https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=2225&end=2250
+https://youtube.com/clip/UgkxTsuDguDOR8cKrV2ZPj6IqugqOAUyzaRp
 
 ### Topics
 * [Coffee Stainers](../topics/coffee-stainers.md)

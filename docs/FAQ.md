@@ -3,7 +3,7 @@ title: "Frequently Asked Questions"
 date: Last Modified
 ---
 ## [April 8th, 2022 Video](./2022-04-08.md)
-### [Q&A: Do your programs use C++ or Blueprints?](./transcriptions/yt-o6ao9-UIZIQ,275.8756,308.6750333333333.md) [https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=275&end=309](https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=275&end=309)
+### [Q&A: Do your programs use C++ or Blueprints?](./transcriptions/yt-o6ao9-UIZIQ,275.8756,308.6750333333333.md) [https://youtube.com/clip/UgkxPMNT3hI6yP1QwEdl_6D1Vb8drM52CfKu](https://youtube.com/clip/UgkxPMNT3hI6yP1QwEdl_6D1Vb8drM52CfKu)
 
 <details>
 

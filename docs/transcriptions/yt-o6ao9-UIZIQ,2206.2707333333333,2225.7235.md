@@ -8,7 +8,7 @@ topics:
 ---
 # [April 8th, 2022 Video](../2022-04-08.md)
 ## Jace Talk: Adobe Premiere Pro
-https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=2206&end=2226
+https://youtube.com/clip/Ugkx8BzBeV9JRCOCGBl-kqYgGCgdxZmLkrJj
 
 ### Topics
 * [Coffee Stainers](../topics/coffee-stainers.md)

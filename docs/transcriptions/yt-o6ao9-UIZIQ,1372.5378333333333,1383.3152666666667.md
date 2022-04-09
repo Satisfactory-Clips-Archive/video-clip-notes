@@ -8,7 +8,7 @@ topics:
 ---
 # [April 8th, 2022 Video](../2022-04-08.md)
 ## Jace Talk: Slack
-https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=1372&end=1384
+https://youtube.com/clip/UgkxsigLZ3b50nH7kJvMss6S9pRm5S0F4BMR
 
 ### Topics
 * [Coffee Stainers](../topics/coffee-stainers.md)

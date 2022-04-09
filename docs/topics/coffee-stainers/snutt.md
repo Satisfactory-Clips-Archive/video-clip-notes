@@ -8,7 +8,7 @@ date: Last Modified
 * [Snutty Mays](../../topics/coffee-stainers/snutt/snutty-mays.md)
 
 ## April 8th, 2022 Video
-* [Stream Ass-istant](../../transcriptions/yt-o6ao9-UIZIQ,2328.9933333333333,2357.7554.md) [https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=2328&end=2358](https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=2328&end=2358)
+* [Stream Ass-istant](../../transcriptions/yt-o6ao9-UIZIQ,2328.9933333333333,2357.7554.md) [https://youtube.com/clip/UgkxKexsR90eOB4iPozgU_WquXlROIe_0SKi](https://youtube.com/clip/UgkxKexsR90eOB4iPozgU_WquXlROIe_0SKi)
 
 ## March 29th, 2022 Livestream
 * [Q&A: If Jace is taking kayaking lessons, will you be taking Jace out exploring with you?](../../transcriptions/yt-1_5o-iJm-NU.md) [https://www.youtube.com/watch?v=1_5o-iJm-NU](https://www.youtube.com/watch?v=1_5o-iJm-NU)

@@ -8,7 +8,7 @@ topics:
 ---
 # [April 8th, 2022 Video](../2022-04-08.md)
 ## Q&A: Do your programs use C++ or Blueprints?
-https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=275&end=309
+https://youtube.com/clip/UgkxPMNT3hI6yP1QwEdl_6D1Vb8drM52CfKu
 <details>
 <summary>This question may have been asked previously at least 5 other times, as recently as February 2022 and as early as February 2019.</summary>
 

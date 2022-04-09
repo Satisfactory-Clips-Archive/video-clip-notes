@@ -8,7 +8,7 @@ topics:
 ---
 # [April 8th, 2022 Video](../2022-04-08.md)
 ## Jace Talk: OBS Studio
-https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=2287&end=2300
+https://youtube.com/clip/UgkxrFb_m1CQ-x78LJ8TvL_mk7Q-jNdMfOl6
 
 ### Topics
 * [Coffee Stainers](../topics/coffee-stainers.md)

@@ -8,7 +8,7 @@ topics:
 ---
 # [April 8th, 2022 Video](../2022-04-08.md)
 ## Jace Talk: Microsoft PowerPoint
-https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=1518&end=1543
+https://youtube.com/clip/UgkxFt0j7jV9BoS9TxyOZ4DMehkpl6sFwyhQ
 
 ### Topics
 * [Coffee Stainers](../topics/coffee-stainers.md)

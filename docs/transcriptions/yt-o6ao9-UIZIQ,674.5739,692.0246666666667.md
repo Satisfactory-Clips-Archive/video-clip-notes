@@ -7,7 +7,7 @@ topics:
 ---
 # [April 8th, 2022 Video](../2022-04-08.md)
 ## Jace Talk: What UI/UX means
-https://youtube.com/embed/o6ao9-UIZIQ?autoplay=1&start=674&end=693
+https://youtube.com/clip/UgkxkXubxoOfRcZbrpudG5JBGJr5YqG89NXf
 
 ### Topics
 * [Coffee Stainers](../topics/coffee-stainers.md)
