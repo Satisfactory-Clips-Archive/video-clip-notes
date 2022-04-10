@@ -88,7 +88,7 @@ date: Last Modified
 * Q&A: Gas Manufacturing [https://clips.twitch.tv/ThirstyJoyousSparrowSoBayed](https://clips.twitch.tv/ThirstyJoyousSparrowSoBayed)
 
 ## March 12th, 2020 Patch Notes
-* [Jace Talk: Biiiiig Pipe](../../transcriptions/yt-DsbHR1Nc8fw,513.8466666666666,523.138287.md) [https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=513&end=524](https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=513&end=524)
+* [Jace Talk: We're adding Pipes](../../transcriptions/yt-DsbHR1Nc8fw,523.138287,538.7048333333333.md) [https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=523&end=539](https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=523&end=539)
 
 ## December 19th, 2019 Livestream
 * [Q&A: Is there going to be a way to destroy the fart rock?](../../transcriptions/yt-byPiSQZOAhw.md) [https://www.youtube.com/watch?v=byPiSQZOAhw](https://www.youtube.com/watch?v=byPiSQZOAhw)

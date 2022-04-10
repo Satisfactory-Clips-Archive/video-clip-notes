@@ -41,4 +41,4 @@ date: Last Modified
 * [Q&A: A mark on pipes to show the meters ?](../../../transcriptions/yt-lXL_N-a887E.md) [https://www.youtube.com/watch?v=lXL_N-a887E](https://www.youtube.com/watch?v=lXL_N-a887E)
 
 ## March 12th, 2020 Patch Notes
-* [Jace Talk: Biiiiig Pipe](../../../transcriptions/yt-DsbHR1Nc8fw,513.8466666666666,523.138287.md) [https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=513&end=524](https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=513&end=524)
+* [Jace Talk: We're adding Pipes](../../../transcriptions/yt-DsbHR1Nc8fw,523.138287,538.7048333333333.md) [https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=523&end=539](https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=523&end=539)

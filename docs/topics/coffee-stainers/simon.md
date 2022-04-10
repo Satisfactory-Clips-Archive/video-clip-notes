@@ -60,9 +60,9 @@ date: Last Modified
 * [Q&A: What did Simon really say about the sloops???](../../transcriptions/yt-NlIVwoRqjVk,1134.9004333333335,1164.4633000000001.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=1134&end=1165](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=1134&end=1165)
 
 ## April 30th, 2020 Dev Vlog
+* [Simon & Jace Talk: Welcome to the video](../../transcriptions/yt-mci92Mhr7MM,54.88816666666667,96.964745.md) [https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=54&end=97](https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=54&end=97)
 * [Simon & Jace Talk: Simon being a meme](../../transcriptions/yt-mci92Mhr7MM,96.964745,164.289825.md) [https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=96&end=165](https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=96&end=165)
 * [Simon & Jace Talk: Introducing Simon](../../transcriptions/yt-mci92Mhr7MM,164.289825,235.960259.md) [https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=164&end=236](https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=164&end=236)
-* [VFX with Simon](../../transcriptions/yt-mci92Mhr7MM,235.960259,1092.0910000000001.md) [https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=235&end=1093](https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=235&end=1093)
 * [Simon & Jace Talk: VFX for Nobelisk explosion](../../transcriptions/yt-mci92Mhr7MM,235.96906666666666,425.240567.md) [https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=235&end=426](https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=235&end=426)
 * [Simon & Jace Talk: VFX for ambient effects](../../transcriptions/yt-mci92Mhr7MM,425.240567,608.793576.md) [https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=425&end=609](https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=425&end=609)
 * [Simon & Jace Talk: Different ambient effects for different Biomes](../../transcriptions/yt-mci92Mhr7MM,608.793576,697.5301666666667.md) [https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=608&end=698](https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=608&end=698)

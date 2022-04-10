@@ -1,5 +1,5 @@
 ---
-title: "March 12th, 2020 Patch Notes Jace Talk: Biiiiig Pipe"
+title: "March 12th, 2020 Patch Notes Jace Talk: We're adding Pipes"
 date: "2020-03-12"
 layout: transcript
 topics:
@@ -10,8 +10,8 @@ topics:
     - "satisfactory-updates/released/satisfactory-update-3"
 ---
 # [March 12th, 2020 Patch Notes](../2020-03-12.md)
-## Jace Talk: Biiiiig Pipe
-https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=513&end=524
+## Jace Talk: We're adding Pipes
+https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=523&end=539
 
 ### Topics
 * [Features > Fluids](../topics/features/fluids.md)
@@ -22,4 +22,4 @@ https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=513&end=524
 
 ### Transcript
 
-> so we finally made it so this amazing pipe it's the biggest one in the world it doesn't look that impressive it seems like it's kind of blocked up just like I block up my pipes at home but yes we're
+> adding pipes to the game they're going to be transporting fluids and gases and things like that and also you're going to have to face some challenges when it comes to verticality so it's not going to be super simple to just use it but it's going to provide a new challenge for you all that marks the end of our journey we've

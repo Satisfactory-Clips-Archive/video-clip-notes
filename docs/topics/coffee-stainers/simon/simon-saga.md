@@ -15,7 +15,7 @@ date: Last Modified
 * [Q&A: Who's Simon?](../../../transcriptions/yt-MQSdhIKAjNc.md) [https://www.youtube.com/watch?v=MQSdhIKAjNc](https://www.youtube.com/watch?v=MQSdhIKAjNc)
 
 ## April 30th, 2020 Dev Vlog
-* [Simon & Jace Talk: Introducing Simon](../../../transcriptions/yt-mci92Mhr7MM,164.289825,235.960259.md) [https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=164&end=236](https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=164&end=236)
+* [Simon & Jace Talk: Simon being a meme](../../../transcriptions/yt-mci92Mhr7MM,96.964745,164.289825.md) [https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=96&end=165](https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=96&end=165)
 
 ## December 19th, 2019 Livestream
 * [Q&A: Which one was Simon's favourite Simon Saga video?](../../../transcriptions/yt-weWtkbvOxdU.md) [https://www.youtube.com/watch?v=weWtkbvOxdU](https://www.youtube.com/watch?v=weWtkbvOxdU)

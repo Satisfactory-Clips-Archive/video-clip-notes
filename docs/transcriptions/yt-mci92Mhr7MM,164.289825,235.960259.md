@@ -4,7 +4,6 @@ date: "2020-04-30"
 layout: transcript
 topics:
     - "coffee-stainers/simon"
-    - "coffee-stainers/simon/simon-saga"
 ---
 # [April 30th, 2020 Dev Vlog](../2020-04-30.md)
 ## Simon & Jace Talk: Introducing Simon
@@ -12,7 +11,6 @@ https://youtube.com/embed/mci92Mhr7MM?autoplay=1&start=164&end=236
 
 ### Topics
 * [Coffee Stainers > Simon](../topics/coffee-stainers/simon.md)
-* [Coffee Stainers > Simon > Simon Saga](../topics/coffee-stainers/simon/simon-saga.md)
 
 ### Transcript
 
