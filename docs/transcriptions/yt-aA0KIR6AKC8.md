@@ -8,7 +8,7 @@ topics:
 # [July 6th, 2021 Livestream](../2021-07-06.md)
 ## Q&A: Go implement HUB computer, I want to see graphs & statistics?
 https://www.youtube.com/watch?v=aA0KIR6AKC8
-This question was possibly duplicated with a more recent answer: [November 9th, 2021 Livestream Q&A: Any plans to implement an in-game statistics panel?](./yt--FK6cMdhe18.md) [https://www.youtube.com/watch?v=-FK6cMdhe18](https://www.youtube.com/watch?v=-FK6cMdhe18)
+This question was possibly duplicated with a more recent answer: [April 12th, 2022 Livestream Q&A: Any plans to implement a statistics window?](./yt-CgAOx4N8rZ8.md) [https://www.youtube.com/watch?v=CgAOx4N8rZ8](https://www.youtube.com/watch?v=CgAOx4N8rZ8)
 
 
 ### Topics

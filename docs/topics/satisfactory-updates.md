@@ -18,6 +18,10 @@ date: Last Modified
 * [Teasers & Trailers](../topics/satisfactory-updates/teasers-and-trailers.md)
 * [World Update](../topics/satisfactory-updates/world-update.md)
 
+## April 12th, 2022 Livestream
+* [Q&A: If you could pick the theme of an Update based on where you wanted to film the Patch Notes...](../transcriptions/yt-mJVRad-m-EM.md) [https://www.youtube.com/watch?v=mJVRad-m-EM](https://www.youtube.com/watch?v=mJVRad-m-EM)
+* [Q&A: Has the team decided on a course of action for the next Update?](../transcriptions/yt-pmxkB0r9kjE.md) [https://www.youtube.com/watch?v=pmxkB0r9kjE](https://www.youtube.com/watch?v=pmxkB0r9kjE)
+
 ## April 1st, 2022 Video
 * Snutt & Jace Talk: The next iteration of Satisfactory [https://youtube.com/embed/jAc8Fnj1o9w?autoplay=1&start=1791&end=1853](https://youtube.com/embed/jAc8Fnj1o9w?autoplay=1&start=1791&end=1853)
 

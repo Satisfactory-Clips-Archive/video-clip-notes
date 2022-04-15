@@ -12,6 +12,14 @@ date: Last Modified
 * [Pollution](../../topics/features/requested-features/pollution.md)
 * [Third-person View](../../topics/features/requested-features/third-person-view.md)
 
+## April 12th, 2022 Livestream
+* [Q&A: Tier 8 Recipe to fully automate Power Shard production without the need for Power Slugs?](../../transcriptions/yt-cp9grrUNHAw.md) [https://www.youtube.com/watch?v=cp9grrUNHAw](https://www.youtube.com/watch?v=cp9grrUNHAw)
+* [Q&A: Are controller questions allowed?](../../transcriptions/yt-S1kumeDF79c.md) [https://www.youtube.com/watch?v=S1kumeDF79c](https://www.youtube.com/watch?v=S1kumeDF79c)
+* [Q&A: Are you going to introduce DirectStorage API so we can all go big builds?](../../transcriptions/yt-Tfei4FGfJHA.md) [https://www.youtube.com/watch?v=Tfei4FGfJHA](https://www.youtube.com/watch?v=Tfei4FGfJHA)
+* [Q&A: Any plans to implement a statistics window?](../../transcriptions/yt-CgAOx4N8rZ8.md) [https://www.youtube.com/watch?v=CgAOx4N8rZ8](https://www.youtube.com/watch?v=CgAOx4N8rZ8)
+* [Community FYI: If the Toilet DLC comes with RGB and squatty potty, that's a major win](../../transcriptions/yt-H25bKvud6vo.md) [https://www.youtube.com/watch?v=H25bKvud6vo](https://www.youtube.com/watch?v=H25bKvud6vo)
+* [Q&A: Steam Trains?](../../transcriptions/yt-eORaYqIP14M.md) [https://www.youtube.com/watch?v=eORaYqIP14M](https://www.youtube.com/watch?v=eORaYqIP14M)
+
 ## March 29th, 2022 Livestream
 * [Q&A: Do you guys have plans to add more features to Photo Mode?](../../transcriptions/yt-OmICrCy_Yuc.md) [https://www.youtube.com/watch?v=OmICrCy_Yuc](https://www.youtube.com/watch?v=OmICrCy_Yuc)
 * [Q&A: Has the duping been patched yet?](../../transcriptions/yt-lG4xT5aiqrA.md) [https://www.youtube.com/watch?v=lG4xT5aiqrA](https://www.youtube.com/watch?v=lG4xT5aiqrA)

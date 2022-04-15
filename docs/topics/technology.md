@@ -14,6 +14,9 @@ date: Last Modified
 * [User Interface](../topics/technology/user-interface.md)
 * [Vulkan](../topics/technology/vulkan.md)
 
+## April 12th, 2022 Livestream
+* [Q&A: Are you going to introduce DirectStorage API so we can all go big builds?](../transcriptions/yt-Tfei4FGfJHA.md) [https://www.youtube.com/watch?v=Tfei4FGfJHA](https://www.youtube.com/watch?v=Tfei4FGfJHA)
+
 ## April 8th, 2022 Video
 * [Jace Talk: Google](../transcriptions/yt-o6ao9-UIZIQ,133.56676666666667,153.72023333333334.md) [https://youtube.com/clip/UgkxFUbDnYYPor2eyNUwIOromaxLrB6MqdnG](https://youtube.com/clip/UgkxFUbDnYYPor2eyNUwIOromaxLrB6MqdnG)
 * [Jace Talk: Perforce](../transcriptions/yt-o6ao9-UIZIQ,153.7536,176.4763.md) [https://youtube.com/clip/Ugkx8iRfqt5vYtEJyDOBm39tq7IYm6pwUF7J](https://youtube.com/clip/Ugkx8iRfqt5vYtEJyDOBm39tq7IYm6pwUF7J)

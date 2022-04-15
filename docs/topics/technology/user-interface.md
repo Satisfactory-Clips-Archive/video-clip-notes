@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > User Interface
 * [Holograms](../../topics/technology/user-interface/holograms.md)
 
+## April 12th, 2022 Livestream
+* [Q&A: Any plans to implement a statistics window?](../../transcriptions/yt-CgAOx4N8rZ8.md) [https://www.youtube.com/watch?v=CgAOx4N8rZ8](https://www.youtube.com/watch?v=CgAOx4N8rZ8)
+
 ## March 29th, 2022 Livestream
 * [Q&A: Has the duping been patched yet?](../../transcriptions/yt-lG4xT5aiqrA.md) [https://www.youtube.com/watch?v=lG4xT5aiqrA](https://www.youtube.com/watch?v=lG4xT5aiqrA)
 * [Q&A: Will there be any improved controller support to make it easier?](../../transcriptions/yt-3-nNqXQHZs4.md) [https://www.youtube.com/watch?v=3-nNqXQHZs4](https://www.youtube.com/watch?v=3-nNqXQHZs4)

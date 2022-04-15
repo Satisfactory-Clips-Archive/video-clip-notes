@@ -4,6 +4,7 @@ date: "2021-02-16"
 layout: transcript
 topics:
     - "community"
+    - "embracer-group/coffee-stain-holding/coffee-stain-publishing"
 ---
 # [February 16th, 2021 Livestream](../2021-02-16.md)
 ## Community FYI: Currently I'm a fan of all Coffee Stain Publishing games
@@ -11,6 +12,7 @@ https://www.youtube.com/watch?v=CVej1itsGJI
 
 ### Topics
 * [Community](../topics/community.md)
+* [Embracer Group > Coffee Stain Holding > Coffee Stain Publishing](../topics/embracer-group/coffee-stain-holding/coffee-stain-publishing.md)
 
 ### Transcript
 

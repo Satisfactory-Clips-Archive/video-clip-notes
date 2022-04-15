@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Resources](../../../topics/environment/resources.md) > Power Slug
 
+## April 12th, 2022 Livestream
+* [Q&A: Tier 8 Recipe to fully automate Power Shard production without the need for Power Slugs?](../../../transcriptions/yt-cp9grrUNHAw.md) [https://www.youtube.com/watch?v=cp9grrUNHAw](https://www.youtube.com/watch?v=cp9grrUNHAw)
+
 ## March 18th, 2022 Video
 * [Snutt & Jace Talk: Object Scanner article](../../../transcriptions/yt-VBGakEZilwk,396.46273333333335,444.1437.md) [https://youtube.com/clip/UgkxFybmlO2ujKphxk9ccd-dB9_cjfm1b4qS](https://youtube.com/clip/UgkxFybmlO2ujKphxk9ccd-dB9_cjfm1b4qS)
 

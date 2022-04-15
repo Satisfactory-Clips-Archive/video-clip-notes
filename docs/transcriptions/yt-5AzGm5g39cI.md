@@ -3,14 +3,14 @@ title: "January 26th, 2021 Livestream Q&A: Does Coffee Stain earn commission fro
 date: "2021-01-26"
 layout: transcript
 topics:
-    - ""
+    - "embracer-group/coffee-stain-holding/coffee-stain-publishing"
 ---
 # [January 26th, 2021 Livestream](../2021-01-26.md)
 ## Q&A: Does Coffee Stain earn commission from games published but didn't develop?
 https://www.youtube.com/watch?v=5AzGm5g39cI
 
 ### Topics
-
+* [Embracer Group > Coffee Stain Holding > Coffee Stain Publishing](../topics/embracer-group/coffee-stain-holding/coffee-stain-publishing.md)
 
 ### Transcript
 

@@ -5,6 +5,12 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Embracer Group](../../../topics/embracer-group.md) > Coffee Stain Holding > Coffee Stain Studios
 
+## April 12th, 2022 Livestream
+* [Tools Video FAQ](../../../transcriptions/yt-WaUSBDeZsmc.md) [https://www.youtube.com/watch?v=WaUSBDeZsmc](https://www.youtube.com/watch?v=WaUSBDeZsmc)
+* [Q&A: Do you as a company have a direction for after 1.0?](../../../transcriptions/yt-rjnWYKc03nA.md) [https://www.youtube.com/watch?v=rjnWYKc03nA](https://www.youtube.com/watch?v=rjnWYKc03nA)
+* [Q&A: Has the team decided on a course of action for the next Update?](../../../transcriptions/yt-pmxkB0r9kjE.md) [https://www.youtube.com/watch?v=pmxkB0r9kjE](https://www.youtube.com/watch?v=pmxkB0r9kjE)
+* [Snutt & Jace Talk: 69 Tools Video](../../../transcriptions/yt-1hlG-ctIZ-Y.md) [https://www.youtube.com/watch?v=1hlG-ctIZ-Y](https://www.youtube.com/watch?v=1hlG-ctIZ-Y)
+
 ## March 29th, 2022 Livestream
 * [Q&A: Which development model do you use?](../../../transcriptions/yt-7hBlOnUJmBw.md) [https://www.youtube.com/watch?v=7hBlOnUJmBw](https://www.youtube.com/watch?v=7hBlOnUJmBw)
 
@@ -141,6 +147,9 @@ date: Last Modified
 
 ## January 12th, 2021 Livestream
 * [Q&A: Now that you have big boy office are you planning on hiring a lot more people to fill it out?](../../../transcriptions/yt-iqGA8u7MmMM.md) [https://www.youtube.com/watch?v=iqGA8u7MmMM](https://www.youtube.com/watch?v=iqGA8u7MmMM)
+
+## December 8th, 2020 Livestream
+* [Q&A: Jobs available in Stockholm but not Skövde?](../../../transcriptions/yt-aT2csoqT3MI.md) [https://www.youtube.com/watch?v=aT2csoqT3MI](https://www.youtube.com/watch?v=aT2csoqT3MI)
 
 ## December 1st, 2020 Livestream
 * [Q&A: What would you tell the team to avoid doing in future?](../../../transcriptions/yt-VQtVJwhJrww.md) [https://www.youtube.com/watch?v=VQtVJwhJrww](https://www.youtube.com/watch?v=VQtVJwhJrww)

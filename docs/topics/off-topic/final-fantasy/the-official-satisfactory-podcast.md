@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Off-Topic](../../../topics/off-topic.md) > [Final Fantasy](../../../topics/off-topic/final-fantasy.md) > The Official Satisfactory PODCAST
 
+## April 12th, 2022 Livestream
+* [Community FYI: Thanks for your hard work, the podcast was hilarious](../../../transcriptions/yt-buIM84j2kBo.md) [https://www.youtube.com/watch?v=buIM84j2kBo](https://www.youtube.com/watch?v=buIM84j2kBo)
+
 ## April 5th, 2022 Livestream
 * [State of Dave](../../../transcriptions/yt-biMundmzhdE.md) [https://www.youtube.com/watch?v=biMundmzhdE](https://www.youtube.com/watch?v=biMundmzhdE)
 

@@ -7,6 +7,11 @@ date: Last Modified
 * [Snutt Burger Time](../../topics/coffee-stainers/snutt/snutt-burger-time.md)
 * [Snutty Mays](../../topics/coffee-stainers/snutt/snutty-mays.md)
 
+## April 12th, 2022 Livestream
+* [Q&A: Are there plans to make alternate player models in the AWESOME Shop, i.e. Snutt / Jace models?](../../transcriptions/yt-ozIEEGTX2G4.md) [https://www.youtube.com/watch?v=ozIEEGTX2G4](https://www.youtube.com/watch?v=ozIEEGTX2G4)
+* [Q&A: What other genre of game would you like to create after Satisfactory?](../../transcriptions/yt-v9dldO2fL5M.md) [https://www.youtube.com/watch?v=v9dldO2fL5M](https://www.youtube.com/watch?v=v9dldO2fL5M)
+* [Q&A: If you could pick the theme of an Update based on where you wanted to film the Patch Notes...](../../transcriptions/yt-mJVRad-m-EM.md) [https://www.youtube.com/watch?v=mJVRad-m-EM](https://www.youtube.com/watch?v=mJVRad-m-EM)
+
 ## April 8th, 2022 Video
 * [Jace Talk: Stream Ass-istant](../../transcriptions/yt-o6ao9-UIZIQ,2328.9933333333333,2357.7554.md) [https://youtube.com/clip/UgkxKexsR90eOB4iPozgU_WquXlROIe_0SKi](https://youtube.com/clip/UgkxKexsR90eOB4iPozgU_WquXlROIe_0SKi)
 

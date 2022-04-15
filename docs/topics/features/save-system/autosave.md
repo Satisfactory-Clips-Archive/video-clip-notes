@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Save System](../../../topics/features/save-system.md) > Autosave
 
+## April 12th, 2022 Livestream
+* [Q&A: Do you plan on addressing the auto-save freeze up before 1.0, or at all?](../../../transcriptions/yt-n13Cbh3Jn8Y.md) [https://www.youtube.com/watch?v=n13Cbh3Jn8Y](https://www.youtube.com/watch?v=n13Cbh3Jn8Y)
+
 ## December 7th, 2021 Livestream
 * [Q&A: Change number of autosaves before they overwrite each other?](../../../transcriptions/yt-s2QCfzkFGSQ.md) [https://www.youtube.com/watch?v=s2QCfzkFGSQ](https://www.youtube.com/watch?v=s2QCfzkFGSQ)
 * [Q&A: What happens if someone tries to join during an Autosave pause?](../../../transcriptions/yt-cTUuoRyw6EI.md) [https://www.youtube.com/watch?v=cTUuoRyw6EI](https://www.youtube.com/watch?v=cTUuoRyw6EI)

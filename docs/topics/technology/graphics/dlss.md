@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Technology](../../../topics/technology.md) > [Graphics](../../../topics/technology/graphics.md) > DLSS
 
+## April 12th, 2022 Livestream
+* [Q&A: Are you planning to implement DLSS/FSR?](../../../transcriptions/yt-m6GfDtkUlbQ.md) [https://www.youtube.com/watch?v=m6GfDtkUlbQ](https://www.youtube.com/watch?v=m6GfDtkUlbQ)
+
 ## September 17th, 2021 Video
 * [Q&A: Will you be adding DLSS support?](../../../transcriptions/yt-HJyfSle4o_U,130.96416666666667,185.6855.md) [https://youtube.com/clip/UgkxJt7ivD3SGgOqAlNBbIb_DrHpyDaIOikp](https://youtube.com/clip/UgkxJt7ivD3SGgOqAlNBbIb_DrHpyDaIOikp)
 

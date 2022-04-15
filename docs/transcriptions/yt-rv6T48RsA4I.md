@@ -3,14 +3,14 @@ title: "February 22nd, 2022 Livestream Q&A: Have considered doing a Developer Hi
 date: "2022-02-22"
 layout: transcript
 topics:
-    - ""
+    - "embracer-group/coffee-stain-holding/coffee-stain-publishing"
 ---
 # [February 22nd, 2022 Livestream](../2022-02-22.md)
 ## Q&A: Have considered doing a Developer Highlights-style video for the publishing arm?
 https://www.youtube.com/watch?v=rv6T48RsA4I
 
 ### Topics
-
+* [Embracer Group > Coffee Stain Holding > Coffee Stain Publishing](../topics/embracer-group/coffee-stain-holding/coffee-stain-publishing.md)
 
 ### Transcript
 

@@ -8,7 +8,7 @@ topics:
 # [May 25th, 2021 Livestream](../2021-05-25.md)
 ## Q&A: EU Shop?
 https://www.youtube.com/watch?v=GRcTICKsCGM
-This question was possibly duplicated with a more recent answer: [October 5th, 2021 Livestream Q&A: EU Merch?](./yt-dp0tlXo6TQ0.md) [https://www.youtube.com/watch?v=dp0tlXo6TQ0](https://www.youtube.com/watch?v=dp0tlXo6TQ0)
+This question was possibly duplicated with a more recent answer: [April 12th, 2022 Livestream Q&A: EU Merch status update?](./yt-l9FKieDCBSE.md) [https://www.youtube.com/watch?v=l9FKieDCBSE](https://www.youtube.com/watch?v=l9FKieDCBSE)
 
 
 ### Topics

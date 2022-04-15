@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Environment](../../../../topics/environment.md) > [Biomes](../../../../topics/environment/biomes.md) > Unplanned Biomes > Underwater
 
+## April 12th, 2022 Livestream
+* [Community FYI: Official response from Hannah regarding Underwater Biome: "Play Subnautica"](../../../../transcriptions/yt-b-pDzd-ccsw.md) [https://www.youtube.com/watch?v=b-pDzd-ccsw](https://www.youtube.com/watch?v=b-pDzd-ccsw)
+
 ## March 8th, 2022 Livestream
 * [Q&A: Can you add boats & use the water more?](../../../../transcriptions/yt-iRIAhkRVPoE.md) [https://www.youtube.com/watch?v=iRIAhkRVPoE](https://www.youtube.com/watch?v=iRIAhkRVPoE)
 

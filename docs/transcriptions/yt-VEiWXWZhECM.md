@@ -3,14 +3,14 @@ title: "March 2nd, 2021 Livestream Q&A: Does this channel stick to only games yo
 date: "2021-03-02"
 layout: transcript
 topics:
-    - ""
+    - "embracer-group/coffee-stain-holding/coffee-stain-publishing"
 ---
 # [March 2nd, 2021 Livestream](../2021-03-02.md)
 ## Q&A: Does this channel stick to only games you're making or will there be other Coffee Stain games?
 https://www.youtube.com/watch?v=VEiWXWZhECM
 
 ### Topics
-
+* [Embracer Group > Coffee Stain Holding > Coffee Stain Publishing](../topics/embracer-group/coffee-stain-holding/coffee-stain-publishing.md)
 
 ### Transcript
 

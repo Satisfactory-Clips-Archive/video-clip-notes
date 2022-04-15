@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Trolling
 
+## April 12th, 2022 Livestream
+* [Q&A: Jace, I thought you said April 32nd for the Update?](../transcriptions/yt-__ik24Rn9AU.md) [https://www.youtube.com/watch?v=__ik24Rn9AU](https://www.youtube.com/watch?v=__ik24Rn9AU)
+
 ## April 8th, 2022 Video
 * [Jace Talk: Don't mention Google Translate](../transcriptions/yt-o6ao9-UIZIQ,1925.1565666666668,1959.7244333333333.md) [https://youtube.com/clip/Ugkxi-g58LBpFrG4iC9xMCjgIlrT7TFgj_qJ](https://youtube.com/clip/Ugkxi-g58LBpFrG4iC9xMCjgIlrT7TFgj_qJ)
 

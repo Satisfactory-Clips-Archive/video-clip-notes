@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Deep Rock Galactic
 
+## April 12th, 2022 Livestream
+* [Q&A: How come Coffee Stain produces such absolute bangers like Valheim, Deep Rock, and Satisfactory?](../../transcriptions/yt-DkAFlDyKX8Q.md) [https://www.youtube.com/watch?v=DkAFlDyKX8Q](https://www.youtube.com/watch?v=DkAFlDyKX8Q)
+
 ## November 30th, 2021 Livestream
 * [Q&A: Is Deep Rock Galactic in the same universe as FICSIT?](../../transcriptions/yt-jdGU01HXdBU.md) [https://www.youtube.com/watch?v=jdGU01HXdBU](https://www.youtube.com/watch?v=jdGU01HXdBU)
 

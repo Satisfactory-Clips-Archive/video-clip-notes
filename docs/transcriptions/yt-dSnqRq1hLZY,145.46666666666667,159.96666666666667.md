@@ -8,7 +8,7 @@ topics:
 # [September 9th, 2020 Video](../2020-09-09.md)
 ## Q&A: Why is shipping so expensive (outside of the US)?
 https://youtube.com/embed/dSnqRq1hLZY?autoplay=1&start=145&end=160
-This question was possibly duplicated with a more recent answer: [October 5th, 2021 Livestream Q&A: EU Merch?](./yt-dp0tlXo6TQ0.md) [https://www.youtube.com/watch?v=dp0tlXo6TQ0](https://www.youtube.com/watch?v=dp0tlXo6TQ0)
+This question was possibly duplicated with a more recent answer: [April 12th, 2022 Livestream Q&A: EU Merch status update?](./yt-l9FKieDCBSE.md) [https://www.youtube.com/watch?v=l9FKieDCBSE](https://www.youtube.com/watch?v=l9FKieDCBSE)
 
 
 ### Topics

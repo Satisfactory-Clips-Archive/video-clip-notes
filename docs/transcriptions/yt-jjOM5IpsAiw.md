@@ -3,6 +3,7 @@ title: "October 5th, 2021 Livestream Q&A: I thought Coffee Stain Studios release
 date: "2021-10-05"
 layout: transcript
 topics:
+    - "embracer-group/coffee-stain-holding/coffee-stain-publishing"
     - "embracer-group/coffee-stain-holding/coffee-stain-studios"
     - "off-topic/valheim"
 ---
@@ -18,6 +19,7 @@ https://www.youtube.com/watch?v=jjOM5IpsAiw
 
 
 ### Topics
+* [Embracer Group > Coffee Stain Holding > Coffee Stain Publishing](../topics/embracer-group/coffee-stain-holding/coffee-stain-publishing.md)
 * [Embracer Group > Coffee Stain Holding > Coffee Stain Studios](../topics/embracer-group/coffee-stain-holding/coffee-stain-studios.md)
 * [Off-Topic > Valheim](../topics/off-topic/valheim.md)
 

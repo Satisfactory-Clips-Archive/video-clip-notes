@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Valheim
 
+## April 12th, 2022 Livestream
+* [Q&A: How come Coffee Stain produces such absolute bangers like Valheim, Deep Rock, and Satisfactory?](../../transcriptions/yt-DkAFlDyKX8Q.md) [https://www.youtube.com/watch?v=DkAFlDyKX8Q](https://www.youtube.com/watch?v=DkAFlDyKX8Q)
+
 ## February 8th, 2022 Livestream
 * [Q&A: What do you guys think about Valheim?](../../transcriptions/yt--h5pyZyjDLI.md) [https://www.youtube.com/watch?v=-h5pyZyjDLI](https://www.youtube.com/watch?v=-h5pyZyjDLI)
 

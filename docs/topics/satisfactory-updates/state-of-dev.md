@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > State of Dev
 
+## April 12th, 2022 Livestream
+* [Intro & State of Dave](../../transcriptions/yt-l0QXzVuiGVE.md) [https://www.youtube.com/watch?v=l0QXzVuiGVE](https://www.youtube.com/watch?v=l0QXzVuiGVE)
+* [Q&A: Can you hype us up a bit more for the pre-pre announcement?](../../transcriptions/yt-9YYkdVZOzV8.md) [https://www.youtube.com/watch?v=9YYkdVZOzV8](https://www.youtube.com/watch?v=9YYkdVZOzV8)
+
 ## April 5th, 2022 Livestream
 * [State of Dave](../../transcriptions/yt-biMundmzhdE.md) [https://www.youtube.com/watch?v=biMundmzhdE](https://www.youtube.com/watch?v=biMundmzhdE)
 

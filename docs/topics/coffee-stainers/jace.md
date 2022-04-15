@@ -10,6 +10,13 @@ date: Last Modified
 * [Juice Velvet](../../topics/coffee-stainers/jace/juice-velvet.md)
 * [Robo Jace](../../topics/coffee-stainers/jace/robo-jace.md)
 
+## April 12th, 2022 Livestream
+* [Q&A: Are there plans to make alternate player models in the AWESOME Shop, i.e. Snutt / Jace models?](../../transcriptions/yt-ozIEEGTX2G4.md) [https://www.youtube.com/watch?v=ozIEEGTX2G4](https://www.youtube.com/watch?v=ozIEEGTX2G4)
+* [Q&A: Are we going to hear about the next Update before Jace comes back to Sweden?](../../transcriptions/yt-kuF-g8iD7o8.md) [https://www.youtube.com/watch?v=kuF-g8iD7o8](https://www.youtube.com/watch?v=kuF-g8iD7o8)
+* [Q&A: Any chance we can we have a vtuber dev stream in the future?](../../transcriptions/yt-ko7kOODbhAk.md) [https://www.youtube.com/watch?v=ko7kOODbhAk](https://www.youtube.com/watch?v=ko7kOODbhAk)
+* [Q&A: What other genre of game would you like to create after Satisfactory?](../../transcriptions/yt-v9dldO2fL5M.md) [https://www.youtube.com/watch?v=v9dldO2fL5M](https://www.youtube.com/watch?v=v9dldO2fL5M)
+* [Q&A: If you could pick the theme of an Update based on where you wanted to film the Patch Notes...](../../transcriptions/yt-mJVRad-m-EM.md) [https://www.youtube.com/watch?v=mJVRad-m-EM](https://www.youtube.com/watch?v=mJVRad-m-EM)
+
 ## March 29th, 2022 Livestream
 * [Q&A: If Jace is taking kayaking lessons, will you be taking Jace out exploring with you?](../../transcriptions/yt-1_5o-iJm-NU.md) [https://www.youtube.com/watch?v=1_5o-iJm-NU](https://www.youtube.com/watch?v=1_5o-iJm-NU)
 * [Community FYI: Jace and Snutt go kayaking = Patch Notes video for Ben's river changes](../../transcriptions/yt-G7d6uwMRo0w.md) [https://www.youtube.com/watch?v=G7d6uwMRo0w](https://www.youtube.com/watch?v=G7d6uwMRo0w)

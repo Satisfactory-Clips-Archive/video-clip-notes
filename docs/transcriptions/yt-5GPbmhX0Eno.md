@@ -4,6 +4,7 @@ date: "2020-12-01"
 layout: transcript
 topics:
     - "coffee-stainers/tim"
+    - "embracer-group/coffee-stain-holding/coffee-stain-publishing"
     - "special-guests"
 ---
 # [December 1st, 2020 Livestream](../2020-12-01.md)
@@ -18,6 +19,7 @@ https://www.youtube.com/watch?v=5GPbmhX0Eno
 
 ### Topics
 * [Coffee Stainers > Tim](../topics/coffee-stainers/tim.md)
+* [Embracer Group > Coffee Stain Holding > Coffee Stain Publishing](../topics/embracer-group/coffee-stain-holding/coffee-stain-publishing.md)
 * [Special Guests](../topics/special-guests.md)
 
 ### Transcript

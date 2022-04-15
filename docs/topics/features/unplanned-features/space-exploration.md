@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Unplanned Features](../../../topics/features/unplanned-features.md) > Space Exploration
 
+## April 12th, 2022 Livestream
+* [Q&A: Any plans on making it possible to visit other planets?](../../../transcriptions/yt-mDXCeb2_tUc.md) [https://www.youtube.com/watch?v=mDXCeb2_tUc](https://www.youtube.com/watch?v=mDXCeb2_tUc)
+
 ## October 19th, 2021 Livestream
 * [Community FYI: Update 6, Space Trains](../../../transcriptions/yt-DdIhLIUK-es.md) [https://www.youtube.com/watch?v=DdIhLIUK-es](https://www.youtube.com/watch?v=DdIhLIUK-es)
 

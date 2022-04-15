@@ -7,6 +7,9 @@ date: Last Modified
 * [Flushable Toilet DLC](../../../topics/features/possible-features/dlc/flushable-toilet-dlc.md)
 * [Toilet Paper DLC](../../../topics/features/possible-features/dlc/toilet-paper-dlc.md)
 
+## April 12th, 2022 Livestream
+* [Community FYI: DLC plan per Archive Clips](../../../transcriptions/yt-iqvaeCfbyOc.md) [https://www.youtube.com/watch?v=iqvaeCfbyOc](https://www.youtube.com/watch?v=iqvaeCfbyOc)
+
 ## March 29th, 2022 Livestream
 * [Q&A: Will there be Updates after 1.0?](../../../transcriptions/yt-EjZAdss6k4Q.md) [https://www.youtube.com/watch?v=EjZAdss6k4Q](https://www.youtube.com/watch?v=EjZAdss6k4Q)
 

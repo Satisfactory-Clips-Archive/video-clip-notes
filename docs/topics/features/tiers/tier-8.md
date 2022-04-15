@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Tiers](../../../topics/features/tiers.md) > Tier 8
 
+## April 12th, 2022 Livestream
+* [Q&A: Tier 8 Recipe to fully automate Power Shard production without the need for Power Slugs?](../../../transcriptions/yt-cp9grrUNHAw.md) [https://www.youtube.com/watch?v=cp9grrUNHAw](https://www.youtube.com/watch?v=cp9grrUNHAw)
+
 ## May 4th, 2021 Livestream
 * [Q&A: Is the Golden Cup only a reward in EA, or will there be a final release as well?](../../../transcriptions/yt-T38Lc3xS3BE.md) [https://www.youtube.com/watch?v=T38Lc3xS3BE](https://www.youtube.com/watch?v=T38Lc3xS3BE)
 * [Q&A: Recipes subject to change again?](../../../transcriptions/yt-XY3ul4kOff4.md) [https://www.youtube.com/watch?v=XY3ul4kOff4](https://www.youtube.com/watch?v=XY3ul4kOff4)

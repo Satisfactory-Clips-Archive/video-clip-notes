@@ -8,7 +8,7 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Will there be a european Merch store?
 https://www.youtube.com/watch?v=GhfR61WpR6k
-This question was possibly duplicated with a more recent answer: [October 5th, 2021 Livestream Q&A: EU Merch?](./yt-dp0tlXo6TQ0.md) [https://www.youtube.com/watch?v=dp0tlXo6TQ0](https://www.youtube.com/watch?v=dp0tlXo6TQ0)
+This question was possibly duplicated with a more recent answer: [April 12th, 2022 Livestream Q&A: EU Merch status update?](./yt-l9FKieDCBSE.md) [https://www.youtube.com/watch?v=l9FKieDCBSE](https://www.youtube.com/watch?v=l9FKieDCBSE)
 
 
 ### Topics

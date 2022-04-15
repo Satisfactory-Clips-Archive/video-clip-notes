@@ -5,6 +5,13 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Speculative > Satisfactory Update 6
 
+## April 12th, 2022 Livestream
+* [Intro & State of Dave](../../../transcriptions/yt-l0QXzVuiGVE.md) [https://www.youtube.com/watch?v=l0QXzVuiGVE](https://www.youtube.com/watch?v=l0QXzVuiGVE)
+* [Q&A: Can you hype us up a bit more for the pre-pre announcement?](../../../transcriptions/yt-9YYkdVZOzV8.md) [https://www.youtube.com/watch?v=9YYkdVZOzV8](https://www.youtube.com/watch?v=9YYkdVZOzV8)
+* [Q&A: Are we going to hear about the next Update before Jace comes back to Sweden?](../../../transcriptions/yt-kuF-g8iD7o8.md) [https://www.youtube.com/watch?v=kuF-g8iD7o8](https://www.youtube.com/watch?v=kuF-g8iD7o8)
+* [Q&A: Jace, I thought you said April 32nd for the Update?](../../../transcriptions/yt-__ik24Rn9AU.md) [https://www.youtube.com/watch?v=__ik24Rn9AU](https://www.youtube.com/watch?v=__ik24Rn9AU)
+* [Q&A: Has the team decided on a course of action for the next Update?](../../../transcriptions/yt-pmxkB0r9kjE.md) [https://www.youtube.com/watch?v=pmxkB0r9kjE](https://www.youtube.com/watch?v=pmxkB0r9kjE)
+
 ## April 5th, 2022 Livestream
 * [State of Dave](../../../transcriptions/yt-biMundmzhdE.md) [https://www.youtube.com/watch?v=biMundmzhdE](https://www.youtube.com/watch?v=biMundmzhdE)
 

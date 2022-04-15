@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > Possible Features > Character Customisation
 
+## April 12th, 2022 Livestream
+* [Q&A: Are there plans to make alternate player models in the AWESOME Shop, i.e. Snutt / Jace models?](../../../transcriptions/yt-ozIEEGTX2G4.md) [https://www.youtube.com/watch?v=ozIEEGTX2G4](https://www.youtube.com/watch?v=ozIEEGTX2G4)
+
 ## March 15th, 2022 Livestream
 * [Q&A: Character Customisation?](../../../transcriptions/yt-1a-I7ds_Ipc.md) [https://www.youtube.com/watch?v=1a-I7ds_Ipc](https://www.youtube.com/watch?v=1a-I7ds_Ipc)
 

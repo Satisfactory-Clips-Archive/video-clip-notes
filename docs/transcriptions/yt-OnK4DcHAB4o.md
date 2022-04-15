@@ -9,7 +9,7 @@ topics:
 # [September 29th, 2020 Livestream](../2020-09-29.md)
 ## Q&A: When are we getting a Production Overview in the game?
 https://www.youtube.com/watch?v=OnK4DcHAB4o
-This question was possibly duplicated with a more recent answer: [November 9th, 2021 Livestream Q&A: Any plans to implement an in-game statistics panel?](./yt--FK6cMdhe18.md) [https://www.youtube.com/watch?v=-FK6cMdhe18](https://www.youtube.com/watch?v=-FK6cMdhe18)
+This question was possibly duplicated with a more recent answer: [April 12th, 2022 Livestream Q&A: Any plans to implement a statistics window?](./yt-CgAOx4N8rZ8.md) [https://www.youtube.com/watch?v=CgAOx4N8rZ8](https://www.youtube.com/watch?v=CgAOx4N8rZ8)
 
 
 ### Topics

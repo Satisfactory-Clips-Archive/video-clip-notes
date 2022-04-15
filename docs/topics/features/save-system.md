@@ -7,6 +7,9 @@ date: Last Modified
 * [Autosave](../../topics/features/save-system/autosave.md)
 * [Cloud Sync](../../topics/features/save-system/cloud-sync.md)
 
+## April 12th, 2022 Livestream
+* [Q&A: Do you plan on addressing the auto-save freeze up before 1.0, or at all?](../../transcriptions/yt-n13Cbh3Jn8Y.md) [https://www.youtube.com/watch?v=n13Cbh3Jn8Y](https://www.youtube.com/watch?v=n13Cbh3Jn8Y)
+
 ## March 15th, 2022 Livestream
 * [Q&A: Do you intend to keep compatibility with old saves in 1.0?](../../transcriptions/yt-Jugnbd6aYwQ.md) [https://www.youtube.com/watch?v=Jugnbd6aYwQ](https://www.youtube.com/watch?v=Jugnbd6aYwQ)
 

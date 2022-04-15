@@ -8,7 +8,7 @@ topics:
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Q&A: Do you have an update on the price of delivery fee of Merch?
 https://www.youtube.com/watch?v=mNtdBj-DpK0
-This question was possibly duplicated with a more recent answer: [October 5th, 2021 Livestream Q&A: EU Merch?](./yt-dp0tlXo6TQ0.md) [https://www.youtube.com/watch?v=dp0tlXo6TQ0](https://www.youtube.com/watch?v=dp0tlXo6TQ0)
+This question was possibly duplicated with a more recent answer: [April 12th, 2022 Livestream Q&A: EU Merch status update?](./yt-l9FKieDCBSE.md) [https://www.youtube.com/watch?v=l9FKieDCBSE](https://www.youtube.com/watch?v=l9FKieDCBSE)
 
 
 ### Topics

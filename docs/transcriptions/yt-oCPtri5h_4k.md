@@ -3,6 +3,7 @@ title: "February 8th, 2022 Livestream Q&A: How much of Coffee Stain is working o
 date: "2022-02-08"
 layout: transcript
 topics:
+    - "embracer-group/coffee-stain-holding/coffee-stain-publishing"
     - "embracer-group/coffee-stain-holding/coffee-stain-studios"
 ---
 # [February 8th, 2022 Livestream](../2022-02-08.md)
@@ -16,6 +17,7 @@ https://www.youtube.com/watch?v=oCPtri5h_4k
 
 
 ### Topics
+* [Embracer Group > Coffee Stain Holding > Coffee Stain Publishing](../topics/embracer-group/coffee-stain-holding/coffee-stain-publishing.md)
 * [Embracer Group > Coffee Stain Holding > Coffee Stain Studios](../topics/embracer-group/coffee-stain-holding/coffee-stain-studios.md)
 
 ### Transcript

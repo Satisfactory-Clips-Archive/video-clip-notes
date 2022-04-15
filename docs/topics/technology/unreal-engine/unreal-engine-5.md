@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Technology](../../../topics/technology.md) > [Unreal Engine](../../../topics/technology/unreal-engine.md) > Unreal Engine 5
 
+## April 12th, 2022 Livestream
+* [Q&A: Are you thinking about upgrading to UE5?](../../../transcriptions/yt-X1T0H9QzoMc.md) [https://www.youtube.com/watch?v=X1T0H9QzoMc](https://www.youtube.com/watch?v=X1T0H9QzoMc)
+
 ## March 22nd, 2022 Livestream
 * [Q&A: Would you go with Unreal Engine 5 later?](../../../transcriptions/yt-k3IBcDlRl68.md) [https://www.youtube.com/watch?v=k3IBcDlRl68](https://www.youtube.com/watch?v=k3IBcDlRl68)
 * [Community FYI: Increased Object Limit would be neat](../../../transcriptions/yt-BeA9JlXTV1Y.md) [https://www.youtube.com/watch?v=BeA9JlXTV1Y](https://www.youtube.com/watch?v=BeA9JlXTV1Y)

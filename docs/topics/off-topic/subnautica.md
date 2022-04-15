@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Subnautica
 
+## April 12th, 2022 Livestream
+* [Community FYI: Official response from Hannah regarding Underwater Biome: "Play Subnautica"](../../transcriptions/yt-b-pDzd-ccsw.md) [https://www.youtube.com/watch?v=b-pDzd-ccsw](https://www.youtube.com/watch?v=b-pDzd-ccsw)
+
 ## January 18th, 2022 Livestream
 * [Community FYI: Subnautica had Terraformnig then removed it](../../transcriptions/yt-UvWeICPUSVA.md) [https://www.youtube.com/watch?v=UvWeICPUSVA](https://www.youtube.com/watch?v=UvWeICPUSVA)
 

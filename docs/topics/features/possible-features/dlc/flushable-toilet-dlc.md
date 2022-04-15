@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > Possible Features > [DLC](../../../../topics/features/possible-features/dlc.md) > Flushable Toilet DLC
 
+## April 12th, 2022 Livestream
+* [Q&A: If you could pick the theme of an Update based on where you wanted to film the Patch Notes...](../../../../transcriptions/yt-mJVRad-m-EM.md) [https://www.youtube.com/watch?v=mJVRad-m-EM](https://www.youtube.com/watch?v=mJVRad-m-EM)
+* [Community FYI: If the Toilet DLC comes with RGB and squatty potty, that's a major win](../../../../transcriptions/yt-H25bKvud6vo.md) [https://www.youtube.com/watch?v=H25bKvud6vo](https://www.youtube.com/watch?v=H25bKvud6vo)
+
 ## February 15th, 2022 Livestream
 * [Q&A: Give us the Toilet Flush DLC?](../../../../transcriptions/yt-sLVx5EgfSTs.md) [https://www.youtube.com/watch?v=sLVx5EgfSTs](https://www.youtube.com/watch?v=sLVx5EgfSTs)
 

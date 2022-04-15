@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > AWESOME Store
 
+## April 12th, 2022 Livestream
+* [Q&A: Are there plans to make alternate player models in the AWESOME Shop, i.e. Snutt / Jace models?](../../../transcriptions/yt-ozIEEGTX2G4.md) [https://www.youtube.com/watch?v=ozIEEGTX2G4](https://www.youtube.com/watch?v=ozIEEGTX2G4)
+
 ## March 22nd, 2022 Livestream
 * [Q&A: Minor updates to the AWESOME Shop- corner roof pieces, etc.?](../../../transcriptions/yt-CHeSR2RRNKI.md) [https://www.youtube.com/watch?v=CHeSR2RRNKI](https://www.youtube.com/watch?v=CHeSR2RRNKI)
 

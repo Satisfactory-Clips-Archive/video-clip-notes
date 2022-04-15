@@ -10,7 +10,7 @@ topics:
 # [February 9th, 2021 Livestream](../2021-02-09.md)
 ## Q&A: Do you plan to release on Console one day?
 https://www.youtube.com/watch?v=mS_O_qnXJp0
-This question was possibly duplicated with a more recent answer: March 15th, 2022 Livestream Q&A: Will Console ever come out? [https://www.youtube.com/watch?v=szP1t6ZFKR0](https://www.youtube.com/watch?v=szP1t6ZFKR0)
+This question was possibly duplicated with a more recent answer: [April 12th, 2022 Livestream Q&A: Do you already have plans to go to XBox/PS5?](./yt-xM0G0PWaCnc.md) [https://www.youtube.com/watch?v=xM0G0PWaCnc](https://www.youtube.com/watch?v=xM0G0PWaCnc)
 
 
 ### Topics

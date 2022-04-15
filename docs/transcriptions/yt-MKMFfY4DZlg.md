@@ -9,6 +9,8 @@ topics:
 # [August 10th, 2021 Livestream](../2021-08-10.md)
 ## Q&A: Would it be possible to craft Power Shards with the Particle Accelerator?
 https://www.youtube.com/watch?v=MKMFfY4DZlg
+This question was possibly duplicated with a more recent answer: [April 12th, 2022 Livestream Q&A: Tier 8 Recipe to fully automate Power Shard production without the need for Power Slugs?](./yt-cp9grrUNHAw.md) [https://www.youtube.com/watch?v=cp9grrUNHAw](https://www.youtube.com/watch?v=cp9grrUNHAw)
+
 
 ### Topics
 * [Environment > Resources > Power Slug](../topics/environment/resources/power-slug.md)

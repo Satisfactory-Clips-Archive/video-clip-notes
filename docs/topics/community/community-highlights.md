@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Community Highlights
 
+## April 12th, 2022 Livestream
+* [Q&A: Have you considered putting Community-made stuff in the main menu background?](../../transcriptions/yt-8YhR-3dHy_c.md) [https://www.youtube.com/watch?v=8YhR-3dHy_c](https://www.youtube.com/watch?v=8YhR-3dHy_c)
+
 ## April 5th, 2022 Livestream
 * [Community Highlights - Satisfactory Clips Archive](../../transcriptions/yt-gDEJQRC4a6M.md) [https://www.youtube.com/watch?v=gDEJQRC4a6M](https://www.youtube.com/watch?v=gDEJQRC4a6M)
 

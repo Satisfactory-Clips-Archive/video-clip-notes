@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > [Crafting](../../../../topics/features/crafting.md) > [Recipes](../../../../topics/features/crafting/recipes.md) > Alternate Recipes
 
+## April 12th, 2022 Livestream
+* [Q&A: Tier 8 Recipe to fully automate Power Shard production without the need for Power Slugs?](../../../../transcriptions/yt-cp9grrUNHAw.md) [https://www.youtube.com/watch?v=cp9grrUNHAw](https://www.youtube.com/watch?v=cp9grrUNHAw)
+
 ## April 1st, 2022 Video
 * Snutt & Jace Talk: Alt Recipes [https://youtube.com/embed/jAc8Fnj1o9w?autoplay=1&start=693&end=792](https://youtube.com/embed/jAc8Fnj1o9w?autoplay=1&start=693&end=792)
 

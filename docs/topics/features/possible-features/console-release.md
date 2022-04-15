@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > Possible Features > Console Release
 
+## April 12th, 2022 Livestream
+* [Q&A: Are controller questions allowed?](../../../transcriptions/yt-S1kumeDF79c.md) [https://www.youtube.com/watch?v=S1kumeDF79c](https://www.youtube.com/watch?v=S1kumeDF79c)
+* [Q&A: Do you already have plans to go to XBox/PS5?](../../../transcriptions/yt-xM0G0PWaCnc.md) [https://www.youtube.com/watch?v=xM0G0PWaCnc](https://www.youtube.com/watch?v=xM0G0PWaCnc)
+
 ## March 29th, 2022 Livestream
 * [Q&A: Will there be any improved controller support to make it easier?](../../../transcriptions/yt-3-nNqXQHZs4.md) [https://www.youtube.com/watch?v=3-nNqXQHZs4](https://www.youtube.com/watch?v=3-nNqXQHZs4)
 

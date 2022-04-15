@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Pending > Satisfactory 1.0
 
+## April 12th, 2022 Livestream
+* [Q&A: Are any of the games getting any updates soon or releasing out of Early Access?](../../../transcriptions/yt-R8gAQ9cRFCI.md) [https://www.youtube.com/watch?v=R8gAQ9cRFCI](https://www.youtube.com/watch?v=R8gAQ9cRFCI)
+* [Q&A: Do you plan on addressing the auto-save freeze up before 1.0, or at all?](../../../transcriptions/yt-n13Cbh3Jn8Y.md) [https://www.youtube.com/watch?v=n13Cbh3Jn8Y](https://www.youtube.com/watch?v=n13Cbh3Jn8Y)
+* [Q&A: Do you as a company have a direction for after 1.0?](../../../transcriptions/yt-rjnWYKc03nA.md) [https://www.youtube.com/watch?v=rjnWYKc03nA](https://www.youtube.com/watch?v=rjnWYKc03nA)
+
 ## March 29th, 2022 Livestream
 * [State of Dave](../../../transcriptions/yt-AXh8bvElSWw.md) [https://www.youtube.com/watch?v=AXh8bvElSWw](https://www.youtube.com/watch?v=AXh8bvElSWw)
 * [Q&A: Any tentative timeline when the game would reach 1.0?](../../../transcriptions/yt-yuPw8-uL4NA.md) [https://www.youtube.com/watch?v=yuPw8-uL4NA](https://www.youtube.com/watch?v=yuPw8-uL4NA)

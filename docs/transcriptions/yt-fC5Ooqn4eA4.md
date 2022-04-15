@@ -8,7 +8,7 @@ topics:
 # [June 22nd, 2021 Livestream](../2021-06-22.md)
 ## Q&A: Any plans on making the game multi-planetary?
 https://www.youtube.com/watch?v=fC5Ooqn4eA4
-This question was possibly duplicated with a more recent answer: July 13th, 2021 Livestream Q&A: Will there be another planet? [https://www.youtube.com/watch?v=L4XI-JH7avw](https://www.youtube.com/watch?v=L4XI-JH7avw)
+This question was possibly duplicated with a more recent answer: [April 12th, 2022 Livestream Q&A: Any plans on making it possible to visit other planets?](./yt-mDXCeb2_tUc.md) [https://www.youtube.com/watch?v=mDXCeb2_tUc](https://www.youtube.com/watch?v=mDXCeb2_tUc)
 
 
 ### Topics

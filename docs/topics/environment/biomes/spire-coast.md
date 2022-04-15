@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Biomes](../../../topics/environment/biomes.md) > Spire Coast
 
+## April 12th, 2022 Livestream
+* [Q&A: If you could pick the theme of an Update based on where you wanted to film the Patch Notes...](../../../transcriptions/yt-mJVRad-m-EM.md) [https://www.youtube.com/watch?v=mJVRad-m-EM](https://www.youtube.com/watch?v=mJVRad-m-EM)
+
 ## March 29th, 2022 Livestream
 * [Q&A: Any change for exploration planned?](../../../transcriptions/yt-ytPhU2Nw6Nc.md) [https://www.youtube.com/watch?v=ytPhU2Nw6Nc](https://www.youtube.com/watch?v=ytPhU2Nw6Nc)
 * [Community FYI: Would need at least a month in advance](../../../transcriptions/yt-En0He-CKHn0.md) [https://www.youtube.com/watch?v=En0He-CKHn0](https://www.youtube.com/watch?v=En0He-CKHn0)

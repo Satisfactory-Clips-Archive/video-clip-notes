@@ -3,6 +3,7 @@ title: "February 9th, 2021 Livestream Q&A: Do you have any involvement in the de
 date: "2021-02-09"
 layout: transcript
 topics:
+    - "embracer-group/coffee-stain-holding/coffee-stain-publishing"
     - "off-topic/valheim"
 ---
 # [February 9th, 2021 Livestream](../2021-02-09.md)
@@ -12,6 +13,7 @@ This question was possibly duplicated with a more recent answer: March 2nd, 2021
 
 
 ### Topics
+* [Embracer Group > Coffee Stain Holding > Coffee Stain Publishing](../topics/embracer-group/coffee-stain-holding/coffee-stain-publishing.md)
 * [Off-Topic > Valheim](../topics/off-topic/valheim.md)
 
 ### Transcript

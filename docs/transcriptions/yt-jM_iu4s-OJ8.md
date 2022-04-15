@@ -3,6 +3,7 @@ title: "August 10th, 2021 Livestream Q&A: You're self-publishing, right? Is Sati
 date: "2021-08-10"
 layout: transcript
 topics:
+    - "embracer-group/coffee-stain-holding/coffee-stain-publishing"
     - "embracer-group/coffee-stain-holding/coffee-stain-studios"
 ---
 # [August 10th, 2021 Livestream](../2021-08-10.md)
@@ -10,6 +11,7 @@ topics:
 https://www.youtube.com/watch?v=jM_iu4s-OJ8
 
 ### Topics
+* [Embracer Group > Coffee Stain Holding > Coffee Stain Publishing](../topics/embracer-group/coffee-stain-holding/coffee-stain-publishing.md)
 * [Embracer Group > Coffee Stain Holding > Coffee Stain Studios](../topics/embracer-group/coffee-stain-holding/coffee-stain-studios.md)
 
 ### Transcript

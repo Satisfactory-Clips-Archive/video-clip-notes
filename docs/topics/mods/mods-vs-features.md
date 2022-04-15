@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Mods](../../topics/mods.md) > Mods vs. Features
 
+## April 12th, 2022 Livestream
+* [Q&A: Will you implement some of the Mods that are out there?](../../transcriptions/yt-r7TAr4cDrRE.md) [https://www.youtube.com/watch?v=r7TAr4cDrRE](https://www.youtube.com/watch?v=r7TAr4cDrRE)
+
 ## March 29th, 2022 Livestream
 * [Snutt Talk: If you have opinions of how a Mod changes the game is what the game should have...](../../transcriptions/yt-w4Rg6whLWd4.md) [https://www.youtube.com/watch?v=w4Rg6whLWd4](https://www.youtube.com/watch?v=w4Rg6whLWd4)
 

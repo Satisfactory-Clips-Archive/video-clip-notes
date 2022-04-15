@@ -4,6 +4,7 @@ date: "2021-02-16"
 layout: transcript
 topics:
     - "embracer-group/coffee-stain-holding/coffee-stain-north"
+    - "embracer-group/coffee-stain-holding/coffee-stain-publishing"
     - "embracer-group/coffee-stain-holding/coffee-stain-studios"
     - "embracer-group/coffee-stain-holding/lavapotion"
     - "off-topic/deep-rock-galactic"
@@ -17,6 +18,7 @@ https://www.youtube.com/watch?v=IPtH5E1-31k
 
 ### Topics
 * [Embracer Group > Coffee Stain Holding > Coffee Stain North](../topics/embracer-group/coffee-stain-holding/coffee-stain-north.md)
+* [Embracer Group > Coffee Stain Holding > Coffee Stain Publishing](../topics/embracer-group/coffee-stain-holding/coffee-stain-publishing.md)
 * [Embracer Group > Coffee Stain Holding > Coffee Stain Studios](../topics/embracer-group/coffee-stain-holding/coffee-stain-studios.md)
 * [Embracer Group > Coffee Stain Holding > Lavapotion](../topics/embracer-group/coffee-stain-holding/lavapotion.md)
 * [Off-Topic > Deep Rock Galactic](../topics/off-topic/deep-rock-galactic.md)

@@ -9,6 +9,8 @@ topics:
 # [April 6th, 2021 Livestream](../2021-04-06.md)
 ## Q&A: Would you ever add a way to produce Power Shards?
 https://www.youtube.com/watch?v=57oPRYp61-s
+This question was possibly duplicated with a more recent answer: [April 12th, 2022 Livestream Q&A: Tier 8 Recipe to fully automate Power Shard production without the need for Power Slugs?](./yt-cp9grrUNHAw.md) [https://www.youtube.com/watch?v=cp9grrUNHAw](https://www.youtube.com/watch?v=cp9grrUNHAw)
+
 
 ### Topics
 * [Environment > Resources](../topics/environment/resources.md)

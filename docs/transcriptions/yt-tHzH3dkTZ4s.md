@@ -9,7 +9,7 @@ topics:
 # [January 19th, 2021 Livestream](../2021-01-19.md)
 ## Q&A: Will there be ways to see your total production per minute?
 https://www.youtube.com/watch?v=tHzH3dkTZ4s
-This question was possibly duplicated with a more recent answer: [November 9th, 2021 Livestream Q&A: Any plans to implement an in-game statistics panel?](./yt--FK6cMdhe18.md) [https://www.youtube.com/watch?v=-FK6cMdhe18](https://www.youtube.com/watch?v=-FK6cMdhe18)
+This question was possibly duplicated with a more recent answer: [April 12th, 2022 Livestream Q&A: Any plans to implement a statistics window?](./yt-CgAOx4N8rZ8.md) [https://www.youtube.com/watch?v=CgAOx4N8rZ8](https://www.youtube.com/watch?v=CgAOx4N8rZ8)
 
 
 ### Topics

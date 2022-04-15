@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Requested Features](../../../topics/features/requested-features.md) > Pollution
 
+## April 12th, 2022 Livestream
+* [Q&A: Are you afraid that real-world climate change gets bad enough to impact reception of the game?](../../../transcriptions/yt-uGDYC7GLHKI.md) [https://www.youtube.com/watch?v=uGDYC7GLHKI](https://www.youtube.com/watch?v=uGDYC7GLHKI)
+
 ## February 16th, 2021 Livestream
 * [Q&A: Can we get a CO₂ meter so we can keep track of how badly we screwed the planet?](../../../transcriptions/yt-bjXv7xwwIIA.md) [https://www.youtube.com/watch?v=bjXv7xwwIIA](https://www.youtube.com/watch?v=bjXv7xwwIIA)
 
