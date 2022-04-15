@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildables](../../../topics/features/buildables.md) > Storage Containers
 
+## April 15th, 2022 Video
+* [Snutt & Stefan Talk: Mining Resources & Crafting in Sprint 6](../../../transcriptions/yt-7I3NGAm3j_4,782.1480333333334,1062.275948.md) [https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=782&end=1063](https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=782&end=1063)
+
 ## March 18th, 2022 Video
 * [Snutt & Jace Talk: Unreleased Content article](../../../transcriptions/yt-VBGakEZilwk,589.7892,1115.8480666666667.md) [https://youtube.com/embed/VBGakEZilwk?autoplay=1&start=589&end=1116](https://youtube.com/embed/VBGakEZilwk?autoplay=1&start=589&end=1116)
 

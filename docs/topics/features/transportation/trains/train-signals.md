@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > Transportation > [Trains](../../../../topics/features/transportation/trains.md) > Train Signals
 
+## April 15th, 2022 Video
+* [Snutt & Stefan Talk: Trains in Sprint 23](../../../../transcriptions/yt-7I3NGAm3j_4,1904.9363666666668,1969.1338333333333.md) [https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=1904&end=1970](https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=1904&end=1970)
+
 ## November 19th, 2021 Video
 * [Jace Talk: Block visualisation for Train rails](../../../../transcriptions/yt-cn3e-m4a-hU,266.6997666666667,299.2656333333333.md) [https://youtube.com/clip/UgkxWrsPPwpj4oNSAVI6M1eZ__J34DHpYO7r](https://youtube.com/clip/UgkxWrsPPwpj4oNSAVI6M1eZ__J34DHpYO7r)
 

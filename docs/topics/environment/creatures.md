@@ -10,6 +10,10 @@ date: Last Modified
 * [Non Flying Bird](../../topics/environment/creatures/non-flying-bird.md)
 * [Space Giraffe-Tick-Penguin-Whale Thing](../../topics/environment/creatures/space-giraffe-tick-penguin-whale-thing.md)
 
+## April 15th, 2022 Video
+* [Snutt & Stefan Talk: Creatures in Sprint 6](../../transcriptions/yt-7I3NGAm3j_4,663.9966666666667,691.691.md) [https://youtube.com/clip/UgkxrPmSQoN5MNNqrD8hyJerS6x5UJX-Mli9](https://youtube.com/clip/UgkxrPmSQoN5MNNqrD8hyJerS6x5UJX-Mli9)
+* [Snutt & Stefan Talk: User Interface changes in Sprint 23](../../transcriptions/yt-7I3NGAm3j_4,1770.4687000000001,1810.3752333333334.md) [https://youtube.com/clip/Ugkx-IiJMzwECTknr2SucU7ufUkkxaYaY_sx](https://youtube.com/clip/Ugkx-IiJMzwECTknr2SucU7ufUkkxaYaY_sx)
+
 ## March 18th, 2022 Video
 * [Snutt & Jace Talk: Stinger article](../../transcriptions/yt-VBGakEZilwk,157.69086666666666,396.4293666666667.md) [https://youtube.com/embed/VBGakEZilwk?autoplay=1&start=157&end=397](https://youtube.com/embed/VBGakEZilwk?autoplay=1&start=157&end=397)
 * [Snutt & Jace Talk: Lake Shark article](../../transcriptions/yt-VBGakEZilwk,514.8476666666667,563.7632.md) [https://youtube.com/clip/UgkxUEo-S03-1d33dALjpwfKrOQGwZotPioM](https://youtube.com/clip/UgkxUEo-S03-1d33dALjpwfKrOQGwZotPioM)

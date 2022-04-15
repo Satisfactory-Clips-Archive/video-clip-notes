@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Features](../../topics/features.md) > Gases
 
+## April 15th, 2022 Video
+* [Snutt & Stefan Talk: Environment in Sprint 8](../../transcriptions/yt-7I3NGAm3j_4,1147.5130333333334,1180.179.md) [https://youtube.com/clip/UgkxC1NQmYgHo3tHKd_XZkptr04YktBytnce](https://youtube.com/clip/UgkxC1NQmYgHo3tHKd_XZkptr04YktBytnce)
+
 ## July 13th, 2021 Livestream
 * [Q&A: Will we ever be able to remove or destroy Poison Pillars?](../../transcriptions/yt-pkKMsKoH6y4.md) [https://www.youtube.com/watch?v=pkKMsKoH6y4](https://www.youtube.com/watch?v=pkKMsKoH6y4)
 

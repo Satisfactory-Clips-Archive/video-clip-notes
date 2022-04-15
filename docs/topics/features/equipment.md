@@ -20,6 +20,12 @@ date: Last Modified
 * [Xeno-Zapper](../../topics/features/equipment/xeno-zapper.md)
 * [Zip Lines](../../topics/features/equipment/zip-lines.md)
 
+## April 15th, 2022 Video
+* [Snutt & Stefan Talk: Build Menu in Sprint 3](../../transcriptions/yt-7I3NGAm3j_4,322.1218,377.621266.md) [https://youtube.com/clip/UgkxjRfbjSnFDobtxbd4UB3a_qnhHr1B2xDO](https://youtube.com/clip/UgkxjRfbjSnFDobtxbd4UB3a_qnhHr1B2xDO)
+* [Snutt & Stefan Talk: Sprint 6](../../transcriptions/yt-7I3NGAm3j_4,544.4772666666667,586.3524333333334.md) [https://youtube.com/clip/UgkxJlhjBBTmsHqjVptIYvN2cjH3sIJiIaqe](https://youtube.com/clip/UgkxJlhjBBTmsHqjVptIYvN2cjH3sIJiIaqe)
+* [Snutt & Stefan Talk: Equipment in Sprint 8](../../transcriptions/yt-7I3NGAm3j_4,1085.8514333333333,1147.4796666666666.md) [https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=1085&end=1148](https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=1085&end=1148)
+* [Snutt & Stefan Talk: Portable Miner in Sprint 12](../../transcriptions/yt-7I3NGAm3j_4,1405.6042,1441.2398.md) [https://youtube.com/clip/UgkxNBwawt4SbcVQjWzx5VWB_3EtAPnJovA1](https://youtube.com/clip/UgkxNBwawt4SbcVQjWzx5VWB_3EtAPnJovA1)
+
 ## March 29th, 2022 Livestream
 * [Q&A: Will the shooter aspect of Satisfactory become stronger- you said there would be bosses?](../../transcriptions/yt-2O6KzVNYDE0.md) [https://www.youtube.com/watch?v=2O6KzVNYDE0](https://www.youtube.com/watch?v=2O6KzVNYDE0)
 * [Q&A: Will we be able to mount the Rebar Gun on top of a buggy?](../../transcriptions/yt-DVXbH_LG2Y4.md) [https://www.youtube.com/watch?v=DVXbH_LG2Y4](https://www.youtube.com/watch?v=DVXbH_LG2Y4)

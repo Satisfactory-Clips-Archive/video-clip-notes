@@ -12,6 +12,9 @@ date: Last Modified
 * [Tractor](../../../topics/features/transportation/vehicles/tractor.md)
 * [Truck](../../../topics/features/transportation/vehicles/truck.md)
 
+## April 15th, 2022 Video
+* [Snutt & Stefan Talk: Vehicles in Sprint 12](../../../transcriptions/yt-7I3NGAm3j_4,1216.0481666666667,1247.6797666666666.md) [https://youtube.com/clip/UgkxrqokJcKOHPc4eiTHXgc3iAnBBfotSV64](https://youtube.com/clip/UgkxrqokJcKOHPc4eiTHXgc3iAnBBfotSV64)
+
 ## March 29th, 2022 Livestream
 * [Q&A: Can you add the ability to ride a Truck in Autopilot?](../../../transcriptions/yt-LQ1TStNUY7A.md) [https://www.youtube.com/watch?v=LQ1TStNUY7A](https://www.youtube.com/watch?v=LQ1TStNUY7A)
 

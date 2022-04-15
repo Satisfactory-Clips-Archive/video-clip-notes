@@ -22,6 +22,11 @@ date: Last Modified
 * [Walls](../../topics/features/buildables/walls.md)
 * [Windows](../../topics/features/buildables/windows.md)
 
+## April 15th, 2022 Video
+* [Snutt & Stefan Talk: Trophies in Sprint 20](../../transcriptions/yt-7I3NGAm3j_4,1717.5825333333335,1741.5064333333335.md) [https://youtube.com/clip/Ugkx4LcOBxeMk-cQDChIbIuSVSjdA6LZHCrd](https://youtube.com/clip/Ugkx4LcOBxeMk-cQDChIbIuSVSjdA6LZHCrd)
+* [Snutt Talk: Stamina Bar in Sprint 23](../../transcriptions/yt-7I3NGAm3j_4,1810.4086,1832.6975333333335.md) [https://youtube.com/clip/UgkxaV2fKQ94qu6kjaiA3a-FBPsLSnhVkzGH](https://youtube.com/clip/UgkxaV2fKQ94qu6kjaiA3a-FBPsLSnhVkzGH)
+* [Snutt & Jace Talk: Decor in Sprint 26](../../transcriptions/yt-7I3NGAm3j_4,2244.6424,2285.6500333333333.md) [https://youtube.com/clip/UgkxfxGzx-UW5rY1UN-kFjxqRifFrnuzkkUZ](https://youtube.com/clip/UgkxfxGzx-UW5rY1UN-kFjxqRifFrnuzkkUZ)
+
 ## March 8th, 2022 Livestream
 * [Q&A: Will you ever add more Doors?](../../transcriptions/yt-HIfo7k0OGqE.md) [https://www.youtube.com/watch?v=HIfo7k0OGqE](https://www.youtube.com/watch?v=HIfo7k0OGqE)
 

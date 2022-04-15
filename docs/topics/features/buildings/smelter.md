@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > Smelter
 
+## April 15th, 2022 Video
+* [Snutt & Stefan Talk: Mining Resources & Crafting in Sprint 6](../../../transcriptions/yt-7I3NGAm3j_4,782.1480333333334,1062.275948.md) [https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=782&end=1063](https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=782&end=1063)
+* [Snutt & Stefan Talk: Resource nodes & Crafting in Sprint 26](../../../transcriptions/yt-7I3NGAm3j_4,2046.4777666666666,2143.4413.md) [https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=2046&end=2144](https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=2046&end=2144)
+
 ## July 20th, 2021 Livestream
 * [Q&A: Which Update will you be able to smelt limestone?](../../../transcriptions/yt-5yAXcjunHOs.md) [https://www.youtube.com/watch?v=5yAXcjunHOs](https://www.youtube.com/watch?v=5yAXcjunHOs)
 * [Q&A: Are you gonna add Glass material so you can smelt that limestone node?](../../../transcriptions/yt-6jozauxOEbc.md) [https://www.youtube.com/watch?v=6jozauxOEbc](https://www.youtube.com/watch?v=6jozauxOEbc)

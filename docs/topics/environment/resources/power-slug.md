@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Resources](../../../topics/environment/resources.md) > Power Slug
 
+## April 15th, 2022 Video
+* [Snutt & Stefan Talk: Tech Onion in Sprint 26](../../../transcriptions/yt-7I3NGAm3j_4,2169.8343333333332,2195.2597333333333.md) [https://youtube.com/clip/UgkxWrPz5IBI2hF-LaUQ25gojcPA-tD3w6Fs](https://youtube.com/clip/UgkxWrPz5IBI2hF-LaUQ25gojcPA-tD3w6Fs)
+
 ## April 12th, 2022 Livestream
 * [Q&A: Tier 8 Recipe to fully automate Power Shard production without the need for Power Slugs?](../../../transcriptions/yt-cp9grrUNHAw.md) [https://www.youtube.com/watch?v=cp9grrUNHAw](https://www.youtube.com/watch?v=cp9grrUNHAw)
 

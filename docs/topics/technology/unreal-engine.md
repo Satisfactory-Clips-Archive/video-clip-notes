@@ -9,6 +9,9 @@ date: Last Modified
 * [Object Limit](../../topics/technology/unreal-engine/object-limit.md)
 * [Unreal Engine 5](../../topics/technology/unreal-engine/unreal-engine-5.md)
 
+## April 15th, 2022 Video
+* [Snutt & Stefan Talk: Sprint 1](../../transcriptions/yt-7I3NGAm3j_4,143.51003333333333,223.112196.md) [https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=143&end=224](https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=143&end=224)
+
 ## April 8th, 2022 Video
 * [Jace Talk: Unreal Engine 4 (Part 1)](../../transcriptions/yt-o6ao9-UIZIQ,103.93716666666667,133.5334.md) [https://youtube.com/clip/UgkxidAarRVATlSr5B6iAeDwRGHGb8LtxXw4](https://youtube.com/clip/UgkxidAarRVATlSr5B6iAeDwRGHGb8LtxXw4)
 * [Q&A: Do your programs use C++ or Blueprints?](../../transcriptions/yt-o6ao9-UIZIQ,275.8756,308.6750333333333.md) [https://youtube.com/clip/UgkxPMNT3hI6yP1QwEdl_6D1Vb8drM52CfKu](https://youtube.com/clip/UgkxPMNT3hI6yP1QwEdl_6D1Vb8drM52CfKu)

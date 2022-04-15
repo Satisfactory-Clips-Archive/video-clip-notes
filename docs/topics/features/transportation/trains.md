@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > Transportation > Trains
 * [Train Signals](../../../topics/features/transportation/trains/train-signals.md)
 
+## April 15th, 2022 Video
+* [Snutt & Stefan Talk: Trains in Sprint 23](../../../transcriptions/yt-7I3NGAm3j_4,1904.9363666666668,1969.1338333333333.md) [https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=1904&end=1970](https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=1904&end=1970)
+
 ## April 12th, 2022 Livestream
 * [Q&A: Steam Trains?](../../../transcriptions/yt-eORaYqIP14M.md) [https://www.youtube.com/watch?v=eORaYqIP14M](https://www.youtube.com/watch?v=eORaYqIP14M)
 

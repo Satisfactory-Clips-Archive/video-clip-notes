@@ -6,6 +6,23 @@ date: Last Modified
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > User Interface
 * [Holograms](../../topics/technology/user-interface/holograms.md)
 
+## April 15th, 2022 Video
+* [Snutt & Stefan Talk: Sprint 1](../../transcriptions/yt-7I3NGAm3j_4,143.51003333333333,223.112196.md) [https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=143&end=224](https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=143&end=224)
+* [Snutt & Stefan Talk: Build Menu in Sprint 3](../../transcriptions/yt-7I3NGAm3j_4,322.1218,377.621266.md) [https://youtube.com/clip/UgkxjRfbjSnFDobtxbd4UB3a_qnhHr1B2xDO](https://youtube.com/clip/UgkxjRfbjSnFDobtxbd4UB3a_qnhHr1B2xDO)
+* [Snutt & Stefan Talk: Work Bench](../../transcriptions/yt-7I3NGAm3j_4,691.7243666666667,782.1146666666667.md) [https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=691&end=783](https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=691&end=783)
+* [Snutt Talk: User Interface in Sprint 8](../../transcriptions/yt-7I3NGAm3j_4,1064.6636,1085.823997.md) [https://youtube.com/clip/UgkxGCcgP9mNYUMtUtgEPcgJYFDByJFnlSRl](https://youtube.com/clip/UgkxGCcgP9mNYUMtUtgEPcgJYFDByJFnlSRl)
+* [Snutt & Stefan Talk: Equipment in Sprint 8](../../transcriptions/yt-7I3NGAm3j_4,1085.8514333333333,1147.4796666666666.md) [https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=1085&end=1148](https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=1085&end=1148)
+* [Snutt & Stefan Talk: The HUB in Sprint 12](../../transcriptions/yt-7I3NGAm3j_4,1277.4428333333333,1315.775938.md) [https://youtube.com/clip/UgkxuSAy1W8_uG0zz5VtDqne60L1C1JnCsLQ](https://youtube.com/clip/UgkxuSAy1W8_uG0zz5VtDqne60L1C1JnCsLQ)
+* [Snutt & Stefan Talk: Trading Post in Sprint 20](../../transcriptions/yt-7I3NGAm3j_4,1497.8630333333333,1600.1652333333334.md) [https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=1497&end=1601](https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=1497&end=1601)
+* [Snutt & Stefan Talk: User Interface changes in Sprint 23](../../transcriptions/yt-7I3NGAm3j_4,1770.4687000000001,1810.3752333333334.md) [https://youtube.com/clip/Ugkx-IiJMzwECTknr2SucU7ufUkkxaYaY_sx](https://youtube.com/clip/Ugkx-IiJMzwECTknr2SucU7ufUkkxaYaY_sx)
+* [Snutt Talk: Stamina Bar in Sprint 23](../../transcriptions/yt-7I3NGAm3j_4,1810.4086,1832.6975333333335.md) [https://youtube.com/clip/UgkxaV2fKQ94qu6kjaiA3a-FBPsLSnhVkzGH](https://youtube.com/clip/UgkxaV2fKQ94qu6kjaiA3a-FBPsLSnhVkzGH)
+* [Snutt & Stefan Talk: Summary of changes in Sprint 23](../../transcriptions/yt-7I3NGAm3j_4,1832.7309,1904.903.md) [https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=1832&end=1905](https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=1832&end=1905)
+* [Snutt & Stefan Talk: User Interface & Graphics changes in Sprint 26](../../transcriptions/yt-7I3NGAm3j_4,1978.7768,2012.9109.md) [https://youtube.com/clip/UgkxNmzo0L4eEY5dA6xQxl9sG_97NZIMymx8](https://youtube.com/clip/UgkxNmzo0L4eEY5dA6xQxl9sG_97NZIMymx8)
+* [Snutt & Stefan Talk: Resource nodes & Crafting in Sprint 26](../../transcriptions/yt-7I3NGAm3j_4,2046.4777666666666,2143.4413.md) [https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=2046&end=2144](https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=2046&end=2144)
+* [Snutt Talk: Mining mini-game](../../transcriptions/yt-7I3NGAm3j_4,2143.4746666666665,2157.8223333333335.md) [https://youtube.com/clip/UgkxawPpd0eb7YA0WlrN8LpGMx6HEB8EGHuZ](https://youtube.com/clip/UgkxawPpd0eb7YA0WlrN8LpGMx6HEB8EGHuZ)
+* [Snutt & Stefan Talk: Tech Onion in Sprint 26](../../transcriptions/yt-7I3NGAm3j_4,2169.8343333333332,2195.2597333333333.md) [https://youtube.com/clip/UgkxWrPz5IBI2hF-LaUQ25gojcPA-tD3w6Fs](https://youtube.com/clip/UgkxWrPz5IBI2hF-LaUQ25gojcPA-tD3w6Fs)
+* [Snutt & Stefan Talk: Production lines in Sprint 26](../../transcriptions/yt-7I3NGAm3j_4,2195.2931,2244.609033333333.md) [https://youtube.com/clip/Ugkxr_fFZM8eyGqirhpjPJz2NHUFKXSmK47j](https://youtube.com/clip/Ugkxr_fFZM8eyGqirhpjPJz2NHUFKXSmK47j)
+
 ## April 12th, 2022 Livestream
 * [Q&A: Any plans to implement a statistics window?](../../transcriptions/yt-CgAOx4N8rZ8.md) [https://www.youtube.com/watch?v=CgAOx4N8rZ8](https://www.youtube.com/watch?v=CgAOx4N8rZ8)
 

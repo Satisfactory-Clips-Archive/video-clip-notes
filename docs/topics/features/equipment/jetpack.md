@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Equipment](../../../topics/features/equipment.md) > Jetpack
 
+## April 15th, 2022 Video
+* [Snutt & Stefan Talk: Sprint 3](../../../transcriptions/yt-7I3NGAm3j_4,295.9957,322.08843333333334.md) [https://youtube.com/clip/UgkxYqGxjZhFEaf3O7kb2SaF67rZ_uLGGxQM](https://youtube.com/clip/UgkxYqGxjZhFEaf3O7kb2SaF67rZ_uLGGxQM)
+
 ## March 1st, 2022 Livestream
 * [Q&A: Any plans to make a Jetpack/Blade Runner combo?](../../../transcriptions/yt-7boFnv3DaWI.md) [https://www.youtube.com/watch?v=7boFnv3DaWI](https://www.youtube.com/watch?v=7boFnv3DaWI)
 

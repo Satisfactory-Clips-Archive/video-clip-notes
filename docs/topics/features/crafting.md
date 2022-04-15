@@ -8,6 +8,9 @@ date: Last Modified
 * [Recipes](../../topics/features/crafting/recipes.md)
 * [Superposition Oscillator](../../topics/features/crafting/superposition-oscillator.md)
 
+## April 15th, 2022 Video
+* [Snutt & Stefan Talk: Work Bench](../../transcriptions/yt-7I3NGAm3j_4,691.7243666666667,782.1146666666667.md) [https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=691&end=783](https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=691&end=783)
+
 ## February 8th, 2022 Livestream
 * [Q&A: Are there any plans to add Alt Recipes for items that currently have none?](../../transcriptions/yt--9ItyjhW4Gs.md) [https://www.youtube.com/watch?v=-9ItyjhW4Gs](https://www.youtube.com/watch?v=-9ItyjhW4Gs)
 

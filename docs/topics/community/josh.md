@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Josh
 
+## April 15th, 2022 Video
+* [Snutt & Stefan Talk: Sprint 2](../../transcriptions/yt-7I3NGAm3j_4,247.0468,295.96233333333333.md) [https://youtube.com/clip/UgkxBbDwyKi_LtDsndgZbr98gzofrL1g1aVu](https://youtube.com/clip/UgkxBbDwyKi_LtDsndgZbr98gzofrL1g1aVu)
+
 ## November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary
 * [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 59)](../../transcriptions/yt-uPDk0K7nm-o.md) [https://www.youtube.com/watch?v=uPDk0K7nm-o](https://www.youtube.com/watch?v=uPDk0K7nm-o)
 * [Q&A: Maybe do a voiceover for one of Josh's videos?](../../transcriptions/yt-C903038rHqU.md) [https://www.youtube.com/watch?v=C903038rHqU](https://www.youtube.com/watch?v=C903038rHqU)

@@ -5,6 +5,12 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildables](../../../topics/features/buildables.md) > Conveyor Belts
 
+## April 15th, 2022 Video
+* [Snutt & Stefan Talk: Sprint 2](../../../transcriptions/yt-7I3NGAm3j_4,247.0468,295.96233333333333.md) [https://youtube.com/clip/UgkxBbDwyKi_LtDsndgZbr98gzofrL1g1aVu](https://youtube.com/clip/UgkxBbDwyKi_LtDsndgZbr98gzofrL1g1aVu)
+* [Snutt & Stefan Talk: Assembly lines in Sprint 3](../../../transcriptions/yt-7I3NGAm3j_4,409.8761333333333,477.3101666666667.md) [https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=409&end=478](https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=409&end=478)
+* [Snutt & Stefan Talk: Mining Resources & Crafting in Sprint 6](../../../transcriptions/yt-7I3NGAm3j_4,782.1480333333334,1062.275948.md) [https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=782&end=1063](https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=782&end=1063)
+* [Snutt & Stefan Talk: Equipment in Sprint 8](../../../transcriptions/yt-7I3NGAm3j_4,1085.8514333333333,1147.4796666666666.md) [https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=1085&end=1148](https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=1085&end=1148)
+
 ## March 29th, 2022 Livestream
 * [Q&A: Add in a reverse function on Belts like you did with Lifts?](../../../transcriptions/yt-pN08CYnMRKs.md) [https://www.youtube.com/watch?v=pN08CYnMRKs](https://www.youtube.com/watch?v=pN08CYnMRKs)
 

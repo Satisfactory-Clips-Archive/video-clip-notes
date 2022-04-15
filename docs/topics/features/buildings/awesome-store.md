@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > AWESOME Store
 
+## April 15th, 2022 Video
+* [Snutt & Stefan Talk: Progression in Sprint 12](../../../transcriptions/yt-7I3NGAm3j_4,1315.8145,1405.5708333333334.md) [https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=1315&end=1406](https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=1315&end=1406)
+
 ## April 12th, 2022 Livestream
 * [Q&A: Are there plans to make alternate player models in the AWESOME Shop, i.e. Snutt / Jace models?](../../../transcriptions/yt-ozIEEGTX2G4.md) [https://www.youtube.com/watch?v=ozIEEGTX2G4](https://www.youtube.com/watch?v=ozIEEGTX2G4)
 

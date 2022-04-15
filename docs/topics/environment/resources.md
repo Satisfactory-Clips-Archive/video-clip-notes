@@ -14,6 +14,16 @@ date: Last Modified
 * [Steel](../../topics/environment/resources/steel.md)
 * [Water](../../topics/environment/resources/water.md)
 
+## April 15th, 2022 Video
+* [Snutt & Stefan Talk: Build Menu in Sprint 3](../../transcriptions/yt-7I3NGAm3j_4,322.1218,377.621266.md) [https://youtube.com/clip/UgkxjRfbjSnFDobtxbd4UB3a_qnhHr1B2xDO](https://youtube.com/clip/UgkxjRfbjSnFDobtxbd4UB3a_qnhHr1B2xDO)
+* [Snutt & Stefan Talk: Assembly lines in Sprint 3](../../transcriptions/yt-7I3NGAm3j_4,409.8761333333333,477.3101666666667.md) [https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=409&end=478](https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=409&end=478)
+* [Snutt & Stefan Talk: Procedural generation in Sprint 6](../../transcriptions/yt-7I3NGAm3j_4,586.3858,663.950534.md) [https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=586&end=664](https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=586&end=664)
+* [Snutt & Stefan Talk: Mining Resources & Crafting in Sprint 6](../../transcriptions/yt-7I3NGAm3j_4,782.1480333333334,1062.275948.md) [https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=782&end=1063](https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=782&end=1063)
+* [Snutt & Stefan Talk: Finite Resources in Sprint 8](../../transcriptions/yt-7I3NGAm3j_4,1180.2123666666666,1212.6114.md) [https://youtube.com/clip/UgkxLsDXmCKXlC-yjBFjbAxKzWioYDXpiIgE](https://youtube.com/clip/UgkxLsDXmCKXlC-yjBFjbAxKzWioYDXpiIgE)
+* [Snutt & Stefan Talk: User Interface & Graphics changes in Sprint 26](../../transcriptions/yt-7I3NGAm3j_4,1978.7768,2012.9109.md) [https://youtube.com/clip/UgkxNmzo0L4eEY5dA6xQxl9sG_97NZIMymx8](https://youtube.com/clip/UgkxNmzo0L4eEY5dA6xQxl9sG_97NZIMymx8)
+* [Snutt & Stefan Talk: Resource nodes & Crafting in Sprint 26](../../transcriptions/yt-7I3NGAm3j_4,2046.4777666666666,2143.4413.md) [https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=2046&end=2144](https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=2046&end=2144)
+* [Snutt Talk: Mining mini-game](../../transcriptions/yt-7I3NGAm3j_4,2143.4746666666665,2157.8223333333335.md) [https://youtube.com/clip/UgkxawPpd0eb7YA0WlrN8LpGMx6HEB8EGHuZ](https://youtube.com/clip/UgkxawPpd0eb7YA0WlrN8LpGMx6HEB8EGHuZ)
+
 ## March 29th, 2022 Livestream
 * [Q&A: Has the duping been patched yet?](../../transcriptions/yt-lG4xT5aiqrA.md) [https://www.youtube.com/watch?v=lG4xT5aiqrA](https://www.youtube.com/watch?v=lG4xT5aiqrA)
 * [Q&A: What's your favourite Resource to set up?](../../transcriptions/yt-f8XQHfPTy4k.md) [https://www.youtube.com/watch?v=f8XQHfPTy4k](https://www.youtube.com/watch?v=f8XQHfPTy4k)

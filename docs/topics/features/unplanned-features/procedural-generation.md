@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Unplanned Features](../../../topics/features/unplanned-features.md) > Procedural Generation
 
+## April 15th, 2022 Video
+* [Snutt & Stefan Talk: Procedural generation in Sprint 6](../../../transcriptions/yt-7I3NGAm3j_4,586.3858,663.950534.md) [https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=586&end=664](https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=586&end=664)
+* [Snutt & Stefan Talk: Mining Resources & Crafting in Sprint 6](../../../transcriptions/yt-7I3NGAm3j_4,782.1480333333334,1062.275948.md) [https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=782&end=1063](https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=782&end=1063)
+
 ## February 22nd, 2022 Livestream
 * [Q&A: Will you add randomised worlds in the future?](../../../transcriptions/yt-EDjLXUUbXKg.md) [https://www.youtube.com/watch?v=EDjLXUUbXKg](https://www.youtube.com/watch?v=EDjLXUUbXKg)
 

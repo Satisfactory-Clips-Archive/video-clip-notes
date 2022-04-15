@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > Possible Features > Decor
 
+## April 15th, 2022 Video
+* [Snutt & Jace Talk: Decor in Sprint 26](../../../transcriptions/yt-7I3NGAm3j_4,2244.6424,2285.6500333333333.md) [https://youtube.com/clip/UgkxfxGzx-UW5rY1UN-kFjxqRifFrnuzkkUZ](https://youtube.com/clip/UgkxfxGzx-UW5rY1UN-kFjxqRifFrnuzkkUZ)
+
 ## March 8th, 2022 Livestream
 * [Q&A: Can you add some flower & plant cosmetic stuff?](../../../transcriptions/yt-RotDytRFNIA.md) [https://www.youtube.com/watch?v=RotDytRFNIA](https://www.youtube.com/watch?v=RotDytRFNIA)
 

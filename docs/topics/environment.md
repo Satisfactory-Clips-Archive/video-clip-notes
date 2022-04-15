@@ -11,6 +11,12 @@ date: Last Modified
 * [Resources](../topics/environment/resources.md)
 * [World Map](../topics/environment/world-map.md)
 
+## April 15th, 2022 Video
+* [Snutt & Stefan Talk: Sprint 3](../transcriptions/yt-7I3NGAm3j_4,295.9957,322.08843333333334.md) [https://youtube.com/clip/UgkxYqGxjZhFEaf3O7kb2SaF67rZ_uLGGxQM](https://youtube.com/clip/UgkxYqGxjZhFEaf3O7kb2SaF67rZ_uLGGxQM)
+* [Snutt & Stefan Talk: Sprint 6](../transcriptions/yt-7I3NGAm3j_4,544.4772666666667,586.3524333333334.md) [https://youtube.com/clip/UgkxJlhjBBTmsHqjVptIYvN2cjH3sIJiIaqe](https://youtube.com/clip/UgkxJlhjBBTmsHqjVptIYvN2cjH3sIJiIaqe)
+* [Snutt & Stefan Talk: Environment in Sprint 8](../transcriptions/yt-7I3NGAm3j_4,1147.5130333333334,1180.179.md) [https://youtube.com/clip/UgkxC1NQmYgHo3tHKd_XZkptr04YktBytnce](https://youtube.com/clip/UgkxC1NQmYgHo3tHKd_XZkptr04YktBytnce)
+* [Snutt & Stefan Talk: Third-person View in Sprint 20](../transcriptions/yt-7I3NGAm3j_4,1441.2731666666666,1497.8296666666668.md) [https://youtube.com/clip/UgkxBN5lOz1DGFDrjtF92njJq8rTGb_SeLdl](https://youtube.com/clip/UgkxBN5lOz1DGFDrjtF92njJq8rTGb_SeLdl)
+
 ## March 29th, 2022 Livestream
 * [Community FYI: Jace and Snutt go kayaking = Patch Notes video for Ben's river changes](../transcriptions/yt-G7d6uwMRo0w.md) [https://www.youtube.com/watch?v=G7d6uwMRo0w](https://www.youtube.com/watch?v=G7d6uwMRo0w)
 * [Q&A: Any change for exploration planned?](../transcriptions/yt-ytPhU2Nw6Nc.md) [https://www.youtube.com/watch?v=ytPhU2Nw6Nc](https://www.youtube.com/watch?v=ytPhU2Nw6Nc)

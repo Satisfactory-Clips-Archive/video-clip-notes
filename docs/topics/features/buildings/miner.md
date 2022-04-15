@@ -5,6 +5,14 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > Miner
 
+## April 15th, 2022 Video
+* [Snutt & Stefan Talk: Sprint 1](../../../transcriptions/yt-7I3NGAm3j_4,143.51003333333333,223.112196.md) [https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=143&end=224](https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=143&end=224)
+* [Snutt & Stefan Talk: Sprint 2](../../../transcriptions/yt-7I3NGAm3j_4,247.0468,295.96233333333333.md) [https://youtube.com/clip/UgkxBbDwyKi_LtDsndgZbr98gzofrL1g1aVu](https://youtube.com/clip/UgkxBbDwyKi_LtDsndgZbr98gzofrL1g1aVu)
+* [Snutt & Stefan Talk: Assembly lines in Sprint 3](../../../transcriptions/yt-7I3NGAm3j_4,409.8761333333333,477.3101666666667.md) [https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=409&end=478](https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=409&end=478)
+* [Snutt & Stefan Talk: Mining Resources & Crafting in Sprint 6](../../../transcriptions/yt-7I3NGAm3j_4,782.1480333333334,1062.275948.md) [https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=782&end=1063](https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=782&end=1063)
+* [Snutt & Stefan Talk: Portable Miner in Sprint 12](../../../transcriptions/yt-7I3NGAm3j_4,1405.6042,1441.2398.md) [https://youtube.com/clip/UgkxNBwawt4SbcVQjWzx5VWB_3EtAPnJovA1](https://youtube.com/clip/UgkxNBwawt4SbcVQjWzx5VWB_3EtAPnJovA1)
+* [Snutt & Stefan Talk: Resource nodes & Crafting in Sprint 26](../../../transcriptions/yt-7I3NGAm3j_4,2046.4777666666666,2143.4413.md) [https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=2046&end=2144](https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=2046&end=2144)
+
 ## March 8th, 2022 Livestream
 * [Q&A: Will there be any Mk.6 Belts?](../../../transcriptions/yt-eTfr0KIE6xs.md) [https://www.youtube.com/watch?v=eTfr0KIE6xs](https://www.youtube.com/watch?v=eTfr0KIE6xs)
 

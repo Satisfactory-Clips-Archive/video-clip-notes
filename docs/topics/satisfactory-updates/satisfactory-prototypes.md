@@ -4,6 +4,19 @@ external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEq-eP01Lynsg2Jv-
 date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > Satisfactory Prototypes
+* [Sprint 1](../../topics/satisfactory-updates/satisfactory-prototypes/sprint-1.md)
+* [Sprint 2](../../topics/satisfactory-updates/satisfactory-prototypes/sprint-2.md)
+* [Sprint 3](../../topics/satisfactory-updates/satisfactory-prototypes/sprint-3.md)
+* [Sprint 6](../../topics/satisfactory-updates/satisfactory-prototypes/sprint-6.md)
+* [Sprint 8](../../topics/satisfactory-updates/satisfactory-prototypes/sprint-8.md)
+* [Sprint 12](../../topics/satisfactory-updates/satisfactory-prototypes/sprint-12.md)
+* [Sprint 20](../../topics/satisfactory-updates/satisfactory-prototypes/sprint-20.md)
+* [Sprint 23](../../topics/satisfactory-updates/satisfactory-prototypes/sprint-23.md)
+* [Sprint 26](../../topics/satisfactory-updates/satisfactory-prototypes/sprint-26.md)
+
+## April 15th, 2022 Video
+* [Snutt & Stefan Talk: Satisfactory started in a game jam](../../transcriptions/yt-7I3NGAm3j_4,70.2702,107.54076666666667.md) [https://youtube.com/clip/UgkxgZsYzyq7e-TSZh6QMZRMnCuHTCuMAMnn](https://youtube.com/clip/UgkxgZsYzyq7e-TSZh6QMZRMnCuHTCuMAMnn)
+* [Snutt Talk: Mining mini-game](../../transcriptions/yt-7I3NGAm3j_4,2143.4746666666665,2157.8223333333335.md) [https://youtube.com/clip/UgkxawPpd0eb7YA0WlrN8LpGMx6HEB8EGHuZ](https://youtube.com/clip/UgkxawPpd0eb7YA0WlrN8LpGMx6HEB8EGHuZ)
 
 ## March 18th, 2022 Video
 * [Snutt & Jace Talk: Unreleased Content article](../../transcriptions/yt-VBGakEZilwk,589.7892,1115.8480666666667.md) [https://youtube.com/embed/VBGakEZilwk?autoplay=1&start=589&end=1116](https://youtube.com/embed/VBGakEZilwk?autoplay=1&start=589&end=1116)

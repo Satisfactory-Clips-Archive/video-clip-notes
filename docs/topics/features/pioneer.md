@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Features](../../topics/features.md) > Pioneer
 
+## April 15th, 2022 Video
+* [Snutt & Stefan Talk: Vehicles in Sprint 12](../../transcriptions/yt-7I3NGAm3j_4,1216.0481666666667,1247.6797666666666.md) [https://youtube.com/clip/UgkxrqokJcKOHPc4eiTHXgc3iAnBBfotSV64](https://youtube.com/clip/UgkxrqokJcKOHPc4eiTHXgc3iAnBBfotSV64)
+* [Snutt & Stefan Talk: Third-person View in Sprint 20](../../transcriptions/yt-7I3NGAm3j_4,1441.2731666666666,1497.8296666666668.md) [https://youtube.com/clip/UgkxBN5lOz1DGFDrjtF92njJq8rTGb_SeLdl](https://youtube.com/clip/UgkxBN5lOz1DGFDrjtF92njJq8rTGb_SeLdl)
+* [Snutt Talk: Third-person View toggle in Sprint 26](../../transcriptions/yt-7I3NGAm3j_4,2157.8557,2169.8009666666667.md) [https://youtube.com/clip/Ugkx_1fGehibbPlY_JwAxaIi00z7wGzmC87A](https://youtube.com/clip/Ugkx_1fGehibbPlY_JwAxaIi00z7wGzmC87A)
+
 ## March 1st, 2022 Livestream
 * [Q&A: Why don't Trains kill people or rag doll?](../../transcriptions/yt-IGwr-vvp3Nk.md) [https://www.youtube.com/watch?v=IGwr-vvp3Nk](https://www.youtube.com/watch?v=IGwr-vvp3Nk)
 

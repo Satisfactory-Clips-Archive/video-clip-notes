@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Nathalie
 
+## April 15th, 2022 Video
+* [Snutt & Stefan Talk: The HUB in Sprint 12](../../transcriptions/yt-7I3NGAm3j_4,1277.4428333333333,1315.775938.md) [https://youtube.com/clip/UgkxuSAy1W8_uG0zz5VtDqne60L1C1JnCsLQ](https://youtube.com/clip/UgkxuSAy1W8_uG0zz5VtDqne60L1C1JnCsLQ)
+
 ## March 15th, 2022 Livestream
 * [Q&A: Whose cats were used for Arachnophobia Mode?](../../transcriptions/yt-f2soWvNwS-g.md) [https://www.youtube.com/watch?v=f2soWvNwS-g](https://www.youtube.com/watch?v=f2soWvNwS-g)
 

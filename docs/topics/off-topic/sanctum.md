@@ -5,6 +5,13 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Sanctum
 
+## April 15th, 2022 Video
+* [Snutt & Stefan Talk: Sprint 6](../../transcriptions/yt-7I3NGAm3j_4,544.4772666666667,586.3524333333334.md) [https://youtube.com/clip/UgkxJlhjBBTmsHqjVptIYvN2cjH3sIJiIaqe](https://youtube.com/clip/UgkxJlhjBBTmsHqjVptIYvN2cjH3sIJiIaqe)
+* [Snutt & Stefan Talk: Creatures in Sprint 6](../../transcriptions/yt-7I3NGAm3j_4,663.9966666666667,691.691.md) [https://youtube.com/clip/UgkxrPmSQoN5MNNqrD8hyJerS6x5UJX-Mli9](https://youtube.com/clip/UgkxrPmSQoN5MNNqrD8hyJerS6x5UJX-Mli9)
+* [Snutt & Stefan Talk: Equipment in Sprint 8](../../transcriptions/yt-7I3NGAm3j_4,1085.8514333333333,1147.4796666666666.md) [https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=1085&end=1148](https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=1085&end=1148)
+* [Snutt & Stefan Talk: Trading Post in Sprint 20](../../transcriptions/yt-7I3NGAm3j_4,1497.8630333333333,1600.1652333333334.md) [https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=1497&end=1601](https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=1497&end=1601)
+* [Snutt & Stefan Talk: Summary of changes in Sprint 23](../../transcriptions/yt-7I3NGAm3j_4,1832.7309,1904.903.md) [https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=1832&end=1905](https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=1832&end=1905)
+
 ## February 15th, 2022 Livestream
 * [Q&A: What's your own personal favourite Coffee Stain game?](../../transcriptions/yt-Fw4aLzCIYHo.md) [https://www.youtube.com/watch?v=Fw4aLzCIYHo](https://www.youtube.com/watch?v=Fw4aLzCIYHo)
 

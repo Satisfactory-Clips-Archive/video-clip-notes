@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Stefan
 
+## April 15th, 2022 Video
+* [Snutt's video assistant](../../transcriptions/yt-7I3NGAm3j_4,26.552238,70.23683333333334.md) [https://youtube.com/clip/Ugkx0kXVPjE2eL1bh1gz6YqbBQAqO-WLPDFv](https://youtube.com/clip/Ugkx0kXVPjE2eL1bh1gz6YqbBQAqO-WLPDFv)
+* [Snutt & Stefan Talk: User Interface changes in Sprint 23](../../transcriptions/yt-7I3NGAm3j_4,1770.4687000000001,1810.3752333333334.md) [https://youtube.com/clip/Ugkx-IiJMzwECTknr2SucU7ufUkkxaYaY_sx](https://youtube.com/clip/Ugkx-IiJMzwECTknr2SucU7ufUkkxaYaY_sx)
+
 ## April 8th, 2022 Video
 * [Q&A: What tools does the CEO use?](../../transcriptions/yt-o6ao9-UIZIQ,2361.5592,2382.113066666667.md) [https://youtube.com/clip/Ugkxul_nK84L-3UFQ3UajKVje662NS7-BWfE](https://youtube.com/clip/Ugkxul_nK84L-3UFQ3UajKVje662NS7-BWfE)
 

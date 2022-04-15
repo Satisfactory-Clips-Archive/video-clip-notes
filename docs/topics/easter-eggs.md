@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Easter Eggs
 
+## April 15th, 2022 Video
+* [Snutt & Stefan Talk: Trophies in Sprint 20](../transcriptions/yt-7I3NGAm3j_4,1717.5825333333335,1741.5064333333335.md) [https://youtube.com/clip/Ugkx4LcOBxeMk-cQDChIbIuSVSjdA6LZHCrd](https://youtube.com/clip/Ugkx4LcOBxeMk-cQDChIbIuSVSjdA6LZHCrd)
+
 ## March 18th, 2022 Video
 * [Snutt & Jace Talk: Easter Eggs article](../transcriptions/yt-VBGakEZilwk,1293.2586333333334,1400.4991.md) [https://youtube.com/embed/VBGakEZilwk?autoplay=1&start=1293&end=1401](https://youtube.com/embed/VBGakEZilwk?autoplay=1&start=1293&end=1401)
 

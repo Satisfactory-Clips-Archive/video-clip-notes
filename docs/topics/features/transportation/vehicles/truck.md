@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > Transportation > [Vehicles](../../../../topics/features/transportation/vehicles.md) > Truck
 
+## April 15th, 2022 Video
+* [Snutt Talk: Truck Stations in Sprint 23](../../../../transcriptions/yt-7I3NGAm3j_4,1969.1672,1978.7434333333333.md) [https://youtube.com/clip/UgkxqOqH6Yxgq8DL1QR9ubRwabA3l8IIrDwf](https://youtube.com/clip/UgkxqOqH6Yxgq8DL1QR9ubRwabA3l8IIrDwf)
+
 ## March 29th, 2022 Livestream
 * [Q&A: Can you add the ability to ride a Truck in Autopilot?](../../../../transcriptions/yt-LQ1TStNUY7A.md) [https://www.youtube.com/watch?v=LQ1TStNUY7A](https://www.youtube.com/watch?v=LQ1TStNUY7A)
 

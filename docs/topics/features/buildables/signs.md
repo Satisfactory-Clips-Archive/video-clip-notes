@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildables](../../../topics/features/buildables.md) > Signs
 
+## April 15th, 2022 Video
+* [Snutt & Stefan Talk: Trains in Sprint 23](../../../transcriptions/yt-7I3NGAm3j_4,1904.9363666666668,1969.1338333333333.md) [https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=1904&end=1970](https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=1904&end=1970)
+
 ## March 22nd, 2022 Livestream
 * [Q&A: Video on feature creep, please?](../../../transcriptions/yt-Jk2c2e7gM6I.md) [https://www.youtube.com/watch?v=Jk2c2e7gM6I](https://www.youtube.com/watch?v=Jk2c2e7gM6I)
 

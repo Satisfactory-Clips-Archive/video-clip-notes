@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Technology](../../../topics/technology.md) > [User Interface](../../../topics/technology/user-interface.md) > Holograms
 
+## April 15th, 2022 Video
+* [Snutt & Stefan Talk: Build Menu in Sprint 3](../../../transcriptions/yt-7I3NGAm3j_4,322.1218,377.621266.md) [https://youtube.com/clip/UgkxjRfbjSnFDobtxbd4UB3a_qnhHr1B2xDO](https://youtube.com/clip/UgkxjRfbjSnFDobtxbd4UB3a_qnhHr1B2xDO)
+* [Snutt & Stefan Talk: Mining Resources & Crafting in Sprint 6](../../../transcriptions/yt-7I3NGAm3j_4,782.1480333333334,1062.275948.md) [https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=782&end=1063](https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=782&end=1063)
+
 ## October 15th, 2021 Video
 * [Jace Talk: You can now modify Hologram colours to your liking](../../../transcriptions/yt-jTIAMuPqSlI,369.9028666666667,396.86313333333334.md) [https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=369&end=397](https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=369&end=397)
 

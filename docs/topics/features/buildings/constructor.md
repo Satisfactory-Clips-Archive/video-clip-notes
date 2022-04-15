@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > Constructor
 
+## April 15th, 2022 Video
+* [Snutt & Stefan Talk: Mining Resources & Crafting in Sprint 6](../../../transcriptions/yt-7I3NGAm3j_4,782.1480333333334,1062.275948.md) [https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=782&end=1063](https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=782&end=1063)
+
 ## March 22nd, 2022 Livestream
 * [Snutt & Jace Talk: Satisfactory Constructor Lego Set](../../../transcriptions/yt-120i4hEezfY.md) [https://www.youtube.com/watch?v=120i4hEezfY](https://www.youtube.com/watch?v=120i4hEezfY)
 * [Q&A: With 10k are they going to make the Lego set?](../../../transcriptions/yt-uVSEWzl4MDA.md) [https://www.youtube.com/watch?v=uVSEWzl4MDA](https://www.youtube.com/watch?v=uVSEWzl4MDA)

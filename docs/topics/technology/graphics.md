@@ -9,6 +9,10 @@ date: Last Modified
 * [Ray Tracing](../../topics/technology/graphics/ray-tracing.md)
 * [Ultrawide Monitors](../../topics/technology/graphics/ultrawide-monitors.md)
 
+## April 15th, 2022 Video
+* [Snutt & Stefan Talk: User Interface & Graphics changes in Sprint 26](../../transcriptions/yt-7I3NGAm3j_4,1978.7768,2012.9109.md) [https://youtube.com/clip/UgkxNmzo0L4eEY5dA6xQxl9sG_97NZIMymx8](https://youtube.com/clip/UgkxNmzo0L4eEY5dA6xQxl9sG_97NZIMymx8)
+* [Snutt & Stefan Talk: Production lines in Sprint 26](../../transcriptions/yt-7I3NGAm3j_4,2195.2931,2244.609033333333.md) [https://youtube.com/clip/Ugkxr_fFZM8eyGqirhpjPJz2NHUFKXSmK47j](https://youtube.com/clip/Ugkxr_fFZM8eyGqirhpjPJz2NHUFKXSmK47j)
+
 ## April 12th, 2022 Livestream
 * [Q&A: Are you planning to implement DLSS/FSR?](../../transcriptions/yt-m6GfDtkUlbQ.md) [https://www.youtube.com/watch?v=m6GfDtkUlbQ](https://www.youtube.com/watch?v=m6GfDtkUlbQ)
 

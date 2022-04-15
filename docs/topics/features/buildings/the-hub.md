@@ -5,6 +5,12 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > The HUB
 
+## April 15th, 2022 Video
+* [Snutt & Stefan Talk: The HUB in Sprint 12](../../../transcriptions/yt-7I3NGAm3j_4,1277.4428333333333,1315.775938.md) [https://youtube.com/clip/UgkxuSAy1W8_uG0zz5VtDqne60L1C1JnCsLQ](https://youtube.com/clip/UgkxuSAy1W8_uG0zz5VtDqne60L1C1JnCsLQ)
+* [Snutt & Stefan Talk: Progression in Sprint 12](../../../transcriptions/yt-7I3NGAm3j_4,1315.8145,1405.5708333333334.md) [https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=1315&end=1406](https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=1315&end=1406)
+* [Snutt & Stefan Talk: Trading Post in Sprint 20](../../../transcriptions/yt-7I3NGAm3j_4,1497.8630333333333,1600.1652333333334.md) [https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=1497&end=1601](https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=1497&end=1601)
+* [Snutt & Stefan Talk: Resource nodes & Crafting in Sprint 26](../../../transcriptions/yt-7I3NGAm3j_4,2046.4777666666666,2143.4413.md) [https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=2046&end=2144](https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=2046&end=2144)
+
 ## March 22nd, 2022 Livestream
 * [Q&A: Will the office in The HUB ever be more useful?](../../../transcriptions/yt-tBqA3rA2lZA.md) [https://www.youtube.com/watch?v=tBqA3rA2lZA](https://www.youtube.com/watch?v=tBqA3rA2lZA)
 

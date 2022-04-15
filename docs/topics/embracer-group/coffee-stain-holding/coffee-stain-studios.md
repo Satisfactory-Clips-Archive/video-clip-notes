@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Embracer Group](../../../topics/embracer-group.md) > Coffee Stain Holding > Coffee Stain Studios
 
+## April 15th, 2022 Video
+* [Stefan Talk: This is what a team of 16 people could do in 2 weeks](../../../transcriptions/yt-7I3NGAm3j_4,223.15626666666668,247.01343333333332.md) [https://youtube.com/clip/UgkxMGxYc-pJBD5XlyOOPZyYZHWdWQCpaCS_](https://youtube.com/clip/UgkxMGxYc-pJBD5XlyOOPZyYZHWdWQCpaCS_)
+
 ## April 12th, 2022 Livestream
 * [Tools Video FAQ](../../../transcriptions/yt-WaUSBDeZsmc.md) [https://www.youtube.com/watch?v=WaUSBDeZsmc](https://www.youtube.com/watch?v=WaUSBDeZsmc)
 * [Q&A: Do you as a company have a direction for after 1.0?](../../../transcriptions/yt-rjnWYKc03nA.md) [https://www.youtube.com/watch?v=rjnWYKc03nA](https://www.youtube.com/watch?v=rjnWYKc03nA)

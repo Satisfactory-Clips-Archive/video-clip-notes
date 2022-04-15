@@ -16,6 +16,11 @@ date: Last Modified
 * [Tier 9](../../topics/features/tiers/tier-9.md)
 * [Tier 10](../../topics/features/tiers/tier-10.md)
 
+## April 15th, 2022 Video
+* [Snutt & Stefan Talk: Progression in Sprint 12](../../transcriptions/yt-7I3NGAm3j_4,1315.8145,1405.5708333333334.md) [https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=1315&end=1406](https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=1315&end=1406)
+* [Snutt & Stefan Talk: Trading Post in Sprint 20](../../transcriptions/yt-7I3NGAm3j_4,1497.8630333333333,1600.1652333333334.md) [https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=1497&end=1601](https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=1497&end=1601)
+* [Snutt & Stefan Talk: Tech Onion in Sprint 26](../../transcriptions/yt-7I3NGAm3j_4,2169.8343333333332,2195.2597333333333.md) [https://youtube.com/clip/UgkxWrPz5IBI2hF-LaUQ25gojcPA-tD3w6Fs](https://youtube.com/clip/UgkxWrPz5IBI2hF-LaUQ25gojcPA-tD3w6Fs)
+
 ## March 8th, 2022 Livestream
 * [Q&A: How many more Tiers are planned in future development?](../../transcriptions/yt-gg0SE9FSwfM.md) [https://www.youtube.com/watch?v=gg0SE9FSwfM](https://www.youtube.com/watch?v=gg0SE9FSwfM)
 

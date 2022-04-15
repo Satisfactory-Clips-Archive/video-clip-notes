@@ -446,7 +446,6 @@ date: Last Modified
 
 # [Satisfactory Updates](./topics/satisfactory-updates.md)
 * [State of Dev](./topics/satisfactory-updates/state-of-dev.md)
-* [Satisfactory Prototypes](./topics/satisfactory-updates/satisfactory-prototypes.md)
 * [Pre-Alpha](./topics/satisfactory-updates/pre-alpha.md)
 * [Satisfactory 2017](./topics/satisfactory-updates/satisfactory-2017.md)
 * [Modular Build](./topics/satisfactory-updates/modular-build.md)
@@ -475,6 +474,18 @@ date: Last Modified
 * [Update 5 Challenge Run](./topics/satisfactory-updates/teasers-and-trailers/update-5-launch-stream/challenge-run.md)
 * [Update 5 Final Countdown](./topics/satisfactory-updates/teasers-and-trailers/update-5-launch-stream/its-the-final-countdown.md)
 * [Update 5 Revealed](./topics/satisfactory-updates/teasers-and-trailers/update-5-launch-stream/update-5-revealed.md)
+---
+
+## [Satisfactory Prototypes](./topics/satisfactory-updates/satisfactory-prototypes.md)
+* [Sprint 1](./topics/satisfactory-updates/satisfactory-prototypes/sprint-1.md)
+* [Sprint 2](./topics/satisfactory-updates/satisfactory-prototypes/sprint-2.md)
+* [Sprint 3](./topics/satisfactory-updates/satisfactory-prototypes/sprint-3.md)
+* [Sprint 6](./topics/satisfactory-updates/satisfactory-prototypes/sprint-6.md)
+* [Sprint 8](./topics/satisfactory-updates/satisfactory-prototypes/sprint-8.md)
+* [Sprint 12](./topics/satisfactory-updates/satisfactory-prototypes/sprint-12.md)
+* [Sprint 20](./topics/satisfactory-updates/satisfactory-prototypes/sprint-20.md)
+* [Sprint 23](./topics/satisfactory-updates/satisfactory-prototypes/sprint-23.md)
+* [Sprint 26](./topics/satisfactory-updates/satisfactory-prototypes/sprint-26.md)
 ---
 
 ## [Seasonal Events](./topics/satisfactory-updates/seasonal-events.md)

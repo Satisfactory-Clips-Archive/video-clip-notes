@@ -6,6 +6,12 @@ date: Last Modified
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Crafting](../../../topics/features/crafting.md) > Recipes
 * [Alternate Recipes](../../../topics/features/crafting/recipes/alternate-recipes.md)
 
+## April 15th, 2022 Video
+* [Snutt & Stefan Talk: Assembly lines in Sprint 3](../../../transcriptions/yt-7I3NGAm3j_4,409.8761333333333,477.3101666666667.md) [https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=409&end=478](https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=409&end=478)
+* [Snutt & Stefan Talk: The core gameplay loop in Sprint 3](../../../transcriptions/yt-7I3NGAm3j_4,494.56073333333336,544.4439.md) [https://youtube.com/clip/UgkxZiaxmIYNVDuHgsevIaUR54c-1E53Oz0U](https://youtube.com/clip/UgkxZiaxmIYNVDuHgsevIaUR54c-1E53Oz0U)
+* [Snutt & Stefan Talk: Mining Resources & Crafting in Sprint 6](../../../transcriptions/yt-7I3NGAm3j_4,782.1480333333334,1062.275948.md) [https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=782&end=1063](https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=782&end=1063)
+* [Snutt & Stefan Talk: Finite Resources in Sprint 8](../../../transcriptions/yt-7I3NGAm3j_4,1180.2123666666666,1212.6114.md) [https://youtube.com/clip/UgkxLsDXmCKXlC-yjBFjbAxKzWioYDXpiIgE](https://youtube.com/clip/UgkxLsDXmCKXlC-yjBFjbAxKzWioYDXpiIgE)
+
 ## March 1st, 2022 Livestream
 * [Q&A: Feature where you can see what Recipe something is used in?](../../../transcriptions/yt-7YSWmdpt3I0.md) [https://www.youtube.com/watch?v=7YSWmdpt3I0](https://www.youtube.com/watch?v=7YSWmdpt3I0)
 

@@ -26,6 +26,16 @@ date: Last Modified
 * [The HUB](../../topics/features/buildings/the-hub.md)
 * [Water Extractor](../../topics/features/buildings/water-extractor.md)
 
+## April 15th, 2022 Video
+* [Snutt & Stefan Talk: Assembly lines in Sprint 3](../../transcriptions/yt-7I3NGAm3j_4,409.8761333333333,477.3101666666667.md) [https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=409&end=478](https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=409&end=478)
+* [Snutt & Stefan Talk: The core gameplay loop in Sprint 3](../../transcriptions/yt-7I3NGAm3j_4,494.56073333333336,544.4439.md) [https://youtube.com/clip/UgkxZiaxmIYNVDuHgsevIaUR54c-1E53Oz0U](https://youtube.com/clip/UgkxZiaxmIYNVDuHgsevIaUR54c-1E53Oz0U)
+* [Snutt & Stefan Talk: Work Bench](../../transcriptions/yt-7I3NGAm3j_4,691.7243666666667,782.1146666666667.md) [https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=691&end=783](https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=691&end=783)
+* [Snutt & Stefan Talk: Finite Resources in Sprint 8](../../transcriptions/yt-7I3NGAm3j_4,1180.2123666666666,1212.6114.md) [https://youtube.com/clip/UgkxLsDXmCKXlC-yjBFjbAxKzWioYDXpiIgE](https://youtube.com/clip/UgkxLsDXmCKXlC-yjBFjbAxKzWioYDXpiIgE)
+* [Snutt & Stefan Talk: Building changes in Sprint 20](../../transcriptions/yt-7I3NGAm3j_4,1614.1792333333333,1673.3383333333334.md) [https://youtube.com/clip/UgkxkNwDqcqIoCK4fGAc3VSJKf4dzSn_C90b](https://youtube.com/clip/UgkxkNwDqcqIoCK4fGAc3VSJKf4dzSn_C90b)
+* [Snutt Talk: Truck Stations in Sprint 23](../../transcriptions/yt-7I3NGAm3j_4,1969.1672,1978.7434333333333.md) [https://youtube.com/clip/UgkxqOqH6Yxgq8DL1QR9ubRwabA3l8IIrDwf](https://youtube.com/clip/UgkxqOqH6Yxgq8DL1QR9ubRwabA3l8IIrDwf)
+* [Snutt & Stefan Talk: Resource nodes & Crafting in Sprint 26](../../transcriptions/yt-7I3NGAm3j_4,2046.4777666666666,2143.4413.md) [https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=2046&end=2144](https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=2046&end=2144)
+* [Snutt & Stefan Talk: Production lines in Sprint 26](../../transcriptions/yt-7I3NGAm3j_4,2195.2931,2244.609033333333.md) [https://youtube.com/clip/Ugkxr_fFZM8eyGqirhpjPJz2NHUFKXSmK47j](https://youtube.com/clip/Ugkxr_fFZM8eyGqirhpjPJz2NHUFKXSmK47j)
+
 ## March 22nd, 2022 Livestream
 * [Q&A: Is there going to be a copy & paste function?](../../transcriptions/yt-eObleNCQCp4.md) [https://www.youtube.com/watch?v=eObleNCQCp4](https://www.youtube.com/watch?v=eObleNCQCp4)
 * [Q&A: Would be cool to be able to copy & paste from a distance](../../transcriptions/yt-VtDPmxElNt8.md) [https://www.youtube.com/watch?v=VtDPmxElNt8](https://www.youtube.com/watch?v=VtDPmxElNt8)

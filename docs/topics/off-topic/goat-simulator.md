@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Goat Simulator
 
+## April 15th, 2022 Video
+* [Snutt & Stefan Talk: Goat Simulator also started in a game jam](../../transcriptions/yt-7I3NGAm3j_4,107.57413333333334,143.47666666666666.md) [https://youtube.com/clip/UgkxlFbop3RaPOLed6E1hgDNIdd-fvYeqDiS](https://youtube.com/clip/UgkxlFbop3RaPOLed6E1hgDNIdd-fvYeqDiS)
+
 ## February 15th, 2022 Livestream
 * [Q&A: What's your own personal favourite Coffee Stain game?](../../transcriptions/yt-Fw4aLzCIYHo.md) [https://www.youtube.com/watch?v=Fw4aLzCIYHo](https://www.youtube.com/watch?v=Fw4aLzCIYHo)
 * [Q&A: Will you add a Goat to honour Goat Simulator?](../../transcriptions/yt-sy-UO8evFeM.md) [https://www.youtube.com/watch?v=sy-UO8evFeM](https://www.youtube.com/watch?v=sy-UO8evFeM)

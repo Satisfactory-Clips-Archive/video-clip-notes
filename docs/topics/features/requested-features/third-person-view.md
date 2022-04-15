@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Requested Features](../../../topics/features/requested-features.md) > Third-person View
 
+## April 15th, 2022 Video
+* [Snutt & Stefan Talk: Third-person View in Sprint 20](../../../transcriptions/yt-7I3NGAm3j_4,1441.2731666666666,1497.8296666666668.md) [https://youtube.com/clip/UgkxBN5lOz1DGFDrjtF92njJq8rTGb_SeLdl](https://youtube.com/clip/UgkxBN5lOz1DGFDrjtF92njJq8rTGb_SeLdl)
+* [Snutt Talk: Third-person View toggle in Sprint 26](../../../transcriptions/yt-7I3NGAm3j_4,2157.8557,2169.8009666666667.md) [https://youtube.com/clip/Ugkx_1fGehibbPlY_JwAxaIi00z7wGzmC87A](https://youtube.com/clip/Ugkx_1fGehibbPlY_JwAxaIi00z7wGzmC87A)
+
 ## December 7th, 2021 Livestream
 * Q&A: Will there be third-person view? [https://www.youtube.com/watch?v=0CcI5NNow5E](https://www.youtube.com/watch?v=0CcI5NNow5E)
 

@@ -7,6 +7,12 @@ date: Last Modified
 * [Snutt Burger Time](../../topics/coffee-stainers/snutt/snutt-burger-time.md)
 * [Snutty Mays](../../topics/coffee-stainers/snutt/snutty-mays.md)
 
+## April 15th, 2022 Video
+* [Snutt's video assistant](../../transcriptions/yt-7I3NGAm3j_4,26.552238,70.23683333333334.md) [https://youtube.com/clip/Ugkx0kXVPjE2eL1bh1gz6YqbBQAqO-WLPDFv](https://youtube.com/clip/Ugkx0kXVPjE2eL1bh1gz6YqbBQAqO-WLPDFv)
+* [Snutt & Stefan Talk: Main Menu in Sprint 23](../../transcriptions/yt-7I3NGAm3j_4,1741.5398,1770.4353333333333.md) [https://youtube.com/clip/Ugkx24pUe83njfxVm1HXaE6W4CAjJvFr7Zex](https://youtube.com/clip/Ugkx24pUe83njfxVm1HXaE6W4CAjJvFr7Zex)
+* [Snutt & Stefan Talk: User Interface changes in Sprint 23](../../transcriptions/yt-7I3NGAm3j_4,1770.4687000000001,1810.3752333333334.md) [https://youtube.com/clip/Ugkx-IiJMzwECTknr2SucU7ufUkkxaYaY_sx](https://youtube.com/clip/Ugkx-IiJMzwECTknr2SucU7ufUkkxaYaY_sx)
+* [Snutt & Stefan Talk: User Interface & Graphics changes in Sprint 26](../../transcriptions/yt-7I3NGAm3j_4,1978.7768,2012.9109.md) [https://youtube.com/clip/UgkxNmzo0L4eEY5dA6xQxl9sG_97NZIMymx8](https://youtube.com/clip/UgkxNmzo0L4eEY5dA6xQxl9sG_97NZIMymx8)
+
 ## April 12th, 2022 Livestream
 * [Q&A: Are there plans to make alternate player models in the AWESOME Shop, i.e. Snutt / Jace models?](../../transcriptions/yt-ozIEEGTX2G4.md) [https://www.youtube.com/watch?v=ozIEEGTX2G4](https://www.youtube.com/watch?v=ozIEEGTX2G4)
 * [Q&A: What other genre of game would you like to create after Satisfactory?](../../transcriptions/yt-v9dldO2fL5M.md) [https://www.youtube.com/watch?v=v9dldO2fL5M](https://www.youtube.com/watch?v=v9dldO2fL5M)
