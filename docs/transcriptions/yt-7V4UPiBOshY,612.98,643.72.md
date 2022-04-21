@@ -8,7 +8,7 @@ topics:
 ---
 # [December 12th, 2018 Q&A](../2018-12-12.md)
 ## Q&A: What are the payment options for the Epic Games Store?
-https://youtube.com/embed/7V4UPiBOshY?autoplay=1&start=612&end=644
+https://youtube.com/clip/UgkxoXs0tyvBFtfcasILUAN8xwCzzxc0Jmvz
 
 ### Topics
 * [Retail > Epic Store](../topics/retail/epic-store.md)
