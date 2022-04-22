@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "features/possible-features/decor"
     - "features/requested-features"
-    - "satisfactory-updates/speculative/satisfactory-update-6"
+    - "satisfactory-updates/pending/satisfactory-update-6"
 ---
 # [February 22nd, 2022 Livestream](../2022-02-22.md)
 ## Q&A: More architecture coming in Update 6?
@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=E_xludNxf08
 ### Topics
 * [Features > Possible Features > Decor](../topics/features/possible-features/decor.md)
 * [Features > Requested Features](../topics/features/requested-features.md)
-* [Satisfactory Updates > Speculative > Satisfactory Update 6](../topics/satisfactory-updates/speculative/satisfactory-update-6.md)
+* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
 
 ### Transcript
 

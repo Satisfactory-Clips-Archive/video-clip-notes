@@ -3,7 +3,7 @@ title: "April 19th, 2022 Livestream Snutt & Jace Talk: Friday Update news video"
 date: "2022-04-19"
 layout: transcript
 topics:
-    - "satisfactory-updates/speculative/satisfactory-update-6"
+    - "satisfactory-updates/pending/satisfactory-update-6"
     - "satisfactory-updates/teasers-and-trailers"
 ---
 # [April 19th, 2022 Livestream](../2022-04-19.md)
@@ -11,7 +11,7 @@ topics:
 https://www.youtube.com/watch?v=uhkG6WNaJ48
 
 ### Topics
-* [Satisfactory Updates > Speculative > Satisfactory Update 6](../topics/satisfactory-updates/speculative/satisfactory-update-6.md)
+* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
 * [Satisfactory Updates > Teasers & Trailers](../topics/satisfactory-updates/teasers-and-trailers.md)
 
 ### Transcript

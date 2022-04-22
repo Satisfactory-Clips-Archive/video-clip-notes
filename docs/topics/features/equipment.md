@@ -20,6 +20,10 @@ date: Last Modified
 * [Xeno-Zapper](../../topics/features/equipment/xeno-zapper.md)
 * [Zip Lines](../../topics/features/equipment/zip-lines.md)
 
+## April 22nd, 2022 Video
+* Snutt Talk: Adding new mechanics to some of the weapons [https://youtube.com/clip/UgkxN_3aTg7DCJEB3arWmUZFzQPhM0Jo5vR4](https://youtube.com/clip/UgkxN_3aTg7DCJEB3arWmUZFzQPhM0Jo5vR4)
+* Snutt Talk: Multiple Body Slots [https://youtube.com/clip/UgkxAzgQbaNV-HcVhJlhXZCdUr926wfVXPFx](https://youtube.com/clip/UgkxAzgQbaNV-HcVhJlhXZCdUr926wfVXPFx)
+
 ## April 15th, 2022 Video
 * [Snutt & Stefan Talk: Build Menu in Sprint 3](../../transcriptions/yt-7I3NGAm3j_4,322.1218,377.621266.md) [https://youtube.com/clip/UgkxjRfbjSnFDobtxbd4UB3a_qnhHr1B2xDO](https://youtube.com/clip/UgkxjRfbjSnFDobtxbd4UB3a_qnhHr1B2xDO)
 * [Snutt & Stefan Talk: Sprint 6](../../transcriptions/yt-7I3NGAm3j_4,544.4772666666667,586.3524333333334.md) [https://youtube.com/clip/UgkxJlhjBBTmsHqjVptIYvN2cjH3sIJiIaqe](https://youtube.com/clip/UgkxJlhjBBTmsHqjVptIYvN2cjH3sIJiIaqe)

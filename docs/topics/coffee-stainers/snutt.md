@@ -7,6 +7,9 @@ date: Last Modified
 * [Snutt Burger Time](../../topics/coffee-stainers/snutt/snutt-burger-time.md)
 * [Snutty Mays](../../topics/coffee-stainers/snutt/snutty-mays.md)
 
+## April 22nd, 2022 Video
+* End Tag [https://youtube.com/embed/hkMTFsxa7rQ?autoplay=1&start=768](https://youtube.com/embed/hkMTFsxa7rQ?autoplay=1&start=768)
+
 ## April 19th, 2022 Livestream
 * [Q&A: Any chance of an off-duty stream with the two of you playing actual Portal 2 co-op?](../../transcriptions/yt-KhjCtb3t7wI.md) [https://www.youtube.com/watch?v=KhjCtb3t7wI](https://www.youtube.com/watch?v=KhjCtb3t7wI)
 * [Community FYI: There's a co-op achievement for dunking your partner in the pools of toxic goop](../../transcriptions/yt-EVORRjnmH-8.md) [https://www.youtube.com/watch?v=EVORRjnmH-8](https://www.youtube.com/watch?v=EVORRjnmH-8)

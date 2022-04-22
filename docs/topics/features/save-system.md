@@ -7,6 +7,9 @@ date: Last Modified
 * [Autosave](../../topics/features/save-system/autosave.md)
 * [Cloud Sync](../../topics/features/save-system/cloud-sync.md)
 
+## April 22nd, 2022 Video
+* Snutt Talk: Reworking the foliage system [https://youtube.com/clip/UgkxxYbl2WdbGVqAFS9YOaDuEiwCWthW_Kpz](https://youtube.com/clip/UgkxxYbl2WdbGVqAFS9YOaDuEiwCWthW_Kpz)
+
 ## April 19th, 2022 Livestream
 * [Q&A: Have any of you been able to open BLAndrew575's save pre-screws yet?](../../transcriptions/yt-VJwqxepEJuM.md) [https://www.youtube.com/watch?v=VJwqxepEJuM](https://www.youtube.com/watch?v=VJwqxepEJuM)
 

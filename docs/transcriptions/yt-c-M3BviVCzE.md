@@ -3,7 +3,7 @@ title: "March 15th, 2022 Livestream Q&A: Is there a rough estimate for the next 
 date: "2022-03-15"
 layout: transcript
 topics:
-    - "satisfactory-updates/speculative/satisfactory-update-6"
+    - "satisfactory-updates/pending/satisfactory-update-6"
     - "satisfactory-updates/speculative/satisfactory-update-7"
 ---
 # [March 15th, 2022 Livestream](../2022-03-15.md)
@@ -11,7 +11,7 @@ topics:
 https://www.youtube.com/watch?v=c-M3BviVCzE
 
 ### Topics
-* [Satisfactory Updates > Speculative > Satisfactory Update 6](../topics/satisfactory-updates/speculative/satisfactory-update-6.md)
+* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
 * [Satisfactory Updates > Speculative > Satisfactory Update 7](../topics/satisfactory-updates/speculative/satisfactory-update-7.md)
 
 ### Transcript

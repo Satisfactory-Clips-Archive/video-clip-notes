@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Environment](../../topics/environment.md) > Plants
 
+## April 22nd, 2022 Video
+* Snutt Talk: Reworking the foliage system [https://youtube.com/clip/UgkxxYbl2WdbGVqAFS9YOaDuEiwCWthW_Kpz](https://youtube.com/clip/UgkxxYbl2WdbGVqAFS9YOaDuEiwCWthW_Kpz)
+
 ## April 15th, 2022 Video
 * [Snutt & Stefan Talk: Sprint 6](../../transcriptions/yt-7I3NGAm3j_4,544.4772666666667,586.3524333333334.md) [https://youtube.com/clip/UgkxJlhjBBTmsHqjVptIYvN2cjH3sIJiIaqe](https://youtube.com/clip/UgkxJlhjBBTmsHqjVptIYvN2cjH3sIJiIaqe)
 * [Snutt & Stefan Talk: User Interface & Graphics changes in Sprint 26](../../transcriptions/yt-7I3NGAm3j_4,1978.7768,2012.9109.md) [https://youtube.com/clip/UgkxNmzo0L4eEY5dA6xQxl9sG_97NZIMymx8](https://youtube.com/clip/UgkxNmzo0L4eEY5dA6xQxl9sG_97NZIMymx8)

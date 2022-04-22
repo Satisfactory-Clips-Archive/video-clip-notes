@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > Miner
 
+## April 22nd, 2022 Video
+* Snutt Talk: Not planning to make changes to clocking of generators & extractors [https://youtube.com/clip/UgkxhE8GHNHkkxyJrWm8_Ued9ApPGAmVZSgC](https://youtube.com/clip/UgkxhE8GHNHkkxyJrWm8_Ued9ApPGAmVZSgC)
+
 ## April 15th, 2022 Video
 * [Snutt & Stefan Talk: Sprint 1](../../../transcriptions/yt-7I3NGAm3j_4,143.51003333333333,223.112196.md) [https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=143&end=224](https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=143&end=224)
 * [Snutt & Stefan Talk: Sprint 2](../../../transcriptions/yt-7I3NGAm3j_4,247.0468,295.96233333333333.md) [https://youtube.com/clip/UgkxBbDwyKi_LtDsndgZbr98gzofrL1g1aVu](https://youtube.com/clip/UgkxBbDwyKi_LtDsndgZbr98gzofrL1g1aVu)

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Creatures](../../../topics/environment/creatures.md) > Crab Boss
 
+## April 22nd, 2022 Video
+* Snutt Talk: Let's talk about the Creatures [https://youtube.com/clip/UgkxnqN_5oHQQhpT8psM84QkLe9O4hWqCeHL](https://youtube.com/clip/UgkxnqN_5oHQQhpT8psM84QkLe9O4hWqCeHL)
+
 ## March 29th, 2022 Livestream
 * [Q&A: Will the shooter aspect of Satisfactory become stronger- you said there would be bosses?](../../../transcriptions/yt-2O6KzVNYDE0.md) [https://www.youtube.com/watch?v=2O6KzVNYDE0](https://www.youtube.com/watch?v=2O6KzVNYDE0)
 

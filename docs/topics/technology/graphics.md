@@ -9,6 +9,11 @@ date: Last Modified
 * [Ray Tracing](../../topics/technology/graphics/ray-tracing.md)
 * [Ultrawide Monitors](../../topics/technology/graphics/ultrawide-monitors.md)
 
+## April 22nd, 2022 Video
+* Snutt Talk: Ben's water changes [https://youtube.com/clip/UgkxaD0rJKYKWGhXACEAijg16q-YhZ8Yv8Nt](https://youtube.com/clip/UgkxaD0rJKYKWGhXACEAijg16q-YhZ8Yv8Nt)
+* Snutt Talk: The sky sphere & Swamp Biome [https://youtube.com/clip/UgkxTU-Kgawtc8RhFPkS0t_-vLmyGvMAgj3u](https://youtube.com/clip/UgkxTU-Kgawtc8RhFPkS0t_-vLmyGvMAgj3u)
+* Snutt Talk: Technical Improvements [https://youtube.com/clip/UgkxUxZLR94Uz4SZOXK5rr2fveDQLA5oz6tQ](https://youtube.com/clip/UgkxUxZLR94Uz4SZOXK5rr2fveDQLA5oz6tQ)
+
 ## April 15th, 2022 Video
 * [Snutt & Stefan Talk: User Interface & Graphics changes in Sprint 26](../../transcriptions/yt-7I3NGAm3j_4,1978.7768,2012.9109.md) [https://youtube.com/clip/UgkxNmzo0L4eEY5dA6xQxl9sG_97NZIMymx8](https://youtube.com/clip/UgkxNmzo0L4eEY5dA6xQxl9sG_97NZIMymx8)
 * [Snutt & Stefan Talk: Production lines in Sprint 26](../../transcriptions/yt-7I3NGAm3j_4,2195.2931,2244.609033333333.md) [https://youtube.com/clip/Ugkxr_fFZM8eyGqirhpjPJz2NHUFKXSmK47j](https://youtube.com/clip/Ugkxr_fFZM8eyGqirhpjPJz2NHUFKXSmK47j)

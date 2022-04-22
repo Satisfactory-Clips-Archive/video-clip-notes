@@ -477,6 +477,8 @@ date: Last Modified
 * [Update 5 Final Countdown](./topics/satisfactory-updates/teasers-and-trailers/update-5-launch-stream/its-the-final-countdown.md)
 * [Update 5 Revealed](./topics/satisfactory-updates/teasers-and-trailers/update-5-launch-stream/update-5-revealed.md)
 ---
+* [Update 6 Teasers](./topics/satisfactory-updates/teasers-and-trailers/update-6-teasers.md)
+---
 
 ## [Satisfactory Prototypes](./topics/satisfactory-updates/satisfactory-prototypes.md)
 * [Sprint 1](./topics/satisfactory-updates/satisfactory-prototypes/sprint-1.md)
@@ -495,6 +497,7 @@ date: Last Modified
 ---
 
 ## Pending
+* [Satisfactory Update 6](./topics/satisfactory-updates/pending/satisfactory-update-6.md)
 * [Satisfactory 1.0](./topics/satisfactory-updates/pending/satisfactory-1-0.md)
 ---
 
@@ -516,7 +519,6 @@ date: Last Modified
 ---
 
 ## Speculative
-* [Satisfactory Update 6](./topics/satisfactory-updates/speculative/satisfactory-update-6.md)
 * [Satisfactory Update 7](./topics/satisfactory-updates/speculative/satisfactory-update-7.md)
 * [Satisfactory Update 8](./topics/satisfactory-updates/speculative/satisfactory-update-8.md)
 * [Satisfactory Update 9](./topics/satisfactory-updates/speculative/satisfactory-update-9.md)

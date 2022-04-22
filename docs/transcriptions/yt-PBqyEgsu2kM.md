@@ -3,7 +3,7 @@ title: "October 5th, 2021 Livestream Q&A: Any idea what the focus of Update 6 wi
 date: "2021-10-05"
 layout: transcript
 topics:
-    - "satisfactory-updates/speculative/satisfactory-update-6"
+    - "satisfactory-updates/pending/satisfactory-update-6"
 ---
 # [October 5th, 2021 Livestream](../2021-10-05.md)
 ## Q&A: Any idea what the focus of Update 6 will be?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: [October 19th, 
 
 
 ### Topics
-* [Satisfactory Updates > Speculative > Satisfactory Update 6](../topics/satisfactory-updates/speculative/satisfactory-update-6.md)
+* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
 
 ### Transcript
 

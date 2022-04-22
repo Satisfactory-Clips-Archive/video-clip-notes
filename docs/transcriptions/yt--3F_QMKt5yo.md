@@ -3,7 +3,7 @@ title: "December 7th, 2021 Livestream Q&A: Update 6, when?"
 date: "2021-12-07"
 layout: transcript
 topics:
-    - "satisfactory-updates/speculative/satisfactory-update-6"
+    - "satisfactory-updates/pending/satisfactory-update-6"
 ---
 # [December 7th, 2021 Livestream](../2021-12-07.md)
 ## Q&A: Update 6, when?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: [February 15th,
 
 
 ### Topics
-* [Satisfactory Updates > Speculative > Satisfactory Update 6](../topics/satisfactory-updates/speculative/satisfactory-update-6.md)
+* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
 
 ### Transcript
 

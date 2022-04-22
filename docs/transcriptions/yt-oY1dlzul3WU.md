@@ -3,14 +3,14 @@ title: "April 19th, 2022 Livestream Q&A: Please tell us what it will contain?"
 date: "2022-04-19"
 layout: transcript
 topics:
-    - "satisfactory-updates/speculative/satisfactory-update-6"
+    - "satisfactory-updates/pending/satisfactory-update-6"
 ---
 # [April 19th, 2022 Livestream](../2022-04-19.md)
 ## Q&A: Please tell us what it will contain?
 https://www.youtube.com/watch?v=oY1dlzul3WU
 
 ### Topics
-* [Satisfactory Updates > Speculative > Satisfactory Update 6](../topics/satisfactory-updates/speculative/satisfactory-update-6.md)
+* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
 
 ### Transcript
 

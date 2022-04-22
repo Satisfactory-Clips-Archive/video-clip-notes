@@ -5,6 +5,13 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > Overclocking & Underclocking
 
+## April 22nd, 2022 Video
+* Snutt Talk: Clock Speed Rebalance [https://youtube.com/clip/UgkxeA-NAudcBFoI2hTOMsHLcNNtTWuIl1QK](https://youtube.com/clip/UgkxeA-NAudcBFoI2hTOMsHLcNNtTWuIl1QK)
+* Snutt Talk: Overclocking & Underclocking explainer [https://youtube.com/embed/hkMTFsxa7rQ?autoplay=1&start=497&end=561](https://youtube.com/embed/hkMTFsxa7rQ?autoplay=1&start=497&end=561)
+* Snutt Talk: The proposed change to Overclocking & Underclocking [https://youtube.com/clip/UgkxqU9P7yQVBzd6vn_QdY1F4mhE5DenTVKb](https://youtube.com/clip/UgkxqU9P7yQVBzd6vn_QdY1F4mhE5DenTVKb)
+* Snutt Talk: Soliciting Community feedback on the proposed change [https://youtube.com/clip/UgkxeqkddoAOw0lxM0x-rCuv_gHq3waSojNm](https://youtube.com/clip/UgkxeqkddoAOw0lxM0x-rCuv_gHq3waSojNm)
+* Snutt Talk: Not planning to make changes to clocking of generators & extractors [https://youtube.com/clip/UgkxhE8GHNHkkxyJrWm8_Ued9ApPGAmVZSgC](https://youtube.com/clip/UgkxhE8GHNHkkxyJrWm8_Ued9ApPGAmVZSgC)
+
 ## March 18th, 2022 Video
 * [Snutt & Jace Talk: Clock speed article](../../../transcriptions/yt-VBGakEZilwk,90.7907,157.6575.md) [https://youtube.com/embed/VBGakEZilwk?autoplay=1&start=90&end=158](https://youtube.com/embed/VBGakEZilwk?autoplay=1&start=90&end=158)
 

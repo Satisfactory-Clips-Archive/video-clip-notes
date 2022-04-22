@@ -4,7 +4,7 @@ date: "2022-04-05"
 layout: transcript
 topics:
     - "off-topic/final-fantasy/the-official-satisfactory-podcast"
-    - "satisfactory-updates/speculative/satisfactory-update-6"
+    - "satisfactory-updates/pending/satisfactory-update-6"
     - "satisfactory-updates/state-of-dev"
 ---
 # [April 5th, 2022 Livestream](../2022-04-05.md)
@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=biMundmzhdE
 
 ### Topics
 * [Off-Topic > Final Fantasy > The Official Satisfactory PODCAST](../topics/off-topic/final-fantasy/the-official-satisfactory-podcast.md)
-* [Satisfactory Updates > Speculative > Satisfactory Update 6](../topics/satisfactory-updates/speculative/satisfactory-update-6.md)
+* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
 * [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 
 ### Transcript

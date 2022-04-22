@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "satisfactory-updates"
     - "satisfactory-updates/pending/satisfactory-1-0"
-    - "satisfactory-updates/speculative/satisfactory-update-6"
+    - "satisfactory-updates/pending/satisfactory-update-6"
 ---
 # [March 1st, 2022 Livestream](../2022-03-01.md)
 ## Q&A: Will you make a "What's next for Satisfactory" video?
@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=F2Ux0lu2y2o
 ### Topics
 * [Satisfactory Updates](../topics/satisfactory-updates.md)
 * [Satisfactory Updates > Pending > Satisfactory 1.0](../topics/satisfactory-updates/pending/satisfactory-1-0.md)
-* [Satisfactory Updates > Speculative > Satisfactory Update 6](../topics/satisfactory-updates/speculative/satisfactory-update-6.md)
+* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
 
 ### Transcript
 

@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Environment](../../topics/environment.md) > World Map
 
+## April 22nd, 2022 Video
+* Snutt Talk: Improving how you interact with the in-game Map [https://youtube.com/clip/UgkxjgGDGLb2r1FQWI7UsbIYD7hb4MlWQgkx](https://youtube.com/clip/UgkxjgGDGLb2r1FQWI7UsbIYD7hb4MlWQgkx)
+* Snutt Talk: Radar Tower improvements [https://youtube.com/embed/hkMTFsxa7rQ?autoplay=1&start=446&end=450](https://youtube.com/embed/hkMTFsxa7rQ?autoplay=1&start=446&end=450)
+
 ## March 22nd, 2022 Livestream
 * [Q&A: Any info on stuttering fix while moving around in the world?](../../transcriptions/yt-qQewNwoZxMI.md) [https://www.youtube.com/watch?v=qQewNwoZxMI](https://www.youtube.com/watch?v=qQewNwoZxMI)
 

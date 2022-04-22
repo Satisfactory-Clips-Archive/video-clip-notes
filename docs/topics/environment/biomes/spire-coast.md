@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Biomes](../../../topics/environment/biomes.md) > Spire Coast
 
+## April 22nd, 2022 Video
+* Environmental Changes [https://youtube.com/embed/hkMTFsxa7rQ?autoplay=1&start=304&end=376](https://youtube.com/embed/hkMTFsxa7rQ?autoplay=1&start=304&end=376)
+
 ## April 12th, 2022 Livestream
 * [Q&A: If you could pick the theme of an Update based on where you wanted to film the Patch Notes...](../../../transcriptions/yt-mJVRad-m-EM.md) [https://www.youtube.com/watch?v=mJVRad-m-EM](https://www.youtube.com/watch?v=mJVRad-m-EM)
 

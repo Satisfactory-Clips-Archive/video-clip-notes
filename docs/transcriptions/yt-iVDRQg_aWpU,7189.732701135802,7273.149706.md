@@ -3,14 +3,14 @@ title: "November 23rd, 2021 Livestream Q&A: Update 5 is history, what about Upda
 date: "2021-11-23"
 layout: transcript
 topics:
-    - "satisfactory-updates/speculative/satisfactory-update-6"
+    - "satisfactory-updates/pending/satisfactory-update-6"
 ---
 # [November 23rd, 2021 Livestream](../2021-11-23.md)
 ## Q&A: Update 5 is history, what about Update 6?
 https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=7189&end=7274
 
 ### Topics
-* [Satisfactory Updates > Speculative > Satisfactory Update 6](../topics/satisfactory-updates/speculative/satisfactory-update-6.md)
+* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
 
 ### Transcript
 

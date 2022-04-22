@@ -9,6 +9,11 @@ date: Last Modified
 * [Object Limit](../../topics/technology/unreal-engine/object-limit.md)
 * [Unreal Engine 5](../../topics/technology/unreal-engine/unreal-engine-5.md)
 
+## April 22nd, 2022 Video
+* Snutt Talk: Technical Improvements [https://youtube.com/clip/UgkxUxZLR94Uz4SZOXK5rr2fveDQLA5oz6tQ](https://youtube.com/clip/UgkxUxZLR94Uz4SZOXK5rr2fveDQLA5oz6tQ)
+* Snutt Talk: Reworking the foliage system [https://youtube.com/clip/UgkxxYbl2WdbGVqAFS9YOaDuEiwCWthW_Kpz](https://youtube.com/clip/UgkxxYbl2WdbGVqAFS9YOaDuEiwCWthW_Kpz)
+* Snutt Talk: Miscellaneous improvements [https://youtube.com/clip/Ugkxdt56xboT7Z6jfJSkA9xWn13q3A6YPmUY](https://youtube.com/clip/Ugkxdt56xboT7Z6jfJSkA9xWn13q3A6YPmUY)
+
 ## April 19th, 2022 Livestream
 * [Q&A: Why was Unreal Engine used for the game?](../../transcriptions/yt-PG2MZ4Fxun0.md) [https://www.youtube.com/watch?v=PG2MZ4Fxun0](https://www.youtube.com/watch?v=PG2MZ4Fxun0)
 * [Q&A: Is Valheim using Unreal Engine?](../../transcriptions/yt-c51LJ2NJAWs.md) [https://www.youtube.com/watch?v=c51LJ2NJAWs](https://www.youtube.com/watch?v=c51LJ2NJAWs)

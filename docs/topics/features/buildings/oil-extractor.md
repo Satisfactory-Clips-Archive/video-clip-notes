@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > Oil Extractor
 
+## April 22nd, 2022 Video
+* Snutt Talk: Not planning to make changes to clocking of generators & extractors [https://youtube.com/clip/UgkxhE8GHNHkkxyJrWm8_Ued9ApPGAmVZSgC](https://youtube.com/clip/UgkxhE8GHNHkkxyJrWm8_Ued9ApPGAmVZSgC)
+
 ## April 15th, 2022 Video
 * [Snutt & Stefan Talk: Mining Resources & Crafting in Sprint 6](../../../transcriptions/yt-7I3NGAm3j_4,782.1480333333334,1062.275948.md) [https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=782&end=1063](https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=782&end=1063)
 

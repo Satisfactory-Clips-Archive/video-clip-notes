@@ -10,6 +10,9 @@ date: Last Modified
 * [Non Flying Bird](../../topics/environment/creatures/non-flying-bird.md)
 * [Space Giraffe-Tick-Penguin-Whale Thing](../../topics/environment/creatures/space-giraffe-tick-penguin-whale-thing.md)
 
+## April 22nd, 2022 Video
+* Snutt Talk: Let's talk about the Creatures [https://youtube.com/clip/UgkxnqN_5oHQQhpT8psM84QkLe9O4hWqCeHL](https://youtube.com/clip/UgkxnqN_5oHQQhpT8psM84QkLe9O4hWqCeHL)
+
 ## April 15th, 2022 Video
 * [Snutt & Stefan Talk: Creatures in Sprint 6](../../transcriptions/yt-7I3NGAm3j_4,663.9966666666667,691.691.md) [https://youtube.com/clip/UgkxrPmSQoN5MNNqrD8hyJerS6x5UJX-Mli9](https://youtube.com/clip/UgkxrPmSQoN5MNNqrD8hyJerS6x5UJX-Mli9)
 * [Snutt & Stefan Talk: User Interface changes in Sprint 23](../../transcriptions/yt-7I3NGAm3j_4,1770.4687000000001,1810.3752333333334.md) [https://youtube.com/clip/Ugkx-IiJMzwECTknr2SucU7ufUkkxaYaY_sx](https://youtube.com/clip/Ugkx-IiJMzwECTknr2SucU7ufUkkxaYaY_sx)

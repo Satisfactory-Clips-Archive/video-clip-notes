@@ -3,7 +3,7 @@ title: "November 23rd, 2021 Livestream Q&A: Any Teasers for what's coming next?"
 date: "2021-11-23"
 layout: transcript
 topics:
-    - "satisfactory-updates/speculative/satisfactory-update-6"
+    - "satisfactory-updates/pending/satisfactory-update-6"
     - "satisfactory-updates/teasers-and-trailers"
 ---
 # [November 23rd, 2021 Livestream](../2021-11-23.md)
@@ -13,7 +13,7 @@ This question was possibly duplicated with a more recent answer: [November 23rd,
 
 
 ### Topics
-* [Satisfactory Updates > Speculative > Satisfactory Update 6](../topics/satisfactory-updates/speculative/satisfactory-update-6.md)
+* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
 * [Satisfactory Updates > Teasers & Trailers](../topics/satisfactory-updates/teasers-and-trailers.md)
 
 ### Transcript

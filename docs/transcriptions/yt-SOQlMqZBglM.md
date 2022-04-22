@@ -3,7 +3,7 @@ title: "June 29th, 2021 Livestream Q&A: What are the odds of an Update 6?"
 date: "2021-06-29"
 layout: transcript
 topics:
-    - "satisfactory-updates/speculative/satisfactory-update-6"
+    - "satisfactory-updates/pending/satisfactory-update-6"
 ---
 # [June 29th, 2021 Livestream](../2021-06-29.md)
 ## Q&A: What are the odds of an Update 6?
@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=SOQlMqZBglM
 
 
 ### Topics
-* [Satisfactory Updates > Speculative > Satisfactory Update 6](../topics/satisfactory-updates/speculative/satisfactory-update-6.md)
+* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
 
 ### Transcript
 

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Wiki
 
+## April 22nd, 2022 Video
+* Snutt Talk: Overclocking & Underclocking explainer [https://youtube.com/embed/hkMTFsxa7rQ?autoplay=1&start=497&end=561](https://youtube.com/embed/hkMTFsxa7rQ?autoplay=1&start=497&end=561)
+
 ## March 22nd, 2022 Livestream
 * [Snutt & Jace Talk: Wiki Video](../../transcriptions/yt-p5dY9nyckZQ.md) [https://www.youtube.com/watch?v=p5dY9nyckZQ](https://www.youtube.com/watch?v=p5dY9nyckZQ)
 

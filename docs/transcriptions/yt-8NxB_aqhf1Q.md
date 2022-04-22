@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "coffee-stainers/jace"
     - "community/wiki"
-    - "satisfactory-updates/speculative/satisfactory-update-6"
+    - "satisfactory-updates/pending/satisfactory-update-6"
     - "satisfactory-updates/teasers-and-trailers/update-5-patch-notes-video"
 ---
 # [November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary](../2021-11-05.md)
@@ -87,7 +87,7 @@ https://www.youtube.com/watch?v=8NxB_aqhf1Q
 ### Topics
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
 * [Community > Wiki](../topics/community/wiki.md)
-* [Satisfactory Updates > Speculative > Satisfactory Update 6](../topics/satisfactory-updates/speculative/satisfactory-update-6.md)
+* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
 * [Satisfactory Updates > Teasers & Trailers > Update 5 Patch Notes Video](../topics/satisfactory-updates/teasers-and-trailers/update-5-patch-notes-video.md)
 
 ### Transcript

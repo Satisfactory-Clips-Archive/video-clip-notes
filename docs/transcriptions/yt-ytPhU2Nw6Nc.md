@@ -10,6 +10,8 @@ topics:
 # [March 29th, 2022 Livestream](../2022-03-29.md)
 ## Q&A: Any change for exploration planned?
 https://www.youtube.com/watch?v=ytPhU2Nw6Nc
+This question was possibly replaced with a more recent answer: April 22nd, 2022 Video Q&A: What does improving the exploration aspect of Satisfactory mean? [https://youtube.com/clip/UgkxrHYVfpm2P12POQ3YjPmPhhuL6o8KpwnF](https://youtube.com/clip/UgkxrHYVfpm2P12POQ3YjPmPhhuL6o8KpwnF)
+
 
 ### Topics
 * [Environment](../topics/environment.md)

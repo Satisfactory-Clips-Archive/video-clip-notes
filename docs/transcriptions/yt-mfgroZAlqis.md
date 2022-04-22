@@ -3,7 +3,7 @@ title: "September 21st, 2021 Livestream Q&A: When is Update 6 coming?"
 date: "2021-09-21"
 layout: transcript
 topics:
-    - "satisfactory-updates/speculative/satisfactory-update-6"
+    - "satisfactory-updates/pending/satisfactory-update-6"
 ---
 # [September 21st, 2021 Livestream](../2021-09-21.md)
 ## Q&A: When is Update 6 coming?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: [February 15th,
 
 
 ### Topics
-* [Satisfactory Updates > Speculative > Satisfactory Update 6](../topics/satisfactory-updates/speculative/satisfactory-update-6.md)
+* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
 
 ### Transcript
 

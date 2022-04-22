@@ -3,7 +3,7 @@ title: "April 12th, 2022 Livestream Q&A: Can you hype us up a bit more for the p
 date: "2022-04-12"
 layout: transcript
 topics:
-    - "satisfactory-updates/speculative/satisfactory-update-6"
+    - "satisfactory-updates/pending/satisfactory-update-6"
     - "satisfactory-updates/state-of-dev"
 ---
 # [April 12th, 2022 Livestream](../2022-04-12.md)
@@ -11,7 +11,7 @@ topics:
 https://www.youtube.com/watch?v=9YYkdVZOzV8
 
 ### Topics
-* [Satisfactory Updates > Speculative > Satisfactory Update 6](../topics/satisfactory-updates/speculative/satisfactory-update-6.md)
+* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
 * [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 
 ### Transcript

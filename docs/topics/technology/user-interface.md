@@ -6,6 +6,10 @@ date: Last Modified
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > User Interface
 * [Holograms](../../topics/technology/user-interface/holograms.md)
 
+## April 22nd, 2022 Video
+* Snutt Talk: Improving how you interact with the in-game Map [https://youtube.com/clip/UgkxjgGDGLb2r1FQWI7UsbIYD7hb4MlWQgkx](https://youtube.com/clip/UgkxjgGDGLb2r1FQWI7UsbIYD7hb4MlWQgkx)
+* Snutt Talk: Radar Tower improvements [https://youtube.com/embed/hkMTFsxa7rQ?autoplay=1&start=446&end=450](https://youtube.com/embed/hkMTFsxa7rQ?autoplay=1&start=446&end=450)
+
 ## April 19th, 2022 Livestream
 * [Q&A: Any thoughts on adding current throughput values to Smart Splitters?](../../transcriptions/yt-Y7vmdv6o3io.md) [https://www.youtube.com/watch?v=Y7vmdv6o3io](https://www.youtube.com/watch?v=Y7vmdv6o3io)
 * [Q&A: What about a shared notepad in-game where people can share simple notes?](../../transcriptions/yt-quJL55MBmZU.md) [https://www.youtube.com/watch?v=quJL55MBmZU](https://www.youtube.com/watch?v=quJL55MBmZU)

@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > World Update
 
+## April 22nd, 2022 Video
+* Environmental Changes [https://youtube.com/embed/hkMTFsxa7rQ?autoplay=1&start=304&end=376](https://youtube.com/embed/hkMTFsxa7rQ?autoplay=1&start=304&end=376)
+* Snutt Talk: The sky sphere & Swamp Biome [https://youtube.com/clip/UgkxTU-Kgawtc8RhFPkS0t_-vLmyGvMAgj3u](https://youtube.com/clip/UgkxTU-Kgawtc8RhFPkS0t_-vLmyGvMAgj3u)
+
 ## April 19th, 2022 Livestream
 * [Q&A: How's Map development going?](../../transcriptions/yt-uves4-7LnEc.md) [https://www.youtube.com/watch?v=uves4-7LnEc](https://www.youtube.com/watch?v=uves4-7LnEc)
 

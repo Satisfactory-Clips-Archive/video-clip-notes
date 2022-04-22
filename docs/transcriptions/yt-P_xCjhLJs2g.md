@@ -3,7 +3,7 @@ title: "April 19th, 2022 Livestream Q&A: Will this next Update have a completed 
 date: "2022-04-19"
 layout: transcript
 topics:
-    - "satisfactory-updates/speculative/satisfactory-update-6"
+    - "satisfactory-updates/pending/satisfactory-update-6"
     - "soundtrack"
 ---
 # [April 19th, 2022 Livestream](../2022-04-19.md)
@@ -22,7 +22,7 @@ https://www.youtube.com/watch?v=P_xCjhLJs2g
 
 
 ### Topics
-* [Satisfactory Updates > Speculative > Satisfactory Update 6](../topics/satisfactory-updates/speculative/satisfactory-update-6.md)
+* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
 * [Soundtrack](../topics/soundtrack.md)
 
 ### Transcript

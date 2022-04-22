@@ -3,7 +3,33 @@ title: "Satisfactory Update 6"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEpOfQ2ATioPVEQvCuB6oJSR
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Speculative > Satisfactory Update 6
+# [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Pending > Satisfactory Update 6
+
+## April 22nd, 2022 Video
+* Intro [https://youtube.com/embed/hkMTFsxa7rQ?autoplay=1&start=0&end=63](https://youtube.com/embed/hkMTFsxa7rQ?autoplay=1&start=0&end=63)
+* Snutt Talk: Why Update 6 is going to be different [https://youtube.com/embed/hkMTFsxa7rQ?autoplay=1&start=62&end=204](https://youtube.com/embed/hkMTFsxa7rQ?autoplay=1&start=62&end=204)
+* Snutt Talk: What Update 6 is going to be about [https://youtube.com/clip/UgkxPc09zC5WUb8MS8DUpnGXx-IHcqMGqENw](https://youtube.com/clip/UgkxPc09zC5WUb8MS8DUpnGXx-IHcqMGqENw)
+* Q&A: What does improving the exploration aspect of Satisfactory mean? [https://youtube.com/clip/UgkxrHYVfpm2P12POQ3YjPmPhhuL6o8KpwnF](https://youtube.com/clip/UgkxrHYVfpm2P12POQ3YjPmPhhuL6o8KpwnF)
+* Environmental Changes [https://youtube.com/embed/hkMTFsxa7rQ?autoplay=1&start=304&end=376](https://youtube.com/embed/hkMTFsxa7rQ?autoplay=1&start=304&end=376)
+* Snutt Talk: Ben's water changes [https://youtube.com/clip/UgkxaD0rJKYKWGhXACEAijg16q-YhZ8Yv8Nt](https://youtube.com/clip/UgkxaD0rJKYKWGhXACEAijg16q-YhZ8Yv8Nt)
+* Snutt Talk: The sky sphere & Swamp Biome [https://youtube.com/clip/UgkxTU-Kgawtc8RhFPkS0t_-vLmyGvMAgj3u](https://youtube.com/clip/UgkxTU-Kgawtc8RhFPkS0t_-vLmyGvMAgj3u)
+* Snutt Talk: Let's talk about the Creatures [https://youtube.com/clip/UgkxnqN_5oHQQhpT8psM84QkLe9O4hWqCeHL](https://youtube.com/clip/UgkxnqN_5oHQQhpT8psM84QkLe9O4hWqCeHL)
+* Snutt Talk: Adding new mechanics to some of the weapons [https://youtube.com/clip/UgkxN_3aTg7DCJEB3arWmUZFzQPhM0Jo5vR4](https://youtube.com/clip/UgkxN_3aTg7DCJEB3arWmUZFzQPhM0Jo5vR4)
+* Snutt Talk: Multiple Body Slots [https://youtube.com/clip/UgkxAzgQbaNV-HcVhJlhXZCdUr926wfVXPFx](https://youtube.com/clip/UgkxAzgQbaNV-HcVhJlhXZCdUr926wfVXPFx)
+* Snutt Talk: Improving how you interact with the in-game Map [https://youtube.com/clip/UgkxjgGDGLb2r1FQWI7UsbIYD7hb4MlWQgkx](https://youtube.com/clip/UgkxjgGDGLb2r1FQWI7UsbIYD7hb4MlWQgkx)
+* Snutt Talk: Radar Tower improvements [https://youtube.com/embed/hkMTFsxa7rQ?autoplay=1&start=446&end=450](https://youtube.com/embed/hkMTFsxa7rQ?autoplay=1&start=446&end=450)
+* Snutt Talk: Technical Improvements [https://youtube.com/clip/UgkxUxZLR94Uz4SZOXK5rr2fveDQLA5oz6tQ](https://youtube.com/clip/UgkxUxZLR94Uz4SZOXK5rr2fveDQLA5oz6tQ)
+* Snutt Talk: Reworking the foliage system [https://youtube.com/clip/UgkxxYbl2WdbGVqAFS9YOaDuEiwCWthW_Kpz](https://youtube.com/clip/UgkxxYbl2WdbGVqAFS9YOaDuEiwCWthW_Kpz)
+* Snutt Talk: Miscellaneous improvements [https://youtube.com/clip/Ugkxdt56xboT7Z6jfJSkA9xWn13q3A6YPmUY](https://youtube.com/clip/Ugkxdt56xboT7Z6jfJSkA9xWn13q3A6YPmUY)
+* Snutt Talk: Clock Speed Rebalance [https://youtube.com/clip/UgkxeA-NAudcBFoI2hTOMsHLcNNtTWuIl1QK](https://youtube.com/clip/UgkxeA-NAudcBFoI2hTOMsHLcNNtTWuIl1QK)
+* Snutt Talk: Overclocking & Underclocking explainer [https://youtube.com/embed/hkMTFsxa7rQ?autoplay=1&start=497&end=561](https://youtube.com/embed/hkMTFsxa7rQ?autoplay=1&start=497&end=561)
+* Snutt Talk: The proposed change to Overclocking & Underclocking [https://youtube.com/clip/UgkxqU9P7yQVBzd6vn_QdY1F4mhE5DenTVKb](https://youtube.com/clip/UgkxqU9P7yQVBzd6vn_QdY1F4mhE5DenTVKb)
+* Snutt Talk: Soliciting Community feedback on the proposed change [https://youtube.com/clip/UgkxeqkddoAOw0lxM0x-rCuv_gHq3waSojNm](https://youtube.com/clip/UgkxeqkddoAOw0lxM0x-rCuv_gHq3waSojNm)
+* Snutt Talk: Not planning to make changes to clocking of generators & extractors [https://youtube.com/clip/UgkxhE8GHNHkkxyJrWm8_Ued9ApPGAmVZSgC](https://youtube.com/clip/UgkxhE8GHNHkkxyJrWm8_Ued9ApPGAmVZSgC)
+* Snutt Talk: Still a lot of things to show & discuss [https://youtube.com/clip/UgkxuGOdvjzf6AAAk1hDroMr5mqoBK-2f4SJ](https://youtube.com/clip/UgkxuGOdvjzf6AAAk1hDroMr5mqoBK-2f4SJ)
+* Q&A: When is the Satisfactory Update 6 release date? [https://youtube.com/clip/UgkxzlaA_1LRXD_ph7z-gwF9bSqNZhOy2CAZ](https://youtube.com/clip/UgkxzlaA_1LRXD_ph7z-gwF9bSqNZhOy2CAZ)
+* Snutt Talk: Wrapping up the video [https://youtube.com/clip/UgkxabdUzOGnq6bwmDf3iQvO6q6hnpa-QX7s](https://youtube.com/clip/UgkxabdUzOGnq6bwmDf3iQvO6q6hnpa-QX7s)
+* End Tag [https://youtube.com/embed/hkMTFsxa7rQ?autoplay=1&start=768](https://youtube.com/embed/hkMTFsxa7rQ?autoplay=1&start=768)
 
 ## April 19th, 2022 Livestream
 * [State of Dev](../../../transcriptions/yt-d4RkGw7ei58.md) [https://www.youtube.com/watch?v=d4RkGw7ei58](https://www.youtube.com/watch?v=d4RkGw7ei58)

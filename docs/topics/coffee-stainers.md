@@ -41,6 +41,10 @@ date: Last Modified
 * [Torsten](../topics/coffee-stainers/torsten.md)
 * [Uzu](../topics/coffee-stainers/uzu.md)
 
+## April 22nd, 2022 Video
+* Snutt Talk: Why Update 6 is going to be different [https://youtube.com/embed/hkMTFsxa7rQ?autoplay=1&start=62&end=204](https://youtube.com/embed/hkMTFsxa7rQ?autoplay=1&start=62&end=204)
+* Snutt Talk: Wrapping up the video [https://youtube.com/clip/UgkxabdUzOGnq6bwmDf3iQvO6q6hnpa-QX7s](https://youtube.com/clip/UgkxabdUzOGnq6bwmDf3iQvO6q6hnpa-QX7s)
+
 ## April 19th, 2022 Livestream
 * [Q&A: What is "Skövde C" for you, and why is it the first Station name in Satisfactory?](../transcriptions/yt-1a5Y1wJ2EP0.md) [https://www.youtube.com/watch?v=1a5Y1wJ2EP0](https://www.youtube.com/watch?v=1a5Y1wJ2EP0)
 * [Q&A: How did covid affect the work cycle?](../transcriptions/yt-KaeDt4WaDL0.md) [https://www.youtube.com/watch?v=KaeDt4WaDL0](https://www.youtube.com/watch?v=KaeDt4WaDL0)

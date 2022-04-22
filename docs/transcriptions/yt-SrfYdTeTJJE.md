@@ -4,7 +4,7 @@ date: "2021-09-28"
 layout: transcript
 topics:
     - "satisfactory-updates"
-    - "satisfactory-updates/speculative/satisfactory-update-6"
+    - "satisfactory-updates/pending/satisfactory-update-6"
 ---
 # [September 28th, 2021 Livestream](../2021-09-28.md)
 ## Q&A: Anything you can tease later on?
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=SrfYdTeTJJE
 
 ### Topics
 * [Satisfactory Updates](../topics/satisfactory-updates.md)
-* [Satisfactory Updates > Speculative > Satisfactory Update 6](../topics/satisfactory-updates/speculative/satisfactory-update-6.md)
+* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
 
 ### Transcript
 

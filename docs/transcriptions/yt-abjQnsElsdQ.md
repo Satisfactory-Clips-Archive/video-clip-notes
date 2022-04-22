@@ -3,11 +3,13 @@ title: "February 15th, 2022 Livestream Q&A: Update 6 release date?"
 date: "2022-02-15"
 layout: transcript
 topics:
-    - "satisfactory-updates/speculative/satisfactory-update-6"
+    - "satisfactory-updates/pending/satisfactory-update-6"
 ---
 # [February 15th, 2022 Livestream](../2022-02-15.md)
 ## Q&A: Update 6 release date?
 https://www.youtube.com/watch?v=abjQnsElsdQ
+This question was possibly replaced with a more recent answer: April 22nd, 2022 Video Q&A: When is the Satisfactory Update 6 release date? [https://youtube.com/clip/UgkxzlaA_1LRXD_ph7z-gwF9bSqNZhOy2CAZ](https://youtube.com/clip/UgkxzlaA_1LRXD_ph7z-gwF9bSqNZhOy2CAZ)
+
 <details>
 <summary>This question may have been asked previously at least 6 other times, as recently as December 2021 and as early as September 2020.</summary>
 
@@ -21,7 +23,7 @@ https://www.youtube.com/watch?v=abjQnsElsdQ
 
 
 ### Topics
-* [Satisfactory Updates > Speculative > Satisfactory Update 6](../topics/satisfactory-updates/speculative/satisfactory-update-6.md)
+* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
 
 ### Transcript
 

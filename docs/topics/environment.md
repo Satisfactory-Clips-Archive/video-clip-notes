@@ -11,6 +11,11 @@ date: Last Modified
 * [Resources](../topics/environment/resources.md)
 * [World Map](../topics/environment/world-map.md)
 
+## April 22nd, 2022 Video
+* Environmental Changes [https://youtube.com/embed/hkMTFsxa7rQ?autoplay=1&start=304&end=376](https://youtube.com/embed/hkMTFsxa7rQ?autoplay=1&start=304&end=376)
+* Snutt Talk: Ben's water changes [https://youtube.com/clip/UgkxaD0rJKYKWGhXACEAijg16q-YhZ8Yv8Nt](https://youtube.com/clip/UgkxaD0rJKYKWGhXACEAijg16q-YhZ8Yv8Nt)
+* Snutt Talk: The sky sphere & Swamp Biome [https://youtube.com/clip/UgkxTU-Kgawtc8RhFPkS0t_-vLmyGvMAgj3u](https://youtube.com/clip/UgkxTU-Kgawtc8RhFPkS0t_-vLmyGvMAgj3u)
+
 ## April 15th, 2022 Video
 * [Snutt & Stefan Talk: Sprint 3](../transcriptions/yt-7I3NGAm3j_4,295.9957,322.08843333333334.md) [https://youtube.com/clip/UgkxYqGxjZhFEaf3O7kb2SaF67rZ_uLGGxQM](https://youtube.com/clip/UgkxYqGxjZhFEaf3O7kb2SaF67rZ_uLGGxQM)
 * [Snutt & Stefan Talk: Sprint 6](../transcriptions/yt-7I3NGAm3j_4,544.4772666666667,586.3524333333334.md) [https://youtube.com/clip/UgkxJlhjBBTmsHqjVptIYvN2cjH3sIJiIaqe](https://youtube.com/clip/UgkxJlhjBBTmsHqjVptIYvN2cjH3sIJiIaqe)

@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Embracer Group](../../../topics/embracer-group.md) > Coffee Stain Holding > Coffee Stain Studios
 
+## April 22nd, 2022 Video
+* Snutt Talk: Why Update 6 is going to be different [https://youtube.com/embed/hkMTFsxa7rQ?autoplay=1&start=62&end=204](https://youtube.com/embed/hkMTFsxa7rQ?autoplay=1&start=62&end=204)
+* Snutt Talk: Wrapping up the video [https://youtube.com/clip/UgkxabdUzOGnq6bwmDf3iQvO6q6hnpa-QX7s](https://youtube.com/clip/UgkxabdUzOGnq6bwmDf3iQvO6q6hnpa-QX7s)
+
 ## April 19th, 2022 Livestream
 * [Q&A: How did you guys make the transition from programmer to Community Manager?](../../../transcriptions/yt-qmzmDWp9oa8.md) [https://www.youtube.com/watch?v=qmzmDWp9oa8](https://www.youtube.com/watch?v=qmzmDWp9oa8)
 * [Q&A: Do either of you do programming outside of Coffee Stain?](../../../transcriptions/yt-H5vu7wLupBc.md) [https://www.youtube.com/watch?v=H5vu7wLupBc](https://www.youtube.com/watch?v=H5vu7wLupBc)

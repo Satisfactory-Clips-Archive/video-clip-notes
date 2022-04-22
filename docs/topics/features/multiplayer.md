@@ -7,6 +7,10 @@ date: Last Modified
 * [Crossplay](../../topics/features/multiplayer/crossplay.md)
 * [Dedicated Servers](../../topics/features/multiplayer/dedicated-servers.md)
 
+## April 22nd, 2022 Video
+* Snutt Talk: Reworking the foliage system [https://youtube.com/clip/UgkxxYbl2WdbGVqAFS9YOaDuEiwCWthW_Kpz](https://youtube.com/clip/UgkxxYbl2WdbGVqAFS9YOaDuEiwCWthW_Kpz)
+* Snutt Talk: Miscellaneous improvements [https://youtube.com/clip/Ugkxdt56xboT7Z6jfJSkA9xWn13q3A6YPmUY](https://youtube.com/clip/Ugkxdt56xboT7Z6jfJSkA9xWn13q3A6YPmUY)
+
 ## April 19th, 2022 Livestream
 * [Q&A: What about a shared notepad in-game where people can share simple notes?](../../transcriptions/yt-quJL55MBmZU.md) [https://www.youtube.com/watch?v=quJL55MBmZU](https://www.youtube.com/watch?v=quJL55MBmZU)
 

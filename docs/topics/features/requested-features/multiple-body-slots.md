@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Requested Features](../../../topics/features/requested-features.md) > Multiple Body Slots
 
+## April 22nd, 2022 Video
+* Snutt Talk: Multiple Body Slots [https://youtube.com/clip/UgkxAzgQbaNV-HcVhJlhXZCdUr926wfVXPFx](https://youtube.com/clip/UgkxAzgQbaNV-HcVhJlhXZCdUr926wfVXPFx)
+
 ## March 29th, 2022 Livestream
 * [Q&A: Will we ever be able to equip all the Equipment at once?](../../../transcriptions/yt-i7Oym1g9yio.md) [https://www.youtube.com/watch?v=i7Oym1g9yio](https://www.youtube.com/watch?v=i7Oym1g9yio)
 

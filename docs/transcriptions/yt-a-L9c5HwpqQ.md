@@ -4,7 +4,7 @@ date: "2022-01-18"
 layout: transcript
 topics:
     - "community/wiki"
-    - "satisfactory-updates/speculative/satisfactory-update-6"
+    - "satisfactory-updates/pending/satisfactory-update-6"
 ---
 # [January 18th, 2022 Livestream](../2022-01-18.md)
 ## Q&A: Where is your focus for Update 6?
@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=a-L9c5HwpqQ
 
 ### Topics
 * [Community > Wiki](../topics/community/wiki.md)
-* [Satisfactory Updates > Speculative > Satisfactory Update 6](../topics/satisfactory-updates/speculative/satisfactory-update-6.md)
+* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
 
 ### Transcript
 

@@ -24,6 +24,10 @@ date: Last Modified
 * [Vilsol](../topics/community/vilsol.md)
 * [Wiki](../topics/community/wiki.md)
 
+## April 22nd, 2022 Video
+* Snutt Talk: Soliciting Community feedback on the proposed change [https://youtube.com/clip/UgkxeqkddoAOw0lxM0x-rCuv_gHq3waSojNm](https://youtube.com/clip/UgkxeqkddoAOw0lxM0x-rCuv_gHq3waSojNm)
+* Snutt Talk: Still a lot of things to show & discuss [https://youtube.com/clip/UgkxuGOdvjzf6AAAk1hDroMr5mqoBK-2f4SJ](https://youtube.com/clip/UgkxuGOdvjzf6AAAk1hDroMr5mqoBK-2f4SJ)
+
 ## April 19th, 2022 Livestream
 * [Snutt & Jace Talk: "Eat shit, chat!"](../transcriptions/yt-pzSh8VJWwwY.md) [https://www.youtube.com/watch?v=pzSh8VJWwwY](https://www.youtube.com/watch?v=pzSh8VJWwwY)
 * [Q&A: Have any of you been able to open BLAndrew575's save pre-screws yet?](../transcriptions/yt-VJwqxepEJuM.md) [https://www.youtube.com/watch?v=VJwqxepEJuM](https://www.youtube.com/watch?v=VJwqxepEJuM)

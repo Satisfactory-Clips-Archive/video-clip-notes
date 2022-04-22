@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > Radar Tower
 
+## April 22nd, 2022 Video
+* Snutt Talk: Radar Tower improvements [https://youtube.com/embed/hkMTFsxa7rQ?autoplay=1&start=446&end=450](https://youtube.com/embed/hkMTFsxa7rQ?autoplay=1&start=446&end=450)
+
 ## October 5th, 2021 Livestream
 * Q&A: Radar Tower change? [https://www.youtube.com/watch?v=Hr49ERiu1v8](https://www.youtube.com/watch?v=Hr49ERiu1v8)
 

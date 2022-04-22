@@ -4,7 +4,7 @@ date: "2022-04-12"
 layout: transcript
 topics:
     - "coffee-stainers/jace"
-    - "satisfactory-updates/speculative/satisfactory-update-6"
+    - "satisfactory-updates/pending/satisfactory-update-6"
 ---
 # [April 12th, 2022 Livestream](../2022-04-12.md)
 ## Q&A: Are we going to hear about the next Update before Jace comes back to Sweden?
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=kuF-g8iD7o8
 
 ### Topics
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
-* [Satisfactory Updates > Speculative > Satisfactory Update 6](../topics/satisfactory-updates/speculative/satisfactory-update-6.md)
+* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
 
 ### Transcript
 

@@ -13,6 +13,7 @@ date: Last Modified
 * [Update 5 Launch Stream](../../topics/satisfactory-updates/teasers-and-trailers/update-5-launch-stream.md)
 * [Update 5 Patch Notes Video](../../topics/satisfactory-updates/teasers-and-trailers/update-5-patch-notes-video.md)
 * [Update 5 Teasers](../../topics/satisfactory-updates/teasers-and-trailers/update-5-teasers.md)
+* [Update 6 Teasers](../../topics/satisfactory-updates/teasers-and-trailers/update-6-teasers.md)
 
 ## April 19th, 2022 Livestream
 * [Q&A: The builds that you use for Update Trailers, do you keep the build files?](../../transcriptions/yt-9VZay2Q1f2o.md) [https://www.youtube.com/watch?v=9VZay2Q1f2o](https://www.youtube.com/watch?v=9VZay2Q1f2o)

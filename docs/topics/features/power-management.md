@@ -10,6 +10,10 @@ date: Last Modified
 * [Power Storage](../../topics/features/power-management/power-storage.md)
 * [Power Switch](../../topics/features/power-management/power-switch.md)
 
+## April 22nd, 2022 Video
+* Snutt Talk: Overclocking & Underclocking explainer [https://youtube.com/embed/hkMTFsxa7rQ?autoplay=1&start=497&end=561](https://youtube.com/embed/hkMTFsxa7rQ?autoplay=1&start=497&end=561)
+* Snutt Talk: Not planning to make changes to clocking of generators & extractors [https://youtube.com/clip/UgkxhE8GHNHkkxyJrWm8_Ued9ApPGAmVZSgC](https://youtube.com/clip/UgkxhE8GHNHkkxyJrWm8_Ued9ApPGAmVZSgC)
+
 ## April 15th, 2022 Video
 * [Snutt & Stefan Talk: Wind Power in Sprint 3](../../transcriptions/yt-7I3NGAm3j_4,377.64393333333334,409.84276666666665.md) [https://youtube.com/clip/UgkxybvxAhd1QI-WJEO0msAL8csMr_KYWqOM](https://youtube.com/clip/UgkxybvxAhd1QI-WJEO0msAL8csMr_KYWqOM)
 * [Snutt & Stefan Talk: Daisy-chained power in Sprint 3](../../transcriptions/yt-7I3NGAm3j_4,477.34353333333337,494.5273666666667.md) [https://youtube.com/clip/UgkxPkYKvH8AGYQTRn5I1zBLSsv2g_NjZk8t](https://youtube.com/clip/UgkxPkYKvH8AGYQTRn5I1zBLSsv2g_NjZk8t)
