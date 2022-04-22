@@ -80,6 +80,9 @@ date: Last Modified
 ## June 12th, 2020 Video
 * Jace Talk: Sales figures [https://youtube.com/embed/dWVeL2caR6o?autoplay=1&start=42&end=69](https://youtube.com/embed/dWVeL2caR6o?autoplay=1&start=42&end=69)
 
+## June 8th, 2020 Livestream
+* [Q&A: Will you using Steam Workshop?](../../transcriptions/yt-5KyHoIVdGzc.md) [https://www.youtube.com/watch?v=5KyHoIVdGzc](https://www.youtube.com/watch?v=5KyHoIVdGzc)
+
 ## April 2nd, 2020 Q&A
 * [Q&A: Can I transfer my Epic version to Steam?](../../transcriptions/yt-BmKMv6SZJ5M,187.22,206.74.md) [https://youtube.com/embed/BmKMv6SZJ5M?autoplay=1&start=187&end=207](https://youtube.com/embed/BmKMv6SZJ5M?autoplay=1&start=187&end=207)
 

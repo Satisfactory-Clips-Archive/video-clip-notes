@@ -5,6 +5,7 @@ layout: transcript
 topics:
     - "easter-eggs"
     - "environment/creatures/lizard-doggo"
+    - "off-topic/portal"
 ---
 # [August 10th, 2021 Livestream](../2021-08-10.md)
 ## Q&A: I know Jace likes Portal, if you get Doggos near each other they could sing like the turrets?
@@ -13,6 +14,7 @@ https://www.youtube.com/watch?v=LxR-pnwW_so
 ### Topics
 * [Easter Eggs](../topics/easter-eggs.md)
 * [Environment > Creatures > Lizard Doggo](../topics/environment/creatures/lizard-doggo.md)
+* [Off-Topic > Portal](../topics/off-topic/portal.md)
 
 ### Transcript
 

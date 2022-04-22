@@ -3,7 +3,10 @@ title: "June 8th, 2020 Livestream Q&A: Will you using Steam Workshop?"
 date: "2020-06-08"
 layout: transcript
 topics:
+    - "mods/official-mod-support"
     - "mods/official-mod-support/steam-workshop"
+    - "retail/epic-store"
+    - "retail/steam-store"
 ---
 # [June 8th, 2020 Livestream](../2020-06-08.md)
 ## Q&A: Will you using Steam Workshop?
@@ -12,7 +15,10 @@ This question was possibly duplicated with a more recent answer: [November 2nd, 
 
 
 ### Topics
+* [Mods > Official Mod Support](../topics/mods/official-mod-support.md)
 * [Mods > Official Mod Support > Steam Workshop](../topics/mods/official-mod-support/steam-workshop.md)
+* [Retail > Epic Store](../topics/retail/epic-store.md)
+* [Retail > Steam Store](../topics/retail/steam-store.md)
 
 ### Transcript
 

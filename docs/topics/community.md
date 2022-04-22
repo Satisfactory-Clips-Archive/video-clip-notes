@@ -24,6 +24,12 @@ date: Last Modified
 * [Vilsol](../topics/community/vilsol.md)
 * [Wiki](../topics/community/wiki.md)
 
+## April 19th, 2022 Livestream
+* [Snutt & Jace Talk: "Eat shit, chat!"](../transcriptions/yt-pzSh8VJWwwY.md) [https://www.youtube.com/watch?v=pzSh8VJWwwY](https://www.youtube.com/watch?v=pzSh8VJWwwY)
+* [Q&A: Have any of you been able to open BLAndrew575's save pre-screws yet?](../transcriptions/yt-VJwqxepEJuM.md) [https://www.youtube.com/watch?v=VJwqxepEJuM](https://www.youtube.com/watch?v=VJwqxepEJuM)
+* [Q&A: Do you guys have a problem if I create desktop wallpapers, then share them as Steam posts?](../transcriptions/yt-O_oiYq5dBC8.md) [https://www.youtube.com/watch?v=O_oiYq5dBC8](https://www.youtube.com/watch?v=O_oiYq5dBC8)
+* [Community FYI: We've met the Lego goal](../transcriptions/yt-sctiD3anTDg.md) [https://www.youtube.com/watch?v=sctiD3anTDg](https://www.youtube.com/watch?v=sctiD3anTDg)
+
 ## April 8th, 2022 Video
 * [Jace Talk: Crowdin](../transcriptions/yt-o6ao9-UIZIQ,1772.7376333333334,1794.7930000000001.md) [https://youtube.com/clip/UgkxKFYeckJrKMH9d_Q3ZqyT2RdhmYYEEQCJ](https://youtube.com/clip/UgkxKFYeckJrKMH9d_Q3ZqyT2RdhmYYEEQCJ)
 * [Jace Talk: Discord](../transcriptions/yt-o6ao9-UIZIQ,1896.3611333333333,1925.1232.md) [https://youtube.com/clip/Ugkx0YlHuVmqtGD3_iIDuJczKaWNIi98LApj](https://youtube.com/clip/Ugkx0YlHuVmqtGD3_iIDuJczKaWNIi98LApj)

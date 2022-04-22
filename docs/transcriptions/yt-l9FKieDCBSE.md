@@ -8,6 +8,8 @@ topics:
 # [April 12th, 2022 Livestream](../2022-04-12.md)
 ## Q&A: EU Merch status update?
 https://www.youtube.com/watch?v=l9FKieDCBSE
+This question was possibly replaced with a more recent answer: [April 19th, 2022 Livestream Q&A: Heard anything about the EU Merch store since last week?](./yt-C5cv2KCrtmA.md) [https://www.youtube.com/watch?v=C5cv2KCrtmA](https://www.youtube.com/watch?v=C5cv2KCrtmA)
+
 <details>
 <summary>This question may have been asked previously at least 17 other times, as recently as October 2021 and as early as September 2020.</summary>
 

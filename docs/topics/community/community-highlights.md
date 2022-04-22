@@ -5,6 +5,14 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Community Highlights
 
+## April 19th, 2022 Livestream
+* [Q&A: Any chance of an off-duty stream with the two of you playing actual Portal 2 co-op?](../../transcriptions/yt-KhjCtb3t7wI.md) [https://www.youtube.com/watch?v=KhjCtb3t7wI](https://www.youtube.com/watch?v=KhjCtb3t7wI)
+* [Community FYI: There's a co-op achievement for dunking your partner in the pools of toxic goop](../../transcriptions/yt-EVORRjnmH-8.md) [https://www.youtube.com/watch?v=EVORRjnmH-8](https://www.youtube.com/watch?v=EVORRjnmH-8)
+* [Community FYI: Portal Reloaded is on Steam](../../transcriptions/yt-aT6apKc-dEk.md) [https://www.youtube.com/watch?v=aT6apKc-dEk](https://www.youtube.com/watch?v=aT6apKc-dEk)
+* [Community FYI: Seems like Windows' old screensaver](../../transcriptions/yt-uj-FnLbnS5Q.md) [https://www.youtube.com/watch?v=uj-FnLbnS5Q](https://www.youtube.com/watch?v=uj-FnLbnS5Q)
+* [Snutt & Jace Talk: "Eat shit, chat!"](../../transcriptions/yt-pzSh8VJWwwY.md) [https://www.youtube.com/watch?v=pzSh8VJWwwY](https://www.youtube.com/watch?v=pzSh8VJWwwY)
+* [Q&A: Have any of you been able to open BLAndrew575's save pre-screws yet?](../../transcriptions/yt-VJwqxepEJuM.md) [https://www.youtube.com/watch?v=VJwqxepEJuM](https://www.youtube.com/watch?v=VJwqxepEJuM)
+
 ## April 12th, 2022 Livestream
 * [Q&A: Have you considered putting Community-made stuff in the main menu background?](../../transcriptions/yt-8YhR-3dHy_c.md) [https://www.youtube.com/watch?v=8YhR-3dHy_c](https://www.youtube.com/watch?v=8YhR-3dHy_c)
 

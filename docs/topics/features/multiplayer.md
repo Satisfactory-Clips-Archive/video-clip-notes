@@ -7,6 +7,9 @@ date: Last Modified
 * [Crossplay](../../topics/features/multiplayer/crossplay.md)
 * [Dedicated Servers](../../topics/features/multiplayer/dedicated-servers.md)
 
+## April 19th, 2022 Livestream
+* [Q&A: What about a shared notepad in-game where people can share simple notes?](../../transcriptions/yt-quJL55MBmZU.md) [https://www.youtube.com/watch?v=quJL55MBmZU](https://www.youtube.com/watch?v=quJL55MBmZU)
+
 ## April 5th, 2022 Livestream
 * [Snutt & Jace Talk: Multiplayer 4Package% Speedrunning](../../transcriptions/yt-rbHZJS33ZJc.md) [https://www.youtube.com/watch?v=rbHZJS33ZJc](https://www.youtube.com/watch?v=rbHZJS33ZJc)
 

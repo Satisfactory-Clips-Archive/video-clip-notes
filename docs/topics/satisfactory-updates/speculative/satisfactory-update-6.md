@@ -5,6 +5,15 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Speculative > Satisfactory Update 6
 
+## April 19th, 2022 Livestream
+* [State of Dev](../../../transcriptions/yt-d4RkGw7ei58.md) [https://www.youtube.com/watch?v=d4RkGw7ei58](https://www.youtube.com/watch?v=d4RkGw7ei58)
+* [Q&A: Where's the Update?](../../../transcriptions/yt-6i-IYIg-3s8.md) [https://www.youtube.com/watch?v=6i-IYIg-3s8](https://www.youtube.com/watch?v=6i-IYIg-3s8)
+* [Q&A: Please tell us what it will contain?](../../../transcriptions/yt-oY1dlzul3WU.md) [https://www.youtube.com/watch?v=oY1dlzul3WU](https://www.youtube.com/watch?v=oY1dlzul3WU)
+* [Q&A: Can I get a promise that it won't land before Sunday?](../../../transcriptions/yt-XPBBl389yuA.md) [https://www.youtube.com/watch?v=XPBBl389yuA](https://www.youtube.com/watch?v=XPBBl389yuA)
+* [Q&A: What is the rough length of the video on Friday?](../../../transcriptions/yt-piCo5S6hcgw.md) [https://www.youtube.com/watch?v=piCo5S6hcgw](https://www.youtube.com/watch?v=piCo5S6hcgw)
+* [Q&A: Will this next Update have a completed Soundtrack?](../../../transcriptions/yt-P_xCjhLJs2g.md) [https://www.youtube.com/watch?v=P_xCjhLJs2g](https://www.youtube.com/watch?v=P_xCjhLJs2g)
+* [Snutt & Jace Talk: Friday Update news video](../../../transcriptions/yt-uhkG6WNaJ48.md) [https://www.youtube.com/watch?v=uhkG6WNaJ48](https://www.youtube.com/watch?v=uhkG6WNaJ48)
+
 ## April 12th, 2022 Livestream
 * [Intro & State of Dave](../../../transcriptions/yt-l0QXzVuiGVE.md) [https://www.youtube.com/watch?v=l0QXzVuiGVE](https://www.youtube.com/watch?v=l0QXzVuiGVE)
 * [Q&A: Can you hype us up a bit more for the pre-pre announcement?](../../../transcriptions/yt-9YYkdVZOzV8.md) [https://www.youtube.com/watch?v=9YYkdVZOzV8](https://www.youtube.com/watch?v=9YYkdVZOzV8)

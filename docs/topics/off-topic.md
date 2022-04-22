@@ -7,12 +7,14 @@ date: Last Modified
 * [Australia](../topics/off-topic/australia.md)
 * [Deep Rock Galactic](../topics/off-topic/deep-rock-galactic.md)
 * [E3](../topics/off-topic/e3.md)
+* [Elden Ring](../topics/off-topic/elden-ring.md)
 * [Factorio](../topics/off-topic/factorio.md)
 * [Final Fantasy](../topics/off-topic/final-fantasy.md)
 * [Food & Drink](../topics/off-topic/food-and-drink.md)
 * [Goat Simulator](../topics/off-topic/goat-simulator.md)
 * [I Love Strawberries](../topics/off-topic/i-love-strawberries.md)
 * [Infinifactory](../topics/off-topic/infinifactory.md)
+* [Portal](../topics/off-topic/portal.md)
 * [Sanctum](../topics/off-topic/sanctum.md)
 * [Songs of Conquest](../topics/off-topic/songs-of-conquest.md)
 * [Subnautica](../topics/off-topic/subnautica.md)
@@ -21,6 +23,9 @@ date: Last Modified
 * [The Cycle](../topics/off-topic/the-cycle.md)
 * [Valheim](../topics/off-topic/valheim.md)
 
+## April 19th, 2022 Livestream
+* [Community FYI: There's a co-op achievement for dunking your partner in the pools of toxic goop](../transcriptions/yt-EVORRjnmH-8.md) [https://www.youtube.com/watch?v=EVORRjnmH-8](https://www.youtube.com/watch?v=EVORRjnmH-8)
+
 ## April 1st, 2022 Video
 * Snutt & Jace Talk: Chrono Cross [https://youtube.com/embed/jAc8Fnj1o9w?autoplay=1&start=2042&end=2205](https://youtube.com/embed/jAc8Fnj1o9w?autoplay=1&start=2042&end=2205)
 * Snutt & Jace Talk: The Legend of Dragoon [https://youtube.com/embed/jAc8Fnj1o9w?autoplay=1&start=2204&end=2237](https://youtube.com/embed/jAc8Fnj1o9w?autoplay=1&start=2204&end=2237)
@@ -28,9 +33,6 @@ date: Last Modified
 
 ## March 29th, 2022 Livestream
 * [Q&A: Will you disable building like in Fortnite?](../transcriptions/yt-qY3pI7IPyJU.md) [https://www.youtube.com/watch?v=qY3pI7IPyJU](https://www.youtube.com/watch?v=qY3pI7IPyJU)
-
-## March 8th, 2022 Livestream
-* [Q&A: How far are you in Elden Ring?](../transcriptions/yt-bTdyh-xxgOU.md) [https://www.youtube.com/watch?v=bTdyh-xxgOU](https://www.youtube.com/watch?v=bTdyh-xxgOU)
 
 ## February 22nd, 2022 Livestream
 * [Community FYI: Spock is Star Trek, though](../transcriptions/yt-Zvj3uNH1a-M.md) [https://www.youtube.com/watch?v=Zvj3uNH1a-M](https://www.youtube.com/watch?v=Zvj3uNH1a-M)

@@ -41,6 +41,10 @@ date: Last Modified
 * [Torsten](../topics/coffee-stainers/torsten.md)
 * [Uzu](../topics/coffee-stainers/uzu.md)
 
+## April 19th, 2022 Livestream
+* [Q&A: What is "Skövde C" for you, and why is it the first Station name in Satisfactory?](../transcriptions/yt-1a5Y1wJ2EP0.md) [https://www.youtube.com/watch?v=1a5Y1wJ2EP0](https://www.youtube.com/watch?v=1a5Y1wJ2EP0)
+* [Q&A: How did covid affect the work cycle?](../transcriptions/yt-KaeDt4WaDL0.md) [https://www.youtube.com/watch?v=KaeDt4WaDL0](https://www.youtube.com/watch?v=KaeDt4WaDL0)
+
 ## April 8th, 2022 Video
 * [Jace Talk: Unreal Engine 4 (Part 1)](../transcriptions/yt-o6ao9-UIZIQ,103.93716666666667,133.5334.md) [https://youtube.com/clip/UgkxidAarRVATlSr5B6iAeDwRGHGb8LtxXw4](https://youtube.com/clip/UgkxidAarRVATlSr5B6iAeDwRGHGb8LtxXw4)
 * [Jace Talk: Google](../transcriptions/yt-o6ao9-UIZIQ,133.56676666666667,153.72023333333334.md) [https://youtube.com/clip/UgkxFUbDnYYPor2eyNUwIOromaxLrB6MqdnG](https://youtube.com/clip/UgkxFUbDnYYPor2eyNUwIOromaxLrB6MqdnG)

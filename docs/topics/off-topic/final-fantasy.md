@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Final Fantasy
 * [The Official Satisfactory PODCAST](../../topics/off-topic/final-fantasy/the-official-satisfactory-podcast.md)
 
+## April 19th, 2022 Livestream
+* [State of Dev](../../transcriptions/yt-d4RkGw7ei58.md) [https://www.youtube.com/watch?v=d4RkGw7ei58](https://www.youtube.com/watch?v=d4RkGw7ei58)
+
 ## April 1st, 2022 Video
 * Snutt & Jace Talk: Final Fantasy (Part 1) [https://youtube.com/embed/jAc8Fnj1o9w?autoplay=1&start=153&end=694](https://youtube.com/embed/jAc8Fnj1o9w?autoplay=1&start=153&end=694)
 * Snutt & Jace Talk: Final Fantasy (Part 2) [https://youtube.com/embed/jAc8Fnj1o9w?autoplay=1&start=791&end=1792](https://youtube.com/embed/jAc8Fnj1o9w?autoplay=1&start=791&end=1792)

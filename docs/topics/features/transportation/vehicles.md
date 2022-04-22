@@ -12,6 +12,9 @@ date: Last Modified
 * [Tractor](../../../topics/features/transportation/vehicles/tractor.md)
 * [Truck](../../../topics/features/transportation/vehicles/truck.md)
 
+## April 19th, 2022 Livestream
+* [Q&A: My car is submerged in water, how do I get it out?](../../../transcriptions/yt-ypU5u55kT-E.md) [https://www.youtube.com/watch?v=ypU5u55kT-E](https://www.youtube.com/watch?v=ypU5u55kT-E)
+
 ## April 15th, 2022 Video
 * [Snutt & Stefan Talk: Vehicles in Sprint 12](../../../transcriptions/yt-7I3NGAm3j_4,1216.0481666666667,1247.6797666666666.md) [https://youtube.com/clip/UgkxrqokJcKOHPc4eiTHXgc3iAnBBfotSV64](https://youtube.com/clip/UgkxrqokJcKOHPc4eiTHXgc3iAnBBfotSV64)
 

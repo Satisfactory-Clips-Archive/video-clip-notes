@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildables](../../../topics/features/buildables.md) > Conveyor Belts
 
+## April 19th, 2022 Livestream
+* [Q&A: Do you plan to add Wall Holes for Belts, similar to Floor Holes for Foundations?](../../../transcriptions/yt-XKoMKtf1ZjY.md) [https://www.youtube.com/watch?v=XKoMKtf1ZjY](https://www.youtube.com/watch?v=XKoMKtf1ZjY)
+* [Q&A: Any thoughts on adding current throughput values to Smart Splitters?](../../../transcriptions/yt-Y7vmdv6o3io.md) [https://www.youtube.com/watch?v=Y7vmdv6o3io](https://www.youtube.com/watch?v=Y7vmdv6o3io)
+
 ## April 15th, 2022 Video
 * [Snutt & Stefan Talk: Sprint 2](../../../transcriptions/yt-7I3NGAm3j_4,247.0468,295.96233333333333.md) [https://youtube.com/clip/UgkxBbDwyKi_LtDsndgZbr98gzofrL1g1aVu](https://youtube.com/clip/UgkxBbDwyKi_LtDsndgZbr98gzofrL1g1aVu)
 * [Snutt & Stefan Talk: Assembly lines in Sprint 3](../../../transcriptions/yt-7I3NGAm3j_4,409.8761333333333,477.3101666666667.md) [https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=409&end=478](https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=409&end=478)

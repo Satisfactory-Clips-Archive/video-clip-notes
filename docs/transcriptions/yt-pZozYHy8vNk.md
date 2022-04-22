@@ -8,11 +8,7 @@ topics:
 # [June 29th, 2021 Livestream](../2021-06-29.md)
 ## Q&A: Add a scratch pad in game?
 https://www.youtube.com/watch?v=pZozYHy8vNk
-<details>
-<summary>This question may have been asked previously at least 1 other time, as recently as February 2021.</summary>
-
-* February 23rd, 2021 Livestream Q&A: Can we get an in-game notepad? [https://www.youtube.com/watch?v=chc6o85O0AQ](https://www.youtube.com/watch?v=chc6o85O0AQ)
-</details>
+This question was possibly duplicated with a more recent answer: [April 19th, 2022 Livestream Q&A: What about a shared notepad in-game where people can share simple notes?](./yt-quJL55MBmZU.md) [https://www.youtube.com/watch?v=quJL55MBmZU](https://www.youtube.com/watch?v=quJL55MBmZU)
 
 
 ### Topics

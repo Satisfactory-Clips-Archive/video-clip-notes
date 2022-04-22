@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Deep Rock Galactic
 
+## April 19th, 2022 Livestream
+* [Q&A: Do you have any future plans for Deep Rock Galactic, DLC-wise?](../../transcriptions/yt-veoLleeKnBA.md) [https://www.youtube.com/watch?v=veoLleeKnBA](https://www.youtube.com/watch?v=veoLleeKnBA)
+
 ## April 12th, 2022 Livestream
 * [Q&A: How come Coffee Stain produces such absolute bangers like Valheim, Deep Rock, and Satisfactory?](../../transcriptions/yt-DkAFlDyKX8Q.md) [https://www.youtube.com/watch?v=DkAFlDyKX8Q](https://www.youtube.com/watch?v=DkAFlDyKX8Q)
 

@@ -14,6 +14,9 @@ date: Last Modified
 * [Sprint 23](../../topics/satisfactory-updates/satisfactory-prototypes/sprint-23.md)
 * [Sprint 26](../../topics/satisfactory-updates/satisfactory-prototypes/sprint-26.md)
 
+## April 19th, 2022 Livestream
+* [State of Dev](../../transcriptions/yt-d4RkGw7ei58.md) [https://www.youtube.com/watch?v=d4RkGw7ei58](https://www.youtube.com/watch?v=d4RkGw7ei58)
+
 ## April 15th, 2022 Video
 * [Snutt & Stefan Talk: Satisfactory started in a game jam](../../transcriptions/yt-7I3NGAm3j_4,70.2702,107.54076666666667.md) [https://youtube.com/clip/UgkxgZsYzyq7e-TSZh6QMZRMnCuHTCuMAMnn](https://youtube.com/clip/UgkxgZsYzyq7e-TSZh6QMZRMnCuHTCuMAMnn)
 * [Snutt Talk: Mining mini-game](../../transcriptions/yt-7I3NGAm3j_4,2143.4746666666665,2157.8223333333335.md) [https://youtube.com/clip/UgkxawPpd0eb7YA0WlrN8LpGMx6HEB8EGHuZ](https://youtube.com/clip/UgkxawPpd0eb7YA0WlrN8LpGMx6HEB8EGHuZ)

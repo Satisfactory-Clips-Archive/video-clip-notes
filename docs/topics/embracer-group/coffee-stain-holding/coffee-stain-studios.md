@@ -5,6 +5,13 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Embracer Group](../../../topics/embracer-group.md) > Coffee Stain Holding > Coffee Stain Studios
 
+## April 19th, 2022 Livestream
+* [Q&A: How did you guys make the transition from programmer to Community Manager?](../../../transcriptions/yt-qmzmDWp9oa8.md) [https://www.youtube.com/watch?v=qmzmDWp9oa8](https://www.youtube.com/watch?v=qmzmDWp9oa8)
+* [Q&A: Do either of you do programming outside of Coffee Stain?](../../../transcriptions/yt-H5vu7wLupBc.md) [https://www.youtube.com/watch?v=H5vu7wLupBc](https://www.youtube.com/watch?v=H5vu7wLupBc)
+* [Q&A: When you're ready for a build, do you hold off on new dev or work to finish current PRs?](../../../transcriptions/yt-vF0tADMDgio.md) [https://www.youtube.com/watch?v=vF0tADMDgio](https://www.youtube.com/watch?v=vF0tADMDgio)
+* [Q&A: How did covid affect the work cycle?](../../../transcriptions/yt-KaeDt4WaDL0.md) [https://www.youtube.com/watch?v=KaeDt4WaDL0](https://www.youtube.com/watch?v=KaeDt4WaDL0)
+* [Q&A: When is the anniversary of Coffee Stain's formation, are you planning on doing anything for it?](../../../transcriptions/yt-VTRmhbWgS5Q.md) [https://www.youtube.com/watch?v=VTRmhbWgS5Q](https://www.youtube.com/watch?v=VTRmhbWgS5Q)
+
 ## April 15th, 2022 Video
 * [Stefan Talk: This is what a team of 16 people could do in 2 weeks](../../../transcriptions/yt-7I3NGAm3j_4,223.15626666666668,247.01343333333332.md) [https://youtube.com/clip/UgkxMGxYc-pJBD5XlyOOPZyYZHWdWQCpaCS_](https://youtube.com/clip/UgkxMGxYc-pJBD5XlyOOPZyYZHWdWQCpaCS_)
 

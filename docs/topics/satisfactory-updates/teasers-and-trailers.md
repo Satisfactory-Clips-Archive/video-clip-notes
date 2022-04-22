@@ -14,6 +14,10 @@ date: Last Modified
 * [Update 5 Patch Notes Video](../../topics/satisfactory-updates/teasers-and-trailers/update-5-patch-notes-video.md)
 * [Update 5 Teasers](../../topics/satisfactory-updates/teasers-and-trailers/update-5-teasers.md)
 
+## April 19th, 2022 Livestream
+* [Q&A: The builds that you use for Update Trailers, do you keep the build files?](../../transcriptions/yt-9VZay2Q1f2o.md) [https://www.youtube.com/watch?v=9VZay2Q1f2o](https://www.youtube.com/watch?v=9VZay2Q1f2o)
+* [Snutt & Jace Talk: Friday Update news video](../../transcriptions/yt-uhkG6WNaJ48.md) [https://www.youtube.com/watch?v=uhkG6WNaJ48](https://www.youtube.com/watch?v=uhkG6WNaJ48)
+
 ## April 12th, 2022 Livestream
 * [Q&A: If you could pick the theme of an Update based on where you wanted to film the Patch Notes...](../../transcriptions/yt-mJVRad-m-EM.md) [https://www.youtube.com/watch?v=mJVRad-m-EM](https://www.youtube.com/watch?v=mJVRad-m-EM)
 

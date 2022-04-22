@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Australia
 
+## April 19th, 2022 Livestream
+* [Q&A: Can Jace do an Australian accent?](../../transcriptions/yt-A2nW02YAaVk.md) [https://www.youtube.com/watch?v=A2nW02YAaVk](https://www.youtube.com/watch?v=A2nW02YAaVk)
+
 ## March 22nd, 2022 Livestream
 * [Snutt & Jace Talk: Sweden, Australia, and Final Fantasy](../../transcriptions/yt-nB5WPdA8EPs.md) [https://www.youtube.com/watch?v=nB5WPdA8EPs](https://www.youtube.com/watch?v=nB5WPdA8EPs)
 

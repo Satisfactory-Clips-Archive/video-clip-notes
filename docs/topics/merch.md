@@ -7,6 +7,11 @@ date: Last Modified
 * [EU Merch Store](../topics/merch/eu-merch-store.md)
 * [Merch Prototypes](../topics/merch/merch-prototypes.md)
 
+## April 19th, 2022 Livestream
+* [Community FYI: We've met the Lego goal](../transcriptions/yt-sctiD3anTDg.md) [https://www.youtube.com/watch?v=sctiD3anTDg](https://www.youtube.com/watch?v=sctiD3anTDg)
+* [Q&A: Will you consider working with alternative bricks, for example bluebrixx instead of Lego?](../transcriptions/yt-uKrwveLAX2A.md) [https://www.youtube.com/watch?v=uKrwveLAX2A](https://www.youtube.com/watch?v=uKrwveLAX2A)
+* [Q&A: Are you guys planning for Merchandise?](../transcriptions/yt-KTA7tobESKI.md) [https://www.youtube.com/watch?v=KTA7tobESKI](https://www.youtube.com/watch?v=KTA7tobESKI)
+
 ## March 22nd, 2022 Livestream
 * [Snutt & Jace Talk: Satisfactory Constructor Lego Set](../transcriptions/yt-120i4hEezfY.md) [https://www.youtube.com/watch?v=120i4hEezfY](https://www.youtube.com/watch?v=120i4hEezfY)
 * [Q&A: With 10k are they going to make the Lego set?](../transcriptions/yt-uVSEWzl4MDA.md) [https://www.youtube.com/watch?v=uVSEWzl4MDA](https://www.youtube.com/watch?v=uVSEWzl4MDA)

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildables](../../../topics/features/buildables.md) > Walls
 
+## April 19th, 2022 Livestream
+* [Q&A: Do you plan to add Wall Holes for Belts, similar to Floor Holes for Foundations?](../../../transcriptions/yt-XKoMKtf1ZjY.md) [https://www.youtube.com/watch?v=XKoMKtf1ZjY](https://www.youtube.com/watch?v=XKoMKtf1ZjY)
+
 ## April 15th, 2022 Video
 * [Snutt & Jace Talk: Decor in Sprint 26](../../../transcriptions/yt-7I3NGAm3j_4,2244.6424,2285.6500333333333.md) [https://youtube.com/clip/UgkxfxGzx-UW5rY1UN-kFjxqRifFrnuzkkUZ](https://youtube.com/clip/UgkxfxGzx-UW5rY1UN-kFjxqRifFrnuzkkUZ)
 

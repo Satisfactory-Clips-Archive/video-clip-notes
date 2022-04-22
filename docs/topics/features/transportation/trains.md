@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > Transportation > Trains
 * [Train Signals](../../../topics/features/transportation/trains/train-signals.md)
 
+## April 19th, 2022 Livestream
+* [Q&A: What is "Skövde C" for you, and why is it the first Station name in Satisfactory?](../../../transcriptions/yt-1a5Y1wJ2EP0.md) [https://www.youtube.com/watch?v=1a5Y1wJ2EP0](https://www.youtube.com/watch?v=1a5Y1wJ2EP0)
+
 ## April 15th, 2022 Video
 * [Snutt & Stefan Talk: Trains in Sprint 23](../../../transcriptions/yt-7I3NGAm3j_4,1904.9363666666668,1969.1338333333333.md) [https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=1904&end=1970](https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=1904&end=1970)
 

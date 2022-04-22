@@ -12,6 +12,12 @@ date: Last Modified
 * [Pollution](../../topics/features/requested-features/pollution.md)
 * [Third-person View](../../topics/features/requested-features/third-person-view.md)
 
+## April 19th, 2022 Livestream
+* [Q&A: When will you add episode 2 on the Podcast?](../../transcriptions/yt-g57nuSoIYnw.md) [https://www.youtube.com/watch?v=g57nuSoIYnw](https://www.youtube.com/watch?v=g57nuSoIYnw)
+* [Q&A: Do you plan to add Wall Holes for Belts, similar to Floor Holes for Foundations?](../../transcriptions/yt-XKoMKtf1ZjY.md) [https://www.youtube.com/watch?v=XKoMKtf1ZjY](https://www.youtube.com/watch?v=XKoMKtf1ZjY)
+* [Q&A: Any thoughts on adding current throughput values to Smart Splitters?](../../transcriptions/yt-Y7vmdv6o3io.md) [https://www.youtube.com/watch?v=Y7vmdv6o3io](https://www.youtube.com/watch?v=Y7vmdv6o3io)
+* [Q&A: What about a shared notepad in-game where people can share simple notes?](../../transcriptions/yt-quJL55MBmZU.md) [https://www.youtube.com/watch?v=quJL55MBmZU](https://www.youtube.com/watch?v=quJL55MBmZU)
+
 ## April 12th, 2022 Livestream
 * [Q&A: Tier 8 Recipe to fully automate Power Shard production without the need for Power Slugs?](../../transcriptions/yt-cp9grrUNHAw.md) [https://www.youtube.com/watch?v=cp9grrUNHAw](https://www.youtube.com/watch?v=cp9grrUNHAw)
 * [Q&A: Are controller questions allowed?](../../transcriptions/yt-S1kumeDF79c.md) [https://www.youtube.com/watch?v=S1kumeDF79c](https://www.youtube.com/watch?v=S1kumeDF79c)

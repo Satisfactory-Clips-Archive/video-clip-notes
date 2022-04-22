@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Trolling
 
+## April 19th, 2022 Livestream
+* [Q&A: What happens so that "Don't praise Simon" is a rule?](../transcriptions/yt-NUzhUkZFBss.md) [https://www.youtube.com/watch?v=NUzhUkZFBss](https://www.youtube.com/watch?v=NUzhUkZFBss)
+
 ## April 12th, 2022 Livestream
 * [Q&A: Jace, I thought you said April 32nd for the Update?](../transcriptions/yt-__ik24Rn9AU.md) [https://www.youtube.com/watch?v=__ik24Rn9AU](https://www.youtube.com/watch?v=__ik24Rn9AU)
 

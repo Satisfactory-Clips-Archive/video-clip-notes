@@ -10,6 +10,23 @@ date: Last Modified
 * [Juice Velvet](../../topics/coffee-stainers/jace/juice-velvet.md)
 * [Robo Jace](../../topics/coffee-stainers/jace/robo-jace.md)
 
+## April 19th, 2022 Livestream
+* [Q&A: Any chance of an off-duty stream with the two of you playing actual Portal 2 co-op?](../../transcriptions/yt-KhjCtb3t7wI.md) [https://www.youtube.com/watch?v=KhjCtb3t7wI](https://www.youtube.com/watch?v=KhjCtb3t7wI)
+* [Community FYI: There's a co-op achievement for dunking your partner in the pools of toxic goop](../../transcriptions/yt-EVORRjnmH-8.md) [https://www.youtube.com/watch?v=EVORRjnmH-8](https://www.youtube.com/watch?v=EVORRjnmH-8)
+* [Q&A: Which one did you hit number 1 on, Portal 1 or 2?](../../transcriptions/yt-UPY7RkwN5cs.md) [https://www.youtube.com/watch?v=UPY7RkwN5cs](https://www.youtube.com/watch?v=UPY7RkwN5cs)
+* [Q&A: Where were you born, Snutt & Jace?](../../transcriptions/yt-BUZ4evkepcs.md) [https://www.youtube.com/watch?v=BUZ4evkepcs](https://www.youtube.com/watch?v=BUZ4evkepcs)
+* [Q&A: Can Jace do an Australian accent?](../../transcriptions/yt-A2nW02YAaVk.md) [https://www.youtube.com/watch?v=A2nW02YAaVk](https://www.youtube.com/watch?v=A2nW02YAaVk)
+* [Q&A: How did you guys make the transition from programmer to Community Manager?](../../transcriptions/yt-qmzmDWp9oa8.md) [https://www.youtube.com/watch?v=qmzmDWp9oa8](https://www.youtube.com/watch?v=qmzmDWp9oa8)
+* [Community FYI: You become CM if you're too bad at programming](../../transcriptions/yt-EGWfNWFfR0Q.md) [https://www.youtube.com/watch?v=EGWfNWFfR0Q](https://www.youtube.com/watch?v=EGWfNWFfR0Q)
+* [Q&A: Did you say "vamonos!" when you switched to being Community Manager?](../../transcriptions/yt-KxUXE_J9cQU.md) [https://www.youtube.com/watch?v=KxUXE_J9cQU](https://www.youtube.com/watch?v=KxUXE_J9cQU)
+* [Community FYI: I miss you guys being coders](../../transcriptions/yt-fDdKbyj4-BQ.md) [https://www.youtube.com/watch?v=fDdKbyj4-BQ](https://www.youtube.com/watch?v=fDdKbyj4-BQ)
+* [Q&A: How did you start being Community Manager?](../../transcriptions/yt-iVDgRC3BC0Q.md) [https://www.youtube.com/watch?v=iVDgRC3BC0Q](https://www.youtube.com/watch?v=iVDgRC3BC0Q)
+* [Q&A: Is Community Manager an upgrade or downgrade from Programmer?](../../transcriptions/yt-S9QzITzs5AY.md) [https://www.youtube.com/watch?v=S9QzITzs5AY](https://www.youtube.com/watch?v=S9QzITzs5AY)
+* [Q&A: Do either of you do programming outside of Coffee Stain?](../../transcriptions/yt-H5vu7wLupBc.md) [https://www.youtube.com/watch?v=H5vu7wLupBc](https://www.youtube.com/watch?v=H5vu7wLupBc)
+* [Q&A: Have you used Rust?](../../transcriptions/yt-RmeK_dn_Nm4.md) [https://www.youtube.com/watch?v=RmeK_dn_Nm4](https://www.youtube.com/watch?v=RmeK_dn_Nm4)
+* [Q&A: In your old programming days did you use sites like Stack Overflow often?](../../transcriptions/yt-n9g3kvyB7SY.md) [https://www.youtube.com/watch?v=n9g3kvyB7SY](https://www.youtube.com/watch?v=n9g3kvyB7SY)
+* [Jace Talk: Going on vacation](../../transcriptions/yt-2-A8O-Qee4c.md) [https://www.youtube.com/watch?v=2-A8O-Qee4c](https://www.youtube.com/watch?v=2-A8O-Qee4c)
+
 ## April 12th, 2022 Livestream
 * [Q&A: Are there plans to make alternate player models in the AWESOME Shop, i.e. Snutt / Jace models?](../../transcriptions/yt-ozIEEGTX2G4.md) [https://www.youtube.com/watch?v=ozIEEGTX2G4](https://www.youtube.com/watch?v=ozIEEGTX2G4)
 * [Q&A: Are we going to hear about the next Update before Jace comes back to Sweden?](../../transcriptions/yt-kuF-g8iD7o8.md) [https://www.youtube.com/watch?v=kuF-g8iD7o8](https://www.youtube.com/watch?v=kuF-g8iD7o8)

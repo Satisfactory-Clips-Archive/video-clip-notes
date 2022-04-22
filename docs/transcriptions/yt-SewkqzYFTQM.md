@@ -9,6 +9,8 @@ topics:
 # [October 9th, 2020 Livestream](../2020-10-09.md)
 ## Q&A: Ever heard of Rust?
 https://www.youtube.com/watch?v=SewkqzYFTQM
+This question was possibly duplicated with a more recent answer: [April 19th, 2022 Livestream Q&A: Have you used Rust?](./yt-RmeK_dn_Nm4.md) [https://www.youtube.com/watch?v=RmeK_dn_Nm4](https://www.youtube.com/watch?v=RmeK_dn_Nm4)
+
 
 ### Topics
 * [Coffee Stainers > Snutt](../topics/coffee-stainers/snutt.md)

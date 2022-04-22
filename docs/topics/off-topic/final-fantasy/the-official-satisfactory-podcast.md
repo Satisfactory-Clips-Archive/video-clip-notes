@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Off-Topic](../../../topics/off-topic.md) > [Final Fantasy](../../../topics/off-topic/final-fantasy.md) > The Official Satisfactory PODCAST
 
+## April 19th, 2022 Livestream
+* [Q&A: When will you add episode 2 on the Podcast?](../../../transcriptions/yt-g57nuSoIYnw.md) [https://www.youtube.com/watch?v=g57nuSoIYnw](https://www.youtube.com/watch?v=g57nuSoIYnw)
+
 ## April 12th, 2022 Livestream
 * [Community FYI: Thanks for your hard work, the podcast was hilarious](../../../transcriptions/yt-buIM84j2kBo.md) [https://www.youtube.com/watch?v=buIM84j2kBo](https://www.youtube.com/watch?v=buIM84j2kBo)
 

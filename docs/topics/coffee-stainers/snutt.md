@@ -7,6 +7,20 @@ date: Last Modified
 * [Snutt Burger Time](../../topics/coffee-stainers/snutt/snutt-burger-time.md)
 * [Snutty Mays](../../topics/coffee-stainers/snutt/snutty-mays.md)
 
+## April 19th, 2022 Livestream
+* [Q&A: Any chance of an off-duty stream with the two of you playing actual Portal 2 co-op?](../../transcriptions/yt-KhjCtb3t7wI.md) [https://www.youtube.com/watch?v=KhjCtb3t7wI](https://www.youtube.com/watch?v=KhjCtb3t7wI)
+* [Community FYI: There's a co-op achievement for dunking your partner in the pools of toxic goop](../../transcriptions/yt-EVORRjnmH-8.md) [https://www.youtube.com/watch?v=EVORRjnmH-8](https://www.youtube.com/watch?v=EVORRjnmH-8)
+* [Community FYI: Seems like Windows' old screensaver](../../transcriptions/yt-uj-FnLbnS5Q.md) [https://www.youtube.com/watch?v=uj-FnLbnS5Q](https://www.youtube.com/watch?v=uj-FnLbnS5Q)
+* [Snutt & Jace Talk: "Eat shit, chat!"](../../transcriptions/yt-pzSh8VJWwwY.md) [https://www.youtube.com/watch?v=pzSh8VJWwwY](https://www.youtube.com/watch?v=pzSh8VJWwwY)
+* [Q&A: Where were you born, Snutt & Jace?](../../transcriptions/yt-BUZ4evkepcs.md) [https://www.youtube.com/watch?v=BUZ4evkepcs](https://www.youtube.com/watch?v=BUZ4evkepcs)
+* [Q&A: How did you guys make the transition from programmer to Community Manager?](../../transcriptions/yt-qmzmDWp9oa8.md) [https://www.youtube.com/watch?v=qmzmDWp9oa8](https://www.youtube.com/watch?v=qmzmDWp9oa8)
+* [Community FYI: You become CM if you're too bad at programming](../../transcriptions/yt-EGWfNWFfR0Q.md) [https://www.youtube.com/watch?v=EGWfNWFfR0Q](https://www.youtube.com/watch?v=EGWfNWFfR0Q)
+* [Community FYI: I miss you guys being coders](../../transcriptions/yt-fDdKbyj4-BQ.md) [https://www.youtube.com/watch?v=fDdKbyj4-BQ](https://www.youtube.com/watch?v=fDdKbyj4-BQ)
+* [Q&A: Is Community Manager an upgrade or downgrade from Programmer?](../../transcriptions/yt-S9QzITzs5AY.md) [https://www.youtube.com/watch?v=S9QzITzs5AY](https://www.youtube.com/watch?v=S9QzITzs5AY)
+* [Q&A: Do either of you do programming outside of Coffee Stain?](../../transcriptions/yt-H5vu7wLupBc.md) [https://www.youtube.com/watch?v=H5vu7wLupBc](https://www.youtube.com/watch?v=H5vu7wLupBc)
+* [Q&A: Have you used Rust?](../../transcriptions/yt-RmeK_dn_Nm4.md) [https://www.youtube.com/watch?v=RmeK_dn_Nm4](https://www.youtube.com/watch?v=RmeK_dn_Nm4)
+* [Q&A: In your old programming days did you use sites like Stack Overflow often?](../../transcriptions/yt-n9g3kvyB7SY.md) [https://www.youtube.com/watch?v=n9g3kvyB7SY](https://www.youtube.com/watch?v=n9g3kvyB7SY)
+
 ## April 15th, 2022 Video
 * [Snutt's video assistant](../../transcriptions/yt-7I3NGAm3j_4,26.552238,70.23683333333334.md) [https://youtube.com/clip/Ugkx0kXVPjE2eL1bh1gz6YqbBQAqO-WLPDFv](https://youtube.com/clip/Ugkx0kXVPjE2eL1bh1gz6YqbBQAqO-WLPDFv)
 * [Snutt & Stefan Talk: Main Menu in Sprint 23](../../transcriptions/yt-7I3NGAm3j_4,1741.5398,1770.4353333333333.md) [https://youtube.com/clip/Ugkx24pUe83njfxVm1HXaE6W4CAjJvFr7Zex](https://youtube.com/clip/Ugkx24pUe83njfxVm1HXaE6W4CAjJvFr7Zex)

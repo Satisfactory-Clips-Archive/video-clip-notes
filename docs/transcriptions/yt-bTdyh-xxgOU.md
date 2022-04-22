@@ -3,14 +3,14 @@ title: "March 8th, 2022 Livestream Q&A: How far are you in Elden Ring?"
 date: "2022-03-08"
 layout: transcript
 topics:
-    - "off-topic"
+    - "off-topic/elden-ring"
 ---
 # [March 8th, 2022 Livestream](../2022-03-08.md)
 ## Q&A: How far are you in Elden Ring?
 https://www.youtube.com/watch?v=bTdyh-xxgOU
 
 ### Topics
-* [Off-Topic](../topics/off-topic.md)
+* [Off-Topic > Elden Ring](../topics/off-topic/elden-ring.md)
 
 ### Transcript
 

@@ -80,6 +80,9 @@ date: Last Modified
 ## August 25th, 2020 Livestream
 * [Q&A: Plans for mod support?](../../transcriptions/yt-iOk7KMpNMEo.md) [https://www.youtube.com/watch?v=iOk7KMpNMEo](https://www.youtube.com/watch?v=iOk7KMpNMEo)
 
+## June 8th, 2020 Livestream
+* [Q&A: Will you using Steam Workshop?](../../transcriptions/yt-5KyHoIVdGzc.md) [https://www.youtube.com/watch?v=5KyHoIVdGzc](https://www.youtube.com/watch?v=5KyHoIVdGzc)
+
 ## May 15th, 2020 Q&A
 * [Q&A: Official Mod Support?](../../transcriptions/yt-NlIVwoRqjVk,288.288,301.33436666666665.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=288&end=302](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=288&end=302)
 

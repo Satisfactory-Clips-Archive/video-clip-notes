@@ -115,6 +115,7 @@ date: Last Modified
 * Jace Talk: Sales figures [https://youtube.com/embed/dWVeL2caR6o?autoplay=1&start=42&end=69](https://youtube.com/embed/dWVeL2caR6o?autoplay=1&start=42&end=69)
 
 ## June 8th, 2020 Livestream
+* [Q&A: Will you using Steam Workshop?](../../transcriptions/yt-5KyHoIVdGzc.md) [https://www.youtube.com/watch?v=5KyHoIVdGzc](https://www.youtube.com/watch?v=5KyHoIVdGzc)
 * [Q&A: Will I be able to play Experimental branches on Steam?](../../transcriptions/yt-gXCCQ_JBIUg.md) [https://www.youtube.com/watch?v=gXCCQ_JBIUg](https://www.youtube.com/watch?v=gXCCQ_JBIUg)
 
 ## May 15th, 2020 Q&A

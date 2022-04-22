@@ -14,6 +14,10 @@ date: Last Modified
 * [User Interface](../topics/technology/user-interface.md)
 * [Vulkan](../topics/technology/vulkan.md)
 
+## April 19th, 2022 Livestream
+* [Q&A: Have you used Rust?](../transcriptions/yt-RmeK_dn_Nm4.md) [https://www.youtube.com/watch?v=RmeK_dn_Nm4](https://www.youtube.com/watch?v=RmeK_dn_Nm4)
+* [Q&A: In your old programming days did you use sites like Stack Overflow often?](../transcriptions/yt-n9g3kvyB7SY.md) [https://www.youtube.com/watch?v=n9g3kvyB7SY](https://www.youtube.com/watch?v=n9g3kvyB7SY)
+
 ## April 12th, 2022 Livestream
 * [Q&A: Are you going to introduce DirectStorage API so we can all go big builds?](../transcriptions/yt-Tfei4FGfJHA.md) [https://www.youtube.com/watch?v=Tfei4FGfJHA](https://www.youtube.com/watch?v=Tfei4FGfJHA)
 

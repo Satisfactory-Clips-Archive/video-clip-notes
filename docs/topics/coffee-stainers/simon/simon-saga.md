@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Coffee Stainers](../../../topics/coffee-stainers.md) > [Simon](../../../topics/coffee-stainers/simon.md) > Simon Saga
 
+## April 19th, 2022 Livestream
+* [State of Dev](../../../transcriptions/yt-d4RkGw7ei58.md) [https://www.youtube.com/watch?v=d4RkGw7ei58](https://www.youtube.com/watch?v=d4RkGw7ei58)
+* [Q&A: What happens so that "Don't praise Simon" is a rule?](../../../transcriptions/yt-NUzhUkZFBss.md) [https://www.youtube.com/watch?v=NUzhUkZFBss](https://www.youtube.com/watch?v=NUzhUkZFBss)
+
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
 * Simon, Dylan, and Snutt Talk: Simon Saga [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=6398&end=6417](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=6398&end=6417)
 

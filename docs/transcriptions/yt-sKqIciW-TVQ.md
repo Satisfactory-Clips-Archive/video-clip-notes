@@ -10,11 +10,7 @@ topics:
 # [January 18th, 2022 Livestream](../2022-01-18.md)
 ## Q&A: When are we going to see placeable Wall Conveyor holes?
 https://www.youtube.com/watch?v=sKqIciW-TVQ
-<details>
-<summary>This question may have been asked previously at least 1 other time, as recently as December 2021.</summary>
-
-* [December 7th, 2021 Livestream Q&A: Are Conveyor Wall Holes coming?](./yt-H8hrMFtHdHs.md) [https://www.youtube.com/watch?v=H8hrMFtHdHs](https://www.youtube.com/watch?v=H8hrMFtHdHs)
-</details>
+This question was possibly duplicated with a more recent answer: [April 19th, 2022 Livestream Q&A: Do you plan to add Wall Holes for Belts, similar to Floor Holes for Foundations?](./yt-XKoMKtf1ZjY.md) [https://www.youtube.com/watch?v=XKoMKtf1ZjY](https://www.youtube.com/watch?v=XKoMKtf1ZjY)
 
 
 ### Topics

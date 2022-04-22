@@ -26,6 +26,9 @@ date: Last Modified
 * [The HUB](../../topics/features/buildings/the-hub.md)
 * [Water Extractor](../../topics/features/buildings/water-extractor.md)
 
+## April 19th, 2022 Livestream
+* [Q&A: What is "Skövde C" for you, and why is it the first Station name in Satisfactory?](../../transcriptions/yt-1a5Y1wJ2EP0.md) [https://www.youtube.com/watch?v=1a5Y1wJ2EP0](https://www.youtube.com/watch?v=1a5Y1wJ2EP0)
+
 ## April 15th, 2022 Video
 * [Snutt & Stefan Talk: Assembly lines in Sprint 3](../../transcriptions/yt-7I3NGAm3j_4,409.8761333333333,477.3101666666667.md) [https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=409&end=478](https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=409&end=478)
 * [Snutt & Stefan Talk: The core gameplay loop in Sprint 3](../../transcriptions/yt-7I3NGAm3j_4,494.56073333333336,544.4439.md) [https://youtube.com/clip/UgkxZiaxmIYNVDuHgsevIaUR54c-1E53Oz0U](https://youtube.com/clip/UgkxZiaxmIYNVDuHgsevIaUR54c-1E53Oz0U)

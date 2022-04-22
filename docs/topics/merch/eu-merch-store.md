@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Merch](../../topics/merch.md) > EU Merch Store
 
+## April 19th, 2022 Livestream
+* [State of Dev](../../transcriptions/yt-d4RkGw7ei58.md) [https://www.youtube.com/watch?v=d4RkGw7ei58](https://www.youtube.com/watch?v=d4RkGw7ei58)
+* [Q&A: Heard anything about the EU Merch store since last week?](../../transcriptions/yt-C5cv2KCrtmA.md) [https://www.youtube.com/watch?v=C5cv2KCrtmA](https://www.youtube.com/watch?v=C5cv2KCrtmA)
+* [Q&A: Are you guys planning for Merchandise?](../../transcriptions/yt-KTA7tobESKI.md) [https://www.youtube.com/watch?v=KTA7tobESKI](https://www.youtube.com/watch?v=KTA7tobESKI)
+
 ## April 12th, 2022 Livestream
 * [Q&A: EU Merch status update?](../../transcriptions/yt-l9FKieDCBSE.md) [https://www.youtube.com/watch?v=l9FKieDCBSE](https://www.youtube.com/watch?v=l9FKieDCBSE)
 

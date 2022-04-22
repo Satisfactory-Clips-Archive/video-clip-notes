@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Soundtrack
 
+## April 19th, 2022 Livestream
+* [Q&A: Will this next Update have a completed Soundtrack?](../transcriptions/yt-P_xCjhLJs2g.md) [https://www.youtube.com/watch?v=P_xCjhLJs2g](https://www.youtube.com/watch?v=P_xCjhLJs2g)
+
 ## April 12th, 2022 Livestream
 * [Q&A: Are you okay with people using Satisfactory music?](../transcriptions/yt-lvaG4eeDgjc.md) [https://www.youtube.com/watch?v=lvaG4eeDgjc](https://www.youtube.com/watch?v=lvaG4eeDgjc)
 

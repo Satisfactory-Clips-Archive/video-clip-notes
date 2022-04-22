@@ -6,6 +6,10 @@ date: Last Modified
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > User Interface
 * [Holograms](../../topics/technology/user-interface/holograms.md)
 
+## April 19th, 2022 Livestream
+* [Q&A: Any thoughts on adding current throughput values to Smart Splitters?](../../transcriptions/yt-Y7vmdv6o3io.md) [https://www.youtube.com/watch?v=Y7vmdv6o3io](https://www.youtube.com/watch?v=Y7vmdv6o3io)
+* [Q&A: What about a shared notepad in-game where people can share simple notes?](../../transcriptions/yt-quJL55MBmZU.md) [https://www.youtube.com/watch?v=quJL55MBmZU](https://www.youtube.com/watch?v=quJL55MBmZU)
+
 ## April 15th, 2022 Video
 * [Snutt & Stefan Talk: Sprint 1](../../transcriptions/yt-7I3NGAm3j_4,143.51003333333333,223.112196.md) [https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=143&end=224](https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=143&end=224)
 * [Snutt & Stefan Talk: Build Menu in Sprint 3](../../transcriptions/yt-7I3NGAm3j_4,322.1218,377.621266.md) [https://youtube.com/clip/UgkxjRfbjSnFDobtxbd4UB3a_qnhHr1B2xDO](https://youtube.com/clip/UgkxjRfbjSnFDobtxbd4UB3a_qnhHr1B2xDO)

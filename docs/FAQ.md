@@ -2,6 +2,113 @@
 title: "Frequently Asked Questions"
 date: Last Modified
 ---
+## [April 19th, 2022 Livestream](./2022-04-19.md)
+### [Q&A: Are you guys planning to take advantage of Unreal Engine 5?](./transcriptions/yt-SXdsoQUxmA8.md) [https://www.youtube.com/watch?v=SXdsoQUxmA8](https://www.youtube.com/watch?v=SXdsoQUxmA8)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> are you guys planning to take advantage of unreal engine five we have uh i think we said last week that we are like we are always exploring the option we haven't fully committed to anything yet um but we are looking looking at it and and you know this is the k not specifically for update uh unreal engine five but this is like every engine upgrade that is made uh we always you know look at what is in the next update does it make sense for the game um can we take advantage of like the things that they've added how much work is it to take the current engine version and move it over to the next engine version um and it's a pretty big process and it's not like even if we want to move over maybe we can't always so but we are we are uh considering it um but maybe not for the reasons you guys think like we might may not be able to like take advantage of like all the benefits and move every asset over to like nanite and stuff like that and you'll see like a huge performance boost or whatever like it might not be that case but it may be for other reasons um there are a lot of tools that are new in real engine 5 that aren't in with 4.7 or which one we are right now so we'll see we'll see
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 14 other times, as recently as April 2022 and as early as May 2020.</summary>
+
+* [April 12th, 2022 Livestream Q&A: Are you thinking about upgrading to UE5?](./transcriptions/yt-X1T0H9QzoMc.md) [https://www.youtube.com/watch?v=X1T0H9QzoMc](https://www.youtube.com/watch?v=X1T0H9QzoMc)
+* [March 22nd, 2022 Livestream Q&A: Would you go with Unreal Engine 5 later?](./transcriptions/yt-k3IBcDlRl68.md) [https://www.youtube.com/watch?v=k3IBcDlRl68](https://www.youtube.com/watch?v=k3IBcDlRl68)
+* December 7th, 2021 Livestream Q&A: Unreal Engine 5? [https://www.youtube.com/watch?v=TNPgzdHrImE](https://www.youtube.com/watch?v=TNPgzdHrImE)
+* [September 14th, 2021 Livestream Q&A: Do you think in the far future that Satisfactory can get an Engine Update to Unreal Engine 5?](./transcriptions/yt-KiUg7PnZCRo.md) [https://www.youtube.com/watch?v=KiUg7PnZCRo](https://www.youtube.com/watch?v=KiUg7PnZCRo)
+* [July 20th, 2021 Livestream Q&A: Any plans for last Unreal Engine?](./transcriptions/yt-6vbB17LkLqk.md) [https://www.youtube.com/watch?v=6vbB17LkLqk](https://www.youtube.com/watch?v=6vbB17LkLqk)
+* [June 29th, 2021 Livestream Q&A: How much do you think Unreal Engine 5 would help development of the game?](./transcriptions/yt-yHr48ojeNho.md) [https://www.youtube.com/watch?v=yHr48ojeNho](https://www.youtube.com/watch?v=yHr48ojeNho)
+* [June 1st, 2021 Livestream Q&A: Satisfactory move to Unreal Engine 5?](./transcriptions/yt-fAjYRngL0Bk.md) [https://www.youtube.com/watch?v=fAjYRngL0Bk](https://www.youtube.com/watch?v=fAjYRngL0Bk)
+* [June 1st, 2021 Livestream Q&A: Does Unreal Engine 5 have enough features for you to consider upgrading in future?](./transcriptions/yt-ZvVALD7ZCOA.md) [https://www.youtube.com/watch?v=ZvVALD7ZCOA](https://www.youtube.com/watch?v=ZvVALD7ZCOA)
+* [October 27th, 2020 Livestream Q&A: Talking about Engine Update, was that Unreal Engine 5?](./transcriptions/yt-unAf5J6OtDE.md) [https://www.youtube.com/watch?v=unAf5J6OtDE](https://www.youtube.com/watch?v=unAf5J6OtDE)
+* [October 13th, 2020 Livestream Q&A: Will you switch to using Unreal Engine 5?](./transcriptions/yt-9r6ROgTQ_n4.md) [https://www.youtube.com/watch?v=9r6ROgTQ_n4](https://www.youtube.com/watch?v=9r6ROgTQ_n4)
+* [August 25th, 2020 Livestream Q&A: Will Satisfactory be updated to Unreal Engine 5 / Snutt Talk: Experimental Builds](./transcriptions/yt-rr1UWnrs0d4.md) [https://www.youtube.com/watch?v=rr1UWnrs0d4](https://www.youtube.com/watch?v=rr1UWnrs0d4)
+* August 18th, 2020 Livestream Q&A: Are you going to upgrade to UE5? [https://clips.twitch.tv/GloriousTangentialSalmonPastaThat](https://clips.twitch.tv/GloriousTangentialSalmonPastaThat)
+* July 28th, 2020 Livestream Q&A: Unreal Engine 5 [https://clips.twitch.tv/PiliableZanyGrassFreakinStinkin](https://clips.twitch.tv/PiliableZanyGrassFreakinStinkin)
+* [May 19th, 2020 Livestream Q&A: Will you be using Unreal Engine 5 for Satisfactory?](./transcriptions/yt-Wy79gUb24es.md) [https://www.youtube.com/watch?v=Wy79gUb24es](https://www.youtube.com/watch?v=Wy79gUb24es)
+</details>
+
+### [Q&A: Will this next Update have a completed Soundtrack?](./transcriptions/yt-P_xCjhLJs2g.md) [https://www.youtube.com/watch?v=P_xCjhLJs2g](https://www.youtube.com/watch?v=P_xCjhLJs2g)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> yeah i've got one so uh will this next update have a completed soundtrack if so uh will it be paid on steam or available uh for streaming on platforms like spotify so i'm pretty certain that the soundtrack is not gonna be done for this next update no um also but uh i think we we i'm pretty sure we are planning on releasing a soundtrack at some point but yeah it's just kind of a matter of like i'm pretty sure the the the bottleneck right now is that we just want to make sure we've got the entire soundtrack done first and then we'll release it all in one go kind of thing uh and then how we'll do it i'm not sure like maybe we can have it on steam sure i guess if people want that we can put it i think we're going to put it on spotify i think we're interested in doing that as well all the local players jace are you married mom i told you to stop asking not yet talk to me when you're married
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 6 other times, as recently as December 2021 and as early as March 2020.</summary>
+
+* [December 14th, 2021 Livestream Q&A: Answer about Soundtrack release?](./transcriptions/yt-DoywhI2s_3o.md) [https://www.youtube.com/watch?v=DoywhI2s_3o](https://www.youtube.com/watch?v=DoywhI2s_3o)
+* [May 25th, 2021 Livestream Q&A: Is the Soundtrack available to buy separately?](./transcriptions/yt-WdCt1y3TIM4.md) [https://www.youtube.com/watch?v=WdCt1y3TIM4](https://www.youtube.com/watch?v=WdCt1y3TIM4)
+* [May 4th, 2021 Livestream Q&A: Where can we get the Soundtrack?](./transcriptions/yt-Qu6R2XZ2On0.md) [https://www.youtube.com/watch?v=Qu6R2XZ2On0](https://www.youtube.com/watch?v=Qu6R2XZ2On0)
+* [April 27th, 2021 Livestream Q&A: When will the Soundtrack be available?](./transcriptions/yt-F4bkm5cFlZw.md) [https://www.youtube.com/watch?v=F4bkm5cFlZw](https://www.youtube.com/watch?v=F4bkm5cFlZw)
+* [May 19th, 2020 Livestream Q&A: Will there be a Soundtrack release?](./transcriptions/yt-XswfSsanpDo.md) [https://www.youtube.com/watch?v=XswfSsanpDo](https://www.youtube.com/watch?v=XswfSsanpDo)
+* [March 24th, 2020 Livestream Q&A: Will we be able to download & buy the amazing soundtrack?](./transcriptions/yt-yLgW2QiPT70.md) [https://www.youtube.com/watch?v=yLgW2QiPT70](https://www.youtube.com/watch?v=yLgW2QiPT70)
+</details>
+
+### [Q&A: Do you plan to add Wall Holes for Belts, similar to Floor Holes for Foundations?](./transcriptions/yt-XKoMKtf1ZjY.md) [https://www.youtube.com/watch?v=XKoMKtf1ZjY](https://www.youtube.com/watch?v=XKoMKtf1ZjY)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> uh somebody asked if we plan to add uh wall holes for belts similar to how we do with uh through foundations i think it's a really good idea uh please make sure to upload that on the keyway side so that the uh people prioritizing these kind of things can be like this is important we should prioritize that that's what they sound like as well exactly
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 2 other times, as recently as January 2022 and as early as December 2021.</summary>
+
+* [January 18th, 2022 Livestream Q&A: When are we going to see placeable Wall Conveyor holes?](./transcriptions/yt-sKqIciW-TVQ.md) [https://www.youtube.com/watch?v=sKqIciW-TVQ](https://www.youtube.com/watch?v=sKqIciW-TVQ)
+* [December 7th, 2021 Livestream Q&A: Are Conveyor Wall Holes coming?](./transcriptions/yt-H8hrMFtHdHs.md) [https://www.youtube.com/watch?v=H8hrMFtHdHs](https://www.youtube.com/watch?v=H8hrMFtHdHs)
+</details>
+
+### [Q&A: What about a shared notepad in-game where people can share simple notes?](./transcriptions/yt-quJL55MBmZU.md) [https://www.youtube.com/watch?v=quJL55MBmZU](https://www.youtube.com/watch?v=quJL55MBmZU)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> what about a shared notepad in game where people can share simple notes um yeah i think that would be pretty cool um i like i've always felt like some sort of collaborative tool would be useful in the game um i like it when people use signs for that uh sort of when like they have like checklists and stuff like that i think that's pretty cool it's not really what they're asking but i think i think my dad texted you on facebook dude did he yeah oh i must have bad connection because uh it didn't pop up yeah his dad texted me and i told my dad to text you interesting what a weird uh can't your dad just come into the room and be like not
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 2 other times, as recently as June 2021 and as early as February 2021.</summary>
+
+* [June 29th, 2021 Livestream Q&A: Add a scratch pad in game?](./transcriptions/yt-pZozYHy8vNk.md) [https://www.youtube.com/watch?v=pZozYHy8vNk](https://www.youtube.com/watch?v=pZozYHy8vNk)
+* February 23rd, 2021 Livestream Q&A: Can we get an in-game notepad? [https://www.youtube.com/watch?v=chc6o85O0AQ](https://www.youtube.com/watch?v=chc6o85O0AQ)
+</details>
+
+### [Q&A: Do you have any future plans for Deep Rock Galactic, DLC-wise?](./transcriptions/yt-veoLleeKnBA.md) [https://www.youtube.com/watch?v=veoLleeKnBA](https://www.youtube.com/watch?v=veoLleeKnBA)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> good question um do you have any future plans of deeper or galactic dlc wise so another game that we don't make uh we don't make the baroque galactic that is published by a publishing arm who is also not us so we have uh we actually have nothing to do with deep rock
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 2 other times, as recently as February 2021 and as early as February 2020.</summary>
+
+* February 2nd, 2021 Livestream Q&A: Do you have any more plans for Deep Rock Galactic? [https://www.youtube.com/watch?v=qJKYIqCKEOc](https://www.youtube.com/watch?v=qJKYIqCKEOc)
+* [February 11th, 2020 Livestream Q&A: What is your influence on Deep Rock Galactic?](./transcriptions/yt-6ldHD6fcAIk.md) [https://www.youtube.com/watch?v=6ldHD6fcAIk](https://www.youtube.com/watch?v=6ldHD6fcAIk)
+</details>
+
 ## [April 12th, 2022 Livestream](./2022-04-12.md)
 ### [Q&A: Tier 8 Recipe to fully automate Power Shard production without the need for Power Slugs?](./transcriptions/yt-cp9grrUNHAw.md) [https://www.youtube.com/watch?v=cp9grrUNHAw](https://www.youtube.com/watch?v=cp9grrUNHAw)
 
@@ -47,35 +154,6 @@ date: Last Modified
 * [September 22nd, 2020 Livestream Q&A: Confused on the use of Controllers?](./transcriptions/yt-BuC0nQS2Kqs.md) [https://www.youtube.com/watch?v=BuC0nQS2Kqs](https://www.youtube.com/watch?v=BuC0nQS2Kqs)
 * [March 9th, 2019 Livestream Q&A: Controller support?](./transcriptions/yt-XrsD3h62ils.md) [https://www.youtube.com/watch?v=XrsD3h62ils](https://www.youtube.com/watch?v=XrsD3h62ils)
 * [February 6th, 2019 Livestream Q&A: Controller support?](./transcriptions/yt-Dtm6xIj-wM4,4052.6,4151.820477.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=4052&end=4152](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=4052&end=4152)
-</details>
-
-### [Q&A: Are you thinking about upgrading to UE5?](./transcriptions/yt-X1T0H9QzoMc.md) [https://www.youtube.com/watch?v=X1T0H9QzoMc](https://www.youtube.com/watch?v=X1T0H9QzoMc)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> got another question if you were thinking about upgrading to unreal engine 5 we kind of took a deep dive on that question before in the the tools video faq at the end of that segment right before community highlights so if you really hear us about the the full answer uh check out that but the short answer is we have looked at it but we have no plans to upgrade but you never know in the future i don't know but we don't know at this point and who knows maybe after investigation we will want to do it but maybe we won't who knows um but we are looking into it so
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 13 other times, as recently as March 2022 and as early as May 2020.</summary>
-
-* [March 22nd, 2022 Livestream Q&A: Would you go with Unreal Engine 5 later?](./transcriptions/yt-k3IBcDlRl68.md) [https://www.youtube.com/watch?v=k3IBcDlRl68](https://www.youtube.com/watch?v=k3IBcDlRl68)
-* December 7th, 2021 Livestream Q&A: Unreal Engine 5? [https://www.youtube.com/watch?v=TNPgzdHrImE](https://www.youtube.com/watch?v=TNPgzdHrImE)
-* [September 14th, 2021 Livestream Q&A: Do you think in the far future that Satisfactory can get an Engine Update to Unreal Engine 5?](./transcriptions/yt-KiUg7PnZCRo.md) [https://www.youtube.com/watch?v=KiUg7PnZCRo](https://www.youtube.com/watch?v=KiUg7PnZCRo)
-* [July 20th, 2021 Livestream Q&A: Any plans for last Unreal Engine?](./transcriptions/yt-6vbB17LkLqk.md) [https://www.youtube.com/watch?v=6vbB17LkLqk](https://www.youtube.com/watch?v=6vbB17LkLqk)
-* [June 29th, 2021 Livestream Q&A: How much do you think Unreal Engine 5 would help development of the game?](./transcriptions/yt-yHr48ojeNho.md) [https://www.youtube.com/watch?v=yHr48ojeNho](https://www.youtube.com/watch?v=yHr48ojeNho)
-* [June 1st, 2021 Livestream Q&A: Satisfactory move to Unreal Engine 5?](./transcriptions/yt-fAjYRngL0Bk.md) [https://www.youtube.com/watch?v=fAjYRngL0Bk](https://www.youtube.com/watch?v=fAjYRngL0Bk)
-* [June 1st, 2021 Livestream Q&A: Does Unreal Engine 5 have enough features for you to consider upgrading in future?](./transcriptions/yt-ZvVALD7ZCOA.md) [https://www.youtube.com/watch?v=ZvVALD7ZCOA](https://www.youtube.com/watch?v=ZvVALD7ZCOA)
-* [October 27th, 2020 Livestream Q&A: Talking about Engine Update, was that Unreal Engine 5?](./transcriptions/yt-unAf5J6OtDE.md) [https://www.youtube.com/watch?v=unAf5J6OtDE](https://www.youtube.com/watch?v=unAf5J6OtDE)
-* [October 13th, 2020 Livestream Q&A: Will you switch to using Unreal Engine 5?](./transcriptions/yt-9r6ROgTQ_n4.md) [https://www.youtube.com/watch?v=9r6ROgTQ_n4](https://www.youtube.com/watch?v=9r6ROgTQ_n4)
-* [August 25th, 2020 Livestream Q&A: Will Satisfactory be updated to Unreal Engine 5 / Snutt Talk: Experimental Builds](./transcriptions/yt-rr1UWnrs0d4.md) [https://www.youtube.com/watch?v=rr1UWnrs0d4](https://www.youtube.com/watch?v=rr1UWnrs0d4)
-* August 18th, 2020 Livestream Q&A: Are you going to upgrade to UE5? [https://clips.twitch.tv/GloriousTangentialSalmonPastaThat](https://clips.twitch.tv/GloriousTangentialSalmonPastaThat)
-* July 28th, 2020 Livestream Q&A: Unreal Engine 5 [https://clips.twitch.tv/PiliableZanyGrassFreakinStinkin](https://clips.twitch.tv/PiliableZanyGrassFreakinStinkin)
-* [May 19th, 2020 Livestream Q&A: Will you be using Unreal Engine 5 for Satisfactory?](./transcriptions/yt-Wy79gUb24es.md) [https://www.youtube.com/watch?v=Wy79gUb24es](https://www.youtube.com/watch?v=Wy79gUb24es)
 </details>
 
 ### [Q&A: Any plans on making it possible to visit other planets?](./transcriptions/yt-mDXCeb2_tUc.md) [https://www.youtube.com/watch?v=mDXCeb2_tUc](https://www.youtube.com/watch?v=mDXCeb2_tUc)
@@ -1986,27 +2064,6 @@ date: Last Modified
 * [March 2nd, 2021 Livestream Q&A: Coffee Mug?](./transcriptions/yt-eBG3cwtdwuY.md) [https://www.youtube.com/watch?v=eBG3cwtdwuY](https://www.youtube.com/watch?v=eBG3cwtdwuY)
 * [February 16th, 2021 Livestream Q&A: Where's the mug?](./transcriptions/yt-lABA3NfAMXw.md) [https://www.youtube.com/watch?v=lABA3NfAMXw](https://www.youtube.com/watch?v=lABA3NfAMXw)
 * [February 9th, 2021 Livestream Q&A: I would buy Merch but there's no Coffee Cup?](./transcriptions/yt-bQnAGoo8jQA.md) [https://www.youtube.com/watch?v=bQnAGoo8jQA](https://www.youtube.com/watch?v=bQnAGoo8jQA)
-</details>
-
-### [Q&A: Answer about Soundtrack release?](./transcriptions/yt-DoywhI2s_3o.md) [https://www.youtube.com/watch?v=DoywhI2s_3o](https://www.youtube.com/watch?v=DoywhI2s_3o)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> uh answer about soundtrack release uh i we we kind of want to finish the soundtrack before we put it out i think we might put it out earlier but uh there's still more music to be added to the game so that's that's mostly why we haven't put out the soundtrack but we might put it up earlier we'll see
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 5 other times, as recently as May 2021 and as early as March 2020.</summary>
-
-* [May 25th, 2021 Livestream Q&A: Is the Soundtrack available to buy separately?](./transcriptions/yt-WdCt1y3TIM4.md) [https://www.youtube.com/watch?v=WdCt1y3TIM4](https://www.youtube.com/watch?v=WdCt1y3TIM4)
-* [May 4th, 2021 Livestream Q&A: Where can we get the Soundtrack?](./transcriptions/yt-Qu6R2XZ2On0.md) [https://www.youtube.com/watch?v=Qu6R2XZ2On0](https://www.youtube.com/watch?v=Qu6R2XZ2On0)
-* [April 27th, 2021 Livestream Q&A: When will the Soundtrack be available?](./transcriptions/yt-F4bkm5cFlZw.md) [https://www.youtube.com/watch?v=F4bkm5cFlZw](https://www.youtube.com/watch?v=F4bkm5cFlZw)
-* [May 19th, 2020 Livestream Q&A: Will there be a Soundtrack release?](./transcriptions/yt-XswfSsanpDo.md) [https://www.youtube.com/watch?v=XswfSsanpDo](https://www.youtube.com/watch?v=XswfSsanpDo)
-* [March 24th, 2020 Livestream Q&A: Will we be able to download & buy the amazing soundtrack?](./transcriptions/yt-yLgW2QiPT70.md) [https://www.youtube.com/watch?v=yLgW2QiPT70](https://www.youtube.com/watch?v=yLgW2QiPT70)
 </details>
 
 ### [Q&A: KFConsole release, when?](./transcriptions/yt-caCiGpNAB3M.md) [https://www.youtube.com/watch?v=caCiGpNAB3M](https://www.youtube.com/watch?v=caCiGpNAB3M)

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > World Update
 
+## April 19th, 2022 Livestream
+* [Q&A: How's Map development going?](../../transcriptions/yt-uves4-7LnEc.md) [https://www.youtube.com/watch?v=uves4-7LnEc](https://www.youtube.com/watch?v=uves4-7LnEc)
+
 ## March 29th, 2022 Livestream
 * [Q&A: Any change for exploration planned?](../../transcriptions/yt-ytPhU2Nw6Nc.md) [https://www.youtube.com/watch?v=ytPhU2Nw6Nc](https://www.youtube.com/watch?v=ytPhU2Nw6Nc)
 * [Community FYI: Would need at least a month in advance](../../transcriptions/yt-En0He-CKHn0.md) [https://www.youtube.com/watch?v=En0He-CKHn0](https://www.youtube.com/watch?v=En0He-CKHn0)
