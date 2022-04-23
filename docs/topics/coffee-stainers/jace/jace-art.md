@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Coffee Stainers](../../../topics/coffee-stainers.md) > [Jace](../../../topics/coffee-stainers/jace.md) > Jace Art
 
+## April 21st, 2022 Satisfactory x Portal Bonus Stream
+* [Community FYI: What a nice Doggo drawing](../../../transcriptions/yt-0zADB1yhnbs.md) [https://www.youtube.com/watch?v=0zADB1yhnbs](https://www.youtube.com/watch?v=0zADB1yhnbs)
+
 ## April 8th, 2022 Video
 * [Jace Talk: Microsoft Paint (Part 2)](../../../transcriptions/yt-o6ao9-UIZIQ,2258.8232333333335,2270.7017666666666.md) [https://youtube.com/clip/Ugkx3JLRn9i8B9x5Q2vE26tMKfE1pEQmYBkc](https://youtube.com/clip/Ugkx3JLRn9i8B9x5Q2vE26tMKfE1pEQmYBkc)
 

@@ -10,6 +10,12 @@ date: Last Modified
 ## April 22nd, 2022 Video
 * End Tag [https://youtube.com/embed/hkMTFsxa7rQ?autoplay=1&start=768](https://youtube.com/embed/hkMTFsxa7rQ?autoplay=1&start=768)
 
+## April 21st, 2022 Satisfactory x Portal Bonus Stream
+* [Jace Talk: Snutt's new catchphrase](../../transcriptions/yt-MSM3dfaO4KY.md) [https://www.youtube.com/watch?v=MSM3dfaO4KY](https://www.youtube.com/watch?v=MSM3dfaO4KY)
+* [Jace Talk: Eat shit, chat!](../../transcriptions/yt-FUx5ctjvHJE.md) [https://www.youtube.com/watch?v=FUx5ctjvHJE](https://www.youtube.com/watch?v=FUx5ctjvHJE)
+* [Community FYI: I can't believe you put your reputation in Snutt's hands like that](../../transcriptions/yt-P5FtouvYxPE.md) [https://www.youtube.com/watch?v=P5FtouvYxPE](https://www.youtube.com/watch?v=P5FtouvYxPE)
+* [Community FYI: I honestly didn't notice it was Jace Bot until an hour of you](../../transcriptions/yt-Jg3fVuC4Sbk.md) [https://www.youtube.com/watch?v=Jg3fVuC4Sbk](https://www.youtube.com/watch?v=Jg3fVuC4Sbk)
+
 ## April 19th, 2022 Livestream
 * [Q&A: Any chance of an off-duty stream with the two of you playing actual Portal 2 co-op?](../../transcriptions/yt-KhjCtb3t7wI.md) [https://www.youtube.com/watch?v=KhjCtb3t7wI](https://www.youtube.com/watch?v=KhjCtb3t7wI)
 * [Community FYI: There's a co-op achievement for dunking your partner in the pools of toxic goop](../../transcriptions/yt-EVORRjnmH-8.md) [https://www.youtube.com/watch?v=EVORRjnmH-8](https://www.youtube.com/watch?v=EVORRjnmH-8)

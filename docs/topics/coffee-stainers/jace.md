@@ -10,6 +10,15 @@ date: Last Modified
 * [Juice Velvet](../../topics/coffee-stainers/jace/juice-velvet.md)
 * [Robo Jace](../../topics/coffee-stainers/jace/robo-jace.md)
 
+## April 21st, 2022 Satisfactory x Portal Bonus Stream
+* [Q&A: Have you ever fought a kangaroo?](../../transcriptions/yt-UUzWtO-66eA.md) [https://www.youtube.com/watch?v=UUzWtO-66eA](https://www.youtube.com/watch?v=UUzWtO-66eA)
+* [Jace Talk: Eat shit, chat!](../../transcriptions/yt-FUx5ctjvHJE.md) [https://www.youtube.com/watch?v=FUx5ctjvHJE](https://www.youtube.com/watch?v=FUx5ctjvHJE)
+* [Jace Talk: Portal speedrunning](../../transcriptions/yt-sXMlqYzWlmA.md) [https://www.youtube.com/watch?v=sXMlqYzWlmA](https://www.youtube.com/watch?v=sXMlqYzWlmA)
+* [Jace Talk: Portal level design aesthetic](../../transcriptions/yt-lRl_KqvEwPQ.md) [https://www.youtube.com/watch?v=lRl_KqvEwPQ](https://www.youtube.com/watch?v=lRl_KqvEwPQ)
+* [Q&A: So we've seen Midgar & Portal in Satisfactory, what would you like to see next in Satisfactory?](../../transcriptions/yt-2Bz_tLBLs3I.md) [https://www.youtube.com/watch?v=2Bz_tLBLs3I](https://www.youtube.com/watch?v=2Bz_tLBLs3I)
+* [Q&A: Where's Cosmic Jace?](../../transcriptions/yt-7xfAD22VK8s.md) [https://www.youtube.com/watch?v=7xfAD22VK8s](https://www.youtube.com/watch?v=7xfAD22VK8s)
+* [Q&A: What uni did you go to ?](../../transcriptions/yt-iMmvLs41bTU.md) [https://www.youtube.com/watch?v=iMmvLs41bTU](https://www.youtube.com/watch?v=iMmvLs41bTU)
+
 ## April 19th, 2022 Livestream
 * [Q&A: Any chance of an off-duty stream with the two of you playing actual Portal 2 co-op?](../../transcriptions/yt-KhjCtb3t7wI.md) [https://www.youtube.com/watch?v=KhjCtb3t7wI](https://www.youtube.com/watch?v=KhjCtb3t7wI)
 * [Community FYI: There's a co-op achievement for dunking your partner in the pools of toxic goop](../../transcriptions/yt-EVORRjnmH-8.md) [https://www.youtube.com/watch?v=EVORRjnmH-8](https://www.youtube.com/watch?v=EVORRjnmH-8)

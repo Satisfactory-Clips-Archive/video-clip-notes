@@ -5,6 +5,12 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Australia
 
+## April 21st, 2022 Satisfactory x Portal Bonus Stream
+* [Q&A: How's the spiders in Australia?](../../transcriptions/yt-y3eH_Z3HKNg.md) [https://www.youtube.com/watch?v=y3eH_Z3HKNg](https://www.youtube.com/watch?v=y3eH_Z3HKNg)
+* [Q&A: How many Coal nodes in Australia?](../../transcriptions/yt-FRr-lTnxnog.md) [https://www.youtube.com/watch?v=FRr-lTnxnog](https://www.youtube.com/watch?v=FRr-lTnxnog)
+* [Q&A: Have you ever fought a kangaroo?](../../transcriptions/yt-UUzWtO-66eA.md) [https://www.youtube.com/watch?v=UUzWtO-66eA](https://www.youtube.com/watch?v=UUzWtO-66eA)
+* [Q&A: When are we getting Australia update?](../../transcriptions/yt-Q5CUSuxNWR0.md) [https://www.youtube.com/watch?v=Q5CUSuxNWR0](https://www.youtube.com/watch?v=Q5CUSuxNWR0)
+
 ## April 19th, 2022 Livestream
 * [Q&A: Can Jace do an Australian accent?](../../transcriptions/yt-A2nW02YAaVk.md) [https://www.youtube.com/watch?v=A2nW02YAaVk](https://www.youtube.com/watch?v=A2nW02YAaVk)
 

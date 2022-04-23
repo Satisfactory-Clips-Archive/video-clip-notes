@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Creatures](../../../topics/environment/creatures.md) > Lizard Doggo
 
+## April 21st, 2022 Satisfactory x Portal Bonus Stream
+* [Community FYI: What a nice Doggo drawing](../../../transcriptions/yt-0zADB1yhnbs.md) [https://www.youtube.com/watch?v=0zADB1yhnbs](https://www.youtube.com/watch?v=0zADB1yhnbs)
+
 ## March 18th, 2022 Video
 * [Snutt & Jace Talk: Lizard Doggo article](../../../transcriptions/yt-VBGakEZilwk,1193.3588333333335,1293.2252666666666.md) [https://youtube.com/embed/VBGakEZilwk?autoplay=1&start=1193&end=1294](https://youtube.com/embed/VBGakEZilwk?autoplay=1&start=1193&end=1294)
 

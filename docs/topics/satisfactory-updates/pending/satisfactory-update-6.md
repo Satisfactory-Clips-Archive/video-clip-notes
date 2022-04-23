@@ -31,6 +31,11 @@ date: Last Modified
 * Snutt Talk: Wrapping up the video [https://youtube.com/clip/UgkxabdUzOGnq6bwmDf3iQvO6q6hnpa-QX7s](https://youtube.com/clip/UgkxabdUzOGnq6bwmDf3iQvO6q6hnpa-QX7s)
 * End Tag [https://youtube.com/embed/hkMTFsxa7rQ?autoplay=1&start=768](https://youtube.com/embed/hkMTFsxa7rQ?autoplay=1&start=768)
 
+## April 21st, 2022 Satisfactory x Portal Bonus Stream
+* [Q&A: Any leaks?](../../../transcriptions/yt-nRX3fcRIe1Y.md) [https://www.youtube.com/watch?v=nRX3fcRIe1Y](https://www.youtube.com/watch?v=nRX3fcRIe1Y)
+* [Q&A: I thought the leak was the Weather being introduced to the game?](../../../transcriptions/yt-CM3yWyHEU3Q.md) [https://www.youtube.com/watch?v=CM3yWyHEU3Q](https://www.youtube.com/watch?v=CM3yWyHEU3Q)
+* [Q&A: New Update?](../../../transcriptions/yt-DzHhx2BtaVY.md) [https://www.youtube.com/watch?v=DzHhx2BtaVY](https://www.youtube.com/watch?v=DzHhx2BtaVY)
+
 ## April 19th, 2022 Livestream
 * [State of Dev](../../../transcriptions/yt-d4RkGw7ei58.md) [https://www.youtube.com/watch?v=d4RkGw7ei58](https://www.youtube.com/watch?v=d4RkGw7ei58)
 * [Q&A: Where's the Update?](../../../transcriptions/yt-6i-IYIg-3s8.md) [https://www.youtube.com/watch?v=6i-IYIg-3s8](https://www.youtube.com/watch?v=6i-IYIg-3s8)

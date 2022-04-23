@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > Possible Features > [DLC](../../../../topics/features/possible-features/dlc.md) > Flushable Toilet DLC
 
+## April 21st, 2022 Satisfactory x Portal Bonus Stream
+* [Q&A: Any leaks?](../../../../transcriptions/yt-nRX3fcRIe1Y.md) [https://www.youtube.com/watch?v=nRX3fcRIe1Y](https://www.youtube.com/watch?v=nRX3fcRIe1Y)
+
 ## April 12th, 2022 Livestream
 * [Q&A: If you could pick the theme of an Update based on where you wanted to film the Patch Notes...](../../../../transcriptions/yt-mJVRad-m-EM.md) [https://www.youtube.com/watch?v=mJVRad-m-EM](https://www.youtube.com/watch?v=mJVRad-m-EM)
 * [Community FYI: If the Toilet DLC comes with RGB and squatty potty, that's a major win](../../../../transcriptions/yt-H25bKvud6vo.md) [https://www.youtube.com/watch?v=H25bKvud6vo](https://www.youtube.com/watch?v=H25bKvud6vo)

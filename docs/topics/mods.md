@@ -32,6 +32,11 @@ date: Last Modified
 * [Utility Signs](../topics/mods/utility-signs.md)
 * [Zip Strips](../topics/mods/zip-strips.md)
 
+## April 21st, 2022 Satisfactory x Portal Bonus Stream
+* [Jace Talk: Mods were used to create the map, but they are not required to play](../transcriptions/yt-_fgRWqVhzHc.md) [https://www.youtube.com/watch?v=_fgRWqVhzHc](https://www.youtube.com/watch?v=_fgRWqVhzHc)
+* [Community FYI: Use of Micro Manage Mod is really well done](../transcriptions/yt-iNFCucZVrqk.md) [https://www.youtube.com/watch?v=iNFCucZVrqk](https://www.youtube.com/watch?v=iNFCucZVrqk)
+* [Q&A: Is this a Mod or a custom Map?](../transcriptions/yt-XHvbCxEajhQ.md) [https://www.youtube.com/watch?v=XHvbCxEajhQ](https://www.youtube.com/watch?v=XHvbCxEajhQ)
+
 ## March 29th, 2022 Livestream
 * [Q&A: Can you forward Mod crash reports?](../transcriptions/yt-LdI-yRvTBf8.md) [https://www.youtube.com/watch?v=LdI-yRvTBf8](https://www.youtube.com/watch?v=LdI-yRvTBf8)
 * [Q&A: Have any of the CSS devs dipped into moonlighing with Modding?](../transcriptions/yt-jCWZoQwPJ_c.md) [https://www.youtube.com/watch?v=jCWZoQwPJ_c](https://www.youtube.com/watch?v=jCWZoQwPJ_c)

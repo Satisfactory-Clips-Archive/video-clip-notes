@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Final Fantasy
 * [The Official Satisfactory PODCAST](../../topics/off-topic/final-fantasy/the-official-satisfactory-podcast.md)
 
+## April 21st, 2022 Satisfactory x Portal Bonus Stream
+* [Q&A: So we've seen Midgar & Portal in Satisfactory, what would you like to see next in Satisfactory?](../../transcriptions/yt-2Bz_tLBLs3I.md) [https://www.youtube.com/watch?v=2Bz_tLBLs3I](https://www.youtube.com/watch?v=2Bz_tLBLs3I)
+
 ## April 19th, 2022 Livestream
 * [State of Dev](../../transcriptions/yt-d4RkGw7ei58.md) [https://www.youtube.com/watch?v=d4RkGw7ei58](https://www.youtube.com/watch?v=d4RkGw7ei58)
 

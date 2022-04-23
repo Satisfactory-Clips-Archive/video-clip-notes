@@ -10,6 +10,9 @@ date: Last Modified
 ## April 22nd, 2022 Video
 * Snutt Talk: Reworking the foliage system [https://youtube.com/clip/UgkxxYbl2WdbGVqAFS9YOaDuEiwCWthW_Kpz](https://youtube.com/clip/UgkxxYbl2WdbGVqAFS9YOaDuEiwCWthW_Kpz)
 
+## April 21st, 2022 Satisfactory x Portal Bonus Stream
+* [Q&A: How do I start the map?](../../transcriptions/yt-Mjbq8807Uko.md) [https://www.youtube.com/watch?v=Mjbq8807Uko](https://www.youtube.com/watch?v=Mjbq8807Uko)
+
 ## April 19th, 2022 Livestream
 * [Q&A: Have any of you been able to open BLAndrew575's save pre-screws yet?](../../transcriptions/yt-VJwqxepEJuM.md) [https://www.youtube.com/watch?v=VJwqxepEJuM](https://www.youtube.com/watch?v=VJwqxepEJuM)
 

@@ -18,6 +18,9 @@ date: Last Modified
 * [Teasers & Trailers](../topics/satisfactory-updates/teasers-and-trailers.md)
 * [World Update](../topics/satisfactory-updates/world-update.md)
 
+## April 21st, 2022 Satisfactory x Portal Bonus Stream
+* [Q&A: When are we getting Australia update?](../transcriptions/yt-Q5CUSuxNWR0.md) [https://www.youtube.com/watch?v=Q5CUSuxNWR0](https://www.youtube.com/watch?v=Q5CUSuxNWR0)
+
 ## April 12th, 2022 Livestream
 * [Q&A: If you could pick the theme of an Update based on where you wanted to film the Patch Notes...](../transcriptions/yt-mJVRad-m-EM.md) [https://www.youtube.com/watch?v=mJVRad-m-EM](https://www.youtube.com/watch?v=mJVRad-m-EM)
 * [Q&A: Has the team decided on a course of action for the next Update?](../transcriptions/yt-pmxkB0r9kjE.md) [https://www.youtube.com/watch?v=pmxkB0r9kjE](https://www.youtube.com/watch?v=pmxkB0r9kjE)

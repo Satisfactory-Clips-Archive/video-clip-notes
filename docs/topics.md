@@ -63,6 +63,7 @@ date: Last Modified
 * [Community Highlights](./topics/community/community-highlights.md)
 * [DrawingXaos](./topics/community/drawingxaos.md)
 * [Haigen](./topics/community/haigen.md)
+* [J1mbers](./topics/community/j1mbers.md)
 * [Josh](./topics/community/josh.md)
 * [Joshie](./topics/community/joshie.md)
 * [Kibitz](./topics/community/kibitz.md)

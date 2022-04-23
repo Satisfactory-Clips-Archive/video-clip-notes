@@ -12,6 +12,9 @@ date: Last Modified
 * [Tractor](../../../topics/features/transportation/vehicles/tractor.md)
 * [Truck](../../../topics/features/transportation/vehicles/truck.md)
 
+## April 21st, 2022 Satisfactory x Portal Bonus Stream
+* [Q&A: Are there any plans to add dynamic Vehicle sounds to Satisfactory?](../../../transcriptions/yt--g9vgJc4EAQ.md) [https://www.youtube.com/watch?v=-g9vgJc4EAQ](https://www.youtube.com/watch?v=-g9vgJc4EAQ)
+
 ## April 19th, 2022 Livestream
 * [Q&A: My car is submerged in water, how do I get it out?](../../../transcriptions/yt-ypU5u55kT-E.md) [https://www.youtube.com/watch?v=ypU5u55kT-E](https://www.youtube.com/watch?v=ypU5u55kT-E)
 

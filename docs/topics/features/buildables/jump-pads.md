@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildables](../../../topics/features/buildables.md) > Jump Pads
 
+## April 21st, 2022 Satisfactory x Portal Bonus Stream
+* [Community FYI: I could never use the Jump Pads like that, for some reason I always miss them](../../../transcriptions/yt-iFByYWXZB10.md) [https://www.youtube.com/watch?v=iFByYWXZB10](https://www.youtube.com/watch?v=iFByYWXZB10)
+
 ## September 14th, 2021 Livestream
 * [Q&A: What if I use Jump Pads now, though?](../../../transcriptions/yt-pRnGOwOwMaM.md) [https://www.youtube.com/watch?v=pRnGOwOwMaM](https://www.youtube.com/watch?v=pRnGOwOwMaM)
 * Community FYI: Vehicles + Jump Pads = Drone [https://www.youtube.com/watch?v=RgKdoinOVhc](https://www.youtube.com/watch?v=RgKdoinOVhc)

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Embracer Group](../../../topics/embracer-group.md) > Coffee Stain Holding > Coffee Stain Publishing
 
+## April 21st, 2022 Satisfactory x Portal Bonus Stream
+* [Jace Talk: Changes to the company YouTube channels](../../../transcriptions/yt-SPJAjphdU-A.md) [https://www.youtube.com/watch?v=SPJAjphdU-A](https://www.youtube.com/watch?v=SPJAjphdU-A)
+
 ## April 12th, 2022 Livestream
 * [Q&A: How come Coffee Stain produces such absolute bangers like Valheim, Deep Rock, and Satisfactory?](../../../transcriptions/yt-DkAFlDyKX8Q.md) [https://www.youtube.com/watch?v=DkAFlDyKX8Q](https://www.youtube.com/watch?v=DkAFlDyKX8Q)
 * [Q&A: Are any of the games getting any updates soon or releasing out of Early Access?](../../../transcriptions/yt-R8gAQ9cRFCI.md) [https://www.youtube.com/watch?v=R8gAQ9cRFCI](https://www.youtube.com/watch?v=R8gAQ9cRFCI)

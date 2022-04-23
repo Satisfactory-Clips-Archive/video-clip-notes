@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Coffee Stainers](../../../topics/coffee-stainers.md) > [Jace](../../../topics/coffee-stainers/jace.md) > Robo Jace
 
+## April 21st, 2022 Satisfactory x Portal Bonus Stream
+* [Community FYI: I can't believe you put your reputation in Snutt's hands like that](../../../transcriptions/yt-P5FtouvYxPE.md) [https://www.youtube.com/watch?v=P5FtouvYxPE](https://www.youtube.com/watch?v=P5FtouvYxPE)
+* [Community FYI: I honestly didn't notice it was Jace Bot until an hour of you](../../../transcriptions/yt-Jg3fVuC4Sbk.md) [https://www.youtube.com/watch?v=Jg3fVuC4Sbk](https://www.youtube.com/watch?v=Jg3fVuC4Sbk)
+
 ## March 15th, 2022 Livestream
 * [Snutt & Jace Talk: Robo Jace (Intro)](../../../transcriptions/yt-EU5g84DVAcc.md) [https://www.youtube.com/watch?v=EU5g84DVAcc](https://www.youtube.com/watch?v=EU5g84DVAcc)
 * [Community FYI: Thanks Jace for sacrificing part of your pay cheque to get a raise](../../../transcriptions/yt-yFBhL_zDyuw.md) [https://www.youtube.com/watch?v=yFBhL_zDyuw](https://www.youtube.com/watch?v=yFBhL_zDyuw)

@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Trolling
 
+## April 21st, 2022 Satisfactory x Portal Bonus Stream
+* [Q&A: How many Coal nodes in Australia?](../transcriptions/yt-FRr-lTnxnog.md) [https://www.youtube.com/watch?v=FRr-lTnxnog](https://www.youtube.com/watch?v=FRr-lTnxnog)
+* [Q&A: New Update?](../transcriptions/yt-DzHhx2BtaVY.md) [https://www.youtube.com/watch?v=DzHhx2BtaVY](https://www.youtube.com/watch?v=DzHhx2BtaVY)
+
 ## April 19th, 2022 Livestream
 * [Q&A: What happens so that "Don't praise Simon" is a rule?](../transcriptions/yt-NUzhUkZFBss.md) [https://www.youtube.com/watch?v=NUzhUkZFBss](https://www.youtube.com/watch?v=NUzhUkZFBss)
 

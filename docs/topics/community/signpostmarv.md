@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > SignpostMarv
 
+## April 21st, 2022 Satisfactory x Portal Bonus Stream
+* [Community FYI: 2 hour dev streams + 40min videos; this week = 2 hour dev, 2 hour bonus, ??min video](../../transcriptions/yt-shL8S18RQnM.md) [https://www.youtube.com/watch?v=shL8S18RQnM](https://www.youtube.com/watch?v=shL8S18RQnM)
+
 ## April 12th, 2022 Livestream
 * [Community FYI: DLC plan per Archive Clips](../../transcriptions/yt-iqvaeCfbyOc.md) [https://www.youtube.com/watch?v=iqvaeCfbyOc](https://www.youtube.com/watch?v=iqvaeCfbyOc)
 

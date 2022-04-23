@@ -9,6 +9,7 @@ date: Last Modified
 * [Community Highlights](../topics/community/community-highlights.md)
 * [DrawingXaos](../topics/community/drawingxaos.md)
 * [Haigen](../topics/community/haigen.md)
+* [J1mbers](../topics/community/j1mbers.md)
 * [Josh](../topics/community/josh.md)
 * [Joshie](../topics/community/joshie.md)
 * [Kibitz](../topics/community/kibitz.md)
@@ -27,6 +28,10 @@ date: Last Modified
 ## April 22nd, 2022 Video
 * Snutt Talk: Soliciting Community feedback on the proposed change [https://youtube.com/clip/UgkxeqkddoAOw0lxM0x-rCuv_gHq3waSojNm](https://youtube.com/clip/UgkxeqkddoAOw0lxM0x-rCuv_gHq3waSojNm)
 * Snutt Talk: Still a lot of things to show & discuss [https://youtube.com/clip/UgkxuGOdvjzf6AAAk1hDroMr5mqoBK-2f4SJ](https://youtube.com/clip/UgkxuGOdvjzf6AAAk1hDroMr5mqoBK-2f4SJ)
+
+## April 21st, 2022 Satisfactory x Portal Bonus Stream
+* [Jace Talk: Snutt's new catchphrase](../transcriptions/yt-MSM3dfaO4KY.md) [https://www.youtube.com/watch?v=MSM3dfaO4KY](https://www.youtube.com/watch?v=MSM3dfaO4KY)
+* [Community FYI: It is interesting to see what one can do with this game](../transcriptions/yt--UtYFjp2xdk.md) [https://www.youtube.com/watch?v=-UtYFjp2xdk](https://www.youtube.com/watch?v=-UtYFjp2xdk)
 
 ## April 19th, 2022 Livestream
 * [Snutt & Jace Talk: "Eat shit, chat!"](../transcriptions/yt-pzSh8VJWwwY.md) [https://www.youtube.com/watch?v=pzSh8VJWwwY](https://www.youtube.com/watch?v=pzSh8VJWwwY)

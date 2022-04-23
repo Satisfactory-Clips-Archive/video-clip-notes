@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > Transportation > Hyper Tubes
 
+## April 21st, 2022 Satisfactory x Portal Bonus Stream
+* [Community FYI: Portal in Satisfactory without portals](../../../transcriptions/yt-S0kkCYikV3A.md) [https://www.youtube.com/watch?v=S0kkCYikV3A](https://www.youtube.com/watch?v=S0kkCYikV3A)
+* [Jace Talk: Hypertube momentum](../../../transcriptions/yt-FoSf3FgfG1M.md) [https://www.youtube.com/watch?v=FoSf3FgfG1M](https://www.youtube.com/watch?v=FoSf3FgfG1M)
+
 ## March 29th, 2022 Livestream
 * [Q&A: Will there be a two-way switch for Hyper Tubes?](../../../transcriptions/yt-UgTF5uThITM.md) [https://www.youtube.com/watch?v=UgTF5uThITM](https://www.youtube.com/watch?v=UgTF5uThITM)
 

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Resources](../../../topics/environment/resources.md) > Coal
 
+## April 21st, 2022 Satisfactory x Portal Bonus Stream
+* [Q&A: How many Coal nodes in Australia?](../../../transcriptions/yt-FRr-lTnxnog.md) [https://www.youtube.com/watch?v=FRr-lTnxnog](https://www.youtube.com/watch?v=FRr-lTnxnog)
+
 ## February 11th, 2022 Hot Potato Bonus Stream
 * [Q&A: Can you un-automate Coal?](../../../transcriptions/yt-QfRPustlQ24.md) [https://www.youtube.com/watch?v=QfRPustlQ24](https://www.youtube.com/watch?v=QfRPustlQ24)
 

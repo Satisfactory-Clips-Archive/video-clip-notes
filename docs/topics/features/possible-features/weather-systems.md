@@ -8,6 +8,9 @@ date: Last Modified
 ## April 22nd, 2022 Video
 * Snutt Talk: Ben's water changes [https://youtube.com/clip/UgkxaD0rJKYKWGhXACEAijg16q-YhZ8Yv8Nt](https://youtube.com/clip/UgkxaD0rJKYKWGhXACEAijg16q-YhZ8Yv8Nt)
 
+## April 21st, 2022 Satisfactory x Portal Bonus Stream
+* [Q&A: I thought the leak was the Weather being introduced to the game?](../../../transcriptions/yt-CM3yWyHEU3Q.md) [https://www.youtube.com/watch?v=CM3yWyHEU3Q](https://www.youtube.com/watch?v=CM3yWyHEU3Q)
+
 ## March 22nd, 2022 Livestream
 * [Q&A: Do you wanna add more Weather options, or just rain?](../../../transcriptions/yt-tEsHw1pXZlQ.md) [https://www.youtube.com/watch?v=tEsHw1pXZlQ](https://www.youtube.com/watch?v=tEsHw1pXZlQ)
 
