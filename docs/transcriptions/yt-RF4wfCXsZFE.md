@@ -10,6 +10,12 @@ topics:
 # [April 26th, 2022 Livestream](../2022-04-26.md)
 ## Snutt Talk: Next video is on the Spire Coast (Part 1)
 https://www.youtube.com/watch?v=RF4wfCXsZFE
+<details>
+<summary>This video continues in another video</summary>
+
+* [April 26th, 2022 Livestream Snutt Talk: Next video is on the Spire Coast (Part 2)](./yt-lyItQvc4ETk.md) [https://www.youtube.com/watch?v=lyItQvc4ETk](https://www.youtube.com/watch?v=lyItQvc4ETk)
+</details>
+
 
 ### Topics
 * [Environment > Biomes > Spire Coast](../topics/environment/biomes/spire-coast.md)
