@@ -383,7 +383,7 @@ date: Last Modified
 * [Jace Talk: Milo tutorial](../transcriptions/yt--eBlSsTmUSE,23.92,167.8.md) [https://youtube.com/embed/-eBlSsTmUSE?autoplay=1&start=23&end=168](https://youtube.com/embed/-eBlSsTmUSE?autoplay=1&start=23&end=168)
 
 ## April 17th, 2019 Video
-* [Dancing coffee stainer](../transcriptions/yt-s9JIUKS0p2Q,96.64,112.md) [https://youtube.com/embed/s9JIUKS0p2Q?autoplay=1&start=96&end=112](https://youtube.com/embed/s9JIUKS0p2Q?autoplay=1&start=96&end=112)
+* [Dancing coffee stainer](../transcriptions/yt-s9JIUKS0p2Q,96.64,112.md) [https://youtube.com/clip/UgkxuedqeaA2eMpr_G9wle2OBiTg7yEBNd7z](https://youtube.com/clip/UgkxuedqeaA2eMpr_G9wle2OBiTg7yEBNd7z)
 
 ## March 9th, 2019 Livestream
 * [Q&A: You guys are planning a mobile port, right?](../transcriptions/yt-gxWgVKBPTtM.md) [https://www.youtube.com/watch?v=gxWgVKBPTtM](https://www.youtube.com/watch?v=gxWgVKBPTtM)

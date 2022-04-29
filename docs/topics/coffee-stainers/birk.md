@@ -36,4 +36,4 @@ date: Last Modified
 * [Q&A: Will Birk take Snutt's hat & put it on?](../../transcriptions/yt-QGR8OUtf08c.md) [https://www.youtube.com/watch?v=QGR8OUtf08c](https://www.youtube.com/watch?v=QGR8OUtf08c)
 
 ## April 17th, 2019 Video
-* [Dancing coffee stainer](../../transcriptions/yt-s9JIUKS0p2Q,96.64,112.md) [https://youtube.com/embed/s9JIUKS0p2Q?autoplay=1&start=96&end=112](https://youtube.com/embed/s9JIUKS0p2Q?autoplay=1&start=96&end=112)
+* [Dancing coffee stainer](../../transcriptions/yt-s9JIUKS0p2Q,96.64,112.md) [https://youtube.com/clip/UgkxuedqeaA2eMpr_G9wle2OBiTg7yEBNd7z](https://youtube.com/clip/UgkxuedqeaA2eMpr_G9wle2OBiTg7yEBNd7z)
