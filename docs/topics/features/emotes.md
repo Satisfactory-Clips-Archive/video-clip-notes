@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Features](../../topics/features.md) > Emotes
 
+## April 26th, 2022 Livestream
+* [Q&A: Golf Emote?](../../transcriptions/yt-70bU7AYdYBI.md) [https://www.youtube.com/watch?v=70bU7AYdYBI](https://www.youtube.com/watch?v=70bU7AYdYBI)
+
 ## February 22nd, 2022 Livestream
 * [Q&A: Is the rare alternate clapping Emote still in the game?](../../transcriptions/yt-JhdDyDRBLjM.md) [https://www.youtube.com/watch?v=JhdDyDRBLjM](https://www.youtube.com/watch?v=JhdDyDRBLjM)
 

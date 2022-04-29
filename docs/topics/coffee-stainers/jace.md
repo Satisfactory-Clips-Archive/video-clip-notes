@@ -10,6 +10,9 @@ date: Last Modified
 * [Juice Velvet](../../topics/coffee-stainers/jace/juice-velvet.md)
 * [Robo Jace](../../topics/coffee-stainers/jace/robo-jace.md)
 
+## April 26th, 2022 Livestream
+* [Q&A: I thought Jace said he wasn't on vacation?](../../transcriptions/yt-rcWAAQXHwdY.md) [https://www.youtube.com/watch?v=rcWAAQXHwdY](https://www.youtube.com/watch?v=rcWAAQXHwdY)
+
 ## April 21st, 2022 Satisfactory x Portal Bonus Stream
 * [Q&A: Have you ever fought a kangaroo?](../../transcriptions/yt-UUzWtO-66eA.md) [https://www.youtube.com/watch?v=UUzWtO-66eA](https://www.youtube.com/watch?v=UUzWtO-66eA)
 * [Jace Talk: Eat shit, chat!](../../transcriptions/yt-FUx5ctjvHJE.md) [https://www.youtube.com/watch?v=FUx5ctjvHJE](https://www.youtube.com/watch?v=FUx5ctjvHJE)

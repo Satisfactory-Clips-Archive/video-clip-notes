@@ -1,0 +1,17 @@
+---
+title: "April 26th, 2022 Livestream Q&A: Was Mark the Game Director from the beginning?"
+date: "2022-04-26"
+layout: transcript
+topics:
+    - "coffee-stainers/mark"
+---
+# [April 26th, 2022 Livestream](../2022-04-26.md)
+## Q&A: Was Mark the Game Director from the beginning?
+https://www.youtube.com/watch?v=VVMNv0PCcIA
+
+### Topics
+* [Coffee Stainers > Mark](../topics/coffee-stainers/mark.md)
+
+### Transcript
+
+> so one question that was pretty interesting here is, if you've been the director from the beginning, no, it used to be okay who's the director but I'm kind of curious about the the like how do you feel the the transition has been latin be no what is that like the trans cause it it's interesting to me because I don't think I've been on too many game development projects where we've shifted game director because it could be the case where like you have a completely different vision for what the game should be in like the for like how how is that transition been for you in terms of like the legacy that, was already like in in place for the game oh robot mark go away real mark come back oh wait for me yeah it's good oh is it yeah nope wait why are you so much more robot this time I don't know okay go for it, the transition for me I think was good and that was mostly probably because we had a defined product that we kind of used to establish our vision like this is the game that people want to play and we're going to build on top of that and improve that experience and give them more of the things that we have in that sense we kind of let the game speak for itself at least that's what I did when it came to the vision aspect, probably trigger your parts were like looking at like these big things that occur used to look at before I did which was the balancing stuff because I worked with him on design but I would be mostly working on like world stuff exploration stuff and he would be handling all the factory stuff so I actually never got I didn't get a lot of opportunity at least to work with him together on the factory things before he moved over did you guys catch that all right so so the factory part was like something that you didn't touch too much until you became game director yeah I kind of had to learn how to use that and I ended up just kind of yielding his his his documentation nice spreadsheets and just making my own because it was just easier that way yeah I was gonna say like everything that sounds so overwhelming that aspect of the game is like the most, spreadsheet spread sh shitty shred shitty yeah, holy now I've seen your document like I don't wanna I don't wanna get that yeah you know and I think I mean I mean we don't really know documentation here well and it works out because we're a smaller team I think and but I do mostly most documentation is mostly for me that I do like big documentation it's just to keep track of things and keep track of those decisions, yeah but I mean a big reason as well that I that I just redid the spreadsheets for balancing is because I did a different approach I looked at different things and I kind of tried to expand the things that we take into account when we balance things yeah which I think in the end yeah has improved you kind of need something to build on first for that kind of stuff which is I think mostly yeah like I said before what we have done especially with like the game direction which just built on what was there yeah it is nice that there is like a good solid foundation of the game to take over

@@ -1,8 +1,12 @@
 ---
 title: "Swamp"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEouDCpMNBcTf8W6gqQ85Qzz
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Biomes](../../../topics/environment/biomes.md) > Swamp
+
+## April 26th, 2022 Livestream
+* [State of Dave](../../../transcriptions/yt-komFyjm03kg.md) [https://www.youtube.com/watch?v=komFyjm03kg](https://www.youtube.com/watch?v=komFyjm03kg)
 
 ## April 22nd, 2022 Video
 * Snutt Talk: The sky sphere & Swamp Biome [https://youtube.com/clip/UgkxTU-Kgawtc8RhFPkS0t_-vLmyGvMAgj3u](https://youtube.com/clip/UgkxTU-Kgawtc8RhFPkS0t_-vLmyGvMAgj3u)

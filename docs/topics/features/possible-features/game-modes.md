@@ -8,6 +8,9 @@ date: Last Modified
 * [Creative Mode](../../../topics/features/possible-features/game-modes/creative-mode.md)
 * [Peaceful Mode](../../../topics/features/possible-features/game-modes/peaceful-mode.md)
 
+## April 26th, 2022 Livestream
+* [Mark joins the fight](../../../transcriptions/yt-iw0CLqzO_vA.md) [https://www.youtube.com/watch?v=iw0CLqzO_vA](https://www.youtube.com/watch?v=iw0CLqzO_vA)
+
 ## February 22nd, 2022 Livestream
 * [Q&A: Have you thought about making Space Elevator goals more difficult?](../../../transcriptions/yt-Q7byNQ9xEkw.md) [https://www.youtube.com/watch?v=Q7byNQ9xEkw](https://www.youtube.com/watch?v=Q7byNQ9xEkw)
 * [Q&A: Game mode to make environmental puzzles more difficult?](../../../transcriptions/yt-vI1MbFXJphw.md) [https://www.youtube.com/watch?v=vI1MbFXJphw](https://www.youtube.com/watch?v=vI1MbFXJphw)

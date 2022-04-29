@@ -26,6 +26,11 @@ date: Last Modified
 * [The HUB](../../topics/features/buildings/the-hub.md)
 * [Water Extractor](../../topics/features/buildings/water-extractor.md)
 
+## April 26th, 2022 Livestream
+* [Q&A: Can Crash Sites fall as we're playing?](../../transcriptions/yt-AQxtLD0pdpk.md) [https://www.youtube.com/watch?v=AQxtLD0pdpk](https://www.youtube.com/watch?v=AQxtLD0pdpk)
+* [Community FYI: Imagine a ship wreck falling on your factory and destroys everything](../../transcriptions/yt-2_pnQp9mNbs.md) [https://www.youtube.com/watch?v=2_pnQp9mNbs](https://www.youtube.com/watch?v=2_pnQp9mNbs)
+* [Q&A: Can we destroy completed Crash Sites?](../../transcriptions/yt-MB3Pw2p5kmk.md) [https://www.youtube.com/watch?v=MB3Pw2p5kmk](https://www.youtube.com/watch?v=MB3Pw2p5kmk)
+
 ## April 19th, 2022 Livestream
 * [Q&A: What is "Skövde C" for you, and why is it the first Station name in Satisfactory?](../../transcriptions/yt-1a5Y1wJ2EP0.md) [https://www.youtube.com/watch?v=1a5Y1wJ2EP0](https://www.youtube.com/watch?v=1a5Y1wJ2EP0)
 

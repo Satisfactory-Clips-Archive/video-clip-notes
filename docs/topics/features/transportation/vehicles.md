@@ -12,6 +12,9 @@ date: Last Modified
 * [Tractor](../../../topics/features/transportation/vehicles/tractor.md)
 * [Truck](../../../topics/features/transportation/vehicles/truck.md)
 
+## April 26th, 2022 Livestream
+* [Q&A: Can you use the Resource Scanner inside a Vehicle?](../../../transcriptions/yt-pXKQeXveSWQ.md) [https://www.youtube.com/watch?v=pXKQeXveSWQ](https://www.youtube.com/watch?v=pXKQeXveSWQ)
+
 ## April 21st, 2022 Satisfactory x Portal Bonus Stream
 * [Q&A: Are there any plans to add dynamic Vehicle sounds to Satisfactory?](../../../transcriptions/yt--g9vgJc4EAQ.md) [https://www.youtube.com/watch?v=-g9vgJc4EAQ](https://www.youtube.com/watch?v=-g9vgJc4EAQ)
 

@@ -5,6 +5,14 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Pending > Satisfactory Update 6
 
+## April 26th, 2022 Livestream
+* [State of Dave](../../../transcriptions/yt-komFyjm03kg.md) [https://www.youtube.com/watch?v=komFyjm03kg](https://www.youtube.com/watch?v=komFyjm03kg)
+* [Mark joins the fight](../../../transcriptions/yt-iw0CLqzO_vA.md) [https://www.youtube.com/watch?v=iw0CLqzO_vA](https://www.youtube.com/watch?v=iw0CLqzO_vA)
+* [Q&A: Couldn't you make the UI more clear about Overclocking?](../../../transcriptions/yt-BWHZtO7XcI0.md) [https://www.youtube.com/watch?v=BWHZtO7XcI0](https://www.youtube.com/watch?v=BWHZtO7XcI0)
+* [Snutt & Mark Talk: Linear & exponential growth](../../../transcriptions/yt-KhvFgr171Qg.md) [https://www.youtube.com/watch?v=KhvFgr171Qg](https://www.youtube.com/watch?v=KhvFgr171Qg)
+* [Snutt Talk: Next video is on the Spire Coast (Part 1)](../../../transcriptions/yt-RF4wfCXsZFE.md) [https://www.youtube.com/watch?v=RF4wfCXsZFE](https://www.youtube.com/watch?v=RF4wfCXsZFE)
+* [Snutt Talk: Next video is on the Spire Coast (Part 2)](../../../transcriptions/yt-lyItQvc4ETk.md) [https://www.youtube.com/watch?v=lyItQvc4ETk](https://www.youtube.com/watch?v=lyItQvc4ETk)
+
 ## April 22nd, 2022 Video
 * Intro [https://youtube.com/embed/hkMTFsxa7rQ?autoplay=1&start=0&end=63](https://youtube.com/embed/hkMTFsxa7rQ?autoplay=1&start=0&end=63)
 * Snutt Talk: Why Update 6 is going to be different [https://youtube.com/embed/hkMTFsxa7rQ?autoplay=1&start=62&end=204](https://youtube.com/embed/hkMTFsxa7rQ?autoplay=1&start=62&end=204)

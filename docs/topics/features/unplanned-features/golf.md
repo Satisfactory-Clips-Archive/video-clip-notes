@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Unplanned Features](../../../topics/features/unplanned-features.md) > Golf
 
+## April 26th, 2022 Livestream
+* [Mark joins the fight](../../../transcriptions/yt-iw0CLqzO_vA.md) [https://www.youtube.com/watch?v=iw0CLqzO_vA](https://www.youtube.com/watch?v=iw0CLqzO_vA)
+* [Community FYI: Golf wasn't our idea](../../../transcriptions/yt-LyHPCNU2WbI.md) [https://www.youtube.com/watch?v=LyHPCNU2WbI](https://www.youtube.com/watch?v=LyHPCNU2WbI)
+* [Q&A: Golf Emote?](../../../transcriptions/yt-70bU7AYdYBI.md) [https://www.youtube.com/watch?v=70bU7AYdYBI](https://www.youtube.com/watch?v=70bU7AYdYBI)
+
 ## April 8th, 2022 Video
 * [Jace Talk: Monday.com (Part 2)](../../../transcriptions/yt-o6ao9-UIZIQ,1383.3486333333333,1409.6749333333335.md) [https://youtube.com/clip/Ugkx_zeMxtLu7orzqv-tTyINToTrT2qLcnLf](https://youtube.com/clip/Ugkx_zeMxtLu7orzqv-tTyINToTrT2qLcnLf)
 

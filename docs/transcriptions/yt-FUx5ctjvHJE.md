@@ -4,7 +4,7 @@ date: "2022-04-21"
 layout: transcript
 topics:
     - "coffee-stainers/jace"
-    - "coffee-stainers/snutt"
+    - "coffee-stainers/snutt/eat-shit-chat"
     - "community/community-highlights"
     - "community/j1mbers"
     - "off-topic/portal"
@@ -15,7 +15,7 @@ https://www.youtube.com/watch?v=FUx5ctjvHJE
 
 ### Topics
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
-* [Coffee Stainers > Snutt](../topics/coffee-stainers/snutt.md)
+* [Coffee Stainers > Snutt > Eat shit, chat!](../topics/coffee-stainers/snutt/eat-shit-chat.md)
 * [Community > Community Highlights](../topics/community/community-highlights.md)
 * [Community > J1mbers](../topics/community/j1mbers.md)
 * [Off-Topic > Portal](../topics/off-topic/portal.md)

@@ -5,6 +5,12 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Biomes](../../../topics/environment/biomes.md) > Spire Coast
 
+## April 26th, 2022 Livestream
+* [State of Dave](../../../transcriptions/yt-komFyjm03kg.md) [https://www.youtube.com/watch?v=komFyjm03kg](https://www.youtube.com/watch?v=komFyjm03kg)
+* [Mark joins the fight](../../../transcriptions/yt-iw0CLqzO_vA.md) [https://www.youtube.com/watch?v=iw0CLqzO_vA](https://www.youtube.com/watch?v=iw0CLqzO_vA)
+* [Snutt Talk: Next video is on the Spire Coast (Part 1)](../../../transcriptions/yt-RF4wfCXsZFE.md) [https://www.youtube.com/watch?v=RF4wfCXsZFE](https://www.youtube.com/watch?v=RF4wfCXsZFE)
+* [Snutt Talk: Next video is on the Spire Coast (Part 2)](../../../transcriptions/yt-lyItQvc4ETk.md) [https://www.youtube.com/watch?v=lyItQvc4ETk](https://www.youtube.com/watch?v=lyItQvc4ETk)
+
 ## April 22nd, 2022 Video
 * Environmental Changes [https://youtube.com/embed/hkMTFsxa7rQ?autoplay=1&start=304&end=376](https://youtube.com/embed/hkMTFsxa7rQ?autoplay=1&start=304&end=376)
 

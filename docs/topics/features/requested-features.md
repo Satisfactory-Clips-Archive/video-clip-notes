@@ -12,6 +12,13 @@ date: Last Modified
 * [Pollution](../../topics/features/requested-features/pollution.md)
 * [Third-person View](../../topics/features/requested-features/third-person-view.md)
 
+## April 26th, 2022 Livestream
+* [Q&A: Can Crash Sites fall as we're playing?](../../transcriptions/yt-AQxtLD0pdpk.md) [https://www.youtube.com/watch?v=AQxtLD0pdpk](https://www.youtube.com/watch?v=AQxtLD0pdpk)
+* [Q&A: Couldn't you make the UI more clear about Overclocking?](../../transcriptions/yt-BWHZtO7XcI0.md) [https://www.youtube.com/watch?v=BWHZtO7XcI0](https://www.youtube.com/watch?v=BWHZtO7XcI0)
+* [Q&A: Can you use the Resource Scanner inside a Vehicle?](../../transcriptions/yt-pXKQeXveSWQ.md) [https://www.youtube.com/watch?v=pXKQeXveSWQ](https://www.youtube.com/watch?v=pXKQeXveSWQ)
+* [Q&A: Can we destroy completed Crash Sites?](../../transcriptions/yt-MB3Pw2p5kmk.md) [https://www.youtube.com/watch?v=MB3Pw2p5kmk](https://www.youtube.com/watch?v=MB3Pw2p5kmk)
+* [Q&A: Will you add Inhaler Recipes to machines to automate them?](../../transcriptions/yt-o6_OpiSg-pQ.md) [https://www.youtube.com/watch?v=o6_OpiSg-pQ](https://www.youtube.com/watch?v=o6_OpiSg-pQ)
+
 ## April 19th, 2022 Livestream
 * [Q&A: When will you add episode 2 on the Podcast?](../../transcriptions/yt-g57nuSoIYnw.md) [https://www.youtube.com/watch?v=g57nuSoIYnw](https://www.youtube.com/watch?v=g57nuSoIYnw)
 * [Q&A: Do you plan to add Wall Holes for Belts, similar to Floor Holes for Foundations?](../../transcriptions/yt-XKoMKtf1ZjY.md) [https://www.youtube.com/watch?v=XKoMKtf1ZjY](https://www.youtube.com/watch?v=XKoMKtf1ZjY)

@@ -3,7 +3,7 @@ title: "April 21st, 2022 Satisfactory x Portal Bonus Stream Jace Talk: Snutt's n
 date: "2022-04-21"
 layout: transcript
 topics:
-    - "coffee-stainers/snutt"
+    - "coffee-stainers/snutt/eat-shit-chat"
     - "community"
     - "community/community-highlights"
     - "community/j1mbers"
@@ -14,7 +14,7 @@ topics:
 https://www.youtube.com/watch?v=MSM3dfaO4KY
 
 ### Topics
-* [Coffee Stainers > Snutt](../topics/coffee-stainers/snutt.md)
+* [Coffee Stainers > Snutt > Eat shit, chat!](../topics/coffee-stainers/snutt/eat-shit-chat.md)
 * [Community](../topics/community.md)
 * [Community > Community Highlights](../topics/community/community-highlights.md)
 * [Community > J1mbers](../topics/community/j1mbers.md)

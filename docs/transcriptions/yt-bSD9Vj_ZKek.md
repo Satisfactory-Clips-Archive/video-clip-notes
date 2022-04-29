@@ -9,7 +9,7 @@ topics:
 # [June 1st, 2021 Livestream](../2021-06-01.md)
 ## Q&A: Working HUB Toilet?
 https://www.youtube.com/watch?v=bSD9Vj_ZKek
-This question was possibly duplicated with a more recent answer: [February 15th, 2022 Livestream Q&A: Give us the Toilet Flush DLC?](./yt-sLVx5EgfSTs.md) [https://www.youtube.com/watch?v=sLVx5EgfSTs](https://www.youtube.com/watch?v=sLVx5EgfSTs)
+This question was possibly duplicated with a more recent answer: [April 26th, 2022 Livestream Q&A: Toilet DLC, when?](./yt-ceIkXx7rE7Y.md) [https://www.youtube.com/watch?v=ceIkXx7rE7Y](https://www.youtube.com/watch?v=ceIkXx7rE7Y)
 
 
 ### Topics

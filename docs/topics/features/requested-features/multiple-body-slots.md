@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Requested Features](../../../topics/features/requested-features.md) > Multiple Body Slots
 
+## April 26th, 2022 Livestream
+* [State of Dave](../../../transcriptions/yt-komFyjm03kg.md) [https://www.youtube.com/watch?v=komFyjm03kg](https://www.youtube.com/watch?v=komFyjm03kg)
+
 ## April 22nd, 2022 Video
 * Snutt Talk: Multiple Body Slots [https://youtube.com/clip/UgkxAzgQbaNV-HcVhJlhXZCdUr926wfVXPFx](https://youtube.com/clip/UgkxAzgQbaNV-HcVhJlhXZCdUr926wfVXPFx)
 

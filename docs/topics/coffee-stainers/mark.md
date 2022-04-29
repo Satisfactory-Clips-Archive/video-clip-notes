@@ -5,6 +5,13 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Mark
 
+## April 26th, 2022 Livestream
+* [Mark joins the fight](../../transcriptions/yt-iw0CLqzO_vA.md) [https://www.youtube.com/watch?v=iw0CLqzO_vA](https://www.youtube.com/watch?v=iw0CLqzO_vA)
+* [Q&A: Does Mark play Final Fantasy?](../../transcriptions/yt-3h54CxHMJrQ.md) [https://www.youtube.com/watch?v=3h54CxHMJrQ](https://www.youtube.com/watch?v=3h54CxHMJrQ)
+* [Q&A: Does Mark play Satisfactory?](../../transcriptions/yt-kZhotIy0l4k.md) [https://www.youtube.com/watch?v=kZhotIy0l4k](https://www.youtube.com/watch?v=kZhotIy0l4k)
+* [Q&A: Was Mark the Game Director from the beginning?](../../transcriptions/yt-VVMNv0PCcIA.md) [https://www.youtube.com/watch?v=VVMNv0PCcIA](https://www.youtube.com/watch?v=VVMNv0PCcIA)
+* [Q&A: Can we see The Spreadsheet?](../../transcriptions/yt-ND_3mG1Bn_Y.md) [https://www.youtube.com/watch?v=ND_3mG1Bn_Y](https://www.youtube.com/watch?v=ND_3mG1Bn_Y)
+
 ## November 30th, 2021 Livestream
 * [Community FYI: Mark for Community Manager](../../transcriptions/yt-1NL4q6EZpq8.md) [https://www.youtube.com/watch?v=1NL4q6EZpq8](https://www.youtube.com/watch?v=1NL4q6EZpq8)
 

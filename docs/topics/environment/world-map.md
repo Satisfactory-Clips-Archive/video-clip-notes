@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Environment](../../topics/environment.md) > World Map
 
+## April 26th, 2022 Livestream
+* [State of Dave](../../transcriptions/yt-komFyjm03kg.md) [https://www.youtube.com/watch?v=komFyjm03kg](https://www.youtube.com/watch?v=komFyjm03kg)
+
 ## April 22nd, 2022 Video
 * Snutt Talk: Improving how you interact with the in-game Map [https://youtube.com/clip/UgkxjgGDGLb2r1FQWI7UsbIYD7hb4MlWQgkx](https://youtube.com/clip/UgkxjgGDGLb2r1FQWI7UsbIYD7hb4MlWQgkx)
 * Snutt Talk: Radar Tower improvements [https://youtube.com/embed/hkMTFsxa7rQ?autoplay=1&start=446&end=450](https://youtube.com/embed/hkMTFsxa7rQ?autoplay=1&start=446&end=450)

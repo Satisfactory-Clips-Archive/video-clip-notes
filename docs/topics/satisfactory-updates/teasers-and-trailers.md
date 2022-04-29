@@ -15,6 +15,9 @@ date: Last Modified
 * [Update 5 Teasers](../../topics/satisfactory-updates/teasers-and-trailers/update-5-teasers.md)
 * [Update 6 Teasers](../../topics/satisfactory-updates/teasers-and-trailers/update-6-teasers.md)
 
+## April 26th, 2022 Livestream
+* [Q&A: Can we get proper captions made for video releases?](../../transcriptions/yt-5HEtHNP-Xl0.md) [https://www.youtube.com/watch?v=5HEtHNP-Xl0](https://www.youtube.com/watch?v=5HEtHNP-Xl0)
+
 ## April 19th, 2022 Livestream
 * [Q&A: The builds that you use for Update Trailers, do you keep the build files?](../../transcriptions/yt-9VZay2Q1f2o.md) [https://www.youtube.com/watch?v=9VZay2Q1f2o](https://www.youtube.com/watch?v=9VZay2Q1f2o)
 * [Snutt & Jace Talk: Friday Update news video](../../transcriptions/yt-uhkG6WNaJ48.md) [https://www.youtube.com/watch?v=uhkG6WNaJ48](https://www.youtube.com/watch?v=uhkG6WNaJ48)

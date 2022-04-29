@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Creatures](../../../topics/environment/creatures.md) > Crab Boss
 
+## April 26th, 2022 Livestream
+* [State of Dave](../../../transcriptions/yt-komFyjm03kg.md) [https://www.youtube.com/watch?v=komFyjm03kg](https://www.youtube.com/watch?v=komFyjm03kg)
+
 ## April 22nd, 2022 Video
 * Snutt Talk: Let's talk about the Creatures [https://youtube.com/clip/UgkxnqN_5oHQQhpT8psM84QkLe9O4hWqCeHL](https://youtube.com/clip/UgkxnqN_5oHQQhpT8psM84QkLe9O4hWqCeHL)
 

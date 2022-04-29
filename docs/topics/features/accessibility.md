@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../topics.md) > [Features](../../topics/features.md) > Accessibility
 * [Arachnophobia Mode](../../topics/features/accessibility/arachnophobia-mode.md)
 
+## April 26th, 2022 Livestream
+* [Q&A: Can we get proper captions made for video releases?](../../transcriptions/yt-5HEtHNP-Xl0.md) [https://www.youtube.com/watch?v=5HEtHNP-Xl0](https://www.youtube.com/watch?v=5HEtHNP-Xl0)
+
 ## February 11th, 2022 Hot Potato Bonus Stream
 * [Q&A: What if you're both Arachnophobic and Ailurophobic?](../../transcriptions/yt-he-m1c2zsTI.md) [https://www.youtube.com/watch?v=he-m1c2zsTI](https://www.youtube.com/watch?v=he-m1c2zsTI)
 

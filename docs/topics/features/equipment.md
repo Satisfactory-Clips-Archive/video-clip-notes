@@ -20,6 +20,10 @@ date: Last Modified
 * [Xeno-Zapper](../../topics/features/equipment/xeno-zapper.md)
 * [Zip Lines](../../topics/features/equipment/zip-lines.md)
 
+## April 26th, 2022 Livestream
+* [State of Dave](../../transcriptions/yt-komFyjm03kg.md) [https://www.youtube.com/watch?v=komFyjm03kg](https://www.youtube.com/watch?v=komFyjm03kg)
+* [Q&A: Will you add Inhaler Recipes to machines to automate them?](../../transcriptions/yt-o6_OpiSg-pQ.md) [https://www.youtube.com/watch?v=o6_OpiSg-pQ](https://www.youtube.com/watch?v=o6_OpiSg-pQ)
+
 ## April 22nd, 2022 Video
 * Snutt Talk: Adding new mechanics to some of the weapons [https://youtube.com/clip/UgkxN_3aTg7DCJEB3arWmUZFzQPhM0Jo5vR4](https://youtube.com/clip/UgkxN_3aTg7DCJEB3arWmUZFzQPhM0Jo5vR4)
 * Snutt Talk: Multiple Body Slots [https://youtube.com/clip/UgkxAzgQbaNV-HcVhJlhXZCdUr926wfVXPFx](https://youtube.com/clip/UgkxAzgQbaNV-HcVhJlhXZCdUr926wfVXPFx)

@@ -5,6 +5,13 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > [Crafting](../../../../topics/features/crafting.md) > [Recipes](../../../../topics/features/crafting/recipes.md) > Alternate Recipes
 
+## April 26th, 2022 Livestream
+* [Q&A: Can Crash Sites fall as we're playing?](../../../../transcriptions/yt-AQxtLD0pdpk.md) [https://www.youtube.com/watch?v=AQxtLD0pdpk](https://www.youtube.com/watch?v=AQxtLD0pdpk)
+* [Community FYI: Imagine a ship wreck falling on your factory and destroys everything](../../../../transcriptions/yt-2_pnQp9mNbs.md) [https://www.youtube.com/watch?v=2_pnQp9mNbs](https://www.youtube.com/watch?v=2_pnQp9mNbs)
+* [Q&A: Can we destroy completed Crash Sites?](../../../../transcriptions/yt-MB3Pw2p5kmk.md) [https://www.youtube.com/watch?v=MB3Pw2p5kmk](https://www.youtube.com/watch?v=MB3Pw2p5kmk)
+* [Q&A: Can we see The Spreadsheet?](../../../../transcriptions/yt-ND_3mG1Bn_Y.md) [https://www.youtube.com/watch?v=ND_3mG1Bn_Y](https://www.youtube.com/watch?v=ND_3mG1Bn_Y)
+* [Q&A: Will you add Inhaler Recipes to machines to automate them?](../../../../transcriptions/yt-o6_OpiSg-pQ.md) [https://www.youtube.com/watch?v=o6_OpiSg-pQ](https://www.youtube.com/watch?v=o6_OpiSg-pQ)
+
 ## April 12th, 2022 Livestream
 * [Q&A: Tier 8 Recipe to fully automate Power Shard production without the need for Power Slugs?](../../../../transcriptions/yt-cp9grrUNHAw.md) [https://www.youtube.com/watch?v=cp9grrUNHAw](https://www.youtube.com/watch?v=cp9grrUNHAw)
 

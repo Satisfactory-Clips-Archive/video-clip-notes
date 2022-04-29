@@ -3,7 +3,7 @@ title: "April 19th, 2022 Livestream Snutt & Jace Talk: \"Eat shit, chat!\""
 date: "2022-04-19"
 layout: transcript
 topics:
-    - "coffee-stainers/snutt"
+    - "coffee-stainers/snutt/eat-shit-chat"
     - "community"
     - "community/community-highlights"
     - "off-topic/portal"
@@ -13,7 +13,7 @@ topics:
 https://www.youtube.com/watch?v=pzSh8VJWwwY
 
 ### Topics
-* [Coffee Stainers > Snutt](../topics/coffee-stainers/snutt.md)
+* [Coffee Stainers > Snutt > Eat shit, chat!](../topics/coffee-stainers/snutt/eat-shit-chat.md)
 * [Community](../topics/community.md)
 * [Community > Community Highlights](../topics/community/community-highlights.md)
 * [Off-Topic > Portal](../topics/off-topic/portal.md)

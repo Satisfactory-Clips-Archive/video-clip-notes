@@ -8,6 +8,9 @@ date: Last Modified
 * [Skövde](../../topics/off-topic/sweden/skovde.md)
 * [Stockholm](../../topics/off-topic/sweden/stockholm.md)
 
+## April 26th, 2022 Livestream
+* [Mark joins the fight](../../transcriptions/yt-iw0CLqzO_vA.md) [https://www.youtube.com/watch?v=iw0CLqzO_vA](https://www.youtube.com/watch?v=iw0CLqzO_vA)
+
 ## March 22nd, 2022 Livestream
 * [Snutt & Jace Talk: Sweden, Australia, and Final Fantasy](../../transcriptions/yt-nB5WPdA8EPs.md) [https://www.youtube.com/watch?v=nB5WPdA8EPs](https://www.youtube.com/watch?v=nB5WPdA8EPs)
 

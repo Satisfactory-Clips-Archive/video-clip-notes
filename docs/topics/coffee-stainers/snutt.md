@@ -4,15 +4,17 @@ external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEoAqIqsBIdN_uoV-
 date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Snutt
+* [Eat shit, chat!](../../topics/coffee-stainers/snutt/eat-shit-chat.md)
 * [Snutt Burger Time](../../topics/coffee-stainers/snutt/snutt-burger-time.md)
 * [Snutty Mays](../../topics/coffee-stainers/snutt/snutty-mays.md)
+
+## April 26th, 2022 Livestream
+* [Mark joins the fight](../../transcriptions/yt-iw0CLqzO_vA.md) [https://www.youtube.com/watch?v=iw0CLqzO_vA](https://www.youtube.com/watch?v=iw0CLqzO_vA)
 
 ## April 22nd, 2022 Video
 * End Tag [https://youtube.com/embed/hkMTFsxa7rQ?autoplay=1&start=768](https://youtube.com/embed/hkMTFsxa7rQ?autoplay=1&start=768)
 
 ## April 21st, 2022 Satisfactory x Portal Bonus Stream
-* [Jace Talk: Snutt's new catchphrase](../../transcriptions/yt-MSM3dfaO4KY.md) [https://www.youtube.com/watch?v=MSM3dfaO4KY](https://www.youtube.com/watch?v=MSM3dfaO4KY)
-* [Jace Talk: Eat shit, chat!](../../transcriptions/yt-FUx5ctjvHJE.md) [https://www.youtube.com/watch?v=FUx5ctjvHJE](https://www.youtube.com/watch?v=FUx5ctjvHJE)
 * [Community FYI: I can't believe you put your reputation in Snutt's hands like that](../../transcriptions/yt-P5FtouvYxPE.md) [https://www.youtube.com/watch?v=P5FtouvYxPE](https://www.youtube.com/watch?v=P5FtouvYxPE)
 * [Community FYI: I honestly didn't notice it was Jace Bot until an hour of you](../../transcriptions/yt-Jg3fVuC4Sbk.md) [https://www.youtube.com/watch?v=Jg3fVuC4Sbk](https://www.youtube.com/watch?v=Jg3fVuC4Sbk)
 
@@ -20,7 +22,6 @@ date: Last Modified
 * [Q&A: Any chance of an off-duty stream with the two of you playing actual Portal 2 co-op?](../../transcriptions/yt-KhjCtb3t7wI.md) [https://www.youtube.com/watch?v=KhjCtb3t7wI](https://www.youtube.com/watch?v=KhjCtb3t7wI)
 * [Community FYI: There's a co-op achievement for dunking your partner in the pools of toxic goop](../../transcriptions/yt-EVORRjnmH-8.md) [https://www.youtube.com/watch?v=EVORRjnmH-8](https://www.youtube.com/watch?v=EVORRjnmH-8)
 * [Community FYI: Seems like Windows' old screensaver](../../transcriptions/yt-uj-FnLbnS5Q.md) [https://www.youtube.com/watch?v=uj-FnLbnS5Q](https://www.youtube.com/watch?v=uj-FnLbnS5Q)
-* [Snutt & Jace Talk: "Eat shit, chat!"](../../transcriptions/yt-pzSh8VJWwwY.md) [https://www.youtube.com/watch?v=pzSh8VJWwwY](https://www.youtube.com/watch?v=pzSh8VJWwwY)
 * [Q&A: Where were you born, Snutt & Jace?](../../transcriptions/yt-BUZ4evkepcs.md) [https://www.youtube.com/watch?v=BUZ4evkepcs](https://www.youtube.com/watch?v=BUZ4evkepcs)
 * [Q&A: How did you guys make the transition from programmer to Community Manager?](../../transcriptions/yt-qmzmDWp9oa8.md) [https://www.youtube.com/watch?v=qmzmDWp9oa8](https://www.youtube.com/watch?v=qmzmDWp9oa8)
 * [Community FYI: You become CM if you're too bad at programming](../../transcriptions/yt-EGWfNWFfR0Q.md) [https://www.youtube.com/watch?v=EGWfNWFfR0Q](https://www.youtube.com/watch?v=EGWfNWFfR0Q)
