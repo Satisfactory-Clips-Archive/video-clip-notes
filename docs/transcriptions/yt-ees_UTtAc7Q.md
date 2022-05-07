@@ -1,12 +1,12 @@
 ---
-title: "May 6th, 2022 Livestream Q&A: Can we finally have two body slots?"
-date: "2022-05-06"
+title: "May 3rd, 2022 Livestream Q&A: Can we finally have two body slots?"
+date: "2022-05-03"
 layout: transcript
 topics:
     - "features/requested-features/multiple-body-slots"
     - "satisfactory-updates/pending/satisfactory-update-6"
 ---
-# [May 6th, 2022 Livestream](../2022-05-06.md)
+# [May 3rd, 2022 Livestream](../2022-05-03.md)
 ## Q&A: Can we finally have two body slots?
 https://www.youtube.com/watch?v=ees_UTtAc7Q
 

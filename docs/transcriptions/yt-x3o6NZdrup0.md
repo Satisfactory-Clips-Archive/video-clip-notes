@@ -1,12 +1,12 @@
 ---
-title: "May 6th, 2022 Livestream Q&A: State of Lego?"
-date: "2022-05-06"
+title: "May 3rd, 2022 Livestream Q&A: State of Lego?"
+date: "2022-05-03"
 layout: transcript
 topics:
     - "community"
     - "merch"
 ---
-# [May 6th, 2022 Livestream](../2022-05-06.md)
+# [May 3rd, 2022 Livestream](../2022-05-03.md)
 ## Q&A: State of Lego?
 https://www.youtube.com/watch?v=x3o6NZdrup0
 

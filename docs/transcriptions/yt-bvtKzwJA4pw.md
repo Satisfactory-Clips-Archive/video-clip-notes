@@ -9,7 +9,7 @@ topics:
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: Will Hyper Tube cannons be patched out eventually & officially supported as a feature?
 https://www.youtube.com/watch?v=bvtKzwJA4pw
-This question was possibly duplicated with a more recent answer: [May 6th, 2022 Livestream Q&A: Are you making any changes that might impact the Hyper Tube cannons?](./yt-itcpnj8i8EA.md) [https://www.youtube.com/watch?v=itcpnj8i8EA](https://www.youtube.com/watch?v=itcpnj8i8EA)
+This question was possibly duplicated with a more recent answer: [May 3rd, 2022 Livestream Q&A: Are you making any changes that might impact the Hyper Tube cannons?](./yt-itcpnj8i8EA.md) [https://www.youtube.com/watch?v=itcpnj8i8EA](https://www.youtube.com/watch?v=itcpnj8i8EA)
 
 
 ### Topics

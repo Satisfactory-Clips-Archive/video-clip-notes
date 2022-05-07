@@ -1,12 +1,12 @@
 ---
-title: "May 6th, 2022 Livestream Q&A: Can we get super-smart Programmable Splitters?"
-date: "2022-05-06"
+title: "May 3rd, 2022 Livestream Q&A: Can we get super-smart Programmable Splitters?"
+date: "2022-05-03"
 layout: transcript
 topics:
     - "features/buildables/conveyor-belts"
     - "features/requested-features"
 ---
-# [May 6th, 2022 Livestream](../2022-05-06.md)
+# [May 3rd, 2022 Livestream](../2022-05-03.md)
 ## Q&A: Can we get super-smart Programmable Splitters?
 https://www.youtube.com/watch?v=TBhZw7wHJp0
 

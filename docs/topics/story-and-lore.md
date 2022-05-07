@@ -7,7 +7,7 @@ date: Last Modified
 * [Characters](../topics/story-and-lore/characters.md)
 * [Project Assembly](../topics/story-and-lore/project-assembly.md)
 
-## May 6th, 2022 Livestream
+## May 3rd, 2022 Livestream
 * [Q&A: Any additional Lore coming in Update 6?](../transcriptions/yt-ialtYucCJvc.md) [https://www.youtube.com/watch?v=ialtYucCJvc](https://www.youtube.com/watch?v=ialtYucCJvc)
 
 ## March 22nd, 2022 Livestream

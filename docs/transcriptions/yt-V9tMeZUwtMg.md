@@ -1,6 +1,6 @@
 ---
-title: "May 6th, 2022 Livestream Q&A: Are the Oil patches still in the Spire Coast?"
-date: "2022-05-06"
+title: "May 3rd, 2022 Livestream Q&A: Are the Oil patches still in the Spire Coast?"
+date: "2022-05-03"
 layout: transcript
 topics:
     - "environment/biomes/spire-coast"
@@ -8,7 +8,7 @@ topics:
     - "satisfactory-updates/pending/satisfactory-update-6"
     - "satisfactory-updates/world-update"
 ---
-# [May 6th, 2022 Livestream](../2022-05-06.md)
+# [May 3rd, 2022 Livestream](../2022-05-03.md)
 ## Q&A: Are the Oil patches still in the Spire Coast?
 https://www.youtube.com/watch?v=V9tMeZUwtMg
 

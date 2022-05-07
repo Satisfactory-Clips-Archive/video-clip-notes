@@ -5,7 +5,7 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > State of Dev
 
-## May 6th, 2022 Livestream
+## May 3rd, 2022 Livestream
 * [State of Dev](../../transcriptions/yt-HBdLi32e74Q.md) [https://www.youtube.com/watch?v=HBdLi32e74Q](https://www.youtube.com/watch?v=HBdLi32e74Q)
 * [Update 6: Spire Coast Teaser](../../transcriptions/yt-SVZCcGdt1eI.md) [https://www.youtube.com/watch?v=SVZCcGdt1eI](https://www.youtube.com/watch?v=SVZCcGdt1eI)
 * [Update 6: Future Updates & Linear Overclocking change](../../transcriptions/yt-1kq0M7R-E_c.md) [https://www.youtube.com/watch?v=1kq0M7R-E_c](https://www.youtube.com/watch?v=1kq0M7R-E_c)

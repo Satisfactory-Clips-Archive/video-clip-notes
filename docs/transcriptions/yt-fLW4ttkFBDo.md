@@ -1,11 +1,11 @@
 ---
-title: "May 6th, 2022 Livestream Q&A: Have you got a vacation planned?"
-date: "2022-05-06"
+title: "May 3rd, 2022 Livestream Q&A: Have you got a vacation planned?"
+date: "2022-05-03"
 layout: transcript
 topics:
     - "coffee-stainers/snutt"
 ---
-# [May 6th, 2022 Livestream](../2022-05-06.md)
+# [May 3rd, 2022 Livestream](../2022-05-03.md)
 ## Q&A: Have you got a vacation planned?
 https://www.youtube.com/watch?v=fLW4ttkFBDo
 

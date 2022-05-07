@@ -5,7 +5,7 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > Transportation > [Vehicles](../../../../topics/features/transportation/vehicles.md) > Drones
 
-## May 6th, 2022 Livestream
+## May 3rd, 2022 Livestream
 * [Q&A: Any Updates for Drone Ports?](../../../../transcriptions/yt-3Snbc6nEMNI.md) [https://www.youtube.com/watch?v=3Snbc6nEMNI](https://www.youtube.com/watch?v=3Snbc6nEMNI)
 * [Q&A: A lasso to ride the Drones?](../../../../transcriptions/yt-HgCSlfqot3U.md) [https://www.youtube.com/watch?v=HgCSlfqot3U](https://www.youtube.com/watch?v=HgCSlfqot3U)
 

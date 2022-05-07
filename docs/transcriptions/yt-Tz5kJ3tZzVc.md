@@ -1,12 +1,12 @@
 ---
-title: "May 6th, 2022 Livestream Q&A: Where can we actually vote against/for Overclock rework?"
-date: "2022-05-06"
+title: "May 3rd, 2022 Livestream Q&A: Where can we actually vote against/for Overclock rework?"
+date: "2022-05-03"
 layout: transcript
 topics:
     - "features/buildings/overclocking-and-underclocking"
     - "satisfactory-updates/pending/satisfactory-update-6"
 ---
-# [May 6th, 2022 Livestream](../2022-05-06.md)
+# [May 3rd, 2022 Livestream](../2022-05-03.md)
 ## Q&A: Where can we actually vote against/for Overclock rework?
 https://www.youtube.com/watch?v=Tz5kJ3tZzVc
 

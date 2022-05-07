@@ -1,12 +1,12 @@
 ---
-title: "May 6th, 2022 Livestream Q&A: Do you have plans to develop the game for Console?"
-date: "2022-05-06"
+title: "May 3rd, 2022 Livestream Q&A: Do you have plans to develop the game for Console?"
+date: "2022-05-03"
 layout: transcript
 topics:
     - "features/possible-features/console-release"
     - "features/requested-features"
 ---
-# [May 6th, 2022 Livestream](../2022-05-06.md)
+# [May 3rd, 2022 Livestream](../2022-05-03.md)
 ## Q&A: Do you have plans to develop the game for Console?
 https://www.youtube.com/watch?v=eQn0OjZHj_w
 <details>

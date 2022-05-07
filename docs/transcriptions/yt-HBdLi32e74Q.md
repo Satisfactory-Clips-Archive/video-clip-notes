@@ -1,6 +1,6 @@
 ---
-title: "May 6th, 2022 Livestream State of Dev"
-date: "2022-05-06"
+title: "May 3rd, 2022 Livestream State of Dev"
+date: "2022-05-03"
 layout: transcript
 topics:
     - "environment/resources"
@@ -17,7 +17,7 @@ topics:
     - "satisfactory-updates/state-of-dev"
     - "technology/unreal-engine"
 ---
-# [May 6th, 2022 Livestream](../2022-05-06.md)
+# [May 3rd, 2022 Livestream](../2022-05-03.md)
 ## State of Dev
 https://www.youtube.com/watch?v=HBdLi32e74Q
 

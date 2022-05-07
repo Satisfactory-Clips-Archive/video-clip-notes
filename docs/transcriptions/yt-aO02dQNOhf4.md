@@ -1,12 +1,12 @@
 ---
-title: "May 6th, 2022 Livestream Q&A: Big 1.0 Update? The bugs kind of defeat the point of moving out of Early Access?"
-date: "2022-05-06"
+title: "May 3rd, 2022 Livestream Q&A: Big 1.0 Update? The bugs kind of defeat the point of moving out of Early Access?"
+date: "2022-05-03"
 layout: transcript
 topics:
     - "retail/early-access"
     - "satisfactory-updates/pending/satisfactory-1-0"
 ---
-# [May 6th, 2022 Livestream](../2022-05-06.md)
+# [May 3rd, 2022 Livestream](../2022-05-03.md)
 ## Q&A: Big 1.0 Update? The bugs kind of defeat the point of moving out of Early Access?
 https://www.youtube.com/watch?v=aO02dQNOhf4
 

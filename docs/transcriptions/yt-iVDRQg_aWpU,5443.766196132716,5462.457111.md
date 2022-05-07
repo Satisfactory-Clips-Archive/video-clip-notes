@@ -8,7 +8,7 @@ topics:
 # [November 23rd, 2021 Livestream](../2021-11-23.md)
 ## Q&A: Are you planning controller support?
 https://youtube.com/clip/Ugkx_m7MeOzn0RdknMehAUOG5Qlu03WVK6DP
-This question was possibly duplicated with a more recent answer: [May 6th, 2022 Livestream Q&A: Controller support news?](./yt-S-jHgE-Tv2U.md) [https://www.youtube.com/watch?v=S-jHgE-Tv2U](https://www.youtube.com/watch?v=S-jHgE-Tv2U)
+This question was possibly duplicated with a more recent answer: [May 3rd, 2022 Livestream Q&A: Controller support news?](./yt-S-jHgE-Tv2U.md) [https://www.youtube.com/watch?v=S-jHgE-Tv2U](https://www.youtube.com/watch?v=S-jHgE-Tv2U)
 
 
 ### Topics

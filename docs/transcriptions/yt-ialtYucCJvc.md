@@ -1,13 +1,13 @@
 ---
-title: "May 6th, 2022 Livestream Q&A: Any additional Lore coming in Update 6?"
-date: "2022-05-06"
+title: "May 3rd, 2022 Livestream Q&A: Any additional Lore coming in Update 6?"
+date: "2022-05-03"
 layout: transcript
 topics:
     - "satisfactory-updates/pending/satisfactory-update-6"
     - "satisfactory-updates/teasers-and-trailers/update-6-teasers"
     - "story-and-lore"
 ---
-# [May 6th, 2022 Livestream](../2022-05-06.md)
+# [May 3rd, 2022 Livestream](../2022-05-03.md)
 ## Q&A: Any additional Lore coming in Update 6?
 https://www.youtube.com/watch?v=ialtYucCJvc
 

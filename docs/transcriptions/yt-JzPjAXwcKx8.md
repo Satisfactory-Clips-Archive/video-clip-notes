@@ -8,7 +8,7 @@ topics:
 # [December 7th, 2021 Livestream](../2021-12-07.md)
 ## Q&A: Weapon item holstering coming soon?
 https://www.youtube.com/watch?v=JzPjAXwcKx8
-This question was possibly duplicated with a more recent answer: [May 6th, 2022 Livestream Q&A: Can we get an empty hand slot so we don't have to unequip something every time?](./yt-t4iLd8jEqQ4.md) [https://www.youtube.com/watch?v=t4iLd8jEqQ4](https://www.youtube.com/watch?v=t4iLd8jEqQ4)
+This question was possibly duplicated with a more recent answer: [May 3rd, 2022 Livestream Q&A: Can we get an empty hand slot so we don't have to unequip something every time?](./yt-t4iLd8jEqQ4.md) [https://www.youtube.com/watch?v=t4iLd8jEqQ4](https://www.youtube.com/watch?v=t4iLd8jEqQ4)
 
 
 ### Topics

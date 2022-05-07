@@ -1,13 +1,13 @@
 ---
-title: "May 6th, 2022 Livestream Q&A: Will the Nodes in the World be aligned to the World Grid?"
-date: "2022-05-06"
+title: "May 3rd, 2022 Livestream Q&A: Will the Nodes in the World be aligned to the World Grid?"
+date: "2022-05-03"
 layout: transcript
 topics:
     - "environment/resources"
     - "features/global-build-grid"
     - "features/requested-features"
 ---
-# [May 6th, 2022 Livestream](../2022-05-06.md)
+# [May 3rd, 2022 Livestream](../2022-05-03.md)
 ## Q&A: Will the Nodes in the World be aligned to the World Grid?
 https://www.youtube.com/watch?v=fWqKfAnHUc4
 

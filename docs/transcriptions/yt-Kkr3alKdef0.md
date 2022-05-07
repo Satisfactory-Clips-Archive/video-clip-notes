@@ -8,7 +8,7 @@ topics:
 # [August 10th, 2021 Livestream](../2021-08-10.md)
 ## Q&A: Boats?
 https://www.youtube.com/watch?v=Kkr3alKdef0
-This question was possibly duplicated with a more recent answer: [May 6th, 2022 Livestream Q&A: Any chance for automatable Boats?](./yt-p36Hn2DZzSU.md) [https://www.youtube.com/watch?v=p36Hn2DZzSU](https://www.youtube.com/watch?v=p36Hn2DZzSU)
+This question was possibly duplicated with a more recent answer: [May 3rd, 2022 Livestream Q&A: Any chance for automatable Boats?](./yt-p36Hn2DZzSU.md) [https://www.youtube.com/watch?v=p36Hn2DZzSU](https://www.youtube.com/watch?v=p36Hn2DZzSU)
 
 
 ### Topics

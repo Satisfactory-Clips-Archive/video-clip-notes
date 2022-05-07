@@ -5,7 +5,7 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildables](../../../topics/features/buildables.md) > Lights
 
-## May 6th, 2022 Livestream
+## May 3rd, 2022 Livestream
 * [Q&A: Where's the lighting on the Trains?](../../../transcriptions/yt-i7oydn5GaBk.md) [https://www.youtube.com/watch?v=i7oydn5GaBk](https://www.youtube.com/watch?v=i7oydn5GaBk)
 * [Q&A: Any progress optimising Lights?](../../../transcriptions/yt-c8C8vBJOMno.md) [https://www.youtube.com/watch?v=c8C8vBJOMno](https://www.youtube.com/watch?v=c8C8vBJOMno)
 * [Community FYI: Make a save game with 10 thousand Lights & send it to Coffee Stain for profiling](../../../transcriptions/yt-57iR_NWN66g.md) [https://www.youtube.com/watch?v=57iR_NWN66g](https://www.youtube.com/watch?v=57iR_NWN66g)

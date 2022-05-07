@@ -1,6 +1,6 @@
 ---
-title: "May 6th, 2022 Livestream Update 6: Future Updates & Linear Overclocking change"
-date: "2022-05-06"
+title: "May 3rd, 2022 Livestream Update 6: Future Updates & Linear Overclocking change"
+date: "2022-05-03"
 layout: transcript
 topics:
     - "features/buildings/overclocking-and-underclocking"
@@ -9,7 +9,7 @@ topics:
     - "satisfactory-updates/pending/satisfactory-update-6"
     - "satisfactory-updates/state-of-dev"
 ---
-# [May 6th, 2022 Livestream](../2022-05-06.md)
+# [May 3rd, 2022 Livestream](../2022-05-03.md)
 ## Update 6: Future Updates & Linear Overclocking change
 https://www.youtube.com/watch?v=1kq0M7R-E_c
 

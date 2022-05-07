@@ -6,7 +6,7 @@ date: Last Modified
 # [Topics](../../topics.md) > [Retail](../../topics/retail.md) > Steam Store
 * [Steam Release](../../topics/retail/steam-store/steam-release.md)
 
-## May 6th, 2022 Livestream
+## May 3rd, 2022 Livestream
 * [Community FYI: Game runs well on Steam Deck](../../transcriptions/yt-1EVBrWXbZ74.md) [https://www.youtube.com/watch?v=1EVBrWXbZ74](https://www.youtube.com/watch?v=1EVBrWXbZ74)
 
 ## April 8th, 2022 Video

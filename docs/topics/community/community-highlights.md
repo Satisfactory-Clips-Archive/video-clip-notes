@@ -5,7 +5,7 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Community Highlights
 
-## May 6th, 2022 Livestream
+## May 3rd, 2022 Livestream
 * [Snutt Talk: Spire Coast pillars](../../transcriptions/yt-e6LI3qSkWdQ.md) [https://www.youtube.com/watch?v=e6LI3qSkWdQ](https://www.youtube.com/watch?v=e6LI3qSkWdQ)
 
 ## April 21st, 2022 Satisfactory x Portal Bonus Stream

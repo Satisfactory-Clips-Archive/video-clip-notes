@@ -5,7 +5,7 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Resources](../../../topics/environment/resources.md) > Oil
 
-## May 6th, 2022 Livestream
+## May 3rd, 2022 Livestream
 * [Update 6: Spire Coast Teaser](../../../transcriptions/yt-SVZCcGdt1eI.md) [https://www.youtube.com/watch?v=SVZCcGdt1eI](https://www.youtube.com/watch?v=SVZCcGdt1eI)
 * [Q&A: Are the Oil patches still in the Spire Coast?](../../../transcriptions/yt-V9tMeZUwtMg.md) [https://www.youtube.com/watch?v=V9tMeZUwtMg](https://www.youtube.com/watch?v=V9tMeZUwtMg)
 

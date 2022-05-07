@@ -8,7 +8,7 @@ topics:
 # [April 12th, 2022 Livestream](../2022-04-12.md)
 ## Q&A: Do you already have plans to go to XBox/PS5?
 https://www.youtube.com/watch?v=xM0G0PWaCnc
-This question was possibly duplicated with a more recent answer: [May 6th, 2022 Livestream Q&A: Do you have plans to develop the game for Console?](./yt-eQn0OjZHj_w.md) [https://www.youtube.com/watch?v=eQn0OjZHj_w](https://www.youtube.com/watch?v=eQn0OjZHj_w)
+This question was possibly duplicated with a more recent answer: [May 3rd, 2022 Livestream Q&A: Do you have plans to develop the game for Console?](./yt-eQn0OjZHj_w.md) [https://www.youtube.com/watch?v=eQn0OjZHj_w](https://www.youtube.com/watch?v=eQn0OjZHj_w)
 
 
 ### Topics

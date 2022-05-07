@@ -5,16 +5,6 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > World Update
 
-## May 6th, 2022 Livestream
-* [Update 6: Spire Coast Teaser](../../transcriptions/yt-SVZCcGdt1eI.md) [https://www.youtube.com/watch?v=SVZCcGdt1eI](https://www.youtube.com/watch?v=SVZCcGdt1eI)
-* [Snutt Talk: Spire Coast pillars](../../transcriptions/yt-e6LI3qSkWdQ.md) [https://www.youtube.com/watch?v=e6LI3qSkWdQ](https://www.youtube.com/watch?v=e6LI3qSkWdQ)
-* [Q&A: Are the Oil patches still in the Spire Coast?](../../transcriptions/yt-V9tMeZUwtMg.md) [https://www.youtube.com/watch?v=V9tMeZUwtMg](https://www.youtube.com/watch?v=V9tMeZUwtMg)
-* [Q&A: Will there be a Video this week?](../../transcriptions/yt-iNRuA1fm3vk.md) [https://www.youtube.com/watch?v=iNRuA1fm3vk](https://www.youtube.com/watch?v=iNRuA1fm3vk)
-* [Q&A: Was the water hole fixed in the Spire Coast where you can drop to your death in the water?](../../transcriptions/yt-6t2kbzZlnJc.md) [https://www.youtube.com/watch?v=6t2kbzZlnJc](https://www.youtube.com/watch?v=6t2kbzZlnJc)
-* [Q&A: Update 5 had a lot of changes to Caves, right?](../../transcriptions/yt-ubjbMObuhwE.md) [https://www.youtube.com/watch?v=ubjbMObuhwE](https://www.youtube.com/watch?v=ubjbMObuhwE)
-* [Q&A: Will there be any changes to drop pods & Hard Drives in Update 6?](../../transcriptions/yt-JbGdSC0uqg0.md) [https://www.youtube.com/watch?v=JbGdSC0uqg0](https://www.youtube.com/watch?v=JbGdSC0uqg0)
-* [Q&A: Will the Update to Spire Coast also update the Desert mesa area?](../../transcriptions/yt-3fvCJNbYSEw.md) [https://www.youtube.com/watch?v=3fvCJNbYSEw](https://www.youtube.com/watch?v=3fvCJNbYSEw)
-
 ## May 6th, 2022 Video
 * [Don't worry, I'll wait](../../transcriptions/yt-8BxYvOLpjGo,8.742066666666666,44.91658.md) [https://youtube.com/clip/Ugkxm0GHwDrUkr8waf0XMZztjN9uLBP3_1BT](https://youtube.com/clip/Ugkxm0GHwDrUkr8waf0XMZztjN9uLBP3_1BT)
 * [Update 5 World Update Roadmap](../../transcriptions/yt-8BxYvOLpjGo,44.944900000000004,73.8738.md) [https://youtube.com/clip/UgkxnQl9-7XQBU0ua5umK2YbhKN4IoJR8rkL](https://youtube.com/clip/UgkxnQl9-7XQBU0ua5umK2YbhKN4IoJR8rkL)
@@ -28,6 +18,16 @@ date: Last Modified
 * [Spire Coast / Dune Desert](../../transcriptions/yt-8BxYvOLpjGo,259.5593,303.73676666666665.md) [https://youtube.com/clip/Ugkx1wu-M3Fl_kL0rcDFP6hG85Ya4b-zTGCA](https://youtube.com/clip/Ugkx1wu-M3Fl_kL0rcDFP6hG85Ya4b-zTGCA)
 * [Spire Coast / Great Canyon](../../transcriptions/yt-8BxYvOLpjGo,303.7701333333333,357.6573.md) [https://youtube.com/clip/UgkxxFK54aDemZYVT699C6V_ej6WUQmpINaR](https://youtube.com/clip/UgkxxFK54aDemZYVT699C6V_ej6WUQmpINaR)
 * [Desert Canyons](../../transcriptions/yt-8BxYvOLpjGo,357.6906666666667,370.70366666666666.md) [https://youtube.com/clip/UgkxwKXf53eJlceSi72nKopRDT9Klkp7gHOO](https://youtube.com/clip/UgkxwKXf53eJlceSi72nKopRDT9Klkp7gHOO)
+
+## May 3rd, 2022 Livestream
+* [Update 6: Spire Coast Teaser](../../transcriptions/yt-SVZCcGdt1eI.md) [https://www.youtube.com/watch?v=SVZCcGdt1eI](https://www.youtube.com/watch?v=SVZCcGdt1eI)
+* [Snutt Talk: Spire Coast pillars](../../transcriptions/yt-e6LI3qSkWdQ.md) [https://www.youtube.com/watch?v=e6LI3qSkWdQ](https://www.youtube.com/watch?v=e6LI3qSkWdQ)
+* [Q&A: Are the Oil patches still in the Spire Coast?](../../transcriptions/yt-V9tMeZUwtMg.md) [https://www.youtube.com/watch?v=V9tMeZUwtMg](https://www.youtube.com/watch?v=V9tMeZUwtMg)
+* [Q&A: Will there be a Video this week?](../../transcriptions/yt-iNRuA1fm3vk.md) [https://www.youtube.com/watch?v=iNRuA1fm3vk](https://www.youtube.com/watch?v=iNRuA1fm3vk)
+* [Q&A: Was the water hole fixed in the Spire Coast where you can drop to your death in the water?](../../transcriptions/yt-6t2kbzZlnJc.md) [https://www.youtube.com/watch?v=6t2kbzZlnJc](https://www.youtube.com/watch?v=6t2kbzZlnJc)
+* [Q&A: Update 5 had a lot of changes to Caves, right?](../../transcriptions/yt-ubjbMObuhwE.md) [https://www.youtube.com/watch?v=ubjbMObuhwE](https://www.youtube.com/watch?v=ubjbMObuhwE)
+* [Q&A: Will there be any changes to drop pods & Hard Drives in Update 6?](../../transcriptions/yt-JbGdSC0uqg0.md) [https://www.youtube.com/watch?v=JbGdSC0uqg0](https://www.youtube.com/watch?v=JbGdSC0uqg0)
+* [Q&A: Will the Update to Spire Coast also update the Desert mesa area?](../../transcriptions/yt-3fvCJNbYSEw.md) [https://www.youtube.com/watch?v=3fvCJNbYSEw](https://www.youtube.com/watch?v=3fvCJNbYSEw)
 
 ## April 22nd, 2022 Video
 * Environmental Changes [https://youtube.com/embed/hkMTFsxa7rQ?autoplay=1&start=304&end=376](https://youtube.com/embed/hkMTFsxa7rQ?autoplay=1&start=304&end=376)

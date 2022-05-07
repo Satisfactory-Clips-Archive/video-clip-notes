@@ -5,12 +5,12 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Biomes](../../../topics/environment/biomes.md) > Dune Desert
 
-## May 6th, 2022 Livestream
-* [Q&A: Will the Update to Spire Coast also update the Desert mesa area?](../../../transcriptions/yt-3fvCJNbYSEw.md) [https://www.youtube.com/watch?v=3fvCJNbYSEw](https://www.youtube.com/watch?v=3fvCJNbYSEw)
-
 ## May 6th, 2022 Video
 * [Spire Coast / Dune Desert](../../../transcriptions/yt-8BxYvOLpjGo,259.5593,303.73676666666665.md) [https://youtube.com/clip/Ugkx1wu-M3Fl_kL0rcDFP6hG85Ya4b-zTGCA](https://youtube.com/clip/Ugkx1wu-M3Fl_kL0rcDFP6hG85Ya4b-zTGCA)
 * [Spire Coast / Great Canyon](../../../transcriptions/yt-8BxYvOLpjGo,303.7701333333333,357.6573.md) [https://youtube.com/clip/UgkxxFK54aDemZYVT699C6V_ej6WUQmpINaR](https://youtube.com/clip/UgkxxFK54aDemZYVT699C6V_ej6WUQmpINaR)
+
+## May 3rd, 2022 Livestream
+* [Q&A: Will the Update to Spire Coast also update the Desert mesa area?](../../../transcriptions/yt-3fvCJNbYSEw.md) [https://www.youtube.com/watch?v=3fvCJNbYSEw](https://www.youtube.com/watch?v=3fvCJNbYSEw)
 
 ## March 8th, 2022 Livestream
 * [Q&A: Does the World Update include the top of the Map near the Dune Desert?](../../../transcriptions/yt-oEtrnGqOY64.md) [https://www.youtube.com/watch?v=oEtrnGqOY64](https://www.youtube.com/watch?v=oEtrnGqOY64)

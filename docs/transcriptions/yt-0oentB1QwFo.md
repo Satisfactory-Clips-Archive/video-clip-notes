@@ -1,12 +1,12 @@
 ---
-title: "May 6th, 2022 Livestream Q&A: Will there be any more Tiers in Update 6?"
-date: "2022-05-06"
+title: "May 3rd, 2022 Livestream Q&A: Will there be any more Tiers in Update 6?"
+date: "2022-05-03"
 layout: transcript
 topics:
     - "features/tiers"
     - "satisfactory-updates/pending/satisfactory-update-6"
 ---
-# [May 6th, 2022 Livestream](../2022-05-06.md)
+# [May 3rd, 2022 Livestream](../2022-05-03.md)
 ## Q&A: Will there be any more Tiers in Update 6?
 https://www.youtube.com/watch?v=0oentB1QwFo
 

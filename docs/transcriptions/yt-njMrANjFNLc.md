@@ -8,7 +8,7 @@ topics:
 # [April 20th, 2021 Livestream](../2021-04-20.md)
 ## Q&A: VR, when?
 https://www.youtube.com/watch?v=njMrANjFNLc
-This question was possibly duplicated with a more recent answer: [May 6th, 2022 Livestream Q&A: Any plans for VR?](./yt-vgYHJu3DzeE.md) [https://www.youtube.com/watch?v=vgYHJu3DzeE](https://www.youtube.com/watch?v=vgYHJu3DzeE)
+This question was possibly duplicated with a more recent answer: [May 3rd, 2022 Livestream Q&A: Any plans for VR?](./yt-vgYHJu3DzeE.md) [https://www.youtube.com/watch?v=vgYHJu3DzeE](https://www.youtube.com/watch?v=vgYHJu3DzeE)
 
 
 ### Topics

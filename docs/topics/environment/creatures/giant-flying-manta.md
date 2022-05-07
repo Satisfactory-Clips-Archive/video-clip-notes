@@ -5,7 +5,7 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Creatures](../../../topics/environment/creatures.md) > Giant Flying Manta
 
-## May 6th, 2022 Livestream
+## May 3rd, 2022 Livestream
 * [Update 6: Spire Coast Teaser](../../../transcriptions/yt-SVZCcGdt1eI.md) [https://www.youtube.com/watch?v=SVZCcGdt1eI](https://www.youtube.com/watch?v=SVZCcGdt1eI)
 
 ## March 15th, 2022 Livestream

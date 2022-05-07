@@ -5,7 +5,7 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Retail](../../topics/retail.md) > Early Access
 
-## May 6th, 2022 Livestream
+## May 3rd, 2022 Livestream
 * [Q&A: Big 1.0 Update? The bugs kind of defeat the point of moving out of Early Access?](../../transcriptions/yt-aO02dQNOhf4.md) [https://www.youtube.com/watch?v=aO02dQNOhf4](https://www.youtube.com/watch?v=aO02dQNOhf4)
 
 ## March 22nd, 2022 Livestream

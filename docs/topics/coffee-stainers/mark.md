@@ -5,7 +5,7 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Mark
 
-## May 6th, 2022 Livestream
+## May 3rd, 2022 Livestream
 * [Q&A: What's the dev process of adding new kinds of products?](../../transcriptions/yt-LoMM9LzIjlo.md) [https://www.youtube.com/watch?v=LoMM9LzIjlo](https://www.youtube.com/watch?v=LoMM9LzIjlo)
 
 ## April 26th, 2022 Livestream

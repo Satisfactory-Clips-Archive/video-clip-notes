@@ -5,13 +5,13 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Trolling
 
-## May 6th, 2022 Livestream
+## May 6th, 2022 Video
+* [Don't worry, I'll wait](../transcriptions/yt-8BxYvOLpjGo,8.742066666666666,44.91658.md) [https://youtube.com/clip/Ugkxm0GHwDrUkr8waf0XMZztjN9uLBP3_1BT](https://youtube.com/clip/Ugkxm0GHwDrUkr8waf0XMZztjN9uLBP3_1BT)
+
+## May 3rd, 2022 Livestream
 * [Update 6: Spire Coast Teaser](../transcriptions/yt-SVZCcGdt1eI.md) [https://www.youtube.com/watch?v=SVZCcGdt1eI](https://www.youtube.com/watch?v=SVZCcGdt1eI)
 * [Q&A: Blitzball, when?](../transcriptions/yt-sgNUvf4Np84.md) [https://www.youtube.com/watch?v=sgNUvf4Np84](https://www.youtube.com/watch?v=sgNUvf4Np84)
 * [Community FYI: Patch 1.0, Mk.6 Belts requiring SLI graphics cards](../transcriptions/yt-7SLI7g9zQlM.md) [https://www.youtube.com/watch?v=7SLI7g9zQlM](https://www.youtube.com/watch?v=7SLI7g9zQlM)
-
-## May 6th, 2022 Video
-* [Don't worry, I'll wait](../transcriptions/yt-8BxYvOLpjGo,8.742066666666666,44.91658.md) [https://youtube.com/clip/Ugkxm0GHwDrUkr8waf0XMZztjN9uLBP3_1BT](https://youtube.com/clip/Ugkxm0GHwDrUkr8waf0XMZztjN9uLBP3_1BT)
 
 ## April 21st, 2022 Satisfactory x Portal Bonus Stream
 * [Q&A: How many Coal nodes in Australia?](../transcriptions/yt-FRr-lTnxnog.md) [https://www.youtube.com/watch?v=FRr-lTnxnog](https://www.youtube.com/watch?v=FRr-lTnxnog)

@@ -8,7 +8,7 @@ topics:
 # [September 28th, 2021 Livestream](../2021-09-28.md)
 ## Q&A: Were Hyper Tubes ever meant to work that way or was it an accident?
 https://www.youtube.com/watch?v=oT-Qz36u1co
-This question was possibly duplicated with a more recent answer: [May 6th, 2022 Livestream Q&A: Are you making any changes that might impact the Hyper Tube cannons?](./yt-itcpnj8i8EA.md) [https://www.youtube.com/watch?v=itcpnj8i8EA](https://www.youtube.com/watch?v=itcpnj8i8EA)
+This question was possibly duplicated with a more recent answer: [May 3rd, 2022 Livestream Q&A: Are you making any changes that might impact the Hyper Tube cannons?](./yt-itcpnj8i8EA.md) [https://www.youtube.com/watch?v=itcpnj8i8EA](https://www.youtube.com/watch?v=itcpnj8i8EA)
 
 
 ### Topics

@@ -1,6 +1,6 @@
 ---
-title: "May 6th, 2022 Livestream Update 6: Spire Coast Teaser"
-date: "2022-05-06"
+title: "May 3rd, 2022 Livestream Update 6: Spire Coast Teaser"
+date: "2022-05-03"
 layout: transcript
 topics:
     - "coffee-stainers/hannah"
@@ -15,7 +15,7 @@ topics:
     - "satisfactory-updates/world-update"
     - "trolling"
 ---
-# [May 6th, 2022 Livestream](../2022-05-06.md)
+# [May 3rd, 2022 Livestream](../2022-05-03.md)
 ## Update 6: Spire Coast Teaser
 https://www.youtube.com/watch?v=SVZCcGdt1eI
 

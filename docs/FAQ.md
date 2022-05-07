@@ -2,7 +2,7 @@
 title: "Frequently Asked Questions"
 date: Last Modified
 ---
-## [May 6th, 2022 Video](./2022-05-06.md)
+## [May 3rd, 2022 Livestream](./2022-05-03.md)
 ### [Q&A: Controller support news?](./transcriptions/yt-S-jHgE-Tv2U.md) [https://www.youtube.com/watch?v=S-jHgE-Tv2U](https://www.youtube.com/watch?v=S-jHgE-Tv2U)
 
 <details>

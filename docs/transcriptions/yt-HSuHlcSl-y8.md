@@ -8,7 +8,7 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Why do you take Gas damage while wearing a Gas Mask while driving a Car?
 https://www.youtube.com/watch?v=HSuHlcSl-y8
-This question was possibly duplicated with a more recent answer: [May 6th, 2022 Livestream Q&A: Will Gas Masks ever work when you're in Vehicles?](./yt-61iyMsA4_2w.md) [https://www.youtube.com/watch?v=61iyMsA4_2w](https://www.youtube.com/watch?v=61iyMsA4_2w)
+This question was possibly duplicated with a more recent answer: [May 3rd, 2022 Livestream Q&A: Will Gas Masks ever work when you're in Vehicles?](./yt-61iyMsA4_2w.md) [https://www.youtube.com/watch?v=61iyMsA4_2w](https://www.youtube.com/watch?v=61iyMsA4_2w)
 
 
 ### Topics

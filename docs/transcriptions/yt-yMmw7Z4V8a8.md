@@ -1,13 +1,13 @@
 ---
-title: "May 6th, 2022 Livestream Q&A: Are you going on holiday on/before/after Update 6?"
-date: "2022-05-06"
+title: "May 3rd, 2022 Livestream Q&A: Are you going on holiday on/before/after Update 6?"
+date: "2022-05-03"
 layout: transcript
 topics:
     - "coffee-stainers"
     - "embracer-group/coffee-stain-holding/coffee-stain-studios"
     - "satisfactory-updates/pending/satisfactory-update-6"
 ---
-# [May 6th, 2022 Livestream](../2022-05-06.md)
+# [May 3rd, 2022 Livestream](../2022-05-03.md)
 ## Q&A: Are you going on holiday on/before/after Update 6?
 https://www.youtube.com/watch?v=yMmw7Z4V8a8
 

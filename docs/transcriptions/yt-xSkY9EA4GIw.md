@@ -1,11 +1,11 @@
 ---
-title: "May 6th, 2022 Livestream Q&A: Post-1.0 release plan?"
-date: "2022-05-06"
+title: "May 3rd, 2022 Livestream Q&A: Post-1.0 release plan?"
+date: "2022-05-03"
 layout: transcript
 topics:
     - "satisfactory-updates/pending/satisfactory-1-0"
 ---
-# [May 6th, 2022 Livestream](../2022-05-06.md)
+# [May 3rd, 2022 Livestream](../2022-05-03.md)
 ## Q&A: Post-1.0 release plan?
 https://www.youtube.com/watch?v=xSkY9EA4GIw
 

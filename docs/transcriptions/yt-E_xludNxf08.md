@@ -10,7 +10,7 @@ topics:
 # [February 22nd, 2022 Livestream](../2022-02-22.md)
 ## Q&A: More architecture coming in Update 6?
 https://www.youtube.com/watch?v=E_xludNxf08
-This question was possibly duplicated with a more recent answer: [May 6th, 2022 Livestream Q&A: Any chance we could get an Update to architectural structures?](./yt-U5OI9pz9mnQ.md) [https://www.youtube.com/watch?v=U5OI9pz9mnQ](https://www.youtube.com/watch?v=U5OI9pz9mnQ)
+This question was possibly duplicated with a more recent answer: [May 3rd, 2022 Livestream Q&A: Any chance we could get an Update to architectural structures?](./yt-U5OI9pz9mnQ.md) [https://www.youtube.com/watch?v=U5OI9pz9mnQ](https://www.youtube.com/watch?v=U5OI9pz9mnQ)
 
 
 ### Topics

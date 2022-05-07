@@ -7,7 +7,7 @@ date: Last Modified
 * [Cheatcrete](../../../topics/features/buildables/foundations/cheatcrete.md)
 * [Foundation Stencils](../../../topics/features/buildables/foundations/stencils.md)
 
-## May 6th, 2022 Livestream
+## May 3rd, 2022 Livestream
 * [Q&A: Will Z-plane fighting finally be resolved?](../../../transcriptions/yt-_LVhzjfAywg.md) [https://www.youtube.com/watch?v=_LVhzjfAywg](https://www.youtube.com/watch?v=_LVhzjfAywg)
 * [Q&A: Any chance we could get an Update to architectural structures?](../../../transcriptions/yt-U5OI9pz9mnQ.md) [https://www.youtube.com/watch?v=U5OI9pz9mnQ](https://www.youtube.com/watch?v=U5OI9pz9mnQ)
 

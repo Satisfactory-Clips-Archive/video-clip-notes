@@ -1,6 +1,6 @@
 ---
-title: "May 6th, 2022 Livestream Q&A: Will the Update to Spire Coast also update the Desert mesa area?"
-date: "2022-05-06"
+title: "May 3rd, 2022 Livestream Q&A: Will the Update to Spire Coast also update the Desert mesa area?"
+date: "2022-05-03"
 layout: transcript
 topics:
     - "environment/biomes/dune-desert"
@@ -8,7 +8,7 @@ topics:
     - "satisfactory-updates/pending/satisfactory-update-6"
     - "satisfactory-updates/world-update"
 ---
-# [May 6th, 2022 Livestream](../2022-05-06.md)
+# [May 3rd, 2022 Livestream](../2022-05-03.md)
 ## Q&A: Will the Update to Spire Coast also update the Desert mesa area?
 https://www.youtube.com/watch?v=3fvCJNbYSEw
 <details>

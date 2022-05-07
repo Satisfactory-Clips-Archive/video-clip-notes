@@ -1,13 +1,13 @@
 ---
-title: "May 6th, 2022 Livestream Q&A: Who chose the name of the game?"
-date: "2022-05-06"
+title: "May 3rd, 2022 Livestream Q&A: Who chose the name of the game?"
+date: "2022-05-03"
 layout: transcript
 topics:
     - "coffee-stainers/jace"
     - "coffee-stainers/snutt"
     - "embracer-group/coffee-stain-holding/coffee-stain-studios"
 ---
-# [May 6th, 2022 Livestream](../2022-05-06.md)
+# [May 3rd, 2022 Livestream](../2022-05-03.md)
 ## Q&A: Who chose the name of the game?
 https://www.youtube.com/watch?v=QRzKzsTgZ7U
 <details>

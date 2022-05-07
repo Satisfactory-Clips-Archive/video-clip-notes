@@ -9,7 +9,7 @@ topics:
 # [May 4th, 2021 Livestream](../2021-05-04.md)
 ## Q&A: Do you have to buy the full version of the game when it comes out?
 https://www.youtube.com/watch?v=fEyDe5viYQo
-This question was possibly duplicated with a more recent answer: [May 6th, 2022 Livestream Q&A: I'd have to buy another copy?](./yt-t_x_6rrsRAY.md) [https://www.youtube.com/watch?v=t_x_6rrsRAY](https://www.youtube.com/watch?v=t_x_6rrsRAY)
+This question was possibly duplicated with a more recent answer: [May 3rd, 2022 Livestream Q&A: I'd have to buy another copy?](./yt-t_x_6rrsRAY.md) [https://www.youtube.com/watch?v=t_x_6rrsRAY](https://www.youtube.com/watch?v=t_x_6rrsRAY)
 
 
 ### Topics

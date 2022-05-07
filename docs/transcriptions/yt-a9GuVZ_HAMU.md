@@ -10,7 +10,7 @@ topics:
 # [March 1st, 2022 Livestream](../2022-03-01.md)
 ## Q&A: Can we keep the Gas Mask equipped while we're inside a Vehicle?
 https://www.youtube.com/watch?v=a9GuVZ_HAMU
-This question was possibly duplicated with a more recent answer: [May 6th, 2022 Livestream Q&A: Will Gas Masks ever work when you're in Vehicles?](./yt-61iyMsA4_2w.md) [https://www.youtube.com/watch?v=61iyMsA4_2w](https://www.youtube.com/watch?v=61iyMsA4_2w)
+This question was possibly duplicated with a more recent answer: [May 3rd, 2022 Livestream Q&A: Will Gas Masks ever work when you're in Vehicles?](./yt-61iyMsA4_2w.md) [https://www.youtube.com/watch?v=61iyMsA4_2w](https://www.youtube.com/watch?v=61iyMsA4_2w)
 
 
 ### Topics

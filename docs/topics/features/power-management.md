@@ -10,7 +10,7 @@ date: Last Modified
 * [Power Storage](../../topics/features/power-management/power-storage.md)
 * [Power Switch](../../topics/features/power-management/power-switch.md)
 
-## May 6th, 2022 Livestream
+## May 3rd, 2022 Livestream
 * [Update 6: Future Updates & Linear Overclocking change](../../transcriptions/yt-1kq0M7R-E_c.md) [https://www.youtube.com/watch?v=1kq0M7R-E_c](https://www.youtube.com/watch?v=1kq0M7R-E_c)
 
 ## April 26th, 2022 Livestream

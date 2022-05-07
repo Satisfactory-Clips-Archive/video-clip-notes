@@ -1,12 +1,12 @@
 ---
-title: "May 6th, 2022 Livestream Community FYI: Flying Crab milk"
-date: "2022-05-06"
+title: "May 3rd, 2022 Livestream Community FYI: Flying Crab milk"
+date: "2022-05-03"
 layout: transcript
 topics:
     - "environment/creatures"
     - "features/possible-features/farming"
 ---
-# [May 6th, 2022 Livestream](../2022-05-06.md)
+# [May 3rd, 2022 Livestream](../2022-05-03.md)
 ## Community FYI: Flying Crab milk
 https://www.youtube.com/watch?v=dUqjY-TtRuk
 

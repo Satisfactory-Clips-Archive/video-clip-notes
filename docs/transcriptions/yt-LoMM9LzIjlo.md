@@ -1,12 +1,12 @@
 ---
-title: "May 6th, 2022 Livestream Q&A: What's the dev process of adding new kinds of products?"
-date: "2022-05-06"
+title: "May 3rd, 2022 Livestream Q&A: What's the dev process of adding new kinds of products?"
+date: "2022-05-03"
 layout: transcript
 topics:
     - "coffee-stainers/mark"
     - "environment/resources"
 ---
-# [May 6th, 2022 Livestream](../2022-05-06.md)
+# [May 3rd, 2022 Livestream](../2022-05-03.md)
 ## Q&A: What's the dev process of adding new kinds of products?
 https://www.youtube.com/watch?v=LoMM9LzIjlo
 

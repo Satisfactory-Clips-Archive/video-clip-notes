@@ -1,12 +1,12 @@
 ---
-title: "May 6th, 2022 Livestream Q&A: Are there any Updates to Dedicated Servers coming soon?"
-date: "2022-05-06"
+title: "May 3rd, 2022 Livestream Q&A: Are there any Updates to Dedicated Servers coming soon?"
+date: "2022-05-03"
 layout: transcript
 topics:
     - "features/multiplayer/dedicated-servers"
     - "satisfactory-updates"
 ---
-# [May 6th, 2022 Livestream](../2022-05-06.md)
+# [May 3rd, 2022 Livestream](../2022-05-03.md)
 ## Q&A: Are there any Updates to Dedicated Servers coming soon?
 https://www.youtube.com/watch?v=mvcm2QXlcZM
 

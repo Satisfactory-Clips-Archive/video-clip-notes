@@ -9,7 +9,7 @@ topics:
 # [June 22nd, 2021 Livestream](../2021-06-22.md)
 ## Q&A: Would you add a Hyper Tube launcher, or do you want to keep the exploity method people use now?
 https://www.youtube.com/watch?v=vGet8HcuE7E
-This question was possibly duplicated with a more recent answer: [May 6th, 2022 Livestream Q&A: Are you making any changes that might impact the Hyper Tube cannons?](./yt-itcpnj8i8EA.md) [https://www.youtube.com/watch?v=itcpnj8i8EA](https://www.youtube.com/watch?v=itcpnj8i8EA)
+This question was possibly duplicated with a more recent answer: [May 3rd, 2022 Livestream Q&A: Are you making any changes that might impact the Hyper Tube cannons?](./yt-itcpnj8i8EA.md) [https://www.youtube.com/watch?v=itcpnj8i8EA](https://www.youtube.com/watch?v=itcpnj8i8EA)
 
 
 ### Topics

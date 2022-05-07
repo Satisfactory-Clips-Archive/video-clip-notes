@@ -1,12 +1,12 @@
 ---
-title: "May 6th, 2022 Livestream Community FYI: Game runs well on Steam Deck"
-date: "2022-05-06"
+title: "May 3rd, 2022 Livestream Community FYI: Game runs well on Steam Deck"
+date: "2022-05-03"
 layout: transcript
 topics:
     - "features/possible-features/console-release"
     - "retail/steam-store"
 ---
-# [May 6th, 2022 Livestream](../2022-05-06.md)
+# [May 3rd, 2022 Livestream](../2022-05-03.md)
 ## Community FYI: Game runs well on Steam Deck
 https://www.youtube.com/watch?v=1EVBrWXbZ74
 

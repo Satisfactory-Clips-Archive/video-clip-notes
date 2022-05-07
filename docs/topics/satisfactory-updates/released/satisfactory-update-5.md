@@ -8,9 +8,6 @@ date: Last Modified
 * [#SaveTheWillows](../../../topics/satisfactory-updates/released/satisfactory-update-5/save-the-willows.md)
 * [Update 5 Torsten's Cosmetics Whiteboard](../../../topics/satisfactory-updates/released/satisfactory-update-5/torstens-cosmetics-whiteboard.md)
 
-## May 6th, 2022 Livestream
-* [Q&A: Update 5 had a lot of changes to Caves, right?](../../../transcriptions/yt-ubjbMObuhwE.md) [https://www.youtube.com/watch?v=ubjbMObuhwE](https://www.youtube.com/watch?v=ubjbMObuhwE)
-
 ## May 6th, 2022 Video
 * [Update 5 World Update Roadmap](../../../transcriptions/yt-8BxYvOLpjGo,44.944900000000004,73.8738.md) [https://youtube.com/clip/UgkxnQl9-7XQBU0ua5umK2YbhKN4IoJR8rkL](https://youtube.com/clip/UgkxnQl9-7XQBU0ua5umK2YbhKN4IoJR8rkL)
 * [Open section of shallow water](../../../transcriptions/yt-8BxYvOLpjGo,183.0829,200.13326666666666.md) [https://youtube.com/clip/Ugkxdfs--RNkFLO-hIRAgMOPPgzXqYKFO5xO](https://youtube.com/clip/Ugkxdfs--RNkFLO-hIRAgMOPPgzXqYKFO5xO)
@@ -21,6 +18,9 @@ date: Last Modified
 * [Spire Coast / Dune Desert](../../../transcriptions/yt-8BxYvOLpjGo,259.5593,303.73676666666665.md) [https://youtube.com/clip/Ugkx1wu-M3Fl_kL0rcDFP6hG85Ya4b-zTGCA](https://youtube.com/clip/Ugkx1wu-M3Fl_kL0rcDFP6hG85Ya4b-zTGCA)
 * [Spire Coast / Great Canyon](../../../transcriptions/yt-8BxYvOLpjGo,303.7701333333333,357.6573.md) [https://youtube.com/clip/UgkxxFK54aDemZYVT699C6V_ej6WUQmpINaR](https://youtube.com/clip/UgkxxFK54aDemZYVT699C6V_ej6WUQmpINaR)
 * [Desert Canyons](../../../transcriptions/yt-8BxYvOLpjGo,357.6906666666667,370.70366666666666.md) [https://youtube.com/clip/UgkxwKXf53eJlceSi72nKopRDT9Klkp7gHOO](https://youtube.com/clip/UgkxwKXf53eJlceSi72nKopRDT9Klkp7gHOO)
+
+## May 3rd, 2022 Livestream
+* [Q&A: Update 5 had a lot of changes to Caves, right?](../../../transcriptions/yt-ubjbMObuhwE.md) [https://www.youtube.com/watch?v=ubjbMObuhwE](https://www.youtube.com/watch?v=ubjbMObuhwE)
 
 ## April 1st, 2022 Video
 * Snutt & Jace Talk: Update 5 and the effect it had on the Community [https://youtube.com/embed/jAc8Fnj1o9w?autoplay=1&start=84&end=154](https://youtube.com/embed/jAc8Fnj1o9w?autoplay=1&start=84&end=154)

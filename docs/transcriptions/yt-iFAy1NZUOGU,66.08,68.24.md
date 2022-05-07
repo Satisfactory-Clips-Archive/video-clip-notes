@@ -8,7 +8,7 @@ topics:
 # [August 1st, 2018 Q&A](../2018-08-01.md)
 ## Q&A: What about VR support?
 https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=66&end=69
-This question was possibly duplicated with a more recent answer: [May 6th, 2022 Livestream Q&A: Any plans for VR?](./yt-vgYHJu3DzeE.md) [https://www.youtube.com/watch?v=vgYHJu3DzeE](https://www.youtube.com/watch?v=vgYHJu3DzeE)
+This question was possibly duplicated with a more recent answer: [May 3rd, 2022 Livestream Q&A: Any plans for VR?](./yt-vgYHJu3DzeE.md) [https://www.youtube.com/watch?v=vgYHJu3DzeE](https://www.youtube.com/watch?v=vgYHJu3DzeE)
 
 
 ### Topics

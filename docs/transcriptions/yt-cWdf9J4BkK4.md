@@ -1,12 +1,12 @@
 ---
-title: "May 6th, 2022 Livestream Q&A: Is everyone at Coffee Stain still remote?"
-date: "2022-05-06"
+title: "May 3rd, 2022 Livestream Q&A: Is everyone at Coffee Stain still remote?"
+date: "2022-05-03"
 layout: transcript
 topics:
     - "coffee-stainers"
     - "embracer-group/coffee-stain-holding/coffee-stain-studios"
 ---
-# [May 6th, 2022 Livestream](../2022-05-06.md)
+# [May 3rd, 2022 Livestream](../2022-05-03.md)
 ## Q&A: Is everyone at Coffee Stain still remote?
 https://www.youtube.com/watch?v=cWdf9J4BkK4
 

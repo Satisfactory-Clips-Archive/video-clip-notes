@@ -5,7 +5,7 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Equipment](../../../topics/features/equipment.md) > Chainsaw
 
-## May 6th, 2022 Livestream
+## May 3rd, 2022 Livestream
 * [Q&A: Giant Chainsaws: intentional?](../../../transcriptions/yt-7Q_8VAYRA6U.md) [https://www.youtube.com/watch?v=7Q_8VAYRA6U](https://www.youtube.com/watch?v=7Q_8VAYRA6U)
 
 ## November 30th, 2021 Livestream

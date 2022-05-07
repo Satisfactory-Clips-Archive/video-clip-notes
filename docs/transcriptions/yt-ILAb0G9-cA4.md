@@ -1,13 +1,13 @@
 ---
-title: "May 6th, 2022 Livestream Snutt Talk: Speedrunning community events"
-date: "2022-05-06"
+title: "May 3rd, 2022 Livestream Snutt Talk: Speedrunning community events"
+date: "2022-05-03"
 layout: transcript
 topics:
     - "community"
     - "features/buildings/space-elevator"
     - "features/tiers"
 ---
-# [May 6th, 2022 Livestream](../2022-05-06.md)
+# [May 3rd, 2022 Livestream](../2022-05-03.md)
 ## Snutt Talk: Speedrunning community events
 https://www.youtube.com/watch?v=ILAb0G9-cA4
 

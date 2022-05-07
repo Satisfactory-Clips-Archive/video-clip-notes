@@ -1,12 +1,12 @@
 ---
-title: "May 6th, 2022 Livestream Q&A: Any chance for automatable Boats?"
-date: "2022-05-06"
+title: "May 3rd, 2022 Livestream Q&A: Any chance for automatable Boats?"
+date: "2022-05-03"
 layout: transcript
 topics:
     - "features/requested-features"
     - "features/transportation/vehicles"
 ---
-# [May 6th, 2022 Livestream](../2022-05-06.md)
+# [May 3rd, 2022 Livestream](../2022-05-03.md)
 ## Q&A: Any chance for automatable Boats?
 https://www.youtube.com/watch?v=p36Hn2DZzSU
 <details>

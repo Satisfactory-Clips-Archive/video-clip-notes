@@ -8,7 +8,7 @@ topics:
 # [February 8th, 2022 Livestream](../2022-02-08.md)
 ## Q&A: Still wanna know when we're getting boats?
 https://www.youtube.com/watch?v=AKd0bKZW0ZE
-This question was possibly duplicated with a more recent answer: [May 6th, 2022 Livestream Q&A: Any chance for automatable Boats?](./yt-p36Hn2DZzSU.md) [https://www.youtube.com/watch?v=p36Hn2DZzSU](https://www.youtube.com/watch?v=p36Hn2DZzSU)
+This question was possibly duplicated with a more recent answer: [May 3rd, 2022 Livestream Q&A: Any chance for automatable Boats?](./yt-p36Hn2DZzSU.md) [https://www.youtube.com/watch?v=p36Hn2DZzSU](https://www.youtube.com/watch?v=p36Hn2DZzSU)
 
 
 ### Topics

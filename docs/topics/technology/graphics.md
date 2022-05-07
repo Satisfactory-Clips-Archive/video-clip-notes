@@ -9,12 +9,12 @@ date: Last Modified
 * [Ray Tracing](../../topics/technology/graphics/ray-tracing.md)
 * [Ultrawide Monitors](../../topics/technology/graphics/ultrawide-monitors.md)
 
-## May 6th, 2022 Livestream
-* [Q&A: Will Z-plane fighting finally be resolved?](../../transcriptions/yt-_LVhzjfAywg.md) [https://www.youtube.com/watch?v=_LVhzjfAywg](https://www.youtube.com/watch?v=_LVhzjfAywg)
-* [Community FYI: Patch 1.0, Mk.6 Belts requiring SLI graphics cards](../../transcriptions/yt-7SLI7g9zQlM.md) [https://www.youtube.com/watch?v=7SLI7g9zQlM](https://www.youtube.com/watch?v=7SLI7g9zQlM)
-
 ## May 6th, 2022 Video
 * [Atmospheric lighting](../../transcriptions/yt-8BxYvOLpjGo,207.50730000000001,214.84796666666668.md) [https://youtube.com/clip/UgkxUiaLn7rSAZYt-qNeicVe-wvNgc9i5pwI](https://youtube.com/clip/UgkxUiaLn7rSAZYt-qNeicVe-wvNgc9i5pwI)
+
+## May 3rd, 2022 Livestream
+* [Q&A: Will Z-plane fighting finally be resolved?](../../transcriptions/yt-_LVhzjfAywg.md) [https://www.youtube.com/watch?v=_LVhzjfAywg](https://www.youtube.com/watch?v=_LVhzjfAywg)
+* [Community FYI: Patch 1.0, Mk.6 Belts requiring SLI graphics cards](../../transcriptions/yt-7SLI7g9zQlM.md) [https://www.youtube.com/watch?v=7SLI7g9zQlM](https://www.youtube.com/watch?v=7SLI7g9zQlM)
 
 ## April 26th, 2022 Livestream
 * [State of Dave](../../transcriptions/yt-komFyjm03kg.md) [https://www.youtube.com/watch?v=komFyjm03kg](https://www.youtube.com/watch?v=komFyjm03kg)

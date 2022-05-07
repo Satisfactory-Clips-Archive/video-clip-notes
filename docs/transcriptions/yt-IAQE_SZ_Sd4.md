@@ -1,13 +1,13 @@
 ---
-title: "May 6th, 2022 Livestream Q&A: How do the shoes make it out of the Hyper Tube while travelling?"
-date: "2022-05-06"
+title: "May 3rd, 2022 Livestream Q&A: How do the shoes make it out of the Hyper Tube while travelling?"
+date: "2022-05-03"
 layout: transcript
 topics:
     - "features/equipment/blade-runners"
     - "features/transportation/hyper-tubes"
     - "off-topic/terrible-jokes"
 ---
-# [May 6th, 2022 Livestream](../2022-05-06.md)
+# [May 3rd, 2022 Livestream](../2022-05-03.md)
 ## Q&A: How do the shoes make it out of the Hyper Tube while travelling?
 https://www.youtube.com/watch?v=IAQE_SZ_Sd4
 

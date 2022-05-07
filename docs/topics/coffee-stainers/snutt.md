@@ -8,7 +8,7 @@ date: Last Modified
 * [Snutt Burger Time](../../topics/coffee-stainers/snutt/snutt-burger-time.md)
 * [Snutty Mays](../../topics/coffee-stainers/snutt/snutty-mays.md)
 
-## May 6th, 2022 Livestream
+## May 3rd, 2022 Livestream
 * [Q&A: Who chose the name of the game?](../../transcriptions/yt-QRzKzsTgZ7U.md) [https://www.youtube.com/watch?v=QRzKzsTgZ7U](https://www.youtube.com/watch?v=QRzKzsTgZ7U)
 * [Q&A: Will there ever be left-handed Train tracks?](../../transcriptions/yt-3k5Ljyt3HWc.md) [https://www.youtube.com/watch?v=3k5Ljyt3HWc](https://www.youtube.com/watch?v=3k5Ljyt3HWc)
 * [Q&A: Have you got a vacation planned?](../../transcriptions/yt-fLW4ttkFBDo.md) [https://www.youtube.com/watch?v=fLW4ttkFBDo](https://www.youtube.com/watch?v=fLW4ttkFBDo)

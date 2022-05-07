@@ -8,7 +8,7 @@ topics:
 # [April 27th, 2021 Livestream](../2021-04-27.md)
 ## Q&A: Is the giant chainsaw a bug?
 https://www.youtube.com/watch?v=n1zvt3i66uE
-This question was possibly duplicated with a more recent answer: [May 6th, 2022 Livestream Q&A: Giant Chainsaws: intentional?](./yt-7Q_8VAYRA6U.md) [https://www.youtube.com/watch?v=7Q_8VAYRA6U](https://www.youtube.com/watch?v=7Q_8VAYRA6U)
+This question was possibly duplicated with a more recent answer: [May 3rd, 2022 Livestream Q&A: Giant Chainsaws: intentional?](./yt-7Q_8VAYRA6U.md) [https://www.youtube.com/watch?v=7Q_8VAYRA6U](https://www.youtube.com/watch?v=7Q_8VAYRA6U)
 
 
 ### Topics

@@ -9,7 +9,7 @@ date: Last Modified
 * [GeForce Now](../topics/retail/geforce-now.md)
 * [Steam Store](../topics/retail/steam-store.md)
 
-## May 6th, 2022 Livestream
+## May 3rd, 2022 Livestream
 * [Q&A: I'd have to buy another copy?](../transcriptions/yt-t_x_6rrsRAY.md) [https://www.youtube.com/watch?v=t_x_6rrsRAY](https://www.youtube.com/watch?v=t_x_6rrsRAY)
 
 ## April 8th, 2022 Video

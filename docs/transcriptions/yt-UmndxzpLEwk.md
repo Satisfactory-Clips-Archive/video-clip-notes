@@ -8,7 +8,7 @@ topics:
 # [September 28th, 2021 Livestream](../2021-09-28.md)
 ## Q&A: Why can't we have a rideable Drone?
 https://www.youtube.com/watch?v=UmndxzpLEwk
-This question was possibly duplicated with a more recent answer: [May 6th, 2022 Livestream Q&A: A lasso to ride the Drones?](./yt-HgCSlfqot3U.md) [https://www.youtube.com/watch?v=HgCSlfqot3U](https://www.youtube.com/watch?v=HgCSlfqot3U)
+This question was possibly duplicated with a more recent answer: [May 3rd, 2022 Livestream Q&A: A lasso to ride the Drones?](./yt-HgCSlfqot3U.md) [https://www.youtube.com/watch?v=HgCSlfqot3U](https://www.youtube.com/watch?v=HgCSlfqot3U)
 
 
 ### Topics

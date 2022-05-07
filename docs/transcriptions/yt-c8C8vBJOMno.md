@@ -1,13 +1,13 @@
 ---
-title: "May 6th, 2022 Livestream Q&A: Any progress optimising Lights?"
-date: "2022-05-06"
+title: "May 3rd, 2022 Livestream Q&A: Any progress optimising Lights?"
+date: "2022-05-03"
 layout: transcript
 topics:
     - "features/buildables/lights"
     - "features/requested-features"
     - "technology/unreal-engine"
 ---
-# [May 6th, 2022 Livestream](../2022-05-06.md)
+# [May 3rd, 2022 Livestream](../2022-05-03.md)
 ## Q&A: Any progress optimising Lights?
 https://www.youtube.com/watch?v=c8C8vBJOMno
 

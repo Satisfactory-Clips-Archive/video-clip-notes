@@ -1,6 +1,6 @@
 ---
-title: "May 6th, 2022 Livestream Q&A: Was the water hole fixed in the Spire Coast where you can drop to your death in the water?"
-date: "2022-05-06"
+title: "May 3rd, 2022 Livestream Q&A: Was the water hole fixed in the Spire Coast where you can drop to your death in the water?"
+date: "2022-05-03"
 layout: transcript
 topics:
     - "environment"
@@ -9,7 +9,7 @@ topics:
     - "satisfactory-updates/pending/satisfactory-update-6"
     - "satisfactory-updates/world-update"
 ---
-# [May 6th, 2022 Livestream](../2022-05-06.md)
+# [May 3rd, 2022 Livestream](../2022-05-03.md)
 ## Q&A: Was the water hole fixed in the Spire Coast where you can drop to your death in the water?
 https://www.youtube.com/watch?v=6t2kbzZlnJc
 

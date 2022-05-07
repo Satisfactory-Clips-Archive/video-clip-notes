@@ -5,7 +5,7 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Requested Features](../../../topics/features/requested-features.md) > Holstering Equipment
 
-## May 6th, 2022 Livestream
+## May 3rd, 2022 Livestream
 * [Q&A: Can we get an empty hand slot so we don't have to unequip something every time?](../../../transcriptions/yt-t4iLd8jEqQ4.md) [https://www.youtube.com/watch?v=t4iLd8jEqQ4](https://www.youtube.com/watch?v=t4iLd8jEqQ4)
 
 ## December 7th, 2021 Livestream

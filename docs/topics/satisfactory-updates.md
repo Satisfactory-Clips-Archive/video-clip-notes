@@ -18,12 +18,12 @@ date: Last Modified
 * [Teasers & Trailers](../topics/satisfactory-updates/teasers-and-trailers.md)
 * [World Update](../topics/satisfactory-updates/world-update.md)
 
-## May 6th, 2022 Livestream
-* [Update 6: Future Updates & Linear Overclocking change](../transcriptions/yt-1kq0M7R-E_c.md) [https://www.youtube.com/watch?v=1kq0M7R-E_c](https://www.youtube.com/watch?v=1kq0M7R-E_c)
-* [Q&A: Are there any Updates to Dedicated Servers coming soon?](../transcriptions/yt-mvcm2QXlcZM.md) [https://www.youtube.com/watch?v=mvcm2QXlcZM](https://www.youtube.com/watch?v=mvcm2QXlcZM)
-
 ## May 6th, 2022 Video
 * [Resource nodes & Power Slugs](../transcriptions/yt-8BxYvOLpjGo,117.3172,170.60376666666667.md) [https://youtube.com/clip/UgkxdoSTjRIaKwSDb_9pHxzosJ0CcTJCPfve](https://youtube.com/clip/UgkxdoSTjRIaKwSDb_9pHxzosJ0CcTJCPfve)
+
+## May 3rd, 2022 Livestream
+* [Update 6: Future Updates & Linear Overclocking change](../transcriptions/yt-1kq0M7R-E_c.md) [https://www.youtube.com/watch?v=1kq0M7R-E_c](https://www.youtube.com/watch?v=1kq0M7R-E_c)
+* [Q&A: Are there any Updates to Dedicated Servers coming soon?](../transcriptions/yt-mvcm2QXlcZM.md) [https://www.youtube.com/watch?v=mvcm2QXlcZM](https://www.youtube.com/watch?v=mvcm2QXlcZM)
 
 ## April 21st, 2022 Satisfactory x Portal Bonus Stream
 * [Q&A: When are we getting Australia update?](../transcriptions/yt-Q5CUSuxNWR0.md) [https://www.youtube.com/watch?v=Q5CUSuxNWR0](https://www.youtube.com/watch?v=Q5CUSuxNWR0)

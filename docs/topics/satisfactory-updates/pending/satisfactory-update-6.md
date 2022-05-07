@@ -5,7 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Pending > Satisfactory Update 6
 
-## May 6th, 2022 Livestream
+## May 6th, 2022 Video
+* [Resource nodes being moved](../../../transcriptions/yt-8BxYvOLpjGo,73.90716666666667,117.28383333333333.md) [https://youtube.com/clip/Ugkxm5Y34siJBMYQNjXUF0nycUsGZ7ogFMMx](https://youtube.com/clip/Ugkxm5Y34siJBMYQNjXUF0nycUsGZ7ogFMMx)
+* [Resource nodes & Power Slugs](../../../transcriptions/yt-8BxYvOLpjGo,117.3172,170.60376666666667.md) [https://youtube.com/clip/UgkxdoSTjRIaKwSDb_9pHxzosJ0CcTJCPfve](https://youtube.com/clip/UgkxdoSTjRIaKwSDb_9pHxzosJ0CcTJCPfve)
+
+## May 3rd, 2022 Livestream
 * [Update 6: Spire Coast Teaser](../../../transcriptions/yt-SVZCcGdt1eI.md) [https://www.youtube.com/watch?v=SVZCcGdt1eI](https://www.youtube.com/watch?v=SVZCcGdt1eI)
 * [Update 6: Future Updates & Linear Overclocking change](../../../transcriptions/yt-1kq0M7R-E_c.md) [https://www.youtube.com/watch?v=1kq0M7R-E_c](https://www.youtube.com/watch?v=1kq0M7R-E_c)
 * [Q&A: Are the Oil patches still in the Spire Coast?](../../../transcriptions/yt-V9tMeZUwtMg.md) [https://www.youtube.com/watch?v=V9tMeZUwtMg](https://www.youtube.com/watch?v=V9tMeZUwtMg)
@@ -19,10 +23,6 @@ date: Last Modified
 * [Q&A: Will there be any changes to drop pods & Hard Drives in Update 6?](../../../transcriptions/yt-JbGdSC0uqg0.md) [https://www.youtube.com/watch?v=JbGdSC0uqg0](https://www.youtube.com/watch?v=JbGdSC0uqg0)
 * [Q&A: Drop it before vacation?](../../../transcriptions/yt-eqFFSvxX_I8.md) [https://www.youtube.com/watch?v=eqFFSvxX_I8](https://www.youtube.com/watch?v=eqFFSvxX_I8)
 * [Q&A: Will the Update to Spire Coast also update the Desert mesa area?](../../../transcriptions/yt-3fvCJNbYSEw.md) [https://www.youtube.com/watch?v=3fvCJNbYSEw](https://www.youtube.com/watch?v=3fvCJNbYSEw)
-
-## May 6th, 2022 Video
-* [Resource nodes being moved](../../../transcriptions/yt-8BxYvOLpjGo,73.90716666666667,117.28383333333333.md) [https://youtube.com/clip/Ugkxm5Y34siJBMYQNjXUF0nycUsGZ7ogFMMx](https://youtube.com/clip/Ugkxm5Y34siJBMYQNjXUF0nycUsGZ7ogFMMx)
-* [Resource nodes & Power Slugs](../../../transcriptions/yt-8BxYvOLpjGo,117.3172,170.60376666666667.md) [https://youtube.com/clip/UgkxdoSTjRIaKwSDb_9pHxzosJ0CcTJCPfve](https://youtube.com/clip/UgkxdoSTjRIaKwSDb_9pHxzosJ0CcTJCPfve)
 
 ## April 26th, 2022 Livestream
 * [State of Dave](../../../transcriptions/yt-komFyjm03kg.md) [https://www.youtube.com/watch?v=komFyjm03kg](https://www.youtube.com/watch?v=komFyjm03kg)

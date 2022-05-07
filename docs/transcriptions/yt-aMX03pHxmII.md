@@ -1,6 +1,6 @@
 ---
-title: "May 6th, 2022 Livestream Q&A: Do you approve of the Lizard Doggo Nuclear Waste disposal method?"
-date: "2022-05-06"
+title: "May 3rd, 2022 Livestream Q&A: Do you approve of the Lizard Doggo Nuclear Waste disposal method?"
+date: "2022-05-03"
 layout: transcript
 topics:
     - "community/josh"
@@ -8,7 +8,7 @@ topics:
     - "features/buildables/jump-pads"
     - "features/power-management/nuclear-energy/nuclear-waste"
 ---
-# [May 6th, 2022 Livestream](../2022-05-06.md)
+# [May 3rd, 2022 Livestream](../2022-05-03.md)
 ## Q&A: Do you approve of the Lizard Doggo Nuclear Waste disposal method?
 https://www.youtube.com/watch?v=aMX03pHxmII
 

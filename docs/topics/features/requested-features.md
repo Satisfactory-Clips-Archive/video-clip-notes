@@ -12,7 +12,7 @@ date: Last Modified
 * [Pollution](../../topics/features/requested-features/pollution.md)
 * [Third-person View](../../topics/features/requested-features/third-person-view.md)
 
-## May 6th, 2022 Livestream
+## May 3rd, 2022 Livestream
 * [Q&A: Controller support news?](../../transcriptions/yt-S-jHgE-Tv2U.md) [https://www.youtube.com/watch?v=S-jHgE-Tv2U](https://www.youtube.com/watch?v=S-jHgE-Tv2U)
 * [Q&A: Do you have plans to develop the game for Console?](../../transcriptions/yt-eQn0OjZHj_w.md) [https://www.youtube.com/watch?v=eQn0OjZHj_w](https://www.youtube.com/watch?v=eQn0OjZHj_w)
 * [Q&A: Blitzball, when?](../../transcriptions/yt-sgNUvf4Np84.md) [https://www.youtube.com/watch?v=sgNUvf4Np84](https://www.youtube.com/watch?v=sgNUvf4Np84)

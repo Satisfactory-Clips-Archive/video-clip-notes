@@ -1,6 +1,6 @@
 ---
-title: "May 6th, 2022 Livestream Q&A: Will there ever be left-handed Train tracks?"
-date: "2022-05-06"
+title: "May 3rd, 2022 Livestream Q&A: Will there ever be left-handed Train tracks?"
+date: "2022-05-03"
 layout: transcript
 topics:
     - "coffee-stainers/snutt"
@@ -8,7 +8,7 @@ topics:
     - "features/transportation/trains"
     - "off-topic/sweden"
 ---
-# [May 6th, 2022 Livestream](../2022-05-06.md)
+# [May 3rd, 2022 Livestream](../2022-05-03.md)
 ## Q&A: Will there ever be left-handed Train tracks?
 https://www.youtube.com/watch?v=3k5Ljyt3HWc
 

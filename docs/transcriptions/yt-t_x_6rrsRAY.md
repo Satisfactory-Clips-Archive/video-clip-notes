@@ -1,12 +1,12 @@
 ---
-title: "May 6th, 2022 Livestream Q&A: I'd have to buy another copy?"
-date: "2022-05-06"
+title: "May 3rd, 2022 Livestream Q&A: I'd have to buy another copy?"
+date: "2022-05-03"
 layout: transcript
 topics:
     - "retail"
     - "satisfactory-updates/pending/satisfactory-1-0"
 ---
-# [May 6th, 2022 Livestream](../2022-05-06.md)
+# [May 3rd, 2022 Livestream](../2022-05-03.md)
 ## Q&A: I'd have to buy another copy?
 https://www.youtube.com/watch?v=t_x_6rrsRAY
 <details>

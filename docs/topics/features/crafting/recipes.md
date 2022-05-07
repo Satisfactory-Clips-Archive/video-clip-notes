@@ -6,7 +6,7 @@ date: Last Modified
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Crafting](../../../topics/features/crafting.md) > Recipes
 * [Alternate Recipes](../../../topics/features/crafting/recipes/alternate-recipes.md)
 
-## May 6th, 2022 Livestream
+## May 3rd, 2022 Livestream
 * [Q&A: Will Recipes get a do-over before 1.0?](../../../transcriptions/yt-aOsUEy25oPQ.md) [https://www.youtube.com/watch?v=aOsUEy25oPQ](https://www.youtube.com/watch?v=aOsUEy25oPQ)
 
 ## April 15th, 2022 Video

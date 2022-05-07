@@ -1,13 +1,13 @@
 ---
-title: "May 6th, 2022 Livestream Community FYI: Make a save game with 10 thousand Lights & send it to Coffee Stain for profiling"
-date: "2022-05-06"
+title: "May 3rd, 2022 Livestream Community FYI: Make a save game with 10 thousand Lights & send it to Coffee Stain for profiling"
+date: "2022-05-03"
 layout: transcript
 topics:
     - "embracer-group/coffee-stain-holding/coffee-stain-studios"
     - "features/buildables/lights"
     - "features/save-system"
 ---
-# [May 6th, 2022 Livestream](../2022-05-06.md)
+# [May 3rd, 2022 Livestream](../2022-05-03.md)
 ## Community FYI: Make a save game with 10 thousand Lights & send it to Coffee Stain for profiling
 https://www.youtube.com/watch?v=57iR_NWN66g
 

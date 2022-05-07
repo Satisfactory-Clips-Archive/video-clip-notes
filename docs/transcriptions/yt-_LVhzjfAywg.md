@@ -1,13 +1,13 @@
 ---
-title: "May 6th, 2022 Livestream Q&A: Will Z-plane fighting finally be resolved?"
-date: "2022-05-06"
+title: "May 3rd, 2022 Livestream Q&A: Will Z-plane fighting finally be resolved?"
+date: "2022-05-03"
 layout: transcript
 topics:
     - "features/buildables/foundations"
     - "features/buildables/walls"
     - "technology/graphics"
 ---
-# [May 6th, 2022 Livestream](../2022-05-06.md)
+# [May 3rd, 2022 Livestream](../2022-05-03.md)
 ## Q&A: Will Z-plane fighting finally be resolved?
 https://www.youtube.com/watch?v=_LVhzjfAywg
 

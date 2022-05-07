@@ -1,12 +1,12 @@
 ---
-title: "May 6th, 2022 Livestream Q&A: Do we have DLSS- if not, may we?"
-date: "2022-05-06"
+title: "May 3rd, 2022 Livestream Q&A: Do we have DLSS- if not, may we?"
+date: "2022-05-03"
 layout: transcript
 topics:
     - "features/requested-features"
     - "technology/graphics/dlss"
 ---
-# [May 6th, 2022 Livestream](../2022-05-06.md)
+# [May 3rd, 2022 Livestream](../2022-05-03.md)
 ## Q&A: Do we have DLSS- if not, may we?
 https://www.youtube.com/watch?v=99SoH5ZXCO4
 <details>

@@ -1,13 +1,13 @@
 ---
-title: "May 6th, 2022 Livestream Q&A: Can we get Train Stations that only build on one side of the rail?"
-date: "2022-05-06"
+title: "May 3rd, 2022 Livestream Q&A: Can we get Train Stations that only build on one side of the rail?"
+date: "2022-05-03"
 layout: transcript
 topics:
     - "features/buildings"
     - "features/requested-features"
     - "features/transportation/trains"
 ---
-# [May 6th, 2022 Livestream](../2022-05-06.md)
+# [May 3rd, 2022 Livestream](../2022-05-03.md)
 ## Q&A: Can we get Train Stations that only build on one side of the rail?
 https://www.youtube.com/watch?v=pAgK0EmyStU
 

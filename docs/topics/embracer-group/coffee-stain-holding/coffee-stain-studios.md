@@ -5,7 +5,7 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Embracer Group](../../../topics/embracer-group.md) > Coffee Stain Holding > Coffee Stain Studios
 
-## May 6th, 2022 Livestream
+## May 3rd, 2022 Livestream
 * [Q&A: Who chose the name of the game?](../../../transcriptions/yt-QRzKzsTgZ7U.md) [https://www.youtube.com/watch?v=QRzKzsTgZ7U](https://www.youtube.com/watch?v=QRzKzsTgZ7U)
 * [Q&A: Is everyone at Coffee Stain still remote?](../../../transcriptions/yt-cWdf9J4BkK4.md) [https://www.youtube.com/watch?v=cWdf9J4BkK4](https://www.youtube.com/watch?v=cWdf9J4BkK4)
 * [Community FYI: Make a save game with 10 thousand Lights & send it to Coffee Stain for profiling](../../../transcriptions/yt-57iR_NWN66g.md) [https://www.youtube.com/watch?v=57iR_NWN66g](https://www.youtube.com/watch?v=57iR_NWN66g)

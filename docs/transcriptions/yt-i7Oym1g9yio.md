@@ -8,7 +8,7 @@ topics:
 # [March 29th, 2022 Livestream](../2022-03-29.md)
 ## Q&A: Will we ever be able to equip all the Equipment at once?
 https://www.youtube.com/watch?v=i7Oym1g9yio
-This question was possibly replaced with a more recent answer: [May 6th, 2022 Livestream Q&A: Can we finally have two body slots?](./yt-ees_UTtAc7Q.md) [https://www.youtube.com/watch?v=ees_UTtAc7Q](https://www.youtube.com/watch?v=ees_UTtAc7Q)
+This question was possibly replaced with a more recent answer: [May 3rd, 2022 Livestream Q&A: Can we finally have two body slots?](./yt-ees_UTtAc7Q.md) [https://www.youtube.com/watch?v=ees_UTtAc7Q](https://www.youtube.com/watch?v=ees_UTtAc7Q)
 
 <details>
 <summary>This question may have been asked previously at least 18 other times, as recently as February 2022 and as early as May 2020.</summary>

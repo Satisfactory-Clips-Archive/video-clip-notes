@@ -1,6 +1,6 @@
 ---
-title: "May 6th, 2022 Livestream Snutt Talk: Spire Coast pillars"
-date: "2022-05-06"
+title: "May 3rd, 2022 Livestream Snutt Talk: Spire Coast pillars"
+date: "2022-05-03"
 layout: transcript
 topics:
     - "community"
@@ -9,7 +9,7 @@ topics:
     - "satisfactory-updates/teasers-and-trailers/update-6-teasers"
     - "satisfactory-updates/world-update"
 ---
-# [May 6th, 2022 Livestream](../2022-05-06.md)
+# [May 3rd, 2022 Livestream](../2022-05-03.md)
 ## Snutt Talk: Spire Coast pillars
 https://www.youtube.com/watch?v=e6LI3qSkWdQ
 
