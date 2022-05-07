@@ -8,13 +8,7 @@ topics:
 # [September 28th, 2021 Livestream](../2021-09-28.md)
 ## Q&A: Why can't we have a rideable Drone?
 https://www.youtube.com/watch?v=UmndxzpLEwk
-<details>
-<summary>This question may have been asked previously at least 3 other times, as recently as July 2021 and as early as May 2021.</summary>
-
-* [July 23rd, 2021 Dev Vlog Q&A: Will people be able to ride on the Drones?](./yt-FyOHDcxtEUA,454.1,503.56666666666666.md) [https://youtube.com/clip/UgzwgTuR5a3hUzkUnX54AaABCQ](https://youtube.com/clip/UgzwgTuR5a3hUzkUnX54AaABCQ)
-* [June 29th, 2021 Livestream Q&A: Will Drones ever be able to carry the Pioneer?](./yt-L0-x7Htlj14.md) [https://www.youtube.com/watch?v=L0-x7Htlj14](https://www.youtube.com/watch?v=L0-x7Htlj14)
-* [May 11th, 2021 Livestream Q&A: Ride Drones?](./yt-0tHe5NBul6M.md) [https://www.youtube.com/watch?v=0tHe5NBul6M](https://www.youtube.com/watch?v=0tHe5NBul6M)
-</details>
+This question was possibly duplicated with a more recent answer: [May 6th, 2022 Livestream Q&A: A lasso to ride the Drones?](./yt-HgCSlfqot3U.md) [https://www.youtube.com/watch?v=HgCSlfqot3U](https://www.youtube.com/watch?v=HgCSlfqot3U)
 
 
 ### Topics

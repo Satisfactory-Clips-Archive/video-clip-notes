@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../topics.md) > [Retail](../../topics/retail.md) > Steam Store
 * [Steam Release](../../topics/retail/steam-store/steam-release.md)
 
+## May 6th, 2022 Livestream
+* [Community FYI: Game runs well on Steam Deck](../../transcriptions/yt-1EVBrWXbZ74.md) [https://www.youtube.com/watch?v=1EVBrWXbZ74](https://www.youtube.com/watch?v=1EVBrWXbZ74)
+
 ## April 8th, 2022 Video
 * [Jace Talk: Steam, Epic, Humble](../../transcriptions/yt-o6ao9-UIZIQ,245.51193333333333,257.8242333333333.md) [https://youtube.com/clip/UgkxZ_7dMT6DXCRuCgJJrWk54r4Tkgbea98T](https://youtube.com/clip/UgkxZ_7dMT6DXCRuCgJJrWk54r4Tkgbea98T)
 

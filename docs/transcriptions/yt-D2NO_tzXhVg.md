@@ -8,7 +8,7 @@ topics:
 # [April 27th, 2021 Livestream](../2021-04-27.md)
 ## Q&A: Holster Weapon toolkey?
 https://www.youtube.com/watch?v=D2NO_tzXhVg
-This question was possibly duplicated with a more recent answer: [December 7th, 2021 Livestream Q&A: Weapon item holstering coming soon?](./yt-JzPjAXwcKx8.md) [https://www.youtube.com/watch?v=JzPjAXwcKx8](https://www.youtube.com/watch?v=JzPjAXwcKx8)
+This question was possibly duplicated with a more recent answer: [May 6th, 2022 Livestream Q&A: Can we get an empty hand slot so we don't have to unequip something every time?](./yt-t4iLd8jEqQ4.md) [https://www.youtube.com/watch?v=t4iLd8jEqQ4](https://www.youtube.com/watch?v=t4iLd8jEqQ4)
 
 
 ### Topics

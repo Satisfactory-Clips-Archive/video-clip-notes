@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Ben
 
+## May 6th, 2022 Video
+* [Waterfalls are all placeholders](../../transcriptions/yt-8BxYvOLpjGo,214.88133333333334,234.80123333333333.md) [https://youtube.com/clip/UgkxDazPdXZUVI3nANGO5Jcm_3cn3MWwFF52](https://youtube.com/clip/UgkxDazPdXZUVI3nANGO5Jcm_3cn3MWwFF52)
+
 ## April 22nd, 2022 Video
 * Snutt Talk: Ben's water changes [https://youtube.com/clip/UgkxaD0rJKYKWGhXACEAijg16q-YhZ8Yv8Nt](https://youtube.com/clip/UgkxaD0rJKYKWGhXACEAijg16q-YhZ8Yv8Nt)
 

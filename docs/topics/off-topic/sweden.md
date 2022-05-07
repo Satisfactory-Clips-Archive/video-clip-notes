@@ -8,6 +8,9 @@ date: Last Modified
 * [Skövde](../../topics/off-topic/sweden/skovde.md)
 * [Stockholm](../../topics/off-topic/sweden/stockholm.md)
 
+## May 6th, 2022 Livestream
+* [Q&A: Will there ever be left-handed Train tracks?](../../transcriptions/yt-3k5Ljyt3HWc.md) [https://www.youtube.com/watch?v=3k5Ljyt3HWc](https://www.youtube.com/watch?v=3k5Ljyt3HWc)
+
 ## April 26th, 2022 Livestream
 * [Mark joins the fight](../../transcriptions/yt-iw0CLqzO_vA.md) [https://www.youtube.com/watch?v=iw0CLqzO_vA](https://www.youtube.com/watch?v=iw0CLqzO_vA)
 

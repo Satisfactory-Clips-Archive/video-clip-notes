@@ -41,6 +41,11 @@ date: Last Modified
 * [Torsten](../topics/coffee-stainers/torsten.md)
 * [Uzu](../topics/coffee-stainers/uzu.md)
 
+## May 6th, 2022 Livestream
+* [Q&A: Is everyone at Coffee Stain still remote?](../transcriptions/yt-cWdf9J4BkK4.md) [https://www.youtube.com/watch?v=cWdf9J4BkK4](https://www.youtube.com/watch?v=cWdf9J4BkK4)
+* [Q&A: Are you going on holiday on/before/after Update 6?](../transcriptions/yt-yMmw7Z4V8a8.md) [https://www.youtube.com/watch?v=yMmw7Z4V8a8](https://www.youtube.com/watch?v=yMmw7Z4V8a8)
+* [Q&A: Drop it before vacation?](../transcriptions/yt-eqFFSvxX_I8.md) [https://www.youtube.com/watch?v=eqFFSvxX_I8](https://www.youtube.com/watch?v=eqFFSvxX_I8)
+
 ## April 22nd, 2022 Video
 * Snutt Talk: Why Update 6 is going to be different [https://youtube.com/embed/hkMTFsxa7rQ?autoplay=1&start=62&end=204](https://youtube.com/embed/hkMTFsxa7rQ?autoplay=1&start=62&end=204)
 * Snutt Talk: Wrapping up the video [https://youtube.com/clip/UgkxabdUzOGnq6bwmDf3iQvO6q6hnpa-QX7s](https://youtube.com/clip/UgkxabdUzOGnq6bwmDf3iQvO6q6hnpa-QX7s)

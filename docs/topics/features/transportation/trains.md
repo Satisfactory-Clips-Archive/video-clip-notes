@@ -6,6 +6,13 @@ date: Last Modified
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > Transportation > Trains
 * [Train Signals](../../../topics/features/transportation/trains/train-signals.md)
 
+## May 6th, 2022 Livestream
+* [State of Dev](../../../transcriptions/yt-HBdLi32e74Q.md) [https://www.youtube.com/watch?v=HBdLi32e74Q](https://www.youtube.com/watch?v=HBdLi32e74Q)
+* [Q&A: Can we get Train Stations that only build on one side of the rail?](../../../transcriptions/yt-pAgK0EmyStU.md) [https://www.youtube.com/watch?v=pAgK0EmyStU](https://www.youtube.com/watch?v=pAgK0EmyStU)
+* [Q&A: Will there ever be left-handed Train tracks?](../../../transcriptions/yt-3k5Ljyt3HWc.md) [https://www.youtube.com/watch?v=3k5Ljyt3HWc](https://www.youtube.com/watch?v=3k5Ljyt3HWc)
+* [Q&A: Where's the lighting on the Trains?](../../../transcriptions/yt-i7oydn5GaBk.md) [https://www.youtube.com/watch?v=i7oydn5GaBk](https://www.youtube.com/watch?v=i7oydn5GaBk)
+* [Q&A: Will there ever be a crossing section for Train tracks?](../../../transcriptions/yt-5q7DJMEmXVQ.md) [https://www.youtube.com/watch?v=5q7DJMEmXVQ](https://www.youtube.com/watch?v=5q7DJMEmXVQ)
+
 ## April 19th, 2022 Livestream
 * [Q&A: What is "Skövde C" for you, and why is it the first Station name in Satisfactory?](../../../transcriptions/yt-1a5Y1wJ2EP0.md) [https://www.youtube.com/watch?v=1a5Y1wJ2EP0](https://www.youtube.com/watch?v=1a5Y1wJ2EP0)
 

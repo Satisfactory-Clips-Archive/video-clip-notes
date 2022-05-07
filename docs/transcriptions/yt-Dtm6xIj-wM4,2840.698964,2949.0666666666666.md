@@ -10,6 +10,8 @@ topics:
 # [February 6th, 2019 Livestream](../2019-02-06.md)
 ## Q&A: How did you come up with the name?
 https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2840&end=2950
+This question was possibly duplicated with a more recent answer: [May 6th, 2022 Livestream Q&A: Who chose the name of the game?](./yt-QRzKzsTgZ7U.md) [https://www.youtube.com/watch?v=QRzKzsTgZ7U](https://www.youtube.com/watch?v=QRzKzsTgZ7U)
+
 
 ### Topics
 * [Coffee Stainers](../topics/coffee-stainers.md)

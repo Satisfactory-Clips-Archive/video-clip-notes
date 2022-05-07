@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Crafting](../../../topics/features/crafting.md) > Recipes
 * [Alternate Recipes](../../../topics/features/crafting/recipes/alternate-recipes.md)
 
+## May 6th, 2022 Livestream
+* [Q&A: Will Recipes get a do-over before 1.0?](../../../transcriptions/yt-aOsUEy25oPQ.md) [https://www.youtube.com/watch?v=aOsUEy25oPQ](https://www.youtube.com/watch?v=aOsUEy25oPQ)
+
 ## April 15th, 2022 Video
 * [Snutt & Stefan Talk: Assembly lines in Sprint 3](../../../transcriptions/yt-7I3NGAm3j_4,409.8761333333333,477.3101666666667.md) [https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=409&end=478](https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=409&end=478)
 * [Snutt & Stefan Talk: The core gameplay loop in Sprint 3](../../../transcriptions/yt-7I3NGAm3j_4,494.56073333333336,544.4439.md) [https://youtube.com/clip/UgkxZiaxmIYNVDuHgsevIaUR54c-1E53Oz0U](https://youtube.com/clip/UgkxZiaxmIYNVDuHgsevIaUR54c-1E53Oz0U)

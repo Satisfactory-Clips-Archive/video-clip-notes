@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildables](../../../topics/features/buildables.md) > Walls
 
+## May 6th, 2022 Livestream
+* [Q&A: Will Z-plane fighting finally be resolved?](../../../transcriptions/yt-_LVhzjfAywg.md) [https://www.youtube.com/watch?v=_LVhzjfAywg](https://www.youtube.com/watch?v=_LVhzjfAywg)
+* [Q&A: Any chance we could get an Update to architectural structures?](../../../transcriptions/yt-U5OI9pz9mnQ.md) [https://www.youtube.com/watch?v=U5OI9pz9mnQ](https://www.youtube.com/watch?v=U5OI9pz9mnQ)
+
 ## April 19th, 2022 Livestream
 * [Q&A: Do you plan to add Wall Holes for Belts, similar to Floor Holes for Foundations?](../../../transcriptions/yt-XKoMKtf1ZjY.md) [https://www.youtube.com/watch?v=XKoMKtf1ZjY](https://www.youtube.com/watch?v=XKoMKtf1ZjY)
 

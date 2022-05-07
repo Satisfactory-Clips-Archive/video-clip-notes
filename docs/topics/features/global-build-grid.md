@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Features](../../topics/features.md) > Global Build Grid
 
+## May 6th, 2022 Livestream
+* [Q&A: Will the Nodes in the World be aligned to the World Grid?](../../transcriptions/yt-fWqKfAnHUc4.md) [https://www.youtube.com/watch?v=fWqKfAnHUc4](https://www.youtube.com/watch?v=fWqKfAnHUc4)
+* [Q&A: Any chance for a Global Grid?](../../transcriptions/yt-4QETAtHO-TU.md) [https://www.youtube.com/watch?v=4QETAtHO-TU](https://www.youtube.com/watch?v=4QETAtHO-TU)
+
 ## November 19th, 2021 Video
 * [Jace Talk: Global Grid](../../transcriptions/yt-cn3e-m4a-hU,104.90480000000001,130.8307.md) [https://youtube.com/clip/UgkxYYKn50nMWydVSIirSpQ21Cn-8AV0AvOj](https://youtube.com/clip/UgkxYYKn50nMWydVSIirSpQ21Cn-8AV0AvOj)
 

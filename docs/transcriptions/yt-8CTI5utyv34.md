@@ -9,7 +9,7 @@ topics:
 # [September 21st, 2021 Livestream](../2021-09-21.md)
 ## Q&A: Can you tell us if we're going to have two exits on the Miners or if you're going to rebalance?
 https://www.youtube.com/watch?v=8CTI5utyv34
-This question was possibly duplicated with a more recent answer: [March 1st, 2022 Livestream Q&A: Can we get something to allow us to make full use of Mk.3 Miner?](./yt-0oveQsKkGDQ.md) [https://www.youtube.com/watch?v=0oveQsKkGDQ](https://www.youtube.com/watch?v=0oveQsKkGDQ)
+This question was possibly duplicated with a more recent answer: [May 6th, 2022 Livestream Q&A: Miner Mk.3?](./yt-TzqY5rtkxes.md) [https://www.youtube.com/watch?v=TzqY5rtkxes](https://www.youtube.com/watch?v=TzqY5rtkxes)
 
 
 ### Topics

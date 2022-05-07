@@ -10,7 +10,7 @@ topics:
 # [October 5th, 2021 Livestream](../2021-10-05.md)
 ## Q&A: Is there going to be a remedy for Mk.3 Miners being bottlenecked?
 https://www.youtube.com/watch?v=3m_vqCavleY
-This question was possibly duplicated with a more recent answer: [March 1st, 2022 Livestream Q&A: Can we get something to allow us to make full use of Mk.3 Miner?](./yt-0oveQsKkGDQ.md) [https://www.youtube.com/watch?v=0oveQsKkGDQ](https://www.youtube.com/watch?v=0oveQsKkGDQ)
+This question was possibly duplicated with a more recent answer: [May 6th, 2022 Livestream Q&A: Miner Mk.3?](./yt-TzqY5rtkxes.md) [https://www.youtube.com/watch?v=TzqY5rtkxes](https://www.youtube.com/watch?v=TzqY5rtkxes)
 
 
 ### Topics

@@ -14,6 +14,15 @@ date: Last Modified
 * [Steel](../../topics/environment/resources/steel.md)
 * [Water](../../topics/environment/resources/water.md)
 
+## May 6th, 2022 Livestream
+* [State of Dev](../../transcriptions/yt-HBdLi32e74Q.md) [https://www.youtube.com/watch?v=HBdLi32e74Q](https://www.youtube.com/watch?v=HBdLi32e74Q)
+* [Q&A: Will the Nodes in the World be aligned to the World Grid?](../../transcriptions/yt-fWqKfAnHUc4.md) [https://www.youtube.com/watch?v=fWqKfAnHUc4](https://www.youtube.com/watch?v=fWqKfAnHUc4)
+* [Q&A: What's the dev process of adding new kinds of products?](../../transcriptions/yt-LoMM9LzIjlo.md) [https://www.youtube.com/watch?v=LoMM9LzIjlo](https://www.youtube.com/watch?v=LoMM9LzIjlo)
+
+## May 6th, 2022 Video
+* [Resource nodes being moved](../../transcriptions/yt-8BxYvOLpjGo,73.90716666666667,117.28383333333333.md) [https://youtube.com/clip/Ugkxm5Y34siJBMYQNjXUF0nycUsGZ7ogFMMx](https://youtube.com/clip/Ugkxm5Y34siJBMYQNjXUF0nycUsGZ7ogFMMx)
+* [Resource nodes & Power Slugs](../../transcriptions/yt-8BxYvOLpjGo,117.3172,170.60376666666667.md) [https://youtube.com/clip/UgkxdoSTjRIaKwSDb_9pHxzosJ0CcTJCPfve](https://youtube.com/clip/UgkxdoSTjRIaKwSDb_9pHxzosJ0CcTJCPfve)
+
 ## April 15th, 2022 Video
 * [Snutt & Stefan Talk: Build Menu in Sprint 3](../../transcriptions/yt-7I3NGAm3j_4,322.1218,377.621266.md) [https://youtube.com/clip/UgkxjRfbjSnFDobtxbd4UB3a_qnhHr1B2xDO](https://youtube.com/clip/UgkxjRfbjSnFDobtxbd4UB3a_qnhHr1B2xDO)
 * [Snutt & Stefan Talk: Assembly lines in Sprint 3](../../transcriptions/yt-7I3NGAm3j_4,409.8761333333333,477.3101666666667.md) [https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=409&end=478](https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=409&end=478)

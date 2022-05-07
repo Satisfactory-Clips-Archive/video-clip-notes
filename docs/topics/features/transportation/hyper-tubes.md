@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > Transportation > Hyper Tubes
 
+## May 6th, 2022 Livestream
+* [Q&A: How do the shoes make it out of the Hyper Tube while travelling?](../../../transcriptions/yt-IAQE_SZ_Sd4.md) [https://www.youtube.com/watch?v=IAQE_SZ_Sd4](https://www.youtube.com/watch?v=IAQE_SZ_Sd4)
+* [Q&A: Are you making any changes that might impact the Hyper Tube cannons?](../../../transcriptions/yt-itcpnj8i8EA.md) [https://www.youtube.com/watch?v=itcpnj8i8EA](https://www.youtube.com/watch?v=itcpnj8i8EA)
+
 ## April 21st, 2022 Satisfactory x Portal Bonus Stream
 * [Community FYI: Portal in Satisfactory without portals](../../../transcriptions/yt-S0kkCYikV3A.md) [https://www.youtube.com/watch?v=S0kkCYikV3A](https://www.youtube.com/watch?v=S0kkCYikV3A)
 * [Jace Talk: Hypertube momentum](../../../transcriptions/yt-FoSf3FgfG1M.md) [https://www.youtube.com/watch?v=FoSf3FgfG1M](https://www.youtube.com/watch?v=FoSf3FgfG1M)

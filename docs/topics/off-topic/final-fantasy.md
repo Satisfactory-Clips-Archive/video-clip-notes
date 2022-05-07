@@ -6,6 +6,10 @@ date: Last Modified
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Final Fantasy
 * [The Official Satisfactory PODCAST](../../topics/off-topic/final-fantasy/the-official-satisfactory-podcast.md)
 
+## May 6th, 2022 Livestream
+* [Update 6: Spire Coast Teaser](../../transcriptions/yt-SVZCcGdt1eI.md) [https://www.youtube.com/watch?v=SVZCcGdt1eI](https://www.youtube.com/watch?v=SVZCcGdt1eI)
+* [Q&A: Blitzball, when?](../../transcriptions/yt-sgNUvf4Np84.md) [https://www.youtube.com/watch?v=sgNUvf4Np84](https://www.youtube.com/watch?v=sgNUvf4Np84)
+
 ## April 26th, 2022 Livestream
 * [Q&A: Does Mark play Final Fantasy?](../../transcriptions/yt-3h54CxHMJrQ.md) [https://www.youtube.com/watch?v=3h54CxHMJrQ](https://www.youtube.com/watch?v=3h54CxHMJrQ)
 

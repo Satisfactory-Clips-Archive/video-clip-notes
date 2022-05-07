@@ -8,7 +8,7 @@ topics:
 # [July 23rd, 2021 Dev Vlog](../2021-07-23.md)
 ## Q&A: Will people be able to ride on the Drones?
 https://youtube.com/clip/UgzwgTuR5a3hUzkUnX54AaABCQ
-This question was possibly duplicated with a more recent answer: [September 28th, 2021 Livestream Q&A: Why can't we have a rideable Drone?](./yt-UmndxzpLEwk.md) [https://www.youtube.com/watch?v=UmndxzpLEwk](https://www.youtube.com/watch?v=UmndxzpLEwk)
+This question was possibly duplicated with a more recent answer: [May 6th, 2022 Livestream Q&A: A lasso to ride the Drones?](./yt-HgCSlfqot3U.md) [https://www.youtube.com/watch?v=HgCSlfqot3U](https://www.youtube.com/watch?v=HgCSlfqot3U)
 
 
 ### Topics

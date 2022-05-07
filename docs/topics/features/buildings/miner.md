@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > Miner
 
+## May 6th, 2022 Livestream
+* [Q&A: Miner Mk.3?](../../../transcriptions/yt-TzqY5rtkxes.md) [https://www.youtube.com/watch?v=TzqY5rtkxes](https://www.youtube.com/watch?v=TzqY5rtkxes)
+
 ## April 26th, 2022 Livestream
 * [Mark joins the fight](../../../transcriptions/yt-iw0CLqzO_vA.md) [https://www.youtube.com/watch?v=iw0CLqzO_vA](https://www.youtube.com/watch?v=iw0CLqzO_vA)
 

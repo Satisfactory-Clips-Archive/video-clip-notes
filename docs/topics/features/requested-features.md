@@ -12,6 +12,26 @@ date: Last Modified
 * [Pollution](../../topics/features/requested-features/pollution.md)
 * [Third-person View](../../topics/features/requested-features/third-person-view.md)
 
+## May 6th, 2022 Livestream
+* [Q&A: Controller support news?](../../transcriptions/yt-S-jHgE-Tv2U.md) [https://www.youtube.com/watch?v=S-jHgE-Tv2U](https://www.youtube.com/watch?v=S-jHgE-Tv2U)
+* [Q&A: Do you have plans to develop the game for Console?](../../transcriptions/yt-eQn0OjZHj_w.md) [https://www.youtube.com/watch?v=eQn0OjZHj_w](https://www.youtube.com/watch?v=eQn0OjZHj_w)
+* [Q&A: Blitzball, when?](../../transcriptions/yt-sgNUvf4Np84.md) [https://www.youtube.com/watch?v=sgNUvf4Np84](https://www.youtube.com/watch?v=sgNUvf4Np84)
+* [Q&A: Will the Nodes in the World be aligned to the World Grid?](../../transcriptions/yt-fWqKfAnHUc4.md) [https://www.youtube.com/watch?v=fWqKfAnHUc4](https://www.youtube.com/watch?v=fWqKfAnHUc4)
+* [Q&A: Will we be able to capture wild beasts & farm them for milk & eggs?](../../transcriptions/yt-1-qnuaEigs8.md) [https://www.youtube.com/watch?v=1-qnuaEigs8](https://www.youtube.com/watch?v=1-qnuaEigs8)
+* [Q&A: Was the water hole fixed in the Spire Coast where you can drop to your death in the water?](../../transcriptions/yt-6t2kbzZlnJc.md) [https://www.youtube.com/watch?v=6t2kbzZlnJc](https://www.youtube.com/watch?v=6t2kbzZlnJc)
+* [Q&A: Any chance for automatable Boats?](../../transcriptions/yt-p36Hn2DZzSU.md) [https://www.youtube.com/watch?v=p36Hn2DZzSU](https://www.youtube.com/watch?v=p36Hn2DZzSU)
+* [Q&A: Do we have DLSS- if not, may we?](../../transcriptions/yt-99SoH5ZXCO4.md) [https://www.youtube.com/watch?v=99SoH5ZXCO4](https://www.youtube.com/watch?v=99SoH5ZXCO4)
+* [Q&A: Can we get Train Stations that only build on one side of the rail?](../../transcriptions/yt-pAgK0EmyStU.md) [https://www.youtube.com/watch?v=pAgK0EmyStU](https://www.youtube.com/watch?v=pAgK0EmyStU)
+* [Q&A: Will Gas Masks ever work when you're in Vehicles?](../../transcriptions/yt-61iyMsA4_2w.md) [https://www.youtube.com/watch?v=61iyMsA4_2w](https://www.youtube.com/watch?v=61iyMsA4_2w)
+* [Q&A: A lasso to ride the Drones?](../../transcriptions/yt-HgCSlfqot3U.md) [https://www.youtube.com/watch?v=HgCSlfqot3U](https://www.youtube.com/watch?v=HgCSlfqot3U)
+* [Q&A: Are you making any changes that might impact the Hyper Tube cannons?](../../transcriptions/yt-itcpnj8i8EA.md) [https://www.youtube.com/watch?v=itcpnj8i8EA](https://www.youtube.com/watch?v=itcpnj8i8EA)
+* [Q&A: Can we get super-smart Programmable Splitters?](../../transcriptions/yt-TBhZw7wHJp0.md) [https://www.youtube.com/watch?v=TBhZw7wHJp0](https://www.youtube.com/watch?v=TBhZw7wHJp0)
+* [Q&A: Any chance we could get an Update to architectural structures?](../../transcriptions/yt-U5OI9pz9mnQ.md) [https://www.youtube.com/watch?v=U5OI9pz9mnQ](https://www.youtube.com/watch?v=U5OI9pz9mnQ)
+* [Q&A: Will there ever be left-handed Train tracks?](../../transcriptions/yt-3k5Ljyt3HWc.md) [https://www.youtube.com/watch?v=3k5Ljyt3HWc](https://www.youtube.com/watch?v=3k5Ljyt3HWc)
+* [Q&A: Where's the lighting on the Trains?](../../transcriptions/yt-i7oydn5GaBk.md) [https://www.youtube.com/watch?v=i7oydn5GaBk](https://www.youtube.com/watch?v=i7oydn5GaBk)
+* [Q&A: Any progress optimising Lights?](../../transcriptions/yt-c8C8vBJOMno.md) [https://www.youtube.com/watch?v=c8C8vBJOMno](https://www.youtube.com/watch?v=c8C8vBJOMno)
+* [Q&A: Will there ever be a crossing section for Train tracks?](../../transcriptions/yt-5q7DJMEmXVQ.md) [https://www.youtube.com/watch?v=5q7DJMEmXVQ](https://www.youtube.com/watch?v=5q7DJMEmXVQ)
+
 ## April 26th, 2022 Livestream
 * [Q&A: Can Crash Sites fall as we're playing?](../../transcriptions/yt-AQxtLD0pdpk.md) [https://www.youtube.com/watch?v=AQxtLD0pdpk](https://www.youtube.com/watch?v=AQxtLD0pdpk)
 * [Q&A: Couldn't you make the UI more clear about Overclocking?](../../transcriptions/yt-BWHZtO7XcI0.md) [https://www.youtube.com/watch?v=BWHZtO7XcI0](https://www.youtube.com/watch?v=BWHZtO7XcI0)

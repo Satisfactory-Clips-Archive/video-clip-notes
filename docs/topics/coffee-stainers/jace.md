@@ -10,6 +10,9 @@ date: Last Modified
 * [Juice Velvet](../../topics/coffee-stainers/jace/juice-velvet.md)
 * [Robo Jace](../../topics/coffee-stainers/jace/robo-jace.md)
 
+## May 6th, 2022 Livestream
+* [Q&A: Who chose the name of the game?](../../transcriptions/yt-QRzKzsTgZ7U.md) [https://www.youtube.com/watch?v=QRzKzsTgZ7U](https://www.youtube.com/watch?v=QRzKzsTgZ7U)
+
 ## April 26th, 2022 Livestream
 * [Q&A: I thought Jace said he wasn't on vacation?](../../transcriptions/yt-rcWAAQXHwdY.md) [https://www.youtube.com/watch?v=rcWAAQXHwdY](https://www.youtube.com/watch?v=rcWAAQXHwdY)
 

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > Possible Features > Decor
 
+## May 6th, 2022 Livestream
+* [Q&A: Any chance we could get an Update to architectural structures?](../../../transcriptions/yt-U5OI9pz9mnQ.md) [https://www.youtube.com/watch?v=U5OI9pz9mnQ](https://www.youtube.com/watch?v=U5OI9pz9mnQ)
+
 ## April 15th, 2022 Video
 * [Snutt & Jace Talk: Decor in Sprint 26](../../../transcriptions/yt-7I3NGAm3j_4,2244.6424,2285.6500333333333.md) [https://youtube.com/clip/UgkxfxGzx-UW5rY1UN-kFjxqRifFrnuzkkUZ](https://youtube.com/clip/UgkxfxGzx-UW5rY1UN-kFjxqRifFrnuzkkUZ)
 

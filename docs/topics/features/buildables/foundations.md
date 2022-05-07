@@ -7,6 +7,10 @@ date: Last Modified
 * [Cheatcrete](../../../topics/features/buildables/foundations/cheatcrete.md)
 * [Foundation Stencils](../../../topics/features/buildables/foundations/stencils.md)
 
+## May 6th, 2022 Livestream
+* [Q&A: Will Z-plane fighting finally be resolved?](../../../transcriptions/yt-_LVhzjfAywg.md) [https://www.youtube.com/watch?v=_LVhzjfAywg](https://www.youtube.com/watch?v=_LVhzjfAywg)
+* [Q&A: Any chance we could get an Update to architectural structures?](../../../transcriptions/yt-U5OI9pz9mnQ.md) [https://www.youtube.com/watch?v=U5OI9pz9mnQ](https://www.youtube.com/watch?v=U5OI9pz9mnQ)
+
 ## April 15th, 2022 Video
 * [Snutt & Stefan Talk: Equipment in Sprint 8](../../../transcriptions/yt-7I3NGAm3j_4,1085.8514333333333,1147.4796666666666.md) [https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=1085&end=1148](https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=1085&end=1148)
 * [Snutt & Jace Talk: Decor in Sprint 26](../../../transcriptions/yt-7I3NGAm3j_4,2244.6424,2285.6500333333333.md) [https://youtube.com/clip/UgkxfxGzx-UW5rY1UN-kFjxqRifFrnuzkkUZ](https://youtube.com/clip/UgkxfxGzx-UW5rY1UN-kFjxqRifFrnuzkkUZ)

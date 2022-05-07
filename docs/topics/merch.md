@@ -7,6 +7,9 @@ date: Last Modified
 * [EU Merch Store](../topics/merch/eu-merch-store.md)
 * [Merch Prototypes](../topics/merch/merch-prototypes.md)
 
+## May 6th, 2022 Livestream
+* [Q&A: State of Lego?](../transcriptions/yt-x3o6NZdrup0.md) [https://www.youtube.com/watch?v=x3o6NZdrup0](https://www.youtube.com/watch?v=x3o6NZdrup0)
+
 ## April 19th, 2022 Livestream
 * [Community FYI: We've met the Lego goal](../transcriptions/yt-sctiD3anTDg.md) [https://www.youtube.com/watch?v=sctiD3anTDg](https://www.youtube.com/watch?v=sctiD3anTDg)
 * [Q&A: Will you consider working with alternative bricks, for example bluebrixx instead of Lego?](../transcriptions/yt-uKrwveLAX2A.md) [https://www.youtube.com/watch?v=uKrwveLAX2A](https://www.youtube.com/watch?v=uKrwveLAX2A)

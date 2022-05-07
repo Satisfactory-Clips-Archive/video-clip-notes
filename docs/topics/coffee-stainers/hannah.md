@@ -6,6 +6,13 @@ date: Last Modified
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Hannah
 * [Coffee Stainers can't pronounce Hannah's last name](../../topics/coffee-stainers/hannah/coffee-stainers-cant-pronounce-hannahs-last-name.md)
 
+## May 6th, 2022 Livestream
+* [Update 6: Spire Coast Teaser](../../transcriptions/yt-SVZCcGdt1eI.md) [https://www.youtube.com/watch?v=SVZCcGdt1eI](https://www.youtube.com/watch?v=SVZCcGdt1eI)
+* [Q&A: Will there be Water Exploration?](../../transcriptions/yt-TXa1LF9la2E.md) [https://www.youtube.com/watch?v=TXa1LF9la2E](https://www.youtube.com/watch?v=TXa1LF9la2E)
+
+## May 6th, 2022 Video
+* [Desert Canyons](../../transcriptions/yt-8BxYvOLpjGo,357.6906666666667,370.70366666666666.md) [https://youtube.com/clip/UgkxwKXf53eJlceSi72nKopRDT9Klkp7gHOO](https://youtube.com/clip/UgkxwKXf53eJlceSi72nKopRDT9Klkp7gHOO)
+
 ## April 26th, 2022 Livestream
 * [Mark joins the fight](../../transcriptions/yt-iw0CLqzO_vA.md) [https://www.youtube.com/watch?v=iw0CLqzO_vA](https://www.youtube.com/watch?v=iw0CLqzO_vA)
 

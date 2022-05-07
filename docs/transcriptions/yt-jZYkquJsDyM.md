@@ -8,7 +8,7 @@ topics:
 # [August 17th, 2021 Livestream](../2021-08-17.md)
 ## Q&A: Any chance for improved controller support?
 https://www.youtube.com/watch?v=jZYkquJsDyM
-This question was possibly duplicated with a more recent answer: [April 12th, 2022 Livestream Q&A: Are controller questions allowed?](./yt-S1kumeDF79c.md) [https://www.youtube.com/watch?v=S1kumeDF79c](https://www.youtube.com/watch?v=S1kumeDF79c)
+This question was possibly duplicated with a more recent answer: [May 6th, 2022 Livestream Q&A: Controller support news?](./yt-S-jHgE-Tv2U.md) [https://www.youtube.com/watch?v=S-jHgE-Tv2U](https://www.youtube.com/watch?v=S-jHgE-Tv2U)
 
 
 ### Topics

@@ -11,6 +11,9 @@ date: Last Modified
 * [Resources](../topics/environment/resources.md)
 * [World Map](../topics/environment/world-map.md)
 
+## May 6th, 2022 Livestream
+* [Q&A: Was the water hole fixed in the Spire Coast where you can drop to your death in the water?](../transcriptions/yt-6t2kbzZlnJc.md) [https://www.youtube.com/watch?v=6t2kbzZlnJc](https://www.youtube.com/watch?v=6t2kbzZlnJc)
+
 ## April 22nd, 2022 Video
 * Environmental Changes [https://youtube.com/embed/hkMTFsxa7rQ?autoplay=1&start=304&end=376](https://youtube.com/embed/hkMTFsxa7rQ?autoplay=1&start=304&end=376)
 * Snutt Talk: Ben's water changes [https://youtube.com/clip/UgkxaD0rJKYKWGhXACEAijg16q-YhZ8Yv8Nt](https://youtube.com/clip/UgkxaD0rJKYKWGhXACEAijg16q-YhZ8Yv8Nt)

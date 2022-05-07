@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Terrible Jokes
 
+## May 6th, 2022 Livestream
+* [Q&A: How do the shoes make it out of the Hyper Tube while travelling?](../../transcriptions/yt-IAQE_SZ_Sd4.md) [https://www.youtube.com/watch?v=IAQE_SZ_Sd4](https://www.youtube.com/watch?v=IAQE_SZ_Sd4)
+
 ## December 7th, 2021 Livestream
 * [Community FYI: Make the Pioneer a furry, add paws button](../../transcriptions/yt-qGD49HDWHdY.md) [https://www.youtube.com/watch?v=qGD49HDWHdY](https://www.youtube.com/watch?v=qGD49HDWHdY)
 

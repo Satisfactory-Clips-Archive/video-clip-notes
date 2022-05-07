@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > Space Elevator
 * [Food Court](../../../topics/features/buildings/space-elevator/food-court.md)
 
+## May 6th, 2022 Livestream
+* [Snutt Talk: Speedrunning community events](../../../transcriptions/yt-ILAb0G9-cA4.md) [https://www.youtube.com/watch?v=ILAb0G9-cA4](https://www.youtube.com/watch?v=ILAb0G9-cA4)
+
 ## April 5th, 2022 Livestream
 * [Snutt & Jace Talk: Multiplayer 4Package% Speedrunning](../../../transcriptions/yt-rbHZJS33ZJc.md) [https://www.youtube.com/watch?v=rbHZJS33ZJc](https://www.youtube.com/watch?v=rbHZJS33ZJc)
 

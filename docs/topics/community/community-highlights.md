@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Community Highlights
 
+## May 6th, 2022 Livestream
+* [Snutt Talk: Spire Coast pillars](../../transcriptions/yt-e6LI3qSkWdQ.md) [https://www.youtube.com/watch?v=e6LI3qSkWdQ](https://www.youtube.com/watch?v=e6LI3qSkWdQ)
+
 ## April 21st, 2022 Satisfactory x Portal Bonus Stream
 * [Jace Talk: Mods were used to create the map, but they are not required to play](../../transcriptions/yt-_fgRWqVhzHc.md) [https://www.youtube.com/watch?v=_fgRWqVhzHc](https://www.youtube.com/watch?v=_fgRWqVhzHc)
 * [Jace Talk: Satisfactory x Portal map rules](../../transcriptions/yt-BWSJlEh6O8M.md) [https://www.youtube.com/watch?v=BWSJlEh6O8M](https://www.youtube.com/watch?v=BWSJlEh6O8M)

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Factorio
 
+## May 6th, 2022 Livestream
+* [Q&A: Have you ever contacted the Factorio developers?](../../transcriptions/yt-Qf-PsIDJZWU.md) [https://www.youtube.com/watch?v=Qf-PsIDJZWU](https://www.youtube.com/watch?v=Qf-PsIDJZWU)
+
 ## February 8th, 2022 Livestream
 * [Q&A: In light of Factorio's news about their expansion, do you have any plans for post-1.0 content?](../../transcriptions/yt-P7I5wjusdjs.md) [https://www.youtube.com/watch?v=P7I5wjusdjs](https://www.youtube.com/watch?v=P7I5wjusdjs)
 

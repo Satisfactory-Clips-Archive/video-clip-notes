@@ -8,7 +8,7 @@ topics:
 # [February 11th, 2020 Livestream](../2020-02-11.md)
 ## Q&A: Is Satisfactory going to be on PS5/PS6?
 https://www.youtube.com/watch?v=1v4Mho5Uh9I
-This question was possibly duplicated with a more recent answer: [April 12th, 2022 Livestream Q&A: Do you already have plans to go to XBox/PS5?](./yt-xM0G0PWaCnc.md) [https://www.youtube.com/watch?v=xM0G0PWaCnc](https://www.youtube.com/watch?v=xM0G0PWaCnc)
+This question was possibly duplicated with a more recent answer: [May 6th, 2022 Livestream Q&A: Do you have plans to develop the game for Console?](./yt-eQn0OjZHj_w.md) [https://www.youtube.com/watch?v=eQn0OjZHj_w](https://www.youtube.com/watch?v=eQn0OjZHj_w)
 
 
 ### Topics

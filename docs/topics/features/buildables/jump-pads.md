@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildables](../../../topics/features/buildables.md) > Jump Pads
 
+## May 6th, 2022 Livestream
+* [Q&A: Do you approve of the Lizard Doggo Nuclear Waste disposal method?](../../../transcriptions/yt-aMX03pHxmII.md) [https://www.youtube.com/watch?v=aMX03pHxmII](https://www.youtube.com/watch?v=aMX03pHxmII)
+
 ## April 21st, 2022 Satisfactory x Portal Bonus Stream
 * [Community FYI: I could never use the Jump Pads like that, for some reason I always miss them](../../../transcriptions/yt-iFByYWXZB10.md) [https://www.youtube.com/watch?v=iFByYWXZB10](https://www.youtube.com/watch?v=iFByYWXZB10)
 

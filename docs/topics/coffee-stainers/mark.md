@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Mark
 
+## May 6th, 2022 Livestream
+* [Q&A: What's the dev process of adding new kinds of products?](../../transcriptions/yt-LoMM9LzIjlo.md) [https://www.youtube.com/watch?v=LoMM9LzIjlo](https://www.youtube.com/watch?v=LoMM9LzIjlo)
+
 ## April 26th, 2022 Livestream
 * [Mark joins the fight](../../transcriptions/yt-iw0CLqzO_vA.md) [https://www.youtube.com/watch?v=iw0CLqzO_vA](https://www.youtube.com/watch?v=iw0CLqzO_vA)
 * [Q&A: Does Mark play Final Fantasy?](../../transcriptions/yt-3h54CxHMJrQ.md) [https://www.youtube.com/watch?v=3h54CxHMJrQ](https://www.youtube.com/watch?v=3h54CxHMJrQ)

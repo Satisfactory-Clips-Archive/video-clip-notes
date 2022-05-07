@@ -106,6 +106,7 @@ date: Last Modified
 ## [Biomes](./topics/environment/biomes.md)
 * [Blue Crater](./topics/environment/biomes/blue-crater.md)
 * [Caves](./topics/environment/biomes/caves.md)
+* [Desert Canyons](./topics/environment/biomes/desert-canyons.md)
 * [Dune Desert](./topics/environment/biomes/dune-desert.md)
 * [Grass Fields](./topics/environment/biomes/grass-fields.md)
 * [Northern Forest](./topics/environment/biomes/northern-forest.md)
@@ -114,6 +115,7 @@ date: Last Modified
 * [Rocky Desert](./topics/environment/biomes/rocky-desert.md)
 * [Spire Coast](./topics/environment/biomes/spire-coast.md)
 * [Swamp](./topics/environment/biomes/swamp.md)
+* [The Great Canyon](./topics/environment/biomes/the-great-canyon.md)
 
 ### Unplanned Biomes
 * [Snow](./topics/environment/biomes/unplanned-biomes/snow.md)

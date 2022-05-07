@@ -9,6 +9,9 @@ date: Last Modified
 * [GeForce Now](../topics/retail/geforce-now.md)
 * [Steam Store](../topics/retail/steam-store.md)
 
+## May 6th, 2022 Livestream
+* [Q&A: I'd have to buy another copy?](../transcriptions/yt-t_x_6rrsRAY.md) [https://www.youtube.com/watch?v=t_x_6rrsRAY](https://www.youtube.com/watch?v=t_x_6rrsRAY)
+
 ## April 8th, 2022 Video
 * [Jace Talk: Steam, Epic, Humble](../transcriptions/yt-o6ao9-UIZIQ,245.51193333333333,257.8242333333333.md) [https://youtube.com/clip/UgkxZ_7dMT6DXCRuCgJJrWk54r4Tkgbea98T](https://youtube.com/clip/UgkxZ_7dMT6DXCRuCgJJrWk54r4Tkgbea98T)
 

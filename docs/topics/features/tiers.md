@@ -16,6 +16,10 @@ date: Last Modified
 * [Tier 9](../../topics/features/tiers/tier-9.md)
 * [Tier 10](../../topics/features/tiers/tier-10.md)
 
+## May 6th, 2022 Livestream
+* [Snutt Talk: Speedrunning community events](../../transcriptions/yt-ILAb0G9-cA4.md) [https://www.youtube.com/watch?v=ILAb0G9-cA4](https://www.youtube.com/watch?v=ILAb0G9-cA4)
+* [Q&A: Will there be any more Tiers in Update 6?](../../transcriptions/yt-0oentB1QwFo.md) [https://www.youtube.com/watch?v=0oentB1QwFo](https://www.youtube.com/watch?v=0oentB1QwFo)
+
 ## April 15th, 2022 Video
 * [Snutt & Stefan Talk: Progression in Sprint 12](../../transcriptions/yt-7I3NGAm3j_4,1315.8145,1405.5708333333334.md) [https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=1315&end=1406](https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=1315&end=1406)
 * [Snutt & Stefan Talk: Trading Post in Sprint 20](../../transcriptions/yt-7I3NGAm3j_4,1497.8630333333333,1600.1652333333334.md) [https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=1497&end=1601](https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=1497&end=1601)

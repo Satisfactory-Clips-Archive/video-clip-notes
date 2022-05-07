@@ -8,7 +8,7 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Controller support?
 https://www.youtube.com/watch?v=XrsD3h62ils
-This question was possibly duplicated with a more recent answer: [April 12th, 2022 Livestream Q&A: Are controller questions allowed?](./yt-S1kumeDF79c.md) [https://www.youtube.com/watch?v=S1kumeDF79c](https://www.youtube.com/watch?v=S1kumeDF79c)
+This question was possibly duplicated with a more recent answer: [May 6th, 2022 Livestream Q&A: Controller support news?](./yt-S-jHgE-Tv2U.md) [https://www.youtube.com/watch?v=S-jHgE-Tv2U](https://www.youtube.com/watch?v=S-jHgE-Tv2U)
 
 
 ### Topics

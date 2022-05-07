@@ -5,6 +5,25 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Pending > Satisfactory Update 6
 
+## May 6th, 2022 Livestream
+* [Update 6: Spire Coast Teaser](../../../transcriptions/yt-SVZCcGdt1eI.md) [https://www.youtube.com/watch?v=SVZCcGdt1eI](https://www.youtube.com/watch?v=SVZCcGdt1eI)
+* [Update 6: Future Updates & Linear Overclocking change](../../../transcriptions/yt-1kq0M7R-E_c.md) [https://www.youtube.com/watch?v=1kq0M7R-E_c](https://www.youtube.com/watch?v=1kq0M7R-E_c)
+* [Q&A: Are the Oil patches still in the Spire Coast?](../../../transcriptions/yt-V9tMeZUwtMg.md) [https://www.youtube.com/watch?v=V9tMeZUwtMg](https://www.youtube.com/watch?v=V9tMeZUwtMg)
+* [Q&A: Where can we actually vote against/for Overclock rework?](../../../transcriptions/yt-Tz5kJ3tZzVc.md) [https://www.youtube.com/watch?v=Tz5kJ3tZzVc](https://www.youtube.com/watch?v=Tz5kJ3tZzVc)
+* [Q&A: Will there be a Video this week?](../../../transcriptions/yt-iNRuA1fm3vk.md) [https://www.youtube.com/watch?v=iNRuA1fm3vk](https://www.youtube.com/watch?v=iNRuA1fm3vk)
+* [Q&A: Was the water hole fixed in the Spire Coast where you can drop to your death in the water?](../../../transcriptions/yt-6t2kbzZlnJc.md) [https://www.youtube.com/watch?v=6t2kbzZlnJc](https://www.youtube.com/watch?v=6t2kbzZlnJc)
+* [Q&A: Will there be any more Tiers in Update 6?](../../../transcriptions/yt-0oentB1QwFo.md) [https://www.youtube.com/watch?v=0oentB1QwFo](https://www.youtube.com/watch?v=0oentB1QwFo)
+* [Q&A: Can we finally have two body slots?](../../../transcriptions/yt-ees_UTtAc7Q.md) [https://www.youtube.com/watch?v=ees_UTtAc7Q](https://www.youtube.com/watch?v=ees_UTtAc7Q)
+* [Q&A: Any additional Lore coming in Update 6?](../../../transcriptions/yt-ialtYucCJvc.md) [https://www.youtube.com/watch?v=ialtYucCJvc](https://www.youtube.com/watch?v=ialtYucCJvc)
+* [Q&A: Are you going on holiday on/before/after Update 6?](../../../transcriptions/yt-yMmw7Z4V8a8.md) [https://www.youtube.com/watch?v=yMmw7Z4V8a8](https://www.youtube.com/watch?v=yMmw7Z4V8a8)
+* [Q&A: Will there be any changes to drop pods & Hard Drives in Update 6?](../../../transcriptions/yt-JbGdSC0uqg0.md) [https://www.youtube.com/watch?v=JbGdSC0uqg0](https://www.youtube.com/watch?v=JbGdSC0uqg0)
+* [Q&A: Drop it before vacation?](../../../transcriptions/yt-eqFFSvxX_I8.md) [https://www.youtube.com/watch?v=eqFFSvxX_I8](https://www.youtube.com/watch?v=eqFFSvxX_I8)
+* [Q&A: Will the Update to Spire Coast also update the Desert mesa area?](../../../transcriptions/yt-3fvCJNbYSEw.md) [https://www.youtube.com/watch?v=3fvCJNbYSEw](https://www.youtube.com/watch?v=3fvCJNbYSEw)
+
+## May 6th, 2022 Video
+* [Resource nodes being moved](../../../transcriptions/yt-8BxYvOLpjGo,73.90716666666667,117.28383333333333.md) [https://youtube.com/clip/Ugkxm5Y34siJBMYQNjXUF0nycUsGZ7ogFMMx](https://youtube.com/clip/Ugkxm5Y34siJBMYQNjXUF0nycUsGZ7ogFMMx)
+* [Resource nodes & Power Slugs](../../../transcriptions/yt-8BxYvOLpjGo,117.3172,170.60376666666667.md) [https://youtube.com/clip/UgkxdoSTjRIaKwSDb_9pHxzosJ0CcTJCPfve](https://youtube.com/clip/UgkxdoSTjRIaKwSDb_9pHxzosJ0CcTJCPfve)
+
 ## April 26th, 2022 Livestream
 * [State of Dave](../../../transcriptions/yt-komFyjm03kg.md) [https://www.youtube.com/watch?v=komFyjm03kg](https://www.youtube.com/watch?v=komFyjm03kg)
 * [Mark joins the fight](../../../transcriptions/yt-iw0CLqzO_vA.md) [https://www.youtube.com/watch?v=iw0CLqzO_vA](https://www.youtube.com/watch?v=iw0CLqzO_vA)

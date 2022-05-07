@@ -25,6 +25,14 @@ date: Last Modified
 * [Vilsol](../topics/community/vilsol.md)
 * [Wiki](../topics/community/wiki.md)
 
+## May 6th, 2022 Livestream
+* [Snutt Talk: Spire Coast pillars](../transcriptions/yt-e6LI3qSkWdQ.md) [https://www.youtube.com/watch?v=e6LI3qSkWdQ](https://www.youtube.com/watch?v=e6LI3qSkWdQ)
+* [Snutt Talk: Speedrunning community events](../transcriptions/yt-ILAb0G9-cA4.md) [https://www.youtube.com/watch?v=ILAb0G9-cA4](https://www.youtube.com/watch?v=ILAb0G9-cA4)
+* [Q&A: State of Lego?](../transcriptions/yt-x3o6NZdrup0.md) [https://www.youtube.com/watch?v=x3o6NZdrup0](https://www.youtube.com/watch?v=x3o6NZdrup0)
+
+## May 6th, 2022 Video
+* [Community response to waterfalls](../transcriptions/yt-8BxYvOLpjGo,234.8346,259.52593333333334.md) [https://youtube.com/clip/UgkxeqSrjXelp49q-o7m_UySg8b-YYa2KXob](https://youtube.com/clip/UgkxeqSrjXelp49q-o7m_UySg8b-YYa2KXob)
+
 ## April 22nd, 2022 Video
 * Snutt Talk: Soliciting Community feedback on the proposed change [https://youtube.com/clip/UgkxeqkddoAOw0lxM0x-rCuv_gHq3waSojNm](https://youtube.com/clip/UgkxeqkddoAOw0lxM0x-rCuv_gHq3waSojNm)
 * Snutt Talk: Still a lot of things to show & discuss [https://youtube.com/clip/UgkxuGOdvjzf6AAAk1hDroMr5mqoBK-2f4SJ](https://youtube.com/clip/UgkxuGOdvjzf6AAAk1hDroMr5mqoBK-2f4SJ)

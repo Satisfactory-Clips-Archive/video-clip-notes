@@ -26,6 +26,10 @@ date: Last Modified
 * [The HUB](../../topics/features/buildings/the-hub.md)
 * [Water Extractor](../../topics/features/buildings/water-extractor.md)
 
+## May 6th, 2022 Livestream
+* [State of Dev](../../transcriptions/yt-HBdLi32e74Q.md) [https://www.youtube.com/watch?v=HBdLi32e74Q](https://www.youtube.com/watch?v=HBdLi32e74Q)
+* [Q&A: Can we get Train Stations that only build on one side of the rail?](../../transcriptions/yt-pAgK0EmyStU.md) [https://www.youtube.com/watch?v=pAgK0EmyStU](https://www.youtube.com/watch?v=pAgK0EmyStU)
+
 ## April 26th, 2022 Livestream
 * [Q&A: Can Crash Sites fall as we're playing?](../../transcriptions/yt-AQxtLD0pdpk.md) [https://www.youtube.com/watch?v=AQxtLD0pdpk](https://www.youtube.com/watch?v=AQxtLD0pdpk)
 * [Community FYI: Imagine a ship wreck falling on your factory and destroys everything](../../transcriptions/yt-2_pnQp9mNbs.md) [https://www.youtube.com/watch?v=2_pnQp9mNbs](https://www.youtube.com/watch?v=2_pnQp9mNbs)

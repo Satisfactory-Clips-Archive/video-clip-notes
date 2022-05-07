@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > [Crafting](../../../../topics/features/crafting.md) > [Recipes](../../../../topics/features/crafting/recipes.md) > Alternate Recipes
 
+## May 6th, 2022 Livestream
+* [Q&A: Will there be any changes to drop pods & Hard Drives in Update 6?](../../../../transcriptions/yt-JbGdSC0uqg0.md) [https://www.youtube.com/watch?v=JbGdSC0uqg0](https://www.youtube.com/watch?v=JbGdSC0uqg0)
+
 ## April 26th, 2022 Livestream
 * [Q&A: Can Crash Sites fall as we're playing?](../../../../transcriptions/yt-AQxtLD0pdpk.md) [https://www.youtube.com/watch?v=AQxtLD0pdpk](https://www.youtube.com/watch?v=AQxtLD0pdpk)
 * [Community FYI: Imagine a ship wreck falling on your factory and destroys everything](../../../../transcriptions/yt-2_pnQp9mNbs.md) [https://www.youtube.com/watch?v=2_pnQp9mNbs](https://www.youtube.com/watch?v=2_pnQp9mNbs)

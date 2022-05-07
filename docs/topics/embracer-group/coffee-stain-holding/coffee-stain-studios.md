@@ -5,6 +5,13 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Embracer Group](../../../topics/embracer-group.md) > Coffee Stain Holding > Coffee Stain Studios
 
+## May 6th, 2022 Livestream
+* [Q&A: Who chose the name of the game?](../../../transcriptions/yt-QRzKzsTgZ7U.md) [https://www.youtube.com/watch?v=QRzKzsTgZ7U](https://www.youtube.com/watch?v=QRzKzsTgZ7U)
+* [Q&A: Is everyone at Coffee Stain still remote?](../../../transcriptions/yt-cWdf9J4BkK4.md) [https://www.youtube.com/watch?v=cWdf9J4BkK4](https://www.youtube.com/watch?v=cWdf9J4BkK4)
+* [Community FYI: Make a save game with 10 thousand Lights & send it to Coffee Stain for profiling](../../../transcriptions/yt-57iR_NWN66g.md) [https://www.youtube.com/watch?v=57iR_NWN66g](https://www.youtube.com/watch?v=57iR_NWN66g)
+* [Q&A: Are you going on holiday on/before/after Update 6?](../../../transcriptions/yt-yMmw7Z4V8a8.md) [https://www.youtube.com/watch?v=yMmw7Z4V8a8](https://www.youtube.com/watch?v=yMmw7Z4V8a8)
+* [Q&A: Drop it before vacation?](../../../transcriptions/yt-eqFFSvxX_I8.md) [https://www.youtube.com/watch?v=eqFFSvxX_I8](https://www.youtube.com/watch?v=eqFFSvxX_I8)
+
 ## April 22nd, 2022 Video
 * Snutt Talk: Why Update 6 is going to be different [https://youtube.com/embed/hkMTFsxa7rQ?autoplay=1&start=62&end=204](https://youtube.com/embed/hkMTFsxa7rQ?autoplay=1&start=62&end=204)
 * Snutt Talk: Wrapping up the video [https://youtube.com/clip/UgkxabdUzOGnq6bwmDf3iQvO6q6hnpa-QX7s](https://youtube.com/clip/UgkxabdUzOGnq6bwmDf3iQvO6q6hnpa-QX7s)

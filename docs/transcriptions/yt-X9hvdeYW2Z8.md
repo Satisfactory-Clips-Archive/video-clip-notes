@@ -8,6 +8,8 @@ topics:
 # [March 15th, 2022 Livestream](../2022-03-15.md)
 ## Q&A: When will Programmable Splitters be fixed?
 https://www.youtube.com/watch?v=X9hvdeYW2Z8
+This question was possibly duplicated with a more recent answer: [May 6th, 2022 Livestream Q&A: Programmable Splitters, why aren't they working and how can it be fixed?](./yt-1QkqhUqVmMo.md) [https://www.youtube.com/watch?v=1QkqhUqVmMo](https://www.youtube.com/watch?v=1QkqhUqVmMo)
+
 
 ### Topics
 * [Features > Buildables > Conveyor Belts](../topics/features/buildables/conveyor-belts.md)

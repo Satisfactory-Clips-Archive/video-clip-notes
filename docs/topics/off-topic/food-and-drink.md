@@ -10,6 +10,9 @@ date: Last Modified
 * [Pizza](../../topics/off-topic/food-and-drink/pizza.md)
 * [Semlor](../../topics/off-topic/food-and-drink/semlor.md)
 
+## May 6th, 2022 Livestream
+* [Q&A: Will we be able to capture wild beasts & farm them for milk & eggs?](../../transcriptions/yt-1-qnuaEigs8.md) [https://www.youtube.com/watch?v=1-qnuaEigs8](https://www.youtube.com/watch?v=1-qnuaEigs8)
+
 ## April 26th, 2022 Livestream
 * [Mark joins the fight](../../transcriptions/yt-iw0CLqzO_vA.md) [https://www.youtube.com/watch?v=iw0CLqzO_vA](https://www.youtube.com/watch?v=iw0CLqzO_vA)
 * [Q&A: What's for lunch?](../../transcriptions/yt-dkPlbKBpI8E.md) [https://www.youtube.com/watch?v=dkPlbKBpI8E](https://www.youtube.com/watch?v=dkPlbKBpI8E)

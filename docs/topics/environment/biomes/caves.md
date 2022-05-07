@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Biomes](../../../topics/environment/biomes.md) > Caves
 
+## May 6th, 2022 Livestream
+* [Q&A: Update 5 had a lot of changes to Caves, right?](../../../transcriptions/yt-ubjbMObuhwE.md) [https://www.youtube.com/watch?v=ubjbMObuhwE](https://www.youtube.com/watch?v=ubjbMObuhwE)
+
 ## November 9th, 2021 Livestream
 * [Q&A: The new craters in the dunes, will those flat walls turn into a Cave system?](../../../transcriptions/yt-Yq45pgAN_ac.md) [https://www.youtube.com/watch?v=Yq45pgAN_ac](https://www.youtube.com/watch?v=Yq45pgAN_ac)
 

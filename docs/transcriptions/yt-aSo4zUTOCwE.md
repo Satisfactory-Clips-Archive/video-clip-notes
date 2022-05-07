@@ -8,7 +8,7 @@ topics:
 # [June 22nd, 2021 Livestream](../2021-06-22.md)
 ## Q&A: Are there any plans for VR?
 https://www.youtube.com/watch?v=aSo4zUTOCwE
-This question was possibly duplicated with a more recent answer: [February 22nd, 2022 Livestream Q&A: Is it possible Satisfactory comes for VR?](./yt--NP1VBDg3u4.md) [https://www.youtube.com/watch?v=-NP1VBDg3u4](https://www.youtube.com/watch?v=-NP1VBDg3u4)
+This question was possibly duplicated with a more recent answer: [May 6th, 2022 Livestream Q&A: Any plans for VR?](./yt-vgYHJu3DzeE.md) [https://www.youtube.com/watch?v=vgYHJu3DzeE](https://www.youtube.com/watch?v=vgYHJu3DzeE)
 
 
 ### Topics

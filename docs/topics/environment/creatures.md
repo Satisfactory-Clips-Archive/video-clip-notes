@@ -10,6 +10,10 @@ date: Last Modified
 * [Non Flying Bird](../../topics/environment/creatures/non-flying-bird.md)
 * [Space Giraffe-Tick-Penguin-Whale Thing](../../topics/environment/creatures/space-giraffe-tick-penguin-whale-thing.md)
 
+## May 6th, 2022 Livestream
+* [Q&A: Will we be able to capture wild beasts & farm them for milk & eggs?](../../transcriptions/yt-1-qnuaEigs8.md) [https://www.youtube.com/watch?v=1-qnuaEigs8](https://www.youtube.com/watch?v=1-qnuaEigs8)
+* [Community FYI: Flying Crab milk](../../transcriptions/yt-dUqjY-TtRuk.md) [https://www.youtube.com/watch?v=dUqjY-TtRuk](https://www.youtube.com/watch?v=dUqjY-TtRuk)
+
 ## April 26th, 2022 Livestream
 * [State of Dave](../../transcriptions/yt-komFyjm03kg.md) [https://www.youtube.com/watch?v=komFyjm03kg](https://www.youtube.com/watch?v=komFyjm03kg)
 

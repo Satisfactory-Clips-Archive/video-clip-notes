@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > Possible Features > Console Release
 
+## May 6th, 2022 Livestream
+* [Q&A: Controller support news?](../../../transcriptions/yt-S-jHgE-Tv2U.md) [https://www.youtube.com/watch?v=S-jHgE-Tv2U](https://www.youtube.com/watch?v=S-jHgE-Tv2U)
+* [Q&A: Do you have plans to develop the game for Console?](../../../transcriptions/yt-eQn0OjZHj_w.md) [https://www.youtube.com/watch?v=eQn0OjZHj_w](https://www.youtube.com/watch?v=eQn0OjZHj_w)
+* [Community FYI: Game runs well on Steam Deck](../../../transcriptions/yt-1EVBrWXbZ74.md) [https://www.youtube.com/watch?v=1EVBrWXbZ74](https://www.youtube.com/watch?v=1EVBrWXbZ74)
+
 ## April 12th, 2022 Livestream
 * [Q&A: Are controller questions allowed?](../../../transcriptions/yt-S1kumeDF79c.md) [https://www.youtube.com/watch?v=S1kumeDF79c](https://www.youtube.com/watch?v=S1kumeDF79c)
 * [Q&A: Do you already have plans to go to XBox/PS5?](../../../transcriptions/yt-xM0G0PWaCnc.md) [https://www.youtube.com/watch?v=xM0G0PWaCnc](https://www.youtube.com/watch?v=xM0G0PWaCnc)
