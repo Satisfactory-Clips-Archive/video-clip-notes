@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Environment](../../topics/environment.md) > Plants
 
+## May 10th, 2022 Livestream
+* [Hannah talks Spire Coast](../../transcriptions/yt-FqhboAjAiYY.md) [https://www.youtube.com/watch?v=FqhboAjAiYY](https://www.youtube.com/watch?v=FqhboAjAiYY)
+
 ## April 26th, 2022 Livestream
 * [State of Dave](../../transcriptions/yt-komFyjm03kg.md) [https://www.youtube.com/watch?v=komFyjm03kg](https://www.youtube.com/watch?v=komFyjm03kg)
 

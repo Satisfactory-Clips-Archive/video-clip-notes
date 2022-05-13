@@ -2,6 +2,47 @@
 title: "Frequently Asked Questions"
 date: Last Modified
 ---
+## [May 10th, 2022 Livestream](./2022-05-10.md)
+### [Q&A: Are the map holes going to be fixed in Update 6?](./transcriptions/yt-9sqkzY9O0mI.md) [https://www.youtube.com/watch?v=9sqkzY9O0mI](https://www.youtube.com/watch?v=9sqkzY9O0mI)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> will building on the map always oh yeah that's another good question i saw it before as well um there's like a couple of places on the map where there's like holes um do you know how much we're gonna be able to like fix those spots for this update or is that like further down the line i mean some some of them are there by design and some of them are not there by design ideally yeah but like like there's a lot of people that for example built like underneath the cliffs in this mountain uh yeah if you're still there somehow after everything that's gonna get up um that was not never intended to be a space where you can build so uh those those those kinds of holes will be filled up because those are bugs but there's like in there in grass fields like there's a big sort of like hole like through the train and that one's there to say i'm sure people will find a way to still manage to get underneath the map i mean you can still do i think you can always do the thing where if you place a hyper tube entrance and you get that tube to like clip into the environment yeah you can always get through it that way yeah you dirty cheaters i can't believe it uh all right all right
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 2 other times, as recently as May 2022 and as early as March 2022.</summary>
+
+* [May 3rd, 2022 Livestream Q&A: Was the water hole fixed in the Spire Coast where you can drop to your death in the water?](./transcriptions/yt-6t2kbzZlnJc.md) [https://www.youtube.com/watch?v=6t2kbzZlnJc](https://www.youtube.com/watch?v=6t2kbzZlnJc)
+* [March 22nd, 2022 Livestream Q&A: Will holes in the Map be removed?](./transcriptions/yt-Qg2NCEWJBE4.md) [https://www.youtube.com/watch?v=Qg2NCEWJBE4](https://www.youtube.com/watch?v=Qg2NCEWJBE4)
+</details>
+
+### [Q&A: What is Hannah's favourite Biome?](./transcriptions/yt-bu3SnSQ14Ms.md) [https://www.youtube.com/watch?v=bu3SnSQ14Ms](https://www.youtube.com/watch?v=bu3SnSQ14Ms)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> what is your favorite biome so far boy i mean my favorite biome is always the latest one because like i i i can see myself improving every time with like how how i build things or just like sometimes i have this thing where i i don't necessarily like something for what it is but for what it could be if that makes sense uh when i see like the potential in a place or or like oh like all these things that i sort of still have in my mind layered on top of it that changes things too but like i mean i really like how this spider coast turned out i'm really proud of it um i'm i mean northern forest's the same thing like i don't know like it's it's all cool it's yep we talked a little bit about this before too like when we were comparing the different clips here and between the the uh rocky desert and the uh spider coaster you just tilt the camera to the left here not tilt wait it's roll whatever no it's not roll whatever um how like the cliffs the way we're doing clips now looks different compared to how we used to do them and they're like ah do we go back and look at the uh change all the clips again but then once we do that we're going to change it again pan is not the term i'm looking for chat by the way i see a lot of people say there's a lot of a lot of terms that people always use like pan and stuff like that where it's actually not correct i can't remember the actual term whatever um no it's not swivel there's there's a fancy diagram for like filming um
+>
+> [Music]
+>
+> i cannot remember everyone just uses pan like just pan left i was like all right that's pen exactly the movement is part of it too uh so yeah we just never never stop working on the game i guess no yeah that's the that's the risk too right like you're never really done uh you just have to decide you're done at some point and then that's that's your limit because you could always always make something prettier like there's a lot of work i'm doing on the sparrow coast that i'm i know that i can i can improve it and i can make it better but kind of like we talked about earlier like that that 20 improvement would take me the same time as working on this entire area like again right it's just not worth the amount of time and effort for the the small amount of gain even though i know it's possible it's not uh there's other sacrifices too like doing not for sparkles means that suddenly sparkles is gonna be so beyond quality-wise the rest of the map that the rest of the map is gonna kind of suck in comparison right that's something that you also have to keep in mind like we don't have time to upgrade every single area to the same exact level we just have to kind of keep it uh the moment you like improve something above and beyond the rest you kind of start needing to improve the rest as well so you shoot yourself in the foot again it's like like eternal improvement cycles right uh because you want to sort of equalize the level of quality across the entire map and like i i'm absolutely already pushing that and shooting myself in the foot with that with this kind of stuff because like also because like i've learned so much ever since i started working that like you know everything i do like i want it i want it to be better and i want things to be nicer but not i shouldn't always do that right you have to keep things consistent too yeah stop getting better hannah yeah yeah yeah it's like oh no before i uh go mad with power you know or we just work on the game forever i guess that's a big problem
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 2 other times, as recently as August 2021 and as early as February 2019.</summary>
+
+* [August 3rd, 2021 Livestream Q&A: What's Hannah's personal favourite Biome?](./transcriptions/yt-vyG5w8eQfQM.md) [https://www.youtube.com/watch?v=vyG5w8eQfQM](https://www.youtube.com/watch?v=vyG5w8eQfQM)
+* [February 6th, 2019 Livestream Q&A: What is Hannah's favourite place on the map?](./transcriptions/yt-Dtm6xIj-wM4,3077.540411,3122.625483.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3077&end=3123](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3077&end=3123)
+</details>
+
 ## [May 3rd, 2022 Livestream](./2022-05-03.md)
 ### [Q&A: Controller support news?](./transcriptions/yt-S-jHgE-Tv2U.md) [https://www.youtube.com/watch?v=S-jHgE-Tv2U](https://www.youtube.com/watch?v=S-jHgE-Tv2U)
 

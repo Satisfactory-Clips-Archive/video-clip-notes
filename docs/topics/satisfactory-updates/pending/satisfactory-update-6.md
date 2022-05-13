@@ -5,6 +5,23 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Pending > Satisfactory Update 6
 
+## May 10th, 2022 Livestream
+* [State of Dev](../../../transcriptions/yt-EgDWsvm7ThE.md) [https://www.youtube.com/watch?v=EgDWsvm7ThE](https://www.youtube.com/watch?v=EgDWsvm7ThE)
+* [Hannah talks Spire Coast](../../../transcriptions/yt-FqhboAjAiYY.md) [https://www.youtube.com/watch?v=FqhboAjAiYY](https://www.youtube.com/watch?v=FqhboAjAiYY)
+* [Snutt & Hannah Talk: More coral reefs to come](../../../transcriptions/yt-ldnCTu-Nhmk.md) [https://www.youtube.com/watch?v=ldnCTu-Nhmk](https://www.youtube.com/watch?v=ldnCTu-Nhmk)
+* [Q&A: Could you show the transition from the Northern Forest to The Canyon?](../../../transcriptions/yt-0V_uTLsHmqA.md) [https://www.youtube.com/watch?v=0V_uTLsHmqA](https://www.youtube.com/watch?v=0V_uTLsHmqA)
+* [Q&A: Are there going to be any caves in the Spire Coast?](../../../transcriptions/yt-SrpYCHsHQIw.md) [https://www.youtube.com/watch?v=SrpYCHsHQIw](https://www.youtube.com/watch?v=SrpYCHsHQIw)
+* [Snutt & Hannah Talk: new river in The Canyon](../../../transcriptions/yt-NVqoud4qxnU.md) [https://www.youtube.com/watch?v=NVqoud4qxnU](https://www.youtube.com/watch?v=NVqoud4qxnU)
+* [Q&A: Can you place Water Extractors on the shallow parts?](../../../transcriptions/yt-Z7k0qdhP82M.md) [https://www.youtube.com/watch?v=Z7k0qdhP82M](https://www.youtube.com/watch?v=Z7k0qdhP82M)
+* [Q&A: Will the blocked cave entrances in the Dune Desert be updated for Update 6?](../../../transcriptions/yt--ntB2oeW3bQ.md) [https://www.youtube.com/watch?v=-ntB2oeW3bQ](https://www.youtube.com/watch?v=-ntB2oeW3bQ)
+* [Q&A: Are you changing how the World boundary works?](../../../transcriptions/yt-JnBU2qNEas4.md) [https://www.youtube.com/watch?v=JnBU2qNEas4](https://www.youtube.com/watch?v=JnBU2qNEas4)
+* [Q&A: Any insight to the Desert Canyons changes?](../../../transcriptions/yt-DgWpT5rS5qs.md) [https://www.youtube.com/watch?v=DgWpT5rS5qs](https://www.youtube.com/watch?v=DgWpT5rS5qs)
+* [Q&A: Can we see the Swamp?](../../../transcriptions/yt-OFn5EG-sOJM.md) [https://www.youtube.com/watch?v=OFn5EG-sOJM](https://www.youtube.com/watch?v=OFn5EG-sOJM)
+* [Q&A: Can you show us the small canyon that comes from the Dune Desert?](../../../transcriptions/yt-xX7EXCLljYc.md) [https://www.youtube.com/watch?v=xX7EXCLljYc](https://www.youtube.com/watch?v=xX7EXCLljYc)
+* [Q&A: Are the map holes going to be fixed in Update 6?](../../../transcriptions/yt-9sqkzY9O0mI.md) [https://www.youtube.com/watch?v=9sqkzY9O0mI](https://www.youtube.com/watch?v=9sqkzY9O0mI)
+* [Q&A: What is Hannah's favourite Biome?](../../../transcriptions/yt-bu3SnSQ14Ms.md) [https://www.youtube.com/watch?v=bu3SnSQ14Ms](https://www.youtube.com/watch?v=bu3SnSQ14Ms)
+* [Snutt & Hannah Talk: Community reaction to Spire Coast changes](../../../transcriptions/yt-xx0bHGk76qU.md) [https://www.youtube.com/watch?v=xx0bHGk76qU](https://www.youtube.com/watch?v=xx0bHGk76qU)
+
 ## May 6th, 2022 Video
 * [Resource nodes being moved](../../../transcriptions/yt-8BxYvOLpjGo,73.90716666666667,117.28383333333333.md) [https://youtube.com/clip/Ugkxm5Y34siJBMYQNjXUF0nycUsGZ7ogFMMx](https://youtube.com/clip/Ugkxm5Y34siJBMYQNjXUF0nycUsGZ7ogFMMx)
 * [Resource nodes & Power Slugs](../../../transcriptions/yt-8BxYvOLpjGo,117.3172,170.60376666666667.md) [https://youtube.com/clip/UgkxdoSTjRIaKwSDb_9pHxzosJ0CcTJCPfve](https://youtube.com/clip/UgkxdoSTjRIaKwSDb_9pHxzosJ0CcTJCPfve)

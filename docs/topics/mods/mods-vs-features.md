@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Mods](../../topics/mods.md) > Mods vs. Features
 
+## May 10th, 2022 Livestream
+* [Q&A: Later down the line would you rather have a second map or a map editor for people to create?](../../transcriptions/yt-quBufOSDaf8.md) [https://www.youtube.com/watch?v=quBufOSDaf8](https://www.youtube.com/watch?v=quBufOSDaf8)
+
 ## May 3rd, 2022 Livestream
 * [State of Dev](../../transcriptions/yt-HBdLi32e74Q.md) [https://www.youtube.com/watch?v=HBdLi32e74Q](https://www.youtube.com/watch?v=HBdLi32e74Q)
 

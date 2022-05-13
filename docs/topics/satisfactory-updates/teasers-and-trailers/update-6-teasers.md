@@ -5,6 +5,19 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Teasers & Trailers](../../../topics/satisfactory-updates/teasers-and-trailers.md) > Update 6 Teasers
 
+## May 10th, 2022 Livestream
+* [State of Dev](../../../transcriptions/yt-EgDWsvm7ThE.md) [https://www.youtube.com/watch?v=EgDWsvm7ThE](https://www.youtube.com/watch?v=EgDWsvm7ThE)
+* [Hannah talks Spire Coast](../../../transcriptions/yt-FqhboAjAiYY.md) [https://www.youtube.com/watch?v=FqhboAjAiYY](https://www.youtube.com/watch?v=FqhboAjAiYY)
+* [Snutt & Hannah Talk: More coral reefs to come](../../../transcriptions/yt-ldnCTu-Nhmk.md) [https://www.youtube.com/watch?v=ldnCTu-Nhmk](https://www.youtube.com/watch?v=ldnCTu-Nhmk)
+* [Q&A: Could you show the transition from the Northern Forest to The Canyon?](../../../transcriptions/yt-0V_uTLsHmqA.md) [https://www.youtube.com/watch?v=0V_uTLsHmqA](https://www.youtube.com/watch?v=0V_uTLsHmqA)
+* [Q&A: Are there going to be any caves in the Spire Coast?](../../../transcriptions/yt-SrpYCHsHQIw.md) [https://www.youtube.com/watch?v=SrpYCHsHQIw](https://www.youtube.com/watch?v=SrpYCHsHQIw)
+* [Snutt & Hannah Talk: new river in The Canyon](../../../transcriptions/yt-NVqoud4qxnU.md) [https://www.youtube.com/watch?v=NVqoud4qxnU](https://www.youtube.com/watch?v=NVqoud4qxnU)
+* [Q&A: Can you place Water Extractors on the shallow parts?](../../../transcriptions/yt-Z7k0qdhP82M.md) [https://www.youtube.com/watch?v=Z7k0qdhP82M](https://www.youtube.com/watch?v=Z7k0qdhP82M)
+* [Q&A: Any insight to the Desert Canyons changes?](../../../transcriptions/yt-DgWpT5rS5qs.md) [https://www.youtube.com/watch?v=DgWpT5rS5qs](https://www.youtube.com/watch?v=DgWpT5rS5qs)
+* [Q&A: Can we see the Swamp?](../../../transcriptions/yt-OFn5EG-sOJM.md) [https://www.youtube.com/watch?v=OFn5EG-sOJM](https://www.youtube.com/watch?v=OFn5EG-sOJM)
+* [Q&A: Can you show us the small canyon that comes from the Dune Desert?](../../../transcriptions/yt-xX7EXCLljYc.md) [https://www.youtube.com/watch?v=xX7EXCLljYc](https://www.youtube.com/watch?v=xX7EXCLljYc)
+* [Snutt & Hannah Talk: Community reaction to Spire Coast changes](../../../transcriptions/yt-xx0bHGk76qU.md) [https://www.youtube.com/watch?v=xx0bHGk76qU](https://www.youtube.com/watch?v=xx0bHGk76qU)
+
 ## May 6th, 2022 Video
 * [Don't worry, I'll wait](../../../transcriptions/yt-8BxYvOLpjGo,8.742066666666666,44.91658.md) [https://youtube.com/clip/Ugkxm0GHwDrUkr8waf0XMZztjN9uLBP3_1BT](https://youtube.com/clip/Ugkxm0GHwDrUkr8waf0XMZztjN9uLBP3_1BT)
 * [Update 5 World Update Roadmap](../../../transcriptions/yt-8BxYvOLpjGo,44.944900000000004,73.8738.md) [https://youtube.com/clip/UgkxnQl9-7XQBU0ua5umK2YbhKN4IoJR8rkL](https://youtube.com/clip/UgkxnQl9-7XQBU0ua5umK2YbhKN4IoJR8rkL)

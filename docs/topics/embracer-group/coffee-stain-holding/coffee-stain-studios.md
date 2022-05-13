@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Embracer Group](../../../topics/embracer-group.md) > Coffee Stain Holding > Coffee Stain Studios
 
+## May 10th, 2022 Livestream
+* [Q&A: How long has Hannah been working on Satisfactory?](../../../transcriptions/yt-ZI0qceS8O4U.md) [https://www.youtube.com/watch?v=ZI0qceS8O4U](https://www.youtube.com/watch?v=ZI0qceS8O4U)
+
 ## May 3rd, 2022 Livestream
 * [Q&A: Who chose the name of the game?](../../../transcriptions/yt-QRzKzsTgZ7U.md) [https://www.youtube.com/watch?v=QRzKzsTgZ7U](https://www.youtube.com/watch?v=QRzKzsTgZ7U)
 * [Q&A: Is everyone at Coffee Stain still remote?](../../../transcriptions/yt-cWdf9J4BkK4.md) [https://www.youtube.com/watch?v=cWdf9J4BkK4](https://www.youtube.com/watch?v=cWdf9J4BkK4)

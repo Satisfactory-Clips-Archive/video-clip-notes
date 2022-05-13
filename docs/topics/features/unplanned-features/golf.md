@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Unplanned Features](../../../topics/features/unplanned-features.md) > Golf
 
+## May 10th, 2022 Livestream
+* [Q&A: Does this part of the map contain the 18th hole?](../../../transcriptions/yt-7etFcg21qH8.md) [https://www.youtube.com/watch?v=7etFcg21qH8](https://www.youtube.com/watch?v=7etFcg21qH8)
+
 ## April 26th, 2022 Livestream
 * [Mark joins the fight](../../../transcriptions/yt-iw0CLqzO_vA.md) [https://www.youtube.com/watch?v=iw0CLqzO_vA](https://www.youtube.com/watch?v=iw0CLqzO_vA)
 * [Community FYI: Golf wasn't our idea](../../../transcriptions/yt-LyHPCNU2WbI.md) [https://www.youtube.com/watch?v=LyHPCNU2WbI](https://www.youtube.com/watch?v=LyHPCNU2WbI)

@@ -9,6 +9,13 @@ date: Last Modified
 * [Object Limit](../../topics/technology/unreal-engine/object-limit.md)
 * [Unreal Engine 5](../../topics/technology/unreal-engine/unreal-engine-5.md)
 
+## May 10th, 2022 Livestream
+* [Hannah talks Spire Coast](../../transcriptions/yt-FqhboAjAiYY.md) [https://www.youtube.com/watch?v=FqhboAjAiYY](https://www.youtube.com/watch?v=FqhboAjAiYY)
+* [Q&A: Any cool blueprint tool?](../../transcriptions/yt-dIGez7lvcic.md) [https://www.youtube.com/watch?v=dIGez7lvcic](https://www.youtube.com/watch?v=dIGez7lvcic)
+* [Q&A: Does Hannah sketch on the engine or on paper first?](../../transcriptions/yt-rsjNje-DTtY.md) [https://www.youtube.com/watch?v=rsjNje-DTtY](https://www.youtube.com/watch?v=rsjNje-DTtY)
+* [Q&A: Any insight to the Desert Canyons changes?](../../transcriptions/yt-DgWpT5rS5qs.md) [https://www.youtube.com/watch?v=DgWpT5rS5qs](https://www.youtube.com/watch?v=DgWpT5rS5qs)
+* [Q&A: Can you open the in-game Map on this?](../../transcriptions/yt-NG_Hgg8Zu6Q.md) [https://www.youtube.com/watch?v=NG_Hgg8Zu6Q](https://www.youtube.com/watch?v=NG_Hgg8Zu6Q)
+
 ## May 3rd, 2022 Livestream
 * [State of Dev](../../transcriptions/yt-HBdLi32e74Q.md) [https://www.youtube.com/watch?v=HBdLi32e74Q](https://www.youtube.com/watch?v=HBdLi32e74Q)
 * [Q&A: Doesn't Unreal Engine have a limit & Mk.5 belts are already approaching that?](../../transcriptions/yt-cpWRCbSYMsE.md) [https://www.youtube.com/watch?v=cpWRCbSYMsE](https://www.youtube.com/watch?v=cpWRCbSYMsE)

@@ -6,6 +6,16 @@ date: Last Modified
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Hannah
 * [Coffee Stainers can't pronounce Hannah's last name](../../topics/coffee-stainers/hannah/coffee-stainers-cant-pronounce-hannahs-last-name.md)
 
+## May 10th, 2022 Livestream
+* [Hannah talks Spire Coast](../../transcriptions/yt-FqhboAjAiYY.md) [https://www.youtube.com/watch?v=FqhboAjAiYY](https://www.youtube.com/watch?v=FqhboAjAiYY)
+* [Q&A: Any cool blueprint tool?](../../transcriptions/yt-dIGez7lvcic.md) [https://www.youtube.com/watch?v=dIGez7lvcic](https://www.youtube.com/watch?v=dIGez7lvcic)
+* [Q&A: How does Hannah deal with Snutt?](../../transcriptions/yt-c07uHZJzS0c.md) [https://www.youtube.com/watch?v=c07uHZJzS0c](https://www.youtube.com/watch?v=c07uHZJzS0c)
+* [Q&A: How many assets did Hannah design?](../../transcriptions/yt-ozXb_4cjzXs.md) [https://www.youtube.com/watch?v=ozXb_4cjzXs](https://www.youtube.com/watch?v=ozXb_4cjzXs)
+* [Q&A: Does Hannah sketch on the engine or on paper first?](../../transcriptions/yt-rsjNje-DTtY.md) [https://www.youtube.com/watch?v=rsjNje-DTtY](https://www.youtube.com/watch?v=rsjNje-DTtY)
+* [Q&A: Is there any part of the Map that's been changed for gameplay reasons that you're sad about?](../../transcriptions/yt-z1tc_bgoMM4.md) [https://www.youtube.com/watch?v=z1tc_bgoMM4](https://www.youtube.com/watch?v=z1tc_bgoMM4)
+* [Q&A: How long has Hannah been working on Satisfactory?](../../transcriptions/yt-ZI0qceS8O4U.md) [https://www.youtube.com/watch?v=ZI0qceS8O4U](https://www.youtube.com/watch?v=ZI0qceS8O4U)
+* [Q&A: What is Hannah's favourite Biome?](../../transcriptions/yt-bu3SnSQ14Ms.md) [https://www.youtube.com/watch?v=bu3SnSQ14Ms](https://www.youtube.com/watch?v=bu3SnSQ14Ms)
+
 ## May 6th, 2022 Video
 * [Desert Canyons](../../transcriptions/yt-8BxYvOLpjGo,357.6906666666667,370.70366666666666.md) [https://youtube.com/clip/UgkxwKXf53eJlceSi72nKopRDT9Klkp7gHOO](https://youtube.com/clip/UgkxwKXf53eJlceSi72nKopRDT9Klkp7gHOO)
 

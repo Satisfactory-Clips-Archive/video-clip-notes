@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Biomes](../../../topics/environment/biomes.md) > Dune Desert
 
+## May 10th, 2022 Livestream
+* [Hannah talks Spire Coast](../../../transcriptions/yt-FqhboAjAiYY.md) [https://www.youtube.com/watch?v=FqhboAjAiYY](https://www.youtube.com/watch?v=FqhboAjAiYY)
+* [Q&A: Will the blocked cave entrances in the Dune Desert be updated for Update 6?](../../../transcriptions/yt--ntB2oeW3bQ.md) [https://www.youtube.com/watch?v=-ntB2oeW3bQ](https://www.youtube.com/watch?v=-ntB2oeW3bQ)
+* [Q&A: Can you show us the small canyon that comes from the Dune Desert?](../../../transcriptions/yt-xX7EXCLljYc.md) [https://www.youtube.com/watch?v=xX7EXCLljYc](https://www.youtube.com/watch?v=xX7EXCLljYc)
+
 ## May 6th, 2022 Video
 * [Spire Coast / Dune Desert](../../../transcriptions/yt-8BxYvOLpjGo,259.5593,303.73676666666665.md) [https://youtube.com/clip/Ugkx1wu-M3Fl_kL0rcDFP6hG85Ya4b-zTGCA](https://youtube.com/clip/Ugkx1wu-M3Fl_kL0rcDFP6hG85Ya4b-zTGCA)
 * [Spire Coast / Great Canyon](../../../transcriptions/yt-8BxYvOLpjGo,303.7701333333333,357.6573.md) [https://youtube.com/clip/UgkxxFK54aDemZYVT699C6V_ej6WUQmpINaR](https://youtube.com/clip/UgkxxFK54aDemZYVT699C6V_ej6WUQmpINaR)

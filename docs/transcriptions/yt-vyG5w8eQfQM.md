@@ -10,11 +10,7 @@ topics:
 # [August 3rd, 2021 Livestream](../2021-08-03.md)
 ## Q&A: What's Hannah's personal favourite Biome?
 https://www.youtube.com/watch?v=vyG5w8eQfQM
-<details>
-<summary>This question may have been asked previously at least 1 other time, as recently as February 2019.</summary>
-
-* [February 6th, 2019 Livestream Q&A: What is Hannah's favourite place on the map?](./yt-Dtm6xIj-wM4,3077.540411,3122.625483.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3077&end=3123](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3077&end=3123)
-</details>
+This question was possibly duplicated with a more recent answer: [May 10th, 2022 Livestream Q&A: What is Hannah's favourite Biome?](./yt-bu3SnSQ14Ms.md) [https://www.youtube.com/watch?v=bu3SnSQ14Ms](https://www.youtube.com/watch?v=bu3SnSQ14Ms)
 
 
 ### Topics

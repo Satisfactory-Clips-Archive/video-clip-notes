@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Songs of Conquest
 
+## May 10th, 2022 Livestream
+* [State of Dev](../../transcriptions/yt-EgDWsvm7ThE.md) [https://www.youtube.com/watch?v=EgDWsvm7ThE](https://www.youtube.com/watch?v=EgDWsvm7ThE)
+
 ## June 15th, 2021 Livestream
 * [Snutt & Jace Talk: Songs of Conquest](../../transcriptions/yt-PLXS5oQZyBY.md) [https://www.youtube.com/watch?v=PLXS5oQZyBY](https://www.youtube.com/watch?v=PLXS5oQZyBY)
 * [Q&A: What do you know of Songs of Conquest?](../../transcriptions/yt-5zq8YEaPejI.md) [https://www.youtube.com/watch?v=5zq8YEaPejI](https://www.youtube.com/watch?v=5zq8YEaPejI)

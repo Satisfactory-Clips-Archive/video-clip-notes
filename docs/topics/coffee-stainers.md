@@ -41,6 +41,9 @@ date: Last Modified
 * [Torsten](../topics/coffee-stainers/torsten.md)
 * [Uzu](../topics/coffee-stainers/uzu.md)
 
+## May 10th, 2022 Livestream
+* [Q&A: How many assets did Hannah design?](../transcriptions/yt-ozXb_4cjzXs.md) [https://www.youtube.com/watch?v=ozXb_4cjzXs](https://www.youtube.com/watch?v=ozXb_4cjzXs)
+
 ## May 3rd, 2022 Livestream
 * [Q&A: Is everyone at Coffee Stain still remote?](../transcriptions/yt-cWdf9J4BkK4.md) [https://www.youtube.com/watch?v=cWdf9J4BkK4](https://www.youtube.com/watch?v=cWdf9J4BkK4)
 * [Q&A: Are you going on holiday on/before/after Update 6?](../transcriptions/yt-yMmw7Z4V8a8.md) [https://www.youtube.com/watch?v=yMmw7Z4V8a8](https://www.youtube.com/watch?v=yMmw7Z4V8a8)

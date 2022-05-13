@@ -12,6 +12,9 @@ date: Last Modified
 * [Pollution](../../topics/features/requested-features/pollution.md)
 * [Third-person View](../../topics/features/requested-features/third-person-view.md)
 
+## May 10th, 2022 Livestream
+* [Q&A: Later down the line would you rather have a second map or a map editor for people to create?](../../transcriptions/yt-quBufOSDaf8.md) [https://www.youtube.com/watch?v=quBufOSDaf8](https://www.youtube.com/watch?v=quBufOSDaf8)
+
 ## May 3rd, 2022 Livestream
 * [Q&A: Controller support news?](../../transcriptions/yt-S-jHgE-Tv2U.md) [https://www.youtube.com/watch?v=S-jHgE-Tv2U](https://www.youtube.com/watch?v=S-jHgE-Tv2U)
 * [Q&A: Do you have plans to develop the game for Console?](../../transcriptions/yt-eQn0OjZHj_w.md) [https://www.youtube.com/watch?v=eQn0OjZHj_w](https://www.youtube.com/watch?v=eQn0OjZHj_w)

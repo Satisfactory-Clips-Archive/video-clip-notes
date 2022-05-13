@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > State of Dev
 
+## May 10th, 2022 Livestream
+* [State of Dev](../../transcriptions/yt-EgDWsvm7ThE.md) [https://www.youtube.com/watch?v=EgDWsvm7ThE](https://www.youtube.com/watch?v=EgDWsvm7ThE)
+
 ## May 3rd, 2022 Livestream
 * [State of Dev](../../transcriptions/yt-HBdLi32e74Q.md) [https://www.youtube.com/watch?v=HBdLi32e74Q](https://www.youtube.com/watch?v=HBdLi32e74Q)
 * [Update 6: Spire Coast Teaser](../../transcriptions/yt-SVZCcGdt1eI.md) [https://www.youtube.com/watch?v=SVZCcGdt1eI](https://www.youtube.com/watch?v=SVZCcGdt1eI)

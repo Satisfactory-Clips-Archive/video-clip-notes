@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > [Crafting](../../../../topics/features/crafting.md) > [Recipes](../../../../topics/features/crafting/recipes.md) > Alternate Recipes
 
+## May 10th, 2022 Livestream
+* [Hannah talks Spire Coast](../../../../transcriptions/yt-FqhboAjAiYY.md) [https://www.youtube.com/watch?v=FqhboAjAiYY](https://www.youtube.com/watch?v=FqhboAjAiYY)
+
 ## May 3rd, 2022 Livestream
 * [Q&A: Will there be any changes to drop pods & Hard Drives in Update 6?](../../../../transcriptions/yt-JbGdSC0uqg0.md) [https://www.youtube.com/watch?v=JbGdSC0uqg0](https://www.youtube.com/watch?v=JbGdSC0uqg0)
 

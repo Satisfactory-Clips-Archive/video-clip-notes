@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Subnautica
 
+## May 10th, 2022 Livestream
+* [Hannah talks Spire Coast](../../transcriptions/yt-FqhboAjAiYY.md) [https://www.youtube.com/watch?v=FqhboAjAiYY](https://www.youtube.com/watch?v=FqhboAjAiYY)
+
 ## April 12th, 2022 Livestream
 * [Community FYI: Official response from Hannah regarding Underwater Biome: "Play Subnautica"](../../transcriptions/yt-b-pDzd-ccsw.md) [https://www.youtube.com/watch?v=b-pDzd-ccsw](https://www.youtube.com/watch?v=b-pDzd-ccsw)
 

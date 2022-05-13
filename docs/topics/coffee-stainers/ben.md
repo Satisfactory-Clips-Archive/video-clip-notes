@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Ben
 
+## May 10th, 2022 Livestream
+* [Hannah talks Spire Coast](../../transcriptions/yt-FqhboAjAiYY.md) [https://www.youtube.com/watch?v=FqhboAjAiYY](https://www.youtube.com/watch?v=FqhboAjAiYY)
+
 ## May 6th, 2022 Video
 * [Waterfalls are all placeholders](../../transcriptions/yt-8BxYvOLpjGo,214.88133333333334,234.80123333333333.md) [https://youtube.com/clip/UgkxDazPdXZUVI3nANGO5Jcm_3cn3MWwFF52](https://youtube.com/clip/UgkxDazPdXZUVI3nANGO5Jcm_3cn3MWwFF52)
 

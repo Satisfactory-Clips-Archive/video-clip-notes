@@ -11,6 +11,14 @@ date: Last Modified
 * [Resources](../topics/environment/resources.md)
 * [World Map](../topics/environment/world-map.md)
 
+## May 10th, 2022 Livestream
+* [Hannah talks Spire Coast](../transcriptions/yt-FqhboAjAiYY.md) [https://www.youtube.com/watch?v=FqhboAjAiYY](https://www.youtube.com/watch?v=FqhboAjAiYY)
+* [Q&A: How many assets did Hannah design?](../transcriptions/yt-ozXb_4cjzXs.md) [https://www.youtube.com/watch?v=ozXb_4cjzXs](https://www.youtube.com/watch?v=ozXb_4cjzXs)
+* [Q&A: Is there any part of the Map that's been changed for gameplay reasons that you're sad about?](../transcriptions/yt-z1tc_bgoMM4.md) [https://www.youtube.com/watch?v=z1tc_bgoMM4](https://www.youtube.com/watch?v=z1tc_bgoMM4)
+* [Q&A: Are you changing how the World boundary works?](../transcriptions/yt-JnBU2qNEas4.md) [https://www.youtube.com/watch?v=JnBU2qNEas4](https://www.youtube.com/watch?v=JnBU2qNEas4)
+* [Q&A: Are the map holes going to be fixed in Update 6?](../transcriptions/yt-9sqkzY9O0mI.md) [https://www.youtube.com/watch?v=9sqkzY9O0mI](https://www.youtube.com/watch?v=9sqkzY9O0mI)
+* [Q&A: What is Hannah's favourite Biome?](../transcriptions/yt-bu3SnSQ14Ms.md) [https://www.youtube.com/watch?v=bu3SnSQ14Ms](https://www.youtube.com/watch?v=bu3SnSQ14Ms)
+
 ## May 3rd, 2022 Livestream
 * [Q&A: Was the water hole fixed in the Spire Coast where you can drop to your death in the water?](../transcriptions/yt-6t2kbzZlnJc.md) [https://www.youtube.com/watch?v=6t2kbzZlnJc](https://www.youtube.com/watch?v=6t2kbzZlnJc)
 

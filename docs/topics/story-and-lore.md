@@ -7,6 +7,9 @@ date: Last Modified
 * [Characters](../topics/story-and-lore/characters.md)
 * [Project Assembly](../topics/story-and-lore/project-assembly.md)
 
+## May 10th, 2022 Livestream
+* [Hannah talks Spire Coast](../transcriptions/yt-FqhboAjAiYY.md) [https://www.youtube.com/watch?v=FqhboAjAiYY](https://www.youtube.com/watch?v=FqhboAjAiYY)
+
 ## May 3rd, 2022 Livestream
 * [Q&A: Any additional Lore coming in Update 6?](../transcriptions/yt-ialtYucCJvc.md) [https://www.youtube.com/watch?v=ialtYucCJvc](https://www.youtube.com/watch?v=ialtYucCJvc)
 

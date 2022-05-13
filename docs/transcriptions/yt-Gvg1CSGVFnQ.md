@@ -12,6 +12,8 @@ topics:
 # [August 3rd, 2021 Livestream](../2021-08-03.md)
 ## Q&A: Is Hannah making any of the assets herself?
 https://www.youtube.com/watch?v=Gvg1CSGVFnQ
+This question was possibly duplicated with a more recent answer: [May 10th, 2022 Livestream Q&A: How many assets did Hannah design?](./yt-ozXb_4cjzXs.md) [https://www.youtube.com/watch?v=ozXb_4cjzXs](https://www.youtube.com/watch?v=ozXb_4cjzXs)
+
 
 ### Topics
 * [Coffee Stainers > Hannah](../topics/coffee-stainers/hannah.md)

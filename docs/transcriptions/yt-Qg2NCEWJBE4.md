@@ -8,6 +8,8 @@ topics:
 # [March 22nd, 2022 Livestream](../2022-03-22.md)
 ## Q&A: Will holes in the Map be removed?
 https://www.youtube.com/watch?v=Qg2NCEWJBE4
+This question was possibly duplicated with a more recent answer: [May 10th, 2022 Livestream Q&A: Are the map holes going to be fixed in Update 6?](./yt-9sqkzY9O0mI.md) [https://www.youtube.com/watch?v=9sqkzY9O0mI](https://www.youtube.com/watch?v=9sqkzY9O0mI)
+
 
 ### Topics
 * [Environment](../topics/environment.md)

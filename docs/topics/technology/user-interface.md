@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > User Interface
 * [Holograms](../../topics/technology/user-interface/holograms.md)
 
+## May 10th, 2022 Livestream
+* [Q&A: Can you open the in-game Map on this?](../../transcriptions/yt-NG_Hgg8Zu6Q.md) [https://www.youtube.com/watch?v=NG_Hgg8Zu6Q](https://www.youtube.com/watch?v=NG_Hgg8Zu6Q)
+
 ## April 26th, 2022 Livestream
 * [Mark joins the fight](../../transcriptions/yt-iw0CLqzO_vA.md) [https://www.youtube.com/watch?v=iw0CLqzO_vA](https://www.youtube.com/watch?v=iw0CLqzO_vA)
 * [Q&A: Couldn't you make the UI more clear about Overclocking?](../../transcriptions/yt-BWHZtO7XcI0.md) [https://www.youtube.com/watch?v=BWHZtO7XcI0](https://www.youtube.com/watch?v=BWHZtO7XcI0)

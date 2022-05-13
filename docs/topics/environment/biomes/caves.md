@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Biomes](../../../topics/environment/biomes.md) > Caves
 
+## May 10th, 2022 Livestream
+* [Hannah talks Spire Coast](../../../transcriptions/yt-FqhboAjAiYY.md) [https://www.youtube.com/watch?v=FqhboAjAiYY](https://www.youtube.com/watch?v=FqhboAjAiYY)
+* [Q&A: Are there going to be any caves in the Spire Coast?](../../../transcriptions/yt-SrpYCHsHQIw.md) [https://www.youtube.com/watch?v=SrpYCHsHQIw](https://www.youtube.com/watch?v=SrpYCHsHQIw)
+
 ## May 3rd, 2022 Livestream
 * [Q&A: Update 5 had a lot of changes to Caves, right?](../../../transcriptions/yt-ubjbMObuhwE.md) [https://www.youtube.com/watch?v=ubjbMObuhwE](https://www.youtube.com/watch?v=ubjbMObuhwE)
 

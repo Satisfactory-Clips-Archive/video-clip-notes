@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > Water Extractor
 
+## May 10th, 2022 Livestream
+* [Q&A: Can you place Water Extractors on the shallow parts?](../../../transcriptions/yt-Z7k0qdhP82M.md) [https://www.youtube.com/watch?v=Z7k0qdhP82M](https://www.youtube.com/watch?v=Z7k0qdhP82M)
+
 ## October 5th, 2021 Livestream
 * [Trolling: Rebalancing Water Extractors in Update 5](../../../transcriptions/yt-rjR-CAkE03w.md) [https://www.youtube.com/watch?v=rjR-CAkE03w](https://www.youtube.com/watch?v=rjR-CAkE03w)
 * [Community FYI: I always found the Headlift Indicators kinda useless, maybe because they don't work](../../../transcriptions/yt-YTFbOFwNSLw.md) [https://www.youtube.com/watch?v=YTFbOFwNSLw](https://www.youtube.com/watch?v=YTFbOFwNSLw)

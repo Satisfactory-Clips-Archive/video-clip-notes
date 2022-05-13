@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Resources](../../../topics/environment/resources.md) > Power Slug
 
+## May 10th, 2022 Livestream
+* [Hannah talks Spire Coast](../../../transcriptions/yt-FqhboAjAiYY.md) [https://www.youtube.com/watch?v=FqhboAjAiYY](https://www.youtube.com/watch?v=FqhboAjAiYY)
+
 ## May 6th, 2022 Video
 * [Resource nodes & Power Slugs](../../../transcriptions/yt-8BxYvOLpjGo,117.3172,170.60376666666667.md) [https://youtube.com/clip/UgkxdoSTjRIaKwSDb_9pHxzosJ0CcTJCPfve](https://youtube.com/clip/UgkxdoSTjRIaKwSDb_9pHxzosJ0CcTJCPfve)
 

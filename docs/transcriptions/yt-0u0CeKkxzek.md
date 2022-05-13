@@ -8,6 +8,8 @@ topics:
 # [November 30th, 2021 Livestream](../2021-11-30.md)
 ## Q&A: Can we please get rid of the stone that is blocking the way to the underground in the crater?
 https://www.youtube.com/watch?v=0u0CeKkxzek
+This question was possibly replaced with a more recent answer: [May 10th, 2022 Livestream Q&A: Will the blocked cave entrances in the Dune Desert be updated for Update 6?](./yt--ntB2oeW3bQ.md) [https://www.youtube.com/watch?v=-ntB2oeW3bQ](https://www.youtube.com/watch?v=-ntB2oeW3bQ)
+
 
 ### Topics
 * [Environment > Biomes > Dune Desert](../topics/environment/biomes/dune-desert.md)

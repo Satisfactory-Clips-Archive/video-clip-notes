@@ -25,6 +25,9 @@ date: Last Modified
 * [Vilsol](../topics/community/vilsol.md)
 * [Wiki](../topics/community/wiki.md)
 
+## May 10th, 2022 Livestream
+* [Snutt & Hannah Talk: Community reaction to Spire Coast changes](../transcriptions/yt-xx0bHGk76qU.md) [https://www.youtube.com/watch?v=xx0bHGk76qU](https://www.youtube.com/watch?v=xx0bHGk76qU)
+
 ## May 6th, 2022 Video
 * [Community response to waterfalls](../transcriptions/yt-8BxYvOLpjGo,234.8346,259.52593333333334.md) [https://youtube.com/clip/UgkxeqSrjXelp49q-o7m_UySg8b-YYa2KXob](https://youtube.com/clip/UgkxeqSrjXelp49q-o7m_UySg8b-YYa2KXob)
 

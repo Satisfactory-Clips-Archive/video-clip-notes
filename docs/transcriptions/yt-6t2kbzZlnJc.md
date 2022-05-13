@@ -12,6 +12,8 @@ topics:
 # [May 3rd, 2022 Livestream](../2022-05-03.md)
 ## Q&A: Was the water hole fixed in the Spire Coast where you can drop to your death in the water?
 https://www.youtube.com/watch?v=6t2kbzZlnJc
+This question was possibly duplicated with a more recent answer: [May 10th, 2022 Livestream Q&A: Are the map holes going to be fixed in Update 6?](./yt-9sqkzY9O0mI.md) [https://www.youtube.com/watch?v=9sqkzY9O0mI](https://www.youtube.com/watch?v=9sqkzY9O0mI)
+
 
 ### Topics
 * [Environment](../topics/environment.md)
