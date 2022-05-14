@@ -17,9 +17,11 @@ topics:
     - "environment/resources/oil"
     - "environment/resources/power-slug"
     - "features/buildings"
+    - "features/buildings/crash-site"
     - "features/buildings/oil-extractor"
     - "features/crafting/recipes/alternate-recipes"
     - "off-topic/subnautica"
+    - "off-topic/the-lord-of-the-rings"
     - "satisfactory-updates/pending/satisfactory-update-6"
     - "satisfactory-updates/released/satisfactory-update-5/save-the-willows"
     - "satisfactory-updates/teasers-and-trailers/update-6-teasers"
@@ -47,9 +49,11 @@ https://www.youtube.com/watch?v=FqhboAjAiYY
 * [Environment > Resources > Oil](../topics/environment/resources/oil.md)
 * [Environment > Resources > Power Slug](../topics/environment/resources/power-slug.md)
 * [Features > Buildings](../topics/features/buildings.md)
+* [Features > Buildings > Crash Site](../topics/features/buildings/crash-site.md)
 * [Features > Buildings > Oil Extractor](../topics/features/buildings/oil-extractor.md)
 * [Features > Crafting > Recipes > Alternate Recipes](../topics/features/crafting/recipes/alternate-recipes.md)
 * [Off-Topic > Subnautica](../topics/off-topic/subnautica.md)
+* [Off-Topic > The Lord of the Rings](../topics/off-topic/the-lord-of-the-rings.md)
 * [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
 * [Satisfactory Updates > Released > Satisfactory Update 5 > #SaveTheWillows](../topics/satisfactory-updates/released/satisfactory-update-5/save-the-willows.md)
 * [Satisfactory Updates > Teasers & Trailers > Update 6 Teasers](../topics/satisfactory-updates/teasers-and-trailers/update-6-teasers.md)

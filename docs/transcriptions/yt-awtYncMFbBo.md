@@ -3,7 +3,7 @@ title: "February 2nd, 2021 Livestream Q&A: More HDD Crash Sites for Update 4?"
 date: "2021-02-02"
 layout: transcript
 topics:
-    - "features/crafting/recipes/alternate-recipes"
+    - "features/buildings/crash-site"
     - "satisfactory-updates/released/satisfactory-update-4"
 ---
 # [February 2nd, 2021 Livestream](../2021-02-02.md)
@@ -19,7 +19,7 @@ This question was possibly replaced with a more recent answer: [March 2nd, 2021 
 
 
 ### Topics
-* [Features > Crafting > Recipes > Alternate Recipes](../topics/features/crafting/recipes/alternate-recipes.md)
+* [Features > Buildings > Crash Site](../topics/features/buildings/crash-site.md)
 * [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 
 ### Transcript

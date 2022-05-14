@@ -37,6 +37,9 @@ date: Last Modified
 * [Q&A: WTF, there's a Rifle in Satisfactory?](../../../transcriptions/yt-WTCjl2Tu39A.md) [https://www.youtube.com/watch?v=WTCjl2Tu39A](https://www.youtube.com/watch?v=WTCjl2Tu39A)
 * [Q&A: Is there going to be more equipment coming, like Rifle Mk. 2?](../../../transcriptions/yt--fXaMAXEY5U.md) [https://www.youtube.com/watch?v=-fXaMAXEY5U](https://www.youtube.com/watch?v=-fXaMAXEY5U)
 
+## September 8th, 2020 Livestream
+* [Q&A: I'm not asking for a change, but why Beacons to craft Bullets?](../../../transcriptions/yt-Gttu7r1NCLk.md) [https://www.youtube.com/watch?v=Gttu7r1NCLk](https://www.youtube.com/watch?v=Gttu7r1NCLk)
+
 ## May 14th, 2019 Patch Notes
 * [Jace Talk: We've added a Rifle](../../../transcriptions/yt-aceacdNX9WA,152.279617,162.126431.md) [https://youtube.com/embed/aceacdNX9WA?autoplay=1&start=152&end=163](https://youtube.com/embed/aceacdNX9WA?autoplay=1&start=152&end=163)
 * [Jace Talk: Rifle Mk.2](../../../transcriptions/yt-aceacdNX9WA,162.126431,170.318853.md) [https://youtube.com/embed/aceacdNX9WA?autoplay=1&start=162&end=171](https://youtube.com/embed/aceacdNX9WA?autoplay=1&start=162&end=171)

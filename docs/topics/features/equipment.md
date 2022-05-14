@@ -4,6 +4,7 @@ external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEpZqJYXU-zIKp_92
 date: Last Modified
 ---
 # [Topics](../../topics.md) > [Features](../../topics/features.md) > Equipment
+* [Beacon](../../topics/features/equipment/beacon.md)
 * [Blade Runners](../../topics/features/equipment/blade-runners.md)
 * [Chainsaw](../../topics/features/equipment/chainsaw.md)
 * [Color Gun](../../topics/features/equipment/color-gun.md)

@@ -7,6 +7,7 @@ topics:
     - "features/transportation/trains/train-signals"
     - "satisfactory-updates/released/satisfactory-update-5"
     - "satisfactory-updates/teasers-and-trailers/update-5-teasers"
+    - "technology/user-interface/markers"
 ---
 # [October 8th, 2021 Video](../2021-10-08.md)
 ## Jace Talk: Train Collisions & derailment
@@ -17,6 +18,7 @@ https://youtube.com/clip/Ugkx5fKmE25idV_PPd2BZ6oIlV-BkWXyl_wW
 * [Features > Transportation > Trains > Train Signals](../topics/features/transportation/trains/train-signals.md)
 * [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 * [Satisfactory Updates > Teasers & Trailers > Update 5 Teasers](../topics/satisfactory-updates/teasers-and-trailers/update-5-teasers.md)
+* [Technology > User Interface > Markers](../topics/technology/user-interface/markers.md)
 
 ### Transcript
 

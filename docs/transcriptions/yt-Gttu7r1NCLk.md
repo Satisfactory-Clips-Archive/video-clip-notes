@@ -4,6 +4,9 @@ date: "2020-09-08"
 layout: transcript
 topics:
     - "features/crafting"
+    - "features/crafting/recipes"
+    - "features/equipment/beacon"
+    - "features/equipment/rifle"
 ---
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: I'm not asking for a change, but why Beacons to craft Bullets?
@@ -11,6 +14,9 @@ https://www.youtube.com/watch?v=Gttu7r1NCLk
 
 ### Topics
 * [Features > Crafting](../topics/features/crafting.md)
+* [Features > Crafting > Recipes](../topics/features/crafting/recipes.md)
+* [Features > Equipment > Beacon](../topics/features/equipment/beacon.md)
+* [Features > Equipment > Rifle](../topics/features/equipment/rifle.md)
 
 ### Transcript
 

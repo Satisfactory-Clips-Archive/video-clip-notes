@@ -3,7 +3,8 @@ title: "December 14th, 2021 Livestream Q&A: Will crash sites ever be made decons
 date: "2021-12-14"
 layout: transcript
 topics:
-    - "features/crafting/recipes/alternate-recipes"
+    - "features/buildings/crash-site"
+    - "features/requested-features"
 ---
 # [December 14th, 2021 Livestream](../2021-12-14.md)
 ## Q&A: Will crash sites ever be made deconstructable in future?
@@ -12,7 +13,8 @@ This question was possibly duplicated with a more recent answer: [April 26th, 20
 
 
 ### Topics
-* [Features > Crafting > Recipes > Alternate Recipes](../topics/features/crafting/recipes/alternate-recipes.md)
+* [Features > Buildings > Crash Site](../topics/features/buildings/crash-site.md)
+* [Features > Requested Features](../topics/features/requested-features.md)
 
 ### Transcript
 

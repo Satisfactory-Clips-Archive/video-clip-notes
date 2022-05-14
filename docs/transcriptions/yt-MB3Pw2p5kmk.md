@@ -3,8 +3,7 @@ title: "April 26th, 2022 Livestream Q&A: Can we destroy completed Crash Sites?"
 date: "2022-04-26"
 layout: transcript
 topics:
-    - "features/buildings"
-    - "features/crafting/recipes/alternate-recipes"
+    - "features/buildings/crash-site"
     - "features/requested-features"
 ---
 # [April 26th, 2022 Livestream](../2022-04-26.md)
@@ -22,8 +21,7 @@ https://www.youtube.com/watch?v=MB3Pw2p5kmk
 
 
 ### Topics
-* [Features > Buildings](../topics/features/buildings.md)
-* [Features > Crafting > Recipes > Alternate Recipes](../topics/features/crafting/recipes/alternate-recipes.md)
+* [Features > Buildings > Crash Site](../topics/features/buildings/crash-site.md)
 * [Features > Requested Features](../topics/features/requested-features.md)
 
 ### Transcript

@@ -11,6 +11,7 @@ date: Last Modified
 * [Blender](../../topics/features/buildings/blender.md)
 * [Coal Generator](../../topics/features/buildings/coal-generator.md)
 * [Constructor](../../topics/features/buildings/constructor.md)
+* [Crash Site](../../topics/features/buildings/crash-site.md)
 * [M.A.M.](../../topics/features/buildings/m-a-m.md)
 * [Miner](../../topics/features/buildings/miner.md)
 * [Oil Extractor](../../topics/features/buildings/oil-extractor.md)
@@ -33,11 +34,6 @@ date: Last Modified
 ## May 3rd, 2022 Livestream
 * [State of Dev](../../transcriptions/yt-HBdLi32e74Q.md) [https://www.youtube.com/watch?v=HBdLi32e74Q](https://www.youtube.com/watch?v=HBdLi32e74Q)
 * [Q&A: Can we get Train Stations that only build on one side of the rail?](../../transcriptions/yt-pAgK0EmyStU.md) [https://www.youtube.com/watch?v=pAgK0EmyStU](https://www.youtube.com/watch?v=pAgK0EmyStU)
-
-## April 26th, 2022 Livestream
-* [Q&A: Can Crash Sites fall as we're playing?](../../transcriptions/yt-AQxtLD0pdpk.md) [https://www.youtube.com/watch?v=AQxtLD0pdpk](https://www.youtube.com/watch?v=AQxtLD0pdpk)
-* [Community FYI: Imagine a ship wreck falling on your factory and destroys everything](../../transcriptions/yt-2_pnQp9mNbs.md) [https://www.youtube.com/watch?v=2_pnQp9mNbs](https://www.youtube.com/watch?v=2_pnQp9mNbs)
-* [Q&A: Can we destroy completed Crash Sites?](../../transcriptions/yt-MB3Pw2p5kmk.md) [https://www.youtube.com/watch?v=MB3Pw2p5kmk](https://www.youtube.com/watch?v=MB3Pw2p5kmk)
 
 ## April 19th, 2022 Livestream
 * [Q&A: What is "Skövde C" for you, and why is it the first Station name in Satisfactory?](../../transcriptions/yt-1a5Y1wJ2EP0.md) [https://www.youtube.com/watch?v=1a5Y1wJ2EP0](https://www.youtube.com/watch?v=1a5Y1wJ2EP0)

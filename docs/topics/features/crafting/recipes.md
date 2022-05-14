@@ -121,6 +121,9 @@ date: Last Modified
 ## September 15th, 2020 Livestream
 * [Q&A: Will the update break saves?](../../../transcriptions/yt-4RrHBOTPcs8.md) [https://www.youtube.com/watch?v=4RrHBOTPcs8](https://www.youtube.com/watch?v=4RrHBOTPcs8)
 
+## September 8th, 2020 Livestream
+* [Q&A: I'm not asking for a change, but why Beacons to craft Bullets?](../../../transcriptions/yt-Gttu7r1NCLk.md) [https://www.youtube.com/watch?v=Gttu7r1NCLk](https://www.youtube.com/watch?v=Gttu7r1NCLk)
+
 ## August 25th, 2020 Livestream
 * [Q&A: Copy & Paste settings from Machine to Machine?](../../../transcriptions/yt-20nzwUoDWuA.md) [https://www.youtube.com/watch?v=20nzwUoDWuA](https://www.youtube.com/watch?v=20nzwUoDWuA)
 

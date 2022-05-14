@@ -3,8 +3,8 @@ title: "April 20th, 2021 Livestream Q&A: How about making Crash Sites deconstruc
 date: "2021-04-20"
 layout: transcript
 topics:
-    - "environment/world-map"
-    - "features/crafting/recipes/alternate-recipes"
+    - "features/buildings/crash-site"
+    - "features/requested-features"
 ---
 # [April 20th, 2021 Livestream](../2021-04-20.md)
 ## Q&A: How about making Crash Sites deconstructable after looting?
@@ -13,8 +13,8 @@ This question was possibly duplicated with a more recent answer: [April 26th, 20
 
 
 ### Topics
-* [Environment > World Map](../topics/environment/world-map.md)
-* [Features > Crafting > Recipes > Alternate Recipes](../topics/features/crafting/recipes/alternate-recipes.md)
+* [Features > Buildings > Crash Site](../topics/features/buildings/crash-site.md)
+* [Features > Requested Features](../topics/features/requested-features.md)
 
 ### Transcript
 

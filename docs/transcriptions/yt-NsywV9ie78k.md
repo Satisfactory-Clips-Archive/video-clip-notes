@@ -4,6 +4,7 @@ date: "2019-03-09"
 layout: transcript
 topics:
     - "environment/world-map"
+    - "features/equipment/beacon"
 ---
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: What's the point of naming beacons?
@@ -11,6 +12,7 @@ https://www.youtube.com/watch?v=NsywV9ie78k
 
 ### Topics
 * [Environment > World Map](../topics/environment/world-map.md)
+* [Features > Equipment > Beacon](../topics/features/equipment/beacon.md)
 
 ### Transcript
 

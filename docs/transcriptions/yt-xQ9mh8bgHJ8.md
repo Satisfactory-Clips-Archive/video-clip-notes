@@ -3,6 +3,7 @@ title: "May 4th, 2021 Livestream Q&A: Why'd you put the character limit on Beaco
 date: "2021-05-04"
 layout: transcript
 topics:
+    - "features/equipment/beacon"
     - "technology/user-interface"
 ---
 # [May 4th, 2021 Livestream](../2021-05-04.md)
@@ -10,6 +11,7 @@ topics:
 https://www.youtube.com/watch?v=xQ9mh8bgHJ8
 
 ### Topics
+* [Features > Equipment > Beacon](../topics/features/equipment/beacon.md)
 * [Technology > User Interface](../topics/technology/user-interface.md)
 
 ### Transcript

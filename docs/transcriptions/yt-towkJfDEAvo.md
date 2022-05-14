@@ -4,7 +4,8 @@ date: "2021-08-24"
 layout: transcript
 topics:
     - "environment"
-    - "features/crafting/recipes/alternate-recipes"
+    - "features/buildings/crash-site"
+    - "features/requested-features"
 ---
 # [August 24th, 2021 Livestream](../2021-08-24.md)
 ## Q&A: Is removing Crash Sites by deconstruction even for no parts something to do to clear the Map?
@@ -14,7 +15,8 @@ This question was possibly duplicated with a more recent answer: [April 26th, 20
 
 ### Topics
 * [Environment](../topics/environment.md)
-* [Features > Crafting > Recipes > Alternate Recipes](../topics/features/crafting/recipes/alternate-recipes.md)
+* [Features > Buildings > Crash Site](../topics/features/buildings/crash-site.md)
+* [Features > Requested Features](../topics/features/requested-features.md)
 
 ### Transcript
 

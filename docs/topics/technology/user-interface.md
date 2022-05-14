@@ -5,6 +5,8 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > User Interface
 * [Holograms](../../topics/technology/user-interface/holograms.md)
+* [Markers](../../topics/technology/user-interface/markers.md)
+* [Ping](../../topics/technology/user-interface/ping.md)
 
 ## May 10th, 2022 Livestream
 * [Q&A: Can you open the in-game Map on this?](../../transcriptions/yt-NG_Hgg8Zu6Q.md) [https://www.youtube.com/watch?v=NG_Hgg8Zu6Q](https://www.youtube.com/watch?v=NG_Hgg8Zu6Q)
@@ -90,7 +92,6 @@ date: Last Modified
 
 ## November 9th, 2021 Livestream
 * [Q&A: Will Programmable Splitters ever get a copy & paste feature?](../../transcriptions/yt-P86fRw4YeZc.md) [https://www.youtube.com/watch?v=P86fRw4YeZc](https://www.youtube.com/watch?v=P86fRw4YeZc)
-* [Q&A: Will pings be fixed with the next Update or will they always be 20 degrees off?](../../transcriptions/yt-NZD-kpk4KgQ.md) [https://www.youtube.com/watch?v=NZD-kpk4KgQ](https://www.youtube.com/watch?v=NZD-kpk4KgQ)
 * Q&A: Why do Vehicles have a health bar? [https://www.youtube.com/watch?v=nY7aRkB1PbU](https://www.youtube.com/watch?v=nY7aRkB1PbU)
 * [Q&A: Mapping hotkeys instead of using mousewheel?](../../transcriptions/yt-SRVEhitZpCE.md) [https://www.youtube.com/watch?v=SRVEhitZpCE](https://www.youtube.com/watch?v=SRVEhitZpCE)
 * [Community FYI: I set my Alt+Scroll set to +/- on my number pad](../../transcriptions/yt-JbNr9xsrt-c.md) [https://www.youtube.com/watch?v=JbNr9xsrt-c](https://www.youtube.com/watch?v=JbNr9xsrt-c)
@@ -224,7 +225,6 @@ date: Last Modified
 * [Snutt & Jace Talk: Power Management (Part 1)](../../transcriptions/yt-3uRBZeQb25o.md) [https://www.youtube.com/watch?v=3uRBZeQb25o](https://www.youtube.com/watch?v=3uRBZeQb25o)
 * [Snutt & Jace Talk: Fluid headlift](../../transcriptions/yt-sksqE5qhmzE.md) [https://www.youtube.com/watch?v=sksqE5qhmzE](https://www.youtube.com/watch?v=sksqE5qhmzE)
 * [Snutt & Jace Talk: Power Management (Part 2)](../../transcriptions/yt-SfssbA6x1YI.md) [https://www.youtube.com/watch?v=SfssbA6x1YI](https://www.youtube.com/watch?v=SfssbA6x1YI)
-* [Q&A: How do you measure 10m height?](../../transcriptions/yt-6_EKJGtzTdg.md) [https://www.youtube.com/watch?v=6_EKJGtzTdg](https://www.youtube.com/watch?v=6_EKJGtzTdg)
 * [Snutt & Jace Talk: Power Management (Part 3)](../../transcriptions/yt-C9vuYpUPjBM.md) [https://www.youtube.com/watch?v=C9vuYpUPjBM](https://www.youtube.com/watch?v=C9vuYpUPjBM)
 * [Snutt & Jace Talk: Setting up a Coal Generator (Part 11)](../../transcriptions/yt-AdcVkDJ1d1o.md) [https://www.youtube.com/watch?v=AdcVkDJ1d1o](https://www.youtube.com/watch?v=AdcVkDJ1d1o)
 * [Snutt & Jace Talk: Production Ratios & Overclocking (Part 1)](../../transcriptions/yt-Q9950uKeMEY.md) [https://www.youtube.com/watch?v=Q9950uKeMEY](https://www.youtube.com/watch?v=Q9950uKeMEY)
@@ -475,7 +475,6 @@ date: Last Modified
 * [Q&A: Quick keys for tools?](../../transcriptions/yt-MUBE6tb7AjQ.md) [https://www.youtube.com/watch?v=MUBE6tb7AjQ](https://www.youtube.com/watch?v=MUBE6tb7AjQ)
 * [Snutt Talk: To-Do List](../../transcriptions/yt-e-no7l9HuqE.md) [https://www.youtube.com/watch?v=e-no7l9HuqE](https://www.youtube.com/watch?v=e-no7l9HuqE)
 * [Snutt & Jace Talk: Email replies work](../../transcriptions/yt-yZRoWLhKetk.md) [https://www.youtube.com/watch?v=yZRoWLhKetk](https://www.youtube.com/watch?v=yZRoWLhKetk)
-* [Q&A: How do you ping?](../../transcriptions/yt-3DLGyE9GUf4.md) [https://www.youtube.com/watch?v=3DLGyE9GUf4](https://www.youtube.com/watch?v=3DLGyE9GUf4)
 * [Q&A: Controller support?](../../transcriptions/yt-XrsD3h62ils.md) [https://www.youtube.com/watch?v=XrsD3h62ils](https://www.youtube.com/watch?v=XrsD3h62ils)
 
 ## February 6th, 2019 Livestream

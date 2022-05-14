@@ -186,6 +186,7 @@ date: Last Modified
 * [Blender](./topics/features/buildings/blender.md)
 * [Coal Generator](./topics/features/buildings/coal-generator.md)
 * [Constructor](./topics/features/buildings/constructor.md)
+* [Crash Site](./topics/features/buildings/crash-site.md)
 * [M.A.M.](./topics/features/buildings/m-a-m.md)
 * [Miner](./topics/features/buildings/miner.md)
 * [Oil Extractor](./topics/features/buildings/oil-extractor.md)
@@ -213,6 +214,7 @@ date: Last Modified
 ---
 
 ## [Equipment](./topics/features/equipment.md)
+* [Beacon](./topics/features/equipment/beacon.md)
 * [Blade Runners](./topics/features/equipment/blade-runners.md)
 * [Chainsaw](./topics/features/equipment/chainsaw.md)
 * [Color Gun](./topics/features/equipment/color-gun.md)
@@ -417,6 +419,8 @@ date: Last Modified
 * [Subnautica](./topics/off-topic/subnautica.md)
 * [Terrible Jokes](./topics/off-topic/terrible-jokes.md)
 * [The Cycle](./topics/off-topic/the-cycle.md)
+* [The Legend of Zelda](./topics/off-topic/the-legend-of-zelda.md)
+* [The Lord of the Rings](./topics/off-topic/the-lord-of-the-rings.md)
 * [Valheim](./topics/off-topic/valheim.md)
 
 ## [Final Fantasy](./topics/off-topic/final-fantasy.md)
@@ -564,5 +568,7 @@ date: Last Modified
 
 ## [User Interface](./topics/technology/user-interface.md)
 * [Holograms](./topics/technology/user-interface/holograms.md)
+* [Markers](./topics/technology/user-interface/markers.md)
+* [Ping](./topics/technology/user-interface/ping.md)
 ---
 * [Trolling](./topics/trolling.md)

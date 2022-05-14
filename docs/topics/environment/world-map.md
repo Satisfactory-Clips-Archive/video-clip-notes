@@ -98,9 +98,7 @@ date: Last Modified
 * [Q&A: My corpse is in the dead zone, how do I retrieve it?](../../transcriptions/yt-7ZhQQ90M2eU.md) [https://www.youtube.com/watch?v=7ZhQQ90M2eU](https://www.youtube.com/watch?v=7ZhQQ90M2eU)
 * [Q&A: Will we get a bigger map?](../../transcriptions/yt-3jmL6IM3Qqk.md) [https://www.youtube.com/watch?v=3jmL6IM3Qqk](https://www.youtube.com/watch?v=3jmL6IM3Qqk)
 * [Q&A: Is there any talk about new resource locations?](../../transcriptions/yt--1_zC92heaI.md) [https://www.youtube.com/watch?v=-1_zC92heaI](https://www.youtube.com/watch?v=-1_zC92heaI)
-* [Q&A: How about making Crash Sites deconstructable after looting?](../../transcriptions/yt-8NEorsLWk6k.md) [https://www.youtube.com/watch?v=8NEorsLWk6k](https://www.youtube.com/watch?v=8NEorsLWk6k)
 * [Community FYI: beacons work fine for tagging raided crash sites](../../transcriptions/yt-caCdUs9XJ9A.md) [https://www.youtube.com/watch?v=caCdUs9XJ9A](https://www.youtube.com/watch?v=caCdUs9XJ9A)
-* [Q&A: If we get the hard drive make the crash site disappear?](../../transcriptions/yt-O3fr1FIrFno.md) [https://www.youtube.com/watch?v=O3fr1FIrFno](https://www.youtube.com/watch?v=O3fr1FIrFno)
 
 ## April 6th, 2021 Livestream
 * [Q&A: Do you think we'll rework Radar Towers?](../../transcriptions/yt-hoLnbnTC5vE.md) [https://www.youtube.com/watch?v=hoLnbnTC5vE](https://www.youtube.com/watch?v=hoLnbnTC5vE)

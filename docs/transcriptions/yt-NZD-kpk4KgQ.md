@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "features/multiplayer"
     - "satisfactory-updates/released/satisfactory-update-5"
-    - "technology/user-interface"
+    - "technology/user-interface/ping"
 ---
 # [November 9th, 2021 Livestream](../2021-11-09.md)
 ## Q&A: Will pings be fixed with the next Update or will they always be 20 degrees off?
@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=NZD-kpk4KgQ
 ### Topics
 * [Features > Multiplayer](../topics/features/multiplayer.md)
 * [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
-* [Technology > User Interface](../topics/technology/user-interface.md)
+* [Technology > User Interface > Ping](../topics/technology/user-interface/ping.md)
 
 ### Transcript
 

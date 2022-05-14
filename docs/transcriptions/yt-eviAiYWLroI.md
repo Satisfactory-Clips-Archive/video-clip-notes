@@ -4,8 +4,8 @@ date: "2021-09-28"
 layout: transcript
 topics:
     - "environment/resources"
+    - "features/buildings/crash-site"
     - "features/buildings/m-a-m"
-    - "features/crafting/recipes/alternate-recipes"
     - "satisfactory-updates/seasonal-events/fics-mas"
 ---
 # [September 28th, 2021 Livestream](../2021-09-28.md)
@@ -16,8 +16,8 @@ This question was possibly duplicated with a more recent answer: [October 12th, 
 
 ### Topics
 * [Environment > Resources](../topics/environment/resources.md)
+* [Features > Buildings > Crash Site](../topics/features/buildings/crash-site.md)
 * [Features > Buildings > M.A.M.](../topics/features/buildings/m-a-m.md)
-* [Features > Crafting > Recipes > Alternate Recipes](../topics/features/crafting/recipes/alternate-recipes.md)
 * [Satisfactory Updates > Seasonal Events > FICS⁕MAS](../topics/satisfactory-updates/seasonal-events/fics-mas.md)
 
 ### Transcript

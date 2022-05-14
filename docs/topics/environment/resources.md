@@ -186,6 +186,7 @@ date: Last Modified
 
 ## May 4th, 2021 Livestream
 * [Snutt Talk: Issues with the Resource Scanner](../../transcriptions/yt-8Lbyna2HHfc.md) [https://www.youtube.com/watch?v=8Lbyna2HHfc](https://www.youtube.com/watch?v=8Lbyna2HHfc)
+* [Q&A: Quantum Computers don't exist yet, did I overlook something?](../../transcriptions/yt-Aflfj7-LF6w.md) [https://www.youtube.com/watch?v=Aflfj7-LF6w](https://www.youtube.com/watch?v=Aflfj7-LF6w)
 
 ## April 27th, 2021 Livestream
 * [Q&A: What about rare resources like silver & gold?](../../transcriptions/yt-lYgVTM0bibw.md) [https://www.youtube.com/watch?v=lYgVTM0bibw](https://www.youtube.com/watch?v=lYgVTM0bibw)

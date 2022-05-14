@@ -4,7 +4,9 @@ date: "2021-05-04"
 layout: transcript
 topics:
     - "environment/resources"
+    - "features/buildings/crash-site"
     - "features/equipment/resource-scanner"
+    - "features/requested-features"
     - "qa-site"
 ---
 # [May 4th, 2021 Livestream](../2021-05-04.md)
@@ -13,7 +15,9 @@ https://www.youtube.com/watch?v=8Lbyna2HHfc
 
 ### Topics
 * [Environment > Resources](../topics/environment/resources.md)
+* [Features > Buildings > Crash Site](../topics/features/buildings/crash-site.md)
 * [Features > Equipment > Resource Scanner](../topics/features/equipment/resource-scanner.md)
+* [Features > Requested Features](../topics/features/requested-features.md)
 * [QA Site](../topics/qa-site.md)
 
 ### Transcript

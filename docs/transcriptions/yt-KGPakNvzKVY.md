@@ -4,6 +4,7 @@ date: "2021-02-02"
 layout: transcript
 topics:
     - "coffee-stainers/jace"
+    - "off-topic/the-legend-of-zelda"
 ---
 # [February 2nd, 2021 Livestream](../2021-02-02.md)
 ## Q&A: Jace in Link outfit when?
@@ -11,6 +12,7 @@ https://www.youtube.com/watch?v=KGPakNvzKVY
 
 ### Topics
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
+* [Off-Topic > The Legend of Zelda](../topics/off-topic/the-legend-of-zelda.md)
 
 ### Transcript
 

@@ -6,6 +6,7 @@ topics:
     - "coffee-stainers/jace"
     - "coffee-stainers/snutt"
     - "off-topic"
+    - "off-topic/the-lord-of-the-rings"
 ---
 # [February 23rd, 2021 Livestream](../2021-02-23.md)
 ## Snutt & Jace Talk: What do your Elven eyes see?
@@ -15,6 +16,7 @@ https://www.youtube.com/watch?v=-8e9UFPRbMo
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
 * [Coffee Stainers > Snutt](../topics/coffee-stainers/snutt.md)
 * [Off-Topic](../topics/off-topic.md)
+* [Off-Topic > The Lord of the Rings](../topics/off-topic/the-lord-of-the-rings.md)
 
 ### Transcript
 

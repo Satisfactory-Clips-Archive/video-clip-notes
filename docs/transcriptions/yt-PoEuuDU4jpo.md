@@ -4,6 +4,7 @@ date: "2021-03-02"
 layout: transcript
 topics:
     - "coffee-stainers/mark"
+    - "features/buildings/crash-site"
     - "features/crafting/recipes/alternate-recipes"
     - "satisfactory-updates/released/satisfactory-update-4"
 ---
@@ -13,6 +14,7 @@ https://www.youtube.com/watch?v=PoEuuDU4jpo
 
 ### Topics
 * [Coffee Stainers > Mark](../topics/coffee-stainers/mark.md)
+* [Features > Buildings > Crash Site](../topics/features/buildings/crash-site.md)
 * [Features > Crafting > Recipes > Alternate Recipes](../topics/features/crafting/recipes/alternate-recipes.md)
 * [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 

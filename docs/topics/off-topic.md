@@ -21,6 +21,8 @@ date: Last Modified
 * [Sweden](../topics/off-topic/sweden.md)
 * [Terrible Jokes](../topics/off-topic/terrible-jokes.md)
 * [The Cycle](../topics/off-topic/the-cycle.md)
+* [The Legend of Zelda](../topics/off-topic/the-legend-of-zelda.md)
+* [The Lord of the Rings](../topics/off-topic/the-lord-of-the-rings.md)
 * [Valheim](../topics/off-topic/valheim.md)
 
 ## April 19th, 2022 Livestream

@@ -3,7 +3,8 @@ title: "July 20th, 2021 Livestream Q&A: Any plans on making Crash Sites deconstr
 date: "2021-07-20"
 layout: transcript
 topics:
-    - "features/crafting/recipes/alternate-recipes"
+    - "features/buildings/crash-site"
+    - "features/requested-features"
 ---
 # [July 20th, 2021 Livestream](../2021-07-20.md)
 ## Q&A: Any plans on making Crash Sites deconstructible after Hard Drive has been retrieved?
@@ -12,7 +13,8 @@ This question was possibly duplicated with a more recent answer: [April 26th, 20
 
 
 ### Topics
-* [Features > Crafting > Recipes > Alternate Recipes](../topics/features/crafting/recipes/alternate-recipes.md)
+* [Features > Buildings > Crash Site](../topics/features/buildings/crash-site.md)
+* [Features > Requested Features](../topics/features/requested-features.md)
 
 ### Transcript
 

@@ -5,6 +5,7 @@ layout: transcript
 topics:
     - "features/multiplayer"
     - "satisfactory-updates/pre-alpha"
+    - "technology/user-interface/ping"
 ---
 # [August 1st, 2017 Tutorial](../2017-08-01.md)
 ## Jace Talk: Multiplayer Ping & Text Chat
@@ -13,6 +14,7 @@ https://youtube.com/clip/UgkxQWPujRTKYym5DupNCN9Q8Ax5Se2SoTHE
 ### Topics
 * [Features > Multiplayer](../topics/features/multiplayer.md)
 * [Satisfactory Updates > Pre-Alpha](../topics/satisfactory-updates/pre-alpha.md)
+* [Technology > User Interface > Ping](../topics/technology/user-interface/ping.md)
 
 ### Transcript
 

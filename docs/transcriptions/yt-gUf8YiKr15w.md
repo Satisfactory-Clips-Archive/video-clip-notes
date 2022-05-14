@@ -4,6 +4,7 @@ date: "2021-06-01"
 layout: transcript
 topics:
     - "environment/resources"
+    - "features/buildings/crash-site"
     - "features/buildings/m-a-m"
     - "features/crafting/recipes/alternate-recipes"
     - "features/equipment"
@@ -15,6 +16,7 @@ https://www.youtube.com/watch?v=gUf8YiKr15w
 
 ### Topics
 * [Environment > Resources](../topics/environment/resources.md)
+* [Features > Buildings > Crash Site](../topics/features/buildings/crash-site.md)
 * [Features > Buildings > M.A.M.](../topics/features/buildings/m-a-m.md)
 * [Features > Crafting > Recipes > Alternate Recipes](../topics/features/crafting/recipes/alternate-recipes.md)
 * [Features > Equipment](../topics/features/equipment.md)

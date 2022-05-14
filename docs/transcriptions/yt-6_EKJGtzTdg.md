@@ -7,7 +7,7 @@ topics:
     - "features/fluids/pipes"
     - "features/fluids/pumps"
     - "june-2021-epic-mega-sale-stream"
-    - "technology/user-interface"
+    - "technology/user-interface/ping"
 ---
 # [June 1st, 2021 Livestream](../2021-06-01.md)
 ## Q&A: How do you measure 10m height?
@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=6_EKJGtzTdg
 * [Features > Fluids > Pipes](../topics/features/fluids/pipes.md)
 * [Features > Fluids > Pumps](../topics/features/fluids/pumps.md)
 * [June 2021 Epic Mega Sale Stream](../topics/june-2021-epic-mega-sale-stream.md)
-* [Technology > User Interface](../topics/technology/user-interface.md)
+* [Technology > User Interface > Ping](../topics/technology/user-interface/ping.md)
 
 ### Transcript
 

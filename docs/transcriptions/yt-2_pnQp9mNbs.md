@@ -3,16 +3,14 @@ title: "April 26th, 2022 Livestream Community FYI: Imagine a ship wreck falling 
 date: "2022-04-26"
 layout: transcript
 topics:
-    - "features/buildings"
-    - "features/crafting/recipes/alternate-recipes"
+    - "features/buildings/crash-site"
 ---
 # [April 26th, 2022 Livestream](../2022-04-26.md)
 ## Community FYI: Imagine a ship wreck falling on your factory and destroys everything
 https://www.youtube.com/watch?v=2_pnQp9mNbs
 
 ### Topics
-* [Features > Buildings](../topics/features/buildings.md)
-* [Features > Crafting > Recipes > Alternate Recipes](../topics/features/crafting/recipes/alternate-recipes.md)
+* [Features > Buildings > Crash Site](../topics/features/buildings/crash-site.md)
 
 ### Transcript
 

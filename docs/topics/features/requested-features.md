@@ -144,6 +144,7 @@ date: Last Modified
 * [Q&A: Can we have revolving signs?](../../transcriptions/yt-uEZ43YHhaRY.md) [https://www.youtube.com/watch?v=uEZ43YHhaRY](https://www.youtube.com/watch?v=uEZ43YHhaRY)
 * [Q&A: Five-input machine that makes Coffee?](../../transcriptions/yt-sgGhUaNdoZk.md) [https://www.youtube.com/watch?v=sgGhUaNdoZk](https://www.youtube.com/watch?v=sgGhUaNdoZk)
 * [Q&A: Biomass picker car?](../../transcriptions/yt-5CEbzAA0MkE.md) [https://www.youtube.com/watch?v=5CEbzAA0MkE](https://www.youtube.com/watch?v=5CEbzAA0MkE)
+* [Q&A: Will crash sites ever be made deconstructable in future?](../../transcriptions/yt-ouqhFkbmZZM.md) [https://www.youtube.com/watch?v=ouqhFkbmZZM](https://www.youtube.com/watch?v=ouqhFkbmZZM)
 * [Q&A: Map Editor?](../../transcriptions/yt-lX7XAk69lSw.md) [https://www.youtube.com/watch?v=lX7XAk69lSw](https://www.youtube.com/watch?v=lX7XAk69lSw)
 * [Q&A: Glow-in-the-dark Patterns?](../../transcriptions/yt-WbjT836oTRQ.md) [https://www.youtube.com/watch?v=WbjT836oTRQ](https://www.youtube.com/watch?v=WbjT836oTRQ)
 * [Q&A: Can we get a mobile Satisfactory?](../../transcriptions/yt-S6E6qkiS8jg.md) [https://www.youtube.com/watch?v=S6E6qkiS8jg](https://www.youtube.com/watch?v=S6E6qkiS8jg)
@@ -202,11 +203,15 @@ date: Last Modified
 * [Community FYI: There's a feature on the QA Site called world wide grid has almost 500 upvotes](../../transcriptions/yt-9QnK3VVyZsQ.md) [https://www.youtube.com/watch?v=9QnK3VVyZsQ](https://www.youtube.com/watch?v=9QnK3VVyZsQ)
 
 ## August 24th, 2021 Livestream
+* [Q&A: Is removing Crash Sites by deconstruction even for no parts something to do to clear the Map?](../../transcriptions/yt-towkJfDEAvo.md) [https://www.youtube.com/watch?v=towkJfDEAvo](https://www.youtube.com/watch?v=towkJfDEAvo)
 * [Community FYI: Ratio Splitters would be a game changer](../../transcriptions/yt-VDkjRnWH6PQ.md) [https://www.youtube.com/watch?v=VDkjRnWH6PQ](https://www.youtube.com/watch?v=VDkjRnWH6PQ)
 * [Q&A: Are there plans for an option to tell the Train to hold at the Station until the dock is full?](../../transcriptions/yt-tkfbRxpk2m4.md) [https://www.youtube.com/watch?v=tkfbRxpk2m4](https://www.youtube.com/watch?v=tkfbRxpk2m4)
 
 ## August 17th, 2021 Livestream
 * [Q&A: Any chance for improved controller support?](../../transcriptions/yt-jZYkquJsDyM.md) [https://www.youtube.com/watch?v=jZYkquJsDyM](https://www.youtube.com/watch?v=jZYkquJsDyM)
+
+## July 20th, 2021 Livestream
+* [Q&A: Any plans on making Crash Sites deconstructible after Hard Drive has been retrieved?](../../transcriptions/yt-zz7h3PhhWAg.md) [https://www.youtube.com/watch?v=zz7h3PhhWAg](https://www.youtube.com/watch?v=zz7h3PhhWAg)
 
 ## July 16th, 2021 Video
 * [Q&A: Why haven't you added [Feature] into the base game?](../../transcriptions/yt-Z2WggHmVHGI,364.8645,545.6784666666666.md) [https://youtube.com/embed/Z2WggHmVHGI?autoplay=1&start=364&end=546](https://youtube.com/embed/Z2WggHmVHGI?autoplay=1&start=364&end=546)
@@ -219,6 +224,16 @@ date: Last Modified
 
 ## June 1st, 2021 Livestream
 * [Q&A: Any plans for an Elevator for those of us that build mega factories?](../../transcriptions/yt-snzgCf54CIQ.md) [https://www.youtube.com/watch?v=snzgCf54CIQ](https://www.youtube.com/watch?v=snzgCf54CIQ)
+
+## May 4th, 2021 Livestream
+* [Snutt Talk: Issues with the Resource Scanner](../../transcriptions/yt-8Lbyna2HHfc.md) [https://www.youtube.com/watch?v=8Lbyna2HHfc](https://www.youtube.com/watch?v=8Lbyna2HHfc)
+
+## April 20th, 2021 Livestream
+* [Q&A: How about making Crash Sites deconstructable after looting?](../../transcriptions/yt-8NEorsLWk6k.md) [https://www.youtube.com/watch?v=8NEorsLWk6k](https://www.youtube.com/watch?v=8NEorsLWk6k)
+* [Q&A: If we get the hard drive make the crash site disappear?](../../transcriptions/yt-O3fr1FIrFno.md) [https://www.youtube.com/watch?v=O3fr1FIrFno](https://www.youtube.com/watch?v=O3fr1FIrFno)
+
+## September 29th, 2020 Livestream
+* [Q&A: Add a Tape Measure or something to gauge distance between two objects?](../../transcriptions/yt--hFvijwVlSQ.md) [https://www.youtube.com/watch?v=-hFvijwVlSQ](https://www.youtube.com/watch?v=-hFvijwVlSQ)
 
 ## September 15th, 2020 Livestream
 * [Q&A: Off-road Motorbike?](../../transcriptions/yt-ZEFN3_Qz4Kg.md) [https://www.youtube.com/watch?v=ZEFN3_Qz4Kg](https://www.youtube.com/watch?v=ZEFN3_Qz4Kg)

@@ -3,7 +3,8 @@ title: "May 4th, 2021 Livestream Q&A: Quantum Computers don't exist yet, did I o
 date: "2021-05-04"
 layout: transcript
 topics:
-    - "features/crafting/recipes/alternate-recipes"
+    - "environment/resources"
+    - "features/buildings/crash-site"
     - "satisfactory-updates/seasonal-events/fics-mas"
 ---
 # [May 4th, 2021 Livestream](../2021-05-04.md)
@@ -11,7 +12,8 @@ topics:
 https://www.youtube.com/watch?v=Aflfj7-LF6w
 
 ### Topics
-* [Features > Crafting > Recipes > Alternate Recipes](../topics/features/crafting/recipes/alternate-recipes.md)
+* [Environment > Resources](../topics/environment/resources.md)
+* [Features > Buildings > Crash Site](../topics/features/buildings/crash-site.md)
 * [Satisfactory Updates > Seasonal Events > FICS⁕MAS](../topics/satisfactory-updates/seasonal-events/fics-mas.md)
 
 ### Transcript
