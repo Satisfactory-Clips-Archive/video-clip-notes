@@ -11,7 +11,7 @@ topics:
 ---
 # [May 13th, 2022 Video](../2022-05-13.md)
 ## Radar Towers now reveal Resources
-https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=601&end=661
+https://youtube.com/clip/UgkxJnmVX3S3bs9IkJtFO072OngyOy6kFLxg
 
 ### Topics
 * [Environment > Resources](../topics/environment/resources.md)

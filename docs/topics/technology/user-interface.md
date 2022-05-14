@@ -10,18 +10,18 @@ date: Last Modified
 * [Stamps](../../topics/technology/user-interface/stamps.md)
 
 ## May 13th, 2022 Video
-* [Introducing the topic of the video](../../transcriptions/yt-2vAUX3YLH-c,9.476133333333333,56.38966666666667.md) [https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=9&end=57](https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=9&end=57)
+* [Introducing the topic of the video](../../transcriptions/yt-2vAUX3YLH-c,9.476133333333333,56.38966666666667.md) [https://youtube.com/clip/Ugkx5x2bQA1difTBhirAncKs5J55MzzrNydA](https://youtube.com/clip/Ugkx5x2bQA1difTBhirAncKs5J55MzzrNydA)
 * [Introducing the Map changes](../../transcriptions/yt-2vAUX3YLH-c,56.423033333333336,142.07526666666666.md) [https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=56&end=143](https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=56&end=143)
-* [Doing away with Beacons](../../transcriptions/yt-2vAUX3YLH-c,142.10863333333333,187.193228.md) [https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=142&end=188](https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=142&end=188)
-* [Differences in Markers & Stamps (Part 1)](../../transcriptions/yt-2vAUX3YLH-c,349.4491,361.4277333333333.md) [https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=349&end=362](https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=349&end=362)
-* [Highlighting Markers & Stamps](../../transcriptions/yt-2vAUX3YLH-c,361.4611,414.74766666666665.md) [https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=361&end=415](https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=361&end=415)
-* [Differences in Markers & Stamps (Part 2)](../../transcriptions/yt-2vAUX3YLH-c,414.78103333333337,439.20543333333336.md) [https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=414&end=440](https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=414&end=440)
-* [Available Markers and Stamps](../../transcriptions/yt-2vAUX3YLH-c,439.2388,455.92213333333336.md) [https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=439&end=456](https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=439&end=456)
-* [New Map Menu](../../transcriptions/yt-2vAUX3YLH-c,455.95550000000003,507.57373333333334.md) [https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=455&end=508](https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=455&end=508)
+* [Doing away with Beacons](../../transcriptions/yt-2vAUX3YLH-c,142.10863333333333,187.193228.md) [https://youtube.com/clip/UgkxUoFtVkKDtj0_Pe-bM_vs93ieHHoH_nkg](https://youtube.com/clip/UgkxUoFtVkKDtj0_Pe-bM_vs93ieHHoH_nkg)
+* [Differences in Markers & Stamps (Part 1)](../../transcriptions/yt-2vAUX3YLH-c,349.4491,361.4277333333333.md) [https://youtube.com/clip/UgkxuD7AWn1mGLw_vtoymSgTXSd_t8XuMi37](https://youtube.com/clip/UgkxuD7AWn1mGLw_vtoymSgTXSd_t8XuMi37)
+* [Highlighting Markers & Stamps](../../transcriptions/yt-2vAUX3YLH-c,361.4611,414.74766666666665.md) [https://youtube.com/clip/UgkxWv7VFkF9B7yA--byc8J6Vo1xjuFsKgVq](https://youtube.com/clip/UgkxWv7VFkF9B7yA--byc8J6Vo1xjuFsKgVq)
+* [Differences in Markers & Stamps (Part 2)](../../transcriptions/yt-2vAUX3YLH-c,414.78103333333337,439.20543333333336.md) [https://youtube.com/clip/UgkxuGgbssifoDFqHj-dI8lM-GbUG-ccyBsT](https://youtube.com/clip/UgkxuGgbssifoDFqHj-dI8lM-GbUG-ccyBsT)
+* [Available Markers and Stamps](../../transcriptions/yt-2vAUX3YLH-c,439.2388,455.92213333333336.md) [https://youtube.com/clip/Ugkx05TS1qtblOqFuGbT2n3XOaMZQyUJ9apZ](https://youtube.com/clip/Ugkx05TS1qtblOqFuGbT2n3XOaMZQyUJ9apZ)
+* [New Map Menu](../../transcriptions/yt-2vAUX3YLH-c,455.95550000000003,507.57373333333334.md) [https://youtube.com/clip/UgkxHQOyhD7VNSOt_0fFG528Px6fM2EDtsv0](https://youtube.com/clip/UgkxHQOyhD7VNSOt_0fFG528Px6fM2EDtsv0)
 * [Radar Towers in Update 5 vs. Update 6](../../transcriptions/yt-2vAUX3YLH-c,507.6071,601.2339666666667.md) [https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=507&end=602](https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=507&end=602)
-* [Changes are focussed on the Update 6 "Exploration" theme](../../transcriptions/yt-2vAUX3YLH-c,684.2502333333333,708.4077.md) [https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=684&end=709](https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=684&end=709)
+* [Changes are focussed on the Update 6 "Exploration" theme](../../transcriptions/yt-2vAUX3YLH-c,684.2502333333333,708.4077.md) [https://youtube.com/clip/Ugkxx2MMfiqo82Skcbd9DYcofSTblIQUl0Q3](https://youtube.com/clip/Ugkxx2MMfiqo82Skcbd9DYcofSTblIQUl0Q3)
 * [Changes to the Resource Scanner compass Marker](../../transcriptions/yt-2vAUX3YLH-c,708.4410666666666,779.5788.md) [https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=708&end=780](https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=708&end=780)
-* [Justifying the changes + possible changes to come](../../transcriptions/yt-2vAUX3YLH-c,779.6121666666667,815.5147000000001.md) [https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=779&end=816](https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=779&end=816)
+* [Justifying the changes + possible changes to come](../../transcriptions/yt-2vAUX3YLH-c,779.6121666666667,815.5147000000001.md) [https://youtube.com/clip/Ugkx5PpBrbmcGZ8DrBq5-RITdwjFLUr9z8Nv](https://youtube.com/clip/Ugkx5PpBrbmcGZ8DrBq5-RITdwjFLUr9z8Nv)
 
 ## May 10th, 2022 Livestream
 * [Q&A: Can you open the in-game Map on this?](../../transcriptions/yt-NG_Hgg8Zu6Q.md) [https://www.youtube.com/watch?v=NG_Hgg8Zu6Q](https://www.youtube.com/watch?v=NG_Hgg8Zu6Q)

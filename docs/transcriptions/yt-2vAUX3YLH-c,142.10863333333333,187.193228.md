@@ -10,7 +10,7 @@ topics:
 ---
 # [May 13th, 2022 Video](../2022-05-13.md)
 ## Doing away with Beacons
-https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=142&end=188
+https://youtube.com/clip/UgkxUoFtVkKDtj0_Pe-bM_vs93ieHHoH_nkg
 
 ### Topics
 * [Features > Equipment > Beacon](../topics/features/equipment/beacon.md)

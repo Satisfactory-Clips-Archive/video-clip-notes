@@ -11,7 +11,7 @@ topics:
 ---
 # [May 13th, 2022 Video](../2022-05-13.md)
 ## Justifying the changes + possible changes to come
-https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=779&end=816
+https://youtube.com/clip/Ugkx5PpBrbmcGZ8DrBq5-RITdwjFLUr9z8Nv
 
 ### Topics
 * [QA Site](../topics/qa-site.md)

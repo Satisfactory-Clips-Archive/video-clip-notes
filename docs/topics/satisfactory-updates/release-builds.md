@@ -6,7 +6,7 @@ date: Last Modified
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > Release Builds
 
 ## May 13th, 2022 Video
-* [Justifying the changes + possible changes to come](../../transcriptions/yt-2vAUX3YLH-c,779.6121666666667,815.5147000000001.md) [https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=779&end=816](https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=779&end=816)
+* [Justifying the changes + possible changes to come](../../transcriptions/yt-2vAUX3YLH-c,779.6121666666667,815.5147000000001.md) [https://youtube.com/clip/Ugkx5PpBrbmcGZ8DrBq5-RITdwjFLUr9z8Nv](https://youtube.com/clip/Ugkx5PpBrbmcGZ8DrBq5-RITdwjFLUr9z8Nv)
 
 ## May 10th, 2022 Livestream
 * [State of Dev](../../transcriptions/yt-EgDWsvm7ThE.md) [https://www.youtube.com/watch?v=EgDWsvm7ThE](https://www.youtube.com/watch?v=EgDWsvm7ThE)

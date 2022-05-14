@@ -11,7 +11,7 @@ topics:
 ---
 # [May 13th, 2022 Video](../2022-05-13.md)
 ## Differences in Markers & Stamps (Part 2)
-https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=414&end=440
+https://youtube.com/clip/UgkxuGgbssifoDFqHj-dI8lM-GbUG-ccyBsT
 
 ### Topics
 * [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)

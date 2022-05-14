@@ -11,7 +11,7 @@ topics:
 ---
 # [May 13th, 2022 Video](../2022-05-13.md)
 ## Introducing the topic of the video
-https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=9&end=57
+https://youtube.com/clip/Ugkx5x2bQA1difTBhirAncKs5J55MzzrNydA
 
 ### Topics
 * [Environment > World Map](../topics/environment/world-map.md)

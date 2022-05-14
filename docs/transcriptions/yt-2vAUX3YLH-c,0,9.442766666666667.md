@@ -8,7 +8,7 @@ topics:
 ---
 # [May 13th, 2022 Video](../2022-05-13.md)
 ## Cold Open
-https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=0&end=10
+https://youtube.com/clip/UgkxHOAaFQZtsreCSiVmgHVJEki72ca2TR72
 
 ### Topics
 * [Coffee Stainers > Snutt](../topics/coffee-stainers/snutt.md)

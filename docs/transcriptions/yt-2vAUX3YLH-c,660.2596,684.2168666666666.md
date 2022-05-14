@@ -11,7 +11,7 @@ topics:
 ---
 # [May 13th, 2022 Video](../2022-05-13.md)
 ## Example of using Radar Tower changes to plan a gameplay session
-https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=660&end=685
+https://youtube.com/clip/UgkxESXNKx7KJCj7W9cJqR_I4qh8TiqajrT5
 
 ### Topics
 * [Environment > Resources](../topics/environment/resources.md)

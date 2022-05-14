@@ -6,10 +6,10 @@ date: Last Modified
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > Radar Tower
 
 ## May 13th, 2022 Video
-* [Introducing the topic of the video](../../../transcriptions/yt-2vAUX3YLH-c,9.476133333333333,56.38966666666667.md) [https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=9&end=57](https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=9&end=57)
+* [Introducing the topic of the video](../../../transcriptions/yt-2vAUX3YLH-c,9.476133333333333,56.38966666666667.md) [https://youtube.com/clip/Ugkx5x2bQA1difTBhirAncKs5J55MzzrNydA](https://youtube.com/clip/Ugkx5x2bQA1difTBhirAncKs5J55MzzrNydA)
 * [Radar Towers in Update 5 vs. Update 6](../../../transcriptions/yt-2vAUX3YLH-c,507.6071,601.2339666666667.md) [https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=507&end=602](https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=507&end=602)
-* [Radar Towers now reveal Resources](../../../transcriptions/yt-2vAUX3YLH-c,601.2673333333333,660.2262333333333.md) [https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=601&end=661](https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=601&end=661)
-* [Example of using Radar Tower changes to plan a gameplay session](../../../transcriptions/yt-2vAUX3YLH-c,660.2596,684.2168666666666.md) [https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=660&end=685](https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=660&end=685)
+* [Radar Towers now reveal Resources](../../../transcriptions/yt-2vAUX3YLH-c,601.2673333333333,660.2262333333333.md) [https://youtube.com/clip/UgkxJnmVX3S3bs9IkJtFO072OngyOy6kFLxg](https://youtube.com/clip/UgkxJnmVX3S3bs9IkJtFO072OngyOy6kFLxg)
+* [Example of using Radar Tower changes to plan a gameplay session](../../../transcriptions/yt-2vAUX3YLH-c,660.2596,684.2168666666666.md) [https://youtube.com/clip/UgkxESXNKx7KJCj7W9cJqR_I4qh8TiqajrT5](https://youtube.com/clip/UgkxESXNKx7KJCj7W9cJqR_I4qh8TiqajrT5)
 
 ## April 26th, 2022 Livestream
 * [State of Dave](../../../transcriptions/yt-komFyjm03kg.md) [https://www.youtube.com/watch?v=komFyjm03kg](https://www.youtube.com/watch?v=komFyjm03kg)

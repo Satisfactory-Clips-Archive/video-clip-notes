@@ -6,7 +6,7 @@ date: Last Modified
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Equipment](../../../topics/features/equipment.md) > Beacon
 
 ## May 13th, 2022 Video
-* [Doing away with Beacons](../../../transcriptions/yt-2vAUX3YLH-c,142.10863333333333,187.193228.md) [https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=142&end=188](https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=142&end=188)
+* [Doing away with Beacons](../../../transcriptions/yt-2vAUX3YLH-c,142.10863333333333,187.193228.md) [https://youtube.com/clip/UgkxUoFtVkKDtj0_Pe-bM_vs93ieHHoH_nkg](https://youtube.com/clip/UgkxUoFtVkKDtj0_Pe-bM_vs93ieHHoH_nkg)
 
 ## May 4th, 2021 Livestream
 * [Q&A: Why'd you put the character limit on Beacons & Train Stations?](../../../transcriptions/yt-xQ9mh8bgHJ8.md) [https://www.youtube.com/watch?v=xQ9mh8bgHJ8](https://www.youtube.com/watch?v=xQ9mh8bgHJ8)

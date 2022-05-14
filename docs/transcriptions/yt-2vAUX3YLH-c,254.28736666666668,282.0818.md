@@ -9,7 +9,7 @@ topics:
 ---
 # [May 13th, 2022 Video](../2022-05-13.md)
 ## Stamps
-https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=254&end=283
+https://youtube.com/clip/UgkxIHS3HMuLo6ZOD8ITUy9fJUpO7Ue9Etf3
 
 ### Topics
 * [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)

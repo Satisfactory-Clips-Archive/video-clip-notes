@@ -11,7 +11,7 @@ topics:
 ---
 # [May 13th, 2022 Video](../2022-05-13.md)
 ## Changes are focussed on the Update 6 "Exploration" theme
-https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=684&end=709
+https://youtube.com/clip/Ugkxx2MMfiqo82Skcbd9DYcofSTblIQUl0Q3
 
 ### Topics
 * [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)

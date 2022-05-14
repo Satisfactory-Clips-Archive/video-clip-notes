@@ -13,7 +13,7 @@ topics:
 ---
 # [May 13th, 2022 Video](../2022-05-13.md)
 ## New Map Menu
-https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=455&end=508
+https://youtube.com/clip/UgkxHQOyhD7VNSOt_0fFG528Px6fM2EDtsv0
 
 ### Topics
 * [Features > Buildings](../topics/features/buildings.md)

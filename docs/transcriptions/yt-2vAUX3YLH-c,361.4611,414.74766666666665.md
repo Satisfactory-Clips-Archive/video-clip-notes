@@ -15,7 +15,7 @@ topics:
 ---
 # [May 13th, 2022 Video](../2022-05-13.md)
 ## Highlighting Markers & Stamps
-https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=361&end=415
+https://youtube.com/clip/UgkxWv7VFkF9B7yA--byc8J6Vo1xjuFsKgVq
 
 ### Topics
 * [Off-Topic > Elden Ring](../topics/off-topic/elden-ring.md)
