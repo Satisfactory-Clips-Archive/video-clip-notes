@@ -5,6 +5,26 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Pending > Satisfactory Update 6
 
+## May 13th, 2022 Video
+* [Introducing the topic of the video](../../../transcriptions/yt-2vAUX3YLH-c,9.476133333333333,56.38966666666667.md) [https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=9&end=57](https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=9&end=57)
+* [Introducing the Map changes](../../../transcriptions/yt-2vAUX3YLH-c,56.423033333333336,142.07526666666666.md) [https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=56&end=143](https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=56&end=143)
+* [Doing away with Beacons](../../../transcriptions/yt-2vAUX3YLH-c,142.10863333333333,187.193228.md) [https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=142&end=188](https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=142&end=188)
+* [Marker Customisation](../../../transcriptions/yt-2vAUX3YLH-c,187.22036666666668,254.254.md) [https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=187&end=255](https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=187&end=255)
+* [Stamps](../../../transcriptions/yt-2vAUX3YLH-c,254.28736666666668,282.0818.md) [https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=254&end=283](https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=254&end=283)
+* [Placing Stamps on the Map & in real-time](../../../transcriptions/yt-2vAUX3YLH-c,282.11516666666665,349.4157333333333.md) [https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=282&end=350](https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=282&end=350)
+* [Differences in Markers & Stamps (Part 1)](../../../transcriptions/yt-2vAUX3YLH-c,349.4491,361.4277333333333.md) [https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=349&end=362](https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=349&end=362)
+* [Highlighting Markers & Stamps](../../../transcriptions/yt-2vAUX3YLH-c,361.4611,414.74766666666665.md) [https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=361&end=415](https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=361&end=415)
+* [Differences in Markers & Stamps (Part 2)](../../../transcriptions/yt-2vAUX3YLH-c,414.78103333333337,439.20543333333336.md) [https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=414&end=440](https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=414&end=440)
+* [Available Markers and Stamps](../../../transcriptions/yt-2vAUX3YLH-c,439.2388,455.92213333333336.md) [https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=439&end=456](https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=439&end=456)
+* [New Map Menu](../../../transcriptions/yt-2vAUX3YLH-c,455.95550000000003,507.57373333333334.md) [https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=455&end=508](https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=455&end=508)
+* [Radar Towers in Update 5 vs. Update 6](../../../transcriptions/yt-2vAUX3YLH-c,507.6071,601.2339666666667.md) [https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=507&end=602](https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=507&end=602)
+* [Radar Towers now reveal Resources](../../../transcriptions/yt-2vAUX3YLH-c,601.2673333333333,660.2262333333333.md) [https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=601&end=661](https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=601&end=661)
+* [Example of using Radar Tower changes to plan a gameplay session](../../../transcriptions/yt-2vAUX3YLH-c,660.2596,684.2168666666666.md) [https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=660&end=685](https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=660&end=685)
+* [Changes are focussed on the Update 6 "Exploration" theme](../../../transcriptions/yt-2vAUX3YLH-c,684.2502333333333,708.4077.md) [https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=684&end=709](https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=684&end=709)
+* [Changes to the Resource Scanner compass Marker](../../../transcriptions/yt-2vAUX3YLH-c,708.4410666666666,779.5788.md) [https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=708&end=780](https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=708&end=780)
+* [Justifying the changes + possible changes to come](../../../transcriptions/yt-2vAUX3YLH-c,779.6121666666667,815.5147000000001.md) [https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=779&end=816](https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=779&end=816)
+* [End Tag](../../../transcriptions/yt-2vAUX3YLH-c,833.7662666666666.md) [https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=833](https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=833)
+
 ## May 10th, 2022 Livestream
 * [State of Dev](../../../transcriptions/yt-EgDWsvm7ThE.md) [https://www.youtube.com/watch?v=EgDWsvm7ThE](https://www.youtube.com/watch?v=EgDWsvm7ThE)
 * [Hannah talks Spire Coast](../../../transcriptions/yt-FqhboAjAiYY.md) [https://www.youtube.com/watch?v=FqhboAjAiYY](https://www.youtube.com/watch?v=FqhboAjAiYY)

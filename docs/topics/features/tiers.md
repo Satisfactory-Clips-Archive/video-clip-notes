@@ -16,6 +16,9 @@ date: Last Modified
 * [Tier 9](../../topics/features/tiers/tier-9.md)
 * [Tier 10](../../topics/features/tiers/tier-10.md)
 
+## May 13th, 2022 Video
+* [Introducing the Map changes](../../transcriptions/yt-2vAUX3YLH-c,56.423033333333336,142.07526666666666.md) [https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=56&end=143](https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=56&end=143)
+
 ## May 3rd, 2022 Livestream
 * [Snutt Talk: Speedrunning community events](../../transcriptions/yt-ILAb0G9-cA4.md) [https://www.youtube.com/watch?v=ILAb0G9-cA4](https://www.youtube.com/watch?v=ILAb0G9-cA4)
 * [Q&A: Will there be any more Tiers in Update 6?](../../transcriptions/yt-0oentB1QwFo.md) [https://www.youtube.com/watch?v=0oentB1QwFo](https://www.youtube.com/watch?v=0oentB1QwFo)

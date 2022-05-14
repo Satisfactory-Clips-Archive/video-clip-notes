@@ -1,20 +1,15 @@
 ---
-title: "Markers"
+title: "Stamps"
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > [Technology](../../../topics/technology.md) > [User Interface](../../../topics/technology/user-interface.md) > Markers
+# [Topics](../../../topics.md) > [Technology](../../../topics/technology.md) > [User Interface](../../../topics/technology/user-interface.md) > Stamps
 
 ## May 13th, 2022 Video
-* [Marker Customisation](../../../transcriptions/yt-2vAUX3YLH-c,187.22036666666668,254.254.md) [https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=187&end=255](https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=187&end=255)
+* [Stamps](../../../transcriptions/yt-2vAUX3YLH-c,254.28736666666668,282.0818.md) [https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=254&end=283](https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=254&end=283)
+* [Placing Stamps on the Map & in real-time](../../../transcriptions/yt-2vAUX3YLH-c,282.11516666666665,349.4157333333333.md) [https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=282&end=350](https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=282&end=350)
 * [Differences in Markers & Stamps (Part 1)](../../../transcriptions/yt-2vAUX3YLH-c,349.4491,361.4277333333333.md) [https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=349&end=362](https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=349&end=362)
 * [Highlighting Markers & Stamps](../../../transcriptions/yt-2vAUX3YLH-c,361.4611,414.74766666666665.md) [https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=361&end=415](https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=361&end=415)
 * [Differences in Markers & Stamps (Part 2)](../../../transcriptions/yt-2vAUX3YLH-c,414.78103333333337,439.20543333333336.md) [https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=414&end=440](https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=414&end=440)
 * [Available Markers and Stamps](../../../transcriptions/yt-2vAUX3YLH-c,439.2388,455.92213333333336.md) [https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=439&end=456](https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=439&end=456)
 * [New Map Menu](../../../transcriptions/yt-2vAUX3YLH-c,455.95550000000003,507.57373333333334.md) [https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=455&end=508](https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=455&end=508)
-* [Radar Towers now reveal Resources](../../../transcriptions/yt-2vAUX3YLH-c,601.2673333333333,660.2262333333333.md) [https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=601&end=661](https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=601&end=661)
-* [Example of using Radar Tower changes to plan a gameplay session](../../../transcriptions/yt-2vAUX3YLH-c,660.2596,684.2168666666666.md) [https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=660&end=685](https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=660&end=685)
 * [Changes are focussed on the Update 6 "Exploration" theme](../../../transcriptions/yt-2vAUX3YLH-c,684.2502333333333,708.4077.md) [https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=684&end=709](https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=684&end=709)
-* [Changes to the Resource Scanner compass Marker](../../../transcriptions/yt-2vAUX3YLH-c,708.4410666666666,779.5788.md) [https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=708&end=780](https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=708&end=780)
-
-## October 8th, 2021 Video
-* [Jace Talk: Train Collisions & derailment](../../../transcriptions/yt-CskxkIepX6Y,162.7626,202.70250000000001.md) [https://youtube.com/clip/Ugkx5fKmE25idV_PPd2BZ6oIlV-BkWXyl_wW](https://youtube.com/clip/Ugkx5fKmE25idV_PPd2BZ6oIlV-BkWXyl_wW)

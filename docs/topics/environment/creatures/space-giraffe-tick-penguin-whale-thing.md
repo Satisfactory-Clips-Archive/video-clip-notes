@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Creatures](../../../topics/environment/creatures.md) > Space Giraffe-Tick-Penguin-Whale Thing
 
+## May 13th, 2022 Video
+* [Changes to the Resource Scanner compass Marker](../../../transcriptions/yt-2vAUX3YLH-c,708.4410666666666,779.5788.md) [https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=708&end=780](https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=708&end=780)
+
 ## November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary
 * [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 20)](../../../transcriptions/yt-VoLPxETf3gk.md) [https://www.youtube.com/watch?v=VoLPxETf3gk](https://www.youtube.com/watch?v=VoLPxETf3gk)
 

@@ -10,6 +10,9 @@ date: Last Modified
 * [Non Flying Bird](../../topics/environment/creatures/non-flying-bird.md)
 * [Space Giraffe-Tick-Penguin-Whale Thing](../../topics/environment/creatures/space-giraffe-tick-penguin-whale-thing.md)
 
+## May 13th, 2022 Video
+* [Radar Towers in Update 5 vs. Update 6](../../transcriptions/yt-2vAUX3YLH-c,507.6071,601.2339666666667.md) [https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=507&end=602](https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=507&end=602)
+
 ## May 3rd, 2022 Livestream
 * [Q&A: Will we be able to capture wild beasts & farm them for milk & eggs?](../../transcriptions/yt-1-qnuaEigs8.md) [https://www.youtube.com/watch?v=1-qnuaEigs8](https://www.youtube.com/watch?v=1-qnuaEigs8)
 * [Community FYI: Flying Crab milk](../../transcriptions/yt-dUqjY-TtRuk.md) [https://www.youtube.com/watch?v=dUqjY-TtRuk](https://www.youtube.com/watch?v=dUqjY-TtRuk)

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Equipment](../../../topics/features/equipment.md) > Resource Scanner
 
+## May 13th, 2022 Video
+* [Changes to the Resource Scanner compass Marker](../../../transcriptions/yt-2vAUX3YLH-c,708.4410666666666,779.5788.md) [https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=708&end=780](https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=708&end=780)
+
 ## April 26th, 2022 Livestream
 * [Q&A: Can you use the Resource Scanner inside a Vehicle?](../../../transcriptions/yt-pXKQeXveSWQ.md) [https://www.youtube.com/watch?v=pXKQeXveSWQ](https://www.youtube.com/watch?v=pXKQeXveSWQ)
 

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > M.A.M.
 
+## May 13th, 2022 Video
+* [Introducing the Map changes](../../../transcriptions/yt-2vAUX3YLH-c,56.423033333333336,142.07526666666666.md) [https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=56&end=143](https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=56&end=143)
+
 ## February 22nd, 2022 Livestream
 * [Q&A: How likely is it we'll get a new research at/before 1.0?](../../../transcriptions/yt-gsqCsfIKxwI.md) [https://www.youtube.com/watch?v=gsqCsfIKxwI](https://www.youtube.com/watch?v=gsqCsfIKxwI)
 

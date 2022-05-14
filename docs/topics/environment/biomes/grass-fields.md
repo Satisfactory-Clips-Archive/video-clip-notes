@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Biomes](../../../topics/environment/biomes.md) > Grass Fields
 
+## May 13th, 2022 Video
+* [Introducing the Map changes](../../../transcriptions/yt-2vAUX3YLH-c,56.423033333333336,142.07526666666666.md) [https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=56&end=143](https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=56&end=143)
+
 ## September 28th, 2021 Livestream
 * [Q&A: Any plans to fix the Coal nodes by the big lake in the grasslands?](../../../transcriptions/yt-9_fDYPhx9IE.md) [https://www.youtube.com/watch?v=9_fDYPhx9IE](https://www.youtube.com/watch?v=9_fDYPhx9IE)
 

@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Environment](../../topics/environment.md) > World Map
 
+## May 13th, 2022 Video
+* [Introducing the topic of the video](../../transcriptions/yt-2vAUX3YLH-c,9.476133333333333,56.38966666666667.md) [https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=9&end=57](https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=9&end=57)
+* [Introducing the Map changes](../../transcriptions/yt-2vAUX3YLH-c,56.423033333333336,142.07526666666666.md) [https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=56&end=143](https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=56&end=143)
+
 ## May 10th, 2022 Livestream
 * [Q&A: Later down the line would you rather have a second map or a map editor for people to create?](../../transcriptions/yt-quBufOSDaf8.md) [https://www.youtube.com/watch?v=quBufOSDaf8](https://www.youtube.com/watch?v=quBufOSDaf8)
 

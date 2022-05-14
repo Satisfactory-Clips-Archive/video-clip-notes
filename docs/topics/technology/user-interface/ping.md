@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Technology](../../../topics/technology.md) > [User Interface](../../../topics/technology/user-interface.md) > Ping
 
+## May 13th, 2022 Video
+* [Placing Stamps on the Map & in real-time](../../../transcriptions/yt-2vAUX3YLH-c,282.11516666666665,349.4157333333333.md) [https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=282&end=350](https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=282&end=350)
+
 ## April 15th, 2022 Video
 * [Snutt & Stefan Talk: Summary of changes in Sprint 23](../../../transcriptions/yt-7I3NGAm3j_4,1832.7309,1904.903.md) [https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=1832&end=1905](https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=1832&end=1905)
 

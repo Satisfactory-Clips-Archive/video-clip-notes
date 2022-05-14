@@ -14,6 +14,12 @@ date: Last Modified
 * [Steel](../../topics/environment/resources/steel.md)
 * [Water](../../topics/environment/resources/water.md)
 
+## May 13th, 2022 Video
+* [Placing Stamps on the Map & in real-time](../../transcriptions/yt-2vAUX3YLH-c,282.11516666666665,349.4157333333333.md) [https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=282&end=350](https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=282&end=350)
+* [Radar Towers now reveal Resources](../../transcriptions/yt-2vAUX3YLH-c,601.2673333333333,660.2262333333333.md) [https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=601&end=661](https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=601&end=661)
+* [Example of using Radar Tower changes to plan a gameplay session](../../transcriptions/yt-2vAUX3YLH-c,660.2596,684.2168666666666.md) [https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=660&end=685](https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=660&end=685)
+* [Changes to the Resource Scanner compass Marker](../../transcriptions/yt-2vAUX3YLH-c,708.4410666666666,779.5788.md) [https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=708&end=780](https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=708&end=780)
+
 ## May 6th, 2022 Video
 * [Resource nodes being moved](../../transcriptions/yt-8BxYvOLpjGo,73.90716666666667,117.28383333333333.md) [https://youtube.com/clip/Ugkxm5Y34siJBMYQNjXUF0nycUsGZ7ogFMMx](https://youtube.com/clip/Ugkxm5Y34siJBMYQNjXUF0nycUsGZ7ogFMMx)
 * [Resource nodes & Power Slugs](../../transcriptions/yt-8BxYvOLpjGo,117.3172,170.60376666666667.md) [https://youtube.com/clip/UgkxdoSTjRIaKwSDb_9pHxzosJ0CcTJCPfve](https://youtube.com/clip/UgkxdoSTjRIaKwSDb_9pHxzosJ0CcTJCPfve)

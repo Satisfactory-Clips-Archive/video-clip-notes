@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Biomes](../../../topics/environment/biomes.md) > Caves
 
+## May 13th, 2022 Video
+* [Placing Stamps on the Map & in real-time](../../../transcriptions/yt-2vAUX3YLH-c,282.11516666666665,349.4157333333333.md) [https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=282&end=350](https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=282&end=350)
+
 ## May 10th, 2022 Livestream
 * [Hannah talks Spire Coast](../../../transcriptions/yt-FqhboAjAiYY.md) [https://www.youtube.com/watch?v=FqhboAjAiYY](https://www.youtube.com/watch?v=FqhboAjAiYY)
 * [Q&A: Are there going to be any caves in the Spire Coast?](../../../transcriptions/yt-SrpYCHsHQIw.md) [https://www.youtube.com/watch?v=SrpYCHsHQIw](https://www.youtube.com/watch?v=SrpYCHsHQIw)

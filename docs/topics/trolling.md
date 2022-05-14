@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Trolling
 
+## May 13th, 2022 Video
+* [End Tag](../transcriptions/yt-2vAUX3YLH-c,833.7662666666666.md) [https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=833](https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=833)
+
 ## May 10th, 2022 Livestream
 * [Q&A: How does Hannah deal with Snutt?](../transcriptions/yt-c07uHZJzS0c.md) [https://www.youtube.com/watch?v=c07uHZJzS0c](https://www.youtube.com/watch?v=c07uHZJzS0c)
 

@@ -570,5 +570,6 @@ date: Last Modified
 * [Holograms](./topics/technology/user-interface/holograms.md)
 * [Markers](./topics/technology/user-interface/markers.md)
 * [Ping](./topics/technology/user-interface/ping.md)
+* [Stamps](./topics/technology/user-interface/stamps.md)
 ---
 * [Trolling](./topics/trolling.md)
