@@ -12,7 +12,7 @@ topics:
     - "features/buildables/walls"
     - "features/buildings/particle-accelerator"
     - "features/crafting/superposition-oscillator"
-    - "features/equipment"
+    - "features/equipment/rebar-gun"
     - "features/equipment/rifle"
     - "features/unplanned-features/mk-2-buildings"
     - "features/unreleased-features/unreleased-content"
@@ -33,7 +33,7 @@ https://youtube.com/embed/VBGakEZilwk?autoplay=1&start=589&end=1116
 * [Features > Buildables > Walls](../topics/features/buildables/walls.md)
 * [Features > Buildings > Particle Accelerator](../topics/features/buildings/particle-accelerator.md)
 * [Features > Crafting > Superposition Oscillator](../topics/features/crafting/superposition-oscillator.md)
-* [Features > Equipment](../topics/features/equipment.md)
+* [Features > Equipment > Rebar Gun](../topics/features/equipment/rebar-gun.md)
 * [Features > Equipment > Rifle](../topics/features/equipment/rifle.md)
 * [Features > Unplanned Features > Mk.2 Buildings](../topics/features/unplanned-features/mk-2-buildings.md)
 * [Features > Unreleased Features > Unreleased Content](../topics/features/unreleased-features/unreleased-content.md)

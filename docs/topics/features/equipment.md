@@ -15,6 +15,7 @@ date: Last Modified
 * [Jetpack](../../topics/features/equipment/jetpack.md)
 * [Nobelisk](../../topics/features/equipment/nobelisk.md)
 * [Parachute](../../topics/features/equipment/parachute.md)
+* [Rebar Gun](../../topics/features/equipment/rebar-gun.md)
 * [Resource Scanner](../../topics/features/equipment/resource-scanner.md)
 * [Rifle](../../topics/features/equipment/rifle.md)
 * [Xeno-Basher](../../topics/features/equipment/xeno-basher.md)
@@ -41,11 +42,9 @@ date: Last Modified
 
 ## March 29th, 2022 Livestream
 * [Q&A: Will the shooter aspect of Satisfactory become stronger- you said there would be bosses?](../../transcriptions/yt-2O6KzVNYDE0.md) [https://www.youtube.com/watch?v=2O6KzVNYDE0](https://www.youtube.com/watch?v=2O6KzVNYDE0)
-* [Q&A: Will we be able to mount the Rebar Gun on top of a buggy?](../../transcriptions/yt-DVXbH_LG2Y4.md) [https://www.youtube.com/watch?v=DVXbH_LG2Y4](https://www.youtube.com/watch?v=DVXbH_LG2Y4)
 
 ## March 18th, 2022 Video
 * [Snutt & Jace Talk: Object Scanner article](../../transcriptions/yt-VBGakEZilwk,396.46273333333335,444.1437.md) [https://youtube.com/clip/UgkxFybmlO2ujKphxk9ccd-dB9_cjfm1b4qS](https://youtube.com/clip/UgkxFybmlO2ujKphxk9ccd-dB9_cjfm1b4qS)
-* [Snutt & Jace Talk: Unreleased Content article](../../transcriptions/yt-VBGakEZilwk,589.7892,1115.8480666666667.md) [https://youtube.com/embed/VBGakEZilwk?autoplay=1&start=589&end=1116](https://youtube.com/embed/VBGakEZilwk?autoplay=1&start=589&end=1116)
 
 ## March 15th, 2022 Livestream
 * [Q&A: Will we see more enemy types in the future or more weapons?](../../transcriptions/yt-zlyra4JQvW4.md) [https://www.youtube.com/watch?v=zlyra4JQvW4](https://www.youtube.com/watch?v=zlyra4JQvW4)
@@ -84,9 +83,6 @@ date: Last Modified
 * [Q&A: Black Powder & Iron to make bullets, machine gun for Base Defense?](../../transcriptions/yt-9q4EKEuu5R0.md) [https://www.youtube.com/watch?v=9q4EKEuu5R0](https://www.youtube.com/watch?v=9q4EKEuu5R0)
 * [Q&A: Can you please reveal new items?](../../transcriptions/yt-DI8KFc93Qlo.md) [https://www.youtube.com/watch?v=DI8KFc93Qlo](https://www.youtube.com/watch?v=DI8KFc93Qlo)
 
-## August 24th, 2021 Livestream
-* [Q&A: Will the Explorer ever get a mounted nail gun?](../../transcriptions/yt-cdVGvprw5tc.md) [https://www.youtube.com/watch?v=cdVGvprw5tc](https://www.youtube.com/watch?v=cdVGvprw5tc)
-
 ## August 17th, 2021 Livestream
 * [Q&A: Same bug as the equipment that flies in the tube?](../../transcriptions/yt-r7lFsWlRIPE.md) [https://www.youtube.com/watch?v=r7lFsWlRIPE](https://www.youtube.com/watch?v=r7lFsWlRIPE)
 * [Q&A: Are there any plans for new weapons?](../../transcriptions/yt-cZUm0MioIek.md) [https://www.youtube.com/watch?v=cZUm0MioIek](https://www.youtube.com/watch?v=cZUm0MioIek)
@@ -122,7 +118,6 @@ date: Last Modified
 
 ## May 25th, 2021 Livestream
 * [Snutt & Jace Talk: Old Unreleased Content Wiki Page (Part 1)](../../transcriptions/yt-n94KgIpWdZc.md) [https://www.youtube.com/watch?v=n94KgIpWdZc](https://www.youtube.com/watch?v=n94KgIpWdZc)
-* [Q&A: Will the Rebar shotgun come back?](../../transcriptions/yt-p7aALqL6xlo.md) [https://www.youtube.com/watch?v=p7aALqL6xlo](https://www.youtube.com/watch?v=p7aALqL6xlo)
 
 ## May 11th, 2021 Livestream
 * [Q&A: Why can't you reload the bullets into the clips once you use so you don't waste any clips?](../../transcriptions/yt-ROevp5t8k6Y.md) [https://www.youtube.com/watch?v=ROevp5t8k6Y](https://www.youtube.com/watch?v=ROevp5t8k6Y)

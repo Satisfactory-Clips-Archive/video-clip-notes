@@ -3,7 +3,7 @@ title: "May 25th, 2021 Livestream Q&A: Will the Rebar shotgun come back?"
 date: "2021-05-25"
 layout: transcript
 topics:
-    - "features/equipment"
+    - "features/equipment/rebar-gun"
     - "features/equipment/rifle"
 ---
 # [May 25th, 2021 Livestream](../2021-05-25.md)
@@ -11,7 +11,7 @@ topics:
 https://www.youtube.com/watch?v=p7aALqL6xlo
 
 ### Topics
-* [Features > Equipment](../topics/features/equipment.md)
+* [Features > Equipment > Rebar Gun](../topics/features/equipment/rebar-gun.md)
 * [Features > Equipment > Rifle](../topics/features/equipment/rifle.md)
 
 ### Transcript

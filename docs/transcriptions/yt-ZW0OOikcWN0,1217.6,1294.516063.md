@@ -4,6 +4,7 @@ date: "2017-08-01"
 layout: transcript
 topics:
     - "environment/world-map"
+    - "features/equipment/rebar-gun"
     - "satisfactory-updates/pre-alpha"
 ---
 # [August 1st, 2017 Tutorial](../2017-08-01.md)
@@ -12,6 +13,7 @@ https://youtube.com/embed/ZW0OOikcWN0?autoplay=1&start=1217&end=1295
 
 ### Topics
 * [Environment > World Map](../topics/environment/world-map.md)
+* [Features > Equipment > Rebar Gun](../topics/features/equipment/rebar-gun.md)
 * [Satisfactory Updates > Pre-Alpha](../topics/satisfactory-updates/pre-alpha.md)
 
 ### Transcript

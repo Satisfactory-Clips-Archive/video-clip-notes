@@ -233,6 +233,7 @@ date: Last Modified
 * [Hover Pack](./topics/features/equipment/hover-pack.md)
 * [Jetpack](./topics/features/equipment/jetpack.md)
 * [Parachute](./topics/features/equipment/parachute.md)
+* [Rebar Gun](./topics/features/equipment/rebar-gun.md)
 * [Resource Scanner](./topics/features/equipment/resource-scanner.md)
 * [Rifle](./topics/features/equipment/rifle.md)
 * [Xeno-Basher](./topics/features/equipment/xeno-basher.md)

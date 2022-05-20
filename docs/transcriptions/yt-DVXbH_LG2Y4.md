@@ -3,7 +3,7 @@ title: "March 29th, 2022 Livestream Q&A: Will we be able to mount the Rebar Gun 
 date: "2022-03-29"
 layout: transcript
 topics:
-    - "features/equipment"
+    - "features/equipment/rebar-gun"
     - "features/requested-features"
     - "features/transportation/vehicles/explorer"
 ---
@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=DVXbH_LG2Y4
 
 
 ### Topics
-* [Features > Equipment](../topics/features/equipment.md)
+* [Features > Equipment > Rebar Gun](../topics/features/equipment/rebar-gun.md)
 * [Features > Requested Features](../topics/features/requested-features.md)
 * [Features > Transportation > Vehicles > Explorer](../topics/features/transportation/vehicles/explorer.md)
 
