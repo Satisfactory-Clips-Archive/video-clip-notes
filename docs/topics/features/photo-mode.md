@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Features](../../topics/features.md) > Photo Mode
 
+## May 17th, 2022 Livestream
+* [Q&A: What was the decision to put saves and photos in different folders?](../../transcriptions/yt-vuORkiN-LE8.md) [https://www.youtube.com/watch?v=vuORkiN-LE8](https://www.youtube.com/watch?v=vuORkiN-LE8)
+
 ## March 29th, 2022 Livestream
 * [Q&A: Do you guys have plans to add more features to Photo Mode?](../../transcriptions/yt-OmICrCy_Yuc.md) [https://www.youtube.com/watch?v=OmICrCy_Yuc](https://www.youtube.com/watch?v=OmICrCy_Yuc)
 

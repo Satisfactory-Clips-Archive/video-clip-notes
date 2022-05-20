@@ -10,6 +10,10 @@ date: Last Modified
 * [Power Storage](../../topics/features/power-management/power-storage.md)
 * [Power Switch](../../topics/features/power-management/power-switch.md)
 
+## May 17th, 2022 Livestream
+* [Q&A: What is Coffee Stain anti daisy-chain?](../../transcriptions/yt--KPx46FPN5Q.md) [https://www.youtube.com/watch?v=-KPx46FPN5Q](https://www.youtube.com/watch?v=-KPx46FPN5Q)
+* [Q&A: Any plans for automated Power before Coal?](../../transcriptions/yt-huRKK3aqoPk.md) [https://www.youtube.com/watch?v=huRKK3aqoPk](https://www.youtube.com/watch?v=huRKK3aqoPk)
+
 ## May 3rd, 2022 Livestream
 * [Update 6: Future Updates & Linear Overclocking change](../../transcriptions/yt-1kq0M7R-E_c.md) [https://www.youtube.com/watch?v=1kq0M7R-E_c](https://www.youtube.com/watch?v=1kq0M7R-E_c)
 

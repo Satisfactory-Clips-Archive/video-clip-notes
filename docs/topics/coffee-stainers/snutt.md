@@ -8,6 +8,10 @@ date: Last Modified
 * [Snutt Burger Time](../../topics/coffee-stainers/snutt/snutt-burger-time.md)
 * [Snutty Mays](../../topics/coffee-stainers/snutt/snutty-mays.md)
 
+## May 17th, 2022 Livestream
+* [Q&A: Fixing bugs or doing new stuff?](../../transcriptions/yt-pwh9QNRmqFY.md) [https://www.youtube.com/watch?v=pwh9QNRmqFY](https://www.youtube.com/watch?v=pwh9QNRmqFY)
+* [Q&A: What was 14-year old Snutt's favourite video game?](../../transcriptions/yt-LkRK9NUEPOk.md) [https://www.youtube.com/watch?v=LkRK9NUEPOk](https://www.youtube.com/watch?v=LkRK9NUEPOk)
+
 ## May 13th, 2022 Video
 * [Cold Open](../../transcriptions/yt-2vAUX3YLH-c,0,9.442766666666667.md) [https://youtube.com/clip/UgkxHOAaFQZtsreCSiVmgHVJEki72ca2TR72](https://youtube.com/clip/UgkxHOAaFQZtsreCSiVmgHVJEki72ca2TR72)
 

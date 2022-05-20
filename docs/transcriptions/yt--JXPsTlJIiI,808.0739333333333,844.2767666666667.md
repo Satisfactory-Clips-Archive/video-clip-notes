@@ -10,7 +10,7 @@ topics:
 # [December 17th, 2020 Q&A](../2020-12-17.md)
 ## Q&A: Why don't my computer screens in my hub show me power consumption or total production?
 https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=808&end=845
-This question was possibly duplicated with a more recent answer: [April 12th, 2022 Livestream Q&A: Any plans to implement a statistics window?](./yt-CgAOx4N8rZ8.md) [https://www.youtube.com/watch?v=CgAOx4N8rZ8](https://www.youtube.com/watch?v=CgAOx4N8rZ8)
+This question was possibly duplicated with a more recent answer: [May 17th, 2022 Livestream Q&A: Plan for in-game statistics?](./yt-PFLDVpxGB-U.md) [https://www.youtube.com/watch?v=PFLDVpxGB-U](https://www.youtube.com/watch?v=PFLDVpxGB-U)
 
 
 ### Topics

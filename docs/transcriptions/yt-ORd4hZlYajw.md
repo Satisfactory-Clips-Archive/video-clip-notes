@@ -8,7 +8,7 @@ topics:
 # [December 14th, 2021 Livestream](../2021-12-14.md)
 ## Q&A: Any chance on being able to use the new Materials on U-shaped Foundations?
 https://www.youtube.com/watch?v=ORd4hZlYajw
-This question was possibly duplicated with a more recent answer: [February 8th, 2022 Livestream Q&A: Can we get materials for half-pipes?](./yt-s1Tz9QOFyZc.md) [https://www.youtube.com/watch?v=s1Tz9QOFyZc](https://www.youtube.com/watch?v=s1Tz9QOFyZc)
+This question was possibly duplicated with a more recent answer: [May 17th, 2022 Livestream Q&A: Fixing quarter-pipe Foundations so we can use Materials?](./yt-abVIIFQdQ9M.md) [https://www.youtube.com/watch?v=abVIIFQdQ9M](https://www.youtube.com/watch?v=abVIIFQdQ9M)
 
 
 ### Topics

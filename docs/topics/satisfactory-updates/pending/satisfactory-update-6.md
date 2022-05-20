@@ -5,6 +5,24 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Pending > Satisfactory Update 6
 
+## May 17th, 2022 Livestream
+* [State of Dev](../../../transcriptions/yt-Z6M_0T26BIA.md) [https://www.youtube.com/watch?v=Z6M_0T26BIA](https://www.youtube.com/watch?v=Z6M_0T26BIA)
+* [Q&A: What about the Uranium fuel alt?](../../../transcriptions/yt-4j-WwaYx9sQ.md) [https://www.youtube.com/watch?v=4j-WwaYx9sQ](https://www.youtube.com/watch?v=4j-WwaYx9sQ)
+* [Q&A: Are Beacons decidedly being removed?](../../../transcriptions/yt-8WbiYTDHfxM.md) [https://www.youtube.com/watch?v=8WbiYTDHfxM](https://www.youtube.com/watch?v=8WbiYTDHfxM)
+* [Q&A: Can you ask the Dev team to release some info about the new Recipes?](../../../transcriptions/yt-H43HfFnO8eU.md) [https://www.youtube.com/watch?v=H43HfFnO8eU](https://www.youtube.com/watch?v=H43HfFnO8eU)
+* [Q&A: Will the Radar Towers scan caves?](../../../transcriptions/yt-_1RGTTyHmMk.md) [https://www.youtube.com/watch?v=_1RGTTyHmMk](https://www.youtube.com/watch?v=_1RGTTyHmMk)
+* [Q&A: Was there a reason for the separate Stamp and Marker beacons?](../../../transcriptions/yt-QTl0IjtsttM.md) [https://www.youtube.com/watch?v=QTl0IjtsttM](https://www.youtube.com/watch?v=QTl0IjtsttM)
+* [Q&A: Is the Recipe the same for the Towers?](../../../transcriptions/yt-oUM817ASjW4.md) [https://www.youtube.com/watch?v=oUM817ASjW4](https://www.youtube.com/watch?v=oUM817ASjW4)
+* [Snutt Talk: Update 6 may be released on Experimental without being feature-complete](../../../transcriptions/yt-h3sRYjiX1ik.md) [https://www.youtube.com/watch?v=h3sRYjiX1ik](https://www.youtube.com/watch?v=h3sRYjiX1ik)
+* [Q&A: Are Stamps going to be the same as Beacons & not going to disappear from the compass?](../../../transcriptions/yt-gBuqX8R2jFc.md) [https://www.youtube.com/watch?v=gBuqX8R2jFc](https://www.youtube.com/watch?v=gBuqX8R2jFc)
+* [Community FYI: Second Body slot would trivialise the current items without a big rework](../../../transcriptions/yt-OWQYosud1-o.md) [https://www.youtube.com/watch?v=OWQYosud1-o](https://www.youtube.com/watch?v=OWQYosud1-o)
+* [Q&A: Map Marker limit as config thing?](../../../transcriptions/yt-l-LVFsZi9_E.md) [https://www.youtube.com/watch?v=l-LVFsZi9_E](https://www.youtube.com/watch?v=l-LVFsZi9_E)
+* [Q&A: Will different players have different colour highlighted markers?](../../../transcriptions/yt--kK37J52sSA.md) [https://www.youtube.com/watch?v=-kK37J52sSA](https://www.youtube.com/watch?v=-kK37J52sSA)
+* [Q&A: Will Beacons be replaced with something for building Vehicles?](../../../transcriptions/yt-K7MGuYiuzno.md) [https://www.youtube.com/watch?v=K7MGuYiuzno](https://www.youtube.com/watch?v=K7MGuYiuzno)
+* [Community FYI: Bet someone will make a mod that removes the limit](../../../transcriptions/yt-p7vIbW29dyE.md) [https://www.youtube.com/watch?v=p7vIbW29dyE](https://www.youtube.com/watch?v=p7vIbW29dyE)
+* [Q&A: Fixing bugs or doing new stuff?](../../../transcriptions/yt-pwh9QNRmqFY.md) [https://www.youtube.com/watch?v=pwh9QNRmqFY](https://www.youtube.com/watch?v=pwh9QNRmqFY)
+* [Snutt Talk: Difference in development process going forward](../../../transcriptions/yt-Utj182ql3Eo.md) [https://www.youtube.com/watch?v=Utj182ql3Eo](https://www.youtube.com/watch?v=Utj182ql3Eo)
+
 ## May 13th, 2022 Video
 * [Introducing the topic of the video](../../../transcriptions/yt-2vAUX3YLH-c,9.476133333333333,56.38966666666667.md) [https://youtube.com/clip/Ugkx5x2bQA1difTBhirAncKs5J55MzzrNydA](https://youtube.com/clip/Ugkx5x2bQA1difTBhirAncKs5J55MzzrNydA)
 * [Introducing the Map changes](../../../transcriptions/yt-2vAUX3YLH-c,56.423033333333336,142.07526666666666.md) [https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=56&end=143](https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=56&end=143)

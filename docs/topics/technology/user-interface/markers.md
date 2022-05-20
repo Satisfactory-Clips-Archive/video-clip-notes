@@ -1,8 +1,16 @@
 ---
 title: "Markers"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEqEAR3Wx0pIkb07wtrRi2qL
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Technology](../../../topics/technology.md) > [User Interface](../../../topics/technology/user-interface.md) > Markers
+
+## May 17th, 2022 Livestream
+* [State of Dev](../../../transcriptions/yt-Z6M_0T26BIA.md) [https://www.youtube.com/watch?v=Z6M_0T26BIA](https://www.youtube.com/watch?v=Z6M_0T26BIA)
+* [Q&A: Was there a reason for the separate Stamp and Marker beacons?](../../../transcriptions/yt-QTl0IjtsttM.md) [https://www.youtube.com/watch?v=QTl0IjtsttM](https://www.youtube.com/watch?v=QTl0IjtsttM)
+* [Q&A: Map Marker limit as config thing?](../../../transcriptions/yt-l-LVFsZi9_E.md) [https://www.youtube.com/watch?v=l-LVFsZi9_E](https://www.youtube.com/watch?v=l-LVFsZi9_E)
+* [Q&A: Will different players have different colour highlighted markers?](../../../transcriptions/yt--kK37J52sSA.md) [https://www.youtube.com/watch?v=-kK37J52sSA](https://www.youtube.com/watch?v=-kK37J52sSA)
+* [Community FYI: Bet someone will make a mod that removes the limit](../../../transcriptions/yt-p7vIbW29dyE.md) [https://www.youtube.com/watch?v=p7vIbW29dyE](https://www.youtube.com/watch?v=p7vIbW29dyE)
 
 ## May 13th, 2022 Video
 * [Marker Customisation](../../../transcriptions/yt-2vAUX3YLH-c,187.22036666666668,254.254.md) [https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=187&end=255](https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=187&end=255)

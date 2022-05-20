@@ -12,6 +12,10 @@ date: Last Modified
 * [Tractor](../../../topics/features/transportation/vehicles/tractor.md)
 * [Truck](../../../topics/features/transportation/vehicles/truck.md)
 
+## May 17th, 2022 Livestream
+* [Q&A: Will Beacons be replaced with something for building Vehicles?](../../../transcriptions/yt-K7MGuYiuzno.md) [https://www.youtube.com/watch?v=K7MGuYiuzno](https://www.youtube.com/watch?v=K7MGuYiuzno)
+* [Q&A: Any chance we'd get inverted Vehicle Y-axis sometime ?](../../../transcriptions/yt-9QWK-qKXvoQ.md) [https://www.youtube.com/watch?v=9QWK-qKXvoQ](https://www.youtube.com/watch?v=9QWK-qKXvoQ)
+
 ## May 13th, 2022 Video
 * [Introducing the Map changes](../../../transcriptions/yt-2vAUX3YLH-c,56.423033333333336,142.07526666666666.md) [https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=56&end=143](https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=56&end=143)
 * [New Map Menu](../../../transcriptions/yt-2vAUX3YLH-c,455.95550000000003,507.57373333333334.md) [https://youtube.com/clip/UgkxHQOyhD7VNSOt_0fFG528Px6fM2EDtsv0](https://youtube.com/clip/UgkxHQOyhD7VNSOt_0fFG528Px6fM2EDtsv0)

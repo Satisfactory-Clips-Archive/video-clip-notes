@@ -10,6 +10,9 @@ date: Last Modified
 * [Non Flying Bird](../../topics/environment/creatures/non-flying-bird.md)
 * [Space Giraffe-Tick-Penguin-Whale Thing](../../topics/environment/creatures/space-giraffe-tick-penguin-whale-thing.md)
 
+## May 17th, 2022 Livestream
+* [State of Dev](../../transcriptions/yt-Z6M_0T26BIA.md) [https://www.youtube.com/watch?v=Z6M_0T26BIA](https://www.youtube.com/watch?v=Z6M_0T26BIA)
+
 ## May 13th, 2022 Video
 * [Radar Towers in Update 5 vs. Update 6](../../transcriptions/yt-2vAUX3YLH-c,507.6071,601.2339666666667.md) [https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=507&end=602](https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=507&end=602)
 

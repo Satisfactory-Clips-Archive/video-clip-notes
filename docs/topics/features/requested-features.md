@@ -12,6 +12,18 @@ date: Last Modified
 * [Pollution](../../topics/features/requested-features/pollution.md)
 * [Third-person View](../../topics/features/requested-features/third-person-view.md)
 
+## May 17th, 2022 Livestream
+* [State of Dev](../../transcriptions/yt-Z6M_0T26BIA.md) [https://www.youtube.com/watch?v=Z6M_0T26BIA](https://www.youtube.com/watch?v=Z6M_0T26BIA)
+* [Q&A: Plan for in-game statistics?](../../transcriptions/yt-PFLDVpxGB-U.md) [https://www.youtube.com/watch?v=PFLDVpxGB-U](https://www.youtube.com/watch?v=PFLDVpxGB-U)
+* [Q&A: Will the Radar Towers scan caves?](../../transcriptions/yt-_1RGTTyHmMk.md) [https://www.youtube.com/watch?v=_1RGTTyHmMk](https://www.youtube.com/watch?v=_1RGTTyHmMk)
+* [Q&A: Will Turbofuel work with the Jetpack?](../../transcriptions/yt-zJy_dyJfNLc.md) [https://www.youtube.com/watch?v=zJy_dyJfNLc](https://www.youtube.com/watch?v=zJy_dyJfNLc)
+* [Q&A: Map Marker limit as config thing?](../../transcriptions/yt-l-LVFsZi9_E.md) [https://www.youtube.com/watch?v=l-LVFsZi9_E](https://www.youtube.com/watch?v=l-LVFsZi9_E)
+* [Q&A: Any form of discussion to add pen & brush to the map?](../../transcriptions/yt-ESh7mMnkJR8.md) [https://www.youtube.com/watch?v=ESh7mMnkJR8](https://www.youtube.com/watch?v=ESh7mMnkJR8)
+* [Q&A: Fixing quarter-pipe Foundations so we can use Materials?](../../transcriptions/yt-abVIIFQdQ9M.md) [https://www.youtube.com/watch?v=abVIIFQdQ9M](https://www.youtube.com/watch?v=abVIIFQdQ9M)
+* [Q&A: When will Doom be playable on the HUB computer?](../../transcriptions/yt-mDi4O1uN6Ng.md) [https://www.youtube.com/watch?v=mDi4O1uN6Ng](https://www.youtube.com/watch?v=mDi4O1uN6Ng)
+* [Q&A: How's the math going for those Mk.5 Belts?](../../transcriptions/yt-ZdAfPR1J3OY.md) [https://www.youtube.com/watch?v=ZdAfPR1J3OY](https://www.youtube.com/watch?v=ZdAfPR1J3OY)
+* [Q&A: Any chance we'd get inverted Vehicle Y-axis sometime ?](../../transcriptions/yt-9QWK-qKXvoQ.md) [https://www.youtube.com/watch?v=9QWK-qKXvoQ](https://www.youtube.com/watch?v=9QWK-qKXvoQ)
+
 ## May 10th, 2022 Livestream
 * [Q&A: Later down the line would you rather have a second map or a map editor for people to create?](../../transcriptions/yt-quBufOSDaf8.md) [https://www.youtube.com/watch?v=quBufOSDaf8](https://www.youtube.com/watch?v=quBufOSDaf8)
 

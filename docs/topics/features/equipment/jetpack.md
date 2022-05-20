@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Equipment](../../../topics/features/equipment.md) > Jetpack
 
+## May 17th, 2022 Livestream
+* [Q&A: Will Turbofuel work with the Jetpack?](../../../transcriptions/yt-zJy_dyJfNLc.md) [https://www.youtube.com/watch?v=zJy_dyJfNLc](https://www.youtube.com/watch?v=zJy_dyJfNLc)
+
 ## April 15th, 2022 Video
 * [Snutt & Stefan Talk: Sprint 3](../../../transcriptions/yt-7I3NGAm3j_4,295.9957,322.08843333333334.md) [https://youtube.com/clip/UgkxYqGxjZhFEaf3O7kb2SaF67rZ_uLGGxQM](https://youtube.com/clip/UgkxYqGxjZhFEaf3O7kb2SaF67rZ_uLGGxQM)
 

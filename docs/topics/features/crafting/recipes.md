@@ -6,6 +6,10 @@ date: Last Modified
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Crafting](../../../topics/features/crafting.md) > Recipes
 * [Alternate Recipes](../../../topics/features/crafting/recipes/alternate-recipes.md)
 
+## May 17th, 2022 Livestream
+* [Q&A: Can you ask the Dev team to release some info about the new Recipes?](../../../transcriptions/yt-H43HfFnO8eU.md) [https://www.youtube.com/watch?v=H43HfFnO8eU](https://www.youtube.com/watch?v=H43HfFnO8eU)
+* [Q&A: Will Beacons be replaced with something for building Vehicles?](../../../transcriptions/yt-K7MGuYiuzno.md) [https://www.youtube.com/watch?v=K7MGuYiuzno](https://www.youtube.com/watch?v=K7MGuYiuzno)
+
 ## May 3rd, 2022 Livestream
 * [Q&A: Will Recipes get a do-over before 1.0?](../../../transcriptions/yt-aOsUEy25oPQ.md) [https://www.youtube.com/watch?v=aOsUEy25oPQ](https://www.youtube.com/watch?v=aOsUEy25oPQ)
 

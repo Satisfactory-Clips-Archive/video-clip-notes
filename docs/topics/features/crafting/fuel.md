@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Crafting](../../../topics/features/crafting.md) > Fuel
 
+## May 17th, 2022 Livestream
+* [Q&A: Will Turbofuel work with the Jetpack?](../../../transcriptions/yt-zJy_dyJfNLc.md) [https://www.youtube.com/watch?v=zJy_dyJfNLc](https://www.youtube.com/watch?v=zJy_dyJfNLc)
+
 ## December 14th, 2021 Livestream
 * [Q&A: What kind of Fuel?](../../../transcriptions/yt-x_RdJmv4yTw.md) [https://www.youtube.com/watch?v=x_RdJmv4yTw](https://www.youtube.com/watch?v=x_RdJmv4yTw)
 

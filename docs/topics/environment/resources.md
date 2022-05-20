@@ -14,6 +14,9 @@ date: Last Modified
 * [Steel](../../topics/environment/resources/steel.md)
 * [Water](../../topics/environment/resources/water.md)
 
+## May 17th, 2022 Livestream
+* [State of Dev](../../transcriptions/yt-Z6M_0T26BIA.md) [https://www.youtube.com/watch?v=Z6M_0T26BIA](https://www.youtube.com/watch?v=Z6M_0T26BIA)
+
 ## May 13th, 2022 Video
 * [Placing Stamps on the Map & in real-time](../../transcriptions/yt-2vAUX3YLH-c,282.11516666666665,349.4157333333333.md) [https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=282&end=350](https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=282&end=350)
 * [Radar Towers now reveal Resources](../../transcriptions/yt-2vAUX3YLH-c,601.2673333333333,660.2262333333333.md) [https://youtube.com/clip/UgkxJnmVX3S3bs9IkJtFO072OngyOy6kFLxg](https://youtube.com/clip/UgkxJnmVX3S3bs9IkJtFO072OngyOy6kFLxg)

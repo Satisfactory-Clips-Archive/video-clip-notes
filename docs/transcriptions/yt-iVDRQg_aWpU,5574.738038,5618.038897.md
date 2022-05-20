@@ -9,6 +9,8 @@ topics:
 # [November 23rd, 2021 Livestream](../2021-11-23.md)
 ## Q&A: Why hasn't Coffee Stain fixed inverted mouse on Vehicles?
 https://youtube.com/clip/UgkxRC2q3FEVwELO6o5l3M_rG5RddCytjy52
+This question was possibly duplicated with a more recent answer: [May 17th, 2022 Livestream Q&A: Any chance we'd get inverted Vehicle Y-axis sometime ?](./yt-9QWK-qKXvoQ.md) [https://www.youtube.com/watch?v=9QWK-qKXvoQ](https://www.youtube.com/watch?v=9QWK-qKXvoQ)
+
 
 ### Topics
 * [Features > Requested Features](../topics/features/requested-features.md)

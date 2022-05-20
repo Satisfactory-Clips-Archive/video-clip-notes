@@ -7,6 +7,9 @@ date: Last Modified
 * [Cheatcrete](../../../topics/features/buildables/foundations/cheatcrete.md)
 * [Foundation Stencils](../../../topics/features/buildables/foundations/stencils.md)
 
+## May 17th, 2022 Livestream
+* [Q&A: Fixing quarter-pipe Foundations so we can use Materials?](../../../transcriptions/yt-abVIIFQdQ9M.md) [https://www.youtube.com/watch?v=abVIIFQdQ9M](https://www.youtube.com/watch?v=abVIIFQdQ9M)
+
 ## May 3rd, 2022 Livestream
 * [Q&A: Will Z-plane fighting finally be resolved?](../../../transcriptions/yt-_LVhzjfAywg.md) [https://www.youtube.com/watch?v=_LVhzjfAywg](https://www.youtube.com/watch?v=_LVhzjfAywg)
 * [Q&A: Any chance we could get an Update to architectural structures?](../../../transcriptions/yt-U5OI9pz9mnQ.md) [https://www.youtube.com/watch?v=U5OI9pz9mnQ](https://www.youtube.com/watch?v=U5OI9pz9mnQ)

@@ -18,6 +18,10 @@ date: Last Modified
 * [Teasers & Trailers](../topics/satisfactory-updates/teasers-and-trailers.md)
 * [World Update](../topics/satisfactory-updates/world-update.md)
 
+## May 17th, 2022 Livestream
+* [Q&A: Fixing bugs or doing new stuff?](../transcriptions/yt-pwh9QNRmqFY.md) [https://www.youtube.com/watch?v=pwh9QNRmqFY](https://www.youtube.com/watch?v=pwh9QNRmqFY)
+* [Snutt Talk: Difference in development process going forward](../transcriptions/yt-Utj182ql3Eo.md) [https://www.youtube.com/watch?v=Utj182ql3Eo](https://www.youtube.com/watch?v=Utj182ql3Eo)
+
 ## May 6th, 2022 Video
 * [Resource nodes & Power Slugs](../transcriptions/yt-8BxYvOLpjGo,117.3172,170.60376666666667.md) [https://youtube.com/clip/UgkxdoSTjRIaKwSDb_9pHxzosJ0CcTJCPfve](https://youtube.com/clip/UgkxdoSTjRIaKwSDb_9pHxzosJ0CcTJCPfve)
 

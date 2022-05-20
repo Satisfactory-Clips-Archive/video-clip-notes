@@ -17,6 +17,10 @@ date: Last Modified
 * [Terraforming](../../topics/features/unplanned-features/terraforming.md)
 * [VR](../../topics/features/unplanned-features/vr.md)
 
+## May 17th, 2022 Livestream
+* [Q&A: What is Coffee Stain anti daisy-chain?](../../transcriptions/yt--KPx46FPN5Q.md) [https://www.youtube.com/watch?v=-KPx46FPN5Q](https://www.youtube.com/watch?v=-KPx46FPN5Q)
+* [Q&A: Any plans for automated Power before Coal?](../../transcriptions/yt-huRKK3aqoPk.md) [https://www.youtube.com/watch?v=huRKK3aqoPk](https://www.youtube.com/watch?v=huRKK3aqoPk)
+
 ## March 22nd, 2022 Livestream
 * [Community FYI: I'd like to have more combat in Satisfactory](../../transcriptions/yt-Vx9Y31Eig64.md) [https://www.youtube.com/watch?v=Vx9Y31Eig64](https://www.youtube.com/watch?v=Vx9Y31Eig64)
 

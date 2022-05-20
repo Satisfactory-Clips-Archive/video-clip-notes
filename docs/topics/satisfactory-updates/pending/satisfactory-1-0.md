@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Pending > Satisfactory 1.0
 
+## May 17th, 2022 Livestream
+* [Snutt Talk: Difference in development process going forward](../../../transcriptions/yt-Utj182ql3Eo.md) [https://www.youtube.com/watch?v=Utj182ql3Eo](https://www.youtube.com/watch?v=Utj182ql3Eo)
+
 ## May 3rd, 2022 Livestream
 * [Q&A: Big 1.0 Update? The bugs kind of defeat the point of moving out of Early Access?](../../../transcriptions/yt-aO02dQNOhf4.md) [https://www.youtube.com/watch?v=aO02dQNOhf4](https://www.youtube.com/watch?v=aO02dQNOhf4)
 * [Q&A: I'd have to buy another copy?](../../../transcriptions/yt-t_x_6rrsRAY.md) [https://www.youtube.com/watch?v=t_x_6rrsRAY](https://www.youtube.com/watch?v=t_x_6rrsRAY)

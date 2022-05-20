@@ -5,6 +5,12 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Teasers & Trailers](../../../topics/satisfactory-updates/teasers-and-trailers.md) > Update 6 Teasers
 
+## May 17th, 2022 Livestream
+* [State of Dev](../../../transcriptions/yt-Z6M_0T26BIA.md) [https://www.youtube.com/watch?v=Z6M_0T26BIA](https://www.youtube.com/watch?v=Z6M_0T26BIA)
+* [Q&A: Was there a reason for the separate Stamp and Marker beacons?](../../../transcriptions/yt-QTl0IjtsttM.md) [https://www.youtube.com/watch?v=QTl0IjtsttM](https://www.youtube.com/watch?v=QTl0IjtsttM)
+* [Q&A: Is the Recipe the same for the Towers?](../../../transcriptions/yt-oUM817ASjW4.md) [https://www.youtube.com/watch?v=oUM817ASjW4](https://www.youtube.com/watch?v=oUM817ASjW4)
+* [Q&A: Will video come out this Friday?](../../../transcriptions/yt-EwaNJ-K7Yd0.md) [https://www.youtube.com/watch?v=EwaNJ-K7Yd0](https://www.youtube.com/watch?v=EwaNJ-K7Yd0)
+
 ## May 13th, 2022 Video
 * [Cold Open](../../../transcriptions/yt-2vAUX3YLH-c,0,9.442766666666667.md) [https://youtube.com/clip/UgkxHOAaFQZtsreCSiVmgHVJEki72ca2TR72](https://youtube.com/clip/UgkxHOAaFQZtsreCSiVmgHVJEki72ca2TR72)
 * [Introducing the topic of the video](../../../transcriptions/yt-2vAUX3YLH-c,9.476133333333333,56.38966666666667.md) [https://youtube.com/clip/Ugkx5x2bQA1difTBhirAncKs5J55MzzrNydA](https://youtube.com/clip/Ugkx5x2bQA1difTBhirAncKs5J55MzzrNydA)

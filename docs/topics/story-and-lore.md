@@ -7,6 +7,9 @@ date: Last Modified
 * [Characters](../topics/story-and-lore/characters.md)
 * [Project Assembly](../topics/story-and-lore/project-assembly.md)
 
+## May 17th, 2022 Livestream
+* [Q&A: Can we get a video of how the Pioneer is made?](../transcriptions/yt-1Ex8swSlNP4.md) [https://www.youtube.com/watch?v=1Ex8swSlNP4](https://www.youtube.com/watch?v=1Ex8swSlNP4)
+
 ## May 13th, 2022 Video
 * [Radar Towers in Update 5 vs. Update 6](../transcriptions/yt-2vAUX3YLH-c,507.6071,601.2339666666667.md) [https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=507&end=602](https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=507&end=602)
 

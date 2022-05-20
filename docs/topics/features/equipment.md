@@ -21,6 +21,10 @@ date: Last Modified
 * [Xeno-Zapper](../../topics/features/equipment/xeno-zapper.md)
 * [Zip Lines](../../topics/features/equipment/zip-lines.md)
 
+## May 17th, 2022 Livestream
+* [State of Dev](../../transcriptions/yt-Z6M_0T26BIA.md) [https://www.youtube.com/watch?v=Z6M_0T26BIA](https://www.youtube.com/watch?v=Z6M_0T26BIA)
+* [Community FYI: Second Body slot would trivialise the current items without a big rework](../../transcriptions/yt-OWQYosud1-o.md) [https://www.youtube.com/watch?v=OWQYosud1-o](https://www.youtube.com/watch?v=OWQYosud1-o)
+
 ## April 26th, 2022 Livestream
 * [State of Dave](../../transcriptions/yt-komFyjm03kg.md) [https://www.youtube.com/watch?v=komFyjm03kg](https://www.youtube.com/watch?v=komFyjm03kg)
 * [Q&A: Will you add Inhaler Recipes to machines to automate them?](../../transcriptions/yt-o6_OpiSg-pQ.md) [https://www.youtube.com/watch?v=o6_OpiSg-pQ](https://www.youtube.com/watch?v=o6_OpiSg-pQ)

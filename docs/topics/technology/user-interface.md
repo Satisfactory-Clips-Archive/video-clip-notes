@@ -9,6 +9,14 @@ date: Last Modified
 * [Ping](../../topics/technology/user-interface/ping.md)
 * [Stamps](../../topics/technology/user-interface/stamps.md)
 
+## May 17th, 2022 Livestream
+* [State of Dev](../../transcriptions/yt-Z6M_0T26BIA.md) [https://www.youtube.com/watch?v=Z6M_0T26BIA](https://www.youtube.com/watch?v=Z6M_0T26BIA)
+* [Q&A: Plan for in-game statistics?](../../transcriptions/yt-PFLDVpxGB-U.md) [https://www.youtube.com/watch?v=PFLDVpxGB-U](https://www.youtube.com/watch?v=PFLDVpxGB-U)
+* [Q&A: Are Stamps going to be the same as Beacons & not going to disappear from the compass?](../../transcriptions/yt-gBuqX8R2jFc.md) [https://www.youtube.com/watch?v=gBuqX8R2jFc](https://www.youtube.com/watch?v=gBuqX8R2jFc)
+* [Q&A: Will Turbofuel work with the Jetpack?](../../transcriptions/yt-zJy_dyJfNLc.md) [https://www.youtube.com/watch?v=zJy_dyJfNLc](https://www.youtube.com/watch?v=zJy_dyJfNLc)
+* [Q&A: Will different players have different colour highlighted markers?](../../transcriptions/yt--kK37J52sSA.md) [https://www.youtube.com/watch?v=-kK37J52sSA](https://www.youtube.com/watch?v=-kK37J52sSA)
+* [Q&A: Any form of discussion to add pen & brush to the map?](../../transcriptions/yt-ESh7mMnkJR8.md) [https://www.youtube.com/watch?v=ESh7mMnkJR8](https://www.youtube.com/watch?v=ESh7mMnkJR8)
+
 ## May 13th, 2022 Video
 * [Introducing the topic of the video](../../transcriptions/yt-2vAUX3YLH-c,9.476133333333333,56.38966666666667.md) [https://youtube.com/clip/Ugkx5x2bQA1difTBhirAncKs5J55MzzrNydA](https://youtube.com/clip/Ugkx5x2bQA1difTBhirAncKs5J55MzzrNydA)
 * [Introducing the Map changes](../../transcriptions/yt-2vAUX3YLH-c,56.423033333333336,142.07526666666666.md) [https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=56&end=143](https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=56&end=143)

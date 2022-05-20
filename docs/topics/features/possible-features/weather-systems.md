@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > Possible Features > Weather Systems
 
+## May 17th, 2022 Livestream
+* [State of Dev](../../../transcriptions/yt-Z6M_0T26BIA.md) [https://www.youtube.com/watch?v=Z6M_0T26BIA](https://www.youtube.com/watch?v=Z6M_0T26BIA)
+* [Q&A: How will Weather affect general performance?](../../../transcriptions/yt-UjApMx6tYGg.md) [https://www.youtube.com/watch?v=UjApMx6tYGg](https://www.youtube.com/watch?v=UjApMx6tYGg)
+
 ## April 26th, 2022 Livestream
 * [State of Dave](../../../transcriptions/yt-komFyjm03kg.md) [https://www.youtube.com/watch?v=komFyjm03kg](https://www.youtube.com/watch?v=komFyjm03kg)
 

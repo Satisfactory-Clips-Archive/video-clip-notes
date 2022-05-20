@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Australia
 
+## May 17th, 2022 Livestream
+* [Special Guest](../../transcriptions/yt-pLBIAObULRg.md) [https://www.youtube.com/watch?v=pLBIAObULRg](https://www.youtube.com/watch?v=pLBIAObULRg)
+
 ## April 21st, 2022 Satisfactory x Portal Bonus Stream
 * [Q&A: How's the spiders in Australia?](../../transcriptions/yt-y3eH_Z3HKNg.md) [https://www.youtube.com/watch?v=y3eH_Z3HKNg](https://www.youtube.com/watch?v=y3eH_Z3HKNg)
 * [Q&A: How many Coal nodes in Australia?](../../transcriptions/yt-FRr-lTnxnog.md) [https://www.youtube.com/watch?v=FRr-lTnxnog](https://www.youtube.com/watch?v=FRr-lTnxnog)

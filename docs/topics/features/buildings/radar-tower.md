@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > Radar Tower
 
+## May 17th, 2022 Livestream
+* [State of Dev](../../../transcriptions/yt-Z6M_0T26BIA.md) [https://www.youtube.com/watch?v=Z6M_0T26BIA](https://www.youtube.com/watch?v=Z6M_0T26BIA)
+* [Q&A: Will the Radar Towers scan caves?](../../../transcriptions/yt-_1RGTTyHmMk.md) [https://www.youtube.com/watch?v=_1RGTTyHmMk](https://www.youtube.com/watch?v=_1RGTTyHmMk)
+* [Q&A: Is the Recipe the same for the Towers?](../../../transcriptions/yt-oUM817ASjW4.md) [https://www.youtube.com/watch?v=oUM817ASjW4](https://www.youtube.com/watch?v=oUM817ASjW4)
+
 ## May 13th, 2022 Video
 * [Introducing the topic of the video](../../../transcriptions/yt-2vAUX3YLH-c,9.476133333333333,56.38966666666667.md) [https://youtube.com/clip/Ugkx5x2bQA1difTBhirAncKs5J55MzzrNydA](https://youtube.com/clip/Ugkx5x2bQA1difTBhirAncKs5J55MzzrNydA)
 * [Radar Towers in Update 5 vs. Update 6](../../../transcriptions/yt-2vAUX3YLH-c,507.6071,601.2339666666667.md) [https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=507&end=602](https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=507&end=602)

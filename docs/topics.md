@@ -403,6 +403,7 @@ date: Last Modified
 ## [Official Mod Support](./topics/mods/official-mod-support.md)
 * [Steam Workshop](./topics/mods/official-mod-support/steam-workshop.md)
 ---
+* [News](./topics/news.md)
 
 # [Off-Topic](./topics/off-topic.md)
 * [Australia](./topics/off-topic/australia.md)

@@ -2,6 +2,99 @@
 title: "Frequently Asked Questions"
 date: Last Modified
 ---
+## [May 17th, 2022 Livestream](./2022-05-17.md)
+### [Q&A: Plan for in-game statistics?](./transcriptions/yt-PFLDVpxGB-U.md) [https://www.youtube.com/watch?v=PFLDVpxGB-U](https://www.youtube.com/watch?v=PFLDVpxGB-U)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> playing for in-game statistics uh planning as in like there's no plan for it but we've it's in the like wish list there's a difference between having something in the wish list and having something actively planned uh if you know what i mean like there's there's a ton of stuff we won't have in the wish list but we don't know if that will make it in it kind of tied us into the thing i talked about before how there are ideas we have on the map that we want to introduce with factory layout and stuff you know and maybe statistics for like how effect is going well we don't know how much we can execute on that in the time frame that we have so that's why i'm saying it's on the wish list but it's not set in stone yet we will see
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 11 other times, as recently as April 2022 and as early as December 2019.</summary>
+
+* [April 12th, 2022 Livestream Q&A: Any plans to implement a statistics window?](./transcriptions/yt-CgAOx4N8rZ8.md) [https://www.youtube.com/watch?v=CgAOx4N8rZ8](https://www.youtube.com/watch?v=CgAOx4N8rZ8)
+* [November 9th, 2021 Livestream Q&A: Any plans to implement an in-game statistics panel?](./transcriptions/yt--FK6cMdhe18.md) [https://www.youtube.com/watch?v=-FK6cMdhe18](https://www.youtube.com/watch?v=-FK6cMdhe18)
+* [August 24th, 2021 Livestream Q&A: Are there going to be stats on The HUB computer at some point?](./transcriptions/yt-LXjxyiB6F3s.md) [https://www.youtube.com/watch?v=LXjxyiB6F3s](https://www.youtube.com/watch?v=LXjxyiB6F3s)
+* [July 6th, 2021 Livestream Q&A: Go implement HUB computer, I want to see graphs & statistics?](./transcriptions/yt-aA0KIR6AKC8.md) [https://www.youtube.com/watch?v=aA0KIR6AKC8](https://www.youtube.com/watch?v=aA0KIR6AKC8)
+* [January 19th, 2021 Livestream Q&A: Will there be ways to see your total production per minute?](./transcriptions/yt-tHzH3dkTZ4s.md) [https://www.youtube.com/watch?v=tHzH3dkTZ4s](https://www.youtube.com/watch?v=tHzH3dkTZ4s)
+* [December 17th, 2020 Q&A: Why don't my computer screens in my hub show me power consumption or total production?](./transcriptions/yt--JXPsTlJIiI,808.0739333333333,844.2767666666667.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=808&end=845](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=808&end=845)
+* [November 17th, 2020 Livestream Q&A: What's the reason for not having good in-production overview?](./transcriptions/yt-66gt7CjmdXs.md) [https://www.youtube.com/watch?v=66gt7CjmdXs](https://www.youtube.com/watch?v=66gt7CjmdXs)
+* [November 17th, 2020 Livestream Q&A: Any chance to use the HUB Computer to display the statistics and production of the factory?](./transcriptions/yt-5rVqTHOiwh0.md) [https://www.youtube.com/watch?v=5rVqTHOiwh0](https://www.youtube.com/watch?v=5rVqTHOiwh0)
+* [September 29th, 2020 Livestream Q&A: Control Console with a simple representation of the Remote Plants?](./transcriptions/yt-hVDlrmNvsIY.md) [https://www.youtube.com/watch?v=hVDlrmNvsIY](https://www.youtube.com/watch?v=hVDlrmNvsIY)
+* [September 29th, 2020 Livestream Q&A: When are we getting a Production Overview in the game?](./transcriptions/yt-OnK4DcHAB4o.md) [https://www.youtube.com/watch?v=OnK4DcHAB4o](https://www.youtube.com/watch?v=OnK4DcHAB4o)
+* [December 19th, 2019 Livestream Q&A: Is there going to be a central computer plant where you can check the whole production?](./transcriptions/yt-Zlq2K0-z0_8.md) [https://www.youtube.com/watch?v=Zlq2K0-z0_8](https://www.youtube.com/watch?v=Zlq2K0-z0_8)
+</details>
+
+### [Q&A: Will Turbofuel work with the Jetpack?](./transcriptions/yt-zJy_dyJfNLc.md) [https://www.youtube.com/watch?v=zJy_dyJfNLc](https://www.youtube.com/watch?v=zJy_dyJfNLc)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> will turbo fuel work with the jetpack uh not in update six we we would have liked to have it that way to work it that way um but we don't think we'll be able to do it for update six we we do wanna do it later down the line why is my nose so itchy on stream this is like always on stream i don't know what it is maybe i just created this tick to scratch my nose whenever i'm streaming i don't know what it is um all right okay i did it um what was i talking about we think it's we think it's a cool addition essentially let me do it again we think it's a cool addition um but we don't know if like it will not happen for update six and we don't know when it will happen but it's a cool addition we have it on the drawing board maybe we'll have time to look into it uh there there's a few issues that we realized when we started prototyping it so it wasn't like an easy thing to add well we hope we can do it gif mode right there oh god
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 8 other times, as recently as September 2021 and as early as October 2020.</summary>
+
+* [September 7th, 2021 Livestream Q&A: Turbofuel in Jetpack?](./transcriptions/yt-g-Om6IBMBq0.md) [https://www.youtube.com/watch?v=g-Om6IBMBq0](https://www.youtube.com/watch?v=g-Om6IBMBq0)
+* [August 24th, 2021 Livestream Q&A: Will Turbofuel work in the Jetpack in future?](./transcriptions/yt-fo9YWVJyuVo.md) [https://www.youtube.com/watch?v=fo9YWVJyuVo](https://www.youtube.com/watch?v=fo9YWVJyuVo)
+* [June 29th, 2021 Livestream Q&A: Turbofuel for Jetpacks?](./transcriptions/yt-PBccbfC_x2E.md) [https://www.youtube.com/watch?v=PBccbfC_x2E](https://www.youtube.com/watch?v=PBccbfC_x2E)
+* [May 11th, 2021 Livestream Q&A: Turbofuel for Jet Packs](./transcriptions/yt-5Ij3wWqZb8Q.md) [https://www.youtube.com/watch?v=5Ij3wWqZb8Q](https://www.youtube.com/watch?v=5Ij3wWqZb8Q)
+* [April 20th, 2021 Livestream Q&A: Will we ever be able to use Turbofuel in Jetpacks?](./transcriptions/yt-FqtXvF6LhVM.md) [https://www.youtube.com/watch?v=FqtXvF6LhVM](https://www.youtube.com/watch?v=FqtXvF6LhVM)
+* [February 9th, 2021 Livestream Q&A: Turbofuel in Jetpacks would make a bunch of stuff easier?](./transcriptions/yt-5Z5pyzNiaVY.md) [https://www.youtube.com/watch?v=5Z5pyzNiaVY](https://www.youtube.com/watch?v=5Z5pyzNiaVY)
+* [December 15th, 2020 Livestream Q&A: Will Turbofuel finally be usable for Jetpacks in Update 4 or sooner?](./transcriptions/yt-pSGEDxxLn2E.md) [https://www.youtube.com/watch?v=pSGEDxxLn2E](https://www.youtube.com/watch?v=pSGEDxxLn2E)
+* [October 1st, 2020 Q&A: Can we use Turbofuel in Jetpacks?](./transcriptions/yt-rATcozDE25c,476.04223333333334,527.5603666666667.md) [https://youtube.com/embed/rATcozDE25c?autoplay=1&start=476&end=528](https://youtube.com/embed/rATcozDE25c?autoplay=1&start=476&end=528)
+</details>
+
+### [Q&A: Fixing quarter-pipe Foundations so we can use Materials?](./transcriptions/yt-abVIIFQdQ9M.md) [https://www.youtube.com/watch?v=abVIIFQdQ9M](https://www.youtube.com/watch?v=abVIIFQdQ9M)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> fixing quarter pipes we can concrete yeah same thing they're up within the keyway site uh i think we just ran out of time to be able to add that for all the foundation types
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 3 other times, as recently as February 2022 and as early as November 2021.</summary>
+
+* [February 8th, 2022 Livestream Q&A: Can we get materials for half-pipes?](./transcriptions/yt-s1Tz9QOFyZc.md) [https://www.youtube.com/watch?v=s1Tz9QOFyZc](https://www.youtube.com/watch?v=s1Tz9QOFyZc)
+* [December 14th, 2021 Livestream Q&A: Any chance on being able to use the new Materials on U-shaped Foundations?](./transcriptions/yt-ORd4hZlYajw.md) [https://www.youtube.com/watch?v=ORd4hZlYajw](https://www.youtube.com/watch?v=ORd4hZlYajw)
+* November 30th, 2021 Livestream Q&A: Quarter Pipe Concrete [https://www.youtube.com/watch?v=SntGjNRuKsc](https://www.youtube.com/watch?v=SntGjNRuKsc)
+</details>
+
+### [Q&A: When will Satisfactory be available for Linux?](./transcriptions/yt-d5DUng9zgwM.md) [https://www.youtube.com/watch?v=d5DUng9zgwM](https://www.youtube.com/watch?v=d5DUng9zgwM)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> when will satisfaction be available for linux probably not before 1.0 uh we would like to have it on mac and linux i think but it's a lot of work being able to support multiple platforms so uh not in early access that that for sure but you can you can use proton and stuff like that a lot of people have had a really good success using proton and stuff like that uh both on steam and epic i th but i think there was some issue recently with epic right where it didn't function as well or something like that i don't know
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 6 other times, as recently as August 2021 and as early as March 2019.</summary>
+
+* [August 3rd, 2021 Livestream Q&A: Does Satisfactory run on Linux?](./transcriptions/yt-JjyzyUK5tj8.md) [https://www.youtube.com/watch?v=JjyzyUK5tj8](https://www.youtube.com/watch?v=JjyzyUK5tj8)
+* [June 29th, 2021 Livestream Q&A: Native Linux support?](./transcriptions/yt-fvvftnYCayg.md) [https://www.youtube.com/watch?v=fvvftnYCayg](https://www.youtube.com/watch?v=fvvftnYCayg)
+* [December 15th, 2020 Livestream Q&A: Will Satisfactory have native support for Linux?](./transcriptions/yt-jGFUMhD3WGg.md) [https://www.youtube.com/watch?v=jGFUMhD3WGg](https://www.youtube.com/watch?v=jGFUMhD3WGg)
+* [October 6th, 2020 Livestream Q&A: Any plans to bring Satisfactory to Linux?](./transcriptions/yt-ADBTXxQnDL4.md) [https://www.youtube.com/watch?v=ADBTXxQnDL4](https://www.youtube.com/watch?v=ADBTXxQnDL4)
+* [August 25th, 2020 Livestream Q&A: Plans for official Linux support?](./transcriptions/yt-vSFTo-1j-SA.md) [https://www.youtube.com/watch?v=vSFTo-1j-SA](https://www.youtube.com/watch?v=vSFTo-1j-SA)
+* [March 9th, 2019 Livestream Q&A: Is Linux support planned in the future?](./transcriptions/yt-GR3xet5AyuE.md) [https://www.youtube.com/watch?v=GR3xet5AyuE](https://www.youtube.com/watch?v=GR3xet5AyuE)
+</details>
+
 ## [May 10th, 2022 Livestream](./2022-05-10.md)
 ### [Q&A: Are the map holes going to be fixed in Update 6?](./transcriptions/yt-9sqkzY9O0mI.md) [https://www.youtube.com/watch?v=9sqkzY9O0mI](https://www.youtube.com/watch?v=9sqkzY9O0mI)
 
@@ -534,32 +627,6 @@ date: Last Modified
 * [June 22nd, 2021 Livestream Q&A: Any plans on making the game multi-planetary?](./transcriptions/yt-fC5Ooqn4eA4.md) [https://www.youtube.com/watch?v=fC5Ooqn4eA4](https://www.youtube.com/watch?v=fC5Ooqn4eA4)
 * [May 4th, 2021 Livestream Q&A: Travelling to other planets?](./transcriptions/yt-uiRY89T_9mg.md) [https://www.youtube.com/watch?v=uiRY89T_9mg](https://www.youtube.com/watch?v=uiRY89T_9mg)
 * [May 4th, 2021 Livestream Q&A: New planet?](./transcriptions/yt-yT6M4mh83Vs.md) [https://www.youtube.com/watch?v=yT6M4mh83Vs](https://www.youtube.com/watch?v=yT6M4mh83Vs)
-</details>
-
-### [Q&A: Any plans to implement a statistics window?](./transcriptions/yt-CgAOx4N8rZ8.md) [https://www.youtube.com/watch?v=CgAOx4N8rZ8](https://www.youtube.com/watch?v=CgAOx4N8rZ8)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> any plans to implement a statistics window like what is being consumed to produce that's something that's been requested a lot and i don't know if there are plans for that or not um but it is something that the team knows people have requested and i don't think that there's anyone in the team who thinks it's a bad idea it's more of a question of like how like what's possible technically um and and you know can compare that with like what would be useful to show and then find some common ground between those two things and then we can maybe do it and then it's a question of like when do we do that
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 10 other times, as recently as November 2021 and as early as December 2019.</summary>
-
-* [November 9th, 2021 Livestream Q&A: Any plans to implement an in-game statistics panel?](./transcriptions/yt--FK6cMdhe18.md) [https://www.youtube.com/watch?v=-FK6cMdhe18](https://www.youtube.com/watch?v=-FK6cMdhe18)
-* [August 24th, 2021 Livestream Q&A: Are there going to be stats on The HUB computer at some point?](./transcriptions/yt-LXjxyiB6F3s.md) [https://www.youtube.com/watch?v=LXjxyiB6F3s](https://www.youtube.com/watch?v=LXjxyiB6F3s)
-* [July 6th, 2021 Livestream Q&A: Go implement HUB computer, I want to see graphs & statistics?](./transcriptions/yt-aA0KIR6AKC8.md) [https://www.youtube.com/watch?v=aA0KIR6AKC8](https://www.youtube.com/watch?v=aA0KIR6AKC8)
-* [January 19th, 2021 Livestream Q&A: Will there be ways to see your total production per minute?](./transcriptions/yt-tHzH3dkTZ4s.md) [https://www.youtube.com/watch?v=tHzH3dkTZ4s](https://www.youtube.com/watch?v=tHzH3dkTZ4s)
-* [December 17th, 2020 Q&A: Why don't my computer screens in my hub show me power consumption or total production?](./transcriptions/yt--JXPsTlJIiI,808.0739333333333,844.2767666666667.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=808&end=845](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=808&end=845)
-* [November 17th, 2020 Livestream Q&A: What's the reason for not having good in-production overview?](./transcriptions/yt-66gt7CjmdXs.md) [https://www.youtube.com/watch?v=66gt7CjmdXs](https://www.youtube.com/watch?v=66gt7CjmdXs)
-* [November 17th, 2020 Livestream Q&A: Any chance to use the HUB Computer to display the statistics and production of the factory?](./transcriptions/yt-5rVqTHOiwh0.md) [https://www.youtube.com/watch?v=5rVqTHOiwh0](https://www.youtube.com/watch?v=5rVqTHOiwh0)
-* [September 29th, 2020 Livestream Q&A: Control Console with a simple representation of the Remote Plants?](./transcriptions/yt-hVDlrmNvsIY.md) [https://www.youtube.com/watch?v=hVDlrmNvsIY](https://www.youtube.com/watch?v=hVDlrmNvsIY)
-* [September 29th, 2020 Livestream Q&A: When are we getting a Production Overview in the game?](./transcriptions/yt-OnK4DcHAB4o.md) [https://www.youtube.com/watch?v=OnK4DcHAB4o](https://www.youtube.com/watch?v=OnK4DcHAB4o)
-* [December 19th, 2019 Livestream Q&A: Is there going to be a central computer plant where you can check the whole production?](./transcriptions/yt-Zlq2K0-z0_8.md) [https://www.youtube.com/watch?v=Zlq2K0-z0_8](https://www.youtube.com/watch?v=Zlq2K0-z0_8)
 </details>
 
 ### [Q&A: EU Merch status update?](./transcriptions/yt-l9FKieDCBSE.md) [https://www.youtube.com/watch?v=l9FKieDCBSE](https://www.youtube.com/watch?v=l9FKieDCBSE)
@@ -1879,24 +1946,6 @@ date: Last Modified
 </details>
 
 ## [February 8th, 2022 Livestream](./2022-02-08.md)
-### [Q&A: Can we get materials for half-pipes?](./transcriptions/yt-s1Tz9QOFyZc.md) [https://www.youtube.com/watch?v=s1Tz9QOFyZc](https://www.youtube.com/watch?v=s1Tz9QOFyZc)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> um someone asked if we can get materials for half pipes or something um i've missed the question uh if there aren't there and there should be then i recommend the qa site suggestions there i think it's it's uh yeah we have we added like a lot of material customization to a lot of almost all the foundations except the half pipe one and i think the reason for that is maybe we ran out of time um so uh yeah i'll put that let's see where you want it yeah
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 2 other times, as recently as December 2021 and as early as November 2021.</summary>
-
-* [December 14th, 2021 Livestream Q&A: Any chance on being able to use the new Materials on U-shaped Foundations?](./transcriptions/yt-ORd4hZlYajw.md) [https://www.youtube.com/watch?v=ORd4hZlYajw](https://www.youtube.com/watch?v=ORd4hZlYajw)
-* November 30th, 2021 Livestream Q&A: Quarter Pipe Concrete [https://www.youtube.com/watch?v=SntGjNRuKsc](https://www.youtube.com/watch?v=SntGjNRuKsc)
-</details>
-
 ### [Q&A: Are there Achievements planned for Satisfactory?](./transcriptions/yt-i-9UAyVFe6s.md) [https://www.youtube.com/watch?v=i-9UAyVFe6s](https://www.youtube.com/watch?v=i-9UAyVFe6s)
 
 <details>
@@ -3859,29 +3908,6 @@ date: Last Modified
 * [August 25th, 2020 Livestream Q&A: What about holes for Foundations?](./transcriptions/yt-fufH5ltdn7E.md) [https://www.youtube.com/watch?v=fufH5ltdn7E](https://www.youtube.com/watch?v=fufH5ltdn7E)
 </details>
 
-### [Q&A: Turbofuel in Jetpack?](./transcriptions/yt-g-Om6IBMBq0.md) [https://www.youtube.com/watch?v=g-Om6IBMBq0](https://www.youtube.com/watch?v=g-Om6IBMBq0)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> yeah turbo fuel jet pack this is a question we got kind of often and um the answer is that probably uh turbo fuel in jetpacks this is uh the main reason why we haven't had it up until this point is because there wasn't a good way ux wise ui wise to be able to like set your fuel in your jetpack um and having it like automatically pick fuel depending on like the situation is also not favorable because it could be picking something that you like it could be picking turbo fuel when you actually want to use zero feet for something else um so we didn't like that but uh it's something that we might be adding to the game at some point but i don't know when mark was very like yeah this is probably something we should
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 7 other times, as recently as August 2021 and as early as October 2020.</summary>
-
-* [August 24th, 2021 Livestream Q&A: Will Turbofuel work in the Jetpack in future?](./transcriptions/yt-fo9YWVJyuVo.md) [https://www.youtube.com/watch?v=fo9YWVJyuVo](https://www.youtube.com/watch?v=fo9YWVJyuVo)
-* [June 29th, 2021 Livestream Q&A: Turbofuel for Jetpacks?](./transcriptions/yt-PBccbfC_x2E.md) [https://www.youtube.com/watch?v=PBccbfC_x2E](https://www.youtube.com/watch?v=PBccbfC_x2E)
-* [May 11th, 2021 Livestream Q&A: Turbofuel for Jet Packs](./transcriptions/yt-5Ij3wWqZb8Q.md) [https://www.youtube.com/watch?v=5Ij3wWqZb8Q](https://www.youtube.com/watch?v=5Ij3wWqZb8Q)
-* [April 20th, 2021 Livestream Q&A: Will we ever be able to use Turbofuel in Jetpacks?](./transcriptions/yt-FqtXvF6LhVM.md) [https://www.youtube.com/watch?v=FqtXvF6LhVM](https://www.youtube.com/watch?v=FqtXvF6LhVM)
-* [February 9th, 2021 Livestream Q&A: Turbofuel in Jetpacks would make a bunch of stuff easier?](./transcriptions/yt-5Z5pyzNiaVY.md) [https://www.youtube.com/watch?v=5Z5pyzNiaVY](https://www.youtube.com/watch?v=5Z5pyzNiaVY)
-* [December 15th, 2020 Livestream Q&A: Will Turbofuel finally be usable for Jetpacks in Update 4 or sooner?](./transcriptions/yt-pSGEDxxLn2E.md) [https://www.youtube.com/watch?v=pSGEDxxLn2E](https://www.youtube.com/watch?v=pSGEDxxLn2E)
-* [October 1st, 2020 Q&A: Can we use Turbofuel in Jetpacks?](./transcriptions/yt-rATcozDE25c,476.04223333333334,527.5603666666667.md) [https://youtube.com/embed/rATcozDE25c?autoplay=1&start=476&end=528](https://youtube.com/embed/rATcozDE25c?autoplay=1&start=476&end=528)
-</details>
-
 ## [August 31st, 2021 Livestream](./2021-08-31.md)
 ### [Q&A: Fall still looking like a reasonable timeline?](./transcriptions/yt-Y7yqhenTqHE.md) [https://www.youtube.com/watch?v=Y7yqhenTqHE](https://www.youtube.com/watch?v=Y7yqhenTqHE)
 
@@ -4212,27 +4238,6 @@ date: Last Modified
 
 * [November 10th, 2020 Livestream Q&A: Do we have support for Ultrawide Monitors?](./transcriptions/yt-j5yWR-Ayb5w.md) [https://www.youtube.com/watch?v=j5yWR-Ayb5w](https://www.youtube.com/watch?v=j5yWR-Ayb5w)
 * [September 22nd, 2020 Livestream Q&A: Ultrawide Monitors?](./transcriptions/yt-j9oy_AyPXnU.md) [https://www.youtube.com/watch?v=j9oy_AyPXnU](https://www.youtube.com/watch?v=j9oy_AyPXnU)
-</details>
-
-### [Q&A: Does Satisfactory run on Linux?](./transcriptions/yt-JjyzyUK5tj8.md) [https://www.youtube.com/watch?v=JjyzyUK5tj8](https://www.youtube.com/watch?v=JjyzyUK5tj8)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> the satisfactory run on linux i mean we don't make it for linux we didn't support it for linux you know at least not now we would like to at some point in the future but we'll see but people have had success getting it to run on linux uh using proton i believe
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 5 other times, as recently as June 2021 and as early as March 2019.</summary>
-
-* [June 29th, 2021 Livestream Q&A: Native Linux support?](./transcriptions/yt-fvvftnYCayg.md) [https://www.youtube.com/watch?v=fvvftnYCayg](https://www.youtube.com/watch?v=fvvftnYCayg)
-* [December 15th, 2020 Livestream Q&A: Will Satisfactory have native support for Linux?](./transcriptions/yt-jGFUMhD3WGg.md) [https://www.youtube.com/watch?v=jGFUMhD3WGg](https://www.youtube.com/watch?v=jGFUMhD3WGg)
-* [October 6th, 2020 Livestream Q&A: Any plans to bring Satisfactory to Linux?](./transcriptions/yt-ADBTXxQnDL4.md) [https://www.youtube.com/watch?v=ADBTXxQnDL4](https://www.youtube.com/watch?v=ADBTXxQnDL4)
-* [August 25th, 2020 Livestream Q&A: Plans for official Linux support?](./transcriptions/yt-vSFTo-1j-SA.md) [https://www.youtube.com/watch?v=vSFTo-1j-SA](https://www.youtube.com/watch?v=vSFTo-1j-SA)
-* [March 9th, 2019 Livestream Q&A: Is Linux support planned in the future?](./transcriptions/yt-GR3xet5AyuE.md) [https://www.youtube.com/watch?v=GR3xet5AyuE](https://www.youtube.com/watch?v=GR3xet5AyuE)
 </details>
 
 ## [July 20th, 2021 Livestream](./2021-07-20.md)

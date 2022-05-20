@@ -1,8 +1,16 @@
 ---
 title: "Stamps"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEpC-NAZq1zvnHD5fWHVqAUw
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Technology](../../../topics/technology.md) > [User Interface](../../../topics/technology/user-interface.md) > Stamps
+
+## May 17th, 2022 Livestream
+* [State of Dev](../../../transcriptions/yt-Z6M_0T26BIA.md) [https://www.youtube.com/watch?v=Z6M_0T26BIA](https://www.youtube.com/watch?v=Z6M_0T26BIA)
+* [Q&A: Was there a reason for the separate Stamp and Marker beacons?](../../../transcriptions/yt-QTl0IjtsttM.md) [https://www.youtube.com/watch?v=QTl0IjtsttM](https://www.youtube.com/watch?v=QTl0IjtsttM)
+* [Q&A: Are Stamps going to be the same as Beacons & not going to disappear from the compass?](../../../transcriptions/yt-gBuqX8R2jFc.md) [https://www.youtube.com/watch?v=gBuqX8R2jFc](https://www.youtube.com/watch?v=gBuqX8R2jFc)
+* [Q&A: Map Marker limit as config thing?](../../../transcriptions/yt-l-LVFsZi9_E.md) [https://www.youtube.com/watch?v=l-LVFsZi9_E](https://www.youtube.com/watch?v=l-LVFsZi9_E)
+* [Q&A: Will different players have different colour highlighted markers?](../../../transcriptions/yt--kK37J52sSA.md) [https://www.youtube.com/watch?v=-kK37J52sSA](https://www.youtube.com/watch?v=-kK37J52sSA)
 
 ## May 13th, 2022 Video
 * [Stamps](../../../transcriptions/yt-2vAUX3YLH-c,254.28736666666668,282.0818.md) [https://youtube.com/clip/UgkxIHS3HMuLo6ZOD8ITUy9fJUpO7Ue9Etf3](https://youtube.com/clip/UgkxIHS3HMuLo6ZOD8ITUy9fJUpO7Ue9Etf3)

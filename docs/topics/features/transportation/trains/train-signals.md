@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > Transportation > [Trains](../../../../topics/features/transportation/trains.md) > Train Signals
 
+## May 17th, 2022 Livestream
+* [Q&A: Fixing bugs or doing new stuff?](../../../../transcriptions/yt-pwh9QNRmqFY.md) [https://www.youtube.com/watch?v=pwh9QNRmqFY](https://www.youtube.com/watch?v=pwh9QNRmqFY)
+
 ## May 10th, 2022 Livestream
 * [State of Dev](../../../../transcriptions/yt-EgDWsvm7ThE.md) [https://www.youtube.com/watch?v=EgDWsvm7ThE](https://www.youtube.com/watch?v=EgDWsvm7ThE)
 

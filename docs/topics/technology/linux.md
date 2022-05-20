@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > Linux
 
+## May 17th, 2022 Livestream
+* [Q&A: When will Satisfactory be available for Linux?](../../transcriptions/yt-d5DUng9zgwM.md) [https://www.youtube.com/watch?v=d5DUng9zgwM](https://www.youtube.com/watch?v=d5DUng9zgwM)
+
 ## March 22nd, 2022 Livestream
 * [Q&A: Testing on Steam Deck yet?](../../transcriptions/yt-A8jMGfamqAE.md) [https://www.youtube.com/watch?v=A8jMGfamqAE](https://www.youtube.com/watch?v=A8jMGfamqAE)
 
