@@ -3,10 +3,10 @@ title: "May 11th, 2021 Livestream State of Dev: Cheatcrete-related changes in Up
 date: "2021-05-11"
 layout: transcript
 topics:
+    - "features/build-modes"
     - "features/buildables/foundations/cheatcrete"
     - "features/buildings"
     - "features/buildings/coal-generator"
-    - "features/planned-features/build-modes"
     - "satisfactory-updates/released/satisfactory-update-5"
     - "satisfactory-updates/state-of-dev"
     - "technology/physics"
@@ -16,10 +16,10 @@ topics:
 https://www.youtube.com/watch?v=g-YO3v6JbSY
 
 ### Topics
+* [Features > Build Modes](../topics/features/build-modes.md)
 * [Features > Buildables > Foundations > Cheatcrete](../topics/features/buildables/foundations/cheatcrete.md)
 * [Features > Buildings](../topics/features/buildings.md)
 * [Features > Buildings > Coal Generator](../topics/features/buildings/coal-generator.md)
-* [Features > Planned Features > Build Modes](../topics/features/planned-features/build-modes.md)
 * [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 * [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 * [Technology > Physics](../topics/technology/physics.md)

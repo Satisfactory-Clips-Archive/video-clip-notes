@@ -3,8 +3,8 @@ title: "November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary Snut
 date: "2021-11-05"
 layout: transcript
 topics:
+    - "features/build-modes/zooping"
     - "features/buildables/conveyor-belts"
-    - "features/planned-features/build-modes/zooping"
     - "satisfactory-updates/released/satisfactory-update-5"
     - "satisfactory-updates/teasers-and-trailers/update-5-patch-notes-video"
 ---
@@ -85,8 +85,8 @@ https://www.youtube.com/watch?v=YFfud0NwaGk
 
 
 ### Topics
+* [Features > Build Modes > Zooping](../topics/features/build-modes/zooping.md)
 * [Features > Buildables > Conveyor Belts](../topics/features/buildables/conveyor-belts.md)
-* [Features > Planned Features > Build Modes > Zooping](../topics/features/planned-features/build-modes/zooping.md)
 * [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 * [Satisfactory Updates > Teasers & Trailers > Update 5 Patch Notes Video](../topics/satisfactory-updates/teasers-and-trailers/update-5-patch-notes-video.md)
 

@@ -3,8 +3,8 @@ title: "October 12th, 2021 Livestream Q&A: Let us choose Belt and Lift direction
 date: "2021-10-12"
 layout: transcript
 topics:
+    - "features/build-modes"
     - "features/buildables/conveyor-belts"
-    - "features/planned-features/build-modes"
 ---
 # [October 12th, 2021 Livestream](../2021-10-12.md)
 ## Q&A: Let us choose Belt and Lift direction manually, I'll do anything?
@@ -13,8 +13,8 @@ This question was possibly replaced with a more recent answer: [October 29th, 20
 
 
 ### Topics
+* [Features > Build Modes](../topics/features/build-modes.md)
 * [Features > Buildables > Conveyor Belts](../topics/features/buildables/conveyor-belts.md)
-* [Features > Planned Features > Build Modes](../topics/features/planned-features/build-modes.md)
 
 ### Transcript
 

@@ -3,16 +3,16 @@ title: "July 13th, 2021 Livestream Q&A: Would you circular Foundations in base g
 date: "2021-07-13"
 layout: transcript
 topics:
+    - "features/build-modes"
     - "features/buildables/foundations"
-    - "features/planned-features/build-modes"
 ---
 # [July 13th, 2021 Livestream](../2021-07-13.md)
 ## Q&A: Would you circular Foundations in base game rather than using tricks from YouTube?
 https://www.youtube.com/watch?v=WvzJo6P-rNY
 
 ### Topics
+* [Features > Build Modes](../topics/features/build-modes.md)
 * [Features > Buildables > Foundations](../topics/features/buildables/foundations.md)
-* [Features > Planned Features > Build Modes](../topics/features/planned-features/build-modes.md)
 
 ### Transcript
 

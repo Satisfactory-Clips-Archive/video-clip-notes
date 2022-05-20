@@ -3,9 +3,9 @@ title: "October 15th, 2021 Video Jace Talk: List of Buildings with Complex Clear
 date: "2021-10-15"
 layout: transcript
 topics:
+    - "features/build-modes"
+    - "features/build-modes/hard-and-soft-clearance/complex-clearance"
     - "features/buildings"
-    - "features/planned-features/build-modes"
-    - "features/planned-features/build-modes/hard-and-soft-clearance/complex-clearance"
     - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [October 15th, 2021 Video](../2021-10-15.md)
@@ -13,9 +13,9 @@ topics:
 https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=496&end=519
 
 ### Topics
+* [Features > Build Modes](../topics/features/build-modes.md)
+* [Features > Build Modes > Hard & Soft Clearance > Complex Clearance](../topics/features/build-modes/hard-and-soft-clearance/complex-clearance.md)
 * [Features > Buildings](../topics/features/buildings.md)
-* [Features > Planned Features > Build Modes](../topics/features/planned-features/build-modes.md)
-* [Features > Planned Features > Build Modes > Hard & Soft Clearance > Complex Clearance](../topics/features/planned-features/build-modes/hard-and-soft-clearance/complex-clearance.md)
 * [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript

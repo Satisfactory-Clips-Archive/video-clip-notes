@@ -3,7 +3,7 @@ title: "August 25th, 2020 Livestream Q&A: Drag-to-build Mode?"
 date: "2020-08-25"
 layout: transcript
 topics:
-    - "features/planned-features/build-modes"
+    - "features/build-modes"
     - "features/unplanned-features/mass-building"
 ---
 # [August 25th, 2020 Livestream](../2020-08-25.md)
@@ -13,7 +13,7 @@ This question was possibly duplicated with a more recent answer: [November 24th,
 
 
 ### Topics
-* [Features > Planned Features > Build Modes](../topics/features/planned-features/build-modes.md)
+* [Features > Build Modes](../topics/features/build-modes.md)
 * [Features > Unplanned Features > Mass Building](../topics/features/unplanned-features/mass-building.md)
 
 ### Transcript

@@ -3,7 +3,7 @@ title: "September 28th, 2021 Livestream Q&A: Where did the name \"Zoop\" come fr
 date: "2021-09-28"
 layout: transcript
 topics:
-    - "features/planned-features/build-modes/zooping"
+    - "features/build-modes/zooping"
 ---
 # [September 28th, 2021 Livestream](../2021-09-28.md)
 ## Q&A: Where did the name "Zoop" come from?
@@ -17,7 +17,7 @@ https://www.youtube.com/watch?v=IT9MjpoENTg
 
 
 ### Topics
-* [Features > Planned Features > Build Modes > Zooping](../topics/features/planned-features/build-modes/zooping.md)
+* [Features > Build Modes > Zooping](../topics/features/build-modes/zooping.md)
 
 ### Transcript
 

@@ -4,8 +4,8 @@ date: "2021-06-08"
 layout: transcript
 topics:
     - "community/community-highlights"
+    - "features/build-modes"
     - "features/buildables/foundations"
-    - "features/planned-features/build-modes"
     - "mods/mods-vs-features"
 ---
 # [June 8th, 2021 Livestream](../2021-06-08.md)
@@ -14,8 +14,8 @@ https://www.youtube.com/watch?v=Tl2vrQ3oD18
 
 ### Topics
 * [Community > Community Highlights](../topics/community/community-highlights.md)
+* [Features > Build Modes](../topics/features/build-modes.md)
 * [Features > Buildables > Foundations](../topics/features/buildables/foundations.md)
-* [Features > Planned Features > Build Modes](../topics/features/planned-features/build-modes.md)
 * [Mods > Mods vs. Features](../topics/mods/mods-vs-features.md)
 
 ### Transcript

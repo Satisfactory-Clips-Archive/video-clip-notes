@@ -3,8 +3,8 @@ title: "October 19th, 2021 Livestream Snutt & Jace Talk: Update 5 Build system i
 date: "2021-10-19"
 layout: transcript
 topics:
+    - "features/build-modes"
     - "features/buildables"
-    - "features/planned-features/build-modes"
     - "satisfactory-updates/released/satisfactory-update-5"
     - "satisfactory-updates/teasers-and-trailers/update-5-teasers"
 ---
@@ -13,8 +13,8 @@ topics:
 https://www.youtube.com/watch?v=b6oCNvKP844
 
 ### Topics
+* [Features > Build Modes](../topics/features/build-modes.md)
 * [Features > Buildables](../topics/features/buildables.md)
-* [Features > Planned Features > Build Modes](../topics/features/planned-features/build-modes.md)
 * [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 * [Satisfactory Updates > Teasers & Trailers > Update 5 Teasers](../topics/satisfactory-updates/teasers-and-trailers/update-5-teasers.md)
 

@@ -3,7 +3,7 @@ title: "October 5th, 2021 Livestream Q&A: Any plans for separating the Build Hol
 date: "2021-10-05"
 layout: transcript
 topics:
-    - "features/planned-features/build-modes"
+    - "features/build-modes"
     - "features/requested-features"
     - "technology/user-interface/holograms"
 ---
@@ -12,7 +12,7 @@ topics:
 https://www.youtube.com/watch?v=q_MH95NWEbQ
 
 ### Topics
-* [Features > Planned Features > Build Modes](../topics/features/planned-features/build-modes.md)
+* [Features > Build Modes](../topics/features/build-modes.md)
 * [Features > Requested Features](../topics/features/requested-features.md)
 * [Technology > User Interface > Holograms](../topics/technology/user-interface/holograms.md)
 

@@ -3,7 +3,7 @@ title: "October 19th, 2021 Livestream Community FYI: We have Smart! at home"
 date: "2021-10-19"
 layout: transcript
 topics:
-    - "features/planned-features/build-modes/zooping"
+    - "features/build-modes/zooping"
     - "mods/smart"
 ---
 # [October 19th, 2021 Livestream](../2021-10-19.md)
@@ -11,7 +11,7 @@ topics:
 https://www.youtube.com/watch?v=k19vHBrDeT8
 
 ### Topics
-* [Features > Planned Features > Build Modes > Zooping](../topics/features/planned-features/build-modes/zooping.md)
+* [Features > Build Modes > Zooping](../topics/features/build-modes/zooping.md)
 * [Mods > Smart!](../topics/mods/smart.md)
 
 ### Transcript

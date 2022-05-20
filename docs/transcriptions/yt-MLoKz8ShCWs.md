@@ -3,8 +3,8 @@ title: "November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary Snut
 date: "2021-11-05"
 layout: transcript
 topics:
+    - "features/build-modes/hard-and-soft-clearance"
     - "features/buildings/particle-accelerator"
-    - "features/planned-features/build-modes/hard-and-soft-clearance"
     - "satisfactory-updates/teasers-and-trailers/update-5-patch-notes-video"
 ---
 # [November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary](../2021-11-05.md)
@@ -84,8 +84,8 @@ https://www.youtube.com/watch?v=MLoKz8ShCWs
 
 
 ### Topics
+* [Features > Build Modes > Hard & Soft Clearance](../topics/features/build-modes/hard-and-soft-clearance.md)
 * [Features > Buildings > Particle Accelerator](../topics/features/buildings/particle-accelerator.md)
-* [Features > Planned Features > Build Modes > Hard & Soft Clearance](../topics/features/planned-features/build-modes/hard-and-soft-clearance.md)
 * [Satisfactory Updates > Teasers & Trailers > Update 5 Patch Notes Video](../topics/satisfactory-updates/teasers-and-trailers/update-5-patch-notes-video.md)
 
 ### Transcript

@@ -3,8 +3,8 @@ title: "October 29th, 2021 Video Jace Talk: Stackable Conveyor Poles & Floor Hol
 date: "2021-10-29"
 layout: transcript
 topics:
+    - "features/build-modes/hard-and-soft-clearance"
     - "features/buildables/conveyor-belts"
-    - "features/planned-features/build-modes/hard-and-soft-clearance"
     - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [October 29th, 2021 Video](../2021-10-29.md)
@@ -12,8 +12,8 @@ topics:
 https://youtube.com/clip/Ugkxpd3eHZ0jKPep0Xa5q8SqHCauxTS6oyDr
 
 ### Topics
+* [Features > Build Modes > Hard & Soft Clearance](../topics/features/build-modes/hard-and-soft-clearance.md)
 * [Features > Buildables > Conveyor Belts](../topics/features/buildables/conveyor-belts.md)
-* [Features > Planned Features > Build Modes > Hard & Soft Clearance](../topics/features/planned-features/build-modes/hard-and-soft-clearance.md)
 * [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript

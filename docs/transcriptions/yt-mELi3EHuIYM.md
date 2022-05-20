@@ -3,16 +3,16 @@ title: "February 1st, 2022 Livestream Community FYI: Zoop for Signs would be awe
 date: "2022-02-01"
 layout: transcript
 topics:
+    - "features/build-modes/zooping"
     - "features/buildables/signs"
-    - "features/planned-features/build-modes/zooping"
 ---
 # [February 1st, 2022 Livestream](../2022-02-01.md)
 ## Community FYI: Zoop for Signs would be awesome
 https://www.youtube.com/watch?v=mELi3EHuIYM
 
 ### Topics
+* [Features > Build Modes > Zooping](../topics/features/build-modes/zooping.md)
 * [Features > Buildables > Signs](../topics/features/buildables/signs.md)
-* [Features > Planned Features > Build Modes > Zooping](../topics/features/planned-features/build-modes/zooping.md)
 
 ### Transcript
 

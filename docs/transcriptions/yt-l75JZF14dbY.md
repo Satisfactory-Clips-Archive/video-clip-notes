@@ -3,18 +3,18 @@ title: "November 9th, 2021 Livestream Q&A: Will there be improvements to hit box
 date: "2021-11-09"
 layout: transcript
 topics:
+    - "features/build-modes/hard-and-soft-clearance"
     - "features/buildables"
     - "features/buildings/constructor"
-    - "features/planned-features/build-modes/hard-and-soft-clearance"
 ---
 # [November 9th, 2021 Livestream](../2021-11-09.md)
 ## Q&A: Will there be improvements to hit boxes, specifically for Power Poles between two Constructors?
 https://www.youtube.com/watch?v=l75JZF14dbY
 
 ### Topics
+* [Features > Build Modes > Hard & Soft Clearance](../topics/features/build-modes/hard-and-soft-clearance.md)
 * [Features > Buildables](../topics/features/buildables.md)
 * [Features > Buildings > Constructor](../topics/features/buildings/constructor.md)
-* [Features > Planned Features > Build Modes > Hard & Soft Clearance](../topics/features/planned-features/build-modes/hard-and-soft-clearance.md)
 
 ### Transcript
 

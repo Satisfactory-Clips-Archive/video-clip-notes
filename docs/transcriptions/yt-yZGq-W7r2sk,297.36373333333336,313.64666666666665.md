@@ -3,8 +3,8 @@ title: "September 3rd, 2021 Dev Vlog Jace Talk: Quick Switch for Railings"
 date: "2021-09-03"
 layout: transcript
 topics:
+    - "features/build-modes/quick-switch"
     - "features/buildables/railings"
-    - "features/planned-features/build-modes/quick-switch"
     - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [September 3rd, 2021 Dev Vlog](../2021-09-03.md)
@@ -12,8 +12,8 @@ topics:
 https://youtube.com/clip/UgzK3mWyas6uUOEchCV4AaABCQ
 
 ### Topics
+* [Features > Build Modes > Quick Switch](../topics/features/build-modes/quick-switch.md)
 * [Features > Buildables > Railings](../topics/features/buildables/railings.md)
-* [Features > Planned Features > Build Modes > Quick Switch](../topics/features/planned-features/build-modes/quick-switch.md)
 * [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript

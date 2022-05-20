@@ -3,14 +3,14 @@ title: "September 28th, 2021 Livestream Q&A: I still don't understand what Zoopi
 date: "2021-09-28"
 layout: transcript
 topics:
-    - "features/planned-features/build-modes/zooping"
+    - "features/build-modes/zooping"
 ---
 # [September 28th, 2021 Livestream](../2021-09-28.md)
 ## Q&A: I still don't understand what Zooping is?
 https://www.youtube.com/watch?v=_Xl3Qs2LEJw
 
 ### Topics
-* [Features > Planned Features > Build Modes > Zooping](../topics/features/planned-features/build-modes/zooping.md)
+* [Features > Build Modes > Zooping](../topics/features/build-modes/zooping.md)
 
 ### Transcript
 

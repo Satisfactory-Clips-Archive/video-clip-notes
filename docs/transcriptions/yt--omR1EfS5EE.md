@@ -3,8 +3,8 @@ title: "September 7th, 2021 Livestream Q&A: When building Belts, can we Quick Sw
 date: "2021-09-07"
 layout: transcript
 topics:
+    - "features/build-modes/quick-switch"
     - "features/buildables/conveyor-belts"
-    - "features/planned-features/build-modes/quick-switch"
     - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [September 7th, 2021 Livestream](../2021-09-07.md)
@@ -12,8 +12,8 @@ topics:
 https://www.youtube.com/watch?v=-omR1EfS5EE
 
 ### Topics
+* [Features > Build Modes > Quick Switch](../topics/features/build-modes/quick-switch.md)
 * [Features > Buildables > Conveyor Belts](../topics/features/buildables/conveyor-belts.md)
-* [Features > Planned Features > Build Modes > Quick Switch](../topics/features/planned-features/build-modes/quick-switch.md)
 * [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript

@@ -3,20 +3,20 @@ title: "April 6th, 2021 Livestream Snutt & Mark Talk: Cheatcrete, Build Modes, a
 date: "2021-04-06"
 layout: transcript
 topics:
+    - "features/build-modes"
     - "features/buildables/conveyor-belts"
     - "features/buildables/foundations/cheatcrete"
     - "features/buildables/walls"
-    - "features/planned-features/build-modes"
 ---
 # [April 6th, 2021 Livestream](../2021-04-06.md)
 ## Snutt & Mark Talk: Cheatcrete, Build Modes, and clipping
 https://www.youtube.com/watch?v=RtBNa7oGJiI
 
 ### Topics
+* [Features > Build Modes](../topics/features/build-modes.md)
 * [Features > Buildables > Conveyor Belts](../topics/features/buildables/conveyor-belts.md)
 * [Features > Buildables > Foundations > Cheatcrete](../topics/features/buildables/foundations/cheatcrete.md)
 * [Features > Buildables > Walls](../topics/features/buildables/walls.md)
-* [Features > Planned Features > Build Modes](../topics/features/planned-features/build-modes.md)
 
 ### Transcript
 

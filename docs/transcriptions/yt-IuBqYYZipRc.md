@@ -3,7 +3,7 @@ title: "October 12th, 2021 Livestream Q&A: Are Trains Hard or Soft Clearance?"
 date: "2021-10-12"
 layout: transcript
 topics:
-    - "features/planned-features/build-modes/hard-and-soft-clearance"
+    - "features/build-modes/hard-and-soft-clearance"
     - "features/transportation/trains"
     - "satisfactory-updates/released/satisfactory-update-5"
 ---
@@ -12,7 +12,7 @@ topics:
 https://www.youtube.com/watch?v=IuBqYYZipRc
 
 ### Topics
-* [Features > Planned Features > Build Modes > Hard & Soft Clearance](../topics/features/planned-features/build-modes/hard-and-soft-clearance.md)
+* [Features > Build Modes > Hard & Soft Clearance](../topics/features/build-modes/hard-and-soft-clearance.md)
 * [Features > Transportation > Trains](../topics/features/transportation/trains.md)
 * [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 

@@ -3,9 +3,9 @@ title: "October 15th, 2021 Video Jace Talk: Build Pillars down from Train Lines"
 date: "2021-10-15"
 layout: transcript
 topics:
+    - "features/build-modes"
     - "features/buildables"
     - "features/buildables/pillars"
-    - "features/planned-features/build-modes"
     - "features/transportation/trains"
     - "satisfactory-updates/released/satisfactory-update-5"
 ---
@@ -14,9 +14,9 @@ topics:
 https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=218&end=253
 
 ### Topics
+* [Features > Build Modes](../topics/features/build-modes.md)
 * [Features > Buildables](../topics/features/buildables.md)
 * [Features > Buildables > Pillars](../topics/features/buildables/pillars.md)
-* [Features > Planned Features > Build Modes](../topics/features/planned-features/build-modes.md)
 * [Features > Transportation > Trains](../topics/features/transportation/trains.md)
 * [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 

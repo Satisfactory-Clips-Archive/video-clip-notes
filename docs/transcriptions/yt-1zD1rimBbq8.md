@@ -3,7 +3,7 @@ title: "September 7th, 2021 Livestream Snutt Talk: Build Mode change reveals sti
 date: "2021-09-07"
 layout: transcript
 topics:
-    - "features/planned-features/build-modes"
+    - "features/build-modes"
     - "satisfactory-updates/released/satisfactory-update-5"
     - "satisfactory-updates/teasers-and-trailers/update-5-teasers"
 ---
@@ -12,7 +12,7 @@ topics:
 https://www.youtube.com/watch?v=1zD1rimBbq8
 
 ### Topics
-* [Features > Planned Features > Build Modes](../topics/features/planned-features/build-modes.md)
+* [Features > Build Modes](../topics/features/build-modes.md)
 * [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 * [Satisfactory Updates > Teasers & Trailers > Update 5 Teasers](../topics/satisfactory-updates/teasers-and-trailers/update-5-teasers.md)
 

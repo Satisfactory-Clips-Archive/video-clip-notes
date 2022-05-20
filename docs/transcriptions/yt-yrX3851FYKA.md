@@ -3,8 +3,8 @@ title: "February 15th, 2022 Livestream Q&A: Is there a way to change the default
 date: "2022-02-15"
 layout: transcript
 topics:
+    - "features/build-modes"
     - "features/buildables"
-    - "features/planned-features/build-modes"
     - "features/power-management"
 ---
 # [February 15th, 2022 Livestream](../2022-02-15.md)
@@ -12,8 +12,8 @@ topics:
 https://www.youtube.com/watch?v=yrX3851FYKA
 
 ### Topics
+* [Features > Build Modes](../topics/features/build-modes.md)
 * [Features > Buildables](../topics/features/buildables.md)
-* [Features > Planned Features > Build Modes](../topics/features/planned-features/build-modes.md)
 * [Features > Power Management](../topics/features/power-management.md)
 
 ### Transcript

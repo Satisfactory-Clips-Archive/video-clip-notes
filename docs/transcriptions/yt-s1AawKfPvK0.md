@@ -3,7 +3,7 @@ title: "July 13th, 2021 Livestream Q&A: Will there be a Smart!-similar system fo
 date: "2021-07-13"
 layout: transcript
 topics:
-    - "features/planned-features/build-modes"
+    - "features/build-modes"
     - "mods/smart"
     - "satisfactory-updates/released/satisfactory-update-5"
 ---
@@ -14,7 +14,7 @@ This question was possibly duplicated with a more recent answer: [December 7th, 
 
 
 ### Topics
-* [Features > Planned Features > Build Modes](../topics/features/planned-features/build-modes.md)
+* [Features > Build Modes](../topics/features/build-modes.md)
 * [Mods > Smart!](../topics/mods/smart.md)
 * [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 

@@ -3,8 +3,8 @@ title: "October 15th, 2021 Video Jace Talk: Hard & Soft Clearance, some Building
 date: "2021-10-15"
 layout: transcript
 topics:
-    - "features/planned-features/build-modes"
-    - "features/planned-features/build-modes/hard-and-soft-clearance/complex-clearance"
+    - "features/build-modes"
+    - "features/build-modes/hard-and-soft-clearance/complex-clearance"
     - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [October 15th, 2021 Video](../2021-10-15.md)
@@ -12,8 +12,8 @@ topics:
 https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=396&end=497
 
 ### Topics
-* [Features > Planned Features > Build Modes](../topics/features/planned-features/build-modes.md)
-* [Features > Planned Features > Build Modes > Hard & Soft Clearance > Complex Clearance](../topics/features/planned-features/build-modes/hard-and-soft-clearance/complex-clearance.md)
+* [Features > Build Modes](../topics/features/build-modes.md)
+* [Features > Build Modes > Hard & Soft Clearance > Complex Clearance](../topics/features/build-modes/hard-and-soft-clearance/complex-clearance.md)
 * [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript

@@ -3,9 +3,9 @@ title: "October 15th, 2021 Video Jace Talk: Conveyor Belts & Pipes can snap to t
 date: "2021-10-15"
 layout: transcript
 topics:
+    - "features/build-modes"
     - "features/buildables/conveyor-belts"
     - "features/fluids/pipes"
-    - "features/planned-features/build-modes"
     - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [October 15th, 2021 Video](../2021-10-15.md)
@@ -13,9 +13,9 @@ topics:
 https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=341&end=370
 
 ### Topics
+* [Features > Build Modes](../topics/features/build-modes.md)
 * [Features > Buildables > Conveyor Belts](../topics/features/buildables/conveyor-belts.md)
 * [Features > Fluids > Pipes](../topics/features/fluids/pipes.md)
-* [Features > Planned Features > Build Modes](../topics/features/planned-features/build-modes.md)
 * [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript

@@ -4,7 +4,7 @@ date: "2021-11-05"
 layout: transcript
 topics:
     - "community/community-highlights"
-    - "features/planned-features/build-modes/zooping"
+    - "features/build-modes/zooping"
     - "satisfactory-updates/teasers-and-trailers/update-5-patch-notes-video"
     - "satisfactory-updates/teasers-and-trailers/update-5-patch-notes-video/update-5-wager-on-releasing-golf-versus-dedicated-servers"
 ---
@@ -86,7 +86,7 @@ https://www.youtube.com/watch?v=El1sKfDOaLk
 
 ### Topics
 * [Community > Community Highlights](../topics/community/community-highlights.md)
-* [Features > Planned Features > Build Modes > Zooping](../topics/features/planned-features/build-modes/zooping.md)
+* [Features > Build Modes > Zooping](../topics/features/build-modes/zooping.md)
 * [Satisfactory Updates > Teasers & Trailers > Update 5 Patch Notes Video](../topics/satisfactory-updates/teasers-and-trailers/update-5-patch-notes-video.md)
 * [Satisfactory Updates > Teasers & Trailers > Update 5 Patch Notes Video > Update 5 Wager on releasing Golf versus Dedicated Servers](../topics/satisfactory-updates/teasers-and-trailers/update-5-patch-notes-video/update-5-wager-on-releasing-golf-versus-dedicated-servers.md)
 

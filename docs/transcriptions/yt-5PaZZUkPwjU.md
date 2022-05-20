@@ -3,10 +3,10 @@ title: "October 19th, 2021 Livestream Q&A: Free placement on Foundations?"
 date: "2021-10-19"
 layout: transcript
 topics:
+    - "features/build-modes"
     - "features/buildables"
     - "features/buildables/foundations"
     - "features/buildings"
-    - "features/planned-features/build-modes"
     - "satisfactory-updates/released/satisfactory-update-5"
     - "satisfactory-updates/teasers-and-trailers/update-5-teasers"
 ---
@@ -15,10 +15,10 @@ topics:
 https://www.youtube.com/watch?v=5PaZZUkPwjU
 
 ### Topics
+* [Features > Build Modes](../topics/features/build-modes.md)
 * [Features > Buildables](../topics/features/buildables.md)
 * [Features > Buildables > Foundations](../topics/features/buildables/foundations.md)
 * [Features > Buildings](../topics/features/buildings.md)
-* [Features > Planned Features > Build Modes](../topics/features/planned-features/build-modes.md)
 * [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 * [Satisfactory Updates > Teasers & Trailers > Update 5 Teasers](../topics/satisfactory-updates/teasers-and-trailers/update-5-teasers.md)
 

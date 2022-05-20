@@ -3,7 +3,7 @@ title: "October 26th, 2021 Update 5 Launch Stream and Patch Notes Video Snutt Ta
 date: "2021-10-26"
 layout: transcript
 topics:
-    - "features/planned-features/build-modes/zooping"
+    - "features/build-modes/zooping"
     - "satisfactory-updates/released/satisfactory-update-5"
     - "satisfactory-updates/teasers-and-trailers/update-5-patch-notes-video"
 ---
@@ -12,7 +12,7 @@ topics:
 https://youtube.com/clip/Ugkxipll7YUfA0-OyO4CK6Yfr1vjsVdyd6qN
 
 ### Topics
-* [Features > Planned Features > Build Modes > Zooping](../topics/features/planned-features/build-modes/zooping.md)
+* [Features > Build Modes > Zooping](../topics/features/build-modes/zooping.md)
 * [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 * [Satisfactory Updates > Teasers & Trailers > Update 5 Patch Notes Video](../topics/satisfactory-updates/teasers-and-trailers/update-5-patch-notes-video.md)
 

@@ -3,8 +3,8 @@ title: "October 29th, 2021 Video Snutt Talk: Toggling Conveyor Lift direction"
 date: "2021-10-29"
 layout: transcript
 topics:
+    - "features/build-modes/quick-switch"
     - "features/buildables/conveyor-belts"
-    - "features/planned-features/build-modes/quick-switch"
     - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [October 29th, 2021 Video](../2021-10-29.md)
@@ -12,8 +12,8 @@ topics:
 https://youtube.com/clip/Ugkx10XjsJ3B-U0z8qoK6Q3xVVFOWev_rAc3
 
 ### Topics
+* [Features > Build Modes > Quick Switch](../topics/features/build-modes/quick-switch.md)
 * [Features > Buildables > Conveyor Belts](../topics/features/buildables/conveyor-belts.md)
-* [Features > Planned Features > Build Modes > Quick Switch](../topics/features/planned-features/build-modes/quick-switch.md)
 * [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript

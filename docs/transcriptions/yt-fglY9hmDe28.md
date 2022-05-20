@@ -3,7 +3,7 @@ title: "September 14th, 2021 Livestream Q&A: Will Zooping be available at Tier 0
 date: "2021-09-14"
 layout: transcript
 topics:
-    - "features/planned-features/build-modes/zooping"
+    - "features/build-modes/zooping"
     - "features/tiers"
     - "features/tiers/tier-0"
     - "satisfactory-updates/released/satisfactory-update-5"
@@ -13,7 +13,7 @@ topics:
 https://www.youtube.com/watch?v=fglY9hmDe28
 
 ### Topics
-* [Features > Planned Features > Build Modes > Zooping](../topics/features/planned-features/build-modes/zooping.md)
+* [Features > Build Modes > Zooping](../topics/features/build-modes/zooping.md)
 * [Features > Tiers](../topics/features/tiers.md)
 * [Features > Tiers > Tier 0](../topics/features/tiers/tier-0.md)
 * [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)

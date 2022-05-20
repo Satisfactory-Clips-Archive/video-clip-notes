@@ -3,8 +3,8 @@ title: "November 9th, 2021 Livestream Q&A: Reverse Build Mode, when?"
 date: "2021-11-09"
 layout: transcript
 topics:
+    - "features/build-modes"
     - "features/buildables/conveyor-belts"
-    - "features/planned-features/build-modes"
 ---
 # [November 9th, 2021 Livestream](../2021-11-09.md)
 ## Q&A: Reverse Build Mode, when?
@@ -13,8 +13,8 @@ This question was possibly duplicated with a more recent answer: [March 29th, 20
 
 
 ### Topics
+* [Features > Build Modes](../topics/features/build-modes.md)
 * [Features > Buildables > Conveyor Belts](../topics/features/buildables/conveyor-belts.md)
-* [Features > Planned Features > Build Modes](../topics/features/planned-features/build-modes.md)
 
 ### Transcript
 

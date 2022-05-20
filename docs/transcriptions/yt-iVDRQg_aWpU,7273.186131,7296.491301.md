@@ -3,7 +3,7 @@ title: "November 23rd, 2021 Livestream Community FYI: It's the Zoop Update"
 date: "2021-11-23"
 layout: transcript
 topics:
-    - "features/planned-features/build-modes/zooping"
+    - "features/build-modes/zooping"
     - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [November 23rd, 2021 Livestream](../2021-11-23.md)
@@ -11,7 +11,7 @@ topics:
 https://youtube.com/clip/UgkxsAofLiB_1ZZz5ZXn6dcjznapIMwmuLF-
 
 ### Topics
-* [Features > Planned Features > Build Modes > Zooping](../topics/features/planned-features/build-modes/zooping.md)
+* [Features > Build Modes > Zooping](../topics/features/build-modes/zooping.md)
 * [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript

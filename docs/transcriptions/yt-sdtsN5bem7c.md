@@ -3,7 +3,7 @@ title: "September 14th, 2021 Livestream Q&A: Can the Clearance mode be configura
 date: "2021-09-14"
 layout: transcript
 topics:
-    - "features/planned-features/build-modes/hard-and-soft-clearance"
+    - "features/build-modes/hard-and-soft-clearance"
     - "satisfactory-updates/released/satisfactory-update-5"
     - "satisfactory-updates/teasers-and-trailers/update-5-teasers"
 ---
@@ -12,7 +12,7 @@ topics:
 https://www.youtube.com/watch?v=sdtsN5bem7c
 
 ### Topics
-* [Features > Planned Features > Build Modes > Hard & Soft Clearance](../topics/features/planned-features/build-modes/hard-and-soft-clearance.md)
+* [Features > Build Modes > Hard & Soft Clearance](../topics/features/build-modes/hard-and-soft-clearance.md)
 * [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 * [Satisfactory Updates > Teasers & Trailers > Update 5 Teasers](../topics/satisfactory-updates/teasers-and-trailers/update-5-teasers.md)
 

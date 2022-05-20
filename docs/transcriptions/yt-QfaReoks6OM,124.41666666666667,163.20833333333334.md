@@ -3,7 +3,7 @@ title: "October 26th, 2021 Update 5 Launch Stream and Patch Notes Video Jace Tal
 date: "2021-10-26"
 layout: transcript
 topics:
-    - "features/planned-features/build-modes/hard-and-soft-clearance"
+    - "features/build-modes/hard-and-soft-clearance"
     - "satisfactory-updates/released/satisfactory-update-5"
     - "satisfactory-updates/teasers-and-trailers/update-5-patch-notes-video"
 ---
@@ -12,7 +12,7 @@ topics:
 https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=124&end=164
 
 ### Topics
-* [Features > Planned Features > Build Modes > Hard & Soft Clearance](../topics/features/planned-features/build-modes/hard-and-soft-clearance.md)
+* [Features > Build Modes > Hard & Soft Clearance](../topics/features/build-modes/hard-and-soft-clearance.md)
 * [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 * [Satisfactory Updates > Teasers & Trailers > Update 5 Patch Notes Video](../topics/satisfactory-updates/teasers-and-trailers/update-5-patch-notes-video.md)
 

@@ -3,7 +3,7 @@ title: "September 7th, 2021 Livestream Community FYI: Zoop Coin"
 date: "2021-09-07"
 layout: transcript
 topics:
-    - "features/planned-features/build-modes/zooping"
+    - "features/build-modes/zooping"
     - "features/unplanned-features/microtransactions"
 ---
 # [September 7th, 2021 Livestream](../2021-09-07.md)
@@ -11,7 +11,7 @@ topics:
 https://www.youtube.com/watch?v=uW-ebXbDC3U
 
 ### Topics
-* [Features > Planned Features > Build Modes > Zooping](../topics/features/planned-features/build-modes/zooping.md)
+* [Features > Build Modes > Zooping](../topics/features/build-modes/zooping.md)
 * [Features > Unplanned Features > Microtransactions](../topics/features/unplanned-features/microtransactions.md)
 
 ### Transcript

@@ -3,14 +3,14 @@ title: "June 29th, 2021 Livestream Q&A: Can you give information about new Build
 date: "2021-06-29"
 layout: transcript
 topics:
-    - "features/planned-features/build-modes"
+    - "features/build-modes"
 ---
 # [June 29th, 2021 Livestream](../2021-06-29.md)
 ## Q&A: Can you give information about new Build Modes coming out?
 https://www.youtube.com/watch?v=MKrIZzZe0aQ
 
 ### Topics
-* [Features > Planned Features > Build Modes](../topics/features/planned-features/build-modes.md)
+* [Features > Build Modes](../topics/features/build-modes.md)
 
 ### Transcript
 

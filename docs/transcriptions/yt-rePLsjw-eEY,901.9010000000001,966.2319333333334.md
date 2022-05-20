@@ -3,7 +3,7 @@ title: "October 29th, 2021 Video Snutt Talk: We've added deselect for Mass Disma
 date: "2021-10-29"
 layout: transcript
 topics:
-    - "features/planned-features/build-modes"
+    - "features/build-modes"
     - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [October 29th, 2021 Video](../2021-10-29.md)
@@ -11,7 +11,7 @@ topics:
 https://youtube.com/embed/rePLsjw-eEY?autoplay=1&start=901&end=967
 
 ### Topics
-* [Features > Planned Features > Build Modes](../topics/features/planned-features/build-modes.md)
+* [Features > Build Modes](../topics/features/build-modes.md)
 * [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript

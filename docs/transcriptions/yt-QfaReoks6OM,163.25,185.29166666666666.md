@@ -3,7 +3,7 @@ title: "October 26th, 2021 Update 5 Launch Stream and Patch Notes Video Snutt Ta
 date: "2021-10-26"
 layout: transcript
 topics:
-    - "features/planned-features/build-modes/quick-switch"
+    - "features/build-modes/quick-switch"
     - "satisfactory-updates/released/satisfactory-update-5"
     - "satisfactory-updates/teasers-and-trailers/update-5-patch-notes-video"
 ---
@@ -12,7 +12,7 @@ topics:
 https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=163&end=186
 
 ### Topics
-* [Features > Planned Features > Build Modes > Quick Switch](../topics/features/planned-features/build-modes/quick-switch.md)
+* [Features > Build Modes > Quick Switch](../topics/features/build-modes/quick-switch.md)
 * [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 * [Satisfactory Updates > Teasers & Trailers > Update 5 Patch Notes Video](../topics/satisfactory-updates/teasers-and-trailers/update-5-patch-notes-video.md)
 

@@ -3,7 +3,7 @@ title: "August 31st, 2021 Livestream Q&A: Do you intend to put helpful building 
 date: "2021-08-31"
 layout: transcript
 topics:
-    - "features/planned-features/build-modes"
+    - "features/build-modes"
     - "mods/smart"
 ---
 # [August 31st, 2021 Livestream](../2021-08-31.md)
@@ -15,7 +15,7 @@ This question was possibly duplicated with a more recent answer: [December 7th, 
 
 
 ### Topics
-* [Features > Planned Features > Build Modes](../topics/features/planned-features/build-modes.md)
+* [Features > Build Modes](../topics/features/build-modes.md)
 * [Mods > Smart!](../topics/mods/smart.md)
 
 ### Transcript

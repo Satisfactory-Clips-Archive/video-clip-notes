@@ -3,10 +3,10 @@ title: "October 15th, 2021 Video Jace Talk: Changes to Snapping of Buildings"
 date: "2021-10-15"
 layout: transcript
 topics:
+    - "features/build-modes"
     - "features/buildables/conveyor-belts"
     - "features/buildings"
     - "features/fluids/pipes"
-    - "features/planned-features/build-modes"
     - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [October 15th, 2021 Video](../2021-10-15.md)
@@ -14,10 +14,10 @@ topics:
 https://youtube.com/embed/jTIAMuPqSlI?autoplay=1&start=286&end=342
 
 ### Topics
+* [Features > Build Modes](../topics/features/build-modes.md)
 * [Features > Buildables > Conveyor Belts](../topics/features/buildables/conveyor-belts.md)
 * [Features > Buildings](../topics/features/buildings.md)
 * [Features > Fluids > Pipes](../topics/features/fluids/pipes.md)
-* [Features > Planned Features > Build Modes](../topics/features/planned-features/build-modes.md)
 * [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript

@@ -3,7 +3,7 @@ title: "September 28th, 2021 Livestream Q&A: When you delete can you ctrl-toggle
 date: "2021-09-28"
 layout: transcript
 topics:
-    - "features/planned-features/build-modes"
+    - "features/build-modes"
     - "technology/user-interface"
 ---
 # [September 28th, 2021 Livestream](../2021-09-28.md)
@@ -22,7 +22,7 @@ This question was possibly replaced with a more recent answer: [October 29th, 20
 
 
 ### Topics
-* [Features > Planned Features > Build Modes](../topics/features/planned-features/build-modes.md)
+* [Features > Build Modes](../topics/features/build-modes.md)
 * [Technology > User Interface](../topics/technology/user-interface.md)
 
 ### Transcript

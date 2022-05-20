@@ -3,8 +3,8 @@ title: "September 7th, 2021 Livestream Q&A: Will Splitters & Mergers have Soft o
 date: "2021-09-07"
 layout: transcript
 topics:
+    - "features/build-modes/hard-and-soft-clearance"
     - "features/buildables/conveyor-belts"
-    - "features/planned-features/build-modes/hard-and-soft-clearance"
     - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [September 7th, 2021 Livestream](../2021-09-07.md)
@@ -12,8 +12,8 @@ topics:
 https://www.youtube.com/watch?v=1sI1tJLivp4
 
 ### Topics
+* [Features > Build Modes > Hard & Soft Clearance](../topics/features/build-modes/hard-and-soft-clearance.md)
 * [Features > Buildables > Conveyor Belts](../topics/features/buildables/conveyor-belts.md)
-* [Features > Planned Features > Build Modes > Hard & Soft Clearance](../topics/features/planned-features/build-modes/hard-and-soft-clearance.md)
 * [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript

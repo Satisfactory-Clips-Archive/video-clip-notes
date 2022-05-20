@@ -3,20 +3,20 @@ title: "October 5th, 2021 Livestream Community FYI: I always found the Headlift 
 date: "2021-10-05"
 layout: transcript
 topics:
+    - "features/build-modes"
     - "features/buildings/water-extractor"
     - "features/fluids/pipes"
     - "features/fluids/pumps"
-    - "features/planned-features/build-modes"
 ---
 # [October 5th, 2021 Livestream](../2021-10-05.md)
 ## Community FYI: I always found the Headlift Indicators kinda useless, maybe because they don't work
 https://www.youtube.com/watch?v=YTFbOFwNSLw
 
 ### Topics
+* [Features > Build Modes](../topics/features/build-modes.md)
 * [Features > Buildings > Water Extractor](../topics/features/buildings/water-extractor.md)
 * [Features > Fluids > Pipes](../topics/features/fluids/pipes.md)
 * [Features > Fluids > Pumps](../topics/features/fluids/pumps.md)
-* [Features > Planned Features > Build Modes](../topics/features/planned-features/build-modes.md)
 
 ### Transcript
 

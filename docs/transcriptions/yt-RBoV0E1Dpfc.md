@@ -3,8 +3,8 @@ title: "February 22nd, 2022 Livestream Q&A: Thoughts on being able to copy/paste
 date: "2022-02-22"
 layout: transcript
 topics:
+    - "features/build-modes"
     - "features/buildings"
-    - "features/planned-features/build-modes"
     - "technology/user-interface"
 ---
 # [February 22nd, 2022 Livestream](../2022-02-22.md)
@@ -12,8 +12,8 @@ topics:
 https://www.youtube.com/watch?v=RBoV0E1Dpfc
 
 ### Topics
+* [Features > Build Modes](../topics/features/build-modes.md)
 * [Features > Buildings](../topics/features/buildings.md)
-* [Features > Planned Features > Build Modes](../topics/features/planned-features/build-modes.md)
 * [Technology > User Interface](../topics/technology/user-interface.md)
 
 ### Transcript

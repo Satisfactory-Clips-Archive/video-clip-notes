@@ -3,14 +3,14 @@ title: "September 7th, 2021 Livestream Community FYI: Zoop is such a good featur
 date: "2021-09-07"
 layout: transcript
 topics:
-    - "features/planned-features/build-modes/zooping"
+    - "features/build-modes/zooping"
 ---
 # [September 7th, 2021 Livestream](../2021-09-07.md)
 ## Community FYI: Zoop is such a good feature name
 https://www.youtube.com/watch?v=rDLDn5hWSb0
 
 ### Topics
-* [Features > Planned Features > Build Modes > Zooping](../topics/features/planned-features/build-modes/zooping.md)
+* [Features > Build Modes > Zooping](../topics/features/build-modes/zooping.md)
 
 ### Transcript
 

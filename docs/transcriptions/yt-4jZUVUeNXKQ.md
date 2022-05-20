@@ -3,7 +3,7 @@ title: "June 15th, 2021 Livestream State of Dev: Update 5"
 date: "2021-06-15"
 layout: transcript
 topics:
-    - "features/planned-features/build-modes"
+    - "features/build-modes"
     - "satisfactory-updates/released/satisfactory-update-5"
     - "satisfactory-updates/state-of-dev"
 ---
@@ -12,7 +12,7 @@ topics:
 https://www.youtube.com/watch?v=4jZUVUeNXKQ
 
 ### Topics
-* [Features > Planned Features > Build Modes](../topics/features/planned-features/build-modes.md)
+* [Features > Build Modes](../topics/features/build-modes.md)
 * [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 * [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 

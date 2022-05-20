@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "coffee-stainers/jace"
     - "coffee-stainers/snutt"
-    - "features/planned-features/build-modes/zooping"
+    - "features/build-modes/zooping"
     - "satisfactory-updates/teasers-and-trailers/update-5-patch-notes-video"
 ---
 # [November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary](../2021-11-05.md)
@@ -87,7 +87,7 @@ https://www.youtube.com/watch?v=n8kC_hOCn6o
 ### Topics
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
 * [Coffee Stainers > Snutt](../topics/coffee-stainers/snutt.md)
-* [Features > Planned Features > Build Modes > Zooping](../topics/features/planned-features/build-modes/zooping.md)
+* [Features > Build Modes > Zooping](../topics/features/build-modes/zooping.md)
 * [Satisfactory Updates > Teasers & Trailers > Update 5 Patch Notes Video](../topics/satisfactory-updates/teasers-and-trailers/update-5-patch-notes-video.md)
 
 ### Transcript

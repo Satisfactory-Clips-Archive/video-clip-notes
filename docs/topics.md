@@ -149,6 +149,7 @@ date: Last Modified
 * [Paint](./topics/features/paint.md)
 * [Photo Mode](./topics/features/photo-mode.md)
 * [Pioneer](./topics/features/pioneer.md)
+* [Planned Features](./topics/features/planned-features.md)
 * [Roadmap](./topics/features/roadmap.md)
 
 ## [Accessibility](./topics/features/accessibility.md)
@@ -205,6 +206,14 @@ date: Last Modified
 * [Food Court](./topics/features/buildings/space-elevator/food-court.md)
 ---
 
+## [Build Modes](./topics/features/build-modes.md)
+* [Quick Switch](./topics/features/build-modes/quick-switch.md)
+* [Zooping](./topics/features/build-modes/zooping.md)
+
+### [Hard & Soft Clearance](./topics/features/build-modes/hard-and-soft-clearance.md)
+* [Complex Clearance](./topics/features/build-modes/hard-and-soft-clearance/complex-clearance.md)
+---
+
 ## [Crafting](./topics/features/crafting.md)
 * [Fuel](./topics/features/crafting/fuel.md)
 * [Superposition Oscillator](./topics/features/crafting/superposition-oscillator.md)
@@ -243,16 +252,6 @@ date: Last Modified
 ## [Multiplayer](./topics/features/multiplayer.md)
 * [Crossplay](./topics/features/multiplayer/crossplay.md)
 * [Dedicated Servers](./topics/features/multiplayer/dedicated-servers.md)
----
-
-## [Planned Features](./topics/features/planned-features.md)
-
-### [Build Modes](./topics/features/planned-features/build-modes.md)
-* [Quick Switch](./topics/features/planned-features/build-modes/quick-switch.md)
-* [Zooping](./topics/features/planned-features/build-modes/zooping.md)
-
-#### [Hard & Soft Clearance](./topics/features/planned-features/build-modes/hard-and-soft-clearance.md)
-* [Complex Clearance](./topics/features/planned-features/build-modes/hard-and-soft-clearance/complex-clearance.md)
 ---
 
 ## Possible Features

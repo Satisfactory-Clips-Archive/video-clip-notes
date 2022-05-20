@@ -3,7 +3,7 @@ title: "September 7th, 2021 Livestream Community FYI: Smart! does too much (for 
 date: "2021-09-07"
 layout: transcript
 topics:
-    - "features/planned-features/build-modes/zooping"
+    - "features/build-modes/zooping"
     - "features/unplanned-features/mass-building"
     - "mods/mods-vs-features"
     - "mods/smart"
@@ -13,7 +13,7 @@ topics:
 https://www.youtube.com/watch?v=L1_3oP3LwOc
 
 ### Topics
-* [Features > Planned Features > Build Modes > Zooping](../topics/features/planned-features/build-modes/zooping.md)
+* [Features > Build Modes > Zooping](../topics/features/build-modes/zooping.md)
 * [Features > Unplanned Features > Mass Building](../topics/features/unplanned-features/mass-building.md)
 * [Mods > Mods vs. Features](../topics/mods/mods-vs-features.md)
 * [Mods > Smart!](../topics/mods/smart.md)

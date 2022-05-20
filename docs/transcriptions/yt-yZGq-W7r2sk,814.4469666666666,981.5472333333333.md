@@ -3,7 +3,7 @@ title: "September 3rd, 2021 Dev Vlog Jace Talk: Wall Frames & Soft Clearance"
 date: "2021-09-03"
 layout: transcript
 topics:
-    - "features/planned-features/build-modes/hard-and-soft-clearance"
+    - "features/build-modes/hard-and-soft-clearance"
     - "satisfactory-updates/released/satisfactory-update-5"
 ---
 # [September 3rd, 2021 Dev Vlog](../2021-09-03.md)
@@ -11,7 +11,7 @@ topics:
 https://youtube.com/embed/yZGq-W7r2sk?autoplay=1&start=814&end=982
 
 ### Topics
-* [Features > Planned Features > Build Modes > Hard & Soft Clearance](../topics/features/planned-features/build-modes/hard-and-soft-clearance.md)
+* [Features > Build Modes > Hard & Soft Clearance](../topics/features/build-modes/hard-and-soft-clearance.md)
 * [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 
 ### Transcript

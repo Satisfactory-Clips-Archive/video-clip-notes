@@ -4,9 +4,9 @@ date: "2021-11-05"
 layout: transcript
 topics:
     - "environment/resources"
+    - "features/build-modes/hard-and-soft-clearance/complex-clearance"
     - "features/buildings/assembler"
     - "features/buildings/coal-generator"
-    - "features/planned-features/build-modes/hard-and-soft-clearance/complex-clearance"
     - "satisfactory-updates/teasers-and-trailers/update-5-patch-notes-video"
 ---
 # [November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary](../2021-11-05.md)
@@ -87,9 +87,9 @@ https://www.youtube.com/watch?v=vhvpoKYGVbM
 
 ### Topics
 * [Environment > Resources](../topics/environment/resources.md)
+* [Features > Build Modes > Hard & Soft Clearance > Complex Clearance](../topics/features/build-modes/hard-and-soft-clearance/complex-clearance.md)
 * [Features > Buildings > Assembler](../topics/features/buildings/assembler.md)
 * [Features > Buildings > Coal Generator](../topics/features/buildings/coal-generator.md)
-* [Features > Planned Features > Build Modes > Hard & Soft Clearance > Complex Clearance](../topics/features/planned-features/build-modes/hard-and-soft-clearance/complex-clearance.md)
 * [Satisfactory Updates > Teasers & Trailers > Update 5 Patch Notes Video](../topics/satisfactory-updates/teasers-and-trailers/update-5-patch-notes-video.md)
 
 ### Transcript

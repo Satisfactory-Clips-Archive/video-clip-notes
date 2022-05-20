@@ -4,7 +4,7 @@ date: "2021-09-07"
 layout: transcript
 topics:
     - "coffee-stainers/jace"
-    - "features/planned-features/build-modes/zooping"
+    - "features/build-modes/zooping"
 ---
 # [September 7th, 2021 Livestream](../2021-09-07.md)
 ## Q&A: Can we get the Zoop sound effect voice-acted by Jace?
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=JanvR7rX-yk
 
 ### Topics
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
-* [Features > Planned Features > Build Modes > Zooping](../topics/features/planned-features/build-modes/zooping.md)
+* [Features > Build Modes > Zooping](../topics/features/build-modes/zooping.md)
 
 ### Transcript
 
