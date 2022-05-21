@@ -5,6 +5,13 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Equipment](../../../topics/features/equipment.md) > Rifle
 
+## May 20th, 2022 Video
+* [New Ammo Types](../../../transcriptions/yt-QYMHs1aTyOs,303.6333333333333,338.06666666666666.md) [https://youtube.com/clip/Ugkx5t7Y4l_VFzbzAd_jNHP-MZ_jRMrXnhkM](https://youtube.com/clip/Ugkx5t7Y4l_VFzbzAd_jNHP-MZ_jRMrXnhkM)
+* [Ammo Switching](../../../transcriptions/yt-QYMHs1aTyOs,338.0833333333333,363.53333333333336.md) [https://youtube.com/clip/Ugkx3p10phuyHpUzGwfcOgCV6-nWNJTDxH-1](https://youtube.com/clip/Ugkx3p10phuyHpUzGwfcOgCV6-nWNJTDxH-1)
+* [Magazine size & Inventory stack size](../../../transcriptions/yt-QYMHs1aTyOs,481.03333333333336,518.7333333333333.md) [https://youtube.com/clip/UgkxLQ7ZKgylIY2UT6JoylH-ZRMzF9b5mNLJ](https://youtube.com/clip/UgkxLQ7ZKgylIY2UT6JoylH-ZRMzF9b5mNLJ)
+* [Turbo Ammo](../../../transcriptions/yt-QYMHs1aTyOs,518.75,557.8166666666667.md) [https://youtube.com/clip/Ugkxo8-OH8lBOGtL6rKQj4-1vB9imUAn0EPv](https://youtube.com/clip/Ugkxo8-OH8lBOGtL6rKQj4-1vB9imUAn0EPv)
+* [Smartridge Projectile](../../../transcriptions/yt-QYMHs1aTyOs,557.8333333333334,579.4166666666666.md) [https://youtube.com/clip/Ugkx77yhym76K0QokAfsYwy6mkqjJt6sRc_j](https://youtube.com/clip/Ugkx77yhym76K0QokAfsYwy6mkqjJt6sRc_j)
+
 ## March 18th, 2022 Video
 * [Snutt & Jace Talk: Unreleased Content article](../../../transcriptions/yt-VBGakEZilwk,589.7892,1115.8480666666667.md) [https://youtube.com/embed/VBGakEZilwk?autoplay=1&start=589&end=1116](https://youtube.com/embed/VBGakEZilwk?autoplay=1&start=589&end=1116)
 

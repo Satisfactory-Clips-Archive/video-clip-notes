@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Equipment](../../../topics/features/equipment.md) > Jetpack
 
+## May 20th, 2022 Video
+* [Multiple Body Slots](../../../transcriptions/yt-QYMHs1aTyOs,193.31965,266.9166666666667.md) [https://youtube.com/embed/QYMHs1aTyOs?autoplay=1&start=193&end=267](https://youtube.com/embed/QYMHs1aTyOs?autoplay=1&start=193&end=267)
+* [Pulse Nobelisk](../../../transcriptions/yt-QYMHs1aTyOs,599.7,651.8333333333334.md) [https://youtube.com/clip/Ugkx77m2mFANG0wSuiRGBM1e8NtORscvMzeK](https://youtube.com/clip/Ugkx77m2mFANG0wSuiRGBM1e8NtORscvMzeK)
+
 ## May 17th, 2022 Livestream
 * [Q&A: Will Turbofuel work with the Jetpack?](../../../transcriptions/yt-zJy_dyJfNLc.md) [https://www.youtube.com/watch?v=zJy_dyJfNLc](https://www.youtube.com/watch?v=zJy_dyJfNLc)
 

@@ -10,6 +10,10 @@ date: Last Modified
 * [Non Flying Bird](../../topics/environment/creatures/non-flying-bird.md)
 * [Space Giraffe-Tick-Penguin-Whale Thing](../../topics/environment/creatures/space-giraffe-tick-penguin-whale-thing.md)
 
+## May 20th, 2022 Video
+* [Introducing the topic of the video](../../transcriptions/yt-QYMHs1aTyOs,0,50.71666666666667.md) [https://youtube.com/clip/UgkxZ3nwhjcybkF-yU6Xe7nCXgEkWb2ouLJ6](https://youtube.com/clip/UgkxZ3nwhjcybkF-yU6Xe7nCXgEkWb2ouLJ6)
+* [End Tag](../../transcriptions/yt-QYMHs1aTyOs,927.md) [https://youtube.com/embed/QYMHs1aTyOs?autoplay=1&start=927](https://youtube.com/embed/QYMHs1aTyOs?autoplay=1&start=927)
+
 ## May 17th, 2022 Livestream
 * [State of Dev](../../transcriptions/yt-Z6M_0T26BIA.md) [https://www.youtube.com/watch?v=Z6M_0T26BIA](https://www.youtube.com/watch?v=Z6M_0T26BIA)
 

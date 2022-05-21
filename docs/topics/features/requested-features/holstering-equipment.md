@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Requested Features](../../../topics/features/requested-features.md) > Holstering Equipment
 
+## May 20th, 2022 Video
+* [Holstering Equipment](../../../transcriptions/yt-QYMHs1aTyOs,276.7,303.6166666666667.md) [https://youtube.com/clip/Ugkxl23mIljZL0c1eg63CuF2PBinDm5sL-T1](https://youtube.com/clip/Ugkxl23mIljZL0c1eg63CuF2PBinDm5sL-T1)
+
 ## May 3rd, 2022 Livestream
 * [Q&A: Can we get an empty hand slot so we don't have to unequip something every time?](../../../transcriptions/yt-t4iLd8jEqQ4.md) [https://www.youtube.com/watch?v=t4iLd8jEqQ4](https://www.youtube.com/watch?v=t4iLd8jEqQ4)
 

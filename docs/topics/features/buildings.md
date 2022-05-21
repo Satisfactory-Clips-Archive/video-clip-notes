@@ -27,6 +27,9 @@ date: Last Modified
 * [The HUB](../../topics/features/buildings/the-hub.md)
 * [Water Extractor](../../topics/features/buildings/water-extractor.md)
 
+## May 20th, 2022 Video
+* [Beacons](../../transcriptions/yt-QYMHs1aTyOs,60.733333333333334,193.31965.md) [https://youtube.com/embed/QYMHs1aTyOs?autoplay=1&start=60&end=194](https://youtube.com/embed/QYMHs1aTyOs?autoplay=1&start=60&end=194)
+
 ## May 13th, 2022 Video
 * [New Map Menu](../../transcriptions/yt-2vAUX3YLH-c,455.95550000000003,507.57373333333334.md) [https://youtube.com/clip/UgkxHQOyhD7VNSOt_0fFG528Px6fM2EDtsv0](https://youtube.com/clip/UgkxHQOyhD7VNSOt_0fFG528Px6fM2EDtsv0)
 * [Radar Towers in Update 5 vs. Update 6](../../transcriptions/yt-2vAUX3YLH-c,507.6071,601.2339666666667.md) [https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=507&end=602](https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=507&end=602)

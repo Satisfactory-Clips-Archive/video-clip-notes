@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Seasonal Events](../../../topics/satisfactory-updates/seasonal-events.md) > FICS⁕MAS
 
+## May 20th, 2022 Video
+* [Ammo Switching](../../../transcriptions/yt-QYMHs1aTyOs,338.0833333333333,363.53333333333336.md) [https://youtube.com/clip/Ugkx3p10phuyHpUzGwfcOgCV6-nWNJTDxH-1](https://youtube.com/clip/Ugkx3p10phuyHpUzGwfcOgCV6-nWNJTDxH-1)
+
 ## January 25th, 2022 Livestream
 * [Q&A: Can we get the snowball pile back?](../../../transcriptions/yt-pksvwaVVBtA.md) [https://www.youtube.com/watch?v=pksvwaVVBtA](https://www.youtube.com/watch?v=pksvwaVVBtA)
 * [Q&A: Can you possibly look at the scaling of Fireworks and be able to Sink them?](../../../transcriptions/yt-XdpLdvkjbso.md) [https://www.youtube.com/watch?v=XdpLdvkjbso](https://www.youtube.com/watch?v=XdpLdvkjbso)

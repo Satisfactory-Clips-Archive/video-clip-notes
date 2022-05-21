@@ -5,6 +5,29 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Teasers & Trailers](../../../topics/satisfactory-updates/teasers-and-trailers.md) > Update 6 Teasers
 
+## May 20th, 2022 Video
+* [Introducing the topic of the video](../../../transcriptions/yt-QYMHs1aTyOs,0,50.71666666666667.md) [https://youtube.com/clip/UgkxZ3nwhjcybkF-yU6Xe7nCXgEkWb2ouLJ6](https://youtube.com/clip/UgkxZ3nwhjcybkF-yU6Xe7nCXgEkWb2ouLJ6)
+* [Beacons](../../../transcriptions/yt-QYMHs1aTyOs,60.733333333333334,193.31965.md) [https://youtube.com/embed/QYMHs1aTyOs?autoplay=1&start=60&end=194](https://youtube.com/embed/QYMHs1aTyOs?autoplay=1&start=60&end=194)
+* [Multiple Body Slots](../../../transcriptions/yt-QYMHs1aTyOs,193.31965,266.9166666666667.md) [https://youtube.com/embed/QYMHs1aTyOs?autoplay=1&start=193&end=267](https://youtube.com/embed/QYMHs1aTyOs?autoplay=1&start=193&end=267)
+* [Equipment HUD](../../../transcriptions/yt-QYMHs1aTyOs,266.93333333333334,276.681512.md) [https://youtube.com/clip/UgkxsV-mPW6rt9G3j7dwNJrqdiI9mlUq7_hV](https://youtube.com/clip/UgkxsV-mPW6rt9G3j7dwNJrqdiI9mlUq7_hV)
+* [Holstering Equipment](../../../transcriptions/yt-QYMHs1aTyOs,276.7,303.6166666666667.md) [https://youtube.com/clip/Ugkxl23mIljZL0c1eg63CuF2PBinDm5sL-T1](https://youtube.com/clip/Ugkxl23mIljZL0c1eg63CuF2PBinDm5sL-T1)
+* [New Ammo Types](../../../transcriptions/yt-QYMHs1aTyOs,303.6333333333333,338.06666666666666.md) [https://youtube.com/clip/Ugkx5t7Y4l_VFzbzAd_jNHP-MZ_jRMrXnhkM](https://youtube.com/clip/Ugkx5t7Y4l_VFzbzAd_jNHP-MZ_jRMrXnhkM)
+* [Ammo Switching](../../../transcriptions/yt-QYMHs1aTyOs,338.0833333333333,363.53333333333336.md) [https://youtube.com/clip/Ugkx3p10phuyHpUzGwfcOgCV6-nWNJTDxH-1](https://youtube.com/clip/Ugkx3p10phuyHpUzGwfcOgCV6-nWNJTDxH-1)
+* [Iron Rebar](../../../transcriptions/yt-QYMHs1aTyOs,363.55,372.8666666666667.md) [https://youtube.com/clip/UgkxEMim87bz4JHnUUTZg2_HfRCk4LIKlKBK](https://youtube.com/clip/UgkxEMim87bz4JHnUUTZg2_HfRCk4LIKlKBK)
+* [Stun Rebar](../../../transcriptions/yt-QYMHs1aTyOs,372.8833333333333,400.461887.md) [https://youtube.com/clip/Ugkx8-rhi_eDMyybAafQvNsXPFWu5MREEIPT](https://youtube.com/clip/Ugkx8-rhi_eDMyybAafQvNsXPFWu5MREEIPT)
+* [Shatter Rebar](../../../transcriptions/yt-QYMHs1aTyOs,400.48333333333335,454.51666666666665.md) [https://youtube.com/clip/UgkxHkJ74MtWr63gJyFKfbwdUCLyeu7WP7u7](https://youtube.com/clip/UgkxHkJ74MtWr63gJyFKfbwdUCLyeu7WP7u7)
+* [Explosive Rebar](../../../transcriptions/yt-QYMHs1aTyOs,454.53333333333336,479.55.md) [https://youtube.com/clip/UgkxfbqGTdOmrWmlxzP3ZaN9Qo5JgelGMDe5](https://youtube.com/clip/UgkxfbqGTdOmrWmlxzP3ZaN9Qo5JgelGMDe5)
+* [Magazine size & Inventory stack size](../../../transcriptions/yt-QYMHs1aTyOs,481.03333333333336,518.7333333333333.md) [https://youtube.com/clip/UgkxLQ7ZKgylIY2UT6JoylH-ZRMzF9b5mNLJ](https://youtube.com/clip/UgkxLQ7ZKgylIY2UT6JoylH-ZRMzF9b5mNLJ)
+* [Turbo Ammo](../../../transcriptions/yt-QYMHs1aTyOs,518.75,557.8166666666667.md) [https://youtube.com/clip/Ugkxo8-OH8lBOGtL6rKQj4-1vB9imUAn0EPv](https://youtube.com/clip/Ugkxo8-OH8lBOGtL6rKQj4-1vB9imUAn0EPv)
+* [Smartridge Projectile](../../../transcriptions/yt-QYMHs1aTyOs,557.8333333333334,579.4166666666666.md) [https://youtube.com/clip/Ugkx77yhym76K0QokAfsYwy6mkqjJt6sRc_j](https://youtube.com/clip/Ugkx77yhym76K0QokAfsYwy6mkqjJt6sRc_j)
+* [Classical Nobelisk](../../../transcriptions/yt-QYMHs1aTyOs,583.209286,599.6833333333333.md) [https://youtube.com/clip/Ugkx3T_PfQRDgdfhgPXWYIhs7nx09WJvt_0N](https://youtube.com/clip/Ugkx3T_PfQRDgdfhgPXWYIhs7nx09WJvt_0N)
+* [Pulse Nobelisk](../../../transcriptions/yt-QYMHs1aTyOs,599.7,651.8333333333334.md) [https://youtube.com/clip/Ugkx77m2mFANG0wSuiRGBM1e8NtORscvMzeK](https://youtube.com/clip/Ugkx77m2mFANG0wSuiRGBM1e8NtORscvMzeK)
+* [Cluster Nobelisk](../../../transcriptions/yt-QYMHs1aTyOs,651.85,685.7666666666667.md) [https://youtube.com/clip/Ugkxwdd52DTzGa89O0nrYhNG7GN2HZwBZhft](https://youtube.com/clip/Ugkxwdd52DTzGa89O0nrYhNG7GN2HZwBZhft)
+* [Gas Nobelisk](../../../transcriptions/yt-QYMHs1aTyOs,685.7833333333333,699.6166666666667.md) [https://youtube.com/clip/UgkxJ9PBGLVdsoxBIYYVbcsi4tBnMT9yzFbK](https://youtube.com/clip/UgkxJ9PBGLVdsoxBIYYVbcsi4tBnMT9yzFbK)
+* [Nuke Nobelisk](../../../transcriptions/yt-QYMHs1aTyOs,699.6333333333333,807.2166666666667.md) [https://youtube.com/embed/QYMHs1aTyOs?autoplay=1&start=699&end=808](https://youtube.com/embed/QYMHs1aTyOs?autoplay=1&start=699&end=808)
+* [Bonus Round](../../../transcriptions/yt-QYMHs1aTyOs,807.2333333333333,897.6166666666667.md) [https://youtube.com/embed/QYMHs1aTyOs?autoplay=1&start=807&end=898](https://youtube.com/embed/QYMHs1aTyOs?autoplay=1&start=807&end=898)
+* [End Tag](../../../transcriptions/yt-QYMHs1aTyOs,927.md) [https://youtube.com/embed/QYMHs1aTyOs?autoplay=1&start=927](https://youtube.com/embed/QYMHs1aTyOs?autoplay=1&start=927)
+
 ## May 17th, 2022 Livestream
 * [State of Dev](../../../transcriptions/yt-Z6M_0T26BIA.md) [https://www.youtube.com/watch?v=Z6M_0T26BIA](https://www.youtube.com/watch?v=Z6M_0T26BIA)
 * [Q&A: Was there a reason for the separate Stamp and Marker beacons?](../../../transcriptions/yt-QTl0IjtsttM.md) [https://www.youtube.com/watch?v=QTl0IjtsttM](https://www.youtube.com/watch?v=QTl0IjtsttM)

@@ -9,6 +9,11 @@ date: Last Modified
 * [Ping](../../topics/technology/user-interface/ping.md)
 * [Stamps](../../topics/technology/user-interface/stamps.md)
 
+## May 20th, 2022 Video
+* [Equipment HUD](../../transcriptions/yt-QYMHs1aTyOs,266.93333333333334,276.681512.md) [https://youtube.com/clip/UgkxsV-mPW6rt9G3j7dwNJrqdiI9mlUq7_hV](https://youtube.com/clip/UgkxsV-mPW6rt9G3j7dwNJrqdiI9mlUq7_hV)
+* [Ammo Switching](../../transcriptions/yt-QYMHs1aTyOs,338.0833333333333,363.53333333333336.md) [https://youtube.com/clip/Ugkx3p10phuyHpUzGwfcOgCV6-nWNJTDxH-1](https://youtube.com/clip/Ugkx3p10phuyHpUzGwfcOgCV6-nWNJTDxH-1)
+* [Bonus Round](../../transcriptions/yt-QYMHs1aTyOs,807.2333333333333,897.6166666666667.md) [https://youtube.com/embed/QYMHs1aTyOs?autoplay=1&start=807&end=898](https://youtube.com/embed/QYMHs1aTyOs?autoplay=1&start=807&end=898)
+
 ## May 17th, 2022 Livestream
 * [State of Dev](../../transcriptions/yt-Z6M_0T26BIA.md) [https://www.youtube.com/watch?v=Z6M_0T26BIA](https://www.youtube.com/watch?v=Z6M_0T26BIA)
 * [Q&A: Plan for in-game statistics?](../../transcriptions/yt-PFLDVpxGB-U.md) [https://www.youtube.com/watch?v=PFLDVpxGB-U](https://www.youtube.com/watch?v=PFLDVpxGB-U)

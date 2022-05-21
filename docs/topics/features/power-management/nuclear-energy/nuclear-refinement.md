@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > [Power Management](../../../../topics/features/power-management.md) > [Nuclear Energy](../../../../topics/features/power-management/nuclear-energy.md) > Nuclear Refinement
 
+## May 20th, 2022 Video
+* [Beacons](../../../../transcriptions/yt-QYMHs1aTyOs,60.733333333333334,193.31965.md) [https://youtube.com/embed/QYMHs1aTyOs?autoplay=1&start=60&end=194](https://youtube.com/embed/QYMHs1aTyOs?autoplay=1&start=60&end=194)
+
 ## May 17th, 2022 Livestream
 * [Q&A: What about the Uranium fuel alt?](../../../../transcriptions/yt-4j-WwaYx9sQ.md) [https://www.youtube.com/watch?v=4j-WwaYx9sQ](https://www.youtube.com/watch?v=4j-WwaYx9sQ)
 * [Q&A: Can you ask the Dev team to release some info about the new Recipes?](../../../../transcriptions/yt-H43HfFnO8eU.md) [https://www.youtube.com/watch?v=H43HfFnO8eU](https://www.youtube.com/watch?v=H43HfFnO8eU)

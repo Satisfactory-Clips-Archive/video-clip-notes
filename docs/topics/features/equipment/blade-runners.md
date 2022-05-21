@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Equipment](../../../topics/features/equipment.md) > Blade Runners
 
+## May 20th, 2022 Video
+* [Multiple Body Slots](../../../transcriptions/yt-QYMHs1aTyOs,193.31965,266.9166666666667.md) [https://youtube.com/embed/QYMHs1aTyOs?autoplay=1&start=193&end=267](https://youtube.com/embed/QYMHs1aTyOs?autoplay=1&start=193&end=267)
+
 ## May 3rd, 2022 Livestream
 * [Q&A: How do the shoes make it out of the Hyper Tube while travelling?](../../../transcriptions/yt-IAQE_SZ_Sd4.md) [https://www.youtube.com/watch?v=IAQE_SZ_Sd4](https://www.youtube.com/watch?v=IAQE_SZ_Sd4)
 

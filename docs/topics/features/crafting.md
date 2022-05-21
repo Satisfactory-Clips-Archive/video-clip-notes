@@ -8,6 +8,9 @@ date: Last Modified
 * [Recipes](../../topics/features/crafting/recipes.md)
 * [Superposition Oscillator](../../topics/features/crafting/superposition-oscillator.md)
 
+## May 20th, 2022 Video
+* [Bonus Round](../../transcriptions/yt-QYMHs1aTyOs,807.2333333333333,897.6166666666667.md) [https://youtube.com/embed/QYMHs1aTyOs?autoplay=1&start=807&end=898](https://youtube.com/embed/QYMHs1aTyOs?autoplay=1&start=807&end=898)
+
 ## April 15th, 2022 Video
 * [Snutt & Stefan Talk: Work Bench](../../transcriptions/yt-7I3NGAm3j_4,691.7243666666667,782.1146666666667.md) [https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=691&end=783](https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=691&end=783)
 

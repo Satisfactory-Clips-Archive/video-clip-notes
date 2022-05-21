@@ -17,6 +17,9 @@ date: Last Modified
 * [Terraforming](../../topics/features/unplanned-features/terraforming.md)
 * [VR](../../topics/features/unplanned-features/vr.md)
 
+## May 20th, 2022 Video
+* [Introducing the topic of the video](../../transcriptions/yt-QYMHs1aTyOs,0,50.71666666666667.md) [https://youtube.com/clip/UgkxZ3nwhjcybkF-yU6Xe7nCXgEkWb2ouLJ6](https://youtube.com/clip/UgkxZ3nwhjcybkF-yU6Xe7nCXgEkWb2ouLJ6)
+
 ## May 17th, 2022 Livestream
 * [Q&A: What is Coffee Stain anti daisy-chain?](../../transcriptions/yt--KPx46FPN5Q.md) [https://www.youtube.com/watch?v=-KPx46FPN5Q](https://www.youtube.com/watch?v=-KPx46FPN5Q)
 * [Q&A: Any plans for automated Power before Coal?](../../transcriptions/yt-huRKK3aqoPk.md) [https://www.youtube.com/watch?v=huRKK3aqoPk](https://www.youtube.com/watch?v=huRKK3aqoPk)

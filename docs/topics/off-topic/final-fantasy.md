@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Final Fantasy
 * [The Official Satisfactory PODCAST](../../topics/off-topic/final-fantasy/the-official-satisfactory-podcast.md)
 
+## May 20th, 2022 Video
+* [Nuke Nobelisk](../../transcriptions/yt-QYMHs1aTyOs,699.6333333333333,807.2166666666667.md) [https://youtube.com/embed/QYMHs1aTyOs?autoplay=1&start=699&end=808](https://youtube.com/embed/QYMHs1aTyOs?autoplay=1&start=699&end=808)
+
 ## May 17th, 2022 Livestream
 * [Q&A: What was 14-year old Snutt's favourite video game?](../../transcriptions/yt-LkRK9NUEPOk.md) [https://www.youtube.com/watch?v=LkRK9NUEPOk](https://www.youtube.com/watch?v=LkRK9NUEPOk)
 

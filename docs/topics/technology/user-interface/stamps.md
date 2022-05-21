@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Technology](../../../topics/technology.md) > [User Interface](../../../topics/technology/user-interface.md) > Stamps
 
+## May 20th, 2022 Video
+* [Beacons](../../../transcriptions/yt-QYMHs1aTyOs,60.733333333333334,193.31965.md) [https://youtube.com/embed/QYMHs1aTyOs?autoplay=1&start=60&end=194](https://youtube.com/embed/QYMHs1aTyOs?autoplay=1&start=60&end=194)
+
 ## May 17th, 2022 Livestream
 * [State of Dev](../../../transcriptions/yt-Z6M_0T26BIA.md) [https://www.youtube.com/watch?v=Z6M_0T26BIA](https://www.youtube.com/watch?v=Z6M_0T26BIA)
 * [Q&A: Was there a reason for the separate Stamp and Marker beacons?](../../../transcriptions/yt-QTl0IjtsttM.md) [https://www.youtube.com/watch?v=QTl0IjtsttM](https://www.youtube.com/watch?v=QTl0IjtsttM)
