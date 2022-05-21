@@ -9,6 +9,8 @@ topics:
 # [May 3rd, 2022 Livestream](../2022-05-03.md)
 ## Q&A: Can we finally have two body slots?
 https://www.youtube.com/watch?v=ees_UTtAc7Q
+This question was possibly replaced with a more recent answer: [May 20th, 2022 Video Multiple Body Slots](./yt-QYMHs1aTyOs,193.31965,266.9166666666667.md) [https://youtube.com/embed/QYMHs1aTyOs?autoplay=1&start=193&end=267](https://youtube.com/embed/QYMHs1aTyOs?autoplay=1&start=193&end=267)
+
 
 ### Topics
 * [Features > Requested Features > Multiple Body Slots](../topics/features/requested-features/multiple-body-slots.md)

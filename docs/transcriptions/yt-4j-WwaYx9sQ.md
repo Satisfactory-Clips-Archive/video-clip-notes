@@ -11,6 +11,8 @@ topics:
 # [May 17th, 2022 Livestream](../2022-05-17.md)
 ## Q&A: What about the Uranium fuel alt?
 https://www.youtube.com/watch?v=4j-WwaYx9sQ
+This question was possibly replaced with a more recent answer: [May 20th, 2022 Video Beacons](./yt-QYMHs1aTyOs,60.733333333333334,193.31965.md) [https://youtube.com/embed/QYMHs1aTyOs?autoplay=1&start=60&end=194](https://youtube.com/embed/QYMHs1aTyOs?autoplay=1&start=60&end=194)
+
 
 ### Topics
 * [Features > Equipment > Beacon](../topics/features/equipment/beacon.md)

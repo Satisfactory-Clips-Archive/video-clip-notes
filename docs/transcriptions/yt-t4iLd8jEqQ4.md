@@ -8,6 +8,8 @@ topics:
 # [May 3rd, 2022 Livestream](../2022-05-03.md)
 ## Q&A: Can we get an empty hand slot so we don't have to unequip something every time?
 https://www.youtube.com/watch?v=t4iLd8jEqQ4
+This question was possibly replaced with a more recent answer: [May 20th, 2022 Video Holstering Equipment](./yt-QYMHs1aTyOs,276.7,303.6166666666667.md) [https://youtube.com/clip/Ugkxl23mIljZL0c1eg63CuF2PBinDm5sL-T1](https://youtube.com/clip/Ugkxl23mIljZL0c1eg63CuF2PBinDm5sL-T1)
+
 <details>
 <summary>This question may have been asked previously at least 4 other times, as recently as December 2021 and as early as May 2020.</summary>
 
