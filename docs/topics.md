@@ -505,7 +505,7 @@ date: Last Modified
 * [FICS⁕MAS](./topics/satisfactory-updates/seasonal-events/fics-mas.md)
 ---
 
-## Pending
+## [Pending](./topics/satisfactory-updates/pending.md)
 * [Satisfactory Update 6](./topics/satisfactory-updates/pending/satisfactory-update-6.md)
 * [Satisfactory 1.0](./topics/satisfactory-updates/pending/satisfactory-1-0.md)
 ---

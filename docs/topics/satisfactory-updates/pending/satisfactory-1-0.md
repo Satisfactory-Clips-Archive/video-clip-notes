@@ -3,7 +3,7 @@ title: "Satisfactory 1.0"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEppntOHbTUyrFhnKNkZZVpT
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Pending > Satisfactory 1.0
+# [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Pending](../../../topics/satisfactory-updates/pending.md) > Satisfactory 1.0
 
 ## May 17th, 2022 Livestream
 * [Snutt Talk: Difference in development process going forward](../../../transcriptions/yt-Utj182ql3Eo.md) [https://www.youtube.com/watch?v=Utj182ql3Eo](https://www.youtube.com/watch?v=Utj182ql3Eo)
