@@ -8,6 +8,9 @@ date: Last Modified
 * [Pumps](../../topics/features/fluids/pumps.md)
 * [Valves](../../topics/features/fluids/valves.md)
 
+## May 24th, 2022 Livestream
+* [Q&A: Are Fluids going to get reworked?](../../transcriptions/yt-nTp7V3squaU.md) [https://www.youtube.com/watch?v=nTp7V3squaU](https://www.youtube.com/watch?v=nTp7V3squaU)
+
 ## March 8th, 2022 Livestream
 * [Q&A: Plans to make Truck Stations for Fluids?](../../transcriptions/yt-O0Pr5KSisOA.md) [https://www.youtube.com/watch?v=O0Pr5KSisOA](https://www.youtube.com/watch?v=O0Pr5KSisOA)
 

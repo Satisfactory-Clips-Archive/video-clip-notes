@@ -9,7 +9,7 @@ topics:
 # [February 2nd, 2021 Livestream](../2021-02-02.md)
 ## Q&A: Mk.6 Belt in the next Update?
 https://www.youtube.com/watch?v=DpT2LNED0wk
-This question was possibly duplicated with a more recent answer: [March 8th, 2022 Livestream Q&A: Will there be any Mk.6 Belts?](./yt-eTfr0KIE6xs.md) [https://www.youtube.com/watch?v=eTfr0KIE6xs](https://www.youtube.com/watch?v=eTfr0KIE6xs)
+This question was possibly duplicated with a more recent answer: [May 24th, 2022 Livestream Q&A: Can you solve the precision problem, or is it going to stay?](./yt-rJXAPM0jxlI.md) [https://www.youtube.com/watch?v=rJXAPM0jxlI](https://www.youtube.com/watch?v=rJXAPM0jxlI)
 
 
 ### Topics

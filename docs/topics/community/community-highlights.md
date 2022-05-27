@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Community Highlights
 
+## May 24th, 2022 Livestream
+* [Snutt & Jace Talk: Explorer parking quirks](../../transcriptions/yt-G-7U-KzevoE.md) [https://www.youtube.com/watch?v=G-7U-KzevoE](https://www.youtube.com/watch?v=G-7U-KzevoE)
+
 ## May 3rd, 2022 Livestream
 * [Snutt Talk: Spire Coast pillars](../../transcriptions/yt-e6LI3qSkWdQ.md) [https://www.youtube.com/watch?v=e6LI3qSkWdQ](https://www.youtube.com/watch?v=e6LI3qSkWdQ)
 

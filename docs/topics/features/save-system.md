@@ -7,6 +7,10 @@ date: Last Modified
 * [Autosave](../../topics/features/save-system/autosave.md)
 * [Cloud Sync](../../topics/features/save-system/cloud-sync.md)
 
+## May 24th, 2022 Livestream
+* [Q&A: Can removing Trees not increase save file size so drastically?](../../transcriptions/yt-801aBwD1IvY.md) [https://www.youtube.com/watch?v=801aBwD1IvY](https://www.youtube.com/watch?v=801aBwD1IvY)
+* [Community FYI: I'm looking at 40mb of save file](../../transcriptions/yt-x-c_WxZgQr0.md) [https://www.youtube.com/watch?v=x-c_WxZgQr0](https://www.youtube.com/watch?v=x-c_WxZgQr0)
+
 ## May 17th, 2022 Livestream
 * [Q&A: What was the decision to put saves and photos in different folders?](../../transcriptions/yt-vuORkiN-LE8.md) [https://www.youtube.com/watch?v=vuORkiN-LE8](https://www.youtube.com/watch?v=vuORkiN-LE8)
 

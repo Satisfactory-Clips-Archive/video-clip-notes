@@ -7,6 +7,9 @@ date: Last Modified
 * [Crossplay](../../topics/features/multiplayer/crossplay.md)
 * [Dedicated Servers](../../topics/features/multiplayer/dedicated-servers.md)
 
+## May 24th, 2022 Livestream
+* [Q&A: Plans to add a separate progression path for Multiplayer?](../../transcriptions/yt-CxDrVE9RIHc.md) [https://www.youtube.com/watch?v=CxDrVE9RIHc](https://www.youtube.com/watch?v=CxDrVE9RIHc)
+
 ## May 17th, 2022 Livestream
 * [Q&A: Will different players have different colour highlighted markers?](../../transcriptions/yt--kK37J52sSA.md) [https://www.youtube.com/watch?v=-kK37J52sSA](https://www.youtube.com/watch?v=-kK37J52sSA)
 

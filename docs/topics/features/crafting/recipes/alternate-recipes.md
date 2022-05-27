@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > [Crafting](../../../../topics/features/crafting.md) > [Recipes](../../../../topics/features/crafting/recipes.md) > Alternate Recipes
 
+## May 24th, 2022 Livestream
+* [State of Dev](../../../../transcriptions/yt-FYTbjlXLFp4.md) [https://www.youtube.com/watch?v=FYTbjlXLFp4](https://www.youtube.com/watch?v=FYTbjlXLFp4)
+* [Q&A: Does it mean we get more Hard Drives than normal?](../../../../transcriptions/yt-08AYOkrt2dM.md) [https://www.youtube.com/watch?v=08AYOkrt2dM](https://www.youtube.com/watch?v=08AYOkrt2dM)
+* [Q&A: Is it safe to make an Alt Recipe Nuclear factory?](../../../../transcriptions/yt-Mi7GvyXRA3g.md) [https://www.youtube.com/watch?v=Mi7GvyXRA3g](https://www.youtube.com/watch?v=Mi7GvyXRA3g)
+
 ## May 17th, 2022 Livestream
 * [Q&A: Can you ask the Dev team to release some info about the new Recipes?](../../../../transcriptions/yt-H43HfFnO8eU.md) [https://www.youtube.com/watch?v=H43HfFnO8eU](https://www.youtube.com/watch?v=H43HfFnO8eU)
 

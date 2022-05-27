@@ -5,6 +5,12 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Biomes](../../../topics/environment/biomes.md) > Spire Coast
 
+## May 24th, 2022 Livestream
+* [Q&A: New drop sites?](../../../transcriptions/yt-o62O0oCl7yw.md) [https://www.youtube.com/watch?v=o62O0oCl7yw](https://www.youtube.com/watch?v=o62O0oCl7yw)
+* [Q&A: If I mine on nodes and they get moved will the Miner still work?](../../../transcriptions/yt-PAwD9jhW37w.md) [https://www.youtube.com/watch?v=PAwD9jhW37w](https://www.youtube.com/watch?v=PAwD9jhW37w)
+* [Q&A: Does it mean we get more Hard Drives than normal?](../../../transcriptions/yt-08AYOkrt2dM.md) [https://www.youtube.com/watch?v=08AYOkrt2dM](https://www.youtube.com/watch?v=08AYOkrt2dM)
+* [Q&A: Is the name of the Spire Coast being changed in Update 6?](../../../transcriptions/yt-Hb3YVvM-58w.md) [https://www.youtube.com/watch?v=Hb3YVvM-58w](https://www.youtube.com/watch?v=Hb3YVvM-58w)
+
 ## May 10th, 2022 Livestream
 * [State of Dev](../../../transcriptions/yt-EgDWsvm7ThE.md) [https://www.youtube.com/watch?v=EgDWsvm7ThE](https://www.youtube.com/watch?v=EgDWsvm7ThE)
 * [Hannah talks Spire Coast](../../../transcriptions/yt-FqhboAjAiYY.md) [https://www.youtube.com/watch?v=FqhboAjAiYY](https://www.youtube.com/watch?v=FqhboAjAiYY)

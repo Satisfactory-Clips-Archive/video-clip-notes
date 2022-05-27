@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > Transportation > [Vehicles](../../../../topics/features/transportation/vehicles.md) > Explorer
 
+## May 24th, 2022 Livestream
+* [Snutt & Jace Talk: Explorer parking quirks](../../../../transcriptions/yt-G-7U-KzevoE.md) [https://www.youtube.com/watch?v=G-7U-KzevoE](https://www.youtube.com/watch?v=G-7U-KzevoE)
+
 ## March 29th, 2022 Livestream
 * [Q&A: Will we be able to mount the Rebar Gun on top of a buggy?](../../../../transcriptions/yt-DVXbH_LG2Y4.md) [https://www.youtube.com/watch?v=DVXbH_LG2Y4](https://www.youtube.com/watch?v=DVXbH_LG2Y4)
 

@@ -17,6 +17,9 @@ date: Last Modified
 * [Terraforming](../../topics/features/unplanned-features/terraforming.md)
 * [VR](../../topics/features/unplanned-features/vr.md)
 
+## May 24th, 2022 Livestream
+* [Q&A: Plans to add a separate progression path for Multiplayer?](../../transcriptions/yt-CxDrVE9RIHc.md) [https://www.youtube.com/watch?v=CxDrVE9RIHc](https://www.youtube.com/watch?v=CxDrVE9RIHc)
+
 ## May 20th, 2022 Video
 * [Introducing the topic of the video](../../transcriptions/yt-QYMHs1aTyOs,0,50.71666666666667.md) [https://youtube.com/clip/UgkxZ3nwhjcybkF-yU6Xe7nCXgEkWb2ouLJ6](https://youtube.com/clip/UgkxZ3nwhjcybkF-yU6Xe7nCXgEkWb2ouLJ6)
 

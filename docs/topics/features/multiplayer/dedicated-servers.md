@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Multiplayer](../../../topics/features/multiplayer.md) > Dedicated Servers
 
+## May 24th, 2022 Livestream
+* [Q&A: Any news for Dedicated Servers?](../../../transcriptions/yt-SRELaFzE78o.md) [https://www.youtube.com/watch?v=SRELaFzE78o](https://www.youtube.com/watch?v=SRELaFzE78o)
+
 ## May 3rd, 2022 Livestream
 * [State of Dev](../../../transcriptions/yt-HBdLi32e74Q.md) [https://www.youtube.com/watch?v=HBdLi32e74Q](https://www.youtube.com/watch?v=HBdLi32e74Q)
 * [Q&A: Are there any Updates to Dedicated Servers coming soon?](../../../transcriptions/yt-mvcm2QXlcZM.md) [https://www.youtube.com/watch?v=mvcm2QXlcZM](https://www.youtube.com/watch?v=mvcm2QXlcZM)

@@ -18,6 +18,9 @@ date: Last Modified
 * [The Great Canyon](../../topics/environment/biomes/the-great-canyon.md)
 * [Unplanned Biomes](../../topics/environment/biomes/unplanned-biomes.md)
 
+## May 24th, 2022 Livestream
+* [Q&A: Any plans to add the Biome/zone names to the in-game Map?](../../transcriptions/yt-CMp2H71Cw6k.md) [https://www.youtube.com/watch?v=CMp2H71Cw6k](https://www.youtube.com/watch?v=CMp2H71Cw6k)
+
 ## May 10th, 2022 Livestream
 * [Q&A: What is Hannah's favourite Biome?](../../transcriptions/yt-bu3SnSQ14Ms.md) [https://www.youtube.com/watch?v=bu3SnSQ14Ms](https://www.youtube.com/watch?v=bu3SnSQ14Ms)
 

@@ -9,7 +9,7 @@ topics:
 # [September 21st, 2021 Livestream](../2021-09-21.md)
 ## Q&A: Gas Mask in Vehicles?
 https://www.youtube.com/watch?v=_gjOkEU1pwI
-This question was possibly duplicated with a more recent answer: [May 3rd, 2022 Livestream Q&A: Will Gas Masks ever work when you're in Vehicles?](./yt-61iyMsA4_2w.md) [https://www.youtube.com/watch?v=61iyMsA4_2w](https://www.youtube.com/watch?v=61iyMsA4_2w)
+This question was possibly duplicated with a more recent answer: [May 24th, 2022 Livestream Q&A: Will Mask & Hazmat suit work while driving?](./yt-itoJOUojUJo.md) [https://www.youtube.com/watch?v=itoJOUojUJo](https://www.youtube.com/watch?v=itoJOUojUJo)
 
 
 ### Topics

@@ -22,6 +22,9 @@ date: Last Modified
 * [Walls](../../topics/features/buildables/walls.md)
 * [Windows](../../topics/features/buildables/windows.md)
 
+## May 24th, 2022 Livestream
+* [Q&A: Can you change the snapping point to snap to corners easier?](../../transcriptions/yt-WT4nkH8MJL4.md) [https://www.youtube.com/watch?v=WT4nkH8MJL4](https://www.youtube.com/watch?v=WT4nkH8MJL4)
+
 ## April 19th, 2022 Livestream
 * [Q&A: Do you plan to add Wall Holes for Belts, similar to Floor Holes for Foundations?](../../transcriptions/yt-XKoMKtf1ZjY.md) [https://www.youtube.com/watch?v=XKoMKtf1ZjY](https://www.youtube.com/watch?v=XKoMKtf1ZjY)
 

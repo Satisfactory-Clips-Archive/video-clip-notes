@@ -9,7 +9,7 @@ topics:
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Q&A: Will there be any Base Defense?
 https://www.youtube.com/watch?v=5-8ACtMU2_E
-This question was possibly duplicated with a more recent answer: March 29th, 2022 Livestream Q&A: Tower Defense, when? [https://www.youtube.com/watch?v=xbk9T1Z94xU](https://www.youtube.com/watch?v=xbk9T1Z94xU)
+This question was possibly duplicated with a more recent answer: [May 24th, 2022 Livestream Q&A: Tower Defense, when?](./yt-tSzwMFuQKUc.md) [https://www.youtube.com/watch?v=tSzwMFuQKUc](https://www.youtube.com/watch?v=tSzwMFuQKUc)
 
 
 ### Topics

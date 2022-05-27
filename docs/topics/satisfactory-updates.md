@@ -18,6 +18,10 @@ date: Last Modified
 * [Teasers & Trailers](../topics/satisfactory-updates/teasers-and-trailers.md)
 * [World Update](../topics/satisfactory-updates/world-update.md)
 
+## May 24th, 2022 Livestream
+* [Q&A: The cave on the crater in the Dune Desert, is that coming in a later Update?](../transcriptions/yt-WA3JRlk-8M8.md) [https://www.youtube.com/watch?v=WA3JRlk-8M8](https://www.youtube.com/watch?v=WA3JRlk-8M8)
+* [Q&A: Are there any surprises for Update 6?](../transcriptions/yt-4YLraND1Sk8.md) [https://www.youtube.com/watch?v=4YLraND1Sk8](https://www.youtube.com/watch?v=4YLraND1Sk8)
+
 ## May 17th, 2022 Livestream
 * [Q&A: Fixing bugs or doing new stuff?](../transcriptions/yt-pwh9QNRmqFY.md) [https://www.youtube.com/watch?v=pwh9QNRmqFY](https://www.youtube.com/watch?v=pwh9QNRmqFY)
 * [Snutt Talk: Difference in development process going forward](../transcriptions/yt-Utj182ql3Eo.md) [https://www.youtube.com/watch?v=Utj182ql3Eo](https://www.youtube.com/watch?v=Utj182ql3Eo)

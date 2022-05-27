@@ -8,7 +8,7 @@ topics:
 # [March 1st, 2022 Livestream](../2022-03-01.md)
 ## Q&A: When Base Defense?
 https://www.youtube.com/watch?v=jydtfpmdc5Q
-This question was possibly duplicated with a more recent answer: March 29th, 2022 Livestream Q&A: Tower Defense, when? [https://www.youtube.com/watch?v=xbk9T1Z94xU](https://www.youtube.com/watch?v=xbk9T1Z94xU)
+This question was possibly duplicated with a more recent answer: [May 24th, 2022 Livestream Q&A: Tower Defense, when?](./yt-tSzwMFuQKUc.md) [https://www.youtube.com/watch?v=tSzwMFuQKUc](https://www.youtube.com/watch?v=tSzwMFuQKUc)
 
 
 ### Topics

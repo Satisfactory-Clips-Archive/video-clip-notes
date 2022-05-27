@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Equipment](../../../topics/features/equipment.md) > Blade Runners
 
+## May 24th, 2022 Livestream
+* [State of Dev](../../../transcriptions/yt-FYTbjlXLFp4.md) [https://www.youtube.com/watch?v=FYTbjlXLFp4](https://www.youtube.com/watch?v=FYTbjlXLFp4)
+
 ## May 20th, 2022 Video
 * [Multiple Body Slots](../../../transcriptions/yt-QYMHs1aTyOs,193.31965,266.9166666666667.md) [https://youtube.com/embed/QYMHs1aTyOs?autoplay=1&start=193&end=267](https://youtube.com/embed/QYMHs1aTyOs?autoplay=1&start=193&end=267)
 

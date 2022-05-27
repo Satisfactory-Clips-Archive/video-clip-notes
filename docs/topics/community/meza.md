@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Meza
 
+## May 24th, 2022 Livestream
+* [Q&A: Where's my Alpha key?](../../transcriptions/yt-49DOk22E05k.md) [https://www.youtube.com/watch?v=49DOk22E05k](https://www.youtube.com/watch?v=49DOk22E05k)
+
 ## August 17th, 2021 Livestream
 * [Q&A: What did you think of the fusion photo?](../../transcriptions/yt-8Ed70U5TDmM.md) [https://www.youtube.com/watch?v=8Ed70U5TDmM](https://www.youtube.com/watch?v=8Ed70U5TDmM)
 

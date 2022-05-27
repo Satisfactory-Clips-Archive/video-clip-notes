@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Environment](../../topics/environment.md) > Plants
 
+## May 24th, 2022 Livestream
+* [Q&A: Can removing Trees not increase save file size so drastically?](../../transcriptions/yt-801aBwD1IvY.md) [https://www.youtube.com/watch?v=801aBwD1IvY](https://www.youtube.com/watch?v=801aBwD1IvY)
+
 ## May 13th, 2022 Video
 * [Placing Stamps on the Map & in real-time](../../transcriptions/yt-2vAUX3YLH-c,282.11516666666665,349.4157333333333.md) [https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=282&end=350](https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=282&end=350)
 * [Radar Towers in Update 5 vs. Update 6](../../transcriptions/yt-2vAUX3YLH-c,507.6071,601.2339666666667.md) [https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=507&end=602](https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=507&end=602)

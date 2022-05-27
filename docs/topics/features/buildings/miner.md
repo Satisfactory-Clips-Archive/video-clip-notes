@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > Miner
 
+## May 24th, 2022 Livestream
+* [Q&A: If I mine on nodes and they get moved will the Miner still work?](../../../transcriptions/yt-PAwD9jhW37w.md) [https://www.youtube.com/watch?v=PAwD9jhW37w](https://www.youtube.com/watch?v=PAwD9jhW37w)
+
 ## May 3rd, 2022 Livestream
 * [Q&A: Miner Mk.3?](../../../transcriptions/yt-TzqY5rtkxes.md) [https://www.youtube.com/watch?v=TzqY5rtkxes](https://www.youtube.com/watch?v=TzqY5rtkxes)
 

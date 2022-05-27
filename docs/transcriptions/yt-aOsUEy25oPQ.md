@@ -9,6 +9,8 @@ topics:
 # [May 3rd, 2022 Livestream](../2022-05-03.md)
 ## Q&A: Will Recipes get a do-over before 1.0?
 https://www.youtube.com/watch?v=aOsUEy25oPQ
+This question was possibly duplicated with a more recent answer: [May 24th, 2022 Livestream Q&A: What is the likelihood of lower-Tier Recipes getting a rebalance?](./yt-aDrQRQAtoAs.md) [https://www.youtube.com/watch?v=aDrQRQAtoAs](https://www.youtube.com/watch?v=aDrQRQAtoAs)
+
 
 ### Topics
 * [Features > Crafting > Recipes](../topics/features/crafting/recipes.md)

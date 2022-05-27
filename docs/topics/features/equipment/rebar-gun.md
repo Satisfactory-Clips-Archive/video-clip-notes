@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Equipment](../../../topics/features/equipment.md) > Rebar Gun
 
+## May 24th, 2022 Livestream
+* [State of Dev](../../../transcriptions/yt-FYTbjlXLFp4.md) [https://www.youtube.com/watch?v=FYTbjlXLFp4](https://www.youtube.com/watch?v=FYTbjlXLFp4)
+
 ## May 20th, 2022 Video
 * [New Ammo Types](../../../transcriptions/yt-QYMHs1aTyOs,303.6333333333333,338.06666666666666.md) [https://youtube.com/clip/Ugkx5t7Y4l_VFzbzAd_jNHP-MZ_jRMrXnhkM](https://youtube.com/clip/Ugkx5t7Y4l_VFzbzAd_jNHP-MZ_jRMrXnhkM)
 * [Ammo Switching](../../../transcriptions/yt-QYMHs1aTyOs,338.0833333333333,363.53333333333336.md) [https://youtube.com/clip/Ugkx3p10phuyHpUzGwfcOgCV6-nWNJTDxH-1](https://youtube.com/clip/Ugkx3p10phuyHpUzGwfcOgCV6-nWNJTDxH-1)

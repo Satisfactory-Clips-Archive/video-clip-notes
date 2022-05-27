@@ -8,7 +8,7 @@ topics:
 # [July 13th, 2021 Livestream](../2021-07-13.md)
 ## Q&A: Is there going to be some kind of Peaceful Mode?
 https://www.youtube.com/watch?v=pPeoQr8CpGg
-This question was possibly duplicated with a more recent answer: [November 16th, 2021 Livestream Q&A: Will there ever be an option to toggle off monsters for those who want to just build?](./yt-WcsqEVLXPfU.md) [https://www.youtube.com/watch?v=WcsqEVLXPfU](https://www.youtube.com/watch?v=WcsqEVLXPfU)
+This question was possibly duplicated with a more recent answer: [May 24th, 2022 Livestream Q&A: Any chance for a Peaceful Mode with no Creatures?](./yt-u9jxESc8qAA.md) [https://www.youtube.com/watch?v=u9jxESc8qAA](https://www.youtube.com/watch?v=u9jxESc8qAA)
 
 
 ### Topics

@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > Crash Site
 
+## May 24th, 2022 Livestream
+* [Q&A: New drop sites?](../../../transcriptions/yt-o62O0oCl7yw.md) [https://www.youtube.com/watch?v=o62O0oCl7yw](https://www.youtube.com/watch?v=o62O0oCl7yw)
+* [Q&A: Does it mean we get more Hard Drives than normal?](../../../transcriptions/yt-08AYOkrt2dM.md) [https://www.youtube.com/watch?v=08AYOkrt2dM](https://www.youtube.com/watch?v=08AYOkrt2dM)
+
 ## May 10th, 2022 Livestream
 * [Hannah talks Spire Coast](../../../transcriptions/yt-FqhboAjAiYY.md) [https://www.youtube.com/watch?v=FqhboAjAiYY](https://www.youtube.com/watch?v=FqhboAjAiYY)
 

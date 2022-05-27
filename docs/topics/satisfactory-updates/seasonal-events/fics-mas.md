@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Seasonal Events](../../../topics/satisfactory-updates/seasonal-events.md) > FICS⁕MAS
 
+## May 24th, 2022 Livestream
+* [Q&A: Will the snowballs still work?](../../../transcriptions/yt-dP0uZNdU8q0.md) [https://www.youtube.com/watch?v=dP0uZNdU8q0](https://www.youtube.com/watch?v=dP0uZNdU8q0)
+
 ## May 20th, 2022 Video
 * [Ammo Switching](../../../transcriptions/yt-QYMHs1aTyOs,338.0833333333333,363.53333333333336.md) [https://youtube.com/clip/Ugkx3p10phuyHpUzGwfcOgCV6-nWNJTDxH-1](https://youtube.com/clip/Ugkx3p10phuyHpUzGwfcOgCV6-nWNJTDxH-1)
 

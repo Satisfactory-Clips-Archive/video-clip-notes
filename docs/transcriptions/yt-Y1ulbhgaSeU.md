@@ -8,7 +8,7 @@ topics:
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Q&A: Broader Belts?
 https://www.youtube.com/watch?v=Y1ulbhgaSeU
-This question was possibly duplicated with a more recent answer: [March 8th, 2022 Livestream Q&A: Will there be any Mk.6 Belts?](./yt-eTfr0KIE6xs.md) [https://www.youtube.com/watch?v=eTfr0KIE6xs](https://www.youtube.com/watch?v=eTfr0KIE6xs)
+This question was possibly duplicated with a more recent answer: [May 24th, 2022 Livestream Q&A: Can you solve the precision problem, or is it going to stay?](./yt-rJXAPM0jxlI.md) [https://www.youtube.com/watch?v=rJXAPM0jxlI](https://www.youtube.com/watch?v=rJXAPM0jxlI)
 
 
 ### Topics

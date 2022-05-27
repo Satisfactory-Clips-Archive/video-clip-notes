@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Environment](../../topics/environment.md) > World Map
 
+## May 24th, 2022 Livestream
+* [Q&A: Any plans to add the Biome/zone names to the in-game Map?](../../transcriptions/yt-CMp2H71Cw6k.md) [https://www.youtube.com/watch?v=CMp2H71Cw6k](https://www.youtube.com/watch?v=CMp2H71Cw6k)
+
 ## May 13th, 2022 Video
 * [Introducing the topic of the video](../../transcriptions/yt-2vAUX3YLH-c,9.476133333333333,56.38966666666667.md) [https://youtube.com/clip/Ugkx5x2bQA1difTBhirAncKs5J55MzzrNydA](https://youtube.com/clip/Ugkx5x2bQA1difTBhirAncKs5J55MzzrNydA)
 * [Introducing the Map changes](../../transcriptions/yt-2vAUX3YLH-c,56.423033333333336,142.07526666666666.md) [https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=56&end=143](https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=56&end=143)

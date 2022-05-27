@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Trolling
 
+## May 24th, 2022 Livestream
+* [Q&A: Where's my Alpha key?](../transcriptions/yt-49DOk22E05k.md) [https://www.youtube.com/watch?v=49DOk22E05k](https://www.youtube.com/watch?v=49DOk22E05k)
+
 ## May 13th, 2022 Video
 * [End Tag](../transcriptions/yt-2vAUX3YLH-c,833.7662666666666.md) [https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=833](https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=833)
 

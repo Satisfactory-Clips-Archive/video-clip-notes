@@ -8,7 +8,7 @@ topics:
 # [May 19th, 2020 Livestream](../2020-05-19.md)
 ## Q&A: Will we be seeing support for Steam Workshop?
 https://www.youtube.com/watch?v=n4fagQ4eivI
-This question was possibly duplicated with a more recent answer: [November 2nd, 2021 Livestream Q&A: Steam Workshop](./yt-VshaC16CO0w.md) [https://www.youtube.com/watch?v=VshaC16CO0w](https://www.youtube.com/watch?v=VshaC16CO0w)
+This question was possibly duplicated with a more recent answer: [May 24th, 2022 Livestream Q&A: Any plans for Steam Workshop?](./yt-E6Z4op4C6Jc.md) [https://www.youtube.com/watch?v=E6Z4op4C6Jc](https://www.youtube.com/watch?v=E6Z4op4C6Jc)
 
 
 ### Topics

@@ -8,6 +8,11 @@ date: Last Modified
 * [Snutt Burger Time](../../topics/coffee-stainers/snutt/snutt-burger-time.md)
 * [Snutty Mays](../../topics/coffee-stainers/snutt/snutty-mays.md)
 
+## May 24th, 2022 Livestream
+* [Q&A: Where's my Alpha key?](../../transcriptions/yt-49DOk22E05k.md) [https://www.youtube.com/watch?v=49DOk22E05k](https://www.youtube.com/watch?v=49DOk22E05k)
+* [Q&A: Do you speak Swedish, Snutt?](../../transcriptions/yt-9ERwCDh-u7E.md) [https://www.youtube.com/watch?v=9ERwCDh-u7E](https://www.youtube.com/watch?v=9ERwCDh-u7E)
+* [Q&A: Do you speak German?](../../transcriptions/yt-0HXaS4n4C7g.md) [https://www.youtube.com/watch?v=0HXaS4n4C7g](https://www.youtube.com/watch?v=0HXaS4n4C7g)
+
 ## May 17th, 2022 Livestream
 * [Q&A: Fixing bugs or doing new stuff?](../../transcriptions/yt-pwh9QNRmqFY.md) [https://www.youtube.com/watch?v=pwh9QNRmqFY](https://www.youtube.com/watch?v=pwh9QNRmqFY)
 * [Q&A: What was 14-year old Snutt's favourite video game?](../../transcriptions/yt-LkRK9NUEPOk.md) [https://www.youtube.com/watch?v=LkRK9NUEPOk](https://www.youtube.com/watch?v=LkRK9NUEPOk)

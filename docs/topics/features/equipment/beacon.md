@@ -5,6 +5,13 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Equipment](../../../topics/features/equipment.md) > Beacon
 
+## May 24th, 2022 Livestream
+* [State of Dev](../../../transcriptions/yt-FYTbjlXLFp4.md) [https://www.youtube.com/watch?v=FYTbjlXLFp4](https://www.youtube.com/watch?v=FYTbjlXLFp4)
+* [Q&A: Do we need to stock up on Beacons?](../../../transcriptions/yt-NIbuOAm0Yeo.md) [https://www.youtube.com/watch?v=NIbuOAm0Yeo](https://www.youtube.com/watch?v=NIbuOAm0Yeo)
+* [Q&A: Is it safe to make an Alt Recipe Nuclear factory?](../../../transcriptions/yt-Mi7GvyXRA3g.md) [https://www.youtube.com/watch?v=Mi7GvyXRA3g](https://www.youtube.com/watch?v=Mi7GvyXRA3g)
+* [Q&A: What if we have more than 100 Beacons on the Map, will the rest disappear?](../../../transcriptions/yt-9W52fwmEPEI.md) [https://www.youtube.com/watch?v=9W52fwmEPEI](https://www.youtube.com/watch?v=9W52fwmEPEI)
+* [Snutt Talk: Removal of Beacons](../../../transcriptions/yt-yRxTXcN-yLE.md) [https://www.youtube.com/watch?v=yRxTXcN-yLE](https://www.youtube.com/watch?v=yRxTXcN-yLE)
+
 ## May 20th, 2022 Video
 * [Beacons](../../../transcriptions/yt-QYMHs1aTyOs,60.733333333333334,193.31965.md) [https://youtube.com/embed/QYMHs1aTyOs?autoplay=1&start=60&end=194](https://youtube.com/embed/QYMHs1aTyOs?autoplay=1&start=60&end=194)
 

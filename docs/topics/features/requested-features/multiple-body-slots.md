@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Requested Features](../../../topics/features/requested-features.md) > Multiple Body Slots
 
+## May 24th, 2022 Livestream
+* [State of Dev](../../../transcriptions/yt-FYTbjlXLFp4.md) [https://www.youtube.com/watch?v=FYTbjlXLFp4](https://www.youtube.com/watch?v=FYTbjlXLFp4)
+* [Q&A: Are there going to be more Body Slots?](../../../transcriptions/yt-ELRYpQPxsOo.md) [https://www.youtube.com/watch?v=ELRYpQPxsOo](https://www.youtube.com/watch?v=ELRYpQPxsOo)
+
 ## May 20th, 2022 Video
 * [Multiple Body Slots](../../../transcriptions/yt-QYMHs1aTyOs,193.31965,266.9166666666667.md) [https://youtube.com/embed/QYMHs1aTyOs?autoplay=1&start=193&end=267](https://youtube.com/embed/QYMHs1aTyOs?autoplay=1&start=193&end=267)
 * [Equipment HUD](../../../transcriptions/yt-QYMHs1aTyOs,266.93333333333334,276.681512.md) [https://youtube.com/clip/UgkxsV-mPW6rt9G3j7dwNJrqdiI9mlUq7_hV](https://youtube.com/clip/UgkxsV-mPW6rt9G3j7dwNJrqdiI9mlUq7_hV)

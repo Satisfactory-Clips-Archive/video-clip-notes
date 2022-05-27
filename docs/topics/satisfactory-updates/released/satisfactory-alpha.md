@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Released > Satisfactory Alpha
 * [Alpha Weekend](../../../topics/satisfactory-updates/released/satisfactory-alpha/alpha-weekend.md)
 
+## May 24th, 2022 Livestream
+* [Q&A: Where's my Alpha key?](../../../transcriptions/yt-49DOk22E05k.md) [https://www.youtube.com/watch?v=49DOk22E05k](https://www.youtube.com/watch?v=49DOk22E05k)
+
 ## April 21st, 2022 Satisfactory x Portal Bonus Stream
 * [Community FYI: It is interesting to see what one can do with this game](../../../transcriptions/yt--UtYFjp2xdk.md) [https://www.youtube.com/watch?v=-UtYFjp2xdk](https://www.youtube.com/watch?v=-UtYFjp2xdk)
 

@@ -16,6 +16,10 @@ date: Last Modified
 * [Tier 9](../../topics/features/tiers/tier-9.md)
 * [Tier 10](../../topics/features/tiers/tier-10.md)
 
+## May 24th, 2022 Livestream
+* [Q&A: Plans to add a separate progression path for Multiplayer?](../../transcriptions/yt-CxDrVE9RIHc.md) [https://www.youtube.com/watch?v=CxDrVE9RIHc](https://www.youtube.com/watch?v=CxDrVE9RIHc)
+* [Q&A: What is the likelihood of lower-Tier Recipes getting a rebalance?](../../transcriptions/yt-aDrQRQAtoAs.md) [https://www.youtube.com/watch?v=aDrQRQAtoAs](https://www.youtube.com/watch?v=aDrQRQAtoAs)
+
 ## May 13th, 2022 Video
 * [Introducing the Map changes](../../transcriptions/yt-2vAUX3YLH-c,56.423033333333336,142.07526666666666.md) [https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=56&end=143](https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=56&end=143)
 

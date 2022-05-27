@@ -12,6 +12,9 @@ date: Last Modified
 * [Tractor](../../../topics/features/transportation/vehicles/tractor.md)
 * [Truck](../../../topics/features/transportation/vehicles/truck.md)
 
+## May 24th, 2022 Livestream
+* [Q&A: Will Mask & Hazmat suit work while driving?](../../../transcriptions/yt-itoJOUojUJo.md) [https://www.youtube.com/watch?v=itoJOUojUJo](https://www.youtube.com/watch?v=itoJOUojUJo)
+
 ## May 17th, 2022 Livestream
 * [Q&A: Will Beacons be replaced with something for building Vehicles?](../../../transcriptions/yt-K7MGuYiuzno.md) [https://www.youtube.com/watch?v=K7MGuYiuzno](https://www.youtube.com/watch?v=K7MGuYiuzno)
 * [Q&A: Any chance we'd get inverted Vehicle Y-axis sometime ?](../../../transcriptions/yt-9QWK-qKXvoQ.md) [https://www.youtube.com/watch?v=9QWK-qKXvoQ](https://www.youtube.com/watch?v=9QWK-qKXvoQ)

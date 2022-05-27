@@ -10,6 +10,9 @@ date: Last Modified
 * [Power Storage](../../topics/features/power-management/power-storage.md)
 * [Power Switch](../../topics/features/power-management/power-switch.md)
 
+## May 24th, 2022 Livestream
+* [Q&A: Are you also looking at having Linear Clocking for Overclocking of Power Generators?](../../transcriptions/yt-Nt9Lf-n9Dcs.md) [https://www.youtube.com/watch?v=Nt9Lf-n9Dcs](https://www.youtube.com/watch?v=Nt9Lf-n9Dcs)
+
 ## May 17th, 2022 Livestream
 * [Q&A: What is Coffee Stain anti daisy-chain?](../../transcriptions/yt--KPx46FPN5Q.md) [https://www.youtube.com/watch?v=-KPx46FPN5Q](https://www.youtube.com/watch?v=-KPx46FPN5Q)
 * [Q&A: Any plans for automated Power before Coal?](../../transcriptions/yt-huRKK3aqoPk.md) [https://www.youtube.com/watch?v=huRKK3aqoPk](https://www.youtube.com/watch?v=huRKK3aqoPk)

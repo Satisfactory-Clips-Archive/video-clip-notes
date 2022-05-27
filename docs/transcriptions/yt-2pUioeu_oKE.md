@@ -8,7 +8,7 @@ topics:
 # [June 1st, 2021 Livestream](../2021-06-01.md)
 ## Q&A: Can you reveal what S.A.M. Ore is please, I need to know?
 https://www.youtube.com/watch?v=2pUioeu_oKE
-This question was possibly duplicated with a more recent answer: [March 22nd, 2022 Livestream Q&A: When are we going to see something with S.A.M. Ore?](./yt-QPP1gPrzC9Y.md) [https://www.youtube.com/watch?v=QPP1gPrzC9Y](https://www.youtube.com/watch?v=QPP1gPrzC9Y)
+This question was possibly duplicated with a more recent answer: [May 24th, 2022 Livestream Q&A: What's the future of S.A.M. Ore?](./yt-fU0zBoXfxRE.md) [https://www.youtube.com/watch?v=fU0zBoXfxRE](https://www.youtube.com/watch?v=fU0zBoXfxRE)
 
 
 ### Topics

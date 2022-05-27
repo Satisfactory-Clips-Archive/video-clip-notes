@@ -5,6 +5,22 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Pending](../../../topics/satisfactory-updates/pending.md) > Satisfactory Update 6
 
+## May 24th, 2022 Livestream
+* [State of Dev](../../../transcriptions/yt-FYTbjlXLFp4.md) [https://www.youtube.com/watch?v=FYTbjlXLFp4](https://www.youtube.com/watch?v=FYTbjlXLFp4)
+* [Q&A: Do we need to stock up on Beacons?](../../../transcriptions/yt-NIbuOAm0Yeo.md) [https://www.youtube.com/watch?v=NIbuOAm0Yeo](https://www.youtube.com/watch?v=NIbuOAm0Yeo)
+* [Q&A: New drop sites?](../../../transcriptions/yt-o62O0oCl7yw.md) [https://www.youtube.com/watch?v=o62O0oCl7yw](https://www.youtube.com/watch?v=o62O0oCl7yw)
+* [Q&A: Is the release date for Update 6 still early June?](../../../transcriptions/yt-RHOcZ9dacAY.md) [https://www.youtube.com/watch?v=RHOcZ9dacAY](https://www.youtube.com/watch?v=RHOcZ9dacAY)
+* [Q&A: If I mine on nodes and they get moved will the Miner still work?](../../../transcriptions/yt-PAwD9jhW37w.md) [https://www.youtube.com/watch?v=PAwD9jhW37w](https://www.youtube.com/watch?v=PAwD9jhW37w)
+* [Q&A: Does it mean we get more Hard Drives than normal?](../../../transcriptions/yt-08AYOkrt2dM.md) [https://www.youtube.com/watch?v=08AYOkrt2dM](https://www.youtube.com/watch?v=08AYOkrt2dM)
+* [Q&A: Is it safe to make an Alt Recipe Nuclear factory?](../../../transcriptions/yt-Mi7GvyXRA3g.md) [https://www.youtube.com/watch?v=Mi7GvyXRA3g](https://www.youtube.com/watch?v=Mi7GvyXRA3g)
+* [Q&A: What if we have more than 100 Beacons on the Map, will the rest disappear?](../../../transcriptions/yt-9W52fwmEPEI.md) [https://www.youtube.com/watch?v=9W52fwmEPEI](https://www.youtube.com/watch?v=9W52fwmEPEI)
+* [Q&A: Will the snowballs still work?](../../../transcriptions/yt-dP0uZNdU8q0.md) [https://www.youtube.com/watch?v=dP0uZNdU8q0](https://www.youtube.com/watch?v=dP0uZNdU8q0)
+* [Q&A: Any updates to the Overclocking discussion?](../../../transcriptions/yt-GwXXV3e00eo.md) [https://www.youtube.com/watch?v=GwXXV3e00eo](https://www.youtube.com/watch?v=GwXXV3e00eo)
+* [Q&A: Are you also looking at having Linear Clocking for Overclocking of Power Generators?](../../../transcriptions/yt-Nt9Lf-n9Dcs.md) [https://www.youtube.com/watch?v=Nt9Lf-n9Dcs](https://www.youtube.com/watch?v=Nt9Lf-n9Dcs)
+* [Q&A: Is the name of the Spire Coast being changed in Update 6?](../../../transcriptions/yt-Hb3YVvM-58w.md) [https://www.youtube.com/watch?v=Hb3YVvM-58w](https://www.youtube.com/watch?v=Hb3YVvM-58w)
+* [Q&A: Are there going to be more Body Slots?](../../../transcriptions/yt-ELRYpQPxsOo.md) [https://www.youtube.com/watch?v=ELRYpQPxsOo](https://www.youtube.com/watch?v=ELRYpQPxsOo)
+* [Snutt Talk: Removal of Beacons](../../../transcriptions/yt-yRxTXcN-yLE.md) [https://www.youtube.com/watch?v=yRxTXcN-yLE](https://www.youtube.com/watch?v=yRxTXcN-yLE)
+
 ## May 20th, 2022 Video
 * [Introducing the topic of the video](../../../transcriptions/yt-QYMHs1aTyOs,0,50.71666666666667.md) [https://youtube.com/clip/UgkxZ3nwhjcybkF-yU6Xe7nCXgEkWb2ouLJ6](https://youtube.com/clip/UgkxZ3nwhjcybkF-yU6Xe7nCXgEkWb2ouLJ6)
 * [Beacons](../../../transcriptions/yt-QYMHs1aTyOs,60.733333333333334,193.31965.md) [https://youtube.com/embed/QYMHs1aTyOs?autoplay=1&start=60&end=194](https://youtube.com/embed/QYMHs1aTyOs?autoplay=1&start=60&end=194)

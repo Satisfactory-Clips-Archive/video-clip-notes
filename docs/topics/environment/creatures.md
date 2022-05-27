@@ -10,6 +10,9 @@ date: Last Modified
 * [Non Flying Bird](../../topics/environment/creatures/non-flying-bird.md)
 * [Space Giraffe-Tick-Penguin-Whale Thing](../../topics/environment/creatures/space-giraffe-tick-penguin-whale-thing.md)
 
+## May 24th, 2022 Livestream
+* [Q&A: Are harder-to-kill Creatures coming?](../../transcriptions/yt-2v1-zUtlKnc.md) [https://www.youtube.com/watch?v=2v1-zUtlKnc](https://www.youtube.com/watch?v=2v1-zUtlKnc)
+
 ## May 20th, 2022 Video
 * [Introducing the topic of the video](../../transcriptions/yt-QYMHs1aTyOs,0,50.71666666666667.md) [https://youtube.com/clip/UgkxZ3nwhjcybkF-yU6Xe7nCXgEkWb2ouLJ6](https://youtube.com/clip/UgkxZ3nwhjcybkF-yU6Xe7nCXgEkWb2ouLJ6)
 * [End Tag](../../transcriptions/yt-QYMHs1aTyOs,927.md) [https://youtube.com/embed/QYMHs1aTyOs?autoplay=1&start=927](https://youtube.com/embed/QYMHs1aTyOs?autoplay=1&start=927)

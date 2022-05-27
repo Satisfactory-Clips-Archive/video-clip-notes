@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Unplanned Features](../../../topics/features/unplanned-features.md) > Base Defense
 
+## May 24th, 2022 Livestream
+* [Q&A: Tower Defense, when?](../../../transcriptions/yt-tSzwMFuQKUc.md) [https://www.youtube.com/watch?v=tSzwMFuQKUc](https://www.youtube.com/watch?v=tSzwMFuQKUc)
+
 ## March 29th, 2022 Livestream
 * Q&A: Tower Defense, when? [https://www.youtube.com/watch?v=xbk9T1Z94xU](https://www.youtube.com/watch?v=xbk9T1Z94xU)
 * [Community FYI: Don't you dare make a TD Mod, you'll be banned](../../../transcriptions/yt-pChknrrRxO4.md) [https://www.youtube.com/watch?v=pChknrrRxO4](https://www.youtube.com/watch?v=pChknrrRxO4)

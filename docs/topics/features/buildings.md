@@ -27,6 +27,9 @@ date: Last Modified
 * [The HUB](../../topics/features/buildings/the-hub.md)
 * [Water Extractor](../../topics/features/buildings/water-extractor.md)
 
+## May 24th, 2022 Livestream
+* [Q&A: Can you change the snapping point to snap to corners easier?](../../transcriptions/yt-WT4nkH8MJL4.md) [https://www.youtube.com/watch?v=WT4nkH8MJL4](https://www.youtube.com/watch?v=WT4nkH8MJL4)
+
 ## May 20th, 2022 Video
 * [Beacons](../../transcriptions/yt-QYMHs1aTyOs,60.733333333333334,193.31965.md) [https://youtube.com/embed/QYMHs1aTyOs?autoplay=1&start=60&end=194](https://youtube.com/embed/QYMHs1aTyOs?autoplay=1&start=60&end=194)
 

@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Technology](../../../topics/technology.md) > [User Interface](../../../topics/technology/user-interface.md) > Markers
 
+## May 24th, 2022 Livestream
+* [State of Dev](../../../transcriptions/yt-FYTbjlXLFp4.md) [https://www.youtube.com/watch?v=FYTbjlXLFp4](https://www.youtube.com/watch?v=FYTbjlXLFp4)
+* [Q&A: What if we have more than 100 Beacons on the Map, will the rest disappear?](../../../transcriptions/yt-9W52fwmEPEI.md) [https://www.youtube.com/watch?v=9W52fwmEPEI](https://www.youtube.com/watch?v=9W52fwmEPEI)
+* [Snutt Talk: Removal of Beacons](../../../transcriptions/yt-yRxTXcN-yLE.md) [https://www.youtube.com/watch?v=yRxTXcN-yLE](https://www.youtube.com/watch?v=yRxTXcN-yLE)
+
 ## May 20th, 2022 Video
 * [Beacons](../../../transcriptions/yt-QYMHs1aTyOs,60.733333333333334,193.31965.md) [https://youtube.com/embed/QYMHs1aTyOs?autoplay=1&start=60&end=194](https://youtube.com/embed/QYMHs1aTyOs?autoplay=1&start=60&end=194)
 

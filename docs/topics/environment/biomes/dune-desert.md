@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Biomes](../../../topics/environment/biomes.md) > Dune Desert
 
+## May 24th, 2022 Livestream
+* [Q&A: The cave on the crater in the Dune Desert, is that coming in a later Update?](../../../transcriptions/yt-WA3JRlk-8M8.md) [https://www.youtube.com/watch?v=WA3JRlk-8M8](https://www.youtube.com/watch?v=WA3JRlk-8M8)
+
 ## May 10th, 2022 Livestream
 * [Hannah talks Spire Coast](../../../transcriptions/yt-FqhboAjAiYY.md) [https://www.youtube.com/watch?v=FqhboAjAiYY](https://www.youtube.com/watch?v=FqhboAjAiYY)
 * [Q&A: Will the blocked cave entrances in the Dune Desert be updated for Update 6?](../../../transcriptions/yt--ntB2oeW3bQ.md) [https://www.youtube.com/watch?v=-ntB2oeW3bQ](https://www.youtube.com/watch?v=-ntB2oeW3bQ)

@@ -7,6 +7,9 @@ date: Last Modified
 * [Nuclear Refinement](../../../topics/features/power-management/nuclear-energy/nuclear-refinement.md)
 * [Nuclear Waste](../../../topics/features/power-management/nuclear-energy/nuclear-waste.md)
 
+## May 24th, 2022 Livestream
+* [Q&A: Is it safe to make an Alt Recipe Nuclear factory?](../../../transcriptions/yt-Mi7GvyXRA3g.md) [https://www.youtube.com/watch?v=Mi7GvyXRA3g](https://www.youtube.com/watch?v=Mi7GvyXRA3g)
+
 ## May 17th, 2022 Livestream
 * [Q&A: What about the Uranium fuel alt?](../../../transcriptions/yt-4j-WwaYx9sQ.md) [https://www.youtube.com/watch?v=4j-WwaYx9sQ](https://www.youtube.com/watch?v=4j-WwaYx9sQ)
 * [Q&A: Can you ask the Dev team to release some info about the new Recipes?](../../../transcriptions/yt-H43HfFnO8eU.md) [https://www.youtube.com/watch?v=H43HfFnO8eU](https://www.youtube.com/watch?v=H43HfFnO8eU)

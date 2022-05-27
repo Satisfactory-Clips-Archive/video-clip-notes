@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Requested Features](../../../topics/features/requested-features.md) > Holstering Equipment
 
+## May 24th, 2022 Livestream
+* [State of Dev](../../../transcriptions/yt-FYTbjlXLFp4.md) [https://www.youtube.com/watch?v=FYTbjlXLFp4](https://www.youtube.com/watch?v=FYTbjlXLFp4)
+
 ## May 20th, 2022 Video
 * [Holstering Equipment](../../../transcriptions/yt-QYMHs1aTyOs,276.7,303.6166666666667.md) [https://youtube.com/clip/Ugkxl23mIljZL0c1eg63CuF2PBinDm5sL-T1](https://youtube.com/clip/Ugkxl23mIljZL0c1eg63CuF2PBinDm5sL-T1)
 
