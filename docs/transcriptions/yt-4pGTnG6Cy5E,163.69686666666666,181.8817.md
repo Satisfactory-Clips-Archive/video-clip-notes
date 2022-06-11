@@ -9,7 +9,7 @@ topics:
 ---
 # [June 10th, 2022 Video](../2022-06-10.md)
 ## Changes to Hogs
-https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=163&end=182
+https://youtube.com/clip/UgkxJca4g0d4kP0Jyahu4OFYiWBB92417gSk
 
 ### Topics
 * [Environment > Creatures](../topics/environment/creatures.md)

@@ -9,7 +9,7 @@ topics:
 ---
 # [June 10th, 2022 Video](../2022-06-10.md)
 ## Not all plans completed
-https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=268&end=327
+https://youtube.com/clip/Ugkx28L1_RdN_TREAfd7SUPYdl1VXIbWxHLF
 
 ### Topics
 * [Environment > Creatures](../topics/environment/creatures.md)

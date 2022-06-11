@@ -6,7 +6,7 @@ date: Last Modified
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > AWESOME Store
 
 ## June 10th, 2022 Video
-* [Changes to research visibility / unlock preqrequisites](../../../transcriptions/yt-4pGTnG6Cy5E,478.6782,531.8646666666667.md) [https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=478&end=532](https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=478&end=532)
+* [Changes to research visibility / unlock prerequisites](../../../transcriptions/yt-4pGTnG6Cy5E,478.6782,531.8646666666667.md) [https://youtube.com/clip/Ugkxy2MjxoBkqBz7u9uSBYRkMAHVCJvSUIHj](https://youtube.com/clip/Ugkxy2MjxoBkqBz7u9uSBYRkMAHVCJvSUIHj)
 
 ## April 15th, 2022 Video
 * [Snutt & Stefan Talk: Progression in Sprint 12](../../../transcriptions/yt-7I3NGAm3j_4,1315.8145,1405.5708333333334.md) [https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=1315&end=1406](https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=1315&end=1406)

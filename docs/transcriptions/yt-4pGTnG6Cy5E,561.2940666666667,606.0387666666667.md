@@ -9,7 +9,7 @@ topics:
 ---
 # [June 10th, 2022 Video](../2022-06-10.md)
 ## One More Thing™
-https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=561&end=607
+https://youtube.com/clip/Ugkxjku57B-UdH9SiPf4P7C69IfucIrZS2gS
 
 ### Topics
 * [Features > Buildings > Overclocking & Underclocking](../topics/features/buildings/overclocking-and-underclocking.md)

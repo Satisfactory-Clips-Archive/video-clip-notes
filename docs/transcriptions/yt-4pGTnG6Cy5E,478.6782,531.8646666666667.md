@@ -1,5 +1,5 @@
 ---
-title: "June 10th, 2022 Video Changes to research visibility / unlock preqrequisites"
+title: "June 10th, 2022 Video Changes to research visibility / unlock prerequisites"
 date: "2022-06-10"
 layout: transcript
 topics:
@@ -9,8 +9,8 @@ topics:
     - "satisfactory-updates/teasers-and-trailers/update-6-teasers"
 ---
 # [June 10th, 2022 Video](../2022-06-10.md)
-## Changes to research visibility / unlock preqrequisites
-https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=478&end=532
+## Changes to research visibility / unlock prerequisites
+https://youtube.com/clip/Ugkxy2MjxoBkqBz7u9uSBYRkMAHVCJvSUIHj
 
 ### Topics
 * [Features > Buildings > AWESOME Store](../topics/features/buildings/awesome-store.md)

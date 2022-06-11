@@ -13,7 +13,7 @@ topics:
 ---
 # [June 10th, 2022 Video](../2022-06-10.md)
 ## Factory Building, Exploration, Creatures, and Combat
-https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=353&end=369
+https://youtube.com/clip/UgkxG3vBIOOiE9T3nlqc6y9wOoS9g5pzIgUe
 
 ### Topics
 * [Environment](../topics/environment.md)

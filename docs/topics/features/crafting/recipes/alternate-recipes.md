@@ -6,7 +6,7 @@ date: Last Modified
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > [Crafting](../../../../topics/features/crafting.md) > [Recipes](../../../../topics/features/crafting/recipes.md) > Alternate Recipes
 
 ## June 10th, 2022 Video
-* [Alt Recipes moved to the M.A.M.](../../../../transcriptions/yt-4pGTnG6Cy5E,433.96686666666665,478.64483333333334.md) [https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=433&end=479](https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=433&end=479)
+* [Alt Recipes moved to the M.A.M.](../../../../transcriptions/yt-4pGTnG6Cy5E,433.96686666666665,478.64483333333334.md) [https://youtube.com/clip/UgkxHMhL5ek5KJKltJpqy_WVLb2OtH9ZtpmM](https://youtube.com/clip/UgkxHMhL5ek5KJKltJpqy_WVLb2OtH9ZtpmM)
 
 ## June 7th, 2022 Livestream
 * [Q&A: Will there be Alt Recipes for the new Ammo types?](../../../../transcriptions/yt-SMScXkpXKPc.md) [https://www.youtube.com/watch?v=SMScXkpXKPc](https://www.youtube.com/watch?v=SMScXkpXKPc)

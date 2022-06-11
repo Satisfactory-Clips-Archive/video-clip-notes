@@ -9,7 +9,7 @@ topics:
 ---
 # [June 10th, 2022 Video](../2022-06-10.md)
 ## Blade Runners
-https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=424&end=434
+https://youtube.com/clip/Ugkx-pleBd8puxUPWn2y3ZryXwojJCacc9rl
 
 ### Topics
 * [Features > Equipment > Blade Runners](../topics/features/equipment/blade-runners.md)

@@ -28,7 +28,7 @@ date: Last Modified
 * [Water Extractor](../../topics/features/buildings/water-extractor.md)
 
 ## June 10th, 2022 Video
-* [Factory Building, Exploration, Creatures, and Combat](../../transcriptions/yt-4pGTnG6Cy5E,353.92023333333333,368.00096666666667.md) [https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=353&end=369](https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=353&end=369)
+* [Factory Building, Exploration, Creatures, and Combat](../../transcriptions/yt-4pGTnG6Cy5E,353.92023333333333,368.00096666666667.md) [https://youtube.com/clip/UgkxG3vBIOOiE9T3nlqc6y9wOoS9g5pzIgUe](https://youtube.com/clip/UgkxG3vBIOOiE9T3nlqc6y9wOoS9g5pzIgUe)
 
 ## May 24th, 2022 Livestream
 * [Q&A: Can you change the snapping point to snap to corners easier?](../../transcriptions/yt-WT4nkH8MJL4.md) [https://www.youtube.com/watch?v=WT4nkH8MJL4](https://www.youtube.com/watch?v=WT4nkH8MJL4)

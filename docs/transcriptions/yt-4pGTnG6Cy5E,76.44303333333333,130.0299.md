@@ -9,7 +9,7 @@ topics:
 ---
 # [June 10th, 2022 Video](../2022-06-10.md)
 ## Rebuilding the Creature AI
-https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=76&end=131
+https://youtube.com/clip/UgkxhXuFoI418NdFDDn-F4uBicz-gX7BFrtn
 
 ### Topics
 * [Environment > Creatures](../topics/environment/creatures.md)

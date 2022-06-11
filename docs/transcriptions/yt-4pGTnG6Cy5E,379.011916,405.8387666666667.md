@@ -10,7 +10,7 @@ topics:
 ---
 # [June 10th, 2022 Video](../2022-06-10.md)
 ## Alien Protein
-https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=379&end=406
+https://youtube.com/clip/Ugkxe0te-xfPno-KDVT9BUT0_Njd_nFU1-Cc
 
 ### Topics
 * [Environment > Creatures](../topics/environment/creatures.md)

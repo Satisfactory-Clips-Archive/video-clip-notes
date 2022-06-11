@@ -1,5 +1,5 @@
 ---
-title: "June 10th, 2022 Video Changes to Stingers"
+title: "June 10th, 2022 Video Changes to Spitters"
 date: "2022-06-10"
 layout: transcript
 topics:
@@ -8,8 +8,8 @@ topics:
     - "satisfactory-updates/teasers-and-trailers/update-6-teasers"
 ---
 # [June 10th, 2022 Video](../2022-06-10.md)
-## Changes to Stingers
-https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=130&end=164
+## Changes to Spitters
+https://youtube.com/clip/Ugkx5p3yzuWnToECHqClg65VL0NpokUvU_qd
 
 ### Topics
 * [Environment > Creatures](../topics/environment/creatures.md)

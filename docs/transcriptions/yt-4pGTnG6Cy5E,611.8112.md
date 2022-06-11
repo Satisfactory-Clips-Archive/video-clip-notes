@@ -7,7 +7,7 @@ topics:
 ---
 # [June 10th, 2022 Video](../2022-06-10.md)
 ## End Tag
-https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=611
+https://youtube.com/clip/Ugkx4jMfKhSxOCZESu0ECeps_ckP9VDewOvD
 
 ### Topics
 * [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)

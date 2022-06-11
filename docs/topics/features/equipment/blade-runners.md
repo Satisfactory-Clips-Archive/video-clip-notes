@@ -6,7 +6,7 @@ date: Last Modified
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Equipment](../../../topics/features/equipment.md) > Blade Runners
 
 ## June 10th, 2022 Video
-* [Blade Runners](../../../transcriptions/yt-4pGTnG6Cy5E,424.35726666666665,433.9335.md) [https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=424&end=434](https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=424&end=434)
+* [Blade Runners](../../../transcriptions/yt-4pGTnG6Cy5E,424.35726666666665,433.9335.md) [https://youtube.com/clip/Ugkx-pleBd8puxUPWn2y3ZryXwojJCacc9rl](https://youtube.com/clip/Ugkx-pleBd8puxUPWn2y3ZryXwojJCacc9rl)
 
 ## May 24th, 2022 Livestream
 * [State of Dev](../../../transcriptions/yt-FYTbjlXLFp4.md) [https://www.youtube.com/watch?v=FYTbjlXLFp4](https://www.youtube.com/watch?v=FYTbjlXLFp4)

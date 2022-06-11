@@ -9,7 +9,7 @@ topics:
 ---
 # [June 10th, 2022 Video](../2022-06-10.md)
 ## The plan for Creatures in the future
-https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=326&end=354
+https://youtube.com/clip/UgkxEyKSHTjnU-1Tbgg1sG_sQ_duxf9lhqcc
 
 ### Topics
 * [Environment > Creatures](../topics/environment/creatures.md)

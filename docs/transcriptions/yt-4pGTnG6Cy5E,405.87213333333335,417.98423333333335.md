@@ -10,7 +10,7 @@ topics:
 ---
 # [June 10th, 2022 Video](../2022-06-10.md)
 ## Smokeless Powder
-https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=405&end=418
+https://youtube.com/clip/Ugkx4sj95irpBZsaUo6XEv6TneshNwvZbsk9
 
 ### Topics
 * [Environment > Creatures](../topics/environment/creatures.md)

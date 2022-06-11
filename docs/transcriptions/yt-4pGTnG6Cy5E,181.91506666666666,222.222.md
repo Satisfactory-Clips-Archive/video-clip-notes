@@ -9,7 +9,7 @@ topics:
 ---
 # [June 10th, 2022 Video](../2022-06-10.md)
 ## General AI behaviour states
-https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=181&end=223
+https://youtube.com/clip/UgkxciTnoZEHTq1oGIeiMsv0TYZoItbt4TwT
 
 ### Topics
 * [Environment > Creatures](../topics/environment/creatures.md)

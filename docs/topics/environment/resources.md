@@ -15,7 +15,7 @@ date: Last Modified
 * [Water](../../topics/environment/resources/water.md)
 
 ## June 10th, 2022 Video
-* [Alien Protein](../../transcriptions/yt-4pGTnG6Cy5E,379.011916,405.8387666666667.md) [https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=379&end=406](https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=379&end=406)
+* [Alien Protein](../../transcriptions/yt-4pGTnG6Cy5E,379.011916,405.8387666666667.md) [https://youtube.com/clip/Ugkxe0te-xfPno-KDVT9BUT0_Njd_nFU1-Cc](https://youtube.com/clip/Ugkxe0te-xfPno-KDVT9BUT0_Njd_nFU1-Cc)
 
 ## June 7th, 2022 Livestream
 * [Q&A: Can we capture rain as water?](../../transcriptions/yt-nMhVjlGVTlY.md) [https://www.youtube.com/watch?v=nMhVjlGVTlY](https://www.youtube.com/watch?v=nMhVjlGVTlY)

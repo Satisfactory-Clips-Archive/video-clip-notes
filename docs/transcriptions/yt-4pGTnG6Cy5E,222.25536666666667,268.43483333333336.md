@@ -9,7 +9,7 @@ topics:
 ---
 # [June 10th, 2022 Video](../2022-06-10.md)
 ## Q&A: What is that cabbage-looking yolk thing?
-https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=222&end=269
+https://youtube.com/clip/UgkxJ-cxuLoYsQ8c7G9WtpWLC0-WVI8UxebJ
 
 ### Topics
 * [Environment > Creatures](../topics/environment/creatures.md)

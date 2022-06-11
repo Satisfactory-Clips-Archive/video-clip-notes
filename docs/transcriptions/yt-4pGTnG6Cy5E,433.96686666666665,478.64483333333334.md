@@ -9,7 +9,7 @@ topics:
 ---
 # [June 10th, 2022 Video](../2022-06-10.md)
 ## Alt Recipes moved to the M.A.M.
-https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=433&end=479
+https://youtube.com/clip/UgkxHMhL5ek5KJKltJpqy_WVLb2OtH9ZtpmM
 
 ### Topics
 * [Features > Crafting > Recipes > Alternate Recipes](../topics/features/crafting/recipes/alternate-recipes.md)

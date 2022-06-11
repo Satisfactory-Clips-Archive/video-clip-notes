@@ -12,16 +12,16 @@ date: Last Modified
 
 ## June 10th, 2022 Video
 * [Cold Open](../../transcriptions/yt-4pGTnG6Cy5E,,40.57386666666667.md) [https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=0&end=41](https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=0&end=41)
-* [Rebuilding the Creature AI](../../transcriptions/yt-4pGTnG6Cy5E,76.44303333333333,130.0299.md) [https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=76&end=131](https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=76&end=131)
-* [Changes to Stingers](../../transcriptions/yt-4pGTnG6Cy5E,130.06326666666666,163.6635.md) [https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=130&end=164](https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=130&end=164)
-* [Changes to Hogs](../../transcriptions/yt-4pGTnG6Cy5E,163.69686666666666,181.8817.md) [https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=163&end=182](https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=163&end=182)
-* [General AI behaviour states](../../transcriptions/yt-4pGTnG6Cy5E,181.91506666666666,222.222.md) [https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=181&end=223](https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=181&end=223)
-* [Q&A: What is that cabbage-looking yolk thing?](../../transcriptions/yt-4pGTnG6Cy5E,222.25536666666667,268.43483333333336.md) [https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=222&end=269](https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=222&end=269)
-* [Not all plans completed](../../transcriptions/yt-4pGTnG6Cy5E,268.4682,326.2259.md) [https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=268&end=327](https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=268&end=327)
-* [The plan for Creatures in the future](../../transcriptions/yt-4pGTnG6Cy5E,326.2592666666667,353.88686666666666.md) [https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=326&end=354](https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=326&end=354)
-* [Factory Building, Exploration, Creatures, and Combat](../../transcriptions/yt-4pGTnG6Cy5E,353.92023333333333,368.00096666666667.md) [https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=353&end=369](https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=353&end=369)
-* [Alien Protein](../../transcriptions/yt-4pGTnG6Cy5E,379.011916,405.8387666666667.md) [https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=379&end=406](https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=379&end=406)
-* [Smokeless Powder](../../transcriptions/yt-4pGTnG6Cy5E,405.87213333333335,417.98423333333335.md) [https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=405&end=418](https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=405&end=418)
+* [Rebuilding the Creature AI](../../transcriptions/yt-4pGTnG6Cy5E,76.44303333333333,130.0299.md) [https://youtube.com/clip/UgkxhXuFoI418NdFDDn-F4uBicz-gX7BFrtn](https://youtube.com/clip/UgkxhXuFoI418NdFDDn-F4uBicz-gX7BFrtn)
+* [Changes to Spitters](../../transcriptions/yt-4pGTnG6Cy5E,130.06326666666666,163.6635.md) [https://youtube.com/clip/Ugkx5p3yzuWnToECHqClg65VL0NpokUvU_qd](https://youtube.com/clip/Ugkx5p3yzuWnToECHqClg65VL0NpokUvU_qd)
+* [Changes to Hogs](../../transcriptions/yt-4pGTnG6Cy5E,163.69686666666666,181.8817.md) [https://youtube.com/clip/UgkxJca4g0d4kP0Jyahu4OFYiWBB92417gSk](https://youtube.com/clip/UgkxJca4g0d4kP0Jyahu4OFYiWBB92417gSk)
+* [General AI behaviour states](../../transcriptions/yt-4pGTnG6Cy5E,181.91506666666666,222.222.md) [https://youtube.com/clip/UgkxciTnoZEHTq1oGIeiMsv0TYZoItbt4TwT](https://youtube.com/clip/UgkxciTnoZEHTq1oGIeiMsv0TYZoItbt4TwT)
+* [Q&A: What is that cabbage-looking yolk thing?](../../transcriptions/yt-4pGTnG6Cy5E,222.25536666666667,268.43483333333336.md) [https://youtube.com/clip/UgkxJ-cxuLoYsQ8c7G9WtpWLC0-WVI8UxebJ](https://youtube.com/clip/UgkxJ-cxuLoYsQ8c7G9WtpWLC0-WVI8UxebJ)
+* [Not all plans completed](../../transcriptions/yt-4pGTnG6Cy5E,268.4682,326.2259.md) [https://youtube.com/clip/Ugkx28L1_RdN_TREAfd7SUPYdl1VXIbWxHLF](https://youtube.com/clip/Ugkx28L1_RdN_TREAfd7SUPYdl1VXIbWxHLF)
+* [The plan for Creatures in the future](../../transcriptions/yt-4pGTnG6Cy5E,326.2592666666667,353.88686666666666.md) [https://youtube.com/clip/UgkxEyKSHTjnU-1Tbgg1sG_sQ_duxf9lhqcc](https://youtube.com/clip/UgkxEyKSHTjnU-1Tbgg1sG_sQ_duxf9lhqcc)
+* [Factory Building, Exploration, Creatures, and Combat](../../transcriptions/yt-4pGTnG6Cy5E,353.92023333333333,368.00096666666667.md) [https://youtube.com/clip/UgkxG3vBIOOiE9T3nlqc6y9wOoS9g5pzIgUe](https://youtube.com/clip/UgkxG3vBIOOiE9T3nlqc6y9wOoS9g5pzIgUe)
+* [Alien Protein](../../transcriptions/yt-4pGTnG6Cy5E,379.011916,405.8387666666667.md) [https://youtube.com/clip/Ugkxe0te-xfPno-KDVT9BUT0_Njd_nFU1-Cc](https://youtube.com/clip/Ugkxe0te-xfPno-KDVT9BUT0_Njd_nFU1-Cc)
+* [Smokeless Powder](../../transcriptions/yt-4pGTnG6Cy5E,405.87213333333335,417.98423333333335.md) [https://youtube.com/clip/Ugkx4sj95irpBZsaUo6XEv6TneshNwvZbsk9](https://youtube.com/clip/Ugkx4sj95irpBZsaUo6XEv6TneshNwvZbsk9)
 
 ## June 7th, 2022 Livestream
 * [Q&A: Will the Nuke kill Stingers?](../../transcriptions/yt-VO5OR8mFNjs.md) [https://www.youtube.com/watch?v=VO5OR8mFNjs](https://www.youtube.com/watch?v=VO5OR8mFNjs)
