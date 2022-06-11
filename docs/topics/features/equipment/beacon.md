@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Equipment](../../../topics/features/equipment.md) > Beacon
 
+## June 7th, 2022 Livestream
+* [Q&A: Will we get a refund on the Alt Beacon Recipe?](../../../transcriptions/yt-ZOsTTxM30ao.md) [https://www.youtube.com/watch?v=ZOsTTxM30ao](https://www.youtube.com/watch?v=ZOsTTxM30ao)
+
 ## May 24th, 2022 Livestream
 * [State of Dev](../../../transcriptions/yt-FYTbjlXLFp4.md) [https://www.youtube.com/watch?v=FYTbjlXLFp4](https://www.youtube.com/watch?v=FYTbjlXLFp4)
 * [Q&A: Do we need to stock up on Beacons?](../../../transcriptions/yt-NIbuOAm0Yeo.md) [https://www.youtube.com/watch?v=NIbuOAm0Yeo](https://www.youtube.com/watch?v=NIbuOAm0Yeo)

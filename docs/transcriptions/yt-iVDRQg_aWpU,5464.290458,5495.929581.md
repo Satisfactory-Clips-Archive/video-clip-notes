@@ -10,12 +10,7 @@ topics:
 # [November 23rd, 2021 Livestream](../2021-11-23.md)
 ## Q&A: Will there be Mod support for Dedicated Servers?
 https://youtube.com/clip/UgkxsP5lcPdeWaIlvmcA1Dn8o2vr7bW4M5x6
-<details>
-<summary>This question may have been asked previously at least 2 other times, as recently as November 2021 and as early as November 2020.</summary>
-
-* [November 2nd, 2021 Livestream Q&A: Have you discussed Mods working with Dedicated Servers?](./yt-_FSlbFuaHq0.md) [https://www.youtube.com/watch?v=_FSlbFuaHq0](https://www.youtube.com/watch?v=_FSlbFuaHq0)
-* [November 24th, 2020 Livestream Q&A: Are Dedicated Servers going to have Mod support?](./yt-PD79jEZuOAU.md) [https://www.youtube.com/watch?v=PD79jEZuOAU](https://www.youtube.com/watch?v=PD79jEZuOAU)
-</details>
+This question was possibly duplicated with a more recent answer: [June 7th, 2022 Livestream Q&A: Is there any work ongoing with Mods for Dedicated Servers?](./yt-rSNJPtn2N6k.md) [https://www.youtube.com/watch?v=rSNJPtn2N6k](https://www.youtube.com/watch?v=rSNJPtn2N6k)
 
 
 ### Topics

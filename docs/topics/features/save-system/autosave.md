@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Save System](../../../topics/features/save-system.md) > Autosave
 
+## June 7th, 2022 Livestream
+* [Q&A: Any buffs to the Autosave on Servers coming?](../../../transcriptions/yt-W4W-x6usIVg.md) [https://www.youtube.com/watch?v=W4W-x6usIVg](https://www.youtube.com/watch?v=W4W-x6usIVg)
+
 ## April 12th, 2022 Livestream
 * [Q&A: Do you plan on addressing the auto-save freeze up before 1.0, or at all?](../../../transcriptions/yt-n13Cbh3Jn8Y.md) [https://www.youtube.com/watch?v=n13Cbh3Jn8Y](https://www.youtube.com/watch?v=n13Cbh3Jn8Y)
 

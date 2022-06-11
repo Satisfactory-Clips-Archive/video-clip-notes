@@ -14,6 +14,12 @@ date: Last Modified
 * [Steel](../../topics/environment/resources/steel.md)
 * [Water](../../topics/environment/resources/water.md)
 
+## June 10th, 2022 Video
+* [Alien Protein](../../transcriptions/yt-4pGTnG6Cy5E,379.011916,405.8387666666667.md) [https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=379&end=406](https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=379&end=406)
+
+## June 7th, 2022 Livestream
+* [Q&A: Can we capture rain as water?](../../transcriptions/yt-nMhVjlGVTlY.md) [https://www.youtube.com/watch?v=nMhVjlGVTlY](https://www.youtube.com/watch?v=nMhVjlGVTlY)
+
 ## May 17th, 2022 Livestream
 * [State of Dev](../../transcriptions/yt-Z6M_0T26BIA.md) [https://www.youtube.com/watch?v=Z6M_0T26BIA](https://www.youtube.com/watch?v=Z6M_0T26BIA)
 

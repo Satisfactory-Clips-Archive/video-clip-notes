@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../topics.md) > [Mods](../../topics/mods.md) > Official Mod Support
 * [Steam Workshop](../../topics/mods/official-mod-support/steam-workshop.md)
 
+## June 7th, 2022 Livestream
+* [Q&A: Is there any work ongoing with Mods for Dedicated Servers?](../../transcriptions/yt-rSNJPtn2N6k.md) [https://www.youtube.com/watch?v=rSNJPtn2N6k](https://www.youtube.com/watch?v=rSNJPtn2N6k)
+
 ## March 29th, 2022 Livestream
 * [Q&A: If Mod support comes out will you be able to help Mod-related crashes?](../../transcriptions/yt-PqZNvyKik9s.md) [https://www.youtube.com/watch?v=PqZNvyKik9s](https://www.youtube.com/watch?v=PqZNvyKik9s)
 * [Q&A: Will you make source code obligatory for Mods?](../../transcriptions/yt-EXY14vpfatE.md) [https://www.youtube.com/watch?v=EXY14vpfatE](https://www.youtube.com/watch?v=EXY14vpfatE)

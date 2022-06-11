@@ -10,6 +10,8 @@ topics:
 # [June 22nd, 2021 Livestream](../2021-06-22.md)
 ## Q&A: What about river physics, textures- any updates on that any time soon?
 https://www.youtube.com/watch?v=ZPyYBY3IW00
+This question was possibly replaced with a more recent answer: [June 7th, 2022 Livestream Q&A: Are water reflections/ water physics coming with the Update?](./yt-Ww_ilqIoBjE.md) [https://www.youtube.com/watch?v=Ww_ilqIoBjE](https://www.youtube.com/watch?v=Ww_ilqIoBjE)
+
 <details>
 <summary>This question may have been asked previously at least 3 other times, as recently as June 2021 and as early as November 2020.</summary>
 

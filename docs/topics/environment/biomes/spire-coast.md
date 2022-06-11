@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Biomes](../../../topics/environment/biomes.md) > Spire Coast
 
+## June 7th, 2022 Livestream
+* [Q&A: Will the World Update go on the EA and Experimental branches at the same time ?](../../../transcriptions/yt-k-cQOW2WL4w.md) [https://www.youtube.com/watch?v=k-cQOW2WL4w](https://www.youtube.com/watch?v=k-cQOW2WL4w)
+
 ## May 24th, 2022 Livestream
 * [Q&A: New drop sites?](../../../transcriptions/yt-o62O0oCl7yw.md) [https://www.youtube.com/watch?v=o62O0oCl7yw](https://www.youtube.com/watch?v=o62O0oCl7yw)
 * [Q&A: If I mine on nodes and they get moved will the Miner still work?](../../../transcriptions/yt-PAwD9jhW37w.md) [https://www.youtube.com/watch?v=PAwD9jhW37w](https://www.youtube.com/watch?v=PAwD9jhW37w)

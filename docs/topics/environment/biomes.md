@@ -18,6 +18,9 @@ date: Last Modified
 * [The Great Canyon](../../topics/environment/biomes/the-great-canyon.md)
 * [Unplanned Biomes](../../topics/environment/biomes/unplanned-biomes.md)
 
+## June 7th, 2022 Livestream
+* Q&A: Lava zone, when? [https://www.youtube.com/watch?v=ZEnFaSNPCck](https://www.youtube.com/watch?v=ZEnFaSNPCck)
+
 ## May 24th, 2022 Livestream
 * [Q&A: Any plans to add the Biome/zone names to the in-game Map?](../../transcriptions/yt-CMp2H71Cw6k.md) [https://www.youtube.com/watch?v=CMp2H71Cw6k](https://www.youtube.com/watch?v=CMp2H71Cw6k)
 

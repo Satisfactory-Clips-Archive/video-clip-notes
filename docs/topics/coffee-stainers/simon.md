@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Simon
 * [Simon Saga](../../topics/coffee-stainers/simon/simon-saga.md)
 
+## June 7th, 2022 Livestream
+* [Q&A: Will you get Hannah on stream for the Swamp changes?](../../transcriptions/yt-uDgfoaD4Sfs.md) [https://www.youtube.com/watch?v=uDgfoaD4Sfs](https://www.youtube.com/watch?v=uDgfoaD4Sfs)
+
 ## April 19th, 2022 Livestream
 * [Q&A: What happens so that "Don't praise Simon" is a rule?](../../transcriptions/yt-NUzhUkZFBss.md) [https://www.youtube.com/watch?v=NUzhUkZFBss](https://www.youtube.com/watch?v=NUzhUkZFBss)
 

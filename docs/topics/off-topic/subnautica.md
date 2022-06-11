@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Subnautica
 
+## June 7th, 2022 Livestream
+* [Community FYI: Don't get Hannah started on Lava, she'll just tell you to "play Subnautica"](../../transcriptions/yt-_dTOUveZlDA.md) [https://www.youtube.com/watch?v=_dTOUveZlDA](https://www.youtube.com/watch?v=_dTOUveZlDA)
+
 ## May 10th, 2022 Livestream
 * [Hannah talks Spire Coast](../../transcriptions/yt-FqhboAjAiYY.md) [https://www.youtube.com/watch?v=FqhboAjAiYY](https://www.youtube.com/watch?v=FqhboAjAiYY)
 

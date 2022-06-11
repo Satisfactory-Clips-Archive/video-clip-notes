@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > M.A.M.
 
+## June 10th, 2022 Video
+* [Changes to research visibility / unlock preqrequisites](../../../transcriptions/yt-4pGTnG6Cy5E,478.6782,531.8646666666667.md) [https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=478&end=532](https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=478&end=532)
+
 ## May 13th, 2022 Video
 * [Introducing the Map changes](../../../transcriptions/yt-2vAUX3YLH-c,56.423033333333336,142.07526666666666.md) [https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=56&end=143](https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=56&end=143)
 

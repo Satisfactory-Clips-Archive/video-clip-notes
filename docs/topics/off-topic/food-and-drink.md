@@ -10,6 +10,10 @@ date: Last Modified
 * [Pizza](../../topics/off-topic/food-and-drink/pizza.md)
 * [Semlor](../../topics/off-topic/food-and-drink/semlor.md)
 
+## June 7th, 2022 Livestream
+* [Snutt Talk: Wendy's™](../../transcriptions/yt-CxZCLTgH8Ao.md) [https://www.youtube.com/watch?v=CxZCLTgH8Ao](https://www.youtube.com/watch?v=CxZCLTgH8Ao)
+* [Q&A: Is it swede or turnip?](../../transcriptions/yt-ra73a8N4tyg.md) [https://www.youtube.com/watch?v=ra73a8N4tyg](https://www.youtube.com/watch?v=ra73a8N4tyg)
+
 ## May 3rd, 2022 Livestream
 * [Q&A: Will we be able to capture wild beasts & farm them for milk & eggs?](../../transcriptions/yt-1-qnuaEigs8.md) [https://www.youtube.com/watch?v=1-qnuaEigs8](https://www.youtube.com/watch?v=1-qnuaEigs8)
 

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > [Power Management](../../../../topics/features/power-management.md) > [Nuclear Energy](../../../../topics/features/power-management/nuclear-energy.md) > Nuclear Waste
 
+## June 7th, 2022 Livestream
+* [Q&A: Will Nukes use Waste?](../../../../transcriptions/yt-Z2ncq57UyC0.md) [https://www.youtube.com/watch?v=Z2ncq57UyC0](https://www.youtube.com/watch?v=Z2ncq57UyC0)
+
 ## May 3rd, 2022 Livestream
 * [Q&A: Do you approve of the Lizard Doggo Nuclear Waste disposal method?](../../../../transcriptions/yt-aMX03pHxmII.md) [https://www.youtube.com/watch?v=aMX03pHxmII](https://www.youtube.com/watch?v=aMX03pHxmII)
 

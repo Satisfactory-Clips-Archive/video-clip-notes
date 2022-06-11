@@ -5,6 +5,14 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > [Crafting](../../../../topics/features/crafting.md) > [Recipes](../../../../topics/features/crafting/recipes.md) > Alternate Recipes
 
+## June 10th, 2022 Video
+* [Alt Recipes moved to the M.A.M.](../../../../transcriptions/yt-4pGTnG6Cy5E,433.96686666666665,478.64483333333334.md) [https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=433&end=479](https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=433&end=479)
+
+## June 7th, 2022 Livestream
+* [Q&A: Will there be Alt Recipes for the new Ammo types?](../../../../transcriptions/yt-SMScXkpXKPc.md) [https://www.youtube.com/watch?v=SMScXkpXKPc](https://www.youtube.com/watch?v=SMScXkpXKPc)
+* [Q&A: Will Nukes use Waste?](../../../../transcriptions/yt-Z2ncq57UyC0.md) [https://www.youtube.com/watch?v=Z2ncq57UyC0](https://www.youtube.com/watch?v=Z2ncq57UyC0)
+* [Q&A: Will we get a refund on the Alt Beacon Recipe?](../../../../transcriptions/yt-ZOsTTxM30ao.md) [https://www.youtube.com/watch?v=ZOsTTxM30ao](https://www.youtube.com/watch?v=ZOsTTxM30ao)
+
 ## May 24th, 2022 Livestream
 * [State of Dev](../../../../transcriptions/yt-FYTbjlXLFp4.md) [https://www.youtube.com/watch?v=FYTbjlXLFp4](https://www.youtube.com/watch?v=FYTbjlXLFp4)
 * [Q&A: Does it mean we get more Hard Drives than normal?](../../../../transcriptions/yt-08AYOkrt2dM.md) [https://www.youtube.com/watch?v=08AYOkrt2dM](https://www.youtube.com/watch?v=08AYOkrt2dM)

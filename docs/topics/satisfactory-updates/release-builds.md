@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > Release Builds
 
+## June 7th, 2022 Livestream
+* [State of Dev](../../transcriptions/yt-Hk3kvpq7Ofo.md) [https://www.youtube.com/watch?v=Hk3kvpq7Ofo](https://www.youtube.com/watch?v=Hk3kvpq7Ofo)
+* [Q&A: Will the World Update go on the EA and Experimental branches at the same time ?](../../transcriptions/yt-k-cQOW2WL4w.md) [https://www.youtube.com/watch?v=k-cQOW2WL4w](https://www.youtube.com/watch?v=k-cQOW2WL4w)
+
 ## May 17th, 2022 Livestream
 * [Q&A: What are the advantages and disadvantages of running the Experimental build?](../../transcriptions/yt-7R13FVZlFPw.md) [https://www.youtube.com/watch?v=7R13FVZlFPw](https://www.youtube.com/watch?v=7R13FVZlFPw)
 * [Snutt Talk: Update 6 may be released on Experimental without being feature-complete](../../transcriptions/yt-h3sRYjiX1ik.md) [https://www.youtube.com/watch?v=h3sRYjiX1ik](https://www.youtube.com/watch?v=h3sRYjiX1ik)

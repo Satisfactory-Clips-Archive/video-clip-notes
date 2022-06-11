@@ -8,6 +8,8 @@ topics:
 # [May 25th, 2021 Livestream](../2021-05-25.md)
 ## Q&A: Can you add Mk.3 Pipes?
 https://www.youtube.com/watch?v=G3EjiEP-6iU
+This question was possibly duplicated with a more recent answer: [June 7th, 2022 Livestream Q&A: Mk.3 Pipes?](./yt-8nkuQhlSKfU.md) [https://www.youtube.com/watch?v=8nkuQhlSKfU](https://www.youtube.com/watch?v=8nkuQhlSKfU)
+
 
 ### Topics
 * [Features > Fluids > Pipes](../topics/features/fluids/pipes.md)

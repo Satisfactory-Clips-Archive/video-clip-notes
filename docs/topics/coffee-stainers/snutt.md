@@ -8,6 +8,9 @@ date: Last Modified
 * [Snutt Burger Time](../../topics/coffee-stainers/snutt/snutt-burger-time.md)
 * [Snutty Mays](../../topics/coffee-stainers/snutt/snutty-mays.md)
 
+## June 7th, 2022 Livestream
+* [Community FYI: I loved your build-up to the detonation of the Nuke](../../transcriptions/yt--s3CLYiLKlI.md) [https://www.youtube.com/watch?v=-s3CLYiLKlI](https://www.youtube.com/watch?v=-s3CLYiLKlI)
+
 ## May 24th, 2022 Livestream
 * [Q&A: Where's my Alpha key?](../../transcriptions/yt-49DOk22E05k.md) [https://www.youtube.com/watch?v=49DOk22E05k](https://www.youtube.com/watch?v=49DOk22E05k)
 * [Q&A: Do you speak Swedish, Snutt?](../../transcriptions/yt-9ERwCDh-u7E.md) [https://www.youtube.com/watch?v=9ERwCDh-u7E](https://www.youtube.com/watch?v=9ERwCDh-u7E)

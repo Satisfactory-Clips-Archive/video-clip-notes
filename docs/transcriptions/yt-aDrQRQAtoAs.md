@@ -9,11 +9,7 @@ topics:
 # [May 24th, 2022 Livestream](../2022-05-24.md)
 ## Q&A: What is the likelihood of lower-Tier Recipes getting a rebalance?
 https://www.youtube.com/watch?v=aDrQRQAtoAs
-<details>
-<summary>This question may have been asked previously at least 1 other time, as recently as May 2022.</summary>
-
-* [May 3rd, 2022 Livestream Q&A: Will Recipes get a do-over before 1.0?](./yt-aOsUEy25oPQ.md) [https://www.youtube.com/watch?v=aOsUEy25oPQ](https://www.youtube.com/watch?v=aOsUEy25oPQ)
-</details>
+This question was possibly duplicated with a more recent answer: [June 7th, 2022 Livestream Q&A: What Recipes are you looking for to rebalance, if any?](./yt-9Mhn8S_U0DE.md) [https://www.youtube.com/watch?v=9Mhn8S_U0DE](https://www.youtube.com/watch?v=9Mhn8S_U0DE)
 
 
 ### Topics

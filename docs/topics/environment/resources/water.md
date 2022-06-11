@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Resources](../../../topics/environment/resources.md) > Water
 
+## June 7th, 2022 Livestream
+* [Q&A: Are water reflections/ water physics coming with the Update?](../../../transcriptions/yt-Ww_ilqIoBjE.md) [https://www.youtube.com/watch?v=Ww_ilqIoBjE](https://www.youtube.com/watch?v=Ww_ilqIoBjE)
+* [Q&A: Can we capture rain as water?](../../../transcriptions/yt-nMhVjlGVTlY.md) [https://www.youtube.com/watch?v=nMhVjlGVTlY](https://www.youtube.com/watch?v=nMhVjlGVTlY)
+
 ## November 9th, 2021 Livestream
 * [Q&A: How does Water work, I need help with my Coal Generators?](../../../transcriptions/yt-Lgaj7mVtT8I.md) [https://www.youtube.com/watch?v=Lgaj7mVtT8I](https://www.youtube.com/watch?v=Lgaj7mVtT8I)
 

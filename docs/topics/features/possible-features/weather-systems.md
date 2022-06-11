@@ -5,6 +5,13 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > Possible Features > Weather Systems
 
+## June 7th, 2022 Livestream
+* [State of Dev](../../../transcriptions/yt-Hk3kvpq7Ofo.md) [https://www.youtube.com/watch?v=Hk3kvpq7Ofo](https://www.youtube.com/watch?v=Hk3kvpq7Ofo)
+* [Q&A: Any upcoming videos on the atmosphere changes?](../../../transcriptions/yt-CKZ3qZ49Wsg.md) [https://www.youtube.com/watch?v=CKZ3qZ49Wsg](https://www.youtube.com/watch?v=CKZ3qZ49Wsg)
+* [Q&A: Any moving rain events, or just random?](../../../transcriptions/yt-G9tg6XTEBuU.md) [https://www.youtube.com/watch?v=G9tg6XTEBuU](https://www.youtube.com/watch?v=G9tg6XTEBuU)
+* [Q&A: Can we capture rain as water?](../../../transcriptions/yt-nMhVjlGVTlY.md) [https://www.youtube.com/watch?v=nMhVjlGVTlY](https://www.youtube.com/watch?v=nMhVjlGVTlY)
+* Q&A: Will it snow, or have acid rain? [https://www.youtube.com/watch?v=DfmYV2vddBY](https://www.youtube.com/watch?v=DfmYV2vddBY)
+
 ## May 17th, 2022 Livestream
 * [State of Dev](../../../transcriptions/yt-Z6M_0T26BIA.md) [https://www.youtube.com/watch?v=Z6M_0T26BIA](https://www.youtube.com/watch?v=Z6M_0T26BIA)
 * [Q&A: How will Weather affect general performance?](../../../transcriptions/yt-UjApMx6tYGg.md) [https://www.youtube.com/watch?v=UjApMx6tYGg](https://www.youtube.com/watch?v=UjApMx6tYGg)

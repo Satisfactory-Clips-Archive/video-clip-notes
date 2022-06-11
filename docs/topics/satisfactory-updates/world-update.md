@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > World Update
 
+## June 7th, 2022 Livestream
+* [Q&A: Will the World Update go on the EA and Experimental branches at the same time ?](../../transcriptions/yt-k-cQOW2WL4w.md) [https://www.youtube.com/watch?v=k-cQOW2WL4w](https://www.youtube.com/watch?v=k-cQOW2WL4w)
+* [Q&A: Are water reflections/ water physics coming with the Update?](../../transcriptions/yt-Ww_ilqIoBjE.md) [https://www.youtube.com/watch?v=Ww_ilqIoBjE](https://www.youtube.com/watch?v=Ww_ilqIoBjE)
+
 ## May 24th, 2022 Livestream
 * [Q&A: Any upcoming Cave Updates?](../../transcriptions/yt-FxZlXFc28V0.md) [https://www.youtube.com/watch?v=FxZlXFc28V0](https://www.youtube.com/watch?v=FxZlXFc28V0)
 

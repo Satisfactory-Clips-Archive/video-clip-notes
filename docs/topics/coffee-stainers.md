@@ -41,6 +41,9 @@ date: Last Modified
 * [Torsten](../topics/coffee-stainers/torsten.md)
 * [Uzu](../topics/coffee-stainers/uzu.md)
 
+## June 7th, 2022 Livestream
+* [Q&A: Will you guys still be developing during July & August?](../transcriptions/yt-n7qo-qS8Jk4.md) [https://www.youtube.com/watch?v=n7qo-qS8Jk4](https://www.youtube.com/watch?v=n7qo-qS8Jk4)
+
 ## May 10th, 2022 Livestream
 * [Q&A: How many assets did Hannah design?](../transcriptions/yt-ozXb_4cjzXs.md) [https://www.youtube.com/watch?v=ozXb_4cjzXs](https://www.youtube.com/watch?v=ozXb_4cjzXs)
 

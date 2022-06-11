@@ -8,7 +8,7 @@ topics:
 # [January 26th, 2021 Livestream](../2021-01-26.md)
 ## Q&A: Release date on PS4?
 https://www.youtube.com/watch?v=xUdlPZfMgDw
-This question was possibly duplicated with a more recent answer: [May 3rd, 2022 Livestream Q&A: Do you have plans to develop the game for Console?](./yt-eQn0OjZHj_w.md) [https://www.youtube.com/watch?v=eQn0OjZHj_w](https://www.youtube.com/watch?v=eQn0OjZHj_w)
+This question was possibly duplicated with a more recent answer: [June 7th, 2022 Livestream Q&A: Can you make a Console port after 1.0?](./yt-DU3eDSo4WZM.md) [https://www.youtube.com/watch?v=DU3eDSo4WZM](https://www.youtube.com/watch?v=DU3eDSo4WZM)
 
 
 ### Topics

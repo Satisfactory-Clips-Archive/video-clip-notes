@@ -17,6 +17,9 @@ date: Last Modified
 * [Terraforming](../../topics/features/unplanned-features/terraforming.md)
 * [VR](../../topics/features/unplanned-features/vr.md)
 
+## June 7th, 2022 Livestream
+* Q&A: Lava zone, when? [https://www.youtube.com/watch?v=ZEnFaSNPCck](https://www.youtube.com/watch?v=ZEnFaSNPCck)
+
 ## May 24th, 2022 Livestream
 * [Q&A: Plans to add a separate progression path for Multiplayer?](../../transcriptions/yt-CxDrVE9RIHc.md) [https://www.youtube.com/watch?v=CxDrVE9RIHc](https://www.youtube.com/watch?v=CxDrVE9RIHc)
 

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Environment](../../../../topics/environment.md) > [Biomes](../../../../topics/environment/biomes.md) > Unplanned Biomes > Underwater
 
+## June 7th, 2022 Livestream
+* [Community FYI: Don't get Hannah started on Lava, she'll just tell you to "play Subnautica"](../../../../transcriptions/yt-_dTOUveZlDA.md) [https://www.youtube.com/watch?v=_dTOUveZlDA](https://www.youtube.com/watch?v=_dTOUveZlDA)
+
 ## May 3rd, 2022 Livestream
 * [Q&A: Will there be Water Exploration?](../../../../transcriptions/yt-TXa1LF9la2E.md) [https://www.youtube.com/watch?v=TXa1LF9la2E](https://www.youtube.com/watch?v=TXa1LF9la2E)
 

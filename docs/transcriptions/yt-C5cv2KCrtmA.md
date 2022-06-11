@@ -8,6 +8,8 @@ topics:
 # [April 19th, 2022 Livestream](../2022-04-19.md)
 ## Q&A: Heard anything about the EU Merch store since last week?
 https://www.youtube.com/watch?v=C5cv2KCrtmA
+This question was possibly duplicated with a more recent answer: [June 7th, 2022 Livestream Q&A: Europe Merch, any news?](./yt-rRdN88QjfEc.md) [https://www.youtube.com/watch?v=rRdN88QjfEc](https://www.youtube.com/watch?v=rRdN88QjfEc)
+
 
 ### Topics
 * [Merch > EU Merch Store](../topics/merch/eu-merch-store.md)

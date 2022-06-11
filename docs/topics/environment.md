@@ -11,6 +11,9 @@ date: Last Modified
 * [Resources](../topics/environment/resources.md)
 * [World Map](../topics/environment/world-map.md)
 
+## June 10th, 2022 Video
+* [Factory Building, Exploration, Creatures, and Combat](../transcriptions/yt-4pGTnG6Cy5E,353.92023333333333,368.00096666666667.md) [https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=353&end=369](https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=353&end=369)
+
 ## May 24th, 2022 Livestream
 * [State of Dev](../transcriptions/yt-FYTbjlXLFp4.md) [https://www.youtube.com/watch?v=FYTbjlXLFp4](https://www.youtube.com/watch?v=FYTbjlXLFp4)
 

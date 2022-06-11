@@ -6,6 +6,16 @@ date: Last Modified
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Equipment](../../../topics/features/equipment.md) > Nobelisk
 * [Nobelisk Detonator](../../../topics/features/equipment/nobelisk/detonator.md)
 
+## June 7th, 2022 Livestream
+* [Q&A: Will there be Alt Recipes for the new Ammo types?](../../../transcriptions/yt-SMScXkpXKPc.md) [https://www.youtube.com/watch?v=SMScXkpXKPc](https://www.youtube.com/watch?v=SMScXkpXKPc)
+* [Q&A: Will Nukes use Waste?](../../../transcriptions/yt-Z2ncq57UyC0.md) [https://www.youtube.com/watch?v=Z2ncq57UyC0](https://www.youtube.com/watch?v=Z2ncq57UyC0)
+* [Q&A: Will Nuclear Nobelisks be able to remove the Gas Pillars?](../../../transcriptions/yt-jYbQ9z-nqe0.md) [https://www.youtube.com/watch?v=jYbQ9z-nqe0](https://www.youtube.com/watch?v=jYbQ9z-nqe0)
+* [Snutt Talk: Before/After comparisons of in-progress work](../../../transcriptions/yt-5PV7CLgxtWs.md) [https://www.youtube.com/watch?v=5PV7CLgxtWs](https://www.youtube.com/watch?v=5PV7CLgxtWs)
+* [Q&A: Will the Nukes produce radiation when they explode?](../../../transcriptions/yt-UYuRJ1Oxqq4.md) [https://www.youtube.com/watch?v=UYuRJ1Oxqq4](https://www.youtube.com/watch?v=UYuRJ1Oxqq4)
+* [Q&A: Will the Nuke kill Stingers?](../../../transcriptions/yt-VO5OR8mFNjs.md) [https://www.youtube.com/watch?v=VO5OR8mFNjs](https://www.youtube.com/watch?v=VO5OR8mFNjs)
+* [Q&A: Would it be possible to automate the new ammo types, or just manually craft them?](../../../transcriptions/yt-QLDPr7bEDOk.md) [https://www.youtube.com/watch?v=QLDPr7bEDOk](https://www.youtube.com/watch?v=QLDPr7bEDOk)
+* Q&A: Will it snow, or have acid rain? [https://www.youtube.com/watch?v=DfmYV2vddBY](https://www.youtube.com/watch?v=DfmYV2vddBY)
+
 ## May 24th, 2022 Livestream
 * [State of Dev](../../../transcriptions/yt-FYTbjlXLFp4.md) [https://www.youtube.com/watch?v=FYTbjlXLFp4](https://www.youtube.com/watch?v=FYTbjlXLFp4)
 * [Q&A: Will the snowballs still work?](../../../transcriptions/yt-dP0uZNdU8q0.md) [https://www.youtube.com/watch?v=dP0uZNdU8q0](https://www.youtube.com/watch?v=dP0uZNdU8q0)

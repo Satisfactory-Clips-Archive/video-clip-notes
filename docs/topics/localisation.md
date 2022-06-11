@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../topics.md) > Localisation
 * [Localization Community Highlight](../topics/localisation/localization-community-highlight.md)
 
+## June 7th, 2022 Livestream
+* [Q&A: What does MP stand for in Pirate language?](../transcriptions/yt-Ypxd3iYB2QM.md) [https://www.youtube.com/watch?v=Ypxd3iYB2QM](https://www.youtube.com/watch?v=Ypxd3iYB2QM)
+
 ## April 8th, 2022 Video
 * [Jace Talk: Unreal Engine 4 (Part 8)](../transcriptions/yt-o6ao9-UIZIQ,1747.2455,1772.7042666666666.md) [https://youtube.com/clip/UgkxSRbgvL9m2ufZWW9I0HuXhd_g51x_AYBq](https://youtube.com/clip/UgkxSRbgvL9m2ufZWW9I0HuXhd_g51x_AYBq)
 * [Jace Talk: Crowdin](../transcriptions/yt-o6ao9-UIZIQ,1772.7376333333334,1794.7930000000001.md) [https://youtube.com/clip/UgkxKFYeckJrKMH9d_Q3ZqyT2RdhmYYEEQCJ](https://youtube.com/clip/UgkxKFYeckJrKMH9d_Q3ZqyT2RdhmYYEEQCJ)

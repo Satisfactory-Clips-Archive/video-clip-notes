@@ -12,6 +12,17 @@ date: Last Modified
 * [Pollution](../../topics/features/requested-features/pollution.md)
 * [Third-person View](../../topics/features/requested-features/third-person-view.md)
 
+## June 7th, 2022 Livestream
+* [Q&A: Mk.6 Belts or Lifts?](../../transcriptions/yt-m1mn9epXrcI.md) [https://www.youtube.com/watch?v=m1mn9epXrcI](https://www.youtube.com/watch?v=m1mn9epXrcI)
+* [Q&A: Mk.3 Pipes?](../../transcriptions/yt-8nkuQhlSKfU.md) [https://www.youtube.com/watch?v=8nkuQhlSKfU](https://www.youtube.com/watch?v=8nkuQhlSKfU)
+* [Q&A: Can we get an alert when the Belts are backed up?](../../transcriptions/yt-fVBJ7f2Ar0s.md) [https://www.youtube.com/watch?v=fVBJ7f2Ar0s](https://www.youtube.com/watch?v=fVBJ7f2Ar0s)
+* [Q&A: Will better swimming ever be a thing?](../../transcriptions/yt-FvBaBLcN4zs.md) [https://www.youtube.com/watch?v=FvBaBLcN4zs](https://www.youtube.com/watch?v=FvBaBLcN4zs)
+* [Q&A: Internal discussion of simple logistics bots, like Slime Rancher?](../../transcriptions/yt-_qkGoLhoW0M.md) [https://www.youtube.com/watch?v=_qkGoLhoW0M](https://www.youtube.com/watch?v=_qkGoLhoW0M)
+* [Q&A: Any moving rain events, or just random?](../../transcriptions/yt-G9tg6XTEBuU.md) [https://www.youtube.com/watch?v=G9tg6XTEBuU](https://www.youtube.com/watch?v=G9tg6XTEBuU)
+* [Q&A: Can we capture rain as water?](../../transcriptions/yt-nMhVjlGVTlY.md) [https://www.youtube.com/watch?v=nMhVjlGVTlY](https://www.youtube.com/watch?v=nMhVjlGVTlY)
+* Q&A: Lava zone, when? [https://www.youtube.com/watch?v=ZEnFaSNPCck](https://www.youtube.com/watch?v=ZEnFaSNPCck)
+* Q&A: Will it snow, or have acid rain? [https://www.youtube.com/watch?v=DfmYV2vddBY](https://www.youtube.com/watch?v=DfmYV2vddBY)
+
 ## May 24th, 2022 Livestream
 * [Q&A: Ratio Splitters?](../../transcriptions/yt-F76HpAa3wQg.md) [https://www.youtube.com/watch?v=F76HpAa3wQg](https://www.youtube.com/watch?v=F76HpAa3wQg)
 * [Q&A: Will Mask & Hazmat suit work while driving?](../../transcriptions/yt-itoJOUojUJo.md) [https://www.youtube.com/watch?v=itoJOUojUJo](https://www.youtube.com/watch?v=itoJOUojUJo)

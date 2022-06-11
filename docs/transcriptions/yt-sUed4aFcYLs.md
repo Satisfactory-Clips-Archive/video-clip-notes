@@ -8,7 +8,7 @@ topics:
 # [April 6th, 2021 Livestream](../2021-04-06.md)
 ## Q&A: Mk.6 Belts?
 https://www.youtube.com/watch?v=sUed4aFcYLs
-This question was possibly duplicated with a more recent answer: [May 24th, 2022 Livestream Q&A: Can you solve the precision problem, or is it going to stay?](./yt-rJXAPM0jxlI.md) [https://www.youtube.com/watch?v=rJXAPM0jxlI](https://www.youtube.com/watch?v=rJXAPM0jxlI)
+This question was possibly duplicated with a more recent answer: [June 7th, 2022 Livestream Q&A: Mk.6 Belts or Lifts?](./yt-m1mn9epXrcI.md) [https://www.youtube.com/watch?v=m1mn9epXrcI](https://www.youtube.com/watch?v=m1mn9epXrcI)
 
 
 ### Topics

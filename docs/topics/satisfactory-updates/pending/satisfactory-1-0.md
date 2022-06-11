@@ -5,6 +5,12 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Pending](../../../topics/satisfactory-updates/pending.md) > Satisfactory 1.0
 
+## June 7th, 2022 Livestream
+* [State of Dev](../../../transcriptions/yt-Hk3kvpq7Ofo.md) [https://www.youtube.com/watch?v=Hk3kvpq7Ofo](https://www.youtube.com/watch?v=Hk3kvpq7Ofo)
+* [Q&A: When will 1.0 be?](../../../transcriptions/yt-d2IRgOwEIUY.md) [https://www.youtube.com/watch?v=d2IRgOwEIUY](https://www.youtube.com/watch?v=d2IRgOwEIUY)
+* [Q&A: Can you make a Console port after 1.0?](../../../transcriptions/yt-DU3eDSo4WZM.md) [https://www.youtube.com/watch?v=DU3eDSo4WZM](https://www.youtube.com/watch?v=DU3eDSo4WZM)
+* [Q&A: Does that mean we shouldn't expect any Content Patches after 1.0?](../../../transcriptions/yt-R5Xnr4KSXdY.md) [https://www.youtube.com/watch?v=R5Xnr4KSXdY](https://www.youtube.com/watch?v=R5Xnr4KSXdY)
+
 ## May 17th, 2022 Livestream
 * [Snutt Talk: Difference in development process going forward](../../../transcriptions/yt-Utj182ql3Eo.md) [https://www.youtube.com/watch?v=Utj182ql3Eo](https://www.youtube.com/watch?v=Utj182ql3Eo)
 

@@ -4,6 +4,10 @@ date: Last Modified
 layout: index
 ---
 # 2022
+## June
+* [June 10th](2022-06-10.md)
+* [June 7th](2022-06-07.md)
+
 ## May
 * [May 24th](2022-05-24.md)
 * [May 20th](2022-05-20.md)

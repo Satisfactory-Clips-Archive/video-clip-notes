@@ -9,6 +9,8 @@ topics:
 # [March 15th, 2022 Livestream](../2022-03-15.md)
 ## Q&A: Is there a rough estimate for the next Update?
 https://www.youtube.com/watch?v=c-M3BviVCzE
+This question was possibly duplicated with a more recent answer: [June 7th, 2022 Livestream Q&A: Update 7 is here?](./yt-Az1jTvsJIGc.md) [https://www.youtube.com/watch?v=Az1jTvsJIGc](https://www.youtube.com/watch?v=Az1jTvsJIGc)
+
 
 ### Topics
 * [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)

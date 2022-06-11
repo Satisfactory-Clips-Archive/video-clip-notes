@@ -7,6 +7,9 @@ date: Last Modified
 * [EU Merch Store](../topics/merch/eu-merch-store.md)
 * [Merch Prototypes](../topics/merch/merch-prototypes.md)
 
+## June 7th, 2022 Livestream
+* [Q&A: Any news on Lego?](../transcriptions/yt-LdkpBMp-aXw.md) [https://www.youtube.com/watch?v=LdkpBMp-aXw](https://www.youtube.com/watch?v=LdkpBMp-aXw)
+
 ## May 17th, 2022 Livestream
 * [News](../transcriptions/yt-dSO6DhA0Vyw.md) [https://www.youtube.com/watch?v=dSO6DhA0Vyw](https://www.youtube.com/watch?v=dSO6DhA0Vyw)
 

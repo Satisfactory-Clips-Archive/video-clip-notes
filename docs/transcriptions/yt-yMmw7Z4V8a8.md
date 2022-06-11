@@ -10,6 +10,8 @@ topics:
 # [May 3rd, 2022 Livestream](../2022-05-03.md)
 ## Q&A: Are you going on holiday on/before/after Update 6?
 https://www.youtube.com/watch?v=yMmw7Z4V8a8
+This question was possibly duplicated with a more recent answer: [June 7th, 2022 Livestream Q&A: Will you guys still be developing during July & August?](./yt-n7qo-qS8Jk4.md) [https://www.youtube.com/watch?v=n7qo-qS8Jk4](https://www.youtube.com/watch?v=n7qo-qS8Jk4)
+
 
 ### Topics
 * [Coffee Stainers](../topics/coffee-stainers.md)

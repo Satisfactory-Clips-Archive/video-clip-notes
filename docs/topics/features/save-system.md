@@ -7,6 +7,9 @@ date: Last Modified
 * [Autosave](../../topics/features/save-system/autosave.md)
 * [Cloud Sync](../../topics/features/save-system/cloud-sync.md)
 
+## June 7th, 2022 Livestream
+* [Q&A: Any buffs to the Autosave on Servers coming?](../../transcriptions/yt-W4W-x6usIVg.md) [https://www.youtube.com/watch?v=W4W-x6usIVg](https://www.youtube.com/watch?v=W4W-x6usIVg)
+
 ## May 24th, 2022 Livestream
 * [Q&A: Can removing Trees not increase save file size so drastically?](../../transcriptions/yt-801aBwD1IvY.md) [https://www.youtube.com/watch?v=801aBwD1IvY](https://www.youtube.com/watch?v=801aBwD1IvY)
 * [Community FYI: I'm looking at 40mb of save file](../../transcriptions/yt-x-c_WxZgQr0.md) [https://www.youtube.com/watch?v=x-c_WxZgQr0](https://www.youtube.com/watch?v=x-c_WxZgQr0)

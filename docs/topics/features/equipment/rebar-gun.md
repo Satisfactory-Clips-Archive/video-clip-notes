@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Equipment](../../../topics/features/equipment.md) > Rebar Gun
 
+## June 7th, 2022 Livestream
+* [Q&A: Will there be Alt Recipes for the new Ammo types?](../../../transcriptions/yt-SMScXkpXKPc.md) [https://www.youtube.com/watch?v=SMScXkpXKPc](https://www.youtube.com/watch?v=SMScXkpXKPc)
+* [Q&A: Would it be possible to automate the new ammo types, or just manually craft them?](../../../transcriptions/yt-QLDPr7bEDOk.md) [https://www.youtube.com/watch?v=QLDPr7bEDOk](https://www.youtube.com/watch?v=QLDPr7bEDOk)
+
 ## May 24th, 2022 Livestream
 * [State of Dev](../../../transcriptions/yt-FYTbjlXLFp4.md) [https://www.youtube.com/watch?v=FYTbjlXLFp4](https://www.youtube.com/watch?v=FYTbjlXLFp4)
 

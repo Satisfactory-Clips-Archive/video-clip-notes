@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Features](../../topics/features.md) > Pioneer
 
+## June 7th, 2022 Livestream
+* [Q&A: Will better swimming ever be a thing?](../../transcriptions/yt-FvBaBLcN4zs.md) [https://www.youtube.com/watch?v=FvBaBLcN4zs](https://www.youtube.com/watch?v=FvBaBLcN4zs)
+
 ## May 17th, 2022 Livestream
 * [Q&A: Can we get a video of how the Pioneer is made?](../../transcriptions/yt-1Ex8swSlNP4.md) [https://www.youtube.com/watch?v=1Ex8swSlNP4](https://www.youtube.com/watch?v=1Ex8swSlNP4)
 

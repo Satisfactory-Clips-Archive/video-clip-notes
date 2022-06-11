@@ -6,6 +6,10 @@ date: Last Modified
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Hannah
 * [Coffee Stainers can't pronounce Hannah's last name](../../topics/coffee-stainers/hannah/coffee-stainers-cant-pronounce-hannahs-last-name.md)
 
+## June 7th, 2022 Livestream
+* [Q&A: Will you get Hannah on stream for the Swamp changes?](../../transcriptions/yt-uDgfoaD4Sfs.md) [https://www.youtube.com/watch?v=uDgfoaD4Sfs](https://www.youtube.com/watch?v=uDgfoaD4Sfs)
+* [Community FYI: Don't get Hannah started on Lava, she'll just tell you to "play Subnautica"](../../transcriptions/yt-_dTOUveZlDA.md) [https://www.youtube.com/watch?v=_dTOUveZlDA](https://www.youtube.com/watch?v=_dTOUveZlDA)
+
 ## May 10th, 2022 Livestream
 * [Hannah talks Spire Coast](../../transcriptions/yt-FqhboAjAiYY.md) [https://www.youtube.com/watch?v=FqhboAjAiYY](https://www.youtube.com/watch?v=FqhboAjAiYY)
 * [Q&A: Any cool blueprint tool?](../../transcriptions/yt-dIGez7lvcic.md) [https://www.youtube.com/watch?v=dIGez7lvcic](https://www.youtube.com/watch?v=dIGez7lvcic)

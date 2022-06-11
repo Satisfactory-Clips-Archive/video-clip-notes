@@ -32,6 +32,9 @@ date: Last Modified
 * [Utility Signs](../topics/mods/utility-signs.md)
 * [Zip Strips](../topics/mods/zip-strips.md)
 
+## June 7th, 2022 Livestream
+* [Q&A: Is there any work ongoing with Mods for Dedicated Servers?](../transcriptions/yt-rSNJPtn2N6k.md) [https://www.youtube.com/watch?v=rSNJPtn2N6k](https://www.youtube.com/watch?v=rSNJPtn2N6k)
+
 ## May 24th, 2022 Livestream
 * [Snutt Talk: Mods](../transcriptions/yt-ftYTDMMWcUc.md) [https://www.youtube.com/watch?v=ftYTDMMWcUc](https://www.youtube.com/watch?v=ftYTDMMWcUc)
 

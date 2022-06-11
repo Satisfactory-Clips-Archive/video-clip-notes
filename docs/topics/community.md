@@ -25,6 +25,11 @@ date: Last Modified
 * [Vilsol](../topics/community/vilsol.md)
 * [Wiki](../topics/community/wiki.md)
 
+## June 7th, 2022 Livestream
+* [Q&A: Any news on Lego?](../transcriptions/yt-LdkpBMp-aXw.md) [https://www.youtube.com/watch?v=LdkpBMp-aXw](https://www.youtube.com/watch?v=LdkpBMp-aXw)
+* [Q&A: Update 7 is here?](../transcriptions/yt-Az1jTvsJIGc.md) [https://www.youtube.com/watch?v=Az1jTvsJIGc](https://www.youtube.com/watch?v=Az1jTvsJIGc)
+* [Q&A: Have you seen Pioneer Becky?](../transcriptions/yt-AM2dE_6yzU0.md) [https://www.youtube.com/watch?v=AM2dE_6yzU0](https://www.youtube.com/watch?v=AM2dE_6yzU0)
+
 ## May 17th, 2022 Livestream
 * [News](../transcriptions/yt-dSO6DhA0Vyw.md) [https://www.youtube.com/watch?v=dSO6DhA0Vyw](https://www.youtube.com/watch?v=dSO6DhA0Vyw)
 

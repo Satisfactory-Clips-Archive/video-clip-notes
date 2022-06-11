@@ -22,6 +22,10 @@ date: Last Modified
 * [Xeno-Zapper](../../topics/features/equipment/xeno-zapper.md)
 * [Zip Lines](../../topics/features/equipment/zip-lines.md)
 
+## June 10th, 2022 Video
+* [Factory Building, Exploration, Creatures, and Combat](../../transcriptions/yt-4pGTnG6Cy5E,353.92023333333333,368.00096666666667.md) [https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=353&end=369](https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=353&end=369)
+* [Smokeless Powder](../../transcriptions/yt-4pGTnG6Cy5E,405.87213333333335,417.98423333333335.md) [https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=405&end=418](https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=405&end=418)
+
 ## May 24th, 2022 Livestream
 * [State of Dev](../../transcriptions/yt-FYTbjlXLFp4.md) [https://www.youtube.com/watch?v=FYTbjlXLFp4](https://www.youtube.com/watch?v=FYTbjlXLFp4)
 * [Q&A: Will Mask & Hazmat suit work while driving?](../../transcriptions/yt-itoJOUojUJo.md) [https://www.youtube.com/watch?v=itoJOUojUJo](https://www.youtube.com/watch?v=itoJOUojUJo)

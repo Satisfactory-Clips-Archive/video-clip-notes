@@ -6,6 +6,11 @@ date: Last Modified
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Crafting](../../../topics/features/crafting.md) > Recipes
 * [Alternate Recipes](../../../topics/features/crafting/recipes/alternate-recipes.md)
 
+## June 7th, 2022 Livestream
+* [Q&A: Will Nukes use Waste?](../../../transcriptions/yt-Z2ncq57UyC0.md) [https://www.youtube.com/watch?v=Z2ncq57UyC0](https://www.youtube.com/watch?v=Z2ncq57UyC0)
+* [Q&A: What Recipes are you looking for to rebalance, if any?](../../../transcriptions/yt-9Mhn8S_U0DE.md) [https://www.youtube.com/watch?v=9Mhn8S_U0DE](https://www.youtube.com/watch?v=9Mhn8S_U0DE)
+* [Q&A: Would it be possible to automate the new ammo types, or just manually craft them?](../../../transcriptions/yt-QLDPr7bEDOk.md) [https://www.youtube.com/watch?v=QLDPr7bEDOk](https://www.youtube.com/watch?v=QLDPr7bEDOk)
+
 ## May 24th, 2022 Livestream
 * [State of Dev](../../../transcriptions/yt-FYTbjlXLFp4.md) [https://www.youtube.com/watch?v=FYTbjlXLFp4](https://www.youtube.com/watch?v=FYTbjlXLFp4)
 * [Q&A: What is the likelihood of lower-Tier Recipes getting a rebalance?](../../../transcriptions/yt-aDrQRQAtoAs.md) [https://www.youtube.com/watch?v=aDrQRQAtoAs](https://www.youtube.com/watch?v=aDrQRQAtoAs)

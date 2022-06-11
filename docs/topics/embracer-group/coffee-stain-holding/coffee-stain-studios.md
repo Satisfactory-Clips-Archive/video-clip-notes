@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Embracer Group](../../../topics/embracer-group.md) > Coffee Stain Holding > Coffee Stain Studios
 
+## June 7th, 2022 Livestream
+* [Q&A: Will you guys still be developing during July & August?](../../../transcriptions/yt-n7qo-qS8Jk4.md) [https://www.youtube.com/watch?v=n7qo-qS8Jk4](https://www.youtube.com/watch?v=n7qo-qS8Jk4)
+
 ## May 10th, 2022 Livestream
 * [Q&A: How long has Hannah been working on Satisfactory?](../../../transcriptions/yt-ZI0qceS8O4U.md) [https://www.youtube.com/watch?v=ZI0qceS8O4U](https://www.youtube.com/watch?v=ZI0qceS8O4U)
 

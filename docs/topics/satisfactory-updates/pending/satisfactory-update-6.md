@@ -5,6 +5,39 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Pending](../../../topics/satisfactory-updates/pending.md) > Satisfactory Update 6
 
+## June 10th, 2022 Video
+* [Cold Open](../../../transcriptions/yt-4pGTnG6Cy5E,,40.57386666666667.md) [https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=0&end=41](https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=0&end=41)
+* [Rebuilding the Creature AI](../../../transcriptions/yt-4pGTnG6Cy5E,76.44303333333333,130.0299.md) [https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=76&end=131](https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=76&end=131)
+* [Changes to Stingers](../../../transcriptions/yt-4pGTnG6Cy5E,130.06326666666666,163.6635.md) [https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=130&end=164](https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=130&end=164)
+* [Changes to Hogs](../../../transcriptions/yt-4pGTnG6Cy5E,163.69686666666666,181.8817.md) [https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=163&end=182](https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=163&end=182)
+* [General AI behaviour states](../../../transcriptions/yt-4pGTnG6Cy5E,181.91506666666666,222.222.md) [https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=181&end=223](https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=181&end=223)
+* [Q&A: What is that cabbage-looking yolk thing?](../../../transcriptions/yt-4pGTnG6Cy5E,222.25536666666667,268.43483333333336.md) [https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=222&end=269](https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=222&end=269)
+* [Not all plans completed](../../../transcriptions/yt-4pGTnG6Cy5E,268.4682,326.2259.md) [https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=268&end=327](https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=268&end=327)
+* [The plan for Creatures in the future](../../../transcriptions/yt-4pGTnG6Cy5E,326.2592666666667,353.88686666666666.md) [https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=326&end=354](https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=326&end=354)
+* [Factory Building, Exploration, Creatures, and Combat](../../../transcriptions/yt-4pGTnG6Cy5E,353.92023333333333,368.00096666666667.md) [https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=353&end=369](https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=353&end=369)
+* [Alien Protein](../../../transcriptions/yt-4pGTnG6Cy5E,379.011916,405.8387666666667.md) [https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=379&end=406](https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=379&end=406)
+* [Smokeless Powder](../../../transcriptions/yt-4pGTnG6Cy5E,405.87213333333335,417.98423333333335.md) [https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=405&end=418](https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=405&end=418)
+* [Blade Runners](../../../transcriptions/yt-4pGTnG6Cy5E,424.35726666666665,433.9335.md) [https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=424&end=434](https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=424&end=434)
+* [Alt Recipes moved to the M.A.M.](../../../transcriptions/yt-4pGTnG6Cy5E,433.96686666666665,478.64483333333334.md) [https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=433&end=479](https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=433&end=479)
+* [Changes to research visibility / unlock preqrequisites](../../../transcriptions/yt-4pGTnG6Cy5E,478.6782,531.8646666666667.md) [https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=478&end=532](https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=478&end=532)
+* [One More Thing™](../../../transcriptions/yt-4pGTnG6Cy5E,561.2940666666667,606.0387666666667.md) [https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=561&end=607](https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=561&end=607)
+* [End Tag](../../../transcriptions/yt-4pGTnG6Cy5E,611.8112.md) [https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=611](https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=611)
+
+## June 7th, 2022 Livestream
+* [State of Dev](../../../transcriptions/yt-Hk3kvpq7Ofo.md) [https://www.youtube.com/watch?v=Hk3kvpq7Ofo](https://www.youtube.com/watch?v=Hk3kvpq7Ofo)
+* [Q&A: Will the World Update go on the EA and Experimental branches at the same time ?](../../../transcriptions/yt-k-cQOW2WL4w.md) [https://www.youtube.com/watch?v=k-cQOW2WL4w](https://www.youtube.com/watch?v=k-cQOW2WL4w)
+* [Q&A: Will there be Alt Recipes for the new Ammo types?](../../../transcriptions/yt-SMScXkpXKPc.md) [https://www.youtube.com/watch?v=SMScXkpXKPc](https://www.youtube.com/watch?v=SMScXkpXKPc)
+* [Q&A: Will Nukes use Waste?](../../../transcriptions/yt-Z2ncq57UyC0.md) [https://www.youtube.com/watch?v=Z2ncq57UyC0](https://www.youtube.com/watch?v=Z2ncq57UyC0)
+* [Q&A: Will Nuclear Nobelisks be able to remove the Gas Pillars?](../../../transcriptions/yt-jYbQ9z-nqe0.md) [https://www.youtube.com/watch?v=jYbQ9z-nqe0](https://www.youtube.com/watch?v=jYbQ9z-nqe0)
+* [Snutt Talk: Before/After comparisons of in-progress work](../../../transcriptions/yt-5PV7CLgxtWs.md) [https://www.youtube.com/watch?v=5PV7CLgxtWs](https://www.youtube.com/watch?v=5PV7CLgxtWs)
+* [Q&A: Will the Nukes produce radiation when they explode?](../../../transcriptions/yt-UYuRJ1Oxqq4.md) [https://www.youtube.com/watch?v=UYuRJ1Oxqq4](https://www.youtube.com/watch?v=UYuRJ1Oxqq4)
+* [Q&A: Will the Nuke kill Stingers?](../../../transcriptions/yt-VO5OR8mFNjs.md) [https://www.youtube.com/watch?v=VO5OR8mFNjs](https://www.youtube.com/watch?v=VO5OR8mFNjs)
+* [Q&A: Are water reflections/ water physics coming with the Update?](../../../transcriptions/yt-Ww_ilqIoBjE.md) [https://www.youtube.com/watch?v=Ww_ilqIoBjE](https://www.youtube.com/watch?v=Ww_ilqIoBjE)
+* [Q&A: Will we get a refund on the Alt Beacon Recipe?](../../../transcriptions/yt-ZOsTTxM30ao.md) [https://www.youtube.com/watch?v=ZOsTTxM30ao](https://www.youtube.com/watch?v=ZOsTTxM30ao)
+* [Q&A: Any upcoming videos on the atmosphere changes?](../../../transcriptions/yt-CKZ3qZ49Wsg.md) [https://www.youtube.com/watch?v=CKZ3qZ49Wsg](https://www.youtube.com/watch?v=CKZ3qZ49Wsg)
+* [Q&A: Any moving rain events, or just random?](../../../transcriptions/yt-G9tg6XTEBuU.md) [https://www.youtube.com/watch?v=G9tg6XTEBuU](https://www.youtube.com/watch?v=G9tg6XTEBuU)
+* [Q&A: Would it be possible to automate the new ammo types, or just manually craft them?](../../../transcriptions/yt-QLDPr7bEDOk.md) [https://www.youtube.com/watch?v=QLDPr7bEDOk](https://www.youtube.com/watch?v=QLDPr7bEDOk)
+
 ## May 24th, 2022 Livestream
 * [State of Dev](../../../transcriptions/yt-FYTbjlXLFp4.md) [https://www.youtube.com/watch?v=FYTbjlXLFp4](https://www.youtube.com/watch?v=FYTbjlXLFp4)
 * [Q&A: Do we need to stock up on Beacons?](../../../transcriptions/yt-NIbuOAm0Yeo.md) [https://www.youtube.com/watch?v=NIbuOAm0Yeo](https://www.youtube.com/watch?v=NIbuOAm0Yeo)

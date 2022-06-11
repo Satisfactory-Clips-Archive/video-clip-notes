@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Features](../../topics/features.md) > Gases
 
+## June 7th, 2022 Livestream
+* [Q&A: Will Nukes use Waste?](../../transcriptions/yt-Z2ncq57UyC0.md) [https://www.youtube.com/watch?v=Z2ncq57UyC0](https://www.youtube.com/watch?v=Z2ncq57UyC0)
+
 ## April 15th, 2022 Video
 * [Snutt & Stefan Talk: Environment in Sprint 8](../../transcriptions/yt-7I3NGAm3j_4,1147.5130333333334,1180.179.md) [https://youtube.com/clip/UgkxC1NQmYgHo3tHKd_XZkptr04YktBytnce](https://youtube.com/clip/UgkxC1NQmYgHo3tHKd_XZkptr04YktBytnce)
 

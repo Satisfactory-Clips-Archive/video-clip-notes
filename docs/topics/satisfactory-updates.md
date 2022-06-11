@@ -18,6 +18,11 @@ date: Last Modified
 * [Teasers & Trailers](../topics/satisfactory-updates/teasers-and-trailers.md)
 * [World Update](../topics/satisfactory-updates/world-update.md)
 
+## June 7th, 2022 Livestream
+* [State of Dev](../transcriptions/yt-Hk3kvpq7Ofo.md) [https://www.youtube.com/watch?v=Hk3kvpq7Ofo](https://www.youtube.com/watch?v=Hk3kvpq7Ofo)
+* [Q&A: Does that mean we shouldn't expect any Content Patches after 1.0?](../transcriptions/yt-R5Xnr4KSXdY.md) [https://www.youtube.com/watch?v=R5Xnr4KSXdY](https://www.youtube.com/watch?v=R5Xnr4KSXdY)
+* [Q&A: Will you guys still be developing during July & August?](../transcriptions/yt-n7qo-qS8Jk4.md) [https://www.youtube.com/watch?v=n7qo-qS8Jk4](https://www.youtube.com/watch?v=n7qo-qS8Jk4)
+
 ## May 24th, 2022 Livestream
 * [Q&A: The cave on the crater in the Dune Desert, is that coming in a later Update?](../transcriptions/yt-WA3JRlk-8M8.md) [https://www.youtube.com/watch?v=WA3JRlk-8M8](https://www.youtube.com/watch?v=WA3JRlk-8M8)
 * [Q&A: Are there any surprises for Update 6?](../transcriptions/yt-4YLraND1Sk8.md) [https://www.youtube.com/watch?v=4YLraND1Sk8](https://www.youtube.com/watch?v=4YLraND1Sk8)

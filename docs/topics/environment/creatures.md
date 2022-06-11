@@ -10,6 +10,22 @@ date: Last Modified
 * [Non Flying Bird](../../topics/environment/creatures/non-flying-bird.md)
 * [Space Giraffe-Tick-Penguin-Whale Thing](../../topics/environment/creatures/space-giraffe-tick-penguin-whale-thing.md)
 
+## June 10th, 2022 Video
+* [Cold Open](../../transcriptions/yt-4pGTnG6Cy5E,,40.57386666666667.md) [https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=0&end=41](https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=0&end=41)
+* [Rebuilding the Creature AI](../../transcriptions/yt-4pGTnG6Cy5E,76.44303333333333,130.0299.md) [https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=76&end=131](https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=76&end=131)
+* [Changes to Stingers](../../transcriptions/yt-4pGTnG6Cy5E,130.06326666666666,163.6635.md) [https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=130&end=164](https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=130&end=164)
+* [Changes to Hogs](../../transcriptions/yt-4pGTnG6Cy5E,163.69686666666666,181.8817.md) [https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=163&end=182](https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=163&end=182)
+* [General AI behaviour states](../../transcriptions/yt-4pGTnG6Cy5E,181.91506666666666,222.222.md) [https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=181&end=223](https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=181&end=223)
+* [Q&A: What is that cabbage-looking yolk thing?](../../transcriptions/yt-4pGTnG6Cy5E,222.25536666666667,268.43483333333336.md) [https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=222&end=269](https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=222&end=269)
+* [Not all plans completed](../../transcriptions/yt-4pGTnG6Cy5E,268.4682,326.2259.md) [https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=268&end=327](https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=268&end=327)
+* [The plan for Creatures in the future](../../transcriptions/yt-4pGTnG6Cy5E,326.2592666666667,353.88686666666666.md) [https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=326&end=354](https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=326&end=354)
+* [Factory Building, Exploration, Creatures, and Combat](../../transcriptions/yt-4pGTnG6Cy5E,353.92023333333333,368.00096666666667.md) [https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=353&end=369](https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=353&end=369)
+* [Alien Protein](../../transcriptions/yt-4pGTnG6Cy5E,379.011916,405.8387666666667.md) [https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=379&end=406](https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=379&end=406)
+* [Smokeless Powder](../../transcriptions/yt-4pGTnG6Cy5E,405.87213333333335,417.98423333333335.md) [https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=405&end=418](https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=405&end=418)
+
+## June 7th, 2022 Livestream
+* [Q&A: Will the Nuke kill Stingers?](../../transcriptions/yt-VO5OR8mFNjs.md) [https://www.youtube.com/watch?v=VO5OR8mFNjs](https://www.youtube.com/watch?v=VO5OR8mFNjs)
+
 ## May 24th, 2022 Livestream
 * [Q&A: Are harder-to-kill Creatures coming?](../../transcriptions/yt-2v1-zUtlKnc.md) [https://www.youtube.com/watch?v=2v1-zUtlKnc](https://www.youtube.com/watch?v=2v1-zUtlKnc)
 
