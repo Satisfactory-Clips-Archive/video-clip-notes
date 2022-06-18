@@ -7,7 +7,7 @@ date: Last Modified
 
 ## June 14th, 2022 Livestream
 * [A wild Jace appears](../../transcriptions/yt-Z6bo0pjYghk,868.48164,977.707106.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=868&end=978](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=868&end=978)
-* [Intro](../../transcriptions/yt-Z6bo0pjYghk,1140.43303,1184.362162.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=1140&end=1185](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=1140&end=1185)
+* [Intro](../../transcriptions/yt-Z6bo0pjYghk,1140.43303,1184.362162.md) [https://youtube.com/clip/Ugkxgx-K90n6KQwyI98EI3LY9aMgFVwIuc0y](https://youtube.com/clip/Ugkxgx-K90n6KQwyI98EI3LY9aMgFVwIuc0y)
 * [XSEIDET - BFG](../../transcriptions/yt-Z6bo0pjYghk,1184.362162,1312.8433587563136.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=1184&end=1313](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=1184&end=1313)
 * [ShinoHarvest - Double Helix all the way](../../transcriptions/yt-Z6bo0pjYghk,1312.8433587563136,1405.627833.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=1312&end=1406](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=1312&end=1406)
 * [Le_Mingus_Blyat - their little crane site](../../transcriptions/yt-Z6bo0pjYghk,1405.627833,1471.265766.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=1405&end=1472](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=1405&end=1472)

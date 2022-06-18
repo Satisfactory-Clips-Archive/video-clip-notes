@@ -7,7 +7,7 @@ topics:
 ---
 # [June 14th, 2022 Livestream](../2022-06-14.md)
 ## Intro
-https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=1140&end=1185
+https://youtube.com/clip/Ugkxgx-K90n6KQwyI98EI3LY9aMgFVwIuc0y
 
 ### Topics
 * [Community > Community Highlights](../topics/community/community-highlights.md)
