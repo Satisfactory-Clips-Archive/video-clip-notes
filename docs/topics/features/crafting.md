@@ -8,6 +8,9 @@ date: Last Modified
 * [Recipes](../../topics/features/crafting/recipes.md)
 * [Superposition Oscillator](../../topics/features/crafting/superposition-oscillator.md)
 
+## June 14th, 2022 Livestream
+* [Mark & Snutt Talk: Handcrafting reminder](../../transcriptions/yt-Z6bo0pjYghk,5520.390357,5634.143527.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=5520&end=5635](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=5520&end=5635)
+
 ## May 20th, 2022 Video
 * [Bonus Round](../../transcriptions/yt-QYMHs1aTyOs,807.2333333333333,897.6166666666667.md) [https://youtube.com/embed/QYMHs1aTyOs?autoplay=1&start=807&end=898](https://youtube.com/embed/QYMHs1aTyOs?autoplay=1&start=807&end=898)
 

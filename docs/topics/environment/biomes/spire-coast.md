@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Biomes](../../../topics/environment/biomes.md) > Spire Coast
 
+## June 14th, 2022 Livestream
+* [Hannah, Anna, Torsten, & Snutt Talk: New Ammo types (Part 8)](../../../transcriptions/yt-Z6bo0pjYghk,10349.995612388688,10612.487054.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=10349&end=10613](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=10349&end=10613)
+
 ## June 7th, 2022 Livestream
 * [Q&A: Will the World Update go on the EA and Experimental branches at the same time ?](../../../transcriptions/yt-k-cQOW2WL4w.md) [https://www.youtube.com/watch?v=k-cQOW2WL4w](https://www.youtube.com/watch?v=k-cQOW2WL4w)
 

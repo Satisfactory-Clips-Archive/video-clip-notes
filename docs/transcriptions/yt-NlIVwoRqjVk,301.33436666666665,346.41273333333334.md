@@ -9,7 +9,7 @@ topics:
 # [May 15th, 2020 Q&A](../2020-05-15.md)
 ## Q&A: Will there be Steam Cards and Achievements? Also do you intend to use Steam Workshop?
 https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=301&end=347
-This question was possibly duplicated with a more recent answer: [February 8th, 2022 Livestream Q&A: Are there Achievements planned for Satisfactory?](./yt-i-9UAyVFe6s.md) [https://www.youtube.com/watch?v=i-9UAyVFe6s](https://www.youtube.com/watch?v=i-9UAyVFe6s)
+This question was possibly duplicated with a more recent answer: [June 14th, 2022 Livestream Q&A: Will you add Achievements?](./yt-Z6bo0pjYghk,5794.547222,5807.542091.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=5794&end=5808](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=5794&end=5808)
 
 
 ### Topics

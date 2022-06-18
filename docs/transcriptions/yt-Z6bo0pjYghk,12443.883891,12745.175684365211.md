@@ -1,0 +1,25 @@
+---
+title: "June 14th, 2022 Livestream Birk & Snutt Talk: The QA Site"
+date: "2022-06-14"
+layout: transcript
+topics:
+    - "qa-site"
+    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/release-builds"
+---
+# [June 14th, 2022 Livestream](../2022-06-14.md)
+## Birk & Snutt Talk: The QA Site
+https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=12443&end=12746
+
+### Topics
+* [QA Site](../topics/qa-site.md)
+* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Release Builds](../topics/satisfactory-updates/release-builds.md)
+
+### Transcript
+
+> known issues as well like, on this one already that if if it's in the known issues then we're already working on, seeing if we can fix that, so yeah, if you have something that is happening to you while you're playing an experimental and you find unknown issues then we're already looking at how to fix it up too yeah as usual yes and this week and which is a good segue to if you do find any issues and you want to report them you can go to our question site questions.satisfactorygame.com I have a command for it on the twitch side can I ask questions there's not you you sure can yeah well it's kind of funny because you can't really ask questions like you can ask questions maybe someone else and community can answer and be like fix it but it's mostly for like tracking like feature requests, bug issues that you guys have, some discussion that goes into you know if you want to change something or like there's a couple of threads on like the overclocking thing that people have posted their opinions and you can upload stuff which I think is the most powerful thing for you guys really to make your like voices heard is uploading different tickets that you think like this is a major thing and I think like the biggest most uploaded like thing oh my god yeah we're gonna we're gonna get some of those out of the way with this update as well yeah, so yeah look at that so like, one of the most upgraded things oh wait weather changes wait oh this isn't a different one show me the, all time time I mean it's three thousand not books I don't recognize that one is that a new one it's it's more than golf huh this is upsetting to me yes people care more about weather comes before golf no garbage the one I was gonna say was the, the well holster yeah holds us up there, let's pull body slots probably multiple body slots that was what I was thinking of where is it have we already marked that one maybe maybe we have because we need to go here is this yeah that one and yeah right that's it yeah cool well it doesn't ignore it it's like differentiates now yeah yeah yeah we actually had this in the past like we've switched what we're doing with those whether we're showing them or not showing them they want resource notes that are tapped yeah when you scan for them with the resource scanner and either way people were like oh no but now I was using that to navigate to it or other way around so now we're just showing whether they tapped or not from the get-go so yeah pretty sweet, where's the where's the multibodies last one I mean it should be all like okay we apparently made a mistake no when we, implemented that only only blade runners again yeah and quickly quick swap to the jet pack gas masks don't work in vehicles do we get around to fix that I don't think so we are looking into that one though I'm pretty sure yeah- I mean like the that one that one is like a system issue that is, deeper than it suggests yeah, which happens sometimes, so yeah it will work at some point yeah, multiple water slices is gone well you deleted it no website probably yeah but, it's a really good site for us to keep track like that that is really where we funnel in all the feedback really so like it's it's fine if you guys want to talk about stuff on our discord you know post on our steam forums and whatnot because you know it's a great place for you guys to discuss stuff, it's also a great place for information to be shared within the community about stuff that we've said, which I'm super happy to see that I don't have to like jump into often to like, clarify stuff because I think our community is really good at, conveying sort of what we've said and and what is the state of things, so I'm really really stoked about that, but that like the main well we do read these things it's not like we ignore them or anything like that but the question sites have like the bigger, things stay right like yeah, we re we read everywhere, like discord reddit and the russian side but it's really where these things linger and stay and people can still add to that, yeah as opposed to discord where everything's just, going on somewhere
+>
+> [Music]
+>
+> somebody made a good point I should have posted the the patch notes in oh yeah damn I'm still so pissed me I can't log into steam too much effort log in no no just don't it's two hours and yeah real bummer but, yeah, I should probably sticky this too while we're here or maybe somebody did

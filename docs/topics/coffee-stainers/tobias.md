@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Tobias
 
+## June 14th, 2022 Livestream
+* [Intro](../../transcriptions/yt-Z6bo0pjYghk,5965.883333333333,6054.512350962104.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=5965&end=6055](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=5965&end=6055)
+
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
 * Tobias, Snutt, and Jace Talk: What Tobias has worked on in Update 5 [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=2482&end=2593](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=2482&end=2593)
 * Q&A: Are you a ceiling builder, Tobias? [https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=2901&end=2944](https://youtube.com/embed/Rumqu_lyapg?autoplay=1&start=2901&end=2944)

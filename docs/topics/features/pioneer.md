@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Features](../../topics/features.md) > Pioneer
 
+## June 14th, 2022 Livestream
+* [Mark & Snutt Talk: New VFX for the Pulse Nobelisk & health recovery](../../transcriptions/yt-Z6bo0pjYghk,5869.254179,5926.311953.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=5869&end=5927](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=5869&end=5927)
+* [Etienne & Snutt Talk: First-person-view improvements](../../transcriptions/yt-Z6bo0pjYghk,7589.446724349895,7642.892665033142.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=7589&end=7643](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=7589&end=7643)
+
 ## June 7th, 2022 Livestream
 * [Q&A: Will better swimming ever be a thing?](../../transcriptions/yt-FvBaBLcN4zs.md) [https://www.youtube.com/watch?v=FvBaBLcN4zs](https://www.youtube.com/watch?v=FvBaBLcN4zs)
 

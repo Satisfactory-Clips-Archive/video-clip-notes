@@ -8,6 +8,8 @@ topics:
 # [May 24th, 2022 Livestream](../2022-05-24.md)
 ## Q&A: Is the release date for Update 6 still early June?
 https://www.youtube.com/watch?v=RHOcZ9dacAY
+This question was possibly replaced with a more recent answer: [June 14th, 2022 Livestream Q&A: Is it live?](./yt-Z6bo0pjYghk,12065.79417320965,12140.575992.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=12065&end=12141](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=12065&end=12141)
+
 <details>
 <summary>This question may have been asked previously at least 1 other time, as recently as April 2022.</summary>
 

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Requested Features](../../../topics/features/requested-features.md) > Holstering Equipment
 
+## June 14th, 2022 Livestream
+* [Mark & Snutt Talk: Holstering](../../../transcriptions/yt-Z6bo0pjYghk,5775.547437,5794.547222.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=5775&end=5795](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=5775&end=5795)
+
 ## May 24th, 2022 Livestream
 * [State of Dev](../../../transcriptions/yt-FYTbjlXLFp4.md) [https://www.youtube.com/watch?v=FYTbjlXLFp4](https://www.youtube.com/watch?v=FYTbjlXLFp4)
 

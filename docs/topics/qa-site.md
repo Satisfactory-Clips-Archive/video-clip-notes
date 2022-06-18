@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > QA Site
 
+## June 14th, 2022 Livestream
+* [Birk & Snutt Talk: The QA Site](../transcriptions/yt-Z6bo0pjYghk,12443.883891,12745.175684365211.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=12443&end=12746](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=12443&end=12746)
+
 ## May 13th, 2022 Video
 * [Justifying the changes + possible changes to come](../transcriptions/yt-2vAUX3YLH-c,779.6121666666667,815.5147000000001.md) [https://youtube.com/clip/Ugkx5PpBrbmcGZ8DrBq5-RITdwjFLUr9z8Nv](https://youtube.com/clip/Ugkx5PpBrbmcGZ8DrBq5-RITdwjFLUr9z8Nv)
 

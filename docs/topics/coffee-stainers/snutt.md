@@ -8,6 +8,9 @@ date: Last Modified
 * [Snutt Burger Time](../../topics/coffee-stainers/snutt/snutt-burger-time.md)
 * [Snutty Mays](../../topics/coffee-stainers/snutt/snutty-mays.md)
 
+## June 14th, 2022 Livestream
+* [Tobias, Etienne, & Snutt Talk: New Ammo types (Part 2)](../../transcriptions/yt-Z6bo0pjYghk,6248.647373115271,6289.66688.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=6248&end=6290](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=6248&end=6290)
+
 ## June 7th, 2022 Livestream
 * [Community FYI: I loved your build-up to the detonation of the Nuke](../../transcriptions/yt--s3CLYiLKlI.md) [https://www.youtube.com/watch?v=-s3CLYiLKlI](https://www.youtube.com/watch?v=-s3CLYiLKlI)
 

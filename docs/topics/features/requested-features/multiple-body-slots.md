@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Requested Features](../../../topics/features/requested-features.md) > Multiple Body Slots
 
+## June 14th, 2022 Livestream
+* [Mark & Snutt Talk: Multiple Body Slots](../../../transcriptions/yt-Z6bo0pjYghk,5384.647315267558,5429.263761.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=5384&end=5430](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=5384&end=5430)
+
 ## May 24th, 2022 Livestream
 * [State of Dev](../../../transcriptions/yt-FYTbjlXLFp4.md) [https://www.youtube.com/watch?v=FYTbjlXLFp4](https://www.youtube.com/watch?v=FYTbjlXLFp4)
 * [Q&A: Are there going to be more Body Slots?](../../../transcriptions/yt-ELRYpQPxsOo.md) [https://www.youtube.com/watch?v=ELRYpQPxsOo](https://www.youtube.com/watch?v=ELRYpQPxsOo)

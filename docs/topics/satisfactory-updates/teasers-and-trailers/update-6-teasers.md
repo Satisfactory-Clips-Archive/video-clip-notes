@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Teasers & Trailers](../../../topics/satisfactory-updates/teasers-and-trailers.md) > Update 6 Teasers
 
+## June 14th, 2022 Livestream
+* [Tobias, Etienne, & Snutt Talk: New Ammo types (Part 2)](../../../transcriptions/yt-Z6bo0pjYghk,6248.647373115271,6289.66688.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=6248&end=6290](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=6248&end=6290)
+* [Hannah, Anna, Torsten, & Snutt Talk: No Patch Notes or release trailer for Experimental Release (Part 1)](../../../transcriptions/yt-Z6bo0pjYghk,11129.395503,11178.812064025835.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=11129&end=11179](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=11129&end=11179)
+* [Snutt Talk: No Patch Notes or release trailer for Experimental Release (Part 2)](../../../transcriptions/yt-Z6bo0pjYghk,11386.312668,11409.830664.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=11386&end=11410](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=11386&end=11410)
+
 ## June 10th, 2022 Video
 * [Cold Open](../../../transcriptions/yt-4pGTnG6Cy5E,,40.57386666666667.md) [https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=0&end=41](https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=0&end=41)
 * [Rebuilding the Creature AI](../../../transcriptions/yt-4pGTnG6Cy5E,76.44303333333333,130.0299.md) [https://youtube.com/clip/UgkxhXuFoI418NdFDDn-F4uBicz-gX7BFrtn](https://youtube.com/clip/UgkxhXuFoI418NdFDDn-F4uBicz-gX7BFrtn)

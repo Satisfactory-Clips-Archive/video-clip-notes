@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Technology](../../../topics/technology.md) > [User Interface](../../../topics/technology/user-interface.md) > Markers
 
+## June 14th, 2022 Livestream
+* [Tobias, Etienne, & Snutt Talk: Map changes](../../../transcriptions/yt-Z6bo0pjYghk,6289.66688,6373.193114.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=6289&end=6374](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=6289&end=6374)
+
 ## May 24th, 2022 Livestream
 * [State of Dev](../../../transcriptions/yt-FYTbjlXLFp4.md) [https://www.youtube.com/watch?v=FYTbjlXLFp4](https://www.youtube.com/watch?v=FYTbjlXLFp4)
 * [Q&A: What if we have more than 100 Beacons on the Map, will the rest disappear?](../../../transcriptions/yt-9W52fwmEPEI.md) [https://www.youtube.com/watch?v=9W52fwmEPEI](https://www.youtube.com/watch?v=9W52fwmEPEI)

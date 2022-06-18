@@ -5,6 +5,32 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Community Highlights
 
+## June 14th, 2022 Livestream
+* [A wild Jace appears](../../transcriptions/yt-Z6bo0pjYghk,868.48164,977.707106.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=868&end=978](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=868&end=978)
+* [Intro](../../transcriptions/yt-Z6bo0pjYghk,1140.43303,1184.362162.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=1140&end=1185](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=1140&end=1185)
+* [XSEIDET - BFG](../../transcriptions/yt-Z6bo0pjYghk,1184.362162,1312.8433587563136.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=1184&end=1313](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=1184&end=1313)
+* [ShinoHarvest - Double Helix all the way](../../transcriptions/yt-Z6bo0pjYghk,1312.8433587563136,1405.627833.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=1312&end=1406](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=1312&end=1406)
+* [Le_Mingus_Blyat - their little crane site](../../transcriptions/yt-Z6bo0pjYghk,1405.627833,1471.265766.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=1405&end=1472](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=1405&end=1472)
+* [skyyscythe - the NEW NEW meta](../../transcriptions/yt-Z6bo0pjYghk,1471.265766,1629.63152.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=1471&end=1630](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=1471&end=1630)
+* [houghi - They're out there](../../transcriptions/yt-Z6bo0pjYghk,1629.63152,1698.478271.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=1629&end=1699](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=1629&end=1699)
+* [TheRealMooChiChi - Bestagon Drone Hub](../../transcriptions/yt-Z6bo0pjYghk,1698.478271,1794.804943.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=1698&end=1795](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=1698&end=1795)
+* [Aeoliran - Time well spent](../../transcriptions/yt-Z6bo0pjYghk,1794.804943,1883.2504181419226.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=1794&end=1884](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=1794&end=1884)
+* [KaiaSebastian - Balloooooon](../../transcriptions/yt-Z6bo0pjYghk,1883.2504181419226,2048.792976.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=1883&end=2049](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=1883&end=2049)
+* [TheRealMooChiChi - Just a basic train intersection](../../transcriptions/yt-Z6bo0pjYghk,2048.792976,2131.967888.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=2048&end=2132](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=2048&end=2132)
+* [pobkac - if you die in the game you die in the game](../../transcriptions/yt-Z6bo0pjYghk,2131.967888,2206.250704893599.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=2131&end=2207](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=2131&end=2207)
+* [houghi - doesn't take direction](../../transcriptions/yt-Z6bo0pjYghk,2206.250704893599,2318.9930316634927.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=2206&end=2319](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=2206&end=2319)
+* [KishoreXD - This is how copper works](../../transcriptions/yt-Z6bo0pjYghk,2318.9930316634927,2389.83759.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=2318&end=2390](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=2318&end=2390)
+* [d4ddycool - blue crater shenanigans](../../transcriptions/yt-Z6bo0pjYghk,2389.83759,2547.4166666666665.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=2389&end=2548](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=2389&end=2548)
+* [eightpointsinblue - What a save!](../../transcriptions/yt-Z6bo0pjYghk,2547.4333333333334,2691.712668.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=2547&end=2692](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=2547&end=2692)
+* [hooloovooblu - Title goes here](../../transcriptions/yt-Z6bo0pjYghk,2691.712668,2764.016666666667.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=2691&end=2765](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=2691&end=2765)
+* [Creepy_Conclusion - looking sharp](../../transcriptions/yt-Z6bo0pjYghk,2764.0333333333333,2820.724064.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=2764&end=2821](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=2764&end=2821)
+* [Lunacelestial69 - throwing nobelisks in glass houses](../../transcriptions/yt-Z6bo0pjYghk,2820.724064,2935.383333333333.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=2820&end=2936](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=2820&end=2936)
+* [ReverendNoNo - power for the masses](../../transcriptions/yt-Z6bo0pjYghk,2935.4,3035.0666666666666.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=2935&end=3036](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=2935&end=3036)
+* [_Dragonhart - Business power](../../transcriptions/yt-Z6bo0pjYghk,3035.0833333333335,3115.133333333333.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=3035&end=3116](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=3035&end=3116)
+* [AxialC44 - Next stop: the Swamp](../../transcriptions/yt-Z6bo0pjYghk,3115.15,3233.1666666666665.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=3115&end=3234](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=3115&end=3234)
+* [GameGearMaster - BIG BUILD](../../transcriptions/yt-Z6bo0pjYghk,3233.1833333333334,3289.797885.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=3233&end=3290](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=3233&end=3290)
+* [How to get featured in Community Highlights](../../transcriptions/yt-Z6bo0pjYghk,3289.797885,3349.8166666666666.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=3289&end=3350](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=3289&end=3350)
+
 ## May 24th, 2022 Livestream
 * [Snutt & Jace Talk: Explorer parking quirks](../../transcriptions/yt-G-7U-KzevoE.md) [https://www.youtube.com/watch?v=G-7U-KzevoE](https://www.youtube.com/watch?v=G-7U-KzevoE)
 

@@ -14,6 +14,9 @@ date: Last Modified
 * [Steel](../../topics/environment/resources/steel.md)
 * [Water](../../topics/environment/resources/water.md)
 
+## June 14th, 2022 Livestream
+* [Mark & Snutt Talk: Update 6 M.A.M.](../../transcriptions/yt-Z6bo0pjYghk,4978.238237,5274.167479.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=4978&end=5275](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=4978&end=5275)
+
 ## June 10th, 2022 Video
 * [Alien Protein](../../transcriptions/yt-4pGTnG6Cy5E,379.011916,405.8387666666667.md) [https://youtube.com/clip/Ugkxe0te-xfPno-KDVT9BUT0_Njd_nFU1-Cc](https://youtube.com/clip/Ugkxe0te-xfPno-KDVT9BUT0_Njd_nFU1-Cc)
 

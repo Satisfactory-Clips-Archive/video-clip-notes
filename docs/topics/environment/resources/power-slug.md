@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Resources](../../../topics/environment/resources.md) > Power Slug
 
+## June 14th, 2022 Livestream
+* [Mark & Snutt Talk: Update 6 M.A.M.](../../../transcriptions/yt-Z6bo0pjYghk,4978.238237,5274.167479.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=4978&end=5275](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=4978&end=5275)
+
 ## May 10th, 2022 Livestream
 * [Hannah talks Spire Coast](../../../transcriptions/yt-FqhboAjAiYY.md) [https://www.youtube.com/watch?v=FqhboAjAiYY](https://www.youtube.com/watch?v=FqhboAjAiYY)
 

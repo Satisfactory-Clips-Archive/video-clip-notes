@@ -25,6 +25,10 @@ date: Last Modified
 * [Vilsol](../topics/community/vilsol.md)
 * [Wiki](../topics/community/wiki.md)
 
+## June 14th, 2022 Livestream
+* [Snutt Talk: Lizard Doggo Merch](../transcriptions/yt-Z6bo0pjYghk,11410.623226,11507.083333333334.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=11410&end=11508](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=11410&end=11508)
+* [Stefan, & Snutt Talk: Heroic Replicas shipping](../transcriptions/yt-Z6bo0pjYghk,11658.757419,11799.808154328772.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=11658&end=11800](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=11658&end=11800)
+
 ## June 7th, 2022 Livestream
 * [Q&A: Any news on Lego?](../transcriptions/yt-LdkpBMp-aXw.md) [https://www.youtube.com/watch?v=LdkpBMp-aXw](https://www.youtube.com/watch?v=LdkpBMp-aXw)
 * [Q&A: Update 7 is here?](../transcriptions/yt-Az1jTvsJIGc.md) [https://www.youtube.com/watch?v=Az1jTvsJIGc](https://www.youtube.com/watch?v=Az1jTvsJIGc)

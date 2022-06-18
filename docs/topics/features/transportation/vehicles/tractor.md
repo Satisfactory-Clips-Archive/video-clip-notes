@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > Transportation > [Vehicles](../../../../topics/features/transportation/vehicles.md) > Tractor
 
+## June 14th, 2022 Livestream
+* [Coffee Stainers trolling each other](../../../../transcriptions/yt-Z6bo0pjYghk,5161.84648,5173.709039764452.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=5161&end=5174](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=5161&end=5174)
+
 ## April 15th, 2022 Video
 * [Snutt & Stefan Talk: Tractor in Sprint 20](../../../../transcriptions/yt-7I3NGAm3j_4,1600.1986,1614.1458666666667.md) [https://youtube.com/clip/UgkxoCo4Xhhe8ReuQTO17Lcr8K2ROGq84FlW](https://youtube.com/clip/UgkxoCo4Xhhe8ReuQTO17Lcr8K2ROGq84FlW)
 

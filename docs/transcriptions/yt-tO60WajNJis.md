@@ -8,7 +8,7 @@ topics:
 # [September 7th, 2021 Livestream](../2021-09-07.md)
 ## Q&A: Will you add Steam Achievements when the game is done?
 https://www.youtube.com/watch?v=tO60WajNJis
-This question was possibly duplicated with a more recent answer: [February 8th, 2022 Livestream Q&A: Are there Achievements planned for Satisfactory?](./yt-i-9UAyVFe6s.md) [https://www.youtube.com/watch?v=i-9UAyVFe6s](https://www.youtube.com/watch?v=i-9UAyVFe6s)
+This question was possibly duplicated with a more recent answer: [June 14th, 2022 Livestream Q&A: Will you add Achievements?](./yt-Z6bo0pjYghk,5794.547222,5807.542091.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=5794&end=5808](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=5794&end=5808)
 
 
 ### Topics

@@ -6,6 +6,21 @@ date: Last Modified
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Equipment](../../../topics/features/equipment.md) > Nobelisk
 * [Nobelisk Detonator](../../../topics/features/equipment/nobelisk/detonator.md)
 
+## June 14th, 2022 Livestream
+* [Mark & Snutt Talk: Update 6 M.A.M.](../../../transcriptions/yt-Z6bo0pjYghk,4978.238237,5274.167479.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=4978&end=5275](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=4978&end=5275)
+* [Mark & Snutt Talk: New Ammo types (Part 1)](../../../transcriptions/yt-Z6bo0pjYghk,5429.263761,5482.26162.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=5429&end=5483](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=5429&end=5483)
+* [Mark & Snutt Talk: New VFX for the Pulse Nobelisk & health recovery](../../../transcriptions/yt-Z6bo0pjYghk,5869.254179,5926.311953.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=5869&end=5927](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=5869&end=5927)
+* [Etienne, & Snutt Talk: Weapon changes snuck in early](../../../transcriptions/yt-Z6bo0pjYghk,6054.512350962104,6108.120519.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=6054&end=6109](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=6054&end=6109)
+* [Tobias, Etienne, & Snutt Talk: New Ammo types (Part 2)](../../../transcriptions/yt-Z6bo0pjYghk,6248.647373115271,6289.66688.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=6248&end=6290](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=6248&end=6290)
+* [Tobias, Etienne, & Snutt Talk: New Ammo types (Part 3)](../../../transcriptions/yt-Z6bo0pjYghk,6373.193114,6898.664301.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=6373&end=6899](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=6373&end=6899)
+* [Tobias, Etienne, & Snutt Talk: New Ammo types (Part 4)](../../../transcriptions/yt-Z6bo0pjYghk,6925.322579,7226.165107.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=6925&end=7227](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=6925&end=7227)
+* [Tobias, Etienne, & Snutt Talk: New Ammo types (Part 5)](../../../transcriptions/yt-Z6bo0pjYghk,7226.165107,7361.624166137895.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=7226&end=7362](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=7226&end=7362)
+* [Tobias, Etienne, & Snutt Talk: New Ammo types (Part 6)](../../../transcriptions/yt-Z6bo0pjYghk,7361.624166137895,7516.174063735765.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=7361&end=7517](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=7361&end=7517)
+* [Ben, Dylan, Simon, & Snutt Talk: Nuke Nobelisks](../../../transcriptions/yt-Z6bo0pjYghk,7750.400283043454,7848.671851.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=7750&end=7849](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=7750&end=7849)
+* [Ben, Dylan, Simon, & Snutt Talk: Shenannnahgans](../../../transcriptions/yt-Z6bo0pjYghk,8305.051700759544,8360.260447025314.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=8305&end=8361](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=8305&end=8361)
+* [Hannah, Anna, Torsten, & Snutt Talk: New Ammo types (Part 7)](../../../transcriptions/yt-Z6bo0pjYghk,10156.242717564744,10190.03842753694.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=10156&end=10191](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=10156&end=10191)
+* [Hannah, Anna, Torsten, & Snutt Talk: New Ammo types (Part 8)](../../../transcriptions/yt-Z6bo0pjYghk,10349.995612388688,10612.487054.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=10349&end=10613](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=10349&end=10613)
+
 ## June 7th, 2022 Livestream
 * [Q&A: Will there be Alt Recipes for the new Ammo types?](../../../transcriptions/yt-SMScXkpXKPc.md) [https://www.youtube.com/watch?v=SMScXkpXKPc](https://www.youtube.com/watch?v=SMScXkpXKPc)
 * [Q&A: Will Nukes use Waste?](../../../transcriptions/yt-Z2ncq57UyC0.md) [https://www.youtube.com/watch?v=Z2ncq57UyC0](https://www.youtube.com/watch?v=Z2ncq57UyC0)

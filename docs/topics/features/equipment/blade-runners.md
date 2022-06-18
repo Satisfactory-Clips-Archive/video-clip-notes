@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Equipment](../../../topics/features/equipment.md) > Blade Runners
 
+## June 14th, 2022 Livestream
+* [Mark & Snutt Talk: Update 6 M.A.M.](../../../transcriptions/yt-Z6bo0pjYghk,4978.238237,5274.167479.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=4978&end=5275](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=4978&end=5275)
+* [Mark & Snutt Talk: Multiple Body Slots](../../../transcriptions/yt-Z6bo0pjYghk,5384.647315267558,5429.263761.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=5384&end=5430](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=5384&end=5430)
+
 ## June 10th, 2022 Video
 * [Blade Runners](../../../transcriptions/yt-4pGTnG6Cy5E,424.35726666666665,433.9335.md) [https://youtube.com/clip/Ugkx-pleBd8puxUPWn2y3ZryXwojJCacc9rl](https://youtube.com/clip/Ugkx-pleBd8puxUPWn2y3ZryXwojJCacc9rl)
 

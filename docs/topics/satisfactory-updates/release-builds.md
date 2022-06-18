@@ -5,6 +5,21 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > Release Builds
 
+## June 14th, 2022 Livestream
+* [Intro](../../transcriptions/yt-Z6bo0pjYghk,699.7833333333333,786.810265.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=699&end=787](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=699&end=787)
+* [Update 6 on Experimental not in a final state](../../transcriptions/yt-Z6bo0pjYghk,4072.730606,4135.148343.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=4072&end=4136](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=4072&end=4136)
+* [Q&A: When is Update?](../../transcriptions/yt-Z6bo0pjYghk,8860.29394891813,8878.897685.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=8860&end=8879](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=8860&end=8879)
+* [Hannah, Anna, Torsten, & Snutt Talk: 5 minutes left to launch](../../transcriptions/yt-Z6bo0pjYghk,10965.503248,11129.395503.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=10965&end=11130](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=10965&end=11130)
+* [Hannah, Anna, Torsten, & Snutt Talk: No Patch Notes or release trailer for Experimental Release (Part 1)](../../transcriptions/yt-Z6bo0pjYghk,11129.395503,11178.812064025835.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=11129&end=11179](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=11129&end=11179)
+* [It's the final countdown](../../transcriptions/yt-Z6bo0pjYghk,11178.812064025835,11386.312668.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=11178&end=11387](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=11178&end=11387)
+* [Snutt Talk: No Patch Notes or release trailer for Experimental Release (Part 2)](../../transcriptions/yt-Z6bo0pjYghk,11386.312668,11409.830664.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=11386&end=11410](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=11386&end=11410)
+* [Birk & Snutt Talk: Update 6 initial release Patch Notes (Part 1)](../../transcriptions/yt-Z6bo0pjYghk,11532.219201680113,11658.757419.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=11532&end=11659](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=11532&end=11659)
+* [Stefan & Snutt Talk: Switching to the Experimental release](../../transcriptions/yt-Z6bo0pjYghk,11799.808154328772,11885.578509564815.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=11799&end=11886](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=11799&end=11886)
+* [Q&A: Is it live?](../../transcriptions/yt-Z6bo0pjYghk,12065.79417320965,12140.575992.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=12065&end=12141](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=12065&end=12141)
+* [Birk & Snutt Talk: Update 6 initial release Patch Notes (Part 2)](../../transcriptions/yt-Z6bo0pjYghk,12191.890509,12236.083333333334.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=12191&end=12237](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=12191&end=12237)
+* [Birk & Snutt Talk: Patch Notes (Part 3)](../../transcriptions/yt-Z6bo0pjYghk,12408.3994536901,12443.883891.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=12408&end=12444](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=12408&end=12444)
+* [Birk & Snutt Talk: The QA Site](../../transcriptions/yt-Z6bo0pjYghk,12443.883891,12745.175684365211.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=12443&end=12746](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=12443&end=12746)
+
 ## June 7th, 2022 Livestream
 * [State of Dev](../../transcriptions/yt-Hk3kvpq7Ofo.md) [https://www.youtube.com/watch?v=Hk3kvpq7Ofo](https://www.youtube.com/watch?v=Hk3kvpq7Ofo)
 * [Q&A: Will the World Update go on the EA and Experimental branches at the same time ?](../../transcriptions/yt-k-cQOW2WL4w.md) [https://www.youtube.com/watch?v=k-cQOW2WL4w](https://www.youtube.com/watch?v=k-cQOW2WL4w)

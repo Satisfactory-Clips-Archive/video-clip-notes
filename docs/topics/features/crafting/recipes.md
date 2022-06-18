@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Crafting](../../../topics/features/crafting.md) > Recipes
 * [Alternate Recipes](../../../topics/features/crafting/recipes/alternate-recipes.md)
 
+## June 14th, 2022 Livestream
+* [Birk & Snutt Talk: Remote Copy & Paste](../../../transcriptions/yt-Z6bo0pjYghk,12349.200313,12408.3994536901.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=12349&end=12409](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=12349&end=12409)
+
 ## June 7th, 2022 Livestream
 * [Q&A: Will Nukes use Waste?](../../../transcriptions/yt-Z2ncq57UyC0.md) [https://www.youtube.com/watch?v=Z2ncq57UyC0](https://www.youtube.com/watch?v=Z2ncq57UyC0)
 * [Q&A: What Recipes are you looking for to rebalance, if any?](../../../transcriptions/yt-9Mhn8S_U0DE.md) [https://www.youtube.com/watch?v=9Mhn8S_U0DE](https://www.youtube.com/watch?v=9Mhn8S_U0DE)

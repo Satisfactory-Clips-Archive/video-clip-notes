@@ -22,6 +22,9 @@ date: Last Modified
 * [Xeno-Zapper](../../topics/features/equipment/xeno-zapper.md)
 * [Zip Lines](../../topics/features/equipment/zip-lines.md)
 
+## June 14th, 2022 Livestream
+* [Etienne & Snutt Talk: First-person-view improvements](../../transcriptions/yt-Z6bo0pjYghk,7589.446724349895,7642.892665033142.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=7589&end=7643](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=7589&end=7643)
+
 ## June 10th, 2022 Video
 * [Factory Building, Exploration, Creatures, and Combat](../../transcriptions/yt-4pGTnG6Cy5E,353.92023333333333,368.00096666666667.md) [https://youtube.com/clip/UgkxG3vBIOOiE9T3nlqc6y9wOoS9g5pzIgUe](https://youtube.com/clip/UgkxG3vBIOOiE9T3nlqc6y9wOoS9g5pzIgUe)
 * [Smokeless Powder](../../transcriptions/yt-4pGTnG6Cy5E,405.87213333333335,417.98423333333335.md) [https://youtube.com/clip/Ugkx4sj95irpBZsaUo6XEv6TneshNwvZbsk9](https://youtube.com/clip/Ugkx4sj95irpBZsaUo6XEv6TneshNwvZbsk9)

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Seasonal Events](../../../topics/satisfactory-updates/seasonal-events.md) > FICS⁕MAS
 
+## June 14th, 2022 Livestream
+* [Etienne, & Snutt Talk: Weapon changes snuck in early](../../../transcriptions/yt-Z6bo0pjYghk,6054.512350962104,6108.120519.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=6054&end=6109](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=6054&end=6109)
+
 ## May 24th, 2022 Livestream
 * [Q&A: Will the snowballs still work?](../../../transcriptions/yt-dP0uZNdU8q0.md) [https://www.youtube.com/watch?v=dP0uZNdU8q0](https://www.youtube.com/watch?v=dP0uZNdU8q0)
 

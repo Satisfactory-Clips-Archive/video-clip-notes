@@ -8,6 +8,9 @@ date: Last Modified
 * [Quick Switch](../../topics/features/build-modes/quick-switch.md)
 * [Zooping](../../topics/features/build-modes/zooping.md)
 
+## June 14th, 2022 Livestream
+* [Birk & Snutt Talk: Remote Copy & Paste](../../transcriptions/yt-Z6bo0pjYghk,12349.200313,12408.3994536901.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=12349&end=12409](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=12349&end=12409)
+
 ## February 22nd, 2022 Livestream
 * [Q&A: Thoughts on being able to copy/paste Buildings with the settings also copied?](../../transcriptions/yt-RBoV0E1Dpfc.md) [https://www.youtube.com/watch?v=RBoV0E1Dpfc](https://www.youtube.com/watch?v=RBoV0E1Dpfc)
 

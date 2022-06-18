@@ -10,6 +10,9 @@ date: Last Modified
 * [Juice Velvet](../../topics/coffee-stainers/jace/juice-velvet.md)
 * [Robo Jace](../../topics/coffee-stainers/jace/robo-jace.md)
 
+## June 14th, 2022 Livestream
+* [A wild Jace appears](../../transcriptions/yt-Z6bo0pjYghk,868.48164,977.707106.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=868&end=978](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=868&end=978)
+
 ## May 17th, 2022 Livestream
 * [Special Guest](../../transcriptions/yt-pLBIAObULRg.md) [https://www.youtube.com/watch?v=pLBIAObULRg](https://www.youtube.com/watch?v=pLBIAObULRg)
 

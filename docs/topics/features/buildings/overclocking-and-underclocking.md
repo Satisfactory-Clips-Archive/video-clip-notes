@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > Overclocking & Underclocking
 
+## June 14th, 2022 Livestream
+* [Linear Overclocking (Part 1)](../../../transcriptions/yt-Z6bo0pjYghk,3948.074682,4072.730606.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=3948&end=4073](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=3948&end=4073)
+* [Linear Overclocking (Part 2)](../../../transcriptions/yt-Z6bo0pjYghk,4135.148343,4630.361819.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=4135&end=4631](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=4135&end=4631)
+* [Stefan, Birk & Snutt Talk: No linear Overclocking adjustment in Update 6](../../../transcriptions/yt-Z6bo0pjYghk,11885.578509564815,12015.144401285379.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=11885&end=12016](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=11885&end=12016)
+
 ## June 10th, 2022 Video
 * [One More Thing™](../../../transcriptions/yt-4pGTnG6Cy5E,561.2940666666667,606.0387666666667.md) [https://youtube.com/clip/Ugkxjku57B-UdH9SiPf4P7C69IfucIrZS2gS](https://youtube.com/clip/Ugkxjku57B-UdH9SiPf4P7C69IfucIrZS2gS)
 

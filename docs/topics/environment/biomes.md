@@ -18,6 +18,9 @@ date: Last Modified
 * [The Great Canyon](../../topics/environment/biomes/the-great-canyon.md)
 * [Unplanned Biomes](../../topics/environment/biomes/unplanned-biomes.md)
 
+## June 14th, 2022 Livestream
+* [Anna, Torsten, Hannah, & Snutt Talk: The process of creating a Biome](../../transcriptions/yt-Z6bo0pjYghk,9227.432111585491,9475.321543130778.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=9227&end=9476](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=9227&end=9476)
+
 ## June 7th, 2022 Livestream
 * Q&A: Lava zone, when? [https://www.youtube.com/watch?v=ZEnFaSNPCck](https://www.youtube.com/watch?v=ZEnFaSNPCck)
 

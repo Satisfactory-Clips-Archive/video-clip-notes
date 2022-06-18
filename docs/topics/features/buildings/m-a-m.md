@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > M.A.M.
 
+## June 14th, 2022 Livestream
+* [Mark & Snutt Talk: Update 6 M.A.M.](../../../transcriptions/yt-Z6bo0pjYghk,4978.238237,5274.167479.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=4978&end=5275](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=4978&end=5275)
+* [Mark & Snutt Talk: New Ammo types (Part 1)](../../../transcriptions/yt-Z6bo0pjYghk,5429.263761,5482.26162.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=5429&end=5483](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=5429&end=5483)
+
 ## June 10th, 2022 Video
 * [Changes to research visibility / unlock prerequisites](../../../transcriptions/yt-4pGTnG6Cy5E,478.6782,531.8646666666667.md) [https://youtube.com/clip/Ugkxy2MjxoBkqBz7u9uSBYRkMAHVCJvSUIHj](https://youtube.com/clip/Ugkxy2MjxoBkqBz7u9uSBYRkMAHVCJvSUIHj)
 

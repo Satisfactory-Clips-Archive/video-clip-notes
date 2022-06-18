@@ -27,6 +27,9 @@ date: Last Modified
 * [The HUB](../../topics/features/buildings/the-hub.md)
 * [Water Extractor](../../topics/features/buildings/water-extractor.md)
 
+## June 14th, 2022 Livestream
+* [Birk & Snutt Talk: Remote Copy & Paste](../../transcriptions/yt-Z6bo0pjYghk,12349.200313,12408.3994536901.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=12349&end=12409](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=12349&end=12409)
+
 ## June 10th, 2022 Video
 * [Factory Building, Exploration, Creatures, and Combat](../../transcriptions/yt-4pGTnG6Cy5E,353.92023333333333,368.00096666666667.md) [https://youtube.com/clip/UgkxG3vBIOOiE9T3nlqc6y9wOoS9g5pzIgUe](https://youtube.com/clip/UgkxG3vBIOOiE9T3nlqc6y9wOoS9g5pzIgUe)
 

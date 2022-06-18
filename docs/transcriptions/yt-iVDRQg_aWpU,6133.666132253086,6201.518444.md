@@ -8,6 +8,8 @@ topics:
 # [November 23rd, 2021 Livestream](../2021-11-23.md)
 ## Q&A: Where are the save files actually located?
 https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=6133&end=6202
+This question was possibly duplicated with a more recent answer: [June 14th, 2022 Livestream Q&A: Where are my save files?](./yt-Z6bo0pjYghk,12015.144401285379,12065.79417320965.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=12015&end=12066](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=12015&end=12066)
+
 
 ### Topics
 * [Features > Save System](../topics/features/save-system.md)

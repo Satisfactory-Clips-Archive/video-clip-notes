@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Equipment](../../../topics/features/equipment.md) > Rifle
 
+## June 14th, 2022 Livestream
+* [Mark & Snutt Talk: New Ammo types (Part 1)](../../../transcriptions/yt-Z6bo0pjYghk,5429.263761,5482.26162.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=5429&end=5483](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=5429&end=5483)
+* [Ben, Dylan, Simon, & Snutt Talk: Mark gets teabagged](../../../transcriptions/yt-Z6bo0pjYghk,8774.878131481233,8803.197909.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=8774&end=8804](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=8774&end=8804)
+
 ## June 7th, 2022 Livestream
 * [Q&A: Will there be Alt Recipes for the new Ammo types?](../../../transcriptions/yt-SMScXkpXKPc.md) [https://www.youtube.com/watch?v=SMScXkpXKPc](https://www.youtube.com/watch?v=SMScXkpXKPc)
 * [Q&A: Would it be possible to automate the new ammo types, or just manually craft them?](../../../transcriptions/yt-QLDPr7bEDOk.md) [https://www.youtube.com/watch?v=QLDPr7bEDOk](https://www.youtube.com/watch?v=QLDPr7bEDOk)

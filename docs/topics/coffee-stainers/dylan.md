@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Dylan
 
+## June 14th, 2022 Livestream
+* [Ben, Dylan, Simon, & Snutt Talk: Nuke Nobelisks](../../transcriptions/yt-Z6bo0pjYghk,7750.400283043454,7848.671851.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=7750&end=7849](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=7750&end=7849)
+
 ## November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary
 * [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 18)](../../transcriptions/yt-gRzXwedez1c.md) [https://www.youtube.com/watch?v=gRzXwedez1c](https://www.youtube.com/watch?v=gRzXwedez1c)
 * [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 67)](../../transcriptions/yt-sSjSkOu19OM.md) [https://www.youtube.com/watch?v=sSjSkOu19OM](https://www.youtube.com/watch?v=sSjSkOu19OM)

@@ -10,6 +10,11 @@ date: Last Modified
 * [Non Flying Bird](../../topics/environment/creatures/non-flying-bird.md)
 * [Space Giraffe-Tick-Penguin-Whale Thing](../../topics/environment/creatures/space-giraffe-tick-penguin-whale-thing.md)
 
+## June 14th, 2022 Livestream
+* [Tobias, Etienne & Snutt Talk: Creature changes](../../transcriptions/yt-Z6bo0pjYghk,6108.120519,6241.976654.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=6108&end=6242](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=6108&end=6242)
+* [Tobias, Etienne, & Snutt Talk: Stinger changes](../../transcriptions/yt-Z6bo0pjYghk,7516.174063735765,7553.63476.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=7516&end=7554](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=7516&end=7554)
+* [Hannah, Anna, Torsten, & Snutt Talk: New Ammo types (Part 8)](../../transcriptions/yt-Z6bo0pjYghk,10349.995612388688,10612.487054.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=10349&end=10613](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=10349&end=10613)
+
 ## June 10th, 2022 Video
 * [Cold Open](../../transcriptions/yt-4pGTnG6Cy5E,,40.57386666666667.md) [https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=0&end=41](https://youtube.com/embed/4pGTnG6Cy5E?autoplay=1&start=0&end=41)
 * [Rebuilding the Creature AI](../../transcriptions/yt-4pGTnG6Cy5E,76.44303333333333,130.0299.md) [https://youtube.com/clip/UgkxhXuFoI418NdFDDn-F4uBicz-gX7BFrtn](https://youtube.com/clip/UgkxhXuFoI418NdFDDn-F4uBicz-gX7BFrtn)

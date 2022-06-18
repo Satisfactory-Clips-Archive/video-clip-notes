@@ -8,7 +8,7 @@ topics:
 # [March 24th, 2020 Livestream](../2020-03-24.md)
 ## Q&A: Achievements?
 https://www.youtube.com/watch?v=G8K0Bjs8mNo
-This question was possibly duplicated with a more recent answer: [February 8th, 2022 Livestream Q&A: Are there Achievements planned for Satisfactory?](./yt-i-9UAyVFe6s.md) [https://www.youtube.com/watch?v=i-9UAyVFe6s](https://www.youtube.com/watch?v=i-9UAyVFe6s)
+This question was possibly duplicated with a more recent answer: [June 14th, 2022 Livestream Q&A: Will you add Achievements?](./yt-Z6bo0pjYghk,5794.547222,5807.542091.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=5794&end=5808](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=5794&end=5808)
 
 
 ### Topics

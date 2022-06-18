@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Multiplayer](../../../topics/features/multiplayer.md) > Dedicated Servers
 
+## June 14th, 2022 Livestream
+* [Q&A: Any changes to Dedicated Servers in Update 6?](../../../transcriptions/yt-Z6bo0pjYghk,4692.516695,4762.732307.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=4692&end=4763](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=4692&end=4763)
+
 ## June 7th, 2022 Livestream
 * [Q&A: Any buffs to the Autosave on Servers coming?](../../../transcriptions/yt-W4W-x6usIVg.md) [https://www.youtube.com/watch?v=W4W-x6usIVg](https://www.youtube.com/watch?v=W4W-x6usIVg)
 * [Q&A: Is there any work ongoing with Mods for Dedicated Servers?](../../../transcriptions/yt-rSNJPtn2N6k.md) [https://www.youtube.com/watch?v=rSNJPtn2N6k](https://www.youtube.com/watch?v=rSNJPtn2N6k)

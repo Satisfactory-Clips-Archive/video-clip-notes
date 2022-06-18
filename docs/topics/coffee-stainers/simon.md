@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Simon
 * [Simon Saga](../../topics/coffee-stainers/simon/simon-saga.md)
 
+## June 14th, 2022 Livestream
+* [Ben, Dylan, Simon, & Snutt Talk: Nuke Nobelisks](../../transcriptions/yt-Z6bo0pjYghk,7750.400283043454,7848.671851.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=7750&end=7849](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=7750&end=7849)
+
 ## June 7th, 2022 Livestream
 * [Q&A: Will you get Hannah on stream for the Swamp changes?](../../transcriptions/yt-uDgfoaD4Sfs.md) [https://www.youtube.com/watch?v=uDgfoaD4Sfs](https://www.youtube.com/watch?v=uDgfoaD4Sfs)
 

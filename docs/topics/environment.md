@@ -11,6 +11,12 @@ date: Last Modified
 * [Resources](../topics/environment/resources.md)
 * [World Map](../topics/environment/world-map.md)
 
+## June 14th, 2022 Livestream
+* [Tobias, Etienne, & Snutt Talk: New Atmosphere system (Part 1)](../transcriptions/yt-Z6bo0pjYghk,6898.664301,6925.322579.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=6898&end=6926](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=6898&end=6926)
+* [Ben, Dylan, Simon, & Snutt Talk: New Atmosphere system (Part 2)](../transcriptions/yt-Z6bo0pjYghk,8127.107961730213,8276.579761613913.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=8127&end=8277](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=8127&end=8277)
+* [Q&A: Did we ever get around to adding so you can turn Rain off?](../transcriptions/yt-Z6bo0pjYghk,8276.579761613913,8293.536733681256.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=8276&end=8294](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=8276&end=8294)
+* [Hannah, Anna, Torsten, & Snutt Talk: New Water textures](../transcriptions/yt-Z6bo0pjYghk,10190.03842753694,10204.502641.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=10190&end=10205](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=10190&end=10205)
+
 ## June 10th, 2022 Video
 * [Factory Building, Exploration, Creatures, and Combat](../transcriptions/yt-4pGTnG6Cy5E,353.92023333333333,368.00096666666667.md) [https://youtube.com/clip/UgkxG3vBIOOiE9T3nlqc6y9wOoS9g5pzIgUe](https://youtube.com/clip/UgkxG3vBIOOiE9T3nlqc6y9wOoS9g5pzIgUe)
 
