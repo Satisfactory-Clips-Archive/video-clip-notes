@@ -10,7 +10,7 @@ topics:
 ---
 # [June 17th, 2022 Video](../2022-06-17.md)
 ## Snutt Talk: How to check out Update 6 on Steam & Epic
-https://youtube.com/embed/acZOxaTkcCY?autoplay=1&start=49&end=76
+https://youtube.com/clip/UgkxcaZNnDl-U-_hLYWK8PSPeMSAt7lgcMUl
 
 ### Topics
 * [Retail > Epic Store](../topics/retail/epic-store.md)

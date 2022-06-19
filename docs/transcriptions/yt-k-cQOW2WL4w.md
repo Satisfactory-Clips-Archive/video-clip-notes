@@ -12,6 +12,8 @@ topics:
 # [June 7th, 2022 Livestream](../2022-06-07.md)
 ## Q&A: Will the World Update go on the EA and Experimental branches at the same time ?
 https://www.youtube.com/watch?v=k-cQOW2WL4w
+This question was possibly duplicated with a more recent answer: [June 17th, 2022 Video Q&A: What happens now?](./yt-acZOxaTkcCY,310.84386666666666,455.95550000000003.md) [https://youtube.com/embed/acZOxaTkcCY?autoplay=1&start=310&end=456](https://youtube.com/embed/acZOxaTkcCY?autoplay=1&start=310&end=456)
+
 
 ### Topics
 * [Environment > Biomes > Spire Coast](../topics/environment/biomes/spire-coast.md)

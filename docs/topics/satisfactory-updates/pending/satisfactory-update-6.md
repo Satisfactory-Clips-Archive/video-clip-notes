@@ -6,9 +6,9 @@ date: Last Modified
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Pending](../../../topics/satisfactory-updates/pending.md) > Satisfactory Update 6
 
 ## June 17th, 2022 Video
-* [Snutt Talk: How to check out Update 6 on Steam & Epic](../../../transcriptions/yt-acZOxaTkcCY,49.474768,75.978834325334.md) [https://youtube.com/embed/acZOxaTkcCY?autoplay=1&start=49&end=76](https://youtube.com/embed/acZOxaTkcCY?autoplay=1&start=49&end=76)
+* [Snutt Talk: How to check out Update 6 on Steam & Epic](../../../transcriptions/yt-acZOxaTkcCY,49.474768,75.978834325334.md) [https://youtube.com/clip/UgkxcaZNnDl-U-_hLYWK8PSPeMSAt7lgcMUl](https://youtube.com/clip/UgkxcaZNnDl-U-_hLYWK8PSPeMSAt7lgcMUl)
 * [Snutt Talk: Back up your damn save files](../../../transcriptions/yt-acZOxaTkcCY,75.978834325334,152.11863333333335.md) [https://youtube.com/embed/acZOxaTkcCY?autoplay=1&start=75&end=153](https://youtube.com/embed/acZOxaTkcCY?autoplay=1&start=75&end=153)
-* [Snutt Talk: You can't load Experimental saves in the Early Access branch](../../../transcriptions/yt-acZOxaTkcCY,152.15200000000002,179.61276666666666.md) [https://youtube.com/embed/acZOxaTkcCY?autoplay=1&start=152&end=180](https://youtube.com/embed/acZOxaTkcCY?autoplay=1&start=152&end=180)
+* [Snutt Talk: You can't load Experimental saves in the Early Access branch](../../../transcriptions/yt-acZOxaTkcCY,152.15200000000002,179.61276666666666.md) [https://youtube.com/clip/UgkxCPp6Mj2-0b63Y42eHfA-UELJ90g8eiLm](https://youtube.com/clip/UgkxCPp6Mj2-0b63Y42eHfA-UELJ90g8eiLm)
 * [Q&A: When is it going to be out on EA?](../../../transcriptions/yt-acZOxaTkcCY,190.552814,310.8105.md) [https://youtube.com/embed/acZOxaTkcCY?autoplay=1&start=190&end=311](https://youtube.com/embed/acZOxaTkcCY?autoplay=1&start=190&end=311)
 * [Q&A: What happens now?](../../../transcriptions/yt-acZOxaTkcCY,310.84386666666666,455.95550000000003.md) [https://youtube.com/embed/acZOxaTkcCY?autoplay=1&start=310&end=456](https://youtube.com/embed/acZOxaTkcCY?autoplay=1&start=310&end=456)
 * [Snutt Talk: How to notify Coffee Stain about bugs](../../../transcriptions/yt-acZOxaTkcCY,455.9888666666667,523.4229.md) [https://youtube.com/embed/acZOxaTkcCY?autoplay=1&start=455&end=524](https://youtube.com/embed/acZOxaTkcCY?autoplay=1&start=455&end=524)

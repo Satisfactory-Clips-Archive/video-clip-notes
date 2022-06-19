@@ -9,7 +9,7 @@ topics:
 ---
 # [June 17th, 2022 Video](../2022-06-17.md)
 ## Snutt Talk: You can't load Experimental saves in the Early Access branch
-https://youtube.com/embed/acZOxaTkcCY?autoplay=1&start=152&end=180
+https://youtube.com/clip/UgkxCPp6Mj2-0b63Y42eHfA-UELJ90g8eiLm
 
 ### Topics
 * [Features > Save System](../topics/features/save-system.md)

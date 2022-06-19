@@ -2,6 +2,25 @@
 title: "Frequently Asked Questions"
 date: Last Modified
 ---
+## [June 17th, 2022 Video](./2022-06-17.md)
+### [Q&A: When's Update 7?](./transcriptions/yt-acZOxaTkcCY,179.64613333333332,190.552814.md) [https://youtube.com/clip/UgkxAXhsK_YQM6ftkqR9WnQWRaw1zX4QNeZf](https://youtube.com/clip/UgkxAXhsK_YQM6ftkqR9WnQWRaw1zX4QNeZf)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> experimental so the next hard pressing question a lot of people have is like okay so it's out on experimental when's update seven no well people ask that too because they're but that's not what i actually wanted to say uh no but the people ask
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 2 other times, as recently as June 2022 and as early as March 2022.</summary>
+
+* [June 7th, 2022 Livestream Q&A: Update 7 is here?](./transcriptions/yt-Az1jTvsJIGc.md) [https://www.youtube.com/watch?v=Az1jTvsJIGc](https://www.youtube.com/watch?v=Az1jTvsJIGc)
+* [March 15th, 2022 Livestream Q&A: Is there a rough estimate for the next Update?](./transcriptions/yt-c-M3BviVCzE.md) [https://www.youtube.com/watch?v=c-M3BviVCzE](https://www.youtube.com/watch?v=c-M3BviVCzE)
+</details>
+
 ## [June 14th, 2022 Livestream](./2022-06-14.md)
 ### [Q&A: Will you add Achievements?](./transcriptions/yt-Z6bo0pjYghk,5794.547222,5807.542091.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=5794&end=5808](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=5794&end=5808)
 

@@ -9,6 +9,8 @@ topics:
 # [June 17th, 2022 Video](../2022-06-17.md)
 ## Q&A: When is it going to be out on EA?
 https://youtube.com/embed/acZOxaTkcCY?autoplay=1&start=190&end=311
+This question was possibly duplicated with a more recent answer: [June 17th, 2022 Video Q&A: What happens now?](./yt-acZOxaTkcCY,310.84386666666666,455.95550000000003.md) [https://youtube.com/embed/acZOxaTkcCY?autoplay=1&start=310&end=456](https://youtube.com/embed/acZOxaTkcCY?autoplay=1&start=310&end=456)
+
 
 ### Topics
 * [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)

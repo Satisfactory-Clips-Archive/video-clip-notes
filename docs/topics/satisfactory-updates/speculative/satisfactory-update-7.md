@@ -6,7 +6,7 @@ date: Last Modified
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Speculative > Satisfactory Update 7
 
 ## June 17th, 2022 Video
-* [Q&A: When's Update 7?](../../../transcriptions/yt-acZOxaTkcCY,179.64613333333332,190.552814.md) [https://youtube.com/embed/acZOxaTkcCY?autoplay=1&start=179&end=191](https://youtube.com/embed/acZOxaTkcCY?autoplay=1&start=179&end=191)
+* [Q&A: When's Update 7?](../../../transcriptions/yt-acZOxaTkcCY,179.64613333333332,190.552814.md) [https://youtube.com/clip/UgkxAXhsK_YQM6ftkqR9WnQWRaw1zX4QNeZf](https://youtube.com/clip/UgkxAXhsK_YQM6ftkqR9WnQWRaw1zX4QNeZf)
 
 ## June 7th, 2022 Livestream
 * [Q&A: Update 7 is here?](../../../transcriptions/yt-Az1jTvsJIGc.md) [https://www.youtube.com/watch?v=Az1jTvsJIGc](https://www.youtube.com/watch?v=Az1jTvsJIGc)

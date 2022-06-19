@@ -26,7 +26,7 @@ date: Last Modified
 * [Wiki](../topics/community/wiki.md)
 
 ## June 17th, 2022 Video
-* [Q&A: When's Update 7?](../transcriptions/yt-acZOxaTkcCY,179.64613333333332,190.552814.md) [https://youtube.com/embed/acZOxaTkcCY?autoplay=1&start=179&end=191](https://youtube.com/embed/acZOxaTkcCY?autoplay=1&start=179&end=191)
+* [Q&A: When's Update 7?](../transcriptions/yt-acZOxaTkcCY,179.64613333333332,190.552814.md) [https://youtube.com/clip/UgkxAXhsK_YQM6ftkqR9WnQWRaw1zX4QNeZf](https://youtube.com/clip/UgkxAXhsK_YQM6ftkqR9WnQWRaw1zX4QNeZf)
 
 ## June 14th, 2022 Livestream
 * [Snutt Talk: Lizard Doggo Merch](../transcriptions/yt-Z6bo0pjYghk,11410.623226,11507.083333333334.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=11410&end=11508](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=11410&end=11508)

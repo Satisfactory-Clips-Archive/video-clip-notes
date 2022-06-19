@@ -6,7 +6,7 @@ date: Last Modified
 # [Topics](../topics.md) > Trolling
 
 ## June 17th, 2022 Video
-* [Q&A: When's Update 7?](../transcriptions/yt-acZOxaTkcCY,179.64613333333332,190.552814.md) [https://youtube.com/embed/acZOxaTkcCY?autoplay=1&start=179&end=191](https://youtube.com/embed/acZOxaTkcCY?autoplay=1&start=179&end=191)
+* [Q&A: When's Update 7?](../transcriptions/yt-acZOxaTkcCY,179.64613333333332,190.552814.md) [https://youtube.com/clip/UgkxAXhsK_YQM6ftkqR9WnQWRaw1zX4QNeZf](https://youtube.com/clip/UgkxAXhsK_YQM6ftkqR9WnQWRaw1zX4QNeZf)
 
 ## June 14th, 2022 Livestream
 * [Coffee Stainers trolling each other](../transcriptions/yt-Z6bo0pjYghk,5161.84648,5173.709039764452.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=5161&end=5174](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=5161&end=5174)
