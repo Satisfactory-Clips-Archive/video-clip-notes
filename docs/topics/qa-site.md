@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > QA Site
 
+## June 17th, 2022 Video
+* [Snutt Talk: How to notify Coffee Stain about bugs](../transcriptions/yt-acZOxaTkcCY,455.9888666666667,523.4229.md) [https://youtube.com/embed/acZOxaTkcCY?autoplay=1&start=455&end=524](https://youtube.com/embed/acZOxaTkcCY?autoplay=1&start=455&end=524)
+
 ## June 14th, 2022 Livestream
 * [Birk & Snutt Talk: The QA Site](../transcriptions/yt-Z6bo0pjYghk,12443.883891,12745.175684365211.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=12443&end=12746](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=12443&end=12746)
 

@@ -25,6 +25,9 @@ date: Last Modified
 * [Vilsol](../topics/community/vilsol.md)
 * [Wiki](../topics/community/wiki.md)
 
+## June 17th, 2022 Video
+* [Q&A: When's Update 7?](../transcriptions/yt-acZOxaTkcCY,179.64613333333332,190.552814.md) [https://youtube.com/embed/acZOxaTkcCY?autoplay=1&start=179&end=191](https://youtube.com/embed/acZOxaTkcCY?autoplay=1&start=179&end=191)
+
 ## June 14th, 2022 Livestream
 * [Snutt Talk: Lizard Doggo Merch](../transcriptions/yt-Z6bo0pjYghk,11410.623226,11507.083333333334.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=11410&end=11508](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=11410&end=11508)
 * [Stefan, & Snutt Talk: Heroic Replicas shipping](../transcriptions/yt-Z6bo0pjYghk,11658.757419,11799.808154328772.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=11658&end=11800](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=11658&end=11800)

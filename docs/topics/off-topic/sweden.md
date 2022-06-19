@@ -8,6 +8,9 @@ date: Last Modified
 * [Skövde](../../topics/off-topic/sweden/skovde.md)
 * [Stockholm](../../topics/off-topic/sweden/stockholm.md)
 
+## June 17th, 2022 Video
+* [Q&A: What happens now?](../../transcriptions/yt-acZOxaTkcCY,310.84386666666666,455.95550000000003.md) [https://youtube.com/embed/acZOxaTkcCY?autoplay=1&start=310&end=456](https://youtube.com/embed/acZOxaTkcCY?autoplay=1&start=310&end=456)
+
 ## May 3rd, 2022 Livestream
 * [Q&A: Will there ever be left-handed Train tracks?](../../transcriptions/yt-3k5Ljyt3HWc.md) [https://www.youtube.com/watch?v=3k5Ljyt3HWc](https://www.youtube.com/watch?v=3k5Ljyt3HWc)
 

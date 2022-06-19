@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Save System](../../../topics/features/save-system.md) > Cloud Sync
 
+## June 17th, 2022 Video
+* [Snutt Talk: Back up your damn save files](../../../transcriptions/yt-acZOxaTkcCY,75.978834325334,152.11863333333335.md) [https://youtube.com/embed/acZOxaTkcCY?autoplay=1&start=75&end=153](https://youtube.com/embed/acZOxaTkcCY?autoplay=1&start=75&end=153)
+
 ## June 14th, 2022 Livestream
 * [Hannah, Anna, Torsten, & Snutt Talk: 5 minutes left to launch](../../../transcriptions/yt-Z6bo0pjYghk,10965.503248,11129.395503.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=10965&end=11130](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=10965&end=11130)
 

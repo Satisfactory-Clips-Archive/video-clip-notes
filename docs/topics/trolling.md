@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Trolling
 
+## June 17th, 2022 Video
+* [Q&A: When's Update 7?](../transcriptions/yt-acZOxaTkcCY,179.64613333333332,190.552814.md) [https://youtube.com/embed/acZOxaTkcCY?autoplay=1&start=179&end=191](https://youtube.com/embed/acZOxaTkcCY?autoplay=1&start=179&end=191)
+
 ## June 14th, 2022 Livestream
 * [Coffee Stainers trolling each other](../transcriptions/yt-Z6bo0pjYghk,5161.84648,5173.709039764452.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=5161&end=5174](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=5161&end=5174)
 * [Ben, Dylan, Simon, & Snutt Talk: Mark gets teabagged](../transcriptions/yt-Z6bo0pjYghk,8774.878131481233,8803.197909.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=8774&end=8804](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=8774&end=8804)

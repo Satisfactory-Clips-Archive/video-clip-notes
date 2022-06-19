@@ -5,6 +5,13 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > Release Builds
 
+## June 17th, 2022 Video
+* [Snutt Talk: How to check out Update 6 on Steam & Epic](../../transcriptions/yt-acZOxaTkcCY,49.474768,75.978834325334.md) [https://youtube.com/embed/acZOxaTkcCY?autoplay=1&start=49&end=76](https://youtube.com/embed/acZOxaTkcCY?autoplay=1&start=49&end=76)
+* [Snutt Talk: Back up your damn save files](../../transcriptions/yt-acZOxaTkcCY,75.978834325334,152.11863333333335.md) [https://youtube.com/embed/acZOxaTkcCY?autoplay=1&start=75&end=153](https://youtube.com/embed/acZOxaTkcCY?autoplay=1&start=75&end=153)
+* [Snutt Talk: You can't load Experimental saves in the Early Access branch](../../transcriptions/yt-acZOxaTkcCY,152.15200000000002,179.61276666666666.md) [https://youtube.com/embed/acZOxaTkcCY?autoplay=1&start=152&end=180](https://youtube.com/embed/acZOxaTkcCY?autoplay=1&start=152&end=180)
+* [Q&A: When is it going to be out on EA?](../../transcriptions/yt-acZOxaTkcCY,190.552814,310.8105.md) [https://youtube.com/embed/acZOxaTkcCY?autoplay=1&start=190&end=311](https://youtube.com/embed/acZOxaTkcCY?autoplay=1&start=190&end=311)
+* [Q&A: What happens now?](../../transcriptions/yt-acZOxaTkcCY,310.84386666666666,455.95550000000003.md) [https://youtube.com/embed/acZOxaTkcCY?autoplay=1&start=310&end=456](https://youtube.com/embed/acZOxaTkcCY?autoplay=1&start=310&end=456)
+
 ## June 14th, 2022 Livestream
 * [Intro](../../transcriptions/yt-Z6bo0pjYghk,699.7833333333333,786.810265.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=699&end=787](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=699&end=787)
 * [Update 6 on Experimental not in a final state](../../transcriptions/yt-Z6bo0pjYghk,4072.730606,4135.148343.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=4072&end=4136](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=4072&end=4136)

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Embracer Group](../../../topics/embracer-group.md) > Coffee Stain Holding > Coffee Stain Studios
 
+## June 17th, 2022 Video
+* [Q&A: What happens now?](../../../transcriptions/yt-acZOxaTkcCY,310.84386666666666,455.95550000000003.md) [https://youtube.com/embed/acZOxaTkcCY?autoplay=1&start=310&end=456](https://youtube.com/embed/acZOxaTkcCY?autoplay=1&start=310&end=456)
+
 ## June 14th, 2022 Livestream
 * [Office changes](../../../transcriptions/yt-Z6bo0pjYghk,977.707106,1140.43303.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=977&end=1141](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=977&end=1141)
 

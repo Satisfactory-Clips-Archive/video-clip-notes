@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../topics.md) > [Retail](../../topics/retail.md) > Epic Store
 * [Epic Store Exclusivity](../../topics/retail/epic-store/epic-store-exclusivity.md)
 
+## June 17th, 2022 Video
+* [Snutt Talk: How to check out Update 6 on Steam & Epic](../../transcriptions/yt-acZOxaTkcCY,49.474768,75.978834325334.md) [https://youtube.com/embed/acZOxaTkcCY?autoplay=1&start=49&end=76](https://youtube.com/embed/acZOxaTkcCY?autoplay=1&start=49&end=76)
+
 ## April 8th, 2022 Video
 * [Jace Talk: Steam, Epic, Humble](../../transcriptions/yt-o6ao9-UIZIQ,245.51193333333333,257.8242333333333.md) [https://youtube.com/clip/UgkxZ_7dMT6DXCRuCgJJrWk54r4Tkgbea98T](https://youtube.com/clip/UgkxZ_7dMT6DXCRuCgJJrWk54r4Tkgbea98T)
 
