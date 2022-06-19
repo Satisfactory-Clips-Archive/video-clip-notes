@@ -6,7 +6,7 @@ date: Last Modified
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > World Update
 
 ## June 14th, 2022 Livestream
-* [blamehannah.com - Ben, Dylan, Simon, & Snutt Talk: Stuck on terrain](../../transcriptions/yt-Z6bo0pjYghk,8382.181263,8393.711847.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=8382&end=8394](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=8382&end=8394)
+* [blamehannah.com - Ben, Dylan, Simon, & Snutt Talk: Stuck on terrain](../../transcriptions/yt-Z6bo0pjYghk,8382.181263,8393.711847.md) [https://youtube.com/clip/UgkxxX-kjkIECR_ktGeoXeWRyDzaSMLrNRWU](https://youtube.com/clip/UgkxxX-kjkIECR_ktGeoXeWRyDzaSMLrNRWU)
 * [Dylan, Ben, & Snutt Talk: Pending World Updates](../../transcriptions/yt-Z6bo0pjYghk,8886.005450750474,9004.46764630931.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=8886&end=9005](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=8886&end=9005)
 * [Intermission while Lym comes to the rescue](../../transcriptions/yt-Z6bo0pjYghk,10057.633333333333,10156.242717564744.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=10057&end=10157](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=10057&end=10157)
 * [Hannah, Anna, Torsten, & Snutt Talk: New Water textures](../../transcriptions/yt-Z6bo0pjYghk,10190.03842753694,10204.502641.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=10190&end=10205](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=10190&end=10205)

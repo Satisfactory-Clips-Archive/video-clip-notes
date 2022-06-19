@@ -13,7 +13,7 @@ https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=12191&end=12237
 <summary>This video is a continuation of a previous video</summary>
 
 * [June 14th, 2022 Livestream Birk & Snutt Talk: Update 6 initial release Patch Notes (Part 1)](./yt-Z6bo0pjYghk,11532.219201680113,11658.757419.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=11532&end=11659](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=11532&end=11659)
-* [June 14th, 2022 Livestream Birk & Snutt Talk: Patch Notes (Part 3)](./yt-Z6bo0pjYghk,12408.3994536901,12443.883891.md) [https,://youtube.com/clip/UgkxUMBAja3GDN5dIDhTFa5kDtBaw5L4ylHX](https,://youtube.com/clip/UgkxUMBAja3GDN5dIDhTFa5kDtBaw5L4ylHX)
+* [June 14th, 2022 Livestream Birk & Snutt Talk: Patch Notes (Part 3)](./yt-Z6bo0pjYghk,12408.3994536901,12443.883891.md) [https://youtube.com/clip/UgkxUMBAja3GDN5dIDhTFa5kDtBaw5L4ylHX](https://youtube.com/clip/UgkxUMBAja3GDN5dIDhTFa5kDtBaw5L4ylHX)
 </details>
 
 

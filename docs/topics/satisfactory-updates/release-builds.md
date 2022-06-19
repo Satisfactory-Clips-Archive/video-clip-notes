@@ -17,7 +17,7 @@ date: Last Modified
 * [Stefan & Snutt Talk: Switching to the Experimental release](../../transcriptions/yt-Z6bo0pjYghk,11799.808154328772,11885.578509564815.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=11799&end=11886](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=11799&end=11886)
 * [Q&A: Is it live?](../../transcriptions/yt-Z6bo0pjYghk,12065.79417320965,12140.575992.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=12065&end=12141](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=12065&end=12141)
 * [Birk & Snutt Talk: Update 6 initial release Patch Notes (Part 2)](../../transcriptions/yt-Z6bo0pjYghk,12191.890509,12236.083333333334.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=12191&end=12237](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=12191&end=12237)
-* [Birk & Snutt Talk: Patch Notes (Part 3)](../../transcriptions/yt-Z6bo0pjYghk,12408.3994536901,12443.883891.md) [https,://youtube.com/clip/UgkxUMBAja3GDN5dIDhTFa5kDtBaw5L4ylHX](https,://youtube.com/clip/UgkxUMBAja3GDN5dIDhTFa5kDtBaw5L4ylHX)
+* [Birk & Snutt Talk: Patch Notes (Part 3)](../../transcriptions/yt-Z6bo0pjYghk,12408.3994536901,12443.883891.md) [https://youtube.com/clip/UgkxUMBAja3GDN5dIDhTFa5kDtBaw5L4ylHX](https://youtube.com/clip/UgkxUMBAja3GDN5dIDhTFa5kDtBaw5L4ylHX)
 * [Birk & Snutt Talk: The QA Site](../../transcriptions/yt-Z6bo0pjYghk,12443.883891,12745.175684365211.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=12443&end=12746](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=12443&end=12746)
 
 ## June 7th, 2022 Livestream

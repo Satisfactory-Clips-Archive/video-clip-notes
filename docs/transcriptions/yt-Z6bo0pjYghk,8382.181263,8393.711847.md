@@ -9,7 +9,7 @@ topics:
 ---
 # [June 14th, 2022 Livestream](../2022-06-14.md)
 ## blamehannah.com - Ben, Dylan, Simon, & Snutt Talk: Stuck on terrain
-https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=8382&end=8394
+https://youtube.com/clip/UgkxxX-kjkIECR_ktGeoXeWRyDzaSMLrNRWU
 
 ### Topics
 * [Coffee Stainers > Hannah](../topics/coffee-stainers/hannah.md)
