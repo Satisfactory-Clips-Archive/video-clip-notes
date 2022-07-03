@@ -8,7 +8,7 @@ topics:
 # [July 20th, 2021 Livestream](../2021-07-20.md)
 ## Q&A: What're your thoughts on making the game Tower Defense?
 https://www.youtube.com/watch?v=Ki4ohrbXbrk
-This question was possibly duplicated with a more recent answer: [May 24th, 2022 Livestream Q&A: Tower Defense, when?](./yt-tSzwMFuQKUc.md) [https://www.youtube.com/watch?v=tSzwMFuQKUc](https://www.youtube.com/watch?v=tSzwMFuQKUc)
+This question was possibly duplicated with a more recent answer: June 28th, 2022 Livestream Q&A: Enemies destroy your factory, when? [https://www.youtube.com/watch?v=x3qD7G9oJTM](https://www.youtube.com/watch?v=x3qD7G9oJTM)
 
 
 ### Topics

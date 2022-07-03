@@ -16,6 +16,7 @@ date: Last Modified
 * [Spire Coast](../../topics/environment/biomes/spire-coast.md)
 * [Swamp](../../topics/environment/biomes/swamp.md)
 * [The Great Canyon](../../topics/environment/biomes/the-great-canyon.md)
+* [Titan Forest](../../topics/environment/biomes/titan-forest.md)
 * [Unplanned Biomes](../../topics/environment/biomes/unplanned-biomes.md)
 
 ## June 14th, 2022 Livestream

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildables](../../../topics/features/buildables.md) > Windows
 
+## June 28th, 2022 Livestream
+* [Q&A: Add a material for the glass window?](../../../transcriptions/yt-4YE2NLV2s34.md) [https://www.youtube.com/watch?v=4YE2NLV2s34](https://www.youtube.com/watch?v=4YE2NLV2s34)
+
 ## November 9th, 2021 Livestream
 * [Q&A: We have angled roof, but when will we get angled windows?](../../../transcriptions/yt-2mkoJ8-mt2k.md) [https://www.youtube.com/watch?v=2mkoJ8-mt2k](https://www.youtube.com/watch?v=2mkoJ8-mt2k)
 

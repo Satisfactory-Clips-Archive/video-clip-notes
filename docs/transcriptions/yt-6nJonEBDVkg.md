@@ -9,6 +9,8 @@ topics:
 # [March 8th, 2022 Livestream](../2022-03-08.md)
 ## Q&A: Will you ever fix the colouring for the Stackable Pipe thingies?
 https://www.youtube.com/watch?v=6nJonEBDVkg
+This question was possibly duplicated with a more recent answer: [June 28th, 2022 Livestream Q&A: Will we be able to paint Stackable Pipe Supports?](./yt-cInLru5-kOA.md) [https://www.youtube.com/watch?v=cInLru5-kOA](https://www.youtube.com/watch?v=cInLru5-kOA)
+
 
 ### Topics
 * [Features > Equipment > Customizer](../topics/features/equipment/customizer.md)

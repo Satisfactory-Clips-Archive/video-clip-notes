@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Hot Potato Save File
 
+## June 28th, 2022 Livestream
+* [Q&A: What's the status of the Hot Potato Save File?](../../transcriptions/yt-Bek-o58Uy0w.md) [https://www.youtube.com/watch?v=Bek-o58Uy0w](https://www.youtube.com/watch?v=Bek-o58Uy0w)
+
 ## March 15th, 2022 Livestream
 * [Q&A: Who's going to get the Content Creator Hot Potato Save File?](../../transcriptions/yt-usmo3-7hS64.md) [https://www.youtube.com/watch?v=usmo3-7hS64](https://www.youtube.com/watch?v=usmo3-7hS64)
 

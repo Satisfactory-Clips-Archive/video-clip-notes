@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Biomes](../../../topics/environment/biomes.md) > Desert Canyons
 
+## June 28th, 2022 Livestream
+* Q&A: What zones are changing in Update 6? [https://www.youtube.com/watch?v=cPXS7j9D4vQ](https://www.youtube.com/watch?v=cPXS7j9D4vQ)
+
 ## May 10th, 2022 Livestream
 * [Q&A: Any insight to the Desert Canyons changes?](../../../transcriptions/yt-DgWpT5rS5qs.md) [https://www.youtube.com/watch?v=DgWpT5rS5qs](https://www.youtube.com/watch?v=DgWpT5rS5qs)
 

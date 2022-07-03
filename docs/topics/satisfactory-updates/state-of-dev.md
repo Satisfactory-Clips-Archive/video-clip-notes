@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > State of Dev
 
+## June 28th, 2022 Livestream
+* State of Dev [https://www.youtube.com/watch?v=VbnBqMSEsGk](https://www.youtube.com/watch?v=VbnBqMSEsGk)
+
 ## June 7th, 2022 Livestream
 * [State of Dev](../../transcriptions/yt-Hk3kvpq7Ofo.md) [https://www.youtube.com/watch?v=Hk3kvpq7Ofo](https://www.youtube.com/watch?v=Hk3kvpq7Ofo)
 

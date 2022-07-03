@@ -9,7 +9,7 @@ topics:
 # [February 8th, 2022 Livestream](../2022-02-08.md)
 ## Q&A: Can we customise the Pioneer in the future for Multiplayer?
 https://www.youtube.com/watch?v=3gdkRbsLRUo
-This question was possibly duplicated with a more recent answer: [March 15th, 2022 Livestream Q&A: Character Customisation?](./yt-1a-I7ds_Ipc.md) [https://www.youtube.com/watch?v=1a-I7ds_Ipc](https://www.youtube.com/watch?v=1a-I7ds_Ipc)
+This question was possibly duplicated with a more recent answer: [June 28th, 2022 Livestream Q&A: Character Customisation?](./yt-hjK_w2ScysQ.md) [https://www.youtube.com/watch?v=hjK_w2ScysQ](https://www.youtube.com/watch?v=hjK_w2ScysQ)
 
 
 ### Topics

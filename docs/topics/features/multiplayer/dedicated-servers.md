@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Multiplayer](../../../topics/features/multiplayer.md) > Dedicated Servers
 
+## June 28th, 2022 Livestream
+* State of Dev [https://www.youtube.com/watch?v=VbnBqMSEsGk](https://www.youtube.com/watch?v=VbnBqMSEsGk)
+* [Q&A: Plan on Dedicated Server fully-support multi-threading?](../../../transcriptions/yt-UiCrQWXEnRM.md) [https://www.youtube.com/watch?v=UiCrQWXEnRM](https://www.youtube.com/watch?v=UiCrQWXEnRM)
+
 ## June 14th, 2022 Livestream
 * [Q&A: Any changes to Dedicated Servers in Update 6?](../../../transcriptions/yt-Z6bo0pjYghk,4692.516695,4762.732307.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=4692&end=4763](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=4692&end=4763)
 

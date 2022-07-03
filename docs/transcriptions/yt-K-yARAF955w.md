@@ -8,7 +8,7 @@ topics:
 # [March 9th, 2021 Livestream](../2021-03-09.md)
 ## Q&A: Any plans on bringing music tracks to Spotify & YouTube?
 https://www.youtube.com/watch?v=K-yARAF955w
-This question was possibly duplicated with a more recent answer: [March 15th, 2022 Livestream Q&A: Music on Spotify?](./yt-ffAoXn7HynE.md) [https://www.youtube.com/watch?v=ffAoXn7HynE](https://www.youtube.com/watch?v=ffAoXn7HynE)
+This question was possibly duplicated with a more recent answer: [June 28th, 2022 Livestream Q&A: Can I buy the music?](./yt-yrHF94A88CI.md) [https://www.youtube.com/watch?v=yrHF94A88CI](https://www.youtube.com/watch?v=yrHF94A88CI)
 
 
 ### Topics

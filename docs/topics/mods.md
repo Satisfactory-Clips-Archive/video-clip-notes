@@ -32,6 +32,10 @@ date: Last Modified
 * [Utility Signs](../topics/mods/utility-signs.md)
 * [Zip Strips](../topics/mods/zip-strips.md)
 
+## June 28th, 2022 Livestream
+* Q&A: SML timeframe for Update 6? [https://www.youtube.com/watch?v=HVO3YkSYjA4](https://www.youtube.com/watch?v=HVO3YkSYjA4)
+* [Community FYI: Modding is even more experimental](../transcriptions/yt-Rwd-qaqylzw.md) [https://www.youtube.com/watch?v=Rwd-qaqylzw](https://www.youtube.com/watch?v=Rwd-qaqylzw)
+
 ## June 7th, 2022 Livestream
 * [Q&A: Is there any work ongoing with Mods for Dedicated Servers?](../transcriptions/yt-rSNJPtn2N6k.md) [https://www.youtube.com/watch?v=rSNJPtn2N6k](https://www.youtube.com/watch?v=rSNJPtn2N6k)
 

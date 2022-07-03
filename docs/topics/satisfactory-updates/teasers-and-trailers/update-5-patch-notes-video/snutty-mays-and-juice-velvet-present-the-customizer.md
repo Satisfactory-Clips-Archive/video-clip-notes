@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Satisfactory Updates](../../../../topics/satisfactory-updates.md) > [Teasers & Trailers](../../../../topics/satisfactory-updates/teasers-and-trailers.md) > [Update 5 Patch Notes Video](../../../../topics/satisfactory-updates/teasers-and-trailers/update-5-patch-notes-video.md) > Snutty Mays & Juice Velvet Present: The Customizer™
 
+## June 28th, 2022 Livestream
+* Q&A: Can we get a cover of the Customizer theme song? [https://www.youtube.com/watch?v=YImL780rHD4](https://www.youtube.com/watch?v=YImL780rHD4)
+
 ## November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary
 * [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 25)](../../../../transcriptions/yt-isJvJl_wzYs.md) [https://www.youtube.com/watch?v=isJvJl_wzYs](https://www.youtube.com/watch?v=isJvJl_wzYs)
 

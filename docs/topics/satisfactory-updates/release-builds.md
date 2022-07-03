@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > Release Builds
 
+## June 28th, 2022 Livestream
+* State of Dev [https://www.youtube.com/watch?v=VbnBqMSEsGk](https://www.youtube.com/watch?v=VbnBqMSEsGk)
+* [Q&A: Will Experimental Update 6 save work when Update 6 comes to EA?](../../transcriptions/yt-F-Q47hXTGMc.md) [https://www.youtube.com/watch?v=F-Q47hXTGMc](https://www.youtube.com/watch?v=F-Q47hXTGMc)
+* [Q&A: Are the Recipes going to be updated before Update 6 moves to EA?](../../transcriptions/yt-F3Fc0slcf9g.md) [https://www.youtube.com/watch?v=F3Fc0slcf9g](https://www.youtube.com/watch?v=F3Fc0slcf9g)
+
 ## June 17th, 2022 Video
 * [Snutt Talk: How to check out Update 6 on Steam & Epic](../../transcriptions/yt-acZOxaTkcCY,49.474768,75.978834325334.md) [https://youtube.com/clip/UgkxcaZNnDl-U-_hLYWK8PSPeMSAt7lgcMUl](https://youtube.com/clip/UgkxcaZNnDl-U-_hLYWK8PSPeMSAt7lgcMUl)
 * [Snutt Talk: Back up your damn save files](../../transcriptions/yt-acZOxaTkcCY,75.978834325334,152.11863333333335.md) [https://youtube.com/embed/acZOxaTkcCY?autoplay=1&start=75&end=153](https://youtube.com/embed/acZOxaTkcCY?autoplay=1&start=75&end=153)

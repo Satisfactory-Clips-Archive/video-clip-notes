@@ -8,7 +8,7 @@ topics:
 # [February 11th, 2022 Hot Potato Bonus Stream](../2022-02-11.md)
 ## Q&A: Blueprints?
 https://www.youtube.com/watch?v=lidkhceF2oc
-This question was possibly duplicated with a more recent answer: [March 29th, 2022 Livestream Q&A: Has opions on Blueprinting changed?](./yt-Gtl0TOAaxy0.md) [https://www.youtube.com/watch?v=Gtl0TOAaxy0](https://www.youtube.com/watch?v=Gtl0TOAaxy0)
+This question was possibly duplicated with a more recent answer: [June 28th, 2022 Livestream Q&A: Any updates on Blueprints?](./yt-lvFdAmOYDks.md) [https://www.youtube.com/watch?v=lvFdAmOYDks](https://www.youtube.com/watch?v=lvFdAmOYDks)
 
 
 ### Topics

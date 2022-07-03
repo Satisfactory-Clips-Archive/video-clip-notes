@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Biomes](../../../topics/environment/biomes.md) > Spire Coast
 
+## June 28th, 2022 Livestream
+* [Q&A: When new nodes in Spire Coast?](../../../transcriptions/yt-Y2bdYFAupfc.md) [https://www.youtube.com/watch?v=Y2bdYFAupfc](https://www.youtube.com/watch?v=Y2bdYFAupfc)
+* [Q&A: Any Red Jungle changes similar to Spire Coast or Swamp?](../../../transcriptions/yt-l9SkudmkyLQ.md) [https://www.youtube.com/watch?v=l9SkudmkyLQ](https://www.youtube.com/watch?v=l9SkudmkyLQ)
+* Q&A: What zones are changing in Update 6? [https://www.youtube.com/watch?v=cPXS7j9D4vQ](https://www.youtube.com/watch?v=cPXS7j9D4vQ)
+
 ## June 14th, 2022 Livestream
 * [Hannah, Anna, Torsten, & Snutt Talk: New Ammo types (Part 8)](../../../transcriptions/yt-Z6bo0pjYghk,10349.995612388688,10612.487054.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=10349&end=10613](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=10349&end=10613)
 

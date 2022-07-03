@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Pending](../../../topics/satisfactory-updates/pending.md) > Satisfactory 1.0
 
+## June 28th, 2022 Livestream
+* [Q&A: Will 1.0 use any of the void or water areas?](../../../transcriptions/yt-uCur5xyQWWI.md) [https://www.youtube.com/watch?v=uCur5xyQWWI](https://www.youtube.com/watch?v=uCur5xyQWWI)
+* [Q&A: How finished is the game in percentage?](../../../transcriptions/yt-LvylFE87PO8.md) [https://www.youtube.com/watch?v=LvylFE87PO8](https://www.youtube.com/watch?v=LvylFE87PO8)
+
 ## June 7th, 2022 Livestream
 * [State of Dev](../../../transcriptions/yt-Hk3kvpq7Ofo.md) [https://www.youtube.com/watch?v=Hk3kvpq7Ofo](https://www.youtube.com/watch?v=Hk3kvpq7Ofo)
 * [Q&A: When will 1.0 be?](../../../transcriptions/yt-d2IRgOwEIUY.md) [https://www.youtube.com/watch?v=d2IRgOwEIUY](https://www.youtube.com/watch?v=d2IRgOwEIUY)

@@ -41,6 +41,9 @@ date: Last Modified
 * [Torsten](../topics/coffee-stainers/torsten.md)
 * [Uzu](../topics/coffee-stainers/uzu.md)
 
+## June 28th, 2022 Livestream
+* State of Dev [https://www.youtube.com/watch?v=VbnBqMSEsGk](https://www.youtube.com/watch?v=VbnBqMSEsGk)
+
 ## June 14th, 2022 Livestream
 * [Setting the agenda for the Release Stream](../transcriptions/yt-Z6bo0pjYghk,786.810265,868.48164.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=786&end=869](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=786&end=869)
 * [Coffee Stainers trolling each other](../transcriptions/yt-Z6bo0pjYghk,5161.84648,5173.709039764452.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=5161&end=5174](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=5161&end=5174)

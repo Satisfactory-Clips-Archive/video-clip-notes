@@ -8,7 +8,7 @@ topics:
 # [November 9th, 2021 Livestream](../2021-11-09.md)
 ## Q&A: Chance we'll see Peaceful Modes in the game soon?
 https://www.youtube.com/watch?v=WMZBpM-POak
-This question was possibly duplicated with a more recent answer: [May 24th, 2022 Livestream Q&A: Any chance for a Peaceful Mode with no Creatures?](./yt-u9jxESc8qAA.md) [https://www.youtube.com/watch?v=u9jxESc8qAA](https://www.youtube.com/watch?v=u9jxESc8qAA)
+This question was possibly duplicated with a more recent answer: [June 28th, 2022 Livestream Q&A: What are you having for dinner?](./yt--8ddV3fPDIY.md) [https://www.youtube.com/watch?v=-8ddV3fPDIY](https://www.youtube.com/watch?v=-8ddV3fPDIY)
 
 
 ### Topics

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Merch](../../topics/merch.md) > EU Merch Store
 
+## June 28th, 2022 Livestream
+* [Snutt Talk: Merch Update](../../transcriptions/yt-YrkuyDGOkF4.md) [https://www.youtube.com/watch?v=YrkuyDGOkF4](https://www.youtube.com/watch?v=YrkuyDGOkF4)
+
 ## June 7th, 2022 Livestream
 * [Q&A: Europe Merch, any news?](../../transcriptions/yt-rRdN88QjfEc.md) [https://www.youtube.com/watch?v=rRdN88QjfEc](https://www.youtube.com/watch?v=rRdN88QjfEc)
 

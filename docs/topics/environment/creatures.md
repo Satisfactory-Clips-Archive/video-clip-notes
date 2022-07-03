@@ -10,6 +10,10 @@ date: Last Modified
 * [Non Flying Bird](../../topics/environment/creatures/non-flying-bird.md)
 * [Space Giraffe-Tick-Penguin-Whale Thing](../../topics/environment/creatures/space-giraffe-tick-penguin-whale-thing.md)
 
+## June 28th, 2022 Livestream
+* State of Dev [https://www.youtube.com/watch?v=VbnBqMSEsGk](https://www.youtube.com/watch?v=VbnBqMSEsGk)
+* [Q&A: Do the jumping spiders jump higher than before?](../../transcriptions/yt-Leo8gTff8FY.md) [https://www.youtube.com/watch?v=Leo8gTff8FY](https://www.youtube.com/watch?v=Leo8gTff8FY)
+
 ## June 14th, 2022 Livestream
 * [Tobias, Etienne & Snutt Talk: Creature changes](../../transcriptions/yt-Z6bo0pjYghk,6108.120519,6241.976654.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=6108&end=6242](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=6108&end=6242)
 * [Tobias, Etienne, & Snutt Talk: Stinger changes](../../transcriptions/yt-Z6bo0pjYghk,7516.174063735765,7553.63476.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=7516&end=7554](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=7516&end=7554)

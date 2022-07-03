@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildables](../../../topics/features/buildables.md) > Storage Containers
 
+## June 28th, 2022 Livestream
+* Q&A: Storage Update to talk about ? [https://www.youtube.com/watch?v=M2RhFSn8F6A](https://www.youtube.com/watch?v=M2RhFSn8F6A)
+* [Q&A: Ability to limit the max fill level of Containers?](../../../transcriptions/yt-VOwac78ebn0.md) [https://www.youtube.com/watch?v=VOwac78ebn0](https://www.youtube.com/watch?v=VOwac78ebn0)
+
 ## April 15th, 2022 Video
 * [Snutt & Stefan Talk: Mining Resources & Crafting in Sprint 6](../../../transcriptions/yt-7I3NGAm3j_4,782.1480333333334,1062.275948.md) [https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=782&end=1063](https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=782&end=1063)
 

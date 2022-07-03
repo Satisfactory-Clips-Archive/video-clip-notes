@@ -8,13 +8,7 @@ topics:
 # [March 1st, 2022 Livestream](../2022-03-01.md)
 ## Q&A: I'd like to see a mini-helicopter for the late game?
 https://www.youtube.com/watch?v=RUeyipJT38A
-<details>
-<summary>This question may have been asked previously at least 3 other times, as recently as April 2021 and as early as November 2020.</summary>
-
-* April 27th, 2021 Livestream Q&A: Helicopters when? [https://www.youtube.com/watch?v=3MKZhjpTAhg](https://www.youtube.com/watch?v=3MKZhjpTAhg)
-* [April 20th, 2021 Livestream Q&A: When are we finally gonna get our own VTOL?](./yt-nty-h2xgybU.md) [https://www.youtube.com/watch?v=nty-h2xgybU](https://www.youtube.com/watch?v=nty-h2xgybU)
-* [November 10th, 2020 Livestream Q&A: Any plans for a helicopter so we don't have to turn into spaghetti to get across the map?](./yt-l-k7qpxgpRQ.md) [https://www.youtube.com/watch?v=l-k7qpxgpRQ](https://www.youtube.com/watch?v=l-k7qpxgpRQ)
-</details>
+This question was possibly duplicated with a more recent answer: [June 28th, 2022 Livestream Q&A: Adding Helicopters?](./yt-GAUDB7YWGTk.md) [https://www.youtube.com/watch?v=GAUDB7YWGTk](https://www.youtube.com/watch?v=GAUDB7YWGTk)
 
 
 ### Topics

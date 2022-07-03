@@ -8,6 +8,10 @@ date: Last Modified
 * [Skövde](../../topics/off-topic/sweden/skovde.md)
 * [Stockholm](../../topics/off-topic/sweden/stockholm.md)
 
+## June 28th, 2022 Livestream
+* [Snutt & Jace Talk: Midsummer & Swedish Idioms](../../transcriptions/yt-xpEOoN4dkj8.md) [https://www.youtube.com/watch?v=xpEOoN4dkj8](https://www.youtube.com/watch?v=xpEOoN4dkj8)
+* State of Dev [https://www.youtube.com/watch?v=VbnBqMSEsGk](https://www.youtube.com/watch?v=VbnBqMSEsGk)
+
 ## June 17th, 2022 Video
 * [Q&A: What happens now?](../../transcriptions/yt-acZOxaTkcCY,310.84386666666666,455.95550000000003.md) [https://youtube.com/embed/acZOxaTkcCY?autoplay=1&start=310&end=456](https://youtube.com/embed/acZOxaTkcCY?autoplay=1&start=310&end=456)
 

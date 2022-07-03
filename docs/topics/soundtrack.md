@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Soundtrack
 
+## June 28th, 2022 Livestream
+* Q&A: Can we get a cover of the Customizer theme song? [https://www.youtube.com/watch?v=YImL780rHD4](https://www.youtube.com/watch?v=YImL780rHD4)
+* [Q&A: Any additions to the OST in Update 6?](../transcriptions/yt-2NgEQ7n2y-g.md) [https://www.youtube.com/watch?v=2NgEQ7n2y-g](https://www.youtube.com/watch?v=2NgEQ7n2y-g)
+* [Q&A: Can I buy the music?](../transcriptions/yt-yrHF94A88CI.md) [https://www.youtube.com/watch?v=yrHF94A88CI](https://www.youtube.com/watch?v=yrHF94A88CI)
+
 ## April 19th, 2022 Livestream
 * [Q&A: Will this next Update have a completed Soundtrack?](../transcriptions/yt-P_xCjhLJs2g.md) [https://www.youtube.com/watch?v=P_xCjhLJs2g](https://www.youtube.com/watch?v=P_xCjhLJs2g)
 

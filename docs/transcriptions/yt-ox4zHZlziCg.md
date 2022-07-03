@@ -9,7 +9,7 @@ topics:
 # [June 15th, 2021 Livestream](../2021-06-15.md)
 ## Q&A: Any plans to change the Pioneer trim colour so you can differentiate each other on Multiplayer?
 https://www.youtube.com/watch?v=ox4zHZlziCg
-This question was possibly duplicated with a more recent answer: [March 15th, 2022 Livestream Q&A: Character Customisation?](./yt-1a-I7ds_Ipc.md) [https://www.youtube.com/watch?v=1a-I7ds_Ipc](https://www.youtube.com/watch?v=1a-I7ds_Ipc)
+This question was possibly duplicated with a more recent answer: [June 28th, 2022 Livestream Q&A: Character Customisation?](./yt-hjK_w2ScysQ.md) [https://www.youtube.com/watch?v=hjK_w2ScysQ](https://www.youtube.com/watch?v=hjK_w2ScysQ)
 
 
 ### Topics

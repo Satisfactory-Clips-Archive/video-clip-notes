@@ -8,6 +8,8 @@ topics:
 # [December 7th, 2021 Livestream](../2021-12-07.md)
 ## Q&A: When do you feel like you'll be at a point to say "this is a finished game"?
 https://www.youtube.com/watch?v=CUzula9hmqM
+This question was possibly duplicated with a more recent answer: [June 28th, 2022 Livestream Q&A: How finished is the game in percentage?](./yt-LvylFE87PO8.md) [https://www.youtube.com/watch?v=LvylFE87PO8](https://www.youtube.com/watch?v=LvylFE87PO8)
+
 
 ### Topics
 * [Satisfactory Updates > Pending > Satisfactory 1.0](../topics/satisfactory-updates/pending/satisfactory-1-0.md)

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Accessibility](../../../topics/features/accessibility.md) > Arachnophobia Mode
 
+## June 28th, 2022 Livestream
+* Q&A: Will there ever be a real Arachnophobia Mode instead of cats & scary sounds? [https://www.youtube.com/watch?v=_zfnXF_UMJU](https://www.youtube.com/watch?v=_zfnXF_UMJU)
+
 ## March 18th, 2022 Video
 * [Snutt & Jace Talk: Stinger article](../../../transcriptions/yt-VBGakEZilwk,157.69086666666666,396.4293666666667.md) [https://youtube.com/embed/VBGakEZilwk?autoplay=1&start=157&end=397](https://youtube.com/embed/VBGakEZilwk?autoplay=1&start=157&end=397)
 

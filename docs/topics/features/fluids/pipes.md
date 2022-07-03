@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Fluids](../../../topics/features/fluids.md) > Pipes
 
+## June 28th, 2022 Livestream
+* [Q&A: Will we be able to paint Stackable Pipe Supports?](../../../transcriptions/yt-cInLru5-kOA.md) [https://www.youtube.com/watch?v=cInLru5-kOA](https://www.youtube.com/watch?v=cInLru5-kOA)
+
 ## June 7th, 2022 Livestream
 * [Q&A: Mk.3 Pipes?](../../../transcriptions/yt-8nkuQhlSKfU.md) [https://www.youtube.com/watch?v=8nkuQhlSKfU](https://www.youtube.com/watch?v=8nkuQhlSKfU)
 

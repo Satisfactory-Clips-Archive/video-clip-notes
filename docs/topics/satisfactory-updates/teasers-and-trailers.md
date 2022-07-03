@@ -13,6 +13,7 @@ date: Last Modified
 * [Update 5 Launch Stream](../../topics/satisfactory-updates/teasers-and-trailers/update-5-launch-stream.md)
 * [Update 5 Patch Notes Video](../../topics/satisfactory-updates/teasers-and-trailers/update-5-patch-notes-video.md)
 * [Update 5 Teasers](../../topics/satisfactory-updates/teasers-and-trailers/update-5-teasers.md)
+* [Update 6 Patch Notes Video](../../topics/satisfactory-updates/teasers-and-trailers/update-6-patch-notes-video.md)
 * [Update 6 Teasers](../../topics/satisfactory-updates/teasers-and-trailers/update-6-teasers.md)
 
 ## April 26th, 2022 Livestream

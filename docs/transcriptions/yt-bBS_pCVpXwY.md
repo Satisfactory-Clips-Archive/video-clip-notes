@@ -8,7 +8,7 @@ topics:
 # [March 23rd, 2021 Livestream](../2021-03-23.md)
 ## Q&A: Will the game Soundtrack come to Spotify soon?
 https://www.youtube.com/watch?v=bBS_pCVpXwY
-This question was possibly duplicated with a more recent answer: [March 15th, 2022 Livestream Q&A: Music on Spotify?](./yt-ffAoXn7HynE.md) [https://www.youtube.com/watch?v=ffAoXn7HynE](https://www.youtube.com/watch?v=ffAoXn7HynE)
+This question was possibly duplicated with a more recent answer: [June 28th, 2022 Livestream Q&A: Can I buy the music?](./yt-yrHF94A88CI.md) [https://www.youtube.com/watch?v=yrHF94A88CI](https://www.youtube.com/watch?v=yrHF94A88CI)
 
 
 ### Topics

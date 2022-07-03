@@ -9,11 +9,7 @@ topics:
 # [March 22nd, 2022 Livestream](../2022-03-22.md)
 ## Q&A: Would be cool to be able to copy & paste from a distance
 https://www.youtube.com/watch?v=VtDPmxElNt8
-<details>
-<summary>This question may have been asked previously at least 1 other time, as recently as April 2021.</summary>
-
-* [April 27th, 2021 Livestream Q&A: Any thoughts to expand copy & paste functionality to work without opening the structure?](./yt-kAGPc6PKVKM.md) [https://www.youtube.com/watch?v=kAGPc6PKVKM](https://www.youtube.com/watch?v=kAGPc6PKVKM)
-</details>
+This question was possibly duplicated with a more recent answer: June 28th, 2022 Livestream Q&A: Any chance for mass-select like delete, but for "paste" ? [https://www.youtube.com/watch?v=3YYzfEhbFGs](https://www.youtube.com/watch?v=3YYzfEhbFGs)
 
 
 ### Topics

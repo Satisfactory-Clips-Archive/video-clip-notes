@@ -27,6 +27,9 @@ date: Last Modified
 * [The HUB](../../topics/features/buildings/the-hub.md)
 * [Water Extractor](../../topics/features/buildings/water-extractor.md)
 
+## June 28th, 2022 Livestream
+* [Q&A: Add a way to configure many Smelters with the same Recipe?](../../transcriptions/yt-1p37rDJJgTo.md) [https://www.youtube.com/watch?v=1p37rDJJgTo](https://www.youtube.com/watch?v=1p37rDJJgTo)
+
 ## June 14th, 2022 Livestream
 * [Birk & Snutt Talk: Remote Copy & Paste](../../transcriptions/yt-Z6bo0pjYghk,12349.200313,12408.3994536901.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=12349&end=12409](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=12349&end=12409)
 

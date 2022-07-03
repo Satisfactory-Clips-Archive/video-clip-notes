@@ -8,7 +8,7 @@ topics:
 # [April 6th, 2021 Livestream](../2021-04-06.md)
 ## Q&A: Blueprints, when?
 https://www.youtube.com/watch?v=9Yqc4z9NPI8
-This question was possibly duplicated with a more recent answer: [March 29th, 2022 Livestream Q&A: Has opions on Blueprinting changed?](./yt-Gtl0TOAaxy0.md) [https://www.youtube.com/watch?v=Gtl0TOAaxy0](https://www.youtube.com/watch?v=Gtl0TOAaxy0)
+This question was possibly duplicated with a more recent answer: [June 28th, 2022 Livestream Q&A: Any updates on Blueprints?](./yt-lvFdAmOYDks.md) [https://www.youtube.com/watch?v=lvFdAmOYDks](https://www.youtube.com/watch?v=lvFdAmOYDks)
 
 
 ### Topics

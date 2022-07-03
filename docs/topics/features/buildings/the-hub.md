@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > The HUB
 
+## June 28th, 2022 Livestream
+* Q&A: Any future uses of small room inside the HUB? [https://www.youtube.com/watch?v=MA3Ixcvf4G4](https://www.youtube.com/watch?v=MA3Ixcvf4G4)
+* [Q&A: Can we have a golden shower in the HUB?](../../../transcriptions/yt-rNdcm3IrA0o.md) [https://www.youtube.com/watch?v=rNdcm3IrA0o](https://www.youtube.com/watch?v=rNdcm3IrA0o)
+
 ## May 17th, 2022 Livestream
 * [Q&A: When will Doom be playable on the HUB computer?](../../../transcriptions/yt-mDi4O1uN6Ng.md) [https://www.youtube.com/watch?v=mDi4O1uN6Ng](https://www.youtube.com/watch?v=mDi4O1uN6Ng)
 

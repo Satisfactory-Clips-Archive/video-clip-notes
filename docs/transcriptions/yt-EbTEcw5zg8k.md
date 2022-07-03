@@ -10,7 +10,7 @@ topics:
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: Given how often Blueprints keeps being requested it really needs to be adopted?
 https://www.youtube.com/watch?v=EbTEcw5zg8k
-This question was possibly duplicated with a more recent answer: [March 29th, 2022 Livestream Q&A: Has opions on Blueprinting changed?](./yt-Gtl0TOAaxy0.md) [https://www.youtube.com/watch?v=Gtl0TOAaxy0](https://www.youtube.com/watch?v=Gtl0TOAaxy0)
+This question was possibly duplicated with a more recent answer: [June 28th, 2022 Livestream Q&A: Any updates on Blueprints?](./yt-lvFdAmOYDks.md) [https://www.youtube.com/watch?v=lvFdAmOYDks](https://www.youtube.com/watch?v=lvFdAmOYDks)
 
 
 ### Topics

@@ -9,7 +9,7 @@ topics:
 # [April 12th, 2022 Livestream](../2022-04-12.md)
 ## Q&A: Any plans to implement a statistics window?
 https://www.youtube.com/watch?v=CgAOx4N8rZ8
-This question was possibly duplicated with a more recent answer: [May 17th, 2022 Livestream Q&A: Plan for in-game statistics?](./yt-PFLDVpxGB-U.md) [https://www.youtube.com/watch?v=PFLDVpxGB-U](https://www.youtube.com/watch?v=PFLDVpxGB-U)
+This question was possibly duplicated with a more recent answer: June 28th, 2022 Livestream Q&A: Would you ever add any kind of sign that displays logistics? [https://www.youtube.com/watch?v=WNIyopr1vZs](https://www.youtube.com/watch?v=WNIyopr1vZs)
 
 
 ### Topics

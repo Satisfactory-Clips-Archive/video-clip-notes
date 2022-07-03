@@ -8,7 +8,7 @@ topics:
 # [April 27th, 2021 Livestream](../2021-04-27.md)
 ## Q&A: When will the Soundtrack be available?
 https://www.youtube.com/watch?v=F4bkm5cFlZw
-This question was possibly duplicated with a more recent answer: [April 19th, 2022 Livestream Q&A: Will this next Update have a completed Soundtrack?](./yt-P_xCjhLJs2g.md) [https://www.youtube.com/watch?v=P_xCjhLJs2g](https://www.youtube.com/watch?v=P_xCjhLJs2g)
+This question was possibly duplicated with a more recent answer: [June 28th, 2022 Livestream Q&A: Any additions to the OST in Update 6?](./yt-2NgEQ7n2y-g.md) [https://www.youtube.com/watch?v=2NgEQ7n2y-g](https://www.youtube.com/watch?v=2NgEQ7n2y-g)
 
 
 ### Topics

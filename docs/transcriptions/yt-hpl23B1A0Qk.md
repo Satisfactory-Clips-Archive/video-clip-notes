@@ -9,7 +9,7 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: Blueprints?
 https://www.youtube.com/watch?v=hpl23B1A0Qk
-This question was possibly duplicated with a more recent answer: [March 29th, 2022 Livestream Q&A: Has opions on Blueprinting changed?](./yt-Gtl0TOAaxy0.md) [https://www.youtube.com/watch?v=Gtl0TOAaxy0](https://www.youtube.com/watch?v=Gtl0TOAaxy0)
+This question was possibly duplicated with a more recent answer: [June 28th, 2022 Livestream Q&A: Any updates on Blueprints?](./yt-lvFdAmOYDks.md) [https://www.youtube.com/watch?v=lvFdAmOYDks](https://www.youtube.com/watch?v=lvFdAmOYDks)
 
 
 ### Topics

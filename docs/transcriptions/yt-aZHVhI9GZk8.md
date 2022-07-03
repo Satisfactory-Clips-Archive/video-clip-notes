@@ -8,7 +8,7 @@ topics:
 # [May 11th, 2021 Livestream](../2021-05-11.md)
 ## Q&A: Teleport System?
 https://www.youtube.com/watch?v=aZHVhI9GZk8
-This question was possibly duplicated with a more recent answer: [March 22nd, 2022 Livestream Q&A: Will there ever be teleportation in the game?](./yt-OyiCY_Hm0mo.md) [https://www.youtube.com/watch?v=OyiCY_Hm0mo](https://www.youtube.com/watch?v=OyiCY_Hm0mo)
+This question was possibly duplicated with a more recent answer: June 28th, 2022 Livestream Q&A: Any plans for Teleporters? [https://www.youtube.com/watch?v=0orGp3fSLmE](https://www.youtube.com/watch?v=0orGp3fSLmE)
 
 
 ### Topics

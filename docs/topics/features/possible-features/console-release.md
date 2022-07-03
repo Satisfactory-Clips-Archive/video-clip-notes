@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > Possible Features > Console Release
 
+## June 28th, 2022 Livestream
+* [Q&A: Any thoughts on Console version?](../../../transcriptions/yt-zdvY08WXtCc.md) [https://www.youtube.com/watch?v=zdvY08WXtCc](https://www.youtube.com/watch?v=zdvY08WXtCc)
+
 ## June 7th, 2022 Livestream
 * [Q&A: Can you make a Console port after 1.0?](../../../transcriptions/yt-DU3eDSo4WZM.md) [https://www.youtube.com/watch?v=DU3eDSo4WZM](https://www.youtube.com/watch?v=DU3eDSo4WZM)
 

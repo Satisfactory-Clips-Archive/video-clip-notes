@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > Mac
 
+## June 28th, 2022 Livestream
+* [Q&A: Mac version?](../../transcriptions/yt-JZ4KDGDPPgs.md) [https://www.youtube.com/watch?v=JZ4KDGDPPgs](https://www.youtube.com/watch?v=JZ4KDGDPPgs)
+
 ## March 22nd, 2022 Livestream
 * [Q&A: Will there be a Mac OS version?](../../transcriptions/yt-NXk08Ir5PCg.md) [https://www.youtube.com/watch?v=NXk08Ir5PCg](https://www.youtube.com/watch?v=NXk08Ir5PCg)
 

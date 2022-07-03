@@ -8,7 +8,7 @@ topics:
 # [January 26th, 2021 Livestream](../2021-01-26.md)
 ## Q&A: Nighttime is only bad because of these damn cats?
 https://www.youtube.com/watch?v=YkXm2LWDAeA
-This question was possibly duplicated with a more recent answer: [March 23rd, 2021 Livestream Q&A: Will you add an Arachnophobia Mode that isn't actually scarier than spiders?](./yt-tudG4BUUsnM.md) [https://www.youtube.com/watch?v=tudG4BUUsnM](https://www.youtube.com/watch?v=tudG4BUUsnM)
+This question was possibly duplicated with a more recent answer: June 28th, 2022 Livestream Q&A: Will there ever be a real Arachnophobia Mode instead of cats & scary sounds? [https://www.youtube.com/watch?v=_zfnXF_UMJU](https://www.youtube.com/watch?v=_zfnXF_UMJU)
 
 
 ### Topics

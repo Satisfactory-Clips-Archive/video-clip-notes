@@ -8,12 +8,7 @@ topics:
 # [November 16th, 2021 Livestream](../2021-11-16.md)
 ## Q&A: Will the Server be multi-threaded like the game client?
 https://www.youtube.com/watch?v=G58lDUp0lhk
-<details>
-<summary>This question may have been asked previously at least 2 other times, as recently as November 2021 and as early as November 2021.</summary>
-
-* [November 9th, 2021 Livestream Q&A: Are you working on the multi-threading for Servers?](./yt-sRtTjntZEMc.md) [https://www.youtube.com/watch?v=sRtTjntZEMc](https://www.youtube.com/watch?v=sRtTjntZEMc)
-* [November 2nd, 2021 Livestream Q&A: Will Dedicated Servers eventually be multi-threaded?](./yt-XencmubF6hA.md) [https://www.youtube.com/watch?v=XencmubF6hA](https://www.youtube.com/watch?v=XencmubF6hA)
-</details>
+This question was possibly duplicated with a more recent answer: [June 28th, 2022 Livestream Q&A: Plan on Dedicated Server fully-support multi-threading?](./yt-UiCrQWXEnRM.md) [https://www.youtube.com/watch?v=UiCrQWXEnRM](https://www.youtube.com/watch?v=UiCrQWXEnRM)
 
 
 ### Topics

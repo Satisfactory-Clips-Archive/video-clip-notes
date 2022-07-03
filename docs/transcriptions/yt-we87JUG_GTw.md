@@ -8,7 +8,7 @@ topics:
 # [April 6th, 2021 Livestream](../2021-04-06.md)
 ## Q&A: Have you considered logic networks?
 https://www.youtube.com/watch?v=we87JUG_GTw
-This question was possibly duplicated with a more recent answer: [March 1st, 2022 Livestream Q&A: Your thoughts on logic implementation in the game?](./yt-pmI1YjZcywA.md) [https://www.youtube.com/watch?v=pmI1YjZcywA](https://www.youtube.com/watch?v=pmI1YjZcywA)
+This question was possibly duplicated with a more recent answer: [June 28th, 2022 Livestream Q&A: Your thoughts on circuits?](./yt-gpaZIfFir-Q.md) [https://www.youtube.com/watch?v=gpaZIfFir-Q](https://www.youtube.com/watch?v=gpaZIfFir-Q)
 
 
 ### Topics

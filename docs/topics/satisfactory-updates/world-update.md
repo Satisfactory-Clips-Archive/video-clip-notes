@@ -5,6 +5,12 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > World Update
 
+## June 28th, 2022 Livestream
+* [Q&A: When new nodes in Spire Coast?](../../transcriptions/yt-Y2bdYFAupfc.md) [https://www.youtube.com/watch?v=Y2bdYFAupfc](https://www.youtube.com/watch?v=Y2bdYFAupfc)
+* [Q&A: Any Red Jungle changes similar to Spire Coast or Swamp?](../../transcriptions/yt-l9SkudmkyLQ.md) [https://www.youtube.com/watch?v=l9SkudmkyLQ](https://www.youtube.com/watch?v=l9SkudmkyLQ)
+* [Q&A: Will 1.0 use any of the void or water areas?](../../transcriptions/yt-uCur5xyQWWI.md) [https://www.youtube.com/watch?v=uCur5xyQWWI](https://www.youtube.com/watch?v=uCur5xyQWWI)
+* Q&A: What zones are changing in Update 6? [https://www.youtube.com/watch?v=cPXS7j9D4vQ](https://www.youtube.com/watch?v=cPXS7j9D4vQ)
+
 ## June 14th, 2022 Livestream
 * [blamehannah.com - Ben, Dylan, Simon, & Snutt Talk: Stuck on terrain](../../transcriptions/yt-Z6bo0pjYghk,8382.181263,8393.711847.md) [https://youtube.com/clip/UgkxxX-kjkIECR_ktGeoXeWRyDzaSMLrNRWU](https://youtube.com/clip/UgkxxX-kjkIECR_ktGeoXeWRyDzaSMLrNRWU)
 * [Dylan, Ben, & Snutt Talk: Pending World Updates](../../transcriptions/yt-Z6bo0pjYghk,8886.005450750474,9004.46764630931.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=8886&end=9005](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=8886&end=9005)

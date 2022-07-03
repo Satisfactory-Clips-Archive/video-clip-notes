@@ -9,6 +9,9 @@ date: Last Modified
 * [Ping](../../topics/technology/user-interface/ping.md)
 * [Stamps](../../topics/technology/user-interface/stamps.md)
 
+## June 28th, 2022 Livestream
+* Q&A: Any chance for mass-select like delete, but for "paste" ? [https://www.youtube.com/watch?v=3YYzfEhbFGs](https://www.youtube.com/watch?v=3YYzfEhbFGs)
+
 ## June 14th, 2022 Livestream
 * [Update 6 Main Menu](../../transcriptions/yt-Z6bo0pjYghk,4630.361819,4660.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=4630&end=4660](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=4630&end=4660)
 * [Mark & Snutt Talk: Handcrafting reminder](../../transcriptions/yt-Z6bo0pjYghk,5520.390357,5634.143527.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=5520&end=5635](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=5520&end=5635)

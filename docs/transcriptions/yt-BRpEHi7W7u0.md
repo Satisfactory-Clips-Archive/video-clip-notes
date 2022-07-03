@@ -8,7 +8,7 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: When can Poison Pillars be removed?
 https://www.youtube.com/watch?v=BRpEHi7W7u0
-This question was possibly duplicated with a more recent answer: [January 18th, 2022 Livestream Q&A: Can we get rid of poison rocks?](./yt-yQfU5GLx4eM.md) [https://www.youtube.com/watch?v=yQfU5GLx4eM](https://www.youtube.com/watch?v=yQfU5GLx4eM)
+This question was possibly duplicated with a more recent answer: [June 28th, 2022 Livestream Q&A: Any plans to make the Fart Rocks destructable?](./yt-KTTHPxhnpDM.md) [https://www.youtube.com/watch?v=KTTHPxhnpDM](https://www.youtube.com/watch?v=KTTHPxhnpDM)
 
 
 ### Topics

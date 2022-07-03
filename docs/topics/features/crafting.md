@@ -8,6 +8,9 @@ date: Last Modified
 * [Recipes](../../topics/features/crafting/recipes.md)
 * [Superposition Oscillator](../../topics/features/crafting/superposition-oscillator.md)
 
+## June 28th, 2022 Livestream
+* [Q&A: Add a material for the glass window?](../../transcriptions/yt-4YE2NLV2s34.md) [https://www.youtube.com/watch?v=4YE2NLV2s34](https://www.youtube.com/watch?v=4YE2NLV2s34)
+
 ## June 14th, 2022 Livestream
 * [Mark & Snutt Talk: Handcrafting reminder](../../transcriptions/yt-Z6bo0pjYghk,5520.390357,5634.143527.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=5520&end=5635](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=5520&end=5635)
 

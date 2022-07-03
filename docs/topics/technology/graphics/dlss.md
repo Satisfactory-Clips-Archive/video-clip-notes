@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Technology](../../../topics/technology.md) > [Graphics](../../../topics/technology/graphics.md) > DLSS
 
+## June 28th, 2022 Livestream
+* Q&A: DLSS? [https://www.youtube.com/watch?v=inVzZQ99Acs](https://www.youtube.com/watch?v=inVzZQ99Acs)
+
 ## May 3rd, 2022 Livestream
 * [Q&A: Do we have DLSS- if not, may we?](../../../transcriptions/yt-99SoH5ZXCO4.md) [https://www.youtube.com/watch?v=99SoH5ZXCO4](https://www.youtube.com/watch?v=99SoH5ZXCO4)
 

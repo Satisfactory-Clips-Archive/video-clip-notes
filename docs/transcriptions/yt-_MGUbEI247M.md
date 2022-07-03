@@ -8,7 +8,7 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Will you create Console version of Satisfactory?
 https://www.youtube.com/watch?v=_MGUbEI247M
-This question was possibly duplicated with a more recent answer: [June 7th, 2022 Livestream Q&A: Can you make a Console port after 1.0?](./yt-DU3eDSo4WZM.md) [https://www.youtube.com/watch?v=DU3eDSo4WZM](https://www.youtube.com/watch?v=DU3eDSo4WZM)
+This question was possibly duplicated with a more recent answer: [June 28th, 2022 Livestream Q&A: Any thoughts on Console version?](./yt-zdvY08WXtCc.md) [https://www.youtube.com/watch?v=zdvY08WXtCc](https://www.youtube.com/watch?v=zdvY08WXtCc)
 
 
 ### Topics

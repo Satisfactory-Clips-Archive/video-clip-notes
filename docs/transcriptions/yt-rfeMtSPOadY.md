@@ -8,7 +8,7 @@ topics:
 # [February 23rd, 2021 Livestream](../2021-02-23.md)
 ## Q&A: Any plans for bringing the game to Nintendo Switch?
 https://www.youtube.com/watch?v=rfeMtSPOadY
-This question was possibly duplicated with a more recent answer: [June 7th, 2022 Livestream Q&A: Can you make a Console port after 1.0?](./yt-DU3eDSo4WZM.md) [https://www.youtube.com/watch?v=DU3eDSo4WZM](https://www.youtube.com/watch?v=DU3eDSo4WZM)
+This question was possibly duplicated with a more recent answer: [June 28th, 2022 Livestream Q&A: Any thoughts on Console version?](./yt-zdvY08WXtCc.md) [https://www.youtube.com/watch?v=zdvY08WXtCc](https://www.youtube.com/watch?v=zdvY08WXtCc)
 
 
 ### Topics

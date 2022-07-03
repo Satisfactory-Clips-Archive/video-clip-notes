@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Tiers](../../../topics/features/tiers.md) > Tier 9
 
+## June 28th, 2022 Livestream
+* Q&A: When are we getting Tier 9? [https://www.youtube.com/watch?v=U1RL3rb1J88](https://www.youtube.com/watch?v=U1RL3rb1J88)
+
 ## October 12th, 2021 Livestream
 * [Q&A: Will there be Tier 9?](../../../transcriptions/yt-DHdUONkXgHk.md) [https://www.youtube.com/watch?v=DHdUONkXgHk](https://www.youtube.com/watch?v=DHdUONkXgHk)
 

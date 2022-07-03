@@ -14,6 +14,9 @@ date: Last Modified
 * [User Interface](../topics/technology/user-interface.md)
 * [Vulkan](../topics/technology/vulkan.md)
 
+## June 28th, 2022 Livestream
+* [Q&A: What's the thread count?](../transcriptions/yt-5kII-BnoimY.md) [https://www.youtube.com/watch?v=5kII-BnoimY](https://www.youtube.com/watch?v=5kII-BnoimY)
+
 ## April 19th, 2022 Livestream
 * [Q&A: Have you used Rust?](../transcriptions/yt-RmeK_dn_Nm4.md) [https://www.youtube.com/watch?v=RmeK_dn_Nm4](https://www.youtube.com/watch?v=RmeK_dn_Nm4)
 * [Q&A: In your old programming days did you use sites like Stack Overflow often?](../transcriptions/yt-n9g3kvyB7SY.md) [https://www.youtube.com/watch?v=n9g3kvyB7SY](https://www.youtube.com/watch?v=n9g3kvyB7SY)

@@ -8,6 +8,13 @@ date: Last Modified
 * [Snutt Burger Time](../../topics/coffee-stainers/snutt/snutt-burger-time.md)
 * [Snutty Mays](../../topics/coffee-stainers/snutt/snutty-mays.md)
 
+## June 28th, 2022 Livestream
+* [Snutt & Jace Talk: Midsummer & Swedish Idioms](../../transcriptions/yt-xpEOoN4dkj8.md) [https://www.youtube.com/watch?v=xpEOoN4dkj8](https://www.youtube.com/watch?v=xpEOoN4dkj8)
+* [Q&A: Can Snutt run the stream without using the word "like" ?](../../transcriptions/yt-RfoN45-mJVM.md) [https://www.youtube.com/watch?v=RfoN45-mJVM](https://www.youtube.com/watch?v=RfoN45-mJVM)
+* [Q&A: When is Snutt going on holiday?](../../transcriptions/yt-IfGYXL5HT3Y.md) [https://www.youtube.com/watch?v=IfGYXL5HT3Y](https://www.youtube.com/watch?v=IfGYXL5HT3Y)
+* [Q&A: Do you play the game outside of development?](../../transcriptions/yt-cUiD3zG_HOU.md) [https://www.youtube.com/watch?v=cUiD3zG_HOU](https://www.youtube.com/watch?v=cUiD3zG_HOU)
+* [Q&A: Do you support LGBTQ](../../transcriptions/yt-uthMCAWDLDw.md) [https://www.youtube.com/watch?v=uthMCAWDLDw](https://www.youtube.com/watch?v=uthMCAWDLDw)
+
 ## June 14th, 2022 Livestream
 * [Tobias, Etienne, & Snutt Talk: New Ammo types (Part 2)](../../transcriptions/yt-Z6bo0pjYghk,6248.647373115271,6289.66688.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=6248&end=6290](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=6248&end=6290)
 

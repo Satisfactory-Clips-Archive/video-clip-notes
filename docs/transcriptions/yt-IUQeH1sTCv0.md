@@ -8,7 +8,7 @@ topics:
 # [April 27th, 2021 Livestream](../2021-04-27.md)
 ## Q&A: Two-person buggy?
 https://www.youtube.com/watch?v=IUQeH1sTCv0
-This question was possibly duplicated with a more recent answer: [March 8th, 2022 Livestream Q&A: Are we ever going to add passenger riding in the Explorer again?](./yt-2Mk9iV_UdBQ.md) [https://www.youtube.com/watch?v=2Mk9iV_UdBQ](https://www.youtube.com/watch?v=2Mk9iV_UdBQ)
+This question was possibly duplicated with a more recent answer: [June 28th, 2022 Livestream Q&A: Any plans to make Vehicles carry more than one player?](./yt-zSTXteZon0w.md) [https://www.youtube.com/watch?v=zSTXteZon0w](https://www.youtube.com/watch?v=zSTXteZon0w)
 
 
 ### Topics

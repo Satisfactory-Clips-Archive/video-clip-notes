@@ -8,7 +8,7 @@ topics:
 # [June 8th, 2021 Livestream](../2021-06-08.md)
 ## Q&A: Turrets & shit?
 https://www.youtube.com/watch?v=KPUcYM5lOac
-This question was possibly duplicated with a more recent answer: [May 24th, 2022 Livestream Q&A: Tower Defense, when?](./yt-tSzwMFuQKUc.md) [https://www.youtube.com/watch?v=tSzwMFuQKUc](https://www.youtube.com/watch?v=tSzwMFuQKUc)
+This question was possibly duplicated with a more recent answer: June 28th, 2022 Livestream Q&A: Enemies destroy your factory, when? [https://www.youtube.com/watch?v=x3qD7G9oJTM](https://www.youtube.com/watch?v=x3qD7G9oJTM)
 
 
 ### Topics

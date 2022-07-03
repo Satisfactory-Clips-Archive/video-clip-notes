@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Biomes](../../../topics/environment/biomes.md) > Swamp
 
+## June 28th, 2022 Livestream
+* [Q&A: Any Red Jungle changes similar to Spire Coast or Swamp?](../../../transcriptions/yt-l9SkudmkyLQ.md) [https://www.youtube.com/watch?v=l9SkudmkyLQ](https://www.youtube.com/watch?v=l9SkudmkyLQ)
+* Q&A: What zones are changing in Update 6? [https://www.youtube.com/watch?v=cPXS7j9D4vQ](https://www.youtube.com/watch?v=cPXS7j9D4vQ)
+
 ## June 14th, 2022 Livestream
 * [Ben, Dylan, Simon, & Snutt Talk: Swamp (Part 1)](../../../transcriptions/yt-Z6bo0pjYghk,7848.671851,7880.700814.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=7848&end=7881](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=7848&end=7881)
 * [Hannah, Anna, Torsten, & Snutt Talk: Swamp (Part 2)](../../../transcriptions/yt-Z6bo0pjYghk,10612.487054,10965.503248.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=10612&end=10966](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=10612&end=10966)

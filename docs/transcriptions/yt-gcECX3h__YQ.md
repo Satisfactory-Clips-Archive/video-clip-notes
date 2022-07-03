@@ -9,7 +9,7 @@ topics:
 # [February 22nd, 2022 Livestream](../2022-02-22.md)
 ## Q&A: Can we have more than one player in a Vehicle?
 https://www.youtube.com/watch?v=gcECX3h__YQ
-This question was possibly duplicated with a more recent answer: [March 8th, 2022 Livestream Q&A: Are we ever going to add passenger riding in the Explorer again?](./yt-2Mk9iV_UdBQ.md) [https://www.youtube.com/watch?v=2Mk9iV_UdBQ](https://www.youtube.com/watch?v=2Mk9iV_UdBQ)
+This question was possibly duplicated with a more recent answer: [June 28th, 2022 Livestream Q&A: Any plans to make Vehicles carry more than one player?](./yt-zSTXteZon0w.md) [https://www.youtube.com/watch?v=zSTXteZon0w](https://www.youtube.com/watch?v=zSTXteZon0w)
 
 
 ### Topics

@@ -10,6 +10,8 @@ topics:
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: Are limited resources planned?
 https://www.youtube.com/watch?v=85XNSiDpeZw
+This question was possibly duplicated with a more recent answer: [June 28th, 2022 Livestream Q&A: Will Resources be finite in the future?](./yt-g25jDdbnYsw.md) [https://www.youtube.com/watch?v=g25jDdbnYsw](https://www.youtube.com/watch?v=g25jDdbnYsw)
+
 
 ### Topics
 * [Environment > Resources](../topics/environment/resources.md)

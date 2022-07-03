@@ -9,7 +9,7 @@ topics:
 # [January 18th, 2022 Livestream](../2022-01-18.md)
 ## Q&A: Jace, why can't we have two people in the Vehicles?
 https://www.youtube.com/watch?v=HcTmSD0xDhA
-This question was possibly duplicated with a more recent answer: [March 8th, 2022 Livestream Q&A: Are we ever going to add passenger riding in the Explorer again?](./yt-2Mk9iV_UdBQ.md) [https://www.youtube.com/watch?v=2Mk9iV_UdBQ](https://www.youtube.com/watch?v=2Mk9iV_UdBQ)
+This question was possibly duplicated with a more recent answer: [June 28th, 2022 Livestream Q&A: Any plans to make Vehicles carry more than one player?](./yt-zSTXteZon0w.md) [https://www.youtube.com/watch?v=zSTXteZon0w](https://www.youtube.com/watch?v=zSTXteZon0w)
 
 
 ### Topics

@@ -22,6 +22,9 @@ date: Last Modified
 * [Walls](../../topics/features/buildables/walls.md)
 * [Windows](../../topics/features/buildables/windows.md)
 
+## June 28th, 2022 Livestream
+* [Q&A: Will we be able to paint Stackable Pipe Supports?](../../transcriptions/yt-cInLru5-kOA.md) [https://www.youtube.com/watch?v=cInLru5-kOA](https://www.youtube.com/watch?v=cInLru5-kOA)
+
 ## June 10th, 2022 Video
 * [Factory Building, Exploration, Creatures, and Combat](../../transcriptions/yt-4pGTnG6Cy5E,353.92023333333333,368.00096666666667.md) [https://youtube.com/clip/UgkxG3vBIOOiE9T3nlqc6y9wOoS9g5pzIgUe](https://youtube.com/clip/UgkxG3vBIOOiE9T3nlqc6y9wOoS9g5pzIgUe)
 

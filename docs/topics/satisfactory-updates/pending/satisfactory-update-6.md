@@ -5,6 +5,20 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Pending](../../../topics/satisfactory-updates/pending.md) > Satisfactory Update 6
 
+## June 28th, 2022 Livestream
+* State of Dev [https://www.youtube.com/watch?v=VbnBqMSEsGk](https://www.youtube.com/watch?v=VbnBqMSEsGk)
+* Q&A: SML timeframe for Update 6? [https://www.youtube.com/watch?v=HVO3YkSYjA4](https://www.youtube.com/watch?v=HVO3YkSYjA4)
+* [Q&A: Will Experimental Update 6 save work when Update 6 comes to EA?](../../../transcriptions/yt-F-Q47hXTGMc.md) [https://www.youtube.com/watch?v=F-Q47hXTGMc](https://www.youtube.com/watch?v=F-Q47hXTGMc)
+* [Community FYI: Modding is even more experimental](../../../transcriptions/yt-Rwd-qaqylzw.md) [https://www.youtube.com/watch?v=Rwd-qaqylzw](https://www.youtube.com/watch?v=Rwd-qaqylzw)
+* [Q&A: When new nodes in Spire Coast?](../../../transcriptions/yt-Y2bdYFAupfc.md) [https://www.youtube.com/watch?v=Y2bdYFAupfc](https://www.youtube.com/watch?v=Y2bdYFAupfc)
+* [Q&A: Are the Recipes going to be updated before Update 6 moves to EA?](../../../transcriptions/yt-F3Fc0slcf9g.md) [https://www.youtube.com/watch?v=F3Fc0slcf9g](https://www.youtube.com/watch?v=F3Fc0slcf9g)
+* [Q&A: Do the jumping spiders jump higher than before?](../../../transcriptions/yt-Leo8gTff8FY.md) [https://www.youtube.com/watch?v=Leo8gTff8FY](https://www.youtube.com/watch?v=Leo8gTff8FY)
+* [Q&A: Update 6 title?](../../../transcriptions/yt-VDzWaOMooQc.md) [https://www.youtube.com/watch?v=VDzWaOMooQc](https://www.youtube.com/watch?v=VDzWaOMooQc)
+* [Q&A: Any additions to the OST in Update 6?](../../../transcriptions/yt-2NgEQ7n2y-g.md) [https://www.youtube.com/watch?v=2NgEQ7n2y-g](https://www.youtube.com/watch?v=2NgEQ7n2y-g)
+* Q&A: What zones are changing in Update 6? [https://www.youtube.com/watch?v=cPXS7j9D4vQ](https://www.youtube.com/watch?v=cPXS7j9D4vQ)
+* [Snutt Talk: Floating grass issue](../../../transcriptions/yt-_8EMTOiVgVQ.md) [https://www.youtube.com/watch?v=_8EMTOiVgVQ](https://www.youtube.com/watch?v=_8EMTOiVgVQ)
+* [Q&A: Will we get a Patch Notes video for Update 6?](../../../transcriptions/yt-kZJ2uIeMQmI.md) [https://www.youtube.com/watch?v=kZJ2uIeMQmI](https://www.youtube.com/watch?v=kZJ2uIeMQmI)
+
 ## June 17th, 2022 Video
 * [Snutt Talk: How to check out Update 6 on Steam & Epic](../../../transcriptions/yt-acZOxaTkcCY,49.474768,75.978834325334.md) [https://youtube.com/clip/UgkxcaZNnDl-U-_hLYWK8PSPeMSAt7lgcMUl](https://youtube.com/clip/UgkxcaZNnDl-U-_hLYWK8PSPeMSAt7lgcMUl)
 * [Snutt Talk: Back up your damn save files](../../../transcriptions/yt-acZOxaTkcCY,75.978834325334,152.11863333333335.md) [https://youtube.com/embed/acZOxaTkcCY?autoplay=1&start=75&end=153](https://youtube.com/embed/acZOxaTkcCY?autoplay=1&start=75&end=153)

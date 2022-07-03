@@ -17,6 +17,9 @@ date: Last Modified
 * [Terraforming](../../topics/features/unplanned-features/terraforming.md)
 * [VR](../../topics/features/unplanned-features/vr.md)
 
+## June 28th, 2022 Livestream
+* [Q&A: Adding Helicopters?](../../transcriptions/yt-GAUDB7YWGTk.md) [https://www.youtube.com/watch?v=GAUDB7YWGTk](https://www.youtube.com/watch?v=GAUDB7YWGTk)
+
 ## June 7th, 2022 Livestream
 * Q&A: Lava zone, when? [https://www.youtube.com/watch?v=ZEnFaSNPCck](https://www.youtube.com/watch?v=ZEnFaSNPCck)
 

@@ -10,7 +10,7 @@ topics:
 # [March 9th, 2021 Livestream](../2021-03-09.md)
 ## Q&A: Will Experimental & EA be the same version so we can swap?
 https://www.youtube.com/watch?v=-m_-g6ELKsY
-This question was possibly duplicated with a more recent answer: [November 16th, 2021 Livestream Q&A: Can Experimental saves be moved over to Early Access without issue?](./yt-nPj_soas-a8.md) [https://www.youtube.com/watch?v=nPj_soas-a8](https://www.youtube.com/watch?v=nPj_soas-a8)
+This question was possibly duplicated with a more recent answer: [June 28th, 2022 Livestream Q&A: Will Experimental Update 6 save work when Update 6 comes to EA?](./yt-F-Q47hXTGMc.md) [https://www.youtube.com/watch?v=F-Q47hXTGMc](https://www.youtube.com/watch?v=F-Q47hXTGMc)
 
 
 ### Topics

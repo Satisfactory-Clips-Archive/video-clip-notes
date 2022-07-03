@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Unplanned Features](../../../topics/features/unplanned-features.md) > Base Defense
 
+## June 28th, 2022 Livestream
+* Q&A: Enemies destroy your factory, when? [https://www.youtube.com/watch?v=x3qD7G9oJTM](https://www.youtube.com/watch?v=x3qD7G9oJTM)
+
 ## May 24th, 2022 Livestream
 * [Q&A: Tower Defense, when?](../../../transcriptions/yt-tSzwMFuQKUc.md) [https://www.youtube.com/watch?v=tSzwMFuQKUc](https://www.youtube.com/watch?v=tSzwMFuQKUc)
 

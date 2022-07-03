@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > Possible Features > Blueprints
 
+## June 28th, 2022 Livestream
+* [Q&A: Any updates on Blueprints?](../../../transcriptions/yt-lvFdAmOYDks.md) [https://www.youtube.com/watch?v=lvFdAmOYDks](https://www.youtube.com/watch?v=lvFdAmOYDks)
+
 ## March 29th, 2022 Livestream
 * [Q&A: Has opions on Blueprinting changed?](../../../transcriptions/yt-Gtl0TOAaxy0.md) [https://www.youtube.com/watch?v=Gtl0TOAaxy0](https://www.youtube.com/watch?v=Gtl0TOAaxy0)
 

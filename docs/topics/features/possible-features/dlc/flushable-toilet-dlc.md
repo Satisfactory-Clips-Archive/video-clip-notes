@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > Possible Features > [DLC](../../../../topics/features/possible-features/dlc.md) > Flushable Toilet DLC
 
+## June 28th, 2022 Livestream
+* Q&A: Microtransactions, when? [https://www.youtube.com/watch?v=hsSRaOrRHL8](https://www.youtube.com/watch?v=hsSRaOrRHL8)
+* [Q&A: The Toilet won't flush, but you want a shower?](../../../../transcriptions/yt-9P-tf598mI0.md) [https://www.youtube.com/watch?v=9P-tf598mI0](https://www.youtube.com/watch?v=9P-tf598mI0)
+
 ## April 26th, 2022 Livestream
 * [Q&A: Toilet DLC, when?](../../../../transcriptions/yt-ceIkXx7rE7Y.md) [https://www.youtube.com/watch?v=ceIkXx7rE7Y](https://www.youtube.com/watch?v=ceIkXx7rE7Y)
 

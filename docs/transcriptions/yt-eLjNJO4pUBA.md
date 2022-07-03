@@ -8,7 +8,7 @@ topics:
 # [November 24th, 2020 Livestream](../2020-11-24.md)
 ## Q&A: Is there going to be a Satisfactory for Mac?
 https://www.youtube.com/watch?v=eLjNJO4pUBA
-This question was possibly duplicated with a more recent answer: [March 22nd, 2022 Livestream Q&A: Will there be a Mac OS version?](./yt-NXk08Ir5PCg.md) [https://www.youtube.com/watch?v=NXk08Ir5PCg](https://www.youtube.com/watch?v=NXk08Ir5PCg)
+This question was possibly duplicated with a more recent answer: [June 28th, 2022 Livestream Q&A: Mac version?](./yt-JZ4KDGDPPgs.md) [https://www.youtube.com/watch?v=JZ4KDGDPPgs](https://www.youtube.com/watch?v=JZ4KDGDPPgs)
 
 
 ### Topics

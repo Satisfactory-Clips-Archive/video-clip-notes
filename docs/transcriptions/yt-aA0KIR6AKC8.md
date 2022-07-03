@@ -8,7 +8,7 @@ topics:
 # [July 6th, 2021 Livestream](../2021-07-06.md)
 ## Q&A: Go implement HUB computer, I want to see graphs & statistics?
 https://www.youtube.com/watch?v=aA0KIR6AKC8
-This question was possibly duplicated with a more recent answer: [May 17th, 2022 Livestream Q&A: Plan for in-game statistics?](./yt-PFLDVpxGB-U.md) [https://www.youtube.com/watch?v=PFLDVpxGB-U](https://www.youtube.com/watch?v=PFLDVpxGB-U)
+This question was possibly duplicated with a more recent answer: June 28th, 2022 Livestream Q&A: Would you ever add any kind of sign that displays logistics? [https://www.youtube.com/watch?v=WNIyopr1vZs](https://www.youtube.com/watch?v=WNIyopr1vZs)
 
 
 ### Topics

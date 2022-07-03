@@ -6,6 +6,11 @@ date: Last Modified
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Crafting](../../../topics/features/crafting.md) > Recipes
 * [Alternate Recipes](../../../topics/features/crafting/recipes/alternate-recipes.md)
 
+## June 28th, 2022 Livestream
+* [Q&A: Add a material for the glass window?](../../../transcriptions/yt-4YE2NLV2s34.md) [https://www.youtube.com/watch?v=4YE2NLV2s34](https://www.youtube.com/watch?v=4YE2NLV2s34)
+* [Q&A: Are the Recipes going to be updated before Update 6 moves to EA?](../../../transcriptions/yt-F3Fc0slcf9g.md) [https://www.youtube.com/watch?v=F3Fc0slcf9g](https://www.youtube.com/watch?v=F3Fc0slcf9g)
+* [Q&A: Add a way to configure many Smelters with the same Recipe?](../../../transcriptions/yt-1p37rDJJgTo.md) [https://www.youtube.com/watch?v=1p37rDJJgTo](https://www.youtube.com/watch?v=1p37rDJJgTo)
+
 ## June 14th, 2022 Livestream
 * [Birk & Snutt Talk: Remote Copy & Paste](../../../transcriptions/yt-Z6bo0pjYghk,12349.200313,12408.3994536901.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=12349&end=12409](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=12349&end=12409)
 

@@ -11,6 +11,13 @@ date: Last Modified
 * [Resources](../topics/environment/resources.md)
 * [World Map](../topics/environment/world-map.md)
 
+## June 28th, 2022 Livestream
+* [Q&A: Any plans to make the Fart Rocks destructable?](../transcriptions/yt-KTTHPxhnpDM.md) [https://www.youtube.com/watch?v=KTTHPxhnpDM](https://www.youtube.com/watch?v=KTTHPxhnpDM)
+* [Q&A: Working on floating Ore rocks?](../transcriptions/yt-56qfgYEtKzE.md) [https://www.youtube.com/watch?v=56qfgYEtKzE](https://www.youtube.com/watch?v=56qfgYEtKzE)
+* [Q&A: Will 1.0 use any of the void or water areas?](../transcriptions/yt-uCur5xyQWWI.md) [https://www.youtube.com/watch?v=uCur5xyQWWI](https://www.youtube.com/watch?v=uCur5xyQWWI)
+* [Q&A: Items that fall are getting despawned or falling forever?](../transcriptions/yt-_qSlPfOapCU.md) [https://www.youtube.com/watch?v=_qSlPfOapCU](https://www.youtube.com/watch?v=_qSlPfOapCU)
+* [Snutt Talk: Floating grass issue](../transcriptions/yt-_8EMTOiVgVQ.md) [https://www.youtube.com/watch?v=_8EMTOiVgVQ](https://www.youtube.com/watch?v=_8EMTOiVgVQ)
+
 ## June 14th, 2022 Livestream
 * [Tobias, Etienne, & Snutt Talk: New Atmosphere system (Part 1)](../transcriptions/yt-Z6bo0pjYghk,6898.664301,6925.322579.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=6898&end=6926](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=6898&end=6926)
 * [Ben, Dylan, Simon, & Snutt Talk: New Atmosphere system (Part 2)](../transcriptions/yt-Z6bo0pjYghk,8127.107961730213,8276.579761613913.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=8127&end=8277](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=8127&end=8277)

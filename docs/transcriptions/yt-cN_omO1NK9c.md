@@ -11,7 +11,7 @@ topics:
 https://www.youtube.com/watch?v=cN_omO1NK9c
 This question was possibly replaced with a more recent answer: [September 7th, 2021 Livestream Q&A: What can be Zooped?](./yt-tOkr62V4ks4.md) [https://www.youtube.com/watch?v=tOkr62V4ks4](https://www.youtube.com/watch?v=tOkr62V4ks4)
 
-This question was possibly duplicated with a more recent answer: [December 7th, 2021 Livestream Q&A: Look at Smart! mod & try something like this?](./yt-EkDbmqW43Ic.md) [https://www.youtube.com/watch?v=EkDbmqW43Ic](https://www.youtube.com/watch?v=EkDbmqW43Ic)
+This question was possibly duplicated with a more recent answer: [June 28th, 2022 Livestream Q&A: Zooping basic machines?](./yt-Q-_HepXBjXY.md) [https://www.youtube.com/watch?v=Q-_HepXBjXY](https://www.youtube.com/watch?v=Q-_HepXBjXY)
 
 
 ### Topics

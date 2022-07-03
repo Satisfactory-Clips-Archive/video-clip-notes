@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > Possible Features > Character Customisation
 
+## June 28th, 2022 Livestream
+* [Q&A: Character Customisation?](../../../transcriptions/yt-hjK_w2ScysQ.md) [https://www.youtube.com/watch?v=hjK_w2ScysQ](https://www.youtube.com/watch?v=hjK_w2ScysQ)
+* [Q&A: Can we play as Cloud in Satisfactory?](../../../transcriptions/yt-_Ew77Qy6LiI.md) [https://www.youtube.com/watch?v=_Ew77Qy6LiI](https://www.youtube.com/watch?v=_Ew77Qy6LiI)
+
 ## April 12th, 2022 Livestream
 * [Q&A: Are there plans to make alternate player models in the AWESOME Shop, i.e. Snutt / Jace models?](../../../transcriptions/yt-ozIEEGTX2G4.md) [https://www.youtube.com/watch?v=ozIEEGTX2G4](https://www.youtube.com/watch?v=ozIEEGTX2G4)
 

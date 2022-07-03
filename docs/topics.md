@@ -116,6 +116,7 @@ date: Last Modified
 * [Spire Coast](./topics/environment/biomes/spire-coast.md)
 * [Swamp](./topics/environment/biomes/swamp.md)
 * [The Great Canyon](./topics/environment/biomes/the-great-canyon.md)
+* [Titan Forest](./topics/environment/biomes/titan-forest.md)
 
 ### Unplanned Biomes
 * [Snow](./topics/environment/biomes/unplanned-biomes/snow.md)
@@ -487,6 +488,7 @@ date: Last Modified
 * [Update 5 Revealed](./topics/satisfactory-updates/teasers-and-trailers/update-5-launch-stream/update-5-revealed.md)
 ---
 * [Update 6 Teasers](./topics/satisfactory-updates/teasers-and-trailers/update-6-teasers.md)
+* [Update 6 Patch Notes Video](./topics/satisfactory-updates/teasers-and-trailers/update-6-patch-notes-video.md)
 ---
 
 ## [Satisfactory Prototypes](./topics/satisfactory-updates/satisfactory-prototypes.md)

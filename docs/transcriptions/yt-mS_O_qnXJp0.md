@@ -10,7 +10,7 @@ topics:
 # [February 9th, 2021 Livestream](../2021-02-09.md)
 ## Q&A: Do you plan to release on Console one day?
 https://www.youtube.com/watch?v=mS_O_qnXJp0
-This question was possibly duplicated with a more recent answer: [June 7th, 2022 Livestream Q&A: Can you make a Console port after 1.0?](./yt-DU3eDSo4WZM.md) [https://www.youtube.com/watch?v=DU3eDSo4WZM](https://www.youtube.com/watch?v=DU3eDSo4WZM)
+This question was possibly duplicated with a more recent answer: [June 28th, 2022 Livestream Q&A: Any thoughts on Console version?](./yt-zdvY08WXtCc.md) [https://www.youtube.com/watch?v=zdvY08WXtCc](https://www.youtube.com/watch?v=zdvY08WXtCc)
 
 
 ### Topics

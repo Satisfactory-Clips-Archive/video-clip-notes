@@ -8,7 +8,7 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Mac Release / Release to other platforms?
 https://www.youtube.com/watch?v=xVOvU3NVxfs
-This question was possibly duplicated with a more recent answer: [March 22nd, 2022 Livestream Q&A: Will there be a Mac OS version?](./yt-NXk08Ir5PCg.md) [https://www.youtube.com/watch?v=NXk08Ir5PCg](https://www.youtube.com/watch?v=NXk08Ir5PCg)
+This question was possibly duplicated with a more recent answer: [June 28th, 2022 Livestream Q&A: Mac version?](./yt-JZ4KDGDPPgs.md) [https://www.youtube.com/watch?v=JZ4KDGDPPgs](https://www.youtube.com/watch?v=JZ4KDGDPPgs)
 
 
 ### Topics

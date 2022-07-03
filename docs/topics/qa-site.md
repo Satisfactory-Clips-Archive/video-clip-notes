@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > QA Site
 
+## June 28th, 2022 Livestream
+* State of Dev [https://www.youtube.com/watch?v=VbnBqMSEsGk](https://www.youtube.com/watch?v=VbnBqMSEsGk)
+* [Community FYI: Make sure you search the QA Site before posting](../transcriptions/yt-iTQbBr6U_IU.md) [https://www.youtube.com/watch?v=iTQbBr6U_IU](https://www.youtube.com/watch?v=iTQbBr6U_IU)
+
 ## June 17th, 2022 Video
 * [Snutt Talk: How to notify Coffee Stain about bugs](../transcriptions/yt-acZOxaTkcCY,455.9888666666667,523.4229.md) [https://youtube.com/embed/acZOxaTkcCY?autoplay=1&start=455&end=524](https://youtube.com/embed/acZOxaTkcCY?autoplay=1&start=455&end=524)
 

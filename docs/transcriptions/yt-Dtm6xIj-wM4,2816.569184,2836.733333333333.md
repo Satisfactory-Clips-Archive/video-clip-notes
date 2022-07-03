@@ -8,7 +8,7 @@ topics:
 # [February 6th, 2019 Livestream](../2019-02-06.md)
 ## Q&A: Any plans for stuff like Blueprints?
 https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2816&end=2837
-This question was possibly duplicated with a more recent answer: [March 29th, 2022 Livestream Q&A: Has opions on Blueprinting changed?](./yt-Gtl0TOAaxy0.md) [https://www.youtube.com/watch?v=Gtl0TOAaxy0](https://www.youtube.com/watch?v=Gtl0TOAaxy0)
+This question was possibly duplicated with a more recent answer: [June 28th, 2022 Livestream Q&A: Any updates on Blueprints?](./yt-lvFdAmOYDks.md) [https://www.youtube.com/watch?v=lvFdAmOYDks](https://www.youtube.com/watch?v=lvFdAmOYDks)
 
 
 ### Topics

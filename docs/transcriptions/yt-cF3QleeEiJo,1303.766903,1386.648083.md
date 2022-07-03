@@ -10,7 +10,7 @@ topics:
 # [April 13th, 2021 Livestream](../2021-04-13.md)
 ## Q&A: If I play it on Experimental, will I still be able to load it if I switch to Early Access?
 https://youtube.com/embed/cF3QleeEiJo?autoplay=1&start=1303&end=1387
-This question was possibly duplicated with a more recent answer: [November 16th, 2021 Livestream Q&A: Can Experimental saves be moved over to Early Access without issue?](./yt-nPj_soas-a8.md) [https://www.youtube.com/watch?v=nPj_soas-a8](https://www.youtube.com/watch?v=nPj_soas-a8)
+This question was possibly duplicated with a more recent answer: [June 28th, 2022 Livestream Q&A: Will Experimental Update 6 save work when Update 6 comes to EA?](./yt-F-Q47hXTGMc.md) [https://www.youtube.com/watch?v=F-Q47hXTGMc](https://www.youtube.com/watch?v=F-Q47hXTGMc)
 
 
 ### Topics

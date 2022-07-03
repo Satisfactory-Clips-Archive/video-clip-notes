@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Embracer Group](../../../topics/embracer-group.md) > Coffee Stain Holding > Coffee Stain Studios
 
+## June 28th, 2022 Livestream
+* [Q&A: Do you support LGBTQ](../../../transcriptions/yt-uthMCAWDLDw.md) [https://www.youtube.com/watch?v=uthMCAWDLDw](https://www.youtube.com/watch?v=uthMCAWDLDw)
+
 ## June 17th, 2022 Video
 * [Q&A: What happens now?](../../../transcriptions/yt-acZOxaTkcCY,310.84386666666666,455.95550000000003.md) [https://youtube.com/embed/acZOxaTkcCY?autoplay=1&start=310&end=456](https://youtube.com/embed/acZOxaTkcCY?autoplay=1&start=310&end=456)
 

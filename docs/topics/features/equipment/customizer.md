@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Equipment](../../../topics/features/equipment.md) > Customizer
 
+## June 28th, 2022 Livestream
+* Q&A: Can we get a cover of the Customizer theme song? [https://www.youtube.com/watch?v=YImL780rHD4](https://www.youtube.com/watch?v=YImL780rHD4)
+* [Q&A: Will we be able to paint Stackable Pipe Supports?](../../../transcriptions/yt-cInLru5-kOA.md) [https://www.youtube.com/watch?v=cInLru5-kOA](https://www.youtube.com/watch?v=cInLru5-kOA)
+
 ## March 29th, 2022 Livestream
 * [Q&A: Can we get a colour slot for Lights like the one in the Customizer?](../../../transcriptions/yt-82I-B3EaYss.md) [https://www.youtube.com/watch?v=82I-B3EaYss](https://www.youtube.com/watch?v=82I-B3EaYss)
 * [Q&A: Would it be possible for the Factory Cart to keep the colour intact?](../../../transcriptions/yt-00W3BKCd330.md) [https://www.youtube.com/watch?v=00W3BKCd330](https://www.youtube.com/watch?v=00W3BKCd330)

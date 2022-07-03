@@ -10,7 +10,7 @@ topics:
 # [July 13th, 2021 Livestream](../2021-07-13.md)
 ## Q&A: Will there be a Smart!-similar system for Update 5?
 https://www.youtube.com/watch?v=s1AawKfPvK0
-This question was possibly duplicated with a more recent answer: [December 7th, 2021 Livestream Q&A: Look at Smart! mod & try something like this?](./yt-EkDbmqW43Ic.md) [https://www.youtube.com/watch?v=EkDbmqW43Ic](https://www.youtube.com/watch?v=EkDbmqW43Ic)
+This question was possibly duplicated with a more recent answer: [June 28th, 2022 Livestream Q&A: Zooping basic machines?](./yt-Q-_HepXBjXY.md) [https://www.youtube.com/watch?v=Q-_HepXBjXY](https://www.youtube.com/watch?v=Q-_HepXBjXY)
 
 
 ### Topics

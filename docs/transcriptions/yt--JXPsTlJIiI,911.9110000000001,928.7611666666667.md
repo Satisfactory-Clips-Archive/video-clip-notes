@@ -8,7 +8,7 @@ topics:
 # [December 17th, 2020 Q&A](../2020-12-17.md)
 ## Q&A: Character customization?
 https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=911&end=929
-This question was possibly duplicated with a more recent answer: [March 15th, 2022 Livestream Q&A: Character Customisation?](./yt-1a-I7ds_Ipc.md) [https://www.youtube.com/watch?v=1a-I7ds_Ipc](https://www.youtube.com/watch?v=1a-I7ds_Ipc)
+This question was possibly duplicated with a more recent answer: [June 28th, 2022 Livestream Q&A: Character Customisation?](./yt-hjK_w2ScysQ.md) [https://www.youtube.com/watch?v=hjK_w2ScysQ](https://www.youtube.com/watch?v=hjK_w2ScysQ)
 
 
 ### Topics

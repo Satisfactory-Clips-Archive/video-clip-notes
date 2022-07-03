@@ -9,7 +9,7 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: I don't like spiders but arachnophobia mode is even scarier
 https://www.youtube.com/watch?v=GluAI4ipeLY
-This question was possibly duplicated with a more recent answer: [March 23rd, 2021 Livestream Q&A: Will you add an Arachnophobia Mode that isn't actually scarier than spiders?](./yt-tudG4BUUsnM.md) [https://www.youtube.com/watch?v=tudG4BUUsnM](https://www.youtube.com/watch?v=tudG4BUUsnM)
+This question was possibly duplicated with a more recent answer: June 28th, 2022 Livestream Q&A: Will there ever be a real Arachnophobia Mode instead of cats & scary sounds? [https://www.youtube.com/watch?v=_zfnXF_UMJU](https://www.youtube.com/watch?v=_zfnXF_UMJU)
 
 
 ### Topics

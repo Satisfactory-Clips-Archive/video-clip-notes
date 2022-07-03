@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildables](../../../topics/features/buildables.md) > Signs
 
+## June 28th, 2022 Livestream
+* Q&A: Would you ever add any kind of sign that displays logistics? [https://www.youtube.com/watch?v=WNIyopr1vZs](https://www.youtube.com/watch?v=WNIyopr1vZs)
+
 ## April 15th, 2022 Video
 * [Snutt & Stefan Talk: Trains in Sprint 23](../../../transcriptions/yt-7I3NGAm3j_4,1904.9363666666668,1969.1338333333333.md) [https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=1904&end=1970](https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=1904&end=1970)
 

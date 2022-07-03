@@ -9,7 +9,7 @@ topics:
 # [August 31st, 2021 Livestream](../2021-08-31.md)
 ## Q&A: Is a feature planned to Mass Build like Smart! mod?
 https://www.youtube.com/watch?v=V8g2L7aIey4
-This question was possibly duplicated with a more recent answer: [December 7th, 2021 Livestream Q&A: Look at Smart! mod & try something like this?](./yt-EkDbmqW43Ic.md) [https://www.youtube.com/watch?v=EkDbmqW43Ic](https://www.youtube.com/watch?v=EkDbmqW43Ic)
+This question was possibly duplicated with a more recent answer: [June 28th, 2022 Livestream Q&A: Zooping basic machines?](./yt-Q-_HepXBjXY.md) [https://www.youtube.com/watch?v=Q-_HepXBjXY](https://www.youtube.com/watch?v=Q-_HepXBjXY)
 
 
 ### Topics

@@ -8,7 +8,7 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Will this game come out on Console at some point?
 https://www.youtube.com/watch?v=pfD6p4g3fQ8
-This question was possibly duplicated with a more recent answer: [June 7th, 2022 Livestream Q&A: Can you make a Console port after 1.0?](./yt-DU3eDSo4WZM.md) [https://www.youtube.com/watch?v=DU3eDSo4WZM](https://www.youtube.com/watch?v=DU3eDSo4WZM)
+This question was possibly duplicated with a more recent answer: [June 28th, 2022 Livestream Q&A: Any thoughts on Console version?](./yt-zdvY08WXtCc.md) [https://www.youtube.com/watch?v=zdvY08WXtCc](https://www.youtube.com/watch?v=zdvY08WXtCc)
 
 
 ### Topics

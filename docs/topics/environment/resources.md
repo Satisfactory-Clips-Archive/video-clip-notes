@@ -14,6 +14,10 @@ date: Last Modified
 * [Steel](../../topics/environment/resources/steel.md)
 * [Water](../../topics/environment/resources/water.md)
 
+## June 28th, 2022 Livestream
+* [Q&A: When new nodes in Spire Coast?](../../transcriptions/yt-Y2bdYFAupfc.md) [https://www.youtube.com/watch?v=Y2bdYFAupfc](https://www.youtube.com/watch?v=Y2bdYFAupfc)
+* [Q&A: Will Resources be finite in the future?](../../transcriptions/yt-g25jDdbnYsw.md) [https://www.youtube.com/watch?v=g25jDdbnYsw](https://www.youtube.com/watch?v=g25jDdbnYsw)
+
 ## June 14th, 2022 Livestream
 * [Mark & Snutt Talk: Update 6 M.A.M.](../../transcriptions/yt-Z6bo0pjYghk,4978.238237,5274.167479.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=4978&end=5275](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=4978&end=5275)
 

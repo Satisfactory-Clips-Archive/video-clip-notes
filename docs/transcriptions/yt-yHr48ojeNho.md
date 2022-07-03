@@ -8,7 +8,7 @@ topics:
 # [June 29th, 2021 Livestream](../2021-06-29.md)
 ## Q&A: How much do you think Unreal Engine 5 would help development of the game?
 https://www.youtube.com/watch?v=yHr48ojeNho
-This question was possibly duplicated with a more recent answer: [April 19th, 2022 Livestream Q&A: Are you guys planning to take advantage of Unreal Engine 5?](./yt-SXdsoQUxmA8.md) [https://www.youtube.com/watch?v=SXdsoQUxmA8](https://www.youtube.com/watch?v=SXdsoQUxmA8)
+This question was possibly duplicated with a more recent answer: June 28th, 2022 Livestream Q&A: Will you guys update to Unreal Engine 5? [https://www.youtube.com/watch?v=E-RhxpEtG5Q](https://www.youtube.com/watch?v=E-RhxpEtG5Q)
 
 
 ### Topics

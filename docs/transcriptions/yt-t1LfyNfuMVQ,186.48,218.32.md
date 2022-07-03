@@ -8,7 +8,7 @@ topics:
 # [September 25th, 2019 Patch Notes](../2019-09-25.md)
 ## Q&A: Are the new save files supported in an older version of the game?
 https://youtube.com/embed/t1LfyNfuMVQ?autoplay=1&start=186&end=219
-This question was possibly duplicated with a more recent answer: [November 16th, 2021 Livestream Q&A: Can Experimental saves be moved over to Early Access without issue?](./yt-nPj_soas-a8.md) [https://www.youtube.com/watch?v=nPj_soas-a8](https://www.youtube.com/watch?v=nPj_soas-a8)
+This question was possibly duplicated with a more recent answer: [June 28th, 2022 Livestream Q&A: Will Experimental Update 6 save work when Update 6 comes to EA?](./yt-F-Q47hXTGMc.md) [https://www.youtube.com/watch?v=F-Q47hXTGMc](https://www.youtube.com/watch?v=F-Q47hXTGMc)
 
 
 ### Topics

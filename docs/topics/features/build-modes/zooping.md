@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Build Modes](../../../topics/features/build-modes.md) > Zooping
 
+## June 28th, 2022 Livestream
+* [Q&A: Zooping basic machines?](../../../transcriptions/yt-Q-_HepXBjXY.md) [https://www.youtube.com/watch?v=Q-_HepXBjXY](https://www.youtube.com/watch?v=Q-_HepXBjXY)
+
 ## March 22nd, 2022 Livestream
 * [Q&A: Any thoughts on making Zoop limit a gameplay setting?](../../../transcriptions/yt-FwIeJutZj98.md) [https://www.youtube.com/watch?v=FwIeJutZj98](https://www.youtube.com/watch?v=FwIeJutZj98)
 

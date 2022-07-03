@@ -8,7 +8,7 @@ topics:
 # [February 1st, 2022 Livestream](../2022-02-01.md)
 ## Q&A: Will we see VR in the future?
 https://www.youtube.com/watch?v=fPaoCTlPlO0
-This question was possibly duplicated with a more recent answer: [May 3rd, 2022 Livestream Q&A: Any plans for VR?](./yt-vgYHJu3DzeE.md) [https://www.youtube.com/watch?v=vgYHJu3DzeE](https://www.youtube.com/watch?v=vgYHJu3DzeE)
+This question was possibly duplicated with a more recent answer: [June 28th, 2022 Livestream Q&A: VR?](./yt-H3IW4U9gg-g.md) [https://www.youtube.com/watch?v=H3IW4U9gg-g](https://www.youtube.com/watch?v=H3IW4U9gg-g)
 
 
 ### Topics

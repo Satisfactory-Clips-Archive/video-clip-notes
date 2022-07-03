@@ -8,7 +8,7 @@ topics:
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Q&A: What's the reason for not having good in-production overview?
 https://www.youtube.com/watch?v=66gt7CjmdXs
-This question was possibly duplicated with a more recent answer: [May 17th, 2022 Livestream Q&A: Plan for in-game statistics?](./yt-PFLDVpxGB-U.md) [https://www.youtube.com/watch?v=PFLDVpxGB-U](https://www.youtube.com/watch?v=PFLDVpxGB-U)
+This question was possibly duplicated with a more recent answer: June 28th, 2022 Livestream Q&A: Would you ever add any kind of sign that displays logistics? [https://www.youtube.com/watch?v=WNIyopr1vZs](https://www.youtube.com/watch?v=WNIyopr1vZs)
 
 
 ### Topics

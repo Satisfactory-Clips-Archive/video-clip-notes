@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Resources](../../../topics/environment/resources.md) > Power Slug
 
+## June 28th, 2022 Livestream
+* [Q&A: Slug automation?](../../../transcriptions/yt-C29hyEG-rkI.md) [https://www.youtube.com/watch?v=C29hyEG-rkI](https://www.youtube.com/watch?v=C29hyEG-rkI)
+
 ## June 14th, 2022 Livestream
 * [Mark & Snutt Talk: Update 6 M.A.M.](../../../transcriptions/yt-Z6bo0pjYghk,4978.238237,5274.167479.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=4978&end=5275](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=4978&end=5275)
 

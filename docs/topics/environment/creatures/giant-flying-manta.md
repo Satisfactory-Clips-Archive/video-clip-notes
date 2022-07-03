@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Creatures](../../../topics/environment/creatures.md) > Giant Flying Manta
 
+## June 28th, 2022 Livestream
+* [Q&A: Can we kill the Giant Flying Manta thing?](../../../transcriptions/yt-cG95MV6RHhw.md) [https://www.youtube.com/watch?v=cG95MV6RHhw](https://www.youtube.com/watch?v=cG95MV6RHhw)
+
 ## May 3rd, 2022 Livestream
 * [Update 6: Spire Coast Teaser](../../../transcriptions/yt-SVZCcGdt1eI.md) [https://www.youtube.com/watch?v=SVZCcGdt1eI](https://www.youtube.com/watch?v=SVZCcGdt1eI)
 

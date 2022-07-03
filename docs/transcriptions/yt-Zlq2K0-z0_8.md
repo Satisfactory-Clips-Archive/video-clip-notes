@@ -9,7 +9,7 @@ topics:
 # [December 19th, 2019 Livestream](../2019-12-19.md)
 ## Q&A: Is there going to be a central computer plant where you can check the whole production?
 https://www.youtube.com/watch?v=Zlq2K0-z0_8
-This question was possibly duplicated with a more recent answer: [May 17th, 2022 Livestream Q&A: Plan for in-game statistics?](./yt-PFLDVpxGB-U.md) [https://www.youtube.com/watch?v=PFLDVpxGB-U](https://www.youtube.com/watch?v=PFLDVpxGB-U)
+This question was possibly duplicated with a more recent answer: June 28th, 2022 Livestream Q&A: Would you ever add any kind of sign that displays logistics? [https://www.youtube.com/watch?v=WNIyopr1vZs](https://www.youtube.com/watch?v=WNIyopr1vZs)
 
 
 ### Topics
