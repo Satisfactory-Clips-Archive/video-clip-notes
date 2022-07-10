@@ -7,7 +7,7 @@ topics:
 ---
 # [July 8th, 2022 Video](../2022-07-08.md)
 ## Snutt Talk: Snuttcation
-https://youtube.com/embed/yr5pOsZC_mA?autoplay=1&start=244&end=265
+https://youtube.com/clip/UgkxuYtw8QnZNZLU8XQmmiDRwPzXlL5osCz9
 
 ### Topics
 * [Coffee Stainers > Snutt](../topics/coffee-stainers/snutt.md)

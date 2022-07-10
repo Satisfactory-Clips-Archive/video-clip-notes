@@ -8,7 +8,7 @@ topics:
 ---
 # [July 8th, 2022 Video](../2022-07-08.md)
 ## Snutt Talk: Approaching vacation period in Sweden
-https://youtube.com/embed/yr5pOsZC_mA?autoplay=1&start=1&end=26
+https://youtube.com/clip/UgkxtgUofWmg7weG6HSsAy3bYYWdf-0Z826l
 
 ### Topics
 * [Embracer Group > Coffee Stain Holding > Coffee Stain Studios](../topics/embracer-group/coffee-stain-holding/coffee-stain-studios.md)

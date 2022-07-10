@@ -8,7 +8,7 @@ topics:
 ---
 # [July 8th, 2022 Video](../2022-07-08.md)
 ## Snutt Talk: Coffee Stainers going on vacation
-https://youtube.com/embed/yr5pOsZC_mA?autoplay=1&start=84&end=125
+https://youtube.com/clip/UgkxGPk-rPl3f9fA_Ovn_Uz65m9amxFpEVaV
 
 ### Topics
 * [Coffee Stainers](../topics/coffee-stainers.md)

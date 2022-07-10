@@ -8,7 +8,7 @@ topics:
 ---
 # [July 8th, 2022 Video](../2022-07-08.md)
 ## Snutt Talk: Update 6 is available on Experimental
-https://youtube.com/embed/yr5pOsZC_mA?autoplay=1&start=25&end=44
+https://youtube.com/clip/Ugkxoevgt8RQkcxHmzXE7bJfOQKWp674jFM2
 
 ### Topics
 * [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)

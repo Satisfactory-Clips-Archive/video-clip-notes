@@ -6,9 +6,9 @@ date: Last Modified
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Pending](../../../topics/satisfactory-updates/pending.md) > Satisfactory Update 6
 
 ## July 8th, 2022 Video
-* [Snutt Talk: Update 6 is available on Experimental](../../../transcriptions/yt-yr5pOsZC_mA,25.8258,43.91975321691177.md) [https://youtube.com/embed/yr5pOsZC_mA?autoplay=1&start=25&end=44](https://youtube.com/embed/yr5pOsZC_mA?autoplay=1&start=25&end=44)
-* [Snutt Talk: Crashes & bugfixes](../../../transcriptions/yt-yr5pOsZC_mA,43.91975321691177,84.93221534926472.md) [https://youtube.com/embed/yr5pOsZC_mA?autoplay=1&start=43&end=85](https://youtube.com/embed/yr5pOsZC_mA?autoplay=1&start=43&end=85)
-* [Q&A: Why did you guys release Update 6 before you went on vacation?](../../../transcriptions/yt-yr5pOsZC_mA,125.0249,160.32683333333333.md) [https://youtube.com/embed/yr5pOsZC_mA?autoplay=1&start=125&end=161](https://youtube.com/embed/yr5pOsZC_mA?autoplay=1&start=125&end=161)
+* [Snutt Talk: Update 6 is available on Experimental](../../../transcriptions/yt-yr5pOsZC_mA,25.8258,43.91975321691177.md) [https://youtube.com/clip/Ugkxoevgt8RQkcxHmzXE7bJfOQKWp674jFM2](https://youtube.com/clip/Ugkxoevgt8RQkcxHmzXE7bJfOQKWp674jFM2)
+* [Snutt Talk: Crashes & bugfixes](../../../transcriptions/yt-yr5pOsZC_mA,43.91975321691177,84.93221534926472.md) [https://youtube.com/clip/Ugkx1o0dfVfyGT5qGbAQSu12SPpPP_NpWZJK](https://youtube.com/clip/Ugkx1o0dfVfyGT5qGbAQSu12SPpPP_NpWZJK)
+* [Q&A: Why did you guys release Update 6 before you went on vacation?](../../../transcriptions/yt-yr5pOsZC_mA,125.0249,160.32683333333333.md) [https://youtube.com/clip/UgkxNULjckfpguYp0jB07pbjNoqSxU9X7203](https://youtube.com/clip/UgkxNULjckfpguYp0jB07pbjNoqSxU9X7203)
 * [Snutt Talk: Dedicated Servers](../../../transcriptions/yt-yr5pOsZC_mA,160.3602,244.67776666666668.md) [https://youtube.com/embed/yr5pOsZC_mA?autoplay=1&start=160&end=245](https://youtube.com/embed/yr5pOsZC_mA?autoplay=1&start=160&end=245)
 
 ## July 5th, 2022 Livestream

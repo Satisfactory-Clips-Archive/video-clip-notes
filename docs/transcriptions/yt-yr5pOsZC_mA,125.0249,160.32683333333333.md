@@ -8,7 +8,7 @@ topics:
 ---
 # [July 8th, 2022 Video](../2022-07-08.md)
 ## Q&A: Why did you guys release Update 6 before you went on vacation?
-https://youtube.com/embed/yr5pOsZC_mA?autoplay=1&start=125&end=161
+https://youtube.com/clip/UgkxNULjckfpguYp0jB07pbjNoqSxU9X7203
 
 ### Topics
 * [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)

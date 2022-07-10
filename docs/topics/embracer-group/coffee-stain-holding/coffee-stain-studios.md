@@ -6,8 +6,8 @@ date: Last Modified
 # [Topics](../../../topics.md) > [Embracer Group](../../../topics/embracer-group.md) > Coffee Stain Holding > Coffee Stain Studios
 
 ## July 8th, 2022 Video
-* [Snutt Talk: Approaching vacation period in Sweden](../../../transcriptions/yt-yr5pOsZC_mA,1.9019,25.792433333333335.md) [https://youtube.com/embed/yr5pOsZC_mA?autoplay=1&start=1&end=26](https://youtube.com/embed/yr5pOsZC_mA?autoplay=1&start=1&end=26)
-* [Snutt Talk: Coffee Stainers going on vacation](../../../transcriptions/yt-yr5pOsZC_mA,84.93221534926472,124.99153333333334.md) [https://youtube.com/embed/yr5pOsZC_mA?autoplay=1&start=84&end=125](https://youtube.com/embed/yr5pOsZC_mA?autoplay=1&start=84&end=125)
+* [Snutt Talk: Approaching vacation period in Sweden](../../../transcriptions/yt-yr5pOsZC_mA,1.9019,25.792433333333335.md) [https://youtube.com/clip/UgkxtgUofWmg7weG6HSsAy3bYYWdf-0Z826l](https://youtube.com/clip/UgkxtgUofWmg7weG6HSsAy3bYYWdf-0Z826l)
+* [Snutt Talk: Coffee Stainers going on vacation](../../../transcriptions/yt-yr5pOsZC_mA,84.93221534926472,124.99153333333334.md) [https://youtube.com/clip/UgkxGPk-rPl3f9fA_Ovn_Uz65m9amxFpEVaV](https://youtube.com/clip/UgkxGPk-rPl3f9fA_Ovn_Uz65m9amxFpEVaV)
 
 ## July 5th, 2022 Livestream
 * State of Dev [https://www.youtube.com/watch?v=LgKRbZadhyM](https://www.youtube.com/watch?v=LgKRbZadhyM)

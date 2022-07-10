@@ -9,7 +9,7 @@ date: Last Modified
 * [Snutty Mays](../../topics/coffee-stainers/snutt/snutty-mays.md)
 
 ## July 8th, 2022 Video
-* [Snutt Talk: Snuttcation](../../transcriptions/yt-yr5pOsZC_mA,244.71113333333335,264.59766666666667.md) [https://youtube.com/embed/yr5pOsZC_mA?autoplay=1&start=244&end=265](https://youtube.com/embed/yr5pOsZC_mA?autoplay=1&start=244&end=265)
+* [Snutt Talk: Snuttcation](../../transcriptions/yt-yr5pOsZC_mA,244.71113333333335,264.59766666666667.md) [https://youtube.com/clip/UgkxuYtw8QnZNZLU8XQmmiDRwPzXlL5osCz9](https://youtube.com/clip/UgkxuYtw8QnZNZLU8XQmmiDRwPzXlL5osCz9)
 
 ## July 5th, 2022 Livestream
 * Q&A: Video this week? [https://www.youtube.com/watch?v=JETjhGKrVmw](https://www.youtube.com/watch?v=JETjhGKrVmw)

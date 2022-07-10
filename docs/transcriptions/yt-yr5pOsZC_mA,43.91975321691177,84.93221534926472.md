@@ -8,7 +8,7 @@ topics:
 ---
 # [July 8th, 2022 Video](../2022-07-08.md)
 ## Snutt Talk: Crashes & bugfixes
-https://youtube.com/embed/yr5pOsZC_mA?autoplay=1&start=43&end=85
+https://youtube.com/clip/Ugkx1o0dfVfyGT5qGbAQSu12SPpPP_NpWZJK
 
 ### Topics
 * [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
