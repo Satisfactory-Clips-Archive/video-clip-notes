@@ -10,7 +10,7 @@ topics:
 # [March 29th, 2022 Livestream](../2022-03-29.md)
 ## Q&A: Will there be any improved controller support to make it easier?
 https://www.youtube.com/watch?v=3-nNqXQHZs4
-This question was possibly duplicated with a more recent answer: [May 3rd, 2022 Livestream Q&A: Controller support news?](./yt-S-jHgE-Tv2U.md) [https://www.youtube.com/watch?v=S-jHgE-Tv2U](https://www.youtube.com/watch?v=S-jHgE-Tv2U)
+This question was possibly duplicated with a more recent answer: [July 5th, 2022 Livestream Q&A: Full controller support?](./yt-CRt32esDsG8.md) [https://www.youtube.com/watch?v=CRt32esDsG8](https://www.youtube.com/watch?v=CRt32esDsG8)
 
 
 ### Topics

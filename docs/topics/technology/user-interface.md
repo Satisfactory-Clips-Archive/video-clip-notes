@@ -9,6 +9,12 @@ date: Last Modified
 * [Ping](../../topics/technology/user-interface/ping.md)
 * [Stamps](../../topics/technology/user-interface/stamps.md)
 
+## July 5th, 2022 Livestream
+* [Q&A: Planning production in the game?](../../transcriptions/yt-uaMBc6ULZ5c.md) [https://www.youtube.com/watch?v=uaMBc6ULZ5c](https://www.youtube.com/watch?v=uaMBc6ULZ5c)
+* Q&A: Any chance to copy & paste whole Buildings? [https://www.youtube.com/watch?v=sa23ydDZPzs](https://www.youtube.com/watch?v=sa23ydDZPzs)
+* [Q&A: Is there going to be factory monitoring?](../../transcriptions/yt-oU_GulSX3Zw.md) [https://www.youtube.com/watch?v=oU_GulSX3Zw](https://www.youtube.com/watch?v=oU_GulSX3Zw)
+* [Q&A: Will Turbofuel be usable for JetPacks?](../../transcriptions/yt-jQqOPZuB6Qk.md) [https://www.youtube.com/watch?v=jQqOPZuB6Qk](https://www.youtube.com/watch?v=jQqOPZuB6Qk)
+
 ## June 28th, 2022 Livestream
 * Q&A: Any chance for mass-select like delete, but for "paste" ? [https://www.youtube.com/watch?v=3YYzfEhbFGs](https://www.youtube.com/watch?v=3YYzfEhbFGs)
 

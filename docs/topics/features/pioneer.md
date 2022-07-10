@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Features](../../topics/features.md) > Pioneer
 
+## July 5th, 2022 Livestream
+* [Q&A: How do you think the Satisfactory trilogy will end?](../../transcriptions/yt--mQ7p9GwJ7k.md) [https://www.youtube.com/watch?v=-mQ7p9GwJ7k](https://www.youtube.com/watch?v=-mQ7p9GwJ7k)
+* [Q&A: How is the Pioneer eating fruits through the helmet?](../../transcriptions/yt-A8wIU88NUnc.md) [https://www.youtube.com/watch?v=A8wIU88NUnc](https://www.youtube.com/watch?v=A8wIU88NUnc)
+* [Q&A: Will there ever be a sleep option?](../../transcriptions/yt-I-wckc7yt1M.md) [https://www.youtube.com/watch?v=I-wckc7yt1M](https://www.youtube.com/watch?v=I-wckc7yt1M)
+
 ## June 14th, 2022 Livestream
 * [Mark & Snutt Talk: New VFX for the Pulse Nobelisk & health recovery](../../transcriptions/yt-Z6bo0pjYghk,5869.254179,5926.311953.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=5869&end=5927](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=5869&end=5927)
 * [Etienne & Snutt Talk: First-person-view improvements](../../transcriptions/yt-Z6bo0pjYghk,7589.446724349895,7642.892665033142.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=7589&end=7643](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=7589&end=7643)

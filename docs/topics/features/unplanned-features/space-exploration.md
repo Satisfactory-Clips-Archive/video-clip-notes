@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Unplanned Features](../../../topics/features/unplanned-features.md) > Space Exploration
 
+## July 5th, 2022 Livestream
+* [Q&A: Will Modders be able to add new planets / Maps?](../../../transcriptions/yt-82NtL0BMKMM.md) [https://www.youtube.com/watch?v=82NtL0BMKMM](https://www.youtube.com/watch?v=82NtL0BMKMM)
+
 ## April 12th, 2022 Livestream
 * [Q&A: Any plans on making it possible to visit other planets?](../../../transcriptions/yt-mDXCeb2_tUc.md) [https://www.youtube.com/watch?v=mDXCeb2_tUc](https://www.youtube.com/watch?v=mDXCeb2_tUc)
 

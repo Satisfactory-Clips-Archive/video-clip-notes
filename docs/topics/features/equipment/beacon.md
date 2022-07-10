@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Equipment](../../../topics/features/equipment.md) > Beacon
 
+## July 5th, 2022 Livestream
+* [Q&A: Will the alt Nuclear Fuel be part of the next Update?](../../../transcriptions/yt-MrPbasBXKEQ.md) [https://www.youtube.com/watch?v=MrPbasBXKEQ](https://www.youtube.com/watch?v=MrPbasBXKEQ)
+
 ## June 7th, 2022 Livestream
 * [Q&A: Will we get a refund on the Alt Beacon Recipe?](../../../transcriptions/yt-ZOsTTxM30ao.md) [https://www.youtube.com/watch?v=ZOsTTxM30ao](https://www.youtube.com/watch?v=ZOsTTxM30ao)
 

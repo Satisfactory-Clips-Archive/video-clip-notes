@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../topics.md) > [Mods](../../topics/mods.md) > Official Mod Support
 * [Steam Workshop](../../topics/mods/official-mod-support/steam-workshop.md)
 
+## July 5th, 2022 Livestream
+* Q&A: Mods, when? [https://www.youtube.com/watch?v=LdeQbv8jMos](https://www.youtube.com/watch?v=LdeQbv8jMos)
+
 ## June 7th, 2022 Livestream
 * [Q&A: Is there any work ongoing with Mods for Dedicated Servers?](../../transcriptions/yt-rSNJPtn2N6k.md) [https://www.youtube.com/watch?v=rSNJPtn2N6k](https://www.youtube.com/watch?v=rSNJPtn2N6k)
 

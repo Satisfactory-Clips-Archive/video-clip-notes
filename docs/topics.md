@@ -534,6 +534,7 @@ date: Last Modified
 * [Satisfactory Update 8](./topics/satisfactory-updates/speculative/satisfactory-update-8.md)
 * [Satisfactory Update 9](./topics/satisfactory-updates/speculative/satisfactory-update-9.md)
 * [Satisfactory 2.0](./topics/satisfactory-updates/speculative/satisfactory-2-0.md)
+* [Satisfactory 3.0](./topics/satisfactory-updates/speculative/satisfactory-3-0.md)
 ---
 * [Soundtrack](./topics/soundtrack.md)
 * [Special Guests](./topics/special-guests.md)

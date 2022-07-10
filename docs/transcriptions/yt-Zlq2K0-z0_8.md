@@ -9,7 +9,7 @@ topics:
 # [December 19th, 2019 Livestream](../2019-12-19.md)
 ## Q&A: Is there going to be a central computer plant where you can check the whole production?
 https://www.youtube.com/watch?v=Zlq2K0-z0_8
-This question was possibly duplicated with a more recent answer: June 28th, 2022 Livestream Q&A: Would you ever add any kind of sign that displays logistics? [https://www.youtube.com/watch?v=WNIyopr1vZs](https://www.youtube.com/watch?v=WNIyopr1vZs)
+This question was possibly duplicated with a more recent answer: [July 5th, 2022 Livestream Q&A: Is there going to be factory monitoring?](./yt-oU_GulSX3Zw.md) [https://www.youtube.com/watch?v=oU_GulSX3Zw](https://www.youtube.com/watch?v=oU_GulSX3Zw)
 
 
 ### Topics

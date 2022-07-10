@@ -9,7 +9,7 @@ topics:
 # [February 6th, 2019 Livestream](../2019-02-06.md)
 ## Q&A: Will there be VR support?
 https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2442&end=2535
-This question was possibly duplicated with a more recent answer: [June 28th, 2022 Livestream Q&A: VR?](./yt-H3IW4U9gg-g.md) [https://www.youtube.com/watch?v=H3IW4U9gg-g](https://www.youtube.com/watch?v=H3IW4U9gg-g)
+This question was possibly duplicated with a more recent answer: [July 5th, 2022 Livestream Q&A: Can the game support VR later?](./yt-A7toMdMe1sc.md) [https://www.youtube.com/watch?v=A7toMdMe1sc](https://www.youtube.com/watch?v=A7toMdMe1sc)
 
 
 ### Topics

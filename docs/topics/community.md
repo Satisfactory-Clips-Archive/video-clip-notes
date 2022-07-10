@@ -25,6 +25,12 @@ date: Last Modified
 * [Vilsol](../topics/community/vilsol.md)
 * [Wiki](../topics/community/wiki.md)
 
+## July 5th, 2022 Livestream
+* [Snutt & Jace Talk: Early stream intro](../transcriptions/yt-22cjWQeYNnE.md) [https://www.youtube.com/watch?v=22cjWQeYNnE](https://www.youtube.com/watch?v=22cjWQeYNnE)
+* [Q&A: Did you watch the SGDQ run?](../transcriptions/yt-Pc7jT_6U-ng.md) [https://www.youtube.com/watch?v=Pc7jT_6U-ng](https://www.youtube.com/watch?v=Pc7jT_6U-ng)
+* [Q&A: After playing for 71 hours, am I doing it wrong?](../transcriptions/yt-eVg6JSTLbLE.md) [https://www.youtube.com/watch?v=eVg6JSTLbLE](https://www.youtube.com/watch?v=eVg6JSTLbLE)
+* [Q&A: Is this the Spaghetti Anonymous?](../transcriptions/yt-P2Q8dZRSTsU.md) [https://www.youtube.com/watch?v=P2Q8dZRSTsU](https://www.youtube.com/watch?v=P2Q8dZRSTsU)
+
 ## June 28th, 2022 Livestream
 * State of Dev [https://www.youtube.com/watch?v=VbnBqMSEsGk](https://www.youtube.com/watch?v=VbnBqMSEsGk)
 

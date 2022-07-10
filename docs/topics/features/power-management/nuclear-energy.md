@@ -7,6 +7,9 @@ date: Last Modified
 * [Nuclear Refinement](../../../topics/features/power-management/nuclear-energy/nuclear-refinement.md)
 * [Nuclear Waste](../../../topics/features/power-management/nuclear-energy/nuclear-waste.md)
 
+## July 5th, 2022 Livestream
+* [Q&A: Experimental Nuclear Waste Water bug fix?](../../../transcriptions/yt-blWlTrXLMt0.md) [https://www.youtube.com/watch?v=blWlTrXLMt0](https://www.youtube.com/watch?v=blWlTrXLMt0)
+
 ## May 24th, 2022 Livestream
 * [Q&A: Is it safe to make an Alt Recipe Nuclear factory?](../../../transcriptions/yt-Mi7GvyXRA3g.md) [https://www.youtube.com/watch?v=Mi7GvyXRA3g](https://www.youtube.com/watch?v=Mi7GvyXRA3g)
 

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Build Modes](../../../topics/features/build-modes.md) > Zooping
 
+## July 5th, 2022 Livestream
+* [Q&A: Any plans for Zoopable straight Train Tracks?](../../../transcriptions/yt-Zcp6cK14ixA.md) [https://www.youtube.com/watch?v=Zcp6cK14ixA](https://www.youtube.com/watch?v=Zcp6cK14ixA)
+
 ## June 28th, 2022 Livestream
 * [Q&A: Zooping basic machines?](../../../transcriptions/yt-Q-_HepXBjXY.md) [https://www.youtube.com/watch?v=Q-_HepXBjXY](https://www.youtube.com/watch?v=Q-_HepXBjXY)
 

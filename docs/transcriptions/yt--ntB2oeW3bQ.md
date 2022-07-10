@@ -10,6 +10,8 @@ topics:
 # [May 10th, 2022 Livestream](../2022-05-10.md)
 ## Q&A: Will the blocked cave entrances in the Dune Desert be updated for Update 6?
 https://www.youtube.com/watch?v=-ntB2oeW3bQ
+This question was possibly duplicated with a more recent answer: [July 5th, 2022 Livestream Q&A: Why are some of the underground entrances blocked off?](./yt-qOn-_AVjbTw.md) [https://www.youtube.com/watch?v=qOn-_AVjbTw](https://www.youtube.com/watch?v=qOn-_AVjbTw)
+
 
 ### Topics
 * [Environment > Biomes > Dune Desert](../topics/environment/biomes/dune-desert.md)

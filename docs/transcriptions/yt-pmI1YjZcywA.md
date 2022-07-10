@@ -9,7 +9,7 @@ topics:
 # [March 1st, 2022 Livestream](../2022-03-01.md)
 ## Q&A: Your thoughts on logic implementation in the game?
 https://www.youtube.com/watch?v=pmI1YjZcywA
-This question was possibly duplicated with a more recent answer: [June 28th, 2022 Livestream Q&A: Your thoughts on circuits?](./yt-gpaZIfFir-Q.md) [https://www.youtube.com/watch?v=gpaZIfFir-Q](https://www.youtube.com/watch?v=gpaZIfFir-Q)
+This question was possibly duplicated with a more recent answer: [July 5th, 2022 Livestream Q&A: Will there ever be a logic system?](./yt-dl2buXhcHcM.md) [https://www.youtube.com/watch?v=dl2buXhcHcM](https://www.youtube.com/watch?v=dl2buXhcHcM)
 
 
 ### Topics

@@ -8,6 +8,8 @@ topics:
 # [January 18th, 2022 Livestream](../2022-01-18.md)
 ## Q&A: Have the team been looking at an in-game planning tab?
 https://www.youtube.com/watch?v=W02gtUdK6bI
+This question was possibly duplicated with a more recent answer: [July 5th, 2022 Livestream Q&A: Planning production in the game?](./yt-uaMBc6ULZ5c.md) [https://www.youtube.com/watch?v=uaMBc6ULZ5c](https://www.youtube.com/watch?v=uaMBc6ULZ5c)
+
 
 ### Topics
 * [Features > Requested Features](../topics/features/requested-features.md)

@@ -8,7 +8,7 @@ topics:
 # [May 15th, 2020 Q&A](../2020-05-15.md)
 ## Q&A: Any 3rd person toggle planned?
 https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=957&end=988
-This question was possibly duplicated with a more recent answer: December 7th, 2021 Livestream Q&A: Will there be third-person view? [https://www.youtube.com/watch?v=0CcI5NNow5E](https://www.youtube.com/watch?v=0CcI5NNow5E)
+This question was possibly duplicated with a more recent answer: July 5th, 2022 Livestream Q&A: What about Third-person View? [https://www.youtube.com/watch?v=--17oeeyyOI](https://www.youtube.com/watch?v=--17oeeyyOI)
 
 
 ### Topics

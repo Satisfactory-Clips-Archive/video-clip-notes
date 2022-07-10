@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > AWESOME Sink
 
+## July 5th, 2022 Livestream
+* [Q&A: Fluid Sink, when?](../../../transcriptions/yt-59nyJkLeYZA.md) [https://www.youtube.com/watch?v=59nyJkLeYZA](https://www.youtube.com/watch?v=59nyJkLeYZA)
+
 ## April 21st, 2022 Satisfactory x Portal Bonus Stream
 * [Jace Talk: Mods were used to create the map, but they are not required to play](../../../transcriptions/yt-_fgRWqVhzHc.md) [https://www.youtube.com/watch?v=_fgRWqVhzHc](https://www.youtube.com/watch?v=_fgRWqVhzHc)
 

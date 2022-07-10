@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Speculative > Satisfactory 2.0
 
+## July 5th, 2022 Livestream
+* Q&A: Any plans for a sequel? [https://www.youtube.com/watch?v=N_PROqMFWaY](https://www.youtube.com/watch?v=N_PROqMFWaY)
+* [Q&A: How do you think the Satisfactory trilogy will end?](../../../transcriptions/yt--mQ7p9GwJ7k.md) [https://www.youtube.com/watch?v=-mQ7p9GwJ7k](https://www.youtube.com/watch?v=-mQ7p9GwJ7k)
+
 ## September 7th, 2021 Livestream
 * [Q&A: Unreal Engine 5 upgrade for 2.0?](../../../transcriptions/yt-qL0kXIhe6nw.md) [https://www.youtube.com/watch?v=qL0kXIhe6nw](https://www.youtube.com/watch?v=qL0kXIhe6nw)
 

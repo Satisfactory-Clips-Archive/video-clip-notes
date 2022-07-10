@@ -5,6 +5,12 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > [Crafting](../../../../topics/features/crafting.md) > [Recipes](../../../../topics/features/crafting/recipes.md) > Alternate Recipes
 
+## July 5th, 2022 Livestream
+* [Q&A: Will the alt Nuclear Fuel be part of the next Update?](../../../../transcriptions/yt-MrPbasBXKEQ.md) [https://www.youtube.com/watch?v=MrPbasBXKEQ](https://www.youtube.com/watch?v=MrPbasBXKEQ)
+* [Q&A: Any plans to automate Biofuel like with Fabric?](../../../../transcriptions/yt-egeMfFZ2lSs.md) [https://www.youtube.com/watch?v=egeMfFZ2lSs](https://www.youtube.com/watch?v=egeMfFZ2lSs)
+* [Q&A: Sulfur is a by-product of Oil products, so maybe an Alternate Recipe?](../../../../transcriptions/yt-QOAfdRa2TUE.md) [https://www.youtube.com/watch?v=QOAfdRa2TUE](https://www.youtube.com/watch?v=QOAfdRa2TUE)
+* [Q&A: Planning production in the game?](../../../../transcriptions/yt-uaMBc6ULZ5c.md) [https://www.youtube.com/watch?v=uaMBc6ULZ5c](https://www.youtube.com/watch?v=uaMBc6ULZ5c)
+
 ## June 10th, 2022 Video
 * [Alt Recipes moved to the M.A.M.](../../../../transcriptions/yt-4pGTnG6Cy5E,433.96686666666665,478.64483333333334.md) [https://youtube.com/clip/UgkxHMhL5ek5KJKltJpqy_WVLb2OtH9ZtpmM](https://youtube.com/clip/UgkxHMhL5ek5KJKltJpqy_WVLb2OtH9ZtpmM)
 

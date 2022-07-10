@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Biomes](../../../topics/environment/biomes.md) > Spire Coast
 
+## July 5th, 2022 Livestream
+* Snutt & Jace Talk: Resources in Spire Coast [https://www.youtube.com/watch?v=G14AvMQYcNk](https://www.youtube.com/watch?v=G14AvMQYcNk)
+* [Q&A: Will Drone terrain avoidance be fixed in Update 6?](../../../transcriptions/yt-wl76rNQbCAw.md) [https://www.youtube.com/watch?v=wl76rNQbCAw](https://www.youtube.com/watch?v=wl76rNQbCAw)
+
 ## June 28th, 2022 Livestream
 * [Q&A: When new nodes in Spire Coast?](../../../transcriptions/yt-Y2bdYFAupfc.md) [https://www.youtube.com/watch?v=Y2bdYFAupfc](https://www.youtube.com/watch?v=Y2bdYFAupfc)
 * [Q&A: Any Red Jungle changes similar to Spire Coast or Swamp?](../../../transcriptions/yt-l9SkudmkyLQ.md) [https://www.youtube.com/watch?v=l9SkudmkyLQ](https://www.youtube.com/watch?v=l9SkudmkyLQ)

@@ -9,7 +9,7 @@ topics:
 # [November 9th, 2021 Livestream](../2021-11-09.md)
 ## Q&A: Any plans to implement an in-game statistics panel?
 https://www.youtube.com/watch?v=-FK6cMdhe18
-This question was possibly duplicated with a more recent answer: June 28th, 2022 Livestream Q&A: Would you ever add any kind of sign that displays logistics? [https://www.youtube.com/watch?v=WNIyopr1vZs](https://www.youtube.com/watch?v=WNIyopr1vZs)
+This question was possibly duplicated with a more recent answer: [July 5th, 2022 Livestream Q&A: Is there going to be factory monitoring?](./yt-oU_GulSX3Zw.md) [https://www.youtube.com/watch?v=oU_GulSX3Zw](https://www.youtube.com/watch?v=oU_GulSX3Zw)
 
 
 ### Topics

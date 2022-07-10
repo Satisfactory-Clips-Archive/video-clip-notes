@@ -9,7 +9,7 @@ topics:
 # [June 8th, 2021 Livestream](../2021-06-08.md)
 ## Q&A: How about an Elevator big enough for Vehicles?
 https://www.youtube.com/watch?v=VI3dLtemVvg
-This question was possibly duplicated with a more recent answer: [February 15th, 2022 Livestream Q&A: Elevators?](./yt-m-7bmrKMk5c.md) [https://www.youtube.com/watch?v=m-7bmrKMk5c](https://www.youtube.com/watch?v=m-7bmrKMk5c)
+This question was possibly duplicated with a more recent answer: [July 5th, 2022 Livestream Q&A: Lifts for my factory?](./yt-k3lN97uKPgw.md) [https://www.youtube.com/watch?v=k3lN97uKPgw](https://www.youtube.com/watch?v=k3lN97uKPgw)
 
 
 ### Topics

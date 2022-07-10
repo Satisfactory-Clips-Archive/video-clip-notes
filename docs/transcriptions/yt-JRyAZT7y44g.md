@@ -9,7 +9,7 @@ topics:
 # [February 11th, 2020 Livestream](../2020-02-11.md)
 ## Q&A: Where's Mod support?
 https://www.youtube.com/watch?v=JRyAZT7y44g
-This question was possibly duplicated with a more recent answer: [July 16th, 2021 Video Q&A: Does Satisfactory have Official Mod Support?](./yt-Z2WggHmVHGI,39.1391,95.22846666666666.md) [https://youtube.com/clip/UgylC5F8-3qS5liSCLp4AaABCQ](https://youtube.com/clip/UgylC5F8-3qS5liSCLp4AaABCQ)
+This question was possibly duplicated with a more recent answer: July 5th, 2022 Livestream Q&A: Mods, when? [https://www.youtube.com/watch?v=LdeQbv8jMos](https://www.youtube.com/watch?v=LdeQbv8jMos)
 
 
 ### Topics

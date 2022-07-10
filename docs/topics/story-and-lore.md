@@ -7,6 +7,11 @@ date: Last Modified
 * [Characters](../topics/story-and-lore/characters.md)
 * [Project Assembly](../topics/story-and-lore/project-assembly.md)
 
+## July 5th, 2022 Livestream
+* [Q&A: How do you think the Satisfactory trilogy will end?](../transcriptions/yt--mQ7p9GwJ7k.md) [https://www.youtube.com/watch?v=-mQ7p9GwJ7k](https://www.youtube.com/watch?v=-mQ7p9GwJ7k)
+* [Q&A: Who came up with the planet's system name?](../transcriptions/yt-wgP5uc1_ccQ.md) [https://www.youtube.com/watch?v=wgP5uc1_ccQ](https://www.youtube.com/watch?v=wgP5uc1_ccQ)
+* [Q&A: How is the Pioneer eating fruits through the helmet?](../transcriptions/yt-A8wIU88NUnc.md) [https://www.youtube.com/watch?v=A8wIU88NUnc](https://www.youtube.com/watch?v=A8wIU88NUnc)
+
 ## May 17th, 2022 Livestream
 * [Q&A: Can we get a video of how the Pioneer is made?](../transcriptions/yt-1Ex8swSlNP4.md) [https://www.youtube.com/watch?v=1Ex8swSlNP4](https://www.youtube.com/watch?v=1Ex8swSlNP4)
 

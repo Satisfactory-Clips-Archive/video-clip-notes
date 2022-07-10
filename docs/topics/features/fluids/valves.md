@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Fluids](../../../topics/features/fluids.md) > Valves
 
+## July 5th, 2022 Livestream
+* [Q&A: Will we get something to prevent backflow in Pipes?](../../../transcriptions/yt-pe-GUDhaxOY.md) [https://www.youtube.com/watch?v=pe-GUDhaxOY](https://www.youtube.com/watch?v=pe-GUDhaxOY)
+
 ## June 8th, 2021 Livestream
 * [Q&A: Do Pipe Pumps act as true valves or do they allow overflow through the other direction?](../../../transcriptions/yt-ug4BT_w5v_k.md) [https://www.youtube.com/watch?v=ug4BT_w5v_k](https://www.youtube.com/watch?v=ug4BT_w5v_k)
 

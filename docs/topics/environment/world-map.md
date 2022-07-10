@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Environment](../../topics/environment.md) > World Map
 
+## July 5th, 2022 Livestream
+* [Q&A: Will Modders be able to add new planets / Maps?](../../transcriptions/yt-82NtL0BMKMM.md) [https://www.youtube.com/watch?v=82NtL0BMKMM](https://www.youtube.com/watch?v=82NtL0BMKMM)
+
 ## June 14th, 2022 Livestream
 * [Tobias, Etienne, & Snutt Talk: Map changes](../../transcriptions/yt-Z6bo0pjYghk,6289.66688,6373.193114.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=6289&end=6374](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=6289&end=6374)
 

@@ -10,6 +10,9 @@ date: Last Modified
 * [Juice Velvet](../../topics/coffee-stainers/jace/juice-velvet.md)
 * [Robo Jace](../../topics/coffee-stainers/jace/robo-jace.md)
 
+## July 5th, 2022 Livestream
+* [Snutt & Jace Talk: Early stream intro](../../transcriptions/yt-22cjWQeYNnE.md) [https://www.youtube.com/watch?v=22cjWQeYNnE](https://www.youtube.com/watch?v=22cjWQeYNnE)
+
 ## June 28th, 2022 Livestream
 * [Snutt & Jace Talk: Midsummer & Swedish Idioms](../../transcriptions/yt-xpEOoN4dkj8.md) [https://www.youtube.com/watch?v=xpEOoN4dkj8](https://www.youtube.com/watch?v=xpEOoN4dkj8)
 * [Q&A: Do you support LGBTQ](../../transcriptions/yt-uthMCAWDLDw.md) [https://www.youtube.com/watch?v=uthMCAWDLDw](https://www.youtube.com/watch?v=uthMCAWDLDw)

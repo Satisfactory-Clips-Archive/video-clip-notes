@@ -7,6 +7,9 @@ date: Last Modified
 * [Autosave](../../topics/features/save-system/autosave.md)
 * [Cloud Sync](../../topics/features/save-system/cloud-sync.md)
 
+## July 5th, 2022 Livestream
+* [Q&A: Will we need to play from the start when 1.0 hits?](../../transcriptions/yt-_mN45-Fc7G0.md) [https://www.youtube.com/watch?v=_mN45-Fc7G0](https://www.youtube.com/watch?v=_mN45-Fc7G0)
+
 ## June 28th, 2022 Livestream
 * [Q&A: Will Experimental Update 6 save work when Update 6 comes to EA?](../../transcriptions/yt-F-Q47hXTGMc.md) [https://www.youtube.com/watch?v=F-Q47hXTGMc](https://www.youtube.com/watch?v=F-Q47hXTGMc)
 

@@ -9,6 +9,8 @@ topics:
 # [March 22nd, 2022 Livestream](../2022-03-22.md)
 ## Q&A: Is there going to be a copy & paste function?
 https://www.youtube.com/watch?v=eObleNCQCp4
+This question was possibly duplicated with a more recent answer: July 5th, 2022 Livestream Q&A: Any chance to copy & paste whole Buildings? [https://www.youtube.com/watch?v=sa23ydDZPzs](https://www.youtube.com/watch?v=sa23ydDZPzs)
+
 
 ### Topics
 * [Features > Buildings](../topics/features/buildings.md)

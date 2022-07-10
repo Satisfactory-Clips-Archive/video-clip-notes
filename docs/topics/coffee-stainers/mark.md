@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Mark
 
+## July 5th, 2022 Livestream
+* [Q&A: How do you balance the nodes?](../../transcriptions/yt-vElxVdftU4Y.md) [https://www.youtube.com/watch?v=vElxVdftU4Y](https://www.youtube.com/watch?v=vElxVdftU4Y)
+
 ## June 14th, 2022 Livestream
 * [Intro](../../transcriptions/yt-Z6bo0pjYghk,3897.05,3948.074682.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=3897&end=3949](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=3897&end=3949)
 * [Ben, Dylan, Simon, & Snutt Talk: Mark gets teabagged](../../transcriptions/yt-Z6bo0pjYghk,8774.878131481233,8803.197909.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=8774&end=8804](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=8774&end=8804)

@@ -9,7 +9,7 @@ topics:
 # [October 1st, 2020 Q&A](../2020-10-01.md)
 ## Q&A: Are there any plans beyond 1.0?
 https://youtube.com/embed/rATcozDE25c?autoplay=1&start=86&end=135
-This question was possibly duplicated with a more recent answer: [March 29th, 2022 Livestream Q&A: Will there be Updates after 1.0?](./yt-EjZAdss6k4Q.md) [https://www.youtube.com/watch?v=EjZAdss6k4Q](https://www.youtube.com/watch?v=EjZAdss6k4Q)
+This question was possibly duplicated with a more recent answer: [July 5th, 2022 Livestream Q&A: Will you add stuff after 1.0?](./yt-yqVC6fYnsOQ.md) [https://www.youtube.com/watch?v=yqVC6fYnsOQ](https://www.youtube.com/watch?v=yqVC6fYnsOQ)
 
 
 ### Topics

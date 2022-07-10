@@ -27,6 +27,13 @@ date: Last Modified
 * [The HUB](../../topics/features/buildings/the-hub.md)
 * [Water Extractor](../../topics/features/buildings/water-extractor.md)
 
+## July 5th, 2022 Livestream
+* [Q&A: Any tips on how to increase FPS on large factories?](../../transcriptions/yt-4MxM0N23q-U.md) [https://www.youtube.com/watch?v=4MxM0N23q-U](https://www.youtube.com/watch?v=4MxM0N23q-U)
+* Q&A: Option to filter or limit what items go in a Train Car? [https://www.youtube.com/watch?v=_Bb65dQHTtM](https://www.youtube.com/watch?v=_Bb65dQHTtM)
+* Q&A: Any chance to copy & paste whole Buildings? [https://www.youtube.com/watch?v=sa23ydDZPzs](https://www.youtube.com/watch?v=sa23ydDZPzs)
+* [Q&A: Some Mod adds ability to use holograms to plan layout, any chance of adding that?](../../transcriptions/yt-rP7YheyIQ3g.md) [https://www.youtube.com/watch?v=rP7YheyIQ3g](https://www.youtube.com/watch?v=rP7YheyIQ3g)
+* [Q&A: Is there going to be factory monitoring?](../../transcriptions/yt-oU_GulSX3Zw.md) [https://www.youtube.com/watch?v=oU_GulSX3Zw](https://www.youtube.com/watch?v=oU_GulSX3Zw)
+
 ## June 28th, 2022 Livestream
 * [Q&A: Add a way to configure many Smelters with the same Recipe?](../../transcriptions/yt-1p37rDJJgTo.md) [https://www.youtube.com/watch?v=1p37rDJJgTo](https://www.youtube.com/watch?v=1p37rDJJgTo)
 

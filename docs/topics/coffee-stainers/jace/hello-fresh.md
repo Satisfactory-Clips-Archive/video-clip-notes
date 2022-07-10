@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Coffee Stainers](../../../topics/coffee-stainers.md) > [Jace](../../../topics/coffee-stainers/jace.md) > Jace's HelloFresh Deliveries
 
+## July 5th, 2022 Livestream
+* [Snutt & Jace Talk: Early stream intro](../../../transcriptions/yt-22cjWQeYNnE.md) [https://www.youtube.com/watch?v=22cjWQeYNnE](https://www.youtube.com/watch?v=22cjWQeYNnE)
+
 ## March 15th, 2022 Livestream
 * [Q&A: What's on the menu?](../../../transcriptions/yt-znZLlexQ3qQ.md) [https://www.youtube.com/watch?v=znZLlexQ3qQ](https://www.youtube.com/watch?v=znZLlexQ3qQ)
 

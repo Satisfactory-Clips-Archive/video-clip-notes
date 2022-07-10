@@ -6,6 +6,10 @@ date: Last Modified
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Equipment](../../../topics/features/equipment.md) > Nobelisk
 * [Nobelisk Detonator](../../../topics/features/equipment/nobelisk/detonator.md)
 
+## July 5th, 2022 Livestream
+* [Q&A: Images in the works for the new Nobelisk ammo?](../../../transcriptions/yt-TWc5s3i4CMw.md) [https://www.youtube.com/watch?v=TWc5s3i4CMw](https://www.youtube.com/watch?v=TWc5s3i4CMw)
+* [Q&A: Gas Nobelisk Recipe change?](../../../transcriptions/yt-fQLQ7tDz6Mw.md) [https://www.youtube.com/watch?v=fQLQ7tDz6Mw](https://www.youtube.com/watch?v=fQLQ7tDz6Mw)
+
 ## June 14th, 2022 Livestream
 * [Mark & Snutt Talk: Update 6 M.A.M.](../../../transcriptions/yt-Z6bo0pjYghk,4978.238237,5274.167479.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=4978&end=5275](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=4978&end=5275)
 * [Mark & Snutt Talk: New Ammo types (Part 1)](../../../transcriptions/yt-Z6bo0pjYghk,5429.263761,5482.26162.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=5429&end=5483](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=5429&end=5483)

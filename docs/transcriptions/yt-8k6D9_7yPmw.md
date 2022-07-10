@@ -8,7 +8,7 @@ topics:
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: Do you have an in-house tool for calculating balance of factory outputs and the like?
 https://www.youtube.com/watch?v=8k6D9_7yPmw
-This question was possibly duplicated with a more recent answer: [June 29th, 2021 Livestream Q&A: How do you figure out the Recipes?](./yt-I6mpLei5WZk.md) [https://www.youtube.com/watch?v=I6mpLei5WZk](https://www.youtube.com/watch?v=I6mpLei5WZk)
+This question was possibly duplicated with a more recent answer: [July 5th, 2022 Livestream Q&A: How do you balance the nodes?](./yt-vElxVdftU4Y.md) [https://www.youtube.com/watch?v=vElxVdftU4Y](https://www.youtube.com/watch?v=vElxVdftU4Y)
 
 
 ### Topics

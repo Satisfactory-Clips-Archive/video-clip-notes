@@ -12,6 +12,11 @@ date: Last Modified
 * [Tractor](../../../topics/features/transportation/vehicles/tractor.md)
 * [Truck](../../../topics/features/transportation/vehicles/truck.md)
 
+## July 5th, 2022 Livestream
+* [Q&A: Rechargeable batteries?](../../../transcriptions/yt-3KrBqNWxbJc.md) [https://www.youtube.com/watch?v=3KrBqNWxbJc](https://www.youtube.com/watch?v=3KrBqNWxbJc)
+* [Q&A: A harvester Vehicle?](../../../transcriptions/yt--xHKBN-3tiM.md) [https://www.youtube.com/watch?v=-xHKBN-3tiM](https://www.youtube.com/watch?v=-xHKBN-3tiM)
+* [Q&A: Will we get more Vehicles?](../../../transcriptions/yt-Yo9vigCts18.md) [https://www.youtube.com/watch?v=Yo9vigCts18](https://www.youtube.com/watch?v=Yo9vigCts18)
+
 ## June 28th, 2022 Livestream
 * [Q&A: Any plans to make Vehicles carry more than one player?](../../../transcriptions/yt-zSTXteZon0w.md) [https://www.youtube.com/watch?v=zSTXteZon0w](https://www.youtube.com/watch?v=zSTXteZon0w)
 * [Q&A: Adding Helicopters?](../../../transcriptions/yt-GAUDB7YWGTk.md) [https://www.youtube.com/watch?v=GAUDB7YWGTk](https://www.youtube.com/watch?v=GAUDB7YWGTk)

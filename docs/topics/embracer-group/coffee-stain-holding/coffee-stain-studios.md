@@ -5,6 +5,12 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Embracer Group](../../../topics/embracer-group.md) > Coffee Stain Holding > Coffee Stain Studios
 
+## July 5th, 2022 Livestream
+* State of Dev [https://www.youtube.com/watch?v=LgKRbZadhyM](https://www.youtube.com/watch?v=LgKRbZadhyM)
+* [Q&A: Are you ever planning to host Dedicated Servers at Coffee Stain?](../../../transcriptions/yt-Bd5nVmytOcM.md) [https://www.youtube.com/watch?v=Bd5nVmytOcM](https://www.youtube.com/watch?v=Bd5nVmytOcM)
+* Q&A: Video this week? [https://www.youtube.com/watch?v=JETjhGKrVmw](https://www.youtube.com/watch?v=JETjhGKrVmw)
+* [Q&A: New games in production?](../../../transcriptions/yt-JV7MwWWr4ks.md) [https://www.youtube.com/watch?v=JV7MwWWr4ks](https://www.youtube.com/watch?v=JV7MwWWr4ks)
+
 ## June 28th, 2022 Livestream
 * [Q&A: Do you support LGBTQ](../../../transcriptions/yt-uthMCAWDLDw.md) [https://www.youtube.com/watch?v=uthMCAWDLDw](https://www.youtube.com/watch?v=uthMCAWDLDw)
 

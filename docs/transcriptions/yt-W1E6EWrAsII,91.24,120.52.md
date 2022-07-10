@@ -8,7 +8,7 @@ topics:
 # [June 22nd, 2018 Q&A](../2018-06-22.md)
 ## Q&A: Will there be mods?
 https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=91&end=121
-This question was possibly duplicated with a more recent answer: [July 16th, 2021 Video Q&A: Does Satisfactory have Official Mod Support?](./yt-Z2WggHmVHGI,39.1391,95.22846666666666.md) [https://youtube.com/clip/UgylC5F8-3qS5liSCLp4AaABCQ](https://youtube.com/clip/UgylC5F8-3qS5liSCLp4AaABCQ)
+This question was possibly duplicated with a more recent answer: July 5th, 2022 Livestream Q&A: Mods, when? [https://www.youtube.com/watch?v=LdeQbv8jMos](https://www.youtube.com/watch?v=LdeQbv8jMos)
 
 
 ### Topics

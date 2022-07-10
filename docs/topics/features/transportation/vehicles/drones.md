@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > Transportation > [Vehicles](../../../../topics/features/transportation/vehicles.md) > Drones
 
+## July 5th, 2022 Livestream
+* [Q&A: Will Drone terrain avoidance be fixed in Update 6?](../../../../transcriptions/yt-wl76rNQbCAw.md) [https://www.youtube.com/watch?v=wl76rNQbCAw](https://www.youtube.com/watch?v=wl76rNQbCAw)
+* [Q&A: Rechargeable batteries?](../../../../transcriptions/yt-3KrBqNWxbJc.md) [https://www.youtube.com/watch?v=3KrBqNWxbJc](https://www.youtube.com/watch?v=3KrBqNWxbJc)
+
 ## May 3rd, 2022 Livestream
 * [Q&A: Any Updates for Drone Ports?](../../../../transcriptions/yt-3Snbc6nEMNI.md) [https://www.youtube.com/watch?v=3Snbc6nEMNI](https://www.youtube.com/watch?v=3Snbc6nEMNI)
 * [Q&A: A lasso to ride the Drones?](../../../../transcriptions/yt-HgCSlfqot3U.md) [https://www.youtube.com/watch?v=HgCSlfqot3U](https://www.youtube.com/watch?v=HgCSlfqot3U)

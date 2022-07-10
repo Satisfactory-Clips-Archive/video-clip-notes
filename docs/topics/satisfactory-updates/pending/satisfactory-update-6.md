@@ -5,6 +5,17 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Pending](../../../topics/satisfactory-updates/pending.md) > Satisfactory Update 6
 
+## July 5th, 2022 Livestream
+* [Q&A: Will the alt Nuclear Fuel be part of the next Update?](../../../transcriptions/yt-MrPbasBXKEQ.md) [https://www.youtube.com/watch?v=MrPbasBXKEQ](https://www.youtube.com/watch?v=MrPbasBXKEQ)
+* State of Dev [https://www.youtube.com/watch?v=LgKRbZadhyM](https://www.youtube.com/watch?v=LgKRbZadhyM)
+* [Q&A: Will Drone terrain avoidance be fixed in Update 6?](../../../transcriptions/yt-wl76rNQbCAw.md) [https://www.youtube.com/watch?v=wl76rNQbCAw](https://www.youtube.com/watch?v=wl76rNQbCAw)
+* [Q&A: Experimental Nuclear Waste Water bug fix?](../../../transcriptions/yt-blWlTrXLMt0.md) [https://www.youtube.com/watch?v=blWlTrXLMt0](https://www.youtube.com/watch?v=blWlTrXLMt0)
+* [Q&A: Images in the works for the new Nobelisk ammo?](../../../transcriptions/yt-TWc5s3i4CMw.md) [https://www.youtube.com/watch?v=TWc5s3i4CMw](https://www.youtube.com/watch?v=TWc5s3i4CMw)
+* [Q&A: Gas Nobelisk Recipe change?](../../../transcriptions/yt-fQLQ7tDz6Mw.md) [https://www.youtube.com/watch?v=fQLQ7tDz6Mw](https://www.youtube.com/watch?v=fQLQ7tDz6Mw)
+* [Q&A: Weather, someday?](../../../transcriptions/yt-s1OYb3ZIX50.md) [https://www.youtube.com/watch?v=s1OYb3ZIX50](https://www.youtube.com/watch?v=s1OYb3ZIX50)
+* [Q&A: What's next in Update 6 before it hits EA?](../../../transcriptions/yt-g0mn1VtSams.md) [https://www.youtube.com/watch?v=g0mn1VtSams](https://www.youtube.com/watch?v=g0mn1VtSams)
+* [Q&A: Is there an Update 6 stable release date yet?](../../../transcriptions/yt-v3hZEGwwyJM.md) [https://www.youtube.com/watch?v=v3hZEGwwyJM](https://www.youtube.com/watch?v=v3hZEGwwyJM)
+
 ## June 28th, 2022 Livestream
 * State of Dev [https://www.youtube.com/watch?v=VbnBqMSEsGk](https://www.youtube.com/watch?v=VbnBqMSEsGk)
 * Q&A: SML timeframe for Update 6? [https://www.youtube.com/watch?v=HVO3YkSYjA4](https://www.youtube.com/watch?v=HVO3YkSYjA4)

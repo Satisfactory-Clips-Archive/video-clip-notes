@@ -8,7 +8,7 @@ topics:
 # [August 24th, 2021 Livestream](../2021-08-24.md)
 ## Q&A: Any plans on an actual Elevator?
 https://www.youtube.com/watch?v=Ot_nXF5yBfU
-This question was possibly duplicated with a more recent answer: [February 15th, 2022 Livestream Q&A: Elevators?](./yt-m-7bmrKMk5c.md) [https://www.youtube.com/watch?v=m-7bmrKMk5c](https://www.youtube.com/watch?v=m-7bmrKMk5c)
+This question was possibly duplicated with a more recent answer: [July 5th, 2022 Livestream Q&A: Lifts for my factory?](./yt-k3lN97uKPgw.md) [https://www.youtube.com/watch?v=k3lN97uKPgw](https://www.youtube.com/watch?v=k3lN97uKPgw)
 
 
 ### Topics

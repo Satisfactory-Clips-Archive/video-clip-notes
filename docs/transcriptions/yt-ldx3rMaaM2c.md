@@ -11,6 +11,8 @@ topics:
 # [March 8th, 2022 Livestream](../2022-03-08.md)
 ## Q&A: Will you ever add a copy & paste function for factory Buildings?
 https://www.youtube.com/watch?v=ldx3rMaaM2c
+This question was possibly duplicated with a more recent answer: July 5th, 2022 Livestream Q&A: Any chance to copy & paste whole Buildings? [https://www.youtube.com/watch?v=sa23ydDZPzs](https://www.youtube.com/watch?v=sa23ydDZPzs)
+
 
 ### Topics
 * [Features > Buildings](../topics/features/buildings.md)

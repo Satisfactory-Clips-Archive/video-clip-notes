@@ -41,6 +41,9 @@ date: Last Modified
 * [Torsten](../topics/coffee-stainers/torsten.md)
 * [Uzu](../topics/coffee-stainers/uzu.md)
 
+## July 5th, 2022 Livestream
+* State of Dev [https://www.youtube.com/watch?v=LgKRbZadhyM](https://www.youtube.com/watch?v=LgKRbZadhyM)
+
 ## June 28th, 2022 Livestream
 * State of Dev [https://www.youtube.com/watch?v=VbnBqMSEsGk](https://www.youtube.com/watch?v=VbnBqMSEsGk)
 

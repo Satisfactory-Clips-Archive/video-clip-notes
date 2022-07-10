@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Unplanned Features](../../../topics/features/unplanned-features.md) > Golf
 
+## July 5th, 2022 Livestream
+* [Q&A: Will there be any ball-centric mini-game?](../../../transcriptions/yt-RgEkPdmaN7c.md) [https://www.youtube.com/watch?v=RgEkPdmaN7c](https://www.youtube.com/watch?v=RgEkPdmaN7c)
+
 ## May 10th, 2022 Livestream
 * [Q&A: Does this part of the map contain the 18th hole?](../../../transcriptions/yt-7etFcg21qH8.md) [https://www.youtube.com/watch?v=7etFcg21qH8](https://www.youtube.com/watch?v=7etFcg21qH8)
 

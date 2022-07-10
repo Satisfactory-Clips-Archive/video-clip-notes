@@ -8,7 +8,7 @@ topics:
 # [February 1st, 2022 Livestream](../2022-02-01.md)
 ## Q&A: Will we see VR in the future?
 https://www.youtube.com/watch?v=fPaoCTlPlO0
-This question was possibly duplicated with a more recent answer: [June 28th, 2022 Livestream Q&A: VR?](./yt-H3IW4U9gg-g.md) [https://www.youtube.com/watch?v=H3IW4U9gg-g](https://www.youtube.com/watch?v=H3IW4U9gg-g)
+This question was possibly duplicated with a more recent answer: [July 5th, 2022 Livestream Q&A: Can the game support VR later?](./yt-A7toMdMe1sc.md) [https://www.youtube.com/watch?v=A7toMdMe1sc](https://www.youtube.com/watch?v=A7toMdMe1sc)
 
 
 ### Topics

@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > State of Dev
 
+## July 5th, 2022 Livestream
+* State of Dev [https://www.youtube.com/watch?v=LgKRbZadhyM](https://www.youtube.com/watch?v=LgKRbZadhyM)
+* [Q&A: Will the Stream be affected by the vacation period?](../../transcriptions/yt-Jlc7_epbkMw.md) [https://www.youtube.com/watch?v=Jlc7_epbkMw](https://www.youtube.com/watch?v=Jlc7_epbkMw)
+
 ## June 28th, 2022 Livestream
 * State of Dev [https://www.youtube.com/watch?v=VbnBqMSEsGk](https://www.youtube.com/watch?v=VbnBqMSEsGk)
 

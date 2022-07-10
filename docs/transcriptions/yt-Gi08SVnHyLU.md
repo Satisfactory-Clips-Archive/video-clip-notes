@@ -8,7 +8,7 @@ topics:
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Q&A: Are Steam Achievements going to be added in the future?
 https://www.youtube.com/watch?v=Gi08SVnHyLU
-This question was possibly duplicated with a more recent answer: [June 14th, 2022 Livestream Q&A: Will you add Achievements?](./yt-Z6bo0pjYghk,5794.547222,5807.542091.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=5794&end=5808](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=5794&end=5808)
+This question was possibly duplicated with a more recent answer: [July 5th, 2022 Livestream Q&A: Will there be Achievements for 1.0?](./yt-DRVyx1w9oNc.md) [https://www.youtube.com/watch?v=DRVyx1w9oNc](https://www.youtube.com/watch?v=DRVyx1w9oNc)
 
 
 ### Topics

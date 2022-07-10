@@ -6,6 +6,11 @@ date: Last Modified
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Crafting](../../../topics/features/crafting.md) > Recipes
 * [Alternate Recipes](../../../topics/features/crafting/recipes/alternate-recipes.md)
 
+## July 5th, 2022 Livestream
+* [Q&A: Planning production in the game?](../../../transcriptions/yt-uaMBc6ULZ5c.md) [https://www.youtube.com/watch?v=uaMBc6ULZ5c](https://www.youtube.com/watch?v=uaMBc6ULZ5c)
+* [Q&A: Is there going to be factory monitoring?](../../../transcriptions/yt-oU_GulSX3Zw.md) [https://www.youtube.com/watch?v=oU_GulSX3Zw](https://www.youtube.com/watch?v=oU_GulSX3Zw)
+* [Q&A: Gas Nobelisk Recipe change?](../../../transcriptions/yt-fQLQ7tDz6Mw.md) [https://www.youtube.com/watch?v=fQLQ7tDz6Mw](https://www.youtube.com/watch?v=fQLQ7tDz6Mw)
+
 ## June 28th, 2022 Livestream
 * [Q&A: Add a material for the glass window?](../../../transcriptions/yt-4YE2NLV2s34.md) [https://www.youtube.com/watch?v=4YE2NLV2s34](https://www.youtube.com/watch?v=4YE2NLV2s34)
 * [Q&A: Are the Recipes going to be updated before Update 6 moves to EA?](../../../transcriptions/yt-F3Fc0slcf9g.md) [https://www.youtube.com/watch?v=F3Fc0slcf9g](https://www.youtube.com/watch?v=F3Fc0slcf9g)

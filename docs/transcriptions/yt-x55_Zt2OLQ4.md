@@ -8,7 +8,7 @@ topics:
 # [February 9th, 2021 Livestream](../2021-02-09.md)
 ## Q&A: When will we be able to get different character customisations?
 https://www.youtube.com/watch?v=x55_Zt2OLQ4
-This question was possibly duplicated with a more recent answer: [June 28th, 2022 Livestream Q&A: Character Customisation?](./yt-hjK_w2ScysQ.md) [https://www.youtube.com/watch?v=hjK_w2ScysQ](https://www.youtube.com/watch?v=hjK_w2ScysQ)
+This question was possibly duplicated with a more recent answer: [July 5th, 2022 Livestream Q&A: Pioneer customisation could be cool?](./yt-9eYG1DFVnpU.md) [https://www.youtube.com/watch?v=9eYG1DFVnpU](https://www.youtube.com/watch?v=9eYG1DFVnpU)
 
 
 ### Topics

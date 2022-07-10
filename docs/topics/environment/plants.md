@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Environment](../../topics/environment.md) > Plants
 
+## July 5th, 2022 Livestream
+* [Q&A: Have rain regrow Biomass?](../../transcriptions/yt-6t1TZRz0NL0.md) [https://www.youtube.com/watch?v=6t1TZRz0NL0](https://www.youtube.com/watch?v=6t1TZRz0NL0)
+* [Q&A: How is the Pioneer eating fruits through the helmet?](../../transcriptions/yt-A8wIU88NUnc.md) [https://www.youtube.com/watch?v=A8wIU88NUnc](https://www.youtube.com/watch?v=A8wIU88NUnc)
+
 ## June 14th, 2022 Livestream
 * [blamehannah.com - Tobias, Etienne, & Snutt Talk: Looks like Hannah's been here](../../transcriptions/yt-Z6bo0pjYghk,7486.864999,7516.174063735765.md) [https://youtube.com/clip/Ugkx0Qy4rA32XFEOlBDb7FevclUIMkJRGp-k](https://youtube.com/clip/Ugkx0Qy4rA32XFEOlBDb7FevclUIMkJRGp-k)
 

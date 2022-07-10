@@ -10,7 +10,7 @@ topics:
 # [December 17th, 2020 Q&A](../2020-12-17.md)
 ## Q&A: Why don't my computer screens in my hub show me power consumption or total production?
 https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=808&end=845
-This question was possibly duplicated with a more recent answer: June 28th, 2022 Livestream Q&A: Would you ever add any kind of sign that displays logistics? [https://www.youtube.com/watch?v=WNIyopr1vZs](https://www.youtube.com/watch?v=WNIyopr1vZs)
+This question was possibly duplicated with a more recent answer: [July 5th, 2022 Livestream Q&A: Is there going to be factory monitoring?](./yt-oU_GulSX3Zw.md) [https://www.youtube.com/watch?v=oU_GulSX3Zw](https://www.youtube.com/watch?v=oU_GulSX3Zw)
 
 
 ### Topics

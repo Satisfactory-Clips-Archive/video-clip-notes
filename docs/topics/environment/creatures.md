@@ -10,6 +10,9 @@ date: Last Modified
 * [Non Flying Bird](../../topics/environment/creatures/non-flying-bird.md)
 * [Space Giraffe-Tick-Penguin-Whale Thing](../../topics/environment/creatures/space-giraffe-tick-penguin-whale-thing.md)
 
+## July 5th, 2022 Livestream
+* [Q&A: Can we lure a Hog to another part of the Map and trap it there?](../../transcriptions/yt-obf7z_HzA7Y.md) [https://www.youtube.com/watch?v=obf7z_HzA7Y](https://www.youtube.com/watch?v=obf7z_HzA7Y)
+
 ## June 28th, 2022 Livestream
 * State of Dev [https://www.youtube.com/watch?v=VbnBqMSEsGk](https://www.youtube.com/watch?v=VbnBqMSEsGk)
 * [Q&A: Do the jumping spiders jump higher than before?](../../transcriptions/yt-Leo8gTff8FY.md) [https://www.youtube.com/watch?v=Leo8gTff8FY](https://www.youtube.com/watch?v=Leo8gTff8FY)

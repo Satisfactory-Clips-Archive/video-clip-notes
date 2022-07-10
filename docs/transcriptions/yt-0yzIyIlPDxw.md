@@ -8,7 +8,7 @@ topics:
 # [January 12th, 2021 Livestream](../2021-01-12.md)
 ## Q&A: CPU make multi-core?
 https://www.youtube.com/watch?v=0yzIyIlPDxw
-This question was possibly duplicated with a more recent answer: [August 31st, 2021 Livestream Q&A: Does Satisfactory make use of multiple cores?](./yt-5xMB9YAL06E.md) [https://www.youtube.com/watch?v=5xMB9YAL06E](https://www.youtube.com/watch?v=5xMB9YAL06E)
+This question was possibly duplicated with a more recent answer: [July 5th, 2022 Livestream Q&A: Will the game run on more than one CPU?](./yt-_KZ7iwEuEvM.md) [https://www.youtube.com/watch?v=_KZ7iwEuEvM](https://www.youtube.com/watch?v=_KZ7iwEuEvM)
 
 
 ### Topics

@@ -22,6 +22,9 @@ date: Last Modified
 * [Xeno-Zapper](../../topics/features/equipment/xeno-zapper.md)
 * [Zip Lines](../../topics/features/equipment/zip-lines.md)
 
+## July 5th, 2022 Livestream
+* [Q&A: Weapon skins, when?](../../transcriptions/yt-OTb5xKJEnZk.md) [https://www.youtube.com/watch?v=OTb5xKJEnZk](https://www.youtube.com/watch?v=OTb5xKJEnZk)
+
 ## June 14th, 2022 Livestream
 * [Etienne & Snutt Talk: First-person-view improvements](../../transcriptions/yt-Z6bo0pjYghk,7589.446724349895,7642.892665033142.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=7589&end=7643](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=7589&end=7643)
 

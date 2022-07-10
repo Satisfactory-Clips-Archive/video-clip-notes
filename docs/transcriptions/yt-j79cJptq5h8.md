@@ -10,7 +10,7 @@ topics:
 # [October 27th, 2020 Livestream](../2020-10-27.md)
 ## Q&A: Fluid Sink ever going to happen?
 https://www.youtube.com/watch?v=j79cJptq5h8
-This question was possibly duplicated with a more recent answer: [February 1st, 2022 Livestream Q&A: What about the Fluid Sink?](./yt--yErJoC5VSQ.md) [https://www.youtube.com/watch?v=-yErJoC5VSQ](https://www.youtube.com/watch?v=-yErJoC5VSQ)
+This question was possibly duplicated with a more recent answer: [July 5th, 2022 Livestream Q&A: Fluid Sink, when?](./yt-59nyJkLeYZA.md) [https://www.youtube.com/watch?v=59nyJkLeYZA](https://www.youtube.com/watch?v=59nyJkLeYZA)
 
 
 ### Topics

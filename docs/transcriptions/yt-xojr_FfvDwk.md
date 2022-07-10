@@ -8,7 +8,7 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: Any chance of a Logic System in the game?
 https://www.youtube.com/watch?v=xojr_FfvDwk
-This question was possibly duplicated with a more recent answer: [June 28th, 2022 Livestream Q&A: Your thoughts on circuits?](./yt-gpaZIfFir-Q.md) [https://www.youtube.com/watch?v=gpaZIfFir-Q](https://www.youtube.com/watch?v=gpaZIfFir-Q)
+This question was possibly duplicated with a more recent answer: [July 5th, 2022 Livestream Q&A: Will there ever be a logic system?](./yt-dl2buXhcHcM.md) [https://www.youtube.com/watch?v=dl2buXhcHcM](https://www.youtube.com/watch?v=dl2buXhcHcM)
 
 
 ### Topics

@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > World Update
 
+## July 5th, 2022 Livestream
+* [Q&A: Why does the southern forests have basically no Resources?](../../transcriptions/yt-msj7QrgcuMQ.md) [https://www.youtube.com/watch?v=msj7QrgcuMQ](https://www.youtube.com/watch?v=msj7QrgcuMQ)
+* [Q&A: Why are some of the underground entrances blocked off?](../../transcriptions/yt-qOn-_AVjbTw.md) [https://www.youtube.com/watch?v=qOn-_AVjbTw](https://www.youtube.com/watch?v=qOn-_AVjbTw)
+* Snutt & Jace Talk: Resources in Spire Coast [https://www.youtube.com/watch?v=G14AvMQYcNk](https://www.youtube.com/watch?v=G14AvMQYcNk)
+
 ## June 28th, 2022 Livestream
 * [Q&A: When new nodes in Spire Coast?](../../transcriptions/yt-Y2bdYFAupfc.md) [https://www.youtube.com/watch?v=Y2bdYFAupfc](https://www.youtube.com/watch?v=Y2bdYFAupfc)
 * [Q&A: Any Red Jungle changes similar to Spire Coast or Swamp?](../../transcriptions/yt-l9SkudmkyLQ.md) [https://www.youtube.com/watch?v=l9SkudmkyLQ](https://www.youtube.com/watch?v=l9SkudmkyLQ)

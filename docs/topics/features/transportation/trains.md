@@ -6,6 +6,11 @@ date: Last Modified
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > Transportation > Trains
 * [Train Signals](../../../topics/features/transportation/trains/train-signals.md)
 
+## July 5th, 2022 Livestream
+* Q&A: Option to filter or limit what items go in a Train Car? [https://www.youtube.com/watch?v=_Bb65dQHTtM](https://www.youtube.com/watch?v=_Bb65dQHTtM)
+* [Q&A: Any plans for Zoopable straight Train Tracks?](../../../transcriptions/yt-Zcp6cK14ixA.md) [https://www.youtube.com/watch?v=Zcp6cK14ixA](https://www.youtube.com/watch?v=Zcp6cK14ixA)
+* [Q&A: Passenger Train car?](../../../transcriptions/yt-kp5SXQQ386k.md) [https://www.youtube.com/watch?v=kp5SXQQ386k](https://www.youtube.com/watch?v=kp5SXQQ386k)
+
 ## May 10th, 2022 Livestream
 * [State of Dev](../../../transcriptions/yt-EgDWsvm7ThE.md) [https://www.youtube.com/watch?v=EgDWsvm7ThE](https://www.youtube.com/watch?v=EgDWsvm7ThE)
 

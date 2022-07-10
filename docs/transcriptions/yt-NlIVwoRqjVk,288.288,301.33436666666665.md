@@ -8,7 +8,7 @@ topics:
 # [May 15th, 2020 Q&A](../2020-05-15.md)
 ## Q&A: Official Mod Support?
 https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=288&end=302
-This question was possibly duplicated with a more recent answer: [July 16th, 2021 Video Q&A: Does Satisfactory have Official Mod Support?](./yt-Z2WggHmVHGI,39.1391,95.22846666666666.md) [https://youtube.com/clip/UgylC5F8-3qS5liSCLp4AaABCQ](https://youtube.com/clip/UgylC5F8-3qS5liSCLp4AaABCQ)
+This question was possibly duplicated with a more recent answer: July 5th, 2022 Livestream Q&A: Mods, when? [https://www.youtube.com/watch?v=LdeQbv8jMos](https://www.youtube.com/watch?v=LdeQbv8jMos)
 
 
 ### Topics

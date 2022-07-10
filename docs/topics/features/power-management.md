@@ -10,6 +10,11 @@ date: Last Modified
 * [Power Storage](../../topics/features/power-management/power-storage.md)
 * [Power Switch](../../topics/features/power-management/power-switch.md)
 
+## July 5th, 2022 Livestream
+* [Q&A: Rechargeable batteries?](../../transcriptions/yt-3KrBqNWxbJc.md) [https://www.youtube.com/watch?v=3KrBqNWxbJc](https://www.youtube.com/watch?v=3KrBqNWxbJc)
+* [Q&A: More Power options?](../../transcriptions/yt-f4VpbHVUJk8.md) [https://www.youtube.com/watch?v=f4VpbHVUJk8](https://www.youtube.com/watch?v=f4VpbHVUJk8)
+* [Q&A: Using Batteries as a Power source?](../../transcriptions/yt-XT-wprwD8pI.md) [https://www.youtube.com/watch?v=XT-wprwD8pI](https://www.youtube.com/watch?v=XT-wprwD8pI)
+
 ## May 24th, 2022 Livestream
 * [Q&A: Are you also looking at having Linear Clocking for Overclocking of Power Generators?](../../transcriptions/yt-Nt9Lf-n9Dcs.md) [https://www.youtube.com/watch?v=Nt9Lf-n9Dcs](https://www.youtube.com/watch?v=Nt9Lf-n9Dcs)
 

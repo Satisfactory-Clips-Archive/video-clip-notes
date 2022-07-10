@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Equipment](../../../topics/features/equipment.md) > Hover Pack
 
+## July 5th, 2022 Livestream
+* [Q&A: Do you consider the Jetpack/Hover Pack essential to beat the game?](../../../transcriptions/yt-SWdlYvpUhTY.md) [https://www.youtube.com/watch?v=SWdlYvpUhTY](https://www.youtube.com/watch?v=SWdlYvpUhTY)
+
 ## November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary
 * [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 14)](../../../transcriptions/yt-hogdxF1ITbc.md) [https://www.youtube.com/watch?v=hogdxF1ITbc](https://www.youtube.com/watch?v=hogdxF1ITbc)
 

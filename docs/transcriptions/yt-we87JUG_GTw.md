@@ -8,7 +8,7 @@ topics:
 # [April 6th, 2021 Livestream](../2021-04-06.md)
 ## Q&A: Have you considered logic networks?
 https://www.youtube.com/watch?v=we87JUG_GTw
-This question was possibly duplicated with a more recent answer: [June 28th, 2022 Livestream Q&A: Your thoughts on circuits?](./yt-gpaZIfFir-Q.md) [https://www.youtube.com/watch?v=gpaZIfFir-Q](https://www.youtube.com/watch?v=gpaZIfFir-Q)
+This question was possibly duplicated with a more recent answer: [July 5th, 2022 Livestream Q&A: Will there ever be a logic system?](./yt-dl2buXhcHcM.md) [https://www.youtube.com/watch?v=dl2buXhcHcM](https://www.youtube.com/watch?v=dl2buXhcHcM)
 
 
 ### Topics

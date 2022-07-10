@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Technology](../../../topics/technology.md) > [User Interface](../../../topics/technology/user-interface.md) > Holograms
 
+## July 5th, 2022 Livestream
+* [Q&A: Some Mod adds ability to use holograms to plan layout, any chance of adding that?](../../../transcriptions/yt-rP7YheyIQ3g.md) [https://www.youtube.com/watch?v=rP7YheyIQ3g](https://www.youtube.com/watch?v=rP7YheyIQ3g)
+
 ## April 15th, 2022 Video
 * [Snutt & Stefan Talk: Build Menu in Sprint 3](../../../transcriptions/yt-7I3NGAm3j_4,322.1218,377.621266.md) [https://youtube.com/clip/UgkxjRfbjSnFDobtxbd4UB3a_qnhHr1B2xDO](https://youtube.com/clip/UgkxjRfbjSnFDobtxbd4UB3a_qnhHr1B2xDO)
 * [Snutt & Stefan Talk: Mining Resources & Crafting in Sprint 6](../../../transcriptions/yt-7I3NGAm3j_4,782.1480333333334,1062.275948.md) [https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=782&end=1063](https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=782&end=1063)

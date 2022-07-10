@@ -8,7 +8,7 @@ topics:
 # [July 13th, 2021 Livestream](../2021-07-13.md)
 ## Q&A: Any thoughts about non-first-person Building Mode?
 https://www.youtube.com/watch?v=K2gmJrcqZ20
-This question was possibly duplicated with a more recent answer: December 7th, 2021 Livestream Q&A: Will there be third-person view? [https://www.youtube.com/watch?v=0CcI5NNow5E](https://www.youtube.com/watch?v=0CcI5NNow5E)
+This question was possibly duplicated with a more recent answer: July 5th, 2022 Livestream Q&A: What about Third-person View? [https://www.youtube.com/watch?v=--17oeeyyOI](https://www.youtube.com/watch?v=--17oeeyyOI)
 
 
 ### Topics

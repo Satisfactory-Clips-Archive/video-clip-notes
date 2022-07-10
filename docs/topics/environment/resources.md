@@ -14,6 +14,17 @@ date: Last Modified
 * [Steel](../../topics/environment/resources/steel.md)
 * [Water](../../topics/environment/resources/water.md)
 
+## July 5th, 2022 Livestream
+* [Q&A: Any plans to automate Biofuel like with Fabric?](../../transcriptions/yt-egeMfFZ2lSs.md) [https://www.youtube.com/watch?v=egeMfFZ2lSs](https://www.youtube.com/watch?v=egeMfFZ2lSs)
+* [Q&A: Sulfur is a by-product of Oil products, so maybe an Alternate Recipe?](../../transcriptions/yt-QOAfdRa2TUE.md) [https://www.youtube.com/watch?v=QOAfdRa2TUE](https://www.youtube.com/watch?v=QOAfdRa2TUE)
+* [Q&A: Planning production in the game?](../../transcriptions/yt-uaMBc6ULZ5c.md) [https://www.youtube.com/watch?v=uaMBc6ULZ5c](https://www.youtube.com/watch?v=uaMBc6ULZ5c)
+* [Q&A: Why does the southern forests have basically no Resources?](../../transcriptions/yt-msj7QrgcuMQ.md) [https://www.youtube.com/watch?v=msj7QrgcuMQ](https://www.youtube.com/watch?v=msj7QrgcuMQ)
+* Snutt & Jace Talk: Resources in Spire Coast [https://www.youtube.com/watch?v=G14AvMQYcNk](https://www.youtube.com/watch?v=G14AvMQYcNk)
+* [Q&A: Rechargeable batteries?](../../transcriptions/yt-3KrBqNWxbJc.md) [https://www.youtube.com/watch?v=3KrBqNWxbJc](https://www.youtube.com/watch?v=3KrBqNWxbJc)
+* [Q&A: Will you add more Sulfur nodes?](../../transcriptions/yt-8VYRQtgVa-g.md) [https://www.youtube.com/watch?v=8VYRQtgVa-g](https://www.youtube.com/watch?v=8VYRQtgVa-g)
+* [Q&A: How do you balance the nodes?](../../transcriptions/yt-vElxVdftU4Y.md) [https://www.youtube.com/watch?v=vElxVdftU4Y](https://www.youtube.com/watch?v=vElxVdftU4Y)
+* [Q&A: Using Batteries as a Power source?](../../transcriptions/yt-XT-wprwD8pI.md) [https://www.youtube.com/watch?v=XT-wprwD8pI](https://www.youtube.com/watch?v=XT-wprwD8pI)
+
 ## June 28th, 2022 Livestream
 * [Q&A: When new nodes in Spire Coast?](../../transcriptions/yt-Y2bdYFAupfc.md) [https://www.youtube.com/watch?v=Y2bdYFAupfc](https://www.youtube.com/watch?v=Y2bdYFAupfc)
 * [Q&A: Will Resources be finite in the future?](../../transcriptions/yt-g25jDdbnYsw.md) [https://www.youtube.com/watch?v=g25jDdbnYsw](https://www.youtube.com/watch?v=g25jDdbnYsw)

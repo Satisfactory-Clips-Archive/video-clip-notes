@@ -10,6 +10,8 @@ topics:
 # [April 6th, 2021 Livestream](../2021-04-06.md)
 ## Q&A: Rechargeable Batteries?
 https://www.youtube.com/watch?v=8wU1YvsAytE
+This question was possibly duplicated with a more recent answer: [July 5th, 2022 Livestream Q&A: Rechargeable batteries?](./yt-3KrBqNWxbJc.md) [https://www.youtube.com/watch?v=3KrBqNWxbJc](https://www.youtube.com/watch?v=3KrBqNWxbJc)
+
 
 ### Topics
 * [Environment > Resources](../topics/environment/resources.md)

@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Mods](../../topics/mods.md) > Mods vs. Features
 
+## July 5th, 2022 Livestream
+* [Q&A: Some Mod adds ability to use holograms to plan layout, any chance of adding that?](../../transcriptions/yt-rP7YheyIQ3g.md) [https://www.youtube.com/watch?v=rP7YheyIQ3g](https://www.youtube.com/watch?v=rP7YheyIQ3g)
+* [Q&A: Will Modders be able to add new planets / Maps?](../../transcriptions/yt-82NtL0BMKMM.md) [https://www.youtube.com/watch?v=82NtL0BMKMM](https://www.youtube.com/watch?v=82NtL0BMKMM)
+
 ## May 17th, 2022 Livestream
 * [Community FYI: Bet someone will make a mod that removes the limit](../../transcriptions/yt-p7vIbW29dyE.md) [https://www.youtube.com/watch?v=p7vIbW29dyE](https://www.youtube.com/watch?v=p7vIbW29dyE)
 

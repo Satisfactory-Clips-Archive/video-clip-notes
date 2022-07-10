@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildables](../../../topics/features/buildables.md) > Jump Pads
 
+## July 5th, 2022 Livestream
+* [Q&A: Do you consider the Jetpack/Hover Pack essential to beat the game?](../../../transcriptions/yt-SWdlYvpUhTY.md) [https://www.youtube.com/watch?v=SWdlYvpUhTY](https://www.youtube.com/watch?v=SWdlYvpUhTY)
+
 ## May 3rd, 2022 Livestream
 * [Q&A: Do you approve of the Lizard Doggo Nuclear Waste disposal method?](../../../transcriptions/yt-aMX03pHxmII.md) [https://www.youtube.com/watch?v=aMX03pHxmII](https://www.youtube.com/watch?v=aMX03pHxmII)
 

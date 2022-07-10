@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Creatures](../../../topics/environment/creatures.md) > Lizard Doggo
 
+## July 5th, 2022 Livestream
+* [Q&A: How will I know if my Lizard Doggo actually loves me?](../../../transcriptions/yt-dNnnf1OLUX0.md) [https://www.youtube.com/watch?v=dNnnf1OLUX0](https://www.youtube.com/watch?v=dNnnf1OLUX0)
+
 ## June 14th, 2022 Livestream
 * [Snutt Talk: Lizard Doggo Merch](../../../transcriptions/yt-Z6bo0pjYghk,11410.623226,11507.083333333334.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=11410&end=11508](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=11410&end=11508)
 * [Stefan, & Snutt Talk: Heroic Replicas shipping](../../../transcriptions/yt-Z6bo0pjYghk,11658.757419,11799.808154328772.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=11658&end=11800](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=11658&end=11800)

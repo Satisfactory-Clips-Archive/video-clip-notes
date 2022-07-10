@@ -5,6 +5,13 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Pending](../../../topics/satisfactory-updates/pending.md) > Satisfactory 1.0
 
+## July 5th, 2022 Livestream
+* [Q&A: Will there be Achievements for 1.0?](../../../transcriptions/yt-DRVyx1w9oNc.md) [https://www.youtube.com/watch?v=DRVyx1w9oNc](https://www.youtube.com/watch?v=DRVyx1w9oNc)
+* [Q&A: Will you add stuff after 1.0?](../../../transcriptions/yt-yqVC6fYnsOQ.md) [https://www.youtube.com/watch?v=yqVC6fYnsOQ](https://www.youtube.com/watch?v=yqVC6fYnsOQ)
+* [Q&A: What year do you think the game will release?](../../../transcriptions/yt-4jn2kQjiY9Y.md) [https://www.youtube.com/watch?v=4jn2kQjiY9Y](https://www.youtube.com/watch?v=4jn2kQjiY9Y)
+* [Q&A: How do you think the Satisfactory trilogy will end?](../../../transcriptions/yt--mQ7p9GwJ7k.md) [https://www.youtube.com/watch?v=-mQ7p9GwJ7k](https://www.youtube.com/watch?v=-mQ7p9GwJ7k)
+* [Q&A: Will we need to play from the start when 1.0 hits?](../../../transcriptions/yt-_mN45-Fc7G0.md) [https://www.youtube.com/watch?v=_mN45-Fc7G0](https://www.youtube.com/watch?v=_mN45-Fc7G0)
+
 ## June 28th, 2022 Livestream
 * [Q&A: Will 1.0 use any of the void or water areas?](../../../transcriptions/yt-uCur5xyQWWI.md) [https://www.youtube.com/watch?v=uCur5xyQWWI](https://www.youtube.com/watch?v=uCur5xyQWWI)
 * [Q&A: How finished is the game in percentage?](../../../transcriptions/yt-LvylFE87PO8.md) [https://www.youtube.com/watch?v=LvylFE87PO8](https://www.youtube.com/watch?v=LvylFE87PO8)

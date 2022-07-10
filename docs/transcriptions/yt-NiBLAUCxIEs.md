@@ -10,7 +10,7 @@ topics:
 # [September 29th, 2020 Livestream](../2020-09-29.md)
 ## Q&A: What about Mk.6 Belts?
 https://www.youtube.com/watch?v=NiBLAUCxIEs
-This question was possibly duplicated with a more recent answer: [June 7th, 2022 Livestream Q&A: Mk.6 Belts or Lifts?](./yt-m1mn9epXrcI.md) [https://www.youtube.com/watch?v=m1mn9epXrcI](https://www.youtube.com/watch?v=m1mn9epXrcI)
+This question was possibly duplicated with a more recent answer: [July 5th, 2022 Livestream Q&A: Will there be Mk.6 Belts?](./yt-teYWjHHxeBU.md) [https://www.youtube.com/watch?v=teYWjHHxeBU](https://www.youtube.com/watch?v=teYWjHHxeBU)
 
 
 ### Topics

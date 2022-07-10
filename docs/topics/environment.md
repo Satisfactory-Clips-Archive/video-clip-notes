@@ -11,6 +11,11 @@ date: Last Modified
 * [Resources](../topics/environment/resources.md)
 * [World Map](../topics/environment/world-map.md)
 
+## July 5th, 2022 Livestream
+* [Q&A: Can we lure a Hog to another part of the Map and trap it there?](../transcriptions/yt-obf7z_HzA7Y.md) [https://www.youtube.com/watch?v=obf7z_HzA7Y](https://www.youtube.com/watch?v=obf7z_HzA7Y)
+* [Q&A: Will Drone terrain avoidance be fixed in Update 6?](../transcriptions/yt-wl76rNQbCAw.md) [https://www.youtube.com/watch?v=wl76rNQbCAw](https://www.youtube.com/watch?v=wl76rNQbCAw)
+* [Q&A: Will we ever be able to redirect water streams to create rivers?](../transcriptions/yt-J_uq0HeEiJ0.md) [https://www.youtube.com/watch?v=J_uq0HeEiJ0](https://www.youtube.com/watch?v=J_uq0HeEiJ0)
+
 ## June 28th, 2022 Livestream
 * [Q&A: Any plans to make the Fart Rocks destructable?](../transcriptions/yt-KTTHPxhnpDM.md) [https://www.youtube.com/watch?v=KTTHPxhnpDM](https://www.youtube.com/watch?v=KTTHPxhnpDM)
 * [Q&A: Working on floating Ore rocks?](../transcriptions/yt-56qfgYEtKzE.md) [https://www.youtube.com/watch?v=56qfgYEtKzE](https://www.youtube.com/watch?v=56qfgYEtKzE)

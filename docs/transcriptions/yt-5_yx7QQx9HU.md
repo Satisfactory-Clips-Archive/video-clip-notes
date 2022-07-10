@@ -8,15 +8,7 @@ topics:
 # [November 16th, 2021 Livestream](../2021-11-16.md)
 ## Q&A: Who is the voice for ADA?
 https://www.youtube.com/watch?v=5_yx7QQx9HU
-<details>
-<summary>This question may have been asked previously at least 5 other times, as recently as May 2021 and as early as December 2019.</summary>
-
-* [May 18th, 2021 Livestream Q&A: Who is the voice actor for ADA?](./yt-pDGX-8_vTW0.md) [https://www.youtube.com/watch?v=pDGX-8_vTW0](https://www.youtube.com/watch?v=pDGX-8_vTW0)
-* [October 27th, 2020 Livestream Q&A: Is ADA computer generated or a voice actress?](./yt-lSeLNlkKo1w.md) [https://www.youtube.com/watch?v=lSeLNlkKo1w](https://www.youtube.com/watch?v=lSeLNlkKo1w)
-* [October 6th, 2020 Livestream Q&A: Is ADA a synth voice ?](./yt-isjOJ0Aczl4.md) [https://www.youtube.com/watch?v=isjOJ0Aczl4](https://www.youtube.com/watch?v=isjOJ0Aczl4)
-* [March 24th, 2020 Livestream Q&A: Who speaks ADA?](./yt-aYUTkfL-jKk.md) [https://www.youtube.com/watch?v=aYUTkfL-jKk](https://www.youtube.com/watch?v=aYUTkfL-jKk)
-* [December 19th, 2019 Livestream Q&A: Who is the voice of A.D.A. ?](./yt-aOzSvX8iaYg.md) [https://www.youtube.com/watch?v=aOzSvX8iaYg](https://www.youtube.com/watch?v=aOzSvX8iaYg)
-</details>
+This question was possibly duplicated with a more recent answer: [July 5th, 2022 Livestream Q&A: Why does ADA sound like the Seattle light rail?](./yt-HUoOTOQ--Qk.md) [https://www.youtube.com/watch?v=HUoOTOQ--Qk](https://www.youtube.com/watch?v=HUoOTOQ--Qk)
 
 
 ### Topics

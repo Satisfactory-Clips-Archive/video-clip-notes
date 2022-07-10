@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Power Management](../../../topics/features/power-management.md) > Power Storage
 
+## July 5th, 2022 Livestream
+* [Q&A: Rechargeable batteries?](../../../transcriptions/yt-3KrBqNWxbJc.md) [https://www.youtube.com/watch?v=3KrBqNWxbJc](https://www.youtube.com/watch?v=3KrBqNWxbJc)
+* [Q&A: Using Batteries as a Power source?](../../../transcriptions/yt-XT-wprwD8pI.md) [https://www.youtube.com/watch?v=XT-wprwD8pI](https://www.youtube.com/watch?v=XT-wprwD8pI)
+
 ## August 31st, 2021 Livestream
 * [Q&A: Are there plans to make Power Storage usable with Bio Burners?](../../../transcriptions/yt-voAsRVkVD4w.md) [https://www.youtube.com/watch?v=voAsRVkVD4w](https://www.youtube.com/watch?v=voAsRVkVD4w)
 

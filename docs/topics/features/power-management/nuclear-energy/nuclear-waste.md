@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > [Power Management](../../../../topics/features/power-management.md) > [Nuclear Energy](../../../../topics/features/power-management/nuclear-energy.md) > Nuclear Waste
 
+## July 5th, 2022 Livestream
+* [Q&A: Experimental Nuclear Waste Water bug fix?](../../../../transcriptions/yt-blWlTrXLMt0.md) [https://www.youtube.com/watch?v=blWlTrXLMt0](https://www.youtube.com/watch?v=blWlTrXLMt0)
+
 ## June 7th, 2022 Livestream
 * [Q&A: Will Nukes use Waste?](../../../../transcriptions/yt-Z2ncq57UyC0.md) [https://www.youtube.com/watch?v=Z2ncq57UyC0](https://www.youtube.com/watch?v=Z2ncq57UyC0)
 

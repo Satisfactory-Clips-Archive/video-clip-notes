@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Biomes](../../../topics/environment/biomes.md) > Caves
 
+## July 5th, 2022 Livestream
+* [Q&A: Why are some of the underground entrances blocked off?](../../../transcriptions/yt-qOn-_AVjbTw.md) [https://www.youtube.com/watch?v=qOn-_AVjbTw](https://www.youtube.com/watch?v=qOn-_AVjbTw)
+
 ## May 24th, 2022 Livestream
 * [Q&A: Any upcoming Cave Updates?](../../../transcriptions/yt-FxZlXFc28V0.md) [https://www.youtube.com/watch?v=FxZlXFc28V0](https://www.youtube.com/watch?v=FxZlXFc28V0)
 * [Q&A: The cave on the crater in the Dune Desert, is that coming in a later Update?](../../../transcriptions/yt-WA3JRlk-8M8.md) [https://www.youtube.com/watch?v=WA3JRlk-8M8](https://www.youtube.com/watch?v=WA3JRlk-8M8)

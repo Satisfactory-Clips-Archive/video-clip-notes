@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Community Highlights
 
+## July 5th, 2022 Livestream
+* Snutt & Jace Talk: Resources in Spire Coast [https://www.youtube.com/watch?v=G14AvMQYcNk](https://www.youtube.com/watch?v=G14AvMQYcNk)
+
 ## June 14th, 2022 Livestream
 * [A wild Jace appears](../../transcriptions/yt-Z6bo0pjYghk,868.48164,977.707106.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=868&end=978](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=868&end=978)
 * [Intro](../../transcriptions/yt-Z6bo0pjYghk,1140.43303,1184.362162.md) [https://youtube.com/clip/Ugkxgx-K90n6KQwyI98EI3LY9aMgFVwIuc0y](https://youtube.com/clip/Ugkxgx-K90n6KQwyI98EI3LY9aMgFVwIuc0y)

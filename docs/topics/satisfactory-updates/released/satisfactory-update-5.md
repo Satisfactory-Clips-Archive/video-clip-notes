@@ -8,6 +8,9 @@ date: Last Modified
 * [#SaveTheWillows](../../../topics/satisfactory-updates/released/satisfactory-update-5/save-the-willows.md)
 * [Update 5 Torsten's Cosmetics Whiteboard](../../../topics/satisfactory-updates/released/satisfactory-update-5/torstens-cosmetics-whiteboard.md)
 
+## July 5th, 2022 Livestream
+* [Q&A: Will Drone terrain avoidance be fixed in Update 6?](../../../transcriptions/yt-wl76rNQbCAw.md) [https://www.youtube.com/watch?v=wl76rNQbCAw](https://www.youtube.com/watch?v=wl76rNQbCAw)
+
 ## May 6th, 2022 Video
 * [Update 5 World Update Roadmap](../../../transcriptions/yt-8BxYvOLpjGo,44.944900000000004,73.8738.md) [https://youtube.com/clip/UgkxnQl9-7XQBU0ua5umK2YbhKN4IoJR8rkL](https://youtube.com/clip/UgkxnQl9-7XQBU0ua5umK2YbhKN4IoJR8rkL)
 * [Open section of shallow water](../../../transcriptions/yt-8BxYvOLpjGo,183.0829,200.13326666666666.md) [https://youtube.com/clip/Ugkxdfs--RNkFLO-hIRAgMOPPgzXqYKFO5xO](https://youtube.com/clip/Ugkxdfs--RNkFLO-hIRAgMOPPgzXqYKFO5xO)

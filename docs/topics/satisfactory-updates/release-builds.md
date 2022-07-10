@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > Release Builds
 
+## July 5th, 2022 Livestream
+* State of Dev [https://www.youtube.com/watch?v=LgKRbZadhyM](https://www.youtube.com/watch?v=LgKRbZadhyM)
+* [Q&A: What's next in Update 6 before it hits EA?](../../transcriptions/yt-g0mn1VtSams.md) [https://www.youtube.com/watch?v=g0mn1VtSams](https://www.youtube.com/watch?v=g0mn1VtSams)
+* [Q&A: Is there an Update 6 stable release date yet?](../../transcriptions/yt-v3hZEGwwyJM.md) [https://www.youtube.com/watch?v=v3hZEGwwyJM](https://www.youtube.com/watch?v=v3hZEGwwyJM)
+
 ## June 28th, 2022 Livestream
 * State of Dev [https://www.youtube.com/watch?v=VbnBqMSEsGk](https://www.youtube.com/watch?v=VbnBqMSEsGk)
 * [Q&A: Will Experimental Update 6 save work when Update 6 comes to EA?](../../transcriptions/yt-F-Q47hXTGMc.md) [https://www.youtube.com/watch?v=F-Q47hXTGMc](https://www.youtube.com/watch?v=F-Q47hXTGMc)

@@ -7,6 +7,9 @@ date: Last Modified
 * [Flushable Toilet DLC](../../../topics/features/possible-features/dlc/flushable-toilet-dlc.md)
 * [Toilet Paper DLC](../../../topics/features/possible-features/dlc/toilet-paper-dlc.md)
 
+## July 5th, 2022 Livestream
+* [Q&A: Will you add stuff after 1.0?](../../../transcriptions/yt-yqVC6fYnsOQ.md) [https://www.youtube.com/watch?v=yqVC6fYnsOQ](https://www.youtube.com/watch?v=yqVC6fYnsOQ)
+
 ## June 28th, 2022 Livestream
 * [Q&A: Will there be Final Fantasy DLC?](../../../transcriptions/yt-Y-U0wGXi5D4.md) [https://www.youtube.com/watch?v=Y-U0wGXi5D4](https://www.youtube.com/watch?v=Y-U0wGXi5D4)
 

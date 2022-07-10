@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > The HUB
 
+## July 5th, 2022 Livestream
+* [Q&A: Will there ever be a sleep option?](../../../transcriptions/yt-I-wckc7yt1M.md) [https://www.youtube.com/watch?v=I-wckc7yt1M](https://www.youtube.com/watch?v=I-wckc7yt1M)
+
 ## June 28th, 2022 Livestream
 * Q&A: Any future uses of small room inside the HUB? [https://www.youtube.com/watch?v=MA3Ixcvf4G4](https://www.youtube.com/watch?v=MA3Ixcvf4G4)
 * [Q&A: Can we have a golden shower in the HUB?](../../../transcriptions/yt-rNdcm3IrA0o.md) [https://www.youtube.com/watch?v=rNdcm3IrA0o](https://www.youtube.com/watch?v=rNdcm3IrA0o)

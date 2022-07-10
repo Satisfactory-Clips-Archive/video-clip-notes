@@ -8,6 +8,14 @@ date: Last Modified
 * [Snutt Burger Time](../../topics/coffee-stainers/snutt/snutt-burger-time.md)
 * [Snutty Mays](../../topics/coffee-stainers/snutt/snutty-mays.md)
 
+## July 5th, 2022 Livestream
+* Q&A: Video this week? [https://www.youtube.com/watch?v=JETjhGKrVmw](https://www.youtube.com/watch?v=JETjhGKrVmw)
+* [Snutt Talk: Snutt Looks At Comments song](../../transcriptions/yt-vztYpHDX9uc.md) [https://www.youtube.com/watch?v=vztYpHDX9uc](https://www.youtube.com/watch?v=vztYpHDX9uc)
+* [Snutt & Jace Talk: Early stream intro](../../transcriptions/yt-22cjWQeYNnE.md) [https://www.youtube.com/watch?v=22cjWQeYNnE](https://www.youtube.com/watch?v=22cjWQeYNnE)
+* [Q&A: Will the Stream be affected by the vacation period?](../../transcriptions/yt-Jlc7_epbkMw.md) [https://www.youtube.com/watch?v=Jlc7_epbkMw](https://www.youtube.com/watch?v=Jlc7_epbkMw)
+* [Q&A: Snutt, ever considered a career as a model?](../../transcriptions/yt-EoE9cxjUdd0.md) [https://www.youtube.com/watch?v=EoE9cxjUdd0](https://www.youtube.com/watch?v=EoE9cxjUdd0)
+* [Community FYI: Stop advertising other games in the stream or you will be fired](../../transcriptions/yt-6XlGsx1P76g.md) [https://www.youtube.com/watch?v=6XlGsx1P76g](https://www.youtube.com/watch?v=6XlGsx1P76g)
+
 ## June 28th, 2022 Livestream
 * [Snutt & Jace Talk: Midsummer & Swedish Idioms](../../transcriptions/yt-xpEOoN4dkj8.md) [https://www.youtube.com/watch?v=xpEOoN4dkj8](https://www.youtube.com/watch?v=xpEOoN4dkj8)
 * [Q&A: Can Snutt run the stream without using the word "like" ?](../../transcriptions/yt-RfoN45-mJVM.md) [https://www.youtube.com/watch?v=RfoN45-mJVM](https://www.youtube.com/watch?v=RfoN45-mJVM)

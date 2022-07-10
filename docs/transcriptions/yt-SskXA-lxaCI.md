@@ -10,7 +10,7 @@ topics:
 # [January 19th, 2021 Livestream](../2021-01-19.md)
 ## Q&A: Sink that accepts Liquids or Gas?
 https://www.youtube.com/watch?v=SskXA-lxaCI
-This question was possibly duplicated with a more recent answer: [February 1st, 2022 Livestream Q&A: What about the Fluid Sink?](./yt--yErJoC5VSQ.md) [https://www.youtube.com/watch?v=-yErJoC5VSQ](https://www.youtube.com/watch?v=-yErJoC5VSQ)
+This question was possibly duplicated with a more recent answer: [July 5th, 2022 Livestream Q&A: Fluid Sink, when?](./yt-59nyJkLeYZA.md) [https://www.youtube.com/watch?v=59nyJkLeYZA](https://www.youtube.com/watch?v=59nyJkLeYZA)
 
 
 ### Topics

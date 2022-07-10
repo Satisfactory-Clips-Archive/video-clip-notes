@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Biomes](../../../topics/environment/biomes.md) > Dune Desert
 
+## July 5th, 2022 Livestream
+* [Q&A: Any hopes for Sarlac pit?](../../../transcriptions/yt-L2aAG6sJiOE.md) [https://www.youtube.com/watch?v=L2aAG6sJiOE](https://www.youtube.com/watch?v=L2aAG6sJiOE)
+
 ## June 14th, 2022 Livestream
 * [Intermission while Lym comes to the rescue](../../../transcriptions/yt-Z6bo0pjYghk,10057.633333333333,10156.242717564744.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=10057&end=10157](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=10057&end=10157)
 

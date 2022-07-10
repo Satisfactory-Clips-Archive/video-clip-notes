@@ -8,7 +8,7 @@ topics:
 # [October 5th, 2021 Livestream](../2021-10-05.md)
 ## Q&A: Server Hosting?
 https://www.youtube.com/watch?v=Cn6M79rc4kE
-This question was possibly duplicated with a more recent answer: [October 27th, 2021 Video Q&A: Are Coffee Stain hosting any official Dedicated Servers?](./yt-Nn-1s87JJxc,433.3996333333333,447.1800666666667.md) [https://youtube.com/clip/UgkxVSEmjxWiXqQepN49VFd6x9gXxVR83VFs](https://youtube.com/clip/UgkxVSEmjxWiXqQepN49VFd6x9gXxVR83VFs)
+This question was possibly duplicated with a more recent answer: [July 5th, 2022 Livestream Q&A: Are you ever planning to host Dedicated Servers at Coffee Stain?](./yt-Bd5nVmytOcM.md) [https://www.youtube.com/watch?v=Bd5nVmytOcM](https://www.youtube.com/watch?v=Bd5nVmytOcM)
 
 
 ### Topics

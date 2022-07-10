@@ -9,11 +9,7 @@ topics:
 # [October 19th, 2021 Livestream](../2021-10-19.md)
 ## Q&A: Any plans in the future for new Machines to make Power?
 https://www.youtube.com/watch?v=nmIwxwjWDp4
-<details>
-<summary>This question may have been asked previously at least 1 other time, as recently as August 2021.</summary>
-
-* [August 31st, 2021 Livestream Q&A: Are you planning on adding more Power Generators?](./yt-xUKGbBoWRtM.md) [https://www.youtube.com/watch?v=xUKGbBoWRtM](https://www.youtube.com/watch?v=xUKGbBoWRtM)
-</details>
+This question was possibly duplicated with a more recent answer: [July 5th, 2022 Livestream Q&A: More Power options?](./yt-f4VpbHVUJk8.md) [https://www.youtube.com/watch?v=f4VpbHVUJk8](https://www.youtube.com/watch?v=f4VpbHVUJk8)
 
 
 ### Topics

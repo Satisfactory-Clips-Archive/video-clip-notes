@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Unplanned Features](../../../topics/features/unplanned-features.md) > Terraforming
 
+## July 5th, 2022 Livestream
+* [Q&A: Will we ever be able to redirect water streams to create rivers?](../../../transcriptions/yt-J_uq0HeEiJ0.md) [https://www.youtube.com/watch?v=J_uq0HeEiJ0](https://www.youtube.com/watch?v=J_uq0HeEiJ0)
+
 ## March 1st, 2022 Livestream
 * [Q&A: Terraforming?](../../../transcriptions/yt-WiOYOVygsJE.md) [https://www.youtube.com/watch?v=WiOYOVygsJE](https://www.youtube.com/watch?v=WiOYOVygsJE)
 

@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Equipment](../../../topics/features/equipment.md) > Jetpack
 
+## July 5th, 2022 Livestream
+* [Q&A: Do you consider the Jetpack/Hover Pack essential to beat the game?](../../../transcriptions/yt-SWdlYvpUhTY.md) [https://www.youtube.com/watch?v=SWdlYvpUhTY](https://www.youtube.com/watch?v=SWdlYvpUhTY)
+* [Q&A: Will Turbofuel be usable for JetPacks?](../../../transcriptions/yt-jQqOPZuB6Qk.md) [https://www.youtube.com/watch?v=jQqOPZuB6Qk](https://www.youtube.com/watch?v=jQqOPZuB6Qk)
+
 ## June 14th, 2022 Livestream
 * [Mark & Snutt Talk: Multiple Body Slots](../../../transcriptions/yt-Z6bo0pjYghk,5384.647315267558,5429.263761.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=5384&end=5430](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=5384&end=5430)
 

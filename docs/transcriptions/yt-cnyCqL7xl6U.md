@@ -8,7 +8,7 @@ topics:
 # [April 27th, 2021 Livestream](../2021-04-27.md)
 ## Q&A: Will there ever be a belt that goes faster, like a Mk.6 one?
 https://www.youtube.com/watch?v=cnyCqL7xl6U
-This question was possibly duplicated with a more recent answer: [June 7th, 2022 Livestream Q&A: Mk.6 Belts or Lifts?](./yt-m1mn9epXrcI.md) [https://www.youtube.com/watch?v=m1mn9epXrcI](https://www.youtube.com/watch?v=m1mn9epXrcI)
+This question was possibly duplicated with a more recent answer: [July 5th, 2022 Livestream Q&A: Will there be Mk.6 Belts?](./yt-teYWjHHxeBU.md) [https://www.youtube.com/watch?v=teYWjHHxeBU](https://www.youtube.com/watch?v=teYWjHHxeBU)
 
 
 ### Topics

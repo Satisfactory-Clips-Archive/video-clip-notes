@@ -8,6 +8,11 @@ date: Last Modified
 * [Skövde](../../topics/off-topic/sweden/skovde.md)
 * [Stockholm](../../topics/off-topic/sweden/stockholm.md)
 
+## July 5th, 2022 Livestream
+* State of Dev [https://www.youtube.com/watch?v=LgKRbZadhyM](https://www.youtube.com/watch?v=LgKRbZadhyM)
+* [Q&A: Will the Stream be affected by the vacation period?](../../transcriptions/yt-Jlc7_epbkMw.md) [https://www.youtube.com/watch?v=Jlc7_epbkMw](https://www.youtube.com/watch?v=Jlc7_epbkMw)
+* [Q&A: Is Summer a pretty popular vacation time in Sweden?](../../transcriptions/yt-JCjsuvpwbPI.md) [https://www.youtube.com/watch?v=JCjsuvpwbPI](https://www.youtube.com/watch?v=JCjsuvpwbPI)
+
 ## June 28th, 2022 Livestream
 * [Snutt & Jace Talk: Midsummer & Swedish Idioms](../../transcriptions/yt-xpEOoN4dkj8.md) [https://www.youtube.com/watch?v=xpEOoN4dkj8](https://www.youtube.com/watch?v=xpEOoN4dkj8)
 * State of Dev [https://www.youtube.com/watch?v=VbnBqMSEsGk](https://www.youtube.com/watch?v=VbnBqMSEsGk)

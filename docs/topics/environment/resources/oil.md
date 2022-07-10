@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Resources](../../../topics/environment/resources.md) > Oil
 
+## July 5th, 2022 Livestream
+* [Q&A: Sulfur is a by-product of Oil products, so maybe an Alternate Recipe?](../../../transcriptions/yt-QOAfdRa2TUE.md) [https://www.youtube.com/watch?v=QOAfdRa2TUE](https://www.youtube.com/watch?v=QOAfdRa2TUE)
+
 ## May 10th, 2022 Livestream
 * [State of Dev](../../../transcriptions/yt-EgDWsvm7ThE.md) [https://www.youtube.com/watch?v=EgDWsvm7ThE](https://www.youtube.com/watch?v=EgDWsvm7ThE)
 * [Hannah talks Spire Coast](../../../transcriptions/yt-FqhboAjAiYY.md) [https://www.youtube.com/watch?v=FqhboAjAiYY](https://www.youtube.com/watch?v=FqhboAjAiYY)

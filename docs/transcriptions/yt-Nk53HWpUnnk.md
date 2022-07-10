@@ -11,7 +11,7 @@ topics:
 # [May 19th, 2020 Livestream](../2020-05-19.md)
 ## Q&A: Do you intended to do planned amount of huge Updates?
 https://www.youtube.com/watch?v=Nk53HWpUnnk
-This question was possibly duplicated with a more recent answer: [June 7th, 2022 Livestream Q&A: When will 1.0 be?](./yt-d2IRgOwEIUY.md) [https://www.youtube.com/watch?v=d2IRgOwEIUY](https://www.youtube.com/watch?v=d2IRgOwEIUY)
+This question was possibly duplicated with a more recent answer: [July 5th, 2022 Livestream Q&A: What year do you think the game will release?](./yt-4jn2kQjiY9Y.md) [https://www.youtube.com/watch?v=4jn2kQjiY9Y](https://www.youtube.com/watch?v=4jn2kQjiY9Y)
 
 
 ### Topics

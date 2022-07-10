@@ -22,6 +22,9 @@ date: Last Modified
 * [Walls](../../topics/features/buildables/walls.md)
 * [Windows](../../topics/features/buildables/windows.md)
 
+## July 5th, 2022 Livestream
+* [Q&A: Any tips on how to increase FPS on large factories?](../../transcriptions/yt-4MxM0N23q-U.md) [https://www.youtube.com/watch?v=4MxM0N23q-U](https://www.youtube.com/watch?v=4MxM0N23q-U)
+
 ## June 28th, 2022 Livestream
 * [Q&A: Will we be able to paint Stackable Pipe Supports?](../../transcriptions/yt-cInLru5-kOA.md) [https://www.youtube.com/watch?v=cInLru5-kOA](https://www.youtube.com/watch?v=cInLru5-kOA)
 

@@ -9,6 +9,8 @@ topics:
 # [April 19th, 2022 Livestream](../2022-04-19.md)
 ## Q&A: When will you add episode 2 on the Podcast?
 https://www.youtube.com/watch?v=g57nuSoIYnw
+This question was possibly duplicated with a more recent answer: [July 5th, 2022 Livestream Q&A: When is your next Final Fantasy podcast?](./yt-8-TdFU3iRUo.md) [https://www.youtube.com/watch?v=8-TdFU3iRUo](https://www.youtube.com/watch?v=8-TdFU3iRUo)
+
 
 ### Topics
 * [Features > Requested Features](../topics/features/requested-features.md)

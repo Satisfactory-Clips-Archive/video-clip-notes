@@ -8,7 +8,7 @@ topics:
 # [May 18th, 2021 Livestream](../2021-05-18.md)
 ## Q&A: Who is the voice actor for ADA?
 https://www.youtube.com/watch?v=pDGX-8_vTW0
-This question was possibly duplicated with a more recent answer: [November 16th, 2021 Livestream Q&A: Who is the voice for ADA?](./yt-5_yx7QQx9HU.md) [https://www.youtube.com/watch?v=5_yx7QQx9HU](https://www.youtube.com/watch?v=5_yx7QQx9HU)
+This question was possibly duplicated with a more recent answer: [July 5th, 2022 Livestream Q&A: Why does ADA sound like the Seattle light rail?](./yt-HUoOTOQ--Qk.md) [https://www.youtube.com/watch?v=HUoOTOQ--Qk](https://www.youtube.com/watch?v=HUoOTOQ--Qk)
 
 
 ### Topics

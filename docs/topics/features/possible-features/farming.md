@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > Possible Features > Farming
 
+## July 5th, 2022 Livestream
+* [Q&A: Any plans to automate Biofuel like with Fabric?](../../../transcriptions/yt-egeMfFZ2lSs.md) [https://www.youtube.com/watch?v=egeMfFZ2lSs](https://www.youtube.com/watch?v=egeMfFZ2lSs)
+* [Q&A: Have rain regrow Biomass?](../../../transcriptions/yt-6t1TZRz0NL0.md) [https://www.youtube.com/watch?v=6t1TZRz0NL0](https://www.youtube.com/watch?v=6t1TZRz0NL0)
+
 ## May 3rd, 2022 Livestream
 * [Q&A: Will we be able to capture wild beasts & farm them for milk & eggs?](../../../transcriptions/yt-1-qnuaEigs8.md) [https://www.youtube.com/watch?v=1-qnuaEigs8](https://www.youtube.com/watch?v=1-qnuaEigs8)
 * [Community FYI: Flying Crab milk](../../../transcriptions/yt-dUqjY-TtRuk.md) [https://www.youtube.com/watch?v=dUqjY-TtRuk](https://www.youtube.com/watch?v=dUqjY-TtRuk)

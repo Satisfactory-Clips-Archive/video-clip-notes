@@ -25,6 +25,9 @@ date: Last Modified
 * [The Lord of the Rings](../topics/off-topic/the-lord-of-the-rings.md)
 * [Valheim](../topics/off-topic/valheim.md)
 
+## July 5th, 2022 Livestream
+* [Community FYI: Stop advertising other games in the stream or you will be fired](../transcriptions/yt-6XlGsx1P76g.md) [https://www.youtube.com/watch?v=6XlGsx1P76g](https://www.youtube.com/watch?v=6XlGsx1P76g)
+
 ## April 19th, 2022 Livestream
 * [Community FYI: There's a co-op achievement for dunking your partner in the pools of toxic goop](../transcriptions/yt-EVORRjnmH-8.md) [https://www.youtube.com/watch?v=EVORRjnmH-8](https://www.youtube.com/watch?v=EVORRjnmH-8)
 

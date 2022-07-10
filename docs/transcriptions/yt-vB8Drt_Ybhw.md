@@ -9,7 +9,7 @@ topics:
 # [March 30th, 2021 Livestream](../2021-03-30.md)
 ## Q&A: Can we finally sleep in the HUB?
 https://www.youtube.com/watch?v=vB8Drt_Ybhw
-This question was possibly duplicated with a more recent answer: [May 4th, 2021 Livestream Q&A: Can we use beds to sleep overnight?](./yt-84Mwit3dmQk.md) [https://www.youtube.com/watch?v=84Mwit3dmQk](https://www.youtube.com/watch?v=84Mwit3dmQk)
+This question was possibly duplicated with a more recent answer: [July 5th, 2022 Livestream Q&A: Will there ever be a sleep option?](./yt-I-wckc7yt1M.md) [https://www.youtube.com/watch?v=I-wckc7yt1M](https://www.youtube.com/watch?v=I-wckc7yt1M)
 
 
 ### Topics

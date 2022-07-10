@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Story & Lore](../../../topics/story-and-lore.md) > Characters > ADA
 
+## July 5th, 2022 Livestream
+* [Q&A: Will there be more ADA voice lines?](../../../transcriptions/yt-iaZhOVyTNco.md) [https://www.youtube.com/watch?v=iaZhOVyTNco](https://www.youtube.com/watch?v=iaZhOVyTNco)
+* [Q&A: Why does ADA sound like the Seattle light rail?](../../../transcriptions/yt-HUoOTOQ--Qk.md) [https://www.youtube.com/watch?v=HUoOTOQ--Qk](https://www.youtube.com/watch?v=HUoOTOQ--Qk)
+
 ## November 16th, 2021 Livestream
 * [Q&A: Who is the voice for ADA?](../../../transcriptions/yt-5_yx7QQx9HU.md) [https://www.youtube.com/watch?v=5_yx7QQx9HU](https://www.youtube.com/watch?v=5_yx7QQx9HU)
 * [Q&A: Please do a voice for Pirate English?](../../../transcriptions/yt-5kAcisPqt4Y.md) [https://www.youtube.com/watch?v=5kAcisPqt4Y](https://www.youtube.com/watch?v=5kAcisPqt4Y)

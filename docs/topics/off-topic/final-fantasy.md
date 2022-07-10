@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Final Fantasy
 * [The Official Satisfactory PODCAST](../../topics/off-topic/final-fantasy/the-official-satisfactory-podcast.md)
 
+## July 5th, 2022 Livestream
+* [Q&A: When is your next Final Fantasy podcast?](../../transcriptions/yt-8-TdFU3iRUo.md) [https://www.youtube.com/watch?v=8-TdFU3iRUo](https://www.youtube.com/watch?v=8-TdFU3iRUo)
+
 ## June 28th, 2022 Livestream
 * [Q&A: Will there be Final Fantasy DLC?](../../transcriptions/yt-Y-U0wGXi5D4.md) [https://www.youtube.com/watch?v=Y-U0wGXi5D4](https://www.youtube.com/watch?v=Y-U0wGXi5D4)
 * [Q&A: Can we play as Cloud in Satisfactory?](../../transcriptions/yt-_Ew77Qy6LiI.md) [https://www.youtube.com/watch?v=_Ew77Qy6LiI](https://www.youtube.com/watch?v=_Ew77Qy6LiI)

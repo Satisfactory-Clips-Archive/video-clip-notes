@@ -14,6 +14,9 @@ date: Last Modified
 * [User Interface](../topics/technology/user-interface.md)
 * [Vulkan](../topics/technology/vulkan.md)
 
+## July 5th, 2022 Livestream
+* [Q&A: Will the game run on more than one CPU?](../transcriptions/yt-_KZ7iwEuEvM.md) [https://www.youtube.com/watch?v=_KZ7iwEuEvM](https://www.youtube.com/watch?v=_KZ7iwEuEvM)
+
 ## June 28th, 2022 Livestream
 * [Q&A: What's the thread count?](../transcriptions/yt-5kII-BnoimY.md) [https://www.youtube.com/watch?v=5kII-BnoimY](https://www.youtube.com/watch?v=5kII-BnoimY)
 

@@ -8,7 +8,7 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Will Story need a new Save File?
 https://www.youtube.com/watch?v=zrHzxTVBc3w
-This question was possibly duplicated with a more recent answer: [July 20th, 2021 Livestream Q&A: Can we do the Story with an existing 500-hour factory or do we have to start from scratch?](./yt-z9tjeFkYXAY.md) [https://www.youtube.com/watch?v=z9tjeFkYXAY](https://www.youtube.com/watch?v=z9tjeFkYXAY)
+This question was possibly duplicated with a more recent answer: [July 5th, 2022 Livestream Q&A: Will we need to play from the start when 1.0 hits?](./yt-_mN45-Fc7G0.md) [https://www.youtube.com/watch?v=_mN45-Fc7G0](https://www.youtube.com/watch?v=_mN45-Fc7G0)
 
 
 ### Topics

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > Transportation > Hyper Tubes
 
+## July 5th, 2022 Livestream
+* [Q&A: Do you consider the Jetpack/Hover Pack essential to beat the game?](../../../transcriptions/yt-SWdlYvpUhTY.md) [https://www.youtube.com/watch?v=SWdlYvpUhTY](https://www.youtube.com/watch?v=SWdlYvpUhTY)
+
 ## May 3rd, 2022 Livestream
 * [Q&A: How do the shoes make it out of the Hyper Tube while travelling?](../../../transcriptions/yt-IAQE_SZ_Sd4.md) [https://www.youtube.com/watch?v=IAQE_SZ_Sd4](https://www.youtube.com/watch?v=IAQE_SZ_Sd4)
 * [Q&A: Are you making any changes that might impact the Hyper Tube cannons?](../../../transcriptions/yt-itcpnj8i8EA.md) [https://www.youtube.com/watch?v=itcpnj8i8EA](https://www.youtube.com/watch?v=itcpnj8i8EA)

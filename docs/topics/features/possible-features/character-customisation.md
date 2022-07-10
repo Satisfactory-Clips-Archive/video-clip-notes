@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > Possible Features > Character Customisation
 
+## July 5th, 2022 Livestream
+* [Q&A: Pioneer customisation could be cool?](../../../transcriptions/yt-9eYG1DFVnpU.md) [https://www.youtube.com/watch?v=9eYG1DFVnpU](https://www.youtube.com/watch?v=9eYG1DFVnpU)
+
 ## June 28th, 2022 Livestream
 * [Q&A: Character Customisation?](../../../transcriptions/yt-hjK_w2ScysQ.md) [https://www.youtube.com/watch?v=hjK_w2ScysQ](https://www.youtube.com/watch?v=hjK_w2ScysQ)
 * [Q&A: Can we play as Cloud in Satisfactory?](../../../transcriptions/yt-_Ew77Qy6LiI.md) [https://www.youtube.com/watch?v=_Ew77Qy6LiI](https://www.youtube.com/watch?v=_Ew77Qy6LiI)

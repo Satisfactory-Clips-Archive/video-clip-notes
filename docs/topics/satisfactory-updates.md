@@ -18,6 +18,10 @@ date: Last Modified
 * [Teasers & Trailers](../topics/satisfactory-updates/teasers-and-trailers.md)
 * [World Update](../topics/satisfactory-updates/world-update.md)
 
+## July 5th, 2022 Livestream
+* [Q&A: Will the alt Nuclear Fuel be part of the next Update?](../transcriptions/yt-MrPbasBXKEQ.md) [https://www.youtube.com/watch?v=MrPbasBXKEQ](https://www.youtube.com/watch?v=MrPbasBXKEQ)
+* Snutt & Jace Talk: Resources in Spire Coast [https://www.youtube.com/watch?v=G14AvMQYcNk](https://www.youtube.com/watch?v=G14AvMQYcNk)
+
 ## June 7th, 2022 Livestream
 * [State of Dev](../transcriptions/yt-Hk3kvpq7Ofo.md) [https://www.youtube.com/watch?v=Hk3kvpq7Ofo](https://www.youtube.com/watch?v=Hk3kvpq7Ofo)
 * [Q&A: Does that mean we shouldn't expect any Content Patches after 1.0?](../transcriptions/yt-R5Xnr4KSXdY.md) [https://www.youtube.com/watch?v=R5Xnr4KSXdY](https://www.youtube.com/watch?v=R5Xnr4KSXdY)

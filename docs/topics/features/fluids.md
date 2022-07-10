@@ -8,6 +8,9 @@ date: Last Modified
 * [Pumps](../../topics/features/fluids/pumps.md)
 * [Valves](../../topics/features/fluids/valves.md)
 
+## July 5th, 2022 Livestream
+* [Q&A: Fluid Sink, when?](../../transcriptions/yt-59nyJkLeYZA.md) [https://www.youtube.com/watch?v=59nyJkLeYZA](https://www.youtube.com/watch?v=59nyJkLeYZA)
+
 ## May 24th, 2022 Livestream
 * [Q&A: Are Fluids going to get reworked?](../../transcriptions/yt-nTp7V3squaU.md) [https://www.youtube.com/watch?v=nTp7V3squaU](https://www.youtube.com/watch?v=nTp7V3squaU)
 
