@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Embracer Group](../../../topics/embracer-group.md) > Coffee Stain Holding > Coffee Stain Studios
 
+## July 8th, 2022 Video
+* [Snutt Talk: Approaching vacation period in Sweden](../../../transcriptions/yt-yr5pOsZC_mA,1.9019,25.792433333333335.md) [https://youtube.com/embed/yr5pOsZC_mA?autoplay=1&start=1&end=26](https://youtube.com/embed/yr5pOsZC_mA?autoplay=1&start=1&end=26)
+* [Snutt Talk: Coffee Stainers going on vacation](../../../transcriptions/yt-yr5pOsZC_mA,84.93221534926472,124.99153333333334.md) [https://youtube.com/embed/yr5pOsZC_mA?autoplay=1&start=84&end=125](https://youtube.com/embed/yr5pOsZC_mA?autoplay=1&start=84&end=125)
+
 ## July 5th, 2022 Livestream
 * State of Dev [https://www.youtube.com/watch?v=LgKRbZadhyM](https://www.youtube.com/watch?v=LgKRbZadhyM)
 * [Q&A: Are you ever planning to host Dedicated Servers at Coffee Stain?](../../../transcriptions/yt-Bd5nVmytOcM.md) [https://www.youtube.com/watch?v=Bd5nVmytOcM](https://www.youtube.com/watch?v=Bd5nVmytOcM)

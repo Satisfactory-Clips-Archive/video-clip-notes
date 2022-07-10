@@ -41,6 +41,9 @@ date: Last Modified
 * [Torsten](../topics/coffee-stainers/torsten.md)
 * [Uzu](../topics/coffee-stainers/uzu.md)
 
+## July 8th, 2022 Video
+* [Snutt Talk: Coffee Stainers going on vacation](../transcriptions/yt-yr5pOsZC_mA,84.93221534926472,124.99153333333334.md) [https://youtube.com/embed/yr5pOsZC_mA?autoplay=1&start=84&end=125](https://youtube.com/embed/yr5pOsZC_mA?autoplay=1&start=84&end=125)
+
 ## July 5th, 2022 Livestream
 * State of Dev [https://www.youtube.com/watch?v=LgKRbZadhyM](https://www.youtube.com/watch?v=LgKRbZadhyM)
 

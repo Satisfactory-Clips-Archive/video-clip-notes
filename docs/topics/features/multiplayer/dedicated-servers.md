@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Multiplayer](../../../topics/features/multiplayer.md) > Dedicated Servers
 
+## July 8th, 2022 Video
+* [Snutt Talk: Dedicated Servers](../../../transcriptions/yt-yr5pOsZC_mA,160.3602,244.67776666666668.md) [https://youtube.com/embed/yr5pOsZC_mA?autoplay=1&start=160&end=245](https://youtube.com/embed/yr5pOsZC_mA?autoplay=1&start=160&end=245)
+
 ## July 5th, 2022 Livestream
 * State of Dev [https://www.youtube.com/watch?v=LgKRbZadhyM](https://www.youtube.com/watch?v=LgKRbZadhyM)
 * [Q&A: Are you ever planning to host Dedicated Servers at Coffee Stain?](../../../transcriptions/yt-Bd5nVmytOcM.md) [https://www.youtube.com/watch?v=Bd5nVmytOcM](https://www.youtube.com/watch?v=Bd5nVmytOcM)

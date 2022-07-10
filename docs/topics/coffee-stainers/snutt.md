@@ -8,6 +8,9 @@ date: Last Modified
 * [Snutt Burger Time](../../topics/coffee-stainers/snutt/snutt-burger-time.md)
 * [Snutty Mays](../../topics/coffee-stainers/snutt/snutty-mays.md)
 
+## July 8th, 2022 Video
+* [Snutt Talk: Snuttcation](../../transcriptions/yt-yr5pOsZC_mA,244.71113333333335,264.59766666666667.md) [https://youtube.com/embed/yr5pOsZC_mA?autoplay=1&start=244&end=265](https://youtube.com/embed/yr5pOsZC_mA?autoplay=1&start=244&end=265)
+
 ## July 5th, 2022 Livestream
 * Q&A: Video this week? [https://www.youtube.com/watch?v=JETjhGKrVmw](https://www.youtube.com/watch?v=JETjhGKrVmw)
 * [Snutt Talk: Snutt Looks At Comments song](../../transcriptions/yt-vztYpHDX9uc.md) [https://www.youtube.com/watch?v=vztYpHDX9uc](https://www.youtube.com/watch?v=vztYpHDX9uc)

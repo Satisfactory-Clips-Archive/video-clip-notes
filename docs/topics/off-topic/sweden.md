@@ -8,6 +8,9 @@ date: Last Modified
 * [Skövde](../../topics/off-topic/sweden/skovde.md)
 * [Stockholm](../../topics/off-topic/sweden/stockholm.md)
 
+## July 8th, 2022 Video
+* [Snutt Talk: Approaching vacation period in Sweden](../../transcriptions/yt-yr5pOsZC_mA,1.9019,25.792433333333335.md) [https://youtube.com/embed/yr5pOsZC_mA?autoplay=1&start=1&end=26](https://youtube.com/embed/yr5pOsZC_mA?autoplay=1&start=1&end=26)
+
 ## July 5th, 2022 Livestream
 * State of Dev [https://www.youtube.com/watch?v=LgKRbZadhyM](https://www.youtube.com/watch?v=LgKRbZadhyM)
 * [Q&A: Will the Stream be affected by the vacation period?](../../transcriptions/yt-Jlc7_epbkMw.md) [https://www.youtube.com/watch?v=Jlc7_epbkMw](https://www.youtube.com/watch?v=Jlc7_epbkMw)
