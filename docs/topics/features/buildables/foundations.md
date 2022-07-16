@@ -7,6 +7,12 @@ date: Last Modified
 * [Cheatcrete](../../../topics/features/buildables/foundations/cheatcrete.md)
 * [Foundation Stencils](../../../topics/features/buildables/foundations/stencils.md)
 
+## July 12th, 2022 Livestream
+* [Q&A: Can we get half/circle Foundations & Walls?](../../../transcriptions/yt-_MhOphjRSWc.md) [https://www.youtube.com/watch?v=_MhOphjRSWc](https://www.youtube.com/watch?v=_MhOphjRSWc)
+* Q&A: Can we expect a fix for the Glass Foundations & Windows some day? [https://www.youtube.com/watch?v=67AkkFFwmaY](https://www.youtube.com/watch?v=67AkkFFwmaY)
+* [Q&A: Any plans to fix how Vehicles are done when driving on any Foundation surface?](../../../transcriptions/yt-vQjRcLqrXUM.md) [https://www.youtube.com/watch?v=vQjRcLqrXUM](https://www.youtube.com/watch?v=vQjRcLqrXUM)
+* [Q&A: Any internal discussion on changing the default Foundation type?](../../../transcriptions/yt-QDFmSwb_cOE.md) [https://www.youtube.com/watch?v=QDFmSwb_cOE](https://www.youtube.com/watch?v=QDFmSwb_cOE)
+
 ## May 17th, 2022 Livestream
 * [Q&A: Fixing quarter-pipe Foundations so we can use Materials?](../../../transcriptions/yt-abVIIFQdQ9M.md) [https://www.youtube.com/watch?v=abVIIFQdQ9M](https://www.youtube.com/watch?v=abVIIFQdQ9M)
 

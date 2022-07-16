@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Pending](../../../topics/satisfactory-updates/pending.md) > Satisfactory 1.0
 
+## July 12th, 2022 Livestream
+* [Q&A: S.A.M. Ore / Somersloops still a 1.0 thing?](../../../transcriptions/yt-VcxNT6rHrG0.md) [https://www.youtube.com/watch?v=VcxNT6rHrG0](https://www.youtube.com/watch?v=VcxNT6rHrG0)
+* [Q&A: When can we get to the Food Court?](../../../transcriptions/yt-bnCpPWG1CiY.md) [https://www.youtube.com/watch?v=bnCpPWG1CiY](https://www.youtube.com/watch?v=bnCpPWG1CiY)
+* Q&A: Full release been talked about at all internally? [https://www.youtube.com/watch?v=0A8S19qIcPs](https://www.youtube.com/watch?v=0A8S19qIcPs)
+
 ## July 5th, 2022 Livestream
 * [Q&A: Will there be Achievements for 1.0?](../../../transcriptions/yt-DRVyx1w9oNc.md) [https://www.youtube.com/watch?v=DRVyx1w9oNc](https://www.youtube.com/watch?v=DRVyx1w9oNc)
 * [Q&A: Will you add stuff after 1.0?](../../../transcriptions/yt-yqVC6fYnsOQ.md) [https://www.youtube.com/watch?v=yqVC6fYnsOQ](https://www.youtube.com/watch?v=yqVC6fYnsOQ)

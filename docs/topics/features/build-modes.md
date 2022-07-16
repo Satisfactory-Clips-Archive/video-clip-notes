@@ -8,6 +8,9 @@ date: Last Modified
 * [Quick Switch](../../topics/features/build-modes/quick-switch.md)
 * [Zooping](../../topics/features/build-modes/zooping.md)
 
+## July 12th, 2022 Livestream
+* [Q&A: Of all the things you've coded into the game what are you most proud of?](../../transcriptions/yt-kWGtntaPlYg.md) [https://www.youtube.com/watch?v=kWGtntaPlYg](https://www.youtube.com/watch?v=kWGtntaPlYg)
+
 ## June 14th, 2022 Livestream
 * [Birk & Snutt Talk: Remote Copy & Paste](../../transcriptions/yt-Z6bo0pjYghk,12349.200313,12408.3994536901.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=12349&end=12409](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=12349&end=12409)
 

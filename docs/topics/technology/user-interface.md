@@ -9,6 +9,12 @@ date: Last Modified
 * [Ping](../../topics/technology/user-interface/ping.md)
 * [Stamps](../../topics/technology/user-interface/stamps.md)
 
+## July 12th, 2022 Livestream
+* [Q&A: Any chance the Map will be able to show our Buildings?](../../transcriptions/yt-lknPhTGxh_4.md) [https://www.youtube.com/watch?v=lknPhTGxh_4](https://www.youtube.com/watch?v=lknPhTGxh_4)
+* [Q&A: What is something you want to have with the game?](../../transcriptions/yt-pFRFB1e7C9E.md) [https://www.youtube.com/watch?v=pFRFB1e7C9E](https://www.youtube.com/watch?v=pFRFB1e7C9E)
+* [Q&A: Do Pipe Junctions snap to guidelines when placing vertically?](../../transcriptions/yt-_Tt_qQfluwE.md) [https://www.youtube.com/watch?v=_Tt_qQfluwE](https://www.youtube.com/watch?v=_Tt_qQfluwE)
+* Q&A: Is there a way to open the to-do list directly? [https://www.youtube.com/watch?v=YQzXwJvgVCg](https://www.youtube.com/watch?v=YQzXwJvgVCg)
+
 ## July 5th, 2022 Livestream
 * [Q&A: Planning production in the game?](../../transcriptions/yt-uaMBc6ULZ5c.md) [https://www.youtube.com/watch?v=uaMBc6ULZ5c](https://www.youtube.com/watch?v=uaMBc6ULZ5c)
 * Q&A: Any chance to copy & paste whole Buildings? [https://www.youtube.com/watch?v=sa23ydDZPzs](https://www.youtube.com/watch?v=sa23ydDZPzs)

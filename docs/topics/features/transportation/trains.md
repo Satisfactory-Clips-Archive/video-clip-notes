@@ -6,6 +6,10 @@ date: Last Modified
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > Transportation > Trains
 * [Train Signals](../../../topics/features/transportation/trains/train-signals.md)
 
+## July 12th, 2022 Livestream
+* [Q&A: Train can be real loud & can't be turned down?](../../../transcriptions/yt-trhYk5yGdkA.md) [https://www.youtube.com/watch?v=trhYk5yGdkA](https://www.youtube.com/watch?v=trhYk5yGdkA)
+* Q&A: Did the Trains have headlights before or was it always like this? [https://www.youtube.com/watch?v=20hcYzpOnYQ](https://www.youtube.com/watch?v=20hcYzpOnYQ)
+
 ## July 5th, 2022 Livestream
 * Q&A: Option to filter or limit what items go in a Train Car? [https://www.youtube.com/watch?v=_Bb65dQHTtM](https://www.youtube.com/watch?v=_Bb65dQHTtM)
 * [Q&A: Any plans for Zoopable straight Train Tracks?](../../../transcriptions/yt-Zcp6cK14ixA.md) [https://www.youtube.com/watch?v=Zcp6cK14ixA](https://www.youtube.com/watch?v=Zcp6cK14ixA)

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Equipment](../../../topics/features/equipment.md) > Customizer
 
+## July 12th, 2022 Livestream
+* [Q&A: Do you guys have plans to add additional custom swatches?](../../../transcriptions/yt-vEty9CjTG9s.md) [https://www.youtube.com/watch?v=vEty9CjTG9s](https://www.youtube.com/watch?v=vEty9CjTG9s)
+
 ## June 28th, 2022 Livestream
 * Q&A: Can we get a cover of the Customizer theme song? [https://www.youtube.com/watch?v=YImL780rHD4](https://www.youtube.com/watch?v=YImL780rHD4)
 * [Q&A: Will we be able to paint Stackable Pipe Supports?](../../../transcriptions/yt-cInLru5-kOA.md) [https://www.youtube.com/watch?v=cInLru5-kOA](https://www.youtube.com/watch?v=cInLru5-kOA)

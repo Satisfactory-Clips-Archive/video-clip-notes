@@ -10,6 +10,16 @@ date: Last Modified
 * [Non Flying Bird](../../topics/environment/creatures/non-flying-bird.md)
 * [Space Giraffe-Tick-Penguin-Whale Thing](../../topics/environment/creatures/space-giraffe-tick-penguin-whale-thing.md)
 
+## July 12th, 2022 Livestream
+* [State of Vacation](../../transcriptions/yt-p-5N0u4DqL0.md) [https://www.youtube.com/watch?v=p-5N0u4DqL0](https://www.youtube.com/watch?v=p-5N0u4DqL0)
+* [Q&A: Can we have fishing?](../../transcriptions/yt-kzzGQhtiny8.md) [https://www.youtube.com/watch?v=kzzGQhtiny8](https://www.youtube.com/watch?v=kzzGQhtiny8)
+* [Q&A: What happened to all the fish?](../../transcriptions/yt-wtqckJMuDM4.md) [https://www.youtube.com/watch?v=wtqckJMuDM4](https://www.youtube.com/watch?v=wtqckJMuDM4)
+* Q&A: Stun Spitters and put on Observation Towers as turrents, when? [https://www.youtube.com/watch?v=4YsojB22Vt8](https://www.youtube.com/watch?v=4YsojB22Vt8)
+* Q&A: Who made the Stingers and why haven't they been fired yet? [https://www.youtube.com/watch?v=w6W7UC6T8ys](https://www.youtube.com/watch?v=w6W7UC6T8ys)
+* [Q&A: When do you add the ability to ride the animals like Dino Rider?](../../transcriptions/yt-sDRMjbtHeGM.md) [https://www.youtube.com/watch?v=sDRMjbtHeGM](https://www.youtube.com/watch?v=sDRMjbtHeGM)
+* [Q&A: Any news on game crashing on melee kill of Spitters?](../../transcriptions/yt-AVd3FMTNpc4.md) [https://www.youtube.com/watch?v=AVd3FMTNpc4](https://www.youtube.com/watch?v=AVd3FMTNpc4)
+* [Q&A: Why was the Sanctum Easter Egg removed?](../../transcriptions/yt-XLZxwakPjRE.md) [https://www.youtube.com/watch?v=XLZxwakPjRE](https://www.youtube.com/watch?v=XLZxwakPjRE)
+
 ## July 5th, 2022 Livestream
 * [Q&A: Can we lure a Hog to another part of the Map and trap it there?](../../transcriptions/yt-obf7z_HzA7Y.md) [https://www.youtube.com/watch?v=obf7z_HzA7Y](https://www.youtube.com/watch?v=obf7z_HzA7Y)
 

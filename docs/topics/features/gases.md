@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Features](../../topics/features.md) > Gases
 
+## July 12th, 2022 Livestream
+* [Q&A: Gas Pillars harvestable as a Resource, when?](../../transcriptions/yt-LyvW1dRpHdU.md) [https://www.youtube.com/watch?v=LyvW1dRpHdU](https://www.youtube.com/watch?v=LyvW1dRpHdU)
+
 ## June 7th, 2022 Livestream
 * [Q&A: Will Nukes use Waste?](../../transcriptions/yt-Z2ncq57UyC0.md) [https://www.youtube.com/watch?v=Z2ncq57UyC0](https://www.youtube.com/watch?v=Z2ncq57UyC0)
 

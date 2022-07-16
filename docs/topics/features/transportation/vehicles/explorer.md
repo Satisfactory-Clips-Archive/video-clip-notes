@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > Transportation > [Vehicles](../../../../topics/features/transportation/vehicles.md) > Explorer
 
+## July 12th, 2022 Livestream
+* [Q&A: Explorer mini-gun?](../../../../transcriptions/yt-onX6FMFubIE.md) [https://www.youtube.com/watch?v=onX6FMFubIE](https://www.youtube.com/watch?v=onX6FMFubIE)
+
 ## May 24th, 2022 Livestream
 * [Snutt & Jace Talk: Explorer parking quirks](../../../../transcriptions/yt-G-7U-KzevoE.md) [https://www.youtube.com/watch?v=G-7U-KzevoE](https://www.youtube.com/watch?v=G-7U-KzevoE)
 

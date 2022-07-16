@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Equipment](../../../topics/features/equipment.md) > Nobelisk
 * [Nobelisk Detonator](../../../topics/features/equipment/nobelisk/detonator.md)
 
+## July 12th, 2022 Livestream
+* [Q&A: Have you ever thought of making Alt Recipes for the Nuclear Nobelisk that use Plutonium Cells?](../../../transcriptions/yt-aOai0WNLPDo.md) [https://www.youtube.com/watch?v=aOai0WNLPDo](https://www.youtube.com/watch?v=aOai0WNLPDo)
+
 ## July 5th, 2022 Livestream
 * [Q&A: Images in the works for the new Nobelisk ammo?](../../../transcriptions/yt-TWc5s3i4CMw.md) [https://www.youtube.com/watch?v=TWc5s3i4CMw](https://www.youtube.com/watch?v=TWc5s3i4CMw)
 * [Q&A: Gas Nobelisk Recipe change?](../../../transcriptions/yt-fQLQ7tDz6Mw.md) [https://www.youtube.com/watch?v=fQLQ7tDz6Mw](https://www.youtube.com/watch?v=fQLQ7tDz6Mw)

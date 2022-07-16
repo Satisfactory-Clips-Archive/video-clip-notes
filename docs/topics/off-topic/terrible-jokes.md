@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Terrible Jokes
 
+## July 12th, 2022 Livestream
+* [Q&A: Possibility the smaller spires can be destroyed?](../../transcriptions/yt-xcyJe-_BlNc.md) [https://www.youtube.com/watch?v=xcyJe-_BlNc](https://www.youtube.com/watch?v=xcyJe-_BlNc)
+
 ## May 20th, 2022 Video
 * [Nuke Nobelisk](../../transcriptions/yt-QYMHs1aTyOs,699.6333333333333,807.2166666666667.md) [https://youtube.com/embed/QYMHs1aTyOs?autoplay=1&start=699&end=808](https://youtube.com/embed/QYMHs1aTyOs?autoplay=1&start=699&end=808)
 

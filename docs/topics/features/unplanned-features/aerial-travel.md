@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Unplanned Features](../../../topics/features/unplanned-features.md) > Aerial Travel
 
+## July 12th, 2022 Livestream
+* [Q&A: Planes confirmed?](../../../transcriptions/yt-yj3e5hpBKNQ.md) [https://www.youtube.com/watch?v=yj3e5hpBKNQ](https://www.youtube.com/watch?v=yj3e5hpBKNQ)
+
 ## March 1st, 2022 Livestream
 * [Q&A: I'd like to see a mini-helicopter for the late game?](../../../transcriptions/yt-RUeyipJT38A.md) [https://www.youtube.com/watch?v=RUeyipJT38A](https://www.youtube.com/watch?v=RUeyipJT38A)
 

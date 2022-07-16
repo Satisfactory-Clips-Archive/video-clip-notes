@@ -8,7 +8,7 @@ topics:
 # [May 25th, 2021 Livestream](../2021-05-25.md)
 ## Q&A: Can you add Mk.3 Pipes?
 https://www.youtube.com/watch?v=G3EjiEP-6iU
-This question was possibly duplicated with a more recent answer: [June 7th, 2022 Livestream Q&A: Mk.3 Pipes?](./yt-8nkuQhlSKfU.md) [https://www.youtube.com/watch?v=8nkuQhlSKfU](https://www.youtube.com/watch?v=8nkuQhlSKfU)
+This question was possibly duplicated with a more recent answer: [July 12th, 2022 Livestream Q&A: Tier 3 Pipes, please?](./yt-OSg5XUXzm6Q.md) [https://www.youtube.com/watch?v=OSg5XUXzm6Q](https://www.youtube.com/watch?v=OSg5XUXzm6Q)
 
 
 ### Topics

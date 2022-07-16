@@ -9,6 +9,11 @@ date: Last Modified
 * [Ray Tracing](../../topics/technology/graphics/ray-tracing.md)
 * [Ultrawide Monitors](../../topics/technology/graphics/ultrawide-monitors.md)
 
+## July 12th, 2022 Livestream
+* [Q&A: Z-fighting?](../../transcriptions/yt-FX84LpxZoes.md) [https://www.youtube.com/watch?v=FX84LpxZoes](https://www.youtube.com/watch?v=FX84LpxZoes)
+* Q&A: Can we expect a fix for the Glass Foundations & Windows some day? [https://www.youtube.com/watch?v=67AkkFFwmaY](https://www.youtube.com/watch?v=67AkkFFwmaY)
+* [Q&A: Volumetric fog in the morning, when?](../../transcriptions/yt-LAtm9YH43-U.md) [https://www.youtube.com/watch?v=LAtm9YH43-U](https://www.youtube.com/watch?v=LAtm9YH43-U)
+
 ## June 14th, 2022 Livestream
 * [Tobias, Etienne, & Snutt Talk: New Atmosphere system (Part 1)](../../transcriptions/yt-Z6bo0pjYghk,6898.664301,6925.322579.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=6898&end=6926](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=6898&end=6926)
 * [Ben, Dylan, Simon, & Snutt Talk: New Atmosphere system (Part 2)](../../transcriptions/yt-Z6bo0pjYghk,8127.107961730213,8276.579761613913.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=8127&end=8277](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=8127&end=8277)

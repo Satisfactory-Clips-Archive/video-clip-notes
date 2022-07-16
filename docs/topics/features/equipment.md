@@ -22,6 +22,9 @@ date: Last Modified
 * [Xeno-Zapper](../../topics/features/equipment/xeno-zapper.md)
 * [Zip Lines](../../topics/features/equipment/zip-lines.md)
 
+## July 12th, 2022 Livestream
+* [Q&A: Explorer mini-gun?](../../transcriptions/yt-onX6FMFubIE.md) [https://www.youtube.com/watch?v=onX6FMFubIE](https://www.youtube.com/watch?v=onX6FMFubIE)
+
 ## July 5th, 2022 Livestream
 * [Q&A: Weapon skins, when?](../../transcriptions/yt-OTb5xKJEnZk.md) [https://www.youtube.com/watch?v=OTb5xKJEnZk](https://www.youtube.com/watch?v=OTb5xKJEnZk)
 

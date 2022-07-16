@@ -9,7 +9,7 @@ topics:
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: Will there be a Snow Biome?
 https://www.youtube.com/watch?v=iyhdKRg1b0A
-This question was possibly duplicated with a more recent answer: [September 28th, 2021 Livestream Q&A: Like arctic mountain?](./yt-XFlDDGJ4Vx0.md) [https://www.youtube.com/watch?v=XFlDDGJ4Vx0](https://www.youtube.com/watch?v=XFlDDGJ4Vx0)
+This question was possibly duplicated with a more recent answer: [July 12th, 2022 Livestream Q&A: When do we get the next Ice Biome?](./yt-I_JT2xkr4Q0.md) [https://www.youtube.com/watch?v=I_JT2xkr4Q0](https://www.youtube.com/watch?v=I_JT2xkr4Q0)
 
 
 ### Topics

@@ -11,6 +11,10 @@ date: Last Modified
 * [Resources](../topics/environment/resources.md)
 * [World Map](../topics/environment/world-map.md)
 
+## July 12th, 2022 Livestream
+* [Q&A: Possibility the smaller spires can be destroyed?](../transcriptions/yt-xcyJe-_BlNc.md) [https://www.youtube.com/watch?v=xcyJe-_BlNc](https://www.youtube.com/watch?v=xcyJe-_BlNc)
+* [Q&A: Gas Pillars harvestable as a Resource, when?](../transcriptions/yt-LyvW1dRpHdU.md) [https://www.youtube.com/watch?v=LyvW1dRpHdU](https://www.youtube.com/watch?v=LyvW1dRpHdU)
+
 ## July 5th, 2022 Livestream
 * [Q&A: Can we lure a Hog to another part of the Map and trap it there?](../transcriptions/yt-obf7z_HzA7Y.md) [https://www.youtube.com/watch?v=obf7z_HzA7Y](https://www.youtube.com/watch?v=obf7z_HzA7Y)
 * [Q&A: Will Drone terrain avoidance be fixed in Update 6?](../transcriptions/yt-wl76rNQbCAw.md) [https://www.youtube.com/watch?v=wl76rNQbCAw](https://www.youtube.com/watch?v=wl76rNQbCAw)

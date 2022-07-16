@@ -14,6 +14,10 @@ date: Last Modified
 * [Steel](../../topics/environment/resources/steel.md)
 * [Water](../../topics/environment/resources/water.md)
 
+## July 12th, 2022 Livestream
+* Q&A: Alt Recipes using a lot of Power to only get 12 per minute? [https://www.youtube.com/watch?v=_ZdYbFPhO2U](https://www.youtube.com/watch?v=_ZdYbFPhO2U)
+* [Q&A: Any dev tricks on how Satisfactory can handle items on Conveyors?](../../transcriptions/yt-Nb75CQWdcaE.md) [https://www.youtube.com/watch?v=Nb75CQWdcaE](https://www.youtube.com/watch?v=Nb75CQWdcaE)
+
 ## July 5th, 2022 Livestream
 * [Q&A: Any plans to automate Biofuel like with Fabric?](../../transcriptions/yt-egeMfFZ2lSs.md) [https://www.youtube.com/watch?v=egeMfFZ2lSs](https://www.youtube.com/watch?v=egeMfFZ2lSs)
 * [Q&A: Sulfur is a by-product of Oil products, so maybe an Alternate Recipe?](../../transcriptions/yt-QOAfdRa2TUE.md) [https://www.youtube.com/watch?v=QOAfdRa2TUE](https://www.youtube.com/watch?v=QOAfdRa2TUE)

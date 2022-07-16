@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildables](../../../topics/features/buildables.md) > Walls
 
+## July 12th, 2022 Livestream
+* [Q&A: Can we get half/circle Foundations & Walls?](../../../transcriptions/yt-_MhOphjRSWc.md) [https://www.youtube.com/watch?v=_MhOphjRSWc](https://www.youtube.com/watch?v=_MhOphjRSWc)
+* [Community FYI: We need a placeable Conveyor Belt Wall hole](../../../transcriptions/yt-gvOu94vroM0.md) [https://www.youtube.com/watch?v=gvOu94vroM0](https://www.youtube.com/watch?v=gvOu94vroM0)
+
 ## May 3rd, 2022 Livestream
 * [Q&A: Will Z-plane fighting finally be resolved?](../../../transcriptions/yt-_LVhzjfAywg.md) [https://www.youtube.com/watch?v=_LVhzjfAywg](https://www.youtube.com/watch?v=_LVhzjfAywg)
 * [Q&A: Any chance we could get an Update to architectural structures?](../../../transcriptions/yt-U5OI9pz9mnQ.md) [https://www.youtube.com/watch?v=U5OI9pz9mnQ](https://www.youtube.com/watch?v=U5OI9pz9mnQ)

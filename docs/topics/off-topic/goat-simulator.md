@@ -5,6 +5,12 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Goat Simulator
 
+## July 12th, 2022 Livestream
+* Community FYI: Lovely Goat Simulator 3 trailer by the way [https://www.youtube.com/watch?v=TCKKW48Ey0M](https://www.youtube.com/watch?v=TCKKW48Ey0M)
+* [Q&A: Did you make anything in Goat Sim?](../../transcriptions/yt-4v3ET-ykiz8.md) [https://www.youtube.com/watch?v=4v3ET-ykiz8](https://www.youtube.com/watch?v=4v3ET-ykiz8)
+* [Q&A: Where's Goat Sim 2?](../../transcriptions/yt-1mcwsT0WCvc.md) [https://www.youtube.com/watch?v=1mcwsT0WCvc](https://www.youtube.com/watch?v=1mcwsT0WCvc)
+* [Q&A: Why is there no Goat Sim Easter Egg in Satisfactory?](../../transcriptions/yt-gqOrnBBSP-8.md) [https://www.youtube.com/watch?v=gqOrnBBSP-8](https://www.youtube.com/watch?v=gqOrnBBSP-8)
+
 ## April 15th, 2022 Video
 * [Snutt & Stefan Talk: Goat Simulator also started in a game jam](../../transcriptions/yt-7I3NGAm3j_4,107.57413333333334,143.47666666666666.md) [https://youtube.com/clip/UgkxlFbop3RaPOLed6E1hgDNIdd-fvYeqDiS](https://youtube.com/clip/UgkxlFbop3RaPOLed6E1hgDNIdd-fvYeqDiS)
 

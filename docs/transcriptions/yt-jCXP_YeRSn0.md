@@ -8,7 +8,7 @@ topics:
 # [May 11th, 2021 Livestream](../2021-05-11.md)
 ## Q&A: Can we harvest the Fart Rocks?
 https://www.youtube.com/watch?v=jCXP_YeRSn0
-This question was possibly duplicated with a more recent answer: [May 25th, 2021 Livestream Q&A: Can we use Poison Gas in some way?](./yt-zjpwvKcY2ss.md) [https://www.youtube.com/watch?v=zjpwvKcY2ss](https://www.youtube.com/watch?v=zjpwvKcY2ss)
+This question was possibly duplicated with a more recent answer: [July 12th, 2022 Livestream Q&A: Gas Pillars harvestable as a Resource, when?](./yt-LyvW1dRpHdU.md) [https://www.youtube.com/watch?v=LyvW1dRpHdU](https://www.youtube.com/watch?v=LyvW1dRpHdU)
 
 
 ### Topics

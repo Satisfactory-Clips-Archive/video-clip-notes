@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../topics.md) > Localisation
 * [Localization Community Highlight](../topics/localisation/localization-community-highlight.md)
 
+## July 12th, 2022 Livestream
+* Q&A: How do you translate the game? [https://www.youtube.com/watch?v=NbQXHy41U-U](https://www.youtube.com/watch?v=NbQXHy41U-U)
+
 ## June 7th, 2022 Livestream
 * [Q&A: What does MP stand for in Pirate language?](../transcriptions/yt-Ypxd3iYB2QM.md) [https://www.youtube.com/watch?v=Ypxd3iYB2QM](https://www.youtube.com/watch?v=Ypxd3iYB2QM)
 

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > AWESOME Sink
 
+## July 12th, 2022 Livestream
+* [Q&A: What does AWESOME mean?](../../../transcriptions/yt-nyN4xwl5Ndo.md) [https://www.youtube.com/watch?v=nyN4xwl5Ndo](https://www.youtube.com/watch?v=nyN4xwl5Ndo)
+
 ## July 5th, 2022 Livestream
 * [Q&A: Fluid Sink, when?](../../../transcriptions/yt-59nyJkLeYZA.md) [https://www.youtube.com/watch?v=59nyJkLeYZA](https://www.youtube.com/watch?v=59nyJkLeYZA)
 

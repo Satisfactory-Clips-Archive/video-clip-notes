@@ -25,6 +25,11 @@ date: Last Modified
 * [The Lord of the Rings](../topics/off-topic/the-lord-of-the-rings.md)
 * [Valheim](../topics/off-topic/valheim.md)
 
+## July 12th, 2022 Livestream
+* Community FYI: Chrono Trigger better than all of Final Fantasy, don't @ me [https://www.youtube.com/watch?v=BxpOpif2ykI](https://www.youtube.com/watch?v=BxpOpif2ykI)
+* [Q&A: Can we use the Zipline to grab onto Drones & ride them?](../transcriptions/yt-4CDoTNiSV84.md) [https://www.youtube.com/watch?v=4CDoTNiSV84](https://www.youtube.com/watch?v=4CDoTNiSV84)
+* Q&A: Did you know you can remove coffee stains with vinegar? [https://www.youtube.com/watch?v=OXf5T9BsY2M](https://www.youtube.com/watch?v=OXf5T9BsY2M)
+
 ## July 5th, 2022 Livestream
 * [Community FYI: Stop advertising other games in the stream or you will be fired](../transcriptions/yt-6XlGsx1P76g.md) [https://www.youtube.com/watch?v=6XlGsx1P76g](https://www.youtube.com/watch?v=6XlGsx1P76g)
 

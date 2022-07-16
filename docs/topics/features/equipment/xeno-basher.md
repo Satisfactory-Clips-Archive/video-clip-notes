@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Equipment](../../../topics/features/equipment.md) > Xeno-Basher
 
+## July 12th, 2022 Livestream
+* [Q&A: Dual-wielding Xenobashers?](../../../transcriptions/yt-LRqRZ3WaRaQ.md) [https://www.youtube.com/watch?v=LRqRZ3WaRaQ](https://www.youtube.com/watch?v=LRqRZ3WaRaQ)
+* [Q&A: Any news on game crashing on melee kill of Spitters?](../../../transcriptions/yt-AVd3FMTNpc4.md) [https://www.youtube.com/watch?v=AVd3FMTNpc4](https://www.youtube.com/watch?v=AVd3FMTNpc4)
+
 ## March 4th, 2022 Video
 * [Snutt & Jace Talk: The wrong way to pet a Doggo](../../../transcriptions/yt-AbggpyCo1kc,486.98650000000004,497.2300666666667.md) [https://youtube.com/embed/AbggpyCo1kc?autoplay=1&start=486&end=498](https://youtube.com/embed/AbggpyCo1kc?autoplay=1&start=486&end=498)
 

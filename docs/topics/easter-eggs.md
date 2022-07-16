@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Easter Eggs
 
+## July 12th, 2022 Livestream
+* [Q&A: Are there going to be any other cross-game Easter Eggs in Satisfactory?](../transcriptions/yt-v5kTUX3Bba8.md) [https://www.youtube.com/watch?v=v5kTUX3Bba8](https://www.youtube.com/watch?v=v5kTUX3Bba8)
+* [Q&A: Why is there no Goat Sim Easter Egg in Satisfactory?](../transcriptions/yt-gqOrnBBSP-8.md) [https://www.youtube.com/watch?v=gqOrnBBSP-8](https://www.youtube.com/watch?v=gqOrnBBSP-8)
+* [Q&A: Why was the Sanctum Easter Egg removed?](../transcriptions/yt-XLZxwakPjRE.md) [https://www.youtube.com/watch?v=XLZxwakPjRE](https://www.youtube.com/watch?v=XLZxwakPjRE)
+
 ## April 15th, 2022 Video
 * [Snutt & Stefan Talk: Trophies in Sprint 20](../transcriptions/yt-7I3NGAm3j_4,1717.5825333333335,1741.5064333333335.md) [https://youtube.com/clip/Ugkx4LcOBxeMk-cQDChIbIuSVSjdA6LZHCrd](https://youtube.com/clip/Ugkx4LcOBxeMk-cQDChIbIuSVSjdA6LZHCrd)
 

@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Valheim
 
+## July 12th, 2022 Livestream
+* [Q&A: Satisfactory build tools in Valheim?](../../transcriptions/yt-an6DQF4sbBU.md) [https://www.youtube.com/watch?v=an6DQF4sbBU](https://www.youtube.com/watch?v=an6DQF4sbBU)
+* [Q&A: When will Satisfactory be as great as Valheim?](../../transcriptions/yt-gvsar43Ghlw.md) [https://www.youtube.com/watch?v=gvsar43Ghlw](https://www.youtube.com/watch?v=gvsar43Ghlw)
+
 ## April 19th, 2022 Livestream
 * [Q&A: Is Valheim using Unreal Engine?](../../transcriptions/yt-c51LJ2NJAWs.md) [https://www.youtube.com/watch?v=c51LJ2NJAWs](https://www.youtube.com/watch?v=c51LJ2NJAWs)
 

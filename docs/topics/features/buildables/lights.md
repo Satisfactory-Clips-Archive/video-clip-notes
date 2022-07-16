@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildables](../../../topics/features/buildables.md) > Lights
 
+## July 12th, 2022 Livestream
+* Q&A: Why can't I flip a light and aim it up? [https://www.youtube.com/watch?v=GaM_9cpCtdI](https://www.youtube.com/watch?v=GaM_9cpCtdI)
+* Q&A: Why are lights so big? [https://www.youtube.com/watch?v=oLFLD2ivt8s](https://www.youtube.com/watch?v=oLFLD2ivt8s)
+* Q&A: Did the Trains have headlights before or was it always like this? [https://www.youtube.com/watch?v=20hcYzpOnYQ](https://www.youtube.com/watch?v=20hcYzpOnYQ)
+
 ## May 3rd, 2022 Livestream
 * [Q&A: Where's the lighting on the Trains?](../../../transcriptions/yt-i7oydn5GaBk.md) [https://www.youtube.com/watch?v=i7oydn5GaBk](https://www.youtube.com/watch?v=i7oydn5GaBk)
 * [Q&A: Any progress optimising Lights?](../../../transcriptions/yt-c8C8vBJOMno.md) [https://www.youtube.com/watch?v=c8C8vBJOMno](https://www.youtube.com/watch?v=c8C8vBJOMno)

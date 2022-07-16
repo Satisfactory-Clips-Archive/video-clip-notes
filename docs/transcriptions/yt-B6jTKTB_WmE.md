@@ -9,7 +9,7 @@ topics:
 # [November 9th, 2021 Livestream](../2021-11-09.md)
 ## Q&A: Will there ever be rounded Foundations?
 https://www.youtube.com/watch?v=B6jTKTB_WmE
-This question was possibly duplicated with a more recent answer: [March 15th, 2022 Livestream Q&A: Circle Foundation without Mods?](./yt-As8zQkJUXXE.md) [https://www.youtube.com/watch?v=As8zQkJUXXE](https://www.youtube.com/watch?v=As8zQkJUXXE)
+This question was possibly duplicated with a more recent answer: [July 12th, 2022 Livestream Q&A: Can we get half/circle Foundations & Walls?](./yt-_MhOphjRSWc.md) [https://www.youtube.com/watch?v=_MhOphjRSWc](https://www.youtube.com/watch?v=_MhOphjRSWc)
 
 
 ### Topics

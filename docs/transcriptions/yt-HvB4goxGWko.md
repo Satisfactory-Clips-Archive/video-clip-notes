@@ -8,6 +8,8 @@ topics:
 # [November 9th, 2021 Livestream](../2021-11-09.md)
 ## Q&A: Do we get more than one custom swatch colours in the Customizer?
 https://www.youtube.com/watch?v=HvB4goxGWko
+This question was possibly duplicated with a more recent answer: [July 12th, 2022 Livestream Q&A: Do you guys have plans to add additional custom swatches?](./yt-vEty9CjTG9s.md) [https://www.youtube.com/watch?v=vEty9CjTG9s](https://www.youtube.com/watch?v=vEty9CjTG9s)
+
 
 ### Topics
 * [Features > Equipment > Customizer](../topics/features/equipment/customizer.md)

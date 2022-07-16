@@ -8,6 +8,18 @@ date: Last Modified
 * [Snutt Burger Time](../../topics/coffee-stainers/snutt/snutt-burger-time.md)
 * [Snutty Mays](../../topics/coffee-stainers/snutt/snutty-mays.md)
 
+## July 12th, 2022 Livestream
+* Community FYI: Out of sync again [https://www.youtube.com/watch?v=pzTHsoxMmCg](https://www.youtube.com/watch?v=pzTHsoxMmCg)
+* Q&A: What games are you playing other than Satisfactory? [https://www.youtube.com/watch?v=BCgKNHSPFtk](https://www.youtube.com/watch?v=BCgKNHSPFtk)
+* Snutt Talk: Snutt's haunted door [https://www.youtube.com/watch?v=JfXexOPqUcs](https://www.youtube.com/watch?v=JfXexOPqUcs)
+* [Q&A: Are you ready to party at TwitchCon?](../../transcriptions/yt-y-9zoNoW_To.md) [https://www.youtube.com/watch?v=y-9zoNoW_To](https://www.youtube.com/watch?v=y-9zoNoW_To)
+* [Q&A: What's your favourite Coffee Stain game that's not Satisfactory?](../../transcriptions/yt-KBUkt5sB_O4.md) [https://www.youtube.com/watch?v=KBUkt5sB_O4](https://www.youtube.com/watch?v=KBUkt5sB_O4)
+* Q&A: Did you know you can remove coffee stains with vinegar? [https://www.youtube.com/watch?v=OXf5T9BsY2M](https://www.youtube.com/watch?v=OXf5T9BsY2M)
+* [Q&A: Of all the things you've coded into the game what are you most proud of?](../../transcriptions/yt-kWGtntaPlYg.md) [https://www.youtube.com/watch?v=kWGtntaPlYg](https://www.youtube.com/watch?v=kWGtntaPlYg)
+* [Q&A: Did you make anything in Goat Sim?](../../transcriptions/yt-4v3ET-ykiz8.md) [https://www.youtube.com/watch?v=4v3ET-ykiz8](https://www.youtube.com/watch?v=4v3ET-ykiz8)
+* [Q&A: What is something you want to have with the game?](../../transcriptions/yt-pFRFB1e7C9E.md) [https://www.youtube.com/watch?v=pFRFB1e7C9E](https://www.youtube.com/watch?v=pFRFB1e7C9E)
+* [Q&A: Where are you going for vacation?](../../transcriptions/yt-5jVG3W3DKOM.md) [https://www.youtube.com/watch?v=5jVG3W3DKOM](https://www.youtube.com/watch?v=5jVG3W3DKOM)
+
 ## July 8th, 2022 Video
 * [Snutt Talk: Snuttcation](../../transcriptions/yt-yr5pOsZC_mA,244.71113333333335,264.59766666666667.md) [https://youtube.com/clip/UgkxuYtw8QnZNZLU8XQmmiDRwPzXlL5osCz9](https://youtube.com/clip/UgkxuYtw8QnZNZLU8XQmmiDRwPzXlL5osCz9)
 

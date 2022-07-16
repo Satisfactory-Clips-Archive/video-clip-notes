@@ -5,6 +5,14 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildables](../../../topics/features/buildables.md) > Conveyor Belts
 
+## July 12th, 2022 Livestream
+* [Q&A: Can we have bigger Belts?](../../../transcriptions/yt-fvkVnOnkLkA.md) [https://www.youtube.com/watch?v=fvkVnOnkLkA](https://www.youtube.com/watch?v=fvkVnOnkLkA)
+* [Q&A: Any dev tricks on how Satisfactory can handle items on Conveyors?](../../../transcriptions/yt-Nb75CQWdcaE.md) [https://www.youtube.com/watch?v=Nb75CQWdcaE](https://www.youtube.com/watch?v=Nb75CQWdcaE)
+* [Q&A: What is something you want to have with the game?](../../../transcriptions/yt-pFRFB1e7C9E.md) [https://www.youtube.com/watch?v=pFRFB1e7C9E](https://www.youtube.com/watch?v=pFRFB1e7C9E)
+* [Q&A: Splitter with more outputs / Merger with more inputs?](../../../transcriptions/yt-yGUmAroXyms.md) [https://www.youtube.com/watch?v=yGUmAroXyms](https://www.youtube.com/watch?v=yGUmAroXyms)
+* [Q&A: Any thoughts on vertical Splitters?](../../../transcriptions/yt-n4JNDwLlt6w.md) [https://www.youtube.com/watch?v=n4JNDwLlt6w](https://www.youtube.com/watch?v=n4JNDwLlt6w)
+* [Community FYI: We need a placeable Conveyor Belt Wall hole](../../../transcriptions/yt-gvOu94vroM0.md) [https://www.youtube.com/watch?v=gvOu94vroM0](https://www.youtube.com/watch?v=gvOu94vroM0)
+
 ## July 5th, 2022 Livestream
 * [Q&A: Is this the Spaghetti Anonymous?](../../../transcriptions/yt-P2Q8dZRSTsU.md) [https://www.youtube.com/watch?v=P2Q8dZRSTsU](https://www.youtube.com/watch?v=P2Q8dZRSTsU)
 * [Q&A: Will there be Mk.6 Belts?](../../../transcriptions/yt-teYWjHHxeBU.md) [https://www.youtube.com/watch?v=teYWjHHxeBU](https://www.youtube.com/watch?v=teYWjHHxeBU)

@@ -7,6 +7,11 @@ date: Last Modified
 * [Characters](../topics/story-and-lore/characters.md)
 * [Project Assembly](../topics/story-and-lore/project-assembly.md)
 
+## July 12th, 2022 Livestream
+* [Q&A: What happened to all the fish?](../transcriptions/yt-wtqckJMuDM4.md) [https://www.youtube.com/watch?v=wtqckJMuDM4](https://www.youtube.com/watch?v=wtqckJMuDM4)
+* [Q&A: Am I supposed to harvest alien artefacts? The computer doesn't ask me often enough.](../transcriptions/yt-w7ux-M7xR4Q.md) [https://www.youtube.com/watch?v=w7ux-M7xR4Q](https://www.youtube.com/watch?v=w7ux-M7xR4Q)
+* [Q&A: What does AWESOME mean?](../transcriptions/yt-nyN4xwl5Ndo.md) [https://www.youtube.com/watch?v=nyN4xwl5Ndo](https://www.youtube.com/watch?v=nyN4xwl5Ndo)
+
 ## July 5th, 2022 Livestream
 * [Q&A: How do you think the Satisfactory trilogy will end?](../transcriptions/yt--mQ7p9GwJ7k.md) [https://www.youtube.com/watch?v=-mQ7p9GwJ7k](https://www.youtube.com/watch?v=-mQ7p9GwJ7k)
 * [Q&A: Who came up with the planet's system name?](../transcriptions/yt-wgP5uc1_ccQ.md) [https://www.youtube.com/watch?v=wgP5uc1_ccQ](https://www.youtube.com/watch?v=wgP5uc1_ccQ)

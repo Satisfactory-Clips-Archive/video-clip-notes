@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Requested Features](../../../topics/features/requested-features.md) > Crossovers
 
+## July 12th, 2022 Livestream
+* [Q&A: Are there going to be any other cross-game Easter Eggs in Satisfactory?](../../../transcriptions/yt-v5kTUX3Bba8.md) [https://www.youtube.com/watch?v=v5kTUX3Bba8](https://www.youtube.com/watch?v=v5kTUX3Bba8)
+
 ## January 18th, 2022 Livestream
 * [Q&A: Speaking of Lizzard Doggo, when are we going to get Lizard Doggo Simulator?](../../../transcriptions/yt--_QFGvE0h0I.md) [https://www.youtube.com/watch?v=-_QFGvE0h0I](https://www.youtube.com/watch?v=-_QFGvE0h0I)
 

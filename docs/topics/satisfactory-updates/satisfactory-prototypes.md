@@ -14,6 +14,9 @@ date: Last Modified
 * [Sprint 23](../../topics/satisfactory-updates/satisfactory-prototypes/sprint-23.md)
 * [Sprint 26](../../topics/satisfactory-updates/satisfactory-prototypes/sprint-26.md)
 
+## July 12th, 2022 Livestream
+* [Q&A: Splitter with more outputs / Merger with more inputs?](../../transcriptions/yt-yGUmAroXyms.md) [https://www.youtube.com/watch?v=yGUmAroXyms](https://www.youtube.com/watch?v=yGUmAroXyms)
+
 ## April 19th, 2022 Livestream
 * [State of Dev](../../transcriptions/yt-d4RkGw7ei58.md) [https://www.youtube.com/watch?v=d4RkGw7ei58](https://www.youtube.com/watch?v=d4RkGw7ei58)
 

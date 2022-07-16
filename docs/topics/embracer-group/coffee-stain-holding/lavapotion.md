@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Embracer Group](../../../topics/embracer-group.md) > Coffee Stain Holding > Lavapotion
 
+## July 12th, 2022 Livestream
+* [Q&A: Why is Coffee Stain Studios actually multiple studios?](../../../transcriptions/yt-cBaieySbHAk.md) [https://www.youtube.com/watch?v=cBaieySbHAk](https://www.youtube.com/watch?v=cBaieySbHAk)
+
 ## May 10th, 2022 Livestream
 * [State of Dev](../../../transcriptions/yt-EgDWsvm7ThE.md) [https://www.youtube.com/watch?v=EgDWsvm7ThE](https://www.youtube.com/watch?v=EgDWsvm7ThE)
 

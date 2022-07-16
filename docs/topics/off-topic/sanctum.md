@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Sanctum
 
+## July 12th, 2022 Livestream
+* [Q&A: Where's Goat Sim 2?](../../transcriptions/yt-1mcwsT0WCvc.md) [https://www.youtube.com/watch?v=1mcwsT0WCvc](https://www.youtube.com/watch?v=1mcwsT0WCvc)
+* [Q&A: Why was the Sanctum Easter Egg removed?](../../transcriptions/yt-XLZxwakPjRE.md) [https://www.youtube.com/watch?v=XLZxwakPjRE](https://www.youtube.com/watch?v=XLZxwakPjRE)
+
 ## April 15th, 2022 Video
 * [Snutt & Stefan Talk: Sprint 6](../../transcriptions/yt-7I3NGAm3j_4,544.4772666666667,586.3524333333334.md) [https://youtube.com/clip/UgkxJlhjBBTmsHqjVptIYvN2cjH3sIJiIaqe](https://youtube.com/clip/UgkxJlhjBBTmsHqjVptIYvN2cjH3sIJiIaqe)
 * [Snutt & Stefan Talk: Creatures in Sprint 6](../../transcriptions/yt-7I3NGAm3j_4,663.9966666666667,691.691.md) [https://youtube.com/clip/UgkxrPmSQoN5MNNqrD8hyJerS6x5UJX-Mli9](https://youtube.com/clip/UgkxrPmSQoN5MNNqrD8hyJerS6x5UJX-Mli9)

@@ -8,6 +8,8 @@ topics:
 # [August 3rd, 2021 Livestream](../2021-08-03.md)
 ## Q&A: Purpose for Gas Pillars, when?
 https://www.youtube.com/watch?v=xidmyDRL4Cc
+This question was possibly duplicated with a more recent answer: [July 12th, 2022 Livestream Q&A: Gas Pillars harvestable as a Resource, when?](./yt-LyvW1dRpHdU.md) [https://www.youtube.com/watch?v=LyvW1dRpHdU](https://www.youtube.com/watch?v=LyvW1dRpHdU)
+
 
 ### Topics
 * [Environment](../topics/environment.md)

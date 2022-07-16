@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Subnautica
 
+## July 12th, 2022 Livestream
+* [Q&A: Is that Underwater builder?](../../transcriptions/yt-VU_zSn-pgzM.md) [https://www.youtube.com/watch?v=VU_zSn-pgzM](https://www.youtube.com/watch?v=VU_zSn-pgzM)
+
 ## June 7th, 2022 Livestream
 * [Community FYI: Don't get Hannah started on Lava, she'll just tell you to "play Subnautica"](../../transcriptions/yt-_dTOUveZlDA.md) [https://www.youtube.com/watch?v=_dTOUveZlDA](https://www.youtube.com/watch?v=_dTOUveZlDA)
 

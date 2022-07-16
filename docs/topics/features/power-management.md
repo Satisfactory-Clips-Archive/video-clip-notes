@@ -10,6 +10,9 @@ date: Last Modified
 * [Power Storage](../../topics/features/power-management/power-storage.md)
 * [Power Switch](../../topics/features/power-management/power-switch.md)
 
+## July 12th, 2022 Livestream
+* Q&A: Alt Recipes using a lot of Power to only get 12 per minute? [https://www.youtube.com/watch?v=_ZdYbFPhO2U](https://www.youtube.com/watch?v=_ZdYbFPhO2U)
+
 ## July 5th, 2022 Livestream
 * [Q&A: Rechargeable batteries?](../../transcriptions/yt-3KrBqNWxbJc.md) [https://www.youtube.com/watch?v=3KrBqNWxbJc](https://www.youtube.com/watch?v=3KrBqNWxbJc)
 * [Q&A: More Power options?](../../transcriptions/yt-f4VpbHVUJk8.md) [https://www.youtube.com/watch?v=f4VpbHVUJk8](https://www.youtube.com/watch?v=f4VpbHVUJk8)

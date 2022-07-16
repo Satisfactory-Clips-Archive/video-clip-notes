@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../topics.md) > [Features](../../topics/features.md) > Accessibility
 * [Arachnophobia Mode](../../topics/features/accessibility/arachnophobia-mode.md)
 
+## July 12th, 2022 Livestream
+* [Q&A: Anyone else reported mega motion sickness from the game?](../../transcriptions/yt-Oq7uVu7ckw0.md) [https://www.youtube.com/watch?v=Oq7uVu7ckw0](https://www.youtube.com/watch?v=Oq7uVu7ckw0)
+
 ## April 26th, 2022 Livestream
 * [Q&A: Can we get proper captions made for video releases?](../../transcriptions/yt-5HEtHNP-Xl0.md) [https://www.youtube.com/watch?v=5HEtHNP-Xl0](https://www.youtube.com/watch?v=5HEtHNP-Xl0)
 

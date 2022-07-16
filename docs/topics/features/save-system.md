@@ -7,6 +7,9 @@ date: Last Modified
 * [Autosave](../../topics/features/save-system/autosave.md)
 * [Cloud Sync](../../topics/features/save-system/cloud-sync.md)
 
+## July 12th, 2022 Livestream
+* [Q&A: Truck Stations losing name after reload?](../../transcriptions/yt-5hLowbH07rU.md) [https://www.youtube.com/watch?v=5hLowbH07rU](https://www.youtube.com/watch?v=5hLowbH07rU)
+
 ## July 5th, 2022 Livestream
 * [Q&A: Will we need to play from the start when 1.0 hits?](../../transcriptions/yt-_mN45-Fc7G0.md) [https://www.youtube.com/watch?v=_mN45-Fc7G0](https://www.youtube.com/watch?v=_mN45-Fc7G0)
 

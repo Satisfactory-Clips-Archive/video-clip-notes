@@ -27,6 +27,11 @@ date: Last Modified
 * [The HUB](../../topics/features/buildings/the-hub.md)
 * [Water Extractor](../../topics/features/buildings/water-extractor.md)
 
+## July 12th, 2022 Livestream
+* [Q&A: Any chance the Map will be able to show our Buildings?](../../transcriptions/yt-lknPhTGxh_4.md) [https://www.youtube.com/watch?v=lknPhTGxh_4](https://www.youtube.com/watch?v=lknPhTGxh_4)
+* Q&A: Stun Spitters and put on Observation Towers as turrents, when? [https://www.youtube.com/watch?v=4YsojB22Vt8](https://www.youtube.com/watch?v=4YsojB22Vt8)
+* [Q&A: Truck Stations losing name after reload?](../../transcriptions/yt-5hLowbH07rU.md) [https://www.youtube.com/watch?v=5hLowbH07rU](https://www.youtube.com/watch?v=5hLowbH07rU)
+
 ## July 5th, 2022 Livestream
 * [Q&A: Any tips on how to increase FPS on large factories?](../../transcriptions/yt-4MxM0N23q-U.md) [https://www.youtube.com/watch?v=4MxM0N23q-U](https://www.youtube.com/watch?v=4MxM0N23q-U)
 * Q&A: Option to filter or limit what items go in a Train Car? [https://www.youtube.com/watch?v=_Bb65dQHTtM](https://www.youtube.com/watch?v=_Bb65dQHTtM)

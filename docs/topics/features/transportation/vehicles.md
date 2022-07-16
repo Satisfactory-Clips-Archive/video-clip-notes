@@ -12,6 +12,10 @@ date: Last Modified
 * [Tractor](../../../topics/features/transportation/vehicles/tractor.md)
 * [Truck](../../../topics/features/transportation/vehicles/truck.md)
 
+## July 12th, 2022 Livestream
+* [Q&A: When do you add the ability to ride the animals like Dino Rider?](../../../transcriptions/yt-sDRMjbtHeGM.md) [https://www.youtube.com/watch?v=sDRMjbtHeGM](https://www.youtube.com/watch?v=sDRMjbtHeGM)
+* [Q&A: Any plans to fix how Vehicles are done when driving on any Foundation surface?](../../../transcriptions/yt-vQjRcLqrXUM.md) [https://www.youtube.com/watch?v=vQjRcLqrXUM](https://www.youtube.com/watch?v=vQjRcLqrXUM)
+
 ## July 5th, 2022 Livestream
 * [Q&A: Rechargeable batteries?](../../../transcriptions/yt-3KrBqNWxbJc.md) [https://www.youtube.com/watch?v=3KrBqNWxbJc](https://www.youtube.com/watch?v=3KrBqNWxbJc)
 * [Q&A: A harvester Vehicle?](../../../transcriptions/yt--xHKBN-3tiM.md) [https://www.youtube.com/watch?v=-xHKBN-3tiM](https://www.youtube.com/watch?v=-xHKBN-3tiM)

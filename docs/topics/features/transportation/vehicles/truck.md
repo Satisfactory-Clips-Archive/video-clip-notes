@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > Transportation > [Vehicles](../../../../topics/features/transportation/vehicles.md) > Truck
 
+## July 12th, 2022 Livestream
+* [Q&A: Truck Stations losing name after reload?](../../../../transcriptions/yt-5hLowbH07rU.md) [https://www.youtube.com/watch?v=5hLowbH07rU](https://www.youtube.com/watch?v=5hLowbH07rU)
+
 ## May 3rd, 2022 Livestream
 * [State of Dev](../../../../transcriptions/yt-HBdLi32e74Q.md) [https://www.youtube.com/watch?v=HBdLi32e74Q](https://www.youtube.com/watch?v=HBdLi32e74Q)
 

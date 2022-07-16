@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > Possible Features > Weather Systems
 
+## July 12th, 2022 Livestream
+* [Q&A: Volumetric fog in the morning, when?](../../../transcriptions/yt-LAtm9YH43-U.md) [https://www.youtube.com/watch?v=LAtm9YH43-U](https://www.youtube.com/watch?v=LAtm9YH43-U)
+
 ## July 5th, 2022 Livestream
 * [Q&A: Have rain regrow Biomass?](../../../transcriptions/yt-6t1TZRz0NL0.md) [https://www.youtube.com/watch?v=6t1TZRz0NL0](https://www.youtube.com/watch?v=6t1TZRz0NL0)
 * [Q&A: Weather, someday?](../../../transcriptions/yt-s1OYb3ZIX50.md) [https://www.youtube.com/watch?v=s1OYb3ZIX50](https://www.youtube.com/watch?v=s1OYb3ZIX50)

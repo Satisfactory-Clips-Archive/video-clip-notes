@@ -9,11 +9,7 @@ topics:
 # [June 7th, 2022 Livestream](../2022-06-07.md)
 ## Q&A: Mk.3 Pipes?
 https://www.youtube.com/watch?v=8nkuQhlSKfU
-<details>
-<summary>This question may have been asked previously at least 1 other time, as recently as May 2021.</summary>
-
-* [May 25th, 2021 Livestream Q&A: Can you add Mk.3 Pipes?](./yt-G3EjiEP-6iU.md) [https://www.youtube.com/watch?v=G3EjiEP-6iU](https://www.youtube.com/watch?v=G3EjiEP-6iU)
-</details>
+This question was possibly duplicated with a more recent answer: [July 12th, 2022 Livestream Q&A: Tier 3 Pipes, please?](./yt-OSg5XUXzm6Q.md) [https://www.youtube.com/watch?v=OSg5XUXzm6Q](https://www.youtube.com/watch?v=OSg5XUXzm6Q)
 
 
 ### Topics

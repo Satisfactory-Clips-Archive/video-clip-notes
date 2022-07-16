@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Resources](../../../topics/environment/resources.md) > Mercer Sphere
 
+## July 12th, 2022 Livestream
+* [Q&A: Am I supposed to harvest alien artefacts? The computer doesn't ask me often enough.](../../../transcriptions/yt-w7ux-M7xR4Q.md) [https://www.youtube.com/watch?v=w7ux-M7xR4Q](https://www.youtube.com/watch?v=w7ux-M7xR4Q)
+
 ## May 13th, 2022 Video
 * [Radar Towers in Update 5 vs. Update 6](../../../transcriptions/yt-2vAUX3YLH-c,507.6071,601.2339666666667.md) [https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=507&end=602](https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=507&end=602)
 

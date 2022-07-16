@@ -8,7 +8,7 @@ topics:
 # [May 4th, 2021 Livestream](../2021-05-04.md)
 ## Q&A: Visit the Food Court?
 https://www.youtube.com/watch?v=wpeE1y2iEMA
-This question was possibly duplicated with a more recent answer: [February 22nd, 2022 Livestream Q&A: When will we see the Food Court](./yt-gvBWfMy9jBc.md) [https://www.youtube.com/watch?v=gvBWfMy9jBc](https://www.youtube.com/watch?v=gvBWfMy9jBc)
+This question was possibly duplicated with a more recent answer: [July 12th, 2022 Livestream Q&A: When can we get to the Food Court?](./yt-bnCpPWG1CiY.md) [https://www.youtube.com/watch?v=bnCpPWG1CiY](https://www.youtube.com/watch?v=bnCpPWG1CiY)
 
 
 ### Topics

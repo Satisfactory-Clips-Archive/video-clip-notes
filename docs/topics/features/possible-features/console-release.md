@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > Possible Features > Console Release
 
+## July 12th, 2022 Livestream
+* [Q&A: Steamdeck support?](../../../transcriptions/yt-pnGHUFNCong.md) [https://www.youtube.com/watch?v=pnGHUFNCong](https://www.youtube.com/watch?v=pnGHUFNCong)
+
 ## July 5th, 2022 Livestream
 * [Q&A: Full controller support?](../../../transcriptions/yt-CRt32esDsG8.md) [https://www.youtube.com/watch?v=CRt32esDsG8](https://www.youtube.com/watch?v=CRt32esDsG8)
 

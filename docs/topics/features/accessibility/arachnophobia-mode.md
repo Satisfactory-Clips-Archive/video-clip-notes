@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Accessibility](../../../topics/features/accessibility.md) > Arachnophobia Mode
 
+## July 12th, 2022 Livestream
+* Q&A: Who made the Stingers and why haven't they been fired yet? [https://www.youtube.com/watch?v=w6W7UC6T8ys](https://www.youtube.com/watch?v=w6W7UC6T8ys)
+
 ## June 28th, 2022 Livestream
 * Q&A: Will there ever be a real Arachnophobia Mode instead of cats & scary sounds? [https://www.youtube.com/watch?v=_zfnXF_UMJU](https://www.youtube.com/watch?v=_zfnXF_UMJU)
 

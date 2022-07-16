@@ -5,6 +5,12 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Embracer Group](../../../topics/embracer-group.md) > Coffee Stain Holding > Coffee Stain Studios
 
+## July 12th, 2022 Livestream
+* [Q&A: How's it possible for such an amazing studio to pour love into my favourite game?](../../../transcriptions/yt-GpZED_VvhQA.md) [https://www.youtube.com/watch?v=GpZED_VvhQA](https://www.youtube.com/watch?v=GpZED_VvhQA)
+* Q&A: Why are you not Twitch Affiliate? [https://www.youtube.com/watch?v=R7pZBW9DpnU](https://www.youtube.com/watch?v=R7pZBW9DpnU)
+* Q&A: Full release been talked about at all internally? [https://www.youtube.com/watch?v=0A8S19qIcPs](https://www.youtube.com/watch?v=0A8S19qIcPs)
+* [Q&A: Why is Coffee Stain Studios actually multiple studios?](../../../transcriptions/yt-cBaieySbHAk.md) [https://www.youtube.com/watch?v=cBaieySbHAk](https://www.youtube.com/watch?v=cBaieySbHAk)
+
 ## July 8th, 2022 Video
 * [Snutt Talk: Approaching vacation period in Sweden](../../../transcriptions/yt-yr5pOsZC_mA,1.9019,25.792433333333335.md) [https://youtube.com/clip/UgkxtgUofWmg7weG6HSsAy3bYYWdf-0Z826l](https://youtube.com/clip/UgkxtgUofWmg7weG6HSsAy3bYYWdf-0Z826l)
 * [Snutt Talk: Coffee Stainers going on vacation](../../../transcriptions/yt-yr5pOsZC_mA,84.93221534926472,124.99153333333334.md) [https://youtube.com/clip/UgkxGPk-rPl3f9fA_Ovn_Uz65m9amxFpEVaV](https://youtube.com/clip/UgkxGPk-rPl3f9fA_Ovn_Uz65m9amxFpEVaV)

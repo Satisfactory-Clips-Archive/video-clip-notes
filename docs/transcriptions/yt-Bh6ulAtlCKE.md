@@ -9,12 +9,7 @@ topics:
 # [February 22nd, 2022 Livestream](../2022-02-22.md)
 ## Q&A: Angle Lights up?
 https://www.youtube.com/watch?v=Bh6ulAtlCKE
-<details>
-<summary>This question may have been asked previously at least 2 other times, as recently as September 2021 and as early as May 2021.</summary>
-
-* [September 21st, 2021 Livestream Q&A: Any plans to let us point factory Lights up?](./yt-s5IkNJjLgUI.md) [https://www.youtube.com/watch?v=s5IkNJjLgUI](https://www.youtube.com/watch?v=s5IkNJjLgUI)
-* [May 28th, 2021 Dev Vlog Q&A: Are we going to be able to turn Lights upside down?](./yt-dyqOMITwLsY,500.75024999999994,597.456414.md) [https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=500&end=598](https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=500&end=598)
-</details>
+This question was possibly duplicated with a more recent answer: July 12th, 2022 Livestream Q&A: Why can't I flip a light and aim it up? [https://www.youtube.com/watch?v=GaM_9cpCtdI](https://www.youtube.com/watch?v=GaM_9cpCtdI)
 
 
 ### Topics

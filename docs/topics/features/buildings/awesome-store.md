@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > AWESOME Store
 
+## July 12th, 2022 Livestream
+* [Q&A: What does AWESOME mean?](../../../transcriptions/yt-nyN4xwl5Ndo.md) [https://www.youtube.com/watch?v=nyN4xwl5Ndo](https://www.youtube.com/watch?v=nyN4xwl5Ndo)
+
 ## July 5th, 2022 Livestream
 * [Q&A: Sell FICSIT Coupons?](../../../transcriptions/yt-h5Dkp2_S96c.md) [https://www.youtube.com/watch?v=h5Dkp2_S96c](https://www.youtube.com/watch?v=h5Dkp2_S96c)
 * [Q&A: Do you consider the Jetpack/Hover Pack essential to beat the game?](../../../transcriptions/yt-SWdlYvpUhTY.md) [https://www.youtube.com/watch?v=SWdlYvpUhTY](https://www.youtube.com/watch?v=SWdlYvpUhTY)

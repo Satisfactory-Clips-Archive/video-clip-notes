@@ -8,6 +8,9 @@ date: Last Modified
 * [#SaveTheWillows](../../../topics/satisfactory-updates/released/satisfactory-update-5/save-the-willows.md)
 * [Update 5 Torsten's Cosmetics Whiteboard](../../../topics/satisfactory-updates/released/satisfactory-update-5/torstens-cosmetics-whiteboard.md)
 
+## July 12th, 2022 Livestream
+* [Q&A: Z-fighting?](../../../transcriptions/yt-FX84LpxZoes.md) [https://www.youtube.com/watch?v=FX84LpxZoes](https://www.youtube.com/watch?v=FX84LpxZoes)
+
 ## July 5th, 2022 Livestream
 * [Q&A: Will Drone terrain avoidance be fixed in Update 6?](../../../transcriptions/yt-wl76rNQbCAw.md) [https://www.youtube.com/watch?v=wl76rNQbCAw](https://www.youtube.com/watch?v=wl76rNQbCAw)
 

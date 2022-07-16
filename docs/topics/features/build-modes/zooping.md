@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Build Modes](../../../topics/features/build-modes.md) > Zooping
 
+## July 12th, 2022 Livestream
+* [Q&A: Will we be able to Zoop 10x10 instead of 1x10?](../../../transcriptions/yt-InwxX5I5XH4.md) [https://www.youtube.com/watch?v=InwxX5I5XH4](https://www.youtube.com/watch?v=InwxX5I5XH4)
+
 ## July 5th, 2022 Livestream
 * [Q&A: Any plans for Zoopable straight Train Tracks?](../../../transcriptions/yt-Zcp6cK14ixA.md) [https://www.youtube.com/watch?v=Zcp6cK14ixA](https://www.youtube.com/watch?v=Zcp6cK14ixA)
 

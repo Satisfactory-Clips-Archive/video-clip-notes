@@ -8,6 +8,8 @@ topics:
 # [September 28th, 2021 Livestream](../2021-09-28.md)
 ## Q&A: Vertical Splitters?
 https://www.youtube.com/watch?v=KerNCX4Cbss
+This question was possibly duplicated with a more recent answer: [July 12th, 2022 Livestream Q&A: Any thoughts on vertical Splitters?](./yt-n4JNDwLlt6w.md) [https://www.youtube.com/watch?v=n4JNDwLlt6w](https://www.youtube.com/watch?v=n4JNDwLlt6w)
+
 
 ### Topics
 * [Features > Buildables > Conveyor Belts](../topics/features/buildables/conveyor-belts.md)

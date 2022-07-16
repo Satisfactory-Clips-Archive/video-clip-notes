@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Embracer Group](../../../topics/embracer-group.md) > Coffee Stain Holding > Coffee Stain Malmö
 
+## July 12th, 2022 Livestream
+* [Q&A: Why is Coffee Stain Studios actually multiple studios?](../../../transcriptions/yt-cBaieySbHAk.md) [https://www.youtube.com/watch?v=cBaieySbHAk](https://www.youtube.com/watch?v=cBaieySbHAk)
+
 ## April 19th, 2022 Livestream
 * [Q&A: Will Coffee Stain Malmö be working on I Love Strawberries?](../../../transcriptions/yt-dBSxFxRoluc.md) [https://www.youtube.com/watch?v=dBSxFxRoluc](https://www.youtube.com/watch?v=dBSxFxRoluc)
 

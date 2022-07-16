@@ -10,6 +10,8 @@ topics:
 # [March 29th, 2022 Livestream](../2022-03-29.md)
 ## Q&A: Will there be an option to lower the Train volume?
 https://www.youtube.com/watch?v=ulBAJ0fxShE
+This question was possibly duplicated with a more recent answer: [July 12th, 2022 Livestream Q&A: Train can be real loud & can't be turned down?](./yt-trhYk5yGdkA.md) [https://www.youtube.com/watch?v=trhYk5yGdkA](https://www.youtube.com/watch?v=trhYk5yGdkA)
+
 
 ### Topics
 * [Features > Requested Features](../topics/features/requested-features.md)

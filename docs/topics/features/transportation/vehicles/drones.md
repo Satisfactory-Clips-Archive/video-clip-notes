@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > Transportation > [Vehicles](../../../../topics/features/transportation/vehicles.md) > Drones
 
+## July 12th, 2022 Livestream
+* [Q&A: Can we use the Zipline to grab onto Drones & ride them?](../../../../transcriptions/yt-4CDoTNiSV84.md) [https://www.youtube.com/watch?v=4CDoTNiSV84](https://www.youtube.com/watch?v=4CDoTNiSV84)
+* [Q&A: Any plans on Drone pathing/configurableness?](../../../../transcriptions/yt-Oa35SkIoJdg.md) [https://www.youtube.com/watch?v=Oa35SkIoJdg](https://www.youtube.com/watch?v=Oa35SkIoJdg)
+
 ## July 5th, 2022 Livestream
 * [Q&A: Will Drone terrain avoidance be fixed in Update 6?](../../../../transcriptions/yt-wl76rNQbCAw.md) [https://www.youtube.com/watch?v=wl76rNQbCAw](https://www.youtube.com/watch?v=wl76rNQbCAw)
 * [Q&A: Rechargeable batteries?](../../../../transcriptions/yt-3KrBqNWxbJc.md) [https://www.youtube.com/watch?v=3KrBqNWxbJc](https://www.youtube.com/watch?v=3KrBqNWxbJc)

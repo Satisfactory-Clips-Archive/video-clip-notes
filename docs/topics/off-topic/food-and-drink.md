@@ -10,6 +10,9 @@ date: Last Modified
 * [Pizza](../../topics/off-topic/food-and-drink/pizza.md)
 * [Semlor](../../topics/off-topic/food-and-drink/semlor.md)
 
+## July 12th, 2022 Livestream
+* [Q&A: How do I eat cereal without my hair getting in the milk](../../transcriptions/yt-6l8-swh-Wp4.md) [https://www.youtube.com/watch?v=6l8-swh-Wp4](https://www.youtube.com/watch?v=6l8-swh-Wp4)
+
 ## June 7th, 2022 Livestream
 * [Snutt Talk: Wendy's™](../../transcriptions/yt-CxZCLTgH8Ao.md) [https://www.youtube.com/watch?v=CxZCLTgH8Ao](https://www.youtube.com/watch?v=CxZCLTgH8Ao)
 * [Q&A: Is it swede or turnip?](../../transcriptions/yt-ra73a8N4tyg.md) [https://www.youtube.com/watch?v=ra73a8N4tyg](https://www.youtube.com/watch?v=ra73a8N4tyg)

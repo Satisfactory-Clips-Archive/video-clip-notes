@@ -9,12 +9,7 @@ topics:
 # [September 28th, 2021 Livestream](../2021-09-28.md)
 ## Q&A: Any plans to add more map functionality like the calculator website?
 https://www.youtube.com/watch?v=bzRcbP7bZLs
-<details>
-<summary>This question may have been asked previously at least 2 other times, as recently as June 2021 and as early as April 2021.</summary>
-
-* [June 29th, 2021 Livestream Q&A: Are you thinking of implementing a system like Satisfactory Calculator?](./yt-wHbulAfnOyc.md) [https://www.youtube.com/watch?v=wHbulAfnOyc](https://www.youtube.com/watch?v=wHbulAfnOyc)
-* April 6th, 2021 Livestream Q&A: What are your thoughts on an in-game project planner, similar to Satisfactory Calculator? [https://www.youtube.com/watch?v=MVijm9JAoaw](https://www.youtube.com/watch?v=MVijm9JAoaw)
-</details>
+This question was possibly duplicated with a more recent answer: [July 12th, 2022 Livestream Q&A: Any chance the Map will be able to show our Buildings?](./yt-lknPhTGxh_4.md) [https://www.youtube.com/watch?v=lknPhTGxh_4](https://www.youtube.com/watch?v=lknPhTGxh_4)
 
 
 ### Topics

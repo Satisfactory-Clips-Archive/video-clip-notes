@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Environment](../../../../topics/environment.md) > [Biomes](../../../../topics/environment/biomes.md) > Unplanned Biomes > Snow
 
+## July 12th, 2022 Livestream
+* [Q&A: When do we get the next Ice Biome?](../../../../transcriptions/yt-I_JT2xkr4Q0.md) [https://www.youtube.com/watch?v=I_JT2xkr4Q0](https://www.youtube.com/watch?v=I_JT2xkr4Q0)
+
 ## September 28th, 2021 Livestream
 * [Q&A: Like arctic mountain?](../../../../transcriptions/yt-XFlDDGJ4Vx0.md) [https://www.youtube.com/watch?v=XFlDDGJ4Vx0](https://www.youtube.com/watch?v=XFlDDGJ4Vx0)
 

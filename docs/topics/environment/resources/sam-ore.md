@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Resources](../../../topics/environment/resources.md) > S.A.M. Ore
 
+## July 12th, 2022 Livestream
+* [Q&A: S.A.M. Ore / Somersloops still a 1.0 thing?](../../../transcriptions/yt-VcxNT6rHrG0.md) [https://www.youtube.com/watch?v=VcxNT6rHrG0](https://www.youtube.com/watch?v=VcxNT6rHrG0)
+
 ## May 24th, 2022 Livestream
 * [Q&A: What's the future of S.A.M. Ore?](../../../transcriptions/yt-fU0zBoXfxRE.md) [https://www.youtube.com/watch?v=fU0zBoXfxRE](https://www.youtube.com/watch?v=fU0zBoXfxRE)
 

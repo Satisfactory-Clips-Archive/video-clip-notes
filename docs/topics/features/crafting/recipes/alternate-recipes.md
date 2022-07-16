@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > [Crafting](../../../../topics/features/crafting.md) > [Recipes](../../../../topics/features/crafting/recipes.md) > Alternate Recipes
 
+## July 12th, 2022 Livestream
+* Q&A: Alt Recipes using a lot of Power to only get 12 per minute? [https://www.youtube.com/watch?v=_ZdYbFPhO2U](https://www.youtube.com/watch?v=_ZdYbFPhO2U)
+
 ## July 5th, 2022 Livestream
 * [Q&A: Will the alt Nuclear Fuel be part of the next Update?](../../../../transcriptions/yt-MrPbasBXKEQ.md) [https://www.youtube.com/watch?v=MrPbasBXKEQ](https://www.youtube.com/watch?v=MrPbasBXKEQ)
 * [Q&A: Any plans to automate Biofuel like with Fabric?](../../../../transcriptions/yt-egeMfFZ2lSs.md) [https://www.youtube.com/watch?v=egeMfFZ2lSs](https://www.youtube.com/watch?v=egeMfFZ2lSs)

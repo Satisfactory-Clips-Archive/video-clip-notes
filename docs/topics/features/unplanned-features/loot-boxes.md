@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Unplanned Features](../../../topics/features/unplanned-features.md) > Loot Boxes
 
+## July 12th, 2022 Livestream
+* [Q&A: Lootboxes for golden skins for Rebar Gun?](../../../transcriptions/yt-2hSR3DgaaUg.md) [https://www.youtube.com/watch?v=2hSR3DgaaUg](https://www.youtube.com/watch?v=2hSR3DgaaUg)
+
 ## January 22nd, 2020 Livestream
 * [Snutt & Jace Talk: AWESOME Shop Teaser (no microtransactions)](../../../transcriptions/yt-1UbLRZJ0-SE.md) [https://www.youtube.com/watch?v=1UbLRZJ0-SE](https://www.youtube.com/watch?v=1UbLRZJ0-SE)
 

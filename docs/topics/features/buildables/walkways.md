@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildables](../../../topics/features/buildables.md) > Walkways
 
+## July 12th, 2022 Livestream
+* [Q&A: Any plans to add Walkways with holes for Ladders?](../../../transcriptions/yt-0VIpUqV_8vM.md) [https://www.youtube.com/watch?v=0VIpUqV_8vM](https://www.youtube.com/watch?v=0VIpUqV_8vM)
+
 ## February 11th, 2022 Hot Potato Bonus Stream
 * [Q&A: Could we build over the existing walkways to change the type of it?](../../../transcriptions/yt-9E9oc-IQ45w.md) [https://www.youtube.com/watch?v=9E9oc-IQ45w](https://www.youtube.com/watch?v=9E9oc-IQ45w)
 

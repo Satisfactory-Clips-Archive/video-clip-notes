@@ -9,7 +9,7 @@ topics:
 # [May 28th, 2021 Dev Vlog](../2021-05-28.md)
 ## Q&A: Are we going to be able to turn Lights upside down?
 https://youtube.com/embed/dyqOMITwLsY?autoplay=1&start=500&end=598
-This question was possibly duplicated with a more recent answer: [February 22nd, 2022 Livestream Q&A: Angle Lights up?](./yt-Bh6ulAtlCKE.md) [https://www.youtube.com/watch?v=Bh6ulAtlCKE](https://www.youtube.com/watch?v=Bh6ulAtlCKE)
+This question was possibly duplicated with a more recent answer: July 12th, 2022 Livestream Q&A: Why can't I flip a light and aim it up? [https://www.youtube.com/watch?v=GaM_9cpCtdI](https://www.youtube.com/watch?v=GaM_9cpCtdI)
 
 
 ### Topics

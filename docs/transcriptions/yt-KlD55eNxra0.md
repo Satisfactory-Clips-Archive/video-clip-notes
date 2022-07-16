@@ -12,7 +12,7 @@ topics:
 # [May 25th, 2021 Livestream](../2021-05-25.md)
 ## Q&A: When can we get a Goat in Satisfactory?
 https://www.youtube.com/watch?v=KlD55eNxra0
-This question was possibly duplicated with a more recent answer: [February 15th, 2022 Livestream Q&A: Will you add a Goat to honour Goat Simulator?](./yt-sy-UO8evFeM.md) [https://www.youtube.com/watch?v=sy-UO8evFeM](https://www.youtube.com/watch?v=sy-UO8evFeM)
+This question was possibly duplicated with a more recent answer: [July 12th, 2022 Livestream Q&A: Why is there no Goat Sim Easter Egg in Satisfactory?](./yt-gqOrnBBSP-8.md) [https://www.youtube.com/watch?v=gqOrnBBSP-8](https://www.youtube.com/watch?v=gqOrnBBSP-8)
 
 
 ### Topics

@@ -8,12 +8,6 @@ topics:
 # [May 25th, 2021 Livestream](../2021-05-25.md)
 ## Q&A: Can we use Poison Gas in some way?
 https://www.youtube.com/watch?v=zjpwvKcY2ss
-<details>
-<summary>This question may have been asked previously at least 1 other time, as recently as May 2021.</summary>
-
-* [May 11th, 2021 Livestream Q&A: Can we harvest the Fart Rocks?](./yt-jCXP_YeRSn0.md) [https://www.youtube.com/watch?v=jCXP_YeRSn0](https://www.youtube.com/watch?v=jCXP_YeRSn0)
-</details>
-
 
 ### Topics
 * [Features > Gases](../topics/features/gases.md)

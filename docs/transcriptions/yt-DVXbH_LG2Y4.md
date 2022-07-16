@@ -10,11 +10,7 @@ topics:
 # [March 29th, 2022 Livestream](../2022-03-29.md)
 ## Q&A: Will we be able to mount the Rebar Gun on top of a buggy?
 https://www.youtube.com/watch?v=DVXbH_LG2Y4
-<details>
-<summary>This question may have been asked previously at least 1 other time, as recently as August 2021.</summary>
-
-* [August 24th, 2021 Livestream Q&A: Will the Explorer ever get a mounted nail gun?](./yt-cdVGvprw5tc.md) [https://www.youtube.com/watch?v=cdVGvprw5tc](https://www.youtube.com/watch?v=cdVGvprw5tc)
-</details>
+This question was possibly duplicated with a more recent answer: [July 12th, 2022 Livestream Q&A: Explorer mini-gun?](./yt-onX6FMFubIE.md) [https://www.youtube.com/watch?v=onX6FMFubIE](https://www.youtube.com/watch?v=onX6FMFubIE)
 
 
 ### Topics

@@ -9,6 +9,8 @@ topics:
 # [March 1st, 2022 Livestream](../2022-03-01.md)
 ## Q&A: What's with the artefacts around the World?
 https://www.youtube.com/watch?v=A5JsCEPWRu4
+This question was possibly duplicated with a more recent answer: [July 12th, 2022 Livestream Q&A: Am I supposed to harvest alien artefacts? The computer doesn't ask me often enough.](./yt-w7ux-M7xR4Q.md) [https://www.youtube.com/watch?v=w7ux-M7xR4Q](https://www.youtube.com/watch?v=w7ux-M7xR4Q)
+
 <details>
 <summary>This question may have been asked previously at least 10 other times, as recently as November 2021 and as early as December 2019.</summary>
 

@@ -25,6 +25,14 @@ date: Last Modified
 * [Vilsol](../topics/community/vilsol.md)
 * [Wiki](../topics/community/wiki.md)
 
+## July 12th, 2022 Livestream
+* [State of Vacation](../transcriptions/yt-p-5N0u4DqL0.md) [https://www.youtube.com/watch?v=p-5N0u4DqL0](https://www.youtube.com/watch?v=p-5N0u4DqL0)
+* [Q&A: How's it possible for such an amazing studio to pour love into my favourite game?](../transcriptions/yt-GpZED_VvhQA.md) [https://www.youtube.com/watch?v=GpZED_VvhQA](https://www.youtube.com/watch?v=GpZED_VvhQA)
+* [Snutt Talk: Lego](../transcriptions/yt-n_gmBWh5wNQ.md) [https://www.youtube.com/watch?v=n_gmBWh5wNQ](https://www.youtube.com/watch?v=n_gmBWh5wNQ)
+* [Q&A: Why was the VOD deleted?](../transcriptions/yt-daBb0elDmQY.md) [https://www.youtube.com/watch?v=daBb0elDmQY](https://www.youtube.com/watch?v=daBb0elDmQY)
+* Q&A: Why are you not Twitch Affiliate? [https://www.youtube.com/watch?v=R7pZBW9DpnU](https://www.youtube.com/watch?v=R7pZBW9DpnU)
+* [Q&A: Are you ready to party at TwitchCon?](../transcriptions/yt-y-9zoNoW_To.md) [https://www.youtube.com/watch?v=y-9zoNoW_To](https://www.youtube.com/watch?v=y-9zoNoW_To)
+
 ## July 5th, 2022 Livestream
 * [Snutt & Jace Talk: Early stream intro](../transcriptions/yt-22cjWQeYNnE.md) [https://www.youtube.com/watch?v=22cjWQeYNnE](https://www.youtube.com/watch?v=22cjWQeYNnE)
 * [Q&A: Did you watch the SGDQ run?](../transcriptions/yt-Pc7jT_6U-ng.md) [https://www.youtube.com/watch?v=Pc7jT_6U-ng](https://www.youtube.com/watch?v=Pc7jT_6U-ng)

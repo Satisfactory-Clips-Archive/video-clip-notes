@@ -6,6 +6,10 @@ date: Last Modified
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Hannah
 * [Coffee Stainers can't pronounce Hannah's last name](../../topics/coffee-stainers/hannah/coffee-stainers-cant-pronounce-hannahs-last-name.md)
 
+## July 12th, 2022 Livestream
+* [Q&A: What does AWESOME mean?](../../transcriptions/yt-nyN4xwl5Ndo.md) [https://www.youtube.com/watch?v=nyN4xwl5Ndo](https://www.youtube.com/watch?v=nyN4xwl5Ndo)
+* [Q&A: When do we get the next Ice Biome?](../../transcriptions/yt-I_JT2xkr4Q0.md) [https://www.youtube.com/watch?v=I_JT2xkr4Q0](https://www.youtube.com/watch?v=I_JT2xkr4Q0)
+
 ## June 14th, 2022 Livestream
 * [blamehannah.com - Tobias, Etienne, & Snutt Talk: Looks like Hannah's been here](../../transcriptions/yt-Z6bo0pjYghk,7486.864999,7516.174063735765.md) [https://youtube.com/clip/Ugkx0Qy4rA32XFEOlBDb7FevclUIMkJRGp-k](https://youtube.com/clip/Ugkx0Qy4rA32XFEOlBDb7FevclUIMkJRGp-k)
 * [Ben, Dylan, Simon, & Snutt Talk: Shenannnahgans](../../transcriptions/yt-Z6bo0pjYghk,8305.051700759544,8360.260447025314.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=8305&end=8361](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=8305&end=8361)

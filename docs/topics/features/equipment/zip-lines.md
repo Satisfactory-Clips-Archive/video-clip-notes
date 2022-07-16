@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Equipment](../../../topics/features/equipment.md) > Zip Lines
 
+## July 12th, 2022 Livestream
+* [Q&A: Can we use the Zipline to grab onto Drones & ride them?](../../../transcriptions/yt-4CDoTNiSV84.md) [https://www.youtube.com/watch?v=4CDoTNiSV84](https://www.youtube.com/watch?v=4CDoTNiSV84)
+
 ## February 11th, 2022 Hot Potato Bonus Stream
 * [Snutt & Jace Talk: Zip Line considerations during development](../../../transcriptions/yt-WCrErDN7Ki8.md) [https://www.youtube.com/watch?v=WCrErDN7Ki8](https://www.youtube.com/watch?v=WCrErDN7Ki8)
 

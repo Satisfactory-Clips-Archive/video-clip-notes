@@ -5,6 +5,12 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Pending](../../../topics/satisfactory-updates/pending.md) > Satisfactory Update 6
 
+## July 12th, 2022 Livestream
+* [State of Vacation](../../../transcriptions/yt-p-5N0u4DqL0.md) [https://www.youtube.com/watch?v=p-5N0u4DqL0](https://www.youtube.com/watch?v=p-5N0u4DqL0)
+* [Q&A: Any news on game crashing on melee kill of Spitters?](../../../transcriptions/yt-AVd3FMTNpc4.md) [https://www.youtube.com/watch?v=AVd3FMTNpc4](https://www.youtube.com/watch?v=AVd3FMTNpc4)
+* [Q&A: Have you ever thought of making Alt Recipes for the Nuclear Nobelisk that use Plutonium Cells?](../../../transcriptions/yt-aOai0WNLPDo.md) [https://www.youtube.com/watch?v=aOai0WNLPDo](https://www.youtube.com/watch?v=aOai0WNLPDo)
+* Q&A: How many new features that we don't know about are you working on for Update 6? [https://www.youtube.com/watch?v=0hmv1nEov6U](https://www.youtube.com/watch?v=0hmv1nEov6U)
+
 ## July 8th, 2022 Video
 * [Snutt Talk: Update 6 is available on Experimental](../../../transcriptions/yt-yr5pOsZC_mA,25.8258,43.91975321691177.md) [https://youtube.com/clip/Ugkxoevgt8RQkcxHmzXE7bJfOQKWp674jFM2](https://youtube.com/clip/Ugkxoevgt8RQkcxHmzXE7bJfOQKWp674jFM2)
 * [Snutt Talk: Crashes & bugfixes](../../../transcriptions/yt-yr5pOsZC_mA,43.91975321691177,84.93221534926472.md) [https://youtube.com/clip/Ugkx1o0dfVfyGT5qGbAQSu12SPpPP_NpWZJK](https://youtube.com/clip/Ugkx1o0dfVfyGT5qGbAQSu12SPpPP_NpWZJK)

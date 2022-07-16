@@ -9,7 +9,7 @@ topics:
 # [May 3rd, 2022 Livestream](../2022-05-03.md)
 ## Q&A: Do we have DLSS- if not, may we?
 https://www.youtube.com/watch?v=99SoH5ZXCO4
-This question was possibly duplicated with a more recent answer: June 28th, 2022 Livestream Q&A: DLSS? [https://www.youtube.com/watch?v=inVzZQ99Acs](https://www.youtube.com/watch?v=inVzZQ99Acs)
+This question was possibly duplicated with a more recent answer: [July 12th, 2022 Livestream Q&A: DLSS coming?](./yt-HhhszNFilFY.md) [https://www.youtube.com/watch?v=HhhszNFilFY](https://www.youtube.com/watch?v=HhhszNFilFY)
 
 
 ### Topics

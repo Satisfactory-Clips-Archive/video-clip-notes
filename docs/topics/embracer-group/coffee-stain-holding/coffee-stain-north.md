@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Embracer Group](../../../topics/embracer-group.md) > Coffee Stain Holding > Coffee Stain North
 
+## July 12th, 2022 Livestream
+* [Q&A: Why is Coffee Stain Studios actually multiple studios?](../../../transcriptions/yt-cBaieySbHAk.md) [https://www.youtube.com/watch?v=cBaieySbHAk](https://www.youtube.com/watch?v=cBaieySbHAk)
+
 ## July 20th, 2021 Livestream
 * [Q&A: Why is there a Community Management position open on the website, are you leaving us?](../../../transcriptions/yt-OzcH3XX6cJ8.md) [https://www.youtube.com/watch?v=OzcH3XX6cJ8](https://www.youtube.com/watch?v=OzcH3XX6cJ8)
 

@@ -41,6 +41,9 @@ date: Last Modified
 * [Torsten](../topics/coffee-stainers/torsten.md)
 * [Uzu](../topics/coffee-stainers/uzu.md)
 
+## July 12th, 2022 Livestream
+* Q&A: Who made the Stingers and why haven't they been fired yet? [https://www.youtube.com/watch?v=w6W7UC6T8ys](https://www.youtube.com/watch?v=w6W7UC6T8ys)
+
 ## July 8th, 2022 Video
 * [Snutt Talk: Coffee Stainers going on vacation](../transcriptions/yt-yr5pOsZC_mA,84.93221534926472,124.99153333333334.md) [https://youtube.com/clip/UgkxGPk-rPl3f9fA_Ovn_Uz65m9amxFpEVaV](https://youtube.com/clip/UgkxGPk-rPl3f9fA_Ovn_Uz65m9amxFpEVaV)
 

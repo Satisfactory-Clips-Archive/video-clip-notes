@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Trolling
 
+## July 12th, 2022 Livestream
+* [Q&A: Where's Goat Sim 2?](../transcriptions/yt-1mcwsT0WCvc.md) [https://www.youtube.com/watch?v=1mcwsT0WCvc](https://www.youtube.com/watch?v=1mcwsT0WCvc)
+
 ## July 5th, 2022 Livestream
 * [Q&A: How do you think the Satisfactory trilogy will end?](../transcriptions/yt--mQ7p9GwJ7k.md) [https://www.youtube.com/watch?v=-mQ7p9GwJ7k](https://www.youtube.com/watch?v=-mQ7p9GwJ7k)
 

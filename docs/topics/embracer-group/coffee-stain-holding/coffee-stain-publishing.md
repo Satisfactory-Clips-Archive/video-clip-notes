@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Embracer Group](../../../topics/embracer-group.md) > Coffee Stain Holding > Coffee Stain Publishing
 
+## July 12th, 2022 Livestream
+* [Q&A: Why is Coffee Stain Studios actually multiple studios?](../../../transcriptions/yt-cBaieySbHAk.md) [https://www.youtube.com/watch?v=cBaieySbHAk](https://www.youtube.com/watch?v=cBaieySbHAk)
+
 ## April 21st, 2022 Satisfactory x Portal Bonus Stream
 * [Jace Talk: Changes to the company YouTube channels](../../../transcriptions/yt-SPJAjphdU-A.md) [https://www.youtube.com/watch?v=SPJAjphdU-A](https://www.youtube.com/watch?v=SPJAjphdU-A)
 

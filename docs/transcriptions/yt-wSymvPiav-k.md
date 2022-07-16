@@ -8,11 +8,7 @@ topics:
 # [September 21st, 2021 Livestream](../2021-09-21.md)
 ## Q&A: Why are you guys not affiliate?
 https://www.youtube.com/watch?v=wSymvPiav-k
-<details>
-<summary>This question may have been asked previously at least 1 other time, as recently as January 2021.</summary>
-
-* [January 12th, 2021 Livestream Q&A: Why no partner with Twitch?](./yt-wvvaIdmUTT0.md) [https://www.youtube.com/watch?v=wvvaIdmUTT0](https://www.youtube.com/watch?v=wvvaIdmUTT0)
-</details>
+This question was possibly duplicated with a more recent answer: July 12th, 2022 Livestream Q&A: Why are you not Twitch Affiliate? [https://www.youtube.com/watch?v=R7pZBW9DpnU](https://www.youtube.com/watch?v=R7pZBW9DpnU)
 
 
 ### Topics

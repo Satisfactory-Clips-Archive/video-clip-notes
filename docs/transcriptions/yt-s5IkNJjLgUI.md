@@ -8,7 +8,7 @@ topics:
 # [September 21st, 2021 Livestream](../2021-09-21.md)
 ## Q&A: Any plans to let us point factory Lights up?
 https://www.youtube.com/watch?v=s5IkNJjLgUI
-This question was possibly duplicated with a more recent answer: [February 22nd, 2022 Livestream Q&A: Angle Lights up?](./yt-Bh6ulAtlCKE.md) [https://www.youtube.com/watch?v=Bh6ulAtlCKE](https://www.youtube.com/watch?v=Bh6ulAtlCKE)
+This question was possibly duplicated with a more recent answer: July 12th, 2022 Livestream Q&A: Why can't I flip a light and aim it up? [https://www.youtube.com/watch?v=GaM_9cpCtdI](https://www.youtube.com/watch?v=GaM_9cpCtdI)
 
 
 ### Topics

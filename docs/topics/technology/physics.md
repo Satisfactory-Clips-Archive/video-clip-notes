@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > Physics
 
+## July 12th, 2022 Livestream
+* [Q&A: Any plans to fix how Vehicles are done when driving on any Foundation surface?](../../transcriptions/yt-vQjRcLqrXUM.md) [https://www.youtube.com/watch?v=vQjRcLqrXUM](https://www.youtube.com/watch?v=vQjRcLqrXUM)
+
 ## March 1st, 2022 Livestream
 * [Q&A: Why don't Trains kill people or rag doll?](../../transcriptions/yt-IGwr-vvp3Nk.md) [https://www.youtube.com/watch?v=IGwr-vvp3Nk](https://www.youtube.com/watch?v=IGwr-vvp3Nk)
 

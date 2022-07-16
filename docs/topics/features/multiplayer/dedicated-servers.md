@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Multiplayer](../../../topics/features/multiplayer.md) > Dedicated Servers
 
+## July 12th, 2022 Livestream
+* [State of Vacation](../../../transcriptions/yt-p-5N0u4DqL0.md) [https://www.youtube.com/watch?v=p-5N0u4DqL0](https://www.youtube.com/watch?v=p-5N0u4DqL0)
+
 ## July 8th, 2022 Video
 * [Snutt Talk: Dedicated Servers](../../../transcriptions/yt-yr5pOsZC_mA,160.3602,244.67776666666668.md) [https://youtube.com/embed/yr5pOsZC_mA?autoplay=1&start=160&end=245](https://youtube.com/embed/yr5pOsZC_mA?autoplay=1&start=160&end=245)
 

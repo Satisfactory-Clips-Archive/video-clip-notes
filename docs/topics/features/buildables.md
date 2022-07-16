@@ -22,6 +22,11 @@ date: Last Modified
 * [Walls](../../topics/features/buildables/walls.md)
 * [Windows](../../topics/features/buildables/windows.md)
 
+## July 12th, 2022 Livestream
+* [Q&A: Do Pipe Junctions snap to guidelines when placing vertically?](../../transcriptions/yt-_Tt_qQfluwE.md) [https://www.youtube.com/watch?v=_Tt_qQfluwE](https://www.youtube.com/watch?v=_Tt_qQfluwE)
+* [Q&A: Splitter with more outputs / Merger with more inputs?](../../transcriptions/yt-yGUmAroXyms.md) [https://www.youtube.com/watch?v=yGUmAroXyms](https://www.youtube.com/watch?v=yGUmAroXyms)
+* [Community FYI: We need a placeable Conveyor Belt Wall hole](../../transcriptions/yt-gvOu94vroM0.md) [https://www.youtube.com/watch?v=gvOu94vroM0](https://www.youtube.com/watch?v=gvOu94vroM0)
+
 ## July 5th, 2022 Livestream
 * [Q&A: Any tips on how to increase FPS on large factories?](../../transcriptions/yt-4MxM0N23q-U.md) [https://www.youtube.com/watch?v=4MxM0N23q-U](https://www.youtube.com/watch?v=4MxM0N23q-U)
 

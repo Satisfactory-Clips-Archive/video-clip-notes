@@ -9,7 +9,7 @@ topics:
 # [June 29th, 2021 Livestream](../2021-06-29.md)
 ## Q&A: Are you thinking of implementing a system like Satisfactory Calculator?
 https://www.youtube.com/watch?v=wHbulAfnOyc
-This question was possibly duplicated with a more recent answer: [September 28th, 2021 Livestream Q&A: Any plans to add more map functionality like the calculator website?](./yt-bzRcbP7bZLs.md) [https://www.youtube.com/watch?v=bzRcbP7bZLs](https://www.youtube.com/watch?v=bzRcbP7bZLs)
+This question was possibly duplicated with a more recent answer: [July 12th, 2022 Livestream Q&A: Any chance the Map will be able to show our Buildings?](./yt-lknPhTGxh_4.md) [https://www.youtube.com/watch?v=lknPhTGxh_4](https://www.youtube.com/watch?v=lknPhTGxh_4)
 
 
 ### Topics

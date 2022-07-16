@@ -7,6 +7,9 @@ date: Last Modified
 * [EU Merch Store](../topics/merch/eu-merch-store.md)
 * [Merch Prototypes](../topics/merch/merch-prototypes.md)
 
+## July 12th, 2022 Livestream
+* [Snutt Talk: Lego](../transcriptions/yt-n_gmBWh5wNQ.md) [https://www.youtube.com/watch?v=n_gmBWh5wNQ](https://www.youtube.com/watch?v=n_gmBWh5wNQ)
+
 ## June 28th, 2022 Livestream
 * [Snutt Talk: Merch Update](../transcriptions/yt-YrkuyDGOkF4.md) [https://www.youtube.com/watch?v=YrkuyDGOkF4](https://www.youtube.com/watch?v=YrkuyDGOkF4)
 

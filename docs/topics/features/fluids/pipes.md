@@ -5,6 +5,13 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Fluids](../../../topics/features/fluids.md) > Pipes
 
+## July 12th, 2022 Livestream
+* [Q&A: Tier 3 Pipes, please?](../../../transcriptions/yt-OSg5XUXzm6Q.md) [https://www.youtube.com/watch?v=OSg5XUXzm6Q](https://www.youtube.com/watch?v=OSg5XUXzm6Q)
+* [Q&A: What is something you want to have with the game?](../../../transcriptions/yt-pFRFB1e7C9E.md) [https://www.youtube.com/watch?v=pFRFB1e7C9E](https://www.youtube.com/watch?v=pFRFB1e7C9E)
+* [Q&A: Do Pipe Junctions snap to guidelines when placing vertically?](../../../transcriptions/yt-_Tt_qQfluwE.md) [https://www.youtube.com/watch?v=_Tt_qQfluwE](https://www.youtube.com/watch?v=_Tt_qQfluwE)
+* [Q&A: 6-point Pipe Junction?](../../../transcriptions/yt-4Z9Rzw10AE8.md) [https://www.youtube.com/watch?v=4Z9Rzw10AE8](https://www.youtube.com/watch?v=4Z9Rzw10AE8)
+* Q&A: Any plans for T-junction? [https://www.youtube.com/watch?v=8y34cWJL22Q](https://www.youtube.com/watch?v=8y34cWJL22Q)
+
 ## June 28th, 2022 Livestream
 * [Q&A: Will we be able to paint Stackable Pipe Supports?](../../../transcriptions/yt-cInLru5-kOA.md) [https://www.youtube.com/watch?v=cInLru5-kOA](https://www.youtube.com/watch?v=cInLru5-kOA)
 
