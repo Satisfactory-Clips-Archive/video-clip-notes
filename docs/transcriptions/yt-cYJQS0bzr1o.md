@@ -20,8 +20,4 @@ https://www.youtube.com/watch?v=cYJQS0bzr1o
 
 ### Transcript
 
-> oh for [ __ ] sake I'd take 30 megawatts for the packager if I could do three times speed than the refineries oh
->
-> [ __ ]
->
-> shade with throne I don't know if it's faster maybe it is, I don't think it is but I remember I think the recipe is still the same I think the reasoning there is because it would overpower some of the some of the configurations if it were so that's why we haven't changed that stuff maybe that was related to the mixing of fluids whatever
+> oh for sake I'd take 30 megawatts for the packager if I could do three times speed than the refineries oh  shade with throne I don't know if it's faster maybe it is, I don't think it is but I remember I think the recipe is still the same I think the reasoning there is because it would overpower some of the some of the configurations if it were so that's why we haven't changed that stuff maybe that was related to the mixing of fluids whatever

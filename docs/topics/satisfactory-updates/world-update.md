@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > World Update
 
+## August 23rd, 2022 Livestream
+* [Q&A: Are more static objects going to be added to the Map?](../../transcriptions/yt-C3KwCu4t5P8.md) [https://www.youtube.com/watch?v=C3KwCu4t5P8](https://www.youtube.com/watch?v=C3KwCu4t5P8)
+
 ## July 5th, 2022 Livestream
 * [Q&A: Why does the southern forests have basically no Resources?](../../transcriptions/yt-msj7QrgcuMQ.md) [https://www.youtube.com/watch?v=msj7QrgcuMQ](https://www.youtube.com/watch?v=msj7QrgcuMQ)
 * [Q&A: Why are some of the underground entrances blocked off?](../../transcriptions/yt-qOn-_AVjbTw.md) [https://www.youtube.com/watch?v=qOn-_AVjbTw](https://www.youtube.com/watch?v=qOn-_AVjbTw)

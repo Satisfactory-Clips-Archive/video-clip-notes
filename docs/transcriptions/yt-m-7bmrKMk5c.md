@@ -8,7 +8,7 @@ topics:
 # [February 15th, 2022 Livestream](../2022-02-15.md)
 ## Q&A: Elevators?
 https://www.youtube.com/watch?v=m-7bmrKMk5c
-This question was possibly duplicated with a more recent answer: [July 5th, 2022 Livestream Q&A: Lifts for my factory?](./yt-k3lN97uKPgw.md) [https://www.youtube.com/watch?v=k3lN97uKPgw](https://www.youtube.com/watch?v=k3lN97uKPgw)
+This question was possibly duplicated with a more recent answer: [August 23rd, 2022 Livestream Q&A: Does the game have Elevators?](./yt-6PUy-KYqQVQ.md) [https://www.youtube.com/watch?v=6PUy-KYqQVQ](https://www.youtube.com/watch?v=6PUy-KYqQVQ)
 
 
 ### Topics

@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Features](../../topics/features.md) > Pioneer
 
+## August 23rd, 2022 Livestream
+* [Q&A: Will we be able to sleep in the HUB's bed?](../../transcriptions/yt-U6UAVFjQvVo.md) [https://www.youtube.com/watch?v=U6UAVFjQvVo](https://www.youtube.com/watch?v=U6UAVFjQvVo)
+* [Q&A: Picking up a Lizard Doggo & putting it in inventory?](../../transcriptions/yt-KK-x3KKUMrk.md) [https://www.youtube.com/watch?v=KK-x3KKUMrk](https://www.youtube.com/watch?v=KK-x3KKUMrk)
+
 ## July 5th, 2022 Livestream
 * [Q&A: How do you think the Satisfactory trilogy will end?](../../transcriptions/yt--mQ7p9GwJ7k.md) [https://www.youtube.com/watch?v=-mQ7p9GwJ7k](https://www.youtube.com/watch?v=-mQ7p9GwJ7k)
 * [Q&A: How is the Pioneer eating fruits through the helmet?](../../transcriptions/yt-A8wIU88NUnc.md) [https://www.youtube.com/watch?v=A8wIU88NUnc](https://www.youtube.com/watch?v=A8wIU88NUnc)

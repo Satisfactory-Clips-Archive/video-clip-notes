@@ -20,10 +20,4 @@ https://youtube.com/clip/UgwlT4wrAbzLm83jER94AaABCQ
 
 ### Transcript
 
-> now with that the Northern Forest and
-the Dune Desert are actually at a state that we consider to be final you know we might do some minor
-polishing here and there but as of today, as of now August 6th we do not plan to do any more major
-landscape or aesthetic changes to the Dune Desert or the Northern Forest
-up until you know 1.0, so that's kind of exciting that we've got those two
-areas down as far as we can tell for now and so at the end of the teaser trailer
-there was a shot of
+> coming in update five now with that the northern forest and the dune desert are actually at a state that we consider to be final they you know we might do some minor polishing here and there but as of today as of now august 6th, we do not plan to do any more major landscape or aesthetic changes to the dune desert or the northern forest, up until you know 1.0 so that's kind of exciting that we've got those two areas down as far as we can tell for now and so at the end of the teaser trailer

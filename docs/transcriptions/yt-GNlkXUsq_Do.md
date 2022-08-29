@@ -9,6 +9,8 @@ topics:
 # [November 16th, 2021 Livestream](../2021-11-16.md)
 ## Q&A: Can we expect a fix for the reappearing explodable rocks on Dedicated Servers?
 https://www.youtube.com/watch?v=GNlkXUsq_Do
+This question was possibly duplicated with a more recent answer: [August 23rd, 2022 Livestream Q&A: Will the explodable rocks that reappear be fixed in Update 6?](./yt-3x91IjO5rSI.md) [https://www.youtube.com/watch?v=3x91IjO5rSI](https://www.youtube.com/watch?v=3x91IjO5rSI)
+
 
 ### Topics
 * [Environment](../topics/environment.md)

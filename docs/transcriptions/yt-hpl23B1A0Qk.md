@@ -9,7 +9,7 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: Blueprints?
 https://www.youtube.com/watch?v=hpl23B1A0Qk
-This question was possibly duplicated with a more recent answer: [July 5th, 2022 Livestream Q&A: What about adding Blueprints to the game?](./yt-Q6CLsgXQomg.md) [https://www.youtube.com/watch?v=Q6CLsgXQomg](https://www.youtube.com/watch?v=Q6CLsgXQomg)
+This question was possibly duplicated with a more recent answer: [August 23rd, 2022 Livestream Q&A: Blueprints system, when?](./yt-KXdigLjnaXI.md) [https://www.youtube.com/watch?v=KXdigLjnaXI](https://www.youtube.com/watch?v=KXdigLjnaXI)
 
 
 ### Topics

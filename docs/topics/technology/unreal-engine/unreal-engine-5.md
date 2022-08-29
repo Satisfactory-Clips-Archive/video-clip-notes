@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Technology](../../../topics/technology.md) > [Unreal Engine](../../../topics/technology/unreal-engine.md) > Unreal Engine 5
 
+## August 23rd, 2022 Livestream
+* [Q&A: Still a hard no on Unreal Engine 5?](../../../transcriptions/yt-8SYfoBpGjv4.md) [https://www.youtube.com/watch?v=8SYfoBpGjv4](https://www.youtube.com/watch?v=8SYfoBpGjv4)
+
 ## June 28th, 2022 Livestream
 * Q&A: Will you guys update to Unreal Engine 5? [https://www.youtube.com/watch?v=E-RhxpEtG5Q](https://www.youtube.com/watch?v=E-RhxpEtG5Q)
 * Q&A: Do you see any potential in Unreal Engine 5 that could solve some issues? [https://www.youtube.com/watch?v=BM3zIM7od9A](https://www.youtube.com/watch?v=BM3zIM7od9A)

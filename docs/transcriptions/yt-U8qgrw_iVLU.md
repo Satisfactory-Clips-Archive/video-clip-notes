@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=U8qgrw_iVLU
 
 ### Transcript
 
-> it's pretty cool that is a big hug oh that's a trap right there that's a trap right there it's a trap it's a trap you guys are doing fine I've never seen that big hog before what the [ __ ] I almost died holy [ __ ] you guys are doing fine I think what the hell where did that come from jesus I'm already I'm almost dead no I've gone off I'm gonna [ __ ] die oh I'm trying to get him but he was too high we gotta get him oh look at this I'm to end this and s oh juggling
+> it's pretty cool that is a big hug oh that's a trap right there that's a trap right there it's a trap it's a trap you guys are doing fine I've never seen that big hog before what the [ __ ] I almost died holy [ __ ] you guys are doing fine I think what the hell where did that come from jesus I'm already I'm almost dead no I've gone off I'm gonna [ __ ] die oh I'm trying to get him but he was too high we gotta get him oh look at this I'm to end this and s oh juggling
 >
 > [Applause]
 >

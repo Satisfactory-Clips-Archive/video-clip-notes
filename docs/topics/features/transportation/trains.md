@@ -6,6 +6,12 @@ date: Last Modified
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > Transportation > Trains
 * [Train Signals](../../../topics/features/transportation/trains/train-signals.md)
 
+## August 23rd, 2022 Livestream
+* [Q&A: Aren't Trains pointless because the game works on speed of items not amounts of items?](../../../transcriptions/yt-cGajLyhvHUY.md) [https://www.youtube.com/watch?v=cGajLyhvHUY](https://www.youtube.com/watch?v=cGajLyhvHUY)
+* [Q&A: Are Drone Ports ever going to be as customisable as Train Stations?](../../../transcriptions/yt-GQUL70uAm38.md) [https://www.youtube.com/watch?v=GQUL70uAm38](https://www.youtube.com/watch?v=GQUL70uAm38)
+* [Q&A: Train Lights, when?](../../../transcriptions/yt-e2a6gY6vV90.md) [https://www.youtube.com/watch?v=e2a6gY6vV90](https://www.youtube.com/watch?v=e2a6gY6vV90)
+* [Q&A: When you drive an Explorer and honk at a Train, it doesn't honk back?](../../../transcriptions/yt-HD9PJenRqy4.md) [https://www.youtube.com/watch?v=HD9PJenRqy4](https://www.youtube.com/watch?v=HD9PJenRqy4)
+
 ## July 12th, 2022 Livestream
 * [Q&A: Train can be real loud & can't be turned down?](../../../transcriptions/yt-trhYk5yGdkA.md) [https://www.youtube.com/watch?v=trhYk5yGdkA](https://www.youtube.com/watch?v=trhYk5yGdkA)
 * Q&A: Did the Trains have headlights before or was it always like this? [https://www.youtube.com/watch?v=20hcYzpOnYQ](https://www.youtube.com/watch?v=20hcYzpOnYQ)

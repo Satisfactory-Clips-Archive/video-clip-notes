@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: [February 9th, 
 
 ### Transcript
 
-> them too will there be lizard dog or plushies- I really hope so that's a that's a fantastic idea in the past we have actually made goat sim and goat Zi the DLC plushies so regular goats and zombie goats so I think it's likely I mean I talked about it with other people here and people here are stoked to do it whether or not we'll have them not sure that if you want them keep making some noise and I'll keep telling them that people want it so we'll see how it goes how many alpha Keys will there be what
+> Will there be Lizard Doggo Plushies? I really hope so.  That's a fantastic idea. In the past we have actually made Goat Sim and Goat Zi ... the DLC plushies. So regular goats and zombie goats so I think it's likely. I mean I talked about it with other people here and people here are stoked to do it.  Whether or not we'll have them not sure, but if you want them keep making some noise and I'll keep telling them that people want it So we'll see how it goes. How many Alpha Keys will there be? What are my chances of being selected?

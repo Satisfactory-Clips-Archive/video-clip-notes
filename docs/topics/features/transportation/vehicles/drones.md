@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > Transportation > [Vehicles](../../../../topics/features/transportation/vehicles.md) > Drones
 
+## August 23rd, 2022 Livestream
+* [Q&A: Are Drone Ports ever going to be as customisable as Train Stations?](../../../../transcriptions/yt-GQUL70uAm38.md) [https://www.youtube.com/watch?v=GQUL70uAm38](https://www.youtube.com/watch?v=GQUL70uAm38)
+
 ## July 12th, 2022 Livestream
 * [Q&A: Can we use the Zipline to grab onto Drones & ride them?](../../../../transcriptions/yt-4CDoTNiSV84.md) [https://www.youtube.com/watch?v=4CDoTNiSV84](https://www.youtube.com/watch?v=4CDoTNiSV84)
 * [Q&A: Any plans on Drone pathing/configurableness?](../../../../transcriptions/yt-Oa35SkIoJdg.md) [https://www.youtube.com/watch?v=Oa35SkIoJdg](https://www.youtube.com/watch?v=Oa35SkIoJdg)

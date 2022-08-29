@@ -17,6 +17,9 @@ date: Last Modified
 * [Terraforming](../../topics/features/unplanned-features/terraforming.md)
 * [VR](../../topics/features/unplanned-features/vr.md)
 
+## August 23rd, 2022 Livestream
+* [Q&A: Will we be able to sleep in the HUB's bed?](../../transcriptions/yt-U6UAVFjQvVo.md) [https://www.youtube.com/watch?v=U6UAVFjQvVo](https://www.youtube.com/watch?v=U6UAVFjQvVo)
+
 ## June 28th, 2022 Livestream
 * [Q&A: Adding Helicopters?](../../transcriptions/yt-GAUDB7YWGTk.md) [https://www.youtube.com/watch?v=GAUDB7YWGTk](https://www.youtube.com/watch?v=GAUDB7YWGTk)
 

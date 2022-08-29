@@ -8,7 +8,7 @@ topics:
 # [January 18th, 2022 Livestream](../2022-01-18.md)
 ## Q&A: Can we get rid of poison rocks?
 https://www.youtube.com/watch?v=yQfU5GLx4eM
-This question was possibly duplicated with a more recent answer: [June 28th, 2022 Livestream Q&A: Any plans to make the Fart Rocks destructable?](./yt-KTTHPxhnpDM.md) [https://www.youtube.com/watch?v=KTTHPxhnpDM](https://www.youtube.com/watch?v=KTTHPxhnpDM)
+This question was possibly duplicated with a more recent answer: [August 23rd, 2022 Livestream Q&A: Will we be able to destroy Gas Pillars?](./yt-Mrexbr9w4H8.md) [https://www.youtube.com/watch?v=Mrexbr9w4H8](https://www.youtube.com/watch?v=Mrexbr9w4H8)
 
 
 ### Topics

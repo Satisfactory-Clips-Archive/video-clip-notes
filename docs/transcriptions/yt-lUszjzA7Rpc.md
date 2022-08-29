@@ -20,8 +20,8 @@ https://www.youtube.com/watch?v=lUszjzA7Rpc
 >
 > [Laughter]
 >
-> holy [ __ ]
+> holy [ __ ]
 >
 > [Laughter]
 >
-> damn we we came prepared he actually he just works there we actually lived together yeah we're just sitting next to each other yeah it's cgi yeah oh it wouldn't be funny if when we actually get the the studio stuff we like still set up the stream like this and have like two angles yeah yeah to really like paint the walls different as well oh yeah and then I just like get up there like oh james can I just get this right I just pick it up and then go back to my [ __ ] oh that'd be so funny amazing yeah someone clipped that if it's not already too late because I want to see that later yeah fight yourself jace you're lazy bump lazy bum yeah
+> damn we we came prepared he actually he just works there we actually lived together yeah we're just sitting next to each other yeah it's cgi yeah oh it wouldn't be funny if when we actually get the the studio stuff we like still set up the stream like this and have like two angles yeah yeah to really like paint the walls different as well oh yeah and then I just like get up there like oh james can I just get this right I just pick it up and then go back to my [ __ ] oh that'd be so funny amazing yeah someone clipped that if it's not already too late because I want to see that later yeah fight yourself jace you're lazy bump lazy bum yeah

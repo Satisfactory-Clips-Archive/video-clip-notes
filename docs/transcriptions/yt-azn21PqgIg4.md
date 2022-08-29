@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=azn21PqgIg4
 >
 > [Music]
 >
-> oh you look like a you know like small kid when it's like oh I didn't like dan like trying lemon for the first time right except it's hardcore alcohol yeah yeah yeah here you go chase get do one for papa snoot what the [ __ ] I'm glad that's gonna put this here maybe this is fine just do this for now okay snit daddy hello daddy okay that's a ringtone actually good content I approve of your use of actually good by the way actually good if you use actually good in your comments I appreciate it 10 more okay
+> oh you look like a you know like small kid when it's like oh I didn't like dan like trying lemon for the first time right except it's hardcore alcohol yeah yeah yeah here you go chase get do one for papa snoot what the [ __ ] I'm glad that's gonna put this here maybe this is fine just do this for now okay snit daddy hello daddy okay that's a ringtone actually good content I approve of your use of actually good by the way actually good if you use actually good in your comments I appreciate it 10 more okay

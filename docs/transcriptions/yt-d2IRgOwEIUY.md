@@ -8,7 +8,7 @@ topics:
 # [June 7th, 2022 Livestream](../2022-06-07.md)
 ## Q&A: When will 1.0 be?
 https://www.youtube.com/watch?v=d2IRgOwEIUY
-This question was possibly duplicated with a more recent answer: [July 5th, 2022 Livestream Q&A: What year do you think the game will release?](./yt-4jn2kQjiY9Y.md) [https://www.youtube.com/watch?v=4jn2kQjiY9Y](https://www.youtube.com/watch?v=4jn2kQjiY9Y)
+This question was possibly duplicated with a more recent answer: [August 23rd, 2022 Livestream Q&A: Is the plan still for 2022 release?](./yt-GM0CJlndusA.md) [https://www.youtube.com/watch?v=GM0CJlndusA](https://www.youtube.com/watch?v=GM0CJlndusA)
 
 
 ### Topics

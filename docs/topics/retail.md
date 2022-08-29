@@ -9,6 +9,9 @@ date: Last Modified
 * [GeForce Now](../topics/retail/geforce-now.md)
 * [Steam Store](../topics/retail/steam-store.md)
 
+## August 23rd, 2022 Livestream
+* [Q&A: Why not a GOG version?](../transcriptions/yt-9hlTnbKGXSo.md) [https://www.youtube.com/watch?v=9hlTnbKGXSo](https://www.youtube.com/watch?v=9hlTnbKGXSo)
+
 ## May 3rd, 2022 Livestream
 * [Q&A: I'd have to buy another copy?](../transcriptions/yt-t_x_6rrsRAY.md) [https://www.youtube.com/watch?v=t_x_6rrsRAY](https://www.youtube.com/watch?v=t_x_6rrsRAY)
 

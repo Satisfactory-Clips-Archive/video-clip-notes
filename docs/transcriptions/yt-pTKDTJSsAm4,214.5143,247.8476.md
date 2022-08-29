@@ -14,4 +14,8 @@ https://youtube.com/embed/pTKDTJSsAm4?autoplay=1&start=214&end=248
 
 ### Transcript
 
-> info fun little side note here is we're gonna start streaming more commonly or no wait more regularly is the word because now that we have snow helping out with community management snow is great at streaming and setting up streams we're gonna try and do streams every week every Tuesday and that means it's gonna be a stream tomorrow so you can stop by you can ask more questions we may play some games do some Q&amp;A just hang out and have a good time with you all so be sure to follow us on our twitch which is twitch.tv slash coffee stain studios devs I hope to see you there another thing that's probably
+> Fun little side note here is we're
+gonna start streaming more commonly- more-
+no wait- more REGULARLY... is the word. because now that we have Snutt helping out with community management Snutt is great at streaming
+and setting up streams We're gonna try and do streams
+every week. Every Tuesday. and that means there's gonna be a stream tomorrow So you can stop by, you can ask more questions We may play some games do some Q&amp;A just hang out and have a good time with you all So be sure to follow us on our Twitch which is: twitch.tv/coffeestainstudiosdevs I hope to see you there Another thing that's probably worth mentioning is

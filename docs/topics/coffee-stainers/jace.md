@@ -10,6 +10,9 @@ date: Last Modified
 * [Juice Velvet](../../topics/coffee-stainers/jace/juice-velvet.md)
 * [Robo Jace](../../topics/coffee-stainers/jace/robo-jace.md)
 
+## August 23rd, 2022 Livestream
+* [Q&A: Does Jace still work here?](../../transcriptions/yt-z1whTfe51s8.md) [https://www.youtube.com/watch?v=z1whTfe51s8](https://www.youtube.com/watch?v=z1whTfe51s8)
+
 ## July 5th, 2022 Livestream
 * [Snutt & Jace Talk: Early stream intro](../../transcriptions/yt-22cjWQeYNnE.md) [https://www.youtube.com/watch?v=22cjWQeYNnE](https://www.youtube.com/watch?v=22cjWQeYNnE)
 

@@ -8,7 +8,7 @@ topics:
 # [February 15th, 2022 Livestream](../2022-02-15.md)
 ## Q&A: Give us the Toilet Flush DLC?
 https://www.youtube.com/watch?v=sLVx5EgfSTs
-This question was possibly duplicated with a more recent answer: [April 26th, 2022 Livestream Q&A: Toilet DLC, when?](./yt-ceIkXx7rE7Y.md) [https://www.youtube.com/watch?v=ceIkXx7rE7Y](https://www.youtube.com/watch?v=ceIkXx7rE7Y)
+This question was possibly duplicated with a more recent answer: [August 23rd, 2022 Livestream Q&A: When will we get the Toilet DLC?](./yt-Gt94bJHuacQ.md) [https://www.youtube.com/watch?v=Gt94bJHuacQ](https://www.youtube.com/watch?v=Gt94bJHuacQ)
 
 
 ### Topics

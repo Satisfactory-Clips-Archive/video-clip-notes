@@ -9,6 +9,11 @@ date: Last Modified
 * [Ping](../../topics/technology/user-interface/ping.md)
 * [Stamps](../../topics/technology/user-interface/stamps.md)
 
+## August 23rd, 2022 Livestream
+* [Q&A: Any plans to expand logistics customisation for Truck Stations?](../../transcriptions/yt--t8aIzxLycg.md) [https://www.youtube.com/watch?v=-t8aIzxLycg](https://www.youtube.com/watch?v=-t8aIzxLycg)
+* [Q&A: Plans to make the two graphs on Switches reflect both grids?](../../transcriptions/yt-oeVoO2Drp94.md) [https://www.youtube.com/watch?v=oeVoO2Drp94](https://www.youtube.com/watch?v=oeVoO2Drp94)
+* [Q&A: Any plans to make building faster/more streamlined?](../../transcriptions/yt-IAObwRW2rxk.md) [https://www.youtube.com/watch?v=IAObwRW2rxk](https://www.youtube.com/watch?v=IAObwRW2rxk)
+
 ## July 12th, 2022 Livestream
 * [Q&A: Any chance the Map will be able to show our Buildings?](../../transcriptions/yt-lknPhTGxh_4.md) [https://www.youtube.com/watch?v=lknPhTGxh_4](https://www.youtube.com/watch?v=lknPhTGxh_4)
 * [Q&A: What is something you want to have with the game?](../../transcriptions/yt-pFRFB1e7C9E.md) [https://www.youtube.com/watch?v=pFRFB1e7C9E](https://www.youtube.com/watch?v=pFRFB1e7C9E)

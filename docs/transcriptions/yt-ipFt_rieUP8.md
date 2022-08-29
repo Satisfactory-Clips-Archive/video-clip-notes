@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=ipFt_rieUP8
 
 ### Transcript
 
-> where the the peck of pickled peppers peter piper picked I thought I thought of thinking of thanking you seashells by the seashore all right you done with your vocal exercises you're done all right yeah oh we're live it's fine we're muted
+> where the [ __ ] the peck of pickled peppers peter piper picked I thought I thought of thinking of thanking you seashells by the seashore all right you done with your vocal exercises you're done all right yeah oh [ __ ] we're live it's fine we're muted

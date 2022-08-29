@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Power Management](../../../topics/features/power-management.md) > Power Switch
 
+## August 23rd, 2022 Livestream
+* [Q&A: Plans to make the two graphs on Switches reflect both grids?](../../../transcriptions/yt-oeVoO2Drp94.md) [https://www.youtube.com/watch?v=oeVoO2Drp94](https://www.youtube.com/watch?v=oeVoO2Drp94)
+
 ## February 15th, 2022 Livestream
 * [Q&A: Will this game ever support turning on more than 53 Power Switches without crashing?](../../../transcriptions/yt-In8ivlake1U.md) [https://www.youtube.com/watch?v=In8ivlake1U](https://www.youtube.com/watch?v=In8ivlake1U)
 

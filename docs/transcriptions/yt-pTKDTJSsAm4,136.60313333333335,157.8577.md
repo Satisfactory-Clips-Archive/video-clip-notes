@@ -14,4 +14,8 @@ https://youtube.com/embed/pTKDTJSsAm4?autoplay=1&start=136&end=158
 
 ### Transcript
 
-> shop is one of many things okay it's it's not the biggest feature and it is certainly not the only feature in update number three this week we're gonna have another teaser trailer out for something else and it's gonna be the same kind of thing it's gonna be a teaser and we're not gonna give much more information and do want you guys to talk about it and speculate about what it'll be and eventually you're gonna find out what it is and more information about it another question that I've been getting a lot is
+> now the shop is one of many things, okay it's not the biggest feature and it is
+certainly not the only feature in update #3 this week we're gonna have
+another teaser trailer out for something else and it's gonna be the same kind of thing 
+it's gonna be a teaser and we're not gonna give much more information and we want you guys to talk about it and speculate about what it'll be and
+eventually you're gonna find out what it is and more information about it another question that I've been getting a lot is information about the release date

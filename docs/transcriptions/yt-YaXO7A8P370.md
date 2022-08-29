@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=YaXO7A8P370
 
 ### Transcript
 
-> what I was gonna say yeah so so yeah we're me and jace have [ __ ] to do right now because update five is coming out on experimental on october 26th bam if you haven't heard the news yet it is it is soon is how many weeks is it four weeks three weeks less I don't know three weeks ah three weeks let's not have a panic attack on stream oh literally three weeks don't worry about it it's fine three weeks I just that was actually such a genuine sound you know you know when you're sitting at home alone and then you think of like this really [ __ ] awkward moment you had years ago or like you did something really stupid and you're making it falling asleep and you were thinking about that stupid [ __ ]
+> what I was gonna say yeah so so yeah we're me and jace have [ __ ] to do right now because update five is coming out on experimental on october 26th bam if you haven't heard the news yet it is it is soon is how many weeks is it four weeks three weeks less I don't know three weeks ah three weeks let's not have a panic attack on stream oh literally three weeks don't worry about it it's fine three weeks I just that was actually such a genuine sound you know you know when you're sitting at home alone and then you think of like this really [ __ ] awkward moment you had years ago or like you did something really stupid and you're making it falling asleep and you were thinking about that stupid [ __ ]
 >
 > [Laughter]
 >

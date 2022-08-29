@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Biomes](../../../topics/environment/biomes.md) > Spire Coast
 
+## August 23rd, 2022 Livestream
+* [Q&A: Are Spire Coast Oil nodes fixed in place now?](../../../transcriptions/yt-Qki7s83KDUM.md) [https://www.youtube.com/watch?v=Qki7s83KDUM](https://www.youtube.com/watch?v=Qki7s83KDUM)
+
 ## July 5th, 2022 Livestream
 * Snutt & Jace Talk: Resources in Spire Coast [https://www.youtube.com/watch?v=G14AvMQYcNk](https://www.youtube.com/watch?v=G14AvMQYcNk)
 * [Q&A: Will Drone terrain avoidance be fixed in Update 6?](../../../transcriptions/yt-wl76rNQbCAw.md) [https://www.youtube.com/watch?v=wl76rNQbCAw](https://www.youtube.com/watch?v=wl76rNQbCAw)

@@ -5,6 +5,12 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > Possible Features > Console Release
 
+## August 23rd, 2022 Livestream
+* [Q&A: Any Updates on Console?](../../../transcriptions/yt-N_P83ITCFFM.md) [https://www.youtube.com/watch?v=N_P83ITCFFM](https://www.youtube.com/watch?v=N_P83ITCFFM)
+* [Q&A: Is it even possible to run this game on Console?](../../../transcriptions/yt-YyqmT9AXOks.md) [https://www.youtube.com/watch?v=YyqmT9AXOks](https://www.youtube.com/watch?v=YyqmT9AXOks)
+* [Q&A: Surely Console doesn't have enough buttons?](../../../transcriptions/yt-MeYcK2YzY8M.md) [https://www.youtube.com/watch?v=MeYcK2YzY8M](https://www.youtube.com/watch?v=MeYcK2YzY8M)
+* [Q&A: Will it run on the Steam Deck?](../../../transcriptions/yt-fkgt6horxZY.md) [https://www.youtube.com/watch?v=fkgt6horxZY](https://www.youtube.com/watch?v=fkgt6horxZY)
+
 ## July 12th, 2022 Livestream
 * [Q&A: Steamdeck support?](../../../transcriptions/yt-pnGHUFNCong.md) [https://www.youtube.com/watch?v=pnGHUFNCong](https://www.youtube.com/watch?v=pnGHUFNCong)
 

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Flannel
 
+## August 23rd, 2022 Livestream
+* [Community FYI: +1 for Flannel](../../transcriptions/yt-H0-9KWx9ZVk.md) [https://www.youtube.com/watch?v=H0-9KWx9ZVk](https://www.youtube.com/watch?v=H0-9KWx9ZVk)
+
 ## August 10th, 2021 Livestream
 * [Q&A: Where's the Flannel?](../../transcriptions/yt-L410e2quLJA.md) [https://www.youtube.com/watch?v=L410e2quLJA](https://www.youtube.com/watch?v=L410e2quLJA)
 

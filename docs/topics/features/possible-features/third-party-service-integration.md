@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > Possible Features > Third-Party Service Integration
 * [Achievements](../../../topics/features/possible-features/third-party-service-integration/achievements.md)
 
+## August 23rd, 2022 Livestream
+* [Q&A: Exclusive skins for Belts, things via Twitch drops?](../../../transcriptions/yt-2K55fuMxHfo.md) [https://www.youtube.com/watch?v=2K55fuMxHfo](https://www.youtube.com/watch?v=2K55fuMxHfo)
+
 ## May 4th, 2021 Livestream
 * [Q&A: Why would you need support for speedrunning?](../../../transcriptions/yt-d0O-WTsvAYA.md) [https://www.youtube.com/watch?v=d0O-WTsvAYA](https://www.youtube.com/watch?v=d0O-WTsvAYA)
 

@@ -14,4 +14,4 @@ https://youtube.com/clip/UgkxpqrUMOmr26iiPZ-wjxwZUatn8PFuQvG1
 
 ### Transcript
 
-> there you go let's talk about Simon are the delays really his fault are the things you blame in for actually true yeah it actually is always fault all delays have been Simon's fault he even admit somebody's Twitter profile and also 100 percent of the things that I've blamed it for is also actually true isn't it Simon yes see and that's actually all the time that I have for
+> Let's talk about Simon. Are the delays REALLY his fault? Are the things you blame him for ACTUALLY true? Yeah, it actually is always his fault.  All delays have been Simon's fault He even admits on his Twitter profile and also 100% of the things that I've blamed him for, is also actually true. Isn't it Simon? Yessssss See ... And that's actually all the time that I have for you today So thank you very much for submitting your questions. I really hope these answers tie you in for a little while

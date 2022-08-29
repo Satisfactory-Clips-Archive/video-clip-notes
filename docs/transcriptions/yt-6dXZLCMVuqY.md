@@ -10,6 +10,8 @@ topics:
 # [October 12th, 2021 Livestream](../2021-10-12.md)
 ## Q&A: What about Trains running over Players?
 https://www.youtube.com/watch?v=6dXZLCMVuqY
+This question was possibly duplicated with a more recent answer: [March 1st, 2022 Livestream Q&A: Why don't Trains kill people or rag doll?](./yt-IGwr-vvp3Nk.md) [https://www.youtube.com/watch?v=IGwr-vvp3Nk](https://www.youtube.com/watch?v=IGwr-vvp3Nk)
+
 
 ### Topics
 * [Features > Pioneer](../topics/features/pioneer.md)

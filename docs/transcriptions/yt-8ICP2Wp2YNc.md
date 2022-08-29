@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=8ICP2Wp2YNc
 
 ### Transcript
 
-> it's somebody here please no train hitbox we found the person with trains that go through each other we found the person with three trains on one track yeah three directional sure they have like 19. yeah but please don't hit [ __ ] it does make like building train tracks very simple right now where you just have like yeah put down one train track and just go bi-directional and don't have to think about it but you know guys in the future you're gonna probably need to
+> it's somebody here please no train hitbox we found the person with trains that go through each other we found the person with three trains on one track yeah three directional sure they have like 19. yeah but please don't hit it does make like building train tracks very simple right now where you just have like yeah put down one train track and just go bi-directional and don't have to think about it but you know guys in the future you're gonna probably need to

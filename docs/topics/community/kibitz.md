@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Kibitz
 
+## August 23rd, 2022 Livestream
+* [Q&A: You met Kibitz & TotalXclipse, what other community members did you meet?](../../transcriptions/yt-R-rt6DzGeUM.md) [https://www.youtube.com/watch?v=R-rt6DzGeUM](https://www.youtube.com/watch?v=R-rt6DzGeUM)
+
 ## November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary
 * [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 38)](../../transcriptions/yt-ET97RxecUtY.md) [https://www.youtube.com/watch?v=ET97RxecUtY](https://www.youtube.com/watch?v=ET97RxecUtY)
 

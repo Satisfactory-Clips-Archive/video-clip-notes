@@ -10,6 +10,9 @@ date: Last Modified
 * [Non Flying Bird](../../topics/environment/creatures/non-flying-bird.md)
 * [Space Giraffe-Tick-Penguin-Whale Thing](../../topics/environment/creatures/space-giraffe-tick-penguin-whale-thing.md)
 
+## August 23rd, 2022 Livestream
+* [State of Dev: Where's Update 6?](../../transcriptions/yt-Or4PvDOCofA.md) [https://www.youtube.com/watch?v=Or4PvDOCofA](https://www.youtube.com/watch?v=Or4PvDOCofA)
+
 ## July 12th, 2022 Livestream
 * [State of Vacation](../../transcriptions/yt-p-5N0u4DqL0.md) [https://www.youtube.com/watch?v=p-5N0u4DqL0](https://www.youtube.com/watch?v=p-5N0u4DqL0)
 * [Q&A: Can we have fishing?](../../transcriptions/yt-kzzGQhtiny8.md) [https://www.youtube.com/watch?v=kzzGQhtiny8](https://www.youtube.com/watch?v=kzzGQhtiny8)

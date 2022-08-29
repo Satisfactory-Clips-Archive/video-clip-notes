@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Trolling
 
+## August 23rd, 2022 Livestream
+* [Q&A: Why not a GOG version?](../transcriptions/yt-9hlTnbKGXSo.md) [https://www.youtube.com/watch?v=9hlTnbKGXSo](https://www.youtube.com/watch?v=9hlTnbKGXSo)
+
 ## July 12th, 2022 Livestream
 * [Q&A: Where's Goat Sim 2?](../transcriptions/yt-1mcwsT0WCvc.md) [https://www.youtube.com/watch?v=1mcwsT0WCvc](https://www.youtube.com/watch?v=1mcwsT0WCvc)
 

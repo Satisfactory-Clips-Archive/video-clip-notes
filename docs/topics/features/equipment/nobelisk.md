@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Equipment](../../../topics/features/equipment.md) > Nobelisk
 * [Nobelisk Detonator](../../../topics/features/equipment/nobelisk/detonator.md)
 
+## August 23rd, 2022 Livestream
+* [Q&A: Will the explodable rocks that reappear be fixed in Update 6?](../../../transcriptions/yt-3x91IjO5rSI.md) [https://www.youtube.com/watch?v=3x91IjO5rSI](https://www.youtube.com/watch?v=3x91IjO5rSI)
+
 ## July 12th, 2022 Livestream
 * [Q&A: Have you ever thought of making Alt Recipes for the Nuclear Nobelisk that use Plutonium Cells?](../../../transcriptions/yt-aOai0WNLPDo.md) [https://www.youtube.com/watch?v=aOai0WNLPDo](https://www.youtube.com/watch?v=aOai0WNLPDo)
 

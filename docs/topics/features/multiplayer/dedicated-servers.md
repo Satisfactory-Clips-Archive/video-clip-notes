@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Multiplayer](../../../topics/features/multiplayer.md) > Dedicated Servers
 
+## August 23rd, 2022 Livestream
+* [State of Dev: Where's Update 6?](../../../transcriptions/yt-Or4PvDOCofA.md) [https://www.youtube.com/watch?v=Or4PvDOCofA](https://www.youtube.com/watch?v=Or4PvDOCofA)
+* [Community FYI: Lights on Storage Boxes are broken on Dedicated Servers](../../../transcriptions/yt-RCGxwceXdzw.md) [https://www.youtube.com/watch?v=RCGxwceXdzw](https://www.youtube.com/watch?v=RCGxwceXdzw)
+* [Community FYI: We don't speak about Dedicated Servers](../../../transcriptions/yt-EEAN6qboaY0.md) [https://www.youtube.com/watch?v=EEAN6qboaY0](https://www.youtube.com/watch?v=EEAN6qboaY0)
+
 ## July 12th, 2022 Livestream
 * [State of Vacation](../../../transcriptions/yt-p-5N0u4DqL0.md) [https://www.youtube.com/watch?v=p-5N0u4DqL0](https://www.youtube.com/watch?v=p-5N0u4DqL0)
 

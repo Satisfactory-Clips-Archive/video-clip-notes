@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=H0wL0VJjkJY
 
 ### Transcript
 
-> haven't been to america before if so have you tried pizza yes I've been to america a few places I've been to san francisco seattle, up in maine, boston new york I had pizza and like all those places very good some good some [ __ ] but you know
+> haven't been to america before if so have you tried pizza yes I've been to america a few places I've been to san francisco seattle, up in maine, boston new york I had pizza and like all those places very good some good some [ __ ] but you know

@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Equipment](../../../topics/features/equipment.md) > Customizer
 
+## August 23rd, 2022 Livestream
+* [Q&A: Exclusive skins for Belts, things via Twitch drops?](../../../transcriptions/yt-2K55fuMxHfo.md) [https://www.youtube.com/watch?v=2K55fuMxHfo](https://www.youtube.com/watch?v=2K55fuMxHfo)
+* [Q&A: Any plans to make building faster/more streamlined?](../../../transcriptions/yt-IAObwRW2rxk.md) [https://www.youtube.com/watch?v=IAObwRW2rxk](https://www.youtube.com/watch?v=IAObwRW2rxk)
+
 ## July 12th, 2022 Livestream
 * [Q&A: Do you guys have plans to add additional custom swatches?](../../../transcriptions/yt-vEty9CjTG9s.md) [https://www.youtube.com/watch?v=vEty9CjTG9s](https://www.youtube.com/watch?v=vEty9CjTG9s)
 

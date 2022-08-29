@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > [Power Management](../../../../topics/features/power-management.md) > [Nuclear Energy](../../../../topics/features/power-management/nuclear-energy.md) > Nuclear Waste
 
+## August 23rd, 2022 Livestream
+* [Q&A: Can I just sell my Nuclear Waste?](../../../../transcriptions/yt-sn8IjFnUwoA.md) [https://www.youtube.com/watch?v=sn8IjFnUwoA](https://www.youtube.com/watch?v=sn8IjFnUwoA)
+
 ## July 5th, 2022 Livestream
 * [Q&A: Experimental Nuclear Waste Water bug fix?](../../../../transcriptions/yt-blWlTrXLMt0.md) [https://www.youtube.com/watch?v=blWlTrXLMt0](https://www.youtube.com/watch?v=blWlTrXLMt0)
 

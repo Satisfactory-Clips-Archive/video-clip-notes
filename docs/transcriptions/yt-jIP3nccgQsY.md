@@ -24,6 +24,6 @@ https://www.youtube.com/watch?v=jIP3nccgQsY
 >
 > let's go zapatos by the main which by the way it means shoes yeah is that what those are yeah I was so happy when I saw people that got that yeah did he just say shoes like shoes
 >
-> [ __ ]
+> [ __ ]
 >
 > yeah yeah and then everyone else who doesn't speak spanish was like exactly what, mud is saying yeah zapdos where's articuno you know,

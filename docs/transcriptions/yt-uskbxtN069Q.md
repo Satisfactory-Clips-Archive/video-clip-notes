@@ -10,7 +10,7 @@ topics:
 # [February 16th, 2021 Livestream](../2021-02-16.md)
 ## Q&A: Can we sleep through nights?
 https://www.youtube.com/watch?v=uskbxtN069Q
-This question was possibly duplicated with a more recent answer: [July 5th, 2022 Livestream Q&A: Will there ever be a sleep option?](./yt-I-wckc7yt1M.md) [https://www.youtube.com/watch?v=I-wckc7yt1M](https://www.youtube.com/watch?v=I-wckc7yt1M)
+This question was possibly duplicated with a more recent answer: [August 23rd, 2022 Livestream Q&A: Will we be able to sleep in the HUB's bed?](./yt-U6UAVFjQvVo.md) [https://www.youtube.com/watch?v=U6UAVFjQvVo](https://www.youtube.com/watch?v=U6UAVFjQvVo)
 
 
 ### Topics

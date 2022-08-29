@@ -8,7 +8,7 @@ topics:
 # [May 15th, 2020 Q&A](../2020-05-15.md)
 ## Q&A: In a far and glorious future will we have other maps?
 https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=1213&end=1228
-This question was possibly duplicated with a more recent answer: [February 15th, 2022 Livestream Q&A: More Maps?](./yt-TC3b3F-b8a8.md) [https://www.youtube.com/watch?v=TC3b3F-b8a8](https://www.youtube.com/watch?v=TC3b3F-b8a8)
+This question was possibly duplicated with a more recent answer: [August 23rd, 2022 Livestream Q&A: Would you guys be open to do Map DLC?](./yt-OxNPDWP1m9E.md) [https://www.youtube.com/watch?v=OxNPDWP1m9E](https://www.youtube.com/watch?v=OxNPDWP1m9E)
 
 
 ### Topics

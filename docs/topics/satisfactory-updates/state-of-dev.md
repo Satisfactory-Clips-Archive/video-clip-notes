@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > State of Dev
 
+## August 23rd, 2022 Livestream
+* [State of Dev: Where's Update 6?](../../transcriptions/yt-Or4PvDOCofA.md) [https://www.youtube.com/watch?v=Or4PvDOCofA](https://www.youtube.com/watch?v=Or4PvDOCofA)
+
 ## July 12th, 2022 Livestream
 * [State of Vacation](../../transcriptions/yt-p-5N0u4DqL0.md) [https://www.youtube.com/watch?v=p-5N0u4DqL0](https://www.youtube.com/watch?v=p-5N0u4DqL0)
 

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Requested Features](../../../topics/features/requested-features.md) > Elevators
 
+## August 23rd, 2022 Livestream
+* [Q&A: Does the game have Elevators?](../../../transcriptions/yt-6PUy-KYqQVQ.md) [https://www.youtube.com/watch?v=6PUy-KYqQVQ](https://www.youtube.com/watch?v=6PUy-KYqQVQ)
+
 ## July 5th, 2022 Livestream
 * [Q&A: Lifts for my factory?](../../../transcriptions/yt-k3lN97uKPgw.md) [https://www.youtube.com/watch?v=k3lN97uKPgw](https://www.youtube.com/watch?v=k3lN97uKPgw)
 

@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Mods](../../topics/mods.md) > Mods vs. Features
 
+## August 23rd, 2022 Livestream
+* [Q&A: Lua scripting for Programmable Splitters?](../../transcriptions/yt-DHB_Njam_hc.md) [https://www.youtube.com/watch?v=DHB_Njam_hc](https://www.youtube.com/watch?v=DHB_Njam_hc)
+* [Q&A: Would it be possible to create our own Maps?](../../transcriptions/yt-2BRnRTwf2UA.md) [https://www.youtube.com/watch?v=2BRnRTwf2UA](https://www.youtube.com/watch?v=2BRnRTwf2UA)
+* [Q&A: Does the game have Elevators?](../../transcriptions/yt-6PUy-KYqQVQ.md) [https://www.youtube.com/watch?v=6PUy-KYqQVQ](https://www.youtube.com/watch?v=6PUy-KYqQVQ)
+
 ## July 5th, 2022 Livestream
 * [Q&A: Some Mod adds ability to use holograms to plan layout, any chance of adding that?](../../transcriptions/yt-rP7YheyIQ3g.md) [https://www.youtube.com/watch?v=rP7YheyIQ3g](https://www.youtube.com/watch?v=rP7YheyIQ3g)
 * [Q&A: Will Modders be able to add new planets / Maps?](../../transcriptions/yt-82NtL0BMKMM.md) [https://www.youtube.com/watch?v=82NtL0BMKMM](https://www.youtube.com/watch?v=82NtL0BMKMM)

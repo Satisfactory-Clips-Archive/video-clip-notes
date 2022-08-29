@@ -30,4 +30,4 @@ This question was possibly duplicated with a more recent answer: [December 14th,
 >
 > [Laughter]
 >
-> there will not be a snow by him I can I can confirm that the way that she was like no she's so tired of this [ __ ] there are there are not many things that we just straight up say no to not not many yeah but, that was one of them
+> there will not be a snow by him I can I can confirm that the way that she was like no she's so tired of this there are there are not many things that we just straight up say no to not not many yeah but, that was one of them

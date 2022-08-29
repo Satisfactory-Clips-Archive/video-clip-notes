@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=5UL7wCflXdw
 
 ### Transcript
 
-> cool speaking of the miner speaking of personality I think the drones have like yeah I think drones have a lot yeah yeah personal miner looks like it's taking a [ __ ]
+> cool speaking of the miner speaking of personality I think the drones have like yeah I think drones have a lot yeah yeah personal miner looks like it's taking a [ __ ]
 >
 > [Laughter]
 >

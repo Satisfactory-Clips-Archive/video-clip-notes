@@ -27,6 +27,11 @@ date: Last Modified
 * [The HUB](../../topics/features/buildings/the-hub.md)
 * [Water Extractor](../../topics/features/buildings/water-extractor.md)
 
+## August 23rd, 2022 Livestream
+* [Q&A: Are Drone Ports ever going to be as customisable as Train Stations?](../../transcriptions/yt-GQUL70uAm38.md) [https://www.youtube.com/watch?v=GQUL70uAm38](https://www.youtube.com/watch?v=GQUL70uAm38)
+* [Q&A: Any plans to expand logistics customisation for Truck Stations?](../../transcriptions/yt--t8aIzxLycg.md) [https://www.youtube.com/watch?v=-t8aIzxLycg](https://www.youtube.com/watch?v=-t8aIzxLycg)
+* [Q&A: Any plans to make building faster/more streamlined?](../../transcriptions/yt-IAObwRW2rxk.md) [https://www.youtube.com/watch?v=IAObwRW2rxk](https://www.youtube.com/watch?v=IAObwRW2rxk)
+
 ## July 12th, 2022 Livestream
 * [Q&A: Any chance the Map will be able to show our Buildings?](../../transcriptions/yt-lknPhTGxh_4.md) [https://www.youtube.com/watch?v=lknPhTGxh_4](https://www.youtube.com/watch?v=lknPhTGxh_4)
 * Q&A: Stun Spitters and put on Observation Towers as turrents, when? [https://www.youtube.com/watch?v=4YsojB22Vt8](https://www.youtube.com/watch?v=4YsojB22Vt8)

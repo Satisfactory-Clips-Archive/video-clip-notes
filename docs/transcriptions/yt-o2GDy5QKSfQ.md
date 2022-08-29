@@ -20,4 +20,8 @@ This question was possibly duplicated with a more recent answer: [February 8th, 
 >
 > [Music]
 >
-> we've certainly thought about that does that mean that it's gonna come I don't know I shouldn't have said it like that I can't say anything on the stream  no matter what I do you people are just gonna upload it every other q is that yeah confirmed
+> we've certainly thought about that does that mean that it's gonna come I don't know I shouldn't have said it like that I can't say anything on the stream
+>
+> [ __ ]
+>
+> no matter what I do you people are just gonna [ __ ] upload it every other q is that yeah confirmed [ __ ]

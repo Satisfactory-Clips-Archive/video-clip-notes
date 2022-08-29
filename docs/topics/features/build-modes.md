@@ -8,6 +8,9 @@ date: Last Modified
 * [Quick Switch](../../topics/features/build-modes/quick-switch.md)
 * [Zooping](../../topics/features/build-modes/zooping.md)
 
+## August 23rd, 2022 Livestream
+* [Q&A: Any plans to make building faster/more streamlined?](../../transcriptions/yt-IAObwRW2rxk.md) [https://www.youtube.com/watch?v=IAObwRW2rxk](https://www.youtube.com/watch?v=IAObwRW2rxk)
+
 ## July 12th, 2022 Livestream
 * [Q&A: Of all the things you've coded into the game what are you most proud of?](../../transcriptions/yt-kWGtntaPlYg.md) [https://www.youtube.com/watch?v=kWGtntaPlYg](https://www.youtube.com/watch?v=kWGtntaPlYg)
 

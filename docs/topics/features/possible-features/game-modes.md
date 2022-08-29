@@ -8,6 +8,9 @@ date: Last Modified
 * [Creative Mode](../../../topics/features/possible-features/game-modes/creative-mode.md)
 * [Peaceful Mode](../../../topics/features/possible-features/game-modes/peaceful-mode.md)
 
+## August 23rd, 2022 Livestream
+* [Q&A: Easy mode for Satisfactory?](../../../transcriptions/yt-9fORTos7008.md) [https://www.youtube.com/watch?v=9fORTos7008](https://www.youtube.com/watch?v=9fORTos7008)
+
 ## May 20th, 2022 Video
 * [Introducing the topic of the video](../../../transcriptions/yt-QYMHs1aTyOs,0,50.71666666666667.md) [https://youtube.com/clip/UgkxZ3nwhjcybkF-yU6Xe7nCXgEkWb2ouLJ6](https://youtube.com/clip/UgkxZ3nwhjcybkF-yU6Xe7nCXgEkWb2ouLJ6)
 

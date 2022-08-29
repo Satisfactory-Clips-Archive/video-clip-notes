@@ -4,6 +4,9 @@ date: Last Modified
 layout: index
 ---
 # 2022
+## August
+* [August 23rd](2022-08-23.md)
+
 ## July
 * [July 12th](2022-07-12.md)
 * [July 8th](2022-07-08.md)

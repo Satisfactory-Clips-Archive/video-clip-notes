@@ -20,6 +20,6 @@ https://www.youtube.com/watch?v=1cL_YyywAkU
 
 > if you were a building what would it be buy a mess burner if you were a building yeah
 >
-> [ __ ]
+> [ __ ]
 >
->, I'd be the hub you know like I'm the hub like oh it's looking so cool big the most important part but also it's the most broken building behind the scenes it's [ __ ] we the hub is [ __ ] kept up with duct tape like not even lying like that building has gone through so many iterations and it's so like poor thing it's a [ __ ] house of cards it's so tired yeah
+>, I'd be the hub you know like I'm the hub like oh it's looking so cool big the most important part but also it's the most broken building behind the scenes it's [ __ ] we the hub is [ __ ] kept up with duct tape like not even lying like that building has gone through so many iterations and it's so like poor thing it's a [ __ ] house of cards it's so tired yeah

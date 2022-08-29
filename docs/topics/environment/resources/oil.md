@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Resources](../../../topics/environment/resources.md) > Oil
 
+## August 23rd, 2022 Livestream
+* [Q&A: Are Spire Coast Oil nodes fixed in place now?](../../../transcriptions/yt-Qki7s83KDUM.md) [https://www.youtube.com/watch?v=Qki7s83KDUM](https://www.youtube.com/watch?v=Qki7s83KDUM)
+
 ## July 5th, 2022 Livestream
 * [Q&A: Sulfur is a by-product of Oil products, so maybe an Alternate Recipe?](../../../transcriptions/yt-QOAfdRa2TUE.md) [https://www.youtube.com/watch?v=QOAfdRa2TUE](https://www.youtube.com/watch?v=QOAfdRa2TUE)
 

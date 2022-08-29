@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=k7ZNKheSej4
 >
 > [Music]
 >
-> more like squared and, this one seems like more of a rectangle shape yeah and if you put two and two together and and you look at these pillars again maybe now- I just realized what it is actually yeah yeah I was like the is that you can come to the company maybe there's a conclusion to come to there that there's, maybe, yeah well let's see what the I want to see if what people think it's a peen well
+> more like squared and, this one seems like more of a rectangle shape yeah and if you put two and two together and and you look at these pillars again maybe now- I just realized what it is actually yeah yeah I was like the [ __ ] is that you can come to the company maybe there's a conclusion to come to there that there's, maybe, yeah well let's see what the I want to see if what people think it's a peen well
 >
 > [Laughter]
 >

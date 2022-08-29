@@ -9,7 +9,7 @@ topics:
 # [February 9th, 2021 Livestream](../2021-02-09.md)
 ## Q&A: Can there be a first-person view for driving cars?
 https://www.youtube.com/watch?v=7R_kqWfRwhA
-This question was possibly duplicated with a more recent answer: [May 11th, 2021 Livestream Q&A: Will there be first-person POV in Vehicles?](./yt-Q40_kNmSB20.md) [https://www.youtube.com/watch?v=Q40_kNmSB20](https://www.youtube.com/watch?v=Q40_kNmSB20)
+This question was possibly duplicated with a more recent answer: [August 23rd, 2022 Livestream Q&A: First-person camera in Vehicles, when?](./yt-6KI7k_zPCzo.md) [https://www.youtube.com/watch?v=6KI7k_zPCzo](https://www.youtube.com/watch?v=6KI7k_zPCzo)
 
 
 ### Topics

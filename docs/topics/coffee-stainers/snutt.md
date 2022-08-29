@@ -8,6 +8,13 @@ date: Last Modified
 * [Snutt Burger Time](../../topics/coffee-stainers/snutt/snutt-burger-time.md)
 * [Snutty Mays](../../topics/coffee-stainers/snutt/snutty-mays.md)
 
+## August 23rd, 2022 Livestream
+* [Snutt Talk: TwitchCon Amsterdam 2022 & coming back from vacation](../../transcriptions/yt-DNuJ364UwjI.md) [https://www.youtube.com/watch?v=DNuJ364UwjI](https://www.youtube.com/watch?v=DNuJ364UwjI)
+* [Q&A: How many Final Fantasy games did you play?](../../transcriptions/yt-iiy5VEyf5Ow.md) [https://www.youtube.com/watch?v=iiy5VEyf5Ow](https://www.youtube.com/watch?v=iiy5VEyf5Ow)
+* [Q&A: Does Snutt like Math?](../../transcriptions/yt-VFv1A-noPxw.md) [https://www.youtube.com/watch?v=VFv1A-noPxw](https://www.youtube.com/watch?v=VFv1A-noPxw)
+* [Q&A: Do you have a current favourite build style?](../../transcriptions/yt-gp6ULThyiHY.md) [https://www.youtube.com/watch?v=gp6ULThyiHY](https://www.youtube.com/watch?v=gp6ULThyiHY)
+* [Q&A: Is Snutt a nickname?](../../transcriptions/yt-0kgTm5t-6VQ.md) [https://www.youtube.com/watch?v=0kgTm5t-6VQ](https://www.youtube.com/watch?v=0kgTm5t-6VQ)
+
 ## July 12th, 2022 Livestream
 * Community FYI: Out of sync again [https://www.youtube.com/watch?v=pzTHsoxMmCg](https://www.youtube.com/watch?v=pzTHsoxMmCg)
 * Q&A: What games are you playing other than Satisfactory? [https://www.youtube.com/watch?v=BCgKNHSPFtk](https://www.youtube.com/watch?v=BCgKNHSPFtk)

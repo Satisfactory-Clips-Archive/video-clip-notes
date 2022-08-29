@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=CvlS6rkrPu4
 
 ### Transcript
 
-> I'm [ __ ] dead oh unreal versus unity they're both good yeah got him that's not what you expected huh but- I have a preference but where's the person they're both good and I've worked with both unity and unreal and you have two right yeah so we can actually have a here's that person
+> I'm dead oh unreal versus unity they're both good yeah got him that's not what you expected huh but- I have a preference but where's the person they're both good and I've worked with both unity and unreal and you have two right yeah so we can actually have a here's that person

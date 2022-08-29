@@ -8,7 +8,7 @@ topics:
 # [February 6th, 2019 Livestream](../2019-02-06.md)
 ## Q&A: Will there be third-person view?
 https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1245&end=1260
-This question was possibly duplicated with a more recent answer: July 5th, 2022 Livestream Q&A: What about Third-person View? [https://www.youtube.com/watch?v=--17oeeyyOI](https://www.youtube.com/watch?v=--17oeeyyOI)
+This question was possibly duplicated with a more recent answer: [August 23rd, 2022 Livestream Q&A: Third-person view?](./yt-u3Ki7FrGeLc.md) [https://www.youtube.com/watch?v=u3Ki7FrGeLc](https://www.youtube.com/watch?v=u3Ki7FrGeLc)
 
 
 ### Topics

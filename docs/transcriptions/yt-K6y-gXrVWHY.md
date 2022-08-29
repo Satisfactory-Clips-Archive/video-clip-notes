@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=K6y-gXrVWHY
 
 ### Transcript
 
-> god damn it walk the texas major [ __ ] walk a texas ranger okay are there any plans to change
+> god damn it walk the texas major walk a texas ranger okay are there any plans to change

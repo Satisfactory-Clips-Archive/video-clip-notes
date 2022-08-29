@@ -9,7 +9,7 @@ topics:
 # [June 29th, 2021 Livestream](../2021-06-29.md)
 ## Q&A: Any plans for player-generated maps?
 https://www.youtube.com/watch?v=8AAgPIENmZ0
-This question was possibly duplicated with a more recent answer: [December 14th, 2021 Livestream Q&A: Map Editor?](./yt-lX7XAk69lSw.md) [https://www.youtube.com/watch?v=lX7XAk69lSw](https://www.youtube.com/watch?v=lX7XAk69lSw)
+This question was possibly duplicated with a more recent answer: [August 23rd, 2022 Livestream Q&A: Would it be possible to create our own Maps?](./yt-2BRnRTwf2UA.md) [https://www.youtube.com/watch?v=2BRnRTwf2UA](https://www.youtube.com/watch?v=2BRnRTwf2UA)
 
 
 ### Topics

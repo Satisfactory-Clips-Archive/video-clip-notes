@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=S0Bhup_tHDw
 
 ### Transcript
 
-> oh yeah that's the step where you need the particle accelerator yeah ah I had to by the way when I made this scene I had to delete the particle accelerator because it's so [ __ ] huge right so like in the other shots it's it's like there you can't miss it I had to delete it yeah yeah while I was making those
+> oh yeah that's the step where you need the particle accelerator yeah ah I had to by the way when I made this scene I had to delete the particle accelerator because it's so huge right so like in the other shots it's it's like there you can't miss it I had to delete it yeah yeah while I was making those

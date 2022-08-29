@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=66gkiXXWrhI
 
 ### Transcript
 
-> that is coming out end of the month supposedly yeah but there's been one there's been one development and by development I mean I [ __ ] up how did you yeah we'll talk about that later I've I've, consciously not told jases I think, just because yeah because it'll be fun secrets within our relationship yeah last week was a [ __ ] mess okay anyway
+> that is coming out end of the month supposedly yeah but there's been one there's been one development and by development I mean I [ __ ] up how did you yeah we'll talk about that later I've I've, consciously not told jases I think, just because yeah because it'll be fun secrets within our relationship yeah last week was a [ __ ] mess okay anyway

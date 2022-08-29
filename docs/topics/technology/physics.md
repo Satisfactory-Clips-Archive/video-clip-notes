@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > Physics
 
+## August 23rd, 2022 Livestream
+* [Q&A: Can you talk about gravity in Satisfactory?](../../transcriptions/yt-pkx4sHwlbWQ.md) [https://www.youtube.com/watch?v=pkx4sHwlbWQ](https://www.youtube.com/watch?v=pkx4sHwlbWQ)
+* [Q&A: Any plans to improve Vehicle physics?](../../transcriptions/yt-xfFtf_z9IS4.md) [https://www.youtube.com/watch?v=xfFtf_z9IS4](https://www.youtube.com/watch?v=xfFtf_z9IS4)
+
 ## July 12th, 2022 Livestream
 * [Q&A: Any plans to fix how Vehicles are done when driving on any Foundation surface?](../../transcriptions/yt-vQjRcLqrXUM.md) [https://www.youtube.com/watch?v=vQjRcLqrXUM](https://www.youtube.com/watch?v=vQjRcLqrXUM)
 

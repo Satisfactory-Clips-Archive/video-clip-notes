@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Embracer Group](../../../topics/embracer-group.md) > Coffee Stain Holding > Coffee Stain Studios
 
+## August 23rd, 2022 Livestream
+* [Snutt Talk: TwitchCon Amsterdam 2022 & coming back from vacation](../../../transcriptions/yt-DNuJ364UwjI.md) [https://www.youtube.com/watch?v=DNuJ364UwjI](https://www.youtube.com/watch?v=DNuJ364UwjI)
+* [Q&A: Is the office buzzing again?](../../../transcriptions/yt-YonSJNSOB0o.md) [https://www.youtube.com/watch?v=YonSJNSOB0o](https://www.youtube.com/watch?v=YonSJNSOB0o)
+
 ## July 12th, 2022 Livestream
 * [Q&A: How's it possible for such an amazing studio to pour love into my favourite game?](../../../transcriptions/yt-GpZED_VvhQA.md) [https://www.youtube.com/watch?v=GpZED_VvhQA](https://www.youtube.com/watch?v=GpZED_VvhQA)
 * Q&A: Why are you not Twitch Affiliate? [https://www.youtube.com/watch?v=R7pZBW9DpnU](https://www.youtube.com/watch?v=R7pZBW9DpnU)

@@ -14,16 +14,4 @@ https://youtube.com/clip/UgyuVzQ9hVSDqmBsVK94AaABCQ
 
 ### Transcript
 
-> one other thing that you might
-be wondering, is that we had- I remember you know,
-quite a while ago we showcased a video of some like world update,
-like technical updates that are coming in Satisfactory in the future.
-We did a video with Ben our Tech Artist and he showcased some you know
-changes to the waterfalls for example and also some reflections
-some of these cool things it is important to note that these changes are
-not coming in Update 5 they will come in a future update.
-Don't ask me why they're not coming now there's reasons, we work on different
-versions of the game at the same time, incompatibilities, blah blah blah
-they're gonna come at some point in the future just not in Update 5 okay so that's everything that
-I wanted to talk about today I hope you found the video
-interesting, I hope you're-
+> anyways one other thing that you might be wondering, is that we had I remember you know quite a while ago we showcased a video of some like world update like technical updates that are coming in satisfactory in the future we did a video with ben our tech artist, and he showcased some you know changes to the waterfalls for example and also some reflections some of these cool things, it is, important to note that these changes are not coming in update five they will come in a future update don't ask me why they're not coming now there's reasons we work on different versions of the game at the same time incompatibilities blah blah blah they're gonna come at some point in the future just not in update five okay so that's everything that I wanted to talk

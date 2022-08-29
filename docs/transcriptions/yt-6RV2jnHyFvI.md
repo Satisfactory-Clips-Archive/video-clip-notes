@@ -24,4 +24,4 @@ https://www.youtube.com/watch?v=6RV2jnHyFvI
 >
 > [Laughter]
 >
-> oh that was so good that's that's good that's good pudding holy [ __ ] I'd charge the static decorations that'll be pretty funny if we put like sanctum tarts in the, in the, the, awesome shop that would be cool I think that would be a great little crossover reference or like it's broken and it doesn't work oh yeah like if like a hog runs up there it's like it tries to shoot it but it's like just shuts down yeah we need, go we need to mod lizard doggo to be the goat from good simulator that's what we need
+> oh that was so good that's that's good that's good pudding holy [ __ ] I'd charge the static decorations that'll be pretty funny if we put like sanctum tarts in the, in the, the, awesome shop that would be cool I think that would be a great little crossover reference or like it's broken and it doesn't work oh yeah like if like a hog runs up there it's like it tries to shoot it but it's like just shuts down yeah we need, go we need to mod lizard doggo to be the goat from good simulator that's what we need

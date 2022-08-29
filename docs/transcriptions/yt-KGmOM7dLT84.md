@@ -18,4 +18,4 @@ This question was possibly duplicated with a more recent answer: October 26th, 2
 
 ### Transcript
 
-> maybe someday I'll be able to talk have you looked into I think that's right- I would imagine that's like a swear word yo have you looked into [ __ ] for multiplayer dedicated server stuff we have not looked into [ __ ] for multiplayer dedicated stuff like we have we're we're doing this ourselves right now, because of the way it works but once, like we're gonna release dedicated servers openly so like anyone can help out, will not help out but like test it out and stuff
+> maybe someday I'll be able to talk have you looked into I think that's right- I would imagine that's like a swear word yo have you looked into for multiplayer dedicated server stuff we have not looked into for multiplayer dedicated stuff like we have we're we're doing this ourselves right now, because of the way it works but once, like we're gonna release dedicated servers openly so like anyone can help out, will not help out but like test it out and stuff

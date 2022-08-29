@@ -14,6 +14,9 @@ date: Last Modified
 * [User Interface](../topics/technology/user-interface.md)
 * [Vulkan](../topics/technology/vulkan.md)
 
+## August 23rd, 2022 Livestream
+* [Snutt Talk: Multi-threaded programming](../transcriptions/yt-Aj7aI7Lwg9k.md) [https://www.youtube.com/watch?v=Aj7aI7Lwg9k](https://www.youtube.com/watch?v=Aj7aI7Lwg9k)
+
 ## July 5th, 2022 Livestream
 * [Q&A: Will the game run on more than one CPU?](../transcriptions/yt-_KZ7iwEuEvM.md) [https://www.youtube.com/watch?v=_KZ7iwEuEvM](https://www.youtube.com/watch?v=_KZ7iwEuEvM)
 

@@ -8,7 +8,7 @@ topics:
 # [September 28th, 2021 Livestream](../2021-09-28.md)
 ## Q&A: Are you guys putting any form of Blueprinting into the game?
 https://www.youtube.com/watch?v=LdNJwc9xclw
-This question was possibly duplicated with a more recent answer: [July 5th, 2022 Livestream Q&A: What about adding Blueprints to the game?](./yt-Q6CLsgXQomg.md) [https://www.youtube.com/watch?v=Q6CLsgXQomg](https://www.youtube.com/watch?v=Q6CLsgXQomg)
+This question was possibly duplicated with a more recent answer: [August 23rd, 2022 Livestream Q&A: Blueprints system, when?](./yt-KXdigLjnaXI.md) [https://www.youtube.com/watch?v=KXdigLjnaXI](https://www.youtube.com/watch?v=KXdigLjnaXI)
 
 
 ### Topics

@@ -20,6 +20,6 @@ https://www.youtube.com/watch?v=k6bndNMxxdE
 
 > they dug up the food court and now it got well I guess they know it's confirmed carrots just just no fish okay that that's absolutely no fish it's very clear there's gonna not be any fish I don't know if this is a big piece of bread or the top of a mushroom and I think I'm okay with it you know if you can see that there maybe next to the mushroom bread next to the carrot bread mushroom hell yeah look at these potatoes here holy
 >
-> [ __ ]
+> [ __ ]
 >
 > all these little fix-it mugs perfect eating well we need to get cosmetics into the game that's what the game needs yeah yep that dream that's the dream furniture would be so dope right hell yeah nice and cozy yeah this is jesus house no this is too good don't you want to live here james I want to work here I don't want to live here okay it's that carpet dude it's a bit it's a bit much for me it's a bit much all right is it is it overwhelming or is it just whelming it's, yeah I wouldn't say overwhelming okay it's just warming yeah regular welding yeah yeah I understand yeah does well me mean anything you know who knows tune in next week for, jace's english lesson where we discuss the meaning of whelming all right dora takes to the next one vamanos

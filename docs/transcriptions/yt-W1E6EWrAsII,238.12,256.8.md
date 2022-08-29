@@ -14,4 +14,4 @@ https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=238&end=257
 
 ### Transcript
 
-> how many alpha Keys will there be what are my chances of being selected when will you be sending them out how will you choose who gets them we don't know how many alpha keys will be sent out we don't what your chances are of getting an alpha key we don't know when we're sending out the alpha keys and we don't know how we're choosing who gets an alpha key so I hope I hope that answers your questions general multiplayer stuff you can play
+> How many Alpha Keys will there be? What are my chances of being selected? When will you be sending them out? How will you choose who gets them? We don't know how many Alpha keys will be sent out. We don't what your chances are of getting an Alpha key We don't know when we're sending out the Alpha keys, and we don't know how we're choosing who gets an Alpha key So I hope, I hope that answers your questions. General multiplayer stuff You can play the game in single-player without the need for a server or anything like that. In multiplayer

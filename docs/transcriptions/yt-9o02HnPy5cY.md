@@ -8,7 +8,7 @@ topics:
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Q&A: When is the Hub bed going to work like the Minecraft one?
 https://www.youtube.com/watch?v=9o02HnPy5cY
-This question was possibly duplicated with a more recent answer: [July 5th, 2022 Livestream Q&A: Will there ever be a sleep option?](./yt-I-wckc7yt1M.md) [https://www.youtube.com/watch?v=I-wckc7yt1M](https://www.youtube.com/watch?v=I-wckc7yt1M)
+This question was possibly duplicated with a more recent answer: [August 23rd, 2022 Livestream Q&A: Will we be able to sleep in the HUB's bed?](./yt-U6UAVFjQvVo.md) [https://www.youtube.com/watch?v=U6UAVFjQvVo](https://www.youtube.com/watch?v=U6UAVFjQvVo)
 
 
 ### Topics

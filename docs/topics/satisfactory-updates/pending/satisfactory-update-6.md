@@ -5,6 +5,12 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Pending](../../../topics/satisfactory-updates/pending.md) > Satisfactory Update 6
 
+## August 23rd, 2022 Livestream
+* [State of Dev: Where's Update 6?](../../../transcriptions/yt-Or4PvDOCofA.md) [https://www.youtube.com/watch?v=Or4PvDOCofA](https://www.youtube.com/watch?v=Or4PvDOCofA)
+* [Q&A: Are Spire Coast Oil nodes fixed in place now?](../../../transcriptions/yt-Qki7s83KDUM.md) [https://www.youtube.com/watch?v=Qki7s83KDUM](https://www.youtube.com/watch?v=Qki7s83KDUM)
+* [Q&A: New Nuclear Recipes confirmed?](../../../transcriptions/yt-RDZCG82PWRo.md) [https://www.youtube.com/watch?v=RDZCG82PWRo](https://www.youtube.com/watch?v=RDZCG82PWRo)
+* [Q&A: Will the explodable rocks that reappear be fixed in Update 6?](../../../transcriptions/yt-3x91IjO5rSI.md) [https://www.youtube.com/watch?v=3x91IjO5rSI](https://www.youtube.com/watch?v=3x91IjO5rSI)
+
 ## July 12th, 2022 Livestream
 * [State of Vacation](../../../transcriptions/yt-p-5N0u4DqL0.md) [https://www.youtube.com/watch?v=p-5N0u4DqL0](https://www.youtube.com/watch?v=p-5N0u4DqL0)
 * [Q&A: Any news on game crashing on melee kill of Spitters?](../../../transcriptions/yt-AVd3FMTNpc4.md) [https://www.youtube.com/watch?v=AVd3FMTNpc4](https://www.youtube.com/watch?v=AVd3FMTNpc4)

@@ -8,7 +8,7 @@ topics:
 # [June 28th, 2022 Livestream](../2022-06-28.md)
 ## Q&A: Any updates on Blueprints?
 https://www.youtube.com/watch?v=lvFdAmOYDks
-This question was possibly duplicated with a more recent answer: [July 5th, 2022 Livestream Q&A: What about adding Blueprints to the game?](./yt-Q6CLsgXQomg.md) [https://www.youtube.com/watch?v=Q6CLsgXQomg](https://www.youtube.com/watch?v=Q6CLsgXQomg)
+This question was possibly duplicated with a more recent answer: [August 23rd, 2022 Livestream Q&A: Blueprints system, when?](./yt-KXdigLjnaXI.md) [https://www.youtube.com/watch?v=KXdigLjnaXI](https://www.youtube.com/watch?v=KXdigLjnaXI)
 
 
 ### Topics

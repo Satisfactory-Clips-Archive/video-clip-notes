@@ -8,6 +8,9 @@ date: Last Modified
 * [Skövde](../../topics/off-topic/sweden/skovde.md)
 * [Stockholm](../../topics/off-topic/sweden/stockholm.md)
 
+## August 23rd, 2022 Livestream
+* [Snutt Talk: TwitchCon Amsterdam 2022 & coming back from vacation](../../transcriptions/yt-DNuJ364UwjI.md) [https://www.youtube.com/watch?v=DNuJ364UwjI](https://www.youtube.com/watch?v=DNuJ364UwjI)
+
 ## July 12th, 2022 Livestream
 * [Q&A: What are the legal requirements for vacation in Sweden?](../../transcriptions/yt-pQWgPFIzCyI.md) [https://www.youtube.com/watch?v=pQWgPFIzCyI](https://www.youtube.com/watch?v=pQWgPFIzCyI)
 

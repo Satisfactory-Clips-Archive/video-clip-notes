@@ -11,6 +11,13 @@ date: Last Modified
 * [Resources](../topics/environment/resources.md)
 * [World Map](../topics/environment/world-map.md)
 
+## August 23rd, 2022 Livestream
+* [Q&A: Are more static objects going to be added to the Map?](../transcriptions/yt-C3KwCu4t5P8.md) [https://www.youtube.com/watch?v=C3KwCu4t5P8](https://www.youtube.com/watch?v=C3KwCu4t5P8)
+* [Q&A: Would it be possible to create our own Maps?](../transcriptions/yt-2BRnRTwf2UA.md) [https://www.youtube.com/watch?v=2BRnRTwf2UA](https://www.youtube.com/watch?v=2BRnRTwf2UA)
+* [Q&A: Would you guys be open to do Map DLC?](../transcriptions/yt-OxNPDWP1m9E.md) [https://www.youtube.com/watch?v=OxNPDWP1m9E](https://www.youtube.com/watch?v=OxNPDWP1m9E)
+* [Q&A: Will the explodable rocks that reappear be fixed in Update 6?](../transcriptions/yt-3x91IjO5rSI.md) [https://www.youtube.com/watch?v=3x91IjO5rSI](https://www.youtube.com/watch?v=3x91IjO5rSI)
+* [Q&A: Will we be able to destroy Gas Pillars?](../transcriptions/yt-Mrexbr9w4H8.md) [https://www.youtube.com/watch?v=Mrexbr9w4H8](https://www.youtube.com/watch?v=Mrexbr9w4H8)
+
 ## July 12th, 2022 Livestream
 * [Q&A: Possibility the smaller spires can be destroyed?](../transcriptions/yt-xcyJe-_BlNc.md) [https://www.youtube.com/watch?v=xcyJe-_BlNc](https://www.youtube.com/watch?v=xcyJe-_BlNc)
 * [Q&A: Gas Pillars harvestable as a Resource, when?](../transcriptions/yt-LyvW1dRpHdU.md) [https://www.youtube.com/watch?v=LyvW1dRpHdU](https://www.youtube.com/watch?v=LyvW1dRpHdU)

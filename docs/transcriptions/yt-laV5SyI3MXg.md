@@ -11,7 +11,7 @@ topics:
 # [May 4th, 2021 Livestream](../2021-05-04.md)
 ## Q&A: Pick up Lizard Doggo as a feature?
 https://www.youtube.com/watch?v=laV5SyI3MXg
-This question was possibly duplicated with a more recent answer: [February 22nd, 2022 Livestream Q&A: When can you pick up the tamed Doggo?](./yt-VOpTrVlT95g.md) [https://www.youtube.com/watch?v=VOpTrVlT95g](https://www.youtube.com/watch?v=VOpTrVlT95g)
+This question was possibly duplicated with a more recent answer: [August 23rd, 2022 Livestream Q&A: Picking up a Lizard Doggo & putting it in inventory?](./yt-KK-x3KKUMrk.md) [https://www.youtube.com/watch?v=KK-x3KKUMrk](https://www.youtube.com/watch?v=KK-x3KKUMrk)
 
 
 ### Topics

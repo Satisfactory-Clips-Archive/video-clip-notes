@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > QA Site
 
+## August 23rd, 2022 Livestream
+* [Q&A: Where do I put bug reports?](../transcriptions/yt-gTfw8tigtxs.md) [https://www.youtube.com/watch?v=gTfw8tigtxs](https://www.youtube.com/watch?v=gTfw8tigtxs)
+
 ## June 28th, 2022 Livestream
 * State of Dev [https://www.youtube.com/watch?v=VbnBqMSEsGk](https://www.youtube.com/watch?v=VbnBqMSEsGk)
 * [Community FYI: Make sure you search the QA Site before posting](../transcriptions/yt-iTQbBr6U_IU.md) [https://www.youtube.com/watch?v=iTQbBr6U_IU](https://www.youtube.com/watch?v=iTQbBr6U_IU)

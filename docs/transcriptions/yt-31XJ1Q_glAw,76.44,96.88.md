@@ -14,4 +14,10 @@ https://youtube.com/embed/31XJ1Q_glAw?autoplay=1&start=76&end=97
 
 ### Transcript
 
-> people to test it so we feel that we have a pretty good date for the Alpha we won't say it today but hopefully in like two to three weeks we will be putting out concrete information about the alpha you can expect it to begin within the next one to two months so that's something but hopefully like two to three weeks we can give you an exact date another thing that I can tell you
+> So we feel that we have
+a pretty good date for the Alpha, we won't say it today,
+but hopefully in like 2 to 3 weeks we will be putting out concrete information
+about the Alpha. You can expect it to begin
+within the next 1 to 2 months, so that's something, but hopefully like 2 to 3 weeks
+we can give you an exact date. Another thing that I can tell you
+about the Alpha is that

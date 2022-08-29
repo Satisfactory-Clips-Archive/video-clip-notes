@@ -9,6 +9,9 @@ date: Last Modified
 * [Ray Tracing](../../topics/technology/graphics/ray-tracing.md)
 * [Ultrawide Monitors](../../topics/technology/graphics/ultrawide-monitors.md)
 
+## August 23rd, 2022 Livestream
+* [Community FYI: I need more frames](../../transcriptions/yt-TFdrwTGXvRs.md) [https://www.youtube.com/watch?v=TFdrwTGXvRs](https://www.youtube.com/watch?v=TFdrwTGXvRs)
+
 ## July 12th, 2022 Livestream
 * [Q&A: Z-fighting?](../../transcriptions/yt-FX84LpxZoes.md) [https://www.youtube.com/watch?v=FX84LpxZoes](https://www.youtube.com/watch?v=FX84LpxZoes)
 * Q&A: Can we expect a fix for the Glass Foundations & Windows some day? [https://www.youtube.com/watch?v=67AkkFFwmaY](https://www.youtube.com/watch?v=67AkkFFwmaY)

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Pending](../../../topics/satisfactory-updates/pending.md) > Satisfactory 1.0
 
+## August 23rd, 2022 Livestream
+* [Q&A: Is the plan still for 2022 release?](../../../transcriptions/yt-GM0CJlndusA.md) [https://www.youtube.com/watch?v=GM0CJlndusA](https://www.youtube.com/watch?v=GM0CJlndusA)
+
 ## July 12th, 2022 Livestream
 * [Q&A: S.A.M. Ore / Somersloops still a 1.0 thing?](../../../transcriptions/yt-VcxNT6rHrG0.md) [https://www.youtube.com/watch?v=VcxNT6rHrG0](https://www.youtube.com/watch?v=VcxNT6rHrG0)
 * [Q&A: When can we get to the Food Court?](../../../transcriptions/yt-bnCpPWG1CiY.md) [https://www.youtube.com/watch?v=bnCpPWG1CiY](https://www.youtube.com/watch?v=bnCpPWG1CiY)

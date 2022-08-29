@@ -14,4 +14,4 @@ https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=375&end=392
 
 ### Transcript
 
-> autonomous drivable vehicles will there be water vehicles there are no water vehicles again whether or not that's something that changes in the future I have no idea as for autonomous vehicles they're in there that's something we've publicly confirmed already and all autonomous vehicles will be drivable is there an end game will there be a story
+> Will there be autonomous drivable vehicles. Will there be water vehicles? There are no water vehicles, again, whether or not that's something that changes in the future. I have no idea. as for autonomous vehicles... They're in there. That's something we've publicly confirmed already and all autonomous vehicles will be drivable. Is there an end game? Will there be a story? Yes, there will be story and an end game. As for the story

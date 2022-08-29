@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Resources](../../../topics/environment/resources.md) > Power Slug
 
+## August 23rd, 2022 Livestream
+* [Q&A: Are you planning on making hunting crash sites / hard drives more attractive?](../../../transcriptions/yt-Xj--vMv9T6k.md) [https://www.youtube.com/watch?v=Xj--vMv9T6k](https://www.youtube.com/watch?v=Xj--vMv9T6k)
+
 ## June 28th, 2022 Livestream
 * [Q&A: Slug automation?](../../../transcriptions/yt-C29hyEG-rkI.md) [https://www.youtube.com/watch?v=C29hyEG-rkI](https://www.youtube.com/watch?v=C29hyEG-rkI)
 

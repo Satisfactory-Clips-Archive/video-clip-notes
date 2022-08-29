@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Dylan
 
+## August 23rd, 2022 Livestream
+* [Q&A: Dylan posters, when?](../../transcriptions/yt-hZcoSGtLmOU.md) [https://www.youtube.com/watch?v=hZcoSGtLmOU](https://www.youtube.com/watch?v=hZcoSGtLmOU)
+
 ## June 14th, 2022 Livestream
 * [Ben, Dylan, Simon, & Snutt Talk: Nuke Nobelisks](../../transcriptions/yt-Z6bo0pjYghk,7750.400283043454,7848.671851.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=7750&end=7849](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=7750&end=7849)
 

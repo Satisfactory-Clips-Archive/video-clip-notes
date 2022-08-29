@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > Possible Features > Decor
 
+## August 23rd, 2022 Livestream
+* [Q&A: Dylan posters, when?](../../../transcriptions/yt-hZcoSGtLmOU.md) [https://www.youtube.com/watch?v=hZcoSGtLmOU](https://www.youtube.com/watch?v=hZcoSGtLmOU)
+* [Q&A: New cosmetics ?](../../../transcriptions/yt-slfAPPtU6XE.md) [https://www.youtube.com/watch?v=slfAPPtU6XE](https://www.youtube.com/watch?v=slfAPPtU6XE)
+
 ## May 3rd, 2022 Livestream
 * [Q&A: Any chance we could get an Update to architectural structures?](../../../transcriptions/yt-U5OI9pz9mnQ.md) [https://www.youtube.com/watch?v=U5OI9pz9mnQ](https://www.youtube.com/watch?v=U5OI9pz9mnQ)
 

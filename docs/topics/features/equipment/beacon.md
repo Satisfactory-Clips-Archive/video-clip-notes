@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Equipment](../../../topics/features/equipment.md) > Beacon
 
+## August 23rd, 2022 Livestream
+* [Q&A: New Nuclear Recipes confirmed?](../../../transcriptions/yt-RDZCG82PWRo.md) [https://www.youtube.com/watch?v=RDZCG82PWRo](https://www.youtube.com/watch?v=RDZCG82PWRo)
+
 ## July 5th, 2022 Livestream
 * [Q&A: Will the alt Nuclear Fuel be part of the next Update?](../../../transcriptions/yt-MrPbasBXKEQ.md) [https://www.youtube.com/watch?v=MrPbasBXKEQ](https://www.youtube.com/watch?v=MrPbasBXKEQ)
 

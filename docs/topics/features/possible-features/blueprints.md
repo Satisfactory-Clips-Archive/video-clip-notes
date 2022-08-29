@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > Possible Features > Blueprints
 
+## August 23rd, 2022 Livestream
+* [Q&A: Blueprints system, when?](../../../transcriptions/yt-KXdigLjnaXI.md) [https://www.youtube.com/watch?v=KXdigLjnaXI](https://www.youtube.com/watch?v=KXdigLjnaXI)
+
 ## July 5th, 2022 Livestream
 * [Q&A: What about adding Blueprints to the game?](../../../transcriptions/yt-Q6CLsgXQomg.md) [https://www.youtube.com/watch?v=Q6CLsgXQomg](https://www.youtube.com/watch?v=Q6CLsgXQomg)
 

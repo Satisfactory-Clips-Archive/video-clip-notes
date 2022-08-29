@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > Release Builds
 
+## August 23rd, 2022 Livestream
+* [State of Dev: Where's Update 6?](../../transcriptions/yt-Or4PvDOCofA.md) [https://www.youtube.com/watch?v=Or4PvDOCofA](https://www.youtube.com/watch?v=Or4PvDOCofA)
+
 ## July 5th, 2022 Livestream
 * State of Dev [https://www.youtube.com/watch?v=LgKRbZadhyM](https://www.youtube.com/watch?v=LgKRbZadhyM)
 * [Q&A: What's next in Update 6 before it hits EA?](../../transcriptions/yt-g0mn1VtSams.md) [https://www.youtube.com/watch?v=g0mn1VtSams](https://www.youtube.com/watch?v=g0mn1VtSams)

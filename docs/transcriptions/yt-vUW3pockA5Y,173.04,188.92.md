@@ -14,4 +14,4 @@ https://youtube.com/embed/vUW3pockA5Y?autoplay=1&start=173&end=189
 
 ### Transcript
 
-> We have signs and things planned so you can mark things just like &quot;here is the iron&quot; and &quot;here is the gold&quot;. Oh yeah, you can color things, select whatever color you want and paint the buildings and vehicles. You know as a developer you get really home blind, cause you understand it so thoroughly
+> have signs and things planned so you can the idea so you can mark them it's like a star and here's the gold oh yeah you can color things select whatever color you want paint the waves and vehicles you know as a developer you get really hold bind

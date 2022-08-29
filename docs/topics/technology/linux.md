@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > Linux
 
+## August 23rd, 2022 Livestream
+* [Q&A: Any hope for a Linux build of the client?](../../transcriptions/yt-GSEFz2Kfk4o.md) [https://www.youtube.com/watch?v=GSEFz2Kfk4o](https://www.youtube.com/watch?v=GSEFz2Kfk4o)
+
 ## May 17th, 2022 Livestream
 * [Q&A: When will Satisfactory be available for Linux?](../../transcriptions/yt-d5DUng9zgwM.md) [https://www.youtube.com/watch?v=d5DUng9zgwM](https://www.youtube.com/watch?v=d5DUng9zgwM)
 

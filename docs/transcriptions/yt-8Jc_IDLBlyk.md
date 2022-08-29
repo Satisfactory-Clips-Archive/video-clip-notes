@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=8Jc_IDLBlyk
 
 ### Transcript
 
-> what did I have for lunch I had pasta for lunch I had, I think I think it was ravioli what's the one with the pasta with like it's like a little pocket and it's like like cheese and [ __ ] inside is that ravioli I had that one yeah sad ravioli
+> what did I have for lunch I had pasta for lunch I had, I think I think it was ravioli what's the one with the pasta with like it's like a little pocket and it's like like cheese and [ __ ] inside is that ravioli I had that one yeah sad ravioli

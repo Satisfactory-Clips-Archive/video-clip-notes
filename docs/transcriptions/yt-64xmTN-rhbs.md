@@ -11,7 +11,7 @@ topics:
 # [January 12th, 2021 Livestream](../2021-01-12.md)
 ## Q&A: The game is not done until I can flush the toilet?
 https://www.youtube.com/watch?v=64xmTN-rhbs
-This question was possibly duplicated with a more recent answer: [April 26th, 2022 Livestream Q&A: Toilet DLC, when?](./yt-ceIkXx7rE7Y.md) [https://www.youtube.com/watch?v=ceIkXx7rE7Y](https://www.youtube.com/watch?v=ceIkXx7rE7Y)
+This question was possibly duplicated with a more recent answer: [August 23rd, 2022 Livestream Q&A: When will we get the Toilet DLC?](./yt-Gt94bJHuacQ.md) [https://www.youtube.com/watch?v=Gt94bJHuacQ](https://www.youtube.com/watch?v=Gt94bJHuacQ)
 
 
 ### Topics
@@ -22,4 +22,4 @@ This question was possibly duplicated with a more recent answer: [April 26th, 20
 
 ### Transcript
 
-> yeah, the game is not done until I can flush the toilet there we are meza knows this this hired this guy this guy isn't in we share the same vision one dollar dlc toilet flushing dlc coming soon when coming soon bigger question is when I need him now you all keep asking for mugs and [ __ ] where's the toilet flush happening where's the toilet told me
+> yeah, the game is not done until I can flush the toilet there we are meza knows this this hired this guy this guy isn't in we share the same vision one dollar dlc toilet flushing dlc coming soon when coming soon bigger question is when I need him now you all keep asking for mugs and [ __ ] where's the toilet flush happening where's the toilet told me

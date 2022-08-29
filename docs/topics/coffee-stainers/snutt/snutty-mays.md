@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Coffee Stainers](../../../topics/coffee-stainers.md) > [Snutt](../../../topics/coffee-stainers/snutt.md) > Snutty Mays
 
+## August 23rd, 2022 Livestream
+* [Q&A: Will Snutty Mays return?](../../../transcriptions/yt-YEROq6ryhTA.md) [https://www.youtube.com/watch?v=YEROq6ryhTA](https://www.youtube.com/watch?v=YEROq6ryhTA)
+
 ## November 30th, 2021 Livestream
 * [State of Dev: Satisfactory on Sale](../../../transcriptions/yt-DPVHQdcaDaw.md) [https://www.youtube.com/watch?v=DPVHQdcaDaw](https://www.youtube.com/watch?v=DPVHQdcaDaw)
 

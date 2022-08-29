@@ -9,7 +9,7 @@ topics:
 # [June 29th, 2021 Livestream](../2021-06-29.md)
 ## Q&A: Will Vehicle physics ever get a revisit?
 https://www.youtube.com/watch?v=IP_jZskvU6k
-This question was possibly duplicated with a more recent answer: [September 28th, 2021 Livestream Q&A: Will the Vehicles bouncing on Foundations be fixed at some point?](./yt-O19MUfB6WXM.md) [https://www.youtube.com/watch?v=O19MUfB6WXM](https://www.youtube.com/watch?v=O19MUfB6WXM)
+This question was possibly duplicated with a more recent answer: [August 23rd, 2022 Livestream Q&A: Any plans to improve Vehicle physics?](./yt-xfFtf_z9IS4.md) [https://www.youtube.com/watch?v=xfFtf_z9IS4](https://www.youtube.com/watch?v=xfFtf_z9IS4)
 
 
 ### Topics

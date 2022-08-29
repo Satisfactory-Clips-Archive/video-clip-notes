@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Creatures](../../../topics/environment/creatures.md) > Lizard Doggo
 
+## August 23rd, 2022 Livestream
+* [Q&A: Picking up a Lizard Doggo & putting it in inventory?](../../../transcriptions/yt-KK-x3KKUMrk.md) [https://www.youtube.com/watch?v=KK-x3KKUMrk](https://www.youtube.com/watch?v=KK-x3KKUMrk)
+
 ## July 5th, 2022 Livestream
 * [Q&A: How will I know if my Lizard Doggo actually loves me?](../../../transcriptions/yt-dNnnf1OLUX0.md) [https://www.youtube.com/watch?v=dNnnf1OLUX0](https://www.youtube.com/watch?v=dNnnf1OLUX0)
 

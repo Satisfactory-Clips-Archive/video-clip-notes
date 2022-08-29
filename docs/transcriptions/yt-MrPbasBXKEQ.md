@@ -12,11 +12,7 @@ topics:
 # [July 5th, 2022 Livestream](../2022-07-05.md)
 ## Q&A: Will the alt Nuclear Fuel be part of the next Update?
 https://www.youtube.com/watch?v=MrPbasBXKEQ
-<details>
-<summary>This question may have been asked previously at least 1 other time, as recently as May 2022.</summary>
-
-* [May 24th, 2022 Livestream Q&A: Is it safe to make an Alt Recipe Nuclear factory?](./yt-Mi7GvyXRA3g.md) [https://www.youtube.com/watch?v=Mi7GvyXRA3g](https://www.youtube.com/watch?v=Mi7GvyXRA3g)
-</details>
+This question was possibly duplicated with a more recent answer: [August 23rd, 2022 Livestream Q&A: New Nuclear Recipes confirmed?](./yt-RDZCG82PWRo.md) [https://www.youtube.com/watch?v=RDZCG82PWRo](https://www.youtube.com/watch?v=RDZCG82PWRo)
 
 
 ### Topics

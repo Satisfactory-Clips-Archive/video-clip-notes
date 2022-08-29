@@ -26,4 +26,4 @@ This question was possibly duplicated with a more recent answer: [October 12th, 
 >
 > [Laughter]
 >
-> oh god anyway you can't even clip it why can't you clip it why not impossible yeah too good it breaks tos twitch it was too loud no I don't [ __ ] know, all right you prefer drilling or hammering yeah all right all right enough about construction right this is the building what was I talking about I don't even know anymore I don't remember sorry I feel like this is a good time to switch yeah you know what let's do it yeah we've hit the mood
+> oh god anyway you can't even clip it why can't you clip it why not impossible yeah too good it breaks tos twitch it was too loud no I don't [ __ ] know, all right you prefer drilling or hammering yeah all right all right enough about construction right this is the building what was I talking about I don't even know anymore I don't remember sorry I feel like this is a good time to switch yeah you know what let's do it yeah we've hit the mood

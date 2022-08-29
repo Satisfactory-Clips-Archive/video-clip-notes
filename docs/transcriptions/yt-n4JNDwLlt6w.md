@@ -9,11 +9,7 @@ topics:
 # [July 12th, 2022 Livestream](../2022-07-12.md)
 ## Q&A: Any thoughts on vertical Splitters?
 https://www.youtube.com/watch?v=n4JNDwLlt6w
-<details>
-<summary>This question may have been asked previously at least 1 other time, as recently as September 2021.</summary>
-
-* [September 28th, 2021 Livestream Q&A: Vertical Splitters?](./yt-KerNCX4Cbss.md) [https://www.youtube.com/watch?v=KerNCX4Cbss](https://www.youtube.com/watch?v=KerNCX4Cbss)
-</details>
+This question was possibly duplicated with a more recent answer: [August 23rd, 2022 Livestream Q&A: How do you feel about vertical Splitters?](./yt-hu166G2rcFE.md) [https://www.youtube.com/watch?v=hu166G2rcFE](https://www.youtube.com/watch?v=hu166G2rcFE)
 
 
 ### Topics

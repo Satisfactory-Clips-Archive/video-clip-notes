@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Accessibility](../../../topics/features/accessibility.md) > Arachnophobia Mode
 
+## August 23rd, 2022 Livestream
+* [Q&A: Are the 2d sprite Cat Stingers considered canon?](../../../transcriptions/yt-1dRn-V2lpks.md) [https://www.youtube.com/watch?v=1dRn-V2lpks](https://www.youtube.com/watch?v=1dRn-V2lpks)
+
 ## July 12th, 2022 Livestream
 * Q&A: Who made the Stingers and why haven't they been fired yet? [https://www.youtube.com/watch?v=w6W7UC6T8ys](https://www.youtube.com/watch?v=w6W7UC6T8ys)
 

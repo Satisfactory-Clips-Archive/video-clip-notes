@@ -8,7 +8,7 @@ topics:
 # [February 6th, 2019 Livestream](../2019-02-06.md)
 ## Q&A: Any plans for stuff like Blueprints?
 https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2816&end=2837
-This question was possibly duplicated with a more recent answer: [July 5th, 2022 Livestream Q&A: What about adding Blueprints to the game?](./yt-Q6CLsgXQomg.md) [https://www.youtube.com/watch?v=Q6CLsgXQomg](https://www.youtube.com/watch?v=Q6CLsgXQomg)
+This question was possibly duplicated with a more recent answer: [August 23rd, 2022 Livestream Q&A: Blueprints system, when?](./yt-KXdigLjnaXI.md) [https://www.youtube.com/watch?v=KXdigLjnaXI](https://www.youtube.com/watch?v=KXdigLjnaXI)
 
 
 ### Topics

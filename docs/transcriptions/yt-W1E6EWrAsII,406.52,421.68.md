@@ -16,4 +16,4 @@ https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=406&end=422
 
 ### Transcript
 
-> will there be Mac Linux console cross-platform support yeah possibly we've done that with all of our past games so it's likely but I can't confirm or deny that right now we just really need to get the game running smoothly and in order to do that we're just gonna focus on Windows for now is that a space elevator at the end of the trailer yeah
+> Will there be Mac, Linux, console, cross-platform support? Yeah, possibly we've done that with all of our past games so it's likely but I can't confirm or deny that. Right now we just really need to get the game running smoothly and in order to do that we're just gonna focus on Windows for now. Is that a Space Elevator at the end of the trailer? Yeah It is a space elevator and it actually takes you to that big thingy in the sky and that thing is actually a food court

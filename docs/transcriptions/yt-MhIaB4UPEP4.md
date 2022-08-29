@@ -20,7 +20,7 @@ https://www.youtube.com/watch?v=MhIaB4UPEP4
 
 ### Transcript
 
-> we're speed running today you guys are you running what could possibly go wrong rushing through yeah, you know you know what I mean all right what could possibly go wrong so welcome to the community highlights this is where we showcase stuff that people have made in the community and how do I get rid of the, the the task bar one second just gonna figure that out real quick all right technical difficulties while snip solves all right you [ __ ] idiot it's like whoops no [ __ ] it's fine are you okay can you just change the scene I got it I got it okay so welcome to the community highlights, first up we have from, patty delete the font
+> we're speed running today you guys are you running what could possibly go wrong rushing through yeah, you know you know what I mean all right what could possibly go wrong so welcome to the community highlights this is where we showcase stuff that people have made in the community and how do I get rid of the, the the task bar one second just gonna figure that out real quick all right technical difficulties while snip solves all right you [ __ ] idiot it's like whoops no [ __ ] it's fine are you okay can you just change the scene I got it I got it okay so welcome to the community highlights, first up we have from, patty delete the font
 >
 > [Laughter]
 >

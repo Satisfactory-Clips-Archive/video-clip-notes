@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Environment](../../topics/environment.md) > Plants
 
+## August 23rd, 2022 Livestream
+* [Q&A: Will Leaves/Trees ever grow/regrow?](../../transcriptions/yt-7dECSxCcssU.md) [https://www.youtube.com/watch?v=7dECSxCcssU](https://www.youtube.com/watch?v=7dECSxCcssU)
+* [Snutt Talk: Tree issues](../../transcriptions/yt-k-7EAX16O68.md) [https://www.youtube.com/watch?v=k-7EAX16O68](https://www.youtube.com/watch?v=k-7EAX16O68)
+
 ## July 5th, 2022 Livestream
 * [Q&A: Have rain regrow Biomass?](../../transcriptions/yt-6t1TZRz0NL0.md) [https://www.youtube.com/watch?v=6t1TZRz0NL0](https://www.youtube.com/watch?v=6t1TZRz0NL0)
 * [Q&A: How is the Pioneer eating fruits through the helmet?](../../transcriptions/yt-A8wIU88NUnc.md) [https://www.youtube.com/watch?v=A8wIU88NUnc](https://www.youtube.com/watch?v=A8wIU88NUnc)

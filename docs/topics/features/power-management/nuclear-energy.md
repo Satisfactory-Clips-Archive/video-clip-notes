@@ -7,6 +7,9 @@ date: Last Modified
 * [Nuclear Refinement](../../../topics/features/power-management/nuclear-energy/nuclear-refinement.md)
 * [Nuclear Waste](../../../topics/features/power-management/nuclear-energy/nuclear-waste.md)
 
+## August 23rd, 2022 Livestream
+* [Q&A: New Nuclear Recipes confirmed?](../../../transcriptions/yt-RDZCG82PWRo.md) [https://www.youtube.com/watch?v=RDZCG82PWRo](https://www.youtube.com/watch?v=RDZCG82PWRo)
+
 ## July 5th, 2022 Livestream
 * [Q&A: Experimental Nuclear Waste Water bug fix?](../../../transcriptions/yt-blWlTrXLMt0.md) [https://www.youtube.com/watch?v=blWlTrXLMt0](https://www.youtube.com/watch?v=blWlTrXLMt0)
 

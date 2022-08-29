@@ -11,7 +11,7 @@ topics:
 # [September 28th, 2021 Livestream](../2021-09-28.md)
 ## Q&A: Is it possible to make the Pioneer pick up the Doggo?
 https://www.youtube.com/watch?v=uAJX0gy44Ss
-This question was possibly duplicated with a more recent answer: [February 22nd, 2022 Livestream Q&A: When can you pick up the tamed Doggo?](./yt-VOpTrVlT95g.md) [https://www.youtube.com/watch?v=VOpTrVlT95g](https://www.youtube.com/watch?v=VOpTrVlT95g)
+This question was possibly duplicated with a more recent answer: [August 23rd, 2022 Livestream Q&A: Picking up a Lizard Doggo & putting it in inventory?](./yt-KK-x3KKUMrk.md) [https://www.youtube.com/watch?v=KK-x3KKUMrk](https://www.youtube.com/watch?v=KK-x3KKUMrk)
 
 
 ### Topics

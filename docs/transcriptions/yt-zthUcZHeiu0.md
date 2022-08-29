@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=zthUcZHeiu0
 
 ### Transcript
 
-> the other big conundrum is if we're ever going to fix the [ __ ] lights on vehicles working issue that's been going back and forth so many times during the development of this game it's worked it's not worked in different updates someone's probably doing it on purpose at this point that's how I feel dude because I fixed it two times for two separate releases and it broke again after I started doing community management so someone's out to get me yeah
+> the other big conundrum is if we're ever going to fix the [ __ ] lights on vehicles working issue that's been going back and forth so many times during the development of this game it's worked it's not worked in different updates someone's probably doing it on purpose at this point that's how I feel dude because I fixed it two times for two separate releases and it broke again after I started doing community management so someone's out to get me yeah

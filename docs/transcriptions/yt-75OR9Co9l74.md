@@ -16,4 +16,4 @@ This question was possibly duplicated with a more recent answer: [March 8th, 202
 
 ### Transcript
 
-> yeah we have kevin we already got him dirt bikes, what a [ __ ] weird [ __ ] I don't know dirt bikes, if you mean by, two wheel ones I think that would be a solid note, if you meet like quad bike ones I guess the explorer sort of fits that role no to the two wheels because it's hard to do
+> yeah we have kevin we already got him dirt bikes, what a [ __ ] weird [ __ ] I don't know dirt bikes, if you mean by, two wheel ones I think that would be a solid note, if you meet like quad bike ones I guess the explorer sort of fits that role no to the two wheels because it's hard to do

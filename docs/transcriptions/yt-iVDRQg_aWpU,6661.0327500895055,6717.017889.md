@@ -8,11 +8,7 @@ topics:
 # [November 23rd, 2021 Livestream](../2021-11-23.md)
 ## Q&A: Where to post feedback?
 https://youtube.com/clip/Ugkx7HRD-xAbzE9CJcVG7BR2io_qfzL7jLHp
-<details>
-<summary>This question may have been asked previously at least 1 other time, as recently as September 2021.</summary>
-
-* September 28th, 2021 Livestream Q&A: Can we post suggestions on the QA Site? [https://www.youtube.com/watch?v=QxMtx5GBxWI](https://www.youtube.com/watch?v=QxMtx5GBxWI)
-</details>
+This question was possibly duplicated with a more recent answer: [August 23rd, 2022 Livestream Q&A: Where do I put bug reports?](./yt-gTfw8tigtxs.md) [https://www.youtube.com/watch?v=gTfw8tigtxs](https://www.youtube.com/watch?v=gTfw8tigtxs)
 
 
 ### Topics

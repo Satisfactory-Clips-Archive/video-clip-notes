@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=diuFSFaPAJ4
 
 ### Transcript
 
-> really good pizza out of it thanks for watching simon even liked the game yeah I liked the game you were like the first one to finish the only person yeah I've actually finished you have ever completed satisfactory yeah also a long time ago yeah and- I thought my my factor was so [ __ ] cool like yeah I built a lot of [ __ ] and then when we like had the open alpha thing or something people just destroyed my basement you could never outdo the community they're always gonna be like and I just saw my own like oh [ __ ] this is [ __ ] so bad yeah but it's fun
+> really good pizza out of it thanks for watching simon even liked the game yeah I liked the game you were like the first one to finish the only person yeah I've actually finished you have ever completed satisfactory yeah also a long time ago yeah and- I thought my my factor was so cool like yeah I built a lot of and then when we like had the open alpha thing or something people just destroyed my basement you could never outdo the community they're always gonna be like and I just saw my own like oh this is so bad yeah but it's fun

@@ -20,4 +20,4 @@ https://www.youtube.com/watch?v=FidrasGxKm4
 >
 > [Music]
 >
-> will is show up in the thing it will cool okay yeah so this is one build I did a while back, how many are those 12 my mesh generators and I had it's kind of hard to count them maybe 12 is it one per I think it's 12 whatever, yeah I underclocked them and I got like half of one per minute, because I think they're all running at like five percent or something, but they work not recommended doing that though holy [ __ ] the the particle generator particle accelerators are so hungry power hungry
+> will is show up in the thing it will cool okay yeah so this is one build I did a while back, how many are those 12 my mesh generators and I had it's kind of hard to count them maybe 12 is it one per I think it's 12 whatever, yeah I underclocked them and I got like half of one per minute, because I think they're all running at like five percent or something, but they work not recommended doing that though holy the the particle generator particle accelerators are so hungry power hungry

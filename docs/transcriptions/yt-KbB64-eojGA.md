@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=KbB64-eojGA
 
 ### Transcript
 
-> things like lights is much different in the cringing yes thing to remember never trust jace again never lights never flying [ __ ] yeah I mean it's what am I supposed to do, we said we would add lights though we didn't say we there would never be lights we said we have to, if we're gonna add lights we had to find an efficient way to do it and we did so that's why we could add them
+> things like lights is much different in the cringing yes thing to remember never trust jace again never lights never flying yeah I mean it's what am I supposed to do, we said we would add lights though we didn't say we there would never be lights we said we have to, if we're gonna add lights we had to find an efficient way to do it and we did so that's why we could add them

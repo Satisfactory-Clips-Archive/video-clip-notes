@@ -24,4 +24,4 @@ https://www.youtube.com/watch?v=rgQCCk5ohMc
 
 ### Transcript
 
-> community highlights is the the time of the day of the week when when we we post can we post jace as a bug report someone needs to make someone needs to make that post just be like fix jace all right and then everyone upvoted because because I could really use the help you get like therapy time or something like the more upvotes the more therapy time you get or something exactly love it, yeah by the way guys qsi good [ __ ] if you want to post suggestions and feedback and stuff like that questions or feedback or bug reports yeah all that good stuff
+> community highlights is the the time of the day of the week when when we we post can we post jace as a bug report someone needs to make someone needs to make that post just be like fix jace all right and then everyone upvoted because because I could really use the help you get like therapy time or something like the more upvotes the more therapy time you get or something exactly love it, yeah by the way guys qsi good if you want to post suggestions and feedback and stuff like that questions or feedback or bug reports yeah all that good stuff

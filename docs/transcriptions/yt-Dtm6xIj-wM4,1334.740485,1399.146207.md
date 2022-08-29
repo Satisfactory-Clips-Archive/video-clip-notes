@@ -9,7 +9,7 @@ topics:
 # [February 6th, 2019 Livestream](../2019-02-06.md)
 ## Q&A: So if Mods are confirmed, how about Mods for creating Maps- will that happen?
 https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1334&end=1400
-This question was possibly duplicated with a more recent answer: [December 14th, 2021 Livestream Q&A: Map Editor?](./yt-lX7XAk69lSw.md) [https://www.youtube.com/watch?v=lX7XAk69lSw](https://www.youtube.com/watch?v=lX7XAk69lSw)
+This question was possibly duplicated with a more recent answer: [August 23rd, 2022 Livestream Q&A: Would it be possible to create our own Maps?](./yt-2BRnRTwf2UA.md) [https://www.youtube.com/watch?v=2BRnRTwf2UA](https://www.youtube.com/watch?v=2BRnRTwf2UA)
 
 
 ### Topics

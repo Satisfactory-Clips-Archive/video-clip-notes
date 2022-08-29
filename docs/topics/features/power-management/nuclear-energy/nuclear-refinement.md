@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > [Power Management](../../../../topics/features/power-management.md) > [Nuclear Energy](../../../../topics/features/power-management/nuclear-energy.md) > Nuclear Refinement
 
+## August 23rd, 2022 Livestream
+* [Q&A: New Nuclear Recipes confirmed?](../../../../transcriptions/yt-RDZCG82PWRo.md) [https://www.youtube.com/watch?v=RDZCG82PWRo](https://www.youtube.com/watch?v=RDZCG82PWRo)
+
 ## July 12th, 2022 Livestream
 * [Q&A: Have you ever thought of making Alt Recipes for the Nuclear Nobelisk that use Plutonium Cells?](../../../../transcriptions/yt-aOai0WNLPDo.md) [https://www.youtube.com/watch?v=aOai0WNLPDo](https://www.youtube.com/watch?v=aOai0WNLPDo)
 

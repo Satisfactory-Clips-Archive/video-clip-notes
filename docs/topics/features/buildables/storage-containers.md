@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildables](../../../topics/features/buildables.md) > Storage Containers
 
+## August 23rd, 2022 Livestream
+* [Community FYI: Lights on Storage Boxes are broken on Dedicated Servers](../../../transcriptions/yt-RCGxwceXdzw.md) [https://www.youtube.com/watch?v=RCGxwceXdzw](https://www.youtube.com/watch?v=RCGxwceXdzw)
+
 ## June 28th, 2022 Livestream
 * Q&A: Storage Update to talk about ? [https://www.youtube.com/watch?v=M2RhFSn8F6A](https://www.youtube.com/watch?v=M2RhFSn8F6A)
 * [Q&A: Ability to limit the max fill level of Containers?](../../../transcriptions/yt-VOwac78ebn0.md) [https://www.youtube.com/watch?v=VOwac78ebn0](https://www.youtube.com/watch?v=VOwac78ebn0)

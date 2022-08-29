@@ -10,7 +10,7 @@ topics:
 # [May 3rd, 2022 Livestream](../2022-05-03.md)
 ## Q&A: Where's the lighting on the Trains?
 https://www.youtube.com/watch?v=i7oydn5GaBk
-This question was possibly duplicated with a more recent answer: July 12th, 2022 Livestream Q&A: Did the Trains have headlights before or was it always like this? [https://www.youtube.com/watch?v=20hcYzpOnYQ](https://www.youtube.com/watch?v=20hcYzpOnYQ)
+This question was possibly duplicated with a more recent answer: [August 23rd, 2022 Livestream Q&A: Train Lights, when?](./yt-e2a6gY6vV90.md) [https://www.youtube.com/watch?v=e2a6gY6vV90](https://www.youtube.com/watch?v=e2a6gY6vV90)
 
 
 ### Topics

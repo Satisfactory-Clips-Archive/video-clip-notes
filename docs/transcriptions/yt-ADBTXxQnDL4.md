@@ -8,7 +8,7 @@ topics:
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Q&A: Any plans to bring Satisfactory to Linux?
 https://www.youtube.com/watch?v=ADBTXxQnDL4
-This question was possibly duplicated with a more recent answer: [May 17th, 2022 Livestream Q&A: When will Satisfactory be available for Linux?](./yt-d5DUng9zgwM.md) [https://www.youtube.com/watch?v=d5DUng9zgwM](https://www.youtube.com/watch?v=d5DUng9zgwM)
+This question was possibly duplicated with a more recent answer: [August 23rd, 2022 Livestream Q&A: Any hope for a Linux build of the client?](./yt-GSEFz2Kfk4o.md) [https://www.youtube.com/watch?v=GSEFz2Kfk4o](https://www.youtube.com/watch?v=GSEFz2Kfk4o)
 
 
 ### Topics

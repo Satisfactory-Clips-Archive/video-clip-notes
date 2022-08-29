@@ -9,7 +9,7 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: How often will you release updates in Early Access?
 https://www.youtube.com/watch?v=PBkvqmyjADM
-This question was possibly duplicated with a more recent answer: [July 5th, 2022 Livestream Q&A: What year do you think the game will release?](./yt-4jn2kQjiY9Y.md) [https://www.youtube.com/watch?v=4jn2kQjiY9Y](https://www.youtube.com/watch?v=4jn2kQjiY9Y)
+This question was possibly duplicated with a more recent answer: [August 23rd, 2022 Livestream Q&A: Is the plan still for 2022 release?](./yt-GM0CJlndusA.md) [https://www.youtube.com/watch?v=GM0CJlndusA](https://www.youtube.com/watch?v=GM0CJlndusA)
 
 
 ### Topics

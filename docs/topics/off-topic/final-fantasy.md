@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Final Fantasy
 * [The Official Satisfactory PODCAST](../../topics/off-topic/final-fantasy/the-official-satisfactory-podcast.md)
 
+## August 23rd, 2022 Livestream
+* [Q&A: How many Final Fantasy games did you play?](../../transcriptions/yt-iiy5VEyf5Ow.md) [https://www.youtube.com/watch?v=iiy5VEyf5Ow](https://www.youtube.com/watch?v=iiy5VEyf5Ow)
+
 ## July 12th, 2022 Livestream
 * Q&A: What games are you playing other than Satisfactory? [https://www.youtube.com/watch?v=BCgKNHSPFtk](https://www.youtube.com/watch?v=BCgKNHSPFtk)
 * Community FYI: Chrono Trigger better than all of Final Fantasy, don't @ me [https://www.youtube.com/watch?v=BxpOpif2ykI](https://www.youtube.com/watch?v=BxpOpif2ykI)

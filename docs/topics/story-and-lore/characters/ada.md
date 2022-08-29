@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Story & Lore](../../../topics/story-and-lore.md) > Characters > ADA
 
+## August 23rd, 2022 Livestream
+* [Q&A: Will ADA ever tell me I did a satisfactory job?](../../../transcriptions/yt-_m5pmry-EDw.md) [https://www.youtube.com/watch?v=_m5pmry-EDw](https://www.youtube.com/watch?v=_m5pmry-EDw)
+
 ## July 5th, 2022 Livestream
 * [Q&A: Will there be more ADA voice lines?](../../../transcriptions/yt-iaZhOVyTNco.md) [https://www.youtube.com/watch?v=iaZhOVyTNco](https://www.youtube.com/watch?v=iaZhOVyTNco)
 * [Q&A: Why does ADA sound like the Seattle light rail?](../../../transcriptions/yt-HUoOTOQ--Qk.md) [https://www.youtube.com/watch?v=HUoOTOQ--Qk](https://www.youtube.com/watch?v=HUoOTOQ--Qk)

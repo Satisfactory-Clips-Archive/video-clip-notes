@@ -9,7 +9,7 @@ topics:
 # [February 20th, 2019 Livestream](../2019-02-20.md)
 ## Q&A: Will the players be able to make their own Maps?
 https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5159&end=5168
-This question was possibly duplicated with a more recent answer: [December 14th, 2021 Livestream Q&A: Map Editor?](./yt-lX7XAk69lSw.md) [https://www.youtube.com/watch?v=lX7XAk69lSw](https://www.youtube.com/watch?v=lX7XAk69lSw)
+This question was possibly duplicated with a more recent answer: [August 23rd, 2022 Livestream Q&A: Would it be possible to create our own Maps?](./yt-2BRnRTwf2UA.md) [https://www.youtube.com/watch?v=2BRnRTwf2UA](https://www.youtube.com/watch?v=2BRnRTwf2UA)
 
 
 ### Topics

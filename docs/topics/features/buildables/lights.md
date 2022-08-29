@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildables](../../../topics/features/buildables.md) > Lights
 
+## August 23rd, 2022 Livestream
+* [Q&A: Train Lights, when?](../../../transcriptions/yt-e2a6gY6vV90.md) [https://www.youtube.com/watch?v=e2a6gY6vV90](https://www.youtube.com/watch?v=e2a6gY6vV90)
+* [Community FYI: Lights on Storage Boxes are broken on Dedicated Servers](../../../transcriptions/yt-RCGxwceXdzw.md) [https://www.youtube.com/watch?v=RCGxwceXdzw](https://www.youtube.com/watch?v=RCGxwceXdzw)
+* [Q&A: Non-laggy Lights, when?](../../../transcriptions/yt-aMoaKQ2RbHU.md) [https://www.youtube.com/watch?v=aMoaKQ2RbHU](https://www.youtube.com/watch?v=aMoaKQ2RbHU)
+
 ## July 12th, 2022 Livestream
 * Q&A: Why can't I flip a light and aim it up? [https://www.youtube.com/watch?v=GaM_9cpCtdI](https://www.youtube.com/watch?v=GaM_9cpCtdI)
 * Q&A: Why are lights so big? [https://www.youtube.com/watch?v=oLFLD2ivt8s](https://www.youtube.com/watch?v=oLFLD2ivt8s)

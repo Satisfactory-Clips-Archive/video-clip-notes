@@ -20,4 +20,4 @@ https://www.youtube.com/watch?v=ftJxvHWUROQ
 >
 > [Music]
 >
-> yeah I know right what the [ __ ]
+> yeah I know right what the

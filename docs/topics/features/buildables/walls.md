@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildables](../../../topics/features/buildables.md) > Walls
 
+## August 23rd, 2022 Livestream
+* [Q&A: Half Wall?](../../../transcriptions/yt-0MP3iPpCEso.md) [https://www.youtube.com/watch?v=0MP3iPpCEso](https://www.youtube.com/watch?v=0MP3iPpCEso)
+
 ## July 12th, 2022 Livestream
 * [Q&A: Can we get half/circle Foundations & Walls?](../../../transcriptions/yt-_MhOphjRSWc.md) [https://www.youtube.com/watch?v=_MhOphjRSWc](https://www.youtube.com/watch?v=_MhOphjRSWc)
 * [Community FYI: We need a placeable Conveyor Belt Wall hole](../../../transcriptions/yt-gvOu94vroM0.md) [https://www.youtube.com/watch?v=gvOu94vroM0](https://www.youtube.com/watch?v=gvOu94vroM0)

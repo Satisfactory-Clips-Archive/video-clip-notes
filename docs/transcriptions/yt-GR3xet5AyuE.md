@@ -9,7 +9,7 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Is Linux support planned in the future?
 https://www.youtube.com/watch?v=GR3xet5AyuE
-This question was possibly duplicated with a more recent answer: [May 17th, 2022 Livestream Q&A: When will Satisfactory be available for Linux?](./yt-d5DUng9zgwM.md) [https://www.youtube.com/watch?v=d5DUng9zgwM](https://www.youtube.com/watch?v=d5DUng9zgwM)
+This question was possibly duplicated with a more recent answer: [August 23rd, 2022 Livestream Q&A: Any hope for a Linux build of the client?](./yt-GSEFz2Kfk4o.md) [https://www.youtube.com/watch?v=GSEFz2Kfk4o](https://www.youtube.com/watch?v=GSEFz2Kfk4o)
 
 
 ### Topics

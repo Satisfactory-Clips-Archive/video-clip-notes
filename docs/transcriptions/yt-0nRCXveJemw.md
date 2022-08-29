@@ -8,7 +8,7 @@ topics:
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: Will we be able to deal with Gas towers you can't kill right now?
 https://www.youtube.com/watch?v=0nRCXveJemw
-This question was possibly duplicated with a more recent answer: [June 28th, 2022 Livestream Q&A: Any plans to make the Fart Rocks destructable?](./yt-KTTHPxhnpDM.md) [https://www.youtube.com/watch?v=KTTHPxhnpDM](https://www.youtube.com/watch?v=KTTHPxhnpDM)
+This question was possibly duplicated with a more recent answer: [August 23rd, 2022 Livestream Q&A: Will we be able to destroy Gas Pillars?](./yt-Mrexbr9w4H8.md) [https://www.youtube.com/watch?v=Mrexbr9w4H8](https://www.youtube.com/watch?v=Mrexbr9w4H8)
 
 
 ### Topics

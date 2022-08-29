@@ -9,7 +9,7 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Time to invest in Map Modding?
 https://www.youtube.com/watch?v=a5PSHoSuXec
-This question was possibly duplicated with a more recent answer: [December 14th, 2021 Livestream Q&A: Map Editor?](./yt-lX7XAk69lSw.md) [https://www.youtube.com/watch?v=lX7XAk69lSw](https://www.youtube.com/watch?v=lX7XAk69lSw)
+This question was possibly duplicated with a more recent answer: [August 23rd, 2022 Livestream Q&A: Would it be possible to create our own Maps?](./yt-2BRnRTwf2UA.md) [https://www.youtube.com/watch?v=2BRnRTwf2UA](https://www.youtube.com/watch?v=2BRnRTwf2UA)
 
 
 ### Topics

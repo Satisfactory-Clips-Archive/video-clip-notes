@@ -8,6 +8,8 @@ topics:
 # [March 23rd, 2021 Livestream](../2021-03-23.md)
 ## Q&A: Do Plants like Trees grow back?
 https://www.youtube.com/watch?v=zlHq9OHp45g
+This question was possibly duplicated with a more recent answer: [August 23rd, 2022 Livestream Q&A: Will Leaves/Trees ever grow/regrow?](./yt-7dECSxCcssU.md) [https://www.youtube.com/watch?v=7dECSxCcssU](https://www.youtube.com/watch?v=7dECSxCcssU)
+
 
 ### Topics
 * [Environment > Plants](../topics/environment/plants.md)

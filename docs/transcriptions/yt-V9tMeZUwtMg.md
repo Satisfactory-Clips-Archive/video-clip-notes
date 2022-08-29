@@ -11,6 +11,8 @@ topics:
 # [May 3rd, 2022 Livestream](../2022-05-03.md)
 ## Q&A: Are the Oil patches still in the Spire Coast?
 https://www.youtube.com/watch?v=V9tMeZUwtMg
+This question was possibly replaced with a more recent answer: [August 23rd, 2022 Livestream Q&A: Are Spire Coast Oil nodes fixed in place now?](./yt-Qki7s83KDUM.md) [https://www.youtube.com/watch?v=Qki7s83KDUM](https://www.youtube.com/watch?v=Qki7s83KDUM)
+
 
 ### Topics
 * [Environment > Biomes > Spire Coast](../topics/environment/biomes/spire-coast.md)

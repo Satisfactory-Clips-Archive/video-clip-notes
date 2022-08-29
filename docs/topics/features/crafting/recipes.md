@@ -6,6 +6,10 @@ date: Last Modified
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Crafting](../../../topics/features/crafting.md) > Recipes
 * [Alternate Recipes](../../../topics/features/crafting/recipes/alternate-recipes.md)
 
+## August 23rd, 2022 Livestream
+* [Q&A: Aren't Trains pointless because the game works on speed of items not amounts of items?](../../../transcriptions/yt-cGajLyhvHUY.md) [https://www.youtube.com/watch?v=cGajLyhvHUY](https://www.youtube.com/watch?v=cGajLyhvHUY)
+* [Q&A: New Nuclear Recipes confirmed?](../../../transcriptions/yt-RDZCG82PWRo.md) [https://www.youtube.com/watch?v=RDZCG82PWRo](https://www.youtube.com/watch?v=RDZCG82PWRo)
+
 ## July 5th, 2022 Livestream
 * [Q&A: Planning production in the game?](../../../transcriptions/yt-uaMBc6ULZ5c.md) [https://www.youtube.com/watch?v=uaMBc6ULZ5c](https://www.youtube.com/watch?v=uaMBc6ULZ5c)
 * [Q&A: Is there going to be factory monitoring?](../../../transcriptions/yt-oU_GulSX3Zw.md) [https://www.youtube.com/watch?v=oU_GulSX3Zw](https://www.youtube.com/watch?v=oU_GulSX3Zw)

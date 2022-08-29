@@ -14,4 +14,15 @@ https://youtube.com/embed/pTKDTJSsAm4?autoplay=1&start=300&end=360
 
 ### Transcript
 
-> okay so the next thing is something that we would love some help from you Oh for we would like to know what your most annoying bugs or features or issues are in satisfactory right now it's easy for us when working on update number three to just focus on update three and fix it and make it work and that's very good and that's important but it will it's easy for us to forget all the issues that we had before this so if you can tell us in the comments below what is the most annoying thing that that that you're running into please let us know so that we can consider going back and working on that a little bit instead because we need to catch up with some of those issues as well prefer it if you didn't talk about optimization or like network and multiplayer issues because yeah we know that and we are constantly optimizing so that is an ongoing thing we don't need you to say that but if you really want to if it'll make you feel better by all means say it and we'll see it and we're gonna work on it okay so that's
+> Okay so the next thing is something that we
+would love some help from you *crashing sound* We would like to know what your most annoying
+bugs or features or issues are in Satisfactory right now It's easy for us when working on update #3
+to just focus on update #3 and fix it and make it work and that's very good
+and that's important but it's easy for us to forget all the issues
+that we had before this so if you can tell us in the comments below
+what is the most annoying thing that you're running into, please let us know
+so that we can consider going back and working on that a little bit instead because we need to catch up
+with some of those issues as well Prefer it if you didn't
+talk about optimization or like network and multiplayer issues
+because yeah we know that and we are constantly optimizing
+so that is an ongoing thing we don't need you to say that but if you really want to, if it'll make you feel better by all means say it and we'll see it and we're gonna work on it okay so that's that's all the information for today

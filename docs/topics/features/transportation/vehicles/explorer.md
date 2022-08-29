@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > Transportation > [Vehicles](../../../../topics/features/transportation/vehicles.md) > Explorer
 
+## August 23rd, 2022 Livestream
+* [Q&A: When you drive an Explorer and honk at a Train, it doesn't honk back?](../../../../transcriptions/yt-HD9PJenRqy4.md) [https://www.youtube.com/watch?v=HD9PJenRqy4](https://www.youtube.com/watch?v=HD9PJenRqy4)
+
 ## July 12th, 2022 Livestream
 * [Q&A: Explorer mini-gun?](../../../../transcriptions/yt-onX6FMFubIE.md) [https://www.youtube.com/watch?v=onX6FMFubIE](https://www.youtube.com/watch?v=onX6FMFubIE)
 

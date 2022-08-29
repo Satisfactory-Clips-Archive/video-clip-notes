@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Requested Features](../../../topics/features/requested-features.md) > Third-person View
 
+## August 23rd, 2022 Livestream
+* [Q&A: Third-person view?](../../../transcriptions/yt-u3Ki7FrGeLc.md) [https://www.youtube.com/watch?v=u3Ki7FrGeLc](https://www.youtube.com/watch?v=u3Ki7FrGeLc)
+
 ## July 5th, 2022 Livestream
 * Q&A: What about Third-person View? [https://www.youtube.com/watch?v=--17oeeyyOI](https://www.youtube.com/watch?v=--17oeeyyOI)
 

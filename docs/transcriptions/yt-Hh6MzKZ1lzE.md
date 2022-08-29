@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=Hh6MzKZ1lzE
 
 ### Transcript
 
-> we have more freedom how we place objects I mean you'll have more freedom in the sense that like you have soft clearance so you can clip through yeah but there's no like you have more friends there's no like there's nothing new with the build mode so to speak
+> we have more freedom how we place objects I mean you'll have more freedom in the sense that like you have soft clearance so you can clip through [ __ ] yeah but there's no like you have more friends there's no like there's nothing new with the build mode so to speak

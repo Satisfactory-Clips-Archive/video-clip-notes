@@ -8,7 +8,7 @@ topics:
 # [October 1st, 2020 Q&A](../2020-10-01.md)
 ## Q&A: Is there any possibility it might come to PS4 and Xbox?
 https://youtube.com/embed/rATcozDE25c?autoplay=1&start=163&end=262
-This question was possibly duplicated with a more recent answer: [June 28th, 2022 Livestream Q&A: Any thoughts on Console version?](./yt-zdvY08WXtCc.md) [https://www.youtube.com/watch?v=zdvY08WXtCc](https://www.youtube.com/watch?v=zdvY08WXtCc)
+This question was possibly duplicated with a more recent answer: [August 23rd, 2022 Livestream Q&A: Any Updates on Console?](./yt-N_P83ITCFFM.md) [https://www.youtube.com/watch?v=N_P83ITCFFM](https://www.youtube.com/watch?v=N_P83ITCFFM)
 
 
 ### Topics

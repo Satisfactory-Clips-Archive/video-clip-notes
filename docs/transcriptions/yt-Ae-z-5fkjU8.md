@@ -20,4 +20,4 @@ https://www.youtube.com/watch?v=Ae-z-5fkjU8
 >
 > [Music]
 >
-> sorry I need to read this message okay it wasn't important, what was I talking about wow what a [ __ ] that's an adh moment have I ever seen one, sam or jeez I completely lost track of my train of thought, I think I was talking about the same or and that's something that we're gonna do but that's tied to 1.0 so that won't happen until then I think we go to that part okay
+> sorry I need to read this message okay it wasn't important, what was I talking about wow what a that's an adh moment have I ever seen one, sam or jeez I completely lost track of my train of thought, I think I was talking about the same or and that's something that we're gonna do but that's tied to 1.0 so that won't happen until then I think we go to that part okay

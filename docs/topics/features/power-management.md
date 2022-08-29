@@ -10,6 +10,9 @@ date: Last Modified
 * [Power Storage](../../topics/features/power-management/power-storage.md)
 * [Power Switch](../../topics/features/power-management/power-switch.md)
 
+## August 23rd, 2022 Livestream
+* [Q&A: Plans to make the two graphs on Switches reflect both grids?](../../transcriptions/yt-oeVoO2Drp94.md) [https://www.youtube.com/watch?v=oeVoO2Drp94](https://www.youtube.com/watch?v=oeVoO2Drp94)
+
 ## July 12th, 2022 Livestream
 * Q&A: Alt Recipes using a lot of Power to only get 12 per minute? [https://www.youtube.com/watch?v=_ZdYbFPhO2U](https://www.youtube.com/watch?v=_ZdYbFPhO2U)
 

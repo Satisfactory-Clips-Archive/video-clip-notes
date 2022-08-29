@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > Possible Features > [DLC](../../../../topics/features/possible-features/dlc.md) > Flushable Toilet DLC
 
+## August 23rd, 2022 Livestream
+* [Q&A: When will we get the Toilet DLC?](../../../../transcriptions/yt-Gt94bJHuacQ.md) [https://www.youtube.com/watch?v=Gt94bJHuacQ](https://www.youtube.com/watch?v=Gt94bJHuacQ)
+
 ## July 12th, 2022 Livestream
 * [Q&A: When can we use the toilet in the HUB?](../../../../transcriptions/yt-OBEg5S7m9H4.md) [https://www.youtube.com/watch?v=OBEg5S7m9H4](https://www.youtube.com/watch?v=OBEg5S7m9H4)
 

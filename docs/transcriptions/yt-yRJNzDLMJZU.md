@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=yRJNzDLMJZU
 
 ### Transcript
 
-> and and on the topic also one thing that it's probably also good to clear up is, because that's just someone asking about dedicated servers which is, the running question, on everyone's mind, we are we are prioritizing dedicated dessert we're I can't talk we're gonna prioritize dedicated servers more going forward now, leading up to and like dedicated server isn't tied into any specific update so as soon as we feel like we can put out dedicated servers now we're gonna do it, we are going to actually double the amount of people working on dedicated servers which is, from one to two exactly, chase is that actually true yeah you [ __ ] threw me on the bus there
+> and and on the topic also one thing that it's probably also good to clear up is, because that's just someone asking about dedicated servers which is, the running question, on everyone's mind, we are we are prioritizing dedicated dessert we're I can't talk we're gonna prioritize dedicated servers more going forward now, leading up to and like dedicated server isn't tied into any specific update so as soon as we feel like we can put out dedicated servers now we're gonna do it, we are going to actually double the amount of people working on dedicated servers which is, from one to two exactly, chase is that actually true yeah you threw me on the bus there
 >
 > [Music]
 >

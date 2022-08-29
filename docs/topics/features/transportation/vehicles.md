@@ -12,6 +12,10 @@ date: Last Modified
 * [Tractor](../../../topics/features/transportation/vehicles/tractor.md)
 * [Truck](../../../topics/features/transportation/vehicles/truck.md)
 
+## August 23rd, 2022 Livestream
+* [Q&A: First-person camera in Vehicles, when?](../../../transcriptions/yt-6KI7k_zPCzo.md) [https://www.youtube.com/watch?v=6KI7k_zPCzo](https://www.youtube.com/watch?v=6KI7k_zPCzo)
+* [Q&A: Any plans to improve Vehicle physics?](../../../transcriptions/yt-xfFtf_z9IS4.md) [https://www.youtube.com/watch?v=xfFtf_z9IS4](https://www.youtube.com/watch?v=xfFtf_z9IS4)
+
 ## July 12th, 2022 Livestream
 * [Q&A: When do you add the ability to ride the animals like Dino Rider?](../../../transcriptions/yt-sDRMjbtHeGM.md) [https://www.youtube.com/watch?v=sDRMjbtHeGM](https://www.youtube.com/watch?v=sDRMjbtHeGM)
 * [Q&A: Any plans to fix how Vehicles are done when driving on any Foundation surface?](../../../transcriptions/yt-vQjRcLqrXUM.md) [https://www.youtube.com/watch?v=vQjRcLqrXUM](https://www.youtube.com/watch?v=vQjRcLqrXUM)

@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../topics.md) > [Retail](../../topics/retail.md) > Steam Store
 * [Steam Release](../../topics/retail/steam-store/steam-release.md)
 
+## August 23rd, 2022 Livestream
+* [Q&A: Will it run on the Steam Deck?](../../transcriptions/yt-fkgt6horxZY.md) [https://www.youtube.com/watch?v=fkgt6horxZY](https://www.youtube.com/watch?v=fkgt6horxZY)
+
 ## June 17th, 2022 Video
 * [Snutt Talk: How to check out Update 6 on Steam & Epic](../../transcriptions/yt-acZOxaTkcCY,49.474768,75.978834325334.md) [https://youtube.com/clip/UgkxcaZNnDl-U-_hLYWK8PSPeMSAt7lgcMUl](https://youtube.com/clip/UgkxcaZNnDl-U-_hLYWK8PSPeMSAt7lgcMUl)
 

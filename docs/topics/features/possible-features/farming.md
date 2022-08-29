@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > Possible Features > Farming
 
+## August 23rd, 2022 Livestream
+* [Q&A: Farming Sim in Satisfactory?](../../../transcriptions/yt-jPJMi6h_Wh4.md) [https://www.youtube.com/watch?v=jPJMi6h_Wh4](https://www.youtube.com/watch?v=jPJMi6h_Wh4)
+
 ## July 5th, 2022 Livestream
 * [Q&A: Any plans to automate Biofuel like with Fabric?](../../../transcriptions/yt-egeMfFZ2lSs.md) [https://www.youtube.com/watch?v=egeMfFZ2lSs](https://www.youtube.com/watch?v=egeMfFZ2lSs)
 * [Q&A: Have rain regrow Biomass?](../../../transcriptions/yt-6t1TZRz0NL0.md) [https://www.youtube.com/watch?v=6t1TZRz0NL0](https://www.youtube.com/watch?v=6t1TZRz0NL0)

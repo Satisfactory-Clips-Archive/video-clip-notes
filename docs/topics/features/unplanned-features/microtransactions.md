@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Unplanned Features](../../../topics/features/unplanned-features.md) > Microtransactions
 
+## August 23rd, 2022 Livestream
+* [Snutt Talk: Microtransactions](../../../transcriptions/yt-UQp-AE0x3CA.md) [https://www.youtube.com/watch?v=UQp-AE0x3CA](https://www.youtube.com/watch?v=UQp-AE0x3CA)
+
 ## July 5th, 2022 Livestream
 * [Q&A: Sell FICSIT Coupons?](../../../transcriptions/yt-h5Dkp2_S96c.md) [https://www.youtube.com/watch?v=h5Dkp2_S96c](https://www.youtube.com/watch?v=h5Dkp2_S96c)
 

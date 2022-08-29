@@ -8,6 +8,8 @@ topics:
 # [September 21st, 2021 Livestream](../2021-09-21.md)
 ## Q&A: Will we be able to upgrade entire length of belt versus section-by-section?
 https://www.youtube.com/watch?v=ayCam7jtM5s
+This question was possibly duplicated with a more recent answer: [August 23rd, 2022 Livestream Q&A: Upgrade an entire belt loop?](./yt-v2eWkkSyioA.md) [https://www.youtube.com/watch?v=v2eWkkSyioA](https://www.youtube.com/watch?v=v2eWkkSyioA)
+
 
 ### Topics
 * [Features > Buildables > Conveyor Belts](../topics/features/buildables/conveyor-belts.md)

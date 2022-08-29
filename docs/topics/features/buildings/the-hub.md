@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > The HUB
 
+## August 23rd, 2022 Livestream
+* [Q&A: Will we be able to sleep in the HUB's bed?](../../../transcriptions/yt-U6UAVFjQvVo.md) [https://www.youtube.com/watch?v=U6UAVFjQvVo](https://www.youtube.com/watch?v=U6UAVFjQvVo)
+
 ## July 12th, 2022 Livestream
 * [Q&A: When can we use the toilet in the HUB?](../../../transcriptions/yt-OBEg5S7m9H4.md) [https://www.youtube.com/watch?v=OBEg5S7m9H4](https://www.youtube.com/watch?v=OBEg5S7m9H4)
 

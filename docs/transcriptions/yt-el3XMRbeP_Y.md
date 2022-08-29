@@ -8,7 +8,7 @@ topics:
 # [October 19th, 2021 Livestream](../2021-10-19.md)
 ## Q&A: Will there be a Satisfactory release on GOG.com?
 https://www.youtube.com/watch?v=el3XMRbeP_Y
-This question was possibly duplicated with a more recent answer: [November 16th, 2021 Livestream Q&A: Any chance the game will be on GOG at some point?](./yt-bpKi2UaaQLs.md) [https://www.youtube.com/watch?v=bpKi2UaaQLs](https://www.youtube.com/watch?v=bpKi2UaaQLs)
+This question was possibly duplicated with a more recent answer: [August 23rd, 2022 Livestream Q&A: Why not a GOG version?](./yt-9hlTnbKGXSo.md) [https://www.youtube.com/watch?v=9hlTnbKGXSo](https://www.youtube.com/watch?v=9hlTnbKGXSo)
 
 
 ### Topics

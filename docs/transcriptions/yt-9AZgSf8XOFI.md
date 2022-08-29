@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=9AZgSf8XOFI
 
 ### Transcript
 
-> is today flannisher oh [ __ ] I didn't realize I'm wearing a planetary yeah yeah we got a few people staying at the lumberjack community managers
+> is today flannisher oh I didn't realize I'm wearing a planetary yeah yeah we got a few people staying at the lumberjack community managers

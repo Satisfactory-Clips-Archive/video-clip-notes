@@ -14,4 +14,4 @@ https://youtube.com/embed/LDbnPHbnba0?autoplay=1&start=113&end=142
 
 ### Transcript
 
-> buildings I usually try to find out what we linked us what is being processed what's being made trying to find something in real life but it's close to what I'm trying to replicate so for a minor for instance I would try to listen to our minor would sound in real life and usually the case is that yeah this sounds like in real life and no one would ever want to listen to it
+> For factory buildings I usually try to find out what a building does. What is being processed? What is being made? Trying to find something in real life, that is close to what I'm trying to replicate. So for a miner, for instance I would try to listen to how a miner would sound in real life and usually the case is that yeah, this sounds like shit in real life and no one would ever want to listen to it. Animation is very important for sound design, making sounds blind is

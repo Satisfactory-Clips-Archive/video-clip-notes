@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Retail](../../../topics/retail.md) > [Epic Store](../../../topics/retail/epic-store.md) > Epic Store Exclusivity
 
+## August 23rd, 2022 Livestream
+* [Snutt Talk: Community feedback](../../../transcriptions/yt-XE6Hc2wlK5M.md) [https://www.youtube.com/watch?v=XE6Hc2wlK5M](https://www.youtube.com/watch?v=XE6Hc2wlK5M)
+
 ## November 9th, 2021 Livestream
 * [Q&A: Is the game still fully-funded?](../../../transcriptions/yt-ub_jfqVBxfs.md) [https://www.youtube.com/watch?v=ub_jfqVBxfs](https://www.youtube.com/watch?v=ub_jfqVBxfs)
 

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > Transportation > [Vehicles](../../../../topics/features/transportation/vehicles.md) > Tractor
 
+## August 23rd, 2022 Livestream
+* [Q&A: Any plans to expand logistics customisation for Truck Stations?](../../../../transcriptions/yt--t8aIzxLycg.md) [https://www.youtube.com/watch?v=-t8aIzxLycg](https://www.youtube.com/watch?v=-t8aIzxLycg)
+
 ## June 14th, 2022 Livestream
 * [Coffee Stainers trolling each other](../../../../transcriptions/yt-Z6bo0pjYghk,5161.84648,5173.709039764452.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=5161&end=5174](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=5161&end=5174)
 

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Community Highlights
 
+## August 23rd, 2022 Livestream
+* [Q&A: Do you have a current favourite build style?](../../transcriptions/yt-gp6ULThyiHY.md) [https://www.youtube.com/watch?v=gp6ULThyiHY](https://www.youtube.com/watch?v=gp6ULThyiHY)
+
 ## July 5th, 2022 Livestream
 * Snutt & Jace Talk: Resources in Spire Coast [https://www.youtube.com/watch?v=G14AvMQYcNk](https://www.youtube.com/watch?v=G14AvMQYcNk)
 
