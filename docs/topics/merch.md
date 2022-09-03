@@ -7,6 +7,9 @@ date: Last Modified
 * [EU Merch Store](../topics/merch/eu-merch-store.md)
 * [Merch Prototypes](../topics/merch/merch-prototypes.md)
 
+## August 30th, 2022 Livestream
+* [Q&A: A vinyl record?](../transcriptions/yt-hpXprNBRjM8.md) [https://www.youtube.com/watch?v=hpXprNBRjM8](https://www.youtube.com/watch?v=hpXprNBRjM8)
+
 ## July 12th, 2022 Livestream
 * [Snutt Talk: Lego](../transcriptions/yt-n_gmBWh5wNQ.md) [https://www.youtube.com/watch?v=n_gmBWh5wNQ](https://www.youtube.com/watch?v=n_gmBWh5wNQ)
 

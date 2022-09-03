@@ -5,6 +5,13 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Pending](../../../topics/satisfactory-updates/pending.md) > Satisfactory 1.0
 
+## August 30th, 2022 Livestream
+* [State of Dev](../../../transcriptions/yt-qseJk3eyX90.md) [https://www.youtube.com/watch?v=qseJk3eyX90](https://www.youtube.com/watch?v=qseJk3eyX90)
+* [Q&A: Will 1.0 Story spend any time in Experimental before release?](../../../transcriptions/yt-244mMPCWwJA.md) [https://www.youtube.com/watch?v=244mMPCWwJA](https://www.youtube.com/watch?v=244mMPCWwJA)
+* [Q&A: Map changes before 1.0?](../../../transcriptions/yt-O4LjJtABcTw.md) [https://www.youtube.com/watch?v=O4LjJtABcTw](https://www.youtube.com/watch?v=O4LjJtABcTw)
+* [Q&A: Any plans for the game beyond 1.0?](../../../transcriptions/yt-mZhl4NGoywM.md) [https://www.youtube.com/watch?v=mZhl4NGoywM](https://www.youtube.com/watch?v=mZhl4NGoywM)
+* [Q&A: Official Mod Support before 1.0?](../../../transcriptions/yt-UUNLmEB7Dlc.md) [https://www.youtube.com/watch?v=UUNLmEB7Dlc](https://www.youtube.com/watch?v=UUNLmEB7Dlc)
+
 ## August 23rd, 2022 Livestream
 * [Q&A: Is the plan still for 2022 release?](../../../transcriptions/yt-GM0CJlndusA.md) [https://www.youtube.com/watch?v=GM0CJlndusA](https://www.youtube.com/watch?v=GM0CJlndusA)
 

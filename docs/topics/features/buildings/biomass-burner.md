@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > Biomass Burner
 
+## August 30th, 2022 Livestream
+* [Q&A: Some kind of automation with Biomass?](../../../transcriptions/yt-3J6VLt0EsEg.md) [https://www.youtube.com/watch?v=3J6VLt0EsEg](https://www.youtube.com/watch?v=3J6VLt0EsEg)
+
 ## April 15th, 2022 Video
 * [Snutt & Stefan Talk: Building changes in Sprint 20](../../../transcriptions/yt-7I3NGAm3j_4,1614.1792333333333,1673.3383333333334.md) [https://youtube.com/clip/UgkxkNwDqcqIoCK4fGAc3VSJKf4dzSn_C90b](https://youtube.com/clip/UgkxkNwDqcqIoCK4fGAc3VSJKf4dzSn_C90b)
 

@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > Transportation > Trains
 * [Train Signals](../../../topics/features/transportation/trains/train-signals.md)
 
+## September 2nd, 2022 Video
+* [Headlights on Trains](../../../transcriptions/yt-Pgm1L8aIf6E,238.17126666666667,239.8396.md) [https://youtube.com/embed/Pgm1L8aIf6E?autoplay=1&start=238&end=240](https://youtube.com/embed/Pgm1L8aIf6E?autoplay=1&start=238&end=240)
+
 ## August 23rd, 2022 Livestream
 * [Q&A: Aren't Trains pointless because the game works on speed of items not amounts of items?](../../../transcriptions/yt-cGajLyhvHUY.md) [https://www.youtube.com/watch?v=cGajLyhvHUY](https://www.youtube.com/watch?v=cGajLyhvHUY)
 * [Q&A: Are Drone Ports ever going to be as customisable as Train Stations?](../../../transcriptions/yt-GQUL70uAm38.md) [https://www.youtube.com/watch?v=GQUL70uAm38](https://www.youtube.com/watch?v=GQUL70uAm38)

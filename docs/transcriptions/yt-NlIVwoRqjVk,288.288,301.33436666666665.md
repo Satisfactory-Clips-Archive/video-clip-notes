@@ -8,7 +8,7 @@ topics:
 # [May 15th, 2020 Q&A](../2020-05-15.md)
 ## Q&A: Official Mod Support?
 https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=288&end=302
-This question was possibly duplicated with a more recent answer: [August 23rd, 2022 Livestream Q&A: When integrated Mod support?](./yt-fLkFqQwnwrs.md) [https://www.youtube.com/watch?v=fLkFqQwnwrs](https://www.youtube.com/watch?v=fLkFqQwnwrs)
+This question was possibly duplicated with a more recent answer: [August 30th, 2022 Livestream Q&A: Official Mod Support before 1.0?](./yt-UUNLmEB7Dlc.md) [https://www.youtube.com/watch?v=UUNLmEB7Dlc](https://www.youtube.com/watch?v=UUNLmEB7Dlc)
 
 
 ### Topics

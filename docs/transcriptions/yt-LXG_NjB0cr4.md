@@ -9,7 +9,7 @@ topics:
 # [August 24th, 2021 Livestream](../2021-08-24.md)
 ## Q&A: Will there be updates after 1.0?
 https://www.youtube.com/watch?v=LXG_NjB0cr4
-This question was possibly duplicated with a more recent answer: [July 5th, 2022 Livestream Q&A: Will you add stuff after 1.0?](./yt-yqVC6fYnsOQ.md) [https://www.youtube.com/watch?v=yqVC6fYnsOQ](https://www.youtube.com/watch?v=yqVC6fYnsOQ)
+This question was possibly duplicated with a more recent answer: [August 30th, 2022 Livestream Q&A: Any plans for the game beyond 1.0?](./yt-mZhl4NGoywM.md) [https://www.youtube.com/watch?v=mZhl4NGoywM](https://www.youtube.com/watch?v=mZhl4NGoywM)
 
 
 ### Topics

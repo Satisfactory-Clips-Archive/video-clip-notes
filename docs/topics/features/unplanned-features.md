@@ -17,6 +17,10 @@ date: Last Modified
 * [Terraforming](../../topics/features/unplanned-features/terraforming.md)
 * [VR](../../topics/features/unplanned-features/vr.md)
 
+## August 30th, 2022 Livestream
+* [Q&A: Boats, when?](../../transcriptions/yt-9tpRlh5jzL0.md) [https://www.youtube.com/watch?v=9tpRlh5jzL0](https://www.youtube.com/watch?v=9tpRlh5jzL0)
+* [Q&A: Some kind of automation with Biomass?](../../transcriptions/yt-3J6VLt0EsEg.md) [https://www.youtube.com/watch?v=3J6VLt0EsEg](https://www.youtube.com/watch?v=3J6VLt0EsEg)
+
 ## August 23rd, 2022 Livestream
 * [Q&A: Will we be able to sleep in the HUB's bed?](../../transcriptions/yt-U6UAVFjQvVo.md) [https://www.youtube.com/watch?v=U6UAVFjQvVo](https://www.youtube.com/watch?v=U6UAVFjQvVo)
 

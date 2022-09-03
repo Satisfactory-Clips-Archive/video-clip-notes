@@ -6,6 +6,10 @@ date: Last Modified
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Crafting](../../../topics/features/crafting.md) > Recipes
 * [Alternate Recipes](../../../topics/features/crafting/recipes/alternate-recipes.md)
 
+## August 30th, 2022 Livestream
+* [Q&A: Will you change the Uranium Fuel Rod Recipe using Beacons in Update 6?](../../../transcriptions/yt-SmzRbZ6_0CM.md) [https://www.youtube.com/watch?v=SmzRbZ6_0CM](https://www.youtube.com/watch?v=SmzRbZ6_0CM)
+* [Q&A: Will Experimental Recipes change in Update 6?](../../../transcriptions/yt-IzgA1OrdTTs.md) [https://www.youtube.com/watch?v=IzgA1OrdTTs](https://www.youtube.com/watch?v=IzgA1OrdTTs)
+
 ## August 23rd, 2022 Livestream
 * [Q&A: Aren't Trains pointless because the game works on speed of items not amounts of items?](../../../transcriptions/yt-cGajLyhvHUY.md) [https://www.youtube.com/watch?v=cGajLyhvHUY](https://www.youtube.com/watch?v=cGajLyhvHUY)
 * [Q&A: New Nuclear Recipes confirmed?](../../../transcriptions/yt-RDZCG82PWRo.md) [https://www.youtube.com/watch?v=RDZCG82PWRo](https://www.youtube.com/watch?v=RDZCG82PWRo)

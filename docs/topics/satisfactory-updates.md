@@ -18,6 +18,10 @@ date: Last Modified
 * [Teasers & Trailers](../topics/satisfactory-updates/teasers-and-trailers.md)
 * [World Update](../topics/satisfactory-updates/world-update.md)
 
+## August 30th, 2022 Livestream
+* [State of Dev](../transcriptions/yt-qseJk3eyX90.md) [https://www.youtube.com/watch?v=qseJk3eyX90](https://www.youtube.com/watch?v=qseJk3eyX90)
+* [Snutt Talk: Overclocking changes](../transcriptions/yt-nFeFUeannAU.md) [https://www.youtube.com/watch?v=nFeFUeannAU](https://www.youtube.com/watch?v=nFeFUeannAU)
+
 ## July 5th, 2022 Livestream
 * [Q&A: Will the alt Nuclear Fuel be part of the next Update?](../transcriptions/yt-MrPbasBXKEQ.md) [https://www.youtube.com/watch?v=MrPbasBXKEQ](https://www.youtube.com/watch?v=MrPbasBXKEQ)
 * Snutt & Jace Talk: Resources in Spire Coast [https://www.youtube.com/watch?v=G14AvMQYcNk](https://www.youtube.com/watch?v=G14AvMQYcNk)

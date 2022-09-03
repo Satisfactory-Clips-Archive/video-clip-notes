@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > Possible Features > Decor
 
+## August 30th, 2022 Livestream
+* [Q&A: More decorations?](../../../transcriptions/yt-IjNb58Ajg8g.md) [https://www.youtube.com/watch?v=IjNb58Ajg8g](https://www.youtube.com/watch?v=IjNb58Ajg8g)
+
 ## August 23rd, 2022 Livestream
 * [Q&A: Dylan posters, when?](../../../transcriptions/yt-hZcoSGtLmOU.md) [https://www.youtube.com/watch?v=hZcoSGtLmOU](https://www.youtube.com/watch?v=hZcoSGtLmOU)
 * [Q&A: New cosmetics ?](../../../transcriptions/yt-slfAPPtU6XE.md) [https://www.youtube.com/watch?v=slfAPPtU6XE](https://www.youtube.com/watch?v=slfAPPtU6XE)

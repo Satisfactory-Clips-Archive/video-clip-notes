@@ -14,6 +14,9 @@ date: Last Modified
 * [User Interface](../topics/technology/user-interface.md)
 * [Vulkan](../topics/technology/vulkan.md)
 
+## August 30th, 2022 Livestream
+* [Q&A: Are you programming with visual, or c++ ?](../transcriptions/yt-8mRZfTHkKPU.md) [https://www.youtube.com/watch?v=8mRZfTHkKPU](https://www.youtube.com/watch?v=8mRZfTHkKPU)
+
 ## August 23rd, 2022 Livestream
 * [Snutt Talk: Multi-threaded programming](../transcriptions/yt-Aj7aI7Lwg9k.md) [https://www.youtube.com/watch?v=Aj7aI7Lwg9k](https://www.youtube.com/watch?v=Aj7aI7Lwg9k)
 

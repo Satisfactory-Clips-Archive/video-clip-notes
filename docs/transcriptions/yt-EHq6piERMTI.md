@@ -9,12 +9,7 @@ topics:
 # [December 7th, 2021 Livestream](../2021-12-07.md)
 ## Q&A: Will we get a Story sneak-peek at some point or not until 1.0?
 https://www.youtube.com/watch?v=EHq6piERMTI
-<details>
-<summary>This question may have been asked previously at least 2 other times, as recently as February 2021 and as early as August 2020.</summary>
-
-* [February 16th, 2021 Livestream Q&A: Will there be a penultimate Early Access release for the Story?](./yt-R9H2Xu_20UA.md) [https://www.youtube.com/watch?v=R9H2Xu_20UA](https://www.youtube.com/watch?v=R9H2Xu_20UA)
-* August 18th, 2020 Livestream Q&A: Storyline before 1.0? [https://clips.twitch.tv/SteamyFurtiveRadishStrawBeary](https://clips.twitch.tv/SteamyFurtiveRadishStrawBeary)
-</details>
+This question was possibly duplicated with a more recent answer: [August 30th, 2022 Livestream Q&A: Will 1.0 Story spend any time in Experimental before release?](./yt-244mMPCWwJA.md) [https://www.youtube.com/watch?v=244mMPCWwJA](https://www.youtube.com/watch?v=244mMPCWwJA)
 
 
 ### Topics

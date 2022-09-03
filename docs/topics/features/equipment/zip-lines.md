@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Equipment](../../../topics/features/equipment.md) > Zip Lines
 
+## August 30th, 2022 Livestream
+* [Q&A: Zip Line Mk.2 that lets us attach to Drones?](../../../transcriptions/yt-wW4a4777ba8.md) [https://www.youtube.com/watch?v=wW4a4777ba8](https://www.youtube.com/watch?v=wW4a4777ba8)
+
 ## July 12th, 2022 Livestream
 * [Q&A: Can we use the Zipline to grab onto Drones & ride them?](../../../transcriptions/yt-4CDoTNiSV84.md) [https://www.youtube.com/watch?v=4CDoTNiSV84](https://www.youtube.com/watch?v=4CDoTNiSV84)
 

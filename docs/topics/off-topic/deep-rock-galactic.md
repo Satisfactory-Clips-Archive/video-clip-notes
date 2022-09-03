@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Deep Rock Galactic
 
+## August 30th, 2022 Livestream
+* [Q&A: What's your favourite game published by Coffee Stain?](../../transcriptions/yt-yiFDigrsmPE.md) [https://www.youtube.com/watch?v=yiFDigrsmPE](https://www.youtube.com/watch?v=yiFDigrsmPE)
+
 ## April 19th, 2022 Livestream
 * [Q&A: Do you have any future plans for Deep Rock Galactic, DLC-wise?](../../transcriptions/yt-veoLleeKnBA.md) [https://www.youtube.com/watch?v=veoLleeKnBA](https://www.youtube.com/watch?v=veoLleeKnBA)
 

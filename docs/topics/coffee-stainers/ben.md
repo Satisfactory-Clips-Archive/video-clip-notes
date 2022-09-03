@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Ben
 
+## August 30th, 2022 Livestream
+* [Q&A: New Water system?](../../transcriptions/yt-Cwx8kD-fSr0.md) [https://www.youtube.com/watch?v=Cwx8kD-fSr0](https://www.youtube.com/watch?v=Cwx8kD-fSr0)
+
 ## June 14th, 2022 Livestream
 * [Ben, Dylan, Simon, & Snutt Talk: Nuke Nobelisks](../../transcriptions/yt-Z6bo0pjYghk,7750.400283043454,7848.671851.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=7750&end=7849](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=7750&end=7849)
 * [Ben, Dylan, Simon, & Snutt Talk: Alpaca](../../transcriptions/yt-Z6bo0pjYghk,8360.260447025314,8382.181263.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=8360&end=8383](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=8360&end=8383)

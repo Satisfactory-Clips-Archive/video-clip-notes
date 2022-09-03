@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Biomes](../../../topics/environment/biomes.md) > Dune Desert
 
+## August 30th, 2022 Livestream
+* [Q&A: Will the trees in western Dune Desert be fixed so the chainsaw chops more than one at a time?](../../../transcriptions/yt-Y2lhP94DACU.md) [https://www.youtube.com/watch?v=Y2lhP94DACU](https://www.youtube.com/watch?v=Y2lhP94DACU)
+
 ## July 5th, 2022 Livestream
 * [Q&A: Any hopes for Sarlac pit?](../../../transcriptions/yt-L2aAG6sJiOE.md) [https://www.youtube.com/watch?v=L2aAG6sJiOE](https://www.youtube.com/watch?v=L2aAG6sJiOE)
 

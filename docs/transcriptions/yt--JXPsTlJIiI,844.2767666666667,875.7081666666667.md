@@ -8,7 +8,7 @@ topics:
 # [December 17th, 2020 Q&A](../2020-12-17.md)
 ## Q&A: Are farms going to be a thing?
 https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=844&end=876
-This question was possibly duplicated with a more recent answer: [February 8th, 2022 Livestream Q&A: Farms?](./yt-FqwSycZqJWo.md) [https://www.youtube.com/watch?v=FqwSycZqJWo](https://www.youtube.com/watch?v=FqwSycZqJWo)
+This question was possibly duplicated with a more recent answer: [August 30th, 2022 Livestream Q&A: Any type of Farming added?](./yt-NWrOF30yb5s.md) [https://www.youtube.com/watch?v=NWrOF30yb5s](https://www.youtube.com/watch?v=NWrOF30yb5s)
 
 
 ### Topics

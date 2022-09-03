@@ -12,6 +12,14 @@ date: Last Modified
 * [Pollution](../../topics/features/requested-features/pollution.md)
 * [Third-person View](../../topics/features/requested-features/third-person-view.md)
 
+## August 30th, 2022 Livestream
+* [Q&A: Any plans for letting players dive underwater?](../../transcriptions/yt-2sMDsApY6Bs.md) [https://www.youtube.com/watch?v=2sMDsApY6Bs](https://www.youtube.com/watch?v=2sMDsApY6Bs)
+* [Q&A: Will the trees in western Dune Desert be fixed so the chainsaw chops more than one at a time?](../../transcriptions/yt-Y2lhP94DACU.md) [https://www.youtube.com/watch?v=Y2lhP94DACU](https://www.youtube.com/watch?v=Y2lhP94DACU)
+* [Q&A: Unreal 5 switch, when?](../../transcriptions/yt-GudEIWIRltY.md) [https://www.youtube.com/watch?v=GudEIWIRltY](https://www.youtube.com/watch?v=GudEIWIRltY)
+* [Q&A: Will we be able to change the background in the main menu in future?](../../transcriptions/yt-Kx98DmlSj1Y.md) [https://www.youtube.com/watch?v=Kx98DmlSj1Y](https://www.youtube.com/watch?v=Kx98DmlSj1Y)
+* [Q&A: Permadeath?](../../transcriptions/yt-_BU-t6yfoYY.md) [https://www.youtube.com/watch?v=_BU-t6yfoYY](https://www.youtube.com/watch?v=_BU-t6yfoYY)
+* [Q&A: Zip Line Mk.2 that lets us attach to Drones?](../../transcriptions/yt-wW4a4777ba8.md) [https://www.youtube.com/watch?v=wW4a4777ba8](https://www.youtube.com/watch?v=wW4a4777ba8)
+
 ## August 23rd, 2022 Livestream
 * [Q&A: Do you have any plans for Ratio Splitters?](../../transcriptions/yt-YxQAE1gsMhs.md) [https://www.youtube.com/watch?v=YxQAE1gsMhs](https://www.youtube.com/watch?v=YxQAE1gsMhs)
 * [Q&A: How do you feel about vertical Splitters?](../../transcriptions/yt-hu166G2rcFE.md) [https://www.youtube.com/watch?v=hu166G2rcFE](https://www.youtube.com/watch?v=hu166G2rcFE)

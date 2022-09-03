@@ -10,7 +10,7 @@ topics:
 # [February 16th, 2021 Livestream](../2021-02-16.md)
 ## Q&A: Will there be a penultimate Early Access release for the Story?
 https://www.youtube.com/watch?v=R9H2Xu_20UA
-This question was possibly duplicated with a more recent answer: [December 7th, 2021 Livestream Q&A: Will we get a Story sneak-peek at some point or not until 1.0?](./yt-EHq6piERMTI.md) [https://www.youtube.com/watch?v=EHq6piERMTI](https://www.youtube.com/watch?v=EHq6piERMTI)
+This question was possibly duplicated with a more recent answer: [August 30th, 2022 Livestream Q&A: Will 1.0 Story spend any time in Experimental before release?](./yt-244mMPCWwJA.md) [https://www.youtube.com/watch?v=244mMPCWwJA](https://www.youtube.com/watch?v=244mMPCWwJA)
 
 
 ### Topics

@@ -10,6 +10,12 @@ date: Last Modified
 * [Non Flying Bird](../../topics/environment/creatures/non-flying-bird.md)
 * [Space Giraffe-Tick-Penguin-Whale Thing](../../topics/environment/creatures/space-giraffe-tick-penguin-whale-thing.md)
 
+## September 2nd, 2022 Video
+* [Creature AI](../../transcriptions/yt-Pgm1L8aIf6E,138.90543333333335,198.73186666666666.md) [https://youtube.com/clip/UgkxJNrbDhR0X667sjPaj7JeZKIX_1Uri-uu](https://youtube.com/clip/UgkxJNrbDhR0X667sjPaj7JeZKIX_1Uri-uu)
+
+## August 30th, 2022 Livestream
+* [State of Dev](../../transcriptions/yt-qseJk3eyX90.md) [https://www.youtube.com/watch?v=qseJk3eyX90](https://www.youtube.com/watch?v=qseJk3eyX90)
+
 ## August 23rd, 2022 Livestream
 * [State of Dev: Where's Update 6?](../../transcriptions/yt-Or4PvDOCofA.md) [https://www.youtube.com/watch?v=Or4PvDOCofA](https://www.youtube.com/watch?v=Or4PvDOCofA)
 

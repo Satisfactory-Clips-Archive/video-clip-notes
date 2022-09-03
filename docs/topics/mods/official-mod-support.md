@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../topics.md) > [Mods](../../topics/mods.md) > Official Mod Support
 * [Steam Workshop](../../topics/mods/official-mod-support/steam-workshop.md)
 
+## August 30th, 2022 Livestream
+* [Q&A: Official Mod Support before 1.0?](../../transcriptions/yt-UUNLmEB7Dlc.md) [https://www.youtube.com/watch?v=UUNLmEB7Dlc](https://www.youtube.com/watch?v=UUNLmEB7Dlc)
+
 ## August 23rd, 2022 Livestream
 * [Q&A: When integrated Mod support?](../../transcriptions/yt-fLkFqQwnwrs.md) [https://www.youtube.com/watch?v=fLkFqQwnwrs](https://www.youtube.com/watch?v=fLkFqQwnwrs)
 

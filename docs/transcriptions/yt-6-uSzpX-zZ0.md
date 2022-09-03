@@ -9,7 +9,7 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: What do you think about future Mod support?
 https://www.youtube.com/watch?v=6-uSzpX-zZ0
-This question was possibly duplicated with a more recent answer: [August 23rd, 2022 Livestream Q&A: When integrated Mod support?](./yt-fLkFqQwnwrs.md) [https://www.youtube.com/watch?v=fLkFqQwnwrs](https://www.youtube.com/watch?v=fLkFqQwnwrs)
+This question was possibly duplicated with a more recent answer: [August 30th, 2022 Livestream Q&A: Official Mod Support before 1.0?](./yt-UUNLmEB7Dlc.md) [https://www.youtube.com/watch?v=UUNLmEB7Dlc](https://www.youtube.com/watch?v=UUNLmEB7Dlc)
 
 
 ### Topics

@@ -5,6 +5,23 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Pending](../../../topics/satisfactory-updates/pending.md) > Satisfactory Update 6
 
+## September 2nd, 2022 Video
+* [Quick Rewind](../../../transcriptions/yt-Pgm1L8aIf6E,25.992633333333334,89.9899.md) [https://youtube.com/embed/Pgm1L8aIf6E?autoplay=1&start=25&end=90](https://youtube.com/embed/Pgm1L8aIf6E?autoplay=1&start=25&end=90)
+* [Q&A: When is Update 6 coming to the default Early Access branch?](../../../transcriptions/yt-Pgm1L8aIf6E,90.02326666666667,135.6355.md) [https://youtube.com/clip/UgkxWE0a_WVarWJMuYSX5zHerPGtL0XkFo-c](https://youtube.com/clip/UgkxWE0a_WVarWJMuYSX5zHerPGtL0XkFo-c)
+* [Creature AI](../../../transcriptions/yt-Pgm1L8aIf6E,138.90543333333335,198.73186666666666.md) [https://youtube.com/clip/UgkxJNrbDhR0X667sjPaj7JeZKIX_1Uri-uu](https://youtube.com/clip/UgkxJNrbDhR0X667sjPaj7JeZKIX_1Uri-uu)
+* [Pipes without Pipe Indicators](../../../transcriptions/yt-Pgm1L8aIf6E,212.54566666666668,225.39183333333332.md) [https://youtube.com/clip/Ugkxt_PmTWn9VNCgMOON33Ag9PCmkuFd8SfC](https://youtube.com/clip/Ugkxt_PmTWn9VNCgMOON33Ag9PCmkuFd8SfC)
+* [You can now apply Materials to Quarter Pipes](../../../transcriptions/yt-Pgm1L8aIf6E,225.42520000000002,238.1379.md) [https://youtube.com/clip/UgkxKToeZ9r7KRuvzcAq0QJSwPy9BB7_juR8](https://youtube.com/clip/UgkxKToeZ9r7KRuvzcAq0QJSwPy9BB7_juR8)
+* [Headlights on Trains](../../../transcriptions/yt-Pgm1L8aIf6E,238.17126666666667,239.8396.md) [https://youtube.com/embed/Pgm1L8aIf6E?autoplay=1&start=238&end=240](https://youtube.com/embed/Pgm1L8aIf6E?autoplay=1&start=238&end=240)
+* [Solving the problem with the Explorer having two seats](../../../transcriptions/yt-Pgm1L8aIf6E,239.87296666666668,266.7998666666667.md) [https://youtube.com/clip/UgkxP3bL_gUS4aQuUjRfVbS0J-ZiApsS02XO](https://youtube.com/clip/UgkxP3bL_gUS4aQuUjRfVbS0J-ZiApsS02XO)
+* [Check the Patch Notes](../../../transcriptions/yt-Pgm1L8aIf6E,266.83323333333334,275.275.md) [https://youtube.com/clip/Ugkx8u-cp3p9OWbbQb6ABlPXilmubkXpEALm](https://youtube.com/clip/Ugkx8u-cp3p9OWbbQb6ABlPXilmubkXpEALm)
+* [More Patches to come](../../../transcriptions/yt-Pgm1L8aIf6E,275.3083666666667,284.81786666666665.md) [https://youtube.com/clip/UgkxaZxShUj2qWbOEiGly5EsmGQ4YQdTHOZw](https://youtube.com/clip/UgkxaZxShUj2qWbOEiGly5EsmGQ4YQdTHOZw)
+
+## August 30th, 2022 Livestream
+* [State of Dev](../../../transcriptions/yt-qseJk3eyX90.md) [https://www.youtube.com/watch?v=qseJk3eyX90](https://www.youtube.com/watch?v=qseJk3eyX90)
+* [Q&A: Will you change the Uranium Fuel Rod Recipe using Beacons in Update 6?](../../../transcriptions/yt-SmzRbZ6_0CM.md) [https://www.youtube.com/watch?v=SmzRbZ6_0CM](https://www.youtube.com/watch?v=SmzRbZ6_0CM)
+* [Community FYI: Current Experimental is too easy, survival is trivial](../../../transcriptions/yt-TZ18kw4Ks3Q.md) [https://www.youtube.com/watch?v=TZ18kw4Ks3Q](https://www.youtube.com/watch?v=TZ18kw4Ks3Q)
+* [Q&A: Will Experimental Recipes change in Update 6?](../../../transcriptions/yt-IzgA1OrdTTs.md) [https://www.youtube.com/watch?v=IzgA1OrdTTs](https://www.youtube.com/watch?v=IzgA1OrdTTs)
+
 ## August 23rd, 2022 Livestream
 * [State of Dev: Where's Update 6?](../../../transcriptions/yt-Or4PvDOCofA.md) [https://www.youtube.com/watch?v=Or4PvDOCofA](https://www.youtube.com/watch?v=Or4PvDOCofA)
 * [Q&A: Are Spire Coast Oil nodes fixed in place now?](../../../transcriptions/yt-Qki7s83KDUM.md) [https://www.youtube.com/watch?v=Qki7s83KDUM](https://www.youtube.com/watch?v=Qki7s83KDUM)

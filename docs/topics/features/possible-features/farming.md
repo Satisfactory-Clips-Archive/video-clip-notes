@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > Possible Features > Farming
 
+## August 30th, 2022 Livestream
+* [Q&A: Any type of Farming added?](../../../transcriptions/yt-NWrOF30yb5s.md) [https://www.youtube.com/watch?v=NWrOF30yb5s](https://www.youtube.com/watch?v=NWrOF30yb5s)
+
 ## August 23rd, 2022 Livestream
 * [Q&A: Farming Sim in Satisfactory?](../../../transcriptions/yt-jPJMi6h_Wh4.md) [https://www.youtube.com/watch?v=jPJMi6h_Wh4](https://www.youtube.com/watch?v=jPJMi6h_Wh4)
 

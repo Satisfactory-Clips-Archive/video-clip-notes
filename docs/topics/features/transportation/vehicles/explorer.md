@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > Transportation > [Vehicles](../../../../topics/features/transportation/vehicles.md) > Explorer
 
+## September 2nd, 2022 Video
+* [Solving the problem with the Explorer having two seats](../../../../transcriptions/yt-Pgm1L8aIf6E,239.87296666666668,266.7998666666667.md) [https://youtube.com/clip/UgkxP3bL_gUS4aQuUjRfVbS0J-ZiApsS02XO](https://youtube.com/clip/UgkxP3bL_gUS4aQuUjRfVbS0J-ZiApsS02XO)
+
 ## August 23rd, 2022 Livestream
 * [Q&A: When you drive an Explorer and honk at a Train, it doesn't honk back?](../../../../transcriptions/yt-HD9PJenRqy4.md) [https://www.youtube.com/watch?v=HD9PJenRqy4](https://www.youtube.com/watch?v=HD9PJenRqy4)
 

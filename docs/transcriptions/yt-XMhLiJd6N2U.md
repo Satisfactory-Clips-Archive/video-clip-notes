@@ -8,7 +8,7 @@ topics:
 # [April 27th, 2021 Livestream](../2021-04-27.md)
 ## Q&A: Is the map generation going to be randomised in the future?
 https://www.youtube.com/watch?v=XMhLiJd6N2U
-This question was possibly duplicated with a more recent answer: [February 22nd, 2022 Livestream Q&A: Will you add randomised worlds in the future?](./yt-EDjLXUUbXKg.md) [https://www.youtube.com/watch?v=EDjLXUUbXKg](https://www.youtube.com/watch?v=EDjLXUUbXKg)
+This question was possibly duplicated with a more recent answer: [August 30th, 2022 Livestream Q&A: Procedural Maps?](./yt-7pRzB0LIl64.md) [https://www.youtube.com/watch?v=7pRzB0LIl64](https://www.youtube.com/watch?v=7pRzB0LIl64)
 
 
 ### Topics

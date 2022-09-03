@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Fluids](../../../topics/features/fluids.md) > Pipes
 
+## September 2nd, 2022 Video
+* [Pipes without Pipe Indicators](../../../transcriptions/yt-Pgm1L8aIf6E,212.54566666666668,225.39183333333332.md) [https://youtube.com/clip/Ugkxt_PmTWn9VNCgMOON33Ag9PCmkuFd8SfC](https://youtube.com/clip/Ugkxt_PmTWn9VNCgMOON33Ag9PCmkuFd8SfC)
+
 ## July 12th, 2022 Livestream
 * [Q&A: Tier 3 Pipes, please?](../../../transcriptions/yt-OSg5XUXzm6Q.md) [https://www.youtube.com/watch?v=OSg5XUXzm6Q](https://www.youtube.com/watch?v=OSg5XUXzm6Q)
 * [Q&A: What is something you want to have with the game?](../../../transcriptions/yt-pFRFB1e7C9E.md) [https://www.youtube.com/watch?v=pFRFB1e7C9E](https://www.youtube.com/watch?v=pFRFB1e7C9E)

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildables](../../../topics/features/buildables.md) > Lights
 
+## September 2nd, 2022 Video
+* [Headlights on Trains](../../../transcriptions/yt-Pgm1L8aIf6E,238.17126666666667,239.8396.md) [https://youtube.com/embed/Pgm1L8aIf6E?autoplay=1&start=238&end=240](https://youtube.com/embed/Pgm1L8aIf6E?autoplay=1&start=238&end=240)
+
 ## August 23rd, 2022 Livestream
 * [Q&A: Train Lights, when?](../../../transcriptions/yt-e2a6gY6vV90.md) [https://www.youtube.com/watch?v=e2a6gY6vV90](https://www.youtube.com/watch?v=e2a6gY6vV90)
 * [Community FYI: Lights on Storage Boxes are broken on Dedicated Servers](../../../transcriptions/yt-RCGxwceXdzw.md) [https://www.youtube.com/watch?v=RCGxwceXdzw](https://www.youtube.com/watch?v=RCGxwceXdzw)

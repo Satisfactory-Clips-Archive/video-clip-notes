@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Valheim
 
+## August 30th, 2022 Livestream
+* [Q&A: What's your favourite game published by Coffee Stain?](../../transcriptions/yt-yiFDigrsmPE.md) [https://www.youtube.com/watch?v=yiFDigrsmPE](https://www.youtube.com/watch?v=yiFDigrsmPE)
+
 ## July 12th, 2022 Livestream
 * [Q&A: Satisfactory build tools in Valheim?](../../transcriptions/yt-an6DQF4sbBU.md) [https://www.youtube.com/watch?v=an6DQF4sbBU](https://www.youtube.com/watch?v=an6DQF4sbBU)
 * [Q&A: When will Satisfactory be as great as Valheim?](../../transcriptions/yt-gvsar43Ghlw.md) [https://www.youtube.com/watch?v=gvsar43Ghlw](https://www.youtube.com/watch?v=gvsar43Ghlw)

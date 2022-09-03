@@ -9,6 +9,9 @@ date: Last Modified
 * [Object Limit](../../topics/technology/unreal-engine/object-limit.md)
 * [Unreal Engine 5](../../topics/technology/unreal-engine/unreal-engine-5.md)
 
+## August 30th, 2022 Livestream
+* [Q&A: How much room for improvement do you think you still have for performance?](../../transcriptions/yt-moVIableguI.md) [https://www.youtube.com/watch?v=moVIableguI](https://www.youtube.com/watch?v=moVIableguI)
+
 ## July 12th, 2022 Livestream
 * [Q&A: Any dev tricks on how Satisfactory can handle items on Conveyors?](../../transcriptions/yt-Nb75CQWdcaE.md) [https://www.youtube.com/watch?v=Nb75CQWdcaE](https://www.youtube.com/watch?v=Nb75CQWdcaE)
 * [Q&A: Any plans to fix how Vehicles are done when driving on any Foundation surface?](../../transcriptions/yt-vQjRcLqrXUM.md) [https://www.youtube.com/watch?v=vQjRcLqrXUM](https://www.youtube.com/watch?v=vQjRcLqrXUM)

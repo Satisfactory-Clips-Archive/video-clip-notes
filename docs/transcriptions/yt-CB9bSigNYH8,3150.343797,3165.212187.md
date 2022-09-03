@@ -8,7 +8,7 @@ topics:
 # [February 20th, 2019 Livestream](../2019-02-20.md)
 ## Q&A: Is the World procedurally generated?
 https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3150&end=3166
-This question was possibly duplicated with a more recent answer: [February 22nd, 2022 Livestream Q&A: Will you add randomised worlds in the future?](./yt-EDjLXUUbXKg.md) [https://www.youtube.com/watch?v=EDjLXUUbXKg](https://www.youtube.com/watch?v=EDjLXUUbXKg)
+This question was possibly duplicated with a more recent answer: [August 30th, 2022 Livestream Q&A: Procedural Maps?](./yt-7pRzB0LIl64.md) [https://www.youtube.com/watch?v=7pRzB0LIl64](https://www.youtube.com/watch?v=7pRzB0LIl64)
 
 
 ### Topics

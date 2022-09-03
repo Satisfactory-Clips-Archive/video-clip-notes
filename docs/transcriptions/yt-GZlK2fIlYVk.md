@@ -10,7 +10,7 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Another game mode with a procedurally generated world?
 https://www.youtube.com/watch?v=GZlK2fIlYVk
-This question was possibly duplicated with a more recent answer: [February 22nd, 2022 Livestream Q&A: Will you add randomised worlds in the future?](./yt-EDjLXUUbXKg.md) [https://www.youtube.com/watch?v=EDjLXUUbXKg](https://www.youtube.com/watch?v=EDjLXUUbXKg)
+This question was possibly duplicated with a more recent answer: [August 30th, 2022 Livestream Q&A: Procedural Maps?](./yt-7pRzB0LIl64.md) [https://www.youtube.com/watch?v=7pRzB0LIl64](https://www.youtube.com/watch?v=7pRzB0LIl64)
 
 
 ### Topics

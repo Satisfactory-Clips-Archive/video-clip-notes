@@ -9,6 +9,9 @@ date: Last Modified
 * [Ping](../../topics/technology/user-interface/ping.md)
 * [Stamps](../../topics/technology/user-interface/stamps.md)
 
+## August 30th, 2022 Livestream
+* [Q&A: Will we be able to change the background in the main menu in future?](../../transcriptions/yt-Kx98DmlSj1Y.md) [https://www.youtube.com/watch?v=Kx98DmlSj1Y](https://www.youtube.com/watch?v=Kx98DmlSj1Y)
+
 ## August 23rd, 2022 Livestream
 * [Q&A: Any plans to expand logistics customisation for Truck Stations?](../../transcriptions/yt--t8aIzxLycg.md) [https://www.youtube.com/watch?v=-t8aIzxLycg](https://www.youtube.com/watch?v=-t8aIzxLycg)
 * [Q&A: Plans to make the two graphs on Switches reflect both grids?](../../transcriptions/yt-oeVoO2Drp94.md) [https://www.youtube.com/watch?v=oeVoO2Drp94](https://www.youtube.com/watch?v=oeVoO2Drp94)

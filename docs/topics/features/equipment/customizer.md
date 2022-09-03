@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Equipment](../../../topics/features/equipment.md) > Customizer
 
+## September 2nd, 2022 Video
+* [You can now apply Materials to Quarter Pipes](../../../transcriptions/yt-Pgm1L8aIf6E,225.42520000000002,238.1379.md) [https://youtube.com/clip/UgkxKToeZ9r7KRuvzcAq0QJSwPy9BB7_juR8](https://youtube.com/clip/UgkxKToeZ9r7KRuvzcAq0QJSwPy9BB7_juR8)
+
 ## August 23rd, 2022 Livestream
 * [Q&A: Exclusive skins for Belts, things via Twitch drops?](../../../transcriptions/yt-2K55fuMxHfo.md) [https://www.youtube.com/watch?v=2K55fuMxHfo](https://www.youtube.com/watch?v=2K55fuMxHfo)
 * [Q&A: Any plans to make building faster/more streamlined?](../../../transcriptions/yt-IAObwRW2rxk.md) [https://www.youtube.com/watch?v=IAObwRW2rxk](https://www.youtube.com/watch?v=IAObwRW2rxk)

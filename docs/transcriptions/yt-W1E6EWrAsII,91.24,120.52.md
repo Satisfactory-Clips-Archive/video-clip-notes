@@ -8,7 +8,7 @@ topics:
 # [June 22nd, 2018 Q&A](../2018-06-22.md)
 ## Q&A: Will there be mods?
 https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=91&end=121
-This question was possibly duplicated with a more recent answer: [August 23rd, 2022 Livestream Q&A: When integrated Mod support?](./yt-fLkFqQwnwrs.md) [https://www.youtube.com/watch?v=fLkFqQwnwrs](https://www.youtube.com/watch?v=fLkFqQwnwrs)
+This question was possibly duplicated with a more recent answer: [August 30th, 2022 Livestream Q&A: Official Mod Support before 1.0?](./yt-UUNLmEB7Dlc.md) [https://www.youtube.com/watch?v=UUNLmEB7Dlc](https://www.youtube.com/watch?v=UUNLmEB7Dlc)
 
 
 ### Topics

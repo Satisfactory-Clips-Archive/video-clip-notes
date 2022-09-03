@@ -10,6 +10,8 @@ topics:
 # [September 28th, 2021 Livestream](../2021-09-28.md)
 ## Q&A: Conveyor input for Biomass, please?
 https://www.youtube.com/watch?v=Hi-wSNVeFPU
+This question was possibly duplicated with a more recent answer: [August 30th, 2022 Livestream Q&A: Some kind of automation with Biomass?](./yt-3J6VLt0EsEg.md) [https://www.youtube.com/watch?v=3J6VLt0EsEg](https://www.youtube.com/watch?v=3J6VLt0EsEg)
+
 
 ### Topics
 * [Features > Buildables > Conveyor Belts](../topics/features/buildables/conveyor-belts.md)

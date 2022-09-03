@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Equipment](../../../topics/features/equipment.md) > Chainsaw
 
+## August 30th, 2022 Livestream
+* [Q&A: Will the trees in western Dune Desert be fixed so the chainsaw chops more than one at a time?](../../../transcriptions/yt-Y2lhP94DACU.md) [https://www.youtube.com/watch?v=Y2lhP94DACU](https://www.youtube.com/watch?v=Y2lhP94DACU)
+
 ## May 3rd, 2022 Livestream
 * [Q&A: Giant Chainsaws: intentional?](../../../transcriptions/yt-7Q_8VAYRA6U.md) [https://www.youtube.com/watch?v=7Q_8VAYRA6U](https://www.youtube.com/watch?v=7Q_8VAYRA6U)
 

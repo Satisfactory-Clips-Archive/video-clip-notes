@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Unplanned Features](../../../topics/features/unplanned-features.md) > Aerial Travel
 
+## August 30th, 2022 Livestream
+* [Q&A: Can you add helicopter?](../../../transcriptions/yt-c4j7o6ZJeCA.md) [https://www.youtube.com/watch?v=c4j7o6ZJeCA](https://www.youtube.com/watch?v=c4j7o6ZJeCA)
+
 ## July 12th, 2022 Livestream
 * [Q&A: Planes confirmed?](../../../transcriptions/yt-yj3e5hpBKNQ.md) [https://www.youtube.com/watch?v=yj3e5hpBKNQ](https://www.youtube.com/watch?v=yj3e5hpBKNQ)
 

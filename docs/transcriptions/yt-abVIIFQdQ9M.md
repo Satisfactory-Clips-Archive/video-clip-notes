@@ -9,6 +9,8 @@ topics:
 # [May 17th, 2022 Livestream](../2022-05-17.md)
 ## Q&A: Fixing quarter-pipe Foundations so we can use Materials?
 https://www.youtube.com/watch?v=abVIIFQdQ9M
+This question was possibly replaced with a more recent answer: [September 2nd, 2022 Video You can now apply Materials to Quarter Pipes](./yt-Pgm1L8aIf6E,225.42520000000002,238.1379.md) [https://youtube.com/clip/UgkxKToeZ9r7KRuvzcAq0QJSwPy9BB7_juR8](https://youtube.com/clip/UgkxKToeZ9r7KRuvzcAq0QJSwPy9BB7_juR8)
+
 <details>
 <summary>This question may have been asked previously at least 3 other times, as recently as February 2022 and as early as November 2021.</summary>
 

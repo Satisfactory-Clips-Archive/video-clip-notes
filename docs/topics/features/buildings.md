@@ -27,6 +27,9 @@ date: Last Modified
 * [The HUB](../../topics/features/buildings/the-hub.md)
 * [Water Extractor](../../topics/features/buildings/water-extractor.md)
 
+## August 30th, 2022 Livestream
+* [Q&A: New machines or generators planned one day?](../../transcriptions/yt-Gzqh9pNfY2M.md) [https://www.youtube.com/watch?v=Gzqh9pNfY2M](https://www.youtube.com/watch?v=Gzqh9pNfY2M)
+
 ## August 23rd, 2022 Livestream
 * [Q&A: Are Drone Ports ever going to be as customisable as Train Stations?](../../transcriptions/yt-GQUL70uAm38.md) [https://www.youtube.com/watch?v=GQUL70uAm38](https://www.youtube.com/watch?v=GQUL70uAm38)
 * [Q&A: Any plans to expand logistics customisation for Truck Stations?](../../transcriptions/yt--t8aIzxLycg.md) [https://www.youtube.com/watch?v=-t8aIzxLycg](https://www.youtube.com/watch?v=-t8aIzxLycg)

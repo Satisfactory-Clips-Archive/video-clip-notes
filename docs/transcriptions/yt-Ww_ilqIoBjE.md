@@ -12,6 +12,8 @@ topics:
 # [June 7th, 2022 Livestream](../2022-06-07.md)
 ## Q&A: Are water reflections/ water physics coming with the Update?
 https://www.youtube.com/watch?v=Ww_ilqIoBjE
+This question was possibly duplicated with a more recent answer: [August 30th, 2022 Livestream Q&A: New Water system?](./yt-Cwx8kD-fSr0.md) [https://www.youtube.com/watch?v=Cwx8kD-fSr0](https://www.youtube.com/watch?v=Cwx8kD-fSr0)
+
 
 ### Topics
 * [Coffee Stainers > Ben](../topics/coffee-stainers/ben.md)

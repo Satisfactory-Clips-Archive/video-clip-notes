@@ -7,6 +7,12 @@ date: Last Modified
 * [Characters](../topics/story-and-lore/characters.md)
 * [Project Assembly](../topics/story-and-lore/project-assembly.md)
 
+## August 30th, 2022 Livestream
+* [Q&A: Will 1.0 Story spend any time in Experimental before release?](../transcriptions/yt-244mMPCWwJA.md) [https://www.youtube.com/watch?v=244mMPCWwJA](https://www.youtube.com/watch?v=244mMPCWwJA)
+* [Q&A: Will the game end if we complete the Story, or can we play afterwards?](../transcriptions/yt-4vUbSs2u244.md) [https://www.youtube.com/watch?v=4vUbSs2u244](https://www.youtube.com/watch?v=4vUbSs2u244)
+* [Q&A: Do you know the current version of the Story?](../transcriptions/yt-hhNO-Bt10Mk.md) [https://www.youtube.com/watch?v=hhNO-Bt10Mk](https://www.youtube.com/watch?v=hhNO-Bt10Mk)
+* [Q&A: Any plans for environmental storytelling about the other Pioneers that came before?](../transcriptions/yt-SzmiFF1KLEY.md) [https://www.youtube.com/watch?v=SzmiFF1KLEY](https://www.youtube.com/watch?v=SzmiFF1KLEY)
+
 ## July 12th, 2022 Livestream
 * [Q&A: What happened to all the fish?](../transcriptions/yt-wtqckJMuDM4.md) [https://www.youtube.com/watch?v=wtqckJMuDM4](https://www.youtube.com/watch?v=wtqckJMuDM4)
 * [Q&A: Am I supposed to harvest alien artefacts? The computer doesn't ask me often enough.](../transcriptions/yt-w7ux-M7xR4Q.md) [https://www.youtube.com/watch?v=w7ux-M7xR4Q](https://www.youtube.com/watch?v=w7ux-M7xR4Q)

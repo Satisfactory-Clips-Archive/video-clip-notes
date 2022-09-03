@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Features](../../topics/features.md) > Pioneer
 
+## August 30th, 2022 Livestream
+* [Q&A: Any plans for letting players dive underwater?](../../transcriptions/yt-2sMDsApY6Bs.md) [https://www.youtube.com/watch?v=2sMDsApY6Bs](https://www.youtube.com/watch?v=2sMDsApY6Bs)
+* [Q&A: Any plans for environmental storytelling about the other Pioneers that came before?](../../transcriptions/yt-SzmiFF1KLEY.md) [https://www.youtube.com/watch?v=SzmiFF1KLEY](https://www.youtube.com/watch?v=SzmiFF1KLEY)
+
 ## August 23rd, 2022 Livestream
 * [Q&A: Will we be able to sleep in the HUB's bed?](../../transcriptions/yt-U6UAVFjQvVo.md) [https://www.youtube.com/watch?v=U6UAVFjQvVo](https://www.youtube.com/watch?v=U6UAVFjQvVo)
 * [Q&A: Picking up a Lizard Doggo & putting it in inventory?](../../transcriptions/yt-KK-x3KKUMrk.md) [https://www.youtube.com/watch?v=KK-x3KKUMrk](https://www.youtube.com/watch?v=KK-x3KKUMrk)

@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > World Update
 
+## August 30th, 2022 Livestream
+* [Q&A: Map changes before 1.0?](../../transcriptions/yt-O4LjJtABcTw.md) [https://www.youtube.com/watch?v=O4LjJtABcTw](https://www.youtube.com/watch?v=O4LjJtABcTw)
+* [Q&A: New Water system?](../../transcriptions/yt-Cwx8kD-fSr0.md) [https://www.youtube.com/watch?v=Cwx8kD-fSr0](https://www.youtube.com/watch?v=Cwx8kD-fSr0)
+
 ## August 23rd, 2022 Livestream
 * [Q&A: Are more static objects going to be added to the Map?](../../transcriptions/yt-C3KwCu4t5P8.md) [https://www.youtube.com/watch?v=C3KwCu4t5P8](https://www.youtube.com/watch?v=C3KwCu4t5P8)
 

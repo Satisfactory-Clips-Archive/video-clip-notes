@@ -8,7 +8,7 @@ topics:
 # [March 22nd, 2022 Livestream](../2022-03-22.md)
 ## Q&A: What's your vision of the game after 1.0?
 https://www.youtube.com/watch?v=xSSMYi2gdUo
-This question was possibly duplicated with a more recent answer: [July 5th, 2022 Livestream Q&A: Will you add stuff after 1.0?](./yt-yqVC6fYnsOQ.md) [https://www.youtube.com/watch?v=yqVC6fYnsOQ](https://www.youtube.com/watch?v=yqVC6fYnsOQ)
+This question was possibly duplicated with a more recent answer: [August 30th, 2022 Livestream Q&A: Any plans for the game beyond 1.0?](./yt-mZhl4NGoywM.md) [https://www.youtube.com/watch?v=mZhl4NGoywM](https://www.youtube.com/watch?v=mZhl4NGoywM)
 
 
 ### Topics

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Creatures](../../../topics/environment/creatures.md) > Lizard Doggo
 
+## August 30th, 2022 Livestream
+* [Q&A: Are you fixing the ability to tame Doggos?](../../../transcriptions/yt-RzURMlItEvs.md) [https://www.youtube.com/watch?v=RzURMlItEvs](https://www.youtube.com/watch?v=RzURMlItEvs)
+
 ## August 23rd, 2022 Livestream
 * [Q&A: Picking up a Lizard Doggo & putting it in inventory?](../../../transcriptions/yt-KK-x3KKUMrk.md) [https://www.youtube.com/watch?v=KK-x3KKUMrk](https://www.youtube.com/watch?v=KK-x3KKUMrk)
 

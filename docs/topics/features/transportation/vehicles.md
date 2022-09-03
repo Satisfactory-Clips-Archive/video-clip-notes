@@ -12,6 +12,10 @@ date: Last Modified
 * [Tractor](../../../topics/features/transportation/vehicles/tractor.md)
 * [Truck](../../../topics/features/transportation/vehicles/truck.md)
 
+## August 30th, 2022 Livestream
+* [Q&A: Boats, when?](../../../transcriptions/yt-9tpRlh5jzL0.md) [https://www.youtube.com/watch?v=9tpRlh5jzL0](https://www.youtube.com/watch?v=9tpRlh5jzL0)
+* [Q&A: Can you add helicopter?](../../../transcriptions/yt-c4j7o6ZJeCA.md) [https://www.youtube.com/watch?v=c4j7o6ZJeCA](https://www.youtube.com/watch?v=c4j7o6ZJeCA)
+
 ## August 23rd, 2022 Livestream
 * [Q&A: First-person camera in Vehicles, when?](../../../transcriptions/yt-6KI7k_zPCzo.md) [https://www.youtube.com/watch?v=6KI7k_zPCzo](https://www.youtube.com/watch?v=6KI7k_zPCzo)
 * [Q&A: Any plans to improve Vehicle physics?](../../../transcriptions/yt-xfFtf_z9IS4.md) [https://www.youtube.com/watch?v=xfFtf_z9IS4](https://www.youtube.com/watch?v=xfFtf_z9IS4)

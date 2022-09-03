@@ -8,12 +8,7 @@ topics:
 # [March 1st, 2022 Livestream](../2022-03-01.md)
 ## Q&A: Any plans to improve general performance?
 https://www.youtube.com/watch?v=zeyd67hqrB8
-<details>
-<summary>This question may have been asked previously at least 2 other times, as recently as October 2020 and as early as September 2020.</summary>
-
-* [October 27th, 2020 Livestream Q&A: Will we see performance improvements?](./yt-TbPMkoLwW4U.md) [https://www.youtube.com/watch?v=TbPMkoLwW4U](https://www.youtube.com/watch?v=TbPMkoLwW4U)
-* [September 8th, 2020 Livestream Q&A: What're your plans for looking at performance issues?](./yt-fRnLlewf3U0.md) [https://www.youtube.com/watch?v=fRnLlewf3U0](https://www.youtube.com/watch?v=fRnLlewf3U0)
-</details>
+This question was possibly duplicated with a more recent answer: [August 30th, 2022 Livestream Q&A: How much room for improvement do you think you still have for performance?](./yt-moVIableguI.md) [https://www.youtube.com/watch?v=moVIableguI](https://www.youtube.com/watch?v=moVIableguI)
 
 
 ### Topics

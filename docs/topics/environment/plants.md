@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Environment](../../topics/environment.md) > Plants
 
+## August 30th, 2022 Livestream
+* [Q&A: Will the trees in western Dune Desert be fixed so the chainsaw chops more than one at a time?](../../transcriptions/yt-Y2lhP94DACU.md) [https://www.youtube.com/watch?v=Y2lhP94DACU](https://www.youtube.com/watch?v=Y2lhP94DACU)
+
 ## August 23rd, 2022 Livestream
 * [Q&A: Will Leaves/Trees ever grow/regrow?](../../transcriptions/yt-7dECSxCcssU.md) [https://www.youtube.com/watch?v=7dECSxCcssU](https://www.youtube.com/watch?v=7dECSxCcssU)
 * [Snutt Talk: Tree issues](../../transcriptions/yt-k-7EAX16O68.md) [https://www.youtube.com/watch?v=k-7EAX16O68](https://www.youtube.com/watch?v=k-7EAX16O68)

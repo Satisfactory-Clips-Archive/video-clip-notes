@@ -5,6 +5,12 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > Release Builds
 
+## August 30th, 2022 Livestream
+* [Q&A: Do I need to back up my saves if I change from Experimental back to EA?](../../transcriptions/yt-n8-u6NP48xM.md) [https://www.youtube.com/watch?v=n8-u6NP48xM](https://www.youtube.com/watch?v=n8-u6NP48xM)
+* [Q&A: Will 1.0 Story spend any time in Experimental before release?](../../transcriptions/yt-244mMPCWwJA.md) [https://www.youtube.com/watch?v=244mMPCWwJA](https://www.youtube.com/watch?v=244mMPCWwJA)
+* [Community FYI: Current Experimental is too easy, survival is trivial](../../transcriptions/yt-TZ18kw4Ks3Q.md) [https://www.youtube.com/watch?v=TZ18kw4Ks3Q](https://www.youtube.com/watch?v=TZ18kw4Ks3Q)
+* [Q&A: Will Experimental Recipes change in Update 6?](../../transcriptions/yt-IzgA1OrdTTs.md) [https://www.youtube.com/watch?v=IzgA1OrdTTs](https://www.youtube.com/watch?v=IzgA1OrdTTs)
+
 ## August 23rd, 2022 Livestream
 * [State of Dev: Where's Update 6?](../../transcriptions/yt-Or4PvDOCofA.md) [https://www.youtube.com/watch?v=Or4PvDOCofA](https://www.youtube.com/watch?v=Or4PvDOCofA)
 

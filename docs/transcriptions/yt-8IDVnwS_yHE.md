@@ -8,6 +8,8 @@ topics:
 # [March 22nd, 2022 Livestream](../2022-03-22.md)
 ## Q&A: Do you already know the Story?
 https://www.youtube.com/watch?v=8IDVnwS_yHE
+This question was possibly duplicated with a more recent answer: [August 30th, 2022 Livestream Q&A: Do you know the current version of the Story?](./yt-hhNO-Bt10Mk.md) [https://www.youtube.com/watch?v=hhNO-Bt10Mk](https://www.youtube.com/watch?v=hhNO-Bt10Mk)
+
 
 ### Topics
 * [Story & Lore](../topics/story-and-lore.md)

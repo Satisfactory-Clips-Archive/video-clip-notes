@@ -8,6 +8,10 @@ date: Last Modified
 * [Snutt Burger Time](../../topics/coffee-stainers/snutt/snutt-burger-time.md)
 * [Snutty Mays](../../topics/coffee-stainers/snutt/snutty-mays.md)
 
+## August 30th, 2022 Livestream
+* [Snutt & Jace Talk: TwitchCon Amsterdam 2022](../../transcriptions/yt-79pa8oSup7U.md) [https://www.youtube.com/watch?v=79pa8oSup7U](https://www.youtube.com/watch?v=79pa8oSup7U)
+* [Q&A: What's your favourite game published by Coffee Stain?](../../transcriptions/yt-yiFDigrsmPE.md) [https://www.youtube.com/watch?v=yiFDigrsmPE](https://www.youtube.com/watch?v=yiFDigrsmPE)
+
 ## August 23rd, 2022 Livestream
 * [Snutt Talk: TwitchCon Amsterdam 2022 & coming back from vacation](../../transcriptions/yt-DNuJ364UwjI.md) [https://www.youtube.com/watch?v=DNuJ364UwjI](https://www.youtube.com/watch?v=DNuJ364UwjI)
 * [Q&A: How many Final Fantasy games did you play?](../../transcriptions/yt-iiy5VEyf5Ow.md) [https://www.youtube.com/watch?v=iiy5VEyf5Ow](https://www.youtube.com/watch?v=iiy5VEyf5Ow)

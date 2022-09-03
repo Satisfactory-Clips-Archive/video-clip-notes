@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Soundtrack
 
+## August 30th, 2022 Livestream
+* [Q&A: A vinyl record?](../transcriptions/yt-hpXprNBRjM8.md) [https://www.youtube.com/watch?v=hpXprNBRjM8](https://www.youtube.com/watch?v=hpXprNBRjM8)
+
 ## June 28th, 2022 Livestream
 * Q&A: Can we get a cover of the Customizer theme song? [https://www.youtube.com/watch?v=YImL780rHD4](https://www.youtube.com/watch?v=YImL780rHD4)
 * [Q&A: Any additions to the OST in Update 6?](../transcriptions/yt-2NgEQ7n2y-g.md) [https://www.youtube.com/watch?v=2NgEQ7n2y-g](https://www.youtube.com/watch?v=2NgEQ7n2y-g)

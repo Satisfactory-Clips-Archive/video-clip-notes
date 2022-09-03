@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > Overclocking & Underclocking
 
+## August 30th, 2022 Livestream
+* [Snutt Talk: Overclocking changes](../../../transcriptions/yt-nFeFUeannAU.md) [https://www.youtube.com/watch?v=nFeFUeannAU](https://www.youtube.com/watch?v=nFeFUeannAU)
+
 ## June 14th, 2022 Livestream
 * [Linear Overclocking (Part 1)](../../../transcriptions/yt-Z6bo0pjYghk,3948.074682,4072.730606.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=3948&end=4073](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=3948&end=4073)
 * [Linear Overclocking (Part 2)](../../../transcriptions/yt-Z6bo0pjYghk,4135.148343,4630.361819.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=4135&end=4631](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=4135&end=4631)

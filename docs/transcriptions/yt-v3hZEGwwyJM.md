@@ -9,6 +9,8 @@ topics:
 # [July 5th, 2022 Livestream](../2022-07-05.md)
 ## Q&A: Is there an Update 6 stable release date yet?
 https://www.youtube.com/watch?v=v3hZEGwwyJM
+This question was possibly replaced with a more recent answer: [September 2nd, 2022 Video Q&A: When is Update 6 coming to the default Early Access branch?](./yt-Pgm1L8aIf6E,90.02326666666667,135.6355.md) [https://youtube.com/clip/UgkxWE0a_WVarWJMuYSX5zHerPGtL0XkFo-c](https://youtube.com/clip/UgkxWE0a_WVarWJMuYSX5zHerPGtL0XkFo-c)
+
 
 ### Topics
 * [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)

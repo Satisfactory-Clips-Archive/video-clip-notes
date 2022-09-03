@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > Transportation > [Vehicles](../../../../topics/features/transportation/vehicles.md) > Drones
 
+## August 30th, 2022 Livestream
+* [Q&A: Zip Line Mk.2 that lets us attach to Drones?](../../../../transcriptions/yt-wW4a4777ba8.md) [https://www.youtube.com/watch?v=wW4a4777ba8](https://www.youtube.com/watch?v=wW4a4777ba8)
+
 ## August 23rd, 2022 Livestream
 * [Q&A: Are Drone Ports ever going to be as customisable as Train Stations?](../../../../transcriptions/yt-GQUL70uAm38.md) [https://www.youtube.com/watch?v=GQUL70uAm38](https://www.youtube.com/watch?v=GQUL70uAm38)
 

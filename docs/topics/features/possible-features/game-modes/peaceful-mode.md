@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > Possible Features > [Game Modes](../../../../topics/features/possible-features/game-modes.md) > Peaceful Mode
 
+## August 30th, 2022 Livestream
+* [Q&A: Plans for passive mode?](../../../../transcriptions/yt-XJ798jouqJE.md) [https://www.youtube.com/watch?v=XJ798jouqJE](https://www.youtube.com/watch?v=XJ798jouqJE)
+
 ## June 28th, 2022 Livestream
 * [Q&A: Peaceful Mode, ever?](../../../../transcriptions/yt-KQPHgs6PxsA.md) [https://www.youtube.com/watch?v=KQPHgs6PxsA](https://www.youtube.com/watch?v=KQPHgs6PxsA)
 

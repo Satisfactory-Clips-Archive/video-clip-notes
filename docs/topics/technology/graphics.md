@@ -9,6 +9,9 @@ date: Last Modified
 * [Ray Tracing](../../topics/technology/graphics/ray-tracing.md)
 * [Ultrawide Monitors](../../topics/technology/graphics/ultrawide-monitors.md)
 
+## August 30th, 2022 Livestream
+* [Q&A: Any major graphics updates?](../../transcriptions/yt-EL7KHnIvLcw.md) [https://www.youtube.com/watch?v=EL7KHnIvLcw](https://www.youtube.com/watch?v=EL7KHnIvLcw)
+
 ## August 23rd, 2022 Livestream
 * [Community FYI: I need more frames](../../transcriptions/yt-TFdrwTGXvRs.md) [https://www.youtube.com/watch?v=TFdrwTGXvRs](https://www.youtube.com/watch?v=TFdrwTGXvRs)
 

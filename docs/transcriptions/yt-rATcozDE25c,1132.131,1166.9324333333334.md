@@ -8,7 +8,7 @@ topics:
 # [October 1st, 2020 Q&A](../2020-10-01.md)
 ## Q&A: Will there be an official peaceful/passive mode?
 https://youtube.com/embed/rATcozDE25c?autoplay=1&start=1132&end=1167
-This question was possibly duplicated with a more recent answer: [August 23rd, 2022 Livestream Q&A: What's for dinner?](./yt-M7tvVQY7wLs.md) [https://www.youtube.com/watch?v=M7tvVQY7wLs](https://www.youtube.com/watch?v=M7tvVQY7wLs)
+This question was possibly duplicated with a more recent answer: [August 30th, 2022 Livestream Q&A: Plans for passive mode?](./yt-XJ798jouqJE.md) [https://www.youtube.com/watch?v=XJ798jouqJE](https://www.youtube.com/watch?v=XJ798jouqJE)
 
 
 ### Topics

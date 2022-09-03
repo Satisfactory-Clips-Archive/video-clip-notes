@@ -11,6 +11,10 @@ date: Last Modified
 * [Resources](../topics/environment/resources.md)
 * [World Map](../topics/environment/world-map.md)
 
+## August 30th, 2022 Livestream
+* [Q&A: New Water system?](../transcriptions/yt-Cwx8kD-fSr0.md) [https://www.youtube.com/watch?v=Cwx8kD-fSr0](https://www.youtube.com/watch?v=Cwx8kD-fSr0)
+* [Q&A: Any plans for letting players dive underwater?](../transcriptions/yt-2sMDsApY6Bs.md) [https://www.youtube.com/watch?v=2sMDsApY6Bs](https://www.youtube.com/watch?v=2sMDsApY6Bs)
+
 ## August 23rd, 2022 Livestream
 * [Q&A: Are more static objects going to be added to the Map?](../transcriptions/yt-C3KwCu4t5P8.md) [https://www.youtube.com/watch?v=C3KwCu4t5P8](https://www.youtube.com/watch?v=C3KwCu4t5P8)
 * [Q&A: Would it be possible to create our own Maps?](../transcriptions/yt-2BRnRTwf2UA.md) [https://www.youtube.com/watch?v=2BRnRTwf2UA](https://www.youtube.com/watch?v=2BRnRTwf2UA)

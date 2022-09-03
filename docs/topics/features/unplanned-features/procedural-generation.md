@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Unplanned Features](../../../topics/features/unplanned-features.md) > Procedural Generation
 
+## August 30th, 2022 Livestream
+* [Q&A: Procedural Maps?](../../../transcriptions/yt-7pRzB0LIl64.md) [https://www.youtube.com/watch?v=7pRzB0LIl64](https://www.youtube.com/watch?v=7pRzB0LIl64)
+
 ## May 10th, 2022 Livestream
 * [Q&A: Later down the line would you rather have a second map or a map editor for people to create?](../../../transcriptions/yt-quBufOSDaf8.md) [https://www.youtube.com/watch?v=quBufOSDaf8](https://www.youtube.com/watch?v=quBufOSDaf8)
 

@@ -9,7 +9,7 @@ topics:
 # [August 31st, 2021 Livestream](../2021-08-31.md)
 ## Q&A: Are you planning on adding more Power Generators?
 https://www.youtube.com/watch?v=xUKGbBoWRtM
-This question was possibly duplicated with a more recent answer: [July 5th, 2022 Livestream Q&A: More Power options?](./yt-f4VpbHVUJk8.md) [https://www.youtube.com/watch?v=f4VpbHVUJk8](https://www.youtube.com/watch?v=f4VpbHVUJk8)
+This question was possibly duplicated with a more recent answer: [August 30th, 2022 Livestream Q&A: New machines or generators planned one day?](./yt-Gzqh9pNfY2M.md) [https://www.youtube.com/watch?v=Gzqh9pNfY2M](https://www.youtube.com/watch?v=Gzqh9pNfY2M)
 
 
 ### Topics

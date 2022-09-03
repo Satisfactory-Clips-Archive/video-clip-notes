@@ -7,6 +7,9 @@ date: Last Modified
 * [Cheatcrete](../../../topics/features/buildables/foundations/cheatcrete.md)
 * [Foundation Stencils](../../../topics/features/buildables/foundations/stencils.md)
 
+## September 2nd, 2022 Video
+* [You can now apply Materials to Quarter Pipes](../../../transcriptions/yt-Pgm1L8aIf6E,225.42520000000002,238.1379.md) [https://youtube.com/clip/UgkxKToeZ9r7KRuvzcAq0QJSwPy9BB7_juR8](https://youtube.com/clip/UgkxKToeZ9r7KRuvzcAq0QJSwPy9BB7_juR8)
+
 ## July 12th, 2022 Livestream
 * [Q&A: Can we get half/circle Foundations & Walls?](../../../transcriptions/yt-_MhOphjRSWc.md) [https://www.youtube.com/watch?v=_MhOphjRSWc](https://www.youtube.com/watch?v=_MhOphjRSWc)
 * Q&A: Can we expect a fix for the Glass Foundations & Windows some day? [https://www.youtube.com/watch?v=67AkkFFwmaY](https://www.youtube.com/watch?v=67AkkFFwmaY)

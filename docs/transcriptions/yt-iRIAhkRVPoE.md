@@ -10,7 +10,7 @@ topics:
 # [March 8th, 2022 Livestream](../2022-03-08.md)
 ## Q&A: Can you add boats & use the water more?
 https://www.youtube.com/watch?v=iRIAhkRVPoE
-This question was possibly duplicated with a more recent answer: [May 3rd, 2022 Livestream Q&A: Any chance for automatable Boats?](./yt-p36Hn2DZzSU.md) [https://www.youtube.com/watch?v=p36Hn2DZzSU](https://www.youtube.com/watch?v=p36Hn2DZzSU)
+This question was possibly duplicated with a more recent answer: [August 30th, 2022 Livestream Q&A: Boats, when?](./yt-9tpRlh5jzL0.md) [https://www.youtube.com/watch?v=9tpRlh5jzL0](https://www.youtube.com/watch?v=9tpRlh5jzL0)
 
 
 ### Topics

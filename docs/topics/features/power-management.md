@@ -10,6 +10,9 @@ date: Last Modified
 * [Power Storage](../../topics/features/power-management/power-storage.md)
 * [Power Switch](../../topics/features/power-management/power-switch.md)
 
+## August 30th, 2022 Livestream
+* [Q&A: New machines or generators planned one day?](../../transcriptions/yt-Gzqh9pNfY2M.md) [https://www.youtube.com/watch?v=Gzqh9pNfY2M](https://www.youtube.com/watch?v=Gzqh9pNfY2M)
+
 ## August 23rd, 2022 Livestream
 * [Q&A: Plans to make the two graphs on Switches reflect both grids?](../../transcriptions/yt-oeVoO2Drp94.md) [https://www.youtube.com/watch?v=oeVoO2Drp94](https://www.youtube.com/watch?v=oeVoO2Drp94)
 
