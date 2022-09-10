@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > Release Builds
 
+## September 6th, 2022 Livestream
+* [State of Dev](../../transcriptions/yt-hRN17cFJeRc.md) [https://www.youtube.com/watch?v=hRN17cFJeRc](https://www.youtube.com/watch?v=hRN17cFJeRc)
+* [Q&A: Experimental on GeForce Now?](../../transcriptions/yt---jwCj0yQak.md) [https://www.youtube.com/watch?v=--jwCj0yQak](https://www.youtube.com/watch?v=--jwCj0yQak)
+
 ## August 30th, 2022 Livestream
 * [Q&A: Do I need to back up my saves if I change from Experimental back to EA?](../../transcriptions/yt-n8-u6NP48xM.md) [https://www.youtube.com/watch?v=n8-u6NP48xM](https://www.youtube.com/watch?v=n8-u6NP48xM)
 * [Q&A: Will 1.0 Story spend any time in Experimental before release?](../../transcriptions/yt-244mMPCWwJA.md) [https://www.youtube.com/watch?v=244mMPCWwJA](https://www.youtube.com/watch?v=244mMPCWwJA)

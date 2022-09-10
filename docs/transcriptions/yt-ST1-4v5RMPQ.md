@@ -8,7 +8,7 @@ topics:
 # [March 9th, 2021 Livestream](../2021-03-09.md)
 ## Q&A: Will we ever get perfect half Foundations?
 https://www.youtube.com/watch?v=ST1-4v5RMPQ
-This question was possibly duplicated with a more recent answer: [July 13th, 2021 Livestream Q&A: Are there going to be half-Foundations?](./yt-v2-4y3n9dBw.md) [https://www.youtube.com/watch?v=v2-4y3n9dBw](https://www.youtube.com/watch?v=v2-4y3n9dBw)
+This question was possibly duplicated with a more recent answer: [September 6th, 2022 Livestream Q&A: Half-Foundations?](./yt-uWzjA0DGAag.md) [https://www.youtube.com/watch?v=uWzjA0DGAag](https://www.youtube.com/watch?v=uWzjA0DGAag)
 
 
 ### Topics

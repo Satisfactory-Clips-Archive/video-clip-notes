@@ -13,6 +13,8 @@ topics:
 # [August 23rd, 2022 Livestream](../2022-08-23.md)
 ## Q&A: Any plans to make building faster/more streamlined?
 https://www.youtube.com/watch?v=IAObwRW2rxk
+This question was possibly duplicated with a more recent answer: [September 6th, 2022 Livestream Q&A: Anything to make building easier?](./yt-40kwebuhaps.md) [https://www.youtube.com/watch?v=40kwebuhaps](https://www.youtube.com/watch?v=40kwebuhaps)
+
 
 ### Topics
 * [Features > Build Modes](../topics/features/build-modes.md)

@@ -10,7 +10,7 @@ topics:
 # [April 20th, 2021 Livestream](../2021-04-20.md)
 ## Q&A: Vertical elevators for character and transport?
 https://www.youtube.com/watch?v=uLe9eMpCxRg
-This question was possibly duplicated with a more recent answer: [August 23rd, 2022 Livestream Q&A: Does the game have Elevators?](./yt-6PUy-KYqQVQ.md) [https://www.youtube.com/watch?v=6PUy-KYqQVQ](https://www.youtube.com/watch?v=6PUy-KYqQVQ)
+This question was possibly duplicated with a more recent answer: [September 6th, 2022 Livestream Q&A: Elevator?](./yt-hJoX-1j4mG8.md) [https://www.youtube.com/watch?v=hJoX-1j4mG8](https://www.youtube.com/watch?v=hJoX-1j4mG8)
 
 
 ### Topics

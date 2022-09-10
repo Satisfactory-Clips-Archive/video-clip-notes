@@ -22,6 +22,9 @@ date: Last Modified
 * [Walls](../../topics/features/buildables/walls.md)
 * [Windows](../../topics/features/buildables/windows.md)
 
+## September 6th, 2022 Livestream
+* [Q&A: Anything to make building easier?](../../transcriptions/yt-40kwebuhaps.md) [https://www.youtube.com/watch?v=40kwebuhaps](https://www.youtube.com/watch?v=40kwebuhaps)
+
 ## August 23rd, 2022 Livestream
 * [Q&A: Any plans to make building faster/more streamlined?](../../transcriptions/yt-IAObwRW2rxk.md) [https://www.youtube.com/watch?v=IAObwRW2rxk](https://www.youtube.com/watch?v=IAObwRW2rxk)
 

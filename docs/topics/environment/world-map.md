@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Environment](../../topics/environment.md) > World Map
 
+## September 6th, 2022 Livestream
+* [Q&A: Add more Maps in DLC form?](../../transcriptions/yt-A4FfpjBDpaw.md) [https://www.youtube.com/watch?v=A4FfpjBDpaw](https://www.youtube.com/watch?v=A4FfpjBDpaw)
+
 ## July 5th, 2022 Livestream
 * [Q&A: Will Modders be able to add new planets / Maps?](../../transcriptions/yt-82NtL0BMKMM.md) [https://www.youtube.com/watch?v=82NtL0BMKMM](https://www.youtube.com/watch?v=82NtL0BMKMM)
 

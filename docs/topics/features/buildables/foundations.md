@@ -7,6 +7,10 @@ date: Last Modified
 * [Cheatcrete](../../../topics/features/buildables/foundations/cheatcrete.md)
 * [Foundation Stencils](../../../topics/features/buildables/foundations/stencils.md)
 
+## September 6th, 2022 Livestream
+* [State of Dev](../../../transcriptions/yt-hRN17cFJeRc.md) [https://www.youtube.com/watch?v=hRN17cFJeRc](https://www.youtube.com/watch?v=hRN17cFJeRc)
+* [Q&A: Half-Foundations?](../../../transcriptions/yt-uWzjA0DGAag.md) [https://www.youtube.com/watch?v=uWzjA0DGAag](https://www.youtube.com/watch?v=uWzjA0DGAag)
+
 ## September 2nd, 2022 Video
 * [You can now apply Materials to Quarter Pipes](../../../transcriptions/yt-Pgm1L8aIf6E,225.42520000000002,238.1379.md) [https://youtube.com/clip/UgkxKToeZ9r7KRuvzcAq0QJSwPy9BB7_juR8](https://youtube.com/clip/UgkxKToeZ9r7KRuvzcAq0QJSwPy9BB7_juR8)
 

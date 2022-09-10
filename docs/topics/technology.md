@@ -14,6 +14,9 @@ date: Last Modified
 * [User Interface](../topics/technology/user-interface.md)
 * [Vulkan](../topics/technology/vulkan.md)
 
+## September 6th, 2022 Livestream
+* [Q&A: Can the game utilise cores more?](../transcriptions/yt-YeQ2gCzubKQ.md) [https://www.youtube.com/watch?v=YeQ2gCzubKQ](https://www.youtube.com/watch?v=YeQ2gCzubKQ)
+
 ## August 30th, 2022 Livestream
 * [Q&A: Are you programming with visual, or c++ ?](../transcriptions/yt-8mRZfTHkKPU.md) [https://www.youtube.com/watch?v=8mRZfTHkKPU](https://www.youtube.com/watch?v=8mRZfTHkKPU)
 

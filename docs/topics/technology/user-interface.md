@@ -9,6 +9,9 @@ date: Last Modified
 * [Ping](../../topics/technology/user-interface/ping.md)
 * [Stamps](../../topics/technology/user-interface/stamps.md)
 
+## September 6th, 2022 Livestream
+* [Q&A: Option to disable monsters attacking notification?](../../transcriptions/yt-Xmosps_8mVQ.md) [https://www.youtube.com/watch?v=Xmosps_8mVQ](https://www.youtube.com/watch?v=Xmosps_8mVQ)
+
 ## August 30th, 2022 Livestream
 * [Q&A: Will we be able to change the background in the main menu in future?](../../transcriptions/yt-Kx98DmlSj1Y.md) [https://www.youtube.com/watch?v=Kx98DmlSj1Y](https://www.youtube.com/watch?v=Kx98DmlSj1Y)
 

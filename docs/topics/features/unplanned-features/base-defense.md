@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Unplanned Features](../../../topics/features/unplanned-features.md) > Base Defense
 
+## September 6th, 2022 Livestream
+* [Q&A: Terrain manipulation?](../../../transcriptions/yt-OT5C5s89JyY.md) [https://www.youtube.com/watch?v=OT5C5s89JyY](https://www.youtube.com/watch?v=OT5C5s89JyY)
+
 ## July 12th, 2022 Livestream
 * Q&A: Stun Spitters and put on Observation Towers as turrents, when? [https://www.youtube.com/watch?v=4YsojB22Vt8](https://www.youtube.com/watch?v=4YsojB22Vt8)
 

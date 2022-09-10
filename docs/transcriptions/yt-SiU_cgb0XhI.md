@@ -12,7 +12,7 @@ topics:
 # [May 18th, 2021 Livestream](../2021-05-18.md)
 ## Q&A: Is there a technical reason you only made Mk.5 belts and not higher?
 https://www.youtube.com/watch?v=SiU_cgb0XhI
-This question was possibly duplicated with a more recent answer: [July 5th, 2022 Livestream Q&A: Will there be Mk.6 Belts?](./yt-teYWjHHxeBU.md) [https://www.youtube.com/watch?v=teYWjHHxeBU](https://www.youtube.com/watch?v=teYWjHHxeBU)
+This question was possibly duplicated with a more recent answer: [September 6th, 2022 Livestream Q&A: Mk.6 Conveyor Belts?](./yt-5kppmSyt6_E.md) [https://www.youtube.com/watch?v=5kppmSyt6_E](https://www.youtube.com/watch?v=5kppmSyt6_E)
 
 
 ### Topics

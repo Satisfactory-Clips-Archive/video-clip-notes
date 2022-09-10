@@ -6,6 +6,10 @@ date: Last Modified
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Final Fantasy
 * [The Official Satisfactory PODCAST](../../topics/off-topic/final-fantasy/the-official-satisfactory-podcast.md)
 
+## September 6th, 2022 Livestream
+* [Q&A: Final Fantasy / Satisfactory crossover, when?](../../transcriptions/yt-rhJX7THGRCA.md) [https://www.youtube.com/watch?v=rhJX7THGRCA](https://www.youtube.com/watch?v=rhJX7THGRCA)
+* [Q&A: Has Snutt played Final Fantasy 14 on stream?](../../transcriptions/yt-cu7vBhrc6vU.md) [https://www.youtube.com/watch?v=cu7vBhrc6vU](https://www.youtube.com/watch?v=cu7vBhrc6vU)
+
 ## August 23rd, 2022 Livestream
 * [Q&A: How many Final Fantasy games did you play?](../../transcriptions/yt-iiy5VEyf5Ow.md) [https://www.youtube.com/watch?v=iiy5VEyf5Ow](https://www.youtube.com/watch?v=iiy5VEyf5Ow)
 

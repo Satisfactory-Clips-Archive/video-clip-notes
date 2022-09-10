@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Equipment](../../../topics/features/equipment.md) > Customizer
 
+## September 6th, 2022 Livestream
+* [Q&A: Any plans for new Customisation Materials?](../../../transcriptions/yt-QCkjLUYaQ-0.md) [https://www.youtube.com/watch?v=QCkjLUYaQ-0](https://www.youtube.com/watch?v=QCkjLUYaQ-0)
+
 ## September 2nd, 2022 Video
 * [You can now apply Materials to Quarter Pipes](../../../transcriptions/yt-Pgm1L8aIf6E,225.42520000000002,238.1379.md) [https://youtube.com/clip/UgkxKToeZ9r7KRuvzcAq0QJSwPy9BB7_juR8](https://youtube.com/clip/UgkxKToeZ9r7KRuvzcAq0QJSwPy9BB7_juR8)
 

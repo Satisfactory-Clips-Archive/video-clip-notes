@@ -9,6 +9,9 @@ date: Last Modified
 * [GeForce Now](../topics/retail/geforce-now.md)
 * [Steam Store](../topics/retail/steam-store.md)
 
+## September 6th, 2022 Livestream
+* [Q&A: Where can I get the game?](../transcriptions/yt-NjT2a4Qn7mM.md) [https://www.youtube.com/watch?v=NjT2a4Qn7mM](https://www.youtube.com/watch?v=NjT2a4Qn7mM)
+
 ## August 23rd, 2022 Livestream
 * [Q&A: Why not a GOG version?](../transcriptions/yt-9hlTnbKGXSo.md) [https://www.youtube.com/watch?v=9hlTnbKGXSo](https://www.youtube.com/watch?v=9hlTnbKGXSo)
 

@@ -7,6 +7,9 @@ date: Last Modified
 * [EU Merch Store](../topics/merch/eu-merch-store.md)
 * [Merch Prototypes](../topics/merch/merch-prototypes.md)
 
+## September 6th, 2022 Livestream
+* [Q&A: What happened to the Lego thing?](../transcriptions/yt-1X9wJm6Qfco.md) [https://www.youtube.com/watch?v=1X9wJm6Qfco](https://www.youtube.com/watch?v=1X9wJm6Qfco)
+
 ## August 30th, 2022 Livestream
 * [Q&A: A vinyl record?](../transcriptions/yt-hpXprNBRjM8.md) [https://www.youtube.com/watch?v=hpXprNBRjM8](https://www.youtube.com/watch?v=hpXprNBRjM8)
 

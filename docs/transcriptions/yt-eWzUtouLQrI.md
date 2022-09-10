@@ -8,6 +8,8 @@ topics:
 # [June 29th, 2021 Livestream](../2021-06-29.md)
 ## Q&A: FSR?
 https://www.youtube.com/watch?v=eWzUtouLQrI
+This question was possibly duplicated with a more recent answer: [September 6th, 2022 Livestream Q&A: Any plans to add FSR 2.0?](./yt-8WFqndHJR_0.md) [https://www.youtube.com/watch?v=8WFqndHJR_0](https://www.youtube.com/watch?v=8WFqndHJR_0)
+
 
 ### Topics
 * [Technology > Graphics](../topics/technology/graphics.md)

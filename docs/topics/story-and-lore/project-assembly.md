@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Story & Lore](../../topics/story-and-lore.md) > Project Assembly
 
+## September 6th, 2022 Livestream
+* [Q&A: Will late-game be addressed, like after the last phase of the Project?](../../transcriptions/yt-R4O7A7zk0wY.md) [https://www.youtube.com/watch?v=R4O7A7zk0wY](https://www.youtube.com/watch?v=R4O7A7zk0wY)
+
 ## July 5th, 2022 Livestream
 * [Q&A: Space Station, when?](../../transcriptions/yt-IB-pzjGPlYk.md) [https://www.youtube.com/watch?v=IB-pzjGPlYk](https://www.youtube.com/watch?v=IB-pzjGPlYk)
 

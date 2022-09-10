@@ -9,6 +9,9 @@ date: Last Modified
 * [Ray Tracing](../../topics/technology/graphics/ray-tracing.md)
 * [Ultrawide Monitors](../../topics/technology/graphics/ultrawide-monitors.md)
 
+## September 6th, 2022 Livestream
+* [Q&A: Any plans to add FSR 2.0?](../../transcriptions/yt-8WFqndHJR_0.md) [https://www.youtube.com/watch?v=8WFqndHJR_0](https://www.youtube.com/watch?v=8WFqndHJR_0)
+
 ## August 30th, 2022 Livestream
 * [Q&A: Any major graphics updates?](../../transcriptions/yt-EL7KHnIvLcw.md) [https://www.youtube.com/watch?v=EL7KHnIvLcw](https://www.youtube.com/watch?v=EL7KHnIvLcw)
 

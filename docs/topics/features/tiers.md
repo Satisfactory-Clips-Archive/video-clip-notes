@@ -16,6 +16,9 @@ date: Last Modified
 * [Tier 9](../../topics/features/tiers/tier-9.md)
 * [Tier 10](../../topics/features/tiers/tier-10.md)
 
+## September 6th, 2022 Livestream
+* [Q&A: Will late-game be addressed, like after the last phase of the Project?](../../transcriptions/yt-R4O7A7zk0wY.md) [https://www.youtube.com/watch?v=R4O7A7zk0wY](https://www.youtube.com/watch?v=R4O7A7zk0wY)
+
 ## May 24th, 2022 Livestream
 * [Q&A: Plans to add a separate progression path for Multiplayer?](../../transcriptions/yt-CxDrVE9RIHc.md) [https://www.youtube.com/watch?v=CxDrVE9RIHc](https://www.youtube.com/watch?v=CxDrVE9RIHc)
 * [Q&A: What is the likelihood of lower-Tier Recipes getting a rebalance?](../../transcriptions/yt-aDrQRQAtoAs.md) [https://www.youtube.com/watch?v=aDrQRQAtoAs](https://www.youtube.com/watch?v=aDrQRQAtoAs)

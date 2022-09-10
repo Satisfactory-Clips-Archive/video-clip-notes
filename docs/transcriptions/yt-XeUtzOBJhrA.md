@@ -8,7 +8,7 @@ topics:
 # [August 24th, 2021 Livestream](../2021-08-24.md)
 ## Q&A: Will there ever be teleportation?
 https://www.youtube.com/watch?v=XeUtzOBJhrA
-This question was possibly duplicated with a more recent answer: June 28th, 2022 Livestream Q&A: Any plans for Teleporters? [https://www.youtube.com/watch?v=0orGp3fSLmE](https://www.youtube.com/watch?v=0orGp3fSLmE)
+This question was possibly duplicated with a more recent answer: [September 6th, 2022 Livestream Q&A: Teleporters could be cool?](./yt-fyagrhTyipA.md) [https://www.youtube.com/watch?v=fyagrhTyipA](https://www.youtube.com/watch?v=fyagrhTyipA)
 
 
 ### Topics

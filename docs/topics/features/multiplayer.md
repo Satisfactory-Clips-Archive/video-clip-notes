@@ -7,6 +7,9 @@ date: Last Modified
 * [Crossplay](../../topics/features/multiplayer/crossplay.md)
 * [Dedicated Servers](../../topics/features/multiplayer/dedicated-servers.md)
 
+## September 6th, 2022 Livestream
+* [Snutt Talk: Multiplayer networking](../../transcriptions/yt-PWA9BHfeOhY.md) [https://www.youtube.com/watch?v=PWA9BHfeOhY](https://www.youtube.com/watch?v=PWA9BHfeOhY)
+
 ## May 24th, 2022 Livestream
 * [Q&A: Plans to add a separate progression path for Multiplayer?](../../transcriptions/yt-CxDrVE9RIHc.md) [https://www.youtube.com/watch?v=CxDrVE9RIHc](https://www.youtube.com/watch?v=CxDrVE9RIHc)
 

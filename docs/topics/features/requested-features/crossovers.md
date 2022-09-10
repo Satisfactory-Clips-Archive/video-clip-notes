@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Requested Features](../../../topics/features/requested-features.md) > Crossovers
 
+## September 6th, 2022 Livestream
+* [Q&A: Final Fantasy / Satisfactory crossover, when?](../../../transcriptions/yt-rhJX7THGRCA.md) [https://www.youtube.com/watch?v=rhJX7THGRCA](https://www.youtube.com/watch?v=rhJX7THGRCA)
+
 ## July 12th, 2022 Livestream
 * [Q&A: Are there going to be any other cross-game Easter Eggs in Satisfactory?](../../../transcriptions/yt-v5kTUX3Bba8.md) [https://www.youtube.com/watch?v=v5kTUX3Bba8](https://www.youtube.com/watch?v=v5kTUX3Bba8)
 

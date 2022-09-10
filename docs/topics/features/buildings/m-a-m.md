@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > M.A.M.
 
+## September 6th, 2022 Livestream
+* [Q&A: Any plans to make the list of Alt Recipes available in the MAM?](../../../transcriptions/yt-IGkYaXzS0S4.md) [https://www.youtube.com/watch?v=IGkYaXzS0S4](https://www.youtube.com/watch?v=IGkYaXzS0S4)
+
 ## June 14th, 2022 Livestream
 * [Mark & Snutt Talk: Update 6 M.A.M.](../../../transcriptions/yt-Z6bo0pjYghk,4978.238237,5274.167479.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=4978&end=5275](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=4978&end=5275)
 * [Mark & Snutt Talk: New Ammo types (Part 1)](../../../transcriptions/yt-Z6bo0pjYghk,5429.263761,5482.26162.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=5429&end=5483](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=5429&end=5483)

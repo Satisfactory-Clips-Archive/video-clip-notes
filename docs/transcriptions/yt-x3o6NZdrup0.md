@@ -9,7 +9,7 @@ topics:
 # [May 3rd, 2022 Livestream](../2022-05-03.md)
 ## Q&A: State of Lego?
 https://www.youtube.com/watch?v=x3o6NZdrup0
-This question was possibly duplicated with a more recent answer: [June 7th, 2022 Livestream Q&A: Any news on Lego?](./yt-LdkpBMp-aXw.md) [https://www.youtube.com/watch?v=LdkpBMp-aXw](https://www.youtube.com/watch?v=LdkpBMp-aXw)
+This question was possibly duplicated with a more recent answer: [September 6th, 2022 Livestream Q&A: What happened to the Lego thing?](./yt-1X9wJm6Qfco.md) [https://www.youtube.com/watch?v=1X9wJm6Qfco](https://www.youtube.com/watch?v=1X9wJm6Qfco)
 
 
 ### Topics

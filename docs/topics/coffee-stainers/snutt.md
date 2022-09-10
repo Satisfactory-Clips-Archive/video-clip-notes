@@ -8,6 +8,11 @@ date: Last Modified
 * [Snutt Burger Time](../../topics/coffee-stainers/snutt/snutt-burger-time.md)
 * [Snutty Mays](../../topics/coffee-stainers/snutt/snutty-mays.md)
 
+## September 6th, 2022 Livestream
+* [Q&A: Any plans to upgrade the capacity of tubes?](../../transcriptions/yt-NRklnGi8T-U.md) [https://www.youtube.com/watch?v=NRklnGi8T-U](https://www.youtube.com/watch?v=NRklnGi8T-U)
+* [Q&A: Has Snutt played Final Fantasy 14 on stream?](../../transcriptions/yt-cu7vBhrc6vU.md) [https://www.youtube.com/watch?v=cu7vBhrc6vU](https://www.youtube.com/watch?v=cu7vBhrc6vU)
+* [Q&A: What's your favourite quality-of-life feature?](../../transcriptions/yt-g9HeISQEhWc.md) [https://www.youtube.com/watch?v=g9HeISQEhWc](https://www.youtube.com/watch?v=g9HeISQEhWc)
+
 ## August 30th, 2022 Livestream
 * [Snutt & Jace Talk: TwitchCon Amsterdam 2022](../../transcriptions/yt-79pa8oSup7U.md) [https://www.youtube.com/watch?v=79pa8oSup7U](https://www.youtube.com/watch?v=79pa8oSup7U)
 * [Q&A: What's your favourite game published by Coffee Stain?](../../transcriptions/yt-yiFDigrsmPE.md) [https://www.youtube.com/watch?v=yiFDigrsmPE](https://www.youtube.com/watch?v=yiFDigrsmPE)

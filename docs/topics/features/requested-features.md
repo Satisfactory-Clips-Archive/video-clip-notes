@@ -12,6 +12,20 @@ date: Last Modified
 * [Pollution](../../topics/features/requested-features/pollution.md)
 * [Third-person View](../../topics/features/requested-features/third-person-view.md)
 
+## September 6th, 2022 Livestream
+* [Q&A: Horizontal half-walls?](../../transcriptions/yt-S8T80EDvfpE.md) [https://www.youtube.com/watch?v=S8T80EDvfpE](https://www.youtube.com/watch?v=S8T80EDvfpE)
+* [Q&A: Experimental on GeForce Now?](../../transcriptions/yt---jwCj0yQak.md) [https://www.youtube.com/watch?v=--jwCj0yQak](https://www.youtube.com/watch?v=--jwCj0yQak)
+* [Q&A: Half-Foundations?](../../transcriptions/yt-uWzjA0DGAag.md) [https://www.youtube.com/watch?v=uWzjA0DGAag](https://www.youtube.com/watch?v=uWzjA0DGAag)
+* [Q&A: Option to disable monsters attacking notification?](../../transcriptions/yt-Xmosps_8mVQ.md) [https://www.youtube.com/watch?v=Xmosps_8mVQ](https://www.youtube.com/watch?v=Xmosps_8mVQ)
+* [Q&A: Any plans to add FSR 2.0?](../../transcriptions/yt-8WFqndHJR_0.md) [https://www.youtube.com/watch?v=8WFqndHJR_0](https://www.youtube.com/watch?v=8WFqndHJR_0)
+* [Q&A: Can you making saving incremental in the background?](../../transcriptions/yt-TLz62bpBmjI.md) [https://www.youtube.com/watch?v=TLz62bpBmjI](https://www.youtube.com/watch?v=TLz62bpBmjI)
+* [Q&A: Any plans to make the list of Alt Recipes available in the MAM?](../../transcriptions/yt-IGkYaXzS0S4.md) [https://www.youtube.com/watch?v=IGkYaXzS0S4](https://www.youtube.com/watch?v=IGkYaXzS0S4)
+* [Q&A: Any plans for new Customisation Materials?](../../transcriptions/yt-QCkjLUYaQ-0.md) [https://www.youtube.com/watch?v=QCkjLUYaQ-0](https://www.youtube.com/watch?v=QCkjLUYaQ-0)
+* [Q&A: Final Fantasy / Satisfactory crossover, when?](../../transcriptions/yt-rhJX7THGRCA.md) [https://www.youtube.com/watch?v=rhJX7THGRCA](https://www.youtube.com/watch?v=rhJX7THGRCA)
+* [Q&A: Teleporters could be cool?](../../transcriptions/yt-fyagrhTyipA.md) [https://www.youtube.com/watch?v=fyagrhTyipA](https://www.youtube.com/watch?v=fyagrhTyipA)
+* [Q&A: Add more Maps in DLC form?](../../transcriptions/yt-A4FfpjBDpaw.md) [https://www.youtube.com/watch?v=A4FfpjBDpaw](https://www.youtube.com/watch?v=A4FfpjBDpaw)
+* [Q&A: Mk.6 Conveyor Belts?](../../transcriptions/yt-5kppmSyt6_E.md) [https://www.youtube.com/watch?v=5kppmSyt6_E](https://www.youtube.com/watch?v=5kppmSyt6_E)
+
 ## August 30th, 2022 Livestream
 * [Q&A: Any plans for letting players dive underwater?](../../transcriptions/yt-2sMDsApY6Bs.md) [https://www.youtube.com/watch?v=2sMDsApY6Bs](https://www.youtube.com/watch?v=2sMDsApY6Bs)
 * [Q&A: Will the trees in western Dune Desert be fixed so the chainsaw chops more than one at a time?](../../transcriptions/yt-Y2lhP94DACU.md) [https://www.youtube.com/watch?v=Y2lhP94DACU](https://www.youtube.com/watch?v=Y2lhP94DACU)

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Fluids](../../../topics/features/fluids.md) > Pipes
 
+## September 6th, 2022 Livestream
+* [Q&A: Terrain manipulation?](../../../transcriptions/yt-OT5C5s89JyY.md) [https://www.youtube.com/watch?v=OT5C5s89JyY](https://www.youtube.com/watch?v=OT5C5s89JyY)
+
 ## September 2nd, 2022 Video
 * [Pipes without Pipe Indicators](../../../transcriptions/yt-Pgm1L8aIf6E,212.54566666666668,225.39183333333332.md) [https://youtube.com/clip/Ugkxt_PmTWn9VNCgMOON33Ag9PCmkuFd8SfC](https://youtube.com/clip/Ugkxt_PmTWn9VNCgMOON33Ag9PCmkuFd8SfC)
 

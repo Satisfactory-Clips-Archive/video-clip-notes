@@ -25,6 +25,10 @@ date: Last Modified
 * [Vilsol](../topics/community/vilsol.md)
 * [Wiki](../topics/community/wiki.md)
 
+## September 6th, 2022 Livestream
+* [Community FYI: Jace is muted?](../transcriptions/yt-VpuwT_gEKN4.md) [https://www.youtube.com/watch?v=VpuwT_gEKN4](https://www.youtube.com/watch?v=VpuwT_gEKN4)
+* [Q&A: What happened to the Lego thing?](../transcriptions/yt-1X9wJm6Qfco.md) [https://www.youtube.com/watch?v=1X9wJm6Qfco](https://www.youtube.com/watch?v=1X9wJm6Qfco)
+
 ## August 30th, 2022 Livestream
 * [Snutt & Jace Talk: TwitchCon Amsterdam 2022](../transcriptions/yt-79pa8oSup7U.md) [https://www.youtube.com/watch?v=79pa8oSup7U](https://www.youtube.com/watch?v=79pa8oSup7U)
 * [Snutt & Jace Talk: #ONE28AF](../transcriptions/yt-2Ri8AaxRbGQ.md) [https://www.youtube.com/watch?v=2Ri8AaxRbGQ](https://www.youtube.com/watch?v=2Ri8AaxRbGQ)

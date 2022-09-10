@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Coffee Stainers](../../../topics/coffee-stainers.md) > [Snutt](../../../topics/coffee-stainers/snutt.md) > Snutt Burger Time
 
+## September 6th, 2022 Livestream
+* [Q&A: What's for dinner?](../../../transcriptions/yt-EZc0yb-0GZA.md) [https://www.youtube.com/watch?v=EZc0yb-0GZA](https://www.youtube.com/watch?v=EZc0yb-0GZA)
+
 ## August 30th, 2022 Livestream
 * [Q&A: What's for dinner?](../../../transcriptions/yt-7Si6dwAheFo.md) [https://www.youtube.com/watch?v=7Si6dwAheFo](https://www.youtube.com/watch?v=7Si6dwAheFo)
 

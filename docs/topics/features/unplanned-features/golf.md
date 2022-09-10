@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Unplanned Features](../../../topics/features/unplanned-features.md) > Golf
 
+## September 6th, 2022 Livestream
+* [Q&A: Terrain manipulation?](../../../transcriptions/yt-OT5C5s89JyY.md) [https://www.youtube.com/watch?v=OT5C5s89JyY](https://www.youtube.com/watch?v=OT5C5s89JyY)
+
 ## July 12th, 2022 Livestream
 * [Q&A: Golf, please don't add it?](../../../transcriptions/yt-6eVeKq7a46Q.md) [https://www.youtube.com/watch?v=6eVeKq7a46Q](https://www.youtube.com/watch?v=6eVeKq7a46Q)
 

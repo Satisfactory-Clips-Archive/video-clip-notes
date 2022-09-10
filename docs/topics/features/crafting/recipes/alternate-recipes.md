@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > [Crafting](../../../../topics/features/crafting.md) > [Recipes](../../../../topics/features/crafting/recipes.md) > Alternate Recipes
 
+## September 6th, 2022 Livestream
+* [Q&A: Any plans to make the list of Alt Recipes available in the MAM?](../../../../transcriptions/yt-IGkYaXzS0S4.md) [https://www.youtube.com/watch?v=IGkYaXzS0S4](https://www.youtube.com/watch?v=IGkYaXzS0S4)
+
 ## July 12th, 2022 Livestream
 * Q&A: Alt Recipes using a lot of Power to only get 12 per minute? [https://www.youtube.com/watch?v=_ZdYbFPhO2U](https://www.youtube.com/watch?v=_ZdYbFPhO2U)
 

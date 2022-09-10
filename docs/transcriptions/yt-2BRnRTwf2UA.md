@@ -11,9 +11,8 @@ topics:
 ## Q&A: Would it be possible to create our own Maps?
 https://www.youtube.com/watch?v=2BRnRTwf2UA
 <details>
-<summary>This question may have been asked previously at least 15 other times, as recently as August 2022 and as early as February 2019.</summary>
+<summary>This question may have been asked previously at least 14 other times, as recently as December 2021 and as early as February 2019.</summary>
 
-* [August 23rd, 2022 Livestream Q&A: Would you guys be open to do Map DLC?](./yt-OxNPDWP1m9E.md) [https://www.youtube.com/watch?v=OxNPDWP1m9E](https://www.youtube.com/watch?v=OxNPDWP1m9E)
 * [December 14th, 2021 Livestream Q&A: Map Editor?](./yt-lX7XAk69lSw.md) [https://www.youtube.com/watch?v=lX7XAk69lSw](https://www.youtube.com/watch?v=lX7XAk69lSw)
 * [December 7th, 2021 Livestream Q&A: Will you allow Modded Maps?](./yt-TS6ZdUxbeKQ.md) [https://www.youtube.com/watch?v=TS6ZdUxbeKQ](https://www.youtube.com/watch?v=TS6ZdUxbeKQ)
 * [December 7th, 2021 Livestream Q&A: Do you guys consider releasing a dev kit for third-party map builders?](./yt-w7FY53KMcck.md) [https://www.youtube.com/watch?v=w7FY53KMcck](https://www.youtube.com/watch?v=w7FY53KMcck)

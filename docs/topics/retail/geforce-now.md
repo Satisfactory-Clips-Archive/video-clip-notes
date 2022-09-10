@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Retail](../../topics/retail.md) > GeForce Now
 
+## September 6th, 2022 Livestream
+* [Q&A: Experimental on GeForce Now?](../../transcriptions/yt---jwCj0yQak.md) [https://www.youtube.com/watch?v=--jwCj0yQak](https://www.youtube.com/watch?v=--jwCj0yQak)
+
 ## April 23rd, 2021 Video
 * [Snutt Talk: Name and Icon for game is wrong](../../transcriptions/yt-vuDlUdTeEMI,358.8333333333333,421.3333333333333.md) [https://youtube.com/embed/vuDlUdTeEMI?autoplay=1&start=358&end=422](https://youtube.com/embed/vuDlUdTeEMI?autoplay=1&start=358&end=422)
 

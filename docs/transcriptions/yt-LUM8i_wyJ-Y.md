@@ -8,7 +8,7 @@ topics:
 # [November 24th, 2020 Livestream](../2020-11-24.md)
 ## Q&A: I have 24 (CPU) cores, can you make more use of it ?
 https://www.youtube.com/watch?v=LUM8i_wyJ-Y
-This question was possibly duplicated with a more recent answer: [July 5th, 2022 Livestream Q&A: Will the game run on more than one CPU?](./yt-_KZ7iwEuEvM.md) [https://www.youtube.com/watch?v=_KZ7iwEuEvM](https://www.youtube.com/watch?v=_KZ7iwEuEvM)
+This question was possibly duplicated with a more recent answer: [September 6th, 2022 Livestream Q&A: Can the game utilise cores more?](./yt-YeQ2gCzubKQ.md) [https://www.youtube.com/watch?v=YeQ2gCzubKQ](https://www.youtube.com/watch?v=YeQ2gCzubKQ)
 
 
 ### Topics

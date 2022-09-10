@@ -8,7 +8,7 @@ topics:
 # [October 1st, 2020 Q&A](../2020-10-01.md)
 ## Q&A: Any new maps coming?
 https://youtube.com/embed/rATcozDE25c?autoplay=1&start=763&end=782
-This question was possibly duplicated with a more recent answer: [August 23rd, 2022 Livestream Q&A: Would you guys be open to do Map DLC?](./yt-OxNPDWP1m9E.md) [https://www.youtube.com/watch?v=OxNPDWP1m9E](https://www.youtube.com/watch?v=OxNPDWP1m9E)
+This question was possibly duplicated with a more recent answer: [September 6th, 2022 Livestream Q&A: Add more Maps in DLC form?](./yt-A4FfpjBDpaw.md) [https://www.youtube.com/watch?v=A4FfpjBDpaw](https://www.youtube.com/watch?v=A4FfpjBDpaw)
 
 
 ### Topics

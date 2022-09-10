@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Pending](../../../topics/satisfactory-updates/pending.md) > Satisfactory Update 6
 
+## September 6th, 2022 Livestream
+* [State of Dev](../../../transcriptions/yt-hRN17cFJeRc.md) [https://www.youtube.com/watch?v=hRN17cFJeRc](https://www.youtube.com/watch?v=hRN17cFJeRc)
+* [Q&A: Experimental on GeForce Now?](../../../transcriptions/yt---jwCj0yQak.md) [https://www.youtube.com/watch?v=--jwCj0yQak](https://www.youtube.com/watch?v=--jwCj0yQak)
+* [Q&A: Option to disable monsters attacking notification?](../../../transcriptions/yt-Xmosps_8mVQ.md) [https://www.youtube.com/watch?v=Xmosps_8mVQ](https://www.youtube.com/watch?v=Xmosps_8mVQ)
+
 ## September 2nd, 2022 Video
 * [Quick Rewind](../../../transcriptions/yt-Pgm1L8aIf6E,25.992633333333334,89.9899.md) [https://youtube.com/embed/Pgm1L8aIf6E?autoplay=1&start=25&end=90](https://youtube.com/embed/Pgm1L8aIf6E?autoplay=1&start=25&end=90)
 * [Q&A: When is Update 6 coming to the default Early Access branch?](../../../transcriptions/yt-Pgm1L8aIf6E,90.02326666666667,135.6355.md) [https://youtube.com/clip/UgkxWE0a_WVarWJMuYSX5zHerPGtL0XkFo-c](https://youtube.com/clip/UgkxWE0a_WVarWJMuYSX5zHerPGtL0XkFo-c)

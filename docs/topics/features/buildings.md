@@ -27,6 +27,9 @@ date: Last Modified
 * [The HUB](../../topics/features/buildings/the-hub.md)
 * [Water Extractor](../../topics/features/buildings/water-extractor.md)
 
+## September 6th, 2022 Livestream
+* [Q&A: Anything to make building easier?](../../transcriptions/yt-40kwebuhaps.md) [https://www.youtube.com/watch?v=40kwebuhaps](https://www.youtube.com/watch?v=40kwebuhaps)
+
 ## August 30th, 2022 Livestream
 * [Q&A: New machines or generators planned one day?](../../transcriptions/yt-Gzqh9pNfY2M.md) [https://www.youtube.com/watch?v=Gzqh9pNfY2M](https://www.youtube.com/watch?v=Gzqh9pNfY2M)
 

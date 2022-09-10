@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildables](../../../topics/features/buildables.md) > Roofs
 
+## September 6th, 2022 Livestream
+* [State of Dev](../../../transcriptions/yt-hRN17cFJeRc.md) [https://www.youtube.com/watch?v=hRN17cFJeRc](https://www.youtube.com/watch?v=hRN17cFJeRc)
+
 ## March 22nd, 2022 Livestream
 * [Q&A: Minor updates to the AWESOME Shop- corner roof pieces, etc.?](../../../transcriptions/yt-CHeSR2RRNKI.md) [https://www.youtube.com/watch?v=CHeSR2RRNKI](https://www.youtube.com/watch?v=CHeSR2RRNKI)
 

@@ -8,7 +8,7 @@ topics:
 # [February 22nd, 2022 Livestream](../2022-02-22.md)
 ## Q&A: Teleporters?
 https://www.youtube.com/watch?v=UdJROx6rvdg
-This question was possibly duplicated with a more recent answer: June 28th, 2022 Livestream Q&A: Any plans for Teleporters? [https://www.youtube.com/watch?v=0orGp3fSLmE](https://www.youtube.com/watch?v=0orGp3fSLmE)
+This question was possibly duplicated with a more recent answer: [September 6th, 2022 Livestream Q&A: Teleporters could be cool?](./yt-fyagrhTyipA.md) [https://www.youtube.com/watch?v=fyagrhTyipA](https://www.youtube.com/watch?v=fyagrhTyipA)
 
 
 ### Topics

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Save System](../../../topics/features/save-system.md) > Autosave
 
+## September 6th, 2022 Livestream
+* [Q&A: Can you making saving incremental in the background?](../../../transcriptions/yt-TLz62bpBmjI.md) [https://www.youtube.com/watch?v=TLz62bpBmjI](https://www.youtube.com/watch?v=TLz62bpBmjI)
+
 ## June 7th, 2022 Livestream
 * [Q&A: Any buffs to the Autosave on Servers coming?](../../../transcriptions/yt-W4W-x6usIVg.md) [https://www.youtube.com/watch?v=W4W-x6usIVg](https://www.youtube.com/watch?v=W4W-x6usIVg)
 

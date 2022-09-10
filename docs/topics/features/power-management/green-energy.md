@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Power Management](../../../topics/features/power-management.md) > Green Energy
 
+## September 6th, 2022 Livestream
+* [Q&A: Terrain manipulation?](../../../transcriptions/yt-OT5C5s89JyY.md) [https://www.youtube.com/watch?v=OT5C5s89JyY](https://www.youtube.com/watch?v=OT5C5s89JyY)
+
 ## April 15th, 2022 Video
 * [Snutt & Stefan Talk: Wind Power in Sprint 3](../../../transcriptions/yt-7I3NGAm3j_4,377.64393333333334,409.84276666666665.md) [https://youtube.com/clip/UgkxybvxAhd1QI-WJEO0msAL8csMr_KYWqOM](https://youtube.com/clip/UgkxybvxAhd1QI-WJEO0msAL8csMr_KYWqOM)
 * [Snutt & Stefan Talk: Building changes in Sprint 20](../../../transcriptions/yt-7I3NGAm3j_4,1614.1792333333333,1673.3383333333334.md) [https://youtube.com/clip/UgkxkNwDqcqIoCK4fGAc3VSJKf4dzSn_C90b](https://youtube.com/clip/UgkxkNwDqcqIoCK4fGAc3VSJKf4dzSn_C90b)

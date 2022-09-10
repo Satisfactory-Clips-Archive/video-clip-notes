@@ -10,7 +10,7 @@ topics:
 # [October 12th, 2021 Livestream](../2021-10-12.md)
 ## Q&A: Do you plan to increase the Belt speed to 780?
 https://www.youtube.com/watch?v=rpK_pbol3-0
-This question was possibly duplicated with a more recent answer: [July 5th, 2022 Livestream Q&A: Will there be Mk.6 Belts?](./yt-teYWjHHxeBU.md) [https://www.youtube.com/watch?v=teYWjHHxeBU](https://www.youtube.com/watch?v=teYWjHHxeBU)
+This question was possibly duplicated with a more recent answer: [September 6th, 2022 Livestream Q&A: Mk.6 Conveyor Belts?](./yt-5kppmSyt6_E.md) [https://www.youtube.com/watch?v=5kppmSyt6_E](https://www.youtube.com/watch?v=5kppmSyt6_E)
 
 
 ### Topics

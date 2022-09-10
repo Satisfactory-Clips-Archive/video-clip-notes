@@ -8,7 +8,7 @@ topics:
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: Will we ever have proper multi-core support?
 https://www.youtube.com/watch?v=08PQFXaEac8
-This question was possibly duplicated with a more recent answer: [July 5th, 2022 Livestream Q&A: Will the game run on more than one CPU?](./yt-_KZ7iwEuEvM.md) [https://www.youtube.com/watch?v=_KZ7iwEuEvM](https://www.youtube.com/watch?v=_KZ7iwEuEvM)
+This question was possibly duplicated with a more recent answer: [September 6th, 2022 Livestream Q&A: Can the game utilise cores more?](./yt-YeQ2gCzubKQ.md) [https://www.youtube.com/watch?v=YeQ2gCzubKQ](https://www.youtube.com/watch?v=YeQ2gCzubKQ)
 
 
 ### Topics
