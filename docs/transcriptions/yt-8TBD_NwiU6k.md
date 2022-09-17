@@ -9,7 +9,7 @@ topics:
 # [December 7th, 2021 Livestream](../2021-12-07.md)
 ## Q&A: Can we get a way to limit available slots in Containers?
 https://www.youtube.com/watch?v=8TBD_NwiU6k
-This question was possibly duplicated with a more recent answer: [June 28th, 2022 Livestream Q&A: Ability to limit the max fill level of Containers?](./yt-VOwac78ebn0.md) [https://www.youtube.com/watch?v=VOwac78ebn0](https://www.youtube.com/watch?v=VOwac78ebn0)
+This question was possibly duplicated with a more recent answer: [September 13th, 2022 Livestream Q&A: Limit max storage?](./yt--gBrfcaR1Qs.md) [https://www.youtube.com/watch?v=-gBrfcaR1Qs](https://www.youtube.com/watch?v=-gBrfcaR1Qs)
 
 
 ### Topics

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Josh
 
+## September 13th, 2022 Livestream
+* [Q&A: What about ultra-low fps mode for Josh?](../../transcriptions/yt-_r71iH5Z-bU.md) [https://www.youtube.com/watch?v=_r71iH5Z-bU](https://www.youtube.com/watch?v=_r71iH5Z-bU)
+
 ## May 3rd, 2022 Livestream
 * [Q&A: Do you approve of the Lizard Doggo Nuclear Waste disposal method?](../../transcriptions/yt-aMX03pHxmII.md) [https://www.youtube.com/watch?v=aMX03pHxmII](https://www.youtube.com/watch?v=aMX03pHxmII)
 

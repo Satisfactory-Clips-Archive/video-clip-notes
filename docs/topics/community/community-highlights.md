@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Community Highlights
 
+## September 13th, 2022 Livestream
+* [Q&A: How do we get creations in the Community Highlights?](../../transcriptions/yt-OingyI8ycfY.md) [https://www.youtube.com/watch?v=OingyI8ycfY](https://www.youtube.com/watch?v=OingyI8ycfY)
+
 ## August 23rd, 2022 Livestream
 * [Q&A: Do you have a current favourite build style?](../../transcriptions/yt-gp6ULThyiHY.md) [https://www.youtube.com/watch?v=gp6ULThyiHY](https://www.youtube.com/watch?v=gp6ULThyiHY)
 

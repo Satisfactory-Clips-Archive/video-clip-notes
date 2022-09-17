@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Easter Eggs
 
+## September 13th, 2022 Livestream
+* [Q&A: What is this Deep Rock Galactic tape I've been hearing about?](../transcriptions/yt-d0FO6CwgWvw.md) [https://www.youtube.com/watch?v=d0FO6CwgWvw](https://www.youtube.com/watch?v=d0FO6CwgWvw)
+
 ## July 12th, 2022 Livestream
 * [Q&A: Are there going to be any other cross-game Easter Eggs in Satisfactory?](../transcriptions/yt-v5kTUX3Bba8.md) [https://www.youtube.com/watch?v=v5kTUX3Bba8](https://www.youtube.com/watch?v=v5kTUX3Bba8)
 * [Q&A: Why is there no Goat Sim Easter Egg in Satisfactory?](../transcriptions/yt-gqOrnBBSP-8.md) [https://www.youtube.com/watch?v=gqOrnBBSP-8](https://www.youtube.com/watch?v=gqOrnBBSP-8)

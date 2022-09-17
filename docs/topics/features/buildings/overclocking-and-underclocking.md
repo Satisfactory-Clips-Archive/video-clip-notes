@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > Overclocking & Underclocking
 
+## September 13th, 2022 Livestream
+* [Q&A: Any updates to if Overclocking is changing?](../../../transcriptions/yt-qBEml9Qw5xE.md) [https://www.youtube.com/watch?v=qBEml9Qw5xE](https://www.youtube.com/watch?v=qBEml9Qw5xE)
+
 ## August 30th, 2022 Livestream
 * [Snutt Talk: Overclocking changes](../../../transcriptions/yt-nFeFUeannAU.md) [https://www.youtube.com/watch?v=nFeFUeannAU](https://www.youtube.com/watch?v=nFeFUeannAU)
 

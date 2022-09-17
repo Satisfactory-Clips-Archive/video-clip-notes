@@ -5,6 +5,13 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildables](../../../topics/features/buildables.md) > Walls
 
+## September 13th, 2022 Livestream
+* [State of Dev](../../../transcriptions/yt-99II6zSq_J0.md) [https://www.youtube.com/watch?v=99II6zSq_J0](https://www.youtube.com/watch?v=99II6zSq_J0)
+* [Q&A: Glass building pieces?](../../../transcriptions/yt-BH3wrT7hmPI.md) [https://www.youtube.com/watch?v=BH3wrT7hmPI](https://www.youtube.com/watch?v=BH3wrT7hmPI)
+* [Q&A: Why do 1m Walls cost the same as 4m Walls?](../../../transcriptions/yt-5BFq4f1kS8Q.md) [https://www.youtube.com/watch?v=5BFq4f1kS8Q](https://www.youtube.com/watch?v=5BFq4f1kS8Q)
+* [Q&A: Can we get a flat version of the Wall with a smooth side?](../../../transcriptions/yt-2U8TQZMdKvY.md) [https://www.youtube.com/watch?v=2U8TQZMdKvY](https://www.youtube.com/watch?v=2U8TQZMdKvY)
+* [Q&A: Are you going to add Half-Wall pieces?](../../../transcriptions/yt-rYX0U6rnTtA.md) [https://www.youtube.com/watch?v=rYX0U6rnTtA](https://www.youtube.com/watch?v=rYX0U6rnTtA)
+
 ## September 6th, 2022 Livestream
 * [Q&A: Horizontal half-walls?](../../../transcriptions/yt-S8T80EDvfpE.md) [https://www.youtube.com/watch?v=S8T80EDvfpE](https://www.youtube.com/watch?v=S8T80EDvfpE)
 

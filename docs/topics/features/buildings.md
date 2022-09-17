@@ -27,6 +27,9 @@ date: Last Modified
 * [The HUB](../../topics/features/buildings/the-hub.md)
 * [Water Extractor](../../topics/features/buildings/water-extractor.md)
 
+## September 13th, 2022 Livestream
+* [Q&A: I'd like to see a rebalance so we're encouraged to automate each Tier instead of handcrafting?](../../transcriptions/yt--mp-XYvQYWg.md) [https://www.youtube.com/watch?v=-mp-XYvQYWg](https://www.youtube.com/watch?v=-mp-XYvQYWg)
+
 ## September 6th, 2022 Livestream
 * [Q&A: Anything to make building easier?](../../transcriptions/yt-40kwebuhaps.md) [https://www.youtube.com/watch?v=40kwebuhaps](https://www.youtube.com/watch?v=40kwebuhaps)
 

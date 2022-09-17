@@ -9,7 +9,7 @@ topics:
 # [September 21st, 2021 Livestream](../2021-09-21.md)
 ## Q&A: How big is the whole team?
 https://www.youtube.com/watch?v=PBRR5eAsO40
-This question was possibly duplicated with a more recent answer: [March 1st, 2022 Livestream Q&A: How many people are working on the game?](./yt-55pQn6DUgpM.md) [https://www.youtube.com/watch?v=55pQn6DUgpM](https://www.youtube.com/watch?v=55pQn6DUgpM)
+This question was possibly duplicated with a more recent answer: [September 13th, 2022 Livestream Q&A: How many devs are currently working on the game?](./yt--ZSeVyn-vME.md) [https://www.youtube.com/watch?v=-ZSeVyn-vME](https://www.youtube.com/watch?v=-ZSeVyn-vME)
 
 
 ### Topics

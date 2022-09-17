@@ -9,11 +9,7 @@ topics:
 # [September 6th, 2022 Livestream](../2022-09-06.md)
 ## Q&A: Horizontal half-walls?
 https://www.youtube.com/watch?v=S8T80EDvfpE
-<details>
-<summary>This question may have been asked previously at least 1 other time, as recently as August 2022.</summary>
-
-* [August 23rd, 2022 Livestream Q&A: Half Wall?](./yt-0MP3iPpCEso.md) [https://www.youtube.com/watch?v=0MP3iPpCEso](https://www.youtube.com/watch?v=0MP3iPpCEso)
-</details>
+This question was possibly duplicated with a more recent answer: [September 13th, 2022 Livestream Q&A: Are you going to add Half-Wall pieces?](./yt-rYX0U6rnTtA.md) [https://www.youtube.com/watch?v=rYX0U6rnTtA](https://www.youtube.com/watch?v=rYX0U6rnTtA)
 
 
 ### Topics

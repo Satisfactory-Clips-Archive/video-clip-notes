@@ -10,7 +10,7 @@ topics:
 # [July 6th, 2021 Livestream](../2021-07-06.md)
 ## Q&A: How would you join the translation crew?
 https://www.youtube.com/watch?v=21YJgMguxHQ
-This question was possibly duplicated with a more recent answer: July 12th, 2022 Livestream Q&A: How do you translate the game? [https://www.youtube.com/watch?v=NbQXHy41U-U](https://www.youtube.com/watch?v=NbQXHy41U-U)
+This question was possibly duplicated with a more recent answer: [September 13th, 2022 Livestream Q&A: Where can I get in touch with someone to help translating the game?](./yt-K0tOZpBfnsk.md) [https://www.youtube.com/watch?v=K0tOZpBfnsk](https://www.youtube.com/watch?v=K0tOZpBfnsk)
 
 
 ### Topics

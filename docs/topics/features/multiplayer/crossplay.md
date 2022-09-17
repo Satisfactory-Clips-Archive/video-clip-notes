@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Multiplayer](../../../topics/features/multiplayer.md) > Crossplay
 
+## September 13th, 2022 Livestream
+* [Q&A: Is the Epic version compatible to play with Steam?](../../../transcriptions/yt-A4OHQfv5JK4.md) [https://www.youtube.com/watch?v=A4OHQfv5JK4](https://www.youtube.com/watch?v=A4OHQfv5JK4)
+
 ## December 7th, 2021 Livestream
 * [State of Dev: December 7th, 2021](../../../transcriptions/yt-7nCntR0EE8g.md) [https://www.youtube.com/watch?v=7nCntR0EE8g](https://www.youtube.com/watch?v=7nCntR0EE8g)
 

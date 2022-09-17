@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Biomes](../../../topics/environment/biomes.md) > Swamp
 
+## September 13th, 2022 Livestream
+* [Q&A: In the Swamp there's a hard border in the water?](../../../transcriptions/yt-lalvAZ2yE9E.md) [https://www.youtube.com/watch?v=lalvAZ2yE9E](https://www.youtube.com/watch?v=lalvAZ2yE9E)
+
 ## June 28th, 2022 Livestream
 * [Q&A: Any Red Jungle changes similar to Spire Coast or Swamp?](../../../transcriptions/yt-l9SkudmkyLQ.md) [https://www.youtube.com/watch?v=l9SkudmkyLQ](https://www.youtube.com/watch?v=l9SkudmkyLQ)
 * Q&A: What zones are changing in Update 6? [https://www.youtube.com/watch?v=cPXS7j9D4vQ](https://www.youtube.com/watch?v=cPXS7j9D4vQ)

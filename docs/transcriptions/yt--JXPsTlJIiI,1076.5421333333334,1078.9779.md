@@ -8,7 +8,7 @@ topics:
 # [December 17th, 2020 Q&A](../2020-12-17.md)
 ## Q&A: Will S.A.M. Ore ever be useful?
 https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=1076&end=1079
-This question was possibly duplicated with a more recent answer: [May 24th, 2022 Livestream Q&A: What's the future of S.A.M. Ore?](./yt-fU0zBoXfxRE.md) [https://www.youtube.com/watch?v=fU0zBoXfxRE](https://www.youtube.com/watch?v=fU0zBoXfxRE)
+This question was possibly duplicated with a more recent answer: [September 13th, 2022 Livestream Q&A: What Tier will S.A.M. Ore be used in ?](./yt-bWbC_aCpEXc.md) [https://www.youtube.com/watch?v=bWbC_aCpEXc](https://www.youtube.com/watch?v=bWbC_aCpEXc)
 
 
 ### Topics

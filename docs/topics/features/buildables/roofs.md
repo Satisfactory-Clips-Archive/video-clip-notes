@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildables](../../../topics/features/buildables.md) > Roofs
 
+## September 13th, 2022 Livestream
+* [State of Dev](../../../transcriptions/yt-99II6zSq_J0.md) [https://www.youtube.com/watch?v=99II6zSq_J0](https://www.youtube.com/watch?v=99II6zSq_J0)
+* [Q&A: Glass building pieces?](../../../transcriptions/yt-BH3wrT7hmPI.md) [https://www.youtube.com/watch?v=BH3wrT7hmPI](https://www.youtube.com/watch?v=BH3wrT7hmPI)
+
 ## September 6th, 2022 Livestream
 * [State of Dev](../../../transcriptions/yt-hRN17cFJeRc.md) [https://www.youtube.com/watch?v=hRN17cFJeRc](https://www.youtube.com/watch?v=hRN17cFJeRc)
 

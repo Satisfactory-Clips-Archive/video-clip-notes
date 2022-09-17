@@ -8,7 +8,7 @@ topics:
 # [February 11th, 2020 Livestream](../2020-02-11.md)
 ## Q&A: How does one help with localisation?
 https://www.youtube.com/watch?v=uLblaRDOX4Y
-This question was possibly duplicated with a more recent answer: July 12th, 2022 Livestream Q&A: How do you translate the game? [https://www.youtube.com/watch?v=NbQXHy41U-U](https://www.youtube.com/watch?v=NbQXHy41U-U)
+This question was possibly duplicated with a more recent answer: [September 13th, 2022 Livestream Q&A: Where can I get in touch with someone to help translating the game?](./yt-K0tOZpBfnsk.md) [https://www.youtube.com/watch?v=K0tOZpBfnsk](https://www.youtube.com/watch?v=K0tOZpBfnsk)
 
 
 ### Topics

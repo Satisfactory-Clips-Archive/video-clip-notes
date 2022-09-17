@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../topics.md) > Localisation
 * [Localization Community Highlight](../topics/localisation/localization-community-highlight.md)
 
+## September 13th, 2022 Livestream
+* [Q&A: Where can I get in touch with someone to help translating the game?](../transcriptions/yt-K0tOZpBfnsk.md) [https://www.youtube.com/watch?v=K0tOZpBfnsk](https://www.youtube.com/watch?v=K0tOZpBfnsk)
+
 ## July 12th, 2022 Livestream
 * Q&A: How do you translate the game? [https://www.youtube.com/watch?v=NbQXHy41U-U](https://www.youtube.com/watch?v=NbQXHy41U-U)
 

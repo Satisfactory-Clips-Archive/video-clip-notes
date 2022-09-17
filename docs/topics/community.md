@@ -25,6 +25,10 @@ date: Last Modified
 * [Vilsol](../topics/community/vilsol.md)
 * [Wiki](../topics/community/wiki.md)
 
+## September 13th, 2022 Livestream
+* [Q&A: Why can't I subscribe to you with my Prime sub to support you?](../transcriptions/yt-jyJtvoO3Xrk.md) [https://www.youtube.com/watch?v=jyJtvoO3Xrk](https://www.youtube.com/watch?v=jyJtvoO3Xrk)
+* [Q&A: What happened with the Hot Potato save?](../transcriptions/yt-QweEL3ihytc.md) [https://www.youtube.com/watch?v=QweEL3ihytc](https://www.youtube.com/watch?v=QweEL3ihytc)
+
 ## September 6th, 2022 Livestream
 * [Community FYI: Jace is muted?](../transcriptions/yt-VpuwT_gEKN4.md) [https://www.youtube.com/watch?v=VpuwT_gEKN4](https://www.youtube.com/watch?v=VpuwT_gEKN4)
 * [Q&A: What happened to the Lego thing?](../transcriptions/yt-1X9wJm6Qfco.md) [https://www.youtube.com/watch?v=1X9wJm6Qfco](https://www.youtube.com/watch?v=1X9wJm6Qfco)

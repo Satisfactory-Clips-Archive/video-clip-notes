@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildables](../../../topics/features/buildables.md) > Lights
 
+## September 13th, 2022 Livestream
+* [Q&A: Smaller ceiling Lights?](../../../transcriptions/yt-OOalQW-Vsac.md) [https://www.youtube.com/watch?v=OOalQW-Vsac](https://www.youtube.com/watch?v=OOalQW-Vsac)
+
 ## September 2nd, 2022 Video
 * [Headlights on Trains](../../../transcriptions/yt-Pgm1L8aIf6E,238.17126666666667,239.8396.md) [https://youtube.com/embed/Pgm1L8aIf6E?autoplay=1&start=238&end=240](https://youtube.com/embed/Pgm1L8aIf6E?autoplay=1&start=238&end=240)
 

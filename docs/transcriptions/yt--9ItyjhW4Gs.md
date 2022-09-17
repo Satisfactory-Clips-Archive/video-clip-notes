@@ -9,6 +9,8 @@ topics:
 # [February 8th, 2022 Livestream](../2022-02-08.md)
 ## Q&A: Are there any plans to add Alt Recipes for items that currently have none?
 https://www.youtube.com/watch?v=-9ItyjhW4Gs
+This question was possibly duplicated with a more recent answer: [September 13th, 2022 Livestream Q&A: How do you decide what gets an Alt Recipe, and are there any items that won't get one?](./yt-H5U1BtcMMIA.md) [https://www.youtube.com/watch?v=H5U1BtcMMIA](https://www.youtube.com/watch?v=H5U1BtcMMIA)
+
 
 ### Topics
 * [Features > Crafting](../topics/features/crafting.md)

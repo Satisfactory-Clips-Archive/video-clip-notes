@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Trolling
 
+## September 13th, 2022 Livestream
+* [Q&A: Space-Giraffe burgers?](../transcriptions/yt-AbXttpJj74M.md) [https://www.youtube.com/watch?v=AbXttpJj74M](https://www.youtube.com/watch?v=AbXttpJj74M)
+
 ## August 23rd, 2022 Livestream
 * [Q&A: Why not a GOG version?](../transcriptions/yt-9hlTnbKGXSo.md) [https://www.youtube.com/watch?v=9hlTnbKGXSo](https://www.youtube.com/watch?v=9hlTnbKGXSo)
 

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Biomes](../../../topics/environment/biomes.md) > Spire Coast
 
+## September 13th, 2022 Livestream
+* [Q&A: How will Save files be impacted when Update 6 comes to Early Access?](../../../transcriptions/yt-HRMC8w8XgGI.md) [https://www.youtube.com/watch?v=HRMC8w8XgGI](https://www.youtube.com/watch?v=HRMC8w8XgGI)
+
 ## August 23rd, 2022 Livestream
 * [Q&A: Are Spire Coast Oil nodes fixed in place now?](../../../transcriptions/yt-Qki7s83KDUM.md) [https://www.youtube.com/watch?v=Qki7s83KDUM](https://www.youtube.com/watch?v=Qki7s83KDUM)
 

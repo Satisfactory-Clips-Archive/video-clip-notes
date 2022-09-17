@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Pending](../../../topics/satisfactory-updates/pending.md) > Satisfactory 1.0
 
+## September 13th, 2022 Livestream
+* [Q&A: Do you have a complete roadmap of features until 1.0?](../../../transcriptions/yt-nkJSR99P90E.md) [https://www.youtube.com/watch?v=nkJSR99P90E](https://www.youtube.com/watch?v=nkJSR99P90E)
+
 ## September 6th, 2022 Livestream
 * [Q&A: Tiers 9 & 10 in 1.0?](../../../transcriptions/yt-WMBO7p2n6DQ.md) [https://www.youtube.com/watch?v=WMBO7p2n6DQ](https://www.youtube.com/watch?v=WMBO7p2n6DQ)
 

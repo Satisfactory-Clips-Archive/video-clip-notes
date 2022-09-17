@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Resources](../../../topics/environment/resources.md) > S.A.M. Ore
 
+## September 13th, 2022 Livestream
+* [Q&A: What Tier will S.A.M. Ore be used in ?](../../../transcriptions/yt-bWbC_aCpEXc.md) [https://www.youtube.com/watch?v=bWbC_aCpEXc](https://www.youtube.com/watch?v=bWbC_aCpEXc)
+
 ## July 12th, 2022 Livestream
 * [Q&A: S.A.M. Ore / Somersloops still a 1.0 thing?](../../../transcriptions/yt-VcxNT6rHrG0.md) [https://www.youtube.com/watch?v=VcxNT6rHrG0](https://www.youtube.com/watch?v=VcxNT6rHrG0)
 

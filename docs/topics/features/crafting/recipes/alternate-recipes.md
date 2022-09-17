@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > [Crafting](../../../../topics/features/crafting.md) > [Recipes](../../../../topics/features/crafting/recipes.md) > Alternate Recipes
 
+## September 13th, 2022 Livestream
+* [Q&A: How do you decide what gets an Alt Recipe, and are there any items that won't get one?](../../../../transcriptions/yt-H5U1BtcMMIA.md) [https://www.youtube.com/watch?v=H5U1BtcMMIA](https://www.youtube.com/watch?v=H5U1BtcMMIA)
+
 ## September 6th, 2022 Livestream
 * [Q&A: Any plans to make the list of Alt Recipes available in the MAM?](../../../../transcriptions/yt-IGkYaXzS0S4.md) [https://www.youtube.com/watch?v=IGkYaXzS0S4](https://www.youtube.com/watch?v=IGkYaXzS0S4)
 

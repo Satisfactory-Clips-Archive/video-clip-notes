@@ -6,6 +6,12 @@ date: Last Modified
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Crafting](../../../topics/features/crafting.md) > Recipes
 * [Alternate Recipes](../../../topics/features/crafting/recipes/alternate-recipes.md)
 
+## September 13th, 2022 Livestream
+* [Q&A: How do you decide what gets an Alt Recipe, and are there any items that won't get one?](../../../transcriptions/yt-H5U1BtcMMIA.md) [https://www.youtube.com/watch?v=H5U1BtcMMIA](https://www.youtube.com/watch?v=H5U1BtcMMIA)
+* [Q&A: I'd like to see a rebalance so we're encouraged to automate each Tier instead of handcrafting?](../../../transcriptions/yt--mp-XYvQYWg.md) [https://www.youtube.com/watch?v=-mp-XYvQYWg](https://www.youtube.com/watch?v=-mp-XYvQYWg)
+* [Q&A: Random Recipes?](../../../transcriptions/yt-sXVq0fQ3EhE.md) [https://www.youtube.com/watch?v=sXVq0fQ3EhE](https://www.youtube.com/watch?v=sXVq0fQ3EhE)
+* [Q&A: Why do 1m Walls cost the same as 4m Walls?](../../../transcriptions/yt-5BFq4f1kS8Q.md) [https://www.youtube.com/watch?v=5BFq4f1kS8Q](https://www.youtube.com/watch?v=5BFq4f1kS8Q)
+
 ## August 30th, 2022 Livestream
 * [Q&A: Will you change the Uranium Fuel Rod Recipe using Beacons in Update 6?](../../../transcriptions/yt-SmzRbZ6_0CM.md) [https://www.youtube.com/watch?v=SmzRbZ6_0CM](https://www.youtube.com/watch?v=SmzRbZ6_0CM)
 * [Q&A: Will Experimental Recipes change in Update 6?](../../../transcriptions/yt-IzgA1OrdTTs.md) [https://www.youtube.com/watch?v=IzgA1OrdTTs](https://www.youtube.com/watch?v=IzgA1OrdTTs)

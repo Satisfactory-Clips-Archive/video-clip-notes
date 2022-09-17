@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > Possible Features > [DLC](../../../../topics/features/possible-features/dlc.md) > Toilet Paper DLC
 
+## September 13th, 2022 Livestream
+* [Community FYI: Tier 9 is Toilet Paper DLC](../../../../transcriptions/yt-7_A-p9HHM_g.md) [https://www.youtube.com/watch?v=7_A-p9HHM_g](https://www.youtube.com/watch?v=7_A-p9HHM_g)
+
 ## June 8th, 2021 Livestream
 * [Q&A: $1 Toilet Paper DLC?](../../../../transcriptions/yt-ekFl5tlk2ig.md) [https://www.youtube.com/watch?v=ekFl5tlk2ig](https://www.youtube.com/watch?v=ekFl5tlk2ig)
 

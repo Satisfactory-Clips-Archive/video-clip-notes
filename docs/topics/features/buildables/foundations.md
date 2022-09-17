@@ -7,6 +7,10 @@ date: Last Modified
 * [Cheatcrete](../../../topics/features/buildables/foundations/cheatcrete.md)
 * [Foundation Stencils](../../../topics/features/buildables/foundations/stencils.md)
 
+## September 13th, 2022 Livestream
+* [State of Dev](../../../transcriptions/yt-99II6zSq_J0.md) [https://www.youtube.com/watch?v=99II6zSq_J0](https://www.youtube.com/watch?v=99II6zSq_J0)
+* [Q&A: Glass building pieces?](../../../transcriptions/yt-BH3wrT7hmPI.md) [https://www.youtube.com/watch?v=BH3wrT7hmPI](https://www.youtube.com/watch?v=BH3wrT7hmPI)
+
 ## September 6th, 2022 Livestream
 * [State of Dev](../../../transcriptions/yt-hRN17cFJeRc.md) [https://www.youtube.com/watch?v=hRN17cFJeRc](https://www.youtube.com/watch?v=hRN17cFJeRc)
 * [Q&A: Half-Foundations?](../../../transcriptions/yt-uWzjA0DGAag.md) [https://www.youtube.com/watch?v=uWzjA0DGAag](https://www.youtube.com/watch?v=uWzjA0DGAag)

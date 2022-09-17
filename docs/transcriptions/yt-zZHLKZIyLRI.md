@@ -9,7 +9,7 @@ topics:
 # [February 8th, 2022 Livestream](../2022-02-08.md)
 ## Q&A: How many people work at your studio?
 https://www.youtube.com/watch?v=zZHLKZIyLRI
-This question was possibly duplicated with a more recent answer: [March 1st, 2022 Livestream Q&A: How many people are working on the game?](./yt-55pQn6DUgpM.md) [https://www.youtube.com/watch?v=55pQn6DUgpM](https://www.youtube.com/watch?v=55pQn6DUgpM)
+This question was possibly duplicated with a more recent answer: [September 13th, 2022 Livestream Q&A: How many devs are currently working on the game?](./yt--ZSeVyn-vME.md) [https://www.youtube.com/watch?v=-ZSeVyn-vME](https://www.youtube.com/watch?v=-ZSeVyn-vME)
 
 
 ### Topics

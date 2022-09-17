@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Mark
 
+## September 13th, 2022 Livestream
+* [Q&A: How do you decide what gets an Alt Recipe, and are there any items that won't get one?](../../transcriptions/yt-H5U1BtcMMIA.md) [https://www.youtube.com/watch?v=H5U1BtcMMIA](https://www.youtube.com/watch?v=H5U1BtcMMIA)
+
 ## July 5th, 2022 Livestream
 * [Q&A: How do you balance the nodes?](../../transcriptions/yt-vElxVdftU4Y.md) [https://www.youtube.com/watch?v=vElxVdftU4Y](https://www.youtube.com/watch?v=vElxVdftU4Y)
 

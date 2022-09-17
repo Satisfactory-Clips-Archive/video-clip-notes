@@ -8,7 +8,7 @@ topics:
 # [February 20th, 2019 Livestream](../2019-02-20.md)
 ## Q&A: Can we deform terrain?
 https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5141&end=5153
-This question was possibly duplicated with a more recent answer: [March 1st, 2022 Livestream Q&A: Terraforming?](./yt-WiOYOVygsJE.md) [https://www.youtube.com/watch?v=WiOYOVygsJE](https://www.youtube.com/watch?v=WiOYOVygsJE)
+This question was possibly duplicated with a more recent answer: [September 13th, 2022 Livestream Q&A: Any plans for terrain manipulation?](./yt-kEDg5KTxvQ4.md) [https://www.youtube.com/watch?v=kEDg5KTxvQ4](https://www.youtube.com/watch?v=kEDg5KTxvQ4)
 
 
 ### Topics

@@ -8,6 +8,11 @@ date: Last Modified
 * [Snutt Burger Time](../../topics/coffee-stainers/snutt/snutt-burger-time.md)
 * [Snutty Mays](../../topics/coffee-stainers/snutt/snutty-mays.md)
 
+## September 13th, 2022 Livestream
+* [Q&A: What do you enjoy most with your job?](../../transcriptions/yt-ajE3JZsNZ8Y.md) [https://www.youtube.com/watch?v=ajE3JZsNZ8Y](https://www.youtube.com/watch?v=ajE3JZsNZ8Y)
+* [Q&A: What is your actual opinion on Power Rangers?](../../transcriptions/yt-k0nNJMBxQ6Y.md) [https://www.youtube.com/watch?v=k0nNJMBxQ6Y](https://www.youtube.com/watch?v=k0nNJMBxQ6Y)
+* [Q&A: When are we going to get your long hair back?](../../transcriptions/yt-zEEnQSGZV1M.md) [https://www.youtube.com/watch?v=zEEnQSGZV1M](https://www.youtube.com/watch?v=zEEnQSGZV1M)
+
 ## September 6th, 2022 Livestream
 * [Q&A: Any plans to upgrade the capacity of tubes?](../../transcriptions/yt-NRklnGi8T-U.md) [https://www.youtube.com/watch?v=NRklnGi8T-U](https://www.youtube.com/watch?v=NRklnGi8T-U)
 * [Q&A: Has Snutt played Final Fantasy 14 on stream?](../../transcriptions/yt-cu7vBhrc6vU.md) [https://www.youtube.com/watch?v=cu7vBhrc6vU](https://www.youtube.com/watch?v=cu7vBhrc6vU)

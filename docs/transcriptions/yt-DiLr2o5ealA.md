@@ -8,7 +8,7 @@ topics:
 # [June 29th, 2021 Livestream](../2021-06-29.md)
 ## Q&A: Do you have plans for S.A.M. Ore?
 https://www.youtube.com/watch?v=DiLr2o5ealA
-This question was possibly duplicated with a more recent answer: [May 24th, 2022 Livestream Q&A: What's the future of S.A.M. Ore?](./yt-fU0zBoXfxRE.md) [https://www.youtube.com/watch?v=fU0zBoXfxRE](https://www.youtube.com/watch?v=fU0zBoXfxRE)
+This question was possibly duplicated with a more recent answer: [September 13th, 2022 Livestream Q&A: What Tier will S.A.M. Ore be used in ?](./yt-bWbC_aCpEXc.md) [https://www.youtube.com/watch?v=bWbC_aCpEXc](https://www.youtube.com/watch?v=bWbC_aCpEXc)
 
 
 ### Topics

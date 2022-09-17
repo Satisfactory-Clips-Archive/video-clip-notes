@@ -8,7 +8,7 @@ topics:
 # [February 15th, 2022 Livestream](../2022-02-15.md)
 ## Q&A: Elevators?
 https://www.youtube.com/watch?v=m-7bmrKMk5c
-This question was possibly duplicated with a more recent answer: [September 6th, 2022 Livestream Q&A: Elevator?](./yt-hJoX-1j4mG8.md) [https://www.youtube.com/watch?v=hJoX-1j4mG8](https://www.youtube.com/watch?v=hJoX-1j4mG8)
+This question was possibly duplicated with a more recent answer: [September 13th, 2022 Livestream Q&A: Will there be Elevators?](./yt-cxJXCwnSIEA.md) [https://www.youtube.com/watch?v=cxJXCwnSIEA](https://www.youtube.com/watch?v=cxJXCwnSIEA)
 
 
 ### Topics

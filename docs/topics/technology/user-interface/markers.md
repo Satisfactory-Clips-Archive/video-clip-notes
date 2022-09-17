@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Technology](../../../topics/technology.md) > [User Interface](../../../topics/technology/user-interface.md) > Markers
 
+## September 13th, 2022 Livestream
+* [Q&A: Any update to Map Markers on Dedicated Servers, right now they don't persist between sessions?](../../../transcriptions/yt-VP9w5CsV27Q.md) [https://www.youtube.com/watch?v=VP9w5CsV27Q](https://www.youtube.com/watch?v=VP9w5CsV27Q)
+
 ## June 14th, 2022 Livestream
 * [Tobias, Etienne, & Snutt Talk: Map changes](../../../transcriptions/yt-Z6bo0pjYghk,6289.66688,6373.193114.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=6289&end=6374](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=6289&end=6374)
 

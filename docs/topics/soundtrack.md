@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Soundtrack
 
+## September 13th, 2022 Livestream
+* [Q&A: What is this Deep Rock Galactic tape I've been hearing about?](../transcriptions/yt-d0FO6CwgWvw.md) [https://www.youtube.com/watch?v=d0FO6CwgWvw](https://www.youtube.com/watch?v=d0FO6CwgWvw)
+
 ## August 30th, 2022 Livestream
 * [Q&A: A vinyl record?](../transcriptions/yt-hpXprNBRjM8.md) [https://www.youtube.com/watch?v=hpXprNBRjM8](https://www.youtube.com/watch?v=hpXprNBRjM8)
 

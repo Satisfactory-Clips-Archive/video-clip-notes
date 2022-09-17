@@ -9,7 +9,7 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Are you guys planning to add any terraforming or digging?
 https://www.youtube.com/watch?v=DW0MT8G-wMI
-This question was possibly duplicated with a more recent answer: [March 1st, 2022 Livestream Q&A: Terraforming?](./yt-WiOYOVygsJE.md) [https://www.youtube.com/watch?v=WiOYOVygsJE](https://www.youtube.com/watch?v=WiOYOVygsJE)
+This question was possibly duplicated with a more recent answer: [September 13th, 2022 Livestream Q&A: Any plans for terrain manipulation?](./yt-kEDg5KTxvQ4.md) [https://www.youtube.com/watch?v=kEDg5KTxvQ4](https://www.youtube.com/watch?v=kEDg5KTxvQ4)
 
 
 ### Topics

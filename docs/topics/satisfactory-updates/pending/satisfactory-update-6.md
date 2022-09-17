@@ -5,6 +5,14 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Pending](../../../topics/satisfactory-updates/pending.md) > Satisfactory Update 6
 
+## September 13th, 2022 Livestream
+* [Q&A: Are you going to change the Recipes for Beacons?](../../../transcriptions/yt-4tCjpG1zJc0.md) [https://www.youtube.com/watch?v=4tCjpG1zJc0](https://www.youtube.com/watch?v=4tCjpG1zJc0)
+* [Q&A: How will Save files be impacted when Update 6 comes to Early Access?](../../../transcriptions/yt-HRMC8w8XgGI.md) [https://www.youtube.com/watch?v=HRMC8w8XgGI](https://www.youtube.com/watch?v=HRMC8w8XgGI)
+* [Q&A: What is this Deep Rock Galactic tape I've been hearing about?](../../../transcriptions/yt-d0FO6CwgWvw.md) [https://www.youtube.com/watch?v=d0FO6CwgWvw](https://www.youtube.com/watch?v=d0FO6CwgWvw)
+* [State of Dev](../../../transcriptions/yt-99II6zSq_J0.md) [https://www.youtube.com/watch?v=99II6zSq_J0](https://www.youtube.com/watch?v=99II6zSq_J0)
+* [Q&A: Will we still have an Experimental build?](../../../transcriptions/yt-qkOyDnplGUA.md) [https://www.youtube.com/watch?v=qkOyDnplGUA](https://www.youtube.com/watch?v=qkOyDnplGUA)
+* [Q&A: Update 6 stream?](../../../transcriptions/yt-zt73JjyNuUg.md) [https://www.youtube.com/watch?v=zt73JjyNuUg](https://www.youtube.com/watch?v=zt73JjyNuUg)
+
 ## September 6th, 2022 Livestream
 * [State of Dev](../../../transcriptions/yt-hRN17cFJeRc.md) [https://www.youtube.com/watch?v=hRN17cFJeRc](https://www.youtube.com/watch?v=hRN17cFJeRc)
 * [Q&A: Experimental on GeForce Now?](../../../transcriptions/yt---jwCj0yQak.md) [https://www.youtube.com/watch?v=--jwCj0yQak](https://www.youtube.com/watch?v=--jwCj0yQak)

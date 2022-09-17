@@ -11,6 +11,8 @@ topics:
 # [August 24th, 2021 Livestream](../2021-08-24.md)
 ## Q&A: Copy/paste settings from Miners, Fluid Extractors, Power Plants, when?
 https://www.youtube.com/watch?v=4cmv1GtvB18
+This question was possibly replaced with a more recent answer: [September 13th, 2022 Livestream Q&A: Will there ever be a copy/paste function?](./yt-g7XsoXJFnN8.md) [https://www.youtube.com/watch?v=g7XsoXJFnN8](https://www.youtube.com/watch?v=g7XsoXJFnN8)
+
 
 ### Topics
 * [Features > Buildings > Miner](../topics/features/buildings/miner.md)

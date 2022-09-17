@@ -7,6 +7,11 @@ date: Last Modified
 * [EU Merch Store](../topics/merch/eu-merch-store.md)
 * [Merch Prototypes](../topics/merch/merch-prototypes.md)
 
+## September 13th, 2022 Livestream
+* [State of Dev](../transcriptions/yt-99II6zSq_J0.md) [https://www.youtube.com/watch?v=99II6zSq_J0](https://www.youtube.com/watch?v=99II6zSq_J0)
+* [Community FYI: Don't forget, UK customers have to pay duties on delivery](../transcriptions/yt-D7XvVyOdshw.md) [https://www.youtube.com/watch?v=D7XvVyOdshw](https://www.youtube.com/watch?v=D7XvVyOdshw)
+* [Q&A: Where can I buy the helmet?](../transcriptions/yt-bLJNYYPCihY.md) [https://www.youtube.com/watch?v=bLJNYYPCihY](https://www.youtube.com/watch?v=bLJNYYPCihY)
+
 ## September 6th, 2022 Livestream
 * [Q&A: What happened to the Lego thing?](../transcriptions/yt-1X9wJm6Qfco.md) [https://www.youtube.com/watch?v=1X9wJm6Qfco](https://www.youtube.com/watch?v=1X9wJm6Qfco)
 

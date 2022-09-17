@@ -9,7 +9,7 @@ topics:
 # [March 23rd, 2021 Livestream](../2021-03-23.md)
 ## Q&A: How about Train Elevators?
 https://www.youtube.com/watch?v=OsGX9e5N9wk
-This question was possibly duplicated with a more recent answer: [September 6th, 2022 Livestream Q&A: Elevator?](./yt-hJoX-1j4mG8.md) [https://www.youtube.com/watch?v=hJoX-1j4mG8](https://www.youtube.com/watch?v=hJoX-1j4mG8)
+This question was possibly duplicated with a more recent answer: [September 13th, 2022 Livestream Q&A: Will there be Elevators?](./yt-cxJXCwnSIEA.md) [https://www.youtube.com/watch?v=cxJXCwnSIEA](https://www.youtube.com/watch?v=cxJXCwnSIEA)
 
 
 ### Topics

@@ -8,7 +8,7 @@ topics:
 # [January 25th, 2022 Livestream](../2022-01-25.md)
 ## Q&A: Have you told what S.A.M. Ore stands for?
 https://www.youtube.com/watch?v=bp9bhL_WoQk
-This question was possibly duplicated with a more recent answer: [May 24th, 2022 Livestream Q&A: What's the future of S.A.M. Ore?](./yt-fU0zBoXfxRE.md) [https://www.youtube.com/watch?v=fU0zBoXfxRE](https://www.youtube.com/watch?v=fU0zBoXfxRE)
+This question was possibly duplicated with a more recent answer: [September 13th, 2022 Livestream Q&A: What Tier will S.A.M. Ore be used in ?](./yt-bWbC_aCpEXc.md) [https://www.youtube.com/watch?v=bWbC_aCpEXc](https://www.youtube.com/watch?v=bWbC_aCpEXc)
 
 
 ### Topics

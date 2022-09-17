@@ -41,6 +41,9 @@ date: Last Modified
 * [Torsten](../topics/coffee-stainers/torsten.md)
 * [Uzu](../topics/coffee-stainers/uzu.md)
 
+## September 13th, 2022 Livestream
+* [Q&A: How many devs are currently working on the game?](../transcriptions/yt--ZSeVyn-vME.md) [https://www.youtube.com/watch?v=-ZSeVyn-vME](https://www.youtube.com/watch?v=-ZSeVyn-vME)
+
 ## July 12th, 2022 Livestream
 * Q&A: Who made the Stingers and why haven't they been fired yet? [https://www.youtube.com/watch?v=w6W7UC6T8ys](https://www.youtube.com/watch?v=w6W7UC6T8ys)
 

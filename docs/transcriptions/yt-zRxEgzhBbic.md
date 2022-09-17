@@ -8,6 +8,8 @@ topics:
 # [September 28th, 2021 Livestream](../2021-09-28.md)
 ## Q&A: Do you take your Community Highlights only from Reddit?
 https://www.youtube.com/watch?v=zRxEgzhBbic
+This question was possibly duplicated with a more recent answer: [September 13th, 2022 Livestream Q&A: How do we get creations in the Community Highlights?](./yt-OingyI8ycfY.md) [https://www.youtube.com/watch?v=OingyI8ycfY](https://www.youtube.com/watch?v=OingyI8ycfY)
+
 
 ### Topics
 * [Community > Community Highlights](../topics/community/community-highlights.md)

@@ -8,7 +8,7 @@ topics:
 # [February 6th, 2019 Livestream](../2019-02-06.md)
 ## Q&A: Localisation support?
 https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1398&end=1430
-This question was possibly duplicated with a more recent answer: July 12th, 2022 Livestream Q&A: How do you translate the game? [https://www.youtube.com/watch?v=NbQXHy41U-U](https://www.youtube.com/watch?v=NbQXHy41U-U)
+This question was possibly duplicated with a more recent answer: [September 13th, 2022 Livestream Q&A: Where can I get in touch with someone to help translating the game?](./yt-K0tOZpBfnsk.md) [https://www.youtube.com/watch?v=K0tOZpBfnsk](https://www.youtube.com/watch?v=K0tOZpBfnsk)
 
 
 ### Topics

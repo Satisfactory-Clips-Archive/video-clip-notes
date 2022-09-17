@@ -5,6 +5,12 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Embracer Group](../../../topics/embracer-group.md) > Coffee Stain Holding > Coffee Stain Studios
 
+## September 13th, 2022 Livestream
+* [Q&A: How many devs are currently working on the game?](../../../transcriptions/yt--ZSeVyn-vME.md) [https://www.youtube.com/watch?v=-ZSeVyn-vME](https://www.youtube.com/watch?v=-ZSeVyn-vME)
+* [Q&A: What source control do you use?](../../../transcriptions/yt-HkZJ2CyZ2ao.md) [https://www.youtube.com/watch?v=HkZJ2CyZ2ao](https://www.youtube.com/watch?v=HkZJ2CyZ2ao)
+* [Q&A: What do you enjoy most with your job?](../../../transcriptions/yt-ajE3JZsNZ8Y.md) [https://www.youtube.com/watch?v=ajE3JZsNZ8Y](https://www.youtube.com/watch?v=ajE3JZsNZ8Y)
+* [Q&A: Why can't I subscribe to you with my Prime sub to support you?](../../../transcriptions/yt-jyJtvoO3Xrk.md) [https://www.youtube.com/watch?v=jyJtvoO3Xrk](https://www.youtube.com/watch?v=jyJtvoO3Xrk)
+
 ## August 23rd, 2022 Livestream
 * [Snutt Talk: TwitchCon Amsterdam 2022 & coming back from vacation](../../../transcriptions/yt-DNuJ364UwjI.md) [https://www.youtube.com/watch?v=DNuJ364UwjI](https://www.youtube.com/watch?v=DNuJ364UwjI)
 * [Q&A: Is the office buzzing again?](../../../transcriptions/yt-YonSJNSOB0o.md) [https://www.youtube.com/watch?v=YonSJNSOB0o](https://www.youtube.com/watch?v=YonSJNSOB0o)

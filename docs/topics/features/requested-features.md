@@ -12,6 +12,22 @@ date: Last Modified
 * [Pollution](../../topics/features/requested-features/pollution.md)
 * [Third-person View](../../topics/features/requested-features/third-person-view.md)
 
+## September 13th, 2022 Livestream
+* [Q&A: Autosave notification for Dedicated Servers?](../../transcriptions/yt-1Aq-thZx5dc.md) [https://www.youtube.com/watch?v=1Aq-thZx5dc](https://www.youtube.com/watch?v=1Aq-thZx5dc)
+* [Q&A: I'd like to see a rebalance so we're encouraged to automate each Tier instead of handcrafting?](../../transcriptions/yt--mp-XYvQYWg.md) [https://www.youtube.com/watch?v=-mp-XYvQYWg](https://www.youtube.com/watch?v=-mp-XYvQYWg)
+* [Q&A: Powered Splitter that can turn off Conveyor Belts?](../../transcriptions/yt-AbPf5coA45I.md) [https://www.youtube.com/watch?v=AbPf5coA45I](https://www.youtube.com/watch?v=AbPf5coA45I)
+* [Q&A: Smart compartments so you can transfer the exact same amount of items each time?](../../transcriptions/yt-VklHPvEErYY.md) [https://www.youtube.com/watch?v=VklHPvEErYY](https://www.youtube.com/watch?v=VklHPvEErYY)
+* [Q&A: Glass building pieces?](../../transcriptions/yt-BH3wrT7hmPI.md) [https://www.youtube.com/watch?v=BH3wrT7hmPI](https://www.youtube.com/watch?v=BH3wrT7hmPI)
+* [Q&A: Random Recipes?](../../transcriptions/yt-sXVq0fQ3EhE.md) [https://www.youtube.com/watch?v=sXVq0fQ3EhE](https://www.youtube.com/watch?v=sXVq0fQ3EhE)
+* [Q&A: Smaller ceiling Lights?](../../transcriptions/yt-OOalQW-Vsac.md) [https://www.youtube.com/watch?v=OOalQW-Vsac](https://www.youtube.com/watch?v=OOalQW-Vsac)
+* [Q&A: Where can I buy the helmet?](../../transcriptions/yt-bLJNYYPCihY.md) [https://www.youtube.com/watch?v=bLJNYYPCihY](https://www.youtube.com/watch?v=bLJNYYPCihY)
+* [Q&A: Custom Map support?](../../transcriptions/yt-iKLjt35zvEU.md) [https://www.youtube.com/watch?v=iKLjt35zvEU](https://www.youtube.com/watch?v=iKLjt35zvEU)
+* [Q&A: Any plans on simplifying late-game factories?](../../transcriptions/yt-iFQb9_j7jMY.md) [https://www.youtube.com/watch?v=iFQb9_j7jMY](https://www.youtube.com/watch?v=iFQb9_j7jMY)
+* [Q&A: Can we get radial menus for the Hotbar?](../../transcriptions/yt-js-UApdZleU.md) [https://www.youtube.com/watch?v=js-UApdZleU](https://www.youtube.com/watch?v=js-UApdZleU)
+* [Q&A: Can we get a flat version of the Wall with a smooth side?](../../transcriptions/yt-2U8TQZMdKvY.md) [https://www.youtube.com/watch?v=2U8TQZMdKvY](https://www.youtube.com/watch?v=2U8TQZMdKvY)
+* [Q&A: Limit max storage?](../../transcriptions/yt--gBrfcaR1Qs.md) [https://www.youtube.com/watch?v=-gBrfcaR1Qs](https://www.youtube.com/watch?v=-gBrfcaR1Qs)
+* [Q&A: Are you going to add Half-Wall pieces?](../../transcriptions/yt-rYX0U6rnTtA.md) [https://www.youtube.com/watch?v=rYX0U6rnTtA](https://www.youtube.com/watch?v=rYX0U6rnTtA)
+
 ## September 6th, 2022 Livestream
 * [Q&A: Horizontal half-walls?](../../transcriptions/yt-S8T80EDvfpE.md) [https://www.youtube.com/watch?v=S8T80EDvfpE](https://www.youtube.com/watch?v=S8T80EDvfpE)
 * [Q&A: Experimental on GeForce Now?](../../transcriptions/yt---jwCj0yQak.md) [https://www.youtube.com/watch?v=--jwCj0yQak](https://www.youtube.com/watch?v=--jwCj0yQak)

@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Equipment](../../../topics/features/equipment.md) > Beacon
 
+## September 13th, 2022 Livestream
+* [Q&A: Are you going to change the Recipes for Beacons?](../../../transcriptions/yt-4tCjpG1zJc0.md) [https://www.youtube.com/watch?v=4tCjpG1zJc0](https://www.youtube.com/watch?v=4tCjpG1zJc0)
+* [Q&A: How will Save files be impacted when Update 6 comes to Early Access?](../../../transcriptions/yt-HRMC8w8XgGI.md) [https://www.youtube.com/watch?v=HRMC8w8XgGI](https://www.youtube.com/watch?v=HRMC8w8XgGI)
+
 ## August 30th, 2022 Livestream
 * [Q&A: Will you change the Uranium Fuel Rod Recipe using Beacons in Update 6?](../../../transcriptions/yt-SmzRbZ6_0CM.md) [https://www.youtube.com/watch?v=SmzRbZ6_0CM](https://www.youtube.com/watch?v=SmzRbZ6_0CM)
 

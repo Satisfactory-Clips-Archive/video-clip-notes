@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Merch](../../topics/merch.md) > EU Merch Store
 
+## September 13th, 2022 Livestream
+* [State of Dev](../../transcriptions/yt-99II6zSq_J0.md) [https://www.youtube.com/watch?v=99II6zSq_J0](https://www.youtube.com/watch?v=99II6zSq_J0)
+* [Community FYI: Don't forget, UK customers have to pay duties on delivery](../../transcriptions/yt-D7XvVyOdshw.md) [https://www.youtube.com/watch?v=D7XvVyOdshw](https://www.youtube.com/watch?v=D7XvVyOdshw)
+
 ## June 28th, 2022 Livestream
 * [Snutt Talk: Merch Update](../../transcriptions/yt-YrkuyDGOkF4.md) [https://www.youtube.com/watch?v=YrkuyDGOkF4](https://www.youtube.com/watch?v=YrkuyDGOkF4)
 

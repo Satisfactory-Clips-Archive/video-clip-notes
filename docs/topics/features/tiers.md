@@ -16,6 +16,10 @@ date: Last Modified
 * [Tier 9](../../topics/features/tiers/tier-9.md)
 * [Tier 10](../../topics/features/tiers/tier-10.md)
 
+## September 13th, 2022 Livestream
+* [Q&A: New Research or new Tiers, what is more likely to be added?](../../transcriptions/yt-LHjVbyrdBlM.md) [https://www.youtube.com/watch?v=LHjVbyrdBlM](https://www.youtube.com/watch?v=LHjVbyrdBlM)
+* [Q&A: What Tier will S.A.M. Ore be used in ?](../../transcriptions/yt-bWbC_aCpEXc.md) [https://www.youtube.com/watch?v=bWbC_aCpEXc](https://www.youtube.com/watch?v=bWbC_aCpEXc)
+
 ## September 6th, 2022 Livestream
 * [Q&A: Will late-game be addressed, like after the last phase of the Project?](../../transcriptions/yt-R4O7A7zk0wY.md) [https://www.youtube.com/watch?v=R4O7A7zk0wY](https://www.youtube.com/watch?v=R4O7A7zk0wY)
 

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Creatures](../../../topics/environment/creatures.md) > Non Flying Bird
 
+## September 13th, 2022 Livestream
+* [Q&A: Any plans for changes with the weird little green bird?](../../../transcriptions/yt-VUKg7QyafB4.md) [https://www.youtube.com/watch?v=VUKg7QyafB4](https://www.youtube.com/watch?v=VUKg7QyafB4)
+
 ## June 15th, 2021 Livestream
 * [Q&A: Will parrots evolve into Giant Crabs after being too many times?](../../../transcriptions/yt-okxhWx00LxE.md) [https://www.youtube.com/watch?v=okxhWx00LxE](https://www.youtube.com/watch?v=okxhWx00LxE)
 

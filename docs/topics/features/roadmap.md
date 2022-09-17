@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Features](../../topics/features.md) > Roadmap
 
+## September 13th, 2022 Livestream
+* [Q&A: Do you have a complete roadmap of features until 1.0?](../../transcriptions/yt-nkJSR99P90E.md) [https://www.youtube.com/watch?v=nkJSR99P90E](https://www.youtube.com/watch?v=nkJSR99P90E)
+
 ## March 22nd, 2022 Livestream
 * [Q&A: How long is the Roadmap to full release?](../../transcriptions/yt-yPcySE_Bma0.md) [https://www.youtube.com/watch?v=yPcySE_Bma0](https://www.youtube.com/watch?v=yPcySE_Bma0)
 

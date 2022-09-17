@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Unplanned Features](../../../topics/features/unplanned-features.md) > Space Exploration
 
+## September 13th, 2022 Livestream
+* [Q&A: Just saw the moon for the first time, can I go there?](../../../transcriptions/yt-V43r2XBqa6I.md) [https://www.youtube.com/watch?v=V43r2XBqa6I](https://www.youtube.com/watch?v=V43r2XBqa6I)
+
 ## July 5th, 2022 Livestream
 * [Q&A: Will Modders be able to add new planets / Maps?](../../../transcriptions/yt-82NtL0BMKMM.md) [https://www.youtube.com/watch?v=82NtL0BMKMM](https://www.youtube.com/watch?v=82NtL0BMKMM)
 

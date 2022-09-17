@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Features](../../topics/features.md) > Pioneer
 
+## September 13th, 2022 Livestream
+* [Q&A: Where can I buy the helmet?](../../transcriptions/yt-bLJNYYPCihY.md) [https://www.youtube.com/watch?v=bLJNYYPCihY](https://www.youtube.com/watch?v=bLJNYYPCihY)
+
 ## August 30th, 2022 Livestream
 * [Q&A: Any plans for letting players dive underwater?](../../transcriptions/yt-2sMDsApY6Bs.md) [https://www.youtube.com/watch?v=2sMDsApY6Bs](https://www.youtube.com/watch?v=2sMDsApY6Bs)
 * [Q&A: Any plans for environmental storytelling about the other Pioneers that came before?](../../transcriptions/yt-SzmiFF1KLEY.md) [https://www.youtube.com/watch?v=SzmiFF1KLEY](https://www.youtube.com/watch?v=SzmiFF1KLEY)

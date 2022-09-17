@@ -8,7 +8,7 @@ topics:
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Q&A: How many developers are working on Satisfactory?
 https://www.youtube.com/watch?v=ihx35AYNx5s
-This question was possibly duplicated with a more recent answer: [March 1st, 2022 Livestream Q&A: How many people are working on the game?](./yt-55pQn6DUgpM.md) [https://www.youtube.com/watch?v=55pQn6DUgpM](https://www.youtube.com/watch?v=55pQn6DUgpM)
+This question was possibly duplicated with a more recent answer: [September 13th, 2022 Livestream Q&A: How many devs are currently working on the game?](./yt--ZSeVyn-vME.md) [https://www.youtube.com/watch?v=-ZSeVyn-vME](https://www.youtube.com/watch?v=-ZSeVyn-vME)
 
 
 ### Topics

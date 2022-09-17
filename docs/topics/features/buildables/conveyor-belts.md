@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildables](../../../topics/features/buildables.md) > Conveyor Belts
 
+## September 13th, 2022 Livestream
+* [Q&A: Powered Splitter that can turn off Conveyor Belts?](../../../transcriptions/yt-AbPf5coA45I.md) [https://www.youtube.com/watch?v=AbPf5coA45I](https://www.youtube.com/watch?v=AbPf5coA45I)
+
 ## September 6th, 2022 Livestream
 * [Q&A: Mk.6 Conveyor Belts?](../../../transcriptions/yt-5kppmSyt6_E.md) [https://www.youtube.com/watch?v=5kppmSyt6_E](https://www.youtube.com/watch?v=5kppmSyt6_E)
 

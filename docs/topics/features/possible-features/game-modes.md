@@ -8,6 +8,9 @@ date: Last Modified
 * [Creative Mode](../../../topics/features/possible-features/game-modes/creative-mode.md)
 * [Peaceful Mode](../../../topics/features/possible-features/game-modes/peaceful-mode.md)
 
+## September 13th, 2022 Livestream
+* [Q&A: Random Recipes?](../../../transcriptions/yt-sXVq0fQ3EhE.md) [https://www.youtube.com/watch?v=sXVq0fQ3EhE](https://www.youtube.com/watch?v=sXVq0fQ3EhE)
+
 ## August 30th, 2022 Livestream
 * [Community FYI: Current Experimental is too easy, survival is trivial](../../../transcriptions/yt-TZ18kw4Ks3Q.md) [https://www.youtube.com/watch?v=TZ18kw4Ks3Q](https://www.youtube.com/watch?v=TZ18kw4Ks3Q)
 * [Q&A: Permadeath?](../../../transcriptions/yt-_BU-t6yfoYY.md) [https://www.youtube.com/watch?v=_BU-t6yfoYY](https://www.youtube.com/watch?v=_BU-t6yfoYY)

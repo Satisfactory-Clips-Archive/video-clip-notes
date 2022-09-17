@@ -9,6 +9,8 @@ topics:
 # [February 22nd, 2022 Livestream](../2022-02-22.md)
 ## Q&A: Smaller ceiling factory Lights?
 https://www.youtube.com/watch?v=gTrZzs13bbA
+This question was possibly duplicated with a more recent answer: [September 13th, 2022 Livestream Q&A: Smaller ceiling Lights?](./yt-OOalQW-Vsac.md) [https://www.youtube.com/watch?v=OOalQW-Vsac](https://www.youtube.com/watch?v=OOalQW-Vsac)
+
 
 ### Topics
 * [Features > Buildables > Lights](../topics/features/buildables/lights.md)

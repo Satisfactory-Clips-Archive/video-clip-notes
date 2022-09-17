@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Multiplayer](../../../topics/features/multiplayer.md) > Dedicated Servers
 
+## September 13th, 2022 Livestream
+* [Q&A: Autosave notification for Dedicated Servers?](../../../transcriptions/yt-1Aq-thZx5dc.md) [https://www.youtube.com/watch?v=1Aq-thZx5dc](https://www.youtube.com/watch?v=1Aq-thZx5dc)
+* [Q&A: Any update to Map Markers on Dedicated Servers, right now they don't persist between sessions?](../../../transcriptions/yt-VP9w5CsV27Q.md) [https://www.youtube.com/watch?v=VP9w5CsV27Q](https://www.youtube.com/watch?v=VP9w5CsV27Q)
+
 ## September 6th, 2022 Livestream
 * [Q&A: Status on Dedicated Server issues?](../../../transcriptions/yt-9w8y4G151Kw.md) [https://www.youtube.com/watch?v=9w8y4G151Kw](https://www.youtube.com/watch?v=9w8y4G151Kw)
 * [Snutt Talk: Multiplayer networking](../../../transcriptions/yt-PWA9BHfeOhY.md) [https://www.youtube.com/watch?v=PWA9BHfeOhY](https://www.youtube.com/watch?v=PWA9BHfeOhY)

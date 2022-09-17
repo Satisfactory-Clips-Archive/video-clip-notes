@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > [Power Management](../../../../topics/features/power-management.md) > [Nuclear Energy](../../../../topics/features/power-management/nuclear-energy.md) > Nuclear Refinement
 
+## September 13th, 2022 Livestream
+* [Q&A: Any plans on simplifying late-game factories?](../../../../transcriptions/yt-iFQb9_j7jMY.md) [https://www.youtube.com/watch?v=iFQb9_j7jMY](https://www.youtube.com/watch?v=iFQb9_j7jMY)
+
 ## August 30th, 2022 Livestream
 * [Q&A: Will you change the Uranium Fuel Rod Recipe using Beacons in Update 6?](../../../../transcriptions/yt-SmzRbZ6_0CM.md) [https://www.youtube.com/watch?v=SmzRbZ6_0CM](https://www.youtube.com/watch?v=SmzRbZ6_0CM)
 

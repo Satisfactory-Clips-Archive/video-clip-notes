@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Tiers](../../../topics/features/tiers.md) > Tier 10
 
+## September 13th, 2022 Livestream
+* [Q&A: Will there be Tier 9 & 10?](../../../transcriptions/yt-Pwbhu0Xdipk.md) [https://www.youtube.com/watch?v=Pwbhu0Xdipk](https://www.youtube.com/watch?v=Pwbhu0Xdipk)
+
 ## September 6th, 2022 Livestream
 * [Q&A: Tiers 9 & 10 in 1.0?](../../../transcriptions/yt-WMBO7p2n6DQ.md) [https://www.youtube.com/watch?v=WMBO7p2n6DQ](https://www.youtube.com/watch?v=WMBO7p2n6DQ)
 

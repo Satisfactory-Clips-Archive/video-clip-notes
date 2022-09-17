@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Creatures](../../../topics/environment/creatures.md) > Space Giraffe-Tick-Penguin-Whale Thing
 
+## September 13th, 2022 Livestream
+* [Q&A: Space-Giraffe burgers?](../../../transcriptions/yt-AbXttpJj74M.md) [https://www.youtube.com/watch?v=AbXttpJj74M](https://www.youtube.com/watch?v=AbXttpJj74M)
+
 ## May 13th, 2022 Video
 * [Changes to the Resource Scanner compass Marker](../../../transcriptions/yt-2vAUX3YLH-c,708.4410666666666,779.5788.md) [https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=708&end=780](https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=708&end=780)
 

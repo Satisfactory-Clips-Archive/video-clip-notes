@@ -9,6 +9,12 @@ date: Last Modified
 * [Ping](../../topics/technology/user-interface/ping.md)
 * [Stamps](../../topics/technology/user-interface/stamps.md)
 
+## September 13th, 2022 Livestream
+* [Q&A: Autosave notification for Dedicated Servers?](../../transcriptions/yt-1Aq-thZx5dc.md) [https://www.youtube.com/watch?v=1Aq-thZx5dc](https://www.youtube.com/watch?v=1Aq-thZx5dc)
+* [Q&A: Can we get radial menus for the Hotbar?](../../transcriptions/yt-js-UApdZleU.md) [https://www.youtube.com/watch?v=js-UApdZleU](https://www.youtube.com/watch?v=js-UApdZleU)
+* [Q&A: Will there ever be a copy/paste function?](../../transcriptions/yt-g7XsoXJFnN8.md) [https://www.youtube.com/watch?v=g7XsoXJFnN8](https://www.youtube.com/watch?v=g7XsoXJFnN8)
+* [Q&A: Why is there a previous Hotbar binding but not a next Hotbar binding?](../../transcriptions/yt-9gXCsb4i8kk.md) [https://www.youtube.com/watch?v=9gXCsb4i8kk](https://www.youtube.com/watch?v=9gXCsb4i8kk)
+
 ## September 6th, 2022 Livestream
 * [Q&A: Option to disable monsters attacking notification?](../../transcriptions/yt-Xmosps_8mVQ.md) [https://www.youtube.com/watch?v=Xmosps_8mVQ](https://www.youtube.com/watch?v=Xmosps_8mVQ)
 

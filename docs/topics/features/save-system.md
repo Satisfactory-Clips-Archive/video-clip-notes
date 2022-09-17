@@ -7,6 +7,9 @@ date: Last Modified
 * [Autosave](../../topics/features/save-system/autosave.md)
 * [Cloud Sync](../../topics/features/save-system/cloud-sync.md)
 
+## September 13th, 2022 Livestream
+* [Q&A: How will Save files be impacted when Update 6 comes to Early Access?](../../transcriptions/yt-HRMC8w8XgGI.md) [https://www.youtube.com/watch?v=HRMC8w8XgGI](https://www.youtube.com/watch?v=HRMC8w8XgGI)
+
 ## August 30th, 2022 Livestream
 * [Q&A: Do I need to back up my saves if I change from Experimental back to EA?](../../transcriptions/yt-n8-u6NP48xM.md) [https://www.youtube.com/watch?v=n8-u6NP48xM](https://www.youtube.com/watch?v=n8-u6NP48xM)
 
