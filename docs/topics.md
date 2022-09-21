@@ -226,6 +226,7 @@ date: Last Modified
 ## [Equipment](./topics/features/equipment.md)
 * [Beacon](./topics/features/equipment/beacon.md)
 * [Blade Runners](./topics/features/equipment/blade-runners.md)
+* [Boombox](./topics/features/equipment/boombox.md)
 * [Chainsaw](./topics/features/equipment/chainsaw.md)
 * [Color Gun](./topics/features/equipment/color-gun.md)
 * [Cup](./topics/features/equipment/cup.md)
