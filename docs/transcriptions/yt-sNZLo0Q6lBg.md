@@ -3,7 +3,7 @@ title: "September 14th, 2021 Livestream Q&A: Have you considered adding Weather 
 date: "2021-09-14"
 layout: transcript
 topics:
-    - "features/possible-features/weather-systems"
+    - "environment/weather-systems"
 ---
 # [September 14th, 2021 Livestream](../2021-09-14.md)
 ## Q&A: Have you considered adding Weather effects to the game?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: [March 1st, 202
 
 
 ### Topics
-* [Features > Possible Features > Weather Systems](../topics/features/possible-features/weather-systems.md)
+* [Environment > Weather Systems](../topics/environment/weather-systems.md)
 
 ### Transcript
 

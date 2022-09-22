@@ -9,6 +9,7 @@ date: Last Modified
 * [Plants](../topics/environment/plants.md)
 * [Resource Wells](../topics/environment/resource-wells.md)
 * [Resources](../topics/environment/resources.md)
+* [Weather Systems](../topics/environment/weather-systems.md)
 * [World Map](../topics/environment/world-map.md)
 
 ## August 30th, 2022 Livestream

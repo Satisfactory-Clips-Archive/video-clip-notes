@@ -3,7 +3,7 @@ title: "April 21st, 2022 Satisfactory x Portal Bonus Stream Q&A: I thought the l
 date: "2022-04-21"
 layout: transcript
 topics:
-    - "features/possible-features/weather-systems"
+    - "environment/weather-systems"
     - "satisfactory-updates/released/satisfactory-update-6"
 ---
 # [April 21st, 2022 Satisfactory x Portal Bonus Stream](../2022-04-21.md)
@@ -11,7 +11,7 @@ topics:
 https://www.youtube.com/watch?v=CM3yWyHEU3Q
 
 ### Topics
-* [Features > Possible Features > Weather Systems](../topics/features/possible-features/weather-systems.md)
+* [Environment > Weather Systems](../topics/environment/weather-systems.md)
 * [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 
 ### Transcript

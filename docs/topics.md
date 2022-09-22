@@ -101,6 +101,7 @@ date: Last Modified
 # [Environment](./topics/environment.md)
 * [Plants](./topics/environment/plants.md)
 * [Resource Wells](./topics/environment/resource-wells.md)
+* [Weather Systems](./topics/environment/weather-systems.md)
 * [World Map](./topics/environment/world-map.md)
 
 ## [Biomes](./topics/environment/biomes.md)
@@ -264,7 +265,6 @@ date: Last Modified
 * [Decor](./topics/features/possible-features/decor.md)
 * [Farming](./topics/features/possible-features/farming.md)
 * [Underground Biome](./topics/features/possible-features/underground-biome.md)
-* [Weather Systems](./topics/features/possible-features/weather-systems.md)
 
 ### [DLC](./topics/features/possible-features/dlc.md)
 * [Flushable Toilet DLC](./topics/features/possible-features/dlc/flushable-toilet-dlc.md)

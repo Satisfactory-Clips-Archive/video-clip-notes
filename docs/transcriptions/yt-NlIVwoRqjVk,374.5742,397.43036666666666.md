@@ -3,7 +3,7 @@ title: "May 15th, 2020 Q&A Q&A: Will there be weather changes?"
 date: "2020-05-15"
 layout: transcript
 topics:
-    - "features/possible-features/weather-systems"
+    - "environment/weather-systems"
 ---
 # [May 15th, 2020 Q&A](../2020-05-15.md)
 ## Q&A: Will there be weather changes?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: [March 1st, 202
 
 
 ### Topics
-* [Features > Possible Features > Weather Systems](../topics/features/possible-features/weather-systems.md)
+* [Environment > Weather Systems](../topics/environment/weather-systems.md)
 
 ### Transcript
 

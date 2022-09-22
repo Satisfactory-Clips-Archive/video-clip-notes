@@ -3,7 +3,7 @@ title: "July 6th, 2021 Livestream Q&A: Will you be adding Weather Systems?"
 date: "2021-07-06"
 layout: transcript
 topics:
-    - "features/possible-features/weather-systems"
+    - "environment/weather-systems"
 ---
 # [July 6th, 2021 Livestream](../2021-07-06.md)
 ## Q&A: Will you be adding Weather Systems?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: [March 1st, 202
 
 
 ### Topics
-* [Features > Possible Features > Weather Systems](../topics/features/possible-features/weather-systems.md)
+* [Environment > Weather Systems](../topics/environment/weather-systems.md)
 
 ### Transcript
 

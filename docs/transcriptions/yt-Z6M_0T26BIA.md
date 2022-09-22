@@ -5,10 +5,10 @@ layout: transcript
 topics:
     - "environment/creatures"
     - "environment/resources"
+    - "environment/weather-systems"
     - "features/buildings/radar-tower"
     - "features/equipment"
     - "features/equipment/beacon"
-    - "features/possible-features/weather-systems"
     - "features/requested-features"
     - "news"
     - "satisfactory-updates/released/satisfactory-update-6"
@@ -25,10 +25,10 @@ https://www.youtube.com/watch?v=Z6M_0T26BIA
 ### Topics
 * [Environment > Creatures](../topics/environment/creatures.md)
 * [Environment > Resources](../topics/environment/resources.md)
+* [Environment > Weather Systems](../topics/environment/weather-systems.md)
 * [Features > Buildings > Radar Tower](../topics/features/buildings/radar-tower.md)
 * [Features > Equipment](../topics/features/equipment.md)
 * [Features > Equipment > Beacon](../topics/features/equipment/beacon.md)
-* [Features > Possible Features > Weather Systems](../topics/features/possible-features/weather-systems.md)
 * [Features > Requested Features](../topics/features/requested-features.md)
 * [News](../topics/news.md)
 * [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)

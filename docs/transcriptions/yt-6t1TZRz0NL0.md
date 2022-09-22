@@ -4,8 +4,8 @@ date: "2022-07-05"
 layout: transcript
 topics:
     - "environment/plants"
+    - "environment/weather-systems"
     - "features/possible-features/farming"
-    - "features/possible-features/weather-systems"
     - "features/requested-features"
 ---
 # [July 5th, 2022 Livestream](../2022-07-05.md)
@@ -14,8 +14,8 @@ https://www.youtube.com/watch?v=6t1TZRz0NL0
 
 ### Topics
 * [Environment > Plants](../topics/environment/plants.md)
+* [Environment > Weather Systems](../topics/environment/weather-systems.md)
 * [Features > Possible Features > Farming](../topics/features/possible-features/farming.md)
-* [Features > Possible Features > Weather Systems](../topics/features/possible-features/weather-systems.md)
 * [Features > Requested Features](../topics/features/requested-features.md)
 
 ### Transcript

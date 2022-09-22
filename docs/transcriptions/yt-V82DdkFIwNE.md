@@ -3,7 +3,7 @@ title: "December 14th, 2021 Livestream Q&A: Will we ever have a Weather System?"
 date: "2021-12-14"
 layout: transcript
 topics:
-    - "features/possible-features/weather-systems"
+    - "environment/weather-systems"
 ---
 # [December 14th, 2021 Livestream](../2021-12-14.md)
 ## Q&A: Will we ever have a Weather System?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: [March 1st, 202
 
 
 ### Topics
-* [Features > Possible Features > Weather Systems](../topics/features/possible-features/weather-systems.md)
+* [Environment > Weather Systems](../topics/environment/weather-systems.md)
 
 ### Transcript
 

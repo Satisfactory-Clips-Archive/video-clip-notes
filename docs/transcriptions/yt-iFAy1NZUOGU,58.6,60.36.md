@@ -3,7 +3,7 @@ title: "August 1st, 2018 Q&A Q&A: Is there Weather in the game?"
 date: "2018-08-01"
 layout: transcript
 topics:
-    - "features/possible-features/weather-systems"
+    - "environment/weather-systems"
 ---
 # [August 1st, 2018 Q&A](../2018-08-01.md)
 ## Q&A: Is there Weather in the game?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: [March 1st, 202
 
 
 ### Topics
-* [Features > Possible Features > Weather Systems](../topics/features/possible-features/weather-systems.md)
+* [Environment > Weather Systems](../topics/environment/weather-systems.md)
 
 ### Transcript
 

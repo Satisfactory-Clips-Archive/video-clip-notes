@@ -3,7 +3,7 @@ title: "July 12th, 2022 Livestream Q&A: Volumetric fog in the morning, when?"
 date: "2022-07-12"
 layout: transcript
 topics:
-    - "features/possible-features/weather-systems"
+    - "environment/weather-systems"
     - "features/requested-features"
     - "technology/graphics"
 ---
@@ -12,7 +12,7 @@ topics:
 https://www.youtube.com/watch?v=LAtm9YH43-U
 
 ### Topics
-* [Features > Possible Features > Weather Systems](../topics/features/possible-features/weather-systems.md)
+* [Environment > Weather Systems](../topics/environment/weather-systems.md)
 * [Features > Requested Features](../topics/features/requested-features.md)
 * [Technology > Graphics](../topics/technology/graphics.md)
 

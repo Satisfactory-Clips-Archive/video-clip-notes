@@ -3,7 +3,7 @@ title: "February 22nd, 2022 Livestream Q&A: Weather effects?"
 date: "2022-02-22"
 layout: transcript
 topics:
-    - "features/possible-features/weather-systems"
+    - "environment/weather-systems"
 ---
 # [February 22nd, 2022 Livestream](../2022-02-22.md)
 ## Q&A: Weather effects?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: [March 1st, 202
 
 
 ### Topics
-* [Features > Possible Features > Weather Systems](../topics/features/possible-features/weather-systems.md)
+* [Environment > Weather Systems](../topics/environment/weather-systems.md)
 
 ### Transcript
 

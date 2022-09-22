@@ -4,7 +4,7 @@ date: "2022-06-14"
 layout: transcript
 topics:
     - "environment"
-    - "features/possible-features/weather-systems"
+    - "environment/weather-systems"
     - "satisfactory-updates/released/satisfactory-update-6"
     - "technology/graphics"
 ---
@@ -16,7 +16,7 @@ This question was possibly duplicated with a more recent answer: [July 5th, 2022
 
 ### Topics
 * [Environment](../topics/environment.md)
-* [Features > Possible Features > Weather Systems](../topics/features/possible-features/weather-systems.md)
+* [Environment > Weather Systems](../topics/environment/weather-systems.md)
 * [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 * [Technology > Graphics](../topics/technology/graphics.md)
 

@@ -3,7 +3,7 @@ title: "June 7th, 2022 Livestream Q&A: Any moving rain events, or just random?"
 date: "2022-06-07"
 layout: transcript
 topics:
-    - "features/possible-features/weather-systems"
+    - "environment/weather-systems"
     - "features/requested-features"
     - "satisfactory-updates/released/satisfactory-update-6"
 ---
@@ -12,7 +12,7 @@ topics:
 https://www.youtube.com/watch?v=G9tg6XTEBuU
 
 ### Topics
-* [Features > Possible Features > Weather Systems](../topics/features/possible-features/weather-systems.md)
+* [Environment > Weather Systems](../topics/environment/weather-systems.md)
 * [Features > Requested Features](../topics/features/requested-features.md)
 * [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 

@@ -3,7 +3,7 @@ title: "April 20th, 2021 Livestream Q&A: Gonna be weather changes, like rain, sn
 date: "2021-04-20"
 layout: transcript
 topics:
-    - "features/possible-features/weather-systems"
+    - "environment/weather-systems"
 ---
 # [April 20th, 2021 Livestream](../2021-04-20.md)
 ## Q&A: Gonna be weather changes, like rain, snow, and sand storms?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: [March 1st, 202
 
 
 ### Topics
-* [Features > Possible Features > Weather Systems](../topics/features/possible-features/weather-systems.md)
+* [Environment > Weather Systems](../topics/environment/weather-systems.md)
 
 ### Transcript
 

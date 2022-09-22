@@ -4,7 +4,7 @@ date: "2021-10-05"
 layout: transcript
 topics:
     - "environment/biomes/northern-forest"
-    - "features/possible-features/weather-systems"
+    - "environment/weather-systems"
     - "satisfactory-updates/released/satisfactory-update-5"
     - "satisfactory-updates/world-update"
 ---
@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=4HmDU50SExc
 
 ### Topics
 * [Environment > Biomes > Northern Forest](../topics/environment/biomes/northern-forest.md)
-* [Features > Possible Features > Weather Systems](../topics/features/possible-features/weather-systems.md)
+* [Environment > Weather Systems](../topics/environment/weather-systems.md)
 * [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 * [Satisfactory Updates > World Update](../topics/satisfactory-updates/world-update.md)
 

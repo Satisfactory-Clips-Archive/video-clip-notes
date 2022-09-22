@@ -3,14 +3,14 @@ title: "July 6th, 2021 Livestream Q&A: Random clouds would be good?"
 date: "2021-07-06"
 layout: transcript
 topics:
-    - "features/possible-features/weather-systems"
+    - "environment/weather-systems"
 ---
 # [July 6th, 2021 Livestream](../2021-07-06.md)
 ## Q&A: Random clouds would be good?
 https://www.youtube.com/watch?v=o_76lxBOUDU
 
 ### Topics
-* [Features > Possible Features > Weather Systems](../topics/features/possible-features/weather-systems.md)
+* [Environment > Weather Systems](../topics/environment/weather-systems.md)
 
 ### Transcript
 

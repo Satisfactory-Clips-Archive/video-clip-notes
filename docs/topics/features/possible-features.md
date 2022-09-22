@@ -12,4 +12,3 @@ date: Last Modified
 * [Game Modes](../../topics/features/possible-features/game-modes.md)
 * [Third-Party Service Integration](../../topics/features/possible-features/third-party-service-integration.md)
 * [Underground Biome](../../topics/features/possible-features/underground-biome.md)
-* [Weather Systems](../../topics/features/possible-features/weather-systems.md)

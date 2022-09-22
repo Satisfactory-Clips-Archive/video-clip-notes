@@ -3,7 +3,7 @@ title: "June 7th, 2022 Livestream Q&A: Any upcoming videos on the atmosphere cha
 date: "2022-06-07"
 layout: transcript
 topics:
-    - "features/possible-features/weather-systems"
+    - "environment/weather-systems"
     - "satisfactory-updates/released/satisfactory-update-6"
     - "satisfactory-updates/teasers-and-trailers/update-6-teasers"
     - "technology/graphics"
@@ -14,7 +14,7 @@ topics:
 https://www.youtube.com/watch?v=CKZ3qZ49Wsg
 
 ### Topics
-* [Features > Possible Features > Weather Systems](../topics/features/possible-features/weather-systems.md)
+* [Environment > Weather Systems](../topics/environment/weather-systems.md)
 * [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 * [Satisfactory Updates > Teasers & Trailers > Update 6 Teasers](../topics/satisfactory-updates/teasers-and-trailers/update-6-teasers.md)
 * [Technology > Graphics](../topics/technology/graphics.md)

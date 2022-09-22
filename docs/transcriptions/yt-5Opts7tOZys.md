@@ -3,7 +3,7 @@ title: "July 5th, 2022 Livestream Q&A: Please add a console command to toggle Ra
 date: "2022-07-05"
 layout: transcript
 topics:
-    - "features/possible-features/weather-systems"
+    - "environment/weather-systems"
     - "features/requested-features"
 ---
 # [July 5th, 2022 Livestream](../2022-07-05.md)
@@ -17,7 +17,7 @@ https://www.youtube.com/watch?v=5Opts7tOZys
 
 
 ### Topics
-* [Features > Possible Features > Weather Systems](../topics/features/possible-features/weather-systems.md)
+* [Environment > Weather Systems](../topics/environment/weather-systems.md)
 * [Features > Requested Features](../topics/features/requested-features.md)
 
 ### Transcript

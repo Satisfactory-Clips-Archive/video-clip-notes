@@ -4,7 +4,7 @@ date: "2022-06-07"
 layout: transcript
 topics:
     - "environment/biomes/swamp"
-    - "features/possible-features/weather-systems"
+    - "environment/weather-systems"
     - "satisfactory-updates"
     - "satisfactory-updates/pending/satisfactory-1-0"
     - "satisfactory-updates/release-builds"
@@ -21,7 +21,7 @@ https://www.youtube.com/watch?v=Hk3kvpq7Ofo
 
 ### Topics
 * [Environment > Biomes > Swamp](../topics/environment/biomes/swamp.md)
-* [Features > Possible Features > Weather Systems](../topics/features/possible-features/weather-systems.md)
+* [Environment > Weather Systems](../topics/environment/weather-systems.md)
 * [Satisfactory Updates](../topics/satisfactory-updates.md)
 * [Satisfactory Updates > Pending > Satisfactory 1.0](../topics/satisfactory-updates/pending/satisfactory-1-0.md)
 * [Satisfactory Updates > Release Builds](../topics/satisfactory-updates/release-builds.md)

@@ -3,7 +3,7 @@ title: "September 22nd, 2020 Livestream Q&A: Weather in Satisfactory?"
 date: "2020-09-22"
 layout: transcript
 topics:
-    - "features/possible-features/weather-systems"
+    - "environment/weather-systems"
 ---
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
 ## Q&A: Weather in Satisfactory?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: [March 1st, 202
 
 
 ### Topics
-* [Features > Possible Features > Weather Systems](../topics/features/possible-features/weather-systems.md)
+* [Environment > Weather Systems](../topics/environment/weather-systems.md)
 
 ### Transcript
 

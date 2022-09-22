@@ -3,7 +3,7 @@ title: "October 12th, 2021 Livestream Q&A: Will there ever be rain and extreme W
 date: "2021-10-12"
 layout: transcript
 topics:
-    - "features/possible-features/weather-systems"
+    - "environment/weather-systems"
 ---
 # [October 12th, 2021 Livestream](../2021-10-12.md)
 ## Q&A: Will there ever be rain and extreme Weather in Satisfactory?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: [March 1st, 202
 
 
 ### Topics
-* [Features > Possible Features > Weather Systems](../topics/features/possible-features/weather-systems.md)
+* [Environment > Weather Systems](../topics/environment/weather-systems.md)
 
 ### Transcript
 

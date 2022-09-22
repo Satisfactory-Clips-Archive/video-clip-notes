@@ -3,7 +3,7 @@ title: "October 1st, 2020 Q&A Q&A: Will there be any environmental influences la
 date: "2020-10-01"
 layout: transcript
 topics:
-    - "features/possible-features/weather-systems"
+    - "environment/weather-systems"
 ---
 # [October 1st, 2020 Q&A](../2020-10-01.md)
 ## Q&A: Will there be any environmental influences later on, like climate change or heatwave storms?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: [March 1st, 202
 
 
 ### Topics
-* [Features > Possible Features > Weather Systems](../topics/features/possible-features/weather-systems.md)
+* [Environment > Weather Systems](../topics/environment/weather-systems.md)
 
 ### Transcript
 

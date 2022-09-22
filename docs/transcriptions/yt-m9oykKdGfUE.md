@@ -3,7 +3,7 @@ title: "March 9th, 2021 Livestream Q&A: Will there be Weather in the game?"
 date: "2021-03-09"
 layout: transcript
 topics:
-    - "features/possible-features/weather-systems"
+    - "environment/weather-systems"
     - "satisfactory-updates/satisfactory-prototypes"
 ---
 # [March 9th, 2021 Livestream](../2021-03-09.md)
@@ -13,7 +13,7 @@ This question was possibly duplicated with a more recent answer: [March 1st, 202
 
 
 ### Topics
-* [Features > Possible Features > Weather Systems](../topics/features/possible-features/weather-systems.md)
+* [Environment > Weather Systems](../topics/environment/weather-systems.md)
 * [Satisfactory Updates > Satisfactory Prototypes](../topics/satisfactory-updates/satisfactory-prototypes.md)
 
 ### Transcript

@@ -3,7 +3,7 @@ title: "November 17th, 2020 Livestream Q&A: Any plans on Weather cycles?"
 date: "2020-11-17"
 layout: transcript
 topics:
-    - "features/possible-features/weather-systems"
+    - "environment/weather-systems"
 ---
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Q&A: Any plans on Weather cycles?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: [March 1st, 202
 
 
 ### Topics
-* [Features > Possible Features > Weather Systems](../topics/features/possible-features/weather-systems.md)
+* [Environment > Weather Systems](../topics/environment/weather-systems.md)
 
 ### Transcript
 

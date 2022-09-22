@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "environment/resources"
     - "environment/resources/water"
-    - "features/possible-features/weather-systems"
+    - "environment/weather-systems"
     - "features/requested-features"
 ---
 # [June 7th, 2022 Livestream](../2022-06-07.md)
@@ -15,7 +15,7 @@ https://www.youtube.com/watch?v=nMhVjlGVTlY
 ### Topics
 * [Environment > Resources](../topics/environment/resources.md)
 * [Environment > Resources > Water](../topics/environment/resources/water.md)
-* [Features > Possible Features > Weather Systems](../topics/features/possible-features/weather-systems.md)
+* [Environment > Weather Systems](../topics/environment/weather-systems.md)
 * [Features > Requested Features](../topics/features/requested-features.md)
 
 ### Transcript

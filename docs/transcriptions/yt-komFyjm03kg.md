@@ -8,12 +8,12 @@ topics:
     - "environment/creatures"
     - "environment/creatures/crab-boss"
     - "environment/plants"
+    - "environment/weather-systems"
     - "environment/world-map"
     - "features/buildings/overclocking-and-underclocking"
     - "features/buildings/radar-tower"
     - "features/equipment"
     - "features/multiplayer"
-    - "features/possible-features/weather-systems"
     - "features/requested-features/multiple-body-slots"
     - "satisfactory-updates/released/satisfactory-update-6"
     - "satisfactory-updates/state-of-dev"
@@ -30,12 +30,12 @@ https://www.youtube.com/watch?v=komFyjm03kg
 * [Environment > Creatures](../topics/environment/creatures.md)
 * [Environment > Creatures > Crab Boss](../topics/environment/creatures/crab-boss.md)
 * [Environment > Plants](../topics/environment/plants.md)
+* [Environment > Weather Systems](../topics/environment/weather-systems.md)
 * [Environment > World Map](../topics/environment/world-map.md)
 * [Features > Buildings > Overclocking & Underclocking](../topics/features/buildings/overclocking-and-underclocking.md)
 * [Features > Buildings > Radar Tower](../topics/features/buildings/radar-tower.md)
 * [Features > Equipment](../topics/features/equipment.md)
 * [Features > Multiplayer](../topics/features/multiplayer.md)
-* [Features > Possible Features > Weather Systems](../topics/features/possible-features/weather-systems.md)
 * [Features > Requested Features > Multiple Body Slots](../topics/features/requested-features/multiple-body-slots.md)
 * [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 * [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)

@@ -4,7 +4,7 @@ date: "2020-03-12"
 layout: transcript
 topics:
     - "environment/biomes/dune-desert"
-    - "features/possible-features/weather-systems"
+    - "environment/weather-systems"
     - "satisfactory-updates/released/satisfactory-update-3"
 ---
 # [March 12th, 2020 Patch Notes](../2020-03-12.md)
@@ -13,7 +13,7 @@ https://youtube.com/embed/DsbHR1Nc8fw?autoplay=1&start=221&end=255
 
 ### Topics
 * [Environment > Biomes > Dune Desert](../topics/environment/biomes/dune-desert.md)
-* [Features > Possible Features > Weather Systems](../topics/features/possible-features/weather-systems.md)
+* [Environment > Weather Systems](../topics/environment/weather-systems.md)
 * [Satisfactory Updates > Released > Satisfactory Update 3](../topics/satisfactory-updates/released/satisfactory-update-3.md)
 
 ### Transcript

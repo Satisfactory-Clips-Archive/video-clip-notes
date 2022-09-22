@@ -3,7 +3,7 @@ title: "October 13th, 2020 Livestream Q&A: Will one of the Quality of Life Updat
 date: "2020-10-13"
 layout: transcript
 topics:
-    - "features/possible-features/weather-systems"
+    - "environment/weather-systems"
     - "satisfactory-updates/released/satisfactory-fluids-update"
     - "satisfactory-updates/released/satisfactory-update-4"
     - "technology/graphics"
@@ -20,7 +20,7 @@ https://www.youtube.com/watch?v=2AMBinmPITg
 
 
 ### Topics
-* [Features > Possible Features > Weather Systems](../topics/features/possible-features/weather-systems.md)
+* [Environment > Weather Systems](../topics/environment/weather-systems.md)
 * [Satisfactory Updates > Released > Satisfactory Fluids Update](../topics/satisfactory-updates/released/satisfactory-fluids-update.md)
 * [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 * [Technology > Graphics](../topics/technology/graphics.md)

@@ -3,7 +3,7 @@ title: "November 10th, 2020 Livestream Q&A: Can we get Weather to change?"
 date: "2020-11-10"
 layout: transcript
 topics:
-    - "features/possible-features/weather-systems"
+    - "environment/weather-systems"
 ---
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Can we get Weather to change?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: [March 1st, 202
 
 
 ### Topics
-* [Features > Possible Features > Weather Systems](../topics/features/possible-features/weather-systems.md)
+* [Environment > Weather Systems](../topics/environment/weather-systems.md)
 
 ### Transcript
 

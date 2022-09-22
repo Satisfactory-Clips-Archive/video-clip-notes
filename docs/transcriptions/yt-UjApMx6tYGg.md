@@ -3,14 +3,14 @@ title: "May 17th, 2022 Livestream Q&A: How will Weather affect general performan
 date: "2022-05-17"
 layout: transcript
 topics:
-    - "features/possible-features/weather-systems"
+    - "environment/weather-systems"
 ---
 # [May 17th, 2022 Livestream](../2022-05-17.md)
 ## Q&A: How will Weather affect general performance?
 https://www.youtube.com/watch?v=UjApMx6tYGg
 
 ### Topics
-* [Features > Possible Features > Weather Systems](../topics/features/possible-features/weather-systems.md)
+* [Environment > Weather Systems](../topics/environment/weather-systems.md)
 
 ### Transcript
 

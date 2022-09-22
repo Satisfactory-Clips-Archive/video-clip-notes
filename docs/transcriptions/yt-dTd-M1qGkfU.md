@@ -4,7 +4,7 @@ date: "2020-08-25"
 layout: transcript
 topics:
     - "environment/plants"
-    - "features/possible-features/weather-systems"
+    - "environment/weather-systems"
     - "features/requested-features/pollution"
 ---
 # [August 25th, 2020 Livestream](../2020-08-25.md)
@@ -15,7 +15,7 @@ This question was possibly duplicated with a more recent answer: [February 16th,
 
 ### Topics
 * [Environment > Plants](../topics/environment/plants.md)
-* [Features > Possible Features > Weather Systems](../topics/features/possible-features/weather-systems.md)
+* [Environment > Weather Systems](../topics/environment/weather-systems.md)
 * [Features > Requested Features > Pollution](../topics/features/requested-features/pollution.md)
 
 ### Transcript

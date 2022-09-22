@@ -3,7 +3,7 @@ title: "September 8th, 2020 Livestream Q&A: Do we intend to add rain/storms ?"
 date: "2020-09-08"
 layout: transcript
 topics:
-    - "features/possible-features/weather-systems"
+    - "environment/weather-systems"
     - "satisfactory-updates/satisfactory-prototypes"
 ---
 # [September 8th, 2020 Livestream](../2020-09-08.md)
@@ -13,7 +13,7 @@ This question was possibly duplicated with a more recent answer: [March 1st, 202
 
 
 ### Topics
-* [Features > Possible Features > Weather Systems](../topics/features/possible-features/weather-systems.md)
+* [Environment > Weather Systems](../topics/environment/weather-systems.md)
 * [Satisfactory Updates > Satisfactory Prototypes](../topics/satisfactory-updates/satisfactory-prototypes.md)
 
 ### Transcript
