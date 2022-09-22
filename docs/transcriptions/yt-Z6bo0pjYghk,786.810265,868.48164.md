@@ -4,7 +4,7 @@ date: "2022-06-14"
 layout: transcript
 topics:
     - "coffee-stainers"
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
 ---
 # [June 14th, 2022 Livestream](../2022-06-14.md)
 ## Setting the agenda for the Release Stream
@@ -12,7 +12,7 @@ https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=786&end=869
 
 ### Topics
 * [Coffee Stainers](../topics/coffee-stainers.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 
 ### Transcript
 

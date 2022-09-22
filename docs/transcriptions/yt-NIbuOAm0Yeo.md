@@ -4,7 +4,7 @@ date: "2022-05-24"
 layout: transcript
 topics:
     - "features/equipment/beacon"
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
 ---
 # [May 24th, 2022 Livestream](../2022-05-24.md)
 ## Q&A: Do we need to stock up on Beacons?
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=NIbuOAm0Yeo
 
 ### Topics
 * [Features > Equipment > Beacon](../topics/features/equipment/beacon.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 
 ### Transcript
 

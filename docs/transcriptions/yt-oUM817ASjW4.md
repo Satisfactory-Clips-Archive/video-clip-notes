@@ -4,7 +4,7 @@ date: "2022-05-17"
 layout: transcript
 topics:
     - "features/buildings/radar-tower"
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
     - "satisfactory-updates/teasers-and-trailers/update-6-teasers"
 ---
 # [May 17th, 2022 Livestream](../2022-05-17.md)
@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=oUM817ASjW4
 
 ### Topics
 * [Features > Buildings > Radar Tower](../topics/features/buildings/radar-tower.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 * [Satisfactory Updates > Teasers & Trailers > Update 6 Teasers](../topics/satisfactory-updates/teasers-and-trailers/update-6-teasers.md)
 
 ### Transcript

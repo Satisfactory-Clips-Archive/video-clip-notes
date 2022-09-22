@@ -6,7 +6,7 @@ topics:
     - "features/build-modes"
     - "features/buildings"
     - "features/crafting/recipes"
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
 ---
 # [June 14th, 2022 Livestream](../2022-06-14.md)
 ## Birk & Snutt Talk: Remote Copy & Paste
@@ -16,7 +16,7 @@ https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=12349&end=12409
 * [Features > Build Modes](../topics/features/build-modes.md)
 * [Features > Buildings](../topics/features/buildings.md)
 * [Features > Crafting > Recipes](../topics/features/crafting/recipes.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 
 ### Transcript
 

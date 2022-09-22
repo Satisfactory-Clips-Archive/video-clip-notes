@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "features/buildables/foundations"
     - "features/equipment/customizer"
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
 ---
 # [September 2nd, 2022 Video](../2022-09-02.md)
 ## You can now apply Materials to Quarter Pipes
@@ -14,7 +14,7 @@ https://youtube.com/clip/UgkxKToeZ9r7KRuvzcAq0QJSwPy9BB7_juR8
 ### Topics
 * [Features > Buildables > Foundations](../topics/features/buildables/foundations.md)
 * [Features > Equipment > Customizer](../topics/features/equipment/customizer.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 
 ### Transcript
 

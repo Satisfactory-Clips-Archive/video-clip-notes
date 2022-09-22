@@ -4,7 +4,7 @@ date: "2022-03-29"
 layout: transcript
 topics:
     - "satisfactory-updates/pending/satisfactory-1-0"
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
     - "satisfactory-updates/state-of-dev"
 ---
 # [March 29th, 2022 Livestream](../2022-03-29.md)
@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=AXh8bvElSWw
 
 ### Topics
 * [Satisfactory Updates > Pending > Satisfactory 1.0](../topics/satisfactory-updates/pending/satisfactory-1-0.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 * [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 
 ### Transcript

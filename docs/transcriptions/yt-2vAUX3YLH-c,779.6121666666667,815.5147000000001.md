@@ -4,8 +4,8 @@ date: "2022-05-13"
 layout: transcript
 topics:
     - "qa-site"
-    - "satisfactory-updates/pending/satisfactory-update-6"
     - "satisfactory-updates/release-builds"
+    - "satisfactory-updates/released/satisfactory-update-6"
     - "satisfactory-updates/teasers-and-trailers/update-6-teasers"
     - "technology/user-interface"
 ---
@@ -15,8 +15,8 @@ https://youtube.com/clip/Ugkx5PpBrbmcGZ8DrBq5-RITdwjFLUr9z8Nv
 
 ### Topics
 * [QA Site](../topics/qa-site.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
 * [Satisfactory Updates > Release Builds](../topics/satisfactory-updates/release-builds.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 * [Satisfactory Updates > Teasers & Trailers > Update 6 Teasers](../topics/satisfactory-updates/teasers-and-trailers/update-6-teasers.md)
 * [Technology > User Interface](../topics/technology/user-interface.md)
 

@@ -3,7 +3,7 @@ title: "February 15th, 2022 Livestream Q&A: Update 6 release date?"
 date: "2022-02-15"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
 ---
 # [February 15th, 2022 Livestream](../2022-02-15.md)
 ## Q&A: Update 6 release date?
@@ -23,7 +23,7 @@ This question was possibly replaced with a more recent answer: April 22nd, 2022 
 
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 
 ### Transcript
 

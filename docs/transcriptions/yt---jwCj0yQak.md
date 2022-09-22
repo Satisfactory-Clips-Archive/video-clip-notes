@@ -5,8 +5,8 @@ layout: transcript
 topics:
     - "features/requested-features"
     - "retail/geforce-now"
-    - "satisfactory-updates/pending/satisfactory-update-6"
     - "satisfactory-updates/release-builds"
+    - "satisfactory-updates/released/satisfactory-update-6"
 ---
 # [September 6th, 2022 Livestream](../2022-09-06.md)
 ## Q&A: Experimental on GeForce Now?
@@ -21,8 +21,8 @@ https://www.youtube.com/watch?v=--jwCj0yQak
 ### Topics
 * [Features > Requested Features](../topics/features/requested-features.md)
 * [Retail > GeForce Now](../topics/retail/geforce-now.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
 * [Satisfactory Updates > Release Builds](../topics/satisfactory-updates/release-builds.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 
 ### Transcript
 

@@ -4,7 +4,7 @@ date: "2022-06-14"
 layout: transcript
 topics:
     - "features/save-system"
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
 ---
 # [June 14th, 2022 Livestream](../2022-06-14.md)
 ## Ben, Dylan, Simon, & Snutt Talk: Sub-level saving
@@ -12,7 +12,7 @@ https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=7880&end=8120
 
 ### Topics
 * [Features > Save System](../topics/features/save-system.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 
 ### Transcript
 

@@ -4,7 +4,7 @@ date: "2022-06-17"
 layout: transcript
 topics:
     - "qa-site"
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
 ---
 # [June 17th, 2022 Video](../2022-06-17.md)
 ## Snutt Talk: How to notify Coffee Stain about bugs
@@ -12,7 +12,7 @@ https://youtube.com/embed/acZOxaTkcCY?autoplay=1&start=455&end=524
 
 ### Topics
 * [QA Site](../topics/qa-site.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 
 ### Transcript
 

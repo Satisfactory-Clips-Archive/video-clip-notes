@@ -3,14 +3,14 @@ title: "September 2nd, 2022 Video More Patches to come"
 date: "2022-09-02"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
 ---
 # [September 2nd, 2022 Video](../2022-09-02.md)
 ## More Patches to come
 https://youtube.com/clip/UgkxaZxShUj2qWbOEiGly5EsmGQ4YQdTHOZw
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 
 ### Transcript
 

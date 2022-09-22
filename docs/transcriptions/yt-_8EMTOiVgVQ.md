@@ -4,7 +4,7 @@ date: "2022-06-28"
 layout: transcript
 topics:
     - "environment"
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
 ---
 # [June 28th, 2022 Livestream](../2022-06-28.md)
 ## Snutt Talk: Floating grass issue
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=_8EMTOiVgVQ
 
 ### Topics
 * [Environment](../topics/environment.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 
 ### Transcript
 

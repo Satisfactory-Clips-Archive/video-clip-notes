@@ -6,7 +6,7 @@ topics:
     - "environment/creatures"
     - "features/equipment/xeno-basher"
     - "features/equipment/xeno-zapper"
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
 ---
 # [July 12th, 2022 Livestream](../2022-07-12.md)
 ## Q&A: Any news on game crashing on melee kill of Spitters?
@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=AVd3FMTNpc4
 * [Environment > Creatures](../topics/environment/creatures.md)
 * [Features > Equipment > Xeno-Basher](../topics/features/equipment/xeno-basher.md)
 * [Features > Equipment > Xeno-Zapper](../topics/features/equipment/xeno-zapper.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 
 ### Transcript
 

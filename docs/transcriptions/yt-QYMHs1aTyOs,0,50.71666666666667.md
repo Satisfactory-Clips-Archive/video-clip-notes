@@ -7,7 +7,7 @@ topics:
     - "features/equipment"
     - "features/possible-features/game-modes"
     - "features/unplanned-features"
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
     - "satisfactory-updates/teasers-and-trailers/update-6-teasers"
 ---
 # [May 20th, 2022 Video](../2022-05-20.md)
@@ -19,7 +19,7 @@ https://youtube.com/clip/UgkxZ3nwhjcybkF-yU6Xe7nCXgEkWb2ouLJ6
 * [Features > Equipment](../topics/features/equipment.md)
 * [Features > Possible Features > Game Modes](../topics/features/possible-features/game-modes.md)
 * [Features > Unplanned Features](../topics/features/unplanned-features.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 * [Satisfactory Updates > Teasers & Trailers > Update 6 Teasers](../topics/satisfactory-updates/teasers-and-trailers/update-6-teasers.md)
 
 ### Transcript

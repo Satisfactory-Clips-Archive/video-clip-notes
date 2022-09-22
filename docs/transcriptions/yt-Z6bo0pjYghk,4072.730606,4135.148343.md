@@ -3,16 +3,16 @@ title: "June 14th, 2022 Livestream Update 6 on Experimental not in a final state
 date: "2022-06-14"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-6"
     - "satisfactory-updates/release-builds"
+    - "satisfactory-updates/released/satisfactory-update-6"
 ---
 # [June 14th, 2022 Livestream](../2022-06-14.md)
 ## Update 6 on Experimental not in a final state
 https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=4072&end=4136
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
 * [Satisfactory Updates > Release Builds](../topics/satisfactory-updates/release-builds.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 
 ### Transcript
 

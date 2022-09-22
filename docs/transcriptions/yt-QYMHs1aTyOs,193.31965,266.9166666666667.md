@@ -7,7 +7,7 @@ topics:
     - "features/equipment/gas-mask"
     - "features/equipment/jetpack"
     - "features/requested-features/multiple-body-slots"
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
     - "satisfactory-updates/teasers-and-trailers/update-6-teasers"
 ---
 # [May 20th, 2022 Video](../2022-05-20.md)
@@ -19,7 +19,7 @@ https://youtube.com/embed/QYMHs1aTyOs?autoplay=1&start=193&end=267
 * [Features > Equipment > Gas Mask](../topics/features/equipment/gas-mask.md)
 * [Features > Equipment > Jetpack](../topics/features/equipment/jetpack.md)
 * [Features > Requested Features > Multiple Body Slots](../topics/features/requested-features/multiple-body-slots.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 * [Satisfactory Updates > Teasers & Trailers > Update 6 Teasers](../topics/satisfactory-updates/teasers-and-trailers/update-6-teasers.md)
 
 ### Transcript

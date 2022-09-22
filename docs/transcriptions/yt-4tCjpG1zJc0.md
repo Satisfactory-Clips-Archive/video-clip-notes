@@ -4,7 +4,7 @@ date: "2022-09-13"
 layout: transcript
 topics:
     - "features/equipment/beacon"
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
 ---
 # [September 13th, 2022 Livestream](../2022-09-13.md)
 ## Q&A: Are you going to change the Recipes for Beacons?
@@ -21,7 +21,7 @@ https://www.youtube.com/watch?v=4tCjpG1zJc0
 
 ### Topics
 * [Features > Equipment > Beacon](../topics/features/equipment/beacon.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 
 ### Transcript
 

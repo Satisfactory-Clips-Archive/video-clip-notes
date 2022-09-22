@@ -4,7 +4,7 @@ date: "2022-06-14"
 layout: transcript
 topics:
     - "features/crafting"
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
     - "technology/user-interface"
 ---
 # [June 14th, 2022 Livestream](../2022-06-14.md)
@@ -13,7 +13,7 @@ https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=5520&end=5635
 
 ### Topics
 * [Features > Crafting](../topics/features/crafting.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 * [Technology > User Interface](../topics/technology/user-interface.md)
 
 ### Transcript

@@ -4,7 +4,7 @@ date: "2022-06-07"
 layout: transcript
 topics:
     - "features/equipment/nobelisk"
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
 ---
 # [June 7th, 2022 Livestream](../2022-06-07.md)
 ## Snutt Talk: Before/After comparisons of in-progress work
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=5PV7CLgxtWs
 
 ### Topics
 * [Features > Equipment > Nobelisk](../topics/features/equipment/nobelisk.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 
 ### Transcript
 

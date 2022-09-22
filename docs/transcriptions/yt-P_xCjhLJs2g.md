@@ -3,7 +3,7 @@ title: "April 19th, 2022 Livestream Q&A: Will this next Update have a completed 
 date: "2022-04-19"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
     - "soundtrack"
 ---
 # [April 19th, 2022 Livestream](../2022-04-19.md)
@@ -13,7 +13,7 @@ This question was possibly duplicated with a more recent answer: [June 28th, 202
 
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 * [Soundtrack](../topics/soundtrack.md)
 
 ### Transcript

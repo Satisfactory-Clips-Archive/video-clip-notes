@@ -22,8 +22,8 @@ topics:
     - "features/crafting/recipes/alternate-recipes"
     - "off-topic/subnautica"
     - "off-topic/the-lord-of-the-rings"
-    - "satisfactory-updates/pending/satisfactory-update-6"
     - "satisfactory-updates/released/satisfactory-update-5/save-the-willows"
+    - "satisfactory-updates/released/satisfactory-update-6"
     - "satisfactory-updates/teasers-and-trailers/update-6-teasers"
     - "satisfactory-updates/world-update"
     - "story-and-lore"
@@ -54,8 +54,8 @@ https://www.youtube.com/watch?v=FqhboAjAiYY
 * [Features > Crafting > Recipes > Alternate Recipes](../topics/features/crafting/recipes/alternate-recipes.md)
 * [Off-Topic > Subnautica](../topics/off-topic/subnautica.md)
 * [Off-Topic > The Lord of the Rings](../topics/off-topic/the-lord-of-the-rings.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
 * [Satisfactory Updates > Released > Satisfactory Update 5 > #SaveTheWillows](../topics/satisfactory-updates/released/satisfactory-update-5/save-the-willows.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 * [Satisfactory Updates > Teasers & Trailers > Update 6 Teasers](../topics/satisfactory-updates/teasers-and-trailers/update-6-teasers.md)
 * [Satisfactory Updates > World Update](../topics/satisfactory-updates/world-update.md)
 * [Story & Lore](../topics/story-and-lore.md)

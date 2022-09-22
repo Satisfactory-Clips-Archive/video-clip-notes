@@ -4,7 +4,7 @@ date: "2022-06-07"
 layout: transcript
 topics:
     - "features/possible-features/weather-systems"
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
     - "satisfactory-updates/teasers-and-trailers/update-6-teasers"
     - "technology/graphics"
     - "technology/unreal-engine"
@@ -15,7 +15,7 @@ https://www.youtube.com/watch?v=CKZ3qZ49Wsg
 
 ### Topics
 * [Features > Possible Features > Weather Systems](../topics/features/possible-features/weather-systems.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 * [Satisfactory Updates > Teasers & Trailers > Update 6 Teasers](../topics/satisfactory-updates/teasers-and-trailers/update-6-teasers.md)
 * [Technology > Graphics](../topics/technology/graphics.md)
 * [Technology > Unreal Engine](../topics/technology/unreal-engine.md)

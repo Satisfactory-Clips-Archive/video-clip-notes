@@ -6,7 +6,7 @@ topics:
     - "community"
     - "environment/creatures"
     - "features/multiplayer/dedicated-servers"
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
     - "satisfactory-updates/state-of-dev"
 ---
 # [July 12th, 2022 Livestream](../2022-07-12.md)
@@ -17,7 +17,7 @@ https://www.youtube.com/watch?v=p-5N0u4DqL0
 * [Community](../topics/community.md)
 * [Environment > Creatures](../topics/environment/creatures.md)
 * [Features > Multiplayer > Dedicated Servers](../topics/features/multiplayer/dedicated-servers.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 * [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 
 ### Transcript

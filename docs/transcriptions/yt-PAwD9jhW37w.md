@@ -6,7 +6,7 @@ topics:
     - "environment/biomes/spire-coast"
     - "features/buildings/miner"
     - "features/buildings/oil-extractor"
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
 ---
 # [May 24th, 2022 Livestream](../2022-05-24.md)
 ## Q&A: If I mine on nodes and they get moved will the Miner still work?
@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=PAwD9jhW37w
 * [Environment > Biomes > Spire Coast](../topics/environment/biomes/spire-coast.md)
 * [Features > Buildings > Miner](../topics/features/buildings/miner.md)
 * [Features > Buildings > Oil Extractor](../topics/features/buildings/oil-extractor.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 
 ### Transcript
 

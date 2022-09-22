@@ -5,8 +5,8 @@ layout: transcript
 topics:
     - "embracer-group/coffee-stain-holding/coffee-stain-studios"
     - "off-topic/sweden"
-    - "satisfactory-updates/pending/satisfactory-update-6"
     - "satisfactory-updates/release-builds"
+    - "satisfactory-updates/released/satisfactory-update-6"
 ---
 # [June 17th, 2022 Video](../2022-06-17.md)
 ## Q&A: What happens now?
@@ -15,8 +15,8 @@ https://youtube.com/embed/acZOxaTkcCY?autoplay=1&start=310&end=456
 ### Topics
 * [Embracer Group > Coffee Stain Holding > Coffee Stain Studios](../topics/embracer-group/coffee-stain-holding/coffee-stain-studios.md)
 * [Off-Topic > Sweden](../topics/off-topic/sweden.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
 * [Satisfactory Updates > Release Builds](../topics/satisfactory-updates/release-builds.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 
 ### Transcript
 

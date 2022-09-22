@@ -3,8 +3,8 @@ title: "July 5th, 2022 Livestream Q&A: Is there an Update 6 stable release date 
 date: "2022-07-05"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-6"
     - "satisfactory-updates/release-builds"
+    - "satisfactory-updates/released/satisfactory-update-6"
 ---
 # [July 5th, 2022 Livestream](../2022-07-05.md)
 ## Q&A: Is there an Update 6 stable release date yet?
@@ -13,8 +13,8 @@ This question was possibly replaced with a more recent answer: [September 2nd, 2
 
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
 * [Satisfactory Updates > Release Builds](../topics/satisfactory-updates/release-builds.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 
 ### Transcript
 

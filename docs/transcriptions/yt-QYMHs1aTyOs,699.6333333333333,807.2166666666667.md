@@ -6,7 +6,7 @@ topics:
     - "features/equipment/nobelisk"
     - "off-topic/final-fantasy"
     - "off-topic/terrible-jokes"
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
     - "satisfactory-updates/teasers-and-trailers/update-6-teasers"
 ---
 # [May 20th, 2022 Video](../2022-05-20.md)
@@ -17,7 +17,7 @@ https://youtube.com/embed/QYMHs1aTyOs?autoplay=1&start=699&end=808
 * [Features > Equipment > Nobelisk](../topics/features/equipment/nobelisk.md)
 * [Off-Topic > Final Fantasy](../topics/off-topic/final-fantasy.md)
 * [Off-Topic > Terrible Jokes](../topics/off-topic/terrible-jokes.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 * [Satisfactory Updates > Teasers & Trailers > Update 6 Teasers](../topics/satisfactory-updates/teasers-and-trailers/update-6-teasers.md)
 
 ### Transcript

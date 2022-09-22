@@ -7,7 +7,7 @@ topics:
     - "coffee-stainers/hannah"
     - "coffee-stainers/torsten"
     - "environment/biomes"
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
 ---
 # [June 14th, 2022 Livestream](../2022-06-14.md)
 ## Anna, Torsten, Hannah, & Snutt Talk: The process of creating a Biome
@@ -18,7 +18,7 @@ https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=9227&end=9476
 * [Coffee Stainers > Hannah](../topics/coffee-stainers/hannah.md)
 * [Coffee Stainers > Torsten](../topics/coffee-stainers/torsten.md)
 * [Environment > Biomes](../topics/environment/biomes.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 
 ### Transcript
 

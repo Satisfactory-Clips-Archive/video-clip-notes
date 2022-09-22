@@ -4,7 +4,7 @@ date: "2022-07-08"
 layout: transcript
 topics:
     - "features/multiplayer/dedicated-servers"
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
     - "satisfactory-updates/state-of-dev"
 ---
 # [July 8th, 2022 Video](../2022-07-08.md)
@@ -13,7 +13,7 @@ https://youtube.com/embed/yr5pOsZC_mA?autoplay=1&start=160&end=245
 
 ### Topics
 * [Features > Multiplayer > Dedicated Servers](../topics/features/multiplayer/dedicated-servers.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 * [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 
 ### Transcript

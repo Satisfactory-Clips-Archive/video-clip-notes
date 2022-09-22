@@ -8,7 +8,7 @@ topics:
     - "features/buildings/m-a-m"
     - "features/tiers"
     - "features/transportation/vehicles"
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
     - "satisfactory-updates/teasers-and-trailers/update-6-teasers"
     - "technology/user-interface"
 ---
@@ -22,7 +22,7 @@ https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=56&end=143
 * [Features > Buildings > M.A.M.](../topics/features/buildings/m-a-m.md)
 * [Features > Tiers](../topics/features/tiers.md)
 * [Features > Transportation > Vehicles](../topics/features/transportation/vehicles.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 * [Satisfactory Updates > Teasers & Trailers > Update 6 Teasers](../topics/satisfactory-updates/teasers-and-trailers/update-6-teasers.md)
 * [Technology > User Interface](../topics/technology/user-interface.md)
 

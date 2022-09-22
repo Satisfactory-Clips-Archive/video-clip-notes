@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "coffee-stainers"
     - "features/transportation/vehicles/tractor"
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
     - "trolling"
 ---
 # [June 14th, 2022 Livestream](../2022-06-14.md)
@@ -15,7 +15,7 @@ https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=5161&end=5174
 ### Topics
 * [Coffee Stainers](../topics/coffee-stainers.md)
 * [Features > Transportation > Vehicles > Tractor](../topics/features/transportation/vehicles/tractor.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 * [Trolling](../topics/trolling.md)
 
 ### Transcript

@@ -3,8 +3,8 @@ title: "June 14th, 2022 Livestream Q&A: When is Update?"
 date: "2022-06-14"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-6"
     - "satisfactory-updates/release-builds"
+    - "satisfactory-updates/released/satisfactory-update-6"
 ---
 # [June 14th, 2022 Livestream](../2022-06-14.md)
 ## Q&A: When is Update?
@@ -13,8 +13,8 @@ This question was possibly replaced with a more recent answer: [June 14th, 2022 
 
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
 * [Satisfactory Updates > Release Builds](../topics/satisfactory-updates/release-builds.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 
 ### Transcript
 

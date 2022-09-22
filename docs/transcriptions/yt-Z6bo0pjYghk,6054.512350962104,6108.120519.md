@@ -4,7 +4,7 @@ date: "2022-06-14"
 layout: transcript
 topics:
     - "features/equipment/nobelisk"
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
     - "satisfactory-updates/seasonal-events/fics-mas"
 ---
 # [June 14th, 2022 Livestream](../2022-06-14.md)
@@ -13,7 +13,7 @@ https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=6054&end=6109
 
 ### Topics
 * [Features > Equipment > Nobelisk](../topics/features/equipment/nobelisk.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 * [Satisfactory Updates > Seasonal Events > FICS⁕MAS](../topics/satisfactory-updates/seasonal-events/fics-mas.md)
 
 ### Transcript

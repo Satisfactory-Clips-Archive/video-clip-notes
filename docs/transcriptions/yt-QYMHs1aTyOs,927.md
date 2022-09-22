@@ -6,7 +6,7 @@ topics:
     - "environment/creatures"
     - "features/equipment/nobelisk"
     - "features/equipment/rebar-gun"
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
     - "satisfactory-updates/teasers-and-trailers/update-6-teasers"
 ---
 # [May 20th, 2022 Video](../2022-05-20.md)
@@ -17,7 +17,7 @@ https://youtube.com/embed/QYMHs1aTyOs?autoplay=1&start=927
 * [Environment > Creatures](../topics/environment/creatures.md)
 * [Features > Equipment > Nobelisk](../topics/features/equipment/nobelisk.md)
 * [Features > Equipment > Rebar Gun](../topics/features/equipment/rebar-gun.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 * [Satisfactory Updates > Teasers & Trailers > Update 6 Teasers](../topics/satisfactory-updates/teasers-and-trailers/update-6-teasers.md)
 
 ### Transcript

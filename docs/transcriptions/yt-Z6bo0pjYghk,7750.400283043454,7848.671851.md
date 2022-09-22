@@ -7,7 +7,7 @@ topics:
     - "coffee-stainers/dylan"
     - "coffee-stainers/simon"
     - "features/equipment/nobelisk"
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
 ---
 # [June 14th, 2022 Livestream](../2022-06-14.md)
 ## Ben, Dylan, Simon, & Snutt Talk: Nuke Nobelisks
@@ -18,7 +18,7 @@ https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=7750&end=7849
 * [Coffee Stainers > Dylan](../topics/coffee-stainers/dylan.md)
 * [Coffee Stainers > Simon](../topics/coffee-stainers/simon.md)
 * [Features > Equipment > Nobelisk](../topics/features/equipment/nobelisk.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 
 ### Transcript
 

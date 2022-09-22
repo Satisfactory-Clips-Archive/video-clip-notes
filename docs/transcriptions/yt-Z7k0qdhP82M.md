@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "environment/biomes/spire-coast"
     - "features/buildings/water-extractor"
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
     - "satisfactory-updates/teasers-and-trailers/update-6-teasers"
     - "satisfactory-updates/world-update"
 ---
@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=Z7k0qdhP82M
 ### Topics
 * [Environment > Biomes > Spire Coast](../topics/environment/biomes/spire-coast.md)
 * [Features > Buildings > Water Extractor](../topics/features/buildings/water-extractor.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 * [Satisfactory Updates > Teasers & Trailers > Update 6 Teasers](../topics/satisfactory-updates/teasers-and-trailers/update-6-teasers.md)
 * [Satisfactory Updates > World Update](../topics/satisfactory-updates/world-update.md)
 

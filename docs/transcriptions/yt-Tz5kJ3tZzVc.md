@@ -4,7 +4,7 @@ date: "2022-05-03"
 layout: transcript
 topics:
     - "features/buildings/overclocking-and-underclocking"
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
 ---
 # [May 3rd, 2022 Livestream](../2022-05-03.md)
 ## Q&A: Where can we actually vote against/for Overclock rework?
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=Tz5kJ3tZzVc
 
 ### Topics
 * [Features > Buildings > Overclocking & Underclocking](../topics/features/buildings/overclocking-and-underclocking.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 
 ### Transcript
 

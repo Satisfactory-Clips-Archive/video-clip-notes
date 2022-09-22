@@ -4,7 +4,7 @@ date: "2022-09-02"
 layout: transcript
 topics:
     - "environment/creatures"
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
 ---
 # [September 2nd, 2022 Video](../2022-09-02.md)
 ## Creature AI
@@ -12,7 +12,7 @@ https://youtube.com/clip/UgkxJNrbDhR0X667sjPaj7JeZKIX_1Uri-uu
 
 ### Topics
 * [Environment > Creatures](../topics/environment/creatures.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 
 ### Transcript
 

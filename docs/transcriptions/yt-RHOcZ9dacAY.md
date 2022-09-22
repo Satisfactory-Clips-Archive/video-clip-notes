@@ -3,7 +3,7 @@ title: "May 24th, 2022 Livestream Q&A: Is the release date for Update 6 still ea
 date: "2022-05-24"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
 ---
 # [May 24th, 2022 Livestream](../2022-05-24.md)
 ## Q&A: Is the release date for Update 6 still early June?
@@ -18,7 +18,7 @@ This question was possibly replaced with a more recent answer: [June 14th, 2022 
 
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 
 ### Transcript
 

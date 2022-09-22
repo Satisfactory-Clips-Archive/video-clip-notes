@@ -5,8 +5,8 @@ layout: transcript
 topics:
     - "environment/biomes/spire-coast"
     - "environment/biomes/swamp"
-    - "satisfactory-updates/pending/satisfactory-update-6"
     - "satisfactory-updates/release-builds"
+    - "satisfactory-updates/released/satisfactory-update-6"
     - "satisfactory-updates/world-update"
 ---
 # [June 7th, 2022 Livestream](../2022-06-07.md)
@@ -18,8 +18,8 @@ This question was possibly duplicated with a more recent answer: [June 17th, 202
 ### Topics
 * [Environment > Biomes > Spire Coast](../topics/environment/biomes/spire-coast.md)
 * [Environment > Biomes > Swamp](../topics/environment/biomes/swamp.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
 * [Satisfactory Updates > Release Builds](../topics/satisfactory-updates/release-builds.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 * [Satisfactory Updates > World Update](../topics/satisfactory-updates/world-update.md)
 
 ### Transcript

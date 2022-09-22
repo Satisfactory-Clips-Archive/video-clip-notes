@@ -3,7 +3,7 @@ title: "April 12th, 2022 Livestream Q&A: Jace, I thought you said April 32nd for
 date: "2022-04-12"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
     - "trolling"
 ---
 # [April 12th, 2022 Livestream](../2022-04-12.md)
@@ -11,7 +11,7 @@ topics:
 https://www.youtube.com/watch?v=__ik24Rn9AU
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 * [Trolling](../topics/trolling.md)
 
 ### Transcript

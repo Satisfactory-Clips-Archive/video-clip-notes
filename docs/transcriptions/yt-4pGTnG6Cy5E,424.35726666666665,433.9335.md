@@ -4,7 +4,7 @@ date: "2022-06-10"
 layout: transcript
 topics:
     - "features/equipment/blade-runners"
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
     - "satisfactory-updates/teasers-and-trailers/update-6-teasers"
 ---
 # [June 10th, 2022 Video](../2022-06-10.md)
@@ -13,7 +13,7 @@ https://youtube.com/clip/Ugkx-pleBd8puxUPWn2y3ZryXwojJCacc9rl
 
 ### Topics
 * [Features > Equipment > Blade Runners](../topics/features/equipment/blade-runners.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 * [Satisfactory Updates > Teasers & Trailers > Update 6 Teasers](../topics/satisfactory-updates/teasers-and-trailers/update-6-teasers.md)
 
 ### Transcript

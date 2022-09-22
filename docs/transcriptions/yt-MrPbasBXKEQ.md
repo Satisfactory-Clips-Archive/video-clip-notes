@@ -7,7 +7,7 @@ topics:
     - "features/equipment/beacon"
     - "features/power-management/nuclear-energy/nuclear-refinement"
     - "satisfactory-updates"
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
 ---
 # [July 5th, 2022 Livestream](../2022-07-05.md)
 ## Q&A: Will the alt Nuclear Fuel be part of the next Update?
@@ -20,7 +20,7 @@ This question was possibly duplicated with a more recent answer: [September 13th
 * [Features > Equipment > Beacon](../topics/features/equipment/beacon.md)
 * [Features > Power Management > Nuclear Energy > Nuclear Refinement](../topics/features/power-management/nuclear-energy/nuclear-refinement.md)
 * [Satisfactory Updates](../topics/satisfactory-updates.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 
 ### Transcript
 

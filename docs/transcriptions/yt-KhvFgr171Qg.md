@@ -4,7 +4,7 @@ date: "2022-04-26"
 layout: transcript
 topics:
     - "features/buildings/overclocking-and-underclocking"
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
     - "satisfactory-updates/teasers-and-trailers/update-6-teasers"
 ---
 # [April 26th, 2022 Livestream](../2022-04-26.md)
@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=KhvFgr171Qg
 
 ### Topics
 * [Features > Buildings > Overclocking & Underclocking](../topics/features/buildings/overclocking-and-underclocking.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 * [Satisfactory Updates > Teasers & Trailers > Update 6 Teasers](../topics/satisfactory-updates/teasers-and-trailers/update-6-teasers.md)
 
 ### Transcript

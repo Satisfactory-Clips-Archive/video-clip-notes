@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "environment/biomes/spire-coast"
     - "features/buildings/crash-site"
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
 ---
 # [May 24th, 2022 Livestream](../2022-05-24.md)
 ## Q&A: New drop sites?
@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=o62O0oCl7yw
 ### Topics
 * [Environment > Biomes > Spire Coast](../topics/environment/biomes/spire-coast.md)
 * [Features > Buildings > Crash Site](../topics/features/buildings/crash-site.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 
 ### Transcript
 

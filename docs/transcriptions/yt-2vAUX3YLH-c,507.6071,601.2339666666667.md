@@ -10,7 +10,7 @@ topics:
     - "features/buildings"
     - "features/buildings/radar-tower"
     - "features/crafting/recipes/alternate-recipes"
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
     - "satisfactory-updates/teasers-and-trailers/update-6-teasers"
     - "story-and-lore"
     - "technology/user-interface"
@@ -27,7 +27,7 @@ https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=507&end=602
 * [Features > Buildings](../topics/features/buildings.md)
 * [Features > Buildings > Radar Tower](../topics/features/buildings/radar-tower.md)
 * [Features > Crafting > Recipes > Alternate Recipes](../topics/features/crafting/recipes/alternate-recipes.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 * [Satisfactory Updates > Teasers & Trailers > Update 6 Teasers](../topics/satisfactory-updates/teasers-and-trailers/update-6-teasers.md)
 * [Story & Lore](../topics/story-and-lore.md)
 * [Technology > User Interface](../topics/technology/user-interface.md)

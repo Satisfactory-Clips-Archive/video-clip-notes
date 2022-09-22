@@ -6,7 +6,7 @@ topics:
     - "features/equipment/beacon"
     - "features/power-management/nuclear-energy"
     - "features/power-management/nuclear-energy/nuclear-refinement"
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
 ---
 # [May 17th, 2022 Livestream](../2022-05-17.md)
 ## Q&A: What about the Uranium fuel alt?
@@ -18,7 +18,7 @@ This question was possibly replaced with a more recent answer: [May 20th, 2022 V
 * [Features > Equipment > Beacon](../topics/features/equipment/beacon.md)
 * [Features > Power Management > Nuclear Energy](../topics/features/power-management/nuclear-energy.md)
 * [Features > Power Management > Nuclear Energy > Nuclear Refinement](../topics/features/power-management/nuclear-energy/nuclear-refinement.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 
 ### Transcript
 

@@ -4,7 +4,7 @@ date: "2022-05-24"
 layout: transcript
 topics:
     - "features/buildings/overclocking-and-underclocking"
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
 ---
 # [May 24th, 2022 Livestream](../2022-05-24.md)
 ## Q&A: Any updates to the Overclocking discussion?
@@ -14,7 +14,7 @@ This question was possibly duplicated with a more recent answer: [September 13th
 
 ### Topics
 * [Features > Buildings > Overclocking & Underclocking](../topics/features/buildings/overclocking-and-underclocking.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 
 ### Transcript
 

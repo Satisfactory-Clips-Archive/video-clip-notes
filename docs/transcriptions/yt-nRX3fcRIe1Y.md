@@ -4,7 +4,7 @@ date: "2022-04-21"
 layout: transcript
 topics:
     - "features/possible-features/dlc/flushable-toilet-dlc"
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
 ---
 # [April 21st, 2022 Satisfactory x Portal Bonus Stream](../2022-04-21.md)
 ## Q&A: Any leaks?
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=nRX3fcRIe1Y
 
 ### Topics
 * [Features > Possible Features > DLC > Flushable Toilet DLC](../topics/features/possible-features/dlc/flushable-toilet-dlc.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 
 ### Transcript
 

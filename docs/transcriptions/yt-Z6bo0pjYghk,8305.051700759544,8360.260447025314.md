@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "coffee-stainers/hannah"
     - "features/equipment/nobelisk"
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
 ---
 # [June 14th, 2022 Livestream](../2022-06-14.md)
 ## Ben, Dylan, Simon, & Snutt Talk: Shenannnahgans
@@ -14,7 +14,7 @@ https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=8305&end=8361
 ### Topics
 * [Coffee Stainers > Hannah](../topics/coffee-stainers/hannah.md)
 * [Features > Equipment > Nobelisk](../topics/features/equipment/nobelisk.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 
 ### Transcript
 

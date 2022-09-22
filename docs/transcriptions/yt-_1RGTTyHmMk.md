@@ -6,7 +6,7 @@ topics:
     - "environment/biomes/caves"
     - "features/buildings/radar-tower"
     - "features/requested-features"
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
 ---
 # [May 17th, 2022 Livestream](../2022-05-17.md)
 ## Q&A: Will the Radar Towers scan caves?
@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=_1RGTTyHmMk
 * [Environment > Biomes > Caves](../topics/environment/biomes/caves.md)
 * [Features > Buildings > Radar Tower](../topics/features/buildings/radar-tower.md)
 * [Features > Requested Features](../topics/features/requested-features.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 
 ### Transcript
 

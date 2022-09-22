@@ -5,8 +5,8 @@ layout: transcript
 topics:
     - "environment/creatures"
     - "features/multiplayer/dedicated-servers"
-    - "satisfactory-updates/pending/satisfactory-update-6"
     - "satisfactory-updates/release-builds"
+    - "satisfactory-updates/released/satisfactory-update-6"
     - "satisfactory-updates/state-of-dev"
 ---
 # [August 23rd, 2022 Livestream](../2022-08-23.md)
@@ -16,8 +16,8 @@ https://www.youtube.com/watch?v=Or4PvDOCofA
 ### Topics
 * [Environment > Creatures](../topics/environment/creatures.md)
 * [Features > Multiplayer > Dedicated Servers](../topics/features/multiplayer/dedicated-servers.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
 * [Satisfactory Updates > Release Builds](../topics/satisfactory-updates/release-builds.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 * [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 
 ### Transcript

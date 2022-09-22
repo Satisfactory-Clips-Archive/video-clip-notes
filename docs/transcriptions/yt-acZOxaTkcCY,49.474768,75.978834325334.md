@@ -5,8 +5,8 @@ layout: transcript
 topics:
     - "retail/epic-store"
     - "retail/steam-store"
-    - "satisfactory-updates/pending/satisfactory-update-6"
     - "satisfactory-updates/release-builds"
+    - "satisfactory-updates/released/satisfactory-update-6"
 ---
 # [June 17th, 2022 Video](../2022-06-17.md)
 ## Snutt Talk: How to check out Update 6 on Steam & Epic
@@ -15,8 +15,8 @@ https://youtube.com/clip/UgkxcaZNnDl-U-_hLYWK8PSPeMSAt7lgcMUl
 ### Topics
 * [Retail > Epic Store](../topics/retail/epic-store.md)
 * [Retail > Steam Store](../topics/retail/steam-store.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
 * [Satisfactory Updates > Release Builds](../topics/satisfactory-updates/release-builds.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 
 ### Transcript
 

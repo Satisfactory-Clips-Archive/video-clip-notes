@@ -6,8 +6,8 @@ topics:
     - "environment/creatures"
     - "features/buildables/foundations"
     - "features/buildables/roofs"
-    - "satisfactory-updates/pending/satisfactory-update-6"
     - "satisfactory-updates/release-builds"
+    - "satisfactory-updates/released/satisfactory-update-6"
     - "satisfactory-updates/state-of-dev"
 ---
 # [September 6th, 2022 Livestream](../2022-09-06.md)
@@ -18,8 +18,8 @@ https://www.youtube.com/watch?v=hRN17cFJeRc
 * [Environment > Creatures](../topics/environment/creatures.md)
 * [Features > Buildables > Foundations](../topics/features/buildables/foundations.md)
 * [Features > Buildables > Roofs](../topics/features/buildables/roofs.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
 * [Satisfactory Updates > Release Builds](../topics/satisfactory-updates/release-builds.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 * [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 
 ### Transcript

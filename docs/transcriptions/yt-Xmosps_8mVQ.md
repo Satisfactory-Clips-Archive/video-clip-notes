@@ -4,7 +4,7 @@ date: "2022-09-06"
 layout: transcript
 topics:
     - "features/requested-features"
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
     - "technology/user-interface"
 ---
 # [September 6th, 2022 Livestream](../2022-09-06.md)
@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=Xmosps_8mVQ
 
 ### Topics
 * [Features > Requested Features](../topics/features/requested-features.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 * [Technology > User Interface](../topics/technology/user-interface.md)
 
 ### Transcript

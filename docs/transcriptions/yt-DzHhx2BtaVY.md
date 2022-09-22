@@ -6,7 +6,7 @@ topics:
     - "community/community-highlights"
     - "community/j1mbers"
     - "off-topic/portal"
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
     - "trolling"
 ---
 # [April 21st, 2022 Satisfactory x Portal Bonus Stream](../2022-04-21.md)
@@ -17,7 +17,7 @@ https://www.youtube.com/watch?v=DzHhx2BtaVY
 * [Community > Community Highlights](../topics/community/community-highlights.md)
 * [Community > J1mbers](../topics/community/j1mbers.md)
 * [Off-Topic > Portal](../topics/off-topic/portal.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 * [Trolling](../topics/trolling.md)
 
 ### Transcript

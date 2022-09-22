@@ -3,7 +3,7 @@ title: "June 28th, 2022 Livestream Q&A: Any additions to the OST in Update 6?"
 date: "2022-06-28"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
     - "soundtrack"
 ---
 # [June 28th, 2022 Livestream](../2022-06-28.md)
@@ -23,7 +23,7 @@ https://www.youtube.com/watch?v=2NgEQ7n2y-g
 
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 * [Soundtrack](../topics/soundtrack.md)
 
 ### Transcript

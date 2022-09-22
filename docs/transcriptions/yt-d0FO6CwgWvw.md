@@ -6,7 +6,7 @@ topics:
     - "easter-eggs"
     - "features/equipment/boombox"
     - "off-topic/deep-rock-galactic"
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
     - "soundtrack"
 ---
 # [September 13th, 2022 Livestream](../2022-09-13.md)
@@ -17,7 +17,7 @@ https://www.youtube.com/watch?v=d0FO6CwgWvw
 * [Easter Eggs](../topics/easter-eggs.md)
 * [Features > Equipment > Boombox](../topics/features/equipment/boombox.md)
 * [Off-Topic > Deep Rock Galactic](../topics/off-topic/deep-rock-galactic.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 * [Soundtrack](../topics/soundtrack.md)
 
 ### Transcript

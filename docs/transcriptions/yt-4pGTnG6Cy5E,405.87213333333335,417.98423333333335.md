@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "environment/creatures"
     - "features/equipment"
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
     - "satisfactory-updates/teasers-and-trailers/update-6-teasers"
 ---
 # [June 10th, 2022 Video](../2022-06-10.md)
@@ -15,7 +15,7 @@ https://youtube.com/clip/Ugkx4sj95irpBZsaUo6XEv6TneshNwvZbsk9
 ### Topics
 * [Environment > Creatures](../topics/environment/creatures.md)
 * [Features > Equipment](../topics/features/equipment.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 * [Satisfactory Updates > Teasers & Trailers > Update 6 Teasers](../topics/satisfactory-updates/teasers-and-trailers/update-6-teasers.md)
 
 ### Transcript

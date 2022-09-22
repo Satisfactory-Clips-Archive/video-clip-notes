@@ -5,8 +5,8 @@ layout: transcript
 topics:
     - "features/save-system"
     - "features/save-system/cloud-sync"
-    - "satisfactory-updates/pending/satisfactory-update-6"
     - "satisfactory-updates/release-builds"
+    - "satisfactory-updates/released/satisfactory-update-6"
 ---
 # [June 14th, 2022 Livestream](../2022-06-14.md)
 ## Hannah, Anna, Torsten, & Snutt Talk: 5 minutes left to launch
@@ -15,8 +15,8 @@ https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=10965&end=11130
 ### Topics
 * [Features > Save System](../topics/features/save-system.md)
 * [Features > Save System > Cloud Sync](../topics/features/save-system/cloud-sync.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
 * [Satisfactory Updates > Release Builds](../topics/satisfactory-updates/release-builds.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 
 ### Transcript
 

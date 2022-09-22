@@ -6,7 +6,7 @@ topics:
     - "environment"
     - "features/equipment/nobelisk"
     - "features/requested-features"
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
 ---
 # [August 23rd, 2022 Livestream](../2022-08-23.md)
 ## Q&A: Will the explodable rocks that reappear be fixed in Update 6?
@@ -22,7 +22,7 @@ https://www.youtube.com/watch?v=3x91IjO5rSI
 * [Environment](../topics/environment.md)
 * [Features > Equipment > Nobelisk](../topics/features/equipment/nobelisk.md)
 * [Features > Requested Features](../topics/features/requested-features.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 
 ### Transcript
 

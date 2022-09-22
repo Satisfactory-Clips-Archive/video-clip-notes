@@ -4,7 +4,7 @@ date: "2022-05-20"
 layout: transcript
 topics:
     - "features/equipment/rifle"
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
     - "satisfactory-updates/teasers-and-trailers/update-6-teasers"
 ---
 # [May 20th, 2022 Video](../2022-05-20.md)
@@ -13,7 +13,7 @@ https://youtube.com/clip/UgkxLQ7ZKgylIY2UT6JoylH-ZRMzF9b5mNLJ
 
 ### Topics
 * [Features > Equipment > Rifle](../topics/features/equipment/rifle.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 * [Satisfactory Updates > Teasers & Trailers > Update 6 Teasers](../topics/satisfactory-updates/teasers-and-trailers/update-6-teasers.md)
 
 ### Transcript

@@ -4,7 +4,7 @@ date: "2022-05-24"
 layout: transcript
 topics:
     - "features/equipment/beacon"
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
     - "technology/user-interface/markers"
     - "technology/user-interface/stamps"
 ---
@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=yRxTXcN-yLE
 
 ### Topics
 * [Features > Equipment > Beacon](../topics/features/equipment/beacon.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 * [Technology > User Interface > Markers](../topics/technology/user-interface/markers.md)
 * [Technology > User Interface > Stamps](../topics/technology/user-interface/stamps.md)
 

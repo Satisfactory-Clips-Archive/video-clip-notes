@@ -3,7 +3,7 @@ title: "Satisfactory Update 6"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEpOfQ2ATioPVEQvCuB6oJSR
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Pending](../../../topics/satisfactory-updates/pending.md) > Satisfactory Update 6
+# [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Released > Satisfactory Update 6
 
 ## September 13th, 2022 Livestream
 * [Q&A: Are you going to change the Recipes for Beacons?](../../../transcriptions/yt-4tCjpG1zJc0.md) [https://www.youtube.com/watch?v=4tCjpG1zJc0](https://www.youtube.com/watch?v=4tCjpG1zJc0)

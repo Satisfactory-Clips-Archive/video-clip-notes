@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "features/buildings/overclocking-and-underclocking"
     - "features/power-management"
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
 ---
 # [May 24th, 2022 Livestream](../2022-05-24.md)
 ## Q&A: Are you also looking at having Linear Clocking for Overclocking of Power Generators?
@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=Nt9Lf-n9Dcs
 ### Topics
 * [Features > Buildings > Overclocking & Underclocking](../topics/features/buildings/overclocking-and-underclocking.md)
 * [Features > Power Management](../topics/features/power-management.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 
 ### Transcript
 

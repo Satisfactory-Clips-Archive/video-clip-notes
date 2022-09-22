@@ -15,7 +15,7 @@ topics:
     - "features/unplanned-features/golf"
     - "off-topic/food-and-drink"
     - "off-topic/sweden"
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
     - "satisfactory-updates/teasers-and-trailers/update-6-teasers"
     - "technology/user-interface"
 ---
@@ -36,7 +36,7 @@ https://www.youtube.com/watch?v=iw0CLqzO_vA
 * [Features > Unplanned Features > Golf](../topics/features/unplanned-features/golf.md)
 * [Off-Topic > Food & Drink](../topics/off-topic/food-and-drink.md)
 * [Off-Topic > Sweden](../topics/off-topic/sweden.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 * [Satisfactory Updates > Teasers & Trailers > Update 6 Teasers](../topics/satisfactory-updates/teasers-and-trailers/update-6-teasers.md)
 * [Technology > User Interface](../topics/technology/user-interface.md)
 

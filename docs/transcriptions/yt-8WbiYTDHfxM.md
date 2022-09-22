@@ -4,7 +4,7 @@ date: "2022-05-17"
 layout: transcript
 topics:
     - "features/equipment/beacon"
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
 ---
 # [May 17th, 2022 Livestream](../2022-05-17.md)
 ## Q&A: Are Beacons decidedly being removed?
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=8WbiYTDHfxM
 
 ### Topics
 * [Features > Equipment > Beacon](../topics/features/equipment/beacon.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 
 ### Transcript
 

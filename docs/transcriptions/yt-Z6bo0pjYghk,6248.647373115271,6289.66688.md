@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "coffee-stainers/snutt"
     - "features/equipment/nobelisk"
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
     - "satisfactory-updates/teasers-and-trailers/update-6-teasers"
 ---
 # [June 14th, 2022 Livestream](../2022-06-14.md)
@@ -27,7 +27,7 @@ https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=6248&end=6290
 ### Topics
 * [Coffee Stainers > Snutt](../topics/coffee-stainers/snutt.md)
 * [Features > Equipment > Nobelisk](../topics/features/equipment/nobelisk.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 * [Satisfactory Updates > Teasers & Trailers > Update 6 Teasers](../topics/satisfactory-updates/teasers-and-trailers/update-6-teasers.md)
 
 ### Transcript

@@ -4,7 +4,7 @@ date: "2022-05-17"
 layout: transcript
 topics:
     - "features/multiplayer"
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
     - "technology/user-interface"
     - "technology/user-interface/markers"
     - "technology/user-interface/stamps"
@@ -15,7 +15,7 @@ https://www.youtube.com/watch?v=-kK37J52sSA
 
 ### Topics
 * [Features > Multiplayer](../topics/features/multiplayer.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 * [Technology > User Interface](../topics/technology/user-interface.md)
 * [Technology > User Interface > Markers](../topics/technology/user-interface/markers.md)
 * [Technology > User Interface > Stamps](../topics/technology/user-interface/stamps.md)

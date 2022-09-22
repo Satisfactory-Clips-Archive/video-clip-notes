@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "features/crafting"
     - "features/crafting/recipes"
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
     - "satisfactory-updates/teasers-and-trailers/update-6-teasers"
     - "technology/user-interface"
 ---
@@ -16,7 +16,7 @@ https://youtube.com/embed/QYMHs1aTyOs?autoplay=1&start=807&end=898
 ### Topics
 * [Features > Crafting](../topics/features/crafting.md)
 * [Features > Crafting > Recipes](../topics/features/crafting/recipes.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 * [Satisfactory Updates > Teasers & Trailers > Update 6 Teasers](../topics/satisfactory-updates/teasers-and-trailers/update-6-teasers.md)
 * [Technology > User Interface](../topics/technology/user-interface.md)
 

@@ -3,8 +3,8 @@ title: "June 14th, 2022 Livestream Hannah, Anna, Torsten, & Snutt Talk: No Patch
 date: "2022-06-14"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-6"
     - "satisfactory-updates/release-builds"
+    - "satisfactory-updates/released/satisfactory-update-6"
     - "satisfactory-updates/teasers-and-trailers/update-6-teasers"
 ---
 # [June 14th, 2022 Livestream](../2022-06-14.md)
@@ -18,8 +18,8 @@ https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=11129&end=11179
 
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
 * [Satisfactory Updates > Release Builds](../topics/satisfactory-updates/release-builds.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 * [Satisfactory Updates > Teasers & Trailers > Update 6 Teasers](../topics/satisfactory-updates/teasers-and-trailers/update-6-teasers.md)
 
 ### Transcript

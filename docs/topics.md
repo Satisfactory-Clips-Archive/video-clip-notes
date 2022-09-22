@@ -509,7 +509,6 @@ date: Last Modified
 ---
 
 ## [Pending](./topics/satisfactory-updates/pending.md)
-* [Satisfactory Update 6](./topics/satisfactory-updates/pending/satisfactory-update-6.md)
 * [Satisfactory 1.0](./topics/satisfactory-updates/pending/satisfactory-1-0.md)
 ---
 
@@ -525,6 +524,7 @@ date: Last Modified
 * [Northern Forest World Update Q&A with Hannah](./topics/satisfactory-updates/released/satisfactory-update-5/northern-forest-world-update-q-and-a-with-hannah.md)
 * [Update 5 Torsten's Cosmetics Whiteboard](./topics/satisfactory-updates/released/satisfactory-update-5/torstens-cosmetics-whiteboard.md)
 ---
+* [Satisfactory Update 6](./topics/satisfactory-updates/released/satisfactory-update-6.md)
 
 ### [Satisfactory Alpha](./topics/satisfactory-updates/released/satisfactory-alpha.md)
 * [Alpha Weekend](./topics/satisfactory-updates/released/satisfactory-alpha/alpha-weekend.md)

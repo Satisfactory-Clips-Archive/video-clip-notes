@@ -4,9 +4,9 @@ date: "2021-12-14"
 layout: transcript
 topics:
     - "community"
-    - "satisfactory-updates/pending/satisfactory-update-6"
     - "satisfactory-updates/released/satisfactory-update-4"
     - "satisfactory-updates/released/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-6"
     - "satisfactory-updates/seasonal-events/fics-mas"
 ---
 # [December 14th, 2021 Livestream](../2021-12-14.md)
@@ -15,9 +15,9 @@ https://www.youtube.com/watch?v=4kbofImwd6Q
 
 ### Topics
 * [Community](../topics/community.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
 * [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 * [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 * [Satisfactory Updates > Seasonal Events > FICS⁕MAS](../topics/satisfactory-updates/seasonal-events/fics-mas.md)
 
 ### Transcript

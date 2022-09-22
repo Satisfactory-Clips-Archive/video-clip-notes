@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "environment"
     - "features/possible-features/weather-systems"
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
     - "technology/graphics"
 ---
 # [June 14th, 2022 Livestream](../2022-06-14.md)
@@ -21,7 +21,7 @@ https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=8127&end=8277
 ### Topics
 * [Environment](../topics/environment.md)
 * [Features > Possible Features > Weather Systems](../topics/features/possible-features/weather-systems.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 * [Technology > Graphics](../topics/technology/graphics.md)
 
 ### Transcript

@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "environment/world-map"
     - "features/buildings/radar-tower"
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
     - "satisfactory-updates/teasers-and-trailers/update-6-teasers"
     - "technology/user-interface"
 ---
@@ -16,7 +16,7 @@ https://youtube.com/clip/Ugkx5x2bQA1difTBhirAncKs5J55MzzrNydA
 ### Topics
 * [Environment > World Map](../topics/environment/world-map.md)
 * [Features > Buildings > Radar Tower](../topics/features/buildings/radar-tower.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 * [Satisfactory Updates > Teasers & Trailers > Update 6 Teasers](../topics/satisfactory-updates/teasers-and-trailers/update-6-teasers.md)
 * [Technology > User Interface](../topics/technology/user-interface.md)
 

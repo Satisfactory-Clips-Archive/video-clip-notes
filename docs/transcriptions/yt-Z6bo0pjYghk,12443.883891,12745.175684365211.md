@@ -4,8 +4,8 @@ date: "2022-06-14"
 layout: transcript
 topics:
     - "qa-site"
-    - "satisfactory-updates/pending/satisfactory-update-6"
     - "satisfactory-updates/release-builds"
+    - "satisfactory-updates/released/satisfactory-update-6"
 ---
 # [June 14th, 2022 Livestream](../2022-06-14.md)
 ## Birk & Snutt Talk: The QA Site
@@ -13,8 +13,8 @@ https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=12443&end=12746
 
 ### Topics
 * [QA Site](../topics/qa-site.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
 * [Satisfactory Updates > Release Builds](../topics/satisfactory-updates/release-builds.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 
 ### Transcript
 

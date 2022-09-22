@@ -3,14 +3,14 @@ title: "September 2nd, 2022 Video Quick Rewind"
 date: "2022-09-02"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
 ---
 # [September 2nd, 2022 Video](../2022-09-02.md)
 ## Quick Rewind
 https://youtube.com/embed/Pgm1L8aIf6E?autoplay=1&start=25&end=90
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 
 ### Transcript
 

@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "features/requested-features"
     - "features/requested-features/multiple-body-slots"
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
 ---
 # [May 24th, 2022 Livestream](../2022-05-24.md)
 ## Q&A: Are there going to be more Body Slots?
@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=ELRYpQPxsOo
 ### Topics
 * [Features > Requested Features](../topics/features/requested-features.md)
 * [Features > Requested Features > Multiple Body Slots](../topics/features/requested-features/multiple-body-slots.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 
 ### Transcript
 

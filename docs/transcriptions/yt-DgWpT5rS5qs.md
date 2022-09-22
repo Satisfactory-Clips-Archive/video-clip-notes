@@ -4,7 +4,7 @@ date: "2022-05-10"
 layout: transcript
 topics:
     - "environment/biomes/desert-canyons"
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
     - "satisfactory-updates/teasers-and-trailers/update-6-teasers"
     - "satisfactory-updates/world-update"
     - "technology/unreal-engine"
@@ -15,7 +15,7 @@ https://www.youtube.com/watch?v=DgWpT5rS5qs
 
 ### Topics
 * [Environment > Biomes > Desert Canyons](../topics/environment/biomes/desert-canyons.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 * [Satisfactory Updates > Teasers & Trailers > Update 6 Teasers](../topics/satisfactory-updates/teasers-and-trailers/update-6-teasers.md)
 * [Satisfactory Updates > World Update](../topics/satisfactory-updates/world-update.md)
 * [Technology > Unreal Engine](../topics/technology/unreal-engine.md)

@@ -6,7 +6,7 @@ topics:
     - "features/crafting/recipes"
     - "features/equipment/beacon"
     - "features/transportation/vehicles"
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
 ---
 # [May 17th, 2022 Livestream](../2022-05-17.md)
 ## Q&A: Will Beacons be replaced with something for building Vehicles?
@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=K7MGuYiuzno
 * [Features > Crafting > Recipes](../topics/features/crafting/recipes.md)
 * [Features > Equipment > Beacon](../topics/features/equipment/beacon.md)
 * [Features > Transportation > Vehicles](../topics/features/transportation/vehicles.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 
 ### Transcript
 

@@ -3,7 +3,7 @@ title: "May 13th, 2022 Video Stamps"
 date: "2022-05-13"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
     - "satisfactory-updates/teasers-and-trailers/update-6-teasers"
     - "technology/user-interface/stamps"
 ---
@@ -12,7 +12,7 @@ topics:
 https://youtube.com/clip/UgkxIHS3HMuLo6ZOD8ITUy9fJUpO7Ue9Etf3
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 * [Satisfactory Updates > Teasers & Trailers > Update 6 Teasers](../topics/satisfactory-updates/teasers-and-trailers/update-6-teasers.md)
 * [Technology > User Interface > Stamps](../topics/technology/user-interface/stamps.md)
 

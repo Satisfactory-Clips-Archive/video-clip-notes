@@ -9,7 +9,7 @@ topics:
     - "features/equipment/beacon"
     - "features/power-management/nuclear-energy/nuclear-refinement"
     - "satisfactory-updates/pending"
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
     - "satisfactory-updates/teasers-and-trailers/update-6-teasers"
     - "technology/user-interface/markers"
     - "technology/user-interface/stamps"
@@ -25,7 +25,7 @@ https://youtube.com/embed/QYMHs1aTyOs?autoplay=1&start=60&end=194
 * [Features > Equipment > Beacon](../topics/features/equipment/beacon.md)
 * [Features > Power Management > Nuclear Energy > Nuclear Refinement](../topics/features/power-management/nuclear-energy/nuclear-refinement.md)
 * [Satisfactory Updates > Pending](../topics/satisfactory-updates/pending.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 * [Satisfactory Updates > Teasers & Trailers > Update 6 Teasers](../topics/satisfactory-updates/teasers-and-trailers/update-6-teasers.md)
 * [Technology > User Interface > Markers](../topics/technology/user-interface/markers.md)
 * [Technology > User Interface > Stamps](../topics/technology/user-interface/stamps.md)

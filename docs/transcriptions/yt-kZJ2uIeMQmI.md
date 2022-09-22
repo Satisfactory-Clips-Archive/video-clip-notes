@@ -3,7 +3,7 @@ title: "June 28th, 2022 Livestream Q&A: Will we get a Patch Notes video for Upda
 date: "2022-06-28"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
     - "satisfactory-updates/teasers-and-trailers/update-6-patch-notes-video"
 ---
 # [June 28th, 2022 Livestream](../2022-06-28.md)
@@ -11,7 +11,7 @@ topics:
 https://www.youtube.com/watch?v=kZJ2uIeMQmI
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 * [Satisfactory Updates > Teasers & Trailers > Update 6 Patch Notes Video](../topics/satisfactory-updates/teasers-and-trailers/update-6-patch-notes-video.md)
 
 ### Transcript

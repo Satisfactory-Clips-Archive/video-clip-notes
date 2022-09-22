@@ -7,7 +7,7 @@ topics:
     - "off-topic/terrible-jokes"
     - "off-topic/the-legend-of-zelda"
     - "off-topic/the-lord-of-the-rings"
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
     - "satisfactory-updates/teasers-and-trailers/update-6-teasers"
     - "technology/user-interface"
     - "technology/user-interface/markers"
@@ -22,7 +22,7 @@ https://youtube.com/clip/UgkxWv7VFkF9B7yA--byc8J6Vo1xjuFsKgVq
 * [Off-Topic > Terrible Jokes](../topics/off-topic/terrible-jokes.md)
 * [Off-Topic > The Legend of Zelda](../topics/off-topic/the-legend-of-zelda.md)
 * [Off-Topic > The Lord of the Rings](../topics/off-topic/the-lord-of-the-rings.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 * [Satisfactory Updates > Teasers & Trailers > Update 6 Teasers](../topics/satisfactory-updates/teasers-and-trailers/update-6-teasers.md)
 * [Technology > User Interface](../topics/technology/user-interface.md)
 * [Technology > User Interface > Markers](../topics/technology/user-interface/markers.md)

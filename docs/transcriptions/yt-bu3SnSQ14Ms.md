@@ -8,7 +8,7 @@ topics:
     - "environment/biomes"
     - "environment/biomes/northern-forest"
     - "environment/biomes/spire-coast"
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
     - "satisfactory-updates/world-update"
 ---
 # [May 10th, 2022 Livestream](../2022-05-10.md)
@@ -28,7 +28,7 @@ https://www.youtube.com/watch?v=bu3SnSQ14Ms
 * [Environment > Biomes](../topics/environment/biomes.md)
 * [Environment > Biomes > Northern Forest](../topics/environment/biomes/northern-forest.md)
 * [Environment > Biomes > Spire Coast](../topics/environment/biomes/spire-coast.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 * [Satisfactory Updates > World Update](../topics/satisfactory-updates/world-update.md)
 
 ### Transcript

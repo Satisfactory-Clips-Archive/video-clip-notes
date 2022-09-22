@@ -7,9 +7,9 @@ topics:
     - "features/possible-features/weather-systems"
     - "satisfactory-updates"
     - "satisfactory-updates/pending/satisfactory-1-0"
-    - "satisfactory-updates/pending/satisfactory-update-6"
     - "satisfactory-updates/release-builds"
     - "satisfactory-updates/released/satisfactory-update-5/save-the-willows"
+    - "satisfactory-updates/released/satisfactory-update-6"
     - "satisfactory-updates/state-of-dev"
     - "satisfactory-updates/teasers-and-trailers/update-6-teasers"
     - "technology/graphics"
@@ -24,9 +24,9 @@ https://www.youtube.com/watch?v=Hk3kvpq7Ofo
 * [Features > Possible Features > Weather Systems](../topics/features/possible-features/weather-systems.md)
 * [Satisfactory Updates](../topics/satisfactory-updates.md)
 * [Satisfactory Updates > Pending > Satisfactory 1.0](../topics/satisfactory-updates/pending/satisfactory-1-0.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
 * [Satisfactory Updates > Release Builds](../topics/satisfactory-updates/release-builds.md)
 * [Satisfactory Updates > Released > Satisfactory Update 5 > #SaveTheWillows](../topics/satisfactory-updates/released/satisfactory-update-5/save-the-willows.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 * [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 * [Satisfactory Updates > Teasers & Trailers > Update 6 Teasers](../topics/satisfactory-updates/teasers-and-trailers/update-6-teasers.md)
 * [Technology > Graphics](../topics/technology/graphics.md)

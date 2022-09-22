@@ -3,16 +3,16 @@ title: "June 14th, 2022 Livestream Stefan & Snutt Talk: Switching to the Experim
 date: "2022-06-14"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-6"
     - "satisfactory-updates/release-builds"
+    - "satisfactory-updates/released/satisfactory-update-6"
 ---
 # [June 14th, 2022 Livestream](../2022-06-14.md)
 ## Stefan & Snutt Talk: Switching to the Experimental release
 https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=11799&end=11886
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
 * [Satisfactory Updates > Release Builds](../topics/satisfactory-updates/release-builds.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 
 ### Transcript
 

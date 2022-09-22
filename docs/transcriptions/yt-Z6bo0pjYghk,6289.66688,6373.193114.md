@@ -4,7 +4,7 @@ date: "2022-06-14"
 layout: transcript
 topics:
     - "environment/world-map"
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
     - "technology/user-interface"
     - "technology/user-interface/markers"
     - "technology/user-interface/stamps"
@@ -15,7 +15,7 @@ https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=6289&end=6374
 
 ### Topics
 * [Environment > World Map](../topics/environment/world-map.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 * [Technology > User Interface](../topics/technology/user-interface.md)
 * [Technology > User Interface > Markers](../topics/technology/user-interface/markers.md)
 * [Technology > User Interface > Stamps](../topics/technology/user-interface/stamps.md)

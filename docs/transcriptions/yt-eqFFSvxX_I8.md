@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "coffee-stainers"
     - "embracer-group/coffee-stain-holding/coffee-stain-studios"
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
 ---
 # [May 3rd, 2022 Livestream](../2022-05-03.md)
 ## Q&A: Drop it before vacation?
@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=eqFFSvxX_I8
 ### Topics
 * [Coffee Stainers](../topics/coffee-stainers.md)
 * [Embracer Group > Coffee Stain Holding > Coffee Stain Studios](../topics/embracer-group/coffee-stain-holding/coffee-stain-studios.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 
 ### Transcript
 

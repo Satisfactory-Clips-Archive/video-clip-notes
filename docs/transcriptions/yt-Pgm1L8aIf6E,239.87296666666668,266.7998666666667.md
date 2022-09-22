@@ -4,7 +4,7 @@ date: "2022-09-02"
 layout: transcript
 topics:
     - "features/transportation/vehicles/explorer"
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
 ---
 # [September 2nd, 2022 Video](../2022-09-02.md)
 ## Solving the problem with the Explorer having two seats
@@ -12,7 +12,7 @@ https://youtube.com/clip/UgkxP3bL_gUS4aQuUjRfVbS0J-ZiApsS02XO
 
 ### Topics
 * [Features > Transportation > Vehicles > Explorer](../topics/features/transportation/vehicles/explorer.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 
 ### Transcript
 

@@ -8,7 +8,7 @@ topics:
     - "features/buildables/walls"
     - "merch"
     - "merch/eu-merch-store"
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
     - "satisfactory-updates/state-of-dev"
 ---
 # [September 13th, 2022 Livestream](../2022-09-13.md)
@@ -21,7 +21,7 @@ https://www.youtube.com/watch?v=99II6zSq_J0
 * [Features > Buildables > Walls](../topics/features/buildables/walls.md)
 * [Merch](../topics/merch.md)
 * [Merch > EU Merch Store](../topics/merch/eu-merch-store.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 * [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 
 ### Transcript

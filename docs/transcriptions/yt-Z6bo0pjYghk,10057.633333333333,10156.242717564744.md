@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "coffee-stainers/lym"
     - "environment/biomes/dune-desert"
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
     - "satisfactory-updates/world-update"
 ---
 # [June 14th, 2022 Livestream](../2022-06-14.md)
@@ -15,7 +15,7 @@ https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=10057&end=10157
 ### Topics
 * [Coffee Stainers > Lym](../topics/coffee-stainers/lym.md)
 * [Environment > Biomes > Dune Desert](../topics/environment/biomes/dune-desert.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 * [Satisfactory Updates > World Update](../topics/satisfactory-updates/world-update.md)
 
 ### Transcript

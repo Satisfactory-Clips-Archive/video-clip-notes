@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "features/equipment"
     - "features/pioneer"
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
 ---
 # [June 14th, 2022 Livestream](../2022-06-14.md)
 ## Etienne & Snutt Talk: First-person-view improvements
@@ -14,7 +14,7 @@ https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=7589&end=7643
 ### Topics
 * [Features > Equipment](../topics/features/equipment.md)
 * [Features > Pioneer](../topics/features/pioneer.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 
 ### Transcript
 

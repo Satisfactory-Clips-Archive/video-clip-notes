@@ -4,8 +4,8 @@ date: "2022-06-28"
 layout: transcript
 topics:
     - "features/save-system"
-    - "satisfactory-updates/pending/satisfactory-update-6"
     - "satisfactory-updates/release-builds"
+    - "satisfactory-updates/released/satisfactory-update-6"
 ---
 # [June 28th, 2022 Livestream](../2022-06-28.md)
 ## Q&A: Will Experimental Update 6 save work when Update 6 comes to EA?
@@ -26,8 +26,8 @@ https://www.youtube.com/watch?v=F-Q47hXTGMc
 
 ### Topics
 * [Features > Save System](../topics/features/save-system.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
 * [Satisfactory Updates > Release Builds](../topics/satisfactory-updates/release-builds.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 
 ### Transcript
 

@@ -11,7 +11,7 @@ topics:
     - "features/possible-features/weather-systems"
     - "features/requested-features"
     - "news"
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
     - "satisfactory-updates/state-of-dev"
     - "satisfactory-updates/teasers-and-trailers/update-6-teasers"
     - "technology/user-interface"
@@ -31,7 +31,7 @@ https://www.youtube.com/watch?v=Z6M_0T26BIA
 * [Features > Possible Features > Weather Systems](../topics/features/possible-features/weather-systems.md)
 * [Features > Requested Features](../topics/features/requested-features.md)
 * [News](../topics/news.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 * [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 * [Satisfactory Updates > Teasers & Trailers > Update 6 Teasers](../topics/satisfactory-updates/teasers-and-trailers/update-6-teasers.md)
 * [Technology > User Interface](../topics/technology/user-interface.md)

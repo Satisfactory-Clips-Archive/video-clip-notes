@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "embracer-group/coffee-stain-holding/coffee-stain-studios"
     - "satisfactory-updates"
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
 ---
 # [April 12th, 2022 Livestream](../2022-04-12.md)
 ## Q&A: Has the team decided on a course of action for the next Update?
@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=pmxkB0r9kjE
 ### Topics
 * [Embracer Group > Coffee Stain Holding > Coffee Stain Studios](../topics/embracer-group/coffee-stain-holding/coffee-stain-studios.md)
 * [Satisfactory Updates](../topics/satisfactory-updates.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 
 ### Transcript
 

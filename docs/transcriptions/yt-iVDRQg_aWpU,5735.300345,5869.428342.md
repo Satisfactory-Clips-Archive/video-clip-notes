@@ -4,7 +4,7 @@ date: "2021-11-23"
 layout: transcript
 topics:
     - "satisfactory-updates/pending/satisfactory-1-0"
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
 ---
 # [November 23rd, 2021 Livestream](../2021-11-23.md)
 ## Q&A: Will it be Update 6 next, or 1.0?
@@ -12,7 +12,7 @@ https://youtube.com/embed/iVDRQg_aWpU?autoplay=1&start=5735&end=5870
 
 ### Topics
 * [Satisfactory Updates > Pending > Satisfactory 1.0](../topics/satisfactory-updates/pending/satisfactory-1-0.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 
 ### Transcript
 

@@ -6,7 +6,7 @@ topics:
     - "environment/creatures/space-giraffe-tick-penguin-whale-thing"
     - "environment/resources"
     - "features/equipment/resource-scanner"
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
     - "satisfactory-updates/teasers-and-trailers/update-6-teasers"
     - "technology/user-interface"
     - "technology/user-interface/markers"
@@ -19,7 +19,7 @@ https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=708&end=780
 * [Environment > Creatures > Space Giraffe-Tick-Penguin-Whale Thing](../topics/environment/creatures/space-giraffe-tick-penguin-whale-thing.md)
 * [Environment > Resources](../topics/environment/resources.md)
 * [Features > Equipment > Resource Scanner](../topics/features/equipment/resource-scanner.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 * [Satisfactory Updates > Teasers & Trailers > Update 6 Teasers](../topics/satisfactory-updates/teasers-and-trailers/update-6-teasers.md)
 * [Technology > User Interface](../topics/technology/user-interface.md)
 * [Technology > User Interface > Markers](../topics/technology/user-interface/markers.md)

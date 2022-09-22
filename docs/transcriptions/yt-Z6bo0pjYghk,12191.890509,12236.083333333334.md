@@ -3,8 +3,8 @@ title: "June 14th, 2022 Livestream Birk & Snutt Talk: Update 6 initial release P
 date: "2022-06-14"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-6"
     - "satisfactory-updates/release-builds"
+    - "satisfactory-updates/released/satisfactory-update-6"
 ---
 # [June 14th, 2022 Livestream](../2022-06-14.md)
 ## Birk & Snutt Talk: Update 6 initial release Patch Notes (Part 2)
@@ -18,8 +18,8 @@ https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=12191&end=12237
 
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
 * [Satisfactory Updates > Release Builds](../topics/satisfactory-updates/release-builds.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 
 ### Transcript
 

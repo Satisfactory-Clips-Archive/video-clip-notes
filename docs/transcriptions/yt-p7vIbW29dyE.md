@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "features/equipment/beacon"
     - "mods/mods-vs-features"
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
     - "technology/user-interface/markers"
 ---
 # [May 17th, 2022 Livestream](../2022-05-17.md)
@@ -15,7 +15,7 @@ https://www.youtube.com/watch?v=p7vIbW29dyE
 ### Topics
 * [Features > Equipment > Beacon](../topics/features/equipment/beacon.md)
 * [Mods > Mods vs. Features](../topics/mods/mods-vs-features.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 * [Technology > User Interface > Markers](../topics/technology/user-interface/markers.md)
 
 ### Transcript

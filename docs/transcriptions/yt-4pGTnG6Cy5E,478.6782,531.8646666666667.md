@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "features/buildings/awesome-store"
     - "features/buildings/m-a-m"
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
     - "satisfactory-updates/teasers-and-trailers/update-6-teasers"
 ---
 # [June 10th, 2022 Video](../2022-06-10.md)
@@ -15,7 +15,7 @@ https://youtube.com/clip/Ugkxy2MjxoBkqBz7u9uSBYRkMAHVCJvSUIHj
 ### Topics
 * [Features > Buildings > AWESOME Store](../topics/features/buildings/awesome-store.md)
 * [Features > Buildings > M.A.M.](../topics/features/buildings/m-a-m.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 * [Satisfactory Updates > Teasers & Trailers > Update 6 Teasers](../topics/satisfactory-updates/teasers-and-trailers/update-6-teasers.md)
 
 ### Transcript

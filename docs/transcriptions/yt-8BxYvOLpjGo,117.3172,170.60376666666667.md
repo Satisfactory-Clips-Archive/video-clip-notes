@@ -7,7 +7,7 @@ topics:
     - "environment/resources"
     - "environment/resources/power-slug"
     - "satisfactory-updates"
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
     - "satisfactory-updates/teasers-and-trailers/update-6-teasers"
     - "satisfactory-updates/world-update"
 ---
@@ -20,7 +20,7 @@ https://youtube.com/clip/UgkxdoSTjRIaKwSDb_9pHxzosJ0CcTJCPfve
 * [Environment > Resources](../topics/environment/resources.md)
 * [Environment > Resources > Power Slug](../topics/environment/resources/power-slug.md)
 * [Satisfactory Updates](../topics/satisfactory-updates.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 * [Satisfactory Updates > Teasers & Trailers > Update 6 Teasers](../topics/satisfactory-updates/teasers-and-trailers/update-6-teasers.md)
 * [Satisfactory Updates > World Update](../topics/satisfactory-updates/world-update.md)
 

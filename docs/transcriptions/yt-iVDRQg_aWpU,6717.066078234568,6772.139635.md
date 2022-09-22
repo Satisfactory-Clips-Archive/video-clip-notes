@@ -3,7 +3,7 @@ title: "November 23rd, 2021 Livestream Q&A: What to expect for Update 6?"
 date: "2021-11-23"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
 ---
 # [November 23rd, 2021 Livestream](../2021-11-23.md)
 ## Q&A: What to expect for Update 6?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: [January 18th, 
 
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 
 ### Transcript
 

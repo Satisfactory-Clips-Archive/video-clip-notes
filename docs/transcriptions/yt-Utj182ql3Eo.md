@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "satisfactory-updates"
     - "satisfactory-updates/pending/satisfactory-1-0"
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
 ---
 # [May 17th, 2022 Livestream](../2022-05-17.md)
 ## Snutt Talk: Difference in development process going forward
@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=Utj182ql3Eo
 ### Topics
 * [Satisfactory Updates](../topics/satisfactory-updates.md)
 * [Satisfactory Updates > Pending > Satisfactory 1.0](../topics/satisfactory-updates/pending/satisfactory-1-0.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 
 ### Transcript
 

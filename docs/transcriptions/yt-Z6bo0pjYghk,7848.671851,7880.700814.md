@@ -4,7 +4,7 @@ date: "2022-06-14"
 layout: transcript
 topics:
     - "environment/biomes/swamp"
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
 ---
 # [June 14th, 2022 Livestream](../2022-06-14.md)
 ## Ben, Dylan, Simon, & Snutt Talk: Swamp (Part 1)
@@ -18,7 +18,7 @@ https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=7848&end=7881
 
 ### Topics
 * [Environment > Biomes > Swamp](../topics/environment/biomes/swamp.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 
 ### Transcript
 

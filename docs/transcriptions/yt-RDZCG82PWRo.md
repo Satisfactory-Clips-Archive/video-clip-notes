@@ -7,7 +7,7 @@ topics:
     - "features/equipment/beacon"
     - "features/power-management/nuclear-energy"
     - "features/power-management/nuclear-energy/nuclear-refinement"
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
 ---
 # [August 23rd, 2022 Livestream](../2022-08-23.md)
 ## Q&A: New Nuclear Recipes confirmed?
@@ -20,7 +20,7 @@ This question was possibly duplicated with a more recent answer: [September 13th
 * [Features > Equipment > Beacon](../topics/features/equipment/beacon.md)
 * [Features > Power Management > Nuclear Energy](../topics/features/power-management/nuclear-energy.md)
 * [Features > Power Management > Nuclear Energy > Nuclear Refinement](../topics/features/power-management/nuclear-energy/nuclear-refinement.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 
 ### Transcript
 

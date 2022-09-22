@@ -4,7 +4,7 @@ date: "2022-05-10"
 layout: transcript
 topics:
     - "environment"
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
     - "satisfactory-updates/world-update"
 ---
 # [May 10th, 2022 Livestream](../2022-05-10.md)
@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=JnBU2qNEas4
 
 ### Topics
 * [Environment](../topics/environment.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 * [Satisfactory Updates > World Update](../topics/satisfactory-updates/world-update.md)
 
 ### Transcript

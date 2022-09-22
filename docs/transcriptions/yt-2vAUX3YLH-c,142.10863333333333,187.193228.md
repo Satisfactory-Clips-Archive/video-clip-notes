@@ -4,7 +4,7 @@ date: "2022-05-13"
 layout: transcript
 topics:
     - "features/equipment/beacon"
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
     - "satisfactory-updates/teasers-and-trailers/update-6-teasers"
     - "technology/user-interface"
 ---
@@ -14,7 +14,7 @@ https://youtube.com/clip/UgkxUoFtVkKDtj0_Pe-bM_vs93ieHHoH_nkg
 
 ### Topics
 * [Features > Equipment > Beacon](../topics/features/equipment/beacon.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 * [Satisfactory Updates > Teasers & Trailers > Update 6 Teasers](../topics/satisfactory-updates/teasers-and-trailers/update-6-teasers.md)
 * [Technology > User Interface](../topics/technology/user-interface.md)
 

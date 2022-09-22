@@ -4,8 +4,8 @@ date: "2021-11-09"
 layout: transcript
 topics:
     - "features/multiplayer/dedicated-servers"
-    - "satisfactory-updates/pending/satisfactory-update-6"
     - "satisfactory-updates/released/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-6"
     - "satisfactory-updates/state-of-dev"
 ---
 # [November 9th, 2021 Livestream](../2021-11-09.md)
@@ -14,8 +14,8 @@ https://www.youtube.com/watch?v=02gPaTMBjkg
 
 ### Topics
 * [Features > Multiplayer > Dedicated Servers](../topics/features/multiplayer/dedicated-servers.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
 * [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 * [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 
 ### Transcript

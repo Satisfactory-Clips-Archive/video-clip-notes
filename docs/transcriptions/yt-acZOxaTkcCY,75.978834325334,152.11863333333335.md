@@ -5,8 +5,8 @@ layout: transcript
 topics:
     - "features/save-system"
     - "features/save-system/cloud-sync"
-    - "satisfactory-updates/pending/satisfactory-update-6"
     - "satisfactory-updates/release-builds"
+    - "satisfactory-updates/released/satisfactory-update-6"
 ---
 # [June 17th, 2022 Video](../2022-06-17.md)
 ## Snutt Talk: Back up your damn save files
@@ -15,8 +15,8 @@ https://youtube.com/embed/acZOxaTkcCY?autoplay=1&start=75&end=153
 ### Topics
 * [Features > Save System](../topics/features/save-system.md)
 * [Features > Save System > Cloud Sync](../topics/features/save-system/cloud-sync.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
 * [Satisfactory Updates > Release Builds](../topics/satisfactory-updates/release-builds.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 
 ### Transcript
 

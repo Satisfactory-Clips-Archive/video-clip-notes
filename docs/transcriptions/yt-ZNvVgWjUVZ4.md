@@ -3,7 +3,7 @@ title: "August 31st, 2021 Livestream Q&A: Update 6, when?"
 date: "2021-08-31"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
     - "trolling"
 ---
 # [August 31st, 2021 Livestream](../2021-08-31.md)
@@ -13,7 +13,7 @@ This question was possibly duplicated with a more recent answer: [February 15th,
 
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 * [Trolling](../topics/trolling.md)
 
 ### Transcript

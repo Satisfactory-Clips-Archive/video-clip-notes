@@ -3,16 +3,16 @@ title: "September 13th, 2022 Livestream Q&A: Will we still have an Experimental 
 date: "2022-09-13"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-6"
     - "satisfactory-updates/release-builds"
+    - "satisfactory-updates/released/satisfactory-update-6"
 ---
 # [September 13th, 2022 Livestream](../2022-09-13.md)
 ## Q&A: Will we still have an Experimental build?
 https://www.youtube.com/watch?v=qkOyDnplGUA
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
 * [Satisfactory Updates > Release Builds](../topics/satisfactory-updates/release-builds.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 
 ### Transcript
 

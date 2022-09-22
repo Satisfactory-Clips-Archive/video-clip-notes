@@ -4,7 +4,7 @@ date: "2022-06-14"
 layout: transcript
 topics:
     - "coffee-stainers/hannah"
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
 ---
 # [June 14th, 2022 Livestream](../2022-06-14.md)
 ## Q&A: What's the last time you pressed Play, Hannah?
@@ -12,7 +12,7 @@ https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=9523&end=9568
 
 ### Topics
 * [Coffee Stainers > Hannah](../topics/coffee-stainers/hannah.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 
 ### Transcript
 

@@ -6,8 +6,8 @@ topics:
     - "environment"
     - "environment/biomes/spire-coast"
     - "features/transportation/vehicles/drones"
-    - "satisfactory-updates/pending/satisfactory-update-6"
     - "satisfactory-updates/released/satisfactory-update-5"
+    - "satisfactory-updates/released/satisfactory-update-6"
 ---
 # [July 5th, 2022 Livestream](../2022-07-05.md)
 ## Q&A: Will Drone terrain avoidance be fixed in Update 6?
@@ -17,8 +17,8 @@ https://www.youtube.com/watch?v=wl76rNQbCAw
 * [Environment](../topics/environment.md)
 * [Environment > Biomes > Spire Coast](../topics/environment/biomes/spire-coast.md)
 * [Features > Transportation > Vehicles > Drones](../topics/features/transportation/vehicles/drones.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
 * [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 
 ### Transcript
 

@@ -8,7 +8,7 @@ topics:
     - "features/buildables"
     - "features/buildings"
     - "features/equipment"
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
     - "satisfactory-updates/teasers-and-trailers/update-6-teasers"
 ---
 # [June 10th, 2022 Video](../2022-06-10.md)
@@ -21,7 +21,7 @@ https://youtube.com/clip/UgkxG3vBIOOiE9T3nlqc6y9wOoS9g5pzIgUe
 * [Features > Buildables](../topics/features/buildables.md)
 * [Features > Buildings](../topics/features/buildings.md)
 * [Features > Equipment](../topics/features/equipment.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 * [Satisfactory Updates > Teasers & Trailers > Update 6 Teasers](../topics/satisfactory-updates/teasers-and-trailers/update-6-teasers.md)
 
 ### Transcript

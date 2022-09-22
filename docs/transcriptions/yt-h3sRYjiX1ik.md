@@ -4,8 +4,8 @@ date: "2022-05-17"
 layout: transcript
 topics:
     - "features/requested-features/multiple-body-slots"
-    - "satisfactory-updates/pending/satisfactory-update-6"
     - "satisfactory-updates/release-builds"
+    - "satisfactory-updates/released/satisfactory-update-6"
 ---
 # [May 17th, 2022 Livestream](../2022-05-17.md)
 ## Snutt Talk: Update 6 may be released on Experimental without being feature-complete
@@ -13,8 +13,8 @@ https://www.youtube.com/watch?v=h3sRYjiX1ik
 
 ### Topics
 * [Features > Requested Features > Multiple Body Slots](../topics/features/requested-features/multiple-body-slots.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
 * [Satisfactory Updates > Release Builds](../topics/satisfactory-updates/release-builds.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 
 ### Transcript
 

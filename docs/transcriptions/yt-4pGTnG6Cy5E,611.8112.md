@@ -3,14 +3,14 @@ title: "June 10th, 2022 Video End Tag"
 date: "2022-06-10"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
 ---
 # [June 10th, 2022 Video](../2022-06-10.md)
 ## End Tag
 https://youtube.com/clip/Ugkx4jMfKhSxOCZESu0ECeps_ckP9VDewOvD
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 
 ### Transcript
 

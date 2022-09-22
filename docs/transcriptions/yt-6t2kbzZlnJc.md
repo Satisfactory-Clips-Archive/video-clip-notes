@@ -6,7 +6,7 @@ topics:
     - "environment"
     - "environment/biomes/spire-coast"
     - "features/requested-features"
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
     - "satisfactory-updates/world-update"
 ---
 # [May 3rd, 2022 Livestream](../2022-05-03.md)
@@ -19,7 +19,7 @@ This question was possibly duplicated with a more recent answer: [May 10th, 2022
 * [Environment](../topics/environment.md)
 * [Environment > Biomes > Spire Coast](../topics/environment/biomes/spire-coast.md)
 * [Features > Requested Features](../topics/features/requested-features.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 * [Satisfactory Updates > World Update](../topics/satisfactory-updates/world-update.md)
 
 ### Transcript

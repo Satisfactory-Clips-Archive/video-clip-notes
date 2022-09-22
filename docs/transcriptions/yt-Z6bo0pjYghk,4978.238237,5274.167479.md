@@ -8,7 +8,7 @@ topics:
     - "features/buildings/m-a-m"
     - "features/equipment/blade-runners"
     - "features/equipment/nobelisk"
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
 ---
 # [June 14th, 2022 Livestream](../2022-06-14.md)
 ## Mark & Snutt Talk: Update 6 M.A.M.
@@ -20,7 +20,7 @@ https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=4978&end=5275
 * [Features > Buildings > M.A.M.](../topics/features/buildings/m-a-m.md)
 * [Features > Equipment > Blade Runners](../topics/features/equipment/blade-runners.md)
 * [Features > Equipment > Nobelisk](../topics/features/equipment/nobelisk.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 
 ### Transcript
 

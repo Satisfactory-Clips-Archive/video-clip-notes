@@ -3,7 +3,7 @@ title: "October 19th, 2021 Livestream Q&A: What major features are left for Upda
 date: "2021-10-19"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
 ---
 # [October 19th, 2021 Livestream](../2021-10-19.md)
 ## Q&A: What major features are left for Update 6?
@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=4dLz2rdgyQ4
 
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 
 ### Transcript
 

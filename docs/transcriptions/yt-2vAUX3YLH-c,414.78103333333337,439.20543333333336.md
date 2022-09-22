@@ -3,7 +3,7 @@ title: "May 13th, 2022 Video Differences in Markers & Stamps (Part 2)"
 date: "2022-05-13"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
     - "satisfactory-updates/teasers-and-trailers/update-6-teasers"
     - "technology/user-interface"
     - "technology/user-interface/markers"
@@ -20,7 +20,7 @@ https://youtube.com/clip/UgkxuGgbssifoDFqHj-dI8lM-GbUG-ccyBsT
 
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 * [Satisfactory Updates > Teasers & Trailers > Update 6 Teasers](../topics/satisfactory-updates/teasers-and-trailers/update-6-teasers.md)
 * [Technology > User Interface](../topics/technology/user-interface.md)
 * [Technology > User Interface > Markers](../topics/technology/user-interface/markers.md)

@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "features/power-management/nuclear-energy"
     - "features/power-management/nuclear-energy/nuclear-waste"
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
 ---
 # [July 5th, 2022 Livestream](../2022-07-05.md)
 ## Q&A: Experimental Nuclear Waste Water bug fix?
@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=blWlTrXLMt0
 ### Topics
 * [Features > Power Management > Nuclear Energy](../topics/features/power-management/nuclear-energy.md)
 * [Features > Power Management > Nuclear Energy > Nuclear Waste](../topics/features/power-management/nuclear-energy/nuclear-waste.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 
 ### Transcript
 

@@ -6,7 +6,7 @@ topics:
     - "coffee-stainers/snutt"
     - "features/transportation/trains/train-signals"
     - "satisfactory-updates"
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
 ---
 # [May 17th, 2022 Livestream](../2022-05-17.md)
 ## Q&A: Fixing bugs or doing new stuff?
@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=pwh9QNRmqFY
 * [Coffee Stainers > Snutt](../topics/coffee-stainers/snutt.md)
 * [Features > Transportation > Trains > Train Signals](../topics/features/transportation/trains/train-signals.md)
 * [Satisfactory Updates](../topics/satisfactory-updates.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 
 ### Transcript
 

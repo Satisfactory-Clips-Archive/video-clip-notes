@@ -4,7 +4,7 @@ date: "2022-09-02"
 layout: transcript
 topics:
     - "features/fluids/pipes"
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
 ---
 # [September 2nd, 2022 Video](../2022-09-02.md)
 ## Pipes without Pipe Indicators
@@ -12,7 +12,7 @@ https://youtube.com/clip/Ugkxt_PmTWn9VNCgMOON33Ag9PCmkuFd8SfC
 
 ### Topics
 * [Features > Fluids > Pipes](../topics/features/fluids/pipes.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 
 ### Transcript
 

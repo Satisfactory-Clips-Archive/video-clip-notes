@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "community"
     - "environment/biomes/spire-coast"
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
     - "satisfactory-updates/teasers-and-trailers/update-6-teasers"
     - "satisfactory-updates/world-update"
 ---
@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=xx0bHGk76qU
 ### Topics
 * [Community](../topics/community.md)
 * [Environment > Biomes > Spire Coast](../topics/environment/biomes/spire-coast.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 * [Satisfactory Updates > Teasers & Trailers > Update 6 Teasers](../topics/satisfactory-updates/teasers-and-trailers/update-6-teasers.md)
 * [Satisfactory Updates > World Update](../topics/satisfactory-updates/world-update.md)
 

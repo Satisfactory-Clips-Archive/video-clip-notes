@@ -6,7 +6,7 @@ topics:
     - "features/buildings/m-a-m"
     - "features/equipment/nobelisk"
     - "features/equipment/rifle"
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
 ---
 # [June 14th, 2022 Livestream](../2022-06-14.md)
 ## Mark & Snutt Talk: New Ammo types (Part 1)
@@ -28,7 +28,7 @@ https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=5429&end=5483
 * [Features > Buildings > M.A.M.](../topics/features/buildings/m-a-m.md)
 * [Features > Equipment > Nobelisk](../topics/features/equipment/nobelisk.md)
 * [Features > Equipment > Rifle](../topics/features/equipment/rifle.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 
 ### Transcript
 

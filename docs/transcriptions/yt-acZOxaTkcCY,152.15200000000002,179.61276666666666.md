@@ -4,8 +4,8 @@ date: "2022-06-17"
 layout: transcript
 topics:
     - "features/save-system"
-    - "satisfactory-updates/pending/satisfactory-update-6"
     - "satisfactory-updates/release-builds"
+    - "satisfactory-updates/released/satisfactory-update-6"
 ---
 # [June 17th, 2022 Video](../2022-06-17.md)
 ## Snutt Talk: You can't load Experimental saves in the Early Access branch
@@ -13,8 +13,8 @@ https://youtube.com/clip/UgkxCPp6Mj2-0b63Y42eHfA-UELJ90g8eiLm
 
 ### Topics
 * [Features > Save System](../topics/features/save-system.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
 * [Satisfactory Updates > Release Builds](../topics/satisfactory-updates/release-builds.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 
 ### Transcript
 

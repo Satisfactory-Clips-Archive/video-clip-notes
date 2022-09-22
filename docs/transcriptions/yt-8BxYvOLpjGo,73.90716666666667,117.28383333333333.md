@@ -6,7 +6,7 @@ topics:
     - "community/satisfactory-calculator"
     - "environment/biomes/spire-coast"
     - "environment/resources"
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
     - "satisfactory-updates/teasers-and-trailers/update-6-teasers"
     - "satisfactory-updates/world-update"
 ---
@@ -18,7 +18,7 @@ https://youtube.com/clip/Ugkxm5Y34siJBMYQNjXUF0nycUsGZ7ogFMMx
 * [Community > Satisfactory Calculator](../topics/community/satisfactory-calculator.md)
 * [Environment > Biomes > Spire Coast](../topics/environment/biomes/spire-coast.md)
 * [Environment > Resources](../topics/environment/resources.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 * [Satisfactory Updates > Teasers & Trailers > Update 6 Teasers](../topics/satisfactory-updates/teasers-and-trailers/update-6-teasers.md)
 * [Satisfactory Updates > World Update](../topics/satisfactory-updates/world-update.md)
 

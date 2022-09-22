@@ -6,7 +6,7 @@ topics:
     - "coffee-stainers/simon/simon-saga"
     - "merch/eu-merch-store"
     - "off-topic/final-fantasy"
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
     - "satisfactory-updates/satisfactory-prototypes"
     - "satisfactory-updates/state-of-dev"
 ---
@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=d4RkGw7ei58
 * [Coffee Stainers > Simon > Simon Saga](../topics/coffee-stainers/simon/simon-saga.md)
 * [Merch > EU Merch Store](../topics/merch/eu-merch-store.md)
 * [Off-Topic > Final Fantasy](../topics/off-topic/final-fantasy.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 * [Satisfactory Updates > Satisfactory Prototypes](../topics/satisfactory-updates/satisfactory-prototypes.md)
 * [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 

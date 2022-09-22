@@ -6,7 +6,7 @@ topics:
     - "features/equipment/blade-runners"
     - "features/equipment/jetpack"
     - "features/requested-features/multiple-body-slots"
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
 ---
 # [June 14th, 2022 Livestream](../2022-06-14.md)
 ## Mark & Snutt Talk: Multiple Body Slots
@@ -16,7 +16,7 @@ https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=5384&end=5430
 * [Features > Equipment > Blade Runners](../topics/features/equipment/blade-runners.md)
 * [Features > Equipment > Jetpack](../topics/features/equipment/jetpack.md)
 * [Features > Requested Features > Multiple Body Slots](../topics/features/requested-features/multiple-body-slots.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 
 ### Transcript
 

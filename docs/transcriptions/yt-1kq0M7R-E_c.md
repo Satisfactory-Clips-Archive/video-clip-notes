@@ -6,7 +6,7 @@ topics:
     - "features/buildings/overclocking-and-underclocking"
     - "features/power-management"
     - "satisfactory-updates"
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
     - "satisfactory-updates/state-of-dev"
 ---
 # [May 3rd, 2022 Livestream](../2022-05-03.md)
@@ -17,7 +17,7 @@ https://www.youtube.com/watch?v=1kq0M7R-E_c
 * [Features > Buildings > Overclocking & Underclocking](../topics/features/buildings/overclocking-and-underclocking.md)
 * [Features > Power Management](../topics/features/power-management.md)
 * [Satisfactory Updates](../topics/satisfactory-updates.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 * [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 
 ### Transcript

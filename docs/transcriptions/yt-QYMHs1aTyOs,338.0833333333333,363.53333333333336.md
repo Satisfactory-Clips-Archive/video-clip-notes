@@ -6,7 +6,7 @@ topics:
     - "features/equipment/nobelisk"
     - "features/equipment/rebar-gun"
     - "features/equipment/rifle"
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
     - "satisfactory-updates/seasonal-events/fics-mas"
     - "satisfactory-updates/teasers-and-trailers/update-6-teasers"
     - "technology/user-interface"
@@ -19,7 +19,7 @@ https://youtube.com/clip/Ugkx3p10phuyHpUzGwfcOgCV6-nWNJTDxH-1
 * [Features > Equipment > Nobelisk](../topics/features/equipment/nobelisk.md)
 * [Features > Equipment > Rebar Gun](../topics/features/equipment/rebar-gun.md)
 * [Features > Equipment > Rifle](../topics/features/equipment/rifle.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 * [Satisfactory Updates > Seasonal Events > FICS⁕MAS](../topics/satisfactory-updates/seasonal-events/fics-mas.md)
 * [Satisfactory Updates > Teasers & Trailers > Update 6 Teasers](../topics/satisfactory-updates/teasers-and-trailers/update-6-teasers.md)
 * [Technology > User Interface](../topics/technology/user-interface.md)

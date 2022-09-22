@@ -7,7 +7,7 @@ topics:
     - "features/equipment/nobelisk"
     - "features/equipment/rebar-gun"
     - "features/equipment/rifle"
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
 ---
 # [June 7th, 2022 Livestream](../2022-06-07.md)
 ## Q&A: Would it be possible to automate the new ammo types, or just manually craft them?
@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=QLDPr7bEDOk
 * [Features > Equipment > Nobelisk](../topics/features/equipment/nobelisk.md)
 * [Features > Equipment > Rebar Gun](../topics/features/equipment/rebar-gun.md)
 * [Features > Equipment > Rifle](../topics/features/equipment/rifle.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 
 ### Transcript
 

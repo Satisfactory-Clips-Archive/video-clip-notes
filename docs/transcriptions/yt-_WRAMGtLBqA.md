@@ -4,7 +4,7 @@ date: "2021-10-19"
 layout: transcript
 topics:
     - "community/wiki"
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
 ---
 # [October 19th, 2021 Livestream](../2021-10-19.md)
 ## Q&A: Update 6, still at November 31?
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=_WRAMGtLBqA
 
 ### Topics
 * [Community > Wiki](../topics/community/wiki.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 
 ### Transcript
 

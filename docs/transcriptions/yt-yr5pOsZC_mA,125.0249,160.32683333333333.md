@@ -3,7 +3,7 @@ title: "July 8th, 2022 Video Q&A: Why did you guys release Update 6 before you w
 date: "2022-07-08"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
     - "satisfactory-updates/state-of-dev"
 ---
 # [July 8th, 2022 Video](../2022-07-08.md)
@@ -11,7 +11,7 @@ topics:
 https://youtube.com/clip/UgkxNULjckfpguYp0jB07pbjNoqSxU9X7203
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 * [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 
 ### Transcript

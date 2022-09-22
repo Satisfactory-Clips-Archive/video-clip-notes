@@ -4,7 +4,7 @@ date: "2022-01-21"
 layout: transcript
 topics:
     - "satisfactory-updates"
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
 ---
 # [January 21st, 2022 Video](../2022-01-21.md)
 ## Jace Talk: Planning Update 6 and beyond
@@ -12,7 +12,7 @@ https://youtube.com/embed/t7pRHznihEA?autoplay=1&start=106&end=195
 
 ### Topics
 * [Satisfactory Updates](../topics/satisfactory-updates.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 
 ### Transcript
 

@@ -3,7 +3,7 @@ title: "November 9th, 2021 Livestream Q&A: What areas are going to be reworked i
 date: "2021-11-09"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
     - "satisfactory-updates/world-update"
 ---
 # [November 9th, 2021 Livestream](../2021-11-09.md)
@@ -11,7 +11,7 @@ topics:
 https://www.youtube.com/watch?v=Drt3ZdOCRJo
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 * [Satisfactory Updates > World Update](../topics/satisfactory-updates/world-update.md)
 
 ### Transcript

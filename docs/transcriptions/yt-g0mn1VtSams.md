@@ -3,16 +3,16 @@ title: "July 5th, 2022 Livestream Q&A: What's next in Update 6 before it hits EA
 date: "2022-07-05"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-6"
     - "satisfactory-updates/release-builds"
+    - "satisfactory-updates/released/satisfactory-update-6"
 ---
 # [July 5th, 2022 Livestream](../2022-07-05.md)
 ## Q&A: What's next in Update 6 before it hits EA?
 https://www.youtube.com/watch?v=g0mn1VtSams
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
 * [Satisfactory Updates > Release Builds](../topics/satisfactory-updates/release-builds.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 
 ### Transcript
 

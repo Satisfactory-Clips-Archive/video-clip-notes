@@ -4,8 +4,8 @@ date: "2022-06-28"
 layout: transcript
 topics:
     - "features/crafting/recipes"
-    - "satisfactory-updates/pending/satisfactory-update-6"
     - "satisfactory-updates/release-builds"
+    - "satisfactory-updates/released/satisfactory-update-6"
 ---
 # [June 28th, 2022 Livestream](../2022-06-28.md)
 ## Q&A: Are the Recipes going to be updated before Update 6 moves to EA?
@@ -13,8 +13,8 @@ https://www.youtube.com/watch?v=F3Fc0slcf9g
 
 ### Topics
 * [Features > Crafting > Recipes](../topics/features/crafting/recipes.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
 * [Satisfactory Updates > Release Builds](../topics/satisfactory-updates/release-builds.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 
 ### Transcript
 

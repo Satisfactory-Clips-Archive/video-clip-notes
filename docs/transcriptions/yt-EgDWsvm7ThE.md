@@ -11,8 +11,8 @@ topics:
     - "features/transportation/trains/train-signals"
     - "mods"
     - "off-topic/songs-of-conquest"
-    - "satisfactory-updates/pending/satisfactory-update-6"
     - "satisfactory-updates/release-builds"
+    - "satisfactory-updates/released/satisfactory-update-6"
     - "satisfactory-updates/state-of-dev"
     - "satisfactory-updates/teasers-and-trailers/update-6-teasers"
     - "satisfactory-updates/world-update"
@@ -30,8 +30,8 @@ https://www.youtube.com/watch?v=EgDWsvm7ThE
 * [Features > Transportation > Trains > Train Signals](../topics/features/transportation/trains/train-signals.md)
 * [Mods](../topics/mods.md)
 * [Off-Topic > Songs of Conquest](../topics/off-topic/songs-of-conquest.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
 * [Satisfactory Updates > Release Builds](../topics/satisfactory-updates/release-builds.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 * [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 * [Satisfactory Updates > Teasers & Trailers > Update 6 Teasers](../topics/satisfactory-updates/teasers-and-trailers/update-6-teasers.md)
 * [Satisfactory Updates > World Update](../topics/satisfactory-updates/world-update.md)

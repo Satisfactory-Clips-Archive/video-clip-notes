@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "satisfactory-updates"
     - "satisfactory-updates/pending/satisfactory-1-0"
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
 ---
 # [November 30th, 2021 Livestream](../2021-11-30.md)
 ## Q&A: Will future Updates be faster as there's less to do?
@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=_FHwwg-NciE
 ### Topics
 * [Satisfactory Updates](../topics/satisfactory-updates.md)
 * [Satisfactory Updates > Pending > Satisfactory 1.0](../topics/satisfactory-updates/pending/satisfactory-1-0.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 
 ### Transcript
 

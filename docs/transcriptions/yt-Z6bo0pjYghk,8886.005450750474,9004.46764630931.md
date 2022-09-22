@@ -3,7 +3,7 @@ title: "June 14th, 2022 Livestream Dylan, Ben, & Snutt Talk: Pending World Updat
 date: "2022-06-14"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
     - "satisfactory-updates/world-update"
 ---
 # [June 14th, 2022 Livestream](../2022-06-14.md)
@@ -11,7 +11,7 @@ topics:
 https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=8886&end=9005
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 * [Satisfactory Updates > World Update](../topics/satisfactory-updates/world-update.md)
 
 ### Transcript

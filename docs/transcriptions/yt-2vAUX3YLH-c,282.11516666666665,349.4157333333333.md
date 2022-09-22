@@ -6,7 +6,7 @@ topics:
     - "environment/biomes/caves"
     - "environment/plants"
     - "environment/resources"
-    - "satisfactory-updates/pending/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-6"
     - "satisfactory-updates/teasers-and-trailers/update-6-teasers"
     - "technology/user-interface/ping"
     - "technology/user-interface/stamps"
@@ -19,7 +19,7 @@ https://youtube.com/embed/2vAUX3YLH-c?autoplay=1&start=282&end=350
 * [Environment > Biomes > Caves](../topics/environment/biomes/caves.md)
 * [Environment > Plants](../topics/environment/plants.md)
 * [Environment > Resources](../topics/environment/resources.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 6](../topics/satisfactory-updates/pending/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 * [Satisfactory Updates > Teasers & Trailers > Update 6 Teasers](../topics/satisfactory-updates/teasers-and-trailers/update-6-teasers.md)
 * [Technology > User Interface > Ping](../topics/technology/user-interface/ping.md)
 * [Technology > User Interface > Stamps](../topics/technology/user-interface/stamps.md)
