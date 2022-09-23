@@ -3,7 +3,7 @@ title: "April 27th, 2021 Livestream Q&A: Holster Weapon toolkey?"
 date: "2021-04-27"
 layout: transcript
 topics:
-    - "features/requested-features/holstering-equipment"
+    - "features/holstering-equipment"
 ---
 # [April 27th, 2021 Livestream](../2021-04-27.md)
 ## Q&A: Holster Weapon toolkey?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: [May 3rd, 2022 
 
 
 ### Topics
-* [Features > Requested Features > Holstering Equipment](../topics/features/requested-features/holstering-equipment.md)
+* [Features > Holstering Equipment](../topics/features/holstering-equipment.md)
 
 ### Transcript
 

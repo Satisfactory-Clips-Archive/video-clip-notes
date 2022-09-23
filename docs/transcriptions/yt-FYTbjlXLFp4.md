@@ -14,8 +14,8 @@ topics:
     - "features/equipment/nobelisk"
     - "features/equipment/rebar-gun"
     - "features/equipment/rifle"
-    - "features/requested-features/holstering-equipment"
-    - "features/requested-features/multiple-body-slots"
+    - "features/holstering-equipment"
+    - "features/multiple-body-slots"
     - "satisfactory-updates/released/satisfactory-update-6"
     - "satisfactory-updates/state-of-dev"
     - "satisfactory-updates/teasers-and-trailers/update-6-teasers"
@@ -38,8 +38,8 @@ https://www.youtube.com/watch?v=FYTbjlXLFp4
 * [Features > Equipment > Nobelisk](../topics/features/equipment/nobelisk.md)
 * [Features > Equipment > Rebar Gun](../topics/features/equipment/rebar-gun.md)
 * [Features > Equipment > Rifle](../topics/features/equipment/rifle.md)
-* [Features > Requested Features > Holstering Equipment](../topics/features/requested-features/holstering-equipment.md)
-* [Features > Requested Features > Multiple Body Slots](../topics/features/requested-features/multiple-body-slots.md)
+* [Features > Holstering Equipment](../topics/features/holstering-equipment.md)
+* [Features > Multiple Body Slots](../topics/features/multiple-body-slots.md)
 * [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 * [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 * [Satisfactory Updates > Teasers & Trailers > Update 6 Teasers](../topics/satisfactory-updates/teasers-and-trailers/update-6-teasers.md)

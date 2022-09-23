@@ -3,7 +3,7 @@ title: "July 13th, 2021 Livestream Q&A: Any chance we can get another Body Slot?
 date: "2021-07-13"
 layout: transcript
 topics:
-    - "features/requested-features/multiple-body-slots"
+    - "features/multiple-body-slots"
 ---
 # [July 13th, 2021 Livestream](../2021-07-13.md)
 ## Q&A: Any chance we can get another Body Slot?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: [March 29th, 20
 
 
 ### Topics
-* [Features > Requested Features > Multiple Body Slots](../topics/features/requested-features/multiple-body-slots.md)
+* [Features > Multiple Body Slots](../topics/features/multiple-body-slots.md)
 
 ### Transcript
 

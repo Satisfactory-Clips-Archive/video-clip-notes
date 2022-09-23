@@ -3,7 +3,7 @@ title: "December 7th, 2021 Livestream Q&A: Weapon item holstering coming soon?"
 date: "2021-12-07"
 layout: transcript
 topics:
-    - "features/requested-features/holstering-equipment"
+    - "features/holstering-equipment"
 ---
 # [December 7th, 2021 Livestream](../2021-12-07.md)
 ## Q&A: Weapon item holstering coming soon?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: [May 3rd, 2022 
 
 
 ### Topics
-* [Features > Requested Features > Holstering Equipment](../topics/features/requested-features/holstering-equipment.md)
+* [Features > Holstering Equipment](../topics/features/holstering-equipment.md)
 
 ### Transcript
 

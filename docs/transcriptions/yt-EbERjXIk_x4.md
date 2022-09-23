@@ -6,7 +6,7 @@ topics:
     - "coffee-stainers/snutt"
     - "features/buildables/conveyor-belts"
     - "features/buildables/walls"
-    - "features/requested-features/holstering-equipment"
+    - "features/holstering-equipment"
     - "satisfactory-updates/teasers-and-trailers"
     - "technology/user-interface"
 ---
@@ -20,7 +20,7 @@ This question was possibly duplicated with a more recent answer: [March 30th, 20
 * [Coffee Stainers > Snutt](../topics/coffee-stainers/snutt.md)
 * [Features > Buildables > Conveyor Belts](../topics/features/buildables/conveyor-belts.md)
 * [Features > Buildables > Walls](../topics/features/buildables/walls.md)
-* [Features > Requested Features > Holstering Equipment](../topics/features/requested-features/holstering-equipment.md)
+* [Features > Holstering Equipment](../topics/features/holstering-equipment.md)
 * [Satisfactory Updates > Teasers & Trailers](../topics/satisfactory-updates/teasers-and-trailers.md)
 * [Technology > User Interface](../topics/technology/user-interface.md)
 

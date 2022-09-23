@@ -3,7 +3,7 @@ title: "May 17th, 2022 Livestream Snutt Talk: Update 6 may be released on Experi
 date: "2022-05-17"
 layout: transcript
 topics:
-    - "features/requested-features/multiple-body-slots"
+    - "features/multiple-body-slots"
     - "satisfactory-updates/release-builds"
     - "satisfactory-updates/released/satisfactory-update-6"
 ---
@@ -12,7 +12,7 @@ topics:
 https://www.youtube.com/watch?v=h3sRYjiX1ik
 
 ### Topics
-* [Features > Requested Features > Multiple Body Slots](../topics/features/requested-features/multiple-body-slots.md)
+* [Features > Multiple Body Slots](../topics/features/multiple-body-slots.md)
 * [Satisfactory Updates > Release Builds](../topics/satisfactory-updates/release-builds.md)
 * [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 

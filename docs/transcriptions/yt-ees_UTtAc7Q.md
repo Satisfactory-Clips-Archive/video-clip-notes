@@ -3,7 +3,7 @@ title: "May 3rd, 2022 Livestream Q&A: Can we finally have two body slots?"
 date: "2022-05-03"
 layout: transcript
 topics:
-    - "features/requested-features/multiple-body-slots"
+    - "features/multiple-body-slots"
     - "satisfactory-updates/released/satisfactory-update-6"
 ---
 # [May 3rd, 2022 Livestream](../2022-05-03.md)
@@ -13,7 +13,7 @@ This question was possibly replaced with a more recent answer: [May 20th, 2022 V
 
 
 ### Topics
-* [Features > Requested Features > Multiple Body Slots](../topics/features/requested-features/multiple-body-slots.md)
+* [Features > Multiple Body Slots](../topics/features/multiple-body-slots.md)
 * [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 
 ### Transcript

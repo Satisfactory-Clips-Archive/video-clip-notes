@@ -6,7 +6,7 @@ topics:
     - "features/equipment/blade-runners"
     - "features/equipment/gas-mask"
     - "features/equipment/jetpack"
-    - "features/requested-features/multiple-body-slots"
+    - "features/multiple-body-slots"
 ---
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Q&A: Can I wear Boots, Jetpack and a Gas Mask?
@@ -18,7 +18,7 @@ This question was possibly duplicated with a more recent answer: [March 29th, 20
 * [Features > Equipment > Blade Runners](../topics/features/equipment/blade-runners.md)
 * [Features > Equipment > Gas Mask](../topics/features/equipment/gas-mask.md)
 * [Features > Equipment > Jetpack](../topics/features/equipment/jetpack.md)
-* [Features > Requested Features > Multiple Body Slots](../topics/features/requested-features/multiple-body-slots.md)
+* [Features > Multiple Body Slots](../topics/features/multiple-body-slots.md)
 
 ### Transcript
 

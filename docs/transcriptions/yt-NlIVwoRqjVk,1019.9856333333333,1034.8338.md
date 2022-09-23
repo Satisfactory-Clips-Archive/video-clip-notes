@@ -3,7 +3,7 @@ title: "May 15th, 2020 Q&A Q&A: Any chance of a holster keybind so we can lower 
 date: "2020-05-15"
 layout: transcript
 topics:
-    - "features/requested-features/holstering-equipment"
+    - "features/holstering-equipment"
     - "technology/user-interface"
 ---
 # [May 15th, 2020 Q&A](../2020-05-15.md)
@@ -13,7 +13,7 @@ This question was possibly duplicated with a more recent answer: [May 3rd, 2022 
 
 
 ### Topics
-* [Features > Requested Features > Holstering Equipment](../topics/features/requested-features/holstering-equipment.md)
+* [Features > Holstering Equipment](../topics/features/holstering-equipment.md)
 * [Technology > User Interface](../topics/technology/user-interface.md)
 
 ### Transcript

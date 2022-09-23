@@ -4,7 +4,7 @@ date: "2022-05-17"
 layout: transcript
 topics:
     - "features/equipment"
-    - "features/requested-features/multiple-body-slots"
+    - "features/multiple-body-slots"
     - "satisfactory-updates/released/satisfactory-update-6"
 ---
 # [May 17th, 2022 Livestream](../2022-05-17.md)
@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=OWQYosud1-o
 
 ### Topics
 * [Features > Equipment](../topics/features/equipment.md)
-* [Features > Requested Features > Multiple Body Slots](../topics/features/requested-features/multiple-body-slots.md)
+* [Features > Multiple Body Slots](../topics/features/multiple-body-slots.md)
 * [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 
 ### Transcript

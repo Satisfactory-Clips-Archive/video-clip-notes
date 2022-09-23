@@ -4,7 +4,7 @@ date: "2021-05-04"
 layout: transcript
 topics:
     - "coffee-stainers/snutt"
-    - "features/requested-features/holstering-equipment"
+    - "features/holstering-equipment"
     - "satisfactory-updates/pending/satisfactory-1-0"
 ---
 # [May 4th, 2021 Livestream](../2021-05-04.md)
@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=UkF4FbtbplM
 
 ### Topics
 * [Coffee Stainers > Snutt](../topics/coffee-stainers/snutt.md)
-* [Features > Requested Features > Holstering Equipment](../topics/features/requested-features/holstering-equipment.md)
+* [Features > Holstering Equipment](../topics/features/holstering-equipment.md)
 * [Satisfactory Updates > Pending > Satisfactory 1.0](../topics/satisfactory-updates/pending/satisfactory-1-0.md)
 
 ### Transcript

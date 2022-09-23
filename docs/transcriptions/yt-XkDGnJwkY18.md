@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "features/equipment/blade-runners"
     - "features/equipment/jetpack"
-    - "features/requested-features/multiple-body-slots"
+    - "features/multiple-body-slots"
 ---
 # [March 30th, 2021 Livestream](../2021-03-30.md)
 ## Q&A: Add body slots so we can use Blade Runners and Jetpacks at the same time?
@@ -16,7 +16,7 @@ This question was possibly duplicated with a more recent answer: [March 29th, 20
 ### Topics
 * [Features > Equipment > Blade Runners](../topics/features/equipment/blade-runners.md)
 * [Features > Equipment > Jetpack](../topics/features/equipment/jetpack.md)
-* [Features > Requested Features > Multiple Body Slots](../topics/features/requested-features/multiple-body-slots.md)
+* [Features > Multiple Body Slots](../topics/features/multiple-body-slots.md)
 
 ### Transcript
 

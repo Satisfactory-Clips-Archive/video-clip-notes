@@ -3,7 +3,7 @@ title: "May 15th, 2020 Q&A Q&A: Will we get more than one body slot?"
 date: "2020-05-15"
 layout: transcript
 topics:
-    - "features/requested-features/multiple-body-slots"
+    - "features/multiple-body-slots"
     - "technology/user-interface"
 ---
 # [May 15th, 2020 Q&A](../2020-05-15.md)
@@ -13,7 +13,7 @@ This question was possibly duplicated with a more recent answer: [March 29th, 20
 
 
 ### Topics
-* [Features > Requested Features > Multiple Body Slots](../topics/features/requested-features/multiple-body-slots.md)
+* [Features > Multiple Body Slots](../topics/features/multiple-body-slots.md)
 * [Technology > User Interface](../topics/technology/user-interface.md)
 
 ### Transcript

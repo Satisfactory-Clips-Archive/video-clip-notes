@@ -3,14 +3,14 @@ title: "September 21st, 2021 Livestream Q&A: Can we have Hover Pack & Hazmat Sui
 date: "2021-09-21"
 layout: transcript
 topics:
-    - "features/requested-features/multiple-body-slots"
+    - "features/multiple-body-slots"
 ---
 # [September 21st, 2021 Livestream](../2021-09-21.md)
 ## Q&A: Can we have Hover Pack & Hazmat Suit at the same time?
 https://www.youtube.com/watch?v=QDxgbHs6lC4
 
 ### Topics
-* [Features > Requested Features > Multiple Body Slots](../topics/features/requested-features/multiple-body-slots.md)
+* [Features > Multiple Body Slots](../topics/features/multiple-body-slots.md)
 
 ### Transcript
 

@@ -3,7 +3,7 @@ title: "March 9th, 2021 Livestream Q&A: Will we ever get a second body slot?"
 date: "2021-03-09"
 layout: transcript
 topics:
-    - "features/requested-features/multiple-body-slots"
+    - "features/multiple-body-slots"
 ---
 # [March 9th, 2021 Livestream](../2021-03-09.md)
 ## Q&A: Will we ever get a second body slot?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: [March 29th, 20
 
 
 ### Topics
-* [Features > Requested Features > Multiple Body Slots](../topics/features/requested-features/multiple-body-slots.md)
+* [Features > Multiple Body Slots](../topics/features/multiple-body-slots.md)
 
 ### Transcript
 

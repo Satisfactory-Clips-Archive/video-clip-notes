@@ -3,7 +3,7 @@ title: "April 20th, 2021 Livestream Q&A: Body Slots?"
 date: "2021-04-20"
 layout: transcript
 topics:
-    - "features/requested-features/multiple-body-slots"
+    - "features/multiple-body-slots"
 ---
 # [April 20th, 2021 Livestream](../2021-04-20.md)
 ## Q&A: Body Slots?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: [March 29th, 20
 
 
 ### Topics
-* [Features > Requested Features > Multiple Body Slots](../topics/features/requested-features/multiple-body-slots.md)
+* [Features > Multiple Body Slots](../topics/features/multiple-body-slots.md)
 
 ### Transcript
 

@@ -3,7 +3,7 @@ title: "August 10th, 2021 Livestream Q&A: Will we be able to equip more than one
 date: "2021-08-10"
 layout: transcript
 topics:
-    - "features/requested-features/multiple-body-slots"
+    - "features/multiple-body-slots"
 ---
 # [August 10th, 2021 Livestream](../2021-08-10.md)
 ## Q&A: Will we be able to equip more than one item?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: [March 29th, 20
 
 
 ### Topics
-* [Features > Requested Features > Multiple Body Slots](../topics/features/requested-features/multiple-body-slots.md)
+* [Features > Multiple Body Slots](../topics/features/multiple-body-slots.md)
 
 ### Transcript
 

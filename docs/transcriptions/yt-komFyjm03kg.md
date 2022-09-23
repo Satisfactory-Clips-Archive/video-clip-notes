@@ -14,7 +14,7 @@ topics:
     - "features/buildings/radar-tower"
     - "features/equipment"
     - "features/multiplayer"
-    - "features/requested-features/multiple-body-slots"
+    - "features/multiple-body-slots"
     - "satisfactory-updates/released/satisfactory-update-6"
     - "satisfactory-updates/state-of-dev"
     - "satisfactory-updates/teasers-and-trailers/update-6-teasers"
@@ -36,7 +36,7 @@ https://www.youtube.com/watch?v=komFyjm03kg
 * [Features > Buildings > Radar Tower](../topics/features/buildings/radar-tower.md)
 * [Features > Equipment](../topics/features/equipment.md)
 * [Features > Multiplayer](../topics/features/multiplayer.md)
-* [Features > Requested Features > Multiple Body Slots](../topics/features/requested-features/multiple-body-slots.md)
+* [Features > Multiple Body Slots](../topics/features/multiple-body-slots.md)
 * [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 * [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 * [Satisfactory Updates > Teasers & Trailers > Update 6 Teasers](../topics/satisfactory-updates/teasers-and-trailers/update-6-teasers.md)

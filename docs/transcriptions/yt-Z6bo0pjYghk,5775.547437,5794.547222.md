@@ -3,7 +3,7 @@ title: "June 14th, 2022 Livestream Mark & Snutt Talk: Holstering"
 date: "2022-06-14"
 layout: transcript
 topics:
-    - "features/requested-features/holstering-equipment"
+    - "features/holstering-equipment"
     - "satisfactory-updates/released/satisfactory-update-6"
 ---
 # [June 14th, 2022 Livestream](../2022-06-14.md)
@@ -11,7 +11,7 @@ topics:
 https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=5775&end=5795
 
 ### Topics
-* [Features > Requested Features > Holstering Equipment](../topics/features/requested-features/holstering-equipment.md)
+* [Features > Holstering Equipment](../topics/features/holstering-equipment.md)
 * [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 
 ### Transcript

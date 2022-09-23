@@ -3,7 +3,7 @@ title: "October 5th, 2021 Livestream Q&A: Equipment Slots rework still in progre
 date: "2021-10-05"
 layout: transcript
 topics:
-    - "features/requested-features/multiple-body-slots"
+    - "features/multiple-body-slots"
 ---
 # [October 5th, 2021 Livestream](../2021-10-05.md)
 ## Q&A: Equipment Slots rework still in progress?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: [March 29th, 20
 
 
 ### Topics
-* [Features > Requested Features > Multiple Body Slots](../topics/features/requested-features/multiple-body-slots.md)
+* [Features > Multiple Body Slots](../topics/features/multiple-body-slots.md)
 
 ### Transcript
 

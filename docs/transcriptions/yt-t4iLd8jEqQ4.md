@@ -3,7 +3,7 @@ title: "May 3rd, 2022 Livestream Q&A: Can we get an empty hand slot so we don't 
 date: "2022-05-03"
 layout: transcript
 topics:
-    - "features/requested-features/holstering-equipment"
+    - "features/holstering-equipment"
 ---
 # [May 3rd, 2022 Livestream](../2022-05-03.md)
 ## Q&A: Can we get an empty hand slot so we don't have to unequip something every time?
@@ -21,7 +21,7 @@ This question was possibly replaced with a more recent answer: [May 20th, 2022 V
 
 
 ### Topics
-* [Features > Requested Features > Holstering Equipment](../topics/features/requested-features/holstering-equipment.md)
+* [Features > Holstering Equipment](../topics/features/holstering-equipment.md)
 
 ### Transcript
 

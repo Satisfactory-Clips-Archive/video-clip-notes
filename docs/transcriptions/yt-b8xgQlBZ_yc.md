@@ -3,7 +3,7 @@ title: "March 23rd, 2021 Livestream Q&A: Do you ever think you'll give us more t
 date: "2021-03-23"
 layout: transcript
 topics:
-    - "features/requested-features/multiple-body-slots"
+    - "features/multiple-body-slots"
 ---
 # [March 23rd, 2021 Livestream](../2021-03-23.md)
 ## Q&A: Do you ever think you'll give us more than one Body Slot?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: [March 29th, 20
 
 
 ### Topics
-* [Features > Requested Features > Multiple Body Slots](../topics/features/requested-features/multiple-body-slots.md)
+* [Features > Multiple Body Slots](../topics/features/multiple-body-slots.md)
 
 ### Transcript
 

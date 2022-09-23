@@ -3,7 +3,7 @@ title: "March 29th, 2022 Livestream Q&A: Will we ever be able to equip all the E
 date: "2022-03-29"
 layout: transcript
 topics:
-    - "features/requested-features/multiple-body-slots"
+    - "features/multiple-body-slots"
 ---
 # [March 29th, 2022 Livestream](../2022-03-29.md)
 ## Q&A: Will we ever be able to equip all the Equipment at once?
@@ -35,7 +35,7 @@ This question was possibly replaced with a more recent answer: [May 3rd, 2022 Li
 
 
 ### Topics
-* [Features > Requested Features > Multiple Body Slots](../topics/features/requested-features/multiple-body-slots.md)
+* [Features > Multiple Body Slots](../topics/features/multiple-body-slots.md)
 
 ### Transcript
 
