@@ -8,6 +8,9 @@ date: Last Modified
 * [Quick Switch](../../topics/features/build-modes/quick-switch.md)
 * [Zooping](../../topics/features/build-modes/zooping.md)
 
+## September 20th, 2022 Update 6 Release Stream
+* Build Menu is wider now [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=6488&end=6502](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=6488&end=6502)
+
 ## September 6th, 2022 Livestream
 * [Q&A: Anything to make building easier?](../../transcriptions/yt-40kwebuhaps.md) [https://www.youtube.com/watch?v=40kwebuhaps](https://www.youtube.com/watch?v=40kwebuhaps)
 

@@ -2,6 +2,17 @@
 title: "Frequently Asked Questions"
 date: Last Modified
 ---
+## [September 20th, 2022 Update 6 Release Stream](./2022-09-20.md)
+### What's Next? [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=7954&end=8132](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=7954&end=8132)
+
+<details>
+<summary>This question may have been asked previously at least 3 other times, as recently as June 2022 and as early as March 2022.</summary>
+
+* [June 17th, 2022 Video Q&A: When's Update 7?](./transcriptions/yt-acZOxaTkcCY,179.64613333333332,190.552814.md) [https://youtube.com/clip/UgkxAXhsK_YQM6ftkqR9WnQWRaw1zX4QNeZf](https://youtube.com/clip/UgkxAXhsK_YQM6ftkqR9WnQWRaw1zX4QNeZf)
+* [June 7th, 2022 Livestream Q&A: Update 7 is here?](./transcriptions/yt-Az1jTvsJIGc.md) [https://www.youtube.com/watch?v=Az1jTvsJIGc](https://www.youtube.com/watch?v=Az1jTvsJIGc)
+* [March 15th, 2022 Livestream Q&A: Is there a rough estimate for the next Update?](./transcriptions/yt-c-M3BviVCzE.md) [https://www.youtube.com/watch?v=c-M3BviVCzE](https://www.youtube.com/watch?v=c-M3BviVCzE)
+</details>
+
 ## [September 13th, 2022 Livestream](./2022-09-13.md)
 ### [Q&A: Are you going to change the Recipes for Beacons?](./transcriptions/yt-4tCjpG1zJc0.md) [https://www.youtube.com/watch?v=4tCjpG1zJc0](https://www.youtube.com/watch?v=4tCjpG1zJc0)
 
@@ -2214,25 +2225,6 @@ date: Last Modified
 * [September 22nd, 2020 Livestream Q&A: Is the OST on Spotify?](./transcriptions/yt-iCN324N905o.md) [https://www.youtube.com/watch?v=iCN324N905o](https://www.youtube.com/watch?v=iCN324N905o)
 * [September 8th, 2020 Livestream Q&A: Releasing the Soundtrack on Spotify?](./transcriptions/yt-zoDYA4Y9jdE.md) [https://www.youtube.com/watch?v=zoDYA4Y9jdE](https://www.youtube.com/watch?v=zoDYA4Y9jdE)
 * [January 22nd, 2020 Livestream Q&A: Are there plans to put the OST on Spotify?](./transcriptions/yt-z4cypywhIks.md) [https://www.youtube.com/watch?v=z4cypywhIks](https://www.youtube.com/watch?v=z4cypywhIks)
-</details>
-
-## [June 17th, 2022 Video](./2022-06-17.md)
-### [Q&A: When's Update 7?](./transcriptions/yt-acZOxaTkcCY,179.64613333333332,190.552814.md) [https://youtube.com/clip/UgkxAXhsK_YQM6ftkqR9WnQWRaw1zX4QNeZf](https://youtube.com/clip/UgkxAXhsK_YQM6ftkqR9WnQWRaw1zX4QNeZf)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> experimental so the next hard pressing question a lot of people have is like okay so it's out on experimental when's update seven no well people ask that too because they're but that's not what i actually wanted to say uh no but the people ask
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 2 other times, as recently as June 2022 and as early as March 2022.</summary>
-
-* [June 7th, 2022 Livestream Q&A: Update 7 is here?](./transcriptions/yt-Az1jTvsJIGc.md) [https://www.youtube.com/watch?v=Az1jTvsJIGc](https://www.youtube.com/watch?v=Az1jTvsJIGc)
-* [March 15th, 2022 Livestream Q&A: Is there a rough estimate for the next Update?](./transcriptions/yt-c-M3BviVCzE.md) [https://www.youtube.com/watch?v=c-M3BviVCzE](https://www.youtube.com/watch?v=c-M3BviVCzE)
 </details>
 
 ## [June 7th, 2022 Livestream](./2022-06-07.md)

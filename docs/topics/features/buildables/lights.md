@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildables](../../../topics/features/buildables.md) > Lights
 
+## September 20th, 2022 Update 6 Release Stream
+* Lights on Trains [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=6464&end=6488](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=6464&end=6488)
+
 ## September 13th, 2022 Livestream
 * [Q&A: Smaller ceiling Lights?](../../../transcriptions/yt-OOalQW-Vsac.md) [https://www.youtube.com/watch?v=OOalQW-Vsac](https://www.youtube.com/watch?v=OOalQW-Vsac)
 

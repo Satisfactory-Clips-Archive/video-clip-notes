@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Features](../../topics/features.md) > Holstering Equipment
 
+## September 20th, 2022 Update 6 Release Stream
+* Holstering Equipment [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=6079&end=6122](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=6079&end=6122)
+
 ## June 14th, 2022 Livestream
 * [Mark & Snutt Talk: Holstering](../../transcriptions/yt-Z6bo0pjYghk,5775.547437,5794.547222.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=5775&end=5795](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=5775&end=5795)
 

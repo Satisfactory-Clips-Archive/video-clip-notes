@@ -5,6 +5,12 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > World Update
 
+## September 20th, 2022 Update 6 Release Stream
+* World Update: Spire Coast [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=4216&end=4478](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=4216&end=4478)
+* World Update: Swamp [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=4477&end=4551](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=4477&end=4551)
+* World Update: Weather effects [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=4550&end=4624](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=4550&end=4624)
+* World Update: Skybox, celestial bodies [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=4623&end=4744](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=4623&end=4744)
+
 ## August 30th, 2022 Livestream
 * [Q&A: Map changes before 1.0?](../../transcriptions/yt-O4LjJtABcTw.md) [https://www.youtube.com/watch?v=O4LjJtABcTw](https://www.youtube.com/watch?v=O4LjJtABcTw)
 * [Q&A: New Water system?](../../transcriptions/yt-Cwx8kD-fSr0.md) [https://www.youtube.com/watch?v=Cwx8kD-fSr0](https://www.youtube.com/watch?v=Cwx8kD-fSr0)

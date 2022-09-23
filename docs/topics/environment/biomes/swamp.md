@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Biomes](../../../topics/environment/biomes.md) > Swamp
 
+## September 20th, 2022 Update 6 Release Stream
+* World Update: Swamp [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=4477&end=4551](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=4477&end=4551)
+
 ## September 13th, 2022 Livestream
 * [Q&A: In the Swamp there's a hard border in the water?](../../../transcriptions/yt-lalvAZ2yE9E.md) [https://www.youtube.com/watch?v=lalvAZ2yE9E](https://www.youtube.com/watch?v=lalvAZ2yE9E)
 

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildables](../../../topics/features/buildables.md) > Signs
 
+## September 20th, 2022 Update 6 Release Stream
+* Sign improvements [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=6501&end=6520](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=6501&end=6520)
+
 ## June 28th, 2022 Livestream
 * Q&A: Would you ever add any kind of sign that displays logistics? [https://www.youtube.com/watch?v=WNIyopr1vZs](https://www.youtube.com/watch?v=WNIyopr1vZs)
 

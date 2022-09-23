@@ -12,6 +12,10 @@ date: Last Modified
 * [Weather Systems](../topics/environment/weather-systems.md)
 * [World Map](../topics/environment/world-map.md)
 
+## September 20th, 2022 Update 6 Release Stream
+* World Update: Skybox, celestial bodies [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=4623&end=4744](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=4623&end=4744)
+* Map Changes & Beacon removal [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=4887&end=5159](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=4887&end=5159)
+
 ## August 30th, 2022 Livestream
 * [Q&A: New Water system?](../transcriptions/yt-Cwx8kD-fSr0.md) [https://www.youtube.com/watch?v=Cwx8kD-fSr0](https://www.youtube.com/watch?v=Cwx8kD-fSr0)
 * [Q&A: Any plans for letting players dive underwater?](../transcriptions/yt-2sMDsApY6Bs.md) [https://www.youtube.com/watch?v=2sMDsApY6Bs](https://www.youtube.com/watch?v=2sMDsApY6Bs)

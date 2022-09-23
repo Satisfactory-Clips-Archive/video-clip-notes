@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Equipment](../../../topics/features/equipment.md) > Nobelisk
 * [Nobelisk Detonator](../../../topics/features/equipment/nobelisk/detonator.md)
 
+## September 20th, 2022 Update 6 Release Stream
+* More Weapon Types [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=5887&end=6080](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=5887&end=6080)
+
 ## August 23rd, 2022 Livestream
 * [Q&A: Will the explodable rocks that reappear be fixed in Update 6?](../../../transcriptions/yt-3x91IjO5rSI.md) [https://www.youtube.com/watch?v=3x91IjO5rSI](https://www.youtube.com/watch?v=3x91IjO5rSI)
 

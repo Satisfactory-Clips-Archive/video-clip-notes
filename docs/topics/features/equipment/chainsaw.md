@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Equipment](../../../topics/features/equipment.md) > Chainsaw
 
+## September 20th, 2022 Update 6 Release Stream
+* Chainsaw Sounds [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=6179&end=6197](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=6179&end=6197)
+
 ## August 30th, 2022 Livestream
 * [Q&A: Will the trees in western Dune Desert be fixed so the chainsaw chops more than one at a time?](../../../transcriptions/yt-Y2lhP94DACU.md) [https://www.youtube.com/watch?v=Y2lhP94DACU](https://www.youtube.com/watch?v=Y2lhP94DACU)
 

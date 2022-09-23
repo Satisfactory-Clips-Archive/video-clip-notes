@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Speculative > Satisfactory Update 7
 
+## September 20th, 2022 Update 6 Release Stream
+* What's Next? [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=7954&end=8132](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=7954&end=8132)
+
 ## August 30th, 2022 Livestream
 * [State of Dev](../../../transcriptions/yt-qseJk3eyX90.md) [https://www.youtube.com/watch?v=qseJk3eyX90](https://www.youtube.com/watch?v=qseJk3eyX90)
 

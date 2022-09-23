@@ -9,6 +9,14 @@ date: Last Modified
 * [Ping](../../topics/technology/user-interface/ping.md)
 * [Stamps](../../topics/technology/user-interface/stamps.md)
 
+## September 20th, 2022 Update 6 Release Stream
+* Map Changes & Beacon removal [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=4887&end=5159](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=4887&end=5159)
+* HUD warnings for Creature aggression [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=5615&end=5654](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=5615&end=5654)
+* Equipment HUD [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=6121&end=6180](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=6121&end=6180)
+* Build Menu is wider now [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=6488&end=6502](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=6488&end=6502)
+* Sign improvements [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=6501&end=6520](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=6501&end=6520)
+* To-Do List improvements [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=6605&end=6694](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=6605&end=6694)
+
 ## September 13th, 2022 Livestream
 * [Q&A: Autosave notification for Dedicated Servers?](../../transcriptions/yt-1Aq-thZx5dc.md) [https://www.youtube.com/watch?v=1Aq-thZx5dc](https://www.youtube.com/watch?v=1Aq-thZx5dc)
 * [Q&A: Can we get radial menus for the Hotbar?](../../transcriptions/yt-js-UApdZleU.md) [https://www.youtube.com/watch?v=js-UApdZleU](https://www.youtube.com/watch?v=js-UApdZleU)

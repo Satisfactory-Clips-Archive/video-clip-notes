@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Uzu
 
+## September 20th, 2022 Update 6 Release Stream
+* More build pieces + Uzu interruption [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=3468&end=3630](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=3468&end=3630)
+
 ## November 16th, 2021 Livestream
 * [Q&A: Who is Uzu?](../../transcriptions/yt-RtVbl7ivbaM.md) [https://www.youtube.com/watch?v=RtVbl7ivbaM](https://www.youtube.com/watch?v=RtVbl7ivbaM)
 

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > Radar Tower
 
+## September 20th, 2022 Update 6 Release Stream
+* Radar Towers [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=6220&end=6330](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=6220&end=6330)
+
 ## May 17th, 2022 Livestream
 * [State of Dev](../../../transcriptions/yt-Z6M_0T26BIA.md) [https://www.youtube.com/watch?v=Z6M_0T26BIA](https://www.youtube.com/watch?v=Z6M_0T26BIA)
 * [Q&A: Will the Radar Towers scan caves?](../../../transcriptions/yt-_1RGTTyHmMk.md) [https://www.youtube.com/watch?v=_1RGTTyHmMk](https://www.youtube.com/watch?v=_1RGTTyHmMk)

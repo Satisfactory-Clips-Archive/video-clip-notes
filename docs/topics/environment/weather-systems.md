@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Environment](../../topics/environment.md) > Weather Systems
 
+## September 20th, 2022 Update 6 Release Stream
+* World Update: Weather effects [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=4550&end=4624](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=4550&end=4624)
+
 ## July 12th, 2022 Livestream
 * [Q&A: Volumetric fog in the morning, when?](../../transcriptions/yt-LAtm9YH43-U.md) [https://www.youtube.com/watch?v=LAtm9YH43-U](https://www.youtube.com/watch?v=LAtm9YH43-U)
 

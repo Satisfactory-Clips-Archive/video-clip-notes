@@ -8,6 +8,8 @@ topics:
 # [November 12th, 2020 Video](../2020-11-12.md)
 ## Q&A: Who is Birk?
 https://youtube.com/embed/VYyFA7-yRKc?autoplay=1&start=12&end=57
+This question was possibly duplicated with a more recent answer: September 20th, 2022 Update 6 Release Stream Who is Birk & what do Producers do? [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=3950&end=4109](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=3950&end=4109)
+
 
 ### Topics
 * [Coffee Stainers > Birk](../topics/coffee-stainers/birk.md)

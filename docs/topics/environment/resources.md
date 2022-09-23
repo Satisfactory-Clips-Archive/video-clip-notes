@@ -14,6 +14,9 @@ date: Last Modified
 * [Steel](../../topics/environment/resources/steel.md)
 * [Water](../../topics/environment/resources/water.md)
 
+## September 20th, 2022 Update 6 Release Stream
+* Creature Parts [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=5518&end=5616](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=5518&end=5616)
+
 ## July 12th, 2022 Livestream
 * Q&A: Alt Recipes using a lot of Power to only get 12 per minute? [https://www.youtube.com/watch?v=_ZdYbFPhO2U](https://www.youtube.com/watch?v=_ZdYbFPhO2U)
 * [Q&A: Any dev tricks on how Satisfactory can handle items on Conveyors?](../../transcriptions/yt-Nb75CQWdcaE.md) [https://www.youtube.com/watch?v=Nb75CQWdcaE](https://www.youtube.com/watch?v=Nb75CQWdcaE)

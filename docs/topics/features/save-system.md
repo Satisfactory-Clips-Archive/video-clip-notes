@@ -7,6 +7,9 @@ date: Last Modified
 * [Autosave](../../topics/features/save-system/autosave.md)
 * [Cloud Sync](../../topics/features/save-system/cloud-sync.md)
 
+## September 20th, 2022 Update 6 Release Stream
+* Backup Your Damn Save Files [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=6928&end=7179](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=6928&end=7179)
+
 ## September 13th, 2022 Livestream
 * [Q&A: How will Save files be impacted when Update 6 comes to Early Access?](../../transcriptions/yt-HRMC8w8XgGI.md) [https://www.youtube.com/watch?v=HRMC8w8XgGI](https://www.youtube.com/watch?v=HRMC8w8XgGI)
 

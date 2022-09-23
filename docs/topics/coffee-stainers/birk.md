@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Birk
 
+## September 20th, 2022 Update 6 Release Stream
+* Who is Birk & what do Producers do? [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=3950&end=4109](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=3950&end=4109)
+
 ## March 22nd, 2022 Livestream
 * [Q&A: Will we see a return of Captain Birk of the S.S. Chillax when the 1.0 plans are more firm?](../../transcriptions/yt-9f7ZcAO-tf4.md) [https://www.youtube.com/watch?v=9f7ZcAO-tf4](https://www.youtube.com/watch?v=9f7ZcAO-tf4)
 * [Q&A: Is the rumour true that Snutt has been voted as having the manliest beard in all of the office?](../../transcriptions/yt-enECaoHZzno.md) [https://www.youtube.com/watch?v=enECaoHZzno](https://www.youtube.com/watch?v=enECaoHZzno)

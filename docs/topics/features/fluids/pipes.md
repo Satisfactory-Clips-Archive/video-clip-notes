@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Fluids](../../../topics/features/fluids.md) > Pipes
 
+## September 20th, 2022 Update 6 Release Stream
+* More build pieces + Uzu interruption [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=3468&end=3630](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=3468&end=3630)
+* New Buildables [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=6329&end=6465](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=6329&end=6465)
+
 ## September 6th, 2022 Livestream
 * [Q&A: Terrain manipulation?](../../../transcriptions/yt-OT5C5s89JyY.md) [https://www.youtube.com/watch?v=OT5C5s89JyY](https://www.youtube.com/watch?v=OT5C5s89JyY)
 

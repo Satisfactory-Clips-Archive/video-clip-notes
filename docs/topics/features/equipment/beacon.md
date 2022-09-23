@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Equipment](../../../topics/features/equipment.md) > Beacon
 
+## September 20th, 2022 Update 6 Release Stream
+* Map Changes & Beacon removal [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=4887&end=5159](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=4887&end=5159)
+
 ## September 13th, 2022 Livestream
 * [Q&A: Are you going to change the Recipes for Beacons?](../../../transcriptions/yt-4tCjpG1zJc0.md) [https://www.youtube.com/watch?v=4tCjpG1zJc0](https://www.youtube.com/watch?v=4tCjpG1zJc0)
 * [Q&A: How will Save files be impacted when Update 6 comes to Early Access?](../../../transcriptions/yt-HRMC8w8XgGI.md) [https://www.youtube.com/watch?v=HRMC8w8XgGI](https://www.youtube.com/watch?v=HRMC8w8XgGI)

@@ -23,6 +23,14 @@ date: Last Modified
 * [Xeno-Zapper](../../topics/features/equipment/xeno-zapper.md)
 * [Zip Lines](../../topics/features/equipment/zip-lines.md)
 
+## September 20th, 2022 Update 6 Release Stream
+* Multiple Body Slots [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=5703&end=5888](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=5703&end=5888)
+* More Weapon Types [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=5887&end=6080](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=5887&end=6080)
+* Holstering Equipment [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=6079&end=6122](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=6079&end=6122)
+* Equipment HUD [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=6121&end=6180](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=6121&end=6180)
+* Chainsaw Sounds [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=6179&end=6197](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=6179&end=6197)
+* Equipment Colour Schemes [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=6196&end=6213](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=6196&end=6213)
+
 ## July 12th, 2022 Livestream
 * [Q&A: Explorer mini-gun?](../../transcriptions/yt-onX6FMFubIE.md) [https://www.youtube.com/watch?v=onX6FMFubIE](https://www.youtube.com/watch?v=onX6FMFubIE)
 

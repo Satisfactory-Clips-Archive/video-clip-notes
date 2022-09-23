@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Features](../../topics/features.md) > Pioneer
 
+## September 20th, 2022 Update 6 Release Stream
+* Auto-regenerating Health [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=6709&end=6764](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=6709&end=6764)
+
 ## September 13th, 2022 Livestream
 * [Q&A: Where can I buy the helmet?](../../transcriptions/yt-bLJNYYPCihY.md) [https://www.youtube.com/watch?v=bLJNYYPCihY](https://www.youtube.com/watch?v=bLJNYYPCihY)
 

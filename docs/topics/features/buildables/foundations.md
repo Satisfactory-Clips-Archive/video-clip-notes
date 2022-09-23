@@ -7,6 +7,10 @@ date: Last Modified
 * [Cheatcrete](../../../topics/features/buildables/foundations/cheatcrete.md)
 * [Foundation Stencils](../../../topics/features/buildables/foundations/stencils.md)
 
+## September 20th, 2022 Update 6 Release Stream
+* More build pieces + Uzu interruption [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=3468&end=3630](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=3468&end=3630)
+* New Buildables [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=6329&end=6465](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=6329&end=6465)
+
 ## September 13th, 2022 Livestream
 * [State of Dev](../../../transcriptions/yt-99II6zSq_J0.md) [https://www.youtube.com/watch?v=99II6zSq_J0](https://www.youtube.com/watch?v=99II6zSq_J0)
 * [Q&A: Glass building pieces?](../../../transcriptions/yt-BH3wrT7hmPI.md) [https://www.youtube.com/watch?v=BH3wrT7hmPI](https://www.youtube.com/watch?v=BH3wrT7hmPI)

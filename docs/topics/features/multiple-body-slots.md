@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Features](../../topics/features.md) > Multiple Body Slots
 
+## September 20th, 2022 Update 6 Release Stream
+* Multiple Body Slots [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=5703&end=5888](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=5703&end=5888)
+
 ## June 14th, 2022 Livestream
 * [Mark & Snutt Talk: Multiple Body Slots](../../transcriptions/yt-Z6bo0pjYghk,5384.647315267558,5429.263761.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=5384&end=5430](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=5384&end=5430)
 

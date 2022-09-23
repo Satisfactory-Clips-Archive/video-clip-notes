@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Multiplayer](../../../topics/features/multiplayer.md) > Dedicated Servers
 
+## September 20th, 2022 Update 6 Release Stream
+* Dedicated Servers [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=7217&end=7323](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=7217&end=7323)
+
 ## September 13th, 2022 Livestream
 * [Q&A: Autosave notification for Dedicated Servers?](../../../transcriptions/yt-1Aq-thZx5dc.md) [https://www.youtube.com/watch?v=1Aq-thZx5dc](https://www.youtube.com/watch?v=1Aq-thZx5dc)
 * [Q&A: Any update to Map Markers on Dedicated Servers, right now they don't persist between sessions?](../../../transcriptions/yt-VP9w5CsV27Q.md) [https://www.youtube.com/watch?v=VP9w5CsV27Q](https://www.youtube.com/watch?v=VP9w5CsV27Q)

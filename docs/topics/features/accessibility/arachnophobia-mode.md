@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Accessibility](../../../topics/features/accessibility.md) > Arachnophobia Mode
 
+## September 20th, 2022 Update 6 Release Stream
+* Stingers [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=5436&end=5519](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=5436&end=5519)
+
 ## August 23rd, 2022 Livestream
 * [Q&A: Are the 2d sprite Cat Stingers considered canon?](../../../transcriptions/yt-1dRn-V2lpks.md) [https://www.youtube.com/watch?v=1dRn-V2lpks](https://www.youtube.com/watch?v=1dRn-V2lpks)
 

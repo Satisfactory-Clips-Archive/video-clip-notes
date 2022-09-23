@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Equipment](../../../topics/features/equipment.md) > Customizer
 
+## September 20th, 2022 Update 6 Release Stream
+* Equipment Colour Schemes [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=6196&end=6213](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=6196&end=6213)
+
 ## September 6th, 2022 Livestream
 * [Q&A: Any plans for new Customisation Materials?](../../../transcriptions/yt-QCkjLUYaQ-0.md) [https://www.youtube.com/watch?v=QCkjLUYaQ-0](https://www.youtube.com/watch?v=QCkjLUYaQ-0)
 

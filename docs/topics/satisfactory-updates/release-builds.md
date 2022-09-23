@@ -5,6 +5,12 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > Release Builds
 
+## September 20th, 2022 Update 6 Release Stream
+* Update 6 Experimental branch [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=3302&end=3469](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=3302&end=3469)
+* Getting Update 6 [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=7178&end=7218](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=7178&end=7218)
+* Update 6 Trailer [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=7680&end=7769](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=7680&end=7769)
+* Issues with getting Update 6 [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=8131&end=8204](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=8131&end=8204)
+
 ## September 13th, 2022 Livestream
 * [Q&A: How will Save files be impacted when Update 6 comes to Early Access?](../../transcriptions/yt-HRMC8w8XgGI.md) [https://www.youtube.com/watch?v=HRMC8w8XgGI](https://www.youtube.com/watch?v=HRMC8w8XgGI)
 * [Q&A: Will we still have an Experimental build?](../../transcriptions/yt-qkOyDnplGUA.md) [https://www.youtube.com/watch?v=qkOyDnplGUA](https://www.youtube.com/watch?v=qkOyDnplGUA)

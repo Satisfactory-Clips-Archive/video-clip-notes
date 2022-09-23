@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > Transportation > Trains
 * [Train Signals](../../../topics/features/transportation/trains/train-signals.md)
 
+## September 20th, 2022 Update 6 Release Stream
+* Lights on Trains [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=6464&end=6488](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=6464&end=6488)
+
 ## September 2nd, 2022 Video
 * [Headlights on Trains](../../../transcriptions/yt-Pgm1L8aIf6E,238.17126666666667,239.8396.md) [https://youtube.com/embed/Pgm1L8aIf6E?autoplay=1&start=238&end=240](https://youtube.com/embed/Pgm1L8aIf6E?autoplay=1&start=238&end=240)
 

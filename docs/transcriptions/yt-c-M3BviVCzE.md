@@ -9,7 +9,7 @@ topics:
 # [March 15th, 2022 Livestream](../2022-03-15.md)
 ## Q&A: Is there a rough estimate for the next Update?
 https://www.youtube.com/watch?v=c-M3BviVCzE
-This question was possibly duplicated with a more recent answer: [June 17th, 2022 Video Q&A: When's Update 7?](./yt-acZOxaTkcCY,179.64613333333332,190.552814.md) [https://youtube.com/clip/UgkxAXhsK_YQM6ftkqR9WnQWRaw1zX4QNeZf](https://youtube.com/clip/UgkxAXhsK_YQM6ftkqR9WnQWRaw1zX4QNeZf)
+This question was possibly duplicated with a more recent answer: September 20th, 2022 Update 6 Release Stream What's Next? [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=7954&end=8132](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=7954&end=8132)
 
 
 ### Topics

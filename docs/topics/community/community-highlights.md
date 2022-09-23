@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Community Highlights
 
+## September 20th, 2022 Update 6 Release Stream
+* Community Highlights [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=799&end=3247](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=799&end=3247)
+
 ## September 13th, 2022 Livestream
 * [Q&A: How do we get creations in the Community Highlights?](../../transcriptions/yt-OingyI8ycfY.md) [https://www.youtube.com/watch?v=OingyI8ycfY](https://www.youtube.com/watch?v=OingyI8ycfY)
 

@@ -10,6 +10,15 @@ date: Last Modified
 * [Non Flying Bird](../../topics/environment/creatures/non-flying-bird.md)
 * [Space Giraffe-Tick-Penguin-Whale Thing](../../topics/environment/creatures/space-giraffe-tick-penguin-whale-thing.md)
 
+## September 20th, 2022 Update 6 Release Stream
+* AI/behaviour Changes [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=5158&end=5291](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=5158&end=5291)
+* Visual Changes [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=5290&end=5365](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=5290&end=5365)
+* Crab Hatchers [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=5364&end=5409](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=5364&end=5409)
+* Boombox tease [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=5408&end=5437](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=5408&end=5437)
+* Stingers [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=5436&end=5519](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=5436&end=5519)
+* Creature Parts [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=5518&end=5616](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=5518&end=5616)
+* HUD warnings for Creature aggression [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=5615&end=5654](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=5615&end=5654)
+
 ## September 6th, 2022 Livestream
 * [State of Dev](../../transcriptions/yt-hRN17cFJeRc.md) [https://www.youtube.com/watch?v=hRN17cFJeRc](https://www.youtube.com/watch?v=hRN17cFJeRc)
 
