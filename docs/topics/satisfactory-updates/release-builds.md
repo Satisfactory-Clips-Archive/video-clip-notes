@@ -8,7 +8,7 @@ date: Last Modified
 ## September 20th, 2022 Update 6 Release Stream
 * Update 6 Experimental branch [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=3302&end=3469](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=3302&end=3469)
 * Getting Update 6 [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=7178&end=7218](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=7178&end=7218)
-* Update 6 Trailer [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=7680&end=7769](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=7680&end=7769)
+* Q&A: Stable = Experimental? [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=7589&end=7604](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=7589&end=7604)
 * Issues with getting Update 6 [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=8131&end=8204](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=8131&end=8204)
 
 ## September 13th, 2022 Livestream

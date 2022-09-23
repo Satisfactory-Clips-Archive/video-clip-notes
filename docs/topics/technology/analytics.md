@@ -6,7 +6,7 @@ date: Last Modified
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > Analytics
 
 ## September 20th, 2022 Update 6 Release Stream
-* Hannah & Nathalie crash the stream [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=7396](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=7396)
+* Telemetry Changes [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=7322&end=7397](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=7322&end=7397)
 
 ## September 14th, 2021 Livestream
 * [Q&A: Do you know how many active players the game currently has?](../../transcriptions/yt-G1ygZux_HPU.md) [https://www.youtube.com/watch?v=G1ygZux_HPU](https://www.youtube.com/watch?v=G1ygZux_HPU)

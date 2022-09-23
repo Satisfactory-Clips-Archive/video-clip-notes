@@ -7,7 +7,6 @@ date: Last Modified
 
 ## September 20th, 2022 Update 6 Release Stream
 * Overclocking & Underclocking changes not occurring yet [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=6775&end=6873](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=6775&end=6873)
-* Telemetry Changes [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=7322&end=7397](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=7322&end=7397)
 
 ## September 13th, 2022 Livestream
 * [Q&A: Any updates to if Overclocking is changing?](../../../transcriptions/yt-qBEml9Qw5xE.md) [https://www.youtube.com/watch?v=qBEml9Qw5xE](https://www.youtube.com/watch?v=qBEml9Qw5xE)
