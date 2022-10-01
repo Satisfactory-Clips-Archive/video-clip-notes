@@ -3,7 +3,7 @@ title: "Satisfactory Update 7"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEq99AIuldrDf7WJJpvEtkEO
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Speculative > Satisfactory Update 7
+# [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Pending](../../../topics/satisfactory-updates/pending.md) > Satisfactory Update 7
 
 ## September 20th, 2022 Update 6 Release Stream
 * What's Next? [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=7954&end=8132](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=7954&end=8132)

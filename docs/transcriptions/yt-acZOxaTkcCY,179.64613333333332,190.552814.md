@@ -4,7 +4,7 @@ date: "2022-06-17"
 layout: transcript
 topics:
     - "community"
-    - "satisfactory-updates/speculative/satisfactory-update-7"
+    - "satisfactory-updates/pending/satisfactory-update-7"
     - "trolling"
 ---
 # [June 17th, 2022 Video](../2022-06-17.md)
@@ -15,7 +15,7 @@ This question was possibly duplicated with a more recent answer: September 20th,
 
 ### Topics
 * [Community](../topics/community.md)
-* [Satisfactory Updates > Speculative > Satisfactory Update 7](../topics/satisfactory-updates/speculative/satisfactory-update-7.md)
+* [Satisfactory Updates > Pending > Satisfactory Update 7](../topics/satisfactory-updates/pending/satisfactory-update-7.md)
 * [Trolling](../topics/trolling.md)
 
 ### Transcript

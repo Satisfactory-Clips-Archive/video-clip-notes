@@ -4,7 +4,7 @@ date: "2022-06-07"
 layout: transcript
 topics:
     - "community"
-    - "satisfactory-updates/speculative/satisfactory-update-7"
+    - "satisfactory-updates/pending/satisfactory-update-7"
 ---
 # [June 7th, 2022 Livestream](../2022-06-07.md)
 ## Q&A: Update 7 is here?
@@ -14,7 +14,7 @@ This question was possibly duplicated with a more recent answer: September 20th,
 
 ### Topics
 * [Community](../topics/community.md)
-* [Satisfactory Updates > Speculative > Satisfactory Update 7](../topics/satisfactory-updates/speculative/satisfactory-update-7.md)
+* [Satisfactory Updates > Pending > Satisfactory Update 7](../topics/satisfactory-updates/pending/satisfactory-update-7.md)
 
 ### Transcript
 

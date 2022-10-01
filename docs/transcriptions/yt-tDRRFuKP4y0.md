@@ -3,14 +3,14 @@ title: "October 19th, 2021 Livestream Q&A: When is Update 7 coming out?"
 date: "2021-10-19"
 layout: transcript
 topics:
-    - "satisfactory-updates/speculative/satisfactory-update-7"
+    - "satisfactory-updates/pending/satisfactory-update-7"
 ---
 # [October 19th, 2021 Livestream](../2021-10-19.md)
 ## Q&A: When is Update 7 coming out?
 https://www.youtube.com/watch?v=tDRRFuKP4y0
 
 ### Topics
-* [Satisfactory Updates > Speculative > Satisfactory Update 7](../topics/satisfactory-updates/speculative/satisfactory-update-7.md)
+* [Satisfactory Updates > Pending > Satisfactory Update 7](../topics/satisfactory-updates/pending/satisfactory-update-7.md)
 
 ### Transcript
 
