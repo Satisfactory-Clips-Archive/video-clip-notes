@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > Transportation > Trains
 * [Train Signals](../../../topics/features/transportation/trains/train-signals.md)
 
+## September 27th, 2022 Livestream
+* [Q&A: Volume slider for Trains?](../../../transcriptions/yt-MsThuLeWGMA.md) [https://www.youtube.com/watch?v=MsThuLeWGMA](https://www.youtube.com/watch?v=MsThuLeWGMA)
+
 ## September 20th, 2022 Update 6 Release Stream
 * Lights on Trains [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=6464&end=6488](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=6464&end=6488)
 

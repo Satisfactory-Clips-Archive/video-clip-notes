@@ -8,7 +8,7 @@ topics:
 # [March 9th, 2021 Livestream](../2021-03-09.md)
 ## Q&A: Is Lore & Story progressing well, not well, or not at all?
 https://www.youtube.com/watch?v=UHWeEsduD0Q
-This question was possibly duplicated with a more recent answer: [March 22nd, 2022 Livestream Q&A: When will we see more of the Story?](./yt-hesfPUzwrZs.md) [https://www.youtube.com/watch?v=hesfPUzwrZs](https://www.youtube.com/watch?v=hesfPUzwrZs)
+This question was possibly duplicated with a more recent answer: [September 27th, 2022 Livestream Q&A: Any news on Story?](./yt-9fgOMllBQl0.md) [https://www.youtube.com/watch?v=9fgOMllBQl0](https://www.youtube.com/watch?v=9fgOMllBQl0)
 
 
 ### Topics

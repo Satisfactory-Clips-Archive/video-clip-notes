@@ -10,6 +10,22 @@ date: Last Modified
 * [Pollution](../../topics/features/requested-features/pollution.md)
 * [Third-person View](../../topics/features/requested-features/third-person-view.md)
 
+## September 27th, 2022 Livestream
+* [Q&A: Any plans for fixing AI putting you and your Vehicle into the skybox?](../../transcriptions/yt-3fFpU3tvqPs.md) [https://www.youtube.com/watch?v=3fFpU3tvqPs](https://www.youtube.com/watch?v=3fFpU3tvqPs)
+* [Q&A: Sound slider to make Spheres shut up?](../../transcriptions/yt-iJIYyp74vb0.md) [https://www.youtube.com/watch?v=iJIYyp74vb0](https://www.youtube.com/watch?v=iJIYyp74vb0)
+* [Q&A: Will there be any new melee weapons?](../../transcriptions/yt-eIxaUHjOLvc.md) [https://www.youtube.com/watch?v=eIxaUHjOLvc](https://www.youtube.com/watch?v=eIxaUHjOLvc)
+* [Q&A: Volume slider for Trains?](../../transcriptions/yt-MsThuLeWGMA.md) [https://www.youtube.com/watch?v=MsThuLeWGMA](https://www.youtube.com/watch?v=MsThuLeWGMA)
+* [Q&A: Chainsaw modes?](../../transcriptions/yt-mniVXKV2OfI.md) [https://www.youtube.com/watch?v=mniVXKV2OfI](https://www.youtube.com/watch?v=mniVXKV2OfI)
+* [Q&A: Inverted Tile Tilted Corner Wall?](../../transcriptions/yt-1YWTBgCdbYM.md) [https://www.youtube.com/watch?v=1YWTBgCdbYM](https://www.youtube.com/watch?v=1YWTBgCdbYM)
+* [Q&A: More Boombox cassettes?](../../transcriptions/yt-HQXxP5QeGJQ.md) [https://www.youtube.com/watch?v=HQXxP5QeGJQ](https://www.youtube.com/watch?v=HQXxP5QeGJQ)
+* [Q&A: Is there a way to get the Boombox to come out of both speakers?](../../transcriptions/yt-L-EK8Iz9rWk.md) [https://www.youtube.com/watch?v=L-EK8Iz9rWk](https://www.youtube.com/watch?v=L-EK8Iz9rWk)
+* [Q&A: Halloween update?](../../transcriptions/yt-2XE9Wx-qajo.md) [https://www.youtube.com/watch?v=2XE9Wx-qajo](https://www.youtube.com/watch?v=2XE9Wx-qajo)
+* [Q&A: What's the status of Smart Mergers?](../../transcriptions/yt-anXxZuqG-tk.md) [https://www.youtube.com/watch?v=anXxZuqG-tk](https://www.youtube.com/watch?v=anXxZuqG-tk)
+* [Q&A: Any news about the Mk.5 belt vs. the Mk.3 Miner?](../../transcriptions/yt-8b7a3qdokiw.md) [https://www.youtube.com/watch?v=8b7a3qdokiw](https://www.youtube.com/watch?v=8b7a3qdokiw)
+* [Q&A: Conveyor Wall Holes ?](../../transcriptions/yt-Wyl0ho9rxdA.md) [https://www.youtube.com/watch?v=Wyl0ho9rxdA](https://www.youtube.com/watch?v=Wyl0ho9rxdA)
+* [Q&A: I often play offline, is there a way to avoid making a clone and losing my hotbar settings?](../../transcriptions/yt-TCZqU49CkIQ.md) [https://www.youtube.com/watch?v=TCZqU49CkIQ](https://www.youtube.com/watch?v=TCZqU49CkIQ)
+* [Q&A: Do you think we'll ever be able to deconstruct Crash Sites after we open them?](../../transcriptions/yt-0WYkl46KZLM.md) [https://www.youtube.com/watch?v=0WYkl46KZLM](https://www.youtube.com/watch?v=0WYkl46KZLM)
+
 ## September 13th, 2022 Livestream
 * [Q&A: Autosave notification for Dedicated Servers?](../../transcriptions/yt-1Aq-thZx5dc.md) [https://www.youtube.com/watch?v=1Aq-thZx5dc](https://www.youtube.com/watch?v=1Aq-thZx5dc)
 * [Q&A: I'd like to see a rebalance so we're encouraged to automate each Tier instead of handcrafting?](../../transcriptions/yt--mp-XYvQYWg.md) [https://www.youtube.com/watch?v=-mp-XYvQYWg](https://www.youtube.com/watch?v=-mp-XYvQYWg)

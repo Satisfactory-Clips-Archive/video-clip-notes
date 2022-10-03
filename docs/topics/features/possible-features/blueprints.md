@@ -3,7 +3,7 @@ title: "Blueprints"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEpUuYgu0-pxFGsbN2YXpbOP
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > Possible Features > Blueprints
+# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Possible Features](../../../topics/features/possible-features.md) > Blueprints
 
 ## September 6th, 2022 Livestream
 * [Q&A: Terrain manipulation?](../../../transcriptions/yt-OT5C5s89JyY.md) [https://www.youtube.com/watch?v=OT5C5s89JyY](https://www.youtube.com/watch?v=OT5C5s89JyY)

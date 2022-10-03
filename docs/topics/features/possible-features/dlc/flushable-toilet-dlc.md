@@ -3,7 +3,7 @@ title: "Flushable Toilet DLC"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEo6-Jsza66SWDUgX688DEh5
 date: Last Modified
 ---
-# [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > Possible Features > [DLC](../../../../topics/features/possible-features/dlc.md) > Flushable Toilet DLC
+# [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > [Possible Features](../../../../topics/features/possible-features.md) > [DLC](../../../../topics/features/possible-features/dlc.md) > Flushable Toilet DLC
 
 ## August 23rd, 2022 Livestream
 * [Q&A: When will we get the Toilet DLC?](../../../../transcriptions/yt-Gt94bJHuacQ.md) [https://www.youtube.com/watch?v=Gt94bJHuacQ](https://www.youtube.com/watch?v=Gt94bJHuacQ)

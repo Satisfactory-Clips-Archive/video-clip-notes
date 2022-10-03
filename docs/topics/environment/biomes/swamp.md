@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Biomes](../../../topics/environment/biomes.md) > Swamp
 
+## September 27th, 2022 Livestream
+* [Snutt & Jace Talk: Overworld LODs](../../../transcriptions/yt-v9ZDWFExbYw.md) [https://www.youtube.com/watch?v=v9ZDWFExbYw](https://www.youtube.com/watch?v=v9ZDWFExbYw)
+
 ## September 20th, 2022 Update 6 Release Stream
 * World Update: Swamp [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=4477&end=4551](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=4477&end=4551)
 

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > Crash Site
 
+## September 27th, 2022 Livestream
+* [Q&A: Do you think we'll ever be able to deconstruct Crash Sites after we open them?](../../../transcriptions/yt-0WYkl46KZLM.md) [https://www.youtube.com/watch?v=0WYkl46KZLM](https://www.youtube.com/watch?v=0WYkl46KZLM)
+
 ## August 23rd, 2022 Livestream
 * [Q&A: Are you planning on making hunting crash sites / hard drives more attractive?](../../../transcriptions/yt-Xj--vMv9T6k.md) [https://www.youtube.com/watch?v=Xj--vMv9T6k](https://www.youtube.com/watch?v=Xj--vMv9T6k)
 

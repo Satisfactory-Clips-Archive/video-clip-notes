@@ -9,6 +9,8 @@ topics:
 # [June 28th, 2022 Livestream](../2022-06-28.md)
 ## Q&A: Any plans to make Vehicles carry more than one player?
 https://www.youtube.com/watch?v=zSTXteZon0w
+This question was possibly replaced with a more recent answer: [September 27th, 2022 Livestream Q&A: Can we get a passenger seat in the Explorer?](./yt-9zcXb6IOVmY.md) [https://www.youtube.com/watch?v=9zcXb6IOVmY](https://www.youtube.com/watch?v=9zcXb6IOVmY)
+
 <details>
 <summary>This question may have been asked previously at least 12 other times, as recently as March 2022 and as early as August 2020.</summary>
 

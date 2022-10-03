@@ -9,7 +9,7 @@ topics:
 # [February 1st, 2022 Livestream](../2022-02-01.md)
 ## Q&A: Do you intend to add a Smart Merger?
 https://www.youtube.com/watch?v=QQzWlAO0NH0
-This question was possibly duplicated with a more recent answer: [July 5th, 2022 Livestream Q&A: Any plans for Smart Mergers?](./yt-gSfMJLj1QEs.md) [https://www.youtube.com/watch?v=gSfMJLj1QEs](https://www.youtube.com/watch?v=gSfMJLj1QEs)
+This question was possibly duplicated with a more recent answer: [September 27th, 2022 Livestream Q&A: What's the status of Smart Mergers?](./yt-anXxZuqG-tk.md) [https://www.youtube.com/watch?v=anXxZuqG-tk](https://www.youtube.com/watch?v=anXxZuqG-tk)
 
 
 ### Topics

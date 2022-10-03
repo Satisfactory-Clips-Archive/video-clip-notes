@@ -64,6 +64,7 @@ date: Last Modified
 * [Community Highlights](./topics/community/community-highlights.md)
 * [DrawingXaos](./topics/community/drawingxaos.md)
 * [Haigen](./topics/community/haigen.md)
+* [Its_BitZ](./topics/community/its-bitz.md)
 * [J1mbers](./topics/community/j1mbers.md)
 * [Josh](./topics/community/josh.md)
 * [Joshie](./topics/community/joshie.md)
@@ -260,7 +261,7 @@ date: Last Modified
 * [Dedicated Servers](./topics/features/multiplayer/dedicated-servers.md)
 ---
 
-## Possible Features
+## [Possible Features](./topics/features/possible-features.md)
 * [Blueprints](./topics/features/possible-features/blueprints.md)
 * [Character Customisation](./topics/features/possible-features/character-customisation.md)
 * [Console Release](./topics/features/possible-features/console-release.md)

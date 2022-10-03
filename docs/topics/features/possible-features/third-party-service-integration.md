@@ -3,8 +3,11 @@ title: "Third-Party Service Integration"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiErmYlQEEHD-GrNpRC1_6R9b
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > Possible Features > Third-Party Service Integration
+# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Possible Features](../../../topics/features/possible-features.md) > Third-Party Service Integration
 * [Achievements](../../../topics/features/possible-features/third-party-service-integration/achievements.md)
+
+## September 27th, 2022 Livestream
+* [Q&A: Ever thought of making Twitch integration in the game?](../../../transcriptions/yt-6ZAsEbgws_I.md) [https://www.youtube.com/watch?v=6ZAsEbgws_I](https://www.youtube.com/watch?v=6ZAsEbgws_I)
 
 ## August 23rd, 2022 Livestream
 * [Q&A: Exclusive skins for Belts, things via Twitch drops?](../../../transcriptions/yt-2K55fuMxHfo.md) [https://www.youtube.com/watch?v=2K55fuMxHfo](https://www.youtube.com/watch?v=2K55fuMxHfo)

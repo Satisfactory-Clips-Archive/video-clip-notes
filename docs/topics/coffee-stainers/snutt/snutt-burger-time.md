@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Coffee Stainers](../../../topics/coffee-stainers.md) > [Snutt](../../../topics/coffee-stainers/snutt.md) > Snutt Burger Time
 
+## September 27th, 2022 Livestream
+* [Q&A: Burgers tonight?](../../../transcriptions/yt-Slz2a-Y6xXM.md) [https://www.youtube.com/watch?v=Slz2a-Y6xXM](https://www.youtube.com/watch?v=Slz2a-Y6xXM)
+
 ## September 13th, 2022 Livestream
 * [Q&A: Space-Giraffe burgers?](../../../transcriptions/yt-AbXttpJj74M.md) [https://www.youtube.com/watch?v=AbXttpJj74M](https://www.youtube.com/watch?v=AbXttpJj74M)
 

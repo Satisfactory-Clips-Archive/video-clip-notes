@@ -5,6 +5,16 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Pending](../../../topics/satisfactory-updates/pending.md) > Satisfactory Update 7
 
+## September 30th, 2022 Video
+* [What's going to be in Update 7](../../../transcriptions/yt-5Pz_dZbEx-4,373.00596666666667,404.3039.md) [https://youtube.com/embed/5Pz_dZbEx-4?autoplay=1&start=373&end=405](https://youtube.com/embed/5Pz_dZbEx-4?autoplay=1&start=373&end=405)
+* [To Be Continued](../../../transcriptions/yt-5Pz_dZbEx-4,404.33726666666666,414.614.md) [https://youtube.com/embed/5Pz_dZbEx-4?autoplay=1&start=404&end=415](https://youtube.com/embed/5Pz_dZbEx-4?autoplay=1&start=404&end=415)
+
+## September 27th, 2022 Livestream
+* [State of Dev](../../../transcriptions/yt-MmzRTLolTgo.md) [https://www.youtube.com/watch?v=MmzRTLolTgo](https://www.youtube.com/watch?v=MmzRTLolTgo)
+* [Q&A: Will there be any new melee weapons?](../../../transcriptions/yt-eIxaUHjOLvc.md) [https://www.youtube.com/watch?v=eIxaUHjOLvc](https://www.youtube.com/watch?v=eIxaUHjOLvc)
+* [Q&A: Overclocking changes for Update 7?](../../../transcriptions/yt-_iPkLPBspDc.md) [https://www.youtube.com/watch?v=_iPkLPBspDc](https://www.youtube.com/watch?v=_iPkLPBspDc)
+* [Q&A: Have we been told if Titan Forest & Red Forest are going to change in Update 7?](../../../transcriptions/yt-tfPYmasD82M.md) [https://www.youtube.com/watch?v=tfPYmasD82M](https://www.youtube.com/watch?v=tfPYmasD82M)
+
 ## September 20th, 2022 Update 6 Release Stream
 * What's Next? [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=7954&end=8132](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=7954&end=8132)
 

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Equipment](../../../topics/features/equipment.md) > Rebar Gun
 
+## September 27th, 2022 Livestream
+* [Q&A: Is it intended to automate every ammunition type?](../../../transcriptions/yt-oanuTwu7Zro.md) [https://www.youtube.com/watch?v=oanuTwu7Zro](https://www.youtube.com/watch?v=oanuTwu7Zro)
+
 ## July 12th, 2022 Livestream
 * [Q&A: Lootboxes for golden skins for Rebar Gun?](../../../transcriptions/yt-2hSR3DgaaUg.md) [https://www.youtube.com/watch?v=2hSR3DgaaUg](https://www.youtube.com/watch?v=2hSR3DgaaUg)
 

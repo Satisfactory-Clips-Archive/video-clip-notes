@@ -5,6 +5,8 @@ layout: index
 ---
 # 2022
 ## September
+* [September 30th](2022-09-30.md)
+* [September 27th](2022-09-27.md)
 * [September 20th](2022-09-20.md)
 * [September 13th](2022-09-13.md)
 * [September 6th](2022-09-06.md)

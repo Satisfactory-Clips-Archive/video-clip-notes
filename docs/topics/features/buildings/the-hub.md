@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > The HUB
 
+## September 27th, 2022 Livestream
+* [Q&A: Can sleeping be added?](../../../transcriptions/yt-f57Lrnspk10.md) [https://www.youtube.com/watch?v=f57Lrnspk10](https://www.youtube.com/watch?v=f57Lrnspk10)
+
 ## August 23rd, 2022 Livestream
 * [Q&A: Will we be able to sleep in the HUB's bed?](../../../transcriptions/yt-U6UAVFjQvVo.md) [https://www.youtube.com/watch?v=U6UAVFjQvVo](https://www.youtube.com/watch?v=U6UAVFjQvVo)
 

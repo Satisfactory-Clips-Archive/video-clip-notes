@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Unplanned Features](../../../topics/features/unplanned-features.md) > Golf
 
+## September 27th, 2022 Livestream
+* [Q&A: What is considered for a minor update vs. a major one?](../../../transcriptions/yt-6CjylFLFNyg.md) [https://www.youtube.com/watch?v=6CjylFLFNyg](https://www.youtube.com/watch?v=6CjylFLFNyg)
+* [Q&A: What about Disc Golf ?](../../../transcriptions/yt-c91XPaj8_rM.md) [https://www.youtube.com/watch?v=c91XPaj8_rM](https://www.youtube.com/watch?v=c91XPaj8_rM)
+
 ## September 13th, 2022 Livestream
 * [Q&A: Where's the Golf Course DLC?](../../../transcriptions/yt-9Jd5xIwEGhY.md) [https://www.youtube.com/watch?v=9Jd5xIwEGhY](https://www.youtube.com/watch?v=9Jd5xIwEGhY)
 

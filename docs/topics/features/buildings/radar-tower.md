@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > Radar Tower
 
+## September 27th, 2022 Livestream
+* [Q&A: What is the range of Radar Towers since height doesn't affect it any more?](../../../transcriptions/yt-yaYXQCKh4Xk.md) [https://www.youtube.com/watch?v=yaYXQCKh4Xk](https://www.youtube.com/watch?v=yaYXQCKh4Xk)
+
 ## September 20th, 2022 Update 6 Release Stream
 * Radar Towers [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=6220&end=6330](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=6220&end=6330)
 

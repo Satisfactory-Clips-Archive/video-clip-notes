@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > World Update
 
+## September 27th, 2022 Livestream
+* [Q&A: Have we been told if Titan Forest & Red Forest are going to change in Update 7?](../../transcriptions/yt-tfPYmasD82M.md) [https://www.youtube.com/watch?v=tfPYmasD82M](https://www.youtube.com/watch?v=tfPYmasD82M)
+* [Q&A: Any more big changes to the map?](../../transcriptions/yt-lTsqEazqVIw.md) [https://www.youtube.com/watch?v=lTsqEazqVIw](https://www.youtube.com/watch?v=lTsqEazqVIw)
+
 ## September 20th, 2022 Update 6 Release Stream
 * World Update: Spire Coast [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=4216&end=4478](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=4216&end=4478)
 * World Update: Swamp [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=4477&end=4551](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=4477&end=4551)

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Equipment](../../../topics/features/equipment.md) > Chainsaw
 
+## September 27th, 2022 Livestream
+* [Q&A: Chainsaw modes?](../../../transcriptions/yt-mniVXKV2OfI.md) [https://www.youtube.com/watch?v=mniVXKV2OfI](https://www.youtube.com/watch?v=mniVXKV2OfI)
+
 ## September 20th, 2022 Update 6 Release Stream
 * Chainsaw Sounds [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=6179&end=6197](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=6179&end=6197)
 

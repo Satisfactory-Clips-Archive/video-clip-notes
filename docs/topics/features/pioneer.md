@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Features](../../topics/features.md) > Pioneer
 
+## September 27th, 2022 Livestream
+* [Q&A: Can sleeping be added?](../../transcriptions/yt-f57Lrnspk10.md) [https://www.youtube.com/watch?v=f57Lrnspk10](https://www.youtube.com/watch?v=f57Lrnspk10)
+* [Q&A: I often play offline, is there a way to avoid making a clone and losing my hotbar settings?](../../transcriptions/yt-TCZqU49CkIQ.md) [https://www.youtube.com/watch?v=TCZqU49CkIQ](https://www.youtube.com/watch?v=TCZqU49CkIQ)
+
 ## September 20th, 2022 Update 6 Release Stream
 * Auto-regenerating Health [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=6709&end=6764](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=6709&end=6764)
 

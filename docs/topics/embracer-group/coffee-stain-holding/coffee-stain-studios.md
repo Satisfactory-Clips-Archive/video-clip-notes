@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Embracer Group](../../../topics/embracer-group.md) > Coffee Stain Holding > Coffee Stain Studios
 
+## September 27th, 2022 Livestream
+* [Q&A: Unusual Satis Merch that you'd like to see from Coffee Stain or Heroic Replicas?](../../../transcriptions/yt-CHwWm33_rRQ.md) [https://www.youtube.com/watch?v=CHwWm33_rRQ](https://www.youtube.com/watch?v=CHwWm33_rRQ)
+
 ## September 13th, 2022 Livestream
 * [Q&A: How many devs are currently working on the game?](../../../transcriptions/yt--ZSeVyn-vME.md) [https://www.youtube.com/watch?v=-ZSeVyn-vME](https://www.youtube.com/watch?v=-ZSeVyn-vME)
 * [Q&A: What source control do you use?](../../../transcriptions/yt-HkZJ2CyZ2ao.md) [https://www.youtube.com/watch?v=HkZJ2CyZ2ao](https://www.youtube.com/watch?v=HkZJ2CyZ2ao)

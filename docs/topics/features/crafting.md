@@ -8,6 +8,9 @@ date: Last Modified
 * [Recipes](../../topics/features/crafting/recipes.md)
 * [Superposition Oscillator](../../topics/features/crafting/superposition-oscillator.md)
 
+## September 27th, 2022 Livestream
+* [Snutt Talk: Satisfactory- it makes no sense](../../transcriptions/yt-OWrxHS2wbWU.md) [https://www.youtube.com/watch?v=OWrxHS2wbWU](https://www.youtube.com/watch?v=OWrxHS2wbWU)
+
 ## July 12th, 2022 Livestream
 * [Q&A: Any dev tricks on how Satisfactory can handle items on Conveyors?](../../transcriptions/yt-Nb75CQWdcaE.md) [https://www.youtube.com/watch?v=Nb75CQWdcaE](https://www.youtube.com/watch?v=Nb75CQWdcaE)
 

@@ -9,7 +9,7 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Are Conveyor Belt Mk. 6 going to be a thing?
 https://www.youtube.com/watch?v=WbtzFVFOFMs
-This question was possibly duplicated with a more recent answer: [September 6th, 2022 Livestream Q&A: Mk.6 Conveyor Belts?](./yt-5kppmSyt6_E.md) [https://www.youtube.com/watch?v=5kppmSyt6_E](https://www.youtube.com/watch?v=5kppmSyt6_E)
+This question was possibly duplicated with a more recent answer: [September 27th, 2022 Livestream Q&A: Any news about the Mk.5 belt vs. the Mk.3 Miner?](./yt-8b7a3qdokiw.md) [https://www.youtube.com/watch?v=8b7a3qdokiw](https://www.youtube.com/watch?v=8b7a3qdokiw)
 
 
 ### Topics

@@ -9,6 +9,8 @@ topics:
 # [April 12th, 2022 Livestream](../2022-04-12.md)
 ## Q&A: Do you as a company have a direction for after 1.0?
 https://www.youtube.com/watch?v=rjnWYKc03nA
+This question was possibly duplicated with a more recent answer: [September 27th, 2022 Livestream Q&A: What will you do after Satisfactory's done?](./yt-sBNBwZaHK_I.md) [https://www.youtube.com/watch?v=sBNBwZaHK_I](https://www.youtube.com/watch?v=sBNBwZaHK_I)
+
 
 ### Topics
 * [Embracer Group > Coffee Stain Holding > Coffee Stain Studios](../topics/embracer-group/coffee-stain-holding/coffee-stain-studios.md)

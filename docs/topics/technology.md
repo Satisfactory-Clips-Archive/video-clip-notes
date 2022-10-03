@@ -14,6 +14,9 @@ date: Last Modified
 * [User Interface](../topics/technology/user-interface.md)
 * [Vulkan](../topics/technology/vulkan.md)
 
+## September 27th, 2022 Livestream
+* [Q&A: How many Conveyor Belts does it take to crash a graphics card?](../transcriptions/yt-TNiyjAw6-uI.md) [https://www.youtube.com/watch?v=TNiyjAw6-uI](https://www.youtube.com/watch?v=TNiyjAw6-uI)
+
 ## September 13th, 2022 Livestream
 * [Q&A: What source control do you use?](../transcriptions/yt-HkZJ2CyZ2ao.md) [https://www.youtube.com/watch?v=HkZJ2CyZ2ao](https://www.youtube.com/watch?v=HkZJ2CyZ2ao)
 

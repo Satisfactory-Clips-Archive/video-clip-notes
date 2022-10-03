@@ -8,7 +8,7 @@ topics:
 # [October 20th, 2020 Livestream](../2020-10-20.md)
 ## Q&A: Any Halloween Event?
 https://www.youtube.com/watch?v=WU3ncx4Ok3Y
-This question was possibly duplicated with a more recent answer: [September 28th, 2021 Livestream Q&A: Any new Halloween easter eggs ?](./yt--226kRinKxI.md) [https://www.youtube.com/watch?v=-226kRinKxI](https://www.youtube.com/watch?v=-226kRinKxI)
+This question was possibly duplicated with a more recent answer: [September 27th, 2022 Livestream Q&A: Halloween update?](./yt-2XE9Wx-qajo.md) [https://www.youtube.com/watch?v=2XE9Wx-qajo](https://www.youtube.com/watch?v=2XE9Wx-qajo)
 
 
 ### Topics

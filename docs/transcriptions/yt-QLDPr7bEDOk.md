@@ -12,6 +12,8 @@ topics:
 # [June 7th, 2022 Livestream](../2022-06-07.md)
 ## Q&A: Would it be possible to automate the new ammo types, or just manually craft them?
 https://www.youtube.com/watch?v=QLDPr7bEDOk
+This question was possibly replaced with a more recent answer: [September 27th, 2022 Livestream Q&A: Is it intended to automate every ammunition type?](./yt-oanuTwu7Zro.md) [https://www.youtube.com/watch?v=oanuTwu7Zro](https://www.youtube.com/watch?v=oanuTwu7Zro)
+
 
 ### Topics
 * [Features > Crafting > Recipes](../topics/features/crafting/recipes.md)

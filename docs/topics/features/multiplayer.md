@@ -7,6 +7,9 @@ date: Last Modified
 * [Crossplay](../../topics/features/multiplayer/crossplay.md)
 * [Dedicated Servers](../../topics/features/multiplayer/dedicated-servers.md)
 
+## September 27th, 2022 Livestream
+* [Q&A: Why not pause when I open the menu?](../../transcriptions/yt-jO3-Sb2c3XU.md) [https://www.youtube.com/watch?v=jO3-Sb2c3XU](https://www.youtube.com/watch?v=jO3-Sb2c3XU)
+
 ## September 6th, 2022 Livestream
 * [Snutt Talk: Multiplayer networking](../../transcriptions/yt-PWA9BHfeOhY.md) [https://www.youtube.com/watch?v=PWA9BHfeOhY](https://www.youtube.com/watch?v=PWA9BHfeOhY)
 

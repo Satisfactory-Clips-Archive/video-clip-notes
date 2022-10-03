@@ -25,6 +25,9 @@ date: Last Modified
 * [The Lord of the Rings](../topics/off-topic/the-lord-of-the-rings.md)
 * [Valheim](../topics/off-topic/valheim.md)
 
+## September 27th, 2022 Livestream
+* [Snutt talk: Spaceballs](../transcriptions/yt-xKL6EgOifH8.md) [https://www.youtube.com/watch?v=xKL6EgOifH8](https://www.youtube.com/watch?v=xKL6EgOifH8)
+
 ## September 13th, 2022 Livestream
 * [Q&A: What is your actual opinion on Power Rangers?](../transcriptions/yt-k0nNJMBxQ6Y.md) [https://www.youtube.com/watch?v=k0nNJMBxQ6Y](https://www.youtube.com/watch?v=k0nNJMBxQ6Y)
 

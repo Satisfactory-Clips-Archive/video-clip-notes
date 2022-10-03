@@ -8,7 +8,7 @@ topics:
 # [September 21st, 2021 Livestream](../2021-09-21.md)
 ## Q&A: Is all the Story stuff finished?
 https://www.youtube.com/watch?v=mUNB0jMlwd0
-This question was possibly duplicated with a more recent answer: [March 22nd, 2022 Livestream Q&A: When will we see more of the Story?](./yt-hesfPUzwrZs.md) [https://www.youtube.com/watch?v=hesfPUzwrZs](https://www.youtube.com/watch?v=hesfPUzwrZs)
+This question was possibly duplicated with a more recent answer: [September 27th, 2022 Livestream Q&A: Any news on Story?](./yt-9fgOMllBQl0.md) [https://www.youtube.com/watch?v=9fgOMllBQl0](https://www.youtube.com/watch?v=9fgOMllBQl0)
 
 
 ### Topics

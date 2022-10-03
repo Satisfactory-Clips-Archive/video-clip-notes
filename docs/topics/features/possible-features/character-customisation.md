@@ -3,7 +3,7 @@ title: "Character Customisation"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiErakQW-p-n78uCwn21Irv7v
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > Possible Features > Character Customisation
+# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Possible Features](../../../topics/features/possible-features.md) > Character Customisation
 
 ## July 5th, 2022 Livestream
 * [Q&A: Pioneer customisation could be cool?](../../../transcriptions/yt-9eYG1DFVnpU.md) [https://www.youtube.com/watch?v=9eYG1DFVnpU](https://www.youtube.com/watch?v=9eYG1DFVnpU)

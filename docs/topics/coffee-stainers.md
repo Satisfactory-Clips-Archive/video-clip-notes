@@ -41,6 +41,9 @@ date: Last Modified
 * [Torsten](../topics/coffee-stainers/torsten.md)
 * [Uzu](../topics/coffee-stainers/uzu.md)
 
+## September 27th, 2022 Livestream
+* [Q&A: What happens with staff when 1.0 comes out?](../transcriptions/yt-3qwBTHuBu4M.md) [https://www.youtube.com/watch?v=3qwBTHuBu4M](https://www.youtube.com/watch?v=3qwBTHuBu4M)
+
 ## September 13th, 2022 Livestream
 * [Q&A: How many devs are currently working on the game?](../transcriptions/yt--ZSeVyn-vME.md) [https://www.youtube.com/watch?v=-ZSeVyn-vME](https://www.youtube.com/watch?v=-ZSeVyn-vME)
 

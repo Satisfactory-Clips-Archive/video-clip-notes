@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Seasonal Events](../../../topics/satisfactory-updates/seasonal-events.md) > FICS⁕MAS
 
+## September 27th, 2022 Livestream
+* [Q&A: FICSMAS coming back again this year?](../../../transcriptions/yt-dNokGhJWL30.md) [https://www.youtube.com/watch?v=dNokGhJWL30](https://www.youtube.com/watch?v=dNokGhJWL30)
+
 ## June 14th, 2022 Livestream
 * [Etienne, & Snutt Talk: Weapon changes snuck in early](../../../transcriptions/yt-Z6bo0pjYghk,6054.512350962104,6108.120519.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=6054&end=6109](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=6054&end=6109)
 

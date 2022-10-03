@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Technology](../../../topics/technology.md) > [Unreal Engine](../../../topics/technology/unreal-engine.md) > Unreal Engine 5
 
+## September 27th, 2022 Livestream
+* [Q&A: Are you going to use Unreal Engine 5 for better performance?](../../../transcriptions/yt-LnZWyYccFEQ.md) [https://www.youtube.com/watch?v=LnZWyYccFEQ](https://www.youtube.com/watch?v=LnZWyYccFEQ)
+
 ## August 30th, 2022 Livestream
 * [Q&A: Unreal 5 switch, when?](../../../transcriptions/yt-GudEIWIRltY.md) [https://www.youtube.com/watch?v=GudEIWIRltY](https://www.youtube.com/watch?v=GudEIWIRltY)
 

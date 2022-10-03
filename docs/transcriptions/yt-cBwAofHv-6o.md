@@ -8,7 +8,7 @@ topics:
 # [April 20th, 2021 Livestream](../2021-04-20.md)
 ## Q&A: The Ratio Splitter?
 https://www.youtube.com/watch?v=cBwAofHv-6o
-This question was possibly duplicated with a more recent answer: [August 23rd, 2022 Livestream Q&A: Do you have any plans for Ratio Splitters?](./yt-YxQAE1gsMhs.md) [https://www.youtube.com/watch?v=YxQAE1gsMhs](https://www.youtube.com/watch?v=YxQAE1gsMhs)
+This question was possibly duplicated with a more recent answer: [September 27th, 2022 Livestream Q&A: Ratio Splitters?](./yt-yXggbCFOGwk.md) [https://www.youtube.com/watch?v=yXggbCFOGwk](https://www.youtube.com/watch?v=yXggbCFOGwk)
 
 
 ### Topics

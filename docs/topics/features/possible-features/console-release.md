@@ -3,7 +3,7 @@ title: "Console Release"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEoiskJRYH3hrAA192_4QTQ_
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > Possible Features > Console Release
+# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Possible Features](../../../topics/features/possible-features.md) > Console Release
 
 ## August 23rd, 2022 Livestream
 * [Q&A: Any Updates on Console?](../../../transcriptions/yt-N_P83ITCFFM.md) [https://www.youtube.com/watch?v=N_P83ITCFFM](https://www.youtube.com/watch?v=N_P83ITCFFM)

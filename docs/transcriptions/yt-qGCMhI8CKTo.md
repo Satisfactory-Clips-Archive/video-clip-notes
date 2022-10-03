@@ -8,7 +8,7 @@ topics:
 # [January 18th, 2022 Livestream](../2022-01-18.md)
 ## Q&A: Would you consider adding a little bit of Terraforming to the game?
 https://www.youtube.com/watch?v=qGCMhI8CKTo
-This question was possibly duplicated with a more recent answer: [September 13th, 2022 Livestream Q&A: Any plans for terrain manipulation?](./yt-kEDg5KTxvQ4.md) [https://www.youtube.com/watch?v=kEDg5KTxvQ4](https://www.youtube.com/watch?v=kEDg5KTxvQ4)
+This question was possibly duplicated with a more recent answer: [September 27th, 2022 Livestream Q&A: Terraforming some way like in Deep Rock Galactic?](./yt-AFfGSKuLWy8.md) [https://www.youtube.com/watch?v=AFfGSKuLWy8](https://www.youtube.com/watch?v=AFfGSKuLWy8)
 
 
 ### Topics

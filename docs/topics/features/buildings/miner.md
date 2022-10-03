@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > Miner
 
+## September 27th, 2022 Livestream
+* [Q&A: Any news about the Mk.5 belt vs. the Mk.3 Miner?](../../../transcriptions/yt-8b7a3qdokiw.md) [https://www.youtube.com/watch?v=8b7a3qdokiw](https://www.youtube.com/watch?v=8b7a3qdokiw)
+
 ## May 24th, 2022 Livestream
 * [Q&A: If I mine on nodes and they get moved will the Miner still work?](../../../transcriptions/yt-PAwD9jhW37w.md) [https://www.youtube.com/watch?v=PAwD9jhW37w](https://www.youtube.com/watch?v=PAwD9jhW37w)
 

@@ -3,7 +3,7 @@ title: "Achievements"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiErZMU9GqSYTxgx4QvM_i2hK
 date: Last Modified
 ---
-# [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > Possible Features > [Third-Party Service Integration](../../../../topics/features/possible-features/third-party-service-integration.md) > Achievements
+# [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > [Possible Features](../../../../topics/features/possible-features.md) > [Third-Party Service Integration](../../../../topics/features/possible-features/third-party-service-integration.md) > Achievements
 
 ## July 5th, 2022 Livestream
 * [Q&A: Will there be Achievements for 1.0?](../../../../transcriptions/yt-DRVyx1w9oNc.md) [https://www.youtube.com/watch?v=DRVyx1w9oNc](https://www.youtube.com/watch?v=DRVyx1w9oNc)

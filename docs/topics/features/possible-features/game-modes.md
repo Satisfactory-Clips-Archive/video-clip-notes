@@ -3,7 +3,7 @@ title: "Game Modes"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEralVcWNAwdbnP_tRGbAhFx
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > Possible Features > Game Modes
+# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Possible Features](../../../topics/features/possible-features.md) > Game Modes
 * [Battle Royale](../../../topics/features/possible-features/game-modes/battle-royale.md)
 * [Creative Mode](../../../topics/features/possible-features/game-modes/creative-mode.md)
 * [Peaceful Mode](../../../topics/features/possible-features/game-modes/peaceful-mode.md)

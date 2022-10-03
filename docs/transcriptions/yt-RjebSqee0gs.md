@@ -4,6 +4,8 @@ date: "2022-03-22"
 layout: transcript
 topics:
     - "community"
+    - "community/its-bitz"
+    - "community/josh"
     - "retail/early-access"
 ---
 # [March 22nd, 2022 Livestream](../2022-03-22.md)
@@ -12,6 +14,8 @@ https://www.youtube.com/watch?v=RjebSqee0gs
 
 ### Topics
 * [Community](../topics/community.md)
+* [Community > Its_BitZ](../topics/community/its-bitz.md)
+* [Community > Josh](../topics/community/josh.md)
 * [Retail > Early Access](../topics/retail/early-access.md)
 
 ### Transcript

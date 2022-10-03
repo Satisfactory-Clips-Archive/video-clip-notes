@@ -8,7 +8,7 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Can you please add a Smart or Programmable Merger?
 https://www.youtube.com/watch?v=9rXxGWPB21E
-This question was possibly duplicated with a more recent answer: [July 5th, 2022 Livestream Q&A: Any plans for Smart Mergers?](./yt-gSfMJLj1QEs.md) [https://www.youtube.com/watch?v=gSfMJLj1QEs](https://www.youtube.com/watch?v=gSfMJLj1QEs)
+This question was possibly duplicated with a more recent answer: [September 27th, 2022 Livestream Q&A: What's the status of Smart Mergers?](./yt-anXxZuqG-tk.md) [https://www.youtube.com/watch?v=anXxZuqG-tk](https://www.youtube.com/watch?v=anXxZuqG-tk)
 
 
 ### Topics

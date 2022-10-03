@@ -9,6 +9,12 @@ date: Last Modified
 * [Ping](../../topics/technology/user-interface/ping.md)
 * [Stamps](../../topics/technology/user-interface/stamps.md)
 
+## September 27th, 2022 Livestream
+* [Q&A: Sound slider to make Spheres shut up?](../../transcriptions/yt-iJIYyp74vb0.md) [https://www.youtube.com/watch?v=iJIYyp74vb0](https://www.youtube.com/watch?v=iJIYyp74vb0)
+* [Q&A: Volume slider for Trains?](../../transcriptions/yt-MsThuLeWGMA.md) [https://www.youtube.com/watch?v=MsThuLeWGMA](https://www.youtube.com/watch?v=MsThuLeWGMA)
+* [Q&A: Can you edit the To-Do List without having things in your Build list?](../../transcriptions/yt-Qysll4EczIo.md) [https://www.youtube.com/watch?v=Qysll4EczIo](https://www.youtube.com/watch?v=Qysll4EczIo)
+* [Q&A: Why not pause when I open the menu?](../../transcriptions/yt-jO3-Sb2c3XU.md) [https://www.youtube.com/watch?v=jO3-Sb2c3XU](https://www.youtube.com/watch?v=jO3-Sb2c3XU)
+
 ## September 20th, 2022 Update 6 Release Stream
 * Map Changes & Beacon removal [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=4887&end=5159](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=4887&end=5159)
 * HUD warnings for Creature aggression [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=5615&end=5654](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=5615&end=5654)

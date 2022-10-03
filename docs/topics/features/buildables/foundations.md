@@ -7,6 +7,12 @@ date: Last Modified
 * [Cheatcrete](../../../topics/features/buildables/foundations/cheatcrete.md)
 * [Foundation Stencils](../../../topics/features/buildables/foundations/stencils.md)
 
+## September 30th, 2022 Video
+* [New Build Pieces](../../../transcriptions/yt-5Pz_dZbEx-4,56.823433333333334,107.64086666666667.md) [https://youtube.com/embed/5Pz_dZbEx-4?autoplay=1&start=56&end=108](https://youtube.com/embed/5Pz_dZbEx-4?autoplay=1&start=56&end=108)
+
+## September 27th, 2022 Livestream
+* [State of Dev](../../../transcriptions/yt-MmzRTLolTgo.md) [https://www.youtube.com/watch?v=MmzRTLolTgo](https://www.youtube.com/watch?v=MmzRTLolTgo)
+
 ## September 20th, 2022 Update 6 Release Stream
 * More build pieces + Uzu interruption [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=3468&end=3630](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=3468&end=3630)
 * New Buildables [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=6329&end=6465](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=6329&end=6465)

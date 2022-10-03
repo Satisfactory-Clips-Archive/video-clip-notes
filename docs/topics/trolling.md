@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Trolling
 
+## September 27th, 2022 Livestream
+* [Q&A: Satisfactory Anime?](../transcriptions/yt-Z8TYjdqSd7o.md) [https://www.youtube.com/watch?v=Z8TYjdqSd7o](https://www.youtube.com/watch?v=Z8TYjdqSd7o)
+* [Q&A: How tall is Snutt?](../transcriptions/yt-w8Lh9QUNJyY.md) [https://www.youtube.com/watch?v=w8Lh9QUNJyY](https://www.youtube.com/watch?v=w8Lh9QUNJyY)
+
 ## September 13th, 2022 Livestream
 * [Q&A: Space-Giraffe burgers?](../transcriptions/yt-AbXttpJj74M.md) [https://www.youtube.com/watch?v=AbXttpJj74M](https://www.youtube.com/watch?v=AbXttpJj74M)
 

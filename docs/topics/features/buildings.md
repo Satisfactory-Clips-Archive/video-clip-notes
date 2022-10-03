@@ -27,6 +27,10 @@ date: Last Modified
 * [The HUB](../../topics/features/buildings/the-hub.md)
 * [Water Extractor](../../topics/features/buildings/water-extractor.md)
 
+## September 27th, 2022 Livestream
+* [Q&A: Plans to add new construction Buildings?](../../transcriptions/yt-1hplbZ2Xa-4.md) [https://www.youtube.com/watch?v=1hplbZ2Xa-4](https://www.youtube.com/watch?v=1hplbZ2Xa-4)
+* [Snutt Talk: Satisfactory- it makes no sense](../../transcriptions/yt-OWrxHS2wbWU.md) [https://www.youtube.com/watch?v=OWrxHS2wbWU](https://www.youtube.com/watch?v=OWrxHS2wbWU)
+
 ## September 13th, 2022 Livestream
 * [Q&A: I'd like to see a rebalance so we're encouraged to automate each Tier instead of handcrafting?](../../transcriptions/yt--mp-XYvQYWg.md) [https://www.youtube.com/watch?v=-mp-XYvQYWg](https://www.youtube.com/watch?v=-mp-XYvQYWg)
 

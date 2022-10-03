@@ -8,7 +8,7 @@ topics:
 # [June 22nd, 2021 Livestream](../2021-06-22.md)
 ## Q&A: Why can't we have custom ratio Splitters?
 https://www.youtube.com/watch?v=ripT8MydIjo
-This question was possibly duplicated with a more recent answer: [August 23rd, 2022 Livestream Q&A: Do you have any plans for Ratio Splitters?](./yt-YxQAE1gsMhs.md) [https://www.youtube.com/watch?v=YxQAE1gsMhs](https://www.youtube.com/watch?v=YxQAE1gsMhs)
+This question was possibly duplicated with a more recent answer: [September 27th, 2022 Livestream Q&A: Ratio Splitters?](./yt-yXggbCFOGwk.md) [https://www.youtube.com/watch?v=yXggbCFOGwk](https://www.youtube.com/watch?v=yXggbCFOGwk)
 
 
 ### Topics

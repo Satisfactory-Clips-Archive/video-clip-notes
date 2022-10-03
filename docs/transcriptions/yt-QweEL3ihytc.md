@@ -5,6 +5,7 @@ layout: transcript
 topics:
     - "coffee-stainers/hot-potato-save-file"
     - "community"
+    - "community/its-bitz"
 ---
 # [September 13th, 2022 Livestream](../2022-09-13.md)
 ## Q&A: What happened with the Hot Potato save?
@@ -19,6 +20,7 @@ https://www.youtube.com/watch?v=QweEL3ihytc
 ### Topics
 * [Coffee Stainers > Hot Potato Save File](../topics/coffee-stainers/hot-potato-save-file.md)
 * [Community](../topics/community.md)
+* [Community > Its_BitZ](../topics/community/its-bitz.md)
 
 ### Transcript
 

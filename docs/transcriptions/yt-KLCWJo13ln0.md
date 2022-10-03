@@ -8,7 +8,7 @@ topics:
 # [April 20th, 2021 Livestream](../2021-04-20.md)
 ## Q&A: Priority Merger?
 https://www.youtube.com/watch?v=KLCWJo13ln0
-This question was possibly duplicated with a more recent answer: [July 5th, 2022 Livestream Q&A: Any plans for Smart Mergers?](./yt-gSfMJLj1QEs.md) [https://www.youtube.com/watch?v=gSfMJLj1QEs](https://www.youtube.com/watch?v=gSfMJLj1QEs)
+This question was possibly duplicated with a more recent answer: [September 27th, 2022 Livestream Q&A: What's the status of Smart Mergers?](./yt-anXxZuqG-tk.md) [https://www.youtube.com/watch?v=anXxZuqG-tk](https://www.youtube.com/watch?v=anXxZuqG-tk)
 
 
 ### Topics

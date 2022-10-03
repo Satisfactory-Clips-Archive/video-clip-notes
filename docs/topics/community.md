@@ -9,6 +9,7 @@ date: Last Modified
 * [Community Highlights](../topics/community/community-highlights.md)
 * [DrawingXaos](../topics/community/drawingxaos.md)
 * [Haigen](../topics/community/haigen.md)
+* [Its_BitZ](../topics/community/its-bitz.md)
 * [J1mbers](../topics/community/j1mbers.md)
 * [Josh](../topics/community/josh.md)
 * [Joshie](../topics/community/joshie.md)
@@ -24,6 +25,10 @@ date: Last Modified
 * [Tom](../topics/community/tom.md)
 * [Vilsol](../topics/community/vilsol.md)
 * [Wiki](../topics/community/wiki.md)
+
+## September 27th, 2022 Livestream
+* [Q&A: How tall is Snutt?](../transcriptions/yt-w8Lh9QUNJyY.md) [https://www.youtube.com/watch?v=w8Lh9QUNJyY](https://www.youtube.com/watch?v=w8Lh9QUNJyY)
+* [Snutt & Jace Talk: 200k subscribers on /r/SatisfactoryGame](../transcriptions/yt-P7BmI_10jLs.md) [https://www.youtube.com/watch?v=P7BmI_10jLs](https://www.youtube.com/watch?v=P7BmI_10jLs)
 
 ## September 13th, 2022 Livestream
 * [Q&A: Why can't I subscribe to you with my Prime sub to support you?](../transcriptions/yt-jyJtvoO3Xrk.md) [https://www.youtube.com/watch?v=jyJtvoO3Xrk](https://www.youtube.com/watch?v=jyJtvoO3Xrk)

@@ -7,6 +7,10 @@ date: Last Modified
 * [Characters](../topics/story-and-lore/characters.md)
 * [Project Assembly](../topics/story-and-lore/project-assembly.md)
 
+## September 27th, 2022 Livestream
+* [Q&A: Will the items related to Story be kept when Story is released?](../transcriptions/yt-c2kQ1sGSUlc.md) [https://www.youtube.com/watch?v=c2kQ1sGSUlc](https://www.youtube.com/watch?v=c2kQ1sGSUlc)
+* [Q&A: Any news on Story?](../transcriptions/yt-9fgOMllBQl0.md) [https://www.youtube.com/watch?v=9fgOMllBQl0](https://www.youtube.com/watch?v=9fgOMllBQl0)
+
 ## August 30th, 2022 Livestream
 * [Q&A: Will 1.0 Story spend any time in Experimental before release?](../transcriptions/yt-244mMPCWwJA.md) [https://www.youtube.com/watch?v=244mMPCWwJA](https://www.youtube.com/watch?v=244mMPCWwJA)
 * [Q&A: Will the game end if we complete the Story, or can we play afterwards?](../transcriptions/yt-4vUbSs2u244.md) [https://www.youtube.com/watch?v=4vUbSs2u244](https://www.youtube.com/watch?v=4vUbSs2u244)

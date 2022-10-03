@@ -19,6 +19,7 @@ date: Last Modified
 
 ## March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary
 * [Snutt & Jace Talk: Supah Computah](../../transcriptions/yt-e19bsvCgXa4.md) [https://www.youtube.com/watch?v=e19bsvCgXa4](https://www.youtube.com/watch?v=e19bsvCgXa4)
+* [Snutt & Jace Talk: Lights reveal](../../transcriptions/yt-NvQQ8tnbqbA.md) [https://www.youtube.com/watch?v=NvQQ8tnbqbA](https://www.youtube.com/watch?v=NvQQ8tnbqbA)
 * [Snutt & Jace Talk: Outro shoutouts](../../transcriptions/yt-TxyJKaXchnc.md) [https://www.youtube.com/watch?v=TxyJKaXchnc](https://www.youtube.com/watch?v=TxyJKaXchnc)
 
 ## March 16th, 2021 Livestream

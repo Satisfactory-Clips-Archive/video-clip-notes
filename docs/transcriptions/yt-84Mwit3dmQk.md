@@ -12,7 +12,7 @@ topics:
 # [May 4th, 2021 Livestream](../2021-05-04.md)
 ## Q&A: Can we use beds to sleep overnight?
 https://www.youtube.com/watch?v=84Mwit3dmQk
-This question was possibly duplicated with a more recent answer: [August 23rd, 2022 Livestream Q&A: Will we be able to sleep in the HUB's bed?](./yt-U6UAVFjQvVo.md) [https://www.youtube.com/watch?v=U6UAVFjQvVo](https://www.youtube.com/watch?v=U6UAVFjQvVo)
+This question was possibly duplicated with a more recent answer: [September 27th, 2022 Livestream Q&A: Can sleeping be added?](./yt-f57Lrnspk10.md) [https://www.youtube.com/watch?v=f57Lrnspk10](https://www.youtube.com/watch?v=f57Lrnspk10)
 
 
 ### Topics

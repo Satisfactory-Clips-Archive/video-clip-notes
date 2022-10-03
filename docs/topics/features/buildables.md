@@ -22,6 +22,10 @@ date: Last Modified
 * [Walls](../../topics/features/buildables/walls.md)
 * [Windows](../../topics/features/buildables/windows.md)
 
+## September 27th, 2022 Livestream
+* [State of Dev](../../transcriptions/yt-MmzRTLolTgo.md) [https://www.youtube.com/watch?v=MmzRTLolTgo](https://www.youtube.com/watch?v=MmzRTLolTgo)
+* [Snutt Talk: Satisfactory- it makes no sense](../../transcriptions/yt-OWrxHS2wbWU.md) [https://www.youtube.com/watch?v=OWrxHS2wbWU](https://www.youtube.com/watch?v=OWrxHS2wbWU)
+
 ## September 20th, 2022 Update 6 Release Stream
 * More build pieces + Uzu interruption [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=3468&end=3630](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=3468&end=3630)
 * New Buildables [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=6329&end=6465](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=6329&end=6465)

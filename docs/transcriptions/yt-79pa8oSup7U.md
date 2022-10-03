@@ -6,6 +6,7 @@ topics:
     - "coffee-stainers/jace"
     - "coffee-stainers/snutt"
     - "community"
+    - "community/its-bitz"
 ---
 # [August 30th, 2022 Livestream](../2022-08-30.md)
 ## Snutt & Jace Talk: TwitchCon Amsterdam 2022
@@ -15,6 +16,7 @@ https://www.youtube.com/watch?v=79pa8oSup7U
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
 * [Coffee Stainers > Snutt](../topics/coffee-stainers/snutt.md)
 * [Community](../topics/community.md)
+* [Community > Its_BitZ](../topics/community/its-bitz.md)
 
 ### Transcript
 

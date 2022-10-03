@@ -5,6 +5,15 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Pending](../../../topics/satisfactory-updates/pending.md) > Satisfactory 1.0
 
+## September 30th, 2022 Video
+* [Shifting focus to reach 1.0](../../../transcriptions/yt-5Pz_dZbEx-4,414.64756666666665,442.442.md) [https://youtube.com/embed/5Pz_dZbEx-4?autoplay=1&start=414&end=443](https://youtube.com/embed/5Pz_dZbEx-4?autoplay=1&start=414&end=443)
+
+## September 27th, 2022 Livestream
+* [Q&A: What will you do after Satisfactory's done?](../../../transcriptions/yt-sBNBwZaHK_I.md) [https://www.youtube.com/watch?v=sBNBwZaHK_I](https://www.youtube.com/watch?v=sBNBwZaHK_I)
+* [Q&A: What happens with staff when 1.0 comes out?](../../../transcriptions/yt-3qwBTHuBu4M.md) [https://www.youtube.com/watch?v=3qwBTHuBu4M](https://www.youtube.com/watch?v=3qwBTHuBu4M)
+* [Q&A: Will the items related to Story be kept when Story is released?](../../../transcriptions/yt-c2kQ1sGSUlc.md) [https://www.youtube.com/watch?v=c2kQ1sGSUlc](https://www.youtube.com/watch?v=c2kQ1sGSUlc)
+* [Q&A: When is 1.0 going to be ready?](../../../transcriptions/yt-tCFcLdnSFrA.md) [https://www.youtube.com/watch?v=tCFcLdnSFrA](https://www.youtube.com/watch?v=tCFcLdnSFrA)
+
 ## September 13th, 2022 Livestream
 * [Q&A: Do you have a complete roadmap of features until 1.0?](../../../transcriptions/yt-nkJSR99P90E.md) [https://www.youtube.com/watch?v=nkJSR99P90E](https://www.youtube.com/watch?v=nkJSR99P90E)
 

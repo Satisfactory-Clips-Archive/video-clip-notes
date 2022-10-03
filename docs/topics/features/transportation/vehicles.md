@@ -12,6 +12,9 @@ date: Last Modified
 * [Tractor](../../../topics/features/transportation/vehicles/tractor.md)
 * [Truck](../../../topics/features/transportation/vehicles/truck.md)
 
+## September 27th, 2022 Livestream
+* [Q&A: Any water-based transportation?](../../../transcriptions/yt--JCOYgL3nlI.md) [https://www.youtube.com/watch?v=-JCOYgL3nlI](https://www.youtube.com/watch?v=-JCOYgL3nlI)
+
 ## August 30th, 2022 Livestream
 * [Q&A: Boats, when?](../../../transcriptions/yt-9tpRlh5jzL0.md) [https://www.youtube.com/watch?v=9tpRlh5jzL0](https://www.youtube.com/watch?v=9tpRlh5jzL0)
 * [Q&A: Can you add helicopter?](../../../transcriptions/yt-c4j7o6ZJeCA.md) [https://www.youtube.com/watch?v=c4j7o6ZJeCA](https://www.youtube.com/watch?v=c4j7o6ZJeCA)

@@ -5,6 +5,15 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildables](../../../topics/features/buildables.md) > Conveyor Belts
 
+## September 27th, 2022 Livestream
+* [Q&A: What's the status of Smart Mergers?](../../../transcriptions/yt-anXxZuqG-tk.md) [https://www.youtube.com/watch?v=anXxZuqG-tk](https://www.youtube.com/watch?v=anXxZuqG-tk)
+* [Q&A: Ratio Splitters?](../../../transcriptions/yt-yXggbCFOGwk.md) [https://www.youtube.com/watch?v=yXggbCFOGwk](https://www.youtube.com/watch?v=yXggbCFOGwk)
+* [Community FYI: Belts not needing electricity is the biggest problem in this game](../../../transcriptions/yt-9_cpZTfvaD8.md) [https://www.youtube.com/watch?v=9_cpZTfvaD8](https://www.youtube.com/watch?v=9_cpZTfvaD8)
+* [Q&A: Variable speed Conveyors?](../../../transcriptions/yt-3f6YjG4e_Ok.md) [https://www.youtube.com/watch?v=3f6YjG4e_Ok](https://www.youtube.com/watch?v=3f6YjG4e_Ok)
+* [Q&A: Any news about the Mk.5 belt vs. the Mk.3 Miner?](../../../transcriptions/yt-8b7a3qdokiw.md) [https://www.youtube.com/watch?v=8b7a3qdokiw](https://www.youtube.com/watch?v=8b7a3qdokiw)
+* [Q&A: Conveyor Wall Holes ?](../../../transcriptions/yt-Wyl0ho9rxdA.md) [https://www.youtube.com/watch?v=Wyl0ho9rxdA](https://www.youtube.com/watch?v=Wyl0ho9rxdA)
+* [Q&A: How many Conveyor Belts does it take to crash a graphics card?](../../../transcriptions/yt-TNiyjAw6-uI.md) [https://www.youtube.com/watch?v=TNiyjAw6-uI](https://www.youtube.com/watch?v=TNiyjAw6-uI)
+
 ## September 13th, 2022 Livestream
 * [Q&A: Powered Splitter that can turn off Conveyor Belts?](../../../transcriptions/yt-AbPf5coA45I.md) [https://www.youtube.com/watch?v=AbPf5coA45I](https://www.youtube.com/watch?v=AbPf5coA45I)
 

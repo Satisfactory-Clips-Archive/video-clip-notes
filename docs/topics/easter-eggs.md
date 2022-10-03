@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Easter Eggs
 
+## September 27th, 2022 Livestream
+* [Q&A: More Boombox cassettes?](../transcriptions/yt-HQXxP5QeGJQ.md) [https://www.youtube.com/watch?v=HQXxP5QeGJQ](https://www.youtube.com/watch?v=HQXxP5QeGJQ)
+* Q&A: How many cassettes in the World? [https://www.youtube.com/watch?v=oCF2kgB15BY](https://www.youtube.com/watch?v=oCF2kgB15BY)
+
 ## September 13th, 2022 Livestream
 * [Q&A: What is this Deep Rock Galactic tape I've been hearing about?](../transcriptions/yt-d0FO6CwgWvw.md) [https://www.youtube.com/watch?v=d0FO6CwgWvw](https://www.youtube.com/watch?v=d0FO6CwgWvw)
 

@@ -32,6 +32,13 @@ date: Last Modified
 * [Utility Signs](../topics/mods/utility-signs.md)
 * [Zip Strips](../topics/mods/zip-strips.md)
 
+## September 30th, 2022 Video
+* [Mod Crashes](../transcriptions/yt-5Pz_dZbEx-4,134.3342,218.475776.md) [https://youtube.com/embed/5Pz_dZbEx-4?autoplay=1&start=134&end=219](https://youtube.com/embed/5Pz_dZbEx-4?autoplay=1&start=134&end=219)
+
+## September 27th, 2022 Livestream
+* [State of Dev](../transcriptions/yt-MmzRTLolTgo.md) [https://www.youtube.com/watch?v=MmzRTLolTgo](https://www.youtube.com/watch?v=MmzRTLolTgo)
+* [Q&A: Are you planning on making a Mod spotlight at some point?](../transcriptions/yt-1aeSLyB-Ebc.md) [https://www.youtube.com/watch?v=1aeSLyB-Ebc](https://www.youtube.com/watch?v=1aeSLyB-Ebc)
+
 ## June 28th, 2022 Livestream
 * Q&A: SML timeframe for Update 6? [https://www.youtube.com/watch?v=HVO3YkSYjA4](https://www.youtube.com/watch?v=HVO3YkSYjA4)
 * [Community FYI: Modding is even more experimental](../transcriptions/yt-Rwd-qaqylzw.md) [https://www.youtube.com/watch?v=Rwd-qaqylzw](https://www.youtube.com/watch?v=Rwd-qaqylzw)

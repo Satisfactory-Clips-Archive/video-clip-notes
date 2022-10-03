@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Teasers & Trailers](../../../topics/satisfactory-updates/teasers-and-trailers.md) > Update 6 Teasers
 
+## September 30th, 2022 Video
+* [Trailer & lack of Patch Notes video](../../../transcriptions/yt-5Pz_dZbEx-4,17.884533333333334,56.79006666666667.md) [https://youtube.com/embed/5Pz_dZbEx-4?autoplay=1&start=17&end=57](https://youtube.com/embed/5Pz_dZbEx-4?autoplay=1&start=17&end=57)
+
 ## June 14th, 2022 Livestream
 * [Tobias, Etienne, & Snutt Talk: New Ammo types (Part 2)](../../../transcriptions/yt-Z6bo0pjYghk,6248.647373115271,6289.66688.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=6248&end=6290](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=6248&end=6290)
 * [Hannah, Anna, Torsten, & Snutt Talk: No Patch Notes or release trailer for Experimental Release (Part 1)](../../../transcriptions/yt-Z6bo0pjYghk,11129.395503,11178.812064025835.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=11129&end=11179](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=11129&end=11179)

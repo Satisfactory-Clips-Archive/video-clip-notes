@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Environment](../../topics/environment.md) > Plants
 
+## September 27th, 2022 Livestream
+* [Snutt & Jace Talk: Overworld LODs](../../transcriptions/yt-v9ZDWFExbYw.md) [https://www.youtube.com/watch?v=v9ZDWFExbYw](https://www.youtube.com/watch?v=v9ZDWFExbYw)
+
 ## August 30th, 2022 Livestream
 * [Q&A: Will the trees in western Dune Desert be fixed so the chainsaw chops more than one at a time?](../../transcriptions/yt-Y2lhP94DACU.md) [https://www.youtube.com/watch?v=Y2lhP94DACU](https://www.youtube.com/watch?v=Y2lhP94DACU)
 

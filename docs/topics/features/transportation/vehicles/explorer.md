@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > Transportation > [Vehicles](../../../../topics/features/transportation/vehicles.md) > Explorer
 
+## September 27th, 2022 Livestream
+* [Q&A: Can we get a passenger seat in the Explorer?](../../../../transcriptions/yt-9zcXb6IOVmY.md) [https://www.youtube.com/watch?v=9zcXb6IOVmY](https://www.youtube.com/watch?v=9zcXb6IOVmY)
+* [Q&A: Where's my ball to make in-game Rocket League?](../../../../transcriptions/yt-oQUvjq9YUxw.md) [https://www.youtube.com/watch?v=oQUvjq9YUxw](https://www.youtube.com/watch?v=oQUvjq9YUxw)
+
 ## September 2nd, 2022 Video
 * [Solving the problem with the Explorer having two seats](../../../../transcriptions/yt-Pgm1L8aIf6E,239.87296666666668,266.7998666666667.md) [https://youtube.com/clip/UgkxP3bL_gUS4aQuUjRfVbS0J-ZiApsS02XO](https://youtube.com/clip/UgkxP3bL_gUS4aQuUjRfVbS0J-ZiApsS02XO)
 

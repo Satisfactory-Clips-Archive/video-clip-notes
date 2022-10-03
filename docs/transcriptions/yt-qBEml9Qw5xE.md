@@ -8,11 +8,7 @@ topics:
 # [September 13th, 2022 Livestream](../2022-09-13.md)
 ## Q&A: Any updates to if Overclocking is changing?
 https://www.youtube.com/watch?v=qBEml9Qw5xE
-<details>
-<summary>This question may have been asked previously at least 1 other time, as recently as May 2022.</summary>
-
-* [May 24th, 2022 Livestream Q&A: Any updates to the Overclocking discussion?](./yt-GwXXV3e00eo.md) [https://www.youtube.com/watch?v=GwXXV3e00eo](https://www.youtube.com/watch?v=GwXXV3e00eo)
-</details>
+This question was possibly duplicated with a more recent answer: [September 27th, 2022 Livestream Q&A: Overclock Power changes still pending or aborted?](./yt-2811Pq6T12g.md) [https://www.youtube.com/watch?v=2811Pq6T12g](https://www.youtube.com/watch?v=2811Pq6T12g)
 
 
 ### Topics

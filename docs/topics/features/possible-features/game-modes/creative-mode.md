@@ -3,7 +3,7 @@ title: "Creative Mode"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEpI_eZ6JseCdaLBHV5IokQ1
 date: Last Modified
 ---
-# [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > Possible Features > [Game Modes](../../../../topics/features/possible-features/game-modes.md) > Creative Mode
+# [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > [Possible Features](../../../../topics/features/possible-features.md) > [Game Modes](../../../../topics/features/possible-features/game-modes.md) > Creative Mode
 
 ## February 8th, 2022 Livestream
 * [Q&A: Creative Mode?](../../../../transcriptions/yt-si20TQaDIXs.md) [https://www.youtube.com/watch?v=si20TQaDIXs](https://www.youtube.com/watch?v=si20TQaDIXs)

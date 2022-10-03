@@ -8,6 +8,17 @@ date: Last Modified
 * [Snutt Burger Time](../../topics/coffee-stainers/snutt/snutt-burger-time.md)
 * [Snutty Mays](../../topics/coffee-stainers/snutt/snutty-mays.md)
 
+## September 27th, 2022 Livestream
+* [Q&A: How tall is Snutt?](../../transcriptions/yt-w8Lh9QUNJyY.md) [https://www.youtube.com/watch?v=w8Lh9QUNJyY](https://www.youtube.com/watch?v=w8Lh9QUNJyY)
+* [Q&A: How does Snutt feel about Rings of Power?](../../transcriptions/yt-y5KH2rafZ8k.md) [https://www.youtube.com/watch?v=y5KH2rafZ8k](https://www.youtube.com/watch?v=y5KH2rafZ8k)
+* [Q&A: What's Snutt's favourite single object in the game?](../../transcriptions/yt-9CXBJpOXpnI.md) [https://www.youtube.com/watch?v=9CXBJpOXpnI](https://www.youtube.com/watch?v=9CXBJpOXpnI)
+* [Q&A: Chainsaw modes?](../../transcriptions/yt-mniVXKV2OfI.md) [https://www.youtube.com/watch?v=mniVXKV2OfI](https://www.youtube.com/watch?v=mniVXKV2OfI)
+* [Snutt talk: Spaceballs](../../transcriptions/yt-xKL6EgOifH8.md) [https://www.youtube.com/watch?v=xKL6EgOifH8](https://www.youtube.com/watch?v=xKL6EgOifH8)
+* [Q&A: How do you start with coding games, college vs. free time?](../../transcriptions/yt-9RzXRGhyFGM.md) [https://www.youtube.com/watch?v=9RzXRGhyFGM](https://www.youtube.com/watch?v=9RzXRGhyFGM)
+* [Q&A: Does Snutt write code?](../../transcriptions/yt-huuO0YjGJAI.md) [https://www.youtube.com/watch?v=huuO0YjGJAI](https://www.youtube.com/watch?v=huuO0YjGJAI)
+* [Q&A: Unusual Satis Merch that you'd like to see from Coffee Stain or Heroic Replicas?](../../transcriptions/yt-CHwWm33_rRQ.md) [https://www.youtube.com/watch?v=CHwWm33_rRQ](https://www.youtube.com/watch?v=CHwWm33_rRQ)
+* [Q&A: What about Disc Golf ?](../../transcriptions/yt-c91XPaj8_rM.md) [https://www.youtube.com/watch?v=c91XPaj8_rM](https://www.youtube.com/watch?v=c91XPaj8_rM)
+
 ## September 13th, 2022 Livestream
 * [Q&A: What do you enjoy most with your job?](../../transcriptions/yt-ajE3JZsNZ8Y.md) [https://www.youtube.com/watch?v=ajE3JZsNZ8Y](https://www.youtube.com/watch?v=ajE3JZsNZ8Y)
 * [Q&A: What is your actual opinion on Power Rangers?](../../transcriptions/yt-k0nNJMBxQ6Y.md) [https://www.youtube.com/watch?v=k0nNJMBxQ6Y](https://www.youtube.com/watch?v=k0nNJMBxQ6Y)

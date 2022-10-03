@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Josh
 
+## September 27th, 2022 Livestream
+* [Q&A: How much do you learn from Let's Game It Out videos?](../../transcriptions/yt-kofdZkCiUaA.md) [https://www.youtube.com/watch?v=kofdZkCiUaA](https://www.youtube.com/watch?v=kofdZkCiUaA)
+
 ## September 13th, 2022 Livestream
 * [Q&A: What about ultra-low fps mode for Josh?](../../transcriptions/yt-_r71iH5Z-bU.md) [https://www.youtube.com/watch?v=_r71iH5Z-bU](https://www.youtube.com/watch?v=_r71iH5Z-bU)
 
@@ -13,6 +16,9 @@ date: Last Modified
 
 ## April 15th, 2022 Video
 * [Snutt & Stefan Talk: Sprint 2](../../transcriptions/yt-7I3NGAm3j_4,247.0468,295.96233333333333.md) [https://youtube.com/clip/UgkxBbDwyKi_LtDsndgZbr98gzofrL1g1aVu](https://youtube.com/clip/UgkxBbDwyKi_LtDsndgZbr98gzofrL1g1aVu)
+
+## March 22nd, 2022 Livestream
+* [Snutt & Jace Talk: Satisfactory three year anniversary](../../transcriptions/yt-RjebSqee0gs.md) [https://www.youtube.com/watch?v=RjebSqee0gs](https://www.youtube.com/watch?v=RjebSqee0gs)
 
 ## November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary
 * [Snutt & Jace Talk: Satisfactory Update 5 Patch Notes vid commentary (Part 59)](../../transcriptions/yt-uPDk0K7nm-o.md) [https://www.youtube.com/watch?v=uPDk0K7nm-o](https://www.youtube.com/watch?v=uPDk0K7nm-o)

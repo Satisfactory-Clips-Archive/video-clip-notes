@@ -5,6 +5,24 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Released > Satisfactory Update 6
 
+## September 30th, 2022 Video
+* [Trailer & lack of Patch Notes video](../../../transcriptions/yt-5Pz_dZbEx-4,17.884533333333334,56.79006666666667.md) [https://youtube.com/embed/5Pz_dZbEx-4?autoplay=1&start=17&end=57](https://youtube.com/embed/5Pz_dZbEx-4?autoplay=1&start=17&end=57)
+* [New Build Pieces](../../../transcriptions/yt-5Pz_dZbEx-4,56.823433333333334,107.64086666666667.md) [https://youtube.com/embed/5Pz_dZbEx-4?autoplay=1&start=56&end=108](https://youtube.com/embed/5Pz_dZbEx-4?autoplay=1&start=56&end=108)
+* [Post-release bugfixes](../../../transcriptions/yt-5Pz_dZbEx-4,107.67423333333333,134.30083333333334.md) [https://youtube.com/embed/5Pz_dZbEx-4?autoplay=1&start=107&end=135](https://youtube.com/embed/5Pz_dZbEx-4?autoplay=1&start=107&end=135)
+* [Mod Crashes](../../../transcriptions/yt-5Pz_dZbEx-4,134.3342,218.475776.md) [https://youtube.com/embed/5Pz_dZbEx-4?autoplay=1&start=134&end=219](https://youtube.com/embed/5Pz_dZbEx-4?autoplay=1&start=134&end=219)
+* [Use the QA Site](../../../transcriptions/yt-5Pz_dZbEx-4,218.5183,291.691.md) [https://youtube.com/embed/5Pz_dZbEx-4?autoplay=1&start=218&end=292](https://youtube.com/embed/5Pz_dZbEx-4?autoplay=1&start=218&end=292)
+
+## September 27th, 2022 Livestream
+* [Snutt & Jace Talk: Update 6 Early Access release](../../../transcriptions/yt-JYX_0lC4xas.md) [https://www.youtube.com/watch?v=JYX_0lC4xas](https://www.youtube.com/watch?v=JYX_0lC4xas)
+* [Snutt & Jace Talk: Overworld LODs](../../../transcriptions/yt-v9ZDWFExbYw.md) [https://www.youtube.com/watch?v=v9ZDWFExbYw](https://www.youtube.com/watch?v=v9ZDWFExbYw)
+* [State of Dev](../../../transcriptions/yt-MmzRTLolTgo.md) [https://www.youtube.com/watch?v=MmzRTLolTgo](https://www.youtube.com/watch?v=MmzRTLolTgo)
+* [Q&A: Is it intended to automate every ammunition type?](../../../transcriptions/yt-oanuTwu7Zro.md) [https://www.youtube.com/watch?v=oanuTwu7Zro](https://www.youtube.com/watch?v=oanuTwu7Zro)
+* [Q&A: Unlink Boombox volume and Music volume?](../../../transcriptions/yt-MdpTmDeguwg.md) [https://www.youtube.com/watch?v=MdpTmDeguwg](https://www.youtube.com/watch?v=MdpTmDeguwg)
+* [Q&A: What is the range of Radar Towers since height doesn't affect it any more?](../../../transcriptions/yt-yaYXQCKh4Xk.md) [https://www.youtube.com/watch?v=yaYXQCKh4Xk](https://www.youtube.com/watch?v=yaYXQCKh4Xk)
+* [Q&A: Can you confirm their are only three cassettes on the map?](../../../transcriptions/yt-luA6ChPFSiQ.md) [https://www.youtube.com/watch?v=luA6ChPFSiQ](https://www.youtube.com/watch?v=luA6ChPFSiQ)
+* [Q&A: Any actual physics explanation behind the red lava planet being bigger than the gas giant?](../../../transcriptions/yt-Yi_ZpCvySxg.md) [https://www.youtube.com/watch?v=Yi_ZpCvySxg](https://www.youtube.com/watch?v=Yi_ZpCvySxg)
+* [Q&A: What is considered for a minor update vs. a major one?](../../../transcriptions/yt-6CjylFLFNyg.md) [https://www.youtube.com/watch?v=6CjylFLFNyg](https://www.youtube.com/watch?v=6CjylFLFNyg)
+
 ## September 20th, 2022 Update 6 Release Stream
 * Update 6 Experimental branch [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=3302&end=3469](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=3302&end=3469)
 * More build pieces + Uzu interruption [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=3468&end=3630](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=3468&end=3630)

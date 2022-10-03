@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Unplanned Features](../../../topics/features/unplanned-features.md) > Terraforming
 
+## September 27th, 2022 Livestream
+* [Q&A: Terraforming some way like in Deep Rock Galactic?](../../../transcriptions/yt-AFfGSKuLWy8.md) [https://www.youtube.com/watch?v=AFfGSKuLWy8](https://www.youtube.com/watch?v=AFfGSKuLWy8)
+
 ## September 13th, 2022 Livestream
 * [Q&A: Any plans for terrain manipulation?](../../../transcriptions/yt-kEDg5KTxvQ4.md) [https://www.youtube.com/watch?v=kEDg5KTxvQ4](https://www.youtube.com/watch?v=kEDg5KTxvQ4)
 

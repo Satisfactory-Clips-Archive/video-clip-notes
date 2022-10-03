@@ -17,6 +17,17 @@ date: Last Modified
 * [Terraforming](../../topics/features/unplanned-features/terraforming.md)
 * [VR](../../topics/features/unplanned-features/vr.md)
 
+## September 27th, 2022 Livestream
+* [Q&A: Can we get a passenger seat in the Explorer?](../../transcriptions/yt-9zcXb6IOVmY.md) [https://www.youtube.com/watch?v=9zcXb6IOVmY](https://www.youtube.com/watch?v=9zcXb6IOVmY)
+* [Q&A: Spotify sync for Boombox?](../../transcriptions/yt-qxFl7L5meng.md) [https://www.youtube.com/watch?v=qxFl7L5meng](https://www.youtube.com/watch?v=qxFl7L5meng)
+* [Q&A: Plans for Boombox with personal music?](../../transcriptions/yt-IFkNXP6qHV0.md) [https://www.youtube.com/watch?v=IFkNXP6qHV0](https://www.youtube.com/watch?v=IFkNXP6qHV0)
+* [Q&A: Ratio Splitters?](../../transcriptions/yt-yXggbCFOGwk.md) [https://www.youtube.com/watch?v=yXggbCFOGwk](https://www.youtube.com/watch?v=yXggbCFOGwk)
+* [Community FYI: Belts not needing electricity is the biggest problem in this game](../../transcriptions/yt-9_cpZTfvaD8.md) [https://www.youtube.com/watch?v=9_cpZTfvaD8](https://www.youtube.com/watch?v=9_cpZTfvaD8)
+* [Q&A: Variable speed Conveyors?](../../transcriptions/yt-3f6YjG4e_Ok.md) [https://www.youtube.com/watch?v=3f6YjG4e_Ok](https://www.youtube.com/watch?v=3f6YjG4e_Ok)
+* [Q&A: Can sleeping be added?](../../transcriptions/yt-f57Lrnspk10.md) [https://www.youtube.com/watch?v=f57Lrnspk10](https://www.youtube.com/watch?v=f57Lrnspk10)
+* [Q&A: Why not pause when I open the menu?](../../transcriptions/yt-jO3-Sb2c3XU.md) [https://www.youtube.com/watch?v=jO3-Sb2c3XU](https://www.youtube.com/watch?v=jO3-Sb2c3XU)
+* [Q&A: Any water-based transportation?](../../transcriptions/yt--JCOYgL3nlI.md) [https://www.youtube.com/watch?v=-JCOYgL3nlI](https://www.youtube.com/watch?v=-JCOYgL3nlI)
+
 ## August 30th, 2022 Livestream
 * [Q&A: Boats, when?](../../transcriptions/yt-9tpRlh5jzL0.md) [https://www.youtube.com/watch?v=9tpRlh5jzL0](https://www.youtube.com/watch?v=9tpRlh5jzL0)
 * [Q&A: Some kind of automation with Biomass?](../../transcriptions/yt-3J6VLt0EsEg.md) [https://www.youtube.com/watch?v=3J6VLt0EsEg](https://www.youtube.com/watch?v=3J6VLt0EsEg)

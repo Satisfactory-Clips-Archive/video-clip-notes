@@ -23,6 +23,9 @@ date: Last Modified
 * [Xeno-Zapper](../../topics/features/equipment/xeno-zapper.md)
 * [Zip Lines](../../topics/features/equipment/zip-lines.md)
 
+## September 27th, 2022 Livestream
+* [Q&A: Will there be any new melee weapons?](../../transcriptions/yt-eIxaUHjOLvc.md) [https://www.youtube.com/watch?v=eIxaUHjOLvc](https://www.youtube.com/watch?v=eIxaUHjOLvc)
+
 ## September 20th, 2022 Update 6 Release Stream
 * Multiple Body Slots [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=5703&end=5888](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=5703&end=5888)
 * More Weapon Types [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=5887&end=6080](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=5887&end=6080)

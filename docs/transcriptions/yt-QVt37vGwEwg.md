@@ -8,6 +8,8 @@ topics:
 # [December 7th, 2021 Livestream](../2021-12-07.md)
 ## Q&A: Is that why the game doesn't pause when you press the escape key?
 https://www.youtube.com/watch?v=QVt37vGwEwg
+This question was possibly duplicated with a more recent answer: [September 27th, 2022 Livestream Q&A: Why not pause when I open the menu?](./yt-jO3-Sb2c3XU.md) [https://www.youtube.com/watch?v=jO3-Sb2c3XU](https://www.youtube.com/watch?v=jO3-Sb2c3XU)
+
 
 ### Topics
 

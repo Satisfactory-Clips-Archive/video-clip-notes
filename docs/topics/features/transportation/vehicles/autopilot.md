@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > Transportation > [Vehicles](../../../../topics/features/transportation/vehicles.md) > Autopilot
 
+## September 27th, 2022 Livestream
+* [Q&A: Any plans for fixing AI putting you and your Vehicle into the skybox?](../../../../transcriptions/yt-3fFpU3tvqPs.md) [https://www.youtube.com/watch?v=3fFpU3tvqPs](https://www.youtube.com/watch?v=3fFpU3tvqPs)
+
 ## May 3rd, 2022 Livestream
 * [State of Dev](../../../../transcriptions/yt-HBdLi32e74Q.md) [https://www.youtube.com/watch?v=HBdLi32e74Q](https://www.youtube.com/watch?v=HBdLi32e74Q)
 

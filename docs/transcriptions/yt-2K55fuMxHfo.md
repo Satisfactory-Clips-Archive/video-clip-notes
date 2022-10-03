@@ -10,11 +10,7 @@ topics:
 # [August 23rd, 2022 Livestream](../2022-08-23.md)
 ## Q&A: Exclusive skins for Belts, things via Twitch drops?
 https://www.youtube.com/watch?v=2K55fuMxHfo
-<details>
-<summary>This question may have been asked previously at least 1 other time, as recently as June 2022.</summary>
-
-* June 28th, 2022 Livestream Q&A: Are you going to make Twitch drops? [https://www.youtube.com/watch?v=RXNcO9UfST4](https://www.youtube.com/watch?v=RXNcO9UfST4)
-</details>
+This question was possibly duplicated with a more recent answer: [September 27th, 2022 Livestream Q&A: Ever thought of making Twitch integration in the game?](./yt-6ZAsEbgws_I.md) [https://www.youtube.com/watch?v=6ZAsEbgws_I](https://www.youtube.com/watch?v=6ZAsEbgws_I)
 
 
 ### Topics

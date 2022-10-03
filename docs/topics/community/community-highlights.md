@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Community Highlights
 
+## September 27th, 2022 Livestream
+* [Snutt & Jace Talk: 200k subscribers on /r/SatisfactoryGame](../../transcriptions/yt-P7BmI_10jLs.md) [https://www.youtube.com/watch?v=P7BmI_10jLs](https://www.youtube.com/watch?v=P7BmI_10jLs)
+
 ## September 20th, 2022 Update 6 Release Stream
 * Community Highlights [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=799&end=3247](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=799&end=3247)
 

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > Analytics
 
+## September 27th, 2022 Livestream
+* [Q&A: Do you have metrics on where the least-used Resource node in the game is?](../../transcriptions/yt-As2wr9TizHs.md) [https://www.youtube.com/watch?v=As2wr9TizHs](https://www.youtube.com/watch?v=As2wr9TizHs)
+
 ## September 20th, 2022 Update 6 Release Stream
 * Telemetry Changes [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=7322&end=7397](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=7322&end=7397)
 

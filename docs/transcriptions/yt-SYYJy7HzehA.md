@@ -11,7 +11,7 @@ topics:
 # [June 8th, 2021 Livestream](../2021-06-08.md)
 ## Q&A: What about Story?
 https://www.youtube.com/watch?v=SYYJy7HzehA
-This question was possibly duplicated with a more recent answer: [March 22nd, 2022 Livestream Q&A: When will we see more of the Story?](./yt-hesfPUzwrZs.md) [https://www.youtube.com/watch?v=hesfPUzwrZs](https://www.youtube.com/watch?v=hesfPUzwrZs)
+This question was possibly duplicated with a more recent answer: [September 27th, 2022 Livestream Q&A: Any news on Story?](./yt-9fgOMllBQl0.md) [https://www.youtube.com/watch?v=9fgOMllBQl0](https://www.youtube.com/watch?v=9fgOMllBQl0)
 
 
 ### Topics

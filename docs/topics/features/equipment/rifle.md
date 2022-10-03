@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Equipment](../../../topics/features/equipment.md) > Rifle
 
+## September 27th, 2022 Livestream
+* [Q&A: Is it intended to automate every ammunition type?](../../../transcriptions/yt-oanuTwu7Zro.md) [https://www.youtube.com/watch?v=oanuTwu7Zro](https://www.youtube.com/watch?v=oanuTwu7Zro)
+
 ## June 14th, 2022 Livestream
 * [Mark & Snutt Talk: New Ammo types (Part 1)](../../../transcriptions/yt-Z6bo0pjYghk,5429.263761,5482.26162.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=5429&end=5483](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=5429&end=5483)
 * [Ben, Dylan, Simon, & Snutt Talk: Mark gets teabagged](../../../transcriptions/yt-Z6bo0pjYghk,8774.878131481233,8803.197909.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=8774&end=8804](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=8774&end=8804)

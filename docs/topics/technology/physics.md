@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > Physics
 
+## September 27th, 2022 Livestream
+* [Q&A: Any plans for fixing AI putting you and your Vehicle into the skybox?](../../transcriptions/yt-3fFpU3tvqPs.md) [https://www.youtube.com/watch?v=3fFpU3tvqPs](https://www.youtube.com/watch?v=3fFpU3tvqPs)
+* [Snutt Talk: Satisfactory- it makes no sense](../../transcriptions/yt-OWrxHS2wbWU.md) [https://www.youtube.com/watch?v=OWrxHS2wbWU](https://www.youtube.com/watch?v=OWrxHS2wbWU)
+
 ## August 23rd, 2022 Livestream
 * [Q&A: Can you talk about gravity in Satisfactory?](../../transcriptions/yt-pkx4sHwlbWQ.md) [https://www.youtube.com/watch?v=pkx4sHwlbWQ](https://www.youtube.com/watch?v=pkx4sHwlbWQ)
 * [Q&A: Any plans to improve Vehicle physics?](../../transcriptions/yt-xfFtf_z9IS4.md) [https://www.youtube.com/watch?v=xfFtf_z9IS4](https://www.youtube.com/watch?v=xfFtf_z9IS4)

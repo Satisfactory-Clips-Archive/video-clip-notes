@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Biomes](../../../topics/environment/biomes.md) > Spire Coast
 
+## September 27th, 2022 Livestream
+* [Q&A: Are there any plans to make Spire Coast a starting point?](../../../transcriptions/yt-B2IjSWiG9Tw.md) [https://www.youtube.com/watch?v=B2IjSWiG9Tw](https://www.youtube.com/watch?v=B2IjSWiG9Tw)
+
 ## September 20th, 2022 Update 6 Release Stream
 * World Update: Spire Coast [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=4216&end=4478](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=4216&end=4478)
 

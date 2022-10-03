@@ -9,6 +9,8 @@ topics:
 # [August 30th, 2022 Livestream](../2022-08-30.md)
 ## Q&A: Map changes before 1.0?
 https://www.youtube.com/watch?v=O4LjJtABcTw
+This question was possibly duplicated with a more recent answer: [September 27th, 2022 Livestream Q&A: Any more big changes to the map?](./yt-lTsqEazqVIw.md) [https://www.youtube.com/watch?v=lTsqEazqVIw](https://www.youtube.com/watch?v=lTsqEazqVIw)
+
 
 ### Topics
 * [Satisfactory Updates > Pending > Satisfactory 1.0](../topics/satisfactory-updates/pending/satisfactory-1-0.md)

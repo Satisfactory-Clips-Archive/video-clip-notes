@@ -10,6 +10,10 @@ date: Last Modified
 * [Juice Velvet](../../topics/coffee-stainers/jace/juice-velvet.md)
 * [Robo Jace](../../topics/coffee-stainers/jace/robo-jace.md)
 
+## September 27th, 2022 Livestream
+* [Q&A: Satisfactory Anime?](../../transcriptions/yt-Z8TYjdqSd7o.md) [https://www.youtube.com/watch?v=Z8TYjdqSd7o](https://www.youtube.com/watch?v=Z8TYjdqSd7o)
+* [Q&A: Unusual Satis Merch that you'd like to see from Coffee Stain or Heroic Replicas?](../../transcriptions/yt-CHwWm33_rRQ.md) [https://www.youtube.com/watch?v=CHwWm33_rRQ](https://www.youtube.com/watch?v=CHwWm33_rRQ)
+
 ## September 6th, 2022 Livestream
 * [Community FYI: Jace is muted?](../../transcriptions/yt-VpuwT_gEKN4.md) [https://www.youtube.com/watch?v=VpuwT_gEKN4](https://www.youtube.com/watch?v=VpuwT_gEKN4)
 

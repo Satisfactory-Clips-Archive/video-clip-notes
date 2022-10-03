@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Technology](../../../topics/technology.md) > [Graphics](../../../topics/technology/graphics.md) > DLSS
 
+## September 27th, 2022 Livestream
+* [Q&A: DLSS 3?](../../../transcriptions/yt-e5RgS7iEH8s.md) [https://www.youtube.com/watch?v=e5RgS7iEH8s](https://www.youtube.com/watch?v=e5RgS7iEH8s)
+
 ## September 6th, 2022 Livestream
 * [Q&A: Any plans to add FSR 2.0?](../../../transcriptions/yt-8WFqndHJR_0.md) [https://www.youtube.com/watch?v=8WFqndHJR_0](https://www.youtube.com/watch?v=8WFqndHJR_0)
 

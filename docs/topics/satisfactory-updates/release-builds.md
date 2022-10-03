@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > Release Builds
 
+## September 27th, 2022 Livestream
+* [Snutt & Jace Talk: Update 6 Early Access release](../../transcriptions/yt-JYX_0lC4xas.md) [https://www.youtube.com/watch?v=JYX_0lC4xas](https://www.youtube.com/watch?v=JYX_0lC4xas)
+
 ## September 20th, 2022 Update 6 Release Stream
 * Update 6 Experimental branch [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=3302&end=3469](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=3302&end=3469)
 * Getting Update 6 [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=7178&end=7218](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=7178&end=7218)

@@ -5,6 +5,8 @@ layout: transcript
 topics:
     - "coffee-stainers/linus"
     - "community"
+    - "community/its-bitz"
+    - "community/kibitz"
     - "features/buildables/lights"
     - "satisfactory-updates/teasers-and-trailers/update-3-reveal-trailer"
     - "satisfactory-updates/teasers-and-trailers/update-4-patch-notes-video"
@@ -16,6 +18,8 @@ https://www.youtube.com/watch?v=NvQQ8tnbqbA
 ### Topics
 * [Coffee Stainers > Linus](../topics/coffee-stainers/linus.md)
 * [Community](../topics/community.md)
+* [Community > Its_BitZ](../topics/community/its-bitz.md)
+* [Community > Kibitz](../topics/community/kibitz.md)
 * [Features > Buildables > Lights](../topics/features/buildables/lights.md)
 * [Satisfactory Updates > Teasers & Trailers > Update 3 Reveal Trailer](../topics/satisfactory-updates/teasers-and-trailers/update-3-reveal-trailer.md)
 * [Satisfactory Updates > Teasers & Trailers > Update 4 Patch Notes Video](../topics/satisfactory-updates/teasers-and-trailers/update-4-patch-notes-video.md)

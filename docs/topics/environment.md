@@ -12,6 +12,11 @@ date: Last Modified
 * [Weather Systems](../topics/environment/weather-systems.md)
 * [World Map](../topics/environment/world-map.md)
 
+## September 27th, 2022 Livestream
+* [Snutt & Jace Talk: Overworld LODs](../transcriptions/yt-v9ZDWFExbYw.md) [https://www.youtube.com/watch?v=v9ZDWFExbYw](https://www.youtube.com/watch?v=v9ZDWFExbYw)
+* [Q&A: Any actual physics explanation behind the red lava planet being bigger than the gas giant?](../transcriptions/yt-Yi_ZpCvySxg.md) [https://www.youtube.com/watch?v=Yi_ZpCvySxg](https://www.youtube.com/watch?v=Yi_ZpCvySxg)
+* [Snutt Talk: Satisfactory- it makes no sense](../transcriptions/yt-OWrxHS2wbWU.md) [https://www.youtube.com/watch?v=OWrxHS2wbWU](https://www.youtube.com/watch?v=OWrxHS2wbWU)
+
 ## September 20th, 2022 Update 6 Release Stream
 * World Update: Skybox, celestial bodies [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=4623&end=4744](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=4623&end=4744)
 * Map Changes & Beacon removal [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=4887&end=5159](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=4887&end=5159)

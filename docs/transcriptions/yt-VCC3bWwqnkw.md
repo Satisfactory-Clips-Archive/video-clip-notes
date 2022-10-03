@@ -9,7 +9,7 @@ topics:
 # [March 8th, 2022 Livestream](../2022-03-08.md)
 ## Q&A: How many releases until 1.0?
 https://www.youtube.com/watch?v=VCC3bWwqnkw
-This question was possibly duplicated with a more recent answer: [August 23rd, 2022 Livestream Q&A: Is the plan still for 2022 release?](./yt-GM0CJlndusA.md) [https://www.youtube.com/watch?v=GM0CJlndusA](https://www.youtube.com/watch?v=GM0CJlndusA)
+This question was possibly duplicated with a more recent answer: [September 27th, 2022 Livestream Q&A: When is 1.0 going to be ready?](./yt-tCFcLdnSFrA.md) [https://www.youtube.com/watch?v=tCFcLdnSFrA](https://www.youtube.com/watch?v=tCFcLdnSFrA)
 
 
 ### Topics

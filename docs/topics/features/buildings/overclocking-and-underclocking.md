@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > Overclocking & Underclocking
 
+## September 27th, 2022 Livestream
+* [Q&A: Overclocking changes for Update 7?](../../../transcriptions/yt-_iPkLPBspDc.md) [https://www.youtube.com/watch?v=_iPkLPBspDc](https://www.youtube.com/watch?v=_iPkLPBspDc)
+* [Q&A: Overclock Power changes still pending or aborted?](../../../transcriptions/yt-2811Pq6T12g.md) [https://www.youtube.com/watch?v=2811Pq6T12g](https://www.youtube.com/watch?v=2811Pq6T12g)
+
 ## September 20th, 2022 Update 6 Release Stream
 * Overclocking & Underclocking changes not occurring yet [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=6775&end=6873](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=6775&end=6873)
 

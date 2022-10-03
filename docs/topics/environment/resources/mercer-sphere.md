@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Resources](../../../topics/environment/resources.md) > Mercer Sphere
 
+## September 27th, 2022 Livestream
+* [Q&A: Sound slider to make Spheres shut up?](../../../transcriptions/yt-iJIYyp74vb0.md) [https://www.youtube.com/watch?v=iJIYyp74vb0](https://www.youtube.com/watch?v=iJIYyp74vb0)
+* [Q&A: Will the items related to Story be kept when Story is released?](../../../transcriptions/yt-c2kQ1sGSUlc.md) [https://www.youtube.com/watch?v=c2kQ1sGSUlc](https://www.youtube.com/watch?v=c2kQ1sGSUlc)
+
 ## July 12th, 2022 Livestream
 * [Q&A: Am I supposed to harvest alien artefacts? The computer doesn't ask me often enough.](../../../transcriptions/yt-w7ux-M7xR4Q.md) [https://www.youtube.com/watch?v=w7ux-M7xR4Q](https://www.youtube.com/watch?v=w7ux-M7xR4Q)
 

@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Crafting](../../../topics/features/crafting.md) > Recipes
 * [Alternate Recipes](../../../topics/features/crafting/recipes/alternate-recipes.md)
 
+## September 27th, 2022 Livestream
+* [Q&A: Are the Recipes pretty much finalised?](../../../transcriptions/yt-CBEiMDtBrng.md) [https://www.youtube.com/watch?v=CBEiMDtBrng](https://www.youtube.com/watch?v=CBEiMDtBrng)
+
 ## September 13th, 2022 Livestream
 * [Q&A: How do you decide what gets an Alt Recipe, and are there any items that won't get one?](../../../transcriptions/yt-H5U1BtcMMIA.md) [https://www.youtube.com/watch?v=H5U1BtcMMIA](https://www.youtube.com/watch?v=H5U1BtcMMIA)
 * [Q&A: I'd like to see a rebalance so we're encouraged to automate each Tier instead of handcrafting?](../../../transcriptions/yt--mp-XYvQYWg.md) [https://www.youtube.com/watch?v=-mp-XYvQYWg](https://www.youtube.com/watch?v=-mp-XYvQYWg)

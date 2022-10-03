@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Equipment](../../../topics/features/equipment.md) > Nobelisk
 * [Nobelisk Detonator](../../../topics/features/equipment/nobelisk/detonator.md)
 
+## September 27th, 2022 Livestream
+* [Q&A: Is it intended to automate every ammunition type?](../../../transcriptions/yt-oanuTwu7Zro.md) [https://www.youtube.com/watch?v=oanuTwu7Zro](https://www.youtube.com/watch?v=oanuTwu7Zro)
+
 ## September 20th, 2022 Update 6 Release Stream
 * More Weapon Types [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=5887&end=6080](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=5887&end=6080)
 

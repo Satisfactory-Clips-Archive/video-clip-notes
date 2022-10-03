@@ -3,7 +3,7 @@ title: "Decor"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEqVTlmqhbpntiX-LNPSHZqz
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > Possible Features > Decor
+# [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Possible Features](../../../topics/features/possible-features.md) > Decor
 
 ## August 30th, 2022 Livestream
 * [Q&A: More decorations?](../../../transcriptions/yt-IjNb58Ajg8g.md) [https://www.youtube.com/watch?v=IjNb58Ajg8g](https://www.youtube.com/watch?v=IjNb58Ajg8g)

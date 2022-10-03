@@ -9,7 +9,7 @@ topics:
 # [April 20th, 2021 Livestream](../2021-04-20.md)
 ## Q&A: How about making Crash Sites deconstructable after looting?
 https://www.youtube.com/watch?v=8NEorsLWk6k
-This question was possibly duplicated with a more recent answer: [April 26th, 2022 Livestream Q&A: Can we destroy completed Crash Sites?](./yt-MB3Pw2p5kmk.md) [https://www.youtube.com/watch?v=MB3Pw2p5kmk](https://www.youtube.com/watch?v=MB3Pw2p5kmk)
+This question was possibly duplicated with a more recent answer: [September 27th, 2022 Livestream Q&A: Do you think we'll ever be able to deconstruct Crash Sites after we open them?](./yt-0WYkl46KZLM.md) [https://www.youtube.com/watch?v=0WYkl46KZLM](https://www.youtube.com/watch?v=0WYkl46KZLM)
 
 
 ### Topics

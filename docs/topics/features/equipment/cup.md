@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Equipment](../../../topics/features/equipment.md) > Cup
 
+## September 27th, 2022 Livestream
+* [Community FYI: The FICSIT mugs are so awesome](../../../transcriptions/yt-SDYEwgpNKkM.md) [https://www.youtube.com/watch?v=SDYEwgpNKkM](https://www.youtube.com/watch?v=SDYEwgpNKkM)
+
 ## March 8th, 2022 Livestream
 * [Q&A: Is the coffee in the Golden Cup better than the coffee in the normal one?](../../../transcriptions/yt-VGvELEKDHGI.md) [https://www.youtube.com/watch?v=VGvELEKDHGI](https://www.youtube.com/watch?v=VGvELEKDHGI)
 
