@@ -4,6 +4,9 @@ date: Last Modified
 layout: index
 ---
 # 2022
+## October
+* [October 4th](2022-10-04.md)
+
 ## September
 * [September 30th](2022-09-30.md)
 * [September 27th](2022-09-27.md)

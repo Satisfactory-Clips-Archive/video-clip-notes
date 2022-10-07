@@ -23,6 +23,9 @@ date: Last Modified
 * [Xeno-Zapper](../../topics/features/equipment/xeno-zapper.md)
 * [Zip Lines](../../topics/features/equipment/zip-lines.md)
 
+## October 4th, 2022 Livestream
+* [Q&A: Rework of inventory?](../../transcriptions/yt-f7esEVn2NP0.md) [https://www.youtube.com/watch?v=f7esEVn2NP0](https://www.youtube.com/watch?v=f7esEVn2NP0)
+
 ## September 27th, 2022 Livestream
 * [Q&A: Will there be any new melee weapons?](../../transcriptions/yt-eIxaUHjOLvc.md) [https://www.youtube.com/watch?v=eIxaUHjOLvc](https://www.youtube.com/watch?v=eIxaUHjOLvc)
 

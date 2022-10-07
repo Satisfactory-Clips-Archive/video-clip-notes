@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Trolling
 
+## October 4th, 2022 Livestream
+* [Q&A: Does the planet have a name?](../transcriptions/yt-vGikWrINkZk.md) [https://www.youtube.com/watch?v=vGikWrINkZk](https://www.youtube.com/watch?v=vGikWrINkZk)
+* [Q&A: How much will Power Rangers play a part in the Story?](../transcriptions/yt-6OxCLHOLpcU.md) [https://www.youtube.com/watch?v=6OxCLHOLpcU](https://www.youtube.com/watch?v=6OxCLHOLpcU)
+* [Q&A: How is the Satisfactory anime coming along?](../transcriptions/yt-XKDaGUtQnxs.md) [https://www.youtube.com/watch?v=XKDaGUtQnxs](https://www.youtube.com/watch?v=XKDaGUtQnxs)
+
 ## September 27th, 2022 Livestream
 * [Q&A: Satisfactory Anime?](../transcriptions/yt-Z8TYjdqSd7o.md) [https://www.youtube.com/watch?v=Z8TYjdqSd7o](https://www.youtube.com/watch?v=Z8TYjdqSd7o)
 * [Q&A: How tall is Snutt?](../transcriptions/yt-w8Lh9QUNJyY.md) [https://www.youtube.com/watch?v=w8Lh9QUNJyY](https://www.youtube.com/watch?v=w8Lh9QUNJyY)

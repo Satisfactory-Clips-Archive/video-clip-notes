@@ -10,7 +10,7 @@ topics:
 # [January 12th, 2021 Livestream](../2021-01-12.md)
 ## Q&A: Mercer Spheres and Somersloops?
 https://www.youtube.com/watch?v=99pdUN5glzw
-This question was possibly duplicated with a more recent answer: [March 1st, 2022 Livestream Q&A: What's with the artefacts around the World?](./yt-A5JsCEPWRu4.md) [https://www.youtube.com/watch?v=A5JsCEPWRu4](https://www.youtube.com/watch?v=A5JsCEPWRu4)
+This question was possibly duplicated with a more recent answer: [October 4th, 2022 Livestream Q&A: When will Artefacts be usable for something?](./yt-sdRDsK_DDG4.md) [https://www.youtube.com/watch?v=sdRDsK_DDG4](https://www.youtube.com/watch?v=sdRDsK_DDG4)
 
 
 ### Topics

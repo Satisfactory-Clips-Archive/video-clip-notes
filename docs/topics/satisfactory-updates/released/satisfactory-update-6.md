@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Released > Satisfactory Update 6
 
+## October 4th, 2022 Livestream
+* [State of Dev](../../../transcriptions/yt-dniAHWqQ4FI.md) [https://www.youtube.com/watch?v=dniAHWqQ4FI](https://www.youtube.com/watch?v=dniAHWqQ4FI)
+* [Q&A: Snapping issues?](../../../transcriptions/yt-afOHa8pv6l8.md) [https://www.youtube.com/watch?v=afOHa8pv6l8](https://www.youtube.com/watch?v=afOHa8pv6l8)
+
 ## September 30th, 2022 Video
 * [Trailer & lack of Patch Notes video](../../../transcriptions/yt-5Pz_dZbEx-4,17.884533333333334,56.79006666666667.md) [https://youtube.com/embed/5Pz_dZbEx-4?autoplay=1&start=17&end=57](https://youtube.com/embed/5Pz_dZbEx-4?autoplay=1&start=17&end=57)
 * [New Build Pieces](../../../transcriptions/yt-5Pz_dZbEx-4,56.823433333333334,107.64086666666667.md) [https://youtube.com/embed/5Pz_dZbEx-4?autoplay=1&start=56&end=108](https://youtube.com/embed/5Pz_dZbEx-4?autoplay=1&start=56&end=108)

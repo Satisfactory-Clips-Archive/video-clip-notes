@@ -8,7 +8,7 @@ topics:
 # [August 10th, 2021 Livestream](../2021-08-10.md)
 ## Q&A: Two exits on Mk.3 Miner?
 https://www.youtube.com/watch?v=96WELYhyRLA
-This question was possibly duplicated with a more recent answer: [May 3rd, 2022 Livestream Q&A: Miner Mk.3?](./yt-TzqY5rtkxes.md) [https://www.youtube.com/watch?v=TzqY5rtkxes](https://www.youtube.com/watch?v=TzqY5rtkxes)
+This question was possibly duplicated with a more recent answer: [October 4th, 2022 Livestream Q&A: Miner Mk.3?](./yt-UgT26tXEdjU.md) [https://www.youtube.com/watch?v=UgT26tXEdjU](https://www.youtube.com/watch?v=UgT26tXEdjU)
 
 
 ### Topics

@@ -10,12 +10,6 @@ topics:
 # [July 12th, 2022 Livestream](../2022-07-12.md)
 ## Q&A: Am I supposed to harvest alien artefacts? The computer doesn't ask me often enough.
 https://www.youtube.com/watch?v=w7ux-M7xR4Q
-<details>
-<summary>This question may have been asked previously at least 1 other time, as recently as March 2022.</summary>
-
-* [March 1st, 2022 Livestream Q&A: What's with the artefacts around the World?](./yt-A5JsCEPWRu4.md) [https://www.youtube.com/watch?v=A5JsCEPWRu4](https://www.youtube.com/watch?v=A5JsCEPWRu4)
-</details>
-
 
 ### Topics
 * [Environment > Resources > Mercer Sphere](../topics/environment/resources/mercer-sphere.md)

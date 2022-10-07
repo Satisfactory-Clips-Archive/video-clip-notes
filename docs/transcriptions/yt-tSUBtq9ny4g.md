@@ -9,7 +9,7 @@ topics:
 # [April 20th, 2021 Livestream](../2021-04-20.md)
 ## Q&A: Doing something with S.A.M. Ore next update?
 https://www.youtube.com/watch?v=tSUBtq9ny4g
-This question was possibly duplicated with a more recent answer: [September 13th, 2022 Livestream Q&A: What Tier will S.A.M. Ore be used in ?](./yt-bWbC_aCpEXc.md) [https://www.youtube.com/watch?v=bWbC_aCpEXc](https://www.youtube.com/watch?v=bWbC_aCpEXc)
+This question was possibly duplicated with a more recent answer: [October 4th, 2022 Livestream Q&A: Is S.A.M. Ore going to be in Update 7?](./yt-8pjXFOtD4KI.md) [https://www.youtube.com/watch?v=8pjXFOtD4KI](https://www.youtube.com/watch?v=8pjXFOtD4KI)
 
 
 ### Topics

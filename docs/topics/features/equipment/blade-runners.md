@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Equipment](../../../topics/features/equipment.md) > Blade Runners
 
+## October 4th, 2022 Livestream
+* [Q&A: Rework of inventory?](../../../transcriptions/yt-f7esEVn2NP0.md) [https://www.youtube.com/watch?v=f7esEVn2NP0](https://www.youtube.com/watch?v=f7esEVn2NP0)
+
 ## June 14th, 2022 Livestream
 * [Mark & Snutt Talk: Update 6 M.A.M.](../../../transcriptions/yt-Z6bo0pjYghk,4978.238237,5274.167479.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=4978&end=5275](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=4978&end=5275)
 * [Mark & Snutt Talk: Multiple Body Slots](../../../transcriptions/yt-Z6bo0pjYghk,5384.647315267558,5429.263761.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=5384&end=5430](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=5384&end=5430)

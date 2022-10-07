@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Equipment](../../../topics/features/equipment.md) > Jetpack
 
+## October 4th, 2022 Livestream
+* [Q&A: Rework of inventory?](../../../transcriptions/yt-f7esEVn2NP0.md) [https://www.youtube.com/watch?v=f7esEVn2NP0](https://www.youtube.com/watch?v=f7esEVn2NP0)
+
 ## July 5th, 2022 Livestream
 * [Q&A: Do you consider the Jetpack/Hover Pack essential to beat the game?](../../../transcriptions/yt-SWdlYvpUhTY.md) [https://www.youtube.com/watch?v=SWdlYvpUhTY](https://www.youtube.com/watch?v=SWdlYvpUhTY)
 * [Q&A: Will Turbofuel be usable for JetPacks?](../../../transcriptions/yt-jQqOPZuB6Qk.md) [https://www.youtube.com/watch?v=jQqOPZuB6Qk](https://www.youtube.com/watch?v=jQqOPZuB6Qk)

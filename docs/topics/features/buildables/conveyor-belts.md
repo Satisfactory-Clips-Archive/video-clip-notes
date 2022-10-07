@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildables](../../../topics/features/buildables.md) > Conveyor Belts
 
+## October 4th, 2022 Livestream
+* [Q&A: Miner Mk.3?](../../../transcriptions/yt-UgT26tXEdjU.md) [https://www.youtube.com/watch?v=UgT26tXEdjU](https://www.youtube.com/watch?v=UgT26tXEdjU)
+
 ## September 27th, 2022 Livestream
 * [Q&A: What's the status of Smart Mergers?](../../../transcriptions/yt-anXxZuqG-tk.md) [https://www.youtube.com/watch?v=anXxZuqG-tk](https://www.youtube.com/watch?v=anXxZuqG-tk)
 * [Q&A: Ratio Splitters?](../../../transcriptions/yt-yXggbCFOGwk.md) [https://www.youtube.com/watch?v=yXggbCFOGwk](https://www.youtube.com/watch?v=yXggbCFOGwk)

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > QA Site
 
+## October 4th, 2022 Livestream
+* [State of Dev](../transcriptions/yt-dniAHWqQ4FI.md) [https://www.youtube.com/watch?v=dniAHWqQ4FI](https://www.youtube.com/watch?v=dniAHWqQ4FI)
+
 ## September 30th, 2022 Video
 * [Use the QA Site](../transcriptions/yt-5Pz_dZbEx-4,218.5183,291.691.md) [https://youtube.com/embed/5Pz_dZbEx-4?autoplay=1&start=218&end=292](https://youtube.com/embed/5Pz_dZbEx-4?autoplay=1&start=218&end=292)
 

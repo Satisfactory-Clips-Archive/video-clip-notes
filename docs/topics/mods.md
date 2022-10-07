@@ -32,6 +32,9 @@ date: Last Modified
 * [Utility Signs](../topics/mods/utility-signs.md)
 * [Zip Strips](../topics/mods/zip-strips.md)
 
+## October 4th, 2022 Livestream
+* [State of Dev](../transcriptions/yt-dniAHWqQ4FI.md) [https://www.youtube.com/watch?v=dniAHWqQ4FI](https://www.youtube.com/watch?v=dniAHWqQ4FI)
+
 ## September 30th, 2022 Video
 * [Mod Crashes](../transcriptions/yt-5Pz_dZbEx-4,134.3342,218.475776.md) [https://youtube.com/embed/5Pz_dZbEx-4?autoplay=1&start=134&end=219](https://youtube.com/embed/5Pz_dZbEx-4?autoplay=1&start=134&end=219)
 

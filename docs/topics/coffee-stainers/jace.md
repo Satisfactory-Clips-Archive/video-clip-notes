@@ -10,6 +10,13 @@ date: Last Modified
 * [Juice Velvet](../../topics/coffee-stainers/jace/juice-velvet.md)
 * [Robo Jace](../../topics/coffee-stainers/jace/robo-jace.md)
 
+## October 4th, 2022 Livestream
+* [Q&A: Jace, are you back full-time?](../../transcriptions/yt-K1oS-A9ctp4.md) [https://www.youtube.com/watch?v=K1oS-A9ctp4](https://www.youtube.com/watch?v=K1oS-A9ctp4)
+* [Q&A: Jace, when are you coming back from break?](../../transcriptions/yt-WiCZlg9QbeQ.md) [https://www.youtube.com/watch?v=WiCZlg9QbeQ](https://www.youtube.com/watch?v=WiCZlg9QbeQ)
+* [Snutt & Jace Talk: Making tapes for the Boombox](../../transcriptions/yt-FLONkwmDNlA.md) [https://www.youtube.com/watch?v=FLONkwmDNlA](https://www.youtube.com/watch?v=FLONkwmDNlA)
+* [Snutt & Jace Talk: Community Manager guest-lecturing](../../transcriptions/yt-NNP0sbdCA5k.md) [https://www.youtube.com/watch?v=NNP0sbdCA5k](https://www.youtube.com/watch?v=NNP0sbdCA5k)
+* [Q&A: How is the Satisfactory anime coming along?](../../transcriptions/yt-XKDaGUtQnxs.md) [https://www.youtube.com/watch?v=XKDaGUtQnxs](https://www.youtube.com/watch?v=XKDaGUtQnxs)
+
 ## September 27th, 2022 Livestream
 * [Q&A: Satisfactory Anime?](../../transcriptions/yt-Z8TYjdqSd7o.md) [https://www.youtube.com/watch?v=Z8TYjdqSd7o](https://www.youtube.com/watch?v=Z8TYjdqSd7o)
 * [Q&A: Unusual Satis Merch that you'd like to see from Coffee Stain or Heroic Replicas?](../../transcriptions/yt-CHwWm33_rRQ.md) [https://www.youtube.com/watch?v=CHwWm33_rRQ](https://www.youtube.com/watch?v=CHwWm33_rRQ)

@@ -12,6 +12,9 @@ date: Last Modified
 * [Weather Systems](../topics/environment/weather-systems.md)
 * [World Map](../topics/environment/world-map.md)
 
+## October 4th, 2022 Livestream
+* [Q&A: Does the planet have a name?](../transcriptions/yt-vGikWrINkZk.md) [https://www.youtube.com/watch?v=vGikWrINkZk](https://www.youtube.com/watch?v=vGikWrINkZk)
+
 ## September 27th, 2022 Livestream
 * [Snutt & Jace Talk: Overworld LODs](../transcriptions/yt-v9ZDWFExbYw.md) [https://www.youtube.com/watch?v=v9ZDWFExbYw](https://www.youtube.com/watch?v=v9ZDWFExbYw)
 * [Q&A: Any actual physics explanation behind the red lava planet being bigger than the gas giant?](../transcriptions/yt-Yi_ZpCvySxg.md) [https://www.youtube.com/watch?v=Yi_ZpCvySxg](https://www.youtube.com/watch?v=Yi_ZpCvySxg)

@@ -8,6 +8,10 @@ date: Last Modified
 * [Snutt Burger Time](../../topics/coffee-stainers/snutt/snutt-burger-time.md)
 * [Snutty Mays](../../topics/coffee-stainers/snutt/snutty-mays.md)
 
+## October 4th, 2022 Livestream
+* [Snutt & Jace Talk: Making tapes for the Boombox](../../transcriptions/yt-FLONkwmDNlA.md) [https://www.youtube.com/watch?v=FLONkwmDNlA](https://www.youtube.com/watch?v=FLONkwmDNlA)
+* [Snutt & Jace Talk: Community Manager guest-lecturing](../../transcriptions/yt-NNP0sbdCA5k.md) [https://www.youtube.com/watch?v=NNP0sbdCA5k](https://www.youtube.com/watch?v=NNP0sbdCA5k)
+
 ## September 27th, 2022 Livestream
 * [Q&A: How tall is Snutt?](../../transcriptions/yt-w8Lh9QUNJyY.md) [https://www.youtube.com/watch?v=w8Lh9QUNJyY](https://www.youtube.com/watch?v=w8Lh9QUNJyY)
 * [Q&A: How does Snutt feel about Rings of Power?](../../transcriptions/yt-y5KH2rafZ8k.md) [https://www.youtube.com/watch?v=y5KH2rafZ8k](https://www.youtube.com/watch?v=y5KH2rafZ8k)

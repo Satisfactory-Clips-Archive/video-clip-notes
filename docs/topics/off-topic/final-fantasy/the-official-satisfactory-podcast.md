@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Off-Topic](../../../topics/off-topic.md) > [Final Fantasy](../../../topics/off-topic/final-fantasy.md) > The Official Satisfactory PODCAST
 
+## October 4th, 2022 Livestream
+* [Snutt & Jace Talk: Making tapes for the Boombox](../../../transcriptions/yt-FLONkwmDNlA.md) [https://www.youtube.com/watch?v=FLONkwmDNlA](https://www.youtube.com/watch?v=FLONkwmDNlA)
+
 ## July 5th, 2022 Livestream
 * [Q&A: When is your next Final Fantasy podcast?](../../../transcriptions/yt-8-TdFU3iRUo.md) [https://www.youtube.com/watch?v=8-TdFU3iRUo](https://www.youtube.com/watch?v=8-TdFU3iRUo)
 

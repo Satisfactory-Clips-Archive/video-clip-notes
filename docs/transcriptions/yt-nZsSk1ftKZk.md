@@ -9,7 +9,7 @@ topics:
 # [November 9th, 2021 Livestream](../2021-11-09.md)
 ## Q&A: Can you tell us the purpose of the Mercer Sphere and Somersloop?
 https://www.youtube.com/watch?v=nZsSk1ftKZk
-This question was possibly duplicated with a more recent answer: [March 1st, 2022 Livestream Q&A: What's with the artefacts around the World?](./yt-A5JsCEPWRu4.md) [https://www.youtube.com/watch?v=A5JsCEPWRu4](https://www.youtube.com/watch?v=A5JsCEPWRu4)
+This question was possibly duplicated with a more recent answer: [October 4th, 2022 Livestream Q&A: When will Artefacts be usable for something?](./yt-sdRDsK_DDG4.md) [https://www.youtube.com/watch?v=sdRDsK_DDG4](https://www.youtube.com/watch?v=sdRDsK_DDG4)
 
 
 ### Topics

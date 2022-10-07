@@ -7,6 +7,11 @@ date: Last Modified
 * [Cheatcrete](../../../topics/features/buildables/foundations/cheatcrete.md)
 * [Foundation Stencils](../../../topics/features/buildables/foundations/stencils.md)
 
+## October 4th, 2022 Livestream
+* [State of Dev](../../../transcriptions/yt-dniAHWqQ4FI.md) [https://www.youtube.com/watch?v=dniAHWqQ4FI](https://www.youtube.com/watch?v=dniAHWqQ4FI)
+* [Q&A: Double outlets on Foundations?](../../../transcriptions/yt-SWdSlbaISog.md) [https://www.youtube.com/watch?v=SWdSlbaISog](https://www.youtube.com/watch?v=SWdSlbaISog)
+* [Q&A: Snapping issues?](../../../transcriptions/yt-afOHa8pv6l8.md) [https://www.youtube.com/watch?v=afOHa8pv6l8](https://www.youtube.com/watch?v=afOHa8pv6l8)
+
 ## September 30th, 2022 Video
 * [New Build Pieces](../../../transcriptions/yt-5Pz_dZbEx-4,56.823433333333334,107.64086666666667.md) [https://youtube.com/embed/5Pz_dZbEx-4?autoplay=1&start=56&end=108](https://youtube.com/embed/5Pz_dZbEx-4?autoplay=1&start=56&end=108)
 

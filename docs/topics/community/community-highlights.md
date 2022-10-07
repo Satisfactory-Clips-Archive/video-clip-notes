@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Community Highlights
 
+## October 4th, 2022 Livestream
+* [Q&A: Does the planet have a name?](../../transcriptions/yt-vGikWrINkZk.md) [https://www.youtube.com/watch?v=vGikWrINkZk](https://www.youtube.com/watch?v=vGikWrINkZk)
+
 ## September 27th, 2022 Livestream
 * [Snutt & Jace Talk: 200k subscribers on /r/SatisfactoryGame](../../transcriptions/yt-P7BmI_10jLs.md) [https://www.youtube.com/watch?v=P7BmI_10jLs](https://www.youtube.com/watch?v=P7BmI_10jLs)
 

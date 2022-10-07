@@ -7,6 +7,11 @@ date: Last Modified
 * [Characters](../topics/story-and-lore/characters.md)
 * [Project Assembly](../topics/story-and-lore/project-assembly.md)
 
+## October 4th, 2022 Livestream
+* [Q&A: Does the planet have a name?](../transcriptions/yt-vGikWrINkZk.md) [https://www.youtube.com/watch?v=vGikWrINkZk](https://www.youtube.com/watch?v=vGikWrINkZk)
+* [Q&A: When will Artefacts be usable for something?](../transcriptions/yt-sdRDsK_DDG4.md) [https://www.youtube.com/watch?v=sdRDsK_DDG4](https://www.youtube.com/watch?v=sdRDsK_DDG4)
+* [Q&A: How much will Power Rangers play a part in the Story?](../transcriptions/yt-6OxCLHOLpcU.md) [https://www.youtube.com/watch?v=6OxCLHOLpcU](https://www.youtube.com/watch?v=6OxCLHOLpcU)
+
 ## September 27th, 2022 Livestream
 * [Q&A: Will the items related to Story be kept when Story is released?](../transcriptions/yt-c2kQ1sGSUlc.md) [https://www.youtube.com/watch?v=c2kQ1sGSUlc](https://www.youtube.com/watch?v=c2kQ1sGSUlc)
 * [Q&A: Any news on Story?](../transcriptions/yt-9fgOMllBQl0.md) [https://www.youtube.com/watch?v=9fgOMllBQl0](https://www.youtube.com/watch?v=9fgOMllBQl0)

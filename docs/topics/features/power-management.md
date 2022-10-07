@@ -10,6 +10,9 @@ date: Last Modified
 * [Power Storage](../../topics/features/power-management/power-storage.md)
 * [Power Switch](../../topics/features/power-management/power-switch.md)
 
+## October 4th, 2022 Livestream
+* [Q&A: Double outlets on Foundations?](../../transcriptions/yt-SWdSlbaISog.md) [https://www.youtube.com/watch?v=SWdSlbaISog](https://www.youtube.com/watch?v=SWdSlbaISog)
+
 ## August 30th, 2022 Livestream
 * [Q&A: New machines or generators planned one day?](../../transcriptions/yt-Gzqh9pNfY2M.md) [https://www.youtube.com/watch?v=Gzqh9pNfY2M](https://www.youtube.com/watch?v=Gzqh9pNfY2M)
 

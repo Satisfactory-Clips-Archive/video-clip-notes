@@ -2,6 +2,122 @@
 title: "Frequently Asked Questions"
 date: Last Modified
 ---
+## [October 4th, 2022 Livestream](./2022-10-04.md)
+### [Q&A: When will Artefacts be usable for something?](./transcriptions/yt-sdRDsK_DDG4.md) [https://www.youtube.com/watch?v=sdRDsK_DDG4](https://www.youtube.com/watch?v=sdRDsK_DDG4)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> when will artifacts be usable for something soon soon hopefully yeah we've we have been working on a lot of Story related things um please remember that you know the story in satisfactory won't be like a don't expect like a triple A Call of Duty kind of like cinematic experience because the story is still going to be sort of the the second the the not the primary part of the game the the primary part of size factories has always been like the sandbox you know building Factory building game and you're gonna be able to play the game without experience the story at all if you want to if you so choose to um so there's no like story block or something like that so but if you want to experience the story it's going to be a story and we've been working a little bit on like stuff that ties into the story and that's been going on since before update six actually so we've made a bunch of progress on that is it a bit it's a little bit like frustrating because like we've been doing so much work and we haven't been able to show that off because we kind of want to keep the story and all that stuff like kind of secret until the final release of the game for 1.0 so you won't really see too much of any of that stuff until the game releases essentially uh yeah
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 11 other times, as recently as March 2022 and as early as December 2019.</summary>
+
+* [March 1st, 2022 Livestream Q&A: What's with the artefacts around the World?](./transcriptions/yt-A5JsCEPWRu4.md) [https://www.youtube.com/watch?v=A5JsCEPWRu4](https://www.youtube.com/watch?v=A5JsCEPWRu4)
+* [November 9th, 2021 Livestream Q&A: Can you tell us the purpose of the Mercer Sphere and Somersloop?](./transcriptions/yt-nZsSk1ftKZk.md) [https://www.youtube.com/watch?v=nZsSk1ftKZk](https://www.youtube.com/watch?v=nZsSk1ftKZk)
+* [October 5th, 2021 Livestream Q&A: Are Mercer Spheres & Somersloops going to have any relevance before 1.0?](./transcriptions/yt-b9gre_TGBH0.md) [https://www.youtube.com/watch?v=b9gre_TGBH0](https://www.youtube.com/watch?v=b9gre_TGBH0)
+* June 15th, 2021 Livestream Q&A: Should we expect Somersloops & Mercer Spheres to not be useful until much later in development? [https://www.youtube.com/watch?v=qrmgbW2hPZA](https://www.youtube.com/watch?v=qrmgbW2hPZA)
+* March 16th, 2021 Livestream Q&A: What about Alien Artefact things? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=8718&end=8723](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=8718&end=8723)
+* [March 2nd, 2021 Livestream Q&A: Will Somersloops & Mercer Spheres finally have a use?](./transcriptions/yt-6CNL-nsOGUw.md) [https://www.youtube.com/watch?v=6CNL-nsOGUw](https://www.youtube.com/watch?v=6CNL-nsOGUw)
+* [February 9th, 2021 Livestream Q&A: When will all the collectables like Mercer Spheres be implemented?](./transcriptions/yt-1_qy-PSFKO8.md) [https://www.youtube.com/watch?v=1_qy-PSFKO8](https://www.youtube.com/watch?v=1_qy-PSFKO8)
+* [January 26th, 2021 Livestream Q&A: Do Mercer Spheres and Somersloops get a place in Update 4?](./transcriptions/yt--N0atMiN9dM.md) [https://www.youtube.com/watch?v=-N0atMiN9dM](https://www.youtube.com/watch?v=-N0atMiN9dM)
+* [January 12th, 2021 Livestream Q&A: Mercer Spheres and Somersloops?](./transcriptions/yt-99pdUN5glzw.md) [https://www.youtube.com/watch?v=99pdUN5glzw](https://www.youtube.com/watch?v=99pdUN5glzw)
+* [August 25th, 2020 Livestream Q&A: Do you have any clue on what the alien artefacts do?](./transcriptions/yt-hRe0QvJDjsg.md) [https://www.youtube.com/watch?v=hRe0QvJDjsg](https://www.youtube.com/watch?v=hRe0QvJDjsg)
+* [December 19th, 2019 Livestream Q&A: Will Mercer Spheres and Somersloops be useful soon?](./transcriptions/yt-SYWPIjbe_4Y.md) [https://www.youtube.com/watch?v=SYWPIjbe_4Y](https://www.youtube.com/watch?v=SYWPIjbe_4Y)
+</details>
+
+### [Q&A: Is the rebalance scheduled for Update 7?](./transcriptions/yt-ipqk9BhPaY4.md) [https://www.youtube.com/watch?v=ipqk9BhPaY4](https://www.youtube.com/watch?v=ipqk9BhPaY4)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> the rebound Scout for update seven um good question actually that's a good question no I don't think so uh maybe I don't know it this goes this goes back this goes back into like a little bit of like we're we're sort of trying to figure out when we can release it and what we can do in that time and you know if we feel like it's it doesn't make sense to to uh to release it at a certain point in time then you know maybe we'll be able to do more if we delay it or whatever and it's also something we're trying to figure out like or maybe it's more important for us to get this next update out so that we can work on the next thing so that's also something that we're trying to figure out so it's our I like we haven't fully decided yet you know actually what goes into this update and the rebalancing is one of those things where maybe now but also maybe later down the line uh so it's it's I don't think it will be a huge rebalance in update seven but I might be wrong because development is a fleeting thing so maybe we'll have time for it or maybe we won't but I doubt it at the moment uh let's say yes
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 4 other times, as recently as September 2022 and as early as May 2022.</summary>
+
+* [September 27th, 2022 Livestream Q&A: Overclocking changes for Update 7?](./transcriptions/yt-_iPkLPBspDc.md) [https://www.youtube.com/watch?v=_iPkLPBspDc](https://www.youtube.com/watch?v=_iPkLPBspDc)
+* [September 27th, 2022 Livestream Q&A: Overclock Power changes still pending or aborted?](./transcriptions/yt-2811Pq6T12g.md) [https://www.youtube.com/watch?v=2811Pq6T12g](https://www.youtube.com/watch?v=2811Pq6T12g)
+* [September 13th, 2022 Livestream Q&A: Any updates to if Overclocking is changing?](./transcriptions/yt-qBEml9Qw5xE.md) [https://www.youtube.com/watch?v=qBEml9Qw5xE](https://www.youtube.com/watch?v=qBEml9Qw5xE)
+* [May 24th, 2022 Livestream Q&A: Any updates to the Overclocking discussion?](./transcriptions/yt-GwXXV3e00eo.md) [https://www.youtube.com/watch?v=GwXXV3e00eo](https://www.youtube.com/watch?v=GwXXV3e00eo)
+</details>
+
+### [Q&A: Miner Mk.3?](./transcriptions/yt-UgT26tXEdjU.md) [https://www.youtube.com/watch?v=UgT26tXEdjU](https://www.youtube.com/watch?v=UgT26tXEdjU)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> let's see yeah mine under Mark III the big question don't think so for this update because like I said the the update is is a small update so it's mostly going to be minor things huh oh my God I caught myself as I said that um small things are gonna go into this update I think the the change with the miner is actually considered a major one because it ties into like if we do faster tiered belts or not which I still don't know if what we're doing there if we're doing that or if we're doing multiple outputs on the minor I don't know but uh don't expect it for update seven update seven is probably gonna be more like a quarter of life you know maybe a cool thing here or there some new feature um little bits in there yeah so yes
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 10 other times, as recently as May 2022 and as early as March 2021.</summary>
+
+* [May 3rd, 2022 Livestream Q&A: Miner Mk.3?](./transcriptions/yt-TzqY5rtkxes.md) [https://www.youtube.com/watch?v=TzqY5rtkxes](https://www.youtube.com/watch?v=TzqY5rtkxes)
+* [March 1st, 2022 Livestream Q&A: Can we get something to allow us to make full use of Mk.3 Miner?](./transcriptions/yt-0oveQsKkGDQ.md) [https://www.youtube.com/watch?v=0oveQsKkGDQ](https://www.youtube.com/watch?v=0oveQsKkGDQ)
+* [October 19th, 2021 Livestream Q&A: Any Update on Overclocked Mk.3 Miners?](./transcriptions/yt-KbLwa5ZKlag.md) [https://www.youtube.com/watch?v=KbLwa5ZKlag](https://www.youtube.com/watch?v=KbLwa5ZKlag)
+* [October 5th, 2021 Livestream Q&A: Done any further look into the Mk.3 Miner and the second output?](./transcriptions/yt-hM5HKud0ChI.md) [https://www.youtube.com/watch?v=hM5HKud0ChI](https://www.youtube.com/watch?v=hM5HKud0ChI)
+* [October 5th, 2021 Livestream Q&A: Is there going to be a remedy for Mk.3 Miners being bottlenecked?](./transcriptions/yt-3m_vqCavleY.md) [https://www.youtube.com/watch?v=3m_vqCavleY](https://www.youtube.com/watch?v=3m_vqCavleY)
+* [September 21st, 2021 Livestream Q&A: Can you tell us if we're going to have two exits on the Miners or if you're going to rebalance?](./transcriptions/yt-8CTI5utyv34.md) [https://www.youtube.com/watch?v=8CTI5utyv34](https://www.youtube.com/watch?v=8CTI5utyv34)
+* [August 31st, 2021 Livestream Q&A: Two outputs for Mk.3 Miners?](./transcriptions/yt-Nn8tgBZ8s7M.md) [https://www.youtube.com/watch?v=Nn8tgBZ8s7M](https://www.youtube.com/watch?v=Nn8tgBZ8s7M)
+* [August 10th, 2021 Livestream Q&A: Two exits on Mk.3 Miner?](./transcriptions/yt-96WELYhyRLA.md) [https://www.youtube.com/watch?v=96WELYhyRLA](https://www.youtube.com/watch?v=96WELYhyRLA)
+* [July 20th, 2021 Livestream Q&A: Will Mk.3 Miners get two outputs to transport the full production?](./transcriptions/yt-my4Zmq3LUNU.md) [https://www.youtube.com/watch?v=my4Zmq3LUNU](https://www.youtube.com/watch?v=my4Zmq3LUNU)
+* [March 23rd, 2021 Livestream Q&A: Mk.3 Miner with 1200 resources per minute, put two outputs so we can get all the resources?](./transcriptions/yt-5BOnK8wVCro.md) [https://www.youtube.com/watch?v=5BOnK8wVCro](https://www.youtube.com/watch?v=5BOnK8wVCro)
+</details>
+
+### [Q&A: Is S.A.M. Ore going to be in Update 7?](./transcriptions/yt-8pjXFOtD4KI.md) [https://www.youtube.com/watch?v=8pjXFOtD4KI](https://www.youtube.com/watch?v=8pjXFOtD4KI)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> samor is not going to be in an update seven no samoris you won't see Sam or where you see you'll see Samurai because it's in the game right now but like any use for samor is not going to happen until like the final release of the game most likely to my knowledge at least
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 26 other times, as recently as September 2022 and as early as March 2019.</summary>
+
+* [September 13th, 2022 Livestream Q&A: What Tier will S.A.M. Ore be used in ?](./transcriptions/yt-bWbC_aCpEXc.md) [https://www.youtube.com/watch?v=bWbC_aCpEXc](https://www.youtube.com/watch?v=bWbC_aCpEXc)
+* [May 24th, 2022 Livestream Q&A: What's the future of S.A.M. Ore?](./transcriptions/yt-fU0zBoXfxRE.md) [https://www.youtube.com/watch?v=fU0zBoXfxRE](https://www.youtube.com/watch?v=fU0zBoXfxRE)
+* [March 22nd, 2022 Livestream Q&A: When are we going to see something with S.A.M. Ore?](./transcriptions/yt-QPP1gPrzC9Y.md) [https://www.youtube.com/watch?v=QPP1gPrzC9Y](https://www.youtube.com/watch?v=QPP1gPrzC9Y)
+* [January 25th, 2022 Livestream Q&A: Have you told what S.A.M. Ore stands for?](./transcriptions/yt-bp9bhL_WoQk.md) [https://www.youtube.com/watch?v=bp9bhL_WoQk](https://www.youtube.com/watch?v=bp9bhL_WoQk)
+* [November 16th, 2021 Livestream Q&A: What's the purpose of S.A.M. Ore?](./transcriptions/yt-oPY1o6s9X-k.md) [https://www.youtube.com/watch?v=oPY1o6s9X-k](https://www.youtube.com/watch?v=oPY1o6s9X-k)
+* [September 14th, 2021 Livestream Q&A: Any S.A.M. news?](./transcriptions/yt-L4jQG4tp_4c.md) [https://www.youtube.com/watch?v=L4jQG4tp_4c](https://www.youtube.com/watch?v=L4jQG4tp_4c)
+* [August 10th, 2021 Livestream Q&A: Is the S.A.M. Ore ever going to be useful?](./transcriptions/yt-7zXN4R-njHk.md) [https://www.youtube.com/watch?v=7zXN4R-njHk](https://www.youtube.com/watch?v=7zXN4R-njHk)
+* [July 20th, 2021 Livestream Q&A: Has S.A.M. Ore been given a function yet?](./transcriptions/yt-VVYzPlbpSwM.md) [https://www.youtube.com/watch?v=VVYzPlbpSwM](https://www.youtube.com/watch?v=VVYzPlbpSwM)
+* [July 13th, 2021 Livestream Q&A: Will we use S.A.M. Ore for something?](./transcriptions/yt-y8zrEB5BiwQ.md) [https://www.youtube.com/watch?v=y8zrEB5BiwQ](https://www.youtube.com/watch?v=y8zrEB5BiwQ)
+* [June 29th, 2021 Livestream Q&A: Do you have plans for S.A.M. Ore?](./transcriptions/yt-DiLr2o5ealA.md) [https://www.youtube.com/watch?v=DiLr2o5ealA](https://www.youtube.com/watch?v=DiLr2o5ealA)
+* [June 8th, 2021 Livestream Q&A: Is S.A.M. Ore going to be used in the next Update?](./transcriptions/yt-pSqiS44lqIg.md) [https://www.youtube.com/watch?v=pSqiS44lqIg](https://www.youtube.com/watch?v=pSqiS44lqIg)
+* [June 1st, 2021 Livestream Q&A: Can you reveal what S.A.M. Ore is please, I need to know?](./transcriptions/yt-2pUioeu_oKE.md) [https://www.youtube.com/watch?v=2pUioeu_oKE](https://www.youtube.com/watch?v=2pUioeu_oKE)
+* [May 4th, 2021 Livestream Q&A: When is S.A.M. Ore becoming use?](./transcriptions/yt-maWDJJM4ID8.md) [https://www.youtube.com/watch?v=maWDJJM4ID8](https://www.youtube.com/watch?v=maWDJJM4ID8)
+* [April 20th, 2021 Livestream Q&A: Doing something with S.A.M. Ore next update?](./transcriptions/yt-tSUBtq9ny4g.md) [https://www.youtube.com/watch?v=tSUBtq9ny4g](https://www.youtube.com/watch?v=tSUBtq9ny4g)
+* [March 30th, 2021 Livestream Q&A: Will we ever use S.A.M. Ore?](./transcriptions/yt-SqyfGfz3APc.md) [https://www.youtube.com/watch?v=SqyfGfz3APc](https://www.youtube.com/watch?v=SqyfGfz3APc)
+* [February 23rd, 2021 Livestream Q&A: S.A.M. Ore getting a main use any time soon?](./transcriptions/yt-ow33F_nK6nc.md) [https://www.youtube.com/watch?v=ow33F_nK6nc](https://www.youtube.com/watch?v=ow33F_nK6nc)
+* [January 12th, 2021 Livestream Q&A: What's happening with S.A.M. Ore?](./transcriptions/yt-f0Z9VIAK5Iw.md) [https://www.youtube.com/watch?v=f0Z9VIAK5Iw](https://www.youtube.com/watch?v=f0Z9VIAK5Iw)
+* [December 17th, 2020 Q&A: Will S.A.M. Ore ever be useful?](./transcriptions/yt--JXPsTlJIiI,1076.5421333333334,1078.9779.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=1076&end=1079](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=1076&end=1079)
+* [October 20th, 2020 Livestream Q&A: What's the secret behind S.A.M. Ore?](./transcriptions/yt-tXqk1eu0-BQ.md) [https://www.youtube.com/watch?v=tXqk1eu0-BQ](https://www.youtube.com/watch?v=tXqk1eu0-BQ)
+* [September 29th, 2020 Livestream Q&A: How much S.A.M. Ore should we stock up on?](./transcriptions/yt-vBGfC7j2AyI.md) [https://www.youtube.com/watch?v=vBGfC7j2AyI](https://www.youtube.com/watch?v=vBGfC7j2AyI)
+* [August 25th, 2020 Livestream Q&A: Please tell me Update 4 will use S.A.M. Ore](./transcriptions/yt--b2L_nlW_Fo.md) [https://www.youtube.com/watch?v=-b2L_nlW_Fo](https://www.youtube.com/watch?v=-b2L_nlW_Fo)
+* August 18th, 2020 Livestream Q&A: S.A.M. Ore uses? [https://clips.twitch.tv/BovineDistinctOrangeRiPepperonis](https://clips.twitch.tv/BovineDistinctOrangeRiPepperonis)
+* [May 15th, 2020 Q&A: When is the S.A.M. Ore becoming useful in-game?](./transcriptions/yt-NlIVwoRqjVk,807.1730333333334,849.9491.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=807&end=850](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=807&end=850)
+* [February 11th, 2020 Livestream Q&A: S.A.M. Ore?](./transcriptions/yt-6r-s6Hk7QwY.md) [https://www.youtube.com/watch?v=6r-s6Hk7QwY](https://www.youtube.com/watch?v=6r-s6Hk7QwY)
+* [December 19th, 2019 Livestream Q&A: S.A.M. Ore?](./transcriptions/yt-irJw2itG4wM.md) [https://www.youtube.com/watch?v=irJw2itG4wM](https://www.youtube.com/watch?v=irJw2itG4wM)
+* [March 9th, 2019 Livestream Q&A: What do you use S.A.M. Ore for?](./transcriptions/yt-jdOQXcBiSH0.md) [https://www.youtube.com/watch?v=jdOQXcBiSH0](https://www.youtube.com/watch?v=jdOQXcBiSH0)
+</details>
+
 ## [September 27th, 2022 Livestream](./2022-09-27.md)
 ### [Q&A: Volume slider for Trains?](./transcriptions/yt-MsThuLeWGMA.md) [https://www.youtube.com/watch?v=MsThuLeWGMA](https://www.youtube.com/watch?v=MsThuLeWGMA)
 
@@ -591,47 +707,6 @@ date: Last Modified
 
 * [September 6th, 2022 Livestream Q&A: Horizontal half-walls?](./transcriptions/yt-S8T80EDvfpE.md) [https://www.youtube.com/watch?v=S8T80EDvfpE](https://www.youtube.com/watch?v=S8T80EDvfpE)
 * [August 23rd, 2022 Livestream Q&A: Half Wall?](./transcriptions/yt-0MP3iPpCEso.md) [https://www.youtube.com/watch?v=0MP3iPpCEso](https://www.youtube.com/watch?v=0MP3iPpCEso)
-</details>
-
-### [Q&A: What Tier will S.A.M. Ore be used in ?](./transcriptions/yt-bWbC_aCpEXc.md) [https://www.youtube.com/watch?v=bWbC_aCpEXc](https://www.youtube.com/watch?v=bWbC_aCpEXc)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> what tier will Sam or be used in um will it though I don't know
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 25 other times, as recently as May 2022 and as early as March 2019.</summary>
-
-* [May 24th, 2022 Livestream Q&A: What's the future of S.A.M. Ore?](./transcriptions/yt-fU0zBoXfxRE.md) [https://www.youtube.com/watch?v=fU0zBoXfxRE](https://www.youtube.com/watch?v=fU0zBoXfxRE)
-* [March 22nd, 2022 Livestream Q&A: When are we going to see something with S.A.M. Ore?](./transcriptions/yt-QPP1gPrzC9Y.md) [https://www.youtube.com/watch?v=QPP1gPrzC9Y](https://www.youtube.com/watch?v=QPP1gPrzC9Y)
-* [January 25th, 2022 Livestream Q&A: Have you told what S.A.M. Ore stands for?](./transcriptions/yt-bp9bhL_WoQk.md) [https://www.youtube.com/watch?v=bp9bhL_WoQk](https://www.youtube.com/watch?v=bp9bhL_WoQk)
-* [November 16th, 2021 Livestream Q&A: What's the purpose of S.A.M. Ore?](./transcriptions/yt-oPY1o6s9X-k.md) [https://www.youtube.com/watch?v=oPY1o6s9X-k](https://www.youtube.com/watch?v=oPY1o6s9X-k)
-* [September 14th, 2021 Livestream Q&A: Any S.A.M. news?](./transcriptions/yt-L4jQG4tp_4c.md) [https://www.youtube.com/watch?v=L4jQG4tp_4c](https://www.youtube.com/watch?v=L4jQG4tp_4c)
-* [August 10th, 2021 Livestream Q&A: Is the S.A.M. Ore ever going to be useful?](./transcriptions/yt-7zXN4R-njHk.md) [https://www.youtube.com/watch?v=7zXN4R-njHk](https://www.youtube.com/watch?v=7zXN4R-njHk)
-* [July 20th, 2021 Livestream Q&A: Has S.A.M. Ore been given a function yet?](./transcriptions/yt-VVYzPlbpSwM.md) [https://www.youtube.com/watch?v=VVYzPlbpSwM](https://www.youtube.com/watch?v=VVYzPlbpSwM)
-* [July 13th, 2021 Livestream Q&A: Will we use S.A.M. Ore for something?](./transcriptions/yt-y8zrEB5BiwQ.md) [https://www.youtube.com/watch?v=y8zrEB5BiwQ](https://www.youtube.com/watch?v=y8zrEB5BiwQ)
-* [June 29th, 2021 Livestream Q&A: Do you have plans for S.A.M. Ore?](./transcriptions/yt-DiLr2o5ealA.md) [https://www.youtube.com/watch?v=DiLr2o5ealA](https://www.youtube.com/watch?v=DiLr2o5ealA)
-* [June 8th, 2021 Livestream Q&A: Is S.A.M. Ore going to be used in the next Update?](./transcriptions/yt-pSqiS44lqIg.md) [https://www.youtube.com/watch?v=pSqiS44lqIg](https://www.youtube.com/watch?v=pSqiS44lqIg)
-* [June 1st, 2021 Livestream Q&A: Can you reveal what S.A.M. Ore is please, I need to know?](./transcriptions/yt-2pUioeu_oKE.md) [https://www.youtube.com/watch?v=2pUioeu_oKE](https://www.youtube.com/watch?v=2pUioeu_oKE)
-* [May 4th, 2021 Livestream Q&A: When is S.A.M. Ore becoming use?](./transcriptions/yt-maWDJJM4ID8.md) [https://www.youtube.com/watch?v=maWDJJM4ID8](https://www.youtube.com/watch?v=maWDJJM4ID8)
-* [April 20th, 2021 Livestream Q&A: Doing something with S.A.M. Ore next update?](./transcriptions/yt-tSUBtq9ny4g.md) [https://www.youtube.com/watch?v=tSUBtq9ny4g](https://www.youtube.com/watch?v=tSUBtq9ny4g)
-* [March 30th, 2021 Livestream Q&A: Will we ever use S.A.M. Ore?](./transcriptions/yt-SqyfGfz3APc.md) [https://www.youtube.com/watch?v=SqyfGfz3APc](https://www.youtube.com/watch?v=SqyfGfz3APc)
-* [February 23rd, 2021 Livestream Q&A: S.A.M. Ore getting a main use any time soon?](./transcriptions/yt-ow33F_nK6nc.md) [https://www.youtube.com/watch?v=ow33F_nK6nc](https://www.youtube.com/watch?v=ow33F_nK6nc)
-* [January 12th, 2021 Livestream Q&A: What's happening with S.A.M. Ore?](./transcriptions/yt-f0Z9VIAK5Iw.md) [https://www.youtube.com/watch?v=f0Z9VIAK5Iw](https://www.youtube.com/watch?v=f0Z9VIAK5Iw)
-* [December 17th, 2020 Q&A: Will S.A.M. Ore ever be useful?](./transcriptions/yt--JXPsTlJIiI,1076.5421333333334,1078.9779.md) [https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=1076&end=1079](https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=1076&end=1079)
-* [October 20th, 2020 Livestream Q&A: What's the secret behind S.A.M. Ore?](./transcriptions/yt-tXqk1eu0-BQ.md) [https://www.youtube.com/watch?v=tXqk1eu0-BQ](https://www.youtube.com/watch?v=tXqk1eu0-BQ)
-* [September 29th, 2020 Livestream Q&A: How much S.A.M. Ore should we stock up on?](./transcriptions/yt-vBGfC7j2AyI.md) [https://www.youtube.com/watch?v=vBGfC7j2AyI](https://www.youtube.com/watch?v=vBGfC7j2AyI)
-* [August 25th, 2020 Livestream Q&A: Please tell me Update 4 will use S.A.M. Ore](./transcriptions/yt--b2L_nlW_Fo.md) [https://www.youtube.com/watch?v=-b2L_nlW_Fo](https://www.youtube.com/watch?v=-b2L_nlW_Fo)
-* August 18th, 2020 Livestream Q&A: S.A.M. Ore uses? [https://clips.twitch.tv/BovineDistinctOrangeRiPepperonis](https://clips.twitch.tv/BovineDistinctOrangeRiPepperonis)
-* [May 15th, 2020 Q&A: When is the S.A.M. Ore becoming useful in-game?](./transcriptions/yt-NlIVwoRqjVk,807.1730333333334,849.9491.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=807&end=850](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=807&end=850)
-* [February 11th, 2020 Livestream Q&A: S.A.M. Ore?](./transcriptions/yt-6r-s6Hk7QwY.md) [https://www.youtube.com/watch?v=6r-s6Hk7QwY](https://www.youtube.com/watch?v=6r-s6Hk7QwY)
-* [December 19th, 2019 Livestream Q&A: S.A.M. Ore?](./transcriptions/yt-irJw2itG4wM.md) [https://www.youtube.com/watch?v=irJw2itG4wM](https://www.youtube.com/watch?v=irJw2itG4wM)
-* [March 9th, 2019 Livestream Q&A: What do you use S.A.M. Ore for?](./transcriptions/yt-jdOQXcBiSH0.md) [https://www.youtube.com/watch?v=jdOQXcBiSH0](https://www.youtube.com/watch?v=jdOQXcBiSH0)
 </details>
 
 ### [Q&A: Will there be Tier 9 & 10?](./transcriptions/yt-Pwbhu0Xdipk.md) [https://www.youtube.com/watch?v=Pwbhu0Xdipk](https://www.youtube.com/watch?v=Pwbhu0Xdipk)
@@ -2566,31 +2641,6 @@ date: Last Modified
 * [May 4th, 2021 Livestream Q&A: Do you have to buy the full version of the game when it comes out?](./transcriptions/yt-fEyDe5viYQo.md) [https://www.youtube.com/watch?v=fEyDe5viYQo](https://www.youtube.com/watch?v=fEyDe5viYQo)
 </details>
 
-### [Q&A: Miner Mk.3?](./transcriptions/yt-TzqY5rtkxes.md) [https://www.youtube.com/watch?v=TzqY5rtkxes](https://www.youtube.com/watch?v=TzqY5rtkxes)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> uh will there be okay so this this question is mainly about the minor mark iii um so we still don't know what we'll do with the minor mark iii because we haven't gotten that part of development yet where we need to look into that um it's possible we'll add like the alternatives we have is like we add another mark six belt no we add mark six belt or we make it so that the mark the minor mark iii doesn't produce as much or we do something else um you know we'll we'll make that decision once we get to that point we're kind of treating everything as like you know we tend to work on like subsections of the game and then complete them until we move on to the next one and make decisions and we don't want to like reserve ourselves to doing it one way or another because we might find that like it's better to do it one way or the other
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 9 other times, as recently as March 2022 and as early as March 2021.</summary>
-
-* [March 1st, 2022 Livestream Q&A: Can we get something to allow us to make full use of Mk.3 Miner?](./transcriptions/yt-0oveQsKkGDQ.md) [https://www.youtube.com/watch?v=0oveQsKkGDQ](https://www.youtube.com/watch?v=0oveQsKkGDQ)
-* [October 19th, 2021 Livestream Q&A: Any Update on Overclocked Mk.3 Miners?](./transcriptions/yt-KbLwa5ZKlag.md) [https://www.youtube.com/watch?v=KbLwa5ZKlag](https://www.youtube.com/watch?v=KbLwa5ZKlag)
-* [October 5th, 2021 Livestream Q&A: Done any further look into the Mk.3 Miner and the second output?](./transcriptions/yt-hM5HKud0ChI.md) [https://www.youtube.com/watch?v=hM5HKud0ChI](https://www.youtube.com/watch?v=hM5HKud0ChI)
-* [October 5th, 2021 Livestream Q&A: Is there going to be a remedy for Mk.3 Miners being bottlenecked?](./transcriptions/yt-3m_vqCavleY.md) [https://www.youtube.com/watch?v=3m_vqCavleY](https://www.youtube.com/watch?v=3m_vqCavleY)
-* [September 21st, 2021 Livestream Q&A: Can you tell us if we're going to have two exits on the Miners or if you're going to rebalance?](./transcriptions/yt-8CTI5utyv34.md) [https://www.youtube.com/watch?v=8CTI5utyv34](https://www.youtube.com/watch?v=8CTI5utyv34)
-* [August 31st, 2021 Livestream Q&A: Two outputs for Mk.3 Miners?](./transcriptions/yt-Nn8tgBZ8s7M.md) [https://www.youtube.com/watch?v=Nn8tgBZ8s7M](https://www.youtube.com/watch?v=Nn8tgBZ8s7M)
-* [August 10th, 2021 Livestream Q&A: Two exits on Mk.3 Miner?](./transcriptions/yt-96WELYhyRLA.md) [https://www.youtube.com/watch?v=96WELYhyRLA](https://www.youtube.com/watch?v=96WELYhyRLA)
-* [July 20th, 2021 Livestream Q&A: Will Mk.3 Miners get two outputs to transport the full production?](./transcriptions/yt-my4Zmq3LUNU.md) [https://www.youtube.com/watch?v=my4Zmq3LUNU](https://www.youtube.com/watch?v=my4Zmq3LUNU)
-* [March 23rd, 2021 Livestream Q&A: Mk.3 Miner with 1200 resources per minute, put two outputs so we can get all the resources?](./transcriptions/yt-5BOnK8wVCro.md) [https://www.youtube.com/watch?v=5BOnK8wVCro](https://www.youtube.com/watch?v=5BOnK8wVCro)
-</details>
-
 ### [Q&A: Can we get an empty hand slot so we don't have to unequip something every time?](./transcriptions/yt-t4iLd8jEqQ4.md) [https://www.youtube.com/watch?v=t4iLd8jEqQ4](https://www.youtube.com/watch?v=t4iLd8jEqQ4)
 
 <details>
@@ -3063,32 +3113,6 @@ date: Last Modified
 * [May 15th, 2020 Q&A: Will there be weather changes?](./transcriptions/yt-NlIVwoRqjVk,374.5742,397.43036666666666.md) [https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=374&end=398](https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=374&end=398)
 * [February 20th, 2019 Livestream Q&A: Weather confirmed?](./transcriptions/yt-CB9bSigNYH8,5234.485233,5238.267007.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5234&end=5239](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5234&end=5239)
 * [August 1st, 2018 Q&A: Is there Weather in the game?](./transcriptions/yt-iFAy1NZUOGU,58.6,60.36.md) [https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=58&end=61](https://youtube.com/embed/iFAy1NZUOGU?autoplay=1&start=58&end=61)
-</details>
-
-### [Q&A: What's with the artefacts around the World?](./transcriptions/yt-A5JsCEPWRu4.md) [https://www.youtube.com/watch?v=A5JsCEPWRu4](https://www.youtube.com/watch?v=A5JsCEPWRu4)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> so yeah but with the artifacts around the world yes that's a good question i guess you're gonna have to find out at 1.0 it's a little bit of like a tease to have like so many things in the game that like won't be usable until 1.0 but um yeah all the artifacts and stuff like that that says uh work in progress vip wip um there are things that are gonna come with story at some points so hopefully you guys will know more about that later on the line oh boy i'm excited got some good stuff this week gonna cook up a storm it's gonna be real good fantastic jase can't wait
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 10 other times, as recently as November 2021 and as early as December 2019.</summary>
-
-* [November 9th, 2021 Livestream Q&A: Can you tell us the purpose of the Mercer Sphere and Somersloop?](./transcriptions/yt-nZsSk1ftKZk.md) [https://www.youtube.com/watch?v=nZsSk1ftKZk](https://www.youtube.com/watch?v=nZsSk1ftKZk)
-* [October 5th, 2021 Livestream Q&A: Are Mercer Spheres & Somersloops going to have any relevance before 1.0?](./transcriptions/yt-b9gre_TGBH0.md) [https://www.youtube.com/watch?v=b9gre_TGBH0](https://www.youtube.com/watch?v=b9gre_TGBH0)
-* June 15th, 2021 Livestream Q&A: Should we expect Somersloops & Mercer Spheres to not be useful until much later in development? [https://www.youtube.com/watch?v=qrmgbW2hPZA](https://www.youtube.com/watch?v=qrmgbW2hPZA)
-* March 16th, 2021 Livestream Q&A: What about Alien Artefact things? [https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=8718&end=8723](https://youtube.com/embed/Gdz6SUv9Om4?autoplay=1&start=8718&end=8723)
-* [March 2nd, 2021 Livestream Q&A: Will Somersloops & Mercer Spheres finally have a use?](./transcriptions/yt-6CNL-nsOGUw.md) [https://www.youtube.com/watch?v=6CNL-nsOGUw](https://www.youtube.com/watch?v=6CNL-nsOGUw)
-* [February 9th, 2021 Livestream Q&A: When will all the collectables like Mercer Spheres be implemented?](./transcriptions/yt-1_qy-PSFKO8.md) [https://www.youtube.com/watch?v=1_qy-PSFKO8](https://www.youtube.com/watch?v=1_qy-PSFKO8)
-* [January 26th, 2021 Livestream Q&A: Do Mercer Spheres and Somersloops get a place in Update 4?](./transcriptions/yt--N0atMiN9dM.md) [https://www.youtube.com/watch?v=-N0atMiN9dM](https://www.youtube.com/watch?v=-N0atMiN9dM)
-* [January 12th, 2021 Livestream Q&A: Mercer Spheres and Somersloops?](./transcriptions/yt-99pdUN5glzw.md) [https://www.youtube.com/watch?v=99pdUN5glzw](https://www.youtube.com/watch?v=99pdUN5glzw)
-* [August 25th, 2020 Livestream Q&A: Do you have any clue on what the alien artefacts do?](./transcriptions/yt-hRe0QvJDjsg.md) [https://www.youtube.com/watch?v=hRe0QvJDjsg](https://www.youtube.com/watch?v=hRe0QvJDjsg)
-* [December 19th, 2019 Livestream Q&A: Will Mercer Spheres and Somersloops be useful soon?](./transcriptions/yt-SYWPIjbe_4Y.md) [https://www.youtube.com/watch?v=SYWPIjbe_4Y](https://www.youtube.com/watch?v=SYWPIjbe_4Y)
 </details>
 
 ### [Q&A: Any plans to increase the Satisfactory Map size?](./transcriptions/yt-jJWJNuE_CXQ.md) [https://www.youtube.com/watch?v=jJWJNuE_CXQ](https://www.youtube.com/watch?v=jJWJNuE_CXQ)

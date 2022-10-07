@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Resources](../../../topics/environment/resources.md) > Somersloop
 
+## October 4th, 2022 Livestream
+* [Q&A: When will Artefacts be usable for something?](../../../transcriptions/yt-sdRDsK_DDG4.md) [https://www.youtube.com/watch?v=sdRDsK_DDG4](https://www.youtube.com/watch?v=sdRDsK_DDG4)
+
 ## September 27th, 2022 Livestream
 * [Q&A: Will the items related to Story be kept when Story is released?](../../../transcriptions/yt-c2kQ1sGSUlc.md) [https://www.youtube.com/watch?v=c2kQ1sGSUlc](https://www.youtube.com/watch?v=c2kQ1sGSUlc)
 

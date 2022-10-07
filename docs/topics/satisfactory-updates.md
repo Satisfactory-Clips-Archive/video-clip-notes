@@ -18,6 +18,9 @@ date: Last Modified
 * [Teasers & Trailers](../topics/satisfactory-updates/teasers-and-trailers.md)
 * [World Update](../topics/satisfactory-updates/world-update.md)
 
+## October 4th, 2022 Livestream
+* [State of Dev](../transcriptions/yt-dniAHWqQ4FI.md) [https://www.youtube.com/watch?v=dniAHWqQ4FI](https://www.youtube.com/watch?v=dniAHWqQ4FI)
+
 ## September 30th, 2022 Video
 * [Q&A: Why haven't you fixed this issue yet?](../transcriptions/yt-5Pz_dZbEx-4,291.72476666666665,372.979797.md) [https://youtube.com/embed/5Pz_dZbEx-4?autoplay=1&start=291&end=373](https://youtube.com/embed/5Pz_dZbEx-4?autoplay=1&start=291&end=373)
 

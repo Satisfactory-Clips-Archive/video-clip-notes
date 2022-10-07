@@ -7,6 +7,9 @@ date: Last Modified
 * [EU Merch Store](../topics/merch/eu-merch-store.md)
 * [Merch Prototypes](../topics/merch/merch-prototypes.md)
 
+## October 4th, 2022 Livestream
+* [Q&A: How is the Satisfactory anime coming along?](../transcriptions/yt-XKDaGUtQnxs.md) [https://www.youtube.com/watch?v=XKDaGUtQnxs](https://www.youtube.com/watch?v=XKDaGUtQnxs)
+
 ## September 27th, 2022 Livestream
 * [Q&A: Satisfactory Anime?](../transcriptions/yt-Z8TYjdqSd7o.md) [https://www.youtube.com/watch?v=Z8TYjdqSd7o](https://www.youtube.com/watch?v=Z8TYjdqSd7o)
 * [Q&A: Unusual Satis Merch that you'd like to see from Coffee Stain or Heroic Replicas?](../transcriptions/yt-CHwWm33_rRQ.md) [https://www.youtube.com/watch?v=CHwWm33_rRQ](https://www.youtube.com/watch?v=CHwWm33_rRQ)

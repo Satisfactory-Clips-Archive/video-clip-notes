@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Coffee Stainers](../../../topics/coffee-stainers.md) > [Jace](../../../topics/coffee-stainers/jace.md) > Jace Art
 
+## October 4th, 2022 Livestream
+* [Q&A: How is the Satisfactory anime coming along?](../../../transcriptions/yt-XKDaGUtQnxs.md) [https://www.youtube.com/watch?v=XKDaGUtQnxs](https://www.youtube.com/watch?v=XKDaGUtQnxs)
+
 ## April 21st, 2022 Satisfactory x Portal Bonus Stream
 * [Community FYI: What a nice Doggo drawing](../../../transcriptions/yt-0zADB1yhnbs.md) [https://www.youtube.com/watch?v=0zADB1yhnbs](https://www.youtube.com/watch?v=0zADB1yhnbs)
 

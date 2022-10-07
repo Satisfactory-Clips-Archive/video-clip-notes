@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Equipment](../../../topics/features/equipment.md) > Boombox
 
+## October 4th, 2022 Livestream
+* [Snutt & Jace Talk: Making tapes for the Boombox](../../../transcriptions/yt-FLONkwmDNlA.md) [https://www.youtube.com/watch?v=FLONkwmDNlA](https://www.youtube.com/watch?v=FLONkwmDNlA)
+
 ## September 27th, 2022 Livestream
 * [Q&A: Unlink Boombox volume and Music volume?](../../../transcriptions/yt-MdpTmDeguwg.md) [https://www.youtube.com/watch?v=MdpTmDeguwg](https://www.youtube.com/watch?v=MdpTmDeguwg)
 * [Q&A: More Boombox cassettes?](../../../transcriptions/yt-HQXxP5QeGJQ.md) [https://www.youtube.com/watch?v=HQXxP5QeGJQ](https://www.youtube.com/watch?v=HQXxP5QeGJQ)

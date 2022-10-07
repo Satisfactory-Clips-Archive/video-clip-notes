@@ -9,7 +9,7 @@ topics:
 # [September 27th, 2022 Livestream](../2022-09-27.md)
 ## Q&A: Overclocking changes for Update 7?
 https://www.youtube.com/watch?v=_iPkLPBspDc
-This question was possibly duplicated with a more recent answer: [September 27th, 2022 Livestream Q&A: Overclock Power changes still pending or aborted?](./yt-2811Pq6T12g.md) [https://www.youtube.com/watch?v=2811Pq6T12g](https://www.youtube.com/watch?v=2811Pq6T12g)
+This question was possibly duplicated with a more recent answer: [October 4th, 2022 Livestream Q&A: Is the rebalance scheduled for Update 7?](./yt-ipqk9BhPaY4.md) [https://www.youtube.com/watch?v=ipqk9BhPaY4](https://www.youtube.com/watch?v=ipqk9BhPaY4)
 
 
 ### Topics

@@ -10,7 +10,7 @@ topics:
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: Do you have any clue on what the alien artefacts do?
 https://www.youtube.com/watch?v=hRe0QvJDjsg
-This question was possibly duplicated with a more recent answer: [March 1st, 2022 Livestream Q&A: What's with the artefacts around the World?](./yt-A5JsCEPWRu4.md) [https://www.youtube.com/watch?v=A5JsCEPWRu4](https://www.youtube.com/watch?v=A5JsCEPWRu4)
+This question was possibly duplicated with a more recent answer: [October 4th, 2022 Livestream Q&A: When will Artefacts be usable for something?](./yt-sdRDsK_DDG4.md) [https://www.youtube.com/watch?v=sdRDsK_DDG4](https://www.youtube.com/watch?v=sdRDsK_DDG4)
 
 
 ### Topics

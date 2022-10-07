@@ -10,7 +10,7 @@ topics:
 # [March 1st, 2022 Livestream](../2022-03-01.md)
 ## Q&A: Can we get something to allow us to make full use of Mk.3 Miner?
 https://www.youtube.com/watch?v=0oveQsKkGDQ
-This question was possibly duplicated with a more recent answer: [May 3rd, 2022 Livestream Q&A: Miner Mk.3?](./yt-TzqY5rtkxes.md) [https://www.youtube.com/watch?v=TzqY5rtkxes](https://www.youtube.com/watch?v=TzqY5rtkxes)
+This question was possibly duplicated with a more recent answer: [October 4th, 2022 Livestream Q&A: Miner Mk.3?](./yt-UgT26tXEdjU.md) [https://www.youtube.com/watch?v=UgT26tXEdjU](https://www.youtube.com/watch?v=UgT26tXEdjU)
 
 
 ### Topics

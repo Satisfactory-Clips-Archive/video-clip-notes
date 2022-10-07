@@ -10,7 +10,7 @@ topics:
 # [March 23rd, 2021 Livestream](../2021-03-23.md)
 ## Q&A: Mk.3 Miner with 1200 resources per minute, put two outputs so we can get all the resources?
 https://www.youtube.com/watch?v=5BOnK8wVCro
-This question was possibly duplicated with a more recent answer: [May 3rd, 2022 Livestream Q&A: Miner Mk.3?](./yt-TzqY5rtkxes.md) [https://www.youtube.com/watch?v=TzqY5rtkxes](https://www.youtube.com/watch?v=TzqY5rtkxes)
+This question was possibly duplicated with a more recent answer: [October 4th, 2022 Livestream Q&A: Miner Mk.3?](./yt-UgT26tXEdjU.md) [https://www.youtube.com/watch?v=UgT26tXEdjU](https://www.youtube.com/watch?v=UgT26tXEdjU)
 
 
 ### Topics

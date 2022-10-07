@@ -8,7 +8,7 @@ topics:
 # [May 15th, 2020 Q&A](../2020-05-15.md)
 ## Q&A: When is the S.A.M. Ore becoming useful in-game?
 https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=807&end=850
-This question was possibly duplicated with a more recent answer: [September 13th, 2022 Livestream Q&A: What Tier will S.A.M. Ore be used in ?](./yt-bWbC_aCpEXc.md) [https://www.youtube.com/watch?v=bWbC_aCpEXc](https://www.youtube.com/watch?v=bWbC_aCpEXc)
+This question was possibly duplicated with a more recent answer: [October 4th, 2022 Livestream Q&A: Is S.A.M. Ore going to be in Update 7?](./yt-8pjXFOtD4KI.md) [https://www.youtube.com/watch?v=8pjXFOtD4KI](https://www.youtube.com/watch?v=8pjXFOtD4KI)
 
 
 ### Topics

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > Miner
 
+## October 4th, 2022 Livestream
+* [Q&A: Miner Mk.3?](../../../transcriptions/yt-UgT26tXEdjU.md) [https://www.youtube.com/watch?v=UgT26tXEdjU](https://www.youtube.com/watch?v=UgT26tXEdjU)
+
 ## September 27th, 2022 Livestream
 * [Q&A: Any news about the Mk.5 belt vs. the Mk.3 Miner?](../../../transcriptions/yt-8b7a3qdokiw.md) [https://www.youtube.com/watch?v=8b7a3qdokiw](https://www.youtube.com/watch?v=8b7a3qdokiw)
 

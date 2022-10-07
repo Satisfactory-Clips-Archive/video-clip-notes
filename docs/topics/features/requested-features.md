@@ -10,6 +10,12 @@ date: Last Modified
 * [Pollution](../../topics/features/requested-features/pollution.md)
 * [Third-person View](../../topics/features/requested-features/third-person-view.md)
 
+## October 4th, 2022 Livestream
+* [State of Dev](../../transcriptions/yt-dniAHWqQ4FI.md) [https://www.youtube.com/watch?v=dniAHWqQ4FI](https://www.youtube.com/watch?v=dniAHWqQ4FI)
+* [Q&A: Double outlets on Foundations?](../../transcriptions/yt-SWdSlbaISog.md) [https://www.youtube.com/watch?v=SWdSlbaISog](https://www.youtube.com/watch?v=SWdSlbaISog)
+* [Q&A: Miner Mk.3?](../../transcriptions/yt-UgT26tXEdjU.md) [https://www.youtube.com/watch?v=UgT26tXEdjU](https://www.youtube.com/watch?v=UgT26tXEdjU)
+* [Snutt & Jace Talk: Making tapes for the Boombox](../../transcriptions/yt-FLONkwmDNlA.md) [https://www.youtube.com/watch?v=FLONkwmDNlA](https://www.youtube.com/watch?v=FLONkwmDNlA)
+
 ## September 27th, 2022 Livestream
 * [Q&A: Any plans for fixing AI putting you and your Vehicle into the skybox?](../../transcriptions/yt-3fFpU3tvqPs.md) [https://www.youtube.com/watch?v=3fFpU3tvqPs](https://www.youtube.com/watch?v=3fFpU3tvqPs)
 * [Q&A: Sound slider to make Spheres shut up?](../../transcriptions/yt-iJIYyp74vb0.md) [https://www.youtube.com/watch?v=iJIYyp74vb0](https://www.youtube.com/watch?v=iJIYyp74vb0)

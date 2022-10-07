@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Pending](../../../topics/satisfactory-updates/pending.md) > Satisfactory Update 7
 
+## October 4th, 2022 Livestream
+* [State of Dev](../../../transcriptions/yt-dniAHWqQ4FI.md) [https://www.youtube.com/watch?v=dniAHWqQ4FI](https://www.youtube.com/watch?v=dniAHWqQ4FI)
+* [Q&A: Is the rebalance scheduled for Update 7?](../../../transcriptions/yt-ipqk9BhPaY4.md) [https://www.youtube.com/watch?v=ipqk9BhPaY4](https://www.youtube.com/watch?v=ipqk9BhPaY4)
+* [Q&A: Is S.A.M. Ore going to be in Update 7?](../../../transcriptions/yt-8pjXFOtD4KI.md) [https://www.youtube.com/watch?v=8pjXFOtD4KI](https://www.youtube.com/watch?v=8pjXFOtD4KI)
+
 ## September 30th, 2022 Video
 * [What's going to be in Update 7](../../../transcriptions/yt-5Pz_dZbEx-4,373.00596666666667,404.3039.md) [https://youtube.com/embed/5Pz_dZbEx-4?autoplay=1&start=373&end=405](https://youtube.com/embed/5Pz_dZbEx-4?autoplay=1&start=373&end=405)
 * [To Be Continued](../../../transcriptions/yt-5Pz_dZbEx-4,404.33726666666666,414.614.md) [https://youtube.com/embed/5Pz_dZbEx-4?autoplay=1&start=404&end=415](https://youtube.com/embed/5Pz_dZbEx-4?autoplay=1&start=404&end=415)

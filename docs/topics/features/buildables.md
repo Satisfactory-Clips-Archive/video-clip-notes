@@ -22,6 +22,10 @@ date: Last Modified
 * [Walls](../../topics/features/buildables/walls.md)
 * [Windows](../../topics/features/buildables/windows.md)
 
+## October 4th, 2022 Livestream
+* [Q&A: Double outlets on Foundations?](../../transcriptions/yt-SWdSlbaISog.md) [https://www.youtube.com/watch?v=SWdSlbaISog](https://www.youtube.com/watch?v=SWdSlbaISog)
+* [Q&A: Snapping issues?](../../transcriptions/yt-afOHa8pv6l8.md) [https://www.youtube.com/watch?v=afOHa8pv6l8](https://www.youtube.com/watch?v=afOHa8pv6l8)
+
 ## September 27th, 2022 Livestream
 * [State of Dev](../../transcriptions/yt-MmzRTLolTgo.md) [https://www.youtube.com/watch?v=MmzRTLolTgo](https://www.youtube.com/watch?v=MmzRTLolTgo)
 * [Snutt Talk: Satisfactory- it makes no sense](../../transcriptions/yt-OWrxHS2wbWU.md) [https://www.youtube.com/watch?v=OWrxHS2wbWU](https://www.youtube.com/watch?v=OWrxHS2wbWU)
