@@ -9,7 +9,7 @@ topics:
 # [May 3rd, 2022 Livestream](../2022-05-03.md)
 ## Q&A: Do we have DLSS- if not, may we?
 https://www.youtube.com/watch?v=99SoH5ZXCO4
-This question was possibly duplicated with a more recent answer: [September 27th, 2022 Livestream Q&A: DLSS 3?](./yt-e5RgS7iEH8s.md) [https://www.youtube.com/watch?v=e5RgS7iEH8s](https://www.youtube.com/watch?v=e5RgS7iEH8s)
+This question was possibly duplicated with a more recent answer: [October 18th, 2022 Livestream Q&A: DLSS for Satisfactory?](./yt-ugj2T8du2zg.md) [https://www.youtube.com/watch?v=ugj2T8du2zg](https://www.youtube.com/watch?v=ugj2T8du2zg)
 
 
 ### Topics

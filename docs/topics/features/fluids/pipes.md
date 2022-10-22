@@ -5,6 +5,12 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Fluids](../../../topics/features/fluids.md) > Pipes
 
+## October 18th, 2022 Livestream
+* [Q&A: Mk.6 Conveyors & Mk.3 Pipes, when?](../../../transcriptions/yt-oMO-ZyChVVk.md) [https://www.youtube.com/watch?v=oMO-ZyChVVk](https://www.youtube.com/watch?v=oMO-ZyChVVk)
+* [Q&A: Are Pipes working correctly?](../../../transcriptions/yt-gPGdsMEHwm0.md) [https://www.youtube.com/watch?v=gPGdsMEHwm0](https://www.youtube.com/watch?v=gPGdsMEHwm0)
+* [Q&A: Smart Splitter for Pipes?](../../../transcriptions/yt-noGmb3tuVm4.md) [https://www.youtube.com/watch?v=noGmb3tuVm4](https://www.youtube.com/watch?v=noGmb3tuVm4)
+* [Community FYI: Pipes do not seem to be bound by logic](../../../transcriptions/yt-FxHg2pqAGp0.md) [https://www.youtube.com/watch?v=FxHg2pqAGp0](https://www.youtube.com/watch?v=FxHg2pqAGp0)
+
 ## September 20th, 2022 Update 6 Release Stream
 * More build pieces + Uzu interruption [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=3468&end=3630](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=3468&end=3630)
 * New Buildables [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=6329&end=6465](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=6329&end=6465)

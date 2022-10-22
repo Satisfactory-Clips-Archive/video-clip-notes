@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > Physics
 
+## October 18th, 2022 Livestream
+* [Community FYI: Pipes do not seem to be bound by logic](../../transcriptions/yt-FxHg2pqAGp0.md) [https://www.youtube.com/watch?v=FxHg2pqAGp0](https://www.youtube.com/watch?v=FxHg2pqAGp0)
+
 ## September 27th, 2022 Livestream
 * [Q&A: Any plans for fixing AI putting you and your Vehicle into the skybox?](../../transcriptions/yt-3fFpU3tvqPs.md) [https://www.youtube.com/watch?v=3fFpU3tvqPs](https://www.youtube.com/watch?v=3fFpU3tvqPs)
 * [Snutt Talk: Satisfactory- it makes no sense](../../transcriptions/yt-OWrxHS2wbWU.md) [https://www.youtube.com/watch?v=OWrxHS2wbWU](https://www.youtube.com/watch?v=OWrxHS2wbWU)

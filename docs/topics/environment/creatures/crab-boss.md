@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Creatures](../../../topics/environment/creatures.md) > Crab Boss
 
+## October 18th, 2022 Livestream
+* [Q&A: Giant Crab, when?](../../../transcriptions/yt-GumR-JVKtL0.md) [https://www.youtube.com/watch?v=GumR-JVKtL0](https://www.youtube.com/watch?v=GumR-JVKtL0)
+* [Q&A: Question from Zago; Can you fit a Resource Pressuriser on Melk's back?](../../../transcriptions/yt-jSL6n_tP1GY.md) [https://www.youtube.com/watch?v=jSL6n_tP1GY](https://www.youtube.com/watch?v=jSL6n_tP1GY)
+
 ## April 26th, 2022 Livestream
 * [State of Dave](../../../transcriptions/yt-komFyjm03kg.md) [https://www.youtube.com/watch?v=komFyjm03kg](https://www.youtube.com/watch?v=komFyjm03kg)
 

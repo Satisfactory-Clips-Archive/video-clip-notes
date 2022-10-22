@@ -9,7 +9,7 @@ topics:
 # [April 12th, 2022 Livestream](../2022-04-12.md)
 ## Q&A: Are you planning to implement DLSS/FSR?
 https://www.youtube.com/watch?v=m6GfDtkUlbQ
-This question was possibly duplicated with a more recent answer: [September 27th, 2022 Livestream Q&A: DLSS 3?](./yt-e5RgS7iEH8s.md) [https://www.youtube.com/watch?v=e5RgS7iEH8s](https://www.youtube.com/watch?v=e5RgS7iEH8s)
+This question was possibly duplicated with a more recent answer: [October 18th, 2022 Livestream Q&A: DLSS for Satisfactory?](./yt-ugj2T8du2zg.md) [https://www.youtube.com/watch?v=ugj2T8du2zg](https://www.youtube.com/watch?v=ugj2T8du2zg)
 
 
 ### Topics

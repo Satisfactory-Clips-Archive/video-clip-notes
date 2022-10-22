@@ -8,7 +8,7 @@ topics:
 # [March 29th, 2022 Livestream](../2022-03-29.md)
 ## Q&A: Any tentative timeline when the game would reach 1.0?
 https://www.youtube.com/watch?v=yuPw8-uL4NA
-This question was possibly duplicated with a more recent answer: [September 27th, 2022 Livestream Q&A: When is 1.0 going to be ready?](./yt-tCFcLdnSFrA.md) [https://www.youtube.com/watch?v=tCFcLdnSFrA](https://www.youtube.com/watch?v=tCFcLdnSFrA)
+This question was possibly duplicated with a more recent answer: [October 18th, 2022 Livestream Q&A: Are we getting close to 1.0?](./yt-RJdlDgWm94U.md) [https://www.youtube.com/watch?v=RJdlDgWm94U](https://www.youtube.com/watch?v=RJdlDgWm94U)
 
 
 ### Topics

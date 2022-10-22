@@ -5,6 +5,12 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Seasonal Events](../../../topics/satisfactory-updates/seasonal-events.md) > FICS⁕MAS
 
+## October 21st, 2022 Video
+* [FICSMAS 2022](../../../transcriptions/yt-rX7OpLCg0l8,580.5132666666667,609.9426666666667.md) [https://youtube.com/embed/rX7OpLCg0l8?autoplay=1&start=580&end=610](https://youtube.com/embed/rX7OpLCg0l8?autoplay=1&start=580&end=610)
+
+## October 18th, 2022 Livestream
+* [Q&A: FICSMAS?](../../../transcriptions/yt-loIp2bJMtkM.md) [https://www.youtube.com/watch?v=loIp2bJMtkM](https://www.youtube.com/watch?v=loIp2bJMtkM)
+
 ## September 27th, 2022 Livestream
 * [Q&A: FICSMAS coming back again this year?](../../../transcriptions/yt-dNokGhJWL30.md) [https://www.youtube.com/watch?v=dNokGhJWL30](https://www.youtube.com/watch?v=dNokGhJWL30)
 

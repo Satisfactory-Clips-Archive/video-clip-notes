@@ -30,6 +30,9 @@ date: Last Modified
 * [Unplanned Features](../topics/features/unplanned-features.md)
 * [Unreleased Features](../topics/features/unreleased-features.md)
 
+## October 21st, 2022 Video
+* [System improvements](../transcriptions/yt-rX7OpLCg0l8,166.53303333333335,192.192.md) [https://youtube.com/embed/rX7OpLCg0l8?autoplay=1&start=166&end=193](https://youtube.com/embed/rX7OpLCg0l8?autoplay=1&start=166&end=193)
+
 ## March 18th, 2022 Video
 * [Snutt & Jace Talk: The Home Page](../transcriptions/yt-VBGakEZilwk,63.1631,90.75733333333334.md) [https://youtube.com/clip/UgkxsWX2hWEg6Lf-IGbHys_3J4Zhjx4nNNKe](https://youtube.com/clip/UgkxsWX2hWEg6Lf-IGbHys_3J4Zhjx4nNNKe)
 

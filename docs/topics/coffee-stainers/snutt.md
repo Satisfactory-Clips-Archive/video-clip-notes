@@ -8,6 +8,10 @@ date: Last Modified
 * [Snutt Burger Time](../../topics/coffee-stainers/snutt/snutt-burger-time.md)
 * [Snutty Mays](../../topics/coffee-stainers/snutt/snutty-mays.md)
 
+## October 18th, 2022 Livestream
+* [Q&A: Snutt, is there something you'd like to ask us?](../../transcriptions/yt-AoI3-BT3uRo.md) [https://www.youtube.com/watch?v=AoI3-BT3uRo](https://www.youtube.com/watch?v=AoI3-BT3uRo)
+* [Q&A: Have you heard of Meshuggah?](../../transcriptions/yt-fs0tMTXJYXk.md) [https://www.youtube.com/watch?v=fs0tMTXJYXk](https://www.youtube.com/watch?v=fs0tMTXJYXk)
+
 ## October 4th, 2022 Livestream
 * [Snutt & Jace Talk: Making tapes for the Boombox](../../transcriptions/yt-FLONkwmDNlA.md) [https://www.youtube.com/watch?v=FLONkwmDNlA](https://www.youtube.com/watch?v=FLONkwmDNlA)
 * [Snutt & Jace Talk: Community Manager guest-lecturing](../../transcriptions/yt-NNP0sbdCA5k.md) [https://www.youtube.com/watch?v=NNP0sbdCA5k](https://www.youtube.com/watch?v=NNP0sbdCA5k)

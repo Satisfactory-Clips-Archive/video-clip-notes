@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > Seasonal Events
 * [FICS⁕MAS](../../topics/satisfactory-updates/seasonal-events/fics-mas.md)
 
+## October 18th, 2022 Livestream
+* [Q&A: Halloween event?](../../transcriptions/yt-TlhD_aEbxbM.md) [https://www.youtube.com/watch?v=TlhD_aEbxbM](https://www.youtube.com/watch?v=TlhD_aEbxbM)
+
 ## September 27th, 2022 Livestream
 * [Q&A: Halloween update?](../../transcriptions/yt-2XE9Wx-qajo.md) [https://www.youtube.com/watch?v=2XE9Wx-qajo](https://www.youtube.com/watch?v=2XE9Wx-qajo)
 

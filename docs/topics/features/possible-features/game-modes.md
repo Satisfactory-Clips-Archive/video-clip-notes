@@ -8,6 +8,14 @@ date: Last Modified
 * [Creative Mode](../../../topics/features/possible-features/game-modes/creative-mode.md)
 * [Peaceful Mode](../../../topics/features/possible-features/game-modes/peaceful-mode.md)
 
+## October 21st, 2022 Video
+* [Other Game Modes](../../../transcriptions/yt-rX7OpLCg0l8,330.89723333333336,356.78976666666665.md) [https://youtube.com/embed/rX7OpLCg0l8?autoplay=1&start=330&end=357](https://youtube.com/embed/rX7OpLCg0l8?autoplay=1&start=330&end=357)
+* [Settings](../../../transcriptions/yt-rX7OpLCg0l8,356.8231333333333,364.7644.md) [https://youtube.com/embed/rX7OpLCg0l8?autoplay=1&start=356&end=365](https://youtube.com/embed/rX7OpLCg0l8?autoplay=1&start=356&end=365)
+
+## October 18th, 2022 Livestream
+* [Q&A: Prestige Mode?](../../../transcriptions/yt-RnnedKnQA2g.md) [https://www.youtube.com/watch?v=RnnedKnQA2g](https://www.youtube.com/watch?v=RnnedKnQA2g)
+* [Q&A: Option to unlock all the Alt Recipe research from world start?](../../../transcriptions/yt-hdIGlcoQBO0.md) [https://www.youtube.com/watch?v=hdIGlcoQBO0](https://www.youtube.com/watch?v=hdIGlcoQBO0)
+
 ## September 13th, 2022 Livestream
 * [Q&A: Random Recipes?](../../../transcriptions/yt-sXVq0fQ3EhE.md) [https://www.youtube.com/watch?v=sXVq0fQ3EhE](https://www.youtube.com/watch?v=sXVq0fQ3EhE)
 

@@ -5,6 +5,13 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Pending](../../../topics/satisfactory-updates/pending.md) > Satisfactory 1.0
 
+## October 21st, 2022 Video
+* [1.0 Mystery Box](../../../transcriptions/yt-rX7OpLCg0l8,58.525133333333336,97.83106666666667.md) [https://youtube.com/embed/rX7OpLCg0l8?autoplay=1&start=58&end=98](https://youtube.com/embed/rX7OpLCg0l8?autoplay=1&start=58&end=98)
+
+## October 18th, 2022 Livestream
+* [Q&A: Any Updates to the Trains coming before 1.0?](../../../transcriptions/yt-NUIgfWrd9yI.md) [https://www.youtube.com/watch?v=NUIgfWrd9yI](https://www.youtube.com/watch?v=NUIgfWrd9yI)
+* [Q&A: Are we getting close to 1.0?](../../../transcriptions/yt-RJdlDgWm94U.md) [https://www.youtube.com/watch?v=RJdlDgWm94U](https://www.youtube.com/watch?v=RJdlDgWm94U)
+
 ## September 30th, 2022 Video
 * [Shifting focus to reach 1.0](../../../transcriptions/yt-5Pz_dZbEx-4,414.64756666666665,442.442.md) [https://youtube.com/embed/5Pz_dZbEx-4?autoplay=1&start=414&end=443](https://youtube.com/embed/5Pz_dZbEx-4?autoplay=1&start=414&end=443)
 

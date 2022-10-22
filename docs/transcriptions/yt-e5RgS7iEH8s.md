@@ -8,14 +8,7 @@ topics:
 # [September 27th, 2022 Livestream](../2022-09-27.md)
 ## Q&A: DLSS 3?
 https://www.youtube.com/watch?v=e5RgS7iEH8s
-<details>
-<summary>This question may have been asked previously at least 4 other times, as recently as July 2022 and as early as April 2022.</summary>
-
-* [July 12th, 2022 Livestream Q&A: DLSS coming?](./yt-HhhszNFilFY.md) [https://www.youtube.com/watch?v=HhhszNFilFY](https://www.youtube.com/watch?v=HhhszNFilFY)
-* June 28th, 2022 Livestream Q&A: DLSS? [https://www.youtube.com/watch?v=inVzZQ99Acs](https://www.youtube.com/watch?v=inVzZQ99Acs)
-* [May 3rd, 2022 Livestream Q&A: Do we have DLSS- if not, may we?](./yt-99SoH5ZXCO4.md) [https://www.youtube.com/watch?v=99SoH5ZXCO4](https://www.youtube.com/watch?v=99SoH5ZXCO4)
-* [April 12th, 2022 Livestream Q&A: Are you planning to implement DLSS/FSR?](./yt-m6GfDtkUlbQ.md) [https://www.youtube.com/watch?v=m6GfDtkUlbQ](https://www.youtube.com/watch?v=m6GfDtkUlbQ)
-</details>
+This question was possibly duplicated with a more recent answer: [October 18th, 2022 Livestream Q&A: DLSS for Satisfactory?](./yt-ugj2T8du2zg.md) [https://www.youtube.com/watch?v=ugj2T8du2zg](https://www.youtube.com/watch?v=ugj2T8du2zg)
 
 
 ### Topics

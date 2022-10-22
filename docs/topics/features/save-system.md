@@ -7,6 +7,9 @@ date: Last Modified
 * [Autosave](../../topics/features/save-system/autosave.md)
 * [Cloud Sync](../../topics/features/save-system/cloud-sync.md)
 
+## October 18th, 2022 Livestream
+* [Snutt Talk: Responding to Twitch chat's obsession with toilets](../../transcriptions/yt-ww-xu_ttMCU.md) [https://www.youtube.com/watch?v=ww-xu_ttMCU](https://www.youtube.com/watch?v=ww-xu_ttMCU)
+
 ## September 20th, 2022 Update 6 Release Stream
 * Backup Your Damn Save Files [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=6928&end=7179](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=6928&end=7179)
 

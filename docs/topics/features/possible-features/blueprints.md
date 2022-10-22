@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Possible Features](../../../topics/features/possible-features.md) > Blueprints
 
+## October 18th, 2022 Livestream
+* [Q&A: Any plans to make building big, repetitive factories simpler/easier for the game?](../../../transcriptions/yt-FcLTq4WDPQE.md) [https://www.youtube.com/watch?v=FcLTq4WDPQE](https://www.youtube.com/watch?v=FcLTq4WDPQE)
+* [Q&A: Any plans for Blueprints?](../../../transcriptions/yt-NyqKc1tJojM.md) [https://www.youtube.com/watch?v=NyqKc1tJojM](https://www.youtube.com/watch?v=NyqKc1tJojM)
+
 ## September 6th, 2022 Livestream
 * [Q&A: Terrain manipulation?](../../../transcriptions/yt-OT5C5s89JyY.md) [https://www.youtube.com/watch?v=OT5C5s89JyY](https://www.youtube.com/watch?v=OT5C5s89JyY)
 

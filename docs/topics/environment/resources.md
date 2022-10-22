@@ -14,6 +14,9 @@ date: Last Modified
 * [Steel](../../topics/environment/resources/steel.md)
 * [Water](../../topics/environment/resources/water.md)
 
+## October 21st, 2022 Video
+* [AWESOME Sink](../../transcriptions/yt-rX7OpLCg0l8,482.74893333333335,518.6848333333334.md) [https://youtube.com/embed/rX7OpLCg0l8?autoplay=1&start=482&end=519](https://youtube.com/embed/rX7OpLCg0l8?autoplay=1&start=482&end=519)
+
 ## September 27th, 2022 Livestream
 * [Q&A: Do you have metrics on where the least-used Resource node in the game is?](../../transcriptions/yt-As2wr9TizHs.md) [https://www.youtube.com/watch?v=As2wr9TizHs](https://www.youtube.com/watch?v=As2wr9TizHs)
 

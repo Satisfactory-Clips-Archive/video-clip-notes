@@ -41,6 +41,9 @@ date: Last Modified
 * [Torsten](../topics/coffee-stainers/torsten.md)
 * [Uzu](../topics/coffee-stainers/uzu.md)
 
+## October 18th, 2022 Livestream
+* [Q&A: How's the morale ?](../transcriptions/yt-HhRDshIXuUI.md) [https://www.youtube.com/watch?v=HhRDshIXuUI](https://www.youtube.com/watch?v=HhRDshIXuUI)
+
 ## September 27th, 2022 Livestream
 * [Q&A: What happens with staff when 1.0 comes out?](../transcriptions/yt-3qwBTHuBu4M.md) [https://www.youtube.com/watch?v=3qwBTHuBu4M](https://www.youtube.com/watch?v=3qwBTHuBu4M)
 

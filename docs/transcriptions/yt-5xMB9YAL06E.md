@@ -8,7 +8,7 @@ topics:
 # [August 31st, 2021 Livestream](../2021-08-31.md)
 ## Q&A: Does Satisfactory make use of multiple cores?
 https://www.youtube.com/watch?v=5xMB9YAL06E
-This question was possibly duplicated with a more recent answer: [September 6th, 2022 Livestream Q&A: Can the game utilise cores more?](./yt-YeQ2gCzubKQ.md) [https://www.youtube.com/watch?v=YeQ2gCzubKQ](https://www.youtube.com/watch?v=YeQ2gCzubKQ)
+This question was possibly duplicated with a more recent answer: [October 18th, 2022 Livestream Q&A: Does it support multiple cores well?](./yt-7hyn0Ga2fKM.md) [https://www.youtube.com/watch?v=7hyn0Ga2fKM](https://www.youtube.com/watch?v=7hyn0Ga2fKM)
 
 
 ### Topics

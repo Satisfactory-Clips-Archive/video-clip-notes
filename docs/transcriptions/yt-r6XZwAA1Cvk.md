@@ -8,11 +8,7 @@ topics:
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: Will there be a rocket to leave the planet?
 https://www.youtube.com/watch?v=r6XZwAA1Cvk
-<details>
-<summary>This question may have been asked previously at least 1 other time, as recently as February 2019.</summary>
-
-* [February 20th, 2019 Livestream Q&A: What's the rocket gonna look like inside & outside?](./yt-CB9bSigNYH8,2796.809704,2806.025515.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=2796&end=2807](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=2796&end=2807)
-</details>
+This question was possibly duplicated with a more recent answer: [October 18th, 2022 Livestream Q&A: Rockets to other planets?](./yt-JWWjHNSxKEs.md) [https://www.youtube.com/watch?v=JWWjHNSxKEs](https://www.youtube.com/watch?v=JWWjHNSxKEs)
 
 
 ### Topics

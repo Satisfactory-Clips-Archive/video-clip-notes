@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > Transportation > [Trains](../../../../topics/features/transportation/trains.md) > Train Signals
 
+## October 18th, 2022 Livestream
+* [Q&A: Can you fix the Train switches?](../../../../transcriptions/yt-JFU5ivV0BPc.md) [https://www.youtube.com/watch?v=JFU5ivV0BPc](https://www.youtube.com/watch?v=JFU5ivV0BPc)
+
 ## June 7th, 2022 Livestream
 * [Q&A: Train Pathing fix?](../../../../transcriptions/yt-lFhd8pqpyPY.md) [https://www.youtube.com/watch?v=lFhd8pqpyPY](https://www.youtube.com/watch?v=lFhd8pqpyPY)
 

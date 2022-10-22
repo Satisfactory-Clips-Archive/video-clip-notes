@@ -10,7 +10,7 @@ topics:
 # [January 18th, 2022 Livestream](../2022-01-18.md)
 ## Q&A: Any plans for DLC & cosmetic purchases?
 https://www.youtube.com/watch?v=pvWgfvIrHDA
-This question was possibly duplicated with a more recent answer: [March 1st, 2022 Livestream Q&A: Any DLC/expansions planned, or just more free stuff?](./yt-B5iDfRbSD-o.md) [https://www.youtube.com/watch?v=B5iDfRbSD-o](https://www.youtube.com/watch?v=B5iDfRbSD-o)
+This question was possibly duplicated with a more recent answer: [October 18th, 2022 Livestream Q&A: Do you guys want to release DLC?](./yt-SXCLbwPIp7k.md) [https://www.youtube.com/watch?v=SXCLbwPIp7k](https://www.youtube.com/watch?v=SXCLbwPIp7k)
 
 
 ### Topics

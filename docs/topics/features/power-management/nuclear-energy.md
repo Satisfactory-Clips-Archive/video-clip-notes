@@ -7,6 +7,9 @@ date: Last Modified
 * [Nuclear Refinement](../../../topics/features/power-management/nuclear-energy/nuclear-refinement.md)
 * [Nuclear Waste](../../../topics/features/power-management/nuclear-energy/nuclear-waste.md)
 
+## October 21st, 2022 Video
+* [Nuclear Power Plant](../../../transcriptions/yt-rX7OpLCg0l8,451.05060000000003,482.7155666666667.md) [https://youtube.com/embed/rX7OpLCg0l8?autoplay=1&start=451&end=483](https://youtube.com/embed/rX7OpLCg0l8?autoplay=1&start=451&end=483)
+
 ## August 30th, 2022 Livestream
 * [Q&A: Will you change the Uranium Fuel Rod Recipe using Beacons in Update 6?](../../../transcriptions/yt-SmzRbZ6_0CM.md) [https://www.youtube.com/watch?v=SmzRbZ6_0CM](https://www.youtube.com/watch?v=SmzRbZ6_0CM)
 

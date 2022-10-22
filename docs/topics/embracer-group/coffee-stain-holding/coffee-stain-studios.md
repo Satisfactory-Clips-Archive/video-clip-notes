@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Embracer Group](../../../topics/embracer-group.md) > Coffee Stain Holding > Coffee Stain Studios
 
+## October 18th, 2022 Livestream
+* [Q&A: How's the morale ?](../../../transcriptions/yt-HhRDshIXuUI.md) [https://www.youtube.com/watch?v=HhRDshIXuUI](https://www.youtube.com/watch?v=HhRDshIXuUI)
+
 ## September 27th, 2022 Livestream
 * [Q&A: Unusual Satis Merch that you'd like to see from Coffee Stain or Heroic Replicas?](../../../transcriptions/yt-CHwWm33_rRQ.md) [https://www.youtube.com/watch?v=CHwWm33_rRQ](https://www.youtube.com/watch?v=CHwWm33_rRQ)
 

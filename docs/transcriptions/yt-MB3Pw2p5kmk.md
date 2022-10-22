@@ -9,7 +9,7 @@ topics:
 # [April 26th, 2022 Livestream](../2022-04-26.md)
 ## Q&A: Can we destroy completed Crash Sites?
 https://www.youtube.com/watch?v=MB3Pw2p5kmk
-This question was possibly duplicated with a more recent answer: [September 27th, 2022 Livestream Q&A: Do you think we'll ever be able to deconstruct Crash Sites after we open them?](./yt-0WYkl46KZLM.md) [https://www.youtube.com/watch?v=0WYkl46KZLM](https://www.youtube.com/watch?v=0WYkl46KZLM)
+This question was possibly duplicated with a more recent answer: [October 18th, 2022 Livestream Q&A: Way to turn off Crash Site beacons?](./yt-whh7CB8Kq3k.md) [https://www.youtube.com/watch?v=whh7CB8Kq3k](https://www.youtube.com/watch?v=whh7CB8Kq3k)
 
 
 ### Topics

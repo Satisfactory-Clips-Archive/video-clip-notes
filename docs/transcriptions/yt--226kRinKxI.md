@@ -9,7 +9,7 @@ topics:
 # [September 28th, 2021 Livestream](../2021-09-28.md)
 ## Q&A: Any new Halloween easter eggs ?
 https://www.youtube.com/watch?v=-226kRinKxI
-This question was possibly duplicated with a more recent answer: [September 27th, 2022 Livestream Q&A: Halloween update?](./yt-2XE9Wx-qajo.md) [https://www.youtube.com/watch?v=2XE9Wx-qajo](https://www.youtube.com/watch?v=2XE9Wx-qajo)
+This question was possibly duplicated with a more recent answer: [October 18th, 2022 Livestream Q&A: Halloween event?](./yt-TlhD_aEbxbM.md) [https://www.youtube.com/watch?v=TlhD_aEbxbM](https://www.youtube.com/watch?v=TlhD_aEbxbM)
 
 
 ### Topics

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Features](../../topics/features.md) > Pioneer
 
+## October 18th, 2022 Livestream
+* [Q&A: Will there ever be a way to spawn at different locations than the HUB?](../../transcriptions/yt-y8-Dx1rqNLQ.md) [https://www.youtube.com/watch?v=y8-Dx1rqNLQ](https://www.youtube.com/watch?v=y8-Dx1rqNLQ)
+
 ## September 27th, 2022 Livestream
 * [Q&A: Can sleeping be added?](../../transcriptions/yt-f57Lrnspk10.md) [https://www.youtube.com/watch?v=f57Lrnspk10](https://www.youtube.com/watch?v=f57Lrnspk10)
 * [Q&A: I often play offline, is there a way to avoid making a clone and losing my hotbar settings?](../../transcriptions/yt-TCZqU49CkIQ.md) [https://www.youtube.com/watch?v=TCZqU49CkIQ](https://www.youtube.com/watch?v=TCZqU49CkIQ)

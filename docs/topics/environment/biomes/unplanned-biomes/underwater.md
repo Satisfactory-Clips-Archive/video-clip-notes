@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Environment](../../../../topics/environment.md) > [Biomes](../../../../topics/environment/biomes.md) > Unplanned Biomes > Underwater
 
+## October 18th, 2022 Livestream
+* [Q&A: Is Underwater building planned?](../../../../transcriptions/yt-Y-A84iQXzxU.md) [https://www.youtube.com/watch?v=Y-A84iQXzxU](https://www.youtube.com/watch?v=Y-A84iQXzxU)
+
 ## July 12th, 2022 Livestream
 * [Q&A: Is that Underwater builder?](../../../../transcriptions/yt-VU_zSn-pgzM.md) [https://www.youtube.com/watch?v=VU_zSn-pgzM](https://www.youtube.com/watch?v=VU_zSn-pgzM)
 

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Environment](../../topics/environment.md) > World Map
 
+## October 18th, 2022 Livestream
+* [Q&A: Expand the Map?](../../transcriptions/yt-ZGvf0o0P1HU.md) [https://www.youtube.com/watch?v=ZGvf0o0P1HU](https://www.youtube.com/watch?v=ZGvf0o0P1HU)
+
 ## September 13th, 2022 Livestream
 * [Q&A: Custom Map support?](../../transcriptions/yt-iKLjt35zvEU.md) [https://www.youtube.com/watch?v=iKLjt35zvEU](https://www.youtube.com/watch?v=iKLjt35zvEU)
 

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Unplanned Features](../../../topics/features/unplanned-features.md) > Mass Building
 
+## October 18th, 2022 Livestream
+* [Q&A: Any plans to make building big, repetitive factories simpler/easier for the game?](../../../transcriptions/yt-FcLTq4WDPQE.md) [https://www.youtube.com/watch?v=FcLTq4WDPQE](https://www.youtube.com/watch?v=FcLTq4WDPQE)
+
 ## March 8th, 2022 Livestream
 * [Q&A: Will you ever add a copy & paste function for factory Buildings?](../../../transcriptions/yt-ldx3rMaaM2c.md) [https://www.youtube.com/watch?v=ldx3rMaaM2c](https://www.youtube.com/watch?v=ldx3rMaaM2c)
 

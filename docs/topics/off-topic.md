@@ -25,6 +25,10 @@ date: Last Modified
 * [The Lord of the Rings](../topics/off-topic/the-lord-of-the-rings.md)
 * [Valheim](../topics/off-topic/valheim.md)
 
+## October 18th, 2022 Livestream
+* [Snutt Talk: Annoying notifications](../transcriptions/yt-0rXMd5VDIPQ.md) [https://www.youtube.com/watch?v=0rXMd5VDIPQ](https://www.youtube.com/watch?v=0rXMd5VDIPQ)
+* [Q&A: What about a game is copyrightable?](../transcriptions/yt-1BmxMZ7dbpQ.md) [https://www.youtube.com/watch?v=1BmxMZ7dbpQ](https://www.youtube.com/watch?v=1BmxMZ7dbpQ)
+
 ## September 27th, 2022 Livestream
 * [Snutt talk: Spaceballs](../transcriptions/yt-xKL6EgOifH8.md) [https://www.youtube.com/watch?v=xKL6EgOifH8](https://www.youtube.com/watch?v=xKL6EgOifH8)
 

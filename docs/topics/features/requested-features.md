@@ -10,6 +10,22 @@ date: Last Modified
 * [Pollution](../../topics/features/requested-features/pollution.md)
 * [Third-person View](../../topics/features/requested-features/third-person-view.md)
 
+## October 18th, 2022 Livestream
+* [Q&A: Prestige Mode?](../../transcriptions/yt-RnnedKnQA2g.md) [https://www.youtube.com/watch?v=RnnedKnQA2g](https://www.youtube.com/watch?v=RnnedKnQA2g)
+* [Q&A: Tell me there's more Buildings & high-level stuff to make?](../../transcriptions/yt-DBIkWUDxdIk.md) [https://www.youtube.com/watch?v=DBIkWUDxdIk](https://www.youtube.com/watch?v=DBIkWUDxdIk)
+* [Q&A: Stationary 3d Printer in the HUB where the MAM used to be?](../../transcriptions/yt-57kyBmolr1A.md) [https://www.youtube.com/watch?v=57kyBmolr1A](https://www.youtube.com/watch?v=57kyBmolr1A)
+* [Snutt Talk: Responding to Twitch chat's obsession with toilets](../../transcriptions/yt-ww-xu_ttMCU.md) [https://www.youtube.com/watch?v=ww-xu_ttMCU](https://www.youtube.com/watch?v=ww-xu_ttMCU)
+* [Q&A: Way to turn off Crash Site beacons?](../../transcriptions/yt-whh7CB8Kq3k.md) [https://www.youtube.com/watch?v=whh7CB8Kq3k](https://www.youtube.com/watch?v=whh7CB8Kq3k)
+* [Q&A: Option to unlock all the Alt Recipe research from world start?](../../transcriptions/yt-hdIGlcoQBO0.md) [https://www.youtube.com/watch?v=hdIGlcoQBO0](https://www.youtube.com/watch?v=hdIGlcoQBO0)
+* [Q&A: Expand the Map?](../../transcriptions/yt-ZGvf0o0P1HU.md) [https://www.youtube.com/watch?v=ZGvf0o0P1HU](https://www.youtube.com/watch?v=ZGvf0o0P1HU)
+* [Q&A: Will there ever be a way to spawn at different locations than the HUB?](../../transcriptions/yt-y8-Dx1rqNLQ.md) [https://www.youtube.com/watch?v=y8-Dx1rqNLQ](https://www.youtube.com/watch?v=y8-Dx1rqNLQ)
+* [Q&A: Why no mouse-steering of Vehicles?](../../transcriptions/yt-4C9CnSEIL4I.md) [https://www.youtube.com/watch?v=4C9CnSEIL4I](https://www.youtube.com/watch?v=4C9CnSEIL4I)
+* [Q&A: Will we get more Conveyor Wall options?](../../transcriptions/yt-2NGmkNfEdj8.md) [https://www.youtube.com/watch?v=2NGmkNfEdj8](https://www.youtube.com/watch?v=2NGmkNfEdj8)
+* [Q&A: Will there be an option on Signs to make them blink?](../../transcriptions/yt-doeMXaEW3cE.md) [https://www.youtube.com/watch?v=doeMXaEW3cE](https://www.youtube.com/watch?v=doeMXaEW3cE)
+* [Q&A: Smart Splitter for Pipes?](../../transcriptions/yt-noGmb3tuVm4.md) [https://www.youtube.com/watch?v=noGmb3tuVm4](https://www.youtube.com/watch?v=noGmb3tuVm4)
+* [Q&A: Make the Jetpack not consume fuel when you're close to a Wall or cliff?](../../transcriptions/yt-5Lx1mLUipiY.md) [https://www.youtube.com/watch?v=5Lx1mLUipiY](https://www.youtube.com/watch?v=5Lx1mLUipiY)
+* [Q&A: Z-fighting resolved in Update 7?](../../transcriptions/yt-pXfB87_h8BQ.md) [https://www.youtube.com/watch?v=pXfB87_h8BQ](https://www.youtube.com/watch?v=pXfB87_h8BQ)
+
 ## October 4th, 2022 Livestream
 * [State of Dev](../../transcriptions/yt-dniAHWqQ4FI.md) [https://www.youtube.com/watch?v=dniAHWqQ4FI](https://www.youtube.com/watch?v=dniAHWqQ4FI)
 * [Q&A: Double outlets on Foundations?](../../transcriptions/yt-SWdSlbaISog.md) [https://www.youtube.com/watch?v=SWdSlbaISog](https://www.youtube.com/watch?v=SWdSlbaISog)

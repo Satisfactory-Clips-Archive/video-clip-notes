@@ -14,6 +14,9 @@ date: Last Modified
 * [User Interface](../topics/technology/user-interface.md)
 * [Vulkan](../topics/technology/vulkan.md)
 
+## October 18th, 2022 Livestream
+* [Q&A: Does it support multiple cores well?](../transcriptions/yt-7hyn0Ga2fKM.md) [https://www.youtube.com/watch?v=7hyn0Ga2fKM](https://www.youtube.com/watch?v=7hyn0Ga2fKM)
+
 ## September 27th, 2022 Livestream
 * [Q&A: How many Conveyor Belts does it take to crash a graphics card?](../transcriptions/yt-TNiyjAw6-uI.md) [https://www.youtube.com/watch?v=TNiyjAw6-uI](https://www.youtube.com/watch?v=TNiyjAw6-uI)
 

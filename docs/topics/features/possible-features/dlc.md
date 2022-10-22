@@ -7,6 +7,9 @@ date: Last Modified
 * [Flushable Toilet DLC](../../../topics/features/possible-features/dlc/flushable-toilet-dlc.md)
 * [Toilet Paper DLC](../../../topics/features/possible-features/dlc/toilet-paper-dlc.md)
 
+## October 18th, 2022 Livestream
+* [Q&A: Do you guys want to release DLC?](../../../transcriptions/yt-SXCLbwPIp7k.md) [https://www.youtube.com/watch?v=SXCLbwPIp7k](https://www.youtube.com/watch?v=SXCLbwPIp7k)
+
 ## September 13th, 2022 Livestream
 * [Q&A: Where's the Golf Course DLC?](../../../transcriptions/yt-9Jd5xIwEGhY.md) [https://www.youtube.com/watch?v=9Jd5xIwEGhY](https://www.youtube.com/watch?v=9Jd5xIwEGhY)
 

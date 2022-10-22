@@ -12,6 +12,9 @@ date: Last Modified
 * [Tractor](../../../topics/features/transportation/vehicles/tractor.md)
 * [Truck](../../../topics/features/transportation/vehicles/truck.md)
 
+## October 18th, 2022 Livestream
+* [Q&A: Why no mouse-steering of Vehicles?](../../../transcriptions/yt-4C9CnSEIL4I.md) [https://www.youtube.com/watch?v=4C9CnSEIL4I](https://www.youtube.com/watch?v=4C9CnSEIL4I)
+
 ## September 27th, 2022 Livestream
 * [Q&A: Any water-based transportation?](../../../transcriptions/yt--JCOYgL3nlI.md) [https://www.youtube.com/watch?v=-JCOYgL3nlI](https://www.youtube.com/watch?v=-JCOYgL3nlI)
 

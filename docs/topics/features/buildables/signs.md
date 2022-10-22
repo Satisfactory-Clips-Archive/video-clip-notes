@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildables](../../../topics/features/buildables.md) > Signs
 
+## October 18th, 2022 Livestream
+* [Q&A: Will there be an option on Signs to make them blink?](../../../transcriptions/yt-doeMXaEW3cE.md) [https://www.youtube.com/watch?v=doeMXaEW3cE](https://www.youtube.com/watch?v=doeMXaEW3cE)
+
 ## September 20th, 2022 Update 6 Release Stream
 * Sign improvements [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=6501&end=6520](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=6501&end=6520)
 

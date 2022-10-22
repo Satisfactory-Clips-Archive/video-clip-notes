@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Unplanned Features](../../../topics/features/unplanned-features.md) > Space Exploration
 
+## October 18th, 2022 Livestream
+* [Q&A: Rockets to other planets?](../../../transcriptions/yt-JWWjHNSxKEs.md) [https://www.youtube.com/watch?v=JWWjHNSxKEs](https://www.youtube.com/watch?v=JWWjHNSxKEs)
+
 ## September 13th, 2022 Livestream
 * [Q&A: Just saw the moon for the first time, can I go there?](../../../transcriptions/yt-V43r2XBqa6I.md) [https://www.youtube.com/watch?v=V43r2XBqa6I](https://www.youtube.com/watch?v=V43r2XBqa6I)
 

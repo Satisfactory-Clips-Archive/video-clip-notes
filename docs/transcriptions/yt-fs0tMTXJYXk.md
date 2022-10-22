@@ -1,0 +1,19 @@
+---
+title: "October 18th, 2022 Livestream Q&A: Have you heard of Meshuggah?"
+date: "2022-10-18"
+layout: transcript
+topics:
+    - "coffee-stainers/snutt"
+    - "off-topic/sweden"
+---
+# [October 18th, 2022 Livestream](../2022-10-18.md)
+## Q&A: Have you heard of Meshuggah?
+https://www.youtube.com/watch?v=fs0tMTXJYXk
+
+### Topics
+* [Coffee Stainers > Snutt](../topics/coffee-stainers/snutt.md)
+* [Off-Topic > Sweden](../topics/off-topic/sweden.md)
+
+### Transcript
+
+> have you heard of Meshuggah of course I've heard of ashuga what are you talking about I've met mashoga I used to, I used to work for I used to work as a photographer and one of my like biggest clients was a is a musician who works with a lot of different Swedish bands so through him I've had this amazing opportunity to meet all these cool people in Sweden that make music and play in in bands such as and from Ashoka so, yeah pretty sweet so yes I know of meshuga one other fun fact about Meshuggah by the way I don't know why this clicked in my memory but my when I started at Uni my Handler when I was doing my thesis found out that I like michiga and this guy is like so my this professor I think was a professor he was very analytical and he really loved Meshuggah so I would get these like pages of of like him analyzing why he liked meshuga so much and he would send this in like along with like notes on my thesis so he like two or three sentences about like, you shouldn't write it this way because it can be interpreted as blah blah blah and it would be interesting and it also included some reasoning behind your your your why you chose this method when you were analyzing this part and and so that's like a part of the male and then the rest of the email would just be like by the way I don't know if you you listen to the recent mashoga album that came out I really liked it especially track blah blah because and then we just go on and on and on and on and it's amazing I love that so much we would have these heated discussions whenever I was like in his office go over our time and just talk about Michelle, Good Times two I met Sabaton but I don't I'm not I'm not a huge Sabaton fan I'm gonna be honest here, what were your thesis topics so my thesis topic was about, my my bachelor was on action design research which is a like research method so my thesis was about that being applied into like, a use case and our use case was we were we we made a A system that would analyze car accidents and it would create root tree analysis on them so if you have like a car accidents then you take all every time there's a car accident in Sweden and Europe they collect a bunch of data or surrounding the car accident and so they take like stuff like if if it was windy was there raining, was there like what was the surface like what kind of cars were involved, what kind of people were involved, were drugs involved like you know all that data and what we essentially did we we took all that data and they have like a for like they have this analysis method where they create root cause analysis from that and the software would take that and and create that automatically for them and visualize it for them and but our thesis was about applying action design research on that use case so it was like a meta kind of situation we were very ambitious, and I never finished my masters because I never finished my master because I started doing Game Dev instead, so do Swedish schools do normal four-year no so it's for three years so if you do a bachelor it's three years and then you have two more if you go to Masters and then above that it's, yeah Masters is five collectively you don't do three years plus five and then you do doctorate and that's five years or seven years I can't remember, so yes I don't have a background in Game Dev I have a background in computer science

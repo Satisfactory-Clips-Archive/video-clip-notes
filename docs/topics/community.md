@@ -26,6 +26,10 @@ date: Last Modified
 * [Vilsol](../topics/community/vilsol.md)
 * [Wiki](../topics/community/wiki.md)
 
+## October 18th, 2022 Livestream
+* [Snutt Talk: Responding to Twitch chat's obsession with toilets](../transcriptions/yt-ww-xu_ttMCU.md) [https://www.youtube.com/watch?v=ww-xu_ttMCU](https://www.youtube.com/watch?v=ww-xu_ttMCU)
+* [Q&A: Snutt, is there something you'd like to ask us?](../transcriptions/yt-AoI3-BT3uRo.md) [https://www.youtube.com/watch?v=AoI3-BT3uRo](https://www.youtube.com/watch?v=AoI3-BT3uRo)
+
 ## September 27th, 2022 Livestream
 * [Q&A: How tall is Snutt?](../transcriptions/yt-w8Lh9QUNJyY.md) [https://www.youtube.com/watch?v=w8Lh9QUNJyY](https://www.youtube.com/watch?v=w8Lh9QUNJyY)
 * [Snutt & Jace Talk: 200k subscribers on /r/SatisfactoryGame](../transcriptions/yt-P7BmI_10jLs.md) [https://www.youtube.com/watch?v=P7BmI_10jLs](https://www.youtube.com/watch?v=P7BmI_10jLs)

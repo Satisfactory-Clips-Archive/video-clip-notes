@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Fluids](../../../topics/features/fluids.md) > Valves
 
+## October 18th, 2022 Livestream
+* [Q&A: Smart Splitter for Pipes?](../../../transcriptions/yt-noGmb3tuVm4.md) [https://www.youtube.com/watch?v=noGmb3tuVm4](https://www.youtube.com/watch?v=noGmb3tuVm4)
+
 ## July 5th, 2022 Livestream
 * [Q&A: Will we get something to prevent backflow in Pipes?](../../../transcriptions/yt-pe-GUDhaxOY.md) [https://www.youtube.com/watch?v=pe-GUDhaxOY](https://www.youtube.com/watch?v=pe-GUDhaxOY)
 

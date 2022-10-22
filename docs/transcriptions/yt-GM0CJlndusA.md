@@ -8,7 +8,7 @@ topics:
 # [August 23rd, 2022 Livestream](../2022-08-23.md)
 ## Q&A: Is the plan still for 2022 release?
 https://www.youtube.com/watch?v=GM0CJlndusA
-This question was possibly duplicated with a more recent answer: [September 27th, 2022 Livestream Q&A: When is 1.0 going to be ready?](./yt-tCFcLdnSFrA.md) [https://www.youtube.com/watch?v=tCFcLdnSFrA](https://www.youtube.com/watch?v=tCFcLdnSFrA)
+This question was possibly duplicated with a more recent answer: [October 18th, 2022 Livestream Q&A: Are we getting close to 1.0?](./yt-RJdlDgWm94U.md) [https://www.youtube.com/watch?v=RJdlDgWm94U](https://www.youtube.com/watch?v=RJdlDgWm94U)
 
 
 ### Topics

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > [Possible Features](../../../../topics/features/possible-features.md) > [DLC](../../../../topics/features/possible-features/dlc.md) > Flushable Toilet DLC
 
+## October 18th, 2022 Livestream
+* [Snutt Talk: Responding to Twitch chat's obsession with toilets](../../../../transcriptions/yt-ww-xu_ttMCU.md) [https://www.youtube.com/watch?v=ww-xu_ttMCU](https://www.youtube.com/watch?v=ww-xu_ttMCU)
+
 ## August 23rd, 2022 Livestream
 * [Q&A: When will we get the Toilet DLC?](../../../../transcriptions/yt-Gt94bJHuacQ.md) [https://www.youtube.com/watch?v=Gt94bJHuacQ](https://www.youtube.com/watch?v=Gt94bJHuacQ)
 

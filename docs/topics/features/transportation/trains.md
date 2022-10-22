@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > Transportation > Trains
 * [Train Signals](../../../topics/features/transportation/trains/train-signals.md)
 
+## October 18th, 2022 Livestream
+* [Q&A: Any Updates to the Trains coming before 1.0?](../../../transcriptions/yt-NUIgfWrd9yI.md) [https://www.youtube.com/watch?v=NUIgfWrd9yI](https://www.youtube.com/watch?v=NUIgfWrd9yI)
+
 ## September 27th, 2022 Livestream
 * [Q&A: Volume slider for Trains?](../../../transcriptions/yt-MsThuLeWGMA.md) [https://www.youtube.com/watch?v=MsThuLeWGMA](https://www.youtube.com/watch?v=MsThuLeWGMA)
 

@@ -9,7 +9,7 @@ topics:
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Q&A: Are there any plans for Blueprinting Buildings?
 https://www.youtube.com/watch?v=-sQgPUaxR-Y
-This question was possibly duplicated with a more recent answer: [August 23rd, 2022 Livestream Q&A: Blueprints system, when?](./yt-KXdigLjnaXI.md) [https://www.youtube.com/watch?v=KXdigLjnaXI](https://www.youtube.com/watch?v=KXdigLjnaXI)
+This question was possibly duplicated with a more recent answer: [October 18th, 2022 Livestream Q&A: Any plans for Blueprints?](./yt-NyqKc1tJojM.md) [https://www.youtube.com/watch?v=NyqKc1tJojM](https://www.youtube.com/watch?v=NyqKc1tJojM)
 
 
 ### Topics

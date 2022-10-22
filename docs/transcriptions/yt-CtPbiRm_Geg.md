@@ -9,7 +9,7 @@ topics:
 # [July 20th, 2021 Livestream](../2021-07-20.md)
 ## Q&A: How many Updates 'til 1.0?
 https://www.youtube.com/watch?v=CtPbiRm_Geg
-This question was possibly duplicated with a more recent answer: [September 27th, 2022 Livestream Q&A: When is 1.0 going to be ready?](./yt-tCFcLdnSFrA.md) [https://www.youtube.com/watch?v=tCFcLdnSFrA](https://www.youtube.com/watch?v=tCFcLdnSFrA)
+This question was possibly duplicated with a more recent answer: [October 18th, 2022 Livestream Q&A: Are we getting close to 1.0?](./yt-RJdlDgWm94U.md) [https://www.youtube.com/watch?v=RJdlDgWm94U](https://www.youtube.com/watch?v=RJdlDgWm94U)
 
 
 ### Topics

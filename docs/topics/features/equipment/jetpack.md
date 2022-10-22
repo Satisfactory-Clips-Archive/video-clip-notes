@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Equipment](../../../topics/features/equipment.md) > Jetpack
 
+## October 18th, 2022 Livestream
+* [Q&A: Make the Jetpack not consume fuel when you're close to a Wall or cliff?](../../../transcriptions/yt-5Lx1mLUipiY.md) [https://www.youtube.com/watch?v=5Lx1mLUipiY](https://www.youtube.com/watch?v=5Lx1mLUipiY)
+* [Q&A: Turbofuel for Jetpacks?](../../../transcriptions/yt-l2VSTXaEtCY.md) [https://www.youtube.com/watch?v=l2VSTXaEtCY](https://www.youtube.com/watch?v=l2VSTXaEtCY)
+
 ## October 4th, 2022 Livestream
 * [Q&A: Rework of inventory?](../../../transcriptions/yt-f7esEVn2NP0.md) [https://www.youtube.com/watch?v=f7esEVn2NP0](https://www.youtube.com/watch?v=f7esEVn2NP0)
 

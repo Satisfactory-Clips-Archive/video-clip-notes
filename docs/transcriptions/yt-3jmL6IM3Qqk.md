@@ -8,7 +8,7 @@ topics:
 # [April 20th, 2021 Livestream](../2021-04-20.md)
 ## Q&A: Will we get a bigger map?
 https://www.youtube.com/watch?v=3jmL6IM3Qqk
-This question was possibly duplicated with a more recent answer: [March 1st, 2022 Livestream Q&A: Any plans to increase the Satisfactory Map size?](./yt-jJWJNuE_CXQ.md) [https://www.youtube.com/watch?v=jJWJNuE_CXQ](https://www.youtube.com/watch?v=jJWJNuE_CXQ)
+This question was possibly duplicated with a more recent answer: [October 18th, 2022 Livestream Q&A: Expand the Map?](./yt-ZGvf0o0P1HU.md) [https://www.youtube.com/watch?v=ZGvf0o0P1HU](https://www.youtube.com/watch?v=ZGvf0o0P1HU)
 
 
 ### Topics

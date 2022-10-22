@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > [Crafting](../../../../topics/features/crafting.md) > [Recipes](../../../../topics/features/crafting/recipes.md) > Alternate Recipes
 
+## October 18th, 2022 Livestream
+* [Q&A: Option to unlock all the Alt Recipe research from world start?](../../../../transcriptions/yt-hdIGlcoQBO0.md) [https://www.youtube.com/watch?v=hdIGlcoQBO0](https://www.youtube.com/watch?v=hdIGlcoQBO0)
+
 ## September 13th, 2022 Livestream
 * [Q&A: How do you decide what gets an Alt Recipe, and are there any items that won't get one?](../../../../transcriptions/yt-H5U1BtcMMIA.md) [https://www.youtube.com/watch?v=H5U1BtcMMIA](https://www.youtube.com/watch?v=H5U1BtcMMIA)
 

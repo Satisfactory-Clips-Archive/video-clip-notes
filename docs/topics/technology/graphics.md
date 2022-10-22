@@ -9,6 +9,9 @@ date: Last Modified
 * [Ray Tracing](../../topics/technology/graphics/ray-tracing.md)
 * [Ultrawide Monitors](../../topics/technology/graphics/ultrawide-monitors.md)
 
+## October 18th, 2022 Livestream
+* [Q&A: Z-fighting resolved in Update 7?](../../transcriptions/yt-pXfB87_h8BQ.md) [https://www.youtube.com/watch?v=pXfB87_h8BQ](https://www.youtube.com/watch?v=pXfB87_h8BQ)
+
 ## September 6th, 2022 Livestream
 * [Q&A: Any plans to add FSR 2.0?](../../transcriptions/yt-8WFqndHJR_0.md) [https://www.youtube.com/watch?v=8WFqndHJR_0](https://www.youtube.com/watch?v=8WFqndHJR_0)
 

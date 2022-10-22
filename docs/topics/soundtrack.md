@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Soundtrack
 
+## October 18th, 2022 Livestream
+* [Q&A: Will I get a DMCA claim if I use the game OST as background music?](../transcriptions/yt-VNIuvJo_2wQ.md) [https://www.youtube.com/watch?v=VNIuvJo_2wQ](https://www.youtube.com/watch?v=VNIuvJo_2wQ)
+
 ## September 13th, 2022 Livestream
 * [Q&A: What is this Deep Rock Galactic tape I've been hearing about?](../transcriptions/yt-d0FO6CwgWvw.md) [https://www.youtube.com/watch?v=d0FO6CwgWvw](https://www.youtube.com/watch?v=d0FO6CwgWvw)
 

@@ -9,11 +9,7 @@ topics:
 # [June 15th, 2021 Livestream](../2021-06-15.md)
 ## Q&A: Lizard Cat DLC?
 https://www.youtube.com/watch?v=ZyoU8gwO-PA
-<details>
-<summary>This question may have been asked previously at least 1 other time, as recently as September 2020.</summary>
-
-* [September 8th, 2020 Livestream Q&A: Cat Companion instead of Doggo?](./yt-tUpHAgaYB4o.md) [https://www.youtube.com/watch?v=tUpHAgaYB4o](https://www.youtube.com/watch?v=tUpHAgaYB4o)
-</details>
+This question was possibly duplicated with a more recent answer: [October 18th, 2022 Livestream Q&A: Will there ever be a Lizard Catto?](./yt-WWdAKp4EfVk.md) [https://www.youtube.com/watch?v=WWdAKp4EfVk](https://www.youtube.com/watch?v=WWdAKp4EfVk)
 
 
 ### Topics

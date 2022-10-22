@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > World Update
 
+## October 21st, 2022 Video
+* [World Update](../../transcriptions/yt-rX7OpLCg0l8,109.67623333333333,166.49966666666666.md) [https://youtube.com/embed/rX7OpLCg0l8?autoplay=1&start=109&end=167](https://youtube.com/embed/rX7OpLCg0l8?autoplay=1&start=109&end=167)
+
 ## September 27th, 2022 Livestream
 * [Q&A: Have we been told if Titan Forest & Red Forest are going to change in Update 7?](../../transcriptions/yt-tfPYmasD82M.md) [https://www.youtube.com/watch?v=tfPYmasD82M](https://www.youtube.com/watch?v=tfPYmasD82M)
 * [Q&A: Any more big changes to the map?](../../transcriptions/yt-lTsqEazqVIw.md) [https://www.youtube.com/watch?v=lTsqEazqVIw](https://www.youtube.com/watch?v=lTsqEazqVIw)

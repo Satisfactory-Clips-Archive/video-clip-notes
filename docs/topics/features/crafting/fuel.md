@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Crafting](../../../topics/features/crafting.md) > Fuel
 
+## October 18th, 2022 Livestream
+* [Q&A: Make the Jetpack not consume fuel when you're close to a Wall or cliff?](../../../transcriptions/yt-5Lx1mLUipiY.md) [https://www.youtube.com/watch?v=5Lx1mLUipiY](https://www.youtube.com/watch?v=5Lx1mLUipiY)
+
 ## July 5th, 2022 Livestream
 * [Q&A: Will Turbofuel be usable for JetPacks?](../../../transcriptions/yt-jQqOPZuB6Qk.md) [https://www.youtube.com/watch?v=jQqOPZuB6Qk](https://www.youtube.com/watch?v=jQqOPZuB6Qk)
 

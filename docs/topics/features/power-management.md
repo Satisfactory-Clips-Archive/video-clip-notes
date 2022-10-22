@@ -10,6 +10,12 @@ date: Last Modified
 * [Power Storage](../../topics/features/power-management/power-storage.md)
 * [Power Switch](../../topics/features/power-management/power-switch.md)
 
+## October 21st, 2022 Video
+* [Power Generators](../../transcriptions/yt-rX7OpLCg0l8,385.7520333333333,451.01723333333337.md) [https://youtube.com/embed/rX7OpLCg0l8?autoplay=1&start=385&end=452](https://youtube.com/embed/rX7OpLCg0l8?autoplay=1&start=385&end=452)
+
+## October 18th, 2022 Livestream
+* [Q&A: Any plans to make building big, repetitive factories simpler/easier for the game?](../../transcriptions/yt-FcLTq4WDPQE.md) [https://www.youtube.com/watch?v=FcLTq4WDPQE](https://www.youtube.com/watch?v=FcLTq4WDPQE)
+
 ## October 4th, 2022 Livestream
 * [Q&A: Double outlets on Foundations?](../../transcriptions/yt-SWdSlbaISog.md) [https://www.youtube.com/watch?v=SWdSlbaISog](https://www.youtube.com/watch?v=SWdSlbaISog)
 

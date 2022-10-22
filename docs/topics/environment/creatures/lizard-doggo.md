@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Creatures](../../../topics/environment/creatures.md) > Lizard Doggo
 
+## October 18th, 2022 Livestream
+* [Q&A: Will there ever be a Lizard Catto?](../../../transcriptions/yt-WWdAKp4EfVk.md) [https://www.youtube.com/watch?v=WWdAKp4EfVk](https://www.youtube.com/watch?v=WWdAKp4EfVk)
+
 ## August 30th, 2022 Livestream
 * [Q&A: Are you fixing the ability to tame Doggos?](../../../transcriptions/yt-RzURMlItEvs.md) [https://www.youtube.com/watch?v=RzURMlItEvs](https://www.youtube.com/watch?v=RzURMlItEvs)
 

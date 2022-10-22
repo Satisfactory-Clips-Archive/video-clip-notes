@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Technology](../../../topics/technology.md) > [Unreal Engine](../../../topics/technology/unreal-engine.md) > Object Limit
 
+## October 18th, 2022 Livestream
+* [Q&A: Would Unreal Engine 5 also increase the Object Limit?](../../../transcriptions/yt-RzehTQWKTDI.md) [https://www.youtube.com/watch?v=RzehTQWKTDI](https://www.youtube.com/watch?v=RzehTQWKTDI)
+
 ## June 28th, 2022 Livestream
 * Q&A: The limit cap? [https://www.youtube.com/watch?v=dc4gXq8yq0A](https://www.youtube.com/watch?v=dc4gXq8yq0A)
 

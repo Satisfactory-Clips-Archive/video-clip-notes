@@ -9,6 +9,9 @@ date: Last Modified
 * [Object Limit](../../topics/technology/unreal-engine/object-limit.md)
 * [Unreal Engine 5](../../topics/technology/unreal-engine/unreal-engine-5.md)
 
+## October 18th, 2022 Livestream
+* [Snutt Talk: Annoying notifications](../../transcriptions/yt-0rXMd5VDIPQ.md) [https://www.youtube.com/watch?v=0rXMd5VDIPQ](https://www.youtube.com/watch?v=0rXMd5VDIPQ)
+
 ## August 30th, 2022 Livestream
 * [Q&A: How much room for improvement do you think you still have for performance?](../../transcriptions/yt-moVIableguI.md) [https://www.youtube.com/watch?v=moVIableguI](https://www.youtube.com/watch?v=moVIableguI)
 

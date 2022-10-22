@@ -5,6 +5,17 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > State of Dev
 
+## October 21st, 2022 Video
+* [2022](../../transcriptions/yt-rX7OpLCg0l8,21.154466666666668,58.49176666666667.md) [https://youtube.com/embed/rX7OpLCg0l8?autoplay=1&start=21&end=59](https://youtube.com/embed/rX7OpLCg0l8?autoplay=1&start=21&end=59)
+* [1.0 Mystery Box](../../transcriptions/yt-rX7OpLCg0l8,58.525133333333336,97.83106666666667.md) [https://youtube.com/embed/rX7OpLCg0l8?autoplay=1&start=58&end=98](https://youtube.com/embed/rX7OpLCg0l8?autoplay=1&start=58&end=98)
+* [Update 7](../../transcriptions/yt-rX7OpLCg0l8,97.86443333333334,109.64286666666666.md) [https://youtube.com/embed/rX7OpLCg0l8?autoplay=1&start=97&end=110](https://youtube.com/embed/rX7OpLCg0l8?autoplay=1&start=97&end=110)
+* [World Update](../../transcriptions/yt-rX7OpLCg0l8,109.67623333333333,166.49966666666666.md) [https://youtube.com/embed/rX7OpLCg0l8?autoplay=1&start=109&end=167](https://youtube.com/embed/rX7OpLCg0l8?autoplay=1&start=109&end=167)
+* [System improvements](../../transcriptions/yt-rX7OpLCg0l8,166.53303333333335,192.192.md) [https://youtube.com/embed/rX7OpLCg0l8?autoplay=1&start=166&end=193](https://youtube.com/embed/rX7OpLCg0l8?autoplay=1&start=166&end=193)
+* [Dedicated Servers](../../transcriptions/yt-rX7OpLCg0l8,192.22536666666667,217.85096666666666.md) [https://youtube.com/embed/rX7OpLCg0l8?autoplay=1&start=192&end=218](https://youtube.com/embed/rX7OpLCg0l8?autoplay=1&start=192&end=218)
+
+## October 18th, 2022 Livestream
+* [State of Dev](../../transcriptions/yt-kNfarioe-WU.md) [https://www.youtube.com/watch?v=kNfarioe-WU](https://www.youtube.com/watch?v=kNfarioe-WU)
+
 ## October 4th, 2022 Livestream
 * [State of Dev](../../transcriptions/yt-dniAHWqQ4FI.md) [https://www.youtube.com/watch?v=dniAHWqQ4FI](https://www.youtube.com/watch?v=dniAHWqQ4FI)
 

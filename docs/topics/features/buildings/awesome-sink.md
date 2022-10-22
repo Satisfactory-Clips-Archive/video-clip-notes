@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > AWESOME Sink
 
+## October 21st, 2022 Video
+* [AWESOME Sink](../../../transcriptions/yt-rX7OpLCg0l8,482.74893333333335,518.6848333333334.md) [https://youtube.com/embed/rX7OpLCg0l8?autoplay=1&start=482&end=519](https://youtube.com/embed/rX7OpLCg0l8?autoplay=1&start=482&end=519)
+
 ## July 12th, 2022 Livestream
 * [Q&A: What does AWESOME mean?](../../../transcriptions/yt-nyN4xwl5Ndo.md) [https://www.youtube.com/watch?v=nyN4xwl5Ndo](https://www.youtube.com/watch?v=nyN4xwl5Ndo)
 

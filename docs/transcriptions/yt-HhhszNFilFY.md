@@ -9,7 +9,7 @@ topics:
 # [July 12th, 2022 Livestream](../2022-07-12.md)
 ## Q&A: DLSS coming?
 https://www.youtube.com/watch?v=HhhszNFilFY
-This question was possibly duplicated with a more recent answer: [September 27th, 2022 Livestream Q&A: DLSS 3?](./yt-e5RgS7iEH8s.md) [https://www.youtube.com/watch?v=e5RgS7iEH8s](https://www.youtube.com/watch?v=e5RgS7iEH8s)
+This question was possibly duplicated with a more recent answer: [October 18th, 2022 Livestream Q&A: DLSS for Satisfactory?](./yt-ugj2T8du2zg.md) [https://www.youtube.com/watch?v=ugj2T8du2zg](https://www.youtube.com/watch?v=ugj2T8du2zg)
 
 
 ### Topics

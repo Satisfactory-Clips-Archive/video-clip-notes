@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Trolling
 
+## October 18th, 2022 Livestream
+* [Snutt Talk: Responding to Twitch chat's obsession with toilets](../transcriptions/yt-ww-xu_ttMCU.md) [https://www.youtube.com/watch?v=ww-xu_ttMCU](https://www.youtube.com/watch?v=ww-xu_ttMCU)
+* [Q&A: Stadia port, when?](../transcriptions/yt-91ejt47Mtjk.md) [https://www.youtube.com/watch?v=91ejt47Mtjk](https://www.youtube.com/watch?v=91ejt47Mtjk)
+* [Q&A: Do you know super-exciting things about future content that you can't tell us?](../transcriptions/yt-eoKONzxBtpc.md) [https://www.youtube.com/watch?v=eoKONzxBtpc](https://www.youtube.com/watch?v=eoKONzxBtpc)
+
 ## October 4th, 2022 Livestream
 * [Q&A: Does the planet have a name?](../transcriptions/yt-vGikWrINkZk.md) [https://www.youtube.com/watch?v=vGikWrINkZk](https://www.youtube.com/watch?v=vGikWrINkZk)
 * [Q&A: How much will Power Rangers play a part in the Story?](../transcriptions/yt-6OxCLHOLpcU.md) [https://www.youtube.com/watch?v=6OxCLHOLpcU](https://www.youtube.com/watch?v=6OxCLHOLpcU)

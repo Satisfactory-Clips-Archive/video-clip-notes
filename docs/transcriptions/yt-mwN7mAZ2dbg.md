@@ -9,7 +9,7 @@ topics:
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: Will there be new enemies?
 https://www.youtube.com/watch?v=mwN7mAZ2dbg
-This question was possibly duplicated with a more recent answer: [November 2nd, 2021 Livestream Q&A: Why not the Giant Crab, wasn't that promised?](./yt-p-Qm7NheffQ.md) [https://www.youtube.com/watch?v=p-Qm7NheffQ](https://www.youtube.com/watch?v=p-Qm7NheffQ)
+This question was possibly duplicated with a more recent answer: [October 18th, 2022 Livestream Q&A: Giant Crab, when?](./yt-GumR-JVKtL0.md) [https://www.youtube.com/watch?v=GumR-JVKtL0](https://www.youtube.com/watch?v=GumR-JVKtL0)
 
 
 ### Topics

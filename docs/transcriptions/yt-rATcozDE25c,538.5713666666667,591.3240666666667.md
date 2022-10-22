@@ -8,7 +8,7 @@ topics:
 # [October 1st, 2020 Q&A](../2020-10-01.md)
 ## Q&A: Are there any plans to put a blueprint system in the game?
 https://youtube.com/embed/rATcozDE25c?autoplay=1&start=538&end=592
-This question was possibly duplicated with a more recent answer: [August 23rd, 2022 Livestream Q&A: Blueprints system, when?](./yt-KXdigLjnaXI.md) [https://www.youtube.com/watch?v=KXdigLjnaXI](https://www.youtube.com/watch?v=KXdigLjnaXI)
+This question was possibly duplicated with a more recent answer: [October 18th, 2022 Livestream Q&A: Any plans for Blueprints?](./yt-NyqKc1tJojM.md) [https://www.youtube.com/watch?v=NyqKc1tJojM](https://www.youtube.com/watch?v=NyqKc1tJojM)
 
 
 ### Topics

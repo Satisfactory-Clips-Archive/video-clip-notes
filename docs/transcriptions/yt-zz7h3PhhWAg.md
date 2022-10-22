@@ -9,7 +9,7 @@ topics:
 # [July 20th, 2021 Livestream](../2021-07-20.md)
 ## Q&A: Any plans on making Crash Sites deconstructible after Hard Drive has been retrieved?
 https://www.youtube.com/watch?v=zz7h3PhhWAg
-This question was possibly duplicated with a more recent answer: [September 27th, 2022 Livestream Q&A: Do you think we'll ever be able to deconstruct Crash Sites after we open them?](./yt-0WYkl46KZLM.md) [https://www.youtube.com/watch?v=0WYkl46KZLM](https://www.youtube.com/watch?v=0WYkl46KZLM)
+This question was possibly duplicated with a more recent answer: [October 18th, 2022 Livestream Q&A: Way to turn off Crash Site beacons?](./yt-whh7CB8Kq3k.md) [https://www.youtube.com/watch?v=whh7CB8Kq3k](https://www.youtube.com/watch?v=whh7CB8Kq3k)
 
 
 ### Topics

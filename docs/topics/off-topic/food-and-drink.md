@@ -10,6 +10,9 @@ date: Last Modified
 * [Pizza](../../topics/off-topic/food-and-drink/pizza.md)
 * [Semlor](../../topics/off-topic/food-and-drink/semlor.md)
 
+## October 18th, 2022 Livestream
+* [Q&A: Snutt, is there something you'd like to ask us?](../../transcriptions/yt-AoI3-BT3uRo.md) [https://www.youtube.com/watch?v=AoI3-BT3uRo](https://www.youtube.com/watch?v=AoI3-BT3uRo)
+
 ## July 12th, 2022 Livestream
 * [Q&A: How do I eat cereal without my hair getting in the milk](../../transcriptions/yt-6l8-swh-Wp4.md) [https://www.youtube.com/watch?v=6l8-swh-Wp4](https://www.youtube.com/watch?v=6l8-swh-Wp4)
 

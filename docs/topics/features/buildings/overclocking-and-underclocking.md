@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > Overclocking & Underclocking
 
+## October 21st, 2022 Video
+* [Power Generators](../../../transcriptions/yt-rX7OpLCg0l8,385.7520333333333,451.01723333333337.md) [https://youtube.com/embed/rX7OpLCg0l8?autoplay=1&start=385&end=452](https://youtube.com/embed/rX7OpLCg0l8?autoplay=1&start=385&end=452)
+* [Nuclear Power Plant](../../../transcriptions/yt-rX7OpLCg0l8,451.05060000000003,482.7155666666667.md) [https://youtube.com/embed/rX7OpLCg0l8?autoplay=1&start=451&end=483](https://youtube.com/embed/rX7OpLCg0l8?autoplay=1&start=451&end=483)
+
 ## October 4th, 2022 Livestream
 * [Q&A: Is the rebalance scheduled for Update 7?](../../../transcriptions/yt-ipqk9BhPaY4.md) [https://www.youtube.com/watch?v=ipqk9BhPaY4](https://www.youtube.com/watch?v=ipqk9BhPaY4)
 

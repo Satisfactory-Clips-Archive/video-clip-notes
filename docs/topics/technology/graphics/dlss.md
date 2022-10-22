@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Technology](../../../topics/technology.md) > [Graphics](../../../topics/technology/graphics.md) > DLSS
 
+## October 18th, 2022 Livestream
+* [Q&A: DLSS for Satisfactory?](../../../transcriptions/yt-ugj2T8du2zg.md) [https://www.youtube.com/watch?v=ugj2T8du2zg](https://www.youtube.com/watch?v=ugj2T8du2zg)
+
 ## September 27th, 2022 Livestream
 * [Q&A: DLSS 3?](../../../transcriptions/yt-e5RgS7iEH8s.md) [https://www.youtube.com/watch?v=e5RgS7iEH8s](https://www.youtube.com/watch?v=e5RgS7iEH8s)
 

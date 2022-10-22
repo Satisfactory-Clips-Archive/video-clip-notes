@@ -17,6 +17,11 @@ date: Last Modified
 * [Terraforming](../../topics/features/unplanned-features/terraforming.md)
 * [VR](../../topics/features/unplanned-features/vr.md)
 
+## October 18th, 2022 Livestream
+* [Q&A: Will there ever be a Lizard Catto?](../../transcriptions/yt-WWdAKp4EfVk.md) [https://www.youtube.com/watch?v=WWdAKp4EfVk](https://www.youtube.com/watch?v=WWdAKp4EfVk)
+* [Q&A: In-game voice system?](../../transcriptions/yt-maxJ6HvBHaM.md) [https://www.youtube.com/watch?v=maxJ6HvBHaM](https://www.youtube.com/watch?v=maxJ6HvBHaM)
+* [Q&A: Mk.6 Conveyors & Mk.3 Pipes, when?](../../transcriptions/yt-oMO-ZyChVVk.md) [https://www.youtube.com/watch?v=oMO-ZyChVVk](https://www.youtube.com/watch?v=oMO-ZyChVVk)
+
 ## September 27th, 2022 Livestream
 * [Q&A: Can we get a passenger seat in the Explorer?](../../transcriptions/yt-9zcXb6IOVmY.md) [https://www.youtube.com/watch?v=9zcXb6IOVmY](https://www.youtube.com/watch?v=9zcXb6IOVmY)
 * [Q&A: Spotify sync for Boombox?](../../transcriptions/yt-qxFl7L5meng.md) [https://www.youtube.com/watch?v=qxFl7L5meng](https://www.youtube.com/watch?v=qxFl7L5meng)

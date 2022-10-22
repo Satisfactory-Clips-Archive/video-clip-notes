@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Mods](../../topics/mods.md) > Mods vs. Features
 
+## October 18th, 2022 Livestream
+* [Q&A: Any plans for Blueprints?](../../transcriptions/yt-NyqKc1tJojM.md) [https://www.youtube.com/watch?v=NyqKc1tJojM](https://www.youtube.com/watch?v=NyqKc1tJojM)
+
 ## September 13th, 2022 Livestream
 * [Q&A: Custom Map support?](../../transcriptions/yt-iKLjt35zvEU.md) [https://www.youtube.com/watch?v=iKLjt35zvEU](https://www.youtube.com/watch?v=iKLjt35zvEU)
 

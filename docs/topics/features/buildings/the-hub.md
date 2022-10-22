@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > The HUB
 
+## October 18th, 2022 Livestream
+* [Q&A: Stationary 3d Printer in the HUB where the MAM used to be?](../../../transcriptions/yt-57kyBmolr1A.md) [https://www.youtube.com/watch?v=57kyBmolr1A](https://www.youtube.com/watch?v=57kyBmolr1A)
+* [Snutt Talk: Responding to Twitch chat's obsession with toilets](../../../transcriptions/yt-ww-xu_ttMCU.md) [https://www.youtube.com/watch?v=ww-xu_ttMCU](https://www.youtube.com/watch?v=ww-xu_ttMCU)
+* [Q&A: Will there ever be a way to spawn at different locations than the HUB?](../../../transcriptions/yt-y8-Dx1rqNLQ.md) [https://www.youtube.com/watch?v=y8-Dx1rqNLQ](https://www.youtube.com/watch?v=y8-Dx1rqNLQ)
+
 ## September 27th, 2022 Livestream
 * [Q&A: Can sleeping be added?](../../../transcriptions/yt-f57Lrnspk10.md) [https://www.youtube.com/watch?v=f57Lrnspk10](https://www.youtube.com/watch?v=f57Lrnspk10)
 

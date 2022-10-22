@@ -9,12 +9,7 @@ topics:
 # [March 1st, 2022 Livestream](../2022-03-01.md)
 ## Q&A: Any DLC/expansions planned, or just more free stuff?
 https://www.youtube.com/watch?v=B5iDfRbSD-o
-<details>
-<summary>This question may have been asked previously at least 2 other times, as recently as January 2022 and as early as June 2021.</summary>
-
-* [January 18th, 2022 Livestream Q&A: Any plans for DLC & cosmetic purchases?](./yt-pvWgfvIrHDA.md) [https://www.youtube.com/watch?v=pvWgfvIrHDA](https://www.youtube.com/watch?v=pvWgfvIrHDA)
-* [June 15th, 2021 Livestream Q&A: When do the microtransactions and DLC packs start?](./yt-V2cOLLcElBI.md) [https://www.youtube.com/watch?v=V2cOLLcElBI](https://www.youtube.com/watch?v=V2cOLLcElBI)
-</details>
+This question was possibly duplicated with a more recent answer: [October 18th, 2022 Livestream Q&A: Do you guys want to release DLC?](./yt-SXCLbwPIp7k.md) [https://www.youtube.com/watch?v=SXCLbwPIp7k](https://www.youtube.com/watch?v=SXCLbwPIp7k)
 
 
 ### Topics

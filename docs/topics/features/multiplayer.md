@@ -7,6 +7,9 @@ date: Last Modified
 * [Crossplay](../../topics/features/multiplayer/crossplay.md)
 * [Dedicated Servers](../../topics/features/multiplayer/dedicated-servers.md)
 
+## October 18th, 2022 Livestream
+* [Q&A: In-game voice system?](../../transcriptions/yt-maxJ6HvBHaM.md) [https://www.youtube.com/watch?v=maxJ6HvBHaM](https://www.youtube.com/watch?v=maxJ6HvBHaM)
+
 ## September 27th, 2022 Livestream
 * [Q&A: Why not pause when I open the menu?](../../transcriptions/yt-jO3-Sb2c3XU.md) [https://www.youtube.com/watch?v=jO3-Sb2c3XU](https://www.youtube.com/watch?v=jO3-Sb2c3XU)
 

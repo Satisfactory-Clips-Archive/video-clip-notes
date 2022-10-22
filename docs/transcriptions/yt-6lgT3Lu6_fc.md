@@ -9,6 +9,8 @@ topics:
 # [May 11th, 2021 Livestream](../2021-05-11.md)
 ## Q&A: You could come out with a Stadia version for the twelve people that have it
 https://www.youtube.com/watch?v=6lgT3Lu6_fc
+This question was possibly replaced with a more recent answer: [October 18th, 2022 Livestream Q&A: Stadia port, when?](./yt-91ejt47Mtjk.md) [https://www.youtube.com/watch?v=91ejt47Mtjk](https://www.youtube.com/watch?v=91ejt47Mtjk)
+
 
 ### Topics
 * [Retail](../topics/retail.md)

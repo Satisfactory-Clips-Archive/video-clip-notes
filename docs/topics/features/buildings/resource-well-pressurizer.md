@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > Resource Well Pressurizer
 
+## October 18th, 2022 Livestream
+* [Q&A: Question from Zago; Can you fit a Resource Pressuriser on Melk's back?](../../../transcriptions/yt-jSL6n_tP1GY.md) [https://www.youtube.com/watch?v=jSL6n_tP1GY](https://www.youtube.com/watch?v=jSL6n_tP1GY)
+
 ## June 22nd, 2021 Livestream
 * [Snutt & Torsten Talk: Concept Art - Resource Well Pressurizer](../../../transcriptions/yt-bXkX3Vwy_Xg.md) [https://www.youtube.com/watch?v=bXkX3Vwy_Xg](https://www.youtube.com/watch?v=bXkX3Vwy_Xg)
 

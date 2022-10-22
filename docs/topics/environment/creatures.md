@@ -10,6 +10,10 @@ date: Last Modified
 * [Non Flying Bird](../../topics/environment/creatures/non-flying-bird.md)
 * [Space Giraffe-Tick-Penguin-Whale Thing](../../topics/environment/creatures/space-giraffe-tick-penguin-whale-thing.md)
 
+## October 21st, 2022 Video
+* [AWESOME Sink](../../transcriptions/yt-rX7OpLCg0l8,482.74893333333335,518.6848333333334.md) [https://youtube.com/embed/rX7OpLCg0l8?autoplay=1&start=482&end=519](https://youtube.com/embed/rX7OpLCg0l8?autoplay=1&start=482&end=519)
+* [Creatures](../../transcriptions/yt-rX7OpLCg0l8,541.1072333333334,562.1949666666667.md) [https://youtube.com/embed/rX7OpLCg0l8?autoplay=1&start=541&end=563](https://youtube.com/embed/rX7OpLCg0l8?autoplay=1&start=541&end=563)
+
 ## September 20th, 2022 Update 6 Release Stream
 * AI/behaviour Changes [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=5158&end=5291](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=5158&end=5291)
 * Visual Changes [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=5290&end=5365](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=5290&end=5365)

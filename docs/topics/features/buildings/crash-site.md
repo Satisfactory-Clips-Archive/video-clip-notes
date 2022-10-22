@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > Crash Site
 
+## October 18th, 2022 Livestream
+* [Q&A: Way to turn off Crash Site beacons?](../../../transcriptions/yt-whh7CB8Kq3k.md) [https://www.youtube.com/watch?v=whh7CB8Kq3k](https://www.youtube.com/watch?v=whh7CB8Kq3k)
+
 ## September 27th, 2022 Livestream
 * [Q&A: Do you think we'll ever be able to deconstruct Crash Sites after we open them?](../../../transcriptions/yt-0WYkl46KZLM.md) [https://www.youtube.com/watch?v=0WYkl46KZLM](https://www.youtube.com/watch?v=0WYkl46KZLM)
 
