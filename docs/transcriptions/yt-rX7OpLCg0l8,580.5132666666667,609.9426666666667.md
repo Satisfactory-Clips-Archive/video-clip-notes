@@ -8,7 +8,7 @@ topics:
 ---
 # [October 21st, 2022 Video](../2022-10-21.md)
 ## FICSMAS 2022
-https://youtube.com/embed/rX7OpLCg0l8?autoplay=1&start=580&end=610
+https://youtube.com/clip/Ugkx7pCUCybE8OLS_J9zLMtPv-1UlLCU9kNX
 
 ### Topics
 * [Satisfactory Updates > Pending > Satisfactory Update 7](../topics/satisfactory-updates/pending/satisfactory-update-7.md)

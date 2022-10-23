@@ -19,6 +19,9 @@ date: Last Modified
 * [Titan Forest](../../topics/environment/biomes/titan-forest.md)
 * [Unplanned Biomes](../../topics/environment/biomes/unplanned-biomes.md)
 
+## October 21st, 2022 Video
+* [World Update](../../transcriptions/yt-rX7OpLCg0l8,109.67623333333333,166.49966666666666.md) [https://youtube.com/clip/Ugkx4Wdon7zab8KlU8iipgKhhxzATb9JJMrm](https://youtube.com/clip/Ugkx4Wdon7zab8KlU8iipgKhhxzATb9JJMrm)
+
 ## July 5th, 2022 Livestream
 * [Q&A: Why does the southern forests have basically no Resources?](../../transcriptions/yt-msj7QrgcuMQ.md) [https://www.youtube.com/watch?v=msj7QrgcuMQ](https://www.youtube.com/watch?v=msj7QrgcuMQ)
 

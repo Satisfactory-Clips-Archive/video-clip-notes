@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Biomes](../../../topics/environment/biomes.md) > Red Bamboo Fields
 
+## October 21st, 2022 Video
+* [World Update](../../../transcriptions/yt-rX7OpLCg0l8,109.67623333333333,166.49966666666666.md) [https://youtube.com/clip/Ugkx4Wdon7zab8KlU8iipgKhhxzATb9JJMrm](https://youtube.com/clip/Ugkx4Wdon7zab8KlU8iipgKhhxzATb9JJMrm)
+
 ## September 28th, 2021 Livestream
 * [Q&A: Any insane people in chat that build in Bamboo Forest?](../../../transcriptions/yt-RkF6Qjjwf5A.md) [https://www.youtube.com/watch?v=RkF6Qjjwf5A](https://www.youtube.com/watch?v=RkF6Qjjwf5A)
 

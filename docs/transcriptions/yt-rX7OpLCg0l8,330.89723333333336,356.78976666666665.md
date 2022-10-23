@@ -8,7 +8,7 @@ topics:
 ---
 # [October 21st, 2022 Video](../2022-10-21.md)
 ## Other Game Modes
-https://youtube.com/embed/rX7OpLCg0l8?autoplay=1&start=330&end=357
+https://youtube.com/clip/Ugkx9Oywb5n5bGKPyt8EIngRq7Bi_iQT47me
 
 ### Topics
 * [Features > Possible Features > Game Modes](../topics/features/possible-features/game-modes.md)

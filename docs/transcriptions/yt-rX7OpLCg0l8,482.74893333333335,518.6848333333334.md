@@ -10,7 +10,7 @@ topics:
 ---
 # [October 21st, 2022 Video](../2022-10-21.md)
 ## AWESOME Sink
-https://youtube.com/embed/rX7OpLCg0l8?autoplay=1&start=482&end=519
+https://youtube.com/clip/Ugkx_qtDyAsJ1XWei9weMq-dIJehwgmw0xXR
 
 ### Topics
 * [Environment > Creatures](../topics/environment/creatures.md)

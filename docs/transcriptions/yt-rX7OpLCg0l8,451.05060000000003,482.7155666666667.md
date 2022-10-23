@@ -9,7 +9,7 @@ topics:
 ---
 # [October 21st, 2022 Video](../2022-10-21.md)
 ## Nuclear Power Plant
-https://youtube.com/embed/rX7OpLCg0l8?autoplay=1&start=451&end=483
+https://youtube.com/clip/UgkxB8uv-YKGFi47qSXcDV8c-MqpColqCe-Q
 
 ### Topics
 * [Features > Buildings > Overclocking & Underclocking](../topics/features/buildings/overclocking-and-underclocking.md)

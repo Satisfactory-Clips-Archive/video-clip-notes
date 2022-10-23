@@ -8,7 +8,7 @@ topics:
 ---
 # [October 21st, 2022 Video](../2022-10-21.md)
 ## Creatures
-https://youtube.com/embed/rX7OpLCg0l8?autoplay=1&start=541&end=563
+https://youtube.com/clip/Ugkx0eqzU2sStIWmjLXqFS-FMuFWjBTIYG4E
 
 ### Topics
 * [Environment > Creatures](../topics/environment/creatures.md)

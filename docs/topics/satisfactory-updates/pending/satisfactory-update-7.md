@@ -6,17 +6,17 @@ date: Last Modified
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Pending](../../../topics/satisfactory-updates/pending.md) > Satisfactory Update 7
 
 ## October 21st, 2022 Video
-* [Update 7](../../../transcriptions/yt-rX7OpLCg0l8,97.86443333333334,109.64286666666666.md) [https://youtube.com/embed/rX7OpLCg0l8?autoplay=1&start=97&end=110](https://youtube.com/embed/rX7OpLCg0l8?autoplay=1&start=97&end=110)
-* [Creative Mode](../../../transcriptions/yt-rX7OpLCg0l8,291.12416666666667,315.9823333333333.md) [https://youtube.com/embed/rX7OpLCg0l8?autoplay=1&start=291&end=316](https://youtube.com/embed/rX7OpLCg0l8?autoplay=1&start=291&end=316)
-* [Peaceful Mode](../../../transcriptions/yt-rX7OpLCg0l8,316.0157,330.8638666666667.md) [https://youtube.com/embed/rX7OpLCg0l8?autoplay=1&start=316&end=331](https://youtube.com/embed/rX7OpLCg0l8?autoplay=1&start=316&end=331)
-* [Other Game Modes](../../../transcriptions/yt-rX7OpLCg0l8,330.89723333333336,356.78976666666665.md) [https://youtube.com/embed/rX7OpLCg0l8?autoplay=1&start=330&end=357](https://youtube.com/embed/rX7OpLCg0l8?autoplay=1&start=330&end=357)
-* [Settings](../../../transcriptions/yt-rX7OpLCg0l8,356.8231333333333,364.7644.md) [https://youtube.com/embed/rX7OpLCg0l8?autoplay=1&start=356&end=365](https://youtube.com/embed/rX7OpLCg0l8?autoplay=1&start=356&end=365)
+* [Update 7](../../../transcriptions/yt-rX7OpLCg0l8,97.86443333333334,109.64286666666666.md) [https://youtube.com/clip/Ugkxyuk82Fw8EhbEKSBbhK4JljQpC-yKlGOf](https://youtube.com/clip/Ugkxyuk82Fw8EhbEKSBbhK4JljQpC-yKlGOf)
+* [Creative Mode](../../../transcriptions/yt-rX7OpLCg0l8,291.12416666666667,315.9823333333333.md) [https://youtube.com/clip/Ugkx0Gez1tZXZUKxoBbxhKOIzRyCfHkh5nh2](https://youtube.com/clip/Ugkx0Gez1tZXZUKxoBbxhKOIzRyCfHkh5nh2)
+* [Peaceful Mode](../../../transcriptions/yt-rX7OpLCg0l8,316.0157,330.8638666666667.md) [https://youtube.com/clip/UgkxICQPLQDhtSXNZzyj088BLldU-RJ8c2OR](https://youtube.com/clip/UgkxICQPLQDhtSXNZzyj088BLldU-RJ8c2OR)
+* [Other Game Modes](../../../transcriptions/yt-rX7OpLCg0l8,330.89723333333336,356.78976666666665.md) [https://youtube.com/clip/Ugkx9Oywb5n5bGKPyt8EIngRq7Bi_iQT47me](https://youtube.com/clip/Ugkx9Oywb5n5bGKPyt8EIngRq7Bi_iQT47me)
+* [Settings](../../../transcriptions/yt-rX7OpLCg0l8,356.8231333333333,364.7644.md) [https://youtube.com/clip/Ugkx16kThCkyWwxAASsrkfPKa_MCb_6Bumoa](https://youtube.com/clip/Ugkx16kThCkyWwxAASsrkfPKa_MCb_6Bumoa)
 * [Power Generators](../../../transcriptions/yt-rX7OpLCg0l8,385.7520333333333,451.01723333333337.md) [https://youtube.com/embed/rX7OpLCg0l8?autoplay=1&start=385&end=452](https://youtube.com/embed/rX7OpLCg0l8?autoplay=1&start=385&end=452)
-* [Nuclear Power Plant](../../../transcriptions/yt-rX7OpLCg0l8,451.05060000000003,482.7155666666667.md) [https://youtube.com/embed/rX7OpLCg0l8?autoplay=1&start=451&end=483](https://youtube.com/embed/rX7OpLCg0l8?autoplay=1&start=451&end=483)
-* [AWESOME Sink](../../../transcriptions/yt-rX7OpLCg0l8,482.74893333333335,518.6848333333334.md) [https://youtube.com/embed/rX7OpLCg0l8?autoplay=1&start=482&end=519](https://youtube.com/embed/rX7OpLCg0l8?autoplay=1&start=482&end=519)
-* [Quality of Life Improvements](../../../transcriptions/yt-rX7OpLCg0l8,518.7182,541.0738666666667.md) [https://youtube.com/embed/rX7OpLCg0l8?autoplay=1&start=518&end=542](https://youtube.com/embed/rX7OpLCg0l8?autoplay=1&start=518&end=542)
-* [Creatures](../../../transcriptions/yt-rX7OpLCg0l8,541.1072333333334,562.1949666666667.md) [https://youtube.com/embed/rX7OpLCg0l8?autoplay=1&start=541&end=563](https://youtube.com/embed/rX7OpLCg0l8?autoplay=1&start=541&end=563)
-* [FICSMAS 2022](../../../transcriptions/yt-rX7OpLCg0l8,580.5132666666667,609.9426666666667.md) [https://youtube.com/embed/rX7OpLCg0l8?autoplay=1&start=580&end=610](https://youtube.com/embed/rX7OpLCg0l8?autoplay=1&start=580&end=610)
+* [Nuclear Power Plant](../../../transcriptions/yt-rX7OpLCg0l8,451.05060000000003,482.7155666666667.md) [https://youtube.com/clip/UgkxB8uv-YKGFi47qSXcDV8c-MqpColqCe-Q](https://youtube.com/clip/UgkxB8uv-YKGFi47qSXcDV8c-MqpColqCe-Q)
+* [AWESOME Sink](../../../transcriptions/yt-rX7OpLCg0l8,482.74893333333335,518.6848333333334.md) [https://youtube.com/clip/Ugkx_qtDyAsJ1XWei9weMq-dIJehwgmw0xXR](https://youtube.com/clip/Ugkx_qtDyAsJ1XWei9weMq-dIJehwgmw0xXR)
+* [Quality of Life Improvements](../../../transcriptions/yt-rX7OpLCg0l8,518.7182,541.0738666666667.md) [https://youtube.com/clip/Ugkxyeb8cXmY5OAmPadwMWuy4ugfA478kRAP](https://youtube.com/clip/Ugkxyeb8cXmY5OAmPadwMWuy4ugfA478kRAP)
+* [Creatures](../../../transcriptions/yt-rX7OpLCg0l8,541.1072333333334,562.1949666666667.md) [https://youtube.com/clip/Ugkx0eqzU2sStIWmjLXqFS-FMuFWjBTIYG4E](https://youtube.com/clip/Ugkx0eqzU2sStIWmjLXqFS-FMuFWjBTIYG4E)
+* [FICSMAS 2022](../../../transcriptions/yt-rX7OpLCg0l8,580.5132666666667,609.9426666666667.md) [https://youtube.com/clip/Ugkx7pCUCybE8OLS_J9zLMtPv-1UlLCU9kNX](https://youtube.com/clip/Ugkx7pCUCybE8OLS_J9zLMtPv-1UlLCU9kNX)
 
 ## October 18th, 2022 Livestream
 * [State of Dev](../../../transcriptions/yt-kNfarioe-WU.md) [https://www.youtube.com/watch?v=kNfarioe-WU](https://www.youtube.com/watch?v=kNfarioe-WU)

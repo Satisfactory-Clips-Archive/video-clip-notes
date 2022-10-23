@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Resources](../../../topics/environment/resources.md) > S.A.M. Ore
 
+## October 21st, 2022 Video
+* [1.0 Mystery Box](../../../transcriptions/yt-rX7OpLCg0l8,58.525133333333336,97.83106666666667.md) [https://youtube.com/clip/UgkxGh7aDMpWg7vdSKhFfJfPhFpVsFGQI2_p](https://youtube.com/clip/UgkxGh7aDMpWg7vdSKhFfJfPhFpVsFGQI2_p)
+
 ## October 4th, 2022 Livestream
 * [Q&A: Is S.A.M. Ore going to be in Update 7?](../../../transcriptions/yt-8pjXFOtD4KI.md) [https://www.youtube.com/watch?v=8pjXFOtD4KI](https://www.youtube.com/watch?v=8pjXFOtD4KI)
 

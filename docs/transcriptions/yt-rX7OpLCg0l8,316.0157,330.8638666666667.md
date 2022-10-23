@@ -8,7 +8,7 @@ topics:
 ---
 # [October 21st, 2022 Video](../2022-10-21.md)
 ## Peaceful Mode
-https://youtube.com/embed/rX7OpLCg0l8?autoplay=1&start=316&end=331
+https://youtube.com/clip/UgkxICQPLQDhtSXNZzyj088BLldU-RJ8c2OR
 
 ### Topics
 * [Features > Possible Features > Game Modes > Peaceful Mode](../topics/features/possible-features/game-modes/peaceful-mode.md)

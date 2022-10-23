@@ -3,14 +3,18 @@ title: "October 21st, 2022 Video World Update"
 date: "2022-10-21"
 layout: transcript
 topics:
+    - "environment/biomes"
+    - "environment/biomes/red-bamboo-fields"
     - "satisfactory-updates/state-of-dev"
     - "satisfactory-updates/world-update"
 ---
 # [October 21st, 2022 Video](../2022-10-21.md)
 ## World Update
-https://youtube.com/embed/rX7OpLCg0l8?autoplay=1&start=109&end=167
+https://youtube.com/clip/Ugkx4Wdon7zab8KlU8iipgKhhxzATb9JJMrm
 
 ### Topics
+* [Environment > Biomes](../topics/environment/biomes.md)
+* [Environment > Biomes > Red Bamboo Fields](../topics/environment/biomes/red-bamboo-fields.md)
 * [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 * [Satisfactory Updates > World Update](../topics/satisfactory-updates/world-update.md)
 

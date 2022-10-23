@@ -8,7 +8,7 @@ topics:
 ---
 # [October 21st, 2022 Video](../2022-10-21.md)
 ## Dedicated Servers
-https://youtube.com/embed/rX7OpLCg0l8?autoplay=1&start=192&end=218
+https://youtube.com/clip/Ugkxz-dEhiAGS_lmjKYmYxPrD8StXMobBlaI
 
 ### Topics
 * [Features > Multiplayer > Dedicated Servers](../topics/features/multiplayer/dedicated-servers.md)

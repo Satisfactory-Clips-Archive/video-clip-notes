@@ -9,8 +9,8 @@ date: Last Modified
 * [Peaceful Mode](../../../topics/features/possible-features/game-modes/peaceful-mode.md)
 
 ## October 21st, 2022 Video
-* [Other Game Modes](../../../transcriptions/yt-rX7OpLCg0l8,330.89723333333336,356.78976666666665.md) [https://youtube.com/embed/rX7OpLCg0l8?autoplay=1&start=330&end=357](https://youtube.com/embed/rX7OpLCg0l8?autoplay=1&start=330&end=357)
-* [Settings](../../../transcriptions/yt-rX7OpLCg0l8,356.8231333333333,364.7644.md) [https://youtube.com/embed/rX7OpLCg0l8?autoplay=1&start=356&end=365](https://youtube.com/embed/rX7OpLCg0l8?autoplay=1&start=356&end=365)
+* [Other Game Modes](../../../transcriptions/yt-rX7OpLCg0l8,330.89723333333336,356.78976666666665.md) [https://youtube.com/clip/Ugkx9Oywb5n5bGKPyt8EIngRq7Bi_iQT47me](https://youtube.com/clip/Ugkx9Oywb5n5bGKPyt8EIngRq7Bi_iQT47me)
+* [Settings](../../../transcriptions/yt-rX7OpLCg0l8,356.8231333333333,364.7644.md) [https://youtube.com/clip/Ugkx16kThCkyWwxAASsrkfPKa_MCb_6Bumoa](https://youtube.com/clip/Ugkx16kThCkyWwxAASsrkfPKa_MCb_6Bumoa)
 
 ## October 18th, 2022 Livestream
 * [Q&A: Prestige Mode?](../../../transcriptions/yt-RnnedKnQA2g.md) [https://www.youtube.com/watch?v=RnnedKnQA2g](https://www.youtube.com/watch?v=RnnedKnQA2g)

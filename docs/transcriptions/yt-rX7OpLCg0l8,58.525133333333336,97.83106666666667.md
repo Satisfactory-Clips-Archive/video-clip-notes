@@ -3,14 +3,20 @@ title: "October 21st, 2022 Video 1.0 Mystery Box"
 date: "2022-10-21"
 layout: transcript
 topics:
+    - "environment/resources/mercer-sphere"
+    - "environment/resources/sam-ore"
+    - "environment/resources/somersloop"
     - "satisfactory-updates/pending/satisfactory-1-0"
     - "satisfactory-updates/state-of-dev"
 ---
 # [October 21st, 2022 Video](../2022-10-21.md)
 ## 1.0 Mystery Box
-https://youtube.com/embed/rX7OpLCg0l8?autoplay=1&start=58&end=98
+https://youtube.com/clip/UgkxGh7aDMpWg7vdSKhFfJfPhFpVsFGQI2_p
 
 ### Topics
+* [Environment > Resources > Mercer Sphere](../topics/environment/resources/mercer-sphere.md)
+* [Environment > Resources > S.A.M. Ore](../topics/environment/resources/sam-ore.md)
+* [Environment > Resources > Somersloop](../topics/environment/resources/somersloop.md)
 * [Satisfactory Updates > Pending > Satisfactory 1.0](../topics/satisfactory-updates/pending/satisfactory-1-0.md)
 * [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 

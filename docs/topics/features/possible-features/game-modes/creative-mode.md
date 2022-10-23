@@ -6,7 +6,7 @@ date: Last Modified
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > [Possible Features](../../../../topics/features/possible-features.md) > [Game Modes](../../../../topics/features/possible-features/game-modes.md) > Creative Mode
 
 ## October 21st, 2022 Video
-* [Creative Mode](../../../../transcriptions/yt-rX7OpLCg0l8,291.12416666666667,315.9823333333333.md) [https://youtube.com/embed/rX7OpLCg0l8?autoplay=1&start=291&end=316](https://youtube.com/embed/rX7OpLCg0l8?autoplay=1&start=291&end=316)
+* [Creative Mode](../../../../transcriptions/yt-rX7OpLCg0l8,291.12416666666667,315.9823333333333.md) [https://youtube.com/clip/Ugkx0Gez1tZXZUKxoBbxhKOIzRyCfHkh5nh2](https://youtube.com/clip/Ugkx0Gez1tZXZUKxoBbxhKOIzRyCfHkh5nh2)
 
 ## February 8th, 2022 Livestream
 * [Q&A: Creative Mode?](../../../../transcriptions/yt-si20TQaDIXs.md) [https://www.youtube.com/watch?v=si20TQaDIXs](https://www.youtube.com/watch?v=si20TQaDIXs)

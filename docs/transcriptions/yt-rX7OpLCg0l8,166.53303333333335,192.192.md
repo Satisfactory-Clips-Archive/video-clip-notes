@@ -8,7 +8,7 @@ topics:
 ---
 # [October 21st, 2022 Video](../2022-10-21.md)
 ## System improvements
-https://youtube.com/embed/rX7OpLCg0l8?autoplay=1&start=166&end=193
+https://youtube.com/clip/Ugkxn94ANuLbMJXifiBfUQOuj__ifx4bvPxs
 
 ### Topics
 * [Features](../topics/features.md)

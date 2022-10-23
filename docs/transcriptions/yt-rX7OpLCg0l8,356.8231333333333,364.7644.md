@@ -8,7 +8,7 @@ topics:
 ---
 # [October 21st, 2022 Video](../2022-10-21.md)
 ## Settings
-https://youtube.com/embed/rX7OpLCg0l8?autoplay=1&start=356&end=365
+https://youtube.com/clip/Ugkx16kThCkyWwxAASsrkfPKa_MCb_6Bumoa
 
 ### Topics
 * [Features > Possible Features > Game Modes](../topics/features/possible-features/game-modes.md)

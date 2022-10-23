@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Resources](../../../topics/environment/resources.md) > Somersloop
 
+## October 21st, 2022 Video
+* [1.0 Mystery Box](../../../transcriptions/yt-rX7OpLCg0l8,58.525133333333336,97.83106666666667.md) [https://youtube.com/clip/UgkxGh7aDMpWg7vdSKhFfJfPhFpVsFGQI2_p](https://youtube.com/clip/UgkxGh7aDMpWg7vdSKhFfJfPhFpVsFGQI2_p)
+
 ## October 4th, 2022 Livestream
 * [Q&A: When will Artefacts be usable for something?](../../../transcriptions/yt-sdRDsK_DDG4.md) [https://www.youtube.com/watch?v=sdRDsK_DDG4](https://www.youtube.com/watch?v=sdRDsK_DDG4)
 

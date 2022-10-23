@@ -8,7 +8,7 @@ topics:
 ---
 # [October 21st, 2022 Video](../2022-10-21.md)
 ## 2022
-https://youtube.com/embed/rX7OpLCg0l8?autoplay=1&start=21&end=59
+https://youtube.com/clip/UgkxcHUnEgor81uHlPquqhj7nJ7o3voDiyGd
 
 ### Topics
 * [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)

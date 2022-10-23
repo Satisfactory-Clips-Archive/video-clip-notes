@@ -6,7 +6,7 @@ date: Last Modified
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > [Possible Features](../../../../topics/features/possible-features.md) > [Game Modes](../../../../topics/features/possible-features/game-modes.md) > Peaceful Mode
 
 ## October 21st, 2022 Video
-* [Peaceful Mode](../../../../transcriptions/yt-rX7OpLCg0l8,316.0157,330.8638666666667.md) [https://youtube.com/embed/rX7OpLCg0l8?autoplay=1&start=316&end=331](https://youtube.com/embed/rX7OpLCg0l8?autoplay=1&start=316&end=331)
+* [Peaceful Mode](../../../../transcriptions/yt-rX7OpLCg0l8,316.0157,330.8638666666667.md) [https://youtube.com/clip/UgkxICQPLQDhtSXNZzyj088BLldU-RJ8c2OR](https://youtube.com/clip/UgkxICQPLQDhtSXNZzyj088BLldU-RJ8c2OR)
 
 ## August 30th, 2022 Livestream
 * [Q&A: Plans for passive mode?](../../../../transcriptions/yt-XJ798jouqJE.md) [https://www.youtube.com/watch?v=XJ798jouqJE](https://www.youtube.com/watch?v=XJ798jouqJE)

@@ -6,7 +6,7 @@ date: Last Modified
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Multiplayer](../../../topics/features/multiplayer.md) > Dedicated Servers
 
 ## October 21st, 2022 Video
-* [Dedicated Servers](../../../transcriptions/yt-rX7OpLCg0l8,192.22536666666667,217.85096666666666.md) [https://youtube.com/embed/rX7OpLCg0l8?autoplay=1&start=192&end=218](https://youtube.com/embed/rX7OpLCg0l8?autoplay=1&start=192&end=218)
+* [Dedicated Servers](../../../transcriptions/yt-rX7OpLCg0l8,192.22536666666667,217.85096666666666.md) [https://youtube.com/clip/Ugkxz-dEhiAGS_lmjKYmYxPrD8StXMobBlaI](https://youtube.com/clip/Ugkxz-dEhiAGS_lmjKYmYxPrD8StXMobBlaI)
 
 ## September 20th, 2022 Update 6 Release Stream
 * Dedicated Servers [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=7217&end=7323](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=7217&end=7323)
