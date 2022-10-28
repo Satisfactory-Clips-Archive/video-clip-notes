@@ -5,6 +5,12 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > World Update
 
+## October 25th, 2022 Livestream
+* [Intro](../../transcriptions/yt-y8I4mnME2jc.md) [https://www.youtube.com/watch?v=y8I4mnME2jc](https://www.youtube.com/watch?v=y8I4mnME2jc)
+* [State of Dev](../../transcriptions/yt-v_S1Do7Amfk.md) [https://www.youtube.com/watch?v=v_S1Do7Amfk](https://www.youtube.com/watch?v=v_S1Do7Amfk)
+* [Q&A: Paradise Island, yay or nay?](../../transcriptions/yt-vaWlnNbL2Xc.md) [https://www.youtube.com/watch?v=vaWlnNbL2Xc](https://www.youtube.com/watch?v=vaWlnNbL2Xc)
+* [Q&A: Are there any new nodes coming in Spire Coast for Update 7?](../../transcriptions/yt-Iu_wLJs_-08.md) [https://www.youtube.com/watch?v=Iu_wLJs_-08](https://www.youtube.com/watch?v=Iu_wLJs_-08)
+
 ## October 21st, 2022 Video
 * [World Update](../../transcriptions/yt-rX7OpLCg0l8,109.67623333333333,166.49966666666666.md) [https://youtube.com/clip/Ugkx4Wdon7zab8KlU8iipgKhhxzATb9JJMrm](https://youtube.com/clip/Ugkx4Wdon7zab8KlU8iipgKhhxzATb9JJMrm)
 

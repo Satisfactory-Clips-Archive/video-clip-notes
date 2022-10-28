@@ -9,7 +9,7 @@ topics:
 # [November 2nd, 2021 Livestream](../2021-11-02.md)
 ## Q&A: Is the OST coming on vinyl?
 https://www.youtube.com/watch?v=a95G0B-fLdc
-This question was possibly duplicated with a more recent answer: [August 30th, 2022 Livestream Q&A: A vinyl record?](./yt-hpXprNBRjM8.md) [https://www.youtube.com/watch?v=hpXprNBRjM8](https://www.youtube.com/watch?v=hpXprNBRjM8)
+This question was possibly duplicated with a more recent answer: [October 25th, 2022 Livestream Q&A: Will you add Satisfactory cheese- I mean vinyl?](./yt-yiZORn32BA0.md) [https://www.youtube.com/watch?v=yiZORn32BA0](https://www.youtube.com/watch?v=yiZORn32BA0)
 
 
 ### Topics

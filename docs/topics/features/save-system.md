@@ -7,6 +7,9 @@ date: Last Modified
 * [Autosave](../../topics/features/save-system/autosave.md)
 * [Cloud Sync](../../topics/features/save-system/cloud-sync.md)
 
+## October 25th, 2022 Livestream
+* [Q&A: Is there a planned feature to share save files with your friends?](../../transcriptions/yt-MPrW_o-rOZA.md) [https://www.youtube.com/watch?v=MPrW_o-rOZA](https://www.youtube.com/watch?v=MPrW_o-rOZA)
+
 ## October 18th, 2022 Livestream
 * [Snutt Talk: Responding to Twitch chat's obsession with toilets](../../transcriptions/yt-ww-xu_ttMCU.md) [https://www.youtube.com/watch?v=ww-xu_ttMCU](https://www.youtube.com/watch?v=ww-xu_ttMCU)
 

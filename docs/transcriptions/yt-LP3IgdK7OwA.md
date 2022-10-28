@@ -9,7 +9,7 @@ topics:
 # [September 21st, 2021 Livestream](../2021-09-21.md)
 ## Q&A: Will there be a thing like monsters attacking us in waves like in Factorio?
 https://www.youtube.com/watch?v=LP3IgdK7OwA
-This question was possibly duplicated with a more recent answer: June 28th, 2022 Livestream Q&A: Enemies destroy your factory, when? [https://www.youtube.com/watch?v=x3qD7G9oJTM](https://www.youtube.com/watch?v=x3qD7G9oJTM)
+This question was possibly duplicated with a more recent answer: [October 25th, 2022 Livestream Q&A: Game Mode with Base Defense?](./yt-W4o0vCsRoqE.md) [https://www.youtube.com/watch?v=W4o0vCsRoqE](https://www.youtube.com/watch?v=W4o0vCsRoqE)
 
 
 ### Topics

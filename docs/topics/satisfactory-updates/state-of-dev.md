@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > State of Dev
 
+## October 25th, 2022 Livestream
+* [State of Dev](../../transcriptions/yt-v_S1Do7Amfk.md) [https://www.youtube.com/watch?v=v_S1Do7Amfk](https://www.youtube.com/watch?v=v_S1Do7Amfk)
+
 ## October 21st, 2022 Video
 * [2022](../../transcriptions/yt-rX7OpLCg0l8,21.154466666666668,58.49176666666667.md) [https://youtube.com/clip/UgkxcHUnEgor81uHlPquqhj7nJ7o3voDiyGd](https://youtube.com/clip/UgkxcHUnEgor81uHlPquqhj7nJ7o3voDiyGd)
 * [1.0 Mystery Box](../../transcriptions/yt-rX7OpLCg0l8,58.525133333333336,97.83106666666667.md) [https://youtube.com/clip/UgkxGh7aDMpWg7vdSKhFfJfPhFpVsFGQI2_p](https://youtube.com/clip/UgkxGh7aDMpWg7vdSKhFfJfPhFpVsFGQI2_p)

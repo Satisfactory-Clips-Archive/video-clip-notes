@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Easter Eggs
 
+## October 25th, 2022 Livestream
+* [Q&A: More hidden music tapes?](../transcriptions/yt-Z5OU9uCTNC4.md) [https://www.youtube.com/watch?v=Z5OU9uCTNC4](https://www.youtube.com/watch?v=Z5OU9uCTNC4)
+
 ## September 27th, 2022 Livestream
 * [Q&A: More Boombox cassettes?](../transcriptions/yt-HQXxP5QeGJQ.md) [https://www.youtube.com/watch?v=HQXxP5QeGJQ](https://www.youtube.com/watch?v=HQXxP5QeGJQ)
 * Q&A: How many cassettes in the World? [https://www.youtube.com/watch?v=oCF2kgB15BY](https://www.youtube.com/watch?v=oCF2kgB15BY)

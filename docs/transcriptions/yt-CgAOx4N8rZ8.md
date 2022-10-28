@@ -9,7 +9,7 @@ topics:
 # [April 12th, 2022 Livestream](../2022-04-12.md)
 ## Q&A: Any plans to implement a statistics window?
 https://www.youtube.com/watch?v=CgAOx4N8rZ8
-This question was possibly duplicated with a more recent answer: [July 5th, 2022 Livestream Q&A: Is there going to be factory monitoring?](./yt-oU_GulSX3Zw.md) [https://www.youtube.com/watch?v=oU_GulSX3Zw](https://www.youtube.com/watch?v=oU_GulSX3Zw)
+This question was possibly duplicated with a more recent answer: [October 25th, 2022 Livestream Q&A: Some sort of Statistics page planned?](./yt-v3z7I4YN9h8.md) [https://www.youtube.com/watch?v=v3z7I4YN9h8](https://www.youtube.com/watch?v=v3z7I4YN9h8)
 
 
 ### Topics

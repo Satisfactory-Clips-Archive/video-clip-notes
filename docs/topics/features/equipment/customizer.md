@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Equipment](../../../topics/features/equipment.md) > Customizer
 
+## October 25th, 2022 Livestream
+* [Q&A: Any more materials planned for Roofs?](../../../transcriptions/yt--ZXKfX-cCho.md) [https://www.youtube.com/watch?v=-ZXKfX-cCho](https://www.youtube.com/watch?v=-ZXKfX-cCho)
+
 ## September 20th, 2022 Update 6 Release Stream
 * Equipment Colour Schemes [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=6196&end=6213](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=6196&end=6213)
 

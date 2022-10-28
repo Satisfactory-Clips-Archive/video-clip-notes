@@ -9,7 +9,7 @@ topics:
 # [September 29th, 2020 Livestream](../2020-09-29.md)
 ## Q&A: Control Console with a simple representation of the Remote Plants?
 https://www.youtube.com/watch?v=hVDlrmNvsIY
-This question was possibly duplicated with a more recent answer: [July 5th, 2022 Livestream Q&A: Is there going to be factory monitoring?](./yt-oU_GulSX3Zw.md) [https://www.youtube.com/watch?v=oU_GulSX3Zw](https://www.youtube.com/watch?v=oU_GulSX3Zw)
+This question was possibly duplicated with a more recent answer: [October 25th, 2022 Livestream Q&A: Some sort of Statistics page planned?](./yt-v3z7I4YN9h8.md) [https://www.youtube.com/watch?v=v3z7I4YN9h8](https://www.youtube.com/watch?v=v3z7I4YN9h8)
 
 
 ### Topics

@@ -5,6 +5,13 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Trolling
 
+## October 25th, 2022 Livestream
+* [Special Guest CEO of CSS (aka Official Satisfactory Podcast episode 2)](../transcriptions/yt-jjgFHNU5NNM.md) [https://www.youtube.com/watch?v=jjgFHNU5NNM](https://www.youtube.com/watch?v=jjgFHNU5NNM)
+* [Q&A: More hidden music tapes?](../transcriptions/yt-Z5OU9uCTNC4.md) [https://www.youtube.com/watch?v=Z5OU9uCTNC4](https://www.youtube.com/watch?v=Z5OU9uCTNC4)
+* [Q&A: Can I get an air tag for my Boombox, I keep dropping it ?](../transcriptions/yt-jooIEmeyH-4.md) [https://www.youtube.com/watch?v=jooIEmeyH-4](https://www.youtube.com/watch?v=jooIEmeyH-4)
+* [Q&A: Goat Sim went from 1 to 3?](../transcriptions/yt-xYUcd4mhlm0.md) [https://www.youtube.com/watch?v=xYUcd4mhlm0](https://www.youtube.com/watch?v=xYUcd4mhlm0)
+* [Q&A: Liquid Biofuel for Jetpack?](../transcriptions/yt-ZArBtcPKnzE.md) [https://www.youtube.com/watch?v=ZArBtcPKnzE](https://www.youtube.com/watch?v=ZArBtcPKnzE)
+
 ## October 18th, 2022 Livestream
 * [Snutt Talk: Responding to Twitch chat's obsession with toilets](../transcriptions/yt-ww-xu_ttMCU.md) [https://www.youtube.com/watch?v=ww-xu_ttMCU](https://www.youtube.com/watch?v=ww-xu_ttMCU)
 * [Q&A: Stadia port, when?](../transcriptions/yt-91ejt47Mtjk.md) [https://www.youtube.com/watch?v=91ejt47Mtjk](https://www.youtube.com/watch?v=91ejt47Mtjk)

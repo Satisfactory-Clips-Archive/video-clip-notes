@@ -7,6 +7,10 @@ date: Last Modified
 * [Cheatcrete](../../../topics/features/buildables/foundations/cheatcrete.md)
 * [Foundation Stencils](../../../topics/features/buildables/foundations/stencils.md)
 
+## October 25th, 2022 Livestream
+* [Q&A: Are you going to half Glass Foundations?](../../../transcriptions/yt-kH2dOTO1b9w.md) [https://www.youtube.com/watch?v=kH2dOTO1b9w](https://www.youtube.com/watch?v=kH2dOTO1b9w)
+* [Q&A: Quarter Foundations?](../../../transcriptions/yt-AOP6ppi6KhA.md) [https://www.youtube.com/watch?v=AOP6ppi6KhA](https://www.youtube.com/watch?v=AOP6ppi6KhA)
+
 ## October 4th, 2022 Livestream
 * [State of Dev](../../../transcriptions/yt-dniAHWqQ4FI.md) [https://www.youtube.com/watch?v=dniAHWqQ4FI](https://www.youtube.com/watch?v=dniAHWqQ4FI)
 * [Q&A: Double outlets on Foundations?](../../../transcriptions/yt-SWdSlbaISog.md) [https://www.youtube.com/watch?v=SWdSlbaISog](https://www.youtube.com/watch?v=SWdSlbaISog)

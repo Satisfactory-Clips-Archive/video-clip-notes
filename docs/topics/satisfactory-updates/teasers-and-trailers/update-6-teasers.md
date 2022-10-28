@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Teasers & Trailers](../../../topics/satisfactory-updates/teasers-and-trailers.md) > Update 6 Teasers
 
+## October 25th, 2022 Livestream
+* [Q&A: What's the music in the trailer for Update 6?](../../../transcriptions/yt-ksARFSg6E1c.md) [https://www.youtube.com/watch?v=ksARFSg6E1c](https://www.youtube.com/watch?v=ksARFSg6E1c)
+
 ## September 30th, 2022 Video
 * [Trailer & lack of Patch Notes video](../../../transcriptions/yt-5Pz_dZbEx-4,17.884533333333334,56.79006666666667.md) [https://youtube.com/embed/5Pz_dZbEx-4?autoplay=1&start=17&end=57](https://youtube.com/embed/5Pz_dZbEx-4?autoplay=1&start=17&end=57)
 

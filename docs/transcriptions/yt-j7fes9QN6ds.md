@@ -9,7 +9,7 @@ topics:
 # [February 22nd, 2022 Livestream](../2022-02-22.md)
 ## Q&A: Steam Deck support?
 https://www.youtube.com/watch?v=j7fes9QN6ds
-This question was possibly duplicated with a more recent answer: [August 23rd, 2022 Livestream Q&A: Will it run on the Steam Deck?](./yt-fkgt6horxZY.md) [https://www.youtube.com/watch?v=fkgt6horxZY](https://www.youtube.com/watch?v=fkgt6horxZY)
+This question was possibly duplicated with a more recent answer: [October 25th, 2022 Livestream Q&A: Steam Deck compatibility?](./yt-D8KFt3dK700.md) [https://www.youtube.com/watch?v=D8KFt3dK700](https://www.youtube.com/watch?v=D8KFt3dK700)
 
 
 ### Topics

@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > Overclocking & Underclocking
 
+## October 25th, 2022 Livestream
+* [State of Dev](../../../transcriptions/yt-v_S1Do7Amfk.md) [https://www.youtube.com/watch?v=v_S1Do7Amfk](https://www.youtube.com/watch?v=v_S1Do7Amfk)
+* [Q&A: Can you make a chat command for the Mk.3 Miner thing?](../../../transcriptions/yt-lz_Q6oWi41w.md) [https://www.youtube.com/watch?v=lz_Q6oWi41w](https://www.youtube.com/watch?v=lz_Q6oWi41w)
+* [Q&A: Can you tell us some news about the Nuclear Power Plant Overclocking?](../../../transcriptions/yt-Ekab1HbNK5g.md) [https://www.youtube.com/watch?v=Ekab1HbNK5g](https://www.youtube.com/watch?v=Ekab1HbNK5g)
+
 ## October 21st, 2022 Video
 * [Power Generators](../../../transcriptions/yt-rX7OpLCg0l8,385.7520333333333,451.01723333333337.md) [https://youtube.com/embed/rX7OpLCg0l8?autoplay=1&start=385&end=452](https://youtube.com/embed/rX7OpLCg0l8?autoplay=1&start=385&end=452)
 * [Nuclear Power Plant](../../../transcriptions/yt-rX7OpLCg0l8,451.05060000000003,482.7155666666667.md) [https://youtube.com/clip/UgkxB8uv-YKGFi47qSXcDV8c-MqpColqCe-Q](https://youtube.com/clip/UgkxB8uv-YKGFi47qSXcDV8c-MqpColqCe-Q)

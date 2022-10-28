@@ -10,6 +10,9 @@ date: Last Modified
 * [Non Flying Bird](../../topics/environment/creatures/non-flying-bird.md)
 * [Space Giraffe-Tick-Penguin-Whale Thing](../../topics/environment/creatures/space-giraffe-tick-penguin-whale-thing.md)
 
+## October 25th, 2022 Livestream
+* [State of Dev](../../transcriptions/yt-v_S1Do7Amfk.md) [https://www.youtube.com/watch?v=v_S1Do7Amfk](https://www.youtube.com/watch?v=v_S1Do7Amfk)
+
 ## October 21st, 2022 Video
 * [AWESOME Sink](../../transcriptions/yt-rX7OpLCg0l8,482.74893333333335,518.6848333333334.md) [https://youtube.com/clip/Ugkx_qtDyAsJ1XWei9weMq-dIJehwgmw0xXR](https://youtube.com/clip/Ugkx_qtDyAsJ1XWei9weMq-dIJehwgmw0xXR)
 * [Creatures](../../transcriptions/yt-rX7OpLCg0l8,541.1072333333334,562.1949666666667.md) [https://youtube.com/clip/Ugkx0eqzU2sStIWmjLXqFS-FMuFWjBTIYG4E](https://youtube.com/clip/Ugkx0eqzU2sStIWmjLXqFS-FMuFWjBTIYG4E)

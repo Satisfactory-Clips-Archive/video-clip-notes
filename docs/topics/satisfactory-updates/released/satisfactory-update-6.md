@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Released > Satisfactory Update 6
 
+## October 25th, 2022 Livestream
+* [Q&A: Some trees are impossible to delete?](../../../transcriptions/yt-37IkuLKTgkc.md) [https://www.youtube.com/watch?v=37IkuLKTgkc](https://www.youtube.com/watch?v=37IkuLKTgkc)
+* [Q&A: Any more patches planned for Update 6 before Update 7?](../../../transcriptions/yt-_DGwfxdYyqM.md) [https://www.youtube.com/watch?v=_DGwfxdYyqM](https://www.youtube.com/watch?v=_DGwfxdYyqM)
+* [Q&A: Wouldn't it be better to name it 6.2?](../../../transcriptions/yt-I-0vuqBojUk.md) [https://www.youtube.com/watch?v=I-0vuqBojUk](https://www.youtube.com/watch?v=I-0vuqBojUk)
+
 ## October 21st, 2022 Video
 * [2022](../../../transcriptions/yt-rX7OpLCg0l8,21.154466666666668,58.49176666666667.md) [https://youtube.com/clip/UgkxcHUnEgor81uHlPquqhj7nJ7o3voDiyGd](https://youtube.com/clip/UgkxcHUnEgor81uHlPquqhj7nJ7o3voDiyGd)
 

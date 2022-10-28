@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Equipment](../../../topics/features/equipment.md) > Blade Runners
 
+## October 25th, 2022 Livestream
+* [Q&A: Blade Runners while going in HyperTube bug getting fixed?](../../../transcriptions/yt-Ctu7jicDo5c.md) [https://www.youtube.com/watch?v=Ctu7jicDo5c](https://www.youtube.com/watch?v=Ctu7jicDo5c)
+
 ## October 4th, 2022 Livestream
 * [Q&A: Rework of inventory?](../../../transcriptions/yt-f7esEVn2NP0.md) [https://www.youtube.com/watch?v=f7esEVn2NP0](https://www.youtube.com/watch?v=f7esEVn2NP0)
 

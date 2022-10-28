@@ -10,6 +10,10 @@ date: Last Modified
 * [Juice Velvet](../../topics/coffee-stainers/jace/juice-velvet.md)
 * [Robo Jace](../../topics/coffee-stainers/jace/robo-jace.md)
 
+## October 25th, 2022 Livestream
+* [Intro](../../transcriptions/yt-y8I4mnME2jc.md) [https://www.youtube.com/watch?v=y8I4mnME2jc](https://www.youtube.com/watch?v=y8I4mnME2jc)
+* [Q&A: Will we have better Community Managers next week?](../../transcriptions/yt-nfs-AP7hE8s.md) [https://www.youtube.com/watch?v=nfs-AP7hE8s](https://www.youtube.com/watch?v=nfs-AP7hE8s)
+
 ## October 4th, 2022 Livestream
 * [Q&A: Jace, are you back full-time?](../../transcriptions/yt-K1oS-A9ctp4.md) [https://www.youtube.com/watch?v=K1oS-A9ctp4](https://www.youtube.com/watch?v=K1oS-A9ctp4)
 * [Q&A: Jace, when are you coming back from break?](../../transcriptions/yt-WiCZlg9QbeQ.md) [https://www.youtube.com/watch?v=WiCZlg9QbeQ](https://www.youtube.com/watch?v=WiCZlg9QbeQ)

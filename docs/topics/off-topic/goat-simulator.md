@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Goat Simulator
 
+## October 25th, 2022 Livestream
+* [Q&A: Goat Sim went from 1 to 3?](../../transcriptions/yt-xYUcd4mhlm0.md) [https://www.youtube.com/watch?v=xYUcd4mhlm0](https://www.youtube.com/watch?v=xYUcd4mhlm0)
+
 ## July 12th, 2022 Livestream
 * Community FYI: Lovely Goat Simulator 3 trailer by the way [https://www.youtube.com/watch?v=TCKKW48Ey0M](https://www.youtube.com/watch?v=TCKKW48Ey0M)
 * [Q&A: Did you make anything in Goat Sim?](../../transcriptions/yt-4v3ET-ykiz8.md) [https://www.youtube.com/watch?v=4v3ET-ykiz8](https://www.youtube.com/watch?v=4v3ET-ykiz8)

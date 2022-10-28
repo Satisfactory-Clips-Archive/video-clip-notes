@@ -5,6 +5,15 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Pending](../../../topics/satisfactory-updates/pending.md) > Satisfactory 1.0
 
+## October 25th, 2022 Livestream
+* [Special Guest CEO of CSS (aka Official Satisfactory Podcast episode 2)](../../../transcriptions/yt-jjgFHNU5NNM.md) [https://www.youtube.com/watch?v=jjgFHNU5NNM](https://www.youtube.com/watch?v=jjgFHNU5NNM)
+* [Q&A: Is the final Update going to be a small patch or a big one?](../../../transcriptions/yt-h3Fy3VpwDHs.md) [https://www.youtube.com/watch?v=h3Fy3VpwDHs](https://www.youtube.com/watch?v=h3Fy3VpwDHs)
+* [Q&A: Any ETA on 1.0?](../../../transcriptions/yt-MO_j7ToLTUw.md) [https://www.youtube.com/watch?v=MO_j7ToLTUw](https://www.youtube.com/watch?v=MO_j7ToLTUw)
+* [Q&A: Will Multiplayer performance update come before 1.0?](../../../transcriptions/yt-wl4e18QLSs0.md) [https://www.youtube.com/watch?v=wl4e18QLSs0](https://www.youtube.com/watch?v=wl4e18QLSs0)
+* [Q&A: Is there a roadmap post-1.0?](../../../transcriptions/yt-OL-_uOc1uLE.md) [https://www.youtube.com/watch?v=OL-_uOc1uLE](https://www.youtube.com/watch?v=OL-_uOc1uLE)
+* [Q&A: Will 1.0 be the biggest update?](../../../transcriptions/yt-JvboHp7iIMQ.md) [https://www.youtube.com/watch?v=JvboHp7iIMQ](https://www.youtube.com/watch?v=JvboHp7iIMQ)
+* [Q&A: Will the ADA voice change for 1.0?](../../../transcriptions/yt-Q1HGm6cbfEo.md) [https://www.youtube.com/watch?v=Q1HGm6cbfEo](https://www.youtube.com/watch?v=Q1HGm6cbfEo)
+
 ## October 21st, 2022 Video
 * [1.0 Mystery Box](../../../transcriptions/yt-rX7OpLCg0l8,58.525133333333336,97.83106666666667.md) [https://youtube.com/clip/UgkxGh7aDMpWg7vdSKhFfJfPhFpVsFGQI2_p](https://youtube.com/clip/UgkxGh7aDMpWg7vdSKhFfJfPhFpVsFGQI2_p)
 

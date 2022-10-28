@@ -9,7 +9,7 @@ topics:
 # [November 24th, 2020 Livestream](../2020-11-24.md)
 ## Q&A: Is terraforming possible any time in the future?
 https://www.youtube.com/watch?v=_fE2dbyaJZg
-This question was possibly duplicated with a more recent answer: [September 27th, 2022 Livestream Q&A: Terraforming some way like in Deep Rock Galactic?](./yt-AFfGSKuLWy8.md) [https://www.youtube.com/watch?v=AFfGSKuLWy8](https://www.youtube.com/watch?v=AFfGSKuLWy8)
+This question was possibly duplicated with a more recent answer: [October 25th, 2022 Livestream Q&A: Game Mode with terrain-editing ability?](./yt-ZMOO9BEGw04.md) [https://www.youtube.com/watch?v=ZMOO9BEGw04](https://www.youtube.com/watch?v=ZMOO9BEGw04)
 
 
 ### Topics

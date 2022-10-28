@@ -7,6 +7,9 @@ date: Last Modified
 * [EU Merch Store](../topics/merch/eu-merch-store.md)
 * [Merch Prototypes](../topics/merch/merch-prototypes.md)
 
+## October 25th, 2022 Livestream
+* [Q&A: Will you add Satisfactory cheese- I mean vinyl?](../transcriptions/yt-yiZORn32BA0.md) [https://www.youtube.com/watch?v=yiZORn32BA0](https://www.youtube.com/watch?v=yiZORn32BA0)
+
 ## October 4th, 2022 Livestream
 * [Q&A: How is the Satisfactory anime coming along?](../transcriptions/yt-XKDaGUtQnxs.md) [https://www.youtube.com/watch?v=XKDaGUtQnxs](https://www.youtube.com/watch?v=XKDaGUtQnxs)
 

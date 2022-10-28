@@ -8,7 +8,7 @@ topics:
 # [March 22nd, 2022 Livestream](../2022-03-22.md)
 ## Q&A: Do you think you guys are close to 1.0?
 https://www.youtube.com/watch?v=D0Za_7YA9G0
-This question was possibly duplicated with a more recent answer: [October 18th, 2022 Livestream Q&A: Are we getting close to 1.0?](./yt-RJdlDgWm94U.md) [https://www.youtube.com/watch?v=RJdlDgWm94U](https://www.youtube.com/watch?v=RJdlDgWm94U)
+This question was possibly duplicated with a more recent answer: [October 25th, 2022 Livestream Q&A: Any ETA on 1.0?](./yt-MO_j7ToLTUw.md) [https://www.youtube.com/watch?v=MO_j7ToLTUw](https://www.youtube.com/watch?v=MO_j7ToLTUw)
 
 
 ### Topics

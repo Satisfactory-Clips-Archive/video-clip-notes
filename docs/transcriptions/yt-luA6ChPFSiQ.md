@@ -9,6 +9,8 @@ topics:
 # [September 27th, 2022 Livestream](../2022-09-27.md)
 ## Q&A: Can you confirm their are only three cassettes on the map?
 https://www.youtube.com/watch?v=luA6ChPFSiQ
+This question was possibly duplicated with a more recent answer: [October 25th, 2022 Livestream Q&A: More hidden music tapes?](./yt-Z5OU9uCTNC4.md) [https://www.youtube.com/watch?v=Z5OU9uCTNC4](https://www.youtube.com/watch?v=Z5OU9uCTNC4)
+
 
 ### Topics
 * [Features > Equipment > Boombox](../topics/features/equipment/boombox.md)

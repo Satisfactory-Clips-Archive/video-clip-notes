@@ -10,6 +10,9 @@ date: Last Modified
 * [Power Storage](../../topics/features/power-management/power-storage.md)
 * [Power Switch](../../topics/features/power-management/power-switch.md)
 
+## October 25th, 2022 Livestream
+* [State of Dev](../../transcriptions/yt-v_S1Do7Amfk.md) [https://www.youtube.com/watch?v=v_S1Do7Amfk](https://www.youtube.com/watch?v=v_S1Do7Amfk)
+
 ## October 21st, 2022 Video
 * [Power Generators](../../transcriptions/yt-rX7OpLCg0l8,385.7520333333333,451.01723333333337.md) [https://youtube.com/embed/rX7OpLCg0l8?autoplay=1&start=385&end=452](https://youtube.com/embed/rX7OpLCg0l8?autoplay=1&start=385&end=452)
 

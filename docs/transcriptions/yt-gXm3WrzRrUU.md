@@ -9,7 +9,7 @@ topics:
 # [March 30th, 2021 Livestream](../2021-03-30.md)
 ## Q&A: When are my Blade Runners going to stay on my character while in Hyper Tubes?
 https://www.youtube.com/watch?v=gXm3WrzRrUU
-This question was possibly duplicated with a more recent answer: [March 15th, 2022 Livestream Q&A: Will you ever fix the Blades glitching through the Hypertubes?](./yt-RSRBm3ZiLKg.md) [https://www.youtube.com/watch?v=RSRBm3ZiLKg](https://www.youtube.com/watch?v=RSRBm3ZiLKg)
+This question was possibly duplicated with a more recent answer: [October 25th, 2022 Livestream Q&A: Blade Runners while going in HyperTube bug getting fixed?](./yt-Ctu7jicDo5c.md) [https://www.youtube.com/watch?v=Ctu7jicDo5c](https://www.youtube.com/watch?v=Ctu7jicDo5c)
 
 
 ### Topics

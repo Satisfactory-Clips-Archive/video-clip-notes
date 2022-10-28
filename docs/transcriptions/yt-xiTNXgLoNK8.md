@@ -8,7 +8,7 @@ topics:
 # [April 20th, 2021 Livestream](../2021-04-20.md)
 ## Q&A: Will Satisfactory support ray tracing?
 https://www.youtube.com/watch?v=xiTNXgLoNK8
-This question was possibly duplicated with a more recent answer: [September 28th, 2021 Livestream Q&A: RTX Support?](./yt-omr18rjqWZs.md) [https://www.youtube.com/watch?v=omr18rjqWZs](https://www.youtube.com/watch?v=omr18rjqWZs)
+This question was possibly duplicated with a more recent answer: [October 25th, 2022 Livestream Q&A: RTX Support, when?](./yt-oNsfF8oCgl0.md) [https://www.youtube.com/watch?v=oNsfF8oCgl0](https://www.youtube.com/watch?v=oNsfF8oCgl0)
 
 
 ### Topics

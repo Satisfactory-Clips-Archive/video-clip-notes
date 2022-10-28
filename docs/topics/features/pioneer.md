@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Features](../../topics/features.md) > Pioneer
 
+## October 25th, 2022 Livestream
+* [Q&A: Zombie Pioneer bug fixed yet?](../../transcriptions/yt-IPjEh69Yaw8.md) [https://www.youtube.com/watch?v=IPjEh69Yaw8](https://www.youtube.com/watch?v=IPjEh69Yaw8)
+* [Q&A: Blade Runners while going in HyperTube bug getting fixed?](../../transcriptions/yt-Ctu7jicDo5c.md) [https://www.youtube.com/watch?v=Ctu7jicDo5c](https://www.youtube.com/watch?v=Ctu7jicDo5c)
+
 ## October 18th, 2022 Livestream
 * [Q&A: Will there ever be a way to spawn at different locations than the HUB?](../../transcriptions/yt-y8-Dx1rqNLQ.md) [https://www.youtube.com/watch?v=y8-Dx1rqNLQ](https://www.youtube.com/watch?v=y8-Dx1rqNLQ)
 

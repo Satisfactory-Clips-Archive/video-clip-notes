@@ -10,12 +10,6 @@ topics:
 # [July 5th, 2022 Livestream](../2022-07-05.md)
 ## Q&A: When is your next Final Fantasy podcast?
 https://www.youtube.com/watch?v=8-TdFU3iRUo
-<details>
-<summary>This question may have been asked previously at least 1 other time, as recently as April 2022.</summary>
-
-* [April 19th, 2022 Livestream Q&A: When will you add episode 2 on the Podcast?](./yt-g57nuSoIYnw.md) [https://www.youtube.com/watch?v=g57nuSoIYnw](https://www.youtube.com/watch?v=g57nuSoIYnw)
-</details>
-
 
 ### Topics
 * [Features > Requested Features](../topics/features/requested-features.md)

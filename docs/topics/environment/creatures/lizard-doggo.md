@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Creatures](../../../topics/environment/creatures.md) > Lizard Doggo
 
+## October 25th, 2022 Livestream
+* [Q&A: Ability to have Lizard Doggos fetch and deliver items to replace Belts?](../../../transcriptions/yt-kgIZcUreWaA.md) [https://www.youtube.com/watch?v=kgIZcUreWaA](https://www.youtube.com/watch?v=kgIZcUreWaA)
+
 ## October 18th, 2022 Livestream
 * [Q&A: Will there ever be a Lizard Catto?](../../../transcriptions/yt-WWdAKp4EfVk.md) [https://www.youtube.com/watch?v=WWdAKp4EfVk](https://www.youtube.com/watch?v=WWdAKp4EfVk)
 

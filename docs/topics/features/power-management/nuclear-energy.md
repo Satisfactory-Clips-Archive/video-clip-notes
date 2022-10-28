@@ -7,6 +7,9 @@ date: Last Modified
 * [Nuclear Refinement](../../../topics/features/power-management/nuclear-energy/nuclear-refinement.md)
 * [Nuclear Waste](../../../topics/features/power-management/nuclear-energy/nuclear-waste.md)
 
+## October 25th, 2022 Livestream
+* [Q&A: Can you tell us some news about the Nuclear Power Plant Overclocking?](../../../transcriptions/yt-Ekab1HbNK5g.md) [https://www.youtube.com/watch?v=Ekab1HbNK5g](https://www.youtube.com/watch?v=Ekab1HbNK5g)
+
 ## October 21st, 2022 Video
 * [Nuclear Power Plant](../../../transcriptions/yt-rX7OpLCg0l8,451.05060000000003,482.7155666666667.md) [https://youtube.com/clip/UgkxB8uv-YKGFi47qSXcDV8c-MqpColqCe-Q](https://youtube.com/clip/UgkxB8uv-YKGFi47qSXcDV8c-MqpColqCe-Q)
 

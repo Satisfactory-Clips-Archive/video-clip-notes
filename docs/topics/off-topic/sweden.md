@@ -8,6 +8,9 @@ date: Last Modified
 * [Skövde](../../topics/off-topic/sweden/skovde.md)
 * [Stockholm](../../topics/off-topic/sweden/stockholm.md)
 
+## October 25th, 2022 Livestream
+* [Q&A: Burgers tonight?](../../transcriptions/yt-SPpbSYi9LXg.md) [https://www.youtube.com/watch?v=SPpbSYi9LXg](https://www.youtube.com/watch?v=SPpbSYi9LXg)
+
 ## October 18th, 2022 Livestream
 * [Q&A: Have you heard of Meshuggah?](../../transcriptions/yt-fs0tMTXJYXk.md) [https://www.youtube.com/watch?v=fs0tMTXJYXk](https://www.youtube.com/watch?v=fs0tMTXJYXk)
 

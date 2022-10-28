@@ -8,7 +8,7 @@ topics:
 # [February 20th, 2019 Livestream](../2019-02-20.md)
 ## Q&A: Can we deform terrain?
 https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=5141&end=5153
-This question was possibly duplicated with a more recent answer: [September 27th, 2022 Livestream Q&A: Terraforming some way like in Deep Rock Galactic?](./yt-AFfGSKuLWy8.md) [https://www.youtube.com/watch?v=AFfGSKuLWy8](https://www.youtube.com/watch?v=AFfGSKuLWy8)
+This question was possibly duplicated with a more recent answer: [October 25th, 2022 Livestream Q&A: Game Mode with terrain-editing ability?](./yt-ZMOO9BEGw04.md) [https://www.youtube.com/watch?v=ZMOO9BEGw04](https://www.youtube.com/watch?v=ZMOO9BEGw04)
 
 
 ### Topics

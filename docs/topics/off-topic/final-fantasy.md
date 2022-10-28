@@ -6,6 +6,10 @@ date: Last Modified
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Final Fantasy
 * [The Official Satisfactory PODCAST](../../topics/off-topic/final-fantasy/the-official-satisfactory-podcast.md)
 
+## October 25th, 2022 Livestream
+* [Special Guest CEO of CSS (aka Official Satisfactory Podcast episode 2)](../../transcriptions/yt-jjgFHNU5NNM.md) [https://www.youtube.com/watch?v=jjgFHNU5NNM](https://www.youtube.com/watch?v=jjgFHNU5NNM)
+* [Q&A: Do you think Final Fantasy 17 is in the works yet?](../../transcriptions/yt-wpJnNM4Z48U.md) [https://www.youtube.com/watch?v=wpJnNM4Z48U](https://www.youtube.com/watch?v=wpJnNM4Z48U)
+
 ## September 6th, 2022 Livestream
 * [Q&A: Final Fantasy / Satisfactory crossover, when?](../../transcriptions/yt-rhJX7THGRCA.md) [https://www.youtube.com/watch?v=rhJX7THGRCA](https://www.youtube.com/watch?v=rhJX7THGRCA)
 * [Q&A: Has Snutt played Final Fantasy 14 on stream?](../../transcriptions/yt-cu7vBhrc6vU.md) [https://www.youtube.com/watch?v=cu7vBhrc6vU](https://www.youtube.com/watch?v=cu7vBhrc6vU)

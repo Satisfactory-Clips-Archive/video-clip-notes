@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Soundtrack
 
+## October 25th, 2022 Livestream
+* [Q&A: Will you add Satisfactory cheese- I mean vinyl?](../transcriptions/yt-yiZORn32BA0.md) [https://www.youtube.com/watch?v=yiZORn32BA0](https://www.youtube.com/watch?v=yiZORn32BA0)
+* [Q&A: What's the music in the trailer for Update 6?](../transcriptions/yt-ksARFSg6E1c.md) [https://www.youtube.com/watch?v=ksARFSg6E1c](https://www.youtube.com/watch?v=ksARFSg6E1c)
+
 ## October 18th, 2022 Livestream
 * [Q&A: Will I get a DMCA claim if I use the game OST as background music?](../transcriptions/yt-VNIuvJo_2wQ.md) [https://www.youtube.com/watch?v=VNIuvJo_2wQ](https://www.youtube.com/watch?v=VNIuvJo_2wQ)
 

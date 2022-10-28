@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildables](../../../topics/features/buildables.md) > Walls
 
+## October 25th, 2022 Livestream
+* [Q&A: Placeable Conveyor Wall Holes?](../../../transcriptions/yt-HYwrE8Owqn0.md) [https://www.youtube.com/watch?v=HYwrE8Owqn0](https://www.youtube.com/watch?v=HYwrE8Owqn0)
+* [Q&A: Can you make the Walls no collide on each other?](../../../transcriptions/yt-HHjgWItYm2s.md) [https://www.youtube.com/watch?v=HHjgWItYm2s](https://www.youtube.com/watch?v=HHjgWItYm2s)
+* [Q&A: Half-Wall, 4x4?](../../../transcriptions/yt-uTZnrlfNRY4.md) [https://www.youtube.com/watch?v=uTZnrlfNRY4](https://www.youtube.com/watch?v=uTZnrlfNRY4)
+
 ## October 18th, 2022 Livestream
 * [Q&A: Will we get more Conveyor Wall options?](../../../transcriptions/yt-2NGmkNfEdj8.md) [https://www.youtube.com/watch?v=2NGmkNfEdj8](https://www.youtube.com/watch?v=2NGmkNfEdj8)
 

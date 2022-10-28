@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Story & Lore](../../../topics/story-and-lore.md) > Characters > ADA
 
+## October 25th, 2022 Livestream
+* [Q&A: Will the ADA voice change for 1.0?](../../../transcriptions/yt-Q1HGm6cbfEo.md) [https://www.youtube.com/watch?v=Q1HGm6cbfEo](https://www.youtube.com/watch?v=Q1HGm6cbfEo)
+
 ## August 23rd, 2022 Livestream
 * [Q&A: Will ADA ever tell me I did a satisfactory job?](../../../transcriptions/yt-_m5pmry-EDw.md) [https://www.youtube.com/watch?v=_m5pmry-EDw](https://www.youtube.com/watch?v=_m5pmry-EDw)
 

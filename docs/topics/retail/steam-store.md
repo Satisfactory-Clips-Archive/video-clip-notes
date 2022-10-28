@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../topics.md) > [Retail](../../topics/retail.md) > Steam Store
 * [Steam Release](../../topics/retail/steam-store/steam-release.md)
 
+## October 25th, 2022 Livestream
+* [Q&A: Dedicated Server application on Steam?](../../transcriptions/yt-k95caIpykOo.md) [https://www.youtube.com/watch?v=k95caIpykOo](https://www.youtube.com/watch?v=k95caIpykOo)
+
 ## August 23rd, 2022 Livestream
 * [Q&A: Will it run on the Steam Deck?](../../transcriptions/yt-fkgt6horxZY.md) [https://www.youtube.com/watch?v=fkgt6horxZY](https://www.youtube.com/watch?v=fkgt6horxZY)
 

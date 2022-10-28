@@ -11,6 +11,8 @@ topics:
 # [June 28th, 2022 Livestream](../2022-06-28.md)
 ## Q&A: When new nodes in Spire Coast?
 https://www.youtube.com/watch?v=Y2bdYFAupfc
+This question was possibly duplicated with a more recent answer: [October 25th, 2022 Livestream Q&A: Are there any new nodes coming in Spire Coast for Update 7?](./yt-Iu_wLJs_-08.md) [https://www.youtube.com/watch?v=Iu_wLJs_-08](https://www.youtube.com/watch?v=Iu_wLJs_-08)
+
 
 ### Topics
 * [Environment > Biomes > Spire Coast](../topics/environment/biomes/spire-coast.md)

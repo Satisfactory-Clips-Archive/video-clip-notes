@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Special Guests
 
+## October 25th, 2022 Livestream
+* [Special Guest CEO of CSS (aka Official Satisfactory Podcast episode 2)](../transcriptions/yt-jjgFHNU5NNM.md) [https://www.youtube.com/watch?v=jjgFHNU5NNM](https://www.youtube.com/watch?v=jjgFHNU5NNM)
+
 ## May 17th, 2022 Livestream
 * [Special Guest](../transcriptions/yt-pLBIAObULRg.md) [https://www.youtube.com/watch?v=pLBIAObULRg](https://www.youtube.com/watch?v=pLBIAObULRg)
 

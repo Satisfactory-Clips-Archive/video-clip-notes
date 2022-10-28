@@ -9,7 +9,7 @@ topics:
 # [September 29th, 2020 Livestream](../2020-09-29.md)
 ## Q&A: Add RTX?
 https://www.youtube.com/watch?v=KXKJxFYBxos
-This question was possibly duplicated with a more recent answer: [September 28th, 2021 Livestream Q&A: RTX Support?](./yt-omr18rjqWZs.md) [https://www.youtube.com/watch?v=omr18rjqWZs](https://www.youtube.com/watch?v=omr18rjqWZs)
+This question was possibly duplicated with a more recent answer: [October 25th, 2022 Livestream Q&A: RTX Support, when?](./yt-oNsfF8oCgl0.md) [https://www.youtube.com/watch?v=oNsfF8oCgl0](https://www.youtube.com/watch?v=oNsfF8oCgl0)
 
 
 ### Topics

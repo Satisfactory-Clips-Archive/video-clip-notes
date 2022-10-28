@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Unplanned Features](../../../topics/features/unplanned-features.md) > Golf
 
+## October 25th, 2022 Livestream
+* [Q&A: Game Mode with terrain-editing ability?](../../../transcriptions/yt-ZMOO9BEGw04.md) [https://www.youtube.com/watch?v=ZMOO9BEGw04](https://www.youtube.com/watch?v=ZMOO9BEGw04)
+
 ## October 18th, 2022 Livestream
 * [Community FYI: Snutt can neither confirm or deny Golf](../../../transcriptions/yt-ETIleSSZYq4.md) [https://www.youtube.com/watch?v=ETIleSSZYq4](https://www.youtube.com/watch?v=ETIleSSZYq4)
 

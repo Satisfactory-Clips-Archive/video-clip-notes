@@ -11,11 +11,7 @@ topics:
 # [September 6th, 2022 Livestream](../2022-09-06.md)
 ## Q&A: Experimental on GeForce Now?
 https://www.youtube.com/watch?v=--jwCj0yQak
-<details>
-<summary>This question may have been asked previously at least 1 other time, as recently as March 2021.</summary>
-
-* [March 23rd, 2021 Livestream Q&A: Is Geforce Now going to get Experimental?](./yt-ZgaAp-f2AI4.md) [https://www.youtube.com/watch?v=ZgaAp-f2AI4](https://www.youtube.com/watch?v=ZgaAp-f2AI4)
-</details>
+This question was possibly duplicated with a more recent answer: [October 25th, 2022 Livestream Q&A: Experimental Branch on GeForce Now?](./yt-o2bWTOQiTww.md) [https://www.youtube.com/watch?v=o2bWTOQiTww](https://www.youtube.com/watch?v=o2bWTOQiTww)
 
 
 ### Topics

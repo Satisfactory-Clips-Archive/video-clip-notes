@@ -17,6 +17,9 @@ date: Last Modified
 * [Terraforming](../../topics/features/unplanned-features/terraforming.md)
 * [VR](../../topics/features/unplanned-features/vr.md)
 
+## October 25th, 2022 Livestream
+* [Q&A: Any more Vehicles planned?](../../transcriptions/yt-pQKpTYoNmJE.md) [https://www.youtube.com/watch?v=pQKpTYoNmJE](https://www.youtube.com/watch?v=pQKpTYoNmJE)
+
 ## October 18th, 2022 Livestream
 * [Q&A: Will there ever be a Lizard Catto?](../../transcriptions/yt-WWdAKp4EfVk.md) [https://www.youtube.com/watch?v=WWdAKp4EfVk](https://www.youtube.com/watch?v=WWdAKp4EfVk)
 * [Q&A: In-game voice system?](../../transcriptions/yt-maxJ6HvBHaM.md) [https://www.youtube.com/watch?v=maxJ6HvBHaM](https://www.youtube.com/watch?v=maxJ6HvBHaM)

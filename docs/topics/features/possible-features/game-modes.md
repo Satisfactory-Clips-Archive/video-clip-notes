@@ -8,6 +8,12 @@ date: Last Modified
 * [Creative Mode](../../../topics/features/possible-features/game-modes/creative-mode.md)
 * [Peaceful Mode](../../../topics/features/possible-features/game-modes/peaceful-mode.md)
 
+## October 25th, 2022 Livestream
+* [State of Dev](../../../transcriptions/yt-v_S1Do7Amfk.md) [https://www.youtube.com/watch?v=v_S1Do7Amfk](https://www.youtube.com/watch?v=v_S1Do7Amfk)
+* [Q&A: Game Mode with Base Defense?](../../../transcriptions/yt-W4o0vCsRoqE.md) [https://www.youtube.com/watch?v=W4o0vCsRoqE](https://www.youtube.com/watch?v=W4o0vCsRoqE)
+* [Q&A: Any possibility to make a hardcore mode?](../../../transcriptions/yt-qaf6xe2R-0Q.md) [https://www.youtube.com/watch?v=qaf6xe2R-0Q](https://www.youtube.com/watch?v=qaf6xe2R-0Q)
+* [Q&A: Permanent FICSMAS?](../../../transcriptions/yt--2hpKZiCqs8.md) [https://www.youtube.com/watch?v=-2hpKZiCqs8](https://www.youtube.com/watch?v=-2hpKZiCqs8)
+
 ## October 21st, 2022 Video
 * [Other Game Modes](../../../transcriptions/yt-rX7OpLCg0l8,330.89723333333336,356.78976666666665.md) [https://youtube.com/clip/Ugkx9Oywb5n5bGKPyt8EIngRq7Bi_iQT47me](https://youtube.com/clip/Ugkx9Oywb5n5bGKPyt8EIngRq7Bi_iQT47me)
 * [Settings](../../../transcriptions/yt-rX7OpLCg0l8,356.8231333333333,364.7644.md) [https://youtube.com/clip/Ugkx16kThCkyWwxAASsrkfPKa_MCb_6Bumoa](https://youtube.com/clip/Ugkx16kThCkyWwxAASsrkfPKa_MCb_6Bumoa)

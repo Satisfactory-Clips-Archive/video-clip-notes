@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > Release Builds
 
+## October 25th, 2022 Livestream
+* [Q&A: Experimental Branch on GeForce Now?](../../transcriptions/yt-o2bWTOQiTww.md) [https://www.youtube.com/watch?v=o2bWTOQiTww](https://www.youtube.com/watch?v=o2bWTOQiTww)
+
 ## September 27th, 2022 Livestream
 * [Snutt & Jace Talk: Update 6 Early Access release](../../transcriptions/yt-JYX_0lC4xas.md) [https://www.youtube.com/watch?v=JYX_0lC4xas](https://www.youtube.com/watch?v=JYX_0lC4xas)
 

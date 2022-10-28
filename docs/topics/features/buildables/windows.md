@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildables](../../../topics/features/buildables.md) > Windows
 
+## October 25th, 2022 Livestream
+* [Q&A: Do Glass Windows affect performance?](../../../transcriptions/yt-LYXrI-Tg6iE.md) [https://www.youtube.com/watch?v=LYXrI-Tg6iE](https://www.youtube.com/watch?v=LYXrI-Tg6iE)
+
 ## June 28th, 2022 Livestream
 * [Q&A: Add a material for the glass window?](../../../transcriptions/yt-4YE2NLV2s34.md) [https://www.youtube.com/watch?v=4YE2NLV2s34](https://www.youtube.com/watch?v=4YE2NLV2s34)
 

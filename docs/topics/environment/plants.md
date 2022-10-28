@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Environment](../../topics/environment.md) > Plants
 
+## October 25th, 2022 Livestream
+* [Q&A: Some trees are impossible to delete?](../../transcriptions/yt-37IkuLKTgkc.md) [https://www.youtube.com/watch?v=37IkuLKTgkc](https://www.youtube.com/watch?v=37IkuLKTgkc)
+
 ## September 27th, 2022 Livestream
 * [Snutt & Jace Talk: Overworld LODs](../../transcriptions/yt-v9ZDWFExbYw.md) [https://www.youtube.com/watch?v=v9ZDWFExbYw](https://www.youtube.com/watch?v=v9ZDWFExbYw)
 

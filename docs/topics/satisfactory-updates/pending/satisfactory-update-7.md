@@ -5,6 +5,15 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Pending](../../../topics/satisfactory-updates/pending.md) > Satisfactory Update 7
 
+## October 25th, 2022 Livestream
+* [Intro](../../../transcriptions/yt-y8I4mnME2jc.md) [https://www.youtube.com/watch?v=y8I4mnME2jc](https://www.youtube.com/watch?v=y8I4mnME2jc)
+* [State of Dev](../../../transcriptions/yt-v_S1Do7Amfk.md) [https://www.youtube.com/watch?v=v_S1Do7Amfk](https://www.youtube.com/watch?v=v_S1Do7Amfk)
+* [Q&A: Any more patches planned for Update 6 before Update 7?](../../../transcriptions/yt-_DGwfxdYyqM.md) [https://www.youtube.com/watch?v=_DGwfxdYyqM](https://www.youtube.com/watch?v=_DGwfxdYyqM)
+* [Q&A: Pipe ceiling mounts?](../../../transcriptions/yt-dhoa1QZ9n8Q.md) [https://www.youtube.com/watch?v=dhoa1QZ9n8Q](https://www.youtube.com/watch?v=dhoa1QZ9n8Q)
+* [Q&A: Are there any new nodes coming in Spire Coast for Update 7?](../../../transcriptions/yt-Iu_wLJs_-08.md) [https://www.youtube.com/watch?v=Iu_wLJs_-08](https://www.youtube.com/watch?v=Iu_wLJs_-08)
+* [Q&A: Can you tell us some news about the Nuclear Power Plant Overclocking?](../../../transcriptions/yt-Ekab1HbNK5g.md) [https://www.youtube.com/watch?v=Ekab1HbNK5g](https://www.youtube.com/watch?v=Ekab1HbNK5g)
+* [Q&A: Wouldn't it be better to name it 6.2?](../../../transcriptions/yt-I-0vuqBojUk.md) [https://www.youtube.com/watch?v=I-0vuqBojUk](https://www.youtube.com/watch?v=I-0vuqBojUk)
+
 ## October 21st, 2022 Video
 * [Update 7](../../../transcriptions/yt-rX7OpLCg0l8,97.86443333333334,109.64286666666666.md) [https://youtube.com/clip/Ugkxyuk82Fw8EhbEKSBbhK4JljQpC-yKlGOf](https://youtube.com/clip/Ugkxyuk82Fw8EhbEKSBbhK4JljQpC-yKlGOf)
 * [Creative Mode](../../../transcriptions/yt-rX7OpLCg0l8,291.12416666666667,315.9823333333333.md) [https://youtube.com/clip/Ugkx0Gez1tZXZUKxoBbxhKOIzRyCfHkh5nh2](https://youtube.com/clip/Ugkx0Gez1tZXZUKxoBbxhKOIzRyCfHkh5nh2)

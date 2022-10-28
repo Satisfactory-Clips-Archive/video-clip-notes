@@ -9,6 +9,9 @@ date: Last Modified
 * [GeForce Now](../topics/retail/geforce-now.md)
 * [Steam Store](../topics/retail/steam-store.md)
 
+## October 25th, 2022 Livestream
+* [Q&A: Would Coffee Stain consider ever putting Satisfactory on Game Pass?](../transcriptions/yt-_Rz_WgsVrGQ.md) [https://www.youtube.com/watch?v=_Rz_WgsVrGQ](https://www.youtube.com/watch?v=_Rz_WgsVrGQ)
+
 ## September 6th, 2022 Livestream
 * [Q&A: Where can I get the game?](../transcriptions/yt-NjT2a4Qn7mM.md) [https://www.youtube.com/watch?v=NjT2a4Qn7mM](https://www.youtube.com/watch?v=NjT2a4Qn7mM)
 

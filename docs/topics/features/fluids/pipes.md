@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Fluids](../../../topics/features/fluids.md) > Pipes
 
+## October 25th, 2022 Livestream
+* [Q&A: Pipe ceiling mounts?](../../../transcriptions/yt-dhoa1QZ9n8Q.md) [https://www.youtube.com/watch?v=dhoa1QZ9n8Q](https://www.youtube.com/watch?v=dhoa1QZ9n8Q)
+
 ## October 18th, 2022 Livestream
 * [Q&A: Mk.6 Conveyors & Mk.3 Pipes, when?](../../../transcriptions/yt-oMO-ZyChVVk.md) [https://www.youtube.com/watch?v=oMO-ZyChVVk](https://www.youtube.com/watch?v=oMO-ZyChVVk)
 * [Q&A: Are Pipes working correctly?](../../../transcriptions/yt-gPGdsMEHwm0.md) [https://www.youtube.com/watch?v=gPGdsMEHwm0](https://www.youtube.com/watch?v=gPGdsMEHwm0)

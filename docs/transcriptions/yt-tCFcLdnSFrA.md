@@ -8,7 +8,7 @@ topics:
 # [September 27th, 2022 Livestream](../2022-09-27.md)
 ## Q&A: When is 1.0 going to be ready?
 https://www.youtube.com/watch?v=tCFcLdnSFrA
-This question was possibly duplicated with a more recent answer: [October 18th, 2022 Livestream Q&A: Are we getting close to 1.0?](./yt-RJdlDgWm94U.md) [https://www.youtube.com/watch?v=RJdlDgWm94U](https://www.youtube.com/watch?v=RJdlDgWm94U)
+This question was possibly duplicated with a more recent answer: [October 25th, 2022 Livestream Q&A: Any ETA on 1.0?](./yt-MO_j7ToLTUw.md) [https://www.youtube.com/watch?v=MO_j7ToLTUw](https://www.youtube.com/watch?v=MO_j7ToLTUw)
 
 
 ### Topics

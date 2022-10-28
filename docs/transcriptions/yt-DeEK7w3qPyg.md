@@ -9,7 +9,7 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Releasing a Vinyl on the Merch Store ?
 https://www.youtube.com/watch?v=DeEK7w3qPyg
-This question was possibly duplicated with a more recent answer: [August 30th, 2022 Livestream Q&A: A vinyl record?](./yt-hpXprNBRjM8.md) [https://www.youtube.com/watch?v=hpXprNBRjM8](https://www.youtube.com/watch?v=hpXprNBRjM8)
+This question was possibly duplicated with a more recent answer: [October 25th, 2022 Livestream Q&A: Will you add Satisfactory cheese- I mean vinyl?](./yt-yiZORn32BA0.md) [https://www.youtube.com/watch?v=yiZORn32BA0](https://www.youtube.com/watch?v=yiZORn32BA0)
 
 
 ### Topics

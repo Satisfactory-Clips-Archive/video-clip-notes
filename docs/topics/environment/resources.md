@@ -14,6 +14,9 @@ date: Last Modified
 * [Steel](../../topics/environment/resources/steel.md)
 * [Water](../../topics/environment/resources/water.md)
 
+## October 25th, 2022 Livestream
+* [Q&A: Are there any new nodes coming in Spire Coast for Update 7?](../../transcriptions/yt-Iu_wLJs_-08.md) [https://www.youtube.com/watch?v=Iu_wLJs_-08](https://www.youtube.com/watch?v=Iu_wLJs_-08)
+
 ## October 21st, 2022 Video
 * [AWESOME Sink](../../transcriptions/yt-rX7OpLCg0l8,482.74893333333335,518.6848333333334.md) [https://youtube.com/clip/Ugkx_qtDyAsJ1XWei9weMq-dIJehwgmw0xXR](https://youtube.com/clip/Ugkx_qtDyAsJ1XWei9weMq-dIJehwgmw0xXR)
 

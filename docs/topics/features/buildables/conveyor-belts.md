@@ -5,6 +5,12 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildables](../../../topics/features/buildables.md) > Conveyor Belts
 
+## October 25th, 2022 Livestream
+* [State of Dev](../../../transcriptions/yt-v_S1Do7Amfk.md) [https://www.youtube.com/watch?v=v_S1Do7Amfk](https://www.youtube.com/watch?v=v_S1Do7Amfk)
+* [Q&A: Mk.6 Belt or second output for Mk.3 Miners?](../../../transcriptions/yt-20JxwoTTwtQ.md) [https://www.youtube.com/watch?v=20JxwoTTwtQ](https://www.youtube.com/watch?v=20JxwoTTwtQ)
+* [Q&A: Placeable Conveyor Wall Holes?](../../../transcriptions/yt-HYwrE8Owqn0.md) [https://www.youtube.com/watch?v=HYwrE8Owqn0](https://www.youtube.com/watch?v=HYwrE8Owqn0)
+* [Q&A: Ability to have Lizard Doggos fetch and deliver items to replace Belts?](../../../transcriptions/yt-kgIZcUreWaA.md) [https://www.youtube.com/watch?v=kgIZcUreWaA](https://www.youtube.com/watch?v=kgIZcUreWaA)
+
 ## October 21st, 2022 Video
 * [Quality of Life Improvements](../../../transcriptions/yt-rX7OpLCg0l8,518.7182,541.0738666666667.md) [https://youtube.com/clip/Ugkxyeb8cXmY5OAmPadwMWuy4ugfA478kRAP](https://youtube.com/clip/Ugkxyeb8cXmY5OAmPadwMWuy4ugfA478kRAP)
 

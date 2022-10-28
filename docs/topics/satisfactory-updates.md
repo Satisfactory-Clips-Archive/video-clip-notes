@@ -18,6 +18,9 @@ date: Last Modified
 * [Teasers & Trailers](../topics/satisfactory-updates/teasers-and-trailers.md)
 * [World Update](../topics/satisfactory-updates/world-update.md)
 
+## October 25th, 2022 Livestream
+* [Q&A: What's your favourite Update, Snutt?](../transcriptions/yt-W8Xk_pPJyoY.md) [https://www.youtube.com/watch?v=W8Xk_pPJyoY](https://www.youtube.com/watch?v=W8Xk_pPJyoY)
+
 ## October 18th, 2022 Livestream
 * [Q&A: Do you know super-exciting things about future content that you can't tell us?](../transcriptions/yt-eoKONzxBtpc.md) [https://www.youtube.com/watch?v=eoKONzxBtpc](https://www.youtube.com/watch?v=eoKONzxBtpc)
 

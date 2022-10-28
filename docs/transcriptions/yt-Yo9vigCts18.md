@@ -9,6 +9,8 @@ topics:
 # [July 5th, 2022 Livestream](../2022-07-05.md)
 ## Q&A: Will we get more Vehicles?
 https://www.youtube.com/watch?v=Yo9vigCts18
+This question was possibly duplicated with a more recent answer: [October 25th, 2022 Livestream Q&A: Any more Vehicles planned?](./yt-pQKpTYoNmJE.md) [https://www.youtube.com/watch?v=pQKpTYoNmJE](https://www.youtube.com/watch?v=pQKpTYoNmJE)
+
 
 ### Topics
 * [Features > Requested Features](../topics/features/requested-features.md)

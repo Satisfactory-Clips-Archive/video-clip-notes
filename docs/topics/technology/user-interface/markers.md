@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Technology](../../../topics/technology.md) > [User Interface](../../../topics/technology/user-interface.md) > Markers
 
+## October 25th, 2022 Livestream
+* [Q&A: Can I get an air tag for my Boombox, I keep dropping it ?](../../../transcriptions/yt-jooIEmeyH-4.md) [https://www.youtube.com/watch?v=jooIEmeyH-4](https://www.youtube.com/watch?v=jooIEmeyH-4)
+
 ## September 13th, 2022 Livestream
 * [Q&A: Any update to Map Markers on Dedicated Servers, right now they don't persist between sessions?](../../../transcriptions/yt-VP9w5CsV27Q.md) [https://www.youtube.com/watch?v=VP9w5CsV27Q](https://www.youtube.com/watch?v=VP9w5CsV27Q)
 

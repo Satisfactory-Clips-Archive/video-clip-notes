@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Biomes](../../../topics/environment/biomes.md) > Spire Coast
 
+## October 25th, 2022 Livestream
+* [Q&A: Are there any new nodes coming in Spire Coast for Update 7?](../../../transcriptions/yt-Iu_wLJs_-08.md) [https://www.youtube.com/watch?v=Iu_wLJs_-08](https://www.youtube.com/watch?v=Iu_wLJs_-08)
+
 ## September 27th, 2022 Livestream
 * [Q&A: Are there any plans to make Spire Coast a starting point?](../../../transcriptions/yt-B2IjSWiG9Tw.md) [https://www.youtube.com/watch?v=B2IjSWiG9Tw](https://www.youtube.com/watch?v=B2IjSWiG9Tw)
 

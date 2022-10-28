@@ -8,7 +8,7 @@ topics:
 # [February 9th, 2021 Livestream](../2021-02-09.md)
 ## Q&A: Is there going to be tower defense?
 https://www.youtube.com/watch?v=9dWWC0mFitU
-This question was possibly duplicated with a more recent answer: June 28th, 2022 Livestream Q&A: Enemies destroy your factory, when? [https://www.youtube.com/watch?v=x3qD7G9oJTM](https://www.youtube.com/watch?v=x3qD7G9oJTM)
+This question was possibly duplicated with a more recent answer: [October 25th, 2022 Livestream Q&A: Game Mode with Base Defense?](./yt-W4o0vCsRoqE.md) [https://www.youtube.com/watch?v=W4o0vCsRoqE](https://www.youtube.com/watch?v=W4o0vCsRoqE)
 
 
 ### Topics

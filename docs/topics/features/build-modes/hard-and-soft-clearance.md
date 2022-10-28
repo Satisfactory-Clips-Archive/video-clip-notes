@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Build Modes](../../../topics/features/build-modes.md) > Hard & Soft Clearance
 * [Complex Clearance](../../../topics/features/build-modes/hard-and-soft-clearance/complex-clearance.md)
 
+## October 25th, 2022 Livestream
+* [Q&A: Can you make the Walls no collide on each other?](../../../transcriptions/yt-HHjgWItYm2s.md) [https://www.youtube.com/watch?v=HHjgWItYm2s](https://www.youtube.com/watch?v=HHjgWItYm2s)
+
 ## November 9th, 2021 Livestream
 * [Q&A: Will there be improvements to hit boxes, specifically for Power Poles between two Constructors?](../../../transcriptions/yt-l75JZF14dbY.md) [https://www.youtube.com/watch?v=l75JZF14dbY](https://www.youtube.com/watch?v=l75JZF14dbY)
 * [Q&A: Train Station had bigger clearance?](../../../transcriptions/yt-p-sGsaQvI2I.md) [https://www.youtube.com/watch?v=p-sGsaQvI2I](https://www.youtube.com/watch?v=p-sGsaQvI2I)

@@ -10,7 +10,7 @@ topics:
 # [May 25th, 2021 Livestream](../2021-05-25.md)
 ## Q&A: When do you think the focus will be on fixing Multiplayer?
 https://www.youtube.com/watch?v=3alTbxWgPnc
-This question was possibly duplicated with a more recent answer: [November 2nd, 2021 Livestream Q&A: Multiplayer fixes, when?](./yt-OUrWFNuyPIA.md) [https://www.youtube.com/watch?v=OUrWFNuyPIA](https://www.youtube.com/watch?v=OUrWFNuyPIA)
+This question was possibly duplicated with a more recent answer: [October 25th, 2022 Livestream Q&A: Will Multiplayer performance update come before 1.0?](./yt-wl4e18QLSs0.md) [https://www.youtube.com/watch?v=wl4e18QLSs0](https://www.youtube.com/watch?v=wl4e18QLSs0)
 
 
 ### Topics

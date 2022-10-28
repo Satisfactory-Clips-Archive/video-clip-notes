@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Off-Topic](../../../topics/off-topic.md) > [Final Fantasy](../../../topics/off-topic/final-fantasy.md) > The Official Satisfactory PODCAST
 
+## October 25th, 2022 Livestream
+* [Special Guest CEO of CSS (aka Official Satisfactory Podcast episode 2)](../../../transcriptions/yt-jjgFHNU5NNM.md) [https://www.youtube.com/watch?v=jjgFHNU5NNM](https://www.youtube.com/watch?v=jjgFHNU5NNM)
+
 ## October 4th, 2022 Livestream
 * [Snutt & Jace Talk: Making tapes for the Boombox](../../../transcriptions/yt-FLONkwmDNlA.md) [https://www.youtube.com/watch?v=FLONkwmDNlA](https://www.youtube.com/watch?v=FLONkwmDNlA)
 

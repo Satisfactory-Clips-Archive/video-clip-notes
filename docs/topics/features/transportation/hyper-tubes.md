@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > Transportation > Hyper Tubes
 
+## October 25th, 2022 Livestream
+* [Q&A: Blade Runners while going in HyperTube bug getting fixed?](../../../transcriptions/yt-Ctu7jicDo5c.md) [https://www.youtube.com/watch?v=Ctu7jicDo5c](https://www.youtube.com/watch?v=Ctu7jicDo5c)
+
 ## July 5th, 2022 Livestream
 * [Q&A: Do you consider the Jetpack/Hover Pack essential to beat the game?](../../../transcriptions/yt-SWdlYvpUhTY.md) [https://www.youtube.com/watch?v=SWdlYvpUhTY](https://www.youtube.com/watch?v=SWdlYvpUhTY)
 

@@ -9,7 +9,7 @@ topics:
 # [October 9th, 2020 Livestream](../2020-10-09.md)
 ## Q&A: Could we get Ray Tracing?
 https://www.youtube.com/watch?v=tsUgV4Irw9I
-This question was possibly duplicated with a more recent answer: [September 28th, 2021 Livestream Q&A: RTX Support?](./yt-omr18rjqWZs.md) [https://www.youtube.com/watch?v=omr18rjqWZs](https://www.youtube.com/watch?v=omr18rjqWZs)
+This question was possibly duplicated with a more recent answer: [October 25th, 2022 Livestream Q&A: RTX Support, when?](./yt-oNsfF8oCgl0.md) [https://www.youtube.com/watch?v=oNsfF8oCgl0](https://www.youtube.com/watch?v=oNsfF8oCgl0)
 
 
 ### Topics

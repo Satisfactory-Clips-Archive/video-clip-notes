@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > Transportation > [Vehicles](../../../../topics/features/transportation/vehicles.md) > Factory Cart
 
+## October 25th, 2022 Livestream
+* [Q&A: Cart upgrade tree?](../../../../transcriptions/yt-C56Nmu_poFE.md) [https://www.youtube.com/watch?v=C56Nmu_poFE](https://www.youtube.com/watch?v=C56Nmu_poFE)
+
 ## March 29th, 2022 Livestream
 * [Q&A: Would it be possible for the Factory Cart to keep the colour intact?](../../../../transcriptions/yt-00W3BKCd330.md) [https://www.youtube.com/watch?v=00W3BKCd330](https://www.youtube.com/watch?v=00W3BKCd330)
 * [Q&A: Third seat for the Factory Cart, when?](../../../../transcriptions/yt-33mFbhHdCJ0.md) [https://www.youtube.com/watch?v=33mFbhHdCJ0](https://www.youtube.com/watch?v=33mFbhHdCJ0)

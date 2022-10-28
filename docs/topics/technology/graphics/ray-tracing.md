@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Technology](../../../topics/technology.md) > [Graphics](../../../topics/technology/graphics.md) > Ray Tracing
 
+## October 25th, 2022 Livestream
+* [Q&A: RTX Support, when?](../../../transcriptions/yt-oNsfF8oCgl0.md) [https://www.youtube.com/watch?v=oNsfF8oCgl0](https://www.youtube.com/watch?v=oNsfF8oCgl0)
+
 ## November 2nd, 2021 Livestream
 * [Q&A: RTX or VR support coming soon?](../../../transcriptions/yt-1jJweErvkSM.md) [https://www.youtube.com/watch?v=1jJweErvkSM](https://www.youtube.com/watch?v=1jJweErvkSM)
 

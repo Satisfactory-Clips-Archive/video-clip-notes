@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Equipment](../../../topics/features/equipment.md) > Boombox
 
+## October 25th, 2022 Livestream
+* [Q&A: More hidden music tapes?](../../../transcriptions/yt-Z5OU9uCTNC4.md) [https://www.youtube.com/watch?v=Z5OU9uCTNC4](https://www.youtube.com/watch?v=Z5OU9uCTNC4)
+* [Q&A: Can I get an air tag for my Boombox, I keep dropping it ?](../../../transcriptions/yt-jooIEmeyH-4.md) [https://www.youtube.com/watch?v=jooIEmeyH-4](https://www.youtube.com/watch?v=jooIEmeyH-4)
+
 ## October 4th, 2022 Livestream
 * [Snutt & Jace Talk: Making tapes for the Boombox](../../../transcriptions/yt-FLONkwmDNlA.md) [https://www.youtube.com/watch?v=FLONkwmDNlA](https://www.youtube.com/watch?v=FLONkwmDNlA)
 

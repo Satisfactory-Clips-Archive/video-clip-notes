@@ -10,7 +10,7 @@ topics:
 # [December 7th, 2021 Livestream](../2021-12-07.md)
 ## Q&A: Are Conveyor Wall Holes coming?
 https://www.youtube.com/watch?v=H8hrMFtHdHs
-This question was possibly duplicated with a more recent answer: [September 27th, 2022 Livestream Q&A: Conveyor Wall Holes ?](./yt-Wyl0ho9rxdA.md) [https://www.youtube.com/watch?v=Wyl0ho9rxdA](https://www.youtube.com/watch?v=Wyl0ho9rxdA)
+This question was possibly duplicated with a more recent answer: [October 25th, 2022 Livestream Q&A: Placeable Conveyor Wall Holes?](./yt-HYwrE8Owqn0.md) [https://www.youtube.com/watch?v=HYwrE8Owqn0](https://www.youtube.com/watch?v=HYwrE8Owqn0)
 
 
 ### Topics

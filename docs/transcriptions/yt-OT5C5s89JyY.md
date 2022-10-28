@@ -14,7 +14,7 @@ topics:
 # [September 6th, 2022 Livestream](../2022-09-06.md)
 ## Q&A: Terrain manipulation?
 https://www.youtube.com/watch?v=OT5C5s89JyY
-This question was possibly duplicated with a more recent answer: [September 27th, 2022 Livestream Q&A: Terraforming some way like in Deep Rock Galactic?](./yt-AFfGSKuLWy8.md) [https://www.youtube.com/watch?v=AFfGSKuLWy8](https://www.youtube.com/watch?v=AFfGSKuLWy8)
+This question was possibly duplicated with a more recent answer: [October 25th, 2022 Livestream Q&A: Game Mode with terrain-editing ability?](./yt-ZMOO9BEGw04.md) [https://www.youtube.com/watch?v=ZMOO9BEGw04](https://www.youtube.com/watch?v=ZMOO9BEGw04)
 
 
 ### Topics

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > Physics
 
+## October 25th, 2022 Livestream
+* [Q&A: Can you make the Walls no collide on each other?](../../transcriptions/yt-HHjgWItYm2s.md) [https://www.youtube.com/watch?v=HHjgWItYm2s](https://www.youtube.com/watch?v=HHjgWItYm2s)
+
 ## October 18th, 2022 Livestream
 * [Community FYI: Pipes do not seem to be bound by logic](../../transcriptions/yt-FxHg2pqAGp0.md) [https://www.youtube.com/watch?v=FxHg2pqAGp0](https://www.youtube.com/watch?v=FxHg2pqAGp0)
 

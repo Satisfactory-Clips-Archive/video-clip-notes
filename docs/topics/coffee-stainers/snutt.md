@@ -8,6 +8,11 @@ date: Last Modified
 * [Snutt Burger Time](../../topics/coffee-stainers/snutt/snutt-burger-time.md)
 * [Snutty Mays](../../topics/coffee-stainers/snutt/snutty-mays.md)
 
+## October 25th, 2022 Livestream
+* [Intro](../../transcriptions/yt-y8I4mnME2jc.md) [https://www.youtube.com/watch?v=y8I4mnME2jc](https://www.youtube.com/watch?v=y8I4mnME2jc)
+* [Q&A: Will we have better Community Managers next week?](../../transcriptions/yt-nfs-AP7hE8s.md) [https://www.youtube.com/watch?v=nfs-AP7hE8s](https://www.youtube.com/watch?v=nfs-AP7hE8s)
+* [Q&A: What's your favourite Update, Snutt?](../../transcriptions/yt-W8Xk_pPJyoY.md) [https://www.youtube.com/watch?v=W8Xk_pPJyoY](https://www.youtube.com/watch?v=W8Xk_pPJyoY)
+
 ## October 18th, 2022 Livestream
 * [Q&A: Snutt, is there something you'd like to ask us?](../../transcriptions/yt-AoI3-BT3uRo.md) [https://www.youtube.com/watch?v=AoI3-BT3uRo](https://www.youtube.com/watch?v=AoI3-BT3uRo)
 * [Q&A: Have you heard of Meshuggah?](../../transcriptions/yt-fs0tMTXJYXk.md) [https://www.youtube.com/watch?v=fs0tMTXJYXk](https://www.youtube.com/watch?v=fs0tMTXJYXk)

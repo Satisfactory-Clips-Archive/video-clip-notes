@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Possible Features](../../../topics/features/possible-features.md) > Decor
 
+## October 25th, 2022 Livestream
+* [Q&A: Any Cosmetic Items in the plan?](../../../transcriptions/yt-DsizpezCTI8.md) [https://www.youtube.com/watch?v=DsizpezCTI8](https://www.youtube.com/watch?v=DsizpezCTI8)
+
 ## August 30th, 2022 Livestream
 * [Q&A: More decorations?](../../../transcriptions/yt-IjNb58Ajg8g.md) [https://www.youtube.com/watch?v=IjNb58Ajg8g](https://www.youtube.com/watch?v=IjNb58Ajg8g)
 

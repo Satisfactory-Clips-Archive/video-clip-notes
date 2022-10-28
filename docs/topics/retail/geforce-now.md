@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Retail](../../topics/retail.md) > GeForce Now
 
+## October 25th, 2022 Livestream
+* [Q&A: Experimental Branch on GeForce Now?](../../transcriptions/yt-o2bWTOQiTww.md) [https://www.youtube.com/watch?v=o2bWTOQiTww](https://www.youtube.com/watch?v=o2bWTOQiTww)
+
 ## September 6th, 2022 Livestream
 * [Q&A: Experimental on GeForce Now?](../../transcriptions/yt---jwCj0yQak.md) [https://www.youtube.com/watch?v=--jwCj0yQak](https://www.youtube.com/watch?v=--jwCj0yQak)
 
