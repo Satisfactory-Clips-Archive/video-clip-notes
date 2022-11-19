@@ -37,7 +37,7 @@ date: Last Modified
 * [Dylan, Mark, and Snutt Tallk: Alien DNA Capsules](../../../transcriptions/yt-CREPrQ23Dt4,6942.736332,7305.166556.md) [https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=6942&end=7306](https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=6942&end=7306)
 * [Q&A: What else made it into the Update?](../../../transcriptions/yt-CREPrQ23Dt4,7305.166556,7448.821249.md) [https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=7305&end=7449](https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=7305&end=7449)
 * [Dylan, Mark, and Snutt Talk: Zipline Sprint](../../../transcriptions/yt-CREPrQ23Dt4,7448.821249,8004.351560756758.md) [https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=7448&end=8005](https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=7448&end=8005)
-* [Snutt Talk: How to get the Experimental Release](../../../transcriptions/yt-CREPrQ23Dt4,8067.502873,8188.264471.md) [https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=8067&end=8189](https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=8067&end=8189)
+* [Outro](../../../transcriptions/yt-CREPrQ23Dt4,8067.502873.md) [https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=8067](https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=8067)
 * [Q&A: Crash while auto-saving?](../../../transcriptions/yt-CREPrQ23Dt4,8194.121731,8259.389945.md) [https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=8194&end=8260](https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=8194&end=8260)
 * [Snutt Talk: If you're not seeing the Update](../../../transcriptions/yt-CREPrQ23Dt4,8259.389945,8327.278515102387.md) [https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=8259&end=8328](https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=8259&end=8328)
 
