@@ -9,7 +9,7 @@ topics:
 # [April 20th, 2021 Livestream](../2021-04-20.md)
 ## Q&A: What about the flushing toilet?
 https://www.youtube.com/watch?v=sve9kjgML2E
-This question was possibly duplicated with a more recent answer: [October 25th, 2022 Livestream Q&A: Is Toilet Flush DLC still going to happen?](./yt-kYZ4863LX9M.md) [https://www.youtube.com/watch?v=kYZ4863LX9M](https://www.youtube.com/watch?v=kYZ4863LX9M)
+This question was possibly duplicated with a more recent answer: [November 8th, 2022 Livestream Q&A: Toilets?](./yt-ykoTv9NbWYo.md) [https://www.youtube.com/watch?v=ykoTv9NbWYo](https://www.youtube.com/watch?v=ykoTv9NbWYo)
 
 
 ### Topics

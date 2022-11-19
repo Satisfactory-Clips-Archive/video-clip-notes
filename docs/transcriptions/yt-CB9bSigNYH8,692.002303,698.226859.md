@@ -8,7 +8,7 @@ topics:
 # [February 20th, 2019 Livestream](../2019-02-20.md)
 ## Q&A: What Engine?
 https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=692&end=699
-This question was possibly duplicated with a more recent answer: [August 30th, 2022 Livestream Q&A: Are you programming with visual, or c++ ?](./yt-8mRZfTHkKPU.md) [https://www.youtube.com/watch?v=8mRZfTHkKPU](https://www.youtube.com/watch?v=8mRZfTHkKPU)
+This question was possibly duplicated with a more recent answer: [November 8th, 2022 Livestream Q&A: What language do you program the game in?](./yt-77akCeJawrg.md) [https://www.youtube.com/watch?v=77akCeJawrg](https://www.youtube.com/watch?v=77akCeJawrg)
 
 
 ### Topics

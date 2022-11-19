@@ -9,6 +9,12 @@ date: Last Modified
 * [Ray Tracing](../../topics/technology/graphics/ray-tracing.md)
 * [Ultrawide Monitors](../../topics/technology/graphics/ultrawide-monitors.md)
 
+## November 8th, 2022 Livestream
+* [Q&A: Shadow flickering?](../../transcriptions/yt-Ik1UTxfiqNc.md) [https://www.youtube.com/watch?v=Ik1UTxfiqNc](https://www.youtube.com/watch?v=Ik1UTxfiqNc)
+
+## November 1st, 2022 Livestream
+* [Q&A: Will the Z-fighting be addressed in Update 7?](../../transcriptions/yt-uGPAFHOniIU.md) [https://www.youtube.com/watch?v=uGPAFHOniIU](https://www.youtube.com/watch?v=uGPAFHOniIU)
+
 ## October 25th, 2022 Livestream
 * [Q&A: Do Glass Windows affect performance?](../../transcriptions/yt-LYXrI-Tg6iE.md) [https://www.youtube.com/watch?v=LYXrI-Tg6iE](https://www.youtube.com/watch?v=LYXrI-Tg6iE)
 * [Q&A: Option in video settings to specify which monitor to load Satisfactory on?](../../transcriptions/yt-hmwCmb8sve0.md) [https://www.youtube.com/watch?v=hmwCmb8sve0](https://www.youtube.com/watch?v=hmwCmb8sve0)

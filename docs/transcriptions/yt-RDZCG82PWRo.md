@@ -12,7 +12,7 @@ topics:
 # [August 23rd, 2022 Livestream](../2022-08-23.md)
 ## Q&A: New Nuclear Recipes confirmed?
 https://www.youtube.com/watch?v=RDZCG82PWRo
-This question was possibly duplicated with a more recent answer: [September 13th, 2022 Livestream Q&A: Are you going to change the Recipes for Beacons?](./yt-4tCjpG1zJc0.md) [https://www.youtube.com/watch?v=4tCjpG1zJc0](https://www.youtube.com/watch?v=4tCjpG1zJc0)
+This question was possibly duplicated with a more recent answer: [November 8th, 2022 Livestream Q&A: Will the Beacon alt be removed in Update 7?](./yt-5YEG0e2Zrn0.md) [https://www.youtube.com/watch?v=5YEG0e2Zrn0](https://www.youtube.com/watch?v=5YEG0e2Zrn0)
 
 
 ### Topics

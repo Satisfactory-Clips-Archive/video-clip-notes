@@ -5,6 +5,12 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > Transportation > Hyper Tubes
 
+## November 8th, 2022 Livestream
+* [Community FYI: If you jump into a Hyper Tube with a Flashlight on it turns off](../../../transcriptions/yt-STVeVmziNsM.md) [https://www.youtube.com/watch?v=STVeVmziNsM](https://www.youtube.com/watch?v=STVeVmziNsM)
+
+## November 1st, 2022 Livestream
+* [Q&A: Hyper Tube gear glitch?](../../../transcriptions/yt-C2PmZj33BIE.md) [https://www.youtube.com/watch?v=C2PmZj33BIE](https://www.youtube.com/watch?v=C2PmZj33BIE)
+
 ## October 25th, 2022 Livestream
 * [Q&A: Blade Runners while going in HyperTube bug getting fixed?](../../../transcriptions/yt-Ctu7jicDo5c.md) [https://www.youtube.com/watch?v=Ctu7jicDo5c](https://www.youtube.com/watch?v=Ctu7jicDo5c)
 

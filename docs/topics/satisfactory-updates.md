@@ -18,6 +18,12 @@ date: Last Modified
 * [Teasers & Trailers](../topics/satisfactory-updates/teasers-and-trailers.md)
 * [World Update](../topics/satisfactory-updates/world-update.md)
 
+## November 8th, 2022 Livestream
+* [Q&A: Updates after 1.0?](../transcriptions/yt-eHFSHUqYSZc.md) [https://www.youtube.com/watch?v=eHFSHUqYSZc](https://www.youtube.com/watch?v=eHFSHUqYSZc)
+
+## November 1st, 2022 Livestream
+* [Q&A: Is there a way to stop the game from updating so I can keep it?](../transcriptions/yt-A8VMu9hMZy0.md) [https://www.youtube.com/watch?v=A8VMu9hMZy0](https://www.youtube.com/watch?v=A8VMu9hMZy0)
+
 ## October 25th, 2022 Livestream
 * [Q&A: What's your favourite Update, Snutt?](../transcriptions/yt-W8Xk_pPJyoY.md) [https://www.youtube.com/watch?v=W8Xk_pPJyoY](https://www.youtube.com/watch?v=W8Xk_pPJyoY)
 

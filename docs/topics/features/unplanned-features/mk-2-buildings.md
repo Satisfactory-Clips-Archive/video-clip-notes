@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Unplanned Features](../../../topics/features/unplanned-features.md) > Mk.2 Buildings
 
+## November 15th, 2022 Livestream
+* [Q&A: Will there be a Blueprint Designer Mk.2?](../../../transcriptions/yt-CREPrQ23Dt4,6670.77046,6678.607335.md) [https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=6670&end=6679](https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=6670&end=6679)
+
 ## April 15th, 2022 Video
 * [Snutt & Stefan Talk: Resource nodes & Crafting in Sprint 26](../../../transcriptions/yt-7I3NGAm3j_4,2046.4777666666666,2143.4413.md) [https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=2046&end=2144](https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=2046&end=2144)
 

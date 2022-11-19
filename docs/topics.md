@@ -112,6 +112,7 @@ date: Last Modified
 * [Dune Desert](./topics/environment/biomes/dune-desert.md)
 * [Grass Fields](./topics/environment/biomes/grass-fields.md)
 * [Northern Forest](./topics/environment/biomes/northern-forest.md)
+* [Paradise Island](./topics/environment/biomes/paradise-island.md)
 * [Red Bamboo Fields](./topics/environment/biomes/red-bamboo-fields.md)
 * [Red Jungle](./topics/environment/biomes/red-jungle.md)
 * [Rocky Desert](./topics/environment/biomes/rocky-desert.md)
@@ -146,6 +147,7 @@ date: Last Modified
 ---
 
 # [Features](./topics/features.md)
+* [Blueprints](./topics/features/blueprints.md)
 * [Emotes](./topics/features/emotes.md)
 * [Gases](./topics/features/gases.md)
 * [Global Build Grid](./topics/features/global-build-grid.md)
@@ -190,6 +192,7 @@ date: Last Modified
 * [AWESOME Store](./topics/features/buildings/awesome-store.md)
 * [Biomass Burner](./topics/features/buildings/biomass-burner.md)
 * [Blender](./topics/features/buildings/blender.md)
+* [Blueprint Designer](./topics/features/buildings/blueprint-designer.md)
 * [Coal Generator](./topics/features/buildings/coal-generator.md)
 * [Constructor](./topics/features/buildings/constructor.md)
 * [Crash Site](./topics/features/buildings/crash-site.md)
@@ -262,7 +265,6 @@ date: Last Modified
 ---
 
 ## [Possible Features](./topics/features/possible-features.md)
-* [Blueprints](./topics/features/possible-features/blueprints.md)
 * [Character Customisation](./topics/features/possible-features/character-customisation.md)
 * [Console Release](./topics/features/possible-features/console-release.md)
 * [Decor](./topics/features/possible-features/decor.md)

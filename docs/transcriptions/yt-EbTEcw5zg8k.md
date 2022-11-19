@@ -4,18 +4,18 @@ date: "2020-08-25"
 layout: transcript
 topics:
     - "environment/creatures"
-    - "features/possible-features/blueprints"
+    - "features/blueprints"
     - "features/unplanned-features/base-defense"
 ---
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: Given how often Blueprints keeps being requested it really needs to be adopted?
 https://www.youtube.com/watch?v=EbTEcw5zg8k
-This question was possibly duplicated with a more recent answer: [October 18th, 2022 Livestream Q&A: Any plans for Blueprints?](./yt-NyqKc1tJojM.md) [https://www.youtube.com/watch?v=NyqKc1tJojM](https://www.youtube.com/watch?v=NyqKc1tJojM)
+This question was possibly replaced with a more recent answer: [November 15th, 2022 Livestream Q&A: When did you decide to add Blueprints?](./yt-CREPrQ23Dt4,3926.202571,3971.563964.md) [https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=3926&end=3972](https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=3926&end=3972)
 
 
 ### Topics
 * [Environment > Creatures](../topics/environment/creatures.md)
-* [Features > Possible Features > Blueprints](../topics/features/possible-features/blueprints.md)
+* [Features > Blueprints](../topics/features/blueprints.md)
 * [Features > Unplanned Features > Base Defense](../topics/features/unplanned-features/base-defense.md)
 
 ### Transcript

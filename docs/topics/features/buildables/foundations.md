@@ -7,6 +7,9 @@ date: Last Modified
 * [Cheatcrete](../../../topics/features/buildables/foundations/cheatcrete.md)
 * [Foundation Stencils](../../../topics/features/buildables/foundations/stencils.md)
 
+## November 11th, 2022 Video
+* [Preparing an area for the Manifold Blueprint](../../../transcriptions/yt-9KBQyjy-a6g,517.8166632027778,557.0231333333334.md) [https://youtube.com/embed/9KBQyjy-a6g?autoplay=1&start=517&end=558](https://youtube.com/embed/9KBQyjy-a6g?autoplay=1&start=517&end=558)
+
 ## October 25th, 2022 Livestream
 * [Q&A: Are you going to half Glass Foundations?](../../../transcriptions/yt-kH2dOTO1b9w.md) [https://www.youtube.com/watch?v=kH2dOTO1b9w](https://www.youtube.com/watch?v=kH2dOTO1b9w)
 * [Q&A: Quarter Foundations?](../../../transcriptions/yt-AOP6ppi6KhA.md) [https://www.youtube.com/watch?v=AOP6ppi6KhA](https://www.youtube.com/watch?v=AOP6ppi6KhA)

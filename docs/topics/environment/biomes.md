@@ -10,6 +10,7 @@ date: Last Modified
 * [Dune Desert](../../topics/environment/biomes/dune-desert.md)
 * [Grass Fields](../../topics/environment/biomes/grass-fields.md)
 * [Northern Forest](../../topics/environment/biomes/northern-forest.md)
+* [Paradise Island](../../topics/environment/biomes/paradise-island.md)
 * [Red Bamboo Fields](../../topics/environment/biomes/red-bamboo-fields.md)
 * [Red Jungle](../../topics/environment/biomes/red-jungle.md)
 * [Rocky Desert](../../topics/environment/biomes/rocky-desert.md)
@@ -19,9 +20,11 @@ date: Last Modified
 * [Titan Forest](../../topics/environment/biomes/titan-forest.md)
 * [Unplanned Biomes](../../topics/environment/biomes/unplanned-biomes.md)
 
+## November 1st, 2022 Livestream
+* [Q&A: Will we ever get that fancy water you showed off?](../../transcriptions/yt-Tyrfm_MMOWQ.md) [https://www.youtube.com/watch?v=Tyrfm_MMOWQ](https://www.youtube.com/watch?v=Tyrfm_MMOWQ)
+
 ## October 25th, 2022 Livestream
 * [Intro](../../transcriptions/yt-y8I4mnME2jc.md) [https://www.youtube.com/watch?v=y8I4mnME2jc](https://www.youtube.com/watch?v=y8I4mnME2jc)
-* [Q&A: Paradise Island, yay or nay?](../../transcriptions/yt-vaWlnNbL2Xc.md) [https://www.youtube.com/watch?v=vaWlnNbL2Xc](https://www.youtube.com/watch?v=vaWlnNbL2Xc)
 
 ## October 21st, 2022 Video
 * [World Update](../../transcriptions/yt-rX7OpLCg0l8,109.67623333333333,166.49966666666666.md) [https://youtube.com/clip/Ugkx4Wdon7zab8KlU8iipgKhhxzATb9JJMrm](https://youtube.com/clip/Ugkx4Wdon7zab8KlU8iipgKhhxzATb9JJMrm)
@@ -54,10 +57,6 @@ date: Last Modified
 
 ## September 7th, 2021 Livestream
 * [Q&A: Will there be updates to the huge waterfall in the southwest corner of the map?](../../transcriptions/yt-uZSAvu6oPgU.md) [https://www.youtube.com/watch?v=uZSAvu6oPgU](https://www.youtube.com/watch?v=uZSAvu6oPgU)
-
-## August 10th, 2021 Livestream
-* [Q&A: Is the island in the south west "Paradies Island" or "Paradise Island" ?](../../transcriptions/yt-8Lp7oflSHfc.md) [https://www.youtube.com/watch?v=8Lp7oflSHfc](https://www.youtube.com/watch?v=8Lp7oflSHfc)
-* [Q&A: Giant Crab near Paradies Island?](../../transcriptions/yt-ortoJ5e3-vU.md) [https://www.youtube.com/watch?v=ortoJ5e3-vU](https://www.youtube.com/watch?v=ortoJ5e3-vU)
 
 ## August 3rd, 2021 Livestream
 * Q&A: Golf Biome? [https://www.youtube.com/watch?v=ItA7tWo8dsc](https://www.youtube.com/watch?v=ItA7tWo8dsc)

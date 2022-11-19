@@ -3,16 +3,16 @@ title: "December 17th, 2020 Q&A Q&A: Do you plan to add copy & paste functionali
 date: "2020-12-17"
 layout: transcript
 topics:
-    - "features/possible-features/blueprints"
+    - "features/blueprints"
 ---
 # [December 17th, 2020 Q&A](../2020-12-17.md)
 ## Q&A: Do you plan to add copy & paste functionality / blueprints?
 https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=1208&end=1267
-This question was possibly duplicated with a more recent answer: [October 18th, 2022 Livestream Q&A: Any plans for Blueprints?](./yt-NyqKc1tJojM.md) [https://www.youtube.com/watch?v=NyqKc1tJojM](https://www.youtube.com/watch?v=NyqKc1tJojM)
+This question was possibly replaced with a more recent answer: [November 15th, 2022 Livestream Q&A: When did you decide to add Blueprints?](./yt-CREPrQ23Dt4,3926.202571,3971.563964.md) [https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=3926&end=3972](https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=3926&end=3972)
 
 
 ### Topics
-* [Features > Possible Features > Blueprints](../topics/features/possible-features/blueprints.md)
+* [Features > Blueprints](../topics/features/blueprints.md)
 
 ### Transcript
 

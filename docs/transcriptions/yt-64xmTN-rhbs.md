@@ -11,7 +11,7 @@ topics:
 # [January 12th, 2021 Livestream](../2021-01-12.md)
 ## Q&A: The game is not done until I can flush the toilet?
 https://www.youtube.com/watch?v=64xmTN-rhbs
-This question was possibly duplicated with a more recent answer: [October 25th, 2022 Livestream Q&A: Is Toilet Flush DLC still going to happen?](./yt-kYZ4863LX9M.md) [https://www.youtube.com/watch?v=kYZ4863LX9M](https://www.youtube.com/watch?v=kYZ4863LX9M)
+This question was possibly duplicated with a more recent answer: [November 8th, 2022 Livestream Q&A: Toilets?](./yt-ykoTv9NbWYo.md) [https://www.youtube.com/watch?v=ykoTv9NbWYo](https://www.youtube.com/watch?v=ykoTv9NbWYo)
 
 
 ### Topics

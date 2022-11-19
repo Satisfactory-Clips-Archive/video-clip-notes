@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > Transportation > [Vehicles](../../../../topics/features/transportation/vehicles.md) > Explorer
 
+## November 1st, 2022 Livestream
+* [Q&A: Are you going to fix the suspension for the Explorer?](../../../../transcriptions/yt-l3Fidgs7kfI.md) [https://www.youtube.com/watch?v=l3Fidgs7kfI](https://www.youtube.com/watch?v=l3Fidgs7kfI)
+
 ## September 27th, 2022 Livestream
 * [Q&A: Can we get a passenger seat in the Explorer?](../../../../transcriptions/yt-9zcXb6IOVmY.md) [https://www.youtube.com/watch?v=9zcXb6IOVmY](https://www.youtube.com/watch?v=9zcXb6IOVmY)
 * [Q&A: Where's my ball to make in-game Rocket League?](../../../../transcriptions/yt-oQUvjq9YUxw.md) [https://www.youtube.com/watch?v=oQUvjq9YUxw](https://www.youtube.com/watch?v=oQUvjq9YUxw)

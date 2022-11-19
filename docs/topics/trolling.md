@@ -5,6 +5,14 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Trolling
 
+## November 8th, 2022 Livestream
+* [Snutt & Jace Talk: Paradise Island, Game Development, and Microtransactions](../transcriptions/yt-BmzL07GjYus.md) [https://www.youtube.com/watch?v=BmzL07GjYus](https://www.youtube.com/watch?v=BmzL07GjYus)
+* [Q&A: Smorgasboard DLC?](../transcriptions/yt-DAckE7CsuEc.md) [https://www.youtube.com/watch?v=DAckE7CsuEc](https://www.youtube.com/watch?v=DAckE7CsuEc)
+* [Q&A: Updates after 1.0?](../transcriptions/yt-eHFSHUqYSZc.md) [https://www.youtube.com/watch?v=eHFSHUqYSZc](https://www.youtube.com/watch?v=eHFSHUqYSZc)
+
+## November 1st, 2022 Livestream
+* [Community FYI: Tower Defense confirmed](../transcriptions/yt-X2hKEJvgCMA.md) [https://www.youtube.com/watch?v=X2hKEJvgCMA](https://www.youtube.com/watch?v=X2hKEJvgCMA)
+
 ## October 25th, 2022 Livestream
 * [Special Guest CEO of CSS (aka Official Satisfactory Podcast episode 2)](../transcriptions/yt-jjgFHNU5NNM.md) [https://www.youtube.com/watch?v=jjgFHNU5NNM](https://www.youtube.com/watch?v=jjgFHNU5NNM)
 * [Q&A: More hidden music tapes?](../transcriptions/yt-Z5OU9uCTNC4.md) [https://www.youtube.com/watch?v=Z5OU9uCTNC4](https://www.youtube.com/watch?v=Z5OU9uCTNC4)

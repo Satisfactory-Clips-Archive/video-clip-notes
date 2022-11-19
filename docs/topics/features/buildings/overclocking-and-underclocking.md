@@ -5,6 +5,18 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > Overclocking & Underclocking
 
+## November 15th, 2022 Livestream
+* [Dylan, Mark, and Snutt Talk: Changing the Overclocking exponent](../../../transcriptions/yt-CREPrQ23Dt4,5835.38837,6021.4571249125.md) [https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=5835&end=6022](https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=5835&end=6022)
+
+## November 11th, 2022 Video
+* [Resource Costs & Overclocking](../../../transcriptions/yt-9KBQyjy-a6g,403.521306,426.25916666666666.md) [https://youtube.com/embed/9KBQyjy-a6g?autoplay=1&start=403&end=427](https://youtube.com/embed/9KBQyjy-a6g?autoplay=1&start=403&end=427)
+* [An Update on Overclocking](../../../transcriptions/yt-9KBQyjy-a6g,895.6280666666667,974.0063666666667.md) [https://youtube.com/embed/9KBQyjy-a6g?autoplay=1&start=895&end=975](https://youtube.com/embed/9KBQyjy-a6g?autoplay=1&start=895&end=975)
+
+## November 1st, 2022 Livestream
+* [State of Dev](../../../transcriptions/yt-nQDnpAgaPJc.md) [https://www.youtube.com/watch?v=nQDnpAgaPJc](https://www.youtube.com/watch?v=nQDnpAgaPJc)
+* [Snutt Talk: Overclocking & Power Generators](../../../transcriptions/yt-ZL65A5Mmc1M.md) [https://www.youtube.com/watch?v=ZL65A5Mmc1M](https://www.youtube.com/watch?v=ZL65A5Mmc1M)
+* [Community FYI: I'm about to add 36 more Generators](../../../transcriptions/yt-AS1j_JaaNpE.md) [https://www.youtube.com/watch?v=AS1j_JaaNpE](https://www.youtube.com/watch?v=AS1j_JaaNpE)
+
 ## October 25th, 2022 Livestream
 * [State of Dev](../../../transcriptions/yt-v_S1Do7Amfk.md) [https://www.youtube.com/watch?v=v_S1Do7Amfk](https://www.youtube.com/watch?v=v_S1Do7Amfk)
 * [Q&A: Can you make a chat command for the Mk.3 Miner thing?](../../../transcriptions/yt-lz_Q6oWi41w.md) [https://www.youtube.com/watch?v=lz_Q6oWi41w](https://www.youtube.com/watch?v=lz_Q6oWi41w)

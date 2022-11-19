@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Possible Features](../../../topics/features/possible-features.md) > Character Customisation
 
+## November 1st, 2022 Livestream
+* [Q&A: Are we ever going to get a Character Creator?](../../../transcriptions/yt-bm243X-6tBI.md) [https://www.youtube.com/watch?v=bm243X-6tBI](https://www.youtube.com/watch?v=bm243X-6tBI)
+
 ## July 5th, 2022 Livestream
 * [Q&A: Pioneer customisation could be cool?](../../../transcriptions/yt-9eYG1DFVnpU.md) [https://www.youtube.com/watch?v=9eYG1DFVnpU](https://www.youtube.com/watch?v=9eYG1DFVnpU)
 

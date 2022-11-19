@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Biomes](../../../topics/environment/biomes.md) > Dune Desert
 
+## November 1st, 2022 Livestream
+* [Community FYI: Latest planned map changes doesn't list Dune Desert as start location](../../../transcriptions/yt-ujnN-DmhlGU.md) [https://www.youtube.com/watch?v=ujnN-DmhlGU](https://www.youtube.com/watch?v=ujnN-DmhlGU)
+
 ## August 30th, 2022 Livestream
 * [Q&A: Will the trees in western Dune Desert be fixed so the chainsaw chops more than one at a time?](../../../transcriptions/yt-Y2lhP94DACU.md) [https://www.youtube.com/watch?v=Y2lhP94DACU](https://www.youtube.com/watch?v=Y2lhP94DACU)
 

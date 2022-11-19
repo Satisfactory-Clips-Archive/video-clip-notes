@@ -3,14 +3,14 @@ title: "August 10th, 2021 Livestream Q&A: Is the island in the south west \"Para
 date: "2021-08-10"
 layout: transcript
 topics:
-    - "environment/biomes"
+    - "environment/biomes/paradise-island"
 ---
 # [August 10th, 2021 Livestream](../2021-08-10.md)
 ## Q&A: Is the island in the south west "Paradies Island" or "Paradise Island" ?
 https://www.youtube.com/watch?v=8Lp7oflSHfc
 
 ### Topics
-* [Environment > Biomes](../topics/environment/biomes.md)
+* [Environment > Biomes > Paradise Island](../topics/environment/biomes/paradise-island.md)
 
 ### Transcript
 

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Off-Topic](../../../topics/off-topic.md) > [Final Fantasy](../../../topics/off-topic/final-fantasy.md) > The Official Satisfactory PODCAST
 
+## November 1st, 2022 Livestream
+* [Q&A: When is the next Satisfactory Podcast?](../../../transcriptions/yt-6dWA37xMLUU.md) [https://www.youtube.com/watch?v=6dWA37xMLUU](https://www.youtube.com/watch?v=6dWA37xMLUU)
+
 ## October 25th, 2022 Livestream
 * [Special Guest CEO of CSS (aka Official Satisfactory Podcast episode 2)](../../../transcriptions/yt-jjgFHNU5NNM.md) [https://www.youtube.com/watch?v=jjgFHNU5NNM](https://www.youtube.com/watch?v=jjgFHNU5NNM)
 

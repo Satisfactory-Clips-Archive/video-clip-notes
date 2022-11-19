@@ -8,7 +8,7 @@ topics:
 # [March 30th, 2021 Livestream](../2021-03-30.md)
 ## Q&A: New Suit Skins?
 https://www.youtube.com/watch?v=1ekgStY-lEc
-This question was possibly duplicated with a more recent answer: [July 5th, 2022 Livestream Q&A: Pioneer customisation could be cool?](./yt-9eYG1DFVnpU.md) [https://www.youtube.com/watch?v=9eYG1DFVnpU](https://www.youtube.com/watch?v=9eYG1DFVnpU)
+This question was possibly duplicated with a more recent answer: [November 1st, 2022 Livestream Q&A: Are we ever going to get a Character Creator?](./yt-bm243X-6tBI.md) [https://www.youtube.com/watch?v=bm243X-6tBI](https://www.youtube.com/watch?v=bm243X-6tBI)
 
 
 ### Topics

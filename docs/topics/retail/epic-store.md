@@ -6,6 +6,10 @@ date: Last Modified
 # [Topics](../../topics.md) > [Retail](../../topics/retail.md) > Epic Store
 * [Epic Store Exclusivity](../../topics/retail/epic-store/epic-store-exclusivity.md)
 
+## November 15th, 2022 Livestream
+* [Community FYI: Epic is slow as fuck](../../transcriptions/yt-CREPrQ23Dt4,6227.943388758088,6240.003332.md) [https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=6227&end=6241](https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=6227&end=6241)
+* [Snutt Talk: If you're not seeing the Update](../../transcriptions/yt-CREPrQ23Dt4,8259.389945,8327.278515102387.md) [https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=8259&end=8328](https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=8259&end=8328)
+
 ## June 17th, 2022 Video
 * [Snutt Talk: How to check out Update 6 on Steam & Epic](../../transcriptions/yt-acZOxaTkcCY,49.474768,75.978834325334.md) [https://youtube.com/clip/UgkxcaZNnDl-U-_hLYWK8PSPeMSAt7lgcMUl](https://youtube.com/clip/UgkxcaZNnDl-U-_hLYWK8PSPeMSAt7lgcMUl)
 

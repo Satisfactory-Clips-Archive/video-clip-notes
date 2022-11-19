@@ -7,6 +7,9 @@ date: Last Modified
 * [Autosave](../../topics/features/save-system/autosave.md)
 * [Cloud Sync](../../topics/features/save-system/cloud-sync.md)
 
+## November 11th, 2022 Video
+* [Blueprints are not persistent to your Save file](../../transcriptions/yt-9KBQyjy-a6g,842.6418,892.6584333333334.md) [https://youtube.com/embed/9KBQyjy-a6g?autoplay=1&start=842&end=893](https://youtube.com/embed/9KBQyjy-a6g?autoplay=1&start=842&end=893)
+
 ## October 25th, 2022 Livestream
 * [Q&A: Is there a planned feature to share save files with your friends?](../../transcriptions/yt-MPrW_o-rOZA.md) [https://www.youtube.com/watch?v=MPrW_o-rOZA](https://www.youtube.com/watch?v=MPrW_o-rOZA)
 

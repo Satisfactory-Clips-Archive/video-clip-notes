@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Save System](../../../topics/features/save-system.md) > Autosave
 
+## November 15th, 2022 Livestream
+* [Q&A: Crash while auto-saving?](../../../transcriptions/yt-CREPrQ23Dt4,8194.121731,8259.389945.md) [https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=8194&end=8260](https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=8194&end=8260)
+
 ## September 13th, 2022 Livestream
 * [Q&A: Autosave notification for Dedicated Servers?](../../../transcriptions/yt-1Aq-thZx5dc.md) [https://www.youtube.com/watch?v=1Aq-thZx5dc](https://www.youtube.com/watch?v=1Aq-thZx5dc)
 

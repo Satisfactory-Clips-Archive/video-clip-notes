@@ -5,6 +5,12 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > [Crafting](../../../../topics/features/crafting.md) > [Recipes](../../../../topics/features/crafting/recipes.md) > Alternate Recipes
 
+## November 8th, 2022 Livestream
+* [Q&A: Will the Beacon alt be removed in Update 7?](../../../../transcriptions/yt-5YEG0e2Zrn0.md) [https://www.youtube.com/watch?v=5YEG0e2Zrn0](https://www.youtube.com/watch?v=5YEG0e2Zrn0)
+
+## November 1st, 2022 Livestream
+* [Q&A: Beacons & Recipes for Update 7?](../../../../transcriptions/yt-WlQm5uZ0Dlg.md) [https://www.youtube.com/watch?v=WlQm5uZ0Dlg](https://www.youtube.com/watch?v=WlQm5uZ0Dlg)
+
 ## October 18th, 2022 Livestream
 * [Q&A: Option to unlock all the Alt Recipe research from world start?](../../../../transcriptions/yt-hdIGlcoQBO0.md) [https://www.youtube.com/watch?v=hdIGlcoQBO0](https://www.youtube.com/watch?v=hdIGlcoQBO0)
 

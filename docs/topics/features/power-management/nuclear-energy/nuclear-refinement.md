@@ -5,6 +5,12 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > [Power Management](../../../../topics/features/power-management.md) > [Nuclear Energy](../../../../topics/features/power-management/nuclear-energy.md) > Nuclear Refinement
 
+## November 8th, 2022 Livestream
+* [Q&A: Will the Beacon alt be removed in Update 7?](../../../../transcriptions/yt-5YEG0e2Zrn0.md) [https://www.youtube.com/watch?v=5YEG0e2Zrn0](https://www.youtube.com/watch?v=5YEG0e2Zrn0)
+
+## November 1st, 2022 Livestream
+* [Q&A: Beacons & Recipes for Update 7?](../../../../transcriptions/yt-WlQm5uZ0Dlg.md) [https://www.youtube.com/watch?v=WlQm5uZ0Dlg](https://www.youtube.com/watch?v=WlQm5uZ0Dlg)
+
 ## September 13th, 2022 Livestream
 * [Q&A: Any plans on simplifying late-game factories?](../../../../transcriptions/yt-iFQb9_j7jMY.md) [https://www.youtube.com/watch?v=iFQb9_j7jMY](https://www.youtube.com/watch?v=iFQb9_j7jMY)
 

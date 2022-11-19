@@ -22,6 +22,9 @@ date: Last Modified
 * [Walls](../../topics/features/buildables/walls.md)
 * [Windows](../../topics/features/buildables/windows.md)
 
+## November 8th, 2022 Livestream
+* [Q&A: Any thoughts on reducing megabase tedium?](../../transcriptions/yt-dK4A7RdB9pE.md) [https://www.youtube.com/watch?v=dK4A7RdB9pE](https://www.youtube.com/watch?v=dK4A7RdB9pE)
+
 ## October 4th, 2022 Livestream
 * [Q&A: Double outlets on Foundations?](../../transcriptions/yt-SWdSlbaISog.md) [https://www.youtube.com/watch?v=SWdSlbaISog](https://www.youtube.com/watch?v=SWdSlbaISog)
 * [Q&A: Snapping issues?](../../transcriptions/yt-afOHa8pv6l8.md) [https://www.youtube.com/watch?v=afOHa8pv6l8](https://www.youtube.com/watch?v=afOHa8pv6l8)

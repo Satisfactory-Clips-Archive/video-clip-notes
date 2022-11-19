@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Fluids](../../../topics/features/fluids.md) > Pipes
 
+## November 8th, 2022 Livestream
+* [Q&A: Will there be some tutorials for Pipes?](../../../transcriptions/yt-l26X2kKCOhI.md) [https://www.youtube.com/watch?v=l26X2kKCOhI](https://www.youtube.com/watch?v=l26X2kKCOhI)
+
 ## October 25th, 2022 Livestream
 * [Q&A: Pipe ceiling mounts?](../../../transcriptions/yt-dhoa1QZ9n8Q.md) [https://www.youtube.com/watch?v=dhoa1QZ9n8Q](https://www.youtube.com/watch?v=dhoa1QZ9n8Q)
 

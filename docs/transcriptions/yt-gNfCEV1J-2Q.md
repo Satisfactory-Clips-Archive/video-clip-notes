@@ -9,7 +9,7 @@ topics:
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: Like a new map for Satisfactory?
 https://www.youtube.com/watch?v=gNfCEV1J-2Q
-This question was possibly duplicated with a more recent answer: [September 6th, 2022 Livestream Q&A: Add more Maps in DLC form?](./yt-A4FfpjBDpaw.md) [https://www.youtube.com/watch?v=A4FfpjBDpaw](https://www.youtube.com/watch?v=A4FfpjBDpaw)
+This question was possibly duplicated with a more recent answer: [November 1st, 2022 Livestream Q&A: Add more Maps in future?](./yt-bIbXx0QfIbc.md) [https://www.youtube.com/watch?v=bIbXx0QfIbc](https://www.youtube.com/watch?v=bIbXx0QfIbc)
 
 
 ### Topics

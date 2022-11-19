@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > Transportation > Trains
 * [Train Signals](../../../topics/features/transportation/trains/train-signals.md)
 
+## November 15th, 2022 Livestream
+* [Q&A: Train lanes, no power?](../../../transcriptions/yt-CREPrQ23Dt4,6197.319266,6227.943388758088.md) [https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=6197&end=6228](https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=6197&end=6228)
+
 ## October 18th, 2022 Livestream
 * [Q&A: Any Updates to the Trains coming before 1.0?](../../../transcriptions/yt-NUIgfWrd9yI.md) [https://www.youtube.com/watch?v=NUIgfWrd9yI](https://www.youtube.com/watch?v=NUIgfWrd9yI)
 

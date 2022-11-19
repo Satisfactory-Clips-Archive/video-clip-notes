@@ -3,8 +3,8 @@ title: "September 6th, 2022 Livestream Q&A: Terrain manipulation?"
 date: "2022-09-06"
 layout: transcript
 topics:
+    - "features/blueprints"
     - "features/fluids/pipes"
-    - "features/possible-features/blueprints"
     - "features/power-management/green-energy"
     - "features/unplanned-features/base-defense"
     - "features/unplanned-features/golf"
@@ -18,8 +18,8 @@ This question was possibly duplicated with a more recent answer: [October 25th, 
 
 
 ### Topics
+* [Features > Blueprints](../topics/features/blueprints.md)
 * [Features > Fluids > Pipes](../topics/features/fluids/pipes.md)
-* [Features > Possible Features > Blueprints](../topics/features/possible-features/blueprints.md)
 * [Features > Power Management > Green Energy](../topics/features/power-management/green-energy.md)
 * [Features > Unplanned Features > Base Defense](../topics/features/unplanned-features/base-defense.md)
 * [Features > Unplanned Features > Golf](../topics/features/unplanned-features/golf.md)

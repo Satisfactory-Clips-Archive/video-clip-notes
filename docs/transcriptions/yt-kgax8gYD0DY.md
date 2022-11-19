@@ -4,8 +4,8 @@ date: "2021-05-04"
 layout: transcript
 topics:
     - "coffee-stainers/mark"
+    - "features/blueprints"
     - "features/equipment/hover-pack"
-    - "features/possible-features/blueprints"
     - "features/tiers"
     - "features/tiers/tier-7"
     - "features/unplanned-features/base-defense"
@@ -17,8 +17,8 @@ https://www.youtube.com/watch?v=kgax8gYD0DY
 
 ### Topics
 * [Coffee Stainers > Mark](../topics/coffee-stainers/mark.md)
+* [Features > Blueprints](../topics/features/blueprints.md)
 * [Features > Equipment > Hover Pack](../topics/features/equipment/hover-pack.md)
-* [Features > Possible Features > Blueprints](../topics/features/possible-features/blueprints.md)
 * [Features > Tiers](../topics/features/tiers.md)
 * [Features > Tiers > Tier 7](../topics/features/tiers/tier-7.md)
 * [Features > Unplanned Features > Base Defense](../topics/features/unplanned-features/base-defense.md)

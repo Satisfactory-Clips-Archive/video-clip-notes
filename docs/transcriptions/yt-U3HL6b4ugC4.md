@@ -4,7 +4,7 @@ date: "2021-05-11"
 layout: transcript
 topics:
     - "coffee-stainers/mark"
-    - "features/possible-features/blueprints"
+    - "features/blueprints"
     - "features/unplanned-features/mass-building"
 ---
 # [May 11th, 2021 Livestream](../2021-05-11.md)
@@ -15,7 +15,7 @@ This question was possibly duplicated with a more recent answer: [May 25th, 2021
 
 ### Topics
 * [Coffee Stainers > Mark](../topics/coffee-stainers/mark.md)
-* [Features > Possible Features > Blueprints](../topics/features/possible-features/blueprints.md)
+* [Features > Blueprints](../topics/features/blueprints.md)
 * [Features > Unplanned Features > Mass Building](../topics/features/unplanned-features/mass-building.md)
 
 ### Transcript

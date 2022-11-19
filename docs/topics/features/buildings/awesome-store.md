@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > AWESOME Store
 
+## November 1st, 2022 Livestream
+* [Q&A: Snutt Statue for 5000 Coupons?](../../../transcriptions/yt-_0GCCJccAl8.md) [https://www.youtube.com/watch?v=_0GCCJccAl8](https://www.youtube.com/watch?v=_0GCCJccAl8)
+
 ## July 12th, 2022 Livestream
 * [Q&A: What does AWESOME mean?](../../../transcriptions/yt-nyN4xwl5Ndo.md) [https://www.youtube.com/watch?v=nyN4xwl5Ndo](https://www.youtube.com/watch?v=nyN4xwl5Ndo)
 

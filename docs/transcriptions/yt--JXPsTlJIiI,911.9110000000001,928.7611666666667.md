@@ -8,7 +8,7 @@ topics:
 # [December 17th, 2020 Q&A](../2020-12-17.md)
 ## Q&A: Character customization?
 https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=911&end=929
-This question was possibly duplicated with a more recent answer: [July 5th, 2022 Livestream Q&A: Pioneer customisation could be cool?](./yt-9eYG1DFVnpU.md) [https://www.youtube.com/watch?v=9eYG1DFVnpU](https://www.youtube.com/watch?v=9eYG1DFVnpU)
+This question was possibly duplicated with a more recent answer: [November 1st, 2022 Livestream Q&A: Are we ever going to get a Character Creator?](./yt-bm243X-6tBI.md) [https://www.youtube.com/watch?v=bm243X-6tBI](https://www.youtube.com/watch?v=bm243X-6tBI)
 
 
 ### Topics

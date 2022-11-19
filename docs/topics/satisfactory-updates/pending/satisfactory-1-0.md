@@ -5,6 +5,13 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Pending](../../../topics/satisfactory-updates/pending.md) > Satisfactory 1.0
 
+## November 8th, 2022 Livestream
+* [Q&A: Can we talk about ADA and the S.A.M. Ore?](../../../transcriptions/yt-ngdOwVeAqZs.md) [https://www.youtube.com/watch?v=ngdOwVeAqZs](https://www.youtube.com/watch?v=ngdOwVeAqZs)
+* [Q&A: Updates after 1.0?](../../../transcriptions/yt-eHFSHUqYSZc.md) [https://www.youtube.com/watch?v=eHFSHUqYSZc](https://www.youtube.com/watch?v=eHFSHUqYSZc)
+
+## November 1st, 2022 Livestream
+* [Q&A: Any plans for 1.0 testing with small Community group](../../../transcriptions/yt-Och6CZWc3ck.md) [https://www.youtube.com/watch?v=Och6CZWc3ck](https://www.youtube.com/watch?v=Och6CZWc3ck)
+
 ## October 25th, 2022 Livestream
 * [Special Guest CEO of CSS (aka Official Satisfactory Podcast episode 2)](../../../transcriptions/yt-jjgFHNU5NNM.md) [https://www.youtube.com/watch?v=jjgFHNU5NNM](https://www.youtube.com/watch?v=jjgFHNU5NNM)
 * [Q&A: Is the final Update going to be a small patch or a big one?](../../../transcriptions/yt-h3Fy3VpwDHs.md) [https://www.youtube.com/watch?v=h3Fy3VpwDHs](https://www.youtube.com/watch?v=h3Fy3VpwDHs)

@@ -9,7 +9,7 @@ topics:
 # [March 15th, 2022 Livestream](../2022-03-15.md)
 ## Q&A: Will you ever fix the Blades glitching through the Hypertubes?
 https://www.youtube.com/watch?v=RSRBm3ZiLKg
-This question was possibly duplicated with a more recent answer: [October 25th, 2022 Livestream Q&A: Blade Runners while going in HyperTube bug getting fixed?](./yt-Ctu7jicDo5c.md) [https://www.youtube.com/watch?v=Ctu7jicDo5c](https://www.youtube.com/watch?v=Ctu7jicDo5c)
+This question was possibly duplicated with a more recent answer: [November 1st, 2022 Livestream Q&A: Hyper Tube gear glitch?](./yt-C2PmZj33BIE.md) [https://www.youtube.com/watch?v=C2PmZj33BIE](https://www.youtube.com/watch?v=C2PmZj33BIE)
 
 
 ### Topics

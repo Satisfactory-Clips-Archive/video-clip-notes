@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Unplanned Features](../../../topics/features/unplanned-features.md) > Microtransactions
 
+## November 8th, 2022 Livestream
+* [Snutt & Jace Talk: Paradise Island, Game Development, and Microtransactions](../../../transcriptions/yt-BmzL07GjYus.md) [https://www.youtube.com/watch?v=BmzL07GjYus](https://www.youtube.com/watch?v=BmzL07GjYus)
+
 ## August 23rd, 2022 Livestream
 * [Snutt Talk: Microtransactions](../../../transcriptions/yt-UQp-AE0x3CA.md) [https://www.youtube.com/watch?v=UQp-AE0x3CA](https://www.youtube.com/watch?v=UQp-AE0x3CA)
 

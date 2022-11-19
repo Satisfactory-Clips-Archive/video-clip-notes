@@ -5,6 +5,12 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > [Possible Features](../../../../topics/features/possible-features.md) > [DLC](../../../../topics/features/possible-features/dlc.md) > Flushable Toilet DLC
 
+## November 8th, 2022 Livestream
+* [Q&A: Toilets?](../../../../transcriptions/yt-ykoTv9NbWYo.md) [https://www.youtube.com/watch?v=ykoTv9NbWYo](https://www.youtube.com/watch?v=ykoTv9NbWYo)
+
+## November 1st, 2022 Livestream
+* [Q&A: What about the Flushing Toilet?](../../../../transcriptions/yt-nXaMRCrJQ9U.md) [https://www.youtube.com/watch?v=nXaMRCrJQ9U](https://www.youtube.com/watch?v=nXaMRCrJQ9U)
+
 ## October 25th, 2022 Livestream
 * [Q&A: Is Toilet Flush DLC still going to happen?](../../../../transcriptions/yt-kYZ4863LX9M.md) [https://www.youtube.com/watch?v=kYZ4863LX9M](https://www.youtube.com/watch?v=kYZ4863LX9M)
 

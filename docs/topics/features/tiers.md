@@ -16,6 +16,11 @@ date: Last Modified
 * [Tier 9](../../topics/features/tiers/tier-9.md)
 * [Tier 10](../../topics/features/tiers/tier-10.md)
 
+## November 15th, 2022 Livestream
+* [Q&A: What Tier are Blueprints unlocked in?](../../transcriptions/yt-CREPrQ23Dt4,3326.131639,3351.962562.md) [https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=3326&end=3352](https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=3326&end=3352)
+* [Q&A: Are Blueprints part of the MAM or part of general Tiers?](../../transcriptions/yt-CREPrQ23Dt4,4008.838937,4045.864719.md) [https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=4008&end=4046](https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=4008&end=4046)
+* [Q&A: Will we get more Blueprints with more space for higher Tiers?](../../transcriptions/yt-CREPrQ23Dt4,6021.4571249125,6033.634519959804.md) [https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=6021&end=6034](https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=6021&end=6034)
+
 ## September 13th, 2022 Livestream
 * [Q&A: New Research or new Tiers, what is more likely to be added?](../../transcriptions/yt-LHjVbyrdBlM.md) [https://www.youtube.com/watch?v=LHjVbyrdBlM](https://www.youtube.com/watch?v=LHjVbyrdBlM)
 * [Q&A: What Tier will S.A.M. Ore be used in ?](../../transcriptions/yt-bWbC_aCpEXc.md) [https://www.youtube.com/watch?v=bWbC_aCpEXc](https://www.youtube.com/watch?v=bWbC_aCpEXc)

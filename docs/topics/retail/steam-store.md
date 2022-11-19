@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../topics.md) > [Retail](../../topics/retail.md) > Steam Store
 * [Steam Release](../../topics/retail/steam-store/steam-release.md)
 
+## November 15th, 2022 Livestream
+* [Snutt Talk: If you're not seeing the Update](../../transcriptions/yt-CREPrQ23Dt4,8259.389945,8327.278515102387.md) [https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=8259&end=8328](https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=8259&end=8328)
+
 ## October 25th, 2022 Livestream
 * [Q&A: Dedicated Server application on Steam?](../../transcriptions/yt-k95caIpykOo.md) [https://www.youtube.com/watch?v=k95caIpykOo](https://www.youtube.com/watch?v=k95caIpykOo)
 

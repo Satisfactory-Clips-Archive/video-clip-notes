@@ -7,6 +7,9 @@ date: Last Modified
 * [Flushable Toilet DLC](../../../topics/features/possible-features/dlc/flushable-toilet-dlc.md)
 * [Toilet Paper DLC](../../../topics/features/possible-features/dlc/toilet-paper-dlc.md)
 
+## November 8th, 2022 Livestream
+* [Q&A: Smorgasboard DLC?](../../../transcriptions/yt-DAckE7CsuEc.md) [https://www.youtube.com/watch?v=DAckE7CsuEc](https://www.youtube.com/watch?v=DAckE7CsuEc)
+
 ## October 18th, 2022 Livestream
 * [Q&A: Do you guys want to release DLC?](../../../transcriptions/yt-SXCLbwPIp7k.md) [https://www.youtube.com/watch?v=SXCLbwPIp7k](https://www.youtube.com/watch?v=SXCLbwPIp7k)
 

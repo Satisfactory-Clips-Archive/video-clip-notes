@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Equipment](../../../topics/features/equipment.md) > Blade Runners
 
+## November 1st, 2022 Livestream
+* [Q&A: Hyper Tube gear glitch?](../../../transcriptions/yt-C2PmZj33BIE.md) [https://www.youtube.com/watch?v=C2PmZj33BIE](https://www.youtube.com/watch?v=C2PmZj33BIE)
+
 ## October 25th, 2022 Livestream
 * [Q&A: Blade Runners while going in HyperTube bug getting fixed?](../../../transcriptions/yt-Ctu7jicDo5c.md) [https://www.youtube.com/watch?v=Ctu7jicDo5c](https://www.youtube.com/watch?v=Ctu7jicDo5c)
 

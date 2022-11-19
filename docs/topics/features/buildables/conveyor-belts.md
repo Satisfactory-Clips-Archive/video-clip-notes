@@ -5,6 +5,17 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildables](../../../topics/features/buildables.md) > Conveyor Belts
 
+## November 15th, 2022 Livestream
+* [Conveyor Pole Improvements](../../../transcriptions/yt-CREPrQ23Dt4,5191.075903877209,5349.792123.md) [https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=5191&end=5350](https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=5191&end=5350)
+* [Dylan, Mark, and Snutt Talk: Connecting the Horizontal Belt Lifts](../../../transcriptions/yt-CREPrQ23Dt4,5677.699392,5814.22606.md) [https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=5677&end=5815](https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=5677&end=5815)
+
+## November 11th, 2022 Video
+* [Setting up an Iron Rod manifold](../../../transcriptions/yt-9KBQyjy-a6g,284.91796666666664,354.9546.md) [https://youtube.com/embed/9KBQyjy-a6g?autoplay=1&start=284&end=355](https://youtube.com/embed/9KBQyjy-a6g?autoplay=1&start=284&end=355)
+* [Plan ahead for expansion](../../../transcriptions/yt-9KBQyjy-a6g,354.9879666666667,375.208167.md) [https://youtube.com/embed/9KBQyjy-a6g?autoplay=1&start=354&end=376](https://youtube.com/embed/9KBQyjy-a6g?autoplay=1&start=354&end=376)
+* [Applying the Iron Rod Manifold](../../../transcriptions/yt-9KBQyjy-a6g,557.0565,630.1962333333333.md) [https://youtube.com/embed/9KBQyjy-a6g?autoplay=1&start=557&end=631](https://youtube.com/embed/9KBQyjy-a6g?autoplay=1&start=557&end=631)
+* [Integrating the freshly-applied Blueprint](../../../transcriptions/yt-9KBQyjy-a6g,630.2296,653.4861666666667.md) [https://youtube.com/embed/9KBQyjy-a6g?autoplay=1&start=630&end=654](https://youtube.com/embed/9KBQyjy-a6g?autoplay=1&start=630&end=654)
+* [Expanding the freshly-applied Blueprint](../../../transcriptions/yt-9KBQyjy-a6g,653.5195333333334,687.3533333333334.md) [https://youtube.com/embed/9KBQyjy-a6g?autoplay=1&start=653&end=688](https://youtube.com/embed/9KBQyjy-a6g?autoplay=1&start=653&end=688)
+
 ## October 25th, 2022 Livestream
 * [State of Dev](../../../transcriptions/yt-v_S1Do7Amfk.md) [https://www.youtube.com/watch?v=v_S1Do7Amfk](https://www.youtube.com/watch?v=v_S1Do7Amfk)
 * [Q&A: Mk.6 Belt or second output for Mk.3 Miners?](../../../transcriptions/yt-20JxwoTTwtQ.md) [https://www.youtube.com/watch?v=20JxwoTTwtQ](https://www.youtube.com/watch?v=20JxwoTTwtQ)

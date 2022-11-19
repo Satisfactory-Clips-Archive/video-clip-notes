@@ -10,6 +10,16 @@ date: Last Modified
 * [Pollution](../../topics/features/requested-features/pollution.md)
 * [Third-person View](../../topics/features/requested-features/third-person-view.md)
 
+## November 15th, 2022 Livestream
+* [Q&A: 128x128?](../../transcriptions/yt-CREPrQ23Dt4,6240.003332,6249.676934.md) [https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=6240&end=6250](https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=6240&end=6250)
+* [Q&A: Does the Coal Generator fit?](../../transcriptions/yt-CREPrQ23Dt4,6249.676934,6540.615837.md) [https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=6249&end=6541](https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=6249&end=6541)
+
+## November 1st, 2022 Livestream
+* [Q&A: Add more Maps in future?](../../transcriptions/yt-bIbXx0QfIbc.md) [https://www.youtube.com/watch?v=bIbXx0QfIbc](https://www.youtube.com/watch?v=bIbXx0QfIbc)
+* [Q&A: Hyper Tube gear glitch?](../../transcriptions/yt-C2PmZj33BIE.md) [https://www.youtube.com/watch?v=C2PmZj33BIE](https://www.youtube.com/watch?v=C2PmZj33BIE)
+* [Q&A: FICSMAS/Halloween 2023?](../../transcriptions/yt-X5xZcy0pLz8.md) [https://www.youtube.com/watch?v=X5xZcy0pLz8](https://www.youtube.com/watch?v=X5xZcy0pLz8)
+* [Q&A: Snutt Statue for 5000 Coupons?](../../transcriptions/yt-_0GCCJccAl8.md) [https://www.youtube.com/watch?v=_0GCCJccAl8](https://www.youtube.com/watch?v=_0GCCJccAl8)
+
 ## October 25th, 2022 Livestream
 * [Q&A: Chances of Halloween event?](../../transcriptions/yt-I5ilyfKy2oI.md) [https://www.youtube.com/watch?v=I5ilyfKy2oI](https://www.youtube.com/watch?v=I5ilyfKy2oI)
 * [Q&A: Is there a planned feature to share save files with your friends?](../../transcriptions/yt-MPrW_o-rOZA.md) [https://www.youtube.com/watch?v=MPrW_o-rOZA](https://www.youtube.com/watch?v=MPrW_o-rOZA)

@@ -9,6 +9,7 @@ date: Last Modified
 * [AWESOME Store](../../topics/features/buildings/awesome-store.md)
 * [Biomass Burner](../../topics/features/buildings/biomass-burner.md)
 * [Blender](../../topics/features/buildings/blender.md)
+* [Blueprint Designer](../../topics/features/buildings/blueprint-designer.md)
 * [Coal Generator](../../topics/features/buildings/coal-generator.md)
 * [Constructor](../../topics/features/buildings/constructor.md)
 * [Crash Site](../../topics/features/buildings/crash-site.md)
@@ -26,6 +27,9 @@ date: Last Modified
 * [Space Elevator](../../topics/features/buildings/space-elevator.md)
 * [The HUB](../../topics/features/buildings/the-hub.md)
 * [Water Extractor](../../topics/features/buildings/water-extractor.md)
+
+## November 8th, 2022 Livestream
+* [Q&A: Any thoughts on reducing megabase tedium?](../../transcriptions/yt-dK4A7RdB9pE.md) [https://www.youtube.com/watch?v=dK4A7RdB9pE](https://www.youtube.com/watch?v=dK4A7RdB9pE)
 
 ## October 18th, 2022 Livestream
 * [Q&A: Tell me there's more Buildings & high-level stuff to make?](../../transcriptions/yt-DBIkWUDxdIk.md) [https://www.youtube.com/watch?v=DBIkWUDxdIk](https://www.youtube.com/watch?v=DBIkWUDxdIk)

@@ -8,6 +8,12 @@ date: Last Modified
 * [Snutt Burger Time](../../topics/coffee-stainers/snutt/snutt-burger-time.md)
 * [Snutty Mays](../../topics/coffee-stainers/snutt/snutty-mays.md)
 
+## November 8th, 2022 Livestream
+* [Intro & Lizard Doggo Stuffing Race](../../transcriptions/yt-a_cQjagsfOg.md) [https://www.youtube.com/watch?v=a_cQjagsfOg](https://www.youtube.com/watch?v=a_cQjagsfOg)
+
+## November 1st, 2022 Livestream
+* [Q&A: Snutt Statue for 5000 Coupons?](../../transcriptions/yt-_0GCCJccAl8.md) [https://www.youtube.com/watch?v=_0GCCJccAl8](https://www.youtube.com/watch?v=_0GCCJccAl8)
+
 ## October 25th, 2022 Livestream
 * [Intro](../../transcriptions/yt-y8I4mnME2jc.md) [https://www.youtube.com/watch?v=y8I4mnME2jc](https://www.youtube.com/watch?v=y8I4mnME2jc)
 * [Q&A: Will we have better Community Managers next week?](../../transcriptions/yt-nfs-AP7hE8s.md) [https://www.youtube.com/watch?v=nfs-AP7hE8s](https://www.youtube.com/watch?v=nfs-AP7hE8s)

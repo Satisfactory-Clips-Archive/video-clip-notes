@@ -9,7 +9,7 @@ topics:
 # [April 19th, 2022 Livestream](../2022-04-19.md)
 ## Q&A: When will you add episode 2 on the Podcast?
 https://www.youtube.com/watch?v=g57nuSoIYnw
-This question was possibly duplicated with a more recent answer: [July 5th, 2022 Livestream Q&A: When is your next Final Fantasy podcast?](./yt-8-TdFU3iRUo.md) [https://www.youtube.com/watch?v=8-TdFU3iRUo](https://www.youtube.com/watch?v=8-TdFU3iRUo)
+This question was possibly replaced with a more recent answer: [November 1st, 2022 Livestream Q&A: When is the next Satisfactory Podcast?](./yt-6dWA37xMLUU.md) [https://www.youtube.com/watch?v=6dWA37xMLUU](https://www.youtube.com/watch?v=6dWA37xMLUU)
 
 
 ### Topics

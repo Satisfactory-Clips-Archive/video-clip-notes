@@ -8,7 +8,7 @@ topics:
 # [January 26th, 2021 Livestream](../2021-01-26.md)
 ## Q&A: Does the dev team have any ideas for post-launch content?
 https://www.youtube.com/watch?v=gppSU17i2as
-This question was possibly duplicated with a more recent answer: [August 30th, 2022 Livestream Q&A: Any plans for the game beyond 1.0?](./yt-mZhl4NGoywM.md) [https://www.youtube.com/watch?v=mZhl4NGoywM](https://www.youtube.com/watch?v=mZhl4NGoywM)
+This question was possibly duplicated with a more recent answer: [November 8th, 2022 Livestream Q&A: Updates after 1.0?](./yt-eHFSHUqYSZc.md) [https://www.youtube.com/watch?v=eHFSHUqYSZc](https://www.youtube.com/watch?v=eHFSHUqYSZc)
 
 
 ### Topics

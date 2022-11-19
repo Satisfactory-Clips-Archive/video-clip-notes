@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Ben
 
+## November 1st, 2022 Livestream
+* [Q&A: Will we ever get that fancy water you showed off?](../../transcriptions/yt-Tyrfm_MMOWQ.md) [https://www.youtube.com/watch?v=Tyrfm_MMOWQ](https://www.youtube.com/watch?v=Tyrfm_MMOWQ)
+
 ## August 30th, 2022 Livestream
 * [Q&A: New Water system?](../../transcriptions/yt-Cwx8kD-fSr0.md) [https://www.youtube.com/watch?v=Cwx8kD-fSr0](https://www.youtube.com/watch?v=Cwx8kD-fSr0)
 

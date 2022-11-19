@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > M.A.M.
 
+## November 15th, 2022 Livestream
+* [Q&A: Are Blueprints part of the MAM or part of general Tiers?](../../../transcriptions/yt-CREPrQ23Dt4,4008.838937,4045.864719.md) [https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=4008&end=4046](https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=4008&end=4046)
+
 ## October 25th, 2022 Livestream
 * [Q&A: Cart upgrade tree?](../../../transcriptions/yt-C56Nmu_poFE.md) [https://www.youtube.com/watch?v=C56Nmu_poFE](https://www.youtube.com/watch?v=C56Nmu_poFE)
 

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Environment](../../topics/environment.md) > World Map
 
+## November 1st, 2022 Livestream
+* [Q&A: Add more Maps in future?](../../transcriptions/yt-bIbXx0QfIbc.md) [https://www.youtube.com/watch?v=bIbXx0QfIbc](https://www.youtube.com/watch?v=bIbXx0QfIbc)
+
 ## October 18th, 2022 Livestream
 * [Q&A: Expand the Map?](../../transcriptions/yt-ZGvf0o0P1HU.md) [https://www.youtube.com/watch?v=ZGvf0o0P1HU](https://www.youtube.com/watch?v=ZGvf0o0P1HU)
 

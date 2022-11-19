@@ -8,6 +8,12 @@ date: Last Modified
 * [Creative Mode](../../../topics/features/possible-features/game-modes/creative-mode.md)
 * [Peaceful Mode](../../../topics/features/possible-features/game-modes/peaceful-mode.md)
 
+## November 15th, 2022 Livestream
+* [Dylan, Mark, and Snutt Talk: Game Modes](../../../transcriptions/yt-CREPrQ23Dt4,6784.186237,6900.448189.md) [https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=6784&end=6901](https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=6784&end=6901)
+
+## November 8th, 2022 Livestream
+* [Q&A: Any new planned Game Modes?](../../../transcriptions/yt-skJAEEFhMds.md) [https://www.youtube.com/watch?v=skJAEEFhMds](https://www.youtube.com/watch?v=skJAEEFhMds)
+
 ## October 25th, 2022 Livestream
 * [State of Dev](../../../transcriptions/yt-v_S1Do7Amfk.md) [https://www.youtube.com/watch?v=v_S1Do7Amfk](https://www.youtube.com/watch?v=v_S1Do7Amfk)
 * [Q&A: Game Mode with Base Defense?](../../../transcriptions/yt-W4o0vCsRoqE.md) [https://www.youtube.com/watch?v=W4o0vCsRoqE](https://www.youtube.com/watch?v=W4o0vCsRoqE)

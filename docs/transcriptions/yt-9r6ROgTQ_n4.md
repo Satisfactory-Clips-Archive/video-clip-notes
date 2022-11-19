@@ -9,7 +9,7 @@ topics:
 # [October 13th, 2020 Livestream](../2020-10-13.md)
 ## Q&A: Will you switch to using Unreal Engine 5?
 https://www.youtube.com/watch?v=9r6ROgTQ_n4
-This question was possibly duplicated with a more recent answer: [October 18th, 2022 Livestream Q&A: Unreal Engine 5, when?](./yt-eaAlw_gTGME.md) [https://www.youtube.com/watch?v=eaAlw_gTGME](https://www.youtube.com/watch?v=eaAlw_gTGME)
+This question was possibly duplicated with a more recent answer: [November 8th, 2022 Livestream Q&A: Switch to Unreal Engine 5?](./yt-b8hgp-m3YtM.md) [https://www.youtube.com/watch?v=b8hgp-m3YtM](https://www.youtube.com/watch?v=b8hgp-m3YtM)
 
 
 ### Topics

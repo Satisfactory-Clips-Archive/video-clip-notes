@@ -4,6 +4,12 @@ date: Last Modified
 layout: index
 ---
 # 2022
+## November
+* [November 15th](2022-11-15.md)
+* [November 11th](2022-11-11.md)
+* [November 8th](2022-11-08.md)
+* [November 1st](2022-11-01.md)
+
 ## October
 * [October 25th](2022-10-25.md)
 * [October 21st](2022-10-21.md)

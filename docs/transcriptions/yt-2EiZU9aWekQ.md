@@ -9,7 +9,7 @@ topics:
 # [May 11th, 2021 Livestream](../2021-05-11.md)
 ## Q&A: Can you add Trucks that carry liquids?
 https://www.youtube.com/watch?v=2EiZU9aWekQ
-This question was possibly duplicated with a more recent answer: [March 8th, 2022 Livestream Q&A: Plans to make Truck Stations for Fluids?](./yt-O0Pr5KSisOA.md) [https://www.youtube.com/watch?v=O0Pr5KSisOA](https://www.youtube.com/watch?v=O0Pr5KSisOA)
+This question was possibly duplicated with a more recent answer: [November 1st, 2022 Livestream Q&A: Adding Fluid Trucks?](./yt-x-zXGDdrhbc.md) [https://www.youtube.com/watch?v=x-zXGDdrhbc](https://www.youtube.com/watch?v=x-zXGDdrhbc)
 
 
 ### Topics

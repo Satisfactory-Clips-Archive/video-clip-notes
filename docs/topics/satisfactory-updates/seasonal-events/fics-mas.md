@@ -5,6 +5,12 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Seasonal Events](../../../topics/satisfactory-updates/seasonal-events.md) > FICS⁕MAS
 
+## November 15th, 2022 Livestream
+* [Dylan, Mark, and Snutt Talk: FICSMAS 2022](../../../transcriptions/yt-CREPrQ23Dt4,6714.312943,6784.186237.md) [https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=6714&end=6785](https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=6714&end=6785)
+
+## November 1st, 2022 Livestream
+* [Q&A: FICSMAS/Halloween 2023?](../../../transcriptions/yt-X5xZcy0pLz8.md) [https://www.youtube.com/watch?v=X5xZcy0pLz8](https://www.youtube.com/watch?v=X5xZcy0pLz8)
+
 ## October 25th, 2022 Livestream
 * [State of Dev](../../../transcriptions/yt-v_S1Do7Amfk.md) [https://www.youtube.com/watch?v=v_S1Do7Amfk](https://www.youtube.com/watch?v=v_S1Do7Amfk)
 * [Q&A: Will we get new FICSMAS presents?](../../../transcriptions/yt-NDIli-Z10Rc.md) [https://www.youtube.com/watch?v=NDIli-Z10Rc](https://www.youtube.com/watch?v=NDIli-Z10Rc)

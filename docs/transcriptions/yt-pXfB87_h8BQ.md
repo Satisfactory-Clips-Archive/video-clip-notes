@@ -10,6 +10,8 @@ topics:
 # [October 18th, 2022 Livestream](../2022-10-18.md)
 ## Q&A: Z-fighting resolved in Update 7?
 https://www.youtube.com/watch?v=pXfB87_h8BQ
+This question was possibly duplicated with a more recent answer: [November 1st, 2022 Livestream Q&A: Will the Z-fighting be addressed in Update 7?](./yt-uGPAFHOniIU.md) [https://www.youtube.com/watch?v=uGPAFHOniIU](https://www.youtube.com/watch?v=uGPAFHOniIU)
+
 
 ### Topics
 * [Features > Requested Features](../topics/features/requested-features.md)

@@ -5,6 +5,12 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Build Modes](../../../topics/features/build-modes.md) > Zooping
 
+## November 15th, 2022 Livestream
+* [Q&A: Are we going to be able to Zoop Blueprints?](../../../transcriptions/yt-CREPrQ23Dt4,4283.955383,4496.444475.md) [https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=4283&end=4497](https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=4283&end=4497)
+
+## November 1st, 2022 Livestream
+* [Q&A: Zoop past 10?](../../../transcriptions/yt-uXTjULIbOt4.md) [https://www.youtube.com/watch?v=uXTjULIbOt4](https://www.youtube.com/watch?v=uXTjULIbOt4)
+
 ## July 12th, 2022 Livestream
 * [Q&A: Will we be able to Zoop 10x10 instead of 1x10?](../../../transcriptions/yt-InwxX5I5XH4.md) [https://www.youtube.com/watch?v=InwxX5I5XH4](https://www.youtube.com/watch?v=InwxX5I5XH4)
 

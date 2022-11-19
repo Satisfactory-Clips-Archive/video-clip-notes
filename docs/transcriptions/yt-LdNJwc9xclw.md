@@ -3,16 +3,16 @@ title: "September 28th, 2021 Livestream Q&A: Are you guys putting any form of Bl
 date: "2021-09-28"
 layout: transcript
 topics:
-    - "features/possible-features/blueprints"
+    - "features/blueprints"
 ---
 # [September 28th, 2021 Livestream](../2021-09-28.md)
 ## Q&A: Are you guys putting any form of Blueprinting into the game?
 https://www.youtube.com/watch?v=LdNJwc9xclw
-This question was possibly duplicated with a more recent answer: [October 18th, 2022 Livestream Q&A: Any plans for Blueprints?](./yt-NyqKc1tJojM.md) [https://www.youtube.com/watch?v=NyqKc1tJojM](https://www.youtube.com/watch?v=NyqKc1tJojM)
+This question was possibly replaced with a more recent answer: [November 15th, 2022 Livestream Q&A: When did you decide to add Blueprints?](./yt-CREPrQ23Dt4,3926.202571,3971.563964.md) [https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=3926&end=3972](https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=3926&end=3972)
 
 
 ### Topics
-* [Features > Possible Features > Blueprints](../topics/features/possible-features/blueprints.md)
+* [Features > Blueprints](../topics/features/blueprints.md)
 
 ### Transcript
 

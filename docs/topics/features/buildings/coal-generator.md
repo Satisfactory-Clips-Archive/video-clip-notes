@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > Coal Generator
 
+## November 15th, 2022 Livestream
+* [Q&A: Does the Coal Generator fit?](../../../transcriptions/yt-CREPrQ23Dt4,6249.676934,6540.615837.md) [https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=6249&end=6541](https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=6249&end=6541)
+
 ## April 15th, 2022 Video
 * [Snutt & Stefan Talk: Mining Resources & Crafting in Sprint 6](../../../transcriptions/yt-7I3NGAm3j_4,782.1480333333334,1062.275948.md) [https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=782&end=1063](https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=782&end=1063)
 

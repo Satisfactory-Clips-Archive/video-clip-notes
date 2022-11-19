@@ -9,6 +9,8 @@ topics:
 # [October 5th, 2021 Livestream](../2021-10-05.md)
 ## Q&A: Zoop 50 slots, like destroying?
 https://www.youtube.com/watch?v=-Yr4UJlDy-o
+This question was possibly duplicated with a more recent answer: [November 1st, 2022 Livestream Q&A: Zoop past 10?](./yt-uXTjULIbOt4.md) [https://www.youtube.com/watch?v=uXTjULIbOt4](https://www.youtube.com/watch?v=uXTjULIbOt4)
+
 
 ### Topics
 * [Features > Build Modes](../topics/features/build-modes.md)

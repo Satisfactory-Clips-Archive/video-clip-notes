@@ -3,8 +3,8 @@ title: "October 18th, 2022 Livestream Q&A: Any plans to make building big, repet
 date: "2022-10-18"
 layout: transcript
 topics:
+    - "features/blueprints"
     - "features/buildings"
-    - "features/possible-features/blueprints"
     - "features/power-management"
     - "features/unplanned-features/mass-building"
 ---
@@ -13,8 +13,8 @@ topics:
 https://www.youtube.com/watch?v=FcLTq4WDPQE
 
 ### Topics
+* [Features > Blueprints](../topics/features/blueprints.md)
 * [Features > Buildings](../topics/features/buildings.md)
-* [Features > Possible Features > Blueprints](../topics/features/possible-features/blueprints.md)
 * [Features > Power Management](../topics/features/power-management.md)
 * [Features > Unplanned Features > Mass Building](../topics/features/unplanned-features/mass-building.md)
 

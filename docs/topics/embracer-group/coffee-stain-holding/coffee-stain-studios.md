@@ -5,6 +5,12 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Embracer Group](../../../topics/embracer-group.md) > Coffee Stain Holding > Coffee Stain Studios
 
+## November 11th, 2022 Video
+* [Community point of view vs. Coffee Stain Studio's point of view](../../../transcriptions/yt-9KBQyjy-a6g,123.89043333333333,145.2451.md) [https://youtube.com/embed/9KBQyjy-a6g?autoplay=1&start=123&end=146](https://youtube.com/embed/9KBQyjy-a6g?autoplay=1&start=123&end=146)
+
+## November 1st, 2022 Livestream
+* [Q&A: Where is Coffee Stain?](../../../transcriptions/yt-DkJAo4STjvE.md) [https://www.youtube.com/watch?v=DkJAo4STjvE](https://www.youtube.com/watch?v=DkJAo4STjvE)
+
 ## October 18th, 2022 Livestream
 * [Q&A: How's the morale ?](../../../transcriptions/yt-HhRDshIXuUI.md) [https://www.youtube.com/watch?v=HhRDshIXuUI](https://www.youtube.com/watch?v=HhRDshIXuUI)
 

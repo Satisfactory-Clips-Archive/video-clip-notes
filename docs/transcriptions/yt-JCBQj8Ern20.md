@@ -9,7 +9,7 @@ topics:
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Q&A: What do you think about adding some kind of Tanker Truck?
 https://www.youtube.com/watch?v=JCBQj8Ern20
-This question was possibly duplicated with a more recent answer: [March 8th, 2022 Livestream Q&A: Plans to make Truck Stations for Fluids?](./yt-O0Pr5KSisOA.md) [https://www.youtube.com/watch?v=O0Pr5KSisOA](https://www.youtube.com/watch?v=O0Pr5KSisOA)
+This question was possibly duplicated with a more recent answer: [November 1st, 2022 Livestream Q&A: Adding Fluid Trucks?](./yt-x-zXGDdrhbc.md) [https://www.youtube.com/watch?v=x-zXGDdrhbc](https://www.youtube.com/watch?v=x-zXGDdrhbc)
 
 
 ### Topics

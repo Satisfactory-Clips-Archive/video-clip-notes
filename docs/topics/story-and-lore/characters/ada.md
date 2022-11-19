@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Story & Lore](../../../topics/story-and-lore.md) > Characters > ADA
 
+## November 8th, 2022 Livestream
+* [Q&A: Can we talk about ADA and the S.A.M. Ore?](../../../transcriptions/yt-ngdOwVeAqZs.md) [https://www.youtube.com/watch?v=ngdOwVeAqZs](https://www.youtube.com/watch?v=ngdOwVeAqZs)
+* [Q&A: ADA talks when I come across S.A.M. Ore & the WIP artefacts, should those lines be muted?](../../../transcriptions/yt-0iChXeNjbTg.md) [https://www.youtube.com/watch?v=0iChXeNjbTg](https://www.youtube.com/watch?v=0iChXeNjbTg)
+
 ## October 25th, 2022 Livestream
 * [Q&A: Will the ADA voice change for 1.0?](../../../transcriptions/yt-Q1HGm6cbfEo.md) [https://www.youtube.com/watch?v=Q1HGm6cbfEo](https://www.youtube.com/watch?v=Q1HGm6cbfEo)
 

@@ -10,11 +10,7 @@ topics:
 # [August 30th, 2022 Livestream](../2022-08-30.md)
 ## Q&A: New Water system?
 https://www.youtube.com/watch?v=Cwx8kD-fSr0
-<details>
-<summary>This question may have been asked previously at least 1 other time, as recently as June 2022.</summary>
-
-* [June 7th, 2022 Livestream Q&A: Are water reflections/ water physics coming with the Update?](./yt-Ww_ilqIoBjE.md) [https://www.youtube.com/watch?v=Ww_ilqIoBjE](https://www.youtube.com/watch?v=Ww_ilqIoBjE)
-</details>
+This question was possibly duplicated with a more recent answer: [November 1st, 2022 Livestream Q&A: Will we ever get that fancy water you showed off?](./yt-Tyrfm_MMOWQ.md) [https://www.youtube.com/watch?v=Tyrfm_MMOWQ](https://www.youtube.com/watch?v=Tyrfm_MMOWQ)
 
 
 ### Topics

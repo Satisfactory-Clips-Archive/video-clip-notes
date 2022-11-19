@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > [Possible Features](../../../../topics/features/possible-features.md) > [Game Modes](../../../../topics/features/possible-features/game-modes.md) > Peaceful Mode
 
+## November 15th, 2022 Livestream
+* [Dylan, Mark, and Snutt Talk: Passive Mode](../../../../transcriptions/yt-CREPrQ23Dt4,5620.926718247916,5677.699392.md) [https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=5620&end=5678](https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=5620&end=5678)
+
 ## October 25th, 2022 Livestream
 * [State of Dev](../../../../transcriptions/yt-v_S1Do7Amfk.md) [https://www.youtube.com/watch?v=v_S1Do7Amfk](https://www.youtube.com/watch?v=v_S1Do7Amfk)
 

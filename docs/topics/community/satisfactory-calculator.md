@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Satisfactory Calculator
 
+## November 15th, 2022 Livestream
+* [Q&A: How long do you think it'll take for people to make a website that generates Blueprint files?](../../transcriptions/yt-CREPrQ23Dt4,6033.634519959804,6197.319266.md) [https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=6033&end=6198](https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=6033&end=6198)
+
 ## May 6th, 2022 Video
 * [Resource nodes being moved](../../transcriptions/yt-8BxYvOLpjGo,73.90716666666667,117.28383333333333.md) [https://youtube.com/clip/Ugkxm5Y34siJBMYQNjXUF0nycUsGZ7ogFMMx](https://youtube.com/clip/Ugkxm5Y34siJBMYQNjXUF0nycUsGZ7ogFMMx)
 

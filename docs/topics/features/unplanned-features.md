@@ -17,6 +17,12 @@ date: Last Modified
 * [Terraforming](../../topics/features/unplanned-features/terraforming.md)
 * [VR](../../topics/features/unplanned-features/vr.md)
 
+## November 1st, 2022 Livestream
+* [Q&A: Adding Fluid Trucks?](../../transcriptions/yt-x-zXGDdrhbc.md) [https://www.youtube.com/watch?v=x-zXGDdrhbc](https://www.youtube.com/watch?v=x-zXGDdrhbc)
+* [Q&A: Zoop past 10?](../../transcriptions/yt-uXTjULIbOt4.md) [https://www.youtube.com/watch?v=uXTjULIbOt4](https://www.youtube.com/watch?v=uXTjULIbOt4)
+* [Q&A: Any plans for 1.0 testing with small Community group](../../transcriptions/yt-Och6CZWc3ck.md) [https://www.youtube.com/watch?v=Och6CZWc3ck](https://www.youtube.com/watch?v=Och6CZWc3ck)
+* [Community FYI: Tower Defense confirmed](../../transcriptions/yt-X2hKEJvgCMA.md) [https://www.youtube.com/watch?v=X2hKEJvgCMA](https://www.youtube.com/watch?v=X2hKEJvgCMA)
+
 ## October 25th, 2022 Livestream
 * [Q&A: Any more Vehicles planned?](../../transcriptions/yt-pQKpTYoNmJE.md) [https://www.youtube.com/watch?v=pQKpTYoNmJE](https://www.youtube.com/watch?v=pQKpTYoNmJE)
 

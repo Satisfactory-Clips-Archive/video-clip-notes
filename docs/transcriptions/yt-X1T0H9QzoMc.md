@@ -8,7 +8,7 @@ topics:
 # [April 12th, 2022 Livestream](../2022-04-12.md)
 ## Q&A: Are you thinking about upgrading to UE5?
 https://www.youtube.com/watch?v=X1T0H9QzoMc
-This question was possibly duplicated with a more recent answer: [October 18th, 2022 Livestream Q&A: Unreal Engine 5, when?](./yt-eaAlw_gTGME.md) [https://www.youtube.com/watch?v=eaAlw_gTGME](https://www.youtube.com/watch?v=eaAlw_gTGME)
+This question was possibly duplicated with a more recent answer: [November 8th, 2022 Livestream Q&A: Switch to Unreal Engine 5?](./yt-b8hgp-m3YtM.md) [https://www.youtube.com/watch?v=b8hgp-m3YtM](https://www.youtube.com/watch?v=b8hgp-m3YtM)
 
 
 ### Topics

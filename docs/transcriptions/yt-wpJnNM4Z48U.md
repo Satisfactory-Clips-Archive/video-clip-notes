@@ -8,7 +8,7 @@ topics:
 # [October 25th, 2022 Livestream](../2022-10-25.md)
 ## Q&A: Do you think Final Fantasy 17 is in the works yet?
 https://www.youtube.com/watch?v=wpJnNM4Z48U
-This question was possibly duplicated with a more recent answer: [July 5th, 2022 Livestream Q&A: When is your next Final Fantasy podcast?](./yt-8-TdFU3iRUo.md) [https://www.youtube.com/watch?v=8-TdFU3iRUo](https://www.youtube.com/watch?v=8-TdFU3iRUo)
+This question was possibly replaced with a more recent answer: [November 1st, 2022 Livestream Q&A: When is the next Satisfactory Podcast?](./yt-6dWA37xMLUU.md) [https://www.youtube.com/watch?v=6dWA37xMLUU](https://www.youtube.com/watch?v=6dWA37xMLUU)
 
 
 ### Topics

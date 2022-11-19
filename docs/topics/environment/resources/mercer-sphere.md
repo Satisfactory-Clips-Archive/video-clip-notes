@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Resources](../../../topics/environment/resources.md) > Mercer Sphere
 
+## November 8th, 2022 Livestream
+* [Q&A: ADA talks when I come across S.A.M. Ore & the WIP artefacts, should those lines be muted?](../../../transcriptions/yt-0iChXeNjbTg.md) [https://www.youtube.com/watch?v=0iChXeNjbTg](https://www.youtube.com/watch?v=0iChXeNjbTg)
+
 ## October 21st, 2022 Video
 * [1.0 Mystery Box](../../../transcriptions/yt-rX7OpLCg0l8,58.525133333333336,97.83106666666667.md) [https://youtube.com/clip/UgkxGh7aDMpWg7vdSKhFfJfPhFpVsFGQI2_p](https://youtube.com/clip/UgkxGh7aDMpWg7vdSKhFfJfPhFpVsFGQI2_p)
 

@@ -9,6 +9,9 @@ date: Last Modified
 * [Object Limit](../../topics/technology/unreal-engine/object-limit.md)
 * [Unreal Engine 5](../../topics/technology/unreal-engine/unreal-engine-5.md)
 
+## November 8th, 2022 Livestream
+* [Q&A: What language do you program the game in?](../../transcriptions/yt-77akCeJawrg.md) [https://www.youtube.com/watch?v=77akCeJawrg](https://www.youtube.com/watch?v=77akCeJawrg)
+
 ## October 18th, 2022 Livestream
 * [Snutt Talk: Annoying notifications](../../transcriptions/yt-0rXMd5VDIPQ.md) [https://www.youtube.com/watch?v=0rXMd5VDIPQ](https://www.youtube.com/watch?v=0rXMd5VDIPQ)
 

@@ -3,14 +3,14 @@ title: "July 20th, 2021 Livestream Q&A: Are the dev team still on the fence abou
 date: "2021-07-20"
 layout: transcript
 topics:
-    - "features/possible-features/blueprints"
+    - "features/blueprints"
 ---
 # [July 20th, 2021 Livestream](../2021-07-20.md)
 ## Q&A: Are the dev team still on the fence about Blueprints?
 https://www.youtube.com/watch?v=DFWtj9NjVXY
 
 ### Topics
-* [Features > Possible Features > Blueprints](../topics/features/possible-features/blueprints.md)
+* [Features > Blueprints](../topics/features/blueprints.md)
 
 ### Transcript
 

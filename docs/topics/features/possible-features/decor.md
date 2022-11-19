@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Possible Features](../../../topics/features/possible-features.md) > Decor
 
+## November 1st, 2022 Livestream
+* [Q&A: Snutt Statue for 5000 Coupons?](../../../transcriptions/yt-_0GCCJccAl8.md) [https://www.youtube.com/watch?v=_0GCCJccAl8](https://www.youtube.com/watch?v=_0GCCJccAl8)
+
 ## October 25th, 2022 Livestream
 * [Q&A: Any Cosmetic Items in the plan?](../../../transcriptions/yt-DsizpezCTI8.md) [https://www.youtube.com/watch?v=DsizpezCTI8](https://www.youtube.com/watch?v=DsizpezCTI8)
 

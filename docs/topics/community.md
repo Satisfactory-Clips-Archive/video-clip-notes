@@ -26,6 +26,18 @@ date: Last Modified
 * [Vilsol](../topics/community/vilsol.md)
 * [Wiki](../topics/community/wiki.md)
 
+## November 15th, 2022 Livestream
+* [Q&A: How long do you think it'll take for people to make a website that generates Blueprint files?](../transcriptions/yt-CREPrQ23Dt4,6033.634519959804,6197.319266.md) [https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=6033&end=6198](https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=6033&end=6198)
+
+## November 11th, 2022 Video
+* [Community point of view vs. Coffee Stain Studio's point of view](../transcriptions/yt-9KBQyjy-a6g,123.89043333333333,145.2451.md) [https://youtube.com/embed/9KBQyjy-a6g?autoplay=1&start=123&end=146](https://youtube.com/embed/9KBQyjy-a6g?autoplay=1&start=123&end=146)
+
+## November 8th, 2022 Livestream
+* [Q&A: Will there be some tutorials for Pipes?](../transcriptions/yt-l26X2kKCOhI.md) [https://www.youtube.com/watch?v=l26X2kKCOhI](https://www.youtube.com/watch?v=l26X2kKCOhI)
+
+## November 1st, 2022 Livestream
+* [Q&A: Any plans for 1.0 testing with small Community group](../transcriptions/yt-Och6CZWc3ck.md) [https://www.youtube.com/watch?v=Och6CZWc3ck](https://www.youtube.com/watch?v=Och6CZWc3ck)
+
 ## October 18th, 2022 Livestream
 * [Snutt Talk: Responding to Twitch chat's obsession with toilets](../transcriptions/yt-ww-xu_ttMCU.md) [https://www.youtube.com/watch?v=ww-xu_ttMCU](https://www.youtube.com/watch?v=ww-xu_ttMCU)
 * [Q&A: Snutt, is there something you'd like to ask us?](../transcriptions/yt-AoI3-BT3uRo.md) [https://www.youtube.com/watch?v=AoI3-BT3uRo](https://www.youtube.com/watch?v=AoI3-BT3uRo)

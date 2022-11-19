@@ -4,6 +4,7 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Features
 * [Accessibility](../topics/features/accessibility.md)
+* [Blueprints](../topics/features/blueprints.md)
 * [Build Modes](../topics/features/build-modes.md)
 * [Buildables](../topics/features/buildables.md)
 * [Buildings](../topics/features/buildings.md)

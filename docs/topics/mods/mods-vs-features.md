@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Mods](../../topics/mods.md) > Mods vs. Features
 
+## November 8th, 2022 Livestream
+* [Q&A: Any new planned Game Modes?](../../transcriptions/yt-skJAEEFhMds.md) [https://www.youtube.com/watch?v=skJAEEFhMds](https://www.youtube.com/watch?v=skJAEEFhMds)
+
 ## October 18th, 2022 Livestream
 * [Q&A: Any plans for Blueprints?](../../transcriptions/yt-NyqKc1tJojM.md) [https://www.youtube.com/watch?v=NyqKc1tJojM](https://www.youtube.com/watch?v=NyqKc1tJojM)
 

@@ -4,6 +4,7 @@ date: "2022-10-21"
 layout: transcript
 topics:
     - "environment/biomes"
+    - "environment/biomes/paradise-island"
     - "environment/biomes/red-bamboo-fields"
     - "satisfactory-updates/state-of-dev"
     - "satisfactory-updates/world-update"
@@ -14,6 +15,7 @@ https://youtube.com/clip/Ugkx4Wdon7zab8KlU8iipgKhhxzATb9JJMrm
 
 ### Topics
 * [Environment > Biomes](../topics/environment/biomes.md)
+* [Environment > Biomes > Paradise Island](../topics/environment/biomes/paradise-island.md)
 * [Environment > Biomes > Red Bamboo Fields](../topics/environment/biomes/red-bamboo-fields.md)
 * [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 * [Satisfactory Updates > World Update](../topics/satisfactory-updates/world-update.md)

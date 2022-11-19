@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > Transportation > [Vehicles](../../../../topics/features/transportation/vehicles.md) > Truck
 
+## November 1st, 2022 Livestream
+* [Q&A: Adding Fluid Trucks?](../../../../transcriptions/yt-x-zXGDdrhbc.md) [https://www.youtube.com/watch?v=x-zXGDdrhbc](https://www.youtube.com/watch?v=x-zXGDdrhbc)
+
 ## August 23rd, 2022 Livestream
 * [Q&A: Any plans to expand logistics customisation for Truck Stations?](../../../../transcriptions/yt--t8aIzxLycg.md) [https://www.youtube.com/watch?v=-t8aIzxLycg](https://www.youtube.com/watch?v=-t8aIzxLycg)
 

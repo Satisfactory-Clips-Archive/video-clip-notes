@@ -10,6 +10,12 @@ date: Last Modified
 * [Juice Velvet](../../topics/coffee-stainers/jace/juice-velvet.md)
 * [Robo Jace](../../topics/coffee-stainers/jace/robo-jace.md)
 
+## November 15th, 2022 Livestream
+* [Q&A: Where's Jace?](../../transcriptions/yt-CREPrQ23Dt4,8327.278515102387,8331.426238.md) [https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=8327&end=8332](https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=8327&end=8332)
+
+## November 8th, 2022 Livestream
+* [Intro & Lizard Doggo Stuffing Race](../../transcriptions/yt-a_cQjagsfOg.md) [https://www.youtube.com/watch?v=a_cQjagsfOg](https://www.youtube.com/watch?v=a_cQjagsfOg)
+
 ## October 25th, 2022 Livestream
 * [Intro](../../transcriptions/yt-y8I4mnME2jc.md) [https://www.youtube.com/watch?v=y8I4mnME2jc](https://www.youtube.com/watch?v=y8I4mnME2jc)
 * [Q&A: Will we have better Community Managers next week?](../../transcriptions/yt-nfs-AP7hE8s.md) [https://www.youtube.com/watch?v=nfs-AP7hE8s](https://www.youtube.com/watch?v=nfs-AP7hE8s)

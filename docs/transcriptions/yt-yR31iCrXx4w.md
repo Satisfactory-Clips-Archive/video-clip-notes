@@ -9,7 +9,7 @@ topics:
 # [April 27th, 2021 Livestream](../2021-04-27.md)
 ## Q&A: Will there be another map?
 https://www.youtube.com/watch?v=yR31iCrXx4w
-This question was possibly duplicated with a more recent answer: [September 6th, 2022 Livestream Q&A: Add more Maps in DLC form?](./yt-A4FfpjBDpaw.md) [https://www.youtube.com/watch?v=A4FfpjBDpaw](https://www.youtube.com/watch?v=A4FfpjBDpaw)
+This question was possibly duplicated with a more recent answer: [November 1st, 2022 Livestream Q&A: Add more Maps in future?](./yt-bIbXx0QfIbc.md) [https://www.youtube.com/watch?v=bIbXx0QfIbc](https://www.youtube.com/watch?v=bIbXx0QfIbc)
 
 
 ### Topics

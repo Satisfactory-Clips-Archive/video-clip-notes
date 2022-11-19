@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Unplanned Features](../../../topics/features/unplanned-features.md) > Base Defense
 
+## November 1st, 2022 Livestream
+* [Community FYI: Tower Defense confirmed](../../../transcriptions/yt-X2hKEJvgCMA.md) [https://www.youtube.com/watch?v=X2hKEJvgCMA](https://www.youtube.com/watch?v=X2hKEJvgCMA)
+
 ## October 25th, 2022 Livestream
 * [Q&A: Game Mode with Base Defense?](../../../transcriptions/yt-W4o0vCsRoqE.md) [https://www.youtube.com/watch?v=W4o0vCsRoqE](https://www.youtube.com/watch?v=W4o0vCsRoqE)
 * [Q&A: Game Mode with terrain-editing ability?](../../../transcriptions/yt-ZMOO9BEGw04.md) [https://www.youtube.com/watch?v=ZMOO9BEGw04](https://www.youtube.com/watch?v=ZMOO9BEGw04)

@@ -25,6 +25,11 @@ date: Last Modified
 * [The Lord of the Rings](../topics/off-topic/the-lord-of-the-rings.md)
 * [Valheim](../topics/off-topic/valheim.md)
 
+## November 8th, 2022 Livestream
+* [Q&A: What language do you program the game in?](../transcriptions/yt-77akCeJawrg.md) [https://www.youtube.com/watch?v=77akCeJawrg](https://www.youtube.com/watch?v=77akCeJawrg)
+* [Q&A: So you're saying you want unhealthy crunch times?](../transcriptions/yt-OfFYKE2N0MA.md) [https://www.youtube.com/watch?v=OfFYKE2N0MA](https://www.youtube.com/watch?v=OfFYKE2N0MA)
+* [Q&A: Updates after 1.0?](../transcriptions/yt-eHFSHUqYSZc.md) [https://www.youtube.com/watch?v=eHFSHUqYSZc](https://www.youtube.com/watch?v=eHFSHUqYSZc)
+
 ## October 18th, 2022 Livestream
 * [Snutt Talk: Annoying notifications](../transcriptions/yt-0rXMd5VDIPQ.md) [https://www.youtube.com/watch?v=0rXMd5VDIPQ](https://www.youtube.com/watch?v=0rXMd5VDIPQ)
 * [Q&A: What about a game is copyrightable?](../transcriptions/yt-1BmxMZ7dbpQ.md) [https://www.youtube.com/watch?v=1BmxMZ7dbpQ](https://www.youtube.com/watch?v=1BmxMZ7dbpQ)

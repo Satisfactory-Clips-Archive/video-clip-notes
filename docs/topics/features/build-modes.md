@@ -8,6 +8,12 @@ date: Last Modified
 * [Quick Switch](../../topics/features/build-modes/quick-switch.md)
 * [Zooping](../../topics/features/build-modes/zooping.md)
 
+## November 15th, 2022 Livestream
+* [Q&A: Can you get the eyedropper to function?](../../transcriptions/yt-CREPrQ23Dt4,8188.264471,8194.121731.md) [https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=8188&end=8195](https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=8188&end=8195)
+
+## November 8th, 2022 Livestream
+* [Q&A: Any thoughts on reducing megabase tedium?](../../transcriptions/yt-dK4A7RdB9pE.md) [https://www.youtube.com/watch?v=dK4A7RdB9pE](https://www.youtube.com/watch?v=dK4A7RdB9pE)
+
 ## September 20th, 2022 Update 6 Release Stream
 * Build Menu is wider now [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=6488&end=6502](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=6488&end=6502)
 

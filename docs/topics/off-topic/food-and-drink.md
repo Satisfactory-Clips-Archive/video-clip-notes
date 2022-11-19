@@ -10,6 +10,9 @@ date: Last Modified
 * [Pizza](../../topics/off-topic/food-and-drink/pizza.md)
 * [Semlor](../../topics/off-topic/food-and-drink/semlor.md)
 
+## November 8th, 2022 Livestream
+* [Q&A: Smorgasboard DLC?](../../transcriptions/yt-DAckE7CsuEc.md) [https://www.youtube.com/watch?v=DAckE7CsuEc](https://www.youtube.com/watch?v=DAckE7CsuEc)
+
 ## October 18th, 2022 Livestream
 * [Q&A: Snutt, is there something you'd like to ask us?](../../transcriptions/yt-AoI3-BT3uRo.md) [https://www.youtube.com/watch?v=AoI3-BT3uRo](https://www.youtube.com/watch?v=AoI3-BT3uRo)
 

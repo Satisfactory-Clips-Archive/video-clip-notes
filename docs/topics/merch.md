@@ -7,6 +7,12 @@ date: Last Modified
 * [EU Merch Store](../topics/merch/eu-merch-store.md)
 * [Merch Prototypes](../topics/merch/merch-prototypes.md)
 
+## November 15th, 2022 Livestream
+* [Merch](../transcriptions/yt-CREPrQ23Dt4,1018.952724,1468.707861.md) [https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=1018&end=1469](https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=1018&end=1469)
+
+## November 8th, 2022 Livestream
+* [Intro & Lizard Doggo Stuffing Race](../transcriptions/yt-a_cQjagsfOg.md) [https://www.youtube.com/watch?v=a_cQjagsfOg](https://www.youtube.com/watch?v=a_cQjagsfOg)
+
 ## October 25th, 2022 Livestream
 * [Q&A: Will you add Satisfactory cheese- I mean vinyl?](../transcriptions/yt-yiZORn32BA0.md) [https://www.youtube.com/watch?v=yiZORn32BA0](https://www.youtube.com/watch?v=yiZORn32BA0)
 

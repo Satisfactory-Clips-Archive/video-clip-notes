@@ -5,6 +5,14 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > World Update
 
+## November 8th, 2022 Livestream
+* [Snutt & Jace Talk: Paradise Island, Game Development, and Microtransactions](../../transcriptions/yt-BmzL07GjYus.md) [https://www.youtube.com/watch?v=BmzL07GjYus](https://www.youtube.com/watch?v=BmzL07GjYus)
+
+## November 1st, 2022 Livestream
+* [Q&A: Any news on Paradise Island?](../../transcriptions/yt-MwAPKMuaop8.md) [https://www.youtube.com/watch?v=MwAPKMuaop8](https://www.youtube.com/watch?v=MwAPKMuaop8)
+* [Q&A: Will we ever get that fancy water you showed off?](../../transcriptions/yt-Tyrfm_MMOWQ.md) [https://www.youtube.com/watch?v=Tyrfm_MMOWQ](https://www.youtube.com/watch?v=Tyrfm_MMOWQ)
+* [Community FYI: Latest planned map changes doesn't list Dune Desert as start location](../../transcriptions/yt-ujnN-DmhlGU.md) [https://www.youtube.com/watch?v=ujnN-DmhlGU](https://www.youtube.com/watch?v=ujnN-DmhlGU)
+
 ## October 25th, 2022 Livestream
 * [Intro](../../transcriptions/yt-y8I4mnME2jc.md) [https://www.youtube.com/watch?v=y8I4mnME2jc](https://www.youtube.com/watch?v=y8I4mnME2jc)
 * [State of Dev](../../transcriptions/yt-v_S1Do7Amfk.md) [https://www.youtube.com/watch?v=v_S1Do7Amfk](https://www.youtube.com/watch?v=v_S1Do7Amfk)
