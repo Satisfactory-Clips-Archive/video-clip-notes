@@ -9,7 +9,7 @@ topics:
 ---
 # [November 11th, 2022 Video](../2022-11-11.md)
 ## Preparing an area for the Manifold Blueprint
-https://youtube.com/embed/9KBQyjy-a6g?autoplay=1&start=517&end=558
+https://youtube.com/clip/UgkxNq08JfMPJ3khI7Eed9ZEkKPvlQwLCj7C
 
 ### Topics
 * [Features > Blueprints](../topics/features/blueprints.md)

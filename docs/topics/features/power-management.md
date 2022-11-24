@@ -11,9 +11,9 @@ date: Last Modified
 * [Power Switch](../../topics/features/power-management/power-switch.md)
 
 ## November 11th, 2022 Video
-* [Power](../../transcriptions/yt-9KBQyjy-a6g,375.24153333333334,396.5962.md) [https://youtube.com/embed/9KBQyjy-a6g?autoplay=1&start=375&end=397](https://youtube.com/embed/9KBQyjy-a6g?autoplay=1&start=375&end=397)
-* [Integrating the freshly-applied Blueprint](../../transcriptions/yt-9KBQyjy-a6g,630.2296,653.4861666666667.md) [https://youtube.com/embed/9KBQyjy-a6g?autoplay=1&start=630&end=654](https://youtube.com/embed/9KBQyjy-a6g?autoplay=1&start=630&end=654)
-* [Expanding the freshly-applied Blueprint](../../transcriptions/yt-9KBQyjy-a6g,653.5195333333334,687.3533333333334.md) [https://youtube.com/embed/9KBQyjy-a6g?autoplay=1&start=653&end=688](https://youtube.com/embed/9KBQyjy-a6g?autoplay=1&start=653&end=688)
+* [Power](../../transcriptions/yt-9KBQyjy-a6g,375.24153333333334,396.5962.md) [https://youtube.com/clip/UgkxhZIZ3nfu0a2imIa7Wmifp1YafYiYzroo](https://youtube.com/clip/UgkxhZIZ3nfu0a2imIa7Wmifp1YafYiYzroo)
+* [Integrating the freshly-applied Blueprint](../../transcriptions/yt-9KBQyjy-a6g,630.2296,653.4861666666667.md) [https://youtube.com/clip/UgkxHtSFw4VDMnQknDAt_Lg7-hC6RAGlLZ13](https://youtube.com/clip/UgkxHtSFw4VDMnQknDAt_Lg7-hC6RAGlLZ13)
+* [Expanding the freshly-applied Blueprint](../../transcriptions/yt-9KBQyjy-a6g,653.5195333333334,687.3533333333334.md) [https://youtube.com/clip/Ugkx42XX5EBZz9JQ7LjFiP1QWRZvtnnFxssK](https://youtube.com/clip/Ugkx42XX5EBZz9JQ7LjFiP1QWRZvtnnFxssK)
 
 ## November 1st, 2022 Livestream
 * [Snutt Talk: Overclocking & Power Generators](../../transcriptions/yt-ZL65A5Mmc1M.md) [https://www.youtube.com/watch?v=ZL65A5Mmc1M](https://www.youtube.com/watch?v=ZL65A5Mmc1M)

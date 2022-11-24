@@ -9,7 +9,7 @@ date: Last Modified
 * [Dylan, Mark, and Snutt Talk: Changing the Overclocking exponent](../../../transcriptions/yt-CREPrQ23Dt4,5835.38837,6021.4571249125.md) [https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=5835&end=6022](https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=5835&end=6022)
 
 ## November 11th, 2022 Video
-* [Resource Costs & Overclocking](../../../transcriptions/yt-9KBQyjy-a6g,403.521306,426.25916666666666.md) [https://youtube.com/embed/9KBQyjy-a6g?autoplay=1&start=403&end=427](https://youtube.com/embed/9KBQyjy-a6g?autoplay=1&start=403&end=427)
+* [Resource Costs & Overclocking](../../../transcriptions/yt-9KBQyjy-a6g,403.521306,426.25916666666666.md) [https://youtube.com/clip/UgkxkzH1h-zVQHujC_glP13eJyPCtE9_J7a-](https://youtube.com/clip/UgkxkzH1h-zVQHujC_glP13eJyPCtE9_J7a-)
 * [An Update on Overclocking](../../../transcriptions/yt-9KBQyjy-a6g,895.6280666666667,974.0063666666667.md) [https://youtube.com/embed/9KBQyjy-a6g?autoplay=1&start=895&end=975](https://youtube.com/embed/9KBQyjy-a6g?autoplay=1&start=895&end=975)
 
 ## November 1st, 2022 Livestream

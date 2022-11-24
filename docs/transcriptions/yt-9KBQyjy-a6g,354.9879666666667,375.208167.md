@@ -12,7 +12,7 @@ topics:
 ---
 # [November 11th, 2022 Video](../2022-11-11.md)
 ## Plan ahead for expansion
-https://youtube.com/embed/9KBQyjy-a6g?autoplay=1&start=354&end=376
+https://youtube.com/clip/UgkxSFjWY6hvm7RXh7y8ZvY8DnxpVgPYYAft
 
 ### Topics
 * [Features > Blueprints](../topics/features/blueprints.md)

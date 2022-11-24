@@ -8,7 +8,7 @@ topics:
 ---
 # [November 11th, 2022 Video](../2022-11-11.md)
 ## Blueprints are a long-requested Feature
-https://youtube.com/embed/9KBQyjy-a6g?autoplay=1&start=95&end=124
+https://youtube.com/clip/UgkxD-8pxxTXxLAb-lds4s0NEMQ2f-EpO-pi
 
 ### Topics
 * [Features > Blueprints](../topics/features/blueprints.md)

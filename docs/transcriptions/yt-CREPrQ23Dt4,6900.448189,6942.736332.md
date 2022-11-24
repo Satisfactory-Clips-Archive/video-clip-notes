@@ -9,7 +9,7 @@ topics:
 ---
 # [November 15th, 2022 Livestream](../2022-11-15.md)
 ## Dylan, Mark, and Snutt Talk: Main Menu not updated
-https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=6900&end=6943
+https://youtube.com/clip/UgkxSjpc1AwtAjXS8qxMKMHFCDX3kwnJHcgo
 
 ### Topics
 * [Satisfactory Updates > Pending > Satisfactory Update 7](../topics/satisfactory-updates/pending/satisfactory-update-7.md)

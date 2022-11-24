@@ -8,7 +8,7 @@ topics:
 ---
 # [November 15th, 2022 Livestream](../2022-11-15.md)
 ## Q&A: Can you get the eyedropper to function?
-https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=8188&end=8195
+https://youtube.com/clip/UgkxWjnV29TsgSydsc1P4kGNbTerHaPIhytb
 
 ### Topics
 * [Features > Build Modes](../topics/features/build-modes.md)

@@ -12,7 +12,7 @@ topics:
 ---
 # [November 11th, 2022 Video](../2022-11-11.md)
 ## Resource Costs & Overclocking
-https://youtube.com/embed/9KBQyjy-a6g?autoplay=1&start=403&end=427
+https://youtube.com/clip/UgkxkzH1h-zVQHujC_glP13eJyPCtE9_J7a-
 
 ### Topics
 * [Environment > Resources](../topics/environment/resources.md)

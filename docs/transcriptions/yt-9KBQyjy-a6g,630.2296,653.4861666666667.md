@@ -12,7 +12,7 @@ topics:
 ---
 # [November 11th, 2022 Video](../2022-11-11.md)
 ## Integrating the freshly-applied Blueprint
-https://youtube.com/embed/9KBQyjy-a6g?autoplay=1&start=630&end=654
+https://youtube.com/clip/UgkxHtSFw4VDMnQknDAt_Lg7-hC6RAGlLZ13
 
 ### Topics
 * [Environment > Resources](../topics/environment/resources.md)

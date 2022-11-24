@@ -8,7 +8,7 @@ topics:
 ---
 # [November 11th, 2022 Video](../2022-11-11.md)
 ## Examples & Suggestions
-https://youtube.com/embed/9KBQyjy-a6g?autoplay=1&start=772&end=793
+https://youtube.com/clip/Ugkx3rWzLqxQlMfo2lCx7ahrdCegT6snn-Yi
 
 ### Topics
 * [Features > Blueprints](../topics/features/blueprints.md)

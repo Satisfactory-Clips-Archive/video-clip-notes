@@ -9,7 +9,7 @@ topics:
 ---
 # [November 15th, 2022 Livestream](../2022-11-15.md)
 ## Community FYI: Epic is slow as fuck
-https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=6227&end=6241
+https://youtube.com/clip/UgkxQFKE2EeoLbhOUXWPnbm9Tknabc4uJ-eI
 
 ### Topics
 * [Retail > Epic Store](../topics/retail/epic-store.md)

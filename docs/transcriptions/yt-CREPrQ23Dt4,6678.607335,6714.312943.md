@@ -11,7 +11,7 @@ topics:
 ---
 # [November 15th, 2022 Livestream](../2022-11-15.md)
 ## Q&A: Do you know when the Update is going to Early Access release?
-https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=6678&end=6715
+https://youtube.com/clip/UgkxpbX_icSblgwiHCiiGKhRGtF2XIVO3eFp
 
 ### Topics
 * [Features > Blueprints](../topics/features/blueprints.md)

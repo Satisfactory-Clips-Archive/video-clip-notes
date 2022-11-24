@@ -11,7 +11,7 @@ date: Last Modified
 * [Third-person View](../../topics/features/requested-features/third-person-view.md)
 
 ## November 15th, 2022 Livestream
-* [Q&A: 128x128?](../../transcriptions/yt-CREPrQ23Dt4,6240.003332,6249.676934.md) [https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=6240&end=6250](https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=6240&end=6250)
+* [Q&A: 128x128?](../../transcriptions/yt-CREPrQ23Dt4,6240.003332,6249.676934.md) [https://youtube.com/clip/UgkxVEMmM6ftNOWCyhH64G-n2nwKO6WqauoC](https://youtube.com/clip/UgkxVEMmM6ftNOWCyhH64G-n2nwKO6WqauoC)
 * [Q&A: Does the Coal Generator fit?](../../transcriptions/yt-CREPrQ23Dt4,6249.676934,6540.615837.md) [https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=6249&end=6541](https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=6249&end=6541)
 
 ## November 1st, 2022 Livestream

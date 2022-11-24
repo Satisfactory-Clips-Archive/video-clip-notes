@@ -15,14 +15,14 @@ date: Last Modified
 * [Water](../../topics/environment/resources/water.md)
 
 ## November 15th, 2022 Livestream
-* [Q&A: How much do Blueprints cost?](../../transcriptions/yt-CREPrQ23Dt4,3351.962562,3409.305696.md) [https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=3351&end=3410](https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=3351&end=3410)
-* [Q&A: What do you need to build Blueprints?](../../transcriptions/yt-CREPrQ23Dt4,3971.563964,4008.838937.md) [https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=3971&end=4009](https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=3971&end=4009)
+* [Q&A: How much do Blueprints cost?](../../transcriptions/yt-CREPrQ23Dt4,3351.962562,3409.305696.md) [https://youtube.com/clip/UgkxWvMy26ABuzyT-Rj5sDczN-IFFfhjul0X](https://youtube.com/clip/UgkxWvMy26ABuzyT-Rj5sDczN-IFFfhjul0X)
+* [Q&A: What do you need to build Blueprints?](../../transcriptions/yt-CREPrQ23Dt4,3971.563964,4008.838937.md) [https://youtube.com/clip/UgkxIOrnnpqnBec6Zk_5KEZ34-mR9BN-LWYB](https://youtube.com/clip/UgkxIOrnnpqnBec6Zk_5KEZ34-mR9BN-LWYB)
 * [Dylan, Mark, and Snutt Tallk: Alien DNA Capsules](../../transcriptions/yt-CREPrQ23Dt4,6942.736332,7305.166556.md) [https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=6942&end=7306](https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=6942&end=7306)
 
 ## November 11th, 2022 Video
-* [Resource Costs & Overclocking](../../transcriptions/yt-9KBQyjy-a6g,403.521306,426.25916666666666.md) [https://youtube.com/embed/9KBQyjy-a6g?autoplay=1&start=403&end=427](https://youtube.com/embed/9KBQyjy-a6g?autoplay=1&start=403&end=427)
-* [Integrating the freshly-applied Blueprint](../../transcriptions/yt-9KBQyjy-a6g,630.2296,653.4861666666667.md) [https://youtube.com/embed/9KBQyjy-a6g?autoplay=1&start=630&end=654](https://youtube.com/embed/9KBQyjy-a6g?autoplay=1&start=630&end=654)
-* [Expanding the freshly-applied Blueprint](../../transcriptions/yt-9KBQyjy-a6g,653.5195333333334,687.3533333333334.md) [https://youtube.com/embed/9KBQyjy-a6g?autoplay=1&start=653&end=688](https://youtube.com/embed/9KBQyjy-a6g?autoplay=1&start=653&end=688)
+* [Resource Costs & Overclocking](../../transcriptions/yt-9KBQyjy-a6g,403.521306,426.25916666666666.md) [https://youtube.com/clip/UgkxkzH1h-zVQHujC_glP13eJyPCtE9_J7a-](https://youtube.com/clip/UgkxkzH1h-zVQHujC_glP13eJyPCtE9_J7a-)
+* [Integrating the freshly-applied Blueprint](../../transcriptions/yt-9KBQyjy-a6g,630.2296,653.4861666666667.md) [https://youtube.com/clip/UgkxHtSFw4VDMnQknDAt_Lg7-hC6RAGlLZ13](https://youtube.com/clip/UgkxHtSFw4VDMnQknDAt_Lg7-hC6RAGlLZ13)
+* [Expanding the freshly-applied Blueprint](../../transcriptions/yt-9KBQyjy-a6g,653.5195333333334,687.3533333333334.md) [https://youtube.com/clip/Ugkx42XX5EBZz9JQ7LjFiP1QWRZvtnnFxssK](https://youtube.com/clip/Ugkx42XX5EBZz9JQ7LjFiP1QWRZvtnnFxssK)
 
 ## October 25th, 2022 Livestream
 * [Q&A: Are there any new nodes coming in Spire Coast for Update 7?](../../transcriptions/yt-Iu_wLJs_-08.md) [https://www.youtube.com/watch?v=Iu_wLJs_-08](https://www.youtube.com/watch?v=Iu_wLJs_-08)

@@ -11,7 +11,7 @@ topics:
 ---
 # [November 15th, 2022 Livestream](../2022-11-15.md)
 ## Q&A: What do you need to build Blueprints?
-https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=3971&end=4009
+https://youtube.com/clip/UgkxIOrnnpqnBec6Zk_5KEZ34-mR9BN-LWYB
 
 ### Topics
 * [Environment > Resources](../topics/environment/resources.md)

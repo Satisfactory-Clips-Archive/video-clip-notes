@@ -11,7 +11,7 @@ topics:
 ---
 # [November 15th, 2022 Livestream](../2022-11-15.md)
 ## Q&A: Will there be a Blueprint Designer Mk.2?
-https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=6670&end=6679
+https://youtube.com/clip/UgkxeP0L5Mhyn6peXeNRtNWHrS2A-sIgVPZh
 
 ### Topics
 * [Features > Blueprints](../topics/features/blueprints.md)

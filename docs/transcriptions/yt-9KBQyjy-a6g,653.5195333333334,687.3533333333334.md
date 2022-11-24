@@ -12,7 +12,7 @@ topics:
 ---
 # [November 11th, 2022 Video](../2022-11-11.md)
 ## Expanding the freshly-applied Blueprint
-https://youtube.com/embed/9KBQyjy-a6g?autoplay=1&start=653&end=688
+https://youtube.com/clip/Ugkx42XX5EBZz9JQ7LjFiP1QWRZvtnnFxssK
 
 ### Topics
 * [Environment > Resources](../topics/environment/resources.md)

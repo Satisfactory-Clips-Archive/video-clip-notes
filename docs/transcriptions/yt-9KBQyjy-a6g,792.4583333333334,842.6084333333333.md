@@ -9,7 +9,7 @@ topics:
 ---
 # [November 11th, 2022 Video](../2022-11-11.md)
 ## Limitations of the Blueprint Designer
-https://youtube.com/embed/9KBQyjy-a6g?autoplay=1&start=792&end=843
+https://youtube.com/clip/UgkxLJ631a80p0bc6YiWG-vzALA3GzbkD9sP
 
 ### Topics
 * [Features > Blueprints](../topics/features/blueprints.md)

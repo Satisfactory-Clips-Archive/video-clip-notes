@@ -7,7 +7,7 @@ date: Last Modified
 * [Epic Store Exclusivity](../../topics/retail/epic-store/epic-store-exclusivity.md)
 
 ## November 15th, 2022 Livestream
-* [Community FYI: Epic is slow as fuck](../../transcriptions/yt-CREPrQ23Dt4,6227.943388758088,6240.003332.md) [https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=6227&end=6241](https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=6227&end=6241)
+* [Community FYI: Epic is slow as fuck](../../transcriptions/yt-CREPrQ23Dt4,6227.943388758088,6240.003332.md) [https://youtube.com/clip/UgkxQFKE2EeoLbhOUXWPnbm9Tknabc4uJ-eI](https://youtube.com/clip/UgkxQFKE2EeoLbhOUXWPnbm9Tknabc4uJ-eI)
 * [Snutt Talk: If you're not seeing the Update](../../transcriptions/yt-CREPrQ23Dt4,8259.389945,8327.278515102387.md) [https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=8259&end=8328](https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=8259&end=8328)
 
 ## June 17th, 2022 Video

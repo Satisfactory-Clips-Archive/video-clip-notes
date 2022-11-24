@@ -10,7 +10,7 @@ topics:
 ---
 # [November 11th, 2022 Video](../2022-11-11.md)
 ## Power
-https://youtube.com/embed/9KBQyjy-a6g?autoplay=1&start=375&end=397
+https://youtube.com/clip/UgkxhZIZ3nfu0a2imIa7Wmifp1YafYiYzroo
 
 ### Topics
 * [Features > Blueprints](../topics/features/blueprints.md)

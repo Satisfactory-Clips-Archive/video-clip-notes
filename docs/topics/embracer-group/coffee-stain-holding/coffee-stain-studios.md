@@ -6,7 +6,7 @@ date: Last Modified
 # [Topics](../../../topics.md) > [Embracer Group](../../../topics/embracer-group.md) > Coffee Stain Holding > Coffee Stain Studios
 
 ## November 11th, 2022 Video
-* [Community point of view vs. Coffee Stain Studio's point of view](../../../transcriptions/yt-9KBQyjy-a6g,123.89043333333333,145.2451.md) [https://youtube.com/embed/9KBQyjy-a6g?autoplay=1&start=123&end=146](https://youtube.com/embed/9KBQyjy-a6g?autoplay=1&start=123&end=146)
+* [Community point of view vs. Coffee Stain Studio's point of view](../../../transcriptions/yt-9KBQyjy-a6g,123.89043333333333,145.2451.md) [https://youtube.com/clip/UgkxDwLcA4exgGBp9J3v2A3mrfqRPhibdqg0](https://youtube.com/clip/UgkxDwLcA4exgGBp9J3v2A3mrfqRPhibdqg0)
 
 ## November 1st, 2022 Livestream
 * [Q&A: Where is Coffee Stain?](../../../transcriptions/yt-DkJAo4STjvE.md) [https://www.youtube.com/watch?v=DkJAo4STjvE](https://www.youtube.com/watch?v=DkJAo4STjvE)

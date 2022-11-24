@@ -8,7 +8,7 @@ topics:
 ---
 # [November 11th, 2022 Video](../2022-11-11.md)
 ## Update 7 new Building Teaser
-https://youtube.com/embed/9KBQyjy-a6g?autoplay=1&start=37&end=68
+https://youtube.com/clip/UgkxwtHPMvwZ_3kupxe5mk5jQeuZs1tD1SGs
 
 ### Topics
 * [Features > Buildings > Blueprint Designer](../topics/features/buildings/blueprint-designer.md)

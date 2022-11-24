@@ -6,7 +6,7 @@ date: Last Modified
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > Release Builds
 
 ## November 15th, 2022 Livestream
-* [Q&A: Do you know when the Update is going to Early Access release?](../../transcriptions/yt-CREPrQ23Dt4,6678.607335,6714.312943.md) [https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=6678&end=6715](https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=6678&end=6715)
+* [Q&A: Do you know when the Update is going to Early Access release?](../../transcriptions/yt-CREPrQ23Dt4,6678.607335,6714.312943.md) [https://youtube.com/clip/UgkxpbX_icSblgwiHCiiGKhRGtF2XIVO3eFp](https://youtube.com/clip/UgkxpbX_icSblgwiHCiiGKhRGtF2XIVO3eFp)
 * [Snutt Talk: How to get the Experimental Release](../../transcriptions/yt-CREPrQ23Dt4,8067.502873,8188.264471.md) [https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=8067&end=8189](https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=8067&end=8189)
 
 ## November 1st, 2022 Livestream

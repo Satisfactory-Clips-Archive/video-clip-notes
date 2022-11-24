@@ -10,7 +10,7 @@ topics:
 ---
 # [November 11th, 2022 Video](../2022-11-11.md)
 ## Community point of view vs. Coffee Stain Studio's point of view
-https://youtube.com/embed/9KBQyjy-a6g?autoplay=1&start=123&end=146
+https://youtube.com/clip/UgkxDwLcA4exgGBp9J3v2A3mrfqRPhibdqg0
 
 ### Topics
 * [Community](../topics/community.md)

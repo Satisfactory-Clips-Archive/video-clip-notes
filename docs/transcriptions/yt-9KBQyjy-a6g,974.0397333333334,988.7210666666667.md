@@ -8,7 +8,7 @@ topics:
 ---
 # [November 11th, 2022 Video](../2022-11-11.md)
 ## Sprint Mode for Ziplines
-https://youtube.com/embed/9KBQyjy-a6g?autoplay=1&start=974&end=989
+https://youtube.com/clip/UgkxqO_FNG1fL0wXAMJH01JTl6XlU9bTSnOA
 
 ### Topics
 * [Features > Equipment > Zip Lines](../topics/features/equipment/zip-lines.md)

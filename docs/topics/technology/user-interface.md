@@ -10,11 +10,11 @@ date: Last Modified
 * [Stamps](../../topics/technology/user-interface/stamps.md)
 
 ## November 15th, 2022 Livestream
-* [Dylan, Mark, and Snutt Talk: Main Menu not updated](../../transcriptions/yt-CREPrQ23Dt4,6900.448189,6942.736332.md) [https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=6900&end=6943](https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=6900&end=6943)
-* [Q&A: Can you get the eyedropper to function?](../../transcriptions/yt-CREPrQ23Dt4,8188.264471,8194.121731.md) [https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=8188&end=8195](https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=8188&end=8195)
+* [Dylan, Mark, and Snutt Talk: Main Menu not updated](../../transcriptions/yt-CREPrQ23Dt4,6900.448189,6942.736332.md) [https://youtube.com/clip/UgkxSjpc1AwtAjXS8qxMKMHFCDX3kwnJHcgo](https://youtube.com/clip/UgkxSjpc1AwtAjXS8qxMKMHFCDX3kwnJHcgo)
+* [Q&A: Can you get the eyedropper to function?](../../transcriptions/yt-CREPrQ23Dt4,8188.264471,8194.121731.md) [https://youtube.com/clip/UgkxWjnV29TsgSydsc1P4kGNbTerHaPIhytb](https://youtube.com/clip/UgkxWjnV29TsgSydsc1P4kGNbTerHaPIhytb)
 
 ## November 11th, 2022 Video
-* [Resource Costs & Overclocking](../../transcriptions/yt-9KBQyjy-a6g,403.521306,426.25916666666666.md) [https://youtube.com/embed/9KBQyjy-a6g?autoplay=1&start=403&end=427](https://youtube.com/embed/9KBQyjy-a6g?autoplay=1&start=403&end=427)
+* [Resource Costs & Overclocking](../../transcriptions/yt-9KBQyjy-a6g,403.521306,426.25916666666666.md) [https://youtube.com/clip/UgkxkzH1h-zVQHujC_glP13eJyPCtE9_J7a-](https://youtube.com/clip/UgkxkzH1h-zVQHujC_glP13eJyPCtE9_J7a-)
 * [Name, Description, Directory, Icons](../../transcriptions/yt-9KBQyjy-a6g,426.2925333333333,508.34116666666665.md) [https://youtube.com/embed/9KBQyjy-a6g?autoplay=1&start=426&end=509](https://youtube.com/embed/9KBQyjy-a6g?autoplay=1&start=426&end=509)
 
 ## September 27th, 2022 Livestream

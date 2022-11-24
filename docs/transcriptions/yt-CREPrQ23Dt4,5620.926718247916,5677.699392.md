@@ -9,7 +9,7 @@ topics:
 ---
 # [November 15th, 2022 Livestream](../2022-11-15.md)
 ## Dylan, Mark, and Snutt Talk: Passive Mode
-https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=5620&end=5678
+https://youtube.com/clip/Ugkxajs-z_9DcC3wu7ihUe3_4b9P6EjMvmT9
 
 ### Topics
 * [Features > Possible Features > Game Modes > Peaceful Mode](../topics/features/possible-features/game-modes/peaceful-mode.md)

@@ -9,7 +9,7 @@ date: Last Modified
 * [Dylan, Mark, and Snutt Talk: Zipline Sprint](../../../transcriptions/yt-CREPrQ23Dt4,7448.821249,8004.351560756758.md) [https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=7448&end=8005](https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=7448&end=8005)
 
 ## November 11th, 2022 Video
-* [Sprint Mode for Ziplines](../../../transcriptions/yt-9KBQyjy-a6g,974.0397333333334,988.7210666666667.md) [https://youtube.com/embed/9KBQyjy-a6g?autoplay=1&start=974&end=989](https://youtube.com/embed/9KBQyjy-a6g?autoplay=1&start=974&end=989)
+* [Sprint Mode for Ziplines](../../../transcriptions/yt-9KBQyjy-a6g,974.0397333333334,988.7210666666667.md) [https://youtube.com/clip/UgkxqO_FNG1fL0wXAMJH01JTl6XlU9bTSnOA](https://youtube.com/clip/UgkxqO_FNG1fL0wXAMJH01JTl6XlU9bTSnOA)
 
 ## August 30th, 2022 Livestream
 * [Q&A: Zip Line Mk.2 that lets us attach to Drones?](../../../transcriptions/yt-wW4a4777ba8.md) [https://www.youtube.com/watch?v=wW4a4777ba8](https://www.youtube.com/watch?v=wW4a4777ba8)

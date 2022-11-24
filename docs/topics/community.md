@@ -30,7 +30,7 @@ date: Last Modified
 * [Q&A: How long do you think it'll take for people to make a website that generates Blueprint files?](../transcriptions/yt-CREPrQ23Dt4,6033.634519959804,6197.319266.md) [https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=6033&end=6198](https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=6033&end=6198)
 
 ## November 11th, 2022 Video
-* [Community point of view vs. Coffee Stain Studio's point of view](../transcriptions/yt-9KBQyjy-a6g,123.89043333333333,145.2451.md) [https://youtube.com/embed/9KBQyjy-a6g?autoplay=1&start=123&end=146](https://youtube.com/embed/9KBQyjy-a6g?autoplay=1&start=123&end=146)
+* [Community point of view vs. Coffee Stain Studio's point of view](../transcriptions/yt-9KBQyjy-a6g,123.89043333333333,145.2451.md) [https://youtube.com/clip/UgkxDwLcA4exgGBp9J3v2A3mrfqRPhibdqg0](https://youtube.com/clip/UgkxDwLcA4exgGBp9J3v2A3mrfqRPhibdqg0)
 
 ## November 8th, 2022 Livestream
 * [Q&A: Will there be some tutorials for Pipes?](../transcriptions/yt-l26X2kKCOhI.md) [https://www.youtube.com/watch?v=l26X2kKCOhI](https://www.youtube.com/watch?v=l26X2kKCOhI)

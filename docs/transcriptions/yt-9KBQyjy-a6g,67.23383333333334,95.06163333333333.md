@@ -8,7 +8,7 @@ topics:
 ---
 # [November 11th, 2022 Video](../2022-11-11.md)
 ## BLUEPRINTS (actually not kidding)
-https://youtube.com/embed/9KBQyjy-a6g?autoplay=1&start=67&end=96
+https://youtube.com/clip/UgkxSYV8KvOzpypc16ZOTBa9RNZeajasQS3m
 
 ### Topics
 * [Features > Blueprints](../topics/features/blueprints.md)

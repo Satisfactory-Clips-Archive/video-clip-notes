@@ -10,7 +10,7 @@ topics:
 ---
 # [November 15th, 2022 Livestream](../2022-11-15.md)
 ## Q&A: What Tier are Blueprints unlocked in?
-https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=3326&end=3352
+https://youtube.com/clip/UgkxUHkKTprMII-CnG_4VVaIvumPaff06Gs2
 
 ### Topics
 * [Features > Blueprints](../topics/features/blueprints.md)

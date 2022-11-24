@@ -8,7 +8,7 @@ topics:
 # [August 30th, 2022 Livestream](../2022-08-30.md)
 ## Q&A: Plans for passive mode?
 https://www.youtube.com/watch?v=XJ798jouqJE
-This question was possibly replaced with a more recent answer: [November 15th, 2022 Livestream Q&A: Do you know when the Update is going to Early Access release?](./yt-CREPrQ23Dt4,6678.607335,6714.312943.md) [https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=6678&end=6715](https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=6678&end=6715)
+This question was possibly replaced with a more recent answer: [November 15th, 2022 Livestream Q&A: Do you know when the Update is going to Early Access release?](./yt-CREPrQ23Dt4,6678.607335,6714.312943.md) [https://youtube.com/clip/UgkxpbX_icSblgwiHCiiGKhRGtF2XIVO3eFp](https://youtube.com/clip/UgkxpbX_icSblgwiHCiiGKhRGtF2XIVO3eFp)
 
 <details>
 <summary>This question may have been asked previously at least 11 other times, as recently as June 2022 and as early as August 2020.</summary>

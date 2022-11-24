@@ -12,7 +12,7 @@ topics:
 ---
 # [November 15th, 2022 Livestream](../2022-11-15.md)
 ## Q&A: Are Blueprints part of the MAM or part of general Tiers?
-https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=4008&end=4046
+https://youtube.com/clip/UgkxBagwDKYqIFtH8ZH-Bi4Mwa9z7MZRHfs7
 
 ### Topics
 * [Features > Blueprints](../topics/features/blueprints.md)

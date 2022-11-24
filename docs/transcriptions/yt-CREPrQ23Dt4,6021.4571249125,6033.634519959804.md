@@ -11,11 +11,11 @@ topics:
 ---
 # [November 15th, 2022 Livestream](../2022-11-15.md)
 ## Q&A: Will we get more Blueprints with more space for higher Tiers?
-https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=6021&end=6034
+https://youtube.com/clip/Ugkx_VlhBfsArtf_E2J-CtIo0L7QhLPYhAe5
 <details>
 <summary>This question may have been asked previously at least 1 other time, as recently as November 2022.</summary>
 
-* [November 15th, 2022 Livestream Q&A: 128x128?](./yt-CREPrQ23Dt4,6240.003332,6249.676934.md) [https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=6240&end=6250](https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=6240&end=6250)
+* [November 15th, 2022 Livestream Q&A: 128x128?](./yt-CREPrQ23Dt4,6240.003332,6249.676934.md) [https://youtube.com/clip/UgkxVEMmM6ftNOWCyhH64G-n2nwKO6WqauoC](https://youtube.com/clip/UgkxVEMmM6ftNOWCyhH64G-n2nwKO6WqauoC)
 </details>
 
 

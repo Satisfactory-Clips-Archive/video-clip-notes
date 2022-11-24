@@ -7,16 +7,18 @@ topics:
     - "features/blueprints"
     - "features/buildings/blueprint-designer"
     - "satisfactory-updates/pending/satisfactory-update-7"
+    - "trolling"
 ---
 # [November 15th, 2022 Livestream](../2022-11-15.md)
 ## Q&A: How much do Blueprints cost?
-https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=3351&end=3410
+https://youtube.com/clip/UgkxWvMy26ABuzyT-Rj5sDczN-IFFfhjul0X
 
 ### Topics
 * [Environment > Resources](../topics/environment/resources.md)
 * [Features > Blueprints](../topics/features/blueprints.md)
 * [Features > Buildings > Blueprint Designer](../topics/features/buildings/blueprint-designer.md)
 * [Satisfactory Updates > Pending > Satisfactory Update 7](../topics/satisfactory-updates/pending/satisfactory-update-7.md)
+* [Trolling](../topics/trolling.md)
 
 ### Transcript
 

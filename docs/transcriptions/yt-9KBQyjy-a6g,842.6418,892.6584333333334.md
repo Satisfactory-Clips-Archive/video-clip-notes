@@ -10,7 +10,7 @@ topics:
 ---
 # [November 11th, 2022 Video](../2022-11-11.md)
 ## Blueprints are not persistent to your Save file
-https://youtube.com/embed/9KBQyjy-a6g?autoplay=1&start=842&end=893
+https://youtube.com/clip/UgkxKQFoYRVWKeGPQ2pEl2zgtmFFB4SwryyP
 
 ### Topics
 * [Features > Blueprints](../topics/features/blueprints.md)

@@ -11,7 +11,7 @@ topics:
 ---
 # [November 15th, 2022 Livestream](../2022-11-15.md)
 ## Q&A: Train lanes, no power?
-https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=6197&end=6228
+https://youtube.com/clip/UgkxHeVzr89h08fdBa2q7qnkuVsX4ZmNu0yj
 
 ### Topics
 * [Features > Blueprints](../topics/features/blueprints.md)

@@ -6,7 +6,7 @@ date: Last Modified
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Save System](../../../topics/features/save-system.md) > Cloud Sync
 
 ## November 11th, 2022 Video
-* [Blueprints are not persistent to your Save file](../../../transcriptions/yt-9KBQyjy-a6g,842.6418,892.6584333333334.md) [https://youtube.com/embed/9KBQyjy-a6g?autoplay=1&start=842&end=893](https://youtube.com/embed/9KBQyjy-a6g?autoplay=1&start=842&end=893)
+* [Blueprints are not persistent to your Save file](../../../transcriptions/yt-9KBQyjy-a6g,842.6418,892.6584333333334.md) [https://youtube.com/clip/UgkxKQFoYRVWKeGPQ2pEl2zgtmFFB4SwryyP](https://youtube.com/clip/UgkxKQFoYRVWKeGPQ2pEl2zgtmFFB4SwryyP)
 
 ## September 20th, 2022 Update 6 Release Stream
 * Backup Your Damn Save Files [https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=6928&end=7179](https://youtube.com/embed/8WZYDHAVmio?autoplay=1&start=6928&end=7179)

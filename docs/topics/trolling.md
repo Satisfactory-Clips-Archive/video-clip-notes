@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Trolling
 
+## November 15th, 2022 Livestream
+* [Q&A: How much do Blueprints cost?](../transcriptions/yt-CREPrQ23Dt4,3351.962562,3409.305696.md) [https://youtube.com/clip/UgkxWvMy26ABuzyT-Rj5sDczN-IFFfhjul0X](https://youtube.com/clip/UgkxWvMy26ABuzyT-Rj5sDczN-IFFfhjul0X)
+
 ## November 8th, 2022 Livestream
 * [Snutt & Jace Talk: Paradise Island, Game Development, and Microtransactions](../transcriptions/yt-BmzL07GjYus.md) [https://www.youtube.com/watch?v=BmzL07GjYus](https://www.youtube.com/watch?v=BmzL07GjYus)
 * [Q&A: Smorgasboard DLC?](../transcriptions/yt-DAckE7CsuEc.md) [https://www.youtube.com/watch?v=DAckE7CsuEc](https://www.youtube.com/watch?v=DAckE7CsuEc)

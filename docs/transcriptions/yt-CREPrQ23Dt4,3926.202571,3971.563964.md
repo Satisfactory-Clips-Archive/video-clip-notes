@@ -10,7 +10,7 @@ topics:
 ---
 # [November 15th, 2022 Livestream](../2022-11-15.md)
 ## Q&A: When did you decide to add Blueprints?
-https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=3926&end=3972
+https://youtube.com/clip/UgkxhST7oLrbFk6Es0ZVTDiw1otmYxEMwc55
 
 ### Topics
 * [Features > Blueprints](../topics/features/blueprints.md)

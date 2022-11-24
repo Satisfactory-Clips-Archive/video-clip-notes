@@ -8,7 +8,7 @@ topics:
 # [June 29th, 2021 Livestream](../2021-06-29.md)
 ## Q&A: Blueprints, for repetitive factory setups?
 https://www.youtube.com/watch?v=NYHU62S6czs
-This question was possibly replaced with a more recent answer: [November 15th, 2022 Livestream Q&A: When did you decide to add Blueprints?](./yt-CREPrQ23Dt4,3926.202571,3971.563964.md) [https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=3926&end=3972](https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=3926&end=3972)
+This question was possibly replaced with a more recent answer: [November 15th, 2022 Livestream Q&A: When did you decide to add Blueprints?](./yt-CREPrQ23Dt4,3926.202571,3971.563964.md) [https://youtube.com/clip/UgkxhST7oLrbFk6Es0ZVTDiw1otmYxEMwc55](https://youtube.com/clip/UgkxhST7oLrbFk6Es0ZVTDiw1otmYxEMwc55)
 
 
 ### Topics

@@ -7,10 +7,10 @@ date: Last Modified
 
 ## November 11th, 2022 Video
 * [Setting up an Iron Rod manifold](../../../transcriptions/yt-9KBQyjy-a6g,284.91796666666664,354.9546.md) [https://youtube.com/embed/9KBQyjy-a6g?autoplay=1&start=284&end=355](https://youtube.com/embed/9KBQyjy-a6g?autoplay=1&start=284&end=355)
-* [Plan ahead for expansion](../../../transcriptions/yt-9KBQyjy-a6g,354.9879666666667,375.208167.md) [https://youtube.com/embed/9KBQyjy-a6g?autoplay=1&start=354&end=376](https://youtube.com/embed/9KBQyjy-a6g?autoplay=1&start=354&end=376)
+* [Plan ahead for expansion](../../../transcriptions/yt-9KBQyjy-a6g,354.9879666666667,375.208167.md) [https://youtube.com/clip/UgkxSFjWY6hvm7RXh7y8ZvY8DnxpVgPYYAft](https://youtube.com/clip/UgkxSFjWY6hvm7RXh7y8ZvY8DnxpVgPYYAft)
 * [Applying the Iron Rod Manifold](../../../transcriptions/yt-9KBQyjy-a6g,557.0565,630.1962333333333.md) [https://youtube.com/embed/9KBQyjy-a6g?autoplay=1&start=557&end=631](https://youtube.com/embed/9KBQyjy-a6g?autoplay=1&start=557&end=631)
-* [Integrating the freshly-applied Blueprint](../../../transcriptions/yt-9KBQyjy-a6g,630.2296,653.4861666666667.md) [https://youtube.com/embed/9KBQyjy-a6g?autoplay=1&start=630&end=654](https://youtube.com/embed/9KBQyjy-a6g?autoplay=1&start=630&end=654)
-* [Expanding the freshly-applied Blueprint](../../../transcriptions/yt-9KBQyjy-a6g,653.5195333333334,687.3533333333334.md) [https://youtube.com/embed/9KBQyjy-a6g?autoplay=1&start=653&end=688](https://youtube.com/embed/9KBQyjy-a6g?autoplay=1&start=653&end=688)
+* [Integrating the freshly-applied Blueprint](../../../transcriptions/yt-9KBQyjy-a6g,630.2296,653.4861666666667.md) [https://youtube.com/clip/UgkxHtSFw4VDMnQknDAt_Lg7-hC6RAGlLZ13](https://youtube.com/clip/UgkxHtSFw4VDMnQknDAt_Lg7-hC6RAGlLZ13)
+* [Expanding the freshly-applied Blueprint](../../../transcriptions/yt-9KBQyjy-a6g,653.5195333333334,687.3533333333334.md) [https://youtube.com/clip/Ugkx42XX5EBZz9JQ7LjFiP1QWRZvtnnFxssK](https://youtube.com/clip/Ugkx42XX5EBZz9JQ7LjFiP1QWRZvtnnFxssK)
 
 ## April 15th, 2022 Video
 * [Snutt & Stefan Talk: Mining Resources & Crafting in Sprint 6](../../../transcriptions/yt-7I3NGAm3j_4,782.1480333333334,1062.275948.md) [https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=782&end=1063](https://youtube.com/embed/7I3NGAm3j_4?autoplay=1&start=782&end=1063)
