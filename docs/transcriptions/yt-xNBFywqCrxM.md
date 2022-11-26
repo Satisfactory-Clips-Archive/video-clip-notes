@@ -8,7 +8,7 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Will there be turrets or something in the game?
 https://www.youtube.com/watch?v=xNBFywqCrxM
-This question was possibly duplicated with a more recent answer: [October 25th, 2022 Livestream Q&A: Game Mode with Base Defense?](./yt-W4o0vCsRoqE.md) [https://www.youtube.com/watch?v=W4o0vCsRoqE](https://www.youtube.com/watch?v=W4o0vCsRoqE)
+This question was possibly duplicated with a more recent answer: [November 22nd, 2022 Livestream Q&A: You said we're never getting Pipes yet we got Pipes. When are we getting Base Defense?](./yt-nYL4xlSiPpU.md) [https://www.youtube.com/watch?v=nYL4xlSiPpU](https://www.youtube.com/watch?v=nYL4xlSiPpU)
 
 
 ### Topics

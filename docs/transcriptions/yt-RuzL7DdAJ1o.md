@@ -9,7 +9,7 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Any plans to add more animals to enemies or dangers?
 https://www.youtube.com/watch?v=RuzL7DdAJ1o
-This question was possibly duplicated with a more recent answer: [October 18th, 2022 Livestream Q&A: Giant Crab, when?](./yt-GumR-JVKtL0.md) [https://www.youtube.com/watch?v=GumR-JVKtL0](https://www.youtube.com/watch?v=GumR-JVKtL0)
+This question was possibly duplicated with a more recent answer: [November 22nd, 2022 Livestream Q&A: Is the Crab Boss from the E3 Trailer still coming?](./yt-AB_eO6X59N8.md) [https://www.youtube.com/watch?v=AB_eO6X59N8](https://www.youtube.com/watch?v=AB_eO6X59N8)
 
 
 ### Topics

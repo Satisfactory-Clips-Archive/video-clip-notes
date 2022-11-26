@@ -8,6 +8,9 @@ date: Last Modified
 * [Creative Mode](../../../topics/features/possible-features/game-modes/creative-mode.md)
 * [Peaceful Mode](../../../topics/features/possible-features/game-modes/peaceful-mode.md)
 
+## November 22nd, 2022 Livestream
+* [Q&A: Possibility of switching to a Game Mode where you had an item-per-minute requirement?](../../../transcriptions/yt-av3ed3zOTG4.md) [https://www.youtube.com/watch?v=av3ed3zOTG4](https://www.youtube.com/watch?v=av3ed3zOTG4)
+
 ## November 15th, 2022 Livestream
 * [Dylan, Mark, and Snutt Talk: Game Modes](../../../transcriptions/yt-CREPrQ23Dt4,6784.186237,6900.448189.md) [https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=6784&end=6901](https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=6784&end=6901)
 

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > Miner
 
+## November 22nd, 2022 Livestream
+* [Q&A: Has there been any movement on the Mk.3 Miner having an extra output?](../../../transcriptions/yt-2wzjT2ZQc6c.md) [https://www.youtube.com/watch?v=2wzjT2ZQc6c](https://www.youtube.com/watch?v=2wzjT2ZQc6c)
+
 ## October 25th, 2022 Livestream
 * [Q&A: Mk.6 Belt or second output for Mk.3 Miners?](../../../transcriptions/yt-20JxwoTTwtQ.md) [https://www.youtube.com/watch?v=20JxwoTTwtQ](https://www.youtube.com/watch?v=20JxwoTTwtQ)
 * [Q&A: Can you make a chat command for the Mk.3 Miner thing?](../../../transcriptions/yt-lz_Q6oWi41w.md) [https://www.youtube.com/watch?v=lz_Q6oWi41w](https://www.youtube.com/watch?v=lz_Q6oWi41w)

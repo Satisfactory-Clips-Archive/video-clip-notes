@@ -22,6 +22,9 @@ date: Last Modified
 * [Walls](../../topics/features/buildables/walls.md)
 * [Windows](../../topics/features/buildables/windows.md)
 
+## November 22nd, 2022 Livestream
+* [Q&A: Thoughts on colouring Power Cables or Wall attachments?](../../transcriptions/yt-C85iytGFfuY.md) [https://www.youtube.com/watch?v=C85iytGFfuY](https://www.youtube.com/watch?v=C85iytGFfuY)
+
 ## November 8th, 2022 Livestream
 * [Q&A: Any thoughts on reducing megabase tedium?](../../transcriptions/yt-dK4A7RdB9pE.md) [https://www.youtube.com/watch?v=dK4A7RdB9pE](https://www.youtube.com/watch?v=dK4A7RdB9pE)
 

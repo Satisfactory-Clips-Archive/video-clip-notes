@@ -8,7 +8,7 @@ topics:
 # [March 1st, 2022 Livestream](../2022-03-01.md)
 ## Q&A: Any plans to improve general performance?
 https://www.youtube.com/watch?v=zeyd67hqrB8
-This question was possibly duplicated with a more recent answer: [August 30th, 2022 Livestream Q&A: How much room for improvement do you think you still have for performance?](./yt-moVIableguI.md) [https://www.youtube.com/watch?v=moVIableguI](https://www.youtube.com/watch?v=moVIableguI)
+This question was possibly duplicated with a more recent answer: [November 22nd, 2022 Livestream Q&A: Will the game's performance be improved?](./yt-pBRKWVTG_ws.md) [https://www.youtube.com/watch?v=pBRKWVTG_ws](https://www.youtube.com/watch?v=pBRKWVTG_ws)
 
 
 ### Topics

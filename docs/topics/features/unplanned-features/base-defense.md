@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Unplanned Features](../../../topics/features/unplanned-features.md) > Base Defense
 
+## November 22nd, 2022 Livestream
+* [Q&A: You said we're never getting Pipes yet we got Pipes. When are we getting Base Defense?](../../../transcriptions/yt-nYL4xlSiPpU.md) [https://www.youtube.com/watch?v=nYL4xlSiPpU](https://www.youtube.com/watch?v=nYL4xlSiPpU)
+
 ## November 1st, 2022 Livestream
 * [Community FYI: Tower Defense confirmed](../../../transcriptions/yt-X2hKEJvgCMA.md) [https://www.youtube.com/watch?v=X2hKEJvgCMA](https://www.youtube.com/watch?v=X2hKEJvgCMA)
 

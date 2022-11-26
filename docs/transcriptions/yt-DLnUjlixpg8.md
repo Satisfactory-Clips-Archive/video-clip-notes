@@ -8,7 +8,7 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Is there more than 5 enemies in?
 https://www.youtube.com/watch?v=DLnUjlixpg8
-This question was possibly duplicated with a more recent answer: [October 18th, 2022 Livestream Q&A: Giant Crab, when?](./yt-GumR-JVKtL0.md) [https://www.youtube.com/watch?v=GumR-JVKtL0](https://www.youtube.com/watch?v=GumR-JVKtL0)
+This question was possibly duplicated with a more recent answer: [November 22nd, 2022 Livestream Q&A: Is the Crab Boss from the E3 Trailer still coming?](./yt-AB_eO6X59N8.md) [https://www.youtube.com/watch?v=AB_eO6X59N8](https://www.youtube.com/watch?v=AB_eO6X59N8)
 
 
 ### Topics

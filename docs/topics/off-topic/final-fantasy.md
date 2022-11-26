@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Final Fantasy
 * [The Official Satisfactory PODCAST](../../topics/off-topic/final-fantasy/the-official-satisfactory-podcast.md)
 
+## November 22nd, 2022 Livestream
+* [Snutt & Jace Talk: Monkey Island, Final Fantasy, and Runescape](../../transcriptions/yt-XHOTMDdtFGc.md) [https://www.youtube.com/watch?v=XHOTMDdtFGc](https://www.youtube.com/watch?v=XHOTMDdtFGc)
+
 ## October 25th, 2022 Livestream
 * [Special Guest CEO of CSS (aka Official Satisfactory Podcast episode 2)](../../transcriptions/yt-jjgFHNU5NNM.md) [https://www.youtube.com/watch?v=jjgFHNU5NNM](https://www.youtube.com/watch?v=jjgFHNU5NNM)
 * [Q&A: Do you think Final Fantasy 17 is in the works yet?](../../transcriptions/yt-wpJnNM4Z48U.md) [https://www.youtube.com/watch?v=wpJnNM4Z48U](https://www.youtube.com/watch?v=wpJnNM4Z48U)

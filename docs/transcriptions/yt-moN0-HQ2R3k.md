@@ -8,6 +8,8 @@ topics:
 # [February 2nd, 2021 Livestream](../2021-02-02.md)
 ## Q&A: With the Zip Line, can you Zip through Poles?
 https://www.youtube.com/watch?v=moN0-HQ2R3k
+This question was possibly duplicated with a more recent answer: [November 22nd, 2022 Livestream Q&A: Can the Power Lines be dangled from a Power Pole rather than through the middle of it?](./yt-XIxZfcnXlUo.md) [https://www.youtube.com/watch?v=XIxZfcnXlUo](https://www.youtube.com/watch?v=XIxZfcnXlUo)
+
 
 ### Topics
 * [Features > Equipment > Zip Lines](../topics/features/equipment/zip-lines.md)

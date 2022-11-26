@@ -5,6 +5,14 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Trolling
 
+## November 22nd, 2022 Livestream
+* [Q&A: Milk slider for the lactose intolerant?](../transcriptions/yt--cBiDakky1g.md) [https://www.youtube.com/watch?v=-cBiDakky1g](https://www.youtube.com/watch?v=-cBiDakky1g)
+* [Snutt & Jace Talk: Existential trolling, uncut](../transcriptions/yt-MNCenWhzvG8.md) [https://www.youtube.com/watch?v=MNCenWhzvG8](https://www.youtube.com/watch?v=MNCenWhzvG8)
+* [Q&A: How about Skateboards?](../transcriptions/yt-mS-ndNmWzxE.md) [https://www.youtube.com/watch?v=mS-ndNmWzxE](https://www.youtube.com/watch?v=mS-ndNmWzxE)
+* [Q&A: You said we're never getting Pipes yet we got Pipes. When are we getting Base Defense?](../transcriptions/yt-nYL4xlSiPpU.md) [https://www.youtube.com/watch?v=nYL4xlSiPpU](https://www.youtube.com/watch?v=nYL4xlSiPpU)
+* [Intro](../transcriptions/yt-sD60FDv7a24.md) [https://www.youtube.com/watch?v=sD60FDv7a24](https://www.youtube.com/watch?v=sD60FDv7a24)
+* [Q&A: Update 8, when?](../transcriptions/yt-ugS5beaw77Y.md) [https://www.youtube.com/watch?v=ugS5beaw77Y](https://www.youtube.com/watch?v=ugS5beaw77Y)
+
 ## November 15th, 2022 Livestream
 * [Q&A: How much do Blueprints cost?](../transcriptions/yt-CREPrQ23Dt4,3351.962562,3409.305696.md) [https://youtube.com/clip/UgkxWvMy26ABuzyT-Rj5sDczN-IFFfhjul0X](https://youtube.com/clip/UgkxWvMy26ABuzyT-Rj5sDczN-IFFfhjul0X)
 

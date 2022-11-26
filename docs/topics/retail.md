@@ -9,6 +9,9 @@ date: Last Modified
 * [GeForce Now](../topics/retail/geforce-now.md)
 * [Steam Store](../topics/retail/steam-store.md)
 
+## November 22nd, 2022 Livestream
+* [Community FYI: Your best is 3 million people hooked, I'd say you nailed it](../transcriptions/yt-iZgWT0lKixo.md) [https://www.youtube.com/watch?v=iZgWT0lKixo](https://www.youtube.com/watch?v=iZgWT0lKixo)
+
 ## October 25th, 2022 Livestream
 * [Q&A: Would Coffee Stain consider ever putting Satisfactory on Game Pass?](../transcriptions/yt-_Rz_WgsVrGQ.md) [https://www.youtube.com/watch?v=_Rz_WgsVrGQ](https://www.youtube.com/watch?v=_Rz_WgsVrGQ)
 

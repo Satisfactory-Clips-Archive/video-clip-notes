@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Pending](../../../topics/satisfactory-updates/pending.md) > Satisfactory Update 7
 
+## November 22nd, 2022 Livestream
+* [Q&A: Update 7 in Early Access, when?](../../../transcriptions/yt-4WdFC3Y5fx4.md) [https://www.youtube.com/watch?v=4WdFC3Y5fx4](https://www.youtube.com/watch?v=4WdFC3Y5fx4)
+* [State of Dev](../../../transcriptions/yt-ifcJGbImr10.md) [https://www.youtube.com/watch?v=ifcJGbImr10](https://www.youtube.com/watch?v=ifcJGbImr10)
+
 ## November 15th, 2022 Livestream
 * [Intro](../../../transcriptions/yt-CREPrQ23Dt4,625.4333333333333,1018.952724.md) [https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=625&end=1019](https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=625&end=1019)
 * [Q&A: What Tier are Blueprints unlocked in?](../../../transcriptions/yt-CREPrQ23Dt4,3326.131639,3351.962562.md) [https://youtube.com/clip/UgkxUHkKTprMII-CnG_4VVaIvumPaff06Gs2](https://youtube.com/clip/UgkxUHkKTprMII-CnG_4VVaIvumPaff06Gs2)

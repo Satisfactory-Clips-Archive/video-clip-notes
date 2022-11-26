@@ -7,6 +7,9 @@ date: Last Modified
 * [Crossplay](../../topics/features/multiplayer/crossplay.md)
 * [Dedicated Servers](../../topics/features/multiplayer/dedicated-servers.md)
 
+## November 22nd, 2022 Livestream
+* [State of Dev](../../transcriptions/yt-ifcJGbImr10.md) [https://www.youtube.com/watch?v=ifcJGbImr10](https://www.youtube.com/watch?v=ifcJGbImr10)
+
 ## October 25th, 2022 Livestream
 * [Q&A: Will Multiplayer performance update come before 1.0?](../../transcriptions/yt-wl4e18QLSs0.md) [https://www.youtube.com/watch?v=wl4e18QLSs0](https://www.youtube.com/watch?v=wl4e18QLSs0)
 * [Q&A: Is there a planned feature to share save files with your friends?](../../transcriptions/yt-MPrW_o-rOZA.md) [https://www.youtube.com/watch?v=MPrW_o-rOZA](https://www.youtube.com/watch?v=MPrW_o-rOZA)

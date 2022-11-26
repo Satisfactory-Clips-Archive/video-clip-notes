@@ -419,7 +419,9 @@ date: Last Modified
 * [Goat Simulator](./topics/off-topic/goat-simulator.md)
 * [I Love Strawberries](./topics/off-topic/i-love-strawberries.md)
 * [Infinifactory](./topics/off-topic/infinifactory.md)
+* [Monkey Island](./topics/off-topic/monkey-island.md)
 * [Portal](./topics/off-topic/portal.md)
+* [Runescape](./topics/off-topic/runescape.md)
 * [Sanctum](./topics/off-topic/sanctum.md)
 * [Songs of Conquest](./topics/off-topic/songs-of-conquest.md)
 * [Subnautica](./topics/off-topic/subnautica.md)
@@ -494,6 +496,7 @@ date: Last Modified
 * [Update 6 Teasers](./topics/satisfactory-updates/teasers-and-trailers/update-6-teasers.md)
 * [Update 6 Patch Notes Video](./topics/satisfactory-updates/teasers-and-trailers/update-6-patch-notes-video.md)
 * [Update 7 Teasers](./topics/satisfactory-updates/teasers-and-trailers/update-7-teasers.md)
+* [Update 7 Patch Notes Video](./topics/satisfactory-updates/teasers-and-trailers/update-7-patch-notes-video.md)
 ---
 
 ## [Satisfactory Prototypes](./topics/satisfactory-updates/satisfactory-prototypes.md)

@@ -12,6 +12,8 @@ topics:
 # [November 15th, 2022 Livestream](../2022-11-15.md)
 ## Q&A: Do you know when the Update is going to Early Access release?
 https://youtube.com/clip/UgkxpbX_icSblgwiHCiiGKhRGtF2XIVO3eFp
+This question was possibly duplicated with a more recent answer: [November 22nd, 2022 Livestream Q&A: Update 7 in Early Access, when?](./yt-4WdFC3Y5fx4.md) [https://www.youtube.com/watch?v=4WdFC3Y5fx4](https://www.youtube.com/watch?v=4WdFC3Y5fx4)
+
 
 ### Topics
 * [Features > Blueprints](../topics/features/blueprints.md)

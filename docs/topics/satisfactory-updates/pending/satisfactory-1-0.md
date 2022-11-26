@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Pending](../../../topics/satisfactory-updates/pending.md) > Satisfactory 1.0
 
+## November 22nd, 2022 Livestream
+* [Snutt & Jace Talk: Existential trolling, uncut](../../../transcriptions/yt-MNCenWhzvG8.md) [https://www.youtube.com/watch?v=MNCenWhzvG8](https://www.youtube.com/watch?v=MNCenWhzvG8)
+* [Q&A: Are Recipe balance changes coming before 1.0?](../../../transcriptions/yt-TJd56wLdNBc.md) [https://www.youtube.com/watch?v=TJd56wLdNBc](https://www.youtube.com/watch?v=TJd56wLdNBc)
+* [Q&A: When will you be tackling the Somersloop & S.A.M. stuff?](../../../transcriptions/yt-t2Jnwla58bw.md) [https://www.youtube.com/watch?v=t2Jnwla58bw](https://www.youtube.com/watch?v=t2Jnwla58bw)
+
 ## November 8th, 2022 Livestream
 * [Q&A: Can we talk about ADA and the S.A.M. Ore?](../../../transcriptions/yt-ngdOwVeAqZs.md) [https://www.youtube.com/watch?v=ngdOwVeAqZs](https://www.youtube.com/watch?v=ngdOwVeAqZs)
 * [Q&A: Updates after 1.0?](../../../transcriptions/yt-eHFSHUqYSZc.md) [https://www.youtube.com/watch?v=eHFSHUqYSZc](https://www.youtube.com/watch?v=eHFSHUqYSZc)

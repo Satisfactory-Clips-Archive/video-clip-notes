@@ -41,6 +41,9 @@ date: Last Modified
 * [Torsten](../topics/coffee-stainers/torsten.md)
 * [Uzu](../topics/coffee-stainers/uzu.md)
 
+## November 22nd, 2022 Livestream
+* [Q&A: Have you tried the sauce?](../transcriptions/yt-cpxJvSo8iIg.md) [https://www.youtube.com/watch?v=cpxJvSo8iIg](https://www.youtube.com/watch?v=cpxJvSo8iIg)
+
 ## October 18th, 2022 Livestream
 * [Q&A: How's the morale ?](../transcriptions/yt-HhRDshIXuUI.md) [https://www.youtube.com/watch?v=HhRDshIXuUI](https://www.youtube.com/watch?v=HhRDshIXuUI)
 

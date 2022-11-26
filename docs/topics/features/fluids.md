@@ -8,6 +8,9 @@ date: Last Modified
 * [Pumps](../../topics/features/fluids/pumps.md)
 * [Valves](../../topics/features/fluids/valves.md)
 
+## November 22nd, 2022 Livestream
+* [Q&A: Could you implement the ability to see liquid in the Pipes?](../../transcriptions/yt-ZS3o4qfgHsc.md) [https://www.youtube.com/watch?v=ZS3o4qfgHsc](https://www.youtube.com/watch?v=ZS3o4qfgHsc)
+
 ## November 1st, 2022 Livestream
 * [Q&A: Any Update on the state of Fluids?](../../transcriptions/yt-04bnub2zwpA.md) [https://www.youtube.com/watch?v=04bnub2zwpA](https://www.youtube.com/watch?v=04bnub2zwpA)
 * [Q&A: Adding Fluid Trucks?](../../transcriptions/yt-x-zXGDdrhbc.md) [https://www.youtube.com/watch?v=x-zXGDdrhbc](https://www.youtube.com/watch?v=x-zXGDdrhbc)

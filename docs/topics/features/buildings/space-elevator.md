@@ -6,6 +6,10 @@ date: Last Modified
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > Space Elevator
 * [Food Court](../../../topics/features/buildings/space-elevator/food-court.md)
 
+## November 22nd, 2022 Livestream
+* [Q&A: Possibility of switching to a Game Mode where you had an item-per-minute requirement?](../../../transcriptions/yt-av3ed3zOTG4.md) [https://www.youtube.com/watch?v=av3ed3zOTG4](https://www.youtube.com/watch?v=av3ed3zOTG4)
+* [Q&A: Did you see the world record for 4 Package% was set last night?](../../../transcriptions/yt-fQiuTu2K36A.md) [https://www.youtube.com/watch?v=fQiuTu2K36A](https://www.youtube.com/watch?v=fQiuTu2K36A)
+
 ## September 6th, 2022 Livestream
 * [Q&A: Will late-game be addressed, like after the last phase of the Project?](../../../transcriptions/yt-R4O7A7zk0wY.md) [https://www.youtube.com/watch?v=R4O7A7zk0wY](https://www.youtube.com/watch?v=R4O7A7zk0wY)
 

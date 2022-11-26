@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildables](../../../topics/features/buildables.md) > Beams
 
+## November 22nd, 2022 Livestream
+* [Q&A: Add a mode for Beams to build in a curve shape?](../../../transcriptions/yt-azIwvaNEMK4.md) [https://www.youtube.com/watch?v=azIwvaNEMK4](https://www.youtube.com/watch?v=azIwvaNEMK4)
+
 ## October 26th, 2021 Update 5 Launch Stream and Patch Notes Video
 * [Snutt & Jace Talk: More Cosmetic Build Pieces](../../../transcriptions/yt-QfaReoks6OM,231.75,262.75.md) [https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=231&end=263](https://youtube.com/embed/QfaReoks6OM?autoplay=1&start=231&end=263)
 

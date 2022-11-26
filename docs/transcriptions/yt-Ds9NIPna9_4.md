@@ -15,7 +15,7 @@ topics:
 https://www.youtube.com/watch?v=Ds9NIPna9_4
 This question was possibly replaced with a more recent answer: [March 16th, 2021 Livestream Drones](./yt-Dp77ih_XmkY,409.4583333333333,458.9583333333333.md) [https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=409&end=459](https://youtube.com/embed/Dp77ih_XmkY?autoplay=1&start=409&end=459)
 
-This question was possibly duplicated with a more recent answer: [February 22nd, 2022 Livestream Q&A: Flying Vehicles?](./yt-RY7melOTU34.md) [https://www.youtube.com/watch?v=RY7melOTU34](https://www.youtube.com/watch?v=RY7melOTU34)
+This question was possibly duplicated with a more recent answer: [November 22nd, 2022 Livestream Q&A: Passenger drone for aerial transportation?](./yt-gaW5dU_ibkY.md) [https://www.youtube.com/watch?v=gaW5dU_ibkY](https://www.youtube.com/watch?v=gaW5dU_ibkY)
 
 
 ### Topics

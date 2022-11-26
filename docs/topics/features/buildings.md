@@ -28,6 +28,9 @@ date: Last Modified
 * [The HUB](../../topics/features/buildings/the-hub.md)
 * [Water Extractor](../../topics/features/buildings/water-extractor.md)
 
+## November 22nd, 2022 Livestream
+* [Q&A: Will Machines snap to existing Belts?](../../transcriptions/yt-h21VSwYgM-E.md) [https://www.youtube.com/watch?v=h21VSwYgM-E](https://www.youtube.com/watch?v=h21VSwYgM-E)
+
 ## November 8th, 2022 Livestream
 * [Q&A: Any thoughts on reducing megabase tedium?](../../transcriptions/yt-dK4A7RdB9pE.md) [https://www.youtube.com/watch?v=dK4A7RdB9pE](https://www.youtube.com/watch?v=dK4A7RdB9pE)
 

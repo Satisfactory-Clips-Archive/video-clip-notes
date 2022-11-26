@@ -26,6 +26,12 @@ date: Last Modified
 * [Vilsol](../topics/community/vilsol.md)
 * [Wiki](../topics/community/wiki.md)
 
+## November 22nd, 2022 Livestream
+* [Snutt & Jace Talk: Existential trolling, uncut](../transcriptions/yt-MNCenWhzvG8.md) [https://www.youtube.com/watch?v=MNCenWhzvG8](https://www.youtube.com/watch?v=MNCenWhzvG8)
+* [Q&A: Have you tried the sauce?](../transcriptions/yt-cpxJvSo8iIg.md) [https://www.youtube.com/watch?v=cpxJvSo8iIg](https://www.youtube.com/watch?v=cpxJvSo8iIg)
+* [Q&A: Did you see the world record for 4 Package% was set last night?](../transcriptions/yt-fQiuTu2K36A.md) [https://www.youtube.com/watch?v=fQiuTu2K36A](https://www.youtube.com/watch?v=fQiuTu2K36A)
+* [Community FYI: Your best is 3 million people hooked, I'd say you nailed it](../transcriptions/yt-iZgWT0lKixo.md) [https://www.youtube.com/watch?v=iZgWT0lKixo](https://www.youtube.com/watch?v=iZgWT0lKixo)
+
 ## November 15th, 2022 Livestream
 * [Q&A: How long do you think it'll take for people to make a website that generates Blueprint files?](../transcriptions/yt-CREPrQ23Dt4,6033.634519959804,6197.319266.md) [https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=6033&end=6198](https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=6033&end=6198)
 

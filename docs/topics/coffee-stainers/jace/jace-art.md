@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Coffee Stainers](../../../topics/coffee-stainers.md) > [Jace](../../../topics/coffee-stainers/jace.md) > Jace Art
 
+## November 22nd, 2022 Livestream
+* [Q&A: I like your hoodie Jace, where's that from?](../../../transcriptions/yt-15P2i-QqVqg.md) [https://www.youtube.com/watch?v=15P2i-QqVqg](https://www.youtube.com/watch?v=15P2i-QqVqg)
+
 ## October 4th, 2022 Livestream
 * [Q&A: How is the Satisfactory anime coming along?](../../../transcriptions/yt-XKDaGUtQnxs.md) [https://www.youtube.com/watch?v=XKDaGUtQnxs](https://www.youtube.com/watch?v=XKDaGUtQnxs)
 

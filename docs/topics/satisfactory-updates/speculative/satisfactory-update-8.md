@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Speculative > Satisfactory Update 8
 
+## November 22nd, 2022 Livestream
+* [Q&A: Update 8, when?](../../../transcriptions/yt-ugS5beaw77Y.md) [https://www.youtube.com/watch?v=ugS5beaw77Y](https://www.youtube.com/watch?v=ugS5beaw77Y)
+
 ## November 8th, 2022 Livestream
 * [Q&A: What is the biggest problem you're all working on right now?](../../../transcriptions/yt-uwqBuRxnXow.md) [https://www.youtube.com/watch?v=uwqBuRxnXow](https://www.youtube.com/watch?v=uwqBuRxnXow)
 

@@ -8,6 +8,13 @@ date: Last Modified
 * [Snutt Burger Time](../../topics/coffee-stainers/snutt/snutt-burger-time.md)
 * [Snutty Mays](../../topics/coffee-stainers/snutt/snutty-mays.md)
 
+## November 22nd, 2022 Livestream
+* [Q&A: I like your hoodie Jace, where's that from?](../../transcriptions/yt-15P2i-QqVqg.md) [https://www.youtube.com/watch?v=15P2i-QqVqg](https://www.youtube.com/watch?v=15P2i-QqVqg)
+* [Snutt & Jace Talk: Existential trolling, uncut](../../transcriptions/yt-MNCenWhzvG8.md) [https://www.youtube.com/watch?v=MNCenWhzvG8](https://www.youtube.com/watch?v=MNCenWhzvG8)
+* [Q&A: Do you watch Attack on Titan?](../../transcriptions/yt-VThbgTR-16E.md) [https://www.youtube.com/watch?v=VThbgTR-16E](https://www.youtube.com/watch?v=VThbgTR-16E)
+* [Snutt & Jace Talk: Snutt's going on break](../../transcriptions/yt-rxjoR3HSayY.md) [https://www.youtube.com/watch?v=rxjoR3HSayY](https://www.youtube.com/watch?v=rxjoR3HSayY)
+* [Intro](../../transcriptions/yt-sD60FDv7a24.md) [https://www.youtube.com/watch?v=sD60FDv7a24](https://www.youtube.com/watch?v=sD60FDv7a24)
+
 ## November 8th, 2022 Livestream
 * [Intro & Lizard Doggo Stuffing Race](../../transcriptions/yt-a_cQjagsfOg.md) [https://www.youtube.com/watch?v=a_cQjagsfOg](https://www.youtube.com/watch?v=a_cQjagsfOg)
 

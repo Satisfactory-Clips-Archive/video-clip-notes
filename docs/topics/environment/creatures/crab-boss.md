@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Creatures](../../../topics/environment/creatures.md) > Crab Boss
 
+## November 22nd, 2022 Livestream
+* [Q&A: Is the Crab Boss from the E3 Trailer still coming?](../../../transcriptions/yt-AB_eO6X59N8.md) [https://www.youtube.com/watch?v=AB_eO6X59N8](https://www.youtube.com/watch?v=AB_eO6X59N8)
+
 ## October 18th, 2022 Livestream
 * [Q&A: Giant Crab, when?](../../../transcriptions/yt-GumR-JVKtL0.md) [https://www.youtube.com/watch?v=GumR-JVKtL0](https://www.youtube.com/watch?v=GumR-JVKtL0)
 * [Q&A: Question from Zago; Can you fit a Resource Pressuriser on Melk's back?](../../../transcriptions/yt-jSL6n_tP1GY.md) [https://www.youtube.com/watch?v=jSL6n_tP1GY](https://www.youtube.com/watch?v=jSL6n_tP1GY)

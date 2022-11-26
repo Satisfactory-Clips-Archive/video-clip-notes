@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Equipment](../../../topics/features/equipment.md) > Boombox
 
+## November 22nd, 2022 Livestream
+* [Q&A: Will there be a blank Tape to add your own music?](../../../transcriptions/yt-mN75Rl6Od_E.md) [https://www.youtube.com/watch?v=mN75Rl6Od_E](https://www.youtube.com/watch?v=mN75Rl6Od_E)
+
 ## October 25th, 2022 Livestream
 * [Q&A: More hidden music tapes?](../../../transcriptions/yt-Z5OU9uCTNC4.md) [https://www.youtube.com/watch?v=Z5OU9uCTNC4](https://www.youtube.com/watch?v=Z5OU9uCTNC4)
 * [Q&A: Can I get an air tag for my Boombox, I keep dropping it ?](../../../transcriptions/yt-jooIEmeyH-4.md) [https://www.youtube.com/watch?v=jooIEmeyH-4](https://www.youtube.com/watch?v=jooIEmeyH-4)

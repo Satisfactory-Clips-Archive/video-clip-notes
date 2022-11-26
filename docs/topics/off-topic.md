@@ -14,7 +14,9 @@ date: Last Modified
 * [Goat Simulator](../topics/off-topic/goat-simulator.md)
 * [I Love Strawberries](../topics/off-topic/i-love-strawberries.md)
 * [Infinifactory](../topics/off-topic/infinifactory.md)
+* [Monkey Island](../topics/off-topic/monkey-island.md)
 * [Portal](../topics/off-topic/portal.md)
+* [Runescape](../topics/off-topic/runescape.md)
 * [Sanctum](../topics/off-topic/sanctum.md)
 * [Songs of Conquest](../topics/off-topic/songs-of-conquest.md)
 * [Subnautica](../topics/off-topic/subnautica.md)
@@ -24,6 +26,9 @@ date: Last Modified
 * [The Legend of Zelda](../topics/off-topic/the-legend-of-zelda.md)
 * [The Lord of the Rings](../topics/off-topic/the-lord-of-the-rings.md)
 * [Valheim](../topics/off-topic/valheim.md)
+
+## November 22nd, 2022 Livestream
+* [Q&A: Do you watch Attack on Titan?](../transcriptions/yt-VThbgTR-16E.md) [https://www.youtube.com/watch?v=VThbgTR-16E](https://www.youtube.com/watch?v=VThbgTR-16E)
 
 ## November 8th, 2022 Livestream
 * [Q&A: What language do you program the game in?](../transcriptions/yt-77akCeJawrg.md) [https://www.youtube.com/watch?v=77akCeJawrg](https://www.youtube.com/watch?v=77akCeJawrg)

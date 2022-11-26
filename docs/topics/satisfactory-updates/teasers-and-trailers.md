@@ -15,7 +15,11 @@ date: Last Modified
 * [Update 5 Teasers](../../topics/satisfactory-updates/teasers-and-trailers/update-5-teasers.md)
 * [Update 6 Patch Notes Video](../../topics/satisfactory-updates/teasers-and-trailers/update-6-patch-notes-video.md)
 * [Update 6 Teasers](../../topics/satisfactory-updates/teasers-and-trailers/update-6-teasers.md)
+* [Update 7 Patch Notes Video](../../topics/satisfactory-updates/teasers-and-trailers/update-7-patch-notes-video.md)
 * [Update 7 Teasers](../../topics/satisfactory-updates/teasers-and-trailers/update-7-teasers.md)
+
+## November 22nd, 2022 Livestream
+* [Q&A: Is the Crab Boss from the E3 Trailer still coming?](../../transcriptions/yt-AB_eO6X59N8.md) [https://www.youtube.com/watch?v=AB_eO6X59N8](https://www.youtube.com/watch?v=AB_eO6X59N8)
 
 ## October 4th, 2022 Livestream
 * [Q&A: How is the Satisfactory anime coming along?](../../transcriptions/yt-XKDaGUtQnxs.md) [https://www.youtube.com/watch?v=XKDaGUtQnxs](https://www.youtube.com/watch?v=XKDaGUtQnxs)

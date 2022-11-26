@@ -7,6 +7,9 @@ date: Last Modified
 * [Cheatcrete](../../../topics/features/buildables/foundations/cheatcrete.md)
 * [Foundation Stencils](../../../topics/features/buildables/foundations/stencils.md)
 
+## November 22nd, 2022 Livestream
+* [Q&A: Tool to help us make smooth curves?](../../../transcriptions/yt-zTXNch-QKHY.md) [https://www.youtube.com/watch?v=zTXNch-QKHY](https://www.youtube.com/watch?v=zTXNch-QKHY)
+
 ## November 11th, 2022 Video
 * [Preparing an area for the Manifold Blueprint](../../../transcriptions/yt-9KBQyjy-a6g,517.8166632027778,557.0231333333334.md) [https://youtube.com/clip/UgkxNq08JfMPJ3khI7Eed9ZEkKPvlQwLCj7C](https://youtube.com/clip/UgkxNq08JfMPJ3khI7Eed9ZEkKPvlQwLCj7C)
 

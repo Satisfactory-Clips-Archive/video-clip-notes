@@ -10,6 +10,8 @@ topics:
 # [February 22nd, 2022 Livestream](../2022-02-22.md)
 ## Q&A: What do you think of a Hard Mode with production per minute requirements?
 https://www.youtube.com/watch?v=NyWrFTRCXJA
+This question was possibly duplicated with a more recent answer: [November 22nd, 2022 Livestream Q&A: Possibility of switching to a Game Mode where you had an item-per-minute requirement?](./yt-av3ed3zOTG4.md) [https://www.youtube.com/watch?v=av3ed3zOTG4](https://www.youtube.com/watch?v=av3ed3zOTG4)
+
 
 ### Topics
 * [Features > Buildings > Space Elevator](../topics/features/buildings/space-elevator.md)

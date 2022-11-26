@@ -8,6 +8,8 @@ topics:
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Q&A: Any update on Update 8 release date?
 https://www.youtube.com/watch?v=wv1Wugj_4TI
+This question was possibly duplicated with a more recent answer: [November 22nd, 2022 Livestream Q&A: Update 8, when?](./yt-ugS5beaw77Y.md) [https://www.youtube.com/watch?v=ugS5beaw77Y](https://www.youtube.com/watch?v=ugS5beaw77Y)
+
 
 ### Topics
 * [Satisfactory Updates > Speculative > Satisfactory Update 8](../topics/satisfactory-updates/speculative/satisfactory-update-8.md)

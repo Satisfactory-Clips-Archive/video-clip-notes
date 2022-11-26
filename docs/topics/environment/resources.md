@@ -14,6 +14,10 @@ date: Last Modified
 * [Steel](../../topics/environment/resources/steel.md)
 * [Water](../../topics/environment/resources/water.md)
 
+## November 22nd, 2022 Livestream
+* [Q&A: Possibility of switching to a Game Mode where you had an item-per-minute requirement?](../../transcriptions/yt-av3ed3zOTG4.md) [https://www.youtube.com/watch?v=av3ed3zOTG4](https://www.youtube.com/watch?v=av3ed3zOTG4)
+* [Q&A: How about Skateboards?](../../transcriptions/yt-mS-ndNmWzxE.md) [https://www.youtube.com/watch?v=mS-ndNmWzxE](https://www.youtube.com/watch?v=mS-ndNmWzxE)
+
 ## November 15th, 2022 Livestream
 * [Q&A: How much do Blueprints cost?](../../transcriptions/yt-CREPrQ23Dt4,3351.962562,3409.305696.md) [https://youtube.com/clip/UgkxWvMy26ABuzyT-Rj5sDczN-IFFfhjul0X](https://youtube.com/clip/UgkxWvMy26ABuzyT-Rj5sDczN-IFFfhjul0X)
 * [Q&A: What do you need to build Blueprints?](../../transcriptions/yt-CREPrQ23Dt4,3971.563964,4008.838937.md) [https://youtube.com/clip/UgkxIOrnnpqnBec6Zk_5KEZ34-mR9BN-LWYB](https://youtube.com/clip/UgkxIOrnnpqnBec6Zk_5KEZ34-mR9BN-LWYB)

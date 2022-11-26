@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Flannel
 
+## November 22nd, 2022 Livestream
+* [Q&A: Flannel Pioneer skin?](../../transcriptions/yt-ZJMVRLBtxOE.md) [https://www.youtube.com/watch?v=ZJMVRLBtxOE](https://www.youtube.com/watch?v=ZJMVRLBtxOE)
+
 ## August 23rd, 2022 Livestream
 * [Community FYI: +1 for Flannel](../../transcriptions/yt-H0-9KWx9ZVk.md) [https://www.youtube.com/watch?v=H0-9KWx9ZVk](https://www.youtube.com/watch?v=H0-9KWx9ZVk)
 

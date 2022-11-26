@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Resources](../../../topics/environment/resources.md) > Somersloop
 
+## November 22nd, 2022 Livestream
+* [Q&A: When will you be tackling the Somersloop & S.A.M. stuff?](../../../transcriptions/yt-t2Jnwla58bw.md) [https://www.youtube.com/watch?v=t2Jnwla58bw](https://www.youtube.com/watch?v=t2Jnwla58bw)
+
 ## November 8th, 2022 Livestream
 * [Q&A: ADA talks when I come across S.A.M. Ore & the WIP artefacts, should those lines be muted?](../../../transcriptions/yt-0iChXeNjbTg.md) [https://www.youtube.com/watch?v=0iChXeNjbTg](https://www.youtube.com/watch?v=0iChXeNjbTg)
 

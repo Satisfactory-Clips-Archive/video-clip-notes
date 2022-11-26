@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > The HUB
 
+## November 22nd, 2022 Livestream
+* [Community FYI: Jace's racing game should be in the HUB](../../../transcriptions/yt-XjzgCBFQUI4.md) [https://www.youtube.com/watch?v=XjzgCBFQUI4](https://www.youtube.com/watch?v=XjzgCBFQUI4)
+
 ## October 18th, 2022 Livestream
 * [Q&A: Stationary 3d Printer in the HUB where the MAM used to be?](../../../transcriptions/yt-57kyBmolr1A.md) [https://www.youtube.com/watch?v=57kyBmolr1A](https://www.youtube.com/watch?v=57kyBmolr1A)
 * [Snutt Talk: Responding to Twitch chat's obsession with toilets](../../../transcriptions/yt-ww-xu_ttMCU.md) [https://www.youtube.com/watch?v=ww-xu_ttMCU](https://www.youtube.com/watch?v=ww-xu_ttMCU)

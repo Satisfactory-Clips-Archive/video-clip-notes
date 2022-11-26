@@ -8,6 +8,9 @@ date: Last Modified
 * [Quick Switch](../../topics/features/build-modes/quick-switch.md)
 * [Zooping](../../topics/features/build-modes/zooping.md)
 
+## November 22nd, 2022 Livestream
+* [Q&A: Add a mode for Beams to build in a curve shape?](../../transcriptions/yt-azIwvaNEMK4.md) [https://www.youtube.com/watch?v=azIwvaNEMK4](https://www.youtube.com/watch?v=azIwvaNEMK4)
+
 ## November 15th, 2022 Livestream
 * [Q&A: Can you get the eyedropper to function?](../../transcriptions/yt-CREPrQ23Dt4,8188.264471,8194.121731.md) [https://youtube.com/clip/UgkxWjnV29TsgSydsc1P4kGNbTerHaPIhytb](https://youtube.com/clip/UgkxWjnV29TsgSydsc1P4kGNbTerHaPIhytb)
 

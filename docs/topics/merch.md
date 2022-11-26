@@ -7,6 +7,10 @@ date: Last Modified
 * [EU Merch Store](../topics/merch/eu-merch-store.md)
 * [Merch Prototypes](../topics/merch/merch-prototypes.md)
 
+## November 22nd, 2022 Livestream
+* [Q&A: I like your hoodie Jace, where's that from?](../transcriptions/yt-15P2i-QqVqg.md) [https://www.youtube.com/watch?v=15P2i-QqVqg](https://www.youtube.com/watch?v=15P2i-QqVqg)
+* [Intro](../transcriptions/yt-sD60FDv7a24.md) [https://www.youtube.com/watch?v=sD60FDv7a24](https://www.youtube.com/watch?v=sD60FDv7a24)
+
 ## November 15th, 2022 Livestream
 * [Merch](../transcriptions/yt-CREPrQ23Dt4,1018.952724,1468.707861.md) [https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=1018&end=1469](https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=1018&end=1469)
 

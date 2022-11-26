@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Crafting](../../../topics/features/crafting.md) > Recipes
 * [Alternate Recipes](../../../topics/features/crafting/recipes/alternate-recipes.md)
 
+## November 22nd, 2022 Livestream
+* [Q&A: Are Recipe balance changes coming before 1.0?](../../../transcriptions/yt-TJd56wLdNBc.md) [https://www.youtube.com/watch?v=TJd56wLdNBc](https://www.youtube.com/watch?v=TJd56wLdNBc)
+
 ## November 11th, 2022 Video
 * [Setting up an Iron Rod manifold](../../../transcriptions/yt-9KBQyjy-a6g,284.91796666666664,354.9546.md) [https://youtube.com/embed/9KBQyjy-a6g?autoplay=1&start=284&end=355](https://youtube.com/embed/9KBQyjy-a6g?autoplay=1&start=284&end=355)
 * [Plan ahead for expansion](../../../transcriptions/yt-9KBQyjy-a6g,354.9879666666667,375.208167.md) [https://youtube.com/clip/UgkxSFjWY6hvm7RXh7y8ZvY8DnxpVgPYYAft](https://youtube.com/clip/UgkxSFjWY6hvm7RXh7y8ZvY8DnxpVgPYYAft)

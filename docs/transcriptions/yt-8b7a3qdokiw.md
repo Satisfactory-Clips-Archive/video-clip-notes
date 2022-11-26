@@ -10,7 +10,7 @@ topics:
 # [September 27th, 2022 Livestream](../2022-09-27.md)
 ## Q&A: Any news about the Mk.5 belt vs. the Mk.3 Miner?
 https://www.youtube.com/watch?v=8b7a3qdokiw
-This question was possibly duplicated with a more recent answer: [October 25th, 2022 Livestream Q&A: Mk.6 Belt or second output for Mk.3 Miners?](./yt-20JxwoTTwtQ.md) [https://www.youtube.com/watch?v=20JxwoTTwtQ](https://www.youtube.com/watch?v=20JxwoTTwtQ)
+This question was possibly duplicated with a more recent answer: [November 22nd, 2022 Livestream Q&A: Has there been any movement on the Mk.3 Miner having an extra output?](./yt-2wzjT2ZQc6c.md) [https://www.youtube.com/watch?v=2wzjT2ZQc6c](https://www.youtube.com/watch?v=2wzjT2ZQc6c)
 
 
 ### Topics

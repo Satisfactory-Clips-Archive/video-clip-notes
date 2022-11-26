@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Off-Topic](../../../topics/off-topic.md) > [Food & Drink](../../../topics/off-topic/food-and-drink.md) > Coffee
 
+## November 22nd, 2022 Livestream
+* [Q&A: Coffee or vending machine that uses Tickets?](../../../transcriptions/yt-owW2wvge8dw.md) [https://www.youtube.com/watch?v=owW2wvge8dw](https://www.youtube.com/watch?v=owW2wvge8dw)
+
 ## March 8th, 2022 Livestream
 * [Q&A: Can we get a Coffee Machine?](../../../transcriptions/yt-_LWGvvaXsBI.md) [https://www.youtube.com/watch?v=_LWGvvaXsBI](https://www.youtube.com/watch?v=_LWGvvaXsBI)
 

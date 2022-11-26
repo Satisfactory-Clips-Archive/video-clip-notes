@@ -5,6 +5,7 @@ layout: transcript
 topics:
     - "coffee-stainers"
     - "coffee-stainers/jace"
+    - "off-topic/runescape"
 ---
 # [November 5th, 2021 Satisfactory Update 5 Patch Notes vid commentary](../2021-11-05.md)
 ## Community FYI: Jace, you should do group iron man with some Coffee Stainers
@@ -13,6 +14,7 @@ https://www.youtube.com/watch?v=6ln9Rgr3MI0
 ### Topics
 * [Coffee Stainers](../topics/coffee-stainers.md)
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
+* [Off-Topic > Runescape](../topics/off-topic/runescape.md)
 
 ### Transcript
 

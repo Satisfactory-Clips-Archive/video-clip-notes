@@ -10,6 +10,13 @@ date: Last Modified
 * [Juice Velvet](../../topics/coffee-stainers/jace/juice-velvet.md)
 * [Robo Jace](../../topics/coffee-stainers/jace/robo-jace.md)
 
+## November 22nd, 2022 Livestream
+* [Q&A: I like your hoodie Jace, where's that from?](../../transcriptions/yt-15P2i-QqVqg.md) [https://www.youtube.com/watch?v=15P2i-QqVqg](https://www.youtube.com/watch?v=15P2i-QqVqg)
+* [Snutt & Jace Talk: Existential trolling, uncut](../../transcriptions/yt-MNCenWhzvG8.md) [https://www.youtube.com/watch?v=MNCenWhzvG8](https://www.youtube.com/watch?v=MNCenWhzvG8)
+* [Q&A: Do you watch Attack on Titan?](../../transcriptions/yt-VThbgTR-16E.md) [https://www.youtube.com/watch?v=VThbgTR-16E](https://www.youtube.com/watch?v=VThbgTR-16E)
+* [Community FYI: Jace's racing game should be in the HUB](../../transcriptions/yt-XjzgCBFQUI4.md) [https://www.youtube.com/watch?v=XjzgCBFQUI4](https://www.youtube.com/watch?v=XjzgCBFQUI4)
+* [Intro](../../transcriptions/yt-sD60FDv7a24.md) [https://www.youtube.com/watch?v=sD60FDv7a24](https://www.youtube.com/watch?v=sD60FDv7a24)
+
 ## November 15th, 2022 Livestream
 * [Q&A: Where's Jace?](../../transcriptions/yt-CREPrQ23Dt4,8327.278515102387,8331.426238.md) [https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=8327&end=8332](https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=8327&end=8332)
 

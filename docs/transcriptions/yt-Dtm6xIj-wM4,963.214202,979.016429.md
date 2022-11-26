@@ -9,6 +9,8 @@ topics:
 # [February 6th, 2019 Livestream](../2019-02-06.md)
 ## Q&A: Can we get your shirts in-game?
 https://youtube.com/clip/UgyaDf7PYKacIuF2Knp4AaABCQ
+This question was possibly duplicated with a more recent answer: [November 22nd, 2022 Livestream Q&A: Flannel Pioneer skin?](./yt-ZJMVRLBtxOE.md) [https://www.youtube.com/watch?v=ZJMVRLBtxOE](https://www.youtube.com/watch?v=ZJMVRLBtxOE)
+
 
 ### Topics
 * [Coffee Stainers > Flannel](../topics/coffee-stainers/flannel.md)

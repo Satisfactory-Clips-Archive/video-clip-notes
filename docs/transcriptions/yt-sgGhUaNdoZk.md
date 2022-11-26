@@ -10,7 +10,7 @@ topics:
 # [December 14th, 2021 Livestream](../2021-12-14.md)
 ## Q&A: Five-input machine that makes Coffee?
 https://www.youtube.com/watch?v=sgGhUaNdoZk
-This question was possibly duplicated with a more recent answer: [March 8th, 2022 Livestream Q&A: Can we get a Coffee Machine?](./yt-_LWGvvaXsBI.md) [https://www.youtube.com/watch?v=_LWGvvaXsBI](https://www.youtube.com/watch?v=_LWGvvaXsBI)
+This question was possibly duplicated with a more recent answer: [November 22nd, 2022 Livestream Q&A: Coffee or vending machine that uses Tickets?](./yt-owW2wvge8dw.md) [https://www.youtube.com/watch?v=owW2wvge8dw](https://www.youtube.com/watch?v=owW2wvge8dw)
 
 
 ### Topics

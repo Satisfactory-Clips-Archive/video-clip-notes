@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Goat Simulator
 
+## November 22nd, 2022 Livestream
+* [Q&A: Can we get Doggo Simulator?](../../transcriptions/yt-2RN5zaBq7MU.md) [https://www.youtube.com/watch?v=2RN5zaBq7MU](https://www.youtube.com/watch?v=2RN5zaBq7MU)
+
 ## October 25th, 2022 Livestream
 * [Q&A: Goat Sim went from 1 to 3?](../../transcriptions/yt-xYUcd4mhlm0.md) [https://www.youtube.com/watch?v=xYUcd4mhlm0](https://www.youtube.com/watch?v=xYUcd4mhlm0)
 

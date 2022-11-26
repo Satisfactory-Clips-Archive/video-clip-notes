@@ -23,6 +23,9 @@ date: Last Modified
 * [Xeno-Zapper](../../topics/features/equipment/xeno-zapper.md)
 * [Zip Lines](../../topics/features/equipment/zip-lines.md)
 
+## November 22nd, 2022 Livestream
+* [Q&A: Lizard Doggo search option for Object Scanner?](../../transcriptions/yt-0_TGn4Yaqrg.md) [https://www.youtube.com/watch?v=0_TGn4Yaqrg](https://www.youtube.com/watch?v=0_TGn4Yaqrg)
+
 ## November 8th, 2022 Livestream
 * [Community FYI: If you jump into a Hyper Tube with a Flashlight on it turns off](../../transcriptions/yt-STVeVmziNsM.md) [https://www.youtube.com/watch?v=STVeVmziNsM](https://www.youtube.com/watch?v=STVeVmziNsM)
 

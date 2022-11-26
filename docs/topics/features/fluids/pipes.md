@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Fluids](../../../topics/features/fluids.md) > Pipes
 
+## November 22nd, 2022 Livestream
+* [Q&A: Can Blueprints get the option to auto-connect Power/Pipes/Belts to adjacent stuff?](../../../transcriptions/yt-Olr_JXEwT3w.md) [https://www.youtube.com/watch?v=Olr_JXEwT3w](https://www.youtube.com/watch?v=Olr_JXEwT3w)
+* [Q&A: Could you implement the ability to see liquid in the Pipes?](../../../transcriptions/yt-ZS3o4qfgHsc.md) [https://www.youtube.com/watch?v=ZS3o4qfgHsc](https://www.youtube.com/watch?v=ZS3o4qfgHsc)
+* [Q&A: You said we're never getting Pipes yet we got Pipes. When are we getting Base Defense?](../../../transcriptions/yt-nYL4xlSiPpU.md) [https://www.youtube.com/watch?v=nYL4xlSiPpU](https://www.youtube.com/watch?v=nYL4xlSiPpU)
+
 ## November 8th, 2022 Livestream
 * [Q&A: Will there be some tutorials for Pipes?](../../../transcriptions/yt-l26X2kKCOhI.md) [https://www.youtube.com/watch?v=l26X2kKCOhI](https://www.youtube.com/watch?v=l26X2kKCOhI)
 

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > Overclocking & Underclocking
 
+## November 22nd, 2022 Livestream
+* [Q&A: Has there been any movement on the Mk.3 Miner having an extra output?](../../../transcriptions/yt-2wzjT2ZQc6c.md) [https://www.youtube.com/watch?v=2wzjT2ZQc6c](https://www.youtube.com/watch?v=2wzjT2ZQc6c)
+
 ## November 15th, 2022 Livestream
 * [Dylan, Mark, and Snutt Talk: Changing the Overclocking exponent](../../../transcriptions/yt-CREPrQ23Dt4,5835.38837,6021.4571249125.md) [https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=5835&end=6022](https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=5835&end=6022)
 

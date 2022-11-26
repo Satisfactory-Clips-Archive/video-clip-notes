@@ -10,6 +10,8 @@ topics:
 # [January 18th, 2022 Livestream](../2022-01-18.md)
 ## Q&A: Speaking of Lizzard Doggo, when are we going to get Lizard Doggo Simulator?
 https://www.youtube.com/watch?v=-_QFGvE0h0I
+This question was possibly duplicated with a more recent answer: [November 22nd, 2022 Livestream Q&A: Can we get Doggo Simulator?](./yt-2RN5zaBq7MU.md) [https://www.youtube.com/watch?v=2RN5zaBq7MU](https://www.youtube.com/watch?v=2RN5zaBq7MU)
+
 
 ### Topics
 * [Environment > Creatures > Lizard Doggo](../topics/environment/creatures/lizard-doggo.md)

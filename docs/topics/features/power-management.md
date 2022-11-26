@@ -10,6 +10,11 @@ date: Last Modified
 * [Power Storage](../../topics/features/power-management/power-storage.md)
 * [Power Switch](../../topics/features/power-management/power-switch.md)
 
+## November 22nd, 2022 Livestream
+* [Q&A: Are there any plans to add Designers together to make bigger Blueprints at a Power cost?](../../transcriptions/yt-0vXC2pZcyWA.md) [https://www.youtube.com/watch?v=0vXC2pZcyWA](https://www.youtube.com/watch?v=0vXC2pZcyWA)
+* [Q&A: Thoughts on colouring Power Cables or Wall attachments?](../../transcriptions/yt-C85iytGFfuY.md) [https://www.youtube.com/watch?v=C85iytGFfuY](https://www.youtube.com/watch?v=C85iytGFfuY)
+* [Q&A: Can Blueprints get the option to auto-connect Power/Pipes/Belts to adjacent stuff?](../../transcriptions/yt-Olr_JXEwT3w.md) [https://www.youtube.com/watch?v=Olr_JXEwT3w](https://www.youtube.com/watch?v=Olr_JXEwT3w)
+
 ## November 11th, 2022 Video
 * [Power](../../transcriptions/yt-9KBQyjy-a6g,375.24153333333334,396.5962.md) [https://youtube.com/clip/UgkxhZIZ3nfu0a2imIa7Wmifp1YafYiYzroo](https://youtube.com/clip/UgkxhZIZ3nfu0a2imIa7Wmifp1YafYiYzroo)
 * [Integrating the freshly-applied Blueprint](../../transcriptions/yt-9KBQyjy-a6g,630.2296,653.4861666666667.md) [https://youtube.com/clip/UgkxHtSFw4VDMnQknDAt_Lg7-hC6RAGlLZ13](https://youtube.com/clip/UgkxHtSFw4VDMnQknDAt_Lg7-hC6RAGlLZ13)

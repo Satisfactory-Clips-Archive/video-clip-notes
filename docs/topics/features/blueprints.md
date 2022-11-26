@@ -5,6 +5,14 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Features](../../topics/features.md) > Blueprints
 
+## November 22nd, 2022 Livestream
+* [Q&A: Is it possible to add a mirror solution to placing Blueprints?](../../transcriptions/yt-4MbbOQb5c1Y.md) [https://www.youtube.com/watch?v=4MbbOQb5c1Y](https://www.youtube.com/watch?v=4MbbOQb5c1Y)
+* [Q&A: Can Blueprints get the option to auto-connect Power/Pipes/Belts to adjacent stuff?](../../transcriptions/yt-Olr_JXEwT3w.md) [https://www.youtube.com/watch?v=Olr_JXEwT3w](https://www.youtube.com/watch?v=Olr_JXEwT3w)
+* [Q&A: Will Machines snap to existing Belts?](../../transcriptions/yt-h21VSwYgM-E.md) [https://www.youtube.com/watch?v=h21VSwYgM-E](https://www.youtube.com/watch?v=h21VSwYgM-E)
+* [State of Dev](../../transcriptions/yt-ifcJGbImr10.md) [https://www.youtube.com/watch?v=ifcJGbImr10](https://www.youtube.com/watch?v=ifcJGbImr10)
+* [Q&A: You said we're never getting Pipes yet we got Pipes. When are we getting Base Defense?](../../transcriptions/yt-nYL4xlSiPpU.md) [https://www.youtube.com/watch?v=nYL4xlSiPpU](https://www.youtube.com/watch?v=nYL4xlSiPpU)
+* [Q&A: Will there be a feature to delete a whole Blueprint all at once?](../../transcriptions/yt-vqb8dmFFFQQ.md) [https://www.youtube.com/watch?v=vqb8dmFFFQQ](https://www.youtube.com/watch?v=vqb8dmFFFQQ)
+
 ## November 15th, 2022 Livestream
 * [Q&A: What Tier are Blueprints unlocked in?](../../transcriptions/yt-CREPrQ23Dt4,3326.131639,3351.962562.md) [https://youtube.com/clip/UgkxUHkKTprMII-CnG_4VVaIvumPaff06Gs2](https://youtube.com/clip/UgkxUHkKTprMII-CnG_4VVaIvumPaff06Gs2)
 * [Q&A: How much do Blueprints cost?](../../transcriptions/yt-CREPrQ23Dt4,3351.962562,3409.305696.md) [https://youtube.com/clip/UgkxWvMy26ABuzyT-Rj5sDczN-IFFfhjul0X](https://youtube.com/clip/UgkxWvMy26ABuzyT-Rj5sDczN-IFFfhjul0X)

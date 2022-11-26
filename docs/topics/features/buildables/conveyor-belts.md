@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildables](../../../topics/features/buildables.md) > Conveyor Belts
 
+## November 22nd, 2022 Livestream
+* [Q&A: Has there been any movement on the Mk.3 Miner having an extra output?](../../../transcriptions/yt-2wzjT2ZQc6c.md) [https://www.youtube.com/watch?v=2wzjT2ZQc6c](https://www.youtube.com/watch?v=2wzjT2ZQc6c)
+* [Q&A: Can Blueprints get the option to auto-connect Power/Pipes/Belts to adjacent stuff?](../../../transcriptions/yt-Olr_JXEwT3w.md) [https://www.youtube.com/watch?v=Olr_JXEwT3w](https://www.youtube.com/watch?v=Olr_JXEwT3w)
+* [Q&A: Will Machines snap to existing Belts?](../../../transcriptions/yt-h21VSwYgM-E.md) [https://www.youtube.com/watch?v=h21VSwYgM-E](https://www.youtube.com/watch?v=h21VSwYgM-E)
+
 ## November 15th, 2022 Livestream
 * [Conveyor Pole Improvements](../../../transcriptions/yt-CREPrQ23Dt4,5191.075903877209,5349.792123.md) [https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=5191&end=5350](https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=5191&end=5350)
 * [Dylan, Mark, and Snutt Talk: Connecting the Horizontal Belt Lifts](../../../transcriptions/yt-CREPrQ23Dt4,5677.699392,5814.22606.md) [https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=5677&end=5815](https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=5677&end=5815)

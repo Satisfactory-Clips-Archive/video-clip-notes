@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Equipment](../../../topics/features/equipment.md) > Zip Lines
 
+## November 22nd, 2022 Livestream
+* [Q&A: Can the Power Lines be dangled from a Power Pole rather than through the middle of it?](../../../transcriptions/yt-XIxZfcnXlUo.md) [https://www.youtube.com/watch?v=XIxZfcnXlUo](https://www.youtube.com/watch?v=XIxZfcnXlUo)
+
 ## November 15th, 2022 Livestream
 * [Dylan, Mark, and Snutt Talk: Zipline Sprint](../../../transcriptions/yt-CREPrQ23Dt4,7448.821249,8004.351560756758.md) [https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=7448&end=8005](https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=7448&end=8005)
 

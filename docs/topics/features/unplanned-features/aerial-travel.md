@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Unplanned Features](../../../topics/features/unplanned-features.md) > Aerial Travel
 
+## November 22nd, 2022 Livestream
+* [Q&A: Passenger drone for aerial transportation?](../../../transcriptions/yt-gaW5dU_ibkY.md) [https://www.youtube.com/watch?v=gaW5dU_ibkY](https://www.youtube.com/watch?v=gaW5dU_ibkY)
+
 ## September 6th, 2022 Livestream
 * [Q&A: Helicopter / Airplanes?](../../../transcriptions/yt-8KjhNjkoO7g.md) [https://www.youtube.com/watch?v=8KjhNjkoO7g](https://www.youtube.com/watch?v=8KjhNjkoO7g)
 

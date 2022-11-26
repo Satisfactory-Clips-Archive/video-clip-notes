@@ -1,8 +1,13 @@
 ---
 title: "Blueprint Designer"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiErMbbLL3R98Zi20naPbgCUT
 date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > Blueprint Designer
+
+## November 22nd, 2022 Livestream
+* [Q&A: Are there any plans to add Designers together to make bigger Blueprints at a Power cost?](../../../transcriptions/yt-0vXC2pZcyWA.md) [https://www.youtube.com/watch?v=0vXC2pZcyWA](https://www.youtube.com/watch?v=0vXC2pZcyWA)
+* [Q&A: Would it be possible to have a smaller Blueprint Designer sooner and a larger one later?](../../../transcriptions/yt-Hndilx24J9o.md) [https://www.youtube.com/watch?v=Hndilx24J9o](https://www.youtube.com/watch?v=Hndilx24J9o)
 
 ## November 15th, 2022 Livestream
 * [Q&A: What Tier are Blueprints unlocked in?](../../../transcriptions/yt-CREPrQ23Dt4,3326.131639,3351.962562.md) [https://youtube.com/clip/UgkxUHkKTprMII-CnG_4VVaIvumPaff06Gs2](https://youtube.com/clip/UgkxUHkKTprMII-CnG_4VVaIvumPaff06Gs2)

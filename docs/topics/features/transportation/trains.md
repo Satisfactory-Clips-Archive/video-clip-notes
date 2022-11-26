@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > Transportation > Trains
 * [Train Signals](../../../topics/features/transportation/trains/train-signals.md)
 
+## November 22nd, 2022 Livestream
+* [Q&A: Is there a way to turn off or on Train headlights?](../../../transcriptions/yt-7FcFaZrlv2c.md) [https://www.youtube.com/watch?v=7FcFaZrlv2c](https://www.youtube.com/watch?v=7FcFaZrlv2c)
+
 ## November 15th, 2022 Livestream
 * [Q&A: Train lanes, no power?](../../../transcriptions/yt-CREPrQ23Dt4,6197.319266,6227.943388758088.md) [https://youtube.com/clip/UgkxHeVzr89h08fdBa2q7qnkuVsX4ZmNu0yj](https://youtube.com/clip/UgkxHeVzr89h08fdBa2q7qnkuVsX4ZmNu0yj)
 

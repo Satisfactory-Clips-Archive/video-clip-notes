@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Features](../../topics/features.md) > Pioneer
 
+## November 22nd, 2022 Livestream
+* [Q&A: Can we get more Inventory and Hand Slots for the Pioneer?](../../transcriptions/yt-yRK6QfAO83w.md) [https://www.youtube.com/watch?v=yRK6QfAO83w](https://www.youtube.com/watch?v=yRK6QfAO83w)
+
 ## October 25th, 2022 Livestream
 * [Q&A: Zombie Pioneer bug fixed yet?](../../transcriptions/yt-IPjEh69Yaw8.md) [https://www.youtube.com/watch?v=IPjEh69Yaw8](https://www.youtube.com/watch?v=IPjEh69Yaw8)
 * [Q&A: Blade Runners while going in HyperTube bug getting fixed?](../../transcriptions/yt-Ctu7jicDo5c.md) [https://www.youtube.com/watch?v=Ctu7jicDo5c](https://www.youtube.com/watch?v=Ctu7jicDo5c)

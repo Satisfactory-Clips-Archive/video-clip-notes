@@ -10,7 +10,7 @@ topics:
 # [October 27th, 2020 Livestream](../2020-10-27.md)
 ## Q&A: Will we see performance improvements?
 https://www.youtube.com/watch?v=TbPMkoLwW4U
-This question was possibly duplicated with a more recent answer: [August 30th, 2022 Livestream Q&A: How much room for improvement do you think you still have for performance?](./yt-moVIableguI.md) [https://www.youtube.com/watch?v=moVIableguI](https://www.youtube.com/watch?v=moVIableguI)
+This question was possibly duplicated with a more recent answer: [November 22nd, 2022 Livestream Q&A: Will the game's performance be improved?](./yt-pBRKWVTG_ws.md) [https://www.youtube.com/watch?v=pBRKWVTG_ws](https://www.youtube.com/watch?v=pBRKWVTG_ws)
 
 
 ### Topics

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > QA Site
 
+## November 22nd, 2022 Livestream
+* [Q&A: Can we get an option to change our email on the QA Site?](../transcriptions/yt-ldcTe3iKoLI.md) [https://www.youtube.com/watch?v=ldcTe3iKoLI](https://www.youtube.com/watch?v=ldcTe3iKoLI)
+
 ## October 4th, 2022 Livestream
 * [State of Dev](../transcriptions/yt-dniAHWqQ4FI.md) [https://www.youtube.com/watch?v=dniAHWqQ4FI](https://www.youtube.com/watch?v=dniAHWqQ4FI)
 

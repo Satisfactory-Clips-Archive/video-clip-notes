@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Off-Topic](../../../topics/off-topic.md) > [Food & Drink](../../../topics/off-topic/food-and-drink.md) > Milk
 
+## November 22nd, 2022 Livestream
+* [Q&A: Milk slider for the lactose intolerant?](../../../transcriptions/yt--cBiDakky1g.md) [https://www.youtube.com/watch?v=-cBiDakky1g](https://www.youtube.com/watch?v=-cBiDakky1g)
+
 ## July 6th, 2021 Livestream
 * [Q&A: What did Snutt have for breakfast?](../../../transcriptions/yt-6nEbRCnR4yc.md) [https://www.youtube.com/watch?v=6nEbRCnR4yc](https://www.youtube.com/watch?v=6nEbRCnR4yc)
 * [Community FYI: Might as well have Milk on your Toast if you're having it warm](../../../transcriptions/yt-8jIO5NsnQc4.md) [https://www.youtube.com/watch?v=8jIO5NsnQc4](https://www.youtube.com/watch?v=8jIO5NsnQc4)

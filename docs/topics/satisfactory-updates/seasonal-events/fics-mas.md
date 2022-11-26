@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Seasonal Events](../../../topics/satisfactory-updates/seasonal-events.md) > FICS⁕MAS
 
+## November 22nd, 2022 Livestream
+* [State of Dev](../../../transcriptions/yt-ifcJGbImr10.md) [https://www.youtube.com/watch?v=ifcJGbImr10](https://www.youtube.com/watch?v=ifcJGbImr10)
+
 ## November 15th, 2022 Livestream
 * [Dylan, Mark, and Snutt Talk: FICSMAS 2022](../../../transcriptions/yt-CREPrQ23Dt4,6714.312943,6784.186237.md) [https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=6714&end=6785](https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=6714&end=6785)
 

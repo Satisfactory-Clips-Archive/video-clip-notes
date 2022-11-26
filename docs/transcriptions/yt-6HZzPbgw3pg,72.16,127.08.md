@@ -5,6 +5,7 @@ layout: transcript
 topics:
     - "coffee-stainers/jace"
     - "off-topic/food-and-drink/pizza"
+    - "off-topic/runescape"
 ---
 # [November 17th, 2017 Introduction](../2017-11-17.md)
 ## How can we be friends if you know nothing about me?
@@ -13,6 +14,7 @@ https://youtube.com/clip/UgkxKcfvUv6G6SdsBhbUWsjlWpYkqpVmkquv
 ### Topics
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
 * [Off-Topic > Food & Drink > Pizza](../topics/off-topic/food-and-drink/pizza.md)
+* [Off-Topic > Runescape](../topics/off-topic/runescape.md)
 
 ### Transcript
 

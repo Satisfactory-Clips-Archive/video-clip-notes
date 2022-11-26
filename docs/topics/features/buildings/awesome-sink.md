@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > AWESOME Sink
 
+## November 22nd, 2022 Livestream
+* [Q&A: Coffee or vending machine that uses Tickets?](../../../transcriptions/yt-owW2wvge8dw.md) [https://www.youtube.com/watch?v=owW2wvge8dw](https://www.youtube.com/watch?v=owW2wvge8dw)
+
 ## November 15th, 2022 Livestream
 * [Dylan, Mark, and Snutt Tallk: Alien DNA Capsules](../../../transcriptions/yt-CREPrQ23Dt4,6942.736332,7305.166556.md) [https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=6942&end=7306](https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=6942&end=7306)
 
