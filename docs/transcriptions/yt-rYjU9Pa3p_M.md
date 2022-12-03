@@ -8,7 +8,7 @@ topics:
 # [April 27th, 2021 Livestream](../2021-04-27.md)
 ## Q&A: PvP?
 https://www.youtube.com/watch?v=rYjU9Pa3p_M
-This question was possibly duplicated with a more recent answer: [June 1st, 2021 Livestream Q&A: Will Satisfactory have PvP?](./yt-yktQGSMqHyo.md) [https://www.youtube.com/watch?v=yktQGSMqHyo](https://www.youtube.com/watch?v=yktQGSMqHyo)
+This question was possibly duplicated with a more recent answer: [November 29th, 2022 Livestream Q&A: Are you ever adding PvP?](./yt-qpRyAZihEEA.md) [https://www.youtube.com/watch?v=qpRyAZihEEA](https://www.youtube.com/watch?v=qpRyAZihEEA)
 
 
 ### Topics

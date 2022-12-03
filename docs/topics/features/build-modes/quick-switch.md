@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Build Modes](../../../topics/features/build-modes.md) > Quick Switch
 
+## November 29th, 2022 Livestream
+* [Q&A: Can we get a quick-switch between Blueprints of the same sub-category?](../../../transcriptions/yt-JFzwIKB0tmE.md) [https://www.youtube.com/watch?v=JFzwIKB0tmE](https://www.youtube.com/watch?v=JFzwIKB0tmE)
+
 ## November 12th, 2021 Video
 * Snutt Talk: Quick Switching [https://youtube.com/clip/UgkxmGWwvlZ15Vmv2e8Az3y4EINRTnq5eFSU](https://youtube.com/clip/UgkxmGWwvlZ15Vmv2e8Az3y4EINRTnq5eFSU)
 

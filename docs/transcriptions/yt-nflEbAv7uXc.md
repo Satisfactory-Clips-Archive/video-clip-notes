@@ -8,6 +8,8 @@ topics:
 # [August 10th, 2021 Livestream](../2021-08-10.md)
 ## Q&A: Are we going to be able to make Lizard Doggos sit so they don't constantly follow us?
 https://www.youtube.com/watch?v=nflEbAv7uXc
+This question was possibly duplicated with a more recent answer: [November 29th, 2022 Livestream Q&A: Tell the Doggo to "stay"?](./yt-Q0LmFpsNnoE.md) [https://www.youtube.com/watch?v=Q0LmFpsNnoE](https://www.youtube.com/watch?v=Q0LmFpsNnoE)
+
 
 ### Topics
 * [Environment > Creatures > Lizard Doggo](../topics/environment/creatures/lizard-doggo.md)

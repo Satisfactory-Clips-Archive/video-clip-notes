@@ -9,7 +9,7 @@ topics:
 # [August 31st, 2021 Livestream](../2021-08-31.md)
 ## Q&A: How's the flush button in The HUB coming along?
 https://www.youtube.com/watch?v=JKV3UIwRUxM
-This question was possibly duplicated with a more recent answer: [November 8th, 2022 Livestream Q&A: Toilets?](./yt-ykoTv9NbWYo.md) [https://www.youtube.com/watch?v=ykoTv9NbWYo](https://www.youtube.com/watch?v=ykoTv9NbWYo)
+This question was possibly duplicated with a more recent answer: [November 29th, 2022 Livestream Q&A: Toilet flush?](./yt-bWLzAoRcw84.md) [https://www.youtube.com/watch?v=bWLzAoRcw84](https://www.youtube.com/watch?v=bWLzAoRcw84)
 
 
 ### Topics

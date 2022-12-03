@@ -8,7 +8,7 @@ topics:
 # [September 28th, 2021 Livestream](../2021-09-28.md)
 ## Q&A: Why can't we have a rideable Drone?
 https://www.youtube.com/watch?v=UmndxzpLEwk
-This question was possibly duplicated with a more recent answer: [May 3rd, 2022 Livestream Q&A: A lasso to ride the Drones?](./yt-HgCSlfqot3U.md) [https://www.youtube.com/watch?v=HgCSlfqot3U](https://www.youtube.com/watch?v=HgCSlfqot3U)
+This question was possibly duplicated with a more recent answer: [November 29th, 2022 Livestream Q&A: Will Pioneers ever be able to safely ride a Drone from Port to Port?](./yt-eD9XfZcY7o0.md) [https://www.youtube.com/watch?v=eD9XfZcY7o0](https://www.youtube.com/watch?v=eD9XfZcY7o0)
 
 
 ### Topics

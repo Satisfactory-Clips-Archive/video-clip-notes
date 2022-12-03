@@ -9,7 +9,7 @@ topics:
 # [February 6th, 2019 Livestream](../2019-02-06.md)
 ## Q&A: Will there be PvE or PvP ?
 https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=586&end=623
-This question was possibly duplicated with a more recent answer: [June 1st, 2021 Livestream Q&A: Will Satisfactory have PvP?](./yt-yktQGSMqHyo.md) [https://www.youtube.com/watch?v=yktQGSMqHyo](https://www.youtube.com/watch?v=yktQGSMqHyo)
+This question was possibly duplicated with a more recent answer: [November 29th, 2022 Livestream Q&A: Are you ever adding PvP?](./yt-qpRyAZihEEA.md) [https://www.youtube.com/watch?v=qpRyAZihEEA](https://www.youtube.com/watch?v=qpRyAZihEEA)
 
 
 ### Topics

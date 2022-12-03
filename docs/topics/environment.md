@@ -12,6 +12,9 @@ date: Last Modified
 * [Weather Systems](../topics/environment/weather-systems.md)
 * [World Map](../topics/environment/world-map.md)
 
+## November 29th, 2022 Livestream
+* [Q&A: When are lighting/water performance & visual upgrades coming?](../transcriptions/yt-3StpEbh7QlI.md) [https://www.youtube.com/watch?v=3StpEbh7QlI](https://www.youtube.com/watch?v=3StpEbh7QlI)
+
 ## October 4th, 2022 Livestream
 * [Q&A: Does the planet have a name?](../transcriptions/yt-vGikWrINkZk.md) [https://www.youtube.com/watch?v=vGikWrINkZk](https://www.youtube.com/watch?v=vGikWrINkZk)
 

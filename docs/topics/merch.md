@@ -7,6 +7,11 @@ date: Last Modified
 * [EU Merch Store](../topics/merch/eu-merch-store.md)
 * [Merch Prototypes](../topics/merch/merch-prototypes.md)
 
+## November 29th, 2022 Livestream
+* [State of Dev](../transcriptions/yt-xHCaS54V7J4.md) [https://www.youtube.com/watch?v=xHCaS54V7J4](https://www.youtube.com/watch?v=xHCaS54V7J4)
+* [Q&A: Is that top-right sticker for sale?](../transcriptions/yt-zURRlCaCjy8.md) [https://www.youtube.com/watch?v=zURRlCaCjy8](https://www.youtube.com/watch?v=zURRlCaCjy8)
+* [Q&A: Pioneer body pillow, when?](../transcriptions/yt-vgNlu3il63U.md) [https://www.youtube.com/watch?v=vgNlu3il63U](https://www.youtube.com/watch?v=vgNlu3il63U)
+
 ## November 22nd, 2022 Livestream
 * [Q&A: I like your hoodie Jace, where's that from?](../transcriptions/yt-15P2i-QqVqg.md) [https://www.youtube.com/watch?v=15P2i-QqVqg](https://www.youtube.com/watch?v=15P2i-QqVqg)
 * [Intro](../transcriptions/yt-sD60FDv7a24.md) [https://www.youtube.com/watch?v=sD60FDv7a24](https://www.youtube.com/watch?v=sD60FDv7a24)

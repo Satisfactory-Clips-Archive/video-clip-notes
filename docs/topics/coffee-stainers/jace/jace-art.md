@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Coffee Stainers](../../../topics/coffee-stainers.md) > [Jace](../../../topics/coffee-stainers/jace.md) > Jace Art
 
+## November 29th, 2022 Livestream
+* [Q&A: Is that top-right sticker for sale?](../../../transcriptions/yt-zURRlCaCjy8.md) [https://www.youtube.com/watch?v=zURRlCaCjy8](https://www.youtube.com/watch?v=zURRlCaCjy8)
+
 ## November 22nd, 2022 Livestream
 * [Q&A: I like your hoodie Jace, where's that from?](../../../transcriptions/yt-15P2i-QqVqg.md) [https://www.youtube.com/watch?v=15P2i-QqVqg](https://www.youtube.com/watch?v=15P2i-QqVqg)
 

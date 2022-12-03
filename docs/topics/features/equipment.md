@@ -23,6 +23,9 @@ date: Last Modified
 * [Xeno-Zapper](../../topics/features/equipment/xeno-zapper.md)
 * [Zip Lines](../../topics/features/equipment/zip-lines.md)
 
+## November 29th, 2022 Livestream
+* [Q&A: Any new hand/body Equipment or Weapons planned?](../../transcriptions/yt-TmSklwE8Lbk.md) [https://www.youtube.com/watch?v=TmSklwE8Lbk](https://www.youtube.com/watch?v=TmSklwE8Lbk)
+
 ## November 22nd, 2022 Livestream
 * [Q&A: Lizard Doggo search option for Object Scanner?](../../transcriptions/yt-0_TGn4Yaqrg.md) [https://www.youtube.com/watch?v=0_TGn4Yaqrg](https://www.youtube.com/watch?v=0_TGn4Yaqrg)
 

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Possible Features](../../../topics/features/possible-features.md) > Console Release
 
+## November 29th, 2022 Livestream
+* [Q&A: Will Satisfactory ever come to XBox?](../../../transcriptions/yt-7JANDlQ-5IU.md) [https://www.youtube.com/watch?v=7JANDlQ-5IU](https://www.youtube.com/watch?v=7JANDlQ-5IU)
+
 ## October 25th, 2022 Livestream
 * [Q&A: Steam Deck compatibility?](../../../transcriptions/yt-D8KFt3dK700.md) [https://www.youtube.com/watch?v=D8KFt3dK700](https://www.youtube.com/watch?v=D8KFt3dK700)
 

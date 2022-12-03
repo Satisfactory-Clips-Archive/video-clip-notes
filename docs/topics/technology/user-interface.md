@@ -9,6 +9,9 @@ date: Last Modified
 * [Ping](../../topics/technology/user-interface/ping.md)
 * [Stamps](../../topics/technology/user-interface/stamps.md)
 
+## November 29th, 2022 Livestream
+* [Q&A: Any chance of getting native support for spreadsheets or notes tools?](../../transcriptions/yt-WElLa0hXbeQ.md) [https://www.youtube.com/watch?v=WElLa0hXbeQ](https://www.youtube.com/watch?v=WElLa0hXbeQ)
+
 ## November 15th, 2022 Livestream
 * [Dylan, Mark, and Snutt Talk: Main Menu not updated](../../transcriptions/yt-CREPrQ23Dt4,6900.448189,6942.736332.md) [https://youtube.com/clip/UgkxSjpc1AwtAjXS8qxMKMHFCDX3kwnJHcgo](https://youtube.com/clip/UgkxSjpc1AwtAjXS8qxMKMHFCDX3kwnJHcgo)
 * [Q&A: Can you get the eyedropper to function?](../../transcriptions/yt-CREPrQ23Dt4,8188.264471,8194.121731.md) [https://youtube.com/clip/UgkxWjnV29TsgSydsc1P4kGNbTerHaPIhytb](https://youtube.com/clip/UgkxWjnV29TsgSydsc1P4kGNbTerHaPIhytb)

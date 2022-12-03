@@ -9,7 +9,7 @@ topics:
 # [May 3rd, 2022 Livestream](../2022-05-03.md)
 ## Q&A: Miner Mk.3?
 https://www.youtube.com/watch?v=TzqY5rtkxes
-This question was possibly duplicated with a more recent answer: [October 4th, 2022 Livestream Q&A: Miner Mk.3?](./yt-UgT26tXEdjU.md) [https://www.youtube.com/watch?v=UgT26tXEdjU](https://www.youtube.com/watch?v=UgT26tXEdjU)
+This question was possibly duplicated with a more recent answer: [November 29th, 2022 Livestream Q&A: Dual-output Mk.3 Miner please, easy fix?](./yt-_4bcpVXbnxY.md) [https://www.youtube.com/watch?v=_4bcpVXbnxY](https://www.youtube.com/watch?v=_4bcpVXbnxY)
 
 
 ### Topics

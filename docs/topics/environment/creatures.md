@@ -10,6 +10,11 @@ date: Last Modified
 * [Non Flying Bird](../../topics/environment/creatures/non-flying-bird.md)
 * [Space Giraffe-Tick-Penguin-Whale Thing](../../topics/environment/creatures/space-giraffe-tick-penguin-whale-thing.md)
 
+## November 29th, 2022 Livestream
+* [Q&A: Sometimes Hogs have Jetpacks if you haven't unlocked them. Can we get the same for Hover Packs?](../../transcriptions/yt-CoSes0ZNwHo.md) [https://www.youtube.com/watch?v=CoSes0ZNwHo](https://www.youtube.com/watch?v=CoSes0ZNwHo)
+* [Q&A: Any plans for new Creature types?](../../transcriptions/yt-156z8w5-No0.md) [https://www.youtube.com/watch?v=156z8w5-No0](https://www.youtube.com/watch?v=156z8w5-No0)
+* [Q&A: Bring back the Shark?](../../transcriptions/yt-rMOH_LBQ4-U.md) [https://www.youtube.com/watch?v=rMOH_LBQ4-U](https://www.youtube.com/watch?v=rMOH_LBQ4-U)
+
 ## November 15th, 2022 Livestream
 * [Dylan, Mark, and Snutt Tallk: Alien DNA Capsules](../../transcriptions/yt-CREPrQ23Dt4,6942.736332,7305.166556.md) [https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=6942&end=7306](https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=6942&end=7306)
 

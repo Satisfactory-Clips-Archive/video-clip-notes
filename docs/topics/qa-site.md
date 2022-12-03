@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > QA Site
 
+## November 29th, 2022 Livestream
+* [State of Dev](../transcriptions/yt-xHCaS54V7J4.md) [https://www.youtube.com/watch?v=xHCaS54V7J4](https://www.youtube.com/watch?v=xHCaS54V7J4)
+* [Q&A: If I submit a crash report, is there any benefit for also posting on the QA Site?](../transcriptions/yt-bDZSBRLupyc.md) [https://www.youtube.com/watch?v=bDZSBRLupyc](https://www.youtube.com/watch?v=bDZSBRLupyc)
+* [Q&A: Fix the desyncs on Dedicated Servers?](../transcriptions/yt-pLh7VnISF3U.md) [https://www.youtube.com/watch?v=pLh7VnISF3U](https://www.youtube.com/watch?v=pLh7VnISF3U)
+
 ## November 22nd, 2022 Livestream
 * [Q&A: Can we get an option to change our email on the QA Site?](../transcriptions/yt-ldcTe3iKoLI.md) [https://www.youtube.com/watch?v=ldcTe3iKoLI](https://www.youtube.com/watch?v=ldcTe3iKoLI)
 

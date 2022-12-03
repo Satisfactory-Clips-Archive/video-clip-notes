@@ -9,7 +9,7 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: When are we getting Toilet Flush DLC?
 https://www.youtube.com/watch?v=24KsUKR3T-4
-This question was possibly duplicated with a more recent answer: [November 8th, 2022 Livestream Q&A: Toilets?](./yt-ykoTv9NbWYo.md) [https://www.youtube.com/watch?v=ykoTv9NbWYo](https://www.youtube.com/watch?v=ykoTv9NbWYo)
+This question was possibly duplicated with a more recent answer: [November 29th, 2022 Livestream Q&A: Toilet flush?](./yt-bWLzAoRcw84.md) [https://www.youtube.com/watch?v=bWLzAoRcw84](https://www.youtube.com/watch?v=bWLzAoRcw84)
 
 
 ### Topics

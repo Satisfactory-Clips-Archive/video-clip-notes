@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Tiers](../../../topics/features/tiers.md) > Tier 9
 
+## November 29th, 2022 Livestream
+* [Q&A: Any Tier 9 or 10 plans before 1.0?](../../../transcriptions/yt-EfqC1jbJmq8.md) [https://www.youtube.com/watch?v=EfqC1jbJmq8](https://www.youtube.com/watch?v=EfqC1jbJmq8)
+
 ## September 13th, 2022 Livestream
 * [Q&A: Will there be Tier 9 & 10?](../../../transcriptions/yt-Pwbhu0Xdipk.md) [https://www.youtube.com/watch?v=Pwbhu0Xdipk](https://www.youtube.com/watch?v=Pwbhu0Xdipk)
 * [Community FYI: Tier 9 is Toilet Paper DLC](../../../transcriptions/yt-7_A-p9HHM_g.md) [https://www.youtube.com/watch?v=7_A-p9HHM_g](https://www.youtube.com/watch?v=7_A-p9HHM_g)

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Creatures](../../../topics/environment/creatures.md) > Lizard Doggo
 
+## November 29th, 2022 Livestream
+* [Q&A: Tell the Doggo to "stay"?](../../../transcriptions/yt-Q0LmFpsNnoE.md) [https://www.youtube.com/watch?v=Q0LmFpsNnoE](https://www.youtube.com/watch?v=Q0LmFpsNnoE)
+
 ## November 22nd, 2022 Livestream
 * [Q&A: Lizard Doggo search option for Object Scanner?](../../../transcriptions/yt-0_TGn4Yaqrg.md) [https://www.youtube.com/watch?v=0_TGn4Yaqrg](https://www.youtube.com/watch?v=0_TGn4Yaqrg)
 * [Q&A: Can we get Doggo Simulator?](../../../transcriptions/yt-2RN5zaBq7MU.md) [https://www.youtube.com/watch?v=2RN5zaBq7MU](https://www.youtube.com/watch?v=2RN5zaBq7MU)

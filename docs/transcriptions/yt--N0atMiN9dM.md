@@ -11,7 +11,7 @@ topics:
 # [January 26th, 2021 Livestream](../2021-01-26.md)
 ## Q&A: Do Mercer Spheres and Somersloops get a place in Update 4?
 https://www.youtube.com/watch?v=-N0atMiN9dM
-This question was possibly duplicated with a more recent answer: [October 4th, 2022 Livestream Q&A: When will Artefacts be usable for something?](./yt-sdRDsK_DDG4.md) [https://www.youtube.com/watch?v=sdRDsK_DDG4](https://www.youtube.com/watch?v=sdRDsK_DDG4)
+This question was possibly duplicated with a more recent answer: [November 29th, 2022 Livestream Q&A: The World President commanded me to harvest alien artefacts. Will there be more lore on them?](./yt-GPH14tfZa9o.md) [https://www.youtube.com/watch?v=GPH14tfZa9o](https://www.youtube.com/watch?v=GPH14tfZa9o)
 
 
 ### Topics

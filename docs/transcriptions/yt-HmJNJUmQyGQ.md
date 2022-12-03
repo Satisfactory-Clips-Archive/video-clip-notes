@@ -8,7 +8,7 @@ topics:
 # [June 29th, 2021 Livestream](../2021-06-29.md)
 ## Q&A: What's your opinion on Hyper Tube accelerators?
 https://www.youtube.com/watch?v=HmJNJUmQyGQ
-This question was possibly duplicated with a more recent answer: [May 3rd, 2022 Livestream Q&A: Are you making any changes that might impact the Hyper Tube cannons?](./yt-itcpnj8i8EA.md) [https://www.youtube.com/watch?v=itcpnj8i8EA](https://www.youtube.com/watch?v=itcpnj8i8EA)
+This question was possibly duplicated with a more recent answer: [November 29th, 2022 Livestream Q&A: Are Hyper Tube Cannons a desired game design?](./yt-_KuITxMPNrA.md) [https://www.youtube.com/watch?v=_KuITxMPNrA](https://www.youtube.com/watch?v=_KuITxMPNrA)
 
 
 ### Topics

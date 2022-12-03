@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Features](../../topics/features.md) > Blueprints
 
+## November 29th, 2022 Livestream
+* [State of Dev](../../transcriptions/yt-xHCaS54V7J4.md) [https://www.youtube.com/watch?v=xHCaS54V7J4](https://www.youtube.com/watch?v=xHCaS54V7J4)
+* [Q&A: Can we get a quick-switch between Blueprints of the same sub-category?](../../transcriptions/yt-JFzwIKB0tmE.md) [https://www.youtube.com/watch?v=JFzwIKB0tmE](https://www.youtube.com/watch?v=JFzwIKB0tmE)
+* [Q&A: Are you satisfied with where Blueprints are?](../../transcriptions/yt-ZkFcapd4Cbg.md) [https://www.youtube.com/watch?v=ZkFcapd4Cbg](https://www.youtube.com/watch?v=ZkFcapd4Cbg)
+
 ## November 22nd, 2022 Livestream
 * [Q&A: Is it possible to add a mirror solution to placing Blueprints?](../../transcriptions/yt-4MbbOQb5c1Y.md) [https://www.youtube.com/watch?v=4MbbOQb5c1Y](https://www.youtube.com/watch?v=4MbbOQb5c1Y)
 * [Q&A: Can Blueprints get the option to auto-connect Power/Pipes/Belts to adjacent stuff?](../../transcriptions/yt-Olr_JXEwT3w.md) [https://www.youtube.com/watch?v=Olr_JXEwT3w](https://www.youtube.com/watch?v=Olr_JXEwT3w)

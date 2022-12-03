@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildables](../../../topics/features/buildables.md) > Conveyor Belts
 
+## November 29th, 2022 Livestream
+* [Q&A: Priority Mergers?](../../../transcriptions/yt-jEXZLV1hSYk.md) [https://www.youtube.com/watch?v=jEXZLV1hSYk](https://www.youtube.com/watch?v=jEXZLV1hSYk)
+* [Q&A: Dual-output Mk.3 Miner please, easy fix?](../../../transcriptions/yt-_4bcpVXbnxY.md) [https://www.youtube.com/watch?v=_4bcpVXbnxY](https://www.youtube.com/watch?v=_4bcpVXbnxY)
+* [Q&A: Would adding the ability to add a cover on Belts help performance?](../../../transcriptions/yt-1UhSGB8cxAk.md) [https://www.youtube.com/watch?v=1UhSGB8cxAk](https://www.youtube.com/watch?v=1UhSGB8cxAk)
+
 ## November 22nd, 2022 Livestream
 * [Q&A: Has there been any movement on the Mk.3 Miner having an extra output?](../../../transcriptions/yt-2wzjT2ZQc6c.md) [https://www.youtube.com/watch?v=2wzjT2ZQc6c](https://www.youtube.com/watch?v=2wzjT2ZQc6c)
 * [Q&A: Can Blueprints get the option to auto-connect Power/Pipes/Belts to adjacent stuff?](../../../transcriptions/yt-Olr_JXEwT3w.md) [https://www.youtube.com/watch?v=Olr_JXEwT3w](https://www.youtube.com/watch?v=Olr_JXEwT3w)

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Save System](../../../topics/features/save-system.md) > Autosave
 
+## November 29th, 2022 Livestream
+* [Q&A: Why does the game have to stutter when the Autosave kicks in?](../../../transcriptions/yt-eKhzlLqhuPY.md) [https://www.youtube.com/watch?v=eKhzlLqhuPY](https://www.youtube.com/watch?v=eKhzlLqhuPY)
+
 ## November 15th, 2022 Livestream
 * [Q&A: Crash while auto-saving?](../../../transcriptions/yt-CREPrQ23Dt4,8194.121731,8259.389945.md) [https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=8194&end=8260](https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=8194&end=8260)
 

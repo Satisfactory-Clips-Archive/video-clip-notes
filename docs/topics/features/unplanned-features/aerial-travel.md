@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Unplanned Features](../../../topics/features/unplanned-features.md) > Aerial Travel
 
+## November 29th, 2022 Livestream
+* [Q&A: Will Pioneers ever be able to safely ride a Drone from Port to Port?](../../../transcriptions/yt-eD9XfZcY7o0.md) [https://www.youtube.com/watch?v=eD9XfZcY7o0](https://www.youtube.com/watch?v=eD9XfZcY7o0)
+
 ## November 22nd, 2022 Livestream
 * [Q&A: Passenger drone for aerial transportation?](../../../transcriptions/yt-gaW5dU_ibkY.md) [https://www.youtube.com/watch?v=gaW5dU_ibkY](https://www.youtube.com/watch?v=gaW5dU_ibkY)
 

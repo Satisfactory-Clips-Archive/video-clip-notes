@@ -9,12 +9,7 @@ topics:
 # [September 13th, 2022 Livestream](../2022-09-13.md)
 ## Q&A: Will there be Tier 9 & 10?
 https://www.youtube.com/watch?v=Pwbhu0Xdipk
-<details>
-<summary>This question may have been asked previously at least 2 other times, as recently as September 2022 and as early as August 2021.</summary>
-
-* [September 6th, 2022 Livestream Q&A: Tiers 9 & 10 in 1.0?](./yt-WMBO7p2n6DQ.md) [https://www.youtube.com/watch?v=WMBO7p2n6DQ](https://www.youtube.com/watch?v=WMBO7p2n6DQ)
-* [August 3rd, 2021 Livestream Q&A: Will there be a Tier 9 & 10?](./yt-ak2xGu7ZZIc.md) [https://www.youtube.com/watch?v=ak2xGu7ZZIc](https://www.youtube.com/watch?v=ak2xGu7ZZIc)
-</details>
+This question was possibly duplicated with a more recent answer: [November 29th, 2022 Livestream Q&A: Any Tier 9 or 10 plans before 1.0?](./yt-EfqC1jbJmq8.md) [https://www.youtube.com/watch?v=EfqC1jbJmq8](https://www.youtube.com/watch?v=EfqC1jbJmq8)
 
 
 ### Topics

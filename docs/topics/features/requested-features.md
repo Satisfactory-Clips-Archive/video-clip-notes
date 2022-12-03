@@ -10,6 +10,17 @@ date: Last Modified
 * [Pollution](../../topics/features/requested-features/pollution.md)
 * [Third-person View](../../topics/features/requested-features/third-person-view.md)
 
+## November 29th, 2022 Livestream
+* [Q&A: Any new Vehicles?](../../transcriptions/yt-HJfsT1nm0dg.md) [https://www.youtube.com/watch?v=HJfsT1nm0dg](https://www.youtube.com/watch?v=HJfsT1nm0dg)
+* [Q&A: Priority Mergers?](../../transcriptions/yt-jEXZLV1hSYk.md) [https://www.youtube.com/watch?v=jEXZLV1hSYk](https://www.youtube.com/watch?v=jEXZLV1hSYk)
+* [Q&A: Any plans for new Creature types?](../../transcriptions/yt-156z8w5-No0.md) [https://www.youtube.com/watch?v=156z8w5-No0](https://www.youtube.com/watch?v=156z8w5-No0)
+* [Q&A: Can we get a quick-switch between Blueprints of the same sub-category?](../../transcriptions/yt-JFzwIKB0tmE.md) [https://www.youtube.com/watch?v=JFzwIKB0tmE](https://www.youtube.com/watch?v=JFzwIKB0tmE)
+* [Q&A: Bring back the Shark?](../../transcriptions/yt-rMOH_LBQ4-U.md) [https://www.youtube.com/watch?v=rMOH_LBQ4-U](https://www.youtube.com/watch?v=rMOH_LBQ4-U)
+* [Q&A: Will we be able to fully-utilise a pure node in the future?](../../transcriptions/yt-9NheZ2Xejic.md) [https://www.youtube.com/watch?v=9NheZ2Xejic](https://www.youtube.com/watch?v=9NheZ2Xejic)
+* [Q&A: Dual-output Mk.3 Miner please, easy fix?](../../transcriptions/yt-_4bcpVXbnxY.md) [https://www.youtube.com/watch?v=_4bcpVXbnxY](https://www.youtube.com/watch?v=_4bcpVXbnxY)
+* [Q&A: Tell the Doggo to "stay"?](../../transcriptions/yt-Q0LmFpsNnoE.md) [https://www.youtube.com/watch?v=Q0LmFpsNnoE](https://www.youtube.com/watch?v=Q0LmFpsNnoE)
+* [Q&A: Any chance of getting native support for spreadsheets or notes tools?](../../transcriptions/yt-WElLa0hXbeQ.md) [https://www.youtube.com/watch?v=WElLa0hXbeQ](https://www.youtube.com/watch?v=WElLa0hXbeQ)
+
 ## November 22nd, 2022 Livestream
 * [Q&A: Milk slider for the lactose intolerant?](../../transcriptions/yt--cBiDakky1g.md) [https://www.youtube.com/watch?v=-cBiDakky1g](https://www.youtube.com/watch?v=-cBiDakky1g)
 * [Q&A: Lizard Doggo search option for Object Scanner?](../../transcriptions/yt-0_TGn4Yaqrg.md) [https://www.youtube.com/watch?v=0_TGn4Yaqrg](https://www.youtube.com/watch?v=0_TGn4Yaqrg)

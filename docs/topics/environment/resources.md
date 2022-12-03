@@ -14,6 +14,9 @@ date: Last Modified
 * [Steel](../../topics/environment/resources/steel.md)
 * [Water](../../topics/environment/resources/water.md)
 
+## November 29th, 2022 Livestream
+* [Q&A: Will we be able to fully-utilise a pure node in the future?](../../transcriptions/yt-9NheZ2Xejic.md) [https://www.youtube.com/watch?v=9NheZ2Xejic](https://www.youtube.com/watch?v=9NheZ2Xejic)
+
 ## November 22nd, 2022 Livestream
 * [Q&A: Possibility of switching to a Game Mode where you had an item-per-minute requirement?](../../transcriptions/yt-av3ed3zOTG4.md) [https://www.youtube.com/watch?v=av3ed3zOTG4](https://www.youtube.com/watch?v=av3ed3zOTG4)
 * [Q&A: How about Skateboards?](../../transcriptions/yt-mS-ndNmWzxE.md) [https://www.youtube.com/watch?v=mS-ndNmWzxE](https://www.youtube.com/watch?v=mS-ndNmWzxE)

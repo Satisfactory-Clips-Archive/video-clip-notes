@@ -12,6 +12,9 @@ date: Last Modified
 * [Tractor](../../../topics/features/transportation/vehicles/tractor.md)
 * [Truck](../../../topics/features/transportation/vehicles/truck.md)
 
+## November 29th, 2022 Livestream
+* [Q&A: Any new Vehicles?](../../../transcriptions/yt-HJfsT1nm0dg.md) [https://www.youtube.com/watch?v=HJfsT1nm0dg](https://www.youtube.com/watch?v=HJfsT1nm0dg)
+
 ## November 22nd, 2022 Livestream
 * [Q&A: How about Skateboards?](../../../transcriptions/yt-mS-ndNmWzxE.md) [https://www.youtube.com/watch?v=mS-ndNmWzxE](https://www.youtube.com/watch?v=mS-ndNmWzxE)
 

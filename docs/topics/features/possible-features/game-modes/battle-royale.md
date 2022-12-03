@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > [Possible Features](../../../../topics/features/possible-features.md) > [Game Modes](../../../../topics/features/possible-features/game-modes.md) > Battle Royale
 
+## November 29th, 2022 Livestream
+* [Q&A: Are you ever adding PvP?](../../../../transcriptions/yt-qpRyAZihEEA.md) [https://www.youtube.com/watch?v=qpRyAZihEEA](https://www.youtube.com/watch?v=qpRyAZihEEA)
+
 ## August 10th, 2021 Livestream
 * [Q&A: Battle Royale mode with only Nobelisk Detonators?](../../../../transcriptions/yt-815wYM_Z6_Q.md) [https://www.youtube.com/watch?v=815wYM_Z6_Q](https://www.youtube.com/watch?v=815wYM_Z6_Q)
 

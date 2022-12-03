@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Resources](../../../topics/environment/resources.md) > Somersloop
 
+## November 29th, 2022 Livestream
+* [Q&A: The World President commanded me to harvest alien artefacts. Will there be more lore on them?](../../../transcriptions/yt-GPH14tfZa9o.md) [https://www.youtube.com/watch?v=GPH14tfZa9o](https://www.youtube.com/watch?v=GPH14tfZa9o)
+
 ## November 22nd, 2022 Livestream
 * [Q&A: When will you be tackling the Somersloop & S.A.M. stuff?](../../../transcriptions/yt-t2Jnwla58bw.md) [https://www.youtube.com/watch?v=t2Jnwla58bw](https://www.youtube.com/watch?v=t2Jnwla58bw)
 

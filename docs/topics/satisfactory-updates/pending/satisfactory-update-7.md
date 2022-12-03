@@ -5,6 +5,12 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Pending](../../../topics/satisfactory-updates/pending.md) > Satisfactory Update 7
 
+## November 29th, 2022 Livestream
+* [State of Dev](../../../transcriptions/yt-xHCaS54V7J4.md) [https://www.youtube.com/watch?v=xHCaS54V7J4](https://www.youtube.com/watch?v=xHCaS54V7J4)
+* [Q&A: When do you plan to change Overclocking to linear?](../../../transcriptions/yt-eOAOIWMkXM4.md) [https://www.youtube.com/watch?v=eOAOIWMkXM4](https://www.youtube.com/watch?v=eOAOIWMkXM4)
+* [Q&A: Are you sure next week is a good plan? I cannot play Experimental due to crashes right now.](../../../transcriptions/yt-uc53o14zNFc.md) [https://www.youtube.com/watch?v=uc53o14zNFc](https://www.youtube.com/watch?v=uc53o14zNFc)
+* [Q&A: Update 7 release date, revealed?](../../../transcriptions/yt-GGrFhpmf7CY.md) [https://www.youtube.com/watch?v=GGrFhpmf7CY](https://www.youtube.com/watch?v=GGrFhpmf7CY)
+
 ## November 22nd, 2022 Livestream
 * [Q&A: Update 7 in Early Access, when?](../../../transcriptions/yt-4WdFC3Y5fx4.md) [https://www.youtube.com/watch?v=4WdFC3Y5fx4](https://www.youtube.com/watch?v=4WdFC3Y5fx4)
 * [State of Dev](../../../transcriptions/yt-ifcJGbImr10.md) [https://www.youtube.com/watch?v=ifcJGbImr10](https://www.youtube.com/watch?v=ifcJGbImr10)

@@ -22,6 +22,9 @@ date: Last Modified
 * [Walls](../../topics/features/buildables/walls.md)
 * [Windows](../../topics/features/buildables/windows.md)
 
+## November 29th, 2022 Livestream
+* [Q&A: Is it possible that we might get more new building pieces?](../../transcriptions/yt-hCkJWCgzJfE.md) [https://www.youtube.com/watch?v=hCkJWCgzJfE](https://www.youtube.com/watch?v=hCkJWCgzJfE)
+
 ## November 22nd, 2022 Livestream
 * [Q&A: Thoughts on colouring Power Cables or Wall attachments?](../../transcriptions/yt-C85iytGFfuY.md) [https://www.youtube.com/watch?v=C85iytGFfuY](https://www.youtube.com/watch?v=C85iytGFfuY)
 

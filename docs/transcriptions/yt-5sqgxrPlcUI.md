@@ -10,7 +10,7 @@ topics:
 # [January 26th, 2021 Livestream](../2021-01-26.md)
 ## Q&A: Please, Toilet DLC before Official DLC?
 https://www.youtube.com/watch?v=5sqgxrPlcUI
-This question was possibly duplicated with a more recent answer: [November 8th, 2022 Livestream Q&A: Toilets?](./yt-ykoTv9NbWYo.md) [https://www.youtube.com/watch?v=ykoTv9NbWYo](https://www.youtube.com/watch?v=ykoTv9NbWYo)
+This question was possibly duplicated with a more recent answer: [November 29th, 2022 Livestream Q&A: Toilet flush?](./yt-bWLzAoRcw84.md) [https://www.youtube.com/watch?v=bWLzAoRcw84](https://www.youtube.com/watch?v=bWLzAoRcw84)
 
 
 ### Topics

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Tiers](../../../topics/features/tiers.md) > Tier 5
 
+## November 29th, 2022 Livestream
+* [Q&A: Usually I make it to Tier 5 and my brain starts to malfunction. Any suggestions?](../../../transcriptions/yt-7LL5uSL0Qr4.md) [https://www.youtube.com/watch?v=7LL5uSL0Qr4](https://www.youtube.com/watch?v=7LL5uSL0Qr4)
+
 ## July 20th, 2021 Livestream
 * [Q&A: Can we have stronger monsters in the game, at Tier 5/6 they hardly challenge you in building](../../../transcriptions/yt-CjX7Sti2AJo.md) [https://www.youtube.com/watch?v=CjX7Sti2AJo](https://www.youtube.com/watch?v=CjX7Sti2AJo)
 

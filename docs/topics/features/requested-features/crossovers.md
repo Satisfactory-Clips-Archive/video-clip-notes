@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Requested Features](../../../topics/features/requested-features.md) > Crossovers
 
+## November 29th, 2022 Livestream
+* [Q&A: Is Goat Sim and Satisfactory in the same universe?](../../../transcriptions/yt-6iwPrW0Vfr0.md) [https://www.youtube.com/watch?v=6iwPrW0Vfr0](https://www.youtube.com/watch?v=6iwPrW0Vfr0)
+
 ## September 6th, 2022 Livestream
 * [Q&A: Final Fantasy / Satisfactory crossover, when?](../../../transcriptions/yt-rhJX7THGRCA.md) [https://www.youtube.com/watch?v=rhJX7THGRCA](https://www.youtube.com/watch?v=rhJX7THGRCA)
 

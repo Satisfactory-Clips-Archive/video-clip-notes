@@ -9,6 +9,8 @@ topics:
 # [March 29th, 2022 Livestream](../2022-03-29.md)
 ## Q&A: Which development model do you use?
 https://www.youtube.com/watch?v=7hBlOnUJmBw
+This question was possibly duplicated with a more recent answer: [November 29th, 2022 Livestream Q&A: As a developer, are you working with any agile methodologies?](./yt-Qp8x9jxDZDQ.md) [https://www.youtube.com/watch?v=Qp8x9jxDZDQ](https://www.youtube.com/watch?v=Qp8x9jxDZDQ)
+
 
 ### Topics
 * [Embracer Group > Coffee Stain Holding > Coffee Stain Studios](../topics/embracer-group/coffee-stain-holding/coffee-stain-studios.md)

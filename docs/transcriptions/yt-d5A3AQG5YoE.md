@@ -10,7 +10,7 @@ topics:
 # [April 27th, 2021 Livestream](../2021-04-27.md)
 ## Q&A: Any new aliens coming?
 https://www.youtube.com/watch?v=d5A3AQG5YoE
-This question was possibly duplicated with a more recent answer: [November 22nd, 2022 Livestream Q&A: Is the Crab Boss from the E3 Trailer still coming?](./yt-AB_eO6X59N8.md) [https://www.youtube.com/watch?v=AB_eO6X59N8](https://www.youtube.com/watch?v=AB_eO6X59N8)
+This question was possibly duplicated with a more recent answer: [November 29th, 2022 Livestream Q&A: Any plans for new Creature types?](./yt-156z8w5-No0.md) [https://www.youtube.com/watch?v=156z8w5-No0](https://www.youtube.com/watch?v=156z8w5-No0)
 
 
 ### Topics

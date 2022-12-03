@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Goat Simulator
 
+## November 29th, 2022 Livestream
+* [Q&A: Is Goat Sim and Satisfactory in the same universe?](../../transcriptions/yt-6iwPrW0Vfr0.md) [https://www.youtube.com/watch?v=6iwPrW0Vfr0](https://www.youtube.com/watch?v=6iwPrW0Vfr0)
+
 ## November 22nd, 2022 Livestream
 * [Q&A: Can we get Doggo Simulator?](../../transcriptions/yt-2RN5zaBq7MU.md) [https://www.youtube.com/watch?v=2RN5zaBq7MU](https://www.youtube.com/watch?v=2RN5zaBq7MU)
 

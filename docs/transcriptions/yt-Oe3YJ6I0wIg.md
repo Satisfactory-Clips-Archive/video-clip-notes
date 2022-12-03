@@ -8,6 +8,8 @@ topics:
 # [November 2nd, 2021 Livestream](../2021-11-02.md)
 ## Q&A: Will the save times be reduced?
 https://www.youtube.com/watch?v=Oe3YJ6I0wIg
+This question was possibly duplicated with a more recent answer: [November 29th, 2022 Livestream Q&A: Why does the game have to stutter when the Autosave kicks in?](./yt-eKhzlLqhuPY.md) [https://www.youtube.com/watch?v=eKhzlLqhuPY](https://www.youtube.com/watch?v=eKhzlLqhuPY)
+
 
 ### Topics
 * [Features > Save System](../topics/features/save-system.md)

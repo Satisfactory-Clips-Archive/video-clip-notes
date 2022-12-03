@@ -10,6 +10,9 @@ date: Last Modified
 * [Power Storage](../../topics/features/power-management/power-storage.md)
 * [Power Switch](../../topics/features/power-management/power-switch.md)
 
+## November 29th, 2022 Livestream
+* [Q&A: When do you plan to change Overclocking to linear?](../../transcriptions/yt-eOAOIWMkXM4.md) [https://www.youtube.com/watch?v=eOAOIWMkXM4](https://www.youtube.com/watch?v=eOAOIWMkXM4)
+
 ## November 22nd, 2022 Livestream
 * [Q&A: Are there any plans to add Designers together to make bigger Blueprints at a Power cost?](../../transcriptions/yt-0vXC2pZcyWA.md) [https://www.youtube.com/watch?v=0vXC2pZcyWA](https://www.youtube.com/watch?v=0vXC2pZcyWA)
 * [Q&A: Thoughts on colouring Power Cables or Wall attachments?](../../transcriptions/yt-C85iytGFfuY.md) [https://www.youtube.com/watch?v=C85iytGFfuY](https://www.youtube.com/watch?v=C85iytGFfuY)

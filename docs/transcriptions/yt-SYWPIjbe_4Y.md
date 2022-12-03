@@ -10,7 +10,7 @@ topics:
 # [December 19th, 2019 Livestream](../2019-12-19.md)
 ## Q&A: Will Mercer Spheres and Somersloops be useful soon?
 https://www.youtube.com/watch?v=SYWPIjbe_4Y
-This question was possibly duplicated with a more recent answer: [October 4th, 2022 Livestream Q&A: When will Artefacts be usable for something?](./yt-sdRDsK_DDG4.md) [https://www.youtube.com/watch?v=sdRDsK_DDG4](https://www.youtube.com/watch?v=sdRDsK_DDG4)
+This question was possibly duplicated with a more recent answer: [November 29th, 2022 Livestream Q&A: The World President commanded me to harvest alien artefacts. Will there be more lore on them?](./yt-GPH14tfZa9o.md) [https://www.youtube.com/watch?v=GPH14tfZa9o](https://www.youtube.com/watch?v=GPH14tfZa9o)
 
 
 ### Topics

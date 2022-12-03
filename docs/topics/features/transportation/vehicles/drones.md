@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > Transportation > [Vehicles](../../../../topics/features/transportation/vehicles.md) > Drones
 
+## November 29th, 2022 Livestream
+* [Q&A: Will Pioneers ever be able to safely ride a Drone from Port to Port?](../../../../transcriptions/yt-eD9XfZcY7o0.md) [https://www.youtube.com/watch?v=eD9XfZcY7o0](https://www.youtube.com/watch?v=eD9XfZcY7o0)
+
 ## September 13th, 2022 Livestream
 * [Q&A: Smart compartments so you can transfer the exact same amount of items each time?](../../../../transcriptions/yt-VklHPvEErYY.md) [https://www.youtube.com/watch?v=VklHPvEErYY](https://www.youtube.com/watch?v=VklHPvEErYY)
 

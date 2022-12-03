@@ -8,7 +8,7 @@ topics:
 # [July 23rd, 2021 Dev Vlog](../2021-07-23.md)
 ## Q&A: Will people be able to ride on the Drones?
 https://youtube.com/clip/UgzwgTuR5a3hUzkUnX54AaABCQ
-This question was possibly duplicated with a more recent answer: [May 3rd, 2022 Livestream Q&A: A lasso to ride the Drones?](./yt-HgCSlfqot3U.md) [https://www.youtube.com/watch?v=HgCSlfqot3U](https://www.youtube.com/watch?v=HgCSlfqot3U)
+This question was possibly duplicated with a more recent answer: [November 29th, 2022 Livestream Q&A: Will Pioneers ever be able to safely ride a Drone from Port to Port?](./yt-eD9XfZcY7o0.md) [https://www.youtube.com/watch?v=eD9XfZcY7o0](https://www.youtube.com/watch?v=eD9XfZcY7o0)
 
 
 ### Topics

@@ -16,6 +16,10 @@ date: Last Modified
 * [Tier 9](../../topics/features/tiers/tier-9.md)
 * [Tier 10](../../topics/features/tiers/tier-10.md)
 
+## November 29th, 2022 Livestream
+* [Q&A: Sometimes Hogs have Jetpacks if you haven't unlocked them. Can we get the same for Hover Packs?](../../transcriptions/yt-CoSes0ZNwHo.md) [https://www.youtube.com/watch?v=CoSes0ZNwHo](https://www.youtube.com/watch?v=CoSes0ZNwHo)
+* [Q&A: Usually I make it to Tier 5 and my brain starts to malfunction. Any suggestions?](../../transcriptions/yt-7LL5uSL0Qr4.md) [https://www.youtube.com/watch?v=7LL5uSL0Qr4](https://www.youtube.com/watch?v=7LL5uSL0Qr4)
+
 ## November 15th, 2022 Livestream
 * [Q&A: What Tier are Blueprints unlocked in?](../../transcriptions/yt-CREPrQ23Dt4,3326.131639,3351.962562.md) [https://youtube.com/clip/UgkxUHkKTprMII-CnG_4VVaIvumPaff06Gs2](https://youtube.com/clip/UgkxUHkKTprMII-CnG_4VVaIvumPaff06Gs2)
 * [Q&A: Are Blueprints part of the MAM or part of general Tiers?](../../transcriptions/yt-CREPrQ23Dt4,4008.838937,4045.864719.md) [https://youtube.com/clip/UgkxBagwDKYqIFtH8ZH-Bi4Mwa9z7MZRHfs7](https://youtube.com/clip/UgkxBagwDKYqIFtH8ZH-Bi4Mwa9z7MZRHfs7)

@@ -9,7 +9,7 @@ topics:
 # [June 8th, 2020 Livestream](../2020-06-08.md)
 ## Q&A: Flushable Toilet?
 https://www.youtube.com/watch?v=FlaP38G7O5U
-This question was possibly duplicated with a more recent answer: [November 8th, 2022 Livestream Q&A: Toilets?](./yt-ykoTv9NbWYo.md) [https://www.youtube.com/watch?v=ykoTv9NbWYo](https://www.youtube.com/watch?v=ykoTv9NbWYo)
+This question was possibly duplicated with a more recent answer: [November 29th, 2022 Livestream Q&A: Toilet flush?](./yt-bWLzAoRcw84.md) [https://www.youtube.com/watch?v=bWLzAoRcw84](https://www.youtube.com/watch?v=bWLzAoRcw84)
 
 
 ### Topics

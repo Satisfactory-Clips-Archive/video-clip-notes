@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Equipment](../../../topics/features/equipment.md) > Jetpack
 
+## November 29th, 2022 Livestream
+* [Q&A: Sometimes Hogs have Jetpacks if you haven't unlocked them. Can we get the same for Hover Packs?](../../../transcriptions/yt-CoSes0ZNwHo.md) [https://www.youtube.com/watch?v=CoSes0ZNwHo](https://www.youtube.com/watch?v=CoSes0ZNwHo)
+
 ## October 25th, 2022 Livestream
 * [Q&A: Liquid Biofuel for Jetpack?](../../../transcriptions/yt-ZArBtcPKnzE.md) [https://www.youtube.com/watch?v=ZArBtcPKnzE](https://www.youtube.com/watch?v=ZArBtcPKnzE)
 

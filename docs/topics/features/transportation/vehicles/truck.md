@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > Transportation > [Vehicles](../../../../topics/features/transportation/vehicles.md) > Truck
 
+## November 29th, 2022 Livestream
+* [Q&A: How come the inputs & outputs for Truck Stations are so close together?](../../../../transcriptions/yt-5akdHLj6jHY.md) [https://www.youtube.com/watch?v=5akdHLj6jHY](https://www.youtube.com/watch?v=5akdHLj6jHY)
+
 ## November 1st, 2022 Livestream
 * [Q&A: Adding Fluid Trucks?](../../../../transcriptions/yt-x-zXGDdrhbc.md) [https://www.youtube.com/watch?v=x-zXGDdrhbc](https://www.youtube.com/watch?v=x-zXGDdrhbc)
 

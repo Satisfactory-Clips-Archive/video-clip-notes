@@ -9,7 +9,7 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: Flushable Toilet DLC?
 https://www.youtube.com/watch?v=Z7KaqsyT7_k
-This question was possibly duplicated with a more recent answer: [November 8th, 2022 Livestream Q&A: Toilets?](./yt-ykoTv9NbWYo.md) [https://www.youtube.com/watch?v=ykoTv9NbWYo](https://www.youtube.com/watch?v=ykoTv9NbWYo)
+This question was possibly duplicated with a more recent answer: [November 29th, 2022 Livestream Q&A: Toilet flush?](./yt-bWLzAoRcw84.md) [https://www.youtube.com/watch?v=bWLzAoRcw84](https://www.youtube.com/watch?v=bWLzAoRcw84)
 
 
 ### Topics

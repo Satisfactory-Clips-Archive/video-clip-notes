@@ -9,11 +9,7 @@ topics:
 # [November 22nd, 2022 Livestream](../2022-11-22.md)
 ## Q&A: Update 7 in Early Access, when?
 https://www.youtube.com/watch?v=4WdFC3Y5fx4
-<details>
-<summary>This question may have been asked previously at least 1 other time, as recently as November 2022.</summary>
-
-* [November 15th, 2022 Livestream Q&A: Do you know when the Update is going to Early Access release?](./yt-CREPrQ23Dt4,6678.607335,6714.312943.md) [https://youtube.com/clip/UgkxpbX_icSblgwiHCiiGKhRGtF2XIVO3eFp](https://youtube.com/clip/UgkxpbX_icSblgwiHCiiGKhRGtF2XIVO3eFp)
-</details>
+This question was possibly replaced with a more recent answer: [November 29th, 2022 Livestream Q&A: Update 7 release date, revealed?](./yt-GGrFhpmf7CY.md) [https://www.youtube.com/watch?v=GGrFhpmf7CY](https://www.youtube.com/watch?v=GGrFhpmf7CY)
 
 
 ### Topics

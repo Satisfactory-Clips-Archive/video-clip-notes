@@ -12,7 +12,7 @@ topics:
 # [May 18th, 2021 Livestream](../2021-05-18.md)
 ## Q&A: Is there a technical reason you only made Mk.5 belts and not higher?
 https://www.youtube.com/watch?v=SiU_cgb0XhI
-This question was possibly duplicated with a more recent answer: [November 22nd, 2022 Livestream Q&A: Has there been any movement on the Mk.3 Miner having an extra output?](./yt-2wzjT2ZQc6c.md) [https://www.youtube.com/watch?v=2wzjT2ZQc6c](https://www.youtube.com/watch?v=2wzjT2ZQc6c)
+This question was possibly duplicated with a more recent answer: [November 29th, 2022 Livestream Q&A: Will we be able to fully-utilise a pure node in the future?](./yt-9NheZ2Xejic.md) [https://www.youtube.com/watch?v=9NheZ2Xejic](https://www.youtube.com/watch?v=9NheZ2Xejic)
 
 
 ### Topics

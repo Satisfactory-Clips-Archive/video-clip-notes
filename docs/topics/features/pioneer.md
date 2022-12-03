@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Features](../../topics/features.md) > Pioneer
 
+## November 29th, 2022 Livestream
+* [Q&A: Engineer face-reveal, when?](../../transcriptions/yt-XeJ4XOsu8KI.md) [https://www.youtube.com/watch?v=XeJ4XOsu8KI](https://www.youtube.com/watch?v=XeJ4XOsu8KI)
+* [Q&A: Pioneer body pillow, when?](../../transcriptions/yt-vgNlu3il63U.md) [https://www.youtube.com/watch?v=vgNlu3il63U](https://www.youtube.com/watch?v=vgNlu3il63U)
+
 ## November 22nd, 2022 Livestream
 * [Q&A: Can we get more Inventory and Hand Slots for the Pioneer?](../../transcriptions/yt-yRK6QfAO83w.md) [https://www.youtube.com/watch?v=yRK6QfAO83w](https://www.youtube.com/watch?v=yRK6QfAO83w)
 

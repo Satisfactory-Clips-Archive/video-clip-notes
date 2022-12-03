@@ -8,7 +8,7 @@ topics:
 # [January 19th, 2021 Livestream](../2021-01-19.md)
 ## Q&A: Will there be more Creatures, even more dangerous ones?
 https://www.youtube.com/watch?v=T0jbE_WjQJQ
-This question was possibly duplicated with a more recent answer: [November 22nd, 2022 Livestream Q&A: Is the Crab Boss from the E3 Trailer still coming?](./yt-AB_eO6X59N8.md) [https://www.youtube.com/watch?v=AB_eO6X59N8](https://www.youtube.com/watch?v=AB_eO6X59N8)
+This question was possibly duplicated with a more recent answer: [November 29th, 2022 Livestream Q&A: Any plans for new Creature types?](./yt-156z8w5-No0.md) [https://www.youtube.com/watch?v=156z8w5-No0](https://www.youtube.com/watch?v=156z8w5-No0)
 
 
 ### Topics

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Equipment](../../../topics/features/equipment.md) > Hover Pack
 
+## November 29th, 2022 Livestream
+* [Q&A: Sometimes Hogs have Jetpacks if you haven't unlocked them. Can we get the same for Hover Packs?](../../../transcriptions/yt-CoSes0ZNwHo.md) [https://www.youtube.com/watch?v=CoSes0ZNwHo](https://www.youtube.com/watch?v=CoSes0ZNwHo)
+
 ## July 5th, 2022 Livestream
 * [Q&A: Do you consider the Jetpack/Hover Pack essential to beat the game?](../../../transcriptions/yt-SWdlYvpUhTY.md) [https://www.youtube.com/watch?v=SWdlYvpUhTY](https://www.youtube.com/watch?v=SWdlYvpUhTY)
 

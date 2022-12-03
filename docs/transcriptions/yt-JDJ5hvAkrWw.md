@@ -9,7 +9,7 @@ topics:
 # [February 16th, 2021 Livestream](../2021-02-16.md)
 ## Q&A: Does obscuring belts actually help with performance?
 https://www.youtube.com/watch?v=JDJ5hvAkrWw
-This question was possibly duplicated with a more recent answer: [March 1st, 2022 Livestream Q&A: Why don't you design as a little domes on the belts that shows much less objects?](./yt-J8uJFq6qOvw.md) [https://www.youtube.com/watch?v=J8uJFq6qOvw](https://www.youtube.com/watch?v=J8uJFq6qOvw)
+This question was possibly duplicated with a more recent answer: [November 29th, 2022 Livestream Q&A: Would adding the ability to add a cover on Belts help performance?](./yt-1UhSGB8cxAk.md) [https://www.youtube.com/watch?v=1UhSGB8cxAk](https://www.youtube.com/watch?v=1UhSGB8cxAk)
 
 
 ### Topics

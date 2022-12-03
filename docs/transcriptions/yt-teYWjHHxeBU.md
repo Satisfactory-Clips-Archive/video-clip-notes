@@ -8,7 +8,7 @@ topics:
 # [July 5th, 2022 Livestream](../2022-07-05.md)
 ## Q&A: Will there be Mk.6 Belts?
 https://www.youtube.com/watch?v=teYWjHHxeBU
-This question was possibly duplicated with a more recent answer: [November 22nd, 2022 Livestream Q&A: Has there been any movement on the Mk.3 Miner having an extra output?](./yt-2wzjT2ZQc6c.md) [https://www.youtube.com/watch?v=2wzjT2ZQc6c](https://www.youtube.com/watch?v=2wzjT2ZQc6c)
+This question was possibly duplicated with a more recent answer: [November 29th, 2022 Livestream Q&A: Will we be able to fully-utilise a pure node in the future?](./yt-9NheZ2Xejic.md) [https://www.youtube.com/watch?v=9NheZ2Xejic](https://www.youtube.com/watch?v=9NheZ2Xejic)
 
 
 ### Topics

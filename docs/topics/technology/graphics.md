@@ -9,6 +9,11 @@ date: Last Modified
 * [Ray Tracing](../../topics/technology/graphics/ray-tracing.md)
 * [Ultrawide Monitors](../../topics/technology/graphics/ultrawide-monitors.md)
 
+## November 29th, 2022 Livestream
+* [Q&A: When are lighting/water performance & visual upgrades coming?](../../transcriptions/yt-3StpEbh7QlI.md) [https://www.youtube.com/watch?v=3StpEbh7QlI](https://www.youtube.com/watch?v=3StpEbh7QlI)
+* [Q&A: Would adding the ability to add a cover on Belts help performance?](../../transcriptions/yt-1UhSGB8cxAk.md) [https://www.youtube.com/watch?v=1UhSGB8cxAk](https://www.youtube.com/watch?v=1UhSGB8cxAk)
+* [Q&A: Are Machines skeletal meshes or static meshes with vertex offsetting?](../../transcriptions/yt-0z3l9GLdQEc.md) [https://www.youtube.com/watch?v=0z3l9GLdQEc](https://www.youtube.com/watch?v=0z3l9GLdQEc)
+
 ## November 8th, 2022 Livestream
 * [Q&A: Shadow flickering?](../../transcriptions/yt-Ik1UTxfiqNc.md) [https://www.youtube.com/watch?v=Ik1UTxfiqNc](https://www.youtube.com/watch?v=Ik1UTxfiqNc)
 

@@ -10,6 +10,12 @@ date: Last Modified
 * [Juice Velvet](../../topics/coffee-stainers/jace/juice-velvet.md)
 * [Robo Jace](../../topics/coffee-stainers/jace/robo-jace.md)
 
+## November 29th, 2022 Livestream
+* [Q&A: Toilet flush?](../../transcriptions/yt-bWLzAoRcw84.md) [https://www.youtube.com/watch?v=bWLzAoRcw84](https://www.youtube.com/watch?v=bWLzAoRcw84)
+* [Q&A: Fix the desyncs on Dedicated Servers?](../../transcriptions/yt-pLh7VnISF3U.md) [https://www.youtube.com/watch?v=pLh7VnISF3U](https://www.youtube.com/watch?v=pLh7VnISF3U)
+* [45 Q A  Do you and Snutt interact with the programmers on a regular basis](../../transcriptions/yt-BYEJVuveAB8.md) [https://www.youtube.com/watch?v=BYEJVuveAB8](https://www.youtube.com/watch?v=BYEJVuveAB8)
+* [Q&A: Pioneer body pillow, when?](../../transcriptions/yt-vgNlu3il63U.md) [https://www.youtube.com/watch?v=vgNlu3il63U](https://www.youtube.com/watch?v=vgNlu3il63U)
+
 ## November 22nd, 2022 Livestream
 * [Q&A: I like your hoodie Jace, where's that from?](../../transcriptions/yt-15P2i-QqVqg.md) [https://www.youtube.com/watch?v=15P2i-QqVqg](https://www.youtube.com/watch?v=15P2i-QqVqg)
 * [Snutt & Jace Talk: Existential trolling, uncut](../../transcriptions/yt-MNCenWhzvG8.md) [https://www.youtube.com/watch?v=MNCenWhzvG8](https://www.youtube.com/watch?v=MNCenWhzvG8)

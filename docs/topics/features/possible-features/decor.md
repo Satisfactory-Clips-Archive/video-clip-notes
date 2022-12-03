@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Possible Features](../../../topics/features/possible-features.md) > Decor
 
+## November 29th, 2022 Livestream
+* [Q&A: Is it possible that we might get more new building pieces?](../../../transcriptions/yt-hCkJWCgzJfE.md) [https://www.youtube.com/watch?v=hCkJWCgzJfE](https://www.youtube.com/watch?v=hCkJWCgzJfE)
+
 ## November 1st, 2022 Livestream
 * [Q&A: Snutt Statue for 5000 Coupons?](../../../transcriptions/yt-_0GCCJccAl8.md) [https://www.youtube.com/watch?v=_0GCCJccAl8](https://www.youtube.com/watch?v=_0GCCJccAl8)
 

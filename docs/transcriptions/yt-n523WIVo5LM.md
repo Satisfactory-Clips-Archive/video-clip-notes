@@ -8,7 +8,7 @@ topics:
 # [May 19th, 2020 Livestream](../2020-05-19.md)
 ## Q&A: Save stutter?
 https://www.youtube.com/watch?v=n523WIVo5LM
-This question was possibly duplicated with a more recent answer: [November 2nd, 2021 Livestream Q&A: Will the save times be reduced?](./yt-Oe3YJ6I0wIg.md) [https://www.youtube.com/watch?v=Oe3YJ6I0wIg](https://www.youtube.com/watch?v=Oe3YJ6I0wIg)
+This question was possibly duplicated with a more recent answer: [November 29th, 2022 Livestream Q&A: Why does the game have to stutter when the Autosave kicks in?](./yt-eKhzlLqhuPY.md) [https://www.youtube.com/watch?v=eKhzlLqhuPY](https://www.youtube.com/watch?v=eKhzlLqhuPY)
 
 
 ### Topics

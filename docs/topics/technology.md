@@ -14,6 +14,9 @@ date: Last Modified
 * [User Interface](../topics/technology/user-interface.md)
 * [Vulkan](../topics/technology/vulkan.md)
 
+## November 29th, 2022 Livestream
+* [Q&A: As a developer, are you working with any agile methodologies?](../transcriptions/yt-Qp8x9jxDZDQ.md) [https://www.youtube.com/watch?v=Qp8x9jxDZDQ](https://www.youtube.com/watch?v=Qp8x9jxDZDQ)
+
 ## November 22nd, 2022 Livestream
 * [Q&A: Will the game's performance be improved?](../transcriptions/yt-pBRKWVTG_ws.md) [https://www.youtube.com/watch?v=pBRKWVTG_ws](https://www.youtube.com/watch?v=pBRKWVTG_ws)
 

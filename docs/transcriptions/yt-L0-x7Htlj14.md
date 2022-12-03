@@ -9,7 +9,7 @@ topics:
 # [June 29th, 2021 Livestream](../2021-06-29.md)
 ## Q&A: Will Drones ever be able to carry the Pioneer?
 https://www.youtube.com/watch?v=L0-x7Htlj14
-This question was possibly duplicated with a more recent answer: [May 3rd, 2022 Livestream Q&A: A lasso to ride the Drones?](./yt-HgCSlfqot3U.md) [https://www.youtube.com/watch?v=HgCSlfqot3U](https://www.youtube.com/watch?v=HgCSlfqot3U)
+This question was possibly duplicated with a more recent answer: [November 29th, 2022 Livestream Q&A: Will Pioneers ever be able to safely ride a Drone from Port to Port?](./yt-eD9XfZcY7o0.md) [https://www.youtube.com/watch?v=eD9XfZcY7o0](https://www.youtube.com/watch?v=eD9XfZcY7o0)
 
 
 ### Topics

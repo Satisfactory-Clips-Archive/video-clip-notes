@@ -7,6 +7,9 @@ date: Last Modified
 * [Characters](../topics/story-and-lore/characters.md)
 * [Project Assembly](../topics/story-and-lore/project-assembly.md)
 
+## November 29th, 2022 Livestream
+* [Q&A: The World President commanded me to harvest alien artefacts. Will there be more lore on them?](../transcriptions/yt-GPH14tfZa9o.md) [https://www.youtube.com/watch?v=GPH14tfZa9o](https://www.youtube.com/watch?v=GPH14tfZa9o)
+
 ## October 4th, 2022 Livestream
 * [Q&A: Does the planet have a name?](../transcriptions/yt-vGikWrINkZk.md) [https://www.youtube.com/watch?v=vGikWrINkZk](https://www.youtube.com/watch?v=vGikWrINkZk)
 * [Q&A: When will Artefacts be usable for something?](../transcriptions/yt-sdRDsK_DDG4.md) [https://www.youtube.com/watch?v=sdRDsK_DDG4](https://www.youtube.com/watch?v=sdRDsK_DDG4)

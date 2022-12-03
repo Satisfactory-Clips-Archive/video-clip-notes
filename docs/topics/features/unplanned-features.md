@@ -17,6 +17,9 @@ date: Last Modified
 * [Terraforming](../../topics/features/unplanned-features/terraforming.md)
 * [VR](../../topics/features/unplanned-features/vr.md)
 
+## November 29th, 2022 Livestream
+* [Q&A: Will Pioneers ever be able to safely ride a Drone from Port to Port?](../../transcriptions/yt-eD9XfZcY7o0.md) [https://www.youtube.com/watch?v=eD9XfZcY7o0](https://www.youtube.com/watch?v=eD9XfZcY7o0)
+
 ## November 1st, 2022 Livestream
 * [Q&A: Adding Fluid Trucks?](../../transcriptions/yt-x-zXGDdrhbc.md) [https://www.youtube.com/watch?v=x-zXGDdrhbc](https://www.youtube.com/watch?v=x-zXGDdrhbc)
 * [Q&A: Zoop past 10?](../../transcriptions/yt-uXTjULIbOt4.md) [https://www.youtube.com/watch?v=uXTjULIbOt4](https://www.youtube.com/watch?v=uXTjULIbOt4)

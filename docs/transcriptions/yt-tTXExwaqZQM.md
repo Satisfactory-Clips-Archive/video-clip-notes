@@ -10,7 +10,7 @@ topics:
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Q&A: Any news on big Crab monster?
 https://www.youtube.com/watch?v=tTXExwaqZQM
-This question was possibly duplicated with a more recent answer: [November 22nd, 2022 Livestream Q&A: Is the Crab Boss from the E3 Trailer still coming?](./yt-AB_eO6X59N8.md) [https://www.youtube.com/watch?v=AB_eO6X59N8](https://www.youtube.com/watch?v=AB_eO6X59N8)
+This question was possibly duplicated with a more recent answer: [November 29th, 2022 Livestream Q&A: Any plans for new Creature types?](./yt-156z8w5-No0.md) [https://www.youtube.com/watch?v=156z8w5-No0](https://www.youtube.com/watch?v=156z8w5-No0)
 
 
 ### Topics

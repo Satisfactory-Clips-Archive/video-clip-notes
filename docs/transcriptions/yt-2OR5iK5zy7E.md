@@ -8,7 +8,7 @@ topics:
 # [September 21st, 2021 Livestream](../2021-09-21.md)
 ## Q&A: Will we get more Vehicles added to the game?
 https://www.youtube.com/watch?v=2OR5iK5zy7E
-This question was possibly duplicated with a more recent answer: [October 25th, 2022 Livestream Q&A: Any more Vehicles planned?](./yt-pQKpTYoNmJE.md) [https://www.youtube.com/watch?v=pQKpTYoNmJE](https://www.youtube.com/watch?v=pQKpTYoNmJE)
+This question was possibly duplicated with a more recent answer: [November 29th, 2022 Livestream Q&A: Any new Vehicles?](./yt-HJfsT1nm0dg.md) [https://www.youtube.com/watch?v=HJfsT1nm0dg](https://www.youtube.com/watch?v=HJfsT1nm0dg)
 
 
 ### Topics

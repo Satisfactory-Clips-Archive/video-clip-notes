@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Trolling
 
+## November 29th, 2022 Livestream
+* [Q&A: Is Goat Sim and Satisfactory in the same universe?](../transcriptions/yt-6iwPrW0Vfr0.md) [https://www.youtube.com/watch?v=6iwPrW0Vfr0](https://www.youtube.com/watch?v=6iwPrW0Vfr0)
+
 ## November 22nd, 2022 Livestream
 * [Q&A: Milk slider for the lactose intolerant?](../transcriptions/yt--cBiDakky1g.md) [https://www.youtube.com/watch?v=-cBiDakky1g](https://www.youtube.com/watch?v=-cBiDakky1g)
 * [Snutt & Jace Talk: Existential trolling, uncut](../transcriptions/yt-MNCenWhzvG8.md) [https://www.youtube.com/watch?v=MNCenWhzvG8](https://www.youtube.com/watch?v=MNCenWhzvG8)

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Pending](../../../topics/satisfactory-updates/pending.md) > Satisfactory 1.0
 
+## November 29th, 2022 Livestream
+* [Q&A: Any Tier 9 or 10 plans before 1.0?](../../../transcriptions/yt-EfqC1jbJmq8.md) [https://www.youtube.com/watch?v=EfqC1jbJmq8](https://www.youtube.com/watch?v=EfqC1jbJmq8)
+
 ## November 22nd, 2022 Livestream
 * [Snutt & Jace Talk: Existential trolling, uncut](../../../transcriptions/yt-MNCenWhzvG8.md) [https://www.youtube.com/watch?v=MNCenWhzvG8](https://www.youtube.com/watch?v=MNCenWhzvG8)
 * [Q&A: Are Recipe balance changes coming before 1.0?](../../../transcriptions/yt-TJd56wLdNBc.md) [https://www.youtube.com/watch?v=TJd56wLdNBc](https://www.youtube.com/watch?v=TJd56wLdNBc)

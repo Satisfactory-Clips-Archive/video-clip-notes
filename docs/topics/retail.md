@@ -9,6 +9,10 @@ date: Last Modified
 * [GeForce Now](../topics/retail/geforce-now.md)
 * [Steam Store](../topics/retail/steam-store.md)
 
+## November 29th, 2022 Livestream
+* [Q&A: How many copies sold so far?](../transcriptions/yt-JNL00-1VeRQ.md) [https://www.youtube.com/watch?v=JNL00-1VeRQ](https://www.youtube.com/watch?v=JNL00-1VeRQ)
+* [Q&A: From how well Satisfactory sold, is it hard to know when to stop, because it digs into profits?](../transcriptions/yt-XCbo70Hs_nE.md) [https://www.youtube.com/watch?v=XCbo70Hs_nE](https://www.youtube.com/watch?v=XCbo70Hs_nE)
+
 ## November 22nd, 2022 Livestream
 * [Community FYI: Your best is 3 million people hooked, I'd say you nailed it](../transcriptions/yt-iZgWT0lKixo.md) [https://www.youtube.com/watch?v=iZgWT0lKixo](https://www.youtube.com/watch?v=iZgWT0lKixo)
 

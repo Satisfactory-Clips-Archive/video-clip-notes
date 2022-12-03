@@ -11,11 +11,7 @@ topics:
 # [May 3rd, 2022 Livestream](../2022-05-03.md)
 ## Q&A: Any chance we could get an Update to architectural structures?
 https://www.youtube.com/watch?v=U5OI9pz9mnQ
-<details>
-<summary>This question may have been asked previously at least 1 other time, as recently as February 2022.</summary>
-
-* [February 22nd, 2022 Livestream Q&A: More architecture coming in Update 6?](./yt-E_xludNxf08.md) [https://www.youtube.com/watch?v=E_xludNxf08](https://www.youtube.com/watch?v=E_xludNxf08)
-</details>
+This question was possibly duplicated with a more recent answer: [November 29th, 2022 Livestream Q&A: Is it possible that we might get more new building pieces?](./yt-hCkJWCgzJfE.md) [https://www.youtube.com/watch?v=hCkJWCgzJfE](https://www.youtube.com/watch?v=hCkJWCgzJfE)
 
 
 ### Topics

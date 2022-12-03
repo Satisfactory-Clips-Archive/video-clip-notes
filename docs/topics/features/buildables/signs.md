@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildables](../../../topics/features/buildables.md) > Signs
 
+## November 29th, 2022 Livestream
+* [Q&A: Any chance of getting native support for spreadsheets or notes tools?](../../../transcriptions/yt-WElLa0hXbeQ.md) [https://www.youtube.com/watch?v=WElLa0hXbeQ](https://www.youtube.com/watch?v=WElLa0hXbeQ)
+
 ## October 18th, 2022 Livestream
 * [Q&A: Will there be an option on Signs to make them blink?](../../../transcriptions/yt-doeMXaEW3cE.md) [https://www.youtube.com/watch?v=doeMXaEW3cE](https://www.youtube.com/watch?v=doeMXaEW3cE)
 

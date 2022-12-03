@@ -8,7 +8,7 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: Any chance of Autosave process not creating giant frame drops ?
 https://www.youtube.com/watch?v=L6SZHtX7Jmg
-This question was possibly duplicated with a more recent answer: [November 2nd, 2021 Livestream Q&A: Will the save times be reduced?](./yt-Oe3YJ6I0wIg.md) [https://www.youtube.com/watch?v=Oe3YJ6I0wIg](https://www.youtube.com/watch?v=Oe3YJ6I0wIg)
+This question was possibly duplicated with a more recent answer: [November 29th, 2022 Livestream Q&A: Why does the game have to stutter when the Autosave kicks in?](./yt-eKhzlLqhuPY.md) [https://www.youtube.com/watch?v=eKhzlLqhuPY](https://www.youtube.com/watch?v=eKhzlLqhuPY)
 
 
 ### Topics

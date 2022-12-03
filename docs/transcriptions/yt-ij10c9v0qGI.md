@@ -8,6 +8,8 @@ topics:
 # [August 17th, 2021 Livestream](../2021-08-17.md)
 ## Q&A: When's the Pioneer face reveal?
 https://www.youtube.com/watch?v=ij10c9v0qGI
+This question was possibly duplicated with a more recent answer: [November 29th, 2022 Livestream Q&A: Engineer face-reveal, when?](./yt-XeJ4XOsu8KI.md) [https://www.youtube.com/watch?v=XeJ4XOsu8KI](https://www.youtube.com/watch?v=XeJ4XOsu8KI)
+
 
 ### Topics
 * [Features > Pioneer](../topics/features/pioneer.md)

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Resources](../../../topics/environment/resources.md) > Mercer Sphere
 
+## November 29th, 2022 Livestream
+* [Q&A: The World President commanded me to harvest alien artefacts. Will there be more lore on them?](../../../transcriptions/yt-GPH14tfZa9o.md) [https://www.youtube.com/watch?v=GPH14tfZa9o](https://www.youtube.com/watch?v=GPH14tfZa9o)
+
 ## November 8th, 2022 Livestream
 * [Q&A: ADA talks when I come across S.A.M. Ore & the WIP artefacts, should those lines be muted?](../../../transcriptions/yt-0iChXeNjbTg.md) [https://www.youtube.com/watch?v=0iChXeNjbTg](https://www.youtube.com/watch?v=0iChXeNjbTg)
 

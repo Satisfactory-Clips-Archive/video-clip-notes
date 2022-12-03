@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Equipment](../../../topics/features/equipment.md) > Customizer
 
+## November 29th, 2022 Livestream
+* [Q&A: Any plans to allow for more than 15 colour swatches, or even to rename them?](../../../transcriptions/yt-hiiLRLcuwJI.md) [https://www.youtube.com/watch?v=hiiLRLcuwJI](https://www.youtube.com/watch?v=hiiLRLcuwJI)
+
 ## October 25th, 2022 Livestream
 * [Q&A: Any more materials planned for Roofs?](../../../transcriptions/yt--ZXKfX-cCho.md) [https://www.youtube.com/watch?v=-ZXKfX-cCho](https://www.youtube.com/watch?v=-ZXKfX-cCho)
 
