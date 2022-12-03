@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Pending](../../../topics/satisfactory-updates/pending.md) > Satisfactory Update 7
 
+## November 30th, 2022 Video
+* [Update 7 Release Date](../../../transcriptions/yt-kw3epGt82yk,91.8,151.13333333333333.md) [https://youtube.com/embed/kw3epGt82yk?autoplay=1&start=91&end=152](https://youtube.com/embed/kw3epGt82yk?autoplay=1&start=91&end=152)
+* [Update 7 Release Stream](../../../transcriptions/yt-kw3epGt82yk,151.16666666666666,205.7.md) [https://youtube.com/embed/kw3epGt82yk?autoplay=1&start=151&end=206](https://youtube.com/embed/kw3epGt82yk?autoplay=1&start=151&end=206)
+
 ## November 29th, 2022 Livestream
 * [State of Dev](../../../transcriptions/yt-xHCaS54V7J4.md) [https://www.youtube.com/watch?v=xHCaS54V7J4](https://www.youtube.com/watch?v=xHCaS54V7J4)
 * [Q&A: When do you plan to change Overclocking to linear?](../../../transcriptions/yt-eOAOIWMkXM4.md) [https://www.youtube.com/watch?v=eOAOIWMkXM4](https://www.youtube.com/watch?v=eOAOIWMkXM4)

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Seasonal Events](../../../topics/satisfactory-updates/seasonal-events.md) > FICS⁕MAS
 
+## November 30th, 2022 Video
+* [FICS*MAS](../../../transcriptions/yt-kw3epGt82yk,38.5,91.76666666666667.md) [https://youtube.com/embed/kw3epGt82yk?autoplay=1&start=38&end=92](https://youtube.com/embed/kw3epGt82yk?autoplay=1&start=38&end=92)
+
 ## November 29th, 2022 Livestream
 * [State of Dev](../../../transcriptions/yt-xHCaS54V7J4.md) [https://www.youtube.com/watch?v=xHCaS54V7J4](https://www.youtube.com/watch?v=xHCaS54V7J4)
 
