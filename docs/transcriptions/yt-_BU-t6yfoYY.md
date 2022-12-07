@@ -3,7 +3,7 @@ title: "August 30th, 2022 Livestream Q&A: Permadeath?"
 date: "2022-08-30"
 layout: transcript
 topics:
-    - "features/possible-features/game-modes"
+    - "features/game-modes"
     - "features/requested-features"
 ---
 # [August 30th, 2022 Livestream](../2022-08-30.md)
@@ -11,7 +11,7 @@ topics:
 https://www.youtube.com/watch?v=_BU-t6yfoYY
 
 ### Topics
-* [Features > Possible Features > Game Modes](../topics/features/possible-features/game-modes.md)
+* [Features > Game Modes](../topics/features/game-modes.md)
 * [Features > Requested Features](../topics/features/requested-features.md)
 
 ### Transcript

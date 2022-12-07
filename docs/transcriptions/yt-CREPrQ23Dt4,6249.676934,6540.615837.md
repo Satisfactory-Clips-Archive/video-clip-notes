@@ -7,7 +7,7 @@ topics:
     - "features/buildings/blueprint-designer"
     - "features/buildings/coal-generator"
     - "features/requested-features"
-    - "satisfactory-updates/pending/satisfactory-update-7"
+    - "satisfactory-updates/released/satisfactory-update-7"
     - "special-guests"
 ---
 # [November 15th, 2022 Livestream](../2022-11-15.md)
@@ -19,7 +19,7 @@ https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=6249&end=6541
 * [Features > Buildings > Blueprint Designer](../topics/features/buildings/blueprint-designer.md)
 * [Features > Buildings > Coal Generator](../topics/features/buildings/coal-generator.md)
 * [Features > Requested Features](../topics/features/requested-features.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 7](../topics/satisfactory-updates/pending/satisfactory-update-7.md)
+* [Satisfactory Updates > Released > Satisfactory Update 7](../topics/satisfactory-updates/released/satisfactory-update-7.md)
 * [Special Guests](../topics/special-guests.md)
 
 ### Transcript

@@ -4,7 +4,7 @@ date: "2022-11-15"
 layout: transcript
 topics:
     - "features/save-system/autosave"
-    - "satisfactory-updates/pending/satisfactory-update-7"
+    - "satisfactory-updates/released/satisfactory-update-7"
 ---
 # [November 15th, 2022 Livestream](../2022-11-15.md)
 ## Q&A: Crash while auto-saving?
@@ -12,7 +12,7 @@ https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=8194&end=8260
 
 ### Topics
 * [Features > Save System > Autosave](../topics/features/save-system/autosave.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 7](../topics/satisfactory-updates/pending/satisfactory-update-7.md)
+* [Satisfactory Updates > Released > Satisfactory Update 7](../topics/satisfactory-updates/released/satisfactory-update-7.md)
 
 ### Transcript
 

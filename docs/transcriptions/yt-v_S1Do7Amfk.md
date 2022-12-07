@@ -8,11 +8,11 @@ topics:
     - "features/buildables/conveyor-belts"
     - "features/buildings/awesome-sink"
     - "features/buildings/overclocking-and-underclocking"
-    - "features/possible-features/game-modes"
-    - "features/possible-features/game-modes/creative-mode"
-    - "features/possible-features/game-modes/peaceful-mode"
+    - "features/game-modes"
+    - "features/game-modes/creative-mode"
+    - "features/game-modes/peaceful-mode"
     - "features/power-management"
-    - "satisfactory-updates/pending/satisfactory-update-7"
+    - "satisfactory-updates/released/satisfactory-update-7"
     - "satisfactory-updates/seasonal-events/fics-mas"
     - "satisfactory-updates/state-of-dev"
     - "satisfactory-updates/world-update"
@@ -27,11 +27,11 @@ https://www.youtube.com/watch?v=v_S1Do7Amfk
 * [Features > Buildables > Conveyor Belts](../topics/features/buildables/conveyor-belts.md)
 * [Features > Buildings > AWESOME Sink](../topics/features/buildings/awesome-sink.md)
 * [Features > Buildings > Overclocking & Underclocking](../topics/features/buildings/overclocking-and-underclocking.md)
-* [Features > Possible Features > Game Modes](../topics/features/possible-features/game-modes.md)
-* [Features > Possible Features > Game Modes > Creative Mode](../topics/features/possible-features/game-modes/creative-mode.md)
-* [Features > Possible Features > Game Modes > Peaceful Mode](../topics/features/possible-features/game-modes/peaceful-mode.md)
+* [Features > Game Modes](../topics/features/game-modes.md)
+* [Features > Game Modes > Creative Mode](../topics/features/game-modes/creative-mode.md)
+* [Features > Game Modes > Peaceful Mode](../topics/features/game-modes/peaceful-mode.md)
 * [Features > Power Management](../topics/features/power-management.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 7](../topics/satisfactory-updates/pending/satisfactory-update-7.md)
+* [Satisfactory Updates > Released > Satisfactory Update 7](../topics/satisfactory-updates/released/satisfactory-update-7.md)
 * [Satisfactory Updates > Seasonal Events > FICS⁕MAS](../topics/satisfactory-updates/seasonal-events/fics-mas.md)
 * [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 * [Satisfactory Updates > World Update](../topics/satisfactory-updates/world-update.md)

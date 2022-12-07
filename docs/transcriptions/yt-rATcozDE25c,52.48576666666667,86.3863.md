@@ -4,8 +4,8 @@ date: "2020-10-01"
 layout: transcript
 topics:
     - "features/buildings/the-hub"
+    - "features/game-modes"
     - "features/multiplayer"
-    - "features/possible-features/game-modes"
 ---
 # [October 1st, 2020 Q&A](../2020-10-01.md)
 ## Q&A: Will there be a feature to allow multiple bases for competitive multiplayer?
@@ -13,8 +13,8 @@ https://youtube.com/embed/rATcozDE25c?autoplay=1&start=52&end=87
 
 ### Topics
 * [Features > Buildings > The HUB](../topics/features/buildings/the-hub.md)
+* [Features > Game Modes](../topics/features/game-modes.md)
 * [Features > Multiplayer](../topics/features/multiplayer.md)
-* [Features > Possible Features > Game Modes](../topics/features/possible-features/game-modes.md)
 
 ### Transcript
 

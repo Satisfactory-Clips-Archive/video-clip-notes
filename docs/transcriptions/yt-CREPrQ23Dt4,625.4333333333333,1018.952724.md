@@ -3,14 +3,14 @@ title: "November 15th, 2022 Livestream Intro"
 date: "2022-11-15"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-7"
+    - "satisfactory-updates/released/satisfactory-update-7"
 ---
 # [November 15th, 2022 Livestream](../2022-11-15.md)
 ## Intro
 https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=625&end=1019
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 7](../topics/satisfactory-updates/pending/satisfactory-update-7.md)
+* [Satisfactory Updates > Released > Satisfactory Update 7](../topics/satisfactory-updates/released/satisfactory-update-7.md)
 
 ### Transcript
 

@@ -3,7 +3,7 @@ title: "August 31st, 2021 Livestream Snutt & Jace Talk: Idle Games"
 date: "2021-08-31"
 layout: transcript
 topics:
-    - "features/possible-features/game-modes"
+    - "features/game-modes"
     - "satisfactory-updates/pre-alpha"
 ---
 # [August 31st, 2021 Livestream](../2021-08-31.md)
@@ -11,7 +11,7 @@ topics:
 https://www.youtube.com/watch?v=RfOnl5Krlyo
 
 ### Topics
-* [Features > Possible Features > Game Modes](../topics/features/possible-features/game-modes.md)
+* [Features > Game Modes](../topics/features/game-modes.md)
 * [Satisfactory Updates > Pre-Alpha](../topics/satisfactory-updates/pre-alpha.md)
 
 ### Transcript

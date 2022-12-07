@@ -3,7 +3,7 @@ title: "February 11th, 2020 Livestream Q&A: I just joined, thought this was Upda
 date: "2020-02-11"
 layout: transcript
 topics:
-    - "features/possible-features/game-modes"
+    - "features/game-modes"
     - "off-topic/the-cycle"
     - "satisfactory-updates/released/satisfactory-update-3"
 ---
@@ -12,7 +12,7 @@ topics:
 https://www.youtube.com/watch?v=02Zb5q8Zm5s
 
 ### Topics
-* [Features > Possible Features > Game Modes](../topics/features/possible-features/game-modes.md)
+* [Features > Game Modes](../topics/features/game-modes.md)
 * [Off-Topic > The Cycle](../topics/off-topic/the-cycle.md)
 * [Satisfactory Updates > Released > Satisfactory Update 3](../topics/satisfactory-updates/released/satisfactory-update-3.md)
 

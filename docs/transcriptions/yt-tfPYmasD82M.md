@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "environment/biomes/red-jungle"
     - "environment/biomes/titan-forest"
-    - "satisfactory-updates/pending/satisfactory-update-7"
+    - "satisfactory-updates/released/satisfactory-update-7"
     - "satisfactory-updates/world-update"
 ---
 # [September 27th, 2022 Livestream](../2022-09-27.md)
@@ -15,7 +15,7 @@ https://www.youtube.com/watch?v=tfPYmasD82M
 ### Topics
 * [Environment > Biomes > Red Jungle](../topics/environment/biomes/red-jungle.md)
 * [Environment > Biomes > Titan Forest](../topics/environment/biomes/titan-forest.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 7](../topics/satisfactory-updates/pending/satisfactory-update-7.md)
+* [Satisfactory Updates > Released > Satisfactory Update 7](../topics/satisfactory-updates/released/satisfactory-update-7.md)
 * [Satisfactory Updates > World Update](../topics/satisfactory-updates/world-update.md)
 
 ### Transcript

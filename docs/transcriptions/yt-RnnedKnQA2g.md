@@ -3,7 +3,7 @@ title: "October 18th, 2022 Livestream Q&A: Prestige Mode?"
 date: "2022-10-18"
 layout: transcript
 topics:
-    - "features/possible-features/game-modes"
+    - "features/game-modes"
     - "features/requested-features"
 ---
 # [October 18th, 2022 Livestream](../2022-10-18.md)
@@ -11,7 +11,7 @@ topics:
 https://www.youtube.com/watch?v=RnnedKnQA2g
 
 ### Topics
-* [Features > Possible Features > Game Modes](../topics/features/possible-features/game-modes.md)
+* [Features > Game Modes](../topics/features/game-modes.md)
 * [Features > Requested Features](../topics/features/requested-features.md)
 
 ### Transcript

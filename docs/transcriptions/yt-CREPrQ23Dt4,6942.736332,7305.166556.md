@@ -6,7 +6,7 @@ topics:
     - "environment/creatures"
     - "environment/resources"
     - "features/buildings/awesome-sink"
-    - "satisfactory-updates/pending/satisfactory-update-7"
+    - "satisfactory-updates/released/satisfactory-update-7"
     - "special-guests"
 ---
 # [November 15th, 2022 Livestream](../2022-11-15.md)
@@ -17,7 +17,7 @@ https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=6942&end=7306
 * [Environment > Creatures](../topics/environment/creatures.md)
 * [Environment > Resources](../topics/environment/resources.md)
 * [Features > Buildings > AWESOME Sink](../topics/features/buildings/awesome-sink.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 7](../topics/satisfactory-updates/pending/satisfactory-update-7.md)
+* [Satisfactory Updates > Released > Satisfactory Update 7](../topics/satisfactory-updates/released/satisfactory-update-7.md)
 * [Special Guests](../topics/special-guests.md)
 
 ### Transcript

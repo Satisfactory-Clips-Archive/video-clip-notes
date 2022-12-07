@@ -3,7 +3,7 @@ title: "November 10th, 2020 Livestream Q&A: Is there something you'll never add 
 date: "2020-11-10"
 layout: transcript
 topics:
-    - "features/possible-features/game-modes"
+    - "features/game-modes"
     - "features/unplanned-features/base-defense"
     - "mods"
     - "mods/mods-vs-features"
@@ -13,7 +13,7 @@ topics:
 https://www.youtube.com/watch?v=6RV2jnHyFvI
 
 ### Topics
-* [Features > Possible Features > Game Modes](../topics/features/possible-features/game-modes.md)
+* [Features > Game Modes](../topics/features/game-modes.md)
 * [Features > Unplanned Features > Base Defense](../topics/features/unplanned-features/base-defense.md)
 * [Mods](../topics/mods.md)
 * [Mods > Mods vs. Features](../topics/mods/mods-vs-features.md)

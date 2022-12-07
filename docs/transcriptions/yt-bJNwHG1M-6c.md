@@ -3,7 +3,7 @@ title: "July 13th, 2021 Livestream Q&A: Any chance there will be survival mode s
 date: "2021-07-13"
 layout: transcript
 topics:
-    - "features/possible-features/game-modes"
+    - "features/game-modes"
     - "features/unplanned-features/base-defense"
 ---
 # [July 13th, 2021 Livestream](../2021-07-13.md)
@@ -11,7 +11,7 @@ topics:
 https://www.youtube.com/watch?v=bJNwHG1M-6c
 
 ### Topics
-* [Features > Possible Features > Game Modes](../topics/features/possible-features/game-modes.md)
+* [Features > Game Modes](../topics/features/game-modes.md)
 * [Features > Unplanned Features > Base Defense](../topics/features/unplanned-features/base-defense.md)
 
 ### Transcript

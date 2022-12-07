@@ -4,7 +4,7 @@ date: "2022-10-21"
 layout: transcript
 topics:
     - "environment/creatures"
-    - "satisfactory-updates/pending/satisfactory-update-7"
+    - "satisfactory-updates/released/satisfactory-update-7"
 ---
 # [October 21st, 2022 Video](../2022-10-21.md)
 ## Creatures
@@ -12,7 +12,7 @@ https://youtube.com/clip/Ugkx0eqzU2sStIWmjLXqFS-FMuFWjBTIYG4E
 
 ### Topics
 * [Environment > Creatures](../topics/environment/creatures.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 7](../topics/satisfactory-updates/pending/satisfactory-update-7.md)
+* [Satisfactory Updates > Released > Satisfactory Update 7](../topics/satisfactory-updates/released/satisfactory-update-7.md)
 
 ### Transcript
 

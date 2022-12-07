@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "features/buildings/overclocking-and-underclocking"
     - "features/power-management/nuclear-energy"
-    - "satisfactory-updates/pending/satisfactory-update-7"
+    - "satisfactory-updates/released/satisfactory-update-7"
 ---
 # [October 25th, 2022 Livestream](../2022-10-25.md)
 ## Q&A: Can you tell us some news about the Nuclear Power Plant Overclocking?
@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=Ekab1HbNK5g
 ### Topics
 * [Features > Buildings > Overclocking & Underclocking](../topics/features/buildings/overclocking-and-underclocking.md)
 * [Features > Power Management > Nuclear Energy](../topics/features/power-management/nuclear-energy.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 7](../topics/satisfactory-updates/pending/satisfactory-update-7.md)
+* [Satisfactory Updates > Released > Satisfactory Update 7](../topics/satisfactory-updates/released/satisfactory-update-7.md)
 
 ### Transcript
 

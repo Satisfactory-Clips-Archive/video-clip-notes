@@ -4,7 +4,7 @@ date: "2022-10-04"
 layout: transcript
 topics:
     - "features/buildings/overclocking-and-underclocking"
-    - "satisfactory-updates/pending/satisfactory-update-7"
+    - "satisfactory-updates/released/satisfactory-update-7"
 ---
 # [October 4th, 2022 Livestream](../2022-10-04.md)
 ## Q&A: Is the rebalance scheduled for Update 7?
@@ -21,7 +21,7 @@ https://www.youtube.com/watch?v=ipqk9BhPaY4
 
 ### Topics
 * [Features > Buildings > Overclocking & Underclocking](../topics/features/buildings/overclocking-and-underclocking.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 7](../topics/satisfactory-updates/pending/satisfactory-update-7.md)
+* [Satisfactory Updates > Released > Satisfactory Update 7](../topics/satisfactory-updates/released/satisfactory-update-7.md)
 
 ### Transcript
 

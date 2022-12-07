@@ -3,7 +3,7 @@ title: "September 15th, 2020 Livestream Q&A: Will there be more polish to the Su
 date: "2020-09-15"
 layout: transcript
 topics:
-    - "features/possible-features/game-modes"
+    - "features/game-modes"
 ---
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Q&A: Will there be more polish to the Survival aspects of the game?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: [December 7th, 
 
 
 ### Topics
-* [Features > Possible Features > Game Modes](../topics/features/possible-features/game-modes.md)
+* [Features > Game Modes](../topics/features/game-modes.md)
 
 ### Transcript
 

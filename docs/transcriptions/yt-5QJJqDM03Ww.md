@@ -3,7 +3,7 @@ title: "January 26th, 2021 Livestream Q&A: Will you guys eventually add survival
 date: "2021-01-26"
 layout: transcript
 topics:
-    - "features/possible-features/game-modes"
+    - "features/game-modes"
 ---
 # [January 26th, 2021 Livestream](../2021-01-26.md)
 ## Q&A: Will you guys eventually add survival elements like hunger & thirst?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: [December 7th, 
 
 
 ### Topics
-* [Features > Possible Features > Game Modes](../topics/features/possible-features/game-modes.md)
+* [Features > Game Modes](../topics/features/game-modes.md)
 
 ### Transcript
 

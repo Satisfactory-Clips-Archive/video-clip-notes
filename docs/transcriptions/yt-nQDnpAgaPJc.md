@@ -4,7 +4,7 @@ date: "2022-11-01"
 layout: transcript
 topics:
     - "features/buildings/overclocking-and-underclocking"
-    - "satisfactory-updates/pending/satisfactory-update-7"
+    - "satisfactory-updates/released/satisfactory-update-7"
     - "satisfactory-updates/state-of-dev"
 ---
 # [November 1st, 2022 Livestream](../2022-11-01.md)
@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=nQDnpAgaPJc
 
 ### Topics
 * [Features > Buildings > Overclocking & Underclocking](../topics/features/buildings/overclocking-and-underclocking.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 7](../topics/satisfactory-updates/pending/satisfactory-update-7.md)
+* [Satisfactory Updates > Released > Satisfactory Update 7](../topics/satisfactory-updates/released/satisfactory-update-7.md)
 * [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 
 ### Transcript

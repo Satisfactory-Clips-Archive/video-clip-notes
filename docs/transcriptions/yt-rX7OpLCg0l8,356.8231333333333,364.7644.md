@@ -3,16 +3,16 @@ title: "October 21st, 2022 Video Settings"
 date: "2022-10-21"
 layout: transcript
 topics:
-    - "features/possible-features/game-modes"
-    - "satisfactory-updates/pending/satisfactory-update-7"
+    - "features/game-modes"
+    - "satisfactory-updates/released/satisfactory-update-7"
 ---
 # [October 21st, 2022 Video](../2022-10-21.md)
 ## Settings
 https://youtube.com/clip/Ugkx16kThCkyWwxAASsrkfPKa_MCb_6Bumoa
 
 ### Topics
-* [Features > Possible Features > Game Modes](../topics/features/possible-features/game-modes.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 7](../topics/satisfactory-updates/pending/satisfactory-update-7.md)
+* [Features > Game Modes](../topics/features/game-modes.md)
+* [Satisfactory Updates > Released > Satisfactory Update 7](../topics/satisfactory-updates/released/satisfactory-update-7.md)
 
 ### Transcript
 

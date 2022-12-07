@@ -3,14 +3,14 @@ title: "August 3rd, 2021 Livestream Q&A: Does Update 5 have a MOBA in?"
 date: "2021-08-03"
 layout: transcript
 topics:
-    - "features/possible-features/game-modes"
+    - "features/game-modes"
 ---
 # [August 3rd, 2021 Livestream](../2021-08-03.md)
 ## Q&A: Does Update 5 have a MOBA in?
 https://www.youtube.com/watch?v=MTJ0Jl2QvNk
 
 ### Topics
-* [Features > Possible Features > Game Modes](../topics/features/possible-features/game-modes.md)
+* [Features > Game Modes](../topics/features/game-modes.md)
 
 ### Transcript
 

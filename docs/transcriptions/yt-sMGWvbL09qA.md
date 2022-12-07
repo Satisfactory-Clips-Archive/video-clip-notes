@@ -4,7 +4,7 @@ date: "2019-12-19"
 layout: transcript
 topics:
     - "features/buildings/the-hub"
-    - "features/possible-features/game-modes"
+    - "features/game-modes"
     - "mods/mods-vs-features"
 ---
 # [December 19th, 2019 Livestream](../2019-12-19.md)
@@ -15,7 +15,7 @@ This question was possibly duplicated with a more recent answer: November 3rd, 2
 
 ### Topics
 * [Features > Buildings > The HUB](../topics/features/buildings/the-hub.md)
-* [Features > Possible Features > Game Modes](../topics/features/possible-features/game-modes.md)
+* [Features > Game Modes](../topics/features/game-modes.md)
 * [Mods > Mods vs. Features](../topics/mods/mods-vs-features.md)
 
 ### Transcript

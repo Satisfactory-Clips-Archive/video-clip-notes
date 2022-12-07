@@ -4,7 +4,7 @@ date: "2022-11-11"
 layout: transcript
 topics:
     - "features/blueprints"
-    - "satisfactory-updates/pending/satisfactory-update-7"
+    - "satisfactory-updates/released/satisfactory-update-7"
 ---
 # [November 11th, 2022 Video](../2022-11-11.md)
 ## BLUEPRINTS (actually not kidding)
@@ -12,7 +12,7 @@ https://youtube.com/clip/UgkxSYV8KvOzpypc16ZOTBa9RNZeajasQS3m
 
 ### Topics
 * [Features > Blueprints](../topics/features/blueprints.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 7](../topics/satisfactory-updates/pending/satisfactory-update-7.md)
+* [Satisfactory Updates > Released > Satisfactory Update 7](../topics/satisfactory-updates/released/satisfactory-update-7.md)
 
 ### Transcript
 

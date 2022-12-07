@@ -3,14 +3,14 @@ title: "August 10th, 2021 Livestream Community FYI: Need hardcore mode- you die,
 date: "2021-08-10"
 layout: transcript
 topics:
-    - "features/possible-features/game-modes"
+    - "features/game-modes"
 ---
 # [August 10th, 2021 Livestream](../2021-08-10.md)
 ## Community FYI: Need hardcore mode- you die, save gets deleted.
 https://www.youtube.com/watch?v=b1_Wa8T0l5Q
 
 ### Topics
-* [Features > Possible Features > Game Modes](../topics/features/possible-features/game-modes.md)
+* [Features > Game Modes](../topics/features/game-modes.md)
 
 ### Transcript
 

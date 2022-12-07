@@ -3,8 +3,8 @@ title: "May 4th, 2021 Livestream Q&A: Will there be a Creative Mode?"
 date: "2021-05-04"
 layout: transcript
 topics:
-    - "features/possible-features/game-modes/creative-mode"
-    - "features/possible-features/game-modes/peaceful-mode"
+    - "features/game-modes/creative-mode"
+    - "features/game-modes/peaceful-mode"
 ---
 # [May 4th, 2021 Livestream](../2021-05-04.md)
 ## Q&A: Will there be a Creative Mode?
@@ -13,8 +13,8 @@ This question was possibly duplicated with a more recent answer: [February 8th, 
 
 
 ### Topics
-* [Features > Possible Features > Game Modes > Creative Mode](../topics/features/possible-features/game-modes/creative-mode.md)
-* [Features > Possible Features > Game Modes > Peaceful Mode](../topics/features/possible-features/game-modes/peaceful-mode.md)
+* [Features > Game Modes > Creative Mode](../topics/features/game-modes/creative-mode.md)
+* [Features > Game Modes > Peaceful Mode](../topics/features/game-modes/peaceful-mode.md)
 
 ### Transcript
 

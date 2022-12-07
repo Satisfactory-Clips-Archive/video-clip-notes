@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "community/signpostmarv"
     - "environment/world-map"
-    - "features/possible-features/game-modes"
+    - "features/game-modes"
     - "features/unplanned-features/base-defense"
 ---
 # [December 15th, 2020 Livestream](../2020-12-15.md)
@@ -17,7 +17,7 @@ This question was possibly duplicated with a more recent answer: [November 22nd,
 ### Topics
 * [Community > SignpostMarv](../topics/community/signpostmarv.md)
 * [Environment > World Map](../topics/environment/world-map.md)
-* [Features > Possible Features > Game Modes](../topics/features/possible-features/game-modes.md)
+* [Features > Game Modes](../topics/features/game-modes.md)
 * [Features > Unplanned Features > Base Defense](../topics/features/unplanned-features/base-defense.md)
 
 ### Transcript

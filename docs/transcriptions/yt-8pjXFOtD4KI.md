@@ -4,7 +4,7 @@ date: "2022-10-04"
 layout: transcript
 topics:
     - "environment/resources/sam-ore"
-    - "satisfactory-updates/pending/satisfactory-update-7"
+    - "satisfactory-updates/released/satisfactory-update-7"
 ---
 # [October 4th, 2022 Livestream](../2022-10-04.md)
 ## Q&A: Is S.A.M. Ore going to be in Update 7?
@@ -43,7 +43,7 @@ https://www.youtube.com/watch?v=8pjXFOtD4KI
 
 ### Topics
 * [Environment > Resources > S.A.M. Ore](../topics/environment/resources/sam-ore.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 7](../topics/satisfactory-updates/pending/satisfactory-update-7.md)
+* [Satisfactory Updates > Released > Satisfactory Update 7](../topics/satisfactory-updates/released/satisfactory-update-7.md)
 
 ### Transcript
 

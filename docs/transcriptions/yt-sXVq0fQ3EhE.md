@@ -4,7 +4,7 @@ date: "2022-09-13"
 layout: transcript
 topics:
     - "features/crafting/recipes"
-    - "features/possible-features/game-modes"
+    - "features/game-modes"
     - "features/requested-features"
 ---
 # [September 13th, 2022 Livestream](../2022-09-13.md)
@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=sXVq0fQ3EhE
 
 ### Topics
 * [Features > Crafting > Recipes](../topics/features/crafting/recipes.md)
-* [Features > Possible Features > Game Modes](../topics/features/possible-features/game-modes.md)
+* [Features > Game Modes](../topics/features/game-modes.md)
 * [Features > Requested Features](../topics/features/requested-features.md)
 
 ### Transcript

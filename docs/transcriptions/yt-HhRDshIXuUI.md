@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "coffee-stainers"
     - "embracer-group/coffee-stain-holding/coffee-stain-studios"
-    - "satisfactory-updates/pending/satisfactory-update-7"
+    - "satisfactory-updates/released/satisfactory-update-7"
 ---
 # [October 18th, 2022 Livestream](../2022-10-18.md)
 ## Q&A: How's the morale ?
@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=HhRDshIXuUI
 ### Topics
 * [Coffee Stainers](../topics/coffee-stainers.md)
 * [Embracer Group > Coffee Stain Holding > Coffee Stain Studios](../topics/embracer-group/coffee-stain-holding/coffee-stain-studios.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 7](../topics/satisfactory-updates/pending/satisfactory-update-7.md)
+* [Satisfactory Updates > Released > Satisfactory Update 7](../topics/satisfactory-updates/released/satisfactory-update-7.md)
 
 ### Transcript
 

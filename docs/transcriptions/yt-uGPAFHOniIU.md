@@ -3,7 +3,7 @@ title: "November 1st, 2022 Livestream Q&A: Will the Z-fighting be addressed in U
 date: "2022-11-01"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-7"
+    - "satisfactory-updates/released/satisfactory-update-7"
     - "technology/graphics"
 ---
 # [November 1st, 2022 Livestream](../2022-11-01.md)
@@ -17,7 +17,7 @@ https://www.youtube.com/watch?v=uGPAFHOniIU
 
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 7](../topics/satisfactory-updates/pending/satisfactory-update-7.md)
+* [Satisfactory Updates > Released > Satisfactory Update 7](../topics/satisfactory-updates/released/satisfactory-update-7.md)
 * [Technology > Graphics](../topics/technology/graphics.md)
 
 ### Transcript

@@ -3,18 +3,18 @@ title: "June 18th, 2021 Livestream Jace Talk: Game Modes"
 date: "2021-06-18"
 layout: transcript
 topics:
-    - "features/possible-features/game-modes"
-    - "features/possible-features/game-modes/creative-mode"
-    - "features/possible-features/game-modes/peaceful-mode"
+    - "features/game-modes"
+    - "features/game-modes/creative-mode"
+    - "features/game-modes/peaceful-mode"
 ---
 # [June 18th, 2021 Livestream](../2021-06-18.md)
 ## Jace Talk: Game Modes
 https://youtube.com/embed/slNYE26evgc?autoplay=1&start=291&end=353
 
 ### Topics
-* [Features > Possible Features > Game Modes](../topics/features/possible-features/game-modes.md)
-* [Features > Possible Features > Game Modes > Creative Mode](../topics/features/possible-features/game-modes/creative-mode.md)
-* [Features > Possible Features > Game Modes > Peaceful Mode](../topics/features/possible-features/game-modes/peaceful-mode.md)
+* [Features > Game Modes](../topics/features/game-modes.md)
+* [Features > Game Modes > Creative Mode](../topics/features/game-modes/creative-mode.md)
+* [Features > Game Modes > Peaceful Mode](../topics/features/game-modes/peaceful-mode.md)
 
 ### Transcript
 

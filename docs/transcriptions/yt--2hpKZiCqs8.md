@@ -3,7 +3,7 @@ title: "October 25th, 2022 Livestream Q&A: Permanent FICSMAS?"
 date: "2022-10-25"
 layout: transcript
 topics:
-    - "features/possible-features/game-modes"
+    - "features/game-modes"
     - "features/requested-features"
     - "satisfactory-updates/seasonal-events/fics-mas"
 ---
@@ -12,7 +12,7 @@ topics:
 https://www.youtube.com/watch?v=-2hpKZiCqs8
 
 ### Topics
-* [Features > Possible Features > Game Modes](../topics/features/possible-features/game-modes.md)
+* [Features > Game Modes](../topics/features/game-modes.md)
 * [Features > Requested Features](../topics/features/requested-features.md)
 * [Satisfactory Updates > Seasonal Events > FICS⁕MAS](../topics/satisfactory-updates/seasonal-events/fics-mas.md)
 

@@ -6,7 +6,7 @@ topics:
     - "features/blueprints"
     - "features/buildings/blueprint-designer"
     - "features/tiers"
-    - "satisfactory-updates/pending/satisfactory-update-7"
+    - "satisfactory-updates/released/satisfactory-update-7"
 ---
 # [November 15th, 2022 Livestream](../2022-11-15.md)
 ## Q&A: What Tier are Blueprints unlocked in?
@@ -16,7 +16,7 @@ https://youtube.com/clip/UgkxUHkKTprMII-CnG_4VVaIvumPaff06Gs2
 * [Features > Blueprints](../topics/features/blueprints.md)
 * [Features > Buildings > Blueprint Designer](../topics/features/buildings/blueprint-designer.md)
 * [Features > Tiers](../topics/features/tiers.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 7](../topics/satisfactory-updates/pending/satisfactory-update-7.md)
+* [Satisfactory Updates > Released > Satisfactory Update 7](../topics/satisfactory-updates/released/satisfactory-update-7.md)
 
 ### Transcript
 

@@ -3,7 +3,7 @@ title: "May 11th, 2021 Livestream Q&A: Will there be a Peaceful mode?"
 date: "2021-05-11"
 layout: transcript
 topics:
-    - "features/possible-features/game-modes/peaceful-mode"
+    - "features/game-modes/peaceful-mode"
 ---
 # [May 11th, 2021 Livestream](../2021-05-11.md)
 ## Q&A: Will there be a Peaceful mode?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: [August 30th, 2
 
 
 ### Topics
-* [Features > Possible Features > Game Modes > Peaceful Mode](../topics/features/possible-features/game-modes/peaceful-mode.md)
+* [Features > Game Modes > Peaceful Mode](../topics/features/game-modes/peaceful-mode.md)
 
 ### Transcript
 

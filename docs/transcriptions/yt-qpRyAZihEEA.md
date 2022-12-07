@@ -3,7 +3,7 @@ title: "November 29th, 2022 Livestream Q&A: Are you ever adding PvP?"
 date: "2022-11-29"
 layout: transcript
 topics:
-    - "features/possible-features/game-modes/battle-royale"
+    - "features/possible-features/battle-royale"
 ---
 # [November 29th, 2022 Livestream](../2022-11-29.md)
 ## Q&A: Are you ever adding PvP?
@@ -19,7 +19,7 @@ https://www.youtube.com/watch?v=qpRyAZihEEA
 
 
 ### Topics
-* [Features > Possible Features > Game Modes > Battle Royale](../topics/features/possible-features/game-modes/battle-royale.md)
+* [Features > Possible Features > Battle Royale](../topics/features/possible-features/battle-royale.md)
 
 ### Transcript
 

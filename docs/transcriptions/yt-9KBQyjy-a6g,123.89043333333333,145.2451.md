@@ -6,7 +6,7 @@ topics:
     - "community"
     - "embracer-group/coffee-stain-holding/coffee-stain-studios"
     - "features/blueprints"
-    - "satisfactory-updates/pending/satisfactory-update-7"
+    - "satisfactory-updates/released/satisfactory-update-7"
 ---
 # [November 11th, 2022 Video](../2022-11-11.md)
 ## Community point of view vs. Coffee Stain Studio's point of view
@@ -16,7 +16,7 @@ https://youtube.com/clip/UgkxDwLcA4exgGBp9J3v2A3mrfqRPhibdqg0
 * [Community](../topics/community.md)
 * [Embracer Group > Coffee Stain Holding > Coffee Stain Studios](../topics/embracer-group/coffee-stain-holding/coffee-stain-studios.md)
 * [Features > Blueprints](../topics/features/blueprints.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 7](../topics/satisfactory-updates/pending/satisfactory-update-7.md)
+* [Satisfactory Updates > Released > Satisfactory Update 7](../topics/satisfactory-updates/released/satisfactory-update-7.md)
 
 ### Transcript
 

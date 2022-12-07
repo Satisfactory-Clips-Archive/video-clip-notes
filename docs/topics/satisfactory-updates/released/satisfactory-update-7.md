@@ -3,7 +3,7 @@ title: "Satisfactory Update 7"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEq99AIuldrDf7WJJpvEtkEO
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Pending](../../../topics/satisfactory-updates/pending.md) > Satisfactory Update 7
+# [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Released > Satisfactory Update 7
 
 ## November 30th, 2022 Video
 * [Update 7 Release Date](../../../transcriptions/yt-kw3epGt82yk,91.8,151.13333333333333.md) [https://youtube.com/embed/kw3epGt82yk?autoplay=1&start=91&end=152](https://youtube.com/embed/kw3epGt82yk?autoplay=1&start=91&end=152)

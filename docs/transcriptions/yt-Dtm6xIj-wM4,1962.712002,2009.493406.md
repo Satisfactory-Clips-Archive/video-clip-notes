@@ -3,7 +3,7 @@ title: "February 6th, 2019 Livestream Q&A: Sandbox mode available?"
 date: "2019-02-06"
 layout: transcript
 topics:
-    - "features/possible-features/game-modes/creative-mode"
+    - "features/game-modes/creative-mode"
 ---
 # [February 6th, 2019 Livestream](../2019-02-06.md)
 ## Q&A: Sandbox mode available?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: [February 8th, 
 
 
 ### Topics
-* [Features > Possible Features > Game Modes > Creative Mode](../topics/features/possible-features/game-modes/creative-mode.md)
+* [Features > Game Modes > Creative Mode](../topics/features/game-modes/creative-mode.md)
 
 ### Transcript
 

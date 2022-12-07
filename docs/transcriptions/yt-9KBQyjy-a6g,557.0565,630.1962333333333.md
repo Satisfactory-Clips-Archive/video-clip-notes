@@ -6,7 +6,7 @@ topics:
     - "features/blueprints"
     - "features/buildables/conveyor-belts"
     - "features/buildings/constructor"
-    - "satisfactory-updates/pending/satisfactory-update-7"
+    - "satisfactory-updates/released/satisfactory-update-7"
 ---
 # [November 11th, 2022 Video](../2022-11-11.md)
 ## Applying the Iron Rod Manifold
@@ -16,7 +16,7 @@ https://youtube.com/embed/9KBQyjy-a6g?autoplay=1&start=557&end=631
 * [Features > Blueprints](../topics/features/blueprints.md)
 * [Features > Buildables > Conveyor Belts](../topics/features/buildables/conveyor-belts.md)
 * [Features > Buildings > Constructor](../topics/features/buildings/constructor.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 7](../topics/satisfactory-updates/pending/satisfactory-update-7.md)
+* [Satisfactory Updates > Released > Satisfactory Update 7](../topics/satisfactory-updates/released/satisfactory-update-7.md)
 
 ### Transcript
 

@@ -3,7 +3,7 @@ title: "March 30th, 2021 Livestream Q&A: Is Creative Mode coming?"
 date: "2021-03-30"
 layout: transcript
 topics:
-    - "features/possible-features/game-modes/creative-mode"
+    - "features/game-modes/creative-mode"
 ---
 # [March 30th, 2021 Livestream](../2021-03-30.md)
 ## Q&A: Is Creative Mode coming?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: [February 8th, 
 
 
 ### Topics
-* [Features > Possible Features > Game Modes > Creative Mode](../topics/features/possible-features/game-modes/creative-mode.md)
+* [Features > Game Modes > Creative Mode](../topics/features/game-modes/creative-mode.md)
 
 ### Transcript
 

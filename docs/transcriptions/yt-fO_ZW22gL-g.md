@@ -3,7 +3,7 @@ title: "February 11th, 2020 Livestream Q&A: Battle Royale?"
 date: "2020-02-11"
 layout: transcript
 topics:
-    - "features/possible-features/game-modes/battle-royale"
+    - "features/possible-features/battle-royale"
     - "satisfactory-updates/released/satisfactory-update-4"
     - "trolling"
 ---
@@ -14,7 +14,7 @@ This question was possibly duplicated with a more recent answer: July 20th, 2021
 
 
 ### Topics
-* [Features > Possible Features > Game Modes > Battle Royale](../topics/features/possible-features/game-modes/battle-royale.md)
+* [Features > Possible Features > Battle Royale](../topics/features/possible-features/battle-royale.md)
 * [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 * [Trolling](../topics/trolling.md)
 

@@ -3,7 +3,7 @@ title: "September 8th, 2020 Livestream Q&A: Elements of Survival ?"
 date: "2020-09-08"
 layout: transcript
 topics:
-    - "features/possible-features/game-modes"
+    - "features/game-modes"
 ---
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Elements of Survival ?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: [December 7th, 
 
 
 ### Topics
-* [Features > Possible Features > Game Modes](../topics/features/possible-features/game-modes.md)
+* [Features > Game Modes](../topics/features/game-modes.md)
 
 ### Transcript
 

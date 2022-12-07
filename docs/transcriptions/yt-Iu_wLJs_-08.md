@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "environment/biomes/spire-coast"
     - "environment/resources"
-    - "satisfactory-updates/pending/satisfactory-update-7"
+    - "satisfactory-updates/released/satisfactory-update-7"
     - "satisfactory-updates/world-update"
 ---
 # [October 25th, 2022 Livestream](../2022-10-25.md)
@@ -21,7 +21,7 @@ https://www.youtube.com/watch?v=Iu_wLJs_-08
 ### Topics
 * [Environment > Biomes > Spire Coast](../topics/environment/biomes/spire-coast.md)
 * [Environment > Resources](../topics/environment/resources.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 7](../topics/satisfactory-updates/pending/satisfactory-update-7.md)
+* [Satisfactory Updates > Released > Satisfactory Update 7](../topics/satisfactory-updates/released/satisfactory-update-7.md)
 * [Satisfactory Updates > World Update](../topics/satisfactory-updates/world-update.md)
 
 ### Transcript

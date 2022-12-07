@@ -3,16 +3,16 @@ title: "October 25th, 2022 Livestream Q&A: Wouldn't it be better to name it 6.2?
 date: "2022-10-25"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-7"
     - "satisfactory-updates/released/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-7"
 ---
 # [October 25th, 2022 Livestream](../2022-10-25.md)
 ## Q&A: Wouldn't it be better to name it 6.2?
 https://www.youtube.com/watch?v=I-0vuqBojUk
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 7](../topics/satisfactory-updates/pending/satisfactory-update-7.md)
 * [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 7](../topics/satisfactory-updates/released/satisfactory-update-7.md)
 
 ### Transcript
 

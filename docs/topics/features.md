@@ -12,6 +12,7 @@ date: Last Modified
 * [Emotes](../topics/features/emotes.md)
 * [Equipment](../topics/features/equipment.md)
 * [Fluids](../topics/features/fluids.md)
+* [Game Modes](../topics/features/game-modes.md)
 * [Gases](../topics/features/gases.md)
 * [Global Build Grid](../topics/features/global-build-grid.md)
 * [Holstering Equipment](../topics/features/holstering-equipment.md)

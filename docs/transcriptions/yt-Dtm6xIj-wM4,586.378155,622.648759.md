@@ -4,7 +4,7 @@ date: "2019-02-06"
 layout: transcript
 topics:
     - "environment/creatures"
-    - "features/possible-features/game-modes"
+    - "features/game-modes"
 ---
 # [February 6th, 2019 Livestream](../2019-02-06.md)
 ## Q&A: Will there be PvE or PvP ?
@@ -14,7 +14,7 @@ This question was possibly duplicated with a more recent answer: [November 29th,
 
 ### Topics
 * [Environment > Creatures](../topics/environment/creatures.md)
-* [Features > Possible Features > Game Modes](../topics/features/possible-features/game-modes.md)
+* [Features > Game Modes](../topics/features/game-modes.md)
 
 ### Transcript
 

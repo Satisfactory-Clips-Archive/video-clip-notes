@@ -6,7 +6,7 @@ topics:
     - "features/blueprints"
     - "features/buildings/blueprint-designer"
     - "features/power-management"
-    - "satisfactory-updates/pending/satisfactory-update-7"
+    - "satisfactory-updates/released/satisfactory-update-7"
 ---
 # [November 11th, 2022 Video](../2022-11-11.md)
 ## Power
@@ -16,7 +16,7 @@ https://youtube.com/clip/UgkxhZIZ3nfu0a2imIa7Wmifp1YafYiYzroo
 * [Features > Blueprints](../topics/features/blueprints.md)
 * [Features > Buildings > Blueprint Designer](../topics/features/buildings/blueprint-designer.md)
 * [Features > Power Management](../topics/features/power-management.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 7](../topics/satisfactory-updates/pending/satisfactory-update-7.md)
+* [Satisfactory Updates > Released > Satisfactory Update 7](../topics/satisfactory-updates/released/satisfactory-update-7.md)
 
 ### Transcript
 

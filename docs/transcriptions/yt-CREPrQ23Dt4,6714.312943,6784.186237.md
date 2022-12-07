@@ -3,7 +3,7 @@ title: "November 15th, 2022 Livestream Dylan, Mark, and Snutt Talk: FICSMAS 2022
 date: "2022-11-15"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-7"
+    - "satisfactory-updates/released/satisfactory-update-7"
     - "satisfactory-updates/seasonal-events/fics-mas"
     - "special-guests"
 ---
@@ -12,7 +12,7 @@ topics:
 https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=6714&end=6785
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 7](../topics/satisfactory-updates/pending/satisfactory-update-7.md)
+* [Satisfactory Updates > Released > Satisfactory Update 7](../topics/satisfactory-updates/released/satisfactory-update-7.md)
 * [Satisfactory Updates > Seasonal Events > FICS⁕MAS](../topics/satisfactory-updates/seasonal-events/fics-mas.md)
 * [Special Guests](../topics/special-guests.md)
 

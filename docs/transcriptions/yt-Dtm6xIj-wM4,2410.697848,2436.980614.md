@@ -3,7 +3,7 @@ title: "February 6th, 2019 Livestream Q&A: Is there going to be Survival element
 date: "2019-02-06"
 layout: transcript
 topics:
-    - "features/possible-features/game-modes"
+    - "features/game-modes"
 ---
 # [February 6th, 2019 Livestream](../2019-02-06.md)
 ## Q&A: Is there going to be Survival elements to keep the player alive?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: [December 7th, 
 
 
 ### Topics
-* [Features > Possible Features > Game Modes](../topics/features/possible-features/game-modes.md)
+* [Features > Game Modes](../topics/features/game-modes.md)
 
 ### Transcript
 

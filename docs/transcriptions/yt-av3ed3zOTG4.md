@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "environment/resources"
     - "features/buildings/space-elevator"
-    - "features/possible-features/game-modes"
+    - "features/game-modes"
     - "features/requested-features"
 ---
 # [November 22nd, 2022 Livestream](../2022-11-22.md)
@@ -21,7 +21,7 @@ https://www.youtube.com/watch?v=av3ed3zOTG4
 ### Topics
 * [Environment > Resources](../topics/environment/resources.md)
 * [Features > Buildings > Space Elevator](../topics/features/buildings/space-elevator.md)
-* [Features > Possible Features > Game Modes](../topics/features/possible-features/game-modes.md)
+* [Features > Game Modes](../topics/features/game-modes.md)
 * [Features > Requested Features](../topics/features/requested-features.md)
 
 ### Transcript

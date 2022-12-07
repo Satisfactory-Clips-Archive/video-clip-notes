@@ -3,16 +3,16 @@ title: "October 21st, 2022 Video Other Game Modes"
 date: "2022-10-21"
 layout: transcript
 topics:
-    - "features/possible-features/game-modes"
-    - "satisfactory-updates/pending/satisfactory-update-7"
+    - "features/game-modes"
+    - "satisfactory-updates/released/satisfactory-update-7"
 ---
 # [October 21st, 2022 Video](../2022-10-21.md)
 ## Other Game Modes
 https://youtube.com/clip/Ugkx9Oywb5n5bGKPyt8EIngRq7Bi_iQT47me
 
 ### Topics
-* [Features > Possible Features > Game Modes](../topics/features/possible-features/game-modes.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 7](../topics/satisfactory-updates/pending/satisfactory-update-7.md)
+* [Features > Game Modes](../topics/features/game-modes.md)
+* [Satisfactory Updates > Released > Satisfactory Update 7](../topics/satisfactory-updates/released/satisfactory-update-7.md)
 
 ### Transcript
 

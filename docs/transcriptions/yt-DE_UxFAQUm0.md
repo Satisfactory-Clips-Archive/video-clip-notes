@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "features/crafting"
     - "features/crafting/superposition-oscillator"
-    - "features/possible-features/game-modes"
+    - "features/game-modes"
     - "features/tiers"
 ---
 # [June 8th, 2021 Livestream](../2021-06-08.md)
@@ -15,7 +15,7 @@ https://www.youtube.com/watch?v=DE_UxFAQUm0
 ### Topics
 * [Features > Crafting](../topics/features/crafting.md)
 * [Features > Crafting > Superposition Oscillator](../topics/features/crafting/superposition-oscillator.md)
-* [Features > Possible Features > Game Modes](../topics/features/possible-features/game-modes.md)
+* [Features > Game Modes](../topics/features/game-modes.md)
 * [Features > Tiers](../topics/features/tiers.md)
 
 ### Transcript

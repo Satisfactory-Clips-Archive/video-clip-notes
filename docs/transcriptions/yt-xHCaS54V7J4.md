@@ -6,7 +6,7 @@ topics:
     - "features/blueprints"
     - "merch"
     - "qa-site"
-    - "satisfactory-updates/pending/satisfactory-update-7"
+    - "satisfactory-updates/released/satisfactory-update-7"
     - "satisfactory-updates/seasonal-events/fics-mas"
     - "satisfactory-updates/state-of-dev"
 ---
@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=xHCaS54V7J4
 * [Features > Blueprints](../topics/features/blueprints.md)
 * [Merch](../topics/merch.md)
 * [QA Site](../topics/qa-site.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 7](../topics/satisfactory-updates/pending/satisfactory-update-7.md)
+* [Satisfactory Updates > Released > Satisfactory Update 7](../topics/satisfactory-updates/released/satisfactory-update-7.md)
 * [Satisfactory Updates > Seasonal Events > FICS⁕MAS](../topics/satisfactory-updates/seasonal-events/fics-mas.md)
 * [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 

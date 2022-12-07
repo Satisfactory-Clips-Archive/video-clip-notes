@@ -3,7 +3,7 @@ title: "May 24th, 2022 Livestream Q&A: Any chance for a Peaceful Mode with no Cr
 date: "2022-05-24"
 layout: transcript
 topics:
-    - "features/possible-features/game-modes/peaceful-mode"
+    - "features/game-modes/peaceful-mode"
 ---
 # [May 24th, 2022 Livestream](../2022-05-24.md)
 ## Q&A: Any chance for a Peaceful Mode with no Creatures?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: [August 30th, 2
 
 
 ### Topics
-* [Features > Possible Features > Game Modes > Peaceful Mode](../topics/features/possible-features/game-modes/peaceful-mode.md)
+* [Features > Game Modes > Peaceful Mode](../topics/features/game-modes/peaceful-mode.md)
 
 ### Transcript
 

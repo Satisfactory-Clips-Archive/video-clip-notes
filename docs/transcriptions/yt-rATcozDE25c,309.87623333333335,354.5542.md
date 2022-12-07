@@ -3,7 +3,7 @@ title: "October 1st, 2020 Q&A Q&A: Can we get survival features added in a mode 
 date: "2020-10-01"
 layout: transcript
 topics:
-    - "features/possible-features/game-modes"
+    - "features/game-modes"
 ---
 # [October 1st, 2020 Q&A](../2020-10-01.md)
 ## Q&A: Can we get survival features added in a mode for those of us who want more of a challenge?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: [December 7th, 
 
 
 ### Topics
-* [Features > Possible Features > Game Modes](../topics/features/possible-features/game-modes.md)
+* [Features > Game Modes](../topics/features/game-modes.md)
 
 ### Transcript
 

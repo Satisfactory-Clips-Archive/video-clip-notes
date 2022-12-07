@@ -3,7 +3,7 @@ title: "November 15th, 2022 Livestream Dylan, Mark, and Snutt Talk: Main Menu no
 date: "2022-11-15"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-7"
+    - "satisfactory-updates/released/satisfactory-update-7"
     - "special-guests"
     - "technology/user-interface"
 ---
@@ -12,7 +12,7 @@ topics:
 https://youtube.com/clip/UgkxSjpc1AwtAjXS8qxMKMHFCDX3kwnJHcgo
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 7](../topics/satisfactory-updates/pending/satisfactory-update-7.md)
+* [Satisfactory Updates > Released > Satisfactory Update 7](../topics/satisfactory-updates/released/satisfactory-update-7.md)
 * [Special Guests](../topics/special-guests.md)
 * [Technology > User Interface](../topics/technology/user-interface.md)
 

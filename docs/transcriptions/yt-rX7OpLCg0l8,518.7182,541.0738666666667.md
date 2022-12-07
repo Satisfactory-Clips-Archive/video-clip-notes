@@ -4,7 +4,7 @@ date: "2022-10-21"
 layout: transcript
 topics:
     - "features/buildables/conveyor-belts"
-    - "satisfactory-updates/pending/satisfactory-update-7"
+    - "satisfactory-updates/released/satisfactory-update-7"
 ---
 # [October 21st, 2022 Video](../2022-10-21.md)
 ## Quality of Life Improvements
@@ -12,7 +12,7 @@ https://youtube.com/clip/Ugkxyeb8cXmY5OAmPadwMWuy4ugfA478kRAP
 
 ### Topics
 * [Features > Buildables > Conveyor Belts](../topics/features/buildables/conveyor-belts.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 7](../topics/satisfactory-updates/pending/satisfactory-update-7.md)
+* [Satisfactory Updates > Released > Satisfactory Update 7](../topics/satisfactory-updates/released/satisfactory-update-7.md)
 
 ### Transcript
 

@@ -3,9 +3,9 @@ title: "September 28th, 2021 Livestream Q&A: Do you already have a plan after Up
 date: "2021-09-28"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-7"
     - "satisfactory-updates/released/satisfactory-update-5"
     - "satisfactory-updates/released/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-7"
     - "satisfactory-updates/speculative/satisfactory-update-8"
 ---
 # [September 28th, 2021 Livestream](../2021-09-28.md)
@@ -13,9 +13,9 @@ topics:
 https://www.youtube.com/watch?v=eMwd2j_3Dso
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 7](../topics/satisfactory-updates/pending/satisfactory-update-7.md)
 * [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 * [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 7](../topics/satisfactory-updates/released/satisfactory-update-7.md)
 * [Satisfactory Updates > Speculative > Satisfactory Update 8](../topics/satisfactory-updates/speculative/satisfactory-update-8.md)
 
 ### Transcript

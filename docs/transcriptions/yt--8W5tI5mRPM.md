@@ -3,7 +3,7 @@ title: "July 20th, 2021 Livestream Q&A: Satisfactory Battle Royale?"
 date: "2021-07-20"
 layout: transcript
 topics:
-    - "features/possible-features/game-modes/battle-royale"
+    - "features/possible-features/battle-royale"
 ---
 # [July 20th, 2021 Livestream](../2021-07-20.md)
 ## Q&A: Satisfactory Battle Royale?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: July 20th, 2021
 
 
 ### Topics
-* [Features > Possible Features > Game Modes > Battle Royale](../topics/features/possible-features/game-modes/battle-royale.md)
+* [Features > Possible Features > Battle Royale](../topics/features/possible-features/battle-royale.md)
 
 ### Transcript
 

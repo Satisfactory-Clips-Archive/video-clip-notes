@@ -4,7 +4,7 @@ date: "2022-11-11"
 layout: transcript
 topics:
     - "features/blueprints"
-    - "satisfactory-updates/pending/satisfactory-update-7"
+    - "satisfactory-updates/released/satisfactory-update-7"
     - "technology/unreal-engine/object-limit"
 ---
 # [November 11th, 2022 Video](../2022-11-11.md)
@@ -13,7 +13,7 @@ https://youtube.com/clip/UgkxMQK-xBROAVsQ9LrhYt3LKK2FyluU0VJ2
 
 ### Topics
 * [Features > Blueprints](../topics/features/blueprints.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 7](../topics/satisfactory-updates/pending/satisfactory-update-7.md)
+* [Satisfactory Updates > Released > Satisfactory Update 7](../topics/satisfactory-updates/released/satisfactory-update-7.md)
 * [Technology > Unreal Engine > Object Limit](../topics/technology/unreal-engine/object-limit.md)
 
 ### Transcript

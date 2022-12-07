@@ -4,7 +4,7 @@ date: "2022-02-22"
 layout: transcript
 topics:
     - "features/buildings/space-elevator"
-    - "features/possible-features/game-modes"
+    - "features/game-modes"
 ---
 # [February 22nd, 2022 Livestream](../2022-02-22.md)
 ## Q&A: Have you thought about making Space Elevator goals more difficult?
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=Q7byNQ9xEkw
 
 ### Topics
 * [Features > Buildings > Space Elevator](../topics/features/buildings/space-elevator.md)
-* [Features > Possible Features > Game Modes](../topics/features/possible-features/game-modes.md)
+* [Features > Game Modes](../topics/features/game-modes.md)
 
 ### Transcript
 

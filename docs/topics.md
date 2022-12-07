@@ -259,12 +259,18 @@ date: Last Modified
 * [Valves](./topics/features/fluids/valves.md)
 ---
 
+## [Game Modes](./topics/features/game-modes.md)
+* [Creative Mode](./topics/features/game-modes/creative-mode.md)
+* [Peaceful Mode](./topics/features/game-modes/peaceful-mode.md)
+---
+
 ## [Multiplayer](./topics/features/multiplayer.md)
 * [Crossplay](./topics/features/multiplayer/crossplay.md)
 * [Dedicated Servers](./topics/features/multiplayer/dedicated-servers.md)
 ---
 
 ## [Possible Features](./topics/features/possible-features.md)
+* [Battle Royale](./topics/features/possible-features/battle-royale.md)
 * [Character Customisation](./topics/features/possible-features/character-customisation.md)
 * [Console Release](./topics/features/possible-features/console-release.md)
 * [Decor](./topics/features/possible-features/decor.md)
@@ -274,12 +280,6 @@ date: Last Modified
 ### [DLC](./topics/features/possible-features/dlc.md)
 * [Flushable Toilet DLC](./topics/features/possible-features/dlc/flushable-toilet-dlc.md)
 * [Toilet Paper DLC](./topics/features/possible-features/dlc/toilet-paper-dlc.md)
----
-
-### [Game Modes](./topics/features/possible-features/game-modes.md)
-* [Battle Royale](./topics/features/possible-features/game-modes/battle-royale.md)
-* [Creative Mode](./topics/features/possible-features/game-modes/creative-mode.md)
-* [Peaceful Mode](./topics/features/possible-features/game-modes/peaceful-mode.md)
 ---
 
 ### [Third-Party Service Integration](./topics/features/possible-features/third-party-service-integration.md)
@@ -516,7 +516,6 @@ date: Last Modified
 ---
 
 ## [Pending](./topics/satisfactory-updates/pending.md)
-* [Satisfactory Update 7](./topics/satisfactory-updates/pending/satisfactory-update-7.md)
 * [Satisfactory 1.0](./topics/satisfactory-updates/pending/satisfactory-1-0.md)
 ---
 
@@ -533,6 +532,7 @@ date: Last Modified
 * [Update 5 Torsten's Cosmetics Whiteboard](./topics/satisfactory-updates/released/satisfactory-update-5/torstens-cosmetics-whiteboard.md)
 ---
 * [Satisfactory Update 6](./topics/satisfactory-updates/released/satisfactory-update-6.md)
+* [Satisfactory Update 7](./topics/satisfactory-updates/released/satisfactory-update-7.md)
 
 ### [Satisfactory Alpha](./topics/satisfactory-updates/released/satisfactory-alpha.md)
 * [Alpha Weekend](./topics/satisfactory-updates/released/satisfactory-alpha/alpha-weekend.md)

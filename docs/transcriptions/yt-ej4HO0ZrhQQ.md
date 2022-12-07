@@ -5,8 +5,8 @@ layout: transcript
 topics:
     - "environment/biomes/spire-coast"
     - "satisfactory-updates/pending/satisfactory-1-0"
-    - "satisfactory-updates/pending/satisfactory-update-7"
     - "satisfactory-updates/released/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-7"
     - "satisfactory-updates/world-update"
 ---
 # [February 8th, 2022 Livestream](../2022-02-08.md)
@@ -22,8 +22,8 @@ https://www.youtube.com/watch?v=ej4HO0ZrhQQ
 ### Topics
 * [Environment > Biomes > Spire Coast](../topics/environment/biomes/spire-coast.md)
 * [Satisfactory Updates > Pending > Satisfactory 1.0](../topics/satisfactory-updates/pending/satisfactory-1-0.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 7](../topics/satisfactory-updates/pending/satisfactory-update-7.md)
 * [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 7](../topics/satisfactory-updates/released/satisfactory-update-7.md)
 * [Satisfactory Updates > World Update](../topics/satisfactory-updates/world-update.md)
 
 ### Transcript

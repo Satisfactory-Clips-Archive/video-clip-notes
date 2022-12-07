@@ -3,7 +3,7 @@ title: "August 30th, 2022 Livestream Community FYI: Current Experimental is too 
 date: "2022-08-30"
 layout: transcript
 topics:
-    - "features/possible-features/game-modes"
+    - "features/game-modes"
     - "satisfactory-updates/release-builds"
     - "satisfactory-updates/released/satisfactory-update-6"
 ---
@@ -12,7 +12,7 @@ topics:
 https://www.youtube.com/watch?v=TZ18kw4Ks3Q
 
 ### Topics
-* [Features > Possible Features > Game Modes](../topics/features/possible-features/game-modes.md)
+* [Features > Game Modes](../topics/features/game-modes.md)
 * [Satisfactory Updates > Release Builds](../topics/satisfactory-updates/release-builds.md)
 * [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
 

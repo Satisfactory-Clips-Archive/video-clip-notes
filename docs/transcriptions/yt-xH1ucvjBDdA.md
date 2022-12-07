@@ -3,7 +3,7 @@ title: "August 10th, 2021 Livestream Q&A: Is there going to be a sandbox mode in
 date: "2021-08-10"
 layout: transcript
 topics:
-    - "features/possible-features/game-modes/creative-mode"
+    - "features/game-modes/creative-mode"
 ---
 # [August 10th, 2021 Livestream](../2021-08-10.md)
 ## Q&A: Is there going to be a sandbox mode in Satisfactory?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: [February 8th, 
 
 
 ### Topics
-* [Features > Possible Features > Game Modes > Creative Mode](../topics/features/possible-features/game-modes/creative-mode.md)
+* [Features > Game Modes > Creative Mode](../topics/features/game-modes/creative-mode.md)
 
 ### Transcript
 

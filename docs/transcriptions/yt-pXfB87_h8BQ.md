@@ -4,7 +4,7 @@ date: "2022-10-18"
 layout: transcript
 topics:
     - "features/requested-features"
-    - "satisfactory-updates/pending/satisfactory-update-7"
+    - "satisfactory-updates/released/satisfactory-update-7"
     - "technology/graphics"
 ---
 # [October 18th, 2022 Livestream](../2022-10-18.md)
@@ -15,7 +15,7 @@ This question was possibly duplicated with a more recent answer: [November 1st, 
 
 ### Topics
 * [Features > Requested Features](../topics/features/requested-features.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 7](../topics/satisfactory-updates/pending/satisfactory-update-7.md)
+* [Satisfactory Updates > Released > Satisfactory Update 7](../topics/satisfactory-updates/released/satisfactory-update-7.md)
 * [Technology > Graphics](../topics/technology/graphics.md)
 
 ### Transcript

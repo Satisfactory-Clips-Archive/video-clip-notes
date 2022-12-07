@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "coffee-stainers/jace"
     - "coffee-stainers/mark"
-    - "features/possible-features/game-modes"
+    - "features/game-modes"
     - "satisfactory-updates/pending/satisfactory-1-0"
     - "story-and-lore"
 ---
@@ -22,7 +22,7 @@ https://www.youtube.com/watch?v=VvnI641_TLs
 ### Topics
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)
 * [Coffee Stainers > Mark](../topics/coffee-stainers/mark.md)
-* [Features > Possible Features > Game Modes](../topics/features/possible-features/game-modes.md)
+* [Features > Game Modes](../topics/features/game-modes.md)
 * [Satisfactory Updates > Pending > Satisfactory 1.0](../topics/satisfactory-updates/pending/satisfactory-1-0.md)
 * [Story & Lore](../topics/story-and-lore.md)
 

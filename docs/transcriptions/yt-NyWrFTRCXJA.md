@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "features/buildings/space-elevator"
     - "features/crafting/recipes"
-    - "features/possible-features/game-modes"
+    - "features/game-modes"
 ---
 # [February 22nd, 2022 Livestream](../2022-02-22.md)
 ## Q&A: What do you think of a Hard Mode with production per minute requirements?
@@ -16,7 +16,7 @@ This question was possibly duplicated with a more recent answer: [November 22nd,
 ### Topics
 * [Features > Buildings > Space Elevator](../topics/features/buildings/space-elevator.md)
 * [Features > Crafting > Recipes](../topics/features/crafting/recipes.md)
-* [Features > Possible Features > Game Modes](../topics/features/possible-features/game-modes.md)
+* [Features > Game Modes](../topics/features/game-modes.md)
 
 ### Transcript
 

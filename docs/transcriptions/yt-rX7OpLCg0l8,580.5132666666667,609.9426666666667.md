@@ -3,7 +3,7 @@ title: "October 21st, 2022 Video FICSMAS 2022"
 date: "2022-10-21"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-7"
+    - "satisfactory-updates/released/satisfactory-update-7"
     - "satisfactory-updates/seasonal-events/fics-mas"
 ---
 # [October 21st, 2022 Video](../2022-10-21.md)
@@ -11,7 +11,7 @@ topics:
 https://youtube.com/clip/Ugkx7pCUCybE8OLS_J9zLMtPv-1UlLCU9kNX
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 7](../topics/satisfactory-updates/pending/satisfactory-update-7.md)
+* [Satisfactory Updates > Released > Satisfactory Update 7](../topics/satisfactory-updates/released/satisfactory-update-7.md)
 * [Satisfactory Updates > Seasonal Events > FICS⁕MAS](../topics/satisfactory-updates/seasonal-events/fics-mas.md)
 
 ### Transcript

@@ -3,7 +3,7 @@ title: "May 25th, 2021 Livestream Q&A: Have you tossed around the idea of Surviv
 date: "2021-05-25"
 layout: transcript
 topics:
-    - "features/possible-features/game-modes"
+    - "features/game-modes"
 ---
 # [May 25th, 2021 Livestream](../2021-05-25.md)
 ## Q&A: Have you tossed around the idea of Survival?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: [December 7th, 
 
 
 ### Topics
-* [Features > Possible Features > Game Modes](../topics/features/possible-features/game-modes.md)
+* [Features > Game Modes](../topics/features/game-modes.md)
 
 ### Transcript
 

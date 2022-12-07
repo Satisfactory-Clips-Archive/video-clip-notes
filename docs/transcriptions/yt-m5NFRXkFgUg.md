@@ -3,7 +3,7 @@ title: "May 25th, 2021 Livestream Q&A: When will there be a Creative Mode or Tra
 date: "2021-05-25"
 layout: transcript
 topics:
-    - "features/possible-features/game-modes/creative-mode"
+    - "features/game-modes/creative-mode"
     - "features/transportation/trains/train-signals"
 ---
 # [May 25th, 2021 Livestream](../2021-05-25.md)
@@ -11,7 +11,7 @@ topics:
 https://www.youtube.com/watch?v=m5NFRXkFgUg
 
 ### Topics
-* [Features > Possible Features > Game Modes > Creative Mode](../topics/features/possible-features/game-modes/creative-mode.md)
+* [Features > Game Modes > Creative Mode](../topics/features/game-modes/creative-mode.md)
 * [Features > Transportation > Trains > Train Signals](../topics/features/transportation/trains/train-signals.md)
 
 ### Transcript

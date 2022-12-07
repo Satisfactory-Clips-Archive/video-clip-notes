@@ -4,7 +4,7 @@ date: "2020-11-10"
 layout: transcript
 topics:
     - "environment/resources"
-    - "features/possible-features/game-modes"
+    - "features/game-modes"
 ---
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Randomising nodes?
@@ -14,7 +14,7 @@ This question was possibly duplicated with a more recent answer: [December 7th, 
 
 ### Topics
 * [Environment > Resources](../topics/environment/resources.md)
-* [Features > Possible Features > Game Modes](../topics/features/possible-features/game-modes.md)
+* [Features > Game Modes](../topics/features/game-modes.md)
 
 ### Transcript
 

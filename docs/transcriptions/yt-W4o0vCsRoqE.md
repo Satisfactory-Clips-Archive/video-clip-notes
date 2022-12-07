@@ -3,7 +3,7 @@ title: "October 25th, 2022 Livestream Q&A: Game Mode with Base Defense?"
 date: "2022-10-25"
 layout: transcript
 topics:
-    - "features/possible-features/game-modes"
+    - "features/game-modes"
     - "features/unplanned-features/base-defense"
 ---
 # [October 25th, 2022 Livestream](../2022-10-25.md)
@@ -13,7 +13,7 @@ This question was possibly duplicated with a more recent answer: [November 22nd,
 
 
 ### Topics
-* [Features > Possible Features > Game Modes](../topics/features/possible-features/game-modes.md)
+* [Features > Game Modes](../topics/features/game-modes.md)
 * [Features > Unplanned Features > Base Defense](../topics/features/unplanned-features/base-defense.md)
 
 ### Transcript

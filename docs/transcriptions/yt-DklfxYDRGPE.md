@@ -4,7 +4,7 @@ date: "2022-11-08"
 layout: transcript
 topics:
     - "community/wiki"
-    - "satisfactory-updates/pending/satisfactory-update-7"
+    - "satisfactory-updates/released/satisfactory-update-7"
     - "satisfactory-updates/state-of-dev"
 ---
 # [November 8th, 2022 Livestream](../2022-11-08.md)
@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=DklfxYDRGPE
 
 ### Topics
 * [Community > Wiki](../topics/community/wiki.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 7](../topics/satisfactory-updates/pending/satisfactory-update-7.md)
+* [Satisfactory Updates > Released > Satisfactory Update 7](../topics/satisfactory-updates/released/satisfactory-update-7.md)
 * [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 
 ### Transcript

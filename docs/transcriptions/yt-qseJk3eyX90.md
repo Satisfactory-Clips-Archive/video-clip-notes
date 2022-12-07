@@ -6,8 +6,8 @@ topics:
     - "environment/creatures"
     - "satisfactory-updates"
     - "satisfactory-updates/pending/satisfactory-1-0"
-    - "satisfactory-updates/pending/satisfactory-update-7"
     - "satisfactory-updates/released/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-7"
     - "satisfactory-updates/state-of-dev"
 ---
 # [August 30th, 2022 Livestream](../2022-08-30.md)
@@ -18,8 +18,8 @@ https://www.youtube.com/watch?v=qseJk3eyX90
 * [Environment > Creatures](../topics/environment/creatures.md)
 * [Satisfactory Updates](../topics/satisfactory-updates.md)
 * [Satisfactory Updates > Pending > Satisfactory 1.0](../topics/satisfactory-updates/pending/satisfactory-1-0.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 7](../topics/satisfactory-updates/pending/satisfactory-update-7.md)
 * [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 7](../topics/satisfactory-updates/released/satisfactory-update-7.md)
 * [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 
 ### Transcript

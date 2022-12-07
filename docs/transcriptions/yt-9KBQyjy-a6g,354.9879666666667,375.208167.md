@@ -8,7 +8,7 @@ topics:
     - "features/buildings/blueprint-designer"
     - "features/buildings/constructor"
     - "features/crafting/recipes"
-    - "satisfactory-updates/pending/satisfactory-update-7"
+    - "satisfactory-updates/released/satisfactory-update-7"
 ---
 # [November 11th, 2022 Video](../2022-11-11.md)
 ## Plan ahead for expansion
@@ -20,7 +20,7 @@ https://youtube.com/clip/UgkxSFjWY6hvm7RXh7y8ZvY8DnxpVgPYYAft
 * [Features > Buildings > Blueprint Designer](../topics/features/buildings/blueprint-designer.md)
 * [Features > Buildings > Constructor](../topics/features/buildings/constructor.md)
 * [Features > Crafting > Recipes](../topics/features/crafting/recipes.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 7](../topics/satisfactory-updates/pending/satisfactory-update-7.md)
+* [Satisfactory Updates > Released > Satisfactory Update 7](../topics/satisfactory-updates/released/satisfactory-update-7.md)
 
 ### Transcript
 

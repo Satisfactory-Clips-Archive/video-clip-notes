@@ -4,7 +4,7 @@ date: "2021-09-28"
 layout: transcript
 topics:
     - "features/crafting/recipes"
-    - "features/possible-features/game-modes"
+    - "features/game-modes"
 ---
 # [September 28th, 2021 Livestream](../2021-09-28.md)
 ## Q&A: Will you add a harder mode at some point with more expensive Recipes?
@@ -20,7 +20,7 @@ https://www.youtube.com/watch?v=vMgvD3QPJqM
 
 ### Topics
 * [Features > Crafting > Recipes](../topics/features/crafting/recipes.md)
-* [Features > Possible Features > Game Modes](../topics/features/possible-features/game-modes.md)
+* [Features > Game Modes](../topics/features/game-modes.md)
 
 ### Transcript
 

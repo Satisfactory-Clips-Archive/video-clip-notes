@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "features/buildings/overclocking-and-underclocking"
     - "features/power-management"
-    - "satisfactory-updates/pending/satisfactory-update-7"
+    - "satisfactory-updates/released/satisfactory-update-7"
 ---
 # [October 21st, 2022 Video](../2022-10-21.md)
 ## Power Generators
@@ -14,7 +14,7 @@ https://youtube.com/embed/rX7OpLCg0l8?autoplay=1&start=385&end=452
 ### Topics
 * [Features > Buildings > Overclocking & Underclocking](../topics/features/buildings/overclocking-and-underclocking.md)
 * [Features > Power Management](../topics/features/power-management.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 7](../topics/satisfactory-updates/pending/satisfactory-update-7.md)
+* [Satisfactory Updates > Released > Satisfactory Update 7](../topics/satisfactory-updates/released/satisfactory-update-7.md)
 
 ### Transcript
 

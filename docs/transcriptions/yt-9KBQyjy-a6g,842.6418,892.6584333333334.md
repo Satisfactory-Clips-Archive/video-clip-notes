@@ -6,7 +6,7 @@ topics:
     - "features/blueprints"
     - "features/save-system"
     - "features/save-system/cloud-sync"
-    - "satisfactory-updates/pending/satisfactory-update-7"
+    - "satisfactory-updates/released/satisfactory-update-7"
 ---
 # [November 11th, 2022 Video](../2022-11-11.md)
 ## Blueprints are not persistent to your Save file
@@ -16,7 +16,7 @@ https://youtube.com/clip/UgkxKQFoYRVWKeGPQ2pEl2zgtmFFB4SwryyP
 * [Features > Blueprints](../topics/features/blueprints.md)
 * [Features > Save System](../topics/features/save-system.md)
 * [Features > Save System > Cloud Sync](../topics/features/save-system/cloud-sync.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 7](../topics/satisfactory-updates/pending/satisfactory-update-7.md)
+* [Satisfactory Updates > Released > Satisfactory Update 7](../topics/satisfactory-updates/released/satisfactory-update-7.md)
 
 ### Transcript
 

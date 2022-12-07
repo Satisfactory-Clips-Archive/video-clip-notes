@@ -3,8 +3,8 @@ title: "November 15th, 2022 Livestream Dylan, Mark, and Snutt Talk: Game Modes"
 date: "2022-11-15"
 layout: transcript
 topics:
-    - "features/possible-features/game-modes"
-    - "satisfactory-updates/pending/satisfactory-update-7"
+    - "features/game-modes"
+    - "satisfactory-updates/released/satisfactory-update-7"
     - "special-guests"
 ---
 # [November 15th, 2022 Livestream](../2022-11-15.md)
@@ -12,8 +12,8 @@ topics:
 https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=6784&end=6901
 
 ### Topics
-* [Features > Possible Features > Game Modes](../topics/features/possible-features/game-modes.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 7](../topics/satisfactory-updates/pending/satisfactory-update-7.md)
+* [Features > Game Modes](../topics/features/game-modes.md)
+* [Satisfactory Updates > Released > Satisfactory Update 7](../topics/satisfactory-updates/released/satisfactory-update-7.md)
 * [Special Guests](../topics/special-guests.md)
 
 ### Transcript

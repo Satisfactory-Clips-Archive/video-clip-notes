@@ -4,7 +4,7 @@ date: "2022-11-15"
 layout: transcript
 topics:
     - "retail/epic-store"
-    - "satisfactory-updates/pending/satisfactory-update-7"
+    - "satisfactory-updates/released/satisfactory-update-7"
     - "special-guests"
 ---
 # [November 15th, 2022 Livestream](../2022-11-15.md)
@@ -13,7 +13,7 @@ https://youtube.com/clip/UgkxQFKE2EeoLbhOUXWPnbm9Tknabc4uJ-eI
 
 ### Topics
 * [Retail > Epic Store](../topics/retail/epic-store.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 7](../topics/satisfactory-updates/pending/satisfactory-update-7.md)
+* [Satisfactory Updates > Released > Satisfactory Update 7](../topics/satisfactory-updates/released/satisfactory-update-7.md)
 * [Special Guests](../topics/special-guests.md)
 
 ### Transcript

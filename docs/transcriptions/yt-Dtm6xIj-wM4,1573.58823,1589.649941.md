@@ -3,7 +3,7 @@ title: "February 6th, 2019 Livestream Q&A: Any plans for PvP?"
 date: "2019-02-06"
 layout: transcript
 topics:
-    - "features/possible-features/game-modes"
+    - "features/game-modes"
 ---
 # [February 6th, 2019 Livestream](../2019-02-06.md)
 ## Q&A: Any plans for PvP?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: [November 29th,
 
 
 ### Topics
-* [Features > Possible Features > Game Modes](../topics/features/possible-features/game-modes.md)
+* [Features > Game Modes](../topics/features/game-modes.md)
 
 ### Transcript
 

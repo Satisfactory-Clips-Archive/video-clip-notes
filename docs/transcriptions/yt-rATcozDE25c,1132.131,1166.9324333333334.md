@@ -3,7 +3,7 @@ title: "October 1st, 2020 Q&A Q&A: Will there be an official peaceful/passive mo
 date: "2020-10-01"
 layout: transcript
 topics:
-    - "features/possible-features/game-modes/peaceful-mode"
+    - "features/game-modes/peaceful-mode"
 ---
 # [October 1st, 2020 Q&A](../2020-10-01.md)
 ## Q&A: Will there be an official peaceful/passive mode?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: [August 30th, 2
 
 
 ### Topics
-* [Features > Possible Features > Game Modes > Peaceful Mode](../topics/features/possible-features/game-modes/peaceful-mode.md)
+* [Features > Game Modes > Peaceful Mode](../topics/features/game-modes/peaceful-mode.md)
 
 ### Transcript
 

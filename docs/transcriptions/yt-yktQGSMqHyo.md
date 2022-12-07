@@ -3,7 +3,7 @@ title: "June 1st, 2021 Livestream Q&A: Will Satisfactory have PvP?"
 date: "2021-06-01"
 layout: transcript
 topics:
-    - "features/possible-features/game-modes"
+    - "features/game-modes"
     - "june-2021-epic-mega-sale-stream"
 ---
 # [June 1st, 2021 Livestream](../2021-06-01.md)
@@ -13,7 +13,7 @@ This question was possibly duplicated with a more recent answer: [November 29th,
 
 
 ### Topics
-* [Features > Possible Features > Game Modes](../topics/features/possible-features/game-modes.md)
+* [Features > Game Modes](../topics/features/game-modes.md)
 * [June 2021 Epic Mega Sale Stream](../topics/june-2021-epic-mega-sale-stream.md)
 
 ### Transcript

@@ -3,7 +3,7 @@ title: "June 29th, 2021 Livestream Q&A: When are you guys adding Battle Royale m
 date: "2021-06-29"
 layout: transcript
 topics:
-    - "features/possible-features/game-modes/battle-royale"
+    - "features/possible-features/battle-royale"
 ---
 # [June 29th, 2021 Livestream](../2021-06-29.md)
 ## Q&A: When are you guys adding Battle Royale mode?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: July 20th, 2021
 
 
 ### Topics
-* [Features > Possible Features > Game Modes > Battle Royale](../topics/features/possible-features/game-modes/battle-royale.md)
+* [Features > Possible Features > Battle Royale](../topics/features/possible-features/battle-royale.md)
 
 ### Transcript
 

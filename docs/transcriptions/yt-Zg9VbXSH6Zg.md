@@ -3,7 +3,7 @@ title: "November 9th, 2021 Livestream Q&A: Responsive mode?"
 date: "2021-11-09"
 layout: transcript
 topics:
-    - "features/possible-features/game-modes"
+    - "features/game-modes"
     - "trolling"
 ---
 # [November 9th, 2021 Livestream](../2021-11-09.md)
@@ -11,7 +11,7 @@ topics:
 https://www.youtube.com/watch?v=Zg9VbXSH6Zg
 
 ### Topics
-* [Features > Possible Features > Game Modes](../topics/features/possible-features/game-modes.md)
+* [Features > Game Modes](../topics/features/game-modes.md)
 * [Trolling](../topics/trolling.md)
 
 ### Transcript

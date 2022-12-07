@@ -3,16 +3,16 @@ title: "October 21st, 2022 Video Creative Mode"
 date: "2022-10-21"
 layout: transcript
 topics:
-    - "features/possible-features/game-modes/creative-mode"
-    - "satisfactory-updates/pending/satisfactory-update-7"
+    - "features/game-modes/creative-mode"
+    - "satisfactory-updates/released/satisfactory-update-7"
 ---
 # [October 21st, 2022 Video](../2022-10-21.md)
 ## Creative Mode
 https://youtube.com/clip/Ugkx0Gez1tZXZUKxoBbxhKOIzRyCfHkh5nh2
 
 ### Topics
-* [Features > Possible Features > Game Modes > Creative Mode](../topics/features/possible-features/game-modes/creative-mode.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 7](../topics/satisfactory-updates/pending/satisfactory-update-7.md)
+* [Features > Game Modes > Creative Mode](../topics/features/game-modes/creative-mode.md)
+* [Satisfactory Updates > Released > Satisfactory Update 7](../topics/satisfactory-updates/released/satisfactory-update-7.md)
 
 ### Transcript
 

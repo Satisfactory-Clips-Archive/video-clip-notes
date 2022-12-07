@@ -4,8 +4,8 @@ date: "2021-08-17"
 layout: transcript
 topics:
     - "features/buildings/the-hub"
+    - "features/game-modes"
     - "features/pioneer"
-    - "features/possible-features/game-modes"
     - "features/unplanned-features"
 ---
 # [August 17th, 2021 Livestream](../2021-08-17.md)
@@ -14,8 +14,8 @@ https://www.youtube.com/watch?v=Rfq5XpdNCnA
 
 ### Topics
 * [Features > Buildings > The HUB](../topics/features/buildings/the-hub.md)
+* [Features > Game Modes](../topics/features/game-modes.md)
 * [Features > Pioneer](../topics/features/pioneer.md)
-* [Features > Possible Features > Game Modes](../topics/features/possible-features/game-modes.md)
 * [Features > Unplanned Features](../topics/features/unplanned-features.md)
 
 ### Transcript

@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "features/blueprints"
     - "features/buildables/foundations"
-    - "satisfactory-updates/pending/satisfactory-update-7"
+    - "satisfactory-updates/released/satisfactory-update-7"
 ---
 # [November 11th, 2022 Video](../2022-11-11.md)
 ## Preparing an area for the Manifold Blueprint
@@ -14,7 +14,7 @@ https://youtube.com/clip/UgkxNq08JfMPJ3khI7Eed9ZEkKPvlQwLCj7C
 ### Topics
 * [Features > Blueprints](../topics/features/blueprints.md)
 * [Features > Buildables > Foundations](../topics/features/buildables/foundations.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 7](../topics/satisfactory-updates/pending/satisfactory-update-7.md)
+* [Satisfactory Updates > Released > Satisfactory Update 7](../topics/satisfactory-updates/released/satisfactory-update-7.md)
 
 ### Transcript
 

@@ -3,7 +3,7 @@ title: "September 29th, 2020 Livestream Q&A: Satisfactory Sandbox ever?"
 date: "2020-09-29"
 layout: transcript
 topics:
-    - "features/possible-features/game-modes/creative-mode"
+    - "features/game-modes/creative-mode"
 ---
 # [September 29th, 2020 Livestream](../2020-09-29.md)
 ## Q&A: Satisfactory Sandbox ever?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: [February 8th, 
 
 
 ### Topics
-* [Features > Possible Features > Game Modes > Creative Mode](../topics/features/possible-features/game-modes/creative-mode.md)
+* [Features > Game Modes > Creative Mode](../topics/features/game-modes/creative-mode.md)
 
 ### Transcript
 

@@ -9,8 +9,8 @@ topics:
     - "features/buildables/walls"
     - "mods"
     - "qa-site"
-    - "satisfactory-updates/pending/satisfactory-update-7"
     - "satisfactory-updates/released/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-7"
     - "satisfactory-updates/state-of-dev"
 ---
 # [September 27th, 2022 Livestream](../2022-09-27.md)
@@ -24,8 +24,8 @@ https://www.youtube.com/watch?v=MmzRTLolTgo
 * [Features > Buildables > Walls](../topics/features/buildables/walls.md)
 * [Mods](../topics/mods.md)
 * [QA Site](../topics/qa-site.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 7](../topics/satisfactory-updates/pending/satisfactory-update-7.md)
 * [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 7](../topics/satisfactory-updates/released/satisfactory-update-7.md)
 * [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 
 ### Transcript

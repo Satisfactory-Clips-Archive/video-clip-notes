@@ -3,8 +3,8 @@ title: "November 22nd, 2022 Livestream Q&A: Update 7 in Early Access, when?"
 date: "2022-11-22"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-7"
     - "satisfactory-updates/release-builds"
+    - "satisfactory-updates/released/satisfactory-update-7"
 ---
 # [November 22nd, 2022 Livestream](../2022-11-22.md)
 ## Q&A: Update 7 in Early Access, when?
@@ -13,8 +13,8 @@ This question was possibly replaced with a more recent answer: [November 29th, 2
 
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 7](../topics/satisfactory-updates/pending/satisfactory-update-7.md)
 * [Satisfactory Updates > Release Builds](../topics/satisfactory-updates/release-builds.md)
+* [Satisfactory Updates > Released > Satisfactory Update 7](../topics/satisfactory-updates/released/satisfactory-update-7.md)
 
 ### Transcript
 

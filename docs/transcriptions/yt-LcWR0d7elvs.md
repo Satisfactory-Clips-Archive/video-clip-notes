@@ -4,7 +4,7 @@ date: "2020-08-25"
 layout: transcript
 topics:
     - "environment/resources"
-    - "features/possible-features/game-modes"
+    - "features/game-modes"
 ---
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: Mad Max server where someone controls all the Iron nodes?
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=LcWR0d7elvs
 
 ### Topics
 * [Environment > Resources](../topics/environment/resources.md)
-* [Features > Possible Features > Game Modes](../topics/features/possible-features/game-modes.md)
+* [Features > Game Modes](../topics/features/game-modes.md)
 
 ### Transcript
 

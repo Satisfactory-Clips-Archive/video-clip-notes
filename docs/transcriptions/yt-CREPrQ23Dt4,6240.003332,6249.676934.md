@@ -6,7 +6,7 @@ topics:
     - "features/blueprints"
     - "features/buildings/blueprint-designer"
     - "features/requested-features"
-    - "satisfactory-updates/pending/satisfactory-update-7"
+    - "satisfactory-updates/released/satisfactory-update-7"
     - "special-guests"
 ---
 # [November 15th, 2022 Livestream](../2022-11-15.md)
@@ -19,7 +19,7 @@ This question was possibly duplicated with a more recent answer: [November 15th,
 * [Features > Blueprints](../topics/features/blueprints.md)
 * [Features > Buildings > Blueprint Designer](../topics/features/buildings/blueprint-designer.md)
 * [Features > Requested Features](../topics/features/requested-features.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 7](../topics/satisfactory-updates/pending/satisfactory-update-7.md)
+* [Satisfactory Updates > Released > Satisfactory Update 7](../topics/satisfactory-updates/released/satisfactory-update-7.md)
 * [Special Guests](../topics/special-guests.md)
 
 ### Transcript

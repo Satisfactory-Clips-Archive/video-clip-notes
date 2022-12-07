@@ -3,7 +3,7 @@ title: "November 9th, 2021 Livestream Q&A: Chance we'll see Peaceful Modes in th
 date: "2021-11-09"
 layout: transcript
 topics:
-    - "features/possible-features/game-modes/peaceful-mode"
+    - "features/game-modes/peaceful-mode"
 ---
 # [November 9th, 2021 Livestream](../2021-11-09.md)
 ## Q&A: Chance we'll see Peaceful Modes in the game soon?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: [August 30th, 2
 
 
 ### Topics
-* [Features > Possible Features > Game Modes > Peaceful Mode](../topics/features/possible-features/game-modes/peaceful-mode.md)
+* [Features > Game Modes > Peaceful Mode](../topics/features/game-modes/peaceful-mode.md)
 
 ### Transcript
 

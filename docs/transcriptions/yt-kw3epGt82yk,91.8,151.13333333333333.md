@@ -3,14 +3,14 @@ title: "November 30th, 2022 Video Update 7 Release Date"
 date: "2022-11-30"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-7"
+    - "satisfactory-updates/released/satisfactory-update-7"
 ---
 # [November 30th, 2022 Video](../2022-11-30.md)
 ## Update 7 Release Date
 https://youtube.com/embed/kw3epGt82yk?autoplay=1&start=91&end=152
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 7](../topics/satisfactory-updates/pending/satisfactory-update-7.md)
+* [Satisfactory Updates > Released > Satisfactory Update 7](../topics/satisfactory-updates/released/satisfactory-update-7.md)
 
 ### Transcript
 

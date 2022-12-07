@@ -4,7 +4,7 @@ date: "2022-11-11"
 layout: transcript
 topics:
     - "features/equipment/zip-lines"
-    - "satisfactory-updates/pending/satisfactory-update-7"
+    - "satisfactory-updates/released/satisfactory-update-7"
 ---
 # [November 11th, 2022 Video](../2022-11-11.md)
 ## Sprint Mode for Ziplines
@@ -12,7 +12,7 @@ https://youtube.com/clip/UgkxqO_FNG1fL0wXAMJH01JTl6XlU9bTSnOA
 
 ### Topics
 * [Features > Equipment > Zip Lines](../topics/features/equipment/zip-lines.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 7](../topics/satisfactory-updates/pending/satisfactory-update-7.md)
+* [Satisfactory Updates > Released > Satisfactory Update 7](../topics/satisfactory-updates/released/satisfactory-update-7.md)
 
 ### Transcript
 

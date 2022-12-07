@@ -3,7 +3,7 @@ title: "November 16th, 2021 Livestream Q&A: Will there ever be an option to togg
 date: "2021-11-16"
 layout: transcript
 topics:
-    - "features/possible-features/game-modes/peaceful-mode"
+    - "features/game-modes/peaceful-mode"
 ---
 # [November 16th, 2021 Livestream](../2021-11-16.md)
 ## Q&A: Will there ever be an option to toggle off monsters for those who want to just build?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: [August 30th, 2
 
 
 ### Topics
-* [Features > Possible Features > Game Modes > Peaceful Mode](../topics/features/possible-features/game-modes/peaceful-mode.md)
+* [Features > Game Modes > Peaceful Mode](../topics/features/game-modes/peaceful-mode.md)
 
 ### Transcript
 

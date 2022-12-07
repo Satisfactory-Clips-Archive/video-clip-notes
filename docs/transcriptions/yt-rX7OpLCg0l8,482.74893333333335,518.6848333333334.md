@@ -6,7 +6,7 @@ topics:
     - "environment/creatures"
     - "environment/resources"
     - "features/buildings/awesome-sink"
-    - "satisfactory-updates/pending/satisfactory-update-7"
+    - "satisfactory-updates/released/satisfactory-update-7"
 ---
 # [October 21st, 2022 Video](../2022-10-21.md)
 ## AWESOME Sink
@@ -16,7 +16,7 @@ https://youtube.com/clip/Ugkx_qtDyAsJ1XWei9weMq-dIJehwgmw0xXR
 * [Environment > Creatures](../topics/environment/creatures.md)
 * [Environment > Resources](../topics/environment/resources.md)
 * [Features > Buildings > AWESOME Sink](../topics/features/buildings/awesome-sink.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 7](../topics/satisfactory-updates/pending/satisfactory-update-7.md)
+* [Satisfactory Updates > Released > Satisfactory Update 7](../topics/satisfactory-updates/released/satisfactory-update-7.md)
 
 ### Transcript
 

@@ -3,7 +3,7 @@ title: "November 8th, 2022 Livestream Q&A: What is the biggest problem you're al
 date: "2022-11-08"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-7"
+    - "satisfactory-updates/released/satisfactory-update-7"
     - "satisfactory-updates/speculative/satisfactory-update-8"
 ---
 # [November 8th, 2022 Livestream](../2022-11-08.md)
@@ -11,7 +11,7 @@ topics:
 https://www.youtube.com/watch?v=uwqBuRxnXow
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 7](../topics/satisfactory-updates/pending/satisfactory-update-7.md)
+* [Satisfactory Updates > Released > Satisfactory Update 7](../topics/satisfactory-updates/released/satisfactory-update-7.md)
 * [Satisfactory Updates > Speculative > Satisfactory Update 8](../topics/satisfactory-updates/speculative/satisfactory-update-8.md)
 
 ### Transcript

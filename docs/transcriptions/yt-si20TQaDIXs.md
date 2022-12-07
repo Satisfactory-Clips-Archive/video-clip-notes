@@ -3,7 +3,7 @@ title: "February 8th, 2022 Livestream Q&A: Creative Mode?"
 date: "2022-02-08"
 layout: transcript
 topics:
-    - "features/possible-features/game-modes/creative-mode"
+    - "features/game-modes/creative-mode"
 ---
 # [February 8th, 2022 Livestream](../2022-02-08.md)
 ## Q&A: Creative Mode?
@@ -38,7 +38,7 @@ https://www.youtube.com/watch?v=si20TQaDIXs
 
 
 ### Topics
-* [Features > Possible Features > Game Modes > Creative Mode](../topics/features/possible-features/game-modes/creative-mode.md)
+* [Features > Game Modes > Creative Mode](../topics/features/game-modes/creative-mode.md)
 
 ### Transcript
 

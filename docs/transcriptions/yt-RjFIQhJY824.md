@@ -3,7 +3,7 @@ title: "September 22nd, 2020 Livestream Q&A: Hoping for Base Defence?"
 date: "2020-09-22"
 layout: transcript
 topics:
-    - "features/possible-features/game-modes"
+    - "features/game-modes"
     - "features/unplanned-features/base-defense"
 ---
 # [September 22nd, 2020 Livestream](../2020-09-22.md)
@@ -13,7 +13,7 @@ This question was possibly duplicated with a more recent answer: [November 22nd,
 
 
 ### Topics
-* [Features > Possible Features > Game Modes](../topics/features/possible-features/game-modes.md)
+* [Features > Game Modes](../topics/features/game-modes.md)
 * [Features > Unplanned Features > Base Defense](../topics/features/unplanned-features/base-defense.md)
 
 ### Transcript

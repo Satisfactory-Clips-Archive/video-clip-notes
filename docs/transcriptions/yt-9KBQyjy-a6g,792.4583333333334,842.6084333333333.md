@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "features/blueprints"
     - "features/buildings/blueprint-designer"
-    - "satisfactory-updates/pending/satisfactory-update-7"
+    - "satisfactory-updates/released/satisfactory-update-7"
 ---
 # [November 11th, 2022 Video](../2022-11-11.md)
 ## Limitations of the Blueprint Designer
@@ -14,7 +14,7 @@ https://youtube.com/clip/UgkxLJ631a80p0bc6YiWG-vzALA3GzbkD9sP
 ### Topics
 * [Features > Blueprints](../topics/features/blueprints.md)
 * [Features > Buildings > Blueprint Designer](../topics/features/buildings/blueprint-designer.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 7](../topics/satisfactory-updates/pending/satisfactory-update-7.md)
+* [Satisfactory Updates > Released > Satisfactory Update 7](../topics/satisfactory-updates/released/satisfactory-update-7.md)
 
 ### Transcript
 

@@ -3,7 +3,7 @@ title: "June 28th, 2022 Livestream Q&A: Peaceful Mode, ever?"
 date: "2022-06-28"
 layout: transcript
 topics:
-    - "features/possible-features/game-modes/peaceful-mode"
+    - "features/game-modes/peaceful-mode"
 ---
 # [June 28th, 2022 Livestream](../2022-06-28.md)
 ## Q&A: Peaceful Mode, ever?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: [August 30th, 2
 
 
 ### Topics
-* [Features > Possible Features > Game Modes > Peaceful Mode](../topics/features/possible-features/game-modes/peaceful-mode.md)
+* [Features > Game Modes > Peaceful Mode](../topics/features/game-modes/peaceful-mode.md)
 
 ### Transcript
 

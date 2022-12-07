@@ -6,7 +6,7 @@ topics:
     - "environment/resources"
     - "features/blueprints"
     - "features/buildings/blueprint-designer"
-    - "satisfactory-updates/pending/satisfactory-update-7"
+    - "satisfactory-updates/released/satisfactory-update-7"
     - "trolling"
 ---
 # [November 15th, 2022 Livestream](../2022-11-15.md)
@@ -17,7 +17,7 @@ https://youtube.com/clip/UgkxWvMy26ABuzyT-Rj5sDczN-IFFfhjul0X
 * [Environment > Resources](../topics/environment/resources.md)
 * [Features > Blueprints](../topics/features/blueprints.md)
 * [Features > Buildings > Blueprint Designer](../topics/features/buildings/blueprint-designer.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 7](../topics/satisfactory-updates/pending/satisfactory-update-7.md)
+* [Satisfactory Updates > Released > Satisfactory Update 7](../topics/satisfactory-updates/released/satisfactory-update-7.md)
 * [Trolling](../topics/trolling.md)
 
 ### Transcript

@@ -5,8 +5,8 @@ layout: transcript
 topics:
     - "features/blueprints"
     - "features/buildings/blueprint-designer"
-    - "satisfactory-updates/pending/satisfactory-update-7"
     - "satisfactory-updates/release-builds"
+    - "satisfactory-updates/released/satisfactory-update-7"
     - "special-guests"
 ---
 # [November 15th, 2022 Livestream](../2022-11-15.md)
@@ -18,8 +18,8 @@ This question was possibly replaced with a more recent answer: [November 29th, 2
 ### Topics
 * [Features > Blueprints](../topics/features/blueprints.md)
 * [Features > Buildings > Blueprint Designer](../topics/features/buildings/blueprint-designer.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 7](../topics/satisfactory-updates/pending/satisfactory-update-7.md)
 * [Satisfactory Updates > Release Builds](../topics/satisfactory-updates/release-builds.md)
+* [Satisfactory Updates > Released > Satisfactory Update 7](../topics/satisfactory-updates/released/satisfactory-update-7.md)
 * [Special Guests](../topics/special-guests.md)
 
 ### Transcript

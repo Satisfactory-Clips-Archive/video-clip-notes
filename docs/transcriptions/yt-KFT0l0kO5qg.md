@@ -3,7 +3,7 @@ title: "March 23rd, 2021 Livestream Q&A: Will there be a no-mob option ?"
 date: "2021-03-23"
 layout: transcript
 topics:
-    - "features/possible-features/game-modes/peaceful-mode"
+    - "features/game-modes/peaceful-mode"
 ---
 # [March 23rd, 2021 Livestream](../2021-03-23.md)
 ## Q&A: Will there be a no-mob option ?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: [August 30th, 2
 
 
 ### Topics
-* [Features > Possible Features > Game Modes > Peaceful Mode](../topics/features/possible-features/game-modes/peaceful-mode.md)
+* [Features > Game Modes > Peaceful Mode](../topics/features/game-modes/peaceful-mode.md)
 
 ### Transcript
 

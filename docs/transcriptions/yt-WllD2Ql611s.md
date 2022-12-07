@@ -3,20 +3,20 @@ title: "March 9th, 2021 Livestream Q&A: Is there going to be Update 5 after Upda
 date: "2021-03-09"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-7"
     - "satisfactory-updates/released/satisfactory-update-4"
     - "satisfactory-updates/released/satisfactory-update-5"
     - "satisfactory-updates/released/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-7"
 ---
 # [March 9th, 2021 Livestream](../2021-03-09.md)
 ## Q&A: Is there going to be Update 5 after Update 4, or is it going to be finished?
 https://www.youtube.com/watch?v=WllD2Ql611s
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 7](../topics/satisfactory-updates/pending/satisfactory-update-7.md)
 * [Satisfactory Updates > Released > Satisfactory Update 4](../topics/satisfactory-updates/released/satisfactory-update-4.md)
 * [Satisfactory Updates > Released > Satisfactory Update 5](../topics/satisfactory-updates/released/satisfactory-update-5.md)
 * [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 7](../topics/satisfactory-updates/released/satisfactory-update-7.md)
 
 ### Transcript
 

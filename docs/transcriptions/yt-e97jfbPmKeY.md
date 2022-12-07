@@ -4,7 +4,7 @@ date: "2021-02-09"
 layout: transcript
 topics:
     - "coffee-stainers/mark"
-    - "features/possible-features/game-modes"
+    - "features/game-modes"
 ---
 # [February 9th, 2021 Livestream](../2021-02-09.md)
 ## Q&A: Are you adding a Hard Mode?
@@ -14,7 +14,7 @@ This question was possibly duplicated with a more recent answer: [September 28th
 
 ### Topics
 * [Coffee Stainers > Mark](../topics/coffee-stainers/mark.md)
-* [Features > Possible Features > Game Modes](../topics/features/possible-features/game-modes.md)
+* [Features > Game Modes](../topics/features/game-modes.md)
 
 ### Transcript
 

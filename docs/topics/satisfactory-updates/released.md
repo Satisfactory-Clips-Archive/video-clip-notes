@@ -11,3 +11,4 @@ date: Last Modified
 * [Satisfactory Update 4](../../topics/satisfactory-updates/released/satisfactory-update-4.md)
 * [Satisfactory Update 5](../../topics/satisfactory-updates/released/satisfactory-update-5.md)
 * [Satisfactory Update 6](../../topics/satisfactory-updates/released/satisfactory-update-6.md)
+* [Satisfactory Update 7](../../topics/satisfactory-updates/released/satisfactory-update-7.md)

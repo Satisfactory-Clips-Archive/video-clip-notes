@@ -3,7 +3,7 @@ title: "October 18th, 2022 Livestream State of Dev"
 date: "2022-10-18"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-7"
+    - "satisfactory-updates/released/satisfactory-update-7"
     - "satisfactory-updates/state-of-dev"
 ---
 # [October 18th, 2022 Livestream](../2022-10-18.md)
@@ -11,7 +11,7 @@ topics:
 https://www.youtube.com/watch?v=kNfarioe-WU
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 7](../topics/satisfactory-updates/pending/satisfactory-update-7.md)
+* [Satisfactory Updates > Released > Satisfactory Update 7](../topics/satisfactory-updates/released/satisfactory-update-7.md)
 * [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 
 ### Transcript

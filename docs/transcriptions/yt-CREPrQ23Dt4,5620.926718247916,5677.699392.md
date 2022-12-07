@@ -3,8 +3,8 @@ title: "November 15th, 2022 Livestream Dylan, Mark, and Snutt Talk: Passive Mode
 date: "2022-11-15"
 layout: transcript
 topics:
-    - "features/possible-features/game-modes/peaceful-mode"
-    - "satisfactory-updates/pending/satisfactory-update-7"
+    - "features/game-modes/peaceful-mode"
+    - "satisfactory-updates/released/satisfactory-update-7"
     - "special-guests"
 ---
 # [November 15th, 2022 Livestream](../2022-11-15.md)
@@ -12,8 +12,8 @@ topics:
 https://youtube.com/clip/Ugkxajs-z_9DcC3wu7ihUe3_4b9P6EjMvmT9
 
 ### Topics
-* [Features > Possible Features > Game Modes > Peaceful Mode](../topics/features/possible-features/game-modes/peaceful-mode.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 7](../topics/satisfactory-updates/pending/satisfactory-update-7.md)
+* [Features > Game Modes > Peaceful Mode](../topics/features/game-modes/peaceful-mode.md)
+* [Satisfactory Updates > Released > Satisfactory Update 7](../topics/satisfactory-updates/released/satisfactory-update-7.md)
 * [Special Guests](../topics/special-guests.md)
 
 ### Transcript

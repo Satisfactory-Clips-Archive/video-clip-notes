@@ -3,7 +3,7 @@ title: "September 8th, 2020 Livestream Q&A: Ever consider making a VR version of
 date: "2020-09-08"
 layout: transcript
 topics:
-    - "features/possible-features/game-modes"
+    - "features/game-modes"
     - "features/unplanned-features/vr"
 ---
 # [September 8th, 2020 Livestream](../2020-09-08.md)
@@ -13,7 +13,7 @@ This question was possibly duplicated with a more recent answer: [July 5th, 2022
 
 
 ### Topics
-* [Features > Possible Features > Game Modes](../topics/features/possible-features/game-modes.md)
+* [Features > Game Modes](../topics/features/game-modes.md)
 * [Features > Unplanned Features > VR](../topics/features/unplanned-features/vr.md)
 
 ### Transcript

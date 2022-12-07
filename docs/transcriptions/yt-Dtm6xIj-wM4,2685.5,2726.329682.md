@@ -6,7 +6,7 @@ topics:
     - "environment/creatures"
     - "environment/creatures/lizard-doggo"
     - "environment/creatures/non-flying-bird"
-    - "features/possible-features/game-modes"
+    - "features/game-modes"
 ---
 # [February 6th, 2019 Livestream](../2019-02-06.md)
 ## Q&A: You mentioned enemies earlier but now you say there'll be nothing to worry about?
@@ -16,7 +16,7 @@ https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2685&end=2727
 * [Environment > Creatures](../topics/environment/creatures.md)
 * [Environment > Creatures > Lizard Doggo](../topics/environment/creatures/lizard-doggo.md)
 * [Environment > Creatures > Non Flying Bird](../topics/environment/creatures/non-flying-bird.md)
-* [Features > Possible Features > Game Modes](../topics/features/possible-features/game-modes.md)
+* [Features > Game Modes](../topics/features/game-modes.md)
 
 ### Transcript
 

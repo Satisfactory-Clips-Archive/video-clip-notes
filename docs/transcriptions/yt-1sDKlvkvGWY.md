@@ -3,7 +3,7 @@ title: "September 28th, 2021 Livestream Q&A: Do we get a \"Save+\"?"
 date: "2021-09-28"
 layout: transcript
 topics:
-    - "features/possible-features/game-modes"
+    - "features/game-modes"
     - "features/requested-features"
 ---
 # [September 28th, 2021 Livestream](../2021-09-28.md)
@@ -11,7 +11,7 @@ topics:
 https://www.youtube.com/watch?v=1sDKlvkvGWY
 
 ### Topics
-* [Features > Possible Features > Game Modes](../topics/features/possible-features/game-modes.md)
+* [Features > Game Modes](../topics/features/game-modes.md)
 * [Features > Requested Features](../topics/features/requested-features.md)
 
 ### Transcript

@@ -3,14 +3,14 @@ title: "July 20th, 2021 Livestream Jace Talk: Game Modes"
 date: "2021-07-20"
 layout: transcript
 topics:
-    - "features/possible-features/game-modes"
+    - "features/game-modes"
 ---
 # [July 20th, 2021 Livestream](../2021-07-20.md)
 ## Jace Talk: Game Modes
 https://www.youtube.com/watch?v=oy_BABy1Sao
 
 ### Topics
-* [Features > Possible Features > Game Modes](../topics/features/possible-features/game-modes.md)
+* [Features > Game Modes](../topics/features/game-modes.md)
 
 ### Transcript
 

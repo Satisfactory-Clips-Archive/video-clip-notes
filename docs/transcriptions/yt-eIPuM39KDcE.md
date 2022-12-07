@@ -3,7 +3,7 @@ title: "March 9th, 2019 Livestream Q&A: Will there be a creative mode?"
 date: "2019-03-09"
 layout: transcript
 topics:
-    - "features/possible-features/game-modes/creative-mode"
+    - "features/game-modes/creative-mode"
 ---
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Will there be a creative mode?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: [February 8th, 
 
 
 ### Topics
-* [Features > Possible Features > Game Modes > Creative Mode](../topics/features/possible-features/game-modes/creative-mode.md)
+* [Features > Game Modes > Creative Mode](../topics/features/game-modes/creative-mode.md)
 
 ### Transcript
 

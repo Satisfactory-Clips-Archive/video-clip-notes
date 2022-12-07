@@ -4,7 +4,7 @@ date: "2022-02-22"
 layout: transcript
 topics:
     - "environment"
-    - "features/possible-features/game-modes"
+    - "features/game-modes"
 ---
 # [February 22nd, 2022 Livestream](../2022-02-22.md)
 ## Q&A: Game mode to make environmental puzzles more difficult?
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=vI1MbFXJphw
 
 ### Topics
 * [Environment](../topics/environment.md)
-* [Features > Possible Features > Game Modes](../topics/features/possible-features/game-modes.md)
+* [Features > Game Modes](../topics/features/game-modes.md)
 
 ### Transcript
 

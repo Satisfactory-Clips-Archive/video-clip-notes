@@ -3,7 +3,7 @@ title: "September 8th, 2020 Livestream Q&A: Battle Royale Mode?"
 date: "2020-09-08"
 layout: transcript
 topics:
-    - "features/possible-features/game-modes/battle-royale"
+    - "features/possible-features/battle-royale"
 ---
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Battle Royale Mode?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: July 20th, 2021
 
 
 ### Topics
-* [Features > Possible Features > Game Modes > Battle Royale](../topics/features/possible-features/game-modes/battle-royale.md)
+* [Features > Possible Features > Battle Royale](../topics/features/possible-features/battle-royale.md)
 
 ### Transcript
 

@@ -8,8 +8,8 @@ topics:
     - "mods"
     - "qa-site"
     - "satisfactory-updates"
-    - "satisfactory-updates/pending/satisfactory-update-7"
     - "satisfactory-updates/released/satisfactory-update-6"
+    - "satisfactory-updates/released/satisfactory-update-7"
     - "satisfactory-updates/state-of-dev"
     - "satisfactory-updates/teasers-and-trailers/update-7-teasers"
 ---
@@ -23,8 +23,8 @@ https://www.youtube.com/watch?v=dniAHWqQ4FI
 * [Mods](../topics/mods.md)
 * [QA Site](../topics/qa-site.md)
 * [Satisfactory Updates](../topics/satisfactory-updates.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 7](../topics/satisfactory-updates/pending/satisfactory-update-7.md)
 * [Satisfactory Updates > Released > Satisfactory Update 6](../topics/satisfactory-updates/released/satisfactory-update-6.md)
+* [Satisfactory Updates > Released > Satisfactory Update 7](../topics/satisfactory-updates/released/satisfactory-update-7.md)
 * [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 * [Satisfactory Updates > Teasers & Trailers > Update 7 Teasers](../topics/satisfactory-updates/teasers-and-trailers/update-7-teasers.md)
 

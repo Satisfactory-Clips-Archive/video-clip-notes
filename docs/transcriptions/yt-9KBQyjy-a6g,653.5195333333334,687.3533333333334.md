@@ -8,7 +8,7 @@ topics:
     - "features/buildables/conveyor-belts"
     - "features/buildings/constructor"
     - "features/power-management"
-    - "satisfactory-updates/pending/satisfactory-update-7"
+    - "satisfactory-updates/released/satisfactory-update-7"
 ---
 # [November 11th, 2022 Video](../2022-11-11.md)
 ## Expanding the freshly-applied Blueprint
@@ -20,7 +20,7 @@ https://youtube.com/clip/Ugkx42XX5EBZz9JQ7LjFiP1QWRZvtnnFxssK
 * [Features > Buildables > Conveyor Belts](../topics/features/buildables/conveyor-belts.md)
 * [Features > Buildings > Constructor](../topics/features/buildings/constructor.md)
 * [Features > Power Management](../topics/features/power-management.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 7](../topics/satisfactory-updates/pending/satisfactory-update-7.md)
+* [Satisfactory Updates > Released > Satisfactory Update 7](../topics/satisfactory-updates/released/satisfactory-update-7.md)
 
 ### Transcript
 

@@ -3,14 +3,14 @@ title: "September 30th, 2022 Video What's going to be in Update 7"
 date: "2022-09-30"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-7"
+    - "satisfactory-updates/released/satisfactory-update-7"
 ---
 # [September 30th, 2022 Video](../2022-09-30.md)
 ## What's going to be in Update 7
 https://youtube.com/embed/5Pz_dZbEx-4?autoplay=1&start=373&end=405
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 7](../topics/satisfactory-updates/pending/satisfactory-update-7.md)
+* [Satisfactory Updates > Released > Satisfactory Update 7](../topics/satisfactory-updates/released/satisfactory-update-7.md)
 
 ### Transcript
 

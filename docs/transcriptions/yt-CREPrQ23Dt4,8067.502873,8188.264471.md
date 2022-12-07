@@ -3,16 +3,16 @@ title: "November 15th, 2022 Livestream Snutt Talk: How to get the Experimental R
 date: "2022-11-15"
 layout: transcript
 topics:
-    - "satisfactory-updates/pending/satisfactory-update-7"
     - "satisfactory-updates/release-builds"
+    - "satisfactory-updates/released/satisfactory-update-7"
 ---
 # [November 15th, 2022 Livestream](../2022-11-15.md)
 ## Snutt Talk: How to get the Experimental Release
 https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=8067&end=8189
 
 ### Topics
-* [Satisfactory Updates > Pending > Satisfactory Update 7](../topics/satisfactory-updates/pending/satisfactory-update-7.md)
 * [Satisfactory Updates > Release Builds](../topics/satisfactory-updates/release-builds.md)
+* [Satisfactory Updates > Released > Satisfactory Update 7](../topics/satisfactory-updates/released/satisfactory-update-7.md)
 
 ### Transcript
 

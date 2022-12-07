@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "features/blueprints"
     - "features/multiplayer"
-    - "satisfactory-updates/pending/satisfactory-update-7"
+    - "satisfactory-updates/released/satisfactory-update-7"
     - "satisfactory-updates/seasonal-events/fics-mas"
     - "satisfactory-updates/state-of-dev"
     - "satisfactory-updates/teasers-and-trailers/update-7-patch-notes-video"
@@ -17,7 +17,7 @@ https://www.youtube.com/watch?v=ifcJGbImr10
 ### Topics
 * [Features > Blueprints](../topics/features/blueprints.md)
 * [Features > Multiplayer](../topics/features/multiplayer.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 7](../topics/satisfactory-updates/pending/satisfactory-update-7.md)
+* [Satisfactory Updates > Released > Satisfactory Update 7](../topics/satisfactory-updates/released/satisfactory-update-7.md)
 * [Satisfactory Updates > Seasonal Events > FICS⁕MAS](../topics/satisfactory-updates/seasonal-events/fics-mas.md)
 * [Satisfactory Updates > State of Dev](../topics/satisfactory-updates/state-of-dev.md)
 * [Satisfactory Updates > Teasers & Trailers > Update 7 Patch Notes Video](../topics/satisfactory-updates/teasers-and-trailers/update-7-patch-notes-video.md)

@@ -4,7 +4,7 @@ date: "2021-09-28"
 layout: transcript
 topics:
     - "environment/resources"
-    - "features/possible-features/game-modes"
+    - "features/game-modes"
     - "features/requested-features"
 ---
 # [September 28th, 2021 Livestream](../2021-09-28.md)
@@ -15,7 +15,7 @@ This question was possibly duplicated with a more recent answer: [December 7th, 
 
 ### Topics
 * [Environment > Resources](../topics/environment/resources.md)
-* [Features > Possible Features > Game Modes](../topics/features/possible-features/game-modes.md)
+* [Features > Game Modes](../topics/features/game-modes.md)
 * [Features > Requested Features](../topics/features/requested-features.md)
 
 ### Transcript

@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "features/blueprints"
     - "features/buildings/blueprint-designer"
-    - "satisfactory-updates/pending/satisfactory-update-7"
+    - "satisfactory-updates/released/satisfactory-update-7"
     - "technology/user-interface"
 ---
 # [November 11th, 2022 Video](../2022-11-11.md)
@@ -15,7 +15,7 @@ https://youtube.com/embed/9KBQyjy-a6g?autoplay=1&start=426&end=509
 ### Topics
 * [Features > Blueprints](../topics/features/blueprints.md)
 * [Features > Buildings > Blueprint Designer](../topics/features/buildings/blueprint-designer.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 7](../topics/satisfactory-updates/pending/satisfactory-update-7.md)
+* [Satisfactory Updates > Released > Satisfactory Update 7](../topics/satisfactory-updates/released/satisfactory-update-7.md)
 * [Technology > User Interface](../topics/technology/user-interface.md)
 
 ### Transcript

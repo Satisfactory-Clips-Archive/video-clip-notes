@@ -3,7 +3,7 @@ title: "March 23rd, 2021 Livestream Q&A: Hard Mode?"
 date: "2021-03-23"
 layout: transcript
 topics:
-    - "features/possible-features/game-modes"
+    - "features/game-modes"
 ---
 # [March 23rd, 2021 Livestream](../2021-03-23.md)
 ## Q&A: Hard Mode?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: [September 28th
 
 
 ### Topics
-* [Features > Possible Features > Game Modes](../topics/features/possible-features/game-modes.md)
+* [Features > Game Modes](../topics/features/game-modes.md)
 
 ### Transcript
 

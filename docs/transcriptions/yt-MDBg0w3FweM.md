@@ -3,7 +3,7 @@ title: "August 17th, 2021 Livestream Q&A: Any plans for peace mode in the game?"
 date: "2021-08-17"
 layout: transcript
 topics:
-    - "features/possible-features/game-modes/peaceful-mode"
+    - "features/game-modes/peaceful-mode"
 ---
 # [August 17th, 2021 Livestream](../2021-08-17.md)
 ## Q&A: Any plans for peace mode in the game?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: [August 30th, 2
 
 
 ### Topics
-* [Features > Possible Features > Game Modes > Peaceful Mode](../topics/features/possible-features/game-modes/peaceful-mode.md)
+* [Features > Game Modes > Peaceful Mode](../topics/features/game-modes/peaceful-mode.md)
 
 ### Transcript
 

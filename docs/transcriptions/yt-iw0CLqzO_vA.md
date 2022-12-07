@@ -10,7 +10,7 @@ topics:
     - "environment/resources/power-slug"
     - "features/buildings/miner"
     - "features/buildings/overclocking-and-underclocking"
-    - "features/possible-features/game-modes"
+    - "features/game-modes"
     - "features/power-management"
     - "features/unplanned-features/golf"
     - "off-topic/food-and-drink"
@@ -31,7 +31,7 @@ https://www.youtube.com/watch?v=iw0CLqzO_vA
 * [Environment > Resources > Power Slug](../topics/environment/resources/power-slug.md)
 * [Features > Buildings > Miner](../topics/features/buildings/miner.md)
 * [Features > Buildings > Overclocking & Underclocking](../topics/features/buildings/overclocking-and-underclocking.md)
-* [Features > Possible Features > Game Modes](../topics/features/possible-features/game-modes.md)
+* [Features > Game Modes](../topics/features/game-modes.md)
 * [Features > Power Management](../topics/features/power-management.md)
 * [Features > Unplanned Features > Golf](../topics/features/unplanned-features/golf.md)
 * [Off-Topic > Food & Drink](../topics/off-topic/food-and-drink.md)

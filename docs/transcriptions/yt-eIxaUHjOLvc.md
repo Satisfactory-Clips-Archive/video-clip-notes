@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "features/equipment"
     - "features/requested-features"
-    - "satisfactory-updates/pending/satisfactory-update-7"
+    - "satisfactory-updates/released/satisfactory-update-7"
 ---
 # [September 27th, 2022 Livestream](../2022-09-27.md)
 ## Q&A: Will there be any new melee weapons?
@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=eIxaUHjOLvc
 ### Topics
 * [Features > Equipment](../topics/features/equipment.md)
 * [Features > Requested Features](../topics/features/requested-features.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 7](../topics/satisfactory-updates/pending/satisfactory-update-7.md)
+* [Satisfactory Updates > Released > Satisfactory Update 7](../topics/satisfactory-updates/released/satisfactory-update-7.md)
 
 ### Transcript
 

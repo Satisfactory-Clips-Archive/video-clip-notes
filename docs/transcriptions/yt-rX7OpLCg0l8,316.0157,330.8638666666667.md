@@ -3,16 +3,16 @@ title: "October 21st, 2022 Video Peaceful Mode"
 date: "2022-10-21"
 layout: transcript
 topics:
-    - "features/possible-features/game-modes/peaceful-mode"
-    - "satisfactory-updates/pending/satisfactory-update-7"
+    - "features/game-modes/peaceful-mode"
+    - "satisfactory-updates/released/satisfactory-update-7"
 ---
 # [October 21st, 2022 Video](../2022-10-21.md)
 ## Peaceful Mode
 https://youtube.com/clip/UgkxICQPLQDhtSXNZzyj088BLldU-RJ8c2OR
 
 ### Topics
-* [Features > Possible Features > Game Modes > Peaceful Mode](../topics/features/possible-features/game-modes/peaceful-mode.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 7](../topics/satisfactory-updates/pending/satisfactory-update-7.md)
+* [Features > Game Modes > Peaceful Mode](../topics/features/game-modes/peaceful-mode.md)
+* [Satisfactory Updates > Released > Satisfactory Update 7](../topics/satisfactory-updates/released/satisfactory-update-7.md)
 
 ### Transcript
 

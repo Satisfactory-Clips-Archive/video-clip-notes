@@ -3,7 +3,7 @@ title: "November 17th, 2020 Livestream Q&A: When are you adding hunger & thirst?
 date: "2020-11-17"
 layout: transcript
 topics:
-    - "features/possible-features/game-modes"
+    - "features/game-modes"
 ---
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Q&A: When are you adding hunger & thirst?
@@ -12,7 +12,7 @@ This question was possibly duplicated with a more recent answer: [December 7th, 
 
 
 ### Topics
-* [Features > Possible Features > Game Modes](../topics/features/possible-features/game-modes.md)
+* [Features > Game Modes](../topics/features/game-modes.md)
 
 ### Transcript
 

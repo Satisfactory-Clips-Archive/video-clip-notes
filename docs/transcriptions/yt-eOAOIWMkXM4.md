@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "features/buildings/overclocking-and-underclocking"
     - "features/power-management"
-    - "satisfactory-updates/pending/satisfactory-update-7"
+    - "satisfactory-updates/released/satisfactory-update-7"
 ---
 # [November 29th, 2022 Livestream](../2022-11-29.md)
 ## Q&A: When do you plan to change Overclocking to linear?
@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=eOAOIWMkXM4
 ### Topics
 * [Features > Buildings > Overclocking & Underclocking](../topics/features/buildings/overclocking-and-underclocking.md)
 * [Features > Power Management](../topics/features/power-management.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 7](../topics/satisfactory-updates/pending/satisfactory-update-7.md)
+* [Satisfactory Updates > Released > Satisfactory Update 7](../topics/satisfactory-updates/released/satisfactory-update-7.md)
 
 ### Transcript
 

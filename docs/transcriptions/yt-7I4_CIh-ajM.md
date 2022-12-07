@@ -4,7 +4,7 @@ date: "2021-04-06"
 layout: transcript
 topics:
     - "community"
-    - "features/possible-features/game-modes"
+    - "features/game-modes"
     - "features/tiers"
 ---
 # [April 6th, 2021 Livestream](../2021-04-06.md)
@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=7I4_CIh-ajM
 
 ### Topics
 * [Community](../topics/community.md)
-* [Features > Possible Features > Game Modes](../topics/features/possible-features/game-modes.md)
+* [Features > Game Modes](../topics/features/game-modes.md)
 * [Features > Tiers](../topics/features/tiers.md)
 
 ### Transcript

@@ -3,7 +3,7 @@ title: "August 23rd, 2022 Livestream Q&A: Easy mode for Satisfactory?"
 date: "2022-08-23"
 layout: transcript
 topics:
-    - "features/possible-features/game-modes"
+    - "features/game-modes"
     - "features/requested-features"
 ---
 # [August 23rd, 2022 Livestream](../2022-08-23.md)
@@ -11,7 +11,7 @@ topics:
 https://www.youtube.com/watch?v=9fORTos7008
 
 ### Topics
-* [Features > Possible Features > Game Modes](../topics/features/possible-features/game-modes.md)
+* [Features > Game Modes](../topics/features/game-modes.md)
 * [Features > Requested Features](../topics/features/requested-features.md)
 
 ### Transcript

@@ -3,7 +3,7 @@ title: "August 30th, 2022 Livestream Q&A: Plans for passive mode?"
 date: "2022-08-30"
 layout: transcript
 topics:
-    - "features/possible-features/game-modes/peaceful-mode"
+    - "features/game-modes/peaceful-mode"
 ---
 # [August 30th, 2022 Livestream](../2022-08-30.md)
 ## Q&A: Plans for passive mode?
@@ -28,7 +28,7 @@ This question was possibly replaced with a more recent answer: [November 15th, 2
 
 
 ### Topics
-* [Features > Possible Features > Game Modes > Peaceful Mode](../topics/features/possible-features/game-modes/peaceful-mode.md)
+* [Features > Game Modes > Peaceful Mode](../topics/features/game-modes/peaceful-mode.md)
 
 ### Transcript
 

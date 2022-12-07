@@ -5,7 +5,7 @@ layout: transcript
 topics:
     - "retail/epic-store"
     - "retail/steam-store"
-    - "satisfactory-updates/pending/satisfactory-update-7"
+    - "satisfactory-updates/released/satisfactory-update-7"
 ---
 # [November 15th, 2022 Livestream](../2022-11-15.md)
 ## Snutt Talk: If you're not seeing the Update
@@ -14,7 +14,7 @@ https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=8259&end=8328
 ### Topics
 * [Retail > Epic Store](../topics/retail/epic-store.md)
 * [Retail > Steam Store](../topics/retail/steam-store.md)
-* [Satisfactory Updates > Pending > Satisfactory Update 7](../topics/satisfactory-updates/pending/satisfactory-update-7.md)
+* [Satisfactory Updates > Released > Satisfactory Update 7](../topics/satisfactory-updates/released/satisfactory-update-7.md)
 
 ### Transcript
 
