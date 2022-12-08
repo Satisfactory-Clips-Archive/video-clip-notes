@@ -10,6 +10,8 @@ topics:
 # [November 1st, 2022 Livestream](../2022-11-01.md)
 ## Q&A: FICSMAS/Halloween 2023?
 https://www.youtube.com/watch?v=X5xZcy0pLz8
+This question was possibly duplicated with a more recent answer: December 6th, 2022 Livestream Q&A: More seasonal events in 2023? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6435&end=6490](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6435&end=6490)
+
 
 ### Topics
 * [Features > Requested Features](../topics/features/requested-features.md)

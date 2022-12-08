@@ -28,6 +28,9 @@ date: Last Modified
 * [The HUB](../../topics/features/buildings/the-hub.md)
 * [Water Extractor](../../topics/features/buildings/water-extractor.md)
 
+## December 6th, 2022 Livestream
+* Q&A: Mirrored buildings? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6961&end=6993](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6961&end=6993)
+
 ## November 29th, 2022 Livestream
 * [Q&A: How come the inputs & outputs for Truck Stations are so close together?](../../transcriptions/yt-5akdHLj6jHY.md) [https://www.youtube.com/watch?v=5akdHLj6jHY](https://www.youtube.com/watch?v=5akdHLj6jHY)
 * [Q&A: Are Machines skeletal meshes or static meshes with vertex offsetting?](../../transcriptions/yt-0z3l9GLdQEc.md) [https://www.youtube.com/watch?v=0z3l9GLdQEc](https://www.youtube.com/watch?v=0z3l9GLdQEc)

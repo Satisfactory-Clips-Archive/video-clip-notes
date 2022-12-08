@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Unplanned Features](../../../topics/features/unplanned-features.md) > Aerial Travel
 
+## December 6th, 2022 Livestream
+* Q&A: Bigger drone-like aircraft, like a helicopter? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7317&end=7343](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7317&end=7343)
+
 ## November 29th, 2022 Livestream
 * [Q&A: Will Pioneers ever be able to safely ride a Drone from Port to Port?](../../../transcriptions/yt-eD9XfZcY7o0.md) [https://www.youtube.com/watch?v=eD9XfZcY7o0](https://www.youtube.com/watch?v=eD9XfZcY7o0)
 

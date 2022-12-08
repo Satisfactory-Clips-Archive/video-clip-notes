@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Seasonal Events](../../../topics/satisfactory-updates/seasonal-events.md) > FICS⁕MAS
 
+## December 6th, 2022 Livestream
+* Q&A: FICSMAS mixtape for Boombox? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6490&end=6500](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6490&end=6500)
+* Q&A: Are you celebrating FICSMAS? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7299&end=7316](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7299&end=7316)
+
 ## November 30th, 2022 Video
 * [FICS*MAS](../../../transcriptions/yt-kw3epGt82yk,38.5,91.76666666666667.md) [https://youtube.com/embed/kw3epGt82yk?autoplay=1&start=38&end=92](https://youtube.com/embed/kw3epGt82yk?autoplay=1&start=38&end=92)
 

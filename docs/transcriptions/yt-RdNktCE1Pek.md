@@ -9,7 +9,7 @@ topics:
 # [September 29th, 2020 Livestream](../2020-09-29.md)
 ## Q&A: How high on the priority list is Truck Physics?
 https://www.youtube.com/watch?v=RdNktCE1Pek
-This question was possibly duplicated with a more recent answer: [August 23rd, 2022 Livestream Q&A: Any plans to improve Vehicle physics?](./yt-xfFtf_z9IS4.md) [https://www.youtube.com/watch?v=xfFtf_z9IS4](https://www.youtube.com/watch?v=xfFtf_z9IS4)
+This question was possibly duplicated with a more recent answer: December 6th, 2022 Livestream Q&A: Is there more work going to be done on Vehicles? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7260&end=7273](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7260&end=7273)
 
 
 ### Topics

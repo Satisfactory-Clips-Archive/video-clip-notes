@@ -9,7 +9,7 @@ topics:
 # [December 17th, 2020 Q&A](../2020-12-17.md)
 ## Q&A: Any plans on giant boss enemies and giant mech suits to fight them in?
 https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=664&end=676
-This question was possibly duplicated with a more recent answer: [November 29th, 2022 Livestream Q&A: Any plans for new Creature types?](./yt-156z8w5-No0.md) [https://www.youtube.com/watch?v=156z8w5-No0](https://www.youtube.com/watch?v=156z8w5-No0)
+This question was possibly duplicated with a more recent answer: December 6th, 2022 Livestream Q&A: More variety in fauna? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6855&end=6880](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6855&end=6880)
 
 
 ### Topics

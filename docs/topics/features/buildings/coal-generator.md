@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > Coal Generator
 
+## December 6th, 2022 Livestream
+* Q&A: Can Coalgens fit in the Blueprint Designer? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6897&end=6909](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6897&end=6909)
+
 ## November 15th, 2022 Livestream
 * [Q&A: Does the Coal Generator fit?](../../../transcriptions/yt-CREPrQ23Dt4,6249.676934,6540.615837.md) [https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=6249&end=6541](https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=6249&end=6541)
 

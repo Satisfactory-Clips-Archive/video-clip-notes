@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Community Highlights
 
+## December 6th, 2022 Livestream
+* Did someone say "bridge review"? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=2901&end=2914](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=2901&end=2914)
+* Q&A: Bridge review? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6992&end=7008](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6992&end=7008)
+
 ## October 4th, 2022 Livestream
 * [Q&A: Does the planet have a name?](../../transcriptions/yt-vGikWrINkZk.md) [https://www.youtube.com/watch?v=vGikWrINkZk](https://www.youtube.com/watch?v=vGikWrINkZk)
 

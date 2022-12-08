@@ -7,6 +7,9 @@ date: Last Modified
 * [Cheatcrete](../../../topics/features/buildables/foundations/cheatcrete.md)
 * [Foundation Stencils](../../../topics/features/buildables/foundations/stencils.md)
 
+## December 6th, 2022 Livestream
+* Q&A: When will we get a hexagonal Foundation? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6848&end=6856](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6848&end=6856)
+
 ## November 22nd, 2022 Livestream
 * [Q&A: Tool to help us make smooth curves?](../../../transcriptions/yt-zTXNch-QKHY.md) [https://www.youtube.com/watch?v=zTXNch-QKHY](https://www.youtube.com/watch?v=zTXNch-QKHY)
 

@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > Blueprint Designer
 
+## December 6th, 2022 Livestream
+* Q&A: Is it possible to build multiple Blueprint Designers? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6295&end=6313](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6295&end=6313)
+* Q&A: In the future, can the Blueprint Designer be enlarged? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6678&end=6743](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6678&end=6743)
+* Q&A: Can Coalgens fit in the Blueprint Designer? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6897&end=6909](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6897&end=6909)
+
 ## November 22nd, 2022 Livestream
 * [Q&A: Are there any plans to add Designers together to make bigger Blueprints at a Power cost?](../../../transcriptions/yt-0vXC2pZcyWA.md) [https://www.youtube.com/watch?v=0vXC2pZcyWA](https://www.youtube.com/watch?v=0vXC2pZcyWA)
 * [Q&A: Would it be possible to have a smaller Blueprint Designer sooner and a larger one later?](../../../transcriptions/yt-Hndilx24J9o.md) [https://www.youtube.com/watch?v=Hndilx24J9o](https://www.youtube.com/watch?v=Hndilx24J9o)

@@ -9,6 +9,8 @@ topics:
 # [October 13th, 2020 Livestream](../2020-10-13.md)
 ## Q&A: Has there been any community interest in Building mirror or flip options?
 https://www.youtube.com/watch?v=sSGirp3aoDk
+This question was possibly duplicated with a more recent answer: December 6th, 2022 Livestream Q&A: Mirrored buildings? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6961&end=6993](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6961&end=6993)
+
 
 ### Topics
 * [Community](../topics/community.md)

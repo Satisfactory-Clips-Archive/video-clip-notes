@@ -6,6 +6,11 @@ date: Last Modified
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > Seasonal Events
 * [FICS⁕MAS](../../topics/satisfactory-updates/seasonal-events/fics-mas.md)
 
+## December 6th, 2022 Livestream
+* Q&A: More seasonal events in 2023? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6435&end=6490](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6435&end=6490)
+* Q&A: Please do more events? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6499&end=6504](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6499&end=6504)
+* Q&A: May the 4th- can we get a light saber? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6582&end=6600](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6582&end=6600)
+
 ## November 1st, 2022 Livestream
 * [Q&A: FICSMAS/Halloween 2023?](../../transcriptions/yt-X5xZcy0pLz8.md) [https://www.youtube.com/watch?v=X5xZcy0pLz8](https://www.youtube.com/watch?v=X5xZcy0pLz8)
 

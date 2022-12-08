@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Sanctum
 
+## December 6th, 2022 Livestream
+* Q&A: Jace, what's your favourite game? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7169&end=7192](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7169&end=7192)
+* Q&A: Is Sanctum the Tower Defense one? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7249&end=7256](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7249&end=7256)
+
 ## July 12th, 2022 Livestream
 * [Q&A: Where's Goat Sim 2?](../../transcriptions/yt-1mcwsT0WCvc.md) [https://www.youtube.com/watch?v=1mcwsT0WCvc](https://www.youtube.com/watch?v=1mcwsT0WCvc)
 * [Q&A: Why was the Sanctum Easter Egg removed?](../../transcriptions/yt-XLZxwakPjRE.md) [https://www.youtube.com/watch?v=XLZxwakPjRE](https://www.youtube.com/watch?v=XLZxwakPjRE)

@@ -10,13 +10,7 @@ topics:
 # [August 23rd, 2022 Livestream](../2022-08-23.md)
 ## Q&A: Any plans to improve Vehicle physics?
 https://www.youtube.com/watch?v=xfFtf_z9IS4
-<details>
-<summary>This question may have been asked previously at least 3 other times, as recently as September 2021 and as early as September 2020.</summary>
-
-* [September 28th, 2021 Livestream Q&A: Will the Vehicles bouncing on Foundations be fixed at some point?](./yt-O19MUfB6WXM.md) [https://www.youtube.com/watch?v=O19MUfB6WXM](https://www.youtube.com/watch?v=O19MUfB6WXM)
-* [June 29th, 2021 Livestream Q&A: Will Vehicle physics ever get a revisit?](./yt-IP_jZskvU6k.md) [https://www.youtube.com/watch?v=IP_jZskvU6k](https://www.youtube.com/watch?v=IP_jZskvU6k)
-* [September 29th, 2020 Livestream Q&A: How high on the priority list is Truck Physics?](./yt-RdNktCE1Pek.md) [https://www.youtube.com/watch?v=RdNktCE1Pek](https://www.youtube.com/watch?v=RdNktCE1Pek)
-</details>
+This question was possibly duplicated with a more recent answer: December 6th, 2022 Livestream Q&A: Is there more work going to be done on Vehicles? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7260&end=7273](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7260&end=7273)
 
 
 ### Topics

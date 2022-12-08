@@ -8,6 +8,10 @@ date: Last Modified
 * [Snutt Burger Time](../../topics/coffee-stainers/snutt/snutt-burger-time.md)
 * [Snutty Mays](../../topics/coffee-stainers/snutt/snutty-mays.md)
 
+## December 6th, 2022 Livestream
+* Snutt still missing [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=715&end=843](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=715&end=843)
+* Q&A: The Big Crab is Snutt? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6909&end=6913](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6909&end=6913)
+
 ## November 29th, 2022 Livestream
 * [45 Q A  Do you and Snutt interact with the programmers on a regular basis](../../transcriptions/yt-BYEJVuveAB8.md) [https://www.youtube.com/watch?v=BYEJVuveAB8](https://www.youtube.com/watch?v=BYEJVuveAB8)
 * [Q&A: Pioneer body pillow, when?](../../transcriptions/yt-vgNlu3il63U.md) [https://www.youtube.com/watch?v=vgNlu3il63U](https://www.youtube.com/watch?v=vgNlu3il63U)

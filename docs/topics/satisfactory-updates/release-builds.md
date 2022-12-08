@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > Release Builds
 
+## December 6th, 2022 Livestream
+* Q&A: When will the next patch go Experimental? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6789&end=6846](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6789&end=6846)
+
 ## November 29th, 2022 Livestream
 * [Q&A: Are you sure next week is a good plan? I cannot play Experimental due to crashes right now.](../../transcriptions/yt-uc53o14zNFc.md) [https://www.youtube.com/watch?v=uc53o14zNFc](https://www.youtube.com/watch?v=uc53o14zNFc)
 

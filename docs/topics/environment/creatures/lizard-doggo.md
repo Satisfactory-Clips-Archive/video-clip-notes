@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Creatures](../../../topics/environment/creatures.md) > Lizard Doggo
 
+## December 6th, 2022 Livestream
+* Q&A: Have you guys thought of adding leashes in the game for the Lizard Doggo? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6881&end=6890](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6881&end=6890)
+
 ## November 29th, 2022 Livestream
 * [Q&A: Tell the Doggo to "stay"?](../../../transcriptions/yt-Q0LmFpsNnoE.md) [https://www.youtube.com/watch?v=Q0LmFpsNnoE](https://www.youtube.com/watch?v=Q0LmFpsNnoE)
 

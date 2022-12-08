@@ -32,6 +32,9 @@ date: Last Modified
 * [Utility Signs](../topics/mods/utility-signs.md)
 * [Zip Strips](../topics/mods/zip-strips.md)
 
+## December 6th, 2022 Livestream
+* Q&A: Did Update 7 break Mods? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7129&end=7167](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7129&end=7167)
+
 ## October 4th, 2022 Livestream
 * [State of Dev](../transcriptions/yt-dniAHWqQ4FI.md) [https://www.youtube.com/watch?v=dniAHWqQ4FI](https://www.youtube.com/watch?v=dniAHWqQ4FI)
 

@@ -26,6 +26,9 @@ date: Last Modified
 * [Vilsol](../topics/community/vilsol.md)
 * [Wiki](../topics/community/wiki.md)
 
+## December 6th, 2022 Livestream
+* Community FYI: The honest is refreshing [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6229&end=6236](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6229&end=6236)
+
 ## November 22nd, 2022 Livestream
 * [Snutt & Jace Talk: Existential trolling, uncut](../transcriptions/yt-MNCenWhzvG8.md) [https://www.youtube.com/watch?v=MNCenWhzvG8](https://www.youtube.com/watch?v=MNCenWhzvG8)
 * [Q&A: Have you tried the sauce?](../transcriptions/yt-cpxJvSo8iIg.md) [https://www.youtube.com/watch?v=cpxJvSo8iIg](https://www.youtube.com/watch?v=cpxJvSo8iIg)

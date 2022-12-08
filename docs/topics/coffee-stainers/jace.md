@@ -10,6 +10,12 @@ date: Last Modified
 * [Juice Velvet](../../topics/coffee-stainers/jace/juice-velvet.md)
 * [Robo Jace](../../topics/coffee-stainers/jace/robo-jace.md)
 
+## December 6th, 2022 Livestream
+* Community FYI: The honest is refreshing [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6229&end=6236](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6229&end=6236)
+* Q&A: Jace, how's your day going? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6282&end=6286](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6282&end=6286)
+* Q&A: Jace, what's your favourite game? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7169&end=7192](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7169&end=7192)
+* Q&A: Are you celebrating FICSMAS? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7299&end=7316](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7299&end=7316)
+
 ## November 29th, 2022 Livestream
 * [Q&A: Toilet flush?](../../transcriptions/yt-bWLzAoRcw84.md) [https://www.youtube.com/watch?v=bWLzAoRcw84](https://www.youtube.com/watch?v=bWLzAoRcw84)
 * [Q&A: Fix the desyncs on Dedicated Servers?](../../transcriptions/yt-pLh7VnISF3U.md) [https://www.youtube.com/watch?v=pLh7VnISF3U](https://www.youtube.com/watch?v=pLh7VnISF3U)

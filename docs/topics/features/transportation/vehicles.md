@@ -12,6 +12,11 @@ date: Last Modified
 * [Tractor](../../../topics/features/transportation/vehicles/tractor.md)
 * [Truck](../../../topics/features/transportation/vehicles/truck.md)
 
+## December 6th, 2022 Livestream
+* Q&A: Will there be any multi-seat Vehicle later? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6745&end=6786](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6745&end=6786)
+* Q&A: Can Vehicles go faster with Power Shards? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7059&end=7066](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7059&end=7066)
+* Q&A: Is there more work going to be done on Vehicles? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7260&end=7273](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7260&end=7273)
+
 ## November 29th, 2022 Livestream
 * [Q&A: Any new Vehicles?](../../../transcriptions/yt-HJfsT1nm0dg.md) [https://www.youtube.com/watch?v=HJfsT1nm0dg](https://www.youtube.com/watch?v=HJfsT1nm0dg)
 

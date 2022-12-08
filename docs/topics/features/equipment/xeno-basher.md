@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Equipment](../../../topics/features/equipment.md) > Xeno-Basher
 
+## December 6th, 2022 Livestream
+* Q&A: May the 4th- can we get a light saber? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6582&end=6600](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6582&end=6600)
+
 ## July 12th, 2022 Livestream
 * [Q&A: Dual-wielding Xenobashers?](../../../transcriptions/yt-LRqRZ3WaRaQ.md) [https://www.youtube.com/watch?v=LRqRZ3WaRaQ](https://www.youtube.com/watch?v=LRqRZ3WaRaQ)
 * [Q&A: Any news on game crashing on melee kill of Spitters?](../../../transcriptions/yt-AVd3FMTNpc4.md) [https://www.youtube.com/watch?v=AVd3FMTNpc4](https://www.youtube.com/watch?v=AVd3FMTNpc4)

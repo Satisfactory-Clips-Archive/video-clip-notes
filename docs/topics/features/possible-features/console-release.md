@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Possible Features](../../../topics/features/possible-features.md) > Console Release
 
+## December 6th, 2022 Livestream
+* Q&A: Will y'all ever consider expanding the game to Consoles? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6410&end=6434](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6410&end=6434)
+
 ## November 29th, 2022 Livestream
 * [Q&A: Will Satisfactory ever come to XBox?](../../../transcriptions/yt-7JANDlQ-5IU.md) [https://www.youtube.com/watch?v=7JANDlQ-5IU](https://www.youtube.com/watch?v=7JANDlQ-5IU)
 

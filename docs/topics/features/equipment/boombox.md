@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Equipment](../../../topics/features/equipment.md) > Boombox
 
+## December 6th, 2022 Livestream
+* Q&A: FICSMAS mixtape for Boombox? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6490&end=6500](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6490&end=6500)
+
 ## November 22nd, 2022 Livestream
 * [Q&A: Will there be a blank Tape to add your own music?](../../../transcriptions/yt-mN75Rl6Od_E.md) [https://www.youtube.com/watch?v=mN75Rl6Od_E](https://www.youtube.com/watch?v=mN75Rl6Od_E)
 

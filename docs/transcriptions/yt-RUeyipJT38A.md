@@ -8,7 +8,7 @@ topics:
 # [March 1st, 2022 Livestream](../2022-03-01.md)
 ## Q&A: I'd like to see a mini-helicopter for the late game?
 https://www.youtube.com/watch?v=RUeyipJT38A
-This question was possibly duplicated with a more recent answer: [August 30th, 2022 Livestream Q&A: Can you add helicopter?](./yt-c4j7o6ZJeCA.md) [https://www.youtube.com/watch?v=c4j7o6ZJeCA](https://www.youtube.com/watch?v=c4j7o6ZJeCA)
+This question was possibly duplicated with a more recent answer: December 6th, 2022 Livestream Q&A: Bigger drone-like aircraft, like a helicopter? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7317&end=7343](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7317&end=7343)
 
 
 ### Topics

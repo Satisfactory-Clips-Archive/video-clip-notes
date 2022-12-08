@@ -10,6 +10,8 @@ topics:
 # [October 18th, 2022 Livestream](../2022-10-18.md)
 ## Q&A: How's the morale ?
 https://www.youtube.com/watch?v=HhRDshIXuUI
+This question was possibly duplicated with a more recent answer: December 6th, 2022 Livestream Q&A: How's the team's mental health going, gotta check in the homies? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7109&end=7130](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7109&end=7130)
+
 
 ### Topics
 * [Coffee Stainers](../topics/coffee-stainers.md)

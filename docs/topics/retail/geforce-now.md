@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Retail](../../topics/retail.md) > GeForce Now
 
+## December 6th, 2022 Livestream
+* Q&A: Will Blueprints work on GeForce Now? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6239&end=6280](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6239&end=6280)
+
 ## October 25th, 2022 Livestream
 * [Q&A: Experimental Branch on GeForce Now?](../../transcriptions/yt-o2bWTOQiTww.md) [https://www.youtube.com/watch?v=o2bWTOQiTww](https://www.youtube.com/watch?v=o2bWTOQiTww)
 

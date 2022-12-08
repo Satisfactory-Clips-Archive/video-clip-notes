@@ -17,6 +17,9 @@ date: Last Modified
 * [Terraforming](../../topics/features/unplanned-features/terraforming.md)
 * [VR](../../topics/features/unplanned-features/vr.md)
 
+## December 6th, 2022 Livestream
+* Q&A: Will there be any multi-seat Vehicle later? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6745&end=6786](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6745&end=6786)
+
 ## November 29th, 2022 Livestream
 * [Q&A: Will Pioneers ever be able to safely ride a Drone from Port to Port?](../../transcriptions/yt-eD9XfZcY7o0.md) [https://www.youtube.com/watch?v=eD9XfZcY7o0](https://www.youtube.com/watch?v=eD9XfZcY7o0)
 

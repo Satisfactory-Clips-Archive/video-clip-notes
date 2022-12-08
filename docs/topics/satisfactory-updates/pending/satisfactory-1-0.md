@@ -5,6 +5,12 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Pending](../../../topics/satisfactory-updates/pending.md) > Satisfactory 1.0
 
+## December 6th, 2022 Livestream
+* Q&A: Is 1.0 after Update 7? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6286&end=6292](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6286&end=6292)
+* Q&A: What is Update 1.0? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6605&end=6629](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6605&end=6629)
+* Q&A: How much focus got Update 7 vs. 1.0? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7013&end=7052](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7013&end=7052)
+* Q&A: What is the planned release date of 1.0, currently? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7066&end=7108](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7066&end=7108)
+
 ## November 29th, 2022 Livestream
 * [Q&A: Any Tier 9 or 10 plans before 1.0?](../../../transcriptions/yt-EfqC1jbJmq8.md) [https://www.youtube.com/watch?v=EfqC1jbJmq8](https://www.youtube.com/watch?v=EfqC1jbJmq8)
 

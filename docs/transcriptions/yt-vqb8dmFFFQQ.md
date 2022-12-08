@@ -9,6 +9,8 @@ topics:
 # [November 22nd, 2022 Livestream](../2022-11-22.md)
 ## Q&A: Will there be a feature to delete a whole Blueprint all at once?
 https://www.youtube.com/watch?v=vqb8dmFFFQQ
+This question was possibly duplicated with a more recent answer: December 6th, 2022 Livestream Q&A: Is placing a Blueprint easy to undo? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6314&end=6409](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6314&end=6409)
+
 
 ### Topics
 * [Features > Blueprints](../topics/features/blueprints.md)

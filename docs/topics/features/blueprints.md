@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Features](../../topics/features.md) > Blueprints
 
+## December 6th, 2022 Livestream
+* Q&A: Will Blueprints work on GeForce Now? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6239&end=6280](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6239&end=6280)
+* Q&A: Is placing a Blueprint easy to undo? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6314&end=6409](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6314&end=6409)
+
 ## November 29th, 2022 Livestream
 * [State of Dev](../../transcriptions/yt-xHCaS54V7J4.md) [https://www.youtube.com/watch?v=xHCaS54V7J4](https://www.youtube.com/watch?v=xHCaS54V7J4)
 * [Q&A: Can we get a quick-switch between Blueprints of the same sub-category?](../../transcriptions/yt-JFzwIKB0tmE.md) [https://www.youtube.com/watch?v=JFzwIKB0tmE](https://www.youtube.com/watch?v=JFzwIKB0tmE)

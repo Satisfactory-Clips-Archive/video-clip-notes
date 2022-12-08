@@ -10,7 +10,7 @@ topics:
 # [October 5th, 2021 Livestream](../2021-10-05.md)
 ## Q&A: Are Mercer Spheres & Somersloops going to have any relevance before 1.0?
 https://www.youtube.com/watch?v=b9gre_TGBH0
-This question was possibly duplicated with a more recent answer: [November 29th, 2022 Livestream Q&A: The World President commanded me to harvest alien artefacts. Will there be more lore on them?](./yt-GPH14tfZa9o.md) [https://www.youtube.com/watch?v=GPH14tfZa9o](https://www.youtube.com/watch?v=GPH14tfZa9o)
+This question was possibly duplicated with a more recent answer: December 6th, 2022 Livestream Q&A: Will artefacts affect gameplay? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7359&end=7371](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7359&end=7371)
 
 
 ### Topics

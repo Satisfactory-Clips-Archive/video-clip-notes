@@ -10,6 +10,21 @@ date: Last Modified
 * [Pollution](../../topics/features/requested-features/pollution.md)
 * [Third-person View](../../topics/features/requested-features/third-person-view.md)
 
+## December 6th, 2022 Livestream
+* Q&A: More seasonal events in 2023? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6435&end=6490](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6435&end=6490)
+* Q&A: Please do more events? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6499&end=6504](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6499&end=6504)
+* Q&A: May the 4th- can we get a light saber? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6582&end=6600](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6582&end=6600)
+* Q&A: Can we have table & chairs? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6630&end=6653](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6630&end=6653)
+* Q&A: In the future, can the Blueprint Designer be enlarged? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6678&end=6743](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6678&end=6743)
+* Q&A: When will we get a hexagonal Foundation? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6848&end=6856](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6848&end=6856)
+* Q&A: Have you guys thought of adding leashes in the game for the Lizard Doggo? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6881&end=6890](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6881&end=6890)
+* Q&A: Can Coalgens fit in the Blueprint Designer? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6897&end=6909](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6897&end=6909)
+* Q&A: Any interest internally in a 6-way Pipe junction? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6913&end=6934](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6913&end=6934)
+* Q&A: Mirrored buildings? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6961&end=6993](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6961&end=6993)
+* Q&A: Are there any plans to add more Trucks? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7008&end=7014](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7008&end=7014)
+* Q&A: Can Vehicles go faster with Power Shards? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7059&end=7066](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7059&end=7066)
+* Q&A: Will there be ability to decorate the room in the HUB, it feels bare? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7408&end=7438](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7408&end=7438)
+
 ## November 29th, 2022 Livestream
 * [Q&A: Any new Vehicles?](../../transcriptions/yt-HJfsT1nm0dg.md) [https://www.youtube.com/watch?v=HJfsT1nm0dg](https://www.youtube.com/watch?v=HJfsT1nm0dg)
 * [Q&A: Priority Mergers?](../../transcriptions/yt-jEXZLV1hSYk.md) [https://www.youtube.com/watch?v=jEXZLV1hSYk](https://www.youtube.com/watch?v=jEXZLV1hSYk)

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > Overclocking & Underclocking
 
+## December 6th, 2022 Livestream
+* Q&A: Can Vehicles go faster with Power Shards? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7059&end=7066](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7059&end=7066)
+
 ## November 29th, 2022 Livestream
 * [Q&A: When do you plan to change Overclocking to linear?](../../../transcriptions/yt-eOAOIWMkXM4.md) [https://www.youtube.com/watch?v=eOAOIWMkXM4](https://www.youtube.com/watch?v=eOAOIWMkXM4)
 * [Q&A: Dual-output Mk.3 Miner please, easy fix?](../../../transcriptions/yt-_4bcpVXbnxY.md) [https://www.youtube.com/watch?v=_4bcpVXbnxY](https://www.youtube.com/watch?v=_4bcpVXbnxY)

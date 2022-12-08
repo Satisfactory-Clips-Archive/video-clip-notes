@@ -10,6 +10,9 @@ date: Last Modified
 * [Non Flying Bird](../../topics/environment/creatures/non-flying-bird.md)
 * [Space Giraffe-Tick-Penguin-Whale Thing](../../topics/environment/creatures/space-giraffe-tick-penguin-whale-thing.md)
 
+## December 6th, 2022 Livestream
+* Q&A: More variety in fauna? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6855&end=6880](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6855&end=6880)
+
 ## November 29th, 2022 Livestream
 * [Q&A: Sometimes Hogs have Jetpacks if you haven't unlocked them. Can we get the same for Hover Packs?](../../transcriptions/yt-CoSes0ZNwHo.md) [https://www.youtube.com/watch?v=CoSes0ZNwHo](https://www.youtube.com/watch?v=CoSes0ZNwHo)
 * [Q&A: Any plans for new Creature types?](../../transcriptions/yt-156z8w5-No0.md) [https://www.youtube.com/watch?v=156z8w5-No0](https://www.youtube.com/watch?v=156z8w5-No0)

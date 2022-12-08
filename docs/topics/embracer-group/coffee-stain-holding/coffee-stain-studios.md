@@ -5,6 +5,12 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Embracer Group](../../../topics/embracer-group.md) > Coffee Stain Holding > Coffee Stain Studios
 
+## December 6th, 2022 Livestream
+* Q&A: The studio looks great. New changes? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6505&end=6573](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6505&end=6573)
+* Q&A: Do you guys need more programmers? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6574&end=6583](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6574&end=6583)
+* Q&A: How's the team's mental health going, gotta check in the homies? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7109&end=7130](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7109&end=7130)
+* Community FYI: Just came here to say you're one of my favourite game development companies [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7195&end=7206](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7195&end=7206)
+
 ## November 29th, 2022 Livestream
 * [Q&A: How many people are on the Satisfactory dev team?](../../../transcriptions/yt-464B8bSp-kY.md) [https://www.youtube.com/watch?v=464B8bSp-kY](https://www.youtube.com/watch?v=464B8bSp-kY)
 * [45 Q A  Do you and Snutt interact with the programmers on a regular basis](../../../transcriptions/yt-BYEJVuveAB8.md) [https://www.youtube.com/watch?v=BYEJVuveAB8](https://www.youtube.com/watch?v=BYEJVuveAB8)

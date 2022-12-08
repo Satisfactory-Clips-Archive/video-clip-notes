@@ -4,6 +4,9 @@ date: Last Modified
 layout: index
 ---
 # 2022
+## December
+* [December 6th](2022-12-06.md)
+
 ## November
 * [November 30th](2022-11-30.md)
 * [November 29th](2022-11-29.md)

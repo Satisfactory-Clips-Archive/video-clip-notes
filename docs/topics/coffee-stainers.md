@@ -41,6 +41,9 @@ date: Last Modified
 * [Torsten](../topics/coffee-stainers/torsten.md)
 * [Uzu](../topics/coffee-stainers/uzu.md)
 
+## December 6th, 2022 Livestream
+* Q&A: How's the team's mental health going, gotta check in the homies? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7109&end=7130](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7109&end=7130)
+
 ## November 22nd, 2022 Livestream
 * [Q&A: Have you tried the sauce?](../transcriptions/yt-cpxJvSo8iIg.md) [https://www.youtube.com/watch?v=cpxJvSo8iIg](https://www.youtube.com/watch?v=cpxJvSo8iIg)
 

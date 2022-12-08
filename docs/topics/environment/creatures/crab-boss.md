@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Creatures](../../../topics/environment/creatures.md) > Crab Boss
 
+## December 6th, 2022 Livestream
+* Q&A: More variety in fauna? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6855&end=6880](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6855&end=6880)
+* Q&A: The Big Crab is Snutt? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6909&end=6913](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6909&end=6913)
+
 ## November 22nd, 2022 Livestream
 * [Q&A: Is the Crab Boss from the E3 Trailer still coming?](../../../transcriptions/yt-AB_eO6X59N8.md) [https://www.youtube.com/watch?v=AB_eO6X59N8](https://www.youtube.com/watch?v=AB_eO6X59N8)
 

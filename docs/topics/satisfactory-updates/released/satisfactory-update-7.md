@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Released > Satisfactory Update 7
 
+## December 6th, 2022 Livestream
+* Q&A: Is 1.0 after Update 7? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6286&end=6292](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6286&end=6292)
+* Q&A: How much focus got Update 7 vs. 1.0? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7013&end=7052](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7013&end=7052)
+* Q&A: Did Update 7 break Mods? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7129&end=7167](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7129&end=7167)
+
 ## November 30th, 2022 Video
 * [Update 7 Release Date](../../../transcriptions/yt-kw3epGt82yk,91.8,151.13333333333333.md) [https://youtube.com/embed/kw3epGt82yk?autoplay=1&start=91&end=152](https://youtube.com/embed/kw3epGt82yk?autoplay=1&start=91&end=152)
 * [Update 7 Release Stream](../../../transcriptions/yt-kw3epGt82yk,151.16666666666666,205.7.md) [https://youtube.com/embed/kw3epGt82yk?autoplay=1&start=151&end=206](https://youtube.com/embed/kw3epGt82yk?autoplay=1&start=151&end=206)

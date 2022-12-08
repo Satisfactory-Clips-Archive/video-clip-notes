@@ -8,7 +8,7 @@ topics:
 # [April 20th, 2021 Livestream](../2021-04-20.md)
 ## Q&A: When are we finally gonna get our own VTOL?
 https://www.youtube.com/watch?v=nty-h2xgybU
-This question was possibly duplicated with a more recent answer: [August 30th, 2022 Livestream Q&A: Can you add helicopter?](./yt-c4j7o6ZJeCA.md) [https://www.youtube.com/watch?v=c4j7o6ZJeCA](https://www.youtube.com/watch?v=c4j7o6ZJeCA)
+This question was possibly duplicated with a more recent answer: December 6th, 2022 Livestream Q&A: Bigger drone-like aircraft, like a helicopter? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7317&end=7343](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7317&end=7343)
 
 
 ### Topics

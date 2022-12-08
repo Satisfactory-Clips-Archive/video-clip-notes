@@ -18,6 +18,10 @@ date: Last Modified
 * [Teasers & Trailers](../topics/satisfactory-updates/teasers-and-trailers.md)
 * [World Update](../topics/satisfactory-updates/world-update.md)
 
+## December 6th, 2022 Livestream
+* Q&A: When will the next patch go Experimental? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6789&end=6846](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6789&end=6846)
+* Q&A: Can you try giving us a hint on what will be the late-game mechanics? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7276&end=7300](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7276&end=7300)
+
 ## November 8th, 2022 Livestream
 * [Q&A: Updates after 1.0?](../transcriptions/yt-eHFSHUqYSZc.md) [https://www.youtube.com/watch?v=eHFSHUqYSZc](https://www.youtube.com/watch?v=eHFSHUqYSZc)
 

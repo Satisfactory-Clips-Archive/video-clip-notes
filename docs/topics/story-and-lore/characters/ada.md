@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Story & Lore](../../../topics/story-and-lore.md) > Characters > ADA
 
+## December 6th, 2022 Livestream
+* Q&A: Why did you make the artefact woman's voice so bloody annoying? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7439&end=7446](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7439&end=7446)
+
 ## November 8th, 2022 Livestream
 * [Q&A: Can we talk about ADA and the S.A.M. Ore?](../../../transcriptions/yt-ngdOwVeAqZs.md) [https://www.youtube.com/watch?v=ngdOwVeAqZs](https://www.youtube.com/watch?v=ngdOwVeAqZs)
 * [Q&A: ADA talks when I come across S.A.M. Ore & the WIP artefacts, should those lines be muted?](../../../transcriptions/yt-0iChXeNjbTg.md) [https://www.youtube.com/watch?v=0iChXeNjbTg](https://www.youtube.com/watch?v=0iChXeNjbTg)

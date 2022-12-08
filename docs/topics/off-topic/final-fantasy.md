@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Final Fantasy
 * [The Official Satisfactory PODCAST](../../topics/off-topic/final-fantasy/the-official-satisfactory-podcast.md)
 
+## December 6th, 2022 Livestream
+* Q&A: Jace, what's your favourite game? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7169&end=7192](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7169&end=7192)
+
 ## November 22nd, 2022 Livestream
 * [Snutt & Jace Talk: Monkey Island, Final Fantasy, and Runescape](../../transcriptions/yt-XHOTMDdtFGc.md) [https://www.youtube.com/watch?v=XHOTMDdtFGc](https://www.youtube.com/watch?v=XHOTMDdtFGc)
 

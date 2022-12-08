@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Multiplayer](../../../topics/features/multiplayer.md) > Dedicated Servers
 
+## December 6th, 2022 Livestream
+* Q&A: Are you working on Dedicated Servers? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7373&end=7401](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7373&end=7401)
+
 ## November 29th, 2022 Livestream
 * [Q&A: Fix the desyncs on Dedicated Servers?](../../../transcriptions/yt-pLh7VnISF3U.md) [https://www.youtube.com/watch?v=pLh7VnISF3U](https://www.youtube.com/watch?v=pLh7VnISF3U)
 

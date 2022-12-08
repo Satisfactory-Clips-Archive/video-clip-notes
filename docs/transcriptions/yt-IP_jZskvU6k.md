@@ -9,7 +9,7 @@ topics:
 # [June 29th, 2021 Livestream](../2021-06-29.md)
 ## Q&A: Will Vehicle physics ever get a revisit?
 https://www.youtube.com/watch?v=IP_jZskvU6k
-This question was possibly duplicated with a more recent answer: [August 23rd, 2022 Livestream Q&A: Any plans to improve Vehicle physics?](./yt-xfFtf_z9IS4.md) [https://www.youtube.com/watch?v=xfFtf_z9IS4](https://www.youtube.com/watch?v=xfFtf_z9IS4)
+This question was possibly duplicated with a more recent answer: December 6th, 2022 Livestream Q&A: Is there more work going to be done on Vehicles? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7260&end=7273](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7260&end=7273)
 
 
 ### Topics

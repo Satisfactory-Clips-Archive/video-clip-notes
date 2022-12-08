@@ -7,6 +7,9 @@ date: Last Modified
 * [EU Merch Store](../topics/merch/eu-merch-store.md)
 * [Merch Prototypes](../topics/merch/merch-prototypes.md)
 
+## December 6th, 2022 Livestream
+* Merch [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=855&end=959](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=855&end=959)
+
 ## November 29th, 2022 Livestream
 * [State of Dev](../transcriptions/yt-xHCaS54V7J4.md) [https://www.youtube.com/watch?v=xHCaS54V7J4](https://www.youtube.com/watch?v=xHCaS54V7J4)
 * [Q&A: Is that top-right sticker for sale?](../transcriptions/yt-zURRlCaCjy8.md) [https://www.youtube.com/watch?v=zURRlCaCjy8](https://www.youtube.com/watch?v=zURRlCaCjy8)

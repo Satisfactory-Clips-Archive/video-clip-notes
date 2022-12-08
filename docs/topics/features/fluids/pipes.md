@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Fluids](../../../topics/features/fluids.md) > Pipes
 
+## December 6th, 2022 Livestream
+* Q&A: Any interest internally in a 6-way Pipe junction? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6913&end=6934](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6913&end=6934)
+
 ## November 22nd, 2022 Livestream
 * [Q&A: Can Blueprints get the option to auto-connect Power/Pipes/Belts to adjacent stuff?](../../../transcriptions/yt-Olr_JXEwT3w.md) [https://www.youtube.com/watch?v=Olr_JXEwT3w](https://www.youtube.com/watch?v=Olr_JXEwT3w)
 * [Q&A: Could you implement the ability to see liquid in the Pipes?](../../../transcriptions/yt-ZS3o4qfgHsc.md) [https://www.youtube.com/watch?v=ZS3o4qfgHsc](https://www.youtube.com/watch?v=ZS3o4qfgHsc)

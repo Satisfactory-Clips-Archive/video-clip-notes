@@ -13,6 +13,9 @@ date: Last Modified
 * [Third-Party Service Integration](../../topics/features/possible-features/third-party-service-integration.md)
 * [Underground Biome](../../topics/features/possible-features/underground-biome.md)
 
+## December 6th, 2022 Livestream
+* Q&A: More variety in fauna? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6855&end=6880](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6855&end=6880)
+
 ## October 18th, 2022 Livestream
 * [Q&A: Turbofuel for Jetpacks?](../../transcriptions/yt-l2VSTXaEtCY.md) [https://www.youtube.com/watch?v=l2VSTXaEtCY](https://www.youtube.com/watch?v=l2VSTXaEtCY)
 

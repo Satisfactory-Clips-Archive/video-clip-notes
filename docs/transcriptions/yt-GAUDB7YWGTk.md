@@ -9,7 +9,7 @@ topics:
 # [June 28th, 2022 Livestream](../2022-06-28.md)
 ## Q&A: Adding Helicopters?
 https://www.youtube.com/watch?v=GAUDB7YWGTk
-This question was possibly duplicated with a more recent answer: [August 30th, 2022 Livestream Q&A: Can you add helicopter?](./yt-c4j7o6ZJeCA.md) [https://www.youtube.com/watch?v=c4j7o6ZJeCA](https://www.youtube.com/watch?v=c4j7o6ZJeCA)
+This question was possibly duplicated with a more recent answer: December 6th, 2022 Livestream Q&A: Bigger drone-like aircraft, like a helicopter? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7317&end=7343](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7317&end=7343)
 
 
 ### Topics

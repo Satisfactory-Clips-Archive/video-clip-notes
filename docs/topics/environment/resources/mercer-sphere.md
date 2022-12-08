@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Resources](../../../topics/environment/resources.md) > Mercer Sphere
 
+## December 6th, 2022 Livestream
+* Q&A: Will artefacts affect gameplay? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7359&end=7371](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7359&end=7371)
+
 ## November 29th, 2022 Livestream
 * [Q&A: The World President commanded me to harvest alien artefacts. Will there be more lore on them?](../../../transcriptions/yt-GPH14tfZa9o.md) [https://www.youtube.com/watch?v=GPH14tfZa9o](https://www.youtube.com/watch?v=GPH14tfZa9o)
 

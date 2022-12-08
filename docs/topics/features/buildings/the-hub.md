@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > The HUB
 
+## December 6th, 2022 Livestream
+* Q&A: Will there be ability to decorate the room in the HUB, it feels bare? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7408&end=7438](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7408&end=7438)
+
 ## November 22nd, 2022 Livestream
 * [Community FYI: Jace's racing game should be in the HUB](../../../transcriptions/yt-XjzgCBFQUI4.md) [https://www.youtube.com/watch?v=XjzgCBFQUI4](https://www.youtube.com/watch?v=XjzgCBFQUI4)
 

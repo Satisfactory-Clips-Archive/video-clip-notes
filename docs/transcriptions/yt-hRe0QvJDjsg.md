@@ -10,7 +10,7 @@ topics:
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: Do you have any clue on what the alien artefacts do?
 https://www.youtube.com/watch?v=hRe0QvJDjsg
-This question was possibly duplicated with a more recent answer: [November 29th, 2022 Livestream Q&A: The World President commanded me to harvest alien artefacts. Will there be more lore on them?](./yt-GPH14tfZa9o.md) [https://www.youtube.com/watch?v=GPH14tfZa9o](https://www.youtube.com/watch?v=GPH14tfZa9o)
+This question was possibly duplicated with a more recent answer: December 6th, 2022 Livestream Q&A: Will artefacts affect gameplay? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7359&end=7371](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7359&end=7371)
 
 
 ### Topics
