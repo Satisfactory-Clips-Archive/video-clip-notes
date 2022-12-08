@@ -6,6 +6,12 @@ date: Last Modified
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > Blueprint Designer
 
 ## December 6th, 2022 Livestream
+* [Intro](../../../transcriptions/yt-ST6V-a4u8Qs,232.04848825638518,279.8128726030694.md) [https://youtube.com/embed/ST6V-a4u8Qs?autoplay=1&start=232&end=280](https://youtube.com/embed/ST6V-a4u8Qs?autoplay=1&start=232&end=280)
+* [Intro](../../../transcriptions/yt-ST6V-a4u8Qs,386.43605819847943,396.81309175196793.md) [https://youtube.com/embed/ST6V-a4u8Qs?autoplay=1&start=386&end=397](https://youtube.com/embed/ST6V-a4u8Qs?autoplay=1&start=386&end=397)
+* [Designing Blueprints](../../../transcriptions/yt-ST6V-a4u8Qs,396.82977508565517,433.16607585655225.md) [https://youtube.com/embed/ST6V-a4u8Qs?autoplay=1&start=396&end=434](https://youtube.com/embed/ST6V-a4u8Qs?autoplay=1&start=396&end=434)
+* [Blueprint files](../../../transcriptions/yt-ST6V-a4u8Qs,433.1827591902395,451.5511095799354.md) [https://youtube.com/embed/ST6V-a4u8Qs?autoplay=1&start=433&end=452](https://youtube.com/embed/ST6V-a4u8Qs?autoplay=1&start=433&end=452)
+* [Outro](../../../transcriptions/yt-ST6V-a4u8Qs,451.56779291362267,476.775611.md) [https://youtube.com/embed/ST6V-a4u8Qs?autoplay=1&start=451&end=477](https://youtube.com/embed/ST6V-a4u8Qs?autoplay=1&start=451&end=477)
+* [Outro](../../../transcriptions/yt-ST6V-a4u8Qs,476.79299344879087,497.18002721464774.md) [https://youtube.com/embed/ST6V-a4u8Qs?autoplay=1&start=476&end=498](https://youtube.com/embed/ST6V-a4u8Qs?autoplay=1&start=476&end=498)
 * Q&A: Is it possible to build multiple Blueprint Designers? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6295&end=6313](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6295&end=6313)
 * Q&A: In the future, can the Blueprint Designer be enlarged? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6678&end=6743](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6678&end=6743)
 * Q&A: Can Coalgens fit in the Blueprint Designer? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6897&end=6909](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6897&end=6909)

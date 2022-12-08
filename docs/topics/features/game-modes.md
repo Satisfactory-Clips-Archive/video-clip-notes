@@ -7,6 +7,9 @@ date: Last Modified
 * [Creative Mode](../../topics/features/game-modes/creative-mode.md)
 * [Peaceful Mode](../../topics/features/game-modes/peaceful-mode.md)
 
+## December 6th, 2022 Livestream
+* [Game Modes](../../transcriptions/yt-ST6V-a4u8Qs,95.06163535012458,150.35020318977232.md) [https://youtube.com/embed/ST6V-a4u8Qs?autoplay=1&start=95&end=151](https://youtube.com/embed/ST6V-a4u8Qs?autoplay=1&start=95&end=151)
+
 ## November 22nd, 2022 Livestream
 * [Q&A: Possibility of switching to a Game Mode where you had an item-per-minute requirement?](../../transcriptions/yt-av3ed3zOTG4.md) [https://www.youtube.com/watch?v=av3ed3zOTG4](https://www.youtube.com/watch?v=av3ed3zOTG4)
 

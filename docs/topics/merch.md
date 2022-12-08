@@ -8,6 +8,7 @@ date: Last Modified
 * [Merch Prototypes](../topics/merch/merch-prototypes.md)
 
 ## December 6th, 2022 Livestream
+* [Game Modes](../transcriptions/yt-ST6V-a4u8Qs,95.06163535012458,150.35020318977232.md) [https://youtube.com/embed/ST6V-a4u8Qs?autoplay=1&start=95&end=151](https://youtube.com/embed/ST6V-a4u8Qs?autoplay=1&start=95&end=151)
 * Merch [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=855&end=959](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=855&end=959)
 
 ## November 29th, 2022 Livestream

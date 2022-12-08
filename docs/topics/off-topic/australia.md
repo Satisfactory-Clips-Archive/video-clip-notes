@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Australia
 
+## December 6th, 2022 Livestream
+* [Alien DNA Capsule](../../transcriptions/yt-ST6V-a4u8Qs,27.2772505787037,95.0449520164373.md) [https://youtube.com/embed/ST6V-a4u8Qs?autoplay=1&start=27&end=96](https://youtube.com/embed/ST6V-a4u8Qs?autoplay=1&start=27&end=96)
+
 ## May 17th, 2022 Livestream
 * [Special Guest](../../transcriptions/yt-pLBIAObULRg.md) [https://www.youtube.com/watch?v=pLBIAObULRg](https://www.youtube.com/watch?v=pLBIAObULRg)
 

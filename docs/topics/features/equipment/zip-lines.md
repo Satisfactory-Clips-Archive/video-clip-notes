@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Equipment](../../../topics/features/equipment.md) > Zip Lines
 
+## December 6th, 2022 Livestream
+* [Intro](../../../transcriptions/yt-ST6V-a4u8Qs,232.04848825638518,279.8128726030694.md) [https://youtube.com/embed/ST6V-a4u8Qs?autoplay=1&start=232&end=280](https://youtube.com/embed/ST6V-a4u8Qs?autoplay=1&start=232&end=280)
+* [Zip Line Sprint](../../../transcriptions/yt-ST6V-a4u8Qs,279.82955593675666,303.28632310107315.md) [https://youtube.com/embed/ST6V-a4u8Qs?autoplay=1&start=279&end=304](https://youtube.com/embed/ST6V-a4u8Qs?autoplay=1&start=279&end=304)
+
 ## November 22nd, 2022 Livestream
 * [Q&A: Can the Power Lines be dangled from a Power Pole rather than through the middle of it?](../../../transcriptions/yt-XIxZfcnXlUo.md) [https://www.youtube.com/watch?v=XIxZfcnXlUo](https://www.youtube.com/watch?v=XIxZfcnXlUo)
 

@@ -6,6 +6,7 @@ date: Last Modified
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Teasers & Trailers](../../../topics/satisfactory-updates/teasers-and-trailers.md) > Update 4 Patch Notes Video
 
 ## December 6th, 2022 Livestream
+* [Intro](../../../transcriptions/yt-ST6V-a4u8Qs,232.04848825638518,279.8128726030694.md) [https://youtube.com/embed/ST6V-a4u8Qs?autoplay=1&start=232&end=280](https://youtube.com/embed/ST6V-a4u8Qs?autoplay=1&start=232&end=280)
 * Q&A: The studio looks great. New changes? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6505&end=6573](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6505&end=6573)
 
 ## March 29th, 2022 Livestream

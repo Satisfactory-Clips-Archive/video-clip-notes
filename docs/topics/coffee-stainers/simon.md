@@ -6,6 +6,10 @@ date: Last Modified
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Simon
 * [Simon Saga](../../topics/coffee-stainers/simon/simon-saga.md)
 
+## December 6th, 2022 Livestream
+* [Intro](../../transcriptions/yt-ST6V-a4u8Qs,303.30300643476045,344.87787398346353.md) [https://youtube.com/embed/ST6V-a4u8Qs?autoplay=1&start=303&end=345](https://youtube.com/embed/ST6V-a4u8Qs?autoplay=1&start=303&end=345)
+* [End Tag](../../transcriptions/yt-ST6V-a4u8Qs,497.18002721464774.md) [https://youtube.com/embed/ST6V-a4u8Qs?autoplay=1&start=497](https://youtube.com/embed/ST6V-a4u8Qs?autoplay=1&start=497)
+
 ## June 14th, 2022 Livestream
 * [Ben, Dylan, Simon, & Snutt Talk: Nuke Nobelisks](../../transcriptions/yt-Z6bo0pjYghk,7750.400283043454,7848.671851.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=7750&end=7849](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=7750&end=7849)
 

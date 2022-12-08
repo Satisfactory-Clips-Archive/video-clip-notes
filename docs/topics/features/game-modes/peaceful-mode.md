@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Game Modes](../../../topics/features/game-modes.md) > Peaceful Mode
 
+## December 6th, 2022 Livestream
+* [Game Modes](../../../transcriptions/yt-ST6V-a4u8Qs,95.06163535012458,150.35020318977232.md) [https://youtube.com/embed/ST6V-a4u8Qs?autoplay=1&start=95&end=151](https://youtube.com/embed/ST6V-a4u8Qs?autoplay=1&start=95&end=151)
+
 ## November 15th, 2022 Livestream
 * [Dylan, Mark, and Snutt Talk: Passive Mode](../../../transcriptions/yt-CREPrQ23Dt4,5620.926718247916,5677.699392.md) [https://youtube.com/clip/Ugkxajs-z_9DcC3wu7ihUe3_4b9P6EjMvmT9](https://youtube.com/clip/Ugkxajs-z_9DcC3wu7ihUe3_4b9P6EjMvmT9)
 

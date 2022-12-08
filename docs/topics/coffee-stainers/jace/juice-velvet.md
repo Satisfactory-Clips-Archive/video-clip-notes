@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Coffee Stainers](../../../topics/coffee-stainers.md) > [Jace](../../../topics/coffee-stainers/jace.md) > Juice Velvet
 
+## December 6th, 2022 Livestream
+* [Intro](../../../transcriptions/yt-ST6V-a4u8Qs,303.30300643476045,344.87787398346353.md) [https://youtube.com/embed/ST6V-a4u8Qs?autoplay=1&start=303&end=345](https://youtube.com/embed/ST6V-a4u8Qs?autoplay=1&start=303&end=345)
+
 ## November 30th, 2021 Livestream
 * [State of Dev: Satisfactory on Sale](../../../transcriptions/yt-DPVHQdcaDaw.md) [https://www.youtube.com/watch?v=DPVHQdcaDaw](https://www.youtube.com/watch?v=DPVHQdcaDaw)
 

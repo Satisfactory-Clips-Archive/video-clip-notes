@@ -5,6 +5,15 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Coffee Stainers](../../../topics/coffee-stainers.md) > [Simon](../../../topics/coffee-stainers/simon.md) > Simon Saga
 
+## December 6th, 2022 Livestream
+* [Intro](../../../transcriptions/yt-ST6V-a4u8Qs,150.3668865234596,205.23837102092534.md) [https://youtube.com/embed/ST6V-a4u8Qs?autoplay=1&start=150&end=206](https://youtube.com/embed/ST6V-a4u8Qs?autoplay=1&start=150&end=206)
+* [Intro](../../../transcriptions/yt-ST6V-a4u8Qs,232.04848825638518,279.8128726030694.md) [https://youtube.com/embed/ST6V-a4u8Qs?autoplay=1&start=232&end=280](https://youtube.com/embed/ST6V-a4u8Qs?autoplay=1&start=232&end=280)
+* [Intro](../../../transcriptions/yt-ST6V-a4u8Qs,303.30300643476045,344.87787398346353.md) [https://youtube.com/embed/ST6V-a4u8Qs?autoplay=1&start=303&end=345](https://youtube.com/embed/ST6V-a4u8Qs?autoplay=1&start=303&end=345)
+* [Intro](../../../transcriptions/yt-ST6V-a4u8Qs,386.43605819847943,396.81309175196793.md) [https://youtube.com/embed/ST6V-a4u8Qs?autoplay=1&start=386&end=397](https://youtube.com/embed/ST6V-a4u8Qs?autoplay=1&start=386&end=397)
+* [Outro](../../../transcriptions/yt-ST6V-a4u8Qs,451.56779291362267,476.775611.md) [https://youtube.com/embed/ST6V-a4u8Qs?autoplay=1&start=451&end=477](https://youtube.com/embed/ST6V-a4u8Qs?autoplay=1&start=451&end=477)
+* [Outro](../../../transcriptions/yt-ST6V-a4u8Qs,476.79299344879087,497.18002721464774.md) [https://youtube.com/embed/ST6V-a4u8Qs?autoplay=1&start=476&end=498](https://youtube.com/embed/ST6V-a4u8Qs?autoplay=1&start=476&end=498)
+* [End Tag](../../../transcriptions/yt-ST6V-a4u8Qs,497.18002721464774.md) [https://youtube.com/embed/ST6V-a4u8Qs?autoplay=1&start=497](https://youtube.com/embed/ST6V-a4u8Qs?autoplay=1&start=497)
+
 ## April 19th, 2022 Livestream
 * [State of Dev](../../../transcriptions/yt-d4RkGw7ei58.md) [https://www.youtube.com/watch?v=d4RkGw7ei58](https://www.youtube.com/watch?v=d4RkGw7ei58)
 * [Q&A: What happens so that "Don't praise Simon" is a rule?](../../../transcriptions/yt-NUzhUkZFBss.md) [https://www.youtube.com/watch?v=NUzhUkZFBss](https://www.youtube.com/watch?v=NUzhUkZFBss)

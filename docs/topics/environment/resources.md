@@ -14,6 +14,9 @@ date: Last Modified
 * [Steel](../../topics/environment/resources/steel.md)
 * [Water](../../topics/environment/resources/water.md)
 
+## December 6th, 2022 Livestream
+* [Alien DNA Capsule](../../transcriptions/yt-ST6V-a4u8Qs,27.2772505787037,95.0449520164373.md) [https://youtube.com/embed/ST6V-a4u8Qs?autoplay=1&start=27&end=96](https://youtube.com/embed/ST6V-a4u8Qs?autoplay=1&start=27&end=96)
+
 ## November 29th, 2022 Livestream
 * [Q&A: Will we be able to fully-utilise a pure node in the future?](../../transcriptions/yt-9NheZ2Xejic.md) [https://www.youtube.com/watch?v=9NheZ2Xejic](https://www.youtube.com/watch?v=9NheZ2Xejic)
 
