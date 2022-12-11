@@ -11,7 +11,7 @@ topics:
 ---
 # [December 6th, 2022 Livestream](../2022-12-06.md)
 ## End Tag
-https://youtube.com/embed/ST6V-a4u8Qs?autoplay=1&start=497
+https://youtube.com/clip/Ugkx_cp3R2ugsRXlIgKuUQmn_f2t1A6NY4gj
 
 ### Topics
 * [Coffee Stainers > Simon](../topics/coffee-stainers/simon.md)

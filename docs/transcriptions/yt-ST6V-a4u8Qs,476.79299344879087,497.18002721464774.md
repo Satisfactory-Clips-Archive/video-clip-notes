@@ -12,7 +12,7 @@ topics:
 ---
 # [December 6th, 2022 Livestream](../2022-12-06.md)
 ## Outro
-https://youtube.com/embed/ST6V-a4u8Qs?autoplay=1&start=476&end=498
+https://youtube.com/clip/Ugkx3nKNkQGmLMidYgYsMD4xclvLLpVKJlsz
 
 ### Topics
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)

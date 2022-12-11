@@ -10,7 +10,7 @@ topics:
 ---
 # [December 6th, 2022 Livestream](../2022-12-06.md)
 ## Overclocking exponent change
-https://youtube.com/embed/ST6V-a4u8Qs?autoplay=1&start=344&end=387
+https://youtube.com/clip/UgkxdyoSQhq-eoc7-5X4b0bKZ6CbMyWKs6ON
 
 ### Topics
 * [Features > Buildings > Overclocking & Underclocking](../topics/features/buildings/overclocking-and-underclocking.md)

@@ -11,12 +11,12 @@ date: Last Modified
 * [Robo Jace](../../topics/coffee-stainers/jace/robo-jace.md)
 
 ## December 6th, 2022 Livestream
-* [Intro](../../transcriptions/yt-ST6V-a4u8Qs,150.3668865234596,205.23837102092534.md) [https://youtube.com/embed/ST6V-a4u8Qs?autoplay=1&start=150&end=206](https://youtube.com/embed/ST6V-a4u8Qs?autoplay=1&start=150&end=206)
-* [Intro](../../transcriptions/yt-ST6V-a4u8Qs,232.04848825638518,279.8128726030694.md) [https://youtube.com/embed/ST6V-a4u8Qs?autoplay=1&start=232&end=280](https://youtube.com/embed/ST6V-a4u8Qs?autoplay=1&start=232&end=280)
-* [Intro](../../transcriptions/yt-ST6V-a4u8Qs,303.30300643476045,344.87787398346353.md) [https://youtube.com/embed/ST6V-a4u8Qs?autoplay=1&start=303&end=345](https://youtube.com/embed/ST6V-a4u8Qs?autoplay=1&start=303&end=345)
-* [Intro](../../transcriptions/yt-ST6V-a4u8Qs,386.43605819847943,396.81309175196793.md) [https://youtube.com/embed/ST6V-a4u8Qs?autoplay=1&start=386&end=397](https://youtube.com/embed/ST6V-a4u8Qs?autoplay=1&start=386&end=397)
-* [Outro](../../transcriptions/yt-ST6V-a4u8Qs,451.56779291362267,476.775611.md) [https://youtube.com/embed/ST6V-a4u8Qs?autoplay=1&start=451&end=477](https://youtube.com/embed/ST6V-a4u8Qs?autoplay=1&start=451&end=477)
-* [Outro](../../transcriptions/yt-ST6V-a4u8Qs,476.79299344879087,497.18002721464774.md) [https://youtube.com/embed/ST6V-a4u8Qs?autoplay=1&start=476&end=498](https://youtube.com/embed/ST6V-a4u8Qs?autoplay=1&start=476&end=498)
+* [Intro](../../transcriptions/yt-ST6V-a4u8Qs,150.3668865234596,205.23837102092534.md) [https://youtube.com/clip/UgkxHfhSredLq3T6iUOd5lDA5J-80R91QAyq](https://youtube.com/clip/UgkxHfhSredLq3T6iUOd5lDA5J-80R91QAyq)
+* [Intro](../../transcriptions/yt-ST6V-a4u8Qs,232.04848825638518,279.8128726030694.md) [https://youtube.com/clip/UgkxYKc9QUC8lrZCeueksFrrEXJ1fEFuAZdp](https://youtube.com/clip/UgkxYKc9QUC8lrZCeueksFrrEXJ1fEFuAZdp)
+* [Intro](../../transcriptions/yt-ST6V-a4u8Qs,303.30300643476045,344.87787398346353.md) [https://youtube.com/clip/UgkxXjTZ9OmbluddUxl8F6H28SUfiQ2zAMh8](https://youtube.com/clip/UgkxXjTZ9OmbluddUxl8F6H28SUfiQ2zAMh8)
+* [Intro](../../transcriptions/yt-ST6V-a4u8Qs,386.43605819847943,396.81309175196793.md) [https://youtube.com/clip/UgkxniRJFWwGUpBxEHdqgl8XawCyW-jdFwL5](https://youtube.com/clip/UgkxniRJFWwGUpBxEHdqgl8XawCyW-jdFwL5)
+* [Outro](../../transcriptions/yt-ST6V-a4u8Qs,451.56779291362267,476.775611.md) [https://youtube.com/clip/UgkxkLesXZv59roeVKtie74jSWgLwX1MSePM](https://youtube.com/clip/UgkxkLesXZv59roeVKtie74jSWgLwX1MSePM)
+* [Outro](../../transcriptions/yt-ST6V-a4u8Qs,476.79299344879087,497.18002721464774.md) [https://youtube.com/clip/Ugkx3nKNkQGmLMidYgYsMD4xclvLLpVKJlsz](https://youtube.com/clip/Ugkx3nKNkQGmLMidYgYsMD4xclvLLpVKJlsz)
 * Community FYI: The honest is refreshing [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6229&end=6236](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6229&end=6236)
 * Q&A: Jace, how's your day going? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6282&end=6286](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6282&end=6286)
 * Q&A: Jace, what's your favourite game? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7169&end=7192](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7169&end=7192)

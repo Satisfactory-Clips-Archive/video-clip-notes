@@ -9,7 +9,7 @@ topics:
 ---
 # [December 6th, 2022 Livestream](../2022-12-06.md)
 ## Zip Line Sprint
-https://youtube.com/embed/ST6V-a4u8Qs?autoplay=1&start=279&end=304
+https://youtube.com/clip/UgkxiCJ-aeoHqkYQvY_hWG3kSqP8L1HYE8jv
 
 ### Topics
 * [Features > Equipment > Zip Lines](../topics/features/equipment/zip-lines.md)

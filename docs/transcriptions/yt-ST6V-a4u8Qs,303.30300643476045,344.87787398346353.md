@@ -14,7 +14,7 @@ topics:
 ---
 # [December 6th, 2022 Livestream](../2022-12-06.md)
 ## Intro
-https://youtube.com/embed/ST6V-a4u8Qs?autoplay=1&start=303&end=345
+https://youtube.com/clip/UgkxXjTZ9OmbluddUxl8F6H28SUfiQ2zAMh8
 
 ### Topics
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)

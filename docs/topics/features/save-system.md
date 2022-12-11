@@ -8,7 +8,7 @@ date: Last Modified
 * [Cloud Sync](../../topics/features/save-system/cloud-sync.md)
 
 ## December 6th, 2022 Livestream
-* [Blueprint files](../../transcriptions/yt-ST6V-a4u8Qs,433.1827591902395,451.5511095799354.md) [https://youtube.com/embed/ST6V-a4u8Qs?autoplay=1&start=433&end=452](https://youtube.com/embed/ST6V-a4u8Qs?autoplay=1&start=433&end=452)
+* [Blueprint files](../../transcriptions/yt-ST6V-a4u8Qs,433.1827591902395,451.5511095799354.md) [https://www.youtube.com/clip/UgkxqePVjiZAGMWtcM0V54DMrr8U2orMMjY8](https://www.youtube.com/clip/UgkxqePVjiZAGMWtcM0V54DMrr8U2orMMjY8)
 
 ## November 11th, 2022 Video
 * [Blueprints are not persistent to your Save file](../../transcriptions/yt-9KBQyjy-a6g,842.6418,892.6584333333334.md) [https://youtube.com/clip/UgkxKQFoYRVWKeGPQ2pEl2zgtmFFB4SwryyP](https://youtube.com/clip/UgkxKQFoYRVWKeGPQ2pEl2zgtmFFB4SwryyP)

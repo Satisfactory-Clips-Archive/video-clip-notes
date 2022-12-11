@@ -6,7 +6,7 @@ date: Last Modified
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Creatures](../../../topics/environment/creatures.md) > Lizard Doggo
 
 ## December 6th, 2022 Livestream
-* [Game Modes](../../../transcriptions/yt-ST6V-a4u8Qs,95.06163535012458,150.35020318977232.md) [https://youtube.com/embed/ST6V-a4u8Qs?autoplay=1&start=95&end=151](https://youtube.com/embed/ST6V-a4u8Qs?autoplay=1&start=95&end=151)
+* [Game Modes](../../../transcriptions/yt-ST6V-a4u8Qs,95.06163535012458,150.35020318977232.md) [https://youtube.com/clip/UgkxOe2hN5wxds-Vt3UD6QaO4bc2dC94Qj-W](https://youtube.com/clip/UgkxOe2hN5wxds-Vt3UD6QaO4bc2dC94Qj-W)
 * Q&A: Have you guys thought of adding leashes in the game for the Lizard Doggo? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6881&end=6890](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6881&end=6890)
 
 ## November 29th, 2022 Livestream

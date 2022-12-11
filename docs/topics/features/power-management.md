@@ -11,8 +11,8 @@ date: Last Modified
 * [Power Switch](../../topics/features/power-management/power-switch.md)
 
 ## December 6th, 2022 Livestream
-* [Intro](../../transcriptions/yt-ST6V-a4u8Qs,303.30300643476045,344.87787398346353.md) [https://youtube.com/embed/ST6V-a4u8Qs?autoplay=1&start=303&end=345](https://youtube.com/embed/ST6V-a4u8Qs?autoplay=1&start=303&end=345)
-* [Overclocking exponent change](../../transcriptions/yt-ST6V-a4u8Qs,344.8945573171508,386.41937486479213.md) [https://youtube.com/embed/ST6V-a4u8Qs?autoplay=1&start=344&end=387](https://youtube.com/embed/ST6V-a4u8Qs?autoplay=1&start=344&end=387)
+* [Intro](../../transcriptions/yt-ST6V-a4u8Qs,303.30300643476045,344.87787398346353.md) [https://youtube.com/clip/UgkxXjTZ9OmbluddUxl8F6H28SUfiQ2zAMh8](https://youtube.com/clip/UgkxXjTZ9OmbluddUxl8F6H28SUfiQ2zAMh8)
+* [Overclocking exponent change](../../transcriptions/yt-ST6V-a4u8Qs,344.8945573171508,386.41937486479213.md) [https://youtube.com/clip/UgkxdyoSQhq-eoc7-5X4b0bKZ6CbMyWKs6ON](https://youtube.com/clip/UgkxdyoSQhq-eoc7-5X4b0bKZ6CbMyWKs6ON)
 
 ## November 29th, 2022 Livestream
 * [Q&A: When do you plan to change Overclocking to linear?](../../transcriptions/yt-eOAOIWMkXM4.md) [https://www.youtube.com/watch?v=eOAOIWMkXM4](https://www.youtube.com/watch?v=eOAOIWMkXM4)

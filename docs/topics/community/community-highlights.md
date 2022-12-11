@@ -6,7 +6,7 @@ date: Last Modified
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Community Highlights
 
 ## December 6th, 2022 Livestream
-* Did someone say "bridge review"? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=2901&end=2914](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=2901&end=2914)
+* Did someone say "bridge review"? [https://youtube.com/clip/UgkxV57Y5OQxjul9-nhMV_iWb7djtwrzhNF0](https://youtube.com/clip/UgkxV57Y5OQxjul9-nhMV_iWb7djtwrzhNF0)
 * Q&A: Bridge review? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6992&end=7008](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6992&end=7008)
 
 ## October 4th, 2022 Livestream

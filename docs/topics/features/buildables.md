@@ -23,7 +23,7 @@ date: Last Modified
 * [Windows](../../topics/features/buildables/windows.md)
 
 ## December 6th, 2022 Livestream
-* [Conveyor Belt Ceiling Mounts & improvements](../../transcriptions/yt-ST6V-a4u8Qs,205.2550543546126,232.03180492269792.md) [https://youtube.com/embed/ST6V-a4u8Qs?autoplay=1&start=205&end=233](https://youtube.com/embed/ST6V-a4u8Qs?autoplay=1&start=205&end=233)
+* [Conveyor Belt Ceiling Mounts & improvements](../../transcriptions/yt-ST6V-a4u8Qs,205.2550543546126,232.03180492269792.md) [https://youtube.com/clip/Ugkxb_ZxVuHQwAKMVxyW_6w-7HmK7BArQxX0](https://youtube.com/clip/Ugkxb_ZxVuHQwAKMVxyW_6w-7HmK7BArQxX0)
 
 ## November 29th, 2022 Livestream
 * [Q&A: Is it possible that we might get more new building pieces?](../../transcriptions/yt-hCkJWCgzJfE.md) [https://www.youtube.com/watch?v=hCkJWCgzJfE](https://www.youtube.com/watch?v=hCkJWCgzJfE)

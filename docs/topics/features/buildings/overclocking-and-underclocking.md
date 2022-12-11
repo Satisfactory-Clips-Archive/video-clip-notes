@@ -6,9 +6,9 @@ date: Last Modified
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > Overclocking & Underclocking
 
 ## December 6th, 2022 Livestream
-* [Intro](../../../transcriptions/yt-ST6V-a4u8Qs,303.30300643476045,344.87787398346353.md) [https://youtube.com/embed/ST6V-a4u8Qs?autoplay=1&start=303&end=345](https://youtube.com/embed/ST6V-a4u8Qs?autoplay=1&start=303&end=345)
-* [Overclocking exponent change](../../../transcriptions/yt-ST6V-a4u8Qs,344.8945573171508,386.41937486479213.md) [https://youtube.com/embed/ST6V-a4u8Qs?autoplay=1&start=344&end=387](https://youtube.com/embed/ST6V-a4u8Qs?autoplay=1&start=344&end=387)
-* [End Tag](../../../transcriptions/yt-ST6V-a4u8Qs,497.18002721464774.md) [https://youtube.com/embed/ST6V-a4u8Qs?autoplay=1&start=497](https://youtube.com/embed/ST6V-a4u8Qs?autoplay=1&start=497)
+* [Intro](../../../transcriptions/yt-ST6V-a4u8Qs,303.30300643476045,344.87787398346353.md) [https://youtube.com/clip/UgkxXjTZ9OmbluddUxl8F6H28SUfiQ2zAMh8](https://youtube.com/clip/UgkxXjTZ9OmbluddUxl8F6H28SUfiQ2zAMh8)
+* [Overclocking exponent change](../../../transcriptions/yt-ST6V-a4u8Qs,344.8945573171508,386.41937486479213.md) [https://youtube.com/clip/UgkxdyoSQhq-eoc7-5X4b0bKZ6CbMyWKs6ON](https://youtube.com/clip/UgkxdyoSQhq-eoc7-5X4b0bKZ6CbMyWKs6ON)
+* [End Tag](../../../transcriptions/yt-ST6V-a4u8Qs,497.18002721464774.md) [https://youtube.com/clip/Ugkx_cp3R2ugsRXlIgKuUQmn_f2t1A6NY4gj](https://youtube.com/clip/Ugkx_cp3R2ugsRXlIgKuUQmn_f2t1A6NY4gj)
 * Q&A: Can Vehicles go faster with Power Shards? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7059&end=7066](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7059&end=7066)
 
 ## November 29th, 2022 Livestream

@@ -6,8 +6,8 @@ date: Last Modified
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildables](../../../topics/features/buildables.md) > Conveyor Belts
 
 ## December 6th, 2022 Livestream
-* [Intro](../../../transcriptions/yt-ST6V-a4u8Qs,150.3668865234596,205.23837102092534.md) [https://youtube.com/embed/ST6V-a4u8Qs?autoplay=1&start=150&end=206](https://youtube.com/embed/ST6V-a4u8Qs?autoplay=1&start=150&end=206)
-* [Conveyor Belt Ceiling Mounts & improvements](../../../transcriptions/yt-ST6V-a4u8Qs,205.2550543546126,232.03180492269792.md) [https://youtube.com/embed/ST6V-a4u8Qs?autoplay=1&start=205&end=233](https://youtube.com/embed/ST6V-a4u8Qs?autoplay=1&start=205&end=233)
+* [Intro](../../../transcriptions/yt-ST6V-a4u8Qs,150.3668865234596,205.23837102092534.md) [https://youtube.com/clip/UgkxHfhSredLq3T6iUOd5lDA5J-80R91QAyq](https://youtube.com/clip/UgkxHfhSredLq3T6iUOd5lDA5J-80R91QAyq)
+* [Conveyor Belt Ceiling Mounts & improvements](../../../transcriptions/yt-ST6V-a4u8Qs,205.2550543546126,232.03180492269792.md) [https://youtube.com/clip/Ugkxb_ZxVuHQwAKMVxyW_6w-7HmK7BArQxX0](https://youtube.com/clip/Ugkxb_ZxVuHQwAKMVxyW_6w-7HmK7BArQxX0)
 
 ## November 29th, 2022 Livestream
 * [Q&A: Priority Mergers?](../../../transcriptions/yt-jEXZLV1hSYk.md) [https://www.youtube.com/watch?v=jEXZLV1hSYk](https://www.youtube.com/watch?v=jEXZLV1hSYk)

@@ -9,7 +9,7 @@ topics:
 ---
 # [December 6th, 2022 Livestream](../2022-12-06.md)
 ## Designing Blueprints
-https://youtube.com/embed/ST6V-a4u8Qs?autoplay=1&start=396&end=434
+https://youtube.com/clip/Ugkx77BBBkP7oZ1uX6cAnm5FErblUEuKe02V
 
 ### Topics
 * [Features > Buildings > Blueprint Designer](../topics/features/buildings/blueprint-designer.md)

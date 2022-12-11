@@ -6,7 +6,7 @@ date: Last Modified
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Runescape
 
 ## December 6th, 2022 Livestream
-* [Outro](../../transcriptions/yt-ST6V-a4u8Qs,451.56779291362267,476.775611.md) [https://youtube.com/embed/ST6V-a4u8Qs?autoplay=1&start=451&end=477](https://youtube.com/embed/ST6V-a4u8Qs?autoplay=1&start=451&end=477)
+* [Outro](../../transcriptions/yt-ST6V-a4u8Qs,451.56779291362267,476.775611.md) [https://youtube.com/clip/UgkxkLesXZv59roeVKtie74jSWgLwX1MSePM](https://youtube.com/clip/UgkxkLesXZv59roeVKtie74jSWgLwX1MSePM)
 
 ## November 22nd, 2022 Livestream
 * [Snutt & Jace Talk: Monkey Island, Final Fantasy, and Runescape](../../transcriptions/yt-XHOTMDdtFGc.md) [https://www.youtube.com/watch?v=XHOTMDdtFGc](https://www.youtube.com/watch?v=XHOTMDdtFGc)

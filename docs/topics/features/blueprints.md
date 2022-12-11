@@ -6,7 +6,7 @@ date: Last Modified
 # [Topics](../../topics.md) > [Features](../../topics/features.md) > Blueprints
 
 ## December 6th, 2022 Livestream
-* [Blueprint files](../../transcriptions/yt-ST6V-a4u8Qs,433.1827591902395,451.5511095799354.md) [https://youtube.com/embed/ST6V-a4u8Qs?autoplay=1&start=433&end=452](https://youtube.com/embed/ST6V-a4u8Qs?autoplay=1&start=433&end=452)
+* [Blueprint files](../../transcriptions/yt-ST6V-a4u8Qs,433.1827591902395,451.5511095799354.md) [https://www.youtube.com/clip/UgkxqePVjiZAGMWtcM0V54DMrr8U2orMMjY8](https://www.youtube.com/clip/UgkxqePVjiZAGMWtcM0V54DMrr8U2orMMjY8)
 * Q&A: Will Blueprints work on GeForce Now? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6239&end=6280](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6239&end=6280)
 * Q&A: Is placing a Blueprint easy to undo? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6314&end=6409](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6314&end=6409)
 

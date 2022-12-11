@@ -13,7 +13,7 @@ topics:
 ---
 # [December 6th, 2022 Livestream](../2022-12-06.md)
 ## Game Modes
-https://youtube.com/embed/ST6V-a4u8Qs?autoplay=1&start=95&end=151
+https://youtube.com/clip/UgkxOe2hN5wxds-Vt3UD6QaO4bc2dC94Qj-W
 
 ### Topics
 * [Environment > Creatures](../topics/environment/creatures.md)

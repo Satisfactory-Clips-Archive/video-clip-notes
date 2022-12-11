@@ -3,7 +3,7 @@ title: "Frequently Asked Questions"
 date: Last Modified
 ---
 ## [December 6th, 2022 Livestream](./2022-12-06.md)
-### Q&A: Golf? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6220&end=6230](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6220&end=6230)
+### Q&A: Golf? [https://youtube.com/clip/UgkxAFveRDVrofoJinzsnTH1Lrp84cQg0qGx](https://youtube.com/clip/UgkxAFveRDVrofoJinzsnTH1Lrp84cQg0qGx)
 
 <details>
 <summary>This question may have been asked previously at least 9 other times, as recently as March 2022 and as early as November 2021.</summary>

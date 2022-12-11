@@ -9,7 +9,7 @@ date: Last Modified
 * [Snutty Mays](../../topics/coffee-stainers/snutt/snutty-mays.md)
 
 ## December 6th, 2022 Livestream
-* [Outro](../../transcriptions/yt-ST6V-a4u8Qs,476.79299344879087,497.18002721464774.md) [https://youtube.com/embed/ST6V-a4u8Qs?autoplay=1&start=476&end=498](https://youtube.com/embed/ST6V-a4u8Qs?autoplay=1&start=476&end=498)
+* [Outro](../../transcriptions/yt-ST6V-a4u8Qs,476.79299344879087,497.18002721464774.md) [https://youtube.com/clip/Ugkx3nKNkQGmLMidYgYsMD4xclvLLpVKJlsz](https://youtube.com/clip/Ugkx3nKNkQGmLMidYgYsMD4xclvLLpVKJlsz)
 * Snutt still missing [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=715&end=843](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=715&end=843)
 * Q&A: The Big Crab is Snutt? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6909&end=6913](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6909&end=6913)
 

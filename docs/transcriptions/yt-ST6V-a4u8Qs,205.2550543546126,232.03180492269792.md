@@ -11,7 +11,7 @@ topics:
 ---
 # [December 6th, 2022 Livestream](../2022-12-06.md)
 ## Conveyor Belt Ceiling Mounts & improvements
-https://youtube.com/embed/ST6V-a4u8Qs?autoplay=1&start=205&end=233
+https://youtube.com/clip/Ugkxb_ZxVuHQwAKMVxyW_6w-7HmK7BArQxX0
 
 ### Topics
 * [Features > Buildables](../topics/features/buildables.md)
