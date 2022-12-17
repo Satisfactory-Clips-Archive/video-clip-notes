@@ -10,7 +10,7 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Is there an actual win condition or is it just 'til end of content?
 https://www.youtube.com/watch?v=Pn5tcfKmF20
-This question was possibly duplicated with a more recent answer: [November 10th, 2020 Livestream Q&A: Thoughts on making end-game point or goal?](./yt-hhckg5vm5_w.md) [https://www.youtube.com/watch?v=hhckg5vm5_w](https://www.youtube.com/watch?v=hhckg5vm5_w)
+This question was possibly duplicated with a more recent answer: [December 13th, 2022 Livestream Q&A: Is there eventually going to be an end-goal?](./yt-cL_dqA0345M.md) [https://www.youtube.com/watch?v=cL_dqA0345M](https://www.youtube.com/watch?v=cL_dqA0345M)
 
 
 ### Topics

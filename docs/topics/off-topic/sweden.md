@@ -8,6 +8,9 @@ date: Last Modified
 * [Skövde](../../topics/off-topic/sweden/skovde.md)
 * [Stockholm](../../topics/off-topic/sweden/stockholm.md)
 
+## December 13th, 2022 Livestream
+* [Q&A: Could you add a tea alternative to the Coffee Mug?](../../transcriptions/yt--aoKEMcw0_o.md) [https://www.youtube.com/watch?v=-aoKEMcw0_o](https://www.youtube.com/watch?v=-aoKEMcw0_o)
+
 ## October 25th, 2022 Livestream
 * [Q&A: Burgers tonight?](../../transcriptions/yt-SPpbSYi9LXg.md) [https://www.youtube.com/watch?v=SPpbSYi9LXg](https://www.youtube.com/watch?v=SPpbSYi9LXg)
 

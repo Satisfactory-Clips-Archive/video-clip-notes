@@ -9,6 +9,8 @@ topics:
 # [October 25th, 2022 Livestream](../2022-10-25.md)
 ## Q&A: Pipe ceiling mounts?
 https://www.youtube.com/watch?v=dhoa1QZ9n8Q
+This question was possibly duplicated with a more recent answer: [December 13th, 2022 Livestream Q&A: Any talks on extendable Pipe Ceiling Mounts?](./yt-olazWgKMEPU.md) [https://www.youtube.com/watch?v=olazWgKMEPU](https://www.youtube.com/watch?v=olazWgKMEPU)
+
 
 ### Topics
 * [Features > Fluids > Pipes](../topics/features/fluids/pipes.md)

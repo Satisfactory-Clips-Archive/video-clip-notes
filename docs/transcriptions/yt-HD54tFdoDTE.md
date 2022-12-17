@@ -8,7 +8,7 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Will we ever see the Crab Boss?
 https://www.youtube.com/watch?v=HD54tFdoDTE
-This question was possibly duplicated with a more recent answer: December 6th, 2022 Livestream Q&A: More variety in fauna? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6855&end=6880](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6855&end=6880)
+This question was possibly duplicated with a more recent answer: [December 13th, 2022 Livestream Q&A: Any news on when the big Crab will be added?](./yt-nyIfC6kmILs.md) [https://www.youtube.com/watch?v=nyIfC6kmILs](https://www.youtube.com/watch?v=nyIfC6kmILs)
 
 
 ### Topics

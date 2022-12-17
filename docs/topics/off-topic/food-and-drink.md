@@ -10,6 +10,9 @@ date: Last Modified
 * [Pizza](../../topics/off-topic/food-and-drink/pizza.md)
 * [Semlor](../../topics/off-topic/food-and-drink/semlor.md)
 
+## December 13th, 2022 Livestream
+* [Q&A: Could you add a tea alternative to the Coffee Mug?](../../transcriptions/yt--aoKEMcw0_o.md) [https://www.youtube.com/watch?v=-aoKEMcw0_o](https://www.youtube.com/watch?v=-aoKEMcw0_o)
+
 ## November 8th, 2022 Livestream
 * [Q&A: Smorgasboard DLC?](../../transcriptions/yt-DAckE7CsuEc.md) [https://www.youtube.com/watch?v=DAckE7CsuEc](https://www.youtube.com/watch?v=DAckE7CsuEc)
 

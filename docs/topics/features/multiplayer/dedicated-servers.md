@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Multiplayer](../../../topics/features/multiplayer.md) > Dedicated Servers
 
+## December 13th, 2022 Livestream
+* [Q&A: Any love coming to Dedicated Servers before the next Update?](../../../transcriptions/yt-sidEn65j8XA.md) [https://www.youtube.com/watch?v=sidEn65j8XA](https://www.youtube.com/watch?v=sidEn65j8XA)
+
 ## December 6th, 2022 Livestream
 * Q&A: Are you working on Dedicated Servers? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7373&end=7401](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7373&end=7401)
 

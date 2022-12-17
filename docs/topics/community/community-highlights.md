@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Community Highlights
 
+## December 13th, 2022 Livestream
+* [Q&A: Real Civil Engineer, when?](../../transcriptions/yt-mALcM75aJMQ.md) [https://www.youtube.com/watch?v=mALcM75aJMQ](https://www.youtube.com/watch?v=mALcM75aJMQ)
+* [Q&A: Why not have Road pieces in-game?](../../transcriptions/yt-reT5Ti3-9uQ.md) [https://www.youtube.com/watch?v=reT5Ti3-9uQ](https://www.youtube.com/watch?v=reT5Ti3-9uQ)
+
 ## December 6th, 2022 Livestream
 * Did someone say "bridge review"? [https://youtube.com/clip/UgkxV57Y5OQxjul9-nhMV_iWb7djtwrzhNF0](https://youtube.com/clip/UgkxV57Y5OQxjul9-nhMV_iWb7djtwrzhNF0)
 * Q&A: Bridge review? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6992&end=7008](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6992&end=7008)

@@ -9,6 +9,9 @@ date: Last Modified
 * [Ping](../../topics/technology/user-interface/ping.md)
 * [Stamps](../../topics/technology/user-interface/stamps.md)
 
+## December 13th, 2022 Livestream
+* [Q&A: Are the devs aware that copy/paste seems broke at the moment?](../../transcriptions/yt-jWsSrmHTr7k.md) [https://www.youtube.com/watch?v=jWsSrmHTr7k](https://www.youtube.com/watch?v=jWsSrmHTr7k)
+
 ## November 29th, 2022 Livestream
 * [Q&A: Any chance of getting native support for spreadsheets or notes tools?](../../transcriptions/yt-WElLa0hXbeQ.md) [https://www.youtube.com/watch?v=WElLa0hXbeQ](https://www.youtube.com/watch?v=WElLa0hXbeQ)
 

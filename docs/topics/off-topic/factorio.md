@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Factorio
 
+## December 13th, 2022 Livestream
+* [Q&A: Do you ever play Factorio?](../../transcriptions/yt-LkxSUNX1HNs.md) [https://www.youtube.com/watch?v=LkxSUNX1HNs](https://www.youtube.com/watch?v=LkxSUNX1HNs)
+
 ## May 3rd, 2022 Livestream
 * [Q&A: Have you ever contacted the Factorio developers?](../../transcriptions/yt-Qf-PsIDJZWU.md) [https://www.youtube.com/watch?v=Qf-PsIDJZWU](https://www.youtube.com/watch?v=Qf-PsIDJZWU)
 

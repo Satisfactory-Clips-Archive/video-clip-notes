@@ -18,6 +18,9 @@ date: Last Modified
 * [Teasers & Trailers](../topics/satisfactory-updates/teasers-and-trailers.md)
 * [World Update](../topics/satisfactory-updates/world-update.md)
 
+## December 13th, 2022 Livestream
+* [State of Dave](../transcriptions/yt-ZljktwoQPRI.md) [https://www.youtube.com/watch?v=ZljktwoQPRI](https://www.youtube.com/watch?v=ZljktwoQPRI)
+
 ## December 6th, 2022 Livestream
 * Q&A: When will the next patch go Experimental? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6789&end=6846](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6789&end=6846)
 * Q&A: Can you try giving us a hint on what will be the late-game mechanics? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7276&end=7300](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7276&end=7300)

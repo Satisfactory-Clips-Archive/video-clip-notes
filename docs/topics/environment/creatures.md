@@ -10,6 +10,10 @@ date: Last Modified
 * [Non Flying Bird](../../topics/environment/creatures/non-flying-bird.md)
 * [Space Giraffe-Tick-Penguin-Whale Thing](../../topics/environment/creatures/space-giraffe-tick-penguin-whale-thing.md)
 
+## December 13th, 2022 Livestream
+* [Q&A: Horse DLC, when?](../../transcriptions/yt-ui9y7vH9d8o.md) [https://www.youtube.com/watch?v=ui9y7vH9d8o](https://www.youtube.com/watch?v=ui9y7vH9d8o)
+* [Q&A: Overclockable Hover Pack?](../../transcriptions/yt-z05dP_huhnM.md) [https://www.youtube.com/watch?v=z05dP_huhnM](https://www.youtube.com/watch?v=z05dP_huhnM)
+
 ## December 6th, 2022 Livestream
 * [Alien DNA Capsule](../../transcriptions/yt-ST6V-a4u8Qs,27.2772505787037,95.0449520164373.md) [https://youtube.com/embed/ST6V-a4u8Qs?autoplay=1&start=27&end=96](https://youtube.com/embed/ST6V-a4u8Qs?autoplay=1&start=27&end=96)
 * [Game Modes](../../transcriptions/yt-ST6V-a4u8Qs,95.06163535012458,150.35020318977232.md) [https://youtube.com/clip/UgkxOe2hN5wxds-Vt3UD6QaO4bc2dC94Qj-W](https://youtube.com/clip/UgkxOe2hN5wxds-Vt3UD6QaO4bc2dC94Qj-W)

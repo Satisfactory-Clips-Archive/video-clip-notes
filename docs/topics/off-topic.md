@@ -27,6 +27,9 @@ date: Last Modified
 * [The Lord of the Rings](../topics/off-topic/the-lord-of-the-rings.md)
 * [Valheim](../topics/off-topic/valheim.md)
 
+## December 13th, 2022 Livestream
+* [Q&A: Are you excited for the Last of Us TV show next year?](../transcriptions/yt-GxBTyBBmoRs.md) [https://www.youtube.com/watch?v=GxBTyBBmoRs](https://www.youtube.com/watch?v=GxBTyBBmoRs)
+
 ## November 22nd, 2022 Livestream
 * [Q&A: Do you watch Attack on Titan?](../transcriptions/yt-VThbgTR-16E.md) [https://www.youtube.com/watch?v=VThbgTR-16E](https://www.youtube.com/watch?v=VThbgTR-16E)
 

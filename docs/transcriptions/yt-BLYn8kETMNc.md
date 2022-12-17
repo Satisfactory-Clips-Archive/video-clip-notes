@@ -8,6 +8,8 @@ topics:
 # [January 18th, 2022 Livestream](../2022-01-18.md)
 ## Q&A: Horses, when?
 https://www.youtube.com/watch?v=BLYn8kETMNc
+This question was possibly duplicated with a more recent answer: [December 13th, 2022 Livestream Q&A: Horse DLC, when?](./yt-ui9y7vH9d8o.md) [https://www.youtube.com/watch?v=ui9y7vH9d8o](https://www.youtube.com/watch?v=ui9y7vH9d8o)
+
 
 ### Topics
 * [Environment > Creatures](../topics/environment/creatures.md)

@@ -10,6 +10,14 @@ date: Last Modified
 * [Juice Velvet](../../topics/coffee-stainers/jace/juice-velvet.md)
 * [Robo Jace](../../topics/coffee-stainers/jace/robo-jace.md)
 
+## December 13th, 2022 Livestream
+* [Q&A: Are you friends with the Valheim devs?](../../transcriptions/yt-2HtyjvekxwE.md) [https://www.youtube.com/watch?v=2HtyjvekxwE](https://www.youtube.com/watch?v=2HtyjvekxwE)
+* [Q&A: Are you excited for the Last of Us TV show next year?](../../transcriptions/yt-GxBTyBBmoRs.md) [https://www.youtube.com/watch?v=GxBTyBBmoRs](https://www.youtube.com/watch?v=GxBTyBBmoRs)
+* [Q&A: Do you ever play Factorio?](../../transcriptions/yt-LkxSUNX1HNs.md) [https://www.youtube.com/watch?v=LkxSUNX1HNs](https://www.youtube.com/watch?v=LkxSUNX1HNs)
+* [Q&A: Jace, what do you do when you're not streaming?](../../transcriptions/yt-N4VEvY6aRg0.md) [https://www.youtube.com/watch?v=N4VEvY6aRg0](https://www.youtube.com/watch?v=N4VEvY6aRg0)
+* [Q&A: How do we know if you're not a clone?](../../transcriptions/yt-eOmlyVx42zE.md) [https://www.youtube.com/watch?v=eOmlyVx42zE](https://www.youtube.com/watch?v=eOmlyVx42zE)
+* [Q&A: What made you want to switch from Programming to Community Management?](../../transcriptions/yt-ymMXE01z6CE.md) [https://www.youtube.com/watch?v=ymMXE01z6CE](https://www.youtube.com/watch?v=ymMXE01z6CE)
+
 ## December 6th, 2022 Livestream
 * [Intro](../../transcriptions/yt-ST6V-a4u8Qs,150.3668865234596,205.23837102092534.md) [https://youtube.com/clip/UgkxHfhSredLq3T6iUOd5lDA5J-80R91QAyq](https://youtube.com/clip/UgkxHfhSredLq3T6iUOd5lDA5J-80R91QAyq)
 * [Intro](../../transcriptions/yt-ST6V-a4u8Qs,232.04848825638518,279.8128726030694.md) [https://youtube.com/clip/UgkxYKc9QUC8lrZCeueksFrrEXJ1fEFuAZdp](https://youtube.com/clip/UgkxYKc9QUC8lrZCeueksFrrEXJ1fEFuAZdp)

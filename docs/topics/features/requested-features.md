@@ -10,6 +10,15 @@ date: Last Modified
 * [Pollution](../../topics/features/requested-features/pollution.md)
 * [Third-person View](../../topics/features/requested-features/third-person-view.md)
 
+## December 13th, 2022 Livestream
+* [Q&A: Crab Rave Easter Egg?](../../transcriptions/yt-KEypvNlLR-Q.md) [https://www.youtube.com/watch?v=KEypvNlLR-Q](https://www.youtube.com/watch?v=KEypvNlLR-Q)
+* [Q&A: Is there any plan to make roads and curves simpler?](../../transcriptions/yt-TqICAF20LV0.md) [https://www.youtube.com/watch?v=TqICAF20LV0](https://www.youtube.com/watch?v=TqICAF20LV0)
+* [Q&A: Blueprint preview before placing or an undo function?](../../transcriptions/yt-fliouDhnx8c.md) [https://www.youtube.com/watch?v=fliouDhnx8c](https://www.youtube.com/watch?v=fliouDhnx8c)
+* [Q&A: Why not have Road pieces in-game?](../../transcriptions/yt-reT5Ti3-9uQ.md) [https://www.youtube.com/watch?v=reT5Ti3-9uQ](https://www.youtube.com/watch?v=reT5Ti3-9uQ)
+* [Q&A: Any plans for quarter-Foundations or extra shapes?](../../transcriptions/yt-rmrSDP4Bbrs.md) [https://www.youtube.com/watch?v=rmrSDP4Bbrs](https://www.youtube.com/watch?v=rmrSDP4Bbrs)
+* [Q&A: Is there still no way to remove those stupid gas rocks?](../../transcriptions/yt-wzI7K41TYLg.md) [https://www.youtube.com/watch?v=wzI7K41TYLg](https://www.youtube.com/watch?v=wzI7K41TYLg)
+* [Q&A: Overclockable Hover Pack?](../../transcriptions/yt-z05dP_huhnM.md) [https://www.youtube.com/watch?v=z05dP_huhnM](https://www.youtube.com/watch?v=z05dP_huhnM)
+
 ## December 6th, 2022 Livestream
 * Q&A: More seasonal events in 2023? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6435&end=6490](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6435&end=6490)
 * Q&A: Please do more events? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6499&end=6504](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6499&end=6504)

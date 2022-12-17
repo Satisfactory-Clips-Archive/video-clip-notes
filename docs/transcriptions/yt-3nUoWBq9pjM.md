@@ -8,7 +8,7 @@ topics:
 # [January 25th, 2022 Livestream](../2022-01-25.md)
 ## Q&A: Will we ever get Terraforming?
 https://www.youtube.com/watch?v=3nUoWBq9pjM
-This question was possibly duplicated with a more recent answer: [October 25th, 2022 Livestream Q&A: Game Mode with terrain-editing ability?](./yt-ZMOO9BEGw04.md) [https://www.youtube.com/watch?v=ZMOO9BEGw04](https://www.youtube.com/watch?v=ZMOO9BEGw04)
+This question was possibly duplicated with a more recent answer: [December 13th, 2022 Livestream Q&A: What's your stance on Terraforming?](./yt-RDPwE0MbNzs.md) [https://www.youtube.com/watch?v=RDPwE0MbNzs](https://www.youtube.com/watch?v=RDPwE0MbNzs)
 
 
 ### Topics

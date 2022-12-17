@@ -12,6 +12,9 @@ date: Last Modified
 * [Tractor](../../../topics/features/transportation/vehicles/tractor.md)
 * [Truck](../../../topics/features/transportation/vehicles/truck.md)
 
+## December 13th, 2022 Livestream
+* [Q&A: Why not have Road pieces in-game?](../../../transcriptions/yt-reT5Ti3-9uQ.md) [https://www.youtube.com/watch?v=reT5Ti3-9uQ](https://www.youtube.com/watch?v=reT5Ti3-9uQ)
+
 ## December 6th, 2022 Livestream
 * Q&A: Will there be any multi-seat Vehicle later? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6745&end=6786](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6745&end=6786)
 * Q&A: Can Vehicles go faster with Power Shards? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7059&end=7066](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7059&end=7066)

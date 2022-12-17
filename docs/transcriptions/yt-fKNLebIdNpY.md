@@ -8,7 +8,7 @@ topics:
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Q&A: What is the Goal of this game?
 https://www.youtube.com/watch?v=fKNLebIdNpY
-This question was possibly duplicated with a more recent answer: [November 10th, 2020 Livestream Q&A: Thoughts on making end-game point or goal?](./yt-hhckg5vm5_w.md) [https://www.youtube.com/watch?v=hhckg5vm5_w](https://www.youtube.com/watch?v=hhckg5vm5_w)
+This question was possibly duplicated with a more recent answer: [December 13th, 2022 Livestream Q&A: Is there eventually going to be an end-goal?](./yt-cL_dqA0345M.md) [https://www.youtube.com/watch?v=cL_dqA0345M](https://www.youtube.com/watch?v=cL_dqA0345M)
 
 
 ### Topics

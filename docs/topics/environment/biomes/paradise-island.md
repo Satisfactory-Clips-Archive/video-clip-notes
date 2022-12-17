@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Biomes](../../../topics/environment/biomes.md) > Paradise Island
 
+## December 13th, 2022 Livestream
+* [Q&A: Will Paradise Island stay?](../../../transcriptions/yt-PtRbXWl1tn4.md) [https://www.youtube.com/watch?v=PtRbXWl1tn4](https://www.youtube.com/watch?v=PtRbXWl1tn4)
+
 ## November 8th, 2022 Livestream
 * [Snutt & Jace Talk: Paradise Island, Game Development, and Microtransactions](../../../transcriptions/yt-BmzL07GjYus.md) [https://www.youtube.com/watch?v=BmzL07GjYus](https://www.youtube.com/watch?v=BmzL07GjYus)
 

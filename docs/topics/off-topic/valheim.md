@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Valheim
 
+## December 13th, 2022 Livestream
+* [Q&A: Are you friends with the Valheim devs?](../../transcriptions/yt-2HtyjvekxwE.md) [https://www.youtube.com/watch?v=2HtyjvekxwE](https://www.youtube.com/watch?v=2HtyjvekxwE)
+
 ## August 30th, 2022 Livestream
 * [Q&A: What's your favourite game published by Coffee Stain?](../../transcriptions/yt-yiFDigrsmPE.md) [https://www.youtube.com/watch?v=yiFDigrsmPE](https://www.youtube.com/watch?v=yiFDigrsmPE)
 

@@ -8,6 +8,8 @@ topics:
 # [March 7th, 2019 Q&A](../2019-03-07.md)
 ## Q&A: The minimum system requirements are kinda high... Why?
 https://youtube.com/embed/VHr4x1vNeoY?autoplay=1&start=354&end=376
+This question was possibly duplicated with a more recent answer: [December 13th, 2022 Livestream Q&A: Recommended system requirements?](./yt-uSQM8Q3aFIw.md) [https://www.youtube.com/watch?v=uSQM8Q3aFIw](https://www.youtube.com/watch?v=uSQM8Q3aFIw)
+
 
 ### Topics
 * [Technology](../topics/technology.md)

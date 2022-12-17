@@ -8,7 +8,7 @@ topics:
 # [September 15th, 2020 Livestream](../2020-09-15.md)
 ## Q&A: Are we ever going to see a new enemy type?
 https://www.youtube.com/watch?v=Kxq543wzKcY
-This question was possibly duplicated with a more recent answer: December 6th, 2022 Livestream Q&A: More variety in fauna? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6855&end=6880](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6855&end=6880)
+This question was possibly duplicated with a more recent answer: [December 13th, 2022 Livestream Q&A: Any news on when the big Crab will be added?](./yt-nyIfC6kmILs.md) [https://www.youtube.com/watch?v=nyIfC6kmILs](https://www.youtube.com/watch?v=nyIfC6kmILs)
 
 
 ### Topics

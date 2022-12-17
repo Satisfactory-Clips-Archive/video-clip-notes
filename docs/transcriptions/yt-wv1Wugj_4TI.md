@@ -8,7 +8,7 @@ topics:
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Q&A: Any update on Update 8 release date?
 https://www.youtube.com/watch?v=wv1Wugj_4TI
-This question was possibly duplicated with a more recent answer: [November 22nd, 2022 Livestream Q&A: Update 8, when?](./yt-ugS5beaw77Y.md) [https://www.youtube.com/watch?v=ugS5beaw77Y](https://www.youtube.com/watch?v=ugS5beaw77Y)
+This question was possibly duplicated with a more recent answer: [December 13th, 2022 Livestream Q&A: Are you thinking Q1 or Q2 for next Update?](./yt-4wfaweBjsqU.md) [https://www.youtube.com/watch?v=4wfaweBjsqU](https://www.youtube.com/watch?v=4wfaweBjsqU)
 
 
 ### Topics

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Equipment](../../../topics/features/equipment.md) > Cup
 
+## December 13th, 2022 Livestream
+* [Q&A: Could you add a tea alternative to the Coffee Mug?](../../../transcriptions/yt--aoKEMcw0_o.md) [https://www.youtube.com/watch?v=-aoKEMcw0_o](https://www.youtube.com/watch?v=-aoKEMcw0_o)
+
 ## September 27th, 2022 Livestream
 * [Community FYI: The FICSIT mugs are so awesome](../../../transcriptions/yt-SDYEwgpNKkM.md) [https://www.youtube.com/watch?v=SDYEwgpNKkM](https://www.youtube.com/watch?v=SDYEwgpNKkM)
 

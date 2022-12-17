@@ -12,6 +12,9 @@ date: Last Modified
 * [Weather Systems](../topics/environment/weather-systems.md)
 * [World Map](../topics/environment/world-map.md)
 
+## December 13th, 2022 Livestream
+* [Q&A: Is there still no way to remove those stupid gas rocks?](../transcriptions/yt-wzI7K41TYLg.md) [https://www.youtube.com/watch?v=wzI7K41TYLg](https://www.youtube.com/watch?v=wzI7K41TYLg)
+
 ## November 29th, 2022 Livestream
 * [Q&A: When are lighting/water performance & visual upgrades coming?](../transcriptions/yt-3StpEbh7QlI.md) [https://www.youtube.com/watch?v=3StpEbh7QlI](https://www.youtube.com/watch?v=3StpEbh7QlI)
 

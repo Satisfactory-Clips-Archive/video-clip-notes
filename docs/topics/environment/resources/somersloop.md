@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Resources](../../../topics/environment/resources.md) > Somersloop
 
+## December 13th, 2022 Livestream
+* [Q&A: How about S.A.M. Ore and those WIP things?](../../../transcriptions/yt-ydIA6UbDqr8.md) [https://www.youtube.com/watch?v=ydIA6UbDqr8](https://www.youtube.com/watch?v=ydIA6UbDqr8)
+
 ## December 6th, 2022 Livestream
 * Q&A: Will artefacts affect gameplay? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7359&end=7371](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7359&end=7371)
 

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Goat Simulator
 
+## December 13th, 2022 Livestream
+* [Q&A: How old is Goat Simulator](../../transcriptions/yt-2x9B3lZ7Dsg.md) [https://www.youtube.com/watch?v=2x9B3lZ7Dsg](https://www.youtube.com/watch?v=2x9B3lZ7Dsg)
+
 ## November 29th, 2022 Livestream
 * [Q&A: Is Goat Sim and Satisfactory in the same universe?](../../transcriptions/yt-6iwPrW0Vfr0.md) [https://www.youtube.com/watch?v=6iwPrW0Vfr0](https://www.youtube.com/watch?v=6iwPrW0Vfr0)
 

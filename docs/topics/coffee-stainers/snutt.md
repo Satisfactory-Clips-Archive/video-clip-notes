@@ -8,6 +8,9 @@ date: Last Modified
 * [Snutt Burger Time](../../topics/coffee-stainers/snutt/snutt-burger-time.md)
 * [Snutty Mays](../../topics/coffee-stainers/snutt/snutty-mays.md)
 
+## December 13th, 2022 Livestream
+* [Q&A: Was Snutt eaten by his clone?](../../transcriptions/yt-isdEFNVoEQc.md) [https://www.youtube.com/watch?v=isdEFNVoEQc](https://www.youtube.com/watch?v=isdEFNVoEQc)
+
 ## December 6th, 2022 Livestream
 * [Outro](../../transcriptions/yt-ST6V-a4u8Qs,476.79299344879087,497.18002721464774.md) [https://youtube.com/clip/Ugkx3nKNkQGmLMidYgYsMD4xclvLLpVKJlsz](https://youtube.com/clip/Ugkx3nKNkQGmLMidYgYsMD4xclvLLpVKJlsz)
 * Snutt still missing [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=715&end=843](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=715&end=843)

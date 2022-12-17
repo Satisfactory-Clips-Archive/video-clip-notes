@@ -9,7 +9,7 @@ topics:
 # [October 25th, 2022 Livestream](../2022-10-25.md)
 ## Q&A: Paradise Island, yay or nay?
 https://www.youtube.com/watch?v=vaWlnNbL2Xc
-This question was possibly duplicated with a more recent answer: [November 1st, 2022 Livestream Q&A: Any news on Paradise Island?](./yt-MwAPKMuaop8.md) [https://www.youtube.com/watch?v=MwAPKMuaop8](https://www.youtube.com/watch?v=MwAPKMuaop8)
+This question was possibly duplicated with a more recent answer: [December 13th, 2022 Livestream Q&A: Will Paradise Island stay?](./yt-PtRbXWl1tn4.md) [https://www.youtube.com/watch?v=PtRbXWl1tn4](https://www.youtube.com/watch?v=PtRbXWl1tn4)
 
 
 ### Topics

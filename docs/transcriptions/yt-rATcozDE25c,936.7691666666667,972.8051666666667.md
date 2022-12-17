@@ -8,7 +8,7 @@ topics:
 # [October 1st, 2020 Q&A](../2020-10-01.md)
 ## Q&A: Do you plan on adding something like roads, placeable similarly to rails but wider?
 https://youtube.com/embed/rATcozDE25c?autoplay=1&start=936&end=973
-This question was possibly duplicated with a more recent answer: [December 15th, 2020 Livestream Q&A: Can you add Road Foundations?](./yt-ay4pgtU2Q8g.md) [https://www.youtube.com/watch?v=ay4pgtU2Q8g](https://www.youtube.com/watch?v=ay4pgtU2Q8g)
+This question was possibly duplicated with a more recent answer: [December 13th, 2022 Livestream Q&A: Why not have Road pieces in-game?](./yt-reT5Ti3-9uQ.md) [https://www.youtube.com/watch?v=reT5Ti3-9uQ](https://www.youtube.com/watch?v=reT5Ti3-9uQ)
 
 
 ### Topics

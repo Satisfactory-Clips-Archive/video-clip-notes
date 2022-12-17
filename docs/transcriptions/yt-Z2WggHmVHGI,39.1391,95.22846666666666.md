@@ -8,7 +8,7 @@ topics:
 # [July 16th, 2021 Video](../2021-07-16.md)
 ## Q&A: Does Satisfactory have Official Mod Support?
 https://youtube.com/clip/UgylC5F8-3qS5liSCLp4AaABCQ
-This question was possibly duplicated with a more recent answer: [August 30th, 2022 Livestream Q&A: Official Mod Support before 1.0?](./yt-UUNLmEB7Dlc.md) [https://www.youtube.com/watch?v=UUNLmEB7Dlc](https://www.youtube.com/watch?v=UUNLmEB7Dlc)
+This question was possibly duplicated with a more recent answer: [December 13th, 2022 Livestream Q&A: When Official Mod Support?](./yt-Squm3MKr674.md) [https://www.youtube.com/watch?v=Squm3MKr674](https://www.youtube.com/watch?v=Squm3MKr674)
 
 
 ### Topics

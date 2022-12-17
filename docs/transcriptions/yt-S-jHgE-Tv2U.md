@@ -9,7 +9,7 @@ topics:
 # [May 3rd, 2022 Livestream](../2022-05-03.md)
 ## Q&A: Controller support news?
 https://www.youtube.com/watch?v=S-jHgE-Tv2U
-This question was possibly duplicated with a more recent answer: [July 5th, 2022 Livestream Q&A: Full controller support?](./yt-CRt32esDsG8.md) [https://www.youtube.com/watch?v=CRt32esDsG8](https://www.youtube.com/watch?v=CRt32esDsG8)
+This question was possibly duplicated with a more recent answer: [December 13th, 2022 Livestream Q&A: How's controller support doing?](./yt-ow48y32fjU8.md) [https://www.youtube.com/watch?v=ow48y32fjU8](https://www.youtube.com/watch?v=ow48y32fjU8)
 
 
 ### Topics

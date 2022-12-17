@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Unplanned Features](../../../topics/features/unplanned-features.md) > Aerial Travel
 
+## December 13th, 2022 Livestream
+* [Q&A: Do you plan to add aerial vehicles?](../../../transcriptions/yt--HA3h7bfxnA.md) [https://www.youtube.com/watch?v=-HA3h7bfxnA](https://www.youtube.com/watch?v=-HA3h7bfxnA)
+
 ## December 6th, 2022 Livestream
 * Q&A: Bigger drone-like aircraft, like a helicopter? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7317&end=7343](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7317&end=7343)
 

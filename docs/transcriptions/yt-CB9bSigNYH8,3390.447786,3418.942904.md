@@ -8,7 +8,7 @@ topics:
 # [February 20th, 2019 Livestream](../2019-02-20.md)
 ## Q&A: Mod Support?
 https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=3390&end=3419
-This question was possibly duplicated with a more recent answer: [August 30th, 2022 Livestream Q&A: Official Mod Support before 1.0?](./yt-UUNLmEB7Dlc.md) [https://www.youtube.com/watch?v=UUNLmEB7Dlc](https://www.youtube.com/watch?v=UUNLmEB7Dlc)
+This question was possibly duplicated with a more recent answer: [December 13th, 2022 Livestream Q&A: When Official Mod Support?](./yt-Squm3MKr674.md) [https://www.youtube.com/watch?v=Squm3MKr674](https://www.youtube.com/watch?v=Squm3MKr674)
 
 
 ### Topics

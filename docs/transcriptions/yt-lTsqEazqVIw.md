@@ -8,6 +8,8 @@ topics:
 # [September 27th, 2022 Livestream](../2022-09-27.md)
 ## Q&A: Any more big changes to the map?
 https://www.youtube.com/watch?v=lTsqEazqVIw
+This question was possibly replaced with a more recent answer: [December 13th, 2022 Livestream Q&A: When will the next Map revamp stuff be released?](./yt-hJjxoDXNg5A.md) [https://www.youtube.com/watch?v=hJjxoDXNg5A](https://www.youtube.com/watch?v=hJjxoDXNg5A)
+
 <details>
 <summary>This question may have been asked previously at least 1 other time, as recently as August 2022.</summary>
 

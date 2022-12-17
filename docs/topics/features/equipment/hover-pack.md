@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Equipment](../../../topics/features/equipment.md) > Hover Pack
 
+## December 13th, 2022 Livestream
+* [Q&A: Overclockable Hover Pack?](../../../transcriptions/yt-z05dP_huhnM.md) [https://www.youtube.com/watch?v=z05dP_huhnM](https://www.youtube.com/watch?v=z05dP_huhnM)
+
 ## November 29th, 2022 Livestream
 * [Q&A: Sometimes Hogs have Jetpacks if you haven't unlocked them. Can we get the same for Hover Packs?](../../../transcriptions/yt-CoSes0ZNwHo.md) [https://www.youtube.com/watch?v=CoSes0ZNwHo](https://www.youtube.com/watch?v=CoSes0ZNwHo)
 

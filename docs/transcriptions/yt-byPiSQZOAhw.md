@@ -9,7 +9,7 @@ topics:
 # [December 19th, 2019 Livestream](../2019-12-19.md)
 ## Q&A: Is there going to be a way to destroy the fart rock?
 https://www.youtube.com/watch?v=byPiSQZOAhw
-This question was possibly duplicated with a more recent answer: [August 23rd, 2022 Livestream Q&A: Will we be able to destroy Gas Pillars?](./yt-Mrexbr9w4H8.md) [https://www.youtube.com/watch?v=Mrexbr9w4H8](https://www.youtube.com/watch?v=Mrexbr9w4H8)
+This question was possibly duplicated with a more recent answer: [December 13th, 2022 Livestream Q&A: Is there still no way to remove those stupid gas rocks?](./yt-wzI7K41TYLg.md) [https://www.youtube.com/watch?v=wzI7K41TYLg](https://www.youtube.com/watch?v=wzI7K41TYLg)
 
 
 ### Topics

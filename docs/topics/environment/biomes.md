@@ -20,6 +20,9 @@ date: Last Modified
 * [Titan Forest](../../topics/environment/biomes/titan-forest.md)
 * [Unplanned Biomes](../../topics/environment/biomes/unplanned-biomes.md)
 
+## December 13th, 2022 Livestream
+* [Q&A: Are you going to add some new Ores to the Biome?](../../transcriptions/yt-Ksc5BaTvDes.md) [https://www.youtube.com/watch?v=Ksc5BaTvDes](https://www.youtube.com/watch?v=Ksc5BaTvDes)
+
 ## November 1st, 2022 Livestream
 * [Q&A: Will we ever get that fancy water you showed off?](../../transcriptions/yt-Tyrfm_MMOWQ.md) [https://www.youtube.com/watch?v=Tyrfm_MMOWQ](https://www.youtube.com/watch?v=Tyrfm_MMOWQ)
 

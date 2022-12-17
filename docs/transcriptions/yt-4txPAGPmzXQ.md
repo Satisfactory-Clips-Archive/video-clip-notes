@@ -8,7 +8,7 @@ topics:
 # [July 6th, 2021 Livestream](../2021-07-06.md)
 ## Q&A: Will there ever be Farming added to the base game?
 https://www.youtube.com/watch?v=4txPAGPmzXQ
-This question was possibly duplicated with a more recent answer: [August 30th, 2022 Livestream Q&A: Any type of Farming added?](./yt-NWrOF30yb5s.md) [https://www.youtube.com/watch?v=NWrOF30yb5s](https://www.youtube.com/watch?v=NWrOF30yb5s)
+This question was possibly duplicated with a more recent answer: [December 13th, 2022 Livestream Q&A: Do you think Farming is a possibility in the future?](./yt-Ul9AgRudGpw.md) [https://www.youtube.com/watch?v=Ul9AgRudGpw](https://www.youtube.com/watch?v=Ul9AgRudGpw)
 
 
 ### Topics

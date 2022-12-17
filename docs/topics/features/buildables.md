@@ -22,6 +22,11 @@ date: Last Modified
 * [Walls](../../topics/features/buildables/walls.md)
 * [Windows](../../topics/features/buildables/windows.md)
 
+## December 13th, 2022 Livestream
+* [Q&A: Is there any plan to make roads and curves simpler?](../../transcriptions/yt-TqICAF20LV0.md) [https://www.youtube.com/watch?v=TqICAF20LV0](https://www.youtube.com/watch?v=TqICAF20LV0)
+* [Q&A: Any talks on extendable Pipe Ceiling Mounts?](../../transcriptions/yt-olazWgKMEPU.md) [https://www.youtube.com/watch?v=olazWgKMEPU](https://www.youtube.com/watch?v=olazWgKMEPU)
+* [Q&A: Why not have Road pieces in-game?](../../transcriptions/yt-reT5Ti3-9uQ.md) [https://www.youtube.com/watch?v=reT5Ti3-9uQ](https://www.youtube.com/watch?v=reT5Ti3-9uQ)
+
 ## December 6th, 2022 Livestream
 * [Conveyor Belt Ceiling Mounts & improvements](../../transcriptions/yt-ST6V-a4u8Qs,205.2550543546126,232.03180492269792.md) [https://youtube.com/clip/Ugkxb_ZxVuHQwAKMVxyW_6w-7HmK7BArQxX0](https://youtube.com/clip/Ugkxb_ZxVuHQwAKMVxyW_6w-7HmK7BArQxX0)
 

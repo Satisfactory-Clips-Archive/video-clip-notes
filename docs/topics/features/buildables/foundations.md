@@ -7,6 +7,10 @@ date: Last Modified
 * [Cheatcrete](../../../topics/features/buildables/foundations/cheatcrete.md)
 * [Foundation Stencils](../../../topics/features/buildables/foundations/stencils.md)
 
+## December 13th, 2022 Livestream
+* [Q&A: Is there any plan to make roads and curves simpler?](../../../transcriptions/yt-TqICAF20LV0.md) [https://www.youtube.com/watch?v=TqICAF20LV0](https://www.youtube.com/watch?v=TqICAF20LV0)
+* [Q&A: Any plans for quarter-Foundations or extra shapes?](../../../transcriptions/yt-rmrSDP4Bbrs.md) [https://www.youtube.com/watch?v=rmrSDP4Bbrs](https://www.youtube.com/watch?v=rmrSDP4Bbrs)
+
 ## December 6th, 2022 Livestream
 * Q&A: When will we get a hexagonal Foundation? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6848&end=6856](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6848&end=6856)
 

@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > World Update
 
+## December 13th, 2022 Livestream
+* [Q&A: Are you going to add some new Ores to the Biome?](../../transcriptions/yt-Ksc5BaTvDes.md) [https://www.youtube.com/watch?v=Ksc5BaTvDes](https://www.youtube.com/watch?v=Ksc5BaTvDes)
+* [Q&A: Will Paradise Island stay?](../../transcriptions/yt-PtRbXWl1tn4.md) [https://www.youtube.com/watch?v=PtRbXWl1tn4](https://www.youtube.com/watch?v=PtRbXWl1tn4)
+* [Q&A: When will the next Map revamp stuff be released?](../../transcriptions/yt-hJjxoDXNg5A.md) [https://www.youtube.com/watch?v=hJjxoDXNg5A](https://www.youtube.com/watch?v=hJjxoDXNg5A)
+
 ## November 8th, 2022 Livestream
 * [Snutt & Jace Talk: Paradise Island, Game Development, and Microtransactions](../../transcriptions/yt-BmzL07GjYus.md) [https://www.youtube.com/watch?v=BmzL07GjYus](https://www.youtube.com/watch?v=BmzL07GjYus)
 

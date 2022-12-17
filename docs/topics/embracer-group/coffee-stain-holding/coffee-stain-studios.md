@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Embracer Group](../../../topics/embracer-group.md) > Coffee Stain Holding > Coffee Stain Studios
 
+## December 13th, 2022 Livestream
+* [Q&A: When 1.0?](../../../transcriptions/yt-LxAm46qoEKY.md) [https://www.youtube.com/watch?v=LxAm46qoEKY](https://www.youtube.com/watch?v=LxAm46qoEKY)
+* [State of Dave](../../../transcriptions/yt-ZljktwoQPRI.md) [https://www.youtube.com/watch?v=ZljktwoQPRI](https://www.youtube.com/watch?v=ZljktwoQPRI)
+
 ## December 6th, 2022 Livestream
 * Q&A: The studio looks great. New changes? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6505&end=6573](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6505&end=6573)
 * Q&A: Do you guys need more programmers? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6574&end=6583](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6574&end=6583)

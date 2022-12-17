@@ -5,6 +5,12 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Pending](../../../topics/satisfactory-updates/pending.md) > Satisfactory 1.0
 
+## December 13th, 2022 Livestream
+* [Q&A: When 1.0?](../../../transcriptions/yt-LxAm46qoEKY.md) [https://www.youtube.com/watch?v=LxAm46qoEKY](https://www.youtube.com/watch?v=LxAm46qoEKY)
+* [Q&A: Will Paradise Island stay?](../../../transcriptions/yt-PtRbXWl1tn4.md) [https://www.youtube.com/watch?v=PtRbXWl1tn4](https://www.youtube.com/watch?v=PtRbXWl1tn4)
+* [Q&A: Is there eventually going to be an end-goal?](../../../transcriptions/yt-cL_dqA0345M.md) [https://www.youtube.com/watch?v=cL_dqA0345M](https://www.youtube.com/watch?v=cL_dqA0345M)
+* [Q&A: How about S.A.M. Ore and those WIP things?](../../../transcriptions/yt-ydIA6UbDqr8.md) [https://www.youtube.com/watch?v=ydIA6UbDqr8](https://www.youtube.com/watch?v=ydIA6UbDqr8)
+
 ## December 6th, 2022 Livestream
 * Q&A: Is 1.0 after Update 7? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6286&end=6292](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6286&end=6292)
 * Q&A: What is Update 1.0? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6605&end=6629](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6605&end=6629)

@@ -10,7 +10,7 @@ topics:
 # [August 24th, 2021 Livestream](../2021-08-24.md)
 ## Q&A: What will the Work-In-Progress items do in the future?
 https://www.youtube.com/watch?v=kMtDQ0sZPAw
-This question was possibly duplicated with a more recent answer: [November 8th, 2022 Livestream Q&A: ADA talks when I come across S.A.M. Ore & the WIP artefacts, should those lines be muted?](./yt-0iChXeNjbTg.md) [https://www.youtube.com/watch?v=0iChXeNjbTg](https://www.youtube.com/watch?v=0iChXeNjbTg)
+This question was possibly duplicated with a more recent answer: [December 13th, 2022 Livestream Q&A: How about S.A.M. Ore and those WIP things?](./yt-ydIA6UbDqr8.md) [https://www.youtube.com/watch?v=ydIA6UbDqr8](https://www.youtube.com/watch?v=ydIA6UbDqr8)
 
 
 ### Topics

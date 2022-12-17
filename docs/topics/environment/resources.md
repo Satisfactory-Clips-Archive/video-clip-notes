@@ -14,6 +14,9 @@ date: Last Modified
 * [Steel](../../topics/environment/resources/steel.md)
 * [Water](../../topics/environment/resources/water.md)
 
+## December 13th, 2022 Livestream
+* [Q&A: Are you going to add some new Ores to the Biome?](../../transcriptions/yt-Ksc5BaTvDes.md) [https://www.youtube.com/watch?v=Ksc5BaTvDes](https://www.youtube.com/watch?v=Ksc5BaTvDes)
+
 ## December 6th, 2022 Livestream
 * [Alien DNA Capsule](../../transcriptions/yt-ST6V-a4u8Qs,27.2772505787037,95.0449520164373.md) [https://youtube.com/embed/ST6V-a4u8Qs?autoplay=1&start=27&end=96](https://youtube.com/embed/ST6V-a4u8Qs?autoplay=1&start=27&end=96)
 

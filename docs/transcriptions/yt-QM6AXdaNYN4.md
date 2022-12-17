@@ -8,7 +8,7 @@ topics:
 # [March 30th, 2021 Livestream](../2021-03-30.md)
 ## Q&A: Will it be possible to remove the toxic pillars?
 https://www.youtube.com/watch?v=QM6AXdaNYN4
-This question was possibly duplicated with a more recent answer: [August 23rd, 2022 Livestream Q&A: Will we be able to destroy Gas Pillars?](./yt-Mrexbr9w4H8.md) [https://www.youtube.com/watch?v=Mrexbr9w4H8](https://www.youtube.com/watch?v=Mrexbr9w4H8)
+This question was possibly duplicated with a more recent answer: [December 13th, 2022 Livestream Q&A: Is there still no way to remove those stupid gas rocks?](./yt-wzI7K41TYLg.md) [https://www.youtube.com/watch?v=wzI7K41TYLg](https://www.youtube.com/watch?v=wzI7K41TYLg)
 
 
 ### Topics

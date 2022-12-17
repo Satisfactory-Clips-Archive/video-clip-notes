@@ -8,7 +8,7 @@ topics:
 # [November 23rd, 2021 Livestream](../2021-11-23.md)
 ## Q&A: Golf, when?
 https://youtube.com/clip/UgkxtKr3YShULCOATqNTspPVmbJ_hDuQi765
-This question was possibly duplicated with a more recent answer: December 6th, 2022 Livestream Q&A: Golf? [https://youtube.com/clip/UgkxAFveRDVrofoJinzsnTH1Lrp84cQg0qGx](https://youtube.com/clip/UgkxAFveRDVrofoJinzsnTH1Lrp84cQg0qGx)
+This question was possibly duplicated with a more recent answer: [December 13th, 2022 Livestream Q&A: When is Golf going to be implemented?](./yt-i2_4Ow9i_8M.md) [https://www.youtube.com/watch?v=i2_4Ow9i_8M](https://www.youtube.com/watch?v=i2_4Ow9i_8M)
 
 
 ### Topics

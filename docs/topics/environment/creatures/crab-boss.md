@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Creatures](../../../topics/environment/creatures.md) > Crab Boss
 
+## December 13th, 2022 Livestream
+* [Q&A: Crab Rave Easter Egg?](../../../transcriptions/yt-KEypvNlLR-Q.md) [https://www.youtube.com/watch?v=KEypvNlLR-Q](https://www.youtube.com/watch?v=KEypvNlLR-Q)
+* [Q&A: Any news on when the big Crab will be added?](../../../transcriptions/yt-nyIfC6kmILs.md) [https://www.youtube.com/watch?v=nyIfC6kmILs](https://www.youtube.com/watch?v=nyIfC6kmILs)
+
 ## December 6th, 2022 Livestream
 * Q&A: More variety in fauna? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6855&end=6880](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6855&end=6880)
 * Q&A: The Big Crab is Snutt? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6909&end=6913](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6909&end=6913)

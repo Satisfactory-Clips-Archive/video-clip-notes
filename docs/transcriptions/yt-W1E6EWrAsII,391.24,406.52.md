@@ -10,7 +10,7 @@ topics:
 # [June 22nd, 2018 Q&A](../2018-06-22.md)
 ## Q&A: Is there an end game? Will there be a story?
 https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=391&end=407
-This question was possibly duplicated with a more recent answer: [November 10th, 2020 Livestream Q&A: Thoughts on making end-game point or goal?](./yt-hhckg5vm5_w.md) [https://www.youtube.com/watch?v=hhckg5vm5_w](https://www.youtube.com/watch?v=hhckg5vm5_w)
+This question was possibly duplicated with a more recent answer: [December 13th, 2022 Livestream Q&A: Is there eventually going to be an end-goal?](./yt-cL_dqA0345M.md) [https://www.youtube.com/watch?v=cL_dqA0345M](https://www.youtube.com/watch?v=cL_dqA0345M)
 
 
 ### Topics

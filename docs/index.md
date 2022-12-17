@@ -5,6 +5,7 @@ layout: index
 ---
 # 2022
 ## December
+* [December 13th](2022-12-13.md)
 * [December 6th](2022-12-06.md)
 
 ## November

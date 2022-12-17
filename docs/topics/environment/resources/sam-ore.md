@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Resources](../../../topics/environment/resources.md) > S.A.M. Ore
 
+## December 13th, 2022 Livestream
+* [Q&A: How about S.A.M. Ore and those WIP things?](../../../transcriptions/yt-ydIA6UbDqr8.md) [https://www.youtube.com/watch?v=ydIA6UbDqr8](https://www.youtube.com/watch?v=ydIA6UbDqr8)
+
 ## November 22nd, 2022 Livestream
 * [Q&A: When will you be tackling the Somersloop & S.A.M. stuff?](../../../transcriptions/yt-t2Jnwla58bw.md) [https://www.youtube.com/watch?v=t2Jnwla58bw](https://www.youtube.com/watch?v=t2Jnwla58bw)
 

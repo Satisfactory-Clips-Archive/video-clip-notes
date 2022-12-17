@@ -28,6 +28,9 @@ date: Last Modified
 * [The HUB](../../topics/features/buildings/the-hub.md)
 * [Water Extractor](../../topics/features/buildings/water-extractor.md)
 
+## December 13th, 2022 Livestream
+* [Q&A: Are the devs aware that copy/paste seems broke at the moment?](../../transcriptions/yt-jWsSrmHTr7k.md) [https://www.youtube.com/watch?v=jWsSrmHTr7k](https://www.youtube.com/watch?v=jWsSrmHTr7k)
+
 ## December 6th, 2022 Livestream
 * Q&A: Mirrored buildings? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6961&end=6993](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6961&end=6993)
 

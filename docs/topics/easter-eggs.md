@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Easter Eggs
 
+## December 13th, 2022 Livestream
+* [Q&A: Crab Rave Easter Egg?](../transcriptions/yt-KEypvNlLR-Q.md) [https://www.youtube.com/watch?v=KEypvNlLR-Q](https://www.youtube.com/watch?v=KEypvNlLR-Q)
+
 ## October 25th, 2022 Livestream
 * [Q&A: More hidden music tapes?](../transcriptions/yt-Z5OU9uCTNC4.md) [https://www.youtube.com/watch?v=Z5OU9uCTNC4](https://www.youtube.com/watch?v=Z5OU9uCTNC4)
 

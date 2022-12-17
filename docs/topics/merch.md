@@ -7,6 +7,9 @@ date: Last Modified
 * [EU Merch Store](../topics/merch/eu-merch-store.md)
 * [Merch Prototypes](../topics/merch/merch-prototypes.md)
 
+## December 13th, 2022 Livestream
+* [Q&A: How's the Lego Satisfactory set going?](../transcriptions/yt-t4HE64aQG7Y.md) [https://www.youtube.com/watch?v=t4HE64aQG7Y](https://www.youtube.com/watch?v=t4HE64aQG7Y)
+
 ## December 6th, 2022 Livestream
 * [Game Modes](../transcriptions/yt-ST6V-a4u8Qs,95.06163535012458,150.35020318977232.md) [https://youtube.com/clip/UgkxOe2hN5wxds-Vt3UD6QaO4bc2dC94Qj-W](https://youtube.com/clip/UgkxOe2hN5wxds-Vt3UD6QaO4bc2dC94Qj-W)
 * Merch [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=855&end=959](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=855&end=959)

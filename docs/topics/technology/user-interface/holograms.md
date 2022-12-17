@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Technology](../../../topics/technology.md) > [User Interface](../../../topics/technology/user-interface.md) > Holograms
 
+## December 13th, 2022 Livestream
+* [Q&A: Blueprint preview before placing or an undo function?](../../../transcriptions/yt-fliouDhnx8c.md) [https://www.youtube.com/watch?v=fliouDhnx8c](https://www.youtube.com/watch?v=fliouDhnx8c)
+
 ## July 5th, 2022 Livestream
 * [Q&A: Some Mod adds ability to use holograms to plan layout, any chance of adding that?](../../../transcriptions/yt-rP7YheyIQ3g.md) [https://www.youtube.com/watch?v=rP7YheyIQ3g](https://www.youtube.com/watch?v=rP7YheyIQ3g)
 

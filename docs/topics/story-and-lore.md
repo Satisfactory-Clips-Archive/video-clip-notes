@@ -7,6 +7,10 @@ date: Last Modified
 * [Characters](../topics/story-and-lore/characters.md)
 * [Project Assembly](../topics/story-and-lore/project-assembly.md)
 
+## December 13th, 2022 Livestream
+* [Q&A: Can you continue after you finish the game?](../transcriptions/yt-Aczp3aPhQgs.md) [https://www.youtube.com/watch?v=Aczp3aPhQgs](https://www.youtube.com/watch?v=Aczp3aPhQgs)
+* [Q&A: Is there eventually going to be an end-goal?](../transcriptions/yt-cL_dqA0345M.md) [https://www.youtube.com/watch?v=cL_dqA0345M](https://www.youtube.com/watch?v=cL_dqA0345M)
+
 ## December 6th, 2022 Livestream
 * Q&A: Will artefacts affect gameplay? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7359&end=7371](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7359&end=7371)
 

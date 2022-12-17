@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Possible Features](../../../topics/features/possible-features.md) > Farming
 
+## December 13th, 2022 Livestream
+* [Q&A: Do you think Farming is a possibility in the future?](../../../transcriptions/yt-Ul9AgRudGpw.md) [https://www.youtube.com/watch?v=Ul9AgRudGpw](https://www.youtube.com/watch?v=Ul9AgRudGpw)
+
 ## August 30th, 2022 Livestream
 * [Q&A: Any type of Farming added?](../../../transcriptions/yt-NWrOF30yb5s.md) [https://www.youtube.com/watch?v=NWrOF30yb5s](https://www.youtube.com/watch?v=NWrOF30yb5s)
 

@@ -9,6 +9,8 @@ topics:
 # [September 6th, 2022 Livestream](../2022-09-06.md)
 ## Q&A: What happened to the Lego thing?
 https://www.youtube.com/watch?v=1X9wJm6Qfco
+This question was possibly replaced with a more recent answer: [December 13th, 2022 Livestream Q&A: How's the Lego Satisfactory set going?](./yt-t4HE64aQG7Y.md) [https://www.youtube.com/watch?v=t4HE64aQG7Y](https://www.youtube.com/watch?v=t4HE64aQG7Y)
+
 <details>
 <summary>This question may have been asked previously at least 2 other times, as recently as June 2022 and as early as May 2022.</summary>
 

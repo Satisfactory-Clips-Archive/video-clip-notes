@@ -26,6 +26,9 @@ date: Last Modified
 * [Vilsol](../topics/community/vilsol.md)
 * [Wiki](../topics/community/wiki.md)
 
+## December 13th, 2022 Livestream
+* [Q&A: How's the Lego Satisfactory set going?](../transcriptions/yt-t4HE64aQG7Y.md) [https://www.youtube.com/watch?v=t4HE64aQG7Y](https://www.youtube.com/watch?v=t4HE64aQG7Y)
+
 ## December 6th, 2022 Livestream
 * Community FYI: The honest is refreshing [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6229&end=6236](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6229&end=6236)
 

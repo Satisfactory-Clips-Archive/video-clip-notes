@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Seasonal Events](../../../topics/satisfactory-updates/seasonal-events.md) > FICS⁕MAS
 
+## December 13th, 2022 Livestream
+* [Q&A: Could you add a tea alternative to the Coffee Mug?](../../../transcriptions/yt--aoKEMcw0_o.md) [https://www.youtube.com/watch?v=-aoKEMcw0_o](https://www.youtube.com/watch?v=-aoKEMcw0_o)
+
 ## December 6th, 2022 Livestream
 * Q&A: FICSMAS mixtape for Boombox? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6490&end=6500](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6490&end=6500)
 * Q&A: Are you celebrating FICSMAS? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7299&end=7316](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7299&end=7316)

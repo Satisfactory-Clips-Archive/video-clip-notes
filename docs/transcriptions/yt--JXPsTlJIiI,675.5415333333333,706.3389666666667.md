@@ -8,7 +8,7 @@ topics:
 # [December 17th, 2020 Q&A](../2020-12-17.md)
 ## Q&A: Will combat be expanded upon? More enemies?
 https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=675&end=707
-This question was possibly duplicated with a more recent answer: December 6th, 2022 Livestream Q&A: More variety in fauna? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6855&end=6880](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6855&end=6880)
+This question was possibly duplicated with a more recent answer: [December 13th, 2022 Livestream Q&A: Any news on when the big Crab will be added?](./yt-nyIfC6kmILs.md) [https://www.youtube.com/watch?v=nyIfC6kmILs](https://www.youtube.com/watch?v=nyIfC6kmILs)
 
 
 ### Topics

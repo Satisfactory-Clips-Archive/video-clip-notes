@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Unplanned Features](../../../topics/features/unplanned-features.md) > Terraforming
 
+## December 13th, 2022 Livestream
+* [Q&A: What's your stance on Terraforming?](../../../transcriptions/yt-RDPwE0MbNzs.md) [https://www.youtube.com/watch?v=RDPwE0MbNzs](https://www.youtube.com/watch?v=RDPwE0MbNzs)
+
 ## October 25th, 2022 Livestream
 * [Q&A: Game Mode with terrain-editing ability?](../../../transcriptions/yt-ZMOO9BEGw04.md) [https://www.youtube.com/watch?v=ZMOO9BEGw04](https://www.youtube.com/watch?v=ZMOO9BEGw04)
 
