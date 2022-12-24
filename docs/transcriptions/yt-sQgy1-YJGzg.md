@@ -8,6 +8,8 @@ topics:
 # [December 13th, 2022 Livestream](../2022-12-13.md)
 ## Q&A: What's in the next Update?
 https://www.youtube.com/watch?v=sQgy1-YJGzg
+This question was possibly duplicated with a more recent answer: [December 20th, 2022 Livestream Q&A: What can we look forward to seeing next?](./yt-YGUh1oKGqwg.md) [https://www.youtube.com/watch?v=YGUh1oKGqwg](https://www.youtube.com/watch?v=YGUh1oKGqwg)
+
 
 ### Topics
 * [Satisfactory Updates > Speculative > Satisfactory Update 8](../topics/satisfactory-updates/speculative/satisfactory-update-8.md)

@@ -18,6 +18,9 @@ date: Last Modified
 * [Teasers & Trailers](../topics/satisfactory-updates/teasers-and-trailers.md)
 * [World Update](../topics/satisfactory-updates/world-update.md)
 
+## December 20th, 2022 Livestream
+* [Q&A: Is there anything new coming that you can tell us?](../transcriptions/yt-oHHr-VYsx0k.md) [https://www.youtube.com/watch?v=oHHr-VYsx0k](https://www.youtube.com/watch?v=oHHr-VYsx0k)
+
 ## December 13th, 2022 Livestream
 * [State of Dave](../transcriptions/yt-ZljktwoQPRI.md) [https://www.youtube.com/watch?v=ZljktwoQPRI](https://www.youtube.com/watch?v=ZljktwoQPRI)
 

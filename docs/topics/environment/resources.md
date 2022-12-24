@@ -14,6 +14,9 @@ date: Last Modified
 * [Steel](../../topics/environment/resources/steel.md)
 * [Water](../../topics/environment/resources/water.md)
 
+## December 20th, 2022 Livestream
+* [Q&A: Any plans for randomised Ore locations?](../../transcriptions/yt-tLvqeGb5HIA.md) [https://www.youtube.com/watch?v=tLvqeGb5HIA](https://www.youtube.com/watch?v=tLvqeGb5HIA)
+
 ## December 13th, 2022 Livestream
 * [Q&A: Are you going to add some new Ores to the Biome?](../../transcriptions/yt-Ksc5BaTvDes.md) [https://www.youtube.com/watch?v=Ksc5BaTvDes](https://www.youtube.com/watch?v=Ksc5BaTvDes)
 

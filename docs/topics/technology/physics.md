@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > Physics
 
+## December 20th, 2022 Livestream
+* [Q&A: Any update to bouncy tire bug on Foundations?](../../transcriptions/yt--EYhEmqds18.md) [https://www.youtube.com/watch?v=-EYhEmqds18](https://www.youtube.com/watch?v=-EYhEmqds18)
+
 ## October 25th, 2022 Livestream
 * [Q&A: Can you make the Walls no collide on each other?](../../transcriptions/yt-HHjgWItYm2s.md) [https://www.youtube.com/watch?v=HHjgWItYm2s](https://www.youtube.com/watch?v=HHjgWItYm2s)
 

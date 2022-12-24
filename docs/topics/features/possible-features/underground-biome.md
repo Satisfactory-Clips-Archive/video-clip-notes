@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Possible Features](../../../topics/features/possible-features.md) > Underground Biome
 
+## December 20th, 2022 Livestream
+* [Q&A: Can we still build under the map in future?](../../../transcriptions/yt-EopulYWK2G8.md) [https://www.youtube.com/watch?v=EopulYWK2G8](https://www.youtube.com/watch?v=EopulYWK2G8)
+
 ## July 13th, 2021 Livestream
 * [Q&A: Any changes planned for the void area underground?](../../../transcriptions/yt--rldplszJSQ.md) [https://www.youtube.com/watch?v=-rldplszJSQ](https://www.youtube.com/watch?v=-rldplszJSQ)
 

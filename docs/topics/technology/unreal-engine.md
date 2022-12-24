@@ -9,6 +9,9 @@ date: Last Modified
 * [Object Limit](../../topics/technology/unreal-engine/object-limit.md)
 * [Unreal Engine 5](../../topics/technology/unreal-engine/unreal-engine-5.md)
 
+## December 20th, 2022 Livestream
+* [Q&A: What language do you use in programming?](../../transcriptions/yt-Vkkf1mR_nF8.md) [https://www.youtube.com/watch?v=Vkkf1mR_nF8](https://www.youtube.com/watch?v=Vkkf1mR_nF8)
+
 ## November 8th, 2022 Livestream
 * [Q&A: What language do you program the game in?](../../transcriptions/yt-77akCeJawrg.md) [https://www.youtube.com/watch?v=77akCeJawrg](https://www.youtube.com/watch?v=77akCeJawrg)
 

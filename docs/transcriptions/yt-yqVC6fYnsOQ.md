@@ -9,7 +9,7 @@ topics:
 # [July 5th, 2022 Livestream](../2022-07-05.md)
 ## Q&A: Will you add stuff after 1.0?
 https://www.youtube.com/watch?v=yqVC6fYnsOQ
-This question was possibly duplicated with a more recent answer: [November 8th, 2022 Livestream Q&A: Updates after 1.0?](./yt-eHFSHUqYSZc.md) [https://www.youtube.com/watch?v=eHFSHUqYSZc](https://www.youtube.com/watch?v=eHFSHUqYSZc)
+This question was possibly duplicated with a more recent answer: [December 20th, 2022 Livestream Q&A: Will there be new content after 1.0?](./yt-LQu4cSL5fbE.md) [https://www.youtube.com/watch?v=LQu4cSL5fbE](https://www.youtube.com/watch?v=LQu4cSL5fbE)
 
 
 ### Topics

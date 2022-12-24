@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildables](../../../topics/features/buildables.md) > Conveyor Belts
 
+## December 20th, 2022 Livestream
+* [Q&A: Do you allow clipping of Belts or Machines in your builds?](../../../transcriptions/yt-OfcEvJbfSC0.md) [https://www.youtube.com/watch?v=OfcEvJbfSC0](https://www.youtube.com/watch?v=OfcEvJbfSC0)
+* [Q&A: Are you aware of the Belts not connecting on client bug?](../../../transcriptions/yt-cd4PXs9aG1E.md) [https://www.youtube.com/watch?v=cd4PXs9aG1E](https://www.youtube.com/watch?v=cd4PXs9aG1E)
+* [Q&A: Will Overclocking Mk.3 Miners be addressed?](../../../transcriptions/yt-zQp4XNB2bU4.md) [https://www.youtube.com/watch?v=zQp4XNB2bU4](https://www.youtube.com/watch?v=zQp4XNB2bU4)
+
 ## December 6th, 2022 Livestream
 * [Intro](../../../transcriptions/yt-ST6V-a4u8Qs,150.3668865234596,205.23837102092534.md) [https://youtube.com/clip/UgkxHfhSredLq3T6iUOd5lDA5J-80R91QAyq](https://youtube.com/clip/UgkxHfhSredLq3T6iUOd5lDA5J-80R91QAyq)
 * [Conveyor Belt Ceiling Mounts & improvements](../../../transcriptions/yt-ST6V-a4u8Qs,205.2550543546126,232.03180492269792.md) [https://youtube.com/clip/Ugkxb_ZxVuHQwAKMVxyW_6w-7HmK7BArQxX0](https://youtube.com/clip/Ugkxb_ZxVuHQwAKMVxyW_6w-7HmK7BArQxX0)

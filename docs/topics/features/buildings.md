@@ -28,6 +28,9 @@ date: Last Modified
 * [The HUB](../../topics/features/buildings/the-hub.md)
 * [Water Extractor](../../topics/features/buildings/water-extractor.md)
 
+## December 20th, 2022 Livestream
+* [Q&A: How do you play the game, "Micro Factories" or "Mega Factories"?](../../transcriptions/yt-TfFl2q5hc6k.md) [https://www.youtube.com/watch?v=TfFl2q5hc6k](https://www.youtube.com/watch?v=TfFl2q5hc6k)
+
 ## December 13th, 2022 Livestream
 * [Q&A: Are the devs aware that copy/paste seems broke at the moment?](../../transcriptions/yt-jWsSrmHTr7k.md) [https://www.youtube.com/watch?v=jWsSrmHTr7k](https://www.youtube.com/watch?v=jWsSrmHTr7k)
 

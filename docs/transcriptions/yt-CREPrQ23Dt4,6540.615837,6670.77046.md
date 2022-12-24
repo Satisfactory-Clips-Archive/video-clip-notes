@@ -11,6 +11,8 @@ topics:
 # [November 15th, 2022 Livestream](../2022-11-15.md)
 ## Q&A: How did you arrive at 4x4 for the Blueprint Designer?
 https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=6540&end=6671
+This question was possibly duplicated with a more recent answer: [December 20th, 2022 Livestream Q&A: What was the point of the decision to make Blueprints 4x4 only?](./yt-jl0bDeSq5aM.md) [https://www.youtube.com/watch?v=jl0bDeSq5aM](https://www.youtube.com/watch?v=jl0bDeSq5aM)
+
 
 ### Topics
 * [Features > Blueprints](../topics/features/blueprints.md)

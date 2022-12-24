@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Released > Satisfactory Update 7
 
+## December 20th, 2022 Livestream
+* [Q&A: What was the point of the decision to make Blueprints 4x4 only?](../../../transcriptions/yt-jl0bDeSq5aM.md) [https://www.youtube.com/watch?v=jl0bDeSq5aM](https://www.youtube.com/watch?v=jl0bDeSq5aM)
+
 ## December 13th, 2022 Livestream
 * [State of Dave](../../../transcriptions/yt-ZljktwoQPRI.md) [https://www.youtube.com/watch?v=ZljktwoQPRI](https://www.youtube.com/watch?v=ZljktwoQPRI)
 * [Q&A: Any talks on extendable Pipe Ceiling Mounts?](../../../transcriptions/yt-olazWgKMEPU.md) [https://www.youtube.com/watch?v=olazWgKMEPU](https://www.youtube.com/watch?v=olazWgKMEPU)

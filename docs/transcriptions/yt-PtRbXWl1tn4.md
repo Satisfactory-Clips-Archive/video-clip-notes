@@ -10,6 +10,8 @@ topics:
 # [December 13th, 2022 Livestream](../2022-12-13.md)
 ## Q&A: Will Paradise Island stay?
 https://www.youtube.com/watch?v=PtRbXWl1tn4
+This question was possibly replaced with a more recent answer: [December 20th, 2022 Livestream Q&A: Is there anything new coming that you can tell us?](./yt-oHHr-VYsx0k.md) [https://www.youtube.com/watch?v=oHHr-VYsx0k](https://www.youtube.com/watch?v=oHHr-VYsx0k)
+
 <details>
 <summary>This question may have been asked previously at least 2 other times, as recently as November 2022 and as early as October 2022.</summary>
 

@@ -16,6 +16,9 @@ date: Last Modified
 * [Tier 9](../../topics/features/tiers/tier-9.md)
 * [Tier 10](../../topics/features/tiers/tier-10.md)
 
+## December 20th, 2022 Livestream
+* [Q&A: Are there any plans for more Tiers?](../../transcriptions/yt-8kAmh6FsUto.md) [https://www.youtube.com/watch?v=8kAmh6FsUto](https://www.youtube.com/watch?v=8kAmh6FsUto)
+
 ## November 29th, 2022 Livestream
 * [Q&A: Sometimes Hogs have Jetpacks if you haven't unlocked them. Can we get the same for Hover Packs?](../../transcriptions/yt-CoSes0ZNwHo.md) [https://www.youtube.com/watch?v=CoSes0ZNwHo](https://www.youtube.com/watch?v=CoSes0ZNwHo)
 * [Q&A: Usually I make it to Tier 5 and my brain starts to malfunction. Any suggestions?](../../transcriptions/yt-7LL5uSL0Qr4.md) [https://www.youtube.com/watch?v=7LL5uSL0Qr4](https://www.youtube.com/watch?v=7LL5uSL0Qr4)

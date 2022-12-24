@@ -7,6 +7,10 @@ date: Last Modified
 * [Cheatcrete](../../../topics/features/buildables/foundations/cheatcrete.md)
 * [Foundation Stencils](../../../topics/features/buildables/foundations/stencils.md)
 
+## December 20th, 2022 Livestream
+* [Q&A: Any update to bouncy tire bug on Foundations?](../../../transcriptions/yt--EYhEmqds18.md) [https://www.youtube.com/watch?v=-EYhEmqds18](https://www.youtube.com/watch?v=-EYhEmqds18)
+* [Q&A: Any thoughts from the devs on making it easier for us to build circles?](../../../transcriptions/yt-wQG33TX_qZU.md) [https://www.youtube.com/watch?v=wQG33TX_qZU](https://www.youtube.com/watch?v=wQG33TX_qZU)
+
 ## December 13th, 2022 Livestream
 * [Q&A: Is there any plan to make roads and curves simpler?](../../../transcriptions/yt-TqICAF20LV0.md) [https://www.youtube.com/watch?v=TqICAF20LV0](https://www.youtube.com/watch?v=TqICAF20LV0)
 * [Q&A: Any plans for quarter-Foundations or extra shapes?](../../../transcriptions/yt-rmrSDP4Bbrs.md) [https://www.youtube.com/watch?v=rmrSDP4Bbrs](https://www.youtube.com/watch?v=rmrSDP4Bbrs)

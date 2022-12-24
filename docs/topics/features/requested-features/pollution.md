@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Requested Features](../../../topics/features/requested-features.md) > Pollution
 
+## December 20th, 2022 Livestream
+* [Q&A: Are there plans to add consequences for abusing this pretty little planet?](../../../transcriptions/yt-DX4hk0Z_9s4.md) [https://www.youtube.com/watch?v=DX4hk0Z_9s4](https://www.youtube.com/watch?v=DX4hk0Z_9s4)
+
 ## April 12th, 2022 Livestream
 * [Q&A: Are you afraid that real-world climate change gets bad enough to impact reception of the game?](../../../transcriptions/yt-uGDYC7GLHKI.md) [https://www.youtube.com/watch?v=uGDYC7GLHKI](https://www.youtube.com/watch?v=uGDYC7GLHKI)
 

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Multiplayer](../../../topics/features/multiplayer.md) > Dedicated Servers
 
+## December 20th, 2022 Livestream
+* [Q&A: Are you aware of the Belts not connecting on client bug?](../../../transcriptions/yt-cd4PXs9aG1E.md) [https://www.youtube.com/watch?v=cd4PXs9aG1E](https://www.youtube.com/watch?v=cd4PXs9aG1E)
+
 ## December 13th, 2022 Livestream
 * [Q&A: Any love coming to Dedicated Servers before the next Update?](../../../transcriptions/yt-sidEn65j8XA.md) [https://www.youtube.com/watch?v=sidEn65j8XA](https://www.youtube.com/watch?v=sidEn65j8XA)
 

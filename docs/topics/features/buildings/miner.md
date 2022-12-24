@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > Miner
 
+## December 20th, 2022 Livestream
+* [Q&A: Will Overclocking Mk.3 Miners be addressed?](../../../transcriptions/yt-zQp4XNB2bU4.md) [https://www.youtube.com/watch?v=zQp4XNB2bU4](https://www.youtube.com/watch?v=zQp4XNB2bU4)
+
 ## November 29th, 2022 Livestream
 * [Q&A: Will we be able to fully-utilise a pure node in the future?](../../../transcriptions/yt-9NheZ2Xejic.md) [https://www.youtube.com/watch?v=9NheZ2Xejic](https://www.youtube.com/watch?v=9NheZ2Xejic)
 * [Q&A: Dual-output Mk.3 Miner please, easy fix?](../../../transcriptions/yt-_4bcpVXbnxY.md) [https://www.youtube.com/watch?v=_4bcpVXbnxY](https://www.youtube.com/watch?v=_4bcpVXbnxY)

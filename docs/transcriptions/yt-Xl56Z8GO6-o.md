@@ -8,7 +8,7 @@ topics:
 # [July 13th, 2021 Livestream](../2021-07-13.md)
 ## Q&A: When Giant Crab?
 https://www.youtube.com/watch?v=Xl56Z8GO6-o
-This question was possibly duplicated with a more recent answer: [December 13th, 2022 Livestream Q&A: Any news on when the big Crab will be added?](./yt-nyIfC6kmILs.md) [https://www.youtube.com/watch?v=nyIfC6kmILs](https://www.youtube.com/watch?v=nyIfC6kmILs)
+This question was possibly duplicated with a more recent answer: [December 20th, 2022 Livestream Q&A: What is the status of Crab Boss?](./yt-fvD3g8wvTt0.md) [https://www.youtube.com/watch?v=fvD3g8wvTt0](https://www.youtube.com/watch?v=fvD3g8wvTt0)
 
 
 ### Topics

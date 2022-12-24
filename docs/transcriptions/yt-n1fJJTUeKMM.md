@@ -9,7 +9,7 @@ topics:
 # [April 27th, 2021 Livestream](../2021-04-27.md)
 ## Q&A: Why are we not upvoting circular Foundations?
 https://www.youtube.com/watch?v=n1fJJTUeKMM
-This question was possibly duplicated with a more recent answer: [July 12th, 2022 Livestream Q&A: Can we get half/circle Foundations & Walls?](./yt-_MhOphjRSWc.md) [https://www.youtube.com/watch?v=_MhOphjRSWc](https://www.youtube.com/watch?v=_MhOphjRSWc)
+This question was possibly duplicated with a more recent answer: [December 20th, 2022 Livestream Q&A: Any thoughts from the devs on making it easier for us to build circles?](./yt-wQG33TX_qZU.md) [https://www.youtube.com/watch?v=wQG33TX_qZU](https://www.youtube.com/watch?v=wQG33TX_qZU)
 
 
 ### Topics

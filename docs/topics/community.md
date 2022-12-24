@@ -26,6 +26,19 @@ date: Last Modified
 * [Vilsol](../topics/community/vilsol.md)
 * [Wiki](../topics/community/wiki.md)
 
+## December 21st, 2022 Video
+* [Merry Christmas & Happy Holidays (Part 1)](../transcriptions/yt-nvBhG4URjMg,,99.24.md) [https://youtube.com/embed/nvBhG4URjMg?autoplay=1&start=0&end=100](https://youtube.com/embed/nvBhG4URjMg?autoplay=1&start=0&end=100)
+* [Merry Christmas & Happy Holidays (Part 2)](../transcriptions/yt-nvBhG4URjMg,158.12,192.76.md) [https://youtube.com/embed/nvBhG4URjMg?autoplay=1&start=158&end=193](https://youtube.com/embed/nvBhG4URjMg?autoplay=1&start=158&end=193)
+* [VAMONOS!](../transcriptions/yt-nvBhG4URjMg,223.2,242.04.md) [https://youtube.com/embed/nvBhG4URjMg?autoplay=1&start=223&end=243](https://youtube.com/embed/nvBhG4URjMg?autoplay=1&start=223&end=243)
+* [Office Doggos: Eevee!](../transcriptions/yt-nvBhG4URjMg,242.08,253.4.md) [https://youtube.com/embed/nvBhG4URjMg?autoplay=1&start=242&end=254](https://youtube.com/embed/nvBhG4URjMg?autoplay=1&start=242&end=254)
+* [Merry Christmas & Happy Holidays (Part 3)](../transcriptions/yt-nvBhG4URjMg,253.44,282.56.md) [https://youtube.com/embed/nvBhG4URjMg?autoplay=1&start=253&end=283](https://youtube.com/embed/nvBhG4URjMg?autoplay=1&start=253&end=283)
+* [Merry Christmas & Happy Holidays (Part 4)](../transcriptions/yt-nvBhG4URjMg,282.6,328.190091.md) [https://youtube.com/embed/nvBhG4URjMg?autoplay=1&start=282&end=329](https://youtube.com/embed/nvBhG4URjMg?autoplay=1&start=282&end=329)
+* [Returning around January 10th, 2023](../transcriptions/yt-nvBhG4URjMg,328.24,352.48.md) [https://youtube.com/embed/nvBhG4URjMg?autoplay=1&start=328&end=353](https://youtube.com/embed/nvBhG4URjMg?autoplay=1&start=328&end=353)
+* [End Tag](../transcriptions/yt-nvBhG4URjMg,359.92.md) [https://youtube.com/clip/UgkxtVmVrSNaBJtNr7CEMQpiMnyjZDJAcATC](https://youtube.com/clip/UgkxtVmVrSNaBJtNr7CEMQpiMnyjZDJAcATC)
+
+## December 20th, 2022 Livestream
+* [Q&A: When Let's Game It Out does a Satisfactory video, what are your thoughts?](../transcriptions/yt-uIFUBWlT9gs.md) [https://www.youtube.com/watch?v=uIFUBWlT9gs](https://www.youtube.com/watch?v=uIFUBWlT9gs)
+
 ## December 13th, 2022 Livestream
 * [Q&A: How's the Lego Satisfactory set going?](../transcriptions/yt-t4HE64aQG7Y.md) [https://www.youtube.com/watch?v=t4HE64aQG7Y](https://www.youtube.com/watch?v=t4HE64aQG7Y)
 

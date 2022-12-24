@@ -10,7 +10,7 @@ topics:
 # [March 29th, 2022 Livestream](../2022-03-29.md)
 ## Q&A: Will there be Updates after 1.0?
 https://www.youtube.com/watch?v=EjZAdss6k4Q
-This question was possibly duplicated with a more recent answer: [November 8th, 2022 Livestream Q&A: Updates after 1.0?](./yt-eHFSHUqYSZc.md) [https://www.youtube.com/watch?v=eHFSHUqYSZc](https://www.youtube.com/watch?v=eHFSHUqYSZc)
+This question was possibly duplicated with a more recent answer: [December 20th, 2022 Livestream Q&A: Will there be new content after 1.0?](./yt-LQu4cSL5fbE.md) [https://www.youtube.com/watch?v=LQu4cSL5fbE](https://www.youtube.com/watch?v=LQu4cSL5fbE)
 
 
 ### Topics

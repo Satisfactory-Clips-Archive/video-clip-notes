@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Fluids](../../../topics/features/fluids.md) > Pipes
 
+## December 20th, 2022 Livestream
+* [Q&A: Why can't I use Pipeline support in Blueprint Designer?](../../../transcriptions/yt-VAHFScYoaQY.md) [https://www.youtube.com/watch?v=VAHFScYoaQY](https://www.youtube.com/watch?v=VAHFScYoaQY)
+
 ## December 13th, 2022 Livestream
 * [Q&A: Any talks on extendable Pipe Ceiling Mounts?](../../../transcriptions/yt-olazWgKMEPU.md) [https://www.youtube.com/watch?v=olazWgKMEPU](https://www.youtube.com/watch?v=olazWgKMEPU)
 

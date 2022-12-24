@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > QA Site
 
+## December 20th, 2022 Livestream
+* [Jace Talk: Long-standing issues on the QA Site](../transcriptions/yt-RVgkJ7yCwpQ.md) [https://www.youtube.com/watch?v=RVgkJ7yCwpQ](https://www.youtube.com/watch?v=RVgkJ7yCwpQ)
+
 ## November 29th, 2022 Livestream
 * [State of Dev](../transcriptions/yt-xHCaS54V7J4.md) [https://www.youtube.com/watch?v=xHCaS54V7J4](https://www.youtube.com/watch?v=xHCaS54V7J4)
 * [Q&A: If I submit a crash report, is there any benefit for also posting on the QA Site?](../transcriptions/yt-bDZSBRLupyc.md) [https://www.youtube.com/watch?v=bDZSBRLupyc](https://www.youtube.com/watch?v=bDZSBRLupyc)

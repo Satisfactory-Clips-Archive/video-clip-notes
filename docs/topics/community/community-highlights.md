@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Community Highlights
 
+## December 20th, 2022 Livestream
+* [Q&A: Can we still build under the map in future?](../../transcriptions/yt-EopulYWK2G8.md) [https://www.youtube.com/watch?v=EopulYWK2G8](https://www.youtube.com/watch?v=EopulYWK2G8)
+* [Q&A: Any thoughts from the devs on making it easier for us to build circles?](../../transcriptions/yt-wQG33TX_qZU.md) [https://www.youtube.com/watch?v=wQG33TX_qZU](https://www.youtube.com/watch?v=wQG33TX_qZU)
+
 ## December 13th, 2022 Livestream
 * [Q&A: Real Civil Engineer, when?](../../transcriptions/yt-mALcM75aJMQ.md) [https://www.youtube.com/watch?v=mALcM75aJMQ](https://www.youtube.com/watch?v=mALcM75aJMQ)
 * [Q&A: Why not have Road pieces in-game?](../../transcriptions/yt-reT5Ti3-9uQ.md) [https://www.youtube.com/watch?v=reT5Ti3-9uQ](https://www.youtube.com/watch?v=reT5Ti3-9uQ)

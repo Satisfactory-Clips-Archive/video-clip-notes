@@ -7,6 +7,10 @@ date: Last Modified
 * [Creative Mode](../../topics/features/game-modes/creative-mode.md)
 * [Peaceful Mode](../../topics/features/game-modes/peaceful-mode.md)
 
+## December 20th, 2022 Livestream
+* [Q&A: Could there be some Creative Mode or cheats?](../../transcriptions/yt-YdR7qt4X2lc.md) [https://www.youtube.com/watch?v=YdR7qt4X2lc](https://www.youtube.com/watch?v=YdR7qt4X2lc)
+* [Q&A: Any plans for randomised Ore locations?](../../transcriptions/yt-tLvqeGb5HIA.md) [https://www.youtube.com/watch?v=tLvqeGb5HIA](https://www.youtube.com/watch?v=tLvqeGb5HIA)
+
 ## December 6th, 2022 Livestream
 * [Game Modes](../../transcriptions/yt-ST6V-a4u8Qs,95.06163535012458,150.35020318977232.md) [https://youtube.com/clip/UgkxOe2hN5wxds-Vt3UD6QaO4bc2dC94Qj-W](https://youtube.com/clip/UgkxOe2hN5wxds-Vt3UD6QaO4bc2dC94Qj-W)
 

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Features](../../topics/features.md) > Emotes
 
+## December 20th, 2022 Livestream
+* [Q&A: What does the "AF" in "SatisfactoryAF" stand for?](../../transcriptions/yt-Dx5KWqOnnB4.md) [https://www.youtube.com/watch?v=Dx5KWqOnnB4](https://www.youtube.com/watch?v=Dx5KWqOnnB4)
+
 ## April 26th, 2022 Livestream
 * [Q&A: Golf Emote?](../../transcriptions/yt-70bU7AYdYBI.md) [https://www.youtube.com/watch?v=70bU7AYdYBI](https://www.youtube.com/watch?v=70bU7AYdYBI)
 

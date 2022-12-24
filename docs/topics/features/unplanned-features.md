@@ -17,6 +17,9 @@ date: Last Modified
 * [Terraforming](../../topics/features/unplanned-features/terraforming.md)
 * [VR](../../topics/features/unplanned-features/vr.md)
 
+## December 20th, 2022 Livestream
+* [Q&A: Any aquatic animals?](../../transcriptions/yt-73CjuOThYVg.md) [https://www.youtube.com/watch?v=73CjuOThYVg](https://www.youtube.com/watch?v=73CjuOThYVg)
+
 ## December 6th, 2022 Livestream
 * Q&A: Will there be any multi-seat Vehicle later? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6745&end=6786](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6745&end=6786)
 

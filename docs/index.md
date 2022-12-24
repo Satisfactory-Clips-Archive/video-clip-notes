@@ -5,6 +5,8 @@ layout: index
 ---
 # 2022
 ## December
+* [December 21st](2022-12-21.md)
+* [December 20th](2022-12-20.md)
 * [December 13th](2022-12-13.md)
 * [December 6th](2022-12-06.md)
 

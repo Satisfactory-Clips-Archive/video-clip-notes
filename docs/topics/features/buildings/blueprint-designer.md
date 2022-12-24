@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > Blueprint Designer
 
+## December 20th, 2022 Livestream
+* [Q&A: It would be nice for Blueprints to allow building outside before save so you can align things](../../../transcriptions/yt-U9x9BqnT2TM.md) [https://www.youtube.com/watch?v=U9x9BqnT2TM](https://www.youtube.com/watch?v=U9x9BqnT2TM)
+* [Q&A: Why can't I use Pipeline support in Blueprint Designer?](../../../transcriptions/yt-VAHFScYoaQY.md) [https://www.youtube.com/watch?v=VAHFScYoaQY](https://www.youtube.com/watch?v=VAHFScYoaQY)
+* [Q&A: What was the point of the decision to make Blueprints 4x4 only?](../../../transcriptions/yt-jl0bDeSq5aM.md) [https://www.youtube.com/watch?v=jl0bDeSq5aM](https://www.youtube.com/watch?v=jl0bDeSq5aM)
+
 ## December 6th, 2022 Livestream
 * [Intro](../../../transcriptions/yt-ST6V-a4u8Qs,232.04848825638518,279.8128726030694.md) [https://youtube.com/clip/UgkxYKc9QUC8lrZCeueksFrrEXJ1fEFuAZdp](https://youtube.com/clip/UgkxYKc9QUC8lrZCeueksFrrEXJ1fEFuAZdp)
 * [Intro](../../../transcriptions/yt-ST6V-a4u8Qs,386.43605819847943,396.81309175196793.md) [https://youtube.com/clip/UgkxniRJFWwGUpBxEHdqgl8XawCyW-jdFwL5](https://youtube.com/clip/UgkxniRJFWwGUpBxEHdqgl8XawCyW-jdFwL5)

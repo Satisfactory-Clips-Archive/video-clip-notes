@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Mods](../../topics/mods.md) > Mods vs. Features
 
+## December 20th, 2022 Livestream
+* [Q&A: Could there be some Creative Mode or cheats?](../../transcriptions/yt-YdR7qt4X2lc.md) [https://www.youtube.com/watch?v=YdR7qt4X2lc](https://www.youtube.com/watch?v=YdR7qt4X2lc)
+
 ## November 8th, 2022 Livestream
 * [Q&A: Any new planned Game Modes?](../../transcriptions/yt-skJAEEFhMds.md) [https://www.youtube.com/watch?v=skJAEEFhMds](https://www.youtube.com/watch?v=skJAEEFhMds)
 

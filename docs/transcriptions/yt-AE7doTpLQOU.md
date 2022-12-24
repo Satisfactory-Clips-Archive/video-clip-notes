@@ -8,7 +8,7 @@ topics:
 # [April 20th, 2021 Livestream](../2021-04-20.md)
 ## Q&A: Will there be Creative Mode?
 https://www.youtube.com/watch?v=AE7doTpLQOU
-This question was possibly duplicated with a more recent answer: [February 8th, 2022 Livestream Q&A: Creative Mode?](./yt-si20TQaDIXs.md) [https://www.youtube.com/watch?v=si20TQaDIXs](https://www.youtube.com/watch?v=si20TQaDIXs)
+This question was possibly duplicated with a more recent answer: [December 20th, 2022 Livestream Q&A: Could there be some Creative Mode or cheats?](./yt-YdR7qt4X2lc.md) [https://www.youtube.com/watch?v=YdR7qt4X2lc](https://www.youtube.com/watch?v=YdR7qt4X2lc)
 
 
 ### Topics

@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Biomes](../../../topics/environment/biomes.md) > Paradise Island
 
+## December 20th, 2022 Livestream
+* [State of Dave](../../../transcriptions/yt-e2jnViGHggU.md) [https://www.youtube.com/watch?v=e2jnViGHggU](https://www.youtube.com/watch?v=e2jnViGHggU)
+* [Q&A: Is there anything new coming that you can tell us?](../../../transcriptions/yt-oHHr-VYsx0k.md) [https://www.youtube.com/watch?v=oHHr-VYsx0k](https://www.youtube.com/watch?v=oHHr-VYsx0k)
+
 ## December 13th, 2022 Livestream
 * [Q&A: Will Paradise Island stay?](../../../transcriptions/yt-PtRbXWl1tn4.md) [https://www.youtube.com/watch?v=PtRbXWl1tn4](https://www.youtube.com/watch?v=PtRbXWl1tn4)
 

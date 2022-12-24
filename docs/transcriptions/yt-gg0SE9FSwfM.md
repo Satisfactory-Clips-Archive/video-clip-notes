@@ -9,11 +9,7 @@ topics:
 # [March 8th, 2022 Livestream](../2022-03-08.md)
 ## Q&A: How many more Tiers are planned in future development?
 https://www.youtube.com/watch?v=gg0SE9FSwfM
-<details>
-<summary>This question may have been asked previously at least 1 other time, as recently as July 2021.</summary>
-
-* [July 6th, 2021 Livestream Q&A: Do you plan to add more Tiers?](./yt-VaqszvQTlYA.md) [https://www.youtube.com/watch?v=VaqszvQTlYA](https://www.youtube.com/watch?v=VaqszvQTlYA)
-</details>
+This question was possibly duplicated with a more recent answer: [December 20th, 2022 Livestream Q&A: Are there any plans for more Tiers?](./yt-8kAmh6FsUto.md) [https://www.youtube.com/watch?v=8kAmh6FsUto](https://www.youtube.com/watch?v=8kAmh6FsUto)
 
 
 ### Topics

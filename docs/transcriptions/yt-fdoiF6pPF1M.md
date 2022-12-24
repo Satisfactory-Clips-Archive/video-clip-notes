@@ -9,7 +9,7 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Will we be able to breed the Doggos?
 https://www.youtube.com/watch?v=fdoiF6pPF1M
-This question was possibly duplicated with a more recent answer: [May 4th, 2021 Livestream Q&A: Can we breed the Doggos?](./yt-NwCEYPgIhNs.md) [https://www.youtube.com/watch?v=NwCEYPgIhNs](https://www.youtube.com/watch?v=NwCEYPgIhNs)
+This question was possibly duplicated with a more recent answer: [December 20th, 2022 Livestream Q&A: Have you pondered about taming/breeding Creatures?](./yt-NG5pYsl71RM.md) [https://www.youtube.com/watch?v=NG5pYsl71RM](https://www.youtube.com/watch?v=NG5pYsl71RM)
 
 
 ### Topics

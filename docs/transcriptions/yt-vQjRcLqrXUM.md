@@ -11,6 +11,8 @@ topics:
 # [July 12th, 2022 Livestream](../2022-07-12.md)
 ## Q&A: Any plans to fix how Vehicles are done when driving on any Foundation surface?
 https://www.youtube.com/watch?v=vQjRcLqrXUM
+This question was possibly duplicated with a more recent answer: [December 20th, 2022 Livestream Q&A: Any update to bouncy tire bug on Foundations?](./yt--EYhEmqds18.md) [https://www.youtube.com/watch?v=-EYhEmqds18](https://www.youtube.com/watch?v=-EYhEmqds18)
+
 
 ### Topics
 * [Features > Buildables > Foundations](../topics/features/buildables/foundations.md)

@@ -12,6 +12,10 @@ date: Last Modified
 * [Tractor](../../../topics/features/transportation/vehicles/tractor.md)
 * [Truck](../../../topics/features/transportation/vehicles/truck.md)
 
+## December 20th, 2022 Livestream
+* [Q&A: Any update to bouncy tire bug on Foundations?](../../../transcriptions/yt--EYhEmqds18.md) [https://www.youtube.com/watch?v=-EYhEmqds18](https://www.youtube.com/watch?v=-EYhEmqds18)
+* [Q&A: Is there a possibility to get first-person camera in Vehicles?](../../../transcriptions/yt-qOl8-bJtOrY.md) [https://www.youtube.com/watch?v=qOl8-bJtOrY](https://www.youtube.com/watch?v=qOl8-bJtOrY)
+
 ## December 13th, 2022 Livestream
 * [Q&A: Why not have Road pieces in-game?](../../../transcriptions/yt-reT5Ti3-9uQ.md) [https://www.youtube.com/watch?v=reT5Ti3-9uQ](https://www.youtube.com/watch?v=reT5Ti3-9uQ)
 

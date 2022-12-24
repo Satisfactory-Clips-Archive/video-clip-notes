@@ -10,7 +10,7 @@ topics:
 # [September 27th, 2022 Livestream](../2022-09-27.md)
 ## Q&A: Any news about the Mk.5 belt vs. the Mk.3 Miner?
 https://www.youtube.com/watch?v=8b7a3qdokiw
-This question was possibly duplicated with a more recent answer: [November 29th, 2022 Livestream Q&A: Will we be able to fully-utilise a pure node in the future?](./yt-9NheZ2Xejic.md) [https://www.youtube.com/watch?v=9NheZ2Xejic](https://www.youtube.com/watch?v=9NheZ2Xejic)
+This question was possibly duplicated with a more recent answer: [December 20th, 2022 Livestream Q&A: Will Overclocking Mk.3 Miners be addressed?](./yt-zQp4XNB2bU4.md) [https://www.youtube.com/watch?v=zQp4XNB2bU4](https://www.youtube.com/watch?v=zQp4XNB2bU4)
 
 
 ### Topics

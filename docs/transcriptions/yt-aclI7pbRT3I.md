@@ -9,7 +9,7 @@ topics:
 # [March 23rd, 2021 Livestream](../2021-03-23.md)
 ## Q&A: Do you plan to put Update 4 out earlier than April 13th?
 https://www.youtube.com/watch?v=aclI7pbRT3I
-This question was possibly duplicated with a more recent answer: [December 13th, 2022 Livestream Q&A: When 1.0?](./yt-LxAm46qoEKY.md) [https://www.youtube.com/watch?v=LxAm46qoEKY](https://www.youtube.com/watch?v=LxAm46qoEKY)
+This question was possibly duplicated with a more recent answer: [December 20th, 2022 Livestream Q&A: Is there a public 1.0 target date?](./yt-A392N1wOyd8.md) [https://www.youtube.com/watch?v=A392N1wOyd8](https://www.youtube.com/watch?v=A392N1wOyd8)
 
 
 ### Topics

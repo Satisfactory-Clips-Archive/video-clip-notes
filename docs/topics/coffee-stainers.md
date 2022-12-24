@@ -41,6 +41,10 @@ date: Last Modified
 * [Torsten](../topics/coffee-stainers/torsten.md)
 * [Uzu](../topics/coffee-stainers/uzu.md)
 
+## December 20th, 2022 Livestream
+* [Q&A: Will we get CSS Staff as statues to build in the game?](../transcriptions/yt-_t_XwMsiEN4.md) [https://www.youtube.com/watch?v=_t_XwMsiEN4](https://www.youtube.com/watch?v=_t_XwMsiEN4)
+* [Q&A: What are Coffee Stain staff's holiday plans, anything neat?](../transcriptions/yt-m9FOHfsFg78.md) [https://www.youtube.com/watch?v=m9FOHfsFg78](https://www.youtube.com/watch?v=m9FOHfsFg78)
+
 ## December 13th, 2022 Livestream
 * [Q&A: Are you friends with the Valheim devs?](../transcriptions/yt-2HtyjvekxwE.md) [https://www.youtube.com/watch?v=2HtyjvekxwE](https://www.youtube.com/watch?v=2HtyjvekxwE)
 

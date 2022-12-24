@@ -10,7 +10,7 @@ topics:
 # [August 24th, 2021 Livestream](../2021-08-24.md)
 ## Q&A: Is there going to be a Mk.6 Belt for Mk.3 Miner at 250% clock speed?
 https://www.youtube.com/watch?v=x2VBWUAqpoQ
-This question was possibly duplicated with a more recent answer: [November 29th, 2022 Livestream Q&A: Will we be able to fully-utilise a pure node in the future?](./yt-9NheZ2Xejic.md) [https://www.youtube.com/watch?v=9NheZ2Xejic](https://www.youtube.com/watch?v=9NheZ2Xejic)
+This question was possibly duplicated with a more recent answer: [December 20th, 2022 Livestream Q&A: Will Overclocking Mk.3 Miners be addressed?](./yt-zQp4XNB2bU4.md) [https://www.youtube.com/watch?v=zQp4XNB2bU4](https://www.youtube.com/watch?v=zQp4XNB2bU4)
 
 
 ### Topics

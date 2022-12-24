@@ -5,6 +5,22 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Embracer Group](../../../topics/embracer-group.md) > Coffee Stain Holding > Coffee Stain Studios
 
+## December 21st, 2022 Video
+* [Merry Christmas & Happy Holidays (Part 1)](../../../transcriptions/yt-nvBhG4URjMg,,99.24.md) [https://youtube.com/embed/nvBhG4URjMg?autoplay=1&start=0&end=100](https://youtube.com/embed/nvBhG4URjMg?autoplay=1&start=0&end=100)
+* [Interlude](../../../transcriptions/yt-nvBhG4URjMg,99.28,158.08.md) [https://youtube.com/embed/nvBhG4URjMg?autoplay=1&start=99&end=159](https://youtube.com/embed/nvBhG4URjMg?autoplay=1&start=99&end=159)
+* [Merry Christmas & Happy Holidays (Part 2)](../../../transcriptions/yt-nvBhG4URjMg,158.12,192.76.md) [https://youtube.com/embed/nvBhG4URjMg?autoplay=1&start=158&end=193](https://youtube.com/embed/nvBhG4URjMg?autoplay=1&start=158&end=193)
+* [Office Doggos: Caesar!](../../../transcriptions/yt-nvBhG4URjMg,192.8,223.16.md) [https://youtube.com/embed/nvBhG4URjMg?autoplay=1&start=192&end=224](https://youtube.com/embed/nvBhG4URjMg?autoplay=1&start=192&end=224)
+* [VAMONOS!](../../../transcriptions/yt-nvBhG4URjMg,223.2,242.04.md) [https://youtube.com/embed/nvBhG4URjMg?autoplay=1&start=223&end=243](https://youtube.com/embed/nvBhG4URjMg?autoplay=1&start=223&end=243)
+* [Office Doggos: Eevee!](../../../transcriptions/yt-nvBhG4URjMg,242.08,253.4.md) [https://youtube.com/embed/nvBhG4URjMg?autoplay=1&start=242&end=254](https://youtube.com/embed/nvBhG4URjMg?autoplay=1&start=242&end=254)
+* [Merry Christmas & Happy Holidays (Part 3)](../../../transcriptions/yt-nvBhG4URjMg,253.44,282.56.md) [https://youtube.com/embed/nvBhG4URjMg?autoplay=1&start=253&end=283](https://youtube.com/embed/nvBhG4URjMg?autoplay=1&start=253&end=283)
+* [Merry Christmas & Happy Holidays (Part 4)](../../../transcriptions/yt-nvBhG4URjMg,282.6,328.190091.md) [https://youtube.com/embed/nvBhG4URjMg?autoplay=1&start=282&end=329](https://youtube.com/embed/nvBhG4URjMg?autoplay=1&start=282&end=329)
+* [Returning around January 10th, 2023](../../../transcriptions/yt-nvBhG4URjMg,328.24,352.48.md) [https://youtube.com/embed/nvBhG4URjMg?autoplay=1&start=328&end=353](https://youtube.com/embed/nvBhG4URjMg?autoplay=1&start=328&end=353)
+* [End Tag](../../../transcriptions/yt-nvBhG4URjMg,359.92.md) [https://youtube.com/clip/UgkxtVmVrSNaBJtNr7CEMQpiMnyjZDJAcATC](https://youtube.com/clip/UgkxtVmVrSNaBJtNr7CEMQpiMnyjZDJAcATC)
+
+## December 20th, 2022 Livestream
+* [Q&A: Do you let pets in the CSS office?](../../../transcriptions/yt-4nxyfET1RUk.md) [https://www.youtube.com/watch?v=4nxyfET1RUk](https://www.youtube.com/watch?v=4nxyfET1RUk)
+* [Intro](../../../transcriptions/yt-NyorgCtObT0.md) [https://www.youtube.com/watch?v=NyorgCtObT0](https://www.youtube.com/watch?v=NyorgCtObT0)
+
 ## December 13th, 2022 Livestream
 * [Q&A: When 1.0?](../../../transcriptions/yt-LxAm46qoEKY.md) [https://www.youtube.com/watch?v=LxAm46qoEKY](https://www.youtube.com/watch?v=LxAm46qoEKY)
 * [State of Dave](../../../transcriptions/yt-ZljktwoQPRI.md) [https://www.youtube.com/watch?v=ZljktwoQPRI](https://www.youtube.com/watch?v=ZljktwoQPRI)

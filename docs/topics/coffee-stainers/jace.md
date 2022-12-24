@@ -10,6 +10,19 @@ date: Last Modified
 * [Juice Velvet](../../topics/coffee-stainers/jace/juice-velvet.md)
 * [Robo Jace](../../topics/coffee-stainers/jace/robo-jace.md)
 
+## December 21st, 2022 Video
+* [VAMONOS!](../../transcriptions/yt-nvBhG4URjMg,223.2,242.04.md) [https://youtube.com/embed/nvBhG4URjMg?autoplay=1&start=223&end=243](https://youtube.com/embed/nvBhG4URjMg?autoplay=1&start=223&end=243)
+* [Merry Christmas & Happy Holidays (Part 4)](../../transcriptions/yt-nvBhG4URjMg,282.6,328.190091.md) [https://youtube.com/embed/nvBhG4URjMg?autoplay=1&start=282&end=329](https://youtube.com/embed/nvBhG4URjMg?autoplay=1&start=282&end=329)
+* [Returning around January 10th, 2023](../../transcriptions/yt-nvBhG4URjMg,328.24,352.48.md) [https://youtube.com/embed/nvBhG4URjMg?autoplay=1&start=328&end=353](https://youtube.com/embed/nvBhG4URjMg?autoplay=1&start=328&end=353)
+
+## December 20th, 2022 Livestream
+* [Q&A: What are you looking forward to most for 2023?](../../transcriptions/yt-46uOtrt26gs.md) [https://www.youtube.com/watch?v=46uOtrt26gs](https://www.youtube.com/watch?v=46uOtrt26gs)
+* [Q&A: Have you always been a Community Manager?](../../transcriptions/yt-I3UveKt0Fwo.md) [https://www.youtube.com/watch?v=I3UveKt0Fwo](https://www.youtube.com/watch?v=I3UveKt0Fwo)
+* [Q&A: Do you allow clipping of Belts or Machines in your builds?](../../transcriptions/yt-OfcEvJbfSC0.md) [https://www.youtube.com/watch?v=OfcEvJbfSC0](https://www.youtube.com/watch?v=OfcEvJbfSC0)
+* [Q&A: How do you play the game, "Micro Factories" or "Mega Factories"?](../../transcriptions/yt-TfFl2q5hc6k.md) [https://www.youtube.com/watch?v=TfFl2q5hc6k](https://www.youtube.com/watch?v=TfFl2q5hc6k)
+* [Q&A: Do you like oatmeal?](../../transcriptions/yt-eeS7tYPn9iw.md) [https://www.youtube.com/watch?v=eeS7tYPn9iw](https://www.youtube.com/watch?v=eeS7tYPn9iw)
+* [Q&A: What are Coffee Stain staff's holiday plans, anything neat?](../../transcriptions/yt-m9FOHfsFg78.md) [https://www.youtube.com/watch?v=m9FOHfsFg78](https://www.youtube.com/watch?v=m9FOHfsFg78)
+
 ## December 13th, 2022 Livestream
 * [Q&A: Are you friends with the Valheim devs?](../../transcriptions/yt-2HtyjvekxwE.md) [https://www.youtube.com/watch?v=2HtyjvekxwE](https://www.youtube.com/watch?v=2HtyjvekxwE)
 * [Q&A: Are you excited for the Last of Us TV show next year?](../../transcriptions/yt-GxBTyBBmoRs.md) [https://www.youtube.com/watch?v=GxBTyBBmoRs](https://www.youtube.com/watch?v=GxBTyBBmoRs)

@@ -8,6 +8,14 @@ date: Last Modified
 * [Snutt Burger Time](../../topics/coffee-stainers/snutt/snutt-burger-time.md)
 * [Snutty Mays](../../topics/coffee-stainers/snutt/snutty-mays.md)
 
+## December 21st, 2022 Video
+* [Office Doggos: Eevee!](../../transcriptions/yt-nvBhG4URjMg,242.08,253.4.md) [https://youtube.com/embed/nvBhG4URjMg?autoplay=1&start=242&end=254](https://youtube.com/embed/nvBhG4URjMg?autoplay=1&start=242&end=254)
+* [Merry Christmas & Happy Holidays (Part 3)](../../transcriptions/yt-nvBhG4URjMg,253.44,282.56.md) [https://youtube.com/embed/nvBhG4URjMg?autoplay=1&start=253&end=283](https://youtube.com/embed/nvBhG4URjMg?autoplay=1&start=253&end=283)
+* [End Tag](../../transcriptions/yt-nvBhG4URjMg,359.92.md) [https://youtube.com/clip/UgkxtVmVrSNaBJtNr7CEMQpiMnyjZDJAcATC](https://youtube.com/clip/UgkxtVmVrSNaBJtNr7CEMQpiMnyjZDJAcATC)
+
+## December 20th, 2022 Livestream
+* [Q&A: Eevee?](../../transcriptions/yt-54w9ayi4YsU.md) [https://www.youtube.com/watch?v=54w9ayi4YsU](https://www.youtube.com/watch?v=54w9ayi4YsU)
+
 ## December 13th, 2022 Livestream
 * [Q&A: Was Snutt eaten by his clone?](../../transcriptions/yt-isdEFNVoEQc.md) [https://www.youtube.com/watch?v=isdEFNVoEQc](https://www.youtube.com/watch?v=isdEFNVoEQc)
 

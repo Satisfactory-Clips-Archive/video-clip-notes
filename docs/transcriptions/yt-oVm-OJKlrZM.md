@@ -10,7 +10,7 @@ topics:
 # [June 22nd, 2021 Livestream](../2021-06-22.md)
 ## Q&A: After the game fully releases will there be any Updates that add game-altering factory design?
 https://www.youtube.com/watch?v=oVm-OJKlrZM
-This question was possibly duplicated with a more recent answer: [November 8th, 2022 Livestream Q&A: Updates after 1.0?](./yt-eHFSHUqYSZc.md) [https://www.youtube.com/watch?v=eHFSHUqYSZc](https://www.youtube.com/watch?v=eHFSHUqYSZc)
+This question was possibly duplicated with a more recent answer: [December 20th, 2022 Livestream Q&A: Will there be new content after 1.0?](./yt-LQu4cSL5fbE.md) [https://www.youtube.com/watch?v=LQu4cSL5fbE](https://www.youtube.com/watch?v=LQu4cSL5fbE)
 
 
 ### Topics

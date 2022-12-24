@@ -8,7 +8,7 @@ topics:
 # [February 16th, 2021 Livestream](../2021-02-16.md)
 ## Q&A: What engine do you use & what programming language?
 https://www.youtube.com/watch?v=L-HM1a7oSK8
-This question was possibly duplicated with a more recent answer: [November 8th, 2022 Livestream Q&A: What language do you program the game in?](./yt-77akCeJawrg.md) [https://www.youtube.com/watch?v=77akCeJawrg](https://www.youtube.com/watch?v=77akCeJawrg)
+This question was possibly duplicated with a more recent answer: [December 20th, 2022 Livestream Q&A: What language do you use in programming?](./yt-Vkkf1mR_nF8.md) [https://www.youtube.com/watch?v=Vkkf1mR_nF8](https://www.youtube.com/watch?v=Vkkf1mR_nF8)
 
 
 ### Topics

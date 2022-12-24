@@ -14,6 +14,9 @@ date: Last Modified
 * [User Interface](../topics/technology/user-interface.md)
 * [Vulkan](../topics/technology/vulkan.md)
 
+## December 20th, 2022 Livestream
+* [Q&A: What language do you use in programming?](../transcriptions/yt-Vkkf1mR_nF8.md) [https://www.youtube.com/watch?v=Vkkf1mR_nF8](https://www.youtube.com/watch?v=Vkkf1mR_nF8)
+
 ## December 13th, 2022 Livestream
 * [Q&A: Recommended system requirements?](../transcriptions/yt-uSQM8Q3aFIw.md) [https://www.youtube.com/watch?v=uSQM8Q3aFIw](https://www.youtube.com/watch?v=uSQM8Q3aFIw)
 

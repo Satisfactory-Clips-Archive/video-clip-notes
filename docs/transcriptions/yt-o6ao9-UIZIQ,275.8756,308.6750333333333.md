@@ -21,7 +21,7 @@ https://youtube.com/clip/UgkxPMNT3hI6yP1QwEdl_6D1Vb8drM52CfKu
 * [April 8th, 2022 Video Jace Talk: Unreal Engine 4 (Part 8)](./yt-o6ao9-UIZIQ,1747.2455,1772.7042666666666.md) [https://youtube.com/clip/UgkxSRbgvL9m2ufZWW9I0HuXhd_g51x_AYBq](https://youtube.com/clip/UgkxSRbgvL9m2ufZWW9I0HuXhd_g51x_AYBq)
 </details>
 
-This question was possibly duplicated with a more recent answer: [November 8th, 2022 Livestream Q&A: What language do you program the game in?](./yt-77akCeJawrg.md) [https://www.youtube.com/watch?v=77akCeJawrg](https://www.youtube.com/watch?v=77akCeJawrg)
+This question was possibly duplicated with a more recent answer: [December 20th, 2022 Livestream Q&A: What language do you use in programming?](./yt-Vkkf1mR_nF8.md) [https://www.youtube.com/watch?v=Vkkf1mR_nF8](https://www.youtube.com/watch?v=Vkkf1mR_nF8)
 
 
 ### Topics

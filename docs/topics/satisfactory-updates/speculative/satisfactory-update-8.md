@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Speculative > Satisfactory Update 8
 
+## December 20th, 2022 Livestream
+* [Q&A: Can you tell us when we will hear about the next Update?](../../../transcriptions/yt-DqYCP5uIxRk.md) [https://www.youtube.com/watch?v=DqYCP5uIxRk](https://www.youtube.com/watch?v=DqYCP5uIxRk)
+* [Q&A: What can we look forward to seeing next?](../../../transcriptions/yt-YGUh1oKGqwg.md) [https://www.youtube.com/watch?v=YGUh1oKGqwg](https://www.youtube.com/watch?v=YGUh1oKGqwg)
+* [Q&A: Is there anything new coming that you can tell us?](../../../transcriptions/yt-oHHr-VYsx0k.md) [https://www.youtube.com/watch?v=oHHr-VYsx0k](https://www.youtube.com/watch?v=oHHr-VYsx0k)
+
 ## December 13th, 2022 Livestream
 * [Q&A: Are you thinking Q1 or Q2 for next Update?](../../../transcriptions/yt-4wfaweBjsqU.md) [https://www.youtube.com/watch?v=4wfaweBjsqU](https://www.youtube.com/watch?v=4wfaweBjsqU)
 * [Q&A: What's in the next Update?](../../../transcriptions/yt-sQgy1-YJGzg.md) [https://www.youtube.com/watch?v=sQgy1-YJGzg](https://www.youtube.com/watch?v=sQgy1-YJGzg)

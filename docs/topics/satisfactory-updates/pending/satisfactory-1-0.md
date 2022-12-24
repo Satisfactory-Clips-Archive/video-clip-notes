@@ -5,6 +5,12 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Pending](../../../topics/satisfactory-updates/pending.md) > Satisfactory 1.0
 
+## December 20th, 2022 Livestream
+* [Q&A: Is there a public 1.0 target date?](../../../transcriptions/yt-A392N1wOyd8.md) [https://www.youtube.com/watch?v=A392N1wOyd8](https://www.youtube.com/watch?v=A392N1wOyd8)
+* [Q&A: 1.0 any time soon?](../../../transcriptions/yt-GnRQZd-souo.md) [https://www.youtube.com/watch?v=GnRQZd-souo](https://www.youtube.com/watch?v=GnRQZd-souo)
+* [Q&A: Will there be new content after 1.0?](../../../transcriptions/yt-LQu4cSL5fbE.md) [https://www.youtube.com/watch?v=LQu4cSL5fbE](https://www.youtube.com/watch?v=LQu4cSL5fbE)
+* [Q&A: Are Recipes going to rebalanced before 1.0?](../../../transcriptions/yt-bp2O6nKvuUg.md) [https://www.youtube.com/watch?v=bp2O6nKvuUg](https://www.youtube.com/watch?v=bp2O6nKvuUg)
+
 ## December 13th, 2022 Livestream
 * [Q&A: When 1.0?](../../../transcriptions/yt-LxAm46qoEKY.md) [https://www.youtube.com/watch?v=LxAm46qoEKY](https://www.youtube.com/watch?v=LxAm46qoEKY)
 * [Q&A: Will Paradise Island stay?](../../../transcriptions/yt-PtRbXWl1tn4.md) [https://www.youtube.com/watch?v=PtRbXWl1tn4](https://www.youtube.com/watch?v=PtRbXWl1tn4)

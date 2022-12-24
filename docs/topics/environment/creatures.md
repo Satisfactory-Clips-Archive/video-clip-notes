@@ -10,6 +10,10 @@ date: Last Modified
 * [Non Flying Bird](../../topics/environment/creatures/non-flying-bird.md)
 * [Space Giraffe-Tick-Penguin-Whale Thing](../../topics/environment/creatures/space-giraffe-tick-penguin-whale-thing.md)
 
+## December 20th, 2022 Livestream
+* [Q&A: Any aquatic animals?](../../transcriptions/yt-73CjuOThYVg.md) [https://www.youtube.com/watch?v=73CjuOThYVg](https://www.youtube.com/watch?v=73CjuOThYVg)
+* [Q&A: Have you pondered about taming/breeding Creatures?](../../transcriptions/yt-NG5pYsl71RM.md) [https://www.youtube.com/watch?v=NG5pYsl71RM](https://www.youtube.com/watch?v=NG5pYsl71RM)
+
 ## December 13th, 2022 Livestream
 * [Q&A: Horse DLC, when?](../../transcriptions/yt-ui9y7vH9d8o.md) [https://www.youtube.com/watch?v=ui9y7vH9d8o](https://www.youtube.com/watch?v=ui9y7vH9d8o)
 * [Q&A: Overclockable Hover Pack?](../../transcriptions/yt-z05dP_huhnM.md) [https://www.youtube.com/watch?v=z05dP_huhnM](https://www.youtube.com/watch?v=z05dP_huhnM)

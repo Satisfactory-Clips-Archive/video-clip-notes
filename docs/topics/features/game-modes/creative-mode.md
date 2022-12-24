@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Game Modes](../../../topics/features/game-modes.md) > Creative Mode
 
+## December 20th, 2022 Livestream
+* [Q&A: Could there be some Creative Mode or cheats?](../../../transcriptions/yt-YdR7qt4X2lc.md) [https://www.youtube.com/watch?v=YdR7qt4X2lc](https://www.youtube.com/watch?v=YdR7qt4X2lc)
+
 ## October 25th, 2022 Livestream
 * [State of Dev](../../../transcriptions/yt-v_S1Do7Amfk.md) [https://www.youtube.com/watch?v=v_S1Do7Amfk](https://www.youtube.com/watch?v=v_S1Do7Amfk)
 

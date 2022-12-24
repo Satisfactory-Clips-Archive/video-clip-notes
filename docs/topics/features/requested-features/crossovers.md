@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Requested Features](../../../topics/features/requested-features.md) > Crossovers
 
+## December 20th, 2022 Livestream
+* [Q&A: Will you guys do anything else within the universe of Satisfactory?](../../../transcriptions/yt-5lP82eZn9ZM.md) [https://www.youtube.com/watch?v=5lP82eZn9ZM](https://www.youtube.com/watch?v=5lP82eZn9ZM)
+
 ## December 6th, 2022 Livestream
 * Q&A: Are there any plans for cooperations with other games? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7206&end=7243](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7206&end=7243)
 

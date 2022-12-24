@@ -10,6 +10,20 @@ date: Last Modified
 * [Pollution](../../topics/features/requested-features/pollution.md)
 * [Third-person View](../../topics/features/requested-features/third-person-view.md)
 
+## December 20th, 2022 Livestream
+* [Q&A: Any more aesthetic pieces in the works like plants or something?](../../transcriptions/yt-APm0PGhBjq4.md) [https://www.youtube.com/watch?v=APm0PGhBjq4](https://www.youtube.com/watch?v=APm0PGhBjq4)
+* [Q&A: Can we still build under the map in future?](../../transcriptions/yt-EopulYWK2G8.md) [https://www.youtube.com/watch?v=EopulYWK2G8](https://www.youtube.com/watch?v=EopulYWK2G8)
+* [Q&A: Better Blueprint snapping coming?](../../transcriptions/yt-JyMaZmsGu1c.md) [https://www.youtube.com/watch?v=JyMaZmsGu1c](https://www.youtube.com/watch?v=JyMaZmsGu1c)
+* [Q&A: Have you pondered about taming/breeding Creatures?](../../transcriptions/yt-NG5pYsl71RM.md) [https://www.youtube.com/watch?v=NG5pYsl71RM](https://www.youtube.com/watch?v=NG5pYsl71RM)
+* [Q&A: Has a Blueprint preview/undo function been looked at by the dev team?](../../transcriptions/yt-Nms9QQa7bcc.md) [https://www.youtube.com/watch?v=Nms9QQa7bcc](https://www.youtube.com/watch?v=Nms9QQa7bcc)
+* [Q&A: It would be nice for Blueprints to allow building outside before save so you can align things](../../transcriptions/yt-U9x9BqnT2TM.md) [https://www.youtube.com/watch?v=U9x9BqnT2TM](https://www.youtube.com/watch?v=U9x9BqnT2TM)
+* [Q&A: Why can't I use Pipeline support in Blueprint Designer?](../../transcriptions/yt-VAHFScYoaQY.md) [https://www.youtube.com/watch?v=VAHFScYoaQY](https://www.youtube.com/watch?v=VAHFScYoaQY)
+* [Q&A: Will we get CSS Staff as statues to build in the game?](../../transcriptions/yt-_t_XwMsiEN4.md) [https://www.youtube.com/watch?v=_t_XwMsiEN4](https://www.youtube.com/watch?v=_t_XwMsiEN4)
+* [Q&A: Is there a possibility to get first-person camera in Vehicles?](../../transcriptions/yt-qOl8-bJtOrY.md) [https://www.youtube.com/watch?v=qOl8-bJtOrY](https://www.youtube.com/watch?v=qOl8-bJtOrY)
+* [Q&A: Any plans for randomised Ore locations?](../../transcriptions/yt-tLvqeGb5HIA.md) [https://www.youtube.com/watch?v=tLvqeGb5HIA](https://www.youtube.com/watch?v=tLvqeGb5HIA)
+* [Q&A: Any thoughts from the devs on making it easier for us to build circles?](../../transcriptions/yt-wQG33TX_qZU.md) [https://www.youtube.com/watch?v=wQG33TX_qZU](https://www.youtube.com/watch?v=wQG33TX_qZU)
+* [Q&A: Will Overclocking Mk.3 Miners be addressed?](../../transcriptions/yt-zQp4XNB2bU4.md) [https://www.youtube.com/watch?v=zQp4XNB2bU4](https://www.youtube.com/watch?v=zQp4XNB2bU4)
+
 ## December 13th, 2022 Livestream
 * [Q&A: Crab Rave Easter Egg?](../../transcriptions/yt-KEypvNlLR-Q.md) [https://www.youtube.com/watch?v=KEypvNlLR-Q](https://www.youtube.com/watch?v=KEypvNlLR-Q)
 * [Q&A: Is there any plan to make roads and curves simpler?](../../transcriptions/yt-TqICAF20LV0.md) [https://www.youtube.com/watch?v=TqICAF20LV0](https://www.youtube.com/watch?v=TqICAF20LV0)

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > Overclocking & Underclocking
 
+## December 20th, 2022 Livestream
+* [Q&A: Will Overclocking Mk.3 Miners be addressed?](../../../transcriptions/yt-zQp4XNB2bU4.md) [https://www.youtube.com/watch?v=zQp4XNB2bU4](https://www.youtube.com/watch?v=zQp4XNB2bU4)
+
 ## December 13th, 2022 Livestream
 * [Q&A: Overclockable Hover Pack?](../../../transcriptions/yt-z05dP_huhnM.md) [https://www.youtube.com/watch?v=z05dP_huhnM](https://www.youtube.com/watch?v=z05dP_huhnM)
 

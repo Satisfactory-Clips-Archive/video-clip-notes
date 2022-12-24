@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Josh
 
+## December 20th, 2022 Livestream
+* [Q&A: When Let's Game It Out does a Satisfactory video, what are your thoughts?](../../transcriptions/yt-uIFUBWlT9gs.md) [https://www.youtube.com/watch?v=uIFUBWlT9gs](https://www.youtube.com/watch?v=uIFUBWlT9gs)
+
 ## September 27th, 2022 Livestream
 * [Q&A: How much do you learn from Let's Game It Out videos?](../../transcriptions/yt-kofdZkCiUaA.md) [https://www.youtube.com/watch?v=kofdZkCiUaA](https://www.youtube.com/watch?v=kofdZkCiUaA)
 

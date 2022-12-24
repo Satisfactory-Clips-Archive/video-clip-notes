@@ -8,7 +8,7 @@ topics:
 # [August 30th, 2022 Livestream](../2022-08-30.md)
 ## Q&A: Are you programming with visual, or c++ ?
 https://www.youtube.com/watch?v=8mRZfTHkKPU
-This question was possibly duplicated with a more recent answer: [November 8th, 2022 Livestream Q&A: What language do you program the game in?](./yt-77akCeJawrg.md) [https://www.youtube.com/watch?v=77akCeJawrg](https://www.youtube.com/watch?v=77akCeJawrg)
+This question was possibly duplicated with a more recent answer: [December 20th, 2022 Livestream Q&A: What language do you use in programming?](./yt-Vkkf1mR_nF8.md) [https://www.youtube.com/watch?v=Vkkf1mR_nF8](https://www.youtube.com/watch?v=Vkkf1mR_nF8)
 
 
 ### Topics

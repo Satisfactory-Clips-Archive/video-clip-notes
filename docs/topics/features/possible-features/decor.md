@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Possible Features](../../../topics/features/possible-features.md) > Decor
 
+## December 20th, 2022 Livestream
+* [Q&A: Any more aesthetic pieces in the works like plants or something?](../../../transcriptions/yt-APm0PGhBjq4.md) [https://www.youtube.com/watch?v=APm0PGhBjq4](https://www.youtube.com/watch?v=APm0PGhBjq4)
+* [Q&A: Will we get CSS Staff as statues to build in the game?](../../../transcriptions/yt-_t_XwMsiEN4.md) [https://www.youtube.com/watch?v=_t_XwMsiEN4](https://www.youtube.com/watch?v=_t_XwMsiEN4)
+
 ## December 6th, 2022 Livestream
 * Q&A: Can we have table & chairs? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6630&end=6653](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6630&end=6653)
 * Q&A: Will there be ability to decorate the room in the HUB, it feels bare? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7408&end=7438](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7408&end=7438)

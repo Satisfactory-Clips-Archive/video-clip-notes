@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Features](../../topics/features.md) > Blueprints
 
+## December 20th, 2022 Livestream
+* [Q&A: Better Blueprint snapping coming?](../../transcriptions/yt-JyMaZmsGu1c.md) [https://www.youtube.com/watch?v=JyMaZmsGu1c](https://www.youtube.com/watch?v=JyMaZmsGu1c)
+* [Q&A: Has a Blueprint preview/undo function been looked at by the dev team?](../../transcriptions/yt-Nms9QQa7bcc.md) [https://www.youtube.com/watch?v=Nms9QQa7bcc](https://www.youtube.com/watch?v=Nms9QQa7bcc)
+
 ## December 13th, 2022 Livestream
 * [Q&A: Blueprint preview before placing or an undo function?](../../transcriptions/yt-fliouDhnx8c.md) [https://www.youtube.com/watch?v=fliouDhnx8c](https://www.youtube.com/watch?v=fliouDhnx8c)
 

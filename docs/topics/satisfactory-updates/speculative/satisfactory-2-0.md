@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Speculative > Satisfactory 2.0
 
+## December 20th, 2022 Livestream
+* [Q&A: Will you guys do anything else within the universe of Satisfactory?](../../../transcriptions/yt-5lP82eZn9ZM.md) [https://www.youtube.com/watch?v=5lP82eZn9ZM](https://www.youtube.com/watch?v=5lP82eZn9ZM)
+
 ## July 5th, 2022 Livestream
 * Q&A: Any plans for a sequel? [https://www.youtube.com/watch?v=N_PROqMFWaY](https://www.youtube.com/watch?v=N_PROqMFWaY)
 * [Q&A: How do you think the Satisfactory trilogy will end?](../../../transcriptions/yt--mQ7p9GwJ7k.md) [https://www.youtube.com/watch?v=-mQ7p9GwJ7k](https://www.youtube.com/watch?v=-mQ7p9GwJ7k)

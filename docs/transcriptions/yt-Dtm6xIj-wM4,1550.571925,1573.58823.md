@@ -9,7 +9,7 @@ topics:
 # [February 6th, 2019 Livestream](../2019-02-06.md)
 ## Q&A: Are there going to be free updates after the game is released, or is it all going to be DLCs?
 https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=1550&end=1574
-This question was possibly duplicated with a more recent answer: [November 8th, 2022 Livestream Q&A: Updates after 1.0?](./yt-eHFSHUqYSZc.md) [https://www.youtube.com/watch?v=eHFSHUqYSZc](https://www.youtube.com/watch?v=eHFSHUqYSZc)
+This question was possibly duplicated with a more recent answer: [December 20th, 2022 Livestream Q&A: Will there be new content after 1.0?](./yt-LQu4cSL5fbE.md) [https://www.youtube.com/watch?v=LQu4cSL5fbE](https://www.youtube.com/watch?v=LQu4cSL5fbE)
 
 
 ### Topics

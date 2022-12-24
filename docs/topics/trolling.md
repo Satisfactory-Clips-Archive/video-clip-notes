@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Trolling
 
+## December 20th, 2022 Livestream
+* [Q&A: What does the "AF" in "SatisfactoryAF" stand for?](../transcriptions/yt-Dx5KWqOnnB4.md) [https://www.youtube.com/watch?v=Dx5KWqOnnB4](https://www.youtube.com/watch?v=Dx5KWqOnnB4)
+
 ## November 29th, 2022 Livestream
 * [Q&A: Is Goat Sim and Satisfactory in the same universe?](../transcriptions/yt-6iwPrW0Vfr0.md) [https://www.youtube.com/watch?v=6iwPrW0Vfr0](https://www.youtube.com/watch?v=6iwPrW0Vfr0)
 

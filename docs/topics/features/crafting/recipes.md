@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Crafting](../../../topics/features/crafting.md) > Recipes
 * [Alternate Recipes](../../../topics/features/crafting/recipes/alternate-recipes.md)
 
+## December 20th, 2022 Livestream
+* [Q&A: Are Recipes going to rebalanced before 1.0?](../../../transcriptions/yt-bp2O6nKvuUg.md) [https://www.youtube.com/watch?v=bp2O6nKvuUg](https://www.youtube.com/watch?v=bp2O6nKvuUg)
+
 ## November 22nd, 2022 Livestream
 * [Q&A: Are Recipe balance changes coming before 1.0?](../../../transcriptions/yt-TJd56wLdNBc.md) [https://www.youtube.com/watch?v=TJd56wLdNBc](https://www.youtube.com/watch?v=TJd56wLdNBc)
 

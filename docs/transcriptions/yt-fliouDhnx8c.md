@@ -10,12 +10,7 @@ topics:
 # [December 13th, 2022 Livestream](../2022-12-13.md)
 ## Q&A: Blueprint preview before placing or an undo function?
 https://www.youtube.com/watch?v=fliouDhnx8c
-<details>
-<summary>This question may have been asked previously at least 2 other times, as recently as December 2022 and as early as November 2022.</summary>
-
-* December 6th, 2022 Livestream Q&A: Is placing a Blueprint easy to undo? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6314&end=6409](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6314&end=6409)
-* [November 22nd, 2022 Livestream Q&A: Will there be a feature to delete a whole Blueprint all at once?](./yt-vqb8dmFFFQQ.md) [https://www.youtube.com/watch?v=vqb8dmFFFQQ](https://www.youtube.com/watch?v=vqb8dmFFFQQ)
-</details>
+This question was possibly duplicated with a more recent answer: [December 20th, 2022 Livestream Q&A: Has a Blueprint preview/undo function been looked at by the dev team?](./yt-Nms9QQa7bcc.md) [https://www.youtube.com/watch?v=Nms9QQa7bcc](https://www.youtube.com/watch?v=Nms9QQa7bcc)
 
 
 ### Topics
