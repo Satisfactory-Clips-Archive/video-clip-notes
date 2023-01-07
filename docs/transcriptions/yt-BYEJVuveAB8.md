@@ -1,5 +1,5 @@
 ---
-title: "November 29th, 2022 Livestream 45 Q A  Do you and Snutt interact with the programmers on a regular basis"
+title: "November 29th, 2022 Livestream Q&A  Do you and Snutt interact with the programmers on a regular basis?"
 date: "2022-11-29"
 layout: transcript
 topics:
@@ -8,7 +8,7 @@ topics:
     - "embracer-group/coffee-stain-holding/coffee-stain-studios"
 ---
 # [November 29th, 2022 Livestream](../2022-11-29.md)
-## 45 Q A  Do you and Snutt interact with the programmers on a regular basis
+## Q&A  Do you and Snutt interact with the programmers on a regular basis?
 https://www.youtube.com/watch?v=BYEJVuveAB8
 
 ### Topics

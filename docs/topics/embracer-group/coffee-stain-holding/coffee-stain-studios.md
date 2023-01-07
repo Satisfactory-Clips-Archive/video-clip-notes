@@ -33,7 +33,7 @@ date: Last Modified
 
 ## November 29th, 2022 Livestream
 * [Q&A: How many people are on the Satisfactory dev team?](../../../transcriptions/yt-464B8bSp-kY.md) [https://www.youtube.com/watch?v=464B8bSp-kY](https://www.youtube.com/watch?v=464B8bSp-kY)
-* [45 Q A  Do you and Snutt interact with the programmers on a regular basis](../../../transcriptions/yt-BYEJVuveAB8.md) [https://www.youtube.com/watch?v=BYEJVuveAB8](https://www.youtube.com/watch?v=BYEJVuveAB8)
+* [Q&A  Do you and Snutt interact with the programmers on a regular basis?](../../../transcriptions/yt-BYEJVuveAB8.md) [https://www.youtube.com/watch?v=BYEJVuveAB8](https://www.youtube.com/watch?v=BYEJVuveAB8)
 
 ## November 11th, 2022 Video
 * [Community point of view vs. Coffee Stain Studio's point of view](../../../transcriptions/yt-9KBQyjy-a6g,123.89043333333333,145.2451.md) [https://youtube.com/clip/UgkxDwLcA4exgGBp9J3v2A3mrfqRPhibdqg0](https://youtube.com/clip/UgkxDwLcA4exgGBp9J3v2A3mrfqRPhibdqg0)

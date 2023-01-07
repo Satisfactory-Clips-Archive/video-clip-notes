@@ -46,7 +46,7 @@ date: Last Modified
 ## November 29th, 2022 Livestream
 * [Q&A: Toilet flush?](../../transcriptions/yt-bWLzAoRcw84.md) [https://www.youtube.com/watch?v=bWLzAoRcw84](https://www.youtube.com/watch?v=bWLzAoRcw84)
 * [Q&A: Fix the desyncs on Dedicated Servers?](../../transcriptions/yt-pLh7VnISF3U.md) [https://www.youtube.com/watch?v=pLh7VnISF3U](https://www.youtube.com/watch?v=pLh7VnISF3U)
-* [45 Q A  Do you and Snutt interact with the programmers on a regular basis](../../transcriptions/yt-BYEJVuveAB8.md) [https://www.youtube.com/watch?v=BYEJVuveAB8](https://www.youtube.com/watch?v=BYEJVuveAB8)
+* [Q&A  Do you and Snutt interact with the programmers on a regular basis?](../../transcriptions/yt-BYEJVuveAB8.md) [https://www.youtube.com/watch?v=BYEJVuveAB8](https://www.youtube.com/watch?v=BYEJVuveAB8)
 * [Q&A: Pioneer body pillow, when?](../../transcriptions/yt-vgNlu3il63U.md) [https://www.youtube.com/watch?v=vgNlu3il63U](https://www.youtube.com/watch?v=vgNlu3il63U)
 
 ## November 22nd, 2022 Livestream
