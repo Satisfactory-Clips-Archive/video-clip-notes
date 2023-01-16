@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Resources](../../../topics/environment/resources.md) > Mercer Sphere
 
+## January 10th, 2023 Livestream
+* [Q&A: Will we get a deeper Story in Satisfactory relating to the Somersloop/Mercer Sphere dialogue?](../../../transcriptions/yt-xIFwkhG1r-I.md) [https://www.youtube.com/watch?v=xIFwkhG1r-I](https://www.youtube.com/watch?v=xIFwkhG1r-I)
+
 ## December 13th, 2022 Livestream
 * [Q&A: How about S.A.M. Ore and those WIP things?](../../../transcriptions/yt-ydIA6UbDqr8.md) [https://www.youtube.com/watch?v=ydIA6UbDqr8](https://www.youtube.com/watch?v=ydIA6UbDqr8)
 

@@ -28,6 +28,10 @@ date: Last Modified
 * [The HUB](../../topics/features/buildings/the-hub.md)
 * [Water Extractor](../../topics/features/buildings/water-extractor.md)
 
+## January 10th, 2023 Livestream
+* [Q&A: What are the chances of having a Train Station with the ability to transport Trucks / Tractors?](../../transcriptions/yt-bTxVGHnNpLU.md) [https://www.youtube.com/watch?v=bTxVGHnNpLU](https://www.youtube.com/watch?v=bTxVGHnNpLU)
+* [Q&A: Railway turntable might be handy for Trains?](../../transcriptions/yt-qZP-PpkUf88.md) [https://www.youtube.com/watch?v=qZP-PpkUf88](https://www.youtube.com/watch?v=qZP-PpkUf88)
+
 ## December 20th, 2022 Livestream
 * [Q&A: How do you play the game, "Micro Factories" or "Mega Factories"?](../../transcriptions/yt-TfFl2q5hc6k.md) [https://www.youtube.com/watch?v=TfFl2q5hc6k](https://www.youtube.com/watch?v=TfFl2q5hc6k)
 

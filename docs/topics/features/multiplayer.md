@@ -7,6 +7,9 @@ date: Last Modified
 * [Crossplay](../../topics/features/multiplayer/crossplay.md)
 * [Dedicated Servers](../../topics/features/multiplayer/dedicated-servers.md)
 
+## January 10th, 2023 Livestream
+* [Q&A: Is it possible to have Multiplayer without the session code?](../../transcriptions/yt-3303UhvEJ3I.md) [https://www.youtube.com/watch?v=3303UhvEJ3I](https://www.youtube.com/watch?v=3303UhvEJ3I)
+
 ## November 22nd, 2022 Livestream
 * [State of Dev](../../transcriptions/yt-ifcJGbImr10.md) [https://www.youtube.com/watch?v=ifcJGbImr10](https://www.youtube.com/watch?v=ifcJGbImr10)
 

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Released > Satisfactory Update 7
 
+## January 10th, 2023 Livestream
+* [Q&A: Fix for Update 7 crash when deleting things / landing near Creatures that are spawning?](../../../transcriptions/yt-lrDZ83dxHlU.md) [https://www.youtube.com/watch?v=lrDZ83dxHlU](https://www.youtube.com/watch?v=lrDZ83dxHlU)
+
 ## December 20th, 2022 Livestream
 * [Q&A: What was the point of the decision to make Blueprints 4x4 only?](../../../transcriptions/yt-jl0bDeSq5aM.md) [https://www.youtube.com/watch?v=jl0bDeSq5aM](https://www.youtube.com/watch?v=jl0bDeSq5aM)
 

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Unplanned Features](../../../topics/features/unplanned-features.md) > VR
 
+## January 10th, 2023 Livestream
+* [Q&A: Are there any plans to add VR in Satisfactory?](../../../transcriptions/yt-IEF1X5YhgJY.md) [https://www.youtube.com/watch?v=IEF1X5YhgJY](https://www.youtube.com/watch?v=IEF1X5YhgJY)
+
 ## July 5th, 2022 Livestream
 * [Q&A: Can the game support VR later?](../../../transcriptions/yt-A7toMdMe1sc.md) [https://www.youtube.com/watch?v=A7toMdMe1sc](https://www.youtube.com/watch?v=A7toMdMe1sc)
 

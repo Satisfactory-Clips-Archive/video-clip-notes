@@ -10,7 +10,7 @@ topics:
 # [November 29th, 2022 Livestream](../2022-11-29.md)
 ## Q&A: The World President commanded me to harvest alien artefacts. Will there be more lore on them?
 https://www.youtube.com/watch?v=GPH14tfZa9o
-This question was possibly duplicated with a more recent answer: December 6th, 2022 Livestream Q&A: Will artefacts affect gameplay? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7359&end=7371](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7359&end=7371)
+This question was possibly duplicated with a more recent answer: [January 10th, 2023 Livestream Q&A: Will we get a deeper Story in Satisfactory relating to the Somersloop/Mercer Sphere dialogue?](./yt-xIFwkhG1r-I.md) [https://www.youtube.com/watch?v=xIFwkhG1r-I](https://www.youtube.com/watch?v=xIFwkhG1r-I)
 
 
 ### Topics

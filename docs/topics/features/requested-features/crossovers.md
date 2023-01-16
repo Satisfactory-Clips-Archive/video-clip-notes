@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Requested Features](../../../topics/features/requested-features.md) > Crossovers
 
+## January 10th, 2023 Livestream
+* [Q&A: Can we get Lizard Doggo as playable skins in Goat Simulator 3?](../../../transcriptions/yt-PGNDAXjy0ug.md) [https://www.youtube.com/watch?v=PGNDAXjy0ug](https://www.youtube.com/watch?v=PGNDAXjy0ug)
+
 ## December 20th, 2022 Livestream
 * [Q&A: Will you guys do anything else within the universe of Satisfactory?](../../../transcriptions/yt-5lP82eZn9ZM.md) [https://www.youtube.com/watch?v=5lP82eZn9ZM](https://www.youtube.com/watch?v=5lP82eZn9ZM)
 

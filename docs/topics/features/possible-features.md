@@ -13,6 +13,9 @@ date: Last Modified
 * [Third-Party Service Integration](../../topics/features/possible-features/third-party-service-integration.md)
 * [Underground Biome](../../topics/features/possible-features/underground-biome.md)
 
+## January 10th, 2023 Livestream
+* [Q&A: Have there been difficulties for having your game available on different platforms?](../../transcriptions/yt-OQI_L-M2vEg.md) [https://www.youtube.com/watch?v=OQI_L-M2vEg](https://www.youtube.com/watch?v=OQI_L-M2vEg)
+
 ## December 6th, 2022 Livestream
 * Q&A: More variety in fauna? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6855&end=6880](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6855&end=6880)
 

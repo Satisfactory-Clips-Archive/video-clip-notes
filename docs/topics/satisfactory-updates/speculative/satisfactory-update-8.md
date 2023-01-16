@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Speculative > Satisfactory Update 8
 
+## January 10th, 2023 Livestream
+* [Q&A: Is there any exciting things that you can talk about?](../../../transcriptions/yt-sZWTb7TbIKQ.md) [https://www.youtube.com/watch?v=sZWTb7TbIKQ](https://www.youtube.com/watch?v=sZWTb7TbIKQ)
+* [Q&A: Describe the next Update in a single word?](../../../transcriptions/yt-v6eqwt8LTkA.md) [https://www.youtube.com/watch?v=v6eqwt8LTkA](https://www.youtube.com/watch?v=v6eqwt8LTkA)
+
 ## December 20th, 2022 Livestream
 * [Q&A: Can you tell us when we will hear about the next Update?](../../../transcriptions/yt-DqYCP5uIxRk.md) [https://www.youtube.com/watch?v=DqYCP5uIxRk](https://www.youtube.com/watch?v=DqYCP5uIxRk)
 * [Q&A: What can we look forward to seeing next?](../../../transcriptions/yt-YGUh1oKGqwg.md) [https://www.youtube.com/watch?v=YGUh1oKGqwg](https://www.youtube.com/watch?v=YGUh1oKGqwg)

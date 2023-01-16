@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Released > Satisfactory Update 6
 
+## January 10th, 2023 Livestream
+* [Q&A: Any plans to make Exploration more rewarding?](../../../transcriptions/yt-F0PPHXzy33Q.md) [https://www.youtube.com/watch?v=F0PPHXzy33Q](https://www.youtube.com/watch?v=F0PPHXzy33Q)
+
 ## October 25th, 2022 Livestream
 * [Q&A: Some trees are impossible to delete?](../../../transcriptions/yt-37IkuLKTgkc.md) [https://www.youtube.com/watch?v=37IkuLKTgkc](https://www.youtube.com/watch?v=37IkuLKTgkc)
 * [Q&A: Any more patches planned for Update 6 before Update 7?](../../../transcriptions/yt-_DGwfxdYyqM.md) [https://www.youtube.com/watch?v=_DGwfxdYyqM](https://www.youtube.com/watch?v=_DGwfxdYyqM)

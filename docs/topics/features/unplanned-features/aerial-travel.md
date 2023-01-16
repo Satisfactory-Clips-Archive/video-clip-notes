@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Unplanned Features](../../../topics/features/unplanned-features.md) > Aerial Travel
 
+## January 10th, 2023 Livestream
+* [Q&A: How do you feel about adding a VTOL Jet to the game?](../../../transcriptions/yt-XlV8HEygHE0.md) [https://www.youtube.com/watch?v=XlV8HEygHE0](https://www.youtube.com/watch?v=XlV8HEygHE0)
+
 ## December 13th, 2022 Livestream
 * [Q&A: Do you plan to add aerial vehicles?](../../../transcriptions/yt--HA3h7bfxnA.md) [https://www.youtube.com/watch?v=-HA3h7bfxnA](https://www.youtube.com/watch?v=-HA3h7bfxnA)
 

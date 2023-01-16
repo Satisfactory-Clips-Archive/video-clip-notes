@@ -5,6 +5,13 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Embracer Group](../../../topics/embracer-group.md) > Coffee Stain Holding > Coffee Stain Studios
 
+## January 10th, 2023 Livestream
+* [Q&A: How large is the team working on Satisfactory?](../../../transcriptions/yt--z8ZeQDRv4s.md) [https://www.youtube.com/watch?v=-z8ZeQDRv4s](https://www.youtube.com/watch?v=-z8ZeQDRv4s)
+* [Q&A: How do I get a job at Coffee Stain as a game dev?](../../../transcriptions/yt-UBH_l8Df3fU.md) [https://www.youtube.com/watch?v=UBH_l8Df3fU](https://www.youtube.com/watch?v=UBH_l8Df3fU)
+* [Q&A: Have you considered making a hardcore survival game?](../../../transcriptions/yt-f2SM67JBWUc.md) [https://www.youtube.com/watch?v=f2SM67JBWUc](https://www.youtube.com/watch?v=f2SM67JBWUc)
+* [Q&A: Do you think Satisfactory's the biggest project at Coffee Stain?](../../../transcriptions/yt-q_e3OYME8pk.md) [https://www.youtube.com/watch?v=q_e3OYME8pk](https://www.youtube.com/watch?v=q_e3OYME8pk)
+* [Q&A: Does CSS intentionally not want to make the game very complex?](../../../transcriptions/yt-xo7qtXqReh4.md) [https://www.youtube.com/watch?v=xo7qtXqReh4](https://www.youtube.com/watch?v=xo7qtXqReh4)
+
 ## December 21st, 2022 Video
 * [Merry Christmas & Happy Holidays (Part 1)](../../../transcriptions/yt-nvBhG4URjMg,,99.24.md) [https://youtube.com/embed/nvBhG4URjMg?autoplay=1&start=0&end=100](https://youtube.com/embed/nvBhG4URjMg?autoplay=1&start=0&end=100)
 * [Interlude](../../../transcriptions/yt-nvBhG4URjMg,99.28,158.08.md) [https://youtube.com/embed/nvBhG4URjMg?autoplay=1&start=99&end=159](https://youtube.com/embed/nvBhG4URjMg?autoplay=1&start=99&end=159)

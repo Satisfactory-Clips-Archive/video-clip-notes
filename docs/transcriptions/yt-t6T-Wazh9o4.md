@@ -8,6 +8,8 @@ topics:
 # [November 17th, 2020 Livestream](../2020-11-17.md)
 ## Q&A: Is Lead being added?
 https://www.youtube.com/watch?v=t6T-Wazh9o4
+This question was possibly duplicated with a more recent answer: [January 10th, 2023 Livestream Q&A: Add Lead for lead-infused containers as protection against radiation?](./yt-wR8XyOmBNgk.md) [https://www.youtube.com/watch?v=wR8XyOmBNgk](https://www.youtube.com/watch?v=wR8XyOmBNgk)
+
 
 ### Topics
 * [Environment > Resources](../topics/environment/resources.md)

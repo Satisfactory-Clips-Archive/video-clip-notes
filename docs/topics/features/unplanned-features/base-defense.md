@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Unplanned Features](../../../topics/features/unplanned-features.md) > Base Defense
 
+## January 10th, 2023 Livestream
+* [Community FYI: A Satisfactory-style Tower Defense game would be sick](../../../transcriptions/yt-E_lRyinYhQA.md) [https://www.youtube.com/watch?v=E_lRyinYhQA](https://www.youtube.com/watch?v=E_lRyinYhQA)
+
 ## November 22nd, 2022 Livestream
 * [Q&A: You said we're never getting Pipes yet we got Pipes. When are we getting Base Defense?](../../../transcriptions/yt-nYL4xlSiPpU.md) [https://www.youtube.com/watch?v=nYL4xlSiPpU](https://www.youtube.com/watch?v=nYL4xlSiPpU)
 

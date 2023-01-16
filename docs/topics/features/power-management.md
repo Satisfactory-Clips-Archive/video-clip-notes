@@ -10,6 +10,9 @@ date: Last Modified
 * [Power Storage](../../topics/features/power-management/power-storage.md)
 * [Power Switch](../../topics/features/power-management/power-switch.md)
 
+## January 10th, 2023 Livestream
+* [Q&A: What about a Rail piece with a Power connector?](../../transcriptions/yt-tgZILwzuFd0.md) [https://www.youtube.com/watch?v=tgZILwzuFd0](https://www.youtube.com/watch?v=tgZILwzuFd0)
+
 ## December 6th, 2022 Livestream
 * [Intro](../../transcriptions/yt-ST6V-a4u8Qs,303.30300643476045,344.87787398346353.md) [https://youtube.com/clip/UgkxXjTZ9OmbluddUxl8F6H28SUfiQ2zAMh8](https://youtube.com/clip/UgkxXjTZ9OmbluddUxl8F6H28SUfiQ2zAMh8)
 * [Overclocking exponent change](../../transcriptions/yt-ST6V-a4u8Qs,344.8945573171508,386.41937486479213.md) [https://youtube.com/clip/UgkxdyoSQhq-eoc7-5X4b0bKZ6CbMyWKs6ON](https://youtube.com/clip/UgkxdyoSQhq-eoc7-5X4b0bKZ6CbMyWKs6ON)

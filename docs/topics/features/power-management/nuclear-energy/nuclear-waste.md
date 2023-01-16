@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > [Power Management](../../../../topics/features/power-management.md) > [Nuclear Energy](../../../../topics/features/power-management/nuclear-energy.md) > Nuclear Waste
 
+## January 10th, 2023 Livestream
+* [Q&A: Add Lead for lead-infused containers as protection against radiation?](../../../../transcriptions/yt-wR8XyOmBNgk.md) [https://www.youtube.com/watch?v=wR8XyOmBNgk](https://www.youtube.com/watch?v=wR8XyOmBNgk)
+
 ## August 23rd, 2022 Livestream
 * [Q&A: Can I just sell my Nuclear Waste?](../../../../transcriptions/yt-sn8IjFnUwoA.md) [https://www.youtube.com/watch?v=sn8IjFnUwoA](https://www.youtube.com/watch?v=sn8IjFnUwoA)
 

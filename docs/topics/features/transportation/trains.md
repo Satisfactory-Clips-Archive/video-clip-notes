@@ -6,6 +6,11 @@ date: Last Modified
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > Transportation > Trains
 * [Train Signals](../../../topics/features/transportation/trains/train-signals.md)
 
+## January 10th, 2023 Livestream
+* [Q&A: What are the chances of having a Train Station with the ability to transport Trucks / Tractors?](../../../transcriptions/yt-bTxVGHnNpLU.md) [https://www.youtube.com/watch?v=bTxVGHnNpLU](https://www.youtube.com/watch?v=bTxVGHnNpLU)
+* [Q&A: Railway turntable might be handy for Trains?](../../../transcriptions/yt-qZP-PpkUf88.md) [https://www.youtube.com/watch?v=qZP-PpkUf88](https://www.youtube.com/watch?v=qZP-PpkUf88)
+* [Q&A: What about a Rail piece with a Power connector?](../../../transcriptions/yt-tgZILwzuFd0.md) [https://www.youtube.com/watch?v=tgZILwzuFd0](https://www.youtube.com/watch?v=tgZILwzuFd0)
+
 ## November 22nd, 2022 Livestream
 * [Q&A: Is there a way to turn off or on Train headlights?](../../../transcriptions/yt-7FcFaZrlv2c.md) [https://www.youtube.com/watch?v=7FcFaZrlv2c](https://www.youtube.com/watch?v=7FcFaZrlv2c)
 

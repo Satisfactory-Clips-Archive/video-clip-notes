@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Features](../../topics/features.md) > Pioneer
 
+## January 10th, 2023 Livestream
+* [Q&A: Has anything been discussed about elevators for personal or Vehicle use?](../../transcriptions/yt-_5jjHydWeyA.md) [https://www.youtube.com/watch?v=_5jjHydWeyA](https://www.youtube.com/watch?v=_5jjHydWeyA)
+
 ## November 29th, 2022 Livestream
 * [Q&A: Engineer face-reveal, when?](../../transcriptions/yt-XeJ4XOsu8KI.md) [https://www.youtube.com/watch?v=XeJ4XOsu8KI](https://www.youtube.com/watch?v=XeJ4XOsu8KI)
 * [Q&A: Pioneer body pillow, when?](../../transcriptions/yt-vgNlu3il63U.md) [https://www.youtube.com/watch?v=vgNlu3il63U](https://www.youtube.com/watch?v=vgNlu3il63U)

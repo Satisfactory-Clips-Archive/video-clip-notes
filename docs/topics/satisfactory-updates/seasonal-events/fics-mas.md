@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Seasonal Events](../../../topics/satisfactory-updates/seasonal-events.md) > FICS⁕MAS
 
+## January 10th, 2023 Livestream
+* [Q&A: Why no Snow at FICSMAS?](../../../transcriptions/yt-57MNnpD8azY.md) [https://www.youtube.com/watch?v=57MNnpD8azY](https://www.youtube.com/watch?v=57MNnpD8azY)
+
 ## December 13th, 2022 Livestream
 * [Q&A: Could you add a tea alternative to the Coffee Mug?](../../../transcriptions/yt--aoKEMcw0_o.md) [https://www.youtube.com/watch?v=-aoKEMcw0_o](https://www.youtube.com/watch?v=-aoKEMcw0_o)
 

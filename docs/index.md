@@ -3,6 +3,10 @@ title: Browse
 date: Last Modified
 layout: index
 ---
+# 2023
+## January
+* [January 10th](2023-01-10.md)
+
 # 2022
 ## December
 * [December 21st](2022-12-21.md)

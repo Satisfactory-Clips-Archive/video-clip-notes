@@ -12,6 +12,9 @@ date: Last Modified
 * [Weather Systems](../topics/environment/weather-systems.md)
 * [World Map](../topics/environment/world-map.md)
 
+## January 10th, 2023 Livestream
+* [Q&A: Any plans to make Exploration more rewarding?](../transcriptions/yt-F0PPHXzy33Q.md) [https://www.youtube.com/watch?v=F0PPHXzy33Q](https://www.youtube.com/watch?v=F0PPHXzy33Q)
+
 ## December 13th, 2022 Livestream
 * [Q&A: Is there still no way to remove those stupid gas rocks?](../transcriptions/yt-wzI7K41TYLg.md) [https://www.youtube.com/watch?v=wzI7K41TYLg](https://www.youtube.com/watch?v=wzI7K41TYLg)
 

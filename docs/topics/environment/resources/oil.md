@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Resources](../../../topics/environment/resources.md) > Oil
 
+## January 10th, 2023 Livestream
+* [Q&A: Why do I need 207.7777 Rubber and 108.88888 Plastic for 10 Nuclear Pasta?](../../../transcriptions/yt-U1lk-yv_ztY.md) [https://www.youtube.com/watch?v=U1lk-yv_ztY](https://www.youtube.com/watch?v=U1lk-yv_ztY)
+
 ## August 23rd, 2022 Livestream
 * [Q&A: Are Spire Coast Oil nodes fixed in place now?](../../../transcriptions/yt-Qki7s83KDUM.md) [https://www.youtube.com/watch?v=Qki7s83KDUM](https://www.youtube.com/watch?v=Qki7s83KDUM)
 

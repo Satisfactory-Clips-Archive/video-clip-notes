@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildables](../../../topics/features/buildables.md) > Storage Containers
 
+## January 10th, 2023 Livestream
+* [Q&A: Add Lead for lead-infused containers as protection against radiation?](../../../transcriptions/yt-wR8XyOmBNgk.md) [https://www.youtube.com/watch?v=wR8XyOmBNgk](https://www.youtube.com/watch?v=wR8XyOmBNgk)
+
 ## September 13th, 2022 Livestream
 * [Q&A: Limit max storage?](../../../transcriptions/yt--gBrfcaR1Qs.md) [https://www.youtube.com/watch?v=-gBrfcaR1Qs](https://www.youtube.com/watch?v=-gBrfcaR1Qs)
 

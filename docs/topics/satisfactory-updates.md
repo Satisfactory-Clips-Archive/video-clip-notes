@@ -18,6 +18,11 @@ date: Last Modified
 * [Teasers & Trailers](../topics/satisfactory-updates/teasers-and-trailers.md)
 * [World Update](../topics/satisfactory-updates/world-update.md)
 
+## January 10th, 2023 Livestream
+* [Q&A: How hard is it to keep a straight face when people ask you about things you can't talk about?](../transcriptions/yt-9AGd0r7m6No.md) [https://www.youtube.com/watch?v=9AGd0r7m6No](https://www.youtube.com/watch?v=9AGd0r7m6No)
+* [Q&A: Any plans to make Exploration more rewarding?](../transcriptions/yt-F0PPHXzy33Q.md) [https://www.youtube.com/watch?v=F0PPHXzy33Q](https://www.youtube.com/watch?v=F0PPHXzy33Q)
+* [Q&A: Have there been difficulties for having your game available on different platforms?](../transcriptions/yt-OQI_L-M2vEg.md) [https://www.youtube.com/watch?v=OQI_L-M2vEg](https://www.youtube.com/watch?v=OQI_L-M2vEg)
+
 ## December 20th, 2022 Livestream
 * [Q&A: Is there anything new coming that you can tell us?](../transcriptions/yt-oHHr-VYsx0k.md) [https://www.youtube.com/watch?v=oHHr-VYsx0k](https://www.youtube.com/watch?v=oHHr-VYsx0k)
 

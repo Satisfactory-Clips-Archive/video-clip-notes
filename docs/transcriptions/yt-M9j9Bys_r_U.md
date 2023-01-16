@@ -9,7 +9,7 @@ topics:
 # [November 24th, 2020 Livestream](../2020-11-24.md)
 ## Q&A: Does the Engine update include the waterfall graphics update?
 https://www.youtube.com/watch?v=M9j9Bys_r_U
-This question was possibly duplicated with a more recent answer: [June 22nd, 2021 Livestream Q&A: What about river physics, textures- any updates on that any time soon?](./yt-ZPyYBY3IW00.md) [https://www.youtube.com/watch?v=ZPyYBY3IW00](https://www.youtube.com/watch?v=ZPyYBY3IW00)
+This question was possibly duplicated with a more recent answer: [January 10th, 2023 Livestream Q&A: I'm assuming the idea for Water Currents never came to be?](./yt-lgMZqItgUBQ.md) [https://www.youtube.com/watch?v=lgMZqItgUBQ](https://www.youtube.com/watch?v=lgMZqItgUBQ)
 
 
 ### Topics

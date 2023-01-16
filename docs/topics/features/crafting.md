@@ -8,6 +8,9 @@ date: Last Modified
 * [Recipes](../../topics/features/crafting/recipes.md)
 * [Superposition Oscillator](../../topics/features/crafting/superposition-oscillator.md)
 
+## January 10th, 2023 Livestream
+* [Q&A: Why do I need 207.7777 Rubber and 108.88888 Plastic for 10 Nuclear Pasta?](../../transcriptions/yt-U1lk-yv_ztY.md) [https://www.youtube.com/watch?v=U1lk-yv_ztY](https://www.youtube.com/watch?v=U1lk-yv_ztY)
+
 ## September 27th, 2022 Livestream
 * [Snutt Talk: Satisfactory- it makes no sense](../../transcriptions/yt-OWrxHS2wbWU.md) [https://www.youtube.com/watch?v=OWrxHS2wbWU](https://www.youtube.com/watch?v=OWrxHS2wbWU)
 

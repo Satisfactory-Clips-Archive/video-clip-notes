@@ -6,6 +6,10 @@ date: Last Modified
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Final Fantasy
 * [The Official Satisfactory PODCAST](../../topics/off-topic/final-fantasy/the-official-satisfactory-podcast.md)
 
+## January 10th, 2023 Livestream
+* [Intro / State of Dave / New Year, New Game?](../../transcriptions/yt-1DcnC39hclI.md) [https://www.youtube.com/watch?v=1DcnC39hclI](https://www.youtube.com/watch?v=1DcnC39hclI)
+* [Q&A: What non-Final Fantasy game content would you like to see in Community Highlights next?](../../transcriptions/yt-5uTGxIRMNrc.md) [https://www.youtube.com/watch?v=5uTGxIRMNrc](https://www.youtube.com/watch?v=5uTGxIRMNrc)
+
 ## December 6th, 2022 Livestream
 * Q&A: Jace, what's your favourite game? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7169&end=7192](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7169&end=7192)
 

@@ -8,7 +8,7 @@ topics:
 # [April 20th, 2021 Livestream](../2021-04-20.md)
 ## Q&A: When are we finally gonna get our own VTOL?
 https://www.youtube.com/watch?v=nty-h2xgybU
-This question was possibly duplicated with a more recent answer: [December 13th, 2022 Livestream Q&A: Do you plan to add aerial vehicles?](./yt--HA3h7bfxnA.md) [https://www.youtube.com/watch?v=-HA3h7bfxnA](https://www.youtube.com/watch?v=-HA3h7bfxnA)
+This question was possibly duplicated with a more recent answer: [January 10th, 2023 Livestream Q&A: How do you feel about adding a VTOL Jet to the game?](./yt-XlV8HEygHE0.md) [https://www.youtube.com/watch?v=XlV8HEygHE0](https://www.youtube.com/watch?v=XlV8HEygHE0)
 
 
 ### Topics

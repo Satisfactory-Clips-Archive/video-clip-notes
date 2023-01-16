@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Creatures](../../../topics/environment/creatures.md) > Lizard Doggo
 
+## January 10th, 2023 Livestream
+* [Q&A: Can we get Lizard Doggo as playable skins in Goat Simulator 3?](../../../transcriptions/yt-PGNDAXjy0ug.md) [https://www.youtube.com/watch?v=PGNDAXjy0ug](https://www.youtube.com/watch?v=PGNDAXjy0ug)
+
 ## December 6th, 2022 Livestream
 * [Game Modes](../../../transcriptions/yt-ST6V-a4u8Qs,95.06163535012458,150.35020318977232.md) [https://youtube.com/clip/UgkxOe2hN5wxds-Vt3UD6QaO4bc2dC94Qj-W](https://youtube.com/clip/UgkxOe2hN5wxds-Vt3UD6QaO4bc2dC94Qj-W)
 * Q&A: Have you guys thought of adding leashes in the game for the Lizard Doggo? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6881&end=6890](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6881&end=6890)

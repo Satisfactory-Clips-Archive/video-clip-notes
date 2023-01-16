@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../topics.md) > [Retail](../../topics/retail.md) > Steam Store
 * [Steam Release](../../topics/retail/steam-store/steam-release.md)
 
+## January 10th, 2023 Livestream
+* [Q&A: Have there been difficulties for having your game available on different platforms?](../../transcriptions/yt-OQI_L-M2vEg.md) [https://www.youtube.com/watch?v=OQI_L-M2vEg](https://www.youtube.com/watch?v=OQI_L-M2vEg)
+
 ## November 15th, 2022 Livestream
 * [Snutt Talk: If you're not seeing the Update](../../transcriptions/yt-CREPrQ23Dt4,8259.389945,8327.278515102387.md) [https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=8259&end=8328](https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=8259&end=8328)
 

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Off-Topic](../../../topics/off-topic.md) > [Food & Drink](../../../topics/off-topic/food-and-drink.md) > Pizza
 
+## January 10th, 2023 Livestream
+* [Q&A: What is worse, squid ink pizza or banana pizza?](../../../transcriptions/yt-bJGYaOYP5xA.md) [https://www.youtube.com/watch?v=bJGYaOYP5xA](https://www.youtube.com/watch?v=bJGYaOYP5xA)
+
 ## February 11th, 2022 Hot Potato Bonus Stream
 * [Snutt & Jace Talk: Pizza Hut](../../../transcriptions/yt-hMIDSzLnuSM.md) [https://www.youtube.com/watch?v=hMIDSzLnuSM](https://www.youtube.com/watch?v=hMIDSzLnuSM)
 

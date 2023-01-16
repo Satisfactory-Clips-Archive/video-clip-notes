@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Trolling
 
+## January 10th, 2023 Livestream
+* [Intro / State of Dave / New Year, New Game?](../transcriptions/yt-1DcnC39hclI.md) [https://www.youtube.com/watch?v=1DcnC39hclI](https://www.youtube.com/watch?v=1DcnC39hclI)
+* [Q&A: Hypertubes for Vehicles, when?](../transcriptions/yt-nVCm0OlGnYc.md) [https://www.youtube.com/watch?v=nVCm0OlGnYc](https://www.youtube.com/watch?v=nVCm0OlGnYc)
+
 ## December 20th, 2022 Livestream
 * [Q&A: What does the "AF" in "SatisfactoryAF" stand for?](../transcriptions/yt-Dx5KWqOnnB4.md) [https://www.youtube.com/watch?v=Dx5KWqOnnB4](https://www.youtube.com/watch?v=Dx5KWqOnnB4)
 

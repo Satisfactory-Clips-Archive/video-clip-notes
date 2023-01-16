@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > Transportation > [Vehicles](../../../../topics/features/transportation/vehicles.md) > Tractor
 
+## January 10th, 2023 Livestream
+* [Q&A: What are the chances of having a Train Station with the ability to transport Trucks / Tractors?](../../../../transcriptions/yt-bTxVGHnNpLU.md) [https://www.youtube.com/watch?v=bTxVGHnNpLU](https://www.youtube.com/watch?v=bTxVGHnNpLU)
+
 ## August 23rd, 2022 Livestream
 * [Q&A: Any plans to expand logistics customisation for Truck Stations?](../../../../transcriptions/yt--t8aIzxLycg.md) [https://www.youtube.com/watch?v=-t8aIzxLycg](https://www.youtube.com/watch?v=-t8aIzxLycg)
 

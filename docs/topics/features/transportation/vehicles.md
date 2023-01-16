@@ -12,6 +12,12 @@ date: Last Modified
 * [Tractor](../../../topics/features/transportation/vehicles/tractor.md)
 * [Truck](../../../topics/features/transportation/vehicles/truck.md)
 
+## January 10th, 2023 Livestream
+* [Q&A: Any idea how high of a priority it is to fix the smoothness of driving on Foundations?](../../../transcriptions/yt-4qgk0863g0Y.md) [https://www.youtube.com/watch?v=4qgk0863g0Y](https://www.youtube.com/watch?v=4qgk0863g0Y)
+* [Q&A: Has anything been discussed about elevators for personal or Vehicle use?](../../../transcriptions/yt-_5jjHydWeyA.md) [https://www.youtube.com/watch?v=_5jjHydWeyA](https://www.youtube.com/watch?v=_5jjHydWeyA)
+* [Q&A: Could we get forklifts?](../../../transcriptions/yt-bToxg3xXCgg.md) [https://www.youtube.com/watch?v=bToxg3xXCgg](https://www.youtube.com/watch?v=bToxg3xXCgg)
+* [Q&A: Hypertubes for Vehicles, when?](../../../transcriptions/yt-nVCm0OlGnYc.md) [https://www.youtube.com/watch?v=nVCm0OlGnYc](https://www.youtube.com/watch?v=nVCm0OlGnYc)
+
 ## December 20th, 2022 Livestream
 * [Q&A: Any update to bouncy tire bug on Foundations?](../../../transcriptions/yt--EYhEmqds18.md) [https://www.youtube.com/watch?v=-EYhEmqds18](https://www.youtube.com/watch?v=-EYhEmqds18)
 * [Q&A: Is there a possibility to get first-person camera in Vehicles?](../../../transcriptions/yt-qOl8-bJtOrY.md) [https://www.youtube.com/watch?v=qOl8-bJtOrY](https://www.youtube.com/watch?v=qOl8-bJtOrY)

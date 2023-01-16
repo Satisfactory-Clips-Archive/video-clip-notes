@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Sanctum
 
+## January 10th, 2023 Livestream
+* [Community FYI: A Satisfactory-style Tower Defense game would be sick](../../transcriptions/yt-E_lRyinYhQA.md) [https://www.youtube.com/watch?v=E_lRyinYhQA](https://www.youtube.com/watch?v=E_lRyinYhQA)
+* [Q&A: Did you have any involvement with Sanctum 1 & 2?](../../transcriptions/yt-qwWNON_g-UE.md) [https://www.youtube.com/watch?v=qwWNON_g-UE](https://www.youtube.com/watch?v=qwWNON_g-UE)
+
 ## December 6th, 2022 Livestream
 * Q&A: Jace, what's your favourite game? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7169&end=7192](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7169&end=7192)
 * Q&A: Is Sanctum the Tower Defense one? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7249&end=7256](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7249&end=7256)

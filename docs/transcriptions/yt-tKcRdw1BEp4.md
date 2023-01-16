@@ -8,7 +8,7 @@ topics:
 # [October 20th, 2020 Livestream](../2020-10-20.md)
 ## Q&A: How large is the development team?
 https://www.youtube.com/watch?v=tKcRdw1BEp4
-This question was possibly duplicated with a more recent answer: [November 29th, 2022 Livestream Q&A: How many people are on the Satisfactory dev team?](./yt-464B8bSp-kY.md) [https://www.youtube.com/watch?v=464B8bSp-kY](https://www.youtube.com/watch?v=464B8bSp-kY)
+This question was possibly duplicated with a more recent answer: [January 10th, 2023 Livestream Q&A: How large is the team working on Satisfactory?](./yt--z8ZeQDRv4s.md) [https://www.youtube.com/watch?v=-z8ZeQDRv4s](https://www.youtube.com/watch?v=-z8ZeQDRv4s)
 
 
 ### Topics

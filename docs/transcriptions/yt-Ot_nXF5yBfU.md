@@ -8,7 +8,7 @@ topics:
 # [August 24th, 2021 Livestream](../2021-08-24.md)
 ## Q&A: Any plans on an actual Elevator?
 https://www.youtube.com/watch?v=Ot_nXF5yBfU
-This question was possibly duplicated with a more recent answer: [September 13th, 2022 Livestream Q&A: Will there be Elevators?](./yt-cxJXCwnSIEA.md) [https://www.youtube.com/watch?v=cxJXCwnSIEA](https://www.youtube.com/watch?v=cxJXCwnSIEA)
+This question was possibly duplicated with a more recent answer: [January 10th, 2023 Livestream Q&A: Has anything been discussed about elevators for personal or Vehicle use?](./yt-_5jjHydWeyA.md) [https://www.youtube.com/watch?v=_5jjHydWeyA](https://www.youtube.com/watch?v=_5jjHydWeyA)
 
 
 ### Topics

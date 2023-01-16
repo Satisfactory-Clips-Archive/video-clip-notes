@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > SignpostMarv
 
+## January 10th, 2023 Livestream
+* [Community Highlights - Satisfactory Clips Archive](../../transcriptions/yt-UGbxoMC5YJM.md) [https://www.youtube.com/watch?v=UGbxoMC5YJM](https://www.youtube.com/watch?v=UGbxoMC5YJM)
+
 ## November 22nd, 2022 Livestream
 * [Q&A: Unreal Engine 5?](../../transcriptions/yt-o0l9wrKLm_M.md) [https://www.youtube.com/watch?v=o0l9wrKLm_M](https://www.youtube.com/watch?v=o0l9wrKLm_M)
 

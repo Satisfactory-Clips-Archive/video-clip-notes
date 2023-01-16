@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Goat Simulator
 
+## January 10th, 2023 Livestream
+* [Q&A: Has Coffee Stain North asked you to reprise your voice-acting role yet?](../../transcriptions/yt-5atS5V5xlKs.md) [https://www.youtube.com/watch?v=5atS5V5xlKs](https://www.youtube.com/watch?v=5atS5V5xlKs)
+* [Q&A: Can we get Lizard Doggo as playable skins in Goat Simulator 3?](../../transcriptions/yt-PGNDAXjy0ug.md) [https://www.youtube.com/watch?v=PGNDAXjy0ug](https://www.youtube.com/watch?v=PGNDAXjy0ug)
+
 ## December 13th, 2022 Livestream
 * [Q&A: How old is Goat Simulator](../../transcriptions/yt-2x9B3lZ7Dsg.md) [https://www.youtube.com/watch?v=2x9B3lZ7Dsg](https://www.youtube.com/watch?v=2x9B3lZ7Dsg)
 

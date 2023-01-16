@@ -16,6 +16,9 @@ date: Last Modified
 * [Tier 9](../../topics/features/tiers/tier-9.md)
 * [Tier 10](../../topics/features/tiers/tier-10.md)
 
+## January 10th, 2023 Livestream
+* [Q&A: Will Phase 4 part requirements be rebalanced when the next Tier is introduced?](../../transcriptions/yt-L4OmCrYGtqs.md) [https://www.youtube.com/watch?v=L4OmCrYGtqs](https://www.youtube.com/watch?v=L4OmCrYGtqs)
+
 ## December 20th, 2022 Livestream
 * [Q&A: Are there any plans for more Tiers?](../../transcriptions/yt-8kAmh6FsUto.md) [https://www.youtube.com/watch?v=8kAmh6FsUto](https://www.youtube.com/watch?v=8kAmh6FsUto)
 

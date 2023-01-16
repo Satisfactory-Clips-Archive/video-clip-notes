@@ -8,7 +8,7 @@ topics:
 # [April 6th, 2021 Livestream](../2021-04-06.md)
 ## Q&A: Have you considered logic networks?
 https://www.youtube.com/watch?v=we87JUG_GTw
-This question was possibly duplicated with a more recent answer: [July 5th, 2022 Livestream Q&A: Will there ever be a logic system?](./yt-dl2buXhcHcM.md) [https://www.youtube.com/watch?v=dl2buXhcHcM](https://www.youtube.com/watch?v=dl2buXhcHcM)
+This question was possibly duplicated with a more recent answer: [January 10th, 2023 Livestream Q&A: Will the game have logic in the future?](./yt-Q55YDWLQY2g.md) [https://www.youtube.com/watch?v=Q55YDWLQY2g](https://www.youtube.com/watch?v=Q55YDWLQY2g)
 
 
 ### Topics

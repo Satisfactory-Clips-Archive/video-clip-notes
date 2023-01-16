@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Resources](../../../topics/environment/resources.md) > Nuclear Pasta
 
+## January 10th, 2023 Livestream
+* [Q&A: Why do I need 207.7777 Rubber and 108.88888 Plastic for 10 Nuclear Pasta?](../../../transcriptions/yt-U1lk-yv_ztY.md) [https://www.youtube.com/watch?v=U1lk-yv_ztY](https://www.youtube.com/watch?v=U1lk-yv_ztY)
+
 ## June 29th, 2021 Livestream
 * [Q&A: Can we get a suit powered by Fuel Rods & Nuclear Pasta?](../../../transcriptions/yt-Os0322plJss.md) [https://www.youtube.com/watch?v=Os0322plJss](https://www.youtube.com/watch?v=Os0322plJss)
 

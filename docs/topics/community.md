@@ -26,6 +26,9 @@ date: Last Modified
 * [Vilsol](../topics/community/vilsol.md)
 * [Wiki](../topics/community/wiki.md)
 
+## January 10th, 2023 Livestream
+* [Q&A: What's "State of Dave"?](../transcriptions/yt-pLHEGzfwTTo.md) [https://www.youtube.com/watch?v=pLHEGzfwTTo](https://www.youtube.com/watch?v=pLHEGzfwTTo)
+
 ## December 21st, 2022 Video
 * [Merry Christmas & Happy Holidays (Part 1)](../transcriptions/yt-nvBhG4URjMg,,99.24.md) [https://youtube.com/embed/nvBhG4URjMg?autoplay=1&start=0&end=100](https://youtube.com/embed/nvBhG4URjMg?autoplay=1&start=0&end=100)
 * [Merry Christmas & Happy Holidays (Part 2)](../transcriptions/yt-nvBhG4URjMg,158.12,192.76.md) [https://youtube.com/embed/nvBhG4URjMg?autoplay=1&start=158&end=193](https://youtube.com/embed/nvBhG4URjMg?autoplay=1&start=158&end=193)

@@ -10,6 +10,9 @@ date: Last Modified
 * [Non Flying Bird](../../topics/environment/creatures/non-flying-bird.md)
 * [Space Giraffe-Tick-Penguin-Whale Thing](../../topics/environment/creatures/space-giraffe-tick-penguin-whale-thing.md)
 
+## January 10th, 2023 Livestream
+* [Q&A: Fix for Update 7 crash when deleting things / landing near Creatures that are spawning?](../../transcriptions/yt-lrDZ83dxHlU.md) [https://www.youtube.com/watch?v=lrDZ83dxHlU](https://www.youtube.com/watch?v=lrDZ83dxHlU)
+
 ## December 20th, 2022 Livestream
 * [Q&A: Any aquatic animals?](../../transcriptions/yt-73CjuOThYVg.md) [https://www.youtube.com/watch?v=73CjuOThYVg](https://www.youtube.com/watch?v=73CjuOThYVg)
 * [Q&A: Have you pondered about taming/breeding Creatures?](../../transcriptions/yt-NG5pYsl71RM.md) [https://www.youtube.com/watch?v=NG5pYsl71RM](https://www.youtube.com/watch?v=NG5pYsl71RM)

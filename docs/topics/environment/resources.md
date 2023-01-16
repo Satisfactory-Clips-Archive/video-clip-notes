@@ -14,6 +14,9 @@ date: Last Modified
 * [Steel](../../topics/environment/resources/steel.md)
 * [Water](../../topics/environment/resources/water.md)
 
+## January 10th, 2023 Livestream
+* [Q&A: Why do I need 207.7777 Rubber and 108.88888 Plastic for 10 Nuclear Pasta?](../../transcriptions/yt-U1lk-yv_ztY.md) [https://www.youtube.com/watch?v=U1lk-yv_ztY](https://www.youtube.com/watch?v=U1lk-yv_ztY)
+
 ## December 20th, 2022 Livestream
 * [Q&A: Any plans for randomised Ore locations?](../../transcriptions/yt-tLvqeGb5HIA.md) [https://www.youtube.com/watch?v=tLvqeGb5HIA](https://www.youtube.com/watch?v=tLvqeGb5HIA)
 

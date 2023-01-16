@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Crafting](../../../topics/features/crafting.md) > Recipes
 * [Alternate Recipes](../../../topics/features/crafting/recipes/alternate-recipes.md)
 
+## January 10th, 2023 Livestream
+* [Q&A: Why do I need 207.7777 Rubber and 108.88888 Plastic for 10 Nuclear Pasta?](../../../transcriptions/yt-U1lk-yv_ztY.md) [https://www.youtube.com/watch?v=U1lk-yv_ztY](https://www.youtube.com/watch?v=U1lk-yv_ztY)
+
 ## December 20th, 2022 Livestream
 * [Q&A: Are Recipes going to rebalanced before 1.0?](../../../transcriptions/yt-bp2O6nKvuUg.md) [https://www.youtube.com/watch?v=bp2O6nKvuUg](https://www.youtube.com/watch?v=bp2O6nKvuUg)
 

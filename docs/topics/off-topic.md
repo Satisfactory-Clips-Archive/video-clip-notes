@@ -27,6 +27,10 @@ date: Last Modified
 * [The Lord of the Rings](../topics/off-topic/the-lord-of-the-rings.md)
 * [Valheim](../topics/off-topic/valheim.md)
 
+## January 10th, 2023 Livestream
+* [Q&A: What non-Final Fantasy game content would you like to see in Community Highlights next?](../transcriptions/yt-5uTGxIRMNrc.md) [https://www.youtube.com/watch?v=5uTGxIRMNrc](https://www.youtube.com/watch?v=5uTGxIRMNrc)
+* [Q&A: Have you seen Bleach?](../transcriptions/yt-8Pz96mUzjKo.md) [https://www.youtube.com/watch?v=8Pz96mUzjKo](https://www.youtube.com/watch?v=8Pz96mUzjKo)
+
 ## December 13th, 2022 Livestream
 * [Q&A: Are you excited for the Last of Us TV show next year?](../transcriptions/yt-GxBTyBBmoRs.md) [https://www.youtube.com/watch?v=GxBTyBBmoRs](https://www.youtube.com/watch?v=GxBTyBBmoRs)
 

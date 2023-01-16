@@ -9,7 +9,7 @@ topics:
 # [June 15th, 2021 Livestream](../2021-06-15.md)
 ## Q&A: Will Ben's water system be included?
 https://www.youtube.com/watch?v=FqnM4ASr440
-This question was possibly duplicated with a more recent answer: [June 22nd, 2021 Livestream Q&A: What about river physics, textures- any updates on that any time soon?](./yt-ZPyYBY3IW00.md) [https://www.youtube.com/watch?v=ZPyYBY3IW00](https://www.youtube.com/watch?v=ZPyYBY3IW00)
+This question was possibly duplicated with a more recent answer: [January 10th, 2023 Livestream Q&A: I'm assuming the idea for Water Currents never came to be?](./yt-lgMZqItgUBQ.md) [https://www.youtube.com/watch?v=lgMZqItgUBQ](https://www.youtube.com/watch?v=lgMZqItgUBQ)
 
 
 ### Topics

@@ -7,6 +7,10 @@ date: Last Modified
 * [EU Merch Store](../topics/merch/eu-merch-store.md)
 * [Merch Prototypes](../topics/merch/merch-prototypes.md)
 
+## January 10th, 2023 Livestream
+* [Q&A: What's "State of Dave"?](../transcriptions/yt-pLHEGzfwTTo.md) [https://www.youtube.com/watch?v=pLHEGzfwTTo](https://www.youtube.com/watch?v=pLHEGzfwTTo)
+* [Q&A: I can't find any Satisfactory Merch at GoodSmile, have you changed shop?](../transcriptions/yt-9KDtKv3TiMw.md) [https://www.youtube.com/watch?v=9KDtKv3TiMw](https://www.youtube.com/watch?v=9KDtKv3TiMw)
+
 ## December 13th, 2022 Livestream
 * [Q&A: How's the Lego Satisfactory set going?](../transcriptions/yt-t4HE64aQG7Y.md) [https://www.youtube.com/watch?v=t4HE64aQG7Y](https://www.youtube.com/watch?v=t4HE64aQG7Y)
 

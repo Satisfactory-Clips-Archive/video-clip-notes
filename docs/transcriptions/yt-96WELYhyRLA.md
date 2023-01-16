@@ -8,7 +8,7 @@ topics:
 # [August 10th, 2021 Livestream](../2021-08-10.md)
 ## Q&A: Two exits on Mk.3 Miner?
 https://www.youtube.com/watch?v=96WELYhyRLA
-This question was possibly duplicated with a more recent answer: [November 29th, 2022 Livestream Q&A: Dual-output Mk.3 Miner please, easy fix?](./yt-_4bcpVXbnxY.md) [https://www.youtube.com/watch?v=_4bcpVXbnxY](https://www.youtube.com/watch?v=_4bcpVXbnxY)
+This question was possibly duplicated with a more recent answer: [January 10th, 2023 Livestream Q&A: Any updates on what will be done with Mk.3 Miners / Mk.5 Belts?](./yt-TtVVIrYgyKc.md) [https://www.youtube.com/watch?v=TtVVIrYgyKc](https://www.youtube.com/watch?v=TtVVIrYgyKc)
 
 
 ### Topics

@@ -22,6 +22,10 @@ date: Last Modified
 * [Walls](../../topics/features/buildables/walls.md)
 * [Windows](../../topics/features/buildables/windows.md)
 
+## January 10th, 2023 Livestream
+* [Q&A: Railway turntable might be handy for Trains?](../../transcriptions/yt-qZP-PpkUf88.md) [https://www.youtube.com/watch?v=qZP-PpkUf88](https://www.youtube.com/watch?v=qZP-PpkUf88)
+* [Q&A: What about a Rail piece with a Power connector?](../../transcriptions/yt-tgZILwzuFd0.md) [https://www.youtube.com/watch?v=tgZILwzuFd0](https://www.youtube.com/watch?v=tgZILwzuFd0)
+
 ## December 20th, 2022 Livestream
 * [Q&A: It would be nice for Blueprints to allow building outside before save so you can align things](../../transcriptions/yt-U9x9BqnT2TM.md) [https://www.youtube.com/watch?v=U9x9BqnT2TM](https://www.youtube.com/watch?v=U9x9BqnT2TM)
 * [Q&A: Any thoughts from the devs on making it easier for us to build circles?](../../transcriptions/yt-wQG33TX_qZU.md) [https://www.youtube.com/watch?v=wQG33TX_qZU](https://www.youtube.com/watch?v=wQG33TX_qZU)

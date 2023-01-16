@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Technology](../../../topics/technology.md) > [Unreal Engine](../../../topics/technology/unreal-engine.md) > Unreal Engine 5
 
+## January 10th, 2023 Livestream
+* [Q&A: Still curious about Unreal Engine 5, any feedback about this?](../../../transcriptions/yt-wYQpKcI9rUU.md) [https://www.youtube.com/watch?v=wYQpKcI9rUU](https://www.youtube.com/watch?v=wYQpKcI9rUU)
+
 ## December 20th, 2022 Livestream
 * [Q&A: Update to Unreal Engine 5 planned?](../../../transcriptions/yt-mMIwRukhAEg.md) [https://www.youtube.com/watch?v=mMIwRukhAEg](https://www.youtube.com/watch?v=mMIwRukhAEg)
 

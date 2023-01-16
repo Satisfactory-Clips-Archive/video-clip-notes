@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildables](../../../topics/features/buildables.md) > Conveyor Belts
 
+## January 10th, 2023 Livestream
+* [Q&A: Any updates on what will be done with Mk.3 Miners / Mk.5 Belts?](../../../transcriptions/yt-TtVVIrYgyKc.md) [https://www.youtube.com/watch?v=TtVVIrYgyKc](https://www.youtube.com/watch?v=TtVVIrYgyKc)
+
 ## December 20th, 2022 Livestream
 * [Q&A: Do you allow clipping of Belts or Machines in your builds?](../../../transcriptions/yt-OfcEvJbfSC0.md) [https://www.youtube.com/watch?v=OfcEvJbfSC0](https://www.youtube.com/watch?v=OfcEvJbfSC0)
 * [Q&A: Are you aware of the Belts not connecting on client bug?](../../../transcriptions/yt-cd4PXs9aG1E.md) [https://www.youtube.com/watch?v=cd4PXs9aG1E](https://www.youtube.com/watch?v=cd4PXs9aG1E)

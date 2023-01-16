@@ -10,6 +10,20 @@ date: Last Modified
 * [Pollution](../../topics/features/requested-features/pollution.md)
 * [Third-person View](../../topics/features/requested-features/third-person-view.md)
 
+## January 10th, 2023 Livestream
+* [Q&A: Any idea how high of a priority it is to fix the smoothness of driving on Foundations?](../../transcriptions/yt-4qgk0863g0Y.md) [https://www.youtube.com/watch?v=4qgk0863g0Y](https://www.youtube.com/watch?v=4qgk0863g0Y)
+* [Q&A: Why no Snow at FICSMAS?](../../transcriptions/yt-57MNnpD8azY.md) [https://www.youtube.com/watch?v=57MNnpD8azY](https://www.youtube.com/watch?v=57MNnpD8azY)
+* [Q&A: Add Outer Wilds OST as Boombox Tape in Satisfactory?](../../transcriptions/yt-JrXyDldK4GU.md) [https://www.youtube.com/watch?v=JrXyDldK4GU](https://www.youtube.com/watch?v=JrXyDldK4GU)
+* [Q&A: Will the game have logic in the future?](../../transcriptions/yt-Q55YDWLQY2g.md) [https://www.youtube.com/watch?v=Q55YDWLQY2g](https://www.youtube.com/watch?v=Q55YDWLQY2g)
+* [Q&A: Any plans to fix the Boombox / Ultra-wide monitor bug?](../../transcriptions/yt-Rsu-oLJcBe4.md) [https://www.youtube.com/watch?v=Rsu-oLJcBe4](https://www.youtube.com/watch?v=Rsu-oLJcBe4)
+* [Q&A: Could we get forklifts?](../../transcriptions/yt-bToxg3xXCgg.md) [https://www.youtube.com/watch?v=bToxg3xXCgg](https://www.youtube.com/watch?v=bToxg3xXCgg)
+* [Q&A: What are the chances of having a Train Station with the ability to transport Trucks / Tractors?](../../transcriptions/yt-bTxVGHnNpLU.md) [https://www.youtube.com/watch?v=bTxVGHnNpLU](https://www.youtube.com/watch?v=bTxVGHnNpLU)
+* [Q&A: Fix for Update 7 crash when deleting things / landing near Creatures that are spawning?](../../transcriptions/yt-lrDZ83dxHlU.md) [https://www.youtube.com/watch?v=lrDZ83dxHlU](https://www.youtube.com/watch?v=lrDZ83dxHlU)
+* [Q&A: Hypertubes for Vehicles, when?](../../transcriptions/yt-nVCm0OlGnYc.md) [https://www.youtube.com/watch?v=nVCm0OlGnYc](https://www.youtube.com/watch?v=nVCm0OlGnYc)
+* [Q&A: Railway turntable might be handy for Trains?](../../transcriptions/yt-qZP-PpkUf88.md) [https://www.youtube.com/watch?v=qZP-PpkUf88](https://www.youtube.com/watch?v=qZP-PpkUf88)
+* [Q&A: What about a Rail piece with a Power connector?](../../transcriptions/yt-tgZILwzuFd0.md) [https://www.youtube.com/watch?v=tgZILwzuFd0](https://www.youtube.com/watch?v=tgZILwzuFd0)
+* [Q&A: Add Lead for lead-infused containers as protection against radiation?](../../transcriptions/yt-wR8XyOmBNgk.md) [https://www.youtube.com/watch?v=wR8XyOmBNgk](https://www.youtube.com/watch?v=wR8XyOmBNgk)
+
 ## December 20th, 2022 Livestream
 * [Q&A: Any more aesthetic pieces in the works like plants or something?](../../transcriptions/yt-APm0PGhBjq4.md) [https://www.youtube.com/watch?v=APm0PGhBjq4](https://www.youtube.com/watch?v=APm0PGhBjq4)
 * [Q&A: Can we still build under the map in future?](../../transcriptions/yt-EopulYWK2G8.md) [https://www.youtube.com/watch?v=EopulYWK2G8](https://www.youtube.com/watch?v=EopulYWK2G8)

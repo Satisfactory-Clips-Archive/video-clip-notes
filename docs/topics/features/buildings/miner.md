@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > Miner
 
+## January 10th, 2023 Livestream
+* [Q&A: Any updates on what will be done with Mk.3 Miners / Mk.5 Belts?](../../../transcriptions/yt-TtVVIrYgyKc.md) [https://www.youtube.com/watch?v=TtVVIrYgyKc](https://www.youtube.com/watch?v=TtVVIrYgyKc)
+
 ## December 20th, 2022 Livestream
 * [Q&A: Will Overclocking Mk.3 Miners be addressed?](../../../transcriptions/yt-zQp4XNB2bU4.md) [https://www.youtube.com/watch?v=zQp4XNB2bU4](https://www.youtube.com/watch?v=zQp4XNB2bU4)
 

@@ -10,11 +10,7 @@ topics:
 # [December 20th, 2022 Livestream](../2022-12-20.md)
 ## Q&A: Any update to bouncy tire bug on Foundations?
 https://www.youtube.com/watch?v=-EYhEmqds18
-<details>
-<summary>This question may have been asked previously at least 1 other time, as recently as July 2022.</summary>
-
-* [July 12th, 2022 Livestream Q&A: Any plans to fix how Vehicles are done when driving on any Foundation surface?](./yt-vQjRcLqrXUM.md) [https://www.youtube.com/watch?v=vQjRcLqrXUM](https://www.youtube.com/watch?v=vQjRcLqrXUM)
-</details>
+This question was possibly duplicated with a more recent answer: [January 10th, 2023 Livestream Q&A: Any idea how high of a priority it is to fix the smoothness of driving on Foundations?](./yt-4qgk0863g0Y.md) [https://www.youtube.com/watch?v=4qgk0863g0Y](https://www.youtube.com/watch?v=4qgk0863g0Y)
 
 
 ### Topics

@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Environment](../../topics/environment.md) > Weather Systems
 
+## January 10th, 2023 Livestream
+* [Q&A: Why no Snow at FICSMAS?](../../transcriptions/yt-57MNnpD8azY.md) [https://www.youtube.com/watch?v=57MNnpD8azY](https://www.youtube.com/watch?v=57MNnpD8azY)
+* [Q&A: Is Rain gone?](../../transcriptions/yt-F3CCULMKuAY.md) [https://www.youtube.com/watch?v=F3CCULMKuAY](https://www.youtube.com/watch?v=F3CCULMKuAY)
+
 ## October 25th, 2022 Livestream
 * [Q&A: Thunderstorms, soon?](../../transcriptions/yt-n2kO1OohoNg.md) [https://www.youtube.com/watch?v=n2kO1OohoNg](https://www.youtube.com/watch?v=n2kO1OohoNg)
 * [Q&A: Will snow be added as a Weather mechanic?](../../transcriptions/yt-HnS56FsEXSU.md) [https://www.youtube.com/watch?v=HnS56FsEXSU](https://www.youtube.com/watch?v=HnS56FsEXSU)

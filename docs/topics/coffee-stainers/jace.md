@@ -10,6 +10,14 @@ date: Last Modified
 * [Juice Velvet](../../topics/coffee-stainers/jace/juice-velvet.md)
 * [Robo Jace](../../topics/coffee-stainers/jace/robo-jace.md)
 
+## January 10th, 2023 Livestream
+* [Q&A: Has Coffee Stain North asked you to reprise your voice-acting role yet?](../../transcriptions/yt-5atS5V5xlKs.md) [https://www.youtube.com/watch?v=5atS5V5xlKs](https://www.youtube.com/watch?v=5atS5V5xlKs)
+* [Q&A: What non-Final Fantasy game content would you like to see in Community Highlights next?](../../transcriptions/yt-5uTGxIRMNrc.md) [https://www.youtube.com/watch?v=5uTGxIRMNrc](https://www.youtube.com/watch?v=5uTGxIRMNrc)
+* [Q&A: Have you seen Bleach?](../../transcriptions/yt-8Pz96mUzjKo.md) [https://www.youtube.com/watch?v=8Pz96mUzjKo](https://www.youtube.com/watch?v=8Pz96mUzjKo)
+* [Q&A: How hard is it to keep a straight face when people ask you about things you can't talk about?](../../transcriptions/yt-9AGd0r7m6No.md) [https://www.youtube.com/watch?v=9AGd0r7m6No](https://www.youtube.com/watch?v=9AGd0r7m6No)
+* [Q&A: Have you considered making a hardcore survival game?](../../transcriptions/yt-f2SM67JBWUc.md) [https://www.youtube.com/watch?v=f2SM67JBWUc](https://www.youtube.com/watch?v=f2SM67JBWUc)
+* [Q&A: Did you have any involvement with Sanctum 1 & 2?](../../transcriptions/yt-qwWNON_g-UE.md) [https://www.youtube.com/watch?v=qwWNON_g-UE](https://www.youtube.com/watch?v=qwWNON_g-UE)
+
 ## December 21st, 2022 Video
 * [VAMONOS!](../../transcriptions/yt-nvBhG4URjMg,223.2,242.04.md) [https://youtube.com/embed/nvBhG4URjMg?autoplay=1&start=223&end=243](https://youtube.com/embed/nvBhG4URjMg?autoplay=1&start=223&end=243)
 * [Merry Christmas & Happy Holidays (Part 4)](../../transcriptions/yt-nvBhG4URjMg,282.6,328.190091.md) [https://youtube.com/embed/nvBhG4URjMg?autoplay=1&start=282&end=329](https://youtube.com/embed/nvBhG4URjMg?autoplay=1&start=282&end=329)

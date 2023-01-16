@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > Space Elevator
 * [Food Court](../../../topics/features/buildings/space-elevator/food-court.md)
 
+## January 10th, 2023 Livestream
+* [Q&A: Will Phase 4 part requirements be rebalanced when the next Tier is introduced?](../../../transcriptions/yt-L4OmCrYGtqs.md) [https://www.youtube.com/watch?v=L4OmCrYGtqs](https://www.youtube.com/watch?v=L4OmCrYGtqs)
+
 ## November 22nd, 2022 Livestream
 * [Q&A: Possibility of switching to a Game Mode where you had an item-per-minute requirement?](../../../transcriptions/yt-av3ed3zOTG4.md) [https://www.youtube.com/watch?v=av3ed3zOTG4](https://www.youtube.com/watch?v=av3ed3zOTG4)
 * [Q&A: Did you see the world record for 4 Package% was set last night?](../../../transcriptions/yt-fQiuTu2K36A.md) [https://www.youtube.com/watch?v=fQiuTu2K36A](https://www.youtube.com/watch?v=fQiuTu2K36A)

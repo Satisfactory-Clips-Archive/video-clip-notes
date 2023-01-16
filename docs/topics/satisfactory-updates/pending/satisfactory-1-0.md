@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Pending](../../../topics/satisfactory-updates/pending.md) > Satisfactory 1.0
 
+## January 10th, 2023 Livestream
+* [Q&A: Is there any exciting things that you can talk about?](../../../transcriptions/yt-sZWTb7TbIKQ.md) [https://www.youtube.com/watch?v=sZWTb7TbIKQ](https://www.youtube.com/watch?v=sZWTb7TbIKQ)
+
 ## December 20th, 2022 Livestream
 * [Q&A: Is there a public 1.0 target date?](../../../transcriptions/yt-A392N1wOyd8.md) [https://www.youtube.com/watch?v=A392N1wOyd8](https://www.youtube.com/watch?v=A392N1wOyd8)
 * [Q&A: 1.0 any time soon?](../../../transcriptions/yt-GnRQZd-souo.md) [https://www.youtube.com/watch?v=GnRQZd-souo](https://www.youtube.com/watch?v=GnRQZd-souo)

@@ -11,7 +11,7 @@ topics:
 # [January 26th, 2021 Livestream](../2021-01-26.md)
 ## Q&A: Do Mercer Spheres and Somersloops get a place in Update 4?
 https://www.youtube.com/watch?v=-N0atMiN9dM
-This question was possibly duplicated with a more recent answer: December 6th, 2022 Livestream Q&A: Will artefacts affect gameplay? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7359&end=7371](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7359&end=7371)
+This question was possibly duplicated with a more recent answer: [January 10th, 2023 Livestream Q&A: Will we get a deeper Story in Satisfactory relating to the Somersloop/Mercer Sphere dialogue?](./yt-xIFwkhG1r-I.md) [https://www.youtube.com/watch?v=xIFwkhG1r-I](https://www.youtube.com/watch?v=xIFwkhG1r-I)
 
 
 ### Topics

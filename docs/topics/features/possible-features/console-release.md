@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Possible Features](../../../topics/features/possible-features.md) > Console Release
 
+## January 10th, 2023 Livestream
+* [Q&A: If Factorio's coming to Switch- Satisfactory on Switch, when?](../../../transcriptions/yt-7ww0V8wmVLY.md) [https://www.youtube.com/watch?v=7ww0V8wmVLY](https://www.youtube.com/watch?v=7ww0V8wmVLY)
+
 ## December 13th, 2022 Livestream
 * [Q&A: How's controller support doing?](../../../transcriptions/yt-ow48y32fjU8.md) [https://www.youtube.com/watch?v=ow48y32fjU8](https://www.youtube.com/watch?v=ow48y32fjU8)
 

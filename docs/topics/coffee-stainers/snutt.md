@@ -8,6 +8,9 @@ date: Last Modified
 * [Snutt Burger Time](../../topics/coffee-stainers/snutt/snutt-burger-time.md)
 * [Snutty Mays](../../topics/coffee-stainers/snutt/snutty-mays.md)
 
+## January 10th, 2023 Livestream
+* [Q&A: Where's Snutt?](../../transcriptions/yt-XC6EEhujltk.md) [https://www.youtube.com/watch?v=XC6EEhujltk](https://www.youtube.com/watch?v=XC6EEhujltk)
+
 ## December 21st, 2022 Video
 * [Office Doggos: Eevee!](../../transcriptions/yt-nvBhG4URjMg,242.08,253.4.md) [https://youtube.com/embed/nvBhG4URjMg?autoplay=1&start=242&end=254](https://youtube.com/embed/nvBhG4URjMg?autoplay=1&start=242&end=254)
 * [Merry Christmas & Happy Holidays (Part 3)](../../transcriptions/yt-nvBhG4URjMg,253.44,282.56.md) [https://youtube.com/embed/nvBhG4URjMg?autoplay=1&start=253&end=283](https://youtube.com/embed/nvBhG4URjMg?autoplay=1&start=253&end=283)

@@ -8,7 +8,7 @@ topics:
 # [September 1st, 2020 Livestream](../2020-09-01.md)
 ## Q&A: Any chance of a Logic System in the game?
 https://www.youtube.com/watch?v=xojr_FfvDwk
-This question was possibly duplicated with a more recent answer: [July 5th, 2022 Livestream Q&A: Will there ever be a logic system?](./yt-dl2buXhcHcM.md) [https://www.youtube.com/watch?v=dl2buXhcHcM](https://www.youtube.com/watch?v=dl2buXhcHcM)
+This question was possibly duplicated with a more recent answer: [January 10th, 2023 Livestream Q&A: Will the game have logic in the future?](./yt-Q55YDWLQY2g.md) [https://www.youtube.com/watch?v=Q55YDWLQY2g](https://www.youtube.com/watch?v=Q55YDWLQY2g)
 
 
 ### Topics

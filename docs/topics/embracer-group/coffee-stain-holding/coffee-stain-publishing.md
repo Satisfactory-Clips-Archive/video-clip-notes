@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Embracer Group](../../../topics/embracer-group.md) > Coffee Stain Holding > Coffee Stain Publishing
 
+## January 10th, 2023 Livestream
+* [Q&A: Do you think Satisfactory's the biggest project at Coffee Stain?](../../../transcriptions/yt-q_e3OYME8pk.md) [https://www.youtube.com/watch?v=q_e3OYME8pk](https://www.youtube.com/watch?v=q_e3OYME8pk)
+
 ## August 30th, 2022 Livestream
 * [Q&A: What's your favourite game published by Coffee Stain?](../../../transcriptions/yt-yiFDigrsmPE.md) [https://www.youtube.com/watch?v=yiFDigrsmPE](https://www.youtube.com/watch?v=yiFDigrsmPE)
 

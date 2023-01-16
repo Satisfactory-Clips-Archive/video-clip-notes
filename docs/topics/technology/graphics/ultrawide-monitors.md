@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Technology](../../../topics/technology.md) > [Graphics](../../../topics/technology/graphics.md) > Ultrawide Monitors
 
+## January 10th, 2023 Livestream
+* [Q&A: Any plans to fix the Boombox / Ultra-wide monitor bug?](../../../transcriptions/yt-Rsu-oLJcBe4.md) [https://www.youtube.com/watch?v=Rsu-oLJcBe4](https://www.youtube.com/watch?v=Rsu-oLJcBe4)
+
 ## August 3rd, 2021 Livestream
 * [Q&A: Will the game be adapted for 21:9 monitors?](../../../transcriptions/yt-u47gi9ATjX4.md) [https://www.youtube.com/watch?v=u47gi9ATjX4](https://www.youtube.com/watch?v=u47gi9ATjX4)
 

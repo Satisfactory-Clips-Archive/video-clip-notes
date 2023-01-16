@@ -9,6 +9,9 @@ date: Last Modified
 * [GeForce Now](../topics/retail/geforce-now.md)
 * [Steam Store](../topics/retail/steam-store.md)
 
+## January 10th, 2023 Livestream
+* [Q&A: Have there been difficulties for having your game available on different platforms?](../transcriptions/yt-OQI_L-M2vEg.md) [https://www.youtube.com/watch?v=OQI_L-M2vEg](https://www.youtube.com/watch?v=OQI_L-M2vEg)
+
 ## November 29th, 2022 Livestream
 * [Q&A: How many copies sold so far?](../transcriptions/yt-JNL00-1VeRQ.md) [https://www.youtube.com/watch?v=JNL00-1VeRQ](https://www.youtube.com/watch?v=JNL00-1VeRQ)
 * [Q&A: From how well Satisfactory sold, is it hard to know when to stop, because it digs into profits?](../transcriptions/yt-XCbo70Hs_nE.md) [https://www.youtube.com/watch?v=XCbo70Hs_nE](https://www.youtube.com/watch?v=XCbo70Hs_nE)

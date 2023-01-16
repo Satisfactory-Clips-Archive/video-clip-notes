@@ -14,6 +14,9 @@ date: Last Modified
 * [User Interface](../topics/technology/user-interface.md)
 * [Vulkan](../topics/technology/vulkan.md)
 
+## January 10th, 2023 Livestream
+* [Q&A: Is the game made in C# ?](../transcriptions/yt-9Y8Y94E9-eQ.md) [https://www.youtube.com/watch?v=9Y8Y94E9-eQ](https://www.youtube.com/watch?v=9Y8Y94E9-eQ)
+
 ## December 20th, 2022 Livestream
 * [Q&A: What language do you use in programming?](../transcriptions/yt-Vkkf1mR_nF8.md) [https://www.youtube.com/watch?v=Vkkf1mR_nF8](https://www.youtube.com/watch?v=Vkkf1mR_nF8)
 

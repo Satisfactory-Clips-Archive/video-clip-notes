@@ -8,7 +8,7 @@ topics:
 # [October 18th, 2022 Livestream](../2022-10-18.md)
 ## Q&A: Unreal Engine 5, when?
 https://www.youtube.com/watch?v=eaAlw_gTGME
-This question was possibly duplicated with a more recent answer: [December 20th, 2022 Livestream Q&A: Update to Unreal Engine 5 planned?](./yt-mMIwRukhAEg.md) [https://www.youtube.com/watch?v=mMIwRukhAEg](https://www.youtube.com/watch?v=mMIwRukhAEg)
+This question was possibly duplicated with a more recent answer: [January 10th, 2023 Livestream Q&A: Still curious about Unreal Engine 5, any feedback about this?](./yt-wYQpKcI9rUU.md) [https://www.youtube.com/watch?v=wYQpKcI9rUU](https://www.youtube.com/watch?v=wYQpKcI9rUU)
 
 
 ### Topics

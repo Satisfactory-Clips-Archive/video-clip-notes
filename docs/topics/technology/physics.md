@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > Physics
 
+## January 10th, 2023 Livestream
+* [Q&A: Any idea how high of a priority it is to fix the smoothness of driving on Foundations?](../../transcriptions/yt-4qgk0863g0Y.md) [https://www.youtube.com/watch?v=4qgk0863g0Y](https://www.youtube.com/watch?v=4qgk0863g0Y)
+
 ## December 20th, 2022 Livestream
 * [Q&A: Any update to bouncy tire bug on Foundations?](../../transcriptions/yt--EYhEmqds18.md) [https://www.youtube.com/watch?v=-EYhEmqds18](https://www.youtube.com/watch?v=-EYhEmqds18)
 

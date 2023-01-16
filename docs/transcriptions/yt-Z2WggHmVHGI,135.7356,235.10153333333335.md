@@ -8,7 +8,7 @@ topics:
 # [July 16th, 2021 Video](../2021-07-16.md)
 ## Q&A: Will there be Steam Workshop?
 https://youtube.com/embed/Z2WggHmVHGI?autoplay=1&start=135&end=236
-This question was possibly duplicated with a more recent answer: [May 24th, 2022 Livestream Q&A: Any plans for Steam Workshop?](./yt-E6Z4op4C6Jc.md) [https://www.youtube.com/watch?v=E6Z4op4C6Jc](https://www.youtube.com/watch?v=E6Z4op4C6Jc)
+This question was possibly duplicated with a more recent answer: [January 10th, 2023 Livestream Q&A: Is a Mod workshop on you guys' minds?](./yt-pZVLOQVG8Ro.md) [https://www.youtube.com/watch?v=pZVLOQVG8Ro](https://www.youtube.com/watch?v=pZVLOQVG8Ro)
 
 
 ### Topics

@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Community Highlights
 
+## January 10th, 2023 Livestream
+* [Community Highlights - Satisfactory Clips Archive](../../transcriptions/yt-UGbxoMC5YJM.md) [https://www.youtube.com/watch?v=UGbxoMC5YJM](https://www.youtube.com/watch?v=UGbxoMC5YJM)
+* [Q&A: What non-Final Fantasy game content would you like to see in Community Highlights next?](../../transcriptions/yt-5uTGxIRMNrc.md) [https://www.youtube.com/watch?v=5uTGxIRMNrc](https://www.youtube.com/watch?v=5uTGxIRMNrc)
+* [Q&A: Update on Bridge Engineer reacts?](../../transcriptions/yt-FEBRuiJ9SHA.md) [https://www.youtube.com/watch?v=FEBRuiJ9SHA](https://www.youtube.com/watch?v=FEBRuiJ9SHA)
+
 ## December 20th, 2022 Livestream
 * [Q&A: Can we still build under the map in future?](../../transcriptions/yt-EopulYWK2G8.md) [https://www.youtube.com/watch?v=EopulYWK2G8](https://www.youtube.com/watch?v=EopulYWK2G8)
 * [Q&A: Any thoughts from the devs on making it easier for us to build circles?](../../transcriptions/yt-wQG33TX_qZU.md) [https://www.youtube.com/watch?v=wQG33TX_qZU](https://www.youtube.com/watch?v=wQG33TX_qZU)

@@ -8,12 +8,7 @@ topics:
 # [December 13th, 2022 Livestream](../2022-12-13.md)
 ## Q&A: Real Civil Engineer, when?
 https://www.youtube.com/watch?v=mALcM75aJMQ
-<details>
-<summary>This question may have been asked previously at least 2 other times, as recently as December 2022.</summary>
-
-* December 6th, 2022 Livestream Did someone say "bridge review"? [https://youtube.com/clip/UgkxV57Y5OQxjul9-nhMV_iWb7djtwrzhNF0](https://youtube.com/clip/UgkxV57Y5OQxjul9-nhMV_iWb7djtwrzhNF0)
-* December 6th, 2022 Livestream Q&A: Bridge review? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6992&end=7008](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6992&end=7008)
-</details>
+This question was possibly duplicated with a more recent answer: [January 10th, 2023 Livestream Q&A: Update on Bridge Engineer reacts?](./yt-FEBRuiJ9SHA.md) [https://www.youtube.com/watch?v=FEBRuiJ9SHA](https://www.youtube.com/watch?v=FEBRuiJ9SHA)
 
 
 ### Topics

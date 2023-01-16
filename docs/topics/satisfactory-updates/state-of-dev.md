@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > State of Dev
 
+## January 10th, 2023 Livestream
+* [Intro / State of Dave / New Year, New Game?](../../transcriptions/yt-1DcnC39hclI.md) [https://www.youtube.com/watch?v=1DcnC39hclI](https://www.youtube.com/watch?v=1DcnC39hclI)
+* [Q&A: What's "State of Dave"?](../../transcriptions/yt-pLHEGzfwTTo.md) [https://www.youtube.com/watch?v=pLHEGzfwTTo](https://www.youtube.com/watch?v=pLHEGzfwTTo)
+
 ## December 20th, 2022 Livestream
 * [State of Dave](../../transcriptions/yt-e2jnViGHggU.md) [https://www.youtube.com/watch?v=e2jnViGHggU](https://www.youtube.com/watch?v=e2jnViGHggU)
 

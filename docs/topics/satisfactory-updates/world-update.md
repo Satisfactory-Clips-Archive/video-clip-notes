@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > World Update
 
+## January 10th, 2023 Livestream
+* [Q&A: Any plans to make Exploration more rewarding?](../../transcriptions/yt-F0PPHXzy33Q.md) [https://www.youtube.com/watch?v=F0PPHXzy33Q](https://www.youtube.com/watch?v=F0PPHXzy33Q)
+* [Q&A: I'm assuming the idea for Water Currents never came to be?](../../transcriptions/yt-lgMZqItgUBQ.md) [https://www.youtube.com/watch?v=lgMZqItgUBQ](https://www.youtube.com/watch?v=lgMZqItgUBQ)
+
 ## December 13th, 2022 Livestream
 * [Q&A: Are you going to add some new Ores to the Biome?](../../transcriptions/yt-Ksc5BaTvDes.md) [https://www.youtube.com/watch?v=Ksc5BaTvDes](https://www.youtube.com/watch?v=Ksc5BaTvDes)
 * [Q&A: Will Paradise Island stay?](../../transcriptions/yt-PtRbXWl1tn4.md) [https://www.youtube.com/watch?v=PtRbXWl1tn4](https://www.youtube.com/watch?v=PtRbXWl1tn4)

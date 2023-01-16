@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Ben
 
+## January 10th, 2023 Livestream
+* [Q&A: I'm assuming the idea for Water Currents never came to be?](../../transcriptions/yt-lgMZqItgUBQ.md) [https://www.youtube.com/watch?v=lgMZqItgUBQ](https://www.youtube.com/watch?v=lgMZqItgUBQ)
+
 ## November 1st, 2022 Livestream
 * [Q&A: Will we ever get that fancy water you showed off?](../../transcriptions/yt-Tyrfm_MMOWQ.md) [https://www.youtube.com/watch?v=Tyrfm_MMOWQ](https://www.youtube.com/watch?v=Tyrfm_MMOWQ)
 

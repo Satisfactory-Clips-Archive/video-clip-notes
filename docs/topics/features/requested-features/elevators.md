@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Requested Features](../../../topics/features/requested-features.md) > Elevators
 
+## January 10th, 2023 Livestream
+* [Q&A: Has anything been discussed about elevators for personal or Vehicle use?](../../../transcriptions/yt-_5jjHydWeyA.md) [https://www.youtube.com/watch?v=_5jjHydWeyA](https://www.youtube.com/watch?v=_5jjHydWeyA)
+* [Q&A: Can you add angled elevators so I can make Evangelion-like factory?](../../../transcriptions/yt-csl9CW0Elc8.md) [https://www.youtube.com/watch?v=csl9CW0Elc8](https://www.youtube.com/watch?v=csl9CW0Elc8)
+
 ## September 13th, 2022 Livestream
 * [Q&A: Will there be Elevators?](../../../transcriptions/yt-cxJXCwnSIEA.md) [https://www.youtube.com/watch?v=cxJXCwnSIEA](https://www.youtube.com/watch?v=cxJXCwnSIEA)
 

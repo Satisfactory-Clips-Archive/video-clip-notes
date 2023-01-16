@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Embracer Group](../../../topics/embracer-group.md) > Coffee Stain Holding > Coffee Stain North
 
+## January 10th, 2023 Livestream
+* [Q&A: Has Coffee Stain North asked you to reprise your voice-acting role yet?](../../../transcriptions/yt-5atS5V5xlKs.md) [https://www.youtube.com/watch?v=5atS5V5xlKs](https://www.youtube.com/watch?v=5atS5V5xlKs)
+
 ## July 12th, 2022 Livestream
 * [Q&A: Why is Coffee Stain Studios actually multiple studios?](../../../transcriptions/yt-cBaieySbHAk.md) [https://www.youtube.com/watch?v=cBaieySbHAk](https://www.youtube.com/watch?v=cBaieySbHAk)
 
