@@ -1,5 +1,6 @@
 ---
 title: "Lym"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEr_4xLQAm_Jk85CJRW6hjhT
 date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Lym

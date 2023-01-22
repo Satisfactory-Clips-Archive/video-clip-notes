@@ -8,7 +8,7 @@ topics:
 # [March 30th, 2021 Livestream](../2021-03-30.md)
 ## Q&A: Faster autosaves?
 https://www.youtube.com/watch?v=V1HcV3g7ELg
-This question was possibly duplicated with a more recent answer: [November 29th, 2022 Livestream Q&A: Why does the game have to stutter when the Autosave kicks in?](./yt-eKhzlLqhuPY.md) [https://www.youtube.com/watch?v=eKhzlLqhuPY](https://www.youtube.com/watch?v=eKhzlLqhuPY)
+This question was possibly duplicated with a more recent answer: [January 17th, 2023 Livestream Q&A: A way for faster Autosaves?](./yt-vRHcjLUjio8.md) [https://www.youtube.com/watch?v=vRHcjLUjio8](https://www.youtube.com/watch?v=vRHcjLUjio8)
 
 
 ### Topics

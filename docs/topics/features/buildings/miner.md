@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > Miner
 
+## January 17th, 2023 Livestream
+* [Q&A: Mk.3 Miner output situation?](../../../transcriptions/yt-L-ebK-Ux7kM.md) [https://www.youtube.com/watch?v=L-ebK-Ux7kM](https://www.youtube.com/watch?v=L-ebK-Ux7kM)
+
 ## January 10th, 2023 Livestream
 * [Q&A: Any updates on what will be done with Mk.3 Miners / Mk.5 Belts?](../../../transcriptions/yt-TtVVIrYgyKc.md) [https://www.youtube.com/watch?v=TtVVIrYgyKc](https://www.youtube.com/watch?v=TtVVIrYgyKc)
 

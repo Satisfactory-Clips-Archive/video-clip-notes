@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > Radar Tower
 
+## January 17th, 2023 Livestream
+* [Q&A: Can we increase the range of Boombox music, like slotting it into a Radio Tower?](../../../transcriptions/yt-OynxGMroQEQ.md) [https://www.youtube.com/watch?v=OynxGMroQEQ](https://www.youtube.com/watch?v=OynxGMroQEQ)
+
 ## September 27th, 2022 Livestream
 * [Q&A: What is the range of Radar Towers since height doesn't affect it any more?](../../../transcriptions/yt-yaYXQCKh4Xk.md) [https://www.youtube.com/watch?v=yaYXQCKh4Xk](https://www.youtube.com/watch?v=yaYXQCKh4Xk)
 

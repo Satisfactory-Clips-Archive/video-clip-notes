@@ -8,7 +8,7 @@ topics:
 # [March 2nd, 2021 Livestream](../2021-03-02.md)
 ## Q&A: Any new Animals?
 https://www.youtube.com/watch?v=c5EEG5MrTF0
-This question was possibly duplicated with a more recent answer: [December 20th, 2022 Livestream Q&A: What is the status of Crab Boss?](./yt-fvD3g8wvTt0.md) [https://www.youtube.com/watch?v=fvD3g8wvTt0](https://www.youtube.com/watch?v=fvD3g8wvTt0)
+This question was possibly duplicated with a more recent answer: [January 17th, 2023 Livestream Q&A: Still adding the Crab Queen to Satisfactory?](./yt-eYSj1mtYFZI.md) [https://www.youtube.com/watch?v=eYSj1mtYFZI](https://www.youtube.com/watch?v=eYSj1mtYFZI)
 
 
 ### Topics

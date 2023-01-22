@@ -32,6 +32,9 @@ date: Last Modified
 * [Utility Signs](../topics/mods/utility-signs.md)
 * [Zip Strips](../topics/mods/zip-strips.md)
 
+## January 20th, 2023 Video
+* [It may not be our fault (we swear!)](../transcriptions/yt-_IHY_1L3pBY,804.2701333333333,860.0592.md) [https://youtube.com/clip/Ugkx38lVEF1AoWWIDSL5SMKLYbJre94p0Zyu](https://youtube.com/clip/Ugkx38lVEF1AoWWIDSL5SMKLYbJre94p0Zyu)
+
 ## December 6th, 2022 Livestream
 * Q&A: Did Update 7 break Mods? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7129&end=7167](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7129&end=7167)
 

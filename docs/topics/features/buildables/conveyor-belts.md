@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildables](../../../topics/features/buildables.md) > Conveyor Belts
 
+## January 17th, 2023 Livestream
+* [Q&A: Can we put Floor Holes on an existing Conveyor Lift?](../../../transcriptions/yt-BhhJ3BnFtPA.md) [https://www.youtube.com/watch?v=BhhJ3BnFtPA](https://www.youtube.com/watch?v=BhhJ3BnFtPA)
+* [Q&A: Are there plans for an indicator for when a Splitter/Merger is actually connected to the Belt?](../../../transcriptions/yt-TrtSKbNGWs4.md) [https://www.youtube.com/watch?v=TrtSKbNGWs4](https://www.youtube.com/watch?v=TrtSKbNGWs4)
+* [Q&A: Anybody else think this game should be called Satisbeltory?](../../../transcriptions/yt-xTVg8A2aIc0.md) [https://www.youtube.com/watch?v=xTVg8A2aIc0](https://www.youtube.com/watch?v=xTVg8A2aIc0)
+
 ## January 10th, 2023 Livestream
 * [Q&A: Any updates on what will be done with Mk.3 Miners / Mk.5 Belts?](../../../transcriptions/yt-TtVVIrYgyKc.md) [https://www.youtube.com/watch?v=TtVVIrYgyKc](https://www.youtube.com/watch?v=TtVVIrYgyKc)
 

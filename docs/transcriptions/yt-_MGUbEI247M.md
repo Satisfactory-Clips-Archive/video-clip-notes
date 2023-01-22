@@ -8,7 +8,7 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: Will you create Console version of Satisfactory?
 https://www.youtube.com/watch?v=_MGUbEI247M
-This question was possibly duplicated with a more recent answer: December 6th, 2022 Livestream Q&A: Will y'all ever consider expanding the game to Consoles? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6410&end=6434](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6410&end=6434)
+This question was possibly duplicated with a more recent answer: [January 17th, 2023 Livestream Q&A: Is Console/cross-platform on the post-1.0 roadmap?](./yt-EpwkYTHco_o.md) [https://www.youtube.com/watch?v=EpwkYTHco_o](https://www.youtube.com/watch?v=EpwkYTHco_o)
 
 
 ### Topics

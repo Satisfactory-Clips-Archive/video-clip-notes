@@ -11,7 +11,7 @@ topics:
 # [November 1st, 2022 Livestream](../2022-11-01.md)
 ## Q&A: Beacons & Recipes for Update 7?
 https://www.youtube.com/watch?v=WlQm5uZ0Dlg
-This question was possibly duplicated with a more recent answer: [November 8th, 2022 Livestream Q&A: Will the Beacon alt be removed in Update 7?](./yt-5YEG0e2Zrn0.md) [https://www.youtube.com/watch?v=5YEG0e2Zrn0](https://www.youtube.com/watch?v=5YEG0e2Zrn0)
+This question was possibly duplicated with a more recent answer: [January 17th, 2023 Livestream Q&A: Is there an update on the Alt Recipe involving Beacons?](./yt-Mc7EGPNHfZ8.md) [https://www.youtube.com/watch?v=Mc7EGPNHfZ8](https://www.youtube.com/watch?v=Mc7EGPNHfZ8)
 
 
 ### Topics

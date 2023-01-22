@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Equipment](../../../topics/features/equipment.md) > Boombox
 
+## January 17th, 2023 Livestream
+* [Q&A: Can we increase the range of Boombox music, like slotting it into a Radio Tower?](../../../transcriptions/yt-OynxGMroQEQ.md) [https://www.youtube.com/watch?v=OynxGMroQEQ](https://www.youtube.com/watch?v=OynxGMroQEQ)
+
 ## January 10th, 2023 Livestream
 * [Q&A: Add Outer Wilds OST as Boombox Tape in Satisfactory?](../../../transcriptions/yt-JrXyDldK4GU.md) [https://www.youtube.com/watch?v=JrXyDldK4GU](https://www.youtube.com/watch?v=JrXyDldK4GU)
 * [Q&A: Any plans to fix the Boombox / Ultra-wide monitor bug?](../../../transcriptions/yt-Rsu-oLJcBe4.md) [https://www.youtube.com/watch?v=Rsu-oLJcBe4](https://www.youtube.com/watch?v=Rsu-oLJcBe4)

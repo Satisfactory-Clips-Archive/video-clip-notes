@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Build Modes](../../../topics/features/build-modes.md) > Hard & Soft Clearance
 * [Complex Clearance](../../../topics/features/build-modes/hard-and-soft-clearance/complex-clearance.md)
 
+## January 17th, 2023 Livestream
+* [Q&A: Will Blueprints ever have Soft Clearance?](../../../transcriptions/yt-O92KxbkCgWo.md) [https://www.youtube.com/watch?v=O92KxbkCgWo](https://www.youtube.com/watch?v=O92KxbkCgWo)
+
 ## October 25th, 2022 Livestream
 * [Q&A: Can you make the Walls no collide on each other?](../../../transcriptions/yt-HHjgWItYm2s.md) [https://www.youtube.com/watch?v=HHjgWItYm2s](https://www.youtube.com/watch?v=HHjgWItYm2s)
 

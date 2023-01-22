@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Possible Features](../../../topics/features/possible-features.md) > Character Customisation
 
+## January 17th, 2023 Livestream
+* [Q&A: Character Customisation?](../../../transcriptions/yt-8aKhUtVsGrw.md) [https://www.youtube.com/watch?v=8aKhUtVsGrw](https://www.youtube.com/watch?v=8aKhUtVsGrw)
+* [Q&A: Flannel Pioneer skin?](../../../transcriptions/yt-Mh8RjXtSI-M.md) [https://www.youtube.com/watch?v=Mh8RjXtSI-M](https://www.youtube.com/watch?v=Mh8RjXtSI-M)
+
 ## November 22nd, 2022 Livestream
 * [Q&A: Flannel Pioneer skin?](../../../transcriptions/yt-ZJMVRLBtxOE.md) [https://www.youtube.com/watch?v=ZJMVRLBtxOE](https://www.youtube.com/watch?v=ZJMVRLBtxOE)
 

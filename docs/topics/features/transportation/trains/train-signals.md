@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > Transportation > [Trains](../../../../topics/features/transportation/trains.md) > Train Signals
 
+## January 17th, 2023 Livestream
+* [Q&A: Any plans to update Train UI? I'm finding it tough to troubleshoot the Signals.](../../../../transcriptions/yt-HfrbBM2xqkc.md) [https://www.youtube.com/watch?v=HfrbBM2xqkc](https://www.youtube.com/watch?v=HfrbBM2xqkc)
+
 ## October 18th, 2022 Livestream
 * [Q&A: Can you fix the Train switches?](../../../../transcriptions/yt-JFU5ivV0BPc.md) [https://www.youtube.com/watch?v=JFU5ivV0BPc](https://www.youtube.com/watch?v=JFU5ivV0BPc)
 

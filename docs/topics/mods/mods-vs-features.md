@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Mods](../../topics/mods.md) > Mods vs. Features
 
+## January 17th, 2023 Livestream
+* [Q&A: Ever thought about a move-it function?](../../transcriptions/yt-dPlD3dA9pfc.md) [https://www.youtube.com/watch?v=dPlD3dA9pfc](https://www.youtube.com/watch?v=dPlD3dA9pfc)
+
 ## January 10th, 2023 Livestream
 * [Q&A: Are there any plans to add VR in Satisfactory?](../../transcriptions/yt-IEF1X5YhgJY.md) [https://www.youtube.com/watch?v=IEF1X5YhgJY](https://www.youtube.com/watch?v=IEF1X5YhgJY)
 * [Q&A: Will the game have logic in the future?](../../transcriptions/yt-Q55YDWLQY2g.md) [https://www.youtube.com/watch?v=Q55YDWLQY2g](https://www.youtube.com/watch?v=Q55YDWLQY2g)

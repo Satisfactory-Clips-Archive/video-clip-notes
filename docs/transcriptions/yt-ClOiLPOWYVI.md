@@ -10,6 +10,8 @@ topics:
 # [September 7th, 2021 Livestream](../2021-09-07.md)
 ## Q&A: Will Ramp versions be able to be half as well?
 https://www.youtube.com/watch?v=ClOiLPOWYVI
+This question was possibly duplicated with a more recent answer: [January 17th, 2023 Livestream Q&A: Any possibility of Half-sized Angle Foundations?](./yt-dOrOjleHTsI.md) [https://www.youtube.com/watch?v=dOrOjleHTsI](https://www.youtube.com/watch?v=dOrOjleHTsI)
+
 
 ### Topics
 * [Features > Buildables > Foundations](../topics/features/buildables/foundations.md)

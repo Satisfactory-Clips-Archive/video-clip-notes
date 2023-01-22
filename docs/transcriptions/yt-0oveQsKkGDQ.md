@@ -10,7 +10,7 @@ topics:
 # [March 1st, 2022 Livestream](../2022-03-01.md)
 ## Q&A: Can we get something to allow us to make full use of Mk.3 Miner?
 https://www.youtube.com/watch?v=0oveQsKkGDQ
-This question was possibly duplicated with a more recent answer: [January 10th, 2023 Livestream Q&A: Any updates on what will be done with Mk.3 Miners / Mk.5 Belts?](./yt-TtVVIrYgyKc.md) [https://www.youtube.com/watch?v=TtVVIrYgyKc](https://www.youtube.com/watch?v=TtVVIrYgyKc)
+This question was possibly duplicated with a more recent answer: [January 17th, 2023 Livestream Q&A: Mk.3 Miner output situation?](./yt-L-ebK-Ux7kM.md) [https://www.youtube.com/watch?v=L-ebK-Ux7kM](https://www.youtube.com/watch?v=L-ebK-Ux7kM)
 
 
 ### Topics

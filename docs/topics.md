@@ -497,6 +497,7 @@ date: Last Modified
 * [Update 6 Patch Notes Video](./topics/satisfactory-updates/teasers-and-trailers/update-6-patch-notes-video.md)
 * [Update 7 Teasers](./topics/satisfactory-updates/teasers-and-trailers/update-7-teasers.md)
 * [Update 7 Patch Notes Video](./topics/satisfactory-updates/teasers-and-trailers/update-7-patch-notes-video.md)
+* [Update 8 Teasers](./topics/satisfactory-updates/teasers-and-trailers/update-8-teasers.md)
 ---
 
 ## [Satisfactory Prototypes](./topics/satisfactory-updates/satisfactory-prototypes.md)

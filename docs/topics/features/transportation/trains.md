@@ -6,6 +6,10 @@ date: Last Modified
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > Transportation > Trains
 * [Train Signals](../../../topics/features/transportation/trains/train-signals.md)
 
+## January 17th, 2023 Livestream
+* [Q&A: Will there eventually be a feature to transport Gas with Trains?](../../../transcriptions/yt-uTnCjizuHYY.md) [https://www.youtube.com/watch?v=uTnCjizuHYY](https://www.youtube.com/watch?v=uTnCjizuHYY)
+* [Q&A: Any plans to update Train UI? I'm finding it tough to troubleshoot the Signals.](../../../transcriptions/yt-HfrbBM2xqkc.md) [https://www.youtube.com/watch?v=HfrbBM2xqkc](https://www.youtube.com/watch?v=HfrbBM2xqkc)
+
 ## January 10th, 2023 Livestream
 * [Q&A: What are the chances of having a Train Station with the ability to transport Trucks / Tractors?](../../../transcriptions/yt-bTxVGHnNpLU.md) [https://www.youtube.com/watch?v=bTxVGHnNpLU](https://www.youtube.com/watch?v=bTxVGHnNpLU)
 * [Q&A: Railway turntable might be handy for Trains?](../../../transcriptions/yt-qZP-PpkUf88.md) [https://www.youtube.com/watch?v=qZP-PpkUf88](https://www.youtube.com/watch?v=qZP-PpkUf88)

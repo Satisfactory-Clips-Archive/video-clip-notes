@@ -9,7 +9,7 @@ topics:
 # [November 24th, 2020 Livestream](../2020-11-24.md)
 ## Q&A: Does the Engine update include the waterfall graphics update?
 https://www.youtube.com/watch?v=M9j9Bys_r_U
-This question was possibly duplicated with a more recent answer: [January 10th, 2023 Livestream Q&A: I'm assuming the idea for Water Currents never came to be?](./yt-lgMZqItgUBQ.md) [https://www.youtube.com/watch?v=lgMZqItgUBQ](https://www.youtube.com/watch?v=lgMZqItgUBQ)
+This question was possibly replaced with a more recent answer: [January 17th, 2023 Livestream Q&A: Are you still adding Ben's Water changes?](./yt-TQywXXECQ6g.md) [https://www.youtube.com/watch?v=TQywXXECQ6g](https://www.youtube.com/watch?v=TQywXXECQ6g)
 
 
 ### Topics

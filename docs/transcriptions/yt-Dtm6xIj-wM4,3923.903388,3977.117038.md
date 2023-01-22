@@ -11,7 +11,7 @@ topics:
 # [February 6th, 2019 Livestream](../2019-02-06.md)
 ## Q&A: Will there be any cosmetics available?
 https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3923&end=3978
-This question was possibly duplicated with a more recent answer: [November 1st, 2022 Livestream Q&A: Are we ever going to get a Character Creator?](./yt-bm243X-6tBI.md) [https://www.youtube.com/watch?v=bm243X-6tBI](https://www.youtube.com/watch?v=bm243X-6tBI)
+This question was possibly duplicated with a more recent answer: [January 17th, 2023 Livestream Q&A: Character Customisation?](./yt-8aKhUtVsGrw.md) [https://www.youtube.com/watch?v=8aKhUtVsGrw](https://www.youtube.com/watch?v=8aKhUtVsGrw)
 
 
 ### Topics

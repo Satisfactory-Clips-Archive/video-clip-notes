@@ -9,7 +9,7 @@ topics:
 # [September 13th, 2022 Livestream](../2022-09-13.md)
 ## Q&A: Are you going to change the Recipes for Beacons?
 https://www.youtube.com/watch?v=4tCjpG1zJc0
-This question was possibly duplicated with a more recent answer: [November 8th, 2022 Livestream Q&A: Will the Beacon alt be removed in Update 7?](./yt-5YEG0e2Zrn0.md) [https://www.youtube.com/watch?v=5YEG0e2Zrn0](https://www.youtube.com/watch?v=5YEG0e2Zrn0)
+This question was possibly duplicated with a more recent answer: [January 17th, 2023 Livestream Q&A: Is there an update on the Alt Recipe involving Beacons?](./yt-Mc7EGPNHfZ8.md) [https://www.youtube.com/watch?v=Mc7EGPNHfZ8](https://www.youtube.com/watch?v=Mc7EGPNHfZ8)
 
 
 ### Topics

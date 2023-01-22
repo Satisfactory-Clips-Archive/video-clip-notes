@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Environment](../../topics/environment.md) > Weather Systems
 
+## January 17th, 2023 Livestream
+* [Q&A: Any plans to add new types of weather- thunderstorms or snow?](../../transcriptions/yt-9gJu-P3CsPU.md) [https://www.youtube.com/watch?v=9gJu-P3CsPU](https://www.youtube.com/watch?v=9gJu-P3CsPU)
+
 ## January 10th, 2023 Livestream
 * [Q&A: Why no Snow at FICSMAS?](../../transcriptions/yt-57MNnpD8azY.md) [https://www.youtube.com/watch?v=57MNnpD8azY](https://www.youtube.com/watch?v=57MNnpD8azY)
 * [Q&A: Is Rain gone?](../../transcriptions/yt-F3CCULMKuAY.md) [https://www.youtube.com/watch?v=F3CCULMKuAY](https://www.youtube.com/watch?v=F3CCULMKuAY)

@@ -10,7 +10,7 @@ topics:
 # [April 12th, 2022 Livestream](../2022-04-12.md)
 ## Q&A: Do you plan on addressing the auto-save freeze up before 1.0, or at all?
 https://www.youtube.com/watch?v=n13Cbh3Jn8Y
-This question was possibly duplicated with a more recent answer: [November 29th, 2022 Livestream Q&A: Why does the game have to stutter when the Autosave kicks in?](./yt-eKhzlLqhuPY.md) [https://www.youtube.com/watch?v=eKhzlLqhuPY](https://www.youtube.com/watch?v=eKhzlLqhuPY)
+This question was possibly duplicated with a more recent answer: [January 17th, 2023 Livestream Q&A: A way for faster Autosaves?](./yt-vRHcjLUjio8.md) [https://www.youtube.com/watch?v=vRHcjLUjio8](https://www.youtube.com/watch?v=vRHcjLUjio8)
 
 
 ### Topics

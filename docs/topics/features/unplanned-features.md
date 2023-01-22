@@ -17,6 +17,13 @@ date: Last Modified
 * [Terraforming](../../topics/features/unplanned-features/terraforming.md)
 * [VR](../../topics/features/unplanned-features/vr.md)
 
+## January 20th, 2023 Video
+* [A suggested feature does not fit with our idea of the game](../../transcriptions/yt-_IHY_1L3pBY,860.0925666666667,882.5149666666667.md) [https://youtube.com/clip/Ugkx6gzhnrOFCwWKNToCbdfwyGhN6igYDpU1](https://youtube.com/clip/Ugkx6gzhnrOFCwWKNToCbdfwyGhN6igYDpU1)
+
+## January 17th, 2023 Livestream
+* [Q&A: Will you do a Factory Cart-sized Truck Stop?](../../transcriptions/yt-EcIWfpr1P7g.md) [https://www.youtube.com/watch?v=EcIWfpr1P7g](https://www.youtube.com/watch?v=EcIWfpr1P7g)
+* [Q&A: Pass time of day by sleeping in HUB?](../../transcriptions/yt-QAOOxosXeDw.md) [https://www.youtube.com/watch?v=QAOOxosXeDw](https://www.youtube.com/watch?v=QAOOxosXeDw)
+
 ## December 20th, 2022 Livestream
 * [Q&A: Any aquatic animals?](../../transcriptions/yt-73CjuOThYVg.md) [https://www.youtube.com/watch?v=73CjuOThYVg](https://www.youtube.com/watch?v=73CjuOThYVg)
 

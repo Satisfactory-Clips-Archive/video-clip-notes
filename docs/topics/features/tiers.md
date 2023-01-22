@@ -16,6 +16,9 @@ date: Last Modified
 * [Tier 9](../../topics/features/tiers/tier-9.md)
 * [Tier 10](../../topics/features/tiers/tier-10.md)
 
+## January 17th, 2023 Livestream
+* [Q&A: Are the numbers for the last Phase just to keep us busy, or will 1.0 have different numbers?](../../transcriptions/yt-6FYrxhDCs9o.md) [https://www.youtube.com/watch?v=6FYrxhDCs9o](https://www.youtube.com/watch?v=6FYrxhDCs9o)
+
 ## January 10th, 2023 Livestream
 * [Q&A: Will Phase 4 part requirements be rebalanced when the next Tier is introduced?](../../transcriptions/yt-L4OmCrYGtqs.md) [https://www.youtube.com/watch?v=L4OmCrYGtqs](https://www.youtube.com/watch?v=L4OmCrYGtqs)
 

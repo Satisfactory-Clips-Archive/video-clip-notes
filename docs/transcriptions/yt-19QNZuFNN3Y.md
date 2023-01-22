@@ -8,7 +8,7 @@ topics:
 # [March 17th, 2021 Satisfactory Update 4 Patch Notes vid commentary](../2021-03-17.md)
 ## Q&A: Does this mean that Console is confirmed?
 https://www.youtube.com/watch?v=19QNZuFNN3Y
-This question was possibly duplicated with a more recent answer: December 6th, 2022 Livestream Q&A: Will y'all ever consider expanding the game to Consoles? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6410&end=6434](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6410&end=6434)
+This question was possibly duplicated with a more recent answer: [January 17th, 2023 Livestream Q&A: Is Console/cross-platform on the post-1.0 roadmap?](./yt-EpwkYTHco_o.md) [https://www.youtube.com/watch?v=EpwkYTHco_o](https://www.youtube.com/watch?v=EpwkYTHco_o)
 
 
 ### Topics

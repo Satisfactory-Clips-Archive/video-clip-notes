@@ -8,7 +8,7 @@ topics:
 # [December 17th, 2020 Q&A](../2020-12-17.md)
 ## Q&A: How does the current trajectory to the game compare to everyone's original concept?
 https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=254&end=326
-This question was possibly duplicated with a more recent answer: [December 20th, 2022 Livestream Q&A: Is there a public 1.0 target date?](./yt-A392N1wOyd8.md) [https://www.youtube.com/watch?v=A392N1wOyd8](https://www.youtube.com/watch?v=A392N1wOyd8)
+This question was possibly duplicated with a more recent answer: [January 17th, 2023 Livestream Q&A: 1.0 is 2023?](./yt-RzxU-GHuLNs.md) [https://www.youtube.com/watch?v=RzxU-GHuLNs](https://www.youtube.com/watch?v=RzxU-GHuLNs)
 
 
 ### Topics

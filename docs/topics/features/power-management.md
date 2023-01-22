@@ -10,6 +10,9 @@ date: Last Modified
 * [Power Storage](../../topics/features/power-management/power-storage.md)
 * [Power Switch](../../topics/features/power-management/power-switch.md)
 
+## January 17th, 2023 Livestream
+* [Q&A: How do you stop the Stingers from respawning?](../../transcriptions/yt-s47Oa_B0tc4.md) [https://www.youtube.com/watch?v=s47Oa_B0tc4](https://www.youtube.com/watch?v=s47Oa_B0tc4)
+
 ## January 10th, 2023 Livestream
 * [Q&A: What about a Rail piece with a Power connector?](../../transcriptions/yt-tgZILwzuFd0.md) [https://www.youtube.com/watch?v=tgZILwzuFd0](https://www.youtube.com/watch?v=tgZILwzuFd0)
 

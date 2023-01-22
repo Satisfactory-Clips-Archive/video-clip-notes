@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Requested Features](../../../topics/features/requested-features.md) > Crossovers
 
+## January 17th, 2023 Livestream
+* [Q&A: Power Wash Simulator, Satisfactory edition?](../../../transcriptions/yt-ArGfw1TTwJU.md) [https://www.youtube.com/watch?v=ArGfw1TTwJU](https://www.youtube.com/watch?v=ArGfw1TTwJU)
+
 ## January 10th, 2023 Livestream
 * [Q&A: Can we get Lizard Doggo as playable skins in Goat Simulator 3?](../../../transcriptions/yt-PGNDAXjy0ug.md) [https://www.youtube.com/watch?v=PGNDAXjy0ug](https://www.youtube.com/watch?v=PGNDAXjy0ug)
 

@@ -8,7 +8,7 @@ topics:
 # [October 6th, 2020 Livestream](../2020-10-06.md)
 ## Q&A: When do we get the Crab Boss?
 https://www.youtube.com/watch?v=m4PtschrKJc
-This question was possibly duplicated with a more recent answer: [December 20th, 2022 Livestream Q&A: What is the status of Crab Boss?](./yt-fvD3g8wvTt0.md) [https://www.youtube.com/watch?v=fvD3g8wvTt0](https://www.youtube.com/watch?v=fvD3g8wvTt0)
+This question was possibly duplicated with a more recent answer: [January 17th, 2023 Livestream Q&A: Still adding the Crab Queen to Satisfactory?](./yt-eYSj1mtYFZI.md) [https://www.youtube.com/watch?v=eYSj1mtYFZI](https://www.youtube.com/watch?v=eYSj1mtYFZI)
 
 
 ### Topics

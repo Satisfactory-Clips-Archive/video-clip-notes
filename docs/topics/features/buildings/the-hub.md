@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > The HUB
 
+## January 17th, 2023 Livestream
+* [Q&A: Pass time of day by sleeping in HUB?](../../../transcriptions/yt-QAOOxosXeDw.md) [https://www.youtube.com/watch?v=QAOOxosXeDw](https://www.youtube.com/watch?v=QAOOxosXeDw)
+
 ## December 6th, 2022 Livestream
 * Q&A: Will there be ability to decorate the room in the HUB, it feels bare? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7408&end=7438](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=7408&end=7438)
 

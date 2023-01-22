@@ -10,6 +10,20 @@ date: Last Modified
 * [Pollution](../../topics/features/requested-features/pollution.md)
 * [Third-person View](../../topics/features/requested-features/third-person-view.md)
 
+## January 17th, 2023 Livestream
+* [Q&A: Can we have a telescope to look at the newly-added celestial bodies?](../../transcriptions/yt-6uYltuXykY0.md) [https://www.youtube.com/watch?v=6uYltuXykY0](https://www.youtube.com/watch?v=6uYltuXykY0)
+* [Q&A: Can we put Floor Holes on an existing Conveyor Lift?](../../transcriptions/yt-BhhJ3BnFtPA.md) [https://www.youtube.com/watch?v=BhhJ3BnFtPA](https://www.youtube.com/watch?v=BhhJ3BnFtPA)
+* [Q&A: Zoop Blueprints?](../../transcriptions/yt-uxo-xBbVKdU.md) [https://www.youtube.com/watch?v=uxo-xBbVKdU](https://www.youtube.com/watch?v=uxo-xBbVKdU)
+* [Q&A: Will Blueprints ever have Soft Clearance?](../../transcriptions/yt-O92KxbkCgWo.md) [https://www.youtube.com/watch?v=O92KxbkCgWo](https://www.youtube.com/watch?v=O92KxbkCgWo)
+* [Q&A: Any possibility of Half-sized Angle Foundations?](../../transcriptions/yt-dOrOjleHTsI.md) [https://www.youtube.com/watch?v=dOrOjleHTsI](https://www.youtube.com/watch?v=dOrOjleHTsI)
+* [Q&A: Maybe post-1.0, having a Snow Biome with consumable heat batteries or you take damage?](../../transcriptions/yt-r33EJVJcux0.md) [https://www.youtube.com/watch?v=r33EJVJcux0](https://www.youtube.com/watch?v=r33EJVJcux0)
+* [Q&A: A way for faster Autosaves?](../../transcriptions/yt-vRHcjLUjio8.md) [https://www.youtube.com/watch?v=vRHcjLUjio8](https://www.youtube.com/watch?v=vRHcjLUjio8)
+* [Q&A: Can we increase the range of Boombox music, like slotting it into a Radio Tower?](../../transcriptions/yt-OynxGMroQEQ.md) [https://www.youtube.com/watch?v=OynxGMroQEQ](https://www.youtube.com/watch?v=OynxGMroQEQ)
+* [Q&A: Are there plans for an indicator for when a Splitter/Merger is actually connected to the Belt?](../../transcriptions/yt-TrtSKbNGWs4.md) [https://www.youtube.com/watch?v=TrtSKbNGWs4](https://www.youtube.com/watch?v=TrtSKbNGWs4)
+* [Q&A: Add closed-captions on stream?](../../transcriptions/yt-fuat82sObyI.md) [https://www.youtube.com/watch?v=fuat82sObyI](https://www.youtube.com/watch?v=fuat82sObyI)
+* [Q&A: If you were part of the dev team, what features would Jace like to see?](../../transcriptions/yt-n6iI2AlYeD4.md) [https://www.youtube.com/watch?v=n6iI2AlYeD4](https://www.youtube.com/watch?v=n6iI2AlYeD4)
+* [Q&A: Can I change my mug colour?](../../transcriptions/yt-rqNvN5PPDLs.md) [https://www.youtube.com/watch?v=rqNvN5PPDLs](https://www.youtube.com/watch?v=rqNvN5PPDLs)
+
 ## January 10th, 2023 Livestream
 * [Q&A: Any idea how high of a priority it is to fix the smoothness of driving on Foundations?](../../transcriptions/yt-4qgk0863g0Y.md) [https://www.youtube.com/watch?v=4qgk0863g0Y](https://www.youtube.com/watch?v=4qgk0863g0Y)
 * [Q&A: Why no Snow at FICSMAS?](../../transcriptions/yt-57MNnpD8azY.md) [https://www.youtube.com/watch?v=57MNnpD8azY](https://www.youtube.com/watch?v=57MNnpD8azY)

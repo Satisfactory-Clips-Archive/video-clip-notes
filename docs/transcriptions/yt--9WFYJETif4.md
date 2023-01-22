@@ -9,7 +9,7 @@ topics:
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: Is automated food production planned?
 https://www.youtube.com/watch?v=-9WFYJETif4
-This question was possibly duplicated with a more recent answer: [December 13th, 2022 Livestream Q&A: Do you think Farming is a possibility in the future?](./yt-Ul9AgRudGpw.md) [https://www.youtube.com/watch?v=Ul9AgRudGpw](https://www.youtube.com/watch?v=Ul9AgRudGpw)
+This question was possibly duplicated with a more recent answer: [January 17th, 2023 Livestream Q&A: Automated Farming?](./yt--pjqXHzqWGE.md) [https://www.youtube.com/watch?v=-pjqXHzqWGE](https://www.youtube.com/watch?v=-pjqXHzqWGE)
 
 
 ### Topics

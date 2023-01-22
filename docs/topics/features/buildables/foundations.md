@@ -7,6 +7,9 @@ date: Last Modified
 * [Cheatcrete](../../../topics/features/buildables/foundations/cheatcrete.md)
 * [Foundation Stencils](../../../topics/features/buildables/foundations/stencils.md)
 
+## January 17th, 2023 Livestream
+* [Q&A: Any possibility of Half-sized Angle Foundations?](../../../transcriptions/yt-dOrOjleHTsI.md) [https://www.youtube.com/watch?v=dOrOjleHTsI](https://www.youtube.com/watch?v=dOrOjleHTsI)
+
 ## January 10th, 2023 Livestream
 * [Q&A: Any idea how high of a priority it is to fix the smoothness of driving on Foundations?](../../../transcriptions/yt-4qgk0863g0Y.md) [https://www.youtube.com/watch?v=4qgk0863g0Y](https://www.youtube.com/watch?v=4qgk0863g0Y)
 

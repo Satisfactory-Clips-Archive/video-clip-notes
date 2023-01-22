@@ -8,7 +8,7 @@ topics:
 # [February 2nd, 2021 Livestream](../2021-02-02.md)
 ## Q&A: Is there a way we can make Autosave more seamless?
 https://www.youtube.com/watch?v=UFWTP8Nu-MI
-This question was possibly duplicated with a more recent answer: [November 29th, 2022 Livestream Q&A: Why does the game have to stutter when the Autosave kicks in?](./yt-eKhzlLqhuPY.md) [https://www.youtube.com/watch?v=eKhzlLqhuPY](https://www.youtube.com/watch?v=eKhzlLqhuPY)
+This question was possibly duplicated with a more recent answer: [January 17th, 2023 Livestream Q&A: A way for faster Autosaves?](./yt-vRHcjLUjio8.md) [https://www.youtube.com/watch?v=vRHcjLUjio8](https://www.youtube.com/watch?v=vRHcjLUjio8)
 
 
 ### Topics

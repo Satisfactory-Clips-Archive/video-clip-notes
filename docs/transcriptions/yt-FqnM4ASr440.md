@@ -9,7 +9,7 @@ topics:
 # [June 15th, 2021 Livestream](../2021-06-15.md)
 ## Q&A: Will Ben's water system be included?
 https://www.youtube.com/watch?v=FqnM4ASr440
-This question was possibly duplicated with a more recent answer: [January 10th, 2023 Livestream Q&A: I'm assuming the idea for Water Currents never came to be?](./yt-lgMZqItgUBQ.md) [https://www.youtube.com/watch?v=lgMZqItgUBQ](https://www.youtube.com/watch?v=lgMZqItgUBQ)
+This question was possibly replaced with a more recent answer: [January 17th, 2023 Livestream Q&A: Are you still adding Ben's Water changes?](./yt-TQywXXECQ6g.md) [https://www.youtube.com/watch?v=TQywXXECQ6g](https://www.youtube.com/watch?v=TQywXXECQ6g)
 
 
 ### Topics

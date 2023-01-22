@@ -12,7 +12,7 @@ topics:
 # [May 24th, 2022 Livestream](../2022-05-24.md)
 ## Q&A: Is it safe to make an Alt Recipe Nuclear factory?
 https://www.youtube.com/watch?v=Mi7GvyXRA3g
-This question was possibly duplicated with a more recent answer: [November 8th, 2022 Livestream Q&A: Will the Beacon alt be removed in Update 7?](./yt-5YEG0e2Zrn0.md) [https://www.youtube.com/watch?v=5YEG0e2Zrn0](https://www.youtube.com/watch?v=5YEG0e2Zrn0)
+This question was possibly duplicated with a more recent answer: [January 17th, 2023 Livestream Q&A: Is there an update on the Alt Recipe involving Beacons?](./yt-Mc7EGPNHfZ8.md) [https://www.youtube.com/watch?v=Mc7EGPNHfZ8](https://www.youtube.com/watch?v=Mc7EGPNHfZ8)
 
 
 ### Topics

@@ -8,7 +8,7 @@ topics:
 # [January 18th, 2022 Livestream](../2022-01-18.md)
 ## Q&A: When's Satisfactory due on Nintendo Switch?
 https://www.youtube.com/watch?v=et-JsEQbwt8
-This question was possibly duplicated with a more recent answer: December 6th, 2022 Livestream Q&A: Will y'all ever consider expanding the game to Consoles? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6410&end=6434](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6410&end=6434)
+This question was possibly duplicated with a more recent answer: [January 17th, 2023 Livestream Q&A: Is Console/cross-platform on the post-1.0 roadmap?](./yt-EpwkYTHco_o.md) [https://www.youtube.com/watch?v=EpwkYTHco_o](https://www.youtube.com/watch?v=EpwkYTHco_o)
 
 
 ### Topics

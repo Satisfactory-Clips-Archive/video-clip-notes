@@ -10,7 +10,7 @@ topics:
 # [October 5th, 2021 Livestream](../2021-10-05.md)
 ## Q&A: Done any further look into the Mk.3 Miner and the second output?
 https://www.youtube.com/watch?v=hM5HKud0ChI
-This question was possibly duplicated with a more recent answer: [January 10th, 2023 Livestream Q&A: Any updates on what will be done with Mk.3 Miners / Mk.5 Belts?](./yt-TtVVIrYgyKc.md) [https://www.youtube.com/watch?v=TtVVIrYgyKc](https://www.youtube.com/watch?v=TtVVIrYgyKc)
+This question was possibly duplicated with a more recent answer: [January 17th, 2023 Livestream Q&A: Mk.3 Miner output situation?](./yt-L-ebK-Ux7kM.md) [https://www.youtube.com/watch?v=L-ebK-Ux7kM](https://www.youtube.com/watch?v=L-ebK-Ux7kM)
 
 
 ### Topics

@@ -14,6 +14,9 @@ date: Last Modified
 * [User Interface](../topics/technology/user-interface.md)
 * [Vulkan](../topics/technology/vulkan.md)
 
+## January 20th, 2023 Video
+* [It may not be our fault (we swear!)](../transcriptions/yt-_IHY_1L3pBY,804.2701333333333,860.0592.md) [https://youtube.com/clip/Ugkx38lVEF1AoWWIDSL5SMKLYbJre94p0Zyu](https://youtube.com/clip/Ugkx38lVEF1AoWWIDSL5SMKLYbJre94p0Zyu)
+
 ## January 10th, 2023 Livestream
 * [Q&A: Is the game made in C# ?](../transcriptions/yt-9Y8Y94E9-eQ.md) [https://www.youtube.com/watch?v=9Y8Y94E9-eQ](https://www.youtube.com/watch?v=9Y8Y94E9-eQ)
 

@@ -10,7 +10,7 @@ topics:
 # [July 5th, 2022 Livestream](../2022-07-05.md)
 ## Q&A: Will there ever be a sleep option?
 https://www.youtube.com/watch?v=I-wckc7yt1M
-This question was possibly duplicated with a more recent answer: [September 27th, 2022 Livestream Q&A: Can sleeping be added?](./yt-f57Lrnspk10.md) [https://www.youtube.com/watch?v=f57Lrnspk10](https://www.youtube.com/watch?v=f57Lrnspk10)
+This question was possibly duplicated with a more recent answer: [January 17th, 2023 Livestream Q&A: Pass time of day by sleeping in HUB?](./yt-QAOOxosXeDw.md) [https://www.youtube.com/watch?v=QAOOxosXeDw](https://www.youtube.com/watch?v=QAOOxosXeDw)
 
 
 ### Topics

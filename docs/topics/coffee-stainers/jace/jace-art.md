@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Coffee Stainers](../../../topics/coffee-stainers.md) > [Jace](../../../topics/coffee-stainers/jace.md) > Jace Art
 
+## January 17th, 2023 Livestream
+* [Q&A: When can we expect some more Paint Jace Art?](../../../transcriptions/yt-UkmJW85GIC8.md) [https://www.youtube.com/watch?v=UkmJW85GIC8](https://www.youtube.com/watch?v=UkmJW85GIC8)
+
 ## November 29th, 2022 Livestream
 * [Q&A: Is that top-right sticker for sale?](../../../transcriptions/yt-zURRlCaCjy8.md) [https://www.youtube.com/watch?v=zURRlCaCjy8](https://www.youtube.com/watch?v=zURRlCaCjy8)
 

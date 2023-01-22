@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Save System](../../../topics/features/save-system.md) > Autosave
 
+## January 17th, 2023 Livestream
+* [Q&A: A way for faster Autosaves?](../../../transcriptions/yt-vRHcjLUjio8.md) [https://www.youtube.com/watch?v=vRHcjLUjio8](https://www.youtube.com/watch?v=vRHcjLUjio8)
+
 ## November 29th, 2022 Livestream
 * [Q&A: Why does the game have to stutter when the Autosave kicks in?](../../../transcriptions/yt-eKhzlLqhuPY.md) [https://www.youtube.com/watch?v=eKhzlLqhuPY](https://www.youtube.com/watch?v=eKhzlLqhuPY)
 

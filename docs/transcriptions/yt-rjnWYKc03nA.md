@@ -9,7 +9,7 @@ topics:
 # [April 12th, 2022 Livestream](../2022-04-12.md)
 ## Q&A: Do you as a company have a direction for after 1.0?
 https://www.youtube.com/watch?v=rjnWYKc03nA
-This question was possibly duplicated with a more recent answer: [September 27th, 2022 Livestream Q&A: What will you do after Satisfactory's done?](./yt-sBNBwZaHK_I.md) [https://www.youtube.com/watch?v=sBNBwZaHK_I](https://www.youtube.com/watch?v=sBNBwZaHK_I)
+This question was possibly duplicated with a more recent answer: [January 17th, 2023 Livestream Q&A: Has there been any talk of what Coffee Stain Studio's next project after Satisfactory might be?](./yt-_Ft7yoUu0YI.md) [https://www.youtube.com/watch?v=_Ft7yoUu0YI](https://www.youtube.com/watch?v=_Ft7yoUu0YI)
 
 
 ### Topics

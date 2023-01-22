@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > World Update
 
+## January 17th, 2023 Livestream
+* [Q&A: Are you still adding Ben's Water changes?](../../transcriptions/yt-TQywXXECQ6g.md) [https://www.youtube.com/watch?v=TQywXXECQ6g](https://www.youtube.com/watch?v=TQywXXECQ6g)
+
 ## January 10th, 2023 Livestream
 * [Q&A: Any plans to make Exploration more rewarding?](../../transcriptions/yt-F0PPHXzy33Q.md) [https://www.youtube.com/watch?v=F0PPHXzy33Q](https://www.youtube.com/watch?v=F0PPHXzy33Q)
 * [Q&A: I'm assuming the idea for Water Currents never came to be?](../../transcriptions/yt-lgMZqItgUBQ.md) [https://www.youtube.com/watch?v=lgMZqItgUBQ](https://www.youtube.com/watch?v=lgMZqItgUBQ)

@@ -8,7 +8,7 @@ topics:
 # [August 3rd, 2021 Livestream](../2021-08-03.md)
 ## Q&A: Are there any plans to add Farming food to the game?
 https://www.youtube.com/watch?v=hv9v539zaa8
-This question was possibly duplicated with a more recent answer: [December 13th, 2022 Livestream Q&A: Do you think Farming is a possibility in the future?](./yt-Ul9AgRudGpw.md) [https://www.youtube.com/watch?v=Ul9AgRudGpw](https://www.youtube.com/watch?v=Ul9AgRudGpw)
+This question was possibly duplicated with a more recent answer: [January 17th, 2023 Livestream Q&A: Automated Farming?](./yt--pjqXHzqWGE.md) [https://www.youtube.com/watch?v=-pjqXHzqWGE](https://www.youtube.com/watch?v=-pjqXHzqWGE)
 
 
 ### Topics

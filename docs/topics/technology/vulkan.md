@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > Vulkan
 
+## January 17th, 2023 Livestream
+* [Q&A: Are the issues with Vulkan because it's experimental?](../../transcriptions/yt-xr6XU1V4MRY.md) [https://www.youtube.com/watch?v=xr6XU1V4MRY](https://www.youtube.com/watch?v=xr6XU1V4MRY)
+
 ## February 15th, 2022 Livestream
 * [Snutt & Jace Talk: If your game is crashing because of something related to DirectX blah](../../transcriptions/yt-AzF9_sSAW_A.md) [https://www.youtube.com/watch?v=AzF9_sSAW_A](https://www.youtube.com/watch?v=AzF9_sSAW_A)
 * [Q&A: Will this fix the Vulkan on exit?](../../transcriptions/yt-uyCm7TNIdoY.md) [https://www.youtube.com/watch?v=uyCm7TNIdoY](https://www.youtube.com/watch?v=uyCm7TNIdoY)

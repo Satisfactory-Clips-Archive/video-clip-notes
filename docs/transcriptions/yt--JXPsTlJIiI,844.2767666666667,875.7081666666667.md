@@ -8,7 +8,7 @@ topics:
 # [December 17th, 2020 Q&A](../2020-12-17.md)
 ## Q&A: Are farms going to be a thing?
 https://youtube.com/embed/-JXPsTlJIiI?autoplay=1&start=844&end=876
-This question was possibly duplicated with a more recent answer: [December 13th, 2022 Livestream Q&A: Do you think Farming is a possibility in the future?](./yt-Ul9AgRudGpw.md) [https://www.youtube.com/watch?v=Ul9AgRudGpw](https://www.youtube.com/watch?v=Ul9AgRudGpw)
+This question was possibly duplicated with a more recent answer: [January 17th, 2023 Livestream Q&A: Automated Farming?](./yt--pjqXHzqWGE.md) [https://www.youtube.com/watch?v=-pjqXHzqWGE](https://www.youtube.com/watch?v=-pjqXHzqWGE)
 
 
 ### Topics

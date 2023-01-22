@@ -5,6 +5,16 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Embracer Group](../../../topics/embracer-group.md) > Coffee Stain Holding > Coffee Stain Studios
 
+## January 20th, 2023 Video
+* [Do we know how to fix it?](../../../transcriptions/yt-_IHY_1L3pBY,661.0937666666666,764.3969666666667.md) [https://youtube.com/embed/_IHY_1L3pBY?autoplay=1&start=661&end=765](https://youtube.com/embed/_IHY_1L3pBY?autoplay=1&start=661&end=765)
+* [Increasing resources](../../../transcriptions/yt-_IHY_1L3pBY,896.6958,979.178.md) [https://youtube.com/embed/_IHY_1L3pBY?autoplay=1&start=896&end=980](https://youtube.com/embed/_IHY_1L3pBY?autoplay=1&start=896&end=980)
+* [Better bug prioritisation and planning](../../../transcriptions/yt-_IHY_1L3pBY,979.2115666666667,1031.063.md) [https://youtube.com/clip/UgkxljGPpVH-VKYx0uyuHDc3hOqzAv5rrx6f](https://youtube.com/clip/UgkxljGPpVH-VKYx0uyuHDc3hOqzAv5rrx6f)
+* [Communication](../../../transcriptions/yt-_IHY_1L3pBY,1031.0967333333333,1128.394.md) [https://youtube.com/embed/_IHY_1L3pBY?autoplay=1&start=1031&end=1129](https://youtube.com/embed/_IHY_1L3pBY?autoplay=1&start=1031&end=1129)
+
+## January 17th, 2023 Livestream
+* [Q&A: Has there been any talk of what Coffee Stain Studio's next project after Satisfactory might be?](../../../transcriptions/yt-_Ft7yoUu0YI.md) [https://www.youtube.com/watch?v=_Ft7yoUu0YI](https://www.youtube.com/watch?v=_Ft7yoUu0YI)
+* [Q&A: Hiring? I want to change jobs.](../../../transcriptions/yt-jSZRaISKTPA.md) [https://www.youtube.com/watch?v=jSZRaISKTPA](https://www.youtube.com/watch?v=jSZRaISKTPA)
+
 ## January 10th, 2023 Livestream
 * [Q&A: How large is the team working on Satisfactory?](../../../transcriptions/yt--z8ZeQDRv4s.md) [https://www.youtube.com/watch?v=-z8ZeQDRv4s](https://www.youtube.com/watch?v=-z8ZeQDRv4s)
 * [Q&A: How do I get a job at Coffee Stain as a game dev?](../../../transcriptions/yt-UBH_l8Df3fU.md) [https://www.youtube.com/watch?v=UBH_l8Df3fU](https://www.youtube.com/watch?v=UBH_l8Df3fU)

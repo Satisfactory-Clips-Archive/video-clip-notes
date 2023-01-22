@@ -18,6 +18,19 @@ date: Last Modified
 * [Teasers & Trailers](../topics/satisfactory-updates/teasers-and-trailers.md)
 * [World Update](../topics/satisfactory-updates/world-update.md)
 
+## January 20th, 2023 Video
+* [Bug Prioritisation & Stability](../transcriptions/yt-_IHY_1L3pBY,134.46766666666667,295.896.md) [https://youtube.com/embed/_IHY_1L3pBY?autoplay=1&start=134&end=296](https://youtube.com/embed/_IHY_1L3pBY?autoplay=1&start=134&end=296)
+* [A balance needs to be found](../transcriptions/yt-_IHY_1L3pBY,295.92896666666667,353.22.md) [https://youtube.com/clip/Ugkxthi0Z3Sjm7GpoIXKH3aq-w_iww2WSdZ9](https://youtube.com/clip/Ugkxthi0Z3Sjm7GpoIXKH3aq-w_iww2WSdZ9)
+* [Whether the bug is part of a feature we intend to overhaul or address later](../transcriptions/yt-_IHY_1L3pBY,414.5808333333333,523.1226.md) [https://youtube.com/embed/_IHY_1L3pBY?autoplay=1&start=414&end=524](https://youtube.com/embed/_IHY_1L3pBY?autoplay=1&start=414&end=524)
+* [Impact on planning](../transcriptions/yt-_IHY_1L3pBY,523.1559666666667,603.5362666666667.md) [https://youtube.com/embed/_IHY_1L3pBY?autoplay=1&start=523&end=604](https://youtube.com/embed/_IHY_1L3pBY?autoplay=1&start=523&end=604)
+* [Is it safe, quick, and easy?](../transcriptions/yt-_IHY_1L3pBY,603.5696333333334,661.0604.md) [https://youtube.com/clip/UgkxytkinNNVXyR4SoPahQaenWkMEzBBm8J_](https://youtube.com/clip/UgkxytkinNNVXyR4SoPahQaenWkMEzBBm8J_)
+* [It slips through the cracks](../transcriptions/yt-_IHY_1L3pBY,764.4303333333334,804.237.md) [https://youtube.com/clip/UgkxowqIuL5ReibEzTiMumy5_xYjhj7EVKdt](https://youtube.com/clip/UgkxowqIuL5ReibEzTiMumy5_xYjhj7EVKdt)
+* [It may not be our fault (we swear!)](../transcriptions/yt-_IHY_1L3pBY,804.2701333333333,860.0592.md) [https://youtube.com/clip/Ugkx38lVEF1AoWWIDSL5SMKLYbJre94p0Zyu](https://youtube.com/clip/Ugkx38lVEF1AoWWIDSL5SMKLYbJre94p0Zyu)
+* [A suggested feature does not fit with our idea of the game](../transcriptions/yt-_IHY_1L3pBY,860.0925666666667,882.5149666666667.md) [https://youtube.com/clip/Ugkx6gzhnrOFCwWKNToCbdfwyGhN6igYDpU1](https://youtube.com/clip/Ugkx6gzhnrOFCwWKNToCbdfwyGhN6igYDpU1)
+* [Increasing resources](../transcriptions/yt-_IHY_1L3pBY,896.6958,979.178.md) [https://youtube.com/embed/_IHY_1L3pBY?autoplay=1&start=896&end=980](https://youtube.com/embed/_IHY_1L3pBY?autoplay=1&start=896&end=980)
+* [Better bug prioritisation and planning](../transcriptions/yt-_IHY_1L3pBY,979.2115666666667,1031.063.md) [https://youtube.com/clip/UgkxljGPpVH-VKYx0uyuHDc3hOqzAv5rrx6f](https://youtube.com/clip/UgkxljGPpVH-VKYx0uyuHDc3hOqzAv5rrx6f)
+* [Communication](../transcriptions/yt-_IHY_1L3pBY,1031.0967333333333,1128.394.md) [https://youtube.com/embed/_IHY_1L3pBY?autoplay=1&start=1031&end=1129](https://youtube.com/embed/_IHY_1L3pBY?autoplay=1&start=1031&end=1129)
+
 ## January 10th, 2023 Livestream
 * [Q&A: How hard is it to keep a straight face when people ask you about things you can't talk about?](../transcriptions/yt-9AGd0r7m6No.md) [https://www.youtube.com/watch?v=9AGd0r7m6No](https://www.youtube.com/watch?v=9AGd0r7m6No)
 * [Q&A: Any plans to make Exploration more rewarding?](../transcriptions/yt-F0PPHXzy33Q.md) [https://www.youtube.com/watch?v=F0PPHXzy33Q](https://www.youtube.com/watch?v=F0PPHXzy33Q)

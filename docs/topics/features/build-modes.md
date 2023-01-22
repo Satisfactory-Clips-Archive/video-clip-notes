@@ -8,6 +8,9 @@ date: Last Modified
 * [Quick Switch](../../topics/features/build-modes/quick-switch.md)
 * [Zooping](../../topics/features/build-modes/zooping.md)
 
+## January 17th, 2023 Livestream
+* [Q&A: Ever thought about a move-it function?](../../transcriptions/yt-dPlD3dA9pfc.md) [https://www.youtube.com/watch?v=dPlD3dA9pfc](https://www.youtube.com/watch?v=dPlD3dA9pfc)
+
 ## November 22nd, 2022 Livestream
 * [Q&A: Add a mode for Beams to build in a curve shape?](../../transcriptions/yt-azIwvaNEMK4.md) [https://www.youtube.com/watch?v=azIwvaNEMK4](https://www.youtube.com/watch?v=azIwvaNEMK4)
 

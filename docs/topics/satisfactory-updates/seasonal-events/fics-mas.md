@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Seasonal Events](../../../topics/satisfactory-updates/seasonal-events.md) > FICS⁕MAS
 
+## January 17th, 2023 Livestream
+* [Q&A: When will FICSMAS end?](../../../transcriptions/yt-rUMZTGJBZNk.md) [https://www.youtube.com/watch?v=rUMZTGJBZNk](https://www.youtube.com/watch?v=rUMZTGJBZNk)
+
 ## January 10th, 2023 Livestream
 * [Q&A: Why no Snow at FICSMAS?](../../../transcriptions/yt-57MNnpD8azY.md) [https://www.youtube.com/watch?v=57MNnpD8azY](https://www.youtube.com/watch?v=57MNnpD8azY)
 

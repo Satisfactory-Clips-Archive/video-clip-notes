@@ -12,6 +12,10 @@ date: Last Modified
 * [Weather Systems](../topics/environment/weather-systems.md)
 * [World Map](../topics/environment/world-map.md)
 
+## January 17th, 2023 Livestream
+* [Q&A: Can we have a telescope to look at the newly-added celestial bodies?](../transcriptions/yt-6uYltuXykY0.md) [https://www.youtube.com/watch?v=6uYltuXykY0](https://www.youtube.com/watch?v=6uYltuXykY0)
+* [Q&A: Are you still adding Ben's Water changes?](../transcriptions/yt-TQywXXECQ6g.md) [https://www.youtube.com/watch?v=TQywXXECQ6g](https://www.youtube.com/watch?v=TQywXXECQ6g)
+
 ## January 10th, 2023 Livestream
 * [Q&A: Any plans to make Exploration more rewarding?](../transcriptions/yt-F0PPHXzy33Q.md) [https://www.youtube.com/watch?v=F0PPHXzy33Q](https://www.youtube.com/watch?v=F0PPHXzy33Q)
 

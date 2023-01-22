@@ -8,7 +8,7 @@ topics:
 # [May 15th, 2020 Q&A](../2020-05-15.md)
 ## Q&A: Do you have a general idea of how, the team as a whole, want the game to be for 1.0?
 https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=226&end=289
-This question was possibly duplicated with a more recent answer: [December 20th, 2022 Livestream Q&A: Is there a public 1.0 target date?](./yt-A392N1wOyd8.md) [https://www.youtube.com/watch?v=A392N1wOyd8](https://www.youtube.com/watch?v=A392N1wOyd8)
+This question was possibly duplicated with a more recent answer: [January 17th, 2023 Livestream Q&A: 1.0 is 2023?](./yt-RzxU-GHuLNs.md) [https://www.youtube.com/watch?v=RzxU-GHuLNs](https://www.youtube.com/watch?v=RzxU-GHuLNs)
 
 
 ### Topics

@@ -1,8 +1,12 @@
 ---
 title: "Etienne"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEosbwjvWVnak8Pn-9SbPcI2
 date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Etienne
+
+## January 17th, 2023 Livestream
+* [Intro / State of Dev](../../transcriptions/yt-hd6EOPpTSzk.md) [https://www.youtube.com/watch?v=hd6EOPpTSzk](https://www.youtube.com/watch?v=hd6EOPpTSzk)
 
 ## June 14th, 2022 Livestream
 * [Intro](../../transcriptions/yt-Z6bo0pjYghk,5965.883333333333,6054.512350962104.md) [https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=5965&end=6055](https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=5965&end=6055)

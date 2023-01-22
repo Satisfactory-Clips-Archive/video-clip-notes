@@ -27,6 +27,9 @@ date: Last Modified
 * [The Lord of the Rings](../topics/off-topic/the-lord-of-the-rings.md)
 * [Valheim](../topics/off-topic/valheim.md)
 
+## January 17th, 2023 Livestream
+* [Q&A: On a scale of 1-100, where do you estimate you are to 1.0?](../transcriptions/yt-Ur35T32d5kM.md) [https://www.youtube.com/watch?v=Ur35T32d5kM](https://www.youtube.com/watch?v=Ur35T32d5kM)
+
 ## January 10th, 2023 Livestream
 * [Q&A: What non-Final Fantasy game content would you like to see in Community Highlights next?](../transcriptions/yt-5uTGxIRMNrc.md) [https://www.youtube.com/watch?v=5uTGxIRMNrc](https://www.youtube.com/watch?v=5uTGxIRMNrc)
 * [Q&A: Have you seen Bleach?](../transcriptions/yt-8Pz96mUzjKo.md) [https://www.youtube.com/watch?v=8Pz96mUzjKo](https://www.youtube.com/watch?v=8Pz96mUzjKo)

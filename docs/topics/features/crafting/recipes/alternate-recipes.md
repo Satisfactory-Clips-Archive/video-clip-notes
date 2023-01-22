@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > [Crafting](../../../../topics/features/crafting.md) > [Recipes](../../../../topics/features/crafting/recipes.md) > Alternate Recipes
 
+## January 17th, 2023 Livestream
+* [Q&A: Is there an update on the Alt Recipe involving Beacons?](../../../../transcriptions/yt-Mc7EGPNHfZ8.md) [https://www.youtube.com/watch?v=Mc7EGPNHfZ8](https://www.youtube.com/watch?v=Mc7EGPNHfZ8)
+
 ## November 22nd, 2022 Livestream
 * [Q&A: Are Recipe balance changes coming before 1.0?](../../../../transcriptions/yt-TJd56wLdNBc.md) [https://www.youtube.com/watch?v=TJd56wLdNBc](https://www.youtube.com/watch?v=TJd56wLdNBc)
 

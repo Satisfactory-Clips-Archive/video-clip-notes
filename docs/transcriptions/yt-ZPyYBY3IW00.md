@@ -12,8 +12,6 @@ topics:
 https://www.youtube.com/watch?v=ZPyYBY3IW00
 This question was possibly replaced with a more recent answer: [June 7th, 2022 Livestream Q&A: Are water reflections/ water physics coming with the Update?](./yt-Ww_ilqIoBjE.md) [https://www.youtube.com/watch?v=Ww_ilqIoBjE](https://www.youtube.com/watch?v=Ww_ilqIoBjE)
 
-This question was possibly duplicated with a more recent answer: [January 10th, 2023 Livestream Q&A: I'm assuming the idea for Water Currents never came to be?](./yt-lgMZqItgUBQ.md) [https://www.youtube.com/watch?v=lgMZqItgUBQ](https://www.youtube.com/watch?v=lgMZqItgUBQ)
-
 
 ### Topics
 * [Environment > Resources > Water](../topics/environment/resources/water.md)

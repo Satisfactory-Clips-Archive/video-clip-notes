@@ -13,6 +13,10 @@ date: Last Modified
 * [Third-Party Service Integration](../../topics/features/possible-features/third-party-service-integration.md)
 * [Underground Biome](../../topics/features/possible-features/underground-biome.md)
 
+## January 17th, 2023 Livestream
+* [Q&A: Automated Farming?](../../transcriptions/yt--pjqXHzqWGE.md) [https://www.youtube.com/watch?v=-pjqXHzqWGE](https://www.youtube.com/watch?v=-pjqXHzqWGE)
+* [Q&A: If you were part of the dev team, what features would Jace like to see?](../../transcriptions/yt-n6iI2AlYeD4.md) [https://www.youtube.com/watch?v=n6iI2AlYeD4](https://www.youtube.com/watch?v=n6iI2AlYeD4)
+
 ## January 10th, 2023 Livestream
 * [Q&A: Have there been difficulties for having your game available on different platforms?](../../transcriptions/yt-OQI_L-M2vEg.md) [https://www.youtube.com/watch?v=OQI_L-M2vEg](https://www.youtube.com/watch?v=OQI_L-M2vEg)
 

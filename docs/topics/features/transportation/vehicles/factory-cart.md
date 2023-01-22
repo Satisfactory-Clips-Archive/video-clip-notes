@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > Transportation > [Vehicles](../../../../topics/features/transportation/vehicles.md) > Factory Cart
 
+## January 17th, 2023 Livestream
+* [Q&A: Will you do a Factory Cart-sized Truck Stop?](../../../../transcriptions/yt-EcIWfpr1P7g.md) [https://www.youtube.com/watch?v=EcIWfpr1P7g](https://www.youtube.com/watch?v=EcIWfpr1P7g)
+
 ## October 25th, 2022 Livestream
 * [Q&A: Cart upgrade tree?](../../../../transcriptions/yt-C56Nmu_poFE.md) [https://www.youtube.com/watch?v=C56Nmu_poFE](https://www.youtube.com/watch?v=C56Nmu_poFE)
 

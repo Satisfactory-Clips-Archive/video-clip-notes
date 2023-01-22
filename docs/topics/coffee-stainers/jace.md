@@ -10,6 +10,18 @@ date: Last Modified
 * [Juice Velvet](../../topics/coffee-stainers/jace/juice-velvet.md)
 * [Robo Jace](../../topics/coffee-stainers/jace/robo-jace.md)
 
+## January 17th, 2023 Livestream
+* [Community FYI: I love your shirt](../../transcriptions/yt-3I-K2GocJUQ.md) [https://www.youtube.com/watch?v=3I-K2GocJUQ](https://www.youtube.com/watch?v=3I-K2GocJUQ)
+* [Q&A: What is Jace's favourite Demon Dice song?](../../transcriptions/yt-TBtixk8mx5w.md) [https://www.youtube.com/watch?v=TBtixk8mx5w](https://www.youtube.com/watch?v=TBtixk8mx5w)
+* [Q&A: What is Jace's favourite Linkin Park song?](../../transcriptions/yt-azA87Kby0KU.md) [https://www.youtube.com/watch?v=azA87Kby0KU](https://www.youtube.com/watch?v=azA87Kby0KU)
+* [Intro / State of Dev](../../transcriptions/yt-hd6EOPpTSzk.md) [https://www.youtube.com/watch?v=hd6EOPpTSzk](https://www.youtube.com/watch?v=hd6EOPpTSzk)
+* [Q&A: Jace, what is your favourite part of Satisfactory?](../../transcriptions/yt-_lDHP_oMOmQ.md) [https://www.youtube.com/watch?v=_lDHP_oMOmQ](https://www.youtube.com/watch?v=_lDHP_oMOmQ)
+* [Q&A: Will you still be managing this Community when Satisfactory hits 1.0?](../../transcriptions/yt-FBQrlqoLmfw.md) [https://www.youtube.com/watch?v=FBQrlqoLmfw](https://www.youtube.com/watch?v=FBQrlqoLmfw)
+* [Q&A: How did you get your job & how would you advise people that want to be a programmer in future?](../../transcriptions/yt-FTbkBGS2EqQ.md) [https://www.youtube.com/watch?v=FTbkBGS2EqQ](https://www.youtube.com/watch?v=FTbkBGS2EqQ)
+* [Q&A: On a scale of 1-100, where do you estimate you are to 1.0?](../../transcriptions/yt-Ur35T32d5kM.md) [https://www.youtube.com/watch?v=Ur35T32d5kM](https://www.youtube.com/watch?v=Ur35T32d5kM)
+* [Q&A: If you were part of the dev team, what features would Jace like to see?](../../transcriptions/yt-n6iI2AlYeD4.md) [https://www.youtube.com/watch?v=n6iI2AlYeD4](https://www.youtube.com/watch?v=n6iI2AlYeD4)
+* [Jace & Snutt Talk: Snutt joins Twitch Chat](../../transcriptions/yt-suUxqV06ykw.md) [https://www.youtube.com/watch?v=suUxqV06ykw](https://www.youtube.com/watch?v=suUxqV06ykw)
+
 ## January 10th, 2023 Livestream
 * [Q&A: Has Coffee Stain North asked you to reprise your voice-acting role yet?](../../transcriptions/yt-5atS5V5xlKs.md) [https://www.youtube.com/watch?v=5atS5V5xlKs](https://www.youtube.com/watch?v=5atS5V5xlKs)
 * [Q&A: What non-Final Fantasy game content would you like to see in Community Highlights next?](../../transcriptions/yt-5uTGxIRMNrc.md) [https://www.youtube.com/watch?v=5uTGxIRMNrc](https://www.youtube.com/watch?v=5uTGxIRMNrc)

@@ -8,13 +8,7 @@ topics:
 # [January 10th, 2023 Livestream](../2023-01-10.md)
 ## Q&A: Update on Bridge Engineer reacts?
 https://www.youtube.com/watch?v=FEBRuiJ9SHA
-<details>
-<summary>This question may have been asked previously at least 3 other times, as recently as December 2022 and as early as December 2022.</summary>
-
-* [December 13th, 2022 Livestream Q&A: Real Civil Engineer, when?](./yt-mALcM75aJMQ.md) [https://www.youtube.com/watch?v=mALcM75aJMQ](https://www.youtube.com/watch?v=mALcM75aJMQ)
-* December 6th, 2022 Livestream Did someone say "bridge review"? [https://youtube.com/clip/UgkxV57Y5OQxjul9-nhMV_iWb7djtwrzhNF0](https://youtube.com/clip/UgkxV57Y5OQxjul9-nhMV_iWb7djtwrzhNF0)
-* December 6th, 2022 Livestream Q&A: Bridge review? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6992&end=7008](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6992&end=7008)
-</details>
+This question was possibly duplicated with a more recent answer: [January 17th, 2023 Livestream Q&A: If we have Community Highlights without a bridge, does that confirm RCE the week after?](./yt-cIclgefxFbU.md) [https://www.youtube.com/watch?v=cIclgefxFbU](https://www.youtube.com/watch?v=cIclgefxFbU)
 
 
 ### Topics

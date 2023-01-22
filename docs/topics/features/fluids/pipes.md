@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Fluids](../../../topics/features/fluids.md) > Pipes
 
+## January 17th, 2023 Livestream
+* [Q&A: Mk.3 Miner output situation?](../../../transcriptions/yt-L-ebK-Ux7kM.md) [https://www.youtube.com/watch?v=L-ebK-Ux7kM](https://www.youtube.com/watch?v=L-ebK-Ux7kM)
+* [Q&A: When is Update 3?](../../../transcriptions/yt-UorZy7iZ6jY.md) [https://www.youtube.com/watch?v=UorZy7iZ6jY](https://www.youtube.com/watch?v=UorZy7iZ6jY)
+
 ## December 20th, 2022 Livestream
 * [Q&A: Why can't I use Pipeline support in Blueprint Designer?](../../../transcriptions/yt-VAHFScYoaQY.md) [https://www.youtube.com/watch?v=VAHFScYoaQY](https://www.youtube.com/watch?v=VAHFScYoaQY)
 

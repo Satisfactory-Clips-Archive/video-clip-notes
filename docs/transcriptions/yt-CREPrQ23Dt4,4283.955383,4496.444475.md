@@ -12,6 +12,8 @@ topics:
 # [November 15th, 2022 Livestream](../2022-11-15.md)
 ## Q&A: Are we going to be able to Zoop Blueprints?
 https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=4283&end=4497
+This question was possibly duplicated with a more recent answer: [January 17th, 2023 Livestream Q&A: Zoop Blueprints?](./yt-uxo-xBbVKdU.md) [https://www.youtube.com/watch?v=uxo-xBbVKdU](https://www.youtube.com/watch?v=uxo-xBbVKdU)
+
 
 ### Topics
 * [Features > Blueprints](../topics/features/blueprints.md)

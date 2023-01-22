@@ -5,6 +5,14 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Trolling
 
+## January 17th, 2023 Livestream
+* [Q&A: When is Update 3?](../transcriptions/yt-UorZy7iZ6jY.md) [https://www.youtube.com/watch?v=UorZy7iZ6jY](https://www.youtube.com/watch?v=UorZy7iZ6jY)
+* [Q&A: On a scale of 1-100, where do you estimate you are to 1.0?](../transcriptions/yt-Ur35T32d5kM.md) [https://www.youtube.com/watch?v=Ur35T32d5kM](https://www.youtube.com/watch?v=Ur35T32d5kM)
+* [Q&A: Can I change my mug colour?](../transcriptions/yt-rqNvN5PPDLs.md) [https://www.youtube.com/watch?v=rqNvN5PPDLs](https://www.youtube.com/watch?v=rqNvN5PPDLs)
+* [Jace & Snutt Talk: Snutt joins Twitch Chat](../transcriptions/yt-suUxqV06ykw.md) [https://www.youtube.com/watch?v=suUxqV06ykw](https://www.youtube.com/watch?v=suUxqV06ykw)
+* [Q&A: Can you import Farming Simulator into Satisfactory?](../transcriptions/yt-utNw--4HLFY.md) [https://www.youtube.com/watch?v=utNw--4HLFY](https://www.youtube.com/watch?v=utNw--4HLFY)
+* [Q&A: Anybody else think this game should be called Satisbeltory?](../transcriptions/yt-xTVg8A2aIc0.md) [https://www.youtube.com/watch?v=xTVg8A2aIc0](https://www.youtube.com/watch?v=xTVg8A2aIc0)
+
 ## January 10th, 2023 Livestream
 * [Intro / State of Dave / New Year, New Game?](../transcriptions/yt-1DcnC39hclI.md) [https://www.youtube.com/watch?v=1DcnC39hclI](https://www.youtube.com/watch?v=1DcnC39hclI)
 * [Q&A: Hypertubes for Vehicles, when?](../transcriptions/yt-nVCm0OlGnYc.md) [https://www.youtube.com/watch?v=nVCm0OlGnYc](https://www.youtube.com/watch?v=nVCm0OlGnYc)

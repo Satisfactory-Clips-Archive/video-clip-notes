@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > [Power Management](../../../../topics/features/power-management.md) > [Nuclear Energy](../../../../topics/features/power-management/nuclear-energy.md) > Nuclear Refinement
 
+## January 17th, 2023 Livestream
+* [Q&A: Is there an update on the Alt Recipe involving Beacons?](../../../../transcriptions/yt-Mc7EGPNHfZ8.md) [https://www.youtube.com/watch?v=Mc7EGPNHfZ8](https://www.youtube.com/watch?v=Mc7EGPNHfZ8)
+
 ## January 10th, 2023 Livestream
 * [Q&A: Add Lead for lead-infused containers as protection against radiation?](../../../../transcriptions/yt-wR8XyOmBNgk.md) [https://www.youtube.com/watch?v=wR8XyOmBNgk](https://www.youtube.com/watch?v=wR8XyOmBNgk)
 

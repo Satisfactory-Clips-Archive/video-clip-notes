@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Build Modes](../../../topics/features/build-modes.md) > Zooping
 
+## January 17th, 2023 Livestream
+* [Q&A: Zoop Blueprints?](../../../transcriptions/yt-uxo-xBbVKdU.md) [https://www.youtube.com/watch?v=uxo-xBbVKdU](https://www.youtube.com/watch?v=uxo-xBbVKdU)
+
 ## November 15th, 2022 Livestream
 * [Q&A: Are we going to be able to Zoop Blueprints?](../../../transcriptions/yt-CREPrQ23Dt4,4283.955383,4496.444475.md) [https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=4283&end=4497](https://youtube.com/embed/CREPrQ23Dt4?autoplay=1&start=4283&end=4497)
 

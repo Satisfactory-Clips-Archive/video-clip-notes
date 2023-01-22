@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Features](../../topics/features.md) > Blueprints
 
+## January 17th, 2023 Livestream
+* [Q&A: Any update on double-click Blueprints?](../../transcriptions/yt-7FNFh-j_YjQ.md) [https://www.youtube.com/watch?v=7FNFh-j_YjQ](https://www.youtube.com/watch?v=7FNFh-j_YjQ)
+* [Q&A: Zoop Blueprints?](../../transcriptions/yt-uxo-xBbVKdU.md) [https://www.youtube.com/watch?v=uxo-xBbVKdU](https://www.youtube.com/watch?v=uxo-xBbVKdU)
+* [Q&A: Will Blueprints ever have Soft Clearance?](../../transcriptions/yt-O92KxbkCgWo.md) [https://www.youtube.com/watch?v=O92KxbkCgWo](https://www.youtube.com/watch?v=O92KxbkCgWo)
+
 ## December 20th, 2022 Livestream
 * [Q&A: Better Blueprint snapping coming?](../../transcriptions/yt-JyMaZmsGu1c.md) [https://www.youtube.com/watch?v=JyMaZmsGu1c](https://www.youtube.com/watch?v=JyMaZmsGu1c)
 * [Q&A: Has a Blueprint preview/undo function been looked at by the dev team?](../../transcriptions/yt-Nms9QQa7bcc.md) [https://www.youtube.com/watch?v=Nms9QQa7bcc](https://www.youtube.com/watch?v=Nms9QQa7bcc)

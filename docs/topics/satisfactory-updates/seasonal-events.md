@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > Seasonal Events
 * [FICS⁕MAS](../../topics/satisfactory-updates/seasonal-events/fics-mas.md)
 
+## January 17th, 2023 Livestream
+* [Community FYI: If only we had FICSoween](../../transcriptions/yt-Y2GSB_qBHsc.md) [https://www.youtube.com/watch?v=Y2GSB_qBHsc](https://www.youtube.com/watch?v=Y2GSB_qBHsc)
+
 ## December 6th, 2022 Livestream
 * Q&A: More seasonal events in 2023? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6435&end=6490](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6435&end=6490)
 * Q&A: Please do more events? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6499&end=6504](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6499&end=6504)

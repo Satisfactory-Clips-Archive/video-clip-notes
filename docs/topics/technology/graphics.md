@@ -9,6 +9,12 @@ date: Last Modified
 * [Ray Tracing](../../topics/technology/graphics/ray-tracing.md)
 * [Ultrawide Monitors](../../topics/technology/graphics/ultrawide-monitors.md)
 
+## January 20th, 2023 Video
+* [It may not be our fault (we swear!)](../../transcriptions/yt-_IHY_1L3pBY,804.2701333333333,860.0592.md) [https://youtube.com/clip/Ugkx38lVEF1AoWWIDSL5SMKLYbJre94p0Zyu](https://youtube.com/clip/Ugkx38lVEF1AoWWIDSL5SMKLYbJre94p0Zyu)
+
+## January 17th, 2023 Livestream
+* [Q&A: Game crashes at 144hz on 4k resolution?](../../transcriptions/yt-_NpjqoxkFpk.md) [https://www.youtube.com/watch?v=_NpjqoxkFpk](https://www.youtube.com/watch?v=_NpjqoxkFpk)
+
 ## November 29th, 2022 Livestream
 * [Q&A: When are lighting/water performance & visual upgrades coming?](../../transcriptions/yt-3StpEbh7QlI.md) [https://www.youtube.com/watch?v=3StpEbh7QlI](https://www.youtube.com/watch?v=3StpEbh7QlI)
 * [Q&A: Would adding the ability to add a cover on Belts help performance?](../../transcriptions/yt-1UhSGB8cxAk.md) [https://www.youtube.com/watch?v=1UhSGB8cxAk](https://www.youtube.com/watch?v=1UhSGB8cxAk)

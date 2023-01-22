@@ -5,6 +5,22 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > QA Site
 
+## January 20th, 2023 Video
+* [The QA Site](../transcriptions/yt-_IHY_1L3pBY,48.08136666666667,78.01126666666667.md) [https://youtube.com/clip/UgkxP0l9n6VrrtCJOK8fVwqYCg6OU-fcrNKh](https://youtube.com/clip/UgkxP0l9n6VrrtCJOK8fVwqYCg6OU-fcrNKh)
+* [Addressing false perceptions](../transcriptions/yt-_IHY_1L3pBY,78.04463333333334,134.4343.md) [https://youtube.com/clip/Ugkxq87H1xotKfC98_ua2QkD1Sk1_U6eV6Pz](https://youtube.com/clip/Ugkxq87H1xotKfC98_ua2QkD1Sk1_U6eV6Pz)
+* [Bug Prioritisation & Stability](../transcriptions/yt-_IHY_1L3pBY,134.46766666666667,295.896.md) [https://youtube.com/embed/_IHY_1L3pBY?autoplay=1&start=134&end=296](https://youtube.com/embed/_IHY_1L3pBY?autoplay=1&start=134&end=296)
+* [A balance needs to be found](../transcriptions/yt-_IHY_1L3pBY,295.92896666666667,353.22.md) [https://youtube.com/clip/Ugkxthi0Z3Sjm7GpoIXKH3aq-w_iww2WSdZ9](https://youtube.com/clip/Ugkxthi0Z3Sjm7GpoIXKH3aq-w_iww2WSdZ9)
+* [Frequency and Severity](../transcriptions/yt-_IHY_1L3pBY,376.7096666666667,414.54746666666665.md) [https://youtube.com/clip/UgkxaPRfS4yhUVcBGfO2BtRTnW9vbYUD4SNT](https://youtube.com/clip/UgkxaPRfS4yhUVcBGfO2BtRTnW9vbYUD4SNT)
+* [Whether the bug is part of a feature we intend to overhaul or address later](../transcriptions/yt-_IHY_1L3pBY,414.5808333333333,523.1226.md) [https://youtube.com/embed/_IHY_1L3pBY?autoplay=1&start=414&end=524](https://youtube.com/embed/_IHY_1L3pBY?autoplay=1&start=414&end=524)
+* [Impact on planning](../transcriptions/yt-_IHY_1L3pBY,523.1559666666667,603.5362666666667.md) [https://youtube.com/embed/_IHY_1L3pBY?autoplay=1&start=523&end=604](https://youtube.com/embed/_IHY_1L3pBY?autoplay=1&start=523&end=604)
+* [Is it safe, quick, and easy?](../transcriptions/yt-_IHY_1L3pBY,603.5696333333334,661.0604.md) [https://youtube.com/clip/UgkxytkinNNVXyR4SoPahQaenWkMEzBBm8J_](https://youtube.com/clip/UgkxytkinNNVXyR4SoPahQaenWkMEzBBm8J_)
+* [Do we know how to fix it?](../transcriptions/yt-_IHY_1L3pBY,661.0937666666666,764.3969666666667.md) [https://youtube.com/embed/_IHY_1L3pBY?autoplay=1&start=661&end=765](https://youtube.com/embed/_IHY_1L3pBY?autoplay=1&start=661&end=765)
+* [It slips through the cracks](../transcriptions/yt-_IHY_1L3pBY,764.4303333333334,804.237.md) [https://youtube.com/clip/UgkxowqIuL5ReibEzTiMumy5_xYjhj7EVKdt](https://youtube.com/clip/UgkxowqIuL5ReibEzTiMumy5_xYjhj7EVKdt)
+* [It may not be our fault (we swear!)](../transcriptions/yt-_IHY_1L3pBY,804.2701333333333,860.0592.md) [https://youtube.com/clip/Ugkx38lVEF1AoWWIDSL5SMKLYbJre94p0Zyu](https://youtube.com/clip/Ugkx38lVEF1AoWWIDSL5SMKLYbJre94p0Zyu)
+* [A suggested feature does not fit with our idea of the game](../transcriptions/yt-_IHY_1L3pBY,860.0925666666667,882.5149666666667.md) [https://youtube.com/clip/Ugkx6gzhnrOFCwWKNToCbdfwyGhN6igYDpU1](https://youtube.com/clip/Ugkx6gzhnrOFCwWKNToCbdfwyGhN6igYDpU1)
+* [Better bug prioritisation and planning](../transcriptions/yt-_IHY_1L3pBY,979.2115666666667,1031.063.md) [https://youtube.com/clip/UgkxljGPpVH-VKYx0uyuHDc3hOqzAv5rrx6f](https://youtube.com/clip/UgkxljGPpVH-VKYx0uyuHDc3hOqzAv5rrx6f)
+* [Communication](../transcriptions/yt-_IHY_1L3pBY,1031.0967333333333,1128.394.md) [https://youtube.com/embed/_IHY_1L3pBY?autoplay=1&start=1031&end=1129](https://youtube.com/embed/_IHY_1L3pBY?autoplay=1&start=1031&end=1129)
+
 ## December 20th, 2022 Livestream
 * [Jace Talk: Long-standing issues on the QA Site](../transcriptions/yt-RVgkJ7yCwpQ.md) [https://www.youtube.com/watch?v=RVgkJ7yCwpQ](https://www.youtube.com/watch?v=RVgkJ7yCwpQ)
 

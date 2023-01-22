@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Creatures](../../../topics/environment/creatures.md) > Crab Boss
 
+## January 17th, 2023 Livestream
+* [Q&A: Still adding the Crab Queen to Satisfactory?](../../../transcriptions/yt-eYSj1mtYFZI.md) [https://www.youtube.com/watch?v=eYSj1mtYFZI](https://www.youtube.com/watch?v=eYSj1mtYFZI)
+
 ## December 20th, 2022 Livestream
 * [Q&A: What is the status of Crab Boss?](../../../transcriptions/yt-fvD3g8wvTt0.md) [https://www.youtube.com/watch?v=fvD3g8wvTt0](https://www.youtube.com/watch?v=fvD3g8wvTt0)
 

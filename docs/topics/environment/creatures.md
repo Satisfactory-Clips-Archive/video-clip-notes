@@ -10,6 +10,9 @@ date: Last Modified
 * [Non Flying Bird](../../topics/environment/creatures/non-flying-bird.md)
 * [Space Giraffe-Tick-Penguin-Whale Thing](../../topics/environment/creatures/space-giraffe-tick-penguin-whale-thing.md)
 
+## January 17th, 2023 Livestream
+* [Q&A: How do you stop the Stingers from respawning?](../../transcriptions/yt-s47Oa_B0tc4.md) [https://www.youtube.com/watch?v=s47Oa_B0tc4](https://www.youtube.com/watch?v=s47Oa_B0tc4)
+
 ## January 10th, 2023 Livestream
 * [Q&A: Fix for Update 7 crash when deleting things / landing near Creatures that are spawning?](../../transcriptions/yt-lrDZ83dxHlU.md) [https://www.youtube.com/watch?v=lrDZ83dxHlU](https://www.youtube.com/watch?v=lrDZ83dxHlU)
 

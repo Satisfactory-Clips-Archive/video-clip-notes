@@ -9,6 +9,8 @@ topics:
 # [January 10th, 2023 Livestream](../2023-01-10.md)
 ## Q&A: Will Phase 4 part requirements be rebalanced when the next Tier is introduced?
 https://www.youtube.com/watch?v=L4OmCrYGtqs
+This question was possibly duplicated with a more recent answer: [January 17th, 2023 Livestream Q&A: Are the numbers for the last Phase just to keep us busy, or will 1.0 have different numbers?](./yt-6FYrxhDCs9o.md) [https://www.youtube.com/watch?v=6FYrxhDCs9o](https://www.youtube.com/watch?v=6FYrxhDCs9o)
+
 
 ### Topics
 * [Features > Buildings > Space Elevator](../topics/features/buildings/space-elevator.md)

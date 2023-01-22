@@ -8,7 +8,7 @@ topics:
 # [February 16th, 2021 Livestream](../2021-02-16.md)
 ## Q&A: When is 1.0 coming?
 https://www.youtube.com/watch?v=IPQfi2Gv4Zc
-This question was possibly duplicated with a more recent answer: [December 20th, 2022 Livestream Q&A: Is there a public 1.0 target date?](./yt-A392N1wOyd8.md) [https://www.youtube.com/watch?v=A392N1wOyd8](https://www.youtube.com/watch?v=A392N1wOyd8)
+This question was possibly duplicated with a more recent answer: [January 17th, 2023 Livestream Q&A: 1.0 is 2023?](./yt-RzxU-GHuLNs.md) [https://www.youtube.com/watch?v=RzxU-GHuLNs](https://www.youtube.com/watch?v=RzxU-GHuLNs)
 
 
 ### Topics

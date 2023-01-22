@@ -8,6 +8,10 @@ date: Last Modified
 * [Snutt Burger Time](../../topics/coffee-stainers/snutt/snutt-burger-time.md)
 * [Snutty Mays](../../topics/coffee-stainers/snutt/snutty-mays.md)
 
+## January 17th, 2023 Livestream
+* [Q&A: Do you miss Snutt?](../../transcriptions/yt-S9ANSQto6gk.md) [https://www.youtube.com/watch?v=S9ANSQto6gk](https://www.youtube.com/watch?v=S9ANSQto6gk)
+* [Jace & Snutt Talk: Snutt joins Twitch Chat](../../transcriptions/yt-suUxqV06ykw.md) [https://www.youtube.com/watch?v=suUxqV06ykw](https://www.youtube.com/watch?v=suUxqV06ykw)
+
 ## January 10th, 2023 Livestream
 * [Q&A: Where's Snutt?](../../transcriptions/yt-XC6EEhujltk.md) [https://www.youtube.com/watch?v=XC6EEhujltk](https://www.youtube.com/watch?v=XC6EEhujltk)
 

@@ -8,7 +8,7 @@ topics:
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: Is it possible to have the Autosave not noticeable at all ?
 https://www.youtube.com/watch?v=ap-EONXus_4
-This question was possibly duplicated with a more recent answer: [November 29th, 2022 Livestream Q&A: Why does the game have to stutter when the Autosave kicks in?](./yt-eKhzlLqhuPY.md) [https://www.youtube.com/watch?v=eKhzlLqhuPY](https://www.youtube.com/watch?v=eKhzlLqhuPY)
+This question was possibly duplicated with a more recent answer: [January 17th, 2023 Livestream Q&A: A way for faster Autosaves?](./yt-vRHcjLUjio8.md) [https://www.youtube.com/watch?v=vRHcjLUjio8](https://www.youtube.com/watch?v=vRHcjLUjio8)
 
 
 ### Topics

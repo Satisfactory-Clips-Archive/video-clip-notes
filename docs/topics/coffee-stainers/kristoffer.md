@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Kristoffer
 
+## January 17th, 2023 Livestream
+* [Q&A: When is Update 3?](../../transcriptions/yt-UorZy7iZ6jY.md) [https://www.youtube.com/watch?v=UorZy7iZ6jY](https://www.youtube.com/watch?v=UorZy7iZ6jY)
+
 ## June 8th, 2021 Livestream
 * Community FYI: Love all the animations in the game [https://www.youtube.com/watch?v=ZKZ6u1Ea--0](https://www.youtube.com/watch?v=ZKZ6u1Ea--0)
 

@@ -23,6 +23,10 @@ date: Last Modified
 * [Xeno-Zapper](../../topics/features/equipment/xeno-zapper.md)
 * [Zip Lines](../../topics/features/equipment/zip-lines.md)
 
+## January 17th, 2023 Livestream
+* [Q&A: Can we have a telescope to look at the newly-added celestial bodies?](../../transcriptions/yt-6uYltuXykY0.md) [https://www.youtube.com/watch?v=6uYltuXykY0](https://www.youtube.com/watch?v=6uYltuXykY0)
+* [Q&A: Maybe post-1.0, having a Snow Biome with consumable heat batteries or you take damage?](../../transcriptions/yt-r33EJVJcux0.md) [https://www.youtube.com/watch?v=r33EJVJcux0](https://www.youtube.com/watch?v=r33EJVJcux0)
+
 ## November 29th, 2022 Livestream
 * [Q&A: Any new hand/body Equipment or Weapons planned?](../../transcriptions/yt-TmSklwE8Lbk.md) [https://www.youtube.com/watch?v=TmSklwE8Lbk](https://www.youtube.com/watch?v=TmSklwE8Lbk)
 

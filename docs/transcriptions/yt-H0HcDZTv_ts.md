@@ -9,7 +9,7 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: When is the official release?
 https://www.youtube.com/watch?v=H0HcDZTv_ts
-This question was possibly duplicated with a more recent answer: [December 20th, 2022 Livestream Q&A: Is there a public 1.0 target date?](./yt-A392N1wOyd8.md) [https://www.youtube.com/watch?v=A392N1wOyd8](https://www.youtube.com/watch?v=A392N1wOyd8)
+This question was possibly duplicated with a more recent answer: [January 17th, 2023 Livestream Q&A: 1.0 is 2023?](./yt-RzxU-GHuLNs.md) [https://www.youtube.com/watch?v=RzxU-GHuLNs](https://www.youtube.com/watch?v=RzxU-GHuLNs)
 
 
 ### Topics

@@ -26,6 +26,15 @@ date: Last Modified
 * [Vilsol](../topics/community/vilsol.md)
 * [Wiki](../topics/community/wiki.md)
 
+## January 20th, 2023 Video
+* [Addressing false perceptions](../transcriptions/yt-_IHY_1L3pBY,78.04463333333334,134.4343.md) [https://youtube.com/clip/Ugkxq87H1xotKfC98_ua2QkD1Sk1_U6eV6Pz](https://youtube.com/clip/Ugkxq87H1xotKfC98_ua2QkD1Sk1_U6eV6Pz)
+* [Communication](../transcriptions/yt-_IHY_1L3pBY,1031.0967333333333,1128.394.md) [https://youtube.com/embed/_IHY_1L3pBY?autoplay=1&start=1031&end=1129](https://youtube.com/embed/_IHY_1L3pBY?autoplay=1&start=1031&end=1129)
+
+## January 17th, 2023 Livestream
+* [Q&A: When is Update 3?](../transcriptions/yt-UorZy7iZ6jY.md) [https://www.youtube.com/watch?v=UorZy7iZ6jY](https://www.youtube.com/watch?v=UorZy7iZ6jY)
+* [Q&A: On a scale of 1-100, where do you estimate you are to 1.0?](../transcriptions/yt-Ur35T32d5kM.md) [https://www.youtube.com/watch?v=Ur35T32d5kM](https://www.youtube.com/watch?v=Ur35T32d5kM)
+* [Q&A: Anybody else think this game should be called Satisbeltory?](../transcriptions/yt-xTVg8A2aIc0.md) [https://www.youtube.com/watch?v=xTVg8A2aIc0](https://www.youtube.com/watch?v=xTVg8A2aIc0)
+
 ## January 10th, 2023 Livestream
 * [Q&A: What's "State of Dave"?](../transcriptions/yt-pLHEGzfwTTo.md) [https://www.youtube.com/watch?v=pLHEGzfwTTo](https://www.youtube.com/watch?v=pLHEGzfwTTo)
 

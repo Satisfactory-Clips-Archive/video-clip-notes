@@ -17,6 +17,10 @@ date: Last Modified
 * [Update 6 Teasers](../../topics/satisfactory-updates/teasers-and-trailers/update-6-teasers.md)
 * [Update 7 Patch Notes Video](../../topics/satisfactory-updates/teasers-and-trailers/update-7-patch-notes-video.md)
 * [Update 7 Teasers](../../topics/satisfactory-updates/teasers-and-trailers/update-7-teasers.md)
+* [Update 8 Teasers](../../topics/satisfactory-updates/teasers-and-trailers/update-8-teasers.md)
+
+## January 17th, 2023 Livestream
+* [Q&A: When is Update 3?](../../transcriptions/yt-UorZy7iZ6jY.md) [https://www.youtube.com/watch?v=UorZy7iZ6jY](https://www.youtube.com/watch?v=UorZy7iZ6jY)
 
 ## November 22nd, 2022 Livestream
 * [Q&A: Is the Crab Boss from the E3 Trailer still coming?](../../transcriptions/yt-AB_eO6X59N8.md) [https://www.youtube.com/watch?v=AB_eO6X59N8](https://www.youtube.com/watch?v=AB_eO6X59N8)

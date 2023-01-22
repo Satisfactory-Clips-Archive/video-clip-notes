@@ -8,7 +8,7 @@ topics:
 # [August 24th, 2021 Livestream](../2021-08-24.md)
 ## Q&A: Character Customisation?
 https://www.youtube.com/watch?v=5wiYaEfx0ro
-This question was possibly duplicated with a more recent answer: [November 1st, 2022 Livestream Q&A: Are we ever going to get a Character Creator?](./yt-bm243X-6tBI.md) [https://www.youtube.com/watch?v=bm243X-6tBI](https://www.youtube.com/watch?v=bm243X-6tBI)
+This question was possibly duplicated with a more recent answer: [January 17th, 2023 Livestream Q&A: Character Customisation?](./yt-8aKhUtVsGrw.md) [https://www.youtube.com/watch?v=8aKhUtVsGrw](https://www.youtube.com/watch?v=8aKhUtVsGrw)
 
 
 ### Topics

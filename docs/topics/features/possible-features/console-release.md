@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Possible Features](../../../topics/features/possible-features.md) > Console Release
 
+## January 17th, 2023 Livestream
+* [Q&A: Is Console/cross-platform on the post-1.0 roadmap?](../../../transcriptions/yt-EpwkYTHco_o.md) [https://www.youtube.com/watch?v=EpwkYTHco_o](https://www.youtube.com/watch?v=EpwkYTHco_o)
+
 ## January 10th, 2023 Livestream
 * [Q&A: If Factorio's coming to Switch- Satisfactory on Switch, when?](../../../transcriptions/yt-7ww0V8wmVLY.md) [https://www.youtube.com/watch?v=7ww0V8wmVLY](https://www.youtube.com/watch?v=7ww0V8wmVLY)
 

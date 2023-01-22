@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Retail](../../topics/retail.md) > Early Access
 
+## January 17th, 2023 Livestream
+* [Q&A: How long will it be in Early Access?](../../transcriptions/yt-3RZA9XHXBFU.md) [https://www.youtube.com/watch?v=3RZA9XHXBFU](https://www.youtube.com/watch?v=3RZA9XHXBFU)
+
 ## May 3rd, 2022 Livestream
 * [Q&A: Big 1.0 Update? The bugs kind of defeat the point of moving out of Early Access?](../../transcriptions/yt-aO02dQNOhf4.md) [https://www.youtube.com/watch?v=aO02dQNOhf4](https://www.youtube.com/watch?v=aO02dQNOhf4)
 

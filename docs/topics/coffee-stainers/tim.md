@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Tim
 
+## January 17th, 2023 Livestream
+* [Q&A: When is Update 3?](../../transcriptions/yt-UorZy7iZ6jY.md) [https://www.youtube.com/watch?v=UorZy7iZ6jY](https://www.youtube.com/watch?v=UorZy7iZ6jY)
+
 ## March 18th, 2022 Video
 * [Snutt & Jace Talk: Coffee Stain Studios article](../../transcriptions/yt-VBGakEZilwk,444.1770666666667,514.8143.md) [https://youtube.com/embed/VBGakEZilwk?autoplay=1&start=444&end=515](https://youtube.com/embed/VBGakEZilwk?autoplay=1&start=444&end=515)
 

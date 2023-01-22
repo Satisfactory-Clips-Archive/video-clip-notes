@@ -8,7 +8,7 @@ topics:
 # [November 9th, 2021 Livestream](../2021-11-09.md)
 ## Q&A: Do you have any job openings?
 https://www.youtube.com/watch?v=KJNAQ1MMEWI
-This question was possibly duplicated with a more recent answer: [January 10th, 2023 Livestream Q&A: How do I get a job at Coffee Stain as a game dev?](./yt-UBH_l8Df3fU.md) [https://www.youtube.com/watch?v=UBH_l8Df3fU](https://www.youtube.com/watch?v=UBH_l8Df3fU)
+This question was possibly duplicated with a more recent answer: [January 17th, 2023 Livestream Q&A: Hiring? I want to change jobs.](./yt-jSZRaISKTPA.md) [https://www.youtube.com/watch?v=jSZRaISKTPA](https://www.youtube.com/watch?v=jSZRaISKTPA)
 
 
 ### Topics

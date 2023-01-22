@@ -5,6 +5,16 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Pending](../../../topics/satisfactory-updates/pending.md) > Satisfactory 1.0
 
+## January 17th, 2023 Livestream
+* [Q&A: Are the numbers for the last Phase just to keep us busy, or will 1.0 have different numbers?](../../../transcriptions/yt-6FYrxhDCs9o.md) [https://www.youtube.com/watch?v=6FYrxhDCs9o](https://www.youtube.com/watch?v=6FYrxhDCs9o)
+* [Q&A: Is the plan still to combat most of the less-common bugs closer to the 1.0 release?](../../../transcriptions/yt-PMeF5vdnPN4.md) [https://www.youtube.com/watch?v=PMeF5vdnPN4](https://www.youtube.com/watch?v=PMeF5vdnPN4)
+* [Q&A: 1.0 is 2023?](../../../transcriptions/yt-RzxU-GHuLNs.md) [https://www.youtube.com/watch?v=RzxU-GHuLNs](https://www.youtube.com/watch?v=RzxU-GHuLNs)
+* [Q&A: Maybe post-1.0, having a Snow Biome with consumable heat batteries or you take damage?](../../../transcriptions/yt-r33EJVJcux0.md) [https://www.youtube.com/watch?v=r33EJVJcux0](https://www.youtube.com/watch?v=r33EJVJcux0)
+* [Q&A: Is Console/cross-platform on the post-1.0 roadmap?](../../../transcriptions/yt-EpwkYTHco_o.md) [https://www.youtube.com/watch?v=EpwkYTHco_o](https://www.youtube.com/watch?v=EpwkYTHco_o)
+* [Q&A: Will you still be managing this Community when Satisfactory hits 1.0?](../../../transcriptions/yt-FBQrlqoLmfw.md) [https://www.youtube.com/watch?v=FBQrlqoLmfw](https://www.youtube.com/watch?v=FBQrlqoLmfw)
+* [Q&A: On a scale of 1-100, where do you estimate you are to 1.0?](../../../transcriptions/yt-Ur35T32d5kM.md) [https://www.youtube.com/watch?v=Ur35T32d5kM](https://www.youtube.com/watch?v=Ur35T32d5kM)
+* [Q&A: Is there going to be an Update 8 or are you going straight to 1.0?](../../../transcriptions/yt-ose6wFrKnD4.md) [https://www.youtube.com/watch?v=ose6wFrKnD4](https://www.youtube.com/watch?v=ose6wFrKnD4)
+
 ## January 10th, 2023 Livestream
 * [Q&A: Is there any exciting things that you can talk about?](../../../transcriptions/yt-sZWTb7TbIKQ.md) [https://www.youtube.com/watch?v=sZWTb7TbIKQ](https://www.youtube.com/watch?v=sZWTb7TbIKQ)
 

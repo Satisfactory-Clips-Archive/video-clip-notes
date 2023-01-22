@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Speculative > Satisfactory Update 8
 
+## January 17th, 2023 Livestream
+* [Intro / State of Dev](../../../transcriptions/yt-hd6EOPpTSzk.md) [https://www.youtube.com/watch?v=hd6EOPpTSzk](https://www.youtube.com/watch?v=hd6EOPpTSzk)
+* [Q&A: Do you know what date you are going to start the Update 8 Teasers?](../../../transcriptions/yt-hmpmIQEAHb4.md) [https://www.youtube.com/watch?v=hmpmIQEAHb4](https://www.youtube.com/watch?v=hmpmIQEAHb4)
+* [Q&A: Is there going to be an Update 8 or are you going straight to 1.0?](../../../transcriptions/yt-ose6wFrKnD4.md) [https://www.youtube.com/watch?v=ose6wFrKnD4](https://www.youtube.com/watch?v=ose6wFrKnD4)
+
 ## January 10th, 2023 Livestream
 * [Q&A: Is there any exciting things that you can talk about?](../../../transcriptions/yt-sZWTb7TbIKQ.md) [https://www.youtube.com/watch?v=sZWTb7TbIKQ](https://www.youtube.com/watch?v=sZWTb7TbIKQ)
 * [Q&A: Describe the next Update in a single word?](../../../transcriptions/yt-v6eqwt8LTkA.md) [https://www.youtube.com/watch?v=v6eqwt8LTkA](https://www.youtube.com/watch?v=v6eqwt8LTkA)

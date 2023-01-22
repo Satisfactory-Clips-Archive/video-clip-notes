@@ -8,7 +8,7 @@ topics:
 # [January 12th, 2021 Livestream](../2021-01-12.md)
 ## Q&A: Now that you have big boy office are you planning on hiring a lot more people to fill it out?
 https://www.youtube.com/watch?v=iqGA8u7MmMM
-This question was possibly duplicated with a more recent answer: [January 10th, 2023 Livestream Q&A: How do I get a job at Coffee Stain as a game dev?](./yt-UBH_l8Df3fU.md) [https://www.youtube.com/watch?v=UBH_l8Df3fU](https://www.youtube.com/watch?v=UBH_l8Df3fU)
+This question was possibly duplicated with a more recent answer: [January 17th, 2023 Livestream Q&A: Hiring? I want to change jobs.](./yt-jSZRaISKTPA.md) [https://www.youtube.com/watch?v=jSZRaISKTPA](https://www.youtube.com/watch?v=jSZRaISKTPA)
 
 
 ### Topics
