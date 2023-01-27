@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Features](../../topics/features.md) > Blueprints
 
+## January 24th, 2023 Livestream
+* [Snutt & Jace Talk: Roads as vanilla feature](../../transcriptions/yt-DmcobW9AiTs.md) [https://www.youtube.com/watch?v=DmcobW9AiTs](https://www.youtube.com/watch?v=DmcobW9AiTs)
+* [Q&A: Will Blueprints ever get Soft Clearance?](../../transcriptions/yt-iio2qCxrt9E.md) [https://www.youtube.com/watch?v=iio2qCxrt9E](https://www.youtube.com/watch?v=iio2qCxrt9E)
+* [Q&A: Double-click Blueprints?](../../transcriptions/yt-nakeVz-2GZI.md) [https://www.youtube.com/watch?v=nakeVz-2GZI](https://www.youtube.com/watch?v=nakeVz-2GZI)
+
 ## January 17th, 2023 Livestream
 * [Q&A: Any update on double-click Blueprints?](../../transcriptions/yt-7FNFh-j_YjQ.md) [https://www.youtube.com/watch?v=7FNFh-j_YjQ](https://www.youtube.com/watch?v=7FNFh-j_YjQ)
 * [Q&A: Zoop Blueprints?](../../transcriptions/yt-uxo-xBbVKdU.md) [https://www.youtube.com/watch?v=uxo-xBbVKdU](https://www.youtube.com/watch?v=uxo-xBbVKdU)

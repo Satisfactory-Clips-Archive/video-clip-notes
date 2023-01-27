@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > [Power Management](../../../../topics/features/power-management.md) > [Nuclear Energy](../../../../topics/features/power-management/nuclear-energy.md) > Nuclear Waste
 
+## January 24th, 2023 Livestream
+* [Q&A: Is there a fix for the issue of radiation being stuck at max?](../../../../transcriptions/yt-0j6Gt9s6aAY.md) [https://www.youtube.com/watch?v=0j6Gt9s6aAY](https://www.youtube.com/watch?v=0j6Gt9s6aAY)
+
 ## January 10th, 2023 Livestream
 * [Q&A: Add Lead for lead-infused containers as protection against radiation?](../../../../transcriptions/yt-wR8XyOmBNgk.md) [https://www.youtube.com/watch?v=wR8XyOmBNgk](https://www.youtube.com/watch?v=wR8XyOmBNgk)
 

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Multiplayer](../../../topics/features/multiplayer.md) > Crossplay
 
+## January 24th, 2023 Livestream
+* [Q&A: Are there plans for unlinked Multiplayer?](../../../transcriptions/yt-yb9d7C1nFBM.md) [https://www.youtube.com/watch?v=yb9d7C1nFBM](https://www.youtube.com/watch?v=yb9d7C1nFBM)
+
 ## September 13th, 2022 Livestream
 * [Q&A: Is the Epic version compatible to play with Steam?](../../../transcriptions/yt-A4OHQfv5JK4.md) [https://www.youtube.com/watch?v=A4OHQfv5JK4](https://www.youtube.com/watch?v=A4OHQfv5JK4)
 

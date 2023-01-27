@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Mods](../../topics/mods.md) > Mods vs. Features
 
+## January 24th, 2023 Livestream
+* [Q&A: What is your take on Mods?](../../transcriptions/yt-rqUp9df2_bo.md) [https://www.youtube.com/watch?v=rqUp9df2_bo](https://www.youtube.com/watch?v=rqUp9df2_bo)
+
 ## January 17th, 2023 Livestream
 * [Q&A: Ever thought about a move-it function?](../../transcriptions/yt-dPlD3dA9pfc.md) [https://www.youtube.com/watch?v=dPlD3dA9pfc](https://www.youtube.com/watch?v=dPlD3dA9pfc)
 

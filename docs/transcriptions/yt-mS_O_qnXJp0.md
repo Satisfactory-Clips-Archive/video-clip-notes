@@ -10,7 +10,7 @@ topics:
 # [February 9th, 2021 Livestream](../2021-02-09.md)
 ## Q&A: Do you plan to release on Console one day?
 https://www.youtube.com/watch?v=mS_O_qnXJp0
-This question was possibly duplicated with a more recent answer: [January 17th, 2023 Livestream Q&A: Is Console/cross-platform on the post-1.0 roadmap?](./yt-EpwkYTHco_o.md) [https://www.youtube.com/watch?v=EpwkYTHco_o](https://www.youtube.com/watch?v=EpwkYTHco_o)
+This question was possibly duplicated with a more recent answer: [January 24th, 2023 Livestream Q&A: Console release or phone?](./yt-9dd4paImT1E.md) [https://www.youtube.com/watch?v=9dd4paImT1E](https://www.youtube.com/watch?v=9dd4paImT1E)
 
 
 ### Topics

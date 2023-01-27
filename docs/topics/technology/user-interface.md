@@ -9,6 +9,10 @@ date: Last Modified
 * [Ping](../../topics/technology/user-interface/ping.md)
 * [Stamps](../../topics/technology/user-interface/stamps.md)
 
+## January 24th, 2023 Livestream
+* [Q&A: Why do Vehicles have HP bars, nothing damages them?](../../transcriptions/yt-ST8k-CrhLk4.md) [https://www.youtube.com/watch?v=ST8k-CrhLk4](https://www.youtube.com/watch?v=ST8k-CrhLk4)
+* [Q&A: Any Updates on the new tutorial?](../../transcriptions/yt-wX4Cb6laBFE.md) [https://www.youtube.com/watch?v=wX4Cb6laBFE](https://www.youtube.com/watch?v=wX4Cb6laBFE)
+
 ## January 17th, 2023 Livestream
 * [Q&A: Any update on double-click Blueprints?](../../transcriptions/yt-7FNFh-j_YjQ.md) [https://www.youtube.com/watch?v=7FNFh-j_YjQ](https://www.youtube.com/watch?v=7FNFh-j_YjQ)
 * [Q&A: Any plans to update Train UI? I'm finding it tough to troubleshoot the Signals.](../../transcriptions/yt-HfrbBM2xqkc.md) [https://www.youtube.com/watch?v=HfrbBM2xqkc](https://www.youtube.com/watch?v=HfrbBM2xqkc)

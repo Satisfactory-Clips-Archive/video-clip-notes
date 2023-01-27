@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Possible Features](../../../topics/features/possible-features.md) > Console Release
 
+## January 24th, 2023 Livestream
+* [Q&A: Console release or phone?](../../../transcriptions/yt-9dd4paImT1E.md) [https://www.youtube.com/watch?v=9dd4paImT1E](https://www.youtube.com/watch?v=9dd4paImT1E)
+
 ## January 17th, 2023 Livestream
 * [Q&A: Is Console/cross-platform on the post-1.0 roadmap?](../../../transcriptions/yt-EpwkYTHco_o.md) [https://www.youtube.com/watch?v=EpwkYTHco_o](https://www.youtube.com/watch?v=EpwkYTHco_o)
 

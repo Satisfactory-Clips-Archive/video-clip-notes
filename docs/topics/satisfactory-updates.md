@@ -18,6 +18,11 @@ date: Last Modified
 * [Teasers & Trailers](../topics/satisfactory-updates/teasers-and-trailers.md)
 * [World Update](../topics/satisfactory-updates/world-update.md)
 
+## January 24th, 2023 Livestream
+* [Q&A: When are we going to get more patch fixes?](../transcriptions/yt--8TrlfRp_0A.md) [https://www.youtube.com/watch?v=-8TrlfRp_0A](https://www.youtube.com/watch?v=-8TrlfRp_0A)
+* [Q&A: Was Update 6 the last of the cosmetic Updates?](../transcriptions/yt-SYN7XsWGG00.md) [https://www.youtube.com/watch?v=SYN7XsWGG00](https://www.youtube.com/watch?v=SYN7XsWGG00)
+* [Q&A: Any Updates on the new tutorial?](../transcriptions/yt-wX4Cb6laBFE.md) [https://www.youtube.com/watch?v=wX4Cb6laBFE](https://www.youtube.com/watch?v=wX4Cb6laBFE)
+
 ## January 20th, 2023 Video
 * [Bug Prioritisation & Stability](../transcriptions/yt-_IHY_1L3pBY,134.46766666666667,295.896.md) [https://youtube.com/embed/_IHY_1L3pBY?autoplay=1&start=134&end=296](https://youtube.com/embed/_IHY_1L3pBY?autoplay=1&start=134&end=296)
 * [A balance needs to be found](../transcriptions/yt-_IHY_1L3pBY,295.92896666666667,353.22.md) [https://youtube.com/clip/Ugkxthi0Z3Sjm7GpoIXKH3aq-w_iww2WSdZ9](https://youtube.com/clip/Ugkxthi0Z3Sjm7GpoIXKH3aq-w_iww2WSdZ9)

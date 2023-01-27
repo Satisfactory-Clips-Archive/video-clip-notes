@@ -9,6 +9,8 @@ topics:
 # [January 17th, 2023 Livestream](../2023-01-17.md)
 ## Q&A: Any update on double-click Blueprints?
 https://www.youtube.com/watch?v=7FNFh-j_YjQ
+This question was possibly duplicated with a more recent answer: [January 24th, 2023 Livestream Q&A: Double-click Blueprints?](./yt-nakeVz-2GZI.md) [https://www.youtube.com/watch?v=nakeVz-2GZI](https://www.youtube.com/watch?v=nakeVz-2GZI)
+
 
 ### Topics
 * [Features > Blueprints](../topics/features/blueprints.md)

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Possible Features](../../../topics/features/possible-features.md) > Decor
 
+## January 24th, 2023 Livestream
+* [Q&A: Was Update 6 the last of the cosmetic Updates?](../../../transcriptions/yt-SYN7XsWGG00.md) [https://www.youtube.com/watch?v=SYN7XsWGG00](https://www.youtube.com/watch?v=SYN7XsWGG00)
+
 ## December 20th, 2022 Livestream
 * [Q&A: Any more aesthetic pieces in the works like plants or something?](../../../transcriptions/yt-APm0PGhBjq4.md) [https://www.youtube.com/watch?v=APm0PGhBjq4](https://www.youtube.com/watch?v=APm0PGhBjq4)
 * [Q&A: Will we get CSS Staff as statues to build in the game?](../../../transcriptions/yt-_t_XwMsiEN4.md) [https://www.youtube.com/watch?v=_t_XwMsiEN4](https://www.youtube.com/watch?v=_t_XwMsiEN4)

@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > QA Site
 
+## January 24th, 2023 Livestream
+* [Q&A: Is there a fix for the issue of radiation being stuck at max?](../transcriptions/yt-0j6Gt9s6aAY.md) [https://www.youtube.com/watch?v=0j6Gt9s6aAY](https://www.youtube.com/watch?v=0j6Gt9s6aAY)
+* [Intro / State of Dev](../transcriptions/yt-27F3DddrfDY.md) [https://www.youtube.com/watch?v=27F3DddrfDY](https://www.youtube.com/watch?v=27F3DddrfDY)
+* [Snutt & Jace Talk: Bugs in Satisfactory](../transcriptions/yt-OGoBA42DrIM.md) [https://www.youtube.com/watch?v=OGoBA42DrIM](https://www.youtube.com/watch?v=OGoBA42DrIM)
+
 ## January 20th, 2023 Video
 * [The QA Site](../transcriptions/yt-_IHY_1L3pBY,48.08136666666667,78.01126666666667.md) [https://youtube.com/clip/UgkxP0l9n6VrrtCJOK8fVwqYCg6OU-fcrNKh](https://youtube.com/clip/UgkxP0l9n6VrrtCJOK8fVwqYCg6OU-fcrNKh)
 * [Addressing false perceptions](../transcriptions/yt-_IHY_1L3pBY,78.04463333333334,134.4343.md) [https://youtube.com/clip/Ugkxq87H1xotKfC98_ua2QkD1Sk1_U6eV6Pz](https://youtube.com/clip/Ugkxq87H1xotKfC98_ua2QkD1Sk1_U6eV6Pz)

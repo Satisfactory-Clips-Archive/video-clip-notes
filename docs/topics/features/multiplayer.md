@@ -7,6 +7,10 @@ date: Last Modified
 * [Crossplay](../../topics/features/multiplayer/crossplay.md)
 * [Dedicated Servers](../../topics/features/multiplayer/dedicated-servers.md)
 
+## January 24th, 2023 Livestream
+* [Snutt & Jace Talk: Cooperative progression vs. Multiplayer progression](../../transcriptions/yt-lCWS8kV4xDU.md) [https://www.youtube.com/watch?v=lCWS8kV4xDU](https://www.youtube.com/watch?v=lCWS8kV4xDU)
+* [Q&A: Are there plans for unlinked Multiplayer?](../../transcriptions/yt-yb9d7C1nFBM.md) [https://www.youtube.com/watch?v=yb9d7C1nFBM](https://www.youtube.com/watch?v=yb9d7C1nFBM)
+
 ## January 10th, 2023 Livestream
 * [Q&A: Is it possible to have Multiplayer without the session code?](../../transcriptions/yt-3303UhvEJ3I.md) [https://www.youtube.com/watch?v=3303UhvEJ3I](https://www.youtube.com/watch?v=3303UhvEJ3I)
 

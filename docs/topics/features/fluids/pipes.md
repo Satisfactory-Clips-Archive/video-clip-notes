@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Fluids](../../../topics/features/fluids.md) > Pipes
 
+## January 24th, 2023 Livestream
+* [Q&A: Mk.3 Miners, Mk.2 Pipes?](../../../transcriptions/yt-Fjkf1GJpYlw.md) [https://www.youtube.com/watch?v=Fjkf1GJpYlw](https://www.youtube.com/watch?v=Fjkf1GJpYlw)
+
 ## January 17th, 2023 Livestream
 * [Q&A: Mk.3 Miner output situation?](../../../transcriptions/yt-L-ebK-Ux7kM.md) [https://www.youtube.com/watch?v=L-ebK-Ux7kM](https://www.youtube.com/watch?v=L-ebK-Ux7kM)
 * [Q&A: When is Update 3?](../../../transcriptions/yt-UorZy7iZ6jY.md) [https://www.youtube.com/watch?v=UorZy7iZ6jY](https://www.youtube.com/watch?v=UorZy7iZ6jY)

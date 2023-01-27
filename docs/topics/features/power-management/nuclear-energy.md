@@ -7,6 +7,9 @@ date: Last Modified
 * [Nuclear Refinement](../../../topics/features/power-management/nuclear-energy/nuclear-refinement.md)
 * [Nuclear Waste](../../../topics/features/power-management/nuclear-energy/nuclear-waste.md)
 
+## January 24th, 2023 Livestream
+* [Q&A: Is there a fix for the issue of radiation being stuck at max?](../../../transcriptions/yt-0j6Gt9s6aAY.md) [https://www.youtube.com/watch?v=0j6Gt9s6aAY](https://www.youtube.com/watch?v=0j6Gt9s6aAY)
+
 ## November 22nd, 2022 Livestream
 * [Q&A: Has there been any movement on the Mk.3 Miner having an extra output?](../../../transcriptions/yt-2wzjT2ZQc6c.md) [https://www.youtube.com/watch?v=2wzjT2ZQc6c](https://www.youtube.com/watch?v=2wzjT2ZQc6c)
 

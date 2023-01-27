@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Off-Topic](../../../topics/off-topic.md) > [Sweden](../../../topics/off-topic/sweden.md) > Skövde
 
+## January 24th, 2023 Livestream
+* [Q&A: Burgers?](../../../transcriptions/yt-siQAN5pdXvU.md) [https://www.youtube.com/watch?v=siQAN5pdXvU](https://www.youtube.com/watch?v=siQAN5pdXvU)
+
 ## April 19th, 2022 Livestream
 * [Q&A: What is "Skövde C" for you, and why is it the first Station name in Satisfactory?](../../../transcriptions/yt-1a5Y1wJ2EP0.md) [https://www.youtube.com/watch?v=1a5Y1wJ2EP0](https://www.youtube.com/watch?v=1a5Y1wJ2EP0)
 

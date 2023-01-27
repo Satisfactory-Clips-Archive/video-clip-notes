@@ -9,7 +9,7 @@ topics:
 # [February 6th, 2019 Livestream](../2019-02-06.md)
 ## Q&A: Will there be VR support?
 https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=2442&end=2535
-This question was possibly duplicated with a more recent answer: [January 10th, 2023 Livestream Q&A: Are there any plans to add VR in Satisfactory?](./yt-IEF1X5YhgJY.md) [https://www.youtube.com/watch?v=IEF1X5YhgJY](https://www.youtube.com/watch?v=IEF1X5YhgJY)
+This question was possibly duplicated with a more recent answer: [January 24th, 2023 Livestream Q&A: Will you ever consider VR for Satisfactory?](./yt-8Cy8AQPkgAY.md) [https://www.youtube.com/watch?v=8Cy8AQPkgAY](https://www.youtube.com/watch?v=8Cy8AQPkgAY)
 
 
 ### Topics

@@ -12,7 +12,7 @@ topics:
 # [July 5th, 2022 Livestream](../2022-07-05.md)
 ## Q&A: Will the alt Nuclear Fuel be part of the next Update?
 https://www.youtube.com/watch?v=MrPbasBXKEQ
-This question was possibly duplicated with a more recent answer: [January 17th, 2023 Livestream Q&A: Is there an update on the Alt Recipe involving Beacons?](./yt-Mc7EGPNHfZ8.md) [https://www.youtube.com/watch?v=Mc7EGPNHfZ8](https://www.youtube.com/watch?v=Mc7EGPNHfZ8)
+This question was possibly duplicated with a more recent answer: [January 24th, 2023 Livestream Q&A: Uranium Fuel Rod Alt Recipe?](./yt-z2Q-NVmj3W0.md) [https://www.youtube.com/watch?v=z2Q-NVmj3W0](https://www.youtube.com/watch?v=z2Q-NVmj3W0)
 
 
 ### Topics

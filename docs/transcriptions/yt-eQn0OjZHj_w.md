@@ -9,7 +9,7 @@ topics:
 # [May 3rd, 2022 Livestream](../2022-05-03.md)
 ## Q&A: Do you have plans to develop the game for Console?
 https://www.youtube.com/watch?v=eQn0OjZHj_w
-This question was possibly duplicated with a more recent answer: [January 17th, 2023 Livestream Q&A: Is Console/cross-platform on the post-1.0 roadmap?](./yt-EpwkYTHco_o.md) [https://www.youtube.com/watch?v=EpwkYTHco_o](https://www.youtube.com/watch?v=EpwkYTHco_o)
+This question was possibly duplicated with a more recent answer: [January 24th, 2023 Livestream Q&A: Console release or phone?](./yt-9dd4paImT1E.md) [https://www.youtube.com/watch?v=9dd4paImT1E](https://www.youtube.com/watch?v=9dd4paImT1E)
 
 
 ### Topics

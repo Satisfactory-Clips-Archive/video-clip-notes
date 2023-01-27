@@ -32,6 +32,10 @@ date: Last Modified
 * [Utility Signs](../topics/mods/utility-signs.md)
 * [Zip Strips](../topics/mods/zip-strips.md)
 
+## January 24th, 2023 Livestream
+* [Q&A: Does having Mods mess with Dedicated Server players that don't have Mods?](../transcriptions/yt-ijyTcUdnXhw.md) [https://www.youtube.com/watch?v=ijyTcUdnXhw](https://www.youtube.com/watch?v=ijyTcUdnXhw)
+* [Q&A: What is your take on Mods?](../transcriptions/yt-rqUp9df2_bo.md) [https://www.youtube.com/watch?v=rqUp9df2_bo](https://www.youtube.com/watch?v=rqUp9df2_bo)
+
 ## January 20th, 2023 Video
 * [It may not be our fault (we swear!)](../transcriptions/yt-_IHY_1L3pBY,804.2701333333333,860.0592.md) [https://youtube.com/clip/Ugkx38lVEF1AoWWIDSL5SMKLYbJre94p0Zyu](https://youtube.com/clip/Ugkx38lVEF1AoWWIDSL5SMKLYbJre94p0Zyu)
 

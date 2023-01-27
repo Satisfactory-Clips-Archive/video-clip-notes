@@ -11,7 +11,7 @@ topics:
 # [November 1st, 2022 Livestream](../2022-11-01.md)
 ## Q&A: Beacons & Recipes for Update 7?
 https://www.youtube.com/watch?v=WlQm5uZ0Dlg
-This question was possibly duplicated with a more recent answer: [January 17th, 2023 Livestream Q&A: Is there an update on the Alt Recipe involving Beacons?](./yt-Mc7EGPNHfZ8.md) [https://www.youtube.com/watch?v=Mc7EGPNHfZ8](https://www.youtube.com/watch?v=Mc7EGPNHfZ8)
+This question was possibly duplicated with a more recent answer: [January 24th, 2023 Livestream Q&A: Uranium Fuel Rod Alt Recipe?](./yt-z2Q-NVmj3W0.md) [https://www.youtube.com/watch?v=z2Q-NVmj3W0](https://www.youtube.com/watch?v=z2Q-NVmj3W0)
 
 
 ### Topics

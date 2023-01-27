@@ -10,6 +10,16 @@ date: Last Modified
 * [Pollution](../../topics/features/requested-features/pollution.md)
 * [Third-person View](../../topics/features/requested-features/third-person-view.md)
 
+## January 24th, 2023 Livestream
+* [Q&A: Is there a fix for the issue of radiation being stuck at max?](../../transcriptions/yt-0j6Gt9s6aAY.md) [https://www.youtube.com/watch?v=0j6Gt9s6aAY](https://www.youtube.com/watch?v=0j6Gt9s6aAY)
+* [Q&A: Console release or phone?](../../transcriptions/yt-9dd4paImT1E.md) [https://www.youtube.com/watch?v=9dd4paImT1E](https://www.youtube.com/watch?v=9dd4paImT1E)
+* [Snutt & Jace Talk: Roads as vanilla feature](../../transcriptions/yt-DmcobW9AiTs.md) [https://www.youtube.com/watch?v=DmcobW9AiTs](https://www.youtube.com/watch?v=DmcobW9AiTs)
+* [Q&A: Mk.3 Miners, Mk.2 Pipes?](../../transcriptions/yt-Fjkf1GJpYlw.md) [https://www.youtube.com/watch?v=Fjkf1GJpYlw](https://www.youtube.com/watch?v=Fjkf1GJpYlw)
+* [Q&A: Will there be an alternative for carrying power over long distances other than Train Stations?](../../transcriptions/yt-OZglC0zXJz4.md) [https://www.youtube.com/watch?v=OZglC0zXJz4](https://www.youtube.com/watch?v=OZglC0zXJz4)
+* [Q&A: Will we be able to mirror Refineries?](../../transcriptions/yt-WGJBDAO-6pk.md) [https://www.youtube.com/watch?v=WGJBDAO-6pk](https://www.youtube.com/watch?v=WGJBDAO-6pk)
+* [Q&A: Motorcycles?](../../transcriptions/yt-lE85NwERonE.md) [https://www.youtube.com/watch?v=lE85NwERonE](https://www.youtube.com/watch?v=lE85NwERonE)
+* [Q&A: Double-click Blueprints?](../../transcriptions/yt-nakeVz-2GZI.md) [https://www.youtube.com/watch?v=nakeVz-2GZI](https://www.youtube.com/watch?v=nakeVz-2GZI)
+
 ## January 17th, 2023 Livestream
 * [Q&A: Can we have a telescope to look at the newly-added celestial bodies?](../../transcriptions/yt-6uYltuXykY0.md) [https://www.youtube.com/watch?v=6uYltuXykY0](https://www.youtube.com/watch?v=6uYltuXykY0)
 * [Q&A: Can we put Floor Holes on an existing Conveyor Lift?](../../transcriptions/yt-BhhJ3BnFtPA.md) [https://www.youtube.com/watch?v=BhhJ3BnFtPA](https://www.youtube.com/watch?v=BhhJ3BnFtPA)

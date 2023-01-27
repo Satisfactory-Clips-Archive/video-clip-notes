@@ -13,6 +13,11 @@ date: Last Modified
 * [Third-Party Service Integration](../../topics/features/possible-features/third-party-service-integration.md)
 * [Underground Biome](../../topics/features/possible-features/underground-biome.md)
 
+## January 24th, 2023 Livestream
+* [Intro / State of Dev](../../transcriptions/yt-27F3DddrfDY.md) [https://www.youtube.com/watch?v=27F3DddrfDY](https://www.youtube.com/watch?v=27F3DddrfDY)
+* [Q&A: When's the next creative day?](../../transcriptions/yt-PEcKUkKhA7Q.md) [https://www.youtube.com/watch?v=PEcKUkKhA7Q](https://www.youtube.com/watch?v=PEcKUkKhA7Q)
+* [Q&A: Will Blueprints ever get Soft Clearance?](../../transcriptions/yt-iio2qCxrt9E.md) [https://www.youtube.com/watch?v=iio2qCxrt9E](https://www.youtube.com/watch?v=iio2qCxrt9E)
+
 ## January 17th, 2023 Livestream
 * [Q&A: Automated Farming?](../../transcriptions/yt--pjqXHzqWGE.md) [https://www.youtube.com/watch?v=-pjqXHzqWGE](https://www.youtube.com/watch?v=-pjqXHzqWGE)
 * [Q&A: If you were part of the dev team, what features would Jace like to see?](../../transcriptions/yt-n6iI2AlYeD4.md) [https://www.youtube.com/watch?v=n6iI2AlYeD4](https://www.youtube.com/watch?v=n6iI2AlYeD4)

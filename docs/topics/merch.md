@@ -7,6 +7,9 @@ date: Last Modified
 * [EU Merch Store](../topics/merch/eu-merch-store.md)
 * [Merch Prototypes](../topics/merch/merch-prototypes.md)
 
+## January 24th, 2023 Livestream
+* [Snutt & Jace Talk: Bugs in Satisfactory](../transcriptions/yt-OGoBA42DrIM.md) [https://www.youtube.com/watch?v=OGoBA42DrIM](https://www.youtube.com/watch?v=OGoBA42DrIM)
+
 ## January 10th, 2023 Livestream
 * [Q&A: What's "State of Dave"?](../transcriptions/yt-pLHEGzfwTTo.md) [https://www.youtube.com/watch?v=pLHEGzfwTTo](https://www.youtube.com/watch?v=pLHEGzfwTTo)
 * [Q&A: I can't find any Satisfactory Merch at GoodSmile, have you changed shop?](../transcriptions/yt-9KDtKv3TiMw.md) [https://www.youtube.com/watch?v=9KDtKv3TiMw](https://www.youtube.com/watch?v=9KDtKv3TiMw)

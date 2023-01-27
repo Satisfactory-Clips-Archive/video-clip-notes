@@ -8,7 +8,7 @@ topics:
 # [June 1st, 2021 Livestream](../2021-06-01.md)
 ## Q&A: Does Unreal Engine 5 have enough features for you to consider upgrading in future?
 https://www.youtube.com/watch?v=ZvVALD7ZCOA
-This question was possibly duplicated with a more recent answer: [January 10th, 2023 Livestream Q&A: Still curious about Unreal Engine 5, any feedback about this?](./yt-wYQpKcI9rUU.md) [https://www.youtube.com/watch?v=wYQpKcI9rUU](https://www.youtube.com/watch?v=wYQpKcI9rUU)
+This question was possibly duplicated with a more recent answer: [January 24th, 2023 Livestream Q&A: Unreal Engine 5?](./yt---Tndr5YVw8.md) [https://www.youtube.com/watch?v=--Tndr5YVw8](https://www.youtube.com/watch?v=--Tndr5YVw8)
 
 
 ### Topics

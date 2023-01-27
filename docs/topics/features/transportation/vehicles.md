@@ -12,6 +12,11 @@ date: Last Modified
 * [Tractor](../../../topics/features/transportation/vehicles/tractor.md)
 * [Truck](../../../topics/features/transportation/vehicles/truck.md)
 
+## January 24th, 2023 Livestream
+* [Snutt & Jace Talk: Roads as vanilla feature](../../../transcriptions/yt-DmcobW9AiTs.md) [https://www.youtube.com/watch?v=DmcobW9AiTs](https://www.youtube.com/watch?v=DmcobW9AiTs)
+* [Q&A: Why do Vehicles have HP bars, nothing damages them?](../../../transcriptions/yt-ST8k-CrhLk4.md) [https://www.youtube.com/watch?v=ST8k-CrhLk4](https://www.youtube.com/watch?v=ST8k-CrhLk4)
+* [Q&A: Motorcycles?](../../../transcriptions/yt-lE85NwERonE.md) [https://www.youtube.com/watch?v=lE85NwERonE](https://www.youtube.com/watch?v=lE85NwERonE)
+
 ## January 10th, 2023 Livestream
 * [Q&A: Any idea how high of a priority it is to fix the smoothness of driving on Foundations?](../../../transcriptions/yt-4qgk0863g0Y.md) [https://www.youtube.com/watch?v=4qgk0863g0Y](https://www.youtube.com/watch?v=4qgk0863g0Y)
 * [Q&A: Has anything been discussed about elevators for personal or Vehicle use?](../../../transcriptions/yt-_5jjHydWeyA.md) [https://www.youtube.com/watch?v=_5jjHydWeyA](https://www.youtube.com/watch?v=_5jjHydWeyA)

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Technology](../../../topics/technology.md) > [User Interface](../../../topics/technology/user-interface.md) > Holograms
 
+## January 24th, 2023 Livestream
+* [Q&A: Double-click Blueprints?](../../../transcriptions/yt-nakeVz-2GZI.md) [https://www.youtube.com/watch?v=nakeVz-2GZI](https://www.youtube.com/watch?v=nakeVz-2GZI)
+
 ## December 13th, 2022 Livestream
 * [Q&A: Blueprint preview before placing or an undo function?](../../../transcriptions/yt-fliouDhnx8c.md) [https://www.youtube.com/watch?v=fliouDhnx8c](https://www.youtube.com/watch?v=fliouDhnx8c)
 

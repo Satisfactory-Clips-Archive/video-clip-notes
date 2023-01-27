@@ -8,7 +8,7 @@ topics:
 # [February 1st, 2022 Livestream](../2022-02-01.md)
 ## Q&A: Will we see VR in the future?
 https://www.youtube.com/watch?v=fPaoCTlPlO0
-This question was possibly duplicated with a more recent answer: [January 10th, 2023 Livestream Q&A: Are there any plans to add VR in Satisfactory?](./yt-IEF1X5YhgJY.md) [https://www.youtube.com/watch?v=IEF1X5YhgJY](https://www.youtube.com/watch?v=IEF1X5YhgJY)
+This question was possibly duplicated with a more recent answer: [January 24th, 2023 Livestream Q&A: Will you ever consider VR for Satisfactory?](./yt-8Cy8AQPkgAY.md) [https://www.youtube.com/watch?v=8Cy8AQPkgAY](https://www.youtube.com/watch?v=8Cy8AQPkgAY)
 
 
 ### Topics

@@ -8,11 +8,7 @@ topics:
 # [August 10th, 2021 Livestream](../2021-08-10.md)
 ## Q&A: Do you like Mods? Is it something that helps you with the development of the game?
 https://www.youtube.com/watch?v=9s-7Ipd_EE4
-<details>
-<summary>This question may have been asked previously at least 1 other time, as recently as July 2021.</summary>
-
-* [July 16th, 2021 Video Q&A: Are you influenced by Mods?](./yt-Z2WggHmVHGI,235.13490000000002,308.97533333333337.md) [https://youtube.com/embed/Z2WggHmVHGI?autoplay=1&start=235&end=309](https://youtube.com/embed/Z2WggHmVHGI?autoplay=1&start=235&end=309)
-</details>
+This question was possibly duplicated with a more recent answer: [January 24th, 2023 Livestream Q&A: What is your take on Mods?](./yt-rqUp9df2_bo.md) [https://www.youtube.com/watch?v=rqUp9df2_bo](https://www.youtube.com/watch?v=rqUp9df2_bo)
 
 
 ### Topics

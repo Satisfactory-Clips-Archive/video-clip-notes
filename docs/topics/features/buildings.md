@@ -28,6 +28,9 @@ date: Last Modified
 * [The HUB](../../topics/features/buildings/the-hub.md)
 * [Water Extractor](../../topics/features/buildings/water-extractor.md)
 
+## January 24th, 2023 Livestream
+* [Q&A: Will we be able to mirror Refineries?](../../transcriptions/yt-WGJBDAO-6pk.md) [https://www.youtube.com/watch?v=WGJBDAO-6pk](https://www.youtube.com/watch?v=WGJBDAO-6pk)
+
 ## January 17th, 2023 Livestream
 * [Q&A: Will you do a Factory Cart-sized Truck Stop?](../../transcriptions/yt-EcIWfpr1P7g.md) [https://www.youtube.com/watch?v=EcIWfpr1P7g](https://www.youtube.com/watch?v=EcIWfpr1P7g)
 

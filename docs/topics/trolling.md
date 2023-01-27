@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Trolling
 
+## January 24th, 2023 Livestream
+* [Q&A: How are you treating your interns?](../transcriptions/yt-VbZtHlcqOPY.md) [https://www.youtube.com/watch?v=VbZtHlcqOPY](https://www.youtube.com/watch?v=VbZtHlcqOPY)
+* [Q&A: Why doesn't Jace sound Australian?](../transcriptions/yt-l_Tap-4YH6o.md) [https://www.youtube.com/watch?v=l_Tap-4YH6o](https://www.youtube.com/watch?v=l_Tap-4YH6o)
+
 ## January 17th, 2023 Livestream
 * [Q&A: When is Update 3?](../transcriptions/yt-UorZy7iZ6jY.md) [https://www.youtube.com/watch?v=UorZy7iZ6jY](https://www.youtube.com/watch?v=UorZy7iZ6jY)
 * [Q&A: On a scale of 1-100, where do you estimate you are to 1.0?](../transcriptions/yt-Ur35T32d5kM.md) [https://www.youtube.com/watch?v=Ur35T32d5kM](https://www.youtube.com/watch?v=Ur35T32d5kM)

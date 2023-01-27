@@ -8,7 +8,7 @@ topics:
 # [February 23rd, 2021 Livestream](../2021-02-23.md)
 ## Q&A: Any plans for bringing the game to Nintendo Switch?
 https://www.youtube.com/watch?v=rfeMtSPOadY
-This question was possibly duplicated with a more recent answer: [January 17th, 2023 Livestream Q&A: Is Console/cross-platform on the post-1.0 roadmap?](./yt-EpwkYTHco_o.md) [https://www.youtube.com/watch?v=EpwkYTHco_o](https://www.youtube.com/watch?v=EpwkYTHco_o)
+This question was possibly duplicated with a more recent answer: [January 24th, 2023 Livestream Q&A: Console release or phone?](./yt-9dd4paImT1E.md) [https://www.youtube.com/watch?v=9dd4paImT1E](https://www.youtube.com/watch?v=9dd4paImT1E)
 
 
 ### Topics

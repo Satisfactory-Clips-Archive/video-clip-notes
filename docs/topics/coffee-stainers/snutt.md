@@ -5,8 +5,14 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Snutt
 * [Eat shit, chat!](../../topics/coffee-stainers/snutt/eat-shit-chat.md)
+* [Eevee](../../topics/coffee-stainers/snutt/eevee.md)
 * [Snutt Burger Time](../../topics/coffee-stainers/snutt/snutt-burger-time.md)
 * [Snutty Mays](../../topics/coffee-stainers/snutt/snutty-mays.md)
+
+## January 24th, 2023 Livestream
+* [Intro / State of Dev](../../transcriptions/yt-27F3DddrfDY.md) [https://www.youtube.com/watch?v=27F3DddrfDY](https://www.youtube.com/watch?v=27F3DddrfDY)
+* [Q&A: Does Snutt know about the Treptow district in Berlin?](../../transcriptions/yt-rbgdyCf9KGs.md) [https://www.youtube.com/watch?v=rbgdyCf9KGs](https://www.youtube.com/watch?v=rbgdyCf9KGs)
+* [Q&A: Burgers?](../../transcriptions/yt-siQAN5pdXvU.md) [https://www.youtube.com/watch?v=siQAN5pdXvU](https://www.youtube.com/watch?v=siQAN5pdXvU)
 
 ## January 17th, 2023 Livestream
 * [Q&A: Do you miss Snutt?](../../transcriptions/yt-S9ANSQto6gk.md) [https://www.youtube.com/watch?v=S9ANSQto6gk](https://www.youtube.com/watch?v=S9ANSQto6gk)

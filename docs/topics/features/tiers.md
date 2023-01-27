@@ -16,6 +16,9 @@ date: Last Modified
 * [Tier 9](../../topics/features/tiers/tier-9.md)
 * [Tier 10](../../topics/features/tiers/tier-10.md)
 
+## January 24th, 2023 Livestream
+* [Snutt & Jace Talk: Cooperative progression vs. Multiplayer progression](../../transcriptions/yt-lCWS8kV4xDU.md) [https://www.youtube.com/watch?v=lCWS8kV4xDU](https://www.youtube.com/watch?v=lCWS8kV4xDU)
+
 ## January 17th, 2023 Livestream
 * [Q&A: Are the numbers for the last Phase just to keep us busy, or will 1.0 have different numbers?](../../transcriptions/yt-6FYrxhDCs9o.md) [https://www.youtube.com/watch?v=6FYrxhDCs9o](https://www.youtube.com/watch?v=6FYrxhDCs9o)
 

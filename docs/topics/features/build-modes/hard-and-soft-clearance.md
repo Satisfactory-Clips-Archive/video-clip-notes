@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Build Modes](../../../topics/features/build-modes.md) > Hard & Soft Clearance
 * [Complex Clearance](../../../topics/features/build-modes/hard-and-soft-clearance/complex-clearance.md)
 
+## January 24th, 2023 Livestream
+* [Q&A: Will Blueprints ever get Soft Clearance?](../../../transcriptions/yt-iio2qCxrt9E.md) [https://www.youtube.com/watch?v=iio2qCxrt9E](https://www.youtube.com/watch?v=iio2qCxrt9E)
+
 ## January 17th, 2023 Livestream
 * [Q&A: Will Blueprints ever have Soft Clearance?](../../../transcriptions/yt-O92KxbkCgWo.md) [https://www.youtube.com/watch?v=O92KxbkCgWo](https://www.youtube.com/watch?v=O92KxbkCgWo)
 

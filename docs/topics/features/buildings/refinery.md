@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > Refinery
 
+## January 24th, 2023 Livestream
+* [Q&A: Will we be able to mirror Refineries?](../../../transcriptions/yt-WGJBDAO-6pk.md) [https://www.youtube.com/watch?v=WGJBDAO-6pk](https://www.youtube.com/watch?v=WGJBDAO-6pk)
+
 ## October 19th, 2021 Livestream
 * [Q&A: Any word on reducing the Refinery spam further?](../../../transcriptions/yt-FIsHFVHNdNU.md) [https://www.youtube.com/watch?v=FIsHFVHNdNU](https://www.youtube.com/watch?v=FIsHFVHNdNU)
 

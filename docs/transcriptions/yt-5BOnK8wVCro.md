@@ -10,7 +10,7 @@ topics:
 # [March 23rd, 2021 Livestream](../2021-03-23.md)
 ## Q&A: Mk.3 Miner with 1200 resources per minute, put two outputs so we can get all the resources?
 https://www.youtube.com/watch?v=5BOnK8wVCro
-This question was possibly duplicated with a more recent answer: [January 17th, 2023 Livestream Q&A: Mk.3 Miner output situation?](./yt-L-ebK-Ux7kM.md) [https://www.youtube.com/watch?v=L-ebK-Ux7kM](https://www.youtube.com/watch?v=L-ebK-Ux7kM)
+This question was possibly duplicated with a more recent answer: [January 24th, 2023 Livestream Q&A: Mk.3 Miners, Mk.2 Pipes?](./yt-Fjkf1GJpYlw.md) [https://www.youtube.com/watch?v=Fjkf1GJpYlw](https://www.youtube.com/watch?v=Fjkf1GJpYlw)
 
 
 ### Topics

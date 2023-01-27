@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > [Crafting](../../../../topics/features/crafting.md) > [Recipes](../../../../topics/features/crafting/recipes.md) > Alternate Recipes
 
+## January 24th, 2023 Livestream
+* [Q&A: Uranium Fuel Rod Alt Recipe?](../../../../transcriptions/yt-z2Q-NVmj3W0.md) [https://www.youtube.com/watch?v=z2Q-NVmj3W0](https://www.youtube.com/watch?v=z2Q-NVmj3W0)
+
 ## January 17th, 2023 Livestream
 * [Q&A: Is there an update on the Alt Recipe involving Beacons?](../../../../transcriptions/yt-Mc7EGPNHfZ8.md) [https://www.youtube.com/watch?v=Mc7EGPNHfZ8](https://www.youtube.com/watch?v=Mc7EGPNHfZ8)
 

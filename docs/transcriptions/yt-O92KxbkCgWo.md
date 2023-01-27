@@ -10,6 +10,8 @@ topics:
 # [January 17th, 2023 Livestream](../2023-01-17.md)
 ## Q&A: Will Blueprints ever have Soft Clearance?
 https://www.youtube.com/watch?v=O92KxbkCgWo
+This question was possibly duplicated with a more recent answer: [January 24th, 2023 Livestream Q&A: Will Blueprints ever get Soft Clearance?](./yt-iio2qCxrt9E.md) [https://www.youtube.com/watch?v=iio2qCxrt9E](https://www.youtube.com/watch?v=iio2qCxrt9E)
+
 
 ### Topics
 * [Features > Blueprints](../topics/features/blueprints.md)

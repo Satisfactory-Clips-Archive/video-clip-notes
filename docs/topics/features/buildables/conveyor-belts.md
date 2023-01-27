@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildables](../../../topics/features/buildables.md) > Conveyor Belts
 
+## January 24th, 2023 Livestream
+* [Q&A: Mk.3 Miners, Mk.2 Pipes?](../../../transcriptions/yt-Fjkf1GJpYlw.md) [https://www.youtube.com/watch?v=Fjkf1GJpYlw](https://www.youtube.com/watch?v=Fjkf1GJpYlw)
+
 ## January 17th, 2023 Livestream
 * [Q&A: Can we put Floor Holes on an existing Conveyor Lift?](../../../transcriptions/yt-BhhJ3BnFtPA.md) [https://www.youtube.com/watch?v=BhhJ3BnFtPA](https://www.youtube.com/watch?v=BhhJ3BnFtPA)
 * [Q&A: Are there plans for an indicator for when a Splitter/Merger is actually connected to the Belt?](../../../transcriptions/yt-TrtSKbNGWs4.md) [https://www.youtube.com/watch?v=TrtSKbNGWs4](https://www.youtube.com/watch?v=TrtSKbNGWs4)

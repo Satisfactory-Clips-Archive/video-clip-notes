@@ -8,7 +8,7 @@ topics:
 # [March 22nd, 2022 Livestream](../2022-03-22.md)
 ## Q&A: Would you go with Unreal Engine 5 later?
 https://www.youtube.com/watch?v=k3IBcDlRl68
-This question was possibly duplicated with a more recent answer: [January 10th, 2023 Livestream Q&A: Still curious about Unreal Engine 5, any feedback about this?](./yt-wYQpKcI9rUU.md) [https://www.youtube.com/watch?v=wYQpKcI9rUU](https://www.youtube.com/watch?v=wYQpKcI9rUU)
+This question was possibly duplicated with a more recent answer: [January 24th, 2023 Livestream Q&A: Unreal Engine 5?](./yt---Tndr5YVw8.md) [https://www.youtube.com/watch?v=--Tndr5YVw8](https://www.youtube.com/watch?v=--Tndr5YVw8)
 
 
 ### Topics

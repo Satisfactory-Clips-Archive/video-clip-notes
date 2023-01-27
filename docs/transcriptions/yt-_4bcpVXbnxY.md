@@ -11,7 +11,7 @@ topics:
 # [November 29th, 2022 Livestream](../2022-11-29.md)
 ## Q&A: Dual-output Mk.3 Miner please, easy fix?
 https://www.youtube.com/watch?v=_4bcpVXbnxY
-This question was possibly duplicated with a more recent answer: [January 17th, 2023 Livestream Q&A: Mk.3 Miner output situation?](./yt-L-ebK-Ux7kM.md) [https://www.youtube.com/watch?v=L-ebK-Ux7kM](https://www.youtube.com/watch?v=L-ebK-Ux7kM)
+This question was possibly duplicated with a more recent answer: [January 24th, 2023 Livestream Q&A: Mk.3 Miners, Mk.2 Pipes?](./yt-Fjkf1GJpYlw.md) [https://www.youtube.com/watch?v=Fjkf1GJpYlw](https://www.youtube.com/watch?v=Fjkf1GJpYlw)
 
 
 ### Topics

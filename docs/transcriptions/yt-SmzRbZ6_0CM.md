@@ -12,7 +12,7 @@ topics:
 # [August 30th, 2022 Livestream](../2022-08-30.md)
 ## Q&A: Will you change the Uranium Fuel Rod Recipe using Beacons in Update 6?
 https://www.youtube.com/watch?v=SmzRbZ6_0CM
-This question was possibly duplicated with a more recent answer: [January 17th, 2023 Livestream Q&A: Is there an update on the Alt Recipe involving Beacons?](./yt-Mc7EGPNHfZ8.md) [https://www.youtube.com/watch?v=Mc7EGPNHfZ8](https://www.youtube.com/watch?v=Mc7EGPNHfZ8)
+This question was possibly duplicated with a more recent answer: [January 24th, 2023 Livestream Q&A: Uranium Fuel Rod Alt Recipe?](./yt-z2Q-NVmj3W0.md) [https://www.youtube.com/watch?v=z2Q-NVmj3W0](https://www.youtube.com/watch?v=z2Q-NVmj3W0)
 
 
 ### Topics

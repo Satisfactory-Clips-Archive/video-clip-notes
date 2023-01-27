@@ -10,6 +10,9 @@ date: Last Modified
 * [Non Flying Bird](../../topics/environment/creatures/non-flying-bird.md)
 * [Space Giraffe-Tick-Penguin-Whale Thing](../../topics/environment/creatures/space-giraffe-tick-penguin-whale-thing.md)
 
+## January 24th, 2023 Livestream
+* [Q&A: Why do Vehicles have HP bars, nothing damages them?](../../transcriptions/yt-ST8k-CrhLk4.md) [https://www.youtube.com/watch?v=ST8k-CrhLk4](https://www.youtube.com/watch?v=ST8k-CrhLk4)
+
 ## January 17th, 2023 Livestream
 * [Q&A: How do you stop the Stingers from respawning?](../../transcriptions/yt-s47Oa_B0tc4.md) [https://www.youtube.com/watch?v=s47Oa_B0tc4](https://www.youtube.com/watch?v=s47Oa_B0tc4)
 

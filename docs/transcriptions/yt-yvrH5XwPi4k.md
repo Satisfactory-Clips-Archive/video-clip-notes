@@ -8,11 +8,7 @@ topics:
 # [January 12th, 2021 Livestream](../2021-01-12.md)
 ## Q&A: Are there plans to optimise the Tutorial?
 https://www.youtube.com/watch?v=yvrH5XwPi4k
-<details>
-<summary>This question may have been asked previously at least 1 other time, as recently as August 2020.</summary>
-
-* [August 25th, 2020 Livestream Q&A: What about a Tutorial System?](./yt-jJOvimJ-Jcc.md) [https://www.youtube.com/watch?v=jJOvimJ-Jcc](https://www.youtube.com/watch?v=jJOvimJ-Jcc)
-</details>
+This question was possibly duplicated with a more recent answer: [January 24th, 2023 Livestream Q&A: Any Updates on the new tutorial?](./yt-wX4Cb6laBFE.md) [https://www.youtube.com/watch?v=wX4Cb6laBFE](https://www.youtube.com/watch?v=wX4Cb6laBFE)
 
 
 ### Topics

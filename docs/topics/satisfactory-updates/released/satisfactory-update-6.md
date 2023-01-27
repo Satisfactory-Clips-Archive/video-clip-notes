@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Released > Satisfactory Update 6
 
+## January 24th, 2023 Livestream
+* [Q&A: Was Update 6 the last of the cosmetic Updates?](../../../transcriptions/yt-SYN7XsWGG00.md) [https://www.youtube.com/watch?v=SYN7XsWGG00](https://www.youtube.com/watch?v=SYN7XsWGG00)
+
 ## January 10th, 2023 Livestream
 * [Q&A: Any plans to make Exploration more rewarding?](../../../transcriptions/yt-F0PPHXzy33Q.md) [https://www.youtube.com/watch?v=F0PPHXzy33Q](https://www.youtube.com/watch?v=F0PPHXzy33Q)
 

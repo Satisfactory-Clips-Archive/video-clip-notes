@@ -5,6 +5,14 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Embracer Group](../../../topics/embracer-group.md) > Coffee Stain Holding > Coffee Stain Studios
 
+## January 24th, 2023 Livestream
+* [Q&A: When are we going to get more patch fixes?](../../../transcriptions/yt--8TrlfRp_0A.md) [https://www.youtube.com/watch?v=-8TrlfRp_0A](https://www.youtube.com/watch?v=-8TrlfRp_0A)
+* [Snutt & Jace Talk: Bugs in Satisfactory](../../../transcriptions/yt-OGoBA42DrIM.md) [https://www.youtube.com/watch?v=OGoBA42DrIM](https://www.youtube.com/watch?v=OGoBA42DrIM)
+* [Q&A: When's the next creative day?](../../../transcriptions/yt-PEcKUkKhA7Q.md) [https://www.youtube.com/watch?v=PEcKUkKhA7Q](https://www.youtube.com/watch?v=PEcKUkKhA7Q)
+* [Q&A: How are you treating your interns?](../../../transcriptions/yt-VbZtHlcqOPY.md) [https://www.youtube.com/watch?v=VbZtHlcqOPY](https://www.youtube.com/watch?v=VbZtHlcqOPY)
+* [Q&A: Will there be ray-tracing at some point?](../../../transcriptions/yt-hTn8X7yhRtU.md) [https://www.youtube.com/watch?v=hTn8X7yhRtU](https://www.youtube.com/watch?v=hTn8X7yhRtU)
+* [Q&A: What is your take on Mods?](../../../transcriptions/yt-rqUp9df2_bo.md) [https://www.youtube.com/watch?v=rqUp9df2_bo](https://www.youtube.com/watch?v=rqUp9df2_bo)
+
 ## January 20th, 2023 Video
 * [Do we know how to fix it?](../../../transcriptions/yt-_IHY_1L3pBY,661.0937666666666,764.3969666666667.md) [https://youtube.com/embed/_IHY_1L3pBY?autoplay=1&start=661&end=765](https://youtube.com/embed/_IHY_1L3pBY?autoplay=1&start=661&end=765)
 * [Increasing resources](../../../transcriptions/yt-_IHY_1L3pBY,896.6958,979.178.md) [https://youtube.com/embed/_IHY_1L3pBY?autoplay=1&start=896&end=980](https://youtube.com/embed/_IHY_1L3pBY?autoplay=1&start=896&end=980)

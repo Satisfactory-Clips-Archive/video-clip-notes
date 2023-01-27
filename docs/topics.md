@@ -54,6 +54,7 @@ date: Last Modified
 
 ## [Snutt](./topics/coffee-stainers/snutt.md)
 * [Eat shit, chat!](./topics/coffee-stainers/snutt/eat-shit-chat.md)
+* [Eevee](./topics/coffee-stainers/snutt/eevee.md)
 * [Snutt Burger Time](./topics/coffee-stainers/snutt/snutt-burger-time.md)
 * [Snutty Mays](./topics/coffee-stainers/snutt/snutty-mays.md)
 ---

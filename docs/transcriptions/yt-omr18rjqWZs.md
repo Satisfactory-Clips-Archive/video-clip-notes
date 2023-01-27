@@ -8,7 +8,7 @@ topics:
 # [September 28th, 2021 Livestream](../2021-09-28.md)
 ## Q&A: RTX Support?
 https://www.youtube.com/watch?v=omr18rjqWZs
-This question was possibly duplicated with a more recent answer: [October 25th, 2022 Livestream Q&A: RTX Support, when?](./yt-oNsfF8oCgl0.md) [https://www.youtube.com/watch?v=oNsfF8oCgl0](https://www.youtube.com/watch?v=oNsfF8oCgl0)
+This question was possibly duplicated with a more recent answer: [January 24th, 2023 Livestream Q&A: Will there be ray-tracing at some point?](./yt-hTn8X7yhRtU.md) [https://www.youtube.com/watch?v=hTn8X7yhRtU](https://www.youtube.com/watch?v=hTn8X7yhRtU)
 
 
 ### Topics

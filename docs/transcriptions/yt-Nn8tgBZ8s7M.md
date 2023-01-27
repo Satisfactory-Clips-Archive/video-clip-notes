@@ -9,7 +9,7 @@ topics:
 # [August 31st, 2021 Livestream](../2021-08-31.md)
 ## Q&A: Two outputs for Mk.3 Miners?
 https://www.youtube.com/watch?v=Nn8tgBZ8s7M
-This question was possibly duplicated with a more recent answer: [January 17th, 2023 Livestream Q&A: Mk.3 Miner output situation?](./yt-L-ebK-Ux7kM.md) [https://www.youtube.com/watch?v=L-ebK-Ux7kM](https://www.youtube.com/watch?v=L-ebK-Ux7kM)
+This question was possibly duplicated with a more recent answer: [January 24th, 2023 Livestream Q&A: Mk.3 Miners, Mk.2 Pipes?](./yt-Fjkf1GJpYlw.md) [https://www.youtube.com/watch?v=Fjkf1GJpYlw](https://www.youtube.com/watch?v=Fjkf1GJpYlw)
 
 
 ### Topics

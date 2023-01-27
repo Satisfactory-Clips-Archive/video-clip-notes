@@ -22,6 +22,10 @@ date: Last Modified
 * [Walls](../../topics/features/buildables/walls.md)
 * [Windows](../../topics/features/buildables/windows.md)
 
+## January 24th, 2023 Livestream
+* [Q&A: Will there be an alternative for carrying power over long distances other than Train Stations?](../../transcriptions/yt-OZglC0zXJz4.md) [https://www.youtube.com/watch?v=OZglC0zXJz4](https://www.youtube.com/watch?v=OZglC0zXJz4)
+* [Q&A: Was Update 6 the last of the cosmetic Updates?](../../transcriptions/yt-SYN7XsWGG00.md) [https://www.youtube.com/watch?v=SYN7XsWGG00](https://www.youtube.com/watch?v=SYN7XsWGG00)
+
 ## January 10th, 2023 Livestream
 * [Q&A: Railway turntable might be handy for Trains?](../../transcriptions/yt-qZP-PpkUf88.md) [https://www.youtube.com/watch?v=qZP-PpkUf88](https://www.youtube.com/watch?v=qZP-PpkUf88)
 * [Q&A: What about a Rail piece with a Power connector?](../../transcriptions/yt-tgZILwzuFd0.md) [https://www.youtube.com/watch?v=tgZILwzuFd0](https://www.youtube.com/watch?v=tgZILwzuFd0)

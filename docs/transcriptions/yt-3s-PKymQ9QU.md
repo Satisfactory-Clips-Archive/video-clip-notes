@@ -9,7 +9,7 @@ topics:
 # [September 8th, 2020 Livestream](../2020-09-08.md)
 ## Q&A: Ever consider making a VR version of Satisfactory?
 https://www.youtube.com/watch?v=3s-PKymQ9QU
-This question was possibly duplicated with a more recent answer: [January 10th, 2023 Livestream Q&A: Are there any plans to add VR in Satisfactory?](./yt-IEF1X5YhgJY.md) [https://www.youtube.com/watch?v=IEF1X5YhgJY](https://www.youtube.com/watch?v=IEF1X5YhgJY)
+This question was possibly duplicated with a more recent answer: [January 24th, 2023 Livestream Q&A: Will you ever consider VR for Satisfactory?](./yt-8Cy8AQPkgAY.md) [https://www.youtube.com/watch?v=8Cy8AQPkgAY](https://www.youtube.com/watch?v=8Cy8AQPkgAY)
 
 
 ### Topics

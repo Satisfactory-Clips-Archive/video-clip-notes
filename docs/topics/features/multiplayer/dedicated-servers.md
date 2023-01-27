@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Multiplayer](../../../topics/features/multiplayer.md) > Dedicated Servers
 
+## January 24th, 2023 Livestream
+* [Q&A: Dedicated Servers being developed?](../../../transcriptions/yt-NqZsKBb7EN0.md) [https://www.youtube.com/watch?v=NqZsKBb7EN0](https://www.youtube.com/watch?v=NqZsKBb7EN0)
+* [Q&A: Does having Mods mess with Dedicated Server players that don't have Mods?](../../../transcriptions/yt-ijyTcUdnXhw.md) [https://www.youtube.com/watch?v=ijyTcUdnXhw](https://www.youtube.com/watch?v=ijyTcUdnXhw)
+
 ## December 20th, 2022 Livestream
 * [Q&A: Are you aware of the Belts not connecting on client bug?](../../../transcriptions/yt-cd4PXs9aG1E.md) [https://www.youtube.com/watch?v=cd4PXs9aG1E](https://www.youtube.com/watch?v=cd4PXs9aG1E)
 

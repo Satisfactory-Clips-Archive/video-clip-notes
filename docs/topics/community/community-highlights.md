@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Community Highlights
 
+## January 24th, 2023 Livestream
+* [Snutt & Jace Talk: Roads as vanilla feature](../../transcriptions/yt-DmcobW9AiTs.md) [https://www.youtube.com/watch?v=DmcobW9AiTs](https://www.youtube.com/watch?v=DmcobW9AiTs)
+
 ## January 17th, 2023 Livestream
 * [Community FYI: If only we had FICSoween](../../transcriptions/yt-Y2GSB_qBHsc.md) [https://www.youtube.com/watch?v=Y2GSB_qBHsc](https://www.youtube.com/watch?v=Y2GSB_qBHsc)
 * [Q&A: If we have Community Highlights without a bridge, does that confirm RCE the week after?](../../transcriptions/yt-cIclgefxFbU.md) [https://www.youtube.com/watch?v=cIclgefxFbU](https://www.youtube.com/watch?v=cIclgefxFbU)

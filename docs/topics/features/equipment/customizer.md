@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Equipment](../../../topics/features/equipment.md) > Customizer
 
+## January 24th, 2023 Livestream
+* [Q&A: Was Update 6 the last of the cosmetic Updates?](../../../transcriptions/yt-SYN7XsWGG00.md) [https://www.youtube.com/watch?v=SYN7XsWGG00](https://www.youtube.com/watch?v=SYN7XsWGG00)
+
 ## November 29th, 2022 Livestream
 * [Q&A: Any plans to allow for more than 15 colour swatches, or even to rename them?](../../../transcriptions/yt-hiiLRLcuwJI.md) [https://www.youtube.com/watch?v=hiiLRLcuwJI](https://www.youtube.com/watch?v=hiiLRLcuwJI)
 

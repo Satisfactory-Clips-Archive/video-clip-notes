@@ -10,6 +10,9 @@ date: Last Modified
 * [Power Storage](../../topics/features/power-management/power-storage.md)
 * [Power Switch](../../topics/features/power-management/power-switch.md)
 
+## January 24th, 2023 Livestream
+* [Q&A: Will there be an alternative for carrying power over long distances other than Train Stations?](../../transcriptions/yt-OZglC0zXJz4.md) [https://www.youtube.com/watch?v=OZglC0zXJz4](https://www.youtube.com/watch?v=OZglC0zXJz4)
+
 ## January 17th, 2023 Livestream
 * [Q&A: How do you stop the Stingers from respawning?](../../transcriptions/yt-s47Oa_B0tc4.md) [https://www.youtube.com/watch?v=s47Oa_B0tc4](https://www.youtube.com/watch?v=s47Oa_B0tc4)
 
