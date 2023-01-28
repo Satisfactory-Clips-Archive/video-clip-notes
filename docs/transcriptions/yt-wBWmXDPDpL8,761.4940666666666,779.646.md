@@ -9,7 +9,7 @@ topics:
 ---
 # [January 27th, 2023 Video](../2023-01-27.md)
 ## ChatGPT didn't know Smart Splitters were a thing
-https://youtube.com/embed/wBWmXDPDpL8?autoplay=1&start=761&end=780
+https://youtube.com/clip/UgkxDmKBkjL6hUMzLUaZzMqDV3nAUcYLpifh
 
 ### Topics
 * [Features > Buildables > Conveyor Belts](../topics/features/buildables/conveyor-belts.md)

@@ -8,7 +8,7 @@ topics:
 ---
 # [January 27th, 2023 Video](../2023-01-27.md)
 ## Jace asks ChatGPT to write a script in the style of Jace
-https://youtube.com/embed/wBWmXDPDpL8?autoplay=1&start=551&end=601
+https://youtube.com/clip/UgkxrnQd3tTxLCaTxlK5PEFuhiqgbJZQS_te
 
 ### Topics
 * [Satisfactory Updates > Speculative > Satisfactory Update 8](../topics/satisfactory-updates/speculative/satisfactory-update-8.md)

@@ -9,7 +9,7 @@ topics:
 ---
 # [January 27th, 2023 Video](../2023-01-27.md)
 ## ChatGPT wants Terraforming
-https://youtube.com/embed/wBWmXDPDpL8?autoplay=1&start=816&end=830
+https://youtube.com/clip/UgkxUy2L9INpeGyY58zqmpszLWXYPNnQuk4C
 
 ### Topics
 * [Features > Unplanned Features > Terraforming](../topics/features/unplanned-features/terraforming.md)

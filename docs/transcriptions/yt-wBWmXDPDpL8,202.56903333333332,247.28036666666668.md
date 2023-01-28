@@ -7,7 +7,7 @@ topics:
 ---
 # [January 27th, 2023 Video](../2023-01-27.md)
 ## Q&A: Does ChatGPT believe Satisfactory is dogshit?
-https://youtube.com/embed/wBWmXDPDpL8?autoplay=1&start=202&end=248
+https://youtube.com/clip/UgkxMxpsmzLRil5P6zWNP7ciclNe7b9G4ggR
 
 ### Topics
 * [Technology > ChatGPT](../topics/technology/chatgpt.md)

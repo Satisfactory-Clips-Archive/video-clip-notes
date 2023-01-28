@@ -6,7 +6,7 @@ date: Last Modified
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > M.A.M.
 
 ## January 27th, 2023 Video
-* [ChatGPT didn't know Satisfactory had a research tree](../../../transcriptions/yt-wBWmXDPDpL8,779.6789,799.065.md) [https://youtube.com/embed/wBWmXDPDpL8?autoplay=1&start=779&end=800](https://youtube.com/embed/wBWmXDPDpL8?autoplay=1&start=779&end=800)
+* [ChatGPT didn't know Satisfactory had a research tree](../../../transcriptions/yt-wBWmXDPDpL8,779.6789,799.065.md) [https://youtube.com/clip/UgkxBavG7tXJnEnrouTE07Eexuq5w1MRWWuK](https://youtube.com/clip/UgkxBavG7tXJnEnrouTE07Eexuq5w1MRWWuK)
 
 ## November 15th, 2022 Livestream
 * [Q&A: Are Blueprints part of the MAM or part of general Tiers?](../../../transcriptions/yt-CREPrQ23Dt4,4008.838937,4045.864719.md) [https://youtube.com/clip/UgkxBagwDKYqIFtH8ZH-Bi4Mwa9z7MZRHfs7](https://youtube.com/clip/UgkxBagwDKYqIFtH8ZH-Bi4Mwa9z7MZRHfs7)

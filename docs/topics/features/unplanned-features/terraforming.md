@@ -6,7 +6,7 @@ date: Last Modified
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Unplanned Features](../../../topics/features/unplanned-features.md) > Terraforming
 
 ## January 27th, 2023 Video
-* [ChatGPT wants Terraforming](../../../transcriptions/yt-wBWmXDPDpL8,816.2487666666667,829.629665.md) [https://youtube.com/embed/wBWmXDPDpL8?autoplay=1&start=816&end=830](https://youtube.com/embed/wBWmXDPDpL8?autoplay=1&start=816&end=830)
+* [ChatGPT wants Terraforming](../../../transcriptions/yt-wBWmXDPDpL8,816.2487666666667,829.629665.md) [https://youtube.com/clip/UgkxUy2L9INpeGyY58zqmpszLWXYPNnQuk4C](https://youtube.com/clip/UgkxUy2L9INpeGyY58zqmpszLWXYPNnQuk4C)
 
 ## December 13th, 2022 Livestream
 * [Q&A: What's your stance on Terraforming?](../../../transcriptions/yt-RDPwE0MbNzs.md) [https://www.youtube.com/watch?v=RDPwE0MbNzs](https://www.youtube.com/watch?v=RDPwE0MbNzs)

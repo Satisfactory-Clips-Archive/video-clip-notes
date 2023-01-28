@@ -9,7 +9,7 @@ topics:
 ---
 # [January 27th, 2023 Video](../2023-01-27.md)
 ## ChatGPT doesn't know about Subnautica
-https://youtube.com/embed/wBWmXDPDpL8?autoplay=1&start=718&end=734
+https://youtube.com/clip/Ugkx7RaB49avTFqq2LMqDkgWgRPlaXXVmNej
 
 ### Topics
 * [Environment > Biomes > Unplanned Biomes > Underwater](../topics/environment/biomes/unplanned-biomes/underwater.md)

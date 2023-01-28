@@ -8,7 +8,7 @@ topics:
 ---
 # [January 27th, 2023 Video](../2023-01-27.md)
 ## Reviewing the script & ChatGPT
-https://youtube.com/embed/wBWmXDPDpL8?autoplay=1&start=881&end=938
+https://youtube.com/clip/Ugkx3ay5IY6vyKQmtDdNWm-c2FDDZ-6dJzNv
 
 ### Topics
 * [Satisfactory Updates > Speculative > Satisfactory Update 8](../topics/satisfactory-updates/speculative/satisfactory-update-8.md)

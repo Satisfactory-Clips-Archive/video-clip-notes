@@ -9,7 +9,7 @@ topics:
 ---
 # [January 27th, 2023 Video](../2023-01-27.md)
 ## ChatGPT didn't know Satisfactory had Multiplayer
-https://youtube.com/embed/wBWmXDPDpL8?autoplay=1&start=749&end=762
+https://youtube.com/clip/UgkxYApuk34drIaVkwat4V17812-ZQ_J2G29
 
 ### Topics
 * [Features > Multiplayer](../topics/features/multiplayer.md)

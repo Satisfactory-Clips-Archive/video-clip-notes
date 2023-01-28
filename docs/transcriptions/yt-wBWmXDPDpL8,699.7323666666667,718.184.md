@@ -9,7 +9,7 @@ topics:
 ---
 # [January 27th, 2023 Video](../2023-01-27.md)
 ## ChatGPT didn't know Satisfactory had Trains
-https://youtube.com/embed/wBWmXDPDpL8?autoplay=1&start=699&end=719
+https://youtube.com/clip/UgkxXoACaIkomu3iWprJ2peA1vKeJSgzx4AU
 
 ### Topics
 * [Features > Transportation > Trains](../topics/features/transportation/trains.md)

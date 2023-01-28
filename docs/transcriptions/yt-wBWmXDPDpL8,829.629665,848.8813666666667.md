@@ -10,7 +10,7 @@ topics:
 ---
 # [January 27th, 2023 Video](../2023-01-27.md)
 ## ChatGPT wants Resource shortages and Alien Invasions
-https://youtube.com/embed/wBWmXDPDpL8?autoplay=1&start=829&end=849
+https://youtube.com/clip/UgkxDa9SaX1W5C2FMTJuvEKLAXokPY3ja_PG
 
 ### Topics
 * [Environment > Resources](../topics/environment/resources.md)

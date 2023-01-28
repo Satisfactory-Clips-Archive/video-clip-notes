@@ -8,7 +8,7 @@ topics:
 ---
 # [January 27th, 2023 Video](../2023-01-27.md)
 ## Q&A: Does ChatGPT know who Snutt Treptow is?
-https://youtube.com/embed/wBWmXDPDpL8?autoplay=1&start=356&end=367
+https://youtube.com/clip/Ugkx0Jjm6IN3ZnWLIz8W5Np2M1OKg4t-gJ6s
 
 ### Topics
 * [Coffee Stainers > Snutt](../topics/coffee-stainers/snutt.md)

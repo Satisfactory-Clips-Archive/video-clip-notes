@@ -9,7 +9,7 @@ topics:
 ---
 # [January 27th, 2023 Video](../2023-01-27.md)
 ## ChatGPT wants Green Energy
-https://youtube.com/embed/wBWmXDPDpL8?autoplay=1&start=799&end=817
+https://youtube.com/clip/UgkxrAepxMpgLC7dACHqXwFSi4Hl7i8eHgwH
 
 ### Topics
 * [Features > Power Management > Green Energy](../topics/features/power-management/green-energy.md)

@@ -9,7 +9,7 @@ topics:
 ---
 # [January 27th, 2023 Video](../2023-01-27.md)
 ## ChatGPT wants Weather forecasts
-https://youtube.com/embed/wBWmXDPDpL8?autoplay=1&start=733&end=750
+https://youtube.com/clip/Ugkx2rMBaXl2KWhj9Lwi-rKaaSOpaGjdJHmH
 
 ### Topics
 * [Environment > Weather Systems](../topics/environment/weather-systems.md)

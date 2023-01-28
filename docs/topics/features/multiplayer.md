@@ -8,8 +8,8 @@ date: Last Modified
 * [Dedicated Servers](../../topics/features/multiplayer/dedicated-servers.md)
 
 ## January 27th, 2023 Video
-* [ChatGPT didn't know Satisfactory had Multiplayer](../../transcriptions/yt-wBWmXDPDpL8,749.749,761.4607.md) [https://youtube.com/embed/wBWmXDPDpL8?autoplay=1&start=749&end=762](https://youtube.com/embed/wBWmXDPDpL8?autoplay=1&start=749&end=762)
-* [End Tag](../../transcriptions/yt-wBWmXDPDpL8,937.4698666666667.md) [https://youtube.com/embed/wBWmXDPDpL8?autoplay=1&start=937](https://youtube.com/embed/wBWmXDPDpL8?autoplay=1&start=937)
+* [ChatGPT didn't know Satisfactory had Multiplayer](../../transcriptions/yt-wBWmXDPDpL8,749.749,761.4607.md) [https://youtube.com/clip/UgkxYApuk34drIaVkwat4V17812-ZQ_J2G29](https://youtube.com/clip/UgkxYApuk34drIaVkwat4V17812-ZQ_J2G29)
+* [End Tag](../../transcriptions/yt-wBWmXDPDpL8,937.4698666666667.md) [https://youtube.com/clip/UgkxOaR1e1A8ZgXFDt_PIePLVnG34gMWEUR9](https://youtube.com/clip/UgkxOaR1e1A8ZgXFDt_PIePLVnG34gMWEUR9)
 
 ## January 24th, 2023 Livestream
 * [Snutt & Jace Talk: Cooperative progression vs. Multiplayer progression](../../transcriptions/yt-lCWS8kV4xDU.md) [https://www.youtube.com/watch?v=lCWS8kV4xDU](https://www.youtube.com/watch?v=lCWS8kV4xDU)

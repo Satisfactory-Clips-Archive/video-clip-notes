@@ -7,7 +7,7 @@ topics:
 ---
 # [January 27th, 2023 Video](../2023-01-27.md)
 ## Thank for the response to last week's video!
-https://youtube.com/embed/wBWmXDPDpL8?autoplay=1&start=1&end=21
+https://youtube.com/clip/UgkxYTRXCvGRlpgvUF2jr_9O4yP3R0GxFrfk
 
 ### Topics
 * [Community](../topics/community.md)

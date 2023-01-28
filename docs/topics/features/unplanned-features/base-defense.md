@@ -6,7 +6,7 @@ date: Last Modified
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Unplanned Features](../../../topics/features/unplanned-features.md) > Base Defense
 
 ## January 27th, 2023 Video
-* [ChatGPT wants Resource shortages and Alien Invasions](../../../transcriptions/yt-wBWmXDPDpL8,829.629665,848.8813666666667.md) [https://youtube.com/embed/wBWmXDPDpL8?autoplay=1&start=829&end=849](https://youtube.com/embed/wBWmXDPDpL8?autoplay=1&start=829&end=849)
+* [ChatGPT wants Resource shortages and Alien Invasions](../../../transcriptions/yt-wBWmXDPDpL8,829.629665,848.8813666666667.md) [https://youtube.com/clip/UgkxDa9SaX1W5C2FMTJuvEKLAXokPY3ja_PG](https://youtube.com/clip/UgkxDa9SaX1W5C2FMTJuvEKLAXokPY3ja_PG)
 
 ## January 10th, 2023 Livestream
 * [Community FYI: A Satisfactory-style Tower Defense game would be sick](../../../transcriptions/yt-E_lRyinYhQA.md) [https://www.youtube.com/watch?v=E_lRyinYhQA](https://www.youtube.com/watch?v=E_lRyinYhQA)

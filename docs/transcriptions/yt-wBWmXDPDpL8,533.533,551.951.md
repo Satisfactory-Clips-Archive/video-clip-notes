@@ -8,7 +8,7 @@ topics:
 ---
 # [January 27th, 2023 Video](../2023-01-27.md)
 ## Q&A: When does ChatGPT think Satisfactory will leave Early Access?
-https://youtube.com/embed/wBWmXDPDpL8?autoplay=1&start=533&end=552
+https://youtube.com/clip/UgkxiAaDBlRuXHTyZQOXGu0pY76ZFEeS1Y2g
 
 ### Topics
 * [Satisfactory Updates > Pending > Satisfactory 1.0](../topics/satisfactory-updates/pending/satisfactory-1-0.md)

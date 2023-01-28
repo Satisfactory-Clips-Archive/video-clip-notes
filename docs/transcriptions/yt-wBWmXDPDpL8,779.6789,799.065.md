@@ -10,7 +10,7 @@ topics:
 ---
 # [January 27th, 2023 Video](../2023-01-27.md)
 ## ChatGPT didn't know Satisfactory had a research tree
-https://youtube.com/embed/wBWmXDPDpL8?autoplay=1&start=779&end=800
+https://youtube.com/clip/UgkxBavG7tXJnEnrouTE07Eexuq5w1MRWWuK
 
 ### Topics
 * [Features > Buildings > M.A.M.](../topics/features/buildings/m-a-m.md)
