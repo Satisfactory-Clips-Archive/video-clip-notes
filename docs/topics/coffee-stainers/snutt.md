@@ -9,6 +9,9 @@ date: Last Modified
 * [Snutt Burger Time](../../topics/coffee-stainers/snutt/snutt-burger-time.md)
 * [Snutty Mays](../../topics/coffee-stainers/snutt/snutty-mays.md)
 
+## January 27th, 2023 Video
+* [Q&A: Does ChatGPT know who Snutt Treptow is?](../../transcriptions/yt-wBWmXDPDpL8,356.32263333333333,366.132.md) [https://youtube.com/embed/wBWmXDPDpL8?autoplay=1&start=356&end=367](https://youtube.com/embed/wBWmXDPDpL8?autoplay=1&start=356&end=367)
+
 ## January 24th, 2023 Livestream
 * [Intro / State of Dev](../../transcriptions/yt-27F3DddrfDY.md) [https://www.youtube.com/watch?v=27F3DddrfDY](https://www.youtube.com/watch?v=27F3DddrfDY)
 * [Q&A: Does Snutt know about the Treptow district in Berlin?](../../transcriptions/yt-rbgdyCf9KGs.md) [https://www.youtube.com/watch?v=rbgdyCf9KGs](https://www.youtube.com/watch?v=rbgdyCf9KGs)

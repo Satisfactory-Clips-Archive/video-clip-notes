@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Environment](../../../../topics/environment.md) > [Biomes](../../../../topics/environment/biomes.md) > Unplanned Biomes > Underwater
 
+## January 27th, 2023 Video
+* [ChatGPT doesn't know about Subnautica](../../../../transcriptions/yt-wBWmXDPDpL8,718.2175,733.733.md) [https://youtube.com/embed/wBWmXDPDpL8?autoplay=1&start=718&end=734](https://youtube.com/embed/wBWmXDPDpL8?autoplay=1&start=718&end=734)
+
 ## October 18th, 2022 Livestream
 * [Q&A: Is Underwater building planned?](../../../../transcriptions/yt-Y-A84iQXzxU.md) [https://www.youtube.com/watch?v=Y-A84iQXzxU](https://www.youtube.com/watch?v=Y-A84iQXzxU)
 

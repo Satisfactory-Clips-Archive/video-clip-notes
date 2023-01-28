@@ -26,6 +26,9 @@ date: Last Modified
 * [Vilsol](../topics/community/vilsol.md)
 * [Wiki](../topics/community/wiki.md)
 
+## January 27th, 2023 Video
+* [Thank for the response to last week's video!](../transcriptions/yt-wBWmXDPDpL8,1.8685333333333334,20.321695869502317.md) [https://youtube.com/embed/wBWmXDPDpL8?autoplay=1&start=1&end=21](https://youtube.com/embed/wBWmXDPDpL8?autoplay=1&start=1&end=21)
+
 ## January 20th, 2023 Video
 * [Addressing false perceptions](../transcriptions/yt-_IHY_1L3pBY,78.04463333333334,134.4343.md) [https://youtube.com/clip/Ugkxq87H1xotKfC98_ua2QkD1Sk1_U6eV6Pz](https://youtube.com/clip/Ugkxq87H1xotKfC98_ua2QkD1Sk1_U6eV6Pz)
 * [Communication](../transcriptions/yt-_IHY_1L3pBY,1031.0967333333333,1128.394.md) [https://youtube.com/embed/_IHY_1L3pBY?autoplay=1&start=1031&end=1129](https://youtube.com/embed/_IHY_1L3pBY?autoplay=1&start=1031&end=1129)

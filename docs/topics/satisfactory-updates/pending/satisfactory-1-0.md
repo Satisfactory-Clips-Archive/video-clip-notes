@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Pending](../../../topics/satisfactory-updates/pending.md) > Satisfactory 1.0
 
+## January 27th, 2023 Video
+* [Q&A: When does ChatGPT think Satisfactory will leave Early Access?](../../../transcriptions/yt-wBWmXDPDpL8,533.533,551.951.md) [https://youtube.com/embed/wBWmXDPDpL8?autoplay=1&start=533&end=552](https://youtube.com/embed/wBWmXDPDpL8?autoplay=1&start=533&end=552)
+
 ## January 17th, 2023 Livestream
 * [Q&A: Are the numbers for the last Phase just to keep us busy, or will 1.0 have different numbers?](../../../transcriptions/yt-6FYrxhDCs9o.md) [https://www.youtube.com/watch?v=6FYrxhDCs9o](https://www.youtube.com/watch?v=6FYrxhDCs9o)
 * [Q&A: Is the plan still to combat most of the less-common bugs closer to the 1.0 release?](../../../transcriptions/yt-PMeF5vdnPN4.md) [https://www.youtube.com/watch?v=PMeF5vdnPN4](https://www.youtube.com/watch?v=PMeF5vdnPN4)

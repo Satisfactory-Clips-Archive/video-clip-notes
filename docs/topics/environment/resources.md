@@ -14,6 +14,10 @@ date: Last Modified
 * [Steel](../../topics/environment/resources/steel.md)
 * [Water](../../topics/environment/resources/water.md)
 
+## January 27th, 2023 Video
+* [Q&A: What does ChatGPT say in response to "How do I make HMF in Satisfactory?" ?](../../transcriptions/yt-wBWmXDPDpL8,366.1658,533.5.md) [https://youtube.com/embed/wBWmXDPDpL8?autoplay=1&start=366&end=534](https://youtube.com/embed/wBWmXDPDpL8?autoplay=1&start=366&end=534)
+* [ChatGPT wants Resource shortages and Alien Invasions](../../transcriptions/yt-wBWmXDPDpL8,829.629665,848.8813666666667.md) [https://youtube.com/embed/wBWmXDPDpL8?autoplay=1&start=829&end=849](https://youtube.com/embed/wBWmXDPDpL8?autoplay=1&start=829&end=849)
+
 ## January 10th, 2023 Livestream
 * [Q&A: Why do I need 207.7777 Rubber and 108.88888 Plastic for 10 Nuclear Pasta?](../../transcriptions/yt-U1lk-yv_ztY.md) [https://www.youtube.com/watch?v=U1lk-yv_ztY](https://www.youtube.com/watch?v=U1lk-yv_ztY)
 

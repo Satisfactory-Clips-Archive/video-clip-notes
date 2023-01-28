@@ -560,6 +560,7 @@ date: Last Modified
 
 # [Technology](./topics/technology.md)
 * [Analytics](./topics/technology/analytics.md)
+* [ChatGPT](./topics/technology/chatgpt.md)
 * [DirectX](./topics/technology/directx.md)
 * [Linux](./topics/technology/linux.md)
 * [Mac](./topics/technology/mac.md)

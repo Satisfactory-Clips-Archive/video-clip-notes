@@ -10,6 +10,9 @@ date: Last Modified
 * [Juice Velvet](../../topics/coffee-stainers/jace/juice-velvet.md)
 * [Robo Jace](../../topics/coffee-stainers/jace/robo-jace.md)
 
+## January 27th, 2023 Video
+* [Q&A: Does ChatGPT know who Jace Varlet is?](../../transcriptions/yt-wBWmXDPDpL8,268.646924,356.28926666666666.md) [https://youtube.com/embed/wBWmXDPDpL8?autoplay=1&start=268&end=357](https://youtube.com/embed/wBWmXDPDpL8?autoplay=1&start=268&end=357)
+
 ## January 24th, 2023 Livestream
 * [Q&A: Why doesn't Jace sound Australian?](../../transcriptions/yt-l_Tap-4YH6o.md) [https://www.youtube.com/watch?v=l_Tap-4YH6o](https://www.youtube.com/watch?v=l_Tap-4YH6o)
 

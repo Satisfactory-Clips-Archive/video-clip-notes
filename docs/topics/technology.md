@@ -5,6 +5,7 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Technology
 * [Analytics](../topics/technology/analytics.md)
+* [ChatGPT](../topics/technology/chatgpt.md)
 * [DirectX](../topics/technology/directx.md)
 * [Graphics](../topics/technology/graphics.md)
 * [Linux](../topics/technology/linux.md)

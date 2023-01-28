@@ -16,6 +16,9 @@ date: Last Modified
 * [Tier 9](../../topics/features/tiers/tier-9.md)
 * [Tier 10](../../topics/features/tiers/tier-10.md)
 
+## January 27th, 2023 Video
+* [ChatGPT didn't know Satisfactory had a research tree](../../transcriptions/yt-wBWmXDPDpL8,779.6789,799.065.md) [https://youtube.com/embed/wBWmXDPDpL8?autoplay=1&start=779&end=800](https://youtube.com/embed/wBWmXDPDpL8?autoplay=1&start=779&end=800)
+
 ## January 24th, 2023 Livestream
 * [Snutt & Jace Talk: Cooperative progression vs. Multiplayer progression](../../transcriptions/yt-lCWS8kV4xDU.md) [https://www.youtube.com/watch?v=lCWS8kV4xDU](https://www.youtube.com/watch?v=lCWS8kV4xDU)
 

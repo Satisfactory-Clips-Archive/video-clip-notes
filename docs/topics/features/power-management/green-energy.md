@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Power Management](../../../topics/features/power-management.md) > Green Energy
 
+## January 27th, 2023 Video
+* [ChatGPT wants Green Energy](../../../transcriptions/yt-wBWmXDPDpL8,799.0983,816.2154.md) [https://youtube.com/embed/wBWmXDPDpL8?autoplay=1&start=799&end=817](https://youtube.com/embed/wBWmXDPDpL8?autoplay=1&start=799&end=817)
+
 ## October 25th, 2022 Livestream
 * [Q&A: Game Mode with terrain-editing ability?](../../../transcriptions/yt-ZMOO9BEGw04.md) [https://www.youtube.com/watch?v=ZMOO9BEGw04](https://www.youtube.com/watch?v=ZMOO9BEGw04)
 

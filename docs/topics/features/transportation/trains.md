@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > Transportation > Trains
 * [Train Signals](../../../topics/features/transportation/trains/train-signals.md)
 
+## January 27th, 2023 Video
+* [ChatGPT didn't know Satisfactory had Trains](../../../transcriptions/yt-wBWmXDPDpL8,699.7323666666667,718.184.md) [https://youtube.com/embed/wBWmXDPDpL8?autoplay=1&start=699&end=719](https://youtube.com/embed/wBWmXDPDpL8?autoplay=1&start=699&end=719)
+
 ## January 17th, 2023 Livestream
 * [Q&A: Will there eventually be a feature to transport Gas with Trains?](../../../transcriptions/yt-uTnCjizuHYY.md) [https://www.youtube.com/watch?v=uTnCjizuHYY](https://www.youtube.com/watch?v=uTnCjizuHYY)
 * [Q&A: Any plans to update Train UI? I'm finding it tough to troubleshoot the Signals.](../../../transcriptions/yt-HfrbBM2xqkc.md) [https://www.youtube.com/watch?v=HfrbBM2xqkc](https://www.youtube.com/watch?v=HfrbBM2xqkc)

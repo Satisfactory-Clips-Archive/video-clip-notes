@@ -5,6 +5,7 @@ layout: index
 ---
 # 2023
 ## January
+* [January 27th](2023-01-27.md)
 * [January 24th](2023-01-24.md)
 * [January 20th](2023-01-20.md)
 * [January 17th](2023-01-17.md)

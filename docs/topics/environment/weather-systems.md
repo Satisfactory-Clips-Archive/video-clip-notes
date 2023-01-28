@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Environment](../../topics/environment.md) > Weather Systems
 
+## January 27th, 2023 Video
+* [ChatGPT wants Weather forecasts](../../transcriptions/yt-wBWmXDPDpL8,733.7663666666667,749.716.md) [https://youtube.com/embed/wBWmXDPDpL8?autoplay=1&start=733&end=750](https://youtube.com/embed/wBWmXDPDpL8?autoplay=1&start=733&end=750)
+
 ## January 17th, 2023 Livestream
 * [Q&A: Any plans to add new types of weather- thunderstorms or snow?](../../transcriptions/yt-9gJu-P3CsPU.md) [https://www.youtube.com/watch?v=9gJu-P3CsPU](https://www.youtube.com/watch?v=9gJu-P3CsPU)
 

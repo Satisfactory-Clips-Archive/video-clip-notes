@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Wiki
 
+## January 27th, 2023 Video
+* [Q&A: What does ChatGPT say in response to "How do I make HMF in Satisfactory?" ?](../../transcriptions/yt-wBWmXDPDpL8,366.1658,533.5.md) [https://youtube.com/embed/wBWmXDPDpL8?autoplay=1&start=366&end=534](https://youtube.com/embed/wBWmXDPDpL8?autoplay=1&start=366&end=534)
+
 ## November 8th, 2022 Livestream
 * [State of Dev](../../transcriptions/yt-DklfxYDRGPE.md) [https://www.youtube.com/watch?v=DklfxYDRGPE](https://www.youtube.com/watch?v=DklfxYDRGPE)
 
