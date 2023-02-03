@@ -8,7 +8,7 @@ topics:
 # [January 19th, 2021 Livestream](../2021-01-19.md)
 ## Q&A: Can we please get a Snow Biome?
 https://www.youtube.com/watch?v=QHVdhswD13w
-This question was possibly duplicated with a more recent answer: [July 12th, 2022 Livestream Q&A: When do we get the next Ice Biome?](./yt-I_JT2xkr4Q0.md) [https://www.youtube.com/watch?v=I_JT2xkr4Q0](https://www.youtube.com/watch?v=I_JT2xkr4Q0)
+This question was possibly duplicated with a more recent answer: [January 31st, 2023 Livestream Q&A: Snow Biome?](./yt-VjxuVdzNw9o.md) [https://www.youtube.com/watch?v=VjxuVdzNw9o](https://www.youtube.com/watch?v=VjxuVdzNw9o)
 
 
 ### Topics

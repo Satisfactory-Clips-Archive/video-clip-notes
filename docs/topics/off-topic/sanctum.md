@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Sanctum
 
+## January 31st, 2023 Livestream
+* [Q&A: Any plans on Sanctum 3?](../../transcriptions/yt-L4sE_adcahA.md) [https://www.youtube.com/watch?v=L4sE_adcahA](https://www.youtube.com/watch?v=L4sE_adcahA)
+
 ## January 10th, 2023 Livestream
 * [Community FYI: A Satisfactory-style Tower Defense game would be sick](../../transcriptions/yt-E_lRyinYhQA.md) [https://www.youtube.com/watch?v=E_lRyinYhQA](https://www.youtube.com/watch?v=E_lRyinYhQA)
 * [Q&A: Did you have any involvement with Sanctum 1 & 2?](../../transcriptions/yt-qwWNON_g-UE.md) [https://www.youtube.com/watch?v=qwWNON_g-UE](https://www.youtube.com/watch?v=qwWNON_g-UE)

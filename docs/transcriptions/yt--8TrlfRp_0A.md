@@ -9,6 +9,8 @@ topics:
 # [January 24th, 2023 Livestream](../2023-01-24.md)
 ## Q&A: When are we going to get more patch fixes?
 https://www.youtube.com/watch?v=-8TrlfRp_0A
+This question was possibly duplicated with a more recent answer: [January 31st, 2023 Livestream Q&A: When are we going to see more bugfixes?](./yt-Au89DPcMCZo.md) [https://www.youtube.com/watch?v=Au89DPcMCZo](https://www.youtube.com/watch?v=Au89DPcMCZo)
+
 
 ### Topics
 * [Embracer Group > Coffee Stain Holding > Coffee Stain Studios](../topics/embracer-group/coffee-stain-holding/coffee-stain-studios.md)

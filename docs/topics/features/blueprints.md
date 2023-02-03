@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Features](../../topics/features.md) > Blueprints
 
+## January 31st, 2023 Livestream
+* [Intro / State of Dev](../../transcriptions/yt-2f-FAGVRFY4.md) [https://www.youtube.com/watch?v=2f-FAGVRFY4](https://www.youtube.com/watch?v=2f-FAGVRFY4)
+* [Q&A: Thoughts on Blueprint undo?](../../transcriptions/yt-F_u-dKrP9Bs.md) [https://www.youtube.com/watch?v=F_u-dKrP9Bs](https://www.youtube.com/watch?v=F_u-dKrP9Bs)
+* [Q&A: How much better is internal build Blueprints compared to EA?](../../transcriptions/yt-OT6-9i4p5Dc.md) [https://www.youtube.com/watch?v=OT6-9i4p5Dc](https://www.youtube.com/watch?v=OT6-9i4p5Dc)
+
 ## January 24th, 2023 Livestream
 * [Snutt & Jace Talk: Roads as vanilla feature](../../transcriptions/yt-DmcobW9AiTs.md) [https://www.youtube.com/watch?v=DmcobW9AiTs](https://www.youtube.com/watch?v=DmcobW9AiTs)
 * [Q&A: Will Blueprints ever get Soft Clearance?](../../transcriptions/yt-iio2qCxrt9E.md) [https://www.youtube.com/watch?v=iio2qCxrt9E](https://www.youtube.com/watch?v=iio2qCxrt9E)

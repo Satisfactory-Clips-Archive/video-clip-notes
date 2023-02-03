@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Embracer Group](../../../topics/embracer-group.md) > Coffee Stain Holding > Coffee Stain Studios
 
+## January 31st, 2023 Livestream
+* [Q&A: Is a beard required at Coffee Stain?](../../../transcriptions/yt-X4W00LiNCnY.md) [https://www.youtube.com/watch?v=X4W00LiNCnY](https://www.youtube.com/watch?v=X4W00LiNCnY)
+
 ## January 24th, 2023 Livestream
 * [Q&A: When are we going to get more patch fixes?](../../../transcriptions/yt--8TrlfRp_0A.md) [https://www.youtube.com/watch?v=-8TrlfRp_0A](https://www.youtube.com/watch?v=-8TrlfRp_0A)
 * [Snutt & Jace Talk: Bugs in Satisfactory](../../../transcriptions/yt-OGoBA42DrIM.md) [https://www.youtube.com/watch?v=OGoBA42DrIM](https://www.youtube.com/watch?v=OGoBA42DrIM)

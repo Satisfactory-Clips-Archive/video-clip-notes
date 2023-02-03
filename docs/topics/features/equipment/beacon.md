@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Equipment](../../../topics/features/equipment.md) > Beacon
 
+## January 31st, 2023 Livestream
+* [Q&A: What's going to happen with Beacons & Recipes?](../../../transcriptions/yt-dDx7bx_4OQE.md) [https://www.youtube.com/watch?v=dDx7bx_4OQE](https://www.youtube.com/watch?v=dDx7bx_4OQE)
+
 ## January 24th, 2023 Livestream
 * [Q&A: Uranium Fuel Rod Alt Recipe?](../../../transcriptions/yt-z2Q-NVmj3W0.md) [https://www.youtube.com/watch?v=z2Q-NVmj3W0](https://www.youtube.com/watch?v=z2Q-NVmj3W0)
 

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Environment](../../../../topics/environment.md) > [Biomes](../../../../topics/environment/biomes.md) > Unplanned Biomes > Snow
 
+## January 31st, 2023 Livestream
+* [Q&A: Snow Biome?](../../../../transcriptions/yt-VjxuVdzNw9o.md) [https://www.youtube.com/watch?v=VjxuVdzNw9o](https://www.youtube.com/watch?v=VjxuVdzNw9o)
+
 ## January 17th, 2023 Livestream
 * [Q&A: Maybe post-1.0, having a Snow Biome with consumable heat batteries or you take damage?](../../../../transcriptions/yt-r33EJVJcux0.md) [https://www.youtube.com/watch?v=r33EJVJcux0](https://www.youtube.com/watch?v=r33EJVJcux0)
 

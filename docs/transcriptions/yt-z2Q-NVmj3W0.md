@@ -10,18 +10,7 @@ topics:
 # [January 24th, 2023 Livestream](../2023-01-24.md)
 ## Q&A: Uranium Fuel Rod Alt Recipe?
 https://www.youtube.com/watch?v=z2Q-NVmj3W0
-<details>
-<summary>This question may have been asked previously at least 8 other times, as recently as January 2023 and as early as May 2022.</summary>
-
-* [January 17th, 2023 Livestream Q&A: Is there an update on the Alt Recipe involving Beacons?](./yt-Mc7EGPNHfZ8.md) [https://www.youtube.com/watch?v=Mc7EGPNHfZ8](https://www.youtube.com/watch?v=Mc7EGPNHfZ8)
-* [November 8th, 2022 Livestream Q&A: Will the Beacon alt be removed in Update 7?](./yt-5YEG0e2Zrn0.md) [https://www.youtube.com/watch?v=5YEG0e2Zrn0](https://www.youtube.com/watch?v=5YEG0e2Zrn0)
-* [November 1st, 2022 Livestream Q&A: Beacons & Recipes for Update 7?](./yt-WlQm5uZ0Dlg.md) [https://www.youtube.com/watch?v=WlQm5uZ0Dlg](https://www.youtube.com/watch?v=WlQm5uZ0Dlg)
-* [September 13th, 2022 Livestream Q&A: Are you going to change the Recipes for Beacons?](./yt-4tCjpG1zJc0.md) [https://www.youtube.com/watch?v=4tCjpG1zJc0](https://www.youtube.com/watch?v=4tCjpG1zJc0)
-* [August 30th, 2022 Livestream Q&A: Will you change the Uranium Fuel Rod Recipe using Beacons in Update 6?](./yt-SmzRbZ6_0CM.md) [https://www.youtube.com/watch?v=SmzRbZ6_0CM](https://www.youtube.com/watch?v=SmzRbZ6_0CM)
-* [August 23rd, 2022 Livestream Q&A: New Nuclear Recipes confirmed?](./yt-RDZCG82PWRo.md) [https://www.youtube.com/watch?v=RDZCG82PWRo](https://www.youtube.com/watch?v=RDZCG82PWRo)
-* [July 5th, 2022 Livestream Q&A: Will the alt Nuclear Fuel be part of the next Update?](./yt-MrPbasBXKEQ.md) [https://www.youtube.com/watch?v=MrPbasBXKEQ](https://www.youtube.com/watch?v=MrPbasBXKEQ)
-* [May 24th, 2022 Livestream Q&A: Is it safe to make an Alt Recipe Nuclear factory?](./yt-Mi7GvyXRA3g.md) [https://www.youtube.com/watch?v=Mi7GvyXRA3g](https://www.youtube.com/watch?v=Mi7GvyXRA3g)
-</details>
+This question was possibly replaced with a more recent answer: [January 31st, 2023 Livestream Q&A: What's going to happen with Beacons & Recipes?](./yt-dDx7bx_4OQE.md) [https://www.youtube.com/watch?v=dDx7bx_4OQE](https://www.youtube.com/watch?v=dDx7bx_4OQE)
 
 
 ### Topics

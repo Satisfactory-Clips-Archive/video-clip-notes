@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildables](../../../topics/features/buildables.md) > Conveyor Belts
 
+## January 31st, 2023 Livestream
+* [Q&A: Will the Mk.3 Miner issue be worked on?](../../../transcriptions/yt-QebwvKsk-f0.md) [https://www.youtube.com/watch?v=QebwvKsk-f0](https://www.youtube.com/watch?v=QebwvKsk-f0)
+
 ## January 27th, 2023 Video
 * [ChatGPT didn't know Smart Splitters were a thing](../../../transcriptions/yt-wBWmXDPDpL8,761.4940666666666,779.646.md) [https://youtube.com/clip/UgkxDmKBkjL6hUMzLUaZzMqDV3nAUcYLpifh](https://youtube.com/clip/UgkxDmKBkjL6hUMzLUaZzMqDV3nAUcYLpifh)
 

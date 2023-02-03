@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Speculative > Satisfactory Update 8
 
+## January 31st, 2023 Livestream
+* [Q&A: Timeframe for Update 8?](../../../transcriptions/yt-JX-sTD_N_vE.md) [https://www.youtube.com/watch?v=JX-sTD_N_vE](https://www.youtube.com/watch?v=JX-sTD_N_vE)
+* [Q&A: How to prepare our factories for Update 8?](../../../transcriptions/yt-xtqTti8q06U.md) [https://www.youtube.com/watch?v=xtqTti8q06U](https://www.youtube.com/watch?v=xtqTti8q06U)
+
 ## January 27th, 2023 Video
 * [Jace asks ChatGPT to write a script in the style of Jace](../../../transcriptions/yt-wBWmXDPDpL8,551.9847666666667,600.7668333333334.md) [https://youtube.com/clip/UgkxrnQd3tTxLCaTxlK5PEFuhiqgbJZQS_te](https://youtube.com/clip/UgkxrnQd3tTxLCaTxlK5PEFuhiqgbJZQS_te)
 * [Jace asks ChatGPT to write a general script about new features added to Satisfactory](../../../transcriptions/yt-wBWmXDPDpL8,600.8002,676.609.md) [https://youtube.com/embed/wBWmXDPDpL8?autoplay=1&start=600&end=677](https://youtube.com/embed/wBWmXDPDpL8?autoplay=1&start=600&end=677)

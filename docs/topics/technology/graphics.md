@@ -9,6 +9,9 @@ date: Last Modified
 * [Ray Tracing](../../topics/technology/graphics/ray-tracing.md)
 * [Ultrawide Monitors](../../topics/technology/graphics/ultrawide-monitors.md)
 
+## January 31st, 2023 Livestream
+* [Q&A: Flickering with shadows?](../../transcriptions/yt-R8AS9Wxf-pQ.md) [https://www.youtube.com/watch?v=R8AS9Wxf-pQ](https://www.youtube.com/watch?v=R8AS9Wxf-pQ)
+
 ## January 20th, 2023 Video
 * [It may not be our fault (we swear!)](../../transcriptions/yt-_IHY_1L3pBY,804.2701333333333,860.0592.md) [https://youtube.com/clip/Ugkx38lVEF1AoWWIDSL5SMKLYbJre94p0Zyu](https://youtube.com/clip/Ugkx38lVEF1AoWWIDSL5SMKLYbJre94p0Zyu)
 

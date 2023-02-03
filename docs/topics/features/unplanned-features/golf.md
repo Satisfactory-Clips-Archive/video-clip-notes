@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Unplanned Features](../../../topics/features/unplanned-features.md) > Golf
 
+## January 31st, 2023 Livestream
+* [Q&A: What about Golf?](../../../transcriptions/yt-URD7BgYve-I.md) [https://www.youtube.com/watch?v=URD7BgYve-I](https://www.youtube.com/watch?v=URD7BgYve-I)
+
 ## December 13th, 2022 Livestream
 * [Q&A: When is Golf going to be implemented?](../../../transcriptions/yt-i2_4Ow9i_8M.md) [https://www.youtube.com/watch?v=i2_4Ow9i_8M](https://www.youtube.com/watch?v=i2_4Ow9i_8M)
 

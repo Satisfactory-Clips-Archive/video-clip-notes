@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Off-Topic](../../../topics/off-topic.md) > [Final Fantasy](../../../topics/off-topic/final-fantasy.md) > The Official Satisfactory PODCAST
 
+## January 31st, 2023 Livestream
+* [AI Uprising](../../../transcriptions/yt-8zlVqMTGJYI.md) [https://www.youtube.com/watch?v=8zlVqMTGJYI](https://www.youtube.com/watch?v=8zlVqMTGJYI)
+
 ## November 1st, 2022 Livestream
 * [Q&A: When is the next Satisfactory Podcast?](../../../transcriptions/yt-6dWA37xMLUU.md) [https://www.youtube.com/watch?v=6dWA37xMLUU](https://www.youtube.com/watch?v=6dWA37xMLUU)
 

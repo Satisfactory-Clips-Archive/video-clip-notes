@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > QA Site
 
+## January 31st, 2023 Livestream
+* [Snutt & Jace Talk: Update on the QA Site](../transcriptions/yt-_hPRba1nFf0.md) [https://www.youtube.com/watch?v=_hPRba1nFf0](https://www.youtube.com/watch?v=_hPRba1nFf0)
+* [Q&A: What's the best channel to send recommendations through?](../transcriptions/yt-n7XEwlSc1GY.md) [https://www.youtube.com/watch?v=n7XEwlSc1GY](https://www.youtube.com/watch?v=n7XEwlSc1GY)
+
 ## January 24th, 2023 Livestream
 * [Q&A: Is there a fix for the issue of radiation being stuck at max?](../transcriptions/yt-0j6Gt9s6aAY.md) [https://www.youtube.com/watch?v=0j6Gt9s6aAY](https://www.youtube.com/watch?v=0j6Gt9s6aAY)
 * [Intro / State of Dev](../transcriptions/yt-27F3DddrfDY.md) [https://www.youtube.com/watch?v=27F3DddrfDY](https://www.youtube.com/watch?v=27F3DddrfDY)

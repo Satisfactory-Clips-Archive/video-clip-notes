@@ -11,7 +11,7 @@ topics:
 # [November 8th, 2022 Livestream](../2022-11-08.md)
 ## Q&A: Will the Beacon alt be removed in Update 7?
 https://www.youtube.com/watch?v=5YEG0e2Zrn0
-This question was possibly duplicated with a more recent answer: [January 24th, 2023 Livestream Q&A: Uranium Fuel Rod Alt Recipe?](./yt-z2Q-NVmj3W0.md) [https://www.youtube.com/watch?v=z2Q-NVmj3W0](https://www.youtube.com/watch?v=z2Q-NVmj3W0)
+This question was possibly replaced with a more recent answer: [January 31st, 2023 Livestream Q&A: What's going to happen with Beacons & Recipes?](./yt-dDx7bx_4OQE.md) [https://www.youtube.com/watch?v=dDx7bx_4OQE](https://www.youtube.com/watch?v=dDx7bx_4OQE)
 
 
 ### Topics

@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Features](../../topics/features.md) > Pioneer
 
+## January 31st, 2023 Livestream
+* [Q&A: Why do player avatars hang out in the world after they log out, why don't they just disappear?](../../transcriptions/yt-9Kh5Q-okBbE.md) [https://www.youtube.com/watch?v=9Kh5Q-okBbE](https://www.youtube.com/watch?v=9Kh5Q-okBbE)
+* [Q&A: Better swim system?](../../transcriptions/yt-WpC29nyXjxg.md) [https://www.youtube.com/watch?v=WpC29nyXjxg](https://www.youtube.com/watch?v=WpC29nyXjxg)
+
 ## January 10th, 2023 Livestream
 * [Q&A: Has anything been discussed about elevators for personal or Vehicle use?](../../transcriptions/yt-_5jjHydWeyA.md) [https://www.youtube.com/watch?v=_5jjHydWeyA](https://www.youtube.com/watch?v=_5jjHydWeyA)
 

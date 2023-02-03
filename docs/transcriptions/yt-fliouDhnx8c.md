@@ -10,7 +10,7 @@ topics:
 # [December 13th, 2022 Livestream](../2022-12-13.md)
 ## Q&A: Blueprint preview before placing or an undo function?
 https://www.youtube.com/watch?v=fliouDhnx8c
-This question was possibly duplicated with a more recent answer: [December 20th, 2022 Livestream Q&A: Has a Blueprint preview/undo function been looked at by the dev team?](./yt-Nms9QQa7bcc.md) [https://www.youtube.com/watch?v=Nms9QQa7bcc](https://www.youtube.com/watch?v=Nms9QQa7bcc)
+This question was possibly duplicated with a more recent answer: [January 31st, 2023 Livestream Q&A: Thoughts on Blueprint undo?](./yt-F_u-dKrP9Bs.md) [https://www.youtube.com/watch?v=F_u-dKrP9Bs](https://www.youtube.com/watch?v=F_u-dKrP9Bs)
 
 
 ### Topics

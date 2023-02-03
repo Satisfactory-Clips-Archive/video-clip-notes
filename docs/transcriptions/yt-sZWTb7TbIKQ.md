@@ -10,11 +10,7 @@ topics:
 # [January 10th, 2023 Livestream](../2023-01-10.md)
 ## Q&A: Is there any exciting things that you can talk about?
 https://www.youtube.com/watch?v=sZWTb7TbIKQ
-<details>
-<summary>This question may have been asked previously at least 1 other time, as recently as December 2022.</summary>
-
-* [December 20th, 2022 Livestream Q&A: Can you tell us when we will hear about the next Update?](./yt-DqYCP5uIxRk.md) [https://www.youtube.com/watch?v=DqYCP5uIxRk](https://www.youtube.com/watch?v=DqYCP5uIxRk)
-</details>
+This question was possibly duplicated with a more recent answer: [January 31st, 2023 Livestream Q&A: Timeframe for Update 8?](./yt-JX-sTD_N_vE.md) [https://www.youtube.com/watch?v=JX-sTD_N_vE](https://www.youtube.com/watch?v=JX-sTD_N_vE)
 
 
 ### Topics

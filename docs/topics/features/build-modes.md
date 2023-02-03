@@ -8,6 +8,9 @@ date: Last Modified
 * [Quick Switch](../../topics/features/build-modes/quick-switch.md)
 * [Zooping](../../topics/features/build-modes/zooping.md)
 
+## January 31st, 2023 Livestream
+* [Q&A: Thoughts on Blueprint undo?](../../transcriptions/yt-F_u-dKrP9Bs.md) [https://www.youtube.com/watch?v=F_u-dKrP9Bs](https://www.youtube.com/watch?v=F_u-dKrP9Bs)
+
 ## January 24th, 2023 Livestream
 * [Q&A: Will we be able to mirror Refineries?](../../transcriptions/yt-WGJBDAO-6pk.md) [https://www.youtube.com/watch?v=WGJBDAO-6pk](https://www.youtube.com/watch?v=WGJBDAO-6pk)
 

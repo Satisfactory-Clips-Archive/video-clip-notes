@@ -10,6 +10,11 @@ date: Last Modified
 * [Pollution](../../topics/features/requested-features/pollution.md)
 * [Third-person View](../../topics/features/requested-features/third-person-view.md)
 
+## January 31st, 2023 Livestream
+* [Q&A: Why do player avatars hang out in the world after they log out, why don't they just disappear?](../../transcriptions/yt-9Kh5Q-okBbE.md) [https://www.youtube.com/watch?v=9Kh5Q-okBbE](https://www.youtube.com/watch?v=9Kh5Q-okBbE)
+* [Q&A: Thoughts on Blueprint undo?](../../transcriptions/yt-F_u-dKrP9Bs.md) [https://www.youtube.com/watch?v=F_u-dKrP9Bs](https://www.youtube.com/watch?v=F_u-dKrP9Bs)
+* [Q&A: Better swim system?](../../transcriptions/yt-WpC29nyXjxg.md) [https://www.youtube.com/watch?v=WpC29nyXjxg](https://www.youtube.com/watch?v=WpC29nyXjxg)
+
 ## January 24th, 2023 Livestream
 * [Q&A: Is there a fix for the issue of radiation being stuck at max?](../../transcriptions/yt-0j6Gt9s6aAY.md) [https://www.youtube.com/watch?v=0j6Gt9s6aAY](https://www.youtube.com/watch?v=0j6Gt9s6aAY)
 * [Q&A: Console release or phone?](../../transcriptions/yt-9dd4paImT1E.md) [https://www.youtube.com/watch?v=9dd4paImT1E](https://www.youtube.com/watch?v=9dd4paImT1E)

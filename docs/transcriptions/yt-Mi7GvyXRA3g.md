@@ -12,7 +12,7 @@ topics:
 # [May 24th, 2022 Livestream](../2022-05-24.md)
 ## Q&A: Is it safe to make an Alt Recipe Nuclear factory?
 https://www.youtube.com/watch?v=Mi7GvyXRA3g
-This question was possibly duplicated with a more recent answer: [January 24th, 2023 Livestream Q&A: Uranium Fuel Rod Alt Recipe?](./yt-z2Q-NVmj3W0.md) [https://www.youtube.com/watch?v=z2Q-NVmj3W0](https://www.youtube.com/watch?v=z2Q-NVmj3W0)
+This question was possibly replaced with a more recent answer: [January 31st, 2023 Livestream Q&A: What's going to happen with Beacons & Recipes?](./yt-dDx7bx_4OQE.md) [https://www.youtube.com/watch?v=dDx7bx_4OQE](https://www.youtube.com/watch?v=dDx7bx_4OQE)
 
 
 ### Topics

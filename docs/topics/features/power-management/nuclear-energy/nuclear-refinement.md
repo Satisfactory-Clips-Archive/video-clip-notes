@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > [Power Management](../../../../topics/features/power-management.md) > [Nuclear Energy](../../../../topics/features/power-management/nuclear-energy.md) > Nuclear Refinement
 
+## January 31st, 2023 Livestream
+* [Q&A: What's going to happen with Beacons & Recipes?](../../../../transcriptions/yt-dDx7bx_4OQE.md) [https://www.youtube.com/watch?v=dDx7bx_4OQE](https://www.youtube.com/watch?v=dDx7bx_4OQE)
+
 ## January 24th, 2023 Livestream
 * [Q&A: Is there a fix for the issue of radiation being stuck at max?](../../../../transcriptions/yt-0j6Gt9s6aAY.md) [https://www.youtube.com/watch?v=0j6Gt9s6aAY](https://www.youtube.com/watch?v=0j6Gt9s6aAY)
 * [Q&A: Uranium Fuel Rod Alt Recipe?](../../../../transcriptions/yt-z2Q-NVmj3W0.md) [https://www.youtube.com/watch?v=z2Q-NVmj3W0](https://www.youtube.com/watch?v=z2Q-NVmj3W0)

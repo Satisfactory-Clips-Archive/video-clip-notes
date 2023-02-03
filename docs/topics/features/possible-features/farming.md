@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Possible Features](../../../topics/features/possible-features.md) > Farming
 
+## January 31st, 2023 Livestream
+* [Q&A: What features not in the game that you two want added?](../../../transcriptions/yt-ihM9Oh6DQiE.md) [https://www.youtube.com/watch?v=ihM9Oh6DQiE](https://www.youtube.com/watch?v=ihM9Oh6DQiE)
+
 ## January 17th, 2023 Livestream
 * [Q&A: Automated Farming?](../../../transcriptions/yt--pjqXHzqWGE.md) [https://www.youtube.com/watch?v=-pjqXHzqWGE](https://www.youtube.com/watch?v=-pjqXHzqWGE)
 * [Q&A: Can you import Farming Simulator into Satisfactory?](../../../transcriptions/yt-utNw--4HLFY.md) [https://www.youtube.com/watch?v=utNw--4HLFY](https://www.youtube.com/watch?v=utNw--4HLFY)

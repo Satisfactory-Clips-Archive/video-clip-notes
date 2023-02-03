@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Technology](../../../topics/technology.md) > [User Interface](../../../topics/technology/user-interface.md) > Markers
 
+## January 31st, 2023 Livestream
+* [Q&A: What's going to happen with Beacons & Recipes?](../../../transcriptions/yt-dDx7bx_4OQE.md) [https://www.youtube.com/watch?v=dDx7bx_4OQE](https://www.youtube.com/watch?v=dDx7bx_4OQE)
+
 ## October 25th, 2022 Livestream
 * [Q&A: Can I get an air tag for my Boombox, I keep dropping it ?](../../../transcriptions/yt-jooIEmeyH-4.md) [https://www.youtube.com/watch?v=jooIEmeyH-4](https://www.youtube.com/watch?v=jooIEmeyH-4)
 

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Possible Features](../../../topics/features/possible-features.md) > Decor
 
+## January 31st, 2023 Livestream
+* [Q&A: What features not in the game that you two want added?](../../../transcriptions/yt-ihM9Oh6DQiE.md) [https://www.youtube.com/watch?v=ihM9Oh6DQiE](https://www.youtube.com/watch?v=ihM9Oh6DQiE)
+
 ## January 24th, 2023 Livestream
 * [Q&A: Was Update 6 the last of the cosmetic Updates?](../../../transcriptions/yt-SYN7XsWGG00.md) [https://www.youtube.com/watch?v=SYN7XsWGG00](https://www.youtube.com/watch?v=SYN7XsWGG00)
 

@@ -9,6 +9,10 @@ date: Last Modified
 * [Snutt Burger Time](../../topics/coffee-stainers/snutt/snutt-burger-time.md)
 * [Snutty Mays](../../topics/coffee-stainers/snutt/snutty-mays.md)
 
+## January 31st, 2023 Livestream
+* [Q&A: What's your favourite colour?](../../transcriptions/yt-95JJhq2mtio.md) [https://www.youtube.com/watch?v=95JJhq2mtio](https://www.youtube.com/watch?v=95JJhq2mtio)
+* [Q&A: What features not in the game that you two want added?](../../transcriptions/yt-ihM9Oh6DQiE.md) [https://www.youtube.com/watch?v=ihM9Oh6DQiE](https://www.youtube.com/watch?v=ihM9Oh6DQiE)
+
 ## January 27th, 2023 Video
 * [Q&A: Does ChatGPT know who Snutt Treptow is?](../../transcriptions/yt-wBWmXDPDpL8,356.32263333333333,366.132.md) [https://youtube.com/clip/Ugkx0Jjm6IN3ZnWLIz8W5Np2M1OKg4t-gJ6s](https://youtube.com/clip/Ugkx0Jjm6IN3ZnWLIz8W5Np2M1OKg4t-gJ6s)
 

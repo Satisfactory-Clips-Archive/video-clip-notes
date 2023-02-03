@@ -15,6 +15,9 @@ date: Last Modified
 * [User Interface](../topics/technology/user-interface.md)
 * [Vulkan](../topics/technology/vulkan.md)
 
+## January 31st, 2023 Livestream
+* [AI Uprising](../transcriptions/yt-8zlVqMTGJYI.md) [https://www.youtube.com/watch?v=8zlVqMTGJYI](https://www.youtube.com/watch?v=8zlVqMTGJYI)
+
 ## January 20th, 2023 Video
 * [It may not be our fault (we swear!)](../transcriptions/yt-_IHY_1L3pBY,804.2701333333333,860.0592.md) [https://youtube.com/clip/Ugkx38lVEF1AoWWIDSL5SMKLYbJre94p0Zyu](https://youtube.com/clip/Ugkx38lVEF1AoWWIDSL5SMKLYbJre94p0Zyu)
 

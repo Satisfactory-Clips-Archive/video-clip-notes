@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > Release Builds
 
+## January 31st, 2023 Livestream
+* [Q&A: How much better is internal build Blueprints compared to EA?](../../transcriptions/yt-OT6-9i4p5Dc.md) [https://www.youtube.com/watch?v=OT6-9i4p5Dc](https://www.youtube.com/watch?v=OT6-9i4p5Dc)
+
 ## December 6th, 2022 Livestream
 * Q&A: When will the next patch go Experimental? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6789&end=6846](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6789&end=6846)
 

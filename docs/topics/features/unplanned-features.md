@@ -17,6 +17,9 @@ date: Last Modified
 * [Terraforming](../../topics/features/unplanned-features/terraforming.md)
 * [VR](../../topics/features/unplanned-features/vr.md)
 
+## January 31st, 2023 Livestream
+* [AI Uprising](../../transcriptions/yt-8zlVqMTGJYI.md) [https://www.youtube.com/watch?v=8zlVqMTGJYI](https://www.youtube.com/watch?v=8zlVqMTGJYI)
+
 ## January 24th, 2023 Livestream
 * [Q&A: Console release or phone?](../../transcriptions/yt-9dd4paImT1E.md) [https://www.youtube.com/watch?v=9dd4paImT1E](https://www.youtube.com/watch?v=9dd4paImT1E)
 * [Snutt & Jace Talk: Cooperative progression vs. Multiplayer progression](../../transcriptions/yt-lCWS8kV4xDU.md) [https://www.youtube.com/watch?v=lCWS8kV4xDU](https://www.youtube.com/watch?v=lCWS8kV4xDU)

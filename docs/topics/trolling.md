@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Trolling
 
+## January 31st, 2023 Livestream
+* [Intro / State of Dev](../transcriptions/yt-2f-FAGVRFY4.md) [https://www.youtube.com/watch?v=2f-FAGVRFY4](https://www.youtube.com/watch?v=2f-FAGVRFY4)
+* [Q&A: Is a beard required at Coffee Stain?](../transcriptions/yt-X4W00LiNCnY.md) [https://www.youtube.com/watch?v=X4W00LiNCnY](https://www.youtube.com/watch?v=X4W00LiNCnY)
+* [Q&A: What's the best channel to send recommendations through?](../transcriptions/yt-n7XEwlSc1GY.md) [https://www.youtube.com/watch?v=n7XEwlSc1GY](https://www.youtube.com/watch?v=n7XEwlSc1GY)
+
 ## January 24th, 2023 Livestream
 * [Q&A: How are you treating your interns?](../transcriptions/yt-VbZtHlcqOPY.md) [https://www.youtube.com/watch?v=VbZtHlcqOPY](https://www.youtube.com/watch?v=VbZtHlcqOPY)
 * [Q&A: Why doesn't Jace sound Australian?](../transcriptions/yt-l_Tap-4YH6o.md) [https://www.youtube.com/watch?v=l_Tap-4YH6o](https://www.youtube.com/watch?v=l_Tap-4YH6o)

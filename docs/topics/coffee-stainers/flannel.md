@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Flannel
 
+## January 31st, 2023 Livestream
+* [Q&A: Will Jace be wearing the famous Flannel in the next video?](../../transcriptions/yt-fMY_T0TTzX4.md) [https://www.youtube.com/watch?v=fMY_T0TTzX4](https://www.youtube.com/watch?v=fMY_T0TTzX4)
+
 ## January 17th, 2023 Livestream
 * [Q&A: Flannel Pioneer skin?](../../transcriptions/yt-Mh8RjXtSI-M.md) [https://www.youtube.com/watch?v=Mh8RjXtSI-M](https://www.youtube.com/watch?v=Mh8RjXtSI-M)
 

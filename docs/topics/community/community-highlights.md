@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Community Highlights
 
+## January 31st, 2023 Livestream
+* [Intro / State of Dev](../../transcriptions/yt-2f-FAGVRFY4.md) [https://www.youtube.com/watch?v=2f-FAGVRFY4](https://www.youtube.com/watch?v=2f-FAGVRFY4)
+
 ## January 24th, 2023 Livestream
 * [Snutt & Jace Talk: Roads as vanilla feature](../../transcriptions/yt-DmcobW9AiTs.md) [https://www.youtube.com/watch?v=DmcobW9AiTs](https://www.youtube.com/watch?v=DmcobW9AiTs)
 

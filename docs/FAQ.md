@@ -2,21 +2,185 @@
 title: "Frequently Asked Questions"
 date: Last Modified
 ---
-## [January 24th, 2023 Livestream](./2023-01-24.md)
-### [Q&A: Unreal Engine 5?](./transcriptions/yt---Tndr5YVw8.md) [https://www.youtube.com/watch?v=--Tndr5YVw8](https://www.youtube.com/watch?v=--Tndr5YVw8)
+## [January 31st, 2023 Livestream](./2023-01-31.md)
+### [Q&A: Thoughts on Blueprint undo?](./transcriptions/yt-F_u-dKrP9Bs.md) [https://www.youtube.com/watch?v=F_u-dKrP9Bs](https://www.youtube.com/watch?v=F_u-dKrP9Bs)
 
 <details>
 
 <summary>A transcript is available</summary>
 
-> someone also asked about on religion five yeah are you uh all considering going to Unreal Engine five uh yeah something that we've considered and investigated and uh remains to be seen uh as to what we plan on doing with that but I would say that like a lot of the investigations we've done have been pretty promising so I think uh it's probably looking better than it was when this question was asked us like a year ago or something for sure especially now since 5.1 is out 501 is a bit more I think 241 is what 5.0 should have been in terms of stability but there's still a couple of issues with uh the new engine plus we would need to redo a lot of stuff in the game like I think we need to switch physics engine completely so like we had to redo vehicles from scratch almost not scratch but the physics would need to be which we which we want to do anyway so yeah it might be good
+> but it's on blueprint undo I think it's a great idea yeah it would be safely if it's uh doable or not it would definitely uh I don't know what kind of edge cases it might create um and but that's like a concern with every feature but like on the surface it sounds like a great idea I mean undo in general in the game I think that's the thing right yeah because like why just blueprints why not for the entire yeah yeah exactly if we add it we should add it to everything yeah
 
 
 </details>
 
 <details>
-<summary>This question may have been asked previously at least 23 other times, as recently as January 2023 and as early as May 2020.</summary>
+<summary>This question may have been asked previously at least 5 other times, as recently as January 2023 and as early as November 2022.</summary>
 
+* [January 31st, 2023 Livestream Q&A: How much better is internal build Blueprints compared to EA?](./transcriptions/yt-OT6-9i4p5Dc.md) [https://www.youtube.com/watch?v=OT6-9i4p5Dc](https://www.youtube.com/watch?v=OT6-9i4p5Dc)
+* [December 20th, 2022 Livestream Q&A: Has a Blueprint preview/undo function been looked at by the dev team?](./transcriptions/yt-Nms9QQa7bcc.md) [https://www.youtube.com/watch?v=Nms9QQa7bcc](https://www.youtube.com/watch?v=Nms9QQa7bcc)
+* [December 13th, 2022 Livestream Q&A: Blueprint preview before placing or an undo function?](./transcriptions/yt-fliouDhnx8c.md) [https://www.youtube.com/watch?v=fliouDhnx8c](https://www.youtube.com/watch?v=fliouDhnx8c)
+* December 6th, 2022 Livestream Q&A: Is placing a Blueprint easy to undo? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6314&end=6409](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6314&end=6409)
+* [November 22nd, 2022 Livestream Q&A: Will there be a feature to delete a whole Blueprint all at once?](./transcriptions/yt-vqb8dmFFFQQ.md) [https://www.youtube.com/watch?v=vqb8dmFFFQQ](https://www.youtube.com/watch?v=vqb8dmFFFQQ)
+</details>
+
+### [Q&A: Timeframe for Update 8?](./transcriptions/yt-JX-sTD_N_vE.md) [https://www.youtube.com/watch?v=JX-sTD_N_vE](https://www.youtube.com/watch?v=JX-sTD_N_vE)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> uh it was a time frame for up to eight we haven't set any time frame for updated yet
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 2 other times, as recently as January 2023 and as early as December 2022.</summary>
+
+* [January 10th, 2023 Livestream Q&A: Is there any exciting things that you can talk about?](./transcriptions/yt-sZWTb7TbIKQ.md) [https://www.youtube.com/watch?v=sZWTb7TbIKQ](https://www.youtube.com/watch?v=sZWTb7TbIKQ)
+* [December 20th, 2022 Livestream Q&A: Can you tell us when we will hear about the next Update?](./transcriptions/yt-DqYCP5uIxRk.md) [https://www.youtube.com/watch?v=DqYCP5uIxRk](https://www.youtube.com/watch?v=DqYCP5uIxRk)
+</details>
+
+### [Q&A: Any plans on Sanctum 3?](./transcriptions/yt-L4sE_adcahA.md) [https://www.youtube.com/watch?v=L4sE_adcahA](https://www.youtube.com/watch?v=L4sE_adcahA)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> any plans the second to three no plans no plans what's the best Channel I'm not making it
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 4 other times, as recently as May 2021 and as early as March 2018.</summary>
+
+* [May 4th, 2021 Livestream Q&A: Are you thinking about Sanctum 3?](./transcriptions/yt-TOKME3PCYXo.md) [https://www.youtube.com/watch?v=TOKME3PCYXo](https://www.youtube.com/watch?v=TOKME3PCYXo)
+* [March 30th, 2021 Livestream Q&A: Sanctum 3, when?](./transcriptions/yt-Ud7cgUEuVlE.md) [https://www.youtube.com/watch?v=Ud7cgUEuVlE](https://www.youtube.com/watch?v=Ud7cgUEuVlE)
+* [March 15th, 2019 Q&A: Sanctum 3 when?](./transcriptions/yt-R0S19_caQuw,426.78,428.86.md) [https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=426&end=429](https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=426&end=429)
+* [March 9th, 2018 Q&A: Sanctum 3?](./transcriptions/yt-Zo2ybvs7keI,502.32,614.16.md) [https://youtube.com/embed/Zo2ybvs7keI?autoplay=1&start=502&end=615](https://youtube.com/embed/Zo2ybvs7keI?autoplay=1&start=502&end=615)
+</details>
+
+### [Q&A: Will the Mk.3 Miner issue be worked on?](./transcriptions/yt-QebwvKsk-f0.md) [https://www.youtube.com/watch?v=QebwvKsk-f0](https://www.youtube.com/watch?v=QebwvKsk-f0)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> uh I just have a question will the MK3 minor issue be worked on fixed so that all reasons can be used yes yes oh that's very rare that we can just give an answer like yes or no yes
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 15 other times, as recently as January 2023 and as early as March 2021.</summary>
+
+* [January 24th, 2023 Livestream Q&A: Mk.3 Miners, Mk.2 Pipes?](./transcriptions/yt-Fjkf1GJpYlw.md) [https://www.youtube.com/watch?v=Fjkf1GJpYlw](https://www.youtube.com/watch?v=Fjkf1GJpYlw)
+* [January 17th, 2023 Livestream Q&A: Mk.3 Miner output situation?](./transcriptions/yt-L-ebK-Ux7kM.md) [https://www.youtube.com/watch?v=L-ebK-Ux7kM](https://www.youtube.com/watch?v=L-ebK-Ux7kM)
+* [January 10th, 2023 Livestream Q&A: Any updates on what will be done with Mk.3 Miners / Mk.5 Belts?](./transcriptions/yt-TtVVIrYgyKc.md) [https://www.youtube.com/watch?v=TtVVIrYgyKc](https://www.youtube.com/watch?v=TtVVIrYgyKc)
+* [November 29th, 2022 Livestream Q&A: Dual-output Mk.3 Miner please, easy fix?](./transcriptions/yt-_4bcpVXbnxY.md) [https://www.youtube.com/watch?v=_4bcpVXbnxY](https://www.youtube.com/watch?v=_4bcpVXbnxY)
+* [October 4th, 2022 Livestream Q&A: Miner Mk.3?](./transcriptions/yt-UgT26tXEdjU.md) [https://www.youtube.com/watch?v=UgT26tXEdjU](https://www.youtube.com/watch?v=UgT26tXEdjU)
+* [May 3rd, 2022 Livestream Q&A: Miner Mk.3?](./transcriptions/yt-TzqY5rtkxes.md) [https://www.youtube.com/watch?v=TzqY5rtkxes](https://www.youtube.com/watch?v=TzqY5rtkxes)
+* [March 1st, 2022 Livestream Q&A: Can we get something to allow us to make full use of Mk.3 Miner?](./transcriptions/yt-0oveQsKkGDQ.md) [https://www.youtube.com/watch?v=0oveQsKkGDQ](https://www.youtube.com/watch?v=0oveQsKkGDQ)
+* [October 19th, 2021 Livestream Q&A: Any Update on Overclocked Mk.3 Miners?](./transcriptions/yt-KbLwa5ZKlag.md) [https://www.youtube.com/watch?v=KbLwa5ZKlag](https://www.youtube.com/watch?v=KbLwa5ZKlag)
+* [October 5th, 2021 Livestream Q&A: Done any further look into the Mk.3 Miner and the second output?](./transcriptions/yt-hM5HKud0ChI.md) [https://www.youtube.com/watch?v=hM5HKud0ChI](https://www.youtube.com/watch?v=hM5HKud0ChI)
+* [October 5th, 2021 Livestream Q&A: Is there going to be a remedy for Mk.3 Miners being bottlenecked?](./transcriptions/yt-3m_vqCavleY.md) [https://www.youtube.com/watch?v=3m_vqCavleY](https://www.youtube.com/watch?v=3m_vqCavleY)
+* [September 21st, 2021 Livestream Q&A: Can you tell us if we're going to have two exits on the Miners or if you're going to rebalance?](./transcriptions/yt-8CTI5utyv34.md) [https://www.youtube.com/watch?v=8CTI5utyv34](https://www.youtube.com/watch?v=8CTI5utyv34)
+* [August 31st, 2021 Livestream Q&A: Two outputs for Mk.3 Miners?](./transcriptions/yt-Nn8tgBZ8s7M.md) [https://www.youtube.com/watch?v=Nn8tgBZ8s7M](https://www.youtube.com/watch?v=Nn8tgBZ8s7M)
+* [August 10th, 2021 Livestream Q&A: Two exits on Mk.3 Miner?](./transcriptions/yt-96WELYhyRLA.md) [https://www.youtube.com/watch?v=96WELYhyRLA](https://www.youtube.com/watch?v=96WELYhyRLA)
+* [July 20th, 2021 Livestream Q&A: Will Mk.3 Miners get two outputs to transport the full production?](./transcriptions/yt-my4Zmq3LUNU.md) [https://www.youtube.com/watch?v=my4Zmq3LUNU](https://www.youtube.com/watch?v=my4Zmq3LUNU)
+* [March 23rd, 2021 Livestream Q&A: Mk.3 Miner with 1200 resources per minute, put two outputs so we can get all the resources?](./transcriptions/yt-5BOnK8wVCro.md) [https://www.youtube.com/watch?v=5BOnK8wVCro](https://www.youtube.com/watch?v=5BOnK8wVCro)
+</details>
+
+### [Q&A: What about Golf?](./transcriptions/yt-URD7BgYve-I.md) [https://www.youtube.com/watch?v=URD7BgYve-I](https://www.youtube.com/watch?v=URD7BgYve-I)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> what about golf we've already answered gold yeah that was that's been settled in a game we have command for that right here yep I forgot what a command actually was yeah right
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 11 other times, as recently as December 2022 and as early as November 2021.</summary>
+
+* [December 13th, 2022 Livestream Q&A: When is Golf going to be implemented?](./transcriptions/yt-i2_4Ow9i_8M.md) [https://www.youtube.com/watch?v=i2_4Ow9i_8M](https://www.youtube.com/watch?v=i2_4Ow9i_8M)
+* December 6th, 2022 Livestream Q&A: Golf? [https://youtube.com/clip/UgkxAFveRDVrofoJinzsnTH1Lrp84cQg0qGx](https://youtube.com/clip/UgkxAFveRDVrofoJinzsnTH1Lrp84cQg0qGx)
+* [March 22nd, 2022 Livestream Q&A: Why no Golf?](./transcriptions/yt-STS5LemFXA0.md) [https://www.youtube.com/watch?v=STS5LemFXA0](https://www.youtube.com/watch?v=STS5LemFXA0)
+* [March 15th, 2022 Livestream Q&A: Golf, when?](./transcriptions/yt-lnYChdXeOJQ.md) [https://www.youtube.com/watch?v=lnYChdXeOJQ](https://www.youtube.com/watch?v=lnYChdXeOJQ)
+* [March 8th, 2022 Livestream Q&A: Any plans for any Golf?](./transcriptions/yt-IVZrSqBV5hM.md) [https://www.youtube.com/watch?v=IVZrSqBV5hM](https://www.youtube.com/watch?v=IVZrSqBV5hM)
+* March 8th, 2022 Livestream Q&A: Golf? [https://www.youtube.com/watch?v=IYiTB2D1hKk](https://www.youtube.com/watch?v=IYiTB2D1hKk)
+* [March 8th, 2022 Livestream Q&A: Is it true you guys are adding Golf?](./transcriptions/yt-5fao-wsp_CM.md) [https://www.youtube.com/watch?v=5fao-wsp_CM](https://www.youtube.com/watch?v=5fao-wsp_CM)
+* [December 14th, 2021 Livestream Q&A: Golf, when?](./transcriptions/yt-7izKxTtG3js.md) [https://www.youtube.com/watch?v=7izKxTtG3js](https://www.youtube.com/watch?v=7izKxTtG3js)
+* [December 7th, 2021 Livestream Q&A: When's Golf?](./transcriptions/yt-hhZq5M3I8Io.md) [https://www.youtube.com/watch?v=hhZq5M3I8Io](https://www.youtube.com/watch?v=hhZq5M3I8Io)
+* [November 23rd, 2021 Livestream Q&A: Golf, when?](./transcriptions/yt-iVDRQg_aWpU,5188.73288641358,5195.520066.md) [https://youtube.com/clip/UgkxtKr3YShULCOATqNTspPVmbJ_hDuQi765](https://youtube.com/clip/UgkxtKr3YShULCOATqNTspPVmbJ_hDuQi765)
+* [November 9th, 2021 Livestream Q&A: Golf, when?](./transcriptions/yt-kYn6eCYtK6w.md) [https://www.youtube.com/watch?v=kYn6eCYtK6w](https://www.youtube.com/watch?v=kYn6eCYtK6w)
+</details>
+
+### [Q&A: Snow Biome?](./transcriptions/yt-VjxuVdzNw9o.md) [https://www.youtube.com/watch?v=VjxuVdzNw9o](https://www.youtube.com/watch?v=VjxuVdzNw9o)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> snow biome no no snow snow there won't be yeah uh no it's been yeah at a level designer has been fairly adamant about not adding snow outside of fixmest I guess
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 12 other times, as recently as July 2022 and as early as February 2019.</summary>
+
+* [July 12th, 2022 Livestream Q&A: When do we get the next Ice Biome?](./transcriptions/yt-I_JT2xkr4Q0.md) [https://www.youtube.com/watch?v=I_JT2xkr4Q0](https://www.youtube.com/watch?v=I_JT2xkr4Q0)
+* [September 28th, 2021 Livestream Q&A: Like arctic mountain?](./transcriptions/yt-XFlDDGJ4Vx0.md) [https://www.youtube.com/watch?v=XFlDDGJ4Vx0](https://www.youtube.com/watch?v=XFlDDGJ4Vx0)
+* [August 3rd, 2021 Livestream Q&A: Ice Biome?](./transcriptions/yt-Gu_MSs0-G-Y.md) [https://www.youtube.com/watch?v=Gu_MSs0-G-Y](https://www.youtube.com/watch?v=Gu_MSs0-G-Y)
+* [March 2nd, 2021 Livestream Q&A: Is there a winter zone?](./transcriptions/yt-QgS9flDgvZk.md) [https://www.youtube.com/watch?v=QgS9flDgvZk](https://www.youtube.com/watch?v=QgS9flDgvZk)
+* [January 19th, 2021 Livestream Q&A: If the community made a Snow Biome, would you add that?](./transcriptions/yt-I8rWTBGdGio.md) [https://www.youtube.com/watch?v=I8rWTBGdGio](https://www.youtube.com/watch?v=I8rWTBGdGio)
+* [January 19th, 2021 Livestream Q&A: Can we please get a Snow Biome?](./transcriptions/yt-QHVdhswD13w.md) [https://www.youtube.com/watch?v=QHVdhswD13w](https://www.youtube.com/watch?v=QHVdhswD13w)
+* [December 15th, 2020 Livestream Q&A: Will there be a Snow Biome?](./transcriptions/yt-iyhdKRg1b0A.md) [https://www.youtube.com/watch?v=iyhdKRg1b0A](https://www.youtube.com/watch?v=iyhdKRg1b0A)
+* [November 17th, 2020 Livestream Q&A: Is Snow/Ice coming?](./transcriptions/yt-s8HISCrP7w8.md) [https://www.youtube.com/watch?v=s8HISCrP7w8](https://www.youtube.com/watch?v=s8HISCrP7w8)
+* [September 22nd, 2020 Livestream Q&A: Snowy Biome confirmed?](./transcriptions/yt-Yend7bHTMvw.md) [https://www.youtube.com/watch?v=Yend7bHTMvw](https://www.youtube.com/watch?v=Yend7bHTMvw)
+* [September 15th, 2020 Livestream Q&A: Snow Area Confirmed?](./transcriptions/yt-yUDtq7D8XU8.md) [https://www.youtube.com/watch?v=yUDtq7D8XU8](https://www.youtube.com/watch?v=yUDtq7D8XU8)
+* August 18th, 2020 Livestream Q&A: Any ice/snow biome plans? [https://clips.twitch.tv/AlluringScrumptiousBaboonHeyGirl](https://clips.twitch.tv/AlluringScrumptiousBaboonHeyGirl)
+* [February 20th, 2019 Livestream Q&A: What about Snow in the game's future?](./transcriptions/yt-CB9bSigNYH8,5186.033333333334,5200.942785.md) [https://youtube.com/clip/UgkxcKY1a-oHBDSLxA4CqM8L-4h33KcWXZ9H](https://youtube.com/clip/UgkxcKY1a-oHBDSLxA4CqM8L-4h33KcWXZ9H)
+</details>
+
+### [Q&A: Better swim system?](./transcriptions/yt-WpC29nyXjxg.md) [https://www.youtube.com/watch?v=WpC29nyXjxg](https://www.youtube.com/watch?v=WpC29nyXjxg)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> get a bit of swim system I don't think we have anything like that planned
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 2 other times, as recently as June 2022 and as early as February 2019.</summary>
+
+* [June 7th, 2022 Livestream Q&A: Will better swimming ever be a thing?](./transcriptions/yt-FvBaBLcN4zs.md) [https://www.youtube.com/watch?v=FvBaBLcN4zs](https://www.youtube.com/watch?v=FvBaBLcN4zs)
+* [February 20th, 2019 Livestream Q&A: Can I swim?](./transcriptions/yt-CB9bSigNYH8,421.013576,427.456855.md) [https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=421&end=428](https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=421&end=428)
+</details>
+
+### [Q&A: Unreal Engine 5?](./transcriptions/yt-aDJlS-RPWCI.md) [https://www.youtube.com/watch?v=aDJlS-RPWCI](https://www.youtube.com/watch?v=aDJlS-RPWCI)
+
+<details>
+
+<summary>A transcript is available</summary>
+
+> uh some people asking about Legend five uh we could say what we've said before which is that we've been investigating under Legend five and I could say that it's like I think when we first started investigating we're like ah we'll just investigate for funsies but then like nowadays we're like actually this could be you know not bad no things are going probably better than we initially thought so we don't know we'll see we'll see how it goes we still need to figure things out can't really promise anything at this stage and even if we did the other thing is like even if we did go to Unreal Engine 5 I think a lot of people have a lot of expectations of what that will mean for the game so like if we ever do that we're gonna have to make like a video to make it really clear what you should expect with that change because you don't just get everything with the engine that you've seen in Tech demos yeah uh when everything was built on the engine before uh all that kind of stuff yeah so we'll see we have to measure the expectations yeah the temporary expectations exactly because even I've tried uh using some of the new features in my own personal projects in some cases the performance is actually worse using like Lumen and uh and nanites yep so it depends is the classic so yeah
+
+
+</details>
+
+<details>
+<summary>This question may have been asked previously at least 24 other times, as recently as January 2023 and as early as May 2020.</summary>
+
+* [January 24th, 2023 Livestream Q&A: Unreal Engine 5?](./transcriptions/yt---Tndr5YVw8.md) [https://www.youtube.com/watch?v=--Tndr5YVw8](https://www.youtube.com/watch?v=--Tndr5YVw8)
 * [January 10th, 2023 Livestream Q&A: Still curious about Unreal Engine 5, any feedback about this?](./transcriptions/yt-wYQpKcI9rUU.md) [https://www.youtube.com/watch?v=wYQpKcI9rUU](https://www.youtube.com/watch?v=wYQpKcI9rUU)
 * [December 20th, 2022 Livestream Q&A: Update to Unreal Engine 5 planned?](./transcriptions/yt-mMIwRukhAEg.md) [https://www.youtube.com/watch?v=mMIwRukhAEg](https://www.youtube.com/watch?v=mMIwRukhAEg)
 * [November 22nd, 2022 Livestream Q&A: Unreal Engine 5?](./transcriptions/yt-o0l9wrKLm_M.md) [https://www.youtube.com/watch?v=o0l9wrKLm_M](https://www.youtube.com/watch?v=o0l9wrKLm_M)
@@ -42,6 +206,7 @@ date: Last Modified
 * [May 19th, 2020 Livestream Q&A: Will you be using Unreal Engine 5 for Satisfactory?](./transcriptions/yt-Wy79gUb24es.md) [https://www.youtube.com/watch?v=Wy79gUb24es](https://www.youtube.com/watch?v=Wy79gUb24es)
 </details>
 
+## [January 24th, 2023 Livestream](./2023-01-24.md)
 ### [Q&A: Will you ever consider VR for Satisfactory?](./transcriptions/yt-8Cy8AQPkgAY.md) [https://www.youtube.com/watch?v=8Cy8AQPkgAY](https://www.youtube.com/watch?v=8Cy8AQPkgAY)
 
 <details>
@@ -139,36 +304,6 @@ date: Last Modified
 * [December 19th, 2019 Livestream Q&A: Satisfactory on Switch?](./transcriptions/yt-QVQZ2qgtTsQ.md) [https://www.youtube.com/watch?v=QVQZ2qgtTsQ](https://www.youtube.com/watch?v=QVQZ2qgtTsQ)
 * [March 9th, 2019 Livestream Q&A: Will you create Console version of Satisfactory?](./transcriptions/yt-_MGUbEI247M.md) [https://www.youtube.com/watch?v=_MGUbEI247M](https://www.youtube.com/watch?v=_MGUbEI247M)
 * [March 9th, 2019 Livestream Q&A: Any scope of the game being on consoles?](./transcriptions/yt-bsTq_WiSeCY.md) [https://www.youtube.com/watch?v=bsTq_WiSeCY](https://www.youtube.com/watch?v=bsTq_WiSeCY)
-</details>
-
-### [Q&A: Mk.3 Miners, Mk.2 Pipes?](./transcriptions/yt-Fjkf1GJpYlw.md) [https://www.youtube.com/watch?v=Fjkf1GJpYlw](https://www.youtube.com/watch?v=Fjkf1GJpYlw)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> actually one piece of general info that I would like to know as well because I I saw this question and I don't know the answer and I think you answered on stream but that was the state of the uh miners Mark Z miners people are oh yeah the question that we get almost every single stream is uh what's the deal with the Mark III miners because you can only get like 780 items per minute out of the miner but the miner supports 1200 items per minute what's the deal like what's going on yeah so uh I I actually did I believe I followed this up this was the first follow-up that I did but we can do it again since it always comes up uh and that is that we do have a solution for the MK3 Miner output we do have a plan uh uh um yeah all I can say is that we we do have a plan so there have been many suggestions that have suggested make Foster belts rescale the numbers add a second output um so you know there's many things and and we have decided on what we plan on doing I just kind of tell you what we plan on doing I'm sorry I just can't um yeah but that also brings up the question about the uh pipe issue where it's like it's really hard to run 600 cubic meters of fluids through pipes right like they never run at that thing because there's like weird math issues and and things like that um so I also asked about that like do we plan on what do we want to do around that and so one option is obviously rescaling the numbers so that like the math will work with whatever numbers but also it seems like the interest is to find uh and fix the inaccuracy issues and keep the numbers as they are but we'll see how that goes we'll see how that goes interesting maybe it doesn't work because because the pro the thing that I Was Heard internally was that like here's the programmers on one side here's like the designers on this side designers like 600 the program was like that's not gonna work and then no we do it yeah yeah yeah as always the constant the constant push and pull between uh programs and design that's cool that's nice that we're at least gonna spend the time to to fix that because it could just be the case where like we just decided oh it's too much effort to look into it we just decide to change the numbers uh so it's nice at least that we invest the time into looking into it cool
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 14 other times, as recently as January 2023 and as early as March 2021.</summary>
-
-* [January 17th, 2023 Livestream Q&A: Mk.3 Miner output situation?](./transcriptions/yt-L-ebK-Ux7kM.md) [https://www.youtube.com/watch?v=L-ebK-Ux7kM](https://www.youtube.com/watch?v=L-ebK-Ux7kM)
-* [January 10th, 2023 Livestream Q&A: Any updates on what will be done with Mk.3 Miners / Mk.5 Belts?](./transcriptions/yt-TtVVIrYgyKc.md) [https://www.youtube.com/watch?v=TtVVIrYgyKc](https://www.youtube.com/watch?v=TtVVIrYgyKc)
-* [November 29th, 2022 Livestream Q&A: Dual-output Mk.3 Miner please, easy fix?](./transcriptions/yt-_4bcpVXbnxY.md) [https://www.youtube.com/watch?v=_4bcpVXbnxY](https://www.youtube.com/watch?v=_4bcpVXbnxY)
-* [October 4th, 2022 Livestream Q&A: Miner Mk.3?](./transcriptions/yt-UgT26tXEdjU.md) [https://www.youtube.com/watch?v=UgT26tXEdjU](https://www.youtube.com/watch?v=UgT26tXEdjU)
-* [May 3rd, 2022 Livestream Q&A: Miner Mk.3?](./transcriptions/yt-TzqY5rtkxes.md) [https://www.youtube.com/watch?v=TzqY5rtkxes](https://www.youtube.com/watch?v=TzqY5rtkxes)
-* [March 1st, 2022 Livestream Q&A: Can we get something to allow us to make full use of Mk.3 Miner?](./transcriptions/yt-0oveQsKkGDQ.md) [https://www.youtube.com/watch?v=0oveQsKkGDQ](https://www.youtube.com/watch?v=0oveQsKkGDQ)
-* [October 19th, 2021 Livestream Q&A: Any Update on Overclocked Mk.3 Miners?](./transcriptions/yt-KbLwa5ZKlag.md) [https://www.youtube.com/watch?v=KbLwa5ZKlag](https://www.youtube.com/watch?v=KbLwa5ZKlag)
-* [October 5th, 2021 Livestream Q&A: Done any further look into the Mk.3 Miner and the second output?](./transcriptions/yt-hM5HKud0ChI.md) [https://www.youtube.com/watch?v=hM5HKud0ChI](https://www.youtube.com/watch?v=hM5HKud0ChI)
-* [October 5th, 2021 Livestream Q&A: Is there going to be a remedy for Mk.3 Miners being bottlenecked?](./transcriptions/yt-3m_vqCavleY.md) [https://www.youtube.com/watch?v=3m_vqCavleY](https://www.youtube.com/watch?v=3m_vqCavleY)
-* [September 21st, 2021 Livestream Q&A: Can you tell us if we're going to have two exits on the Miners or if you're going to rebalance?](./transcriptions/yt-8CTI5utyv34.md) [https://www.youtube.com/watch?v=8CTI5utyv34](https://www.youtube.com/watch?v=8CTI5utyv34)
-* [August 31st, 2021 Livestream Q&A: Two outputs for Mk.3 Miners?](./transcriptions/yt-Nn8tgBZ8s7M.md) [https://www.youtube.com/watch?v=Nn8tgBZ8s7M](https://www.youtube.com/watch?v=Nn8tgBZ8s7M)
-* [August 10th, 2021 Livestream Q&A: Two exits on Mk.3 Miner?](./transcriptions/yt-96WELYhyRLA.md) [https://www.youtube.com/watch?v=96WELYhyRLA](https://www.youtube.com/watch?v=96WELYhyRLA)
-* [July 20th, 2021 Livestream Q&A: Will Mk.3 Miners get two outputs to transport the full production?](./transcriptions/yt-my4Zmq3LUNU.md) [https://www.youtube.com/watch?v=my4Zmq3LUNU](https://www.youtube.com/watch?v=my4Zmq3LUNU)
-* [March 23rd, 2021 Livestream Q&A: Mk.3 Miner with 1200 resources per minute, put two outputs so we can get all the resources?](./transcriptions/yt-5BOnK8wVCro.md) [https://www.youtube.com/watch?v=5BOnK8wVCro](https://www.youtube.com/watch?v=5BOnK8wVCro)
 </details>
 
 ### [Q&A: Will we be able to mirror Refineries?](./transcriptions/yt-WGJBDAO-6pk.md) [https://www.youtube.com/watch?v=WGJBDAO-6pk](https://www.youtube.com/watch?v=WGJBDAO-6pk)
@@ -278,30 +413,6 @@ date: Last Modified
 
 * [January 12th, 2021 Livestream Q&A: Are there plans to optimise the Tutorial?](./transcriptions/yt-yvrH5XwPi4k.md) [https://www.youtube.com/watch?v=yvrH5XwPi4k](https://www.youtube.com/watch?v=yvrH5XwPi4k)
 * [August 25th, 2020 Livestream Q&A: What about a Tutorial System?](./transcriptions/yt-jJOvimJ-Jcc.md) [https://www.youtube.com/watch?v=jJOvimJ-Jcc](https://www.youtube.com/watch?v=jJOvimJ-Jcc)
-</details>
-
-### [Q&A: Uranium Fuel Rod Alt Recipe?](./transcriptions/yt-z2Q-NVmj3W0.md) [https://www.youtube.com/watch?v=z2Q-NVmj3W0](https://www.youtube.com/watch?v=z2Q-NVmj3W0)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> another question uh so uranium fuel unit recipe requires beacons when are we going to change it to remove beacons uh so the message I got from you know internally is that as far as where you know uh we haven't removed beacons so you can still use it uh even though we're planning to phase beacons out eventually and so when we do remove beacons we do plan on adjusting that recipe um now obviously adjusting recipes can be a headache for you guys because it can really with your factories um uh but there is at one point there will at least be one other balancing update at some point and we don't do this all the time because we know it's really bad for your save files um so but we will add you know we will try to do it all in one update and we'll give you guys a bunch of heads up so that you can get ready for it and things like that and so when we do that this old recipe will probably get a change as well as we remove beacons but you guys will get a lot of heads up for that when it's going to happen we'll make videos we'll talk about on streams and even at that point still not everyone will hear it I'm sure it's because of that alt recipe that we didn't remove beacons originally completely because we could have changed that all recipe in the same like in the update where update six where we did away with the how beacons work on the map we could have gone away with the alt recipe too but then if it felt like oh if we just do it for that alt recipe that can affect a lot of different recipes and then we might as well just look at all the recipes at the same time instead yeah yeah it's it's not a it's not a really good reason to mess with your save files at this point just to remove beacons and when we say messages or save files to this day people who um who were even part of the closed Alpha before we launched their save file still load to this day so like we do we do intend to maintain compatibility the only thing is that if your recipe if the recipe has changed they will change in your buildings and so your factory will stop functioning but your let your save file should load that is how we've had it all this time and I assume we will keep continue going with that in the future I feel bad to break up the streak if we did that yep also I don't really see why we would have to but who knows maybe something will come up hopefully not though
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 8 other times, as recently as January 2023 and as early as May 2022.</summary>
-
-* [January 17th, 2023 Livestream Q&A: Is there an update on the Alt Recipe involving Beacons?](./transcriptions/yt-Mc7EGPNHfZ8.md) [https://www.youtube.com/watch?v=Mc7EGPNHfZ8](https://www.youtube.com/watch?v=Mc7EGPNHfZ8)
-* [November 8th, 2022 Livestream Q&A: Will the Beacon alt be removed in Update 7?](./transcriptions/yt-5YEG0e2Zrn0.md) [https://www.youtube.com/watch?v=5YEG0e2Zrn0](https://www.youtube.com/watch?v=5YEG0e2Zrn0)
-* [November 1st, 2022 Livestream Q&A: Beacons & Recipes for Update 7?](./transcriptions/yt-WlQm5uZ0Dlg.md) [https://www.youtube.com/watch?v=WlQm5uZ0Dlg](https://www.youtube.com/watch?v=WlQm5uZ0Dlg)
-* [September 13th, 2022 Livestream Q&A: Are you going to change the Recipes for Beacons?](./transcriptions/yt-4tCjpG1zJc0.md) [https://www.youtube.com/watch?v=4tCjpG1zJc0](https://www.youtube.com/watch?v=4tCjpG1zJc0)
-* [August 30th, 2022 Livestream Q&A: Will you change the Uranium Fuel Rod Recipe using Beacons in Update 6?](./transcriptions/yt-SmzRbZ6_0CM.md) [https://www.youtube.com/watch?v=SmzRbZ6_0CM](https://www.youtube.com/watch?v=SmzRbZ6_0CM)
-* [August 23rd, 2022 Livestream Q&A: New Nuclear Recipes confirmed?](./transcriptions/yt-RDZCG82PWRo.md) [https://www.youtube.com/watch?v=RDZCG82PWRo](https://www.youtube.com/watch?v=RDZCG82PWRo)
-* [July 5th, 2022 Livestream Q&A: Will the alt Nuclear Fuel be part of the next Update?](./transcriptions/yt-MrPbasBXKEQ.md) [https://www.youtube.com/watch?v=MrPbasBXKEQ](https://www.youtube.com/watch?v=MrPbasBXKEQ)
-* [May 24th, 2022 Livestream Q&A: Is it safe to make an Alt Recipe Nuclear factory?](./transcriptions/yt-Mi7GvyXRA3g.md) [https://www.youtube.com/watch?v=Mi7GvyXRA3g](https://www.youtube.com/watch?v=Mi7GvyXRA3g)
 </details>
 
 ## [January 17th, 2023 Livestream](./2023-01-17.md)
@@ -913,25 +1024,6 @@ date: Last Modified
 * [September 1st, 2020 Livestream Q&A: Please take a look at the Doggo farm](./transcriptions/yt-r-Azcy0xC4c.md) [https://www.youtube.com/watch?v=r-Azcy0xC4c](https://www.youtube.com/watch?v=r-Azcy0xC4c)
 </details>
 
-### [Q&A: Has a Blueprint preview/undo function been looked at by the dev team?](./transcriptions/yt-Nms9QQa7bcc.md) [https://www.youtube.com/watch?v=Nms9QQa7bcc](https://www.youtube.com/watch?v=Nms9QQa7bcc)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> has a blueprint preview or undo option been looked into more by the dev team uh I I uh I don't really know that's hard to say again we're winding down we're winding down for the year so it's not really the best of times I I know it's been considered but I don't know if any work has been done for it um but again like I know some people have some issues with blueprints and that there's maybe some user experience issues with them I just want you to know that the the team has heard your feedback and does read your feedback and by all means keep giving feedback on the QA side right they they really really do read it like we rely on that so much actually um and there's I there's an incredibly High chance that some some work requiring that stuff is is gonna I mean I can almost just say we're gonna do something about it but like I don't want to say that and then something comes up and we can't do it and then now I'm a liar or something you know that's why I'm being a little careful here because I can't predict the future but uh there's a great interest from the team to do more work with blue blueprints yeah
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 3 other times, as recently as December 2022 and as early as November 2022.</summary>
-
-* [December 13th, 2022 Livestream Q&A: Blueprint preview before placing or an undo function?](./transcriptions/yt-fliouDhnx8c.md) [https://www.youtube.com/watch?v=fliouDhnx8c](https://www.youtube.com/watch?v=fliouDhnx8c)
-* December 6th, 2022 Livestream Q&A: Is placing a Blueprint easy to undo? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6314&end=6409](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6314&end=6409)
-* [November 22nd, 2022 Livestream Q&A: Will there be a feature to delete a whole Blueprint all at once?](./transcriptions/yt-vqb8dmFFFQQ.md) [https://www.youtube.com/watch?v=vqb8dmFFFQQ](https://www.youtube.com/watch?v=vqb8dmFFFQQ)
-</details>
-
 ### [Q&A: Could there be some Creative Mode or cheats?](./transcriptions/yt-YdR7qt4X2lc.md) [https://www.youtube.com/watch?v=YdR7qt4X2lc](https://www.youtube.com/watch?v=YdR7qt4X2lc)
 
 <details>
@@ -1229,32 +1321,6 @@ date: Last Modified
 * [March 9th, 2019 Livestream Q&A: What's the final objective of the game?](./transcriptions/yt-xG0mfuXiFY8.md) [https://www.youtube.com/watch?v=xG0mfuXiFY8](https://www.youtube.com/watch?v=xG0mfuXiFY8)
 * [February 6th, 2019 Livestream Q&A: Is there an end-game/goal?](./transcriptions/yt-Dtm6xIj-wM4,912.113976,952.667535.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=912&end=953](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=912&end=953)
 * [June 22nd, 2018 Q&A: Is there an end game? Will there be a story?](./transcriptions/yt-W1E6EWrAsII,391.24,406.52.md) [https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=391&end=407](https://youtube.com/embed/W1E6EWrAsII?autoplay=1&start=391&end=407)
-</details>
-
-### [Q&A: When is Golf going to be implemented?](./transcriptions/yt-i2_4Ow9i_8M.md) [https://www.youtube.com/watch?v=i2_4Ow9i_8M](https://www.youtube.com/watch?v=i2_4Ow9i_8M)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> when is golf going to be implemented never
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 10 other times, as recently as December 2022 and as early as November 2021.</summary>
-
-* December 6th, 2022 Livestream Q&A: Golf? [https://youtube.com/clip/UgkxAFveRDVrofoJinzsnTH1Lrp84cQg0qGx](https://youtube.com/clip/UgkxAFveRDVrofoJinzsnTH1Lrp84cQg0qGx)
-* [March 22nd, 2022 Livestream Q&A: Why no Golf?](./transcriptions/yt-STS5LemFXA0.md) [https://www.youtube.com/watch?v=STS5LemFXA0](https://www.youtube.com/watch?v=STS5LemFXA0)
-* [March 15th, 2022 Livestream Q&A: Golf, when?](./transcriptions/yt-lnYChdXeOJQ.md) [https://www.youtube.com/watch?v=lnYChdXeOJQ](https://www.youtube.com/watch?v=lnYChdXeOJQ)
-* [March 8th, 2022 Livestream Q&A: Any plans for any Golf?](./transcriptions/yt-IVZrSqBV5hM.md) [https://www.youtube.com/watch?v=IVZrSqBV5hM](https://www.youtube.com/watch?v=IVZrSqBV5hM)
-* March 8th, 2022 Livestream Q&A: Golf? [https://www.youtube.com/watch?v=IYiTB2D1hKk](https://www.youtube.com/watch?v=IYiTB2D1hKk)
-* [March 8th, 2022 Livestream Q&A: Is it true you guys are adding Golf?](./transcriptions/yt-5fao-wsp_CM.md) [https://www.youtube.com/watch?v=5fao-wsp_CM](https://www.youtube.com/watch?v=5fao-wsp_CM)
-* [December 14th, 2021 Livestream Q&A: Golf, when?](./transcriptions/yt-7izKxTtG3js.md) [https://www.youtube.com/watch?v=7izKxTtG3js](https://www.youtube.com/watch?v=7izKxTtG3js)
-* [December 7th, 2021 Livestream Q&A: When's Golf?](./transcriptions/yt-hhZq5M3I8Io.md) [https://www.youtube.com/watch?v=hhZq5M3I8Io](https://www.youtube.com/watch?v=hhZq5M3I8Io)
-* [November 23rd, 2021 Livestream Q&A: Golf, when?](./transcriptions/yt-iVDRQg_aWpU,5188.73288641358,5195.520066.md) [https://youtube.com/clip/UgkxtKr3YShULCOATqNTspPVmbJ_hDuQi765](https://youtube.com/clip/UgkxtKr3YShULCOATqNTspPVmbJ_hDuQi765)
-* [November 9th, 2021 Livestream Q&A: Golf, when?](./transcriptions/yt-kYn6eCYtK6w.md) [https://www.youtube.com/watch?v=kYn6eCYtK6w](https://www.youtube.com/watch?v=kYn6eCYtK6w)
 </details>
 
 ### [Q&A: How's controller support doing?](./transcriptions/yt-ow48y32fjU8.md) [https://www.youtube.com/watch?v=ow48y32fjU8](https://www.youtube.com/watch?v=ow48y32fjU8)
@@ -3064,33 +3130,6 @@ date: Last Modified
 * [December 19th, 2019 Livestream Q&A: Will there be goats?](./transcriptions/yt-3YZMayi1Qec.md) [https://www.youtube.com/watch?v=3YZMayi1Qec](https://www.youtube.com/watch?v=3YZMayi1Qec)
 * March 9th, 2019 Livestream Q&A: Are there any goats in the game? [https://www.youtube.com/watch?v=jAjSoN6Z1rc](https://www.youtube.com/watch?v=jAjSoN6Z1rc)
 * [February 6th, 2019 Livestream Q&A: Is there goats in Satisfactory?](./transcriptions/yt-Dtm6xIj-wM4,3842.669132,3860.976436.md) [https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3842&end=3861](https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3842&end=3861)
-</details>
-
-### [Q&A: When do we get the next Ice Biome?](./transcriptions/yt-I_JT2xkr4Q0.md) [https://www.youtube.com/watch?v=I_JT2xkr4Q0](https://www.youtube.com/watch?v=I_JT2xkr4Q0)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> when we get the next ice biome where where's the first by ice biome and i did not promise that i can i can tell you that much and if she did she was lying no snow no slow is planned you
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 11 other times, as recently as September 2021 and as early as February 2019.</summary>
-
-* [September 28th, 2021 Livestream Q&A: Like arctic mountain?](./transcriptions/yt-XFlDDGJ4Vx0.md) [https://www.youtube.com/watch?v=XFlDDGJ4Vx0](https://www.youtube.com/watch?v=XFlDDGJ4Vx0)
-* [August 3rd, 2021 Livestream Q&A: Ice Biome?](./transcriptions/yt-Gu_MSs0-G-Y.md) [https://www.youtube.com/watch?v=Gu_MSs0-G-Y](https://www.youtube.com/watch?v=Gu_MSs0-G-Y)
-* [March 2nd, 2021 Livestream Q&A: Is there a winter zone?](./transcriptions/yt-QgS9flDgvZk.md) [https://www.youtube.com/watch?v=QgS9flDgvZk](https://www.youtube.com/watch?v=QgS9flDgvZk)
-* [January 19th, 2021 Livestream Q&A: If the community made a Snow Biome, would you add that?](./transcriptions/yt-I8rWTBGdGio.md) [https://www.youtube.com/watch?v=I8rWTBGdGio](https://www.youtube.com/watch?v=I8rWTBGdGio)
-* [January 19th, 2021 Livestream Q&A: Can we please get a Snow Biome?](./transcriptions/yt-QHVdhswD13w.md) [https://www.youtube.com/watch?v=QHVdhswD13w](https://www.youtube.com/watch?v=QHVdhswD13w)
-* [December 15th, 2020 Livestream Q&A: Will there be a Snow Biome?](./transcriptions/yt-iyhdKRg1b0A.md) [https://www.youtube.com/watch?v=iyhdKRg1b0A](https://www.youtube.com/watch?v=iyhdKRg1b0A)
-* [November 17th, 2020 Livestream Q&A: Is Snow/Ice coming?](./transcriptions/yt-s8HISCrP7w8.md) [https://www.youtube.com/watch?v=s8HISCrP7w8](https://www.youtube.com/watch?v=s8HISCrP7w8)
-* [September 22nd, 2020 Livestream Q&A: Snowy Biome confirmed?](./transcriptions/yt-Yend7bHTMvw.md) [https://www.youtube.com/watch?v=Yend7bHTMvw](https://www.youtube.com/watch?v=Yend7bHTMvw)
-* [September 15th, 2020 Livestream Q&A: Snow Area Confirmed?](./transcriptions/yt-yUDtq7D8XU8.md) [https://www.youtube.com/watch?v=yUDtq7D8XU8](https://www.youtube.com/watch?v=yUDtq7D8XU8)
-* August 18th, 2020 Livestream Q&A: Any ice/snow biome plans? [https://clips.twitch.tv/AlluringScrumptiousBaboonHeyGirl](https://clips.twitch.tv/AlluringScrumptiousBaboonHeyGirl)
-* [February 20th, 2019 Livestream Q&A: What about Snow in the game's future?](./transcriptions/yt-CB9bSigNYH8,5186.033333333334,5200.942785.md) [https://youtube.com/clip/UgkxcKY1a-oHBDSLxA4CqM8L-4h33KcWXZ9H](https://youtube.com/clip/UgkxcKY1a-oHBDSLxA4CqM8L-4h33KcWXZ9H)
 </details>
 
 ## [July 5th, 2022 Livestream](./2022-07-05.md)
@@ -5867,25 +5906,6 @@ date: Last Modified
 * [February 9th, 2021 Livestream Q&A: Any plans to improve the visual part of building in the game?](./transcriptions/yt-k-UDNJY0PWA.md) [https://www.youtube.com/watch?v=k-UDNJY0PWA](https://www.youtube.com/watch?v=k-UDNJY0PWA)
 * [December 15th, 2020 Livestream Q&A: Can you imagine bringing something decoration foundations to factories?](./transcriptions/yt-wuimxgd7c_A.md) [https://www.youtube.com/watch?v=wuimxgd7c_A](https://www.youtube.com/watch?v=wuimxgd7c_A)
 * [November 3rd, 2020 Livestream Q&A: Could you add more Build pieces every week?](./transcriptions/yt-p0CdgjDIsEs.md) [https://www.youtube.com/watch?v=p0CdgjDIsEs](https://www.youtube.com/watch?v=p0CdgjDIsEs)
-</details>
-
-### [Q&A: Are you thinking about Sanctum 3?](./transcriptions/yt-TOKME3PCYXo.md) [https://www.youtube.com/watch?v=TOKME3PCYXo](https://www.youtube.com/watch?v=TOKME3PCYXo)
-
-<details>
-
-<summary>A transcript is available</summary>
-
-> are you thinking about sanctum 3 no we're going to be working on satisfactory for some more time
-
-
-</details>
-
-<details>
-<summary>This question may have been asked previously at least 3 other times, as recently as March 2021 and as early as March 2018.</summary>
-
-* [March 30th, 2021 Livestream Q&A: Sanctum 3, when?](./transcriptions/yt-Ud7cgUEuVlE.md) [https://www.youtube.com/watch?v=Ud7cgUEuVlE](https://www.youtube.com/watch?v=Ud7cgUEuVlE)
-* [March 15th, 2019 Q&A: Sanctum 3 when?](./transcriptions/yt-R0S19_caQuw,426.78,428.86.md) [https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=426&end=429](https://youtube.com/embed/R0S19_caQuw?autoplay=1&start=426&end=429)
-* [March 9th, 2018 Q&A: Sanctum 3?](./transcriptions/yt-Zo2ybvs7keI,502.32,614.16.md) [https://youtube.com/embed/Zo2ybvs7keI?autoplay=1&start=502&end=615](https://youtube.com/embed/Zo2ybvs7keI?autoplay=1&start=502&end=615)
 </details>
 
 ### [Q&A: Any thoughts about having NPCs?](./transcriptions/yt-w3aiQMS3xBA.md) [https://www.youtube.com/watch?v=w3aiQMS3xBA](https://www.youtube.com/watch?v=w3aiQMS3xBA)

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Coffee Stainers](../../../topics/coffee-stainers.md) > [Jace](../../../topics/coffee-stainers/jace.md) > Robo Jace
 
+## January 31st, 2023 Livestream
+* [AI Uprising](../../../transcriptions/yt-8zlVqMTGJYI.md) [https://www.youtube.com/watch?v=8zlVqMTGJYI](https://www.youtube.com/watch?v=8zlVqMTGJYI)
+
 ## April 21st, 2022 Satisfactory x Portal Bonus Stream
 * [Community FYI: I can't believe you put your reputation in Snutt's hands like that](../../../transcriptions/yt-P5FtouvYxPE.md) [https://www.youtube.com/watch?v=P5FtouvYxPE](https://www.youtube.com/watch?v=P5FtouvYxPE)
 * [Community FYI: I honestly didn't notice it was Jace Bot until an hour of you](../../../transcriptions/yt-Jg3fVuC4Sbk.md) [https://www.youtube.com/watch?v=Jg3fVuC4Sbk](https://www.youtube.com/watch?v=Jg3fVuC4Sbk)

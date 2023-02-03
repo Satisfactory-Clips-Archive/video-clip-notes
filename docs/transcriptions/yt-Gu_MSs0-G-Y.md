@@ -9,7 +9,7 @@ topics:
 # [August 3rd, 2021 Livestream](../2021-08-03.md)
 ## Q&A: Ice Biome?
 https://www.youtube.com/watch?v=Gu_MSs0-G-Y
-This question was possibly duplicated with a more recent answer: [July 12th, 2022 Livestream Q&A: When do we get the next Ice Biome?](./yt-I_JT2xkr4Q0.md) [https://www.youtube.com/watch?v=I_JT2xkr4Q0](https://www.youtube.com/watch?v=I_JT2xkr4Q0)
+This question was possibly duplicated with a more recent answer: [January 31st, 2023 Livestream Q&A: Snow Biome?](./yt-VjxuVdzNw9o.md) [https://www.youtube.com/watch?v=VjxuVdzNw9o](https://www.youtube.com/watch?v=VjxuVdzNw9o)
 
 
 ### Topics

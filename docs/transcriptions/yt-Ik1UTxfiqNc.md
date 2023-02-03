@@ -8,6 +8,8 @@ topics:
 # [November 8th, 2022 Livestream](../2022-11-08.md)
 ## Q&A: Shadow flickering?
 https://www.youtube.com/watch?v=Ik1UTxfiqNc
+This question was possibly duplicated with a more recent answer: [January 31st, 2023 Livestream Q&A: Flickering with shadows?](./yt-R8AS9Wxf-pQ.md) [https://www.youtube.com/watch?v=R8AS9Wxf-pQ](https://www.youtube.com/watch?v=R8AS9Wxf-pQ)
+
 
 ### Topics
 * [Technology > Graphics](../topics/technology/graphics.md)

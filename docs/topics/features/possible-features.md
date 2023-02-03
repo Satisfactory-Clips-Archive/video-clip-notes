@@ -13,6 +13,10 @@ date: Last Modified
 * [Third-Party Service Integration](../../topics/features/possible-features/third-party-service-integration.md)
 * [Underground Biome](../../topics/features/possible-features/underground-biome.md)
 
+## January 31st, 2023 Livestream
+* [AI Uprising](../../transcriptions/yt-8zlVqMTGJYI.md) [https://www.youtube.com/watch?v=8zlVqMTGJYI](https://www.youtube.com/watch?v=8zlVqMTGJYI)
+* [Q&A: Will the Mk.3 Miner issue be worked on?](../../transcriptions/yt-QebwvKsk-f0.md) [https://www.youtube.com/watch?v=QebwvKsk-f0](https://www.youtube.com/watch?v=QebwvKsk-f0)
+
 ## January 24th, 2023 Livestream
 * [Intro / State of Dev](../../transcriptions/yt-27F3DddrfDY.md) [https://www.youtube.com/watch?v=27F3DddrfDY](https://www.youtube.com/watch?v=27F3DddrfDY)
 * [Q&A: When's the next creative day?](../../transcriptions/yt-PEcKUkKhA7Q.md) [https://www.youtube.com/watch?v=PEcKUkKhA7Q](https://www.youtube.com/watch?v=PEcKUkKhA7Q)

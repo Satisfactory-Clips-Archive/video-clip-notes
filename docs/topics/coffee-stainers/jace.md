@@ -10,6 +10,11 @@ date: Last Modified
 * [Juice Velvet](../../topics/coffee-stainers/jace/juice-velvet.md)
 * [Robo Jace](../../topics/coffee-stainers/jace/robo-jace.md)
 
+## January 31st, 2023 Livestream
+* [Q&A: What's your favourite colour?](../../transcriptions/yt-95JJhq2mtio.md) [https://www.youtube.com/watch?v=95JJhq2mtio](https://www.youtube.com/watch?v=95JJhq2mtio)
+* [Q&A: Will Jace be wearing the famous Flannel in the next video?](../../transcriptions/yt-fMY_T0TTzX4.md) [https://www.youtube.com/watch?v=fMY_T0TTzX4](https://www.youtube.com/watch?v=fMY_T0TTzX4)
+* [Q&A: What features not in the game that you two want added?](../../transcriptions/yt-ihM9Oh6DQiE.md) [https://www.youtube.com/watch?v=ihM9Oh6DQiE](https://www.youtube.com/watch?v=ihM9Oh6DQiE)
+
 ## January 27th, 2023 Video
 * [Q&A: Does ChatGPT know who Jace Varlet is?](../../transcriptions/yt-wBWmXDPDpL8,268.646924,356.28926666666666.md) [https://youtube.com/embed/wBWmXDPDpL8?autoplay=1&start=268&end=357](https://youtube.com/embed/wBWmXDPDpL8?autoplay=1&start=268&end=357)
 

@@ -9,6 +9,9 @@ date: Last Modified
 * [GeForce Now](../topics/retail/geforce-now.md)
 * [Steam Store](../topics/retail/steam-store.md)
 
+## January 31st, 2023 Livestream
+* [Q&A: Is Satsifactory always going to be family-friendly?](../transcriptions/yt-tKuXbGH4-iY.md) [https://www.youtube.com/watch?v=tKuXbGH4-iY](https://www.youtube.com/watch?v=tKuXbGH4-iY)
+
 ## January 10th, 2023 Livestream
 * [Q&A: Have there been difficulties for having your game available on different platforms?](../transcriptions/yt-OQI_L-M2vEg.md) [https://www.youtube.com/watch?v=OQI_L-M2vEg](https://www.youtube.com/watch?v=OQI_L-M2vEg)
 

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Environment](../../../../topics/environment.md) > [Biomes](../../../../topics/environment/biomes.md) > Unplanned Biomes > Underwater
 
+## January 31st, 2023 Livestream
+* [Q&A: Better swim system?](../../../../transcriptions/yt-WpC29nyXjxg.md) [https://www.youtube.com/watch?v=WpC29nyXjxg](https://www.youtube.com/watch?v=WpC29nyXjxg)
+
 ## January 27th, 2023 Video
 * [ChatGPT doesn't know about Subnautica](../../../../transcriptions/yt-wBWmXDPDpL8,718.2175,733.733.md) [https://youtube.com/clip/Ugkx7RaB49avTFqq2LMqDkgWgRPlaXXVmNej](https://youtube.com/clip/Ugkx7RaB49avTFqq2LMqDkgWgRPlaXXVmNej)
 

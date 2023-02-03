@@ -9,6 +9,8 @@ topics:
 # [February 16th, 2021 Livestream](../2021-02-16.md)
 ## Q&A: What's your favourite colour?
 https://www.youtube.com/watch?v=PvDKIvSEwD8
+This question was possibly duplicated with a more recent answer: [January 31st, 2023 Livestream Q&A: What's your favourite colour?](./yt-95JJhq2mtio.md) [https://www.youtube.com/watch?v=95JJhq2mtio](https://www.youtube.com/watch?v=95JJhq2mtio)
+
 
 ### Topics
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)

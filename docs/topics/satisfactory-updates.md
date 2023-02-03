@@ -18,6 +18,10 @@ date: Last Modified
 * [Teasers & Trailers](../topics/satisfactory-updates/teasers-and-trailers.md)
 * [World Update](../topics/satisfactory-updates/world-update.md)
 
+## January 31st, 2023 Livestream
+* [Intro / State of Dev](../transcriptions/yt-2f-FAGVRFY4.md) [https://www.youtube.com/watch?v=2f-FAGVRFY4](https://www.youtube.com/watch?v=2f-FAGVRFY4)
+* [Q&A: When are we going to see more bugfixes?](../transcriptions/yt-Au89DPcMCZo.md) [https://www.youtube.com/watch?v=Au89DPcMCZo](https://www.youtube.com/watch?v=Au89DPcMCZo)
+
 ## January 24th, 2023 Livestream
 * [Q&A: When are we going to get more patch fixes?](../transcriptions/yt--8TrlfRp_0A.md) [https://www.youtube.com/watch?v=-8TrlfRp_0A](https://www.youtube.com/watch?v=-8TrlfRp_0A)
 * [Q&A: Was Update 6 the last of the cosmetic Updates?](../transcriptions/yt-SYN7XsWGG00.md) [https://www.youtube.com/watch?v=SYN7XsWGG00](https://www.youtube.com/watch?v=SYN7XsWGG00)

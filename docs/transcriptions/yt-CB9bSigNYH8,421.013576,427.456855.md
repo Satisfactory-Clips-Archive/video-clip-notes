@@ -9,7 +9,7 @@ topics:
 # [February 20th, 2019 Livestream](../2019-02-20.md)
 ## Q&A: Can I swim?
 https://youtube.com/embed/CB9bSigNYH8?autoplay=1&start=421&end=428
-This question was possibly duplicated with a more recent answer: [June 7th, 2022 Livestream Q&A: Will better swimming ever be a thing?](./yt-FvBaBLcN4zs.md) [https://www.youtube.com/watch?v=FvBaBLcN4zs](https://www.youtube.com/watch?v=FvBaBLcN4zs)
+This question was possibly duplicated with a more recent answer: [January 31st, 2023 Livestream Q&A: Better swim system?](./yt-WpC29nyXjxg.md) [https://www.youtube.com/watch?v=WpC29nyXjxg](https://www.youtube.com/watch?v=WpC29nyXjxg)
 
 
 ### Topics
