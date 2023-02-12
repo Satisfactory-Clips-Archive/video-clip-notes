@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Coffee Stainers](../../../topics/coffee-stainers.md) > [Simon](../../../topics/coffee-stainers/simon.md) > Simon Saga
 
+## February 10th, 2023 Video
+* [Intro](../../../transcriptions/yt-4acDdsEM1Uc,0,51.44.md) [https://youtube.com/clip/UgkxoN_LF-CgPHIbqLx8xN71pHsZfFHYYun_](https://youtube.com/clip/UgkxoN_LF-CgPHIbqLx8xN71pHsZfFHYYun_)
+
 ## December 6th, 2022 Livestream
 * [Intro](../../../transcriptions/yt-ST6V-a4u8Qs,150.3668865234596,205.23837102092534.md) [https://youtube.com/clip/UgkxHfhSredLq3T6iUOd5lDA5J-80R91QAyq](https://youtube.com/clip/UgkxHfhSredLq3T6iUOd5lDA5J-80R91QAyq)
 * [Intro](../../../transcriptions/yt-ST6V-a4u8Qs,232.04848825638518,279.8128726030694.md) [https://youtube.com/clip/UgkxYKc9QUC8lrZCeueksFrrEXJ1fEFuAZdp](https://youtube.com/clip/UgkxYKc9QUC8lrZCeueksFrrEXJ1fEFuAZdp)

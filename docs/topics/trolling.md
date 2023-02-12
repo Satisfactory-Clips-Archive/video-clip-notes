@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Trolling
 
+## February 10th, 2023 Video
+* [Q&A: Do we really need this many Community Managers?](../transcriptions/yt-4acDdsEM1Uc,57.32,80.48.md) [https://youtube.com/clip/Ugkx5zRywosqqTKj0YP-ixxr9TYm1e2QuZIs](https://youtube.com/clip/Ugkx5zRywosqqTKj0YP-ixxr9TYm1e2QuZIs)
+
 ## February 7th, 2023 Livestream
 * [Q&A: Can we have spectator mode in Multiplayer?](../transcriptions/yt-HXrzFU5nevI.md) [https://www.youtube.com/watch?v=HXrzFU5nevI](https://www.youtube.com/watch?v=HXrzFU5nevI)
 * [Q&A: Please add hotdogs to the game?](../transcriptions/yt-N4WyQOsTd7g.md) [https://www.youtube.com/watch?v=N4WyQOsTd7g](https://www.youtube.com/watch?v=N4WyQOsTd7g)

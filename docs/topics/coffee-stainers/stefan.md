@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Stefan
 
+## February 10th, 2023 Video
+* [Q&A: What brought you onto the Satisfactory team? 😄 Always awesome to see the team growing](../../transcriptions/yt-4acDdsEM1Uc,236.16,248.52.md) [https://youtube.com/clip/UgkxtxVxiTfrTqoYNjbyMSYjrh4SqXwSlCcZ](https://youtube.com/clip/UgkxtxVxiTfrTqoYNjbyMSYjrh4SqXwSlCcZ)
+
 ## October 25th, 2022 Livestream
 * [Special Guest CEO of CSS (aka Official Satisfactory Podcast episode 2)](../../transcriptions/yt-jjgFHNU5NNM.md) [https://www.youtube.com/watch?v=jjgFHNU5NNM](https://www.youtube.com/watch?v=jjgFHNU5NNM)
 

@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Embracer Group](../../../topics/embracer-group.md) > [Coffee Stain Holding](../../../topics/embracer-group/coffee-stain-holding.md) > Coffee Stain Studios
 
+## February 10th, 2023 Video
+* [Intro](../../../transcriptions/yt-4acDdsEM1Uc,0,51.44.md) [https://youtube.com/clip/UgkxoN_LF-CgPHIbqLx8xN71pHsZfFHYYun_](https://youtube.com/clip/UgkxoN_LF-CgPHIbqLx8xN71pHsZfFHYYun_)
+* [Q&A: What brought you onto the Satisfactory team? 😄 Always awesome to see the team growing](../../../transcriptions/yt-4acDdsEM1Uc,236.16,248.52.md) [https://youtube.com/clip/UgkxtxVxiTfrTqoYNjbyMSYjrh4SqXwSlCcZ](https://youtube.com/clip/UgkxtxVxiTfrTqoYNjbyMSYjrh4SqXwSlCcZ)
+
 ## February 7th, 2023 Livestream
 * [Q&A: How to be a game dev?](../../../transcriptions/yt--r0o5m7uVKk.md) [https://www.youtube.com/watch?v=-r0o5m7uVKk](https://www.youtube.com/watch?v=-r0o5m7uVKk)
 * [Q&A: Where can we get those hoodies?](../../../transcriptions/yt-23z3P8T_vks.md) [https://www.youtube.com/watch?v=23z3P8T_vks](https://www.youtube.com/watch?v=23z3P8T_vks)

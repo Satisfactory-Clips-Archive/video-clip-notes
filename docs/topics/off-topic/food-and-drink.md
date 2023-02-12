@@ -10,6 +10,9 @@ date: Last Modified
 * [Pizza](../../topics/off-topic/food-and-drink/pizza.md)
 * [Semlor](../../topics/off-topic/food-and-drink/semlor.md)
 
+## February 10th, 2023 Video
+* [Q&A: Is there anything you are particularly good at?](../../transcriptions/yt-4acDdsEM1Uc,170.16,178.12.md) [https://youtube.com/clip/UgkxOwzI7NY1AL0HJ8i6GPMX2a6MBbtZfBfd](https://youtube.com/clip/UgkxOwzI7NY1AL0HJ8i6GPMX2a6MBbtZfBfd)
+
 ## December 13th, 2022 Livestream
 * [Q&A: Could you add a tea alternative to the Coffee Mug?](../../transcriptions/yt--aoKEMcw0_o.md) [https://www.youtube.com/watch?v=-aoKEMcw0_o](https://www.youtube.com/watch?v=-aoKEMcw0_o)
 

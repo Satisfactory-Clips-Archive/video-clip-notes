@@ -9,6 +9,12 @@ date: Last Modified
 * [Snutt Burger Time](../../topics/coffee-stainers/snutt/snutt-burger-time.md)
 * [Snutty Mays](../../topics/coffee-stainers/snutt/snutty-mays.md)
 
+## February 10th, 2023 Video
+* [Intro](../../transcriptions/yt-4acDdsEM1Uc,0,51.44.md) [https://youtube.com/clip/UgkxoN_LF-CgPHIbqLx8xN71pHsZfFHYYun_](https://youtube.com/clip/UgkxoN_LF-CgPHIbqLx8xN71pHsZfFHYYun_)
+* [Q&A: Do we really need this many Community Managers?](../../transcriptions/yt-4acDdsEM1Uc,57.32,80.48.md) [https://youtube.com/clip/Ugkx5zRywosqqTKj0YP-ixxr9TYm1e2QuZIs](https://youtube.com/clip/Ugkx5zRywosqqTKj0YP-ixxr9TYm1e2QuZIs)
+* [Q&A: What's your plan for the discord after you overthrow Jace & Snutt?](../../transcriptions/yt-4acDdsEM1Uc,216.72,224.52.md) [https://youtube.com/clip/UgkxA5RJPFr98QxcV7huHJm_gcGQaITe4Kf5](https://youtube.com/clip/UgkxA5RJPFr98QxcV7huHJm_gcGQaITe4Kf5)
+* [Q&A: What brought you onto the Satisfactory team? 😄 Always awesome to see the team growing](../../transcriptions/yt-4acDdsEM1Uc,236.16,248.52.md) [https://youtube.com/clip/UgkxtxVxiTfrTqoYNjbyMSYjrh4SqXwSlCcZ](https://youtube.com/clip/UgkxtxVxiTfrTqoYNjbyMSYjrh4SqXwSlCcZ)
+
 ## February 7th, 2023 Livestream
 * [Q&A: Do you guys work from home?](../../transcriptions/yt-Fus-oXtGO8Q.md) [https://www.youtube.com/watch?v=Fus-oXtGO8Q](https://www.youtube.com/watch?v=Fus-oXtGO8Q)
 * [Q&A: What's your favourite Conveyor Belt?](../../transcriptions/yt-NYUTjvvI7lY.md) [https://www.youtube.com/watch?v=NYUTjvvI7lY](https://www.youtube.com/watch?v=NYUTjvvI7lY)

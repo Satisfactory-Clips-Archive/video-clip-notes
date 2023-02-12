@@ -6,6 +6,9 @@ date: Last Modified
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > Transportation > Trains
 * [Train Signals](../../../topics/features/transportation/trains/train-signals.md)
 
+## February 10th, 2023 Video
+* [Q&A: Who is Ilayda?](../../../transcriptions/yt-4acDdsEM1Uc,80.52,142.52.md) [https://youtube.com/embed/4acDdsEM1Uc?autoplay=1&start=80&end=143](https://youtube.com/embed/4acDdsEM1Uc?autoplay=1&start=80&end=143)
+
 ## January 27th, 2023 Video
 * [ChatGPT didn't know Satisfactory had Trains](../../../transcriptions/yt-wBWmXDPDpL8,699.7323666666667,718.184.md) [https://youtube.com/clip/UgkxXoACaIkomu3iWprJ2peA1vKeJSgzx4AU](https://youtube.com/clip/UgkxXoACaIkomu3iWprJ2peA1vKeJSgzx4AU)
 

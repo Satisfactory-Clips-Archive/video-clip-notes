@@ -6,6 +6,10 @@ date: Last Modified
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Final Fantasy
 * [The Official Satisfactory PODCAST](../../topics/off-topic/final-fantasy/the-official-satisfactory-podcast.md)
 
+## February 10th, 2023 Video
+* [Q&A: Do we really need this many Community Managers?](../../transcriptions/yt-4acDdsEM1Uc,57.32,80.48.md) [https://youtube.com/clip/Ugkx5zRywosqqTKj0YP-ixxr9TYm1e2QuZIs](https://youtube.com/clip/Ugkx5zRywosqqTKj0YP-ixxr9TYm1e2QuZIs)
+* [Q&A: Who is Ilayda?](../../transcriptions/yt-4acDdsEM1Uc,80.52,142.52.md) [https://youtube.com/embed/4acDdsEM1Uc?autoplay=1&start=80&end=143](https://youtube.com/embed/4acDdsEM1Uc?autoplay=1&start=80&end=143)
+
 ## January 10th, 2023 Livestream
 * [Intro / State of Dave / New Year, New Game?](../../transcriptions/yt-1DcnC39hclI.md) [https://www.youtube.com/watch?v=1DcnC39hclI](https://www.youtube.com/watch?v=1DcnC39hclI)
 * [Q&A: What non-Final Fantasy game content would you like to see in Community Highlights next?](../../transcriptions/yt-5uTGxIRMNrc.md) [https://www.youtube.com/watch?v=5uTGxIRMNrc](https://www.youtube.com/watch?v=5uTGxIRMNrc)
