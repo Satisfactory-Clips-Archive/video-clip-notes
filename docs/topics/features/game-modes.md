@@ -7,6 +7,9 @@ date: Last Modified
 * [Creative Mode](../../topics/features/game-modes/creative-mode.md)
 * [Peaceful Mode](../../topics/features/game-modes/peaceful-mode.md)
 
+## February 7th, 2023 Livestream
+* [Q&A: Any plans for growing danger in the game?](../../transcriptions/yt--uANI-vayGE.md) [https://www.youtube.com/watch?v=-uANI-vayGE](https://www.youtube.com/watch?v=-uANI-vayGE)
+
 ## December 20th, 2022 Livestream
 * [Q&A: Could there be some Creative Mode or cheats?](../../transcriptions/yt-YdR7qt4X2lc.md) [https://www.youtube.com/watch?v=YdR7qt4X2lc](https://www.youtube.com/watch?v=YdR7qt4X2lc)
 * [Q&A: Any plans for randomised Ore locations?](../../transcriptions/yt-tLvqeGb5HIA.md) [https://www.youtube.com/watch?v=tLvqeGb5HIA](https://www.youtube.com/watch?v=tLvqeGb5HIA)

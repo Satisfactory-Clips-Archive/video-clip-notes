@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > World Update
 
+## February 7th, 2023 Livestream
+* [Q&A: Will there be Map changes in Update 8?](../../transcriptions/yt-guEuZBJWV3s.md) [https://www.youtube.com/watch?v=guEuZBJWV3s](https://www.youtube.com/watch?v=guEuZBJWV3s)
+
 ## January 17th, 2023 Livestream
 * [Q&A: Are you still adding Ben's Water changes?](../../transcriptions/yt-TQywXXECQ6g.md) [https://www.youtube.com/watch?v=TQywXXECQ6g](https://www.youtube.com/watch?v=TQywXXECQ6g)
 

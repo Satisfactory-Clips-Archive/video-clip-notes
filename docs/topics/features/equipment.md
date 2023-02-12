@@ -23,6 +23,9 @@ date: Last Modified
 * [Xeno-Zapper](../../topics/features/equipment/xeno-zapper.md)
 * [Zip Lines](../../topics/features/equipment/zip-lines.md)
 
+## February 7th, 2023 Livestream
+* [Q&A: Wing-suit, when?](../../transcriptions/yt-jhcfDlqQ4IY.md) [https://www.youtube.com/watch?v=jhcfDlqQ4IY](https://www.youtube.com/watch?v=jhcfDlqQ4IY)
+
 ## January 17th, 2023 Livestream
 * [Q&A: Can we have a telescope to look at the newly-added celestial bodies?](../../transcriptions/yt-6uYltuXykY0.md) [https://www.youtube.com/watch?v=6uYltuXykY0](https://www.youtube.com/watch?v=6uYltuXykY0)
 * [Q&A: Maybe post-1.0, having a Snow Biome with consumable heat batteries or you take damage?](../../transcriptions/yt-r33EJVJcux0.md) [https://www.youtube.com/watch?v=r33EJVJcux0](https://www.youtube.com/watch?v=r33EJVJcux0)

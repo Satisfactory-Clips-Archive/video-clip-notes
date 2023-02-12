@@ -7,6 +7,11 @@ date: Last Modified
 * [Cheatcrete](../../../topics/features/buildables/foundations/cheatcrete.md)
 * [Foundation Stencils](../../../topics/features/buildables/foundations/stencils.md)
 
+## February 7th, 2023 Livestream
+* [Q&A: No resizing Machines to match Foundation sizes?](../../../transcriptions/yt-E-wdAO5MXPM.md) [https://www.youtube.com/watch?v=E-wdAO5MXPM](https://www.youtube.com/watch?v=E-wdAO5MXPM)
+* [Q&A: Anyone else would want to have Foundations with the same texture all the way around?](../../../transcriptions/yt-H9umBnVgXJM.md) [https://www.youtube.com/watch?v=H9umBnVgXJM](https://www.youtube.com/watch?v=H9umBnVgXJM)
+* [Q&A: More realistic physics so Foundations require supports?](../../../transcriptions/yt-uF9MmXrVbWw.md) [https://www.youtube.com/watch?v=uF9MmXrVbWw](https://www.youtube.com/watch?v=uF9MmXrVbWw)
+
 ## January 17th, 2023 Livestream
 * [Q&A: Any possibility of Half-sized Angle Foundations?](../../../transcriptions/yt-dOrOjleHTsI.md) [https://www.youtube.com/watch?v=dOrOjleHTsI](https://www.youtube.com/watch?v=dOrOjleHTsI)
 

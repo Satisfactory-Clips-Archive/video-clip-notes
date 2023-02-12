@@ -17,6 +17,11 @@ date: Last Modified
 * [Terraforming](../../topics/features/unplanned-features/terraforming.md)
 * [VR](../../topics/features/unplanned-features/vr.md)
 
+## February 7th, 2023 Livestream
+* [Q&A: Any plans for growing danger in the game?](../../transcriptions/yt--uANI-vayGE.md) [https://www.youtube.com/watch?v=-uANI-vayGE](https://www.youtube.com/watch?v=-uANI-vayGE)
+* [Q&A: No resizing Machines to match Foundation sizes?](../../transcriptions/yt-E-wdAO5MXPM.md) [https://www.youtube.com/watch?v=E-wdAO5MXPM](https://www.youtube.com/watch?v=E-wdAO5MXPM)
+* [Q&A: More realistic physics so Foundations require supports?](../../transcriptions/yt-uF9MmXrVbWw.md) [https://www.youtube.com/watch?v=uF9MmXrVbWw](https://www.youtube.com/watch?v=uF9MmXrVbWw)
+
 ## January 31st, 2023 Livestream
 * [AI Uprising](../../transcriptions/yt-8zlVqMTGJYI.md) [https://www.youtube.com/watch?v=8zlVqMTGJYI](https://www.youtube.com/watch?v=8zlVqMTGJYI)
 

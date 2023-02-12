@@ -9,7 +9,7 @@ topics:
 # [October 5th, 2021 Livestream](../2021-10-05.md)
 ## Q&A: No floating platforms any more?
 https://www.youtube.com/watch?v=o_kTaVSOdg4
-This question was possibly duplicated with a more recent answer: [February 1st, 2022 Livestream Q&A: Will you ever implement gravity to the Building objects?](./yt-8jD6INRCUQg.md) [https://www.youtube.com/watch?v=8jD6INRCUQg](https://www.youtube.com/watch?v=8jD6INRCUQg)
+This question was possibly duplicated with a more recent answer: [February 7th, 2023 Livestream Q&A: More realistic physics so Foundations require supports?](./yt-uF9MmXrVbWw.md) [https://www.youtube.com/watch?v=uF9MmXrVbWw](https://www.youtube.com/watch?v=uF9MmXrVbWw)
 
 
 ### Topics

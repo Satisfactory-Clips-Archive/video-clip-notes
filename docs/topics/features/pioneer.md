@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Features](../../topics/features.md) > Pioneer
 
+## February 7th, 2023 Livestream
+* [Snutt & Jace Talk: Player model](../../transcriptions/yt-2SkxYotzYfI.md) [https://www.youtube.com/watch?v=2SkxYotzYfI](https://www.youtube.com/watch?v=2SkxYotzYfI)
+* [Q&A: Will we be able to sleep?](../../transcriptions/yt-IjgJZAsYXQc.md) [https://www.youtube.com/watch?v=IjgJZAsYXQc](https://www.youtube.com/watch?v=IjgJZAsYXQc)
+* [Q&A: Wing-suit, when?](../../transcriptions/yt-jhcfDlqQ4IY.md) [https://www.youtube.com/watch?v=jhcfDlqQ4IY](https://www.youtube.com/watch?v=jhcfDlqQ4IY)
+
 ## January 31st, 2023 Livestream
 * [Q&A: Why do player avatars hang out in the world after they log out, why don't they just disappear?](../../transcriptions/yt-9Kh5Q-okBbE.md) [https://www.youtube.com/watch?v=9Kh5Q-okBbE](https://www.youtube.com/watch?v=9Kh5Q-okBbE)
 * [Q&A: Better swim system?](../../transcriptions/yt-WpC29nyXjxg.md) [https://www.youtube.com/watch?v=WpC29nyXjxg](https://www.youtube.com/watch?v=WpC29nyXjxg)

@@ -10,6 +10,8 @@ topics:
 # [May 3rd, 2022 Livestream](../2022-05-03.md)
 ## Q&A: Will the Nodes in the World be aligned to the World Grid?
 https://www.youtube.com/watch?v=fWqKfAnHUc4
+This question was possibly duplicated with a more recent answer: [February 7th, 2023 Livestream Q&A: Any plans to get nodes to align with the global grid?](./yt-f_oRf-E5wd0.md) [https://www.youtube.com/watch?v=f_oRf-E5wd0](https://www.youtube.com/watch?v=f_oRf-E5wd0)
+
 
 ### Topics
 * [Environment > Resources](../topics/environment/resources.md)

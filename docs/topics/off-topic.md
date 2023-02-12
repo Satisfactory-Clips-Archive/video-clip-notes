@@ -27,6 +27,9 @@ date: Last Modified
 * [The Lord of the Rings](../topics/off-topic/the-lord-of-the-rings.md)
 * [Valheim](../topics/off-topic/valheim.md)
 
+## February 7th, 2023 Livestream
+* [Q&A: When will you be adding three seashells in the toilet?](../transcriptions/yt-h9zgPOCIWBU.md) [https://www.youtube.com/watch?v=h9zgPOCIWBU](https://www.youtube.com/watch?v=h9zgPOCIWBU)
+
 ## January 17th, 2023 Livestream
 * [Q&A: On a scale of 1-100, where do you estimate you are to 1.0?](../transcriptions/yt-Ur35T32d5kM.md) [https://www.youtube.com/watch?v=Ur35T32d5kM](https://www.youtube.com/watch?v=Ur35T32d5kM)
 

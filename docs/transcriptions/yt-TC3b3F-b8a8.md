@@ -8,7 +8,7 @@ topics:
 # [February 15th, 2022 Livestream](../2022-02-15.md)
 ## Q&A: More Maps?
 https://www.youtube.com/watch?v=TC3b3F-b8a8
-This question was possibly duplicated with a more recent answer: [November 1st, 2022 Livestream Q&A: Add more Maps in future?](./yt-bIbXx0QfIbc.md) [https://www.youtube.com/watch?v=bIbXx0QfIbc](https://www.youtube.com/watch?v=bIbXx0QfIbc)
+This question was possibly duplicated with a more recent answer: [February 7th, 2023 Livestream Q&A: Once 1.0 is out, will you make DLC/addons with new Maps?](./yt-PgerRnEylGY.md) [https://www.youtube.com/watch?v=PgerRnEylGY](https://www.youtube.com/watch?v=PgerRnEylGY)
 
 
 ### Topics

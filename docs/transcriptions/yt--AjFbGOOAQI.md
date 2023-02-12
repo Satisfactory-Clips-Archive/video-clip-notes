@@ -12,7 +12,7 @@ topics:
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: Will there ever be a 1.0, or are you going to keep it in Early Access forever?
 https://www.youtube.com/watch?v=-AjFbGOOAQI
-This question was possibly duplicated with a more recent answer: [January 17th, 2023 Livestream Q&A: 1.0 is 2023?](./yt-RzxU-GHuLNs.md) [https://www.youtube.com/watch?v=RzxU-GHuLNs](https://www.youtube.com/watch?v=RzxU-GHuLNs)
+This question was possibly duplicated with a more recent answer: [February 7th, 2023 Livestream Q&A: Is there a release window for full release (1.0) ?](./yt-A8329yEox_A.md) [https://www.youtube.com/watch?v=A8329yEox_A](https://www.youtube.com/watch?v=A8329yEox_A)
 
 
 ### Topics

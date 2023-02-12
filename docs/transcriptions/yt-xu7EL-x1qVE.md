@@ -10,7 +10,7 @@ topics:
 # [May 11th, 2021 Livestream](../2021-05-11.md)
 ## Q&A: Will non-floating structures ever be a thing?
 https://www.youtube.com/watch?v=xu7EL-x1qVE
-This question was possibly duplicated with a more recent answer: [February 1st, 2022 Livestream Q&A: Will you ever implement gravity to the Building objects?](./yt-8jD6INRCUQg.md) [https://www.youtube.com/watch?v=8jD6INRCUQg](https://www.youtube.com/watch?v=8jD6INRCUQg)
+This question was possibly duplicated with a more recent answer: [February 7th, 2023 Livestream Q&A: More realistic physics so Foundations require supports?](./yt-uF9MmXrVbWw.md) [https://www.youtube.com/watch?v=uF9MmXrVbWw](https://www.youtube.com/watch?v=uF9MmXrVbWw)
 
 
 ### Topics

@@ -8,7 +8,7 @@ topics:
 # [November 2nd, 2021 Livestream](../2021-11-02.md)
 ## Q&A: When are we going to get Achievements?
 https://www.youtube.com/watch?v=UKot9dXEPXk
-This question was possibly duplicated with a more recent answer: [July 5th, 2022 Livestream Q&A: Will there be Achievements for 1.0?](./yt-DRVyx1w9oNc.md) [https://www.youtube.com/watch?v=DRVyx1w9oNc](https://www.youtube.com/watch?v=DRVyx1w9oNc)
+This question was possibly duplicated with a more recent answer: [February 7th, 2023 Livestream Q&A: Are you going to add Achievements?](./yt-bkjIZH7adWI.md) [https://www.youtube.com/watch?v=bkjIZH7adWI](https://www.youtube.com/watch?v=bkjIZH7adWI)
 
 
 ### Topics

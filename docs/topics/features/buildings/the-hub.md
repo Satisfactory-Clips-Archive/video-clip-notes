@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > The HUB
 
+## February 7th, 2023 Livestream
+* [Q&A: Will we be able to sleep?](../../../transcriptions/yt-IjgJZAsYXQc.md) [https://www.youtube.com/watch?v=IjgJZAsYXQc](https://www.youtube.com/watch?v=IjgJZAsYXQc)
+
 ## January 24th, 2023 Livestream
 * [Snutt & Jace Talk: Cooperative progression vs. Multiplayer progression](../../../transcriptions/yt-lCWS8kV4xDU.md) [https://www.youtube.com/watch?v=lCWS8kV4xDU](https://www.youtube.com/watch?v=lCWS8kV4xDU)
 

@@ -10,7 +10,7 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: When will we implement gravity physics to the Buildings?
 https://www.youtube.com/watch?v=6JFV5EAIU8U
-This question was possibly duplicated with a more recent answer: [February 1st, 2022 Livestream Q&A: Will you ever implement gravity to the Building objects?](./yt-8jD6INRCUQg.md) [https://www.youtube.com/watch?v=8jD6INRCUQg](https://www.youtube.com/watch?v=8jD6INRCUQg)
+This question was possibly duplicated with a more recent answer: [February 7th, 2023 Livestream Q&A: More realistic physics so Foundations require supports?](./yt-uF9MmXrVbWw.md) [https://www.youtube.com/watch?v=uF9MmXrVbWw](https://www.youtube.com/watch?v=uF9MmXrVbWw)
 
 
 ### Topics

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Resources](../../../topics/environment/resources.md) > Power Slug
 
+## February 7th, 2023 Livestream
+* [Q&A: Did you address the unobtainable Power Slugs?](../../../transcriptions/yt-ZPrrJcVaAgI.md) [https://www.youtube.com/watch?v=ZPrrJcVaAgI](https://www.youtube.com/watch?v=ZPrrJcVaAgI)
+
 ## August 23rd, 2022 Livestream
 * [Q&A: Are you planning on making hunting crash sites / hard drives more attractive?](../../../transcriptions/yt-Xj--vMv9T6k.md) [https://www.youtube.com/watch?v=Xj--vMv9T6k](https://www.youtube.com/watch?v=Xj--vMv9T6k)
 

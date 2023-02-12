@@ -8,11 +8,7 @@ topics:
 # [June 28th, 2022 Livestream](../2022-06-28.md)
 ## Q&A: How finished is the game in percentage?
 https://www.youtube.com/watch?v=LvylFE87PO8
-<details>
-<summary>This question may have been asked previously at least 1 other time, as recently as December 2021.</summary>
-
-* [December 7th, 2021 Livestream Q&A: When do you feel like you'll be at a point to say "this is a finished game"?](./yt-CUzula9hmqM.md) [https://www.youtube.com/watch?v=CUzula9hmqM](https://www.youtube.com/watch?v=CUzula9hmqM)
-</details>
+This question was possibly duplicated with a more recent answer: [February 7th, 2023 Livestream Q&A: What is considered "done" in-game?](./yt-V_4l6tMcYn8.md) [https://www.youtube.com/watch?v=V_4l6tMcYn8](https://www.youtube.com/watch?v=V_4l6tMcYn8)
 
 
 ### Topics

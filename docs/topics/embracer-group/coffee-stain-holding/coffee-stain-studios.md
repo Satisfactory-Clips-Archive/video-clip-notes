@@ -3,7 +3,18 @@ title: "Coffee Stain Studios"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEoUgIUnNtnxxto0lrwkWz9V
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > [Embracer Group](../../../topics/embracer-group.md) > Coffee Stain Holding > Coffee Stain Studios
+# [Topics](../../../topics.md) > [Embracer Group](../../../topics/embracer-group.md) > [Coffee Stain Holding](../../../topics/embracer-group/coffee-stain-holding.md) > Coffee Stain Studios
+
+## February 7th, 2023 Livestream
+* [Q&A: How to be a game dev?](../../../transcriptions/yt--r0o5m7uVKk.md) [https://www.youtube.com/watch?v=-r0o5m7uVKk](https://www.youtube.com/watch?v=-r0o5m7uVKk)
+* [Q&A: Where can we get those hoodies?](../../../transcriptions/yt-23z3P8T_vks.md) [https://www.youtube.com/watch?v=23z3P8T_vks](https://www.youtube.com/watch?v=23z3P8T_vks)
+* [Snutt & Jace Talk: Player model](../../../transcriptions/yt-2SkxYotzYfI.md) [https://www.youtube.com/watch?v=2SkxYotzYfI](https://www.youtube.com/watch?v=2SkxYotzYfI)
+* [Q&A: How early does Coffee Stain Studios start thinking about what's next after Satisfactory 1.0?](../../../transcriptions/yt-3bYGyavB2Gs.md) [https://www.youtube.com/watch?v=3bYGyavB2Gs](https://www.youtube.com/watch?v=3bYGyavB2Gs)
+* [Q&A: Do you guys work from home?](../../../transcriptions/yt-Fus-oXtGO8Q.md) [https://www.youtube.com/watch?v=Fus-oXtGO8Q](https://www.youtube.com/watch?v=Fus-oXtGO8Q)
+* [Q&A: Can we ask for the next game after Satisfactory on the QA Site?](../../../transcriptions/yt-ccnVx6a3P2A.md) [https://www.youtube.com/watch?v=ccnVx6a3P2A](https://www.youtube.com/watch?v=ccnVx6a3P2A)
+* [Q&A: Who is Coffee Stain Publishing](../../../transcriptions/yt-hx5tNE4nZcM.md) [https://www.youtube.com/watch?v=hx5tNE4nZcM](https://www.youtube.com/watch?v=hx5tNE4nZcM)
+* [Q&A: Can we get the TikTok/Instagram reels posted as YouTube shorts as well?](../../../transcriptions/yt-q07fBWkGaw0.md) [https://www.youtube.com/watch?v=q07fBWkGaw0](https://www.youtube.com/watch?v=q07fBWkGaw0)
+* [Q&A: Did you do dev streams during Goat Simulator?](../../../transcriptions/yt-sye14wrhIws.md) [https://www.youtube.com/watch?v=sye14wrhIws](https://www.youtube.com/watch?v=sye14wrhIws)
 
 ## January 31st, 2023 Livestream
 * [Q&A: Is a beard required at Coffee Stain?](../../../transcriptions/yt-X4W00LiNCnY.md) [https://www.youtube.com/watch?v=X4W00LiNCnY](https://www.youtube.com/watch?v=X4W00LiNCnY)

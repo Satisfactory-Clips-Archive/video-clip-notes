@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > State of Dev
 
+## February 7th, 2023 Livestream
+* [Intro / State of Dev](../../transcriptions/yt-05yuCDfceu4.md) [https://www.youtube.com/watch?v=05yuCDfceu4](https://www.youtube.com/watch?v=05yuCDfceu4)
+
 ## January 31st, 2023 Livestream
 * [Intro / State of Dev](../../transcriptions/yt-2f-FAGVRFY4.md) [https://www.youtube.com/watch?v=2f-FAGVRFY4](https://www.youtube.com/watch?v=2f-FAGVRFY4)
 

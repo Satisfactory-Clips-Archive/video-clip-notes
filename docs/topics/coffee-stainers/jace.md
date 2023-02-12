@@ -10,6 +10,11 @@ date: Last Modified
 * [Juice Velvet](../../topics/coffee-stainers/jace/juice-velvet.md)
 * [Robo Jace](../../topics/coffee-stainers/jace/robo-jace.md)
 
+## February 7th, 2023 Livestream
+* [Q&A: Do you guys work from home?](../../transcriptions/yt-Fus-oXtGO8Q.md) [https://www.youtube.com/watch?v=Fus-oXtGO8Q](https://www.youtube.com/watch?v=Fus-oXtGO8Q)
+* [Q&A: What's your favourite Conveyor Belt?](../../transcriptions/yt-NYUTjvvI7lY.md) [https://www.youtube.com/watch?v=NYUTjvvI7lY](https://www.youtube.com/watch?v=NYUTjvvI7lY)
+* [Q&A: Why do you have unique chat mode on?](../../transcriptions/yt-Wsj0Gxh2prQ.md) [https://www.youtube.com/watch?v=Wsj0Gxh2prQ](https://www.youtube.com/watch?v=Wsj0Gxh2prQ)
+
 ## January 31st, 2023 Livestream
 * [Q&A: What's your favourite colour?](../../transcriptions/yt-95JJhq2mtio.md) [https://www.youtube.com/watch?v=95JJhq2mtio](https://www.youtube.com/watch?v=95JJhq2mtio)
 * [Q&A: Will Jace be wearing the famous Flannel in the next video?](../../transcriptions/yt-fMY_T0TTzX4.md) [https://www.youtube.com/watch?v=fMY_T0TTzX4](https://www.youtube.com/watch?v=fMY_T0TTzX4)

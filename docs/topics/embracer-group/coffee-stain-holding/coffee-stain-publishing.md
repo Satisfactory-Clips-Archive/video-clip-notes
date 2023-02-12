@@ -3,7 +3,10 @@ title: "Coffee Stain Publishing"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEq9lna6BfVSSq_ahKhtr0j7
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > [Embracer Group](../../../topics/embracer-group.md) > Coffee Stain Holding > Coffee Stain Publishing
+# [Topics](../../../topics.md) > [Embracer Group](../../../topics/embracer-group.md) > [Coffee Stain Holding](../../../topics/embracer-group/coffee-stain-holding.md) > Coffee Stain Publishing
+
+## February 7th, 2023 Livestream
+* [Q&A: Who is Coffee Stain Publishing](../../../transcriptions/yt-hx5tNE4nZcM.md) [https://www.youtube.com/watch?v=hx5tNE4nZcM](https://www.youtube.com/watch?v=hx5tNE4nZcM)
 
 ## January 10th, 2023 Livestream
 * [Q&A: Do you think Satisfactory's the biggest project at Coffee Stain?](../../../transcriptions/yt-q_e3OYME8pk.md) [https://www.youtube.com/watch?v=q_e3OYME8pk](https://www.youtube.com/watch?v=q_e3OYME8pk)

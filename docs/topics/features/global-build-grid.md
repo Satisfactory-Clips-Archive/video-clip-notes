@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Features](../../topics/features.md) > Global Build Grid
 
+## February 7th, 2023 Livestream
+* [Q&A: Any plans to get nodes to align with the global grid?](../../transcriptions/yt-f_oRf-E5wd0.md) [https://www.youtube.com/watch?v=f_oRf-E5wd0](https://www.youtube.com/watch?v=f_oRf-E5wd0)
+
 ## May 3rd, 2022 Livestream
 * [Q&A: Will the Nodes in the World be aligned to the World Grid?](../../transcriptions/yt-fWqKfAnHUc4.md) [https://www.youtube.com/watch?v=fWqKfAnHUc4](https://www.youtube.com/watch?v=fWqKfAnHUc4)
 * [Q&A: Any chance for a Global Grid?](../../transcriptions/yt-4QETAtHO-TU.md) [https://www.youtube.com/watch?v=4QETAtHO-TU](https://www.youtube.com/watch?v=4QETAtHO-TU)

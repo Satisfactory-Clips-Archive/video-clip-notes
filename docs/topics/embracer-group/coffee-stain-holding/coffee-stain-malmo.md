@@ -3,7 +3,10 @@ title: "Coffee Stain Malmö"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEq1h5_NQ0g0vcgaXGQ2k-Dq
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > [Embracer Group](../../../topics/embracer-group.md) > Coffee Stain Holding > Coffee Stain Malmö
+# [Topics](../../../topics.md) > [Embracer Group](../../../topics/embracer-group.md) > [Coffee Stain Holding](../../../topics/embracer-group/coffee-stain-holding.md) > Coffee Stain Malmö
+
+## February 7th, 2023 Livestream
+* [Q&A: Who is Coffee Stain Publishing](../../../transcriptions/yt-hx5tNE4nZcM.md) [https://www.youtube.com/watch?v=hx5tNE4nZcM](https://www.youtube.com/watch?v=hx5tNE4nZcM)
 
 ## July 12th, 2022 Livestream
 * [Q&A: Why is Coffee Stain Studios actually multiple studios?](../../../transcriptions/yt-cBaieySbHAk.md) [https://www.youtube.com/watch?v=cBaieySbHAk](https://www.youtube.com/watch?v=cBaieySbHAk)

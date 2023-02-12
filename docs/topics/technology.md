@@ -15,6 +15,11 @@ date: Last Modified
 * [User Interface](../topics/technology/user-interface.md)
 * [Vulkan](../topics/technology/vulkan.md)
 
+## February 7th, 2023 Livestream
+* [Q&A: Were you surprised at how interested the Community was at the ChatGPT Underwater suggestion?](../transcriptions/yt-0c-C0ZJtt2M.md) [https://www.youtube.com/watch?v=0c-C0ZJtt2M](https://www.youtube.com/watch?v=0c-C0ZJtt2M)
+* [Snutt & Jace Talk: Player model](../transcriptions/yt-2SkxYotzYfI.md) [https://www.youtube.com/watch?v=2SkxYotzYfI](https://www.youtube.com/watch?v=2SkxYotzYfI)
+* [Q&A: Have you thought about some AI chat bot into the game?](../transcriptions/yt-dR7qenTyOik.md) [https://www.youtube.com/watch?v=dR7qenTyOik](https://www.youtube.com/watch?v=dR7qenTyOik)
+
 ## January 31st, 2023 Livestream
 * [AI Uprising](../transcriptions/yt-8zlVqMTGJYI.md) [https://www.youtube.com/watch?v=8zlVqMTGJYI](https://www.youtube.com/watch?v=8zlVqMTGJYI)
 

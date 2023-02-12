@@ -11,6 +11,8 @@ topics:
 # [November 22nd, 2022 Livestream](../2022-11-22.md)
 ## Q&A: I like your hoodie Jace, where's that from?
 https://www.youtube.com/watch?v=15P2i-QqVqg
+This question was possibly duplicated with a more recent answer: [February 7th, 2023 Livestream Q&A: Where can we get those hoodies?](./yt-23z3P8T_vks.md) [https://www.youtube.com/watch?v=23z3P8T_vks](https://www.youtube.com/watch?v=23z3P8T_vks)
+
 
 ### Topics
 * [Coffee Stainers > Jace](../topics/coffee-stainers/jace.md)

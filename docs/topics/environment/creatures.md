@@ -10,6 +10,10 @@ date: Last Modified
 * [Non Flying Bird](../../topics/environment/creatures/non-flying-bird.md)
 * [Space Giraffe-Tick-Penguin-Whale Thing](../../topics/environment/creatures/space-giraffe-tick-penguin-whale-thing.md)
 
+## February 7th, 2023 Livestream
+* [Q&A: Any plans for growing danger in the game?](../../transcriptions/yt--uANI-vayGE.md) [https://www.youtube.com/watch?v=-uANI-vayGE](https://www.youtube.com/watch?v=-uANI-vayGE)
+* [Q&A: Could you give some info about the revamp of the Creature remains?](../../transcriptions/yt-llJeyL1axW8.md) [https://www.youtube.com/watch?v=llJeyL1axW8](https://www.youtube.com/watch?v=llJeyL1axW8)
+
 ## January 24th, 2023 Livestream
 * [Q&A: Why do Vehicles have HP bars, nothing damages them?](../../transcriptions/yt-ST8k-CrhLk4.md) [https://www.youtube.com/watch?v=ST8k-CrhLk4](https://www.youtube.com/watch?v=ST8k-CrhLk4)
 

@@ -9,7 +9,7 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Do you ever get the feeling the game will be put aside and never leave Early Access?
 https://www.youtube.com/watch?v=LSx6aBL0q3Q
-This question was possibly duplicated with a more recent answer: [January 17th, 2023 Livestream Q&A: 1.0 is 2023?](./yt-RzxU-GHuLNs.md) [https://www.youtube.com/watch?v=RzxU-GHuLNs](https://www.youtube.com/watch?v=RzxU-GHuLNs)
+This question was possibly duplicated with a more recent answer: [February 7th, 2023 Livestream Q&A: Is there a release window for full release (1.0) ?](./yt-A8329yEox_A.md) [https://www.youtube.com/watch?v=A8329yEox_A](https://www.youtube.com/watch?v=A8329yEox_A)
 
 
 ### Topics

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Creatures](../../../topics/environment/creatures.md) > Lizard Doggo
 
+## February 7th, 2023 Livestream
+* [Q&A: Please add hotdogs to the game?](../../../transcriptions/yt-N4WyQOsTd7g.md) [https://www.youtube.com/watch?v=N4WyQOsTd7g](https://www.youtube.com/watch?v=N4WyQOsTd7g)
+
 ## January 10th, 2023 Livestream
 * [Q&A: Can we get Lizard Doggo as playable skins in Goat Simulator 3?](../../../transcriptions/yt-PGNDAXjy0ug.md) [https://www.youtube.com/watch?v=PGNDAXjy0ug](https://www.youtube.com/watch?v=PGNDAXjy0ug)
 

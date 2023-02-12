@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Off-Topic](../../topics/off-topic.md) > Valheim
 
+## February 7th, 2023 Livestream
+* [Q&A: Could you tell your colleagues at Valheim to do these awesome streams as well?](../../transcriptions/yt-Wf5vxI5Uk60.md) [https://www.youtube.com/watch?v=Wf5vxI5Uk60](https://www.youtube.com/watch?v=Wf5vxI5Uk60)
+
 ## December 13th, 2022 Livestream
 * [Q&A: Are you friends with the Valheim devs?](../../transcriptions/yt-2HtyjvekxwE.md) [https://www.youtube.com/watch?v=2HtyjvekxwE](https://www.youtube.com/watch?v=2HtyjvekxwE)
 

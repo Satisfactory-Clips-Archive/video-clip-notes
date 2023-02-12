@@ -3,7 +3,10 @@ title: "Coffee Stain North"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEp58J3v3DhH_Z9Gh5uKVi7H
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > [Embracer Group](../../../topics/embracer-group.md) > Coffee Stain Holding > Coffee Stain North
+# [Topics](../../../topics.md) > [Embracer Group](../../../topics/embracer-group.md) > [Coffee Stain Holding](../../../topics/embracer-group/coffee-stain-holding.md) > Coffee Stain North
+
+## February 7th, 2023 Livestream
+* [Q&A: Who is Coffee Stain Publishing](../../../transcriptions/yt-hx5tNE4nZcM.md) [https://www.youtube.com/watch?v=hx5tNE4nZcM](https://www.youtube.com/watch?v=hx5tNE4nZcM)
 
 ## January 10th, 2023 Livestream
 * [Q&A: Has Coffee Stain North asked you to reprise your voice-acting role yet?](../../../transcriptions/yt-5atS5V5xlKs.md) [https://www.youtube.com/watch?v=5atS5V5xlKs](https://www.youtube.com/watch?v=5atS5V5xlKs)

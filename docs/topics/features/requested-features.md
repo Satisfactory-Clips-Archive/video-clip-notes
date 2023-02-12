@@ -10,6 +10,22 @@ date: Last Modified
 * [Pollution](../../topics/features/requested-features/pollution.md)
 * [Third-person View](../../topics/features/requested-features/third-person-view.md)
 
+## February 7th, 2023 Livestream
+* [Q&A: Anyone else would want to have Foundations with the same texture all the way around?](../../transcriptions/yt-H9umBnVgXJM.md) [https://www.youtube.com/watch?v=H9umBnVgXJM](https://www.youtube.com/watch?v=H9umBnVgXJM)
+* [Q&A: Can we have spectator mode in Multiplayer?](../../transcriptions/yt-HXrzFU5nevI.md) [https://www.youtube.com/watch?v=HXrzFU5nevI](https://www.youtube.com/watch?v=HXrzFU5nevI)
+* [Q&A: Will we be able to sleep?](../../transcriptions/yt-IjgJZAsYXQc.md) [https://www.youtube.com/watch?v=IjgJZAsYXQc](https://www.youtube.com/watch?v=IjgJZAsYXQc)
+* [Q&A: Please add hotdogs to the game?](../../transcriptions/yt-N4WyQOsTd7g.md) [https://www.youtube.com/watch?v=N4WyQOsTd7g](https://www.youtube.com/watch?v=N4WyQOsTd7g)
+* [Q&A: Any more Lights planned?](../../transcriptions/yt-OwwyjzKfDSQ.md) [https://www.youtube.com/watch?v=OwwyjzKfDSQ](https://www.youtube.com/watch?v=OwwyjzKfDSQ)
+* [Q&A: Once 1.0 is out, will you make DLC/addons with new Maps?](../../transcriptions/yt-PgerRnEylGY.md) [https://www.youtube.com/watch?v=PgerRnEylGY](https://www.youtube.com/watch?v=PgerRnEylGY)
+* [Q&A: Can we have quantum teleportation & Conveyor hubs so we can have nature looking natural?](../../transcriptions/yt-UAXTRI-tkXc.md) [https://www.youtube.com/watch?v=UAXTRI-tkXc](https://www.youtube.com/watch?v=UAXTRI-tkXc)
+* [Q&A: Can twitch-pinned messages be put in the stream itself?](../../transcriptions/yt-YZmIYmaExIg.md) [https://www.youtube.com/watch?v=YZmIYmaExIg](https://www.youtube.com/watch?v=YZmIYmaExIg)
+* [Q&A: Have you thought about some AI chat bot into the game?](../../transcriptions/yt-dR7qenTyOik.md) [https://www.youtube.com/watch?v=dR7qenTyOik](https://www.youtube.com/watch?v=dR7qenTyOik)
+* [Q&A: Any plans to get nodes to align with the global grid?](../../transcriptions/yt-f_oRf-E5wd0.md) [https://www.youtube.com/watch?v=f_oRf-E5wd0](https://www.youtube.com/watch?v=f_oRf-E5wd0)
+* [Q&A: Wing-suit, when?](../../transcriptions/yt-jhcfDlqQ4IY.md) [https://www.youtube.com/watch?v=jhcfDlqQ4IY](https://www.youtube.com/watch?v=jhcfDlqQ4IY)
+* [Q&A: Could you give some info about the revamp of the Creature remains?](../../transcriptions/yt-llJeyL1axW8.md) [https://www.youtube.com/watch?v=llJeyL1axW8](https://www.youtube.com/watch?v=llJeyL1axW8)
+* [Q&A: Can we cut down a bit on the unspeakable machine name from Recipes in the end-game?](../../transcriptions/yt-w6iM0Uigx24.md) [https://www.youtube.com/watch?v=w6iM0Uigx24](https://www.youtube.com/watch?v=w6iM0Uigx24)
+* [Q&A: When is Satisfactory e-sports coming?](../../transcriptions/yt-yF9Kx1FaRnM.md) [https://www.youtube.com/watch?v=yF9Kx1FaRnM](https://www.youtube.com/watch?v=yF9Kx1FaRnM)
+
 ## January 31st, 2023 Livestream
 * [Q&A: Why do player avatars hang out in the world after they log out, why don't they just disappear?](../../transcriptions/yt-9Kh5Q-okBbE.md) [https://www.youtube.com/watch?v=9Kh5Q-okBbE](https://www.youtube.com/watch?v=9Kh5Q-okBbE)
 * [Q&A: Thoughts on Blueprint undo?](../../transcriptions/yt-F_u-dKrP9Bs.md) [https://www.youtube.com/watch?v=F_u-dKrP9Bs](https://www.youtube.com/watch?v=F_u-dKrP9Bs)

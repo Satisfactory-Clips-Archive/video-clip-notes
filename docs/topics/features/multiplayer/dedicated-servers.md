@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Multiplayer](../../../topics/features/multiplayer.md) > Dedicated Servers
 
+## February 7th, 2023 Livestream
+* [Q&A: You guys going to address the bugs & crashes with Dedicated Servers?](../../../transcriptions/yt-LKCtShTuB70.md) [https://www.youtube.com/watch?v=LKCtShTuB70](https://www.youtube.com/watch?v=LKCtShTuB70)
+
 ## January 24th, 2023 Livestream
 * [Q&A: Dedicated Servers being developed?](../../../transcriptions/yt-NqZsKBb7EN0.md) [https://www.youtube.com/watch?v=NqZsKBb7EN0](https://www.youtube.com/watch?v=NqZsKBb7EN0)
 * [Q&A: Does having Mods mess with Dedicated Server players that don't have Mods?](../../../transcriptions/yt-ijyTcUdnXhw.md) [https://www.youtube.com/watch?v=ijyTcUdnXhw](https://www.youtube.com/watch?v=ijyTcUdnXhw)

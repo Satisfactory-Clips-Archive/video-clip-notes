@@ -8,6 +8,8 @@ topics:
 # [November 16th, 2021 Livestream](../2021-11-16.md)
 ## Q&A: Do you have any tips for someone who wants to become a game dev?
 https://www.youtube.com/watch?v=LlBIU7YGobQ
+This question was possibly duplicated with a more recent answer: [February 7th, 2023 Livestream Q&A: How to be a game dev?](./yt--r0o5m7uVKk.md) [https://www.youtube.com/watch?v=-r0o5m7uVKk](https://www.youtube.com/watch?v=-r0o5m7uVKk)
+
 
 ### Topics
 * [Off-Topic](../topics/off-topic.md)

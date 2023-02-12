@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Technology](../../topics/technology.md) > Physics
 
+## February 7th, 2023 Livestream
+* [Q&A: More realistic physics so Foundations require supports?](../../transcriptions/yt-uF9MmXrVbWw.md) [https://www.youtube.com/watch?v=uF9MmXrVbWw](https://www.youtube.com/watch?v=uF9MmXrVbWw)
+
 ## January 10th, 2023 Livestream
 * [Q&A: Any idea how high of a priority it is to fix the smoothness of driving on Foundations?](../../transcriptions/yt-4qgk0863g0Y.md) [https://www.youtube.com/watch?v=4qgk0863g0Y](https://www.youtube.com/watch?v=4qgk0863g0Y)
 

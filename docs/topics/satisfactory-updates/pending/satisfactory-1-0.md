@@ -5,6 +5,11 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Pending](../../../topics/satisfactory-updates/pending.md) > Satisfactory 1.0
 
+## February 7th, 2023 Livestream
+* [Q&A: How early does Coffee Stain Studios start thinking about what's next after Satisfactory 1.0?](../../../transcriptions/yt-3bYGyavB2Gs.md) [https://www.youtube.com/watch?v=3bYGyavB2Gs](https://www.youtube.com/watch?v=3bYGyavB2Gs)
+* [Q&A: Is there a release window for full release (1.0) ?](../../../transcriptions/yt-A8329yEox_A.md) [https://www.youtube.com/watch?v=A8329yEox_A](https://www.youtube.com/watch?v=A8329yEox_A)
+* [Q&A: Once 1.0 is out, will you make DLC/addons with new Maps?](../../../transcriptions/yt-PgerRnEylGY.md) [https://www.youtube.com/watch?v=PgerRnEylGY](https://www.youtube.com/watch?v=PgerRnEylGY)
+
 ## January 27th, 2023 Video
 * [Q&A: When does ChatGPT think Satisfactory will leave Early Access?](../../../transcriptions/yt-wBWmXDPDpL8,533.533,551.951.md) [https://youtube.com/clip/UgkxiAaDBlRuXHTyZQOXGu0pY76ZFEeS1Y2g](https://youtube.com/clip/UgkxiAaDBlRuXHTyZQOXGu0pY76ZFEeS1Y2g)
 

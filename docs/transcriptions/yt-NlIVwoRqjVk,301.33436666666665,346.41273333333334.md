@@ -9,7 +9,7 @@ topics:
 # [May 15th, 2020 Q&A](../2020-05-15.md)
 ## Q&A: Will there be Steam Cards and Achievements? Also do you intend to use Steam Workshop?
 https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=301&end=347
-This question was possibly duplicated with a more recent answer: [July 5th, 2022 Livestream Q&A: Will there be Achievements for 1.0?](./yt-DRVyx1w9oNc.md) [https://www.youtube.com/watch?v=DRVyx1w9oNc](https://www.youtube.com/watch?v=DRVyx1w9oNc)
+This question was possibly duplicated with a more recent answer: [February 7th, 2023 Livestream Q&A: Are you going to add Achievements?](./yt-bkjIZH7adWI.md) [https://www.youtube.com/watch?v=bkjIZH7adWI](https://www.youtube.com/watch?v=bkjIZH7adWI)
 
 
 ### Topics

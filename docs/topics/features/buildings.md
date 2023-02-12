@@ -28,6 +28,10 @@ date: Last Modified
 * [The HUB](../../topics/features/buildings/the-hub.md)
 * [Water Extractor](../../topics/features/buildings/water-extractor.md)
 
+## February 7th, 2023 Livestream
+* [Q&A: No resizing Machines to match Foundation sizes?](../../transcriptions/yt-E-wdAO5MXPM.md) [https://www.youtube.com/watch?v=E-wdAO5MXPM](https://www.youtube.com/watch?v=E-wdAO5MXPM)
+* [Q&A: What is considered "done" in-game?](../../transcriptions/yt-V_4l6tMcYn8.md) [https://www.youtube.com/watch?v=V_4l6tMcYn8](https://www.youtube.com/watch?v=V_4l6tMcYn8)
+
 ## January 24th, 2023 Livestream
 * [Q&A: Will we be able to mirror Refineries?](../../transcriptions/yt-WGJBDAO-6pk.md) [https://www.youtube.com/watch?v=WGJBDAO-6pk](https://www.youtube.com/watch?v=WGJBDAO-6pk)
 

@@ -10,7 +10,7 @@ topics:
 # [July 20th, 2021 Livestream](../2021-07-20.md)
 ## Q&A: Are you going to add more Buildings to make the game less Refinery-reliant?
 https://www.youtube.com/watch?v=Fp1WczBseIM
-This question was possibly duplicated with a more recent answer: [October 19th, 2021 Livestream Q&A: Any word on reducing the Refinery spam further?](./yt-FIsHFVHNdNU.md) [https://www.youtube.com/watch?v=FIsHFVHNdNU](https://www.youtube.com/watch?v=FIsHFVHNdNU)
+This question was possibly duplicated with a more recent answer: [February 7th, 2023 Livestream Q&A: Can we cut down a bit on the unspeakable machine name from Recipes in the end-game?](./yt-w6iM0Uigx24.md) [https://www.youtube.com/watch?v=w6iM0Uigx24](https://www.youtube.com/watch?v=w6iM0Uigx24)
 
 
 ### Topics

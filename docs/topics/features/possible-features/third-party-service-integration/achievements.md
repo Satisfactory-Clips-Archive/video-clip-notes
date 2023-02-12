@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > [Possible Features](../../../../topics/features/possible-features.md) > [Third-Party Service Integration](../../../../topics/features/possible-features/third-party-service-integration.md) > Achievements
 
+## February 7th, 2023 Livestream
+* [Q&A: Are you going to add Achievements?](../../../../transcriptions/yt-bkjIZH7adWI.md) [https://www.youtube.com/watch?v=bkjIZH7adWI](https://www.youtube.com/watch?v=bkjIZH7adWI)
+
 ## July 5th, 2022 Livestream
 * [Q&A: Will there be Achievements for 1.0?](../../../../transcriptions/yt-DRVyx1w9oNc.md) [https://www.youtube.com/watch?v=DRVyx1w9oNc](https://www.youtube.com/watch?v=DRVyx1w9oNc)
 

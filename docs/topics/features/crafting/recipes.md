@@ -6,6 +6,10 @@ date: Last Modified
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Crafting](../../../topics/features/crafting.md) > Recipes
 * [Alternate Recipes](../../../topics/features/crafting/recipes/alternate-recipes.md)
 
+## February 7th, 2023 Livestream
+* [Q&A: Do you have any thoughts on why Mk.3 Belts are so expensive compared to the others?](../../../transcriptions/yt-YM4bpOnf13w.md) [https://www.youtube.com/watch?v=YM4bpOnf13w](https://www.youtube.com/watch?v=YM4bpOnf13w)
+* [Q&A: Can we cut down a bit on the unspeakable machine name from Recipes in the end-game?](../../../transcriptions/yt-w6iM0Uigx24.md) [https://www.youtube.com/watch?v=w6iM0Uigx24](https://www.youtube.com/watch?v=w6iM0Uigx24)
+
 ## January 27th, 2023 Video
 * [Q&A: What does ChatGPT say in response to "How do I make HMF in Satisfactory?" ?](../../../transcriptions/yt-wBWmXDPDpL8,366.1658,533.5.md) [https://youtube.com/embed/wBWmXDPDpL8?autoplay=1&start=366&end=534](https://youtube.com/embed/wBWmXDPDpL8?autoplay=1&start=366&end=534)
 

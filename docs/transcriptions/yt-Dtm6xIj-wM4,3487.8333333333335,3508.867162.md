@@ -8,7 +8,7 @@ topics:
 # [February 6th, 2019 Livestream](../2019-02-06.md)
 ## Q&A: Any timeline on when the end game will be released?
 https://youtube.com/embed/Dtm6xIj-wM4?autoplay=1&start=3487&end=3509
-This question was possibly duplicated with a more recent answer: [January 17th, 2023 Livestream Q&A: 1.0 is 2023?](./yt-RzxU-GHuLNs.md) [https://www.youtube.com/watch?v=RzxU-GHuLNs](https://www.youtube.com/watch?v=RzxU-GHuLNs)
+This question was possibly duplicated with a more recent answer: [February 7th, 2023 Livestream Q&A: Is there a release window for full release (1.0) ?](./yt-A8329yEox_A.md) [https://www.youtube.com/watch?v=A8329yEox_A](https://www.youtube.com/watch?v=A8329yEox_A)
 
 
 ### Topics

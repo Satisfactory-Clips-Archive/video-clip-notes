@@ -26,6 +26,11 @@ date: Last Modified
 * [Vilsol](../topics/community/vilsol.md)
 * [Wiki](../topics/community/wiki.md)
 
+## February 7th, 2023 Livestream
+* [Q&A: Were you surprised at how interested the Community was at the ChatGPT Underwater suggestion?](../transcriptions/yt-0c-C0ZJtt2M.md) [https://www.youtube.com/watch?v=0c-C0ZJtt2M](https://www.youtube.com/watch?v=0c-C0ZJtt2M)
+* [Q&A: Why do you have unique chat mode on?](../transcriptions/yt-Wsj0Gxh2prQ.md) [https://www.youtube.com/watch?v=Wsj0Gxh2prQ](https://www.youtube.com/watch?v=Wsj0Gxh2prQ)
+* [Q&A: When is Satisfactory e-sports coming?](../transcriptions/yt-yF9Kx1FaRnM.md) [https://www.youtube.com/watch?v=yF9Kx1FaRnM](https://www.youtube.com/watch?v=yF9Kx1FaRnM)
+
 ## January 27th, 2023 Video
 * [Thank for the response to last week's video!](../transcriptions/yt-wBWmXDPDpL8,1.8685333333333334,20.321695869502317.md) [https://youtube.com/clip/UgkxYTRXCvGRlpgvUF2jr_9O4yP3R0GxFrfk](https://youtube.com/clip/UgkxYTRXCvGRlpgvUF2jr_9O4yP3R0GxFrfk)
 

@@ -14,6 +14,10 @@ date: Last Modified
 * [Steel](../../topics/environment/resources/steel.md)
 * [Water](../../topics/environment/resources/water.md)
 
+## February 7th, 2023 Livestream
+* [Q&A: Any plans to get nodes to align with the global grid?](../../transcriptions/yt-f_oRf-E5wd0.md) [https://www.youtube.com/watch?v=f_oRf-E5wd0](https://www.youtube.com/watch?v=f_oRf-E5wd0)
+* [Q&A: Could you give some info about the revamp of the Creature remains?](../../transcriptions/yt-llJeyL1axW8.md) [https://www.youtube.com/watch?v=llJeyL1axW8](https://www.youtube.com/watch?v=llJeyL1axW8)
+
 ## January 27th, 2023 Video
 * [Q&A: What does ChatGPT say in response to "How do I make HMF in Satisfactory?" ?](../../transcriptions/yt-wBWmXDPDpL8,366.1658,533.5.md) [https://youtube.com/embed/wBWmXDPDpL8?autoplay=1&start=366&end=534](https://youtube.com/embed/wBWmXDPDpL8?autoplay=1&start=366&end=534)
 * [ChatGPT wants Resource shortages and Alien Invasions](../../transcriptions/yt-wBWmXDPDpL8,829.629665,848.8813666666667.md) [https://youtube.com/clip/UgkxDa9SaX1W5C2FMTJuvEKLAXokPY3ja_PG](https://youtube.com/clip/UgkxDa9SaX1W5C2FMTJuvEKLAXokPY3ja_PG)

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Unplanned Features](../../../topics/features/unplanned-features.md) > Aerial Travel
 
+## February 7th, 2023 Livestream
+* [Q&A: Wing-suit, when?](../../../transcriptions/yt-jhcfDlqQ4IY.md) [https://www.youtube.com/watch?v=jhcfDlqQ4IY](https://www.youtube.com/watch?v=jhcfDlqQ4IY)
+
 ## January 10th, 2023 Livestream
 * [Q&A: How do you feel about adding a VTOL Jet to the game?](../../../transcriptions/yt-XlV8HEygHE0.md) [https://www.youtube.com/watch?v=XlV8HEygHE0](https://www.youtube.com/watch?v=XlV8HEygHE0)
 

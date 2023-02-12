@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > Refinery
 
+## February 7th, 2023 Livestream
+* [Q&A: Can we cut down a bit on the unspeakable machine name from Recipes in the end-game?](../../../transcriptions/yt-w6iM0Uigx24.md) [https://www.youtube.com/watch?v=w6iM0Uigx24](https://www.youtube.com/watch?v=w6iM0Uigx24)
+
 ## January 24th, 2023 Livestream
 * [Q&A: Will we be able to mirror Refineries?](../../../transcriptions/yt-WGJBDAO-6pk.md) [https://www.youtube.com/watch?v=WGJBDAO-6pk](https://www.youtube.com/watch?v=WGJBDAO-6pk)
 

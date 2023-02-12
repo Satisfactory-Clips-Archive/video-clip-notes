@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Coffee Stainers](../../../topics/coffee-stainers.md) > [Jace](../../../topics/coffee-stainers/jace.md) > Jace Art
 
+## February 7th, 2023 Livestream
+* [Q&A: Where can we get those hoodies?](../../../transcriptions/yt-23z3P8T_vks.md) [https://www.youtube.com/watch?v=23z3P8T_vks](https://www.youtube.com/watch?v=23z3P8T_vks)
+
 ## January 17th, 2023 Livestream
 * [Q&A: When can we expect some more Paint Jace Art?](../../../transcriptions/yt-UkmJW85GIC8.md) [https://www.youtube.com/watch?v=UkmJW85GIC8](https://www.youtube.com/watch?v=UkmJW85GIC8)
 

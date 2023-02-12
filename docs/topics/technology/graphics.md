@@ -9,6 +9,9 @@ date: Last Modified
 * [Ray Tracing](../../topics/technology/graphics/ray-tracing.md)
 * [Ultrawide Monitors](../../topics/technology/graphics/ultrawide-monitors.md)
 
+## February 7th, 2023 Livestream
+* [Q&A: Anyone else would want to have Foundations with the same texture all the way around?](../../transcriptions/yt-H9umBnVgXJM.md) [https://www.youtube.com/watch?v=H9umBnVgXJM](https://www.youtube.com/watch?v=H9umBnVgXJM)
+
 ## January 31st, 2023 Livestream
 * [Q&A: Flickering with shadows?](../../transcriptions/yt-R8AS9Wxf-pQ.md) [https://www.youtube.com/watch?v=R8AS9Wxf-pQ](https://www.youtube.com/watch?v=R8AS9Wxf-pQ)
 

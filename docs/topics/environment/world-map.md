@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Environment](../../topics/environment.md) > World Map
 
+## February 7th, 2023 Livestream
+* [Q&A: Once 1.0 is out, will you make DLC/addons with new Maps?](../../transcriptions/yt-PgerRnEylGY.md) [https://www.youtube.com/watch?v=PgerRnEylGY](https://www.youtube.com/watch?v=PgerRnEylGY)
+
 ## November 1st, 2022 Livestream
 * [Q&A: Add more Maps in future?](../../transcriptions/yt-bIbXx0QfIbc.md) [https://www.youtube.com/watch?v=bIbXx0QfIbc](https://www.youtube.com/watch?v=bIbXx0QfIbc)
 

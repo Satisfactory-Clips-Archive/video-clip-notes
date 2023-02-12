@@ -9,6 +9,9 @@ date: Last Modified
 * [GeForce Now](../topics/retail/geforce-now.md)
 * [Steam Store](../topics/retail/steam-store.md)
 
+## February 7th, 2023 Livestream
+* [Intro / State of Dev](../transcriptions/yt-05yuCDfceu4.md) [https://www.youtube.com/watch?v=05yuCDfceu4](https://www.youtube.com/watch?v=05yuCDfceu4)
+
 ## January 31st, 2023 Livestream
 * [Q&A: Is Satsifactory always going to be family-friendly?](../transcriptions/yt-tKuXbGH4-iY.md) [https://www.youtube.com/watch?v=tKuXbGH4-iY](https://www.youtube.com/watch?v=tKuXbGH4-iY)
 

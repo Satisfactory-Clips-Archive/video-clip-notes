@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Community](../../topics/community.md) > Josh
 
+## February 7th, 2023 Livestream
+* [Community FYI: I learned it all from Let's Game It Out](../../transcriptions/yt-uiPtSIgHctk.md) [https://www.youtube.com/watch?v=uiPtSIgHctk](https://www.youtube.com/watch?v=uiPtSIgHctk)
+
 ## December 20th, 2022 Livestream
 * [Q&A: When Let's Game It Out does a Satisfactory video, what are your thoughts?](../../transcriptions/yt-uIFUBWlT9gs.md) [https://www.youtube.com/watch?v=uIFUBWlT9gs](https://www.youtube.com/watch?v=uIFUBWlT9gs)
 

@@ -8,6 +8,9 @@ date: Last Modified
 * [Gearbox Software](../topics/embracer-group/gearbox-software.md)
 * [THQ Nordic](../topics/embracer-group/thq-nordic.md)
 
+## February 7th, 2023 Livestream
+* [Q&A: Who is Coffee Stain Publishing](../transcriptions/yt-hx5tNE4nZcM.md) [https://www.youtube.com/watch?v=hx5tNE4nZcM](https://www.youtube.com/watch?v=hx5tNE4nZcM)
+
 ## August 17th, 2021 Livestream
 * [Q&A: Can you confirm Coffee Stain is part of THQ/Embracer Group](../transcriptions/yt-xwK1JN5-k_o.md) [https://www.youtube.com/watch?v=xwK1JN5-k_o](https://www.youtube.com/watch?v=xwK1JN5-k_o)
 

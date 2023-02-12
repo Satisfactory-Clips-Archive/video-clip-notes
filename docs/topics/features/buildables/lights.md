@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildables](../../../topics/features/buildables.md) > Lights
 
+## February 7th, 2023 Livestream
+* [Q&A: Any more Lights planned?](../../../transcriptions/yt-OwwyjzKfDSQ.md) [https://www.youtube.com/watch?v=OwwyjzKfDSQ](https://www.youtube.com/watch?v=OwwyjzKfDSQ)
+
 ## November 22nd, 2022 Livestream
 * [Q&A: Is there a way to turn off or on Train headlights?](../../../transcriptions/yt-7FcFaZrlv2c.md) [https://www.youtube.com/watch?v=7FcFaZrlv2c](https://www.youtube.com/watch?v=7FcFaZrlv2c)
 

@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > QA Site
 
+## February 7th, 2023 Livestream
+* [Intro / State of Dev](../transcriptions/yt-05yuCDfceu4.md) [https://www.youtube.com/watch?v=05yuCDfceu4](https://www.youtube.com/watch?v=05yuCDfceu4)
+* [Q&A: Can we ask for the next game after Satisfactory on the QA Site?](../transcriptions/yt-ccnVx6a3P2A.md) [https://www.youtube.com/watch?v=ccnVx6a3P2A](https://www.youtube.com/watch?v=ccnVx6a3P2A)
+
 ## January 31st, 2023 Livestream
 * [Snutt & Jace Talk: Update on the QA Site](../transcriptions/yt-_hPRba1nFf0.md) [https://www.youtube.com/watch?v=_hPRba1nFf0](https://www.youtube.com/watch?v=_hPRba1nFf0)
 * [Q&A: What's the best channel to send recommendations through?](../transcriptions/yt-n7XEwlSc1GY.md) [https://www.youtube.com/watch?v=n7XEwlSc1GY](https://www.youtube.com/watch?v=n7XEwlSc1GY)

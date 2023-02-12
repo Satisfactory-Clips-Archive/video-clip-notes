@@ -12,6 +12,10 @@ date: Last Modified
 * [Weather Systems](../topics/environment/weather-systems.md)
 * [World Map](../topics/environment/world-map.md)
 
+## February 7th, 2023 Livestream
+* [Q&A: Can we have quantum teleportation & Conveyor hubs so we can have nature looking natural?](../transcriptions/yt-UAXTRI-tkXc.md) [https://www.youtube.com/watch?v=UAXTRI-tkXc](https://www.youtube.com/watch?v=UAXTRI-tkXc)
+* [Q&A: Did you address the unobtainable Power Slugs?](../transcriptions/yt-ZPrrJcVaAgI.md) [https://www.youtube.com/watch?v=ZPrrJcVaAgI](https://www.youtube.com/watch?v=ZPrrJcVaAgI)
+
 ## January 17th, 2023 Livestream
 * [Q&A: Can we have a telescope to look at the newly-added celestial bodies?](../transcriptions/yt-6uYltuXykY0.md) [https://www.youtube.com/watch?v=6uYltuXykY0](https://www.youtube.com/watch?v=6uYltuXykY0)
 * [Q&A: Are you still adding Ben's Water changes?](../transcriptions/yt-TQywXXECQ6g.md) [https://www.youtube.com/watch?v=TQywXXECQ6g](https://www.youtube.com/watch?v=TQywXXECQ6g)

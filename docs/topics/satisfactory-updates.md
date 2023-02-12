@@ -18,6 +18,10 @@ date: Last Modified
 * [Teasers & Trailers](../topics/satisfactory-updates/teasers-and-trailers.md)
 * [World Update](../topics/satisfactory-updates/world-update.md)
 
+## February 7th, 2023 Livestream
+* [Snutt & Jace Talk: Player model](../transcriptions/yt-2SkxYotzYfI.md) [https://www.youtube.com/watch?v=2SkxYotzYfI](https://www.youtube.com/watch?v=2SkxYotzYfI)
+* [Q&A: Did you address the unobtainable Power Slugs?](../transcriptions/yt-ZPrrJcVaAgI.md) [https://www.youtube.com/watch?v=ZPrrJcVaAgI](https://www.youtube.com/watch?v=ZPrrJcVaAgI)
+
 ## January 31st, 2023 Livestream
 * [Intro / State of Dev](../transcriptions/yt-2f-FAGVRFY4.md) [https://www.youtube.com/watch?v=2f-FAGVRFY4](https://www.youtube.com/watch?v=2f-FAGVRFY4)
 * [Q&A: When are we going to see more bugfixes?](../transcriptions/yt-Au89DPcMCZo.md) [https://www.youtube.com/watch?v=Au89DPcMCZo](https://www.youtube.com/watch?v=Au89DPcMCZo)

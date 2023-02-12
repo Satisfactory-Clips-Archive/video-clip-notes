@@ -3,7 +3,10 @@ title: "Lavapotion"
 external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEptX96QtBua2K2IhL4SbwWv
 date: Last Modified
 ---
-# [Topics](../../../topics.md) > [Embracer Group](../../../topics/embracer-group.md) > Coffee Stain Holding > Lavapotion
+# [Topics](../../../topics.md) > [Embracer Group](../../../topics/embracer-group.md) > [Coffee Stain Holding](../../../topics/embracer-group/coffee-stain-holding.md) > Lavapotion
+
+## February 7th, 2023 Livestream
+* [Q&A: Who is Coffee Stain Publishing](../../../transcriptions/yt-hx5tNE4nZcM.md) [https://www.youtube.com/watch?v=hx5tNE4nZcM](https://www.youtube.com/watch?v=hx5tNE4nZcM)
 
 ## July 12th, 2022 Livestream
 * [Q&A: Why is Coffee Stain Studios actually multiple studios?](../../../transcriptions/yt-cBaieySbHAk.md) [https://www.youtube.com/watch?v=cBaieySbHAk](https://www.youtube.com/watch?v=cBaieySbHAk)

@@ -5,6 +5,12 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Speculative > Satisfactory Update 8
 
+## February 7th, 2023 Livestream
+* [Intro / State of Dev](../../../transcriptions/yt-05yuCDfceu4.md) [https://www.youtube.com/watch?v=05yuCDfceu4](https://www.youtube.com/watch?v=05yuCDfceu4)
+* [Q&A: Is there a release window for full release (1.0) ?](../../../transcriptions/yt-A8329yEox_A.md) [https://www.youtube.com/watch?v=A8329yEox_A](https://www.youtube.com/watch?v=A8329yEox_A)
+* [Q&A: Will Update 8 come with an Engine update?](../../../transcriptions/yt-fWstFh27K-8.md) [https://www.youtube.com/watch?v=fWstFh27K-8](https://www.youtube.com/watch?v=fWstFh27K-8)
+* [Q&A: Will there be Map changes in Update 8?](../../../transcriptions/yt-guEuZBJWV3s.md) [https://www.youtube.com/watch?v=guEuZBJWV3s](https://www.youtube.com/watch?v=guEuZBJWV3s)
+
 ## January 31st, 2023 Livestream
 * [Q&A: Timeframe for Update 8?](../../../transcriptions/yt-JX-sTD_N_vE.md) [https://www.youtube.com/watch?v=JX-sTD_N_vE](https://www.youtube.com/watch?v=JX-sTD_N_vE)
 * [Q&A: How to prepare our factories for Update 8?](../../../transcriptions/yt-xtqTti8q06U.md) [https://www.youtube.com/watch?v=xtqTti8q06U](https://www.youtube.com/watch?v=xtqTti8q06U)

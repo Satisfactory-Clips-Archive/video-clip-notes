@@ -88,7 +88,7 @@ date: Last Modified
 # [Embracer Group](./topics/embracer-group.md)
 * [Gearbox Software](./topics/embracer-group/gearbox-software.md)
 
-## Coffee Stain Holding
+## [Coffee Stain Holding](./topics/embracer-group/coffee-stain-holding.md)
 * [Coffee Stain Malmö](./topics/embracer-group/coffee-stain-holding/coffee-stain-malmo.md)
 * [Coffee Stain North](./topics/embracer-group/coffee-stain-holding/coffee-stain-north.md)
 * [Coffee Stain Publishing](./topics/embracer-group/coffee-stain-holding/coffee-stain-publishing.md)

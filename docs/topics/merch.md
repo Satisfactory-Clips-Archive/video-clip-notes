@@ -7,6 +7,9 @@ date: Last Modified
 * [EU Merch Store](../topics/merch/eu-merch-store.md)
 * [Merch Prototypes](../topics/merch/merch-prototypes.md)
 
+## February 7th, 2023 Livestream
+* [Q&A: Where can we get those hoodies?](../transcriptions/yt-23z3P8T_vks.md) [https://www.youtube.com/watch?v=23z3P8T_vks](https://www.youtube.com/watch?v=23z3P8T_vks)
+
 ## January 24th, 2023 Livestream
 * [Snutt & Jace Talk: Bugs in Satisfactory](../transcriptions/yt-OGoBA42DrIM.md) [https://www.youtube.com/watch?v=OGoBA42DrIM](https://www.youtube.com/watch?v=OGoBA42DrIM)
 

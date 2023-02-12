@@ -8,7 +8,7 @@ topics:
 # [June 14th, 2022 Livestream](../2022-06-14.md)
 ## Q&A: Will you add Achievements?
 https://youtube.com/embed/Z6bo0pjYghk?autoplay=1&start=5794&end=5808
-This question was possibly duplicated with a more recent answer: [July 5th, 2022 Livestream Q&A: Will there be Achievements for 1.0?](./yt-DRVyx1w9oNc.md) [https://www.youtube.com/watch?v=DRVyx1w9oNc](https://www.youtube.com/watch?v=DRVyx1w9oNc)
+This question was possibly duplicated with a more recent answer: [February 7th, 2023 Livestream Q&A: Are you going to add Achievements?](./yt-bkjIZH7adWI.md) [https://www.youtube.com/watch?v=bkjIZH7adWI](https://www.youtube.com/watch?v=bkjIZH7adWI)
 
 
 ### Topics

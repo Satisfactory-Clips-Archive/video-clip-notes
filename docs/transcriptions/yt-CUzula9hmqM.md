@@ -8,7 +8,7 @@ topics:
 # [December 7th, 2021 Livestream](../2021-12-07.md)
 ## Q&A: When do you feel like you'll be at a point to say "this is a finished game"?
 https://www.youtube.com/watch?v=CUzula9hmqM
-This question was possibly duplicated with a more recent answer: [June 28th, 2022 Livestream Q&A: How finished is the game in percentage?](./yt-LvylFE87PO8.md) [https://www.youtube.com/watch?v=LvylFE87PO8](https://www.youtube.com/watch?v=LvylFE87PO8)
+This question was possibly duplicated with a more recent answer: [February 7th, 2023 Livestream Q&A: What is considered "done" in-game?](./yt-V_4l6tMcYn8.md) [https://www.youtube.com/watch?v=V_4l6tMcYn8](https://www.youtube.com/watch?v=V_4l6tMcYn8)
 
 
 ### Topics

@@ -8,7 +8,7 @@ topics:
 # [December 20th, 2022 Livestream](../2022-12-20.md)
 ## Q&A: 1.0 any time soon?
 https://www.youtube.com/watch?v=GnRQZd-souo
-This question was possibly duplicated with a more recent answer: [January 17th, 2023 Livestream Q&A: 1.0 is 2023?](./yt-RzxU-GHuLNs.md) [https://www.youtube.com/watch?v=RzxU-GHuLNs](https://www.youtube.com/watch?v=RzxU-GHuLNs)
+This question was possibly duplicated with a more recent answer: [February 7th, 2023 Livestream Q&A: Is there a release window for full release (1.0) ?](./yt-A8329yEox_A.md) [https://www.youtube.com/watch?v=A8329yEox_A](https://www.youtube.com/watch?v=A8329yEox_A)
 
 
 ### Topics

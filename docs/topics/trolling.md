@@ -5,6 +5,13 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Trolling
 
+## February 7th, 2023 Livestream
+* [Q&A: Can we have spectator mode in Multiplayer?](../transcriptions/yt-HXrzFU5nevI.md) [https://www.youtube.com/watch?v=HXrzFU5nevI](https://www.youtube.com/watch?v=HXrzFU5nevI)
+* [Q&A: Please add hotdogs to the game?](../transcriptions/yt-N4WyQOsTd7g.md) [https://www.youtube.com/watch?v=N4WyQOsTd7g](https://www.youtube.com/watch?v=N4WyQOsTd7g)
+* [Q&A: What's your favourite Conveyor Belt?](../transcriptions/yt-NYUTjvvI7lY.md) [https://www.youtube.com/watch?v=NYUTjvvI7lY](https://www.youtube.com/watch?v=NYUTjvvI7lY)
+* [Q&A: Why do you have unique chat mode on?](../transcriptions/yt-Wsj0Gxh2prQ.md) [https://www.youtube.com/watch?v=Wsj0Gxh2prQ](https://www.youtube.com/watch?v=Wsj0Gxh2prQ)
+* [Community FYI: I learned it all from Let's Game It Out](../transcriptions/yt-uiPtSIgHctk.md) [https://www.youtube.com/watch?v=uiPtSIgHctk](https://www.youtube.com/watch?v=uiPtSIgHctk)
+
 ## January 31st, 2023 Livestream
 * [Intro / State of Dev](../transcriptions/yt-2f-FAGVRFY4.md) [https://www.youtube.com/watch?v=2f-FAGVRFY4](https://www.youtube.com/watch?v=2f-FAGVRFY4)
 * [Q&A: Is a beard required at Coffee Stain?](../transcriptions/yt-X4W00LiNCnY.md) [https://www.youtube.com/watch?v=X4W00LiNCnY](https://www.youtube.com/watch?v=X4W00LiNCnY)
