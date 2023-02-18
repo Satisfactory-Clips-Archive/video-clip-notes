@@ -8,6 +8,9 @@ date: Last Modified
 * [Skövde](../../topics/off-topic/sweden/skovde.md)
 * [Stockholm](../../topics/off-topic/sweden/stockholm.md)
 
+## February 14th, 2023 Livestream
+* [Q&A: Is it really cold where you are, Jace?](../../transcriptions/yt-heRhgnICgDc.md) [https://www.youtube.com/watch?v=heRhgnICgDc](https://www.youtube.com/watch?v=heRhgnICgDc)
+
 ## December 13th, 2022 Livestream
 * [Q&A: Could you add a tea alternative to the Coffee Mug?](../../transcriptions/yt--aoKEMcw0_o.md) [https://www.youtube.com/watch?v=-aoKEMcw0_o](https://www.youtube.com/watch?v=-aoKEMcw0_o)
 

@@ -10,6 +10,10 @@ date: Last Modified
 * [Juice Velvet](../../topics/coffee-stainers/jace/juice-velvet.md)
 * [Robo Jace](../../topics/coffee-stainers/jace/robo-jace.md)
 
+## February 14th, 2023 Livestream
+* [Q&A: We need Green Tech, make solar panels?](../../transcriptions/yt-F3dP0iAdf_g.md) [https://www.youtube.com/watch?v=F3dP0iAdf_g](https://www.youtube.com/watch?v=F3dP0iAdf_g)
+* [Q&A: Is it really cold where you are, Jace?](../../transcriptions/yt-heRhgnICgDc.md) [https://www.youtube.com/watch?v=heRhgnICgDc](https://www.youtube.com/watch?v=heRhgnICgDc)
+
 ## February 10th, 2023 Video
 * [Intro](../../transcriptions/yt-4acDdsEM1Uc,0,51.44.md) [https://youtube.com/clip/UgkxoN_LF-CgPHIbqLx8xN71pHsZfFHYYun_](https://youtube.com/clip/UgkxoN_LF-CgPHIbqLx8xN71pHsZfFHYYun_)
 * [Q&A: Do we really need this many Community Managers?](../../transcriptions/yt-4acDdsEM1Uc,57.32,80.48.md) [https://youtube.com/clip/Ugkx5zRywosqqTKj0YP-ixxr9TYm1e2QuZIs](https://youtube.com/clip/Ugkx5zRywosqqTKj0YP-ixxr9TYm1e2QuZIs)

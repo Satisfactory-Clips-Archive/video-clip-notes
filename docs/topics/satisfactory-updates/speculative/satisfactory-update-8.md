@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > Speculative > Satisfactory Update 8
 
+## February 14th, 2023 Livestream
+* [Intro / State of Dev](../../../transcriptions/yt-Rh3fnKc4WfY.md) [https://www.youtube.com/watch?v=Rh3fnKc4WfY](https://www.youtube.com/watch?v=Rh3fnKc4WfY)
+* [Q&A: Can you tell us when you plan on giving us a date for Update 8?](../../../transcriptions/yt-hha5efOML7Q.md) [https://www.youtube.com/watch?v=hha5efOML7Q](https://www.youtube.com/watch?v=hha5efOML7Q)
+
 ## February 7th, 2023 Livestream
 * [Intro / State of Dev](../../../transcriptions/yt-05yuCDfceu4.md) [https://www.youtube.com/watch?v=05yuCDfceu4](https://www.youtube.com/watch?v=05yuCDfceu4)
 * [Q&A: Is there a release window for full release (1.0) ?](../../../transcriptions/yt-A8329yEox_A.md) [https://www.youtube.com/watch?v=A8329yEox_A](https://www.youtube.com/watch?v=A8329yEox_A)

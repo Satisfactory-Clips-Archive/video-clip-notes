@@ -9,7 +9,7 @@ topics:
 # [August 25th, 2020 Livestream](../2020-08-25.md)
 ## Q&A: Why are there no Solar Panels ?
 https://www.youtube.com/watch?v=C1XaJJmvg1M
-This question was possibly duplicated with a more recent answer: [November 2nd, 2021 Livestream Q&A: Solar, when?](./yt-b2ipv5TjTe8.md) [https://www.youtube.com/watch?v=b2ipv5TjTe8](https://www.youtube.com/watch?v=b2ipv5TjTe8)
+This question was possibly duplicated with a more recent answer: [February 14th, 2023 Livestream Q&A: We need Green Tech, make solar panels?](./yt-F3dP0iAdf_g.md) [https://www.youtube.com/watch?v=F3dP0iAdf_g](https://www.youtube.com/watch?v=F3dP0iAdf_g)
 
 
 ### Topics

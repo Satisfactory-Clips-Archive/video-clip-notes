@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Features](../../topics/features.md) > Blueprints
 
+## February 14th, 2023 Livestream
+* [Intro / State of Dev](../../transcriptions/yt-Rh3fnKc4WfY.md) [https://www.youtube.com/watch?v=Rh3fnKc4WfY](https://www.youtube.com/watch?v=Rh3fnKc4WfY)
+* [Q&A: Still hoping for Blueprints saved in Cloud Sync for GeForce Now use](../../transcriptions/yt-aoxHEmPlBcg.md) [https://www.youtube.com/watch?v=aoxHEmPlBcg](https://www.youtube.com/watch?v=aoxHEmPlBcg)
+
 ## January 31st, 2023 Livestream
 * [Intro / State of Dev](../../transcriptions/yt-2f-FAGVRFY4.md) [https://www.youtube.com/watch?v=2f-FAGVRFY4](https://www.youtube.com/watch?v=2f-FAGVRFY4)
 * [Q&A: Thoughts on Blueprint undo?](../../transcriptions/yt-F_u-dKrP9Bs.md) [https://www.youtube.com/watch?v=F_u-dKrP9Bs](https://www.youtube.com/watch?v=F_u-dKrP9Bs)

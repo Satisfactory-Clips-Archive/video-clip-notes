@@ -10,7 +10,7 @@ topics:
 # [September 28th, 2021 Livestream](../2021-09-28.md)
 ## Q&A: Are randomised Ore node spawns still on the table in the future?
 https://www.youtube.com/watch?v=XNZVUKgcCmI
-This question was possibly duplicated with a more recent answer: [December 20th, 2022 Livestream Q&A: Any plans for randomised Ore locations?](./yt-tLvqeGb5HIA.md) [https://www.youtube.com/watch?v=tLvqeGb5HIA](https://www.youtube.com/watch?v=tLvqeGb5HIA)
+This question was possibly duplicated with a more recent answer: [February 14th, 2023 Livestream Q&A: Is it even possible to fully randomise Resource nodes on the map?](./yt-DCgkVgcxTuA.md) [https://www.youtube.com/watch?v=DCgkVgcxTuA](https://www.youtube.com/watch?v=DCgkVgcxTuA)
 
 
 ### Topics

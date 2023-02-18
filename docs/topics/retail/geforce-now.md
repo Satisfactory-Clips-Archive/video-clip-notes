@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Retail](../../topics/retail.md) > GeForce Now
 
+## February 14th, 2023 Livestream
+* [Q&A: Still hoping for Blueprints saved in Cloud Sync for GeForce Now use](../../transcriptions/yt-aoxHEmPlBcg.md) [https://www.youtube.com/watch?v=aoxHEmPlBcg](https://www.youtube.com/watch?v=aoxHEmPlBcg)
+
 ## December 6th, 2022 Livestream
 * Q&A: Will Blueprints work on GeForce Now? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6239&end=6280](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6239&end=6280)
 

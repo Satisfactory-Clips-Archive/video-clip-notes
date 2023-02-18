@@ -9,7 +9,7 @@ topics:
 # [January 22nd, 2020 Livestream](../2020-01-22.md)
 ## Q&A: Will Gas Masks be working when you sit in vehicles?
 https://www.youtube.com/watch?v=qcOfYoEbhVI
-This question was possibly duplicated with a more recent answer: [May 24th, 2022 Livestream Q&A: Will Mask & Hazmat suit work while driving?](./yt-itoJOUojUJo.md) [https://www.youtube.com/watch?v=itoJOUojUJo](https://www.youtube.com/watch?v=itoJOUojUJo)
+This question was possibly duplicated with a more recent answer: [February 14th, 2023 Livestream Q&A: Why does Gas Mask stop working when in Truck?](./yt-_e4CazslQSo.md) [https://www.youtube.com/watch?v=_e4CazslQSo](https://www.youtube.com/watch?v=_e4CazslQSo)
 
 
 ### Topics

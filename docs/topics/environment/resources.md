@@ -14,6 +14,9 @@ date: Last Modified
 * [Steel](../../topics/environment/resources/steel.md)
 * [Water](../../topics/environment/resources/water.md)
 
+## February 14th, 2023 Livestream
+* [Q&A: Is it even possible to fully randomise Resource nodes on the map?](../../transcriptions/yt-DCgkVgcxTuA.md) [https://www.youtube.com/watch?v=DCgkVgcxTuA](https://www.youtube.com/watch?v=DCgkVgcxTuA)
+
 ## February 7th, 2023 Livestream
 * [Q&A: Any plans to get nodes to align with the global grid?](../../transcriptions/yt-f_oRf-E5wd0.md) [https://www.youtube.com/watch?v=f_oRf-E5wd0](https://www.youtube.com/watch?v=f_oRf-E5wd0)
 * [Q&A: Could you give some info about the revamp of the Creature remains?](../../transcriptions/yt-llJeyL1axW8.md) [https://www.youtube.com/watch?v=llJeyL1axW8](https://www.youtube.com/watch?v=llJeyL1axW8)

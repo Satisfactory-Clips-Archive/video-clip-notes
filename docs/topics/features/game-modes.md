@@ -7,6 +7,11 @@ date: Last Modified
 * [Creative Mode](../../topics/features/game-modes/creative-mode.md)
 * [Peaceful Mode](../../topics/features/game-modes/peaceful-mode.md)
 
+## February 14th, 2023 Livestream
+* [Q&A: Is it even possible to fully randomise Resource nodes on the map?](../../transcriptions/yt-DCgkVgcxTuA.md) [https://www.youtube.com/watch?v=DCgkVgcxTuA](https://www.youtube.com/watch?v=DCgkVgcxTuA)
+* [Q&A: Will there be a Hardcore Mode?](../../transcriptions/yt-MA-7LFV-F1U.md) [https://www.youtube.com/watch?v=MA-7LFV-F1U](https://www.youtube.com/watch?v=MA-7LFV-F1U)
+* [Q&A: Please make a main Game Mode where the monsters are much more aggressive?](../../transcriptions/yt-lL-oo-BWQXg.md) [https://www.youtube.com/watch?v=lL-oo-BWQXg](https://www.youtube.com/watch?v=lL-oo-BWQXg)
+
 ## February 7th, 2023 Livestream
 * [Q&A: Any plans for growing danger in the game?](../../transcriptions/yt--uANI-vayGE.md) [https://www.youtube.com/watch?v=-uANI-vayGE](https://www.youtube.com/watch?v=-uANI-vayGE)
 

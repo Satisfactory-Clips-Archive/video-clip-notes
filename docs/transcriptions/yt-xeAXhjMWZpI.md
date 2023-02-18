@@ -9,7 +9,7 @@ topics:
 # [November 3rd, 2020 Livestream](../2020-11-03.md)
 ## Q&A: Is it going to be possible to create randomly generated Resources on the Map?
 https://www.youtube.com/watch?v=xeAXhjMWZpI
-This question was possibly duplicated with a more recent answer: [December 20th, 2022 Livestream Q&A: Any plans for randomised Ore locations?](./yt-tLvqeGb5HIA.md) [https://www.youtube.com/watch?v=tLvqeGb5HIA](https://www.youtube.com/watch?v=tLvqeGb5HIA)
+This question was possibly duplicated with a more recent answer: [February 14th, 2023 Livestream Q&A: Is it even possible to fully randomise Resource nodes on the map?](./yt-DCgkVgcxTuA.md) [https://www.youtube.com/watch?v=DCgkVgcxTuA](https://www.youtube.com/watch?v=DCgkVgcxTuA)
 
 
 ### Topics

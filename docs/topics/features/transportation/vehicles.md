@@ -12,6 +12,9 @@ date: Last Modified
 * [Tractor](../../../topics/features/transportation/vehicles/tractor.md)
 * [Truck](../../../topics/features/transportation/vehicles/truck.md)
 
+## February 14th, 2023 Livestream
+* [Q&A: Why does Gas Mask stop working when in Truck?](../../../transcriptions/yt-_e4CazslQSo.md) [https://www.youtube.com/watch?v=_e4CazslQSo](https://www.youtube.com/watch?v=_e4CazslQSo)
+
 ## January 24th, 2023 Livestream
 * [Snutt & Jace Talk: Roads as vanilla feature](../../../transcriptions/yt-DmcobW9AiTs.md) [https://www.youtube.com/watch?v=DmcobW9AiTs](https://www.youtube.com/watch?v=DmcobW9AiTs)
 * [Q&A: Why do Vehicles have HP bars, nothing damages them?](../../../transcriptions/yt-ST8k-CrhLk4.md) [https://www.youtube.com/watch?v=ST8k-CrhLk4](https://www.youtube.com/watch?v=ST8k-CrhLk4)

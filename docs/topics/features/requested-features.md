@@ -10,6 +10,18 @@ date: Last Modified
 * [Pollution](../../topics/features/requested-features/pollution.md)
 * [Third-person View](../../topics/features/requested-features/third-person-view.md)
 
+## February 14th, 2023 Livestream
+* [Q&A: Can we tame or pet other fauna than the Lizard Doggo, like the Bean or an Elite Stinger?](../../transcriptions/yt-0VbY1e0kPUI.md) [https://www.youtube.com/watch?v=0VbY1e0kPUI](https://www.youtube.com/watch?v=0VbY1e0kPUI)
+* [Q&A: Will there be further improvements to the game?](../../transcriptions/yt-6EVy7srKVDQ.md) [https://www.youtube.com/watch?v=6EVy7srKVDQ](https://www.youtube.com/watch?v=6EVy7srKVDQ)
+* [Q&A: Is it even possible to fully randomise Resource nodes on the map?](../../transcriptions/yt-DCgkVgcxTuA.md) [https://www.youtube.com/watch?v=DCgkVgcxTuA](https://www.youtube.com/watch?v=DCgkVgcxTuA)
+* [Q&A: ETA on fixes for Dedicated Servers?](../../transcriptions/yt-I_ZyhORDZjg.md) [https://www.youtube.com/watch?v=I_ZyhORDZjg](https://www.youtube.com/watch?v=I_ZyhORDZjg)
+* [Q&A: Any plans to extend the Blueprint Designer to be bigger than 4x4?](../../transcriptions/yt-KcwFoQZWFmA.md) [https://www.youtube.com/watch?v=KcwFoQZWFmA](https://www.youtube.com/watch?v=KcwFoQZWFmA)
+* [Q&A: Will there be a Hardcore Mode?](../../transcriptions/yt-MA-7LFV-F1U.md) [https://www.youtube.com/watch?v=MA-7LFV-F1U](https://www.youtube.com/watch?v=MA-7LFV-F1U)
+* [Q&A: Smart Splitters or Sinks for Fluids?](../../transcriptions/yt-VzPdwAWnbLE.md) [https://www.youtube.com/watch?v=VzPdwAWnbLE](https://www.youtube.com/watch?v=VzPdwAWnbLE)
+* [Q&A: Why does Gas Mask stop working when in Truck?](../../transcriptions/yt-_e4CazslQSo.md) [https://www.youtube.com/watch?v=_e4CazslQSo](https://www.youtube.com/watch?v=_e4CazslQSo)
+* [Q&A: Still hoping for Blueprints saved in Cloud Sync for GeForce Now use](../../transcriptions/yt-aoxHEmPlBcg.md) [https://www.youtube.com/watch?v=aoxHEmPlBcg](https://www.youtube.com/watch?v=aoxHEmPlBcg)
+* [Q&A: Any chance we could get the ability to manually add items into the AWESOME Sink?](../../transcriptions/yt-br-JuxCZfHA.md) [https://www.youtube.com/watch?v=br-JuxCZfHA](https://www.youtube.com/watch?v=br-JuxCZfHA)
+
 ## February 7th, 2023 Livestream
 * [Q&A: Anyone else would want to have Foundations with the same texture all the way around?](../../transcriptions/yt-H9umBnVgXJM.md) [https://www.youtube.com/watch?v=H9umBnVgXJM](https://www.youtube.com/watch?v=H9umBnVgXJM)
 * [Q&A: Can we have spectator mode in Multiplayer?](../../transcriptions/yt-HXrzFU5nevI.md) [https://www.youtube.com/watch?v=HXrzFU5nevI](https://www.youtube.com/watch?v=HXrzFU5nevI)

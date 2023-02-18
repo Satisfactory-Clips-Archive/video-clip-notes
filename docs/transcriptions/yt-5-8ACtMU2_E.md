@@ -9,7 +9,7 @@ topics:
 # [December 8th, 2020 Livestream](../2020-12-08.md)
 ## Q&A: Will there be any Base Defense?
 https://www.youtube.com/watch?v=5-8ACtMU2_E
-This question was possibly duplicated with a more recent answer: [November 22nd, 2022 Livestream Q&A: You said we're never getting Pipes yet we got Pipes. When are we getting Base Defense?](./yt-nYL4xlSiPpU.md) [https://www.youtube.com/watch?v=nYL4xlSiPpU](https://www.youtube.com/watch?v=nYL4xlSiPpU)
+This question was possibly duplicated with a more recent answer: [February 14th, 2023 Livestream Q&A: Please make a main Game Mode where the monsters are much more aggressive?](./yt-lL-oo-BWQXg.md) [https://www.youtube.com/watch?v=lL-oo-BWQXg](https://www.youtube.com/watch?v=lL-oo-BWQXg)
 
 
 ### Topics

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../../topics.md) > [Features](../../../../topics/features.md) > Transportation > [Vehicles](../../../../topics/features/transportation/vehicles.md) > Drones
 
+## February 14th, 2023 Livestream
+* [Q&A: We need Green Tech, make solar panels?](../../../../transcriptions/yt-F3dP0iAdf_g.md) [https://www.youtube.com/watch?v=F3dP0iAdf_g](https://www.youtube.com/watch?v=F3dP0iAdf_g)
+
 ## November 29th, 2022 Livestream
 * [Q&A: Will Pioneers ever be able to safely ride a Drone from Port to Port?](../../../../transcriptions/yt-eD9XfZcY7o0.md) [https://www.youtube.com/watch?v=eD9XfZcY7o0](https://www.youtube.com/watch?v=eD9XfZcY7o0)
 

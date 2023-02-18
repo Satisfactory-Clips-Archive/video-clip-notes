@@ -9,7 +9,7 @@ topics:
 # [November 10th, 2020 Livestream](../2020-11-10.md)
 ## Q&A: Randomising nodes?
 https://www.youtube.com/watch?v=eTALbWgKmuE
-This question was possibly duplicated with a more recent answer: [December 20th, 2022 Livestream Q&A: Any plans for randomised Ore locations?](./yt-tLvqeGb5HIA.md) [https://www.youtube.com/watch?v=tLvqeGb5HIA](https://www.youtube.com/watch?v=tLvqeGb5HIA)
+This question was possibly duplicated with a more recent answer: [February 14th, 2023 Livestream Q&A: Is it even possible to fully randomise Resource nodes on the map?](./yt-DCgkVgcxTuA.md) [https://www.youtube.com/watch?v=DCgkVgcxTuA](https://www.youtube.com/watch?v=DCgkVgcxTuA)
 
 
 ### Topics

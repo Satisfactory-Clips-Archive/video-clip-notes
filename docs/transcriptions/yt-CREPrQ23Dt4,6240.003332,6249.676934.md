@@ -12,7 +12,7 @@ topics:
 # [November 15th, 2022 Livestream](../2022-11-15.md)
 ## Q&A: 128x128?
 https://youtube.com/clip/UgkxVEMmM6ftNOWCyhH64G-n2nwKO6WqauoC
-This question was possibly duplicated with a more recent answer: December 6th, 2022 Livestream Q&A: In the future, can the Blueprint Designer be enlarged? [https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6678&end=6743](https://youtube.com/embed/fVCw51TOHeA?autoplay=1&start=6678&end=6743)
+This question was possibly duplicated with a more recent answer: [February 14th, 2023 Livestream Q&A: Any plans to extend the Blueprint Designer to be bigger than 4x4?](./yt-KcwFoQZWFmA.md) [https://www.youtube.com/watch?v=KcwFoQZWFmA](https://www.youtube.com/watch?v=KcwFoQZWFmA)
 
 
 ### Topics

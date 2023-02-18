@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Equipment](../../../topics/features/equipment.md) > Gas Mask
 
+## February 14th, 2023 Livestream
+* [Q&A: Why does Gas Mask stop working when in Truck?](../../../transcriptions/yt-_e4CazslQSo.md) [https://www.youtube.com/watch?v=_e4CazslQSo](https://www.youtube.com/watch?v=_e4CazslQSo)
+
 ## May 24th, 2022 Livestream
 * [State of Dev](../../../transcriptions/yt-FYTbjlXLFp4.md) [https://www.youtube.com/watch?v=FYTbjlXLFp4](https://www.youtube.com/watch?v=FYTbjlXLFp4)
 * [Q&A: Will Mask & Hazmat suit work while driving?](../../../transcriptions/yt-itoJOUojUJo.md) [https://www.youtube.com/watch?v=itoJOUojUJo](https://www.youtube.com/watch?v=itoJOUojUJo)

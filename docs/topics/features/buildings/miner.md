@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > Miner
 
+## February 14th, 2023 Livestream
+* [Q&A: Can please explain the difficulty with fixing Belts & Pipes?](../../../transcriptions/yt-zbbsnx-fNoA.md) [https://www.youtube.com/watch?v=zbbsnx-fNoA](https://www.youtube.com/watch?v=zbbsnx-fNoA)
+
 ## January 31st, 2023 Livestream
 * [Q&A: Will the Mk.3 Miner issue be worked on?](../../../transcriptions/yt-QebwvKsk-f0.md) [https://www.youtube.com/watch?v=QebwvKsk-f0](https://www.youtube.com/watch?v=QebwvKsk-f0)
 

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Unplanned Features](../../../topics/features/unplanned-features.md) > VR
 
+## February 14th, 2023 Livestream
+* [Q&A: Can the game be played in VR one day?](../../../transcriptions/yt-XNNnC1hJliw.md) [https://www.youtube.com/watch?v=XNNnC1hJliw](https://www.youtube.com/watch?v=XNNnC1hJliw)
+
 ## January 24th, 2023 Livestream
 * [Q&A: Will you ever consider VR for Satisfactory?](../../../transcriptions/yt-8Cy8AQPkgAY.md) [https://www.youtube.com/watch?v=8Cy8AQPkgAY](https://www.youtube.com/watch?v=8Cy8AQPkgAY)
 

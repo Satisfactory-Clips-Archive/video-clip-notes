@@ -10,7 +10,7 @@ topics:
 # [March 1st, 2022 Livestream](../2022-03-01.md)
 ## Q&A: Can we keep the Gas Mask equipped while we're inside a Vehicle?
 https://www.youtube.com/watch?v=a9GuVZ_HAMU
-This question was possibly duplicated with a more recent answer: [May 24th, 2022 Livestream Q&A: Will Mask & Hazmat suit work while driving?](./yt-itoJOUojUJo.md) [https://www.youtube.com/watch?v=itoJOUojUJo](https://www.youtube.com/watch?v=itoJOUojUJo)
+This question was possibly duplicated with a more recent answer: [February 14th, 2023 Livestream Q&A: Why does Gas Mask stop working when in Truck?](./yt-_e4CazslQSo.md) [https://www.youtube.com/watch?v=_e4CazslQSo](https://www.youtube.com/watch?v=_e4CazslQSo)
 
 
 ### Topics

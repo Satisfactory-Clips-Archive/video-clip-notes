@@ -9,7 +9,7 @@ topics:
 # [April 20th, 2021 Livestream](../2021-04-20.md)
 ## Q&A: What's with the bug with the Gas Mask with the Truck?
 https://www.youtube.com/watch?v=GDthMsvmWaw
-This question was possibly duplicated with a more recent answer: [May 24th, 2022 Livestream Q&A: Will Mask & Hazmat suit work while driving?](./yt-itoJOUojUJo.md) [https://www.youtube.com/watch?v=itoJOUojUJo](https://www.youtube.com/watch?v=itoJOUojUJo)
+This question was possibly duplicated with a more recent answer: [February 14th, 2023 Livestream Q&A: Why does Gas Mask stop working when in Truck?](./yt-_e4CazslQSo.md) [https://www.youtube.com/watch?v=_e4CazslQSo](https://www.youtube.com/watch?v=_e4CazslQSo)
 
 
 ### Topics

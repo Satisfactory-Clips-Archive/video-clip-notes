@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Satisfactory Updates](../../topics/satisfactory-updates.md) > World Update
 
+## February 14th, 2023 Livestream
+* [Q&A: Will there be further improvements to the game?](../../transcriptions/yt-6EVy7srKVDQ.md) [https://www.youtube.com/watch?v=6EVy7srKVDQ](https://www.youtube.com/watch?v=6EVy7srKVDQ)
+
 ## February 7th, 2023 Livestream
 * [Q&A: Will there be Map changes in Update 8?](../../transcriptions/yt-guEuZBJWV3s.md) [https://www.youtube.com/watch?v=guEuZBJWV3s](https://www.youtube.com/watch?v=guEuZBJWV3s)
 

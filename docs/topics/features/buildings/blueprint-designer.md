@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > Blueprint Designer
 
+## February 14th, 2023 Livestream
+* [Q&A: Any plans to extend the Blueprint Designer to be bigger than 4x4?](../../../transcriptions/yt-KcwFoQZWFmA.md) [https://www.youtube.com/watch?v=KcwFoQZWFmA](https://www.youtube.com/watch?v=KcwFoQZWFmA)
+
 ## December 20th, 2022 Livestream
 * [Q&A: It would be nice for Blueprints to allow building outside before save so you can align things](../../../transcriptions/yt-U9x9BqnT2TM.md) [https://www.youtube.com/watch?v=U9x9BqnT2TM](https://www.youtube.com/watch?v=U9x9BqnT2TM)
 * [Q&A: Why can't I use Pipeline support in Blueprint Designer?](../../../transcriptions/yt-VAHFScYoaQY.md) [https://www.youtube.com/watch?v=VAHFScYoaQY](https://www.youtube.com/watch?v=VAHFScYoaQY)

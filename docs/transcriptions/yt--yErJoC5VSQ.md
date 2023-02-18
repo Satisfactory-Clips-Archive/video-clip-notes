@@ -10,7 +10,7 @@ topics:
 # [February 1st, 2022 Livestream](../2022-02-01.md)
 ## Q&A: What about the Fluid Sink?
 https://www.youtube.com/watch?v=-yErJoC5VSQ
-This question was possibly duplicated with a more recent answer: [July 5th, 2022 Livestream Q&A: Fluid Sink, when?](./yt-59nyJkLeYZA.md) [https://www.youtube.com/watch?v=59nyJkLeYZA](https://www.youtube.com/watch?v=59nyJkLeYZA)
+This question was possibly duplicated with a more recent answer: [February 14th, 2023 Livestream Q&A: Smart Splitters or Sinks for Fluids?](./yt-VzPdwAWnbLE.md) [https://www.youtube.com/watch?v=VzPdwAWnbLE](https://www.youtube.com/watch?v=VzPdwAWnbLE)
 
 
 ### Topics

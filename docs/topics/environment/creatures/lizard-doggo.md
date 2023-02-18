@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Creatures](../../../topics/environment/creatures.md) > Lizard Doggo
 
+## February 14th, 2023 Livestream
+* [Q&A: Can we tame or pet other fauna than the Lizard Doggo, like the Bean or an Elite Stinger?](../../../transcriptions/yt-0VbY1e0kPUI.md) [https://www.youtube.com/watch?v=0VbY1e0kPUI](https://www.youtube.com/watch?v=0VbY1e0kPUI)
+
 ## February 7th, 2023 Livestream
 * [Q&A: Please add hotdogs to the game?](../../../transcriptions/yt-N4WyQOsTd7g.md) [https://www.youtube.com/watch?v=N4WyQOsTd7g](https://www.youtube.com/watch?v=N4WyQOsTd7g)
 

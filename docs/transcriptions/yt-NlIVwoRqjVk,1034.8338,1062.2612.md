@@ -9,7 +9,7 @@ topics:
 # [May 15th, 2020 Q&A](../2020-05-15.md)
 ## Q&A: What is one item or equipment that some of the staff have wanted, but got canned for balancing?
 https://youtube.com/embed/NlIVwoRqjVk?autoplay=1&start=1034&end=1063
-This question was possibly duplicated with a more recent answer: [November 22nd, 2022 Livestream Q&A: You said we're never getting Pipes yet we got Pipes. When are we getting Base Defense?](./yt-nYL4xlSiPpU.md) [https://www.youtube.com/watch?v=nYL4xlSiPpU](https://www.youtube.com/watch?v=nYL4xlSiPpU)
+This question was possibly duplicated with a more recent answer: [February 14th, 2023 Livestream Q&A: Please make a main Game Mode where the monsters are much more aggressive?](./yt-lL-oo-BWQXg.md) [https://www.youtube.com/watch?v=lL-oo-BWQXg](https://www.youtube.com/watch?v=lL-oo-BWQXg)
 
 
 ### Topics

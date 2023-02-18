@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Save System](../../../topics/features/save-system.md) > Cloud Sync
 
+## February 14th, 2023 Livestream
+* [Q&A: Still hoping for Blueprints saved in Cloud Sync for GeForce Now use](../../../transcriptions/yt-aoxHEmPlBcg.md) [https://www.youtube.com/watch?v=aoxHEmPlBcg](https://www.youtube.com/watch?v=aoxHEmPlBcg)
+
 ## December 6th, 2022 Livestream
 * [Blueprint files](../../../transcriptions/yt-ST6V-a4u8Qs,433.1827591902395,451.5511095799354.md) [https://www.youtube.com/clip/UgkxqePVjiZAGMWtcM0V54DMrr8U2orMMjY8](https://www.youtube.com/clip/UgkxqePVjiZAGMWtcM0V54DMrr8U2orMMjY8)
 

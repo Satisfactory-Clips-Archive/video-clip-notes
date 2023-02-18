@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Coffee Stainer Karaoke
 
+## February 14th, 2023 Livestream
+* [Special Guest: İlayda](../../transcriptions/yt-niTXhJyCA1Q.md) [https://www.youtube.com/watch?v=niTXhJyCA1Q](https://www.youtube.com/watch?v=niTXhJyCA1Q)
+
 ## July 5th, 2022 Livestream
 * [Snutt Talk: Snutt Looks At Comments song](../../transcriptions/yt-vztYpHDX9uc.md) [https://www.youtube.com/watch?v=vztYpHDX9uc](https://www.youtube.com/watch?v=vztYpHDX9uc)
 * [Q&A: Stream end, when?](../../transcriptions/yt-JMlwaUCKYQ4.md) [https://www.youtube.com/watch?v=JMlwaUCKYQ4](https://www.youtube.com/watch?v=JMlwaUCKYQ4)

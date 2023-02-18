@@ -8,7 +8,7 @@ topics:
 # [March 9th, 2019 Livestream](../2019-03-09.md)
 ## Q&A: You can tame any native lifeform?
 https://www.youtube.com/watch?v=EnGMyJjYDdI
-This question was possibly duplicated with a more recent answer: [October 6th, 2020 Livestream Q&A: Any plans about new pets?](./yt-sLBqy5auRck.md) [https://www.youtube.com/watch?v=sLBqy5auRck](https://www.youtube.com/watch?v=sLBqy5auRck)
+This question was possibly duplicated with a more recent answer: [February 14th, 2023 Livestream Q&A: Can we tame or pet other fauna than the Lizard Doggo, like the Bean or an Elite Stinger?](./yt-0VbY1e0kPUI.md) [https://www.youtube.com/watch?v=0VbY1e0kPUI](https://www.youtube.com/watch?v=0VbY1e0kPUI)
 
 
 ### Topics

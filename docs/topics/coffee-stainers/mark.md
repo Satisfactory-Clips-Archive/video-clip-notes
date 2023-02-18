@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > Mark
 
+## February 14th, 2023 Livestream
+* [Q&A: We need Green Tech, make solar panels?](../../transcriptions/yt-F3dP0iAdf_g.md) [https://www.youtube.com/watch?v=F3dP0iAdf_g](https://www.youtube.com/watch?v=F3dP0iAdf_g)
+
 ## September 13th, 2022 Livestream
 * [Q&A: How do you decide what gets an Alt Recipe, and are there any items that won't get one?](../../transcriptions/yt-H5U1BtcMMIA.md) [https://www.youtube.com/watch?v=H5U1BtcMMIA](https://www.youtube.com/watch?v=H5U1BtcMMIA)
 

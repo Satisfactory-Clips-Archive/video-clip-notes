@@ -8,6 +8,8 @@ topics:
 # [February 7th, 2023 Livestream](../2023-02-07.md)
 ## Q&A: You guys going to address the bugs & crashes with Dedicated Servers?
 https://www.youtube.com/watch?v=LKCtShTuB70
+This question was possibly duplicated with a more recent answer: [February 14th, 2023 Livestream Q&A: ETA on fixes for Dedicated Servers?](./yt-I_ZyhORDZjg.md) [https://www.youtube.com/watch?v=I_ZyhORDZjg](https://www.youtube.com/watch?v=I_ZyhORDZjg)
+
 
 ### Topics
 * [Features > Multiplayer > Dedicated Servers](../topics/features/multiplayer/dedicated-servers.md)

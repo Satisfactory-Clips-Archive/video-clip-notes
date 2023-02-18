@@ -9,6 +9,9 @@ date: Last Modified
 * [Ray Tracing](../../topics/technology/graphics/ray-tracing.md)
 * [Ultrawide Monitors](../../topics/technology/graphics/ultrawide-monitors.md)
 
+## February 14th, 2023 Livestream
+* [Q&A: Will there be major improvement to FPS to be expected?](../../transcriptions/yt-mO46zRfJIn0.md) [https://www.youtube.com/watch?v=mO46zRfJIn0](https://www.youtube.com/watch?v=mO46zRfJIn0)
+
 ## February 7th, 2023 Livestream
 * [Q&A: Anyone else would want to have Foundations with the same texture all the way around?](../../transcriptions/yt-H9umBnVgXJM.md) [https://www.youtube.com/watch?v=H9umBnVgXJM](https://www.youtube.com/watch?v=H9umBnVgXJM)
 

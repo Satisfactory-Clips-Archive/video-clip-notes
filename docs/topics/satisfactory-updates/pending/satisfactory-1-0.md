@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Satisfactory Updates](../../../topics/satisfactory-updates.md) > [Pending](../../../topics/satisfactory-updates/pending.md) > Satisfactory 1.0
 
+## February 14th, 2023 Livestream
+* [Intro / State of Dev](../../../transcriptions/yt-Rh3fnKc4WfY.md) [https://www.youtube.com/watch?v=Rh3fnKc4WfY](https://www.youtube.com/watch?v=Rh3fnKc4WfY)
+
 ## February 7th, 2023 Livestream
 * [Q&A: How early does Coffee Stain Studios start thinking about what's next after Satisfactory 1.0?](../../../transcriptions/yt-3bYGyavB2Gs.md) [https://www.youtube.com/watch?v=3bYGyavB2Gs](https://www.youtube.com/watch?v=3bYGyavB2Gs)
 * [Q&A: Is there a release window for full release (1.0) ?](../../../transcriptions/yt-A8329yEox_A.md) [https://www.youtube.com/watch?v=A8329yEox_A](https://www.youtube.com/watch?v=A8329yEox_A)

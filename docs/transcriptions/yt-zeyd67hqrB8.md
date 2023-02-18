@@ -8,7 +8,7 @@ topics:
 # [March 1st, 2022 Livestream](../2022-03-01.md)
 ## Q&A: Any plans to improve general performance?
 https://www.youtube.com/watch?v=zeyd67hqrB8
-This question was possibly duplicated with a more recent answer: [November 22nd, 2022 Livestream Q&A: Will the game's performance be improved?](./yt-pBRKWVTG_ws.md) [https://www.youtube.com/watch?v=pBRKWVTG_ws](https://www.youtube.com/watch?v=pBRKWVTG_ws)
+This question was possibly duplicated with a more recent answer: [February 14th, 2023 Livestream Q&A: Will there be major improvement to FPS to be expected?](./yt-mO46zRfJIn0.md) [https://www.youtube.com/watch?v=mO46zRfJIn0](https://www.youtube.com/watch?v=mO46zRfJIn0)
 
 
 ### Topics

@@ -8,7 +8,7 @@ topics:
 # [December 20th, 2022 Livestream](../2022-12-20.md)
 ## Q&A: Can you tell us when we will hear about the next Update?
 https://www.youtube.com/watch?v=DqYCP5uIxRk
-This question was possibly duplicated with a more recent answer: [January 31st, 2023 Livestream Q&A: Timeframe for Update 8?](./yt-JX-sTD_N_vE.md) [https://www.youtube.com/watch?v=JX-sTD_N_vE](https://www.youtube.com/watch?v=JX-sTD_N_vE)
+This question was possibly duplicated with a more recent answer: [February 14th, 2023 Livestream Q&A: Can you tell us when you plan on giving us a date for Update 8?](./yt-hha5efOML7Q.md) [https://www.youtube.com/watch?v=hha5efOML7Q](https://www.youtube.com/watch?v=hha5efOML7Q)
 
 
 ### Topics

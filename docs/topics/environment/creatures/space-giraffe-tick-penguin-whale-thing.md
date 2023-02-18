@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Environment](../../../topics/environment.md) > [Creatures](../../../topics/environment/creatures.md) > Space Giraffe-Tick-Penguin-Whale Thing
 
+## February 14th, 2023 Livestream
+* [Q&A: Can we tame or pet other fauna than the Lizard Doggo, like the Bean or an Elite Stinger?](../../../transcriptions/yt-0VbY1e0kPUI.md) [https://www.youtube.com/watch?v=0VbY1e0kPUI](https://www.youtube.com/watch?v=0VbY1e0kPUI)
+
 ## September 13th, 2022 Livestream
 * [Q&A: Space-Giraffe burgers?](../../../transcriptions/yt-AbXttpJj74M.md) [https://www.youtube.com/watch?v=AbXttpJj74M](https://www.youtube.com/watch?v=AbXttpJj74M)
 

@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Fluids](../../../topics/features/fluids.md) > Pipes
 
+## February 14th, 2023 Livestream
+* [Q&A: Can please explain the difficulty with fixing Belts & Pipes?](../../../transcriptions/yt-zbbsnx-fNoA.md) [https://www.youtube.com/watch?v=zbbsnx-fNoA](https://www.youtube.com/watch?v=zbbsnx-fNoA)
+
 ## January 24th, 2023 Livestream
 * [Q&A: Mk.3 Miners, Mk.2 Pipes?](../../../transcriptions/yt-Fjkf1GJpYlw.md) [https://www.youtube.com/watch?v=Fjkf1GJpYlw](https://www.youtube.com/watch?v=Fjkf1GJpYlw)
 

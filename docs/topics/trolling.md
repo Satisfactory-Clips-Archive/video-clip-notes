@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../topics.md) > Trolling
 
+## February 14th, 2023 Livestream
+* [Q&A: Did I read your question?](../transcriptions/yt-IsnJFfJDIAc.md) [https://www.youtube.com/watch?v=IsnJFfJDIAc](https://www.youtube.com/watch?v=IsnJFfJDIAc)
+
 ## February 10th, 2023 Video
 * [Q&A: Do we really need this many Community Managers?](../transcriptions/yt-4acDdsEM1Uc,57.32,80.48.md) [https://youtube.com/clip/Ugkx5zRywosqqTKj0YP-ixxr9TYm1e2QuZIs](https://youtube.com/clip/Ugkx5zRywosqqTKj0YP-ixxr9TYm1e2QuZIs)
 

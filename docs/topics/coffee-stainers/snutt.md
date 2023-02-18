@@ -9,6 +9,10 @@ date: Last Modified
 * [Snutt Burger Time](../../topics/coffee-stainers/snutt/snutt-burger-time.md)
 * [Snutty Mays](../../topics/coffee-stainers/snutt/snutty-mays.md)
 
+## February 14th, 2023 Livestream
+* [Q&A: Are we going to get more Snutt epic/amazing thumbnails?](../../transcriptions/yt-0eIu_Ydxqys.md) [https://www.youtube.com/watch?v=0eIu_Ydxqys](https://www.youtube.com/watch?v=0eIu_Ydxqys)
+* [Q&A: Is it really cold where you are, Jace?](../../transcriptions/yt-heRhgnICgDc.md) [https://www.youtube.com/watch?v=heRhgnICgDc](https://www.youtube.com/watch?v=heRhgnICgDc)
+
 ## February 10th, 2023 Video
 * [Intro](../../transcriptions/yt-4acDdsEM1Uc,0,51.44.md) [https://youtube.com/clip/UgkxoN_LF-CgPHIbqLx8xN71pHsZfFHYYun_](https://youtube.com/clip/UgkxoN_LF-CgPHIbqLx8xN71pHsZfFHYYun_)
 * [Q&A: Do we really need this many Community Managers?](../../transcriptions/yt-4acDdsEM1Uc,57.32,80.48.md) [https://youtube.com/clip/Ugkx5zRywosqqTKj0YP-ixxr9TYm1e2QuZIs](https://youtube.com/clip/Ugkx5zRywosqqTKj0YP-ixxr9TYm1e2QuZIs)

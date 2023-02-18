@@ -11,7 +11,7 @@ topics:
 # [December 15th, 2020 Livestream](../2020-12-15.md)
 ## Q&A: Can we get turrets and more PvE?
 https://www.youtube.com/watch?v=sJnuRV0OGF0
-This question was possibly duplicated with a more recent answer: [November 22nd, 2022 Livestream Q&A: You said we're never getting Pipes yet we got Pipes. When are we getting Base Defense?](./yt-nYL4xlSiPpU.md) [https://www.youtube.com/watch?v=nYL4xlSiPpU](https://www.youtube.com/watch?v=nYL4xlSiPpU)
+This question was possibly duplicated with a more recent answer: [February 14th, 2023 Livestream Q&A: Please make a main Game Mode where the monsters are much more aggressive?](./yt-lL-oo-BWQXg.md) [https://www.youtube.com/watch?v=lL-oo-BWQXg](https://www.youtube.com/watch?v=lL-oo-BWQXg)
 
 
 ### Topics

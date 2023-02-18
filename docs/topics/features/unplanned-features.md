@@ -17,6 +17,9 @@ date: Last Modified
 * [Terraforming](../../topics/features/unplanned-features/terraforming.md)
 * [VR](../../topics/features/unplanned-features/vr.md)
 
+## February 14th, 2023 Livestream
+* [Q&A: We need Green Tech, make solar panels?](../../transcriptions/yt-F3dP0iAdf_g.md) [https://www.youtube.com/watch?v=F3dP0iAdf_g](https://www.youtube.com/watch?v=F3dP0iAdf_g)
+
 ## February 7th, 2023 Livestream
 * [Q&A: Any plans for growing danger in the game?](../../transcriptions/yt--uANI-vayGE.md) [https://www.youtube.com/watch?v=-uANI-vayGE](https://www.youtube.com/watch?v=-uANI-vayGE)
 * [Q&A: No resizing Machines to match Foundation sizes?](../../transcriptions/yt-E-wdAO5MXPM.md) [https://www.youtube.com/watch?v=E-wdAO5MXPM](https://www.youtube.com/watch?v=E-wdAO5MXPM)

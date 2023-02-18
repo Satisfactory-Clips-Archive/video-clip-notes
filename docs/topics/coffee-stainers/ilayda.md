@@ -1,8 +1,12 @@
 ---
 title: "İlayda"
+external_link: https://www.youtube.com/playlist?list=PLbjDnnBIxiEqkEjUcuv57s_DfvqYAnw0L
 date: Last Modified
 ---
 # [Topics](../../topics.md) > [Coffee Stainers](../../topics/coffee-stainers.md) > İlayda
+
+## February 14th, 2023 Livestream
+* [Special Guest: İlayda](../../transcriptions/yt-niTXhJyCA1Q.md) [https://www.youtube.com/watch?v=niTXhJyCA1Q](https://www.youtube.com/watch?v=niTXhJyCA1Q)
 
 ## February 10th, 2023 Video
 * [Intro](../../transcriptions/yt-4acDdsEM1Uc,0,51.44.md) [https://youtube.com/clip/UgkxoN_LF-CgPHIbqLx8xN71pHsZfFHYYun_](https://youtube.com/clip/UgkxoN_LF-CgPHIbqLx8xN71pHsZfFHYYun_)

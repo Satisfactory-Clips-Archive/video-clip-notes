@@ -10,6 +10,10 @@ date: Last Modified
 * [Non Flying Bird](../../topics/environment/creatures/non-flying-bird.md)
 * [Space Giraffe-Tick-Penguin-Whale Thing](../../topics/environment/creatures/space-giraffe-tick-penguin-whale-thing.md)
 
+## February 14th, 2023 Livestream
+* [Q&A: Can we tame or pet other fauna than the Lizard Doggo, like the Bean or an Elite Stinger?](../../transcriptions/yt-0VbY1e0kPUI.md) [https://www.youtube.com/watch?v=0VbY1e0kPUI](https://www.youtube.com/watch?v=0VbY1e0kPUI)
+* [Q&A: Please make a main Game Mode where the monsters are much more aggressive?](../../transcriptions/yt-lL-oo-BWQXg.md) [https://www.youtube.com/watch?v=lL-oo-BWQXg](https://www.youtube.com/watch?v=lL-oo-BWQXg)
+
 ## February 7th, 2023 Livestream
 * [Q&A: Any plans for growing danger in the game?](../../transcriptions/yt--uANI-vayGE.md) [https://www.youtube.com/watch?v=-uANI-vayGE](https://www.youtube.com/watch?v=-uANI-vayGE)
 * [Q&A: Could you give some info about the revamp of the Creature remains?](../../transcriptions/yt-llJeyL1axW8.md) [https://www.youtube.com/watch?v=llJeyL1axW8](https://www.youtube.com/watch?v=llJeyL1axW8)

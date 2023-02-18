@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Multiplayer](../../../topics/features/multiplayer.md) > Dedicated Servers
 
+## February 14th, 2023 Livestream
+* [Q&A: ETA on fixes for Dedicated Servers?](../../../transcriptions/yt-I_ZyhORDZjg.md) [https://www.youtube.com/watch?v=I_ZyhORDZjg](https://www.youtube.com/watch?v=I_ZyhORDZjg)
+
 ## February 7th, 2023 Livestream
 * [Q&A: You guys going to address the bugs & crashes with Dedicated Servers?](../../../transcriptions/yt-LKCtShTuB70.md) [https://www.youtube.com/watch?v=LKCtShTuB70](https://www.youtube.com/watch?v=LKCtShTuB70)
 

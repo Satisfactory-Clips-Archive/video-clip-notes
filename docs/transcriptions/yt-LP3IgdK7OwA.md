@@ -9,7 +9,7 @@ topics:
 # [September 21st, 2021 Livestream](../2021-09-21.md)
 ## Q&A: Will there be a thing like monsters attacking us in waves like in Factorio?
 https://www.youtube.com/watch?v=LP3IgdK7OwA
-This question was possibly duplicated with a more recent answer: [November 22nd, 2022 Livestream Q&A: You said we're never getting Pipes yet we got Pipes. When are we getting Base Defense?](./yt-nYL4xlSiPpU.md) [https://www.youtube.com/watch?v=nYL4xlSiPpU](https://www.youtube.com/watch?v=nYL4xlSiPpU)
+This question was possibly duplicated with a more recent answer: [February 14th, 2023 Livestream Q&A: Please make a main Game Mode where the monsters are much more aggressive?](./yt-lL-oo-BWQXg.md) [https://www.youtube.com/watch?v=lL-oo-BWQXg](https://www.youtube.com/watch?v=lL-oo-BWQXg)
 
 
 ### Topics

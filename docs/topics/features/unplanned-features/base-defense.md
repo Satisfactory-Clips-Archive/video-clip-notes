@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Unplanned Features](../../../topics/features/unplanned-features.md) > Base Defense
 
+## February 14th, 2023 Livestream
+* [Q&A: Please make a main Game Mode where the monsters are much more aggressive?](../../../transcriptions/yt-lL-oo-BWQXg.md) [https://www.youtube.com/watch?v=lL-oo-BWQXg](https://www.youtube.com/watch?v=lL-oo-BWQXg)
+
 ## January 27th, 2023 Video
 * [ChatGPT wants Resource shortages and Alien Invasions](../../../transcriptions/yt-wBWmXDPDpL8,829.629665,848.8813666666667.md) [https://youtube.com/clip/UgkxDa9SaX1W5C2FMTJuvEKLAXokPY3ja_PG](https://youtube.com/clip/UgkxDa9SaX1W5C2FMTJuvEKLAXokPY3ja_PG)
 

@@ -23,6 +23,9 @@ date: Last Modified
 * [Xeno-Zapper](../../topics/features/equipment/xeno-zapper.md)
 * [Zip Lines](../../topics/features/equipment/zip-lines.md)
 
+## February 14th, 2023 Livestream
+* [Q&A: Why does Gas Mask stop working when in Truck?](../../transcriptions/yt-_e4CazslQSo.md) [https://www.youtube.com/watch?v=_e4CazslQSo](https://www.youtube.com/watch?v=_e4CazslQSo)
+
 ## February 7th, 2023 Livestream
 * [Q&A: Wing-suit, when?](../../transcriptions/yt-jhcfDlqQ4IY.md) [https://www.youtube.com/watch?v=jhcfDlqQ4IY](https://www.youtube.com/watch?v=jhcfDlqQ4IY)
 

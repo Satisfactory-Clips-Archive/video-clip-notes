@@ -8,6 +8,9 @@ date: Last Modified
 * [Pumps](../../topics/features/fluids/pumps.md)
 * [Valves](../../topics/features/fluids/valves.md)
 
+## February 14th, 2023 Livestream
+* [Q&A: Smart Splitters or Sinks for Fluids?](../../transcriptions/yt-VzPdwAWnbLE.md) [https://www.youtube.com/watch?v=VzPdwAWnbLE](https://www.youtube.com/watch?v=VzPdwAWnbLE)
+
 ## November 22nd, 2022 Livestream
 * [Q&A: Could you implement the ability to see liquid in the Pipes?](../../transcriptions/yt-ZS3o4qfgHsc.md) [https://www.youtube.com/watch?v=ZS3o4qfgHsc](https://www.youtube.com/watch?v=ZS3o4qfgHsc)
 

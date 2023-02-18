@@ -5,6 +5,10 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Buildings](../../../topics/features/buildings.md) > AWESOME Sink
 
+## February 14th, 2023 Livestream
+* [Q&A: Smart Splitters or Sinks for Fluids?](../../../transcriptions/yt-VzPdwAWnbLE.md) [https://www.youtube.com/watch?v=VzPdwAWnbLE](https://www.youtube.com/watch?v=VzPdwAWnbLE)
+* [Q&A: Any chance we could get the ability to manually add items into the AWESOME Sink?](../../../transcriptions/yt-br-JuxCZfHA.md) [https://www.youtube.com/watch?v=br-JuxCZfHA](https://www.youtube.com/watch?v=br-JuxCZfHA)
+
 ## December 6th, 2022 Livestream
 * [Alien DNA Capsule](../../../transcriptions/yt-ST6V-a4u8Qs,27.2772505787037,95.0449520164373.md) [https://youtube.com/embed/ST6V-a4u8Qs?autoplay=1&start=27&end=96](https://youtube.com/embed/ST6V-a4u8Qs?autoplay=1&start=27&end=96)
 

@@ -8,7 +8,7 @@ topics:
 # [July 5th, 2022 Livestream](../2022-07-05.md)
 ## Q&A: Can the game support VR later?
 https://www.youtube.com/watch?v=A7toMdMe1sc
-This question was possibly duplicated with a more recent answer: [January 24th, 2023 Livestream Q&A: Will you ever consider VR for Satisfactory?](./yt-8Cy8AQPkgAY.md) [https://www.youtube.com/watch?v=8Cy8AQPkgAY](https://www.youtube.com/watch?v=8Cy8AQPkgAY)
+This question was possibly duplicated with a more recent answer: [February 14th, 2023 Livestream Q&A: Can the game be played in VR one day?](./yt-XNNnC1hJliw.md) [https://www.youtube.com/watch?v=XNNnC1hJliw](https://www.youtube.com/watch?v=XNNnC1hJliw)
 
 
 ### Topics

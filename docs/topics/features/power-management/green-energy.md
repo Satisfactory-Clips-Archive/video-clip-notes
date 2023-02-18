@@ -5,6 +5,9 @@ date: Last Modified
 ---
 # [Topics](../../../topics.md) > [Features](../../../topics/features.md) > [Power Management](../../../topics/features/power-management.md) > Green Energy
 
+## February 14th, 2023 Livestream
+* [Q&A: We need Green Tech, make solar panels?](../../../transcriptions/yt-F3dP0iAdf_g.md) [https://www.youtube.com/watch?v=F3dP0iAdf_g](https://www.youtube.com/watch?v=F3dP0iAdf_g)
+
 ## January 27th, 2023 Video
 * [ChatGPT wants Green Energy](../../../transcriptions/yt-wBWmXDPDpL8,799.0983,816.2154.md) [https://youtube.com/clip/UgkxrAepxMpgLC7dACHqXwFSi4Hl7i8eHgwH](https://youtube.com/clip/UgkxrAepxMpgLC7dACHqXwFSi4Hl7i8eHgwH)
 
