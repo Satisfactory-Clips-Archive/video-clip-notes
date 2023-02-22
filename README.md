@@ -1,3 +1,7 @@
+Deprecated repository, no longer updated.
+
+---
+
 # Video Clip Notes
 
 Markdown archive for clips of Satisfactory-related Coffee Stain Twitch Livestreams & YouTube videos.
